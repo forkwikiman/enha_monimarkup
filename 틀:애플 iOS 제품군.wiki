@@ -1,0 +1,8 @@
+||<#A6B1B7><-100><tablealign=center><font color=white> '''[[애플(기업)|<font color=white>Apple]]의 현행 모바일 제품군 및 [[iOS|<font color=white>iOS]] 사용 제품''' ||
+||<#BDBDBD> '''[[아이폰|<font color=white>iPhone]]''' ||<#ffffff><-3> [[아이폰/1세대|오리지널]], [[아이폰 3G|3G]], [[아이폰 3GS|3GS]], [[아이폰 4|4]], [[아이폰 4s|4s]], [[아이폰 5|5]], __[[아이폰 5s|5s]]/[[아이폰 5c|5c]]__, '''[[아이폰 6|6]]/[[아이폰 6 Plus|6 Plus]]''' ||
+||<#BDBDBD> '''[[iPod touch|<font color=white>iPod touch]]''' ||<-2><#ffffff> [[iPod touch/1세대|1세대]], [[iPod touch/2세대|2세대]], [[iPod touch/3세대|3세대]], [[iPod touch/4세대|4세대]], '''[[iPod touch/5세대|5세대]]''' ||
+||<#BDBDBD><|2> '''[[아이패드|<font color=white>iPad]]''' ||<#F6F6F6> 9.7인치 모델 ||<#ffffff> [[아이패드/1세대|1세대]], [[아이패드 2|2세대]], [[아이패드/3세대|3세대]], [[아이패드/4세대|4세대]], __[[아이패드 에어|Air]]__, '''[[아이패드 에어 2|Air 2]]''' ||
+||<#F6F6F6> mini(7.9인치) 모델 ||<#ffffff> __[[아이패드 미니|1]]__, __[[아이패드 미니 2|2]]__, '''[[아이패드 미니 3|3]]''' ||
+||<#BDBDBD> '''[[Apple TV|<font color=white>Apple TV]]''' ||<-2><#ffffff> [[Apple TV|~~1세대~~]](iOS 미사용 모델), [[Apple TV|2세대, '''3세대''']] ||
+||<#BDBDBD> '''[[애플 워치|<font color=white>Apple Watch]]''' ||<-2><#ffffff> ~~[[애플 워치|오리지널]]~~ ||
+||<#C7D4DB><-3> '''굵은 글씨'''는 최신 제품, __밑줄__은 구 모델이면서 애플스토어(세계 설정 기준)에서 단종되지 않은 제품.[[BR]]제품군의 순서는 출시 순서 및 iOS 채용 순서임. ||

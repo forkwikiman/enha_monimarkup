@@ -1,0 +1,66 @@
+ * [[동음이의어]]
+
+원래 의미는 환생. [[리인카네이션]] 항목도 참조하자.
+
+[[목차]]
+
+== [[BEMANI 시리즈]]의 악곡. ==
+작곡가는 [[dj TAKA]]. 그의 주력 장르인 트랜스 악곡 중에서 가장 먼저 선보인 악곡이다. 제목의 어원은 1. 이후 작품에서 선보이는 소위 dj TAKA식 트랜스 - 대표적으로 [[Colors]] - 와는 어딘지 모르게 다른 분위기의 악곡이라서 '트랜스 같지 않은 트랜스'라고 평하는 소리도 있었다. 하지만 그럼에도 불구하고 그의 몇몇 트랜스 장르 악곡에서 사용된 '테그데테그데-'하는 리듬과 [[피아노]]음의 활용 등에서 이후의 그의 악곡과 접점이 있기도 하다.
+
+=== [[beatmania IIDX]] ===
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/n55IBW6YkJI&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/n55IBW6YkJI&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 145 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 4}}} || {{{#blue 424}}} || {{{#orange 5}}} || {{{#orange 525}}} || {{{#red 7}}} || {{{#red 643}}} || {{{#blue 4}}} || {{{#blue 398}}} || {{{#orange 5}}} || {{{#orange 525}}} || {{{#red 7}}} || {{{#red 643}}} ||
+ * [[wiki:"비트매니아 IIDX/수록곡" 곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 3rd ~ 6th, 9th ~
+ * 가정용판 수록 : 3rd, 10th
+
+게임 내 난이도 면에서는 그렇게 어려운 편은 아니지만, [[.59]]에 이어 dj TAKA식 난타 구성을 계승한 특징을 지니고 있다. 싱글 하이퍼는 [[R3]] (SPH)을 제치고 AC DistorteD서부터 [[단위인정]] 3급의 보스로 배정되고 있다. 적당한 노트수와 적당한 난이도 덕에 CS 3rd Style의 완전해금을 하는데 추천되기도 한다.
+
+[[BGA]]는 [[VJ GYO]]가 제작하였는데, [[THE EARTH LIGHT]] - [[Indigo Vision]]에 이어 세 번째로 [[트란]]이 등장하였다. 곡의 소재를 반영하여 트란이 물가에서 앉아있다가 이공간에 빨려들어가 자신의 전생인 [[천사]]트란으로 모습이 변하여 [[악마]]와 싸우다 [[아시발꿈]]식으로 현실로 돌아오게 된다.
+
+처음으로 기본 복장 이외의 트란이 등장한 BGA이기도 하며 아무도 신경 쓰지 않는 사실이지만 [[판치라]] 비스무리한 장면이 나오기도 한다(……).
+
+=== [[비트매니아 III]] ===
+
+=== [[팝픈뮤직]] ===
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| ee'MALL 2nd avenue[[br]](pop'n music 10) || TRANCE[[br]]트랜스 || REINCARNATION || [[dj TAKA]] || TRAN[[br]][[트란]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 145 || 43단계 || {{{#blue 16}}} || {{{#green 18}}} || {{{#orange 25}}} || {{{#red 33}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 24}}} || {{{#orange 31}}} || {{{#red 39}}} ||
+|||| 노트수 || {{{#blue 362}}} || {{{#green 420}}} || {{{#orange 525}}} || {{{#red 643}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+== [오투잼] 시리즈의 수록곡 ==
+아티스트는 nao.paradigm. 
+
+attachment:/Reincarnation.PNG
+
+|||| Reincarnation ||
+|||| 난이도(온라인)||
+|| EZ || 05 ||
+|| NM || 17 ||
+|| HD || '''34''' ||
+
+|| 장르 || Etc.(온라인), Techno(Analog) ||
+|| 업뎃일자 || 2005년 8월 31일 ||
+|| BPM || 172 -> 62 -> 172(변속곡) ||
+|| 작곡 || nao.paradigm ||
+|| 일러스트 || LunaCy ||
+|| 패턴 제작자 || nao.paradigm ||
+
+
+오투잼 온라인에서는 소위 말하는 '''괴곡''' 중의 하나.
+Reincarnation이 환생이라는 의미인데, 이 이름이 여기서는 모순인게, 환생 따윈 없고 저속부분과(BPM 62) 저속부분이 끝난 직후의 연타가 진짜 악명높은 사망구간이다.
+
+백문이 불여일견. 직접 보자.
+{{{#!html 
+<iframe width="420" height="315" src="//www.youtube.com/embed/w2WPL6uT2Gk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+오투잼 온라인에서 "Ch.Free??"의 플레이 영상.

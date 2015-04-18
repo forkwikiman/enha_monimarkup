@@ -1,0 +1,66 @@
+{{{+1 Ligne 7 du métro de Paris / Paris Metro Line 7}}}
+ * [[철도 관련 정보]]
+||||||||||||<table align=center><#0000f9> [wiki:"파리 지하철" <span style="font-weight:bold;color:white">파리 지하철 운행 노선</span>] ||
+|| [[wiki:"파리 지하철 1호선"1호선]] || [[wiki:"파리 지하철 2호선"2호선]] || [[wiki:"파리 지하철 3호선"3호선]] || [[wiki:"파리 지하철 3bis선"3bis선]] || [[wiki:"파리 지하철 4호선"4호선]] || [[wiki:"파리 지하철 5호선"5호선]] ||
+|| [[wiki:"파리 지하철 6호선"6호선]] ||<#f59eb3> '''{{{#000000 7호선 }}}''' || [[wiki:"파리 지하철 7bis선"7bis선]] || [[wiki:"파리 지하철 8호선"8호선]] || [[wiki:"파리 지하철 9호선"9호선]] || [[wiki:"파리 지하철 10호선"10호선]] ||
+|| [[wiki:"파리 지하철 11호선"11호선]] || [[wiki:"파리 지하철 12호선"12호선]] || [[wiki:"파리 지하철 13호선"13호선]] || [[wiki:"파리 지하철 14호선"14호선]] || [wiki:"Orlyval" 오를리발] || [CDGVAL] ||
+
+[[목차]]
+== 개요 ==
+||||<#f59eb3> {{{#000000 파리 지하철 7호선}}} ||
+||운영기관 ||[[파리교통공사]](RATP)||
+||영업거리 ||18.6km[* 본선 라 쿠르뇌브 8 메 1945 역(La Courneuve-8 Mai 1945)↔매리 디브리 역(Mairie d'Ivry), 지선 라 쿠르뇌브 8 메 1945 역(La Courneuve-8 Mai 1945)↔빌쥐프 루이 아라공 역(Villejuif – Louis Aragon)] ||
+||궤간 ||1435㎜ ||
+||역수 ||38 ||
+||전기 ||직류 750V ||
+
+[[파리 지하철]]의 한 노선으로 파리 지하철 7호선 (Paris Metro Line 7)은 북쪽의 센생드니(Seine-Saint-Denis) 주 라 쿠르뇌브(La Courneuve) 라 쿠르뇌브 8 메 1945 역에서 남쪽의 발드마른 주(Val-de-Marne) 이브리쉬르센(Ivry-sur-Seine) 매리 디브리 역까지 잇는 본선과 파리 13구(13e arrondissement) 메종 블랑쉬 역에서 발드마른 주(Val-de-Marne) 빌쥐프(Villejuif) 빌쥐프 루이 아라공 역에 이르는 지선으로 이루어져 있는 총영업거리 18.6㎞의 노선이다. 이 노선의 노선색은 연한 분홍색이며 1910년 처음 개업하였다. 현재 [[파리교통공사]](RATP)가 운영하고 있다. 
+
+== 노선 ==
+attachment:노선도.jpg?width=650
+=== 본선 ===
+|| 한국어 명 || 프랑스어 명 || 환승노선 || 비고 ||
+|| 라 쿠르뇌브 8 메 1945 || La Courneuve-8 Mai 1945 || {{{#006cb8 ①}}} [[파리 트램 1호선]] ||  ||
+|| 포르 도베르빌리에 || Fort d'Aubervilliers ||  ||  ||
+|| 오베르빌리에 팡탱 카트르 슈맹 || Aubervilliers-Pantin-Quatre Chemins ||  ||  ||
+|| 포르트 드 라 빌레트(라 빌레트 과학관) || Porte de la Villette(Cité des Sciences et de l'Industrie) || {{{#008b5a ③b}}} [[파리 트램 3b선]] ||  ||
+|| --코렁탕--코헝탱 카히우 || Corentin Cariou ||  ||  ||
+|| 크리메 || Crimée || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 리케 || Riquet ||  ||  ||
+|| 스탈린그라드--음?-- || Stalingrad || {{{#0c6eb7 ●}}} [wiki:"파리 지하철 2호선" 2호선] [[br]] {{{#f68f4d ●}}} [wiki:"파리 지하철 5호선" 5호선] ||  ||
+|| 루이 블랑 || Louis Blanc || {{{#78c696 ●}}} [wiki:"파리 지하철 7bis선" 7bis선] ||  ||
+|| 샤토 랑동 || Château-Landon || {{{#ffa90d Ⓟ}}} [[트랑지리엥 P선]] [[br]] [TER] 피카르디 [[br]] [TER] 샹파뉴-아르덴 ||  ||
+|| [wiki:"파리 동역" 파리 동역(베르됭)] || Gare de l'Est(Verdun) || {{{#bb4b9c ●}}} [wiki:"파리 지하철 4호선" 4호선] [[br]] {{{#f68f4d ●}}} [wiki:"파리 지하철 5호선" 5호선][[br]] {{{#c760ad Ⓔ}}} [[RER E선]] [[br]] {{{#ffa90d Ⓟ}}} [[트랑지리엥 P선]] [[br]] [TER] 피카르디 [[br]] [TER] 샹파뉴-아르덴 ||  ||
+|| 푸아소니에르 || Poissonnière ||  ||  ||
+|| 카데 || Cadet ||  ||  ||
+|| 르 펠레티에 || Le Peletier ||  ||  ||
+|| 쇼세 당탱-라 파예트  || Chaussée d'Antin-La Fayette || {{{#cec82b ●}}} [wiki:"파리 지하철 9호선" 9호선] ||  ||
+|| 오페라 || Opéra || {{{#9b993a ●}}} [wiki:"파리 지하철 3호선" 3호선] [[br]] {{{#c5a3cc ●}}} [wiki:"파리 지하철 8호선" 8호선] [[br]] {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#c760ad Ⓔ}}} [[RER E선]] ||  ||
+|| 피라미드 || Pyramides || {{{#672f8f ●}}} [wiki:"파리 지하철 14호선" 14호선] ||  ||
+|| 팔레 루아얄 - 루브르 박물관 || Palais Royal-Musée du Louvre || {{{#ffcd09 ●}}} [wiki:"파리 지하철 1호선" 1호선] ||  ||
+|| 퐁 뇌프 || Pont Neuf ||  ||  ||
+|| [wiki:"샤틀레-레알 역" 샤틀레] || Châtelet || {{{#ffcd09 ●}}} [wiki:"파리 지하철 1호선" 1호선] [[br]] {{{#bb4b9c ●}}} [wiki:"파리 지하철 4호선" 4호선] [[br]] {{{#8d663a ●}}} [wiki:"파리 지하철 11호선" 11호선] [[br]] {{{#672f8f ●}}} [wiki:"파리 지하철 14호선" 14호선] [[br]] {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#537db9 Ⓑ}}} [[RER B선]] [[br]] {{{#18964c Ⓓ}}} [[RER D선]] ||  ||
+|| 퐁 마리 || Pont Marie ||  ||  ||
+|| 쉴리 모를랑 || Sully-Morland ||  ||  ||
+|| 쥐시외 || Jussieu || {{{#e0b03a ●}}} [wiki:"파리 지하철 10호선" 10호선] ||  ||
+|| 플라스 몽주(프랑스 파리 식물원 – 원형경기장) || Place Monge(Jardin des Plantes – Arènes de Lutèce) ||  ||  ||
+|| 상시에 - 도방통 || Censier-Daubenton ||  ||  ||
+|| 레 고블랭  || Les Gobelins ||  ||  ||
+|| 플라스 디탈리 || Place d'Italie || {{{#f68f4d ●}}} [wiki:"파리 지하철 5호선" 5호선] [[br]] {{{#78c696 ●}}} [wiki:"파리 지하철 6호선" 6호선] ||  ||
+|| 톨비악 || Tolbiac ||  ||  ||
+|| 메종 블랑쉬 || Maison Blanche || 빌쥐프 지선 ||  ||
+|| 포르트 디탈리 || Porte d'Italie || {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+|| 포르트 드 슈아지 || Porte de Choisy || {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+|| 포르트 디브리 || Porte d'Ivry || {{{#f68c59 ③a}}} [[파리 트램 3a선]] || [wiki:"파리 오를리 공항" 오를리(버스 183번)] ||
+|| 피에르 에 마리 퀴리 || Pierre et Marie Curie ||  ||  ||
+|| 매리 디브리 || Mairie d'Ivry ||  ||  ||
+=== 빌쥐프 지선 ===
+|| 한국어 명 || 프랑스어 명 || 환승노선 || 비고 ||
+|| 메종 블랑쉬 || Maison Blanche || 빌쥐프 본선 ||  ||
+|| 르 크레믈린 비세트르 || Le Kremlin-Bicêtre || {{{#006cb8 ①}}} [[파리 트램 1호선]] ||  ||
+|| 빌쥐프 - 레오 라그랑주 || Villejuif – Léo Lagrange ||  ||  ||
+|| 빌쥐프 - 폴 바이앙 쿠튀리에(폴 브루스 병원) || Villejuif – Paul Vaillant-Couturier(Hôpital Paul Brousse) ||  ||  ||
+|| 빌쥐프 루이 아라공 || Villejuif – Louis Aragon || {{{#b98b59 ⑦}}} [[파리 트램 7호선]] ||  ||
+
+
+[[각주]]

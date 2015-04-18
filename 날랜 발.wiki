@@ -1,0 +1,15 @@
+Hustle.
+
+
+[[던전 앤 드래곤 시리즈]]에 등장하는 [wiki:"초능력(던전 앤 드래곤 시리즈)" 초능력](Psionic Power)이다.
+[[D&D 3.5]]에서 등장하며, 3레벨 신체 강화(Psychometabolism) 계열 Egoist 학파 초능력, 그리고 2레벨 [[사이킥 워리어]] 전용 초능력이다.
+
+초능력 기본서인 Expanded Psionics Handbook(XPH)에 등장하였고, d20 SRD에 [http://www.d20srd.org/srd/psionic/powers/hustle.htm 수록되어있다].
+
+시전하면 신속 행동(Swift Action)을 소모해서 이동 행동(Move Action)을 얻는다.
+풀-라운드 공격을 행한 후에도 시전해서 추가로 이동 행동을 얻을 수 있다.
+
+
+이동 행동을 한번 더 취하게 해주는 초능력. 모든 캐릭터는 기본적으로 일반 행동(Standard Action), 이동 행동(Move Action), 신속 행동(Swift Action) 하나씩을 얻는데, 이 신속 행동을 이동 행동으로 변환시키는 초능력이다. 
+
+한번 이동한 후 풀-라운드 행동을 하거나, 도망쳐야 할 때 두번 이동하거나[* 공격을 포기한다고 하면 일반 행동(Standard Action)을 이동 행동처럼 쓰고 달려서 이동 행동 한번마다 2배의 속도로 움직일 수 있는데, 여기에 날랜 발까지 쓰면 1턴에 평상시 속도의 6배까지 달릴 수 있다. ~~이 짓을 몽크가 하면 [[우사인 볼트]]보다 3배까지 빨라진다~~], [http://www.d20srd.org/srd/psionic/psionicFeats.htm#psionicMeditation Psionic Meditation] 재주와 합쳐서 정신 집중을 하는 등 쓸모가 아주 많다. 이동 후 풀-라운드 공격을 할 수 있게 해주는 수단으로도 자주 쓰인다.

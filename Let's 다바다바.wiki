@@ -1,0 +1,53 @@
+'''Let's ダバダバ'''
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/61MhqWW-KRL._SL500_AA300_.jpg
+이 곡이 수록된 앨범 <Oh!No!It’s Heavy Polysick!!!>의 자켓
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=FF75DFDB253CA390B6AE3294291A23087540&outKey=V1275ee6140efb29827acbb8435a1158a172a252c3af3be9b5995bb8435a1158a172a" frameborder="no" scrolling="no"></iframe>
+}}}
+공식 PV ~~이게 뭐야~~
+
+[[POLYSICS]]의 곡으로, 2011년 3월 9일에 발매된 11번째 앨범 <Oh!No!It’s Heavy Polysick!!!>에 3번 트랙으로 수록되어 있다. 후렴구의 '다다다 다바 다바다바~~'하는 가사와 멜로디가 묘하게 중독성 있는 곡이다.
+
+[[TV 도쿄]]의 [[포켓몬스터]]관련 버라이어티 프로그램(애니메이션은 아니다)인 '포켓몬 스매시!'의 삽입곡으로 사용되었다고 한다. 
+
+== [[BEMANI 시리즈]]에 수록 ==
+attachment:6_copious_letsdabadaba.png
+
+[[유비트 코피어스]]와 [[리플렉 비트 라임라이트]]에서 커버보컬로 수록되었다.
+
+=== [[유비트 시리즈]] ===
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>9||
+||<#ffffff><:>노트수||<:>234||<:>482||<:>763||
+||<#ffffff><:>BPM||||||<:>169||
+||<#ffffff><:>곡 이력||||||[[유비트 코피어스]]에서 첫 수록[[BR]][[유비트 플러스]]에서 copious pack 01에 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/o2fa4XBF-yc" frameborder="0" allowfullscreen></iframe>
+}}}
+익스트림 [[엑설런트]] 영상
+
+4번의 대회전이 포인트. 긁기만 잘 하면 풀콤보 자체는 9렙곡들 가운데서 어렵지 않은 편이지만 스코어링을 위해선 회전 타이밍을 잘 잡아야 한다. 베이직은 엑설런트 추천 보면.
+
+=== [[리플렉 비트 시리즈]] ===
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/hPbouuFbl7c?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hPbouuFbl7c?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+하드 패턴 AAA+ 영상
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2>169 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 6}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 218}}} || {{{#orange 328}}} || {{{#red 433}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]]||
+
+유비트에서의 악랄한 대회전은 롱 노트로 처리되었지만 그 앞부분의 12분 트릴에서 당황하기 쉬우니 주의하자. 

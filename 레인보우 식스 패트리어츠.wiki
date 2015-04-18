@@ -1,0 +1,28 @@
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/eMbSlTz2ZTQ?version=3&feature=player_embedded"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/eMbSlTz2ZTQ?version=3&feature=player_embedded" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>}}}
+VGA 2011 데뷔 트레일러
+
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/FhVWTtrZOa0?version=3&feature=player_embedded"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/FhVWTtrZOa0?version=3&feature=player_embedded" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object> }}}
+유출된 '컨셉' 플레이 영상 '''※실제 플레이 영상이 아니다. 끔찍한 테러 묘사가 포함되어 있으니 주의할 것.'''
+~~이대로 발매되었다면 [[No Russian]] 따위는 애들 장난으로 보이게 만들 어마어마한 논란이 일었을 것으로 예상된다.~~
+
+'''Rainbow Six: Patriots'''
+
+[[레인보우 식스 시리즈]]의 여섯번째 작품이 될 예정이었으나 취소된 작품.
+2011년 컨셉으로 만든 게임 플레이 영상이 유출되면서 그 윤곽을 드러냈었다.
+
+원래는 [XBOX 360], [PS3], [PC] 등의 기종에서 나올 예정이었으나, 차세대기로 이식한다고 한다. 그리고 2013년부터는, [[스플린터 셀: 컨빅션]] 때처럼 아예 다 엎고 다시 제작중이라고 한다. --[듀크 뉴켐 포에버]를 [wiki:"물 같은 걸 끼얹나" 끼얹나?]--
+
+[톰 클랜시]가 별세함에 따라 [[더 디비전]]과 함께 톰 클랜시의 유작이 될 뻔 했으나...
+
+2014년 6월 9일에 E3에서 신작 [[레인보우 식스 시즈]]의 발표와 함께 취소되었음이 알려졌다.
+
+== 발매 전 정보~~고인~~ ==
+아직까진 아트워크나 트레일러 외엔 드러난 정보가 별로 없기 때문에 어디까지나 추측성 정보가 대부분이다. 컨셉 아트에 드러난 장비로 보아 근미래를 배경으로 하는것으로 보인다.
+
+=== 스토리 ===
+VGA 2011 데뷰 트레일러로 추측해보건데 게임에 등장하는 주요 [[테러리스트]]들은 놀랍게도 세계 금융 위기 이후 정부가 경제 살리라고 지원한 구제금을 보너스 등으로 빼돌려 자신들의 배를 채우는데 쓴 [월 가]의 자본가들을 응징하려하는 '''[[미국]] 자국민'''들이다. 자신들을 스스로 '''진정한 애국자(True patriots)'''라 지칭하고 있다.

@@ -1,0 +1,92 @@
+ * 상위 항목: [[FREMM급]], [[호위함]], [프랑스 해군]
+
+http://i.imgur.com/w8CFsw5.jpg
+
+[[목차]]
+
+|||| 제원 ||
+||가격 ||5조8천억 원(이탈리아 FREMM급 10척의 총 가격; 척당 5,800억 원) ||
+||건조 시작 ||[2007년] ||
+||진수 ||[2010년] [4월 29일] ||
+||취역 ||[[2012년]] [11월 23일] ||
+||배수량 ||6,000톤 ||
+||길이 ||142 m (466 ft) ||
+||폭 ||20 m (66 ft) ||
+||흘수 ||5 m (16 ft) ||
+||속력 ||27+ 노트 (50 km/h (31 mph)) ||
+||행동반경 ||11,000 km (15노트 운항시) ||
+||승무원 ||145
+명 ||
+
+== 개요 ==
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/ZvzGzAIJ30A" frameborder="0" allowfullscreen></iframe>}}}
+{{| DCNS - FREMM Multi-Mission Stealth Frigate Combat Simulation (1080p) |}}
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/JggBfKPvPiE" frameborder="0" allowfullscreen></iframe>}}}
+{{| Frégate multimissions Fremm Aquitaine à New York |}}
+아퀴텐급은 프랑스에서 계획하는 신형 호위함이다. 이것은 [포미더블급]에도 장착된 [헤라클레스 다기능 위상배열 레이더]를 사용한다. 헤라클레스 레이더는 프랑스에서 개발한 단면 선회식 위상배열 레이더이다. 총 11척이 건조될 계획인 이 호위함은 만재 배수량이 6,000여톤에 달한다. 배수량만을 보면 실제 [구축함]급이란 것을 알 수가 있다. 크기 뿐만 아니라 성능이나 화력, [대공 미사일] 또한 구축함급이다. 일본의 자체건조 준[이지스]함인 [아키즈키급]이나 소형 이지스함인 [프리드요프 난센급]과 동등한 성능을 가질 것으로 예상된다. [2013년]까지 확인되는 정보로 비교한다면 이탈리아의 FREEM급과 차이나는 점은 레이더와 배수량이다. 전체적으로 크기도 미세하게 작다. 이탈리아는 자국산 레이더인 1면 선회식 [EMPAR] [AESA]를 장착한다. 거기다가 이탈리아의 FREEM급은 배수량이 600여톤이 더 나가며 [베르가미니급](Bergamini-class)이란 자체 명칭을 가지고 있다. 프랑스에서 건조되는 초기 7척(프랑스 6척, 모나코 1척)은 대잠형(ASW)으로 건조될 예정이다. 물론 대잠형이지만 충실한 대공무장과 대함미사일이 장착되어 기본적으로 다목적함이라 할 수 있다. 이탈리아의 GP형 베르가미니급은 127mm 오토브레다 함포 1기와 76mm 오토브레다 슈퍼레피드 함포 1기를 장비하고 있어 76mm 1기만을 장착한 프랑스의 대잠형과 차이가 있다. 이탈리아는 대잠형의 경우에도 76mm 함포를 2기나 장비하고 있어 대지상 화력에 집중하고 있다. 베르가미니급이나 아퀴텐급 모두 [위상배열 레이더]를 이용한 기본적인 동시교전 능력은 10여개 정도다. 하지만 [아스터 미사일]의 [발사후 망각] 방식을 이용하면 30 ~ 50여개의 공중표적에 대하여 대응할 수 있다.
+
+http://upload.wikimedia.org/wikipedia/commons/0/02/FS_CDG_aster.jpg?width=600
+{{| Sylver Vertical Launching System |}}
+[VLS]는 SYLVER  A43이란 체계를 16[셀] 사용한다. 이것은 [아스터 미사일|아스터 15]를 장착하고 발사하는데 이용된다.
+== 무장과 장비 ==
+=== 아퀴텐급, 베르가미니급 공통 ===
+|||| 전체 FREMM급 공통 ||
+||어뢰 ||MU 90 ||
+||어뢰 기만 ||SLAT 대어뢰 시스템 ||
+||선저장착 [소나] ||[탈레스] UMS 4410 CL ||
+||견인 소나 ||[탈레스] UMS 4249 CAPTAS4 ||
+||교란기 ||Sigen RECM 재머 x 2 ||
+||QPD ||SOFRESUD x 2 ||
+
+=== 아퀴텐급 전용 ===
+|||| 아퀴텐급 전용 무장과 장비 ||
+||다목적 [위상배열 레이더] ||1면 선회식 [헤라클레스 다기능 위상배열 레이더] ||
+||대수상/항법 레이더 ||Terma Scanter 2001 ||
+||IRST(적외선 탐지 및 추적장치) ||[탈레스] [아르테미스] ||
+||전투체계 ||세치스(SETIS) ||
+||화력관제 시스템 ||Sagem Najir(76mm 함포용) ||
+||헬기관제 시스템 ||Samahé ||
+||함포 ||오토브레다 76mm 슈퍼 레피드 함포 x 1 ||
+||[대공 미사일] ||SYLVER A43 VLS 16셀; [아스터 미사일|아스터 15 미사일] x 16 ||
+||장거리 [순항 미사일] ||Sylver A70  VLS 16셀: SCALP([스톰 셰도우 순항 미사일][* http://en.wikipedia.org/wiki/Storm_Shadow]: 사거리 500~1,000km) 해상형 순항 미사일 x 16 ||
+||대지, [대함 미사일] ||MM-40 [엑조세] block 3 x 8 ||
+||무인 기관포(원격조종) ||Nexter 20mm Narwhal x 3 ||
+||디코이 ||NGDS 런처 ||
+
+== 동형함 ==
+=== [프랑스] ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fr%C3%A9gate_Aquitaine_2.jpg/640px-Fr%C3%A9gate_Aquitaine_2.jpg
+
+|||||||||||||| Heracles MFR급: 프랑스의 [[FREMM급]] 전투함 ||
+|| 계획 || 종류 || 이름 || 건조 시작 || 진수 || 취역 || 모항 ||
+||D650 ||ASW ||Aquitaine ||[[2007년]] ||[2010년] [4월 29일] ||[[2012년]] [11월 23일] ||Brest ||
+||D651 ||ASW ||Normandie ||[[2009년]] || ||[[2014년]] [5월] ||Brest ||
+||D652 ||ASW ||Provence ||[[2010년]] || ||[[2015년]] [5월] ||Toulon ||
+||D653 ||ASW ||Languedoc ||[[2011년]] || ||[[2016년]] [[1월]] ||Toulon ||
+||D654 ||ASW ||Auvergne || || ||[[2016년]] [12월] ||Toulon ||
+||D655 ||ASW ||Alsace  || || ||[[2017년]] [9월] ||Toulon ||
+||D656 ||FREDA  ||Bretagne || || ||[[2018년]] [6월] ||Brest ||
+||D657 ||FREDA  ||Lorraine || || ||[[2019년]] [5월] ||Brest ||
+||D6.. ||FREDA ||알수없음 || || ||[[2020년]] [5월] ||Brest ||
+||D6.. ||FREDA ||알수없음 || || ||[[2021년]] [5월] ||Toulon ||
+||D6.. ||FREDA ||알수없음 || || ||[[2022년]] [5월] ||Toulon ||
+
+{{| 프랑스의 FREMM급은 싱가포르의 [포미더블급]과 같은 헤라클레스 [위상배열 레이더]를 장비했다. |}}
+
+=== [모로코] 해군의 [[헤라클레스]]급 레이더가 장착된 FREMM급 ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/FREMM_Mohammed_VI_-_Lorient_2013-05.JPG/640px-FREMM_Mohammed_VI_-_Lorient_2013-05.JPG
+{{| [모로코 해군]의 아퀴텐급 |}}
+|||||||||||||| 모나코의 아퀴텐급 ||
+|| 계획 || 종류 || 이름 || 건조 시작 || 진수 || 취역 || 모항 ||
+||701 ||ASM ||Mohammed VI ||[[2008년]] ||[2012년] ||[2013년] ||Ksar es Seghir ||
+
+== 관련 문서 ==
+[http://fr.wikipedia.org/wiki/Aquitaine_(fr%C3%A9gate) (불어 위키백과)Aquitaine (frégate)]
+[http://en.wikipedia.org/wiki/FREMM (영어 위키백과) http://en.wikipedia.org/wiki/FREMM]
+
+== 관련 항목 ==
+ * [해상 병기/현대전]
+
+[작성중]

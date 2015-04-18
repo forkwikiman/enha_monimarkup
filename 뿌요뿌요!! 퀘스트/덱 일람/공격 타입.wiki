@@ -1,0 +1,407 @@
+ * 상위항목 : [[뿌요뿌요!! 퀘스트]], [[뿌요뿌요!! 퀘스트/덱 일람]]
+
+||||||||<table align=center><#C0C0C0> 타입별 분류 덱 ||||<#C0C0C0> 개별 분류 덱 ||
+||'''공격 타입'''||[[뿌요뿌요!! 퀘스트/덱 일람/밸런스 타입|밸런스 타입]]||[[뿌요뿌요!! 퀘스트/덱 일람/체력 타입|체력 타입]]||[[뿌요뿌요!! 퀘스트/덱 일람/회복 타입|회복 타입]]||[[뿌요뿌요!! 퀘스트/덱 일람/개별 이벤트, 특별 가챠 카드|개별 이벤트, 특별 가챠 카드]]||[[뿌요뿌요!! 퀘스트/덱 일람/특전 카드|특전 카드]]||
+
+[[목차]]
+== 파프 다람쥐 시리즈 (パプリスシリーズ)[* '''파프리카''' + '''리스'''(일본어로 '다람쥐').] ==
+||||||||||||||||<#FF3636> '''빨간색 파프 다람쥐''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100101_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100102_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100103_m.png?width=100||
+||||||||||||||||<#489CFF> '''파란색 파프 다람쥐''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200101_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200102_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200103_m.png?width=100||
+||||||||||||||||<#1DDB16> '''초록색 파프 다람쥐''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300101_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300102_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300103_m.png?width=100||
+||||||||||||||||<#FFD700> '''노란색 파프 다람쥐''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400101_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400102_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400103_m.png?width=100||
+||||||||||||||||<#A566FF> '''보라색 파프 다람쥐''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500101_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500102_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500103_m.png?width=100||
+
+||레어도||☆1~3||
+||카드 타입||공격타입, 단일||
+||스킬||같은 색 속성의 전체 공격(1배)(☆3부터)[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||없음||
+||코스트||1,3,5||
+||변신합성||☆2부터 자신의 속성 소형뿌요 필요||
+
+퀘스트 오리지널 몬스터군. 초반부에 흔히 만나볼 수 있는 잡몹들이자 최약체. 능력치도 형편없고 리더 스킬도 없으며, 스킬 또한 마도학교 시리즈 주인공들의 완벽한 하위호환이다. 극 저렙때나 잠깐 쓰다가 경험치 소재로 전락할 운명이다. --가끔 코스트 1이라고 키워서 끼워넣는 변태 플레이어들이 있긴하다--
+
+대사를 보면 서로를 못 잡아먹어서 안달인 듯한데("아, 몰래 (다른 속성) 파프 다람쥐를 합성 재료로 삼으려고 했는데!"), 정작 전용 콤비네이션인 '파프 다람쥐 콤비네이션'이 존재한다. 물론 효과는 너무 미미해서 기대하기 어렵다. 이외에 동물과 식물 콤비네이션 둘 다 속한다.
+
+== 차 가마솥 너구리 시리즈 (チャガマシリーズ)[* 茶釜(ちゃがま): 다도에서 찻물을 끓이는 솥] ==
+||||||||||||||||<#FF3636> '''선홍색 차 가마솥''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100501_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100502_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100503_m.png?width=100||
+||||||||||||||||<#489CFF> '''하늘색 차 가마솥''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200501_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200502_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200503_m.png?width=100||
+||||||||||||||||<#1DDB16> '''풀색 차 가마솥''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300501_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300502_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300503_m.png?width=100||
+||||||||||||||||<#FFD700> '''황금색 차 가마솥''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400501_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400502_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400503_m.png?width=100||
+||||||||||||||||<#A566FF> '''등나무색 차 가마솥''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500501_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500502_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500503_m.png?width=100||
+
+||레어도||☆1~3||
+||카드 타입||공격타입, 단일||
+||스킬||필드 위 하트박스를 본 카드의 속성 뿌요로 변환(☆3부터)[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||없음||
+||코스트||2,4,7||
+||변신합성||☆2부터 자신의 속성 소형뿌요 + 대형뿌요 필요, ☆3은 자신의 속성 딱딱뿌요 추가 필요||
+
+퀘스트 오리지널 몬스터군. 파프 다람쥐 시리즈와 함께 초반부 잡몹을 담당한다. 스킬이 퍼즐앤드래곤의 공격 태세와 동일하여 파프 다람쥐보다는 좀 더 나은 편. 하지만 역시 파프 다람쥐와 함께 갈리는 신세다.
+
+파프 다람쥐들처럼 자신들만의 고유 콤비네이션이 존재하고, '동물' 콤비네이션에도 해당한다.
+
+== 동물 시리즈 (どうぶつシリーズ) ==
+||||||||||||||||<#FF3636> '''[[전갈맨]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100802_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100803_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img100805_m.png?width=100||
+||||||||||||||||<#489CFF> '''[아울베어#s-2|아울베어]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200802_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200803_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img200805_m.png?width=100||
+||||||||||||||||<#1DDB16> '''[[사무라이 모올]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300802_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300803_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img300805_m.png?width=100||
+||||||||||||||||<#FFD700> '''[[쌍둥이 캣토시]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400802_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400803_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img400805_m.png?width=100||
+||||||||||||||||<#A566FF> '''[코카트리스#s-4|코카트리스]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500802_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500803_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img500805_m.png?width=100||
+
+||레어도||☆2~5||
+||카드 타입||공격타입, 단일||
+||스킬||상대 하나에게 고정 대미지(최대 10000)(☆3부터)[[br]]발동조건: 자신의 색 뿌요 30개 제거||
+||리더스킬||덱의 전체카드 공격력업(☆4부터)||
+||코스트||4,7,10,16||
+||변신합성||☆5부터 방해뿌요+뿌요젤리가 필요||
+
+소환포인트 가챠 및 퀘스트로 획득 가능.
+
+능력치는 그저 그렇다. 액티브는 퍼즐앤드래곤의 고정 대미지 계열 스킬과 동일하다. 이 게임에는 방어력 개념이 없지만 모든 속성 공격 면역인 상대에게도 대미지를 줄 수 있다. 또한 스킬 발동에 필요한 뿌요 개수가 30개로 가장 적은 축에 속한다. 한정카드로 나온 다른 고정 대미지 계열도 같다. 다만 그쪽은 스킬 대미지를 더 준다.
+
+== 마도학교 시리즈 (魔導学校シリーズ) ==
+||||||||||||||||<#FF3636> '''[[아미티]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img101002_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img101003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img101004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img101005_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img101006_m.png?width=100||
+||||||||||||||||<#489CFF> '''[[시그(뿌요뿌요 시리즈)|시그]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img201002_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img201003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img201004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img201005_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img201006_m.png?width=100||
+||||||||||||||||<#1DDB16> '''[[리델(뿌요뿌요 시리즈)|리델]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img301002_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img301003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img301004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img301005_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img301006_m.png?width=100||
+||||||||||||||||<#FFD700> '''[[라피나]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img401002_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img401003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img401004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img401005_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img401006_m.png?width=100||
+||||||||||||||||<#A566FF> '''[[크루크(뿌요뿌요 시리즈)|크루크]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img501002_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img501003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img501004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img501005_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img501006_m.png?width=100||
+
+||레어도||☆2~6||
+||카드 타입||공격타입, 단일||
+||스킬||같은 색 속성의 전체 공격(최대 '''5배''')(☆2부터)[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||같은 색 속성의 공격력 업(☆2부터)||
+||코스트||6,8,14,20,28||
+||변신합성||☆6부터 뿌요젤리+전용재료(100점 시험지)가 필요||
+
+한국, 일본판 상관 없이 모든 종류의 가챠에서 등장하고, 특정 모험 맵의 보스가 일정 확률로 드랍한다.
+
+입수 난이도와 육성 난이도는 최저를 달리면서도 스탯, 스킬, 리더 스킬 모두 준수하다. --세가 시리즈의 주인공답게 팍팍 밀어준다-- 인플레가 계속되는 일본에서도 여전히 단색덱에서 중요한 입지를 차지하는, 그야말로 뿌요뿌요!! 퀘스트의 기준--이자 기초수급--이라 할 수 있는 카드이다.
+
+레어도가 ☆2부터 존재해서 소환P 뽑기에서도 나오고, 아미티, 시그, 리델은 처음 선택할 때 하나를 가지고 시작할 수 있으며, 심지어는 모험의 특정 맵에서 드랍까지 하기 때문에 입수 난이도는 가히 최저라고 말할 수 있다. 그리고 혹여나 낮은 레어도의 마도학교를 획득했다 하더라도 ☆5까진 뿌요만으로 변신시킬 수 있어서 육성 난이도 역시 최저. ☆6으로 변신시킬 때 필요한 100점 시험지는 특수 재료 찾기의 완전 매운맛에서만 아주 낮은 확률로 난입하는 보스를 쓰러트려야 얻을 수 있지만, 어느 카드나 ☆6으로 변신시키려면 그 정도는 요구하기 때문에 ☆6으로의 변신도 그렇게까지 어렵다고 할 순 없다. 오히려 최저 랭크에서부터 마도서와 기타 특수 재료를 요구하는 초대 마도 시리즈나 보스 시리즈가 훨씬 더 키우기 어렵다.
+이렇게 마도학교 시리즈는 얻기도 쉽고 키우기도 쉬운데, 마도학교 시리즈를 뛰어넘는 공격력을 가진 카드들이 전부 한정 카드나 보스급이라는 게 충격과 공포. [* [http://puyoque.rakuwiki.com/%E6%94%BB%E6%92%83%E5%8A%9B%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0/ 공격력 랭킹]에서 초대뿌요 시리즈, 동화 시리즈, 서큐버스 등 사실상 뽑기 이벤트로만 얻을 수 있는 카드들과 이벤트 카드인 악마 시리즈 바로 다음의 위치를 가지고 있다. 6성 공격력은 그 보스!? 시리즈마저 뛰어넘는다. 5성끼리 비교해도 마도학교 위는 전부 초대뿌요, 동화 시리즈, 일부 보스!? 시리즈와 이벤트 카드들뿐이다.] 극딜의 성향을 띄기 때문에 처음부터 끝까지 어디서나 활약한다.
+
+액티브 스킬은 "필드 전체의 몬스터에게 이 카드의 공격력의 배수만큼 속성공격"인데, 전체공격이라는 스킬의 특성상 적이 많으면 많을수록 좋기 때문에 주로 자코전을 삭제하거나 요일 던젼, 특수 소재 수집, 코인 수집 등등 물량보스전일 경우 마지막 스테이지에서도 쓰인다. 아무튼 최대 5장의 카드에게 턴을 쓰지도 않고 딜을 날린다는 점은 꽤나 강력하다. 기본적으로 마도학교 시리즈는 뿌요뿌요!! 퀘스트 내 고스펙의 기준이 되는 카드이기 때문에, 물량보스전에서도 꽤나 딜을 넣을 수 있지만 자코전은 어지간하면 오버킬해버린다.
+
+마도학교 시리즈를 리더에 앉힐 경우 같은 색 속성의 공격력을 1.5배[* ☆2, ☆3], 2배[* ☆4~]로 한다. 이 리더 스킬은 단일 속성 덱에서 빛을 발하는데, 다속성 덱보다 단일 속성 덱이 화력이 훨씬 좋기 때문에 이 리더 스킬 역시 엄청난 메리트를 가져다 준다. 주로 SUN 시리즈와 함께 한 덱의 리더를 맡게 된다.
+최근에는 자신의 HP가 MAX일 때 같은 속성 카드의 공격력을 '''3배'''로 올려주는 보스 시리즈가 나왔지만, 보스 시리즈는 한 대라도 맞는 순간 그 캐릭터에는 버프가 사라지기 때문에 퀘스트에서 안정성은 마도학교를 따라올 수 없다. 체력에 관계없이 공격력 버프를 걸어주는 동화 시리즈에게는 계수가 밀리는데도 입지가 비슷한데, 4성 동화는 애초에 풀 단색으로 짜야 겨우 2배가 되기 때문에 마도학교보다 구리고, 5성 동화는 아무래도 체력이 낮아서 서포터로 채용할 경우 지키기가 쉽지 않다. 물론 6성 동화는 확실히 마도학교보다 강하지만 마도학교 시리즈가 무과금으로도 손쉽게 얻을 수 있는 카드라는 점을 감안하면 충분히 파격적.
+
+항목에 나와 있는 것처럼 각 성별에 따라 '걸즈', '보이즈' 콤비네이션에 해당하며, 공통적으로 '마도학교' 콤비네이션에 해당한다. 아미티는 '히로인', 시그는 '의문투성이', 리델은 '뿔', 크루크는 '안경' 콤비네이션에 추가로 해당한다. 그 외 아미티 5,6성은 날개가 달려있지만 '날개짓' 콤비네이션에 없다. 착각하고 넣는 일 없도록 하자.
+
+== 초대 뿌요뿌요 시리즈 (初代ぷよぷよシリーズ) ==
+||||||||||||||<#FF3636> '''[[루루(뿌요뿌요 시리즈)|루루]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101205_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101206_m.png?width=100||
+||||||||||||||<#489CFF> '''[[아르르 나쟈|아르르]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img201203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img201204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img201205_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img201206_m.png?width=100||
+||||||||||||||<#1DDB16> '''[[드라코켄타우로스]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301205_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301206_m.png?width=100||
+||||||||||||||<#FFD700> '''[[윗치]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401205_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401206_m.png?width=100||
+||||||||||||||<#A566FF> '''[[셰죠 위그이|셰죠]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501205_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501206_m.png?width=100||
+
+||레어도||☆3~6||
+||카드 타입||공격타입, 단일||
+||스킬||랜덤으로 같은 색의 뿌요를 본 카드의 속성 뿌요로 변환(☆3부터)[[br]]발동조건: 자신의 색 뿌요 50개 제거||
+||리더스킬||전능력치 상승(☆3부터)||
+||코스트||8,14,20,30||
+||변신합성||☆3부터 뿌요젤리+마도서가 필요||
+
+티켓 가챠 및 마도석 가챠로만 획득 가능. 다만 보통은 거의 나오지 않고 확률 업 기간을 노려야 한다.
+
+뿌요 시리즈 '''원조''' 주인공 카드군이며, 가챠 확률이 극히 낮고(확률 1.25%) 코스트도 상당히 높아서(6성 기준 30) 그런지 스탯이 압도적이다. 공격력은 뿌요퀘에 있는 모든 카드들 중에서 1위이고 체력 역시 모든 공격 타입 중에서 1위. 특히 그 보스!? 시리즈보다도 근소하게 높은 체력을 가지고 있다. 속성 보정 때문에 공격력이 가장 강한건 [[셰죠 위그이|셰죠]]와 [[루루(뿌요뿌요 시리즈)|루루]]. 다만 초기 능력치가 낮게 설정되어 있어 레벨을 많이 올려줘야 그 능력이 빛을 발한다. 물론 레벨 MAX에서의 능력치는 어느 레어도에서나 해당 레어도의 최상위권.
+
+5성 이상에서의 스킬은 자신의 색깔 이외의 색뿌요 3종을 자신의 색깔로 바꿔버리는 스킬. 스킬이 발동되자마자 강제적으로 대량의 동시삭제가 이루어져 단색덱에서는 정신나간 대미지가 뽑힌다. 참고로 5성 스킬만 보정을 받았는데, 다른 3색을 바꾸는 5성 스킬보다 것보다 2색을 바꾸는 4성 스킬이 분리 보너스 때문에 더 딜이 높게 뽑혔던 것이 이유. 4성 스킬을 너프시키지 않고 오히려 5성 스킬에 보정을 붙여준 걸 봐선 이 카드들에 대한 대우가 굉장히 좋다고 할 수 있다. --그럼 주인공인데 너프시키면 되나-- [http://puyopuyoquest.sega-net.com/news/140225_4334.html]
+
+스킬은 단색 덱에서의 위력이 압도적이긴 하지만, 다른 카드군의 대미지 딜링 기술과 달리 다색 덱이라도 스킬 발동 후의 연쇄에 따라 여러 속성이 터질 가능성이 있으므로 그럭저럭 쓸만은 하다. 이 카드군을 다색 덱으로 사용한다면 스킬보다도 강력한 스탯에서 그 의의를 찾을 수 있는데, 일단 모으긴 힘들지만 초대 멤버를 다 갖추기만 한다면 본래 강력한 스탯에 리더스킬과 콤비네이션으로 인한 스탯 강화로 기본 공격 및 체력이 엄청나게 단단해진다. 스킬로 한 방만 노리고 가는 단색 덱이나 콤비네이션만 받는 마도학교 다색 덱은 소재 퀘에서도 중간에 한두 장 쓰러질 가능성이 있는 반면 초대 시리즈로만 된 덱은 그럴 일이 거의 없다. 사실 특정 색상 하나로 극딜을 노리는 단색 덱과는 달리 다색 덱은 안정성으로 먹고 사는데, 초대뿌요 다색덱을 다 갖추고 끝까지 성장시키면 강력한 스탯 보조로 인해 그 안정성을 극대화해준다.
+
+리더스킬은 마도학교 시리즈가 같은 속성의 공격력만 2배(4성 이상) 올려주는 반면, 초대뿌요 시리즈는 속성에 상관없이 공격력, 체력, 회복력을 모두 올려주므로(6성 기준 1.4배) 단일 덱뿐만 아니라 다속성 덱에서도 리더로 쓸만하다. 특히 6성으로 리더와 서포터를 구성하면 1.96배가 되기 때문에 혼색덱에서도 단색덱에서의 마도학교+SUN과 비슷한 수준의 스탯 강화가 가능하다. 특히 6성은 1.4배씩이나 되기 때문에 다른 한 쪽에 동화 시리즈나 마도학교 시리즈 등의 딜뻥 카드를 둬도 기본적인 생존력이 보장된다는 게 굉장한 장점. 퀘스트라면 어디서나 리더로 두기 좋다고 할 수 있다.
+
+항목에 나와 있는 것처럼 각 성별에 따라 '걸즈', '보이즈' 콤비네이션에 해당하는데, 특히 이 시리즈의 성별에 따라 단색덱의 콤비가 결정된다는 것도 주목할 만하다. 빨강과 보라는 각각 걸즈와 보이즈의 대표주자. 초록색도 걸즈로 짜기 쉽고, 노란색도 걸즈가 늘고 있다. 유일하게 마도학교와 이 시리즈의 성별이 다른 물속성마저 6성만 해도 아르르, 그레이스, 아코르 선생, 세리리, 쟝, 시엘 ver. 성야 등등 여캐가 더 많다. [* 사실 보라색 빼고 다 여캐라 콤비 짜기 편할 수밖에 없다. 이건 물속성을 제외한 마도학교 시리즈도 마찬가지.]
+
+그 외에 주인공인 아르르는 '히로인' 콤비네이션, 칼을 들고 있는 세죠는 '검사' 콤비네이션에 해당하지만 맞추기 힘들어서 실용성은 별로 없다.[* 히로인은 아미티, 링고, 아르르 딱 셋만 받으며, 검사는 세죠, 라그나스, 알렉스, 드래고룬 시리즈, 사무라이 모올 등 의외로 개체 수가 좀 있만 연계가 엉망이라 제대로 못 써먹는다.] 반면 드라코는 '뿔' 콤비가 추가로 해당되는데, 이쪽은 리델, 드라코, 사탄으로 뿔 콤비를 띄울 수 있기 때문에 꽤 유용하다.
+
+== 드래고룬 시리즈 (ドラゴルンシリーズ) ==
+||||||||||||||<#FF3636> '''플레임 드래고룬''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101602_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101603_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101604_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img101605_m.png?width=100||
+||||||||||||||<#489CFF> '''아쿠아 드래고룬''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img201602_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img201603_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img201604_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img201605_m.png?width=100||
+||||||||||||||<#1DDB16> '''그린 드래고룬''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301602_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301603_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301604_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img301605_m.png?width=100||
+||||||||||||||<#FFD700> '''샤인 드래고룬''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401602_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401603_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401604_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img401605_m.png?width=100||
+||||||||||||||<#A566FF> '''다크 드래고룬''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501602_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501603_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501604_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img501605_m.png?width=100||
+
+||레어도||☆2~5||
+||카드 타입||공격타입, 단일||
+||스킬||상대 전체에게 고정 대미지(최대 5000)(☆3부터)[[br]]발동조건: 자신의 색 뿌요 30개 제거||
+||리더스킬||같은속성 공격력 업(☆4부터)||
+||코스트||4,7,12,18||
+||변신합성||☆3부터 방해뿌요+뿌요젤리 필요||
+
+퀘스트 오리지널 몬스터군. 퀘스트로만 획득할 수 있다. 액티브 스킬의 대미지 자체는 동물 시리즈보다 낮지만 전체공격이라는 점이 특징. 5성 MAX에서의 공격력은 초대마도보다 높지만 체력이 극히 낮아 사용하기가 힘들다.
+
+공통적으로 '검사', '드래곤' 콤비네이션에 해당한다.
+
+== 악마 시리즈 (悪魔シリーズ) ==
+||||||||||||||||<#FF3636> '''헤드''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img103103_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img103104_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img103105_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img103106_m.png?width=100||
+||||||||||||||||<#489CFF> '''스터넘''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img203103_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img203104_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img203105_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img203106_m.png?width=100||
+||||||||||||||||<#1DDB16> '''코스타''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img303103_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img303104_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img303105_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img303106_m.png?width=100||
+||||||||||||||||<#FFD700> '''버터브러''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img403103_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img403104_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img403105_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img403106_m.png?width=100||
+||||||||||||||||<#A566FF> '''펠비스''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img503103_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img503104_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img503105_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img503106_m.png?width=100||
+
+||레어도||☆3~6||
+||카드 타입||공격타입, 단일||
+||스킬||유리한 속성인 적의 공격 턴을 늘림[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||3연쇄 이상일 때 아군의 공격력 업(☆4부터)||
+||코스트||8,14,20||
+||변신합성||이벤트 전용소재가 필요||
+
+길드 이벤트 <록 러시>로 등장한 한정카드. 악마 뿔과 날개가 달린 마족 록 밴드가 콘셉트이다. 정식 명칭이 알려지기 전까지는 이벤트 이름을 따서 '''록 시리즈'''로 불리는 경우도 많았다.
+
+각 캐릭터의 이름은 뼈의 이름에서 따왔다.
+ * {{{#FF0000 '''헤드'''}}} : 두개골(head)
+ * {{{#0000FF '''스터넘'''}}} : 흉골(sternum)
+ * {{{#2F9D27 '''코스타'''}}} : 늑골(costae)
+ * {{{#F5C71A '''버터브러'''}}} : 척추(vertebrae)
+ * {{{#9536FF '''펠비스'''}}} : 골반(pelvis)
+
+적 전체 공격 봉인을 가진 카방클이나 검은 포포이에 밀려 평소에는 잘 사용되지 않는다. 그러나 뿌요P를 제공하는 토코톤 퀘스트가 시작되면서부터 공격 봉인을 무효로 하는 보스들이 등장하기 시작했는데, 턴 늘리기 스킬은 봉인과 비슷한 효과를 가지면서도 봉인 방패의 영향을 안 받으므로 대용으로 사용할 수 있다.
+
+2014년 12월 29일 뿌요P 교환소에 6성이 등장하였다. 2014년도부터 나온 카드는 최종 레어도의 일러스트에 머리카락 외곽선 색상과 그라데이션 효과를 넣어주는 등 더 공을 들이고 있는데[* 2014년 이전에 등장한 카드라도 2014년 이후에 상위 레어도 카드가 추가된 카드군들 역시 포함된다. 참고로 2013년 말에 나온 마도학교와 SUN 시리즈 6성 일러는 원래 외곽선 색상과 그라데이션 효과가 없었으나 나중에 수정되었다.], 악마 시리즈는 2014년 초반 등장 카드이고 5성 일러에 해당 효과가 들어간 것으로 보아 당초에는 6성 예정이 없었던 것으로 보인다. 어쨌든 이후 뿌요P 교환소에 6성이 추가되어 5성과 6성 일러에 모두 채색에 정성이 들어간(...) 첫 카드군이 되었다.
+
+6성에서 리더스킬은 3연쇄 이상일 때 공격력을 2.5배 늘려주게 되었다. 연쇄만 잘 터진다면 단일덱이 아닌 혼색덱에서 이 정도 공격력 보정이 되는 카드가 없을 정도.
+
+== 산타 아르르 계열 (サンタアルル系)(가칭) ==
+||||||||||||||||<#FF3636> '''[[루루(뿌요뿌요 시리즈)|타코야키 가게의 루루]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img103803_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img103804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img103805_m.png?width=100||
+||||||||||||||||<#489CFF> '''[[아르르 나쟈|산타 아르르]]''' ||
+|| ||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img203804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img203805_m.png?width=100||
+||||||||||||||||<#1DDB16> '''[[사탄(마도물어 시리즈)|산타 사탄]]''' ||
+|| ||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img303804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img303805_m.png?width=100||
+||||||||||||||||<#A566FF> '''[[페리(뿌요뿌요 시리즈)|사랑에 빠진 페리]]''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img503803_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img503804_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img503805_m.png?width=100||
+
+||레어도||☆3~5[* 타코야키 가게의 루루, 사랑에 빠진 페리]/☆4~5[* 산타 아르르, 산타 사탄]||
+||카드 타입||공격타입, 단일||
+||스킬||상대 하나를 중심으로 속성 폭발 대미지(☆5에서 8배)[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||아군 전체의 공격력 업(☆4부터)||
+||코스트||8,14,20||
+||변신합성||이벤트의 전용 재료 필요 (예외로 산타 사탄만 뿌요젤리+마도서가 필요||
+
+주로 수집 이벤트로 나온 카드로만 구성된 한정카드군. 같은 스킬을 가지고 있는 노란색의 해당 카드는 아이루가 있으나 체력타입이고 도감 위치가 다르다. 같은 도감 위치에 있는 것은 고정 대미지 연속공격을 가진 벚꽃 라피나이다.
+
+레어도가 통일되어 있지 않은데, 이는 이들이 본래는 같은 카드군으로 볼 수는 없는 개별 카드들이었기 때문이다. 본래 타코야키 가게의 루루만 아이루와 같은 폭발 대미지였고, 나머지는 마도학교 스킬의 단일 버전인 스킬(5성에서 5배 공격)을 가지고 있었다. 그런데 2014년 크리스마스 이벤트에서 산타 아르르와 산타 사탄의 스킬이 폭발 대미지로 변경되고 공격력도 5성 기준 8배 대미지로 상향되었다. 그리고 2015년 2월 9일 패치로 사랑에 빠진 페리와 타코야키 가게의 루루, 그리고 아이루까지 산타 사탄과 산타 아르르와 같은 스킬로 재조정되었다. 이에 따라 카드 타입이 다른 아이루를 제외한 나머지가 같은 카드군으로 정리되었다.
+
+산타 아르르는 2013년 [[크리스마스]] 기념 이벤트 보수로 등장하였고, 산타 사탄은 동일 이벤트의 응원 카드로서 한정 가챠로 등장하였다. 이 이벤트 이후부터는 일뿌퀘에서 순위제로 마지막 변신소재를 제한하는 일이 사라졌다.
+
+여담으로 산타 사탄은 컴파일 시절 뿌요뿌요 시리즈의 만담 장면에서 나온 말장난에서 유래했다. 콘솔 버젼 [[뿌요뿌요 通]]의 '통(通) 모드' 만담에서 사탄이 저 모습을 하고 등장한다. 스킬명은 '''[[산타클로스|산타 크로스]]'''(...). 사탄이 마도물어 시리즈에서 쓰던 '사탄 크로스(Satan Cross)'를 살짝 꼰 말장난이다.
+
+2014년 크리스마스 이벤트에서 뿌요P 교환소에 재등장하였으며, 당 년도 크리스마스 이벤트의 특공카드로 적용되었다. 또한 스킬이 패치되어 원래 단일 개체 속성공격이었던 것이 아이루와 같은 폭발 대미지로 바뀌었으며, 위력 역시 공격력의 5배에서 8배로 상향되었다.
+
+사랑에 빠진 페리는 2014년 [[밸런타인 데이]] 기념 이벤트 <초콜릿 수집 축제>에서 등장하였고, 타코야키 가게의 루루는 2014년 5월 12일 <타코야키 수집 이벤트>의 보상으로 등장하였다.
+
+== 오세치 걸즈 (おせちガールズ ) ==
+||||||||||||||||<#FF3636> '''에미나''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img105404_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img105405_m.png?width=100||
+||||||||||||||||<#489CFF> '''마호코''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img205404_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img205405_m.png?width=100||
+||||||||||||||||<#1DDB16> '''코마키''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img305404_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img305405_m.png?width=100||
+||||||||||||||||<#FFD700> '''타마키''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img405404_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img405405_m.png?width=100||
+||||||||||||||||<#A566FF> '''쿠로에''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img505404_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img505405_m.png?width=100||
+
+||레어도||☆4~5||
+||카드 타입||공격타입, 단일||
+||스킬||같은 색 속성의 전체 공격(☆4부터)[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||공격타입의 HP 업(☆4부터)||
+||코스트||10,16||
+||변신합성||소재뿌요+뿌요젤리가 필요||
+
+2014년 신년 기념으로 실시된 후리소데 리델 관련 <신춘경사 대어 축제>에서 특공 카드로 등장. 모티브는 일본의 설날 음식인 오세치 요리.
+
+== 동화 시리즈 (童話シリーズ) ==
+||||||||||||||||<#FF3636> '''레베카''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img105504_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img105505_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img105506_m.png?width=100||
+||||||||||||||||<#489CFF> '''그레이스''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img205504_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img205505_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img205506_m.png?width=100||
+||||||||||||||||<#1DDB16> '''윈''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img305504_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img305505_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img305506_m.png?width=100||
+||||||||||||||||<#FFD700> '''알렉스''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img405504_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img405505_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img405506_m.png?width=100||
+||||||||||||||||<#A566FF> '''치키타''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img505504_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img505505_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img505506_m.png?width=100||
+
+||레어도||☆4~6||
+||카드 타입||공격타입, 단일||
+||스킬||터치해서 없앨 수 있는 뿌요 수를 10개로 늘리고, 동시 제거 계수가 4배가 된다[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||필드에 나와 있는 같은 속성 카드의 장수에 비례하여 같은 속성 카드의 공격력 업||
+||코스트||14,20,28||
+||변신합성||뿌요젤리+마도서가 필요||
+
+특정 기간 동안에만 마도석 가챠로만 획득 가능.
+
+보이는 대로 모두 동화 주인공들을 모티브로 한 캐릭터들이다. --따지고 보면 동화는 아닌 것도 몇 개 있지만...-- 다만 원전에서는 남자였던 인물들도 얄짤없이 [[여체화]]되어 있다. 모티브는 다음과 같다.
+
+ * {{{#FF0000 '''레베카'''}}} : --[[바렛타]]-- [[빨간 두건]]
+ * {{{#0000FF '''그레이스'''}}} : [[눈의 여왕]]
+ * {{{#2F9D27 '''윈'''}}} : [[피터 팬]]
+ * {{{#F5C71A '''알렉스'''}}} : --[[세이버(4차, 5차)|세이밥]]-- [[아서 왕]]
+ * {{{#9536FF '''치키타'''}}} : [[돈키호테]]
+
+스탯, 스킬, 리더스킬 모두 공격을 위한 카드. 스탯은 마도학교 시리즈와 비슷하지만 공격에 치중해 있어서 체력이 약간 낮다.
+
+리더 스킬은 단색덱을 위한 스킬. 6성 동화 시리즈가 서포터를 포함해서 순수 단색덱의 리더로 있다면 리더 스킬로 공격력이 2.5배까지 강화가 된다. 체력이 마도학교에 비해 약간 낮지만 버프량이 더 높다. 그 덕에 리더로서의 입지는 마도학교와 비슷하거나 더 높지만 입수 난이도가 난이도라 마도학교가 더 많이 보인다. --물론 배틀 고랭커는 보스 쓴다--
+
+일반 스킬을 이해하기 위해서는 대미지 계산식을 알 필요가 있다. 각 연쇄단계에서의 대미지 계산 식은 각 카드의 공격력*(1 + (x [* 해당 연쇄에서 지워진 '''모든''' 뿌요의 갯수. 예를 들어 3연쇄째에서 파랑뿌요 5개, 노랑 뿌요 4개, 하트박스가 2개 지워졌다면 파란색과 노란색 모두 5 + 4 = 9라는 숫자를 가져간다. 하트박스는 계산하지 않는 것에 주의.] - 4)*동시제거계수)*분리 보너스[* 해당 색의 뿌요가 지워진 더미 수. 예를 들어 빨강 뿌요 10개가 연결되어 터지면 더미 수는 1이지만 4개 6개로 쪼개져서 터지면 더미 수는 2가 된다. 하지만 같은 색의 뿌요 더미수를 보기 때문에 빨강 4개 초록 4개가 동시에 터지는 등의 상황에서는 보너스가 없다.]*sqrt(연쇄수). 동화 시리즈의 스킬은 이 식에서 동시제거계수를 4배로 띄워주는데, 보통은 0.15라 있으나마나한 수치지만 0.6배라면 어느 정도 차이가 나는 대미지가 뜬다. 그리고 스킬의 특성상 동시삭제를 많이 할 수 있게 되어 잘 지워서 1연쇄 해서 찬스뿌요가 떨어질 정도로 터지면 분리 보너스와 연쇄 계수를 무시해도 공격력의 8.8배만큼을 공격할 수 있다. 그리고 동시삭제의 특성상 필드 대부분이 비게 되어 내려오는 뿌요로 추가 연쇄가 터질 가능성도 높다. 이래저래 잘 쓰면 강력한 카드. 특히 여러 스킬들을 조합하고 스킬을 쓰면 카드 하나에 7자리 숫자가 찍히기도 하는 등 초대 뿌요뿌요 시리즈의 스킬마저 가볍게 씹어먹는 대미지를 보여준다.
+
+이렇게 동화 시리즈의 스킬은 기본적으로 대미지를 엄청나게 증폭시킬 수 있는 스킬이지만, 대미지 증폭 말고도 스킬 회전을 엄청나게 빠르게 할 수 있다. 예를 들어 단색덱에서 어부 보이즈, 찬스 뿌요를 만드는 카드, 동화 시리즈를 다음과 같은 방법으로 조합하면 보통 3턴 안에, 아무리 필드가 말려도 4턴 안에 원하는 색뿌요 40개를 지울 수가 있다.
+1. 어부 보이즈를 발동시켜 필드에 원하는 뿌요를 깔아둔다.
+2. 찬스 뿌요를 생성한다.
+3. 대량의 동시 삭제 혹은 높은 연쇄를 일으켜 필드를 빠르게 갈아치우면서 찬스 뿌요를 사용한다.
+4. 가끔 필드가 말리면 초대 뿌요뿌요 시리즈의 스킬로 필드를 초기화한다.
+이렇게 스킬 회전을 시키면서 악마 시리즈를 사용하면 길드 러시에선 무한 봉인이 가능하고, 카방클이나 블랙 포포이를 채용할 수 있는 노랑덱과 보라덱에서 쓰면 모험에서의 보스는 그냥 샌드백이 된다(...). 여러 모로 엄청난 파괴력을 지닌 카드.
+
+이 카드와 특히 더 상성이 좋은 카드는 마물 시리즈, 어부 보이즈, 괴물 시리즈. 어부 보이즈는 위에서 설명한 스킬 회전도 있지만, 동화 시리즈의 스킬이 자신이 원하는 색뿌요가 많아야 그 위력을 충분히 발휘한다는 점에서 그야말로 환상의 조합. 마물 시리즈도 동화 시리즈도 통상공격을 강화하는 스킬이기 때문에 단색덱에서 둘을 같이 쓰면 굉장한 대미지로 전체공격을 해댈 수도 있다. 괴물 시리즈는 긁은 뿌요를 전부 원하는 색으로 바꿔주기 때문에 동시삭제를 잘 할 수 있도록 그어주면 괴랄한 딜이 나온다. 그 외에도 대부분의 딜링 스킬이 다 그렇지만 추가공격 시리즈와도 궁합이 좋다.
+카드 기본 스탯도 좋고 스킬도 특이하면서도 뿌요뿌요!! 퀘스트의 대미지 공식을 잘 이용한 스킬인 데다가 무엇보다 일러스트가 예쁘다보니(...) 인기가 많다. 하지만 보스 시리즈와 마찬가지로 특정 기간에 한해 마도석 가챠로만 뽑을 수 있으며, 확률 UP 이벤트를 해도 확률이 5%가 최대라 얻기가 매우 힘들다.
+
+== 해적 시리즈 (海賊シリーズ)(가칭) ==
+||||||||||||||||<#FF3636> '''프레드''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img105904_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img105905_m.png?width=100||
+||||||||||||||||<#489CFF> '''양''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img205904_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img205905_m.png?width=100||
+||||||||||||||||<#FFD700> '''바하르''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img405904_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img405905_m.png?width=100||
+
+||레어도||☆4~5||
+||카드 타입||공격타입, 단일||
+||스킬||상대 하나에게 같은 속성 카드의 공격력 합계×n의 속성공격(☆4는 4배, ☆5는 5배)[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||공격 타입의 공격력 증가(☆는 1.2배, ☆5는 1.5배)||
+||코스트||14,20||
+||변신합성||이벤트 전용 소재가 필요||
+
+2014년 12월에 처음으로 실시된 길드 배틀 <프와프 리그>의 보상 카드로 등장. 모티브는 세계 각 문화권의 [[해적]]으로 보인다. --같은 시리즈로 [[바이킹]]이나 [[왜구]]가 나올지도 모른다--
+ * {{{#FF0000 '''프레드'''}}} : 근대 [[대항해시대]] [[유럽]] 해적
+ * {{{#0000FF '''양'''}}} : [[중국]] 해적
+ * {{{#F5C71A '''바하르'''}}} : [[중동]] 해적
+
+
+이 카드를 얻기는 상당히 빡센 편인데, 길드 배틀은 하루에 3회씩(12시, 18시, 22시에 각 1시간 동안) 5일간 실시되어, 이벤트 기간중 총 15회 배틀이 이루어진다. 그런데 중요한 것은 카드 및 변신소재 획득 조건이 개인 GP(길드 포인트)의 획득과 '''길드의 승리 횟수'''로 나뉘어 있다는 점이다. 길드가 최소 1승은 해야 카드를 획득할 수 있으며, 최소 5승은 해야 변신 소재까지 모두 획득할 수 있다. '''운 나쁘면 아예 카드 자체를 못 얻을 수도 있다'''. 그야말로 길드 전원이 열심히 달려야만 하는 진정한 길드 이벤트.
+
+배틀 보상으로 1회에서는 프와프컵처럼 한 속성(빨강) 소재만 마구 뿌려주었는데, 보상의 양으로는 프와프컵 이상이어서 한 속성 몰아키우기에 아주 적합했다. 그러나 2회 프와프 리그는 길드 러시처럼 여러 속성 소재가 번갈아 나오도록 변경되었다. 이는 2회 이벤트가 1회에서 한참 지나고 실시되었으므로, 본 이벤트가 뿌퀘의 모든 이벤트 중 가장 실시 간격이 긴 편이라서 그런 듯했으나, 3회 이벤트는 한 달만에 다시 실시되었다.
+
+액티브 스킬은 단일덱에 알맞으며, 적 하나에게 공격을 모아서 증폭하여 날린다는 점에서 보스전용 스킬이다. 특히 토코톤 퀘스트를 노리고 나온 듯한 기술.
+
+== 고블린 시리즈 (ゴブリンシリーズ) ==
+||||||||||||||||<#FF3636> '''아발린''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img106203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=591&file=img106204_m.png?width=100||
+||||||||||||||||<#489CFF> '''이빌린''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img206203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=127&file=img206204_m.png?width=100||
+||||||||||||||||<#1DDB16> '''우블린''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img306203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=597&file=img306204_m.png?width=100||
+||||||||||||||||<#FFD700> '''에벨린''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img406203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=598&file=img406204_m.png?width=100||
+||||||||||||||||<#A566FF> '''오볼린''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img506203_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=599&file=img506204_m.png?width=100||
+
+||레어도||☆3~4||
+||카드 타입||공격타입, 단일||
+||스킬||상대 하나에게 고정 대미지(☆3부터)[[br]]발동조건: 자신의 색 뿌요 30개 제거||
+||리더스킬||같은 속성의 공격력 업(☆4부터)||
+||코스트||7,10||
+||변신합성||뿌요젤리가 필요||
+
+아케이드판 연동 가챠로만 입수 가능. 이름은 일본어 50음도의 아이우에오 순으로 되어 있다.
+
+== 고양이 걸즈 (ねこガールズ) ==
+||||||||||||||||<#FF3636> '''니아''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107005_m.png?width=100||
+||||||||||||||||<#489CFF> '''시폰''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207005_m.png?width=100||
+||||||||||||||||<#1DDB16> '''리즈''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307005_m.png?width=100||
+||||||||||||||||<#FFD700> '''키쉬''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407005_m.png?width=100||
+||||||||||||||||<#A566FF> '''샤를''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507003_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507004_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507005_m.png?width=100||
+
+||레어도||☆3~5||
+||카드 타입||공격타입, 단일||
+||스킬||같은 속성 동료의 HP를 모두 1로 하고, 깎인 체력×n배[* ☆3부터 각각 6배, 7배, 8배.]만큼 적 하나 속성공격(☆3부터[[br]]발동조건: 자신의 색 뿌요 40개 제거)||
+||리더스킬||같은 속성의 동료 HP가 낮을수록 공격력 업(☆3부터)||
+||코스트||8,14,20||
+||변신합성||뿌요젤리가 필요||
+
+고양이귀 셰죠를 제공하는 <개다래나무 수집축제>의 특공카드로 등장.
+
+== 마법사 시리즈 (魔法使いシリーズ) ==
+||||||||||||||||<#FF3636> '''알베르토''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107205_m.png?width=100||
+||||||||||||||||<#489CFF> '''리처드''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207205_m.png?width=100||
+||||||||||||||||<#1DDB16> '''매슈''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307205_m.png?width=100||
+||||||||||||||||<#FFD700> '''미리암''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407205_m.png?width=100||
+||||||||||||||||<#A566FF> '''설리번''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507204_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507205_m.png?width=100||
+
+||레어도||☆4~5||
+||카드 타입||공격타입, 단일||
+||스킬||찬스뿌요×공격력의 n배수의 전체 속성공격(☆4는 1배, ☆5는 1.5배)[[br]]발동조건: 자신의 색 뿌요 40개 제거||
+||리더스킬||스테이지 개시시에 자신이 유리한 속성 카드의 턴수 추가(☆4는 1턴, ☆5는 2턴)||
+||코스트||14,20||
+||변신합성||뿌요젤리가 필요||
+
+이상한 렘레스를 제공하는 <제2회 할로윈 축제>의 특공카드로 등장. 액티브 스킬은 도플갱어 아르르의 하위호환이다.
+
+== 용인 시리즈 (龍人シリーズ) ==
+||||||||||||||||<#FF3636> '''호죠''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107704_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107705_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=40&file=img107706_m.png?width=100||
+||||||||||||||||<#489CFF> '''에이슈''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207704_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207705_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=41&file=img207706_m.png?width=100||
+||||||||||||||||<#1DDB16> '''호라이''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307704_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307705_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=42&file=img307706_m.png?width=100||
+||||||||||||||||<#FFD700> '''타이요''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407704_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407705_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=43&file=img407706_m.png?width=100||
+||||||||||||||||<#A566FF> '''인쿄''' ||
+||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507704_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507705_m.png?width=100||||http://cdn50.atwikiimg.com/puyoque?cmd=upload&act=open&pageid=44&file=img507706_m.png?width=100||
+
+||레어도||☆4~6||
+||카드 타입||공격타입, 단일||
+||스킬||1턴간 유리한 속성의 공격을 되돌려보냄(☆4부터 각각 4,5,6배)[[br]]발동조건: 자신의 색 뿌요 45개 제거||
+||리더스킬||공격타입의 체력과 회복력 상승(☆4는 1.2배, ☆5는 1.5배, ☆6은 1.8배)||
+||코스트||14,20,28||
+||변신합성||뿌요젤리가 필요||
+
+호죠, 에이슈, 호라이는 얌차 가게의 드라코를 보상으로 제공하는 <복숭아 만쥬 축제>에서, 타이요, 인쿄는 <제 4회 신전 러시>에서 특공 카드로 등장.
+
+액티브 스킬은 밸런스타입의 앨리스 시리즈와 유사하다. 다만 발동시 필요한 뿌요수가 5 더 많고 되받아치는 공격력이 더 높은 반면, 턴 수가 1턴간으로 더 적다.
+
+2015년 3월 16일자로 시험지나 마도서 이외의 6성 특수재료와 특수소재 수집 던전 초격신이 나오면서 6성이 등장하였다.

@@ -1,0 +1,65 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || JunglePop ||
+|| 작사,작곡 || [[ND Lee]] ||
+|| 보컬 || Yoa ||
+|| BPM || 90 ||
+|| 비주얼(DJMAX 온라인) || Eyehead ||
+|| 비주얼(DMT TUNE) || Sampal(일러스트), Dumping Life(모션) ||
+
+
+{{{#!HTML
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Shpx3eGaWw0?hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Shpx3eGaWw0?hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+알파 테스트 클라이언트판의 Hard Style 플레이 영상. 플레이큐가 판정선상에서만 움직이는 초기의 모습을 볼 수 있다.
+초반부와 중반이 오픈베타 이후의 버전과 다르며, 더러운 판정에 주목하자.
+
+{{{#!HTML
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ci5homvU7Nc&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ci5homvU7Nc&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+온라인버전 수정된 BGA
+
+[[ND Lee]]의 [[DJMAX 시리즈]] 첫 참가곡. [[EZ2DJ]]시리즈에서 보여주었던 스타일을 그대로 고수하고 있는 곡이다. 흑인음악 스타일이 섞인 가요 스타일의 진행을 보여주는 곡. 다만 가사의 Never Say라는 부분이 '''내복세일'''[[wiki:"몬데그린"로 들리는 바람에]] 별명은 내복세일(....)
+
+처음 추가되었을때와 이후 오픈베타테스트 때의 곡이 다른데, 처음 추가되었을때는 오리지널 버전의 1절에서 일부분을 편집하여 사용한 버전이고, 오픈베타테스트 이후의 곡은 2절부분을 편집한 곡을 계속 사용. 초기버전의 경우 Hard Style 패턴의 판정이 극악이어서 좋은 판정을 내기가 굉장히 힘든 곡이었다. 오픈베타테스트 이후의 버전에서는 BPM이 느려 판정이 잘 나왔고 이중계단형식의 배치로 유저들에게 큰 인기를 끌었다.
+
+SC 패턴은 그렇게 어려운 채보는 아니었지만 게이지 감소량이 매우 커서 악명을 떨쳤다. 레벨 1에 아무 것도 장비하지 않은 상태의 HP가 100인데, 이 곡에서는 노트를 한 개 놓치면 HP가 150 떨어지기 때문에 사실상 즉사하는 것이었다. HP 증가 옵션이 달린 기어나 노트 등을 끼면 조금 더 버틸 수 있었지만 그래봤자 3 미스가 한계. 이후 [[DJMAX Trilogy]]에서는 게이지 감소량은 평범하게 변경되었다.~~하지만 더럽게 느리지~~
+
+게다가 노래가 바뀌면서 BGA도 약간의 변화가 있었는데, 심의 문제덕분에 마지막부분에 총겨누는 장면이 삭제가 되었다.하지만 DJMAX Trilogy에서는 부활.
+
+참고로 BGA 캐릭터 설정은 [[북두의 권]] 패러디.  고글남의 이름은 켄, 금발의 이름은 신, 여성의 이름은 유리아로 각각 [[켄시로]], [[신]], [[유리아]]에서 따왔다고 한다. 왠지 고글남의 디자인이 [[wiki:"에미야 시로"열도의 5차 성배전쟁 주인공]]이랑 닮았다.(만들어진건 Never Say가 훨씬 더 먼저지만)
+
+=== [[DJMAX TECHNIKA TUNE]] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 2 || ||
+||<#0000FF> {{{#white POP}}} || 4 || ||
+||<#FF0000> CLUB || 5 || [[Nostalgia Set]] 셀렉곡 ||
+
+이후 [[DJMAX TECHNIKA TUNE]]에도 이식되었고, BGA는 DMO의 스토리를 바탕으로 Sampal에 의해 리메이크되었다.
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/UKo5x5X4bXE" frameborder="0" allowfullscreen></iframe>}}}
+
+그러나 기대에 못 미친다는 평이 대다수. 물론 모션 그래픽의 질은 8년 전보다 월등히 높아졌지만, 단순히 일러스트를 연속해서 보여주는 것에 지나지 않는 단순한 구성이 많은 유저들을 실망시켰다. 온라인 버전은 Eyehead가 심혈을 기울여 제작한 동화(動畵)와 더불어 연출이 역동적인 것에 비하면 더더욱 그렇다. 작화의 분위기 자체도 곡과 제대로 맞지 않는다. 
+
+~~[http://www.youtube.com/watch?v=k1bAHwvbilg Silent Clarity에 붙이니 멀쩡한 브가가 되어버렸다]~~[* 참고로 [Silent Clarity] 항목에 가면 이거랑 반대로 영상을 붙인 링크가 존재한다. 어?]
+
+== [DJMAX TECHNIKA Q] ==
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|||| 2라인 |||| 3라인 ||
+|| 패턴 || 난이도 || 패턴 || 난이도 ||
+||<#FFFF00> Original || 4 ||<#FFFF00> Original || 5 ||
+||<#0000FF> {{{#white Premium}}} || 6 ||<#0000FF> {{{#white Premium}}} || 6 ||
+||<#FF0000> Signature || 7 ||<#FF0000> Signature || 8 ||
+
+2014년 5월 12일 업데이트 된 Q 뮤직팩 21에 수록되었다. 스크롤 속도가 빠르고 엇박 드럼이 약간씩 나와서 좋은 판정 내기가 쉽지 않다. ~~피버쓰자~~
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/zcbgFFllf88" frameborder="0" allowfullscreen></iframe>}}}
+
+3라인 Signature 패턴 플레이 영상
+
+[[각주]]

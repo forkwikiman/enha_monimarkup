@@ -1,0 +1,110 @@
+ * 상위항목 : [[KBO 리그]]
+ * 관련항목 : [[세계에서 가치있는 50개 스포츠팀]]
+
+[[목차]]
+== 개요 ==
+2006년부터 포브스 코리아가 매년 11월호에 기재하는 프로야구단 가치 평가. 포브스가 선정하는 [[세계에서 가치있는 50개 스포츠팀]]에서는 종목 불문하고 가치가 높은 구단들을 모두 선정하지만, 포브스 코리아가 선정하는 구단가치는 [[한국프로야구]]팀을 대상으로만 실시한다.
+
+== 산출 기준 ==
+ * 시장 가치(연고지 가치) : 연고지 규모를 금액으로 환산해 평가. 인구가 많을수록 금액에서 유리하다.
+ * 경기장 가치 : 구장이 얼마나 좋은지가 아닌, 구장운영 수입이 얼마나 되는가를 고려한 항목이고 포브스코리아에서는 홈관중과 잠실구장 원전 관중을 합산해 이대로 간다면 향후 10년간 들어올 수입으로 전환해 계산한다.
+ * 스포츠 가치 : 팀 성적이 영향을 미치는 항목으로 발생하는 이득을 책정한다. 구단 총연봉, 방송경기 중계횟수로 인한 이득, 경기성적등이 기준이다. 경기 성적은 2014년 부터 추가된 항목으로 전년도 승률, 올해 승률 그리고 역대 우승횟수로 책정되는 금액이다.
+
+위의 세가지를 합산해서 발표하는 금액이 프로야구 가치라고 밝히고 있다. 한때 [[네이트]]에서 설문조사로 "브랜드 가치"항목을 인터넷 투표로 설문조사 한적이 있으나 곧 사라졌다.
+
+== 역대 구단가치 ==
+=== 2006년 ===
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기력''' || '''브랜드가치''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위''' || [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || 90억원 || {{{#FF4500 279억원}}} || {{{#FF4500 373억원}}} || '''{{{#FF4500 914억원}}}''' ||
+|| '''2위''' ||<#FFFFFF> [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || 192억원 || 194억원 || 251억원 || '''886억원''' ||
+|| '''3위''' ||<#FFFFFF> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || {{{#FF4500 207억원}}} || 215억원 || 111억원 || '''884억원''' ||
+|| '''4위''' ||<#FFFFFF> [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || 206억원 || 177억원 || 113억원 || '''847억원''' ||
+|| '''5위''' ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || 47억원 || 225억원 || 168억원 || '''540억원''' ||
+|| '''6위''' ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || 110억원 || 140억원 || 11억원 || '''441억원''' ||
+|| '''7위''' ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || 60억원 || 132억원 || 69억원 || '''361억원''' ||
+|| '''8위''' ||<#FFFFFF> [[wiki:"현대 유니콘스" attachment:/hyundai_unicorns_s.png]] || 39억원 || 155억원 || 27억원 || '''292억원''' ||
+
+=== 2008년 ===
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기장 가치''' || '''스포츠가치''' || '''브랜드가치''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위'''  || [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || {{{#FF4500 125억}}} || {{{#FF4500 660억}}} || 192억 || {{{#FF4500 125억}}} || '''{{{#FF4500 1,102억}}}''' ||
+|| '''2위''' ||<#FFFFFF> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || 120억 || 447억 || 230억 || 18억 || '''788억''' ||
+|| '''3위''' ||<#FFFFFF> [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || 120억 || 349억 || 180억 || 6억 || '''655억''' ||
+|| '''4위''' ||<#FFFFFF> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || 87억 || 109억 || {{{#FF4500 251억}}} || 37억 || '''484억''' ||
+|| '''5위''' ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || 94억 || 173억 || 158억 || 17억 || '''442억''' ||
+|| '''6위''' ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || 49억 || 139억 || 238억 || 13억 || '''439억''' ||
+|| '''7위''' ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || 51억 || 153억 || 198억 || 7억 || '''404억''' ||
+|| '''8위''' ||<#FFFFFF> attachment:/57300_24987_833.jpg?width=50 || 120억 || 117억 || 127억 || 2억 || '''366억''' ||
+
+=== 2009년 ===
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기장 가치''' || '''스포츠가치''' || '''브랜드가치''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위''' || [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || 130억 || 766억 || 217억 || 166억 || '''{{{#FF4500 1,279억}}}''' ||
+|| '''2위''' ||<#FFFFFF> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || || || || || '''976억''' ||
+|| '''3위''' ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || || || || || '''909억''' ||
+|| '''4위''' ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || || || || || '''885억''' ||
+|| '''5위''' ||<#FFFFFF> [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || || || || || '''802억''' ||
+|| '''6위''' ||<#FFFFFF> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || || || || || '''676억''' ||
+|| '''7위''' ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || || || || || '''461억''' ||
+|| '''8위''' ||<#FFFFFF> http://timetree.zumst.com/2014/11/07/13/c5317adaad4f47e3bdde3d8187a3c27d.jpeg?width=50 || || || || || '''440억''' ||
+
+=== 2010년 ===
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기력''' || '''브랜드가치''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위''' ||  [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || || || || '''{{{#FF4500 1,329억원}}}''' ||
+|| 2위 ||<#FFFFFF> [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || || || || '''1,270억원''' ||
+|| 3위 ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || || || || '''1,156억원''' ||
+|| 4위 ||<#FFFFFF> [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || || || || '''982억원''' ||
+|| 5위 ||<#FFFFFF> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || || || || '''888억원''' ||
+|| 6위 ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || || || || '''702억원''' ||
+|| 7위 ||<#FFFFFF> [[wiki:"넥센 히어로즈" attachment:/nexen_heros_s.png]] || || || || '''567억원''' ||
+|| 8위 ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || || || || '''424억원''' ||
+
+=== 2011년 ===
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기력''' || '''브랜드가치''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위''' || [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || || || || ||
+|| 2위 ||<#FFFFFF> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || || || || ||
+|| 3위 ||<#FFFFFF> [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || || || || ||
+|| 4위 ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || || || || ||
+|| 5위 ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || || || || ||
+|| 6위 ||<#FFFFFF> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || || || || ||
+|| 7위 ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || || || || ||
+|| 8위 ||<#FFFFFF> [[wiki:"넥센 히어로즈" attachment:/nexen_heros_s.png]] || || || || ||
+
+=== 2012년 ===
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기장 가치''' || '''연봉''' || '''중계''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위''' || [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || || || || ||
+|| '''2위''' ||<#FFFFFF> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || || || || ||
+|| '''3위''' ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || || || || ||
+|| '''4위''' ||<#FFFFFF> [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || || || || ||
+|| '''5위''' ||<#FFFFFF> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || || || || ||
+|| '''6위''' ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || || || || ||
+|| '''7위''' ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || || || || ||
+|| '''8위''' ||<#FFFFFF> [[wiki:"넥센 히어로즈" attachment:/nexen_heros_s.png]] || || || || ||
+
+=== 2013년 ===
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기장 가치''' || '''연봉''' || '''중계''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위''' || [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || 155억 || {{{#FF4500 1,000억}}} || 52억 || 48억 || '''{{{#FF4500 1,255억}}}''' ||
+|| '''2위''' ||<#FFFFFF> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || 155억 || 875억 || 55억 || 58억 || '''1,143억''' ||
+|| '''3위''' ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || 131억 || 597억 || 59억 || 65억 || '''852억''' ||
+|| '''4위''' ||<#FFFFFF> [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || {{{#FF4500 162억}}} || 441억 || 50억 || {{{#FF4500 90억}}} || '''743억''' ||
+|| '''5위''' ||<#FFFFFF> [[wiki:"넥센 히어로즈" attachment:/nexen_heros_s.png]] || 155억 || 453억 || 43억 || 56억 || '''707억''' ||
+|| '''6위''' ||<#FFFFFF> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || 115억 || 321억 || {{{#FF4500 67억}}} || 80억 || '''583억''' ||
+|| '''7위''' ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || 67억 || 264억 || 51억 || 62억 || '''444억''' ||
+|| '''8위''' ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || 70억 || 265억 || 45억 || 57억 || '''437억''' ||
+|| '''9위''' ||<#FFFFFF> [[wiki:"NC 다이노스" attachment:/nc_dinos_s.png]] || 50억 || 322억 || 25억 || 39억[* 지상파 중계가 한건도 없었다.] || '''436억''' ||
+
+=== 2014년 ===
+[http://joongang.joins.com/article/310/16795310.html?ctg=1400&cloc=joongang%7Chome%7Cranking 기사]
+
+||<#rowbgcolor=#FFFFFF> '''순위''' || '''팀명''' || '''시장 가치'''[[br]](연고지 가치) || '''경기장 가치''' || '''연봉''' || '''중계''' || '''성적''' || '''총액''' ||
+||<#rowbgcolor=#FFD700><:> '''1위''' || [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] || 152억 || {{{#FF4500 904억}}} || 64억 || {{{#FF4500 174억}}} || 28억 || '''{{{#FF4500 1,265억}}}''' ||
+|| '''2위''' ||<#FFFFFF> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] || 152억 || 899억 || 52억 || 107억 || 37억 || '''1,247억''' ||
+|| '''3위''' ||<#FFFFFF> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] || 129억 || 573억 || 53억 || 86억 || 37억 || '''878억''' ||
+|| '''4위''' ||<#FFFFFF> [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] || {{{#FF4500 157억}}} || 514억 || 63억 || 106억 || 27억 || '''867억''' ||
+|| '''5위''' ||<#FFFFFF> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] || 60억 || 510억 || 47억 || 104억 || {{{#FF4500 106억}}} || '''836억''' ||
+|| '''6위''' ||<#FFFFFF> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] || 113억 || 395억 || {{{#FF4500 76억}}} || 133억 || 79억 ||  '''795억''' ||
+|| '''7위''' ||<#FFFFFF> [[wiki:"넥센 히어로즈" attachment:/nexen_heros_s.png]] || 152억 || 448억 || 51억 || 86억 || 49억 || '''785억''' ||
+|| '''8위''' ||<#FFFFFF> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] || 71억 || 429억 || 58억 || 79억 || 16억 || '''653억''' ||
+|| '''9위''' ||<#FFFFFF> [[wiki:"NC 다이노스" attachment:/nc_dinos_s.png]] || 50억 || 309억 || 40억 || 90억 || 8억 || '''497억''' || 
+|| '''10위''' ||<#FFFFFF>  [[wiki:"KT 위즈" attachment:/KT_Wiz_s.png]] ||<-6> 2014시즌에는 [[퓨처스리그]] 소속이라 미평가 ||
+
+== 그외 ==
+ * 참고로 포브스 코리아에서 선정하는 구단 가치 외에도 [[재벌닷컴]]에서도 간혹 구단 가치를 선정할때가 있다. 이쪽은 재무가치, 브랜드가치, 경제효과를 산정해서 평가한다. [http://www.asiae.co.kr/news/view.htm?idxno=2011101910202994043 2010년]

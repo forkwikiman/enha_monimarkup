@@ -1,0 +1,47 @@
+'''気分上々↑↑'''
+
+ * 이 항목은 '기분업업'으로 들어올 수 있다.
+
+[[목차]]
+
+== 개요 ==
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='Y2IFTfgn4dM$' width='502px' height='405px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=Y2IFTfgn4dM$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=Y2IFTfgn4dM$' width='502px' height='405px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+PV 영상
+
+일본의 혼성 듀오 [[mihimaru GT]]의 노래로 일본에서 2006년에 발매되었다. 그룹 최초로 오리콘 주간차트 탑10(7위)에 진입했으며 같은 해 골드 아티스트 상을 수상하는 원동력이 되었다. 그리고 그 해 [[홍백가합전]]에도 첫 출연하는 등 여러모로 그룹을 알린 곡.
+
+그래서 [[mihimaru GT]]의 아시아 발매용 베스트 앨범 'The best Selection of ASIA'에서 중국어 버전과 한국어 버전이 수록되기도 했다.(랩 파트는 바뀌지 않았다.) 한국에서는 앨범을 발매하지는 않고 '기분 업업↑↑'이라는 제목으로 이 한 곡만 디지털 싱글음반으로 판매했다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/VHbuBmnlUrM?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VHbuBmnlUrM?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+2009 아시아 송 페스티벌에서 한국어 자기소개 및 한국어 버전의 '기분업업↑↑'을 부르는 영상.
+
+여담으로 어떤 유저가 이노래의 반주에다가 [[연애서큘레이션]] 을 [http://tvple.com/133322 합성했는데] 싱크로율이 쩔어준다(...)
+== [[리듬게임]]에 수록 == 
+[[태고의 달인]]시리즈, [[유비트 시리즈]], [[응원단 시리즈]] 등에 수록되는 정말 리듬게임에 많이 수록되는 라이센스곡이다. 한국에서 이 곡의 인지도가 높아진 계기이기도 하다. 
+
+=== [[유비트 시리즈]] ===
+||||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>3||<:>4||<:>5||
+||<#ffffff><:>노트수||||<:>266||<:>316||<:>407||
+||<#ffffff><:>BPM||||||||<:>125||
+||<#ffffff><:>곡 이력||||||||[[유비트]]에서 첫 수록[[BR]][[유비트 플러스]]에서 mihimaru GT pack에 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/6Sadtj0hi2U?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6Sadtj0hi2U?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+[[유비트 리플즈]]에서의 EXTREME 영상
+
+전체적으로 난이도가 높은 편은 아니지만 [[엑설런트]]를 노린다면 주의하는 게 좋다. '컴온 세이 예예예'할때 '예예예' 부분 박자가 미묘하기 때문에 마커를 봐가면서 치는 게 중요하다. 이 박자가 '''세 보면 모두''' 들어가 있다는 사실.
+
+저 박자 덕분에 베이직의 경우 3렙 중 엑설 난이도가 제일 어려운 곡 중 하나이다.
+엑설실패의 변명감으로 삼자면, 저 박자가 원래 어려운 박자이긴 하다. 하지만 흔히 착각하는 셋잇단음표와는 다른 개념이다. 셋잇단음표는 표시된 음표를 3등분해서 치라는 의미인데, 여기서 등장하는 박자는 3/4박자, 즉 3박자동안 4번을 치는 간격의 박자이다. 이는 대부분의 음악의 4/4박자의 정박(4분음표, 8분음표 등)과는 맞지 않는 엇박 간격이기 때문에 익숙해지지 않는다면 치기 어려운 박자이다. 다른 예를 들자면 에반스의 주요 박자의 간격이 3/4박자이다. 비트로 환산하면 5.3333...이며 이 박자와 비슷한 2/3박의 경우 환산하면 6비트가 되므로 둘은 미묘하지만 구분할 필요가 있다.
+
+소서 풀필 오면서 곡 교체 제도가 폐지되었으므로 라이센스 계약 만료로만 곡이 삭제되기 때문에 계약 종료로 삭제되지 않는 이상 [[Love so sweet]]와 함께 최장 현역 기간을 계속 갱신할 것으로 보인다.

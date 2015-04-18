@@ -1,0 +1,331 @@
+<<include(틀:스킬 애널라이저)>>
+
+[[목차]]
+== 2014년 5월 1일 ==
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[恋する☆宇宙戦争っ！！]] あばばばみっくす || ARM[[br]]([[IOSYS]]) || 200 || {{{#purple NOV}}} || 6 ||
+|| '''2''' || [[超越してしまった彼女と其を生み落した理由]] || Ayatsugu_Otowa || 178 || {{{#purple NOV}}} || 6 ||
+|| '''3''' || [[BLACK or WHITE?]] || BlackYooh vs.[[br]] siromaru || 185 || {{{#purple NOV}}} || 6 ||
+
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Max Burning!!]] || BlackY || 190 || {{{#purple NOV}}} || 7 ||
+|| '''2''' || [[バタフライキャット]] || daniwell || 167 || {{{#orange ADV}}} || 7 ||
+|| '''3''' || [[ウサテイ]] || あまね+[[비트마리오|ビートまりお]][[br]]([[COOL&CREATE]]) || 190 || {{{#orange ADV}}} || 8 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[천성의 약함|天ノ弱]][[br]](EXIT TUNES) ||164[[br]]feat. GUMI || 200-205 || {{{#orange ADV}}} || 9 ||
+|| '''2''' || [[TYCOON]] || [[SOUND HOLIC]][[br]]feat. Nana Takahashi || 170 || {{{#orange ADV}}} || 10 ||
+|| '''3''' || [[It's over]] || ゆよゆっぺ[[br]]feat.めらみぽっぷ || 144 || {{{#ff009f EXH}}} || 10 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[EOS]][[br]]-INFINITE EDIT- || ginkiha || 175 || {{{#orange ADV}}} || 11 ||
+|| '''2''' || [[%23Fairy_dancing_in_lake|#Fairy_dancing_in_lake]] || uno(IOSYS) || 142 || {{{#orange ADV}}} || 11 ||
+|| '''3''' || [[隅田川夏恋歌]][[br]](I/O Angel mix) || Daisuke Ohnuma(大福P) || 178 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Ray]] || 源屋 || 175 || {{{#ff009f EXH}}} || 12 ||
+|| '''2''' || [[こちら、幸福安心委員会です。]][[br]](EXIT TUNES) || [[うたたＰ]] || 128 || {{{#orange ADV}}} || 12 ||
+|| '''3''' || [[SEED]][[br]]DJ Noriken Remix || DJ Noriken || 175 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[華陽炎-Hana Kagerou-]] || 源屋[[br]]feat.Kuroa* || 85-195 || {{{#ff009f EXH}}} || 13 ||
+|| '''2''' || [[마리사는 엄청난 것을 훔쳐갔습니다|魔理沙は大変なものを盗んでいきました]] || ARM([[IOSYS]]) || 170 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[사기 라이프 게임|イカサマライフゲイム]] || [[kemu]][[br]]feat. GUMI || 200 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[獣性オーバーフロウ]] || PROCYON KNIGHTS PROJECT || 168 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[freaky freak]] || kamome sano || 145 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[Virtual Sunrise]] || [[kors k]] || 170 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[ませまてぃっく♥ま+ま=まじっく！]] || かめりあ[[br]]feat. [[나나히라|ななひら]] || 192 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[%23Fairy_dancing_in_lake|#Fairy_dancing_in_lake]] || uno([[IOSYS]]) || 142 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[雪女]] || かねこちはる || 200 || {{{#ff009f EXH}}} || 14 ||
+
+#Fairy_dancing_in_lake가 후보곡에 나오자마자 8단으로 들어왔다. 전체적으로 난이도가 올라간 편인데 패댄에서 게이지가 빠져나가기 매우 쉽다. 매스매틱의 후살을 버티고 페댄에서 어떻게든 노브를 살려 게이지를 유지하고 설녀를 잡으면 된다(...) ~~말이 쉽지~~
+
+=== Skill Level 09 마기사(魔騎士) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_09.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Nyan Cat]][[br]](EXIT TUNES) || daniwellP[[br]]feat. 桃音モモ || 142 || {{{#448844 INF}}} || 15 ||
+|| '''2''' || [[Dignity]] || Yooh || 193 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[HAELEQUIN]] || orangentle / Yu_Asahina || 172 || {{{#ff009f EXH}}} || 15 ||
+
+[[Dignity]] 와 [[HAELEQUIN]] 은 원래 10단 후보곡이었는데 9단 후보곡으로 내려오고나서 9단 코스에 바로 들어왔다.
+디그니티의 곡 중반엔 FX12를 누른상태에서 양쪽 노브를 한손으로 커버해야하는 패턴이 있어서 초견플레이시 게이지 손해를 볼 가능성이 매우 높고, 할리퀸의 마지막엔 FX12를 누른상태에서 123234 식으로 나오는 24비트 계단후살이 까다로운 편이다.
+
+=== Skill Level 10 강력라(剛力羅) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_10.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[大宇宙ステージ]] || [[黒魔]] || 202 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[U.N.オーエンは彼女なのか？haru_naba Remix]] || はるなば || 140-200 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Verse IV]] || ZOGRAPHOS[[br]](Yu_Asahina+[[Yamajet]]) || 212 || {{{#ff009f EXH}}} || 15 ||
+
+여태껏 9단에 있던 大宇宙ステージ가 10단 후보곡에 오르자마자 10단에 들어왔지만, 10단 금날개를 노리는 웬만한 유저들의 경우에는 대우주 스테이지가 크게 작용하지 않는다. 그리고 SA 8회에서 [[용골귀전 테마곡]]과 함께 10단 도전자들 여럿 울렸던 하루나바 오웬이 두번째 곡으로 다시 등장했다. 그러나 역시 가장 주목되는 점은 대망의 '''Verse IV 의 등장'''. 16비트 FX트릴을 한손으로 처리해야 하는 [후살]에서 게이지가 날아가기 쉬우므로 주의.
+유저들의 평가는 스코어링이 어려운 10단. 클리어 난이도는 [[Quietus Ray]]니 [[Booths of Fighters]]같이 깨는 것부터 난제인 것도 아니고, [[good high school]]이나 [[용골귀전 테마곡#s-2|「月風魔伝」龍骨鬼戦 yks Remix]]처럼 노브로 괴롭히는 것도 아니어서 클리어 난이도는 그렇게 높지는 않다. 하지만 U.N.オーエンは彼女なのか？haru_naba Remix와 Verse IV의 스코어링 난이도는 상당히 높기 때문에, 결국 클리어보다는 달성률을 깎아먹는 단이 되버렸다. '이젠 클리어 말고 달성률로 괴롭히냐'는 우스갯소리도 나올 정도. 후광을 만들고자 하는 유저들은 주의해야 할 코스. --물론 대우주 난민이면 꿈도 희망도 없다.--
+
+== 2014년 6월 5일 ==
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[신들의 기도|神々の祈り]] || 舞風-MAIKAZE/沙紗飛鳥 || 130 || {{{#orange ADV}}} || 7 ||
+|| '''2''' || [[Smile(비마니 시리즈)|Smile]] || [[Hommarju]][[BR]]feat.[[미타니 나나|実谷なな]] || 185 || {{{#orange ADV}}} || 7 ||
+|| '''3''' || [[For UltraPlayers]] || [[cosMo@폭주P|cosMo@暴走P]] || 201 || {{{#purple NOV}}} || 7 ||
+2014년 4월 스킬 애널라이저 때부터 KAC 다단계 해금곡이 최소 하나씩은 들어가고 있다(...). 4월에는 [超越してしまった彼女と其を生み落した理由|초월그녀], 5월에는 초월그녀와 [BLACK or WHITE?|블화], 6월에는 울플.
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[이얼 팬클럽|いーあるふぁんくらぶ]][[br]](EXIT TUNES) || みきとP || 145 || {{{#orange ADV}}} || 7 ||
+|| '''2''' || [[絢爛創世絵巻物]] || ke-ji || 80-137 || {{{#orange ADV}}} || 8 ||
+|| '''3''' || [[ウサテイ]] || あまね+[[비트마리오|ビートまりお]][[br]]([[COOL&CREATE]]) || 190 || {{{#orange ADV}}} || 8 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[竹取飛翔]] ||[[키시다교단|岸田教団]]＆THE明星ロケッツ || 156 || {{{#orange ADV}}} || 9 ||
+|| '''2''' || [[Rings of Rainbow]] || [[Hommarju]] || 215 || {{{#orange ADV}}} || 10 ||
+|| '''3''' || [[방과후 스트라이드|放課後ストライド]][[br]](EXIT TUNES) || [[Last Note.]] || 225 || {{{#orange ADV}}} || 10 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Fiat Lux]] || [[xi]] || 200 || {{{#orange ADV}}} || 11 ||
+|| '''2''' || [[푸른 하늘에 피어나는, 묵염의 벚꽃|蒼空に舞え、墨染の桜]]] || さゆり[[BR]]([[Silver Forest]]) || 150 || {{{#ff009f EXH}}} || 12 ||
+|| '''3''' || [[隅田川夏恋歌]][[br]](I/O Angel mix) || Daisuke Ohnuma(大福P) || 178 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[こちら、幸福安心委員会です。]][[br]](EXIT TUNES) || [[うたたＰ]] || 128 || {{{#orange ADV}}} || 12 ||
+|| '''2''' || [[ゴーイング マイ ウェイ!]] || 8284 feat. みかん汁 || 185 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[Sakura Reflection]][[BR]]音頭 -盆踊Remix- || 源屋 || 180 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[로스트원의 호곡|ロストワンの号哭]][[br]](EXIT TUNES) || [[Neru]] || 162 || {{{#ff009f EXH}}} || 13 ||
+|| '''2''' || [[텐구가 떨어트린 수첩|天狗の落とし文]][[BR]]feat. ytr || [[혼음천|魂音泉]] || 160 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[ゆうしゃのなつやすみ]] || Verdammt || 167 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[마경타천록 사리엘|魔境堕天録サリエル]] || Unlucky Morpheus || 176 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[Profession]] || syzfonics || 132 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[アルストロメリア]][[BR]]KURO-HACO Remix || kuroburger || 173 || {{{#ff009f EXH}}} || 14 ||
+
+노브 조작에 서투르다면 2곡째의 Profession이 보스곡이 될 수 있으니 주의.
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[GEROL]] || [[Hommarju]] || 175 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[%23Fairy_dancing_in_lake|#Fairy_dancing_in_lake]] || uno([[IOSYS]]) || 142 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[빼앗김|ウバワレ]] || TAKU1175 || 190 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 09 마기사(魔騎士) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_09.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Brain Power]] || ノマ || 170-173 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[Mist In Hell]] || LUNA || 225 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[HAELEQUIN]] || orangentle / Yu_Asahina || 172 || {{{#ff009f EXH}}} || 15 ||
+
+=== Skill Level 10 강력라(剛力羅) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_10.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[KiLLeR MeRMaiD]] || QURELESS || 440 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[Verse IV]] || ZOGRAPHOS[[br]](Yu_Asahina+[[Yamajet]]) || 212 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Harpuia]] || BlackY || 93-186 || {{{#ff009f EXH}}} || 15 ||
+
+이번 10단 역시 11회 때처럼 스코어링 난이도가 어려운 곡들로 구성되어있다. 변속으로 유저들을 괴롭히던 [U.N.オーエンは彼女なのか？haru_naba Remix|하루나바 오웬]이 떠나니 이번에는 같은 동방곡인 KiLLeR MeRMaiD가 첫 10단 참여로 들어와 초고속 스크롤로 포문을 열고 지난회 10단 마지막 곡이었던 Verse IV가 이번에는 두번째 곡으로 나와 스코어링을 죄다 갉아먹는다. 마지막 곡인 Harpuia도 킬러 머메이드처럼 10단 첫 참여인데 스코어링도 스코어링이지만 클리어 난이도까지 15레벨 상위권에 속하는지라... 여러모로 11회 때보다 더 험난한 10단 찍기가 될 듯하다.
+== 2014년 7월 4일 ==
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[신들의 기도|神々の祈り]] || 舞風-MAIKAZE/沙紗飛鳥 || 130 || {{{#orange ADV}}} || 7 ||
+|| '''2''' || [[カラルの月]][[br]]Verdammt Remix || Verdammt || 135 || {{{#orange ADV}}} || 7 ||
+|| '''3''' || [[For UltraPlayers]] || [[cosMo@폭주P|cosMo@暴走P]] || 201 || {{{#purple NOV}}} || 7 ||
+
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[이얼 팬클럽|いーあるふぁんくらぶ]][[br]](EXIT TUNES) || みきとP || 145 || {{{#orange ADV}}} || 7 ||
+|| '''2''' || [[絢爛創世絵巻物]] || ke-ji || 80-137 || {{{#orange ADV}}} || 8 ||
+|| '''3''' || [[桜華月想]][[br]]-SDVX EDIT- || 源屋[[br]]feat. 3L || 138 || {{{#orange ADV}}} || 8 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[月に叢雲華に風]] ||[[유폐 새틀라이트|幽閉サテライト]][[br]]feat. [모리나가 마유미|Senya] || 160 || {{{#orange ADV}}} || 9 ||
+|| '''2''' || [[少年は空を辿る]][[br]]Prog Piano Remix || とろまる || 140 || {{{#orange ADV}}} || 9 ||
+|| '''3''' || [[방과후 스트라이드|放課後ストライド]][[br]](EXIT TUNES) || [[Last Note.]] || 225 || {{{#orange ADV}}} || 10 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[%23Fairy_dancing_in_lake|#Fairy_dancing_in_lake]] || [RoughSketch|uno(IOSYS)] || 142 || {{{#orange ADV}}} || 11 ||
+|| '''2''' || [[Pure Evil]] || [[kors k]] || 190 || {{{#orange ADV}}} || 12 ||
+|| '''3''' || [[恋愛勇者]][[br]](EXIT TUNES) || [[Last Note.]][[br]]feat. [[GUMI]] || 190 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[冥]][[br]]Rockin' SWING REMIX || 164 || 200 || {{{#orange ADV}}} || 12 ||
+|| '''2''' || [[샛별 로켓|明星ロケット]] || [[키시다교단|岸田教団＆THE明星ロケッツ]] || 163 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[snow motion]] || こふ || 181 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[smooooch・∀・]][[br]]KN mix || KN || 177 || {{{#ff009f EXH}}} || 13 ||
+|| '''2''' || [[Erlung]] || [[削除]] || 140 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[竹取飛翔]] || [[키시다교단|岸田教団]]＆THE明星ロケッツ || 156 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[冬に桜が咲くようなキセキ。]] || Music by nmk/佐原誠&kei_iwata[[br]]Vocal by SOPHY || 160 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[Profession]] || syzfonics || 132 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[우블 마법 도서관|ワヴル魔法図書館]] || wobble magic library || 180 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[환부에서 멈춰서 바로 녹는다|患部で止まってすぐ溶ける ～ 狂気の優曇華院]] || ARM([[IOSYS]]) || 200 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[GAMBOL]][[br]](dfk SLC rmx) || D.F.K. Soundsystem || 177 || {{{#448844 INF}}} || 14 ||
+|| '''3''' || [[빼앗김|ウバワレ]] || TAKU1175 || 190 || {{{#ff009f EXH}}} || 14 ||
+노브곡이었던 패댄이 2연속 출전으로 물러나니 이번엔 GAMBOL이 들어왔다(...)
+
+=== Skill Level 09 마기사(魔騎士) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_09.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Gott]] || [[Hommarju]] || 195 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[Lunartic Dial]] || Shiron || 162 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Qubism]] || Hate vs Brilliance || 180 || {{{#ff009f EXH}}} || 15 ||
+지금까지의 9단과 비교하면 크게 어려운 곡이 없어 역대 최강 물9단이라 불리고 있다. 폭타에 약한 사람이면 힘들 수도 있겠지만 그래도 이전까지의 9단과 비교하면 쉬운 편.
+
+=== Skill Level 10 강력라(剛力羅) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_10.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Joyeuse]] || ke-ji || 260-274 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[%23FairyJoke|#FairyJoke]][[br]] #SDVX_Edit || [[RoughSketch|uno(IOSYS)]] || 160 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Fiat Lux]] || [[xi]] || 200 || {{{#ff009f EXH}}} || 15 ||
+
+[[대우주 스테이지]]에 이어 Joyeuse도 9단에서 10단으로 격상되었다. 클리어는 6회와 견줄 정도로 쉬운 편이지만, 스코어링 자체가 난해한 곡인 Joyeuse와 노브가 폭풍처럼 쏟아지는 #FairyJoke, 그리고 폭타가 쉼없이 쏟아지는 Fiat Lux, 세 곡 모두 스코어링에 한해 난민이 발생하기 쉬운 곡이기 때문에 스코어링 난이도는 어려운 편이다.
+
+== 2014년 8월 1일 ==
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[C18H27NO3]] || Team Grimoire || 210 || {{{#purple NOV}}} || 6 ||
+|| '''2''' || [[BLACK or WHITE?]]|| BlackYooh vs. siromaru || 185 || {{{#purple NOV}}} || 6 ||
+|| '''3''' || [[西日暮里の踊り]] || [[집 뒤에 개복치가 죽어 있어P|家の裏でマンボウが死んでるP]] || 140 || {{{#orange ADV}}} || 7 ||
+
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[노심융해#s-2.4|炉心融解]][[br]](EXIT TUNES) || iroha || 165 || {{{#orange ADV}}} || 7 ||
+|| '''2''' || [[스무치|smooooch・∀・]][[br]]KN mix || KN || 177 || {{{#orange ADV}}} || 8 ||
+|| '''3''' || [[太陽はやめて！ぼくらのスカーレット警察]] || 七条レタスグループ starring ココ || 134 || {{{#orange ADV}}} || 8 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[WAVE WAVE WAVE]] || ZYTOKINE feat. itori || 135 || {{{#orange ADV}}} || 9 ||
+|| '''2''' || [[과식성: 아이돌 증후군#s-4|過食性:アイドル症候群]][[br]](EXIT TUNES) || スズム[[br]]feat.GUMI & MAYU || 200 || {{{#orange ADV}}} || 10 ||
+|| '''3''' || [[Freeway Shuffle]][[br]]More2 HAPPY Re-Mix || Yu_Asahina || 160 || {{{#orange ADV}}} || 10 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[HAELEQUIN]] || orangentle / Yu_Asahina || 172 || {{{#orange ADV}}} || 11 ||
+|| '''2''' || [[西日暮里の踊り]] || [[집 뒤에 개복치가 죽어 있어P|家の裏でマンボウが死んでるP]] || 140 || {{{#ff009f EXH}}} || 12 ||
+|| '''3''' || [[非公開日誌]][[br]](EXIT TUNES) || みきとP[[br]]feat. [[GUMI]] || 188 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[XROSS INFECTION]] || BlackY vs. Yooh || 194 || {{{#orange ADV}}} || 12 ||
+|| '''2''' || [[샛별 로켓|明星ロケット]] || [[키시다교단|岸田教団＆THE明星ロケッツ]] || 163 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[サイコパスコミュニケーション]] || ゆちゃP || 204 || {{{#448844 INF}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[ヤサイマシ☆ニンニクアブラオオメ]]|| azuma[[BR]]feat. [[나나히라|ななひら]] || 180 || {{{#ff009f EXH}}} || 13 ||
+|| '''2''' || [[로스트 원의 호곡|ロストワンの号哭]] || [[Neru]] || 162 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[ミライプリズム]] || [[시노노메 코코나|ここ]][[시노노메 나츠히|なつ]] || 140 || {{{#448844 INF}}} || 14 ||
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[루빅 큐브|ルービックキューブ]][[br]](EXIT TUNES) || [[otetsu]][[BR]]feat.GUMI || 140 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[獣性オーバーフロウ]] || PROCYON KNIGHTS PROJECT|| 168 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[We Are The Scarlet]][[br]](SDVX Edit) || 天音 (Rolling Contact) || 180 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[ませまてぃっく♥ま+ま=まじっく！]] || かめりあ feat. ななひら || 192 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[GAMBOL]][[br]](dfk SLC rmx) || D.F.K. Soundsystem || 177 || {{{#448844 INF}}} || 14 ||
+|| '''3''' || [[終点]][[br]](EXIT TUNES) || [[cosMo@폭주P|cosMo@暴走P]] || 222 || {{{#ff009f EXH}}} || 14 ||
+
+빠지지 않는 매스매틱은 여전히 변태적인 채보로 첫스테이지부터 멘붕시키고, 두번째 노브곡인 [[GAMBOL]] INF는 여전히 노브를 중점적으로 플레이어들을 괴롭힌다. 마지막으로는 단위인정에 처음으로 수록된 종점, 중상위급 채보로 [[Quietus Ray|콰레기]] 약화판이라고 하는 패턴이 존재하니, 폭타에 약한 플레이어들은 반드시 이 곡을 한번 연습하고 난 뒤에 할 것을 추천
+
+
+=== Skill Level 09 마기사(魔騎士) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_09.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Onigo]] || [[Hommarju]] || 195 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[Dignity(비마니 시리즈)|Dignity]] || Yooh || 193 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[音楽#s-2.3.1|音楽 -壊音楽 mix-]] || LeaF || 270-420  || {{{#ff009f EXH}}} || 15 ||
+
+[[Onigo]]의 두번째 9단 진출이다. 중간 FX 롱놋+ BT 치기에 약한 플레이어들이라면, 게이지가 날아갈 수 있으니 연습을 하고 난뒤 도전하자. [[Dignity(비마니 시리즈)|Dignity]] 역시 초견살이 심하므로 패턴을 익히고 도전하는걸 추천. 보스곡으로는 [[音楽#s-2.3.1|音楽 -壊音楽 mix-]]의 첫 진출인데, EF 레이트로는 에러가 나도 게이지가 어느 정도 보정되서 클리어는 되지만, 단위인정 게이지로 할 시에는 난해한 패턴들과 변속을 주의해서 플레이해야 한다.
+
+=== Skill Level 10 강력라(剛力羅) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_10.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[柳の下のデュラハン hard chaos mix]] || albel. || 220 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[%23FairyJoke|#FairyJoke]][[br]] #SDVX_Edit || [[RoughSketch|uno(IOSYS)]] || 160 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Harpuia]] || BlackY || 93-186  || {{{#ff009f EXH}}} || 15 ||
+
+갈 수록 10단의 위엄이 떨어지고 있다는 플레이어들의 소리가 들리는 가운데 이번 단위인정 10단 최초로 동방곡이 2곡이나 나왔다. ~~만일 오웬 하루나바까지 나왔다면 본격 동방 단위인정일텐데~~ 하드 카오스는 중상위 패턴 으로 초고속 트릴과 중후반의 노브 컨트롤을 잘 처리하지 못하면 바로 폭사할수 있으니 주의, 물론 여전히 [[%23FairyJoke|#FairyJoke]]의 노브 패턴은 여전하다. ~~용서못해 마츠도~~ 그리고 저번 12회 단위인정에서 보스곡을 맡은 [[Harpuia]] 가 다시 보스곡을 차지했다.
+
+=== Skill Level 11 혹제멸두(或帝滅斗) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_11.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[XROSS INFECTION]] || [[BlackY]] vs. [[Yooh]] || 194 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[BLACK or WHITE?]] || [[BlackY]][[Yooh|ooh]] vs. [[siromaru]] || 185 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Black Emperor]] || [[黒魔]] || 30-195 || {{{#ff009f EXH}}} || 15 ||
+
+2014년 8월 21일 추가되었다. 칭호 색은 다른 스킬 레벨과는 다르게 고유한 색이다. 스킬 레벨 10 전 코스를 클리어(= 금날개 취득)하고, 이 코스를 구성하는 패턴을 전부 해금하여야 플레이할 수 있는 코스. 업데이트 당시에는 개전으로 취급되었으나 그러기엔 난이도가 역시 모자라다는 평가를 받았다. 얼마 지나지 않아 Max Burning!! INF가 16레벨임이 밝혀짐으로써, 아래 ∞단도 밝혀지게 되었다.
+
+이 코스를 플레이하려면 상당한 해금 노력을 필요로 하는데, XROSS INFECTION 이나 Black Emperor 같은 경우는 이 스킬 레벨을 도전 할 수 있는 시점에서는 적당한 블럭만 있다면 바로 뽑을 수 있지만, BLACK or WHITE? 의 경우 KAC 2013 다단계 해금 코스 중 후반부에 해당되는 곡이므로 꽤 많은 블럭이 필요하다.
+
+연동 이벤트 곡과 INFINITE BLASTER 해금곡을 제외한 15레벨 내에선 최대한의 난이도를 이끌어냈다는 평가이다. XROSS INFECTION과 Black Emperor는 그렇다 쳐도, 주목할 만한 것은 BLACK or WHITE?로, KAC 2013 순차 해금곡이 들어가지 않는다는 불문율이 깨졌다는 것.
+
+=== Skill Level ∞ 폭룡천(暴龍天) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_inf.gif
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Bangin' Burst]] || [[かめりあ]] || 234 || {{{#ff009f EXH}}} || 16 ||
+|| '''2''' || [[Max Burning!!]] || [[BlackY]] || 190 || {{{#448844 INF}}} || 16 ||
+|| '''3''' || [[For UltraPlayers]] || [[cosMo@暴走P]] || 201 || {{{#ff009f EXH}}} || 16 ||
+
+2014년 8월 21일 추가되었다. 칭호 색은 다른 스킬 레벨과는 다르게 고유한 색이다. 스킬 레벨 11을 달성하고, 이 코스를 구성하는 패턴을 전부 해금하면 플레이할 수 있다. 전자는 실력만 충분하다면 별 문제 없겠지만, 후자는 실력이 갖추어져 있더라도 해금에 상당한 돈과 시간을 요구한다. 특히 [[Max Burning!!]] INF 해금은 최소 10,000원이 든다. [* 인피니트 블래스터를 이론적으로는 최소 20회, 실질적으로는 최소 21회 플레이해야 한다. 21회 플레이한다고 했을 때, 블래스터 스타트 10회 후 라이트 스타트로 미리 모아놨던 블래스터 에너지를 쓸 경우 최소 10,500원 소요. [[croiX]] INF의 배리어 라이프가 5,000이라서 그런데, 퍼펙트만 5번을 내면 5번만에 해금할 수 있지만 현실적으로는 불가능하다.]
+
+세 트랙 전부 최고 레벨인 16레벨이 차지하고 있기에 더 이상 말이 필요없는, 난이도 하나는 최강인 코스이다. 또한 [INFINITE BLASTER] 출신 패턴이 들어간 최초의 코스가 되었다. 이 역시 다음 투표에 INFINITE BLASTER 패턴의 등장 가능성을 시사한다.

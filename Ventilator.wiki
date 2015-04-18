@@ -1,0 +1,57 @@
+{{{#!HTML
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/nqhOueT1i1M?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX Trilogy]] ||
+|| 추가 수록 버전 || [[DJMAX RAY]], [[TAP SONIC]] ||
+|| 장르 || Psychedelic Trance ||
+|| 작곡 || Cycle75 ||
+|| BGA || R-Goon ||
+|| BPM || 145 ||
+
+약칭은 '''벤틸'''.
+
+[[makou]]의 지인으로써 DJMAX Trilogy에 참가한 Cycle75의 사이키델릭 트랜스. [[DJMAX 시리즈]]에서는 2번째로 등장한 사이키델릭 트랜스이다. 미친듯이 휘몰아치는 신스음이 단연 압권. 곡에 대한 평가가 DJMAX Trilogy에서 [[Someday]] 다음으로 좋을 정도지만 어째서인지 후속 시리즈에 이식되지 않았다가 [[DJMAX RAY]]에 아이캐치만 리마스터링 되고 이식되었다.
+
+이 곡이 주목을 받게 되는 가장 큰 요소는 BGA. '''DJMAX 최초이자 유일의 이지툰 BGA'''[* 펜타비전에서 네이버 카페에서 활동하던 YURICHI의 작품을 얻어서 편집한 작품이라고 추측할 수 있다. [[http://blog.naver.com/yurichi/90013833466]]]이다. [[흠좀무]]. 이 BGA는 이지툰으로 제작됐다는 점과 박력넘치는 연출 덕에 인기가 많다. 등장인물 2명 모두 '''인간의 범위를 벗어난 초인들'''이다!
+
+~~유심히 살펴본다면 [wiki:"몽키 D. 루피" 모 해적만화의 주인공]과 [[AT필드]]라든가, [wiki:"우치하 사스케" 호화구 술] 등을 발견할 수 있다.~~
+
+== [[DJMAX Trilogy]] ==
+
+{{{#!HTML
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/zT2jIVn_gnw?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+8K SC패턴
+
+곡이 곡인 만큼 트릴로지 내에서의 난이도는 어렵다. '''매우 어렵다'''. 6키에 레벨 17짜리 MX패턴이 존재하며 4키와 8키에 각각 레벨 14, '''18'''짜리 SC패턴이 존재하는데 셋 다 풀피버 난이도는 [[안드로메다]]. 중후반부부터 시작되는 16비트 연타 덕분에 피버를 잇기가 매우 어렵다. 덕분에 8키 SC 패턴은 19레벨인 wiki:태권부리 MX 보다도 어렵다는 소리를 듣고 있다(...)
+
+== [[DJMAX RAY]] ==
+
+{{{#!HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/h5BkWODziT4?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+6K MX
+
+|||||||||| [DJMAX RAY]의 Dramatic 팩 수록곡 ||
+|| [[My Heart, My Soul]] || [[Supersonic ~Mr.Funky Remix~]] || [[Leave me alone]] || '''Ventilator''' || ["Secret(DJMAX)" Secret] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || || ||
+||<#0000FF> {{{#white HD}}} || || ||
+||<#FF0000> MX || || ||
+
+상당히 어려운 난이도로 나왔다. 아이캐치는 곡명이 리마스터링 되었다.
+
+== [[TAP SONIC]] ==
+
+2014년 2월 27일에 이식되었다. 이번에는 아예 '''10레벨을 달고 나왔다!''' ~~영상 추가바람~~
+
+6라인 레전드에서의 패턴의 특징을 꼽아보자면 일단 '''계단식 노트가 장난 아니게 많다.''' 그리고 연타의 비중도 [[SigNalize]] 이상으로 높은 편.잠깐 나오는 슬라이딩 2~3개는 leave me alone수준. 레벨 값에는 적절하지만 판정 내기는 [[Nightmare]] 정도는 아니어도 까다로운 편.이걸 긁어서 통과하면 한동안 엄지 못쓴다...~~해봤구나~~
+
+어째서인지 '''미러 옵션을 걸면 판정이 더 잘 나온다'''고 한다. ~~이펙터의 재발견~~
+
+여담으로 초반부에서 신스음 하나가 1/4박 늦게 나온다. [[DJMAX TECHNIKA 3]]에서 샘플링 음이 1/4박 빠르게 나왔던 [[Bamboo on Bamboo]]와는 또다른 케이스.
+
+여담 하나 더. 프로 패턴이 9레벨인데, '''심각하게 물렙이다'''(...). 8레벨로 책정되었어도 8레벨 초중반 정도.

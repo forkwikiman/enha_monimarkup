@@ -1,0 +1,96 @@
+[[목차]]
+== 개요 ==
+Cradle Edge의 곡. 타 미디어로는 [EZ2AC : EVOLVE]에 최초로 수록되었다.
+
+소박한 몬데그린으로, 브릿지 부분의 '매일 얘기하고 싶어 forever'가 '매일매일 하고 싶어'로 들리는 현상이 있다. (…) 몬데그린이라기보다는 그 전 가사가 '매일매일 보고 싶고 매일매일 안고 싶고'라서 거기에 이끌리는 것에 가깝다.
+
+2015년 4월 9일, [O2JAM U]에도 업데이트 되었다.
+
+== EZ2AC에서의 Mello Mello ==
+|| 장르 |||||||| ||
+|| 곡명 |||||||| mello mello ||
+|| 작곡 |||||||| Cradle Edge ||
+|| 배경 |||||||| Solm, FOX-B ||
+|| 최초 수록버전 |||||||| [[EZ2AC : EVOLVE]] ||
+|| BPM |||||||| 134 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EVOLVE]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 4 }}} || {{{#red 7 }}} || {{{#purple 11 }}} || {{{#blue - }}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7 }}} || {{{#red 9 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 7 }}} || {{{#red 9 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 8 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 9 }}} || {{{#red 14 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 8 }}} || {{{#red 14 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ffffff> TURNTABLE || {{{#orange 7 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+
+ * 코스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+||||Cradle Edge 2집 앨범 목록||
+||트랙||타이틀||
+||01||Minimalism Color ||
+||02||[[Flat Shoes|flat shoes]] ||
+||03||[[May%20I%20Come%20In%3F|May I Come In?]] ||
+||04||[[Venn Diagram|Venn diagram -interlude-]] ||
+||05||'''mello mello''' ||
+||06||[Bluesy] ||
+
+BGA는 아무리 봐도 [[WHEEL OF FIRE|이곡의 BGA]]의 후속작 포지션으로 보인다. [[카페베네]]로고도 그렇고 소소한 패러디와 소박한 개그성 반전이 볼거리. ~~BGA의 여주인공이 귀여워서 아빠미소로 게임한다고 카더라.~~
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+노멀이 7, 하드가 9인데 두 패턴 다 레벨 값에 적절하면서도 찰진 패턴을 가지고있다. 롱스크래치가 중간중간에 나오지만 롱스크의 길이가 짧거나 길더라도 키파트가 단순하게 나오므로 부담없이 플레이할 수 있다.
+=== 7K STANDARD ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2 Catch ===
+=== Turntable ===
+
+== [오투잼 U]에서의 Mello Mello ==
+
+[추가바람]
+== 가사 ==
+볼드 처리된 부분은 EZ2AC 수록 시 커트된 버전에서 나오는 부분이다.
+||'''소르르르 잠이 와요
+그대가 생각이 나요
+mello mello
+come to my dream forever (x3)'''
+
+'''난 그대만 보면 좋아져요
+말랑말랑 맘이 막 달라져요
+두 눈을 맞추고 싶어져요
+시간이 멈추면 좋겠어요'''
+
+'''La mello mello mello
+La a-a-a ma mello'''
+
+'''기분 좋은 일이에요
+눈 깜짝할 사이였죠
+내 맘을 뺏어가네요 forever (x3)'''
+
+
+사실은 이런 말 비밀이죠
+노래하는 나를 선물할게
+
+La mello mello mello
+La a-a-a ma mello
+
+
+기분 좋은 일이에요
+눈 깜짝할 사이였죠
+내 맘을 뺏어가네요 forever (x3)
+
+내 푹신한 쿠션보다 훨씬 그대가 좋아요
+내 이름을 불러줘요
+forever forever forever
+
+
+'''매일매일 보고 싶고
+매일매일 안고 싶고
+매일 얘기하고 싶어 forever (x3)'''
+
+'''기분 좋은 일이에요
+눈 깜짝할 사이였죠
+내 맘을 뺏어가네요 forever (x3)'''||

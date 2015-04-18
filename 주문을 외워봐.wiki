@@ -1,0 +1,82 @@
+[[목차]]
+|| 장르 || Bright Pop ||
+|| 작곡 || [[Applesoda]] ||
+|| 보컬 || [[Ran]] ||
+|| 배경 || [[Ratise]] & [[RYUminus]] ||
+|| BPM || 130 ||
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/SWcB0SpQW8g?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/SWcB0SpQW8g?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
+}}}
+[http://www.youtube.com/user/3SFACTORY 3S ENTERTAINMENT의 공식 유튜브 계정]에서 공개된 '''BGA'''
+
+== 개요 ==
+[[Sabin Sound Star]]의 수록곡.
+
+90년대 걸그룹 가요곡을 떠올리게 하는 대중적인 곡조에 난이도가 1로 전형적인 초보자용 곡으로 안배된 곡. 그러나 BGA의 화풍이 지나치게 일본 애니메이션을 떠올리게 하는지라 오락실에서는 쉽게 고르기 힘든 곡이 되었고, 그래서인지 게임 내에서는 정말로 인기가 없었다.
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/oo8EeduZGoA" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX. 이 패턴은 EZ2DJ에서 HD패턴으로 이식되었다.
+
+== [[EZ2AC]]에서의 주문을 외워봐 ==
+|| 최초 수록버전 |||||||| [[Sabin Sound Star]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 6}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 9}}} || {{{#red 13}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+BE에서 Sabin Sound Star의 오리지널 전곡이 모두 BONUS EDITION으로 이식됨에 따라 EZ2 시리즈에 들어왔다. EV 1.50에서 3S의 BGA가 이식되었는데 다른 곡들에 비해 BGA off 하는 사람이 많다고(...)
+
+=== 5K ONLY ===
+EV 선행판에서 NM패턴인 레벨 7이 등장했으며 1.5버전 때 중렙 수준의 HD패턴인 레벨 12가 추가되었다. HD믹스는 물렙이라는 평이 많다. 후반이 되기 전까지는 계속적으로 롱노트가 나와서 체감 난이도를 떨어뜨리는 요인이 되고 있다. 최후반 겹폭타가 그나마 12레벨 다운 패턴이긴 하지만 정작 초중반까지는 포션 역할을 하는 롱노트 때문에 전체적인 난이도는 11이 적당하다.
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/8qkutMwbEKQ?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/8qkutMwbEKQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM & HD MIX
+=== 7K STANDARD ===
+=== 5K COURSE ===
+패턴은 [[Luv Message]] 정도의 저렙곡이지만, 5 라디오 Ch. AYA에는 중렙 수준의 전용 패턴이 있다.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/B32b-ONg6PY" frameborder="0" allowfullscreen></iframe>
+}}}
+클럽 HD 패턴은 [[사기 난이도]]로, 표기레벨은 11이나 체감레벨은 Lv.13~14 수준이라며 말이 많다. 그래서 AE에서 Lv.13으로 상승. 대중적~~이고 오타쿠풍~~인 곡과는 다르게 13레벨에서는 의외의 복병으로, 후반까지는 13레벨 치고 무난한 동시치기가 나오지만 후반부에서 한손은 계단이, 한손은 동시치기가 나와서 박자가 꼬이기 쉽다. 후살성이 강하다.
+=== 14K MANIAC ===
+스페이스 믹스도 Lv.12라고 표기되어 있지만, 이것도 사기라는 게 중론. AE에서 13으로 상승. [http://blog.naver.com/ez2spacemix/50104214127 #]
+EV 1.50패치로 12레벨 채보가 새로 만들어졌다. 그러나, 체감 난이도는 6정도밖에 되어 보이지 않는 역대급 물렙곡. 1.3c까지 수록된 기존의 레벨13 채보는 사라졌다. 이유는 불명.
+=== EZ2CATCH ===
+=== TURNTABLE ===
+EZ2DJ AEIC에 들어서 턴테이블 모드에 첫등장하게 되었다. 물론 중저렙 포지션을 맡고 있다. 전체적으로 어려운 구간은 없음.
+
+== 가사 ==
+||하늘색 구름과 따스한 햇살이
+나에게 인사해 오늘도 힘내요
+
+거울 앞에 서서 소원을 말해봐
+무얼 갖고싶니
+  
+화장에 날 감추고 숨겨둔 옷을 입으며
+너와 함께 가고싶 어 마법의 주문으로
+
+I can feel you, Promise with you
+저 하늘 너머 꿈 속에 너와 나 둘이서 영원의 여행을 해
+
+I feel so good, one shining days
+커다란 너의 가슴에 내 마음도 네게 살며시 말하고 있잖아
+
+하늘만큼...||
+
+여담으로 '영원의 여행'은 한국어로는 부자연스러운 표현이고, '영원한 여행'이라고 해야 자연스럽다.

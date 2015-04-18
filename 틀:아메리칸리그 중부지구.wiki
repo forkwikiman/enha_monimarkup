@@ -1,0 +1,5 @@
+||<tablealign=center><-4><#ffffff><:> [[메이저리그|<span style="font-weight:bold;color:#ee0000">MLB</span>]] [[아메리칸리그|<span style="font-weight:bold;color:#ee0000">아메리칸리그</span>]] ||
+||<-4><:><#ffea00> [[틀:아메리칸리그 서부지구|<span style="font-weight:bold;color:#000000">◀</span>]] '''{{{#000000 중부지구 소속구단}}}''' [[틀:아메리칸리그 동부지구|<span style="font-weight:bold;color:#000000">▶</span>]] ||
+||<width=12%><#ffffff><:> attachment:/Tigers.png ||<width=21.3%><:><#DCDCDC> [[디트로이트 타이거스]] [[br]] (Detroit Tigers) ||<width=12%><#ffffff><:> attachment:/cle.png?width=35 ||<width=21.3%><#DCDCDC><:> [[클리블랜드 인디언스]] [[br]] (Cleveland Indians) ||
+||<width=12%><#ffffff><:> attachment:/Royals.png ||<width=21.4%><#DCDCDC><:> [[캔자스시티 로열스]] [[br]] (Kansas City Royals) ||<#ffffff><:> attachment:/Twins.png ||<#DCDCDC><:> [[미네소타 트윈스]] [[br]] (Minnesota Twins) ||
+||<#ffffff><:> attachment:/WhiteSox.png ||<#DCDCDC><:> [[시카고 화이트삭스]] [[br]] (Chicago White Sox) ||||||

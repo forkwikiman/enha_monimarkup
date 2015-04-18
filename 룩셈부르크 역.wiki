@@ -1,0 +1,28 @@
+ * [[역 관련 정보]]
+
+http://www.bahnreiseberichte.de/24-025Luxemburg-Bahnhof-Nacht.JPG?width=500
+
+
+|||||||||| {{{+1 룩셈부르크 역 }}}[[br]]Gare Lëtzebuerg[[br]]Gare du Luxembourg[[br]]Bahnhof Luxemburg ||
+||||||||||<#ba0d36> {{{#ffffff CFL }}} ||
+||||||||||<#ba0d36> {{{#ffffff InterCity}}} ||
+||<width=200px> '''[[브뤼셀 남역]] 방면'''[[br]]Arion || {{{+1 ← }}} ||<width=150px> 룩셈부르크 || {{{+1 → }}} ||<width=200px> 종착역 ||
+|||||||||| attachment:/sncf-small.png '''[wiki:"프랑스국철" SNCF]''' ||
+||||||||||<#802073> {{{#ffffff TGV}}} ||
+||<width=200px> 종착역 || {{{+1 ← }}} ||<width=150px> 룩셈부르크 || {{{+1 → }}} ||<width=200px> '''[[파리 동역]] 방면'''[[br]]Thionville ||
+||||||||||<#802073> {{{#ffffff Intercites}}} ||
+||<width=200px> 종착역 || {{{+1 ← }}} ||<width=150px> 룩셈부르크 || {{{+1 → }}} ||<width=200px> '''니스 방면'''[[br]]Thionville ||
+|||||||||| attachment:/DBbahn-small.png '''[wiki:"독일철도" Deutsche Bahn Regio RheinNeckar]''' ||
+||||||||||<#ff0000> {{{#ffffff InterCity/RegionalExpress}}} ||
+||<width=200px> 바서빌리히 || {{{+1 ← }}} ||<width=150px> 룩셈부르크 || {{{+1 → }}} ||<width=200px> 종착역 ||
+|||||||||| attachment:/SBB-small.png '''[wiki:"스위스 연방철도" SBB-CFF-FFS]''' ||
+||||||||||<#ff0000> {{{#ffffff EX/InterCity/EuroCity}}} ||
+||<width=200px> '''[[브뤼셀 남역]] 방면'''[[br]]Arion || {{{+1 ← }}} ||<width=150px> 룩셈부르크 || {{{+1 → }}} ||<width=200px> '''[wiki:"바젤 SBB 역" 바젤] 방면'''[[br]]Thionville ||
+
+[[룩셈부르크]]의 철도역. 도시 중심가에서는 2km 정도 떨어져 있다.
+
+[[프랑스]]나 [[벨기에]]에서 "아저씨 뤽상부르 한장 주세요!"하면 올 수 있는 곳이 바로 여기. ~~물론 [wiki:"파리 뤽상부르 역" 여기]로 갈 수도 있다~~ [[CFL]]의 국내선 열차가 모두 정차하면서 사실상 룩셈부르크의 [[중앙역]] 기능을 하는 곳으로, 룩셈부르크 국내선은 물론이고 룩셈부르크 국내에서는 유일하게 [[프랑스]], [[벨기에]], [[독일]]로 가는 국제열차가 모두 서는 역이다.
+
+처음에는 여러 가지 이유로 역사가 통나무집이었다. 20세기 초반에 룩셈부르크 경제가 잘나갈때 이전의 통나무 역사를 헐어버리고 독일 건축가들을 데려다가 모젤 바로크 리바이벌 양식으로 지은 것. 리모델링만 해서 계속 사용하고 있다.
+
+여러 열차들이 여기를 종착역으로 써서 조금 의외일지도 모르지만 [[두단식 승강장]]이 아니다.

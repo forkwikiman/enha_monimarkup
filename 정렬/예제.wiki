@@ -1,0 +1,44 @@
+[[정렬]]에서 소개된 정렬 알고리즘의 예제를 작성하는 페이지입니다. 전부 int형을 오름차순으로 정렬하도록 작성합니다.
+
+[[목차]]
+=== 선택 정렬 ===
+{{{
+void selection(int *arr, int start, int end){
+	int i, j;
+	for(i=start;i<end;i++){
+		for(j=i+1;j<=end;j++){
+			if(arr[i]>arr[j])swap(arr[i],arr[j]);
+		}
+	}
+}
+}}}
+
+=== 거품 정렬 ===
+{{{
+void bubble(int *arr, int start, int end){
+	int i, j;
+	for(i=end;i>start;i--){
+		for(j=start;j<i;j++){
+			if(arr[j]>arr[j+1])swap(arr[j],arr[j+1]);
+		}
+	}
+}
+}}}
+
+=== 퀵 정렬 ===
+{{{
+void quick(int *arr, int left, int right){
+	int l=left, r=right, p=left;
+	while(l<r){
+		while(arr[l]<=arr[p] && l<right)l++;
+		while(arr[r]>=arr[p] && r>left)r--;
+		if(l>=r){
+			swap(arr[p], arr[r]);
+			quick(arr, left, r-1);
+			quick(arr, r+1, right);
+			return;
+		}
+		swap(arr[l], arr[r]);
+	}
+}
+}}}

@@ -1,0 +1,69 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| [[트랜스(음악)|Trance]] ||
+|| 곡명 |||||||| Tension  ||
+|| 작곡 |||||||| [[SpringHead]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 최초 수록버전 |||||||| [wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] ||
+|| BPM |||||||| 145 ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+== 개요 ==
+[[SpringHead]]가 전작의 [[1950]], [[Disease]]에 이어 이번 작에 [wiki:"Again(EZ2AC)" Again]과 함께 투고한 신곡으로, Again과는 달리 선행 발매판에서 처음 등장했다. 이전 작품의 두 곡과 비슷하게 전자기타도 많이 채용되어 있는 등 락의 느낌이 나지만, 이 쪽은 앞의 두 곡에 비해 밝은 느낌이 난다. BGA는 따로 없으며, 아이캐치는 특이하게 구조물 도면을 보는 것처럼 나와 있다.
+
+코드 전개가 전혀 없이 같은 코드만으로 2분을 울궈먹는 경이로운 곡이다.
+
+여담으로 How To Play 영상에서 5 Street mix SHD MIX 패턴의 존재가 확인되었다. 그러나 실제로는 모든 문자를 다 해금하여도 이 패턴은 나오지 않는다. 선행 발매판 등장 당시 How To Play 영상탓에 SHD 패턴이 있는 것처럼 보여져서 많은 사람들을 설레게 한 적이 있다.
+
+선행판 당시에는 추가 요소가 상당히 적었기에 'UI만 예쁜 신작' 이라는 둥 컨텐츠에 대해 불평을 하는 유저들이 많았다. 그러나 How To Play에서 SHD 패턴이 '''있는 것처럼''' 보여졌기에, [wiki:"EZ2DJ 6thTRAX ~Self Evolution~" 예전 작품]의 해금 방식대로 이번 작품에도 해금이 있는것이 아닐까 하는 기대감을 낳았다. 그리고 실제로 해금곡 20여 곡과 라디오채널 수십개가 해금되면서, 컨텐츠가 다량 공개되었다. 그러나 스트릿 믹스의 경우 기본 패턴 이외의 추가적인 패턴 해금은 없었으며, 이 곡의 SHD 패턴도 없었다.
+
+6th 시절의 경우 곡과 패턴 두 가지의 구성으로 해금이 되었지만, 이번작에는 곡과 라디오채널의 두 가지의 구성으로 해금이 되었다. 아무래도 패턴 대신에 라디오채널을 선택한 것으로 보여진다.
+== 패턴 ==
+=== 5 Street mix ===
+[wiki:"Frantic" Frantic ~YK Edit~]의 하위 호환형 패턴. 두 곡 모두 비슷한 패턴을 가지고 있는데 이 쪽이 조금 더 쉬운 편이다. 특히 HD 패턴의 겹노트 난사에 익숙해 있지 않은 유저들에게는 꽤나 괜찮은 패턴.
+{{{#!HTML
+<embed src="//www.youtube.com/v/X82ZJfmdImI?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+NM MIX
+
+주멜로디와 드럼비트가 주를 이루는 약간의 반복성 패턴으로, 후술할 HD 패턴의 기반이 되는 쉬운 패턴.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/M3VPlkK2KCY?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/M3VPlkK2KCY?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+NM - HD MIX
+
+HD 패턴은 Lv.10으로 등장했는데, Frantic ~YK Edit~처럼 2개 겹노트가 연속으로 나오는 게 특징. 중반~후반에서 나오는 주멜로디는 죄다 겹노트로 나온다. 위의 NM 패턴을 기반으로 노트가 하나씩 더 추가된 거라고 보면 된다. 다만 프랜틱 ~YK Edit~와는 달리 겹노트가 나오는 때의 스크래치의 비중이 상당히 적어서 연습용으로 꽤나 적절하다.
+
+5 라디오에서는 Ch. ENDLESS CIRCULATION과 Ch. SpringHead, [wiki:"EZ2DJ/Mutant" Ch. Mutant]에서 볼 수 있다.
+
+Ch. ENDLESS CIRCULATION은 HD 패턴으로 나오고, Ch. SpringHead는 [[추가바람]]. Ch. Mutant 채널의 전용 패턴은 사실상의 SHD 포지션으로, NM 패턴을 기반으로 잘 들리지 않는 전자기타 키음이 잔뜩 추가되어 있다. 클리어 난이도는 Mutant가 전반적으로 Lv.12~14 수준인 것을 감안할 때 Lv.12 수준으로 무난하게 클리어할 수 있다.
+=== 7 Street mix ===
+5키와는 달리 라디오 채널 전용 채보가 존재하지 않는다!
+=== 10 Club mix ===
+12인데 12에서는 상위권이다. 양손으로 동시에 폭타가 내려오므로 원핸드 스킬을 기른 후에 도전하자.
+=== Space mix ===
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/aetENOKHq4M?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX
+
+HD 패턴은 올송 모드에서만 출현한다.
+
+=== EZ2 Catch ===
+NM 패턴은 Lv.10이며 가장 적절한 난이도를 보여준다.광역 패턴이 나오지 않고 두 개씩 내려오는 과일들도 쉽게 받을 수 있도록 나오기 때문에 Lv.10을 입문하는 유저들에게 강력 추천하는 패턴.
+
+HD는 13중에 중위권에 위치한다.같은 레벨인 Aura와 Lucid보다는 쉬운편.
+우선 NM에 나오지 않은 키음이 추가되어서 과일들이 많이 떨어지므로 집중하지 않으면 폭사할 수 있다.특히 중후반 구간은 Hyper magic NM의 초중반 구간과 비슷한 비비기 패턴이 나오기 때문에 비비기를 잘하면 쉬워보일 수 있고 그렇지 않으면 어려워 보일 수 있다.그리고 후반부에 들어가면 왼쪽 구간에 과일 폭타가 반긴다.이 구간은 그냥 비비는게 게이지 관리에 용이하다.
+=== Turntable ===
+노올송 시 2 스테이지에 등장하며, NM Lv.7, HD Lv.11로 등장했다. NM 패턴은 5키 NM 패턴을 기반으로 노트가 일부 빠지고 1자연타 식으로 변환해 놓은 패턴으로, 클리어 난이도는 무난한 수준이다. 손배치 테크닉은 크게 필요하지 않은 초보자용 패턴.
+다만 HD 패턴은 [[Metagalatic G - 1000]]과 [[Irregular Liner]] 패턴의 뒤를 잇는, 기존의 패턴을 턴테이블로 옮김으로 인해 체감 난이도가 급상승하는 패턴 중 하나에 해당한다. 극초반부는 HD 패턴을 1자배치로 만들어 놓은 듯 한 구성이라 이해가 되지만, 얼마 지나지 않아 [[Cosmic Bird]] 패턴의 [[후살]]구간에 나오는 것처럼 겹노트+단노트 조합이 마구잡이로 쏟아진다. 거기다가 중반부부터는 '''5키 HD 패턴을 그대로 박은 듯 한''' 패턴이 이어진다. 전체적으로 치는 것도 어려운데 뭉개는 것도 불가능한 패턴이라 폭풍 [[간접미스]]가 뜨거나 콤보 끊어지거나 하는 식의 미스가 계속 발생하다가 폭사하기 일쑤인 패턴.
+[[각주]]

@@ -1,0 +1,53 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 [[TAG]]. [[El Dorado]]의 후속곡이다.[* 자켓을 보면 알 수 있듯이, 소년과 용이 El Dorado의 나온 그들이 맞다.]
+
+== [[기타도라]] ==
+attachment:/Flywithme.jpg?width=450&height=449
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/SN3sSJXkI44" frameborder="0" allowfullscreen></iframe>
+}}}
+기타도라 드럼매니아 ADV, EXT, MSTR 영상.
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 177 ||<|2><:> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 3.20}}} || {{{#orange 4.50}}} || {{{#red 5.90}}} || {{{#purple 7.60}}} ||
+|| 기타 베이스 || {{{#blue 2.80}}} || {{{#orange 4.40}}} || {{{#red 5.55}}} || {{{#purple 7.80}}} ||
+|| 드럼매니아 || {{{#blue 3.10}}} || {{{#orange 5.20}}} || {{{#red 7.10}}} || {{{#purple 8.35}}} ||
+
+GITADORA의 LIVE 은폐 신곡으로 수록되었다. Piece of History와 비슷한 분위기로 만들어졌는데, 이쪽은 12비트로 구성되어 있다.
+
+== [[유비트 시리즈]] ==
+http://blog-imgs-61.fc2.com/u/y/a/uyawer/20130821235506f8f.png
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>5||<:>8||<:>10||
+||<#000000><:>{{{#white 노트수}}}||<:>255||<:>621||<:>845||
+||<#000000><:>{{{#white BPM}}}||||||<:>177||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>saucer pack 18||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * '''TAG'''[* 굵은 글씨는 칭호 파츠.] with me : 모든 보면 클리어
+  * '''高所'''恐怖症なので無理です!(고소공포증이라서 무리입니다!) : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+[[Triple Journey]] 이벤트로 이식되었다.
+
+맨 처음 나왔을 때의 자켓은 기타도라의 자켓을 썼다가, 이후에 독자적인 자켓으로 수정되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/vtBkUV-n0t0" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+기타도라와 동일한 12비트 구성으로 되어 있어 레벨 10에도 불구하고 개인차에 따라 엑셀런트 난이도가 중하위권으로 떨어질 수 있다.
+그러나 중간에 나오는 12비트 긁기와 상하 배치 일부가 손이 꼬일 수 있으므로 주의가 필요한 곡이다.

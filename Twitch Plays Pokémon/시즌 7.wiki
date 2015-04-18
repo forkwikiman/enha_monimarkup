@@ -1,0 +1,56 @@
+ * 이 항목은 [[트켓몬7]]로도 들어올 수 있습니다.
+
+[[include(틀:Twitch Plays Pokémon)]]
+ 
+[[목차]]
+
+== 개요 ==
+[[http://www.twitch.tv/twitchplayspokemon 실시간 방송 페이지]]
+[[http://www.reddit.com/live/ai4lsxxr2yi6hnnyciytwaiufu 문자중계 페이지(영문)]]
+[[https://sites.google.com/site/twitchplayspokemonstatus/ 구글 문서(영문)]]
+
+한국시간 6월 15일 오후 1시에 시작된 Twitch Plays Pokémon의 시즌 중 하나. 주인공은 ~~[헬릭스|Helix]의 계시를 받지 않은~~[[투지(포켓몬스터)|남주인공]]으로 선택. 이름은 GMYC. [[http://strawpoll.me/1915957/r|별명은 JimmyC나 Gimmick 둘 중 하나로 되고 있으며]] 평범하게 원래 이름인 GMYC로 불리는 일도 잦다(...). ~~저번 시즌의 aoooo가 너무 임팩트가 컸었지~~ 이번 시즌은 저번 시즌부터 많은 네임드 유저가 그만두면서 저번 시즌부터 꾸준히 늘어만가고 있는 트롤때문에 트롤들이 주도권을 잡고 있다. 특히 C기어를 얻은 이후로는 끊임없는 하일링크 트롤링이 이어지고 있다. 결국 스트리머가 C기어를 강제로 껐다. 당분간 하일링크 트롤링은 없을 듯하다. 
+
+그러나 새로운 문제점이 생겼는데, 트롤들이 계속해서 포켓몬들을 방생 시키려고 한다. 때문에 이번 시즌은 방생된 포켓몬들이 타 시즌에 비해 많은 시즌이 되었다. 그러면서도 진행 속도는 상당히 빠른 게 참 아이러니하다. 
+
+저번시즌까진 가끔씩 1000명대의 인원수가 있었지만, 이번시즌 들어 인원수는 400~600명 선에서 고정되는 듯 하다. 
+
+채팅 필터가 업데이트되었다. [[https://raw.githubusercontent.com/jpgohlke/twitch-chat-filter/2e530f889841a7815fad85820f98f44eb85abaab/chat_filter.user.js|여기]]에 들어가서 복사한 후 콘솔 창에 붙여넣기하면 된다. 터치조작 스크립트는 기존과 동일하다. 
+||||javascript:(function(){document.body.appendChild(document.createElement('script')).src=' https://rawgit.com/lostcoaster/twitch-touches-pokemon/master/touch.user.js';})();||||
+
+== 경과 ==
+ * '''한국 시간 기준의 날짜 구분이 아닌 게임 내 경과 시간 기준으로 구분합니다.''' 단, 게임 내 경과 시간이 1d라고 써 있으면 2일째임을[* 실제 게임은 0d부터 기록 되어서 0d가 1일째 입니다] 생각하고 이점에 주의하여 진행경과를 작성해 주시기 바랍니다.
+ * 각 주별로 항목을 분리하기로 했습니다. 각각의 항목을 참조바랍니다.
+
+=== 주간 진행 상황 ===
+ * [[/1주차|1주차]] (Day 1 ~ Day 7)
+ * [[/2주차|2주차]] (Day 8 ~ Day 14)
+
+== 하나 체육관 격파 일시 ==
+||<-5><tablealign=center><rowbgcolor="#000000"><:> {{{#ffffff '''하나지방의 체육관 관장'''}}} ||
+|| attachment:/2_pt_bw.png  || attachment:/2_ae_bw.png || attachment:/2__at_bw.png || attachment:/VSElesa2.png ||
+||<rowbgcolor="#dcdcdc"><:> [[콘(포켓몬스터)|콘]][* 스타팅이 불포켓몬이다.] ||<:> [[알로에(포켓몬스터)|알로에]] ||<:> [[아티(포켓몬스터)|아티]] ||<:> [[카밀레(포켓몬스터)|카밀레]] ||
+||<:> 0d 5h 54m ||<:> 1d 12h 0m ||<:> 2d 17h 51m ||<:> 4d 9h 3m ||
+|| attachment:/2_yc_bw.png || attachment:/2_hr_bw.png || attachment:/2_hk_bw.png || attachment:/2_sg_bw.png ||
+||<rowbgcolor="#dcdcdc"><:> [[야콘(포켓몬스터)|야콘]] ||<:> [[풍란(포켓몬스터)|풍란]] ||<:> [[담죽(포켓몬스터)|담죽]] ||<:> [[사간]] ||
+||<:> 4d 13h 46m ||<:> 6d 2h 27m ||<:> 7d 3h 55m ||<:> 9d 1h 27m ||
+
+== 리그 최초 격파 일시 ==
+||<-4><tablealign=center><rowbgcolor="#000000"><:> {{{#ffffff '''하나리그의 사천왕'''}}} ||
+|| attachment:/VSShauntal.png || attachment:/VSMarshal.png || attachment:/VSGrimsley.png || attachment:/VSCaitlin.png || 
+||<rowbgcolor="#dcdcdc"><:> [[망초(포켓몬스터)|망초]] ||<:> [[연무(포켓몬스터)|연무]] ||<:> [[블래리]] ||<:> [[카틀레야(포켓몬스터)|카틀레야]] ||
+||<:> 10d 8h 18m ||<:> 10d 9h 2m ||<:> 10d 6h 42m ||<:> 11d 1h 45m ||
+
+== [[N(포켓몬스터)|N]] 격파 일시 ==
+||<-4><tablealign=center><rowbgcolor="#000000"><:> {{{#ffffff '''N'''}}} ||
+|| attachment:/VS_N.png ||
+||<rowbgcolor="#dcdcdc"><:> [[N(포켓몬스터)|N]] ||
+||<:>12d 18h 8m||
+
+== [[게치스]] 최종 격파 일시 ==
+||<-4><tablealign=center><rowbgcolor="#000000"><:> {{{#ffffff '''게치스'''}}} ||
+|| attachment:/vs_gts.png ||
+||<rowbgcolor="#dcdcdc"><:> [[게치스]] ||
+||<:>12d 18h 18m||
+
+== [[Twitch Plays Pokémon/시즌 7/엔트리|엔트리]] ==

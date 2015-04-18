@@ -1,0 +1,41 @@
+[[목차]]
+
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| R-decision ||
+|| 작곡 |||||||| [[yak_won]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 타이틀 |||||||| wr∞ng : p ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 2.0]] ||
+|| BPM |||||||| 141.9 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+== 개요 ==
+[[EZ2DJ]]의 수록곡으로 7th 2.0에서 처음 등장했다. 2.0 당시에는 5라디오와 7라디오에서만 출현하는 곡으로, sjhdeux 채널에서 2스테이지에서 즐길 수 있었다. 또 [wiki:"EZ2DJ/Znpfg" znpfg] 채널에서 전용 패턴이 등장하기도 했다. [[wiki:"EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~" 7th CV]] 버전에서는 sjhdeux 채널에 이 곡 대신 [[Don't Say Anything]]이 들어갔다. 역시 znpfg에서도 등장하지 않아서 2.0버전에서만 만날 수 있는 곡이 되고 말았다.
+
+이후 [[wiki:"EZ2DJ 7thTRAX BONUS EDITION revision A" BE rA]]에서 스트릿 모드를 통해 부활하였다. 난이도는 노멀 10, 하드 11. 노멀 채보는 sjhdeux 채보이고 하드 채보는 znpfg 채보. 하드 패턴은 11치고는 까다롭다는 평이 많다.
+
+[EZ2DJ AE] 에서 사운드가 리뉴얼 되었고, 페달이 정박자에서 [[Never Feel This Way]]와 같은 정박 후 1/2박 패턴으로 변경되었다. 
+
+2012년 8월 어레인지 된 버젼에 [크레이지레인2]에 수록되었다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/swy7-ZoqpIg?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/swy7-ZoqpIg?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===

@@ -1,0 +1,77 @@
+|| 장르 |||||||| [[Ani Pop]] ||
+|| 곡명 |||||||| Back For More ||
+|| 작곡 |||||||| [[Ruby Tuesday]] ||
+|| 작사 |||||||| Chris Carlson ||
+|| 보컬 |||||||| Jemmy Carlson ||
+|| 배경 |||||||| [[Xeronion]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| BPM |||||||| 130 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 2}}} || {{{#red -}}}[* 스트릿 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* 루비 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#orange 6}}} || {{{#red 7}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} ||
+ *라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ *[wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer75260' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=2166FB42B6963D98C6EC81E760F310062BC7&outKey=V12919efb38908bf963610997ec3a6e69fffdde7193cc87fa5f4f0997ec3a6e69fffd' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=2166FB42B6963D98C6EC81E760F310062BC7&outKey=V12919efb38908bf963610997ec3a6e69fffdde7193cc87fa5f4f0997ec3a6e69fffd' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer75260' id='NFPlayer75260' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+[[목차]]
+== 개요 ==
+[[EZ2DJ 2nd]]의 수록곡. 장르인 '애니 팝'이 나타내는대로, 90년대 애니메이션 주제가를 연상케하는 곡이다.
+
+등장 당시에는 [[wiki:"김형직" 김일성의 아버지 예~]]라는 [[몬데그린]]이 유행했었다... 그 외에 일부 초딩들에겐 앞부분 'Oh, tell me baby'가 [[몬데그린]]으로 '''엉덩이베이베'''(...)라고 들리는지 그렇게 불려지기도 한다.
+
+그리고 짧은 롱노트 정박 이후 교대치기 연타후 나오는 스크래치 효과음중 하나가 [[폴 피닉스]]의 비명소리(정확히는 [[철권 태그 토너먼트]]버전 폴)와 흡사했다. ~~혹시 샘플링?~~
+
+== 패턴 ==
+=== 5키 ===
+현재의 5키 노멀 패턴은 2nd 당시에는 원래 하드 패턴이었다. 살짝살짝 폭타가 나와서 2nd 당시에만 해도 어려운 축에 속했다.,
+
+7th 2.0에서 5차 해금 패턴으로 하드 패턴이 새로 등장. 난이도는 9. 원곡이 수록 되었으며, 사실 예전에 6th의 비공식 패치판에도 하드 패턴이 있긴 있었지만 이는 실제로 출시되지가 않아서 묻혔다. 그러다 [[EZ2AC EC]]에서 HD 패턴이 전면적으로 바뀌었으며 길이가 다른 버전과 같은 정도로 줄어들었다. 표기 난이도는 7. 7키 HD 패턴도 선행판에서 비슷하게 고쳐졌다가 유저들의 반발로 정식판에서는 원래대로 돌아왔다. 2.0 5키 하드는 EV에서 슈하로 돌아왔다.
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/5WtAd5Sknd8?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/5WtAd5Sknd8?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="360"></object>
+}}}
+
+5 Radio [[EZ2DJ/Znpfg|Ch.znpfg]] 패턴
+
+=== 스페이스 ===
+AE에서는 스페이스 믹스에도 등장했다. 패턴은 노멀밖에 없지만 난이도는 '''13'''...
+
+Znpfg 채널, 스페이스 믹스용의 패턴은 곡의 길이가 OST판과 같다. 곡이 노멀보다 길기 때문 하드나 Znpfg용 패턴의 경우는 곡이 끝나기 앞에 BGA가 끝나버린다. 곡이 끝나지 않았는데 BGA가 먼저 끝나버려 덜컥 검은화면이 나와서 놀라는 경우도 있긴 하다. BGA OFF의 경우는 관계 없는 것이지만.
+
+== 가사 ==
+||Oh, tell me baby
+I must be crazy
+You've been going 'round my head
+It's complicated
+I should have waited
+But I went ahead instead.
+
+I never wanted to believe
+You were someone I would need, yeah.
+So completely gone
+Tell me I'm not wrong
+You are my burning addiction
+And you're my life
+
+Should've stayed away
+But now you've got me
+Coming back for more.
+
+Should've run away
+But now your're locked me
+In your arms for sure
+
+Should've stayed away
+But now you've got me
+Coming back for more. Oh...||

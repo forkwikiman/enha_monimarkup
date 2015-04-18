@@ -1,0 +1,911 @@
+ * 난이도 분류와 같은 자세한 항목은 [[유비트 시리즈/수록곡]]을 참고
+ * 안드로이드 버전의 수록곡은 [[유비트 플러스/수록곡/안드로이드]] 참고
+ * 일본을 제외한 다른 국가에 출시된 버전인 [[쥬크비트]]의 수록곡은 해당항목 참고
+
+[[목차]]
+== 개요 ==
+[유비트 플러스]는 아케이드와 달리 수록곡들을 해금하는것이 아니라 구입을 하는 방식이다. 유비트 플러스 유져들의 구입을 돕기위해 팩을 기준으로 분류 하였음을 알려드린다.
+
+music pack이라고 붙은 팩들은 유비트 시리즈를 통틀어 아케이드 기기에 있던 곡들을 선별해서 판매하는것이고,  가수나 그룹 이름이 붙은 팩은 해당 가수가 부른 곡들로 구성된 유비트 플러스 만의 오리지널 라이센스 곡이다.[* 물론 차후 아케이드 버젼에 추가 될 가능성은 분명히 있다. 오리지널 팩중 선곡되어 차기작인 [[유비트 코피어스]]에 이식된 곡들도 있다.]
+
+유니버설 어플리케이션 설정상 수록곡 팩을 한번만 구입하면, [[아이패드]]/[[아이폰]]/[[아이팟 터치]]에서 차후엔 추가 구입없이 구입했던 팩들을 전부 사용할 수 있다. 다만 안드로이드 버전의 팩과는 완전히 다르므로 유의할것... 이었는데 1월 18일에 [안드로이드] 버전의 곡들이 이식 되었다!
+== 수록곡 팩 수 ==
+
+수록곡 팩 수 : 133개 (무료팩 1개+유료팩 132개)(2013년 2월 28일 기준)
+수록곡 (무료곡 포함) : 535곡
+
+== 수록곡 양식 ==
+수록곡들을 정리와 구입을 돕는 차원에서 이와 같은 양식을 따르도록 하겠다.
+ * {{{#green '''음악 pack 이름'''}}} - 출시일(년월일) <가격>
+  * 곡명1 - 아티스트
+  * 곡명2 - 아티스트
+  * 곡명3 - 아티스트
+  * 곡명4 - 아티스트
+
+유비트 플러스 수록곡들중에는 아티스트가 기록되어 있지 않은 곡들이 많다. 유비트 플러스에 따라 게임 수록곡에 아티스트가 명시되어 있지 않다면 {{{#red '''♪♪♪♪♪'''}}}[* 보컬 라이센스 곡에 아티스트 표기가 되어있는 않은 곡은 커버보컬인 케이스가 많다.] 기호로 대체한다. 자세한 수록곡의 아티스트 정보는 [[유비트 시리즈/수록곡]]을 참고
+
+=== 수록곡 리스트 ===
+ * {{{#green '''Default pack'''}}} - 2010년 11월 8일 출시 <무료 - 메인 어플리케이션>
+  * [[Snow Goose]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[Sweet Rain]] - [[Y&Co.]] feat. karin
+  * [[wiki:"윌리엄 텔 서곡" ウィリアム・テル序曲]] - [[wiki:"이즈미 무츠히코" W.T.Orchestra]]
+
+ * {{{#green '''music pack 01'''}}} - 2010년 11월 8일 출시 <450 엔>
+  * [[wiki:"천국과 지옥"天国と地獄]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[Special One]] - [[kors k]] feat. Suzuyo Miyamoto
+  * [[wiki:"천체관측"天体観測]] - ♪♪♪♪♪
+  * [[Jumping Boogie]] - [[wiki:"나카무라 코조" Kozo Nakamura]]
+
+ * {{{#green '''music pack 02'''}}} - 2010년 11월 8일 출시 <450 엔>
+  * [[wiki:"하늘빛 날들"空色デイズ]] - ♪♪♪♪♪
+  * [[wiki:"정열대륙"情熱大陸]] - ♪♪♪♪♪
+  * [[fellow]] - [[wiki:"핑크터보" ピンクターボ]]
+  * [[Far east nightbird]] - [[猫叉Master]]
+
+ * {{{#green '''music pack 03'''}}} - 2010년 11월 8일 출시 <450 엔>
+  * [[bass 2 bass]] - [[Ryu☆]]
+  * [[Polaris]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[wiki:"나츠마츠리" 夏祭り]] - ♪♪♪♪♪
+  * [[スペースカーニバル]] - shooting star 
+
+ * {{{#green '''ニンジャマンジャパンpack'''}}} - 2010년 11월 8일 출시 <450 엔>
+  * [[ニンジャマンジャパンのテーマ]] - ニンジャマンジャパン
+  * [[-SHINOBI-]] - ニンジャマンジャパン
+  * [[隠密Dancers]] - ニンジャマンジャパン
+  * [[Never Give Up!]] - ニンジャマンジャパン 
+
+ * {{{#green '''ハイテンションジブリ pack'''}}} - 2010년 11월 8일 출시 <450 엔>
+  * [[となりのトトロ feat.sayurina)]] -[[新井 大樹]]
+  * [[もののけ姫]] - [[新井 大樹]]
+  * [[wiki:"君をのせて ~天空の城ラピュタ~ (feat. Sayurina)" 君をのせて feat.sayurina]] - [[新井 大樹]]
+  * [[風の通り道 feat. 佐野隆]] - [[新井 大樹]]
+
+ * {{{#green '''music pack 04'''}}} - 2010년 11월 20일 출시 <450 엔>
+  * [[抱いてセニョリータ]] - ♪♪♪♪♪
+  * [[POP STAR]] - ♪♪♪♪♪
+  * [[I'M IN THE MOOD FOR DANCING]] - ♪♪♪♪♪
+  * [[じょいふる]] - ♪♪♪♪♪
+
+ * {{{#green '''music pack 05'''}}} - 2010년 11월 20일 출시 <450 엔>
+  * [[wiki:"큐티하니"キューティーハニー]] - ♪♪♪♪♪
+  * [[wiki:"이렇게 가까이에서..."こんなに近くで...]] - ♪♪♪♪♪
+  * [[光のロック]] - ♪♪♪♪♪
+  * [[wiki:"사랑을 되찾아라!!"愛をとりもどせ！！]] - ♪♪♪♪♪
+
+ * {{{#green '''music pack 06'''}}} - 2010년 11월 20일 출시 <450 엔>
+  * [[Evans]] - [[DJ YOSHITAKA]]
+  * [[coming true]] - [[GUHROOVY]] Vs. [[L.E.D.]]
+  * [[AIR RAID FROM THA UNDAGROUND]] - [[GUHROOVY]]
+  * [[Shine On Me]] - [[kors k]]
+
+ * {{{#green '''music pack 07'''}}} - 2010년 11월 20일 출시 <450 엔>
+  * [[隅田川夏恋歌]] - [[wiki:"무라이 세이야" seiya-murai]] feat.ALT
+  * [[Good-bye Chalon]] - [[wiki:"猫叉Master" 猫叉Master+]]
+  * [[Lead Me]] - SHOGO
+  * [wiki:"ALL MY HEART"ALL MY HEART -この恋に、わたしの全てを賭ける- ] - [[wiki: "SUPER STAR 満-MITSURU-" SUPER HEROINE 彩香 -AYAKA-]]
+
+ * {{{#green '''music pack 08'''}}} - 2010년 12월 10일 출시 <450 엔>
+  * [[粉雪]] - ♪♪♪♪♪
+  * [[凛として咲く花の如く]] - [[wiki:"TOMOSUKE" 紅色リトマス]]
+  * [[Queen's Paradise]] - Nanako
+  * [[SWEET ANGEL]] - [[wiki:"후루카와 모토아키" 古川もとあき]]
+
+ * {{{#green '''music pack 09'''}}} - 2010년 12월 10일 출시 <450 엔>
+  * [[Happy Happy]] - ki☆ki
+  * [[HOT LIMIT]] - ♪♪♪♪♪
+  * [[Shining Star]] - [[wiki:"후지모리 소타" Sota Fujimori]] Feat.Nagisa
+  * [[Supercalifragilisticexpialidocious]] - ♪♪♪♪♪
+
+ * {{{#green '''music pack 10'''}}} - 2011년 1월 14일 <450 엔>
+  * [[wiki:"전력소년" 全力少年]] - ♪♪♪♪♪
+  * [[wiki:"TRUE LOVE" TRUE ♥ LOVE]] - [[jun]] feat. Schanita
+  * [[ECO FIGHTER]] - 入尾信充
+  * [[さよならトリップ]] - Dormir
+
+ * {{{#green '''music pack 11'''}}} - 2011년 1월 14일 <450 엔>
+  * [[BELIEVE IN LOVE]] - ♪♪♪♪♪
+  * [[I My Me Mine]] - ♪♪♪♪♪
+  * [[INVISIBLE WORLD]] - SILKY F
+  * [[Russian Snowy Dance]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+
+ * {{{#green '''music pack 12'''}}} - 2011년 2월 10일 <450 엔>
+  * [[IN THE NAME OF LOVE]] - [[Y&Co.]] feat. Erica
+  * [[In Scottish Highlands]] - [[wiki:"토마스 하워드" Thomas Howard Lichtenstein]]
+  * [[wiki:"키스해주세요"キスしてほしい]] - ♪♪♪♪♪
+  * [[Slang]] - [[wiki:"나카무라 코조" Kozo Nakamura]] 
+
+ * {{{#green '''music pack 13'''}}} - 2011년 2월 10일 <450 엔>
+  * [[GIGA BREAK]] - [[96]]
+  * [[endscape]] - ♪♪♪♪♪
+  * [[wiki:"promise" PROMiSE]] - ♪♪♪♪♪
+  * [[Ready Go!!]] - 荒牧陽子
+
+ * {{{#green '''music pack 14'''}}} - 2011년 2월 22일 <450 엔>
+  * [wiki:"STARLIT DUST"STARLIT DUST/スティルに捧ぐ] - [[Des-ROW]] + ANT
+  * [[Lovin' Life]] - ♪♪♪♪♪
+  * [[少年リップルズ]] - 常盤ゆう
+  * [[Sandstorm]] - ♪♪♪♪♪
+
+ * {{{#green '''music pack 15'''}}} - 2011년 2월 22일 <450 엔>
+  * [wiki:"지지말아요"負けないで] - ♪♪♪♪♪
+  * [[eyes]] - [[wiki:"오노 히데유키" 小野秀幸]]
+  * [[KUNG-FU MAMA]] - [[wiki:"무라이 세이야" seiya-murai]] feat.ALT
+  * [[愛と勇気の三度笠ポン太]] - 荒牧陽子 
+
+ * {{{#green '''SuG pack'''}}} - 2011년 3월 11일 <450 엔>
+  * [[gr8 story]] - [[SuG]]
+  * [[小悪魔Sparkling]] - [[SuG]]
+  * [[R.P.G.〜Rockin' Playing Game]] - [[SuG]]
+  * [[Crazy Bunny Coaster]] - [[SuG]]
+
+ * {{{#green '''music pack 16'''}}} - 2011년 3월 26일 <450 엔>
+  * [[ふがいないや]] - ♪♪♪♪♪
+  * [[SPEED KING]] - ♪♪♪♪♪
+  * [[SigSig]] - [[kors k]]
+  * [[恋のメリーゴーランド]] - 森野くま子
+
+ * {{{#green '''music pack 17'''}}} - 2011년 3월 26일 <450 엔>
+  * [[Icicles]] - [[Jimmy Weckl]]
+  * [[PEACH]] - ♪♪♪♪♪
+  * [[コイノチカラ]] - 石阪久美子
+  * [[concon]] - [wiki:"숏쵸" S-C-U]
+
+ * {{{#green '''ET-KING pack'''}}} - 2011년 3월 26일 <450 엔>
+  * [[纒]] - ET-KING
+  * [[愛しいひとへ]] - ET-KING
+  * [[一番音頭]] - ET-KING
+  * [[PRIDE ~君がくれたもの~]] - ET-KING
+
+ * {{{#green '''music pack 18'''}}} - 2011년 4월 15일 <450 엔>
+  * [[Love so sweet]] - ♪♪♪♪♪
+  * [[A Perfect Sky]] - ♪♪♪♪♪
+  * [wiki:"AREA 51(비마니 시리즈)" AREA 51] - [[96]]
+  * [[Green Green Dance]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+
+ * {{{#green '''music pack 19'''}}} - 2011년 4월 15일 <450 엔>
+  * [[BLUE BIRD]] - ♪♪♪♪♪
+  * [[wiki:"백조의 호수"白鳥の湖]] - [[wiki:"이즈미 무츠히코" Swan Lake Orchestra]]
+  * [[Shining Wizard]] - [[96]]
+  * [[うらもからだも落花微塵]] - Nanako
+
+ * {{{#green '''Daisy×Daisy pack'''}}} - 2011년 5월 5일 <450 엔>
+  * [[HOLY SHINE]] - [[Daisy×Daisy]]
+  * [[防衛本脳]] - [[Daisy×Daisy]]
+  * [[BELIEVE]] - [[Daisy×Daisy]]
+  * [[Evidence]] - [[Daisy×Daisy]]
+
+ * {{{#green '''music pack 20'''}}} - 2011년 5월 27일 <450 엔>
+  * [[Crosswind]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[Macuilxochitl]] - [[TOMOSUKE]]
+  * [[ALBIDA]] - [[DJ YOSHITAKA]]
+  * [[FLOWER]] - [[DJ YOSHITAKA]]
+
+ * {{{#green '''music pack 21'''}}} - 2011년 5월 27일 <450 엔>
+  * [[Garden of Love]] - ♪♪♪♪♪
+  * [[素直になれたら]] - ♪♪♪♪♪
+  * [[Love ♡ km]] - [[dj TAKA]] feat. REN
+  * [[STELLAR WIND]] - [[L.E.D.]]
+
+ * {{{#green '''Biju☆Love☆ pack'''}}} - 2011년 6월 7일 <450 엔>
+  * [[Bijuのテーマ]] - 岡野ハジメ
+  * [[Sweet Little Biju]] - DJぽっくん
+  * [[オムライス]] - オーロラ三人娘
+  * [[HYPER COSMO]] - {{{ANDROID_RYO:SUKE_23}}}
+
+ * {{{#green '''Jazztronik pack'''}}} - 2011년 6월 10일 <450 엔>
+  * [[Flash Light feat. JAY'ED]] - [[Jazztronik]]
+  * [[Real Clothes<Album Mix>]] - [[Jazztronik]]
+  * [[wiki:"Sweet Rain#s-2"Sweet Rain]] - [[Jazztronik]]
+  * [[BRA. Step]] - [[Jazztronik]]
+ 
+ * {{{#green '''music pack 22'''}}} - 2011년 6월 25일 <450 엔>
+  * [[I love マミー]] - 荒牧陽子
+  * [[YELL ～エール～]] - ♪♪♪♪♪
+  * [[My SunShine]] - ♪♪♪♪♪
+  * [[Jailbreak]] - [[wiki:"나카무라 코조"Kozo Nakamura]]
+
+ * {{{#green '''music pack 23'''}}} - 2011년 6월 25일 <450 엔>
+  * [[一色]] - ♪♪♪♪♪
+  * [[あいのうた]] - [[wiki:"코에즈카 요시히코" 肥塚良彦]]
+  * [[Prophet Vibe]] - [[wiki:"후지모리 소타" Sota Fujimori]] feat. Calin
+  * [[キルト]] - [[wiki:"Des-Row" Des]]-[[wiki:"신타니 사나에" Sana]]+[[wiki:"wac" w]][[wiki:"PON" p]][[wiki:"TOMOSUKE" t]][[wiki:"96" 9]]
+
+ * {{{#green '''ハイテンションジブリ pack 2'''}}} - 2011년 7월 8일 <450 엔>
+  * [[海の見える街]] - [[新井 大樹]]
+  * [[ねこバス]]- [[新井 大樹]][* 유비트 사상 최초로 노트수가 '''1000'''인 곡이다. 그러나 아직 아케이드에는 미수록.]
+  * [[アシタカセッ記]] - [[新井 大樹]]
+  * [[風の谷のナウシカ]] feat.チロ - [[新井 大樹]]
+
+ * {{{#green '''plazma pack'''}}} - 2011년 7월 8일 <450 엔>
+  * [[AUTOMAGIC]] - plazma
+  * [[SWEET CUBE]] - plazma
+  * [[CIGARETTE]] - plazma
+  * [[Aloe Dreams]] - plazma
+
+ * {{{#green '''music pack 24'''}}} - 2011년 7월 27일 <450 엔>
+  * [[Chance and Dice]] - 日本少年
+  * [[wiki:"태양의 지도" 太陽の地図]] - ♪♪♪♪♪
+  * [[STREET DANCER]] - SILKY F
+  * [[Theory of Eternity]] - [[TAG]]
+
+ * {{{#green '''南波志帆 pack'''}}} - 2011년 7월 27일 <450 엔>
+  * [[こどなの階段]] - 南波志帆
+  * [[シャイニングスター]] - 南波志帆
+  * [[それでも言えない ＹＯＵ＆Ｉ]] - 南波志帆
+  * [[セプテンバー]] - 南波志帆
+
+ * {{{#green '''music pack 25'''}}} - 2011년 8월 24일 <450 엔>
+  * [[Real voice]] - ♪♪♪♪♪
+  * [[キミ、メグル、ボク]] - ♪♪♪♪♪
+  * [[I'm so Happy]] - [[Ryu☆]]
+  * [[THIS NIGHT (jubeat EDITION)]] - [[TЁЯRA]] : [[유비트 코피어스]] 선행 수록
+
+ * {{{#green '''ゴールデンボンバー pack'''}}} - 2011년 8월 24일 <450 엔>
+  * [[ultra PHANTOM]] - [[wiki:"GOLDEN BOMBER" ゴールデンボンバー]]
+  * [[†ザ・V系っぽい曲†]] - [[wiki:"GOLDEN BOMBER" ゴールデンボンバー]]
+  * [[女々しくて]] - [[wiki:"GOLDEN BOMBER" ゴールデンボンバー]]
+  * [[眠たくて]] - [[wiki:"GOLDEN BOMBER" ゴールデンボンバー]]
+
+ * {{{#green '''Che'Nelle pack'''}}} - 2011년 9월 9일 <450 엔>
+  * [[ベイビー・アイラブユー]] - Che'Nelle
+  * [[For You]] - Che'Nelle
+  * [[SAKURA]] - Che'Nelle
+  * [[Everything]] - Che'Nelle
+
+ * {{{#green '''mihimaru GT pack'''}}} - 2011년 9월 21일 <450 엔>
+  * [[wiki:"기분 상승↑↑"気分上々↑↑]] - mihimaru GT
+  * [[パンキッシュ☆]] - mihimaru GT
+  * [[エボ★レボリューション]] - mihimaru GT
+  * [[wiki:"마스터피스" マスターピース]] - mihimaru GT
+
+ * {{{#green '''REFLEC BEAT pack'''}}} - 2011년 9월 27일 <450 엔>
+  * [[カラフルミニッツ]] - Qrispy Joybox feat.mao
+  * [[Silence]] - [[猫叉Master]]
+  * [[優勢オーバードーズ]] - [[PON]] 
+  * [[robin]] - [[wiki:"숏쵸"S-C-U]]
+
+ * {{{#green '''LAST ALLIANCE pack'''}}} - 2011년 9월 27일 <450 엔>
+  * [[片膝の汚れ]] - LAST ALLIANCE
+  * [[WING]] - LAST ALLIANCE
+  * [[HEKIREKI]] - LAST ALLIANCE
+  * [[エンプティハート]] - LAST ALLIANCE
+
+ * {{{#green '''渡り廊下走り隊 pack'''}}} - 2011년 9월 30일 <450 엔>
+  * [[初恋ダッシュ]] - [[wiki:"AKB48/용어#s-3.2" 渡り廊下走り隊]]
+  * [[青春のフラッグ]] - [[wiki:"AKB48/용어#s-3.2" 渡り廊下走り隊]]
+  * [[バレンタイン・キッス]] - [[wiki:"AKB48/용어#s-3.2" 渡り廊下走り隊]]
+  * [[へたっぴウィンク]] - [[wiki:"AKB48/용어#s-3.2" 渡り廊下走り隊]]
+
+ * {{{#green '''LM.C pack'''}}} - 2011년 10월 28일 <450 엔>
+  * [[☆Rock the LM.C☆]] - [[LM.C]]
+  * [[88]] - [[LM.C]]
+  * [[星の在処。-ホシノアリカ]] - [[LM.C]]
+  * [[The LOVE SONG]] - [[LM.C]]
+
+ * {{{#green '''夢喰いメリー pack'''}}} - 2011년 11월 4일 <450 엔>
+  * [[Daydream Syndrome]] - 藤原鞠菜
+  * [[月の見えない夜に]] - 藤原鞠菜
+  * [[夢の帰り道]] - メリー・ナイトメア
+  * [[ユメとキボーとアシタのアタシ]] - メリー・ナイトメア
+
+ * {{{#green '''NACANO pack'''}}} - 2011년 11월 15일 <450 엔>
+  * [[REMEMBER]] - NACANO
+  * [[IMTA]] - NACANO
+  * [[DANCE IS LOVE]] - NACANO
+  * [[HIGHER LOVE]] - NACANO
+
+ * {{{#green '''Sweet Licious pack'''}}} - 2011년 11월 24일 <450 엔>
+  * [[Winter Kiss ～冬がくれたラブストーリー～]] / Sweet Licious
+  * [[Destiny (DJ TORA Club Remix)]] / Sweet Licious
+  * [[The Other Side of Love]] / Sweet Licious
+  * [[My Heart ～キミに届けたい～]] / Sweet Licious feat. JUN from CLIFF EDGE
+
+ * {{{#green '''OGRE YOU ASSHOLE pack'''}}} - 2011년 11월 24일 <450 엔>
+  * [[ライフワーク]] / OGRE YOU ASSHOLE
+  * [[バランス]] / OGRE YOU ASSHOLE
+  * [[ヘッドライト]] / OGRE YOU ASSHOLE
+  * [[ピンホール]] / OGRE YOU ASSHOLE
+
+ * {{{#green '''copious pack 01'''}}} - 2011년 11월 24일 <450 엔>
+  * [[陽炎]] - [[wiki:"호시노 카나코" 星野奏子]]
+  * [[トルコ行進曲]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[シャカビーチ～Laka Laka la～]] - ♪♪♪♪♪
+  * [[Let's ダバダバ]] - ♪♪♪♪♪
+
+ * {{{#green '''copious pack 02'''}}} - 2011년 12월 8일 <450 엔>
+  * [[流砂の嵐]] - [[wiki:"극단레코드" 劇団レコード]]
+  * [[polygon]] - [[wiki:"후지모리 소타" Sota Fujimori]]
+  * [[フレンズ]] - ♪♪♪♪♪
+  * [[wiki:"터치#s-2" タッチ]] - ♪♪♪♪♪
+
+ * {{{#green '''eufonius pack'''}}} - 2011년 12월 8일 <450 엔>
+  * [[リフレクティア]] - [[eufonius]]
+  * [[idea]] - eufonius
+  * [[phosphorse]] - eufonius
+  * [[アネモイ]] - eufonius
+
+ * {{{#green '''BLOOD STAIN CHILD pack'''}}} - 2011년 12월 30일 <450 엔>
+  * [[ELECTRICITY]] - [[wiki:"블러드 스테인 차일드"BLOOD STAIN CHILD]]
+  * [[STARGAZER]] - [[wiki:"블러드 스테인 차일드"BLOOD STAIN CHILD]]
+  * [[SIRIUS VI]] - [[wiki:"블러드 스테인 차일드"BLOOD STAIN CHILD]]
+  * [[Unlimited Alchemist]] - [[wiki:"블러드 스테인 차일드"BLOOD STAIN CHILD]]
+ 
+ * {{{#green '''Rainbow☆Rainbow pack'''}}} - 2011년 12월 30일 <450 엔>
+  * [[Water Horizon]] - [wiki:"Ryu☆"靑龍]
+  * [[夢現]] - [Another Infinity] [wiki:"모리나가 마유미"feat. Mayumi Morinaga]
+  * [[My Babe Bee]] - [Another Infinity] [wiki:"모리나가 마유미"feat. Mayumi Morinaga]
+  * [[Ultramarine]] - [wiki:"Ryu☆"靑龍]
+
+ * {{{#green '''ヒルクライム pack'''}}} - 2011년 12월 30일 <450 엔>
+  * [[春夏秋冬]] - ヒルクライム
+  * [[wiki:"트래블 머신" トラヴェルマシン]] - ヒルクライム[* [[유비트 니트 어펜드]]에 선행수록]
+  * [[臆病な狼]] - ヒルクライム
+  * [[パーソナルCOLOR]] - ヒルクライム
+
+ * {{{#green '''ALI PROJECT pack'''}}} - 2011년 1월 18일 <450 엔>
+  * [[跪いて足をお嘗め]] - [[wiki:"ALI PROJECT" ALI PROJECT]]
+  * [[堕天國宣戦]] - [[wiki:"ALI PROJECT" ALI PROJECT]]
+  * [[禁じられた遊び]] - [[wiki:"ALI PROJECT" ALI PROJECT]]
+  * [[聖少女領域]] - [[wiki:"ALI PROJECT" ALI PROJECT]]
+
+ * {{{#green '''copious pack 03'''}}} - 2012년 1월 19일 <450 엔>
+  * [[FRIENDSHIP]] - [[wiki:"PON" PON]]
+  * [[electro peaceful]] - [[wiki:"Mr.T" Mr.T]]
+  * [[コネクト]][* 1월 18일에 등장한 것과는 다른 채보.] - ♪♪♪♪♪
+  * [wiki:"다이버" Diver] - ♪♪♪♪♪
+
+ * {{{#green '''→Pia-no-jaC← pack''' }}} - 2012년 1월 20일 <450 엔>
+  * [[組曲『 』]] - [[→Pia-no-jaC←]]
+  * [[うさぎDASH]] - [[→Pia-no-jaC←]]
+  * [[台風]] - [[→Pia-no-jaC←]]
+  * [[wiki:"다이너마이트#s-2" ダイナマイト]] - [[→Pia-no-jaC←]]
+
+ * {{{#green '''AGEHA pack''' }}} - 2012년 1월 30일 <450 엔>
+  * [[COME BACK TO MY HEART (Ryu☆Remix)]] - [Another Infinity] [wiki:"모리나가 마유미"feat. Mayumi Morinaga]
+  * [[Rise From The Ashes]] - [Another Infinity] [wiki:"모리나가 마유미"feat. Mayumi Morinaga]
+  * [[Lapis Lazuli]] - [Another Infinity] [wiki:"모리나가 마유미"feat. Mayumi Morinaga]
+  * [[jumpin' pumpin']] - [[Ryu☆]]
+
+ * {{{#green '''幻想水滸伝 pack''' }}} - 2012년 2월 9일 <450 엔>
+   * [[幻想の世界へ]] - [[wiki:"환상수호전 시리즈" 幻想水滸伝音楽チーム]]
+   * [[回想]] - [[wiki:"환상수호전 시리즈" 幻想水滸伝音楽チーム]]
+   * [[Currents]] - [[wiki:"환상수호전 시리즈" 幻想水滸伝音楽チーム]]
+   * [[水上の提督（Short mix from "幻想水滸伝V")]] - [[wiki:"猫叉Master" 猫叉Master]]
+
+ * {{{#green '''石川智晶 single pack''' }}} - 2012년 2월 9일 <450 엔>
+   * [[wiki:"uninstall"アンインストール]] - [[wiki:"이시카와 치아키" 石川智晶]]
+   * [[Little Bird]] - [[wiki:"이시카와 치아키" 石川智晶]]
+   * [[wiki:"불완전연소" 不完全燃焼]] - [[wiki:"이시카와 치아키" 石川智晶]]
+   * [[The Giving Tree]] - [[wiki:"이시카와 치아키" 石川智晶]]
+
+ * {{{#green '''キルミーベイベー pack''' }}} - 2012년 2월 15일 <450엔>
+   * [[キルミーのベイベー!]] - やすなとソーニャ
+   * [[ふたりのきもちのほんとのひみつ]] - やすなとソーニャ
+   * [[HOW TO ENJOY]] - [[wiki:"오리베 야스나" やすな]]
+   * [[Wanted! OBAKA dead or alive]] - [[wiki:"소냐(킬 미 베이비)"ソーニャ]]
+
+ * {{{#green '''copious pack 04'''}}} - 2012년 2월 17일 <450엔>
+  * [[WONDER WALKER]] - [[L.E.D.]]
+  * [[yellow head joe]] - [[wiki:"숏쵸" S-C-U]]
+  * [wiki:"%5BE%5D" ［E］] - [[wiki:"후지모리 소타" dj MAX STEROID]]
+  * [[The Wind of Gold]] - [[kors k]]
+
+ * {{{#green '''ラストエグザイル主題歌 pack'''}}} - 2012년 2월 24일 <450엔>
+  * [[Cloud Age Symphony]] - [[OKINO,SHUNTARO]]
+  * [[Over the Sky]] - [[Hitomi]]
+  * [[Buddy]] - [wiki:"사카모토 마아야" 坂本 真綾]
+  * [[Starboard]] - [[Hitomi]]
+
+ * {{{#green '''新井 大樹 pack'''}}} - 2012년 3월 2일 <450엔>
+  * [[新たな幕開け]] - [[新井 大樹]]
+  * [[愛しき為の闘い]] - [[新井 大樹]]
+  * [[広い大自然の中で]] - [[新井 大樹]]
+  * [[奇跡の木漏れ日]] - [[新井 大樹]]
+
+ * {{{#green '''copious pack 05'''}}} - 2012년 3월 9일 <450엔>
+  * [[Starlight Parade]] - [wiki:"코에즈카 요시히코" 肥塚 良彦]
+  * [[アルストロメリア]] - [[TAG]]
+  * [[SUPER∞STREAM]] - ♪♪♪♪♪
+  * [[CARTOON HEROES]] - ♪♪♪♪♪
+
+ * {{{#green '''クイズマジックアカデミー pack'''}}} - 2012년 3월 15일 <450엔>
+  * [[サツキ - jubeatREMIX -]] - [wiki:"혼다 아키히로" マジックアカデミー管絃樂部]
+  * [[予選後半戰~クイズマジックアカデミー~]] - [wiki:"혼다 아키히로" マジックアカデミー管絃樂部]
+  * [[決勝戰~クイズマジックアカデミー~]] - [wiki:"혼다 아키히로" マジックアカデミー管絃樂部]
+  * [[オープニングテーマ~クイズマジックアカデミー~]] - [wiki:"혼다 아키히로" マジックアカデミー管絃樂部]
+
+ * {{{#green '''TRIBAL CHAIR pack'''}}} - 2012년 3월 22일 <450엔>
+  * [[New Answer]] - [[TRIBAL CHAIR]]
+  * [[909]] - [[TRIBAL CHAIR]]
+  * [[Third eye creation]] - [[TRIBAL CHAIR]]
+  * [[Prison]] - [[TRIBAL CHAIR]]
+
+ * {{{#green '''GALNERYUS pack'''}}} - 2012년 3월 28일 <450엔>
+  * [[TEAR OFF YOUR CHAIN]] - [[GALNERYUS]]
+  * [[FUTURE NEVER DIES]] - [[GALNERYUS]]
+  * [[BASH OUT !]] - [[GALNERYUS]]
+  * [[THE TIME HAS COME]] - [[GALNERYUS]]
+
+ * {{{#green '''copious pack 06'''}}} - 2012년 4월 6일 <450엔>
+  * [[瞬]] - [[wiki:"오노 히데유키"小野 秀幸]]
+  * [[量子の海のリントヴルム]] - [[wiki:"TOMOSUKE"黒猫ダンジョン]]
+  * [[Baroque Hoedown]] - ♪♪♪♪♪
+  * [[wiki:"단델라이온" ダンデライオン]] - ♪♪♪♪♪
+
+ * {{{#green '''Any pack'''}}} - 2012년 4월 13일 <450엔>
+  * [[優しい人]] - [[Any]]
+  * [[落雷]] - [[Any]]
+  * [[アンチエイド]] - [[Any]]
+  * [[waffle]] - [[Any]]
+
+ * {{{#green '''およげ！たいやきくん pack'''}}} - 2012년 4월 27일 <450엔>
+  * [[およげ！たいやきくん]] - AGC38 feat. 東京プラススタイル
+  * [[およげ！たいやきくん ヤキヤキ音頭]] - AGC38 feat. 東京プラススタイル
+  * [[およげ！たいやきくん]] - 子門真人
+  * [[いっぽんでもニンジン]] - なぎらけんいち
+
+ * {{{#green '''スティールクロニクル pack'''}}} - 2012년 5월 1일 <450엔>
+  * [[Resonance of Steel -jubeatREMIX-]] - THE CLASS ADMIRALS
+  * [[Rainstorm of Bullets]] - THE CLASS ADMIRALS
+  * [[Agitated by Emotion]] - THE CLASS ADMIRALS
+  * [[Shrill Voice]] - THE CLASS ADMIRALS
+
+ * {{{#green '''氣志團 pack'''}}} - 2012년 5월 11일 <450엔>
+  * [[One Night Carnival]] - 氣志團
+  * [[結婚闘魂行進曲「マブダチ」]] - 氣志團
+  * [[愛 羅 武 勇]] - 氣志團
+  * [[族]] - 氣志團
+
+ * {{{#green '''copious pack 07'''}}} - 2012년 5월 21일 <450엔>
+  * [[Red Goose]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[Devil Fish Dumpling]] - [[96]]
+  * [[HEAVENLY MOON]] - [[Tatsh]]
+  * [[CRAZY FOR YOU]] - ♪♪♪♪♪
+
+ * {{{#green '''ニコニコ・ミュージック pack'''}}} - 2012년 5월 25일 <450엔>
+  * [[wiki:"천본앵(흑토끼P)" 千本桜]] - 黒うさP
+  * [[wiki:"해피 신시사이저" ハッピーシンセサイザ]] - EasyPop
+  * [[wiki:"우견의 나비" 右肩の蝶]] - のりぴー
+  * [[wiki:"로미오와 신데렐라" ロミオとシンデレラ]] - [[doriko]]
+
+ * {{{#green '''星野奏子 pack'''}}} - 2012년 5월 28일 <450엔>
+  * [[トゲノマユ]] - [[星野奏子]]
+  * [[Diamond snow～きっとまた逢える～]] - [[星野奏子]]
+  * [[Hey!Boys&Girls]] - [[星野奏子]]
+  * [[蒼の太陽～その先にある未来～(Vision of the Future Ver)]] - [[星野奏子]]
+
+ * {{{#green '''みんなのうた pack'''}}} - 2012년 6월 1일 <450엔>
+  * [[コンピュータおばあちゃん]] - [[酒井　司優子]]
+  * [[スシ喰いねぇ！]] - [[こおろぎ’７３]]
+  * [[ラジャ・マハラジャ]] - [[くまい　もとこ]]
+  * [[山口さんちのツトム君]] - [[川橋　啓史]]
+
+ * {{{#green '''神☆ヴォイス pack'''}}} [* 일본 성우들이 출연한 동명의 일본 영화인 神☆ヴォイス의 ost. 정확한 정보 [[추가바람]]] - 2012년 6월 8일 <450엔>
+  * [[Dreamers!]] - 白池悠宙(梶裕貴)&久保寺辰真(羽多野渉)with久保寺声優学校オールスターズ
+  * [[Dancin' To The Music]] - 久保寺声優学校オールスターズ
+  * [[No Limitation]] - DJ Yoshi(田中太郎)
+  * [[アキバ de ハレルヤ]] - 尾澤拓実
+
+ * {{{#green '''copious pack 08'''}}} - 2012년 6월 15일 <450엔>
+  * [[ナナホシ]] - [[wiki:"숏쵸" S-C-U]]
+  * [[幸せのかたち]] - [[wiki:"아사키" あさき]]
+  * [[HEAT-BIT-HIT-BEAT]] - [[wiki:"무라이 세이야" V.C.O.]]
+  * [[TWINKLE♡HEART]] - [[jun]]
+
+ * {{{#green '''Sana pack'''}}} - 2012년 6월 22일 <450엔>
+  * [[wiki:"Miracle Moon" Miracle moon ~お月様が中継局~]] - [[wiki:"Togo" Togo project]] feat.[[Sana]]
+  * [[ボッサ・デ・サナ2001]] - [[wiki:"Togo" Togo project]] feat.[[Sana]]
+  * [[サナ・モレッテ・ネ・エンテ(B.L.Tsandwitch style)]] - [[wiki:"Togo" Togo project]] feat.[[Sana]]
+  * [[Custom-made Girl -NOT FOR SALE!-]] - [[wiki:"Togo" Togo project]] feat.[[Sana]]
+
+ * {{{#green '''Civilian Skunk pack'''}}} - 2012년 6월 27일 <450엔>
+  * [[01]] - [[Civilian Skunk]]
+  * [[アストロ]] - [[Civilian Skunk]]
+  * [[Crazy]] - [[Civilian Skunk]]
+  * [[Summer Lover]] - [[Civilian Skunk]]
+
+ * {{{#green '''赤い公園 pack'''}}} - 2012년 6월 29일 <450엔>
+  * [[塊]] - [[赤い公園]]
+  * [[透明]] - [[赤い公園]]
+  * [[ナンバーシックス]] - [[赤い公園]]
+  * [[ランドリー]] - [[赤い公園]]
+
+ * {{{#green '''ゆるゆり pack'''}}} - 2012년 7월 4일 <450엔>
+  * [wiki:"유루유리/음반" ゆりゆららららゆるゆり大事件] - 七森中☆ごらく部
+  * [wiki:"유루유리/음반" ゆるゆりI♡U] - 七森中☆ごらく部
+  * [wiki:"유루유리/음반" マイペースでいきましょう] - 七森中☆ごらく部
+  * [wiki:"유루유리/음반" Precious Friends] - 七森中☆ごらく部
+
+ * {{{#green '''Brian the Sun pack'''}}} - 2012년 7월 5일 <450엔>
+  * [[Sister]] - [[Brian the Sun]]
+  * [[藍色に。]] - [[Brian the Sun]]
+  * [[Laika and Hz and contrast,]] - [[Brian the Sun]]
+  * [[藍色に。(jubeat plus Mix)]] - [[Brian the Sun]]
+
+ * {{{#green '''雅-MIYAVI- pack'''}}} - 2012년 7월 10일 <450엔>
+  * [[WHAT'S MY NAME?]] - [[wiki:"미야비(가수)" 雅-MIYAVI-]]
+  * [[A-HA]] - [[wiki:"미야비(가수)" 雅-MIYAVI-]]
+  * [[SHELTER]] - [[wiki:"미야비(가수)" 雅-MIYAVI-]]
+  * [[FUTURISTIC LOVE]] - [[wiki:"미야비(가수)" 雅-MIYAVI-]]
+
+ * {{{#green '''WHITE ASH pack'''}}} - 2012년 7월 11일 <450엔>
+  * [[Jails]] - [[WHITE ASH]]
+  * [[Paranoia]] - [[WHITE ASH]]
+  * [[Kiddie]] - [[WHITE ASH]]
+  * [[Orchid]] - [[WHITE ASH]]
+
+ * {{{#green '''copious pack 09'''}}} - 2012년 8월 17일 <450엔>
+  * [[cloche]] - [[Qrispy Joybox]]
+  * [[532nm]] - [[Ryu☆]]
+  * [[JOMANDA]] - [[DJ YOSHITAKA]]
+  * [[candii]] - 八王子P
+
+ * {{{#green '''copious pack 10'''}}} - 2012년 8월 17일 <450엔>
+  * [[Rush!!]] - [[kors k]] feat. 吉河順央
+  * [[歌の翼]] - [[wiki:"이즈미 무츠히코"あーたん]]
+  * [[逆ナンされたのにドタキャン!!]] - [[good-cool]] ft.すわひでお	
+  * [[ギタ・ドラ・jubeat大夏祭りのテーマ]] - [[wiki:"코에즈카 요시히코"DNM盛り上げ隊]]
+
+ * {{{#green '''Happiness pack'''}}} - 2012년 8월 20일 <450엔>
+  * [[We Can Fly]] - Happiness
+  * [[フレンズ]] - Happiness
+  * [[Wish]] - Happiness	
+  * [[Kiss Me]] - Happiness
+
+ * {{{#green '''BUZZ THE BEARS pack'''}}} - 2012년 8월 22일 <450엔>
+  * [[ブルースカイ]] - [[BUZZ THE BEARS]]
+  * [[光り]] - [[BUZZ THE BEARS]]
+  * [[晴れのち終わり]] - [[BUZZ THE BEARS]]	
+  * [[シーフ]] - [[BUZZ THE BEARS]]
+
+ * {{{#green '''ニコニコ・ミュージック pack02'''}}} - 2012년 8월 25일 <450엔>
+  * [[メランコリック]] - [[Junky]]
+  * [[RIP=RELEASE]] - [[minato(流星P)]]
+  * [[男の娘メモラブル]] - [[さつき が てんこもり]]	
+  * [[マダラカルト]] - [[トーマ]]
+
+ * {{{#green '''アイドリング!!! pack'''}}} - 2012년 9월 13일 <450엔>
+  * [[One Up!!!]] - [[wiki:"아이돌링" アイドリング]]
+  * [[Don't think..Feel !!!]] - [[wiki:"아이돌링" アイドリング]]
+  * [[S.O.W.センスオブワンダー]] - [[wiki:"아이돌링" アイドリング]]	
+  * [[手のひらの勇気]] - [[wiki:"아이돌링" アイドリング]]
+
+ * {{{#green '''ゆるゆり II pack'''}}} - 2012년 9월 19일 <450엔>
+  * [[wiki:"유루유리/음반" いぇす!ゆゆゆ☆ゆるゆり♪♪]] -  七森中☆ごらく部
+  * [[wiki:"유루유리/음반" レッツラブ～でいきましょう♪]] -  七森中☆ごらく部
+  * [[wiki:"유루유리/음반" 100%ちゅ～学生]] -  七森中☆ごらく部	
+  * [[wiki:"유루유리/음반" MY SWEET MEMORY]] -  七森中☆ごらく部
+
+ * {{{#green '''小南泰葉 pack'''}}} - 2012년 9월 22일 <450엔>
+  * [[Trash]] - [[wiki:"코미나미 야스하" 小南泰葉]]
+  * [[世界同時多発ラブ仮病捏造バラード不法投棄]] - [[wiki:"코미나미 야스하" 小南泰葉]]
+  * [[噓憑きとサルヴァドール]] - [[wiki:"코미나미 야스하" 小南泰葉]]	
+  * [[ルポルタージュ精神病棟]] - [[wiki:"코미나미 야스하" 小南泰葉]]
+
+ * {{{#green '''copious pack 11'''}}} - 2012년 9월 23일 <450엔>
+  * [[RePrise]] - SHOGO
+  * [[800nm]] - [[Another Infinity]] ([[Ryu☆]]×Starving Trancer)
+  * [[Summer Holiday]] - [[wiki:"타츠미 메구미" 達見 恵]] featured by 佐野宏晃
+  * [[Plum]] - [[wiki:"코에즈카 요시히코" 肥塚良彦]]
+
+ * {{{#green '''copious pack 12'''}}} - 2012년 9월 23일 <450엔>
+  * [[DOUBLE IMPACT]] - [[wiki:"96" DOUBLE]] [[wiki:"후지모리 소타" IMPACT]]
+  * [[Riot of Color]] - [[TAG]]
+  * [[squall]] - [[wiki:"猫叉Master" 猫叉Master+]]
+  * [[Fantasia]] - [[TЁЯRA]]
+
+ * {{{#green '''幽☆遊☆白書 pack'''}}} - 2012년 9월 26일 <450엔>
+  * [[微笑みの爆弾]] - [[wiki:"마와타리 마츠코" 馬渡松子]]
+  * [[さよならbyebye]] - [[wiki:"마와타리 마츠코" 馬渡松子]]
+  * [[アンバランスなKissをして]] - [[wiki:"타카하시 히로" 高橋ひろ]]
+  * [[太陽がまた輝くとき]] - [[wiki:"타카하시 히로" 高橋ひろ]]
+
+ * {{{#green '''うんどうかい pack'''}}} - 2012년 10월 11일 <450엔>
+  * [[クシコス・ポスト]] - コロムビア·マーチ·オーケストラ
+  * [[道化師のギャロップ]] - サー·チャールズ·グローヴズ, フィルハーモニア管絃楽団
+  * [[コンバット・マーチ]] - コロムビア·オーケストラ
+  * [[コロブチカ]] - コロムビア·フォークダンス·オーケストラ
+
+ * {{{#green '''saucer pack 01'''}}} - 2012년 10월 19일 <450엔>
+  * [[Mother Ship]] - [[wiki:"후지모리 소타" Sota Fujimori]]
+  * [[我が麗しのバレンシア]] - [[wiki:"극단레코드" 劇団レコード]] feat. Mile Face
+  * [[quaver♪]] - [[wiki:"dj TAKA" Risk Junk]]
+  * [[DIAVOLO]] - [[wiki:"L.E.D." 度胸]][[wiki:"wac" 兄弟]]
+
+ * {{{#green '''10-FEET pack'''}}} - 2012년 10월 25일 <450엔>
+  * [[JUNGLES]] - [[10-FEET]]
+  * [[その向こうへ]] - 10-FEET
+  * [[1sec.]] - 10-FEET
+  * [[hammer ska]] - 10-FEET
+
+ * {{{#green '''工藤静香 pack'''}}} - 2012년 10월 31일 <450엔>
+  * [[嵐の素顔]] - [[工藤静香]]
+  * [[黄砂に吹かれて]] - 工藤静香
+  * [[恋一夜]] - 工藤静香
+  * [[FU-JI-TSU]] - 工藤静香
+
+ * {{{#green '''セブンブリッジ pack'''}}} - 2012년 11월 7일 <450엔>
+  * [[Witch]] - [[セブンブリッジ]]
+  * [[darksnow]] - セブンブリッジ
+  * [[リンドウ]] - セブンブリッジ
+  * [[生誕祭]] - セブンブリッジ
+
+ * {{{#green '''Che'Nelle pack 2'''}}} - 2012년 11월 9일 <450엔>
+  * [[Believe]] - [[Che'Nelle]]
+  * [[Story]] - Che'Nelle
+  * [[Sunshine On You]] - Che'Nelle
+  * [[Rain]] - Che'Nelle
+
+ * {{{#green '''saucer pack 02'''}}} - 2012년 11월 16일 <450엔>
+  * [[フー ・フローツ]] - [[Nanako]]
+  * [[Dragontail Butterfly]] - Tom-H@ck feat.Nadia
+  * [[Baby Bleep March]] - [[wiki:"무라이 세이야" seiya-murai]]
+  * [[Vermilion]] - [[wiki:"DJ Remo-con" Remo-con]]
+
+ * {{{#green '''saucer pack 03'''}}} - 2012년 11월 16일 <450엔>
+  * [[NIGHT FLIGHT]] - [[wiki:"오노 히데유키" 小野秀幸]]
+  * [[Amalgamation]] - [[Mystic Moon]]
+  * [[PRANA]] - [[TAG]]
+  * [[Beastie Starter]] - [[GUHROOVY]]
+
+ * {{{#green '''おニャン子クラブ pack'''}}} - 2012년 11월 21일 <450엔>
+  * [[およしになってねTEACHER]] - おニャン子クラブ
+  * [[じゃあね]] - おニャン子クラブ
+  * [[恋はくえすちょん]] - おニャン子クラブ
+  * [[かたつむりサンバ]] - おニャン子クラブ
+
+ * {{{#green '''シシド・カフカ pack'''}}} - 2012년 11월 29일 <450엔>
+  * [[愛する覚悟]] - 	シシド・カフカ
+  * [[サバイバル]] -  シシド・カフカ
+  * [[カウントダウン]] - シシド・カフカ
+  * [[デイドリームライダー]] - シシド・カフカ
+
+ * {{{#green '''REFLEC BEAT pack 2'''}}} - 2011년 11월 30일 <450 엔>
+  * [[ビューティフル レシート]] - [[Lucky Vacuum]]
+  * [[Starry☆night]] - [[Qrispy Joybox]] feat.mao
+  * [[IMAGE-MATERIAL- <REFLEC BEAT Edition>]] - [[Tatsh]] 
+  * [[UNLIMITED FIRE]] - [[TAG]]
+
+ * {{{#green '''CLIFF EDGE pack'''}}} - 2012년 11월 29일 <450엔>
+  * [[LOVE LOVE FEVER]] - CLIFF EDGE
+  * [[誓い]] - CLIFF EDGE
+  * [[KISS! KISS!! KISS!!!]] - CLIFF EDGE
+  * [[Believe ～夢のカケラ～]] - CLIFF EDGE
+
+ * {{{#green '''すわひでお pack'''}}} - 2012년 12월 7일 <450엔>
+  * [[Dream On]] - すわひでお
+  * [[ポンギ]] - すわひでお
+  * [[明日元気にな〜れ！！]] - すわひでお
+  * [[彼氏にしてみませんか！？]] - すわひでお
+
+ * {{{#green '''saucer pack 04'''}}} - 2012년 12월 14일 <450엔>
+  * [[アストライアの双皿]] - [[wiki:"wac" ZODIACSYNDICATE]]
+  * [[BLUE STRAGGLER]] - [[L.E.D.]]
+  * [[POINT ZERO]] - [[wiki:"猫叉Master"猫叉Master+]]
+  * [[キラキラ☆ステーション]] - [[Tatsh]] feat. Prico
+
+ * {{{#green '''家入レオ pack 2'''}}} - 2012년 12월 20일 <450엔>
+  * [[サブリナ]] - [[家入レオ]]
+  * [[Bless You]] - [[家入レオ]]
+  * [[Say Goodbye]] - [[家入レオ]]
+  * [[Last Stage]] - [[家入レオ]]
+
+ * {{{#green '''THE ALFEE pack'''}}} - 2012년 12월 21일 <450엔>
+  * [[星空のディスタンス]] - [[THE ALFEE]]
+  * [[木枯しに抱かれて・・・]] - [[THE ALFEE]]
+  * [[恋人達のペイヴメント]] - [[THE ALFEE]]
+  * [[冒険者たち]] - [[THE ALFEE]]
+
+ * {{{#green '''saucer pack 05'''}}} - 2012년 12월 25일 <450엔>
+  * [[Little Star]] - [[REDALiCE]] feat. Ayumi Nomiya
+  * [[LUV CAN SAVE U]] - HIDEKI NAGANUMA
+  * [[Twinkle Wonderland]] - [[Qrispy Joybox]] feat.Sana
+  * [[†渚の小悪魔ラヴリィ～レイディオ†]] - [[wiki:"모리나가 마유미" 夏色ビキニの]][[wiki:"L.E.D." Prim]]
+
+ * {{{#green '''saucer pack 06'''}}} - 2012년 12월 25일 <450엔>
+  * [[405nm(Ryu☆mix)]] - [[Another Infinity]]
+  * [[wiki:"SEED(비마니 시리즈)" SEED]] - [[DJ YOSHITAKA]]
+  * [[milky ice bear]] - [[wiki:"숏쵸" S-C-U]]
+  * [[Holy Snow]] - [[Mutsuhiko Izumi]]
+
+ * {{{#green '''saucer pack 07'''}}} - 2013년 1월 9일 <450엔>
+  * [[朧]] - [[wiki:"Ryu☆" H]][[wiki:"Dai" H]][[wiki:"VJ Halka" H]]×[[wiki:"모리나가 마유미" MM]]×[[wiki:"Starving Trancer" ST]]
+  * [[Mynarco]] - [[wiki:"Des-ROW" positive MAD-crew]]
+  * [[attack in the minor key]] - [[Mr.T]]
+  * [[spring pony]] - [[S-C-U]]
+
+ * {{{#green ''' ClariS pack'''}}} - 2013년 1월 18일
+  * irony / [[ClariS]]
+  * Wake Up / [[ClariS]]
+  * [[コネクト]][* 기존에 있던 채보와는 다르다.] / [[ClariS]]
+  * ナイショの話 / [[ClariS]]
+
+ * {{{#green '''電気グルーヴ(전기 그루브) pack'''}}} - 2013년 1월 18일
+  * Shangri-La (Y.Sunahara 2009 Remodel) / [[wiki:"전기 그루브" 電気グルーヴ]]
+  * SHAME / [[wiki:"전기 그루브" 電気グルーヴ]]
+  * SHAMEFUL / [[wiki:"전기 그루브" 電気グルーヴ]]
+  * 虹 (A DAY IN JAPAN ver) / [[wiki:"전기 그루브" 電気グルーヴ]]
+
+ * {{{#green '''加藤ミリヤ(미리야 카토) pack'''}}} - 2013년 1월 18일
+  * BYE BYE / [[加藤ミリヤ]]
+  * HEART BEAT / [[加藤ミリヤ]]
+  * Love Forever / [[加藤ミリヤ]]
+  * SAYONARAベイベー / [[加藤ミリヤ]]
+
+ * {{{#green ''' Rake pack'''}}} - 2013년 1월 18일
+  * 100万回の「I love you」 / [[Rake]]
+  * Fly away / [[Rake]]
+  * フタリヒトツ / [[Rake]]
+  * 素晴らしき世界 / [[Rake]]
+
+ * {{{#green ''' SCANDAL pack'''}}} - 2013년 1월 18일
+  * HARUKAZE / [[SCANDAL]]
+  * 少女S / [[SCANDAL]]
+  * 瞬間センチメンタル / [[SCANDAL]]
+  * 太陽スキャンダラス / [[SCANDAL]]
+
+ * {{{#green ''' supercell pack'''}}} - 2013년 1월 18일
+  * 星が瞬くこんな夜に / [[supercell]]
+  * [[君の知らない物語]] / [[supercell]]
+  * さよならメモリーズ / [[supercell]]
+  * うたかた花火 / [[supercell]]
+
+ * {{{#green '''ユニコーン(UNICORN) pack'''}}} - 2013년 1월 18일
+  * SAMURAI 5 / [[wiki:"유니콘(밴드)" ユニコーン]]
+  * WAO! / [[wiki:"유니콘(밴드)" ユニコーン]]
+  * [[大迷惑]] / [[wiki:"유니콘(밴드)" ユニコーン]]
+  * キミトデカケタ / [[wiki:"유니콘(밴드)" ユニコーン]]
+
+ * {{{#green ''' UVERworld pack'''}}} - 2013년 1월 18일
+  * CORE PRIDE / [[UVERworld]]
+  * GOLD / [[UVERworld]]
+  * Roots / [[UVERworld]]
+  * THE OVER / [[UVERworld]]
+
+ * {{{#green '''武装神姫(무장신희) pack'''}}} - 2013년 1월 23일
+  * SKY GARDEN / アン (CV: [[阿澄 佳奈]] )
+  * いきさき / ヒナ (CV: [[茅原 実里]] )
+  * HA・CHA・ME・CHA☆QUEEN / アイネス (CV: [[水清 かおり]] )
+  * PEACE&LUCK / レース (CV: [[中島 愛]] )
+
+ * {{{#green '''saucer pack 08'''}}} - 2013년 1월 30일
+  * [[Happy]] / [[wiki:"후지모리 소타" Sota Fujimori]]
+  * [[Vanity]] / Vivian
+  * [[この子の七つのお祝いに]] / [[wiki:"아사키" あさき]]
+  * [[Across the nightmare]] / [[Jimmy Weckl]]
+
+ * {{{#green '''アルカラ pack'''}}} - 2013년 2월 6일
+  * 癇癪玉のお宮ちゃん / アルカラ
+  * デカダントタウン / アルカラ
+  * いびつな愛 / アルカラ
+  * 380 / アルカラ
+
+ * {{{#green '''X.Y.Z→A pack'''}}} - 2013년 2월 8일
+  * PATRIOT'S DREAM （美しく花と散れ） / X.Y.Z→A
+  * INITIATION / X.Y.Z→A
+  * REAL MAN / X.Y.Z→A
+  * SEVENTH HEAVEN / X.Y.Z→A
+
+ * {{{#green '''EMI ROCKS SENDAI pack vol.1'''}}} - 2013년 2월 14일
+  * to live（新録）/ ACIDMAN
+  * 僕らは / The Mirraz
+  * DAY 1 / MIYAVI vs YUKSEK
+  * FLOWER / 吉井和哉
+
+ * {{{#green '''つぎドカ！ Pack'''}}} - 2013년 2월 16일
+  * [[snow prism]] / [[Qrispy Joybox]]
+  * [[紅焔]] / [[PON]]
+  * [[Cosmic Hurricane]] / [[TAG]]
+  * [[恋閃繚乱]] / 2B-Waves
+
+ * {{{#green '''EMI ROCKS SENDAI pack vol.2'''}}} - 2013년 2월 22일
+  * 仏教ソング / The SALOVERS
+  * sick rocks ~Too Fast version~ / the telephones
+  * スリル / 布袋寅泰
+  * POISON / 布袋寅泰
+
+ * {{{#green '''saucer pack 09'''}}} - 2013년 2월 26일
+  * [[Daily Lunch Special]] / [[wiki:"DJ YOSHITAKA" Lucky Vacuum]]
+  * [[HEART BEAT FORMULA]] / [[TAG]]
+  * [[記憶の欠片]] / [[wiki:"신타니 사나에" Sana]]
+  * [[Cassis]] / [[wiki:"코에즈카 요시히코" 肥塚良彦]]
+
+* {{{#green '''EMI ROCKS SENDAI pack vol.3'''}}} - 2013년 3월 1일
+  * Under the rain / ACIDMAN
+  * 煩悩コントロール (Album Version/2013 Remastered) / 吉井和哉
+  * サイケデリックマリー / The SALOVERS
+  * パープルスカイ / 蜜
+
+* {{{#green '''Daisy×Daisy pack 2 '''}}} - 2013년 3월 12일
+
+  * CROSS†BREAKER feat.RYU (BLOOD STAIN CHILD) / Daisy×Daisy
+  * 星詠みエンドラヴァー / Daisy×Daisy
+  * ミラヰアカヅキ / Daisy×Daisy
+  * 永久のキズナ feat.Another Infinity / Daisy×Daisy
+
+* {{{#green '''LAST ALLIANCE 「Seventh Sense」 pack  '''}}} - 2013년 3월 13일
+
+  * a burning bullet / LAST ALLIANCE
+  * BLUE BIRD SHERRY / LAST ALLIANCE
+  * time-lag-cloud / LAST ALLIANCE
+  * 灯 / LAST ALLIANCE
+
+* {{{#green '''Aoi Eir (藍井エイル) pack'''}}} - 2013년 3월 14일
+
+  * AURORA / 藍井エイル
+  * INNOCENCE / 藍井エイル
+  * MEMORIA / 藍井エイル
+  * アヴァロン･ブルー / 藍井エイル
+
+* {{{#green '''saucer pack 10  '''}}} - 2013년 3월 15일
+
+  * [[Pink Rose]] / Kiyommy+Seiya
+  * [[True Blue]] / dj TAKA feat. AiMEE
+  * [[紅蓮の焔]] / 劇団レコード feat. 浅葉リオ
+  * [[闘いの刻-jubeatREMIX-]] / マジックアカデミー管弦楽部×劇団レコード
+
+* {{{#green '''quasimode pack '''}}} - 2013년 3월 19일
+
+  * Ant Soldier / quasimode
+  * Ascension (The Land Of Freedom Part2) feat. Akiko / quasimode
+  * Music Can Change the World feat. HanaH (Single Edit) / quasimode
+  * Whisky's High feat. AFRA (Single Edit) / quasimode
+
+* {{{#green '''Alice Juuban (アリス十番) pack '''}}} - 2013년 3월 22일
+
+  * Dive-E / アリス十番
+  * ハピ☆バデ / アリス十番
+  * 夏だね☆ / アリス十番
+  * 真・アドベンチャー / アリス十番
+
+* {{{#green '''saucer pack 11 (03/28/2013) '''}}} - 2013년 3월 28일
+
+  * [[Chronos]] / TAG
+  * [[Magnetic]] / Sota Fujimori
+  * [[O JIYA]] / ASMAT & emi
+  * [[天上の果て]] / マジックアカデミー管弦楽部×劇団レコード
+
+* {{{#green '''9mm Parabellum Bullet pack '''}}} - 2013년 4월 5일
+
+  * Supernova / 9mm Parabellum Bullet
+  * 新しい光 / 9mm Parabellum Bullet
+  * キャンドルの灯を / 9mm Parabellum Bullet
+  * ハートに火をつけて / 9mm Parabellum Bullet
+
+* {{{#green '''Ponkickies (ポンキッキーズ) pack '''}}} - 2013년 4월 19일
+
+  * はたらくくるま2 / 子門真人
+  * ホネホネロック / 子門真人
+  * まる・さんかく・しかく / のこいのこ
+  * パタパタママ / のこいのこ
+
+* {{{#green '''Hokuto no Ken (北斗の拳) pack'''}}} - 2013년 4월 23일
+
+  * SILENT SURVIVOR / 子供ばんど
+  * TOUGH BOY / TOM★CAT
+  * 愛をとりもどせ!! / クリスタルキング
+  * ユリア・・・永遠に / クリスタルキング
+
+* {{{#green '''saucer pack 12 '''}}} - 2013년 4월 25일
+
+  * [[Concertino in Blue]] / 佐々木博史
+  * [[Mirage]] / Mutsuhiko Izumi
+  * [[OVERHEAT -Type J-]] / DOUBLE IMPACT
+  * [[雨ノチHello]] / TLION69
+
+* {{{#green '''LiSA pack'''}}} - 2013년 4월 26일
+
+  * Believe in myself / LiSA
+  * crossing field / LiSA
+  * oath sign / LiSA
+  * ジェットロケット / LiSA
+
+* {{{#green '''TM NETWORK pack '''}}} - 2013년 4월 26일
+
+  * BE TOGETHER / TM NETWORK
+  * Get Wild / TM NETWORK
+  * LOVE TRAIN / TM NETWORK
+  * SELF CONTROL / TM NETWORK
+
+업데이트 이후 [[추가바람]]
+

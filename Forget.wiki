@@ -1,0 +1,83 @@
+|| 장르 |||||||| Trance ||
+|| 곡명 |||||||| Forget ||
+|| 작곡 |||||||| [[Praya]] ||
+|| 작사 |||||||| Transin ||
+|| 보컬 |||||||| RYU♡STAR ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 125 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 6}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='GIAcoJ2npVk$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=GIAcoJ2npVk$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=GIAcoJ2npVk$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='bVrNXGSPm8I$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=bVrNXGSPm8I$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=bVrNXGSPm8I$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2ON]] '''BGA'''
+
+이지투디제이 7th에 수록된 곡. 부제는 Return by Weeping Cross. 보컬은 RYU♡STAR인데 이는 RYUminus의 실제 목소리. 덕분에 [[빛바랜 영혼]]과 [[Let me hear your voice]]의 보컬 때문에 RYU♡STAR가 RYUminus의 여동생이라는 루머는 헛소문이 되었다. 곡 분위기나 BGA, 가사도 상당히 어두운 분위기다.
+
+클럽 믹스에서는 난이도 11짜리 곡으로, 곡 중반부의 스트링 음원이 모조리 계단으로 나오는 부분이 난관이다. 등장 당시에는 난이도가 10이었지만 굉장한 난이도 사기였기 때문에 7th 2.0에서 올라갔다.
+
+BGA는 [[콘티]]를 그대로 사용한 것이라고 한다. 이지투온에 수록되었을 때는 제대로 된 그림으로 보완하여 새로 제작하였다. [[EZ2DJ AE]]에서는 판권 문제로 인해 삭제되었다.
+
+아래 본 곡의 가사.
+
+{{|
+그 거리의 내 흔적들을 지워
+고독한 술 한잔에 나의 기억을 지워
+
+저 무심한 밤 하늘에 별빛들은
+오늘따라 유난히도 흐릿하게 보여
+
+말라버린 나의 눈물
+삭막하져 버린 하루하루
+이제 그만 씻어내고 싶어
+
+내 기억에서 사라져 부탁이야
+이제 나를 떠나줘
+
+우울한 하루하루가
+이미 지쳐버린 나를 더욱 힘들게 만들어
+
+제발 날 놓아줘
+|}}
+
+어느 메이플 유저에 의해 BGA가 메이플 카툰화가 되었다.
+
+[[http://maplestory.nexon.com/board/503316487/22576845/ 제목명 Return '''To''' Weeping Cross. ~~부제와 표지를 우려먹었다.~~]]
+
+{{{#!HTML
+<iframe width="425" height="349" src="http://www.youtube.com/embed/nqG-6qJP8HQ" frameborder="0" allowfullscreen></iframe>
+}}}
+5키 [[wiki:"EZ2DJ/Znpfg" znpfg 채널]] 패턴 영상.
+== 제작자 코멘트 ==
+{{|
+BGA 스토리.
+
+2인조 남녀 도둑년놈들이다.
+시작할때 여자가 총맞고 돌아가신다.
+남자는 걍 슬퍼하다가, 예전에 그 여자가 갖고싶어 하던 보석을 훔칠 계획을 세운다.
+결국 훔쳤다. 경찰에게 포위되고 훔친 보석을 꽉 쥐며 자살하며 끝나는 지루한 내용.
+
+근데 그림이..........
+
+그림...이...
+
+콘티다.
+
+눈물난다
+-RYUminus
+|}}

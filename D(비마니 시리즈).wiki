@@ -1,0 +1,77 @@
+||||||||<tablewidth=100%> [[PARALLEL ROTATION]] ||
+||<|4><:> IIDX RED || [spiral galaxy][[BR]][wiki:"spiral galaxy" -L.E.D. STYLE SPREADING][[BR]][wiki:"spiral galaxy" PARTICLE BEAM MIX-] ||<|20> PARARELL ROTATION[[BR]]One More EXTRA ||<|20> [Almagest] ||
+|| [[eRAseRmOToRpHAntOM]] ||
+|| [[水上の提督(Short mix from "幻想水滸伝V")]] ||
+|| [[ワルツ第17番 ト短調 大犬のワルツ]] ||
+||<|4><:> HAPPY SKY || [wiki:"SPARK!" SPARK! -essential RMX-] ||
+|| [DAWN -THE NEXT ENDEAVOUR-] ||
+|| [[サヨナラ・ヘヴン]] ||
+|| [[EXUSIA]] ||
+||<|4><:> DistorteD || [wiki:"CaptivAte 〜裁き〜" CaptivAte 〜裁き〜][[BR]] [wiki:"CaptivAte 〜裁き〜" (SUBLIME TECHNO MIX)] ||
+|| [[SOLID STATE SQUAD]] ||
+|| [[quell -the seventh slave-]] ||
+|| [[G59]] ||
+||<|4><:> GOLD || [wiki:"電人、暁に斃れる。" DENJIN AKATSUKINI TAORERU][[BR]][wiki:"電人、暁に斃れる。" -SF PureAnalogSynth Mix-] ||
+|| [The Story Begins] ||
+|| [[GOLDEN CROSS]] ||
+|| [[mosaic]] ||
+||<|4><:>DJ TROOPERS || [[wiki:"Dazzlin' Darlin" Dazzlin' Darlin -秋葉工房 mix-]] ||
+|| [BEAUTIFUL ANGEL] ||
+|| [[THE LAST STRIKER]] ||
+|| '''D''' ||
+
+[[비트매니아 IIDX 17 SIRIUS]]의 엑스트라 악곡
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/UtZfMk0S1IQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+싱글 어나더 오토플레이 영상
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/POlOcbW1tJk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+더블 어나더 오토 플레이 영상
+
+위 두 영상은 BMS 프로그램으로 시뮬레이팅한 것을 촬영한 것으로, 사용된 프로그램이 차지노트 시작부분을 콤보 적용을 하지 않아서 실제 노트 수와 차이가 있다.
+
+||<|2><:> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 30 - 240 [[br]] 주 BPM : 175 || {{{#blue 8}}} || {{{#blue 770}}} || {{{#orange 10}}} || {{{#orange 1004}}} || {{{#red 11}}} || {{{#red 1313}}} || {{{#blue 6}}} || {{{#blue 598}}} || {{{#orange 10}}} || {{{#orange 1021}}} || {{{#red 11}}} || {{{#red 1257}}} ||
+ * [wiki:"롱노트" 차지 노트], 백 스핀 스크래치 노트 채용
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 17 SIRIUS ~
+
+제목이 하도 간단해서 처음에 출현 이미지가 공개되었을때만해도 낚시일줄 알았으나, 곧 사실로 판명되었다. 아마도 이카루스의 아버지인 다이달로스의 머리글자 D에서 따왔을 것이다.
+
+작곡은 [[kors k]]가 eagle 명의로서 작곡하였다. 명의도 그렇고 장르명도 그렇고 전체적으로 [[ICARUS]]의 뒤를 잇는다는 느낌이 강하다.(그래도 악곡의 느낌은 많이 다른 편.) 장르명은 NEXT SKOOL BREAKBEAT HARDCORE로 그전까지 가장 길었던 ICARUS의 장르명 글자수 기록을 깨 버렸다. ICARUS에 비해 좀 더 본격적인 브레이크비트 하드코어느낌이 난다.(참고로 ICARUS는 NU-SKOOL BREAKBEAT HARDCORE인데 전반적인 느낌이 상당히 밝은 느낌이다.)
+
+본작의 엑스트라 룸계열 악곡중 하나이며 PARALLEL ROTATION의 DJ TROOPERS 룸에서 등장하는 곡이다. 이카루스는 가속파트만 제외하면 bpm 176으로 일관되었었는데 이 곡은 초반과 후반은 bpm 120이고 변속 후 확 느려지는 부분에서 챠지노트를 처리하고 나오는 부분은 bpm 175다. 배속 설정법은 최초 시작시 175에 맞춰서 배속을 설정하고 BPM 30 구간에서 배속을 120에 맞춰서 설정을 바꾸면 된다. BPM이 200이 넘어가는 구간은 단 한 소절인데다 노트도 10개 남짓하므로 보고 칠 수 있는 수준이다.
+  
+참고로 페러렐 로테이션 보스곡중 유일하게 난이도가 11이다. 그래도 실제 난이도는 11렙 최상위곡.
+
+[[BGA]]는 DJ TROOPERS계 패러렐 로테이션 범용([[초록색]])에 레이어가 대응된 형태인데, [[MAYA]]가 일러스트를 맡았으며 ICARUS에서 등장했던 기체와 정체불명의 인간(?)이 등장한다. 기체의 조종사일지도?
+
+kors k의 앨범인 Ways For Liberation에 풀버전이 수록되었는데, 남성 보컬 티모시 웰라드의 피처링이 추가되었다. 티모시 웰라드는 영국인 배우이자 작곡가로, [[하마사키 아유미]]의 [[Party Queen]] 등 J-POP 음반에도 참여한 적이 있으며 kors k의 두번째 앨범에서 'Mine'이라는 곡도 불렀다. 진행이 게임판과 약간 다르다. 특히 2분 20~40초의 감속 구간이 가장 큰 차이이다. 이 보컬은 이후 [[Shine On Me]] 풀버전의 보컬도 맡게 된다.
+
+== 곡 코멘트 ==
+||Eagle씨의 발언 : You Like that?:D
+당신의 발언 : ○○○○
+
+제각각의 말을 넣어주세요.
+(사립 beatnation records 2010년도 입학시험)
+
+Sound/Eagle
+
+안녕하세요. MAYA입니다.
+
+DJ TROOPERS의 보스라는 것으로 eagle씨가 재등장했기에
+이카루스도 재등장하는 것으로 되었습니다.
+
+중압적인 하늘을 혼자 상쾌하게 빠져나가서
+그 스피드에는 더 이상 누구도 따라 갈 수 없는
+고독하지만, 순수하게 점점 가속해서 유일하게 된다.
+힘차게 모든 것을 장악하는 것 같은 그런 이미지로 그렸습니다.
+
+Movie/MAYA||

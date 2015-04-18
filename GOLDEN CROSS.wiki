@@ -1,0 +1,135 @@
+[[목차]]
+
+== [[beatmania IIDX]] ==
+
+||||||||<tablewidth=100%> [[PARALLEL ROTATION]] ||
+||<|4><:> IIDX RED || [spiral galaxy][[BR]][wiki:"spiral galaxy" -L.E.D. STYLE SPREADING][[BR]][wiki:"spiral galaxy" PARTICLE BEAM MIX-] ||<|20> PARARELL ROTATION[[BR]]One More EXTRA ||<|20> [Almagest] ||
+|| [[eRAseRmOToRpHAntOM]] ||
+|| [[水上の提督(Short mix from "幻想水滸伝V")]] ||
+|| [[ワルツ第17番 ト短調 大犬のワルツ]] ||
+||<|4><:> HAPPY SKY || [wiki:"SPARK!" SPARK! -essential RMX-] ||
+|| [DAWN -THE NEXT ENDEAVOUR-] ||
+|| [[サヨナラ・ヘヴン]] ||
+|| [[EXUSIA]] ||
+||<|4><:> DistorteD || [wiki:"CaptivAte 〜裁き〜" CaptivAte 〜裁き〜][[BR]] [wiki:"CaptivAte 〜裁き〜" (SUBLIME TECHNO MIX)] ||
+|| [[SOLID STATE SQUAD]] ||
+|| [[quell -the seventh slave-]] ||
+|| [[G59]] ||
+||<|4><:> GOLD || [wiki:"電人、暁に斃れる。" DENJIN AKATSUKINI TAORERU][[BR]][wiki:"電人、暁に斃れる。" -SF PureAnalogSynth Mix-] ||
+|| [The Story Begins] ||
+|| '''GOLDEN CROSS''' ||
+|| [[mosaic]] ||
+||<|4><:>DJ TROOPERS || [[wiki:"Dazzlin' Darlin" Dazzlin' Darlin -秋葉工房 mix-]] ||
+|| [BEAUTIFUL ANGEL] ||
+|| [[THE LAST STRIKER]] ||
+|| [[D]] ||
+
+{{{#!html
+<iframe width="600" height="450" src="http://www.youtube.com/embed/pTJIQw5xCu4?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/hDOmY2l52rE" frameborder="0" allowfullscreen></iframe>
+}}}
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 150  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 559}}} || {{{#orange 9}}} || {{{#orange 1072}}} || {{{#red 12}}} || {{{#red 1765}}} || {{{#blue 6}}} || {{{#blue 619}}} || {{{#orange 8}}} || {{{#orange 970}}} || {{{#red 12}}} || {{{#red 1529}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 17 SIRIUS ~ 
+ * 가정용판 수록 : 14 GOLD
+ * 단위인정 수록
+  * 싱글 어나더 : 10단 (CS GOLD / AC RA, LC)
+
+[[dj REMO-CON]]과 [[dj TAKA]]의 합작곡으로, 두 작곡가 모두의 주력장르 중 하나인 테크노 [[장르]]의 악곡이다. [wiki:"비트매니아 IIDX 13 DistorteD" 전작 CS]에 뒤이은 합작곡 기획의 일환으로 작곡된 곡으로, 곡 자체는 두 작곡가의 특성이 잘 반영되고 상당히 묵직한 테크노 악곡으로 좋은 곡으로 꼽힌다.
+
+이 묵직함이 곡의 채보에도 영향을 미쳐서, 상당히 '''빡빡한''' 채보로 구성되어 있다. 싱글 어나더는 [[wiki:"AA(비마니 시리즈)" AA]] 를 능가하는 빽빽한 동시치기+계단 배치가 몇 마디씩 반복되는 구조로 되어있으며 한번 밀리기 시작하면 회복하기 힘들고, AA보다 스크래치의 견제는 더더욱 심해져 있다. 
+
+반면 더블 어나더는 싱글의 난이도가 무색할 정도로 12렙 노트중에서 양심(?)있게 떨어지기 때문에, 12렙 입문곡으로 추천할 만하다. 중반 쉬는 구간 직전에 왼손 배치 구간이 지뢰라 하드게일때는 주의.
+
+저런 채보 구성 때문인지 [헐화], [少年A]등과 같은 정배치 고난이도곡으로 클리어 시에는 위의 영상처럼 랜덤을 걸고 하는 일이 많다. 그 난이도 덕으로 CS GOLD 수록 시절을 포함하여 [[단위인정]] 싱글 10단에서 AA를 훌륭하게 대체하는 역할을 하였다.[* 지금은 이 역할을 [[reunion]]에게 물려주었다.][* 또한 링클 10단에서는 초반부터 [fffff]+[Colorful Cookie](...) 콤보를 맞고 게이지가 보정 아래로 떨어지는 일이 많아 이 곡의 정배치를 넘지 못하고 확인사살당하는 일이 잦았다.] [wiki:"사기 난이도"또한 하이퍼 역시 중반 발광을 포함하여 전체적으로 9레벨답지 않은 고밀도 채보로 구성되어 있으며, 노멀의 경우도 4레벨을 넘어 5레벨곡 중상정도로 되어 있었다.] 그래서 노멀은 SPADA때 5로 올라가긴 했지만 나머지는...
+
+훗날 [[비트매니아 IIDX 17 SIRIUS]]의 [[PARALLEL ROTATION]]에서 GOLD측 CS전용곡으로서 아케이드에 역이식되었다. 꽤나 고난이도로 존재감을 보였었으나 하필이면 [wiki:"quell -the seventh slave-" 더 미친 난이도의 곡]이 같이 이식되는 바람에…….
+
+곡도 좋은 평을 얻었지만 [[쇼기]]를 주 소재로 한 [[BGA]]가 더욱 더 화제에 올랐었다. CS 발매 전 프리뷰 화면에서는 '''유일하게 BGA가 가려져 있었는데''', 베일을 벗기니 제작진이 직접 출연한 BGA가 나왔다. [[Twelfth Style]] 이후로 정말 간만에 보는 IIDX 스탭의 실사출연 BGA라 할 수 있겠다.
+
+BGA에 나오는 출연진은 다음과 같다.
+ * 해설/중계 - DJ REMO-CON, dj TAKA
+ * 기록원 - [[DJ YOSHITAKA]][* 평소 모습과는 다르게 [[안경]]을 쓰고 있다. 요시타카가 안경을 쓴 모습을 보인 건 지금까지 이 BGA가 유일하다.], 옆의 여자는 아키바 아이돌인 이마이 키요아(井万里きよあ).
+ * [[쇼기]] 마스터 - [[VJ GYO]] [* 여담이지만, 들고있는 부채를 잘 보면 풀콤보라는 문구가 붓글씨로 적혀 있다(...) 이미지는 코멘트 참고.]
+ * 도전자 - VJ kototoi[* [[GOLD RUSH]], [[The Smile of You]] 등 그외에도 가정용 IIDX의 여러 곡들의 BGA를 담당하였었다.]
+거기에다가 장기판의 배치를 담당한 쪽은 [[U1-ASAMi]]. 이 쯤이면 제작진들이 정말 노리고 만든 티가 확 난다. 여담으로 중간의 기보(棋譜)를 보면 U1-ASAMi는 쇼기에 상당한 지식이 있는 듯하다. 마지막 장면의 기보는 곡 제목을 의식한 장난인데, 십자(CROSS)형을 이루고 있는 말의 이름이 토금(と'''金''')과 금장('''金'''将), 즉 GOLDEN이다.
+
+=== 같이보기 ===
+{{{#!html
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/ea4Ihs7Dw9M?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ea4Ihs7Dw9M?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[양덕]]들이 재현한 BGA. [[DM Ashura]]도 이 패러디 영상에 참여하였다.
+
+=== 코멘트 ===
+||SOUND / dj REMO-CON VS dj TAKA
+
+dj TAKA와의 첫 콜라보!
+실은 내 음악 인생 중에서도 콜라보레이션은 첫 체험.
+
+최종 믹스 때에는 마이크를 써서 둘이서 녹음했던 효과음을,
+그리고 정장으로 치른 긴박한 영상 녹화를 난 절대로 잊지 못한다.
+
+(Remo-con)
+
+세계를 돌아다니면서 활약하는, 일본을 대표하는 DJ 중 한 명, Remo-con씨와 콜라보 할 수 있어서 개인적으로 정말 영광입니다.
+리퀘스트 주신 유저 여러분, 감사합니다!
+
+완성품을 들어주신다면야 저는 그거로도 행복합니다.
+어찌됐든 들어줘!
+
+그리고 무비를 봐줘 (웃음)
+
+(TAKA)||
+
+||MOVIE / ackermann
+
+어느 추워서 얼어버린 조용한 겨울 밤, 어떤 dj가 말했습니다.
+「ackermann, 이거 실황으로 하고 싶은데. 쇼기를 테마로 해서말야」
+네, 그렇습니까. 그건 재밌을 거 같은데 힘들거 같네요. 큰일이다 큰일.
+「자, 그러니까 잘 부탁해 감독」
+하고 내 어깨를 치는 dj.
+
+에-!? 나말이야-!?
+「괜찮아, 괜찮아」
+dj는 웃는 얼굴로 말했다.
+
+역시 큰일이었습니다.
+촬영 무대에 참가해주신 VJ GYO, kototoi, 가정용 IIDX 디렉터.
+출연해주신 이마이 키요아(井万里きよあ)씨,
+djTAKA, djRemo-con, DJ Yoshitaka.
+굉장히 잘 쓰시는데도 굳이 못 쓰는 척 부채에 문자를 써주신 모 부서 편집장님. 기보를 생각해주신 [[U1-ASAMi]].
+그리고 억지로 부탁드렸음에도 불구하고 멋진 연기를 보여주신 메인 출연자 모 프로듀서와 모 프로그래머 두 분.
+기타 관련된 분들, 너무나도 멋진 도움으로 이 무비는 완성되었습니다. 모두에게 진심으로 감사를!
+
+http://vjarmy.com/wiki/images/5/5f/Gcfan.gif
+
+만들었는데도 무비에 별로 안 나온 부채를 모처럼이니
+||
+
+== [[리플렉 비트 시리즈]] (Golden Cross(extended remix)) ==
+attachment:/golden_cross.png
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/fn3RO7d2i7I?list=UUxmirghHMY7ot5J2UkN2deQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 154 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 201}}} || {{{#orange 421}}} || {{{#red 725}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈] ||
+
+[[dj REMO-CON]]의 개인 음반 rhetoric 출시를 기념해 2014년 8월 28일 이식수록 되었다. (extended remix)라는 부제가 붙고 곡 제목이 조금 변경되었으며 음원도 IIDX판이 아닌 앨범 음원 컷팅판을 사용한다. 원곡보다 BPM이 살짝 높아졌으니(150→154) 원곡 템포에 익숙한 사람들은 약간 주의. 
+
+보면은 전체적으로 짤막한 [[트릴]]과 추가적으로 축으로 내려오는 버티컬 오브젝트가 주가 되는 형식. 롱 오브젝트는 BGA에서의 골든 크로스 역전이 나오는 부분에서 '''딱 한 개'''만 나오는게 특징. 롱 오브젝트도 거의 없고 짤막한 트릴만 계속 나오기 때문에 트릴 처리가 능숙하다면 체감 난이도가 많이 낮아지는 타입의 곡이다.
+
+여담으로 게임 내에서의 자켓과 웹페이지에서의 자켓이 다른 곡이다. 웹페이지에선 이 곡이 수록된 앨범의 자켓이 나오기 때문에 혼란을 야기할 수도 있다.

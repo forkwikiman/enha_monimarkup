@@ -1,0 +1,34 @@
+[[목차]]
+
+== 개요 ==
+작곡은 [[Ryu☆]], 보컬은 [[호시노 카나코]]. 그래서 명의도 HHH(Ryu☆, Dai., VJ Halka의 3인 유닛)+H(호시노 카나코의 H)이다. 어원은 당연히 위의 마호로바.
+
+Ryu☆이 HHH 명의를 쓸 때는 주로 브치아게 트랜스류를 작곡할 때인데, 이쪽은 거기에서 약간 벗어난 형태의 신디음 많이 들어간(?) 댄스곡이다. 그래서인지 장르명도 J-DANCE POP.
+
+호시노 카나코의 두번째 앨범 'Prism'에 풀버젼이 수록되었고, 2009년 10월에 발매된 Ryu☆의 앨범 '[[starmine#s-2|starmine]]'에는 논스톱 믹싱되어 수록되었다.
+
+== 상세 ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gquVahRg-RE&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gquVahRg-RE&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+BGA
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/eWCV4QaVYoA" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 어나더 패턴 플레이 영상
+
+|| [[BPM]] |||||||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 149 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#800000 흑 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 398}}} || {{{#orange 7}}} || {{{#orange 737}}} || {{{#red 9}}} || {{{#red 1033}}} || {{{#800000 11}}} || {{{#800000 1135}}} || {{{#blue 5}}} || {{{#blue 445}}} || {{{#orange 8}}} || {{{#orange 708}}} || {{{#red 11}}} || {{{#red 1127}}} ||
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 16 EMPRESS ~
+ * 가정용판 수록 : 16 EMPRESS + PREMIUM BEST (EMPRESS SIDE)
+
+BGA에는 기모노를 입은 호시노 카나코와 전문 댄서인 Dai가 등장.
+
+싱글플레이인 경우 하드 게이지로는 9렙 중상급. 하지만 초반의 말도 안되는 폭타와 최후반 4소절이 10렙에서도 보기 힘든 고밀도 폭타라 노멀 게이지로는 9렙 상급 내지 잘못하면 10레벨을 상회하는 난이도. 최후반때문에 하드 게이지가 그나마 쉬운 편이다.
+
+노트가 초반과 최후반에 집중되어있는 경향이 강해서 9레벨 중에서는 노트수가 많은 편이지만 하드 게이지같은 경우라면 어디 한 군데서 깎이면 채우기가 정말 힘들다. 초반 폭타가 끝나고 20퍼가 남았다면 다음 폭타 시작까지 기를 쓰고 채워도 40~50%정도.
+
+중간에 오른손 4+6+7 배치에 자신이 없다면 미러를 걸자. 미러를 걸면 그 구간이 4+5+7로 변해 처리하기가 매우 쉬워진다.

@@ -1,0 +1,46 @@
+[[목차]]
+== 개요 ==
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/c7_iDOloCVU?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/c7_iDOloCVU?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || Euro Beat ||
+|| 작곡 || [[Earbreaker]] ||
+|| BPM || 170 ||
+|| BGA || Soryu ||
+
+[[DJMAX 시리즈]]의 수록곡.
+빠른 비트의 [[유로비트]] 곡으로, 온라인 시절부터 큰 히트를 쳤던 곡이다. 약칭은 '''슈럽'''. 
+
+코믹한 BGA와 경쾌한 리듬으로 많은 사랑을 받았다. 유로비트곡답게 난이도도 높은데, 중반의 --본격 손가락을 박살내는-- 트릴이 유명하다.
+
+이후 [wiki:"DJMAX Trilogy" 트릴로지]와 [wiki:"DJMAX Portable Black Square" 블랙 스퀘어]에도 수록되었다.
+== [[wiki:"DJMAX BS" DJMAX Black Square]] ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/qRhUPoJQql0" frameborder="0" allowfullscreen></iframe>
+}}}
+6B MX 패턴 ~~으앙 내 손가락~~
+
+블랙 스퀘어에서는 4B MX패턴이 4B 모드에서는 유일한 레벨 15. 거기에다가 플레이 타임도 상당히 길기 때문에 엄청난 체력이 요구된다.
+== [[DJMAX Trilogy]]  ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/USE5g4t02zI" frameborder="0" allowfullscreen></iframe>
+}}}
+6K NM 패턴
+
+트릴로지에서도 역시 트릴이 무섭다. ~~으앙 내 키보드~~
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Fusion 팩 수록곡 ||
+|| '''Super Lovely''' || [Memoirs] || [Emblem] || [Showtime] || [[Sold on Your Love]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 6 || ||
+||<#0000FF> {{{#white HD}}} || 7 || ||
+||<#FF0000> MX || 10 || ||
+
+[[DJMAX RAY]]의 Fusion 뮤직팩에 수록되었으며, 아예 10레벨을 달고 나왔다!
+
+
+...그러나 10레벨에는 못미친다는 평.
+하지만 슬라이드와 단타가 쉴세없이 몰아치기 때문에 절대 쉬운곡은 아니다. '''10레벨에 못미친다는거지 쉽다는 말이 아니다.'''

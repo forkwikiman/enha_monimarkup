@@ -1,0 +1,48 @@
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/PVmW7DrvhKg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+기타, 베이스 익스트림
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/ITYm9NEVQcM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+드럼 익스트림
+
+||<-3><#544599><:>'''{{{#white GuitarFreaks & DrumMania V7 & XG Extra Rush}}}''' ||
+|| V7 || XG || 해당 곡 ||
+||<-2><#FFA500><:> EXTRA 1 || '''[[Sonne]]''' ||
+||<-2><#FFA500><:> EXTRA 2 || '''[[三毛猫JIVE&ジャイブ]]''' ||
+||<-2><#FFA500><:> EXTRA 3 / ENCORE 1 || '''[[KAISER PHOENIX]]''' ||
+||<-2><#FFA500><:> EXTRA 4 / ENCORE 2 || '''[[Shake and Shout!!]]''' ||
+||<-2><#FFA500><:> EXTRA 5 / ENCORE 3 || '''Limitless Possibility''' ||
+||<-2><#FFA500><:> EXTRA 6 / ENCORE 4 || '''[[Excavation Damage]]''' ||
+||<-2><#FFA500><:> EXTRA 7 / ENCORE 5 || '''[[photon]]''' ||
+||<#082567> {{{#white ENCORE 6}}} ||<#FFA500> EXTRA 8 / ENCORE 6 || '''[[CALAMITY PHOENIX]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' ||<#082567> {{{#white ENCORE 7}}} || '''[[MODEL DD9]]''' ||
+|| 해당 없음 ||<#800080> '''{{{#white CLIMAX}}}''' || '''[[Einherjar]]''' ||
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [wiki:"기타프릭스%26드럼매니아 XG" XG] 난이도 체계 ||
+||<|5><:> 140 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} || {{{#purple MASTER}}} ||
+|| {{{#green 22}}} || {{{#orange 43}}} || {{{#red 77}}} ||<|2><:> {{{#blue 3.10}}} ||<|2><:> {{{#orange 4.90}}} ||<|2><:> {{{#red 7.85}}} ||<|2><:> {{{#purple 8.85}}} ||
+|| 기타 오픈픽 || {{{#green 24}}} || {{{#orange 46}}} || {{{#red 78}}} ||
+|| 기타 베이스 || {{{#green 21}}} || {{{#orange 39}}} || {{{#red 61}}} || {{{#blue 3.55}}} || {{{#orange 4.60}}} || {{{#red 6.75}}} || {{{#purple 8.00}}} ||
+|| 드럼매니아 || {{{#green 23}}} || {{{#orange 36}}} || {{{#red 74}}} || {{{#blue 2.65}}} || {{{#orange 4.20}}} || {{{#red 6.55}}} || {{{#purple 7.05}}} ||
+
+[[기타프릭스]]&[[드럼매니아]] XG & V7 수록곡. XG와 V7 모두 EXTRA RUSH Lv.4에서 앙코르 스테이지로 등장했다. 이후에 엑스트라 전용곡을 거쳐서 기본곡으로 해금되었다.
+
+작곡가는 AIKO OI([[오오이 아이코]]). 그녀의 BEMANI 시리즈 데뷔곡이다. 예전에는 [[오토메디우스]] 아케이드 개발 팀에서 활동했다고 한다.
+
+변박자, 독특한 멜로디 전개 등이 돋보이는 다소 실험적인 느낌의 퓨전재즈곡이다.
+
+드럼 익스트림 채보의 총 노트수가 596개로 매우 적은 편인데, 그렇다고 난이도가 낮은 건 아니기 때문에 자연스럽게 높은 퍼펙률를 내기가 어렵다. 풀콤보 측면에서도 중반부의 필인이나 고속 심벌 연타 등으로 매우 어렵다. 다만 국소적으로 어려운 몇 부분을 빼면 쉬운 편이고 게이지 회복이 가능하기 때문에 클리어는 어렵지 않다.
+
+=== 곡 코멘트 ===
+||이번에 처음 기타도라에 참가하게 된 AIKO입니다.
+AIKO가 누구???그렇죠!
+탑 시크릿입니다!!!
+여러분 기타도라에서 즐겁게 즐겨주세요. 나도 해야지.
+
+- AIKO OI||

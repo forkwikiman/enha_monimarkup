@@ -1,0 +1,17 @@
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/guicaTXA8Io?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/guicaTXA8Io?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+뮤직비디오
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/6-9v_uBDdz4" frameborder="0" allowfullscreen></iframe>
+}}}
+실내에서 실제로 연주하는 영상
+~~리코더 연주자에 자꾸 눈이 간다~~
+
+[[일본어]] : おじいさんの11ヶ月
+[[한국어]] : 할아버지의 11개월
+
+[[쿠리코더 콰르텟]]이 2007년 6월 6일 발표한 곡. 이 곡이 수록된 앨범의 이름은 '笛社会'(피리사회).
+
+일부 사람들은 [[아즈망가대왕]] 애니메이션 BGM으로 오해하기도 하지만 작곡가만 같을 뿐 관련이 없다[* 다만, 아즈망가대왕의 ost와 상당히 분위기가 비슷하기는 하다]. 오히려 국내에선 지상파 교양 프로그램에서 더 많이 사용하는 BGM이며 곡을 알고 있는 대한민국 네티즌들 중 태반은 멜로디는 알지만 곡명과 아티스트를 모른다. 하지만 [[쿠리코더 콰르텟]]은 일본에선 상당히 유명하다. [http://www.kuricorder.com/ 개인홈페이지]도 있다.

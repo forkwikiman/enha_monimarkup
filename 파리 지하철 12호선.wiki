@@ -1,0 +1,52 @@
+{{{+1 Ligne 12 du métro de Paris / Paris Metro Line 12}}}
+ * [[철도 관련 정보]]
+||||||||||||<table align=center><#0000f9> [wiki:"파리 지하철" <span style="font-weight:bold;color:white">파리 지하철 운행 노선</span>] ||
+|| [[wiki:"파리 지하철 1호선" 1호선]] || [[wiki:"파리 지하철 2호선"2호선]] || [[wiki:"파리 지하철 3호선"3호선]] || [[wiki:"파리 지하철 3bis선"3bis선]] || [[wiki:"파리 지하철 4호선"4호선]] || [[wiki:"파리 지하철 5호선"5호선]] ||
+|| [[wiki:"파리 지하철 6호선"6호선]] || [[wiki:"파리 지하철 7호선"7호선]] || [[wiki:"파리 지하철 7bis선"7bis선]] || [[wiki:"파리 지하철 8호선"8호선]] || [[wiki:"파리 지하철 9호선"9호선]] || [[wiki:"파리 지하철 10호선"10호선]] ||
+|| [[wiki:"파리 지하철 11호선"11호선]] ||<#028d5b> '''{{{#ffffff 12호선 }}}''' || [[wiki:"파리 지하철 13호선"13호선]] || [[wiki:"파리 지하철 14호선"14호선]] || [wiki:"Orlyval" 오를리발] || [CDGVAL] ||
+[[목차]]
+== 개요 ==
+||||<#028d5b> {{{#ffffff 파리 지하철 12호선}}} ||
+||운영기관 ||[[파리교통공사]](RATP)||
+||영업거리 ||13.9km[* 생드니 – 오베르빌리에(프롱 포퓌레르) 역(Saint-Denis – Aubervilliers(Front Populaire))↔마리 디시 역(Mairie d'Issy)] ||
+||궤간 ||1435㎜ ||
+||역수 ||29 ||
+||전기 ||직류 750V ||
+
+[[파리 지하철]]의 한 노선으로 파리 지하철 12호선 (Paris Metro Line 12)은 북쪽의 센생드니(Seine-Saint-Denis) 주 생드니(Saint-Denis)와 오베르빌리에(Aubervilliers)의 경계의 있는 생드니 – 오베르빌리에(프롱 포퓌레르) 역에서 남쪽의 오드센(Hauts-de-Seine) 주 이시레몰리노(Issy-les-Moulineaux) 매리 디시 역까지 남북으로 잇는 영업거리 13.9㎞의 노선이다. 이 노선의 노선색은 녹색이며 1910년 처음 개업하였다. 현재 [[파리교통공사]](RATP)가 운영하고 있다. 
+
+== 노선 ==
+attachment:노선도.jpg?width=650
+|| 한국어 명 || 프랑스어 명 || 환승노선 || 비고 ||
+|| 생드니 – 오베르빌리에(프롱 포퓔레르) || Saint-Denis – Aubervilliers(Front Populaire) ||  ||  ||
+|| 포르트 드 라 샤펠 || Porte de la Chapelle || {{{#008b5a ③b}}} [[파리 트램 3b선]] ||  ||
+|| 마르크스 도르무아 || Marx Dormoy ||  ||  ||
+|| 마르카데 - 푸아소니에 || Marcadet - Poissonniers || {{{#bb4b9c ●}}} [wiki:"파리 지하철 4호선" 4호선] ||  ||
+|| 쥘 조프랭 || Jules Joffrin ||  ||  ||
+|| 라마르크 - 콜랭쿠르 || Lamarck - Caulaincourt ||  ||  ||
+|| 아베스(뷔트 몽마르트) || Abbesses(Butte Montmartre) ||  {{{#5c217a ●}}} [[몽마르트 케이블카]] ||  ||
+|| 피걀 || Pigalle || {{{#0c6eb7 ●}}} [wiki:"파리 지하철 2호선" 2호선] ||  ||
+|| 생 조르주 || Saint-Georges ||  ||  ||
+|| 노트르담 드 로레트 || Notre-Dame-de-Lorette ||  ||  ||
+|| 트리니테 – 데스티엔느 도르베 || Trinité - d'Estienne d'Orves ||  ||  ||
+|| [wiki:"파리 생 라자르역" 생 라자르] || Saint-Lazare || {{{#9b993a ●}}} [wiki:"파리 지하철 3호선" 3호선] [[br]] {{{#cec82b ●}}} [wiki:"파리 지하철 9호선" 9호선] [[br]] {{{#89d3de ●}}} [wiki:"파리 지하철 13호선" 13호선] [[br]] {{{#672f8f ●}}} [wiki:"파리 지하철 14호선" 14호선] [[br]] {{{#c760ad Ⓔ}}} [[RER E선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] [[br]] {{{#797fbc Ⓛ}}} [[트랑지리엥 L선]] [[br]] [TER] 오트-노르망디 ||  ||
+|| 마들렌 || Madeleine ||  {{{#c5a3cc ●}}} [wiki:"파리 지하철 8호선" 8호선] [[br]] {{{#672f8f ●}}} [wiki:"파리 지하철 14호선" 14호선] ||  ||
+|| 콩코드 || Concorde || {{{#ffcd09 ●}}} [wiki:"파리 지하철 1호선" 1호선] [[br]] {{{#c5a3cc ●}}} [wiki:"파리 지하철 8호선" 8호선] ||  ||
+|| 아상블레 나시오날(국회) || Assemblée Nationale ||  ||  ||
+|| 솔페리노(오르세 미술관) || Solférino(Musée d'Orsay) || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 뤼 뒤 바크 || Rue du Bac ||  ||  ||
+|| 세브르 - 바빌론 || Sèvres - Babylone || {{{#e0b03a ●}}} [wiki:"파리 지하철 10호선" 10호선] ||  ||
+|| 렌느 || Rennes ||  ||  ||
+|| 노트르담 데 샹 || Notre-Dame-des-Champs ||  ||  ||
+|| [wiki:"파리 몽파르나스역" 몽파르나스 - 비앵브뉘] || Montparnasse - Bienvenüe || {{{#bb4b9c ●}}} [wiki:"파리 지하철 4호선" 4호선] [[br]] {{{#78c696 ●}}} [wiki:"파리 지하철 6호선" 6호선] [[br]] {{{#89d3de ●}}} [wiki:"파리 지하철 13호선" 13호선] [[br]] {{{#32b0b0 Ⓝ}}} [[트랑지리엥 N선]] [[br]] [TER] 상트르 [[br]] [TER] 바스-노르망디 ||  ||
+|| 팔기에르 || Falguière ||  ||  ||
+|| 파스퇴르 || Pasteur || {{{#78c696 ●}}} [wiki:"파리 지하철 6호선" 6호선] ||  ||
+|| 볼롱테르 || Volontaires ||  ||  ||
+|| 보지라르 || Vaugirard ||  ||  ||
+|| 콩벵시옹 || Convention ||  ||  ||
+|| 포르트 드 베르사유(파리 전시관) || Porte de Versailles(Parc des Expositions de Paris) || {{{#bb4b9c ②}}} [[파리 트램 2호선]] [[br]] {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+|| 코랑텡 셀통 || Corentin Celton ||  ||  ||
+|| 매리 디시 || Mairie d'Issy ||  ||  ||
+
+
+[[각주]]

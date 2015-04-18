@@ -1,0 +1,396 @@
+'''ユニバーヒルズproject'''
+
+[[목차]]
+
+== 개요 ==
+2014년 11월 17일부터 시작된 [[Dance Dance Revolution(2014)]]의 첫 단독 해금 이벤트.[* 2013년 버전은 해금 이벤트가 없었다.] 플레이어 개인 단위로 플레이하는 이벤트이다.
+
+[http://p.eagate.573.jp/game/ddr/ac/p/event/hills_report.html 사이트]에서 현재 인구 수 상황과 마지막으로 플레이한 대상곡 세트를 볼 수 있다.
+
+== 스토리 ==
+본격 춤바람난 딸내미 갱생 프로젝트.
+번역은 링크 참조.
+[http://m.dcinside.com/view.php?id=rhythmgame&no=5725204&page=1&serVal=%EC%9C%A0%EB%8B%88%EB%B2%84%20%ED%9E%90%EC%A6%88&s_type=all&ser_pos= #]
+
+== 진행 방법 ==
+하루 단위로 플레이해야 하는 과제곡이 등장하게 되고[* [[beatmania IIDX]]의 오늘의 추천곡과 유사하다.], 이 과제곡 세곡을 난이도 관계없이 전부 플레이 시[* 도중 폭사해도 플레이한 것으로 간주하여 CLEAR 마크가 붙는다.] 유니버 힐즈[* DDR의 캐릭터 '유니 버스'의 이름을 따옴] 아파트에 사람들이 늘어나게 된다. 이 아파트에 입주한 사람이 규정 수에 도달 할 시 곡이 해금되는 방식이다. 
+
+한번 달성한 과제곡은 다시 플레이 해도 아파트 입주민이 늘어나지 않는다. 즉 과제곡 세곡을 하루 한번만 플레이하면 되는 방식이다.
+
+그날 과제곡을 플레이하지 못할 경우에 대한 구제 장치가 있는데, 월~수요일에는 프리미엄 플레이를 하거나, 목~일요일 사이에 2인 VERSUS 플레이, 혹은 금~일요일에 플레이 시 하지 못한 과제곡 모음을 플레이할 수 있게 되어 있다. 다만 과제곡이 나온 당일날 플레이하면 받을수 있는 "당일 보너스"를 얻지 못하는 데다, 당일 보너스가 해금 동선에 포함되어있기 때문에 해금 속도가 상대적으로 뒤처질 수 밖에 없게 된다.
+
+과제곡에 프리미엄 플레이를 통해 해금해야 하는 [[EXTRA ATTACK]] 곡이 있을 경우, 해당 플레이 한정으로 곡을 해금하지 않고도 플레이할 수 있게 된다.
+
+매일 꾸준히 플레이하는 것을 가정시, 월요일에 신곡의 베이직 난이도가 해금, 수요일에 디피컬트, 금요일에 익스퍼트가 해금된다. 이 때문에 한곡을 온전히 해금하는데 일주일이 걸린다는 사실 때문에 적잖은 유저가 이러한 해금방식을 비난하고 있다.
+
+100만명을 넘으면 최종 해금곡인 エンドルフィン이 등장하게 된다. 그리고 [[Starlight Fantasia|Starlight Fantasia(Endorphins Mix)]]를 [[EXTRA ATTACK]]으로 해금할 수 있다. 이후로도 과제곡을 플레이하면 인구수는 늘어나지만, 추가로 해금되는 것은 없다.
+
+== 과제곡 일람 ==
+=== 2014년 11월 ===
+|| 목록 || 곡명 || 버전 ||
+||<|3>  No.1 [[BR]] (2014/11/17) || [[Din Don Dan]] || 2014 ||
+|| DROP THE BOMB || 3rdMIX ||
+|| [[Resurrection(비마니 시리즈)|Resurrection]] || X3 vs 2ndMIX ||
+||<|3>  No.2 [[BR]] (2014/11/18) || You gotta move it(feat.Julie Rugaard) || SuperNOVA ||
+|| Until the End || X3 vs 2ndMIX ||
+|| [[New Generation]] || 2013 ||
+||<|3>  No.3 [[BR]] (2014/11/19) || IN THE ZONE || X3 vs 2ndMIX ||
+|| volcano || SuperNOVA2 ||
+|| [[e-motion]] || 2ndMIX ||
+||<|3>  No.4 [[BR]] (2014/11/20) || rain of sorrow || DDRMAX2 ||
+|| [[Healing Vision]] || 5thMIX ||
+|| Inspiration || X ||
+||<|3>  No.5 [[BR]] (2014/11/21) || [[♥Love²シュガ→♥]] || EXTREME ||
+|| [[LOVE♡SHINE|LOVE♥SHINE]] || EXTREME ||
+|| [[She is my wife]] || X2 ||
+||<|3>  No.6 [[BR]] (2014/11/24) || [[ヤマトなでなで♡かぐや姫]] || 2014 ||
+|| Let the beat hit em!(CLASSIC R&B STYLE) || DDRMAX ||
+|| BALLAD THE FEATHER || X2 ||
+||<|3>  No.7 [[BR]] (2014/11/25) || [[アルストロメリア]](walk with you remix) || X3 vs 2ndMIX ||
+|| PUT YOUR FAITH IN ME ~SATURDAY NIGHT MIX~ || SuperNOVA ||
+|| ORION.78(AMeuro-MIX) || 4thMIX ||
+||<|3>  No.8 [[BR]] (2014/11/26) || [[KISS KISS KISS]] 秋葉工房 MIX || X2 ||
+|| [[虹色]] || SuperNOVA ||
+|| [[大見解]] || EXTREME ||
+||<|3>  No.9 [[BR]] (2014/11/27) || [[CURUS]] || SuperNOVA ||
+|| i feel ... || DDRMAX2 ||
+|| DROP THE BOMB(SyS.F. Mix) || EXTREME ||
+||<|3>  No.10 [[BR]] (2014/11/28) || Seasons || X3 vs 2ndMIX ||
+|| [[TRIP MACHINE 시리즈|TRIP MACHINE ～luv mix～]] || 3rdMIX ||
+|| Bad Routine || SuperNOVA ||
+
+=== 2014년 12월 ===
+|| 목록 || 곡명 || 버전 ||
+||<|3>  No.11 [[BR]] (2014/12/01) || Elysium || 2014 || 
+|| Baile Le Samba || SuperNOVA || 
+|| [[めうめうぺったんたん！！]] || 2013 ||
+||<|3>  No.12 [[BR]] (2014/12/02) || [[Mermaid girl]] || X3 vs 2ndMix || 
+|| [[You]] || DDR2013 || 
+|| INSERTiON || 5thMIX ||
+||<|3>  No.13 [[BR]] (2014/12/03) || [[Fever]] || X3 vs 2ndMix || 
+|| [[GIRIGILI門前雀羅]] || SuperNOVA2 || 
+|| [[不沈艦CANDY]] || X2 ||
+||<|3>  No.14 [[BR]] (2014/12/04) || Dummy || X2 || 
+|| [[Destiny lovers]] || EXTREME || 
+|| [[Monkey Business]] || DDR2013 ||
+||<|3>  No.15 [[BR]] (2014/12/05) || INNOCENCE OF SILENCE || SuperNOVA || 
+|| [[PARANOiA 시리즈|PARANOia (kskst mix)]] || X3 vs 2ndMix || 
+|| [[heron]] || DDR2013 ||
+||<|3>  No.16 [[BR]] (2014/12/08) || ちゅ～いん☆バニー || 2014 || 
+|| [[三毛猫ロック]] || EXTREME ||
+|| Under the Sky || SuperNOVA ||
+||<|3>  No.17 [[BR]] (2014/12/09) || Qipchãq || 2013 ||
+|| [[AA(비마니 시리즈)|AA]] || SuperNOVA ||
+|| Seule || X3 ||
+||<|3>  No.18 [[BR]] (2014/12/10) || on the bounce || X ||
+|| [[THIS NIGHT]] || X2 ||
+|| I Need You || EXTREME ||
+||<|3>  No.19 [[BR]] (2014/12/11) || [[BRILLIANT 2U]] (Orchestra Groove) || 2nd ||
+|| A Stupid Barber || SuperNOVA ||
+|| [[.59]] || 4th ||
+||<|3>  No.20 [[BR]] (2014/12/12) || MAKE IT BETTER (So-REAL Mix) || 2nd ||
+|| Party Lights || X ||
+|| [[ちくわパフェだよ☆CKP]] || 2013 ||
+||<|3>  No.21 [[BR]] (2014/12/15) || [[esrev:eR]] || 2014 ||
+|| [[TRIP MACHINE PhoeniX]] || SuperNOVA2 ||
+|| Sweet Sweet ♥ Magic || DDRMAX2 ||
+||<|3>  No.22 [[BR]] (2014/12/16) || dream of love || SuperNOVA2 ||
+|| [[Heaven is a '57 metallic gray]] ～gimmix～ || EXTREME ||
+|| LOVE THIS FEELIN' || 3rd ||
+||<|3>  No.23 [[BR]] (2014/12/17) || [[SigSig]] || X3 ||
+|| [[FIRE FIRE]] || X2 ||
+|| dirty digital || X2 ||
+||<|3>  No.24 [[BR]] (2014/12/18) || [[BRE∀K DOWN!]] || MAX2 ||
+|| Private Eye || X3 ||
+|| [[Colors]] ～for EXTREME～ || EXTREME ||
+||<|3>  No.25 [[BR]] (2014/12/19) || [[Decade#s-2|Decade]] || X2 ||
+|| KEEP ON MOVIN' (DMX MIX) || SuperNOVA ||
+|| [[TSUGARU]] || MAX2 ||
+||<|3>  No.26 [[BR]] (2014/12/22) || [[IMANOGUILTS]] || 2014 ||
+|| [[STARS☆☆☆|STARS☆☆☆ (Re-tuned by HΛL) - DDR EDITION -]] || SuperNOVA2 ||
+|| DROP || X2 ||
+||<|3>  No.27 [[BR]] (2014/12/23) || Let's Get Away || X3 ||
+|| Back In Your Arms || 2013 ||
+|| stealth || SuperNOVA2 ||
+||<|3>  No.28 [[BR]] (2014/12/24) || [[Xepher]] || SuperNOVA ||
+|| Malacca || X ||
+|| [[사일런트 힐|Silent Hill]] || 3rdMix ||
+||<|3>  No.29 [[BR]] (2014/12/25) || [[Air Heroes]] || 2013 ||
+|| 1998 || EXTREME ||
+|| aftershock!! || X2 ||
+||<|3>  No.30 [[BR]] (2014/12/26) || MAGIC PARADE || X3 ||
+|| Take A Step Forward || X3 ||
+|| Flow || SuperNOVA ||
+||<|3>  No.31 [[BR]] (2014/12/29) || [[SABER WING|SABER WING (satellite silhouette remix)]] || 2014 ||
+|| [[REVOLUTIONARY ADDICT]] || X3 ||
+|| [[will]] || X ||
+||<|3>  No.32 [[BR]] (2014/12/30) || Find The Way  || 2013 ||
+|| [[ZETA ～素数の世界と超越者～]] || X2 ||
+|| A Geisha's Dream || X ||
+||<|3>  No.33 [[BR]] (2014/12/31) || S・A・G・A || X ||
+|| [[rainbow rainbow]] || SuperNOVA ||
+|| [[凛として咲く花の如く ~ひなビタ♪edition~]] || 2013 ||
+||<|3>  No.34 [[BR]] (2015/01/01) || Shine || X2 ||
+|| [[LOVE IS ORANGE]] || SuperNOVA ||
+|| jane jana || EXTREME ||
+||<|3>  No.35 [[BR]] (2015/01/02) || TIME || X3 ||
+|| [[GOLD RUSH]] || X2 ||
+|| [[B4U]] || 4thMIX ||
+
+=== 2015년 1월 ===
+|| 목록 || 곡명 || 버전 ||
+||<|3>  No.36 [[BR]] (2015/01/05) || SUPER HERO || 2014 ||
+|| A Brighter Day || X2 ||
+|| Wings of an Angel (Fly With Me) || X3 ||
+||<|3>  No.37 [[BR]] (2015/01/06) || [[CAN'T STOP FALLIN' IN LOVE]] || 4thMIX ||
+|| SO IN LOVE || EXTREME ||
+|| Taking It To The Sky || X2 ||
+||<|3>  No.38 [[BR]] (2015/01/07) || Dance Celebration (System 7 Remix) || X ||
+|| Everything I Need || 2013 ||
+|| [[KISS KISS KISS]] || EXTREME ||
+||<|3>  No.39 [[BR]] (2015/01/08) || Get Back Up! || X3 ||
+|| [[革命]] || MAX2 ||
+|| Fly away -mix del matador- || SuperNOVA2 ||
+||<|3>  No.40 [[BR]] (2015/01/09) || [[Dragon Blade]] || SuperNOVA ||
+|| Freeze || X2 ||
+|| Why not || SuperNOVA2 ||
+||<|3>  No.41 [[BR]] (2015/01/12) || Party Lights (Tommie Sunshine’s Brooklyn Fire Remix) || 2014 ||
+|| MOONSTER || SuperNOVA2 ||
+|| [[321 STARS|321STARS]] || EXTREME ||
+||<|3>  No.42 [[BR]] (2015/01/13) || UNBELIEVABLE(Sparky remix) || X3 ||
+|| [[GENOM SCREAMS]] || 2nd ||
+|| On The Break || X ||
+||<|3>  No.43 [[BR]] (2015/01/14) || [[ABSOLUTE]] || 5th ||
+|| [[Another Phase]] || 2013 ||
+|| [[カゲロウ]] || SuperNOVA ||
+||<|3>  No.44 [[BR]] (2015/01/15) || [[Kiss me all night long]] || EXTREME ||
+|| Dance Floor || X ||
+|| Feelings Won't Fade(Extend Trance Mix) || SuperNOVA2 ||
+||<|3>  No.45 [[BR]] (2015/01/16) || MARS WAR 3 || SuperNOVA2 ||
+|| [[printemps(비마니 시리즈)|printemps]] || 2013 ||
+|| la libertad || X2 ||
+||<|3>  No.46 [[BR]] (2015/01/19) || [[Habibe (Antuh muhleke)]] || 2014 ||
+|| Saturday Night Love || SuperNOVA ||
+|| La Señorita Virtual || 3rd ||
+||<|3>  No.47 [[BR]] (2015/01/20) || [[PARANOiA 시리즈|PARANOiA Rebirth]] || 3rd ||
+|| L'amour et la liberté(DDR Ver.) || EXTREME ||
+|| Waiting 4 u || X ||
+||<|3>  No.48 [[BR]] (2015/01/21) || [[Dance Dance Revolution]] || EXTREME ||
+|| Ticket to Bombay || X ||
+|| [[PARANOiA 시리즈|PARANOiA]] || 1st ||
+||<|3>  No.49 [[BR]] (2015/01/22) || [[Go For The Top]] || X3 ||
+|| The flower in your smile || X ||
+|| Try 2 Luv. U || SuperNOVA ||
+||<|3>  No.50 [[BR]] (2015/01/23) || [[Programmed 시리즈|Programmed Universe]] || X3 ||
+|| {{{Beautiful Inside (Cube::Hard Mix)}}} || X ||
+|| Can Be Real || SuperNOVA ||
+||<|3>  No.51 [[BR]] (2015/01/26) || [[灼熱Beach Side Bunny]] || 2014 ||
+|| Forever Sunshine || SuperNOVA ||
+|| [[雫]] || 3rd ||
+||<|3>  No.52 [[BR]] (2015/01/27) || heron || 2013 ||
+|| [[ラキラキ]] || 2013 ||
+|| [[マインド・ゲーム]] || 2014 ||
+||<|3>  No.53 [[BR]] (2015/01/28) || [[VANESSA]] || X2 ||
+|| TimeHollow || X ||
+|| Poseidon(kors k mix) || X2 ||
+||<|3>  No.54 [[BR]] (2015/01/29) || Taj He Spitz (Tommie Sunshine's Brooklyn Fire Re-Touch) || X ||
+|| [[☆shining☆]] || X2 ||
+|| [[Frozen Ray]] ～for EXTREME～ || EXTREME ||
+||<|3>  No.55 [[BR]] (2015/01/30) || You are a Star || X2 ||
+|| Slip Out (bounce in beat mix) || X ||
+|| [[CENTAUR]] || SuperNOVA ||
+
+=== 2015년 2월 ===
+|| 목록 || 곡명 || 버전 ||
+||<|3>  No.56 [[BR]] (2015/02/02) || [[阿波おどり -Awaodori-|阿波おどり -Awaodori- やっぱり踊りはやめられない]] || 2014 ||
+|| DoLL || SuperNOVA ||
+|| [[Blue Rain]] || X ||
+||<|3>  No.57 [[BR]] (2015/02/03) || TIERRA BUENA || SuperNOVA ||
+|| [[Tribe]] || X3 ||
+|| oarfish || X2 ||
+||<|3>  No.58 [[BR]] (2015/02/04) || [[恋閃繚乱]] || X3 ||
+|| iFUTURELIST (DDR VERSION) || SuperNOVA ||
+|| HYPER EUROBEAT || EXTREME ||
+||<|3>  No.59 [[BR]] (2015/02/05) || [[Uranus]] || SuperNOVA2 ||
+|| WILD RUSH || 4th ||
+|| New Beginning || X3 ||
+||<|3>  No.60 [[BR]] (2015/02/06) || [[Freedom]] || SuperNOVA ||
+|| [[nightbird lost wing]] || 2013 ||
+|| [[Arrabbiata]] || SuperNOVA2 ||
+||<|3>  No.61 [[BR]] (2015/02/09) || [[SPECIAL SUMMER CAMPAIGN!]] || 2014 ||
+|| GOLD RUSH || X2 ||
+|| NEPHILIM DELTA || X3 ||
+||<|3>  No.62 [[BR]] (2015/02/10) || think ya better D || 3rd ||
+|| HIGHER || 4th ||
+|| [[Sacred Oath]] || X2 ||
+||<|3>  No.63 [[BR]] (2015/02/11) || [[I/O]] || X3 ||
+|| [[Wow Wow VENUS]] || 2013 ||
+|| going up || X2 ||
+||<|3>  No.64 [[BR]] (2015/02/12) || Silver Platform - I wanna get your heart - || SuperNOVA2 ||
+|| Vem brincar || SuperNOVA2 ||
+|| [[Pluto]] || SuperNOVA2 ||
+||<|3>  No.65 [[BR]] (2015/02/13) || [[KIMONO♥PRINCESS]] || X2 ||
+|| [[A(비마니 시리즈)|A]] || EXTREME ||
+|| [[CANDY☆]] || MAX ||
+||<|3>  No.66 [[BR]] (2015/02/16) || [[starmine]] || 2014 ||
+|| Funk Boogie || SuperNOVA ||
+|| BURNING HEAT!(3 Option MIX) || MAX2 ||
+||<|3>  No.67 [[BR]] (2015/02/17) || Ah La La La || 2013 ||
+|| Take A Chance || X ||
+|| [[Healing Vision|Healing Vision ～Angelic mix～]] || MAX ||
+||<|3>  No.68 [[BR]] (2015/02/18) || [[sakura storm]] || X2 ||
+|| [[ビューティフル レシート]] || X3 ||
+|| Scorching Moon || X2 ||
+||<|3>  No.69 [[BR]] (2015/02/19) || In The Air || X3 ||
+|| Jam & Marmalade || SuperNOVA ||
+|| [[Freeway Shuffle]] || SuperNOVA2 ||
+||<|3>  No.70 [[BR]] (2015/02/20) || [[TWINKLE♡HEART]] || X3 ||
+|| LOVE AGAIN TONIGHT～For Melissa MIX～ || 4th ||
+|| [[Bloody Tears(IIDX EDITION)]] || SuperNOVA2 ||
+||<|3>  No.71 [[BR]] (2015/02/23) || Din Don Dan || 2014 ||
+|| 恋閃繚乱 || X3 ||
+|| [[お米の美味しい炊き方|お米の美味しい炊き方、そしてお米を食べることによるその効果。]] || 2013 ||
+||<|3>  No.72 [[BR]] (2015/02/24) || [[PUT YOUR FAITH IN ME]] || 2nd ||
+|| Children of the Beat || 2013 ||
+|| BROKEN MY HEART || 5th ||
+||<|3>  No.73 [[BR]] (2015/02/25) || TEARS || EXTREME ||
+|| Hoping To Be Good || 2013 ||
+|| Music In The Rhythm || SuperNOVA2 ||
+||<|3>  No.74 [[BR]] (2015/02/26) || Shades of Grey || SuperNOVA2 ||
+|| [[天上の星～黎明記～]] || X3 ||
+|| [[TRIP MACHINE 시리즈|TRIP MACHINE survivor]] || EXTREME ||
+||<|3>  No.75 [[BR]] (2015/02/27) || 繚乱ヒットチャート || X3 ||
+|| [[THE SHINING POLARIS]] || SuperNOVA ||
+|| [[Abyss]] || 5th ||
+
+=== 2015년 3월 ===
+|| 목록 || 곡명 || 버전 ||
+||<|3>  No.76 [[BR]] (2015/03/02) || ヤマトなでなで♡かぐや姫 || 2014 ||
+|| [[Übertreffen]] || X ||
+|| [[LOGICAL DASH]] || SuperNOVA ||
+||<|3>  No.77 [[BR]] (2015/03/03) || [[Venus]] || SuperNOVA2 ||
+|| [[華爛漫 -Flowers-]] || SuperNOVA ||
+|| WH1TE RO5E || X2 ||
+||<|3>  No.78 [[BR]] (2015/03/04) || [[Blind Justice 〜Torn souls, Hurt Faiths〜]] || SuperNOVA2 ||
+|| Fly away || SuperNOVA ||
+|| Find The Way || 2013 ||
+||<|3>  No.79 [[BR]] (2015/03/05) || Flourish || X ||
+|| [[STARS☆☆☆|STARS☆☆☆(2nd NAOKI's style)]] || SuperNOVA ||
+|| ORION.78～civilization mix～ || MAX ||
+||<|3>  No.80 [[BR]] (2015/03/06) || [[CANDY☆|CANDY♡]] || MAX2 ||
+|| [[Gamelan de Couple]] || EXTREME ||
+|| INSIDE YOUR HEART || SuperNOVA ||
+||<|3>  No.81 [[BR]] (2015/03/09) || Elysium || 2014 ||
+|| [[AFRONOVA|AFRONOVA PRIMEVAL]] || 5th ||
+|| LA BAMBA || EXTREME ||
+||<|3>  No.82 [[BR]] (2015/03/10) || Playa (Original Mix) || X ||
+|| What Will Come of Me || X2 ||
+|| A thing called LOVE || SuperNOVA2 ||
+||<|3>  No.83 [[BR]] (2015/03/11) || [[INTO YOUR HEART (Ruffage remix)]] || X ||
+|| [[PARANOiA 시리즈|PARANOiA KCET ～clean mix～]] || 2nd ||
+|| [[BRILLIANT 2U|BRILLIANT 2U (AKBK MIX)]] || X3 ||
+||<|3>  No.84 [[BR]] (2015/03/12) || ちくわパフェだよ☆CKP || DDR2013 ||
+|| めうめうぺったんたん!! || DDR2013 ||
+|| 凛として咲く花の如く ～ひなビタ♪ edition～ || DDR2013 ||
+||<|3>  No.85 [[BR]] (2015/03/13) || [[Spanish Snowy Dance]] || DDR2013 ||
+|| air || EXTREME ||
+|| Horatio || X ||
+||<|3>  No.86 [[BR]] (2015/03/16) || ちゅ～いん☆バニー || 2014 ||
+|| [[AFRONOVA]] || 3rd ||
+|| [[Cosmic Hurricane]] || X3 ||
+||<|3>  No.87 [[BR]] (2015/03/17) || [[No.13]] || SuperNOVA ||
+|| [[Holic]] || 4th ||
+|| Crazy Control || X2 ||
+||<|3>  No.88 [[BR]] (2015/03/18) || [[FLOWER]] || X3 ||
+|| All My Love || X2 ||
+|| PASSION OF LOVE || SuperNOVA ||
+||<|3>  No.89 [[BR]] (2015/03/19) || [[PARANOiA 시리즈|PARANOiA ETERNAL]] || 5th ||
+|| [[snow prism]] || X3 ||
+|| TOMORROW || SuperNOVA ||
+||<|3>  No.90 [[BR]] (2015/03/20) || La receta || X2 ||
+|| Taj He Spitz || X ||
+|| [[message]] || X3 ||
+||<|3>  No.91 [[BR]] (2015/03/23) || esrev:eR || 2014 ||
+|| Tracers (4Beat Remix) || X ||
+|| REBORN MAGIC || X3 ||
+||<|3>  No.92 [[BR]] (2015/03/24) || ECSTASY || 5th ||
+|| Don't Stop!～AMD 2nd MIX～ || 4th ||
+|| Electro Tuned ( the SubS Mix ) || 5th ||
+||<|3>  No.93 [[BR]] (2015/03/25) || [[Chronos]] || X3 ||
+|| [[Romancing Layer]] || 2014 ||
+|| [[POSSESSION]] || X2 ||
+||<|3>  No.94 [[BR]] (2015/03/26) || Your Angel || X2 ||
+|| Dream Machine || X ||
+|| [[Miracle Moon|Miracle Moon ～L.E.D.LIGHT STYLE MIX～]] || EXTREME ||
+||<|3>  No.95 [[BR]] (2015/03/27) || Pierce The Sky || X2 ||
+|| [[Saturn]] || SuperNOVA2 ||
+|| GORGEOUS 2012 || SuperNOVA ||
+||<|3>  No.96 [[BR]] (2015/03/30) || IMANOGUILTS || 2014 ||
+|| LOVING YOU (Epidemik remix) || X ||
+|| D2R || MAX2 ||
+||<|3>  No.97 [[BR]] (2015/03/31) || Something Special || X3 ||
+|| [[GRADIUSIC CYBER|GRADIUSIC CYBER ～AMD G5 MIX～]] || 3rd ||
+|| [[PUT YOUR FAITH IN ME|PUT YOUR FAITH IN ME (DA's Twinkly Disco Remix)]] || X3 ||
+||<|3>  No.98 [[BR]] (2015/04/01) || CELEBRATE NITE || 4th ||
+|| [[Theory of Eternity]] || X2 ||
+|| L'amour et la liberté(Darwin & DJ Silver remix) || SuperNOVA2 ||
+||<|3>  No.99 [[BR]] (2015/04/02) || [[HEART BEAT FORMULA]] || X3 ||
+|| [[south]] || 2013 ||
+|| [[零 -ZERO-]] || X ||
+||<|3>  No.100 [[BR]] (2015/04/03) || [[TRIP MACHINE 시리즈|TRIP MACHINE]] || 1st ||
+|| The Heavens Above || X3 ||
+|| [[サナ・モレッテ・ネ・エンテ]] || 5th ||
+
+=== 2015년 4월 ===
+||<|3>  No.101 [[BR]] (2015/04/06) || [[SABER WING|SABER WING (satellite silhouette remix)]] || 2014 ||
+|| [[TRIP MACHINE 시리즈|SP-TRIP MACHINE～JUNGLE MIX～]] || 2nd ||
+|| [[冥]] || X2 ||
+||<|3>  No.102 [[BR]] (2015/04/07) || dazzle  || X ||
+|| [[ever snow]] || X3 ||
+|| [[CAN'T STOP FALLIN' IN LOVE|CAN'T STOP FALLIN' IN LOVE ～SPEED MIX～]] || 5th ||
+||<|3>  No.103 [[BR]] (2015/04/08) || [[Second Heaven]] || X2 ||
+|| [[murmur twins]] || SuperNOVA ||
+|| [[PARANOiA 시리즈|PARANOIA EVOLUTION]] || 4th ||
+||<|3>  No.104 [[BR]] (2015/04/09) || Electrified || SuperNOVA2 ||
+|| Lift You Up || X ||
+|| [[SEXY PLANET]] || 4th ||
+||<|3>  No.105 [[BR]] (2015/04/10) || [[Condor]] || 2013 ||
+|| [[隅田川夏恋歌]] || X3 ||
+|| SUPER SAMURAI || X ||
+
+=== 특이사항 ===
+ * 월요일의 첫곡은 [[EXTRA ATTACK]]의 곡이 등장한다.
+ * 11월 17일~21일의 과제곡의 [[세로반전|앞글자만 나열하면]] DDR YUNIVERHILLS가 된다
+ * 12월 17일의 선곡은 [[kors k]]의 생일이라 세곡 전부 kors k의 곡이 선정되었다.
+ * 12월 24일의 과제곡은 앞글자만 나열하면(Malacca는 두글자) [[성탄절|XMaS]]가 된다.
+ * 1월 1일의 선곡은 [[TOMOSUKE]]의 생일이라 세곡 전부 TOMOSUKE의 곡이 선정되었다. ~~[[유비트 시리즈]]에서는 [[Evans]], [[I'm so Happy]], [[We're so Happy]]로 챙겨주지 못한 걸 여기서 챙겨주는 센스~~
+ * 1월 27일의 선곡은 [[숏쵸]]의 생일이라 세곡 전부 숏쵸의 곡이 선정되었다. 숏초의 곡이 많이 없다보니 이날 최초로 대형 연동 이벤트 곡이 최초로 들어갔다.
+ * 2월 9일의 선곡은 [[DJ YOSHITAKA]]와 [[L.E.D.]]의 생일이라, 각자의 곡을 한곡씩 선정하였다. 남은 한곡은 엑스트라 어택 대상곡인데, 이것도 [[DJ YOSHITAKA]]의 곡이다.
+ * 2월 13일 과제곡의 앞글자만 나열하면 KAC, 즉 그 다음날 있는 [[코나미 아케이드 챔피언쉽/The 4th|The 4th 코나미 아케이드 챔피언쉽]]이 된다.
+ * 2월 23일은 [[96]]의 생일이라서 두 곡은 96이 작곡한 곡, 월요일 첫 곡은 96과 상관없는 Din Don Dan이 선정되었다.
+ * 3월 12일은 [[히나비타♪|히나타비 비타 스위츠♪&코코나츠 페스티벌!]] 이벤트로 히나비타♪의 곡 3곡이 선정되었다.
+ * 3월 25일은 TAG의 생일이라서, TAG의 곡 3곡이 선정되었다.
+
+ * 2회 이상 선정곡(EXTRA ATTACK 곡 제외) : heron, GOLD RUSH, 恋閃繚乱, ちくわパフェだよ☆CKP, めうめうぺったんたん!!, 凛として咲く花の如く～ひなビタ♪edition～
+ * 2회 이상 선정곡(EXTRA ATTACK 곡) : Din Don Dan, ヤマトなでなで♡かぐや姫, Elysium, esrev:eR, ちゅ～いん☆バニー, IMANOGUILTS, SABER WING (satellite silhouette remix)
+
+== 해금곡 ==
+|| 순서 || 아티스트 || 곡명 || 출신 || 해금난이도 || 인구수 || 최속 해금일 ||
+||<|4> 1 ||<|4> [[TOMOSUKE]][[BR]]feat. Adreana ||<|4> Dreamin' ||<|4> DDR フルフル♪パーティー || BEGINNER [[BR]] BASIC || 30 || 2014/11/17 ||
+|| DIFFICULT || 100 || 2014/11/19 ||
+|| EXPERT || 200 || 2014/11/21 ||
+|| CHALLENGE || 32500 || 2014/12/23 ||
+||<|4> 2 ||<|4> [[DJ YOSHITAKA|DJ Yoshitaka]][[BR]]feat. Robert “RAab” Stevenson ||<|4> The Lonely Streets ||<|4> DDR フルフル♪パーティー || BEGINNER [[BR]] BASIC || 260 || 2014/11/24 ||
+|| DIFFICULT || 400 || 2014/11/26 ||
+|| EXPERT || 600 || 2014/11/28 ||
+|| CHALLENGE || 55000 || 2014/12/24 ||
+||<|4> 3 ||<|4> [[Des-ROW|D-crew]][[BR]]with Melissa Petty ||<|4> One Sided Love ||<|4> DDR(PS3) || BEGINNER [[BR]] BASIC || 735 || 2014/12/01 ||
+|| DIFFICULT || 1050 || 2014/12/03 ||
+|| EXPERT || 1500 || 2014/12/05 ||
+|| CHALLENGE || 77500 || 2014/12/25 ||
+||<|4> 4 ||<|4> DKC Crew ||<|4> Dance Partay ||<|4> DDR II(Wii) || BEGINNER [[BR]] BASIC || 1845 || 2014/12/08 ||
+|| DIFFICULT || 2650 || 2014/12/10 ||
+|| EXPERT || 3800 || 2014/12/12 ||
+|| CHALLENGE || 100000 || 2014/12/26 ||
+|| 5 || [[TAG]] || [[Starlight Fantasia]] || '''완전 신곡''' || BEGINNER [[BR]] BASIC [[BR]] DIFFICULT [[BR]] EXPERT || 10000 || 2014/12/19 ||
+|| 6 || [[U1-ASAMi|U1 overground]] || エンドルフィン || '''완전 신곡''' || BEGINNER [[BR]] BASIC [[BR]] DIFFICULT [[BR]] EXPERT || 1000000 || 2015/01/02 ||

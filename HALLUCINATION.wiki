@@ -1,0 +1,35 @@
+ * [[EZ2AC]]와 [[오투잼 U]]의 수록곡에 대해서는 [[Hallucination]] 항목 참조.
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/61LXudKGoVL._SL500_AA300_.jpg
+곡이 수록된 앨범 'DIO NEW SOURCE'의 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/debIdSjTo0c" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상 ~~PV에 입고 있는 의상은 왠지 [wiki:"해리 포터 시리즈" 모 소설]의 [wiki:"디멘터" 누군가]를 연상케 한다(...).~~
+
+[[일본]]의 [[밴드]]인 UZUMAKI의 노래로, 2010년 3월 10일에 발매된 9번째 앨범 'DIO NEW SOURCE'의 타이틀곡이기도 하다. [[랩]] 가사에 [[메탈]] 풍의 사운드가 곁들여진 UZUMAKI의 음악적 특색이 살아있는 곡.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>8||
+||<#5a5aff><:>노트수||<:>185||<:>499||<:>588||
+||<#5a5aff><:>BPM||||||<:>112||
+||<#5a5aff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/YTBpceXDEaM" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면 영상
+
+BPM이 느린 편이며, 첫 플레이 시 오락가락하게 들리는 박자만 잘 파악하면 특히 어려운 배치가 거의 없으므로 쉽게 점수를 뽑아낼 수 있다.
+
+[[유비트 코피어스]] 테스트 버전에는 등장하지 않아 삭제된다는 소문이 있었지만 최종적으로는 그대로 남게 되었다.

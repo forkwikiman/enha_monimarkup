@@ -1,0 +1,19 @@
+상위항목:[[Windows Virtual PC]]
+
+== 분류 ==
+Windows Virtual PC 또는 Microsoft Virtual PC 2007에서 어느 정도 구동가능한 게임을 적어야 하며 Windows Virtual PC에서 구동가능한 것은 'WVPC'라고 적고 Microsoft Virtual PC 2007에서 구동 가능한 게임은 'MSVPC2007'로 표기하고, [[Hyper-V]]에서 구동 가능한 게임은 'HV'로 표기하며, 전부 구동 가능한 게임은 'all'로 표기해야 한다.
+
+=== Windows ===
+ * '''[[뿌요뿌요]]'''(피버 이전, WVPC)[* Microsoft Virtual PC 2007에서 통합구성요소를 설치하지 않고 실행하면 되기는 되나 극심한 렉을 유발하여 제대로 된 플레이 불가.(...)하지만 BGM을 끄면 된다(...) DOS 버전은 가능. WVPC에서는 통합구성요소를 설치했으면 끄고 실행하면 된다.]
+ * '''[[환세취호전]]'''(all)[* Microsoft Virtual PC 2007에서 구동하면 Creative Labs Synthesizer 때문에 오프닝 BGM이 찰지게 들린다.]
+ * '''[DOOM]95'''(all)[* 역시나 MSVPC2007에서 구동하면 Creative Labs Synthesizer 때문에 BGM이 찰지다.]
+ * '''[니드포스피드]2'''(all)[* NFS2SEN.exe로 실행하면 된다.]
+ * '''미드타운 매드니스1, 2'''(MSVPC2007)[* 혹시 WVPC에서도 가능하면 수정바람. '''~~설마? 안될 리가(...)~~''']
+ * '''[스타크래프트]'''(WVPC)[* MSVPC2007에서는 그래픽이 깨져서 구동불가(...)]
+ * '''[환세패유기]''' (all)[* BGM때문에 버벅거리는 증상이 있다(...)]
+=== DOS ===
+ * '''Skyroads'''[* MSVPC2007에서 Windows 9x를 설치했으면 DOS모드에서 실행할수 있다. 주의할 점은 Windows 폴더에 있는 게임용 DOS모드(EMS 지원)로 실행해야 한다. 역시 내장 신시사이저 때문에 BGM이 색다르다. 혹자는 WVPC에서 Windows Me로 실행했는데 BGM이 안 나온다.(...)]
+ * '''데스랠리'''[* WVPC에서 실행하면 BGM이 나오지만 플레이가 불가능할 정도로 물결 현상이 생긴다. MSVPC에서는 위의 방법으로 실행이 가능한데 BGM이[[wiki:"ASKY" ANWY]](...)]
+ * '''니드포스피드1'''
+
+'''[[추가바람]] 및 [[수정바람]]'''

@@ -1,0 +1,63 @@
+'''오니히메(귀희)'''
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 188 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 59}}} || {{{#orange 75}}} || {{{#red 96}}} ||
+|| 기타 오픈픽 || {{{#green 64}}} || {{{#orange 77}}} || {{{#red 97}}} ||
+|| 기타 베이스 || {{{#green 39}}} || {{{#orange 63}}} || {{{#red 80}}} ||
+|| 드럼매니아 || {{{#green 50}}} || {{{#orange 81}}} || {{{#red 95}}} ||
+
+|||||||||||||| [GITADORA] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 188 ||<|2> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 6.10}}} || {{{#orange 7.20}}} || {{{#red 8.10}}} || {{{#purple 9.20}}} ||
+|| 기타 베이스 || {{{#blue 5.30}}} || {{{#orange 6.20}}} || {{{#red 7.15}}} || {{{#purple 8.45}}} ||
+|| 드럼매니아 || {{{#blue 4.95}}} || {{{#orange 5.90}}} || {{{#red 7.90}}} || {{{#purple 9.45}}} ||
+
+[[기타프릭스]] 11th MIX & [[드럼매니아]] 10th MIX의 앙코르 스테이지. 작곡은 [[아사키]].
+
+'鬼の子合唱団(귀신의 아이 합창단)'이라는 명의를 사용하고 있다. 아사키 본인의 말에 의하면 이 합창단의 구성원은 '''12명 정도의 아사키'''라고.
+
+아사키 곡 답게 가사가 굉장히 괴악한데, 가사의 내용은 장례식 전날밤에 괴이한 의식과 마지막 구절에는 '숨이 끊어지지 않는 업화는 둘도 없는 향기요. 이루어지지 않는 다면 이몸이 귀신으로 살아주겠다.' 라는 내용으로 끝을 맺는다.[* 가사와 내용과 코멘트에 대한 해석 은 [http://amgod_a.blog.me/120168781018 여길 참고] ]
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZxQ9dCjXMM8&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZxQ9dCjXMM8&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+아사키의 첫 앙코르 스테이지로, 첫 등장시에 야심차게 난이도 99를 찍었지만 누가 봐도 같은 난이도 99인 [[DAY DREAM]]과 [[The Least 100sec]]보다는 한참 모자라며 바로 아랫단계 곡인 [[子供の落書き帳]], [[Herring roe]]보다도 쉬운 난이도라서 당시 기타드럼 시리즈의 대표적인 물렙곡이었고 V3에서 95로 까이게 된다. (ADV - 81, BSC - 50) 기타프릭스 쪽도 물렙.
+
+이 때 아사키는 '원래는 더 어렵게 예정했지만 인간이 할 수 있는 곡이 아니게 되어서 그나마 인간이 할 수 있게 낮췄다' 라고 언급했다한다.
+
+하지만 99를 받을 곡이 아니라서 그렇지 이 곡도 상당한 고난이도 곡이기는 마찬가지이니 플레이할 때 절대 주의.
+
+이 때부터 앙코르 스테이지 소환 조건이 엑스트라 스테이지 전용곡[* 당시에는 [[Orbital Velocity]], [[Timepiece phase II]], [[明鏡止水]], [[MODEL DD6]]]을 퍼펙트 95% 이상으로 클리어 하는 것으로 바뀌어서 이 곡을 뽑기에는 꽤 까다로웠다. 그래서 드럼매니아 10th가 국내에 많이 풀린 뒤에도 10th에서 이 곡을 익스트림 보면으로 목격한 사람은 극소수.
+
+기타11&드럼10에 프리미엄 앙코르 스테이지가 없어서 바로 다음작인 기타드럼 V에서는 이 곡이 엑스트라 스테이지 곡으로 나온다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/P5cgQ4Iywqg?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5cgQ4Iywqg?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+XG3에서는 기존에 있던 마스터 채보[* XG2 기준 드럼 8.90, 기타 8.65, 베이스 7.35.]가 새로운 채보로 바뀌었는데 기존의 채보보다 더욱 더 어려워지게 된 데다, 심벌 3연타를 처리할 때 상당히 애를 먹기 쉽다고 한다.
+
+=== 곡 코멘트 ===
+||드럼 보면이 여러가지로, 너무헀다는 느낌을 부정하지 않습니다.
+실은, 처음 드럼 EXTREME 보면은
+일반인이 클리어 불가능하다기에 조금 간단히 한 정도의 귀신입니다.
+힘내서 즐겨 주세요.
+이미 놀이의 경지를 뛰어넘은 스피드와 파워가 필요해지네.
+
+그런데
+
+합창단의 정체를 나한테만 몰래 알려줘.
+
+라는 메일이 많이 와있으므로
+몰래 알려 줄게.
+
+12인 정도의 아사키
+
+우~와아….
+얼굴이 붉으스름해졌기에 여기서 안녕.
+
+- あさき||

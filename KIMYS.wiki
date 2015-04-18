@@ -1,0 +1,67 @@
+[[대한민국]]의 게임 그래픽 디자이너. 본명은 김양수이다. 절대 [wiki:"김영삼" 그 사람]이나 [wiki:"생활의 참견" 이 작품의 작가]가 아니다(...). 명의의 유래는 자신의 성인 KIM과 이름의 이니셜을 따온 것에서 유래했다. 가끔씩 성의 발음을 달리하여 KINYS로 표기하기도 한다.
+
+1987년부터 게임업계에서 일했다고 한다. ~~대부분의 위키러 나이보다도 많은 경력~~
+
+[[EZ2DJ]]시리즈 초창기부터 BGA에 참여하였으며 [[EZ2DJ 4thTRAX ~Over Mind~]]를 통해 본격적으로 게이머들에게 이름을 알리기 시작, [[DJMAX 시리즈]]의 비주얼 제작 담당의 한 축을 맡았다.
+
+[[3D]]그래픽을 맡고 있기 때문에 제작한 BGA는 전부 3D 동영상이거나 이를 이용한 레이어 애니메이션으로, 특유의 투박한 디자인을 잘 살려서 제작하는것이 특징. DJMAX 개발자들 중에서도 특유의 루프(동일한 장면을 여러번 돌리는 방식)BGA 제작에 최적화된 인물로, [[DJMAX Portable 2]] 한정판에 쓰여진 글을 보노라면 이분의 루프영상에 대한 관점을 알 수 있다. 여러모로 여기저기서 잘 가져다가 짜깁기도 잘 하는 편.
+
+C E를 통해 선보인 [[Landscape]]의 BGA로 한순간에 본좌급 디자이너로 등극했다. 해당 곡의 BGA는 제작기간에만 4개월이 걸렸을 정도의 초고퀄리티를 자랑하며, 리듬게임 종주국(...) [[일본]]의 게이머들 역시 해당 곡의 BGA를 보고 '''이건 반칙'''이라고 말할 정도로 능력을 보여주었던 것. --곡과의 매칭은 일단 넘어가자-- 이후 [[메카닉]] [[폭발 엔딩]] BGA를 많이 만들었다.
+
+다만 DJMAX TECHNIKA에 추가된 신곡의 BGA를 보노라면 이분이 또 루프물에 손을 댄 듯(...) 이 때문에 [[D]] 본좌론이 흥하고는 있지만, 애초에 D는 원화 담당이고, 이분은 3D 그래픽 담당인지라 단순 비교하기에는 다소 무리가 있다.
+
+[[DJMAX Portable 3]]에서는 [[ZET]] Mr.Funky Remix와 Drum Town의 BGA를 담당했다. [[Dream of Winds]]의 BGA와 연동되는 작품이라고 한다.
+DJMAX TECHNIKA 3에선 Croove의 A.D 2222의 BGA를 담당했는데 노트보다는 배경에 눈이 쏠릴 정도로 화려한 그래픽을 보여주고 있다.
+
+같은 사내의 모션그래퍼인 [[Z_B]]와의 합작품이 은근히 많은 편. 아무래도 3D BGA 전문가들인 데다 루프물에 중요한 게 모션이다 보니 여러가지로 상성이 잘 맞는 듯. 이후 [[DJMAX RAY]]의 [[RAY TEAM]]에서 그래픽 부문을 맡았다.
+
+[[BEATCRAFT CYCLON]]에도 그래픽을 제공했다. 다만 외주 작업이다.
+
+2015년부터 1인 제작으로 모바일 게임 사업을 하고있다.[http://www.hungryapp.co.kr/news/news_view.php?durl=YmNvZGU9bmV3cyZwaWQ9MTgzMDgmdXNlcj0%3D #]
+
+=== KIMYS가 BGA 작업에 참여한 곡들 ===
+ *[어뮤즈월드]
+  *[[EZ2DJ The 1st TRACKS Special Edition]](1999)
+   *[[Special K]]
+   *[[Combination]]
+  *[[EZ2DJ 2ndTRAX ~It rules once again~]](2000)
+   *[[With U Girl]]
+  *[[EZ2DJ 4thTRAX ~Over Mind~]](2002)
+   *[[Fire Storm]]
+   *[[Shout]]
+   *[[Mad Robot]]([[FE]], Necobus, AirBorn과 합작.)
+  *[[EZ2DJ Platinum]](2003)
+   *[[Panic Strike]]
+
+ *[펜타비전]
+  *[[DJMAX 온라인]](2004.8)
+   *[wiki:"A.I(DJMAX)"A.I]
+   *[[Extreme Z4]]
+   *[[1st-Sync]]
+   *[[Grid System]](ECO와 합작.)
+   *[[Phoenix Virus]](ECO, Eter와 합작.)
+  *[[DJMAX Portable 2]](2007.3)
+   *[[WhiteBlue]]
+   *[[Plastic Method]]
+   *[[Negative Nature]](Panax, Tari, Eco와 합작. KIMYS의 BGA는 맨 마지막에 존재함.)
+   *[[Rocka-a-doodle-doo]](곡 자체는 Online 때부터 수록되었으나, Portable 2 때 전용 BGA로 리뉴얼)
+  *DJMAX [[메트로 프로젝트]](2008.10)
+   *[[Landscape]]
+   *[[Access]] (이 BGA는 [[DJMAX TECHNIKA]]의 [[범용 BGA]]로 사용되고 있음)
+   *[[Area 7]]
+   *[[Cypher Gate]]
+   *[[Beat U Down]](Z_B와 합작.)
+   *[[wiki:"I Want You(DJMAX)"I want You]](모션담당, 타이틀에 명시되어있지는 않음.)
+   *[[Play the Future]](Z_B와 합작.)
+   *[[HEXAD]]
+  *[[DJMAX TECHNIKA 2]](2010.6)
+   *[[Dream of Winds]]
+   *[[Ray of Illuminati]] (D, Z_B와 합작.)
+  *[[DJMAX Portable 3]](2010.10)
+   * [wiki:"ZET" ZET Mr.Funky Remix]
+   * [[Drum Town]]
+  *[[DJMAX TECHNIKA 3]](2011.10)
+   * [[AD2222]]
+  *[[DJMAX TECHNIKA TUNE]](2012.09)
+   * [[Access]] - BGA 리 마스터링
+[[각주]]

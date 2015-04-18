@@ -1,0 +1,41 @@
+ * 이 항목은 J-POP 노래인 'rose'에 대해 설명하고 있으며, rose의 뜻인 [[장미]]나 소리내어 읽은 [[로즈]]에 대해서는 각각의 해당 항목을 참조.
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/41qqmuRk30L._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/SYtLk2GwLLs" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+[[일본]]의 [[가수]]이자 여배우인 [[츠치야 안나]](土屋 アンナ)가 2006년 6월 28일 발매한 3번째 싱글이자 그 표제곡이다. 표제곡에서 명의는 'ANNA inspi' NANA(BLACK STONES)'. 오리콘 차트 6위까지 올랐다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=30EF9084F83BE11EB66224E10033CB9032CF&outKey=V12230040a128cd7de2b24bddd75669c80b999f0a6c0632d303c94bddd75669c80b99" frameborder="no" scrolling="no"></iframe>
+}}}
+
+동명의 만화를 원작으로 한 애니메이션인 '[[wiki:"나나(만화)" NANA]]'의 첫번째 오프닝 테마곡으로도 쓰였다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>1||<:>4||<:>7||
+||<#ffffff><:>노트수||<:>154||<:>253||<:>452||
+||<#ffffff><:>BPM||||||<:>172||
+||<#ffffff><:>곡 이력||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#27a449 BSC}}}레벨 1하락, {{{#f68a1f ADV}}}레벨 1하락, {{{#e75050 EXT}}}레벨 1하락[[BR]][[유비트 코피어스]]에서 삭제[[BR]][[유비트 코피어스]]에서 2011/12/26 재수록[[BR]][[유비트 소서]]에서 출시 전 삭제[[BR]][[유비트 소서]]에서 2013/4/1 재수록[[BR]][[유비트 소서]]에서 2013/7/1 교체[[BR]][[유비트 소서]]에서 2013/12/1 재수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/GnA17HJ40EI" frameborder="0" allowfullscreen></iframe>
+}}}
+NAT 플레이어의 [[엑설런트]] 영상
+
+'''[[유비트 시리즈]] 최초의 [[낚시]]곡'''
+
+배치 자체는 까다로운 건 별로 없지만 문제는 '''[[wiki:"공명의 함정" 맨 마지막 부분]]'''. 곡이 끝난 줄 알고 넋놓고 있다가는 갑자기 튀어나온 노트에 당황해서 엑설런트나 풀콤보를 놓칠 수 있으므로 주의해야 한다.

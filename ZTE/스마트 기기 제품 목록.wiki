@@ -1,0 +1,298 @@
+ * 상위 항목 : [[ZTE]],[[ZTE/제품 목록]]
+
+[[목차]]
+
+ * 이 항목은 [[ZTE]]의 스마트 기기 제품 목록을 정리한 페이지 입니다.
+ * [[스마트폰]], [[태블릿 컴퓨터]] 등 통칭, '''스마트 디바이스''' 및 '''모바일 기기'''들은 [[리그베다 위키 기본방침#s-2.24|리그베다 위키 기본방침]]에 따라 제조사 및 이동통신사 공식 채널에서 확인이 될 때 항목 개설이 가능합니다. 꼭, 공식 채널에서 확인이 될 때 항목 생성 바랍니다.
+
+== 스마트폰 ==
+=== [[안드로이드(OS)|구글 안드로이드]] ===
+
+==== 내수용 모델 ====
+===== 중국 내수용 =====
+[[삼성전자]]나 [[LG전자]]의 본진을 한국으로 표현하듯, ZTE의 본진을 중국으로 표현하는 경우가 많다. 때문에 중국 내수용으로 출시된 기기가 글로벌 시장에 재출시되는 경우가 많다. 또한 중국 내수용은 정식 발매명 따위는 저리가라다.(...)
+===== [[차이나텔레콤]] =====
+ * [[ZTE/차이나텔레콤#s-2.1|ZTE N790]]
+ * [[ZTE/차이나텔레콤#s-2.2|ZTE N807]]
+ * [[ZTE/차이나텔레콤#s-2.3|ZTE N880G]]
+ * [[ZTE/차이나텔레콤#s-2.4|ZTE N881E]]
+ * [[ZTE/차이나텔레콤#s-2.5|ZTE N909]]
+ * [[ZTE/차이나텔레콤#s-2.6|ZTE N919]]
+ * [[ZTE 그랜드#s-2.1.6|ZTE N983]]
+ * [[ZTE/차이나텔레콤#s-2.8|ZTE N986]]
+ * [http://m.ztedevice.com.cn/product/smart_phone/c39e0a05-9b58-4f57-aee1-9ece97fd166f.html 青漾2]
+ * [http://www.ztedevice.com.cn/product/smart_phone/49e02ef8-7686-4681-b7c2-8d2e381b3631.html A880]
+ * [http://www.ztedevice.com.cn/product/smart_phone/2377f8eb-14af-4184-ba3d-ac5a56c2d701.html Q802C]
+ * [http://www.ztedevice.com.cn/product/smart_phone/7f98f88c-c0a2-423c-8e02-09f9bf0b0f77.html Q801L]
+===== [[차이나유니콤]] =====
+ * [[ZTE/차이나유니콤#s-2.1|ZTE V790]]
+ * [[ZTE Blade#s-2.6|ZTE V807]]
+ * [[ZTE/차이나유니콤#s-2.3|ZTE V818]]
+ * [[ZTE/차이나유니콤#s-2.4|ZTE V879]]
+ * [[ZTE Blade#s-2.4|ZTE V887]]
+ * [[ZTE/차이나유니콤#s-2.6|ZTE V889D]]
+ * [wiki:"ZTE 제트폰" ZTE V889F]
+ * [[Blade III#s-2.3|ZTE V889M]]
+ * [[ZTE/차이나유니콤|ZTE V889S]]
+ * [[ZTE/차이나유니콤#s-2.9|ZTE V955]]
+ * [[ZTE/차이나유니콤#s-2.10|ZTE V956]]
+ * [[ZTE ME|ZTE V967S]]
+ * [[ZTE 그랜드#s-2.1.2|ZTE V970]]
+ * [[ZTE Geek|ZTE V975]]
+ * [[그랜드 메모|ZTE V9815]]
+ * [[ZTE 그랜드#s-2.1.6|ZTE V983]]
+ * [[그랜드 에라|ZTE V985]]
+
+===== [[차이나모바일]] =====
+ * [wiki:"ZTE/차이나모바일#s-2.1" ZTE U802]
+ * [[ZTE Blade#s-2.6|ZTE U807]]
+ * [wiki:"ZTE/차이나모바일#s-2.3" ZTE U817]
+ * [wiki:"ZTE/차이나모바일#s-2.4" ZTE U819]
+ * [[ZTE Blade#s-2.4|ZTE U887]]
+ * ZTE U900
+ * ZTE U850
+ * ZTE U791
+ * [wiki:"ZTE 그랜드#s-2.1" ZTE U930]
+  * [wiki:"ZTE/차이나모바일#s-2.6.1" ZTE U930 HD]
+ * [wiki:"ZTE/차이나모바일#s-2.7" ZTE U950]
+ * [wiki:"ZTE/차이나모바일#s-2.8" ZTE U956]
+ * [wiki:"ZTE/차이나모바일#s-2.9" ZTE U960]
+  * ZTE U960S
+  * ZTE U960S2
+  * [wiki:"ZTE/차이나모바일#s-2.9.5" ZTE U960S3]
+ * ZTE U9810
+ * [wiki:"그랜드 메모" ZTE U9815][* 기기명이 P945라는 이야기도 있다.]
+ * [wiki:"그랜드 에라" ZTE U985]
+ * [wiki:"ZTE Geek"ZTE U988S]
+ * [http://service.bj.10086.cn/mobile/165119.html ZTE Q802T]
+
+==== 호주 내수용 ====
+===== [[ZTE/텔스트라|텔스트라]] =====
+호주의 경우에는, 자국과 뉴질랜드 Ip만 볼수 있도록 되어있어, 별도 우회를 거쳐야 한다.
+ * [ZTE/텔스트라|텔스트라 데이브 4G]
+ * [ZTE/텔스트라| 텔스트라 T81]
+ * [[ZTE/텔스트라|텔스트라 액티브 터치]]
+ * [wiki:"ZTE 그랜드#s-2.1" 텔스트라 이지 터치 4G]
+ * [ZTE/텔스트라|텔스트라 쿼티 터치]
+ * [ZTE/텔스트라|텔스트라 T12]
+
+===== Boost Mobile =====
+ * [http://www.zte.com.au/telstra/B790.htm Boost Tango]
+==== 한국 내수용[* AS는 삼보 TG 서비스센터와 ZTE코리아 강남 본사에서 가능하다.] ====
+ * [[ZTE 제트폰]]
+ * [[ZTE ME]]
+
+==== 미국 내수용 ====
+===== [[T-모바일]] =====
+ * [[ZTE Concord 시리즈|ZTE Concord]]
+ * [[ZTE Concord 시리즈|ZTE Concord II]]
+
+===== [[스프린트]] =====
+ * [wiki:"ZTE/스프린트#s-2" ZTE Fury] (N850)
+ * [[ZTE FLASH]] (N9500)
+ * [wiki:"ZTE/스프린트#s-4" ZTE Sprint Force] (N9100)
+ * [wiki:"ZTE 바이탈" ZTE Sprint Vital] (N9810)
+
+===== [wiki:"at%26t" AT&T] =====
+ * [wiki:"ZTE/AT%26T#s-2" ZTE AT&T Avail] (Z990)
+ * [wiki:"ZTE/AT%26T#s-3" ZTE AT&T Avail™ 2] (Z992)
+ * [wiki:"ZTE/AT%26T#s-4" ZTE AT&T Z998] (Z998)
+ * [wiki:"ZTE/AT%26T#s-5" ZTE AT&T Radiant ™]
+
+===== US Cellular =====
+ * [wiki:"ZTE/US Cellular#s-2" ZTE Director] (N850L)
+ * [wiki:"ZTE/US Cellular#s-3" ZTE Imperial] (N9101)
+ * [http://www.zteusa.com/phones/grands-pro.html ZTE Grand S Pro]
+
+===== Telcel =====
+ * [[ZTE Whiri]]
+ * ZTE Solar
+
+===== Cricket Wireless =====
+ * [wiki:"ZTE/크리켓#s-2" ZTE Score] (X500)
+ * [[ZTE Nova 4|ZTE Engage]] (V8000)
+ * [wiki:"ZTE/크리켓#s-4" ZTE Groove] (X501)
+ * [wiki:"ZTE/크리켓#s-5" ZTE Engage LT] (N8000)
+ * ZTE Engage MT
+ * ZTE Source
+ * [[그랜드 메모 시리즈|Grand X MAX]]
+
+===== [[wiki:"ZTE/Boost Mobile" Boost Mobile]] =====
+ * [wiki:"ZTE/Boost Mobile#s-2" ZTE Warp] (N860)
+ * [wiki:"ZTE/Boost Mobile#s-3" ZTE Warp Sequent] (N861)
+ * [wiki:"ZTE/Boost Mobile#s-4" ZTE Boost Force] (N9100)
+ * [http://www.zteusa.com/phones/boost-warp4g.html ZTE Warp 4G]
+ * [http://www.zteusa.com/phones/boost-max.html ZTE Boost MAX]
+===== Metro PCS =====
+ * [wiki:"ZTE/Metro PCS#s-2" ZTE Score M] (X500M)
+ * [wiki:"ZTE/Metro PCS#s-3" ZTE Anthem 4G] (N910)
+ * [wiki:"ZTE/Metro PCS#s-4" ZTE Avid 4G] (N9120)
+
+===== NET10 & Straignt Talk[* 둘 다 TracFone Wireless 산하 브랜드다.] =====
+ * NET10 전용 모델
+  * [wiki:"ZTE/TracFone#s-2" ZTE Merit] (Z900G)
+  * [wiki:"ZTE/TracFone#s-3" ZTE Illusta] (Z788G)
+  * [[ZTE Concord 시리즈|ZTE Midnight]]
+ * Net 10 & Straignt Talk 동시 공급
+  * [[ZTE/TracFone#s-4|ZTE Majesty]] (Z796C)
+  * [[ZTE/TracFone#s-5|ZTE Savvy]] (Z750C)
+  * ZTE Valet ™
+  * [http://www.zteusa.com/phones/zte-unicolte.html ZTE Unico LTE]
+
+===== Aio Wireless =====
+ * [[ZTE Prelude]] (Z993)
+ * [wiki:"ZTE/Aio#s-3" ZTE Overture] (Z995)
+ * [[wiki:"ZTE/Aio#s-4" ZTE Sonata 4G]]
+
+===== 버진 모바일 US =====
+ * [[ZTE/버진 모바일#s-2.1|ZTE Vergin Mobile Superme]] (N810)
+ * [[ZTE/버진 모바일#s-2.2|ZTE Vergin Mobile Awe]] (N800)
+ * [[ZTE/버진 모바일#s-2.3|ZTE Vergin Mobile Reef]] (N9810)
+
+==== 일본 내수용 ====
+===== 소프트뱅크[* 사실상 소프트뱅크에만 공급된다.] =====
+ * [wiki:"ZTE Blade#s-2.1" SoftBank 003Z]
+ * [wiki:"ZTE/소프트뱅크#s-3" SoftBank 008Z](V881)
+ * [wiki:"ZTE/소프트뱅크#s-4" ZTE STAR 7 SoftBank 009Z]
+
+==== 시리즈별 모델 ====
+===== [wiki:"ZTE 그랜드" 그랜드 시리즈] =====
+ * [wiki:"ZTE 그랜드#s-2.1" Grand X]
+  * [wiki:"ZTE 그랜드#s-2.1.4" Grand X In]
+  * [wiki:"ZTE 그랜드#s-2.1.5" Grand X Pro](V983)
+  * [wiki:"ZTE 그랜드#s-2.1.7" Grand X Classic]
+  * [wiki:"ZTE 그랜드#s-2.1.8" Grand X Quad Lite]
+  * [http://www.zte.es/productos/smartphones/zte-grand-x-m Grand X M]
+ * [wiki:"그랜드 에라" Grand Era](V9800)
+ * [wiki:"그랜드 S 시리즈" Grand S]
+  * Grand S Flex
+ * Grand S II
+ * Grand S Pro
+ * [wiki:"그랜드 메모" Grand Memo](V9815/U9815)
+  * Grand Memo 5S
+ * [[그랜드 메모 II|Grand Memo II]]
+ * [wiki:"그랜드 X2 In" Grand X2 In]
+
+==== Star 시리즈 ====
+ * [[ZTE Star 1]]
+ * ZTE Star 2
+
+===== 누비아 시리즈[* 별도 관리팀이 운영된다.] =====
+  * [[ZTE 누비아 시리즈#s-2.1|누비아 Z5]]
+  * 누비아 Z5 미니
+  * [[ZTE 누비아 시리즈#s-2.1.5|누비아 Z5 미니]]
+  * 누비아 X6
+  * 누비아 Z7
+  * 누비아 Z7 MAX
+  *누비아 Z7 미니
+
+===== [wiki:"ZTE Blade" Blade] 시리즈업 =====
+ * [[ZTE Blade#s-2.1|Blade]]
+  * [[ZTE Blade#s-2.1.4|Blade FTV Phone]]
+ * [[ZTE Blade#s-2.2|Blade II]]
+ * [[Blade III]]
+  * [[ZTE 제트폰|Blade III Pro]]
+  * [[Blade III#s-2.3|Blade III V889M]]
+ * [[ZTE Blade L 시리즈|Blade L]]
+ * ZTE Blade L2
+ * [[ZTE Blade G|Blade G]]
+  * [http://www.zte.com.mx/index.php/producto?id=59 Blade G Plus]
+  * [[ZTE Blade G|Blade G Pro]]
+  * [[ZTE Blade G|ZTE Blade G2]]
+ * [[ZTE Blade#s-2.6|Blade C]]
+   * ZTE Blade C2
+ * [[ZTE Blade#s-2.8|Blade V]]
+ * [[ZTE Blade#s-2.9|Blade S]]
+ * [[ZTE Blade Q]]
+  * ZTE Blade Q mini
+  * ZTE Blade Q Maxi
+ * [http://www.zte.es/productos/smartphones/zte-blade-apex ZTE Blade Apex]
+ * [http://www.zte.com.fr/mobiles/201404/t20140407_15007.html ZTE Blade Apex 2]
+ * [[http://www.ztedevices.com/product/smart_phone/76f6390e-d408-4c58-a6e3-a5f2c611f343.html ZTE Blade VEC 4G]]
+  * [http://www.zte.com.au/devices/Blade_Vec.htm Blade VEC 3G]
+
+===== 키즈 시리즈[* 보급형 라인업이다.] =====
+ * [[ZTE KIS]]
+  * [[wiki:"ZTE KIS#s-2.1.4" ZTE KIS Plus]]
+ * [[wiki:"ZTE KIS#s-2.2" ZTE KIS ll]]
+ * [[wiki:"ZTE KIS#s-2.3" ZTE KIS lll]](ZTE KIS Lite)
+ * [wiki:"ZTE KIS#s-2.4" ZTE KIS Flex]
+ * [http://www.zte.es/productos/smartphones/zte-kis-pro ZTE Kis Pro] 
+ * [http://www.ztedevices.co.uk/kis-3-android-smartphone.html ZTE Kis 3]
+  * [http://www.ztedevices.com/product/smart_phone/afcd2e69-0d48-4073-a452-08d38ea6de80.html ZTE Kis 3 MAX]
+
+===== 기타[* 알파벳 순] =====
+ * [[Vodafone Smart chat]]
+ * ZTE Acqua
+ * ZTE Affinity
+ * [[ZTE Atlas W]](ZTE Vivacity) [* 영국 EE 한정.]
+ * ZTE Base Letua ll
+ * ZTE G882
+ * [[ZTE Geek]]
+ * [[ZTE Libra]]
+ * [http://www.zte.com.mx/index.php/producto?id=34 ZTE LINK (ZTE Racer)]
+ * ZTE N90
+ * [[ZTE Nova 4]]
+ * ZTE Monte Carlo
+ * [[MOMODESIGN MD Droid|ZTE MOMODESIGN MD Droid]]
+ * ZTE MOMODESIGN MD Smart
+ * [[ZTE Movistra One]](ZTE Racer II)
+ * ZTE Micromax A60(ZTE Penguin)
+ * [ZTE ONE]
+ * ZTE Orange San francisco II
+ * [http://www.zte.es/productos/smartphones/orange-reyo ZTE Orange Reyo]
+ * [http://www.zte.es/productos/smartphones/zte-orange-hollywood ZTE Orange Hollywood]
+ * [http://www.zte.es/productos/smartphones/zte-orange-monte-carlo ZTE Orange Monte carlo]
+ * [http://www.zte.es/productos/smartphones/zte-orange-zali ZTE Orange Zail]
+ * [http://www.zte.com.mx/index.php/producto?id=36 ZTE Prime]
+ * ZTE PF112
+ * ZTE PF200
+ * ZTE Pm 1107 Smart
+ * [[ZTE Roamer]]
+ * ZTE Red Bull
+ * ZTE R750
+ * ZTE X850
+ * [[ZTE SKATE]]
+ * ZTE Skate Acqua
+ * ZTE Style Q[* 쿼티바 모델]
+ * ZTE Sydney
+ * [[ZTE Tureis]]
+ * ZTE V587
+ * [http://www.zte.com.mx/index.php/producto?id=54 ZTE V793]
+ * ZTE V857
+ * [wiki:"ZTE/AT%26T#s-2" ZTE V860]
+ * ZTE V875[* 쿼티 모델]
+ * [[ZTE ME|ZTE V967S]]
+ * [http://www.zte.com.au/devices/V969.htm V969]
+ * [http://www.ztedevices.com/product/smart_phone/b1d70bd4-428a-4250-942b-cc9dbafb01cd.html ZTE V9800]
+ * [http://www.ztedevices.com/product/smart_phone/af807729-522b-4b97-bc1a-375b308714d5.html ZTE ZMAX]
+ 
+=== [[Windows Phone|마이크로소프트 Windows Phone]] ===
+ * [http://www.ztedevices.com/product/smart_phone/c650ab27-c891-43a8-85ef-e683781263b2.html ZTE Render]
+ * ZTE Tania
+
+=== [[Firefox OS|모질라 재단 Firefox OS]] ===
+ * [[ZTE Open]]
+ * [http://www.ztedevices.com/product/smart_phone/b8fcc021-3e5b-4a96-8161-47ee8d4f42f1.html ZTE Open C]
+ * ZTE Open II
+
+== 태블릿 컴퓨터 ==
+=== [[안드로이드(OS)|구글 안드로이드]] ===
+ * ZTE Light
+ * ZTE Light Plus
+ * ZTE Light Tab
+ * ZTE Light Tab V9C
+ * ZTE Light Tab V9S
+ * ZTE Light Tab V9A
+ * ZTE Light Tab Pro
+ * ZTE T72
+ * ZTE T98 
+ * ZTE V81
+ * ZTE Velox V72
+ * ZTE PF100
+ * ZTE Optik[* 스프린트 전용 독점 납품 태블릿 PC]
+ * ZTE V98
+ * ZTE V66
+ * ZTE V9
+ * ZTE Smart Tab 7
+ * ZTE Smart Tab 10

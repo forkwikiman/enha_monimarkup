@@ -1,0 +1,21 @@
+Vacuum Engine
+
+그 작동 형태로 인해 플레임이터(Flame Eater)이라는 이름으로도 불리는 [외연기관]으로 연소체로 인해 달궈진 공기를 개폐기와 냉각기를 이용해 빨아들이고 식히는 과정에서 일어나는 공기의 부피 변화와 대기압차로 인해 일어나는 [진공]을 이용해 [피스톤]을 움직이는 기관이다. 
+
+{{{#!html
+<embed src="http://www.youtube.com/v/7p_1QO1iG9M&rel=0&hl=ko_KR&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></embed>
+}}}
+
+작동 구조도.
+
+[스털링 기관]과 더불어 미니어쳐 엔진으로 많이 나와있으며, 스털링 기관과 달리 오래전에 고정형 대형 엔진으로도 많이 만들어져 쓰였었다. 
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/VdW1DFyq-2k?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/VdW1DFyq-2k?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<embed src="http://www.youtube.com/v/7jT4Ga3QLTE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
+
+<embed src="http://www.youtube.com/v/gP5P493ErfA?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+
+다만 스털링 기관과 달리 개인 차원에서 간단히 자작하기는 어렵고 단순한 열이 아닌 흡/베출구에 가져다 붙인 불꽃램프로 바로 달군 불기 섞인 열기로만 가동 가능한지라 미니어처 엔진이라든지 자작 마개조라든지 하는 영역에서는 인기가 상당히 밀린다.

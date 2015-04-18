@@ -1,0 +1,25 @@
+ * 상위 항목: [제트전투기], [러시아 공군]
+
+[[include(틀:제트전투기/러시아)]]
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Yakovlev_Yak-141_at_1992_Farnborough_Airshow_%282%29.jpg/640px-Yakovlev_Yak-141_at_1992_Farnborough_Airshow_%282%29.jpg
+http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yakovlev_Yak-141_3D_model.jpg/640px-Yakovlev_Yak-141_3D_model.jpg
+http://i.imgur.com/gblbnHW.jpg
+http://i.imgur.com/tc2lS6X.jpg
+
+[[목차]]
+
+== 설명 ==
+{{{#!html
+<iframe width="640" height="480" src="//www.youtube.com/embed/WybwlN_UCVI" frameborder="0" allowfullscreen></iframe>}}}
+|| Yak-141 "Freestyle" - Farnborough Airshow 1992 ||
+
+{{{#!html
+<iframe width="640" height="480" src="//www.youtube.com/embed/u7CAAZEO6TU" frameborder="0" allowfullscreen></iframe>}}}
+|| Yakovlev Yak-141 ||
+
+http://i.imgur.com/oYVanPy.gif
+
+Yak-141은 Yak-38의 후계기종으로 소련의 [[야코블레프]] 사에서 개발되었으나 구 소련이 해체되면서 계획에 차질을 빚게 된다. 소련 해체 이후에도 한동안 테스트가 계속되었으나, 결국 예산 문제 때문인지 흐지부지되었다. 더 설명하자면 1977년부터 설계에 들어가 Yak-41M라고 명명되었으며, 1987년 첫 비행에 성공한 뒤에 1992년 판보로 에어쇼에서 공개되었다. 서방 진영에게 소개할때 Yak-141로 이름이 변경되었고, NATO 코드명은 프리스타일(Freestyle)이다. 초음속 전투기로 4개의 파일런에 [[MiG-29]] 수준의 [[레이더]]와 항공전자장비, 플라이 바이 와이어 시스템을 갖추어 Yak-38에 비해 뛰어난 공대공 전투 능력과 엔진 성능의 향상으로 넓은 작전 반경을 가졌지만 가장 큰 수요처인 [[어드미럴 쿠즈네초프급]] [[항공모함]]이 스키점프대를 활용해서 [[Su-27]]같은 일반적인 [[함재기]]를 채용하면서 앞날에 먹구름이 끼었으며, 급하게 서방과 협력해서 판매처를 늘리려고 했으나… 소련이 망하면서 예산 부족으로 인해 중단되었다. 다만, [Yak-141]에 쓰인 기술 일부, 특히 후방 배기노즐 기술은 [야코블레프]사를 통해 [[미국]]으로 전해져서 '''[[F-35]]B'''의 [[wiki:"아이러니" 수식 노즐 제어에 쓰였다.]][* http://en.wikipedia.org/wiki/Yak-141#cite_ref-Gunston_1-15][* http://bemil.chosun.com/nbrd/gallery/view.html?b_bbs_id=10050&pn=142&num=1049]
+== 관련 항목 ==
+ * [항공 병기/현대전]

@@ -1,0 +1,15 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Leatherback Baloth''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/129999_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {G}{G}{G} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 생물 — 야수 ||
+||||<height=160px>''Heavy enough to withstand the Roil, leatherback skeletons are havens for travelers in storms and landshifts.''||
+|| '''공격력/방어력''' || 4/5 ||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Worldwake || 언커먼 ||
+
+특수능력이 없긴 하지만 3마나 4/5라는 것은 발비에 비해서 제법 튼실한 공방이다. 대신 이쪽은 G만을 고스란히 3개 쓰게 되는데, 이 쪽은 모노그린에서 쓰게 되면 초반에 튀어나올 가능성이 무지 높다. (첫턴에 [[라노워 엘프]]나 [[수목 엘프]]를 꺼내고 둘째 턴에 이걸 꺼낸다던가..) 
+
+4마나 4/5에 페널티가 있는 [[Erhnam Djinn]]이 레어였던 시절과 지금을 비교하면 확실히 점점 주문이 약해지고 생물이 강해지는 환경이 되고 있는 것을 알 수 있다.

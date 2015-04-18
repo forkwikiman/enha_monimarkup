@@ -1,0 +1,73 @@
+attachment:Lyra.png
+attachment:Lyra(ROMA_SWING).png
+Lyra / ライラ
+[팝픈뮤직]에 등장하는 캐릭터.
+
+[[목차]]
+==== 프로필 ====
+생일 : [4월 3일]
+출신지 : [달]
+취미 : 춤
+좋아하는 것 : 
+싫어하는 것 : 
+
+===== 코멘트 =====
+attachment:moon_dance.png
+ * 팝픈뮤직 AC 17 MOVIE
+ 수면에 비춰진 달의 형상은, 태고부터 전해져 내려오던 섬광을 내뿜는다…
+
+attachment:Tears_In_The_Light.png
+ * [팝픈뮤직 Sunny Park]
+ 이것은 석양의 색에 물든 운명의 여행에 결착을 짓는 테마
+
+==== 설명 ====
+팝픈뮤직 17 MOVIE에서 처음 등장한 [토끼] [수인] 캐릭터. 모티브는 [달토끼].
+
+==== 대사 ====
+
+ * NET 대전 모드 시 대사
+
+통상 - 라이라라~이~~뭐야 끝이야? 아니 무슨 [포켓몬]도 아니고~~
+ATTACK - 
+DAMAGE - 
+WIN - 
+LOSE - 
+GOOD - 
+BAD - 
+
+==== 모션 ====
+attachment:Lyra_01.gif
+NORMAL
+
+attachment:Lyra_02.gif
+GREAT
+
+attachment:Lyra_03.gif
+FEVER
+
+==== 담당곡 ====
+ * 팝픈뮤직 AC 17 MOVIE
+[[youtube(U4a2j3jnULs)]]
+
+LUNATIC REEL - moon dance
+Akino
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 124 || 
+|| 50 || {{{#blue 8}}} || {{{#green 24}}} || {{{#orange 40}}} || {{{#red 44}}} ||
+|||| 노트수 || {{{#blue ?}}} || {{{#green ?}}} || {{{#orange ?}}} || {{{#red 1141}}} ||
+
+
+
+ * [팝픈뮤직 Sunny Park]
+[[youtube(KfJ5lYNECmQ)]]
+
+ROMA SWING - Tears In The Light
+Akino
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 140 || 
+|| 50 || {{{#blue 8}}} || {{{#green 21}}} || {{{#orange 32}}} || {{{#red 44}}} ||
+|||| 노트수 || {{{#blue 148}}} || {{{#green 340}}} || {{{#orange 612}}} || {{{#red 1121}}} ||
+
+
+
+[[각주]]

@@ -1,0 +1,205 @@
+ * 같이보기 : [BEMANI 시리즈/연동 이벤트], [POLICY BREAK]
+
+attachment:floorinfection.png
+[[목차]]
+
+== 개요 ==
+
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+|| 기간 || 2013년 6월 7일 ~ 2014년 11월 20일<<br>>2015년 1월 28일 ~ ||
+|| 대상 게임 || 주축: '''[[사운드 볼텍스]]'''[[BR]]대응 게임: '''[[리플렉 비트 시리즈]]''', '''[[팝픈뮤직]]''', '''[[유비트 시리즈]]''', [[GITADORA 시리즈]], '''[[댄스 댄스 레볼루션]]''' ||
+
+[[사운드 볼텍스]] 시리즈가 주축이 되는 첫 번째 연동 이벤트. 동시에 진행되는 [[POLICY BREAK]]와는 반대 방향으로 이루어진다. 사운드 볼텍스를 플레이하면 인펙션 게이지가 차오르고, 게이지 레벨에 따라 대상 게임에 해당되는 곡이 해금되는 방식. 전체 해금까지 8코인이 소모되며 다른 연동 이벤트에 비해 코인의 소모가 비교적 적다는 것이 장점이다.
+--하지만 사볼은 대기가많고 2년이 지나도록 봉인해제를 안해준다--
+플레이 횟수와 게이치의 추이는 아래의 표를 참조.
+attachment:FLOOR_INFECTION.jpg
+
+기종 별로 나뉘어 각각의 이벤트가 2주간 진행되며, 이벤트가 끝나면 '''해금을 기간 내에 하지 못한 사람에게는 해금이 봉인'''되므로 유의. 유비트의 경우도 '''__현재 진행중__인 이벤트이기 때문에 전도로 해금이 불가능'''하다. 그렇기 때문에 기간 내에 해금을 하지 못한 경우를 위해 재개최를 하는 경우 또한 있으니 이 시기를 이용하면 어떻게든 해금은 가능하다. 해금 게이지도 기존에 진행한 만큼 그대로 유지된다. 이벤트가 여러 개가 진행중인 경우 모든 게이지가 같이 올라가기 때문에 기간 내에 해금하는 것이 어렵지 않다.(2-3, 10-12탄 이벤트)
+
+하지만 사볼3에서 해금방법이 바뀌었다. 사운드 볼텍스를 플레이할 때, 게이지가 자동적으로 차오르지 않고 자신이 원하는 이벤트의 게이지에 해금 에너지를 직접 부어서 해금하는 방식이 되었다. 또한 쓰지 않은 에너지는 자동적으로 소멸되어 다음 해금에 쓸 수 없게 되었다. 따라서 모든 게이지가 동시에 올라가지 않고, 그로 인해 여러 이벤트를 동시에 진행하고자 할 때 소모되는 코인의 수가 배가 되었다.
+
+코나미에 전달되는 공모 데이터 및 악곡 데이터가 마스터 음원으로 이루어짐에 따라 사실상 키음이 필수적인 [[beatmania IIDX]]에는 이식되기 힘들다.[* 비슷한 상황인 [[GITADORA 시리즈]]의 경우 일반 마스터 음원 위에 별도의 기타,베이스,드럼 키음을 더 크게 설정하는 형태이기 때문에 키음을 수록하는데 무리는 없었다. [[팝픈뮤직]]에서는 그냥 라이센스 곡들처럼 무키음 처리. 다만 곡 자체는 비마니 오리지널로 취급된다.] 일각에서는 [[罪と罰]]처럼 마스터 음원을 출력하고 그 위에 사볼처럼 '''효과음(이펙음)을 키음으로 덧씌운다'''라고 하면 될지도 모른다는 의견이 있지만 아직은 미지수. --굳이 할려고 한다면 코나미의 자본력을 이용해 작곡가들을 데려와서 직접 노가다 시켜도 된다.--
+
+팝픈뮤직에서의 캐릭터는 3탄과 5탄은 [[레이시스]]가, 7탄과 12탄은 [[Megpoid|GUMI]]가 담당한다.
+
+=== 제1탄 : [[리플렉 비트 콜레트]] Spring ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|5> 기간 || 2013년 6월 7일 ~ 2013년 6월 24일 ||
+|| 2013년 10월 30일 ~ 2013년 11월 6일 ||
+|| 2014년 5월 2일 ~ 2014년 5월 9일 ||
+|| 2014년 7월 23일 ~ 2014년 7월 30일 ||
+|| 2015년 1월 28일 ~ 2015년 2월 12일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''<<br>>'''[[리플렉 비트 시리즈]]''' ||
+
+||||||<tablealign=center><#ff1493> '''FLOOR INFECTION[[BR]]제1탄 : [[리플렉 비트 콜레트]] Spring''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_01_01.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_01_02.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_01_03.jpg ||
+|| [[TRIGGER★HAPPY]][[BR]][[P*Light]] || [[香港功夫大旋風]][[BR]]Daisuke Ohnuma || [[Max Burning!!]][[BR]]BlackY ||
+
+=== 제2탄 : [[리플렉 비트 콜레트]] Summer ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|5> 기간 || 2013년 7월 3일 ~ 2013년 7월 17일 ||
+|| 2014년 2월 28일 ~ 2014년 3월 7일 ||
+|| 2014년 7월 11일 ~ 2014년 7월 18일 ||
+|| 2014년 8월 6일 ~ 2014년 8월 13일 ||
+|| 2015년 1월 28일 ~ 2015년 2월 12일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''<<br>>'''[[리플렉 비트 시리즈]]''' ||
+
+1탄과 마찬가지로 [[리플렉 비트 콜레트]]와의 연동이 실시되었다.
+
+||||||<tablealign=center><#81e3ff> '''FLOOR INFECTION[[BR]]제2탄 : [[리플렉 비트 콜레트]] Summer''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_02_01.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_02_02.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_02_03.jpg ||
+|| [[éclair au chocolat]][[BR]]kamome sano || [[Onigo]][[BR]][[Hommarju]] || [[PANIC HOLIC]][[BR]]C-Show ||
+
+=== 제3탄 : [[팝픈뮤직 Sunny Park]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|4> 기간 || 2013년 7월 10일 ~ 2013년 7월 24일 ||
+|| 2013년 10월 10일 ~ 2013년 10월 17일 ||
+|| 2014년 4월 25일 ~ 2014년 5월 2일 ||
+|| 2014년 7월 23일 ~ 2014년 7월 30일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''<<br>>'''[[팝픈뮤직]]''' ||
+
+||||||<tablealign=center><#fffd7e> '''FLOOR INFECTION[[BR]]제3탄 : [[팝픈뮤직 Sunny Park]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:03_1.jpg || attachment:03_2.jpg || attachment:03_3.jpg ||
+|| [[レトロスペクティビリー・メリーゴーランド]][[BR]]はるなば || [[draw!!!!]][[BR]]Music by [[PHQUASE]], Vocal by ぁゅ || [[超恋愛☆エクストリーム・ガール]][[BR]]Music by Ayatsugu_otowa, Vocal by みゅい ||
+
+이벤트일 당시엔 팝픈 발매가 되지 않았으나 일단 게이지를 채우면 언제든 팝픈 게임시작만 해도 해당곡을 할 수 있으므로 게이지 채운 유저들에 한해 그림의 떡이 아니다.
+사족으로, FLOOR INFECTION을 통해서 팝픈으로 이식된 곡들의 캐릭터는 팝픈풍으로 그려진 레이시스가 일괄 담당하고 있다. 5탄도 마찬가지.
+ 
+=== 제4탄 : [[유비트 소서]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|4> 기간 || 2013년 7월 22일 ~ 2013년 8월 5일 ||
+|| 2013년 10월 18일 ~ 2013년 10월 25일 ||
+|| 2014년 4월 25일 ~ 2014년 5월 2일 ||
+|| 2014년 7월 30일 ~ 2014년 8월 6일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[유비트 시리즈]]''' ||
+
+||||||<tablealign=center><#ffffff> '''FLOOR INFECTION[[BR]]제4탄 : [[유비트 소서]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:04_1.jpg || attachment:04_2.jpg || attachment:04_3.jpg ||
+|| [[caramel ribbon]][[BR]][[P*Light]] || [[Hello world!]][[BR]]Music by 源屋, Vocal by SOPHY || [[Dynasty]][[BR]]Yooh ||
+
+=== 제5탄 : [[팝픈뮤직 Sunny Park]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|4> 기간 || 2013년 8월 21일 ~ 2013년 9월 2일 ||
+|| 2013년 12월 11일 ~ 2013년 12월 18일 ||
+|| 2014년 7월 11일 ~ 2014년 7월 18일 ||
+|| 2014년 8월 13일 ~ 2014년 8월 20일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''<<br>>'''[[팝픈뮤직]]''' ||
+
+||||||<tablealign=center><#fffd7e> '''FLOOR INFECTION[[BR]]제5탄 : [[팝픈뮤직 Sunny Park]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:05_1.jpg || attachment:05_2.jpg || attachment:05_3.jpg ||
+|| [[華陽炎-Hana Kagerou-]][[BR]]源屋 feat.Kuroa* || [[ませまてぃっく♥ま+ま=まじっく！]][[BR]]かめりあ feat. [[나나히라|ななひら]] || [[C18H27NO3]][[BR]]Team Grimoire ||
+
+=== 제6탄 : [[리플렉 비트 콜레트]] Summer ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|4> 기간 || 2013년 9월 3일 ~ 2013년 9월 17일 ||
+|| 2014년 4월 18일 ~ 2014년 4월 25일 ||
+|| 2014년 8월 13일 ~ 2014년 8월 20일 ||
+|| 2015년 1월 28일 ~ 2015년 2월 12일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[리플렉 비트 시리즈]]''' ||
+
+||||||<tablealign=center><#81e3ff> '''FLOOR INFECTION[[BR]]제6탄 : [[리플렉 비트 콜레트]] Summer''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_06_01.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_06_02.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_06_03.jpg ||
+|| [[Smile(비마니 시리즈)|Smile]][[BR]][[Hommarju]] feat.[[미타니 나나|実谷なな]] || [[Sakura Reflection]] (P*Light Slayer Remix)[[BR]][[P*Light]] || [[Qubism]][[BR]]Hate vs Brilliance ||
+
+[[Sakura Reflection]] (P*Light Slayer Remix)가 대상곡에 선정됨으로서 타 게임에, 그것도 '''원곡이 처음 실렸던 [[리플렉 비트 시리즈]]에''' [[사운드 볼텍스]] 출신 리믹스 곡이 수록되는 최초의 사례가 되었다.
+
+=== 제7탄 : [[팝픈뮤직 Sunny Park]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|3> 기간 || 2013년 9월 19일 ~ 2013년 10월 3일 ||
+|| 2014년 4월 18일 ~ 2014년 4월 25일 ||
+|| 2014년 8월 20일 ~ 2014년 8월 27일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[팝픈뮤직]]''' ||
+
+||||||<tablealign=center><#fffd7e> '''FLOOR INFECTION[[BR]]제7탄 : [[팝픈뮤직 Sunny Park]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:07_1.jpg || attachment:07_2.jpg || attachment:07_3.jpg ||
+|| [[닿아라! 슈팅 스타☆|届け！シューティングスター☆]][[BR]]Noriyuki || [[VERSUS!!]][[BR]]しけもく || [[가위눌린 만남을|金縛りの逢を]][[BR]]はるなば ||
+
+세 곡 전부 [[Megpoid|GUMI]]를 기용한 악곡이며, 그래서 담당캐릭터도 레이시스가 아닌 GUMI.
+
+=== 제8탄 : [[GITADORA]] ===
+참고로 [[기타도라 어플]]에서는 아케이드에서 플레이 기록이 있어도 해금할 수 없다.
+
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|3> 기간 || 2013년 9월 25일 ~ 2013년 10월 9일 ||
+|| 2014년 2월 28일 ~ 2014년 3월 7일 ||
+|| 2014년 8월 20일 ~ 2014년 8월 27일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]][[GITADORA]] ||
+
+||||||<tablealign=center><#fffd7e> '''FLOOR INFECTION'''[[BR]]제8탄 : [[GITADORA]] ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:08_1.jpg || attachment:08_2.jpg || attachment:08_3.jpg ||
+|| [[MANDARA]][[BR]]さたな || [[디스트로이 마치|デストロイマーチ]][[BR]]桜華 || [[Joyeuse]][[BR]]ke-ji ||
+
+=== 제9탄 : [[유비트 소서]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|3> 기간 || 2013년 11월 20일 ~ 2013년 12월 4일 ||
+|| 2014년 5월 2일 ~ 2014년 5월 9일 ||
+|| 2014년 8월 6일 ~ 2014년 8월 13일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[유비트 시리즈]]''' ||
+
+||||||<tablealign=center><#ffffff> '''FLOOR INFECTION[[BR]]제9탄 : [[유비트 소서]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:09_1.jpg || attachment:09_2.jpg || attachment:09_3.jpg ||
+|| [[Ray]][[BR]]源屋 || [[Gott]][[BR]][[Hommarju]] || [[Unicorn tail]] Dustboxxxx RMX[[BR]]Dustboxxxx ||
+
+=== 제10탄 : [[Dance Dance Revolution(2014)|Dance Dance Revolution]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|3> 기간 || 2014년 6월 26일 ~ 2014년 7월 10일 ||
+|| 2014년 7월 30일 ~ 2014년 8월 6일 ||
+|| 2015년 2월 4일 ~ 2015년 2월 18일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[Dance Dance Revolution(2014)]]''' ||
+
+||||||<tablealign=center><#9FC929> '''FLOOR INFECTION[[BR]]제10탄 : [[Dance Dance Revolution(2014)|Dance Dance Revolution]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:10_1.jpg || attachment:10_2.jpg || attachment:10_3.jpg ||
+|| [[Strobe♡Girl]][[BR]]colate || [[second spring storm]][[BR]]Spacelectro || [[ドキドキ☆流星トラップガール!!]][[BR]]流星トラップボーイズ ||
+
+[[GUMI 5th Anniversary party Presented by BEMANI]]의 일환으로 개최되었다. 11탄, 12탄과 동시에 진행된다. DDR 대상으로는 최초.
+
+국내판 DDR 기체는 [https://twitter.com/gadesojes_d/status/482727295338020866 해금을 해도 플레이가 되지 않는다고 한다.] 허나 2014년 7월 22일 업데이트되며 해결.
+
+대부활제의 영향인지 FLOOR INFECTION 내에서 가장 빨리 부활한 이벤트가 되었다.[* 싱가포르의 경우 DDR은 있었으나 파픈과 리플렉이 없어 다른 아시아 국가에 비해 당시에는 인펙션 10-12탄의 혜택이 전혀 없는 이벤트였으나 아시아판 DDR 업데이트로 10탄만 빠르게 부활한 것으로 보인다.]
+
+=== 제11탄 : [[리플렉 비트 그루빈]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+||<|2> 기간 || 2014년 6월 26일 ~ 2014년 7월 10일 ||
+|| 2015년 1월 28일 ~ 2015년 2월 12일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[리플렉 비트 시리즈]]''' ||
+
+||||||<tablealign=center><#9FC929> '''FLOOR INFECTION[[BR]]제11탄 : [[리플렉 비트 그루빈]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_11_01.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_11_02.jpg || http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/images/fi_11_03.jpg ||
+|| [[Strobe♡Girl]][[BR]]colate || [[憂恋☆アクティベーション]][[BR]]u-z || [[City Edge]][[BR]]winddrums ||
+
+[[GUMI 5th Anniversary party Presented by BEMANI]]의 일환으로 개최되었다. 10탄, 12탄과 동시에 진행된다.
+
+=== 제12탄 : [[팝픈뮤직 라피스토리아]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+|| 기간 || 2014년 6월 26일 ~ 2014년 7월 10일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[팝픈뮤직]]''' ||
+
+||||||<tablealign=center><#9FC929> '''FLOOR INFECTION[[BR]]제12탄 : [[팝픈뮤직 라피스토리아]]''' ||
+|| '''LEVEL 01''' || '''LEVEL O2''' || '''LEVEL 03''' ||
+|| attachment:12_1.jpg || attachment:12_2.jpg || attachment:12_3.jpg ||
+|| [[Strobe♡Girl]][[BR]]colate || [[Baby Sherry]][[BR]]ぺのれり || [[憂恋☆アクティベーション]][[BR]]u-z ||
+
+[[GUMI 5th Anniversary party Presented by BEMANI]]의 일환으로 개최되었다. 10탄, 11탄과 동시에 진행된다.
+
+=== 제13탄 : [[팝픈뮤직 라피스토리아]] ===
+|||| [[http://p.eagate.573.jp/game/bemani/sdvx/floorinfection/p/index.html 코나미 페이지]] ||
+|| 기간 || 2015년 2월 27일 ~ 2015년 3월 13일 ||
+|| 대상 게임 || '''[[사운드 볼텍스]]'''[[BR]]'''[[팝픈뮤직]]''' ||
+
+||||||<tablealign=center><#fffd7e> '''FLOOR INFECTION[[BR]]제13탄 : [[팝픈뮤직 라피스토리아]]''' ||
+|||||| '''LEVEL 01''' ||
+|||||| http://p.eagate.573.jp/game/sdvx/iii/p/common/imagejacket.html?img=%2BJHFVUv5ePJUmNtkLtdk6A%3D%3D?.jpg ||
+|||||| [[ムーニャポヨポヨスッポコニャーゴ]][[BR]]全日本スッポコニャーゴ親衛隊 ||
+
+최초로 한 곡만이 대상곡인 이벤트.

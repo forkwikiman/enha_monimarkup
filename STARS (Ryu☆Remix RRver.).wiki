@@ -1,0 +1,44 @@
+[[목차]]
+
+== [[Ryu☆]]의 음반인 [[Rainbow☆Rainbow]]의 수록곡 ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/k0ILEkBnuEg?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/k0ILEkBnuEg?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+보컬은 [[모리나가 마유미]], 작곡은 [[Another Infinity]].
+원곡은 [[코믹마켓]] [[EXIT TUNES]] 부스에서 판매된 앨범에 수록되어있다. 그래서 그런지 원곡이 많이 알려져 있지 않다. 이후 Ryu☆의 4번째 앨범인 'Sakura Luminance'에 원곡이 수록되었다. [[TЁЯRA]]의 STARS☆☆☆와는 무관.
+
+2011년 12월 21일 업데이트로 [[리플렉 비트 라임라이트]]에 수록되었다.
+
+== [[리플렉 비트 시리즈]]에서 ==
+
+attachment:46.jpg
+
+자켓 이미지. [[Ryu☆]]의 모습이 그려져 있다.[* 이 곡이 수록된 앨범 Rainbow☆Rainbow의 속표지에 곡명을 추가했다.] 
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/gmi_AxTICWI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||||||<:>'''[wiki:"리플렉 비트 라임라이트/해금요소#s-3.1" LIME UP 시스템]'''||
+||||||<#E7FFEA><:>'''limelight 8'''||
+||<:>8-1 글래스||<:>8-2 글래스||
+||<:>[[Ignition∞Break]] (370)||<:> '''STARS (Ryu☆Remix RRver.)''' (370)||
+|||||| ▼ ||
+||||||<#E7FFEA><:>'''limelight 9'''||
+||||||<:>9 글래스||
+||||||<:>[TITANS RETURN](460)||
+
+|||||||||||||| [[REFLEC BEAT]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 181 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 9}}} ||
+|| 노트 || {{{#green 164}}} || {{{#orange 306}}} || {{{#red 464}}} ||
+
+2011년 12월 21일 업데이트로 [[리플렉 비트 라임라이트]]에 추가된 라임 업 해금곡. 8-2 글래스에서 해금된다.
+
+곡이 수록된 앨범인 [[Rainbow☆Rainbow]]가 [[코나미]]에서 발매된 앨범이 아니라 그런지 [[KOROBUSHKA (Ryu☆Remix)]]처럼 해금곡임에도 라이센스 곡[* 오리지날 곡 랭킹이 아닌 '''라이센스 곡 랭킹'''에 뜬다.] 취급을 받는다.
+
+오브젝트 배치는 보컬을 주로 따라가는 편이며 초반과 후반에 3TOP + 일반 오브젝트 동시치기가 자주 나오는 편이다. 3TOP 오브젝트 배치가 꽤 까다롭고 후반의 후렴구에서 동시치기 구간에 살을 붙인 패턴이 나오므로 외우거나 많이 해서 익혀 두는 것이 좋다.
+
+여담이지만 [회수]와 관련이 많은곡. 라임라이트 당시 BASIC 패턴의 경우 RED 사이드는 패턴 오류로 [회수]점에 해당되는 오브젝트가 일반 오브젝트로 배정되어 '''BLUE 사이드보다 JUST REFLEC이 무조건 1개 덜 날라간다'''. 차기작인 콜레트에서는 이 문제가 수정되었다. 거기에 MEDIUM은 [엑설런트]가 회수조건이라 커트라인이 높다.

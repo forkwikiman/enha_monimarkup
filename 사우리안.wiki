@@ -1,0 +1,30 @@
+[[목차]]
+
+http://saurian.maxmediacorp.com/wp-content/uploads/2015/01/saurian_hell_creekPoweredUnity.jpg
+
+Saurian
+
+== 개요 ==
+[[http://saurian.maxmediacorp.com/ 공식 홈페이지]]
+[[https://www.facebook.com/sauriangame 공식 페이스북]]
+[http://www.indiedb.com/games/saurian 인디DB]
+
+[[youtube(P26gR-RM-RI)]]
+
+알파 버전 플레이 영상
+
+'''본격 플레이어가 공룡 되는 게임'''
+
+2013년부터 개발되고 있던 [공룡] 시뮬레이션 [게임]이다. 원래는 'Project Crynosaurs'라는 타이틀로 [크라이엔진]을 이용해 공룡 [FPS]를 만들려 하였으나 내부 마찰로 인해 따로 떨어져 나와서 만들고 있는 게 이 게임이다. 현재는 [유니티 엔진]으로 새로 개발 중. 작년 11월 즈음부터 만들고 있는 것이라 정확하게 공개가 되지 않았으나, 테크 데모나 스크린샷을 본 사람들의 말로는 "'''가장 고증적이고 아름다운 시뮬레이션'''"이 될 것이라고... 실제로 제작자들의 말에 따르면 좀 더 뛰어난 고증을 위해 '''실제 [[고생물학자]]들에게 조언을 요청했을 정도'''였다고 한다.
+
+http://media.indiedb.com/cache/images/games/1/28/27193/thumb_620x2000/Progress_screen.jpg
+http://media.indiedb.com/cache/images/games/1/28/27193/thumb_620x2000/Thescelo.jpg
+게임의 시대적 배경은 [중생대] [백악기] 후기로, [북아메리카] [http://en.wikipedia.org/wiki/Hell_Creek_Formation 헬 크릭 지층(Hell Creek Formation)]에서 나온 공룡들이 바탕이다. [티라노사우루스]를 중심으로, [트리케라톱스]와 [테스켈로사우루스], [안킬로사우루스] 등 당시 시대를 대표하는 공룡들과 이외 중생대 동물들이 나온다고 하며 현재 앞서 말한 공룡들만 렌더링 및 애니메이션이 구현되어 있다. 또한 [파키케팔로사우루스], 덴버사우루스, [모사사우루스], 캄프소사우루스의 컨셉아트도 공개된 상태.
+
+http://dinologue.com/wp-content/uploads/2014/12/saurian-flora-690.png
+위에서 설명했다시피 고생물학자들의 조언과 고증을 받아서 동물들의 모델링은 물론 헬 크릭 지층의 식생까지 고증에 맞춰서 재현되었다. 심지어 해당 지층에서 발견된 식물 하나 하나에도 고증을 맞췄을 정도.[* 아무래도 고식물학이 고동물학에 비해서 인기가 없어서인지(...) 몇몇 식물들은 '''사우리안 제작진들이 최초로 복원한 것이라고 한다'''.] 이외에도 해당 지역의 날씨 변화 등도 재현할 예정이라고 한다. [http://ht.ly/FOG3r 출처]
+
+아직 개발 중인 게임이니, 공식 홈페이지 혹은 인디DB 등에서 최신 자료 올라오면 추가 바람. ~~모델링 사진 주소명이 약빨았다. Thescelosaurusindie라던가 Its Anky Bitch 라던가~~
+
+== 등장 생물 ==
+[사우리안/등장 생물] 참고

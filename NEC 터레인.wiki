@@ -1,0 +1,27 @@
+||<tablealign="center"> attachment:NECT.jpg?width=450 ||
+|| [[http://www.necam.com/Smartphones/det.cfm?t=NECTerrain 미국 Nec Terrain 공식 사이트]] ||
+
+[[목차]]
+
+== 개요 ==
+[[NEC카시오]]가 2013년 6월에 출시한 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]].
+
+== 사양 ==
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S4 Plus MSM8960 [[SoC]]. [[Qualcomm Krait]] MP2 1.5 GHz [[CPU]], 퀄컴 Adreno 225 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 8 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[[디스플레이|디스]][[br]][[디스플레이|플레이]]||3.1인치 [[해상도/일람|VGA]](480 x 640) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, [[4G|HSPA+]] 21Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]][[br]][[Wi-Fi]] 802.11b/g/n, [[블루투스]] 4.0, [[NFC]] ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]]  ||
+||[[배터리]]||Li-Ion 1900 mAh ||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||64.5 x 132.1 x 14.5 mm, 187 g ||
+||색상||블랙 ||
+||기타||[[FM#s-2|FM]] [[라디오]] 지원, 바 쿼티 자판 탑재, IP67 등급 방수 방진 지원 및 MIL-spec 810G 인증 취득 ||
+
+== 상세 ==
+[[NEC카시오]]가 출시한 완전 러기드 타입의 [[스마트폰]]이다. 방수 방진 뿐만이 아니라 미 국방부 인증까지 받아서 충격에서도 보호를 받는다고 한다.
+
+특이하게, 카시오라는 명칭은 빼놓고, 'Nec Terrain'이라는 정식 발매명으로 [[http://www.necam.com/Smartphones/det.cfm?t=NECTerrain 미국 NEC]]와 [[http://www.att.com/shop/wireless/devices/nec/terrain-black.html#fbid=1a949eYDzRQ AT&T]]에 등록되어있다.
+
+2015년 1월 12일 기준으로 루팅 방법이 없으며 --[[망했어요]]-- 커스터마이징된 롬이 없다.
+단, 임시 루팅 방법은 있다. 관심 있는 사용자들은 [[http://m.clien.net/cs3/board?bo_style=view&bo_table=lecture&page=1&wr_id=246808 이곳을 참조]] 하길 바란다. 

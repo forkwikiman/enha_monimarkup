@@ -1,0 +1,13 @@
+애니메이션 [[스카이 걸즈]]의 오프닝. 작곡은 [[NAOKI]], 노래는 [[코사카 리유]].
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/hEDb2fymSJI&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hEDb2fymSJI&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+스카이 걸즈 애니메이션이 [[코나미]]에서 스폰서해 만들어서 이 곡은 리듬게임 [[댄스 댄스 레볼루션]]에 두 번 수록되었는데, SuperNOVA에는 코사카 리유가 MIKI ROBERTS라는 이름으로 부른 영어버전이고, 원곡(일어판)은 PS2용 SuperNOVA에 선행 수록된 이후에 업소용 SuperNOVA2에도 수록이 된다.[* SuperNOVA2에 수록된 버전에는 BGA로 위의 애니 오프닝이 나오지만, 심의때문인지 주역 캐릭터 세명의 전신 컷인 장면에서 엉덩이 쯤에 갈때 다른 컷으로 바뀌어 나온다. 이 BGA때문에 플레이하면서 민망해하는 유저들이 있다.] 참고로 두 버전 다 X 이전 기준 난이도로 익스퍼트 난이도는 7.
+
+코나미 스폰서 애니메이션인데다 작곡 및 노래가 코나미 관련 인물인 것 때문에 애니 오프닝인데도 판권곡이 아닌 코나미 오리지널로 취급한다(...)
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/R2RwA7YFsF8?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/R2RwA7YFsF8?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+Baby's Tears 싱글 CD에는 이 버전을 기반으로 가사가 일어인 DDR SuperNOVA Japanese edit. 버전이 있다. 각종 [[매드무비]]에서는 원곡보다 DDR SuperNOVA Japanese edit. 버전이 더 많이 쓰이고 있다.

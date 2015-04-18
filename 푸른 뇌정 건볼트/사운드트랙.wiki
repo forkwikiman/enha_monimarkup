@@ -1,0 +1,117 @@
+ * 상위 문서: [[푸른 뇌정 건볼트]]
+ * 관련 문서: [[모르포]]
+
+[[목차]]
+== 개요 ==
+[[푸른 뇌정 건볼트]]에 수록된 OST 목록을 정리한 문서로, 현재까지 발매된 관련 사운드트랙은 '푸른 뇌정 건볼트 사운드트랙'과 '창노인광'이 있다.
+
+== 목록 ==
+=== 푸른 뇌정 건볼트 사운드트랙 ===
+||<-4><#0000FF> {{{#white '''푸른 뇌정 건볼트 사운드트랙'''}}} ||
+||||||||http://gigaplus.makeshop.jp/intidirect/shopimages/1_000000000019.jpg?width=400||
+||<#0000FF><-5><:> {{{#white '''상세'''}}} ||
+||<#0000FF> {{{#white '''명칭'''}}} ||<#009CFF><-2><:> 蒼き雷霆ガンヴォルトサウンドトラック[[br]]Armed Blue Gunvolt Soundtrack ||
+||<#0000FF> {{{#white '''발매일'''}}} ||<#009CFF><-2><:> 2014년 10월 7일 ||
+||<#0000FF> {{{#white '''개발사'''}}} ||<#009CFF><-2><:> 인티 크리에이츠 ||
+||<#0000FF> {{{#white '''유통사'''}}} ||<#009CFF><-2><:> 인티 크리에이츠 ||  
+||<#0000FF> {{{#white '''프로듀서'''}}} ||<#009CFF><:> 야마타 잇포[[br]]카와카미 료 ||
+
+건볼트 최초의 사운드트랙. 
+
+여지껏 [[인티 크리에이츠]]에서 [[록맨 제로 시리즈]]와 [[록맨 ZX 시리즈]]의 OST를 리마스터링한 것과는 달리, 그냥 게임에 나온 OST를 여과 없이 그대로 사운드트랙으로 내놓은 게 좀 아쉬운 편. 모르포의 노래 역시 아무런 리마스터링도 거치지 않았으나, 후일에 발매된 창노인광에서 정식으로 풀 버전이 공개됐으니 거기에 만족하자(...).
+ 
+==== OST ====
+||<#0000FF><-5><:> {{{#white '''상세'''}}} ||
+||<#0000FF> {{{#white '''트랙'''}}} ||<#0000FF> {{{#white '''곡명'''}}} ||<#0000FF> {{{#white '''명칭'''}}} ||<#0000FF> {{{#white '''사용 시기 및 장소'''}}} ||<#0000FF> {{{#white '''길이'''}}} ||
+||<#0000FF> {{{#white '''1'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=w9RcRfp7l14&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=1|기나긴 밤의 시작]] ||<#009CFF><:> 長き夜の始まり[[br]]Beginning of a Long Night ||<#009CFF><:> 타이틀 ||<#009CFF> 1:03 ||
+||<#0000FF> {{{#white '''2'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=CizxhoVr5Tg&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=2|해방된 뇌정]] ||<#009CFF><:> 解き放たれし雷霆[[br]]Released Thunder ||<#009CFF><:> GV의 테마[[br]]스메라기 제1빌딩(초반) ||<#009CFF> 1:06 ||
+||<#0000FF> {{{#white '''3'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=CE3jwSVDpp0&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=3|푸른 날개는 밤에 춤춘다]] ||<#009CFF><:> 蒼翼は夜に舞う[[br]]Infiltration ||<#009CFF><:> 스메라기 제1빌딩  ||<#009CFF> 1:22 ||
+||<#0000FF> {{{#white '''4'''}}} ||<#009CFF> [[푸른 경계]] ||<#009CFF><:> 蒼の彼方[[br]]Beyond the Blue ||<#009CFF><:> 모르포의 노래(스메라기 제1빌딩)  ||<#009CFF> 1:40 ||
+||<#0000FF> {{{#white '''5'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=fDB_9MMegzI&index=5&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|풍운급전]] ||<#009CFF><:> 風雲急転[[br]]Sumeragi's Enforcers ||<#009CFF><:> 중간보스 전 ||<#009CFF> 1:03 ||
+||<#0000FF> {{{#white '''6'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=Y4VYlH1n3Z4&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=6|완수]] ||<#009CFF><:> 完遂[[br]]Mission Complete ||<#009CFF><:> 임무 완료 ||<#009CFF> 0:07 ||
+||<#0000FF> {{{#white '''7'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=UuiT6b6_tdM&index=7&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|귀환과 보수]] ||<#009CFF><:> 帰還と報酬[[br]]QUILL's Bounty ||<#009CFF><:> 종합 평가 ||<#009CFF> 1:03 ||
+||<#0000FF> {{{#white '''8'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=e1g4540Ze0U&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=8|소녀의 기도]] ||<#009CFF><:> 少女の祈り[[br]]The Muse's Tears ||<#009CFF><:> 시안의 테마 ||<#009CFF> 2:55 ||
+||<#0000FF> {{{#white '''9'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=hA-9jpWX8UE&index=9&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|전사의 일상]] ||<#009CFF><:> 戦士の日常[[br]]Today's Contract ||<#009CFF><:> 스테이지 셀렉트 ||<#009CFF> 2:09 ||
+||<#0000FF> {{{#white '''10'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=3N6K3HPgBrc&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=10|기다리고 있는 심연]] ||<#009CFF><:> 待ち受ける深淵[[br]]Abyss ||<#009CFF><:> 제3 해저기지 ||<#009CFF> 2:10 ||
+||<#0000FF> {{{#white '''11'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=nHLj7ioMm9k&index=11&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|안개시계]] ||<#009CFF><:> 霧時計[[br]]Nebulous Clock ||<#009CFF><:> 모르포의 노래(제3 해저기지) ||<#009CFF> 1:51 ||
+||<#0000FF> {{{#white '''12'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=dVwK8iUS3VU&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=12|아마테라스의 위광]] ||<#009CFF><:> 天照の威光[[br]]Minaret ||<#009CFF><:> 대전파탑 아마테라스 ||<#009CFF> 2:15 ||
+||<#0000FF> {{{#white '''13'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=owd8CU5SlxQ&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=13|푸른 문]] ||<#009CFF><:> 碧き扉[[br]]Azure Door ||<#009CFF><:> 모르포의 노래(대전파탑 아마테라스) ||<#009CFF> 1:31 ||
+||<#0000FF> {{{#white '''14'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=QPh8RD15UnI&index=14&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|사나운 염옥]] ||<#009CFF><:> 猛る炎獄[[br]]Conflagration ||<#009CFF><:> 화학공장 ||<#009CFF> 2:05 ||
+||<#0000FF> {{{#white '''15'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=nyrSGJNzEVA&index=15&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|추억의 심상]] ||<#009CFF><:> 追憶の心傷[[br]]Pain from the Past ||<#009CFF><:> 모르포의 노래(화학공장) ||<#009CFF> 1:21 ||
+||<#0000FF> {{{#white '''16'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=4rGcGRi5LaU&index=16&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|탐욕의 자계]] ||<#009CFF><:> 強欲の磁界[[br]]Spintronics ||<#009CFF><:> 데이터 뱅크 시설 ||<#009CFF> 2:11 ||
+||<#0000FF> {{{#white '''17'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=oOvsjH-OBZM&index=17&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|작열의 여행]] ||<#009CFF><:> 灼熱の旅[[br]]Scorching Journey ||<#009CFF><:> 모르포의 노래(데이터 뱅크 시설) ||<#009CFF> 1:17 ||
+||<#0000FF> {{{#white '''18'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=2WMfgPCkclU&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=18|돌고도는 영혼의 안식처]] ||<#009CFF><:> 廻る魂の在り処[[br]]Underworld ||<#009CFF><:> 지하시설 ||<#009CFF> 2:15 ||
+||<#0000FF> {{{#white '''19'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=1etZr-4iQy4&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=19|홍색의 아지랑이]] ||<#009CFF><:> 紅色カゲロウ[[br]]Rouge Shimmer ||<#009CFF><:> 모르포의 노래(지하시설) ||<#009CFF> 1:21 ||
+||<#0000FF> {{{#white '''20'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=U-NnvDuUCsU&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=20|충독의 화원]] ||<#009CFF><:> 蟲毒の花園[[br]]Garden ||<#009CFF><:> 약리연구소 ||<#009CFF> 2:09 ||
+||<#0000FF> {{{#white '''21'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=D_V368VzRRQ&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=21|월세계항로]] ||<#009CFF><:> 月世界航路[[br]]A Zip to the Moon ||<#009CFF><:> 모르포의 노래(약리연구소) ||<#009CFF> 1:06 ||
+||<#0000FF> {{{#white '''22'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=MEzgp_5mXxo&index=22&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|소용돌이치는 책략]] ||<#009CFF><:> 渦巻く策謀[[br]]Enemy in Sight ||<#009CFF><:> 칠보검과의 조우 ||<#009CFF> 1:30 ||
+||<#0000FF> {{{#white '''23'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=kaLgmyAVWdY&index=23&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|뽑아든 검]] ||<#009CFF><:> 鞘抜く剣[[br]]Sumeragi's Blades ||<#009CFF><:> 칠보검의 각성 ||<#009CFF> 1:32 ||
+||<#0000FF> {{{#white '''24'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=C1KHdAiiUns&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=24|칠보검극]] ||<#009CFF><:> 七宝剣戟[[br]]Lightning Strikes ||<#009CFF><:> 칠보검 전 ||<#009CFF> 1:58 ||
+||<#0000FF> {{{#white '''25'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=g__r_LuSNeY&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=25|격파]] ||<#009CFF><:> 撃破[[br]]Broken Glaive ||<#009CFF><:> 칠보검 격파 ||<#009CFF> 0:12 ||
+||<#0000FF> {{{#white '''26'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=dQK1Go2ZAP8&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=26|유혹하는 밤 없는 거리]] ||<#009CFF><:> 惑いし不夜街[[br]]Kaleidoscape ||<#009CFF><:> 환락가 ||<#009CFF> 3:00 ||
+||<#0000FF> {{{#white '''27'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=hjEehm0EuDE&index=27&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|복수의 은탄]] ||<#009CFF><:> 復讐の銀弾[[br]]The Psychic Slayer ||<#009CFF><:> 아큐라의 테마 ||<#009CFF> 1:23 ||
+||<#0000FF> {{{#white '''28'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=k2YirWrYq-c&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=28|단죄토멸]] ||<#009CFF><:> 断罪討滅[[br]]Cold Vengeance ||<#009CFF><:> 아큐라 전 ||<#009CFF> 2:00 ||
+||<#0000FF> {{{#white '''29'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=lsHhXz4alHs&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=29|초조와 추격]] ||<#009CFF><:> 焦燥と追走[[br]]Hostage ||<#009CFF><:> 시가지 ||<#009CFF> 1:05 ||
+||<#0000FF> {{{#white '''30'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=ZIIT18T3FU4&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=30|내달리는 전광]] ||<#009CFF><:> 駆け抜ける電光[[br]]Streak ||<#009CFF><:> 에리두 ||<#009CFF> 2:05 ||
+||<#0000FF> {{{#white '''31'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=NfskeV1pyiI&index=31&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|멀어져가는 대지]] ||<#009CFF><:> 離れゆく大地[[br]]Stratosphere ||<#009CFF><:> 바벨 ||<#009CFF> 1:23 ||
+||<#0000FF> {{{#white '''32'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=Vor1JNOiGms&index=32&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|하늘에 떠있는 다리]] ||<#009CFF><:> 離れゆく大地[[br]]Stratosphere ||<#009CFF><:> 비 내리는 다리 ||<#009CFF> 1:55 ||
+||<#0000FF> {{{#white '''33'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=ieqOrd5rRyY&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=33|고천의 지배자]] ||<#009CFF><:> 高天の支配者[[br]]Commander ||<#009CFF><:> 시덴의 테마 ||<#009CFF> 1:31 ||
+||<#0000FF> {{{#white '''34'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=rEPRy__zxbo&index=34&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|인광연무]] ||<#009CFF><:> 燐光演舞[[br]]Nova, the Mighty ||<#009CFF><:> 시덴 전(1차) ||<#009CFF> 3:00 ||
+||<#0000FF> {{{#white '''35'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=lNPXoV4B5HQ&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=35|채워지는 신기]] ||<#009CFF><:> 満ちる神気[[br]]Holy Trinity ||<#009CFF><:> 시덴의 각성 ||<#009CFF> 1:05 ||
+||<#0000FF> {{{#white '''36'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=RSeSjBgppqI&index=36&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|마지막 심판]] ||<#009CFF><:> 最終審判[[br]]The Final Judgment ||<#009CFF><:> 시덴 전(2차) ||<#009CFF> 1:05 ||
+||<#0000FF> {{{#white '''37'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=bDJlY7ci4Ec&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=37|찾아온 악몽]] ||<#009CFF><:> 訪れる悪夢[[br]]Despair ||<#009CFF><:> 배드 엔딩 ||<#009CFF> 1:50 ||
+||<#0000FF> {{{#white '''38'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=kvtak54GI-0&index=38&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|전자의 물결이 되어]] ||<#009CFF><:> 電子の波となって[[br]]Restoration ||<#009CFF><:> 모르포의 테마 ||<#009CFF> 1:31 ||
+||<#0000FF> {{{#white '''39'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=zUg3Wy9sXPw&index=39&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|윤회]] ||<#009CFF><:> 輪廻[[br]]Reincarnation ||<#009CFF><:> 모르포의 노래(부활) ||<#009CFF> 1:24 ||
+||<#0000FF> {{{#white '''40'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=GiFBczog_lA&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=40|뇌정 충돌]] ||<#009CFF><:> 雷霆衝突[[br]]The Collision of Thunderstorms ||<#009CFF><:> 아시모프 전 ||<#009CFF> 2:31 ||
+||<#0000FF> {{{#white '''41'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=1yyvTYdKENc&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK&index=41|기나긴 밤의 여명]] ||<#009CFF><:> 長き夜が明ける[[br]]The End of the Long Night
+||<#009CFF><:> 진 엔딩 ||<#009CFF> 2:10 ||
+||<#0000FF> {{{#white '''42'''}}} ||<#009CFF> 삽입곡 메들리 ||<#009CFF><:> 挿入歌メドレー[[br]]추가 바람 ||<#009CFF><:> 없음 ||<#009CFF> 추가 바람 ||
+||<#0000FF> {{{#white '''43'''}}} ||<#009CFF> [[http://www.youtube.com/watch?v=3UFseLzltQE&index=42&list=PLNFxflsE6IYzcXj0ky7Pu7XcLcLpfWGHK|사쿠라자키 모터스 CM곡]] ||<#009CFF><:> 桜咲モータースＣＭ曲[[br]]Commercial Song for Sakurasa Motors ||<#009CFF><:> 없음 ||<#009CFF> 0:35 ||
+
+=== 창노인광 ===
+||<-4><#0000FF> {{{#white '''창노인광'''}}} ||
+||||||||http://www.4gamer.net/games/249/G024999/20141011005/TN/011.jpg?width=400||
+||<#0000FF><-5><:> {{{#white '''상세'''}}} ||
+||<#0000FF> {{{#white '''명칭'''}}} ||<#009CFF><-2><:> 蒼乃燐光 ||
+||<#0000FF> {{{#white '''발매일'''}}} ||<#009CFF><-2><:> 2014년 11월 12일 ||
+||<#0000FF> {{{#white '''개발사'''}}} ||<#009CFF><-2><:> 인티 크리에이츠 ||
+||<#0000FF> {{{#white '''유통사'''}}} ||<#009CFF><-2><:> 인티 크리에이츠 ||  
+||<#0000FF> {{{#white '''프로듀서'''}}} ||<#009CFF><:> 야마타 잇포[[br]]카와카미 료 ||
+||<#0000FF> {{{#white '''보컬'''}}} ||<#009CFF><:> 사쿠라가와 메구 ||
+
+건볼트 두 번째 사운드트랙이자 최초의 보컬 컬렉션. 
+
+건볼트의 등장인물인 [[모르포]]의 노래를 풀 버전으로 리마스터링한 것으로, 담당 보컬은 모르포의 성우인 [[사쿠라가와 메구]]. 예약 구매한 순서대로 17일부터 배송되었는데, 꽤나 기대했던 사람들이 많았던 모양인지 물량 부족 상황이 벌어지기도 했다. ~~사스가 진 히로인.~~ 
+
+사실, 이 사운드트랙은 일본이 아닌 '''국내'''에서 최초로 배포되었는데, [[이나후네 케이지]]를 비롯한 건볼트 개발진들이 내한 방문에서 행사 추첨으로 선사한 경품이 바로 이거다. 11월 8일에 행사가 개최되었으므로, 정식 발매일이 11월 12일이란 걸 생각하면 사실상의 '''초반 한정본'''인 셈. ~~그러니까 우리는 이나후네 씨에게 넙죽 절이라도 해야 합니다.~~
+
+트랙 순서를 쓰는 [[갖은자|한자가 다르게 표기된 것]]이 특이점. 또한, 소책자에 [[시덴(푸른 뇌정 건볼트)|스메라기 대표]]가 [[http://bbs1.ruliweb.daum.net/gaia/do/ruliweb/detail/nds/read?articleId=7500665&bbsId=G001&itemId=82261&pageIndex=1|감사 인사문]]을 썼다는 식의 개그가 포함되어 있다(...). ~~약 팔지 마라!~~
+ 
+==== OST ====
+||<#0000FF><-5><:> {{{#white '''상세'''}}} ||
+||<#0000FF> {{{#white '''트랙'''}}} ||<#0000FF> {{{#white '''곡명'''}}} ||<#0000FF> {{{#white '''명칭'''}}} ||<#0000FF> {{{#white '''사용 시기 및 장소'''}}} ||<#0000FF> {{{#white '''길이'''}}} ||
+||<#0000FF> {{{#white '''壱'''}}} ||<#009CFF> [[푸른 경계]] ||<#009CFF><:> 蒼の彼方[[br]]Beyond the Blue ||<#009CFF><:> 모르포의 노래(스메라기 제1빌딩)  ||<#009CFF> 4:32 ||
+||<#0031FF> {{{#white '''弐'''}}} ||<#9DB7F5> [[http://www.youtube.com/watch?v=qbg2E4hAoH0|안개시계]] ||<#9DB7F5><:> 霧時計[[br]]Nebulous Clock ||<#9DB7F5><:> 모르포의 노래(제3 해저기지) ||<#9DB7F5> 4:35 ||
+||<#63009C> {{{#white '''参'''}}} ||<#9C63CE> [[http://www.youtube.com/watch?v=KTSen9v3uoE|홍색의 아지랑이]] ||<#9C63CE><:> 紅色カゲロウ[[br]]Rouge Shimmer ||<#9C63CE><:> 모르포의 노래(지하시설) ||<#9C63CE> 3:46 ||
+||<#CE0000> {{{#white '''四'''}}} ||<#FF6300> [[http://www.youtube.com/watch?v=KcQoPtFuGDY|추억의 심상]] ||<#FF6300><:> 追憶の心傷[[br]]Pain from the Past ||<#FF6300><:> 모르포의 노래(화학공장) ||<#FF6300> 3:38 ||
+||<#009C00> {{{#white '''伍'''}}} ||<#66cc66> [[http://www.youtube.com/watch?v=ogCTyhbQr-A|푸른 문]] ||<#66cc66><:> 碧き扉[[br]]Azure Door ||<#66cc66><:> 모르포의 노래(대전파탑 아마테라스) ||<#66cc66> 4:06 ||
+||<#CECE00> {{{#white '''六'''}}} ||<#CECE9C> [[http://www.youtube.com/watch?v=2IQ21t6NZNA|월세계항로]] ||<#CECE9C><:> 月世界航路[[br]]A Zip to the Moon ||<#CECE9C><:> 모르포의 노래(약리연구소) ||<#CECE9C> 4:00 ||
+||<#633100> {{{#white '''七'''}}} ||<#9C6331> [[http://www.youtube.com/watch?v=pYsmtOHFiyo|작열의 여행]] ||<#9C6331><:> 灼熱の旅[[br]]Scorching Journey ||<#9C6331><:> 모르포의 노래(데이터 뱅크 시설) ||<#9C6331> 3:18 ||
+||<#9C63FF> {{{#white '''八'''}}} ||<#CE9CFF> [[http://www.youtube.com/watch?v=OGzZS2eadWY|윤회]] ||<#CE9CFF><:> 輪廻[[br]]Reincarnation ||<#CE9CFF><:> 모르포의 노래(부활) ||<#CE9CFF> 3:41 ||
+
+각 곡에 대한 가사는 [[http://ruliweb.daum.net/nds/game/82261.daum|건볼트 게시판]]을 참고.
+
+=== 마이티 건볼트 ===
+인티 크리에이츠와 이나후네 케이지의 공동 작품으로, 푸른 뇌정 건볼트 최초의 팬 디스크. 현재까지 공개된 정보에 의하면 2개의 팬 디스크가 나뉘어져 있다. 여담이지만 게임 [[마이티 건볼트]]와 네이밍이 동일하다.
+
+==== 의심분노 ====
+https://pbs.twimg.com/media/B8kRpfpCEAETtHq.jpg?width=400
+
+일단 첫 번째로 공개된 팬 디스크. [[데이토나(푸른 뇌정 건볼트)|데이토나]]와 [[시덴(푸른 뇌정 건볼트)|시덴]]의 만남을 그린 드라마 CD에다 해외 프로모션 곡 'Eternal Blue' [* [[푸른 경계]]를 영어로 번안한 곡.] 와 'The one'[* 윤회를 영어로 번안한 곡.], 모르포의 신곡인 앵화난만(櫻華爛漫)이 수록된다고 한다. 캐릭터 디자이너 하타케 야마의 신작 자켓이나 일러스트가 등재된 풀 컬러 소책자도 포함되어 있다. 발매일은 2015년 2월 25일.
+
+==== 평온에 대한 동경 ====
+http://www.4gamer.net/games/249/G024999/20150129117/TN/002.jpg?width=400
+
+두 번째로 공개된 팬 디스크. 히로인 [[시안(푸른 뇌정 건볼트)|시안]] 기억 속에 남는 페더의 일상을 그려낸 드라마 CD와 팬 이벤트에서 호평 받은 '인법', 아시모프와 모니카의 듀엣 곡 'Find Out! - 희망의 나침'이 수록되어 있다. ~~커플링 떡밥?~~ 그리고 시안의 메인 테마곡인 '소녀의 기도'를 보컬 버전으로 어레인지한 보컬 곡 '청사진'이 포함되어 있다.
+
+[[각주]]

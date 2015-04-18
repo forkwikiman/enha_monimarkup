@@ -1,0 +1,79 @@
+{{{#!HTML
+<iframe width="480" height="360" src="http://www.youtube.com/embed/_y50XznjCsE" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX TECHNIKA 3]] ||
+|| 장르 || R&B Slow ||
+|| 작곡 || [[3rd Coast]] ||
+|| 보컬 || So Fly ||
+|| 랩 || JC ||
+|| BPM || 123 ||
+|| BGA || Sagwanamu(원화), jo jeong joo(모션) ||
+
+[[Fallin' in LUV]]와 함께 [[3rd Coast]]가 [[DJMAX TECHNIKA 3]]에 신곡으로 참여한 곡.
+
+약칭은 '''마핫마솔'''.
+
+장르는 R&B Slow라고 되어있지만, 실제로는 [[Luv is True]]와 같은 약간의 하우스풍과 R&B적 창법이 약간 가미된 팝 쪽에 가깝다. [[DJMAX TECHNIKA]] 수록곡이었던 [[Closer]]와, 포터블 3곡인 [[Luv is True]]의 느낌을 반반 섞은 듯한 전형적인 3rd Coast풍 곡.
+
+여담이지만 [wiki:"DJMAX TECHNIKA 2" 전작]의 [wiki:"Sweet Dream" 어떤 덕곡]과 비슷하게, 후반부에 반복되는 코러스 보컬에 [DJMAX 시리즈]에 등장하는 다른 곡들의 이름이 계속 반복된다는것이 특징 아닌 특징. [[In My Heart]]야 말할 것 없고, In My Soul은 [[DJMAX 온라인]] 수록곡인 [[Save My Dream]]의 원제다.
+
+[[Voyage]]의 비주얼을 담당했던 Sagwanamu가 제작한 비주얼이 뛰어난 색감으로 대호평. 특유의 깔끔하면서도 예쁜 디자인의 아이캐치는 일반판 카드로도 나왔는데, 마치 전작의 [[Dual Strikers]]처럼, 전혀 덕스러운 이미지가 아님에도 불구하고 인기가 좋은 편. --[[wiki:"Dark Prism"하지만 이 사람이 그린 다른곡 BGA는....]]--
+
+[[탭소닉 링스타]]에서 밝혀진 BGA의 주인공 캐릭터의 이름은 '사각머리'(…)이다. 게다가 설명은 '[wiki:"홍익대학교" 홍대]에서 라이브하는 정체불명의 생명체'(……) --개발자들의 괴악한 센스를 엿볼 수 있다.--
+
+== [[DJMAX TECHNIKA 3]] ==
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/byOetJ4YnYQ" frameborder="0" allowfullscreen>
+</iframe>
+}}}
+NM 패턴 영상
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/He9_D5DEd4A" frameborder="0" allowfullscreen>
+</iframe>
+}}}
+HD 패턴 영상
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/_kHzac0cjpQ" frameborder="0" allowfullscreen>
+</iframe>
+}}}
+MX 패턴 영상
+
+|||||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 스크롤 || 비고 ||
+||<#FFB0B0> Star || C || 375 Max || 4 || || ||
+||<#FFFF00> Normal || C || 375 Max || 1 || 8박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || B || 1250 Max || 6 || 4박 스크롤 ||[[Rainbow Voyage Set]] 상위 보스곡, [wiki:"Labyrinth(DJMAX)"미션 - Disillusion] 수록 ||
+||<#FF0000> Maximum || A || 3000 Max || 7 || 4박 스크롤 || [wiki:"Masterpiece(DJMAX)"미션 - 3rd Coast Harmony] 수록 ||
+
+
+11월 3일 현재 노멀 패턴은 팝 믹싱에서, 하드 패턴은 [[Rainbow Voyage Set]]에서 플레이할 수 있다.
+
+노멀 패턴은 레벨 1 답게 처음 하는 사람도 쉽게 클리어가 가능할 정도로 매우 쉬운 패턴. 하드 패턴의 경우는 다른 곡들에서 보기 힘든 특이패턴이 많이 등장하는 편이지만 뻔히 보이는 패턴이기 때문에 역시 해당 레벨대에서도 어려운 편은 아니다. 다만 노트수가 꽤 많은 곡임에도 불구하고 보라노트가 하나도 사용되지 않았다는 것이 특이점.
+
+6월 26일 [wiki:"Masterpiece(DJMAX)"Masterpiece] 미션팩을 통해 공개된 MX패턴은 기본적으로 하드패턴을 베이스로 하여 노멀패턴의 키음을 추가적으로 얹은 형태로, 보라노트와 드래그 노트의 비중을 늘린 형태이다. 2박 보라 사이에 끼어있는 2중 긁기가 인상적인 패턴으로, 애매한 박자의 노트도 많아 노멀,하드와는 달리 어느정도 난이도 있는 패턴. 
+
+== [[DJMAX TECHNIKA TUNE]] ==
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 1 || ||
+||<#0000FF> {{{#white POP}}} || 2 || ||
+||<#FF0000> CLUB || 5 || [[Love-a-Round Set]] 셀렉곡 ||
+
+
+== [[DJMAX RAY]] ==
+
+|||||||||| [DJMAX RAY]의 Dramatic 팩 수록곡 ||
+|| '''My Heart, My Soul''' || [Supersonic ~Mr.Funky Remix~] || [[Leave me alone]] || [[Ventilator]] || ["Secret(DJMAX)" Secret] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 2 || ||
+||<#0000FF> {{{#white HD}}} || 5 || ||
+||<#FF0000> MX || 7 || ||
+
+[추가바람]

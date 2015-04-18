@@ -1,0 +1,27 @@
+ * 상위 항목: [[EZ2ON]]
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/_RLzrSqjaKA?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/_RLzrSqjaKA?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+'''[[EZ2ON]] T-Emotion BGA'''
+
+|| 장르 |||||||| [[트랜스(음악)#s2|Trance]] ||
+|| 곡명 |||||||| T-eMotion ||
+|| 작곡 |||||||| [[SHK]] ||
+|| 배경 |||||||| [[Lepusnette|Catena]] ||
+|| BPM |||||||| 추가바람 ||
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||| ? ||
+|||||||||| 모드별 레벨 데이터 (이지투온 기준) ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD (8K)}}} ||
+||<#FF0000> Ruby Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#00ff00> Street Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#0000ff> Club Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+
+[[목차]]
+== 개요 ==
+EZ2ON 오리지널 악곡으로, 게임 내에서는 최고 난이도 패턴이 13~14 정도인 중간급 난이도의 곡이었다. 패턴이 쉬워서 곡이 묻힌 측면이 있었다.
+
+이 곡의 런타임은 1:30대로 상당히 짧은 편이다.
+
+BGA는 Lepusnette가 처음으로 EZ2ON에 발표한 작품이다. 당시에는 Catena라는 이름을 사용했다. 이후 [[Gray Hunter]]에서도 Catena 명의로 BGA에 참가했다. 그는 [[Sabin Sound Star]], [[EZ2DJ BONUS EDITION]] 등의 개발에 참여한 이후 EZ2ON Reboot에서 메인 디자이너로 활약하고 있다.

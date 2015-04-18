@@ -1,0 +1,62 @@
+'''空色デイズ'''. 소라이로데이즈.
+
+[[목차]]
+
+== 개요  ==
+http://ecx.images-amazon.com/images/I/51sragvWchL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='YtxRu3bRDec$' width='640px' height='480px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=YtxRu3bRDec$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=YtxRu3bRDec$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+PV 영상
+
+[[천원돌파 그렌라간]]의 오프닝곡. 노래는 [[나카가와 쇼코]]. 작사는 meg rock. 작곡은 사이토 신야. 
+기타로 연주한 락(rock)계열의 노래로, 작품의 스토리와 잘 어우리진 가사와 혼을 흔드는 나카가와 쇼코의 가창력~~과 싼티나는 뮤직비디오가~~ 특징이다. 이 곡이 상당한 인기를 끌면서, 나카가와 쇼코는 2007년 [[홍백가합전]]에 사상 처음으로 출전할 수 있었다.
+
+작중 1~2부에 해당하는 분량에서는 1절이 쓰였으며, 3~4부에 해당하는 분량에는 2절이 쓰였다. 그 외에 최종화 안티 스파이럴과의 전투 장면에서도 이 곡의 풀 버젼[* 풀 버젼 트랙을 그대로 쓰진 않고 연주곡와 보컬곡을 혼용했다. ]을 사용했는데, 그야말로 압도적인 연출.
+
+참고로, 이 싱글음반의 2번곡은 [["천원돌파 그렌라간/주제가" Happily ever after]]이다.
+
+극장판에서는 '천원돌파 에디션'이라는 이름을 달고 약간 편곡되어서 나온다.
+
+[[엔도 마사아키]]의 커버곡 앨범 '''ENSON'''에 커버곡이 수록되어 있다.
+[[아이돌 마스터]]의 [[아키즈키 리츠코]]도 [[wiki:"MASTER ARTIST 2#s-1.14" MASTER ARTIST 2 -SECOND SEASON-]]에서 커버로 불렀다. 
+
+~~[[GOSICK]][http://gall.dcinside.com/list.php?id=anigallers&no=189553&page=1&search_pos=-185242&k_type=0110&keyword=%EA%B7%B8%EB%A0%8C&bbs= 의 오프닝에도 사용되었다.]~~
+
+[[금영노래방]]에는 42484번, [[태진노래방]]에는 26553번으로 수록되어 있다.
+
+
+== [[리듬게임]]에 수록 ==
+리듬게임에는 [[유비트 시리즈]], [[기타프릭스]]&[[드럼매니아]], [[아스트로레인저]]에 수록되어 있다.
+
+[[BEMANI 시리즈]]에서는 커버 보컬로 수록되었다. 커버 보컬은 [[mao]]. mao의 목소리가 허스키해서인지 원곡의 [[나카가와 쇼코]]와 괴리감이 상당하다.
+
+=== [[유비트 시리즈]] ===
+attachment:2_ripples_sorairo.png
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>8||
+||<#000000><:>{{{#white 노트수}}}||<:>206||<:>332||<:>515||
+||<#000000><:>{{{#white BPM}}}||||||<:>174||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#65bfb0><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 리플즈]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>music pack 03||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/grMWa5Z5Pmo" frameborder="0" allowFullScreen></iframe>
+}}}
+EXT 보면 영상
+
+초반과 후반은 대칭 연타. 보컬부분은 보컬/배경음에 맞춰서 눌러주면 되는 쉬운 보면. 중반의 '하테시나이 소라노이로모 시라나이데~'와 후렴구 사이의 부분 패턴이 상당히 까다로우며. 처음하는 사람은 당황하다가 이부분을 그레이로 날리기 일쑤.
+4+10+11->3->2->1+14->5+15의 순서로 먼저 친다. 그 이후로는 박자에 맞춰서 연타.
+
+이 부분만 빼면 어려운 부분은 거의 없다.
+
+=== [[기타프릭스&드럼매니아]] ===
+[[기타프릭스&드럼매니아]] XG와 V7에 수록되었다. [[추가바람]]

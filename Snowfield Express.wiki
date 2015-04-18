@@ -1,0 +1,65 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[기타프릭스&드럼매니아]] 유저들에게 익숙한 [[TIME CAPSULE Lab.]]의 [[팝픈뮤직]] 첫 참여곡이자 기타드럼 시리즈 이외의 첫 참여곡으로, 빠른 템포의 질주감있는 퓨젼곡이다.
+
+덤으로 기타드럼에서 나오고 있는 시리즈 노래(XG/V7의 [[photon]]을 필두로 하는 분자 시리즈와 GITADORA의 [[Jasper]]를 필두로 하는 광석 시리즈 등)에 해당되지 않는 유일한 노래이기도.
+
+설산에서 보딩하고 있는 캐릭터가 나온 자켓때문에 국내에서의 별명은 [[보딩고지]](...)
+
+== [[팝픈뮤직]] ==
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/152sNFeGmkE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/152sNFeGmkE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+>透明感あふれるピアノとシンセが高速で滑り降りる新感覚フュージョン!
+>투명감 넘치는 피아노와 신디음이 고속으로 미끄러지듯 새로운 감각의 퓨전!
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music[[BR]]Sunny Park || SPUR FUSION[[BR]]스펄 퓨전 || Snowfield Express[[BR]]스노우필드 익스프레스 || TIME CAPSULE Lab. || OLLIE[* 스케이트보드 관련 단어 [[wiki:"스케이트보드#s-3.2" 알리]]에서 이름을 딴 듯 하다.][[BR]]올리 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<:><:> 188 || 50단계 || {{{#blue --}}} || {{{#green 25}}} || {{{#orange 39}}} || {{{#red 44}}} ||
+|||| 노트수 || {{{#blue --}}} || {{{#green 269}}} || {{{#orange 872}}} || {{{#red 1119}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+서니파크의 통상 해금곡.
+
+EX패턴은 등장 당시 레벨 46이었는데, 8비트 패턴을 중심으로 잔노트가 섞인 패턴. 동 레벨대에 비해 동시치기, 계단 모두 쉬운편. [[후살]]도 없다. 체감 난이도는 '''46 최하'''. 대부분 유저들에게 [[물렙곡]], 46입문곡이라고 평가 받다가 [[팝픈뮤직 라피스토리아]]에서 '''44'''로 강등되는 굴욕을 겪었다(...).
+== [[유비트 시리즈]] ==
+http://d3j5vwomefv46c.cloudfront.net/photos/large/777685104.jpg
+자켓 우측 상단을 자세히 보면 올리가 그려져있다.
+
+||<:><#c7faff> '''[[미미냐미·코타로의 플라잉 캐치!]]''' ||
+|| [[リメンバーリメンバー]] ||
+|| ▼ ||
+|| '''Snowfield Express''' ||
+|| ▼ ||
+|| [[黒髪乱れし修羅となりて]] ||
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>6||<:>9||
+||<#000000><:>{{{#white 노트수}}}||<:>220||<:>392||<:>702||
+||<#000000><:>{{{#white BPM}}}||||||<:>188||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>[팝픈뮤직|pop'n music]] pack 1||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+관련 칭호
+ * [[유비트 소서]]
+  * '''走る'''[* 굵은 글씨는 칭호 파츠.]より楽しい(달리는 것보다 즐거운) : 모든 보면 클리어
+  * 超スピードで走り抜けた'''銀世界'''(초스피드로 달려가는 은세계) : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+ * [[wiki:"미미냐미·코타로의 플라잉 캐치!" 연동곡 목록으로 돌아가기]]
+
+[[미미냐미·코타로의 플라잉 캐치!]] 연동 이벤트로 이식 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/0f_wzftfhfE" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+이번 이벤트 연동곡 중에서 레벨 9의 중하급 포지션에 속해 있으나, 중간에 88 배치를 깨는 두 번의 상하 배치(위의 동영상 기준 1:26, 1:36), 그리고 초반을 지나서 중간 중간에 나오는 폭타에 유의하면 풀콤보와 스코어링을 동시에 잡을 수 있다.

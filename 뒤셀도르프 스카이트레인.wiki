@@ -1,0 +1,29 @@
+ * [[대중교통 관련 정보]]
+
+{{{+1 Düsseldorf Skytrain}}}
+
+http://laborbehr.com/duesseldorf_skytrain.jpg
+
+[http://www.dus.com/dus_en/b_skytrain 홈페이지]
+
+[[목차]]
+== 개요 ==
+[[독일]] [[노르트라인-베스트팔렌]]주 [[뒤셀도르프]]에 설치된 현수식 [[모노레일]].
+
+[[지멘스]]가 [[턴키]] 방식으로 수주해서 건설한 SIPEM('''Si'''emens '''Pe'''ople '''M'''over)을 [wiki:"뒤셀도르프 국제공항" 공항 터미널]과 [wiki:"뒤셀도르프 국제공항역" 장거리역] 사이에서 운영한다. 차량 운행은 완전 자동이다. 이것과 똑같은 물건이 [[도르트문트 H반]]으로도 설치되었는데, SIPEM이 딱 이 두 군데에만 설치되고 이후로 주문이 안 들어와서 [[망했어요]].
+
+차량은 2량 1편성으로 총 9.2 미터. 승차 정원은 좌석 15명, 입석 32명이다.
+
+생긴건 무료처럼 생겼고 실제로 이것만 돈 내고 타는 사람이 없어서 그렇지 이거 유료다(…) VRR 운임 적용대상이기 때문에 유효한 VRR 승차권이나 NRW-Tarif 승차권, [[독일철도]] City Plus나 [wiki:"즐거운 주말 티켓" Schöne Wochenende Ticket] 등 시내교통이 커버되는 승차권, 공항 주차장 주차권, 또는 당일자 뒤셀도르프 국제공항 전망대 입장권을 가지고 있으면 무료로 탈 수 있다. 일부 항공권에는 스카이트레인 운임이 포함된 경우도 있다. 아니면 표를 사야 한다. ~~그런데 시내에서 공항까지 오는데 S반도 안 타고 버스도 안 타고 차도 안 몰고 오면 도대체 어떻게 올 수 있지? [wiki:"물 같은걸 끼얹나" 행군 같은걸 끼얹나?]~~
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/oAYyphyOKvo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+== 노선 ==
+http://www.h-bahn.info/images/skytrain_strecke.gif
+
+|| 역명 || 환승 가능 노선 ||
+|| 터미널 C[[br]]Flugsteig C || [wiki:"라인-루르 S반" S11] ||
+|| 터미널 A, B[[br]]Flugsteig A, B || [wiki:"라인-루르 S반" S11] ||
+|| 주차장 P4/P5[[br]]Parkhaus P4/P5 || ||
+|| [[뒤셀도르프 국제공항역]][[br]]Bahnhof Düsseldorf Flughafen || attachment:/Thalys-small.png [wiki:"탈리스" Thalys][[br]]attachment:/DBbahn-small.png [wiki:"인터시티익스프레스" ICE], [wiki:"인터시티" IC][[br]]RE 1, RE 2, RE 3, RE 5, RE 6, RB 35, [wiki:"라인-루르 S반" S1] ||

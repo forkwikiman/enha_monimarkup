@@ -1,0 +1,30 @@
+||본 항목은 [[데빌즈 새크리파이스]], [[Devilz Sacrifice]]로 들어올 수 있습니다.||
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[Devilz Staircase]]의 후속곡으로 작곡가는 [[OSTER project]]다. 제목에 있는 "贖罪の羊"은 Devilz Sacrifice와 연결해서 해석하면 악마를 위한 제물이라는 말이다. [[wiki:"Devilz Staircase"전작]]과 비슷한 심포닉 게열의 음악이다.
+
+[[beatnation RHYZE vs HARDCORE TANO*C]] 앨범에 롱 버전이 수록되었다.
+ 
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| SYMPHONIC BREAK BEATS[[BR]]심포닉 브레이크 비트 || [[BPM]] |||| 175 ||
+|| 전광판 표기 ||||||||||||||<#454545> '''{{{#FF5A00 DEVILZ SACRIFICE -SCAPEGOAT-}}}''' ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 5}}} || {{{#blue 489}}} || {{{#orange 9}}} || {{{#orange 927}}} || {{{#red 11}}} || {{{#red 1265}}} ||
+|| [[더블 플레이]] || {{{#blue 6}}} || {{{#blue 497}}} || {{{#orange 8}}} || {{{#orange 922}}} || {{{#red 11}}} || {{{#red 1224}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[롱노트|차지 노트]] 채용
+ * [[아케이드]] 수록 : [[beatmania IIDX 21 SPADA|21 SPADA]] ~ 
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/KcjSJRy8B1s" frameborder="0" allowfullscreen></iframe>
+}}}
+
+SPA 영상
+
+싱글 어나더는 계단, 세로연타, 트릴, 동시치기등 다양한 요소를 갖춘 종햡 채보로 그중에서 특히 계단이 중심이 된다. 11레벨 에서는 중간 정도의 난이도를 보여준다.
+
+여담으로 싱글 노말은 스파다 당시에는 4레벨 이였는데 16분 계단 트릴에다가 8분 간격의 異색 동시치기 같은 4레벨에서 나올 수 없는 흉악한 난이도를 보여줬고 결국 펜듀얼에서 5레벨로 상향됐다. S랜걸면 이게 5렙인지 8렙인지 모를 난이도를 자랑한다.

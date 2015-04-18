@@ -1,0 +1,51 @@
+||<-2><#93DAFF><:> '''GuitarFreaks & DrumMania XG3 EXTRA RUSH'''||
+||<#FFA500> EXTRA 1 || '''[[Brown blizzard]]''' ||
+||<#FFA500> EXTRA 2 || '''[[Snowy India]]''' ||
+||<#FFA500> EXTRA 3 / ENCORE 1 || '''[[Genesis Creation Narrative]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 2 || '''[[Predator's Crypto#s-1|Predator's Crypto Pt.1]]''' ||
+||<#FFA500> EXTRA 5 / ENCORE 3 || '''Hard distance''' ||
+||<#FFA500> EXTRA 6 / ENCORE 4 || '''[[Xenon]]''' ||
+||<#FFA500> EXTRA 7 / ENCORE 5 || '''[[Eastern Lariat]]''' ||
+||<#FFA500> EXTRA 8 / ENCORE 6 || '''[[Predator's Crypto#s-2|Predator's Crypto Pt.2]]''' ||
+||<#082567> {{{#white ENCORE 7}}} || '''[[MODEL DD10]]''' ||
+||<#800080> '''{{{#white CLIMAX}}}''' || '''[[overviews]]''' ||
+
+attachment:/harddistance.jpg
+
+|||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"드럼매니아&기타프릭스/XG" XG 시리즈] 난이도 체계 ||
+|||||||||||||| 난이도 ||
+||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 4.60}}} || {{{#orange 6.50}}} || {{{#red 7.60}}} || {{{#purple 8.20}}} ||
+|| 기타 베이스 || {{{#blue 4.50}}} || {{{#orange 5.60}}} || {{{#red 6.80}}} || {{{#purple 8.10}}} ||
+|| 드럼매니아 || {{{#blue 3.40}}} || {{{#orange 6.10}}} || {{{#red 7.30}}} || {{{#purple 8.00}}} ||
+
+>짧은 곡이지만, 전개도 있고 재미있는 곡이 완성되었다고 생각합니다.
+
+>변박자입니다.
+
+2012년 4월 18일 Extra Level 4에서 앙코르 스테이지에 등장했다. 작곡은 [[발키리 프로파일]], [[스타오션]] 시리즈, [[테일즈 시리즈]]를 비롯한 여러 게임 음악의 작곡, 편곡을 한 작곡가 사쿠라바 모토이.
+
+곡 자체는 18일에 등장했지만 그 전에 스태프 블로그를 통해 미리 곡의 정보가 알려졌고, 사쿠라바 모토이의 참전 소식에 그 어느 때보다 많은 기대를 모았다. 사쿠라바 모토이의 [[비마니 시리즈]] 곡 제공은 처음이지만 [[오토메디우스]]에서 음악 몇 곡을 다룬 바 있다.
+
+곡이 공개된 후엔 사쿠라바'다운' 좋은 곡이라는 평이 많다. 다만 위의 게임들을 통해 이미 알려질 대로 알려진 작곡가인 만큼 좋긴 하지만 너무 그다운 무난한 음악이어서 아쉽다는 느낌을 받는 팬들도 있는 모양. 
+
+음악과 더불어 배경의 전용 스테이지도 호평이다. 이 정도 수준이라면 그나마 BGA가 없어진 것을 납득할 만하다는 반응이지만 문제는 XG3 가동 이후 이런 식의 전용 스테이지에 대한 호평은 거의 처음 나오는 반응이라는 것(...)
+
+{{{#!html
+<object width="600" height="335"><param name="movie" value="http://www.youtube.com/v/uTCSzlRry8Q?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/uTCSzlRry8Q?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="335" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 기타 표준/베이스 {{{#red 익스퍼트}}}
+
+{{{#!html
+<object width="600" height="335"><param name="movie" value="http://www.youtube.com/v/k66AHQwQVOs?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/k66AHQwQVOs?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="335" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}} 
+▲ 기타 표준/베이스 {{{#purple 마스터}}}
+
+기타는 딱 잘라 말하면 '''사기'''. 특히 표준 마스터의 경우 16분, 24분으로 홀, 짝을 번갈아가며 나오는 속주와 바쁜 운지변환 덕에 최소 8 후반대의 난이도로 느껴질 만한 패턴이다. 베이스는 익스퍼트가 주의를 요하며 마스터는 그럭저럭 적당.
+
+{{{#!html
+<object width="600" height="335"><param name="movie" value="http://www.youtube.com/v/XIRrqMkIvq0?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XIRrqMkIvq0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="335" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 드럼 {{{#orange 레귤러}}}/{{{#red 익스퍼트}}}/{{{#purple 마스터}}}
+
+드럼은 기타처럼 표기 난이도가 엉망이라든가 하는 패턴 없이 모두 적절하다. 그런데 7.30의 익스퍼트와 8.00의 마스터가 레프트 페달 몇개를 빼면 [wiki:"틀린그림찾기"뭐가 다를까] 싶을 정도로 비슷해 힘들게 마스터 패턴으로 앙코르에 진출한 보람을 느낄 수 없다는 평.

@@ -1,0 +1,64 @@
+[[BEMANI 시리즈]]의 수록곡. [[BeForU]]의 노래로, 작곡은 [[NAOKI]]. 보컬은 [[코사카 리유]].
+
+이 후 BeForU와의 관계가 멀어졌을 때에도 삭제되지 않고 생존한 몇 안되는 노래이기도 하다.
+
+[[목차]]
+
+=== 기타프릭스 & 드럼매니아 ===
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/cdCwOziOmig" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 185 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 17}}} || {{{#orange 31}}} || {{{#red 61}}} ||
+|| 기타 오픈픽 || {{{#green 15}}} || {{{#orange 45}}} || {{{#red 67}}} ||
+|| 기타 베이스 || {{{#green 18}}} || {{{#orange 29}}} || {{{#red --}}} ||
+|| 드럼매니아 || {{{#green 26}}} || {{{#orange 43}}} || {{{#red 68}}} ||
+
+|||||||||||||| [GITADORA] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 185 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 3.55}}} || {{{#orange 4.80}}} || {{{#red 7.00}}} ||
+|| 기타 베이스 || {{{#blue 2.90}}} || {{{#orange 4.60}}} || {{{#red 5.40}}} || 
+|| 드럼매니아 || {{{#blue 3.60}}} || {{{#orange 5.70}}} || {{{#red 6.80}}} || 
+
+기타프릭스 9th & 드럼매니아 8th에 첫 수록되었다. XG 시리즈엔 XG3에 이식.
+
+== [[팝픈뮤직]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/S1CqrAAQZOU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+大人気のあの曲がポップンで楽しめるよ、やったね！
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 캐릭터 ||
+|| pop'n music 10[[br]]([[ee'MALL]] 2nd avenue) || GIRLS ROCK EXTREME[[br]]걸즈 락 익스트림 || チカラ[[br]]치카라 || BeForU || Bis子[[br]]비스코 ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 185 || 43단계 || {{{#blue 14}}} || {{{#green 17}}} || {{{#orange 30}}} || {{{#red 39}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 23}}} || {{{#orange 36}}} || {{{#red 45}}} ||
+|||| 노트수 || {{{#blue 374}}} || {{{#green 408}}} || {{{#orange 728}}} || {{{#red 1004}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+ee'MALL 2nd를 통해 이식되었으며 15 어드벤처에 통상해금.
+
+== [[댄스 댄스 레볼루션]] ==
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/e86Fe-udQ78" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 10}}} ||
+||<|3><:> 185|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 4}}} || {{{#red 9}}} || {{{#green 13}}} ||
+
+SuperNOVA에 이식되었다. 싱글은 그냥저냥한 양산형 패턴이나, 더블쪽은 싱글보다 난이도도 3이나 더 높고 영상에서 보다시피 막강한 후살이 존재한다. 특히 VOLTAGE의 수치가 111이기 때문에 족룡[* 모든 그래프의 수치가 100일때 받을수 있는 칭호] 작을 하려는데 [New Decade] BDP나 [Elemental Creation] BDP의 저속에 약한 유저라면 [Across the Nightmare] EDP와 함께 많이 찾는 패턴이다.

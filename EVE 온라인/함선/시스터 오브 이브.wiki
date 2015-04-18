@@ -1,0 +1,65 @@
+[[include(틀:EVE 온라인/함선)]]
+ * 상위 항목 : [[EVE 온라인/함선]]
+
+[[목차]]
+
+attachment:"EVE 온라인/함선/soe2.png"
+시스터 오브 이브 (Sisters Of Eve, 이브 수녀회)
+
+2013년 추가된 팩션 함선.
+해적 카테고리지만, 사실 해적은 아니다. 공통적으로 탐사 보너스가 붙어있고 프리깃과 크루저는 코버트 옵스를 장착할수 있으며, 배틀쉽의 경우 리모트 리페어와 관련해서 보너스가 있다. 아머탱과 드론이 주가 되며, 특히 드론 베이가 동급 함선과 비교해서 매우 높은게 특징. 또한 민첩성이 좋지만 최고속도는 낮은편. 스킬 요구는 아마르(아머 저항 보너스) + 갈란테(드론 보너스)
+
+여타 다른 팩션 함선처럼 LP샵에서 구입 가능하고 하이섹 성계에도 에이전트가 있으니 하이섹 미션을 통하여 LP를 모을 수도 있다. 단 하이섹 LP샵은 가격이 150%라는건 함정.
+또한 로그드론이 가끔 Drone Nexus Chip라는 아이템을 드랍하는데, SOE 스테이션에서 함선BPC로 교환할 수 있다.
+
+== 프리깃 (Frigate) ==
+=== 아스테로 (Astero) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Astero'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Astero1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_small.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_exploration.png" attachment:"EVE 온라인/함선/isis_drones.png" attachment:"EVE 온라인/함선/isis_armor.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''2 High''' ||<width=25%><:> '''4 Medium''' ||<width=25%><:>'''4 Low'''||<width=25%><:> '''2 Turret''' ||
+||<-4><:> '''25 드론 밴드위스 / 75 드론베이 / 312 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Amarr Frigate III, Gallente Frigate III ||
+||<-4>'''롤 보너스'''[[br]]　 클로킹 모듈 CPU 사용량 100% 감소 [[br]]　 스캔 프로브 강도 37.5% 증가 [[br]]　 아날라이저 바이러스 강도 10 증가 [[br]]　 코버트옵스 클로킹 사용 가능 [[br]]　 클로킹 딜레이 15초로 감소[[br]]'''Amarr Frigate 스킬 보너스 (레벨당)'''[[br]]　아머 저항 저항 4% 증가[[br]]'''Gallente Frigate 스킬 보너스 (레벨당)'''[[br]]　드론 체력 20% 증가||
+
+보다시피 코버트 옵스 클로킹 사용 가능에다가 스캔과 탐사 보너스가 주렁주렁 달려있어, 널섹 탐사용으로 매우 매우 인기가 좋은 함선. 게다가 드론베이도 프리깃치곤 크다
+
+
+== 크루저 (Cruiser) ==
+=== 스트라티오스 (Stratios) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Stratios'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Stratios1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_medium.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_exploration.png" attachment:"EVE 온라인/함선/isis_energyTurrets.png" attachment:"EVE 온라인/함선/isis_drones.png" attachment:"EVE 온라인/함선/isis_armor.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''5 High''' ||<width=25%><:> '''5 Medium''' ||<width=25%><:>'''5 Low'''||<width=25%><:> '''4 Turret''' ||
+||<-4><:> '''100 드론 밴드위스 / 400 드론베이 / 182 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Amarr Cruiser II, Gallente Cruiser II ||
+||<-4>'''롤 보너스''' 
+　미디움 에너지 터렛 옵티멀 50% 증가
+　스캔 프로브 강도 37.5% 증가 
+　아날라이저 바이러스 강도 10 증가 
+　코버트옵스 클로킹 사용 가능 
+　클로킹 딜레이 15초로 감소
+'''Amarr Cruiser 레벨당'''　
+　아머 저항 저항 4% 증가
+'''Gallente Cruiser 레벨당'''[[br]]　드론 데미지 및 체력 10% 증가||
+
+마찬가지로 코버트 옵스 클로킹이 사용 가능하고 스캔과 탐사보너스가 달려있다. 게다가 배틀쉽급에서나 볼수 있는 넉넉한 드론베이가 자랑~~근데 이것도 너프당한거다~~
+
+
+
+
+== 배틀쉽 (Battleship) ==
+=== 네스터 (Nestor) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Nestor'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Nestor1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_large.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_exploration.png" attachment:"EVE 온라인/함선/isis_support.png" attachment:"EVE 온라인/함선/isis_drones.png" attachment:"EVE 온라인/함선/isis_armor.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''7 High''' ||<width=25%><:> '''6 Medium''' ||<width=25%><:>'''6 Low'''||<width=25%><:> '''5 Turret''' ||
+||<-4><:> '''125 드론 밴드위스 / 500 드론베이 / 70 속도 / 5,000 쉽베이''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Amarr Battleship I, Gallente Battleship I ||
+||<-4>'''롤 보너스''' 
+　 라지 에너지 터렛 옵티멀 50% 증가 [[br]]　 스캔 프로브 강도 50% 증가 [[br]]　 아날라이저 바이러스 강도 10 증가 [[br]]　 리모트 리페어 수리량 50% 증가 [[br]]　 리모트 리페어 레인지 200% 증가 [[br]]'''Amarr Battleship 레벨당'''[[br]]　아머 저항 저항 4% 증가[[br]]'''Gallente Battleship 레벨당'''[[br]]　드론 데미지 및 체력 10% 증가||
+~~어디가 앞일까~~[* 해당 사진 기준으로 왼쪽이 앞면이다.]
+프리깃과 크루저처럼 코버트옵스 클로킹이 가능하지는 않고, 스캔, 탐사보너스가 달려있으며 로지스틱 보너스가 달려있다.
+또한 특이하게 쉽메인터넌스베이도 있는데, 용량이 5,000m3밖에 안해서 셔틀 한대밖에(...) 안들어가지만 우주에서 피팅서비스를 제공할 수 있다는게 중점
+
+

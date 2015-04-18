@@ -1,0 +1,51 @@
+'''앵화월상'''
+
+[[목차]]
+
+== 개요 ==
+attachment:OvertureSUWA.jpg?width=300
+해당 곡이 수록된 앨범의 자켓.
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/3U2WY3EAqE8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[동방 프로젝트]] 어레인지 곡. 원곡은 [[동방홍마향]]의 [[루미아]] 테마 곡 요마야행(妖魔夜行)이며 어레인지 및 작사는 源屋. 보컬은 3L이다. [[REDALiCE|ALiCE'S EMOTiON]]의 Overture ｜ SUWA란 앨범에 수록된 곡이다.
+
+== [[사운드 볼텍스]] 桜華月想 -SDVX EDIT- ==
+[[사운드 볼텍스 플로어]] '[[동방홍마향]] 리믹스곡 콘테스트'의 妖魔夜行 부문 당선곡이다. 기존 곡을 [[Grip & Break down !!]]이나 [[Earthquake Super Shock]]처럼 리메이크하였다. 해당 콘테스트 내에서는 [[INVITATION SIGN]]도 같은 경우.
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:桜華月想.jpg || attachment:桜華月想.jpg || attachment:桜華月想.jpg ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 08}}} || {{{#ff009f 12}}} ||
+|| 체인 수 || {{{#purple 0455}}} || {{{#orange 0688}}} || {{{#ff009f 1101}}} ||
+|| 일러스트 담당 || {{{#purple MOTOCO}}} || {{{#orange MOTOCO}}} || {{{#ff009f MOTOCO}}} ||
+|| 이펙터 || {{{#purple TAKUYA}}} || {{{#orange TAKUYA}}} || {{{#ff009f TAKUYA}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 16(2013.11.08)}}} ||
+|| [[BPM]] |||||| 138 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 02(2013.12.6 ~ 2014.1.10, 2014.3.6 ~ 2014.4.4, 2014.7.4 ~ 2014.8.1)
+
+||<#eeeeee>
+동방 어레인지 콘테스트, 어떻게 할까 고민한 결과 마음에 드는 곡의 업그레이드[* 원문은 ブラッシュアップ]를 하는 것으로 정했습니다!
+3L 씨의 노랫소리에, 요마야행의 어쩐지 동양적이고 슬픔이 있는 멜로디를 캐치한 하우스적 댄스 팝으로 했습니다!
+즐겨 주신다면 다행입니다!
+
+미나모토야였습니다!
+
+-당선자 코멘트-
+||
+
+자켓도 새로운 것으로 바뀌었다.
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/LF3PIGXJyfw" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PERFECT 영상.
+
+EXH 패턴은 간단해보이지만 의외로 상당한 복병. 클리어 레이트도 12레벨에서 최하위권이며, 위 영상의 37초 부근부터의 박자 맞추기가 매우 까다롭고 [[치르노의 퍼펙트 산수교실]]의 후반에 나오는 것과 같은 형태의 직각 노브도 주의해야 한다.[* 물론 그래도 12렙이라 산수교실처럼 중간중간에 BT 노트는 없다.]
+또 한가지 특이사항으로 EXH 패턴에 '''FX 롱노트가 한 개도 없다.'''

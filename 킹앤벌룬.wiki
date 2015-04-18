@@ -1,0 +1,15 @@
+King & Balloon
+attachment:/kingball.png
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/hsu3TOX4nU0?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hsu3TOX4nU0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[남코]]에서 1980년에 나온 [[슈팅 게임]]으로, [[갤럭시안]]과 [[갤러그]]의 과도기라고 할 수 있는 게임.
+
+왕을 호위하는 인간 대공포가 되어서 하늘에서 내려오면서 왕을 납치하려는 공수부대 풍선을 저지하고(그냥 내려오는 경우도 있으나, 3기가 합체하여 거대풍선이 되어 내려오는 경우도 있다.) 왕을 지켜야 하는 게임인데..
+
+그 당시의 전자오락 중에서는 몇 안되게 '[[음성지원]]'을 하는 게임이었다. 왕이 납치당하고 있을 때 왕이 '헬프! 헬프!' 하고 외치며 납치당하는 왕을 구했을 때 '땡큐~'라는 음성이, 그리고 결국 왕을 못 구했을 때 '바이바이' 라는 음성이 들린다.
+
+특이한 점은, [[잔기]]가 발사대가 아닌 '왕'이다. 그래서 발사대는 몇번이라도 터져도 되지만(당연히 부활까지 딜레이가 있다. 피격시 포가 반쪽으로 갈라진다.) 그 대신에 왕이 풍선에 납치당할 때 구하지 못하면 그 때에 잔기가 하나 줄어들게 된다.
+
+[[MSX]]로 이식. 당연히 MSX판에서는 음성이 나오지 않고 효과음 처리된다.

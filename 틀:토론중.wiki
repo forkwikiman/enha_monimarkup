@@ -1,0 +1,6 @@
+{{{#!html
+<div style="border: 3px solid orange;padding:10px;margin-bottom:0px"><b style="font-size:18px">토론 중인 문서입니다.</b>
+
+현재 의견 충돌로 <a href="http://wikibbs.net/wikibbs2015">위키 게시판</a>에서 토론이 이루어지고 있습니다. <b>최근 이 문서를 수정했거나, 수정을 원하시는 분은 <a href="http://wikibbs.net/wikibbs2015/@link@">이 링크</a>를 눌러 토론 글로 와주시기 바랍니다.</b></div>}}}
+##틀 사용시, 틀을 삽입할 항목에 [[Include(틀:토론중,link=게시글 번호)]]을 써주세요.
+##예시: [[Include(틀:토론중,link=1939247)]]

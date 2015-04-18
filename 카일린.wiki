@@ -1,0 +1,29 @@
+attachment:info.jpg?width=600
+== 개요 ==
+티젠스사에서 만든 음악용 음성합성 소프트, [보카리나]의 두번째 캐릭터 가수.
+[2012년] [7월 28일]에 이미지 캐릭터가 공개되었으며, 카일린 Beta는 보카리나 2.0과 함께 [8월 20일] 23시 21분에 공개되었다.
+[9월 18일]에 정식 버전 출시와 함께 유료화 되었다..
+
+[wiki:"VORA" 보라]와는 달리 이쪽은 티젠스사에서 만든 오리지널 캐릭터라서인지 프로필이 간소하다.
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/xiUmELlw5zQ?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/xiUmELlw5zQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+티저 영상(~~제목은 [수정바람]~~)
+
+8월 22일에 최초의 오리지날곡이 크리크루에 투고됐다[http://sesirine.crecrew.net/22901]
+[["VORA"보라]]와 달리 기계음이 사라진 확연한 차이가 보인다 ~~[보카리나]에 미래가 보인다!~~ 그러나 [ㅅ]발음 밀림 현상은 여전하다.
+
+=== 오리지널 곡 ===
+
+|| 제목 || 크리크루 || 보카리나 || 비고 ||
+||51가지의 행복한 이유 || 23002 || [http://www.vocalina.com/modules/movie/?process=view&idx=6333 6333] ||  ||
+||가로등불. || 23055 ||  || 보라와 듀엣 ||
+||눈꽃의 기다림 || 24915 || [http://www.vocalina.com/modules/movie/?process=view&idx=6433 6433] ||  ||
+||B114 || 24875 || [http://www.vocalina.com/modules/movie/?process=view&idx=6427 6427] ||  ||
+||Common Face Killer || 23613 || || ||
+||Hit the Bang || 25184 || [http://www.vocalina.com/modules/movie/?process=view&idx=6440 6440] || ||
+||I Tell You My Little Secret Part.3 인간 || 24746 || || ||
+||New Opening || 22901 || || 최초 오리지널 ||
+||Psycho Of Men || 24161 || || 보라와 듀엣 ||
+||Perfect || 25908 || [http://www.vocalina.com/modules/movie/?process=view&idx=6458 6458] || ||

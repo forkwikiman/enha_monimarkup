@@ -1,0 +1,156 @@
+attachment:Amiibo_logo.png?align=left
+
+attachment:Amiibo_Illust.jpg
+attachment:Amiibo_Group.jpg
+[[목차]]
+== 개요 ==
+[http://www.nintendo.co.jp/amiibo/index.html 일본 홈페이지]
+[http://www.nintendo.com/amiibo/ 북미 홈페이지]
+
+[[닌텐도]]에서 발매하는 [[게임]] 연동 [[피규어]] 시리즈. [[E3]] 2014에서 첫 공개되었으며, 2014년 말부터 발매되기 시작했다. [[콘솔]] 기기에 갖다 대는 것으로 여러가지 기능을 사용할 수 있다. 이것보다 앞서 나온 스카이랜더스나 [[디즈니 인피니티]]와 흡사한 개념이며, 닌텐도는 아미보 이전에도 Wii U의 초기 소프트인 포켓몬 스크램블에서 NFC 대응의 피규어를 사용한 바 있다. 이러한 시도는 다른 회사의 [[앵그리버드 시리즈]]의 텔레팟 기능[* 이건 다른 것들 처럼 칩이 달린 것이 아닌 카메라를 이용해 [[QR코드]]를 읽는 방식이다.]에서도 찾아볼 수 있지만, 미야모토 시게루는 2001년에 발매했던 카드e리더의 연장선상에서 아미보를 설명한 바 있다.
+
+이름의 유래는 친구를 뜻하는 [[스페인어]] [[아미고]](Amigo)와 파트너/짝꿍을 뜯하는 [[일본어]] 아이보(相棒)의 합성어. ~~아이고~~ ~~[[털실 커비 이야기]] 보스 아미보 아모레가 아니라?~~
+
+통신은 [[NFC]]를 기반으로 하며 단순히 피규어의 데이터를 읽어들일 뿐만 아니라 자체 저장소에 플레이 기록이 저장된다. 지역코드는 없다. 어느나라에서 사던지 똑같이 작동한다.
+
+저장 데이터가 1개밖에 없다. 예를 들어 마리오 아미보를 [[대난투 스매시 브라더스 for Nintendo 3DS / Wii U|대난투 스매시 브라더스 4]] 에서 사용했다면 마리오 파티 10의 데이터는 저장할 수 없다. 다만 [마리오 카트 8] 같이 읽기만 하는 게임은 상관없다.
+
+2015년 1월 말 기준으로 전세계적으로 '''570만개'''가 팔렸다고 한다. 실제로 닌텐도의 신의 한수라 보고 있는데 단순 피규어로만 봐도 아주 높은 퀄리티는 아니지만 그다지 비싸지 않은 가격에 가격대비로 보면 나쁘지 않은 퀄리티인데다 게임 내 추가 컨텐츠까지 해금해 주니 많은 게이머들이 지갑을 열었고 Wii U나 3DS가 없는 사람들도 많이 샀다고 한다. 오랜 역사를 가지고 있으며 꾸준히 캐릭터 관리를 잘 해온 닌텐도이기에 가능한 것이었다고 보고 있다.
+
+2015년 3월 19일 [[한국닌텐도]] 다이렉트를 통해 [[New 닌텐도 3DS]]를 공개하면서 아미보 연동 기능도 나왔다. 아미보가 정발된다는 아직은 발표는 없었지만 3월 24일 업데이트에서 정발 3DS에도 아미보 기능이 추가되면서 사실상 확정이다.
+
+가면 갈수록 인기가 폭발해서 2015년 4월에 아미보가 입고 되자마자 미국 게임관련 매점인 게임스탑의 사람들이 밤새서 기다리고 홈페이지가 폭주해서 다운되는 일이 벌어졌다(...).
+
+== 지원 기기 ==
+ * [[닌텐도 3DS]] - 자체적으로는 지원되지 않고 별도의 어댑터가 있어야한다.
+ * [[New 닌텐도 3DS]] - NFC 리더를 내장하고 있다. 하단 스크린 위에 올리면 된다.
+ * [[Wii U]] - 게임 패드 좌측 하단에 올리면 된다.
+ * ~~[[러시아]] [[지하철]] 개찰구~~
+
+== 지원 게임 ==
+모든 아미보가 지원되는 것은 아니다. 이 중 특정한 캐릭터의 아미보만 지원되는 게임도 존재한다. 만약 모든 종류의 아미보를 전부 다 사갈 것이 아니면 이를 잘 알아두고 사는 것이 좋다.
+
+게임 중 아미보 데이터 리딩만 가능한 게임과 리딩 및 쓰기 둘다 가능한 게임이 존재한다.
+
+=== [[닌텐도 3DS]] ===
+2015년 3월 24일부로 펌웨어가 ver.9.6.0-20k로 업데이트되어 구형에서도 지원되지만 3DS 본체에 NFC기능이 내장되어있지 않기에 별도의 주변기기(추후 발매 예정)가 필요.
+
+ * [[대난투 스매시 브라더스 for Nintendo 3DS / Wii U|대난투 스매시 브라더스 for Nintendo 3DS]]
+ * 원피스 슈퍼 그랜드배틀 XX
+ * 코드네임 S.T.E.A.M.
+ * [[제노블레이드]]
+
+=== [[Wii U]] ===
+ * [[대난투 스매시 브라더스 for Nintendo 3DS / Wii U|대난투 스매시 브라더스 for Wii U]]
+ * [[전진! 키노피오 대장]]
+ * [[마리오 카트 8]]
+ * [[젤다무쌍]]
+ * [[마리오 파티 시리즈|마리오 파티 10]][* 여기서 출연하는 캐릭터는 데이터를 읽고, 쓰기가 가능하며, 그 외의 캐릭터는 읽기만 가능하다.] 
+ * 요시 울 월드
+ * [[스플래툰]]
+ * 터치! 커비 슈퍼 레인보우
+
+== 라인업 ==
+모든 라인업은 일본판 기준. 다른 나라버전은 발매날짜, 순서가 다르다.
+
+=== [[대난투 스매시 브라더스 4]] ===
+대난투 스매시 브라더스 4의 일러스트를 기준으로 모델링이 되다보니 피규어 용으로 부적합한 포즈를 취하고 있는 몇몇 캐릭터는 중심을 잡기 위해 받침대가 달려있다. 그로 인해서인지 다른 시리즈의 아미보는 받침대가 필요없는 포즈로 선정되고 있다.
+
+==== 1탄 ====
+||사진||attachment:01.png?width=254||attachment:02.png?width=254||attachment:03.png?width=254||
+||이름|| [[마리오(닌텐도)|마리오]] || [[피치 공주|피치]] || [[요시]] ||
+||작품|| [[마리오 시리즈]] || [[마리오 시리즈]] || [[마리오 시리즈]] ||
+||사진||attachment:04.png?width=254||attachment:05.png?width=254||attachment:06.png?width=254||
+||이름|| [[동키콩]] || [[링크(닌텐도)|링크]] || [[폭스 맥클라우드|폭스]] ||
+||작품|| [[마리오 시리즈]][[br]][[동키콩 시리즈]] || [[젤다의 전설 시리즈]] || [[스타폭스 시리즈]] ||
+||사진||attachment:07.png?width=254||attachment:08.png?width=254||attachment:09.png?width=254||
+||이름|| [[사무스 아란|사무스]] || [[Wii Fit]] 트레이너 || [[마을 사람]] ||
+||작품|| [[메트로이드 시리즈]] || [[Wii Fit]] || [[동물의 숲]] 시리즈 ||
+||사진||attachment:10.png?width=254||attachment:11.png?width=254||attachment:12.png?width=254||
+||이름|| [[피카츄]] || [[커비]] || [[마르스(파이어 엠블렘)|마르스]] ||
+||작품|| [[포켓몬스터]] 시리즈 || [[별의 커비 시리즈]] || [[파이어 엠블렘]] 시리즈 ||
+||사진||attachment:13.png?width=254||attachment:14.png?width=254||attachment:15.png?width=254||
+||이름|| [[루이지]] || [[디디콩]] || [[젤다]] ||
+||작품|| [[마리오 시리즈]] || [[동키콩 시리즈]] || [[젤다의 전설 시리즈]] ||
+||사진||attachment:16.png?width=254||attachment:17.png?width=254||attachment:18.png?width=254||
+||이름|| [[리틀 맥]] || [[피트#s-2.1|피트]] || [[캡틴 팔콘]] ||
+||작품|| [[wiki:"펀치%20아웃%21%20시리즈" 펀치-아웃!! 시리즈]] || 광신화 파르테나의 거울 시리즈 || [[에프제로]] 시리즈 ||
+==== 2탄 ====
+||사진||attachment:19.png?width=254||attachment:20.png?width=254||attachment:21.png?width=254||
+||이름|| [[루카리오]] || [[로젤리나]] & 치코 || [[쿠파]] ||
+||작품|| [[포켓몬스터]] 시리즈 || [[마리오 시리즈]] || [[마리오 시리즈]] ||
+||사진||attachment:22.png?width=254||attachment:23.png?width=254||attachment:24.png?width=254||
+||이름|| [[링크(닌텐도)|툰 링크]] || [[시크#s-3|시크]] || [[아이크(파이어 엠블렘)|아이크]] ||
+||작품|| [[젤다의 전설 시리즈]] || [[젤다의 전설 시리즈]] || [[파이어 엠블렘]] 시리즈 ||
+||사진||attachment:25.png?width=254||attachment:26.png?width=254||
+||이름|| [[메타나이트]] || [[디디디 대왕|디디디]] ||
+||작품|| [[별의 커비 시리즈]] || [[별의 커비 시리즈]] ||
+==== 3탄 ====
+||사진||attachment:27.png?width=254||attachment:28.png?width=254||attachment:29.png?width=254||
+||이름|| 슈르크 || [wiki:"소닉 더 헤지혹" 소닉 || [[록맨]] ||
+||작품|| [[제노블레이드]] || [[소닉 더 헤지혹 시리즈]] || [[록맨 시리즈]] ||
+==== 4탄 ====
+2015년 4월 29일에 발매 예정이다.
+
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabn.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabt.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabw.png||
+||이름|| [[리자몽]] || [[루키나]] || [[네스]] ||
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aacc.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabu.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabc.png||
+||이름|| [[팩맨]] || [[루플레]] || [[와리오]] ||
+
+==== 5탄 ====
+2015년 5월 28일에 발매 예정이다.
+
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabp.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabq.png||
+||이름|| [[개굴닌자]] || [[푸린]] ||
+
+==== 6탄 ====
+2015년 6월 11일에 발매 예정이다.
+
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabh.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabj.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabd.png||
+||이름|| [[신 광신화 파르테나의 거울|파르테나]] || [[블랙 피트(신 광신화 파르테나의 거울)|블랙 피트]] || [[가논돌프]] ||
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabf.png||
+||이름|| [[사무스 아란|제로 슈트 사무스]] ||
+
+==== 7탄 ====
+2015년 7월 중에 발매 예정이다.
+
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabg.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aaax.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aabb.png||
+||이름|| [[피크민]] & [[올리마]] || [[쿠파 주니어]] || [[닥터 마리오]] ||
+
+=== [[마리오 시리즈]] ===
+마리오 - 골드 에디션은 북미 지역의 [[월마트]] 한정판으로 발매된다. 하단 면은 빨간 색이다.
+
+마리오 파티 10에서 [[로젤리나]], [[와리오]], [[동키콩]]의 아미보가 암시된 것을 보아 조만간 2탄도 발매될 확률이 높다.
+
+==== 1탄 ====
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/abaa.png||attachment:31.png?width=254||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/abab.png||
+||이름|| [[마리오(마리오 시리즈)|마리오]] || 마리오 - 골드 에디션 || [[루이지]] ||
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/abac.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/abaf.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/abad.png||
+||이름|| [[피치 공주]] || [[쿠파]] || [[요시]] ||
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/abae.png||
+||이름|| [[키노피오]] ||
+
+=== [[스플래툰]] ===
+2015년 5월 28일에 발매될 예정이다. 이를 스플래툰 게임에 사용하면 추가 미션이 다운로드되고, 이를 클리어하면 추가 의상과 무기가 추가된다. 하단 면은 검정색이나 잉크가 묻어있다.
+
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aeab.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aeaa.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/aeac.png||
+||이름|| 남자아이(보이) || 여자아이(걸) || 오징어 ||
+
+=== 요시 울 월드 ===
+요시 울 월드와 함께 발매 예정인 특별한 요시 아미보. 게임의 컨셉답게 봉제인형으로 이루어져 있다. 2015년 4월 1일 닌텐도 다이렉트를 통해 공개되었고, 2015년 여름에 발매 예정이다.
+
+||사진||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/yaaa.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/yaab.png||http://www.nintendo.co.jp/amiibo/lineup/img/thumb/yaac.png||
+||이름|| 초록색 요시 || 분홍색 요시 || 하늘색 요시 ||
+
+== 아미보 카드 ==
+피규어 없이 카드형으로 발매되는 염가형 아미보. 이 역시 2015년 4월 닌텐도 다이렉트를 통해 공개되었으며 동물의 숲 시리즈가 먼저 나온다. 2015년 3분기(그 외 지역은 4분기)에 나올 동물의 숲과 연동된다고 한다.
+
+== 트리비아 ==
+ * 사기가 굉장히 어렵다. 마리오나 링크같이 유명한 캐릭터는 물량이 많이 남아도는지 항상있지만 마르스, [마을 사람]같은 캐릭터는 항상 품절되있다. 인터넷으로 사려고 하면 주로 가격을 불려서 4~6만원에 되팔고있다.
+ * 개체별로 퀄리티 차이가 꽤 있다. 단순한 디자인의 커비, 피카츄, 요시 등의 경우에는 전반적으로 다 괜찮은 편이지만 복잡한 디자인의 인간형 캐릭터들의 경우는 복불복이 굉장히 심한 편. 그러한 아미보를 구입하려면 직접 판매처에 가서 조형을 직접 보고 결정하는 것이 좋다.
+ * 양팔 모두 캐논인 사무스 뿐만 아니라 [[다리 따위는 장식입니다|다리가 없는]] 피치, 거꾸로 포장된 채 발판이 머리에 붙은 마리오, 양쪽 다 오른손인 쌍검 마르스 등 기상천외한 불량품들이 잇달아 발견되고 있다. 웃기게도 이런 불량품들이 더 프리미엄이 붙어 경매로 팔리고 있는 상황(...). 양쪽 팔이 전부 버스터인 사무스 아미보가 [[이베이]]에 올라와서 2500달러에 낙찰되었다. 
+ * [[모스크바 지하철]] 개찰구에 [http://youtu.be/NpWMCCFmp-k 사무스 아미보를 갖다 대면 개찰구가 열린다고 한다.]
+ * [영국]에서 비공식 대난투 대회를 열었는데 대회가 끝날때쯤 한명이 장난으로 폭스 아미보를 가져와서 챔피언하고 아미보하고 붙었다. 그리고 아미보가 [순삭]했다.
+ * [http://www.reddit.com/r/amiibo/search?q=flair%3A%27custom%27&sort=new&restrict_sr=on&t=all#cu 커스텀 아미보들도 엄청나게 제작되고 있다.] 어느 팬은 [[루이지]] 아미보를 마개조하여 [[와루이지]]를 만들었는데 [http://www.inside-games.jp/article/2015/01/06/83904.html 200달러에 팔렸다고 한다.] [http://bbs2.ruliweb.daum.net/gaia/do/ruliweb/default/nin/159/read?articleId=1632169&bbsId=G003&itemGroupId=35&pageIndex=1 그리고 이어지는 개조 아미보 열풍].
+ * [[되팔이]]들이 성행하고 있다. 특히 [[마을 사람]] 아미보의 경우에는 [http://bbs2.ruliweb.daum.net/gaia/do/ruliweb/default/nds/84/read?articleId=1618283&bbsId=G003&itemId=5&pageIndex=1 북미, 일본 양쪽 모두 가격이 천정부지로 치솟고 있어 되팔이들의 행태에 많은 소비자들이 분노하고 있다. ]
+ * [[국제전자센터]]에서는 보통 2만원 정도에서 판매하고 있다.

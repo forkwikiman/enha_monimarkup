@@ -1,0 +1,501 @@
+ * 리다이렉트 : [[EZ2DJ/수록곡 일람]]
+ * 관련 항목 : [[EZ2AC/삭제곡 일람]]
+
+아케이드 [[리듬게임]] 시리즈인 [[EZ2AC]]의 수록곡 목록. [[EZ2ON]]의 수록곡은 해당 문서를 참고하라.
+
+[[목차]]
+== Template (예시) ==
+|| 장르 |||||||| [[아트코어|Artcore]] ||
+|| 곡명 |||||||| [[神威]] ||
+|| 작곡 |||||||| TJ.Hangnail ||
+|| 배경 |||||||| Crolul ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th CV]][* 길이가 길어지는것을 방지하기위해, 각 항목들의 리다이렉트를 활용할것.] ||
+|| 리믹스 수록버전 |||||||| [* 리믹스가 없을 경우 삭제한다.] ||
+|| BPM |||||||| 210 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준[* 기본적으로는 현 최신 버전을 기준으로 하되, 삭제곡의 경우 마지막으로 수록된 버전을 기준으로 한다.] ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 12}}} || {{{#orange 14}}} || {{{#red 17}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 13}}} || {{{#orange 15}}} || {{{#red 17}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue 12}}} || {{{#orange 17}}} || {{{#red 18}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 17}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue 13}}} || {{{#orange 17}}} || {{{#red 18}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 17}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+##EZ2AC EC까지의 악곡 정보 템플릿입니다.
+|| 장르 ||||||||  ||
+|| 곡명 ||||||||  ||
+|| 작곡 ||||||||  ||
+|| 배경 ||||||||  ||
+|| 최초 수록버전 ||||||||  ||
+|| 리믹스 수록버전 ||||||||  ||
+|| BPM ||||||||  ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+||<#00ff00> 5 Street Mix || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+||<#0000ff> Club Mix || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+||<#c0c0c0> Space Mix || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+||<#ff99ff> Ez2Catch || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+||<#ffffff> TurnTable || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+ * 라디오믹스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+##EZ2AC EV부터의 악곡 정보 템플릿입니다.
+|| 장르 ||||||||  ||
+|| 곡명 ||||||||  ||
+|| 작곡 ||||||||  ||
+|| 배경 ||||||||  ||
+|| 최초 수록버전 ||||||||  ||
+|| 리믹스 수록버전 ||||||||  ||
+|| BPM ||||||||  ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+||<#FF0000> 5K RUBY || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+||<#00ff00> 5K STANDARD || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+||<#0000ff> 10K MANIAC || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+||<#ffffff> TURNTABLE || {{{#orange }}} || {{{#red }}} || {{{#purple }}} || {{{#blue }}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+== 전체 수록곡 목록 ==
+=== [EZ2DJ The 1st TRACKS] ===
+||||||||<#568EFD> '''The 1st Tracks''' ||
+|||||||| '''22곡''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Baby Dance]]||Dance Rock||Ruby Tuesday||Lassoft||
+||[[Catch The Flow]]||Acid Jazz||Creatune||Xeronion||
+||[[Confete]]||Samba||Ruby Tuesday||Lassoft||
+||[[Dirty D]]||Rap||Ruby Tuesday||Ibarad||
+||[[Do you remember?]]||Rave||Ruby Tuesday||Ibarad||
+||[[Envy Mask]]||Rock||Creatune, Mario Bolden||Xeronion, Ponglow||
+||[[Freedom]]||Kool Funk||Ruby Tuesday||Ibarad||
+||[[Funny Funky]]||Funky Jazz||Creatune||Lassoft||
+||[[Get the beat]]||Hiphop||DJ.Hong||Lassoft||
+||[[I've Fallen]]||House[* 버전에 따라 'JP House'인 것도 있고 'House'인 것도 있다.]||Ruby Tuesday||Ibarad||
+||[[I Do Love You]]||R&B||전준규, Creatune||Ibarad||
+||[[Let it go(EZ2DJ)|Let It Go]]||Triphop||Ruby Tuesday||Ibarad||
+||[[Look out ~Here comes my love~]]||Dance Pop||Ruby Tuesday||Xeronion||
+||[[Minus 1]]||Techno Trance||DJ Danmal-G||Xeronion, Kill||
+||[[Mystic Dream 9903]]||Break Beat||Danmal-G||Lassoft||
+||[[Quake in Kyoto]]||Drum'n Bass||Ruby Tuesday||Xeronion||
+||[[Southwest Cadillac]]||Hiphop||전준규||Kill[* 1st판 BGA는 Lassoft가 제작했다.]||
+||[[Stay]]||House Pop||전준규||Lassoft||
+||[[The Rhythm]]||Racing House||Nextune||3rdBASS[* 1st판 BGA는 Ibarad가 제작했다.]||
+||[[You love the life you live]]||Reggae||Ruby Tuesday||Lassoft||
+||[[Yes Yes]]||Ballad||Creatune||Xeronion||
+||[[Ztar warZ]]||Space Techno||DJ.Melong||Ponglow||
+=== [EZ2DJ The 1st TRACKS Special Edition] ===
+||||||||<#5B7DEB> '''The 1st Tracks Special Edition''' ||
+|||||||| '''24곡 (신곡 10곡, 리믹스 14곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Bob]]||80's KR-Pop||박근호||Ache||
+||[[Combination]]||NJ Pop||김진권||Kimys||
+||[[DIEOXIN]]||Trash Core||DJ.Yonda||Mazzystar||
+||[[For 3 Weeks]]||Walk Dance Pop||황성제||3rdBASS||
+||[[Love & Extasy]]||Techno||홍석||Airborn||
+||[[My Honey]]||Light Dance Pop||이승환, 황성제||Kimys||
+||[[R.D.M. ~Rain Drops in My mind~]]||Soft Acid Pop||Andy Lee||3rdBASS||
+||[[Red Hot]]||Funk Rock||Dr.Yonda||3rdBASS||
+||[[Special K]]||Hiphop||Andy Lee||Kimys||
+||[[The Future]]||DJ Techno||Remix Station||Ibarad||
+||[[Catch The Flow|Catch The Flow (Remix)]][* 하드 믹스.]||Acid Jazz||Croove||Xeronion||
+||[[Confete|Confete (Evening Mix)]]||Samba||Itdie||Lassoft||
+||[[Do you remember?|Do You Remember? (Remix)]]||Rave||Remix Station||Ibarad||
+||[[Envy Mask|Envy Mask (Remix)]][* 하드 믹스. 이후 플래티넘 OST에서 Remix로 명명되었다.]||Rock||xxdbxx||Xeronion||
+||[[Get the beat|Get the beat (Nimble Mix)]]||Hiphop|| ||Lassoft||
+||[[Mystic Dream 9903 ~Horror Mix~|Mystic Dream 9903 (Horror Mix)]]||Break Beat||Danmal-G||Lassoft||
+||[[Let It Go|Let It Go (Remix)]]||Rap & Soul||Remix Station||Ibarad||
+||[[Love & Extasy]] (Remix)||Techno|| ||Airborn||
+||[[Southwest Cadillac|Southwest Cadillac (Remix)]][* 하드 믹스. 이후 플래티넘 OST에서 Remix로 명명되었다.]||Hiphop||Croove||Kill||
+||[[Stay|Stay (Radio Edit)]]||House Pop||Itdie||Lassoft||
+||[[The Rhythm|The Rhythm (Remix)]][* 하드 믹스. 이후 플래티넘 OST에서 Remix로 명명되었다.]||Racing House||xxdbxx||3rdBASS||
+||[[Quake in Kyoto|Quake in Kyoto (Mega Mix)]]||Drum'n Bass||xxdbxx||Xeronion||
+||[[You love the life you live|You love the life you live (Remix)]]||Reggae||Itdie||Lassoft||
+||[[Ztar warZ|Ztar warZ (Remix)]][* 원래 리믹스로 등장했으나 2nd 이후 원곡의 하드 믹스로 편입되었다.]||Space Techno||xxdbxx||Ponglow||
+=== [EZ2DJ 2ndTRAX ~It rules once again~] ===
+||||||||<#F275E1> '''2nd TraX''' ||
+|||||||| '''27곡 (신곡 20곡, [[EZ2Dancer]] 이식 7곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Anytime]]||Drum'n Bass||Ruby Tuesday||Kill||
+||[[Appeal]]||Acid Pop||Andy Lee, Jennifer||S||
+||[[Back For More]]||Ani Pop||Ruby Tuesday||Xeronion||
+||[[Back to Bed]]||Ambient||Ruby Tuesday||Kill||
+||[[Be My Baby]]||Broadway Dance Pop||Ruby Tuesday||Lassoft||
+||[[Damnation]]||Hardcore||Ruby Tuesday||Ibarad||
+||[[Departure]]||House||배희경||Airborn||
+||[[Exist]]||Gang Hip||김승현||3rdBASS||
+||[[Funky 5]]||Funky Hiphop||김승현||3rdBASS||
+||[[Get It Up]]||Funky House||이종필, Mario Bolden||Mazzystar||
+||[[Hypnotize]]||Techno||Ruby Tuesday||Airborn||
+||[[I've got this feeling]]||R&B||Ruby Tuesday||S||
+||[[It's My Secret]]||R&B Ballad||Mario Bolden||Ache||
+||[[JAM(EZ2DJ)|JAM]]||Strawberry Rock||Ruby Tuesday||Dizzy||
+||[[Minus 1 ~Space Mix~]]||Techno Trance||Croove||Kill||
+||[[Moving On]]||Bright Hiphop||Ruby Tuesday||Nakoopa||
+||[[Red Ocean]]||Hardcore||xxdbxx||Kill||
+||[[Say That U]]||Euro Dance||Ruby Tuesday||Ache||
+||[[Seize The Day]]||Black Disco||Ruby Tuesday||Mazzystar||
+||[[Sentimental No! No!]]||Bossanova||Ruby Tuesday||S||
+||[[Showdown]]||Hard Rock||Andy Lee||Sting||
+||[[The Boy ~Here comes my baby~]]||Dance Pop||Ruby Tuesday||Nakoopa||
+||[[Theme of EZ2DJ]]||House Pop||Andy Lee||Nakoopa||
+||[[We Luv Music]]||Big House||전준규||Xeronion||
+||[[Where's My Girl]]||Rock'n Roll||Ruby Tuesday||Airborn||
+||[[With U Girl]]||Mambo||양준영||Kimys||
+||[[You Are The One For Me]]||Acid Fusion||전준규, Mario Bolden||FE||
+=== [EZ2DJ 3rdTRAX ~Absolute Pitch~] ===
+||||||||<#79A46E> '''3rd TraX''' ||
+|||||||| '''20곡''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[2.14]]||Acid Fusion||FE||Ache||
+||[[20000000000]]||Junkno||Croove||Lassoft||
+||[[2nd Jewel]]||Acid Pop||Andy Lee||Kkashi, ROCN||
+||[[Anemia]]||Ambient Pop||Andy Lee||Marineboy||
+||[[Black Market]]||Big Beat||Croove||D.L||
+||[[Cosmic Bird]]||Space Techno||FE, Croove||FE||
+||[[Give it 2 me]]||Acid Fusion||FE||FE||
+||[[In a Nutshell]]||70's British Pop||Ruby Tuesday||imp17||
+||[[Lie Lie]]||House Pop||Andy Lee||Ache||
+||[[M Police]]||British Rock||Andy Lee||Xeronion||
+||[[Minus 2]]||Death Techno||Croove||Lassoft||
+||[[Night Watcher]]||DnB Rock||xxdbxx||Airborn, FE||
+||[[R.F.C.]]||Battle Rock||Andy Lee||Ache||
+||[[Sand Storm]]||Visual Techno||Croove||P.A.L.A.F[* Ponglow, Airborn, Lassoft, Ache, FE]||
+||[[Shake]]||New Jack Swing||Andy Lee||Dong-Hun||
+||[[Smash]]||Hardcore||Andy Lee||Lassoft||
+||[[Sparrow]]||Acid Groove||xxdbxx, Croove||Dong-Hun||
+||[[Substance]]||Techno||xxdbxx||Xeronion||
+||[[The 3rd Place]]||World Groove||xxdbxx||Airborn||
+||[[Y-Gate]]||Techno||이종필||Airborn||
+=== [EZ2DJ 4thTRAX ~Over Mind~] ===
+||||||||<#F0BF5B> '''4th TraX''' ||
+|||||||| '''20곡''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Aquaris]]||Trance Fusion||Croove||imp17, S||
+||[[B.O.W. ~Battle of Wilderness has started]]||MMORPG||Croove||FE||
+||[[Blue]]||Acid Hiphop||xxdbxx||Lassoft||
+||[[Calling me Now]]||Nu R&B||xxdbxx||Graedo||
+||[[Climax]]||Hardcore||Andy Lee||Necobus||
+||[[Complex]]||Future Jazz||Croove||Ache||
+||[[Delight]]||Summer House||Andy Lee||Tiv||
+||[[Eye of Beholder]]||Triphop||xxdbxx||Kkashi||
+||[[Feel So Sad]]||80's Pop||xxdbxx||zard96||
+||[[Fire Storm]]||Hard Techno||Croove||Kimys||
+||[[Futurist]]||New Wave Rock||Andy Lee||Airborn||
+||[[Go!]]||Rock||Andy Lee||Xeronion||
+||[[JMJ]]||2step Garage||Croove||D.L||
+||[[Judgement]]||New Jack Straight||Andy Lee||Loliel||
+||[[Lovely Day]]||House Pop||Andy Lee||SEED||
+||[[Mad Robot]]||Toy Pop||Croove||Necobus, FE, Kimys, Airborn||
+||[[Metagalatic G - 1000]]||Techno Trance||xxdbxx||Ache||
+||[[Ready to Yah]]||Hiphop||xxdbxx||Eyehead||
+||[[Shout]]||Big Hip||Croove||Kimys||
+||[[Tokyo 9 P.M.]]||Netro Funky||Andy Lee||D.L||
+=== [EZ2DJ Platinum] ===
+||||||||<#B0B0B0> '''Platinum''' ||
+|||||||| '''16곡 (신곡 12곡, 리믹스 4곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[느낌]]||Kpop||강은수, Eridanus||SR||
+||[[Any way you want it]]||New Yorker Pop||Eridanus||Hyoshi||
+||[[Cellavue]]||Fusion||Eridanus||Great gifts. J||
+||[[Memories(EZ2DJ)|Memories]]||Alternative Rock||Forte Escape||imp17||
+||[[Night Madness]]||Crossover Techno||Joyrock||AS/SOFT, [[카미기시 아카리|Kamigishi Akari]]||
+||[[Panic Strike]]||Space DnB||Forte Escape||Kimys||
+||[[Q Factor]]||Electronica||Forte Escape||Necobus||
+||[[Riff Guy]]||Speed Hardcore||Eridanus||Kkashi||
+||[[Spotlight]]||Jazz Fusion||Forte Escape||Luty||
+||[[Unknown H2]]||Harlem Hiphop||DJ Bigduck||Ache||
+||[[Weird Wave]]||Instrumental||Joyrock||Yilee||
+||[[Zeroize]]||DnB Techno||Forte Escape||Ache||
+||[[Aquaris|Aquaris (Physical Inspiration Hyper Blue Mix)]]||Blue Techno||Forte Escape||imp17||
+||[[I've Fallen|I've Fallen (Hot Dog Boogie Groove Mix)]]||Disco Groove||Forte Escape||Lassoft||
+||[[I've got this feeling|I've got this feeling (Dj.FE Restless Acid Soul Mix)]]||Acid Fusion||Forte Escape||(불명)||
+||[[JMJ|JMJ (DFC Space Gear Re-formation)]]||Digital Funk||Forte Escape||D.L||
+=== [EZ2DJ 6thTRAX ~Self Evolution~] ===
+||||||||<#EE83A3> '''6th TraX''' ||
+|||||||| '''25곡 (신곡 15곡, 리믹스 10곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Bacardi on the Beach]]||(미표기)||Sonic A.P.E||Siho||
+||[[Be-at Feedback]]||(미표기)||B-E||RESS||
+||[[Be mine]]||Tech Rock||TY : F||DOS 11:35||
+||[[Curse It!]]||(미표기)||한태수||Loliel||
+||[[Dance Machine]]||(미표기)||Sonic A.P.E||DOS 11:32||
+||[[Dance With Me]]||Dance||김민||(불명)||
+||[[Frantic]]||(미표기)||Sonic A.P.E||~~CuteG~~[* 본인이 흑역사로 인정했다. 항목 참고.]||
+||[[Move Your Body]]||(미표기)||Sean Kim||Tiffany||
+||[[One Two Three Four]]||Hiphop||Sonic A.P.E||Ctype||
+||[[Refresh]]||(미표기)||김민||BF||
+||[[Stay with me]]||(미표기)||한태수||Arms||
+||[[Up and down]]||(미표기)||Soulzean||(불명)||
+||[[Theme of EZ2DJ 2]]||(미표기)||한태수||(불명)||
+||[[Your Style]]||(미표기)||Dakick||Red Can||
+||[[You were the one]]||(미표기)||김민||(불명)||
+||[[느낌|느낌 (Sonic A.P.E Ver)]]||Kpop||Sonic A.P.E||SR||
+||[[Baby Dance|Baby Dance (Club Ver.)]]||Dance Rock||Itdie||Lassoft||
+||[[Be My Baby|Be My Baby (Funky Ver.)]]||(미표기)||Itdie||Lassoft||
+||[[Get the beat|Get the beat (Party Mix)]]||Hiphop||Itdie||Lassoft||
+||[[I've got this feeling|I've got this feeling (Extended Ver.)]]||(미표기)||Itdie||S||
+||[[JAM(EZ2DJ)|Jam (A.C Ver.)]]||Strawberry Rock||Itdie||Dizzy||
+||[[Lie Lie|Lie Lie (Ceave Beat Ver.)]]||House Pop||Itdie||Ache||
+||[[Look out ~Here comes my love~|Look out (EK1-Beat Ver.)]]||(미표기)||Itdie||Xeronion||
+||[[The Boy ~Here comes my baby~|The Boy (EK2-Beat Ver.)]]||(미표기)||Itdie||Nakoopa||
+||[[With U Girl|With U Girl (Beach Ver.)]]||(미표기)||Itdie||Kimys||
+=== [EZ2DJ 7thTRAX ~Resistance~] ===
+||||||||<#FD975B> '''7th TraX''' ||
+|||||||| '''32곡''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Black Flame]]||Break Beat||Transin||RYUminus||
+||[[Dreamy Flight]]||Trance||Transin||RYUminus, Arei||
+||[[End of Summer]]||(미표기)||Mhz||RYUminus||
+||[[Energy Flower]]||Melodic Trance||r300k||RYUminus||
+||[[Explode Engine]]||Middle Beat||Transin||RYUminus||
+||[[Fallen Angel]]||Ambient||SpringHead||RYUminus||
+||[[Fell Hound 3]]||Hard Trance[* 작곡가 언급 http://ask.fm/xxx2130] ||SpringHead||RYUminus||
+||[[Forget]]||Trance||Praya||RYUminus||
+||[[G.O.A]]||Trance||Curium||RYUminus, Arei||
+||[[Gray Street]]||(미표기)||M2U||Dona(K2yaa)||
+||[[KAFAT]]||(미표기)||SpringHead||RYUminus||
+||[[Legacy of Hatred|Legacy of Hatred (live)]]||D'n'B||CCNN||Nakoopa||
+||[[Let me hear your voice]]||Trance Pop||Transin||RYUminus||
+||[[Mage Girl Story]]||Digital Rock||Praya||RYUminus||
+||[[Paradise]]||(미표기)||M2U||Mazzystar||
+||[[Revelation]]||Hard Techno||SpringHead||RYUminus||
+||[[Return]]||Hard Trance [* 작곡가 언급 http://ask.fm/xxx2130]||SpringHead||RYUminus||
+||[[Round 3]]||Trance||Desired Effect, r300k||RYUminus||
+||[[Silver Ocean]]||Break Trance||Curium||RYUminus||
+||[[Soul Destructor]]||Trance||Transin||RYUminus||
+||[[Soul Eater]]||Trance||SpringHead||RYUminus||
+||[[Space Destiny]]||(미표기)||M2U||RYUminus||
+||[[Sunlight]]||Synth Pop [* EZ2ON BGA에 표시]||Desired Effect, r300k||RYUminus||
+||[[Sweet Heart]]||(미표기)||M2U||Dona(K2yaa)||
+||[[The back of beyond]]||(미표기)||M2U||RYUminus||
+||[[The World]]||Tribal Trance||r300k||RYUminus||
+||[[Toy War]]||Fusion||M2U||Noong, RYUminus||
+||[[To My Love]]||Trance||TranceMAX||RYUminus||
+||[[Unrequited love 2]]||Trance||CCNN||RYUminus, Arei||
+||[[White Rose]]||Acid Jazz||M2U||S||
+||[[빛바랜 영혼]]||Trance||Praya||Nakoopa, RYUminus||
+||[[天地開闢]]||(미표기)||M2U||3rdBASS, RYUminus||
+=== [EZ2DJ 7thTRAX Ver 1.5] ===
+||||||||<#E1812D> '''7th TraX Ver 1.5''' ||
+|||||||| '''11곡''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[An Old Story]]||Oriental Pop||Memme||Ryunan, imp17||
+||[[Black Bird]]||Big Beat||Infinity Poly||SHK||
+||[[Gray Hunter]]||2step||Chaos||S[* 타이틀 이미지는 YammyYammy(Ryunan)이 제작했다.]||
+||[[Holic]]||Electronic Classic||SHK||SHK||
+||[[Hyper Magic]]||Melodic Trance||Memme||Kimys[* 1.5와 2.0의 타이틀 이미지는 Ryunan이, CV 이후의 타이틀 이미지는 Lepusnette가 제작하였다.]||
+||[[Legend of Moonlight]]||Melodic Trance||Memme||Ryunan||
+||[[Lucid]]||D'n'Concerto||yak_won||Ryunan||
+||[[Never Feel This Way]]||House Pop||yak_won||Lassoft[* 타이틀 이미지는 FOX-B가 제작했다. EC까지 쓰이던 타이틀 이미지의 제작자는 미상.]||
+||[[R.E.D.]]||Trance||KIEN||TCUN||
+||[[Shot Time]]||Acid House||Star Light||S[* 1.5와 2.0의 타이틀 이미지는 Ryunan이, CV 이후의 타이틀 이미지는 CA Studio가 제작했다.]||
+||[[The Prince of Darkness]]||Symphonic Trance||Redeye||Ryunan||
+=== [EZ2DJ 7thTRAX Ver 2.0] ===
+||||||||<#CB744F> '''7th TraX Ver 2.0''' ||
+|||||||| '''12곡 (신곡 7곡, 리믹스 5곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[2nd Life]]||Soundtrack||yak_won||FOX-B[* EC까지 쓰이던 타이틀 이미지의 제작자는 미상.]||
+||[[Aura]]||Trance||yak_won||FOX-B[* EC까지 쓰이던 타이틀 이미지의 제작자는 미상.]||
+||[[Don't Say Anything]]||Trance||yak_won||FOX-B[* EC까지 쓰이던 타이틀 이미지는 Ruru Studio가 제작했다.]||
+||[[One's Trash]]||Big Beat||KIEN||TCUN||
+||[[R-decision]]||(미표기)||yak_won||wr∞ng : p||
+||[[Sinus - Secret Heart]]||Piano Etuden||yak_won||FOX-B[* EC까지 쓰이던 타이틀 이미지의 제작자는 미상.]||
+||[[weep Irish|weep Irish -RE-]]||Digi Occult Classic||SHK||SHK||
+||[[Dance Machine|Dance Machine (YK House Edit)]]||(미표기)||yak_won||DOS 11:32||
+||[[Dance With Me|Dance With Me (Dischord Edit)]]||(미표기)||yak_won||Brandy||
+||[[Frantic|Frantic (YK Edit)]]||(미표기)||yak_won||CuteG||
+||[[One Two Three Four|One Two Three Four (SJ Remix)]]||Hiphop||IBIS||Ctype||
+||[[Refresh|Refresh (J-Style Edit)]]||(미표기)||yak_won||BF||
+=== [[EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~]] ===
+||||||||<#D777EF> '''7th TraX CODENAME VIOLET''' ||
+|||||||| '''13곡 (신곡 12곡, 리믹스 1곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Akasha]]||(미표기)||Netiline||Tuna||
+||[[Blood Castle|Blood Castle (Remix)]]||Symphonic Trance||Darkist, 4||Noel, Catena||
+||[[Doll's Garden]]||Oriental Pop||Liberatus||Chris[* CV, BE에서는 Noel과 Ira가 제작한 전용 BGA를 사용하였으나 BE rA에서 교체되었다.]||
+||[[Dragon Hunter%3F|Dragon Hunter?]]||(미표기)||Netiline||Tuna||
+||[[Eraser Rain for GAIA]]||Drum n Bass||Ira||Glide||
+||[[For The Top]]||Pop||Netiline||(불명)||
+||[[La Grand Bleu]]||Trance||KIEN||ZBRANSTRIM||
+||[[LOKI]]||Fusion Electronic Rock||Lotze||(불명)||
+||[[Step in the Dayz]]||Jazz||Netiline||J.K||
+||[[Tempus Praeterita]]||Anthem Trance||Ira||Slur||
+||[[Wars of the Roses 1455]]||Melodic Trance||Lotze||X.Z||
+||[[神威]]||Artcore||TJ.Hangnail||Crolul||
+||[[Stay|Stay (TAK Remix)]]||House Pop||TAK||Lassoft||
+=== [EZ2DJ 7thTRAX BONUS EDITION] ===
+||||||||<#FD313F> '''7th TraX BONUS EDITION''' ||
+|||||||| '''36곡 (신곡 6곡, [[Sabin Sound Star]] 이식 30곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[없잖아]]||Bright Pop||Applesoda||(불명)||
+||[[적월애]]||Oriental Electronica [* 게임상의 장르는 조선 Fusion Techno]||Lotze||(불명)||
+||[[주문을 외워봐]]||Bright Pop||Applesoda||Ratise||
+||[[하나뿐인 당신에게]]||(미표기)||Memme||A||
+||[[A Final Dreaming]]||Winter Trance||creent, TY Brave||creent||
+||[[Apollon]]||Trance Core||sun3||Johnny and Lond||
+||[[Atomizer]]||Drum'N Bass||KIEN||wr∞ng : p||
+||[[BLEED]]||Euro Beat||MAX||Lepusnette||
+||[[Brilliant Stars]]||(미표기)||Seibin||L.Y.S||
+||[[Cosmos]]||(미표기)||Zero||RewMineUs||
+||[[Dreamy Days]]||Dream Pop||Lunaria||S.C, Agnes||
+||[[Drive To You]]||(미표기)||Zero||L.Y.S||
+||[[Espresso]]||(미표기)||Zero||RewMineUs||
+||[[Finite]]||Artcore||Crolul, Rion||Crolul||
+||[[Good Speed]]||(미표기)||Zero||L.Y.S||
+||[[Happiness]]||Rave||RELaX TRaX||(불명)||
+||[[Irregular Liner]]||Trance||KIEN||Creent||
+||[[Latino]]||(미표기)||Zero||RewMineUs||
+||[[Luv Message]]||(미표기)||Lubinn||Creent||
+||[[Messier 333]]||Schranz||sun3||Johnny||
+||[[MxMxMstar]]||(미표기)||TJ.Hangneil||Crolul||
+||[[Pair Creation]]||(미표기)||Lubinn||RYUminus||
+||[[Please Please Me]]||(미표기)||SHK||A||
+||[[R.E.D.|R.E.D. 2008]]||Trance||KIEN||(불명)||
+||[[Return to Universe]]||Hybrid Trance[* 트위터에서 언급]||Memme||RYUminus||
+||[[Romance for Moon]]||(미표기)||fromsmk||Keychell||
+||[[Rosen Vampir]]||Gothic Concertino||Gothpheus||ManggoManggu||
+||[[Sensation of Stage]]||Electro Pop[* 작곡가 언급 http://ask.fm/xxx2130]||SpringHead||L.Y.S||
+||[[Sign Mellow]]||Fantasy Pop||S.I.D-Sound||creent||
+||[[Skyward]]||(미표기)||nato||am7||
+||[[Sunshine]]||Dance[* 작곡가 언급 http://ask.fm/xxx2130]||SpringHead||Ratise||
+||[[The Luna]]||Melodic Trance||Triple Spade||Mutant[* BE의 타이틀 이미지는 NaXie가 제작했다.]||
+||[[Thrust Out]]||(미표기)||Lubinn||RYUminus||
+||[[Underflow]]||(미표기)||Crolul||Retu||
+||[[Uranus]]||(미표기)||Memme||Marz||
+||[[Vintage Summer]]||Big Brass||Lotze||(불명)||
+=== [[EZ2DJ : AZURE EXPRESSION]] ===
+||||||||<#3CB2F6> '''AZURE EXPRESSION''' ||
+|||||||| '''21곡 (신곡 17곡, 리믹스 4곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[1950]]||Emocore||SpringHead||HFS+||
+||[[AXIS]][* 히든곡으로 등장. 이후 AEIC에서 정규곡으로 수록.]||Trance||ATAS||Flow.D||
+||[[Beyond The Azure Skies]][* 스탭롤 히든곡으로 등장. EV에서 정규곡으로 수록.]||(미표기)||KIEN||PEENA||
+||[[Core]]||Classic d'n'b||yak_won||(불명)||
+||[[Frostbite]]||Techno||Earache Squadron||(불명)||
+||[[if I couldn't see you again]]||Symphonic Dance||StaticSphere||Solm||
+||[[Illusion]]||Melodic Trance||Lotze||(불명)||
+||[[Intuition]][* 히든곡으로 등장. 이후 AEIC에서 정규곡으로 수록.]||Hyper Techno||yak_won||(불명)||
+||[[Liquid Cube]]||Trance||StaticSphere||Flow.D||
+||[[Morgenglut 2012]]||Trance core||sun3||uraha||
+||[[Nihilism]]||Artcore||nato||Flow.D vs WR8NG||
+||[[Rising In My Heart]]||Eurobeat||nato||Badny||
+||[[satellite 61]]||Drum'N Bass||Earache Squadron||Diesel Eater||
+||[[Taillight Phantom]]||Speed Techno||Static Sphere||Diesel Eater||
+||[[The Ashtray]]||Nu Electro||r300k||Flow.D||
+||[[The Greatest Escape]]||DnG||Seibin||Verdictine||
+||[[The Onyx Night Sky]]||Trance||MAX||(불명)||
+||[[20000000000|20000000000 (Hurt Bass Remix)]]||(미표기)||KIEN||Lassoft||
+||[[Anemia|Anemia (Synth Pop Remix)]]||(미표기)||KIEN||Marineboy||
+||[[Back to Bed|Back to Bed (Crimson Red Remix)]]||(미표기)||KIEN||Kill||
+||[[I Do Love You|I Do Love You (Insida Club Remix)]]||(미표기)||KIEN||Ibarad||
+=== [[EZ2DJ : AZURE EXPRESSION INTEGRAL COMPOSITION]] ===
+||||||||<#2C7BC0> '''AZURE EXPRESSION INTEGRAL COMPOSITION''' ||
+|||||||| '''11곡''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Andes]]||Fusion Rock||SHK||(불명)||
+||[[Crisp]]||d'n concerto||yak_won||Flow.D||
+||[[Disease]]||Hard Rock||SpringHead||WR8NG||
+||[[Extra Wave]]||Electric||yak_won||(불명)||
+||[[Frozen Eyes]]||Artcore||fromsmk||Hahyeon||
+||[[Nachthexen]]||Trance||ATAS||(불명)||
+||[[Out of the Blue]]||Frs-fus||yak_won||Data Expunged||
+||[[Phat Trash]]||Drum'n Bass||iMp||PEENA||
+||[[Resonance Spectra]]||Electro Rock||Seibin||(불명)||
+||[[Sewing Machine]]||Cs-TecH||yak_won||(불명)||
+||[[Wind Tales]]||Epicano||yak_won||(불명)||
+=== [[EZ2AC : ENDLESS CIRCULATION]] ===
+||||||||<#81FCDB> '''ENDLESS CIRCULATION''' ||
+|||||||| '''44곡''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[Actias Artemis]]||Trance||iMp||Peaceyj||
+||[[Again(EZ2AC)|Again]]||Electronic Pop||SpringHead||Solm||
+||[[A Glimmer]]||Epic Trance||Rammage||(불명)||
+||[[Airwave]]||Nu Disco||Kari||Lune||
+||[[Aniart]]||Pop||KB||Badny||
+||[[A Site De La Rue]]||SUBWAY TECHNO||STREAM REVERIE||Flow.D||
+||[[BEATRICE]]||Freeform Hardcore||RMHN||Badny, Flow.D||
+||[[Black tinted alley]]||Electro Hop||Croaktica||(불명)||
+||[[Break of Dawn]]||Epic Trance||KIEN||Flow.D||
+||[[Cosmical Rhythm]]||House Pop||Cradle Edge||yu_nang||
+||[[Dancing Light]]||Progressive Trance||ATAS||BackMoSSi||
+||[[Dream Walker]]||8bit Light Pop||HiRO||HFS+||
+||[[DISTOPIA]]||Progressive House||wigen||(불명)||
+||[[Entire]]||Tech Trance||KIEN||Flow.D||
+||[[Fallback]]||Nu Tech||Paraphrase||(불명)||
+||[[First Fantasy]]||Dubstep Fusion||Cradle Edge||Badny||
+||[[FUTURE NIGHT]]||Electro House||sun3||Kazet||
+||[[Hesitate]]||Trance||Rammage||(불명)||
+||[[Hey Barbie]]||Dark Trance Pop||Cradle Edge||Badny||
+||[[Indistinction]]||Trance||Paraphrase||(불명)||
+||[[Legend]]||Artcore||Lunatic Sounds||BAD_SECTOR||
+||[[Magic Square]]||Jazztronica||fromsmk||Hahyeon||
+||[[M!rror]]||Electro Fusion||Cradle Edge||(불명)||
+||[[northpole]]||Drum'N Bass||iMp||PEENA||
+||[[Nothing Else]]||Techno||KIEN||Diesel Eater||
+||[[On My Way]]||Enhanced Pop||Cradle Edge||Badny||
+||[[Orphan Children]]||Melodic Trance||mr.Kei||Nesume||
+||[[Planet X]]||Retro Space Techno||HiRO||Hahyeon||
+||[[Push me again]]||Electro Jungle||Diesel Eater||Diesel Eater||
+||[[QUADCORE]]||Mixture||TPRO||AIKI vs. HFS+||
+||[[Rendezvous Coast]]||Disco House||wigen||HFS+||
+||[[Shine Through]]||Electronica||STREAM REVERIE||(불명)||
+||[[Shove it]]||Acid Tech||Earache Squadron||(불명)||
+||[[Sigma]]||Electro Dub||fromsmk||(불명)||
+||[[Starlight Factory]]||Epic Trance||ATAS||(불명)||
+||[[Stranger]]||Ethnic House||LhoU||Hahyeon||
+||[[Tension]]||Trance||SpringHead||(불명)||
+||[[Todos Los Dias]]||Progressive Fusion||HiRO||Badny||
+||[[Total Eclipse]]||Epic Trance||ATAS vs. KANETA||Flow.D||
+||[[Tron]]||Trance||Rammage||(불명)||
+||[[True]]||Electronic House||Kari||Konjoe||
+||[[UniT(EZ2AC)|UniT]]||Drum'N Bass||PDN||HFS+||
+||[[WHEEL OF FIRE]]||UK Hardcore||RAVEN@TION||Verdictine||
+||[[Withered Heights]]||Down Tempo||KIEN||(불명)||
+
+=== [[EZ2AC : EVOLVE]] ===
+||||||||<#CE3351> '''EVOLVE''' ||
+|||||||| '''25곡(신곡 23곡, 리믹스 2곡)''' ||
+||<width=300px> '''곡명''' ||<width=200px> '''장르''' ||<width=150px> '''작곡가''' ||<width=150px> '''그래픽''' ||
+||[[ASTERIOS REENTRY]]||Energetic Trance||NaSch||tro☺per, PEENA||
+||[[Bluesy]]||(미표기)||Cradle Edge||FOX-B||
+||[[CHIARA]]||FREEFORM HARDCORE||RMHN||atsu||
+||[[Diamond Shore]]||Synthticalizm||KIEN||Haru-Sabin||
+||[[Far Away]]||Trance||P4koo||FOX-B||
+||[[Flat Shoes]]||Techno Pop||Cradle Edge||(불명)||
+||[[Flicker]]||(미표기)||Chelp||Haru-Sabin, FOX-B||
+||[[Gothique Resonance]]||(미표기)||P4koo||(불명)||
+||[[Hallucination]]||Electronic Pop||CHERIV||XYZ X RED SAFFRON||
+||[[INFINITY]]||UK Hardcore||Lunatic Sounds||(불명)||
+||[[Immortal]]||(미표기)||Envy||Phillard||
+||[[Lazy Days]]||(미표기)||Houseplan||(불명)||
+||[[May%20I%20Come%20In%3F|May I Come In?]]||Electronic House||Cradle Edge||(불명)||
+||[[Mello Mello|mello mello]]||(미표기)||Cradle Edge||Solm, FOX-B||
+||[[Oriental Shade]]||(미표기)||Seibin||Phillard||
+||[[Purity Dream]]||Electronic House||Kari||(불명)||
+||[[Rendezvous City]]||(미표기)||wigen||LB, FOX-B||
+||[[Repulse Stream#s-2|Repulse Stream (RAVEN@TION Remix)]]||(미표기)||KIEN||FOX-B||
+||[[Sparkling Ways]]||(미표기)||Eunoh X Narmia||(불명)||
+||[[Stereotype Lovesong]]||(미표기)||Goldmund||Haru-Sabin||
+||[[Storm Chaser]]||(미표기)||KIEN||(불명)||
+||[[Terminated Protocol]]||(미표기)||KIEN||(불명)||
+||[[Venn Diagram]]||(미표기)||Cradle Edge||(불명)||
+||[[피로(we hate jh)|피로]]||(미표기)||we hate jh||(뮤직비디오)||
+== 미사용곡 ==
+ * Come on - [[Mario Bolden]], 양준영 작곡.
+ * [[https://soundcloud.com/kienfm/helion-ez2dj-codename-violet-unused-song Helion]] - [[KIEN]] 작곡.
+ * Love Rollercoaster - [[Ruby Tuesday]] 작곡.
+ * Marine's Death - [[CROOVE]] 작곡.
+ * On the Beach - [[Ruby Tuesday]] 작곡. [[Sentimental No! No!]]의 후속곡이다.
+ * Party Time - Itdie(dakick) 작곡.
+ * Starchild - [[Ruby Tuesday]] 작곡.
+ * To you - [[Mario Bolden]] 작곡.
+ * The White Horizon - [https://twitter.com/LhoU_Lamhfhada/status/462268648535502848 LhoU 작곡.]

@@ -1,0 +1,49 @@
+||이 항목은 [[피바]]로 검색해도 들어올 수 있습니다.||
+[[목차]]
+== 개요 ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Tq_IaGMgqB4" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || Trance ||
+|| 작곡 || [[M2U]] ||
+|| BPM || 140 ||
+|| BGA || [[KIMYS]] ||
+
+약칭은 '''피바'''.
+
+[[DJMAX 온라인]]에 수록된 M2U의 곡. 제목은 Virus Ti의 음색을 사용한 것에서 유래하였다. [[Seeker]]에 이은 M2U의 두 번째 트랜스 곡인데 Seeker에 이어서 'Love Is Eternity'와 비슷하다는 표절 의혹이 제기되었다.
+
+BGA는 KIMYS의 루핑 BGA인데, 이미 [[1st-Sync]], [[Extreme Z4]], [[Grid System]] 등 다른 곡에서 선보였던 것과 별다를 게 없어서 비판을 받았다. 이 곡과 [[Angeilc Tears]]에 사용된 루핑BGA의 일부는 [[DJMAX Portable 2]]의 메뉴별 배경으로 재사용되기도 하였다.
+
+은근히 [[Thor]]와 느낌이 유사하다.
+== [[DJMAX 온라인]] ==
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/WhDNHd9r6Dk?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/WhDNHd9r6Dk?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+중국 서버에서 서비스되었던 MX 패턴.
+
+해외서버에서는 국내에는 존재하지 않는 MX 패턴이 서비스 되었는데, 중간 구간에 마치 [[White Blue]]를 연상케 하는 난감한 롱노트 패턴이 있었다.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 BASIC 뮤직 팩 수록곡 ||
+|| [wiki:"EGG(DJMAX)" EGG] || [wiki:"Angel(DJMAX)" Angel] || [Get on Top] || '''Phoenix Virus''' || [Daylight] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 5 || 챌린지 미션 4번 : 5500점 이상[[br]] '''엑스트라''' 챌린지 미션 4번 : Fade In 클리어 ||
+||<#0000FF> {{{#white HD}}} || 6 || ||
+||<#FF0000> MX || '''7''' || ||
+
+http://koukoupuffs.files.wordpress.com/2012/09/phoenix.png?width=560
+그렇게 묻히는가 했는데, 2012년 9월 25일 공개된 [[DJMAX RAY]] 플레이 영상에서 곡이 부활함을 알렸다. 게임 내에선 BASIC 뮤직 팩에 있다.
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/7tr6K3gIdok" frameborder="0" allowfullscreen></iframe>
+}}}
+한 손으로 정박을 치고, 다른 한 손으로는 계속 긁기를 해야 하는 패턴이 굉장히 압박적이다. 거기다가 최후반에는 정박을 치던 그 손마저 바쁘게 움직여야 되는 그야말로 누가 봐도 7레벨과는 거리가 먼 패턴이다. 체감 난이도는 8 레벨이 적당하다.[* 출시 초반에는 9레벨이래봤자 [[wiki:"Daylight" 이 거랑]] [[wiki:"SigNalize" 이 것]]만이 존재하여 9레벨 급이라고 추정되었으나, 현재는 ~~[[wiki:"Bamboo on Bamboo" 이]][[wiki:"Ztar Trek_RE Edit"딴]] [[wiki:"Dark Prism" 놈]][[wiki:"Celestial Tears" 들이]] [[wiki:"Dual Strikers"나와서]]~~ 8 레벨 중상급 정도.]
+
+패턴 자체가 어려워서 판정 난이도는 녹록치 않으며, 올 콤보 난이도는 '''[[wiki:"그냥 시체" 그냥 어렵다]]'''. 아이패드가 아닌 기종으로 할 경우 이 점이 두드러지는데, 그건 바로 특유의 인식오류. 슬라이딩을 한 뒤에 손을 떼고 정박 노트를 치면 정박 노트가 BREAK를 내며 콤보를 끊는 경우가 빈번하다.
+
+엑스트라 챌린지 미션 4번에서는 콤보 2000개 이상을 만들어 내야 하는데, 중간까지 콤보를 끊지 않고 계속 이어가면 무난하게 달성할 수 있으니 미션에 도전하기 전에 미리 연습해두는 것이 좋다.
+== [[TAP SONIC]] ==
+여기서는 아예 처음부터 6라인 레전드 기준 9레벨로 등장했다. 패턴은 이 쪽이 DJMAX RAY 패턴보다 더 어렵다. 거기다가, 수록되자마자 [[SIN]]을 끌어내고 '''9레벨 보스곡'''으로 자리잡았다. ~~그러니까 SIN도 이제 콩~~ 심지어 10레벨 곡인 [wiki:"Dual Strikers"Dual Strikers (Rock Planet Mix)]보다도 어렵다는 의견까지 있을 정도다! [[흠좀무]].

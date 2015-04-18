@@ -1,0 +1,22 @@
+[[TCG]] [[매직 더 개더링]]에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Eron the Relentless''' ||<width=230px><|7>http://www.cardkingdom.com/media/images/products/standard/121075_1.jpg?width=230||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {3}{R}{R} ||
+|| '''유형''' || 전설적 생물-인간 도적 ||
+||||<height=188px>신속
+{R}{R}{R}: Eron the Relentless를 재생한다.
+
+''Eron would be much less of a hassle if only he were mortal." - Reyhan, Samite alchemist'' ||
+|| '''공격력/방어력''' || 5/2 ||
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블록"블록]]''' || '''희귀도''' ||
+|| [[Homelands]] || - || 언커먼 ||
+|| [[Time Spiral]](Timeshifted) || Time Spiral || [[Timeshifted]] ||
+
+신속이 붙어서 꺼내자마자 공격할 수 있는 공격형 생물 중 하나. 재생 능력도 붙어있지만 비용 때문에 꺼낸 그 턴에 재생시키기는 힘들다.
+
+스토리 상에서는 카드 유형에서도 알 수 있듯 도적이다(…) 원래는 타락한 마법사와 일하다가 [[Baron Sengir]]의 힘으로 불사신이 되며 이를 적극적으로 이용해 Koskun 산의 고블린을 지배하는등 사회적 지위를 누린다. 적색 답지 않게 재생이 달린 이유가 바로 이 스토리 때문으로 홈랜드가 색깔은 갖다 버리고 스토리 중심으로 나아갔음을 알게 해주는 카드 중 하나. 
+
+적 마나 만으로 재생할 수 있는 카드가 초창기 카드를 다 따져도 [[Goblin Chirurgeon]]와 트롤이라는 설정 때문에 들어간 [[우던 트롤]], 이 카드와 마찬가지로 매직에 대해 잘 모르는 사람들이 만든 [[The Brute]]밖에 없다는 점에서도 알 수 있다. 

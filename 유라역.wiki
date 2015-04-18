@@ -1,0 +1,25 @@
+{{{+1 由良駅 / Yura Station }}}
+ * [[일본 철도 정보/역 관련 정보]]
+
+[[wikicommons(Yura Station.jpg)]]
+2012년까지의 역사. 평범한 마을 역이다.
+
+[[목차]]
+== 개요 ==
+[[일본]] [[돗토리]]현 [[도하쿠]]군 [[호쿠에이]]정에 있는 [[JR 니시니혼]] [[산인 본선]]의 철도역. 개통 당시에는 야츠하시역이었다. 일명 '코난역'.
+
+관광 목적으로 찾는 승객이 많음에도 불구하고 각역정차 등급만 서서 특급 시간표만 숙지하고 가는 관광객에게 시원하게 뒤통수를 갈겨준다.
+== 코난역 ==
+{{{#!html 
+<p><a href="http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Yura_Eki_Zenkei_1.jpg#/media/File:Yura_Eki_Zenkei_1.jpg"><img alt="Yura Eki Zenkei 1.jpg" src="http://upload.wikimedia.org/wikipedia/ja/b/b3/Yura_Eki_Zenkei_1.jpg"></a><br>"<a href="http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Yura_Eki_Zenkei_1.jpg#/media/File:Yura_Eki_Zenkei_1.jpg">Yura Eki Zenkei 1</a>" by 京浜にけ - 投稿者の撮影. Licensed under <a title="GNU Free Documentation License with no disclaimers" href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_GNU_Free_Documentation_License">GFDL-no-disclaimers</a> via <a href="//ja.wikipedia.org/wiki/">Wikipedia</a>.</p>}}}
+[[명탐정 코난]]의 작가인 [[아오야마 고쇼]]의 고향이 근처에 있고, 관광 수요를 위해 아오야마 고쇼 후루사토관(코난 박물관) 등 이것 저것 지어놓은 게 있어서 평범한 역 치고 관광객이 꽤 찾는 곳이다. 2013년부터는 코난역이라는 이름이 붙었다.
+
+열차에서 내리면 승강장에서부터 [[에도가와 코난]]과 주변 인물들이 승객을 반긴다. 대합실에도 여기저기 명탐정 코난의 캐릭터로 도배되어 있다. 역 광장에는 에도가와 코난의 청동상이 있으며, 아오야마 고쇼 후루사토관으로 가는 1.4km의 길 여기저기에서도 명탐정 코난의 캐릭터를 찾을 수 있다.
+
+== 역 및 승강장 ==
+||||||||||<#0072bc> {{{#ffffff 산인 본선}}} ||<#0072bc><|6>{{{#ffffff 운영주체 : 서일본 여객철도}}}[[br]]{{{#ffffff 개업일 : 1903년 12월 20일}}} ||
+||<width=100px> [wiki:"교토역" 교　토] 방면[[br]][wiki:"시모호죠역" 시모호죠] || {{{+1 ← }}} ||<width=100px> 유　라 || {{{+1 → }}} ||<width=100px> [wiki:"하타부역" 하타부] 방면[[br]][wiki:"우라야스역(돗토리현)" 우라야스] ||
+
+2면 3선의 승강장으로 승객 취급은 1번 홈에서만 한다.
+
+[[각주]]

@@ -1,0 +1,18 @@
+{{{+1 鶴見市場駅 / Tsurumi-ichiba Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keikyu-railway-main-line-Tsurumi-ichiba-station-platform.jpg/600px-Keikyu-railway-main-line-Tsurumi-ichiba-station-platform.jpg
+
+||||||||||<#00bfff> {{{#ffffff 케이큐 본선}}} ||<#cc1144><|6>{{{#ffffff 운영주체 : 게이힌 급행전철}}}[[br]]{{{#ffffff 개업일 : 1905년 12월 24일}}} ||
+||<width=100px> [wiki:"시나가와역" 시나가와] 방면[[br]][wiki:"핫쵸나와테역" 핫쵸나와테][[br]](KK-27) || {{{+1 ← }}} ||<width=100px> 츠루미이치바[[br]](KK-28) || {{{+1 → }}} ||<width=100px> [wiki:"우라가역" 우라가] 방면[[br]][wiki:"츠루미역" 케이큐츠루미][[br]](KK-29) ||
+
+일본 [[카나가와]]현 [[요코하마]]시 츠루미구에 위치한 [[게이힌 급행전철]] [wiki:"케이큐 본선" 본선]의 역이다. 상대식 승강장의 지상역으로 8량 편성까지 받을 수 있다. 케이큐 본선이 요코하마 시내로 진입하면 나오는 첫 역이기도 하다.
+
+역 주변은 주택가이며 1980년대부터 맨션이 들어서고 있다. 대형 상업시설은 주변에 없다.
+
+여담으로 '츠루미 시장'이 아니다. 절대 이 근처에 시장 같은 거 없다. '''그냥 지명이 이렇다'''.
+
+'''완급결합'''
+||||||<#808080> {{{#ffffff 각역정차}}}
+||<width=100px> [wiki:"핫쵸나와테역" 핫쵸나와테] || {{{+1 ← }}} ||<width=100px> 츠루미이치바 || {{{+1 → }}} ||<width=100px> [wiki:"츠루미역" 케이큐츠루미] ||
+
+[[각주]]

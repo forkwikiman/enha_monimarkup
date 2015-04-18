@@ -1,0 +1,96 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 3rdTRAX ~Absolute Pitch~]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2DJ 3rdTRAX ~Absolute Pitch~/삭제곡|삭제곡]] || [[EZ2DJ 3rdTRAX ~Absolute Pitch~/라디오채널|라디오채널]] || [[EZ2DJ 3rdTRAX ~Absolute Pitch~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~]]의 히든커맨드 목록.
+
+ * 이 항목은 [[EZ2DJ 3rd/히든커맨드]]로도 들어올 수 있다.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://web.archive.org/web/20050126090353/http://bb100.nalove.org/ez2dj/3rd/hidden.html]
+  * [https://docs.google.com/spreadsheet/ccc?key=0AguAt1s3MJirdDlIeWlLY0hXcnJGLXB5UU5NR2xjVXc#gid=1]
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=f_cat&no=581]
+
+[[목차]]
+== 범례 ==
+ * 버튼: 1-2-3-4-5-6-7-8-9-0
+ * 이펙터: E1-E2-E3-E4
+ * 페달: P1-P2
+
+== 히든 커맨드 ==
+ * 올송
+ 모드 선택 화면에서 해당 모드에 커서를 맞춘 후 스타트 버튼을 누르고 입력한다. 1, E1, 2+3+4+5 / 1+2, E2, 3+4+5 식으로 동시 입력을 해도 인식된다.
+ 올송을 걸 경우 Street Mix의 해금 하드믹스는 1, 2스테이지에서만 출현한다. 올송을 안 걸었을 경우에는 아래에서 설명하는 루트를 통해서 꺼낼 수 있다. 굳이 이렇게 한 이유는 당시 개최되었던 인터넷 랭킹의 밸런스를 맞추기 위해서인 듯. 하지만 소위 스타트버튼 버그로 인해서 무색해지고 말았다.
+  * Ruby Mix: 1-E1-2-3-4-5
+  * Street Mix: 1-2-E2-3-4-5
+  * 7Street Mix: 1-2-3-E3-4-5
+  * Space Mix: 1-2-3-4-E4-5
+
+ * 노트 스킨
+ 곡 선택 화면에서 스타트 버튼을 누른 채로 입력한다.
+  * EZ2Dancer(서클): E1-E3-E2-E4-E3-E2-E4
+  * 우주선: E1-E3-E2-E4-E1-E2-E4
+  * 무당벌레: E1-E3-E2-E4-E4-E2-E4
+  * 패닉: E1-E3-E2-E4-E2-E2-E4
+
+ * 슬라이드 모드
+ 기어 스킨이 좌우로 계속 움직인다.
+ 곡 선택 화면에서 스타트 버튼을 누른 채로 E2-E1-E3-E4-P1-P2
+ 
+ * 스캔 모드
+ 판정선이 위 아래로 움직인다.
+ 곡 선택 화면에서 스타트 버튼을 누른 채로 E4-E2-E1-E3를 입력하고 2P 턴테이블을 시계 방향으로 돌린다.
+
+ * 리버스 모드
+ 기어 스킨이 상하로 뒤집힌다.
+ 곡 선택 화면에서 스타트 버튼을 누른 채로 E4-E2-E1-E3를 입력하고 1P 턴테이블을 반시계 방향으로 돌린다.
+
+ * EZ2Catch
+ 3rd에서 처음 등장한 이지투캐치. 당시에는 미니 게임으로 들어간 것이기 때문에 다른 모드와 분리되어 있었다.
+ 타이틀 화면에서 1P 페달을 밟은 채 1P 턴테이블을 시계 방향으로 3초간 돌려준다. 한 번 더 입력하면 일반 모드로 돌아갈 수 있다.
+
+== 히든 곡/채널 ==
+ * Street Mix 하드믹스 해금
+ 특정한 루트로 플레이하면 마지막 판에 숨겨진 하드믹스가 해금된다. 올송을 걸면 1, 2스테이지 한정으로 모두 등장한다.
+|| 1st Stage || 2nd Stage || Final Stage ||
+|| [[2nd Jewel]] HD || [[Lie Lie]] HD || [[Stay]] HD ||
+|| [[Black Market]] HD || [[Minus 2]] HD || [[Cosmic Bird]] HD ||
+|| [[Minus 1]] HD || [[Give it 2 me]] HD || [[Y-Gate]] HD ||
+|| [[Night Watcher]] HD || [[Sparrow]] HD || [[The Future]] HD ||
+|| [[Get the beat]] HD ||  [[Mystic Dream 9903]] ~Horror Mix~ HD || [[20000000000]] HD ||
+
+ * Radio Mix 히든 채널 해금
+ Kentauji, Ominan 채널이 등장한다.
+ 채널 선택 화면에서 스타트 버튼을 누른 채 1P는 E1-E4-1-5-3-E2-E3을, 2P는 E4-E1-10-6-8-E3-E2를 입력한다.
+
+ * Space Mix 3스테이지 곡 공식
+ (1스테이지 곡 번호+2스테이지 곡 번호)/3의 나머지가 0이면 [[Sparrow]] HD, 1이면 [[Cosmic Bird]] HD HD, 2면 [[20000000000]] HD가 나온다. 물론 2스테이지까지 콤보 게이지를 다 채워야 나온다.
+|| 곡 번호 || 1스테이지 || 2스테이지 ||
+|| 0 || [[Anemia]] || [[Say That U]] ||
+|| 1 || [[The Future]] || [[Back to Bed]] ||
+|| 2 || [[Envy Mask]] || [[The Rhythm]] ||
+|| 3 || [[Stay|Stay (Radio Edit)]] || [[Showdown]] ||
+|| 4 || [[We Luv Music]] || [[Red Hot]] ||
+|| 5 || [[Sparrow]] || [[Do you remember|Do You Remember? (Remix)]] ||
+|| 6 || [[Quake in Kyoto]] || [[Damnation]] ||
+|| 7 || [[Hypnotize]] || [[Substance]] ||
+|| 8 || [[Departure]] || [[The 3rd Place]] ||
+|| 9 || [[Anytime]] || [[Smash]] ||
+|| 10 || [[Black Market]] || [[DIEOXIN]] ||
+|| 11 || [[Red Ocean]] || [[Night Watcher]] ||
+|| 12 || [[Lie Lie]] || [[Minus 2]] ||
+|| 13 || [[Y-Gate]] || [[2nd Jewel]] ||
+|| 14 || [[M Police]] || [[Minus 1 ~Space Mix~]] ||
+|| 15 || [[Shake]] || [[R.F.C.]] ||
+|| 16 || [[Sand Storm]] || [[Cosmic Bird]] ||
+|| 17 || [[Ztar warZ]] || [[20000000000]] ||
+
+ * EZ2Catch 곡 공식
+|| || ||[[You love the life you live]]|| ||[[Be My Baby]]|| ||[[JAM(EZ2DJ)|JAM]]|| || ||
+|| ||[[Sentimental No! No!]]||[[Funky 5]]||[[The Boy ~Here comes my baby~|The Boy]]||[[Look out ~Here comes my love~|Look Out]]||[[Combination]]||[[Seize The Day]]||[[The Rhythm]]|| ||
+||[[2.14]]||[[Confete]]||[[Stay]]||[[Back For More]]||[[For 3 Weeks]]||[[Say That U]]||[[We Luv Music]]||[[Theme of EZ2DJ]]||[[20000000000]]||
+
+ 남아있는 게이지의 양과 색깔에 따라 다음 스테이지의 곡이 결정된다.
+ * 청록색: 두 칸 오른쪽 아래의 곡. 단 Jam에서는 The Rhythm이 나오고 The Rhythm에서는 200000000이 나온다.
+ * 초록색: 한 칸 오른쪽 아래의 곡. 단 Jam에서는 Seize The Day가 나오고 The Rhythm에서는 Theme of EZ2DJ가 나온다.
+ * 노랑색: 바로 아래의 곡.
+ * 주황색: 한 칸 왼쪽 아래의 곡.
+ * 빨강색: 두 칸 오른쪽 아래의 곡. 단 You love the life you live에서는 Sentimental No! No!가 나오고 Sentimental No! No!에서는 2.14가 나온다.

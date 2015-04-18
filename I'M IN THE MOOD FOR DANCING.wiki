@@ -1,0 +1,60 @@
+[[목차]]
+
+== 개요 ==
+http://upload.wikimedia.org/wikipedia/en/thumb/6/6b/I%27m_in_the_Mood_for_Dancing.jpg/220px-I%27m_in_the_Mood_for_Dancing.jpg
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/S-A9-yo9SeU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[아일랜드]] 출신의 4인조 여성 가수 그룹 The Nolas의 11번째 싱글이자 그 타이틀곡으로, 1979년 [[11월 3일]]에 싱글이 발표된 이래로 지금까지 많은 사랑을 받고 있는 The Nolans의 히트곡 중 하나이다.
+
+싱글 발표 당시에는 The Nolan Sisters라는 명의로 활동했었으며 PV에 등장하는 콜린 놀란(Coleen Nolan)도 원래는 정식 멤버가 아니었으나 이 곡 이후에 첫째인 앤 놀란(Anne Nolan)을 대체하는, 그룹의 막내로서 활동하게 되고 그룹 명의도 The Nolans로 바뀌었다.
+
+이 곡은 일본에서도 ダンシング・シスター(댄싱 시스터)라는 제목으로 발표된 바가 있는데 2주 동안 오리콘 차트 1위를 유지해 왔다.
+
+[[2004년]]에는 [[NHK]] 교육 채널에서 방송된 프로그램인 '천재 테레비군 맥스(天才てれびくんMAX)'의 코너 중 하나인 '뮤직 테레비군(ミュージックてれびくん, MTK)'에서 이 곡을 커버했다. 원 가사의 [[몬데그린]]이 인상적이다(...).
+
+== [[BEMANI 시리즈]]에 수록 ==
+=== [[댄스 댄스 레볼루션]] ===
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계(EXTREME 기준) ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER／習}}} || {{{#orange LIGHT／楽}}} || {{{#red STANDARD／踊}}} || {{{#green HEAVY／激}}} || {{{#purple CHALLENGE／鬼}}} ||
+|| {{{#blue -}}} || {{{#orange 3}}} || {{{#red 5}}} || {{{#green 8}}} || {{{#purple -}}} ||
+||<|3><:> 150|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange LIGHT／楽}}} || {{{#red STANDARD／踊}}} || {{{#green HEAVY／激}}} || {{{#purple CHALLENGE／鬼}}} ||
+|| || {{{#orange 3}}} || {{{#red 5}}} || {{{#green 7}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/삭제곡, 아케이드 미수록곡|곡 목록으로 돌아가기]]
+
+DDRMAX 에서 첫 수록, 아케이드에서는 DDR EXTREME까지 수록되었다. SHARON이라는 아티스트의 [[유로비트]] 리믹스 버전으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/dcdElIa5kNY" frameborder="0" allowfullscreen></iframe>
+}}}
+HEAVY모드 플레이 영상
+
+=== [[유비트 시리즈]] ===
+http://img.i-revo.jp/jubeat/img/id82a1ac0c3cb6abec95ee2270d1b01acb.jpg
+
+||||||||<#faca00><:>{{{#black jubeat knit append 기준}}}||
+||<|2><#faca00><:>{{{#black 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>4||<:>6||
+||<#faca00><:>{{{#black 노트수}}}||<:>188||<:>342||<:>514||
+||<#faca00><:>{{{#black BPM}}}||||||<:>105||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#002040><:>{{{#white 아케이드 수록}}}||||||<:>[[유비트]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>music pack 04||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+ * [[유비트 시리즈/삭제곡|곡 목록으로 돌아가기]]
+
+커버보컬로 수록되었으며, [[유비트 코피어스]]에서 삭제되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/WGwsKFiqQbU" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면 영상
+
+배치는 단순한 편이라서 박자감을 잃지 않으면 S 이상은 찍을 수 있다. 후반부에 노트가 많이 나오니 주의하자. 유비트 리플즈에서 ADVANCED와 EXTREME의 난이도가 각각 4, 6으로 내려갔다.
+

@@ -1,0 +1,85 @@
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[NAOKI]]. 보컬 공개 오디션으로 뽑힌 유니트 [[BeForU]]([[코사카 리유]], [[시라이시 노리아]]가 속한)의 '''첫 곡'''이다.
+
+[[목차]]
+
+== 원곡 DIVE ==
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/PG5B4UNlFhc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| || {{{#orange BASIC}}} || {{{#red TRICK}}} || {{{#green MANIAC}}} ||
+|| || {{{#orange 4}}} || {{{#red 5}}} || {{{#green 8}}} || 
+||<|3> 155|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red TRICK}}} || {{{#green MANIAC}}} ||
+|| || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 7}}} ||
+DDR X 20레벨 난이도 체계 정립 이전에 삭제되어 최종 수록작인 5th mix의 표기 난이도를 따른다.
+
+첫 수록은 [[댄스 댄스 레볼루션]] 5th MIX. [[플레이스테이션]]으로 나온 전용 시리즈인 DDR Extra MIX에 선행수록곡으로 실리기도 했다.
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/15tt_G_bfIE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+영화 [[와사비]]에서 [[장 르노]]가 중간에 오락실의 DDR에서 플레이한 곡이기도 하다(...)
+
+BeForU의 데뷔곡이라는 기념비적인 노래이긴 하지만, 게임 내에서는 별로 인기를 끌지 못했다. 그래서 구곡이 전부 삭제된 DDRMAX 이후 오리지날 버전은 아케이드 [[BEMANI 시리즈]]에서 영영 찾아볼 수 없게 되었다. 가정용에서는 PS2판 DDR FESTIVAL에 새로운 BGA와 함께 수록되어 있다.
+
+롱버전은 BeForU의 첫 앨범인 BeForU에 수록.
+
+== DIVE (more deep & deeper style) ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/DvtJWkvFzZQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 1}}} || {{{#orange 3}}} || {{{#red 5}}} || {{{#green 7}}} ||
+||<|3> 155|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 2}}} || {{{#red 5}}} || {{{#green 6}}} ||
+DDR X 20레벨 난이도 체계 정립 이전에 삭제되어 최종 수록작인 SuperNOVA2의 표기 난이도를 따른다.
+
+가정용 5th에서 해금곡으로 등장한 리믹스 버전. 해금하는 방법은 곡을 80번 클리어하는 방법도 있지만, 그것보단 갤러리 모드에서 [[코나미 커맨드]]를 입력하는 방법으로 그냥 해금이 가능하다. 아케이드엔 DDRMAX에 이식. BeForU의 대부분 곡들이 짤린 X에서 삭제되었다.
+
+== DIVE ~into your heart~ ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/4vSJ4DgeGcM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 장르명 |||||| HYPER TRANCE EURO BEAT[[BR]]하이퍼 트랜스 유로비트 || [[BPM]] |||| 155 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 5}}} || {{{#blue 656}}} || {{{#orange 8}}} || {{{#orange 945}}} || {{{#red 10}}} || {{{#red 1066}}} ||
+|| [[더블 플레이]] || {{{#blue 5}}} || {{{#blue 623}}} || {{{#orange 8}}} || {{{#orange 998}}} || {{{#red 10}}} || {{{#red 1083}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 6th Style ~
+ * [[가정용]] 수록 : 6th, 7th, 9th
+
+beatmania IIDX 6th Style에 수록. 위의 DIVE (more deep & deeper style)을 기반으로 영어 가사로 바뀐 버전. 보컬은 BeForU가 아닌 Paula Terry로 바뀌었는데, BeForU가 부른 버전보다 이쪽이 평가가 더 좋다(...) 
+
+어나더채보는 싱글이나 더블이나 트릴이 아주 많아서 레벨10에서도 꽤 까다로운 편에 속한다. 그런데, 싱글어나더는 해피스카이 난이도 개편당시에는 '''9'''였다. 다음작 Distorted에서 10으로 승격.
+
+BGA는 [[VJ GYO]]의 전용 BGA를 사용한다.
+
+== DIVE TO THE NIGHT ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/fIB5eh4RkPs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 3}}} || {{{#orange 4}}} || {{{#red 8}}} || {{{#green 10}}} ||
+||<|3> 155|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 5}}} || {{{#red 9}}} || {{{#green 11}}} ||
+
+코사카 리유가 개사하고 단독 보컬로 부른 버전. DDRMAX2에 첫 수록되었다. 이 노래 역시  DIVE (more deep & deeper style) 기반. 위의 리믹스와는 달리 이 버전은 X에서도 생존하였다. 현행작인 DDR 2014에서 남아있는 DIVE 관련 노래는 이 노래뿐이다.
+
+코사카 리유의 싱글인 true...에 롱버전이 수록되었고, 같은 가수의 싱글인 begin에 [[jun]]이 리믹스한 버전이 수록되었다.

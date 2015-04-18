@@ -1,0 +1,17 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>  '''영어판 명칭''' || '''Rhox War Monk''' ||<width=223px><|6>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174957&type=card?.png&width=230px||
+|| '''한글판 명칭''' || '''록스 전쟁수도사'''[* [[DotP 2015]] 번역] ||
+|| '''마나비용''' || {G}{W}{U} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 생물 — 코뿔소 승려 ||
+||||<height=160px>생명연결
+
+''Rhox monks are dedicated to spiritual growth and learning, and most bear the sigils of many students. However, they do not gladly suffer fools or those who disagree with their carefully wrought dogma.''||
+|| '''공격력/방어력''' || 3/4 ||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Shards of Alara || 언커먼 ||
+
+반트덱의 영웅같은 존재이다. 3마나로 3/4에 라이프링크라는 것은 확실히 절륜한 능력으로 4라는 방어력 또한 튼실해서 [[Incinerate]]나 [[Nameless Inversion]]으로는 못 죽이는데다가 때리면 때릴수록 자기 피도 차는 라이프링크능력. 게다가 [[Rafiq of the Many]]와 함께하면 그야말로 절륜한 데미지를 주기 때문에 한때 반트 익절티드덱의 주력 생물이기도 했다. 다만 서로 다른 유색마나 3개를 쓰기 때문에 칼패턴으로 뽑기가 쉽지 않다는 것이 단점.
+
+반트덱 뿐 아니라 크루얼 컨트롤 덱에서도 많이 썼지만 [[Plumeveil]]과 [[Wall of Reverence]]를 많이 쓰기 시작하면서는 크루얼 컨트롤 덱에서의 사용 빈도는 줄었다.

@@ -1,0 +1,29 @@
+[[목차]]
+== 개요 ==
+{{{#!html
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/QMujDfbn6Ck?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || Dub Hous ||
+|| 작곡 || [[ND Lee]] ||
+|| 작사 || STONE IRON ||
+|| 보컬 || ND Lee ||
+|| BPM || 129 ||
+|| 비주얼 || 38 ||
+
+DJMAX RAY에 수록된 신곡이다. ND Lee의 주특기라 볼 수 있는 대중가요 스타일의 하우스 곡.
+DJMAX RAY 신곡을 통해 대거 도입되기 시작한 [덥스텝]을 일부 섞어놓은 것이 특징.
+
+들어보면 알다시피 중반부에 [The MAX]의 멜로디를 일부 차용하였다.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Delight 팩 수록곡 ||
+|| [[Sunny Side]](Remix) || [[Feel]] || [[Now a NEW Day]] || [[Another Day]] || '''GirlZ''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 ||
+||<#0000FF> {{{#white HD}}} || 6 ||
+||<#FF0000> MX || 7 ||
+
+DJMAX RAY의 Delight 뮤직팩의 히든곡으로 수록되었다.

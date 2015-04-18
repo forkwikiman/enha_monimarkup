@@ -1,0 +1,34 @@
+[[목차]]
+= 대한민국의 가수 [[왁스]]의 노래 =
+[[왁스]]의 2집 앨범 《화장을 고치고》의 수록곡. 장혜리가 88년에 발표한 '내게 남은 사랑을 드릴게요'를 리메이크 한 곡이다. 작사가는 함경문, 작곡가는 하광훈. 원곡은 이전에도 여러 가수에 의해 리메이크 되기도 했는데 왁스가 부르면서 제목이 위와 같이 바뀌었다. 가사도 [[존댓말]]에서 [[반말]]로 바뀌었다.
+드라마 [[파리의 연인]]에서 [[wiki:"김정은(배우)" 김정은]]이 이 곡을 부르면서 화제가 되기도 하였다.
+
+== [[wiki:"펌프 잇 업/EXCEED2" Pump It Up Exceed 2]] 수록곡 ==
+ * 상위 항목 : [[펌프 잇 업/수록곡 일람]]
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/EXCEED2" Pump It Up Exceed 2]] ||
+|| 아티스트 |||| [[왁스]] ||
+|| BPM |||| 164 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| K-Pop / Exceed ~ Zero ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 2 / 4 / 7 / 16 ||
+||<#009900> Double || 7 / 18 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+
+{{{#!html 
+<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/-I_SMJYq5qE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-I_SMJYq5qE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+싱글 16 채보.
+
+영문명은 I'll Give You All My Love. 펌프 유저들은 줄여서 주로 ''''내남사'''' 라고 부른다.
+
+EXCEED2 당시 [[Canon-D]] 나이트메어 해금 대상 곡 이었는데 조건이 3스테이지에서 크레이지 스텝을 10미스 이하로 클리어하는 것.(보너스 스테이지에서 등장, 한판이 끝나면 초기화된다...) 버그가 있었는데 '싫어'라는 곡을 잠금설정하고 무혼2 등장 커맨드를 입력하면 무혼2와 함께 Canon-D가 선택 가능해진다.
+
+NX2에서는 풀송 나이트메어 스텝이 등장했으나 월맥으로만 나와서 원성을 사게 되었다.
+
+
+[[추가바람]]
+[[수정바람]]

@@ -1,0 +1,78 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+[[목차]]
+== Pyroclasm ==
+||<tablewidth=100%> '''영어판 명칭''' || '''Pyroclasm''' ||<width=230px><|5>http://abouttcg.com/web/product/medium/abouttcg_4529.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {1}{R} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 집중마법 ||
+||||<height=216px>Pyroclasm은 각 생물에게 피해 2점을 입힌다.||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Ice Age || 언커먼 ||
+|||| Portal || 레어 ||
+|||| 7th Edition~Magic 2011 || 언커먼 ||
+|||| Duel Decks: Sorin vs. Tibalt || 언커먼 ||
+|||| Duel Decks: Heroes vs. Monsters || 언커먼 ||
+
+쌈박하게 아군이고 적군이고 모조리 2데미지씩. 웬만한 위니는 이걸로 전멸이고, 발동비용도 싸기때문에 다색덱에 보험삼아 넣어도 손해볼 것이 없다. 물론 번덱에서도 유용.
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''[[wiki:"플레이버 텍스트"배경담]]''' ||
+|| Ice Age || ''"Leaves more room for the big ones to fight in, you know." —[[Jaya Ballard, Task Mage]]'' ||
+|| 7th~10th Edition || ''"When the air burns, only death breathes deep." —Bogardan mage'' ||
+|| Magic 2010~2011 || ''"Who'd want to ignite things one at a time?" —[[Chandra Nalaar]]'' ||
+
+== 변형 ==
+ * 발비가 엄청 늘고 두 배의 데미지를 주는 Inferno라는 카드가 존재한다.
+ * Conflux에서는 카운터를 할 수 없는 순간마법인 Volcanic Fallout이 있다. 하단 참조.
+ * Mirrodin Besieged에서는 모든 플레이어에게 3점 데미지를 주거나, 모든 생물에게 3점 데미지를 주는 것 중 하나를 택할 수 있는 1RR짜리 스펠 Slagstorm이 나왔다. 
+ * New Phyrexia는 발비가 1R로 같은 Whipflare가 나왔는데, 이쪽은 마법물체 생물이 아닌 생물에만 적용된다.
+ * Innistrad에는 발비가 2R에 비행이 없는 생물들에게 2점의 피해를 입히는 Rolling Temblor(한글명 '구르는 지진')가 등장한다. 발비가 1 늘고 비행생물을 못때리는 대신 회상 4RR이 있다.
+ * Theros에는 1RR로 3점을 때리는 대신 피해를 입은 생물이 죽으면 추방당하는 신들의 진노가 있다. 역시 하단 참조.
+
+=== 지옥의 불길 ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Inferno''' ||<width=230px><|5>http://www.cardkingdom.com/media/images/products/standard/68200_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''지옥의 불길''' ||
+|| '''마나비용''' || {5}{R}{R} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 순간마법 ||
+||||<height=216px>지옥의 불길은 각 생물과 각 플레이어에게 피해 6점을 입힌다.||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| The Dark || 레어 ||
+|||| 4th~8th Edition || 레어 ||
+
+발비가 어마어마하게 올라갔지만 순간마법이 되었고 플레이어한테도 데미지를 줄 수 있다. [[지진]]과는 다르게 비행의 여부와는 상관없이 피해를 다 줄 수 있지만 역시나 너무나도 높은 발비 때문에 쓰이지 않게 된 카드
+
+=== Volcanic Fallout ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Vocanic Fallout''' ||<width=230px><|5>http://www.cardkingdom.com/media/images/products/standard/126415_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {1}{R}{R} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 순간마법 ||
+||||<height=216px>Volcanic Fallout은 무효화될 수 없다.
+Volcanic Fallout은 각 생물과 플레이어에게 피해 2점을 입힌다.
+
+''"How can we outrun the sky?"[[br]]—Hadran, sunseeder of Naya''||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Conflux || 언커먼 ||
+|||| Archenemy || 언커먼 ||
+
+당시 페어리덱을 상대로 탁월한 성능을 발휘했다. [[Scion of Oona]]? [[Bitterblossom]]? [[Spellstutter Sprite]]? 다 이 Volcanic Fallout에 한 줌의 재로 날아갈 뿐이다. (다만 Bitterblossom으로 꺼낸 토큰만 날아가지 Bitterblossom 자체는 그대로 있다) 게다가 플레이어에게도 데미지를 주기 때문에 Conflux가 나온 이후로 번덱을 제대로 설레게 한 카드. 또한 RW 레베일라크 덱에서도 상대가 [[Sower of Temptation]]을 꺼내서 [[Reveillark]]를 뺏아가도 이걸 지르면 되기 때문에 더더욱 애용하는 카드.
+
+하지만 상대가 [[Burrenton Forge-Tender]]를 꺼내면? OTL.
+
+레거시에서는 머폭 덱이 제일 싫어하는 카드. 카운터도 못치고, 생물들이 죄다 자잘한 녀석들이니... 하지만 [[True-Name Nemesis]]가 나오면서... [[지못미]]
+
+=== 신들의 진노 ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Anger of the Gods''' ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/191315_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''신들의 진노''' ||
+|| '''마나비용''' || {1}{R}{R} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 집중마법 ||
+||||<height=190px>신들의 진노는 각 생물에게 피해 3점을 입힌다. 이렇게 피해를 입은 생물이 이번 턴에 죽으려고 하면, 대신에 그 생물을 추방한다.
+
+''재앙을 일으킨 것이 신이거늘, 기도해 봐야 무슨 소용이 있겠는가?''||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Theros || 레어 ||
+
+꽤나 흔하게 볼 수 있는 Pyroclasm의 변형 중 하나. 정확히는 2 블럭 전에 나왔던 [[불꽃 기둥]]을 Pyroclasm에 합친 형태라 보면 되겠다. [[테로스]] 블럭의 모티브가 [[그리스 신화]]라서 [[신의 분노]]의 재판을 원하는 사람들이 많았으나, 막상 등장한 것은 신의 분노가 아닌, 짝퉁스러운 이름의 이 카드.
+
+이걸로 죽인 생물들은 무덤으로 가지 않고 추방시키기 때문에 불사나 Persist 능력이 있었던 환경이라거나, [[Bloodghast]]나 [[무덤을 기어다니는 좀비]]를 상대할 땐 좋았지만... 이것들이랑 T2에서 만나지 못했고, 오히려 T2에는 [[청소부 점액괴물]] 때문에 무덤의 생물들이 청소당해서 리애니덱이 사멸할 수밖에 없는 환경이라는게 문제. 물론 [[위니]]들을 싹쓸이하기에는 여전히 좋다. 또한 [[부흥의 목소리]]를 죽이는 데에도 탁월하다. 그리고 [[파도의 대가]]가 만든 토큰을 죽이는데도 좋다. 파도의 대가 본인은 못 죽이지만.

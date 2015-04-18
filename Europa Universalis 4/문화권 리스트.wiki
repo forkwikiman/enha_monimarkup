@@ -1,0 +1,510 @@
+ * 상위문서: [[Europa Universalis 4]]
+
+http://www.eu4wiki.com/images/thumb/e/e8/Culture.PNG/1600px-Culture.PNG
+EU4의 문화권 지도
+http://www.eu4wiki.com/images/thumb/7/74/Cultures.PNG/1200px-Cultures.PNG
+EU4의 개별 문화 지도
+
+[[목차]]
+
+주항목은 문화권으로, 어느 국가든 주 문화와 같은 문화권의 다른 하위 문화 지역에서는 다른 문화권인 지역보다 페널티가 적어진다.
+하위 문화권 옆에 적혀있는 국가는 그 문화의 주요 국가로, 해당 나라의 코어는 일단 생기면 그 문화 지역에서 사라지지 않는다.
+Union으로 표기된 국가는 해당 문화권 전체를 아우르는 국가로, 그 문화권의 모든 하위문화에 주요 문화와 같은 어드밴티지를 받는다. 그러나 코어는 사라질 수 있다.
+또한 개척지 등에만 있어 문화권 내에 국가가 하나도 없는 경우도 있다. 그 경우엔 문화 아래에 국가가 없다.
+
+== 유럽[* 게임상 테크로 동/서유럽을 구분] ==
+=== 서유럽 ===
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>British ||
+||<#E9E4FF> '''Union''' ||||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2b/Great_Britain.png/40px-Great_Britain.png Great Britain(대 브리튼)||
+||<#B3AEFF><width=33%> '''하위문화''' ||<width=34%><#EDAEFF> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>English ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/21/England.png/40px-England.png England(잉글랜드)|| Lancaster(랭카스터), Northumberland(노섬버랜드), York(요크) ||
+||<#E9E4FF>Scottish ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/27/Scotland.png/40px-Scotland.png Scotland(스코틀랜드)|| ||
+||<#E9E4FF>American ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/22/United_States_of_America.png/40px-United_States_of_America.png USA(미국)|| ||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Celtic||
+||<width=33%><#B3AEFF> '''하위문화''' ||<width=34%><#EDAEFF> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Breton||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1c/Brittany.png/40px-Brittany.png Brittany(브르타뉴)||||
+||<#E9E4FF>Irish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/4b/Ireland.png/40px-Ireland.png Ireland(아일랜드)||||
+||<#E9E4FF>Welsh||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d9/Wales.png/40px-Wales.png Wales(웨일즈)|| Cornwall(콘월) ||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>French||
+||<#E9E4FF> '''Union''' ||||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/de/France.png/40px-France.png France(프랑스)||
+||<width=33%><#B3AEFF> '''하위문화''' ||<width=34%><#EDAEFF> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Aquitaine||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/ac/Toulouse.png/40px-Toulouse.png Toulouse(툴루즈)||||
+||<#E9E4FF>Burgundian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/b0/Burgundy.png/40px-Burgundy.png Burgundy(부르고뉴)||Bar(바), Lorraine(로렌), Nevers(느베르) ||
+||<#E9E4FF>Cosmopolitaine||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/de/France.png/40px-France.png France(프랑스)||Alençon(알랭송), Bourbonnais(부르보네), Champagne(상파뉴), Orleans(오를레앙) ||
+||<#E9E4FF>Gascon||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1f/Guyenne.png/40px-Guyenne.png Guyenne(기옌)||Armagnac(아르마냐크), Foix(푸아) ||
+||<#E9E4FF>Norman||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/37/Normandy.png/40px-Normandy.png Normandy(노르망디)||||
+||<#E9E4FF>Occitain||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/bd/Provence.png/40px-Provence.png Provence(프로방스)||Auvergne(오베르뉴), Avignon(아비뇽), Dauphine(도피네), Berry(베리) ||
+||<#E9E4FF>Wallonian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/64/Hainaut.png/120px-Hainaut.png?width=40 Hainaut(에노)||Luxemburg(룩셈부르크), Liege(리에주) ||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Germanic||
+||<#E9E4FF> '''Union''' ||||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/9b/Germany.png/40px-Germany.png Germany(독일), http://www.eu4wiki.com/images/thumb/e/ee/Holy_Roman_Empire.png/40px-Holy_Roman_Empire.png Holy Roman Empire(신성로마제국)||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Austrian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7f/Austria.png/40px-Austria.png Austria(오스트리아)||Salzburg(잘츠부르크), Styria(슈타이어마르크), Tirol(티롤) ||
+||<#E9E4FF>Bavarian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/b3/Bavaria.png/40px-Bavaria.png Bavaria(바이에른)||Ansbach(안스바흐), Augsburg(아우그스부르크), Nuremberg(뉘른베르크), Ulm(울름), Wurzburg(뷔르츠부르크), Wurttemburg(뷔르템부르크) ||
+||<#E9E4FF>Dutch||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/32/Netherlands.png/40px-Netherlands.png Netherlands(네덜란드)||Brabant(브라반트), Friesland(프리슬란트), Gelre(헬레), Holland(홀란드), Utrecht(위트레흐트) ||
+||<#E9E4FF>Flemish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/97/Flanders.png/40px-Flanders.png Flanders(플랑드르)|| ||
+||<#E9E4FF>Hannoverian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3e/Hannover.png/40px-Hannover.png Hannover(하노버)||Breman(브레멘), Brunswick(브라운슈바이크), East Frisia(동프리슬란트), Hamburg(함부르크), The Hansa(한자동맹), Saxe-Lauenburg(작센라우엔부르크), Lüneburg(뤼네부르크), Münster(뮌스터), Oldenburg(올덴부르크), Holstein(홀슈타인), Westphalia(베스트팔렌) ||
+||<#E9E4FF>Hessian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2a/Hesse.png/40px-Hesse.png Hesse(헤센)|| ||
+||<#E9E4FF>Pomeranian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1b/Pomerania.png/40px-Pomerania.png Pomerania(포메라니아)||Mecklenburg(메클렌부르크) ||
+||<#E9E4FF>Prussian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/28/Prussia.png/40px-Prussia.png Prussia(프로이센)||Danzig(그단스크), Livonian Order(리보니아기사단), Riga(리가), Teutonic Order(튜튼기사단) ||
+||<#E9E4FF>Rheinlaender||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/01/Switzerland.png/40px-Switzerland.png Switzerland(스위스)||Aachen(아헨), Alsace(알자스), Baden(바덴), Frankfurt(프랑크푸르트), Cleves(클레페), Cologne(쾰른), Mainz(마인츠), The Palatinate(팔츠 선제후), Trier(트리어)||
+||<#E9E4FF>Saxon||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/74/Saxony.png/40px-Saxony.png Saxony(작센)||Anhalt(안할트), Brandenburg(브란덴부르크), Magdeburg(마그데부르크), Meissen(마이센), Thuringia(튀링겐)||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Iberian||
+||<#E9E4FF> '''Union''' ||||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/58/Spain.png/40px-Spain.png Spain(스페인)||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Andalusian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/a7/Granada.png/40px-Granada.png Granada(그라나다)|| ||
+||<#E9E4FF>Basque||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/9a/Navarra.png/40px-Navarra.png Navarra(나바라)|| ||
+||<#E9E4FF>Castilian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/ee/Castile.png/40px-Castile.png Castile(카스티야)||UPCA(중미연방공화국), Chile(칠레), Colombia(콜롬비아), La Plata(라플라타), Mexico(멕시코), Peru(페루), Paraguay(파라과이), Venezuela(베네수엘라)||
+||<#E9E4FF>Aragonese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/61/Aragon.png/40px-Aragon.png Aragon(아라곤)|| ||
+||<#E9E4FF>Catalan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/e9/Catalunya.png/120px-Catalunya.png?width=40px Catalunya(카탈루냐) || ||
+||<#E9E4FF>Galician||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/11/Galicia.png/40px-Galicia.png Galicia(갈리시아)|| ||
+||<#E9E4FF>Portuguese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/12/Portugal.png/40px-Portugal.png Portugal(포르투갈)||Brazil(브라질)||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Latin||
+||<#E9E4FF> '''Union''' ||||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2a/Italy.png/40px-Italy.png Italy(이탈리아)||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Lombard||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d6/Milan.png/40px-Milan.png Milan(밀라노)||Achaea(아카이아), Aquileia(아퀼레이아), Athens(아테네), Corfu(코르푸), Corsica(코르시카), Etruria(에트루리아), Ferrara(페라라), Genoa(제노바), Mantua(만토바), Modena(모데나), Naxos(낙소스), Parma(파르마), Sardinia(사르데냐), Savoy(사보이), Siena(시에나), Sardinia-Piedmont(사르데냐피에몬테), Tuscany(토스카나), Venice(베네치아)||
+||<#E9E4FF>Maltese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/84/The_Knights.png/40px-The_Knights.png The Knights(구호기사단)||||
+||<#E9E4FF>Sicilian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0f/Sicily.png/40px-Sicily.png Sicily(시칠리아)||Naple(나폴리)||
+||<#E9E4FF>Umbrian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/13/Urbino.png/40px-Urbino.png Urbino(우르비노)||The Papal State(교황령)||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Scandinavian||
+||<#E9E4FF> '''Union''' ||||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/db/Scandinavia.png/40px-Scandinavia.png Scandinavia(스칸디나비아)||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Danish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/69/Denmark.png/40px-Denmark.png Denmark(덴마크)|| ||
+||<#E9E4FF>Norwegian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0f/Norway.png/40px-Norway.png Norway(노르웨이)|| ||
+||<#E9E4FF>Swedish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/98/Sweden.png/40px-Sweden.png Sweden(스웨덴)||Gotland(고틀란트) ||
+
+=== 동유럽 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Baltic ||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Latvian||<#FFE4FF>　||
+||<#E9E4FF>Lithuanian ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d9/Lithuania.png/40px-Lithuania.png Lithuania(리투아니아)||
+||<#E9E4FF>Old Prussian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/ab/Kurland.png/40px-Kurland.png Kurland(쿠를란트)||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Byzantine ||
+||<#E9E4FF> '''Union''' ||||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/96/Byzantium.png/40px-Byzantium.png Byzantium(비잔티움 제국)||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Gothic ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/11/Theodoro.png/40px-Theodoro.png Theodoro(테오도로)|| ||
+||<#E9E4FF>Greek ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d8/Greece.png/40px-Greece.png Greece(그리스)||Epirus(에피루스), Morea(모레아), Trebizond(트레비존드) ||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Caucasian||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Armenian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c0/Armenia.png/40px-Armenia.png Armenia(아르메니아)|| ||
+||<#E9E4FF>Circassian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3b/Circassia.png/40px-Circassia.png Circassia(체르케스)|| ||
+||<#E9E4FF>Dagestani||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f7/Gazikumukh.png/120px-Gazikumukh.png?width=40px Gazikumukh|| ||
+||<#E9E4FF>Georgian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/19/Georgia.png/40px-Georgia.png Georgia(조지아)||Imerti(이메레티) ||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>East Slavic||
+||<#E9E4FF> '''Union''' ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/ee/Russia.png/40px-Russia.png Russia(러시아), http://www.eu4wiki.com/images/thumb/e/e2/Ruthenia.png/40px-Ruthenia.png Ruthenia(루테니아)||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Byelorussian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/51/Polotsk.png/40px-Polotsk.png Polotsk(폴로츠크)|| ||
+||<#E9E4FF>Russian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/41/Muscovy.png/40px-Muscovy.png Muscovy(모스크바)||Novgorod(노브고로트), Nizhny Novgorod(니즈니노브고로트), Pskov(프스코프), Ryazan(랴잔), Smolensk(스몰렌스크), Tver(트베리), Yaroslavl(야로슬라블) ||
+||<#E9E4FF>Ruthenian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/6b/Kiev.png/40px-Kiev.png Kiev(키예프)||Chernigov(체르니코프), Galicia-Vohynia(갈리치아볼히니아), Zaporozhie(자포리자) ||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Finno Ugric||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Estonian||<#FFE4FF>　||
+||<#E9E4FF>Finnish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c4/Finland.png/40px-Finland.png Finland(핀란드)||
+||<#E9E4FF>Ingrian (Unused)||<#FFE4FF>　||
+||<#E9E4FF>Karelian||<#FFE4FF>　||
+||<#E9E4FF>Ostyaks||<#FFE4FF>　||
+||<#E9E4FF>Sami||<#FFE4FF>　||
+||<#E9E4FF>Samoyed||<#FFE4FF>　||
+||<#E9E4FF>Uralic||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/8e/Perm.png/40px-Perm.png Perm(페름)||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Magyar||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Hungarian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/6a/Hungary.png/40px-Hungary.png Hungary(헝가리)||Transylvania(트란실바니아) ||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>South Slavic||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Albanian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/07/Albania.png/40px-Albania.png Albania(알바니아)|| ||
+||<#E9E4FF>Bulgarian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f4/Bulgaria.png/40px-Bulgaria.png Bulgaria(불가리아)|| ||
+||<#E9E4FF>Croatian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/94/Croatia.png/40px-Croatia.png Croatia(크로아티아)||Ragusa(라구사) ||
+||<#E9E4FF>Romanian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1a/Wallachia.png/40px-Wallachia.png Wallachia(왈라키아)||Moldavia(몰다비아), Romania(루마니아) ||
+||<#E9E4FF>Serbian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/76/Serbia.png/40px-Serbia.png Serbia(세르비아)||Bosnia(보스니아), Montenegro(몬테네그로) ||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>West Slavic||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Czech||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/41/Bohemia.png/40px-Bohemia.png Bohemia(보헤미아)|| ||
+||<#E9E4FF>Polish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/99/Poland.png/40px-Poland.png Poland(폴란드)||Kracow(크라코프), Mazovia(마조비아), Commonwealth(폴란드·리투아니아 연합왕국) ||
+||<#E9E4FF>Schlesian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f7/Silesia.png/40px-Silesia.png Silesia(슐레지엔)|| ||
+
+== 아시아 ==
+=== 동아시아 ===
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>East Asian||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Cantonese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/72/Yue.png/40px-Yue.png Yue(월)||Zhou(주) ||
+||<#E9E4FF>Gan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/db/Ning.png/100px-Ning.png?width=40px Ning(영)|| ||
+||<#E9E4FF>Hakka||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/78/Huai.png/40px-Huai.png Huai(회)||Lanfang(난방) ||
+||<#E9E4FF>Hubei||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/86/Xi.png/40px-Xi.png Xi(서)||||
+||<#E9E4FF>Jianghuai||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/a5/Ming.png/40px-Ming.png Ming(명)||||
+||<#E9E4FF>Jin||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/08/Jin.png/40px-Jin.png Jin(진)||||
+||<#E9E4FF>Manchu||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/74/Manchu.png/40px-Manchu.png Manchu(만주) ||Haixi(해서여진), Jianzhou(건주여진), Yeren(야인여진), Qing(청) ||
+||<#E9E4FF>Min||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d0/Min.png/40px-Min.png Min(민)||||
+||<#E9E4FF>Shandong||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/4d/Qi.png/40px-Qi.png Qi(제)|| ||
+||<#E9E4FF>Sichuanese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/29/Shu.png/40px-Shu.png Shu(촉)||||
+||<#E9E4FF>Wu||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0b/Wu.png/40px-Wu.png Wu(오)|| ||
+||<#E9E4FF>Xiang||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/86/Chu.png/40px-Chu.png Chu(초)|| ||
+||<#E9E4FF>Xibei||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/17/Shun.png/40px-Shun.png Shun(순)||Qin(진) ||
+||<#E9E4FF>Zhili||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/a5/Yan.png/40px-Yan.png Yan(연)|| ||
+||<#E9E4FF>Zhongyuan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/41/Liang.png/40px-Liang.png Liang(양)||Tang(당) ||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Hmong-Mien||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Miao||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/24/Miao.png/40px-Miao.png Miao(먀오)||
+
+||<tablewidth=600px><width=33%><#7ED2FF> '''문화권''' ||||<width=67%><#A2F6FF>Japanese||
+||<#B3AEFF><width=33%> '''하위문화''' ||<#EDAEFF><width=34%> '''주요국가''' ||<width=33%> '''기타국가''' ||
+||<#E9E4FF>Japanese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fc/Japan.png/40px-Japan.png Japan||Amago(아마고), Asakura(아사쿠라), Chosokabe(조소카베), Date(다테), Hojo(호조), Hosokawa(호소카와), Hatakeyama(하타케야마), Ikeda(이케다), Imagawa(이마가와), Maeda(마에다), Mori(모리), Oda(오다), Otomo(오토모), Ouchi(오우치), Ryukyu(류큐), Shiba(시바), Shimazu(시마즈), Takeda(다케다), Tokugawa(도쿠가와), Uesugi(우에스기), Yamana(야마나) ||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Korean||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Korean||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/45/Korea.png/40px-Korea.png Korea||
+
+=== 서아시아 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Arabic ||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Bedouin ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c9/Najd.png/40px-Najd.png Najd||
+||<#E9E4FF>Egyptian ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/ca/The_Mamluks.png/40px-The_Mamluks.png Mamluks||
+||<#E9E4FF>Mashriqi ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c4/Iraq.png/40px-Iraq.png Iraq||
+||<#E9E4FF>Syrian ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0f/Syria.png/40px-Syria.png Syria||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Altaic||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Chahar||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c0/Chahar.png/40px-Chahar.png Cahar||
+||<#E9E4FF>Khalkha||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/bb/Khalkha.png/40px-Khalkha.png Khalka||
+||<#E9E4FF>Khazak||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/15/Kazakh.png/40px-Kazakh.png Kazakh||
+||<#E9E4FF>Kyrgyz||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d5/Chagatai.png/40px-Chagatai.png Chagatai||
+||<#E9E4FF>Mongol||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/bc/Mongolia.png/40px-Mongolia.png Mongolia||
+||<#E9E4FF>Oirats||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/4e/Zunghar.png/40px-Zunghar.png Zunghar||
+||<#E9E4FF>Uyghur||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/43/Yarkand.png/40px-Yarkand.png Yarkand||
+||<#E9E4FF>Uzbek||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/73/Uzbek.png/40px-Uzbek.png Uzbek||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Iranian||
+||<#E9E4FF> '''Union''' ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/01/Persia.png/40px-Persia.png Persia||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Baluchi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fc/Baluchistan.png/40px-Baluchistan.png Baluchistan||
+||<#E9E4FF>Khorasani||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1d/Khorasan.png/40px-Khorasan.png Khorasan||
+||<#E9E4FF>Persian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/01/Persia.png/40px-Persia.png Persia||
+||<#E9E4FF>Afghan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7d/Afghanistan.png/40px-Afghanistan.png Afghanistan||
+||<#E9E4FF>Kurdish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3f/Ardalan.png/40px-Ardalan.png Ardalan||
+||<#E9E4FF>Mazandarani||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/b7/Tabarestan.png/40px-Tabarestan.png Tabarestan||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Oghuz||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Azerbaijani||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/75/Shirvan.png/40px-Shirvan.png Shirvan||
+||<#E9E4FF>Turkish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/89/Ottomans.png/40px-Ottomans.png Ottomans||
+||<#E9E4FF>Turkmeni||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/60/Khiva.png/40px-Khiva.png Khiva||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Tartar||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Astrakhani||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/76/Astrakhan.png/40px-Astrakhan.png Astrakhan||
+||<#E9E4FF>Bashkir||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f4/Bashkiria.png/40px-Bashkiria.png Bashkiria||
+||<#E9E4FF>Crimean||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/64/Crimea.png/40px-Crimea.png Crimea||
+||<#E9E4FF>Mishar||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/62/Golden_Horde.png/40px-Golden_Horde.png Golden Horde||
+||<#E9E4FF>Nogaybak||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/32/Nogai.png/40px-Nogai.png Nogai||
+||<#E9E4FF>Qasim||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fd/Qasim.png/40px-Qasim.png Qasim Khanate||
+||<#E9E4FF>Qazanly||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/33/Kazan.png/40px-Kazan.png Kazan||
+||<#E9E4FF>Siberian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/79/Sibir.png/40px-Sibir.png Sibir||
+
+=== 인도 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Central Indian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Garjati||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2b/Garjat.png/40px-Garjat.png Garjat||
+||<#E9E4FF>Gondi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2c/Gondwana.png/40px-Gondwana.png Gondwana||
+||<#E9E4FF>Jharkandi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/a3/Jharkhand.png/40px-Jharkhand.png Jharkhand||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Dravidian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Kannada||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/cd/Mysore.png/40px-Mysore.png Mysore||
+||<#E9E4FF>Malayalam||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c3/Venad.png/40px-Venad.png Venad||
+||<#E9E4FF>Tamil||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/dd/Madurai.png/40px-Madurai.png Madurai||
+||<#E9E4FF>Telegu||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2c/Golkonda.png/40px-Golkonda.png Golkonda||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Eastern Aryan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Assamese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f5/Assam.png/40px-Assam.png Assam||
+||<#E9E4FF>Bengali||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c6/Bengal.png/40px-Bengal.png Bengal||
+||<#E9E4FF>Bihari||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fc/Jaunpur.png/40px-Jaunpur.png Jaunpur||
+||<#E9E4FF>Nepali||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3a/Nepal.png/40px-Nepal.png Nepal||
+||<#E9E4FF>Oriya||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7c/Orissa.png/40px-Orissa.png Orissa||
+||<#E9E4FF>Sinhala||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/74/Ceylon.png/40px-Ceylon.png Ceylon||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Hindusthani||
+||<#E9E4FF> '''Union''' ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3e/Hindustan.png/40px-Hindustan.png Hindustan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Avadhi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0e/Oudh.png/40px-Oudh.png Oudh||
+||<#E9E4FF>Hindvi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d5/Delhi.png/40px-Delhi.png Delhi||
+||<#E9E4FF>Kashmiri||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/02/Kashmir.png/40px-Kashmir.png Kashmir||
+||<#E9E4FF>Panjabi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/63/Punjab.png/40px-Punjab.png Punjab||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Western aryan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Gujarati||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/53/Gujarat.png/40px-Gujarat.png Gujarat||
+||<#E9E4FF>Malvi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/73/Malwa.png/40px-Malwa.png Malwa||
+||<#E9E4FF>Marathi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/dd/Marathas.png/40px-Marathas.png Marathas||
+||<#E9E4FF>Rajput||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7d/Mewar.png/40px-Mewar.png Mewar||
+||<#E9E4FF>Sindhi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/18/Sind.png/40px-Sind.png Sind||
+
+=== 동남아시아 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Burman ||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Arakanese ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/36/Arakan.png/40px-Arakan.png Arakan||
+||<#E9E4FF>Bai ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/5b/Dali.png/40px-Dali.png Dali||
+||<#E9E4FF>Burmese ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0c/Taungu.png/40px-Taungu.png Taungu||
+||<#E9E4FF>Chin ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/71/Manipur.png/40px-Manipur.png Manipur||
+||<#E9E4FF>Kachin||<#FFE4FF>　||
+||<#E9E4FF>Karen||<#FFE4FF>　||
+||<#E9E4FF>Tibetan ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/69/U-tsang.png/40px-U-tsang.png U-tsang||
+||<#E9E4FF>Yi ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1a/Yi.png/40px-Yi.png Yi||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Malay||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Cham||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/e0/Champa.png/40px-Champa.png Champa||
+||<#E9E4FF>Bornean||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/9c/Brunei.png/40px-Brunei.png Brunei||
+||<#E9E4FF>Filipino||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f9/Sulu.png/40px-Sulu.png Sulu||
+||<#E9E4FF>Javanese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0c/Majapahit.png/40px-Majapahit.png Majapahit||
+||<#E9E4FF>Madagascan||<#FFE4FF>　||
+||<#E9E4FF>Malayan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fd/Malacca.png/40px-Malacca.png Malacca||
+||<#E9E4FF>Polynesian||<#FFE4FF>　||
+||<#E9E4FF>Sulawesi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/a1/Makassar.png/40px-Makassar.png Makassar||
+||<#E9E4FF>Sumatran||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/17/Aceh.png/40px-Aceh.png Aceh||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Mon Khmer||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Khmer||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/79/Khmer.png/40px-Khmer.png Khmer||
+||<#E9E4FF>Mon||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3b/Pegu.png/40px-Pegu.png Pegu||
+||<#E9E4FF>Vietnamese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fc/Dai_Viet.png/40px-Dai_Viet.png Dai Viet||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Thai||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Central Thai||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/9d/Ayutthaya.png/40px-Ayutthaya.png Ayutthaya||
+||<#E9E4FF>Laotian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/eb/Luang_Prabang.png/40px-Luang_Prabang.png Luang Prabang||
+||<#E9E4FF>Northern Thai||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1f/Lan_Na.png/40px-Lan_Na.png Lan Na||
+||<#E9E4FF>Shan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fe/Shan.png/40px-Shan.png Shan||
+||<#E9E4FF>Zhuang||<#FFE4FF>　||
+
+=== 시베리아 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Evenks||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Buryat||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/9d/Buryatia.png/40px-Buryatia.png Buryatia||
+||<#E9E4FF>Tungus||<#FFE4FF>　||
+||<#E9E4FF>Yakut||<#FFE4FF>　||
+||<#E9E4FF>Yukaghir||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/92/Khodynt.png/40px-Khodynt.png Khodynt||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Kamchatkan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Ainu||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7c/Ainu.png/40px-Ainu.png Ainu||
+||<#E9E4FF>Kamchatkan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/08/Kamchadals.png/40px-Kamchadals.png Kamchadals||
+
+== 아프리카 ==
+=== 사하라 이북 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Maghrebi||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Algerian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/86/Algiers.png/40px-Algiers.png Algiers||
+||<#E9E4FF>Berber||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/b2/Tlemcen.png/40px-Tlemcen.png Tlemcen||
+||<#E9E4FF>Moroccan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/e4/Morocco.png/40px-Morocco.png Morocco||
+||<#E9E4FF>Tunisian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/79/Tunis.png/40px-Tunis.png Tunisia||
+
+=== 사하라 이남 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>African||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Bantu||<#FFE4FF>　||
+||<#E9E4FF>Kongolese||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/16/Kongo.png/40px-Kongo.png Kongo||
+||<#E9E4FF>Madagasque Shona||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/23/Mutapa.png/40px-Mutapa.png Mutapa||
+||<#E9E4FF>Swahili||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/cb/Kilwa.png/40px-Kilwa.png Kilwa||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Cushitic||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Amhara||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/06/Ethiopia.png/40px-Ethiopia.png Ethiopia||
+||<#E9E4FF>Sidamo||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2a/Kaffa.png/40px-Kaffa.png Kaffa||
+||<#E9E4FF>Somali||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/81/Adal.png/40px-Adal.png Adal||
+||<#E9E4FF>Tigray||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d5/Medri_Bahri.png/40px-Medri_Bahri.png Medri Bahri||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Mande||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Bambara||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/67/Sofala.png/40px-Sofala.png Sofala||
+||<#E9E4FF>Bozo||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/b9/Jenn%C3%A9.png/40px-Jenn%C3%A9.png Jenné||
+||<#E9E4FF>Dyola||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/26/Kong.png/40px-Kong.png Kong||
+||<#E9E4FF>Mali||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f0/Mali.png/40px-Mali.png Mali||
+||<#E9E4FF>Songhai||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/24/Songhai.png/40px-Songhai.png Songhai||
+||<#E9E4FF>Soninke||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/a2/Macina.png/40px-Macina.png Macina||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Sahelian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Bihala||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/cb/Yao.png/40px-Yao.png Yao||
+||<#E9E4FF>Fulani||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/58/Fulo.png/40px-Fulo.png Fulo||
+||<#E9E4FF>Hausa||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/92/Hausa.png/40px-Hausa.png Hausa||
+||<#E9E4FF>Kanuri||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/e9/Kanem_Bornu.png/40px-Kanem_Bornu.png Kanem Bornu||
+||<#E9E4FF>Senegambian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c8/Jolof.png/40px-Jolof.png Jolof||
+||<#E9E4FF>Tuareg||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/5f/Air.png/40px-Air.png Air||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Sudanese||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Nubian||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/53/Funj.png/40px-Funj.png Funj||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>West African||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Aka||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/0e/Ashanti.png/40px-Ashanti.png Ashanti||
+||<#E9E4FF>Dagomba||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/86/Dagbon.png/40px-Dagbon.png Dagbon||
+||<#E9E4FF>Fon||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f1/Dahomey.png/40px-Dahomey.png Dahomey||
+||<#E9E4FF>Mossi||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/4a/Mossi.png/40px-Mossi.png Mossi||
+||<#E9E4FF>Nupe||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/38/Nupe.png/40px-Nupe.png Nupe||
+||<#E9E4FF>Yorumba||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/5b/Oyo.png/40px-Oyo.png Oyo||
+
+== 아메리카 ==
+=== 북아메리카 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Caddoan ||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Caddo ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/30/Caddo.png/40px-Caddo.png Caddo||
+||<#E9E4FF>Pawnee ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/4f/Pawnee.png/40px-Pawnee.png Pawnee||
+||<#E9E4FF>Wichita ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/6/65/Wichita.png/40px-Wichita.png Wichita||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Central Algonquian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Anishinabe||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/05/Ojibwe.png/40px-Ojibwe.png Ojibwe||
+||<#E9E4FF>Cree||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/87/Cree.png/40px-Cree.png Cree||
+||<#E9E4FF>Illini||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/ed/Illiniwek.png/40px-Illiniwek.png Illiniwek||
+||<#E9E4FF>Mesquakie||<#FFE4FF>　||
+||<#E9E4FF>Shawnee||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7a/Shawnee.png/40px-Shawnee.png Shawnee||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Eastern Algonquian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Abenaki||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/e7/Abenaki.png/40px-Abenaki.png Abenaki||
+||<#E9E4FF>Delaware||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/49/Lenape.png/40px-Lenape.png Lenape||
+||<#E9E4FF>Mahican||<#FFE4FF>　||
+||<#E9E4FF>Mikmaq||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/07/Mikmaq.png/40px-Mikmaq.png Mikmaq||
+||<#E9E4FF>Pequot||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/09/Pequot.png/40px-Pequot.png Pequot||
+||<#E9E4FF>Powhatan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/15/Powhatan.png/40px-Powhatan.png Powhatan||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Eskaleut||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Aleutian||<#FFE4FF>　||
+||<#E9E4FF>Inuit||<#FFE4FF>　||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Iroquoian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Cherokee||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/06/Cherokee.png/40px-Cherokee.png Cherokee||
+||<#E9E4FF>Huron||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/97/Huron.png/40px-Huron.png Huron||
+||<#E9E4FF>Iroquois||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/22/Iroquois.png/40px-Iroquois.png Iroquois||
+||<#E9E4FF>Susquehannock||<#FFE4FF>http://www.eu4wiki.com/images/thumb/8/8c/Susquehannock.png/40px-Susquehannock.png Susquehannock||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Muskogean||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Chickasaw||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/5f/Chickasaw.png/40px-Chickasaw.png Chickasaw||
+||<#E9E4FF>Choctaw||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/4b/Choctaw.png/40px-Choctaw.png Choctaw||
+||<#E9E4FF>Creek||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c5/Creek.png/40px-Creek.png Creek||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Na-Déné||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Athabascan||<#FFE4FF>　||
+||<#E9E4FF>Chipewyan||<#FFE4FF>　||
+||<#E9E4FF>Haida||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/90/Haida.png/40px-Haida.png Haida||
+||<#E9E4FF>Navajo||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2b/Navajo.png/40px-Navajo.png Navajo||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Penutian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Chinook||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/ad/Chinook.png/40px-Chinook.png Chinook||
+||<#E9E4FF>Salish||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/ba/Salish.png/40px-Salish.png Salish||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Plains Algonquian||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Arapaho||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3c/Arapaho.png/40px-Arapaho.png Arapaho||
+||<#E9E4FF>Blackfoot||<#FFE4FF>　||
+||<#E9E4FF>Cheyenne||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f8/Cheyenne.png/40px-Cheyenne.png Cheyenne||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Siouan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Catawba||<#FFE4FF>　||
+||<#E9E4FF>Chiwere||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/73/Fox.png/40px-Fox.png Fox||
+||<#E9E4FF>Dakota||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7e/Sioux.png/40px-Sioux.png Sioux||
+||<#E9E4FF>Nakota||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1f/Assiniboine.png/40px-Assiniboine.png Assiniboine||
+||<#E9E4FF>Osage||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/f6/Osage.png/40px-Osage.png Osage||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Sonoran||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Piman||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/e4/Pima.png/40px-Pima.png Pima||
+||<#E9E4FF>Pueblo||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/e6/Pueblo.png/40px-Pueblo.png Pueblo||
+||<#E9E4FF>Shoshone||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/cf/Shoshone.png/40px-Shoshone.png Shoshone||
+
+=== 중앙아메리카 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Caribbean ||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Carib||<#FFE4FF>　||
+||<#E9E4FF>Lokono||<#FFE4FF>　||
+||<#E9E4FF>Maipurean||<#FFE4FF>　||
+||<#E9E4FF>Taino||<#FFE4FF>　||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Central American||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Aztec||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/ef/Aztec.png/40px-Aztec.png Aztec||
+||<#E9E4FF>Chichimecan||<#FFE4FF>　||
+||<#E9E4FF>Purepecha||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/cf/Tarascan.png/40px-Tarascan.png Tarascan||
+||<#E9E4FF>Tecos||<#FFE4FF>　||
+||<#E9E4FF>Totonac||<#FFE4FF>http://www.eu4wiki.com/images/thumb/f/fb/Totonac.png/40px-Totonac.png Totonak||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Mayan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Highland Mayan||<#FFE4FF>　||
+||<#E9E4FF>Mayan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/09/Maya.png/40px-Maya.png Maya||
+||<#E9E4FF>Putun||<#FFE4FF>http://www.eu4wiki.com/images/thumb/2/2c/Itza.png/40px-Itza.png Itza||
+||<#E9E4FF>Yucatec||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/4b/Xiu.png/40px-Xiu.png Xiu||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Otomanguean||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Mixtec||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/de/Mixtec.png/40px-Mixtec.png Mixtec||
+||<#E9E4FF>Tlapanec||<#FFE4FF>http://www.eu4wiki.com/images/thumb/a/aa/Tlapanec.png/40px-Tlapanec.png Tlapanec||
+||<#E9E4FF>Zapotek||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3f/Zapotec.png/40px-Zapotec.png Zapotec||
+
+=== 남아메리카 ===
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Andean||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Aimara||<#FFE4FF>http://www.eu4wiki.com/images/thumb/3/3e/Charca.png/40px-Charca.png Charca||
+||<#E9E4FF>Chimuan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/44/Chimu.png/40px-Chimu.png Chimu||
+||<#E9E4FF>Diaguita ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/c/c0/Calchaqui.png/40px-Calchaqui.png Calchaqui||
+||<#E9E4FF>Quechua ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/0/05/Cusco.png/40px-Cusco.png Cusco||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Araucanian ||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Het||<#FFE4FF>　||
+||<#E9E4FF>Huarpe||<#FFE4FF>　||
+||<#E9E4FF>Mapuche ||<#FFE4FF>http://www.eu4wiki.com/images/thumb/7/7f/Mapuche.png/40px-Mapuche.png Mapuche||
+||<#E9E4FF>Patagonian||<#FFE4FF>　||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Chibchan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Caran||<#FFE4FF>http://www.eu4wiki.com/images/thumb/b/b4/Quito.png/40px-Quito.png Quito||
+||<#E9E4FF>Miskito||<#FFE4FF>　||
+||<#E9E4FF>Muisca||<#FFE4FF>http://www.eu4wiki.com/images/thumb/9/94/Muisca.png/40px-Muisca.png Muisca||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Je||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Charruan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/d/d6/Charrua.png/40px-Charrua.png Charrua||
+||<#E9E4FF>Ge||<#FFE4FF>http://www.eu4wiki.com/images/thumb/5/52/Tapuia.png/40px-Tapuia.png Tapuia||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Marañón||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Chachapoyan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/45/Chachapoya.png/40px-Chachapoya.png Chachapoya||
+||<#E9E4FF>Jivaro||<#FFE4FF>　||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Matacoan||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Chacoan||<#FFE4FF>　||
+
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Tupi||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Guarani||<#FFE4FF>http://www.eu4wiki.com/images/thumb/1/1d/Guarani.png/40px-Guarani.png Guarani||
+||<#E9E4FF>Tupinamba||<#FFE4FF>http://www.eu4wiki.com/images/thumb/e/ed/Tupiniquim.png/40px-Tupiniquim.png Tupiniquim||
+
+== 오세아니아 ==
+||<tablewidth=400px><width=50%><#7ED2FF> '''문화권''' ||<width=50%><#A2F6FF>Pacific||
+||<#B3AEFF> '''하위문화''' ||<#EDAEFF> '''주요국가''' ||
+||<#E9E4FF>Aboriginal||<#FFE4FF>　||
+||<#E9E4FF>Melanesian (Unused)||<#FFE4FF>　||
+||<#E9E4FF>Moluccan||<#FFE4FF>http://www.eu4wiki.com/images/thumb/4/41/Ternate.png/40px-Ternate.png Ternate||
+||<#E9E4FF>Papuan||<#FFE4FF>　||

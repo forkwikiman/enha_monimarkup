@@ -1,0 +1,92 @@
+ * 상위항목 : [[이볼브]]
+
+[[목차]]
+
+== 개요 ==
+
+이볼브의 지도들.
+사냥 모드와 방어 모드에서 사용하는 전용 지도로 나뉘어져 있다.
+특히 사냥 모드는 지형에 따라 같은 맵이라도 엄청난 변수가 존재하기 때문에 지형과 지형에 따른 야생 동물 위치를 숙지하는게 큰 도움이 된다.
+
+발전기 위치와 게임의 중요한 요소인 35% 버프나 체력 리젠 버프의 존재 유무를 서술했지만
+드물게 대형 몬스터가 존재하더라도 해당 종류의 엘리트 몬스터가 등장하지 않는 경우도 있다.[* 접전 모드 큐를 돌려보면 랜덤성을 띄고 있다는걸 알 수 있다.]
+
+게임 모드에 따라 지도에 나타는 오브젝트가 다르다.
+사진 참조.
+
+== Orbital Drill ==
+attachment:evm1.jpg
+최종 발전기는 건물 안에 위치.
+슬로스(35% 데미지 버프)와 타이런트(체력 회복) 버프는 존재하지 않는다.
+아르마돈(35% 데미지 감소) 버프 존재 가능.
+
+== Weather Control Tower ==
+attachment:evm2.jpg
+최종 발전기는 야외에 위치 한다.
+슬로스,타이런트,아르마돈 버프 모두 존재 가능.
+
+== The Dam  ==
+attachment:evm3.jpg
+최종 발전기는 야외에 위치한다.
+슬로스,타이런트,아르마돈 버프 모두 존재 안함.
+
+== Wraith Trap ==
+attachment:evm4.jpg
+최종 발전기는 야외에 위치한다.
+타이런트, 슬로스 버프 존재 가능.
+
+== Armory ==
+attachment:evm5.jpg
+최종 발전기는 야외에 위치한다. 
+타이런트 버프만 존재.
+
+== Barracks ==
+attachment:evm6.jpg
+최종 발전기는 상부만 건물로 막혀 있고 양 옆은 뚫려 있다.
+슬로스,타이런트,아르마돈 버프 모두 존재 안함.
+
+== Aviary ==
+attachment:evm7.jpg
+최종 발전기는 야외에 위치한다. 
+슬로스,타이런트,아르마돈 모든 버프가 존재 가능.
+
+== Refueling Tower ==
+attachment:evm8.jpg
+최종 발전기는 건물 안에 위치한다. 
+슬로스,타이런트,아르마돈 모든 버프 존재 가능.
+
+== Fusion Plant ==
+attachment:evm9.jpg
+최종 발전기는 건물 안에 위치하고 복층 구조이다.
+타이런트, 슬로스 버프 존재 가능.
+
+== Medlab ==
+attachment:evm10.jpg
+최종 발전기는 야외에 위치한다. 
+슬로스,타이런트,아르마돈 모든 버프 존재 가능.
+
+== Rendering Plant  ==
+attachment:evm11.jpg
+최종 발전기는 야외에 위치한다.
+아르마돈 버프 존재 가능.
+
+== Distillery ==
+attachment:Distillery.jpg
+최종 발전기는 야외에 위치한다.
+타이런트, 슬로스 버프 존재 가능.
+
+== Colonial water and power ==
+attachment:Colonialwaterandpower.jpg
+''' 방어 모드용 지도 '''
+
+== Kings fort ==
+attachment:Kingsfort.jpg
+''' 방어 모드용 지도 '''
+
+== New calico ==
+attachment:Newcalico.jpg
+''' 방어 모드용 지도 '''
+
+== Salveron industries ==
+attachment:Salveronindustries.jpg
+''' 방어 모드용 지도 '''

@@ -1,0 +1,12 @@
+||<tablewidth=100%><#9F00C5><-100> '''[[스타크래프트 |<span style="color:white">스타크래프트 1]] [[저그|<span style="color:white">저그]]{{{#ffffff 의 유닛, 건물}}}''' ||
+||<|2><#DDA0DD> '''[[부화장#s-1.1|해처리]]''' || attachment:larva.jpg?width=40px || attachment:drone.jpg?width=40px || attachment:zergling.jpg?width=40px || attachment:overlord.jpg?width=40px || attachment:hydralisk.jpg?width=40px ||
+|| [[애벌레(스타크래프트)|라바]] || [[일벌레(스타크래프트)|드론]] || [저글링(스타크래프트)#s-2|저글링] || [[대군주#s-2.2|오버로드]] || [[히드라리스크#s-2|히드라리스크]] || 
+||<|2><#DDA0DD> '''[[번식지#s-1.1|레어]]''' || attachment:mutalisk.jpg?width=40px || attachment:scourge.jpg?width=40px || attachment:queen.jpg?width=40px || attachment:lurker.jpg?width=40px || attachment:broodling.jpg?width=40px || 
+|| [[뮤탈리스크#s-2|뮤탈리스크]] || [[갈귀|스커지]] || [[여왕(스타크래프트)#s-2|퀸]] || [[가시지옥|러커]] || [[공생충(스타크래프트)#s-1|브루들링]] || 
+||<|2><#DDA0DD> '''[[군락#s-2.1|하이브]]''' || attachment:ultralisk.jpg?width=40px || attachment:defiler.jpg?width=40px || attachment:guardian.jpg?width=40px || attachment:devourer.jpg?width=40px || || 
+|| [[울트라리스크#s-2|울트라리스크]] || [[파멸충|디파일러]] || [[수호군주|가디언]] || [[포식귀|디바우러]] || || 
+||<|2><#DDA0DD> '''[[인페스티드 커맨드 센터]]''' || attachment:infestedterran.jpg?width=40px || || || || || 
+|| [[감염된 테란#s-2.1|인페스티드 테란]] || || || || || 
+||<|3><#DDA0DD> '''{{{#ffffff 기타 건물들}}}''' || [[크립 콜로니]] || [[추출장#s-1.1|익스트랙터]] || [[산란못#s-1.1|스포닝 풀]] || [[진화장#s-1.1|에볼루션 쳄버]] || [[히드라리스크 굴#s-1.1|히드라리스크 덴]] ||
+|| [[크립 콜로니#s-1.3|스포어 콜로니]] || [[크립 콜로니#s-1.2|성큰 콜로니]] || [[둥지탑#s-1.1|스파이어]] || [[퀸즈 네스트]] || [[거대 둥지탑#s-1.1|그레이터 스파이어]] ||
+||  [[땅굴관|니더스 커널]] || [[울트라리스크 동굴#s-1.1|울트라리스크 캐번]] || [[디파일러 마운드]] || || ||

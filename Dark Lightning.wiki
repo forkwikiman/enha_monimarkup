@@ -1,0 +1,39 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || Drum & Ambient ||
+|| 작곡 || [[AstroKid]] ||
+|| 일러스트 || BitterSweet ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/DZsYhhBGLX4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/eJogZRfnpuc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+~~머리 푼 포화란?~~
+~~아니야, 가슴이 너무 커~~
+
+[[AstroKid]]가 [[DJMAX RAY]]에 제공한 곡이다. DJMAX RAY의 뮤직 팩 중 하나인 Spectacular 뮤직 팩의 히든 곡으로 등장했는데, 곡의 정체는 다름아닌 [[S4리그]]의 '''시즌 1 - 다크 라이트닝'''패치의 트레일러에 쓰였던 곡이다. 그래서 제목도 DARK LIGHTNING 인듯. 
+
+전체적인 곡의 느낌은 한마디로 '''무섭다.''' DJMAX 수록곡들 중 [wiki:"Seeker"공][wiki:"SIN"포] [wiki:"Rock Or Die"분][wiki:"Real Over Drive"위][wiki:"HAMSIN"기][wiki:"Nightmare"를] [wiki:"Heart of Witch"조][wiki:"Fermion"성][wiki:"In my Dream"하][wiki:"Ventilator"는] [wiki:"MonoXide"다][wiki:"Gone Astray"른] [wiki:"Dark Prism"곡][wiki:"SINister Evolution"들][wiki:"Vampired"하][wiki:"Dark Ages"고] 비교해 봐도 이것보다 무서운 곡은 없다고 봐도 무방할 정도. 처음부터 음산한 분위기로 시작하더니 곡이 끝나는 순간까지 드럼 소리와 신스음 소리가 사정없이 몰아친다. ~~분위기로만 보면 거의 최종보스 포스다.~~
+
+참고로, '''S4리그 내의 쥬크박스 기능에서 나오던 Dark Lightning이라는 곡과는 다른 곡이다.''' 본문의 Dark Lightning은 단순히 트레일러에서만 쓰인 반면, S4리그 내에서의 Dark Lightning은 [wiki:"Dark Ages" 이 곡]이다. 본래 나이트메어라는 맵의 BGM이었으나, 현재는 S4리그 내에서 제공하지 않는 듯.
+
+[[목차]]
+== 곡 개요 ==
+|||||||||| [DJMAX RAY]의 Spectacular 팩 수록곡 ||
+|| [[Ruti'n]] || [[NANO RISK]] || [[My Alias]] || [[Keys to the World]] || '''Dark Lightning''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 8 ||
+||<#0000FF> {{{#white HD}}} || 9 ||
+||<#FF0000> MX || 10 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fN-vxUU_hp4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+DJMAX RAY의 Spectacular 팩의 최종 해금곡으로 수록되었다. 난이도는 NM 8, HD 9, MX는 10레벨로 DJMAX RAY 내에서 [[Supersonic ~Mr.Funky Remix~]]와 함께 NM, HD, MX 모두 최고난이도를 표방하고 있으나 실제로 플레이해보면 [wiki:"물렙곡" 셋 다 레벨에 비해 약한 난이도를 보여준다(...).] NM패턴은 8레벨 표기가 믿겨지지 않을 정도로 쉽다. 체감이 안 된다면 다른 8레벨 곡들 몇 개만 해보고 와도 알 수 있을 것이다. 실제 체감 난이도는 6레벨 정도. HD는 NM에 비해 중간중간에 폭타가 끼고 후반 트릴 때문에 어려워지긴 했지만 역시 9레벨에는 미치지 못한다. MX는 초반부터 나오는 폭타와 중후반 트릴, 그리고 2연타 부분이 약간 까다로울 수 있으나 그 외에는 '''전혀''' 어려울만한 부분이 없어서 물렙. 롱노트와 일반노트를 같이 처리해야하는 부분도 있지만 10레벨 수준으로 어렵진 않다. ~~2중 노트에 긁기를 갖다 때려박았으면 탭소닉에서의 MonoXide마냥 초극악곡도 될 수 있는 걸 그렇게 안 해서~~ 전체적으로 다른 10레벨 곡들에 비해 압살적인 구간이 없기 때문에, 실제 체감 난이도는 NM 6, HD 8, MX 9 정도.

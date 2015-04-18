@@ -1,0 +1,27 @@
+== [[리플렉 비트 시리즈]] ==
+
+http://www.copmtg.net/picture/diary/2012/0314_08.jpg
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 128 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 7}}} ||
+|| 오브젝트 || {{{#green 83}}} || {{{#orange 212}}} || {{{#red 331}}} ||
+|| 수록버전 ||||||||<#82eb5a> [리플렉 비트 라임라이트] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 19 ||
+||||||||||<#ffffff> REFLEC BEAT와 난이도 비교 - 없음||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/0DUZ1gekh6E" frameborder="0" allowfullscreen></iframe>
+}}}
+
+PLAYER KWANG82의 플레이 영상.
+
+[[닌텐도 3DS]]로 나온 NEW [러브 플러스] 수록곡.
+아티스트명은 [wiki:"타카네 마나카" 高嶺愛花]&[wiki:"코바야카와 린코" 小早川凛子]&[wiki:"아네가사키 네네" 姉ヶ崎寧々]. 당연하게도 '''[러브 플러스]의 히로인'''...
+
+== [[BeatStream]] ==
+|||||||| [[BeatStream]] 난이도 체계 ||
+|| BPM |||||| 난이도 ||
+||<|2> 128 || {{{#blue LIGHT}}} || {{{#orange MEDIUM}}} || {{{#ff009f BEAST}}} ||
+|| {{{#blue 2}}} || {{{#orange 5}}} || {{{#ff009f 7}}} ||

@@ -1,0 +1,68 @@
+[[목차]]
+== 개요 ==
+逆 頭文字語 ,backronym
+
+보통 본래의 의미에서 머릿글자를 따와 이니셜을 만드는 [두문자어]와는 반대로, 기존에 존재하는 이니셜을 이용해 원래의 의미와 다른 뜻으로 말을 짜맞춰서 말을 만드는 것. 약자조차 아닌 단어를 무언가의 약자인 양 뜻을 짜맞춰 만들기도 한다. 두문자어를 만들때 가끔 역 두문자어의 사용을 노리고 이니셜을 짜맞추는 형태가 있기도 하다. 또한, 그 자체로는 두문자어가 아닌 단어로도 역 두문자어를 만드는 경우가 있다.
+
+진지하게 새로운 뜻을 부여하는 경우도 있고, [개그]나 풍자로 사용되기도 한다. 아예 재귀적으로 의미를 부여하는 재귀약자로 만드는 일도 있다. 역두문자어를 재귀약어로 만든 대표적인 예로는 [GNU], [PHP] 등이 있다.[* 정확하게는 GNU는 의사 두문자어로 재귀약자를 만든 예이다.]
+
+예시를 보면 알 수 있듯 어느 나라에서든 볼 수 있는 현상이나 유독 한국에서, 그것도 2000년도 이후로 급속히 두드러지고 있으며, 일부 단어는 [[국어 파괴]]로 간주되기도 한다.
+
+== 예 ==
+약어 : 본래 의미 → 역 두문자어화된 말
+
+=== [[한국어]] → 한국어 ===
+ * [[고자]] : (성기능에 장애가 있는 남성을 뜻하는 말) → '''고'''장난 [[자지|'''자'''X]]~~뜻이 같다?~~[* 정확히 말하자면 고자의 범위는 단순히 매직스틱이 고장난거보다 범위가 넓다. 그 알들이 모종의 이유로 사라지면 매직스틱 자체엔 문제가 없어도 [[내가 고자라니]].]
+ * [[미연시]] : '''미'''소녀 '''연'''애 '''시'''뮬레이션 → '''미'''사일 '''연'''속 발사 '''시'''스템, '''미'''적분 '''연'''산 '''시'''스템, '''미'''생물 '''연'''구 '''시'''스템, '''미'''소녀 '''연'''속발사 '''시'''스템, ~~[[팝픈뮤직 라피스토리아|'''미'''미냐미 '''연'''애 '''시'''뮬레이션]]~~[* 라피스토리아 발표 당시 캐릭터의 그림체가 바뀐다는 언급을 두고 실제로 나왔던 드립이다.]
+ * [[야동]] : '''야'''한 '''동'''영상 → '''야'''구 '''동'''영상, '''야'''옹이 '''동'''영상, ~~'''야'''생 '''동'''물~~
+ * [[차도남]] : '''차'''가운 '''도'''시 '''남'''자 → [[wiki:"곽한구" '''차''' '''도'''둑질 하는 '''남'''자]] ~~[[wiki:"가브리엘 토시" '''차'''가운 '''토'''시'''남'''자]]~~
+ * [[차도녀]] : '''차'''가운 '''도'''시 '''녀'''자 → [[wiki:"양윤경" '''차''' '''도'''둑질 하는 '''녀'''자]]
+ * [[단통법]] : '''단'''말기 유'''통'''구조 개선'''법''' ~~어?~~ → '''단'''단히 '''통'''수치는 '''법''', '''단'''말기 '''통'''제'''법''', [[단언컨대|'''단'''언컨대]] '''통'''신사를 위한 '''법'''
+ * ~~타어강: [wiki:"타이거즈는 어떻게 다시 강팀이 되었나"'''타'''이거즈는 '''어'''떻게 다시 '''강'''팀이 되었나] → '''타'''이거즈는 '''어'''떻게 해도 '''강'''팀이 못 된다, '''타'''이거즈는 '''어'''떻게 '''강'''팀의 자격을 잃었나~~
+
+=== [영어] → 한국어 ===
+ * [AIDS] : Aquired Immune Deficiency Syndrome(후천성 면역 결핍증) → Aigo, Ijen Da Saragguna! (아이고, 이젠 다 살았구나!)
+ * [DVD] : Digital Versatile Disc(디지털 다용도 디스크) 또는 Digital Video Disc(디지털 영상 디스크) → Deorupge Visan Disc(더럽게 비싼 디스크)
+ * [EDPS] : Electronic Data Processing System(전산 처리 시스템) → Eum Dam Pae Seol([음담패설])
+ * [IBM] : International Business Machines Co.(국제 사무기기 주식회사) → Imi Beorin Mom (이미 버린 몸)
+ * [wiki:"JS#s-2"JS]([트러블 메이커]): Jay Stomp(쿵쾅거리며 춤추는 [장현승]) → Jonna Sexy(좆나 [섹시])
+ * [KBS] : Korean Broadcasting System(한국방송공사) → Korea Bang Song, Kae Baek Su(캐백수(...))
+ * [MBC] : Munhwa Broadcasting Corporation(문화방송) → Ma Bong Chun([마봉춘])
+ * [JTBC] : (공식 약칭은 공개되지 않음) → Jeonduhwan Tank-e balpyeotaga Buhwaran Channel([전두환] [wiki:"언론통폐합"탱크에 밟혔다가] [wiki:"동양방송"부활한 채널])
+ * [MT] : Membership Training → Masigo Tohago([wiki:"꽐라"마시고] [wiki:"구토"토하고]) ~~,[wiki:"배영수"Mental] [wiki:"펠릭스 호세"Trainer]~~ ~~Mike Test~~ ~~[모텔|MoTel]~~
+ * PRI : Preliminary Rifle Instruction([사격술 예비훈련]) → Pinago R begigo Igaligo(피나고 알 배기고 이 갈리고)
+ * [해군 특수전전단|UDT] : Underwater Demolition Team(수중파괴부대) → Uri Dongne Tukgongdae(우리 동네 특공대)
+ * [BGM] : BackGround Music → Bae Gyung Mm(배경음) 또는 Bae Gyung Music(배경 뮤직)
+ * [MSG] : monosodium glutamate → Mat So Geum(맛소금), Ma Sul Garu(마술 가루), Mot Saeng Gim(못생김), [[마시쪙]], Myun Soup Gunduggy([라면|면 스프 건더기])
+ * [USB] : Universal Serial Bus → Uh Sibal Bandaero gozanne (어 시발 반대로 꽂았네)
+ * [SSD] : Solid State Drive → Sibal Sokdo Donne(시발 속도 돋네)
+ * GRYB 버스 : Green Red Yellow Blue 버스 → [wiki:"지랄염병 버스" Gi Ral Yeom Byeong bus]
+=== 영어 → 영어 ===
+ * AIDS : Anal Insertion Deserves Suffering ([[애널]] 하다가는 (에이즈에) 걸려도 싸다)
+ * Bible : [[성경]] → Basic Instructions Before Leaving Earth([wiki:"죽음" 지구를 뜨기] 전에 보는 기본서)
+ * [[DVD]] : Digital Video Disc”(디지털 비디오 디스크) → Digital Versatile Disc(디지털 다목적 디스크)[* DVD가 보급되면서 다목적으로 쓰이고 있는 것을 가리키는 말. 요즘은 뒷쪽 의미로 더 많이 쓰인다.]
+ * [[EBS]] → Emergency Broadcast System(비상 방송 시스템)
+ * Family : [[가족]] → Father And Mother I Love You (아버지 어머니 사랑합니다)
+ * [[게이|Gay]] : Got AIDS Yet? (아직 에이즈 안 걸렸냐?)
+ * [[건담/시리즈별 정의|GUNDAM]][* 본래는 약자도 뭐도 아닌 그냥 기체명이었으나, 이후에 시리즈별로 많은 명칭이 붙는 바람에 오리지널 건담마저 두문자화되었다.] → 항목 참조.
+ * HOLMES → Home Office Large Major Enquiry System[* 영국 경찰에서 사용중인 연쇄살인 추적 & 사기추적 시스템의 이름으로, HOLMES는 당연히 그 유명한 [[셜록 홈즈]]에서 따왔다.] 
+ * [[IMF]] : International Monetary Fund(국제통화기금) → I'M Fired (나 [wiki:"해고"짤렸다]), I'M F (나는 [[F]] (학점)이다), I'M [[Fuck]]ed ([[더 이상의 자세한 설명은 생략한다]])
+ * [[MOAB]] : Massive Ordnance Air Blast(공중폭발대형폭탄) → Mother Of All Bombs(모든 [[폭탄]]의 [[어머니]])[* 우리말론 '폭탄의 왕' 정도의 뉘앙스. ]
+ * [[wiki:"마우스" mouse]]: [[쥐]]꼬리처럼 선이 삐저나와 붙은 이름 →"'''M'''anually-'''O'''perated '''U'''ser-'''S'''elect '''E'''quipment" (손으로 조작하는, 뭐 찝을 때 쓰는 도구)
+ * [[MRE]] : Meal, Ready-to-Eat(조리가 필요없는 [[전투식량]]) → Meal Rejected by Everyone(다들 맛없어하는 밥)[* 이 해석이 제일 유명하긴 하지만 배출하기를 거부하는 식사, [[에티오피아]]인조차 거부한 식사, ~~[[잉글랜드]]인조차 [wiki:"영국 요리"거부한 식사]~~ 등 다양한 역두문자가 존재한다. 아마도 이 분야 레전드(...)]
+ * MULE : [[노새]] → [[지게로봇|Mobile Utility Lunar Excavator]]
+ * [[PCMCIA]](컴퓨터 용어) → People Cannot Memorize Computer Industry Acronyms(사람들은 컴퓨터 업계의 두문자어들을 기억할 수 없다)
+ * [[PHP]] : Personal Home Page Tools → PHP: Hypertext Preprocessor
+ * [[wiki:"록맨"ROCK]] → Rebirth Of Crystallized Knowledge
+ * [[SSD]] : Solid State Drive → Super Sonic Drive
+ * [[TEPCO]] : Tokyo Electric Power Company, Inc.([[도쿄전력]]) → The worst Ever Polluting COmpany
+ * [[우르프(리그 오브 레전드)|URF]] : You(U) Are(R) Fooled → [[리그 오브 레전드/URF 모드|Ultra Rapid Fire]]
+ * [wiki:"위키" WIKI] → What I Know Is([[wiki:"카더라 통신" 내가 알기로는…]])
+ * [[S.H.I.E.L.D]] → Supreme Headquarters, International Espionage, Law-Enforcement Division(최고 사령부 국제 첩보 및 법률 집행국), Strategic Hazard Intervention, Espionage Logistics Directorate(전략적 재난 개입 및 첩보 군수 참모국), Strategic Homeland Intervention, Enforcement and Logistics Division(전략적 국토 개입 및 집행 병참국)
+ * [[SOS]] → Save Our Ships(우리 배를 구하소서), Save Our Souls(우리를 구해주소서)
+=== [[러시아어]] → 영어 ===
+ * [[AK-47]] : Avtomat Kalashnikova(칼리시니코바 자동소총) → All Kill in 47 seconds(47초 안에 죽이는 소총)
+ * [[KGB]] : Komitet Gosudarstvennoy Bezopasnosti(국가보안위원회) → [[wiki:"헤비(팀 포트리스 2)/무기 목록#s-2.3" Killing Gloves of Boxing]]
+ * [[RPG-7]] : Ruchnoy Protivotankoviy Granatomet(휴대용 대전차 유탄발사기) → Rocket-Propelled Grenade(로켓 추진 유탄) ~~그럴싸한데?~~ ~~[[wiki:"러시아식 유머" 러시아에서는 로켓으로 유탄을 쏩니다]]~~
+
+[[각주]]

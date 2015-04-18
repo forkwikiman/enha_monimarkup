@@ -1,0 +1,462 @@
+ * 상위 항목: [[그라나도 에스파다]]
+
+[[목차]]
+
+== 개요 ==
+온라인 게임 [[그라나도 에스파다]]는 [[NPC]]를 자신의 가문으로 영입하여 플레이 할 수 있는 시스템을 갖추고 있다. 이 항목은 영구적으로 영입 가능한 [[NPC]]들의 목록을 정리해둔 항목.[* 기간 한정 캐릭터인 [[휴고 린든]]은 리스트에 포함하지 않는다.] 가나다 순으로 정리하고 있으며, 정체성이 같은 캐릭터는 원본이 되는 캐릭터 아래쪽에 같이 붙여 놓는다.
+
+표기해둔 영문명은 한국 클라이언트상의 영문명이다. 그런데 이게 꽤나 묘한 변역을 하고 있는게, 개척왕 그랑마의 경우 개척자, 전장의 끌로드는 [[용병]] 등등... 그리고 일본에서는 해당 영칭을 기준으로 이름을 지어서 간지가 덜 나는 이름이 되어버렸다(...) 영어권 클라이언트에는 정확한 번역을 취하고 있다. 또 일본판에서는 독음이 굉장히 자기류다. 그라가 원체 유럽어를 짬뽕해서 내놓긴하지만.
+
+영입 불가능한 [[네임드]] NPC들은 [[그라나도 에스파다/주요 등장인물]] 항목 참조.
+
+
+== 팀버프 ==
+처음에는 특정 3MCC를 선택해야 팀버프가 발동되었으며(e.g. 로르크+베르넬리+스카우트=기간틱 블래스터)[* 몇몇 캐릭 성우 정보에 적혀있는 콤비네이션 버프 PV가 그것에 대한 동영상이다.] 팀버프를 짤 수 있는 캐릭터가 매우 한정되어있었고, 그 능력치 또한 천차만별이었다. 유저들 역시 일부러 조합을 짜서 버프를 받거나 하지 않을 정도로 사장된 시스템이었다.
+ 
+그 후에는 시나리오 상 엮이는 특정 캐릭터들을 2명 이상 팀에 넣고 플레이하면 ''공격/방어 등급 +1''과 약간의 버프가 팀원 3명에게 적용되는 팀버프 효과가 주어졌는데, 조합마다 부여되는 능력치가 약간씩 달랐다. 그러나 여러가지 불편함과 캐릭터를 선택하기 쉽지 않는 유동적이지 못한 점 등으로 인한 지속된 개정 요구와 여러 이유로 2013년 3월 28일자 패치를 통해, 팀버프를 없애고 대신 '''캐릭터 버프''' 시스템을 추가했다. 
+
+3MCC 캐릭터를 조합하였을 경우 공격/방어등급 +1버프가 기본적으로 발생한다. 단 캐릭터가 빠지거나 사망시 해당 효과는 사라진다.
+
+그리고 각 캐릭터별로 아래와 같은 고유 버프가 주어지며, 해당 캐릭터를 MCC에 포함하면 버프 효과가 중첩된다.(예를들어 감각 Lv2가 캐릭터 버프인 비키를 3MCC로 조합할 경우 총 감각레벨은 Lv6이다.)
+
+|| '''캐릭터 버프''' || '''Lv1당 효과''' ||
+|| 공격력 || 공격력 3% 증가 ||
+|| 크리티컬 || 크리티컬 확률 3% 증가 ||
+|| 크리티컬 대미지 || 크리티컬 대미지 5% 증가 ||
+|| 명중률 || 명중률 3 증가 ||
+|| 몬스터 공격력 || 몬스터에 대한 공격력 5% 증가 ||
+|| PC공격력 || 적 PC에 대한 공격력 5% 증가 ||
+|| 방어력 || 방어력 3 증가 ||
+|| 회피율 || 회피 3 증가 ||
+|| 블로킹 || 블로킹 3 증가 ||
+|| 스킬 회피율 || 스킬 회피율 3% 증가 ||
+|| 몬스터 피해 감소 || 몬스터에게 받는 피해 3% 감소 ||
+|| PC에게 피해 감소 || PC에게 받는 피해 3% 감소 ||
+|| 최대 HP || HP 1000 증가 ||
+|| 최대 SP || SP 300 증가 ||
+|| HP 회복량 || HP 회복률 100 증가 ||
+|| HP 흡수 || HP 흡수 2% 증가 ||
+|| 힘 || 힘 스탯 2 증가 ||
+|| 민첩 || 민첩 스탯 2 증가 ||
+|| 체력 || 체력 스탯 2 증가 ||
+|| 기술 || 기술 스탯 2 증가 ||
+|| 지능 || 지능 스탯 2 증가 ||
+|| 감각 || 감각 스탯 2 증가 ||
+|| 캐스팅 || 스킬 캐스팅 시간 2% 감소 ||
+|| ~~시전시간~~ || ~~스킬 시전 시간 2% 감소~~[* 적용이 되지 않는다는 버그가 반년도 더 지나 발견, 해당 버프를 가진 캐릭터는 '''다른 버프로 교체되었다'''. ~~[[흑역사]]~~] ||
+|| 모든 저항 || 속성 저항력 3 증가 ||
+|| 이동속도 || 이동속도 5% 증가 ||
+
+== 캐릭터 구분 ==
+ * 기본 캐릭터 : 게임 시작때부터 제한 없이 생성 할 수 있는 캐릭터. 캐릭터 카드 역시 소비되지 않기에 가렙의 희생양.
+ * 일반 영입 캐릭터 : 게임을 플레이 하며 퀘스트로 영입 할 수 있는 캐릭터.
+ * 선택 영입 캐릭터 : 퀘스트 도중 분기가 있어 캐릭터 카드를 골라 받는 캐릭터. 카드를 따로 구한다면 생성에 제한이 있다거나 하지는 않다. 인형 [[까뜨린느]] 네종류와 [[에두아르도 힝기스]]/[[커트 린든]]만이 이에 해당한다.
+ * 레어 캐릭터 : 한정 판매, 이벤트, 랜덤 박스 보상 등으로 영입 가능하여 일반적으론 영입 할 수 없는 캐릭터. [[한정판|기간 한정]]. ~~[[환상의 포켓몬]]~~
+
+이 항목에선 따로 분류하지 않는 카테고리
+ * (구)유료 영입 캐릭터 : 과거 [[현질|유료아이템으로만 영입]] 할 수 있었던 캐릭터. 현재는 무료 루트가 생겨 일반 영입 캐릭터와 다를바 없이 영입 가능하다. 하지만 외곽선 색은 여전히 주황색으로 다르다. [[백호(그라나도 에스파다)|백호]], [[비센테 리오]], [[소소(그라나도 에스파다)|소소]], [[아이라완]], [[에두아르도 힝기스]]/[[커트 린든]], [[칼리(그라나도 에스파다)|칼리]]가 이에 해당한다.
+ * 소장용 캐릭터 : 린든 상자를 판매 개시하면서 출시되는 레어 캐릭터에 운영진이 붙인 별칭. 애초에 외곽선이 보라색으로 레어 캐릭터와 동일하고, 시스템적으로도 취급이 같다.
+ * 기간 한정 캐릭터 : 이벤트 기간 동안 한정적으로만 배럭에 들여놓을 수 있는 캐릭터. 외곽선이 파란색으로 표시되며, [[휴고 린든]]이 여기에 해당된다.
+
+유저들은 퀘스트로 얻을 수 없는 캐릭터를 '''레어 캐릭터''', '''소장용 캐릭터''' 로 구분짓는데,[* 개척왕 그랑마를 기점으로 출시된 린든 상자발 캐릭터를 소장용 캐릭터, 그 이전의 매직서클, 이벤트로 풀린 캐릭터를 레어 캐릭터로] 이건 단순한 '''출처 차이'''로 인한 구분일뿐이다. 해당 명칭 변경에는 레어 등급에 대한 논란때문이라 여겨진다. '''[[레어]]'''는 말 그대로 희귀도로 영입을 쉽게 할 수 있나 없냐는 단어지만, 왜 레어 캐릭터가 일반 캐릭터보다 약하냐며 [[아이템 등급]](노말 - 레어 - 유니크)처럼 생각하는 일부 유저가 있어 그 논란에서 벗어나고자 변경한듯. 실제로 소장용 캐릭터로 이름을 바꾸며 캐릭터의 강약과 관계 없이 단순 수집 목적으로 출시 하겠다고 밝혔다. ~~그래서 해당 캐릭터들은 밸런스가 천국과 지옥을 오가며 아주 개떡같다~~ 그러니 구분을 한다 안 한다에 대한 논란은 결국 의미가 없어졌다.
+
+하지만 유저들뿐만 아니라 운영측 역시 구분을 하는데, 소장용 캐릭터의 패키지 판매, 소장용 캐릭터 한정 재판매, 레어 캐릭터 상자와 소장용 캐릭터 상자를 구분지어 배포하며 그 입수 난이도에 차이가 있게 하는둥. 하지만 표기 통일도 되지 않는다. 어디서는 레어 캐릭터로 표기해두고, 어디서는 소장용으로 표기하는 등 아주 제멋대로.
+
+
+== 목록 ==
+=== 영문 ~ 가 ===
+|| '''초상화''' || '''이름''' || '''캐릭터 버프''' || '''구분''' ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/jd.jpg || [[JD]] || SP Lv1﻿﻿ || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_009.jpg ||<:> [[가르시아 힝기스]] 
+Garcia Hingis  
+ガルシア・ヒンギス || 공격력 Lv ﻿2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Gurtrude_Peterson.jpg ||<:> [[구르트루데 페터슨]] 
+Gurtrude Peterson 
+グルトルデ・ピーターソン || 체력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Gracielo.jpg ||<:> [[그라시엘로]] 
+Gracielo 
+グラシエルロ || 민첩 Lv 2 || 일반 영입 ||
+|| attachment:/GE_Grandies.jpg ||<:> [[wiki:"그랑디스(그라나도 에스파다)" 그랑디스]] 
+Grandies 
+グランディス || 최대 SP Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Grandma.jpg ||<:> [[그랑마]] 
+Grandma 
+グラングマ || 최대 HP Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/grangran1.jpg ||<:> [[개척왕 그랑마]] 
+Pioneer Grandies 
+開拓者グランディス || 최대 HP Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Grace_Bernelli.jpg ||<:> [[그레이스 베르넬리]] 
+Grace Berneli 
+グレイス・ベルネルリ || 공격속도 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/cb.jpg ||<:> [[저격수 베르넬리]] 
+Sniper Berneli 
+スナイパーグレイス || 기술 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/CATHERINE.jpg ||<:> [[까뜨린느]] 
+Catherine 
+カトリーヌ  ||<:>감각 Lv 1(소환)
+힘 Lv 1(힘)
+지능 Lv 1(지능)
+기술 Lv 1(기술) || 선택 영입 [* 영입 퀘스트 중 까뜨린느(소환), 힘을 추구하는 까뜨린느, 지능을 추구하는 까뜨린느, 기술을 추구하는 까뜨린느 중 택1] ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/%EC%A7%84%EA%B9%8C%EB%9C%A8~1.jpg ||<:> [[까뜨린느 토르쉐]] 
+Catherine Torsche 
+カトリーヌ・トルシェー || ﻿크리티컬 대미지 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Claude_Baudez.jpg ||<:> [[끌로드 보데]] 
+Claude Baudez 
+クラウドボネ || 몬스터 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/Files/10/2013/10/25/c_claudey.jpg ||<:> [[전장의 끌로드]] 
+Mercenary Claude Baudez 
+傭兵クラウドボネ || 공격력 LV 1 || 레어 캐릭터 ||
+
+
+=== 나 ~ 다 ===
+|| '''초상화''' || '''이름''' || '''캐릭터 버프''' || '''구분''' ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/nar.jpg ||<:> [[wiki:"나르(그라나도 에스파다)" 나르]]
+Nar
+ナル || 최대 HP Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Najib_Sharif.jpg ||<:> [[나집 샤리프]]
+Najib Sharif
+ナジブ･シャリフ || 기술 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/%EB%82%98%ED%83%88%EB%A6%AC.jpg ||<:> [[나탈리 파블류첸크]] 
+Natalie
+ナタリー|| 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_nena.jpg ||<:> [[wiki:"네나(그라나도 에스파다)" 네나]]
+Nena 
+ネナ || PC에게 피해 감소 Lv1﻿﻿ || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Daria.jpg ||<:> [[다리아 파블류첸크]]
+Daria
+ダリア || 공격력 Lv 1 || 일반 영입 ||
+|| - ||<:> [[돌로레스 바젤란느]] || 지능 Lv 2 || 레어 캐릭터 ||
+
+=== 라 ===
+|| '''초상화''' || '''이름''' || '''캐릭터 버프''' || '''구분''' ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/ramiro.jpg ||<:> [[라미로]]
+Ramiro
+ラミロ || 공격력 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/racel.jpg ||<:> [[라셀 타르가]]
+Racel Targa 
+ラッセルタルガ || 몬스터 피해 감소﻿﻿ Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Ralph.jpg ||<:> [[랄프 오블라이언]]
+Ralph O'blien
+ラルフ・オブライエン || 명중률 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/levin_img.jpg ||<:> [[wiki: "레빈(그라나도 에스파다)" 레빈]] 
+Levin
+レヴィン || ﻿HP 흡수 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Rescue_Knight.jpg ||<:> [[레스큐 나이트]]
+Rescue Knight 
+レスキューナイト || 몬스터 피해 감소﻿﻿ Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/raven.jpg.JPG ||<:> [[wiki:"레이븐(그라나도 에스파다)" 레이븐]]
+Raven
+レイヴン || 크리티컬 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_rachel.jpg ||<:> [[레이첼 세필드]]
+Rachel Sheffield 
+レイチェル・シェフィールド || 캐스팅 Lv 2 || 레어 캐릭터 ||
+|| attachment:/laura(1).jpg ||<:> [[로라 콘스탄스]] 
+Laura Constance 
+ローラ・コンスタンス || 공격력 Lv 1 || 일반 영입 ||
+|| - ||<:> [[로레인 바젤란느]] || 지능 Lv 2 || 레어 캐릭터 ||
+|| attachment:/roreta.jpg ||<:> [[로레타(그라나도 에스파다)|로레타]]
+Loretta 
+ロレッタ || 힘 Lv 2 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Lorch_Purrhollen.jpg ||<:> [[로르크 푸르홀렌]] 
+Lorch Furuholmen 
+ロルク・プルホレン || PC에게 피해 감소 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Romina.jpg ||<:> [[wiki:"로미나(그라나도 에스파다)" 로미나]]
+Romina
+ロミナ || PC에게 피해 감소 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/rosa.png ||<:> [[로사 블랑카]] 
+Rosa
+ロサ･ブランカ || 공격력 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/1511d2a8c0ef78fbc871262717da2a23.jpg ||<:> [[로즈 스피릿]] 
+Rose Spirit 
+ローズスピリット|| 몬스터 피해 감소﻿﻿ Lv 2 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_roht.jpg ||<:> [[로트]] 
+Roht
+ロト|| 최대 HP Lv 2 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/%EB%A3%A8%EB%94%98.jpg ||<:> [[루딘 폰 하넨]] 
+Ludin
+ルディン || 지능 Lv 1 || 일반 영입 ||
+|| attachment:/ludin2.jpg ||<:> [[루딘 폰 하넨|푸른불꽃 루딘]] 
+Blue Flame Ludin 
+蒼炎のルディン || 지능 Lv 1 || 레어 캐릭터 ||
+|| attachment:/ludin2rare.jpg ||<:> [[루딘 폰 하넨|학생회장 루딘]] 
+Student President Ludin 
+生徒会長ルディン || 지능 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_ryung.jpg ||<:> [[륭]] 
+Liung
+ロン || ﻿모든 저항 Lv 2 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Reboldoeux_Soldier.jpg ||<:> [[리볼도외 솔저]] 
+Reboldoeux Soldier
+リボルドウェ ソルジャー|| ﻿최대 HP Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Lisa_Lynway.jpg ||<:> [[리사 린웨이]] 
+Lisa Lynway 
+リサ・リンウェイ || PC 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/leonele.jpg ||<:> [[리오넬 폰 하넨]] 
+Leonele
+リオネル|| HP 흡수 Lv 1 || 일반 영입 ||
+|| attachment:C_leonele.jpg ||<:> [[리오넬 폰 하넨|사관생도 리오넬]] 
+Cadet Leonele
+士官候補生リオネル|| 크리티컬 대미지 Lv 2 || 레어 캐릭터 ||
+
+
+=== 마 ~ 바 ===
+|| '''초상화''' || '''이름''' || '''캐릭터 버프''' || '''구분''' ||
+|| attachment:/GE_Marchetti.jpg ||<:> [[마르체티]] 
+Marchetti
+マルチェティ || 캐스팅 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/mary.jpg ||<:> [[마리 듀프레시]] 
+Mary Duplessis 
+マリー・デュプレシ|| 기술 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/ch_musket.jpg ||<:> [[wiki:"머스킷티어#s-3" 머스킷티어]] 
+Musketeer
+マスケッティア|| 공격력 Lv 2 || 기본 캐릭터 ||
+|| attachment:/montoro.jpg ||<:> [[몬토로]] 
+Montoro
+モントロ || 지능 LV 1 || 레어 캐릭터 ||
+|| attachment:/IceMontoro.jpg ||<:> [[wiki:"몬토로"눈꽃 몬토로]] 
+
+ || 지능 LV 1 || 레어 캐릭터 ||
+|| attachment:/mireille.jpg ||<:> [[미레유]] 
+Mireille
+ミレーユ || 지능 LV 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_003.jpg ||<:> [[미 카자라이네]] 
+Mi Karjalainen
+ミ・カルヤライネン|| ﻿모든 저항 Lv 1 || 일반 영입 ||
+|| - ||<:> [[wiki:"반(그라나도 에스파다)"반]] 
+Van
+ || 지능 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/valleria.jpg ||<:> [[발레리아 에스페란자]] 
+Valleria
+ヴァレリア|| ﻿HP 회복량 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_valven.jpg ||<:> [[발레리아 벤데타]] 
+Valleria Vendetta 
+ヴァレリア・ヴェンデッタ|| 이동속도 Lv 2 || 레어 캐릭터 ||
+|| attachment:/GE_Barrel.jpg ||<:> [[wiki:"배럴#s-5" 배럴]] 
+Barrel
+バレル|| 기술 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_011.jpg ||<:> [[wiki:"백호(그라나도 에스파다)" 백호]] 
+Back Ho
+白虎|| PC 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/%EB%B2%A0%EB%A1%9C%EB%8B%88%ED%94%84.jpg ||<:> [[베로니프]] 
+Berroniff
+ベロニフ|| 지능 Lv 2 || 일반 영입 ||
+|| attachment:/berthe.jpg ||<:> [[베르트와 촬스]] 
+Berthe and Charles
+ベルト＆チャールズ || 최대 SP Lv 2 || 일반 영입 ||
+|| attachment:/GE_Veatrice.jpg ||<:> [[wiki:"베아트리체(그라나도 에스파다)" 베아트리체]] 
+Veatrice 
+ベアトリーチェ|| ﻿모든 저항 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_veil.jpg ||<:> [[wiki:"베일(그라나도 에스파다)" 베일]] 
+Veil 
+ヴェイル|| 이동속도 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Brunie_Etienne.jpg ||<:> [[브루니 에띠엔]] 
+Brunie Etienne 
+ブルーニ・エティエン|| ﻿몬스터 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_010(4).jpg ||<:> [[비센테 리오]]
+Vicente Rio 
+ビセンテリオ || 스킬 회피율﻿﻿ Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_004.jpg ||<:> [[비키 에르네스토]] 
+Viki Arnest
+ビキ・エルネスト|| 감각 Lv 2 || 일반 영입 ||
+|| attachment:/GE_Vincent.jpg ||<:> [[wiki:"빈센트(그라나도 에스파다)" 빈센트]] 
+Vincent
+ビンセント|| HP 흡수 Lv 1 || 일반 영입 ||
+
+
+=== 사 ===
+|| '''초상화''' || '''이름''' || '''캐릭터 버프''' || '''구분''' ||
+|| attachment:/GE_sharon.jpg ||<:> [[wiki:"샤론(그라나도 에스파다)" 샤론]] 
+Eva Sharon 
+シャロン|| 캐스팅 Lv 1 || 일반 영입 ||
+|| attachment:/sesil.jpg ||<:> [[세실 아세리아]] 
+Sesil
+セシル|| 공격력 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/Files/10/2013/10/25/c_selane.jpg ||<:> [[셀라네]] 
+Selane
+セレーネ|| 이동속도 Lv 2  || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Selva.jpg ||<:> [[셀바 노르떼]] 
+Selva Norte
+セルバ・ノルテ|| 블로킹 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/sl.jpg ||<:> [[셜린]] 
+Sherlin
+シャルリン|| 지능 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_snowflower.jpg ||<:> [[눈꽃 셜린]]
+Snowflake Sherlin
+スノーシャルリン || 지능 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/sr.jpg ||<:> [[소랑]] 
+Sorang
+ソラン|| 회피율 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_005.jpg ||<:> [[wiki:"소소(그라나도 에스파다)" 소소]] 
+Soso
+ソソ|| 민첩 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Soho.jpg ||<:> [[wiki:"소호(그라나도 에스파다)" 소호]] 
+Soho
+ソホ|| 크리티컬 대미지 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Soho2.jpg ||<:> [[바람의 소호]] 
+Soho the Wind
+風のソホ|| 회피율 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/ch_scout.jpg ||<:> [[wiki:"스카우트(그라나도 에스파다)" 스카우트]] 
+Scout
+スカウト || ﻿최대 HP Lv 1 || 기본 캐릭터 ||
+|| attachment:/hknight(1).jpg ||<:> [[시리우스 리겔]] 
+Sirius Rigel
+シリウス･リゲル|| ﻿최대 HP Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_sierra.jpg ||<:> [[시에라 로스]]
+Sierra Los 
+シエラ･ローズ  || 지능 Lv 1 || 일반 영입 ||
+
+
+=== 아 ===
+|| '''초상화''' || '''이름''' || '''캐릭터 버프''' || '''구분''' ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Ania.jpg ||<:> [[아니아]] 
+Ania
+アニア|| 공격속도 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Adelina_Esperanza.jpg ||<:> [[아델리나 에스페란자]] 
+Adelina Esperanza 
+アデリーナ・エスペランサ|| 공격속도 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Adelina_Esparanza2.jpg ||<:> [[해적 아델리나]] 
+Adelina the Pirate
+海賊アデリーナ|| 공격력 Lv 2 || 레어 캐릭터 ||
+|| attachment:/GE_adriana.jpg ||<:> [[아드리아나 바르티에]] 
+Adriana 
+アドリアナ・パルティニ|| 스킬 회피율﻿﻿ Lv 1 || 일반 영입 ||
+|| attachment:/GE_adrianacadet.jpg ||<:> [[사관생도 아드리아나]] 
+Cadet Adriana
+迅雷のアドリアナ|| 크리티컬 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/asoka.jpg ||<:> [[wiki:"아소카(그라나도 에스파다)" 아소카]] 
+Asoka
+アスカ|| 공격력 Lv 2 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_002.jpg ||<:> [[아이라완]] 
+Irawan
+アイラワン|| 힘 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Alejandro.jpg ||<:> [[wiki:"알레한드로(그라나도 에스파다)" 알레한드로]] 
+Alejandro
+アレハンドロ|| ﻿몬스터 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Andre_Janzur.jpg ||<:> [[앙드레 장쥐르]] 
+Andre Janzur 
+アンドレ・ジャンジール|| 블로킹 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Eduardo.jpg ||<:> [[에두아르도 힝기스]] 
+Eduardo Hingis  
+エデュアルド・ヒンギス|| ﻿모든 저항 Lv 1 || 선택 영입[*a 영입 퀘스트 중 에두아르도 힝기스, 커트 린든 중 택1] ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Emilia_Giannino.jpg ||<:> [[에밀리아 지아니노]] 
+Emilia Giannino 
+エミリア・ジアニノ|| 스킬 회피율﻿﻿ Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Emilia_Giannino2.jpg ||<:> [[현자 에밀리아]] 
+Emilia the Sage
+賢者エミリア|| 지능 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/mad_emilia.jpg ||<:> [[폭주 에밀리아]] 
+Emilia the lunatic
+暗黒エミリア || 캐스팅 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/npc_up_001.jpg ||<:> [[엔지 셜리]] 
+Angie Shirley
+エンジ・ショルリ || 캐스팅 Lv 2 || 일반 영입 ||
+|| attachment:/anies.jpg ||<:> [[엘렌 아니스]] || 방어력 Lv 2 || 일반 영입 ||
+|| attachment:/GE_Elisa.jpg ||<:> [[wiki:"엘리사(그라나도 에스파다)" 엘리사]] 
+Elisa 
+エリーザ|| ﻿최대 HP Lv 1 || 일반 영입 ||
+|| attachment:/GE_CadetElisa.jpg ||<:> [[사관생도 엘리사]] 
+Cadet Elisa 
+士官候補生 エリーザ || ﻿최대 SP Lv 1 || 레어 캐릭터 ||
+|| attachment:/elizabeth.jpg ||<:> [[엘리자벳(그라나도 에스파다)|엘리자벳]] || 공격력 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Yeganeh.jpg ||<:> [[예가네]] 
+Yeganeh
+イェガネー || 기술 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Auch_Soldier.jpg ||<:> [[오슈 인팬트리]] 
+Auch Infantry
+オーシュ マスケッティア|| ﻿크리티컬 대미지 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_olivia.jpg ||<:> [[wiki:"올리비아(그라나도 에스파다)" 올리비아]] 
+Olivia
+オリヴィア|| 공격속도 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_olivia_spy.jpg ||<:> [[스파이 올리비아]] 
+Spy Olivia
+スパイオリヴィア|| 공격속도 Lv 2 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/ch_warlock.jpg ||<:> [[wiki:"워록(그라나도 에스파다)" 워록]] 
+Warlock
+ウォーロック|| 지능 Lv 1 || 기본 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/ch_Wizard.jpg ||<:> [[wiki:"위자드(그라나도 에스파다)" 위자드]] 
+Wizard
+ウィザード|| 캐스팅 Lv 1 || 기본 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/M_boma.jpg ||<:> [[음보마]] 
+M'Boma
+ウンボマ|| ﻿최대 HP Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/ion.jpg ||<:> [[이온 펠리페]] 
+Ion Felipe
+イオン・フェリペ|| ﻿최대 SP Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_illusion.jpg ||<:> [[wiki:"일루젼(그라나도 에스파다)" 일루젼]] 
+Illusion
+イリュージョン|| 공격력 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Idge_Imbrulia.jpg ||<:> [[잇지 임부를리아]] 
+Idge Imbrulia
+イッジ・インブリア|| ﻿몬스터 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Idge_Imbrulia2.jpg ||<:> [[배틀스미스 잇지]] 
+Idge the Battlesmith
+バトルスミスイッジ || 공격속도 Lv 2 || 레어 캐릭터 ||
+
+
+=== 자 ~ 하 ===
+|| '''초상화''' || '''이름''' || '''캐릭터 버프''' || '''구분''' ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Jack.jpg ||<:> [[잭 셜리]] 
+Jack 
+ジャック|| 기술 Lv 1 || 일반 영입 ||
+|| attachment:/jane.jpg ||<:> [[제인 크리스티]] 
+Jane Christy 
+ジェーン || 기술 Lv 2 || 레어 캐릭터 ||
+|| attachment:/Jin(1).jpg ||<:> [[진(그라나도 에스파다)|진]] 
+Jin 
+ギン || 크리티컬 대미지 Lv 2 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/kano.jpg ||<:> [[카노 키엘체]] 
+Kano Kielce
+カノ・キエルチェ || 지능 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c1.jpg ||<:> [[wiki:"칼리(그라나도 에스파다)" 칼리]] 
+Calyce
+カリュケ|| 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Kurt.jpg ||<:> [[커트 린든]] 
+Kurt Linden
+カート・リンドン|| ﻿모든 저항 Lv 1 || 선택 영입[*a 영입 퀘스트 중 에두아르도 힝기스, 커트 린든 중 택1] ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_kess.jpg ||<:> [[케스 키엘체]] 
+Kess Kielce
+ケス・キエルチェ || 기술 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Coimbra_Soldier.jpg ||<:> [[코임브라 트루퍼]] 
+Coimbra Trooper
+コインブラトゥルーパー || 몬스터 피해 감소﻿﻿ Lv 1 || 일반 영입 ||
+|| attachment:/GE_cruze.jpg ||<:> [[wiki:"크루즈(그라나도 에스파다)" 크루즈]] 
+Cruze
+クルーズ|| 블로킹 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Clair.jpg ||<:> [wiki:"클레어(그라나도 에스파다)" 클레어] 
+Clair
+クレア|| 공격력 Lv 2 || 일반 영입 ||
+|| attachment:/ClairCN(1).jpg ||<:> [[캐논 슈터 클레어]] 
+Cannon Shooter Claire
+ハンタークレア|| 공격력 Lv 1 || 레어 캐릭터 ||
+|| attachment:/ClairCG.jpg ||<:> [[큐티 클레어]] 
+Cutie Girl Clair
+キューティークレア|| 공격력 Lv 1 || 레어 캐릭터 ||
+|| attachment:/GE_Tora.jpg ||<:> [[wiki:"토라(그라나도 에스파다)" 토라]] 
+Tora
+トーラ|| ﻿HP 흡수 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Tiburon.jpg ||<:> [[wiki:"티뷰론(그라나도 에스파다)" 티뷰론]] 
+Tiburon
+ティビュロン|| 공격력 Lv 2 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/ch_fighter.jpg ||<:> [[wiki:"파이터(그라나도 에스파다)" 파이터]] 
+Fighter
+ファイター || 방어력 Lv 2 || 기본 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Panfilo_de_Narvaez.jpg ||<:> [[판필로 드 나르바에스]] 
+Panfilo de Narvaez
+パンファルロ・ド・ナルヴァイス || ﻿몬스터 공격력 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Panfilo_de_Narvaez2.jpg ||<:> [[전투요리사 판필로]] 
+Panfilo the Battlecook
+戦闘料理人パンファルロ || ﻿최대 SP Lv 2 || 레어 캐릭터 ||
+|| attachment:/patrick.jpg ||<:> [[패트릭 라이언]] 
+Patrick Ryan
+パトリック・ライアン || HP 흡수 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/c_freeday.jpg ||<:> [[프리데]] 
+Freeday
+フリーデ・ベッケラート || ﻿모든 저항 Lv 1 || 레어 캐릭터 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/hyr.jpg ||<:> [[헤이란]] 
+Heyran
+ヘイラン || PC에게 피해 감소 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Hellena.jpg ||<:> [[wiki:"헬레나(그라나도 에스파다)" 헬레나]] 
+Hellena
+ヘレナ|| 지능 Lv 1 || 일반 영입 ||
+|| http://ge.hanbiton.com/boarddata/files/manual/character_list/Jose_Cortasar.jpg ||<:> [[호세 꼬르타사르]] 
+Jose Cortasar
+ホセ・コルタサル || 기술 Lv 1 || 일반 영입 ||

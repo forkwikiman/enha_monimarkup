@@ -1,0 +1,24 @@
+[[목차]]
+== 개요 ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/amE5O34MOZg" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || Monster House ||
+|| 작곡 || [[Paul Bazooka]] ||
+|| BPM || 130 ||
+|| 타이틀 || ARA ||
+
+[[DJMAX]]시리즈에 꾸준하게 곡을 제공해 오던 [[Paul Bazooka]]의 [[DJMAX RAY]] 신곡이다. 제목과 장르에 맞게, 8~90년대 공포게임이 떠오르는 곡이다. [[SigNalize]]에 이어서 이번에도 8비트 음원을 사용한 것이 특징. 아이캐치도 여기에 맞춰 고전게임 스타일로 그려졌다. 마치 [[wiki:"악마성 드라큘라" 이 게임]]과 [[wiki:"뱀파이어 킬러" 이 음악]]을 오마주한 듯한 구성.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Ultraviolet 팩 수록곡 ||
+|| [Aurora Borealis] || [Out of CTRL] || [Dark Prism] || [Rolling On the Duck] || '''Vampired''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 3 ||
+||<#0000FF> {{{#white HD}}} || 6 ||
+||<#FF0000> MX || 9 ||
+
+MX 패턴의 경우, 초반부는 그저 무난하지만 중반부부터 시동을 걸기 시작하더니 후반부에는 연타가 섞인 폭타를 처리해야 하는데 이게 그냥 16비트가 아니라 '''24비트를 띄엄띄엄 배치해놓은 폭타라''' 상당히 난이도가 높다. 특히 마지막 2중 4연타는 마치 [[TAP SONIC]]에서의 [[HAMSIN]]을 보는 듯한 느낌을 준다. ~~[wiki:"HAMSIN" 물렙이라는 소리가 아니다]~~

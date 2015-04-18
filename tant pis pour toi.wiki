@@ -1,0 +1,14 @@
+[[비트매니아 IIDX]] 12 HAPPY SKY 의 수록곡
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/OIa_KPhWsek"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OIa_KPhWsek" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 138 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 385}}} || {{{#orange 8}}} || {{{#orange 676}}} || {{{#red 10}}} || {{{#red 862}}} || {{{#blue 4}}} || {{{#blue 385}}} || {{{#orange 9}}} || {{{#orange 676}}} || {{{#red 없음}}} || {{{#red 없음}}} ||
+ * [[아케이드]] 수록 : 12 HAPPY SKY ~ 14 GOLD
+ * 가정용판 수록 : 12 HAPPY SKY
+[[야마오카 아키라]]가 작곡한 곡. 제목의 의미는 불어로서 Too bad for you, '유감입니다'라는 뜻이다. 그래서 미스레이어에도 '유감입니다(残念だよ)'라는 말이 나온다. 곡 자체는 야마오카식 전파계 테크노의 전형. 스크래치 복합 배치는 주의할 필요가 있다.
+
+특징이라면 미스레이어에는 [wiki:"아베 타카카즈" 그분]과 비슷하게 생긴 남성이 나온다.
+
+야마오카 아키라의 앨범 'iFUTUREIST'에도 수록되었다.

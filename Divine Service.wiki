@@ -1,0 +1,94 @@
+* [[DJMAX 시리즈/수록곡 목록]]
+
+[[목차]]
+= 소개 =
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 작곡 || [[Electronic Boutique]] ||
+|| BGA || SR ||
+|| [[BPM]] || 152 ||
+|| 장르 || Enthic Techno ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/29A5HIxsk_g?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+약칭은 '''디바인'''.
+
+[[DJMAX Portable 2]]에서 처음 등장해 [[DJMAX TECHNIKA]], [DJMAX Portable Black Square], [[DJMAX Trilogy]]에 수록되어 디제이맥스 전체의 거의 모든 시리즈에 등장하는 몇몇 안되는 곡들 중 하나가 되었다.
+
+[[DJMAX 시리즈]]의 인기곡 중 하나로, 처음 등장한 이래로 꾸준한 인기를 얻고 있다. 애수감 넘치는 멜로디와 후반에 갑자기 휘몰아치는 신스음이 일품. [[Miles]]와 함께 [[Electronic Boutique]]의 가장 큰 인기곡이다.
+그래서인지 후속시리즈에도 빠짐없이 등장하여 슬슬 우려먹기의 낌새가 보인다... 아마도 [[Oblivion]]의 전철을 밟게 되는것이 아닐지...
+
+[[BGA]]가 매우 아름다운 것도 인기요인 중 하나다. 특히 검은 머리의 시크해 보이는 청년(...)이 큰 인기를 끌었다. 흑화(?)해서 레드 아이로 변하는 것도 하나의 인기요인일듯(?) [* 후에 wiki:EZ2ON 의 wiki:"An Old Story" 에서 이 캐릭터가 재등장 한다. 작가가 동일 인물임을 밝혔다.]
+
+== [DJMAX Portable] 시리즈 ==
+
+=== [[DJMAX Portable 2]] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/c0SnQmbsFgM" frameborder="0" allowfullscreen></iframe>}}}
+
+(6B HD)
+
+|||||||| [[DJMAX Portable 2]] ||
+|| Tunes || NM || HD || MX ||
+|| 4B Tunes || 6 || || ||
+|| 5B Tunes || 7 || || ||
+|| 6B Tunes || 4 || 9 || ||
+|| 8B Tunes || 8 || || ||
+
+[추가바람]
+
+=== [[DJMAX Portable Black Square]] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/NabMRBUCyoA" frameborder="0" allowfullscreen></iframe>}}}
+
+(4BFX HD)
+
+|||||||| [[DJMAX Portable Black Square]] ||
+|| Tunes || NM || HD || MX ||
+|| 4B Tunes || 5 || 10 || ||
+|| 5B Tunes || 9 || || ||
+|| 6B Tunes || 9 || 11 || ||
+|| 4BFX Tunes || 7 || 10 || ||
+|| 6BFX Tunes || 6 || || ||
+
+포터블2보다 패턴이 업그레이드 되어 수록되었다.
+
+== [DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ctuXcBHgfFM" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(테크니카 1 기준 TP)
+
+|||||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || B || 50 Max || ? || ? || ||
+||<#FFFF00> Normal || D || 100 Max || 4 || 8박 스크롤 ||  ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 5 || 8박 스크롤 || [wiki:"HeartBeat"HeartBeat Set] 셀렉곡 ||
+||<#FF0000> Maximum || B || 200 Max || 6 || 4박 스크롤 || [wiki:"TechniColor"미션 - 적월] 수록 ||
+
+[DJMAX TECHNIKA]에 처음 수록되었는데. [wiki:"DJMAX TECHNIKA"초대작]에서의 난이도는 PP 4, TP 5이다.[* SP는 난이도가 공개되지 않았다.] 2009년 3월에 SP(스페셜 패턴)가 나왔다.
+
+이후에는 PP→NM, TP→HD, SP→MX으로 변경.
+
+NM 패턴과 HD 패턴은 스크롤 속도가 느린 관계로 따라가기 쉬운 편이다. 게다가 노트배치가 거의 정박이고, NM 패턴에서는 연타노트와 연결형 노트가 거의 등장하지 않아 난이도에 비해 쉬운 곡이다. 다만 HD 패턴의 경우에는 밀도있는 노트가 쉬지 않고 이어지기 때문에 주의해야 한다. 후반부에 비트가 강해지는 부분부터 조금씩 엇박이 나오기 시작한다. HD 패턴의 경우는 연타노트가 등장하므로 손이 빠르지 않은 사람은 이 부분에서 브레이크를 내기 십상이다. 하지만 크게 어렵지 않은 편이므로 수월하다.
+
+MX 패턴의 경우, 스크롤 속도가 비약적으로 빨라지고 NM 패턴이나 HD 패턴에서 들을 수 없었던 [키음]을 사용하긴 했지만 역시나 쉬운 편이다. 후반부에는 숨겨진 키음을 관절노트로 구현해 놓아 6레벨 치곤 개인차가 갈린다.
+
+[[DJMAX TECHNIKA 3]]에서도 건재.
+
+== [[TAP SONIC]] ==
+
+|||||||| [[TAP SONIC]] ||
+|| Lines || BASIC || PRO || LEGEND ||
+|| 4 Lines || 3 || 4 || 6 ||
+|| 5 Lines || 3 || 4 || 6 ||
+|| 6 Lines || 3 || 4 || 6 ||
+
+[[TAP SONIC]]에서도 만날 수 있다. 6라인 레전드 기준 6레벨인데 마지막에 나오는 폭타 덕에 6레벨 중간 정도의 난이도를 자랑한다.
+
+
+[[각주]]

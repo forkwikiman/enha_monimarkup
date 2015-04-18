@@ -1,0 +1,30 @@
+상위 항목 : [[브레이브 프론티어]]
+
+유닛 도감 내 일부 문장은 한국판 브레이브 프론티어에서 쓰이는 일본어 번역체를 보다 자연스럽게 수정하였습니다. 때문에 유닛 도감이나, 유닛 정보에서 보이는 글과 차이가 있을 수 있습니다.
+
+[[목차]]
+= 속성별 유닛 일람 =
+[[브레이브 프론티어/유닛/화속성]]
+[[브레이브 프론티어/유닛/수속성]]
+[[브레이브 프론티어/유닛/목속성]]
+[[브레이브 프론티어/유닛/뇌속성]]
+[[브레이브 프론티어/유닛/광속성]]
+[[브레이브 프론티어/유닛/암속성]]
+
+= 작성 양식 =
+||<table bordercolor=#333333><:><#ddd9c4>No.||<width=74px>0||<:><#ddd9c4>이름||<-5><:>유닛 이름||
+||<-8><:><#FFFFFF>attachment:illu_.png?height=400||
+||<-2><|4><:><#FFFFFF>attachment:icon_.png?width=102||<:>attachment:bc.png?width=20||<:><#ddd9c4>HP||<:><#ddd9c4>ATK||<:><#ddd9c4>DEF||<:><#ddd9c4>RES||<:><#ddd9c4>유닛 설명||
+||<:><#ddd9c4>1Lv|| || || || ||<width=260px><|6><(>유닛 설명 내용||
+||<:><#ddd9c4>로드|| || || || ||
+||<:><#ddd9c4>아니마|| || || || ||
+||<:>attachment:fire.png?width=20||<:>★||<:><#ddd9c4>브레이커|| || || || ||
+||<:><#ddd9c4>Cost||0||<:><#ddd9c4>가디언|| || || || ||
+||<:><#ddd9c4>MaxLV||0||<:><#ddd9c4>오라클|| || || || ||
+||<-2><:><#ddd9c4>Leader Skill||<-5><:>이름||스킬설명||
+||<-2><:><#ddd9c4>Brave Burst Skill||<-5><:>이름||스킬설명||
+
+속성 심볼 : attachment:fire.png?width=20 | attachment:water.png?width=20 | attachment:wood.png?width=20 | attachment:thunder.png?width=20 | attachment:light.png?width=20 | attachment:dark.png?width=20
+
+- 정렬 우선순위
+속성 > 진화순 > 유닛 넘버순

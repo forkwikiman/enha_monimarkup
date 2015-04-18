@@ -1,0 +1,29 @@
+ * [[BEMANI 시리즈]]의 수록곡이 아닌 본래의 뜻을 찾으실 분은 [[밈]], [[미미]] 항목 참고 바람.
+
+http://cdn44.atwikiimg.com/reflec_beat/?cmd=upload&act=open&page=meme&file=mem.png
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/E-7QIhEnHZ0?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/E-7QIhEnHZ0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 155 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} || {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#08AFDB 10+}}} ||
+|| 오브젝트 || {{{#green 189}}} || {{{#orange 301}}} || {{{#red 565}}}|| {{{#08AFDB 733}}} ||
+|| 수록버전 ||||||||<#82eb5a> [리플렉 비트 라임라이트] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 27 ||
+
+
+작곡은 [[Zektbach]]로, 젝트바하 곡 특유의 스토리는 아직 공개되지 않았지만 [[Apocalypse 〜memento mori〜]]의 코멘트에 '밈'이 언급되는 것으로 보아 이 곡과 관련이 있는 것으로 보인다. 곡명은 영단어 '''[[밈]]'''의 뜻과 동일하며, 읽을 때도 밈이라고 읽는다. 특수 해금 조건은 2012년 7월 27일 속(続) 리플렉 여름축제 업데이트로 같이 업데이트 된 곡들[* [[この青空の下で]], [[MIRACLE MEETS]], [[milky ice bear]], [[TAKE THE FUN]], [[VOLTEXES]] ] 중 난이도 상관없이 3곡을 플레이하면 해금된다.
+
+주로 다수의 [[트릴]]을 포함한 3TOP 오브젝트 복합 및 [[계단]]치기로, 3TOP을 얼마나 잘 치는지에 따라 개인차가 크게 벌어지는 곡. 개인차는 있지만 변박 등이 없기 때문에 배치와 박자에 익숙해진다면 점수 내기는 쉬운 편에 속한다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/Em6kAGkfp-s" frameborder="0" allowfullscreen></iframe>
+}}}
+스페셜 보면 플레이 영상
+
+[wiki:"파스텔 원더 퀘스트" 원더 콜로세움 가을 격투대회] 이벤트로 [SHION], [I'm so Happy]와 함께 스페셜 패턴이 공개되었다. 하드 패턴의 [게슈탈트 붕괴] 요소는 그대로고 거기에 박자가 쉴 새 없이 몰아치는 타입으로 바뀌었다. 상대적으로 추가된 것이 난이도가 많이 올라갈만한 요소가 아니기에 판정을 뽑기는 쉬운 축에 속한다. 10+ 내에선 대략 약체급 내지 중간급. 하드 패턴에 익숙해져있다면 어느정도 난이도가 내려간다.
+
+우연인진 몰라도 같은 이벤트로 공개된 I'm so Happy 스페셜 패턴과 오브젝트수가 딱 한 개 차이난다.

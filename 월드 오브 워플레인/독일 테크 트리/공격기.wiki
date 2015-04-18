@@ -1,0 +1,80 @@
+[[include(틀:월드 오브 워플레인)]]
+
+[[목차]]
+
+
+=== Focke-Wulf FW 189c Eule - 4티어 ===
+
+||<tablewidth=100%> 
+attachment:FW189c.jpg
+|| 유명한 Fw 189 정찰기를 기반으로 만들어진 장갑화 공격기이다. 소수의 프로토타입들이 1939년부터 1940년 사이에 시험비행을 했다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 2x As 410 || 460 마력 || 315 kg || 공랭식 || 3 티어 || 스톡 || 0 || 0 ||
+|| 2x As 411 || 600 마력 || 385 kg || 공랭식 || 4 티어 || 최종 || 700 || 11,000 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포 1 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.92mm MG-17 2정 (1936) (W) || 47 || 1,200 || 790 || 21.4 || 4티어 || 스톡 || 0 || 0 ||
+|| 20mm MG-FF 2문 (W) || 80 || 520 || 585 || 52 || 4티어 ||  || 2,470 || 17,550 ||
+|| 20mm MG-FF(M) 2문 (W) || 95 || 540 || 600 || 52 || 5티어 || 최종 || 2,950 || 21,950 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포 2 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.92mm MG-17 4정 (1936) (W) || 47 || 1,200 || 790 || 21.4 || 4티어 || 최종 || 0 || 0 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기 1 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 || 0 || 0 ||
+|| SC 50 폭탄 4발 || 1,200 || 50 || 50 || 2티어 || 최종 || 0 || 0 ||
+
+||<tablewidth=100%><#00BFFF> 후방 기총 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-turret.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.92mm MG-15 1정 || 41 || 1,200 || 905 || 21.4 || 3티어 || 스톡 || 0 || 0 ||
+|| 7.92mm MG-81 1정 || 45 || 1,200 || 905 || 23 || 4티어 ||  || 1,670 || 25,200 ||
+|| 7.92mm MG-81 Z || 60 || 3,000 || 760 || 23 || 5티어 || 최종 || 2,715 || 41,400 ||
+
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Fw 189 V-1b || 400 || 2,986 || 3티어 || 스톡 || 0 || 0 ||
+|| Fw 189 V-6 || 450 || 3,038 || 4티어 || 최종 || 1,600 || 34,500 ||
+
+요구 경험치: 4,600 , 가격: 131,000
+
+
+Fw 57에서 시작되는 독일 공격기 트리의 시작으로, Fw 189 정찰기를 개조해 만든 공격기이다.
+소련트리의 BSh-2와는 유사한점이 많은데 '다른 트리에서 무장을 연구해 가져올수 있으며, 안그랬을때의 스톡은 참담한 수준' 이라는것.
+
+그러나 같은점만 있을수는 없듯 차이점도 존재하는데,
+BSh-2에 비해 지상 대공포에 대한 내성이 굉장히 떨어지며, 폭탄의 데미지가 암울하지만
+기동성이 훨씬 좋고 후방기총을 장비가능하다.
+
+튼튼하고 둔한 소련 공격기의 특징이 나타나는 BSh-2와 같이
+조금 무른듯 하지만 빠른 '고도제한이 낮은 중전투기 같은' 독일 공격기의 특징이 잘 살아있는 기체이다.
+
+다음 티어로는 모두에게 유명한 Ju 87 슈투카나 COH 판자촌 엘리트의 Hs 129를 선택할수 있다.
+=== Junkers Ju 87G Stuka - 5티어 ===
+
+attachment:Ju87G.jpg
+
+그 공포의 사이렌소리로 유명한 기체맞다. 업그레이드를 할 경우 카노넨포겔의 장착도 가능.
+=== Henschel Hs 129 B - 5티어 ===
+
+attachment:Hs129b.jpg
+
+=== Junkers Ju 88 P - 6티어 ===
+
+attachment:Ju88P.jpg
+
+옆 트리의 Me410을 연구하여 넘어올 수 있다. 5cm라는 절륜한 화력의 무장을 갖출수 있다.
+=== Messerschmitt Me 265 - 7티어 ===
+
+attachment:Me265.jpg
+
+=== Messerschmitt Me 329 - 8티어 ===
+
+attachment:Me329.jpg
+
+=== Messerschmitt Me 1099 B-2 - 9티어 ===
+
+attachment:Me1099.jpg
+
+=== Messerschmitt Me P.1102 B - 10티어 ===
+
+attachment:MeP1102.jpg

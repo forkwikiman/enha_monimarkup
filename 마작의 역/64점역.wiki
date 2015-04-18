@@ -1,0 +1,39 @@
+[wiki:"../" '마작의 역'으로 돌아가기]
+
+||<tablebgcolor="#EDEDED">※ 이 문서는 국표마작의 역을 설명하고 있습니다.||
+
+여기서부터는 본격적으로 일본 마작으로 치면 [[역만]]에 해당되는 역들이 튀어나오기 시작한다.~~하지만 일본에서 2점짜리 싸구려 역인 소삼원이 여기선 무려 64점급이라는건 아이러니~~
+
+[[목차]]
+
+== 칭야오주(清幺九;청요구;All Terminals) ==
+수패의 1,9로만 이루어진 역. 일본마작의 [wiki:"마작의 역/역만#s-3.3"청노두]와 동일하나, 4장을 사용한 칠대가 인정되는 특성상 칠대의 형태로 완성할 수도 있다.(이 경우 스귀이는 계산하지 않는다.) 단 치두이의 복합이 가능함에도 불구하고, 예외적으로 펑펑허, 야오주커와는 절대 계산될 수 없다. 물론 취안다이야오는 더더욱.
+
+attachment:/1wan.gif attachment:/1wan.gif attachment:/1wan.gif attachment:/9wan.gif attachment:/9wan.gif attachment:/9wan.gif attachment:/1sou.gif attachment:/1sou.gif attachment:/9sou.gif attachment:/9sou.gif attachment:/9sou.gif attachment:/1pin.gif attachment:/1pin.gif attachment:/1pin.gif
+
+혹은
+
+attachment:/1wan.gif attachment:/1wan.gif attachment:/9wan.gif attachment:/9wan.gif attachment:/1sou.gif attachment:/1sou.gif attachment:/9sou.gif attachment:/9sou.gif attachment:/1pin.gif attachment:/1pin.gif attachment:/1pin.gif attachment:/1pin.gif attachment:/9pin.gif attachment:/9pin.gif
+
+== 샤오스시(小四喜;소사희;Little Four Winds) ==
+풍패 4종류 중 3가지를 커쯔로 모으고, 나머지 하나를 머리로 모으면 되는 역. 일본마작에 있는 [wiki:"마작의 역/역만#s-3.5" 동명의 역]과 같다. 산펑커와 야오주커의 상위호환(즉, 복합불가)
+
+attachment:/ton.gif attachment:/ton.gif attachment:/ton.gif attachment:/nan.gif attachment:/nan.gif attachment:/nan.gif attachment:/sha.gif attachment:/sha.gif attachment:/sha.gif attachment:/pe.gif attachment:/pe.gif attachment:/7sou.gif attachment:/7sou.gif attachment:/7sou.gif
+
+== 샤오산위안(小三元;소삼원;Little Three Dragons) ==
+삼원패 3종류 중 2가지를 커쯔로 모으고, 나머지 하나를 머리로 모으면 되는 역. 일본마작의 [wiki:"마작의 역/2판역#s-3.4"소삼원]과 같으나, [wiki:"마작의 역/6점역#s-6"솽젠커]의 상위역으로 취급하기 때문에 젠커 및 솽젠커와는 복합하지 않는다.
+
+attachment:/haku.gif attachment:/haku.gif attachment:/hatsu.gif attachment:/hatsu.gif attachment:/hatsu.gif attachment:/chun.gif attachment:/chun.gif attachment:/chun.gif attachment:/1wan.gif attachment:/1wan.gif attachment:/1wan.gif attachment:/1sou.gif attachment:/1sou.gif attachment:/1sou.gif
+
+== 쯔이서(字一色;자일색;All Honor) ==
+자패로만 이루어진 역. 일본마작의 [wiki:"마작의 역/역만#s-3.2"자일색]과 동일하다. 칭야오주와 마찬가지로 치두이 형태가 가능함에도 펑펑허, 야오주커와는 복합하지 않으며, 당연히 취안다이야오의 상위호환 취급. 야오주커 형태에 따라 취안펑커, 먼펑커, 또는 젠커가 복합된다.
+
+attachment:/ton.gif attachment:/ton.gif attachment:/sha.gif attachment:/sha.gif attachment:/sha.gif attachment:/pe.gif attachment:/pe.gif attachment:/pe.gif attachment:/hatsu.gif attachment:/hatsu.gif attachment:/hatsu.gif attachment:/chun.gif attachment:/chun.gif attachment:/chun.gif
+
+== 스안커(四暗刻;사암각;Four Concealed Pungs) ==
+안커 4개로 이루어진 역. 일본마작의 [wiki:"마작의 역/역만#s-2.3"사안커]와 동일하다. 당연히 펑펑허의 상위호환격으로 취급하며, 점화하더라도 먼첸칭으로는 취급하지 않는다. 단 쯔모화료하면 부추런은 적용된다.
+
+== 이서솽룽후이(一色双龙会;일색쌍룡회;Pure Terminal Chows) ==
+한 가지의 수패로 123/789의 이반가오(혹은 라오사오푸) 두 쌍을 만들고, 머리를 그 종류의 5로 만들면 되는 역. 이 역은 치두이와 복합되지 않으며, 이반가오와 라오사오푸, 우쯔, 핑허, 그리고 칭이서의 상위호환으로 취급된다.
+
+attachment:/1sou.gif attachment:/1sou.gif attachment:/2sou.gif attachment:/2sou.gif attachment:/3sou.gif attachment:/3sou.gif attachment:/5sou.gif attachment:/5sou.gif attachment:/7sou.gif attachment:/7sou.gif attachment:/8sou.gif attachment:/8sou.gif attachment:/9sou.gif attachment:/9sou.gif

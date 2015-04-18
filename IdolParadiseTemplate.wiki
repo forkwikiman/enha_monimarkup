@@ -1,0 +1,33 @@
+ * 상위항목 : [아이돌 파라다이스/아이돌]
+
+[[목차]]
+= 프로필 =
+= 프로필 =
+||<tablewidth=860px><width=40%><-3><:><#ddaa55> '''캐릭터 이름'''<<br>>'''일본판은 원어도 표기''' ||<-4><:><#ddaa55> '''캐릭터 이미지''' ||
+||<width=80px><:><#ddeeff> '''코스트''' ||<-2><width=80px><:> - ||<-2><|4> - <<br>> 앨범 사진 ||<-2><|4> - <<br>> SD 버전 ||
+||<width=80px><:><#ddeeff> '''일러스트''' ||<-2><width=80px><:> - ||
+||<width=80px><:><#ddeeff> '''생일''' ||<-2><width=80px><:> - ||
+||<width=80px><:><#ddeeff> '''나이''' ||<-2><width=80px><:> - ||
+||<width=80px><:><#ddeeff> '''출신''' ||<-2><width=80px><:> - ||<width=320px><-4><:><#ddeeff> '''Story''' ||
+||<width=80px><:><#ddeeff> '''혈액형''' ||<-2><width=80px><:> - ||<width=320px><-4><|4><:> - ||
+||<width=80px><:><#ddeeff> '''신장''' ||<-2><width=80px><:> - ||
+||<width=80px><:><#ddeeff> '''쓰리사이즈''' ||<-2><width=80px><:> - ||
+||<width=80px><:><#ddeeff> '''등급''' ||<-2><width=80px><:> '''N(#808080)<<br>>R(#c0c0c0)<<br>>SR(#ffdf3e)<<br>>셋 중 해당하는 하나만 남겨두고 셀 배경색을 괄호 안의 색으로''' ||
+||<width=240px><-2><:><#ddeeff> '''기본 능력치''' ||<:> Lv.1 ||<width=180px><:> {{{#green Talent 0}}} ||<width=180px><:> {{{#red Passion 0}}} ||<width=180px><:> {{{#blue Visual 0}}} ||
+||<width=240px><-2><:><#ddeeff> '''최대 레벨 능력치''' ||<:> Lv.X ||<width=180px><:> {{{#green Talent 0}}} ||<width=180px><:> {{{#red Passion 0}}} ||<width=180px><:> {{{#blue Visual 0}}} ||
+||<width=240px><-2><:><#ddeeff> '''홀로그램 최대 레벨 능력치''' ||<:> Lv.X ||<width=180px><:> {{{#green Talent 0}}} ||<width=180px><:> {{{#red Passion 0}}} ||<width=180px><:> {{{#blue Visual 0}}} ||
+||<width=160px><:><#ddeeff> '''기본 스킬''' ||<-2><:><#ffaaee> 스킬명 ||||||<width=540px><:> 스킬 설명 ||
+||<width=160px><:><#ddeeff> '''1차 육성 스킬''' ||<-2><:><#ffaaee> 스킬명 ||||||<width=540px><:> 스킬 설명 ||
+||<width=160px><:><#ddeeff> '''2차 육성 스킬''' ||<-2><:><#ffaaee> 스킬명 ||||||<width=540px><:> 스킬 설명 ||
+
+= 소개 =
+모바일 게임 <[아이돌 파라다이스]>에 등장하는 캐릭터. 성우는 ~~.
+= 코스튬 =
+||<-5> 이미지 ||
+||<-2><#ddeeff> Illust by ||<-3> 일러스트레이터 ||
+||<width=240px><:><#ddeeff> 기본 능력치 ||<width=40px><:> Lv.1 ||<:> {{{#green Talent 0}}} ||<:> {{{#red Passion 0}}} ||<:> {{{#blue Visual 0}}} ||
+||<:><#ddeeff> 최대 레벨 능력치 ||<:> Lv.X ||<:> {{{#green Talent 0}}} ||<:> {{{#red Passion 0}}} ||<:> {{{#blue Visual 0}}} ||
+||<:><#ddeeff> 홀로그램 최대 레벨 능력치 ||<:> Lv.X ||<:> {{{#green Talent 0}}} ||<:> {{{#red Passion 0}}} ||<:> {{{#blue Visual 0}}} ||
+||<:><#ddeeff> 스킬 ||<:><#ffaaee> 스킬명 ||||||<width=540px><:> 스킬 설명 ||
+= 담당곡 =
+

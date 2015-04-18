@@ -1,0 +1,35 @@
+[[목차]]
+
+== 개요 ==
+http://ec3.images-amazon.com/images/I/51Q5iggqZNL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/iejGJTvNDI0?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iejGJTvNDI0?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+PV 영상
+
+일본의 밴드 DUFF 데뷔 싱글음반 및 수록곡. 싱글음반은 2009년 9월 9일에 발매되었다.
+멜로디도 그렇고 제목 그대로 [[사무라이]]가 가사에 많이 들어간 곡. 그 외에도 [[게이샤]], [[후지산]], [[스시]]도 나온다. ~~[[wiki:"치프 자너프" 스시! 스끼야끼! 사시미!]]~~
+국내에서 불리는 애칭은 가사의 [[몬데그린]]에서 따온 사무라이 '''[[굴비]]'''.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>7||<:>8||
+||<#faca00><:>노트수||<:>166||<:>411||<:>646||
+||<#faca00><:>BPM||||||<:>128||
+||<#faca00><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/KBp4RlC68Mg" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면 엑설런트 영상
+
+박자도 배치도 중구난방이라서 EXTREME은 8치고는 어려운 편. 박자가 일정한 듯 하면서도 꼬아놓은 부분이 많고, 동시치기가 랩 부분의 난타에 교묘하게 섞여있으므로 주의. 게다가 마지막에는 느닷없이 32비트 긁기가 나오기 때문에 [[최후반살인]]곡이기도 하다(...). 전주 부분과 후반의 동시치기 반복 구간에서 점수를 많이 얻어 놓아야 덜 위험할 듯. 니트에서 추가된 8렙 중에서는 가장 어렵다는 평이 많다. 
+
+ADVANCED는 익스보다는 16비트가 적지만 그래도 많기 때문에 7렙 치고는 상당히 어려운 편이다. 여담으로 ADVANCED는 유비트 아시아 대회 한국 예선 1차에서 보스곡으로 등장했다.

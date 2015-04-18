@@ -1,0 +1,157 @@
+ * [[철도 관련 정보|철도 관련 정보]]/[[일본 철도 정보|일본 철도 정보]]
+
+|| '''2015년 3월 20일 현재 아래의 역 멜로디 동영상은 제 3자 저작권 문제로 거의 대부분 삭제.''' ||
+
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/xxnX2g0XVbw" frameborder="0" allowfullscreen></iframe>
+}}}
+[[JR니시니혼]] [[JR코베선]] [[사쿠라슈쿠가와역]]의 접근 멜로디. 역 근처 슈쿠가와 공원의 벚꽃놀이가 유명하기 때문에 벚꽃을 주제로 만들어진 곡(コブクロ의 桜)을 어레인지해서 멜로디로 사용하고 있다.
+
+[[목차]]
+
+= 개요 =
+역 멜로디는 주로 철도역에서 자주 쓰이는 멜로디를 말한다. 방송 차임, 발차 멜로디, 접근 멜로디를 비롯해 여러가지 멜로디가 있지만, 엔하위키에서는 편의상 이 항목에서 모두 설명하기로 한다.
+
+역 멜로디는 과거에 종이나 전자벨을 이용해 열차의 출발, 도착을 알리던 것에서 발달하여 이러한 벨 대신 음악을 넣은 것이다. 모든 역이 그런 것은 아니지만, 역이 있는 지역의 특징을 살리는 멜로디가 사용되는 경우가 있다.
+
+= 발차 멜로디 =
+말 그대로 열차의 출발을 알리는 멜로디이다. 이 또한 과거에는 전자벨, 종 등이 사용되었다.
+
+평균 길이는 15초 내외. 최초로 시행한 사유는 자살방지용으로 도입되었다고. (한편, 한국도 역시 자살방지 음악이 1990년대후반 ~ 2000년대 초반까지 도입된 적이 있다. 대표적인 곡이 바로 [서영은]의 '''혼자가 아닌 나''')
+
+[[youtube(NBkRGlWlxEo)]]
+|| '''저작권 문제로 삭제된 동영상입니다.''' ||
+--2시간짜리 풀버전도 있지만 [저작권] 논란중이라--
+
+보통 일본에서 [[전철]]을 타본 경험이 있다면 흔히 들어봤을 것이다. 그 경우가 아닌데도 불구하고 이 멜로디가 익숙하다면 당신은 바로 [철덕후](...) 헌데 이런 노래들이 제조사별로 다양한데다가 다양한 음악들이 난무하고 있다. 유투브에 올라온 영상들도 위의 것은 그냥 새발의 피. 엄청난 멜로디의 혼재속에 있다고 봐도 된다.
+
+한편, 한국의 발차 멜로디는 따로 존재하지 않지만,[* 예외적으로 대구는 --워낙 짧긴 해도-- 존재한다.][* [서울도시철도공사] [wiki:"서울 지하철 5호선" 5],[wiki:"서울 지하철 6호선"6],[wiki:"서울 지하철 7호선" 7]호선에는 발차--멜로디--경고음이 존재한다.("딩동(x3)".) 이 기능은 역이 아닌 전동차 자체 스피커(!)로 나오는 소리다. 차량에 외부스피커가 존재한다고 한다.] 대신에 [[열차 진입음]]이라는 이름으로 열차가 들어올때 음악을 내보내고 있다. 기타 자세한 것은 [http://gall.dcinside.com/train/90715 여기]를 참고하자, 굳이 설명 필요없다. 그나마 [코레일]이 다양한 음악을 내놓고 있는 편. 나머지는 얄쨜없다 '''"띠리리리리리리리리~~~~"'''[* 이 소리는 일본 [[야마노테선]]의 [[신오쿠보역]]에도 쓰인다. 이유인즉슨 일본에서 제일 큰 코리아타운도 있고, 이 역에서 죽은 故 [[이수현]]씨를 기리기 위해서라고. 위 영상의 7분 41초부터 45초 가량에도 나온다. 이름은 벨A.] 기타 자세한 것은 [로고송]과 [열차 진입음] 참조.
+
+한때, [광운대역](舊 성북역)에서 근무하던 공익에 의해 JR 발차 멜로디가 시연된 적도 있었는데, 지금은 끝났으니 무의미. 자세한 것은 해당 역 참조.
+{{{#!html
+<object type='application/x-shockwave-flash' id='JPRrBQDLHlI%24' width='590px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=JPRrBQDLHlI%24' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=JPRrBQDLHlI%24' width='590px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+= 열차 진입음 =
+[[열차]], 특히 [[지하철]]의 진입을 알리기 위한 짧은 멜로디나 경보음. 보통 [[접근음]]이라고 부르는데, 정작 [[리그베다 위키]]의 접근음 항목은 [[이론언어학]] 관련 내용으로 서술되어 있다(...).
+== 한국의 열차 진입음 ==
+=== 일반열차 ===
+상행은 옛 서울지하철 상행 진입음과 동일한 연결음(뽀로로록), 하행은 일부 연결음(따르릉 따르릉)이 사용되고 있다. 단, 신설되는 역에는 현재 서울 지하철에서 사용되는 멜로디음이 사용된다고 한다.(ex. [영동선] [동백산역], [동해남부선] [송정역(동해남부선)|송정역], [해운대역(동해남부선)|해운대역])
+
+=== [[수도권 전철]] ===
+1974년 [[종로선]] 개통 이후부터 [[서울 지하철]]에서는 열차 진입 안내, 경고를 위해 [http://blog.naver.com/PostView.nhn?blogId=seoulmetro01&logNo=120133419249 경보음 형식의 진입 안내음을 도입했다.][* 지금도 '지하철' 하면 이 소리를 떠올리는 사람들이 많다.] 개통 초기부터 1990년대까지는 매우 높은 데시벨의(거의 전화 벨소리에 상응하는) 때래래래래랭 하는 연결음 소리였으나 이것이 매우 공격적으로 들린다~~시끄럽다~~는 민원이 많아 2000년경부터 상행선은 기존 경고음에서 2~3옥타브 정도 낮춰 연결음(빠른 기계음, 뽀로로록)로 바꾸거, 하행선은 끊긴음(벨소리, 땡땡땡땡) 방식으로 아예 새로 만들었다. 이 안내음은 [[철도청]] 전철 노선이나 이후 개통한 [[서울특별시도시철도공사]]의 5,6,7,8 호선에도 똑같이 적용되었다.[* 단 도철 노선에서는 시범적으로 [http://news.donga.com/Series/List_70030300000027/3/70030300000027/19990926/7472174/1 새소리가 도입된적이 있는 듯 하다.] ]
+
+그러다가 2010년 6월, 수도권 전철 대부분의 역에 [[스크린도어]]가 설치되어 안전사고의 위험이 줄고, [http://www.chosun.com/site/data/html_dir/2009/05/28/2009052801760.html 기존의 귀에 거슬리던 경보음을 바꿔달라는 민원들이 들어오면서] 5~8호선은 [http://news.donga.com/Series/List_70030300000001/3/70030300000001/20100813/30480961/1 진입음을 없애게 되었고,] 수도권 전철 1,2,3,4호선과 광역 전철 노선들도 이듬해 7월부터 열차 진입음이 바뀌게 된다.[* 하지만 기존 상행선 경보음은 발차음(정확히는 스크린도어 닫힐 때)으로 생존에 성공하였다.]
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/C7ZMVZzEoyY?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+상행선 열차 진입음
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/UzeWE4FPow4?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+하행선 열차 진입음 ~~[wiki:"총신대입구역"깨알같은 혐짤]~~
+
+현재 수도권 전철 1,2,3,4호선 그리고 [[공항철도]] 에서 쓰이는 진입음은 상행선은 종소리, 하행선은 트럼펫으로 연주되는 짧은 멜로디 형태로 되어있다. 근데 왜인지 몰라도 [[평택역]]은 옛 진입음으로 된 방송뒤에 현재 진입음으로 된 방송이 나오며, [[세마역]]은 하행선에서도 상행선 진입음으로 나온다
+또 [[http://blog.naver.com/dajang33/60131470392 서울 지하철 9호선]]에서는 옛 진입음이 아직 사용중이며, [[신분당선]]은 자체제작 멜로디로 변경됐다. [http://www.shinbundang.co.kr/index.jsp?pageID=/notice/notice5_view.jsp?no=483&open_main=3&open_sub1=6&open_sub2=0 들어보기]
+==== 인천 도시철도 ====
+[[인천 도시철도]]는 상행에서는 [http://youtu.be/VIt4eEnm-TQ?t=5s 뱃고동 소리]가, 하행에서는 갈매기 소리가 나온다는데 [http://www.youtube.com/watch?v=7gzUpQjSUSc 직접 들어보면] 옛 상선 진입음(뽀로로록)이 나온다.
+
+=== 부산 도시철도 ===
+상행선은 [[비발디]]의 [[사계]] 중 가을 제 1악장, 하행선은 [[홍난파]]의 '피리'가 연주된다. 
+[http://www.humetro.busan.kr/program/board/main/view.php?id=data&num=3217&c=6&action=&field=&adminfield=&s_name=&category=&stype=&view=&page_now=&page= 듣기]
+
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://www.humetro.busan.kr/download.php?id=data&filename=%BB%F3%BC%B1_%B0%E6%BA%B8%C0%BD%BA%F1%B9%DF%B5%F0_%BB%E7%B0%E8.mp3"></object>
+}}} 
+|| 상행 방송 ||
+
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://www.humetro.busan.kr/download.php?id=data&filename=%C7%CF%BC%B1-%B0%E6%BA%B8%C0%BD%C8%AB%B3%AD%C6%C4-%C7%C7%B8%AE.mp3"></object>
+}}} 
+|| 하행 방송 ||
+덧붙여서, [[부산김해경전철]]은 수도권전철 구형멜로디를 계속사용하고있다. 
+
+=== 대구 도시철도 ===
+상행선은 1호선의 경우 도레미음 세번 반복, 2호선은 땡땡땡땡을 두번 반복하며 하행선은 1,2호선 모두 구 수도권전철 진입음인 따르르르릉음이 나온다.
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile230.uf.daum.net/attach/1239E7505096459A2542E1"></object>
+}}} 
+|| 1호선 상행(대곡행) 열차 접근방송 ||
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile239.uf.daum.net/attach/112ACE50509645993B9879"></object>
+}}} 
+||  1호선 하행(안심행) 열차 접근방송 ||
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile206.uf.daum.net/attach/013DB950509645911E7227"></object>
+}}} 
+|| 2호선 상행(문양행) 열차 접근방송 ||
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile229.uf.daum.net/attach/203F70505096458F1B067C"></object>
+}}} 
+|| 2호선 하행(영남대행) 열차 접근방송 ||
+=== 대전 도시철도 ===
+예전에는 상-하행선 모두 수도권 전철 구 진입음을 썼었으나, 현재는 판암행은 동요 옹달샘, 반석행은 [[비발디]] [[사계]] 중 가을 1악장이 나온다.
+[http://youtu.be/nK78WHCm90A 반석행 들어보기] [http://youtu.be/pqYTB-Mzj9E 판암행 들어보기]
+=== 광주 도시철도 ===
+상행([녹동역(광주)|녹동역],[소태역] 방면)은 옛 서울 지하철 상행(뽀로로록)음을 사용중이고, 하행([평동역] 방면)은 자체제작 멜로디식 접근음을 사용하고 있다.
+[http://youtu.be/D5uwV5MAR5w?t=27s 평동행 듣기] [http://www.youtube.com/watch?v=5FfKXMvAJQg 녹동행 듣기]
+== 해외의 사례 ==
+[[MBTA]] [http://www.youtube.com/watch?v=uQRUOhq2Qbs 레드 라인의 열차 진입 안내방송]
+[[BART]] [http://www.youtube.com/watch?v=TDX1uHSC7gs 리치몬드행 열차 진입음]
+=== 일본의 접근 멜로디 ===
+[[JR 니시니혼]] [http://blog.naver.com/PostView.nhn?blogId=son5423&logNo=80165727363&redirect=Dlog&widgetTypeCall=true 열차 진입음 모음]
+동일본 지역에서는 주로 출입문이 닫히기 전에 멜로디가 흐르지만 서일본 지역에서는 접근 방송 후 열차가 정차할 때 까지 멜로디가 흐르는 경우가 있다. 이 또한 같은 기능의 전자벨이 사용되다가 전자벨을 멜로디로 바꾼 것이다. 동일본 지역에서는 [[오다큐 전철]]이 접근 멜로디를 채용하고 있다.
+
+접근 멜로디는 그 특성상 멜로디가 길어져도 문제가 없기 때문에 일부 역에서는 곡을 통째로 접근 멜로디로 만들기도 한다.
+
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/w0d2s6osVxM" frameborder="0" allowfullscreen></iframe>
+}}}
+|| '''저작권 문제로 삭제된 동영상입니다.''' ||
+JR니시니혼 쿠사츠선 아부라히(油日)역의 접근/발차 멜로디. 1분 20초 정도의 피아노 곡이다. 열차 접근시 멜로디가 자동으로 나오기 시작하지만 끄는 건 차장이 수동으로 한다. 
+
+
+그런데 JR니시니혼이 약을 잡수셨는지 '''2015년 2월부터 순차적으로 [[어반 네트워크]]상의 주요 노선들에 새로운 접근 멜로디를 도입하게 되는데...'''
+
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/qi9EyaJxdqo" frameborder="0" allowfullscreen></iframe>
+}}}
+※각 노선별로 먼저 나오는게 구형, 나중에 나오는게 신형.
+
+'''[[JR 고베선]], [[JR 교토선]], [[오사카 순환선]], [[야마토지선]], [[오사카 히가시선]]에 새로운 접근 멜로디를 때려박고''' ~~어찌 매번 버림받는 [[한와선]]은 이번에도 버림받았다~~
+
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/YKHr3_BR220" frameborder="0" allowfullscreen></iframe>
+}}}
+'''심지어는 오사카환상선 19개역 전 역에도 별도의 발차 멜로디를 도입하게 되고(?!)'''
+
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/oxWswa1GkIk" frameborder="0" allowfullscreen></iframe>
+}}}
+'''무려 [[산요 신칸센]]의 일부 역에도 개통40주년 기념으로 히카리챠임을 도입하였다.'''
+
+~~요즘 JR서일본이 많이 이상하지 않아? 철도차량의 지옥이라 불리는 히로시마 권역에 신차를 주질 않나 오사카순환선에 갑자기 신차를 던져주질 않나 뜬금없이 접근음을 죄다 바꾸질 않나..~~

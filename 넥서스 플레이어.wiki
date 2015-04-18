@@ -1,0 +1,42 @@
+ * 상위 항목 : [[구글 넥서스]] 시리즈
+
+[[include(틀:안드로이드 레퍼런스 시리즈)]]
+
+||<tablealign="center"> attachment:NXSP.jpg?width=100% ||
+|| [[http://www.google.com/nexus/player/ 구글 Nexus Player 공식 사이트]] ||
+
+>>'''Entertainment tailored for you'''
+
+[[목차]]
+
+== 개요 ==
+[[구글]]이 [[2014년]] [[10월 15일]](한국 시각 2014년 10월 16일)에 공개한 [[안드로이드(운영체제)|안드로이드]] 레퍼런스 [[TV]]. 제조사는 [[ASUS]]. 
+
+== 사양 ==
+||제조사||[[ASUS]] ||
+||[[SoC|프로세서]]||[[Intel]] [[인텔 아톰 시리즈|Atom]] Moorefield Z3560 [[SoC]]. Intel Silvermont MP4 1.83 GHz [[CPU]], PowerVR G6430 533 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR'''3''' SDRAM, 8 GB 내장 메모리 ||
+||[[디스플레이|디스]][[br]][[디스플레이|플레이]]||[[그런 거 없다]] ||
+||[[네트워크]]||[[Wi-Fi]] 802.11a/b/g/n/ac, [[블루투스]] 4.1 ||
+||[[카메라]]||<|2>[[그런 거 없다]] ||
+||[[배터리]]||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 5.0 → 5.1 (Lollipop) ||
+||규격||120 x 120 x 20 mm, 235 g ||
+||색상[* 제품 공개 당시 같이 공개된 기본 색상에 볼드 처리]||'''블랙''' ||
+||기타|| ||
+
+== 상세 ==
+구글이 기획한 첫 번째 안드로이드 TV. 하드웨어는 [[ASUS]]가 담당한다. 한국 표준시로 2014년 10월 16일 오전 1시에 전세계 동시 공개되었다.
+
+과거, [[넥서스 Q]]라는 괴작 내지 비슷한 물건을 공개했던 구글이 안드로이드 5.0 롤리팝으로 TV 시장에 본격 진출하면서 출시한 플레이어다.
+
+컨트롤러가 두 가지다. 리모콘과 게임패드.
+
+== OS 업그레이드 ==
+=== 5.1 롤리팝 ===
+2015년 3월 20일 5.1 롤리팝 팩토리 이미지가 공개되었다.
+
+== 기타 ==
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/rqFdNvxLjCY" frameborder="0" allowfullscreen></iframe>}}}
+Google Nexus Player: Entertainment tailored for you

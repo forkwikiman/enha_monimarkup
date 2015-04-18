@@ -1,0 +1,94 @@
+ * [DJMAX 시리즈/수록곡 목록]
+
+|| 최초 수록 버전 || [DJMAX Portable Black Square] ||
+|| 작사,작곡 || [[BEXTER]] ||
+|| 보컬 || [[So Fly]]  ||
+|| 랩 || [[JC]] ||
+|| 배경  || 신민경, CarrotJuice ||
+|| 장르 || Urban Pop ||
+
+{{{#!HTML
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/5kShG6srp3s&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5kShG6srp3s&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+}}}
+
+메트로 프로젝트에 수록된 BEXTER의 곡. DMP2를 시작으로 준수한 곡을 뽑아내기 시작한 BEXTER의 장르적 실험이 돋보이는 곡으로, 동일하게 메트로 프로젝트에 수록된 [영원]과 같이 이전까지와는 다른 다양한 장르로의 시도가 좋은 결과를 맺은 곡이다.
+
+배경 영상과 곡의 매칭이 일품인 수작. 
+단, [DJMAX TECHNIKA]에 수록된 Ruti'N은 1:06 ~ 1:08 부분과 1:15 ~ 1:24 까지의 장면이 심의 문제인지 삭제되고 다른 장면으로 대체되었다. 게다가 BGA 자체의 싱크도 약간 어긋나버렸다. (그런데 비슷한 내용인, 아니 조직 보스도 아니고 어린 여자애를 쏴 죽이는 내용인 [In my Dream]은 무삭제로 통과되었다. '''응?''')
+
+[[DJMAX TECHNIKA 2]]에서는 BGA의 싱크는 정상적으로 맞추어졌으나, 역시 일부 장면 삭제는 그대로다. 이 삭제 버전이 [[DJMAX TECHNIKA 3]]와 [[DJMAX TECHNIKA TUNE]]에까지 이어졌다.
+
+아래는 Ruti'n의 가사. ~~가사부터 19금이다!~~
+
+{{|JC> No sleep, no time, no mercy, I gotta hit'em.
+Low, low ground, I'm low key when I spit it.
+Less carb, more protein my body fitted.
+One step to two step the routine.
+
+No, no sign of morphine my body need it.
+Take a trip to O.C to cop live it.
+Just sip the caffeine I gotta get it.
+One step t two step the rutin.
+
+So fly> Got it now, just going down now.
+No time, don't mess it, boy.
+Let's show you how just to move it.
+Let me show you just to groone now.
+
+I'm come inside, let me show you how.
+No time, don't mess it boy.
+Let's show you how just to move it.
+Work it out, let's do!
+
+JC> Girl, so flexible, accessible!
+So hot like the sunshine Mexico!
+Just feel the beat Mr.BEXTER Flow!
+So hot, hot, hot, hot! Check the rutin!
+
+Work it out, just work it out!
+Mr.BEXTER & JC, turn it out!
+Sing it So Fly, show you what I'm about!
+So hot, hot, hot, hot! Check the rutin!
+
+So fly> Got it now, just going down now.
+No time, don't mess it, boy.
+JC> No time baby, don't mess around.
+Check the rutin, now let's get down.
+
+So Fly> I'm come inside, let me show you how.
+No time, don't mess it boy.
+JC> No time baby, don't mess around.
+Check the rutin, now let's get down, get down!|}}
+
+=== [DJMAX Portable Black Square] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/jVUp4KgSCEI" frameborder="0" allowfullscreen></iframe>}}}
+
+(6B HD)
+
+블랙 스퀘어에서는 마냥 쉽지도 어렵지도 않은 중간 정도의 난이도로 등장.
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/-1INyOPXfMs" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(TP)
+
+테크니카에는 PP와 TP 패턴이 있으며,TP 패턴은 [wiki:"Futurist"Futurist Set]의 스코어 어택 곡으로 자주 플레이되는 곡이다.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 || ? || ? || ||
+||<#FFFF00> Normal || D || 150 || 5 || 8박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 200 || 6 || 4박 스크롤 || [[wiki:"Futurist"Futurist Set]] 셀렉곡
+ [wiki:"Labyrinth(DJMAX)"미션 - HAN-D-SOME] 수록
+ [wiki:"Raconteur"미션 - 백야] 수록 ||
+
+이후에도 그대로 이식되었다.
+
+=== [TAP SONIC] ===
+
+[[TAP SONIC]]에서는 6라인 레전드 기준으로 7레벨이지만 쉬운 패턴을 보이고 있다.
+

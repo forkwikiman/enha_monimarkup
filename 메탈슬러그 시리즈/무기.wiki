@@ -1,0 +1,117 @@
+본 항목은 [[메탈슬러그 시리즈]]의 하위항목으로, 플레이어 캐릭터가 입수해 사용할 수 있는 무기의 일람입니다.
+
+[[목차]]
+== 개요 ==
+캐릭터들의 무기는 기본 무기, 주 무기, 추가 무기 3가지로 분류할 수 있다.
+
+각 주무기의 설정화에서 보이듯 '''설정상''' 모든 무기의 외형은 달라야 정상이지만, 아케이드 도트게임이라는 한계 덕분에 무기 그래픽은 한-두가지로 통일되어 있다. 설정화를 잘 보면 이 아이템들은 주무장의 총구 부분에 장착하는 것들이지만 게임상에서는 생략된 것이다. 덕택에 똑같이 생긴 총에서 산탄, 화염, 유탄, 미사일, 심지어는 레이저까지 나가는 진풍경을 볼 수 있다. 실제로라면 해괴하기 그지없겠지만 게임적 허용이라고 봐야 할 것이다.
+
+캐릭터마다 무기의 그래픽이 약간씩 다르기도 하다. 단연 눈에 띄는 것이라면 기본무기로, 남캐들은 [콜트 M1911]을 들고다니고 여캐들은 [엔필드 No 2 리볼버]를 사용한다. 게임 내적으로도 그래픽이 다르지만, 확실히 구분해주는 것은 [[메탈슬러그 3]]의 엔딩이다.[* 엔딩에서 바다에다가 총을 버리는데, 여캐가 총을 버리면 웨블리 리볼버가, 남캐가 총을 버리면 콜트 M1911이 가라앉는것을 볼수있다. 여기서 총을 버리는 캐릭터는 [마즈피플]에게 잡혀가는 캐릭터를 대신한 캐릭터다.] 참고로 장전 모션도 있다. 볼 수 있는 방법은 남캐는 대략 12발 쏜뒤 멈추고 여캐는 7발 쏜뒤 멈추면 볼수있다. --그래봤자 [무한탄창]인건 여전하다.--
+
+근접무기는 매우 다양한 모습을 보인다. 단지 외형의 차이뿐만 아니라 실성능의 차이까지 보이는 등 각양각색. 남캐들과 [레오나 하이데른]과 레드 아이[* [메탈슬러그 세컨드 미션]의 여캐로 레드 아이는 코드명이라고 한다.]는 [단검]을 사용하고 알리사 스튜어트[* 메탈슬러그 워리어즈와 [http://m.youtube.com/watch?v=WdhTucB_n6k 파이터즈]에 출현]는 [렌치]를 사용하고 나머지 여캐들은 [도끼]와 [톤파]를 사용한다. [[트레버 스페이시]]는 [wiki:"발에 칼날 달기" 발에 달린 칼]로 근접공격을 하며, [[나디아 커셀]]은 [전기충격기]를 사용하여 범위 피해를 입히며 기갑에게도 피해가 들어간다. --[대전차오함마술|대전차][미사카 미코토|전격술사]--
+
+그외의 [헤비 머신건] 같은 추가무기들은 남캐들은 [펌프액션]식 [유탄발사기]가 달린 AR-10이고 여캐들은 [개머리판]이 없거나 집어넣은 [MP5]A3를 사용한다.
+
+[투 머신건]의 경우에는 남캐들은 개머리판이 없는 MP5계열을 사용하고 여캐들은 [UZI]를 사용한다.[* [메탈슬러그 디펜스]에 따르면 [우탄]도 UZI를 사용한다는데 게임상에서는 [[잉그램]]처럼 생겼다. [[MSD]]전용 일러스트에서는 UZI가 그려져 있다.]
+ 참고로 상태이상 시에(팻 상태 제외) 무기를 얻으면 무기가 안 나오고 1000점이 뜬다. [* [[썬더 클라우드]], [[모빌새틀라이트]] 제외]
+
+== 기본 무기 ==
+ * [[핸드건]]
+
+ * http://images3.wikia.nocookie.net/__cb20090304135542/metalslug/images/f/f7/H.gif?width=40
+   http://images2.wikia.nocookie.net/__cb20120814140309/metalslug/images/7/7c/HMG_full_power.gif?width=40
+  [[헤비 머신건]] / 빅 헤비 머신건 [* 6/7/XX 이지모드 선택 기준. 피오는 빅 헤비 머신건.]
+
+== 일반 무기 ==
+ * http://images3.wikia.nocookie.net/__cb20090304135542/metalslug/images/f/f7/H.gif?width=40
+ [[헤비 머신건]]
+
+  * http://images4.wikia.nocookie.net/__cb20090312153146/metalslug/images/7/7c/2H.gif?width=40
+  [[투 머신건]]
+
+ * http://images2.wikia.nocookie.net/__cb20090304141526/metalslug/images/3/38/R.gif?width=40
+ [[로켓 런처]]
+
+ * http://images1.wikia.nocookie.net/__cb20090304143061/metalslug/images/f/fd/F.gif?width=40
+ [[플레임 샷]]
+
+ * http://images1.wikia.nocookie.net/__cb20090304142458/metalslug/images/6/66/S.gif?width=40
+ [[산탄총/게임#s-3|샷건]]
+
+ * http://images2.wikia.nocookie.net/__cb20090305141522/metalslug/images/1/18/L.gif?width=40
+ [[레이저 건]]
+
+ * http://images1.wikia.nocookie.net/__cb20090305142510/metalslug/images/1/14/C.gif?width=40
+ [[에너미 체이서]]
+
+ * http://images3.wikia.nocookie.net/__cb20090115034349/metalslug/images/a/a0/033AS.gif?width=40
+ [[아이언 리저드]]
+
+ * http://images4.wikia.nocookie.net/__cb20090305143827/metalslug/images/f/f7/D.gif?width=40
+ [[드롭 샷]]
+
+ * http://images1.wikia.nocookie.net/__cb20090305142019/metalslug/images/7/75/G.gif?width=40
+ [[슈퍼 그레네이드]]
+
+ * http://images1.wikia.nocookie.net/__cb20090326141812/metalslug/images/e/e6/021445.gif?width=40
+ [[잔테츠 소드]]
+
+ * http://images3.wikia.nocookie.net/__cb20090326141841/metalslug/images/4/49/T.gif?width=40
+ [[썬더 샷]]
+
+ * [[대마왕의 총]]
+
+== 특수 무기 ==
+ * http://images4.wikia.nocookie.net/__cb20090309140860/metalslug/images/3/37/Cloud.gif?width=30
+ [[썬더 클라우드]]
+
+ * http://images2.wikia.nocookie.net/__cb20090309141039/metalslug/images/d/de/MOBS.gif?width=30
+ [[모빌새틀라이트]]
+
+== 수류탄 계열 ==
+http://images1.wikia.nocookie.net/__cb20090305144435/metalslug/images/e/ed/Bomb.gif?width=50
+폭탄과 고유 캐논(미사일)이 있는 슬러그의 캐논(미사일)을 10개 보급시켜주는 아이템.[* 단 6에서의 에리와, 전용 캐논이 있는 슬러그에 탄 타마는 20개 지급.] 
+
+7과 XX에선 이지 모드로 하지 않으면 보기 어렵다. 다만 미션 6의 보스전에선 컨티뉴할 때 헤비 머신건 대신 나오는 듯.
+
+ * http://images4.wikia.nocookie.net/__cb20090326152830/metalslug/images/0/0d/Grenadei.gif?width=40
+ [[수류탄#s-5.4|수류탄]]
+
+ * http://images4.wikia.nocookie.net/__cb20090326152842/metalslug/images/6/69/FB.gif?width=40
+ [[화염병#s-4.2|화염병]]
+
+ * http://images3.wikia.nocookie.net/__cb20090306141361/metalslug/images/4/41/Stone.gif?width=40
+ [[짱돌]]
+
+== 빅 무기 ==
+X부터 등장한 기존 무기들의 강화판... 이지만 6 이전까지는 위력이 같았다. 6에 들어와서야 기존 무기에 비해 위력이 1.5배 상승.(단, 빅 플레임샷은 상승하지 않음) 
+
+X에선 기존 무기와 다른 무기로 취급되었지만 3부터는 같은 무기로 취급되어 추가장탄과 동시에 갖고 있던 모두가 빅 무기로 교체된다. 그 반대의 경우도 마찬가지.
+
+다만, 6부터 웨폰 체인지 시스템이 도입되어 다시 다른 무기로 취급된다.
+
+ * http://images2.wikia.nocookie.net/__cb20120814140309/metalslug/images/7/7c/HMG_full_power.gif?width=40
+ 빅 헤비 머신건
+
+ * http://images1.wikia.nocookie.net/__cb20090304141545/metalslug/images/7/7f/Rbig.gif?width=50
+ 빅 로켓 런처[* 스플래시 데미지는 동일하다.]
+
+ * http://images1.wikia.nocookie.net/__cb20120814140745/metalslug/images/7/74/Flame_Shot_Full_Power.gif?width=40
+ 빅 플레임 샷
+
+ * http://images1.wikia.nocookie.net/__cb20090304142520/metalslug/images/9/9f/Sbig.gif?width=50
+ 빅 샷건
+
+ * http://images3.wikia.nocookie.net/__cb20090305141542/metalslug/images/9/99/Lbig.gif?width=50
+ 빅 레이저 건
+
+ * http://images.wikia.com/metalslug/images/9/98/Tbig.gif?width=40
+ 빅 썬더샷[* 게임상에서는 단 한번도 나오지 않았다.]
+
+== [[메탈슬러그3D]] 전용 무기 ==
+ * [[수류탄#s-5.5|연막탄]]
+
+ * http://images3.wikia.nocookie.net/__cb20090411142712/metalslug/images/2/25/Sniper.gif?width=50 [[저격 소총(메탈슬러그3D)|저격 소총]]
+
+ * 모노리스[* [메탈슬러그 3] 스테이지2 보스인 [우주선(메탈슬러그 3)] 사용 패턴 비석]
+ [[메탈슬러그3D]] 1주차 클리어 특전 무기.]

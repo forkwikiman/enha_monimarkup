@@ -1,0 +1,36 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[SYMPHONIC DEFOGGERS]]. [[피아노]]를 비롯한 악기들의 연주가 가미된 재즈 풍의 곡이다.
+
+== [[beatmania]] ==
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/e77PLTPt8Ic" frameborder="0" allowfullscreen></iframe>}}}
+
+>질주감이 있는 드럼을 시작으로 복잡한 움직임의 피아노를 클리어하는 것이 즐거운, 재지(jazzy) 트랙입니다. 이 속도감과 충격적인 사운드로 매료된 비마[* 원문은 ビーマー인데 [[비트매니아]](ビートマニア)를 말하려고 한듯.]도 많을 것이다.
+>[http://www.konami.jp/am/bm/4th/music.html 공식 홈페이지 곡 해설]
+
+beatmania 4thMIX에 처음 수록되었다.
+
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| FUTURE JAZZ[[BR]]퓨쳐 [[재즈]] || [[BPM]] |||| 168 ||
+|||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 2}}} || {{{#blue 185}}} || {{{#orange 3}}} || {{{#orange 201}}} || {{{#red 9}}} || {{{#red 556}}} ||
+|| [[더블 플레이]] || {{{#blue 3}}} || {{{#blue 186}}} || {{{#orange 4}}} || {{{#orange 201}}} || {{{#red 9}}} || {{{#red 624}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : substream ~ 2nd, [[beatmania IIDX 13 DistorteD|13 DistorteD]] ~
+ * 가정용판 수록 : [[beatmania IIDX 13 DistorteD|13 DistorteD]]
+
+substream에 이식된 후 한동안 삭제되었다가 13 DD에서 부활하였다. 가정용에도 한동안 이식되지 않다가 역시 13 DD에 수록되었는데 이때 어나더 채보가 새로생겼다. 어나더 채보는 [[beatmania IIDX 15 DJ TROOPERS|15 DJ TROOPERS]]에서 이식되었다.
+
+어나더 채보는 원래 채보에 비해 플루트를 비롯한 여러 악기가 키음으로 추가되었다. 전반적으로 적당한 난이도지만 살짝 어긋난 배치가 많은 편. 후반 스크래치에 방심하면 게이지가 떨어지기 쉽다.
+== [[댄스 댄스 레볼루션]] ==
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/oVsNuO2DM80" frameborder="0" allowfullscreen></iframe>}}}
+
+DanceDanceRevolution 2ndMIX CLUB VERSiON 2에 수록.
+
+== 기타 ==
+게임상에서 곡이 꽤 짧은 편인데, 마지막에 본격적인 전개가 시작될 것 같이 현악기 연주가 나오다가 페이드아웃된다. 하지만 공식 앨범이라던지 작곡가의 개인 앨범 등 그 어디에서도 이 곡의 풀 버전을 찾을 수가 없다(...)

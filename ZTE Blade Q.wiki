@@ -1,0 +1,60 @@
+ * 상위 항목 : [[ZTE Blade]]
+
+||<tablealign="center"> attachment:BladeQ.jpg?width=170 ||
+|| [[http://www.zte.com.fr/mobiles/201311/t20131121_13849.html 프랑스 ZTE Blade Q 공식 사이트]] ||
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 2013년 10월에 공개한 [[안드로이드(OS)|안드로이드]] [[스마트폰]].
+
+== 사양 ==
+=== Blade Q ===
+||<|2>[wiki:"SoC" 프로][[br]][[SoC|세서]]||<:>'''기본'''||||[[MediaTek]] MT6572 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]], [[ARM Mali]]-400 500 MHz [[GPU]] ||
+||<#fe6b02><:>'''[[차이나텔레콤|CT]]'''||||[[퀄컴 스냅드래곤]] 200 MSM8625Q [[SoC]]. [[ARM Cortex-A5]] MP4 1.2 GHz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||||[[메모리]]||||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||||[[디스플레이]]||||4.5인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||<|2>[[네트워크|네트]][[br]][[네트워크|워크]]||<:>'''기본'''||<:>[4G|HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS]||<|2>[wiki:"GSM" GSM & EDGE][[br]][[Wi-Fi]] 802.11a/b/g/n, [[블루투스]] 3.0 ||
+||<#fe6b02><:>'''[[차이나텔레콤|CT]]'''||<:>[wiki:"CDMA2000" CDMA & EV-DO Rev. A] ||
+||||[[카메라]]||||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||||[[배터리]]||||Li-Ion 1800 mAh ||
+||||[[운영체제]]||||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||||규격||||67 x 137 x 9.5 mm, 139 g ||
+||||기타||||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+기본 모델이다. [[차이나텔레콤]]을 통해  퀄컴 스냅드래곤 200 MSM8625Q를 탑재해 N909라는 기기명으로 중국 시장에 먼저 선 출시되었으며,이후 글로벌 시장에 미디어텍의 MT6572로 AP를 변경해서 출시하였다.
+=== Blade Q mini ===
+||<tablealign="center"> attachment:miniq.jpg?width=170 ||
+|| [[http://www.zte.com.fr/mobiles/201311/t20131122_13851.html 프랑스 ZTE Blade Q mini 공식 사이트]] ||
+
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6572 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]], [[ARM Mali]]-400 500 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[4G|HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]] [[Wi-Fi]] 802.11a/b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||63.9 x 125.5 x 9.1 mm, 126 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+[[갤럭시 S4]]와 [[갤럭시 S4 mini]]의 관계처럼 Blade Q의 소형화 모델이다. 하지만, 사양은 소형화를 위해 감수해야하는 배터리 용량을 제외하면 큰 차이가 없다.
+=== Blade Q Maxi ===
+||<tablealign="center"> attachment:maxi.jpg?width=250 ||
+|| [[http://www.ztedevices.com/news/company_news/5362e168-9275-490e-ac36-bae4e18176d4.html ZTE Blade Q Maxi 공식 공개 보도자료]] ||
+
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6572 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]], [[ARM Mali]]-400 500 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[4G|HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][[Wi-Fi]] 802.11a/b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||143 x 72 x 9.1 mm, -- g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+[[hTC ONE|ONE과 ONE MAX]]의 관계처럼 Blade Q의 대형화 모델이다. 대형화 되면서 배터리 용량이 조금 더 여유롭게 탑재할 수 있게되어 배터리 용량이 늘어났다. 그 외의 사양은 동일하다.
+
+== 상세 ==
+[[ZTE]]의 중급형 혹은 저사양 라인업인 [[ZTE Blade|ZTE Blade 시리즈]]의 2013년 하반기 모델이다. 기준이 되는 모델과 소형화 모델, 대형화 모델이 같이 공개된 것이 특징이다.
+
+전반적인 디자인은 [[갤럭시 S III]]를 연상케한다. 사양은 [[ARM Cortex-A7]] 듀얼코어 CPU를 사용한 만큼 그렇게 좋지는 않다.

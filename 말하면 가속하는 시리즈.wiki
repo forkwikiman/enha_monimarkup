@@ -1,0 +1,49 @@
+ 상위항목: [[니코니코 동화]]
+
+[[목차]]
+
+=== 개요 ===
+
+[[니코니코 동화]] 등지에서 발견할 수 있는 동영상의 한 장르.
+
+어떤 특정 단어나 음절을 정해 놓고, '''노래에서 그게 나오면''' 일정 비율만큼 노래를 가속시킨다. 주로 똑같은 음절이 자주 나오는 노래에서 그 자주 나오는 음절로 가속시키곤 한다. 그 특성상 급가속되는 부분이 정해져 있고, 마지막엔 보통 150% 이상 가속되는데, 곡을 알면 어딘지 바로 알 수 있는 급가속파트와 가속이 이어지며 나타나는 목소리의 비틀림과 묘한 질주감 등을 즐기는 시리즈.
+
+2009년도 후반에 등장했던 이 시리즈 최초의 작품은 "「토」라고 말하면 가속하는 「[[이웃집 토토로]]」"였고, 본작의 혼돈이 크게 먹혀 시리즈화되었다. 여기서는 '토토로（トトロ）'라고만 말해도 2번이나 가속된다!
+
+이를 "불러 봐라"라는 태그로 도발하기도 한다. 또 그렇다고 그걸 '''진짜 부르는 사람'''이 나타나기도 한다.
+
+=== 작품 ===
+
+ * 「토」라고 말하면 가속하는 「[[이웃집 토토로|이웃집 ~~빼빼로~~ 토토로]]」 (재업)
+ - 처음에 삭제되었다는 내용이 나오지만 속임수이다.
+ [[nicovideo(sm9319112)]]
+
+ * [[치르노의 퍼펙트 산수교실|치르노의 퍼펙트 「바」로 가속하는 교실]]
+ {{{#!html
+<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/nm8597897" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/nm8597897">【ニコニコ動画】チルノのパーフェクト「ば」で加速する教室</a></iframe>
+}}}
+
+ * [[Let's go! 음양사|「우」라고 말하면 가속하는 「렛츠고 음양사」]]
+ {{{#!html
+<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/nm8604508" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/nm8604508">【ニコニコ動画】「う」って言ったら加速してしまう「レッツゴー！陰陽師」</a></iframe>
+}}}
+
+ * 「케」라고 말하면 가속하는 「케로⑨Destiny」 
+ {{{#!html
+<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm8652344" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm8652344">【ニコニコ動画】「ケ」って言ったら加速してしまう「ケロ⑨destiny」</a></iframe>
+}}}
+
+  * 「응(ん)」이라고 말하면 가속하는 「[남녀]」
+ {{{#!html
+<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm8588474" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm8588474">【ニコニコ動画】「ん」って言ったら加速してしまう「男女」</a></iframe>
+}}}
+
+  * 「위쟈우츄나이」, 「VENUS」라고 말하면 가속하는 「[[Wow Wow VENUS]]」 
+ {{{#!html
+<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm20408381" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm20408381">【ニコニコ動画】「ウィザウチュナイ」「VENUS」と言ったら加速してしまうWow Wow VENUS</a></iframe>
+}}}
+
+  * 「오코메」라고 말하면 가속하는 「[[오코메탈|お米の美味しい炊き方、そしてお米を食べることによるその効果。]]」
+ {{{#!html
+<iframe width="312" height="176" src="http://ext.nicovideo.jp/thumb/sm20743619" scrolling="no" style="border:solid 1px #CCC;" frameborder="0"><a href="http://www.nicovideo.jp/watch/sm20743619">【ニコニコ動画】「米」と言ったら加速してしまうお米タル</a></iframe>
+}}}

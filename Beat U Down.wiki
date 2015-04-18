@@ -1,0 +1,41 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+[[DJMAX Portable Black Square]] 오리지널 수록곡.
+
+|| 작곡 || [[makou]] ||
+|| BGA || [[KIMYS]], [[Z_B]] ||
+|| 장르 || [[wiki: "유로비트" Eurobeat]] ||
+|| BPM || 155 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/bFe4kRSbYWU?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX 시리즈]]에 꾸준히 작품을 투고하는 일본 작곡가 Makou의 유로비트. [[DJMAX Portable Black Square]]와 [[DJMAX Technika 2]]에 수록되었다.
+
+DJMAX 시리즈에선 희귀하다고 할만한 유로비트 장르로써 인기가 좋다. 특히 높은 BPM과 몰아치는 신스음 덕분에 난이도가 상당히 높은데, 4, 5, 6버튼의 MX 패턴은 모두 난이도가 14 이상이며, 특히 6B MX 패턴은 Black Square 최고 난이도 패턴이라고 할 수 있을 정도로 난해한 패턴. ~~하지만 [wiki:"Nightmare"이 분]의 아성에 미치지 못하는 건 이 곡도 마찬가지~~
+
+참고로 제목을 빗유다운이 아닌 '''비추다운'''이라 읽는 사람들이 더 많다.
+
+
+{{{#!HTML
+<iframe width="560" height="349" src="http://www.youtube.com/embed/lQtvFCAJYrQ" frameborder="0" allowfullscreen></iframe>
+}}}
+Pop Mixing 노말
+
+{{{#!HTML
+<iframe width="560" height="349" src="http://www.youtube.com/embed/04GTD2_FsO8" frameborder="0" allowfullscreen></iframe>
+}}}
+Pop Mixing 하드
+
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+|| Star || D || 2000MAX || 5 ||  ||||
+|| NM || B || 3000MAX || 6 || ||||
+|| HD || A || 7700MAX || 7 || [[Black & White Set]]의 상위 보스곡 ||||
+
+DJMAX Technika 2가 출시되면서 수록되었다. 정박 위주인 Star 패턴을 제외하고는 엇박 도배로 매우 변칙적이지만, Black Square의 패턴에 비하면 포스가 딸린다. ~~[wiki:"드라군 놀이" 하지만 MX가 출동하면 어떨까?]하지만 테크니카 3이 더이상 패치가 없고 펜타비전이 공중분해 됨으로써 MX가 등장할 일은 거의 없다고 보면 될듯. [[안습]]~~ 
+[[Black & White Set]]의 상위보스곡이지만 '''묻혀버린 세트라서 존재감이 없다.''' [[안습]].
+
+BGA는 전형적인 KIMYS와 Z_B의 스타일로 그려졌다. [[HEXAD]]와 [[Play the Future]]의 복붙이지만 특유의 속도감 덕분에 곡과 BGA의 매칭은 괜찮은편.[* 사실 HEXAD가 오히려 Beat U Down의 복붙이다. 해당 항목 참고]
+
+여담으로 Beat U Down이라는 건 '너를 때려부술꺼야' 정도의 뜻인데... 음...

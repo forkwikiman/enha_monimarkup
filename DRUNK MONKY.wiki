@@ -1,0 +1,58 @@
+[[목차]]
+
+== [[beatmania]] ==
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/nt-ZMEfFMo4?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nt-ZMEfFMo4?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+'''어나더 보면 플레이 영상.'''
+
+|||||||||||||||||||||||||| [[비트매니아]], [[비트매니아 III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 145  |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 5}}} || {{{#orange 319}}} || {{{#red 6}}} || {{{#red 409}}} || {{{#green 9}}} || {{{#green 681}}} || {{{#orange 5}}} || {{{#orange 407}}} || {{{#red 6}}} || {{{#red 445}}} || {{{#green 9}}} || {{{#green 678}}} ||
+
+ * [wiki:"비트매니아" 곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 4th MIX ~ completeMIX2, THE FINAL
+
+장르는 미니멀([[테크노]]). 미니멀이 그렇듯 기본적인 비트를 뼈대로 해서 최소한의 샘플링으로만 곡이 전개된다. 
+
+[[비트매니아]] 4th MIX 수록곡. 작곡가는 DJ ODDBALL 명의를 쓴 [wiki:"와타나베 히로시#s-1" QUADRA]이다. 제목은 얼핏 보면 술 취한 [[원숭이]]로 이해하기 쉬우나, MONK'''E'''Y가 아니라 '''MONKY'''다. 이를 두고 정확한 해석은 없지만, [[승려]]라는 뜻을 지닌 MONK와 MONKEY 사이의 중의적 의미를 노린 제목 지정이라는 해석이 있다. 곡 샘플링 중에서 --끼끼--하는 샘플링이 있고, 5th판 BGA에서는 대놓고 원숭이가 등장하는 컷이 있고 아래의 혈원(穴猿)이라는 별칭처럼 Monkey로 생각해도 되겠지만.
+
+노멀도 당시로서는 고난이도 축에 들어서 문제이지만, '''어나더 보면은 당시(1999년)로서는 상식을 초월한 끔찍한 난이도를 자랑'''했다.[* 같은 5건반 리듬게임인 [[EZ2DJ]]와 비교하면 순수 노트 난이도는 10~11쯤에 해당하는데, 이 시절 EZ2DJ는 이제서야 1st가 돌아가던 시절이었다. EZ2DJ에 난이도 10짜리 곡은 2년 후 발매된 3rd에 가서야 나왔다.] 그 최소한의 샘플링으로만 구성된 드럼비트, 각종 샘플음들을 모조리 [[키음]]으로 뽑아 쓴 ~~곡은 미니멀인데 난이도는 전혀 미니멀이 아닌~~ 어나더 채보는 작곡자인 QUADRA가 직접 작성했다고 한다. 이 어나더 채보는 혈원(穴猿)[* 穴(혈; あな)는 어나더의 일본어 발음 '아나자'('''アナ'''ザー)의 앞부분과 발음이 같다. 원(猿)은 그냥 [[원숭이|MONKY]].]이라 불린다. 
+
+그래도 미니멀 테크노라고 노트배치는 프레이즈마다 일정한 규칙성을 유지하고 있다.
+
+마지막작인 THE FINAL에서도 최고 레벨인 9로 책정된것도 모자라 9중에서도 중상급 난이도를 자랑하며, EXPERT+ 모드에서 9번째 스테이지로 등장한다. 그리고 [wiki:"IMPLANTATION" 이 곡을 넘기면 등장하는 곡]은…….
+
+=== 코멘트 ===
+||와타나베 히로시의 미니멀 테크노입니다. 사실은 좀 더 복잡하고 어려웠습니다. 도중에 리듬이 귀집히는 부분은 계산해서 만든 것이지요. 2ndMix를 떠올리신 분들도 많지 않으려나요. 잘 하실 수 있다면 두드리면 기분 좋은 곡입니다.
+||
+
+== [[beatmania IIDX]] ==
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/MLyB77QsS4M" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 145  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 7}}} || {{{#blue 524}}} || {{{#orange 10}}} || {{{#orange 833}}} || {{{#red '''12'''}}} || {{{#red 1177}}} || {{{#blue 6}}} || {{{#blue 593}}} || {{{#orange 9}}} || {{{#orange 862}}} || {{{#red 11}}} || {{{#red 1104}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 미수록
+ * 가정용판 수록 : 13 DistorteD
+
+[[비트매니아]] 10주년 기념 기획으로 비트매니아 곡들을 [[플레이스테이션2]]판 [[비트매니아 IIDX]]에 이식하였는데, 이 곡도 여기에 해당되어 이식되게 되었다[* 같이 이식되었던 곡은 Attack the music, wiki:"Super Highway", LIGHT MOTION, wiki:"321 STARS" , [[CALDERA]]]. 이 중 이 곡만이 유일하게 히든곡 취급 받아 스탠다드 모드에서 3스테이지 연속으로 비트매니아 이식곡을 선택해 엑스트라 스테이지로 진출하면 해금되었다.
+
+원판의 명성 못지 않게 이쪽도 상당히 어렵다. 노트수는 적은 편이지만 곡의 길이가 짧기 때문에(약 1분 20초 가량) 굉장히 높은 밀도의 채보이다. 더군다나 판정내기도 다른 곡에 비해 약간 어려운 편이다. 하이퍼부터 상당히 어려워지며, 어나더는 흰건반 축에 흑건이 끼어들어가는 동시치기, 계단음계 처리 등 빽빽한 밀도 등으로 비트매니아 보스곡의 위엄을 간직하고 있다. 여담으로 싱글어나더의 노트수는 [[one or eight]]의 싱글 어나더의 노트수와 같으며, 마지막 소절에는 123 - 567 동시치기라는 특이한 배치가 있기도 하다.
+단 DPA는 난이도 11, 비공식 기준으로는 11.4다.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/6lLv2203vkU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/6lLv2203vkU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+5keys 옵션을 걸고 플레이하면 비트매니아 시절의 채보가 나온다. 비트매니아 시절부터 즐겨온 올드 팬의 향수를 자극할만한 요소. 이 사양은 이 작품에 같이 수록된 비트매니아 출신 곡들과 이 작품 이후에 나온 CS IIDX 시리즈의 비트매니아 출신 곡들에게도 해당되는 바이다. [[RUGGED ASH]]같은 경우는 예외[* RUGGED ASH는 CS에 바로 이식된 것이 아니라 substream 시절에 아케이드를 거쳐서 이식된 곡이라는 차이점이 있다.].
+
+[[각주]]

@@ -1,0 +1,100 @@
+||<-2><#0064FF><:>'''GuitarFreaks V3 & DrumMania V3 Extra Rush''' ||
+||<#FFA500> EXTRA 1 || '''[[over there]]''' ||
+||<#FFA500> EXTRA 2 || '''[[Micro fin]]''' ||
+||<#FFA500> EXTRA 3 / ENCORE 1 || '''[[Purple storm]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 2 || '''[[αρχη]]''' ||
+||<#FFA500> EXTRA 5 / ENCORE 3 || '''[[ミラージュ・レジデンス]]''' ||
+||<#082567> {{{#white ENCORE 4}}} || '''MODEL FT2''' ||
+||<#FF0000> PREMIUM ENCORE || '''MODEL FT2 Miracle Version''' ||
+
+||<-2><#FF5050><:>'''{{{#yellow GuitarFreaks V4 & DrumMania V4 Rock×Rock Extra Rush}}}''' ||
+||<#FFA500> EXTRA 1 || '''MODEL FT2 Miracle Version''' ||
+||<#FFA500> EXTRA 2 || '''[[RЁVOLUTIΦN]]''' ||
+||<#FFA500> EXTRA 3 || '''[[Zigzag Life]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 1 || '''[[極東史記]]''' ||
+||<#FFA500> EXTRA 5 / ENCORE 2 || '''[[Slang]]''' ||
+||<#FFA500> EXTRA 6 / ENCORE 3 || '''[[PRIME LIGHT]]''' ||
+||<#082567> {{{#white ENCORE 4 / PREMIUM ENCORE 1}}} || '''[[MODEL DD 시리즈#s-8|MODEL DD8]]''' ||
+||<#FF0000> '''PREMIUM ENCORE 2''' || '''[[一網打尽]]''' ||
+
+[[목차]]
+
+== MODEL FT2 ==
+[[기타프릭스]]&[[드럼매니아]] V3의 앙코르 스테이지. 작곡은 [[이즈미 무츠히코]].
+
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube-nocookie.com/v/nQ0fb4pWOsw?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/nQ0fb4pWOsw?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>
+}}}
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [GITADORA] 난이도 체계 ||
+||<|5> 155 ||<|2> 기타 표준 || {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue NOV}}} || {{{#orange REG}}} || {{{#red EXP}}} || {{{#purple MAS}}} ||
+|| {{{#green 61}}} || {{{#orange 70}}} || {{{#red 85}}} ||<|2> {{{#blue 5.00}}} ||<|2> {{{#orange 5.90}}} ||<|2> {{{#red 7.70}}} ||<|2> {{{#purple 8.45}}} ||
+|| 기타 오픈픽 || {{{#green 63}}} || {{{#orange 72}}} || {{{#red 87}}} ||
+|| 기타 베이스 || {{{#green 58}}} || {{{#orange 61}}} || {{{#red 69}}} || {{{#blue 4.20}}} || {{{#orange 5.40}}} || {{{#red 6.95}}} || {{{#purple 7.80}}} ||
+|| 드럼매니아 || {{{#green 47}}} || {{{#orange 63}}} || {{{#red 86}}} || {{{#blue 5.80}}} || {{{#orange 6.80}}} || {{{#red 7.75}}} || {{{#purple 8.70}}} ||
+
+[[MODEL DD 시리즈]] 같은 컨셉으로 이즈미 무츠히코의 버젼 넘버링 곡이다. FT는 이전 버젼에 있었던 [[Fairy Tales]]의 약자다.
+
+경쾌하고 발랄한 리듬. 요정들이 날아다니는 메르헨틱한 BGA를 가진 곡. 그러나 그 옆에서는 노트의 소나기가 뿌려지고 있는 비범한 곡이기도 하다(...). 컨셉은 닥치고 연타계열.
+
+오리지널 버젼도 난이도가 상당한 편이지만 그럭저럭 할만한 곡이다. 기타드럼 모두 익스트림 난이도가 80대 중반으로 80대에서 90대로 넘어갈때 한번쯤 건드려보면 좋은 난이도. 이후 [[기타도라]]에서 후속곡으로 [[MODEL FT3]]가 등장했다.
+
+=== 곡 코멘트 ===
+||Fairy Tales의 속편이야!
+MODEL FT2라는 곡명이 붙어 있으니까, FT3도 있을까나~.
+그건, 나도 모르겠어.
+모두, 클리어를 목표로 힘내~!
+
+- 泉 陸奥彦||
+
+== MODEL FT2 Miracle Version ==
+{{{#!html
+<embed src="http://www.youtube.com/v/6MsFwgU22E8&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed>
+}}}
+{{{#!html
+<object width="425" height="349"><param name="movie" value="http://www.youtube-nocookie.com/v/pqSsOz69YDE?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/pqSsOz69YDE?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="349"></embed></object>
+}}}
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [GITADORA] 난이도 체계 ||
+||<|5> 155 ||<|2> 기타 표준 
+|| {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue NOV}}} || {{{#orange REG}}} || {{{#red EXP}}} || {{{#purple MAS}}} ||
+|| {{{#green -}}} || {{{#orange -}}} || {{{#red 97}}} ||<|2> {{{#blue 3.80}}} ||<|2> {{{#orange 5.20}}} ||<|2> {{{#red 8.30}}} ||<|2> {{{#purple 9.65}}} ||
+|| 기타 오픈픽 || {{{#green -}}} || {{{#orange -}}} || {{{#red 98}}} ||
+|| 기타 베이스 || {{{#green -}}} || {{{#orange -}}} || {{{#red 96}}} || {{{#blue 4.00}}} || {{{#orange 5.75}}} || {{{#red 7.85}}} || {{{#purple 9.80}}} ||
+|| 드럼매니아 || {{{#green -}}} || {{{#orange -}}} || {{{#red 98}}} || {{{#blue 4.55}}} || {{{#orange 6.90}}} || {{{#red 8.55}}} || {{{#purple 9.90}}} ||
+
+그러나 이 곡은 Miracle Version이라는 노트강화버젼이 존재하는데, V3 프리미엄 앙코르 스테이지 전용곡으로 등장하는 이 노트 강화버젼의 난이도가 심히 괴랄하다.
+
+드럼매니아의 미라클 버전은 플레이타임 1:39, 총노트 1314개로 단일 곡 숏버전 노트수 순위가 손가락 안에 꼽히는 (숏버전 노트수 1위는 노트수 1532개의 A.DOGMA) 말그대로 노트의 소나기를 볼수 있는 곡. 유저들에게 이 버젼은 두고두고 이즈미의 비마니 [[슈팅 게임]]화 라며 까이고 있다. 그도 그럴게 솔직히 노트 떨어지는 양이 드럼매니아가 아니라 [[비트매니아 IIDX]]라고 해도 믿을정도로 심하게 많다. 
+
+기타프릭스의 미라클 버전은 초기 시리즈 이후로 사라졌던 트윈기타 구성이다. 단 과거와는 달리 한쪽이 '''베이스''' 보면으로 플레이할시 표기는 베이스이나 두번째 기타를 연주한다.[* 물론 혼자서 베이스를 플레이해도 기타 파트가 나온다] 기타 익스 97, 베이스 익스 95임에도 불구하고 베이스가 더 어렵다는 소리가 많이 나온다. [[사기 난이도]]?
+
+사실 이즈미 무츠히코는 이 곡이 포스트 [[DAY DREAM]] 이 되기를 은근히 바랬었던 모양. 발매 전의 인터뷰를 보면 매우 큰 기대를 걸었었던 모양이다. 그러나 막상 발매되니 굇수급 플레이어들이 이 이즈미의 태도에 자극 받았는지 식음을 전폐하고 연습하여 [http://www.youtube.com/watch?v=63nkXagWR5M 해저드 + 풀콤보에 SS를 만들어냈다.] 덕분에 V4부터 최고 난이도 99에서 98로 하강.
+
+그렇다고 해도 절대 적당한 연습가지고는 클리어조차 버거운 곡. 대부분 사람들이 DAY DREAM 과 [[The Least 100sec]]다음으로 어려운곡으로 꼽고 있 '''었던''' 곡이다. V5,V6에서 [[A.DOGMA]]와 [[Rock to Infinity]], [[Sonne]]가 나오기 전까지는.. [* V6버젼 난이도 표기 기준으로 5th ~ V4 버젼까지 해당 버전에서 난이도 99의 곡은 몇 곡 있었으나, 99레벨에는 걸맞지 않게 쉬운 난이도 (5th의 [[아이들의 낙서장]], 6th의 [[Concertino in Blue]], 10th의 [[오니히메]])로 인해 모두 그 다음 버젼에서 바로 격하되었다.)  그러나 V5에서 99레벨 곡이 두 곡, V6에서 한 곡이 나와버렸고 그 세 곡은 모두 레벨 99에 걸맞는 난이도로 평가되고 있기 때문에..)]
+
+GITADORA에서는 드럼 마스터 패턴이 '''9.90'''이라는 정신나간 난이도로 책정되며 드럼매니아 양대 보스곡인 [The Least 100sec]와 [Rock to Infinity]다음가는 난이도를 자랑하며, 드럼 마스터에 묻히긴 했지만 '''9.80'''의 기타 베이스 마스터 패턴은 기타도라 전체 베이스 패턴의 '''[최종보스]'''.
+
+곡자체는 상당히 좋은 편에 속하기도 하고 BGA도 요정들이 날아다니며 귀엽고 화사한 분위기이다 보니 니코동에서 자주 2차창작에 쓸정도로 드럼 / 기타 오리지날곡중에는 오덕계열쪽에서 상당한 지지를 얻는 곡이기도 하다.
+
+오리지널과 미라클 버젼은 BGA와 곡이 조금 다르다. 미라클버젼이 더 화려하며, [[Fairy Tales]]에 나오는 요정도 등장한다.
+
+XG 시리즈에서는 MODEL FT2의 MSTR 보면으로 통합되었는가 싶더니, XG3에서 해금곡으로 등장. EXT의 흉악함은 MSTR로 옮겨가고, NOV, REG, EXP 보면이 추가되었다. NOV는 원본 FT2보다 쉬운 보면.
+
+{{{#!html
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/AvPhSnH6DBE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/AvPhSnH6DBE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+여담으로 전작인 [[Fairy Tales]]와 이어지는 라이브 연주를 한 적이 있는데, 두번째 기타에 [[96]]이 참여했고, 드럼은 일본 최고의 세션 드러머 스가누마 코조가 담당하였다.스가누마 코조는 이 곡을 이때 처음 연주한 것인데 도저히 처음 연주했다고 믿겨지지 않을 졍도. 
+
+=== 곡 코멘트 ===
+||모두. 미안해.
+이 곡은, 초초초~~~~~~어려워--!!!
+이 곡이 클리어된다면 진짜로 기적이야!
+그리고, 기타는, 트윈 기타를 즐길 수 있는 스페셜 버전으로 되어 있어.
+죽음을 두려워하지 않는 도전자들이여. 분투를 빈다.
+
+- 泉 陸奥彦||
+
+[[각주]]

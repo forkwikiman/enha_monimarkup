@@ -1,0 +1,51 @@
+ * 이 항목은 '월오사'로도 들어올 수 있다.
+
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡자는 Ryuwitty, 보컬은 Kuroa*. 전자음과 피아노 속주, 여성 보컬이 빠르면서도 몽환적인 분위기를 자아내는 곡이다. 
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/ADSlN3qMjHw?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ADSlN3qMjHw?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[사운드 볼텍스 플로어]] '사운드 볼텍스 × DTM 매거진 콜라보레이션 컨테스트'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/27/s187_jk_001_0166_1.jpg?width=150|| http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/27/s187_jk_001_0166_2.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/27/s187_jk_001_0166_3.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 11}}} || {{{#ff009f '''15'''}}} ||
+|| 체인 수 || {{{#purple 0405}}} || {{{#orange 0934}}} || {{{#ff009f 1537}}} ||
+|| 일러스트 담당 || {{{#purple square_head}}} || {{{#orange square_head}}} || {{{#ff009f square_head}}} ||
+|| 이펙터 || {{{#purple TEK-A-RHYTHM}}} || {{{#orange TEK-A-RHYTHM}}} || {{{#ff009f TEK-A-RHYTHM}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 27(2013.4.4)}}} ||
+|| [[BPM]] |||||| 210 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 09(2013.10.31 ~ 2013.12.6, 2014.4.4 ~ 2014.5.1)
+
+||<#EEEEEE>
+'''■ 작곡자 코멘트'''
+Ryuwitty라고합니다. 
+이번 곡을 채택해 주셔서 감사합니다. 
+채용 통지가 왔을 때 정말 놀라워 순간 정신을 놓고 격하게 기뻐했습니다. 멜로디는 캐치를 의식했지만 무모하게도 잘 못하는 영어로 쓴 노래를 어떤 가수분이 노래해 주실지 매우 기다려집니다. 피아노 협주곡 : The world of sound를 즐겨 플레이 해 주실 수 있으면 다행입니다. 잘 부탁합니다!
+
+'''■ 보컬리스트 코멘트'''
+[[Life is Beautiful|두 번째]]로 뵙겠습니다! Kuroa*입니다. "The world of sound'불렀습니다. 부유감이 있어 몹시 궁금해하고 깨끗한 곡으로 처음 데모를 들려 준 때에는 무심결에 "와우 ! 대단하네요!"라고 정말 어휘가 부족한 코멘트를 해 버렸습니다. 그리고 이 곡은 전체 영어 가사로, 평상시 별로 영어 가사를 노래하지 않기 때문에 매우 두근두근하고 있습니다. 영어 씨와는 사이 좋게하지 말라,라고 재차 생각했습니다. 이 곡은 효과가 멋있게 정해지면 상당한 기분 이겠지. 지금부터 저도 플레이 할 수 있는 것을 기대하고 있습니다! 그럼, 게임 센터에서 만납시다!
+
+-당선자 코멘트-
+||
+
+자켓이미지는 [[수정#s-3|수정]]을 나타낸다.
+
+{{{#!HTML
+<object width="450" height="600"><param name="movie" value="http://www.youtube.com/v/OupecI1s1i4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OupecI1s1i4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="450" height="600" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 PUC 영상
+
+사운드 볼텍스 부스 최후의 15레벨 곡이자, 15레벨 내에서는 최초의 보컬곡. 부스 시절에는 [[Ganymede|삼]][[Max Burning!!|대]][[金縛りの逢を|장]] 바로 아래의 위치였고 현재는 15레벨 평균 정도의 난이도이다. 중반에는 노브가 이리저리 서다 멈췄다를 반복하면서 정신없이 움직이는데 여기에 FX와 버튼의 조합이 상당해서 현재에 비해 전체적인 난이도가 낮았던 부스 시절에는 포스가 굉장했다. 후반에는 왼쪽 노브를 잡고 8비트 간격으로 DCBABCDC 이런 식으로 빠르게 쳐내는 패턴이 있는데 이 부분 역시 어지간한 원핸드 실력으로는 제대로 다 쳐내기도 힘들다. 그런데 설상가상으로 이 직후에 BPM 210의 속도로 16비트 트릴을 무려 '''네 마디'''나 쳐야 하는 구간이 존재한다. 원핸드를 넘겨도 이 트릴 구간 때문에 클리어에도, 스코어링에도 개인차가 발생하기 때문에 트릴을 못 치는 사람에게는 죽을 맛.[* 이 곡이나 대우주 스테이지처럼 단순한 패턴이 오랫동안 빠르게 반복하여 나온다면 제대로 된 박자를 몸으로 체감하기 전까지는 보통 제대로 치기가 어렵다.]
+
+5회차 [[스킬 애널라이저]] 투표에 판정에서 극을 달리는 [[Joyeuse]]와 함께 9단 투표 명단에 있어서 모두를 경악하게 하였고, 실제로 마지막 스테이지에 할당되어 버렸다. 모두의 반응은 [무슨 지거리야]. 대우주에 비해서 이곡의 건반노트 난이도 는 전체적으로도 9단 치고는 역겨울 수준으로 어려운데다 대우주 폭타 속도를 상회하는 트릴 후살을 갖고 있기때문에... 그후 실질적으로 Joyeuse와 함께 9단 난이도의 [[마지노선]]을 담당하는 곡이 되었다. 9단 후보곡들의 난이도는 보통 이 두곡과 비슷하거나 쉬운 15레벨들로 구성. 다만 이 두곡들은 이따금씩 9단과 10단 후보에 모두 올라가있을때도 있다(...). 시간이 지나고 Joyeuse는 10단으로 넘어가 버렸다.

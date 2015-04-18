@@ -1,0 +1,23 @@
+ * 상위 항목 : [[소니 엑스페리아]]
+|| http://cdn2.gsmarena.com/vv/pics/sony/sony-xperia-l-01.jpg?width=300 ||
+|| [http://www.sonymobile.com/global-en/products/phones/xperia-l/ 소니 모바일 XPERIA L 공식 사이트] ||
+
+[[목차]]
+
+== 개요 ==
+[[소니 모바일]]이 2013년 5월에 출시한 [[안드로이드]] [[스마트폰]].
+
+== 사양 ==
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Plus MSM8230 [[SoC]]. [[Qualcomm Krait]] MP2 1 GHz [[CPU]], 퀄컴 Adreno 305 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 8 GB 내장 메모리, micro SDHC (최대 32GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 TFT-LCD (228 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11 b/g/n, [[블루투스]] 4.0, [[NFC]] ||
+||[[카메라]]||전면 30만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1750 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/역대 버전 일람"안드로이드]] 4.2 (Jelly Bean)[[br]][[소니 레이첼]]||
+||규격||128.7 x 65 x 9.7 mm, 137 g ||
+||기타||[[FM]] [[라디오]] 지원 ||
+
+== 상세 ==
+[[소니]] [[엑스페리아 Z]]의 저가형 모델이다. 
+디자인은 엑스페리아 Z를 원형으로 하고 있지만 뒷판이 곡면을 그리고 있다. 색상은 검정, 흰색, 빨간색으로 구성되어있다.

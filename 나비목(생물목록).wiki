@@ -1,0 +1,280 @@
+ * 상위문서: [[곤충강(생물목록)]]
+ * 일반적인 내용은 [[나비]], [[나방]]으로.
+
+[[목차]]
+
+나비목(나비目, Lepidoptera)은 날개에 [[인분]](鱗粉)이 덮혀있고, 커다란 날개 두 쌍과 가느다란 입이 있는, 완전변태곤충이다.
+
+= 원시나방아목(Zeugloptera) =
+== 원시나방상과(Micropterigoidea) ==
+=== 원시나방과(Micropterigidae) ===
+
+= 아가티파가아목(Aglossata) =
+== 아가티파가상과(Agathiphagoidea) ==
+=== 아가티파가과(Agathiphagidae) ===
+==== 아가티파가속(Agathiphaga) ====
+ * ''A. queenslandensis''
+ * ''A. vitiensis''
+
+= 헤테로바트미아아목(Heterobathmiina) =
+== 헤테로바트미아상과(Heterobathmioidea) ==
+=== 헤테로바트미아과(Heterobathmiidae) ===
+==== 헤테로바트미아속(Heterobathmia) ====
+ * ''H. diffusa''
+ * ''H. pseuderiocrania''
+ * ''H. valvifer''
+
+= 선훼아목(Glossata) =
+== 아칸톱테록테테스하목(Acanthoctesia) ==
+=== 아칸톱테록테테스상과(Acanthopteroctetoidea) ===
+==== 아칸톱테록테테스과(Acanthopteroctetidae) ====
+ * 아칸톱테록테테스속 (Acanthopteroctetes) Braun, 1921
+  * ''A. aurulenta''
+  * ''A. bimaculata''
+  * ''A. tripunctata''
+  * ''A. unifascia''
+ * Catapterix
+  * ''C. crimaea ''
+
+== 선조나방하목(Dacnonypha) ==
+=== 좀날개나방상과(Eriocranioidea) ===
+==== 좀날개나방과(Eriocraniidae) ====
+ * Dyseriocrania
+ * Eriocrania
+ * Eriocraniella
+ * Heringocrania
+ * Issikiocrania
+ * Neocrania
+ * Paracrania
+ * † Eriocranites 
+
+== 로포코로나하목(Lophocoronina) ==
+=== 로포코로나상과(Lophocoronoidea) ===
+==== 로포코로나과(Lophocoronidae) ====
+ * 로포코로나속(Lophocorona)
+  * ''L. astiptica''
+  * ''L. commoni''
+  * ''L. flavicosta''
+  * ''L. melanora''
+  * ''L. pediasia''
+  * ''L. robinsoni''
+
+== 네옵세우스티스하목(Neopseustina) ==
+=== 네옵세우스티스상과(Neopseustoidea) ===
+==== 네옵세우스티스과(Acanthopteroctetidae) ====
+ * 아폽플라니아속(Apoplania)
+ * 네마토켄트롭푸스속(Nematocentropus)
+ * 네옵세우스티스속(Neopseustis)
+ * 시넴포라속(Synempora)
+
+== 박쥐나방하목(Exoporia) ==
+=== 박쥐나방상과(Hepialoidea) ===
+==== 박쥐나방과(Hepialidae) ====
+==== Anomosetidae ====
+==== Neotheoridae ====
+==== Prototheoridae ====
+==== Palaeosetidae ====
+
+=== 므네사르카이아상과(Mnesarchaeoidea) ===
+==== 므네사르카이아과(Mnesarchaeidae) ====
+ * 므네사르카이아속(Mnesarchaea)
+  * ''M. acuta''
+  * ''M. fallax''
+  * ''M. fusca''
+  * ''M. fusilella''
+  * ''M. loxoscia''
+  * ''M. hamadelpha''
+  * ''M. paracosma''
+
+== 이맥하목(Heteroneura) ==
+=== 단문류(Monotrysia) ===
+==== 곡나방상과 (Incurvarioidea) ====
+ * 곡나방과(Incurvariidae)
+ * 긴수염나방과(Adelidae)
+ * 유카나방과(Prodoxidae)
+
+==== 꼬마굴나방상과(Nepticuloidea) ====
+ * 꼬마굴나방과(Nepticulidae)
+ * 흰꼬마굴나방과(Opostegidae)
+
+==== 안데스나방상과(Andesianoidea) ====
+ * 안데스나방과(Andesianidae)
+  * 안데스나방속(Andesiana)
+   * ''A. lamellata''
+   * ''A. brunnea''
+   * ''A. similis''
+
+==== 어리굴나방상과(Tischerioidea) ====
+ * 어리굴나방과(Tischeriidae)
+  * 어리굴나방속(Tischeria)
+  * Coptotriche
+  * Astrotischeria
+
+==== 팔라이파투스상과(Palaephatoidea) ====
+ * 팔라이파투스과(Palaephatidae)
+  * 팔라이파투스속(Palaephatus)
+  * Apophatus
+  * Azaleodes
+  * Metaphatus
+  * Plesiophatus
+  * Ptyssoptera
+  * Sesommata
+
+=== 이문류(Ditrysia) ===
+==== 가는나방상과(Gracillarioidea) ====
+ * 가는나방과(Gracillariidae)
+ * 빛날개좀나방과(Roeslerstammiidae)
+ * 선굴나방과(Bucculatricidae)
+
+==== 곡식좀나방상과(Tineoidea) ====
+ * 곡식좀나방과(Tineidae)
+ * 주머니나방과(Psychidae)
+
+==== 뿔나방상과(Gelechioidea) ====
+ * 뿔나방과 (Gelechiidae)
+  * [[뿔나방]]
+ * 뿔나방붙이과 Lecithoceridae)
+ * 먹점뿔나방과(Ethmiidae)
+ * 밑두리뿔나방과(Blastobasidae)
+ * 원뿔나방과(Oecophoridae)
+ * 창날개뿔나방과(Cosmopterigidae)
+ * 통나방과(Coleophoridae)
+ * 판날개뿔나방과(Xyloryctidae)
+ * 풀굴나방과(Elachistidae)
+
+==== 시마이티스티스상과(Simaethistoidea) ====
+ * 시마이티스티스과(Simaethistidae)
+  * 시마이티스티스속(Simaethistis)
+   * ''S. leechi''
+   * ''S. tricolor ''
+  * 메타프로투스속(Metaprotus)
+   * ''M. asuridia''
+   * ''M. magnifica''
+
+==== 집나방상과(Yponomeutoidea) ====
+ * 집나방과(Yponomeutidae)
+  * [[집나방]]
+  * [[큰좀나방]]
+ * 그림날개나방과(Glyphipterigidae)
+ * 굴나방과(Lyonetiidae)
+ * 좀나방과(Plutellidae)
+  * 선무점나방
+ * 파좀나방과(Acrolepiidae)
+
+==== 난이문류(Apoditrysia) ====
+ * 갈락티카상과(Galacticoidea)
+ * 알락나방상과(Zygaenoidea)
+ * 굴벌레나방상과(Cossoidea)
+ * 유리나방상과(Sesioidea)
+ * 뭉뚝날개나방상과(Choreutoida)
+ * 잎말이나방상과(Tortricoidea)
+  * 잎말이나방과
+   * [[잎말이나방]]
+ * 우로두스상과(Urodoidea)
+ * 스크렉켄스테이니아상과(Schreckensteinioidea)
+ * 미나리좀나방상과(Epermenioidea)
+ * 깃털나방상과(Alucitoidea)
+ * 털날개나방상과(Pterophoroidea)
+ * 옵텍토메라류(Obtectomera)
+  * 왈레이아나상과(Whalleyanoidea)
+  * 임마상과(Immoidea)
+  * 코프로모르파상과(Copromorphoidea)
+  * 팔랑나비붙이상과(Hyblaeoidea)
+  * 명나방상과(Pyraloidea)
+   * 명나방과
+    * [명나방]
+    * [[화랑곡나방]]
+    * [꿀벌부채명나방]
+   * 포충나방과
+    * [[이화명나방]] - [[이화명충]]
+  * 창나방상과(Thyridoidea)
+  * 대시류(Macrolepidoptera)
+   * 미말로상과(Mimallonoidea)
+   * 솔나방상과(Lasiocampoidea)
+    * 솔나방과
+    * [[별나방]]
+    * [[솔나방]]
+    * [[섭나방]]
+   * 누에나방상과(Bombycoidea)
+    * 누에나방과
+     * [[누에나방]]
+    * 산누에나방과
+     * [[산누에나방]]
+     * [[아틀라스나방]]
+     * [Actias Artemis|옥색긴꼬리산누에나방]
+    * 박각시과
+     * [[박각시]]
+     * [[쥐박각시]]
+   * 밤나방상과(Noctuoidea)
+    * 밤나방과
+     * [[밤나방]]
+     * [노랑뒷날개밤나방]
+     * [[담배나방]]
+     * [[버짐나방]]
+    * 불나방과
+     * [[불나방]]
+     * [[미국흰불나방]]
+    * 독나방과
+     * [독나방]
+    * 혹나방과
+     * [[혹나방]]
+   * 갈고리나방상과(Drepanoidea)
+   * 자나방상과(Geometroidea)
+    * 자나방과
+    * 제비나방과
+     * [[제비나방]]
+   * 황금나방상과(Cimelioidea)
+   * 뿔나비나방상과(Calliduloidea)
+   * 나비류(Rhopalocera)
+    * 미국나방나비상과(Hedyloidea)
+     * 미국나방나비과(Hedyloidea)
+      * 미국나방나비속(Macrosoma)
+    * 팔랑나비상과(Hesperioidea)
+     * 팔랑나비과
+      * [[팔랑나비]]
+    * 호랑나비상과(Papilionoidea)
+     * 호랑나비과
+      * [[호랑나비]]
+      * [[모시나비]]
+      * 붉은점모시나비
+      * [[제비나비]][* 국내에 서식하는 나비 중 가장 큰 종류. 얼마나 크냐면 다른나비들 날개짓하느라 바쁜데 이넘은 퍼얼럭 퍼얼럭 거리면서 날아다닌다. 심지어 날개짓안하고 활강까지할정도;]
+     * 왕나비과
+      * [[왕나비]]
+     * [[부전나비과]]
+      * [[부전나비]]
+     * 흰나비과
+      * [[갈고리나비]]
+      * [[기생나비]]
+      * [[노랑나비]]
+      * [[눈나비]]
+      * [[배추흰나비]]
+      * [[상제나비]]
+      * [[큰줄흰나비]]
+     * 네발나비과
+      * 뿔나비아과
+       * [[뿔나비]]
+      * 오색나비아과
+       * 오색나비속
+        * [[오색나비]]
+       * 대왕나비속
+        * [[대왕나비]]
+      * 돌담무늬나비아과(Cyrestinae)
+      * 왕나비아과(Danainae)
+      * 표범나비아과(Heliconiinae)
+       * [[표범나비]]
+      * 줄나비아과(Limenitidinae)
+       * [[줄나비]]
+      * 네발나비아과(Nymphalinae)
+       * [[네발나비]]
+       * [[공작나비]]
+       * [[청띠신선나비]]
+      * 뱀눈나비아과(Satyrinae)
+       * [[굴뚝나비]]
+       * [[먹나비]]
+       * [[물결나비]]
+       * [[부처나비]]
+       * 도시처녀나비
+       * 시골처녀나비
+       * 봄처녀나비[* 네발나비과 뱀눈나비아과에 속한다. 처녀나비속 모두 [[석주명]]선생이 붙인 이름이다.]
+      * 모르포나비아과
+       * [모르포나비]

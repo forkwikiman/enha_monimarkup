@@ -1,0 +1,15 @@
+[[include(틀:폐선)]]
+
+||||||||||<tablewidth=100%> [[안성선]] ||<|2>'''개업일''' : 1927년 4월 16일[[br]]'''폐지일''' : 1944년 12월 1일 ||
+||<width=88px> [wiki:"천안역" 천　안] 방면[[br]][wiki:"죽산역" 죽　산] 1.0km || {{{+1 ← }}} ||<width=60px> 죽산읍내 || {{{+1 → }}} ||<width=88px> [장호원역|장호원] 방면[[br]][매산역|매　산] 3.2km ||
+
+{{{+1 竹山邑內驛 / Chuksanupnae Station}}}
+
+||{{{#!html
+<a href="http://map.daum.net/?urlX=594141&urlY=993345&urlLevel=3&map_type=TYPE_MAP&map_hybrid=false&SHOWMARK=true" target="_blank"><span style="background:#000;position:absolute;width:557px;opacity:.7;filter:alpha(opacity=70);color:#fff;overflow:hidden;font:12px/1.5 Dotum, '돋움', sans-serif;text-decoration:none;padding:7px 0px 0px 10px; height: 24px;">지도를 클릭하시면 위치정보를 확인하실 수 있습니다.</span><img width="565" height="308" src="http://map2.daum.net/map/mapservice?MX=594141&MY=993345&SCALE=2.5&IW=565&IH=308&COORDSTM=WCONGNAMUL" style="border:1px solid #ccc"></a>
+}}}||
+죽산읍내역의 대략적인 위치.
+
+[경기도] [안성시] 죽산면 죽산리에 위치했던 안성선의 역.  1936년 당시 1일 4왕복의 열차가 정차했다고 하며, 무인역이였다고 한다. 위에서 보다시피 죽산역보다 죽산터미널이나 시가지가 훨씬 가깝끼 때문에 생긴 역인 듯 싶다.
+
+다른역들과 마찬가지로, [1927년] [4월 16일]에 [안성역]~[장호원역] 구간이 추가 개통되면서 신설된 역이였으나, [일제]가 [태평양 전쟁]을 한답시고 철길이고 역이고 다 뜯어가서(...) [1944년]에 폐역되었다. --과연 일제--

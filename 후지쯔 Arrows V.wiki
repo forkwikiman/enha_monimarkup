@@ -1,0 +1,25 @@
+|| attachment:fujitsu_arrows_v_f-04ewhi.jpg ||  attachment:fujitsu_arrows_v_f-04ebla.jpg || attachment:fujitsu_arrows_v_f-04emag.jpg ||
+|| 화이트 || 블랙 || 마젠타 ||
+|||||| [http://www.nttdocomo.co.jp/support/utilization/product/f04e/spec.html NTT 도코모 ARROWS V F-04E 공식 홈페이지] ||
+
+[[목차]]
+
+== 개요 ==
+후지쯔가 2012년 11월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+== 사양 ==
+||[wiki:"SoC" 프로세서]||[[nVIDIA Tegra]] 3 T33 [[SoC]]. [[ARM Cortex-A9]] MP4 1.5 GHz [[CPU]], ULP Geforce 520 MHz [[GPU]] ||
+||[[메모리]]||2 GB LPDDR2 SDRAM, 64 GB 내장 메모리, micro SDXC (최대 64 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.7인치 [wiki:"해상도/일람" HD](1280 x 720) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, [wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11a/b/g/n, [[블루투스]] 4.0, [[NFC]] ||
+||[[카메라]]||전면 130만 화소, 후면 1,300만 화소 [[AF]] 및 [[LED]] [[플래시]] ||
+||[[배터리]]||Li-lon 2420 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich)[[br]][[NTT 도코모 팔레트 UI]] ||
+||규격||65 x 129 x 10.9 mm, 155 g ||
+||기타||[[원세그]] TV 및 NOTTV 지원. ||
+
+
+== 상세 ==
+후지쯔가 일본 [[NTT 도코모]]에 단독 공급한 모델이다. 이 모델을 출시하면서 후지쯔는 '일본 스마트폰 브랜드가 변화에 대응하지 못했던 것은 사실이지만 이제는 충분히 기술을 갖췄다'며 '인간 중심의 기술로 삼성전자와 애플에 밀리지 않을 자신이 있다'고 밝혔지만.....남들 [[퀄컴 스냅드래곤]] S4 Pro 사용할 때 '''[[nVIDIA Tegra]] 3 T33'''을 사용했다. ~~이 무슨~~
+
+사용자 연령에 맞춰 화면 색감을 보정하고 디스플레이 상단의 손가락이 닿지 않는 부분도 좌표를 입력, 터치하는 기능이 타 제품과 차별화된 기능이라고 한다.

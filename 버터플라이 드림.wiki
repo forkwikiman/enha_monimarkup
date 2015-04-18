@@ -1,0 +1,8 @@
+{{{#!html 
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer25611' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=4DF8EA78471C226552F9C2262953FCCA04AD&outKey=V12613d060009b74dc6e3343b1734c0a7d68af7e4200968e64a6a343b1734c0a7d68a' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=4DF8EA78471C226552F9C2262953FCCA04AD&outKey=V12613d060009b74dc6e3343b1734c0a7d68af7e4200968e64a6a343b1734c0a7d68a' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer25611' id='NFPlayer25611' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+[[이나즈마 일레븐]]의 슛 계통 필살기.
+
+오사카 CCC의 멤버들이 주로 사용한다. 두 선수가 서로 손을 잡은뒤 점프하여 킥을 날리는 합체기술. 슛을 날릴때 이름처럼 나비가 나타나는 연출이 나온다.
+애니상에서는 [우라베 리카]와 [자이젠 토코]가 함께 사용했었으며, 입실론과의 경기 당시 리카가 [이치노세 카즈야]에게 러브러브 필살기로 이 기술을 사용하자 제안하고 이치노세가 ~~키도와 도몬의 반쯤 놀림조의 요청에 어쩔수 없이~~ 사용하려 했으나 실패한다. 그런데 사실, 게임상에서 합체기는 [이나즈마 브레이크]같은 일부 기술을 빼놓고는 상대방을 설정가능하기 때문에 버터플라이 드림을 함께 사용할 파트너로 이치노세를 설정하면 애니에서 실현되지 못한 두 사람의 ~~러브러브~~ 합체기를 실현이 가능하다.

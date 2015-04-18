@@ -1,0 +1,15 @@
+東方総選挙 ~ Clean Saint's Election
+
+ * [[동방프로젝트/2차 창작물]]
+
+{{{#!html
+ <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/j8mQ6Wozlo0?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/j8mQ6Wozlo0?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+[[GO! GO! 선거]]에 나오는 음악을 [[동방프로젝트]]풍으로 어레인지한 곡. [[2011년]] 1~2월에 GO!GO!선거 소재가 [[니코니코 동화]]에서 유행할 때 만들어졌다. [[동방양봉장]]에서 그랬던 것처럼, 순수 프로그래밍 슈팅 게임과 [[동방탄막풍]] 사용 슈팅 게임으로도 만들어졌다.
+
+{{{#!html
+ <object width="480" height="385"><param name="movie" value=http://www.youtube.com/v/zSbPtlboJX0?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/zSbPtlboJX0?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+참고로 GO!GO!선거(위 동영상)는 [[일본]]에서 [[성인식]]을 치른 사람들에게 [[선거]] 참여를 장려하기 위해 배포하고 있는 [[DVD]]이다. [[국내도입이 시급합니다]]?

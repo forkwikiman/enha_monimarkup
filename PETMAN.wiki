@@ -1,0 +1,14 @@
+미국의 Boston Dynamics에서 제작한 이족보행 로봇.
+
+일단 잔말은 제쳐두고 아래 비디오를 보자:
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/mclbVTIYG8E" frameborder="0" allowfullscreen></iframe>
+}}}
+--니들은 영화도 안보니?--
+
+당연하게도(?) [[미군]]의 적극적인 후원을 받고 개발되고 있다. 유명한 4족보행 병기인 [[BigDog]]도 Boston Dynamics 에서 개발한 물건.
+
+의외로 인형병기로서 개발되는 것이 아니라 군용 장비 테스트용으로 쓰기위해 만든 물건이라고 한다.
+
+위의 비디오를 보고 [[아시모]]를 '따위'라고 붙여불려야 하게만드는 [[충공그깽]]한 성능덕에 [[일본]]에서 경악하는중.

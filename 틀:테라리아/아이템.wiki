@@ -1,0 +1,6 @@
+||||||||||||||||||||||||||||<#D5D5D5><tablealign=center><:>'''[[테라리아]]{{{#black 의 하위 항목}}}'''||
+||||||||||||||||||||||||||||<:>[[테라리아/NPC|NPC]] | [[테라리아/지형|지형]] | [[테라리아/몬스터|몬스터]] | [[테라리아/보스|보스]] | [[테라리아/이벤트|이벤트]]||
+||<:>attachment:/32px_Iron_Helmet.png||<:>attachment:/32px_Iron_Pickaxe.png||<:>attachment:/32px_Iron_Broadsword.png||<:>attachment:/32px_Lesser_Healing_Potion.png||<:>attachment:/32px_Furnace.png||<:>attachment:/32px_Stone_Block.png||<:>attachment:/32px_Gold_Bar.png||
+||<:>[[테라리아/장비|장비]]||<:>[[테라리아/도구|도구]]||<:>[[테라리아/무기|무기]]||<:>[[테라리아/소모품|소모품]]||<:>[[테라리아/기구|기구]]||<:>[[테라리아/블록|블록]]||<:>[[테라리아/재료|재료]]||
+|||||||||||||||||||||||||||| * 하드모드 전용 콘텐츠는 {{{#red ⓗ}}}로 표시한다.
+ * 아이템에 붙는 [[테라리아/접두사|접두사]]는 해당 항목 참조.||

@@ -1,0 +1,28 @@
+[[목차]]
+== [[전압]](電壓) ==
+
+영어로 전압을 나타내는 단어. 전압의 단위인 볼트(V)는 여기서 따온 것이다. 자세한 내용은 항목참조.
+
+== [[비트매니아 IIDX]] 4th Style의 수록곡 ==
+ '''Voltage (feat. Hidemaru)'''
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/YvrqbJFdG_A?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/YvrqbJFdG_A?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 30 - 125 || {{{#blue 5}}} || {{{#blue 480}}} || {{{#orange 7}}} || {{{#orange 630}}} || {{{#red 8}}} || {{{#red 670}}} || {{{#blue 5}}} || {{{#blue 480}}} || {{{#orange 11}}} || {{{#orange 964}}} || {{{#red 없음}}} || {{{#red 없음}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 4th ~
+ * 가정용판 수록 : 4th, 7th, 8th, 비트매니아 US
+[[Electro Tuned]] - [[Schlagwerk]]에 이은 [[TaQ]]의 세번째 빅비트 [[장르]] 악곡. 부제의 Hidemaru는 이 곡에서 [[드럼]]연주를 담당한 드러머의 이름인데, 이 사람의 드럼연주를 베이스로 만들어진 곡이 바로 이 곡이다. TaQ 곡의 특징인 둔탁한 드럼비트의 느낌을 이 곡에서도 충분히 느낄 수 있다.
+
+이 곡을 플레이할 때에는 노트 배치보다 초·중반의 [[변속]]을 주의할 필요가 있다. 곡이 진행되다가 갑자기 [[BPM]]이 30으로 잠깐 감소했다 다시 원 BPM으로 돌아오는 패턴이 여섯 번 반복된다. 마치 [[댄스 댄스 레볼루션]]이나 [[펌프 잇 업]]의 몇몇 고난이도 곡의 '''[[변속]][[낚시]]'''패턴과 같은 양상. IIDX에서 이런 패턴의 변속을 처음 드러낸 곡이기도 하다[* 변속의 대명사인 wiki:"SOFT LANDING ON THE BODY" 는 몇 소절에 걸쳐 변속된 BPM이 지속되지만, 이런 연출은 한 패턴이 한 소절 안에 나타난다]. 하지만 초반의 낚시만 조심한다면 후반의 노트밀도가 약간 높아지는 것은 그다지 무리가 가지 않을 정도.
+
+[[nicovideo(sm21813249)]]
+더블 어나더는 없는데, 그 대신 더블 하이퍼가 그당시 웬만한 곡의 더블 어나더보다 더 높은 난이도를 자랑한다. 잦은 끊어치기 연타와 계단음계, 그리고 무리 스크래치가 주의를 기울여야 할 점이다.
+
+[[BGA]]는 [[범용 BGA]]에 [[GOLI]]가 그린 강렬한 그림체의 일러스트 레이어가 덧댄 형태인데, 9th Style에서 삭제되어 현재는 범용BGA만 남았다.
+
+TaQ의 라이브 공연 앨범인 bounce connected에 수록되기도 했다.
+[[각주]]

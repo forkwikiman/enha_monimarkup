@@ -1,0 +1,67 @@
+ * 애니메이션 제작사를 찾은 위키러들은 [feel.] 항목으로
+
+[[목차]]
+== 개요 ==
+{{{#!html
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/vp8mJYJYOIs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+트릴로지에서 추가된 BGA
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || Acid Pop ||
+|| 작곡 || DJ Mocha ||
+|| 보컬 || Yujin ||
+|| BPM || 124 ||
+|| BGA || KEIrare ||
+
+[[DJMAX 온라인]]에 추가되었던 곡. 유료곡이었기 때문에 묻힌감이 없잖아 있는 곡이다.  [[Fallen Angel]]을 작곡한 DJ Mocha가 작곡했으며 Fallen Angel이 [[DJMAX Portable 2]]에서 부활한 반면에 이곡은 사운드 트랙에만 수록되었을 뿐 플레이할 수 있는 곡은 아니였다.
+== [[DJMAX Trilogy]] ==
+||  || 4키 || 5키 || 6키 || 7키 || 8키 ||
+|| NM || 3 || 6 || 4 || 6 || 5 ||
+|| HD || 8 || 8 || 10 || 10 || 10 ||
+
+온라인 이후 다른 작품에 이식되지 않았다가 트릴로지에서 상당히 어두운 분위기의 BGA가 생기면서 부활했다. MX 패턴과 SC 패턴이 없으며 전체적인 난이도도 높지 않은편이다. 그러나 중간중간 나오는 2중계단 패턴은 10레벨 치고는 콤보를 끊어먹기 굉장히 좋은 구간이니 주의.
+== [[TAP SONIC]] ==
+2012년 2월에 업데이트되어 6라인 레전드 기준 7레벨로 등장했는데, 전 구간 멀티태스킹에 후렴구 긁기가 무서워서 현재 7레벨 보스로 대접받는 중. ~~[wiki:"A.I" 이전 7레벨 보스곡]은 웁니다~~
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Delight 팩 수록곡 ||
+|| [[Sunny Side]](Remix) || '''Feel''' || [[Now a NEW Day]] || [[Another DAY]] || [[GirlZ]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 1 ||
+||<#0000FF> {{{#white HD}}} || 5 ||
+||<#FF0000> MX || 7 ||
+
+DJMAX RAY의 Delight 뮤직팩에 수록되었다.
+== 가사 ==
+|| Close your eyes...
+ come to me
+ feel all right
+ just dance with me all through the night
+
+ turn it out
+ close to you
+ I feel good
+ cause I just know feeling of you
+ give it to me baby
+ 
+ (Stay out the night, tonight...)
+ Feel all right
+ I feel good
+ Just want you to step with me, dance with me
+ here with me...feel all right
+ I feel good on you
+ all right
+ to make a groove all night
+ (give it to me baby)
+
+ (Stay out the night, tonight...)
+ right
+ I feel good
+ Just want you to step with me, dance with me,
+ here with me...feel all right
+ I feel good on you
+ all right
+ to make a groove all night
+ (give it to me baby)||

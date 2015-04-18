@@ -1,0 +1,72 @@
+[[목차]]
+[[EZ2AC]]의 수록곡이다.
+== 게임상의 정보 ==
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Storm Chaser ||
+|| 작곡 |||||||| [[KIEN]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 최초 수록버전 |||||||| [[EZ2AC : EVOLVE]] ||
+|| BPM |||||||| 175 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EVOLVE]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#FFFFFF> 5K ONLY || {{{#orange 8 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6 }}} || {{{#red 9 }}} || {{{#purple 12 }}} || {{{#blue - }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 9 }}} || {{{#red 13 }}} || {{{#purple 14 }}} || {{{#blue - }}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 8 }}} || {{{#red 13 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 8 }}} || {{{#red 13 }}} || {{{#purple 17 }}} || {{{#blue - }}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 10 }}} || {{{#red 14 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ffffff> TURNTABLE || {{{#orange 7 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+ * 코스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+== 개요 ==
+[[KIEN]]이 투고한 [[EZ2AC EV]]의 수록곡. BPM 175의 빠른 박자를 기반으로 중간중간 몰아치는 구간이 돋보인다. 동일 작곡가의 수록곡인 [[Terminated Protocol]]과 곡의 분위기가 조금 비슷한데, 스톰 체이서는 프로토콜보다 조금 더 정적이다.
+
+초기 공개 당시 고난이도 곡으로 등장할 것으로 예상되었으나, 14키 SHD를 빼고는 중레벨대로 등장했다. [[Far Away]], [[Flicker]], [[Immortal]] 등과 함께 EV 신곡 중 중레벨대를 담당하고 있다. 의외로 키음으로 쓸 음이 많지 않은 곡이기 때문에 앞으로 고레벨 패턴이 나올 가능성은 미지수.
+
+== 패턴 설명 ==
+=== 5K ONLY ===
+{{{#!HTML
+<iframe width="560" height="315" src="https:www.youtube.com/embed/TXJsU9rawzU" frameborder="0" allowfullscreen></iframe>
+}}}
+5키 온리 NM 패턴.
+
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5S8Y-7ejco" frameborder="0" allowfullscreen></iframe>
+}}}
+LV.6 노말 패턴.
+
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zxRQP-I4lo" frameborder="0" allowfullscreen></iframe>
+}}}
+레벨 12의 SHD패턴. 13레벨 중에서는 상당히 쉬운 축에 속하는데, 종종 나오는 기습적인 16비트 겹노트를 제외하고는 사실상 12레벨 이하 수준이다. 결국 1.5버전에서 레벨 12로 하락하였다.
+
+=== 7K STANDARD ===
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XaxHP5o5rHw" frameborder="0" allowfullscreen></iframe>
+}}}
+난이도 13짜리 HD패턴.
+
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wxdRj2HeT7A" frameborder="0" allowfullscreen></iframe>
+}}}
+난이도 14짜리 SHD패턴.
+=== 10K MANIAC ===
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/klLbwiDRAp8" frameborder="0" allowfullscreen></iframe>
+}}}
+난이도 13짜리 HD패턴.
+=== 14K MANIAC ===
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ryPmV9unf4k" frameborder="0" allowfullscreen></iframe>
+}}}
+난이도 13짜리 HD패턴. 
+
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BqultGQYYX4" frameborder="0" allowfullscreen></iframe>
+}}}
+난이도 17짜리 SHD패턴.
+=== EZ2 Catch ===
+=== Turntable ===

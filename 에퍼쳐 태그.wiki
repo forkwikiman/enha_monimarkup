@@ -1,0 +1,146 @@
+||이 항목은 [Aperture Tag]로도 들어올 수 있다.||
+
+||<table align=right>||<#E48E1D> '''{{{#white Aperture Tag: The Paint Gun Testing Initiative}}}''' ||
+|||| attachment:/_433.jpg?width=292 ||
+|| '''개발사''' || 애퍼처 태그 팀 ||
+|| '''유통사''' || 애퍼처 태그 팀 ||
+|| '''출시일''' || 2014년 7월 16일 ||
+|| '''장르''' || 1인칭 [[퍼즐]] 플랫포머||
+|| '''플랫폼''' || [[PC]], [[OS X]], [[리눅스]] ||
+|| '''홈페이지''' || [https://sites.google.com/site/motanumproyect/aperture-tag 모타늄 홈페이지] ||
+|| '''스팀 상점 페이지''' || [http://store.steampowered.com/app/280740/ 상점 페이지] ||
+[[목차]]
+== 소개 ==
+Aperture Tag: The Paint Gun Initiative는 커뮤니티가 제작한 [[포탈 2]]의 모드입니다, TAG! The Power of Paint에서 영감을 받았으며.
+[[포탈 2]]의 젤을 애퍼처 사이언스 페인트 건에 담았습니다, 남은 건 당신이 테스트 하는 것 뿐!
+
+새로운 코어와 함께 애퍼처 태그만의 스토리. 그리고 27개의 테스트 레벨,
+ 다양하고 흥미로운 애퍼처 사이언스의 또다른 시설은 당신에게 재미있고 짜릿한 경험을 안겨줄 것입니다.
+--구글번역기를 이용한 발 번역 미안하다!!!--
+
+[[밸브 코퍼레이션]]에서 만든 1인칭 [[퍼즐]] 플랫포머 게임 [[포탈 2]]의 유저제작 모드.
+[[포탈 2]]의 퍼즐요소 중 젤의 출처가 되는 TAG! The Power Of Paint를 인용하여. 기존 포탈 2가 포탈을 주로 이용하고, 이외의 부수요소를 이용한 퍼즐이라면, Aperture TAG는 젤을 주로 이용하고, 포탈이 부수요소가 되는 퍼즐이다.
+
+{{{#!트레일러
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/cQIE1-jieI4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/cQIE1-jieI4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+TAG! The Power Of Paint 플레이 영상
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/TZdCx_Wf4Nw?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/TZdCx_Wf4Nw?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+Aperture TAG 티저 영상
+
+
+유저 모드라곤 하지만, '''포탈2의 커뮤니티 실험실(워크샵)을 이용 할 수 있고. 스팀 트레이딩 카드까지 지원되어 $4.99 USD 라는 가격으로 판매중이다.'''
+--포탈 2와 엄밀히 비교하자면 손해보는 기분이 안 들 수가 없다.--
+
+아래는 애퍼쳐 태그의 최소 사양이다
+
+ * PC
+        OS: Windows 7 / Vista / XP
+        CPU: 3.0 GHz P4, Dual Core 2.0 이상 또는 AMD64X2 이상
+        메모리: 1GB XP / 2 Vista GB RAM
+        그래픽 카드: ATI Radeon X800 이상 / NVIDIA GeForce 7600 이상 / Intel HD Graphics 이상
+        하드 디스크: 4 GB의 설치공간
+        추가 노트: 스팀 연동되어있는 포탈2 설치 필요
+
+ * MAC
+        OS: MAC OS X 10.6.7 이상
+        CPU: Intel Core Duo Processor (2GHz 이상)
+        메모리: 2 GB RAM
+        그래픽 카드: ATI Radeon 2400 이상 / NVIDIA 8600M 이상 / Intel HD Graphics 3000 이상
+        하드 디스크: 4 GB의 설치공간
+        추가 노트: 스팀 연동 되어있는 포탈2 설치 필요 
+
+[[포탈 2]]와 사양은 동일하다.
+
+== 평가와 반응 ==
+=== 스팀 그린라이트 ===
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/1PwcWlP2IPM?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/1PwcWlP2IPM?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+애퍼처 태그 그린라이트 트레일러
+
+스팀 그린라이트에 이 프로젝트가 올라왔을때, 사람들은 극찬을 아끼지 않았다.
+젤을 주도구로 이용한 플레이는 너무나도 신선하고 멋지게 다가왔으며, 퐁퐁 튀어다니며 큐브를 집고 레이저를 연결하여 다시 퐁퐁 뛰고 출구로 나가는 트레일러 영상은. 본 이들의 대부분에게 '예'[* 스팀 그린라이트에서 출시되었으면 하는 게임을 투표할때 소개 영상및 이미지 하단의 '예'버튼을 누르는것으로 투표가 가능하다] 를 누르게 했다
+
+OST도 괜찮고 영상도 괜찮고, 많은 이들에게 다시금 포탈2를 설치하게되는 계기를 주었다
+
+
+=== 발매 이후 ===
+
+먼저 한마디로 요약하자면 '''[[망했어요]]'''
+개발자의 의도에 맞지않게 애퍼처 태그는 호불호가 갈리는 게임이 되었다
+
+에퍼쳐 태그 [http://steamcommunity.com/app/280740/reviews/?browsefilter=toprated 스팀 게임평가]포럼에 가보면 대부분 비추천으로 이뤄져 있는 것을 볼 수 있다
+추천/비추천 평가의 대표적 이유를 꼽아보자면 다음과 같다
+
+ * 비추천 이유
+> 가격 비례 분량이 매우 적다.
+
+> NPC의 음성이 듣기 매우 고통스럽다.
+
+> UI를 이상하게 바꿔놓아 편의성을 결여시켰다.
+
+> 세이브를 한 뒤 로드를 하면 그 지점이 아니라 훨씬 전의 테스트 챔버로 로드가 된다.
+
+> 맵에 자유도를 넣으려던 나머지 원치않게 이곳저곳 끼이는 버그가 발생한다.
+
+> 돈 아깝다.[* 엄밀히 말하면 이유는 아니지만 대다수의 글에 이 말이 꼭 들어가있다]
+
+> 스토리가 너무 짜증난다.
+
+> 게임이 안 예쁘다.
+
+> 3챕터 서프파트가 너무 어렵다.
+
+> --''' 0/10 - Steam Users'''--
+
+
+ * 추천 이유
+
+> 참신한 게임 시스템.
+
+> 듣기좋은 OST.
+
+> 3챕터 서프파트가 너무 재미있다.
+
+> 챕터4의 디자인이 예쁘다.
+
+
+== 뱃지 ==
+스팀 트레이딩 카드를 지원하는 게임으로서,
+카드를 모아 뱃지를 만들 수 있다.
+--사실상 대부분의 사람들이 트레이딩 카드가 지급되는 1시간이 되기 이전에 다 깨버려서 안 얻은 사람들도 꽤 있다고한다--
+
+ * 트레이딩 카드 : 일반
+||attachment:/Aperture_Tag_Card_01.png?width=135||attachment:/Aperture_Tag_Card_02.png?width=135||attachment:/Aperture_Tag_Card_03.png?width=135||attachment:/Aperture_Tag_Card_04.png?width=135||attachment:/Aperture_Tag_Card_05.png?width=135||
+||<#F57900>'''{{{#white A.L.S.S.E.R}}}'''||<#F57900>'''{{{#white Paint Gun}}}'''||<#F57900>'''{{{#white Fizzler}}}'''||<#F57900>'''{{{#white Citranium}}}'''||<#F57900>'''{{{#white Nigel}}}'''||
+
+ * 트레이딩 카드 : 은박
+||attachment:/Aperture_Tag_Card_01_Foil.png?width=135||attachment:/Aperture_Tag_Card_02_Foil.png?width=135||attachment:/Aperture_Tag_Card_03_Foil.png?width=135||attachment:/Aperture_Tag_Card_04_Foil.png?width=135||attachment:/Aperture_Tag_Card_05_Foil.png?width=135||
+||<#3F3F3F>'''{{{#white A.L.S.S.E.R}}}'''||<#3F3F3F>'''{{{#white Paint Gun}}}'''||<#3F3F3F>'''{{{#white Fizzler}}}'''||<#3F3F3F>'''{{{#white Citranium}}}'''||<#3F3F3F>'''{{{#white Nigel}}}'''||
+
+
+ * 트레이딩 카드 : 일반 - 뱃지
+||<#F57900>'''{{{#white Level 1 : 100XP}}}'''||<#F57900>'''{{{#white Level 2 : 200XP}}}'''||<#F57900>'''{{{#white Level 3 : 300XP}}}'''||<#F57900>'''{{{#white Level 4 : 400XP}}}'''||<#F57900>'''{{{#white Level 5 : 500XP}}}'''||
+||attachment:/Aperture_Tag_Badge_01.png||attachment:/Aperture_Tag_Badge_02.png||attachment:/Aperture_Tag_Badge_03.png||attachment:/Aperture_Tag_Badge_04.png||attachment:/Aperture_Tag_Badge_05.png||
+||<#F57900>'''{{{#white Citranium}}}'''||<#F57900>'''{{{#white Diet Citranium}}}'''||<#F57900>'''{{{#white Lemon-Lime Citranium}}}'''||<#F57900>'''{{{#white Cherrium}}}'''||<#F57900>'''{{{#white Citranium BLAST}}}'''||
+
+ * 트레이딩 카드 : 은박 - 뱃지
+||<#3F3F3F>'''{{{#white Level 1 : 100XP}}}'''||
+||attachment:/Aperture_Tag_Badge_Foil.png||
+||<#3F3F3F>'''{{{#white Citranium Classic}}}'''||
+== 엔딩 ==
+[[include(틀:스포일러)]]
+
+포탈 1의 오마쥬인지, 처음부터 계속 언급되던 Citranium이란 오렌지향의 음료를 여러개 던져주고는 소각로에 [[입수]]시켜준다.
+
+다른 엔딩도 존재한다
+마지막 챕터의 오른편, 부숴진 벽 밖으로 나가면 소각로 제어실이 존재하는데, 여기서 닫음 버튼을 눌러준뒤 챕터를 클리어하고나면. 나이젤이 당황하며 왼편의 엘리베이터로 플레이어를 내보내주는
+
+건 훼이크. Thinking with Timemachine(포탈 2 모드)의 오마쥬인지 밖인줄 알았던 그 곳마저 스테이지임을 드러냄으로서 끝이 난다.
+
+--[[페이크다 이 병신들아]]--
+

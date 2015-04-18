@@ -1,0 +1,46 @@
+'''ロボットハニー'''
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/61U1IhgUjyL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<embed src='http://flvs.daum.net/flvPlayer.swf?vid=bnUJtjoaIrE$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+PV 영상. 아이라 미츠키의 데포르메인 듯한 로봇 인형(?)이 귀엽다.
+
+일본의 가수 아이라 미츠키(Aira Mitsuki)의 두번째 싱글음반 및 수록곡.
+
+2009년 방송된 [[TV 도쿄]]의 어린이용 과학프로그램 로보츠쿠(ロボつく)의 엔딩 테마로 쓰였다. 
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>1||<:>5||<:>8||
+||<#5a5aff><:>노트수||<:>116||<:>392||<:>568||
+||<#5a5aff><:>BPM||||||<:>131||
+||<#5a5aff><:>곡 이력||||||[[유비트 리플즈]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/nGg7S5aMkpA" frameborder="0" allowfullscreen></iframe>
+}}}
+[[DONALD.S]]의 EXTREME [[엑설런트]] 영상
+
+익스트림 난이도는 8치고 평균적으로 무난한 느낌. '딱 딱 따다닥'의 메인 박자만 정확히 익히면 쉽게 고득점을 노릴 수 있다.
+
+ADVANCED 보면에는 아래와 같은 중형 하트누르기가 2회 등장한다. 
+
+□□□□
+□■□■
+□■■■
+□□■□　
+
+BASIC은 --[http://www.youtube.com/watch?v=V3-hRELKQaU 5명이 뭉쳐야 엑설을 할 수 있을 정도로] [[유비트 시리즈]] 통틀어 최악의 난이도를 자랑하는 곡-- 유비트로 리듬게임을 처음 접하는 사람이라면 추천할만한 초심자용 곡이다. 노트수가 [[바람이 되고싶어]] 다음으로 유비트 시리즈의 모든 보면들 중 세 번째로 적다. 곡이 시작된 지 한참 지나야 첫번째 노트가 나오는 정도. [[EZ2DJ]]로 치면 [[Look out ~Here comes my love~]]급 포지션이랄까. 2011년 6월 21일자로 베이직에서의 [[엑설런트]] 달성자의 수가 [[천체관측]]을 앞질렀다. 자세한 이야기는 [[천체관측]]을 참조.
+
+~~어째 같은 베이직인데 [532nm|킥드럼에 맞춰 노트가 찍힌 곡]이나 [yellow head joe|어드랑 익스가 렙이 같은 곡의 베이직], [少年は空を辿る|베이직 최고 노트수], [量子の海のリントヴルム|아예 박자 맞추기 난해한 곡의 베이직]이랑 비교해보면 참 엄청난 괴리감이 느껴진다~~ 

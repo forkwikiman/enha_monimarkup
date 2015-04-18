@@ -1,0 +1,33 @@
+ * 상위 항목: [[마이크로소프트 루미아]] 시리즈
+
+attachment:lumia800.jpg?height=450
+
+[[목차]]
+
+== 개요 ==
+[[노키아]]가 2011년 10월에 공개한 [[Windows Phone]] 7 [[스마트폰]]. 개발 코드네임은 Sea Ray.
+
+== 사양 ==
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8255 [[SoC]]. [[Qualcomm Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 16 GB 내장 메모리 ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.7인치 [wiki:"해상도/일람" WVGA](480 x 800) RG-BG 펜타일 서브픽셀 방식의 [[AMOLED]][[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 800만 화소 [[AF]] 및 듀얼 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||'''내장형''' Li-Ion 1450 mAh ||
+||[[운영체제]]||[[Windows Phone]] 7.5 (Mango) → (Tango) → 7.8 ||
+||규격||61.2 x 116.5 x 12.1 mm, 142 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+== 상세 ==
+[[Windows Mobile]]에서 실패를 맛 본 [[마이크로소프트]]가 내놓은 새로운 소형 기기용 운영체제인 [[Windows Phone]] 7을 탑재한 최초의 스마트폰으로, 노키아 [[Lumia 710]]과 같이 런칭되었다. 
+
+플래그쉽 모델이라고 보기에는 사양이 처지고, [[Lumia 710]]과의 차이가 많지 않다. 이는 [[마이크로소프트]]가 지정해준 사양으로 제품을 설계해야하기 때문이다. 따라서 [[삼성전자]], [[HTC]], [[LG전자]] 등 [[Windows Phone]] 7 을 사용한다면 동 시기에 출시된 제품들은 디자인과 디스플레이, 배터리 등 소소한 사양을 제외하면 거의 판박이 수준으로 비슷하다.
+
+[[Lumia 710]]과 차이는 크지 않지만, 단지 '''이쁘다'''는 이유로 이것의 출시를 바라는 사람들이 많았다.
+
+2012년 12월 16일, 네덜란드에서 [[Windows Phone]] 7.8 업데이트가 실시되었고, [http://clien.career.co.kr/cs2/bbs/board.php?bo_table=news&wr_id=1550473&page= #] 2013년 1월 30일 전세계 업데이트가 실시되었다.  [http://www.engadget.com/2013/01/30/nokia-begins-windows-phone-7-8-upgrade-rollout/ #]
+
+== 기타 ==
+ * 원래는 [[버라이즌]]용 [[노키아 N9]]으로 계획되었지만, 노키아가 [[Windows Phone]]으로 전략을 변경하면서 나오게 된 제품이다.
+
+ *[http://tvple.com/60488 이런] [[광고]]를 한적이 있다. ㅎㄷㄷ

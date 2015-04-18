@@ -1,0 +1,70 @@
+[[목차]]
+
+|| 장르 |||||||| [wiki:"하드코어" Hardcore] ||
+|| 곡명 |||||||| Red Ocean ||
+|| 작곡/작사 |||||||| [[xxdbxx]] ||
+|| 보컬 |||||||| Bondage ||
+|| 랩 |||||||| Samuel I. Kim ||
+|| 배경 |||||||| [[KILL]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| BPM |||||||| 106 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 6}}} || {{{#red 9}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='JIUj6FYZY2E$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=JIUj6FYZY2E$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=JIUj6FYZY2E$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+== 개요 == 
+EZ2DJ 2nd의 수록곡. 
+
+== 패턴 ==
+=== 5K ONLY ===
+EV 초기판에서 9로 등장했으나, 1.50 패치에서 8로 떨어졌다.
+=== 5K RUBY ===
+=== 5K STANDARD ===
+=== 7K STANDARD ===
+7th 2.0에서 하드가 추가되었다.
+=== 5K COURSE ===
+=== 7K COURSE ===
+2nd시절, 라디오에서 Rocky Underground채널과, xxdbxx Club the Bondage채널에 함께 출연한 [[Red Hot]], [[DIEOXIN]]과는 좋은 친구. (두채널 다 저 세곡을 포함한다.) 그리고 셋 다 3.0에서 살아남았다.(DIEOXIN외에 두 곡은 많이 비인기곡이기 때문에...) 그런데 문제는 BE RA에 오면서 [Red Hot]은 우룽채널에서 사랑받고 있고[ [Damnation]도 12짜리 하드패턴이 생겼다는 점... 하지만 최신작 AE에서는 7키 우룽채널에 리믹스가 수록되었다.
+=== 10K MANIAC ===
+EV에서 하드가 추가되었다.
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+BErA에서 턴테이블 패턴이 새로 생겼다. 표기 레벨은 6...이긴 한데, '''9레벨''' 쌈싸먹는 난이도의 노트가 쏟아져 나오기 때문에, 주의해야한다. 다만, BPM이 느리기 때문에, 스트릿 짬밥 좀 되시는 유저님들은 주의고 뭐고 그런거 없다. 6레벨 중 찰진 곡이 별로 없는데, 이 곡만큼은 아주 찰지다.
+
+== 가사 ==
+||River flows, down stream.
+A couple hanging on to a rotten raft.
+Clinging on to save their soul from drowning.
+A naked woman lays her daughter on the green field.
+
+Come inside have a go at me
+Let no virgin makes my ways
+
+Home is far
+Set your hopes
+
+Fly away put your hands to say your prayers
+Ground will not wait, will never let you loud
+Flee in fear, volled up your pants
+Swim in sorrow, my own red ocean
+
+No, I won't know where the sun comes from
+No, she won't know my false identity
+No, he won't know how you were born
+No, you won't ask what the heck my name is||

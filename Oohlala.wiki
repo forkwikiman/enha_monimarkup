@@ -1,0 +1,44 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 || [DJMAX TECHNIKA 3] ||
+|| 장르 || Soulful R&B ||
+|| 작곡 || Julie C ||
+|| 편곡 || Julie C ||
+|| 보컬 || Julie C ||
+|| 비주얼 || Entia J ||
+|| BPM || 120 ||
+
+--[소녀시대]의 노래가 아니다.--
+캐나다 출신 싱어송라이터 Julie C의 앨범 'Steay Ground'에 수록된 곡. 라이센스하여 DJMAX TECHNIKA 3에 수록되었다. 울랄라 라고 읽는다. --[[울랄라세션]]과는 관계없다--
+
+BGA는 주로 [[SARA]]와 함께 모션작업을 하던 Entia J가 담당하였다. 가사가 배경화면에 흐르는 것이 특징이며, 밤의 클럽이 연상되는 느낌이다. --어울리기는 하는데 이럴거면 [[Saturday Night Set]]에 집어넣지--
+
+== [[DJMAX TECHNIKA 3]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/YphLIJRjC4s" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/0RA-RgzHmFo" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 250 Max || 2 || || ||
+||<#FFFF00> Normal || C || 250 Max || 3 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || B || 1250 Max || 6 || 4박 스크롤 || [[Rainbow Voyage Set]] 셀렉곡, [[wiki:"TechniColor" 미션 - Midas]] 수록 ||
+||<#FF0000> Maximum || A || 3250 Max || 8 || 4박 스크롤 || ||
+
+노말 패턴은 가끔씩 나오는 관절만 조심하면 대부분 정박패턴이므로 퍼펙찍는데도 크게 어렵지 않을 것이다. 하드 패턴은 [[TechniColor]]의 6스테이지 Midas에 등장하는데, 올콤방지구간에서 한번 틀리다가 연달아 당황해서 틀려버리면 바로 셔터로 연결되니 주의를 요한다.[* 알다시피, Midas 미션은 게이지 감소량이 끔찍하다..]
+
+맥시멈 패턴이 9월 25일 22차 업데이트에서 신곡 맥시멈 패턴으로서는 가장 늦게 공개되었다. 난이도는 8. 전체적으로 [[Supersonic 2011]] MX패턴이 생각나는 8박보라+분홍의 패턴으로 이루어져있다. 패턴 자체의 난이도가 상당하므로 BPM이 느리고 박자가 단순하다고 무시할 수 없다. 
+
+== [[DJMAX TECHNIKA TUNE]] ==
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 2 || ||
+||<#0000FF> {{{#white POP}}} || 4 || ||
+||<#FF0000> CLUB || 6 || [[Vital Dance Set]] 셀렉곡 ||

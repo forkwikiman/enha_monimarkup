@@ -1,0 +1,34 @@
+{{{#!HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/_T2Wzhk7ToQ?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+OST
+
+http://img.ruliweb.com/data/news13/12m/07/on/ruliweb_ray_04.jpg?width=560
+아이캐치
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || Candy Pop ||
+|| 작곡 || Mellow Funk Sound ||
+|| 작사 || Park Jeongsoo ||
+|| 보컬 || Mellow Funk Sound ||
+|| BPM || 130 ||
+|| 타이틀 || RIMA ||
+
+[[DJMAX RAY]]로 디제이 맥스 시리즈에 첫 참가한 Mellow Funk Sound의 신곡. 장르는 Candy Pop으로 발랄하고 가벼운 분위기의 곡이다. BPM이 아주 빠른편은 아니라서 이전에 먼저 나왔던 Candy Pop 장르의 곡인 [[Ya! Party!]]와는 같은 장르임에도 전혀 그렇게 느껴지지 않는다. 멜로디의 일부 구간이 [[Barbie Girl]]의 그것과 흡사하다.
+
+=== [[DJMAX RAY]] ===
+
+{{{#!html
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/GMl0dYnacJE?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||| [DJMAX RAY]의 Scarlet Ray팩 수록곡 ||
+|| [[Sweet Shining Shooting Star]] || [[Kung-Fu Rider]] || [[Y]] || [[Dual Strikers]] || '''Candy Girl''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 3 ||
+||<#0000FF> {{{#white HD}}} || 5 ||
+||<#FF0000> MX || 7 ||
+
+Scarlet Ray팩에 히든곡으로 수록되었다. [[wiki:"그런거 없다" 이 팩의 컨셉에 따라 언젠가는 테크니카 시리즈에 수록될 가능성이 클 줄 알았으나 테크니카가 죽고 모바일판도 결국 무기한 업데이트 중지가 되버렸으니...]]

@@ -1,0 +1,44 @@
+[[목차]]
+== 개요 ==
+레이드는 인스턴스 던전과 비슷하지만, 더 큰 규모로 디자인되었으며, 2개 이상의 원정대가 들어가서 완수할수 있도록 설계되어있다. 이러한 인스 이내에는 주로 Arch-nemesis 급의 보스들이 자리 잡아서 복잡한 전략을 짜야만 잡을수 있도록 구성되어있다.
+== 레이드 잠금 ==
+Raid Locks are designed to prevent any player from completing the same stage of an instance multiple times in a short period of time. For example, Raid Locks prevent a single character from slaying Helchgam over and over again in order to get his slime. Endgame Locks generally expire weekly, meaning any character can complete a particular boss battle no more than once a week. 
+
+Raids can only be entered by players who are a part of the raid group and have either the same or "similar" raid locks as the raid leader, or no raid locks. If a player is part of a raid that completes a stage in the instance (usually a boss fight), then the player will receive a lock number corresponding to the number of the stage completed. As the raid progresses, more such locks are obtained. A few examples of how raid locks work: 
+
+Raid leader has locks 1,3,5; raid member has no locks -> raid member will be able to enter, and will inherit raid leader's locks. 
+Raid leader has locks 1,6; raid member has locks 1,6 -> raid member will be able to enter. 
+Raid leader has locks 1,3,4; raid member has locks 1,4 -> raid member will be able to enter, and will inherit raid leader's lock 3. 
+Raid leader has locks 1,3,4; raid member has locks 1,3,5 -> raid member will not be able to enter. 
+Raid leader has no locks; raid member has locks 1,4 -> raid member will not be able to enter. 
+To find out which raid locks you have, open the Social menu, then select the Group Stage Info tab. The lock numbers your character has are listed by instance under Personal Stage Information. 
+=== 레이드 잠금 리셋 ===
+Mondays, Wednessdays & Fridays @ 6:00AM Eastern 
+ * [Carn Dûm]
+Mondays & Thursdays @ 6:00AM Eastern 
+ * [Helegrod] 
+ * [The Rift of Nûrz Ghâshu]
+ * [Filikul]
+ * [The Vile Maw]
+Thursdays @ 6:00AM Eastern 
+ * [Barad Guldur]
+ * [Dâr Narbugud] 
+ * [Ost Dunhoth]
+== 구성 ==
+== 소통 ==
+== 레이드 ==
+=== 앙그마르 ===
+ * [The Rift of Nûrz Ghâshu] (Level 50, 12-person) 
+ * [Bogbereth] (Level 50, 6 to 12-person) 
+ * [Ferndur] (Level 50, 12 to 24-person) 
+=== 안개산맥 ===
+ * [Helegrod] (Level 50, 24-person) 
+ * [Helegrod] (Level 65, 12 to 24-person) 
+=== 모리아 ===
+ * [Dâr Narbugud] (level 60, 12-person) 
+ * [Filikul] (Level 60, 12-person) 
+ * [The Vile Maw] (Level 60, 12-person) 
+=== 머크우드 ===
+ * [Barad Guldur] (Level 65, 12-person) 
+=== 에네드와이드 ===
+ * [Ost Dunhoth] (level 65, 12-person) 

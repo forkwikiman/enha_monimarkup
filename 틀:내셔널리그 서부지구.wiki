@@ -1,0 +1,5 @@
+||<tablealign=center><-4><#ffffff><:>[wiki:"메이저리그" <span style="font-weight:bold;color:#00004e">MLB</span>] [wiki:"내셔널리그" <span style="font-weight:bold;color:#00004e">내셔널리그</span>] ||
+||<-4><:><#037d14> '''{{{#ffffff 서부지구 소속구단}}}''' [[틀:내셔널리그 중부지구|<span style="font-weight:bold;color:#ffffff">▶</span>]] ||
+||<width=12%><#ffffff><:> attachment:/Diamondbacks.png ||<width=21.3%><:><#DCDCDC> [[애리조나 다이아몬드백스]] [[br]] (Arizona Diamondbacks) ||<width=12%><#ffffff><:> attachment:/Dodgers.png ||<width=21.3%><#DCDCDC><:> [[로스앤젤레스 다저스]] [[br]] (Los Angeles Dodgers) ||
+||<width=12%><#ffffff><:> attachment:/Giants.png ||<width=21.4%><#DCDCDC><:> [[샌프란시스코 자이언츠]] [[br]] (San Francisco Giants) ||<#ffffff><:> attachment:/Padres.jpg ||<#DCDCDC><:> [[샌디에이고 파드리스]] [[br]] (San Diego Padres) ||
+||<#ffffff><:> attachment:/Rockies.png ||<#DCDCDC><:> [[콜로라도 로키스]] [[br]] (Colorado Rokies) ||||||

@@ -1,0 +1,48 @@
+'''風になりたい'''
+
+[[목차]]
+
+== 개요 ==
+http://ecx.images-amazon.com/images/I/41y9YtTKu8L._SL500_AA300_.jpg
+곡이 처음 수록된 앨범 極東サンバ(극동 삼바)의 앨범 표지
+
+일본의 가수 THE BOOM의 노래. 6번째 오리지널 앨범 '극동 삼바'에 처음 수록되었다. 일본의 고등학교 음악 교과서에도 실려 있는 노래이며, 1995년 DC카드의 CM송으로 쓰였다고 한다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#faca00><:>{{{#black jubeat knit append 기준}}}||
+||<|2><#faca00><:>{{{#black 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>3||<:>5||
+||<#faca00><:>{{{#black 노트수}}}||<:>113||<:>272||<:>314||
+||<#faca00><:>{{{#black BPM}}}||||||<:>69~109||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#002040><:>{{{#white 아케이드 수록}}}||||||<:>[[유비트]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>없음||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+ * [[유비트 시리즈/삭제곡|곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+http://ecx.images-amazon.com/images/I/610Myc98asL._AA300_.jpg
+게임 안에서 쓰는 자켓은 동명 싱글음반의 자켓.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/cFHI37OVL8k?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cFHI37OVL8k?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+EXT EXC 영상
+
+EXTREME의 경우 후렴구 직전에 가로긁기 2개가 동시에 튀어나올 수 있으니 주의요망. 유비트 리플즈에서 레벨 5로 내려갔다.
+
+ADVANCE는 유비트 리플즈에서 레벨 3으로 내려갔지만, 레벨 3답지 않게 중간에 '''세로 4개 동시치기 러쉬'''가 등장하는 등 레벨에 비해 어려운 편.
+
+BASIC의 경우 2013년 11월 기준 3번째로 적다. [[유비트 시리즈/기네스]] 항목을 참조. BPM 역시 표기상으로는 69~109이지만 전체적으로 채보가 단순하여 쉽게 풀콤보를 찍을 수 있다.
+
+== 그 외 동명이가 ==
+
+'바람이 되고 싶어'는 [[미소녀 전사 세일러 문]]의 등장인물 [[텐오 하루카]]의 [[캐릭터송]] 제목이기도 하다.[https://www.youtube.com/watch?v=7IOsSMoy0WY 듣기], [http://blog.naver.com/hrs4?Redirect=Log&logNo=90176076990 가사]
+
+세리자와 루이 작사,시바야 토시히코 작곡,노부타 카즈오 편곡.
+
+여담이지만 듣다 보면 왠지 가사가 하루카의 암울한 과거사를 암시하는 것처럼 느껴진다.~~하지만 애니팀은 [[외행성 전사]] 3인방의 과거사에 대해 아무 말도 하지 않고 있다. 그렇게 팬들의 [[2차 창작]]은 [[wiki:"개념은 안드로메다로"안드로메다로...]]~~
+
+[[각주]]

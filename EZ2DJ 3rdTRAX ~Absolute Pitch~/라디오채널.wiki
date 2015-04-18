@@ -1,0 +1,83 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 3rdTRAX ~Absolute Pitch~]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2DJ 3rdTRAX ~Absolute Pitch~/삭제곡|삭제곡]] || [[EZ2DJ 3rdTRAX ~Absolute Pitch~/라디오채널|라디오채널]] || [[EZ2DJ 3rdTRAX ~Absolute Pitch~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2DJ 3rd/라디오채널]]로도 들어올 수 있다.
+ * 각 채널에 대한 설명은 [[EZ2DJ/라디오채널 일람]]의 하위 문서를 참고.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=d_clearguide&no=369]
+
+[[목차]]
+== 개관 ==
+시스템적으로는 2nd와 큰 차이는 없다. 채널 수가 많이 줄어들었지만, 그 대신 7Street Mix가 생겼다.
+
+시리즈 중에서 유일하게 히든커멘드가 1P 전용과 2P 전용으로 분리되어 있었다.
+
+== 기본 채널 ==
+||||<tablewidth=600px> '''Ruby Tuesday''' |||| Lv.7 ||
+|| 1 ||[[Look out ~Here comes my love~|Look Out]]|| HD || 472 ||
+|| 2 ||[[Back For More]]|| HD || 454 ||
+|| 3 ||[[Say That U]]|| HD || 398 ||
+|| 4 ||[[Anytime]]|| HD || 450 ||
+|||| '''Andy Lee''' |||| Lv.9 ||
+|| 1 ||[[2nd Jewel]]|| HD || 672 ||
+|| 2 ||[[R.F.C.]]|| NM || 805 ||
+|| 3 ||[[M Police]]|| HD || 763 ||
+|| 4 ||[[Showdown]]|| HD || 643 ||
+|||| '''Mario Bolden''' |||| Lv.8 ||
+|| 1 ||[[We Luv Music]]|| HD || 589 ||
+|| 2 ||[[Exist]]|| HD || 568 ||
+|| 3 ||[[Stay]]|| CR || 759 ||
+|| 4 ||[[The Rhythm]]|| HD || 602 ||
+|||| '''xxdbxx''' |||| Lv.10 ||
+|| 1 ||[[Substance]]|| NM || 606 ||
+|| 2 ||[[The 3rd Place]]|| HD || 715 ||
+|| 3 ||[[Night Watcher]]|| HD || 697 ||
+|| 4 ||[[Sparrow]]|| NM || 588 ||
+|||| '''Croove''' |||| Lv.11 ||
+|| 1 ||[[Black Market]]|| NM || 779 ||
+|| 2 ||[[Sand Storm]]|| NM || 834 ||
+|| 3 ||[[Cosmic Bird]]|| HD || 938 ||
+|| 4 ||[[Minus 2]]|| NM || 924 ||
+|||| '''Ache''' |||| Lv.7 ||
+|| 1 ||[[JAM(EZ2DJ)|JAM]]|| NM || 406 ||
+|| 2 ||[[It's My Secret]]|| NM || 370 ||
+|| 3 ||[[Lie Lie]]|| HD || 733 ||
+|| 4 ||[[R.F.C.]]|| NM || 805 ||
+|||| '''FEXD''' |||| Lv.9 ||
+|| 1 ||[[Give it 2 me]]|| NM || 512 ||
+|| 2 ||[[Night Watcher]]|| NM || 619 ||
+|| 3 ||[[Cosmic Bird]]|| NM || 798 ||
+|| 4 ||[[You Are The One For Me]]|| KEN || 509 ||
+|||| '''Lassoft''' |||| Lv.10 ||
+|| 1 ||[[Stay]]|| KEN || 659 ||
+|| 2 ||[[Smash]]|| NM || 758 ||
+|| 3 ||[[Minus 2]]|| NM || 924 ||
+|| 4 ||[[20000000000]]|| NM || 833 ||
+|||| '''Airborn''' |||| Lv.8 ||
+|| 1 ||[[The 3rd Place]]|| NM || 606 ||
+|| 2 ||[[Appeal]]|| KEN || 541 ||
+|| 3 ||[[Substance]]|| HD || 773 ||
+|| 4 ||[[Mystic Dream 9903 ~Horror Mix~]]|| HD || 425 ||
+|| ||||||3rd 당시에는 7키 플레이 도중 배속을 바꿀 수가 없었다[* 7키에 도중 배속 변경 기능이 들어간 것은 6th이다.]. 그래서 Mystic Dream 9903 Horror Mix가 들어간 이 채널은 표기 레벨은 8이지만 실제로는 매우 난이도가 높은 채널이었다.||
+|||| '''Ponglow''' |||| Lv.12 ||
+|| 1 ||[[Smash]]|| HD || 977 ||
+|| 2 ||[[Sand Storm]]|| HD || 902 ||
+|| 3 ||[[The Future]]|| Pong || 828 ||
+|| 4 ||[[Ztar warZ]]|| HD || 648 ||
+|| ||||||3rd 초기판에서는 레벨이 11이었으나, 나중의 패치버전에서 12로 수정되었다.||
+
+== 히든 채널 ==
+||||<tablewidth=600px> '''Ominan''' |||| Lv.? ||
+|| 1 ||[[Sparrow]]|| OM || 688 ||
+|| 2 ||[[Black Market]]|| OM || 873 ||
+|| 3 ||[[20000000000]]|| OM || 984 ||
+|| 4 ||[[Get the beat]]|| OM || 166 ||
+|| ||||||3rd 당시 보스 채널. 마지막 스테이지의 Get The Beat는 스트릿 하드 패턴처럼 판정 범위가 좁지만, 스트릿 하드보다는 약간 넓은 편이다.||
+|||| '''Kentauji''' |||| Lv.? ||
+|| 1 ||[[Lie Lie]]|| KEN || 822 ||
+|| 2 ||[[Shake]]|| KEN || 674 ||
+|| 3 ||[[Y-Gate]]|| KEN || 910 ||
+|| 4 ||[[Give it 2 me]]|| KEN || 754 ||
+|| ||||||채널 이름은 Kentauji이지만, 실제로 채보를 제작한 사람은 Ominan이다.||

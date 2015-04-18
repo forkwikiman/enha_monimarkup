@@ -1,0 +1,46 @@
+== [[펌프 잇 업]]에서의 WI-EX-DOC-VA ==
+
+|| 최초 수록 버전 |||| [wiki:"펌프 잇 업/New Xenesis" Pump It Up NX: New Xenesis] ||
+|| 아티스트 |||| Yahpp ||
+|| BPM |||| 195 ||
+|| 비주얼 |||| 범용 BGA ||
+|| 채널 |||| Original Tunes / Remix / NX ~ NXA ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|2> Arcade ||<#ff8c00> Single || 15 / 21 ||
+||<#009900> Double || 15 / 23 ||
+
+[[wiki:"펌프 잇 업/New Xenesis" Pump it up NX : New Nexesis]]에 처음 수록된 리믹스로 [[wiki:"위치 닥터" Witch Doctor]]와 [[wiki:"엑스트라바간자" Extravaganza]]를 리믹스 한 곡이다.
+
+고난이도의 두 곡을 리믹스한 곡답게 이 곡도 상당한 난이도를 자랑하는데 싱글은 15, 21 더블은 15, '''23'''이다.
+특히 이 노래가 유명한 이유는 더블23의 후반부 떨기와 최후반 '''다리찢기 떨기''' 때문인데, 
+
+{{{#!html
+<iframe width="480" height="360" src="http://www.youtube.com/embed/GZ109czjDpA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[더 이상의 자세한 설명은 생략한다]]. 영상 2분 20초부터 시작.
+이 패턴의 악명 때문에 [[리듬게임 갤러리]] 등지에서 "위엑닥바 시켜버리겠다" 라는 말이 생겨나기도 했다. "다리를 찢어버리겠다" 정도의 뉘앙스 (...) 또한 ~~합니다, ~~한다 등의 글을 써놓고 내용은 '''리찢기''' 로 끝내는 낚시가 성행하기도 했다. 그리고 올라오는 것은 위엑닥바 플레이 플짤(...) 람쥐와 비슷한 맥락. 
+
+검색창에 '갓 태어난 아기기린'을 치면 이게 나온다(...).
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/Q7lxEz3ibt0?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+FEFEMZ*의 D23 '''퍼펙트''' 플레이 영상.
+
+이 후 위 영상의 댓글중 무봉으로 해보라고 한 멕시코 유저의 언행이 있었는데,
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/3YJKL4wGIKw" frameborder="0" allowfullscreen></iframe>
+}}}
+후에 정말로 FEFEMZ*유저가 '''하드저지를 걸고 무봉 브렉온 클리어를 했다.'''
+== [[아스트로레인저]]에서의 WI-EX-DOC-VA ==
+
+플레이 카운트 200에서 해금 되는 마스터레인저 코스인 Num 4 Wall, FESTive의 마지막 곡으로만 나온다.
+
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/OcYguRi0kMY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+아스트로레인저 최초 만랩유저 [[REI]]의 플레이 영상.
+배속은 1.0 난이도는 HD.

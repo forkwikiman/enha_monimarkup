@@ -1,0 +1,7 @@
+[[include(틀:SCP)]]
+
+||<tablewidth=70%><tablealign=center><-2><:> '''[[SCP 재단]]''' ||
+|| '''일련번호''' || SCP-1286 ||
+|| '''별명''' || 새드 맨(Sad Man) ||
+|| '''등급''' || 케테르(Keter) ||
+|| '''원문''' || [[http://www.scp-wiki.net/scp-1286]] ||

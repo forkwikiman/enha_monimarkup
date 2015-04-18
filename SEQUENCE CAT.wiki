@@ -1,0 +1,26 @@
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/ipiOHZmXwOo" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 어나더 영상
+
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/Bh46QBdpgS4" frameborder="0" allowfullscreen></iframe>
+}}}
+문제의 더블어나더 영상. 
+
+## IIDX 정보 (흑어나더 난이도 없을 때)
+## 표에 채울 내용을 알아보는 데는 RemyWiki(vjarmy.com/wiki/index.php)나 [[BEMANIWiki]](bemaniwiki.com/)가 적절합니다.
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 145  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 551}}} || {{{#orange 10}}} || {{{#orange 1128}}} || {{{#red 11}}} || {{{#red 1446}}} || {{{#blue 6}}} || {{{#blue 640}}} || {{{#orange 10}}} || {{{#orange 1333}}} || {{{#red 12}}} || {{{#red 1985}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 미수록
+ * 가정용판 수록 : [[wiki:"비트매니아 IIDX 14 GOLD"14 GOLD]]
+ * 단위인정 수록
+  * DPA : '''개전''' (CS GOLD)
+
+작곡가는 SLEDLAKE(SLAKE & L.E.D.）라는 명의를 사용한 [[SLAKE]]와 [[L.E.D.]]로, 장르는 전작 CS의 수록곡이었던 [[QUANTUM TELEPORTATION]]과 똑같은 [[테크노]]. 전작의 테크노였던 퀀텀이 어둡고 강렬한 느낌의 테크노였다면, 시퀀스 캣은 그보다는 밝은 멜로디를 가지고 있다. 똑같이 BGA도 다양한 색상이 어우러져 밝은 느낌을 보여준다.
+
+QUANTUM TELEPORTATION 만큼은 아니여도 더블 어나더는 그야말로 흉악의 극치를 보여준다. [* 비공식 난이도 기준 12.4의 난이도를 받았다.] 채보의 특징은 한마디로 말해서 계단. 처음부터 끝까지 작정하고 온갖 형태의 계단으로 밀어 붙힌다. 특히 압권은 중반부에 나오는 대계단 구간.

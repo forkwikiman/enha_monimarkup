@@ -1,0 +1,23 @@
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/UqMhs_uoOdQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||
+シューティングゲーム「FALSION」から名曲をアレンジ！アツいビートロックを奏でろッ！
+슈팅게임「[[팔시온]]」에서의 명곡을 어레인지! 뜨거운 비트 록을 연주하라!
+||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 20[[br]]Fantasia || FALSION[[br]]팔시온 || THE FIRST SPACE FIGHT from FALSION || コナミ矩形波倶楽部 Remix KOHTA[[br]]코나미 거형파구락부 Remix KOHTA || SHOLLKEE[[br]][[숄키]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 200 || 43단계 || {{{#blue 19}}} || {{{#green 21}}} || {{{#orange 30}}} || {{{#red 39}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 27}}} || {{{#orange 36}}} || {{{#red 44}}} ||
+|||| 노트 수 || {{{#blue 436}}} || {{{#green 482}}} || {{{#orange 781}}} || {{{#red 1282}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+[[팝픈뮤직 20 fantasia]]의 통상 수록곡. 원곡은 [[코나미]]의 슈팅게임인 팔시온의 스테이지 1 BGM인 [http://www.youtube.com/watch?v=OEEIIPS3n-0 THE FIRST SPACE FIGHT]. 리믹서인 KOHTA[* [[남코]]에서 [[릿지 레이서]]에서의 노래 작곡을 맡았었다.]의 팝픈뮤직 데뷔곡이다.[* [[BEMANI 시리즈]] 데뷔곡은 [[beatmania IIDX 11 IIDX RED]]의 [[RESONATE 1794]]이다. 이 후 [[GITADORA]]에 [[Awaken Ver.G]]란 노래를 작곡하게 된다.]
+
+EX 보면은 동시치기가 주를 이루며 체력을 요구하는 보면이다. 첫 수록 당시엔 39(現 45)였으나 Sunny Park때 44로 하락.
+
+담당 캐릭터는 숄키로, 12 이로하에서 이식된 [[KOUYOU]]이후 8시즌만에 담당곡을 배정받았다. 모션은 새로 만들어졌다.

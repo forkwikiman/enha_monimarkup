@@ -1,0 +1,8 @@
+{{{#!html
+<div style="border: 3px solid Orange;padding:10px;margin-bottom:-40px"><b style="font-size:18px">틀 템플릿입니다..</b>
+
+새로운 틀을 만들어야 할 경우, 이 템플릿을 사용해 주세요.
+</div>
+}}}
+## 틀 템플릿입니다.
+## 다 만들고 나면 margin-bottom:-40px속성 때문에 아랫쪽이 잘려 보이는데, 실제 문서에서 틀과 문서 사이의 간격을 조정하기 위한 것이니 그냥 두시면 됩니다.

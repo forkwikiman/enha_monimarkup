@@ -1,0 +1,33 @@
+[[기타프릭스]] & [[드럼매니아]] V6의 수록곡. 줄여서 앙컨이라고 불린다.
+
+{{{#!html
+<object width="600" height="450"><param name="movie" value="http://www.youtube.com/v/wN5oqXKx4iI?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wN5oqXKx4iI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="450" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+기타/오픈픽/베이스 채보. BSC( ~ 2:26) → ADV(2:26 ~ 4:51) → EXT (4:52 ~ 7:16)
+
+{{{#!html
+<object width="600" height="450"><param name="movie" value="http://www.youtube.com/v/TMbQDwKSpBU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TMbQDwKSpBU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="450" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+드럼 BSC/ADV/EXT 채보.
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [wiki:"기타프릭스&드럼매니아 XG" XG 시리즈] 난이도 체계 ||
+||<|5><:> 80-300 ||<|2> 기타 표준 || {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue NOV}}} || {{{#orange REG}}} || {{{#red EXP}}} || {{{#purple MAS}}} ||
+|| {{{#green 76}}} || {{{#orange 81}}} || {{{#red 95}}} ||<|2><:> {{{#blue 5.00}}} ||<|2><:> {{{#orange 6.90}}} ||<|2><:> {{{#red 7.60}}} ||<|2><:> {{{#purple 8.70}}} ||
+|| 기타 오픈픽 || {{{#green 78}}} || {{{#orange 83}}} || {{{#red 95}}} ||
+|| 기타 베이스 || {{{#green 58}}} || {{{#orange 70}}} || {{{#red 80}}} || {{{#blue 5.40}}} || {{{#orange 5.70}}} || {{{#red 7.30}}} || {{{#purple 8.90}}} ||
+|| 드럼매니아 || {{{#green 55}}} || {{{#orange 86}}} || {{{#red 97}}} || {{{#blue 5.45}}} || {{{#orange 7.00}}} || {{{#red 8.80}}} || {{{#purple 9.40}}} ||
+
+작곡가 명의는 Trick Trap+[* +가 붙지 않은 Trick Trap은 본래 [[코에즈카 요시히코]]가 [[이즈미 무츠히코]]와 합작할 때 사용한 명의. 그런데 이 ENCORE CONQUEST에 코에즈카 요시히코 본인 작곡은 하나도 없다.][* 여러 곡들을 이어붙이고 기타/베이스 파트를 다시 연주하는 작업은 Trick Trap 멤버 두 사람이 했다고 한다. 의외로 힘든 작업이어서 본인들 자작곡 만드는 것보다 오래 걸렸다고.(...)]이라고 되어 있으나 이 곡의 실체는...
+
+'''과거 앙코르 스테이지 곡들의 메들리'''.
+
+기타프릭스&드럼매니아 시리즈 근작에서는 보기 드문 메들리곡으로[* V4에 [[센본마츠 진]]의 [[Jake in the Box]]라는 메들리가 있긴 했지만, 그 메들리는 수록곡들을 센본마츠 진이 새롭게 연주했다. 순수 메들리로서는 기타프릭스 10th MIX & 드럼매니아 9th MIX에 나온 Handsome JET L-Project 이래로 진짜 오랜만.], [[DAY DREAM]], [[under control]], [[오니히메]], [[Timepiece phase II]], [[over there]] 순으로 주요 부분만 추려서 만든 메들리다. 물론 원곡들이 상당히 고난이도곡이었던 만큼 이 메들리도 플레이하는 게 전혀 쉽지가 않다. 다만 베이스 베이직 한정으로 언더 컨트롤만 무사히 넘기면 나머지는 쉽다. 그도 그럴것이 나머지 3곡의 원래 베이스 베이직의 레벨이 40대다.[* 심지어 오니히메는 39.]
+
+V6에서 이 곡을 직접 플레이해본 사람은 손에 꼽는데, 그것은 이 곡을 플레이하기 위한 조건이 '''퀘스트 모드에서 고레벨에 도달'''해야 나오기 때문이다. 등장 당시에는 최고레벨인 '우주장악'에서 나왔고, 나중에 시간이 지나면서 점점 조건이 완화되었다.
+
+레벨만 채운다고 되는게 아니라, 레벨을 채웠을 때 퀘스트 모드에서 3스테이지까지를 모두 S랭크 이상으로 클리어하면(어떤 퀘스트를 플레이하든 관계없이) 울티메이트 카테고리에서 'ENCORE CONQUEST를 클리어하라'는 퀘스트가 4스테이지에 등장하는데, 4스테이지에서 해당 퀘스트를 클리어했을 때 해금된다. 즉 이 곡은 퀘스트 모드 보스곡에 해당한다.
+
+물론 V7부터는 그냥 일반곡이고 XG에도 수록되었다.
+
+메들리곡이기는 하지만 곡 길이가 애매해서인지 아케이드에서는 롱버전으로 취급되지 않는다. 이는 이후에 등장한 메들리곡인 [[The ULTIMATES]], [[MODEL DD 시리즈|MODEL DD ULTIMATES]]도 마찬가지.

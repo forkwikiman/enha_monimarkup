@@ -1,0 +1,77 @@
+{{{#!html
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/x6pT_2E5xI0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[독일]]의 개발자 Andreas Illiger가 개발한 [[아이폰]] [[러닝 액션게임]]으로 2011년 2월 18일 발매되었다. 부드러운 음악과 그래픽, 간단하고 몰입성 높은 플레이방식으로 호평을 받으며 [[앵그리버드]]를 밀어내고 유료앱 1위를 달성한다.[* 추후 앵그리버드 리오가 출시되자 2위로 밀려났다.]
+
+[[목차]]
+
+== 게임 플레이 ==
+오로지 화면을 터치하는 것만으로 컨트롤을 하게된다. 맵에는 수많은 언덕이 있는데 이 언덕들의 하강경사에 닿을때 화면을 터치하여 가속도를 주고 이를 이용해 다음 상승 경사때 하늘을 나는 방식. 여타 원버튼 게임들이 그렇듯 타이밍을 맞추는것이 중요하다. 맵은 하루마다 색과 모양이 바뀐다. 화면 좌측 하단에 시간이 표시되는데 밤이 되면 게임이 종료된다.
+
+ * 코인 - 다른 게임들에서도 쉽게 볼 수 있는 점수를 올려주는 노란색 원. 개당 3점을 획득하며 줄줄이 붙어있다.
+
+ * 스피드 코인 - 파란색 모양의 원으로 맵 곳곳에 존재한다. 획득하면 순식간에 가속도가 붙는다.
+
+ * 그레이트 슬라이드 - 2번 연속으로 정확히 하단 경사에서 터치했을 경우 발동되며, 10점을 획득한다.
+
+ * 피버 모드 - 3번 연속으로 정확히 하단 경사에서 터치했을 경우 발동되며, 새의 궤적에 별들이 그려진다. 피버 모드 상태에서는 점수를 2배로 획득하며 추가로 그레이트 슬라이드를 할때 마다 지속 시간이 연장된다. 그레이트 슬라이드에 실패하면 남은 지속 시간과 상관없이 상태가 풀린다.
+
+ * 클라우드 터치 - 빠른 속도로 상승 경사를 타서 하늘 높이 올라가 구름에 닿는 경우 20점을 획득한다.
+
+== 둥지 ==
+레벨과 비슷한 둥지라는 개념이 있으며, 해당 둥지의 3가지 미션을 모두 완수하면 다음 둥지와 다음 미션을 얻는다. 또한 둥지마다 그레이트 슬라이드와 클라우드 터치시 얻는 점수를 일정 배수로 뻥튀기 시켜주며, 둥지 단계가 오를때마다 배수도 상향된다.
+
+ * 둥지 레벨 1 (10x)
+  * collect 100 coins - 코인 100개 획득.
+  * reach the 4th island - 네번째 섬에 도달.
+  * do 7 great slides in one game - 한번의 게임에서 7번의 그레이트 슬라이드 성공시키기.
+
+ * 둥지 레벨 2 (12x)
+  * do 1 cloutouch - 클라우드 터치 1회 성공시키기.
+  * gain 5000 points on the 1th island - 첫번째 섬에서 5000점 획득.
+  * be 5s in fever mode - 5초동안 피버 모드 지속시키기.
+
+ * 둥지 레벨 3 (14x)
+  * do 5 great slides on the 3rd island - 세번째 섬에서 5번의 그레이트 슬라이드 성공시키기.
+  * do 1 great slide directly after an island jump - 섬에 도착하자마자 그레이트 슬라이드 하기.
+  * collect 200 coins - 코인 200개 획득.
+
+ * 둥지 레벨 4 (16x)
+  * be 5x in fever mode in one game - 한 번의 게임에서 피버 모드 5회 진입.
+  * gain 60000 points - 60000점 획득.
+  * reach the 5th island withoud speedcoins - 스피드 코인을 획득하지 않고 다섯번째 섬에 도달하기.
+
+ * 둥지 레벨 5 (18x)
+  * reach the 4th island being in fever mode - 피버 모드 상태로 네번째 섬에 도달.
+  * do 32 great slides in one game - 한 번의 게임에서 32번의 그레이트 슬라이드 성공시키기.
+  * turn your device upside down and reach the 5th island - 기기를 뒤집은 상태로 다섯번째 섬에 도달하기.[* 처음 시작부터 뒤집은 상태여야 하며, 기기를 뒤집지 않고 옵션에서 Flip Screen을 선택하여 플레이해도 된다.]
+
+ * 둥지 레벨 6 (20x)
+  * reach the 5th island without fever mode - 단 한번의 피버 모드도 없이 다섯번째 섬에 도달.
+  * be 17s in fever mode - 17초동안 피버 모드 지속시키기.
+  * do 10 great slides on the 1st island - 첫번째 섬에서만 10회의 그레이트 슬라이드 성공시키기.
+
+ * 둥지 레벨 7 (22x)
+  * do 2 cloudtouches on the 5th island - 다섯번째 섬에서 클라우드 터치 2회 성공시키기.
+  * do 5 cloudtouches in fever mode - 피버 모드 상태로 클라우드 터치 5회 성공시키기.
+  * do 10 cloudtouches in one game - 한 번의 게임에서 10회의 클라우드 터치 성공시키기.
+
+ * 둥지 레벨 8 (24x)
+  * be 34 seconds in fever mode - 34초동안 피버 모드 지속시키기.
+  * reach the 7th island - 일곱번째 섬에 도달.
+  * reach the 4th island without doing any great slide - 단 한번의 그레이트 슬라이드도 없이 네번째 섬에 도달.
+
+ * 둥지 레벨 9 (26x)
+  * reach the 8th island - 여덟번째 섬에 도달.
+  * gain 175000 points - 175000점 획득.
+  * 5x: do one great slide directly an island jump - 섬에 도착하자마자 그레이트 슬라이드 하기 x5
+
+ * 둥지 레벨 10 (28x)
+  * reach the 9th island - 아홉번째 섬에 도달.
+  * Fly through the 4th island in fever mode - 피버 모드 상태를 유지하며 네번째 섬 통과하기.
+  * do 20 cloudtouches not being in fever mode - 피버 모드가 아닌 상태로 클라우드 터치 20회 성공시키기.
+
+== 기타 ==
+아홉번째 섬까지 존재하며 열번째 섬에 진입하는 순간 게임이 멈추어 버린다. [http://youtu.be/eGiLH1BjRqA #]
+

@@ -1,0 +1,16 @@
+[[목차]]
+
+== 육군첩보부대 HID ==
+Headquarters of Intelligence Detachment
+[[대한민국 국군]]의 첩보부대원(HID). 자세한 사항은 [[특수정보부사관/육상|정보사 육상]] 항목 참조
+
+== HID(고율방전) ==
+고전류 방전을 의미하는 영어약어[* High-intensity discharge]이지만, 실질적으로 사용하는 곳은 조명업계 뿐이다. 이곳에서 말하는 HID 는 Short Arc Lamp 를 의미하는 것으로, 단거리에서 아크방전을 통해 가스를 여기시켜 빛을 만드는 전등 모두를 HID 라고 부른다. 
+
+종류에 따라  메탈, 메탈 할라이드, 탄소전극, 수은, HQI, 고압나트륨, 저압나트륨, Xenon 등 많다. 
+
+차량을 개조해 HID를 장착해 쓰는 사람들이 많은데 웬만하면 하지말자.
+전등이 지나치게 밝기 때문에 눈을 멀게 할 수 있고, 이는 사고로 이어질 수 있다.[http://news.kukinews.com/article/view.asp?page=1&gCode=eco&arcid=0006562453&code=41141511&cp=nv1 링크]  
+
+== HID(Human Interface Device, 인간 인터페이스 장치) ==
+[[인간 인터페이스 장치]] 항목 참조

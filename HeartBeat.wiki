@@ -1,0 +1,187 @@
+#title HeartBeat
+[[목차]]
+== [심장] 박동의 영어단어 ==
+== [DJMAX TECHNIKA] 시리즈의 세트 ==
+디스크 이미지에 표기된 난이도는 HARD Perfomance
+=== [DJMAX TECHNIKA] ===
+Technical 모드에서 고를 수 있는 세트 중 하나.
+세트 이미지에 표기된 난이도는 Hard로 [[Core Sound]]와 동급이지만, [[Remember]], [[BlythE]] 등 대중적으로 어필하는 곡들이 많아서 그런지 이쪽 세트가 더 인기가 많았다.
+==== 수록곡 일람 ====
+||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||5||Ethnic Techno||[[Divine Service]]||[Electronic Boutique]||152||TP|| ||
+||6||Electro House||[Play the Future]||[Urbatronic Chopsticks]||128||TP|| ||
+||6||Bigband House||[STOP]||[3rd Coast]||162||TP|| ||
+||6||K-POP||[Remember]||[Lin-G]||150||TP|| ||
+||7||Cute POP||[Melody]||[bermei.inazawa]||188||TP||※ 살짝 [[지뢰곡]] ||
+||7||India Hip Hop||[The Last Dance]||[Urbatronic Chopsticks]||102||TP|| ||
+||7||Synth D&B||[BlythE]||[M2U]||180||PP|| ||
+||8||Colours POP||[Colours of Sorrow]||[Tsukasa]||143||TP||1~3스테이지 MAX<95%||
+||8[* Area 7은 사실 게임상에서 난이도표기를 알 수 없으나, 레벨 8이라는 표기는, 한 유저가 리절트 화면의 랭크에 따른 맥스 획득량을 계산하여 이 곡이 레벨 8이라는 것을 알아낸 것)]||Techno||[Area 7]||["M2U" SPHAZER]||130||TP||1~3스테이지 MAX≥95%||
+==== 설명 ====
+상당히 인기가 있을 뿐만 아니라 난이도도 정말 [적절]한 세트.
+이 중에서 어려운 곡을 고르라면 [[Melody]] 정도가 있다. [[BlythE]]도 상당히 난이도가 높긴 하지만 DJMAX 팬들에게 오래전부터 인기를 끌었던 곡이기 때문인지 체감난이도는 [[Melody]]에 비해 낮은 편이다.
+
+하지만 4스테이지에 등장하는 [[Colours of Sorrow]] TP는 다른 세트 내 곡에 비해서 높은 난이도를 보여준다. 물론 난이도가 8이긴 하지만..첫 클리어하는 사람에게는 그야말로 좌절하게끔 만드는 곡. 당시의 터치 시스템이 굉장히 씹힘이 많았기 때문에 클리어에 어려움이 컸었다.(자세한 건 [[Colours of Sorrow]] 참조)
+
+그리고 고수들에게도 마찬가지. MAX 95%이상에 등장하는 '''[[Area 7]]'''이 등장하면.. 스코어 어택으로서는 가히 [[충격과 공포]] 가 된다. [[Area 7]]에서 얻을수 있는 점수가 [[Colours of Sorrow]] TP에서 얻을 수 있는 최고점수에 비해 거의 절반 수준이기 때문이다.[* 단, Area 7의 경우 클리어 난이도는 Colours of Sorrow보다 수월하다는 평. Colours of Sorrow때문에 하트비트를 클리어 못하다가 결국 Area 7 을 소환하여 하트비트를 첫 클리어 하는사람이 꽤 많다.]
+
+이 때문인지 이 세트도 [[굴리기]] 스킬은 필수.
+(스코어루트 기준으로 49개 이상 굴리면 된다.)
+
+첫 클리어를 위해선 '''   Divine Service / STOP / Remember ▷ Colours of Sorrow(Area 7) '''
+스코어 어택용으론 '''   BlythE / Melody / Remember ▷ Colours of Sorrow '''
+물론 순서는 바꿔도 상관은 없다. 허나 BlythE를 1스테이지에 넣고 2스테이지에서 Melody로 피를 채운 후 3스테이지에서 Remeber로 빨피를 방지하는 것을 권장한다. 또한 연타에 자신이 있거나 [[Play the Future]] PP패턴을 연습좀 해본 사람은 첫 클리어 루트 중에서 [STOP]대신 넣어도 상관없다.
+
+과거 잠시동안이지만 특정 조건을 만족하면 [[고백,꽃,늑대]] TP가 4스테이지에서 출현하는 버그가 존재했다. [[고백,꽃,늑대]]의 PP패턴을 8분박[* 16분박이 아니다. 원곡이 워낙 느릴 뿐 8분박이 맞다.]으로 줄여놓은 패턴이지만 실제로 보면 말그대로 '''눈 돌아간다.''' 문제는 이 [[고백,꽃,늑대]]를 클리어하면 비정상적으로 경험치를 얻는 버그가 발생한다는것. 이후 플래티넘 크루 모드로 들어가면 해당 카드의 플레이어 타이틀이 최고단계인 DJMAX GRAND MASTER까지 상승되는 현상이 발생하였다. 때문에 이것을 시도한 몇몇 유저들 때문에 당시 PUNEW밖에 없었던 그랜드 마스터가 14명까지 늘어나게 되는 기현상이 발생하게 된다. [wiki:"리듬게임 갤러리" 모 커뮤니티]에서는 이를 두고 '뿌뉴와 13인의 도적들'이라고 부르기도 한다. 이를 칭하는 다른 말로는 버그랜마(버그+그랜마)가 있다
+
+||attachment:/wiki/pds/punew.jpg||
+||뿌뉴와 13인의 도적들||
+
+=== [DJMAX TECHNIKA 2] ===
+DJMAX TECHNIKA 2의 플레이 모드 중 하나인 Club Mixing에서 고를 수 있는 세트 중 하나.
+세트 이미지에 표기된 난이도는 Hard. [[Remember]], [[BlythE]] 등 대중적으로 어필하는 곡들이 많다.
+==== 수록곡 일람 ====
+
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||1||5||Ethnic Techno||[[Divine Service]]||[Electronic Boutique]||152||HD|| ||
+||2||5||India Hip Hop||[The Last Dance]||[Urbatronic Chopsticks]||102||HD||※ 레벨표기 주의 ||
+||3||6||Bigband House||[STOP]||[3rd Coast]||162||HD|| ||
+||4||6||K-POP||[Remember]||[Lin-G]||150||HD|| ||
+||5||6||Cute POP||[Melody]||[bermei.inazawa]||188||HD|| ||
+||6||6||Synth D&B||[BlythE]||[M2U]||180||NM|| ||
+||B1||7||Colours POP||[Colours of Sorrow]||[Tsukasa]||143||HD||선택곡 3곡 번호 합<12||
+||B2||7||Techno||[Area 7]||["M2U" SPHAZER]||130||HD||선택곡 3곡 번호 합≥12||
+
+==== 설명 ====
+대중적으로 어필한다는 세트의 이미지에 맞추어 Play the Future HD 패턴이 [[Electro Beat Set]]로 이적하였다. 그 외 특필할 만한 점으로는 The Last Dance의 레벨이 2나 강등되었다는 것. 전작에서 7레벨 치고 너무나 쉬운 편이었기 때문에, 크게 사기난이도는 아니지만, 5레벨 치고는 그래도 노트 밀도가 상당히 높기 때문에 다른 5레벨 곡들에 비하면 난이도가 있는 편이니 주의하자.
+
+4스테이지에 등장곡인 Colours of Sorrow와 Area 7이 모두 씹힘이 정점에 달하는 곡들이었는데 터치방식 개편으로 씹힘이 줄어들면서 클리어하기가 전보다 수월해질 듯한 전망.
+
+첫 클리어를 위해선 '''   Divine Service / Remember / STOP 또는 The Last Dance ▷ Colours of Sorrow '''
+구 세트의 스코어 어택에 익숙한 사람은 '''   BlythE / Melody / Remember ▷ Area 7 '''[* 4스테이지 곡 등장 기준의 변화로 저 코스로는 7구역이 뜨게 된다.] 정도가 적당할 듯. 단, 굴리면 큰일난다(...)
+물론 순서는 바꿔도 상관은 없다.
+
+=== [DJMAX TECHNIKA 3] ===
+==== 수록곡 일람 ====
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||1||5||Ethnic Techno||[[Divine Service]]||[Electronic Boutique]||152||HD|| ||
+||2||5||India Hip Hop||[The Last Dance]||[Urbatronic Chopsticks]||102||HD||※ 레벨표기 주의 ||
+||3||6||Bigband House||[STOP]||[3rd Coast]||162||HD|| ||
+||4||6||K-POP||[Remember]||[Lin-G]||150||HD|| ||
+||5||6||Cute POP||[Melody]||[bermei.inazawa]||188||HD|| ||
+||6||6||Synth D&B||[BlythE]||[M2U]||180||NM|| ||
+||B1||7||Colours POP||[Colours of Sorrow]||[Tsukasa]||143||HD||선택곡 3곡 번호 합<12||
+||B2||7||Techno||[Area 7]||["M2U" SPHAZER]||130||HD||선택곡 3곡 번호 합≥12||
+==== 설명 ====
+다른 대부분의 구 세트와 같이 변경점이 없다. 하지만 이번작부터 등장하는 다른 [wiki:"Brutalizer Set"Hard][wiki:"Detonate Set"Perpomence]들과 비교하면 굉장히 안습해진다. 3에 도달해서는 노말 퍼포먼스로 생각하는 편이 편하다.
+=== 관련 항목 ===
+ * [wiki:"DJMAX TECHNIKA#s-2.5" DJMAX TECHNIKA]
+ * [DJMAX TECHNIKA 2/데이터]
+ * [DJMAX TECHNIKA 3/데이터]
+
+== [2PM]의 곡 ==
+
+
+== Annie의 곡 == 
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/f9Wf46tLonM?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/f9Wf46tLonM?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+=== 가사 ===
+{{|
+There was a time
+Everybody was around
+And I was dancing with you
+
+We all went down
+To the party friday night
+And had a drink there or two
+
+Oh what a hit
+Of a loving heartbeat
+That's electricity
+
+Majestic sound
+Round and round and round
+Glad you're next to me
+
+Feel my heartbeat
+Trembling to the beat
+Like a symphony
+
+Feel my heartbeat
+Trembling to the beat
+Like a melody
+Come see
+
+Feel my heartbeat
+Trembling to the beat
+Like a symphony
+
+Feel my heartbeat
+Trembling to the beat
+Like a melody
+Come see
+
+Time after time
+Everybody came around
+And I was dancing with you
+
+Don't know your name
+Making me ashamed
+To feel the way that I do
+
+The lights went out
+Couldn't be without
+It was a place to be
+
+I won't forget
+Greatest times ahead
+When I was dancing with you
+
+Feel my heartbeat
+Trembling to the beat
+We all want it now
+
+Feel my heartbeat
+Trembling to the beat
+We all want it now somehow
+
+Feel my heartbeat
+Trembling to the beat
+Like a symphony
+
+Feel my heartbeat
+Trembling to the beat
+Like a melody
+Come see
+
+Feel my heartbeat
+Feel my heartbeat
+Feel my heartbeat
+Now
+
+Feel my heartbeat
+Feel my heartbeat
+Feel my heartbeat
+Now somehow
+
+There was a time
+Everybody was around
+And I was dancing with you
+
+Don't know your name
+Making me ashamed
+To feel the way that I do
+
+The lights went out
+Couldn't be without
+It was a place to be
+
+I won't forget
+Greatest times ahead
+When I was dancing with you
+|}}
+== 카토 미리야의 곡 ==
+[[HEART BEAT]]항목 참조.
+

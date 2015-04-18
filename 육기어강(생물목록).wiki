@@ -1,0 +1,45 @@
+ * 상위문서: [[척삭동물문(생물목록)]]
+ * 일반적인 내용은 [[육기어강]] 참고.
+
+[[목차]]
+
+조기어강(肉鰭魚綱, Sarcopterygii)은 지느러미에 살집이 있는 동물이다.
+
+= 총기어아강(Actinistia) =
+== †프로로레피스목(Porolepiformes) ==
+== †오니코두스목(Onychodontida) ==
+== 총기어목(Coelacanthiformes) ==
+ * 코일로칸투스과
+  * 코일로칸투스
+ * †마우소니아과
+  * [마우소니아]
+ * 라티메리아과
+  * [[실러캔스]](라티메리아)
+
+= [[폐어]]아강(Dipnoi) =
+== 세라토두스목 (Ceratodontiformes) ==
+ * 오스트레일리아폐어과 (Ceratodontidae)
+  * 오스트레일리아폐어속 (Neoceratodus)
+   * 오스트레일리아폐어 (Neoceratodus forsteri)
+== 레피도시렌목 (Lepidosireniformes) ==
+ * 남아메리카폐어과 (Lepidosirenidae)
+  * 남아메리카폐어속 (Lepidosiren)
+   * 남아메리카폐어 (Lepidosiren paradoxa)
+ * 아프리카폐어과 (Protopteridae)
+  * 아프리카폐어속 (Protopterus)
+   * 표범폐어(Protopterus aethiopicus)
+   * 서아프리카폐어(Protopterus annectens)
+   * 동아프리카폐어(Protopterus amphibius)
+   * 반점아프리카폐어(Protopterus dolloi)
+
+= 사지형어아강(Tetrapodomorpha) =
+== †리조두스목(Rhizodontida) ==
+== †오스테올레피스목(Osteolepiformes) ==
+ * †트리스티코프테루스과(Tristichopteridae)
+  * [에우스테놉테론]
+  * [히네리아]
+== †엘피스토스테게목(Elpistostegalia) ==
+  * [틱타알릭] 
+  * 판데리크티스과
+   * 판데리크티스
+  * 엘피스토스테게

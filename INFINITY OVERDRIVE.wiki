@@ -1,0 +1,54 @@
+[[목차]]
+
+== [[사운드 볼텍스]]의 수록곡 ==
+=== 개요 ===
+작곡명의는 DecisionS로 kanone와 nora2r의 합작곡이다.
+
+=== [[사운드 볼텍스]] ===
+[[사운드 볼텍스 플로어]] '[[사운드 볼텍스 II -인피니트 인펙션-]] 제작결정기념 오리지널곡 컨테스트'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+|||||||| [[사운드 볼텍스]] 난이도 체계 ||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:INF_Nov.jpg?width=150 || attachment:INF_ADV.jpg?width=150 || attachment:INF3.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 11}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0721}}} || {{{#orange 0931}}} || {{{#ff009f 1520}}} ||
+|| 일러스트 담당 || {{{#purple タカトウ ナユタ with SOUL SEKISHI}}} || {{{#orange タカトウ ナユタ with SOUL SEKISHI}}} || {{{#ff009f タカトウ ナユタ with SOUL SEKISHI}}} ||
+|| 이펙터 || [[MAD CHILD]] {{{#purple vs. しばまる子}}} || {{{#orange MAD CHILD vs. しばまる子}}} || {{{#ff009f MAD CHILD vs. しばまる子}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 12(2013.10.2)}}} ||
+|| [[BPM]] |||||| 185 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : 운부이도(韻符弐刀) 순한맛
+  * EXHAUST : Skill Level 07(2014.3.6 ~ 2014.4.4), 운부이도(韻符弐刀) 매운맛
+
+||<#eeeeee>
+두번째로 뵙겠습니다! DecisionS의 프라이팬으로 하지 않는 편, nora2r입니다!
+이번에는 kanone와 합작입니다! 저는 주로 멜로디와 전개등 곡의 기초가 되는 부분을 담당했습니다!
+제가 이전의 컨테스트에서 [[VISION]]을 응모한 것도, 거기에 [[SOUL EXPLOSION|폭발]]이 걸린게 계기가 되었기 때문에, 뭔가 인연 참 굉장해! 하며 생각하면서 곡을 만들었습니다.
+즐기시며 플레이해주시면 감사하겠습니다!
+(nora2r)
+
+오랜만입니다! DecisionS의 EXPLOSION 담당 kanone입니다.
+갑작스럽게 합작이라도 해보지 않겠냐는 이야기를 nora2r에게 했는데, 깨끗하게 OK가 나오고 재빠르게 데모가 나와서 놀랐습니다.
+세세한 것은 입으로 설명하기에는 힘들기 때문에, 직접 플레이해주세요!
+이번에도 감사합니다!
+(kanone)
+
+-당선자 코멘트-
+||
+
+자켓의 캐릭터는 [[사운드 볼텍스/캐릭터#세키시_소울|세키시 소울]].
+
+[[youtube(b1yV1f9SIcY, width=420, height=620)]]
+EXH 패턴 얼티밋 체인 영상
+
+초견에 초반의 정신 없는 패턴이나 양쪽 FX 롱노트 고정 이후 바로 오는 직각 노브 같은 패턴 때문에 당황하기 쉽다. 전체적으로 손을 많이 움직여야하는 채보로 클리어는 쉬운 편이나 노브를 놓치거나 초중반과 후반의 살짝 난해한 숏노트 구간으로 인해 스코어링은 꽤 까다로운 패턴. 특히 영상기준 1:08부터 시작되는 한쪽노브고정+한쪽노브돌리기와 잡노트&롱노트처리는 초견에 당황해서 게이지를 쭉쭉 깎아먹기 쉬우니 집중해서 플레이하자. 탈선하기도 쉬워 얼티밋 체인을 달성하는데 은근히 방해되는 요소. 후반의 롱노트 구간은 손이 크다면 여러가지 손배치로 플레이해볼 수 있겠지만 그렇지 않다면 손을 교차하여 직각 노브를 처리하는 게 훨씬 안정적이다.
+== 1 항목의 Extended Mix, 리믹스및 기타 곡으로 만든 음반(INFINITY OVERDRIVE EP) ==
+작곡가들(kanone, nara2r, siromaru, [[RoughSketch]], Yooh)이 이 곡의 여러 리믹스로 음반을 하나 발매했다. 앨범 제목이 곧 곡 제목(...) 2013년 10월 27일에 공표.
+
+{{{#!html
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115142889&amp;color=ff5500&amp;auto_play=false&amp;show_artwork=true"></iframe>
+}}}
+

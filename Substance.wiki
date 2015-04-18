@@ -1,0 +1,38 @@
+|| 장르 |||||||| [wiki:"테크노" TECHNO] ||
+|| 곡명 |||||||| Substance ||
+|| 작곡 |||||||| [[xxdbxx]] ||
+|| 배경 |||||||| [[Xeronion]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 3rd]] ||
+|| BPM |||||||| 142 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}}[* 스트릿 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_s-IZDQufVsE$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=s-IZDQufVsE$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=s-IZDQufVsE$&playLoc=undefined'></embed></object>
+}}}
+
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~]] '''BGA'''
+
+[[목차]]
+== 개요 ==
+[[xxdbxx]]의 테크노 곡으로 다소 가벼운 느낌의 사운드와 중후한 느낌의 선율의 오묘한 조화가 인상적인 곡. 애칭은 발음 그대로 줄여서 섭탱.
+
+== 패턴 ==
+=== 5K STANDARD ===
+5키 난이도는 노멀이 7, 하드가 9이다. 하드는 스크래치를 따닥 따닥 끊듯이 돌려주는 게 많고, 노트도 오묘하게 손이 꼬이는 배치에다가 발판 박자도 많이 헷갈리기 때문에 난이도 8의 곡들 중에서 가장 난이도가 높기로 유명했고 결국 EV에서 9로 올라갔다. 노멀도 스크래치가 상당히 많이 나온다. 스크래치 연습곡으로 좋으며 난이도와 별개로 잘 만든 패턴이다.
+
+EV에서 슈하가 추가되었는데, znpfg 패턴은 아니고 새로 만든 것으로 보인다. 하드를 강화한 느낌의 패턴.
+=== TURNTABLE ===
+이런 5키 하드의 패턴은 턴테이블 모드에서도 빛을 발한다. BE에서 추가되었으며 12레벨인데, 순간 난이도가 매우 높아서 웬만한 처리력이 되지 않으면 간접미스가 많이 일어나게 될 것이다.
+
+== BGA ==
+BGA나 아이캐치에 나오는 운전석의 여자는 모델인 [[안자이 히로코]]의 사진을 보고 그린 그림이다. [http://toez2dj.net/zeroboard/zboard.php?id=c_ez2dj2&no=60888 보러 가자].

@@ -1,0 +1,59 @@
+[[목차]]
+
+== 개요 ==
+http://ecx.images-amazon.com/images/I/314OLcsYkPL.jpg
+싱글음반 자켓...이 아니다! 쟈니스 소속사는 초상권에 엄격해서 음반 판매 사이트에 싱글 자켓이미지조차 싣지 못하게 한다.  그래서 궁여지책으로 가수 이름이 나온 이미지로 대체하는 것.  진짜 자켓은 추가바람.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=80F2E8B940961EBAED34909DE1F3D56A1DE7&outKey=V127baf05709b04f3e45672323493c80ca15f9b5ea40b29e8610772323493c80ca15f" frameborder="no" scrolling="no"></iframe>
+}}}
+PV 영상
+
+일본의 아이돌 [[아라시]]의 18번째 싱글음반이자 타이틀곡.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=35F611656F079A516A974AA1B1F1445AA003&outKey=V12891a6a09099d876088264feef201e046b679b609aace816ffd264feef201e046b6" frameborder="no" scrolling="no"></iframe>
+}}}
+
+[[꽃보다 남자]] 일본드라마 오프닝으로 사용되었다.
+
+훗날 그룹 가수로서는 물론 멤버들의 솔로 활동으로도 일본 최고의 남성 아이돌이 되는 아라시지만, 사실 데뷔 이후 수 년 동안 부진을 면치 못했다. 암흑기 시절에는 후배 그룹인 [[캇툰]]보다 팬덤 규모가 작을 정도로 입지가 좁았다. 그런데 이 곡이 꽃보다 남자의 오프닝으로 사용되면서 인지도가 높아졌고, 그 이후 배우 활동 등 여러 면에서 인기를 높여가면서 국민 아이돌의 자리에 오를 수 있었다.
+
+== [[BEMANI 시리즈]]에 수록 ==
+BEMANI 시리즈에서 커버 보컬로 수록되었다.
+
+=== [[팝픈뮤직]] ===
+{{|
+キミとの思い出は　きっと　ずっと　忘れることはないよ！花の青春ラブストーリがポップンに登場！
+그대와의 추억들은 분명 계속 잊지않을꺼야! 꽃의 청춘 러브스토리가 팝픈에 등장!
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 16[[BR]]PARTY |||| Love so sweet || ♪♪♪♪♪ || SYO[[BR]][[쇼우]] ||
+
+|||||||||||||| [[팝픈뮤직]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|4><:>175 || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} || {{{#blue 5버튼}}} ||
+|| {{{#green 14}}} || {{{#orange 23}}} || {{{#red 29}}} || {{{#blue 12}}} ||
+난이도 체계
+
+=== [[유비트 시리즈]] ===
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>4||<:>6||
+||<#ffffff><:>노트수||<:>151||<:>267||<:>451||
+||<#ffffff><:>BPM||||||<:>139||
+||<#ffffff><:>곡 이력||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#e75050 EXT}}}레벨 1 하락[[BR]][[유비트 플러스]]에서 music pack 18에 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+많이 알려진 곡이지만 워낙 쟁쟁한 다른 곡들이 많아 10위권 안에는 오르지 못하고 있다. [[안습]].
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/R6Qnt29w1u0?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/R6Qnt29w1u0?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+EXTREME EXCELLENT 영상
+
+전체적으로 무난히 즐길 수 있는 곡. EXTREME도 대각선 동시치기만 조심하면 박자가 일정하므로 어렵지 않게 [[엑설런트]]를 찍을 수 있다. 그래서인지 [[유비트 리플즈]]에서는 EXTREME 난이도가 6으로 떨어졌다.
+
+더불어 2013년 12월 기준으로 유비트 소서에 [[기분업업↑↑]]과 함께 유비트 시절부터 단 한번도 삭제되지 않고 현역으로 생존중인 두 라이센스곡중 하나다.

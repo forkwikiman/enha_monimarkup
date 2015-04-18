@@ -1,0 +1,60 @@
+'''冒険者たち'''
+
+[[목차]]
+
+== 일본의 팝가수 [[The Alfee]]의 곡 ==
+=== 개요 ===
+http://ec2.images-amazon.com/images/I/41j4sHQwb-L._AA300_.jpg
+
+{{{#!HTML
+<iframe title="YouTube video player" width="640" height="480" src="http://www.youtube.com/embed/MMi6KVpLwHI" frameborder="0" allowfullscreen></iframe>
+}}}
+원곡 풀버전
+
+[[애니메이션]] [[몬타나 존스]]의 오프닝 테마곡이다. 재즈풍의 멜로디에 애니메이션의 신나는 느낌을 살린 곡. 
+[[한국]]에서도 이 애니메이션이 방영될 때 이 오프닝을 번안한 곡을 사용했다. 자세한 건 [[몬타나 존스]] 항목을 참조.
+
+싱글은 1994년 [[10월 20일]]에 발매되었으며, 오리콘 차트 최고 순위는 8위.
+
+=== [[유비트 플러스]]에 수록 ===
+||||||||||<#2828a0><:>{{{#white jubeat Plus 기준}}}||
+||<|2><#2828a0><:>{{{#white 레벨}}}||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>?||<:>?||<:>?||
+||<#2828a0><:>{{{#white 노트수}}}||||<:>?||<:>?||<:>?||
+||<#2828a0><:>{{{#white BPM}}}||||||||<:>?||
+||<#2828a0><:>{{{#white 곡 이력}}}||||||||[[유비트 플러스]]에서 [[wiki:"The Alfee" THE ALFEE]] pack에 첫 수록||
+
+== [[일본]]의 가수 그룹 [[Do As Infinity]]의 11번째 싱글 및 그 표제곡 ==
+=== 개요 ===
+http://g-ecx.images-amazon.com/images/G/09/ciu/46/b7/5a67d0920ea029df6553f110.L._AA300_.jpg
+
+2001년 9월 5일에 발매되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/OiBzSms8RNo" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상. PV에서 가수 주변의 불은 CG가 아닌 '''진짜 불'''이다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/LJOErtrqgQU" frameborder="0" allowfullscreen></iframe>
+}}}
+일본의 샴푸 LAVENUS의 CM송으로도 사용되었다.
+
+=== [[유비트 시리즈]]에 수록 ===
+||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>4||<:>6||
+||<#faca00><:>노트수||<:>181||<:>309||<:>493||
+||<#faca00><:>BPM||||||<:>176||
+||<#faca00><:>곡 이력||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#f68a1f ADV}}}레벨 1 하락, {{{#e75050 EXT}}}레벨 1 하락[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/FimauKjFl8c?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/FimauKjFl8c?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXTREME 보면 영상
+
+동시치기가 많이 나오는 배치. 후렴구의 모서리 번갈아 치기가 헷갈리기 쉬우니 주의하자. 마지막 노트는 싱크가 약간 어긋나 있어서 [[엑설런트]]를 노리는 플레이어라면 반드시 유념해야할 부분이다.

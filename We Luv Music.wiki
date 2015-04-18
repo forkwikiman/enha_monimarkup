@@ -1,0 +1,88 @@
+[[목차]]
+
+|| 장르 |||||||| Big House ||
+|| 곡명 |||||||| We Luv Music ||
+|| 작곡 |||||||| [[전준규]] ||
+|| 작사/보컬 |||||||| Mario Bolden ||
+|| 배경 |||||||| [[Xeronion]] ||
+|| 최초 수록버전 |||||||| [EZ2DJ 2nd][[BR]][wiki:"EZ2Dancer" EZ2Dancer The 1stMOVE] ||
+|| BPM |||||||| 139 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 5}}} || {{{#red 6}}} || {{{#purple 8}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 9}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube-nocookie.com/embed/kPAv9R49u40" frameborder="0" allowfullscreen></iframe>}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+== 개요 ==
+[[EZ2Dancer]]의 곡. 이지투댄서의 텔레비전 광고에 배경 음악으로 사용되기도 하였다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/3Lztn2al2Ic&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3Lztn2al2Ic&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+이지투디제이 시리즈에는 [[EZ2DJ DANCE EDITION VOLUME ONE]]를 통해 이식될 예정이었지만 DE의 개발 중단에 따라 2nd에서 이식되었다.
+
+BGA 제작자인 XERONION은 제작과 관련된 비화를 트위터 답변을 통해 밝히기도 했다.[https://twitter.com/xeronion/status/184663432212135936 링크]
+
+OST판에서는 아케이드 판에 없던 랩 파트가 추가되어 있다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+난이도는 세컨드 기준으로 노멀 5, 하드 6. [[Stay]]의 후속곡답게(?) 이곡도 발판이 복병이기도 하였던 곡이였다. 손과 발이 따로 안 움직이던 사람에게는 참 곤란했던 곡.
+
+EV 1.50에서 슈하가 새로 생겼다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+2nd 당시부터 있었던 스페믹 원년 멤버. 대부분의 파트는 이펙터 따로, 건반부 따로 나오지만 단발적으로 이펙터와 건반부를 동시에 처리해야 하는 부분이 있어, 입문하고 난 후의 유저들이 스페믹 특유의 조작감을 익히기 좋다.
+
+== EZ2ON에서의 We Luv Music ==
+밑 영상은 [[EZ2ON]]에 들어간 6KEY SHD이다. 
+
+{{{#!HTML
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/DQpsAuEtayk&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DQpsAuEtayk&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+== 가사 ==
+||Music, Funky music, Hello music, Funky music
+We've got music (We've got music), Funky music (funky funky funky),
+Hello music (Hello music), Funky music (funky funky funky)
+
+STOP
+
+(Rappin' Adlib)
+
+I'm feeling that I can't explain after more weaken
+The music started making they got me all in a dizzy
+And again it feels so good, can't explain-
+
+Music, Funky music, Hello music, Funky music
+We've got music (We've got music), Funky music (funky funky funky),
+Hello music (Hello music), Funky music (funky funky funky)
+
+Higher, baby Higher, baby Higher, baby to the very last stop come on
+Higher, baby Higher, baby Higher, baby don't stop don't stop come on
+
+I'm feeling that I can't explain after more weaken
+The music started making they got me all in a dizzy
+And again it feels so good, can't explain-
+
+Music, Funky music, Hello music, Funky music
+We've got music (We've got music), Funky music (funky funky funky),
+Hello music (Hello music), Funky music (funky funky funky)||

@@ -1,0 +1,31 @@
+ * 본 항목은 [[BEMANI 시리즈]] 수록곡을 소개하고 있습니다. 밀턴의 시에 대해서는 [[실낙원]]을, 다른 'paradise lost'에 대해서는 [[파라다이스 로스트]] 항목을 참고하세요.
+
+|||||||||||||||| [[WORLD TOUR]] ||
+|| [Breaking the ground] || [LIFE SCROLLING] || [Hardcore Mania] || [Kailua] ||
+|| [THE BLACK KNIGHT] || [Let The Track Flow] || '''PARADISE LOST''' || [perditus†paradisus] ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/7_o23x_08Uw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/QOCWrZQI3L0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 200  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 7}}} || {{{#blue 726}}} || {{{#orange 11}}} || {{{#orange 1217}}} || {{{#red 12}}} || {{{#red 1718}}} || {{{#blue 7}}} || {{{#blue 689}}} || {{{#orange 10}}} || {{{#orange 1106}}} || {{{#red 12}}} || {{{#red 1820}}} ||
+
+ * [[롱노트|차지 노트]] 채용
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 18 Resort Anthem|18 Resort Anthem]] ~
+
+[[Ryu☆]]과 [[L.E.D.]](L.E.D.-G 명의)의 합작곡이며 장르는 트랜스 코어다. 모티브가 된 지역은 [[네덜란드]]. 아마도 '''로테르담 테크노'''의 느낌도 있어서[* 실제로 Ryu☆는 청룡 명의로 호소에 신지와 같이 동 장르의 곡인 [[VOX UP]]을 내놓았다.] 그런 것 같다.
+
+전체적으로는 [[EXUSIA]]의 강화판, [[EXUSIA]]의 후살이 일정 구간마다 나오는 정도다. 중반 쉬는구간 돌입전 스크래치+트릴 배치와 [[후살]]이 까다로워, 하드클리어 난이도로는 [[Bad Maniacs]],[[MENDES]]와 비슷한 난이도이다. 차지노트가 적극 사용되었기에 랜덤이 잘못 걸리면 차지노트와 일반노트가 아름답게 꼬여 그야말로 대략난감해진다.
+
+싱글 하이퍼 채보는 처음 나왔을 때 난이도가 10이었지만, 1번키의 연타가 잦고 후살 속성도 미미하게 들어가있어 레벨 10 사기곡이라는 소리를 들었다. 그때문인지 이후 [[beatmania IIDX 20 tricoro|20 tricoro]]에서 11로 상승했다.
+
+하지만 이보다 더 무서운 건 더블 어나더. tricoro 가동 시점에서 클리어 레이트가 [NEMESIS], [[QUANTUM TELEPORTATION]]과 똑같은 4%일 정도의 극악의 포스를 자랑한다.
+
+[[Ryu☆]] 4집 [[Sakura Luminance]]에 Extended Mix가 수록되었다.

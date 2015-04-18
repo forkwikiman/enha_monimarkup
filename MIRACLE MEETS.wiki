@@ -1,0 +1,50 @@
+[[목차]]
+== [[비트매니아 IIDX]] ==
+{{{#!html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s0t0VOuI9ms" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 160  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 6}}} || {{{#blue 488}}} || {{{#orange 9}}} || {{{#orange 807}}} || {{{#red 11}}} || {{{#red 1128}}} || {{{#blue 6}}} || {{{#blue 471}}} || {{{#orange 9}}} || {{{#orange 857}}} || {{{#red 10}}} || {{{#red 1051}}} ||
+
+ * [wiki:"롱노트" 차지 노트 & 백스핀 스크래치] 채용 
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : [[wiki:"비트매니아 IIDX 17 SIRIUS" 17 SIRIUS]]~
+
+작곡가는 Lucky Vacuum으로, [[DJ YOSHITAKA]]가 해피계 악곡을 작곡할 때 사용하는 명의이다. 장르는 '브치아게 트랜스'(BUCHIAGE TRANCE)지만 곡은 버블검 [[유로댄스]]에 가깝다.[* 브치아게 트랜스라는 건 Victor에서 발매하던 컴필레이션 음반의 이름이다. [[Ryu☆]]이 [[So Fabulous !!]] 등에 '브치아게 트랜스'라는 장르명을 붙이면서 마치 브치아게 트랜스가 호도하였는데 장르 이름은 아니다.]
+
+[[BGA]]는 IIDX 6th [wiki:"하드코어 테크노#s-3.1"레이브] [[범용 BGA]]를 사용했다가 BGA DVD 박스세트에서 'Keep it'과 함께  특전 영상으로 전용 BGA가 등장. [[비트매니아 IIDX 19 Lincle]]에서 범용 BGA 대신 전용 [[BGA]]가 배정되었다. --BGA가 혼자 [[wiki:"비트매니아 IIDX 16 EMPRESS"퀸투덱]]이다--
+
+[wiki:"롱노트" 차지 노트 & 백스핀 스크래치]가 도입된 IIDX 17에 같은 작곡가가 투고한 [[Elisha]]처럼 차지 노트를 적극적으로 활용한 곡으로, 모든 난이도에 차지 노트와 백스핀 스크래치가 채용되었으며, 모든 보면이 차지 노트를 동반한 동시치기가 간간히 일반 노트와 섞여 나오는 형식이다. 어나더 보면에서 특히 주의해야 할 점은 중반부부터 '''총 8번 나오는 백스핀 스크래치'''와 동시치기의 종합 패턴인데, 여기서 백스핀에 익숙하지 못한 유저라면 게이지를 왕창 깎아먹을 수 있으며, 특히 하드게이지 플레이 시 가장 조심해야 할 구간이다. --[http://www.youtube.com/watch?v=Hlg3d2fqGHQ 더불어 윈도우홀드 + 하드게이지를 걸면 매우 높은 확률로 망하는 곡이기도 하다]-- --[http://youtu.be/W9sKROFFPyk 할려면 할수는 있다.]--
+
+=== 아티스트 코멘트 ===
+{{|■Sound / Lucky Vacuum
+
+내 매일 매일은 대안길일(大安吉日)!!
+안녕하십니까. Lucky Vacuum입니다.
+
+제작 말기에 서둘러 만든데 비해선 의외로 마음에 듭니다.
+CN 탑재로 같은 리프에서도 뭔가 즐거운 현상을 보기 좋게 실현했습니다.
+
+물론 CN＆BSS용으로 새로 쓴 곡이므로 BSS를 돌릴 땐 Lucky를 Vacuum 할 생각으로 스핀 해봅시다.
+그리고 「HEY!」의 타이밍을 완벽하게 마스터해서 Live 때 「축제 점프」를 함께 해봅시다.|}}
+
+== [[리플렉 비트]] ==
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/THy3JUcPlio?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/THy3JUcPlio?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+하드 패턴 영상.
+
+|||||||||||||| [[REFLEC BEAT]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 160 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 135}}} || {{{#orange 274}}} || {{{#red 573}}} ||
+|| 수록버전 ||||||||<#82eb5a> [리플렉 비트 라임라이트]||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 27 ||
+
+2012년 7월 27일 업데이트로 추가되었다. [[리플렉 비트 콜레트]] 수록곡이나, [[wiki:"리플렉 비트 라임라이트"라임라이트]]에 업데이트로 선행 수록.
+
+채보를 한 마디로 요약하면 '''[[Elisha]] 시즌 2.''' IIDX에서의 채보와 대단히 유사한 구성을 가지고 있다. 따라서 롱오브젝트가 상당히 적극적으로 활용된 채보. 롱노트 홀딩+일반 노트 처리와 엇박이 꽤 많이 나와서 난이도는 꽤 어렵지만, 전체적인 박자는 곡을 따라가는 편이므로 익숙해지면 높은 점수를 뽑아낼 수 있을 것이다. 다만 중반부의 24분박 트릴은 주의해야 한다.

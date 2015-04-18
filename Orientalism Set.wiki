@@ -1,0 +1,25 @@
+[[목차]]
+== [DJMAX TECHNIKA] 시리즈의 세트 ==
+[[DJMAX TECHNIKA 3]]에서 추가된 디스크셋 중 하나.
+난이도는 Hard Performance.
+=== [DJMAX TECHNIKA 3] ===
+==== 수록곡 일람 ====
+
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고/출현조건||
+||1||5||House Pop||[[In My Heart]]||[[Tsukasa]]||123||MX||'''세트 전용''', 일본어 버전||
+||2||6||Irish Dance||[[Emblem]]||[[makou]]||240||NM|| ||
+||3||7||Gabber||[[Bamboo on Bamboo]]||[wiki:"호소에 신지"Sampling Masters MEGA]||200||NM||※개인차 있음||
+||4||7||Slash Core||[[XLASHER]]||[wiki:"호소에 신지"Hosoe Sinji]||160||HD|| ||
+||5||7||Artcore||[[The Clear Blue Sky]]||[[Tsukasa]]||178||HD||'''세트 전용''', 일본어 버전||
+||6||8||Euro Dance||[[Ready Now]]||[[Ruby Tuesday]]||135||MX||※세트내 [[지뢰곡]]||
+||B1||7||Progressive House||[[Gone Astray]]||[[makou]]||140||HD||선택곡 3곡 번호합 < 12||
+||B2||8||Ani Pop||[wiki:"Over The Rainbow(DJMAX)" Over The Rainbow]||[[Tsukasa]]||190||HD||선택곡 3곡 번호합 ≥ 12||
+
+==== 설명 ====
+[[Tsukasa]], [[호소에 신지]], [[makou]], [[Ruby Tuesday]]가 주축이 된 세트이다. 이들이 일본인이라는 것이 공통점. --같은 일본인인 [cranky]와 [bermei.inazawa]는 버림받았다.-- 하지만 정작 곡 자체의 분위기가 [[오리엔탈리즘|동양적]]인 곡은 없기 때문에 세트 이름이 영 맞지 않는다는 의견이 있다.[* 테크니카 내에서 동양적인 분위기의 곡을 꼽자면 [[wiki:"Fate~運命~"Fate]]가 있긴 하지만, 이 곡은 작곡가가 한국 사람인지라...]--작곡가들이 동양인이면 다냐?-- 또한 셀렉곡들 중 츠카사의 곡인 In My Heart와 The Clear Blue Sky는 Over the Rainbow를 따라, 영어가 아닌 일어보컬 버전이 '''세트 전용'''으로 실렸다.[* 둘 다 팝믹싱에서는 영어 보컬로 나온다. 따라서 일본어 보컬 버전은 맥스샵에서 구입 불가.] 훗날 공개된 [[Sound Lab Set]][* 펜타비전 소속자들의 곡만으로 이루어진 세트.]과 대조되는 것도 하나의 특징...이지만 [wiki:"Supersonic 2011" 세트 전용 곡]이 들어간 건 같다.
+
+이들 중 지뢰는 [[Ready Now]] MX패턴, 레벨 8에 걸맞게 손 꼬이는 배치로 악명이 높았던 만큼 이 패턴을 제대로 견디느냐에 따라 순위가 갈릴 가능성이 높다. [[Bamboo on Bamboo]] NM패턴도 의외의 지뢰로, 개버 특유의 빠른 BPM과 손 꼬이는 패턴이 맞물려 바로 옆의 [[XLASHER]]를 능가하고 있다.
+
+첫 플레이는 [[In My Heart]] - [[Emblem]] - [[XLASHER]] 또는 [[The Clear Blue Sky]]를 넣고 [[Gone Astray]]를 플레이하는 것을 추천하지만, [[Gone Astray]]도 박자가 꽤나 애매한지라 팝믹싱에서 충분히 연습하고 오는 것을 권장한다. 그리고 어느 정도 실력이 쌓였다면 [[Bamboo on Bamboo]] - [[XLASHER]] 또는 [[The Clear Blue Sky]] - [[Ready Now]] 코스로 [wiki:"Over The Rainbow(DJMAX)" Over The Rainbow]의 플레이를 추천.
+=== 관련 항목 ===
+ * [DJMAX TECHNIKA 3/데이터]

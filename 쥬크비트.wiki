@@ -1,0 +1,333 @@
+'''Jukebeat'''
+
+[[목차]]
+
+== 개요 ==
+[[유비트 시리즈]]의 북미판과 동시에 [[유비트 플러스]]의 [[세계구]] 버전 명칭.
+
+== 상세 ==
+=== 아케이드판 쥬크비트 ===
+
+초기 가동 시절, 북미 지역에서 처음엔 'UBeat'라는 이름으로 [[유비트]]의 로컬라이징 버전이, 이후에는 주크비트라는 이름으로 [[유비트 리플즈]]의 로컬라이징 버전이 테스트되었지만, 둘 다 소리소문도 없이 잊혀졌다. 특히 주크비트 로케테스트 당시 인컴률이 좋지 않았는지 이후 정식발매로 이어지지는 않았다. 이후 [[유비트 니트]]부터는 아케이드 게임으로 서양권을 공략하지 않게 되었다.
+
+[[유비트 리플즈]] 항목에도 있지만 신곡 선곡이 아주 대박이었다. [[Take on me]]와 같은 유명 팝도 있지만, 무엇보다도 [[wiki:"You spin me round" 고기 돌리는 곡]]으로 한방에 종결(……)
+
+이후 그렇게 서양권에 유비트가 더 이상 소개되지 않았나 싶었건만….
+
+=== iOS용 어플리케이션 쥬크비트 ===
+2011년 8월, 북미 앱스토어를 통해 일본 앱스토어의 [[유비트 플러스]]를 북미판으로 바꾸면서 이 명칭으로 재등장했다. 그리고 2012년 11월 일본 앱스토어를 제외한 전세계 앱스토어에 공개. 기본적으로 [[유비트 플러스]]와 판박이고, 2.5.0 버전때 지원했던 리플즈 테마도 존재한다. 2.5.0.에서 공지가 되지 않았지만 적용되었던 다중언어 전환은 이걸 포석으로 진행된듯 하다.
+
+당연하지만 별개의 어플리케이션이라 [[유비트 플러스]]와는 기록 관리가 별도로 이루어지며, 그 외의 특징은 완전히 일치. 즉 [[아이폰]]과 [[아이패드]]는 또 따로 리더보드가 관리된다. 
+
+원본인 [[유비트 플러스]]와의 차이점은 어플리케이션 실행시 타이틀 화면에서 쥬크비트에서는 타이틀을 불러주는 성우의 목소리가 삭제되었다는 점과 '''여러 문제로 수록곡이 많이 갈렸다는점'''이다. 어플리케이션 다운로드시 기본적으로 제공한 3곡이 다른데다가 북미판 오리지널이며, 이미 유비트 스토어에서도 북미판 전용 라이센스곡이 따로있다. 가격은 기본적으로 3.99 USD 로 책정되었으며, 유비트 플러스처럼 코나미 오리지널 곡의 music pack도 나온다. 차이점이 수록곡정도밖에 없으므로 이 어플리케이션에 대한 정보는 [[유비트 플러스]]항목 참조.
+
+그리고 뜬금없이 2012년 11월 27일에 북미 이외의 앱스토어에 (한국을 포함해서) 출시가 되었다. 수록곡은 북미 버전과 동일하다. ~~즉 코나미 오리지널을 제외하면 괴랄한 아티스트 팩들만 존재~~ 이 때문에 차라리 유비트 플러스를 출시하라는 의견도 있었지만, [[wiki:"유비트 소서" 그 이전]]에 [[wiki:"천본앵(흑토끼P)" 천본앵]] 하나 때문에 [[wiki:"게임물등급위원회" 완전히 물건너갔다]].
+
+==== 수록곡 ====
+ * 난이도 분류와 같은 자세한 항목은 [[유비트 시리즈/수록곡]] 을 참 고
+ * 안드로이드 버전의 수록곡은 [[유비트 플러스/수록곡/안드로이드]] 참고
+ * iOS 버전의 수록곡은 [[유비트 플러스/수록곡/iOS]] 참고
+
+쥬크비트도 [[유비트 플러스]]와 같이 4개의 곡을 묶어 팩으로 판매한다. 북미판만의 오리지널 라이센스곡들이 있으며, 이는 반대로 일본곡들은 북미판에서 못할 가능성도 충분히 있다. music pack 같은 경우 상당수 겹칠수도 있다. 수록곡 정리는 유비트 뮤직 스토어에 있는 그대로 기록이 된다.
+
+유니버설 어플리케이션 설정상 수록곡 팩을 한번만 구입하면, [[아이패드]]/[[아이폰]]/[[아이팟 터치]]에서 차후엔 추가 구입없이 구입했던 팩들을 전부 사용할 수 있다.
+
+난이도 분류와 같은 자세한 항목은 [[유비트 시리즈/수록곡]]을 참고
+
+==== 수록곡 팩 수와 총 가격 ====
+수록곡 팩 수 : 10개
+수록곡 (무료곡 포함) : 43곡
+수록곡 팩 총가격 : $39.9 (2011년 11월 15일 기준 ~ 44,967 원)
+[[TBS]] 만점 : 129,000,000
+
+==== 수록곡 양식 ====
+수록곡들을 정리와 구입을 돕는 차원에서 이와 같은 양식을 따르도록 하겠다.
+ * {{{#green '''음악 pack 이름'''}}} - 출시일(년월일) <가격>
+  * 곡명1 - 아티스트
+  * 곡명2 - 아티스트
+  * 곡명3 - 아티스트
+  * 곡명4 - 아티스트
+
+유비트 플러스/쥬크비트 수록곡들중에는 아티스트가 기록되어 있지 않은 곡들이 많다. 유비트 플러스/쥬크비트에 따라 게임 수록곡에 아티스트가 명시되어 있지 않다면 {{{#red '''♪♪♪♪♪'''}}}[* 보컬 라이센스 곡에 아티스트 표기가 되어있는 않은 곡은 커버보컬인 케이스가 많다.~~팝픈 생각나는건 기분탓~~] 기호로 대체한다. 자세한 수록곡의 아티스트 정보는 [[유비트 시리즈/수록곡]]을 참고. 가격은 미국 달러 기준이다.
+
+=== 수록곡 리스트[* 참고 : http://vjarmy.com/wiki/index.php/Jukebeat] ===
+ * {{{#green '''Default pack'''}}} - 2011년 8월 10일 출시 <무료 - 메인 어플리케이션>
+  * Dense Forest Battle - ♪♪♪♪♪[* [[콘트라]] 1스테이지 BGM을 리믹스한 곡.]
+  * Frogger's Song - ♪♪♪♪♪
+  * LETHAL ENFORCERS Medley - ♪♪♪♪♪
+
+ * {{{#green '''KONAMI music pack 01'''}}} - 2011년 8월 10일 <3.99 USD>
+  * [[FLOWER]] - [[DJ YOSHITAKA]]
+  * [[Prophet Vibe]] - [[wiki:"후지모리 소타" Sota Fujimori]] feat. Calin
+  * [[wiki:"うらもからだも落花微塵" URA MO KARADA MO RAKKAMIJIN]] - Nanako
+  * [[wiki:"コイノチカラ" KOI NO CHIKARA]] - Kumiko Ishizaka
+
+ * {{{#green '''KONAMI music pack 02'''}}} - 2011년 8월 10일 <3.99 USD>
+  * [[STELLAR WIND]] - [[L.E.D.]]
+  * [[IN THE NAME OF LOVE]] - Y&Co. feat. Erica
+  * [[Crosswind]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[Happy Happy]] - ki☆ki
+
+ * {{{#green '''Strung Out pack'''}}} - 2011년 8월 10일 <3.99 USD>
+  * Matchbook - Strung Out
+  * Analog - Strung Out
+  * Calling - Strung Out
+  * Black Crosses - Strung Out
+
+ * {{{#green '''Strike Anywhere pack'''}}} - 2011년 8월 10일 <3.99 USD>
+  * Chalkline - Strike Anywhere
+  * Infrared - Strike Anywhere
+  * Instinct - Strike Anywhere
+  * Failed State - Strike Anywhere
+
+ * {{{#green '''KONAMI music pack 03'''}}} - 2011년 8월 27일 <3.99 USD>
+  * [[Polaris]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[TRUE♥LOVE]] - jun feat. Schanita 
+  * [[wiki:"スペースカーニバル" Space Carnival]] - shooting star
+  * [[concon]] - [[wiki:"숏쵸" S-C-U]]
+
+ * {{{#green '''Mamas Gun pack'''}}} - 2011년 8월 27일 <3.99 USD>
+  * House on a Hill - Mamas Gun
+  * Finger on It - Mamas Gun
+  * Reconnection - Mamas Gun
+  * Rocket to the Moon - Mamas Gun
+
+ * {{{#green '''KONAMI music pack 04'''}}} - 2011년 10월 4일 <3.99 USD>
+  * [[Slang]] - [[wiki:"나카무라 코조" Kozo Nakamura]]
+  * [[eyes]] - [[wiki:"오노 히데유키" Hideyuki Ono]]
+  * [[ECO FIGHTER]] - [[wiki:"이리오 노부미츠" Nobumitsu Irio]]
+  * [[AIR RAID FROM THA UNDAGROUND]] - [[GUHROOVY]]
+
+ * {{{#green '''Rise Against pack'''}}} - 2011년 10월 4일 <3.99 USD>
+  * Prayer of the Refugee - Rise Against
+  * The Good Left Undone - Rise Against
+  * Savior - Rise Against
+  * Help Is On the Way - Rise Against
+
+ * {{{#green '''KONAMI music pack 05'''}}} - 2011년 11월 15일 <3.99 USD>
+  * [[wiki:"凛として咲く花の如く" RIN TOSHITE SAKU HANA NO GOTOKU]] - [[wiki:"TOMOSUKE" BENIIRO LITMUS]]
+  * [[Macuilxochitl]] - [[TOMOSUKE]]
+  * [[Lead Me]] - SHOGO
+  * [[fellow]] - [[wiki:"핑크터보" Pink Turbo]]
+
+ * {{{#green '''NACANO pack'''}}} - 2011년 11월 15일 <3.99 USD>
+  * REMEMBER - NACANO
+  * IMTA - NACANO
+  * DANCE IS LOVE - NACANO
+  * HIGHER LOVE - NACANO
+
+ * {{{#green '''NINJAMAN-JAPAN pack'''}}} - 2011년 11월 24일 <3.99 USD>
+  * Theme of NINJAMAN-JAPAN - NINJAMAN-JAPAN
+  * -SHINOBI- - NINJAMAN-JAPAN
+  * Onmitsu Dancers - NINJAMAN-JAPAN
+  * Never Give Up! - NINJAMAN-JAPAN
+
+ * {{{#green '''Lady Gaga pack'''}}} - 2011년 11월 24일  <3.99 USD>
+  * Just Dance - Lady Gaga
+  * Poker Face - Lady Gaga
+  * Bad Romance - Lady Gaga
+  * Born This Way - Lady Gaga
+
+ * {{{#green '''KONAMI music pack 06'''}}} - 2011년 11월 24일 <3.99 USD>
+  * [[wiki:"I love マミー" I love mammy]] - Yoko Aramaki
+  * [[Evans]] - [[DJ YOSHITAKA]]
+  * [[In Scottish Highlands]] - Thomas Howard Lichtenstein
+  * [[Love ♡ km]] - [[dj TAKA]] feat. Ren
+
+ * {{{#green '''KONAMI music pack 07'''}}} - 2011년 11월 24일<3.99 USD>
+  * [wiki:"AREA 51(비마니 시리즈)" AREA 51] - [[96]]
+  * [[KUNG-FU MAMA]] - [wiki:"무라이 세이야" seiya-murai] feat.ALT
+  * [[STREET DANCER]] - SILKY F
+  * [[wiki:"キルト" Quilt]] - [[wiki:"Des-ROW" Des]]-[[Sana]]+[[wiki:"wac" w]][[wiki:"PON" p]][[wiki:"TOMOSUKE" t]][[wiki:"96" 9]]
+
+ * {{{#green '''KONAMI music pack 08'''}}} 2011년 12월 20일<3.99 USD>
+  * [[Special One]] - kors k feat. Suzuyo Miyamoto
+  * [[coming true]] - GUHROOVY Vs. L.E.D.
+  * [[Russian Snowy Dance]] - Mutsuhiko Izumi
+  * [[wiki:"さよならトリップ" SAYONARA TRIP]] - [[Dormir]]
+
+ * {{{#green '''KONAMI music pack 09'''}}} 2011년 12월 20일<3.99 USD>
+  * [[wiki:"隅田川夏恋歌" SUMIDAGAWA KARENKA]] - seiya-murai feat.ALT
+  * [[Shining Wizard]] - [[96]]
+  * [[Jailbreak]] - Kozo Nakamura
+  * [[wiki:"愛と勇気の三度笠ポン太" Sandogasa Ponta Extra 1]] - Yoko Aramaki
+
+ * {{{#green '''Cyndi Lauper pack'''}}} 2011년 12월 20일<3.99 USD>
+  * All Through the Night - Cyndi Lauper
+  * Girls Just Wanna Have Fun - Cyndi Lauper
+  * Money Changes Everything - Cyndi Lauper
+  * She Bop - Cyndi Lauper
+
+ * {{{#green '''Gloria Estefan pack'''}}} 2011년 12월 20일<3.99 USD>
+  * 1-2-3 - Cyndi Lauper
+  * Bad Boy - Cyndi Lauper
+  * Dr. Beat - Cyndi Lauper
+  * Rhythm is Gonna Get You - Cyndi Lauper
+
+ * {{{#green '''KONAMI music pack 10'''}}} 2012년 1월 30일<3.99 USD>
+  * [[Shining Star]] - Sota Fujimori feat.Nagisa
+  * [[SWEET ANGEL]] - Motoaki Furukawa
+  * [[wiki:"少年リップルズ" KID R]] - [[wiki:"토키와 유우" Yu Tokiwa]]
+  * [[I'm so Happy]] - [[Ryu☆]]
+
+ * {{{#green '''Bad Religion pack'''}}} 2012년 1월 30일<3.99 USD>
+  * Infected - Bad Religion
+  * Los Angeles is Burning - Bad Religion
+  * Punk Rock Song - Bad Religion
+  * Sorrow - Bad Religion
+
+ * {{{#green '''TLC pack'''}}} 2012년 1월 30일<3.99 USD>
+  * Diggin On You - TLC
+  * Get It Up - TLC
+  * Silly Ho - TLC
+  * Waterfalls - TLC
+
+ * {{{#green '''KONAMI music pack 11'''}}} 2012년 2월 27일<3.99 USD>
+  * [[GIGA BREAK]] - 96
+  * [[Jumping Boogie]] - Kozo Nakamura
+  * [[wiki:"STARLIT DUST" STARLIT DUST/For the Late Still Wind]] - Des-ROW + ANT
+  * [[Sweet Rain]] - Y&Co. feat. Karin
+
+ * {{{#green '''KONAMI music pack 12'''}}} 2012년 3월 12일<3.99 USD>
+  * [[Icicles]] - [[Jimmy Weckl]]
+  * [[Snow Goose]] - [wiki:"이즈미 무츠히코"Mutsuhiko Izumi]
+  * [[ALBIDA]] - [[DJ YOSHITAKA]]
+  * [[Shine On Me]] - [[kors k]]
+
+ * {{{#green '''Culture Club pack'''}}} 2012년 3월 26일<3.99 USD>
+  * Do You Really Want To Hurt Me? - Culture Club
+  * It's A Miracle - Culture Club
+  * Karma Chameleon - Culture Club
+  * Time (Clock Of The Heart) - Culture Club
+
+ * {{{#green '''KONAMI music pack 13'''}}} 2012년 4월 13일 <3.99 USD>
+  * [[wiki:"恋のメリーゴーランド" MERRY-GO-ROUND]] - Kumako
+  * [[Ready Go!!]] - Yoko Aramaki
+  * [[ALL MY HEART]] - SUPER HEROINE AYAKA
+  * [[Far east nightbird]] - [wiki:"猫叉Master"Nekomata-Master]
+
+ * {{{#green '''Duran Duran Pack'''}}} 2012년 4월 23일 <3.99 USD>
+  * All You Need Is Now - Duran Duran
+  * Girl Panic! - Duran Duran
+  * Ordinary World - Duran Duran
+  * The Reflex - Duran Duran
+
+ * {{{#green '''Toto Pack'''}}} 2012년 5월 1일 <3.99 USD>
+  * 99 - Toto
+  * Africa - Toto
+  * Child's Anthem - Toto
+  * Mushanga - Toto
+
+ * {{{#green '''KONAMI Music pack 14'''}}} 2012년 5월 7일 <3.99 USD>
+  * [[Chance and Dice]] - Japanese Boy
+  * [[Green Green Dance]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+  * [[Queen's Paradise]] - Nanako
+  * [[SigSig]] - [[kors k]]
+
+ * {{{#green '''Miley Cyrus pack'''}}} 2012년 5월 21일 <3.99 USD>
+  * 7 Things - Miley Cyrus
+  * Can't Be Tamed - Miley Cyrus
+  * Fly On The Wall - Miley Cyrus
+  * Start All Over - Miley Cyrus
+
+ * {{{#green '''KONAMI Music pack 15'''}}} 2012년 6월 4일 <3.99 USD>
+  * [[bass 2 bass]] - [[Ryu☆]]
+  * [[Good-bye Chalon]] - [[wiki:"猫叉Master" Nekomata-Master]]
+  * [[INVISIBLE WORLD]] - SILKY F
+  * [[Theory of Eternity]] - [[TAG]]
+
+ * {{{#green '''Richard Marx pack'''}}} 2012년 6월 18일 <3.99 USD>
+  * Don't Mean Nothing - Richard Marx
+  * Right Here Waiting - Richard Marx
+  * Should've Known Better - Richard Marx
+  * Take This Heart - Richard Marx
+
+ * {{{#green '''KONAMI Music Pack 16'''}}} 2012년 7월 9일 <3.99 USD>
+  * [[wiki:"あいのうた" AI NO UTA]] - [[wiki:"코에즈카 요시히코" YOSHIHIKO KOEZUKA]]
+  * [[wiki:"量子の海のリントヴルム" LINDWURM]] - [[wiki:"TOMOSUKE" Black Cat Labyrinth]]
+  * [[polygon]] - [[wiki:"후지모리 소타" Sota Fujimori]]
+  * [[wiki:"流砂の嵐" Storm of Quicksand]] - [[wiki:"극단레코드" Gekidan Record]]
+
+ * {{{#green '''Blondie Pack'''}}} 2012년 7월 27일 <3.99 USD>
+  * Call Me - Blondie
+  * Hanging On The Telephone - Blondie
+  * Heart Of Glass - Blondie
+  * One Way Or Another - Blondie
+
+ * {{{#green '''KONAMI Music Pack 17'''}}} 2012년 8월 10일 <3.99 USD>
+  * [[wiki:"THIS NIGHT (jubeat EDITION)" THIS NIGHT (jukebeat EDITION)]] - [[TЁЯRA]]
+  * [[WONDER WALKER]] - [[L.E.D.]]
+  * [[yellow head joe]] - [[wiki:"숏쵸" S-C-U]]
+  * [wiki:"%5BE%5D" [E] ] - [[wiki:"후지모리 소타" dj MAX STEROID]]
+
+ * {{{#green '''Ray Parker Pack'''}}} 2012년 8월 20일 <3.99 USD>
+  * Ghostbusters - Ray Parker Jr.
+  * It's Time To Party Now - Ray Parker Jr.
+  * Jamie - Ray Parker Jr.
+  * Still In The Groove - Ray Parker Jr.
+
+ * {{{#green '''Sana Pack'''}}} 2012년 9월 3일 <3.99 USD>
+  * Bossa de Sana 2001 - Togo project feat.Sana
+  * Custom-made Girl -NOT FOR SALE!- - Togo project feat.Sana
+  * Miracle Moon ~The Moon is a Relay Station~ - Togo project feat.Sana
+  * SANA MOLETTE NE ENTE (B.L.T.sandwitch style) - Togo project feat. Sana
+
+ * {{{#green '''KONAMI Music pack 18'''}}} 2012년 9월 18일 <3.99 USD>
+  * [[Starlight Parade]] - [[wiki:"코에즈카 요시히코" Yoshihiko Koezuka]]
+  * [[HEAVENLY MOON]] - [[Tatsh]]
+  * [[TWINKLE♡HEART]] - [[jun]]
+  * [[532nm]] - [[Ryu☆]]
+
+ * {{{#green '''Earth, Wind & Fire Pack'''}}} 2012년 10월 3일 <3.99 USD>
+  * Boogie Wonderland - Earth, Wind & Fire
+  * Jupiter - Earth, Wind & Fire
+  * Let's Groove - Earth, Wind & Fire
+  * September - Earth, Wind & Fire
+
+ * {{{#green '''KONAMI Music pack 19'''}}} 2012년 10월 22일 <3.99 USD>
+  * [[wiki:"アルストロメリア" Alstroemeria]] - [[TAG]]
+  * [[electro peaceful]] - [[Mr.T]]
+  * [[FRIENDSHIP]] - [[PON]]
+  * [[Red Goose]] - [[wiki:"이즈미 무츠히코" Mutsuhiko Izumi]]
+
+ * {{{#green '''Suikoden pack'''}}} 2012년 11월 9일 <3.99 USD>
+  * Currents ～Op.Theme～ - Suikoden sound team
+  * Opening～Reminiscence - Suikoden sound team
+  * To the world of Illusion - Suikoden sound team
+  * The Dahak's Departure - Nekomata-Master
+
+ * {{{#green '''KONAMI Music pack 20'''}}} 2012년 11월 27일 <3.99 USD>
+  * [[cloche]] - [[Qrispy Joybox]]
+  * [[Devil Fish Dumpling]] - [[96]]
+  * [[wiki:"陽炎" Kagerou]] - [[wiki:"호시노 카나코" Kanako Hoshino]]
+  * [[JOMANDA]] - [[DJ YOSHITAKA]]
+
+ * {{{#green '''KONAMI Music pack 21'''}}} 2012년 12월 14일 <3.99 USD>
+  * [[The Wind of Gold]] - [[kors k]]
+  * [[ナナホシ]] - [[S-C-U]]
+  * [[幸せのかたち]] - asaki
+  * [[HEAT-BIT-HIT-BEAT]] - V.C.O
+
+ * {{{#green '''B-52's pack'''}}} 2012년 12월 25일 <3.99 USD>
+  * Love Shack - B-52's
+  * Roam - B-52's
+  * Good Stuff - B-52's
+  * Cosmic Thing - B-52's
+
+ * {{{#green '''KONAMI music pack 22'''}}} 2013년 1월 11일 <3.99 USD>
+  * [[wiki:"瞬"MATATAKI]] - [[wiki:"오노 히데유키"Hideyuki Ono]]
+  * [[Rush!!]] - [[kors k]] feat.Sunao Yoshikawa
+  * [[wiki:"歌の翼" UTANOTSUBASA]] - A-TAN
+  * [[wiki:"逆ナンされたのにドタキャン!!" GYAKUNANSARETANONIDOTAKYAN]] - good-cool ft. HIDEO SUWA
+
+== 참고항목 ==
+ * [[애플]]
+ * [[아이패드]]
+ * [[아이팟 터치]]
+ * [[아이폰]]
+ * [[유비트]]
+ * [[유비트 리플즈]]
+ * [[유비트 니트]]
+ * [[유비트 코피어스]]
+ * [[유비트 플러스]]
+ * [[유비트 시리즈/수록곡]]

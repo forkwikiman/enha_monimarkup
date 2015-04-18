@@ -1,0 +1,39 @@
+ * [미국의 철도 환경], [미국의 커뮤터 레일 목록]
+http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hyundai-Rotem_Cars_Presentation_at_LAUPT.jpg/1200px-Hyundai-Rotem_Cars_Presentation_at_LAUPT.jpg&width=640
+새로 도입된 [[현대로템]] 2층(Bi-level) 차량 [http://commons.wikimedia.org/wiki/File:Hyundai-Rotem_Cars_Presentation_at_LAUPT.jpg ⓒKwickie (CCL-BY-SA)]
+
+||<table align=right>|| '''메트로링크''' [[br]] Metrolink ||
+|||| '''로고''' ||
+|||| http://www.metrolinktrains.com/images/logo_metrolink_with_train.jpg&width=250
+||
+|| '''리포팅 마크''' ||SCAX ||
+|| '''소유''' ||SCRRA ||
+|| '''개업 년도''' ||[[1992년]] ||
+|| '''영업 지역''' ||[[미국]] [[캘리포니아]] 남부 ||
+|| '''선로 궤간''' ||[wiki:표준궤 1,435mm] ||
+|| '''영업 거리''' ||624㎞ ||
+|||| [[http://www.metrolinktrains.com/]] ||
+
+http://www.metrolinktrains.com/images/special_events/Metrolink_System_Map_Weekend.png&width=500
+[http://www.metrolinktrains.com/pdfs/Timetables/Metrolink_All_Lines_timetable.pdf 시간표 및 노선 안내]
+
+
+[[미국]] [[캘리포니아]]주 남부 [로스앤젤레스] 광역권의 [커뮤터 레일] 시스템.
+1980년~1990년대 SCRRA(남부 캘리포니아 교통국)가 [[서던 퍼시픽]][* 지금은 [[유니언 퍼시픽]]으로 합병됨.] 철도에서 선로 및 시설을 구입하여 탄생했다. 과거 여러 회사들이 운영하던 로스앤젤레스 근교 노선들을 이어받아 운영하고 있다.
+
+Inland Empire-Orange County 노선을 제외한 모든 노선이 [[로스앤젤레스]] [wiki:"유니언 역(로스앤젤레스)" 유니언 역]을 중심으로 뻗어나가는 형태를 하고 있다. 유니언 역과 암트랙 Pacific Surfliner와 구간이 겹치는 Orange County Line, Ventura County Line[* 암트랙 열차가 상시 운행하므로 주말에는 운행하지 않는다.]의 여러 역에서 [[암트랙]]과 환승이 가능하며 샌디에이고 카운티의 Oceanside 역에선 [wiki:"스프린터(경전철)" 스프린터 경전철]과 환승이 가능하다. 
+
+차량은 전 차량 2층 차량으로 운행하며, 52대의 기관차와 171량의 [[봄바르디어]] 센티넬 플릿(Sentinel Fleet) 객차 및 117량의 [[현대로템]] 가디언 플릿(Guardian Fleet) 차량[* 운전석 차량&객차]을 보유하고 있다.  
+
+이 회사는 유난히 2000년대 들어 대형 사고를 여러번 겪었는데, 2002년부터 2008년까지 세번의 열차 충돌 사고를 겪은 이후 메트로링크는 차량 안전 사양을 대폭 강화한 새로운 차량 설계에 착수하여 Guardian Fleet 차량(위 사진의 현대로템 차량)을 신조하게 되었다. 기존 [[봄바르디어]]제 차량보다 2배 이상 비싸다고 하며, 2010년 도입되어 현재 137대의 차량이 주문되어 있다. 이는 이후 2015년 [http://www.latimes.com/local/lanow/la-me-ln-metrolink-crash-resistant-cars-20150224-story.html 옥스나드 탈선 사고] 등에서 종래 차량보다 우수한 안전성을 입증했다.
+
+== 노선 ==
+
+||노선명 ||운행 ||구간 ||비고 ||
+||91 Line ||평일만 ||Riverside - Fullerton - 유니언 역 || ||
+||Antelope Valley Line ||매일 ||Lancaster - Glendale - 유니언 역 ||급행 有 ||
+||Inland Empire–Orange County Line||매일 ||San Bernardino - Orange-Oceanside ||자전거 객차 ||
+||Orange County Line||매일 ||Oceanside - Orange - 유니언 역 ||자전거 객차 ||
+||Riverside Line||평일만 ||Riverside - 유니언 역 ||자전거 객차 ||
+||San Bernardino Line||매일 ||San Bernardino - 유니언 역 ||급행 有, 자전거 객차 ||
+||Ventura County Line||평일만[* 동일 구간 대부분의 역에 정차하는 [[Amtrak]] 열차는 매일 운행] ||East Ventura - Burbank - 유니언 역 ||자전거 객차 ||

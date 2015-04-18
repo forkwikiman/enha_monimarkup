@@ -1,0 +1,74 @@
+ * 곡 제목의 é는 통상시에는 입력이 어려우므로 'eclair au chocolat' 문서로 리다이렉트를 해서 오는것을 추천한다.
+
+[[목차]]
+
+=== 소개 ===
+[[BEMANI 시리즈]]의 수록곡. 작곡은 kamome sano. [[에클레르 오 쇼콜라]]라 부른다.
+
+kamome sano의 개인 앨범 夏の星空+beta20130812 에 롱 버전이 정식 수록되어 있다.
+
+=== [[사운드 볼텍스]] ===
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/2-HH6FHBUn8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '[[코나미 아케이드 챔피언쉽/2012|KAC 2012]] 오리지널 곡 컨테스트'의 당선곡이다. 
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<:>사운드 볼텍스 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#E28712 GRAVITY}}} ||
+|| 자켓 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/19/s187_jk_001_0121_1.jpg?width=150||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/19/s187_jk_001_0121_1.jpg?width=150
+||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/19/s187_jk_001_0121_1.jpg?width=150 || attachment:3.jpg?width=150 ||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 09}}} || {{{#ff009f 13}}} || {{{#E28712 15}}} ||
+|| 체인 수 || {{{#purple 0513}}} || {{{#orange 0860}}} || {{{#ff009f 1283 }}} || {{{#E28712 1745}}} ||
+|| 일러스트 담당 || {{{#purple わたあめコモンセンス}}} || {{{#orange わたあめコモンセンス}}} || {{{#ff009f わたあめコモンセンス}}} || {{{#E28712 わたあめコモンセンスQ}}} ||
+|| 이펙터 || {{{#purple 博多の男 }}} || {{{#orange 逆球レジェンド }}} || {{{#ff009f 逆球レジェンド }}} || {{{#E28712 しばまる子}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 19(2012.11.22)}}} || {{{#E28712 III 16(2015.04.01)}}} ||
+|| [[BPM]] |||||||| 182 ||
+
+변경점
+|| 변경일 || 변경사항 ||
+|| 2013/06/05 || EXH 패턴 난이도 하락 (14 → 13) ||
+
+|||||||||| 2015년 4월 1일 [[인피니트 블래스터]] 해금 순서 ||
+|| [[VISION]] || → || '''éclair au chocolat''' || → || [[EGG(비마니 시리즈)|EGG]] ||
+
+||<#eeeeee>
+KAC! 
+14문자로 바꾸면 éclair au chocolat!
+
+-당선자 코멘트-
+||
+
+자켓의 주인공은 [[사운드 볼텍스/캐릭터#리본_와타가시|리본과 와타가시]].
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/wG3hsbnYDqY" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상 
+
+[[caramel ribbon|같은 캐릭터가 등장하는 곡]]을 연상케 하는 좌우우좌 노브 발광이 특징적이다. 그래도 caramel ribbon보다는 조금 쉬운편. 이 외에도 중후반에 나오는 트릴과 계단을 주의해야 한다. 그 외의 부분은 평범한 동시치기 위주의 곡.
+
+{{{#!HTML
+<iframe width="420" height="315" src="https://www.youtube.com/embed/X4HYHjzeWfg" frameborder="0" allowfullscreen></iframe>
+}}}
+GRV 패턴 UC 영상
+
+2015년 4월 1일 다른 KAC 2012 당선곡들과 같이 GRV 패턴이 업데이트되었다. 패턴은 EXH를 강화한 듯한 모양새로, 중반부의 노브 발광은 노브의 비중이 살짝 줄어든 대신 노트의 비중이 늘어나 손이 상당히 바쁘게 움직여야 한다. 또한 메인 멜로디의 계단형 노브+원핸드 노트도 기습적으로 등장하므로 주의할 것. [사볼 메들리]에서의 패턴이 활용되긴 했으나 크게 특징적이지 않은 탓에 알아채기는 조금 힘들다.
+== [[리플렉 비트 시리즈]] ==
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 182 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 92}}} || {{{#orange 313}}} || {{{#red 533}}} ||
+|| 수록버전 ||||||||<#ff1493> [[리플렉 비트 콜레트]] ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/uH0hV5cCR0w" frameborder="0" allowfullscreen></iframe>}}}
+
+2013년 7월 3일 [[리플렉 비트 콜레트]]와의 연동 이벤트인 [[FLOOR INFECTION]]을 통해 이식되었다. INFECTION 레벨 1를 달성시 해금된다.
+
+노트의 구성은 [[Castle on the Moon]]+[[Fly to Next World]]정도의 비슷한 구성
+
+주 처리는 롱 노트+잡 노트 처리 그리고 적절하게 내려오는 3TOP처리가 되시겠다.

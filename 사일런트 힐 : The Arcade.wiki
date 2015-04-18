@@ -1,0 +1,32 @@
+http://img682.imageshack.us/img682/4156/silenthillthearcade.jpg?width=400
+
+[[목차]]
+
+== 개요 ==
+[[사일런트 힐]] 시리즈를 아케이드 게임기 형태로 만든 것. 게임방식은 [[더 하우스 오브 더 데드 시리즈]]와 비슷하다. [[e-AMUSEMENT]] PASS 대응.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/CpqDEeArpMk&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/CpqDEeArpMk&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/teLCvS2rcro&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/teLCvS2rcro&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+
+참고로 이 게임도 '''UFO 엔딩이 있다.'''
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/QyF4371Bt0M&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QyF4371Bt0M&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+엔딩 크레딧과 함께 나타나는 게임은 [[그라디우스 시리즈]]이며 정확하게 말하면 [[NES]]판 [[그라디우스]]다, 토끼는 [[키보드매니아]]의 마스코트인 [[우사오군]].
+== 등장 인물 ==
+ * 에릭 레이크
+플레이 가능 캐릭터. 톨루카 호수에서 75년전 사라진 증기선 리틀 바론니스와 연계되어 있다.
+
+ * 티나 타운젠트
+플레이 가능 캐릭터. 사일런트 힐에 친구인 에릭과 빌, 그리고 제시과 함께 에밀리라는 여자아이와 아버지인 프랭크를 찾으러 왔다.
+
+== 크리쳐 ==
+ * [[너스]]
+ * [[레드 피라미드]]
+
+[[각주]]

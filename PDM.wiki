@@ -1,0 +1,135 @@
+|||| [[DJMAX 시리즈/수록곡 목록]] ||
+|| 장르 || Acid Jazz ||
+|| [[BPM]] || 120 ||
+|| 작곡 || Trish ||
+|| 어레인지 || [[Urbatronic Chopsticks]] ||
+|| 보컬 || 샛별 ||
+|| 랩 || Zito ||
+|| 비주얼 || Cozy(일러스트,모션) ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/GN0uqYdhkgU?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+별칭이 파닥몬(…).
+
+DJMAX 메트로 프로젝트의 수록곡. [[DJMAX TECHNIKA]]와 [DJMAX Portable Black Square]에 수록되었다.
+곡이 공개되기 전부터, Ez2dj 1st trax S/E 수록곡이었던 [wiki:"R.D.M. ~Rain Drops in My mind~" R.D.M.]에서 영감을 얻어서 작곡된 곡으로 알려졌다. 사실, 곡 분위기 자체는, R.D.M.과 꽤나 거리가 있는데.. 이건 게임 내 삽입된 곡이 원곡이 아닌 [[Urbatronic Chopsticks]]에 의해 게임 버젼으로 어레인지된 버젼이며, DMP BS 한정판 [[OST]]에 수록된 오리지널 버젼은 여러가지 추가된 비트음이나 신스음이 사라져, R.D.M.과 비슷한 느낌의 애시드 팝 느낌이 난다. 아무튼, 게임버젼의 경우는 R.D.M.과 상당히 느낌이 다르기 때문에, R.D.M.의 후속곡을 바랬던 리듬 게임 유저들은 상당히 실망하기도. 하지만 R.D.M.과의 연관성을 떠난 곡 자체에 대한 리듬게이머들의 평가는 좋은 편이다. 편안하게 듣기 좋은 곡.
+
+장르는 Acid Jazz라고 표기되어 있으나.. Acid Jazz와 거리는 멀며, 이는 오리지널 버젼을 토대로 정해진 장르로 보인다. 게임 버젼의 장르는 오히려 힙합발라드와 같은 느낌. 이는 나우누리 SNP 멤버로 시작해 현재는 흑인음악 레이블 Mushroom Cloud의 사장으로 있는 Trish의 경력과 관련 있는 듯. 각각 랩과 보컬을 맡은 Zito와 샛별도 한국힙합계에서 제법 인지도가 있는 분들이고.
+
+[[BGA]]는 [[Dear my Lady]]의 BGA를 작업한 Cozy가 맡았다. 노래 가사에 맞추어, 글자와 부드러운 색의 도형들이 조화를 이루는 영상이다. 음악과 매치되도록 크게 화려한 연출보다는 전체적인 디자인에 신경을 쓴 듯. 곡의 가사는 떠나간 연인을 그리워하는 내용으로, 비주얼의 마지막 부분에는, 떠나간 연인을 기다리는듯한 여성의 실루엣이 나온다.
+
+아래는 공식 설명이다.
+
+{{|'Soul과 Hip Hop 계에서 독특한 음색으로 인정받고 있는 Trish의 Acid Jazz곡. 과거 인기를 모았던 RDM이라는 곡에 대한 영감을 기반으로 작업했다.'|}}
+
+== [DJMAX Portable Black Square] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1VNYVakTCbc" frameborder="0" allowfullscreen></iframe>}}}
+
+(6B HD)
+
+블랙 스퀘어에서는 저난이도 곡으로 등장한다.
+
+== [DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/9oKodpEPQd4" frameborder="0" allowfullscreen></iframe>}}}
+
+악명높은 '''NM 패턴(PP)'''
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fV6cKa6fgCc" frameborder="0" allowfullscreen></iframe>}}}
+
+RD Style의 MX 패턴(SP)
+
+=== [[DJMAX TECHNIKA]] ===
+
+DJMAX 테크니카에서는 어느정도 비중있는 곡으로 등장. 난이도는 LP 4 , PP 5 , TP 6. 하지만.. 대부분의 유저들은 '''TP보다 PP가 어렵다''' 라고 말한다. 
+
+사실, 노트수나 노트 구성 자체는 PP가 TP보다 쉬우나... 문제는 스크롤 속도. 곡의 BPM이 느린 편이기 때문에.. TP의 4박 스크롤이 PP의 8박 스크롤보다 노트를 치고 박자를 재는데 훨씬 유리하기 때문에.. 게다가 엇박이 많아 레벨 5밖에 되지 않는 곡임에도 불구하고, 이 곡의 파퓰러 패턴을 퍼펙트한 사람은 매우 적다. 특히 위 영상의 1:13초 구간의 분홍+보라 연타 구간은 인식 오류와 맞물려 판정 난이도가 극악이며, 앞뒤로 이어진 관절도 느린 BPM과 맞물려 극강의 판정난이도를 자랑한다. (2009년 7월 16일 기준으로 단 10명. 레벨 5짜리 곡의 퍼펙트자는 적어도 50명 이상은 기본으로 넘는다... 뭐 캐엇박곡 [Motion]도 퍼펙자가 11명밖에 안되긴 하지만) 2009년 12월, 라이트 믹싱 볼륨 업에 따라 PDM LP가 업데이트 되었는데, 4박 스크롤 패턴이어서 PP의 스크롤이 ~~병맛임~~매우 느림을 다시 한 번 확인하게 해 주었다. 
+
+테크니컬 패턴의 경우는 파퓰러 패턴에 비해 여러모로 수월한데다가 올콤난이도도 낮은 편이면서, 의외로 노트수가 많아 점수를 꽤 주기 때문에 [wiki:"Challenger"Challenger Set]의 스코어 어택 곡으로 많이 플레이된다.
+
+스페셜 패턴 16 으로 SP패턴이 추가되었다. 패턴은 보라노트와 분홍노트의 조합으로 노트의 퍼즐화를 단적으로 보여주고 있으며(PDM이 느리기로 소문난 곡이기에 망정이지 빠른 BPM과 결합하면 유저 여럿 뒷목잡을 패턴이다) 곡은 후반의 기타음 이전 부분과 이후의 피아노 부분이 바뀐, 테크니카만의 오리지널 RD 버전이다.
+
+=== [[DJMAX TECHNIKA 2]] ===
+
+|| 패턴 || 난이도 || 등급 || 가격 || 기타 ||
+|| Star || 4 || D || 300 || ||
+|| NM || 5 || D || 400 || ※[지뢰곡] ||
+|| HD || 6 || D || 500 || [wiki:"Challenger"Challenger Set] 셀렉곡 ||
+|| MX || 8 || D || 500 || RD Style ||
+
+모두 팝믹싱 2스테이지에서 즐길 수 있다.
+
+=== [DJMAX TECHNIKA 3] ===
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || ? || 4박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 5 || 8박 스크롤 || [wiki:"TechniColor"미션 - Rainbow Pastels] 수록, ※[지뢰곡] ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 6 || 4박 스크롤 || [wiki:"Challenger"Challenger Set] 셀렉곡, [wiki:"Metronom"미션 - Moderato] 수록 ||
+||<#FF0000> Maximum || B || 200 Max || 8 || 4박 스크롤 || ||
+
+전작 그대로 이식되었다. NM, HD 패턴이 각각 미션에 수록되었는데, NM 패턴의 경우 Rainbow Pastels를 어려운 미션으로 만든 원흉이다. 얘 때문에 미션 실패하는 유저들 상당히 많다(...).
+
+== [TAP SONIC] ==
+
+6Key Legend 기준 7레벨이다. 
+
+== 가사 ==
+
+아래는 가사이다.
+
+This song dedicated to broken hearted people,
+마음에 상처를 가지고 있는 모든 사람들에게, 이 곡을 바칩니다,
+DJMAX, Let's go!
+디제이맥스, 렛츠 고!
+
+Oh,I love you with my heart
+오, 전 아직 마음속 깊이 당신을 사랑하고 있어요
+So won't you believe in to me, oh baby
+절 믿어주시지 않겠어요
+I'll waiting you to standing here
+당신이 다시 이곳에 설 때까지 기다리겠어요.
+Till you come back to me
+저에게 되돌아와줄 때까지요.
+
+I thought it was first time I crazy in love
+생각해보면, 사랑에 미쳐 본건 그 때가 처음이었어요
+You are so beautiful everyday I pray for her
+당신은 정말 아름다웠고, 나는 그녀만을 바랬죠
+sweet lips first kiss pretty eyes feel this
+달콤한 입술, 첫 키스, 예쁜 눈,
+many happy memories now I'm feelin'it
+수많은 행복한 기억들을 지금도 느끼고 있죠
+
+Every moment was dreaming walking on the cloud
+모든 시간은 구름위를 걷는 꿈과 같았죠
+She was priceless treasure you know how
+그녀는 알다시피 귀중한 보물과 같았죠
+Living without you my life is empty
+당신 없이 사는 나의 인생은 공허할 뿐이죠
+Can't you hold my hand please save me
+제 손을 잡아 주실수 있나요, 저에게 다시한번 기회를 주세요
+
+Don't go away, with everyday and night
+떠나지 마요, 매일 매일밤
+I want you hold my love with you in my life
+난 살아가며 당신과 계속 사랑하길 원해요
+Blow away, I don't know reason why
+흩날려 없어져요, 이유를 모르겠어요
+I want you catch my love through in my memory
+난 내 기억속의 나의 사랑을 붙잡길 원해요
+
+Oh,I love you with my heart
+오, 전 아직 마음속 깊이 당신을 사랑하고 있어요
+So won't you believe in to me, oh baby
+절 믿어주시지 않겠어요
+I'll waiting you to standing here
+당신이 다시 이곳에 설 때까지 기다리겠어요.
+Till you come back to me
+저에게 돌아와줄 때까지요.

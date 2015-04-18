@@ -1,0 +1,66 @@
+ * 상위문서: [[생물 계통 분류]]
+ * 일반적인 내용은 [[고세균]] 참고.
+
+[[목차]]
+
+고세균역(古細菌域, Archaea)은 핵막이 없어 세균과 유사하나 진핵생물과의 유사성도 있는 생물이다.
+
+= 크렌고세균계(Crenarchaeota) =
+== 크렌고세균문(Crenarchaeota) ==
+=== 테르모프로테우스강(Thermoprotei) ===
+ * 테르모프로테우스목(Thermoproteales)
+  * 테르모프로테우스과(Thermoproteaceae)
+  * 테르모필룸과(Thermofilaceae)
+ * 아키딜로부스목(Acidilobales)
+  * 아키딜로부스과(Acidilobaceae)
+  * 칼디스파에라과(Caldisphaeraceae)
+ * 데술푸로콕쿠스목(Desulfurococcales)
+  * 데술푸로콕쿠스과(Desulfurococcaceae)
+  * 피로딕티움과(Pyrodictiaceae)
+ * 술포로부스목(Sulfolobales)
+  * 술포로부스과(Sulfolobaceae)
+ * 페르비디콕쿠스목(Fervidicoccales)
+  * 페르비디콕쿠스과(Fervidicoccaceae)
+
+= 유리고세균계(Euryarchaeota) =
+== 유리고세균문(Euryarchaeota) ==
+=== 아르케오글로부스강(Archaeoglobi) ===
+ * 아르케오글로부스목(Archaeoglobales)
+  * 아르케오글로부스과(Archaeoglobaceae)
+=== 할로박테리움강(Halobacteria) ===
+ * 할로박테리움목 (Halobacteriales)
+  * 할로박테리움과 (Halobacteriaceae) 
+=== 메타노박테리움강(Methanobacteria) ===
+ * 메타노박테리움목 (Methanobacteriales)
+  * 메타노박테리움과 (Methanobacteriaceae)
+  * 메타노테르무스과 (Methanothermaceae)
+=== 메타노콕쿠스강(Methanococci) ===
+ * 메타노콕쿠스목 (Methanococcales)
+  * 메타노콕쿠스과 (Methanococcaceae)
+  * 메타노칼도콕쿠스과 (Methanocaldococcaceae) 
+=== 메타노미크로비움강(Methanomicrobia) ===
+ * 메타노사르키나목 (Methanosarcinales)
+  * 메타노사르키나과 (Methanosarcinaceae)
+  * 메타노사이타과 (Methanosaetaceae)
+ * 메타노미크로비움목 (Methanomicrobiales)
+  * 메타노미크로비움과 (Methanomicrobiaceae)
+  * 메타노코르푸스쿨룸과 (Methanocorpusculaceae)
+  * 메타노스피릴룸과 (Methanospirillaceae)
+ * 메타노켈라목 (Methanocellales)
+  * 메타노켈라과 (Methanocellaceae)
+=== 메타노피루스강(Methanopyri) ===
+ * 메타노피루스목 (Methanopyrales)
+=== 테르모콕쿠스강(Thermococci) ===
+ * 테르모콕쿠스목 (Thermococcales)
+  * 테르모콕쿠스과 (Thermococcaceae) 
+=== 테르모플라스마강(Thermoplasmata) ===
+ * 테르모플라스마목 (Thermoplasmatales)
+
+= 타움고세균계(Thaumarchaeota) =
+
+= 코르고세균계(Korarchaeota) =
+== 코르고세균문(Korarchaeota) ==
+
+= 미분류계 =
+== 나노고세균문(Nanoarchaeota) ==
+ * Nanoarchaeum equitans[* 나노고세균문의 유일한 종]

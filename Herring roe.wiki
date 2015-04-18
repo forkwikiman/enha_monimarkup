@@ -1,0 +1,27 @@
+http://vjarmy.com/wiki/images/3/37/Herring_roe.png?width=220
+
+[[기타프릭스]] 6th & [[드럼매니아]] 5th 수록곡. 작곡은 [[Jimmy Weckl]]. 트럼펫 연주는 [[오노 히데유키]]. 곡 제목 뜻은 [[청어]]알.
+
+더불어 [[아이들의 낙서장]]과 함께 해당 시리즈의 '''보스곡'''이다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/XUaImQdkWhU&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XUaImQdkWhU&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+|||||||||||||||||| [[기타프릭스·드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [[GITADORA]] 난이도 체계 ||
+||<|5><:> 135 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#green 47}}} || {{{#orange 61}}} || {{{#red 84}}} ||<|2><:> {{{#blue 2.95}}} ||<|2><:> {{{#orange 5.20}}} ||<|2><:> {{{#red 7.25}}} ||<|2><:> {{{#purple 9.30}}} ||
+|| 기타 오픈픽 || {{{#green --}}} || {{{#orange --}}} || {{{#red --}}} ||
+|| 기타 베이스 || {{{#green 47}}} || {{{#orange 54}}} || {{{#red --}}} || {{{#blue 3.25}}} || {{{#orange 4.85}}} || {{{#red 7.05}}} || {{{#purple 7.60}}} ||
+|| 드럼매니아 || {{{#green 39}}} || {{{#orange 60}}} || {{{#red 97}}} || {{{#blue 3.05}}} || {{{#orange 5.40}}} || {{{#red 8.55}}} || {{{#purple 9.60}}} ||
+			
+Jimmy Weckl이 [[CENTAUR]] 이후로 만든 퓨전 [[재즈]]. Centaur보다 한술 더 뜬 하이햇 연타, 탐돌리기 등으로 Jimmy Weckl식 퓨전재즈 난이도의 극을 찍었던 곡이었다.
+
+곡 평균 난이도가 지금같지 않았던 그 때 당시에 이 곡이 '''일반곡'''으로 나왔다는 것이 충격과 공포. 난이도 95가 넘는 곡이 일반곡으로 첫등장하는 케이스가 이 뒤로도 한동안 없었고, 심지어는 드럼매니아 기준 이 곡이 첫 등장한 5th 이후 V3에서 [[MODEL FT2]] Miracle Version이 나오기 이전까지 나왔던 [[Concertino in Blue|온갖]] [[鬼姫|숨겨진 곡들]]도 당시에는 이 곡보다 표기레벨이 높았다가 나중에는 동급 혹은 이하로 조절당했다. 즉, 그때까지 나왔던 숨겨진 곡들조차 이 곡보다 확실히 어려운 곡이 없었다. 
+
+당시 표기난이도가 많이 후했던 시절에 이 곡 잘못 건드리다 폭사한 사람이 부지기수였다. 실렸을 당시에는 난이도 96이었지만, 나중에 V3에서 표기난이도를 개정할 때에 97로 올라갈 정도로 괴악한 곡이었다. (참고로 [[Concertino in Blue]]가 96이었고 [[아이들의 낙서장]]이 98에서 나중에 97로 격하된 때가 있다.)
+
+XG 시리즈엔 초대작에 수록되었으며, XG3에서 채보가 변경되었고 MASTER 패턴이 추가되었다.
+
+[[BGA]]는 곡 제목의 뜻인 청어알과는 전혀 관계없는 BGA. GITADORA 시리즈엔 범용 BGA.

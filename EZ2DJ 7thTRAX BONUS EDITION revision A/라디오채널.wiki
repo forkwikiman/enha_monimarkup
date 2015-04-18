@@ -1,0 +1,874 @@
+{{{#!html
+<div style="border: 3px solid Crimson;padding:10px;margin-bottom:0px"><b style="font-size:18px">주의. 여러분의 문서 기여는 리그베다 위키의 영리활동에 이용됩니다.</b><br/>
+영리사업체 <b>리그베다 위키는 작성하신 내용의 저작권을 위임받아 임의로 영리추구 활동 및 저작권 행사</b>를 할 수 있습니다. 반면, 여러분이 작성한 내용에 대해 <b>법적 분쟁이 발생할 경우 리그베다 위키는 책임을 지지 않으며 모든 책임은 작성자가 집니다.</b> 편집하기 전에 먼저 <a href="http://rigvedawiki.net/r1/wiki.php/2015년 리그베다 영리화 사태">리그베다 영리화 사태</a>에서 <b>현행 위키의 구조를 파악</b>해주세요.
+</div>}}}
+
+||||||||<tablewidth=100%> '''[[EZ2DJ 7thTRAX BONUS EDITION revision A]] 관련 정보''' ||
+|| [EZ2DJ/수록곡 일람|수록곡] || ~~삭제곡~~ || [EZ2DJ 7thTRAX BONUS EDITION revision A/라디오채널|라디오채널] || [EZ2DJ 7thTRAX BONUS EDITION revision A/히든커맨드|히든커맨드] || 
+
+[[EZ2DJ 7thTRAX BONUS EDITION revision A]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2DJ 7th BERA/라디오채널]], [[EZ2DJ BERA/라디오채널]]로도 들어올 수 있다.
+ * BONUS EDITION과 BONUS EDITION revision A의 신 채널은 내용이 거의 같기 때문에 한 문서에 통합하였다. 다만 BE와 BErA의 수록 내용에 차이가 있는 채널은 추가로 서술했다.
+ * 다음의 자료를 참고하여 작성하였다.
+  * 5키: [http://www.youtube.com/watch?v=d-9Z1EF16VM]
+  * 7키: [http://www.youtube.com/watch?v=ZjbkandmJK8]
+
+[[목차]]
+== 개관 ==
+BE rA 패치에서 매우 많은 수의 라디오 믹스 채널이 부활했다. 모두 부활한 것은 아니고, 각 버전별로 어느 정도 인기가 있던 채널들만을 선별해서 수록했다. 또한 스테이지 수가 달라서 넣을 수 없는 1st와 1st SE의 채널들, 그리고 컨셉이 중복되는 6th의 리믹스, 미소녀 채널 등은 수록되지 않았다.
+
+BE와 BE rA의 새 채널 중에는 숨겨진 채널이 없다. BE rA에서 라디오 해금 커맨드를 입력하면 과거 버전의 채널이 등장한다. 1차 커맨드를 입력하면 2nd~6th의 채널이, 2차 커맨드를 입력하면 7th~7th CV의 채널이 나온다. 단 7키 라디오의 경우 커맨드를 두개 다 입력하면 오류로 라디오 퍼센테이지가 원래와 다른 값이 출력되는 버그가 있다. 커맨드를 하나만 입력하면 버그가 발생하지 않으므로, 미리 할 채널을 신중히 생각해 두는 것이 좋다.
+
+BE에서는 대부분의 새 채널들이 타이틀 이미지로 [[Sabin Sound Star]]의 BGA의 컷들을 사용하였다. 또한 BE 당시에는 신규채널들이 표기레벨이 전부 ?로 되어있는 부실함이 있었지만, BE rA에서 ARIXID를 제외한 BE 채널들이 각자 숫자 난이도가 책정되었다. BE에 없었던 신규 채널도 생겼고. BE rA에서 새롭게 제작된 타이틀 이미지가 공개되었다. 대부분 [[WR8NG]]의 작품.
+
+== 범례 ==
+||<#F275E1>　|| 2nd ||<#79A46E>　|| 3rd ||<#F0BF5B>　|| 4th ||<#B0B0B0>　|| PT ||<#EE83A3>　|| 6th ||<#FD975B>　|| 7th ||<#E1812D>　|| 1.5 ||<#CB744F>　|| 2.0 ||<#D777EF>　|| CV ||<#FD313F>　|| BE ||<#C5011B>　|| rA ||
+
+== 5Radio Mix ==
+=== 기본 채널 ===
+||<tablewidth=600px><#C5011B>　|| '''New Comers'''[[br]]New Sound of Bonus Edition |||| Lv.9 ||
+|| 1 ||[[Sign Mellow]]|| HD || ||
+|| 2 ||[[Atomizer]]|| NM || ||
+|| 3 ||[[The Luna]]|| NM || ||
+|| 4 ||[[A Final Dreaming]]|| NM || ||
+|| ||||||[[Messier 333]], [[R.E.D.|R.E.D. 2008]]을 제외한 BE의 신곡 4곡을 묶은 채널.||
+||<#FD313F>　|| '''Collaboration'''[[br]]Compilation with Sabin Sound Star |||| Lv.7 ||
+|| 1 ||[[Skyward]]|| || ||
+|| 2 ||[[MxMxMstar|MxMxM Star]]|| || ||
+|| 3 ||[[Dreamy Days]]|| || ||
+|| 4 ||[[Pair Creation]]|| || ||
+||<#FD313F>　|| '''Piano Groove 2'''[[br]]Ez2Dj Piano Concerto Ver.3S |||| Lv.10 ||
+|| 1 ||[[하나뿐인 당신에게]]|| HD || ||
+|| 2 ||[[Romance for Moon]]|| NM || ||
+|| 3 ||[[Uranus]]|| HD || ||
+|| 4 ||[[Rosen Vampir]]|| NM || ||
+||<#FD313F>　|| '''AYA'''[[br]]THE INNOCENT KNOWS THE TRUTH |||| Lv.10 ||
+|| 1 ||[[주문을 외워봐]]|| || ||
+|| 2 ||[[Sensation of Stage]]|| AYA || ||
+|| 3 ||[[Skyward]]|| AYA || ||
+|| 4 ||[[Dreamy Days]]|| AYA || ||
+||<#FD313F>　|| '''ohcodus'''[[br]]alway dreams next |||| Lv.14 ||
+|| 1 ||[[Thrust Out]]|| ohcodus || ||
+|| 2 ||[[Blood Castle]] (Remix)|| ohcodus || ||
+|| 3 ||[[Rosen Vampir]]|| ohcodus || ||
+|| 4 ||[[Apollon]]|| ohcodus || ||
+|| ||||||BE 초기에 등장한 준보스급 채널. 등장 당시의 디스크 이미지는 Thrust Out의 BGA 중의 한 장면을 우려먹은 것. 여담으로, 이 채널의 이름은 개발자 [[ovERAst]]의 유튜브 아이디인 'sudocho'를 거꾸로 한 것이다. AE에서 15로 상향되었다가 EC에서 다시 원래 레벨인 14로 하향되었다.||
+||<#C5011B>　|| '''Mutant'''[[br]]Eyecatch & QA Master |||| Lv.11 ||
+|| 1 ||[[Dreamy Days]]|| || ||
+|| 2 ||[[Skyward]]|| || ||
+|| 3 ||[[BLEED]]|| || ||
+|| 4 ||[[Return to Universe]]|| || ||
+|| ||||||등장 초기에는 BLEED의 BGM이 안 나오고 키음만 나오는 버그가 있었다.||
+||<#FD313F>　|| '''RMX2D'''[[br]]KEY-SOUND REMIXED |||| Lv.10 ||
+|| 1 ||[[Catch The Flow]]|| RMX2D || 532 ||
+|| 2 ||[[Exist]]|| RMX2D || 823 ||
+|| 3 ||[[Envy Mask]]|| RMX2D || 893 ||
+|| 4 ||[[Cosmic Bird]]|| RMX2D || 1248 ||
+|| ||||||레벨 10이라고는 하지만 2스테이지의 변속과 스크래치, 4스테이지때문에 사기에 가깝다. 부제에서도 볼 수 있듯이 [[키음]]을 뒤틀어서 리믹스한 전용 패턴들이다. 채보 제작자는 [[AHRI]]. BE 당시의 타이틀 이미지는 BERA와 전혀 다르다.[[br]]1스테이지는 드럼음을 2배로 늘리고 원곡 하드믹스의 스크롤을 2배 뻥튀기까지 해서 체감으로나 스크롤상으로나 BPM이 두배가 되었으니[* BPM 210의 [[神威]]수준이다. Catch the flow 노멀은 97, 이 버전의 베이스가 된 하드는 BPM 105] 주의. 채보의 영감은 [[Do you love me]] -[[변속|Soft Landing] Mix]]에서 받았다고 밝혀진 바 있다.[[br]]2스테이지는 [[Unknown H2]]를 상회하는 밀도의 스크래치 처리를 요구하며, 초반과 후반에 변속이 존재하니 주의. 이후 스테이지의 스크롤 장난은 없으니 안심.[[br]]3스테이지는 wr∞ng:p판 엔비마스크와 비교해서 조금 어렵다.[[br]]4스테이지는 원곡 SHD 채보에 살만 덧붙인 수준으로 체감난이도 13 하급.[[br]]BE에서는 'RMX2D-5'라는 이름으로 7키의 'RMX2D-7'과 짝을 이루는 채널이었으나 RMX2D-7이 BE rA에서 삭제되면서 그냥 RMX2D로 이름이 바뀌었다.||
+||<#FD313F>　|| '''ARIXID'''[[br]]Pattern Designer |||| Lv.? ||
+|| 1 ||[[Cellavue]]|| ARIXID || 481 ||
+|| 2 ||[[Memories(EZ2DJ)|Memories]]|| ARIXID || 849 ||
+|| 3 ||[[Stay]]|| ARIXID || 1022 ||
+|| 4 ||[[MxMxMstar|MxMxM Star]]|| ARIXID || 1467 ||
+|| ||||||각각 보면에 어레인지가 가해진 채널. 제작자는 [[AHRI]]. 이 채널의 난이도가 물음표인 이유는 게이지 증가량과 감소량이 5키 라디오 Trick & Trap 1스테이지 [[Calling me Now]] 수준이기 때문이다. 게이지가 2배로 깎이고 절대로 차지 않는다. 즉 6개 정도의 Fail 판정을 내면 바로 게임오버. 안 그래도 게이지 증가량이 없는데 패턴까지 틀리기 쉽게 해놨다. 이 채널에서의 주요 사망 요인은 바로 Memories의 후반부.채널 콘셉트는 [[댄스 댄스 레볼루션]]의 챌린지 모드라고 한다. BE 등장 당시의 디스크 이미지는 [[MxMxMstar]]의 BGA 중 한 장면.[[br]]사실 이 채널은 3S의 퀘스트에서 따왔는데, Ez2DJ보다는 3S쪽이 훨씬 어렵다. 3S 쪽에선 해당 스테이지의 게이지가 그대로 다음 스테이지로 이어지기 때문.||
+||<#FD313F>　|| '''Dead End'''[[br]]Deadly Point |||| Lv.13 ||
+|| 1 ||[[Brilliant Stars]]|| HD || ||
+|| 2 ||[[BLEED]]|| HD || ||
+|| 3 ||[[Romance for Moon]]|| HD || ||
+|| 4 ||[[Legacy of Hatred]] (Live)|| HD || ||
+|| ||||||게이지가 한번 깎이면 ARIXID 채널처럼 아무리 콤보를 쌓아도 피가 차지 않는다. 하지만 Romance for Moon의 경우 BE때와는 달리 BE rA 버전에서 게이지가 찬다. 패치로 인해 패턴을 변경하면서 생긴 오류인 듯.||
+||<#C5011B>　|| '''The 1st Tracks'''[[br]]History Course |||| Lv.5 ||
+|| 1 ||[[You love the life you live]]|| 1st NM || 190 ||
+|| 2 ||[[Confete]]|| NM || 323 ||
+|| 3 ||[[Stay]]|| NM || 403 ||
+|| 4 ||[[The Rhythm]]|| NM || 425 ||
+|| ||||||1st 당시의 스트리트 믹스 스코어 어택 코스를 재현하였다. 채보 자체는 레벨 5 수준이 맞지만, 판정이 1st 라디오 수준으로 회귀해서 체감 난이도는 6에서 7 사이이다. 판정은 1st P.NET 채널의 Stay 정도로, COOL과 GOOD이 많이 뜨는데 COOL이 GOOD보다도 더 많이 뜨는 괴이한 판정 설정을 자랑한다. KOOL은 안 뜨는데 왜냐면 1st 시절에는 KOOL이 없었기 때문. 다만 아예 안 뜨게 하는 건 불가능했는지, 가끔 뜨기는 뜬다.[[br]]사실 이 채널의 진짜 의의는 1 스테이지의 곡을 제외한 모든 곡이 초대 EZ2DJ의 BGA 사양으로 나온다는 것.[* Confete나 Stay는 SE 이후로 새 bga로 통합되었으며, The Rhythm은 2nd 이후 3rdBASS의 [[EZ2Dancer]]용 신규 BGA로 교체된지 오래.][* 1st/SE 당시의 [[BGA]] 시스템은 배경 영상이 따로 있고 노트 판정이 날 때마다 판정에 따라 레이어가 출력되는 형태였다. 초기 [[비트매니아]]와 비슷하지만, 비트매니아에서는 노트를 놓쳤을 때만 레이어가 나오는 것에 비해 EZ2DJ에서는 노트를 맞출 때도 레이어가 표시되었다. 그래서 노트가 많은 곡을 하면 레이어로 도배가 되어서 BGA로서의 의미가 전혀 없었다. 2nd에 와서 BGA가 노트 판정에 관계 없이 독자적으로 재생되는 형태로 시스템이 바뀌었다. 그래서 The Rhythm 등의 곡은 BGA를 새 시스템에 맞게 새로 만들었다. 반면 Dieoxin이나 Quake in Kyoto처럼 1st 시스템으로 제작된 BGA를 억지로 사용하는 곡도 있는데 그래서 이런 곡들의 BGA는 다소 어색하게 보인다. 참고로 이 채널의 마지막 곡인 [[The Rhythm]]은 1st 당시 BGA에서 카운트 다운, 계기판, 태양 아래 나는 새(?) 레이어도 있었지만 이것까지 복원되지 않은것을 보면 밑배경만 복원한 것으로 보인다. [http://youtu.be/46DG9HqqrRk?t=4m20s 1st 당시 BGA와] [http://youtu.be/FjyKbWmEa7I?t=5m40s 이 채널에 수록된 BGA]를 비교해보자. 1st BGA 에서 중간에 나오는 CRASH는 틀릴때 나타나는 미스 레이어의 한 종류.][[br]]이 채널의 미리듣기 배경음은 1st의 타이틀 화면 배경 음악이다.[[br]]1스테이지 레게는 스트릿에서 할 수 있는 118개짜리 노멀이 아니라 1st SE까지 있었던 190개짜리 노멀이다. 원래 지금의 스트릿 노멀이 이지였고 190개짜리 노멀이 원래의 노멀이었는데 어떤 이유에서인지 원래의 노멀은 사라지고 이지가 그 자리를 차지했다.||
+||<#C5011B>　|| '''HoR'''[[br]]Hysteric of Rhythm |||| Lv.? ||
+|| 1 ||[[MxMxMstar|MxMxM Star]]|| || ||
+|| 2 ||[[Stay]] (Radio Edit)|| || ||
+|| 3 ||[[For 3 Weeks]]|| || ||
+|| 4 ||[[Back For More]]|| || ||
+|| ||||||이 채널에서의 Stay 리믹스는 2nd 켄타우지 리믹스 버전. 판정이 다른 채널들에 비해 다소 짜다.||
+||<#C5011B>　|| '''wroong :p'''[[br]]Pray for Answer |||| Lv.12 ||
+|| 1 ||[[Be mine]]|| wroong || 710 ||
+|| 2 ||[[Envy Mask]]|| wroong || 623 ||
+|| 3 ||[[Climax]]|| wroong || 1488 ||
+|| 4 ||[[Red Hot]]|| wroong || 660 ||
+|| ||||||RMX2D 채널과 마찬가지로 [[키음]] 배치를 꼬아서 곡을 리믹스한 채널이다[* 키음 배치를 꼬아놓은 채널로는 RMX2D와 이 채널 이외에도 7th 2.0의 IBIS 채널이 있다.]. Be Mine을 제외한 세 곡의 채보 제작자는 객원 스탭인 wr∞ng:p[* 일부 곡의 타이틀 리뉴얼,라디오 타이틀 제작도 겸함. AE에선 정식 스탭이 되었다.]. 선곡은 죄다 락계열로 되어있다. 충격과 공포 수준의 [[키음]] 어레인지를 자랑하면서도 의외로 정직한 평균 채널 난이도 책정 덕분에 출시 이후로 중상급자 이상의 유저층에서 은근히 사랑받는 채널.[[br]][[EZ2AC EC]]에 이르러서 각 채보에 별도의 리믹스 이름이 붙었다.[[br]]Be Mine (Vermillion Surf Edit)은 원곡에서 사람들 짜증나게 만들었던 [[변속]] 요소가 완전히 사라졌고[* 2.00시절 yak_won이 채보를 제작함에 따라 변속을 빼버렸다.] 배치도 적당히 재미있게 어레인지되었다[* 그런데 정작 wr∞ng:p는 패턴 안 건드렸다고... ~~그러니까 사실은 YK edit인거겠지~~].[[br]]Envy Mask (Thousand Scars Edit)은 RMX2D판 엔비보다도 키음 어레인지가 더욱 가열차게 이루어졌다. 특히 중반부분의 쉬는구간급은 충격과 공포. 24비트 음계처리가 대폭 늘어났다 그런데도 하드 믹스나 RMX2D보면에 있던 24비트 세로연타가 사실상 없어졌기 때문에 풀콤보 난이도는 훨씬 낮아졌다.[[br]]Climax (Panic Disorder Edit)은 원곡의 SHD와 비교해서 살만 덧붙인 수준이긴 하나 ~~채권~~ Check On 샘플링이 정박 페달로 배치되었고 중반의 발광부분이 인상적이므로 주의할 것. 사실상 이곡만 체감 레벨 13이다.[[br]]Red Hot (Chili Peppers Edit)은 스크롤 속도는 바뀌지 않았지만 배경에 깔아둔 키음이 촘촘해졌기 때문에 체감 BPM이 2배가 되었다. 롱노트 기습은 7RA에 추가된 HDMIX와 별 차이가 없지만 교대연타가 많이 등장하는 구성이 되어버렸다.[[br]]원래 프리뷰로는 락 밴드의 공연 전 세션시 소리를 넣으려고 했으나 [[어른의 사정]]으로 무산되었다고 한 개발자가 자신의 블로그의 라이너노트에서 밝혔다.[* 현재는 해당 글은 비공개되어있다.]||
+||<#C5011B>　|| '''Remembrance'''[[br]]Relight My Fire |||| Lv.? ||
+|| 1 ||[[In a Nutshell]]|| || ||
+|| 2 ||[[Appeal]]|| || ||
+|| 3 ||[[Futurist]]|| || ||
+|| 4 ||[[Theme of EZ2DJ|이지투디제이 찬가]]|| || ||
+|| ||||||1~3 스테이지까지는 무난하지만, 마지막 곡이 충공깽. 채널 선택 화면 중 마지막 스테이지는 블라인드 처리가 되어있기 때문에 고수가 아닌 이상 곡 구성만 보고 플레이했다 폭사할 가능성이 높은 채널이므로 주의해야 한다. 그나마 이 채널에서 출현하는 찬가는 그로테스크 채널의 찬가보다도 게이지 증감량이 후하다. 낚시채널같지만 열심히 치다 보면 깰 수 있다는 게 역낚시.[[br]]채널 타이틀 이미지로는 개발자로 추정되는 인물이 EZ2DJ OST 패키지와 Platinum 버전의 포스터를 들고 있는 사진이 사용되었다.||
+||<#FD313F>　|| '''Rondo of Death'''[[br]]Dance of Fingers |||| Lv.15 ||
+|| 1 ||[[Return to Universe]]|| RoD || 1668 ||
+|| 2 ||[[Rosen Vampir]]|| RoD || 2459 ||
+|| 3 ||[[Hyper Magic]]|| RoD || 1787 ||
+|| 4 ||[[Messier 333]]|| RoD || 2668 ||
+|| ||||||[[EZ2DJ 5대 채널]].[[br]]5대 채널 중 가장 어렵다고 평가되는 채널. 이 채널에서 폭사하는 원인은 바로 Rosen Vampir의 전용 패턴. BE 당시의 디스크 이미지는 Return to Universe의 BGA를 우려먹었다.[[br]]AE에서는 Hyper Magic이 삭제되는 바람에 채널이 삭제되었고, Return to Universe는 하드로, Rosen Vampir는 슈퍼하드로, Messier 333은 Termination 채널로 옮겨갔다.||
+||<#C5011B>　|| '''Termination'''[[br]]The Way to be Over |||| Lv.? ||
+|| 1 ||[[Finite]]|| Termi || 1420 ||
+|| 2 ||[[Soul Destructor]]|| Termi || 1949 ||
+|| 3 ||[[Return to Universe]]|| Termi || 2268 ||
+|| 4 ||[[Apollon]]|| Termi || 2555 ||
+|| ||||||BE rA의 보스채널. 클리어 난이도는 BE rA에도 수록된 Violet 채널보단 쉽다는 의견이 많긴 하지만, 수록된 패턴의 난이도만 따지자면 터미네이션이 더 어렵다는 의견이 중론. AE에서는 Soul Destructor을 대신해서 Messier 333 RoD 버전이 들어갔다.||
+||<#E1812D>　|| '''znpfg'''[[br]]Special Random Channel |||| Lv.? ||
+|| 1 ||<|4>특수 패턴 랜덤 선곡[[br]]자세한 목록은 [[EZ2DJ/Znpfg]] 참고|| ? || ? ||
+|| 2 || ? || ? ||
+|| 3 || ? || ? ||
+|| 4 || ? || ? ||
+||<#FD313F>　|| '''RANDOM'''[[br]]Ez2Dj NORMAL RANDOM CHANNEL |||| Lv.? ||
+|| 1 ||<|4>노멀 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#FD313F>　|| '''HARD RANDOM'''[[br]]Ez2Dj HARD RANDOM CHANNEL |||| Lv.? ||
+|| 1 ||<|4>하드 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#FD313F>　|| '''SUPER HARD RANDOM'''[[br]]Ez2Dj SUPER HARD RANDOM CHANNEL |||| Lv.? ||
+|| 1 ||<|4>슈퍼하드 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 부활 채널 ===
+||<tablewidth=600px><#F0BF5B>　|| '''Hip Hop Connection'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.4 ||
+|| 1 ||[[Get the beat]]|| NM || 151 ||
+|| 2 ||[[Ready to Yah]]|| NM || 521 ||
+|| 3 ||[[Blue]]|| 전용 || 520 ||
+|| 4 ||[[Southwest Cadillac]]|| NM || 242 ||
+||<#F0BF5B>　|| '''Pops Soft'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.6 ||
+|| 1 ||[[Lovely Day]]|| 전용 || 513 ||
+|| 2 ||[[Be My Baby]]|| NM || 250 ||
+|| 3 ||[[Delight]]|| NM || 674 ||
+|| 4 ||[[JAM(EZ2DJ)|JAM]]|| NM || 342 ||
+||<#F0BF5B>　|| '''Dancing Infinity'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.7 ||
+|| 1 ||[[Say That U]]|| NM || 360 ||
+|| 2 ||[[We Luv Music]]|| NM || 489 ||
+|| 3 ||[[JMJ]] || NM || 664 ||
+|| 4 ||[[Feel So Sad]]|| NM || 821 ||
+||<#F0BF5B>　|| '''Acid Groove'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.7 ||
+|| 1 ||[[Calling me Now]]|| NM || 732 ||
+|| 2 ||[[Appeal]]|| 전용 || 533 ||
+|| 3 ||[[Sparrow]]|| HD || 694 ||
+|| 4 ||[[You Are The One For Me]]|| HD || 501 ||
+||<#F0BF5B>　|| '''Hardbeat Stage'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.8 ||
+|| 1 ||[[Shout]]|| HD || 892 ||
+|| 2 ||[[Go!]]|| 전용 || 818 ||
+|| 3 ||[[Climax]]|| NM || 1050 ||
+|| 4 ||[[R.F.C.]]|| NM || 817 ||
+||<#F0BF5B>　|| '''Channel NF'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.8 ||
+|| 1 ||[[Eye of Beholder]]|| NM || 837 ||
+|| 2 ||[[Futurist]]|| HD || 727 ||
+|| 3 ||[[B.O.W.]]|| NM || 874 ||
+|| 4 ||[[Tokyo 9 P.M.]]|| HD || 550 ||
+||<#F0BF5B>　|| '''Digital Reality'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.9 ||
+|| 1 ||[[Complex]]|| NM || 859 ||
+|| 2 ||[[JMJ]]|| HD || 738 ||
+|| 3 ||[[Aquaris]]|| HD || 917 ||
+|| 4 ||[[Eye of Beholder]]|| HD || 1019 ||
+||<#F0BF5B>　|| '''Techno Sound Labs'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.10 ||
+|| 1 ||[[Mad Robot]]|| HD || 932 ||
+|| 2 ||[[Metagalatic G - 1000]]|| HD || 928 ||
+|| 3 ||[[Fire Storm]]|| 전용 || 913 ||
+|| 4 ||[[20000000000]]|| NM || 832 ||
+||<#F0BF5B>　|| '''NF-Special'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.11 ||
+|| 1 ||[[B.O.W.]]|| HD || 1026 ||
+|| 2 ||[[JMJ]]|| SHD || 993 ||
+|| 3 ||[[Mad Robot]]|| SHD || 1013 ||
+|| 4 ||[[Aquaris]]|| SHD || 1088 ||
+||<#F0BF5B>　|| '''EZ2DJ Totally Hits'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.10 ||
+|| 1 ||[[Sand Storm]]|| HD || 855 ||
+|| 2 ||[[Showdown]]|| HD || 647 ||
+|| 3 ||[[The Future]]|| HD || 848 ||
+|| 4 ||[[Stay]]|| HD || 851 ||
+||<#F0BF5B>|| ''''Supreme Collection'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.10 ||
+|| 1 ||[[Ztar warZ]]|| NM || 382 ||
+|| 2 ||[[DIEOXIN]]|| NM || 490 ||
+|| 3 ||[[Showdown]]|| NM || 532 ||
+|| 4 ||[[20000000000]]|| NM || 832 ||
+||<#F0BF5B>　|| '''Grotesque'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.14 ||
+|| 1 ||[[Complex]]|| SHD || 1138 ||
+|| 2 ||[[Minus 1 ~Space Mix~]]|| HD || 873 ||
+|| 3 ||[[Fire Storm]]|| SHD || 1338 ||
+|| 4 ||[[Theme of EZ2DJ]]|| Gro || 692 ||
+||<#B0B0B0>　|| '''Dance Pop Highlights'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.6 ||
+|| 1 ||[[Stay]]|| NM || 403 ||
+|| 2 ||[[I've Fallen]]|| NM || 365 ||
+|| 3 ||[[Night Madness]]|| NM || 631 ||
+|| 4 ||[[We Luv Music]]|| HD || 572 ||
+||<#B0B0B0>　|| '''Acid Groove'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.6 ||
+|| 1 ||[[Cellavue]]|| NM || 240 ||
+|| 2 ||[[Any way you want it]]|| NM || 445 ||
+|| 3 ||[[I've got this feeling]] (DJ.FE Restless Acid Soul Mix)|| NM || 537 ||
+|| 4 ||[[Sparrow]]|| HD || 694 ||
+||<#B0B0B0>　|| '''M.D.B.T.'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.7 ||
+|| 1 ||[[Exist]]|| HD || 559 ||
+|| 2 ||[[Blue]]|| HD || 696 ||
+|| 3 ||[[Unknown H2]]|| HD || 563 ||
+|| 4 ||[[Special K]]|| NM || 213 ||
+||<#B0B0B0>　|| '''Hard Beat Underground'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.9 ||
+|| 1 ||[[R.F.C.]]|| NM || 817 ||
+|| 2 ||[[Riff Guy]]|| NM || 703 ||
+|| 3 ||[[Q Factor]]|| NM || 613 ||
+|| 4 ||[[Climax]]|| NM || 1050 ||
+||<#B0B0B0>　|| '''Digital Sound Trip'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.11 ||
+|| 1 ||[[JMJ]] (DFC Space Gear Re-formation)|| HD || 806 ||
+|| 2 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| HD || 972 ||
+|| 3 ||[[Panic Strike]]|| NM || 865 ||
+|| 4 ||[[Back to Bed]]|| NM || 600 ||
+||<#B0B0B0>　|| '''T3 - Techno Trance Terminal'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.12 ||
+|| 1 ||[[Night Madness]]|| HD || 742 ||
+|| 2 ||[[Weird Wave]]|| NM || 679 ||
+|| 3 ||[[Zeroize]]|| HD || 1090 ||
+|| 4 ||[[Minus 1 ~Space Mix~]]|| HD || 873 ||
+||<#B0B0B0>　|| '''Remix'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.9 ||
+|| 1 ||[[I've got this feeling]] (DJ.FE Restless Acid Soul Mix)|| HD || 769 ||
+|| 2 ||[[JMJ]] (DFC Space Gear Re-formation)|| HD || 806 ||
+|| 3 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| || ||
+|| 4 ||[[I've Fallen]] (Hot Dog Boogie Groove Mix)|| || ||
+||<#B0B0B0>　|| '''Platinum Hits'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.8 ||
+|| 1 ||[[Stay]]|| HD || ||
+|| 2 ||[[Stay That U]]|| HD || ||
+|| 3 ||[[Black Market]]|| HD || ||
+|| 4 ||[[Lovely Day]]|| HD || ||
+||<#B0B0B0>　|| '''12+'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.14 ||
+|| 1 ||[[20000000000]]|| HD || 1156 ||
+|| 2 ||[[Panic Strike]]|| HD || 1060 ||
+|| 3 ||[[Zeroize]]|| SHD || 1252 ||
+|| 4 ||[[Fire Storm]]|| SHD || 1338 ||
+||<#EE83A3>　|| '''Easy to DJ'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.3 ||
+|| 1 ||[[Look out ~Here comes my love~|Look Out]]|| EZ || 75 ||
+|| 2 ||[[Be My Baby]]|| EZ || 242 ||
+|| 3 ||[[The Boy ~Here comes my baby~|The Boy]]|| EZ || 256 ||
+|| 4 ||[[The Future]]|| NM || 401 ||
+||<#EE83A3>　|| '''Platinum Hits'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.8 ||
+|| 1 ||[[Lovely Day]]|| SHD || 634 ||
+|| 2 ||[[Lie Lie]]|| HD || 760 ||
+|| 3 ||[[R.F.C.]]|| NM || 817 ||
+|| 4 ||[[Theme of EZ2DJ 2]]|| HD || 700 ||
+||<#EE83A3>　|| '''A.O.Music'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.7 ||
+|| 1 ||[[Refresh]]|| HD || 451 ||
+|| 2 ||[[Your Style]]|| HD || 529 ||
+|| 3 ||[[Stay with me]]|| HD || 586 ||
+|| 4 ||[[Dance With Me]]|| HD || 646 ||
+||<#EE83A3>　|| '''Sonic A.P.E'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.8 ||
+|| 1 ||[[Bacardi on the Beach]]|| || 544 ||
+|| 2 ||[[Dance Machine]]|| || 535 ||
+|| 3 ||[[One Two Three Four]]|| || 547 ||
+|| 4 ||[[Frantic]]|| || 855 ||
+||<#EE83A3>　|| '''SRS(●)'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.10 ||
+|| 1 ||[[Go!]]|| HD || 913 ||
+|| 2 ||[[Quake in Kyoto]]|| HD || 472 ||
+|| 3 ||[[R.F.C.]]|| HD || 1000 ||
+|| 4 ||[[20000000000]]|| SRS || 1050 ||
+||<#EE83A3>　|| '''Ch.ASF'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.? ||
+|| 1 ||[[Move Your Body]]|| || 486 ||
+|| 2 ||[[Theme of EZ2DJ]]|| HD || 643 ||
+|| 3 ||[[Theme of EZ2DJ]]|| SHD || 688 ||
+|| 4 ||[[Theme of EZ2DJ 2]]|| SHD || 1269 ||
+||<#FD975B>　|| '''Team K2yaa'''[[br]]VJ's Choice |||| Lv.8 ||
+|| 1 ||[[Space Destiny]]|| NM || 1080 ||
+|| 2 ||[[Sweet Heart]]|| EZ || 789 ||
+|| 3 ||[[Explode Engine]]|| NM || 785 ||
+|| 4 ||[[Gray Street]]|| EZ || 1204 ||
+||<#FD975B>　|| '''M2U'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Toy War]]|| HD || 1557 ||
+|| 2 ||[[White Rose]]|| HD || 1106 ||
+|| 3 ||[[Paradise]]|| NM || 1243 ||
+|| 4 ||[[天地開闢]]|| HD || 1349 ||
+||<#FD975B>　|| '''Team Curium'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Silver Ocean]]|| HD || 657 ||
+|| 2 ||[[G.O.A]]|| Curium || 1453 ||
+|| 3 ||[[Unrequited love 2]]|| HD || 1069 ||
+|| 4 ||[[Legacy of Hatred]] (live)|| Curium || 1234 ||
+||<#FD975B>　|| '''RYU♥star'''[[br]]Vocal's Collection |||| Lv.11 ||
+|| 1 ||[[빛바랜 영혼]]|| RYU♥star || 939 ||
+|| 2 ||[[Sunlight]]|| RYU♥star || 1409 ||
+|| 3 ||[[Let me hear your voice]]|| Praya || 1155 ||
+|| 4 ||[[To My Love]]|| RYU♥star || 297 ||
+||<#FD975B>　|| '''Spring Head'''[[br]]Musician's Collection |||| Lv.12 ||
+|| 1 ||[[Return]]|| SpringHead || 1476 ||
+|| 2 ||[[Soul Eater]]|| SpringHead || 1239 ||
+|| 3 ||[[Fallen Angel]]|| SpringHead || 1622 ||
+|| 4 ||[[Revelation]]|| Ruby || 1292 ||
+||<#FD975B>　|| '''Transin'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Dreamy Flight]]|| HD || 1179 ||
+|| 2 ||[[Soul Destructor]]|| Transin || 1523 ||
+|| 3 ||[[Black Flame]]|| HD || 1637 ||
+|| 4 ||[[Explode Engine]]|| Transin || 1104 ||
+||<#FD975B>　|| '''RYUminus'''[[br]]Mania Zone Developer |||| Lv.14 ||
+|| 1 ||[[Fell Hound 3]]|| RYUminus || 1537 ||
+|| 2 ||[[Round 3]]|| HD || 1678 ||
+|| 3 ||[[Toy War]]|| RYUminus || 1668 ||
+|| 4 ||[[Revelation]]|| RYUminus || 1923 ||
+||<#E1812D>　|| '''La Resistance'''[[br]]EZ2DJ 7.5 Trax Official Channel |||| Lv.10 ||
+|| 1 ||[[Shot Time]]|| HD || 838 ||
+|| 2 ||[[Legend of Moonlight]]|| HD || 1348 ||
+|| 3 ||[[Black Bird]]|| NM || 819 ||
+|| 4 ||[[The Prince of Darkness]]|| NM || 1279 ||
+||<#CB744F>　|| '''La Resistance 2'''[[br]]EZ2DJ 7.5 Trax Official Channel Vol.2 |||| Lv.9 ||
+|| 1 ||[[Gray Hunter]]|| HD || 1165 ||
+|| 2 ||[[Holic]]|| HD || 1266 ||
+|| 3 ||[[Never Feel This Way]]|| HD || 1341 ||
+|| 4 ||[[Lucid]]|| NM || 1639 ||
+||<#E1812D>　|| '''Ryunan2008'''[[br]]Disc D-signer Channel |||| Lv.11 ||
+|| 1 ||[[Minus 2]]|| Ryunan2008 || 1157 ||
+|| 2 ||[[Fire Storm]]|| Ryunan2008 || 1184 ||
+|| 3 ||[[Night Madness]]|| Ryunan2008 || 855 ||
+|| 4 ||[[Frantic]]|| Ryunan2008 || 701 ||
+|| ||||||2.0에서 작업 오류로 Frantic의 하드 패턴이 들어갔었고, CV에서도 수정되지 않고 유지되었다. BERA에 와서야 1.5 당시의 전용 패턴이 다시금 수록되었다.||
+||<#E1812D>　|| '''WeE'''[[br]]We Luv Ez2Dj |||| Lv.9 ||
+|| 1 ||[[The Future]]|| WeE || 905 ||
+|| 2 ||[[We Luv Music]]|| WeE || 882 ||
+|| 3 ||[[Theme of EZ2DJ]]|| HD || 643 ||
+|| 4 ||[[Theme of EZ2DJ 2]]|| WeE || 865 ||
+||<#E1812D>　|| '''Minus Collection'''[[br]]Feel The Pain of Dj Croove |||| Lv.10 ||
+|| 1 ||[[Minus 1]]|| NM || 457 ||
+|| 2 ||[[Minus 1]]|| Minus || 691 ||
+|| 3 ||[[Minus 1 ~Space Mix~]]|| Minus || 814 ||
+|| 4 ||[[Minus 2]]|| Minus || 1048 ||
+||<#E1812D>　|| '''Freyja'''[[br]]Goddess of attraction, beauty, richness |||| Lv.12 ||
+|| 1 ||[[Black Flame]]|| HD || 1637 ||
+|| 2 ||[[Minus 1 ~Space Mix~]]|| HD || 873 ||
+|| 3 ||[[Complex]]|| SHD || 1138 ||
+|| 4 ||[[Cosmic Bird]]|| SHD || 1276 ||
+||<#E1812D>　|| '''Escape'''[[br]]Run to esc beyond darkness |||| Lv.13 ||
+|| 1 ||[[B.O.W]]|| SHD || 1291 ||
+|| 2 ||[[Climax]]|| Escape || 1393 ||
+|| 3 ||[[Weird Wave]]|| HD || 1223 ||
+|| 4 ||[[Soul Destructor]]|| Escape || 1768 ||
+||<#E1812D>　|| '''Sarah & Scarlett'''[[br]]Pattern Developer |||| Lv.13 ||
+|| 1 ||[[Smash]]|| S&S || 1049 ||
+|| 2 ||[[Fell Hound 3]]|| HD || 1414 ||
+|| 3 ||[[Round 3]]|| S&S || 1572 ||
+|| 4 ||[[Zeroize]]|| HD || 1090 ||
+||<#E1812D>　|| '''Trick & Trap'''[[br]]Ouch! Watch Out! |||| Lv.? ||
+|| 1 ||[[Calling me Now]]|| T&T || 860 ||
+|| 2 ||[[Minus 2]]|| T&T || 491 ||
+|| 3 ||[[Moving On]]|| T&T || 91 ||
+|| 4 ||[[20000000000]]|| T&T || 1016 ||
+||<#CB744F>　|| '''Trick BPM'''[[br]]Unforseeable Circumstances |||| Lv.! ||
+|| 1 ||[[The Rhythm]]|| TrB || ||
+|| 2 ||[[Black Bird]]|| TrB || ||
+|| 3 ||[[Panic Strike]]|| TrB || ||
+|| 4 ||[[Fire Storm]]|| TrB || ||
+||<#CB744F>　|| '''YammyYammy'''[[br]]Special Another Channel |||| Lv.9 ||
+|| 1 ||[[Y-Gate]]|| YY || 949 ||
+|| 2 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| YY || 769 ||
+|| 3 ||[[Toy War]]|| YY || 1579 ||
+|| 4 ||[[The Prince of Darkness]]|| YY || 1237 ||
+||<#CB744F>　|| '''Dream Generator'''[[br]]Into your own dream |||| Lv.8 ||
+|| 1 ||[[Be My Baby]]|| DG || 466 ||
+|| 2 ||[[An Old Story]]|| DG || 741 ||
+|| 3 ||[[Dreamy Flight]]|| DG || 787 ||
+|| 4 ||[[Aquaris]]|| DG || 831 ||
+||<#CB744F>　|| '''Into The Space'''[[br]]Can you feel it? |||| Lv.9 ||
+|| 1 ||[[Space Destiny]]|| ITS || 1321 ||
+|| 2 ||[[Cosmic Bird]]|| ITS || 781 ||
+|| 3 ||[[Panic Strike]]|| ITS || 821 ||
+|| 4 ||[[Ztar warZ]]|| ITS || 420 ||
+||<#CB744F>　|| '''SHK'''[[br]]Composer and Pattern Designer |||| Lv.9 ||
+|| 1 ||[[Frantic]]|| || ||
+|| 2 ||[[Night Madness]]|| || ||
+|| 3 ||[[R.F.C.]]|| || ||
+|| 4 ||[[Holic]]|| || ||
+||<#CB744F>　|| '''IBIS'''[[br]]The Special Radio Station |||| Lv.9 ||
+|| 1 ||[[Calling me Now]]|| || ||
+|| 2 ||[[It's My Secret]]|| IBIS || ||
+|| 3 ||[[White Rose]]|| IBIS || ||
+|| 4 ||[[天地開闢]]|| IBIS || ||
+||<#CB744F>　|| '''YaK_won'''[[br]]Ez2Dj 6th TraX Arrange & Remix |||| Lv.10 ||
+|| 1 ||[[Refresh]] (J-Style Edit)|| || ||
+|| 2 ||[[Dance Machine]] (YK House Edit)|| || ||
+|| 3 ||[[Dance With Me]] (Dischord Edit)|| || ||
+|| 4 ||[[Frantic]] (YK Edit)|| || ||
+||<#CB744F>　|| '''sjhdeux'''[[br]]Main Developer |||| Lv.? ||
+|| 1 ||[[2nd Life]]|| || ||
+|| 2 ||[[Don't Say Anything]]|| || ||
+|| 3 ||[[Aura]]|| || ||
+|| 4 ||[[Sinus - Secret Heart]]|| || ||
+||<#E1812D>　|| '''D'''[[br]]Ch. Despair |||| Lv.15 ||
+|| 1 ||[[Legend of Moonlight]]|| D || 1732 ||
+|| 2 ||[[The Prince of Darkness]]|| D || 1891 ||
+|| 3 ||[[Lucid]]|| D || 2543 ||
+|| 4 ||[[Hyper Magic]]|| D || 1725 ||
+||<#E1812D>　|| '''399M'''[[br]]Pattern D-signer |||| Lv.15 ||
+|| 1 ||[[Blue]]|| 399M || 1149 ||
+|| 2 ||[[The Prince of Darkness]]|| 399M || 1621 ||
+|| 3 ||[[Metagalatic G - 1000]]|| 399M || 1413 ||
+|| 4 ||[[Hyper Magic]]|| 399M || 2048 ||
+||<#E1812D>　|| '''Nemesis'''[[br]]Punished by Heaven |||| Lv.15 ||
+|| 1 ||[[Fire Storm]]|| Nemesis || 1802 ||
+|| 2 ||[[Sand Storm]]|| Nemesis || 1210 ||
+|| 3 ||[[Revelation]]|| Nemesis || 2200 ||
+|| 4 ||[[Round 3]]|| Nemesis || 2183 ||
+||<#E1812D>　|| '''Hell Destructor'''[[br]]Beat The Unlimited Hell Fire || Lv.15 ||
+|| 1 ||[[Hyper Magic]]|| D || 1725 ||
+|| 2 ||[[The Prince of Darkness]]|| SHD || 1809 ||
+|| 3 ||[[Revelation]]|| RYUminus || 1923 ||
+|| 4 ||[[Soul Destructor]]|| Hell || 2089 ||
+||<#D777EF>　|| '''Tapper'''[[br]]Make your own way |||| Lv.7 ||
+|| 1 ||[[For The Top]]|| || ||
+|| 2 ||[[Dragon Hunter%3F|Dragon Hunter?]]|| || ||
+|| 3 ||[[You were the one]]|| || ||
+|| 4 ||[[Go!]]|| || ||
+||<#D777EF>　|| '''H.P.B'''[[br]]Hyper Purple-cube Broadcasting |||| Lv.10 ||
+|| 1 ||[[Zeroize]]|| NM || ||
+|| 2 ||[[Metagalatic G - 1000]]|| HD || ||
+|| 3 ||[[Soul Destructor]]|| NM || ||
+|| 4 ||[[The Future]]|| HD || ||
+||<#D777EF>　|| '''2√2'''[[br]]The sorrow letter from her |||| Lv.5 ||
+|| 1 ||[[느낌]]|| || ||
+|| 2 ||[[The Boy]]|| || ||
+|| 3 ||[[You Are The One For Me]]|| || ||
+|| 4 ||[[Doll's Garden]]|| || ||
+||<#D777EF>　|| '''E4'''[[br]]Easy for Flower |||| Lv.6 ||
+|| 1 ||[[It's My Secret]]|| HD || ||
+|| 2 ||[[느낌]]|| HD || ||
+|| 3 ||[[Memories(EZ2DJ)|Memories]]|| HD || ||
+|| 4 ||[[Sparrow]]|| HD || ||
+||<#D777EF>　|| '''Never Ending War'''[[br]]Can't stop catch the bug |||| Lv.9 ||
+|| 1 ||[[R.D.M.]]|| || ||
+|| 2 ||[[Shout]]|| || ||
+|| 3 ||[[Dreamy Flight]]|| || ||
+|| 4 ||[[Complex]]|| SHD || ||
+||<#D777EF>　|| '''Zap Network'''[[br]]ZN - The Hyper Terminal |||| Lv.11 ||
+|| 1 ||[[Stay]] (TAK Remix)|| ZN || 1485 ||
+|| 2 ||[[Eye of Beholder]]|| HD || 1019 ||
+|| 3 ||[[Y-Gate]]|| HD || 1073 ||
+|| 4 ||[[Panic Strike]]|| NM || 865 ||
+||<#D777EF>　|| '''Violet'''[[br]]The system of class R |||| Lv.16 ||
+|| 1 ||[[Tempus Praeterita]]|| Violet || 1695 ||
+|| 2 ||[[Blood Castle]] (Remix)|| Violet || 1727 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| Violet || 1868 ||
+|| 4 ||[[神威]]|| Violet || 3333 ||
+
+== 7Radio Mix ==
+=== 기본 채널 ===
+||<tablewidth=600px><#C5011B>　|| '''New Comers'''[[br]]New Sound of Bonus Edition |||| Lv.9 ||
+|| 1 ||[[Sign Mellow]]|| HD || ||
+|| 2 ||[[Atomizer]]|| NM || ||
+|| 3 ||[[The Luna]]|| NM || ||
+|| 4 ||[[A Final Dreaming]]|| NM || ||
+|| ||||||11렙 중 최고 불렙 채널. 전체적으로 퍼센테이지가 매우 짜다. 3스테이지를 잘 못 치면 4스테이지 클리어가 불가능 할 정도. 롱놋에 굿 판정을 내지 않아야 하는 것이 포인트.||
+||<#FD313F>　|| '''KIEN^2'''[[br]]FL Zone |||| Lv.11 ||
+|| 1 ||[[Tempus Praeterita]]|| HD || ||
+|| 2 ||[[Irregular Liner]]|| || ||
+|| 3 ||[[R.E.D.]] 2008|| || ||
+|| 4 ||[[Atomizer]]|| KIEN^2 || ||
+||<#FD313F>　|| '''Flux'''[[br]]Core Pattern Collection |||| Lv.13 ||
+|| 1 ||[[Never Feel This Way]]|| Flux || ||
+|| 2 ||[[Soul Eater]]|| Flux || ||
+|| 3 ||[[Toy War]]|| Flux || ||
+|| 4 ||[[KAFAT]]|| Flux || ||
+|| ||||||BE 수록 당시의 명칭은 Core였고, 타이틀 이미지도 rA와 전혀 달랐다. rA 패치 후 현재의 명칭으로 변경. 4스테이지의 판정이 꽤 짜다.||
+||<#FD313F>　|| '''Heat Flow'''[[br]]Core Pattern Collection |||| Lv.14 ||
+|| 1 ||[[Dreamy Flight]]|| Heat || ||
+|| 2 ||[[Black Flame]]|| Heat || ||
+|| 3 ||[[Explode Engine]]|| Heat || ||
+|| 4 ||[[Fell Hound 3]]|| Heat || ||
+|| ||||||BE 당시의 채널 명칭은 Heat였으며, 타이틀 이미지도 BERA와 전혀 달랐다. BERA에서 Heat Flow로 명칭을 바꿨으며, 타이틀 이미지도 바꿨다. 3스테이지는 스크래치 빈도가 높은 구간에서는 스크롤 속도가 2배로 빨라지는 변속이 있으니 주의 바란다. 그리고 4스테이지의 후살도 주의할 것...||
+||<#FD313F>　|| '''Lost Symphonies'''[[br]]Lost Pattern Collection |||| Lv.13 ||
+|| 1 ||[[Back to Bed]]|| Lost || ||
+|| 2 ||[[Complex]]|| Lost || ||
+|| 3 ||[[Calling me Now]]|| Lost || ||
+|| 4 ||[[Night Watcher]]|| 1.5 HD || ||
+|| ||||||BE 당시의 명칭은 Lost. 타이틀 이미지도 BERA와 전혀 달랐다. BE당시에는 2스테이지가 Calling me Now였고, 3스테이지가 Complex였다. Night Watcher는 1.5 당시의 하드 패턴이며, Calling me Now는 10배속을 해도 느리다고 한다.||
+||<#FD313F>　|| '''Massive'''[[br]]Concept Pattern Collection |||| Lv.15 ||
+|| 1 ||[[Sand Storm]]|| Massive || 1245 ||
+|| 2 ||[[Smash]]|| Massive || 1231 ||
+|| 3 ||[[Zeroize]]|| Massive || 1166 ||
+|| 4 ||[[Apollon]]|| Massive || 2440 ||
+|| ||||||BE때에는 3스테이지가 [[Lucid|Lucid ~Another~]]였으나 rA 패치 이후 Zeroize로 변경. BE 당시의 디스크 이미지는 [[Apollon]]의 BGA를 우려먹은 것. 패턴은 매우 어려우나 퍼센테이지는 후한 편.||
+||<#FD313F>　|| '''AHRI'''[[br]]Pattern Designer |||| Lv.12 ||
+|| 1 ||[[Stay with me]]|| AHRI || ||
+|| 2 ||[[R.D.M.]]|| AHRI || ||
+|| 3 ||[[Gray Street]]|| AHRI || ||
+|| 4 ||[[Underflow]]|| AHRI || ||
+||<#FD313F>　|| '''ovERAst'''[[br]]Pattern Designer |||| Lv.14 ||
+|| 1 ||[[Fallen Angel]]|| ovERAst || ||
+|| 2 ||[[Sinus - Secret Heart]]|| ovERAst || ||
+|| 3 ||[[Lucid]] (Another)|| ovERAst || ||
+|| 4 ||[[Revelation]]|| ovERAst || ||
+|| ||||||BE때에는 3스테이지가 [[Zeroize]]였으나 rA 패치 이후 [[Lucid|Lucid ~Another~]]로 변경. 그 덕분에 BE rA의 스코어어택 채널이자 EZ2DJ 전 라디오 채널 중 가장 노트수가 많은 채널로 당당히 등극. 한 번 클리어 시 200만점은 그냥 넘어간다. 퍼센테이지를 아주 크게 해놓았다.||
+||<#FD313F>　|| '''Catastrophe'''[[br]]Fear Your Thought |||| Lv.16 ||
+|| 1 ||[[Revelation]]|| Catastrophe || 1956 ||
+|| 2 ||[[Fire Storm]]|| Catastrophe || 1688 ||
+|| 3 ||[[神威]]|| Catastrophe || 2927 ||
+|| 4 ||[[Messier 333]]|| Catastrophe || 2585 ||
+|| ||||||BE때에는 Hell이란 이름이었지만 rA 패치 후 Catastrophe로 변경. 채보 자체의 난이도도 매우 높으며 클리어 퍼센테이지가 1~3스테이지까지는 99%이고, 마지막 스테이지는 '''99.9%'''인 채널. 1스테이지만 넘기고, 나머지 2~4스테이지에서 퍼센테이지를 유지시키면 된다. --말이 쉽지....--[[br]]AE에서는 Revelation이 라이센스 기간 만료로 잘려나가서 이 채널도 사라졌으나, 이 채널의 Messier 333이 7키 하드 패턴으로 들어갔다.||
+||<#C5011B>　|| '''STRETCH'''[[br]]Stretch your hands and be careful |||| Lv.14 ||
+|| 1 ||[[Atomizer]]|| STRETCH || ||
+|| 2 ||[[LOKI]]|| STRETCH || ||
+|| 3 ||[[Be-at Feedback]]|| STRETCH || ||
+|| 4 ||[[Finite]]|| STRETCH || ||
+|| ||||||스크래치가 상당한 빈도로 나오는 채널. 개인차가 상당하다.||
+||<#C5011B>　|| '''VAi.2'''[[br]]Area Code No.8 |||| Lv.9 ||
+|| 1 ||[[I've got this feeling]]|| VAi.2 || ||
+|| 2 ||[[Appeal]]|| VAi.2 || ||
+|| 3 ||[[It's My Secret]]|| VAi.2 || ||
+|| 4 ||[[You Are The One For Me]]|| VAi.2 || ||
+|| ||||||VAi 채널의 후속 채널. VAi보다 쉽다.||
+||<#C5011B>　|| '''CH. Allotrope'''[[br]]Guest Designer from Far East |||| Lv.12 ||
+|| 1 ||[[Your Style]]|| Allotrope || ||
+|| 2 ||[[Blue]]|| Allotrope || ||
+|| 3 ||[[Exist]]|| Allotrope || ||
+|| 4 ||[[Delight]]|| Allotrope || ||
+|| ||||||12 레벨의 보스채널. 퍼센테이지가 꽤 짜다.||
+||<#C5011B>　|| '''乙'''[[br]]Director's Agony |||| Lv.10 ||
+|| 1 ||[[Quake in Kyoto]]|| 乙 || ||
+|| 2 ||[[Eye of Beholder]]|| 乙 || ||
+|| 3 ||[[Love & Extasy]]|| 乙 || ||
+|| 4 ||[[Mystic Dream 9903 ~Horror Mix~]]|| 乙 || ||
+||<#FD313F>　|| ~~'''RMX2D-7'''~~[[br]]~~KEY-SOUND REMIXED~~ |||| Lv.? ||
+|| 1 ||[[Cellavue]]|| RMX2D-7 || ||
+|| 2 ||[[Southwest Cadillac]]|| RMX2D-7 || ||
+|| 3 ||[[Envy Mask]]|| RMX2D-7 || ||
+|| 4 ||[[Cosmic Bird]]|| RMX2D-7 || ||
+|| ||||||BE에만 있고 BE rA에서 삭제된 채널. 채널 이름으로 미루어보면 5키의 RMX2D 채널처럼 키음으로 어레인지를 한 채보들이라 추측해볼 수 있다. 동영상도 안 남아있고 BE 오리지널을 가동하고 있는 업소도 없기 때문에 그 어디에서도 볼 수 없는 채널이 되었다.||
+=== 부활 채널 ===
+||<#F275E1><tablewidth=600px>　|| '''Cool Korean Pop'''[[br]]Ez2Dj 2nd TraX ~It rules once again~ |||| Lv.4 ||
+|| 1 ||[[For 3 Weeks]]|| || 237 ||
+|| 2 ||[[Combination]]|| || 342 ||
+|| 3 ||[[Bob]]|| || 415 ||
+|| 4 ||[[My Honey]]|| || 389 ||
+||<#F275E1>　|| '''House Nation'''[[br]]Ez2Dj 2nd TraX ~It rules once again~ |||| Lv.4 ||
+|| 1 ||[[Get It Up]]|| || 390 ||
+|| 2 ||[[Stay]]|| || 404 ||
+|| 3 ||[[We Luv Music]]|| || 526 ||
+|| 4 ||[[Departure]]|| || 380 ||
+||<#F275E1>　|| '''Soft Music Net'''[[br]]Ez2Dj 2nd TraX ~It rules once again~ |||| Lv.4 ||
+|| 1 ||[[Sentimental No! No!]]|| || 293 ||
+|| 2 ||[[Confete]]|| || 370 ||
+|| 3 ||[[Appeal]]|| || 452 ||
+|| 4 ||[[R.D.M. ~Rain Drops in My mind~|R.D.M.]]|| || 336 ||
+||<#F275E1>　|| '''Rocky Underground'''[[br]]Ez2Dj 2nd TraX ~It rules once again~ |||| Lv.6 ||
+|| 1 ||[[Red Hot]]|| || 393 ||
+|| 2 ||[[Envy Mask]]|| || 459 ||
+|| 3 ||[[Red Ocean]]|| || 501 ||
+|| 4 ||[[DIEOXIN]]|| || 489 ||
+||<#F275E1>　|| '''DJ.Kentauji'''[[br]]Ez2Dj 2nd TraX ~It rules once again~ |||| Lv.7 ||
+|| 1 ||[[Back For More]]|| KEN || 459 ||
+|| 2 ||[[Appeal]]|| KEN || 542 ||
+|| 3 ||[[Stay]]|| KEN || 659 ||
+|| 4 ||[[You Are The One For Me]]|| KEN || 509 ||
+||<#F275E1>　|| '''K&S's -Thick as the Bricks-'''[[br]]Ez2Dj 2nd TraX ~It rules once again~ |||| Lv.7 ||
+|| 1 ||[[Southwest Cadillac]]|| || 488 ||
+|| 2 ||[[Back to Bed]]|| || 598 ||
+|| 3 ||[[Showdown]]|| || 643 ||
+|| 4 ||[[Anytime]]|| || 450 ||
+||<#79A46E>　|| '''Ruby Tuesday'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.8 ||
+|| 1 ||[[Look out ~Here comes my love~|Look Out]]|| || 472 ||
+|| 2 ||[[Back For More]]|| || 454 ||
+|| 3 ||[[Say That U]]|| || 398 ||
+|| 4 ||[[Anytime]]|| || 450 ||
+||<#79A46E>　|| '''Andy Lee'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.9 ||
+|| 1 ||[[2nd Jewel]]|| || 672 ||
+|| 2 ||[[R.F.C.]]|| || 805 ||
+|| 3 ||[[M Police]]|| || 763 ||
+|| 4 ||[[Showdown]]|| || 643 ||
+||<#79A46E>　|| '''Mario Bolden'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.8 ||
+|| 1 ||[[We Luv Music]]|| || 589 ||
+|| 2 ||[[Exist]]|| || 568 ||
+|| 3 ||[[Stay]]|| || 759 ||
+|| 4 ||[[The Rhythm]]|| || 602 ||
+||<#79A46E>　|| '''xxdbxx'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.8 ||
+|| 1 ||[[Substance]]|| || 606 ||
+|| 2 ||[[The 3rd Place]]|| || 715 ||
+|| 3 ||[[Night Watcher]]|| || 697 ||
+|| 4 ||[[Sparrow]]|| || 588 ||
+||<#79A46E>　|| '''Croove'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.11 ||
+|| 1 ||[[Black Market]]|| || 779 ||
+|| 2 ||[[Sand Storm]]|| || 834 ||
+|| 3 ||[[Cosmic Bird]]|| || 938 ||
+|| 4 ||[[Minus 2]]|| || 924 ||
+||<#79A46E>　|| '''Ache'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.7 ||
+|| 1 ||[[JAM(EZ2DJ)|JAM]]|| || 406 ||
+|| 2 ||[[It's My Secret]]|| || 370 ||
+|| 3 ||[[Lie Lie]]|| || 733 ||
+|| 4 ||[[R.F.C.]]|| || 805 ||
+||<#79A46E>　|| '''FEXD'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.8 ||
+|| 1 ||[[Give it 2 me]]|| || 512 ||
+|| 2 ||[[Night Watcher]]|| || 619 ||
+|| 3 ||[[Cosmic Bird]]|| || 798 ||
+|| 4 ||[[You Are The One For Me]]|| || 509 ||
+||<#79A46E>　|| '''Lassoft'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.10 ||
+|| 1 ||[[Stay]]|| || 659 ||
+|| 2 ||[[Smash]]|| || 758 ||
+|| 3 ||[[Minus 2]]|| || 924 ||
+|| 4 ||[[20000000000]]|| || 833 ||
+||<#79A46E>　|| '''Airborn'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.8 ||
+|| 1 ||[[The 3rd Place]]|| || 606 ||
+|| 2 ||[[Appeal]]|| || 541 ||
+|| 3 ||[[Substance]]|| || 773 ||
+|| 4 ||[[Mystic Dream 9903 ~Horror Mix~]]|| || 425 ||
+||<#79A46E>　|| '''Ponglow'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.11 ||
+|| 1 ||[[Smash]]|| || 977 ||
+|| 2 ||[[Sand Storm]]|| || 902 ||
+|| 3 ||[[The Future]]|| || 828 ||
+|| 4 ||[[Ztar warZ]]|| || 648 ||
+||<#79A46E>　|| '''Kentauji'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.12 ||
+|| 1 ||[[Lie Lie]]|| || 822 ||
+|| 2 ||[[Shake]]|| || 674 ||
+|| 3 ||[[Y-Gate]]|| || 910 ||
+|| 4 ||[[Give it 2 me]]|| || 754 ||
+||<#79A46E>　|| '''Ominan'''[[br]]Ez2Dj 3rd TraX ~Absolute Pitch~ |||| Lv.12 ||
+|| 1 ||[[Sparrow]]|| || 688 ||
+|| 2 ||[[Black Market]]|| || 873 ||
+|| 3 ||[[20000000000]]|| || 984 ||
+|| 4 ||[[Get the beat]]|| || 166 ||
+||<#F0BF5B>　|| '''imp17'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.7 ||
+|| 1 ||[[Lovely Day]]|| || 374 ||
+|| 2 ||[[In a Nutshell]]|| || 454 ||
+|| 3 ||[[Aquaris]]|| || 696 ||
+|| 4 ||[[Feel So Sad]]|| || 665 ||
+||<#F0BF5B>　|| '''Lassoft'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.7 ||
+|| 1 ||[[Blue]]|| || 623 ||
+|| 2 ||[[Lovely Day]]|| || 374 ||
+|| 3 ||[[JMJ]]|| || 743 ||
+|| 4 ||[[Delight]]|| || 640 ||
+||<#F0BF5B>　|| '''Andy Lee'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.9 ||
+|| 1 ||[[Judgement]]|| || 486 ||
+|| 2 ||[[Futurist]]|| || 685 ||
+|| 3 ||[[Climax]]|| || 1051 ||
+|| 4 ||[[Go!]]|| || 783 ||
+||<#F0BF5B>　|| '''光'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.9 ||
+|| 1 ||[[The Boy]]|| || 256 ||
+|| 2 ||[[JAM(EZ2DJ)|JAM]]|| || 406 ||
+|| 3 ||[[Back For More]]|| || 418 ||
+|| 4 ||[[Look Out]]|| || 419 ||
+||<#F0BF5B>　|| '''xxdbxx'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.8 ||
+|| 1 ||[[Ready to Yah]]|| || 569 ||
+|| 2 ||[[Calling me Now]]|| || 828 ||
+|| 3 ||[[Metagalatic G - 1000]]|| || 853 ||
+|| 4 ||[[Eye of Beholder]]|| || 916 ||
+||<#F0BF5B>　|| '''Croove'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.9 ||
+|| 1 ||[[Aquaris]]|| NM || 856 ||
+|| 2 ||[[Shout]]|| HD || 864 ||
+|| 3 ||[[B.O.W.]]|| NM || 874 ||
+|| 4 ||[[Mad Robot]]|| HD || 918 ||
+||<#F0BF5B>　|| '''KimYS'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.10 ||
+|| 1 ||[[Shout]]|| || 864 ||
+|| 2 ||[[Eye of Beholder]] || || 945 ||
+|| 3 ||[[Fire Storm]]|| || 903 ||
+|| 4 ||[[Feel So Sad]]|| || 807 ||
+||<#F0BF5B>　|| '''FE'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.11 ||
+|| 1 ||[[Give it 2 me]]|| || 754 ||
+|| 2 ||[[Cosmic Bird]]|| || 938 ||
+|| 3 ||[[B.O.W.]]|| || 892 ||
+|| 4 ||[[Metagalatic G - 1000]]|| || 966 ||
+||<#F0BF5B>　|| '''Ponglow'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.12 ||
+|| 1 ||[[Mad Robot]]|| || 918 ||
+|| 2 ||[[Climax]]|| || 1173 ||
+|| 3 ||[[Fire Storm]]|| || 946 ||
+|| 4 ||[[Aquaris]]|| || 874 ||
+||<#F0BF5B>　|| '''TOMATO'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.12 ||
+|| 1 ||[[Stay]]|| HD || 759 ||
+|| 2 ||[[The Future]]|| HD || 828 ||
+|| 3 ||[[Showdown]]|| HD || 643 ||
+|| 4 ||[[Sand Storm]]|| HD || 902 ||
+||<#F0BF5B>　|| '''Rehpic'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.9 ||
+|| 1 ||[[Futurist]]|| || 585 ||
+|| 2 ||[[It's My Secret]]|| || 497 ||
+|| 3 ||[[JMJ]]|| || 841 ||
+|| 4 ||[[R.D.M.]]|| || 366 ||
+||<#F0BF5B>　|| '''Minan'''[[br]]Ez2Dj 4th TraX ~Over Mind~ |||| Lv.13 ||
+|| 1 ||[[Complex]]|| SHD || 1054 ||
+|| 2 ||[[B.O.W.]]|| SHD || 892 ||
+|| 3 ||[[Fire Storm]]|| MN || 1129 ||
+|| 4 ||[[20000000000]]|| SHD || 1118 ||
+||<#B0B0B0>　|| '''Shukei'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.5 ||
+|| 1 ||[[Lovely Day]]|| || 502 ||
+|| 2 ||[[Memories(EZ2DJ)|Memories]]|| || 576 ||
+|| 3 ||[[Delight]]|| || 640 ||
+|| 4 ||[[Look Out]]|| || 472 ||
+||<#B0B0B0>　|| '''Eridanus'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.7 ||
+|| 1 ||[[느낌]]|| || 449 ||
+|| 2 ||[[Any way you want it]]|| || 488 ||
+|| 3 ||[[Riff Guy]]|| || 581 ||
+|| 4 ||[[Cellavue]]|| || 334 ||
+||<#B0B0B0>　|| '''DJ-FE'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.8 ||
+|| 1 ||[[Spotlight]]|| || 533 ||
+|| 2 ||[[I've got this feeling]] (DJ.FE Restless Acid Soul Mix)|| || 648 ||
+|| 3 ||[[Memories(EZ2DJ)|Memories]]|| || 643 ||
+|| 4 ||[[JMJ]] (DFC Space Gear Re-formation)|| || 793 ||
+||<#B0B0B0>　|| '''imp17'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.10 ||
+|| 1 ||[[Aquaris]]|| || 856 ||
+|| 2 ||[[JMJ]] (DFC Space Gear Re-formation)|| || 807 ||
+|| 3 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| || 851 ||
+|| 4 ||[[Delight]]|| || 640 ||
+||<#B0B0B0>　|| '''Necobus'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.11 ||
+|| 1 ||[[Mad Robot]]|| || 918 ||
+|| 2 ||[[Q Factor]]|| || 677 ||
+|| 3 ||[[Climax]]|| || 1173 ||
+|| 4 ||[[Panic Strike]]|| || 803 ||
+||<#B0B0B0>　|| '''DJ-Forte Escape'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.12 ||
+|| 1 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| || 893 ||
+|| 2 ||[[Q Factor]]|| || 677 ||
+|| 3 ||[[Panic Strike]]|| || 803 ||
+|| 4 ||[[Zeroize]]|| || 871 ||
+||<#B0B0B0>　|| '''Minan'''[[br]]Ez2Dj 5th TraX ~Platinum~ |||| Lv.14 ||
+|| 1 ||[[Fire Storm]]|| SHD || 1123 ||
+|| 2 ||[[Zeroize]]|| HD || 1128 ||
+|| 3 ||[[Panic Strike]]|| HD || 1078 ||
+|| 4 ||[[20000000000]]|| SHD || 1118 ||
+||<#EE83A3>　|| '''Platinum Hits'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.8 ||
+|| 1 ||[[Lovely Day]]|| || 689 ||
+|| 2 ||[[Lie Lie]]|| || 822 ||
+|| 3 ||[[R.F.C.]]|| || 805 ||
+|| 4 ||[[Theme of EZ2DJ 2]]|| || 711 ||
+||<#EE83A3>　|| '''A.O.Music'''[[br]]Ez2Dj 6th TraX ~Self Evolution~ |||| Lv.7 ||
+|| 1 ||[[Refresh]]|| || 474 ||
+|| 2 ||[[Your Style]]|| || 563 ||
+|| 3 ||[[Stay with me]]|| || 630 ||
+|| 4 ||[[Dance With Me]]|| || 645 ||
+||<#FD975B>　|| '''r300k'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[The World]]|| r300k || 848 ||
+|| 2 ||[[Energy Flower]]|| r300k || 1235 ||
+|| 3 ||[[Round 3]]|| r300k || 1171 ||
+|| 4 ||[[Sunlight]]|| r300k || 1141 ||
+||<#FD975B>　|| '''DJ.Praya'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Let me hear your voice]]|| Praya || 1061 ||
+|| 2 ||[[Forget]]|| Praya || 976 ||
+|| 3 ||[[빛바랜 영혼]]|| HD || 962 ||
+|| 4 ||[[Mage Girl Story]]|| HD || 1124 ||
+||<#FD975B>　|| '''M2U'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Toy War]]|| NM || 1293 ||
+|| 2 ||[[White Rose]]|| NM || 986 ||
+|| 3 ||[[Paradise]]|| NM || 1265 ||
+|| 4 ||[[天地開闢]]|| NM || 869 ||
+||<#FD975B>　|| '''Team Curium'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Silver Ocean]]|| NM || 640 ||
+|| 2 ||[[G.O.A]]|| Curium || 1234 ||
+|| 3 ||[[Unrequited love 2]]|| NM || 921 ||
+|| 4 ||[[Legacy of Hatred]] (live)|| Curium || 1201 ||
+||<#FD975B>　|| '''RYU♥star'''[[br]]Vocal's Collection |||| Lv.11 ||
+|| 1 ||[[빛바랜 영혼]]|| HD || 962 ||
+|| 2 ||[[Sunlight]]|| RYU♥star || 1157 ||
+|| 3 ||[[Let me hear your voice]]|| Praya || 1061 ||
+|| 4 ||[[To My Love]]|| RYU♥star || 394 ||
+||<#FD975B>　|| '''Spring Head'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Return]]|| HD || 1340 ||
+|| 2 ||[[Soul Eater]]|| HD || 1010 ||
+|| 3 ||[[Fallen Angel]]|| SpringHead || 1395 ||
+|| 4 ||[[Revelation]]|| NM || 1756 ||
+||<#FD975B>　|| '''Transin'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Dreamy Flight]]|| Transin || 1154 ||
+|| 2 ||[[Soul Destructor]]|| HD || 1128 ||
+|| 3 ||[[Black Flame]]|| Transin || 1178 ||
+|| 4 ||[[Explode Engine]]|| Transin || 1014 ||
+||<#FD975B>　|| '''RYUminus'''[[br]]Mania Zone Developer |||| Lv.14 ||
+|| 1 ||[[Fell Hound 3]]|| RYUminus || 1299 ||
+|| 2 ||[[Round 3]]|| RYUminus || 1565 ||
+|| 3 ||[[Toy War]]|| RYUminus || 1666 ||
+|| 4 ||[[Revelation]]|| RYUminus || 1994 ||
+||<#E1812D>　|| '''Minus Collection'''[[br]]Feel The Pain of Dj Croove |||| Lv.9 ||
+|| 1 ||[[Minus 1]]|| Minus || 480 ||
+|| 2 ||[[Minus 1]]|| Minus || 588 ||
+|| 3 ||[[Minus 1 ~ space mix]]|| Minus || 854 ||
+|| 4 ||[[Minus 2]]|| Minus || 1049 ||
+||<#CB744F>　|| '''Hamence'''[[br]]Bug & Error Tester |||| Lv.10 ||
+|| 1 ||[[Holic]]|| Hamence || 1160 ||
+|| 2 ||[[R.E.D.]] ~Red Evil of Death~|| Hamence || 1221 ||
+|| 3 ||[[Never Feel This Way]]|| Hamence || 1565 ||
+|| 4 ||[[Legend of Moonlight]]|| Hamence || 1620 ||
+||<#CB744F>　|| '''Trick BPM'''[[br]]Unforseeable Circumstances |||| Lv.! ||
+|| 1 ||[[The Rhythm]]|| TrB || 761 ||
+|| 2 ||[[Black Bird]]|| TrB || 737 ||
+|| 3 ||[[Panic Strike]]|| TrB || 817 ||
+|| 4 ||[[Fire Storm]]|| TrB || 1029 ||
+|| |||||| CV, BE때는 라디오채널에 1st~6th의 곡에도 롱노트 연속콤보가 일괄 적용되어있었고, 6th까지의 구곡을 포함한 이 채널도 롱노트 연속콤보를 일괄 적용되었었다. 그러나 BERA에서는 라디오 믹스에도 스트릿 믹스처럼 1st~6th의 구곡에는 롱노트 연속콤보를 적용시키지 않았다. 당연 6th까지의 구곡을 포함한 이 채널도 그렇게 되었고, 결국 BERA에서 이 채널을 클리어한 사람은 한 명 뿐...||
+||<#CB744F>　|| '''Sound Addict'''[[br]]If not obvious, probably incorrect |||| Lv.13 ||
+|| 1 ||[[Hypnotize]]|| HD || 847 ||
+|| 2 ||[[Feel So Sad]]|| HD || 1171 ||
+|| 3 ||[[Weird Wave]]|| HD || 1083 ||
+|| 4 ||[[Y-Gate]][* BGA가 3rd 버전이다.]|| HD || 1254 ||
+||<#CB744F>　|| '''VAi'''[[br]]Rain drops in my mind |||| Lv.8 ||
+|| 1 ||[[느낌]]|| VAi || 505 ||
+|| 2 ||[[Sentimental No! No!]]|| VAi || 343 ||
+|| 3 ||[[White Rose]]|| VAi || 744 ||
+|| 4 ||[[R.D.M. ~Rain Drops in My mind~]]|| VAi || 366 ||
+||<#CB744F>　|| '''Exercise'''[[br]]Easy to DJ, You can't miss it |||| Lv.11 ||
+|| 1 ||[[Look Out]] (OST Edit)|| Exercise || 755 ||
+|| 2 ||[[We Luv Music]]|| Exercise || 880 ||
+|| 3 ||[[Back For More]] (OST Edit)|| Exercise || 1003 ||
+|| 4 ||[[Say That U]]|| Exercise || 918 ||
+||<#CB744F>　|| '''Piano Groove'''[[br]]Ez2Dj Piano Concerto Op.1 |||| Lv.11 ||
+|| 1 ||[[Legend of Moonlight]]|| PG || 1189 ||
+|| 2 ||[[Toy War]]|| PG || 1536 ||
+|| 3 ||[[The Prince of Darkness]]|| HD || 1366 ||
+|| 4 ||[[Lucid]]|| PG || 1700 ||
+||<#CB744F>　|| '''PPET'''[[br]]VJ's Choice |||| Lv.13 ||
+|| 1 ||[[Never Feel This Way]]|| PPET || 1808 ||
+|| 2 ||[[Aquaris]]|| PPET || 1368 ||
+|| 3 ||[[Lucid]]|| PPET || 2387 ||
+|| 4 ||[[JMJ]]|| SHD || 1479 ||
+||<#CB744F>　|| '''KIEN'''[[br]]Composer and Pattern Designer |||| Lv.10 ||
+|| 1 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| KIEN || ||
+|| 2 ||[[Space Destiny]]|| KIEN || ||
+|| 3 ||[[Soul Destructor]]|| KIEN || ||
+|| 4 ||[[R.E.D.]] ~Red Evil of Death~|| KIEN || ||
+||<#CB744F>　|| '''Tcun'''[[br]]VJ's Choice |||| Lv.10 ||
+|| 1 ||[[Tokyo 9 P.M.]]|| Tcun || ||
+|| 2 ||[[Complex]]|| Tcun || ||
+|| 3 ||[[Unknown H2]]|| Tcun || ||
+|| 4 ||[[Night Watcher]]|| Tcun || ||
+||<#CB744F>　|| '''Restoration'''[[br]]Re-collection of the 1st & SE TraX |||| Lv.12 ||
+|| 1 ||[[Do You Remember]]|| HD || ||
+|| 2 ||[[Quake in Kyoto]] (Remix)|| HD || ||
+|| 3 ||[[Stay]] (Radio Edit)|| HD || ||
+|| 4 ||[[I've Fallen]]|| HD || ||
+||<#CB744F>　|| '''YaK_won'''[[br]]Ez2Dj 6th TraX Arrange & Remix |||| Lv.10 ||
+|| 1 ||[[Refresh]] (J-Style Edit)|| || ||
+|| 2 ||[[Dance Machine]] (YK House Edit)|| || ||
+|| 3 ||[[Dance With Me]] (Dischord Edit)|| || ||
+|| 4 ||[[Frantic]] (YK Edit)|| || ||
+||<#CB744F>　|| '''sjhdeux'''[[br]]Main Developer |||| Lv.? ||
+|| 1 ||[[2nd Life]]|| || ||
+|| 2 ||[[Don't Say Anything]]|| || ||
+|| 3 ||[[Aura]]|| || ||
+|| 4 ||[[Sinus - Secret Heart]]|| || ||
+||<#CB744F>　|| '''Redemption'''[[br]]Hard Beat Music for Mania |||| Lv.15 ||
+|| 1 ||[[DIEOXIN]]|| Redemption || ||
+|| 2 ||[[Q Factor]]|| HD || ||
+|| 3 ||[[R.F.C.]]|| HD || ||
+|| 4 ||[[Be-at Feedback]]|| SHD || ||
+||<#E1812D>　|| '''399M'''[[br]]Pattern Designer |||| Lv.14 ||
+|| 1 ||[[Black Bird]]|| 399M || 1362 ||
+|| 2 ||[[The 3rd Place]]|| 399M || 855 ||
+|| 3 ||[[Metagalatic G - 1000]]|| 399M || 1404 ||
+|| 4 ||[[Revelation]]|| 399M || 1794 ||
+||<#E1812D>　|| '''D'''[[br]]Ch.Despair |||| Lv.15 ||
+|| 1 ||[[Legend of Moonlight]]|| D || 1584 ||
+|| 2 ||[[The Prince of Darkness]]|| D || 2114 ||
+|| 3 ||[[Lucid]]|| D || 2215 ||
+|| 4 ||[[Hyper Magic]]|| D || 1804 ||
+||<#D777EF>　|| '''Memme'''[[br]]Composer |||| Lv.9 ||
+|| 1 ||[[An Old Story]]|| HD || ||
+|| 2 ||[[Legend of Moonlight]]|| NM || ||
+|| 3 ||[[Doll's Garden]]|| HD || ||
+|| 4 ||[[Hyper Magic]]|| NM || ||
+||<#D777EF>　|| '''Kebuka'''[[br]]Director |||| Lv.11 ||
+|| 1 ||[[Stay]]|| SHD || || ||
+|| 2 ||[[Sinus - Secret Heart]]|| NM || ||
+|| 3 ||[[Wars of the Roses 1455]]|| Kebuka || ||
+|| 4 ||[[Aquaris]]|| PPET || ||
+||<#D777EF>　|| '''Ira'''[[br]]Composer |||| Lv.11 ||
+|| 1 ||[[The Prince of Darkness]]|| Ira || ||
+|| 2 ||[[Eraser Rain for GAIA]]|| Ira || ||
+|| 3 ||[[Tempus Praeterita]]|| Ira || ||
+|| 4 ||[[Space Destiny]]|| Ira || ||
+||<#D777EF>　|| '''World atom-o-sphere'''[[br]]Composer |||| Lv.14 ||
+|| 1 ||[[Doll's Garden]]|| World || 1215 ||
+|| 2 ||[[Blood Castle]] (Remix)|| World || 1354 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| World || 1435 ||
+|| 4 ||[[神威]]|| World || 2416 ||
+||<#D777EF>　|| '''Violet'''[[br]]The system of class R |||| Lv.16 ||
+|| 1 ||[[Tempus Praeterita]]|| Violet || 1775 ||
+|| 2 ||[[Blood Castle]] (Remix)|| Violet || 1708 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| Violet || 1896 ||
+|| 4 ||[[神威]]|| Violet || 3439 ||

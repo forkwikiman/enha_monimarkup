@@ -1,0 +1,75 @@
+[[목차]]
+|| 장르 |||||||| Drum'n BASS ||
+|| 곡명 |||||||| Anytime ||
+|| 작곡 |||||||| [[Ruby Tuesday]] ||
+|| 작사 |||||||| Brad Davis ||
+|| 보컬 |||||||| Annie Davis ||
+|| 배경 |||||||| KILL ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]][[BR]][wiki:"EZ2Dancer" EZ2Dancer The 1stMOVE] ||
+|| BPM |||||||| 162 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 7}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+ *라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ *[wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube-nocookie.com/embed/T-BAVpimcXU" frameborder="0" allowfullscreen></iframe>
+}}}
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+== 개요 ==
+리듬게임에서 쉽게 보기 힘든 정통파 [[드럼 앤 베이스]]로, 세부 장르로는 리퀴드 펑크에 속한다. 
+
+지금이야 별거 아니지만 그때만 해도 빠른 스크롤 속도의 압박으로 꽤 어려운 편에 속했었다. 첫 등장한 [[이지투댄서]] 1st Move에서는 최종보스 곡으로 등장하였다.
+
+BGA가 매우 추상적이라 무섭다는 의견도 상당하다. 특히 동양의 죽을 사를 연상시키는 [[4]]와 서양의 [[13]]을 곱한 채널 52와 같은 소재가 사용되어 음울한 분위기를 더한다. 그렇지만 가사는 '우울하고 곁에 아무도 없을 때는 언제나 나를 불러달라'라는 따뜻한 내용의 노래이다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+노멀 난이도는 6, 하드의 난이도는 7. 2nd 당시에 난이도가 7이면 꽤나 고난이도에 속했지만 게임 내에서 큰 비중은 없었다.
+EV에서 하드의 난이도가 1단계 올라갔다. 신작에 출시되는 최근의 곡들이 고스트 스크래치가 필요하지 않은 곡이 많아서 고스트 스크래치의 중요 곡중 하나로 분류되는 이 곡을 높이 산 것 같아 보인다.
+=== 7K STANDARD===
+=== 5K COURSE ===
+=== 7K COURSE ===
+K&S 채널[* 표기난이도는 9였지만 체감난이도는 그 이상.]의 영향으로 2nd에선 본좌의 포스를 풍겼지만, 지금은 정녕 비중이 공기화.
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+턴테이블 모드에서는 BERA에서 첫등장. 레벨 표기는 10이나, 10치고는 좀 어려운 편이다. 그래도 패턴의 질은 높다고 평가받는다.
+
+== EZ2Dancer에서의 수록 ==
+{{{#!html
+<iframe width="420" height="315" src="https://www.youtube.com/embed/BvmsWeqKgaw" frameborder="0" allowfullscreen></iframe>
+}}}
+이지투댄서 리얼모드 플레이 영상.
+
+원래 첫 등장은 이지투댄서. 고난이도 곡으로 등장한다.
+
+== EZ2ON에서의 수록 ==
+[[EZ2ON]] 에선 엇박드럼을 모두 [[키음]]으로 뽑아낸 고난이도의 적절한 패턴으로 이식되었다, 그렇지만 그렇게 큰 인기는 끌지 못했다.
+
+== 가사 ==
+||Whenever you're blue and feeling down You can call me anytime 
+Whenever you're blue and feeling down You can call me anytime 
+If things are bad and no one's there You can call me anytime I care 
+If things are bad and no one's there You can call me anytime 
+
+Call me just pick up the phone So I'll let you know you're alone 
+You should never have no fear For you know I'm always here 
+I'm here as you friend Till the very end So you can call me anytime
+Call me just pick up the phone So I'll let you know you're alone 
+You should never have no fear For you know I'm always here 
+I'm here as you friend Till the very end So you can call me anytime
+
+You can call me||
+
+[[각주]]

@@ -1,0 +1,18 @@
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/oYUhK9g2r64&hl=ko&fs=1&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/oYUhK9g2r64&hl=ko&fs=1&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 148 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 561}}} || {{{#orange 9}}} || {{{#orange 938}}} || {{{#red 11}}} || {{{#red 1368}}} || {{{#blue 5}}} || {{{#blue 584}}} || {{{#orange 9}}} || {{{#orange 917}}} || {{{#red 12}}} || {{{#red 1554}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 12 HAPPY SKY ~
+ * 가정용판 수록 : 12 HAPPY SKY
+
+작곡가는 [[dj TAKA]]. [[장르]]는 트랜스로, 제목의 뜻처럼 날카로운 신디사이저 음원이 특색이다. 그 신디사이저 음원에 맞추어 난타와 [[트릴]]이 어우러진 보면구성이 특징. 싱글 어나더는 [[단위인정]] 9단에 배정된 적이 있다.
+
+흔히들 [wiki:"thunder(beatmania IIDX)" thunder]의 리믹스로 알고 있는 곡이기도 한데 엄밀히 말하자면 다른 악곡이다. 본래 이 곡의 연원은 dj TAKA가 이 곡의 원곡을 작곡했을 때, [[DJ YOSHITAKA]]가 이 곡을 듣고 가사가 있는것이 좋다고 하여 thunder의 진행과 비슷한 점을 떠올려 thunder의 보컬을 붙이고, 제목을 번개를 뜻하는 이나즈마로 붙이게 되었다고 한다. dj TAKA 자신은 thunder의 리믹스로 생각하지 않고, 별개의 곡으로 생각하고 있다고는 하지만 제목을 저렇게 붙인걸 봐서는….
+
+곡 타이틀 표시 화면의 INAZUMA란 글씨 뒤에 번개 모양의 그림이 있다.
+
+[[BGA]] 제작은 과거 [[BMS]]쪽에서 활동했던 tats가 했다. 위의 내력을 참고했는지 후반에 thunder라는 문구가 나온다. tats는 다음 작품에서 [[오노 히데유키]]의 유일한 IIDX 참전작인 bluemoon의 BGA를 담당하기도 했다.

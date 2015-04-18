@@ -1,0 +1,44 @@
+동명의 [[비마니 시리즈]]수록곡은 [[BRAINSTORM(비트매니아 IIDX)]]항목 참조
+
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 작곡 || [[CROOVE]] ||
+|| 비주얼 || [[ECO]] ||
+|| 장르 || Junkno ||
+
+||||||||||||<:>[[CROOVE]]의 Storm 시리즈||
+||<:>[[Sand Storm]][[br]]([[EZ2DJ 3rd]])||<:>[[Fire Storm]][[br]]([[EZ2DJ 4th]])||<:>[[Enemy Storm]][[br]]([[DJMAX 온라인]])||<:>'''Brain Storm'''[[br]]([[DMP2]])||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/9J66ALxUxkY?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+처음 공개되었을 때의 BGA
+
+{{{#!html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6_k85CU6a2A?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+ECO의 개인 작업 형식으로 리메이크된 BGA
+
+CROOVE의 독자 연작 시리즈인 스톰 시리즈의 (2012년 현재로서는) 가장 최신곡. --[[wiki:"비트매니아 IIDX"경쟁 게임]]의 [[wiki:"BRAINSTORM(비트매니아 IIDX)"어떤 곡]]과 철자만 같다.--
+본래 블로그를 통해 밝혔던 스톰 시리즈의 새로운 곡으로 계획중이라던 'B 스톰'이 결과물로 나온 것이 이것. 본래는 바흐의 클래식 악곡을 리믹스한 곡을 만들려고 한다고 써놨었는데... 어쨌든 이런 결과물이 나왔다.
+
+초반부터 거하게 몰아치는 음들을 쳐내야 하는 패턴이 특징. 패턴의 밀도에 비해 체감난이도는 낮은 편이어서 어느정도 실력이 되는 사람이라면 올콤보 클리어는 무난하게 할 수 있는 패턴 난이도를 보인다.
+다만 곡 최후반에 CROOVE의 JUNKNO장르 전작이라 할수있는 곡인 [[20000000000]]의 하드패턴 중간 닭갈비구간과 흡사한 가속구간이 자리잡고 있어 높은 판정으로 클리어하기는 매우 힘들다.
+
+그리고 [[DJMAX Trilogy]]에도 수록 되었는데, 8키 SC패턴은 트릴로지의 모든 패턴들 가운데 손에 꼽을수있는 극악 패턴중 하나이다.
+
+ECO의 정신나간 비주얼도 특징이라면 특징. DJMAX 시리즈 작곡가들의 얼굴을 붙여넣어 짜집기한 Sound Storm ~ Pentavision Sound Team VJ Edition ~이라는 영상이 컬렉션 모드의 영상 특전으로 들어있다.
+
+91%의 정확도로 클리어해야 하는 [[Friday Nightmare]] 미션에서 3번째로 나오며 [[Brain Survival]] 미션에서는 이곡만 줄창 나온다. 4B NM, 5B NM, 6B NM, 8B NM, 5B MX 순. '''클리어하고나면 혓바닥으로 책장 넘기는 모습이 한동안 눈앞에 선할것이다.....'''
+
+== Sound Storm ~ Pentavision Sound Team VJ Edition ~ ==
+{{{#!html
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/17Eg2iuAIys&hl=ko_KR&fs=1&color1=0x3a3a3a&color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/17Eg2iuAIys&hl=ko_KR&fs=1&color1=0x3a3a3a&color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+}}}
+
+[[DJMAX Portable 2]]에 특전으로 수록된 영상. [[Brain Storm]]의 [[BGA]]에 개발자들의 얼굴을 합성했다.
+
+등장한 스텝진들은 [[CROOVE]] / [[PlanetBoom]] / [[Electronic Boutique]] / [[Forte Escape]] / [[BEXTER]]
+
+후반의 [[CROOVE]]의 현란한 혀놀림(...)이 엄청나다.

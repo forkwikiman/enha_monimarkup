@@ -1,0 +1,26 @@
+ * 상위 항목 : [[나들목]], [[영동고속도로]]
+
+||<-5><tablewidth=100%><#3594D3><:> '''[[영동고속도로|<span style="color:white">영동고속도로</span>]]{{{#white 의}}} [[영동고속도로/구간|<span style="color:white">구간</span>]]''' ||<|2><width=40%>'''관리기관''' : [[한국도로공사]] 수도권본부 군포지사  [[br]] '''개통일''' : [[1994년]] [[7월 6일]] ||
+||<width=20%> [[서창JC|인　천]] 방면[[br]][[서안산IC]] ||<width=1%> {{{+1 ← }}} ||<width=18%> '''안산IC''' ||<width=1%> {{{+1 → }}} ||<width=20%> [[강릉JC|강　릉]] 방면[[br]][[안산JC]] ||
+||<-6> '''접속도로''' : 가루개로 ||
+
+{{{+1 安山交叉路 / Ansan Interchange }}}
+
+[[목차]]
+
+== 개요 ==
+'''영동고속도로 5번.''' [[경기도]] [[안산시]] [[상록구]] 양상동에 위치한 영동고속도로의 [[나들목]]. 명칭은 소재지인 안산시에서 유래했다.
+
+== 구조 ==
+=== [[강릉JC|강릉]]방향(하행선) ===
+ * 진출 가능 : 가루개로 양방향
+ * 진입 가능 : 가루개로 양방향
+
+=== [[서창JC|인천]]방향(상행선) ===
+ * 진출 가능 : 가루개로 양방향
+ * 진입 가능 : 가루개로 양방향
+
+== 역사 ==
+ * [[1994년]] [[6월 26일]] - [[1994년]] [[7월 4일]] 서해안고속도로 인천 시점 - 안산 분기점 구간을 임시개통하였다.[http://newslibrary.naver.com/viewer/index.nhn?articleId=1994062600209125001&editNo=45&printCount=1&publishDate=1994-06-26&officeId=00020&pageNo=25&printNo=22552&publishType=00010 기사1][http://newslibrary.naver.com/viewer/index.nhn?articleId=1994070300209125003&editNo=45&printCount=1&publishDate=1994-07-03&officeId=00020&pageNo=25&printNo=22559&publishType=00010 기사2]
+ * [[1994년]] [[7월 6일]] 서해안고속도로 인천 시점 - 안산 분기점 구간 개통과 함께 나들목으로 영업을 시작하였다.[http://newslibrary.naver.com/viewer/index.nhn?articleId=1994070700209102004&editNo=45&printCount=1&publishDate=1994-07-07&officeId=00020&pageNo=2&printNo=22562&publishType=00010 기사]
+ * [[2001년]] [[8월 25일]] 서해안고속도로 인천 - 안산 구간이 서창 분기점 서쪽은 제2경인고속도로, 남쪽은 영동고속도로로 편입됨에 따라 영동고속도로의 나들목이 되었다.

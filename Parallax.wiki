@@ -1,0 +1,22 @@
+ * [[DC 코믹스]]에 등장하는 [패럴랙스] 항목을 찾으셨다면 해당 항목 참조.
+
+[[목차]]
+
+== 시차(視差) ==
+Parallax, 관측자가 어떤 물체를 동시에 두 지점에서 보았을 때 생기는 방향의 차.
+
+== [하프라이프] [MOD] ==
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/BLgwfDAiF2I?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BLgwfDAiF2I?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[Minerva]로 유명한 Adam Foster가 '''만들다가 말은'''[* 두번째 맵부터 막다른 길이라 진행이 불가능하다.] [하프라이프] 싱글플레이 [MOD]들중 하나.[* 다른쪽은 [Someplace Else].]
+
+[하프라이프]의 무대이기도 한 [블랙 메사]가 배경이며, 제작자의 다른 작품인 [Someplace Else]와 엇비슷하게 '''플레이 가능한 맵이 하나다'''.
+
+그래도 [레벨 디자인]이 꽤 아기자기하게 구성된 수준이다.
+
+== [[박정현]]의 8집 앨범 타이틀 ==
+2012년 6월 발매. 자세한 수록곡은 [[wiki: "박정현/음반 목록" 이쪽]]으로
+
+[[각주]]

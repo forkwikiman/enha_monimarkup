@@ -1,0 +1,95 @@
+[[목차]]
+
+== [[DJMAX TECHNIKA]]의 수록곡 ==
+
+|||| [[DJMAX 시리즈/수록곡 목록]] ||
+|| 최초 수록 버전 || [[DJMAX TECHNIKA]] ||
+|| 작곡 || [[7 Sequence]] ||
+|| 장르 || Technical House ||
+|| [[BPM]] || 130 ||
+|| [[BGA]] || [[ECO]](타이틀 이미지), [wiki:"D(디자이너)" D](영상) ||
+
+[[메트로 프로젝트]] 타이틀 곡
+
+|| [[Flea]] (CE) ||
+|| [[Get Down]] (BS) ||
+|| '''Beyond the Future''' (TechniKa) ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/oeWZijwBe1Q?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+DJMAX TECHNIKA 2에서 추가된 BGA.
+
+2009년 9월 1일, 테크니카 Evolution EP 업데이트 기념 이벤트라는 제목으로 테크니카 홈페이지에 글이 하나 올라왔다. 이벤트의 내용인즉, 플래티넘 믹싱에서 이벤트 세트를 플레이해서 매주 지정되는 등수를 차지하게 되면 상품을 준다는 것.
+
+첫 곡과 두번째 곡은 공개되어 있었으나, 세번째 곡은 물음표로 처리되어있었는데, 뜻밖에도 이 마지막 곡이 '''신곡'''이었다. 바로 이 곡 비욘드 더 퓨처. 이는 [[DJMAX TECHNIKA]]의 부제이기도 하다. --그럼 테크니카 2에서는 Crew Race 곡이 나오는 것인가?--
+
+약칭은 '''비욘드'''.
+
+작곡자는 [DJMAX Portable Black Square]에 [Cypher Gate]를 낸 적이 있는 [7 Sequence]. 리듬게이머들에게 큰 호평을 받고 강렬한 인상을 준 곡인 [Cypher Gate] 에 비하면 포스가 떨어진다는 이야기도 있지만, 이 곡 역시 꽤나 호평을 받고 있다. [DJMAX TECHNIKA 시리즈]의 분위기에 딱 어울리는 곡이라는 평. 다들 이벤트용 세트에 신곡이 있을 거라고는 생각지도 못했기 때문이기도 하고...
+
+문제는, [[Thor]]에 이어서 또 [[범용 BGA]]를 썼다. 사실, 테크니카의 BGA 하나가 수백MB의 용량을 가지고 있기 때문에, 네트워크 업데이트만으로만 BGA까지 업로드하기엔 무리가 있긴 하지만, 과정이 어쨌든, 플레이어들 입장에서는 꽤 아쉬운 일인건 사실.
+
+그러나 [[DJMAX TECHNIKA 2]]에는 새로운 BGA가 추가 되어 나왔다. [[Thor]]와 마찬가지로 기존 아이캐치 2장 + 루프이지만 큐브 배치를 중심으로 한 이펙트가 꽤나 화려하며 곡과도 상당히 잘 어울린다. 다만 아케이드 시리즈의 타이틀 곡이라는 것을 생각하면 상당히 아쉬운 부분이다.
+
+=== [DJMAX TECHNIKA] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/mSqxhXGLS8E" frameborder="0" allowfullscreen></iframe>}}}
+
+SP 패턴.
+
+저난이도 세트에선 LP가, 중난이도에선 PP가, 고난이도 세트에서는 TP가 나왔다.
+생각보다 LP,PP,TP 의 서로간의 난이도차는 크지 않다. 오히려 스크롤 속도가 느린 LP와 PP가 TP보다 어렵다는 평도 많다.
+
+이벤트가 끝난 뒤, 10월 스페셜 패턴으로 PP패턴을 2배속으로 바꾼 SP패턴이 등장하였으며,
+[wiki:"Futurist"Futurist Set]의 MAX 98% 미만 보스곡으로 TP패턴이 재등장하였다. PP패턴도 드물긴 하지만 [[Randomizer Set]]에서 등장한다. ~~하지만 LP는 라인 수가 바뀌어서 영영 나오지 않는다.~~
+
+=== [DJMAX TECHNIKA 2] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/jiCFGwYnmrM" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴(테크니카 1 기준 TP)
+
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+|| Star || D || 300 MAX || 4 || 8박 스크롤 || ||
+|| NM || D || 400 MAX || 6 || 8박 스크롤 || ※[지뢰곡] ||
+|| HD || D || 500 MAX || 7 || 8박 스크롤 || ※[지뢰곡] ||
+|| MX || C || 600 MAX || 8 || 4박 스크롤 || [wiki:"Futurist"Futurist Set] 하위 보스곡, ※[물렙곡] ||
+
+[[DJMAX TECHNIKA 2]]에서는 오픈곡이 아니기 때문에 맥스샵에서 사야 한다. 그리고 다른 곡들과는 다르게 기존의 SP패턴이 아닌 TP패턴을 MX패턴으로 사용하고 있으며, LP와 PP도 각각 NM과 HD로 상향되었다. 거기에 새로이 Star 패턴도 추가되었다. ~~다만, SP가 잘렸다.~~
+NM과 HD는 8박 스크롤 관광이 문제인지라 사기라는 평이 많으며, MX는 문제의 후반부에서 롱노트만 버려도 클리어 난이도가 상당히 낮아진다. 또한 4박스크롤이라 밀집되어있던 노트들이 분산되어 더욱 쉬워진다. 때문에 역사기로 꼽힌다.[* 롱노트를 누르면 콤보 위주로 지속적으로 점수를 얻는 테크니카 초대작과는 달리, 테크니카2에서는 롱노트류 처리시 콤보는 지속적으로 올라가지만 점수는 노트를 처음 누를 때와 뗄 떼 두번만 올라간다. 즉 상당히 긴 롱노트를 버리면 점수가 반토막이 나는 초대작과 달리, 테크니카2에서는 롱노트를 버려도 득점에도 크게 문제가 없다. 또한 롱노트+일반노트의 씹힘이 줄어들어서 더더욱 수월하다.] 같은 곡이 사기곡에도, 역사기곡에도 들어가는 몇없는 예 (...). 물론, MX 패턴의 스코어링은 상당히 어려운 편. 또한, 스타 패턴도 8박이지만, 이쪽은 노트가 NM보다 훨씬 적기 때문에 난이도가 매우 적절하다.
+
+=== [DJMAX TECHNIKA 3] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/o_nwXj5MMWU" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(테크니카 1 기준 PP)
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || 4 || 8박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 6 || 8박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 7 || 8박 스크롤 || ※[지뢰곡] ||
+||<#FF0000> Maximum || B || 200 Max || 8 || 4박 스크롤 || [wiki:"Futurist"Futurist Set] 하위 보스곡 ||
+
+전작 그대로 이식되었다.
+
+=== [TAP SONIC] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/erCZXBYOloM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>}}}
+Tap Mix OST
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/oHAoM9I1TCY?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>}}}
+6B 레전드
+
+음원이 조금 다르게 나왔다. 단순해졌지만 무거운 느낌이 강해졌다는 평가를 받고 있다.
+
+[[TAP SONIC]]에서는 6라인 레전드 기준 7레벨인데, 처음부터 박자가 어긋나는 짧은 멀티태스킹이 나오는 데다 중반부에는 손꼬이는 긁기에 후반부에는 한 쪽은 롱노트 누르고 다른 쪽은 2연발 단타 세례를 처리해야 하기 때문에 7레벨 치고 어렵다는 평이 대부분.
+
+== [[오토메 게임]] [[Beyond the future - Fix the time arrows -]] ==
+[[5pb.]] 사에서 제작했다. 자세한 것은 해당 항목 참조.

@@ -1,0 +1,25 @@
+ * 상위문서: [[곤충강(생물목록)]]
+ * 일반적인 내용은 [[풀잠자리목]] 참고.
+
+[[목차]]
+
+풀잠자리목(풀잠자리目, Neuroptera)은 일반적으로 긴 더듬이에 겹눈이 잘 발달해있고 두 쌍의 막질 날개에 쉴 때는 지붕 모양으로 날개를 몸 위로 접는 곤충이다.
+
+= 풀잠자리아목(Hemerobiiformia) =
+== 풀잠자리상과(Chrysopoidea) ==
+  * [풀잠자리]과(green lacewing) 
+== 가루풀잠자리상과(Coniopterygidae) ==
+  * 가루풀잠자리과(dustywing)
+== 뱀잠자리붙이상과(Hemerobioidea) ==
+  * [뱀잠자리붙이]과(brown lacewing)
+== 나방풀잠자리상과(Ithonioidea) ==
+  * 나방풀잠자리과(moth lacewing)
+  * 큰풀잠자리과(giant lacewing)
+== 사마귀붙이상과(Mantispoidea) ==
+  * [사마귀붙이]과(mantispids)[* 사마귀를 많이 닮았다. 수렴진화의 대표적인 예 중 하나. 아예 분류학명과 영명에 [사마귀]를 뜻하는 Mantis가 들어가 있다!]
+  * 털잠자리과(beaded lacewing)
+
+= 명주잠자리아목(Myrmeleontiformia) =
+== 명주잠자리상과(Myrmeleontoidea) ==
+  * [[명주잠자리]]과(antlion) 
+  * [[뿔잠자리]]과(owlfly)

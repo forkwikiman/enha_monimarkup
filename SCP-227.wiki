@@ -1,0 +1,6 @@
+[[include(틀:SCP)]]
+||<tablewidth=70%><tablealign=center><-2><:> '''[[SCP 재단]]''' ||
+|| '''일련번호''' || SCP-227 ||
+|| '''별명''' || 완전한 [안티키테라 기계](Complete Antikythera Mechanism) ||
+|| '''등급''' || 안전(Safe) ||
+|| '''원문''' || [[http://www.scp-wiki.net/scp-227]] ||

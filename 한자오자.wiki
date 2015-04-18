@@ -1,0 +1,23 @@
+[[목차]]
+
+== 개요 ==
+말 그대로 [[한자]]를 [[오자|잘못 작성하는 것]]. 당연히 한자 사용지역인 [[한국]], [[일본]], [[중화권]]([[중국]], [[대만]])에서 주로 일어난다. 주로 활자를 쓰던 시절에 신문제작 과정에서 한자를 잘못 찍어낸 경우가 한자를 잘못 작성한 것이다.
+한국 한정으로 [[국한혼용체]]를 썼었던 때에 많이 나왔었으나, 대부분의 인쇄물이 한글 전용으로 찍어내는 지금은 거의 사라졌다. 한글전용으로 한자오자가 원천 차단된 탓도 있지만 입력, 인쇄 방식의 변화도 한 몫 했다. 활판인쇄에서 컴퓨터 입력 방식으로 바뀐 것. 아래의 예시도 옛날 신문이 대부분이다. 다만 오늘날에도 인명과 같은 고유명사에서는 자주 발생하는 편이다. 혹은 한자에 대한 무지, 변환 실수로 음만 같은 다른 한자어로 변환되는 오류가 간혹 나오는 편이다. 주로 지하철 역사에서 많이 볼 수 있다.(...)
+
+== 목록 ==
+ * 犬統領, 太統領([[견통령]], 태통령) : 大統領([[대통령]])
+ * 犬韓民國, 太韓民國(견한민국, 태한민국) : 大韓民國([[대한민국]])[* [http://newslibrary.naver.com/viewer/index.nhn?articleId=1969010100209205002&edtNo=2&printCount=1&publishDate=1969-01-01&officeId=00020&pageNo=5&printNo=14531&publishType=00020 견한민국으로 표기된 기사]와 [http://newslibrary.naver.com/viewer/index.nhn?articleId=1982082500099202017&edtNo=2&printCount=1&publishDate=1982-08-25&officeId=00009&pageNo=2&printNo=5069&publishType=00020 태한민국으로 표기된 기사]가 있지만 이것은 신문제작과정에서 한자를 잘못 찍어낸 것이다. 지금은 대한민국 내부의 문제점을 비판이나 비난하기 위해서 그렇게 쓰는 경우가 있다. 또 지금은 없어진 [http://cafe.naver.com/correctkorea/12938 모 친일카페의 제목이 견한민국(犬韓民國)]이기도 했는데, 그 카페주소명이 RepublicDogKorea 이다.]
+ * 白動車(백동차) : 自動車([[자동차]])[* 신문사가 잘못 작성하다보니 화물자동차가 화물백동차(貨物白動車)로 나왔으며, 현대자동차와 쌍용자동차는 현대백동차(現代白動車)와 쌍용백동차(雙龍白動車)로 나오기도 했다. [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1967032300099202012&editNo=1&printCount=1&publishDate=1967-03-23&officeId=00009&pageNo=2&printNo=310&publishType=00020 1967년 기사]], [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1988041300099205001&editNo=1&printCount=1&publishDate=1988-04-13&officeId=00009&pageNo=5&printNo=6802&publishType=00020 1988년 기사1]], [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1988070500099205006&editNo=1&printCount=1&publishDate=1988-07-05&officeId=00009&pageNo=5&printNo=6872&publishType=00020 1988년 기사2]]]
+ * 白轉車(백전거, 백전차) : 自轉車([[자전거]])[* [[http://newslibrary.naver.com/viewer/index.nhn?articleId=1974042600099205008&editNo=1&printCount=1&publishDate=1974-04-26&officeId=00009&pageNo=5&printNo=2506&publishType=00020 1974년 기사]]]
+ * [[wiki:"코메이지 사토리/스펠카드" 想起「飛行虫ネスト」]](상기「비행충 네스트」) : 想起「飛光虫ネスト」(상기「비광충 네스트」)[* [[야쿠모 유카리]]의 원본 스펠 카드가 幻巣 「飛光虫ネスト」인데, 光와 行의 음독이 こう로 같아서 벌어진 일.]
+ * 自紙化(자지화) : 白紙化([[백지화]]) ~~[[아주 좆되는거야]]~~
+ * 犬帝, 太帝(견제, 태제) : 大帝([[대제]])[* 1980년대의 일본 [[요미우리신문]]이 기사 작성중 [[메이지]]대제를 메이지견제라고 잘못 작성했다.]
+ * 犬会(견회) : 大会([[대회]])[* 1990년대 중국에서 [[인민일보]]가 전국인민대회 관련기사를 작성중 "대회"부분을 잘못 작성후, 그것이 그대로 나가는 바람에 피의 숙청이 불가피했었다.]
+ * ~~[[必要韓紙]]~~
+=== 인명 ===
+ * 金斗煥([[김두환]]) : 全斗煥([[전두환]])[* [http://newslibrary.naver.com/search/searchByKeyword.nhn#%7B%22mode%22%3A1%2C%22sort%22%3A0%2C%22trans%22%3A1%2C%22pageSize%22%3A10%2C%22keyword%22%3A%22%EA%B9%80%EB%91%90%ED%99%98%20%EB%8C%80%ED%86%B5%EB%A0%B9%22%2C%22status%22%3A%22success%22%2C%22startIndex%22%3A1%2C%22page%22%3A1%7D #]]
+ * 溫家室(온가실) : 溫家宝([[원자바오|온가보]])
+ * 江怪民(강괴민) : 江泽民([[장쩌민|강택민]])
+ * 季承晩(계승만) : 李承晩([[이승만]])[* [http://cluster1.cafe.daum.net/_c21_/bbs_search_read?grpid=1Gb45&fldid=Sb1O&datanum=101&openArticle=true&nil_openapi=search #]]
+
+위의 경우 외에도 더 있는 경우에는 추가바람

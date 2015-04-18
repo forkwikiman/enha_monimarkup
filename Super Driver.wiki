@@ -1,0 +1,79 @@
+[[목차]]
+
+== 개요 ==
+http://image.maniadb.com/images/album/310/310704_1_f.jpg?width=300
+싱글음반 자켓
+
+[[히라노 아야]]의 9번째 싱글음반 및 동명의 타이틀곡. 싱글음반은 2009년 7월 22일 발매되었다.
+
+타이틀 곡은 경쾌한 락 음악이다.
+
+[[youtube(yBS0AGgGTnQ, width=640, height=360)]]
+스즈미야 하루히의 우울(2009년 판) 오프닝 영상
+
+[[스즈미야 하루히의 우울/애니메이션]]의 2009년 판 오프닝 곡이다.
+
+여담으로 가사를 [[엔들리스 에이트]]를 만든 회사의 입장에서 바라보면 기분이 참 묘하다. '''정말로'''...
+
+== PV ==
+[[youtube(bJB4ePi45RQ, width=640, height=480)]]
+
+== [[BEMANI 시리즈]]에 수록 ==
+attachment:super_driver_in_game.png?width=300
+게임 안에서의 자켓
+
+[[댄스 댄스 레볼루션]]과 [[리플렉 비트 시리즈]]에 판권곡으로 수록되었다.
+
+=== [[댄스 댄스 레볼루션]] ===
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple -}}} ||
+||<|3> 200 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 13}}} || {{{#purple -}}} ||
+
+|||||||||||||||||| GROOVE RADAR 수치 ||
+|| 싱글 || {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| STREAM || {{{#blue 18}}} || {{{#orange 36}}} || {{{#red 57}}} || {{{#green 73}}} || {{{#purple -}}} ||
+|| VOLTAGE || {{{#blue 16}}} || {{{#orange 33}}} || {{{#red 50}}} || {{{#green 66}}} || {{{#purple -}}} ||
+|| AIR || {{{#blue 0}}} || {{{#orange 3}}} || {{{#red 41}}} || {{{#green 69}}} || {{{#purple -}}} ||
+|| FREEZE || {{{#blue 0}}} || {{{#orange 30}}} || {{{#red 26}}} || {{{#green 33}}} || {{{#purple -}}} ||
+|| CHAOS || {{{#blue 0}}} || {{{#orange 0}}} || {{{#red 3}}} || {{{#green 16}}} || {{{#purple -}}} ||
+|||| 더블 || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| STREAM || || {{{#orange 39}}} || {{{#red 57}}} || {{{#green 73}}} || {{{#purple -}}} ||
+|| VOLTAGE || || {{{#orange 33}}} || {{{#red 50}}} || {{{#green 66}}} || {{{#purple -}}} ||
+|| AIR || || {{{#orange 5}}} || {{{#red 47}}} || {{{#green 56}}} || {{{#purple -}}} ||
+|| FREEZE || || {{{#orange 28}}} || {{{#red 30}}} || {{{#green 41}}} || {{{#purple -}}} ||
+|| CHAOS || || {{{#orange 0}}} || {{{#red 3}}} || {{{#green 16}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/삭제곡, 아케이드 미수록곡|곡 목록으로 돌아가기]]
+
+DanceDanceRevolution X2에 첫 수록되었으며, [[Dance Dance Revolution(2014)|DanceDanceRevolution]]에서 2015년 3월 13일 삭제되었다.
+
+[[youtube(Uoel338WmRY, width=640, height=480)]]
+ESP 영상
+
+싱글 익스퍼트 난이도가 12. 전형적인 정박 위주의 체력곡으로, 엇박은 많이 나오지 않기 때문에 체력이 어느정도 된다면 플레이에 큰 무리는 없다. 하지만 그래도 판권곡 중에서는 상위권이니 주의. 
+
+커팅에 맞춘 PV가 전체화면 BGA로 나온다.
+
+=== [[리플렉 비트 시리즈]] ===
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 200 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 6}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 99}}} || {{{#orange 239}}} || {{{#red 382}}} ||
+|| 수록버전 ||||||||<#FF1AF8> [[리플렉 비트]] ||
+||||||||||<#ffffff> REFLEC BEAT와 난이도 비교 - '''없음'''.||
+
+[[youtube(xkUM82btAv4, width=640, height=480)]]
+초대작 하드패턴영상
+
+[[youtube(D2Dvxmu9JZg, width=640, height=360)]]
+라임라이트버전 하드패턴영상(한손플레이다.)
+
+리플렉 비트에서는 하드가 난이도 8로, 판권곡 중에서는 중상급에 속하는 곡이다. 주고받는 형태의 곡들이 그렇듯이 이 곡 역시 레드가 먼저 시작하고 블루가 나중에 시작하므로 블루가 유리한 편. 체인 노트가 많이 나오는 편(특히 중후반부 후렴구에). 곡 박자에 익숙하지 않으면 2TOP에서 말아먹을 수 있으니 주의.
+하지만 무엇보다 '''노트가 노래하고 맞지 않기''' 때문에 판정 난이도는 상당히 높은 편이었다. 싱크가 뒤로 밀려있기 때문에 곡의 박자보다 조금 늦게 쳐야 했었다.
+
+결국 [[리플렉 비트 라임라이트]]에서는 싱크가 수정되고 노트 속도가 느려져서 평범한 8렙이 되었다.

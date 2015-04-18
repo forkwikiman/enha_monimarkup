@@ -1,0 +1,24 @@
+[[목차]]
+== [DJMAX TECHNIKA] 시리즈의 세트 ==
+[[DJMAX TECHNIKA 3]]에서 추가된 디스크셋 중 하나.
+난이도는 Normal Performance.
+=== [DJMAX TECHNIKA 3] ===
+==== 수록곡 일람 ====
+
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고/출현조건||
+||1||5||Hip House||[[Hanz up!]]||[[Mr.Funky]]||129||NM|| ||
+||2||6||Nu Breakz||[[Funky People]]||vespers vs myagi||132||HD|| ||
+||3||6||90's Dance||[[Watch Your Step]]||[[XeoN]]||130||HD|| ||
+||4||6||Electro HipHop||[[In the Tdot]]||Triple A||102||MX|| ||
+||5||7||Soulful House||[[Give Me 5]]||[[ND Lee]]||121||HD|| ||
+||6||7||Euro Dance||[[Ray of Illuminati]]||[[ESTi]]||150||HD|| ||
+||B1||7||Oriental Funk||[[Kung-Fu Rider]]||Astrokid||133||HD||선택곡 3곡 번호합 < 11||
+||B2||7||UK Hardcore||[[Right Back]]||TANUKI||175||HD||선택곡 3곡 번호합 ≥ 11, '''{{{#red 주의}}}'''||
+==== 설명 ====
+세트 이름의 걸맞게 클럽에서 많이 쓰일 듯한 음악이 주류를 이루는 세트이다. ~~본격 Saturday Night Fever!~~ 일단은 Normal Performance라는 난이도를 달고있지만, 7레벨 셀렉곡이 2개나 존재한다. 이정도면 Hard Performance급. --이번 디스크셋은 하나같이 왜이러니--
+
+4번곡 In the Tdot은 익숙해지지 않으면 당황하기 쉬운 패턴이다. 주의. 익숙해진다면, 6레벨에 맞는 패턴이다. 이 외의 수록곡들은 평이한 편.
+
+하위 보스곡인 Kung-Fu Rider는 적당한 스크롤에 적당히 빡빡한 노트를 가지고 있으며, 6번째 셀렉곡인 Ray of Illuminati와 비슷한 난이도를 가지고 있다. 하지만 상위 보스곡인 Right Back의 경우는 BPM 176의 4박 스크롤에 상당히 높은 노트 밀집도를 가지고 있기 때문에, 세트 표기 난이도인 Normal Perfomance치고는 매우 어렵다는 평가를 받는다. 전작의 Unplugged Set의 [[피아노 협주곡 1번(DJMAX)]]과 비교되는 포지션이나, 피아노 협주곡 1번과 달리 확실한 압살 구간은 없으니 빠른 스피드에 적응하는 것이 중요하다.
+=== 관련 항목 ===
+ * [DJMAX TECHNIKA 3/데이터]

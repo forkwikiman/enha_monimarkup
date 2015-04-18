@@ -1,0 +1,372 @@
+[[include(틀:워게임: 레드 드래곤/진영)]]
+
+[[목차]]
+
+상위항목 : [wiki:"워게임: 레드 드래곤" 워게임 : 레드 드래곤]
+
+[[WRD]]의 [[국가인민군]]([[동독군]])항목.
+
+기존 유닛들 정보는 [[워게임 : 에어랜드 배틀/동독]] 참조.
+
+
+= [독일민주공화국] 전투단 =
+전작에선 팩트의 기간 병력을 담당하던 동독이었지만, 질과 양 모두 평균적으로 충족하는 중국이 추가되면서 일개 스팸아미의 위치로 떨어졌다. 하지만 스팸으로는 컬트적인 북한이 더 인지도가 있는 상황. 전작에서도 질적으로 좋다 하기 어려웠으니 WRD에서의 인기는 체코와 마찬가지로 바닥수준이다.
+
+허나 DLC 발매 후로는 다른 동구권국가와 함께 날아올랐다는 평을 받고 있다. 강력한 T-72개량형들에 토르까지 받아오면서 베를린 장벽이 무너질 때의 현실의 동독과는 격세지감의 차를 벌렸다. 단독 팩션으로서는 아직 다소 모자란 부분이 남아있지만, 상당히 체감 성능이 좋아졌다. 이스턴 블록 특유의 엄청난 포인트빨과 중국보다 한 수위인 보병, 전차, 방공진 덕분에 지상전 한정으로 팩트 1위 국가가 되었다. 즉 팩트의 서독이라 할 수 있다. 유일하게 걸리는 부분은 여전히 지상 ATGM 전력이 빈곤하다는 부분 정도. 이것도 동독 단독 덱으로 할 때 문제지 이스턴 블록으로 하면 레드포 최강 보병 ATGM인 체코의 콩쿠르스-M을 동원하면 된다.
+
+냉전 해소 이후 사라진 국가이기 때문인지(...) 고유 하이엔드 유닛이 체코, 폴란드보다 좀 적은 느낌이다. 그 대신 소련제 최신장비들을 대량으로 들여온 듯.
+== LOG ==
+=== 지휘 ===
+
+ * 보병
+ attachment:FUHRUNGSTRUPP.png
+  * '''{{{#Brown Führungstrupp}}}'''
+ * [[지프]]
+ attachment:FUHRUNGS_UAZ.png
+  * '''{{{#Brown Fürungs UAZ}}}'''
+  싼맛에 쓰는 CP. 어차피 위치노출되면 끝장나는거니 후방안전지역을 확보하는데 쓰도록하자.
+ * [[장갑차]]
+ attachment:SPW-50PU.png
+  * '''{{{#Brown SPW-50PU}}}'''
+ attachment:SPW-60(S).png 
+  * '''{{{#Brown SPW-60(S)}}}'''
+  평범한 지휘 장갑차. 어차피 장갑차 자체가 경포격질에서 생존하려고 쓰는건데 CP는 위치가 노출되면 경포격이 아니라 중포격이나 클러스터 폭격이 떨어지므로 쓰기 좀 거시기하다.
+ * 지휘전차
+ attachment:FuPz_T-72(K1).png
+  * '''{{{#Green FüPz T-72(K1)}}}'''
+  쓰지말자. 시대적으로 앞선 전작에서는 T-72가 숨쉴 수 있는 공간이었지만 이젠 현재 운용중인 전차까지 등장해서 숨쉴 수 없다. 심지어 클러스터 포격에도 위험하다.
+=== 보급유닛 ===
+
+ attachment:FOB.png
+ * '''{{{#Brown FOB}}}'''
+
+ * 보급트럭
+ attachment:V-LKV_T813.png
+  * '''{{{#Brown V-LKV T813}}}'''
+ * 보급헬기
+ attachment:VWRSORGUNGS_Mi-8.png
+  * '''{{{#Versorgungs Mi-8}}}'''
+  미군의 슈퍼 치누크와 동일한 적재량을 보유한 보급헬기. 다만 속력은 슈퍼 치누크보다도 더 느리다.
+  85 포인트 3700 supply
+== INF ==
+DLC출시전까지는 비소련 바르샤바 연합덱 전부 90년대버전 보병이 없었던 관계로 스팸 아니면 답이 없었다. 때문에 과거의 보병왕국에서 총체적 난국 상황이었지만, DLC가 추가되면서 드디어 LStR-40을 필두로 하는 근대화 보병들이 등장, 숨을 돌릴 수 있게 되었다.
+
+ * 소총분대
+ attachment:RESERVESCHUTZEN.png
+  * '''{{{#Brown Reserveshützen}}}'''(예비군)
+  분대당 비용 5라는 파격적인 비용을 자랑하는 예비군 아저씨들. [[RPG-2]]를 들고나와 괴이함을 아낌없이 선보인다.
+ attachment:MOT.-SCHUTZEN.png
+  * '''{{{#Brown Mot-Shützen}}}'''(차량화보병) - 충격보병
+ attachment:MOT.-SCHUTZEN_90.png
+  * '''Mot-Shützen '90'''
+  서독 기척의 라이벌급 보병. 기척만큼 명성을 떨치진 못하지만 동독의 코어 보병이다. 동독에 일반 라인 보병 포지션이 없기도 하고. 대전차 로켓의 명중률이 40%로 낮은 것이 흠.
+ attachment:WACHREGIMENT.png
+  * '''Wachregiment'''(근위연대)
+  [[CZ Scorpion Evo 3 A1|스콜피온 기관단총]], RPG-18, RPK로 무장한 무난한 충격보병. 15인 분대이다.
+
+ * 경보병
+ attachment:LEICHTE_SCHUTZEN.png
+  * ''' Leichte Schützen'''(경보병) - 정규보병
+  동독 버전 경보병. 사실상 헬리본으로만 운용되는 타국 경보병과 달리 차량화부대에서 장갑차를 통한 증원도 가능하다. 현재는 해병대, 공수에 이용가능.
+
+ * 특수부대
+ attachment:FJB-40.png
+  * '''{{{#Brown FJB-40}}}'''(40공수[* 40th Fallschirmjägerbataillon 'Willi Sänger']) - 정예보병
+  거울격이던 영국의 SAS가 날아올라서 처지가 미묘하게 됐다. 대공, 대전차가 둘다 된다는 건 물론 좋지만, 현재는 봉인하는 것을 추천. 포인트도 싸지 않은데 SAS에 비하면 그냥 물총쏘는 화력이라 별로다. 그나마 3팩까지 쓸 수 있는 버프를 받았는데 특화덱을 하지 않는 이상 다 넣을 일이 있을런지. 다만 아래의 현대화 버전보다 대공용 맨패즈 탄두를 2개 더 들어서 후방침투에는 좋을수도...? --근데 명중률이 딸린다.-- DLC 2이후 패치로 명중률이 50%로 올랐다. 이제는 짧은 사거리만 감안하면 ㄱㅊ은 방공을 기대할수 있다. 그리고 동시에 대전차 화력도 올라서 이제는 15이다. 대전차 무장은 오히려 두개 줄고 관통력도 떨어진다. 현재는 싸고 많이 뽑히는 엘리트 정도.
+ attachment:/lstr.jpg 
+  * '''LStR-40''' - '''프로토타입'''(40공중강습연대[* 40th Luftsturmregiment 'Willi Sänger', FJB-40가 확대개편된 부대])
+  FJB-40의 근대화버전. 라이벌인 SAS도 울고갈 기관단총, RPG-29, 이글라 세팅이라는 상위호환 유닛이 등장해버렸다. 대전차 관통력이 24로 후덜덜하고 명중도 좋아서 3세대도 씹어먹는다. 이글라의 명중률도 55로 출중한 편. 대보병도 상당해서 완전체급이다. 다만 1팩 고정인게 문제.
+ * 전투공병
+ attachment:STURMPIONIERE.png
+  * '''{{{#Green Sturmpionier}}}'''(돌격공병) - 정규보병
+  네이팜 로켓를 가지고 전장에 증원되는 전투공병.
+ * 화력지원반
+ attachment:PANZERJAGER.png
+  * '''{{{#Brown Panzerjäger}}}'''([[대전차병]]) - 정규보병
+  화력지원을 RPG-7v로 한다(...) 
+ * 대전차 특기병
+ attachment:PALR_FAGOT.png
+  * '''{{{#Brown PALR Fagot}}}'''([AT-3] 새거) - 정규보병
+  전작에도 전차잡기 버거웠는데 새로 등장한 막강한 최신형전차들에게 이빨이 먹힐지 의문. 그나마 전차들의 출현빈도가 WRD들어 낮아진 게 위안이다만.
+ attachment:/palrk.jpg
+  * '''{{{PALR Konkurs}}}'''([AT-5] 스판드럴)- 정규보병
+  그래서 콩구르스 대전차병이 나왔다.
+ * 대공 특기병
+ attachment:Fla-Kom_STRELA-2.png
+  * '''{{{#Brown Fla-Kom Strela-2}}}'''(SA-7 그레일) - 정규보병
+ attachment:/igl1_1.jpg 
+  * '''{{{Fla-Kom Igla-1}}}'''(SA-18 Grouse)- 정규보병
+
+== SUP ==
+=== 포병 ===
+ * [[자주박격포]]
+ attachment:GW-SFL_TUNDSCHA.png
+  * '''GW-SFL Tundscha'''
+ * 122mm급 경자주포
+ attachment:SFL-hb_2S1.png
+  * '''{{{#Brown SFL-Hb 2S1}}}'''
+ * 152mm급 자주포
+ attachment:SFL-hb_2S3.png
+  * '''{{{#Brown SFL-Hb 2S3}}}'''
+ attachment:SFL-Hb_2S19.png
+  * '''{{{#Red (DLC)}}}''''''SFL-Hb 2S19''' - '''프로토타입'''
+  맛스타가 동독에게도 추가되었다!
+  방열속도는 여전히 빠르나 분당발사속도가 직사빼고는 5발로 뒤쳐진다. 다만 숙련도가 붙으면 빨라지는 듯. 프로토타입으로 한팩고정이다.
+ * MRL
+ attachment:MFRW_BM-24.png
+  * '''{{{#Brown MFRW BM-24}}}'''
+ attachment:MFRW_BM-21.png
+  * '''{{{#Brown MFRW BM-21}}}'''
+ attachment:MFRW_RM-70.png
+  * '''{{{#Brown MFRW RM-70}}}'''
+ attachment:MFRW_BM-27.png
+  * '''MFRW RM-27'''
+  스메르치처럼 대포병사격할때 긴 사거리 덕에 RM-70보다 자주 쓰인다. 다만 AP가 5라서... 거기에 16발밖에 안된다.
+
+=== 방공 ===
+ * 방공기관포
+  * 레이더
+  attachment:Fla-SFL_23_4W1.png
+   * '''{{{#Brown Fla SFL 23/4}}}'''
+  attachment:Fla-SFL_23_4M.png
+   * '''{{{#Brown Fla SFL 23/4M}}}'''
+  * 복합
+  attachment:Fla-SFL_2S6.png
+   * '''Fla-SFL 2S6'''
+   드디어 동독군에게도 [퉁구스카] 방공기관포가 들어가게 되었다(!).
+
+ * 방공미사일
+  * IR - 고정식
+  attachment:LO-1800_FASTA-4.png
+   * '''{{{#Brown LO-1800 FASTA-4}}}'''
+  * IR - 이동식
+  attachment:Fla-Kom_STRELA-1.png
+   * '''{{{#Brown Fla-Kom Strela-1}}}'''
+  attachment:Fla-Kom_STRELA-10M.png
+   * '''{{{#Green Fla-Kom Strela-10M}}}'''
+  * 레이더
+  attachment:Fla-Kom_TOR.png
+   * '''{{{#Red (DLC)}}}''''''Fla-Kom Tor'''
+   토르가 왔다.
+  attachment:Fla-Kom_OSA.png
+   * '''{{{#Green Fla-Kom Osa}}}'''
+   싼맛에 레이더 방공망을 구축하고자 할 때 좋은 선택. 하지만 미사일의 사거리가 상당히 짧다. 레이더는 좋은 편이니 적당한 숲에 던져서 전자전기의 ARM을 낭비하게 하는 용도나 적의 항공세력의 접근 관측용으로 사용해도 좋다.
+  attachment:Fla-Kom_KUB-M.png
+   * '''{{{#Brown Fla-Kom Kub-M}}}'''
+   평범한 조약군의 장거리 방공망이다. 적의 전자전기는 항상 주시하자. 사실상 상대 전투기를 요격할건 이것뿐이다. 더 좋은 레이더 방공도 봉인되는 판에 현재 이런걸 쓸 이유가 없다. --쉴카는 몸이라도 대지--
+
+== TNK ==
+
+ * 경전차
+ attachment:KPz_T-34_85M.png
+  * '''{{{#Brown KPz T-34/85M}}}'''
+  2차 대전 물건인데다 성능은 매우 구리지만 그걸 감안한만큼 비용은 매우 저렴하다. 슬롯을 꽉 채워 내보내면 충격과 공포의 물량전을 선사할 수도 있다. 물론 상대가 어느정도의 대전차 대비만 해놓더라도 아무것도 못하고 전멸당하기 때문에 고기방패 이상의 역할은 기대하기 어렵다. 블루포의 저가스팸 대항마인 남한의 폭주족 헬켓이 추가되어 그 위명에 살짝 눌리는 감이 있다.
+
+ * MBT
+  * [[T-55]] 계열
+  attachment:KPz_T-55A.png
+   * '''{{{#Brown KPz T-55A}}}'''
+  attachment:KPz_T-55AM1PB.png
+   * '''{{{#Green T-55AM1PB}}}'''
+  attachment:KPz_T-55AM2PB.png
+   * '''T-55AM2PB'''
+
+  * [[T-72]] 계열
+  attachment:KPz_T-72.png
+   * '''{{{#Brown KPz T-72}}}'''
+  attachment:KPz_T-72M.png
+   * '''KPz T-72M'''
+  attachment:KPz_T-72M1.png
+   * '''KPz T-72M1'''
+  attachment:KPz_T-72SI.png
+   * '''KPz T-72S1'''
+   아래 T-72S과 기본 스펙은 동일하면서 5포인트가 싸지만 기갑덱 제한에 걸리는데다 포발사미사일이 없다는 심각한 단점이 있다. T-72S만 해도 2팩이나 있기에, 기갑웨이브를 펼칠 것이 아니라면 굳이 쓸 일이 없다.
+  attachment:KPz_T-72S.png
+   * '''KPz T-72S'''
+   폴란드, 체코슬로바키아의 T-72S와 동일한 전차. 그러나 폴란드나 체코에는 이보다 상위급 전차들이 존재하지만 동독은 이것이 최강이다.
+
+== REC ==
+
+ * 정찰보병
+  * 수색분대
+  attachment:GRENZER.png
+   * '''{{{#Brown Grenzer}}}'''(국경수비대) - 예비군
+  attachment:SPEZIALAUFKLARER.png
+   * '''{{{#Brown Spezialaufklärer}}}'''(코만도 정찰대) - 충격보병
+  * 특수부대
+  attachment:KAMPFSCHWIMMER.png
+   * '''Kampfschwimmer'''(전투잠수단[* Combat Swimmers. KSK(KampSchwimmerKompanie)를 참고해 번역함.])
+   동독 해군 특공대. 2인 저격 분대이며 참고로 서독에도 [KSK#s-2|KampfSchwimmer Kompanie]라는 동명의 조직이 존재했으며 이쪽은 지금도 이어져오고 있다. 특수정찰 2인 분대이면서 시야, 스텔스가 각각 very good, exceptional에 달리기 속도도 30km인지라 최전선의 은신 정찰용으로는 게임 내 최고급이다. 북한 정찰대나 캐나다 Recce에 비교해도 손색이 없지만 Recce는 대물저격총이라 사거리가 게임내 최정상급이다보니 그 점에선 조금 쳐진다.
+
+ * [지프]
+ attachment:AufkFz_UAZ.png
+  * '''{{{#Brown AufklFz UAZ}}}'''
+  가장 저렴한 지프형 정찰차량. 단 무장이 전무하다.
+ attachment:AufkFz_UAZ_KPV.png
+  * '''{{{#Brown AufklFz UAZ KPV}}}'''
+  위의 차량에 14.5mm 기관총을 달았다. 차이점은 그걸로 끝.
+ * [[장갑차]]
+  * [[장륜 장갑차]]
+  attachment:SPW-40.png
+   * '''{{{#Brown SPW-40}}}'''
+  attachment:SPW-40A.png
+   * '''{{{#Brown SPW-40A}}}'''
+  attachment:SPW-40PA.png
+   * '''{{{#Brown SPW-40PA}}}'''
+  attachment:SPW-40P2.png
+   * '''{{{#Brown SPW-40P2}}}'''
+  attachment:SRW-60PB(ABS).png
+   * '''{{{#Brown SPW-60PB(ABS)}}}'''
+  * [[APC]]
+  attachment:AufkPz_BRM-1.png
+   * '''{{{#Green AufkPz BRM-1}}}'''
+   시야도 엄청 넓고 속도도 준수하므로 정찰자체 목적에 적당한 차량. 크기도 미디움이라 은폐력도 어느정도 보장된다. 헬기빼고는 유일하게 시야가 exceptional이라는 점도 먹어준다.
+  * [[경전차]]
+  attachment:SchwPz_PT-76B.png
+   * '''{{{#Brown SchwPz PT-76B}}}'''
+  * 전차
+  attachment:SpPz_T-55.png
+   * '''{{{#Brown SpSz T-55}}}'''
+ * 헬기
+ attachment:AHS_Mi-2.png
+  * '''{{{#Brown AHS Mi-2}}}'''
+  Mi-8R에 비해 시야가 딸리지만 크기가 매우 작아 적에게 피탐거리가 상대적으로 짧고, 회피율도 높아 공격적인 찌르기 정찰에 유용하다. 거기다 40밖에 안되는 코스트 덕에 쓰는데 부담은 더더욱 없는 편.
+ attachment:AHS_Mi-8R.png
+  * '''{{{#Green AHS Mi-8R}}}'''
+  다른 진영에 이 위치의 헬기는 대개 [[MD500]], [[OH-58]]같은 경헬기뿐인데 팩트만 대형헬기를 들고온다(...). 전작에서 소련의 조기경보기라는 소리를 듣던 Mi-8답게 정찰범위도 넓고 지속시간도 길다. 다만 크기가 크고 느리고 비싸서 이제 전처럼 주력 조기경보기 역할을 하긴 힘든 편. 하지만 새 미국 정찰헬기가 하필이면 '''[wiki:"AH-64" 롱보우]'''라서 이젠 아무래도 상관없는 이야기가 되었다.
+
+== VHC ==
+=== 수송차량 ===
+
+ * [[트럭]]/[[장륜 장갑차]]
+ attachment:LKV_URAL.png 
+  * '''{{{#Brown LVK-Ural}}}'''
+ attachment:SPW-152K.png 
+  * '''{{{#Brown SPW-152K}}}'''
+ attachment:SPW-60PB.png
+  * '''{{{#Brown SPW-60BP}}}'''
+ attachment:SPW-70.png
+  * '''{{{#Brown SPW-70}}}'''
+ attachment:SPW-80.png
+  * '''{{{#Green SPW-80}}}'''
+ * APC
+ attachment:SPW-50RK.png
+  * '''{{{#Brown SPW-50PK}}}'''
+ attachment:MZTM_MT-LB.png
+  * '''{{{#Green MZTM_MT-LB}}}'''
+ * IFV
+ attachment:SPz_BMP-1_SP-1.png
+  * '''{{{#Brown SPz BMP-1 SP-1}}}'''
+ attachment:SPz_BMP-1_SP-2.png
+  * '''{{{#Brown SPz BMP-1 SP-2}}}'''
+ attachment:SPz_BMP-1_Pc.png
+  * '''{{{#Green SPz BMP-1 P/c}}}'''
+ attachment:SPz_BMP-2.png
+  * '''{{{#Green SPz BMP-2}}}'''
+ attachment:SPz_BMP-2c.png
+  * '''{{{#Green SPz BMP-2/c}}}'''
+  유명한 BMP 시리즈. 어차피 동독전용덱은 포인트가 널널하므로 BMP-2 정도는 꼭 보병 택시로 끼워주자. 포인트 값한다.
+
+=== [wiki:"대전차자주포" TD 계열] ===
+
+ * 대전차포/[[구축전차]]
+ attachment:PzJ_UAZ_SPG-9.png
+  * '''{{{#Brown PzJ UAZ SPG-9}}}'''
+ * ATGM 지프
+ attachment:PzJ_UAZ_FAGOT.png
+  * '''{{{#Brown PzJ UAZ Fagot}}}'''
+ * ATGM 장갑차
+ attachment:SPW-40P2_MALYUTKA-P.png
+  * '''{{{#Brown SPW-40P2 Malyutka-P}}}'''
+ attachment:SPW-40P2_KONKURS.png
+  * '''{{{#Green SPW-40P2 Konkurs}}}'''
+  새거의 AP가 상당히 고자라 방어전에서 적 주력전차를 상대하려면 이게 있어야한다.
+
+=== 화력지원차량 ===
+
+ * 기관포
+ attachment:Fla-MG_SPW-152E.png
+  * '''{{{#Brown Fla-MG SPW-152E}}}'''
+ attachment:/57-2.jpg
+  * '''{{{#Brown Fla SFL 57-2}}}'''
+  의외로 긴 대헬기 사정거리가 길고 목측식이라 시드로부터 안전하다.
+
+ * 공병전차
+ attachment:FlammPz_TO-55.png
+  * '''{{{#Brown FlammPz TO-55}}}'''
+  평범한 화염방사기 셔틀. 미군의 M67A1과 달리 주포가 달려있다.
+== HEL ==
+=== 수송헬기 ===
+
+ * 로켓
+ attachment:THS_Mi-8T.png
+  * '''{{{#Brown THS Mi-8T}}}'''
+ attachment:THS_Mi-8TV.png
+  * '''{{{#Brown THS Mi-8TV}}}'''
+ * 로켓+ATGM
+--세상에 이게 수송헬기라니--
+ attachment:THS_Mi-24.png 
+  * '''{{{#Brown THS Mi-24}}}'''
+ attachment:THS_Mi-25.png
+  * '''{{{#Brown THS Mi-25}}}'''
+
+=== [[공격헬기]] ===
+
+ * 로켓+ATGM
+ attachment:KHS_Mi-8TB.png
+  * '''{{{#Brown KHS Mi-8TB}}}'''
+ attachment:/khs_24.jpg
+  * '''KHS Mi-24P''' 
+ * IR+ATGM
+ attachment:/dhs_24.jpg
+  * '''DHS Mi-24P''' - '''프로토타입'''
+  콘쿠르스M을 장착한 것만으로도 동독의 ATGM사정을 생각하면 귀한 몸인데, 대헬기사거리 2625m의 묠니야 대공 미사일까지 달고 있다. 동독의 핵심 전력 중 하나. 프로토타입이라 가용량이 국가덱에서도 5대로 귀한 편이니 조심히 굴리자.
+
+== AIR ==
+
+ * 제공전투기
+  * IR
+  attachment:MiG-21Bis_LAZUR.png
+   * '''{{{#Brown MiG-21bis Lazur}}}'''
+  * SemAct + IR
+  attachment:MiG-23MF.png
+   * '''{{{#Brown MiG-23MF}}}'''
+  attachment:MiG-23ML.png
+   * '''{{{#Green MiG-23ML}}}'''
+  * 레이더 + IR
+  attachment:MiG-29_9-13.png 
+   * '''MiG-29 9-13'''
+   동독제공기의 희망...이긴한데... 중거리 공대공 미사일이 딸랑 두발에 단거리가 4발이라는 요상한 무장을 갖췄다. 어차피 전투기끼리의 싸움에서는 중거리 미사일에서 결정되고 단거리 미사일은 막장 도그파이팅이나 헬기사냥에나 쓰인다는걸 생각해보면 포인트 아깝다. 참고로 KF-16이 얘보다 더 싸고 좋다..
+
+ * 멀티롤
+  * 로켓+IR
+  attachment:MiG-21MF.png
+   * '''{{{#Brown MiG-21MF}}}'''
+   카테고리C의 주력 방공기. 농담이 아니다. 
+  * 집속탄+IR
+  attachment:MiG-23BN.png
+   * '''{{{#Brown MiG-23BN}}}'''
+
+ * 지상공격기
+  * 로켓
+  attachment:MiG-21M.png 
+   * '''{{{#Brown MiG-21M}}}'''
+  * 고폭탄
+  attachment:MiG-17F.png 
+   * '''{{{#Brown MiG-17F}}}'''
+  attachment:MiG-17PF.png
+   * '''{{{#Brown MiG-17PF}}}'''
+  attachment:MiG-25RBF.png
+   * '''{{{#Red (DLC)}}}''''''MiG-25RBF'''
+   괜찮은 폭장량과 ECM을 지닌 준수한 성능의 폭격기. 대공 미사일이 없는 대신 비슷한 성능의 미국 F-15D보다 20포인트나 싸다.
+
+  * ATGM+IR
+  attachment:Su-22M4.png
+   * '''{{{#Green Su-22M4}}}'''
+
+ * 방공제압기
+  * SEAD + IR
+  attachment:Su-22M4P.png
+   * '''{{{#Green Su-22M4P}}}'''
+   전자전기 주제에 ECM이 30%라 떨어지는게 일이다.
+

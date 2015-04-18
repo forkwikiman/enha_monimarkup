@@ -1,0 +1,116 @@
+* [[DJMAX 시리즈/수록곡 목록]]
+
+[[목차]]
+
+== MASAI ==
+
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Portable]], [[DJMAX Portable 2]], [[DJMAX RAY]] ||
+|| 장르 || New Wave ||
+|| 작사,작곡 || [[CROOVE]] ||
+|| 보컬 || [[So Fly]] ||
+|| 랩 || [[JC]] ||
+|| BPM || 128 ||
+|| 비주얼 || [[ECO]] ||
+
+{{{#!html
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/sbsnYsN-YYM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX 온라인]] 오픈베타 중기에 추가된 곡.
+마사이족의 걸음걸이와 같은 경쾌한 리듬을 재현한 곡으로, 2Step 리듬이 깔려있는 가운데 신스음을 부드럽게 짜맞춰 경쾌하면서도 일정한 리듬을 유지하고 있는 것이 특징.
+
+벡터그래픽 스타일의 [[BGA]](실루엣만 등장하는 여성이 BGA 내내 걷는다)와도 잘 어울려 많은 사랑을 받아온 곡이다.
+
+=== DJMAX Portable 시리즈 ===
+
+==== [wiki:"DJMAX Portable"DJMAX Portable 1] ====
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/d_9GjN5HFkc" frameborder="0" allowfullscreen></iframe>}}}
+
+(6B HD)
+
+==== [DJMAX Portable 2] ====
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Q9zTEBYWen4" frameborder="0" allowfullscreen></iframe>}}}
+
+(5B NM)
+
+=== [[DJMAX RAY]] ===
+
+|||||||||| [DJMAX RAY]의 DJMAX CLASSIC 6 팩 수록곡 ||
+|| [[Rocka-a-doodle-doo]] || '''MASAI''' || [[Cherokee]] || [[SIN]] || [[Light House]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 || ||
+||<#0000FF> {{{#white HD}}} || 6 || ||
+||<#FF0000> MX || 8 || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/O-yIB_v0A4k" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[추가바람]]
+
+== MASAI ~Electro House Mix~ ==
+
+|| 최초 수록 버전 || [[DJMAX Portable 3]] ||
+|| 추가 수록 버전 || [[DJMAX TECHNIKA 2]], [[DJMAX TECHNIKA 3]] ||
+|| 장르 || Electro House ||
+|| 작사, 작곡 || [[CROOVE]] ||
+|| 리믹스 || [Paul Bazooka] ||
+|| 보컬 || [[So Fly]] ||
+|| 랩 || [[JC]] ||
+|| BPM || 128 ||
+|| 비주얼 || [[ECO]] ||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/6lZsE_Rwy5s?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[Paul Bazooka]]에 의해 리믹스 되었다. 원곡과 비교하면 애매모호 해져버린 리듬감때문에 호불호가 꽤 갈리는 편.
+
+이 곡이 수록된 시리즈에 원곡이 같이 수록된 적이 없기 때문에 보통 '''마사이'''라고 그냥 줄어불러도 알아들을 수 있다.
+
+리믹스버전의 BGA에서는 BGA 중간에 나오는 [[텔레토비]]들의 얼굴이 삭제되었다. 그 텔레토비의 본래 얼굴은 사실...(백악관으로 추정되는 건물 옆에 있는 텔레토비이니 대충 추정이 될 것이다.)
+
+--참고로 [[wiki:"Son of Sun" 이 사람]]을 남편으로 두고있다.--[* 믿으면 골룸 그런데 BGA제작자가 똑같다.]
+
+=== DJMAX Portable 3 ===
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/TdNZZ1mPTsc?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TdNZZ1mPTsc?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>}}}
+클래식 모드 6T NM
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/IjVfqweOQV4?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/IjVfqweOQV4?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>}}}
+리믹스 모드 4.2T SS
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 Max || 4 || 4박 스크롤 || ||
+||<#FFFF00> Normal || D || 150 Max || 5 || 4박 스크롤 || [wiki:"New Beginning"미션 - Bazooka Mix] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 200 Max || 6 || 4박 스크롤 || [RemiXound Set] 셀렉곡 ||
+||<#FF0000> Maximum || B || 250 Max || 7 || 4박 스크롤 || [wiki:"Labyrinth(DJMAX)"미션 - Walking in the Light] 수록 ||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fdZocXbxKs4" frameborder="0" allowfullscreen></iframe>}}}
+
+(MX 패턴)
+
+후에 리믹스 곡 업데이트로 [DJMAX TECHNIKA 시리즈]에 추가되었다.
+전체적으로 평범한 난이도이나, 엇박이 상당히 심해 노래를 잘 숙지하지 않으면 쿨굿이 잘 뜨므로 조심하자. 특히 MX패턴은 특이패턴도 많이 등장해 난이도가 상당한 편이다.
+
+
+== 기타 ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CpGoqbNd7Ps" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[ECO]]가 나중에 이 곡의 개인 리메이크 버전을 유튜브에 업로드 하였다. BGA 뿐만 아니라 곡도 크게 변화가 있는 것이 특징.
+--마지막에 누군가랑 만나는 것 같은데?--

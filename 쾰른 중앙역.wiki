@@ -1,0 +1,65 @@
+http://www.arch.mcgill.ca/prof/sijpkes/D+C-winter-2010/curvature/examples-of-curvature/Koln+Station.jpg?width=300&align=right
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/K%C3%B6ln_Panorama.jpg/800px-K%C3%B6ln_Panorama.jpg?width=300&align=right
+
+|||| {{{+1 Köln Hauptbahnhof}}}[[br]]Cologne Central station ||
+|| 개업 ||[[1859년]] ||
+|| 주소 ||Bahnhofsvorplatz 2 D-50677 Köln ||
+|| 역코드 ||KK ||
+|| [wiki:"IATA" IATA 코드] ||QKL ||
+|| 등급 ||1급역 ||
+|| 관리 ||[wiki:"독일철도" DB Station&Service] ||
+|| 소유 ||[wiki:"독일철도" DB Netz] ||
+|||| [[레일팀]] 허브 ||
+|||| [http://www.bahnhof.de/site/bahnhoefe/de/west/koeln/koeln__hbf.html 홈페이지] ||
+|| 교통조합 ||VRS[[br]]NRW Tarif ||
+
+ * [[독일철도]]
+ * [[역 관련 정보]]
+
+[[목차]]
+
+== 소개 ==
+[[독일]]에서 제일 [[크고 아름다운]] 철도역. 게다가 [[1859년]] 개업한 이래 무려 150여년이나 된 오래된 역이다. [[노르트라인-베스트팔렌]]주 [[쾰른]] 시내에 있다. [[위키백과]]에 따르면 1일 취급 열차수가 1230편, 경유 승객은 28만명[* 장거리, 단거리 열차만 센 것으로 경전철은 제외. 경전철을 넣어도 숫자가 크게 늘어나진 않는다.]이라고 한다. 승강장도 많고, 승강장 한 면을 쪼개서 반대 방향의 두 열차를 취급할 수 있을 정도로 하나하나가 모두 길고 아름답다. 역 바로 앞에는 [[세계문화유산]]인 [[쾰른 대성당]]이 ~~[[알박기]]하고~~ 있다. 사진에서 높은 첨탑이 있는 건물이 쾰른 대성당이고, 그 뒤의 길고 아름다운 지붕이 덮인 것이 쾰른역이다.
+
+쾰른-아헨 고속선과 쾰른-프랑크푸르트 고속선을 경유하는 열차를 취급하며, 아헨 쪽으로는 [[탈리스]]가, 프랑크푸르트 쪽으로는 [[ICE]]가 운행중이다. 장차 [[유로터널]]을 경유하는 [[유로스타]] [wiki:"세인트 판크라스 역" 런던]행 열차도 들어올 예정이다.
+
+상당수의 1급역이 그렇듯이 이 역의 Reisezentrum도 24시간 운영된다. 그리고 역 안에 [[루프트한자]]의 도심(?)공항터미널이 있어서, 루프트한자의 Rail&Fly를 이용할 수 있다. [[프랑크푸르트 국제공항역]]이 [[ICE]] 필정차역이니까 몸만 쏙 내려서 비행기로 갈아타면 된다.
+
+사실 이 역은 선로 용량이 미어터질 정도로 열차들을 취급 중이다. 경유 열차를 [[복합열차]]로 바꾸고, 라인강의 철교를 3복선으로 확장하고, 강 건너편의 다음 역인 [[쾰른 메세/도이츠 역]]에서 일부 장거리 열차를 취급 중이지만 [wiki:"버틸 수가 없다!" 더 이상 버틸 수가 없는 듯]. 역을 이전하자는 소리도 많았지만 딱히 이전할 곳도 없고, 이미 역을 옮기기엔 너무 늦어버렸다. 피크 시간대에는 한 승강장에 ICE 두 편성이 나란히 정차하는 풍경도 흔히 볼 수 있다. ~~도대체 승강장이 얼마나 길길래...~~
+
+http://static.panoramio.com/photos/original/2346686.jpg?width=500
+여담으로 쾰른 메세/도이츠 방향 유리돔 안쪽에는 쾰른 특산품인 <4711> [wiki:"향수" 오드 콜롱] [[네온사인]] 광고가 걸려 있는데, 걸린지 몇 십년 된 광고라고 한다. ~~다른 동네 dm에서도 파는게 왜 굳이...~~
+
+--일철덕이라면 왠지 [[아사쿠사역]]이 떠오를지도 모른다. 거기보단 낫지만--
+
+== 경유 노선 ==
+왼쪽이 북/서쪽, 오른쪽이 남/동쪽 방향이다.
+||||||||||<#ff0000> {{{#ffffff 고속선}}} ||
+||<width=200px> '''[[프랑크푸르트 국제공항역]] 방면'''[[br]]nach Flughafen Frankfurt Fernbahnhof[[br]]쾰른 메세/도이츠[[br]]Köln Messe/Deutz || ← ||<width=150px> 472 [[쾰른-프랑크푸르트 고속선]][[br]]Neubaustrecke Köln-Rhein/Main || - ||<width=200px> '''쾰른 메세/도이츠 방면'''[[br]]nach Köln Messe/Deutz[[br]]''시종착역''[*§ 영업거리표상의 시점은 쾰른 메세/도이츠역이나 모든 열차가 쾰른 중앙역까지 연장 운행한다. 영업거리상으로는 1km가 조금 넘는다.] ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 480 [[쾰른-아헨 고속선]][[br]]Schnellfahrstrecke Köln–Aachen || → ||<width=200px> '''독일-벨기에 국경 방면'''[[br]]Grenze Deutschland/Belgien[[br]]쾰른 한자링[[br]]Köln Hansaring ||
+||||||||||<#ff0000> {{{#ffffff 일반선}}} ||
+||<width=200px> '''뒤스부르크 중앙역 방면'''[[br]]nach Duisburg Hbf[[br]]쾰른 메세/도이츠[[br]]Köln Messe/Deutz || ← ||<width=150px> 415 [[쾰른-뒤스부르크 선]][* S반의 코드는 450.1, 450.6, 450.7이다.][[br]]Bahnstrecke Köln–Duisburg ||<|3> - ||<width=200px><|3> '''쾰른 메세/도이츠 방면'''[[br]]nach Köln Messe/Deutz[[br]]''시종착역''[*§] ||
+||<width=200px> '''부퍼탈 중앙역 방면'''[[br]]nach Wuppertal Hbf[[br]]쾰른 메세/도이츠[[br]]Köln Messe/Deutz || ← ||<width=150px> 455 부퍼탈-쾰른 선[[br]]Bahnstrecke Gruiten–Köln-Deutz ||
+||<width=200px> '''지크 방면'''[[br]]nach Sieg[[br]]쾰른 메세/도이츠[[br]]Köln Messe/Deutz || ← ||<width=150px> 460 지크 선[[br]]Siegstrecke ||
+||<width=200px> '''쾰른 서역 방면'''[[br]]nach Köln Westbhf[[br]]''시종착역''[* 영업거리표상의 시점은 쾰른 서역이나 모든 열차가 쾰른 중앙역까지 연장 운행한다. 쾰른 중앙역-쾰른 서역간의 영업거리는 2km] || - ||<width=150px> 470 [[서 라인선]][[br]]Linke Rheinstrecke || → ||<width=200px> '''마인츠 중앙역 방면'''[[br]]nach Mainz Hbf[[br]]쾰른 서역[[br]]Köln West ||
+||<width=200px> '''쾰른 메세/도이츠 방면'''[[br]]nach Köln Messe/Deutz[[br]]쾰른 메세/도이츠[[br]]Köln Messe/Deutz || ← || 495 서 저지 라인선[[br]]450.11 Linksniederrheinische Strecke || → ||<width=200px> '''네이메헌(NL) 방면'''[[br]]nach Nijmegen, Niederlande[[br]]쾰른 한자링[[br]]Köln Hansaring ||
+
+=== 고속열차 ===
+||||||||||<#8c022d> {{{#ffffff 탈리스}}} ||
+||<width=200px> '''[[파리 북역]] 방면'''[[br]][wiki:"아헨 중앙역" 아헨] || {{{+1 ← }}} ||<width=150px> 쾰른 중앙역 || {{{+1 → }}} ||<width=200px> '''[[에센 중앙역]] 방면'''[[br]][wiki:"뒤셀도르프 중앙역" 뒤셀도르프] ||
+||||||||||<#ff0000> {{{#ffffff ICE}}} ||
+||<width=200px> '''[[암스테르담 중앙역]] 방면'''[[br]]'''[[베를린 동역]] 방면'''[[br]]'''[[함부르크 중앙역]] 방면'''[[br]][wiki:"쾰른 메세/도이츠 역" 쾰른 메세/도이츠][[br]][wiki:"부퍼탈 중앙역" 부퍼탈] ||<|2> {{{+1 ← }}} ||<width=150px><|2> 쾰른 중앙역 ||<|2> {{{+1 → }}} ||<width=200px><|2> '''[wiki:"바젤 SBB 역" 바젤 SBB] 방면'''[[br]]'''[[뮌헨 중앙역]] 방면'''[[br]]'''[[프랑크푸르트 중앙역]] 방면'''[[br]]'''[[다름슈타트 중앙역]] 방면'''[[br]][wiki:"쾰른-본 국제공항 역" 쾰른-본 국제공항][[br]][wiki:"지크부르크/본 역" 지크부르크/본] ||
+||<width=200px> '''[[파리 북역]] 방면'''[[br]][wiki:"아헨 중앙역" 아헨] ||
+
+=== 라인-루르 S반 ===
+||||||||||<#006F35> {{{#ffffff 라인-루르 S반}}}[[br]]{{{#ffffff S-Bahn Rhein-Ruhr}}} ||
+|||||||||| attachment:/DBbahn-small.png 도이체반 레기오 NRW[[br]]Deutsche Bahn Regio NRW ||
+||||||||||<#DC052D> {{{#ffffff 라인-루르 S반 S6}}} ||
+||<width=200px> 쾰른 니페스 방면[[br]]쾰른 한자링 || {{{+1 ← }}} ||<width=150px> 쾰른 중앙역 || {{{+1 → }}} ||<width=200px> [[에센 중앙역]] 방면[[br]][wiki:"쾰른 메세/도이츠 역" 쾰른 메세/도이츠] ||
+||||||||||<#EF7C00> {{{#ffffff 라인-루르 S반 S11}}} ||
+||<width=200px> [wiki:"뒤셀도르프 국제공항" 뒤셀도르프 국제공항 터미널] 방면[[br]]쾰른 한자링 || {{{+1 ← }}} ||<width=150px> 쾰른 중앙역 || {{{+1 → }}} ||<width=200px> 베르기쉬 글라드바흐 방면[[br]][wiki:"쾰른 메세/도이츠 역" 쾰른 메세/도이츠] ||
+||||||||||<#61AF20> {{{#ffffff 라인-루르 S반 S12}}} ||
+||<width=200px> 뒤렌 방면[[br]]쾰른 한자링 || {{{+1 ← }}} ||<width=150px> 쾰른 중앙역 || {{{+1 → }}} ||<width=200px> 아우 방면[[br]][wiki:"쾰른 메세/도이츠 역" 쾰른 메세/도이츠] ||
+||||||||||<#00A6EB> {{{#ffffff 라인-루르 S반 S13}}} ||
+||<width=200px> 쾰른 한자링, 호렘 방면[[br]]쾰른 한자링 || {{{+1 ← }}} ||<width=150px> 쾰른 중앙역 || {{{+1 → }}} ||<width=200px> 트로이스도르프 방면[[br]][wiki:"쾰른 메세/도이츠 역" 쾰른 메세/도이츠] ||

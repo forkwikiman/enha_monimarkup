@@ -1,0 +1,25 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>  '''영어판 명칭''' || '''Hellkite Overlord''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/125655_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {4}{B}{R}{R}{G} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 생물 — 용 ||
+||||<height=160px>비행, 돌진, 신속
+{R}: Hellkite Overlord는 턴의 끝까지 +1/+0을 얻는다.
+{B}{G}: Hellkite Overlord를 재생한다.
+
+''"The dragon has no pretense of compassion, no false mask of civilization—just hunger, heat, and need."
+—[[Sarkhan Vol]]''||
+|| '''공격력/방어력''' || 8/8 ||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| From the Vault: Dragons || 레어 ||
+|||| Shards of Alara || 미식레어 ||
+
+Shards of Alara의 거대생물 중 하나. 좀 더 커진 [[Rorix Bladewing]].
+
+일단 꺼내서 띄우기만 하면 상대를 압박시킬 수 있지만 이게 나올 타이밍이면 이미 어떻게든 판세가 기울어진 뒤라서 실전에서는 별로 볼 일이 없는 카드다. 게다가 재생이 있더라도 결국 [[Path to Exile]]에는 사라지는게 현실.
+
+하지만 익스텐디드에서는 [[Dragonstorm]]을 쓸 때 꽤 유용하다. 다만 이게 손에 잡히면 이걸 꺼내기가 좀 어렵다는 사실은 유념하자. Vintage에서는 [[Iona, Shield of Emeria]]와 Oath of Druids 덱의 생물 자리를 놓고 싸우는 생물. 
+
+[[알라라의 파편]] 블록이 나오기 직전에 드래곤 카드들을 모아놓은 콜렉터용 판인 From the Vault: Dragons에서 선행공개되기도 했던 카드다.

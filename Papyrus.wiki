@@ -1,0 +1,23 @@
+ * 이 항목은 [[BMS]] 악곡에 대해 다루는 항목입니다. 일반적인 의미에 대해서는 [[파피루스]] 항목으로.
+
+|||||| [[발광 BMS]] 난이도 체계 ||
+|| Maniac || ★2 ||      ||
+
+|||||||||| [[발광 BMS/단위인정]] 초단 ||
+|| 1 || [[Papyrus]] || Maniac || ★2 || ||
+|| 2 || [[elegante]] || Another Plus+ || ★3 || ||
+|| 3 || [[風仁雷仁]] || EX || ★3 || ||
+|| 4 || [[Pure Ruby]] || JUNK7 || ★4 || ||
+
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/GFhGdLJP5CE&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GFhGdLJP5CE&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+}}}
+[* 효과나 나오는 캐릭터로 봤을때, 제작 툴은 [MMD]로 추정된다]
+
+orangentle이 papyrus라는 예명을 써서 발표한 팝/인스트루멘탈의 밝은 느낌의 BMS이다. 동작곡가의 BMS OF FIGHTERS 2005 참가곡 l'amour d'amour라는곡과 분위기가 다소 비슷하다.
+
+깔끔한 분위기의 곡이라서 좋은 평을 받았지만, 이 곡은 곡보다는 [[BGA]]가 크게 히트쳤다. 浪漫映像制作倶楽部(낭만 영상 제작 클럽)과 Alex Dellico[* 낭만 영상 제작 클럽은 과거에는 ke, tes라는 이름으로 BGA를 제작했고, 현재는 '''[[BEMANI 시리즈]]'''에서 alo라는 이름으로 활동중이라고 [[카더라]].]가 만든 BGA는 이미 상업 [[리듬게임]]([[DJMAX TECHNIKA]], [[비트매니아 IIDX]] 등)에 나오는 BGA와 비교해도 전혀 손색이 없는 엄청난 영상미가 플레이어들한테 충격을 안겨줬다. --그리고 마지막 눈웃음 한방으로 플레이어의 심장에 직격타--
+
+참고로 이 BGA에 나오는 캐릭터가 헤어스타일은 다르긴 하지만 머리 색깔이랑 옷이 [[카가미네 린]]을 많이 닮았다(...)
+
+[[각주]]

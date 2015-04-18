@@ -1,0 +1,29 @@
+[[팝픈뮤직]]의 수록곡.
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/OV9A7NWWtLA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/zPBo50ov3hE" frameborder="0" allowfullscreen></iframe>
+}}}
+EX 보면 4.8배속 영상[* 배속 OFF(1.2배속)에 하이스피드 x4 오쟈마를 걸었다.]
+
+||<bgcolor=#E9ECEF>3003年　ケマリンカップアジア予選開催中!? 絶対に蹴れない鞠が、そこにある。[[br]] 3003년 케마리컵 아시아 예선 개최중!? 절대 차이지 않는 공이, 거기 있어.
+||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 16[[BR]]PARTY♪ || 蹴鞠[[BR]]케마리[* [[한국 한자음]]으로는 [[축국]]이라고 읽는다.] || Kicky Kemari Kicker || [[DJ SIMON|ROUTE No.1 KIZOKU UNIT]] || KERIMARO[[BR]]케리마로 ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 136 || 43단계 || {{{#blue 18}}} || {{{#green 23}}} || {{{#orange 33}}} || {{{#red 39}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 29}}} || {{{#orange 40}}} || {{{#red 46}}} ||
+|||| 노트수 || {{{#blue 237}}} || {{{#green 444}}} || {{{#orange 743}}} || {{{#red 102'''5'''}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+작곡가는 ROUTE No.1 KIZOKU UNIT이란 명의를 쓴 DJ SIMON으로, 명의는 팝픈뮤직 8의 수록곡인 [[RADICAL RAGTIME TOUR]]에서 쓰였던 ROUTE No.1 RAG UNIT의 명의를 살짝 바꾼 것이다.
+
+EX 보면은 첫 출전 당시 레벨 39(신 45)로, 주로 한손처리 위주의 패턴이 나온다. 중반까지는 '왜 이게 39나 되지?'할 정도로 쉽지만, 위 영상 기준 1분 이후부터 손의 이동폭이 급격히 커지고 계단이 더욱 악랄해진다. 이런 구성이 [[후살|후반으로 갈수록 강화되며]], 설상가상으로 노트수가 1025개로 약간 짠 게이지 노트수(1025~1536)의 시작점이라서 게이지 회복도 어렵다.
+
+이 때문에 유저들이 레벨을 올려 주기를 원했고, 결국 [[팝픈뮤직 Sunny Park]]에서 46(구 40)으로 상향되었다. 46 중에서는 중위권으로 쳐주는 편.

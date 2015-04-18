@@ -1,0 +1,28 @@
+ * 상위 항목 : [[나들목]], [[호남고속도로]]
+
+||<-5><tablewidth=100%><#3594D3><:> '''[[호남고속도로|<span style="color:white">호남고속도로</span>]]{{{#white 의}}} [[호남고속도로/구간|<span style="color:white">구간</span>]]''' ||<|2><width=40%>'''관리기관''' : [[한국도로공사]] 광주전남본부 광주지사  [[br]] '''개통일''' : [[1973년]] [[11월 14일]] ||
+||<width=20%> [[서순천IC|순　천]] 방면[[br]][[장성JC]] ||<width=1%> {{{+1 ← }}} ||<width=18%> '''백양사IC''' ||<width=1%> {{{+1 → }}} ||<width=20%> [[논산JC|익　산]] 방면[[br]][[내장산IC]] ||
+||<-6> '''접속도로''' : [[15번 지방도]](방장로) ||
+
+||<bgcolor=#E9ECEF>이 나들목과 [[장성JC]] 사이에 [[백양사 휴게소]](양방향)가 있다.||
+
+{{{+1 白羊寺交叉路 / Baegyangsa Interchange }}}
+
+[[목차]]
+
+== 개요 ==
+'''호남고속도로 18번.''' [[전라남도]] [[장성군]] 북이면 사거리에 위치한 호남고속도로의 [[나들목]]. 명칭은 인근에 위치한 백양사에서 유래했다. 처음 개통당시에는 평면교차로로 개통하였으나, [[1986년]] [[9월 11일]]에 개통된 전주 - 광주 4차선 확장 개통에 맞춰 입체교차로로 개통되었다.[http://newslibrary.naver.com/viewer/index.nhn?articleId=1986091100209201007&editNo=2&printCount=1&publishDate=1986-09-11&officeId=00020&pageNo=1&printNo=19984&publishType=00020 기사1][http://newslibrary.naver.com/viewer/index.nhn?articleId=1986091000209206003&editNo=2&printCount=1&publishDate=1986-09-10&officeId=00020&pageNo=6&printNo=19983&publishType=00020 기사2] 이후 2009년 [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0002696748 6월]과 [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0002839846 9월]에 걸쳐 나들목을 순차적으로 이전하여 현재와 같은 형태가 되었다.
+
+== 구조 ==
+=== [[논산JC|익산]]방향(하행선) ===
+ * 진출 가능 : 방장로 양방향
+ * 진입 가능 : 방장로 양방향
+
+=== [[서순천IC|순천]]방향(상행선) ===
+ * 진출 가능 : 방장로 양방향
+ * 진입 가능 : 방장로 양방향
+
+== 역사 ==
+ * [[1973년]] [[11월 14일]] 호남고속도로 서순천 나들목 - 전주 나들목 구간 개통과 함께 나들목으로 영업을 시작하였다.[http://newslibrary.naver.com/viewer/index.nhn?articleId=1971112600209201006&editNo=2&printCount=1&publishDate=1971-11-26&officeId=00020&pageNo=1&printNo=15429&publishType=00020 기사]
+ * [[2009년]] [[6월 2일]] 광주·순천 방향 진출입로를 현재의 위치로 이전하였다.[http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0002696748 기사]
+ * [[2009년]] [[9월 1일]] 전주·익산 방향 진출입로를 현재의 위치로 이전하여, 현재와 같은 형태가 되었다.[http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0002839846 기사]

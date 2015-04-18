@@ -1,0 +1,33 @@
+[[목차]]
+
+== 개요 ==
+||http://ec3.images-amazon.com/images/I/41gSvOCye0L._SL500_AA300_.jpg||http://ec2.images-amazon.com/images/I/51RYDJ8tciL._SL500_AA300_.jpg||
+|| DVD가 수록된 한정판 표지 || DVD가 수록되지 않은 통상 표지 ||
+
+[http://www.youtube.com/watch?v=_maUUdpPLbo&feature=fvwrel PV 영상] --볼 때는 주변을 살피자--
+[http://www.youtube.com/watch?v=q1N10S1N540 PV 제작 과정 영상]
+
+[[일본]]의 [[가수]] [[스즈키 아미]]의 24번째 싱글 'FREE FREE/SUPER MUSIC MAKER'의 타이틀곡으로, [[2007년]] [[8월 23일]]에 싱글이 발매되었다.
+
+그녀의 타 뮤지션과의 콜라보레이션 프로젝트인 "join"의 4번째 곡으로, 사용된 명의는 '鈴木亜美 joins [[wiki:"나카타 야스타카" 中田ヤスタカ]]([[capsule]])'. 이 곡이 좋은 반응을 얻은 이후 스즈키 아미는 앨범 'Supreme Show'까지 [[나카타 야스타카]]와 작업을 하게 된다.
+
+[[capsule]]과 합작한 곡이라서 그런지 기계음(특히 [[오토튠]] 입힌 목소리)가 많이 들어가 있다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>3||<:>4||<:>6||
+||<#faca00><:>노트수||||<:>170||<:>262||<:>353||
+||<#faca00><:>BPM||||||||<:>131||
+||<#faca00><:>곡 이력||||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#69d462 BSC}}}레벨 1 상승[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임에서는 --[[코나미]]답지 않게-- DVD가 수록된 한정판 표지를 사용했다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/v6TasqxCXWA" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면 영상
+
+단순한 배치라서 클리어 및 풀콤보는 쉬운 편이다. 다만 후렴구에 나오는 노트는 '따닥/따닥'하는 느낌으로 쳐야 한다. 중간 부분 이전에 나오는 연타도 신경써야 할 부분.

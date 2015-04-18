@@ -1,0 +1,105 @@
+[[목차]]
+[[EZ2AC]]의 수록곡이다.
+== 게임상의 정보 ==
+|| 장르 |||||||| DnG[* Drum'N Guitar의 약자로 추측된다.] ||
+|| 곡명 |||||||| The Greatest Escape ||
+|| 작곡 |||||||| ~~Boys like Girls~~Seibin ||
+|| 배경 |||||||| Verdictine ||
+|| 최초 수록버전 |||||||| [[EZ2DJ AE]] ||
+|| BPM |||||||| 175 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+'''AEIC의 최대 수혜자. 이곡을 하게 된다면, 반드시 BGA를 켜고 할 것을 추천한다.'''
+
+{{{#!html
+<iframe width="640" height="480" src="//www.youtube.com/embed/jS3GH4ahdF8" frameborder="0" allowfullscreen></iframe>}}}
+'''[http://www.youtube.com/user/EZ2Developer EZ2 ARCADE의 공식 유튜브 계정]'''에서 공개된 '''BGA'''
+== 기본 설명 ==
+[[EZ2DJ : AZURE EXPRESSION]]의 신곡. AE 오리지널 당시엔 크게 인상을 남길만한 부분이 없었기에 [[if I couldn't see you again]]과 함께 수록곡들 중 인기가 최하위[* 그래도 if I couldn't see you again은 필테 당시의 BGA 사태로 인해 조금 더 많이 회자되기라도 했었다(...)]를 달리던 안습한 취급을 받고 있었다.
+
+하지만 AEIC 보완 패치로 추가된 BGA[* [[Rising In My Heart]]나 [[Liquid Cube]]등 여타 bga가 추가된 AE곡과 달리 이곡과 if I couldn't see you again는 AE시절 타이틀이 그대로 유지된것으로 보아 이 두곡은 AE 오리지널 당시에 이미 BGA가 완성되어 있었거나, 적어도 일러스트는 준비됐던 것으로 보인다.]가 그야말로 [충격과 공포]였기에 뭇 유저들 사이에서 "[[EZ2DJ AEIC]]의 MVP", "[wiki: "선천적 얼간이들" 가스파드]급 드립력"등의 호평을 받으며 본격 [wiki: "무슨 마약하시길래 이런생각을 했어요" 마약 제대로 빤] 곡으로 재평가를 받기에 이르렀다.
+
+'''대탈주'''라는 제목에 걸맞게 한 죄수가 탈옥을 시도하는 내용의 BGA로, BGA 내에서 패러디가 아닌 장면을 찾는 게 더 빠른 정도. 탈옥이라는 소재 자체는 [[Blue]]의 오마쥬고 그림체 또한 어느정도 [[Lassoft]]에 대한 리스펙트를 담은 것으로 추정된다, 그 외에도 패러디가 너무 많으니 한번쯤 무엇무엇이 있는지 찾아보며 자신의 EZ2DJ에 대한 덕력을 시험해보도록 하자.
+
+악곡 자체는 무난하게 흥겨운 곡으로, 드럼 앤 베이스 타입의 드럼루프 위에 기타연주가 녹아든 곡이다. BGA와의 싱크로율이 [Liquid Cube]에 버금가는 극상 수준이라 보고 있자면 웃음이 절로 터져나온다.
+
+'''비주얼적 요소 강화'''를 내세우며 범용 BGA 추가와 전용 BGA 대랑 수록등의 강수를 두어 유저들에게 강한 인상을 남긴 [[EZ2DJ AEIC]]에서도 독보적으로 BGA의 중요성을 어필한 케이스로, BGA의 유무(그리고 그 존재감)으로 인해 곡의 명암이 이렇게 극명하게 갈릴수 있다는것을 보여주는 좋은 사례라고 볼 수 있다.
+
+여담으로 AE 시절에는 NM 플레이 시 중반부의 드럼 비트가 들리지 않았으나 [wiki:"EZ2AC : ENDLESS CIRCULATION" EC] 이후로 NM 플레이 시에도 드럼 비트가 들리는 소소한 변경이 있었다. 5키 기준으로 HD 플레이 시에만 칠 수 있었던 드럼 비트 키음 때문에 배경음에서 드럼 비트음을 제거한 결과 NM에서 음이 밋밋해져서 수정한 듯 하다.
+
+'''그리고 1년 후, [wiki:"EZ2AC : EC"다음 버전]에 [wiki:"WHEEL OF FIRE"약을 한번 더] [wiki:"QUADCORE"거하게 들이킨 곡]이 등장하는데...'''
+== 패턴 설명 ==
+=== 5 Street Mix ===
+{{{#!HTML
+<embed src="//www.youtube.com/v/XtT1aEN63R4?hl=ko_KR&vq=hd720&versi;  type=" width="640" height="360" allowscriptaccess="always" allowfullscreen="true">
+}}}
+NM - HD MIX
+
+5스트릿 NM 패턴은 Lv.7이지만 쏟아지는 스크래치 숫자는 도저히 Lv.7로 봐줄 수가 없는 수준이다. 다만, 불규칙 스크래치와 16비트 스크래치 구간을 제외한다면 딱히 어려운 부분이 없다. 
+
+HD 패턴은 그럭저럭 적절한 Lv.12이다. Lv.12 이후의 스크폭타와 엇박 페달을 연습할 수 있는 찰진 패턴이라 평가받는다.
+=== 7 Street Mix ===
+=== 10 Club Mix ===
+
+{{{#!HTML
+<embed src="//www.youtube.com/v/pNj64zH9nW4?hl=ko_KR&vq=hd720&versi;  type=" width="640" height="360" allowscriptaccess="always" allowfullscreen="true">
+}}}
+
+NM만 등장하며 Lv.10이다.
+
+전체적인 모양새는 스트릿 NM에서 노트 약간 추가된 정도이며 Lv.10이라기 보단 Lv.9에 가깝다. 그래도 [[Resonance Spectra]] NM보단 책정이 잘되어 있다.
+
+{{{#!HTML
+<embed src="//www.youtube.com/v/DLiq0i9_QkU?hl=ko_KR&vq=hd720&versi;  type=" width="640" height="360" allowscriptaccess="always" allowfullscreen="true">
+}}}
+
+2014년 12월, 신작 EVOLVE에서 10키 역사상 처음으로 쌍스크가 도입되었는데, 그 패턴의 예시로 제작진에서 보여준 영상이 The Greatest Escape여서 다시한번 주목을 받았다. '이게 이렇게 재밌는 곡이었나?!' 하며 혀를 내둘렀다고..
+ 
+=== 14 Space Mix ===
+=== EZ2 Catch ===
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_v095daga1ZERgEN62o2aRzR' width='482px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=v095daga1ZERgEN62o2aRzR&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=v095daga1ZERgEN62o2aRzR&playLoc=undefined'></embed></object>
+}}}
+NM MIX
+
+Lv.9. 총 노트수는 549개
+~~흔한 캐치유저의 고민: BGA vs 올콤보~~
+
+패턴이 반복형이라 어느정도 집중을 한다면 올콤보도 무난하지만 중간의 16박구간에서 주의만 한다면 별탈없이 클리어가 가능 한 패턴. 물론 약빤 BGA를 보려고 BGA OFF를 안하고 한다면...[* 이지투캐치는 옵션으로 BGA를 끄고 플레이를 할 수 있다. 물론 BGA가 눈이 너무 부시면 플레이에 지장이 있어서 보통은 끄고 하는 편이다.]
+=== Turntable ===
+HD의 스크래치를 그대로 옮긴 패턴을 기본으로 나오길 기대하는 사람이 많았지만 아쉽게도 Lv.7의 심심한 패턴이 나왔다. 일부는 ~~AEIC 이전까지는~~ BGA를 끌 수 없는 턴테이블 모드의 특성상 '''BGA 감상용'''채보라고. 확실히 노트 밀도가 낮아서 BGA 감상하긴 좋지만 채보 자체는. 그래도 BPM 175의 16비트 어묵공장이 기습적으로 짧게 나타나니 처음 한다면 주의.
+== BGA 안의 패러디 목록 ==
+{{{#!HTML
+<embed src="//www.youtube.com/v/pnybezJOSc4?hl=ko_KR&vq=hd720&versi;  type=" width="640" height="360" allowscriptaccess="always" allowfullscreen="true">
+}}}
+잘 정리한 영상을 참조하자.
+
+ * [[비틀즈]]의 [[Let It Be]][* 노멀믹스 타이틀의 우측부분 신문기사를 읽어보면 기사라고 생각했던게 사실 렛잇비의 가사다(...)]
+ * "I'm Not Guilty!"[* [[EZ2DJ 2ndTRAX ~It rules once again~]]의 Lassoft 채널 그림에 등장하는 문구이다.]
+ * [[Blue]]
+ * [[베르세르크]]의 [[모즈구스]]
+ * [[R.F.C.]] : 숟가락을 들 때
+ * [[광복절 특사]] : 숟가락 들고 땅파는 장면
+ * [[Aquaris]] : [[숟가락]]을 들고 땅파면서 시전하였다.
+ * [[돌격 크로마티 고교]]의 [[하야시다 신지로]] : 숟가락 부러지는 장면
+ * [[거인의 별]] 생일파티 [http://pds20.egloos.com/pds/201006/03/62/d0070162_4c07052926a46.jpg #]
+ * [[더 이상의 자세한 설명은 생략한다]]
+ * [[용자검법 제1초식]] : 쇠톱을 들고 시전하였다.
+ * [[하오마루]]의 참강섬[* [[wiki:"던전 앤 파이터" 던파]]의 [[wiki:"귀검사/공통스킬" 귀참]]의 모티브가 된 기술이다.] : 역시 위의 용자검법과 마찬가지로 쇠톱을 들고 시전하였다.
+ * [[하라는 공부는 안하고]]
+ * Jazz for your Soul [http://toez2dj.net/zeroboard/zboard.php?id=e_freegallery&&no=13044 #]
+ * [[멋지다 마사루]]의 엘리제의 우울
+ * [wiki:"크레용 신짱" 짱구]의 엉덩이춤
+ * [[Envy Mask]]
+ * [wiki:"4chan#s-4.1" EPIC FAIL]
+[[각주]]

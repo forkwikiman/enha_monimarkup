@@ -1,0 +1,84 @@
+[[include(틀:월드 오브 워플레인)]]
+
+[[목차]]
+
+== 개요 ==
+
+== 기본 기체 ==
+=== Gloster Goldfinch - 1티어 ===
+||<tablewidth=100%> attachment:1.jpg || 1926년 초기에 게임쿡 전투기의 풀메탈 버젼으로 제작되었습니다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Jupiter IV || 430 마력 || 450 kg || 공랭식 || 1 티어 || 스톡 || 0 || 0 ||
+|| Jupiter VI || 450 마력 || 450 kg || 공랭식 || 1 티어 || || 85 || 890 ||
+|| Jupiter IX || 450 마력 || 480 kg || 공랭식 || 2 티어 || 최종 || 105 || 990 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 2x.303 Vickers Mk.I (S) || 28 || 450 || 7.70 || 744m || 46 || 1티어 || 스톡 || 0 || 0 ||
+|| 2x.303 Vickers Mk.I* (S) || 34 || 500 || 7.70 || 744 || 46 || 2티어 || 최종 || 100 || 1.000 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30 ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Gamecock || 60 || 926 || 1티어 || 스톡 || 0 || 0 ||
+|| Goldfinch || 75 || 940 || 2티어 || 최종 || 100 || 1.300 ||
+
+== 정규 트리 ==
+=== Hawker Demon - 2티어 ===
+||<tablewidth=100%> attachment:H2.jpg || Hawker사의 견고한 전투형 경폭격기로 1933년에 첫 비행을하였다. 총 305대가 생산되었다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Kestrel IB || 510 마력 || 435 kg || 수랭식 || 1티어 || 스톡 || 0 || 0 ||
+|| Kestrel IS || 600 마력 || 435 kg || 수랭식 || 2티어 ||  || 185 || 1.400 ||
+|| Kestrel V || 685 마력 || 440 kg || 수랭식 || 2티어 || 최종 || 200 || 1.750 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 303 Vicker Mk.I (S) 2정 || 28 || 450 || 7.7 || 774 || 46 || 1티어 || 스톡 || || ||
+|| 303 Vicker Mk.II (S) 2정 || 42 || 600 || 7.7 || 774 || 40 || 2티어 || 최종 || 335 || 2.700 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 || 0 || 0 ||
+|| 20Ib 8개 || 35 || 30 || 10 || 2티어 || 최종 || 210 || 20 ||
+
+||<tablewidth=100%><#00BFFF> 후방 기총 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-turret.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 303 Lewis Mk.II 1정 || 35 || 600 || 7.7 || 740 || 45 || 1티어 || 스톡 || 0 || 0 ||
+|| 303 Lewis Mk.II* 1정 || 41 || 600 || 7.7 || 740 || 45 || 2티어 || 최종 || 410 || 4,150 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Demon || 110 || 1,713 || 4티어 || 스톡 || 0 || 0 ||
+
+경험치 : 120 , 가격 : 3.200
+
+=== Blackburn Skua - 3티어 ===
+||<tablewidth=100%> attachment:H3.jpg || 영국왕립공군이 다목적으로 개발한 기체이다. 1937년 2월에 첫 시제기체가 비행을하였고 총 192대가 생산되었다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Mercury IVS.2 || 560 마력 || 483 kg || 공랭식 || 2티어 || 스톡 || 0 || 0 ||
+|| Mercury VIS || 600 마력 || 435 kg || 공랭식 || 3티어 ||  || 225 || 4.100 ||
+|| Perseus VII || 905 마력 || 465 kg || 공랭식 || 4티어 || 최종 || 830 || 12.500 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 303 Vicker Mk.II (S) 4정 || 42 || 600 || 7.7 || 775 || 40 || 1티어 || 스톡 || 0 || 0 ||
+|| 303 Vicker Mk.III (S) 4정 || 50 || 600 || 7.7 || 775 || 40 || 2티어 || 최종 || 425 || 3.200 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 || 0 || 0 ||
+|| 250Ib 1개 || 2200 || 60 || 113 || 5티어 ||  || 0 || 700 ||
+|| 500Ib 1개 || 4350 || 75 || 227 || 6티어 || 최종 || 3000 || 950 ||
+
+||<tablewidth=100%><#00BFFF> 후방 기총 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-turret.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 303 Lewis Mk.II 1정 || 35 || 600 || 7.7 || 740 || 45 || 1티어 || 스톡 || 0 || 0 ||
+|| 303 Lewis Mk.III* 1정 || 45 || 600 || 7.7 || 740 || 45 || 3티어 || 최종 || 1.100 || 7.200 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Skua Mk.1 || 225 || 3082 || 4티어 || 스톡 || 0 || 0 ||
+|| Skua Mk.2 || 250 || 3132 || 4티어 || 최종 || 1.100 || 10.550 ||
+
+경험치 : 900 , 가격 : 38.000
+
+영국 중전투기라인을 타는 과정의 마지막 전투기이며 후방기총이 달려있다는 점이 특이하다. 물론 후방기총은3티어 전투기인 관계로 간지럽지만 견제용으로는 써먹을 수 있을 정도이고, 500파운드 폭탄까지 장비할 수 있지만 전투기로써의 성능이 나쁘지 않기 때문에 달지 않는 것을 선호하기도 한다.
+
+일단 이놈의 특출난점은 동티어와 다른건 거의 없으나 엄청난 체력을 이용해 동티어 전투기 혹은 딸피인 상위 티어 전투기와 헤드온이 가능하다. 심지어 이놈은 5티어 전투기들 피통보다 높다! ~~아 그렇다고 막 상위티어 한테 대들지말고...~~
+예를들면 현재 워게이밍 15주년으로 뿌린 골드전투기 I-15 Bis (DM2)의 피통이 75정도면 '''이놈은 250(!)씩이나 된다!''' 전투기 주제 500파운드폭탄을 가지고 AA 건 다 맞아가면서 적의 HQ 를 먼저 날려버리고 합류해도 피통이 200정도가 남는다! ~~그리고 지혼자 다 해먹다가 중전투기한테 잘못 헤드온해서 격납고로~~
+
+7.7mm 포는 전투기 답게 650m 까지 접근해야 그마나 좋은 탄착을 보게될것이다. 대신 이놈에게 종특인 14초 부스터와 엄청난 체력~~이건 이 비행기만 그런거였지 참...~~ 그리고 선회력이 좋다는것에 감사하다
+
+500파운드폭탄은 5티어 뷰파이터에서도 사용이 --가능하기에 연구할사람은 연구해가도 좋다.-- 가능했었으나 Skua의 500파운드 폭탄은 500lb(Tail Unit 26)로 분리되었기에 해도 안해도 상관없다.

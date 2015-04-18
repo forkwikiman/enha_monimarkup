@@ -1,0 +1,25 @@
+|| 최초 수록 버전 |||| [wiki:"펌프 잇 업/2nd" Pump It Up The 2nd Dance Floor] ||
+|| 최후 수록 버전 |||| Pump It Up PREMIERE 2 ||
+|| 아티스트 |||| BanYa ||
+|| BPM |||| 85.9 ||
+|| 비주얼 |||| 미상 ||
+|||||||||| 모드별 레벨 데이터 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || - ||
+||<#009900> Double || - ||
+||<#F77FBE> Single Performance || 2 ||
+||<#87CEEB> Double Performance || 4 ||
+
+펌프 잇 업의 수록곡. 최초 수록 버전은 '''[펌프 잇 업/2nd]'''.
+
+장르는 힙합으로 BPM은 85.9로 굉장히 느린 노래. 그에 걸맞게 배치는 저렙.
+
+이게 중요한 게 아니고, '''아래 BGA때문에 유명세(?)를 타게 되었다.'''
+
+{{{#!HTML
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/2VzJwHzftK4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2VzJwHzftK4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+전체적인 내용은 한 큰 물고기가 작은 물고기를 먹으며 행패(?)를 부리자 --무덤에서 자고 있던-- 거북이가 큰 물고기를 쫒아가 박살내는 --[[충격과 공포]]의-- BGA. [[상처]]의 --저승사자와 박상민-- BGA에 비해 많이 포스가 떨어지지만...
+
+3rd O.B.G의 구곡 칼질에 짤렸다가 PC때 부활했지만 EXTRA에서 삭제된 후 현재까지 영원히 부활하지 못하였다. 단 외국 버전의 경우 PREMIERE 2까지 수록하였다.

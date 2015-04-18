@@ -1,0 +1,44 @@
+{{{+1 森下駅 / Morishita Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://farm7.staticflickr.com/6163/6174939482_5055144967_z.jpg
+모리시타역의 A5번 출입구의 자전거용 통로. (사진 저작자 : [[http://www.flickr.com/photos/koichiwb/6174939482/|K.Suzuki]])
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 코토구에 위치한 [[도쿄도 지하 고속전차]]의 역이다. [[wiki:"신주쿠선(도쿄 도 교통국)" 신주쿠선]] 및 [[오에도선]]의 환승역이다.
+
+그럴 것 같지 않아 보이지만, 이 역은 [[도쿄 도 교통국]]의 역 중 헬게이트에 속한다. 신주쿠선 21개역 중 3위, 오에도선 38개역 중 2위의 승하차 인구를 자랑하는 역이다. 거기다가 신주쿠선의 경우 급행까지 정차하는 역이니...
+
+역 주변은 주택가 및 저층 건물로 구성되어 있다. 료고쿠와 가까운 곳에는 [[스모]]도장이 많은 편이다.
+
+== 역 및 승강장 ==
+http://www.kotsu.metro.tokyo.jp/subway/stations/morishita/i/solid_s.gif
+역 구조.
+
+||||||||||<#6cbb5a> {{{#ffffff 신주쿠선}}} ||<#808080><|4>{{{#ffffff 운영주체: 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일: 1978년 12월 21일}}} ||
+||<width=100px> [wiki:"신주쿠역" 신주쿠] 방면[[br]][wiki:"하마초역" 하마초][[br]](S-10) ||   ||<width=100px> 모리시타[[br]](S-11) || {{{+1 → }}} ||<width=100px> [wiki:"모토야와타역" 모토야와타] 방면[[br]][wiki:"키쿠카와역" 키쿠카와][[br]](S-12) ||
+||||||||||<#b6007a> {{{#ffffff 오에도선}}} ||
+||<width=100px> [wiki:"도청 앞역" 도청앞] 방면[[br]][wiki:"료고쿠역" 료고쿠][[br]](E-12) || {{{+1 ← }}} ||<width=100px> 모리시타[[br]](E-13) || {{{+1 → }}} ||<width=100px> [wiki:"히카리가오카역" 히카리가오카] 방면[[br]][wiki:"키요스미시라카와역" 키요스미시라카와][[br]](E-14) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Toei-shinjuku-line-morishita-platform.jpg/600px-Toei-shinjuku-line-morishita-platform.jpg
+신주쿠선 모리시타역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File:Toei-shinjuku-line-morishita-platform.jpg|LERK]])
+
+http://farm2.staticflickr.com/1128/852216492_92303a39c5_z.jpg
+오에도선 모리시타역의 한 승강장 모습. (사진 저작자 : [[http://www.flickr.com/photos/ippei-janine/852216492/|ippei + janine]])
+
+http://farm4.staticflickr.com/3181/2929099506_bc1d0e53c9.jpg
+오에도선 모리시타역의 역명판. (사진 저작자 : [[http://www.flickr.com/photos/tirol28/2929099506/|tirol28]])
+
+신주쿠선과 오에도선 모두 섬식 승강장이다.
+== 완급결합 ==
+'''신주쿠선'''
+||||||<#20b2aa> {{{#ffffff 급　　행}}}
+||<width=100px> [wiki:"바쿠로요코야마역" 바쿠로요코야마] || {{{+1  ← }}} ||<width=100px> 모리시타 || {{{+1  → }}} ||<width=100px> [wiki:"오지마역" 오지마] ||
+||||||<#0000ff> {{{#ffffff 통근쾌속}}}
+||<width=100px> [wiki:"하마초역" 하마초] || {{{+1  ← }}} ||<width=100px> 모리시타 || {{{+1  → }}} ||<width=100px> [wiki:"키쿠카와역" 키쿠카와] ||
+||||||<#0000ff> {{{#ffffff 쾌　　속}}}
+||<width=100px> [wiki:"하마초역" 하마초] || {{{+1  ← }}} ||<width=100px> 모리시타 || {{{+1  → }}} ||<width=100px> [wiki:"키쿠카와역" 키쿠카와] ||
+||||||<#888888> {{{#ffffff 각역정차}}}
+||<width=100px> [wiki:"하마초역" 하마초] || {{{+1  ← }}} ||<width=100px> 모리시타 || {{{+1  → }}} ||<width=100px> [wiki:"키쿠카와역" 키쿠카와] ||
+
+[[각주]]

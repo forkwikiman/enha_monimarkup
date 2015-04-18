@@ -1,0 +1,35 @@
+{{{+1 Ligne K du Transilien / ligne K}}}
+ * [[철도 관련 정보]]
+||<-4><table align=center><#5bad27> [wiki:"트랑지리엥" <span style="font-weight:bold;color:white">Transilien</span>] ||
+||<#dcdcdc> [[wiki:"트랑지리엥 H선" H선]] ||<#dcdcdc> [[wiki:"트랑지리엥 J선" J선]] ||<#ffffff> '''{{{#c3a500 K선 }}}''' ||<#dcdcdc> [[wiki:"트랑지리엥 L선" L선]] ||
+||<#dcdcdc> [[wiki:"트랑지리엥 N선" N선]] ||<#dcdcdc> [[wiki:"트랑지리엥 P선" P선]] ||<#dcdcdc> [[wiki:"트랑지리엥 R선" R선]] ||<#dcdcdc> [[wiki:"트랑지리엥 U선" U선]] ||
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#c3a500 '''트랑지리엥 K선''' }}} ||
+||운영기관 ||[프랑스국철](SNCF)||
+||영업거리 ||61km ||
+||궤간 ||1435㎜ ||
+||역수 ||10 ||
+||전기 ||교류 25000V ||
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Transilien_K_RIB_%C3%A0_Paris-Nord.jpg/800px-Transilien_K_RIB_%C3%A0_Paris-Nord.jpg?width=650
+
+[[트랑지리엥]]의 한 노선으로 트랑지리엥 K선은 동서 방향의 노선이다. 서쪽의 파리 북 (Paris-Nord) 역으로부터 동쪽의 크레피 앙 발루아 (Crépy-en-Valois) 역까지 운행한다. 르 플레시스 벨빌 역부터 크레피 앙 발루아 구간은 일드 프랑스 제외 구역이다. 이 노선은 [프랑스국철](SNCF)이 운영한다. 
+
+== 노선 ==
+attachment:/trank.jpg?width=650
+
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| [파리 북역] || Paris-Nord || 1 || {{{#0c6eb7 ●}}} [wiki:"파리 지하철 2호선" 2호선] [[br]] {{{#bb4b9c ●}}} [wiki:"파리 지하철 4호선" 4호선] [[br]] {{{#f68f4d ●}}} [wiki:"파리 지하철 5호선" 5호선] [[br]] {{{#537db9 Ⓑ}}} [[RER B선]] [[br]] {{{#18964c Ⓓ}}} [[RER D선]] [[br]] {{{#c760ad Ⓔ}}} [[RER E선]] [[br]] {{{#a15256 Ⓗ}}} [[트랑지리엥 H선]] [[br]] [TER] 피카르디 [[br]] TGV 유로스타 ||  ||
+|| 오네 수 부아 || Aulnay-sous-Bois || 4 || {{{#c760ad Ⓔ}}} [[RER E선]] [[br]] {{{#ffbf00 ④}}} [[파리 트램 4호선]] ||  ||
+|| 미트리 – 클레이 || Mitry - Claye || 5 || {{{#c760ad Ⓔ}}} [[RER E선]] [[br]] [TER] 피카르디 ||  ||
+|| 콩팡 || Compans || 5 ||  || ||
+|| 티외 - 낭투이예 || Thieux – Nantouillet || 5 ||  ||  ||
+|| 다마르탱 – 쥘리 – 생 마르 || Dammartin - Juilly - Saint-Mard || 5 || [TER] 피카르디 ||  ||
+|| 르 플레시스 벨빌 || Le Plessis-Belleville || 제외 || [TER] 피카르디 ||  ||
+|| 낭퇴유 르 오두엥 || Nanteuil-le-Haudouin || 제외 || [TER] 피카르디 ||  ||
+|| 오르모이 비예르 || Ormoy-Villers || 제외 || [TER] 피카르디 || ||
+|| 크레피 앙 발루아 || Crépy-en-Valois || 제외 || [TER] 피카르디 ||  ||
+
+
+[[각주]]

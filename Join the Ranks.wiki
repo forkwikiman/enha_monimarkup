@@ -1,0 +1,18 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Join the Ranks''' ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/129990_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {3}{W} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 순간마법 ||
+||||<height=190px>1/1의 백색 병사 Ally 생물 토큰 두 개를 전장에 놓는다.
+
+''Expeditionary houses are notorious for their rivalries. But when adventurers meet in the wilderness, the instinct for mutual survival outweighs petty grudges.''||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Worldwake || 커먼 ||
+
+Ally는 [[젠디카르]]에 나오는 것들로 모두 '자신 또는 다른 Ally가 전장에 들어오면 ~를 한다' 이런 식의 능력이라서 찍히지만 않으면 제법 무서운 진형을 이룬다.
+
+Zendikar만 나왔을 당시에는 ally들이 리밋에서는 제법 강력하지만 컨스에서는 덱을 짜기에는 아직 많이 부족했는데, Worldwake에서 이 카드가 나오자 컨스에서도 제법 쓸만한 얼라이 덱을 짤 수 있게 되었다. 순간마법이기 때문에 컴뱃트릭으로 써 주면 이미 있는 얼라이들이 커지는 능력(+1/+1 카운터가 올라가는)을 쓸 수 있다는 것이 매력. 
+
+리밋에서는 많이 깡패지만, 컨스에서는 [[Violent Outburst]]의 캐스케이드 능력을 이용해서 다른 얼라이를 꺼내는 것이 더 유용하기 때문에 컨스에서는 볼 일은 없었다(...)

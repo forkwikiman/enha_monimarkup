@@ -1,0 +1,44 @@
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/41a5H%2BUERXL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=1F63EC1A1EA01D98799956E9BE4B1EE33E3D&outKey=V125a121016c20fd06f43286c7d8fef2da6dc8d5c7dc559dfead3286c7d8fef2da6dc" frameborder="no" scrolling="no"></iframe>
+}}}
+PV 영상
+
+[[히라이 켄]](平井堅)이 2005년 10월 26일에 발매한 23번째 싱글음반 및 동명의 타이틀곡. 오리콘 차트 1위까지 차지한 인기곡이다.
+
+[[후지 테레비]] 드라마 '위험한 아네키(危険なアネキ)'의 주제가로도 쓰였다.
+
+== [[리듬게임]]에 수록 ==
+[[리듬게임]]에서는 [[응원단 시리즈]], 유비트 시리즈, [[태고의 달인]] 시리즈에 수록되는 정말 --사골--단골 라이센스곡 중 하나.
+
+=== [[유비트 시리즈]] ===
+==== 커버 보컬 버전 ====
+||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>1||<:>4||<:>7||
+||<#faca00><:>노트수||<:>168||<:>309||<:>521||
+||<#faca00><:>BPM||||||<:>139||
+||<#faca00><:>곡 이력||||||[[유비트]]에서 첫 수록[[BR]][[유비트 플러스]]에서 music pack 04에 수록[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/cpn541oIr2c?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cpn541oIr2c?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+EXTREME EXCELLENT 영상
+
+후렴부에 대각선 동시치기 패턴이 많이 나오기 때문에, 익숙하지 않으면 여기서 폭풍미스가 나기 쉽다. 그래서 첫 플레이에 풀콤보는 조금 어렵다.
+하지만 16비트는 전혀 나오지 않고 쉬운 정박으로만 나오기 때문에 [[엑설런트]] 난이도는 레벨 7 중에서 쉬운 편이다. 익스트림 레벨 7 엑설런트 입문 곡으로 추천.
+
+==== 원곡 버전 ====
+||||||||<#2828a0><:>{{{#white jubeat Plus 기준}}}||
+||<|2><#2828a0><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>6||<:>8||
+||<#2828a0><:>{{{#white 노트수}}}||<:>149||<:>380||<:>537||
+||<#2828a0><:>{{{#white BPM}}}||||||<:>140||
+||<#2828a0><:>{{{#white 곡 이력}}}||||||[[유비트 플러스]]에서 [[wiki:"히라이 켄" 平井堅]] pack에 첫 수록||

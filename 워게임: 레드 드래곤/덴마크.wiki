@@ -1,0 +1,275 @@
+[[include(틀:워게임: 레드 드래곤/진영)]]
+
+[[목차]]
+
+상위항목 : [wiki:"워게임: 레드 드래곤" 워게임: 레드 드래곤]
+
+기존 유닛들 정보는 [[워게임 : 에어랜드 배틀/덴마크]] 참조.
+
+[[WRD]]의 [[덴마크군]]항목. 유진 시스템즈가 한글화 방침중에 유닛명과 무기의 명칭은 번역 금지를 원칙으로 삼아 기존의 번역은 파기함.
+
+당장의 스칸디나비아군은 유닛 추가가 없어 RD항목에 맞추고 카테고리만 정리함.
+
+카테고리C는 갈색 볼드, 카테고리B는 녹색 볼드, 카테고리A는 검은색 볼드 처리되었다.
+
+
+= [[덴마크]] 왕국 전투단 =
+컬트함에 목숨건 사람이 아니면 전작과 마찬가지로 단독으로 볼일은 별로 없다. 그나마 연합덱 시스템의 등장으로 전작보다는 전장에 자주 출현하는 편. 대신 가용량을 50%나 받다보니 한팩당 FOB가 두개씩 들어가는 것이 특징. FOB 4개 깔아놓고 포병스팸질이 가능하다. --그리고 아군이 몰래 퍼먹는다-- DLC#3에서 오토매틱과 EOTS호크덕에 방공분야에서 개성 하나는 확실히 얻었다. 여담으로 칼구스타프 M3을 본국인 스웨덴보다 더 사랑하는 국가다(...).
+== LOG ==
+
+=== 지휘차량 ===
+
+ * [[보병]]
+ attachment:STABSOELING.png
+  * '''{{{#Brown Stabsoeling}}}'''
+ * [[지프]]
+ attachment:M151A1_KV.png
+  * '''{{{#Brown M151A1 KV}}}'''
+ * [[장갑차]]
+ attachment:M113A1_CP.png
+  * '''{{{#Brown M/113A1 CP}}}'''
+ * 지휘전차
+ attachment:FFC_CENTURION.png
+  * '''{{{#Brown FFC Centurion}}}'''
+
+=== 보급차량 ===
+
+ attachment:FOB.png
+ * '''{{{#Brown FOB}}}'''
+
+ * [[트럭]]
+ attachment:FORSYNINGS_JUPITER.png
+  * '''{{{#Brown Jupiter}}}'''
+ attachment:UNIMOG_CARGO.png
+  * '''{{{#Brown Unimog Cargo}}}'''
+
+== INF ==
+덴마크 보병의 특징이라면 싸지만 효율적이란 것이다. 하지만 하이테크 병기를 상대로는 말그대로 반격도 못하고 우수수 죽어나가므로 보병이 버티는 동안 TOW차량으로 공격하는 식의 철저한 방어전을 고수해야한다
+ * 동원분대
+ attachment:HR_HJEMMEV_ERNET.png
+  * '''{{{#Brown Haer Hjemmavaernet}}}'''(Hjemmeværnet) - '''프로토타입'''
+  --어떻게 읽는지 [[추가바람]]--[* 발음 기호상 '해르 히엠메배르넷 정도로 읽힐 것이다. 덴마크어 전공자가 수정 바람] STAT이라지만 기관총까지 들었으면서 5포인트밖에 안했다. 결국 패치로 10포인트로 상승. 원래 2팩을 씀으로써 적을 예비군의 파도에 빠트려 죽일 수 있었지만 v254패치로 끝장났다. 다른 무기는 평범하지만 사용기관총이 MG3이라는 점이 비범하다. 기관단총 + 기관총 보유 예비군 분대가 15인인 것은 과하다고 생각했는지 패치를 통해 10인분대로 너프되었다. 
+ * 소총분대
+ attachment:DRAGONER_DLC3.png
+  * '''{{{#Brown Dragorner}}}'''(용기병)
+  대전차화기가 구형 LAW라는 것만 빼면 MG3빨도 있어 싸고 쓸만하다. 스칸디 연합 덱에서는 노르웨이 90년도 소총 보병이 10원으로 하락하면서 이제는 거의 찾아보기 힘들게 되었다.
+ attachment:LIVGARDEN_DLC3.png
+  * '''{{{#Brown Livgarden}}}'''(근위대)
+  충격보병. CQC 기관총과 칼구스타프 M2를 들고 나온다.
+ attachment:LIVGARDEN_85.png
+  * '''{{{#Green Livgarden'85}}}'''
+  칼구스타프 M3로 무장이 변경되었다.
+
+ * 특수부대
+ attachment:FKP.png
+  * '''{{{#Green FKP}}}'''((Frømandskorpset - Naval Commando){{{#red (DLC)}}}
+  덴마크 해군 특수부대. 전투력은 좋지만 트럭에 탑승하려니 정찰보병이나 지휘보병이 뺏어가고, 헬기는 25포인트나 한다는 문제가 있다. 패치로 35포인트로 가격상승을 먹었다.
+
+ * 화력지원반
+ attachment:ILDSTOTTEGRUPPE.png
+  * '''{{{#Brown Ildstottegruppe}}}'''
+  칼구스타프 M2형을 사용하는 화력지원반
+ attachment:ILDSTOTTEGRUPPE_85.png
+  * '''Ildstottegruppe'85'''
+  M3형을 사용한다  
+
+ * 대공 특기병
+ attachment:LLRkt_HAMLET_DLC3.png
+  * '''{{{#Brown LLRkt Hamlet}}}'''([[햄릿]])
+ attachment:LLRkt_M93.png
+  * '''LLRkt M/93 - 프로토타입'''([[스팅어]])
+  스팅어 C형을 운용. 패치로 프로토타입 딱지가 붙었다.
+== SUP ==
+=== [[포병]] ===
+
+ * [[자주박격포]]
+ attachment:M125.png
+  * '''{{{#Brown M/125}}}'''
+ * 155mm급 [[자주포]]
+ attachment:SKH_M109G.png 
+  * '''{{{#Brown SKH M/109G}}}'''
+ attachment:SKH_M109A3.png
+  * '''{{{#Green SKH M/109A3}}}'''
+  서독의 PzH M109A3G1A 처럼 굴리면 상당한 화력지원 효과를 볼수있다.--물론 팔라딘급성능을 기대하면 안된다--
+
+=== 방공 ===
+ * 자주대공포
+  * 목측
+  attachment:GMC_M450.png 
+   * '''{{{#Brown GMC M45D}}}'''
+   한국의 승공포에 그냥 도색만 바꾸고 DLC에 추가된 건트럭. --이런게 왜 추가됬을까-- --한국군도 차량탭에 넣은 건트럭을 서폿탭에 넣는 덴마크군--
+  * 레이더
+  attachment:OTOMATIC.png
+    * '''Otomatic'''
+   원래는 이탈리아에서 개발한 차량으로, 레오파르트의 차체에 '''해군 함포'''로 쓰이던 76mm 오토멜라라 포를 '''대공포 용도로'''[* 참고로 9.11 테러 직후 잠깐이지만 관심을 모았는데, 이는 대형 여객기를 테러용으로 쓰는 비슷한 테러가 다시 날 경우, 미사일은 탄두 크기가 작고 한 번에 여러발을 쏘기 힘들기 때문에, 보다 화력도 연사력도 훨씬 강한 이 물건이 방어용 무기로 주목을 받았기 때문.] 얹은 충격과 공포의 유닛. --전차라도 잡을 생각인가-- 지금도 그렇지만 배치 당시에도 독보적으로 독특한 무기라서 많은 관심을 모았고, 덴마크가 도입을 검토만 하다 포기했지만, 워게임에 당당하게 등장하게 되었다. 
+
+   개방된 DLC3 베타판을 보면 충격과 공포의 스펙인데, 우선 AP가 12이다--미쳤구나--. 근데 이것에 만족하지 못했는지 분당 발사속도가 60발에 명중률이 55%이다. 2100에 이르는 대지상 사거리와 300을 넘는 제압과 2975미터에 달하는 대공,대헬기 사거리는 굉장한데, 어지간한 ATGM 헬기가 덤벼들다가 그냥 추락한다. 장갑1 붙은 공격헬기 따위야 76mm에 맞기만 하면 그냥.... HE가 3이나 되지만 연사가 느려서 대공능력 자체는 가격에 비해 평범하다. 방공은 덤이고 지상지원을 주력으로 해야 제값을 뽑을 수 있다. 지나가는 장갑차나 보병은 혼자서 쓸어버리며 스팸전차가 밀려와도 1초에 1대씩 날려버린다. 그야말로 '''양학의 제왕'''.--또는 스팸전술 봉인기-- 시드기에게 약하다는 점은 VEAK 40을 고기방패로 세워 놓으면 해결 가능하다. 하지만 지상 사거리가 2100이며 전면장갑이 고작 3이다 보니 미들급 이상의 탱크가 있거나 ATGM이 있는 곳에서는 활약하기 어렵다. 맞으면 무조건 1방에 터지기 때문.
+
+ * 방공미사일
+  * 레이더
+  attachment:M727_HAWK.png
+   * '''{{{#Brown M/727 Hawk}}}'''
+  attachment:M727_I-HAWK.png
+   * '''{{{#Green M/727 I-Hawk}}}'''
+  * 광학추적
+  attachment:EOTS_HAWK.png
+   * '''EOTS HAWK''' - 프로토타입
+   충격과 공포의 목측 호크. 비레이더 주제에 아이호크를 능가하는 성능을 자랑한다. 물론 맨눈으로 쏘는 건 아니고 Electro-Optical Targeting System, 즉 전자광학추적/조준시스템이 장착되어 있다는 설정이다. 그냥 이것만 서너 대 배치하고 보급만 잘 해주면 비행금지구역이 되는 수준. 대신 기어다니는 이동속도 때문에 1발 쏘고 바로 진지이동하지 않으면 포격을 피하기 힘들다는 것이 약점이다. 오토매틱과 함께 많은 워게임 유저들이 가공할 덴마크의 기술력(...)에 전율하는 중. 너무 강력했기 때문에 명중률이 50%로 너프되었다.
+
+== TNK ==
+
+ * 1세대급 주력전차
+ attachment:CENTURION_84mm.png
+  * '''{{{#Brown Centurion 84mm}}}'''
+ attachment:CENTURION_105mm.png
+  * '''{{{#Brown Centurion 105mm}}}'''
+ * 2세대급 주력전차
+ attachment:CENTURION_Mk5_2-DK.png
+  * '''{{{#Green Centurion Mk.5/2-DK}}}'''
+ attachment:LEOPARD_1A3-DK.png
+  * '''{{{#Brown Leopard 1A3-DK}}}'''
+ attachment:LEOPARD_1A5-DK.png
+  * '''Leopard 1A5-DK'''
+  덴마크의 하이엔드 전차의 자리(...)를 차지한 신규 추가유닛. 포성능은 쓸만하지만 장갑이 아쉬운 건 어쩔 수 없다.
+== REC ==
+=== 정찰차량 ===
+ 
+ * [[지프]]
+ attachment:OPKLARINGS_M151.png
+   * '''{{{#Brown Opklarings M/151}}}'''
+ * 장갑차
+ attachment:VILDKAT.png
+  * '''Vildkat''' - '''프로토타입'''
+ attachment:SPEJDERVOGN_M95.png
+  * '''Spejdervogn m/95''' - '''프로토타입'''
+ 매우좋음 시야에 30원으로 저렴하면서 1팩으로 7대나 나온다. 내구력도 10인데다가  차량 전체가 방어력 1이라 지근탄 정도에 터지지 않는다.
+
+ * 경전차
+ attachment:M41A1.png
+  * '''{{{#Brown M41A1}}}'''
+ attachment:M41_DK1.png
+  * '''{{{#Brown M41 DK1}}}'''
+  --맙소사. 한국전의 유산을 85년 북유럽에서 볼 줄이야.-- AP 10이지만 ... '''충격과 공포의 명중률 50''' 이다!! 대차량에 특화된 무서운 전차
+=== 정찰헬기 ===
+
+ attachment:CAYUSE.png
+  * '''{{{#Green Cayuse}}}'''([[OH-6]])
+ attachment:SCOUT_DEFENDER.png
+  * '''Scout Defender'''([[MD-500]])
+
+=== 정찰보병 ===
+
+ * 수색분대
+ attachment:SPEJDERNE.png
+  * '''{{{#Brown Spejderne}}}'''
+
+ * 특수부대
+ attachment:JEGERE.png
+  * '''{{{#Brown Jaegers}}}'''(엽보병)
+  --프랑스, 독일에서는 알보병인데 여기서는 특수부대다.-- 기관단총과 MG3를 들고 있어서 리콘보병 중에서는 최상급의 근접 전투력을 자랑한다. 대전차화기도 칼 구스타프를 사용한다. 다만 트럭으로 1팩만 부를 수 있고 다른 선택지가 헬기뿐이라서 저렴하게 2팩을 쓰지는 못한다는 것이 단점.
+ attachment:JAEGERE_90.png
+  * '''Jaegers'90'''
+  장비가 소음화기인 MP5SD와 칼구스타프 M3형으로 교체. 하지만 기관총이 I.MG3에서 미니미로 바뀐다는 건 왠지 근대화라기보단 너프라는 생각을 지울 수 없다(...).
+== VHC ==
+=== 수송차량 ===
+덴마크는 WRD 등장 국가중 가장 지상수송차량 선택지가 좁다.--전작에선 PNMK라도 있었지--
+ * 트럭/장륜 장갑차
+ attachment:MD_JUPITER.png
+  * '''{{{#Brown MD Jupiter}}}'''
+  v21패치로 트럭이 지휘보병 전용탈것으로 돌아왔다. 5포인트.
+ attachment:M6_MOSEGRIS.png
+  * '''{{{#Brown M6 Mosegris}}}'''
+
+ * APC
+ attachment:M113A1.png
+  * '''{{{#Brown M/113A1}}}'''
+  --평범한 깡통이다. [wiki:"M113" 틴 캔][* 깡통. 미군들이 알루미늄 차체의 [M113]을 놀릴때 주로 쓰는 별명이다.]에게 뭘 기대하는가!-- 싼맛에 보병을 전장에 배달하는 장갑차라는 역할 그 자체에 충실하다.
+ attachment:M113G.png 
+  * '''M/113G''' - '''프로토타입'''
+ --깡통주제 프로토타입이다.--
+
+=== [wiki:"대전차자주포" Tank Destroyer] ===
+
+ attachment:LARD_106mm_RR.png
+  * '''{{{#Brown LARO 106mm RR}}}'''
+ * ATGM 지프
+ attachment:LARO_TOW.png
+  * '''{{{#Brown LARO TOW}}}'''
+ attachment:LARO_TOW-2.png
+  * '''LARO TOW2'''
+
+ * ATGM 장갑차
+ attachment:M113A1_TOW.png
+  * '''{{{#Brown M/113A1 TOW}}}'''
+ attachment:M113A1_TOW_2.png 
+  * '''M/113A1 TOW 2'''
+ --본격 나토의 대차량 저격수를 보는듯한 화력 구성-- 당연히(?) 단독덱으로 쓸 일은 없을테니 토우2는 그냥 노르웨이껄 가져다 쓰자. 그쪽이 장갑이 조금 더 좋다.
+
+=== 화력지원차량 ===
+
+ * 기관포
+ attachment:M92_PNMK.png 
+  * '''M/92 PNMK''' - '''프로토타입'''
+
+== HEL == 
+=== 수송헬기 ===
+
+ attachment:LYNX.png
+ * '''{{{#Brown Lynx}}}'''
+ 시나이트를 밀어버리고 새로 등장한 헬기
+
+=== 공격헬기 ===
+ * 기관포
+ attachment:FWNNEC_20mm.png
+  * '''Fennec 20mm'''
+  회전익기의 화력지원이 아쉬웠던 스칸디나비아 연합에 추가된 준수한 헬기. 영국의 오토캐논 링스 굴리는 감각으로쓰면 좋은 전과를 올릴수 있다.
+
+ * ATGM
+ attachment:TOW_DEFENDER.png
+  * '''{{{#Green TOW Defender}}}'''
+ attachment:FWNNEC_TOW-2.png
+  * '''Fennec TOW-2'''
+  [[AS-350]]의 군용기 버전. 명중률 70%의 TOW2 4발을 장착하고 55포인트. 체력이 6이며 속도도 빠르다. 스칸디나비아 연합의 대전차능력을 대폭 보완해주는 좋은 헬기.
+== AIR ==
+
+ * 제공전투기
+  * IR
+  attachment:CF-104.png
+   * '''{{{#Brown CF-104}}}'''
+   DLC에 추가된 로우 엔드 제공기.--F-104J랑 같은 신세가 되겠군--
+  * SemAct+IR
+  attachment:F-16A_BLOCK_15.png
+   * '''F-16A Block 15'''
+   스패로우를 운용한다. 일본의 F-15J에서 ECM 10%와 항공시야 한단계를 까고 45포인트 차이인셈이니 제법 쓸만한 제공기.
+
+ * 멀티롤
+  * ATGM+IR
+  attachment:F_35_DRAKEN.png
+   * '''{{{#Brown F 35 Draken}}}'''
+   AP30, 명중율30의 로또미사일 운용기. 스칸디나비아덱유저라면 차라리 스웨덴의 AJ37을 쓰자. 어쩌면 연안함정 사냥용으로 쓸 수 있을지도...
+  * ATGM+레이더 
+  attachment:F-16A_MLU.png
+   * '''F-16A MLU''' - 프로토타입
+   매버릭4발에 암람4발을 탑재한 매우 좋은 항공기. --그리펜이나 F-16AM이 탑재한 AIM-9L 나부랭이 대신 매버릭을 들고나와도 가격이 같다--
+
+  * 집속탄+IR
+  attachment:F-16A_BLOCK_5.png
+   * '''{{{#Brown F-16A Block 5}}}'''
+   DLC 이전에는 고폭탄을 12발 장착한 폭격기로 적당한 코스트에 기총과 자위무장, 낮게나마 ECM을 갖추고 있어 폭격기로써 괜찮은 유닛이었는데 DLC3에서 무장이 집속탄 12발(!)으로 변경되었다.
+  * 고폭탄+IR 
+  attachment:F_35_DRAKEN_WDNS.png
+   * '''F 35 Draken WDNS'''
+   덴마크에 추가된 새로운 드라켄. 500kg 고폭탄 6발을 투하한다. 속도나 ECM, 회전반경 모두 준수한 편이다. --스웨덴의 드라켄과 퀄리티 차이가..--
+
+ * 지상공격기
+  * 로켓
+  attachment:F-100D.png
+   * '''{{{#Brown F-100D}}}'''([[F-100]])
+  HE 3짜리 로켓을 76발이나 퍼붓는다. 같은 가격의 세이버는 HE 4짜리 16발(...)
+  * 네이팜
+  attachment:STARFIGHTER.png
+   * '''{{{#Brown Starfighter}}}'''([[F-104]])
+   --과부제조기 아니 워게임 항공기 베스트셀러주제에 국가별 용도가 지들 멋대로다.-- v61에서 네이팜으로 무장이 교체. 이로써 스칸디나비아도 네이팜 폭격기를 보유하게 되었다.
+
+
+[[각주]]

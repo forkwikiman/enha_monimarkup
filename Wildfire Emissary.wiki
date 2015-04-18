@@ -1,0 +1,29 @@
+[[TCG]] [[매직 더 개더링]]에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+||<tablewidth=100%> '''영어판 명칭''' ||'''Wildfire Emissary'''||<width=230px><|6>http://www.cardkingdom.com/media/images/products/standard/121162_1.jpg?width=230||
+|| '''한글판 명칭''' ||'''-'''||
+|| '''마나비용''' || {3}{R} ||
+|| '''유형''' || 생물 ─ 이프리트 ||
+||||<height=188px>백색으로부터의 보호
+{1}{R}: Wildfire Emissary는 턴의 끝까지 +1/+0을 받는다.||
+|| '''공격력/방어력''' || 2/4 ||
+
+백색 상대로밖에 쓰지 못하는 생물. 적색에서 특정 색 보호가 붙은 건 몹시 보기 드문 일이긴 하지만, 이 카드 자체가 능력에 비해서 발비가 센데다가 펌핑 효율도 기본적으로 [[Dragon Whelp]] 등이 가지고 있는 Firebreathing의 {R}이 아니라 {1}{R}이라 효율이 더럽게 나쁘다. 모든면에서 능력이 쳐지기에 리밋에서도 픽하기 껄끄러운 카드. 바로 옆으로 넘겨주고 한 바퀴 돌아서 다시 나한테 오는 것을 관찰해보자.
+
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Mirage || Mirage || 언커먼 ||
+|| Time Spiral(Timeshifted) || Time Spiral || [[Timeshifted]] ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+||<|2><:> 블럭컨스 || Mirage 블럭 ||<|2><:>사용가능 ||
+|| Time Spiral 블럭 ||
+|| 모던 ||||<|3><:>사용가능  ||
+|| 레가시 ||||
+|| 빈티지 ||||
+
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''배경담''' ||
+|| Mirage || ''"The efreet is a striding storm with a voice that crackles like fire." —Qhattib, vizier of Amiqat'' ||

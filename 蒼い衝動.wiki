@@ -1,0 +1,40 @@
+'''푸른 충동'''
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 악곡. 작곡은 [[NAOKI]]. 보컬은 Yuki란 명의로 출전한 [[쿠니타케 미유키]].
+
+[[TЁЯRA]]의 앨범 [[RЁVOLUTIΦN]]에서 [[후지모리 소타]]가 리믹스하고 [[jun]]이 커버한 버전이 실려 있다.
+
+== [[beatmania IIDX]] ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/XAfGuNG9cII" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 145 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 468}}} || {{{#orange 7}}} || {{{#orange 694}}} || {{{#red 8}}} || {{{#red 803}}} || {{{#blue 5}}} || {{{#blue 524}}} || {{{#orange 6}}} || {{{#orange 685}}} || {{{#red 9}}} || {{{#red 795}}} ||
+
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 8th Style ~
+ * 가정용판 수록 : 8th Style, 11 IIDX RED
+
+투덱 첫 수록은 8th Style. 쿠니타케 미유키의 유일한 IIDX 참여작이자[* 오리지널 악곡 외의 첫 출전인 [[Kiss me all night long]]은 댄스 매니악스에서 이식된 곡.], 쿠니타케 미유키가 보컬을 맡은 악곡 중 [이즈미 무츠히코]의 작곡이 아닌 곡이기도.(이 외엔 [[Kiss me all night long]]과 판권곡 커버 보컬곡)
+
+BGA는 [[NEW GENERATION -もう、お前しか見えない-]]에 쓰인 8th [범용 BGA]를 쓴다.
+
+== 댄스 댄스 레볼루션 ==
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/92NEzIxLH-s" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 2}}} || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 9}}} ||
+||<|3> 145 |||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 11}}} ||
+
+댄스 댄스 레볼루션 EXTREME에 이식. for EXTREME이란 부제가 붙었고 중반부가 일부 컷팅되었다.

@@ -1,0 +1,135 @@
+[[목차]]
+
+= 개요 =
+[[월드 오브 워쉽]]의 강화에 대한 항목.
+
+[[월드 오브 탱크]]의 장비품과 같이 크레딧으로 장착하는 방식이다. 계정 레벨 6때 활성화 된다.
+== 1단계 ==
+티어 제한이 없는 의 강화로 가격은 75000클딧이다.
+배에 따라 장착할 수 있는 강화가 다르다.
+
+=== 강화 주함포 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:MainGun_Mod_I.png?witdh=550 || 항공모함을 제외한 모든 함선 || -20% 탄약고 폭발 확률, -20% 주함포 손상 확률, -20% 주함포 수리 시간 ||
+
+=== 강화 부함포 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:SecondaryGun_Mod_I.png?witdh=550 || 항공모함을 제외한 부함포를 장착한 함선 || +20% 부함포 내구도 ||
+
+=== 강화 대공포 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:AirDefense_Mod_I.png?witdh=550 || 대공포를 장착한 함선 || +20% 대공포대 내구도 ||
+
+=== 강화 어뢰 발사관 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Torpedo_Mod_I.png?witdh=550 || 어뢰를 장비한 함선 || -20% 어뢰 발사관 수리 시간, -20% 어뢰 발사관 손상 확률 ||
+
+=== 강화 편대 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Airplanes_Mod_I.png?witdh=550 || 항공모함 || +10% 함재기 미사일 효과 향상 ||
+
+== 2단계 ==
+3 티어부터 사용이 가능하며, 가격은 15만 클딧이다.
+배의 종류에 상관없이 장착 가능하다.
+
+=== 강화 피해 복구 장치 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:DamageControl_Mod_I.png?witdh=550 || 모든 함선 || -3% 침수 확률, -5% 화재 발생 확률 ||
+
+=== 강화 엔진 출력기 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Engine_Mod_I.png?witdh=550 || 모든 함선 || -20% 엔진 손상 확률, -20% 엔진 수리 시간 ||
+
+=== 강화 조타 장치 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:SteeringGear_Mod_I.png?witdh=550 || 모든 함선 || -20% 조타 장치 손상 확률, -20% 조타 장치 수리 시간 ||
+
+== 3단계 ==
+5티어부터 장착이 가능해지며, 1단계 강화의 업그레이드 버전이다.
+가격은 25만 클딧
+
+=== 강화 주함포 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:MainGun_Mod_II.png?witdh=550 || 항공모함을 제외한 모든 선박 || +10% 주함포 장전 시간, +15% 주함포 조준 속도 ||
+
+=== 강화 사격 통제 장치 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:FireControl_Mod_I.png?witdh=550 || 항공모함을 제외한 모든 선박 || 주함포 사격 명중률 향상 ||
+
+=== 강화 부함포 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:SecondaryGun_Mod_II.png?witdh=550 || 항공모함을 제외한 부함포를 장착한 함선 || +20% 부함포 최대 사거리, 부함포 사격 명중률 향상 ||
+
+=== 강화 대공포 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:AirDefense_Mod_II.png?witdh=550 || 대공포를 장착한 함선 || +20% 대공포대 최대 사거리 ||
+
+=== 강화 어뢰 발사관 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Torpedo_Mod_II.png?witdh=550 || 어뢰를 장비한 함선 || -10% 어뢰 발사관 수리 시간, +20% 어뢰 발사관 장전 속도 ||
+
+=== 강화 편대 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Airplanes_Mod_II.png?witdh=550 || 항공모함 || +20% 전투기 내구도 ||
+
+=== 강화 비행 관제기 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:FlightControl_Mod_I.png?witdh=550 || 항공모함 || -10% 함재기 출격 시간 ||
+
+== 4단계 ==
+6티어부터 사용이 가능해지며, 2단계 강화의 업그레이드 버전이다.
+가격은 40만 클딧
+
+=== 강화 피해 복구 장치 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:DamageControl_Mod_II.png?witdh=550 || 모든 함선 || -15% 침수 복구 시간, -15% 화재 진화 시간 ||
+
+=== 강화 엔진 출력기 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Engine_Mod_II.png?witdh=550 || 모든 함선 || -20% 전속력 도달 시간 ||
+
+=== 강화 조타 장치 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:SteeringGear_Mod_II.png?witdh=550 || 모든 함선 || -20% 방향타 변속 시간 ||
+
+== 5단계 ==
+8티어부터 사용이 가능해지며, 3단계 강화의 업그레이드 버전이다.
+가격은 ? 클딧
+
+=== 강화 주함포 3 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:MainGun_Mod_III.png?witdh=550 || - || -12% 주포 재장전 시간, -17% 주포탑 회전속도 ||
+
+=== 강화 사격 통제 장치 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:FireControl_Mod_II.png?witdh=550 || - || +16% 주포 사정거리 증가 ||
+
+=== 강화 부함포 3 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:SecondaryGun_Mod_III.png?witdh=550 || - || - ||
+
+=== 강화 대공포 3 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:AirDefense_Mod_III.png?witdh=550 || - || - ||
+
+=== 강화 어뢰 발사관 3 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Torpedo_Mod_III.png?witdh=550 || - || - ||
+
+=== 강화 편대 3 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:Airplanes_Mod_III.png?witdh=550 || - || - ||
+
+=== 강화 비행 관제기 2 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:FlightControl_Mod_II.png?witdh=550 || - || - ||
+
+=== 은신 강화 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:ConcealmentMeasures_Mod_I.png?witdh=550 || - || -10% 발견거리  ||
+
+=== 탐지 강화 1 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=35%><:><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=50%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:LookoutStation_Mod_I.png?witdh=550 || - || +20% 탐지거리  ||
+
+추가 바람

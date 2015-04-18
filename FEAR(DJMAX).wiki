@@ -1,0 +1,39 @@
+[[목차]]
+== 개요 ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/NQT5bsUuXvA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || ["드럼 앤 베이스" Drum & Bass] ||
+|| 작곡 || [["슈퍼꼬마" Supbaby]] ||
+|| BPM || 182 ||
+|| BGA || Tina ||
+
+Supbaby의 곡
+슈퍼꼬마가 [[DJMAX 온라인]]에 참여하면서 FTR과 함께 만든 곡. FTR의 컨셉이 제목 그대로 흥겨운 음악이라면 이 곡의 컨셉은 공포를 형상화한 무겁고 어두운 음악이다. 다만 피아노 멜로디가 그런 분위기와 조화를 잘 이루어서 유저들 사이에선 인기가 좋았던 곡이다.
+
+BGA 컨셉은 무지에서 오는 공포에서 탈출 하려는 BGA일것이다. BGA를 잘보면 PRISON이라고 되어있는 부분이 있다.또한 BGA에 출현하는 로봇이 같혀있다가 어떤 배의 도움으로 탈출 하는 내용일것이다.(공포의 감옥인듯...)
+== [[DJMAX Portable]] ==
+{{{#!html
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/p9qmx0OOrwo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+DJMAX Portable 6B HD
+
+높은 BPM의 드럼 앤 베이스 곡 답게 게임상에서는 항상 고난도 패턴을 선보였다.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Rapid Stream 팩 수록곡 ||
+|| [wiki:"D2(DJMAX)" D2] || [HAMSIN] || [Bamboo on Bamboo] || '''FEAR''' || [Ztar Trek_RE Edit] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 || ||
+||<#0000FF> {{{#white HD}}} || 7 || ||
+||<#FF0000> MX || 8 || ||
+
+{{{#!html
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Ohr-4r5ZyX8?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+DJMAX RAY 6L MX
+
+포터블 이후로 한동안 이식 소식이 없다가 레이에서 부활하였다. 같은 팩에 있는 다른 곡과 난이도를 맞추기 위해서인지 난이도는 예전만 못하지만 완성도가 높아 치는맛은 괜찮은 패턴이다.

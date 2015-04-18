@@ -1,0 +1,651 @@
+[[목차]]
+
+[[Anno 2070]]에 등장하는 자원과 건물들을 설명하는 항목이다.
+
+= 자원 =
+
+== 1단계 자원 (Goods Level 1) ==
+
+양대 분파의 노동자 단계에서 필요한 자원들이 여기에 속한다.
+
+=== 공통 자원 ===
+
+다음의 세 자원은 3대 분파에서 공통적으로 사용한다.
+
+attachment:Anno_2070_Fish.PNG
+ * 생선 (Fish)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 3 ~ 16 (10) || [* 물류창고에서 판매하는 것을 기준으로 한다. 직접 배로 실어다 NPC에게 팔면 반 이하의 값으로 판매된다.] ||
+
+ 세 분파의 시민들이 요구하는 기초적인 식량 자원. 어부 작업장으로 생산할 수 있다.
+
+attachment:Anno_2070_Building_Modules.PNG
+ * 건설 모듈 (Building modules)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 9 ~ 44 (27) ||
+ 가장 기본적이면서 가장 중요한 자원 제1탄. 이게 없으면 기타 건물은 물론이거니와 발전의 기초인 주택을 지을 수가 없다. 초반의 빠른 발전을 위해서는 상당히 넉넉히 보유할 필요가 있다. 재미있는 점은 3대 분파 모두 고유 생산 건물이 있다는 점. 쓸데없이 호환성이 낮다(…).
+
+  * Tech : 해저 재활용 시설 (Underwater Recycling Station)
+  해저에서 건설 모듈을 캐낸다. 양대 분파처럼 가루를 모듈로 만드는 별개의 공정은 필요하지 않지만 특정한 추출 장소로 해저 잔해 더미(Undersea rubble heap)를 요구한다. 물에 가라앉아버린 과거의 문명이 남긴 건물을 재활용하는 모양이다. --미래의 후손들이 이렇게 쓰레기를 주워쓰는 상황이 되지 않도록 열심히 환경 보호를 하도록 하자.-- 별도의 생산 라인이 필요 없으면서도 시설 하나의 효율은 에코나 타이쿤의 생산라인의 효율의 두배다. 다만 유지비만 쓸데없이 비싸서 짓기 싫은 건물(…). Tech의 해저 개발에 건설 모듈이 많이 투입되는 것은 사실이지만, 그냥 관련 건물을 육지에 더 지어서 나르는 편이 덜 번거롭다.
+
+attachment:Anno_2070_Tools.PNG
+ * 도구 (Tools)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 18 ~ 80 (50) ||
+ 양대 주축 진영에서만 생산 가능하다. 다만 Eco 진영은 석탄 굴착기(Rotary excavator)를 지을 수 없기 때문에 게임 초반에 귀한 광산 타일을 석탄 광산(Coal mine)을 짓는 데 낭비해야 한다는 단점이 있다. 제련소(Iron smelter)에서는 철 광산(Iron ore mine)에서 생산된 철 광석을 석탄과 조합하여 철(Iron)을 생산하며, 생산된 철은 도구 제작소에 공급되어 도구를 만드는 데 쓰인다.
+ 적절한 배분은 1x 철 광산, 1x 석탄 굴착기(0.5x 석탄 광산), 1x 제련소, 2x 도구 제작소(Tools workshop)
+
+attachment:Anno_2070_Granules.PNG
+ * 현무암 (Granules)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 4 ~ 20 (12) ||
+ 건설 모듈을 만들기 위해 중간 과정인데 벌써부터 양 분파의 생산과정이 갈린다.
+
+  * Tycoon : 현무암 파쇄기 (Basalt crusher) (4X4)
+  파쇄와 추출이 왜 별개 과정으로 나누어져 있는 건지는 알 수 없다(…). 어쨌든 Tycoon은 현무암 파쇄기로 현무암을 추출한다. 자체 건물이 4x4로 조금 더 크긴 하지만 따로 채석장을 요구하지 않기 때문에 상대적으로 공간 절약이 된다.
+  환경 -2, 예산 -5, 전기 -2 
+
+attachment:Anno_2070_Coal.PNG
+ * 석탄 (Coal)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 5 ~ 24 (15) ||
+ 타이쿤이 석탄 발전소를 돌릴 때나  양 분파가 철광석을 가공할 때 쓰인다.
+
+=== Eco 자원 ===
+
+attachment:Anno_2070_Tea.PNG
+ * [[차]] (Tea)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 8 ~ 36 (22) ||
+ 에코의 노동자들은 음료로 차를 섭취한다. 노동자들이 60명 이상 정착하면 요구하는데 다른 처리과정 없이 차 농장(Tea Plantation)을 지어주면 끝. 토질로 차를 요구한다.
+
+=== Tycoon 자원 ===
+
+attachment:Anno_2070_Liqour.PNG
+ * 독주 (Liqour)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 4 ~ 20 (12) ||
+ 정착한 타이쿤의 노동자들이 60명이 되는 때부터 요구하는 음료로 증류주 공장(Distillery)에서 생산. 3x4 타일의 농장을 2개 요구하며, 토질로 쌀을 요구한다. --막걸린가-- 공장 하나 당 약 4백여 명의 시민을 책임진다. 다만 업그레이드가 계속될수록 소비량의 증가가 있는 듯. 넉넉히 유지해 주자.
+ 여담으로 트렌치코트(Trenchcoat)가 이걸 엄청 좋아한다.
+
+== 2단계 자원 (Goods Level 2) ==
+
+양대 분파의 근로자 단계에서 필요한 자원들이 여기에 속한다.
+
+=== 공통 자원 ===
+
+attachment:Anno_2070_Weapons.PNG
+ *  무기 (Weapons)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 36 ~ 160 (100) ||
+ 양대 주축 진영에서 생산 가능하다. 철을 요구하기 때문에 게임 초반에 귀한 자원인 도구와 요구 자원이 겹친다는 점이 난감할 수 있다. 여의치 않으면 15톤의 무기를 방주로 직접 공수받을 수 있지만 상대적으로 비싼 대가를 요구하며 20분의 쿨다운을 필요로 한다. 초중반 방어 진지 구축에 필수적으로 요구된다. 멀티플레이에서는 도구 생산과 무기 개발 사이의 균형이 상당히 중요할 듯하다.
+ 적절한 배분은 1x 철 광산, 1x 석탄 굴착기(0.5x 석탄 광산), 1x 제련소, 1x 탄약 공장(Munition Factory)
+
+attachment:Anno_2070_Sand.PNG
+ * 모래 (Sand)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 7 ~ 32 (20) ||
+ 에코 분파와 타이쿤 분파에서 요구하는 자원. 에코 분파는 통신기기 제조, 타이쿤 분파는 콘크리트 제조에 쓴다.
+
+attachment:Anno_2070_Copper.PNG
+ * 구리 (Copper)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 4 ~ 20 (12) ||
+
+attachment:Anno_2070_Microchips.PNG
+ * 마이크로칩 (Microchips)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 15 ~ 68 (42) ||
+ 에코 분파와 테크 분파에서 요구하는 자원. 에코 분파는 통신기기 제조, 테크 분파는 연구 개발에 쓴다. 확장팩에서는 해저 잔해 더미에서도 이걸 건지는 건물이 생겼다.
+
+attachment:Anno_2070_Iron_Ore.PNG
+ * 철광석 (Iron Ore)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 7 ~ 32 (20) ||
+
+attachment:Anno_2070_Iron.PNG
+ * 철 (Iron)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 20 ~ 92 (57) ||
+
+attachment:Anno_2070_Limestone.PNG
+ * 석회암 (Limestone)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 12 ~ 56 (35) ||
+ 에코 분파와 타이쿤 분파에서 요구하는 자원. 에코 분파는 다음 단계의 자원인 유리 제조, 타이쿤 분파는 콘크리트 제조에 쓴다.
+
+attachment:Anno_2070_Crude_Oil.PNG
+ * 원유 (Crude oil)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 18 ~ 80 (50) ||
+
+attachment:Anno_2070_Oil.PNG
+ * 정유 (Oil)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 42 ~ 188 (117) ||
+ 타이쿤 분파와 테크 분파에서 요구하는 자원. 타이쿤 분파는 플라스틱 제품 제조, 테크 분파는 등유 제조에 쓴다.
+
+=== Eco 자원 ===
+
+attachment:Anno_2070_Health_Food.PNG
+ * 건강 음식 (Health food)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 18 ~ 84 (52) ||
+ 정착한 근로자가 360명이 될 때부터 음식으로 웰빙 음식을 요구한다. [[쌀]] 농장(Rice Farm)과 [[채소]] 농장(Farmhouse)을 기반으로 웰빙 음식 공장을 건설하여 공급한다. 어째서인지 [[초밥]]처럼 생겼다. [[김밥]]같기도 하고…. 어쨌든 딱히 건강에 좋은 음식처럼 생기진 않았다(…). 쌀(Rice)과 채소(Vegetable)는 모두 토질을 요구한다. --이제부터 무역지옥이 시작된다--
+ 적절한 배분은 1x 쌀 농장, 2x 채소 농장, 1x 웰빙 음식 공장.
+
+attachment:Anno_2070_Communicator.PNG
+ * 통신기기 (Communicator)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 35 ~ 156 (97) ||
+ 정착한 근로자가 600명이 될 때부터 생활양식(Lifestyle)으로 --[[블랙베리]]--통신기기를 요구한다. 전자제품 공장(Electronics Factory)에서 제작된다. 요구 자원은 마이크로칩(Microchip)으로, 마이크로칩 공장(Chip Factory)은 강 타일에 지을 수 있는 모래 추출기(Sand Extractor)에서 생산되는 모래(Sand)와 광산 타일에 지을 수 있는 구리 광산(Copper Mine)에서 생산되는 구리(Copper)를 1대 1로 요구한다. 모래 같은 경우는 강 타일이 없으면 생산 불가이며, 구리의 경우도 섬에 따라 매장되지 않은 경우도 있으니 주의.
+  적절한 배분은 0.33x 모래 추출기, 0.5x 구리 광산, 1x 마이크로칩 공장, 1x 통신기기 공장. 정수화하면 2x - 3x - 6x - 6x의 비율이 된다.
+
+attachment:Anno_2070_Wood.PNG
+ * 목재 (Wood)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 8 ~ 36 (22) ||
+ 이 시기부터 분파 고유 자원으로 목재가 필요하다. 각종 건축물 및 고유 유닛에 사용되며, 시민들의 주택 업그레이드에도 사용된다. 전작과 다르게 제재소가 진짜로 나무를 베어가므로 산림 보호소를 통해 나무를 복원시켜줘야한다.
+ 산림 보호소(Tree Nursery) 하나 당 두 개의 제재소(Sawmill)을 운영할 수 있다.
+
+attachment:Anno_2070_Vegetables.PNG
+ * 야채 (Vegetables)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 5 ~ 24 (15) ||
+
+attachment:Anno_2070_Rice.PNG
+ * 쌀 (Rice)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 4 ~ 20 (12) ||
+
+=== Tycoon 자원 ===
+
+attachment:Anno_2070_Convenience_Food.PNG
+ * [[패스트푸드]] (Convenience food)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 17 ~ 76 (47) ||
+ 정착한 근로자가 360명이 될 때부터 요구한다. 패스트푸드는 가공식품 공장(Food Supply Factory)에서 제작되며, 고기 공장(Meat Factory)에서 돼지를 사육해 만들어지는 [[고기]](Meat)및 첨가물 연구소(Flavor Lab)에서 제작되는 [[화학조미료]](Super Flavor)로 만들어진다. --웰빙따윈 개나 줘라-- 고기 공장은 3x4타일의 돼지우리를 3개 요구한다. 첨가물 연구소는 토질로 채소(Vegetable)를 요구한다. 에코에 비해 밭도 적게 쓰이고 배치도 쉽지만, 콘크리트를 요구하는 지라 채감상 짓기 어렵다.
+ 적절한 배분은 2x 고기 공장, 1x 첨가물 연구소, 1x 가공식품 공장. 공장 하나 당 약 750명의 시민을 책임진다.
+
+attachment:Anno_2070_Plastics.PNG
+ * [[플라스틱]] 제품 (Plastic product)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 43 ~ 192 (120) ||
+ 정착한 근로자가 600명이 될 때부터 요구한다. 플라스틱 제품의 제작은 플라스틱 공장(Plastic Factory)에서 이루어지며, 제조에는 정유소(Oil Refinery)에서 공급되는 정유(Oil)를 필요로 한다. 정유는 [[원유]](Crude Oil)에서 정제되어 만들어지는 건데, 원유의 공급은 Tycoon 세력 자체 건물인 석유 시추기(Oil Driller) 및 Tech 세력 건물인 해상 유정(Oil Rig)에서 이루어진다. 당연히 초반에는 자체 건물을 사용할 수밖에 없으며 상당히 비효율적이다. 해저개발이 이루어지면 그냥 해저에서 뽑아내자. 정말로 쓸데없이 넘쳐나는게 유정이다.
+ 적절한 배분은 3x 석유 시추기(1x 해상 유정), 1x 정유소, 1x 플라스틱 공장의 비율. 플라스틱 공장 하나 당 약 750명의 시민을 책임진다.
+
+attachment:Anno_2070_Concrete.PNG
+ * [[콘크리트]] (Concrete)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 26 ~ 116 (72) ||
+ 이 시기부터 분파 고유 자원으로 콘크리트를 요구한다. 콘크리트 공장(Concrete Factory)에서 생산. 석회암 광산(Limestone quarry)에서 생산되는 석회암(Limestone) 및 모래 광산에서 나오는 모래(Sand)를 요구한다.
+ 적절한 배분은 1x 모래 광산, 3x 석회암 광산, 3x 콘크리트 공장의 비율.
+
+attachment:Anno_2070_Meat.PNG
+ * 고기 (Meat)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 4 ~ 20 (12) ||
+ 패스트푸드 제조에 쓰이는 중간 자원. --자동화 목장의 엄청난 진보로 고기의 가격이 같은 양의 쌀 가격과 동일하게 되었다.-- 
+
+attachment:Anno_2070_Super_Flavor.PNG
+ * [[화학조미료]] (Super flavor --Spices--[* 전작의 향신료와 이미지가 같다.])
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 4 ~ 20 (12) ||
+ 특이하게도 야채 토질을 요구한다.[* 사실 화학조미료는 천연 성분을 추출, 정제, 농축 등으로 자연스럽게 생합성하여 만드는 것을 포함한다. 자세한 것은 [[화학조미료]] 항목 참조.]
+
+== 3단계 자원 (Goods Level 3) ==
+
+양대 분파의 공학자 단계에서 필요한 자원들이 여기에 속한다.
+
+=== 공통 자원 ===
+
+attachment:Anno_2070_Sugar_Beets.PNG
+ * [[설탕]] (Sugar Beets)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 27 ~ 120 (75) ||
+
+=== Eco 자원 ===
+
+attachment:Anno_2070_Pasta_Dishes.PNG
+ * [[파스타]] 요리 (Pasta dishes)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 88 ~ 392 (245) ||
+ 음식으로 파스타를 요구한다. 파스타 공장(Pasta Production)에서 제작되며, 파스타 [[면]](Pasta)과 채소를 1대 1로 요구한다. 채소는 웰빙 김밥(…)에 쓰던 바로 그것. 파스타 면은 스파게티용 [[밀]](Durum Wheat)을 원료로 하여 제분기(Flour Mill)에서 생산되며, 강 타일에만 건설 가능. 밀은 토질을 요구하는 자원으로, 밀 농장(Grain Farm)을 필요로 한다. 
+ 적절한 배분은 3x 밀 농장, 1x 제분기, 2x 채소 농장, 2x 파스타 공장.
+
+attachment:Anno_2070_Bio_Drinks.PNG
+ * 건강 음료 (Bio drinks)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 85 ~ 380 (237) ||
+ 음료수로 건강 음료를 요구한다. 건강 음료 공장 (Health Drink Factory)은 [[우유]](Milk)와 [[과일]](Fruits)을 2대 2로 요구한다. 과일 농장(Fruits Plantation)의 경우 토질을 따지며, 경작에 어마어마한 땅이 소모되므로 아예 본토 밖에서 생산하는 것이 좋다. 우유의 경우 주말 농장 (Dairy Farm)에서 뽑아내는데, 토질을 따지지는 않으나 정말 엄청난 규모의 타일이 요구되므로 아예 과일 농장과 같이 지어 한번에 생산하도록 하자. 우유 생산량은 과일 생산량의 약 2배이므로 1대 2 비율로 지어주는 편이 좋다.
+ 적절한 배분은 1x 주말 농장, 2x 과일 농장, 1x 건강 음료 공장.
+
+attachment:Anno_2070_Glass.PNG
+ * [[유리]] (Glass)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 57 ~ 256 (160) ||
+ 공학자 단계부터 고유 자원으로 유리를 요구한다. 당연히 유리공장(Glasswork)에서 생산. 유리공장은 석회암 광산(Limestone quarry)에서 생산되는 석회암 및 모래 추출기에서 나오는 모래를 요구한다. 석회암 또한 매장되지 않은 섬도 있으니 주의.
+ 적절한 배분은 1x 모래 추출기, 3x 석회암 광산, 3x 유리 공장.
+
+attachment:Anno_2070_Durum_Wheat.PNG
+ * 듀럼 밀[* 마카로니 밀이라고도 불리는 파스타용 밀] (Durum wheat)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 30 ~ 136 (85) ||
+
+attachment:Anno_2070_Pasta.PNG
+ * 파스타 (Pasta)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 52 ~ 232 (145) ||
+
+attachment:Anno_2070_Fruits.PNG
+ * 과일 (Fruits)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 29 ~ 132 (82) ||
+
+attachment:Anno_2070_Milk.PNG
+ * 우유 (Milk)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 20 ~ 92 (57) ||
+
+=== Tycoon 자원 ===
+
+attachment:Anno_2070_Luxury_Meal.PNG
+ * 호화 요리 (Luxury meal)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 92 ~ 412 (257) ||
+ 음식으로 호화 요리를 요구한다. 입이 갑자기 엄청 비싸졌다. --본격 [[자본주의의 돼지]]-- 고급요리 공장 (Gourmet Factory)에서 제작되며, 재료로는 [[바닷가재]] (Lobster) 와 [[송로버섯]] (Truffle)을 요구한다. 바닷가재 농장 (Lobster Farm)에서 바닷가재를, 송로버섯 농장 (Truffle Farm)에서 송로버섯을 구할 수 있다. 바닷가재 농장은  바닷가재 서식지 (Lobster Population)에만 지을 수 있으며, 송로버섯 또한 토질을 요구한다. 송로버섯은 3x5 타일의 농장을 5개 요구한다. 바닷가재 서식지의 경우, 길을 연결 할 수 없는 외딴곳에 있는데, 길을 연결할 수 없으므로 일반적인 창고로 물품을 수거할 수 없다. 이것을 해결해주는 건물이 Port Authority인데, 항만구역을 만들어주며, 길에 상관없이 반경 안의 물품을 수거할 수 있는 건물이다.
+ 적절한 배분은 1x 바닷가재 농장, 4x 송로버섯 농장, 2x 고급요리 공장.
+
+attachment:Anno_2070_Champagne.PNG
+ * [[샴페인]] (Champagne)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 88 ~ 392 (245) ||
+ 음료수로 샴페인을 요구한다. --본격 자본주의의 돼지 2-- 샴페인 저장고(Champagne Cellar)에서 생산되며, [[포도]] (Grapes) 및 [[설탕]] (Sugar)을 요구한다. 둘 다 토질을 요구하는 자원. 포도 농장 (Vineyard)은 3x6 타일의 농장을 7개, [[사탕무]] 농장 (Sugar Beet Plantation)은 3x4 타일의 농장을 7개 요구한다. 정말이지 악랄한 음료가 아닐 수 없다.
+ 적절한 배분은 2x 포도 농장, 1x 사탕무 농장, 1x 샴페인 저장고.
+
+attachment:Anno_2070_Steel.PNG
+ * 강철 (Steel)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 53 ~ 236 (147) ||
+ 분파 고유 자원으로 [[강철]]이 필요하다. 철강 공장(Steelworks)에서 제작되며 [[철]]을 요구한다. 철은 제련소(Iron Smelter)에서 만들어지며, 철의 제작에는 [[석탄]](Coal)과 철광석을 요구한다. 석탄을 석탄 굴착기(Coal Excavator)로 땅에서 파낼 경우 철광석 광산에서 나오는 철광석과 1대 1로 대응하며, 석탄을 광산에서 파낼 경우 철광석의 2배가 생산된다. 땅이 없지 않은 이상 그냥 땅에서 파내는 것을 추천한다. 굳이 건물을 새로 짓기 싫다면 이전에 만들어 둔 도구 공장을 휴업시키고 철강 공장만 지어도 되지만, 일일이 손대기 귀찮으니 그냥 다 지어 놓자.
+ 적절한 배분은 2x 석탄 굴착기 (1x 석탄 광산), 2x 철광석 광산, 2x 제련소, 1x 철강 공장.
+
+attachment:Anno_2070_Fuel_Rods.PNG
+ * 연료봉 (Fuel rods)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 246 ~ 1096 (685) ||
+ Tycoon의 원자력 발전소를 돌리는 데 필요한 연료봉.
+ 적절한 배분은 1x 우라늄 광산 (x0.5 금속 변환기), x1 연료봉 공장, x1 원자력 발전소.
+
+attachment:Anno_2070_Heavy_Weapons.PNG
+ * 중화기 (Heavy weapons)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 174 ~ 796 (497) ||
+
+attachment:Anno_2070_Uranium.PNG
+ * [[우라늄]] (Uranium)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 112 ~ 500 (312) ||
+
+attachment:Anno_2070_Explosives.PNG
+ * 폭팔물 (Explosives)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 97 ~ 432 (270) ||
+
+attachment:Anno_2070_Lobster.PNG
+ * 랍스터 (Lobster)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 18 ~ 80 (50) ||
+
+attachment:Anno_2070_Truffle.PNG
+ * 송로버섯 (Truffle)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 23 ~ 104 (65) ||
+
+attachment:Anno_2070_Grapes.PNG
+ * 포도 (Grape)
+|| 톤당 거래가 (기본가) || attachment:Anno_2070_icon_Credits.PNG 27 ~ 120 (75) ||
+
+= 건물 =
+
+== 기반 시설 ==
+
+말 그대로 사회 간접 시설. Eco든 Tycoon이든 Tech든 공통적으로 필수적인 건물이다.
+
+=== 사회 기반 건물 ===
+
+육지에 건설되는 건물들이다.
+
+attachment:Anno_2070_Warehouse.PNG
+ * 물류 창고 (Warehouse) (6×4)
+|| 레벨 1 물류 창고 건설 || attachment:Anno_2070_icon_Credits.PNG || 300 || attachment:Anno_2070_icon_Building_Modules.PNG || 3 || attachment:Anno_2070_icon_Tools.PNG || 2 ||
+|| 레벨 2 물류 창고 업그레이드 || attachment:Anno_2070_icon_Credits.PNG || 200 || attachment:Anno_2070_icon_Building_Modules.PNG || 5 || attachment:Anno_2070_icon_Tools.PNG || 4 ||
+|| 레벨 3 물류 창고 업그레이드 || attachment:Anno_2070_icon_Credits.PNG || 500 || attachment:Anno_2070_icon_Building_Modules.PNG || 2 || attachment:Anno_2070_icon_Tools.PNG || 6 ||
+ Anno 시리즈의 전통적인 섬 개척의 기본 중의 기본. 아무 배든 2개의 운반 슬롯에 3 건설 모듈, 2 도구만 탑재하고 있다면 새 섬을 개척할 수 있다. 그외에 기초적인 수준의 전기를 제공한다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -10 || attachment:Anno_2070_icon_Energy.PNG || +6 ||
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -20 || attachment:Anno_2070_icon_Energy.PNG || +6 ||
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -30 || attachment:Anno_2070_icon_Energy.PNG || +6 ||
+
+attachment:Anno_2070_Depot.PNG
+ * 창고 (Depot) (4×4)
+|| 레벨 1 창고 건설 || attachment:Anno_2070_icon_Credits.PNG || 300 || attachment:Anno_2070_icon_Building_Modules.PNG || 1 || attachment:Anno_2070_icon_Tools.PNG || 3 ||
+|| 레벨 2 창고 업그레이드 || attachment:Anno_2070_icon_Credits.PNG || 100 || attachment:Anno_2070_icon_Building_Modules.PNG || 1 || attachment:Anno_2070_icon_Tools.PNG || 2 ||
+|| 레벨 3 창고 업그레이드 || attachment:Anno_2070_icon_Credits.PNG || 100 || attachment:Anno_2070_icon_Building_Modules.PNG || 2 || attachment:Anno_2070_icon_Tools.PNG || 5 ||
+ 생산된 자원을 운반하고 보관하며 생산 관련 개발 영역을 넓혀주는 기본 중의 기본. 3단으로 업그레이드되며 각 단계마다 5의 창고 용량 및 운반 유닛이 추가된다. 게임 내 특정 목표를 성취해 얻은 Uplay 포인트로 특전을 해제하여 공중 수송 유닛 1기를 확보할 수 있다. --그냥 전부 다 공중 유닛으로 운반하면 안 되는 건가--
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -5 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -10 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -15 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+
+ * 도로 (Roads) (1×1)
+|| 도로 건설 || attachment:Anno_2070_icon_Credits.PNG || 5 ||
+ 전력 공급 건물이나 환경 관리 건물 등을 제외한 대부분의 건물은 도로를 연결해주지 않으면 작동하지 않는다. 선창(Fishery)이나 바닷가재 농장(Lobster farm) 같은 경우는 항구나 항만 공사(Port authority), 또는 3단계의 창고에서 직접 비행 유닛을 날려서 운반해 주지만, 기타 생산 건물은 직접 도로를 연결해 줘야 한다. 주택의 경우에도 여러 공공 건물과 연결되는 접점이 없다면 발전하지 않는다.
+
+ * 고속도로 (Highway) (1×1)
+|| 고속도로 건설 || attachment:Anno_2070_icon_Credits.PNG || 20 ||
+ 해금 시기 : 공학자 1명 이상 거주
+ 고속도로의 경우 4배 비싼 값으로 도로를 깔며 일반 도로보다 수송 유닛의 이동속도가 향상된다. 주택가에 깔아도 상관은 없지만 실질적으로는 아무 효과도 없다. 단지 두 줄로 깔면 중앙선이 생겨서 보기 예쁘다는 정도(…)의 장점이 있다.
+
+attachment:Anno_2070_Flak.PNG
+ * 대공포 (Flak) (3×3)
+|| 대공포 건설 || attachment:Anno_2070_icon_Credits.PNG || 700 || attachment:Anno_2070_icon_Building_Modules.PNG || 5 || attachment:Anno_2070_icon_Tools.PNG || 3 || attachment:Anno_2070_icon_Weapons.PNG || 6 ||
+ 해금 시기 : 공학자 1명 이상 거주
+ 대공 전용의 포탑이다. 육지 영역에만 건설 가능하며, 대공 공격력 45을 갖추고 있다. 이러한 방어 건물은 재배치(Relocate)를 통해 필요한 위치로 이동시킬 수 있으며, 재배치 시에는 다소간의 대기 시간이 요구된다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -20 || attachment:Anno_2070_icon_Energy.PNG || -10 ||
+
+=== 항만 건물 ===
+
+항만 지역에 건설되는 건물들이다. 기반 시설의 연장선상에 있으며, 항구 공사를 제외하면 항구 관리 범위에만 지을 수 있는 게 특징.
+
+attachment:Anno_2070_Port_Authority.PNG
+ * 항구 공사 (Port Authority) (4×4)
+|| 항구 공사 건설 || attachment:Anno_2070_icon_Credits.PNG || 1250 || attachment:Anno_2070_icon_Building_Modules.PNG || 5 || attachment:Anno_2070_icon_Tools.PNG || 10 ||
+ 해금 시기 : 근로자 1명 이상 거주
+ 기본적으로 지어지는 물류 창고 외 추가적으로 자원 교환이 가능한 부두를 열어주며, 개발 가능한 항구 타일을 확장한다. 선창(Fishery)이나 바닷가재 농장(Lobster farm) 같은 경우는 일반 창고 대신 이런 방식으로 확장된 타일에서만 개발할 수 있다. 추가 창고 용량을 제공하지는 않으며, 창고처럼 업그레이드도 되지 않는다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -2 || attachment:Anno_2070_icon_Balance.PNG || -40 || attachment:Anno_2070_icon_Energy.PNG || -10 ||
+
+attachment:Anno_2070_Repair_Dock.PNG
+ * 수리항 (Repair dock) (3×3)
+|| 수리항 건설 || attachment:Anno_2070_icon_Credits.PNG || 2045 || attachment:Anno_2070_icon_Building_Modules.PNG || 3 || attachment:Anno_2070_icon_Tools.PNG || 5 ||
+ 해금 시기 : 근로자 1명 이상 거주
+ 영향 범위 내에 있는 선박을 수리한다. 하나 정도는 반드시 지어야 하는 [[wiki:"보그체" 머스트 해브 아이템]].
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -2 || attachment:Anno_2070_icon_Balance.PNG || -25 || attachment:Anno_2070_icon_Energy.PNG || -10 ||
+
+attachment:Anno_2070_Harbor_Depot.PNG
+ * 항만 창고 (Harbor depot) (4×3)
+|| 항만 창고 건설 || attachment:Anno_2070_icon_Credits.PNG || 1060 || attachment:Anno_2070_icon_Building_Modules.PNG || 10 || attachment:Anno_2070_icon_Tools.PNG || 10 ||
+ 해금 시기 : 공학자 1명 이상 거주
+ 창고 용량을 추가적으로 40 확장한다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -4 || attachment:Anno_2070_icon_Balance.PNG || -20 || attachment:Anno_2070_icon_Energy.PNG || -2 ||
+
+attachment:Anno_2070_Harbor_Defense_Turret.PNG
+ * 항만 방어 포탑 (Harbor defense turret) (3×3)
+|| 항만 방어 포탑 건설 || attachment:Anno_2070_icon_Credits.PNG || 845 || attachment:Anno_2070_icon_Building_Modules.PNG || 8 || attachment:Anno_2070_icon_Tools.PNG || 5 || attachment:Anno_2070_icon_Weapons.PNG || 5 ||
+ 해금 시기 : 공학자 1명 이상 거주
+ 대함 전용의 포탑이다. 항만 영역에만 건설 가능하며, 대함 공격력 30을 갖추고 있다. 대공포처럼 재배치가 가능하다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -15 || attachment:Anno_2070_icon_Energy.PNG || -4 ||
+
+attachment:Anno_2070_Clearance_Terminal.PNG
+ * 승인 터미널 (Clearance terminal) (5×3)
+|| 승인 터미널 건설 || attachment:Anno_2070_icon_Credits.PNG || 1060 || attachment:Anno_2070_icon_Building_Modules.PNG || 5 || attachment:Anno_2070_icon_Tools.PNG || 10 ||
+ 해금 시기 : 경영자 1명 이상 거주
+ 전작의 선창처럼 추가적인 무역선 정박을 허용한다. 대게 NPC의 함선이 무역하러 와서 대기줄이 생기는 물류 창고 옆에 짓게 될 것이다. 근데 유지비가 전작보다 훨씬 비싸졌다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -2 || attachment:Anno_2070_icon_Balance.PNG || -60 || attachment:Anno_2070_icon_Energy.PNG || -10 ||
+
+=== 특수 건물 ===
+
+시민 생활에 요구되는 공공 건물 일반이다. 일반적인 예상과는 달리 소방서, 병원, 경찰서는 예방 효과가 전혀 없다. 자원 회수나 재난 발생 등의 난이도 옵션에 따라서는 대충 지을 칸만 비워 뒀다가 사건이 터질 때마다 짓는 편이 오히려 나을 수도 있다.
+
+attachment:Anno_2070_Fire_Station.PNG
+ * 소방서 (Fire station) (6×3)
+|| 소방서 건설 || attachment:Anno_2070_icon_Credits.PNG || 300 || attachment:Anno_2070_icon_Building_Modules.PNG || 6 || attachment:Anno_2070_icon_Tools.PNG || 8 ||
+ 해금 시기 : 근로자 600명 이상 거주
+ 발생한 화재를 진압한다. 미리 지어놓는다고 불이 안 나는 것도 아니다. 당연하다면 당연한 일이긴 하지만 쓸데없는 데에서 현실적이다(…).
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -2 || attachment:Anno_2070_icon_Balance.PNG || -25 || attachment:Anno_2070_icon_Energy.PNG || -2 ||
+
+attachment:Anno_2070_Hospital.PNG
+ * 병원 (Hospital) (6×4)
+|| 병원 건설 || attachment:Anno_2070_icon_Credits.PNG || 500 || attachment:Anno_2070_icon_Building_Modules.PNG || 7 || attachment:Anno_2070_icon_Tools.PNG || 6 ||
+ 해금 시기 : 공학자 1명 이상 거주
+ 창궐한 질병을 치료한다. 설명이 [[the]] [[必要韓紙]]?
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -4 || attachment:Anno_2070_icon_Balance.PNG || -40 || attachment:Anno_2070_icon_Energy.PNG || -7 ||
+
+attachment:Anno_2070_Police_Station.PNG
+ * 경찰서 (Police station) (5×5)
+|| 경찰서 건설 || attachment:Anno_2070_icon_Credits.PNG || 1000 || attachment:Anno_2070_icon_Building_Modules.PNG || 7 || attachment:Anno_2070_icon_Tools.PNG || 10 ||
+ 해금 시기 : 경영자 1명 이상 거주
+ 발생한 범죄를 해결한다. [[더 이상의 자세한 설명은 생략한다]].
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -6 || attachment:Anno_2070_icon_Balance.PNG || -60 || attachment:Anno_2070_icon_Energy.PNG || -15 ||
+
+attachment:Anno_2070_Statistics_Center.PNG attachment:Anno_2070_Central_Statistics.PNG
+ * 통계청 (Statistics center) / 중앙 통계 (Central statistics) (6×6)
+|| 통계청 건설 || attachment:Anno_2070_icon_Credits.PNG || 7500 || attachment:Anno_2070_icon_Building_Modules.PNG || 30 || attachment:Anno_2070_icon_Tools.PNG || 20 ||
+ 해금 시기 : 근로자 1명 이상 거주
+ 통계청은 월드 이벤트 Global Distrust의 첫번째 미션을 깨면 해금되며, 각 섬의 전기 및 환경 수치, 전체적인 재정, 생산, 인구, 군사 등의 여러가지 수치를 통계로 보여준다.
+ 중앙 통계는 통계청의 Tycoon 스킨 버전으로, Central Statistics Package DLC를 사면 해금된다. 두 건물의 가격, 유지비, 기능은 모두 같다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -5 || attachment:Anno_2070_icon_Balance.PNG || -250 || attachment:Anno_2070_icon_Energy.PNG || -15 ||
+
+== Eco (Eden Initiative) ==
+
+환경주의적 입장을 표방하는 분파다. 이름만 봐도 왠지 환경을 안 더럽힐 것 같은 분파. 실제로도 생산 건물들의 환경 감소 수치가 낮아 게임 초반에 환경을 관리하기 버거울 때에는 비교적 편리한 분파다. 하지만 애로사항이 꽃피는 점은 초반 전력 공급에 있어 넓은 지역을 낭비해야 하는 풍력발전기로 때워야 하는 귀찮음 등 대체로 많은 타일을 낭비해가며 플레이를 하게 된다는 점이다. 환경 관리에 장점이 있기 때문에 농업 생산성 향상에 Eco의 건물을 동원하면 편리하다.
+
+=== 노동자 건물 ===
+
+노동자 단계의 건물들이다.
+
+==== 생산 건물 ====
+
+||||||<tablealign=center> 건설 모듈 (Building Modules) ||
+|| attachment:Anno_2070_Granules.PNG ||<|3> → || attachment:Anno_2070_Building_Modules.PNG ||
+|| ,,현무암 추출기,, || ,,용광로,, ||
+|| ,,100%,, || ,,100%,, ||
+
+ * 현무암 추출기 (Bassalt extraction) (3×3)
+|| 현무암 추출기 건설 || attachment:Anno_2070_icon_Credits.PNG || 100 || attachment:Anno_2070_icon_Tools.PNG || 1 ||
+|| 채석장 건설 || attachment:Anno_2070_icon_Credits.PNG || 10 ||
+ 현무암 추출기는 3×4 크기의 채석장을 2개 요구한다. 파쇄기랑 비교해서 전력 소모량도 1 낮고 환경 수치 감소가 아예 없긴 한데 쓸데없이 공간낭비가 크다. 뭔가 밭처럼 생긴 것이 무한 자원 같지만, 실상은 파쇄기랑 똑같이 섬의 현무암 매장량을 소모한다(...).
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -5 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+
+ * 용광로 (Smelter) (3×4)
+|| 용광로 건설 || attachment:Anno_2070_icon_Credits.PNG || 50 || attachment:Anno_2070_icon_Tools.PNG || 2 ||
+ 양대 분파의 공통 건물로 현무암을 이용해 건설 모듈을 만든다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -5 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+
+||<tablealign=center> 생선 (Fish) ||
+|| attachment:Anno_2070_Fish.PNG ||
+|| ,,어부 작업장,, ||
+|| ,,100%,, ||
+
+ * 어부 작업장 (Fishery) (3×4)
+|| 어부 작업장 건설 || attachment:Anno_2070_icon_Credits.PNG || 125 || attachment:Anno_2070_icon_Building_Modules.PNG || 1 || attachment:Anno_2070_icon_Tools.PNG || 2 ||
+ 해금 시기 : 노동자 1명 이상 거주
+ 전작처럼 생선을 생산하는데 Anno 2070에서는 해상에도 어부 작업장을 지을 수 있는지라 생선 수급이 쉬워졌다. 도로로 연결되지 않은 선박장은 물류 창고, 3단계 창고, 항만 공사로만 자원이 이송될 수 있다는 것을 참고.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -5 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+
+||<tablealign=center> 차 (Tea) ||
+|| attachment:Anno_2070_Tea.PNG ||
+|| ,,차 농장,, ||
+|| ,,100%,, ||
+
+ * 차 농장 (Tea platation)
+|| 차 농장 건설 || attachment:Anno_2070_icon_Credits.PNG || 100 || attachment:Anno_2070_icon_Building_Modules.PNG || 2 || attachment:Anno_2070_icon_Tools.PNG || 1 ||
+|| 차 밭 건설 || attachment:Anno_2070_icon_Credits.PNG || ? ||
+ 해금 시기 : Eco 노동자 60명 이상 거주
+ Eco 노동자들의 음료인 차를 생산하며 차 토질을 요구한다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -10 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+
+==== 공공 건물 ====
+
+attachment:Anno_2070_Eco_City_Center.PNG
+ * 도심지 (City center) (6×8)
+|| 도심지 건설 || attachment:Anno_2070_icon_Credits.PNG || 600 || attachment:Anno_2070_icon_Building_Modules.PNG || 5 || attachment:Anno_2070_icon_Tools.PNG || 3 ||
+ 시민들에게 사교 만족을 주는 건물. 이 건물의 범위 내에서만 주택을 지을 수 있다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -10 || attachment:Anno_2070_icon_Energy.PNG || -1 ||
+
+attachment:Anno_2070_Eco_Resident.PNG
+ * 노동자 숙소 (Worker barracks) (3×3)
+|| 노동자 숙소 건설 || attachment:Anno_2070_icon_Building_Modules.PNG || 2 ||
+|| 근로자 주택 업그레이드 || attachment:Anno_2070_icon_Tools.PNG || 1 ||
+|| 공학자 아파트 업그레이드 || attachment:Anno_2070_icon_Building_Modules.PNG || 2 || attachment:Anno_2070_icon_Tools.PNG || 2 || attachment:Anno_2070_icon_Wood.PNG || 3 ||
+|| 경영자 맨션 업그레이드 || attachment:Anno_2070_icon_Building_Modules.PNG || 1 || attachment:Anno_2070_icon_Tools.PNG || 3 || attachment:Anno_2070_icon_Wood.PNG || 3 || attachment:Anno_2070_icon_Glass.PNG || 4 ||
+ Eco 주민들이 사는 주택. 노동자 숙소에서부터 시작해서 업그레이드로 상위 등급의 주민을 정착시킬 수 있다.
+
+attachment:Anno_2070_Concert_Hall.PNG
+ * 콘서트 홀 (Concert hall) (5×6)
+|| 콘서트 홀 건설 || attachment:Anno_2070_icon_Credits.PNG || 600 || attachment:Anno_2070_icon_Building_Modules.PNG || 4 || attachment:Anno_2070_icon_Tools.PNG || 3 ||
+ Eco 주민들의 오락 욕구를 채워주는 건물.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || -2 || attachment:Anno_2070_icon_Balance.PNG || -5 || attachment:Anno_2070_icon_Energy.PNG || -5 ||
+==== 특수 건물 ====
+
+attachment:Anno_2070_Wind_Park.PNG
+ * 풍력 발전기 (Wind park) (3×3)
+|| 풍력 발전기 건설 || attachment:Anno_2070_icon_Credits.PNG || 120 || attachment:Anno_2070_icon_Building_Modules.PNG || 1 || attachment:Anno_2070_icon_Tools.PNG || 1 ||
+ Eco의 1차 전력 공급 건물이다. 제약 범위가 상당히 넓고 전력 생산 또한 비효율적이라 짜증나지만 초반에는 선택의 여지가 없다. 하지만 제약 범위와 전력 생산이 낮은것을 빼면 타이쿤에 비해서 원하는 자원도 없거니와 은근히 적게 먹는 재료(툴1과 건축제1만 먹으면 그냥 뽑혀 나온다!), 무오염이기 때문에 다른 섬을 경작 생산으로 돌릴때 이만한것도 없다. 나중 가면 한계가 생기긴 하지만 그쯤 되면 해상 풍력 발전기도 나오니...
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || 0 || attachment:Anno_2070_icon_Balance.PNG || -25 || attachment:Anno_2070_icon_Energy.PNG || +15 ||
+= Eco (Eden Initiative) =
+
+== 환경 관리 ==
+
+환경 관리의 효율성에 있어서는 Tycoon 분파의 환경 건물이 훨씬 효율이 좋기 때문에, Tycoon 세력의 설계도를 입수하면 이미 지어놨던 Eco 세력의 환경 정화 건물을 싹 때려부수고 갈아끼우는 편이 훨씬 효율적일 수도 있다. Eco 분파의 환경 건물은 효율이 낮다는 단점이 있지만, 환경지수를 (+)로 끌어올릴 수 있다는 장점이 있다. (Tycoon 분파의 환경건물은 효율적이나 환경지수를 양으로 만들 수 없다.) 그리고 환경지수가 주민 만족도에 영향을 주어서 세금 수입에도 영향을 주는데, Eco분파의 시민은 이 환경지수에 따른 만족도에 민감하다. ~~후반와서는 환경도를 일정량 높이지 않으면 폭동을 일으킨다고 협박한다.~~
+
+attachment:Anno_2070_Weather_Control_Staition.PNG
+ * [[기후]] 통제소 (Weather Control Station) (3 X 3)
+|| 기후 통제소 건설 || attachment:Anno_2070_icon_Credits.PNG || 400 || attachment:Anno_2070_icon_Building_Modules.PNG || 3 || attachment:Anno_2070_icon_Tools.PNG || 3 || attachment:Anno_2070_icon_Wood.PNG || 2 ||
+ Eco의 1차 환경 관리 건물이다. 뭔가 대단할 것 같은 이름이긴 하지만 그저 이름만 그럴싸할 뿐이다. 비교적 저렴하긴 하지만 상당히 넓은 제약 범위를 가지고 있어 여러 개를 짓기 번거롭다. 초반에 다른 환경 관리 수단이 없을 때 궁여지책으로 사용하게 된다. 하지만 작정하고 방주 업그레이드 3칸을 소비~~낭비~~해서 관련 업그레이드를 달면 제약 범위 -90%, 유지비 -70%(-14)가 되서 유지비 싸고, 전기 적게 먹고, 공간 적게 먹고[* 적용 전 attachment:weather_before.PNG?width=150 적용 후 attachment:weather_after.PNG?width=150], 제일 빨리 쓸 수 있는[* 타이쿤의 쓰레기 압축기도 이 타이밍에 나오지만 그건 이 건물보다 쓰기 애매하다.] 유용한 건물이 된다. ~~물론 방주 업그레이드 3개 달아놓고서 유용하지 않은 건물은 없지만.~~
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || +15 || attachment:Anno_2070_icon_Balance.PNG || -20 || attachment:Anno_2070_icon_Energy.PNG || -2 ||
+
+attachment:Anno_2070_Monitoring_Station.PNG
+ * [[기상]] 관측소 (Monitoring Station) (2 X 3)
+|| 기상 관측소 건설 || attachment:Anno_2070_icon_Credits.PNG || 1,000 || attachment:Anno_2070_icon_Building_Modules.PNG || 6 || attachment:Anno_2070_icon_Tools.PNG || 10 || attachment:Anno_2070_icon_Wood.PNG || 10 || attachment:Anno_2070_icon_Glass.PNG || 10 ||
+ Eco의 2차 환경 관리 건물이다. 광산 타일을 씹어먹기 때문에 개발 구역에는 짓기 껄끄럽다. 효율성 측면에서도 똑같은 광산 타일을 씹어먹는 Tycoon의 이산화탄소 저장고에 비하면 정말 보잘것없는 수준이라 안습함이 배가된다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || +40 || attachment:Anno_2070_icon_Balance.PNG || -40 || attachment:Anno_2070_icon_Energy.PNG || -25 ||
+
+attachment:Anno_2070_Ozone_Maker_Station.PNG
+ * [[오존]] 생성소 (Ozone Maker Station) (4 X 7)
+|| 오존 생성소 건설 || attachment:Anno_2070_icon_Credits.PNG || 3,000 || attachment:Anno_2070_icon_Building_Modules.PNG || 20 || attachment:Anno_2070_icon_Tools.PNG || 30 || attachment:Anno_2070_icon_Wood.PNG || 12 || attachment:Anno_2070_icon_Glass.PNG || 20 ||
+ Eco의 3차 환경 관리 건물이다. 본격적인 환경 관리 건물. 아마도 파괴된 오존층을 복구하는 기구를 띄우는 것 같지만, 활동 고도를 보면 한참 낮은 것이 대기중 오존 농도만 강화시키는 건 아닐까 걱정된다(…). 일정 범위의 제약 범위가 있기 때문에 짓기가 만만치는 않다. 방주의 업그레이드 파츠를 이용하면 사용하기 좀 더 편리해진다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || +100 || attachment:Anno_2070_icon_Balance.PNG || -120 || attachment:Anno_2070_icon_Energy.PNG || -60 ||
+
+attachment:Anno_2070_River_Sewage_Treatment_Plant.PNG
+ * 하수 처리장 (River Sewage Treatment Plant)
+|| 하수 처리장 건설 || attachment:Anno_2070_icon_Credits.PNG || 10,000 || attachment:Anno_2070_icon_Tools.PNG || 40 || attachment:Anno_2070_icon_Wood.PNG || 20 || attachment:Anno_2070_icon_Glass.PNG || 25 ||
+ Eco의 4차 환경 관리 건물로, 강 타일을 요구한다. Eco의 환경 관리 건물 치고는 꽤 효율적이긴 하지만 무지막지한 에너지 소모가 일품이다. 이걸 정상적으로 가동하려면 [[수력발전소]]나 [[원자력]] 발전소를 사용하는 편이 좋을 것이다. 방주의 업그레이드 파츠를 이용한다면 유지비를 50%, 소모전력을 90% 가까이 절감할 수 있긴 하지만, 강 타일을 요구한다는 점에서 실용성이 다소 떨어질 수 있다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || +300 || attachment:Anno_2070_icon_Balance.PNG || -200 || attachment:Anno_2070_icon_Energy.PNG || -250 ||
+
+attachment:Anno_2070_Guardian.PNG
+ * 가디언 1.0 (Guardian 1.0) (6 X 6)
+ 글로벌 이벤트 중 '에덴 프로젝트'의 첫 미션인 'The Formers'를 깨면 언락할 수 있는 건물. 아카데미에서의 연구로 도면을 만들 수 있다. 유지비용이 억소리 나지만 그만큼 높은 환경 개선을 보여준다.
+|| attachment:Anno_2070_icon_Eco_Balance.PNG || +500 || attachment:Anno_2070_icon_Balance.PNG || -500 || attachment:Anno_2070_icon_Energy.PNG || -250 ||
+== 전력 공급 ==
+저효율 무오염의 에너지 생산을 추구한다. 하지만 저효율도 정도껏이지 좀 심하다 싶을 정도로 비효율적이다…
+
+
+
+ * 열병합 발전소(Thermal power station)
+ Eco의 2차 전력 공급 건물이다. 주택가에 지으면 근처 인구수에 비례하여 최대 +70만큼의 에너지를 공급하지만 최대 에너지 공급량을 공급하려면 경영자 단계까지 넘어가야 하는 데다가, 주택지역 타일도 아까우니 그냥 짓지 말자(…). [[심시티]] 시리즈에서는 오염 발생이 쩔어주는 건물이었는데 오염 생산이 전혀 없는 것을 보면 2070년대라 그런지 기술이 상당히 발전한 모양이다. 최대 +70 에너지, -65 유지비.
+
+ * 해상 풍력 발전기(Offshore wind park)
+ Eco의 3차 전력 공급 건물이며, 해상 타일을 필요로 한다. 풍력 발전기의 2배 전력 생산, 2배 유지비, 1/2배 제약 범위를 가진 풍력 발전기의 상위 호환 건물. 이러나 저러나 비효율적이긴 매한가지지만 쓸데없이 넘쳐나는 해상 타일을 이용해 육상 타일을 효율적으로 관리할 수 있다는 이점이 있다. 업그레이드를 이용하면 제약 범위와 유지비를 절감할 수 있다. +30 에너지, -50 유지비.
+
+ * 태양열 발전소(Solar tower generator)
+ Eco의 4차 전력 공급 건물이다. 태양광 대신 태양열을 쓰게 된 것은 기술 발전 덕분인지 지구 온난화 때문에 햇볕이 잘 들어서 그런지 알 수 없다. 물론 지구 온난화가 된다고 햇볕이 더 잘 드는 건 아니겠지만…. 어쨌든 반사판이 많이 필요하기 때문에 상당한 규모의 타일을 요구한다. 지어놓으면 반사판이 반짝반짝거리는게 예쁘다(…). 업그레이드를 이용해 유지비와 전력 생산을 개선할 수 있다. +120 에너지, -120 유지비.
+
+== 기타 구조물 ==
+
+ * 친환경 거리(Green Boulevard)
+ 녹색이라는 단어를 의역해 친환경이라고 쓰긴 했지만 Tycoon의 그것과 비교해 보면 이름에 Green이 들어가는 까닭은 사실 Eco의 지도자 이름이 Seamus Green이기 때문이라는 것을 알 수 있다. --우상화 돋네-- 일반 도로의 3배 비용을 들여서 도로를 깐다. 두 줄로 깔아놓으면 중앙선 대신에 정원이 깔려 보기 예쁘다는 장점이 있다. 운송 속도도 빨라진다. 3배 비싸니 [[wiki:"붉은 혜성"3배 빠르지 않을까]](…).
+
+ * 보호막 생성기(Shield Generator)
+ 적의 공격으로부터 일정 범위 내의 구조물을 보호하는 보호막을 생성한다. 최대 5000까지 방어 가능하며 Tycoon의 핵미사일도 방어할 수 있다--…고 하는데, 핵미사일은 어디로 떨어질지 모르잖아? [[wiki:"우린 안될꺼야 아마"못 막을 거야 아마]]…--. 유지비와 범용성 등을 비교해 본다면 Tycoon의 핵미사일보다는 이쪽이 더 우월해 보이기도 한다. 15 유지비, 25 전력 소모.
+
+ * 레저 센터(Leisure Center)
+ Eco의 상징적 건축물(Monument). [[wiki:"크고 아름다운"크고 아름답다]]. 전작의 대성당이나 술탄 모스크와 마찬가지로 일정 범위 내에 있는 모든 주택의 공공 건물 요구를 충족시키는 효과가 있다. 소방서, 병원, 경찰서 따위의 효과는 내지 않으며, 정보 공급 건물의 선전 활동 효과도 내지 않으므로 주의. 경제적으로만 계산하면 안 짓는 게 훨씬 경제적이긴 하지만…, --후반 되면 딱히 지을 것도 없으니까-- 어찌 짓지 아니할 수 있겠는가. 레저 센터를 건설하고 나면 Eco 분파의 지도자인 Seamus Green으로부터 고급 퀘스트를 받을 수 있게 된다.
+ 레저 센터의 건축은 4단계로 나누어지는데, 1차로는 50000 크레딧, 80 건설 모듈, 50 도구, 24 목재, 36 유리로 기반을 닦으며, 2차로는 160 건설 모듈, 300 도구를 순차적으로 들여 축대를 올리고, 3차에서는 300 도구와 160 목재를 동원해 외형을 가다듬어, 4차에서는 마지막으로 300 도구와 160 유리를 사용해 마감을 한다. 건설 중에는 근처에 창고 등의 자재 운반이 가능한 건물이 요구된다. 다 짓고 나면 크고 아름다운 건축물의 자태와 물새듯 흘러나가는 유지비 및 에너지의 향연을 만끽할 수 있다(…).
+
+== 자원 요구 ==
+
+Eco 분파의 시민들은 다음과 같은 자원을 요구하며 발전한다.
+
+ * 노동자 (Eco Worker) 단계
+
+  * 음식 : 생선 (Fish)
+
+  * 여가 활동 (Activity)
+  공동체 생활에 있어서 콘서트 홀(Concert Hall)을 요구한다. 적당한 위치에 적절히 지어 주자.
+
+ * 고용인 (Eco Employee) 단계
+
+  * 음식 : 웰빙 음식 (Health Food)
+
+  * 생활양식 : 통신기기 (Communicator)
+
+  * 정보 (Information)
+  정보 요구로 교육 네트워크(Education Network)를 요구한다. 건설된 네트워크 건물은 선전 활동을 통해 세금 추가 수입, 질병 저항력 향상, 소모 생활용품 절약, 거주 공간 확장 등의 옵션을 수행할 수 있다. 옵션 수행 시 다소간의 유지비와 전력 소모가 추가된다. 해당 옵션은 오로지 Eco 분파의 시민들에게만 적용되며, 다른 분파의 정보 공급 건물도 마찬가지이다. 한 섬에는 하나의 선전 활동만 가능하며, 옵션 변경에 따른 추가 유지비 및 에너지 소모는 정보 공급 건물의 수와 관계 없이 일정하다.
+
+   * 기본 설정 : Eden Initiative - Together for the Future
+   아무 효과도 없는 기본 설정이다. 정보 공급만 제공된다.
+   * 세금 추가 : Child & Career
+   인구 성장 속도를 다소 늦추는 대신 세금을 5% 추가로 거둬간다. 30 유지비, 8 전력.
+   * 자원 절약 : Out of the old comes the new
+   생활 양식에 소모되는 자원의 양을 15% 절감한다. 45 유지비, 8 전력.
+   * 질병 저항 : Check Up - The Consultation
+   질병 발생에 저항력을 제공한다. 45 유지비, 8 전력.
+   * 공간 절약 : Better Living
+   기존 주택에 추가적으로 12%의 인구를 더 집어넣는다. 95 유지비, 8 전력.
+
+ * 공학자 (Eco Engineer) 단계
+
+  * 음식 : [[파스타]] (Pasta Dishes)
+
+  * 음료 : 웰빙 음료 (Bio Drink)
+
+  * 정치 참여 (Participation)
+  정치 참여 요구를 한다. 의회 센터(Congress Center)를 적절한 위치에 지어 주자.
+
+ * 경영자 (Eco Excutive) 단계
+ 이제부터 Tech 분파의 지원이 요구된다. 상당규모의 돈과 자원이 투입되므로 무리하게 확장을 시도해서 적자를 만들지는 말도록 하자.
+
+  * 생활양식 : 3D 프로젝터 (3D Beamer)
+  3D 프로젝터 공장에서는 [[희토류 원소]](Rare-earth Element) 및 [[다이아몬드]](Diamond)를 요구하며, 해당 두 자원은 Tech 분파의 해저 개발로만 얻을 수 있다. 희토류 금속은 희토류 공장(Rare-earth borer)에서 망간 단괴(Manganese Nodule)로부터 추출되며, 망간 토질을 요구한다. 망간 추출 로봇(Manganese Excavation Robot)은 토질만 되면 맨땅에 들이박아서 개발 가능하다. 다이아몬드 공장(Diamond Harvesting Station)의 경우 농장처럼 3x3 타일을 9개 요구. 프로젝터 공장(Beamer Plant)은 육지에만 지을 수 있으므로 아예 본토까지 해저에서 개발된 자원을 수송하여 직접 생산해서 사용하는 편이 좋다.
+  적절한 배분은 2x 망간 추출 로봇, 4x 희토류 공장, 2x 다이아몬드 공장, 3x 프로젝터 공장.
+
+  * 생활양식 : 서비스 로봇 (Service Bot)
+  드디어 Eco 세력의 마지막 요구자원이다. 여기까지 버틴 유저의 근성에 박수를…. 서비스 로봇의 제작에는 일전에 개발한 바 있는 통신기기의 재료인 마이크로칩이 들어가며, 추가적으로 바이오폴리머(Biopolymer)가 들어간다. 바이오폴리머는 [[옥수수]](Corn)와 [[wiki:"조류#s-2"조류]](2번 항목, Algae)를 요구한다. 조류도 조류대로 개발하기 짜증나는 자원이지만, 옥수수는 그야말로 타일 소모의 끝을 보여주는 자원이다. 3x6 타일의 밭을 9개 지어야 정상 효율로 작동한다. 그리고 더럽게 안 자란다(…). 해조류 농장(Aquafarm) 1개 당 옥수수 농장(Corn Farm)을 2개씩 지어줘야 비율이 맞을 정도. 바이오폴리머 제작에는 옥수수와 조류 모두 1대 1로 요구하는데, 대략 옥수수 농장 2, 조류 농장 1개면 바이오폴리머 공장(Biopolymer Factory)을 하나 돌릴 수 있다. 대략 로봇 모듈 공장과 컴퓨터 칩 공장을 1대 1로 지으면 서비스 로봇 제작소(Robot Factory) 하나를 충분히 돌릴 수 있다. 이것도 더럽게 안 나온다(…). 하지만 많이 소모되는 것도 아니니 무리하게 많이 지어 시뻘겋게 적자가 올라가는 걸 구경하는 일은 없도록 하자.
+  적절한 배분은 0.33x 모래 추출기, 0.5x 구리 광산, 1x 마이크로칩 공장, 4x 옥수수 농장, 2x 해조류 농장, 2x 바이오폴리머 공장, 2x 로봇 제작소. 정수화하면 2x - 3x - 6x - 24x - 12x - 12x - 12x가 되는데, 당연히 그렇게 지을 수도 없는 데다가 짓는다 하더라도 다 쓸 수도 없으니 대충 짓자(…). 마이크로칩의 경우 고등 연구개발의 재료가 되니 남아도 상관없으며, 일부러 남기는 편이 더 낫다.
+
+= Tycoon (Global Trust Inc.) =
+
+성장주의적 입장을 표방하는 분파다. 어쩐지 돈을 잘 벌 것 같은 느낌의 분파. 실제로는 영… 어쨌든 Eco와는 대칭적인 구도로 선성장 후환경 식으로 발전하게 된다.
+
+== 환경 관리 ==
+
+Tycoon 분파의 환경건물은 Eco 분파의 환경건물보다 효율이 좋지만, 문제는 아무리 많이 지어도 환경지수가 0을 넘어가지 않는다. 그러니까 오염을 정화시키기만 하지 땅을 비옥하게 만들지는 못한다는 뜻이다. 대신에 Tycoon 분파의 시민들은 환경의 변화에 둔감해서, 오염이 세금수입에 큰 영향을 미치지는 않는다. 작물의 생산성 향상을 도모하고 싶다면 Eco의 건물을 발전시켜 Eco의 환경 정화 건물을 동원해 환경을 관리해야 한다.
+
+ * [[쓰레기]] 압축기 (Waste compactor)
+ Tycoon의 1차 환경 정화 건물이다. 주택가 근처에 지어놓으면 근처 인구에 비례해 환경이 정화되는데, 때문에 주택이 없는 개발 전용 섬에서는 아무 효과가 없다. 정작 오염은 본토 밖에서 문제가 되는 경우가 대부분인데…. 최대 +50 환경 정화, -40 유지비, -5 에너지.
+
+ * 탈[[wiki:"산#s-5"산]] 처리소 (Deacidification station)
+ Tycoon의 2차 환경 정화 건물이다. 대기중 산성 오염 성분 같은 걸 정화하는가보다. 이미 발생한 오염을 정화시킨다는 측면에서의 설정인 듯. 본격적인 환경 정화용 건물. 제약 범위가 설정되어 있는데 이게 Eco의 기후 통제소와 영향범위가 겹친다. 애초에 짓지도 않았겠지만 만약 지어놓은 기후 통제소가 있다면 망설임 없이 다 박살내버리고 짓도록 하자(…). 업그레이드를 통해 전력 소모와 제약 범위를 개선할 수 있다. 오존 생성소와 함께 조합하면 좋을 것이다. +90 환경 정화, -80 유지비, -60 에너지.
+
+ * 이산화탄소 저장고 (CO2 reservoir)
+ Tycoon의 3차 환경 정화 건물이다. 대표적인 [[온실가스]]인 이산화탄소를 액화시킨다든가 하여 땅속에 쳐박아버린다든가 하는 계획은 지금도 연구중이라고 하는데, 2070년대에는 실용화된 모양이다. 하지만 어째서 많고 많은 장소 중에 왜 하필이면 광산 자리를 밀어버리고 쳐박아야만 하는지는 알 수 없다. Eco의 기상 관측소도 그렇고 제작진이 광산에 한이라도 맺혔나(…). 이산화탄소를 저장할 공간이 안정된 지반이어야만 하는가보다. --이산화탄소가 [[wiki:"방사능 폐기물"핵폐기물]]이냐--[* 지진 같은 사고로 저장고가 파손되서 저장해 오던 이산화탄소가 다 유출되면 여태 시설 짓고 이산화탄소 모으던 노력이 말짱 황이 되기는 한다.] 어쨌든 상당히 효율성 좋은 건물로 광산 자리가 남으면 필히 지을만한 가치가 있는 건물. 업그레이드로 유지비와 전력 소모를 개선할 수 있다. +200 환경 개선, -160 유지비, -110 에너지.
+
+== 전력 공급 ==
+
+고효율 고오염을 추구한다…곤 하지만 사실 딱히 오염이 심한 것도 아니다. 단지 원자력 발전소가 말썽이 좀 있는 것이 문제. 각 발전소는 자체만으로 전력 생산을 하지는 못하며 전력을 생산하기 위한 자원 조달이 필요하다.
+
+ * [[석탄]] 발전소 (Coal power station)
+ Tycoon의 기본 발전소다. 이상하게도 이름이 [[화력]] 발전소가 아니라 석탄 발전소인데, 화력 발전소는 화력 발전소인데 석탄만 쓰고 석유는 안 쓰나 보다. 석유도 펑펑 나는 게임에서 왜 화력 발전에 석유를 안 쓰는가는 미스테리.[* 물론 그랬다간 이 발전소는 타이쿤의 애물단지로 전락한다. 현실에서도 석유로 발전하지 않는 이유는 게임에서와 같이 플라스틱 같은 제품들을 만드는데 꼭 필요하기 때문이다.] 어쨌건 게임 초반 강력한 개발과 성장에 상당히 도움이 된다. 상술한대로 전력 공급에는 석탄이 필요하며 석탄의 공급은 대체로 광산 타일을 잡아먹는 석탄 광산 대신 석탄 굴착기(Rotary excavator)를 이용하게 된다. 석탄은 매장량이 한정되어 있기 때문에 가끔씩 고갈되기 전에 꼬박꼬박 채워줘야 하는 불편함이 있다. 굳이 석탄 굴착기를 따로 창고에 도로로 연결해 줄 필요는 없으며 발전소 옆에 도로만 살짝 지어두면 알아서 발전소까지 잘 갖다 바친다. 화력 발전에 최적화된 생산량이라 에누리 없이 딱 떨어진다. +60 에너지, -15 환경 악화, -10 유지비.
+
+ * [[원자력]] 발전소 (Nuclear power plant)
+ Tycoon의 고급 발전소다. [[우라늄]](Uranium)을 재료로 하여 생산되는 연료봉(Fuel rods)을 자원으로 하여 고효율의 에너지를 생산해낸다. 저비용 저오염 고효율 이상적인 에너지원 그 자체. 그러나 한 방(…)이 있는 발전소다. 한 번 터지면 리얼 야~ 신나는 상황이 발생하게 되며, 강력한 환경 오염에 작물 생산력은 급강하하며 섬 주민들은 몽땅 병원 신세를 지게 된다. 유저들의 반응을 보면 --[[와이파이]]도 아니면서-- 평균적으로 제법 잘 터지는 것 같다. 아크에서 파츠를 박아 업그레이드를 하든, 섬 한정 아이템을 박든 반드시 사고 확률 감소 아이템을 꽂아 넣어야만 한다. 사용 전 반드시 중립 세력에게서 Safety protocol I, II, III 아이템을 사서 꽂아넣자. 각각 15%, 25%, 40%의 사고 확률 감소 효과를 가지고 있는데, 필히 100%를 채워 넣는 편이 좋다.(본디 확률이란것은 0%아니면 100%뿐인거다.) 경미한 사고이기는 하지만 80%에서도 사고가 터지는 것이 목격됐다. 정말 쓸데없는 데에서만 현실적이다(…). 다만 확장팩 Deep ocean 을 기준으로 원자력 발전소의 사고율이 체감상 대폭 낮아졌으며, 사고가 나더라도 경미한 사고가 대부분이라 사고감소 아이템 없이 몇시간을 플레이 해도 체르노빌같은 꼴이 나진 않는다. 게다가 새로 추가된 아이템중 영구적 환경오염원 통제아이템이 생겨서 만에하나 사고가 났거나, 혹은 정착한 섬에 있던 영구환경치 감소 시설등을 처리하여 환경영향도를 0으로 바꿔줄수 있다. --새롭고 신비한 2070년 기술!-- 적의 공습에 의해 터져도 마찬가지로 완전 신나는 상황이 발생하기 때문에 조심해야 한다.(확장팩에선 직접적으로 사격을 받아 무너지는것 까진 환경오염원으로 바뀌지 않는다. 핵미사일 공격으로 파괴되었을시만 신나는 상황 발생) Eco 주민들이 사는 곳에다 지어두면 얼마 지나지 않아 주민들이 빨리 철거하라고 위협해 오기 때문에 짓지 않는 편이 좋다. 물론 버티고 철거하지 않았다간 해당 섬 전체의 모든 공공건물을 몇분간 멈추는 집단 파업을 시작해서 당신의 지갑을 위협한다. 우라늄 광산(Uranium mine) 1곳 당 1기의 핵연료 공장(Fuel element factory)을 가동할 수 있으며, 1기의 원자력 발전소를 가동할 수 있다. Tech의 금속 변환기(Metal converter)를 이용해 해저 우라늄 광산을 가동하면 우라늄 광산 대비 2배의 우라늄을 생산할 수 있으니 참고. +500 에너지, -10 환경 악화, -100 유지비.
+
+== 기타 구조물 ==
+
+ * 베인즈 거리 (Banes avenue)
+ Tycoon의 지도자의 이름을 딴 도로다. --[[wiki:"극과 극은 통한다"이게 자본주의야 공산주의야]]-- 일반 도로의 3배 비용을 쳐발라서 도로를 포장한다. Eco의 그것과 마찬가지로 운송 유닛의 운송 속도 향상이 있으며 두 줄로 깔아주면 중앙선이 예쁘게 깔린다.
+
+ * [[미사일]] 발사대 (Missile launch pad)
+ [[wiki:"핵무기"핵미사일]]을 제조하는 건물. 하나 당 1기의 핵미사일(Long-range missile)을 저장 가능하다. 핵미사일 1기 당 제조 비용은 40000 크레딧, 50 등유(Kerosene), 100 우라늄, 100 폭발물이 필요하며 30분의 제조 시간이 필요하다. Eco의 보호막 생성기 위로 떨구면 미사일의 영향범위가 더 넓기 때문에 보호막 범위 바깥으로 고리 모양의 대형 화재가 발생하므로 Tycoon의 승리…긴 하지만 비용 및 범용성을 따져 본다면 꼭 그런 것 같지만은 않다. 멀리서 버튼만으로 핵꿀밤을 먹일수 있다는 장점이 있지만 전술핵이라 위력이 딱 핵꿀밤 수준.  -50 환경 악화, -500 유지비, -50 에너지.
+
+ * 글로벌 트러스트 본사 (Corporate Headquarters)
+ Eco의 그것과 대동소이하다. 차이점이라면 환경이 쩔게 오염된다는 점과 사용되는 고유 자원이 다르다는 점이 차이점. 완성된 후 Tycoon의 지도자 Skylar Banes에게서 고급 퀘스트를 받을 수 있다.
+
+== 자원 요구 ==
+
+Tycoon 분파의 시민들은 다음과 같은 자원을 요구하며 발전한다.
+
+ * 노동자 (Tycoon Worker) 단계
+
+  * 음식 : 생선 (Fish)
+
+  * 음료 : 독주 (Liqour)
+
+  * 여가 활동
+  카지노(Casino)를 요구한다. 적절한 위치에 적절히 지어주자.
+
+ * 고용인 (Tycoon Employee) 단계
+
+  * 고유 자원 : [[콘크리트]] (Concrete)
+
+  * 음식 : [[패스트푸드]] (Convinience Food)
+
+  * 생활양식 : [[플라스틱]] 제품 (Plastic Product)
+
+  * 정보
+  정보 요구로 진리부(Ministry of Truth)를 요구한다. 진리부란 이름은 [[조지 오웰]]의 [[1984]]에 등장하는 가상의 국가 오세아니아에서 등장하는 프로파간다 부처의 이름에서 따온 듯하다. --역시 미래는 디스토피아인가-- 적절한 위치에 적절히 지어주자.
+
+ * 엔지니어 (Tycoon Engineer) 단계
+
+  * 음식: 호화 요리 (Luxury Meal)
+
+  * 음료: [[샴페인]] (Champagne)
+
+  * 정치 참여
+  정치 참여를 요구한다. 금융 센터(Financial Center)를 적절한 위치에 적절히 지어주자.
+
+ * 경영자 (Tycoon Excutive) 단계
+ 그야말로 사치의 끝을 보여준다. Tech 분파의 해저 개발을 요구한다.
+
+  * [[보석]]세공 (Jewelry)
+  생각 외로 만들기는 어렵지 않다. 보석세공의 재료 중 하나인 금(Gold)은 금덩이와 석탄을 재료로 생산된다. 석탄의 경우는 이미 많이 설명했지만 석탄 굴착기를 이용하는 편이 나을 것이다. 금덩이를 추출하는 사금 정제소(Gold Refinery)는 강 타일에만 설치 가능하며, 금덩이는 보통 소량만 매장되어 있으므로 고갈이 빨리 찾아오기 때문에 미리 추가 자원 채굴을 준비해 놓는 것도 좋다. 다이아몬드는 상술한 대로 토질을 요구하는 해저 자원으로 다이아몬드 광산(Diamond Harvesting Station)을 지어 공급한다.
+  적절한 배분은 1x 석탄 굴착기(0.5x 석탄 광산), 1x 사금 정제소, 1x 금 제련소(Gold Smeltery), 1x 다이아몬드 광산, 1x 보석세공 공장(Jewelry Manufactory).
+
+  * 조제[[약]] (Pharmaceuticals)
+  병원이 있는데도 따로 약을 요구하는 이유는 알 수 없다. [[불로불사]]약이나 [[만병통치약]]쯤 되는 모양(…). 들어가는 재료를 보면 단순 건강보조제 같기도 한데…. 먼저 지질 공장(Fat Factory)에서 생산되는 오메가 지방산(Omega acids)과 및 해조류 농장(Aquafarm)에서 생산되는 조류(Algae)를 재료로 하여 화학 공장(Chemical Plant)에서 비밀 재료(Secret ingredient)가 생산된다. 이렇게 생산된 재료는 건강관리국(Healthcare Office)에서 해저에서 망간 추출 로봇과 희토류 공장을 거쳐 생산된 희토류 원소와 조합해 조제약이 만들어진다. 참고로 지질 공장은 2x3 크기의 도살장(Slaughterhouse)을 6개 요구하며 여타 축사와 마찬가지로 환경 오염과 토질의 영향을 받지 않는다. 아마 소

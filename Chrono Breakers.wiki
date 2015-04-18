@@ -1,0 +1,21 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX 온라인]] ||
+|| 장르 || [[Ani Pop]] ||
+|| 작곡 || [[NieN]] ||
+|| 보컬 || [[NieN]], [[M2U]] ||
+|| [[BPM]] || 178 ||
+|| 비주얼 || [[RESS]] ||
+
+ {{{#!html
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/XOL7K9CrGyQ" frameborder="0" allowfullscreen></iframe>
+}}}
+(DJMAX 온라인 일본판 BGA)[* [[DJMAX Trilogy]] 한국어 버전에도 이 영상 그대로 들어가 있다.]
+
+[[DJMAX 온라인]]부터 수록된 곡으로, 프리미엄 서비스 이용자에 한해 플레이 가능한 유료곡으로 서비스되었다. BGA, 음악 분위기, 장르 표기에 굉장히 충실한 곡으로, 한편의 [[애니메이션]] 오프닝을 보는듯한 BGA와 잘 어울리는 곡. 그러나 비교적 최근의 DJMAX 시리즈에는 잘 수록되지 않고 있다.
+
+'소호전(小狐傳)'이라는 가상의 애니메이션 오프닝을 본다는 의도로 제작되어 나왔으며, 인간 퇴마사와 그와 함께 행동하는 구미호, 그리고 이들에 맞서는 세력과의 싸움을 그리고 있다.
+
+[http://blog.naver.com/pupplestorm/130182868662 Memoirs와 마찬가지로 이 BGA를 바탕으로 쓰여진 소설이 있다]
+
+[[DJMAX Portable]]에도 이식되었으며, BPM이 빠른 특성 탓에 스크롤 속도가 빨라 난이도가 비교적 높은 편이다.

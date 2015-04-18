@@ -1,0 +1,29 @@
+Vocoder
+
+[[목차]]
+
+== 개요 ==
+특수한 전자 악기 이펙터. 설명해도 감이 잘 안 올 수 있으니 일단 영상을 보도록 하자.
+
+{{{#!html
+<object width="425" height="349"><param name="movie" value="https://www.youtube.com/v/-hqvvNcvenU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/-hqvvNcvenU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+보코더는 [wiki:"일렉트로니카"전자 음악]에서 사용되는 장비 혹은 VSTi 플러그인으로, 키 입력과 동시에 목소리를 입력해 멜로디를 만들어주는 역할을 한다. 최근 화두가 되었던 [[오토튠]]이 바로 이 보코더의 오토 버전에 해당한다. 오토튠의 경우에는 미리 건반 입력을 프로그래밍해둔 뒤 그것을 목소리에 적용하는 것. 다만 오토튠 특유의 '[[T-pain]] 이펙트'와는 소리가 많이 다르고 오토튠은 보정 효과로 사용했을 경우 그 적용이 아주 섬세하다. 보코더는 애초에 목소리 변조 용도로 쓰이는 악기다. 그렇지만 어째서인지 오토튠으로 변조된 목소리를 보코더 소리라고 착각하는 사람들이 꽤 있다.
+
+대개 [[건반]]에 [[마이크]]가 달려 있는 악기를 연주하는 일렉트로니카 '''남자''' 뮤지션이 위의 영상과 같은 우스꽝스러운 목소리를 내고 있다면 99% 보코더라 [[카더라]].
+
+--사실 [[GLaDOS]]가 그 정체로 T-pain을 위협해 노래를 만들고 있었다.[http://www.youtube.com/watch?v=234v_apCQO4&feature=youtube_gdata_player #]--
+
+== 널리 알려진 보코더를 사용하는 뮤지션 ==
+ * [[다프트 펑크]]
+ * [[로저 트루먼]][* 80년대 펑크밴드인 zapp&rogers 의 리더였으며 토크박스 연주의 본좌이다. ]
+ * --[[마리오]][http://www.youtube.com/watch?v=TrDRVa1Exkc&feature=youtube_gdata_player #]--
+ * [[마이크 올드필드]][* [[QE2]],[[Five Miles out]] 앨범에서 확연이 들어볼 수 있다.]
+ * [[스티비 원더]]
+ * [[옐로우 매직 오케스트라]]
+ * [[크라프트베르크]]
+ * [[퍼퓸(일본)]]
+ * ~~[[All your base are belong to us]]~~
+ * [[Fear, and Loathing in Las Vegas]]
+ * [[YMCK]][* 가끔 나오는 변조된 남성의 목소리(요케무라, 나카무라). 메인 보컬인 미도리는 쓰지 않는다. 믿기 힘들지도 모르지만 좀 깔아서 발음하는 생 목소리.]

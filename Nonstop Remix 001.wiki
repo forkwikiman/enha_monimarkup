@@ -1,0 +1,27 @@
+ * 상위 항목: [[EZ2ON]]
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/XyhwbZp6SvE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/XyhwbZp6SvE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+'''[[EZ2ON]] Nonstop Remix 001 BGA'''
+
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| [[추가바람]] ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) || 3 || 9 || 13 || - || - ||
+|| 스트릿(5키) || 8 || 13 || 15 || - || - ||
+|| 클럽(6키/8키) || 8 || 13 || 15 || - || 15 ||
+
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/s-atwI0-00Y" frameborder="0" allowfullscreen></iframe>
+
+6키 HDMix 영상.
+
+
+곡의 순서는 [[We Luv Music]] - [[Say That U]] - [[The Future]] - [[Y-Gate]].
+
+[[EZ2ON]] 베타테스트 당시 업데이트 된 논스톱 리믹스 중 첫번째 시리즈.
+
+BGA는 각 곡의 BGA를 섞었다. BGA 마지막에 나오는 인물은 작곡가인 r300k 본인이다.
+
+이 곡의 The Future 파트는 재봉틀 파트로 알려진 부분을 사용했지만 배치는 재봉틀이 아닌 분산배치이다.

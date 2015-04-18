@@ -1,0 +1,82 @@
+ * 이 항목은 [[매직 더 개더링]]의 Nephilim 사이클에 대해 설명하고 있습니다. 일반적인 의미나 다른 것들을 찾으신다면 [[네피림]] 항목 참고 바랍니다.
+
+[[목차]]
+
+== 개요 ==
+Nephilim
+
+[[TCG]] [[매직 더 개더링]]의 [[라브니카]] 블록 Guildpact 세트에 등장하는 4색 생물들의 명칭.
+
+== 설정 ==
+라브니카의 길드는 물론 라브니카에 첫 번째 빌딩이 세워지기 전부터 존재하던 괴물들. 유래가 어딘지 뭐하는 놈인지도 모르며 몇 명이 라브니카에 남아있는지도 모른다. [[Guildpact]] 스토리에서 날뛰다가 [[Niv-Mizzet, the Firemind]], [[Rakdos the Defiler]] 등과 싸우게 된다.
+
+== 특징 ==
+1993년 알파부터 2015년 [[타르커의 칸]] 블록 현재까지[* 이후 갱신되면 수정바람] 유일하게 4색'''만''' 가진 생물 및 주문이다. 모두 공통적으로 희귀도는 레어이며 각 색의 유색마나를 하나씩 사용하는 4발비 생물이다. 또한 이름뿐만 아니라 생물 유형 역시 Nephilim. 하지만 4색 4마나라는 비싼 발비의 생물임에도 불구하고 게임을 뒤집을만한 능력은 없었기에 경쟁적 포맷에서는 사용되지 못했다.
+
+나중에 Dissension세트에서는 이 카드에서 이름을 따 부여된 생물의 색깔 갯수에 따라 능력을 더 많이 주는 마법진도 나왔다.
+
+원래 Nephilim이 들어가게 된 이유는 사람들이 길드를 싫어할 경우를 대비해서 넣은 애들이지만 라브니카의 길드가 성공적이었고 능력 자체가 구렸기에 원래 의도는 아무도 신경쓰지 않는다(…)
+
+이 카드가 문제가 되는 것은 [[커맨더]] 포맷이 인기를 끈 이후로, 4색 커맨더는 아무도 없었기에 사람들이 다들 이 Nephilim을 지목했던 것. 지금와서 보면 매우 커맨더스러운 능력을 가지고 있지만, 당시 디자인 팀에서는 커맨더란 포맷은 생각하지도 않고 있었고 오히려 사람들이 이 카드를 중심으로 덱을 짜길 원했기 때문에 전장에 여러 장을 꺼낼 수 있게 의도적으로 비전설 생물로 만든 것. 이후 이게 거꾸로 독이 돼서 사람들이 왜 얘는 전설이 아니냐고 [[징징]]댐에 매번 시달리고 있다. 어쨌든 이 카드들을 전설로 안 만든 것은 후회하고 있으며 [http://markrosewater.tumblr.com/post/105452433033/finally-its-my-birthday-as-a-birthday-present 디자이너 텀블러] 그렇다 하더라도 얘네들을 다시 전설로 만들 생각은 없다고 한다. 
+== 해당 카드들 ==
+
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>  '''영어판 명칭'''  ||  '''Dune-Brood Nephilim'''  ||<width=223px><|6>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107091&type=card?.png&width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  {R}{B}{G}{W}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  생물 — Nephilim  ||
+||||<height=160px>Dune-Brood Nephilim이 플레이어한테 전투 피해를 입힐 때마다 당신이 조종하는 대지 하나당 1/1 무색 Sand 생물 토큰 하나를 전장에 놓는다. 
+
+''When it awoke, it spawned nameless thousands to herald its arrival.''||
+||  '''공격력/방어력'''  ||  3/3  ||
+||||  '''[[매직 더 개더링/블록|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Guildpact  ||  레어  ||
+
+||<tablewidth=100%>  '''영어판 명칭'''  ||  '''Glint-Eye Nephilim'''  ||<width=223px><|6>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107094&type=card?.png&width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  {U}{B}{R}{G}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  생물 — Nephilim  ||
+||||<height=160px>Glint-Eye Nephilim이 플레이어한테 전투피해를 줄 때마다 그만큼의 카드를 뽑는다.
+{1}:카드 한 장을 버린다: Glint-Eye Nephilim은 턴끝까지 +1/+1을 받는다.
+
+''When it awoke, it shook the plane with the thunder of its craving.''||
+||  '''공격력/방어력'''  ||  2/2  ||
+||||  '''[[매직 더 개더링/블록|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Guildpact  ||  레어  ||
+
+||<tablewidth=100%>  '''영어판 명칭'''  ||  '''Ink-Treader Nephilim'''  ||<width=223px><|6>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107092&type=card?.png&width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  {R}{G}{W}{U}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  생물 — Nephilim  ||
+||||<height=160px>플레이어가 Ink-Treader Nephilim 하나만을 목표로 삼는 순간마법이나 집중마법을 발동할 때마다 그 주문이 목표로 할 수 있는 다른 모든 목표의 갯수만큼 주문을 복사한다. 이렇게 복사된 주문은 각기 다른 생물들을 목표로 한다.
+
+''When it awoke, the mirrors of the world reflected only darkness.''||
+||  '''공격력/방어력'''  ||  3/3  ||
+||||  '''[[매직 더 개더링/블록|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Guildpact  ||  레어  ||
+
+||<tablewidth=100%>  '''영어판 명칭'''  ||  '''Witch-Maw Nephilim'''  ||<width=223px><|6>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107090&type=card?.png&width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  {G}{W}{U}{B}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  생물 — Nephilim  ||
+||||<height=160px>당신이 주문을 발동할 때마다 당신은 Witch-Maw Nephilim위에 +1/+1카운터 두 개를 올려놓을 수 있다. 
+
+Witch-Maw Nephilim 공격할 때마다 만약 Witch-Maw Nephilim의 공격력이 10이상이라면 Witch-Maw Nephilim는 턴끝까지 돌진을 얻는다.
+
+''When it awoke, it shattered the hillsides to make way for its passage.''||
+||  '''공격력/방어력'''  ||  1/1  ||
+||||  '''[[매직 더 개더링/블록|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Guildpact  ||  레어  ||
+
+||<tablewidth=100%>  '''영어판 명칭'''  ||  '''Yore-Tiller Nephilim'''  ||<width=223px><|6>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107093&type=card?.png&width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  {W}{U}{B}{R}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  생물 — Nephilim  ||
+||||<height=160px>Yore-Tiller Nephilim이 공격할 때마다 당신의 무덤에서 생물 하나를 목표로 정한다. 그 생물을 전장에 탭되어 공격하는 상태로 되돌린다.
+
+''When it awoke, the worms of the earth hissed in a chorus of beckoning.''||
+||  '''공격력/방어력'''  ||  2/2  ||
+||||  '''[[매직 더 개더링/블록|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Guildpact  ||  레어  ||

@@ -1,0 +1,123 @@
+[[목차]]
+마지막 결전, 폭로등의 뜻이 있다.
+== [스타크래프트/맵] ==
+사막 지형의 2인용 맵.
+세로로 길쭉하다.
+
+래더맵으로 쓰였었다.
+== EZ2DJ의 수록곡 중 하나 ==
+|| 장르 |||||||| Hard Rock ||
+|| 곡명 |||||||| Showdown ||
+|| 작곡 |||||||| [wiki:"ND Lee" Andy Lee] ||
+|| 배경 |||||||| Sting ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| BPM |||||||| 130 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 8}}} || {{{#red 13}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7}}} || {{{#red 8}}} || {{{#purple 10}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 8}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 10}}} || {{{#red 17}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ *라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ *[wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='BD0HjbQHbRs$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=BD0HjbQHbRs$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=BD0HjbQHbRs$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+== 개요 ==
+[[EZ2DJ 2nd]]의 수록곡. 기타 노이즈가 몰아치는 시원한 곡이었기 때문에 곡 자체도 인기가 좋았으며, 특히 2nd 신곡 중에서는 가장 난이도가 높은 곡이었던 점 때문에 고수 유저들 사이에서 인기가 높은 곡이었다. 그 시절에는 이 곡으로 운지법이나 고스트 스크래치 등을 연습하는 유저들도 많았다.
+
+=== 패턴 ===
+확 몰아붙이는 계단[* 계단하면 가장 유명한 건 DIEOXIN이지만 이 녀석은 손가락 2개로도 해결되는 수준이니.]이나 폭타 도중에 나오는 스크래치 등 지금 봐도 참신한 노트 배치로 많은 이들의 사랑을 받았다. 다만 중반부에 나오는 스크래치 난사는 말 그대로 난사인지라 정확하게 연주하기 어려운 데다, 최후반부 패턴이 일자연타를 동반하다 보니 클리어는 가볍게 해내는 사람도 올콤하긴 그리 녹록하지 않다.
+==== 5K ONLY ====
+==== 5K RUBY ====
+초보유저들이 루비믹스에서 5스트릿믹스로 넘어가기 전 꼭 깨야 하는 관문정도로 취급 받았었다.
+==== 5K STANDARD ====
+NM 패턴은 중간중간에 나오는 기타 리프 부분이나 계단, 난타 구간 등, 순간적으로 난이도가 확 높아지는 구간들을 주의해야 한다. 전반적으로 7레벨 중급 정도의 패턴으로, 이 곡을 깰 정도면 어지간한 7레벨들은 어렵지 않게 깰 수 있다는 뜻.
+
+HD 패턴은 [wiki:"Return to Universe" NM과의 난이도 차이가 1밖에 안 되지만 체감 난이도는 꽤나 크게 차이가 난다]. 초반부터 난타 패턴이 나오며, 중간중간의 기타 리프 부분이 1/8박 단위까지 나뉘어서 나오기 때문에 노트 밀도가 더 높다. 체감 난이도는 8레벨 중급 정도라 일단 사기 수준은 아니지만, 패턴의 정체를 모르고 처음 골랐다간 갑자기 콰라락 쏟아지는 1/8박 패턴에 겁먹기 쉽다.
+
+[[EZ2AC EV]]에서 Retro-Respect-Revisited 채널의 전용 패턴을 이식한 Lv.10의 SHD 패턴이 추가되었다. 건반부는 최후반을 제외하면 중간의 롱노트가 추가된 것 외에는 별 차이가 없지만, 대신에 전반적으로 스크래치를 대량으로 추가하고 최후반부는 건반부에서 나오던 노트의 한 라인이 페달로 넘어가면서 박자감이 제대로 꼬이는 패턴이 만들어졌다.
+==== 7K STANDARD ====
+==== 5K COURSE ====
+==== 7K COURSE ====
+7키 라디오의 K&S 채널은 이 곡과 [[Anytime]]의 연타 때문에 표기난이도를 뒤엎고 최고 난이도 채널의 반열에 올랐다.
+==== 10K MANIAC ====
+==== 14K MANIAC ====
+==== EZ2CATCH ====
+==== TURNTABLE ====
+[[EZ2DJ AE]]의 필드 테스트에서 기존 패턴을 하드 패턴으로 보내고 노말 패턴이 새롭게 생겨났는데, 5키 노말 패턴이 생각나는 배치로, 표기 레벨은 10인데 게이지가 자비가 없어서 체감상 Lv.'''11'''급을 자랑하고 있다. 난이도와는 별개로, 패턴이 찰지고 좋다는 얘기가 많이 돌고 있다.
+
+HD 패턴은 [[wiki:"EZ2DJ 7thTRAX BONUS EDITION revision A" BErA]]로 들어서면서 만들어진 패턴인데, 첫 등장부터 Lv.'''17'''이라는 미친 난이도를 들고 나와 유저들을 경악에 빠뜨렸다. 절대로 허세가 아닌 게, [[神威]]보다 동급이거나 '''어렵다'''는 소리를 듣고 있는 패턴이다! 패턴의 고비는 주로 초반의 1/4박 어묵공장 노트인데 1개씩 노트를 흘린 패턴[* [[간접미스]]의 밥이 되기 딱 좋은 패턴이다. 이걸 더 심각하게 만들면 그 악명 높은 [[Weird Wave]] HD 패턴이 된다.]과 그 다음부터 시작되는 '''1/8박을 섞은'''[* 이 패턴이 최고 난감 1순위. 너무 느리게 돌리자니 몇개를 흘리고, 너무 빠르게 돌리니 간접미스와 다음 패턴의 대비를 하기가 힘들기 때문이다.] 1/4박 난타 패턴, 1/4박중에 반박이 끼어있는 패턴 등등이 게이지를 깎는 데 일등공신 역할을 한다. 나머지 구간은 이 정도를 넘볼 수 있는 유저들은 체력관리 정도의 패턴들이라서 위협은 되지 않으나, 전자의 구간들이 너무 많아서 포션부분이 적은 것이 클리어에 난관을 두고 있는 가장 큰 이유이다. 노트 수가 카무이에 비해서 심히 딸리는 데 비해 [wiki:"BEATRICE" 체력 회복 구간은 적고 어려운 구간이 많아서] 어려운 케이스.
+
+2012년 11월 23일과 2014년 12월 8일에도 클리어자가 한 명씩 더 생겨서, 전국에서 딱 3명만 클리어 한 악명높은 패턴으로 자리잡고 있다. 클리어자는 [[GR_DDX]]와 PaiNa[* 턴테이블 모드의 [[神威]]도 깼을 정도로 실력이 나날이 늘고있는 턴테계의 샛별 유저이다.], CRSSK[* 간접미스 폭풍으로 악명 높은 [[Riff Guy]]의 올콤자.]이다.
+
+[[http://pann.nate.com/video/219073325 문제의 턴테이블 하드 패턴 영상.]] 플레이어는 GR_DDX.
+
+참고로 [wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC EC] 기준 턴테이블 레벨 17곡이 이 곡 외에 5개가 있다. [[Zeroize]] HD, [[神威]] NM, [[Sand Storm]] NM, [[A Site De La Rue]] HD, [[Legend]] HD.
+
+== DJMAX TECHNIKA 3 수록곡 중 하나 ==
+
+|| 최초 수록 버전 || [[DJMAX TECHNIKA 3]] ||
+|| 작곡 || [[LeeZu]] ||
+|| BGA || Gaeberman(원화), DumpingLIFE(모션) ||
+|| BPM || 145 ||
+|| 장르 || Brass Funk ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/naztEj9ZD0o" frameborder="0" allowfullscreen></iframe>
+}}}
+
+> 아시는 분들은 아시겠지만 '[[The Guilty]]'의 원제는 'Mafia'였습니다. 
+> 회사측의 사정상 제목이 변경되긴 했지만 이 곡 역시 'The Guilty(Mafia)'를 작업할 당시 보았던 영화에 의해 떠오른 이미지의 연장선이라고 생각하시면 될 것 같습니다. 
+> 'The Guilty(Mafia)'작업완료 이후 좀 더 생각나는 이미지들을 스케치 해놓았었는데, 마침 'The Guilty(Mafia)'의 후속곡에 대한 작업요청이 와서 스케치 해놓은 곡에 색을 칠하고 새로 작업을 하게 되었습니다. 
+> 굳이 따지자면 이 곡은 시리즈물로써 'The Guilty2'가 되겠네요. 3탄이 나올 수 있도록 많이 많이 Burning 해 주세요~♡ 흐흐흐
+
+[[DJMAX TECHNIKA 2]]에 수록된 [[The Guilty]]의 정식 후속곡. 후속곡 답게 트럼펫연주와 밴드합주가 절묘하게 섞여있는 전작과 비슷한 양상을 띄고있는 데다가 아예 마무리는 The Guilty의 마무리와 같다.
+
+BGA(아래 플레이 영상 참고)의 내용은 90년대 RPG게임과 [wiki:"리그 오브 레전드" 이 게임]의 패러디물이다. 작곡가가 [wiki:"LeeZu"이 사람]이다 보니, [wiki:"The Guilty"이][wiki:"Burn it Down"곡]처럼 레스와 팬텀이 나올줄 알았던 사람들은 실망과 좌절... ~~페인은 아무것도 못해보고 버림받았다...~~ 남자와 여자[* 이름부터 THE MAN THE GIRL(...)]가 돈을 위해 사냥을 하는 내용이다. 후반부에 큰 돈이 되는 사냥감을 보고 눈을 번쩍이는 모습이 포인트. 하지만 BGA를 자세히 살펴보면 엄청 깬다. 시작하자마자 첫 번째 몬스터를 잡으면서 나오는 대사가 '''"First Blood !!!!!"'''(...) 또 "Double Kill" "Quedra Kill" 까지...거기다가 Q, W, E, R이 대놓고 단축키로 등장하더니 여자가 '''[wiki:"애쉬(리그 오브 레전드)" 마법의 수정 화살]을 쏜다!''' ~~노렸구나 [펜타비전]~~
+
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || || || || || ||
+||<#FFFF00> Normal || B || 375 Max || 6 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || A || 1500 Max || 7 || 4박 스크롤 || ||
+||<#FF0000> Maximum || S || 900 Crew Max || 9 || 4박 스크롤 || [[Fatality Set]] 셀렉곡 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/sJbq9gmcbjs" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+현재까지 유출된 미션팩에 수록되지 않아서 언제쯤 등장하나 이야기가 많았는데, 11차 업데이트에서 노멀 패턴이 업데이트되었고, 13차 업데이트로 하드 패턴이 업데이트되었다. 특히 하드 패턴의 경우 키음 선택도 적절하며, 긁기 중심 채보이기는 하지만 치는 맛이 좋아 개념 패턴으로 인정받고 있다.
+후에 18차 업데이트에 나온 [Fatality Set]으로 MX 패턴이 공개되었다. 애매한 박자의 관절이나 분홍노트, 롱놋을 누른 채로 보라 연타 처리 등 레벨 9 치고는 꽤나 까다로운 편.
+
+=== [[DJMAX TECHNIKA TUNE]] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 5 || ||
+||<#0000FF> {{{#white POP}}} || 6 || ||
+||<#FF0000> CLUB || 7 || [[Instrumental Set]] 셀렉곡 ||
+||<#B400FF> {{{#white EXTRA}}} || 9 || [[Freaky Garden Set]] 셀렉곡 ||
+
+=== [[TAP SONIC]] ===
+
+2014년 2월 13일에 수록, 5주 연속 디맥곡 업데이트의 명맥을 이어나가게 되었다. 6라인 레전드 기준으로 난이도는 9인데, 중반부의 잠깐 지나가는 괴랄한 폭타만 조심하면 무난한 9레벨이다.
+
+[[추가바람]]
+== 온라인게임 발키리스카이의 필드곡 ==
+dbu music이 음악을 맡은 발키리 스카이의 곡중에서도 명작의 반열에 든다.
+보스전에 맞춘듯한 그곡은 상당히 긴장감이 넘친다. 검색해보기를 추천.
+
+하지만 조금 짧아서 좀 반복이 심한게 아쉽다.
+
+[[각주]]

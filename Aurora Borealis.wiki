@@ -1,0 +1,43 @@
+[[목차]]
+== 개요 ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/d5WOV2vgdMk&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/d5WOV2vgdMk&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 || [[DJMAX 온라인]] ||
+|| 장르 || Drum & Bass ||
+|| 작곡 || [[Electronic Boutique]] ||
+|| BPM || 153 ||
+|| BGA || 온라인-[[범용 BGA]] / [[DJMAX Trilogy]]-BBOYAN ||
+
+[[DJMAX 온라인]]의 수록곡으로, Electronic Boutique의 스타일이 잘 녹아들어있는 곡 중 하나. [[DJMAX Portable 2]]의 OST모드에 Additional Disc에만 포함되어 있었으나, 이후 [[DJMAX Trilogy]]에 전용[[BGA]][* BGA 제작자 BBOYAN의 황도 12궁에 해당하는 12개의 별자리를 표현한 작품들 중 물병, 전갈, 황소, 물고기, 천칭, 쌍둥이, 염소, 게자리 총 8개가 사용되었다. 이 작품들은 BBOYAN 홈페이지에서도 볼 수 있다.]가 추가되면서 같이 수록되었다.[* 덕분에 벅스에서 [[wiki:"TAP SONIC"Project M]]앨범에서 다운로드하는 방법말고는 음원을 구할 방법이 없다. --에라이...--]
+
+약칭은 '''오로라'''.
+
+드럼 앤 베이스라는 다소 시끄러울 법한 장르를 채택하고 있음에도 불구하고 곡의 분위기가 상당히 잔잔하고 조용하며 신비로운 것 역시 특징. 난이도 역시 어려운 수준은 아니다... 였으나 트릴로지로 와서는 상당히 난이도가 높은 SC 패턴이 등장했다. 
+== [[DJMAX Trilogy]] ==
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/3Nqdow-O3ss?fs=1&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3Nqdow-O3ss?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed></object>
+}}}
+6키 SC패턴(Lv.17)의 영상. [[충격과 공포]]
+
+6키에서 최고 레벨을 꿰찼으며 DJMAX Trilogy에 있는 모든 패턴들 중 콤보수가 가장 많다. ~~곡 하나로 1만 콤보 찍을 기세~~
+== [[TAP SONIC]] ==
+2012년 7월 23일, [[TAP SONIC]]에 등장했다! 그것도 오랜만에 6라인 레전드 기준으로 10레벨. Project M 수록곡이었던 만큼 등장 가능성이 높았는데 진짜로 수록되었다.
+초반과 중후반 까지는 10레벨답지 않게 너무 쉬운 노트가 등장하지만....최후반에는 [[두부소닉]] 뺨치는 멀티 테스킹 노트가 떨어진다.  이 [[후살]]성 패턴 덕분에 10레벨 값어치를 제대로 보여주고 있다.
+수록된 지 하루가 지난 후 프로가 레전드보다 어렵다는 유저들의 의견이 속출했다. 이유는 후반부 구간에서, 프로에서 연타가 더 오랜 시간 나오고 난이도도 더 높다는 것. 그러나 초중반부와 최후반은 레전드 쪽이 우세. 따라서 전체적인 패턴을 모두 따졌을 때 아직은 레전드 쪽이 조금 더 어려운 편이다.
+그와는 별개로 베이직 패턴은 표기는 6레벨이지만 '''7레벨 최상위권''' 수준의 난이도를 보이는 핵지뢰곡이니 S랭크작 시 주의할 것.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Ultraviolet 팩 수록곡 ||
+|| '''Aurora Borealis''' || [[Out of CTRL]] || [[Dark Prism]] || [[Rolling On the Duck]] || [[Vampired]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 6 || ||
+||<#0000FF> {{{#white HD}}} || 8 || ||
+||<#FF0000> MX || 10 || ||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/zyavlKTl71Q" frameborder="0" allowfullscreen></iframe>
+}}}
+탭소닉에서 일부 패턴을 따왔다.

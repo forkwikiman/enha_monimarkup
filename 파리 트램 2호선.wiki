@@ -1,0 +1,49 @@
+{{{+1 Ligne 2 du tramway d'Île-de-France / Île-de-France tramway Line 2}}}
+ * [[철도 관련 정보]]
+||<-5><table align=center><#ffffff> [wiki:"파리 트램" <span style="font-weight:bold;color:0000f9">파리 트램 운행 노선</span>] ||
+||<#dcdcdc> [[wiki:"파리 트램 1호선" 1호선]] ||<#ffffff> '''{{{#bb4b9c 2호선 }}}''' ||<#dcdcdc> [[wiki:"파리 트램 3a선" 3a선]] ||<#dcdcdc> [[wiki:"파리 트램 3b선" 3b선]] ||<#dcdcdc> [[wiki:"파리 트램 4호선" 4호선]] ||
+||<#dcdcdc> [[wiki:"파리 트램 5호선" 5호선]] ||<#dcdcdc> [[wiki:"파리 트램 6호선" 6호선]] ||<#dcdcdc> [[wiki:"파리 트램 7호선" 7호선]] ||<#dcdcdc> [[wiki:"파리 트램 8호선" 8호선]] ||<#dcdcdc> {{{#dcdcdc }}} ||
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#bb4b9c '''파리 트램 2호선'''}}} ||
+||운영기관 ||파리교통공사(RATP)||
+||영업거리 ||17.9km ||
+||궤간 ||1435㎜ ||
+||역수 ||24 ||
+||차량 ||Citadis 302 ||
+||전기 ||직류 1500V ||
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/T2_Pont_de_Bezons_3b.JPG/800px-T2_Pont_de_Bezons_3b.JPG?width=650
+
+[[파리 트램]]의 한 노선으로 파리 트램 2호선은 남북 방향의 노선이다. 북쪽의 퐁 드 브종 (Pont de Bezons) 역으로부터 남쪽의 포르트 드 베르사유 (Porte de Versailles)역까지 운행한다. 이 노선은 [파리교통공사](RATP)가 운영한다.
+
+== 노선 ==
+attachment:/tram2.jpg?width=650
+
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 퐁 드 브종 || Pont de Bezons || 4 ||  ||  ||
+|| 파크 피에르 라그라베르 || Parc Pierre Lagravère || 3 ||  ||  ||
+|| 빅토르 바쉬 || Victor Basch || 3 ||  ||  ||
+|| 자클린 오리올 || Jacqueline Auriol || 3 ||  || ||
+|| 샤를부르 || Charlebourg || 3 ||  ||  ||
+|| 포벨르 || Les Fauvelles || 3 ||  ||  ||
+|| 포부르 드 라르쉬 || Faubourg de l'Arche || 3 ||  ||  ||
+|| [wiki:"라 데팡스(그랑드 아르슈)역" 라 데팡스(그랑드 아르슈)] || La Défense(Grande Arche) || 3 || {{{#ffcd09 ●}}} [[파리 지하철 1호선]] [[br]] {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#797fbc Ⓛ}}} [[트랑지리엥 L선]] [[br]] {{{#ed0677 Ⓤ}}} [[트랑지리엥 U선]] ||  ||
+|| 퓌토 || Puteaux || 3 || {{{#797fbc Ⓛ}}} [[트랑지리엥 L선]] [[br]] {{{#ed0677 Ⓤ}}} [[트랑지리엥 U선]] || ||
+|| 벨베데르 || Belvédère || 3 ||  ||  ||
+|| 쉬렌 롱샹 || Suresnes–Longchamp || 3 ||  ||  ||
+|| 레 코토 || Les Coteaux || 3 ||  ||  ||
+|| 레 밀롱 || Les Milons || 3 ||  ||  ||
+|| 파크 드 생 클루 || Parc de Saint-Cloud || 3 || {{{#e0b03a ●}}} [[파리 지하철 10호선]] || 도보 환승 ||
+|| 뮈제 드 세브르 || Musée de Sèvres || 3 || {{{#cec82b ●}}} [[파리 지하철 9호선]] || 도보 환승 ||
+|| 브랭보리옹 || Brimborion || 3 ||  || ||
+|| 뫼동 쉬르 센 || Meudon-sur-Seine || 3 || {{{#e8ce10 Ⓒ}}} [[RER C선]] || ||
+|| 레 물리노 || Les Moulineaux || 2 ||  || ||
+|| 자크 앙리 라르티그 || Jacques-Henri Lartigue || 2 ||  || ||
+|| 이시 발 드 센 || Issy-Val de Seine || 2 ||  ||  ||
+|| 앙리 팔망 || Henri Farman || 1 ||  ||  ||
+|| 수잔 렁글렌 || Suzanne Lenglen || 1 || {{{#c5a3cc ●}}} [[파리 지하철 8호선]] || 도보 환승 ||
+|| 포르트 디시 || Porte d'Issy || 1 ||  ||  ||
+|| 포르트 드 베르사유 || Porte de Versailles || 1 || {{{#028d5b ●}}} [[파리 지하철 12호선]] [[br]] {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+
+[[각주]]

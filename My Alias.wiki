@@ -1,0 +1,23 @@
+[[목차]]
+== 개요 ==
+|||| [[DJMAX 시리즈/수록곡 목록]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 작사, 작곡 || [[Dayz]] ||
+|| 보컬 || JW ||
+|| 비주얼 || [[PANAX]] ||
+|| 장르 || Emocore ||
+
+[[youtube(MF9xY60-tzI)]]
+
+온라인때 최초 등장하고 [[DJMAX Portable 2]]에서 다시 나온 곡이다. 포터블 2에서는 미션에서 '''정말''' 많이 등장하기 때문에 어떤 미션이든간에 유저들이 이것만 나오면 학을 떼는 경우가 많았다.
+
+BGA 내용은 [[로봇]][[소년]]의 탈출을 표현한 뮤직 비디오로 쫒기는 분위기에 어울리는 코어한 느낌의 사운드가 특징. BGA 및 곡의 이름 덕분에 애칭은 '''내 얼라'''.
+
+== [[DJMAX Portable 2]] ==
+{{{#!html
+<object style="height: 344px; width: 425px"><param name="movie" value="http://www.youtube.com/v/Qr4gKFrMzdI"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/Qr4gKFrMzdI" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></object>}}}
+
+다른 버튼에서의 난이도는 중급정도를 유지하고 있지만, 6버튼 MX의 경우 난이도가 꽤 높게 책정되어 있으며, 주 원인은 [[Road Of Death]]에서 한번 사용된 적이 있는 길고 긴 □○ 트릴의 향연. 다행히도 엄지로 정확히 처리하는게 거의 불가능하다시피한 로드 오브 데스와 달리 이쪽은 곡의 BPM이 낮은 편이라 충분히 엄지로 처리가 가능하다. 하지만 하다보면 오른손이 지치는 패턴인 것은 여전하다. 이러한 경향의 패턴은 후속작에 가서는 사라지게 된다.
+
+== [[DJMAX RAY]] ==
+6렙 최강곡. 초반부는 할만하나 후반부의 계단식 8노트나 연속 반대 방향 슬라이드 노트는 도저히 6렙으로 봐줄 수 없는 난이도. 체감 난이도는 8레벨 평균정도 된다.

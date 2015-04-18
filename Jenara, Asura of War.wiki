@@ -1,0 +1,16 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%><tablealign=center><-5><:>Alara Reborn의 전설적 생물||
+||<width=20%><:>나야||<width=20%><:>반트||<width=20%><:>준드||<width=20%><:>에스퍼||<width=20%><:>그릭시스||
+||<:>[[Uril, the Miststalker]]||<:>'''Jenara, Asura of War'''||<:>[[Karrthus, Tyrant of Jund]]||<:>[[Sen Triplets]]||<:>[[Thraximundar]]||
+
+||<tablewidth=100%>  '''영어판 명칭'''  ||  '''Jenara, Asura of War'''  ||<width=223px><|5>attachment:/Jenara.jpg||
+||  '''마나비용'''  ||  {G}{W}{U}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  전설적 생물 — 천사  ||
+||||<height=190px>비행[[br]][[br]]{1}{W}: Jenara, Asura of War 위에 +1/+1 카운터 한 개를 올린다.[[br]][[br]]''Wounded soldiers looked up, grateful for her appearance. But she passed over them, her eyes firmly on their foe.''||
+||  '''공격력/방어력'''  ||  3/3  ||
+||||  '''[[매직 더 개더링/블럭|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Alara Reborn  ||  미식레어  ||
+
+마나 3개에 3/3이라는 기본 공방은 꽤 절륜한 편이고, 비행이 붙었는데다가 가만히 놔두면 계속해서 마나를 먹고 커지기 때문에 생물 디나이얼로 필히 제거를 해야 한다. 게다가 방어력이 3이라서 [[Volcanic Fallout]]에도 한번에 안 죽는다. 전설적 생물이라서 한 마리밖에 못 나오긴 하지만 반트는 어차피 [[Rafiq of the Many]] 때문에 혼자서 달리는 경우가 많기 때문에 별로 상관이 없다. 반트덱의 새로운 주력 어택커.

@@ -1,0 +1,14 @@
+ * 상위항목 : [[창세기전 시리즈/기술]]
+
+[[창세기전 시리즈]]의 초필살기.
+
+{{{#!html
+<object id='mgoonPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='500' height='423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://play.mgoon.com/Video/V714251@0' /><param name='quality' value='high' /><param name='bgcolor' value='#000000' /><embed src='http://play.mgoon.com/Video/V714251@0' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' quality='high' bgcolor='#000000' width='500' height='423' name='mgoonPlayer' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' /></object>}}}
+
+>'''이것이야말로 이 란 님의 실력이라고!''' ~~빵! 빵빵! 빵!~~
+　
+[[창세기전 3 : 파트 2]]에 등장하며 [[란 크로슬리]]의 고유 초필살기이다.
+
+설정상 영력을 한 곳에 집중한 후에 빵빵 터트리며 공격하는 기술로 보인다. [[창세기전 3 : 파트 2]]의 모든 초필살기 중에서 5위 안에 들어갈 정도의 공격력과, 범위가 넓고 연타형 기술이라는 점에서 최고의 효율성을 자랑한다. 필요 soul치가 104밖에 안 되어 초필살기중에서 가장 낮은 축에 속하며, 자기중심형 전화면 공격인데다가 4회의 공격판정이 있다. 란을 열심히 키운 경우 적들은 2방 맞으면 사망하고, 란을 조금 덜 키운 경우에도 자코들 중에서 약간 강한 축에 드는 적들은 3방 안에 죽는다. 즉, 한두 번 미스가 나봐야 죽기는 마찬가지. 그야말로 흉악한 스킬이라고 할 수 있다. 그런데 연출이 참 썰렁하다. ~~빵 터지긴 하지만.~~
+
+란 자체가 별로 좋은 캐릭터가 아니라는 점과, [[베라모드]] 파티의 구성원 중에서 가장 먼저 빠진다는 점 때문에 실질적으로 사용할 수 있는 전투가 별로 없다. ~~[[wiki:"설렁탕을 사왔는데 왜 먹지를 못해" 기껏 경험치 모아 선 블래스트 찍어줬는데 왜 쓰지를 못해]]~~

@@ -1,0 +1,249 @@
+ * [[wiki:"Riot League Championship Series" 상위 항목]]으로
+ * '''이 항목은 [[LCS NA 스프링 2014]]로도 들어올 수 있습니다.'''
+
+[[목차]]
+= 개요 =
+ *리그 기간 : 2014년 1월 17일 ~ 
+ *리그 방식
+  *8개 팀 풀리그 진행(각 팀은 다른 팀과 4회씩 경기한다.)
+  *준 PO ~ PO 3전 2선승
+  *결승 5전 3선승
+ *순위 결정 방식
+  *풀리그 종료 시점에 동률이 나올 경우 상대 전적이 우세한 팀이 더 높은 순위를 얻게 된다.
+  *상대 전적이 같을 경우 순위결정전을 진행한다.
+ *특이사항
+  *1월 25일 경기부터는 [[나겜]]에서 LCS NA/EU의 중계권을 획득함에 따라 함께 한국어 해설을 들으면서 경기를 볼 수 있게 됐다.
+  *혼돈의 카오스인 유럽과는 달리 전반적으로 팀들간의 파워 랭킹이 명확한 편. 절대 2강으로 TSM과 C9가 군림하는 가운데 작년과 달라진 CLG가 3위를 굳건히 지키고 그 아래 Curse,Dignitas,Coast가 3중, 그리고 2약으로 EG,XDG가 자리잡고 있다.
+  *플레이오프는 4.5 버전으로 진행된다. 
+ *참가 팀 명단
+||<tablewidth=80%><tablealign=center><-5><:><#6799FF> 서머 시즌 시드 ||
+|| [wiki:"Cloud 9 Hyper-X" Cloud 9] || [[Counter Logic Gaming]] || [[Team Dignitas]] || [[Team Solomid]] || XDG Gaming ||
+||<-5><:><#86E57F> 프로모션 통과 팀 ||
+|| [wiki:"Evil Geniuses/리그 오브 레전드" Evil Geniuses] || Team Coast || [[Team Curse]] ||<-2> ||
+
+= 경기의 진행 =
+||<tablealign=center><-5><bgcolor=#EAEAEA><:>'''정규리그 순위'''||
+||<#dcdcdc> 순위 ||<#dcdcdc> 팀명 ||<#dcdcdc> 승리 ||<#dcdcdc> 패배 ||<#dcdcdc> 비고 ||
+||<rowbgcolor=#6799FF><:> 1 || Cloud 9 || 24 || 4 || ||
+||<rowbgcolor=#6799FF><:> 2 || Team Solomid || 22 || 6 || ||
+||<rowbgcolor=#86E57F><:> 3 || Counter Logic Gaming || 18 || 10 || ||
+||<rowbgcolor=#86E57F><:> 4 || Team Dignitas || 12 || 16 || ||
+||<rowbgcolor=#86E57F><:> 5 || Team Curse || 11 || 17 || ||
+||<rowbgcolor=#86E57F><:> 6 || Team Coast || 10 || 18 || ||
+||<rowbgcolor=#FFB2F5><:> 7 || Evil Geniuses || 8 || 20 || ||
+||<rowbgcolor=#FFB2F5><:> 8 || XDG Gaming || 7 || 21 || ||
+||<tablealign=center><-5> 하늘색:플레이오프 진출, 연두색:준플레이오프 진출[[br]]분홍색:프로모션 강등 ||
+
+== 풀리그 ==
+=== 1주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''1주차'''(2014.1.17~1.19)||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 승 || 패 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Cloud 9 ||
+=== 2주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''2주차'''(2014.1.25~1.26)||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Team Solomid  ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 승 || 패 || Counter Logic Gaming ||
+=== 3주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''3주차'''(2014.2.1~2.2)||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 패 || 승 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 패 || 승 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Cloud 9 ||
+=== 4주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''4주차'''(2014.2.8~2.9)||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 승 || 패 || Team Dignitas ||
+=== 5주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''5주차'''(2014.2.15~2.16)||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 패 || 승 || Team Solomid ||
+
+1일차에 CLG가 덱스터와 아프로무의 기가 막힌 활약으로 C9를 22k 골드차이로 관광보내 버렸다.
+=== 6주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''6주차'''(2014.2.22~2.23)||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 패 || 승 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 패 || 승 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 승 || 패 || XDG Gaming ||
+=== 7주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''7주차'''(2014.3.1~3.2)||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 승 || 패 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 패 || 승 || Team Coast ||
+
+TSM의 미드라이너 [[비역슨]]의 비자 문제로 인해 이번 주차에서는 비역슨 대신 레지날드가 대신 출전했다.
+1일차에서 XDG가 C9를 잡아내는 이변을 보여주었다.
+=== 8주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''8주차'''(2014.3.7~3.9)||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 패 || 승 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 승 || 패 || Evil Geniuses ||
+
+다음 주 IEM의 영향이 있는지 슈퍼위크로 잡혔고 일정이 많다. 비역슨의 비자 문제가 아직도 해결이 안됐기에, 8주차에도 TSM의 미드라이너로 레지날드가 출전했다. 그리고 대활약을 펼치고 4승 1패라는 매우 준수한 성적을 거두고 떠나셨다.~~은퇴후에 각성한 레지사장~~
+=== 9주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''9주차'''(2014.3.22~3.23)||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Evil Geniuses ||
+=== 10주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''10주차'''(2014.3.29~3.30)||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Team Coast ||
+
+10주차에는 7경기 Cloud 9의 미드 소라카란 독특한 픽으로 사람들의 이목을 끌었다.
+CLG는 단독 1위 TSM을 상대로 엄청난 경기력을 선보이면서 4연승을 가져갔다. 운영에서 전혀 밀리지 않는 타워 철거를 중점으로 하였고, 덱스터의 리신은 기막힌 인섹킥을 선보이면서 모두가 패배했다고 생각한 한타를 역전시켰다.
+=== 11주차 ===
+||<tablewidth=425px><width=50%><bgcolor=#EAEAEA><-4><:>'''11주차'''(2014.4.4~4.6)||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || XDG Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Coast || 패 || 승 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Team Dignitas ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Team Curse || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 패 || 승 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> Counter Logic Gaming || 승 || 패 || Evil Geniuses ||
+||<rowbgcolor=#FFFFFF><:> Team Solomid || 패 || 승 || Cloud 9 ||
+||<rowbgcolor=#FFFFFF><:> Team Dignitas || 패 || 승 || Counter Logic Gaming ||
+||<rowbgcolor=#FFFFFF><:> Evil Geniuses || 승 || 패 || Team Curse ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 승 || 패 || Team Solomid ||
+||<rowbgcolor=#FFFFFF><:> Cloud 9 || 승 || 패 || Team Coast ||
+||<rowbgcolor=#FFFFFF><:> XDG Gaming || 패 || 승 || Evil Geniuses ||
+
+C9의 Hai는 XDG에게 미드 소라카라는 카드를 다시 써서 승리를 가져갔다. CLG는 C9의 레넥톤과 소라카, 모르가나를 밴하며 첫 픽으로 쉬바나를 가져가면서 룰루와 카직스를 적에게 쥐어주는 기묘한 밴픽과 더블리프트의 하드캐리에 이은 하드쓰로잉으로 Cloud 9에게 패배하면서 4연승 행진을 마감했다. TSM은 EG에게 초반 인베이드로 챙긴 이득을 오드원과 다이러스의 쓰로잉으로 까먹지만, 신드라를 잡은 비역슨의 하드캐리로 EG를 꺾고 공동 1위를 수성했다.
+2일차 마지막 TSM vs C9 사실상의 1위 결정전에서 결국 C9가 승리했다. 미드 소라카의 강력한 딜탱과 오드원의 의아한 짤려먹히기, 그리고 경기의 행방을 가른 봇에서의 4:4 싸움에서 C9가 코르키의 폭딜로 이득을 챙기면서 C9가 단독 1위로 올라가게 되었다.
+3일차를 한마디로 요약하면 '''하위권의 반란'''. TSM이 8위 XDG에게 발목을 잡히고 EG가 Curse를 이기고, Coast는 C9를 압도하다가 마지막 미티오스의 녹턴이 백도어로 게임을 끝내버렸다. C9는 Coast에게 킬스코어로 매우 뒤지는 상황에서 계속 녹턴의 스플릿 푸쉬와 적절한 수비로 탈 북미급 운영을 보여주었고 결국 Coast가 스플릿에 휘둘리고 무리하면서 녹턴의 백도어로 승리를 가져갔다.
+TSM은 11주차의 급격한 경기력 하락으로 플레이오프 전망이 어두워졌다. 경기는 이기긴 했지만 다이러스와 오드원이 쓰로잉하는걸 비역슨이 겨우 캐리하는 그림이었기에 C9와 CLG 상대로 고전을 면치 못할거라는 예상이 나오고 있다.
+== 준플레이오프 ==
+||<tablewidth=300px><-8><:><#6799FF> 1경기 (2014. 04. 19.) ||
+||<width=40%><#6799FF><-3><:> [Counter Logic Gaming] ||<|2><:> '''2''' ||<|2><:> 0 ||<width=40%><#6799FF><-3><:> Team Coast ||
+|| 승 || 승 || - || 패 || 패 || - ||
+||<-3><#6799FF><:> '''플레이오프 진출''' ||<-2><:><#6799FF> '''결과''' ||<-3><#6799FF><:> 5/6위 결정전 강등 ||
+
+'''CLG. 작년과는 다르다!'''
+CLG가 깔끔하게 2승을 챙기면서 플레이오프 4강에 진출했다. 1경기에서는 니엔의 순간이동 잭스와 링크의 미드 소라카,덱스터의 녹턴 뿐만 아니라 항상 강력한 모습을 보여주는 바텀 듀오의 힘에 초반부터 엄청난 이득을 가져가고, 우위를 전혀 내주지 않는 스노우볼링으로 1경기를 승리했다.
+2경기에서는 초반에 Coast 미드 Shiphtur 르블랑의 로밍에 약간 불리한 상황을 맞았지만 기가 막힌 한타와 끊어먹기, 그리고  강력한 운영으로 역전승을 거뒀다.
+
+||<tablewidth=300px><-8><:><#6799FF> 2경기 (2014. 04. 19.) ||
+||<width=40%><#6799FF><-3><:> Team Dignitas ||<|2><:> '''2''' ||<|2><:> 0 ||<width=40%><#6799FF><-3><:> [Team Curse] ||
+|| 패 || 승 || 패 || 승 || 패 || 승 ||
+||<-3><#6799FF><:> 5/6위 결정전 강등 ||<-2><:><#6799FF> '''결과''' ||<-3><#6799FF><:> '''플레이오프 진출''' ||
+
+Dignitas는 Scarra가 복귀하면서 승리를 노렸지만 부족한 운영과 국지전 패배가 연달아 이어지면서 2패를 거의 비슷한 패턴으로 패배했다.
+== 플레이오프 ==
+||<tablewidth=300px><-8><:><#6799FF> 준결승 1경기 (2014. 04. 20.) ||
+||<width=40%><#6799FF><-3><:> [Team Solomid] ||<|2><:> '''2''' ||<|2><:> 1 ||<width=40%><#6799FF><-3><:> Counter Logic Gaming ||
+|| 패 || 승 || 승 || 승 || 패 || 패 ||
+||<-3><#6799FF><:> '''결승 진출''' ||<-2><:><#6799FF> '''결과''' ||<-3><#6799FF><:> 3/4위 결정전 강등 ||
+
+'''CLG, 작년과는 다르다 말았다'''
+1차전에서는 CLG가 4인 푸쉬메타에 적응을 무지막지하게 못한 TSM을 말그대로 찢어밟으면서 압승을 거뒀다.[* 이 경기 직후 CLG 탑솔러 니엔은 카메라에 대고 "easy"라고 말하는 자신감을 보였다. 그러나.,....] 2경기도 비슷한 양상으로 흘러가며 드디어 오랜만에 CLG가 다전제에서 TSM을 잡는구나라고 많은 북미팬들은 생각했지만, 필사적인 저항 끝에 엑스페셜이 점멸 + 사형선고로 링크의 오리아나를 낚아채고, 다이러스가 문도로 니엔의 잭스와 1:1에서 '''이기며''' 2경기를 필사적으로 뒤집었다.
+
+그리고 3경기에서는 TSM이 더블리프트의 신규 꿀챔 루시안을 밴하고 CLG의 주력 챔프였던 녹턴을 선픽해버리면서 CLG 멤버들은 적지않게 당황한 모습을 보였고, 결국 레인스왑 없이 라인전이 진행되었다. 그리고 다이러스가 니엔을, 비역센이 링크를 짓밟아버리며 다시 CLG를 꺾고 결승 진출.
+
+||<tablewidth=300px><-8><:><#6799FF> 준결승 2경기 (2014. 04. 20.) ||
+||<width=40%><#6799FF><-3><:> [Cloud 9] ||<|2><:> '''2''' ||<|2><:> 0 ||<width=40%><#6799FF><-3><:> Team Curse ||
+|| 승 || 승 || - || 패 || 패 || - ||
+||<-3><#6799FF><:> '''결승 진출''' ||<-2><:><#6799FF> '''결과''' ||<-3><#6799FF><:> 3/4위 결정전 강등 ||
+
+||<tablewidth=300px><-8><:><#6799FF> 5/6위 결정전 (2014. 04. 20.) ||
+||<width=40%><#6799FF><-3><:> Team Coast ||<|2><:> 1 ||<|2><:> '''2''' ||<width=40%><#6799FF><-3><:> Team Dignitas ||
+|| 패 || 승 || 패 || 승 || 패 || 승 ||
+||<-3><#6799FF><:> 프로모션 강등 ||<-2><:><#6799FF> '''결과''' ||<-3><#6799FF><:> '''5위''' ||
+== 결승전 ==
+||<tablewidth=300px><-8><:><#6799FF> 3/4위 결정전 (2014. 04. 21.) ||
+||<width=40%><#6799FF><-3><:> Counter Logic Gaming ||<|2><:> '''2''' ||<|2><:> 0 ||<width=40%><#6799FF><-3><:> Team Curse ||
+|| 승 || 승 || - || 패 || 패 || - ||
+||<-3><#6799FF><:> '''3위''' ||<-2><:><#6799FF> '''결과''' ||<-3><#6799FF><:> 4위 ||
+
+CLG가 Curse를 완벽하게 압살하면서 2승을 가져가 3위를 확정지었다. 하이라이트는 2경기 마지막에 더블리프트의 우물 다이브 펜타킬.
+
+||<tablewidth=300px><-12><:><#6799FF> 결승전 (2014. 04. 21.) ||
+||<width=40%><#6799FF><-5><:> Team Solomid ||<|2><:> 0 ||<|2><:> 3 ||<width=40%><#6799FF><-5><:> Cloud 9 ||
+|| 패 || 패 || 패 || - || - || 승 || 승 || 승 || - || - ||
+||<-5><#6799FF><:> 준우승 ||<-2><:><#6799FF> '''결과''' ||<-5><#6799FF><:> '''우승''' ||
+
+C9이 3경기 도합 킬스코어 56:3이라는 완벽한 경기력으로 TSM을 3:0 셧아웃 시키면서 우승을 차지했다. TSM은 비역슨을 비롯하여 모든 라이너들이 무력하게 무너지면서 완패했다. 
+= 총평 =
+
+'''C9의 북미 완전재패'''
+2013 Summer 시즌에 신성으로 등장하여 우승을 차지한 Cloud 9이 2014년 스프링 시즌에도 탈 북미급 운영과 더욱 강력해진 라인전을 바탕으로 2연속 우승을 차지했다.2013년의 모습보다 훨씬 발전한 C9에 대해 북미팬들의 기대가 계속해서 높아지고 있다. TSM은 북미 최고의 미드라이너라는 비역슨을 앞세워 우승을 노렸지만 결국 C9의 탄탄한 운영에 패배했다.
+
+'''XDG와 EG의 몰락'''
+저번시즌 3위를 기록하면서 시즌3 월드 챔피언십에도 진출했던 XDG가 8위라는 충격적인 성적을 받아들고 프로모션행을 일찌감지 확정지었다. 리빌딩 이후 미드라이너 Mancloud의 기량이 심각하게 떨어지고 전반적으로 팀워크가 삐걱거리면서 큰 위기를 맞았다. 당장 레딧에서는 챌린저 시리즈 1위팀인 LMQ가 올라올 것이다 라는 예상이 지배적이다. 그리고 그 예상은 현실이 되어, XDG는 LMQ의 3대떡 제물이 되고 말았다.
+
+'''CLG의 부활'''
+CLG가 전 레몬독스의 정글러 Dexter의 영입으로 강력해지면서 3위를 기록했다. 비록 TSM와 C9에게 각각 1승 3패라는 약간 부족한 성적을 거두긴 했지만 강력한 미드 정글, 그리고 북미 정상급이라 불리는 더블리프트/아프로무 듀오를 앞세워 다음 스플릿에는 충분히 상위권 성적을 노려볼만하다는 평이다. 현 탑솔메타에 적응을 못하던 니엔마저 벤치로 내려가 다음 시즌 더 좋은 성적을 기대하게 한다. 
+= 관련 항목 =
+ *[Riot League Championship Series Europe Spring 2014]
+ *[리그 오브 레전드 올스타 2014]

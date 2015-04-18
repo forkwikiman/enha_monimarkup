@@ -1,0 +1,33 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/zLtUuKnY-oU" frameborder="0" allowfullscreen></iframe>
+}}}
+[[동방프로젝트]] 어레인지 곡. 원곡은 [[동방신령묘]]의 디자이어 드라이브, 오랜 위안셴([[곽청아]]), 리지드 파라다이스([[미야코 요시카]]). [[키시다교단]]의 곡이다.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/hznQ_-7wpdE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/22/s187_jk_001_0136_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/22/s187_jk_001_0136_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/22/s187_jk_001_0136_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 10}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0591}}} || {{{#orange 0951}}} || {{{#ff009f 1148}}} ||
+|| 일러스트 담당 || {{{#purple TAQRO}}} || {{{#orange TAQRO}}} || {{{#ff009f TAQRO}}} ||
+|| 이펙터 || {{{#purple ミズタニ/A  }}} || {{{#orange ミズタニ/A }}} || {{{#ff009f Sammy/A}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 22(2012.12.21)}}} ||
+|| [[BPM]] |||||| 180 ||
+
+자켓은 앨범 '.JP'의 자켓이다.
+
+{{{#!HTML
+<iframe width="450" height="650" src="//www.youtube.com/embed/fux1xVTa8xc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+대체적으로 13 레벨인만큼 패턴이 적절하게 나오는데 중간에 '''노브 꺾기 함정이 들어있다!''' 갑툭튀 하기 때문에 그것만 주의하면 얼티밋 체인을 쉽게 노릴 수 있다.

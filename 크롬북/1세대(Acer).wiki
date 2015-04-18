@@ -1,0 +1,33 @@
+ * 상위 항목 : [[Acer]]
+
+||||||<tablealign="center"> [[Acer]] 제작 [[크롬북]] ||
+||<width=100px> '''1세대 크롬북''' ||<width=100px> [[크롬북/3세대(Acer)|3세대 크롬북]] ||<width=100px> [[Acer C710 크롬북]] ||
+|||| [[Acer C720 크롬북|Acer C720 & C720P 크롬북]] || ||
+
+||||<tablealign="center"> [[구글 크롬 OS]] 탑재 1세대 [[크롬북]] ||
+||<width=100px> [[크롬북/1세대(삼성)|삼성전자]] ||<width=100px> '''Acer''' || 
+
+||<tablealign="center"> attachment:/ACB1st_1.jpg?width=440 ||
+|| [[http://www.google.com/intl/en/chrome/devices/chromebook-acer-ac700.html 미국 구글 크롬북 Acer AC700 안내 사이트]] ||
+
+[[목차]]
+
+== 개요 ==
+[[Acer]]가 2011년 7월에 출시한 [[구글 크롬 OS|크롬 OS]] [[노트북 컴퓨터]].
+
+== 사양 ==
+||프로세서||[[Intel]] [[인텔 아톰 시리즈|Atom]] N570 Processor. Pineview 1.6 GHz [[CPU]], [[Intel]] GMA 3150 200 MHz [[GPU]] ||
+||[[메모리]]||2 GB DDR3 SDRAM, 16 GB 내장 [[SSD]], SDXC (최대 64 GB 지원) ||
+||[[디스플레이|디스]][[br]][[디스플레이|플레이]]||11.6인치 [[해상도/일람|HD]](1366 x 768) RGB 서브픽셀 방식의 LED Backlight LCD  ||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]][* 2G [[GSM]] 통신 모뎀도 포함되어 있는지는 알려지지 않았다.], [[Wi-Fi]] 802.11a/b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||--만 화소 HD 720p 촬영 가능 웹캠 ||
+||[[배터리]]||Li-Polymer ---- mAh - - Cell ||
+||[[운영체제]]||[[구글 크롬 OS]] ||
+||규격||-- x -- x -- mm, 1.45 kg ||
+||색상||블랙 ||
+||기타|| ||
+
+== 상세 ==
+[[구글]]의 또 다른 오픈소스 [[운영체제]]인 [[구글 크롬 OS]]를 사용한 1세대 [[크롬북]] 중 하나다.
+
+비슷한 시기에 출시된 [[크롬북/1세대(삼성)|삼성 1세대 크롬북]]과 사양이 비슷하다.

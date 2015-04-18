@@ -1,0 +1,36 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 작곡 || [[Ruby Tuesday]] ||
+|| 작사 || LEAH ||
+|| 보컬 || LEAH ||
+|| 비주얼 || [[Armcho]] ||
+|| 장르 || J-Rock 8090 ||
+
+ {{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/Fu9eX0mH9M4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Fu9eX0mH9M4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+ 
+DJMAX Portable 2에 수록된 곡으로, [[ABBA]]와 같은 여성 보컬을 메인으로 내세우던 80년대 댄스음악의 느낌을 살리려고 했다는 의도로 만든 곡.
+
+본래 보컬은 [wiki:보아 BoA]가 될 예정이었으나, 여러 가지 사정으로 인해 무산되고 [[Stay with me]], 후에 [[Ready now]], [[Here in the Moment]] 등의 보컬을 맡은 LEAH가 보컬을 담당하였다.
+ 
+기존의 Ruby Tuesday가 작곡했던 곡들의 특징인 '무난한 난이도, 패턴'의 컨셉을 그대로 잇고 있는 곡 중 하나. 부담없이 플레이하기에 좋은 곡이다.
+
+그런데 [[TAP SONIC]]에서는 예외다! DJMAX 6레벨 곡들 중 6레벨 보스곡의 위엄을 보여주고 있다. 은근히 멀티태스킹이 까다로운 패턴. 마지막까지 방심할 수가 없다.
+
+=== [[DJMAX RAY]] ===
+
+|||||||||| [DJMAX RAY]의 Next Wave 팩 수록곡 ||
+|| [[Someday]] || [[Love is Beautiful]] || '''Good Bye''' || [[In my Dream]] || [[Dark Ages]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 5 || ||
+||<#0000FF> {{{#white HD}}} || 7 || ||
+||<#FF0000> MX || 8 || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/P84qaEFh-Ek" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[추가바람]]

@@ -1,0 +1,123 @@
+[[목차]]
+
+== 영단어 ==
+[[스텝]] 항목 참조.
+
+== [[wiki:"카라(아이돌)" 카라]]의 정규 3집 이름이자 타이틀곡 ==
+{{{#!HTML
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/zYoYoBtLqOY?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/zYoYoBtLqOY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+STEP의 뮤직비디오. --DSP가 아주 오랜만에 돈을 썼다.--
+자세한 사항은 [[카라/음반 목록]] 참조.
+
+~~가사의 Step It Up이 [[사필없]]으로 들린다. 점핑이 [[조필연]]으로 들린 것처럼~~
+
+--[[성시경]]의 이 시대 최고의 댄스곡 <미소천사> 안무와 미칠 듯한 싱크로율을 자랑한다고 한다.--[* 111006 [[엠넷]] 비틀즈코드에서 언급되었다. --성시경 : "안돼↗에↘ 엠넷이 노래방에 저걸 팔았어" 슈발 ㅠㅠ--]
+
+일본에서 정식 싱글발매는 되지 않았지만 레코초쿠(일본 최대 모바일 음악사이트) 데일리 음원차트에서 1위를 했다.
+
+카라가 나온 [[기아 프라이드]] 인쇄광고는 이 곡의 컨셉으로 촬영되었는데, 주로 2011년 [[서울 지하철 9호선]]에서 인쇄광고 버전을 볼 수 있었다.
+
+2011년 12월 24일 [[2AM]]이 단독콘서트에서 이 곡 댄스를 --깝으로-- 커버했다. --[[OME]]!--
+
+{{{#!HTML
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/jhP1ZA62W_c?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/jhP1ZA62W_c?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>}}}
+--흔한 발라드 그룹의 댄스 퍼포먼스.avi--
+
+가요곡 중에선 드물게(사실 거의 유일하게) 한 곡이 두 리듬게임에 수록된 곡이다.[* 동 그룹의 다른 곡 [[Mister]]도 달성.] 아래에 보다시피 DJMAX 시리즈에서 먼저 수록되었고, 그 다음에 [[wiki:"펌프 잇 업/FIESTA 2" 펌프 잇 업 피에스타 2]]에도 수록.
+
+SBS 수목드라마 [[wiki:"너목들" 너의 목소리가 들려]] 4회에서 극중 차관우 변호사([[윤상현]] 분)의 휴대전화 벨소리로 사용된 적이 있다.[* 그 후 [[한승연]] 본인이 자신의 트위터에서 "법원의 스텝은 찰지네요 잇힝(...)"라고 언급했다.]
+
+=== [[DJMAX 시리즈]] 에서의 STEP ===
+
+|| 최초 수록 버전 || [[DJMAX TECHNIKA 3]] ||
+|| 작곡 || [[Sweetune]] ||
+|| 장르 || [K-POP] ||
+
+==== [[DJMAX TECHNIKA 3]] ====
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 250 Max || 3 || || ||
+||<#FFFF00> Normal || C || 250 Max || 4 || 4박 스크롤 || [wiki:"Christmas Special Mission"Christmas Special Mission - Christmas Special EASY] 수록 ||
+||<#0000FF> {{{#white Hard}}} || B || 1000 Max || 5 || 4박 스크롤 || [[Boy Meets Girl Set]] 셀렉곡 ||
+||<#FF0000> Maximum || A || 3000 Max || 7 || 4박 스크롤 || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/VZ5RMJJdXEk" frameborder="0" allowfullscreen></iframe>}}}
+
+(MX 패턴 영상)
+
+--[[wiki:"리듬게임" 리겜]]도 하고, [[wiki:"Kamilia" 카덕]]질도 하고...--
+컷팅버전은 후반부에 기타가 메인이 되는 부분을 컷팅해서 락과 일렉트로니카의 접합이 좀 애매해졌다. --이게 다 시간 때문이다.--
+
+팝믹싱을 선택하면 1 스테이지 맨 첫 번째에 있다. [[wiki:"유비트 코피어스" 옆나라 리겜]]의 [[헤비 로테이션]]같은 포지션으로 밀고 나가려는 듯.[* 이 곡 외에도 [[wiki:"Lupin" 루팡]], [[Mister]], [[Jumping]], [[Pretty Girl]]도 각 스테이지 맨 앞쪽에 위치하고 있다.] 게다가 테크니카는 항상 첫 번째 곡을 먼저 보여주니까 지속적인 효과가 있다.
+
+NM HD 패턴은 평범하지만, MX패턴은 Original Ver의 HD패턴에서 가져온 특이한 패턴이 있다.
+
+==== STEP Original Ver. ====
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> Normal || 5 || ||
+||<#0000FF> {{{#white Hard}}} || 7 || ||
+||<#FF0000> Maximum || 9 || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/SbrUk9vN7UQ" frameborder="0" allowfullscreen></iframe>}}}
+
+(MX 패턴 영상)
+
+3차 업데이트로 오리지날 버전이 공개되었다. 라이센스곡임에도 불구하고 기본공개가 아닌 해금디스크로 등장.
+
+NM패턴은 단순하지만, HD패턴과 MX패턴이 상당히 참신하고 당황스러운 패턴이 산재해 있다. 특히 MX패턴은 '''이런 대중적인 곡에서 이런 패턴을 만들어 내다니!''' 라고 느낄정도로 어렵다.[* 사실 테크니카 시리즈는 특성상 노트를 조금만 꼬아놓아버려도 난이도가 급상승해버린다.] 특히 최후반부에 꼬아놓은 보라노트는... [[더 이상의 자세한 설명은 생략한다]].
+
+여담으로 원곡과 100% 똑같지는 않다. 2절 끝나고 니콜의 랩이 나오는 바로 직전부분에 꺄오 하며 고함 지르는 부분이 후~ 로 바뀌어있다. --Original Ver 라며--
+
+펌프와 나름 세션플레이가 가능하다.[* Original Ver.만 해당. 숏버전은 편집 위치가 달라서 세션 할 수 없다.]
+
+==== [[DJMAX TECHNIKA TUNE]] ====
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 4 || ||
+||<#FF0000> CLUB || 5 || [[Vital Dance Set]] 셀렉곡 ||
+
+=== [[펌프 잇 업]] 에서의 STEP ===
+ * 상위 항목 : [[펌프 잇 업/수록곡 일람]]
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/FIESTA 2" Pump it up 2013 FIESTA 2]] ||
+|| 아티스트 |||| [[wiki:"카라(아이돌)" 카라]] ||
+|| BPM |||| 123 ||
+|| 비주얼 |||| - ||
+|| 채널 |||| K-POP / FIESTA 2 ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/FIESTA 2" FIESTA 2] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 2 / 4 / 7 / 15 ||
+||<#009900> Double || 5 / 15 / 16[* 뮤직 트레인 한정 채보, 차후 1.50 패치로 아케이드에서도 플레이할수 있다.] ||
+||<#F77FBE> Single Performance || 2 ||
+||<#87CEEB> Double Performance || 4 ||
+||<|2> Full Song ||<#ff8c00> Single || 15 ||
+||<#009900> Double || 17 ||
+
+[[wiki:"펌프 잇 업/FIESTA 2" Pump it up 2013 FIESTA 2]]의 수록곡.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/RaFwKxotfNg?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/RaFwKxotfNg?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+싱글 7 & 싱글 15 채보 영상
+
+앞에서도 말했듯이 테크니카와 구간이 다르다.
+
+== AMEDEO 사의 [[여성향 노멀 게임]] ==
+이쪽은 느낌표가 붙는다.
+[[STEP! ~두 사람의 관계는 한 걸음씩~]] 항목 참조.
+
+== [노바2]전용 중형 다리 '''쉐도우스텝''' ==
+ '''미러나이프'''와 세트인 부품으로 은신이 있는것이 특징이다. 공격시 풀리기하지만 중형다리부품치고는 스키니 진처럼 쫙빠진 다리가 인상적이고 이름답게 닌자, 자객스러운 디자인이다. 등급은 당연히 레어
+
+== 유비트 시리즈의 [[유비트 프롭/Step|Step]] ==
+[[유비트 프롭/Step|항목]] 참조

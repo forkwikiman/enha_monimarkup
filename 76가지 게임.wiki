@@ -1,0 +1,132 @@
+http://images.wikia.com/bootleggames/images/0/0c/76in1Menu.png
+
+[[목차]]
+
+
+== 개요 ==
+[[64가지 게임]], [[52가지 게임]]과 함께 [[패미컴]] [[합팩]] 중에서 양심적인 것으로 유명한 팩. 여러가지 명칭으로 불리웠지만, 이 문서에서는 '''76가지 게임'''이라는 명칭으로 항목을 작성한다.
+
+일단 화면 하단에 TSANG HAI가 1990년에 제작했다고 나와 있기는 한데, 발매 자체는 다른 합팩들을 자주 다루던 대만계 회사 Supervision에서 발매하였다고 한다. 어차피 자신들의 정체를 밝혀서 좋을 게 하나도 없는 해적판 시장에서 카피라이트 표기는 의미가 없고, 저 표기는 그냥 훼이크일 가능성이 높다.
+
+이 합팩의 가장 특징적인 부분이라면 놀랍게도 76가지나 되는 게임 중에서 '''단 하나도 겹치는 게임이 없다'''는 점이다. 롬 파일 콜렉팅을 해보거나 여러 합팩을 본 사람들은 믿기 힘들지도 모른다. 이렇게 수록 게임 수가 많은데도 단 하나의 게임도 겹치지 않는다니! [http://bootleggames.wikia.com/wiki/Supervision_76-in-1 부틀렉게임 위키]에 따르면 이 팩이 현재까지 알려진 가장 많은 수의 중복되는 게임이 없는 [[합팩]]이라고 한다.[* 2000년대 후반기쯤 'Coolboy' 브랜드를 가지고 나온 합팩들이 100개, 200개를 훌쩍 넘기다가 마침내는 무려 403개나 되는 게임을 수록하고 나온 적이 있기 때문에, 단순히 역사상 게임이 가장 많이 들어 있는 패미컴 합팩을 따지자면 이 합팩은 밀려나게 된다. '''중복이 없는''' 합팩 중에서 가장 많은 것이다. 저 괴물같은 합팩들은 같은 게임의 해킹 버전이나 다른 버전을 집어넣는 등 중복이 '''아주 약간''' 있긴 있어서 중복이 없다는 타이틀을 달지는 못하지만 사실상 거의 없다고 봐도 될 수준이며, 덤프를 해봤더니 용량이 '''32MB'''나 나오는 [[충격과 공포]]의 볼륨을 자랑한다. 참고로 본 76합팩의 용량은 2MB였다. 물론 시대가 많이 차이난다는 점을 감안해야겠지만…] 패미컴 초기 시절의 저용량 게임이 목적이라면 이것만으로도 거의 다 해결될 수준이며, 오바케의 Q타로라든가 두뇌전함 갈 같이 다른 후기 합팩에서도 찾아보기 힘든 꽤 레어한 게임도 있다.
+
+또한 [[글리치]] 등으로 인해 리셋을 하거나 껐다 켜거나 하다보면 랜덤하게 42-in-1 모드로 바뀐다. 별개로 존재하는 42-in-1 합팩과는 게임 메뉴나 그래픽이 또 다른 오리지널 모드라고 한다. 에뮬레이터에서는 앞에 네 페이지의 42개 게임 중 하나를 고른 후에 소프트 리셋을 하면 바로 42-in-1 메뉴로 바뀐다. 한국의 패미클론중 하나이던 슈퍼콤에는 이쪽의 42-in-1 모드를 내장했었다.[* 따로 나왔던 합팩인 63-in-1에서는 76-in-1의 5장과 6장(7번과 8번 제외), Tengen제 테트리스가 추가되었다. 또한 42-in-1 메뉴에서 나왔던 [[브금]]이 삭제되었다.]
+
+http://pds19.egloos.com/pds/201110/12/87/c0021487_4e958948e5ea0.png
+
+{{{#!html 
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/GLJ1AA_z3C0?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GLJ1AA_z3C0?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+== 게임 목록 ==
+실제 게임을 할 때 고르기 쉽도록 페이지 단위로 끊어서 목록을 살펴보자.
+저작권 등의 문제로 제목이 바뀐 경우는 뒤에 있는 괄호 안의 제목이 원래 게임의 제목이니 참고하자.
+
+
+=== page 1 ===
+
+1. Pin Ball (Pinball, 닌텐도 제 [[핀볼]])
+2. [wiki:"어반 챔피언" Urban Champion]
+3. Dig Dug 
+4. [wiki:"익사이트 바이크" Excite Bike]
+5. Mabby ([wiki:"마피" Mappy]) 
+6. Circus Chablie ([wiki:"서커스 찰리" Circus Charlie]) 
+7. [wiki:"마리오 브라더스" Mario Bros]
+8. [wiki:"슈퍼 마리오 브라더스" Super Mario]
+9. Keykong Jr (Donkey Kong 3, 제목과 다르게 동키콩 2에 해당하는 [wiki:"동키콩 Jr" 동키콩 쥬니어]가 아니다) 
+10. Tennis (닌텐도 제 [[테니스]])
+
+
+=== page 2 ===
+
+1. Pengun Adventure ([wiki:"남극탐험" Antarctic Adventure]) 
+2. Macross ([wiki:"초시공요새 마크로스" Choujikuu Yousai Macross]) 
+3. Kung Fu ([wiki:"이얼 쿵후" Yie Ar Kung-Fu]) 
+4. Combat (Field Combat) 
+5. F1 Race - 닌텐도 제 'F-1 레이스'
+6. [wiki:"로드 파이터" Road Fighter]
+7. [wiki:"엑스리온" Exerion]
+8. [wiki:"트윈비" Twin Bee]
+9. [wiki:"스타포스" Star Force]
+10. Formation 2 ([wiki:"포메이션 Z" Formation Z]) 
+
+
+=== page 3 ===
+
+
+1. B Winges ([wiki:"비윙즈" B-Wings]) 
+2. [wiki:"아이스 클라이머" Ice Climber]
+3. Baltle City ([wiki:"배틀 시티" Battle city]) 
+4. Mahjong 4 (4 Nin Uchi Mahjong - 닌텐도 제 4인 마작) 
+5. [wiki:"봄버맨" Bomber Man]
+6. Pack Man ([wiki:"팩맨" Pac-Man]) 
+7. Galaza ([wiki:"갤러그" Galaga]) 
+8. [wiki:"프론트라인" Front Line]
+9. [wiki:"저스트" Joust]
+10. [wiki:"뽀빠이" Popeye]
+11. Milk And Nuts ([wiki:"너츠 앤 밀크" Nuts & Milk]. 리스트엔 제목이 뒤집혀 있으나 실행해 보면 제목이 정상적으로 나온다. ~~[wiki:"러시아식 유머"소련에서는 밀크가 너츠를 방해합니다!!]~~)
+
+
+=== page 4 ===
+
+1. [[1942]]
+2. [wiki:"오셀로" Othello]
+3. Lode Runner 2 (Championship Lode Runner)
+4. [wiki:"로드러너" Lode Runner]
+5. Baseball (닌텐도 제 [[야구]])
+6. [wiki:"루나 볼" Lunar Ball]
+7. Ninja ([wiki:"잇키" Ikki]) 
+8. Millipecle (Millipede)
+9. Arabian (Super Arabian)
+10. Ballon Fight ([wiki:"벌룬 파이트" Balloon Fight])
+11. [wiki:"채큰 팝" Chack'n Pop]
+
+
+=== page 5 ===
+
+1. [wiki:"갤럭시안" Galaxian] (타이틀이 Abeille라고 나옴) 
+2. [wiki:"스카이 디스트로이어" Sky Destroyer]
+3. Mahjong 2 (Mahjong) 
+4. Devil World 
+5. [wiki:"바이너리 랜드" Binary Land]
+6. [wiki:"푸얀" Pooyan]
+7. Warpman 
+8. [wiki:"동키콩" Donkey Kong] (타이틀이 Keykong으로 나옴) 
+9. Donkey Kong 2 ([wiki:"동키콩 Jr" Donkey Kong Jr.]) 
+10. Helicopter ([wiki:"번겔링 만 공격작전" Raid on Bungeling Bay]) 
+11. Ninja 2 (Ninja-Kun) 
+
+
+=== page 6 ===
+
+1. Clu Land (Clu Clu Land) 
+2. [wiki:"시티 커넥션" City Connection]
+3. Burger Time 
+4. Golf (닌텐도 제 [[골프]])
+5. Gobang ([[오목]]) 
+6. Wrestle ([[근육맨]]:머슬 태그매치, 서양엔 M.U.S.C.L.E.로 알려짐) 
+7. Star Juster ([wiki:"스페이스 인베이더" Space Invaders]. 메뉴에 나오는 제목은 Star Luster의 오기로 보임) 
+8. [wiki:"카라테카" Karateka]
+9. [wiki:"오리사냥" Duck Hunt]
+10. Wild Gunman 
+11. Hogan Alley (Hogan's Alley) 
+
+
+=== page 7 ===
+
+1. Mach Rider - 걸작 액션 레이싱 게임
+2. King of Ghost (Obake no Q Tarou: Wan Wan Panic) 
+3. Gyrodine 
+4. Ninja 3 ([wiki:"꾸러기 닌자 토리" Ninja Hattori-Kun]) 
+5. Mag Max
+6. Spartan ([wiki:"스파르탄 X" Spartan X]) 
+
+
+=== page 8 ===
+
+1. Wrecking Crew 
+2. [wiki:"엘리베이터 액션" Elevator Action]
+3. [wiki:"제비우스" Xevious]
+4. [wiki:"알카노이드" Arkanoid]
+5. Galg ([wiki:"두뇌전함 갈" Zunou Senkan Galg]) 
+6. Tetris 2 (Tengen Tetris, 1990년에 새로 나온 게임처럼 타이틀이 개조되어 있음) 

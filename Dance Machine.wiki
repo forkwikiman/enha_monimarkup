@@ -1,0 +1,77 @@
+[[목차]]
+|| 장르 |||||||| House ||
+|| 곡명 |||||||| Dance Machine ||
+|| 작곡 |||||||| [[Sonic A.P.E]] ||
+|| 배경 |||||||| DOS 11[{:]]35 ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| 리믹스 수록버전 |||||||| [[EZ2DJ 7th 2.0]] ||
+|| BPM |||||||| 150 ||
+|||||||||| 모드별 레벨 데이터(원곡) ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 3}}} || {{{#red 7}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* AEIC까지의 루비 하드 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨. EC 이후에 존재하는 루비 하드 패턴과는 다소 다르다.] || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 6}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='g2Duh5ALm00$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=g2Duh5ALm00$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=g2Duh5ALm00$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''BGA'''
+
+== 개요 ==
+[[EZ2DJ 6th]]의 수록곡. 음악은 좋다는 평을 듣고 있는 6th의 곡 중에서도 돋보이는 곡으로, 이집트풍의 BGA도 인상적이다. 
+
+== 패턴 ==
+6th의 패턴들이 대개 표기 난이도에 비해 쉬운 난이도를 지닌 반면 이 곡의 패턴들은 쉴 틈없이 나오는 페달과 꽤 까다로운 노트 덕분에 표기 난이도와 실제 난이도가 얼추 맞는다.
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+턴테이블 모드에서는 정직하게 16비트 1자배치로 이루어진 극히 평범한 곡 중 하나. 5키 NM패턴을 생각하고 덤빈다면 쉽게 클리어할 수 있지만, 곡 자체 BPM이 조금 빠른지라 손이 빨리 움직여야 하는 편. 
+
+== Dance Machnie -YK Edit- ==
+|||||||||| 모드별 레벨 데이터(리믹스) ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange }}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 11 }}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+[[EZ2DJ 7thTRAX Ver 2.0|7th 2.0]]에서는 [[yak_won]]이 편곡을 새롭게 한 버전을 선보였다. 채보를 바꾼 것 이외에도 주 선율에 쓰이는 신디사이저의 음색을 좀 더 날카로운 음색으로 바꾸었으며 후렴구를 한 마디 늘려서 곡 길이를 길게 하였다.
+
+[[EZ2DJ AEIC]]에 오면서 yak_won 채널의 곡들이 모두 스트릿으로 독립되면서 이 곡도 2.0의 항목에 들어가게 되었다. 이로 인해서 7th 이후 올송을 걸면 이 곡도 등장한다.
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/P6bYEi6Xpx4?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/P6bYEi6Xpx4?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+
+기존 NM 패턴에 비해서는 기습형 패턴들로 구성되어 있다. 실제로 그렇게 어려운 구간은 많지 않고 패턴도 찰진 편이다. 다만, 역시 곡 빠르기가 좀 되기 때문에, 정신줄 놓지 말고 잘 보고 연주하도록 하자.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/vqnpD3C03Zo?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+NM MIX
+
+편곡판의 턴테이블 패턴은 노올송 시 1스테이지에 나오며, Lv.11. 원곡과 마찬가지로 NM 패턴을 생각하면서 연주하면 되지만, 1자연타 위주였던 원곡과는 달리 2연타 계단과 동시치기의 비중이 매우 높으므로 간접 미스가 안 뜨도록 조심하자.

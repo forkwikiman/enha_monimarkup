@@ -1,0 +1,28 @@
+{{{#!HTML
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/uQv9LQRnGyY&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/uQv9LQRnGyY&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 장르 || Scool Rock ||
+|| 작사, 작곡 || [[Nauts]] ||
+|| BPM || 170 ||
+|| BGA || [[Pinko]] ||
+
+약칭은 '''선셋''' 또는 '''선라'''.
+
+[[DJMAX Portable 2]]부터 수록된 곡. 장르 표기명은 스쿨 락이라는 장르명으로 표기되어 있으나, 그것보다는 전체적으로 제목과 비주얼에 걸맞는 분위기의 곡. 시원하게 도로를 달리는 듯한 느낌으로 즐길 수 있는 곡이다. 경쾌하고 빠른 곡이지만 난이도가 높지 않아 어렵지 않게 즐길 수 있어 초급 플레이어들이 많이 선택하는 곡이다.
+
+작곡가가 [[테일즈위버]] BGM의 상당수를 작곡한 [[Nauts]]라 듣다보면 어디선가 테일즈위버 BGM의 향기가 느껴진다. 사용한 악기라든가.
+
+attachment:dmp2demo.jpg
+DJMAX Portable 2 체험판에 수록된 곡이었다.
+
+[[켠김에 왕까지]]에서 최종보스로 등장하기도 했다.(?)[* 원래는 [[BlythE]]가 최종보스가 될 뻔했으나 계속 실패하자 결국 이 곡으로 끝냈다.]
+
+[[TAP SONIC]]에서도 6라인 레전드 7레벨이지만 7레벨 치고 쉬운 편에 속한다.
+
+[[DJMAX RAY]]에서는 똑같이 MX 패턴이 7레벨로 나왔는데 ~~탭소닉에서 7레벨 물렙 취급받은 게 분했는지~~ 여기서는 7레벨 개사기곡으로 나왔다! 아무리 봐도 8레벨 중반 정도.
+
+여담으로 이 곡을 시작으로 [[DJMAX 시리즈]]에 제공되는 [[Nauts]]의 음악들은 모두 [wiki:"Streetlight"편안하게] [wiki:"EGG(DJMAX)"들을 수 있는] [wiki:"alone"곡들로] 구성된다.
+
+~~[[선셋 라이더스]]와 헷갈리면 심히 골룸하다.~~

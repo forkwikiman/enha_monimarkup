@@ -1,0 +1,28 @@
+[wiki:"../" '마작의 역'으로 돌아가기]
+
+||<tablebgcolor="#EDEDED">※ 이 문서는 국표마작의 역을 설명하고 있습니다.||
+
+[[목차]]
+
+=== 취안다이야오주(全带幺九;전대요구;Outside Hand) ===
+모든 뚜이쯔와 먼쯔에 자패나 1,9의 수패가 하나 이상 들어가 있는 역.
+
+attachment:/1wan.gif attachment:/2wan.gif attachment:/3wan.gif attachment:/7wan.gif attachment:/8wan.gif attachment:/9wan.gif attachment:/7pin.gif attachment:/8pin.gif attachment:/9pin.gif attachment:/sha.gif attachment:/sha.gif
+attachment:/9souy.gif attachment:/9sou.gif attachment:/9sou.gif
+여담으로, [wiki:"마작의 역/2점역#s-5"핑후]가 붙는 '취안다이야오주'는 반드시 8점 이상이 된다.
+=== 부추런(不求人;불구인;Fully Concealed Hand) ===
+먼첸 상태를 유지한 채로 쯔모로 후를 했을 때, '부추런'이 성립, 4점을 받게 된다.
+당연히 '쯔모' 점수는 따로 받지 않는다.
+
+단, '취안부카오' 계열의 역이나 '치두이', 그리고 '시산야오주' 같은 역의 경우 쯔모로 나도 이 역이 성립되지 않고, 대신 '쯔모' 점수를 받게 된다.
+=== 솽밍강(双明杠;쌍명공;Two Melded Kongs) ===
+밍깡이 두 개 있거나, 밍깡, 안깡이 각각 한 개씩 있으면 4점을 받게 된다.
+이 역이 성립하면 '밍강'의 점수는 계산되지 않지만, 만약 후자(밍깡1개와 안깡1개)의 형태로 솽밍강을 만들면 '안강' 2점은 계산된다.
+
+attachment:/3wan.gif attachment:/3wan.gif attachment:/3wany.gif attachment:/3wan.gif
+attachment:/pe.gif attachment:/pey.gif attachment:/pe.gif attachment:/pe.gif
+혹은,
+attachment:/pey.gif attachment:/pe.gif attachment:/pe.gif attachment:/pe.gif
+attachment:/ura.gif attachment:/ura.gif attachment:/ura.gif attachment:/ura.gif
+=== 후줴장(和绝张;화절장;Last Tile) ===
+같은 패 3개가 이미 버려지거나 불러지거나 해서 작탁 위에 앞면으로 공개된 상태에서 (당연히 안깡은 제외된다.) 이 마지막 4번째 패로 후를 할 경우 4점을 받게 된다.

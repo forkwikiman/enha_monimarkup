@@ -1,0 +1,48 @@
+~~[wiki:"포탈(게임)" 포탈]이나 [[글라도스]]와의 [wiki:"Still Alive" 연관점]은 전혀 없다.~~
+[UTAU] [셋카 유후]의 [[wiki:"UTAU#s-3"오리지널 곡]], 또는 BMS
+작곡은 [BMS]계열에서 활동하고 있는 FALL.
+속삭이는 듯한 세츠카 유후 특유의 목소리가 잘 살아 있다.
+
+BMS버전은 초고속 BMS 이벤트인 EXTREMEBEAT 이벤트로 출품되었다. 
+
+{{{#!html
+<object id='egloosPlayer' name='egloosPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00' width='480' height='400'><param name='movie' value='http://v.egloos.com/v.sk/egloos/f0045238|1680314/20100406140400004638621701' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><param name='flashvars' value='useCodePage=0&enableJS=0' /><embed src='http://v.egloos.com/v.sk/egloos/f0045238|1680314/20100406140400004638621701' name='egloosPlayer' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' width='480' height='400' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' flashvars='useCodePage=0&enableJS=0' /></object>
+}}}
+
+ * 원본영상 http://www.nicovideo.jp/watch/sm9774361 
+ * 가사
+
+Still Alive In Love
+
+テレビの向こう側 ショウタイムの幕切れ
+TV의 반대편 쇼타임의 막바지
+笑顔で引鉄を弾いたラストシーン
+미소 지으며 방아쇠를 당긴 마지막 장면
+
+僕はまだ知らない あのクイズの答え
+나는 아직 모르는 그 퀴즈의 답
+バスルームで夢を見てた午前3時
+목욕탕에서 꿈을 꿨던 오전 3시
+
+モノクロに染まる四角いキャンパスを蹴飛ばして
+흑백으로 물드는 사각형 캔버스를 차버리고
+さあ走りだせ！星の彼方へと！
+자 달려가자! 별의 저편으로!
+
+恋してるとか好きだとか 君に贈る言葉探す
+사랑한다든가 좋아한다든가 그대에게 보낼 말을 찾아
+コーヒーにミルクを入れて こぼさないように飲み込んだ
+커피에 우유를 넣고 흘리지 않도록 마셨어
+君が好きな歌口ずさみ 公園通りを歩いてく
+그대가 좋아하는 노래 흥얼거리며 공원근처를 걸어가
+カメラのレンズ覗き込む
+카메라의 렌즈를 들여다봐
+知りたいのはホントのことさ
+알고 싶은 것은 "진심"이야
+
+
+이 곡은 이후 SevenRingUnion[* FALL과 Est의 합작 유닛. 다만 아래 곡의 경우 FALL의 셀프리믹스를 Est가 리어레인지해 BMS로 만들었다.]의 리믹스로 다시 만들어지기도 했다.
+
+{{{#!html
+<iframe src="http://player.vimeo.com/video/35300059?byline=0&amp;portrait=0" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+}}}

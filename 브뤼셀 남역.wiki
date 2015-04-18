@@ -1,0 +1,44 @@
+http://www.kelbillet.com/images/train/thalys/bruxelles_gare_midi.jpg?width=600
+
+ * [[역 관련 정보]]
+
+|||| Gare de Bruxelles-Midi[[br]]Station Brussel-Zuid[[br]]Brussels-South Station ||
+|| 개업 || 1952년 ||
+|| 주소 || Avenue Fonsny 48[[br]]1060 St-Gillis, Belgium ||
+|| 역코드 || FBMZ ||
+|| IATA 코드 || ZYR ||
+|| 관리 || SNCB/NMBS ||
+|| 소유 || SNCB/NMBS ||
+|||| [http://www.b-rail.be/corp-r/F/history/stations/monuments/brussels/index.php 프랑스어 홈페이지] ||
+
+[[목차]]
+== 개요 ==
+[[벨기에]] [[브뤼셀]]의 철도역. [[브뤼셀 중앙역]]에는 장거리 열차가 서지 않으므로(...)[* 고속열차가 서지 않을 뿐이지, 나머지는 장거리라도 모두 정차한다.] 사실상의 [[중앙역]] 기능을 하고 있다. 흔히 브뤼셀 미디역이라고도 한다.
+
+일반적으로 [[영국]]에서 배낭여행을 시작하면 [[유로스타]]를 타고 이곳 또는 [[파리 북역]]으로 가거나 [[암스테르담 중앙역]] 방향으로 가게된다. 저가항공기가 뜨는 샤를루아 공항까지 열차가 다니긴 하는데 15유로, 택시타면 40분에 160유로 나온다.[[흠좀무]]
+
+브뤼셀시, 아니 벨기에 전체에서 아마 치안이 가장 [wiki:"반어법"끝내주는 곳]이다. 벨기에에 거주한 사람중 Gare du Medi의 악명을 모르는 사람은 거의 없다. 일단 멋모르고 역사 밖으로 나왔다가 엄청난 노숙자 공세에 코를 찌르는 지린내까지 당하며 한 번 기겁하고, 주변에 그럴싸한 시설이 아무것도 없다는 것을 깨달아 두 번 기겁하고, '''정작 중앙역이 아니었다는 사실에 세 번 기겁한다.'''[* 브뤼셀의 구경거리는 대부분 중앙역 근방에 있다. 가장 유명한 그랑플라스 마저.]
+
+== 운행 업체와 노선 ==
+|||||||||| attachment:/Eurostar-small.png '''[wiki:"유로스타" Eurostar]''' ||
+||||||||||<#80919b> {{{#ffffff Eurostar}}} ||
+||<width=200px> '''[wiki:"세인트 판크라스 역" 런던] 방면'''[[br]][wiki:"릴 유럽역" 릴 유럽] || {{{+1 ← }}} ||<width=150px> 브뤼셀 남역 || {{{+1 → }}} ||<width=200px> 종착역 ||
+|||||||||| attachment:/Thalys-small.png '''[wiki:"탈리스" Thalys]''' ||
+||||||||||<#af1634> {{{#ffffff Thalys}}} ||
+||<|2><width=200px> '''[wiki:"파리 북역" 파리] 방면'''[[br]][[파리 북역]] ||<|2> {{{+1 ← }}} ||<|2><width=150px> 브뤼셀 남역 || {{{+1 → }}} ||<width=200px> '''[wiki:"암스테르담 중앙역" 암스테르담] 방면''' ||
+|| {{{+1 → }}} ||<width=200px> '''[wiki:"에센 중앙역" 에센] 방면''' ||
+|||||||||| attachment:/DBbahn-small.png '''[wiki:"독일철도" Deutsche Bahn Fernverkehr]''' ||
+||||||||||<#ff0000> {{{#ffffff ICE 79}}} ||
+||<width=200px> 종착역 || {{{+1 ← }}} ||<width=150px> 브뤼셀 남역 || {{{+1 → }}} ||<width=200px> '''[wiki:"프랑크푸르트 중앙역" 프랑크푸르트] 방면'''[[br]][[브뤼셀 북역]] ||
+|||||||||| attachment:/SBB-small.png '''[wiki:"스위스 연방철도" SBB-CFF-FFS]''' ||
+||||||||||<#ff0000> {{{#ffffff EX/InterCity/EuroCity}}} ||
+||<width=200px> 종착역 || {{{+1 ← }}} ||<width=150px> 브뤼셀 남역 || {{{+1 → }}} ||<width=200px> '''[wiki:"바젤 SBB 역" 바젤] 방면'''[[br]][[브뤼셀 중앙역]] ||
+||||||||||<#ba0d36> {{{#ffffff CFL }}} ||
+||||||||||<#ba0d36> {{{#ffffff InterCity}}} ||
+||<width=200px> 종착역 || {{{+1 ← }}} ||<width=150px> 브뤼셀 남역 || {{{+1 → }}} ||<width=200px> [wiki:"룩셈부르크 역" 룩셈부르크] 방면[[br]][wiki:"룩셈부르크 역" 룩셈부르크] ||
+
+|||||||||| [[브뤼셀 메트로]] ||
+|||||||||| 브뤼셀 메트로 2호선 ||
+||<width=200px> '''Simonis 방면'''[[br]]Porte de Hal/Hallepoort || {{{+1 ← }}} ||<width=150px> 남역 || {{{+1 → }}} ||<width=200px> '''Delacroix 방면'''[[br]]Clemenceau ||
+|||||||||| 브뤼셀 메트로 6호선 ||
+||<width=200px> '''Simonis 방면'''[[br]]Porte de Hal/Hallepoort || {{{+1 ← }}} ||<width=150px> 남역 || {{{+1 → }}} ||<width=200px> '''Roi Baudouin/Koning Boudewijn 방면'''[[br]]Clemenceau ||

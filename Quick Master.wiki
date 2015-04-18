@@ -1,0 +1,145 @@
+[[목차]]
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 act deft라는 명의를 사용한 [[시미즈 요헤이]]. 후속곡으로는 팝픈뮤직 5의 수록곡인 [[power plant]]가 있다.
+
+== [[팝픈뮤직]] ==
+=== Quick Master ===
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/c2EKzoNFLuM&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/c2EKzoNFLuM&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+|| 早いテンポのテクノビート、クールに決めろ！
+빠른 템포의 테크노 비트, 쿨하게 정해라! ||
+
+||<#aaaaaa> 출전 ||<#aaaaaa> 장르명 ||||||||||||||||<#aaaaaa> 곡명 ||
+|| pop'n music 1 || J-TEKNO[[br]]J-테크노 |||||||||||||||| Quick Master[[br]]퀵 마스터 ||
+||||||||||||<#aaaaaa> 작곡가 명의 ||||||||<#aaaaaa> 담당 캐릭터 ||
+|||||||||||| [[시미즈 요헤이|act deft]] |||||||| SHOLLKEE[[br]]숄키 ||
+||<#aaaaaa> 배너 |||||||||||| https://remywiki.com/images/c/cf/1_J-TEKNO.png ||<#aaaaaa> [[BPM]] |||| 147 ||
+||<#aaaaaa> 수록 || 1~4, 9~ ||
+||<#aaaaaa> 가정용 수록 || CS 1~CS 3, CS 6, CS 12 いろは, GB ||
+
+||||||||||||||||||||<#ffff00> [[팝픈뮤직]] 난이도 체계 ||
+|||| |||| {{{#blue EASY (버튼수)}}} |||| {{{#green NORMAL}}} |||| {{{#orange HYPER}}} |||| {{{#red EX}}} ||
+||<|2><:> 노멀모드 || 43단계 || {{{#blue 4}}} || {{{#blue 103}}} || {{{#green 5}}} ||<|2><:> {{{#green 104}}} || {{{#orange 11}}} ||<|2><:> {{{#orange 175}}} || {{{#red -}}} ||<|2><:> {{{#red -}}} ||
+|| 50단계 || {{{#blue 2}}} || {{{#blue 89}}} || {{{#green 10}}} || {{{#orange 17}}} || {{{#red -}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+|| ◆Quick Master / BY : act deft
+이 곡의 판매는, 현상 절판의 『MSX turboR(A1GT)』의 MIDI 기능을 구사해 열중했던 데에 있었습니다. 제작 시간이 많이 걸리지 않아서 좋았습니다.
+곡에 대해선 일본인의 마음을 사로잡을 수 있을 큰 가능성의 프레이즈를 적당한 곳에 묻어두며, 그리고 과장 어레인지＆경쾌한 리듬으로 보여지는 외관의 전개. 그런 걸 노려봤습니다.
+많은 분께서 이 곡을 즐겨주신다면 기쁘겠네요. ||
+
+초기 팝픈뮤직 곡 중에서는 국내에서도 비교적 인지도가 있는 곡 중 하나인데, 그 이유는 이 곡이 5키 [[비트매니아]] complete mix에 이식되었기 때문이다. 이 때 이 곡의 캐릭터가 비트매니아 쪽으로도 옮겨갔다. 그래서 당시 비트매니아의 '테크노' 곡들 하고는 분위기가 확연히 달라서 당시 플레이어들에게 꽤 인상을 깊게 준 곡이다.
+
+참고로 [[흑역사]]로 치부되는 국산 [[리듬게임]]인 [[비트플레이어 2000]]에서는 BMS 제작자인 SUZUKI가 이 곡을 어레인지한 버전이 무단으로 수록되는 일도 있었다.
+
+=== Quick Master Millennium mix ===
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Xu8bem49bwk" frameborder="0" allowfullscreen></iframe>}}}
+
+|| 速いテンポのテクノビート！クールにユニゾンを決めろ！
+빠른 템포의 테크노 비트!! 쿨&유니즌하게 정해라! ||
+
+||<#aaaaaa> 출전 ||<#aaaaaa> 장르명 ||||||||||||||||<#aaaaaa> 곡명 ||
+|| pop'n music 4 || J-TEKNO REMIX[[br]]J-테크노 리믹스 |||||||||||||||| Quick Master Millennium mix[[br]]퀵 마스터 밀레니엄 믹스 ||
+||||||||||||<#aaaaaa> 작곡가 명의 ||||||||<#aaaaaa> 담당 캐릭터 ||
+|||||||||||| [[시미즈 요헤이|act deft]]/[[무라이 세이야|Millennium Project]] |||||||| [[MZD]] ||
+||<#aaaaaa> 배너 |||||||||||| https://remywiki.com/images/7/7c/4_J-TEKNO_REMIX.png ||<#aaaaaa> [[BPM]] |||| 147 ||
+||<#aaaaaa> 수록 || 4~5, 9~ ||
+||<#aaaaaa> 가정용 수록 || CS 4~CS 5 ||
+
+||||||||||||||||||||<#ffff00> [[팝픈뮤직]] 난이도 체계 ||
+|||| |||| {{{#blue EASY (버튼수)}}} |||| {{{#green NORMAL}}} |||| {{{#orange HYPER}}} |||| {{{#red EX}}} ||
+||<|2><:> 노멀모드 || 43단계 || {{{#blue 5}}} || {{{#blue 151}}} || {{{#green 16}}} ||<|2><:> {{{#green 230}}} || {{{#orange -}}} ||<|2><:> {{{#orange -}}} || {{{#red -}}} ||<|2><:> {{{#red -}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#blue -}}} || {{{#green 22}}} || {{{#orange -}}} || {{{#red -}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+millennium mix라는 부제를 붙여 [[무라이 세이야]]가 Millennium Project라는 명의를 사용해 어레인지했다. 원곡에 하이퍼 채보가 있었던 것과는 달리 본 리믹스는 노멀과 5버튼 보면만이 존재한다.
+
+=== Quick Master -Naked TranceMix- ===
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/KRhiw_YygLU" frameborder="0" allowfullscreen></iframe>}}}
+
+|| 早いテンポのテクノビートがトランスとなって帰ってきた！　クール＆ノスタルジックに決めろ！
+빠른 템포의 테크노 비트가 트랜스가 되어 돌아왔다! 쿨&노스탤직하게 정해라! ||
+
+||<#aaaaaa> 출전 ||<#aaaaaa> 장르명 ||||||||||||||||<#aaaaaa> 곡명 ||
+|| pop'n music 16 PARTY♪ || J-TEKNO TRANCE REMIX[[br]]J-테크노 트랜스 리믹스 |||||||||||||||| Quick Master -Naked TranceMix-[[br]]퀵 마스터 -네이키드 트랜스믹스- ||
+||||||||||||<#aaaaaa> 작곡가 명의 ||||||||<#aaaaaa> 담당 캐릭터 ||
+|||||||||||| act deft remixed by SADA |||||||| [[MZD]] ||
+||<#aaaaaa> 배너 |||||||||||| https://remywiki.com/images/0/09/16_J-TEKNO_TRANCE_REMIX.png ||<#aaaaaa> [[BPM]] |||| 145 ||
+||<#aaaaaa> 수록 || 16 PARTY♪~ ||
+||<#aaaaaa> 가정용 수록 || portable 2 ||
+
+||||||||||||||||||||<#ffff00> [[팝픈뮤직]] 난이도 체계 ||
+|||| |||| {{{#blue EASY (버튼수)}}} |||| {{{#green NORMAL}}} |||| {{{#orange HYPER}}} |||| {{{#red EX}}} ||
+||<|2><:> 노멀모드 || 43단계 || {{{#blue 10}}} || {{{#blue 201}}} || {{{#green 19}}} ||<|2><:> {{{#green 350}}} || {{{#orange 28}}} ||<|2><:> {{{#orange 686}}} || {{{#red 37}}} ||<|2><:> {{{#red 957}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#blue -}}} || {{{#green 25}}} || {{{#orange 34}}} || {{{#red 43}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+|| 안녕하세요. SADA입니다.
+제게 있어선 이번이 팝픈 데뷔작이 됩니다만, 일이나 될까나. 그 「Quick Master」의 리믹스를 만들 수 있게 돼서 정말 영광으로 생각합니다.
+오리지널의 선율이 매우 아름다워 「이걸 서사시 트랜스로 하면 절대로 가버려! (완전 망상...웃음)」라고 생각해 리믹스를 시작했습니다. 작업 자체는 매우 직감적으로 진행해 생각나는 아이디어를 차례차례로 실어갔습니다. (명곡이라고 일컬어지는 부분 정도가 여기 있을지도 모르겠네요!) 그리고, 오리지널엔 없었던 전개도 추가시켜 완성된 리믹스가 이번 Naked Trance Mix입니다!　오리지널이랑은 또 한가닥 다른 Quick Master으로 완성되었다고 생각합니다. 부디 플레이 해 주세요! 
+
+● SADA ●
+
+팝픈뮤직 유저 여러분께
+그 옛날, 비마니 시리즈의 악곡 제작·사운드 관계의 프로그래밍을 담당했었던 youhei shimizu라고 합니다.
+이번엔 유저분들로부터의 부탁에 의해 REMIX 수록이 가능했던 것 같습니다. 정말 감사합니다.
+악곡에 대해서입니다만, SADA씨의 손에 의해 Quick Master에 새로운 영혼이 머문 것 같은 감상이 휘감겼습니다.
+
+그 옛날이라고 적었습니다만, 시간이 지나가는 속도엔 혀를 내둘러 버리게됩니다.
+이번에 REMIX해 주신 Quick Master입니다만, 초대 팝픈뮤직에 원곡이 탑재된지 무려 10년 전이로군요.
+저 스스로도 이따금 이 곡을 듣습니다만, 그리운 감각과 함께 그 당시를 생각해냅니다.
+
+● youhei shimizu ● ||
+
+-Naked TranceMix-라는 부제를 붙여 SADA가 트랜스 리믹스를 했다. 참고로 본 곡은 SADA의 첫 팝픈뮤직 수록곡.
+
+== [[비트매니아]] ==
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/y0PHLDz5UAw" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||||||||||||||| [[비트매니아]],[[비트매니아 III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 145  |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 3}}} || {{{#orange 149}}} || {{{#red 3}}} || {{{#red 178}}} || {{{#green -}}} || {{{#green -}}} || {{{#orange 3}}} || {{{#orange 206}}} || {{{#red 4}}} || {{{#red 225}}} || {{{#green -}}} || {{{#green -}}} ||
+
+비트매니아에 수록된 버전에서는 reform version이라는 부제가 붙었는데, 비트매니아 이식에 맞게 스크래치 음원이 몇 개 추가된 것을 빼면 원곡과 같다. 명의가 작곡가의 본명인 Youhei Shimizu로 바뀌어 있다.
+
+CS판 비트매니아에서 이 곡을 플레이하는 방법은 세가지가 있다.
+
+ * append 4thMIX에서 플레이하려면 여러가지 해금 조건이 있는데, 가장 간단한 방법은 하드모드를 50번 클리어하는 것이다. 이렇게 하면 올해금이 된다. 옵션,컨티뉴 자유.
+ * 2ndMIX 키 디스크를 넣고 append 3rdMIX 또는 append GOTTAMIX로 디스크 체인지를 한 뒤 append 4thMIX로 디스크 체인지를 하면 4th MIX의 곡들 대신에 3rd+컴플리트에 있었던 어나더 곡들과 컴플리트믹스 추가곡 4곡을 플레이할 수 있다. ~~본격 [[어펜드 디스크]] 하나라도 더 팔아먹기~~
+ * BEST HITS에 기본 수록되어있다.
+
+아케이드엔 complete MIX에 이식되었다. THE FINAL에도 수록.
+
+== [[비트매니아 IIDX]] ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cE9-5xi7aKs" frameborder="0" allowfullscreen></iframe>}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 145 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 1}}} || {{{#blue 80}}} || {{{#orange 3}}} || {{{#orange 178}}} || {{{#red 4}}} || {{{#red 264}}} || {{{#blue 1}}} || {{{#blue 128}}} || {{{#orange 5}}} || {{{#orange 225}}} || {{{#red 6}}} || {{{#red 312}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 미수록
+ * 가정용판 수록 : 15 DJ TROOPERS
+
+한참 나중에 CS판 [[비트매니아 IIDX]] 15 DJ TROOPERS에도 수록되었다. 5키 비트매니아 출신 곡들의 특수 설정인 "5키 옵션 선택시 5키 비트매니아 시절 패턴을 플레이 가능"이 지원되며, ANOTHER는 본 작품에서 새로 제작되었다.
+
+== [[댄스 댄스 레볼루션]] ==
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/06C7QIpW_nk" frameborder="0" allowfullscreen></iframe>}}}
+
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 11}}} || {{{#purple -}}} ||
+||<|3><:> 147|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 10}}} || {{{#purple -}}} ||
+
+DDR SUPERNOVA에 이식수록되었다. 비트매니아 시리즈에 부제가 붙고 명의가 본명으로 기재된 것과는 달리 여기서는 팝픈뮤직과 곡명 및 명의가 동일.

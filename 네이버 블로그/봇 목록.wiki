@@ -1,0 +1,34 @@
+[[목차]]
+= 작성하기 전에 =
+ * 작성시 주소는 '{{{http://blog.naver.com/계정명}}}'으로 기재해 주시기 바랍니다.
+ * 아래의 봇은 [[리그베다 위키 기본방침]] 또는 [[대한민국]] 현행법에 의거 [[작성금지]]입니다.
+  * [[음란물]] 관련 봇 : '''[[형법]] 243조''' 및 '''정보통신망 이용촉진 및 정보보호 등에 관한 법률 제44조의7의 1항 1호'''[* 제44조의7(불법정보의 유통금지 등) ① 누구든지 정보통신망을 통하여 다음 각 호의 어느 하나에 해당하는 정보를 유통하여서는 아니 된다. 1. 음란한 부호·문언·음향·화상 또는 영상을 배포·판매·임대하거나 공공연하게 전시하는 내용의 정보 (후략)] 위반
+ * 봇 주인이 작성을 거절한 경우 (본인 의사 존중 원칙)
+ * 그 외 리그베다 위키에서 작성금지로 지정한 내용을 다루는 봇
+ * 운영이 3개월(90일) 이상 중단되었거나 폭파(계정이 삭제)된 봇은 목록에서 삭제해 주시기 바랍니다.
+ * 봇 주인에 대한 내용은 가급적 자제해 주시기 바랍니다.
+= 인물 =
+== 실존 인물 ==
+== 가상 인물 ==
+ * [[노래의☆왕자님♪]] 캐릭터
+  *[[나나미 하루카]] (http://blog.naver.com/haruka_bot)
+  *[[잇토키 오토야]] (http://blog.naver.com/otoya_bot)
+  *[[히지리카와 마사토]] (http://blog.naver.com/masato_bot)
+  *[[시노미야 나츠키]] (http://blog.naver.com/natsuki_bot)
+  *[[진구지 렌]] (http://blog.naver.com/jinguji_bot)
+  *[[쿠루스 쇼]] (http://blog.naver.com/kurusu_bot)
+  *[[아이지마 세실]] (http://blog.naver.com/stella5678)
+
+ * [[진격의 거인]] 캐릭터
+  * [[엘런 예거]] (http://blog.naver.com/eren_bot)
+
+ * [[사이퍼즈]] 캐릭터 
+  *[[가면의 아이작]](http://blog.naver.com/issac_cypmsn)
+  *[소공녀 마를렌] (http://blog.naver.com/marlene_bot)
+  *[[태도 다이무스]] (http://blog.naver.com/deimus_bot)
+  *[[창룡 드렉슬러]] (http://blog.naver.com/drexler_bot)
+  *[[닥터 까미유]] (http://blog.naver.com/camille__bot)
+  *[[냉혈의 트릭시]] (http://blog.naver.com/trixie_bot1)
+  *[[밤의 여왕 트리비아]] (http://blog.naver.com/trivia_cyp)
+  *[[쫓는 빛의 클레어]] (http://blog.naver.com/clar_cypbot)
+  *[[재앙의 나이오비]] (http://blog.naver.com/niobe_cpbot)

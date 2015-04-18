@@ -1,0 +1,118 @@
+ * [[지도]], [[애플리케이션]]
+
+http://images.apple.com/kr/ios/maps/images/icon_2x.jpg
+
+[[http://www.apple.com/kr/ios/maps/ Apple - iOS 7 - 지도]]
+[[http://www.tuaw.com/2012/06/18/no-comment-ios-6-maps-icon-not-to-be-taken-as-literal-routing-a/ iOS 6의 지도 응용 프로그램 아이콘은 내비게이션이 고가 다리에서 떨어지라고 안내하고 있었다.]][* OS X Mavericks와 iOS 7으로 업그레이드되면서 아이콘의 지도 이미지가 오리지널 애플 캠퍼스에서 애플 캠퍼스 2로 변경되면서 이 문제는 수정되었다.]
+
+[[목차]]
+
+== 개요 ==
+[[애플(기업)|애플]]의 [[지도]] 서비스. [[2012년]] 발표된 [[iOS|iOS 6]]와 함께 출시되었다.
+
+원래는 애플답게 화려하고 깔끔한 3D 그래픽을 보여주는 지도로 [[구글]] 지도의 강력한 [[라이벌]]이자 대체제가 되어야 했는데... '''오차가 엄청나서''' 유머 소재로 자리잡았다. 일단 지도 정보가 실제와 다른 정보를 표시하고, 3D 보기 기능인 FlyOver는 몇몇 대도시를 제외하고는 적용되지 않았기 때문.
+
+미국 경제 전문지 24/7 월스트리트(Wall St)에서 꼽은 [[2012년]] '''최악의 실패작 1위'''에 올라가기도 했다. 애플은 팀 쿡이 직접 사과문을 발표하는 것을 비롯, iOS 총책임자였던 스콧 포스탈 부사장을 책임을 물어[* 애플 지도 탓에 잘렸다는 부분은 [wiki: "기자(언론)"기자]들의 추측이다. 물론 애플 지도가 말썽을 일으킨 것과 거의 동시기에 스콧 포스탈이 잘린 것은 사실이다. 스콧 포스탈은 스티브 잡스와 더불어 애플 사내에서 강력한 스큐어모피즘 옹호론자였는데, iOS 7로 넘어가며 플랫 디자인으로 UI 디자인을 리뉴얼하면서 팀 쿡과 마찰이 있었다는 이야기도 있다.] 해고하고, 지도 데이터를 보강할 것을 약속했다.
+
+아무튼 문제는 기존에 잘 쓰던 기본 탑재 구글 지도를 교체하는 새 기본 지도 앱이면서도 구글 지도 대비 품질이 매우 뒤떨어졌다는 것. 즉 새로운 기능이라고 소개한 게 까 보니 실질적으로 다운그레이드였다는 게 까임의 포인트다. 소비자들 입장에서는 지금껏 잘 쓰던 기능을 빼앗긴 셈이라 기분이 좋을 리 없다. 
+
+참고로 지도 데이터 문제에 비하면 극히 사소한 문제이긴 한데, 원래 쓰이던 지도의 경우 외국어로 검색해도 자동으로 번역해서 결과를 표시했는데, 새 애플 지도로 바뀌면서 번역 기능이 사라졌다고 하는데 [[확인 바람]].
+
+== 추상화? ==
+attachment:applemap.jpg?width=350
+애플 지도가 보여주는 환상적인 국내 위치 정보 비쥬얼... 결코 로딩이 덜 되었거나, 에러가 발생한 것이 아니다...
+
+attachment:/ios6_map_toon.jpg?width=500
+
+[http://venturebeat.files.wordpress.com/2012/09/hoover-dam-apple-maps.png?w=536&h=804 애플 지도로 보는 후버 댐]
+[http://www.wirefresh.com/wp-content/uploads/2012/09/apple-ios6-map-fail-1.jpg #2]
+[http://9.mshcdn.com/wp-content/uploads/2012/09/apple-maps-600.jpg #3]
+[http://24.media.tumblr.com/tumblr_mapzh8t5C21rhptwbo1_1280.jpg 심지어 애플스토어까지 이런식으로 나온다.] ~~[[포스트 아포칼립스]]~~
+[http://theamazingios6maps.tumblr.com/ The Amazing iOS 6 Maps 이러한 지도들을 모아둔 블로그]
+
+~~[[wiki: "LSD(게임)" 모 게임]]을 보는 것 같다~~
+
+[http://www.theverge.com/2012/9/20/3363914/wrong-turn-apple-ios-6-maps-phone-5-buggy-complaints #]
+
+http://cdn3.sbnation.com/entry_photo_images/5663893/tumblr_manirsH2xh1rhptwbo1_1280_gallery_post.jpeg
+~~[[고베 대지진]] 때 무너진 고가차도 생각나면 지는 거다.~~
+
+{{{#!html
+<object type="application/x-shockwave-flash" width="560" height="315" id="ooyalaPlayer304478853_udvuvl8ufv" class="OoyalaVideoPlayer" data="http://player.ooyala.com/player_v2.swf"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="bgcolor" value="#000000"><param name="wmode" value="window"><param name="flashvars" value="me=ooyalaPlayer304478853_udvuvl8ufv&amp;embedCode=AwOXJ4NTpK7KqoKE9J_9ETjfMDaZ1tiu&amp;width=560&amp;height=315&amp;deepLinkEmbedCode=AwOXJ4NTpK7KqoKE9J_9ETjfMDaZ1tiu&amp;video_pcode=ppbnY65tdYh_HxFfIkVstq2Iq_oQ&amp;contactServer=player.ooyala.com/Q2HGKJ-PryQsG7CT&amp;text=z4Nm7A0tcZVqGLEuGFtLALKmnms0q0YqbwBKEag4cG7SXVYNuIySPlCxQwWXMPiDpxqUTMy82dAdSYZV80XDvUsxhT6IUDf4fV_-N6tAMs3o1TmHQWPZuA9pAG5J6H05c_E7IxXxSjRXai4ac_HIhdw7ewjrQwZuIK4IUnn8GxWcb0ZO6NTM1ZalNlY08hZpY8AQCLWaCIJWO-XJzVO2iqH4-qlOE25oyLV_ifnRprANdEKmgmjKJmb5jqfKV3jNYFV8vTy4lYmfzrJ39YgrDpwIpV23i3BDG1sZkpMoyO8EVAmNzySF7mP8udjieieaF6pfxl8MdDMDzceLlFI0k9Hul1BdiEGMLITT-qU_2ZJbBOqicKxHJtSwJ3V5ATBLDKc81GE9VH0xohFlW2nkXIMcBJyZyKUyVPk-1MeHnPUbPvQx5EfBpLJ_MeiQCd9LThujPEOIt3SX56jbgg2f_srJgwdftoytGP9GVwp6lboN0gKjPFOGCohT3sqyyeC7D64XFhAPsK4SMkLImuNPUgFWzSmma1v-Agi9-7h3vlBWd_5CbdRk5qBrsNxb-4JBCAEqJtAQ1XWkGlebs_24js2XiAPGWoDKBYiCxGZtSwUZQrNCy-CBPb6NKauJp_sl6n3tKuE5tVYy3r8BIV42CbxqK6KrgoIph5m0YcfXirYG8nzuIyfboreJZZb4pESZDoZ4HCDC_UwAZwNLIVaIyo15g9C55Ew6wdJzHSB4iKJhAXhyhlarrG0FoTVOY2O8__BhW4_aiKcbgpPZPa6B303l-vwctXfhwLk4j0ADZmG2PCoYduNP5kvnX1yLKbOSgW3ILoKy7SinO0xBeQkvxT_vSF2c1W27mGDT6rRu6fGwKLb0ci6Rnu3bISTmBW-FjexFe4UZ-7mDR8I71Y7vwYxXvXJVS8KgeRUQgDtUM_ngXzfibH6nwpTjspFHQ4B7pzZgJlCqt7-TiaVwUExb8wd8bh6hH2mZX8m9XmABoxQ_T6pPE_91T1iI8xdxyPGWt92HOvSH-EcmCSx2-_uRrBNEVtYcqJu4BUyqqChzNat_biVJ8XXodF9qwE3a_hf6lcsNGj79ehdfNZavEtiXoDBhUmKmyUejplFJC0fJRb1sIzDY9OMc-KOOSTxkE6iOR4PXce1pZjhw6ffUrh6I6y2naSHjWvh1LYn75Bu-qgxmh7q4gKksr4tPywxD2gKGqDvAFEgNR7_-6dcTmpS0cz4cSDH73j9iyQkvRA6QeBpUO3-zFBOnCzTOBATyVuwbtrrpEeurrx3USa1lpBwkvc6emCZubwYJWsiNAFd0fsIViLR7Voc2p18uGeooo1S_-PAOzjsFDjKRsbxF7XQM3dNu7I0IUPUJwg6GDdMMAvyIerhSESz6tcgZpSYX0R4ZNDvWMBilSiih6-7ust-K_8bJS3BgYTbFW8QSpB61jhyTOOnjYXQCfRS36B5jHXHhi84JS2rSrg6n-b4Or2ox-ReFDk9XidZhWtd1iyMn9ZLw6AHhI5w-DOn2WULNloil8RqoDUUVnk6hGDaM8ikY6cKYr2ErL3Hy5iHr73XztW41DTuhKui2nWzy8TDGBliEX4qLBRtGlePRwLZrafZzjePNJgs9wagwSDsxBFq9PfSmI7-H8LhmuUfWeWLtxLk94CLT4REnFq4qb6LC6a3iwzHBKIUCeCYXT0rbG3nJj6skkUonJDX9XT0gfYdtgpX7FyDVA1SQC2pkx6kt-vSDV2_Gg9h1qKi6f6LB6urjfX-4OqlXVcpAoqcnVzC8vDe56_JoUZZmlKobTpQl4TQjdjVwdRre48gMiT7Sk3Ax4S1_vCmDwI9b-epTjC2lOAyGBBuvL8IHoNhWfrwGU34os0Zbq2kg-AFQLBKB1xNiUyKNiIMsFOFXrEwNRMwOI-DhlL5JjGtpU931D9Gyt0wrFOu0K5RCeZxr0lL7_S4DM7_WFMA96bMJg2TlYnfXW0FiJtYfFyuQPrfqgdCp3ar5WjTK98CY2vQQ3TaAw_9Cb-aAyY75ZnV3H-NfTi2ez0XfTogdPAI8zHSdSTQK10wyKlnzFOBxb_YyPoUtWs8fK0G7piggzuCwi2I3joR92AZ6hoY-_9FxP9CuxqsVbmZwoZ2j7Uc0xJzivtt2nZ0DZTN-7Q8R-kh6t5a_-jBNiR9vtDsY0DBG4CFDVT_gOxBdXHahyv-p7k5b1grF6PXl9UlzaCEiCQFSSJt9sjO-PPW0-TrpUp01G8fvy1uhFtJ0pk2CpZ566R9yPWIm4ABH5SmFQf_8umW4lu7iEmevAdTqaO52MH5-8zFbZEZ5BKfHAS1j2U7HQvYaAHYoxBgMID8Vj2tWUnIgoyfIKHXgJRFdse4sbPwltli9Omq6mKaLt_rjm7-TATYlYPWoCzfZHJDIZ-LiBdhcPqJE00ClQluvDHWiVh0YlZoo6wddMY73oubA6E2fVPJP--sMBymrxWLNo1A-ccUEPfVl4fzEOTko4jI8-rhLSGFVOntFvtpsMA58J6W9x8U883npfSkGnVQpBo5StPOa7QyJ3ZfMztixQBvD3-2J5eHTmebDEfd25-7HicRh62xqH10kFvB_8vvDMkI1Egr65xe2K8yIcZ3oWAosCj0aCTSXUT8lmHOnRZ8b3yUHJ3WyewSAXauGOjUgjwPcnHa_WiQLMZQe_aAN-aBvUe14XTcdXErc_gyb2gMFpKp9tzg0kSqcK_goKsyWLpXhyOZX44Q9e1DjgJ_v615Pg-J2_d73IMiqVs2-Q9qal8sVShw-gUizTkQcW1-F-rMqthx8l0myRkEYzzkQDa8h4o6_IBYmhgpqIa_ptDmR-nbpwTAGBH-iTrSkH74NnRUrzo_vd078R564Ak5z0oLCMi-eqvK1qfDGnTFE4gBn5yIgYgiZA6uVglk14YEXw_875e7KJqDA6ktdzmNUc19j3_cnsnVIQlQgu-X-J7oQnOwkk5FaGnnzO3AVb1SYMg2Fillr7XKUOASFRUUHeNJ2aazOKvZPYw1X2Ss9tPqjhYWYrJdF0xg1j1asCVZgAqOcR_27pyZKfeZOfLCIUrx9zXbuC_7wyXUy_xN49T4Wr_uhp0NcczXJ_InTq17wirx6SiAWvK958NV_t1Irx9gQ0wf-N09ChkzBl_8x9OYwgPkiHBGYhWjKxnE6KYXR04jMFurEo_IKselz3n_HJ1XE54wvkOnvMn_yPEPNY6oIZtIym7BpkMq3wWZ_fH0OcYzXVzmcslqVyP_XZxV6LlVyiPk1jFFw_fCLJuM1FkovhwEcO5pjZYYgrhIbqqDr03ogppyWgWl08D9a6X6_TZluv9ifGm8dbF-IWZ97mu9Hhh8E93OMRUnLt2UbwHw4LUsLM6IOhX7GALyNSyV8N4xZglskJFveei3iI1aWEGVbedS8UkYfEGtWmJm9tCEhLqnFBc5RePkYzMAYeuT3xzOq2QSXh-71IgYj0KhQOQKVeBJ6KiDxMEF20vy6-kYcUQzvdkKwz1QtwJcaY6JBZ85gfA_kD7wZX4EcKy1xxAd4XzrMlKHyzzt0NcsJ511XoAPrTBT6dGE6Q-kEVH__cU12BkFppx3QgaiWqEWygU-IQq8mEHUt2nxzKAJWZlT8VHi7pgLit7kl1ojq3SImGEG53uairLRzd8-qeBpS420H9PZk4o-mCIhyyJQz3xVxmKxLg3lpWC0X84vYvSTLN4ubqq-Ui6fgU5QU4oHkgGQXdBfjWYBUh_QCohPL2EleGUoWO-xyLYXoSCozMjn4gpJI7KKxBWj0GVAHQfOjaXdgFxUoy_PLjKjYg0xZWiYyFWvuWBQNU9LiB5LYaazZRPwFm1YRbdSz8w5FSljtWz_udCuMx2z3DPJ_bJTH1iNQNoul2EVaIHF5wlnVpPWp9sDdHoI_BWqK8Pxqo2FNnXQfUzVCO8AEb7vyrE6AMBC_DYOc0Bp3jnAhgWAzur7Yz_zNb0UhV1scPs0N_ACikts9EmR-Bg4ssRnYDHB5dCcNKxTOVQHbnCCnTrk8n4bB1kJYQ3TIHPdeJSxA1g1AnvHvz54OeRonuUx_jst9OFZRJCnqlM75X_sLsexetmQPlniOhM0BIfJo5ZlXThzhd21fO-JYoI22m3B_tIzxonmHVJECT5KkaQZ6iLW6jzon4R6oGb_gLeKbpfBPLUTpAjdP1ijjjy-uJDybW2R5V-N4KQ3UCUGISrYBKZT4pMwWo4gndTbSa8dWNsXfNkq2JSlE-GCJ4qqYu4BQdBcJ-RbbG68SCdVjExG80g2S-crPp9SSmnbdloY67iYOX1szurYkbLhwLBXoNLsYgOQCHrndQApuCJNJNtjNWbTOVX1vKFuH13djcMyPrQhvQNnTvOIqwcwbyswrZefSyiMOgbpGr6p-Yd2xquuIauhpWdAZeF6WCz-30rD3UcjrKF1dVqoHOIdXaMq9dJMAX3XB8hEb6jJInsFtMjJkgaxKPw3NhJhM3Wy2-aXbTTbjuJFlimByoHF-1arm0JHOaqnYrQqUCEgrA-2_-kLo-mrVUGjIjYtpavsVC59YOW1oGSV_Anv0scZ4NXAIV7Pkd2uUN-gH_wt08QW84Kyv-pvUWLEbOxjFo0XizljuDweZyo9LL5eKvbg3PcWO_-veT8TeQfD5oFptPiOg0i3rjCZNDf9BYVzVy0BN12x3sCG_WCIIDMRSycpq3E8ponpLNmRsBeaO6zv47wcc18y4M7KgNNf-aS6CL3O0Kf0VAR49ecTtGsoGELsIUB_39NCrF7Y8GBjyByZh6LjJQjSGqC8f4GC-81k65aoU4wG8Gr7i4pKkTaGGAl0JGC66tAKSh-8JjDSdsQ0MwdJji1UGOzqsU6IsHEOcABnd6SNaQYr7xRZHbEWCnqs4HwrfxvENANLpsgbjYHTPZ23Ydz3RDO4aUFeQgGyU8sY0NvJF35WW6z1H2cIZXjqt_v77dU-WwBTyxAOUvTfhHMzdOfYDZA3By0W2mTbX0LSjfKZfCpMioqnUdP6ZZcILqzj1GEEDXp7l6rJh0n1irvYHVJ1YAHC3jiG84Yo757SLHZA_7XSkbb7C5CfRkPdNT418RMuqsTzpsLNDM93geldIFpn8lXXrSmvCUdDTC2wC9ggAS2loZPdb19cQ3OeFI2HZOAZKMeV1jxbCTz44jwiM_W81vgRbaGkfqZHp_xaGMEftFA3BWuIA62Yk-_9mhDJDMSJTZ-ofuBDBC4bfYNFX7zkjDyARxmuSjVwyhYDX7OD5o54QWUzODBys_vYA50SyARrGqXlhjJShOSdA2qhvXMNcXcXFGrSBetimp2C7Xf0HmTse44YSAgKvDNg4XOKW9ci0xFOn-N4Ww-5keVDCzCVeCVh23X23rvFY815Qtu2XR9siqrJOmTLJMTfYGcvg4C91AujtlP9F_QvgNWlqmMXKOICUY7FedglI4EZYcGu_ACCma9_TP2_qpFU72MSzpGrsk84KwBRtyQ56HqolNGsS8lBAfyo4sst4DPjKbVczv8giOAU9fY2xhwPVBcD8S2dDDdC2RhBBJiub0H1MJHT0o430B_OcVP30yEeYWaRUOm_b78l9MCAGKz5t8hVgFbV3UCWtMU7eDDrbnHH-_Ex8PyjG9huBcoDCMnK6jCTW1Gm2UnAn1mrtTgmizZP07if_iGDKCAH4Vmhjs-itrNmTHdMGX9jFDLs1we_DBwVpzRvzvBTYVhcIF3nUwQi960nIQeM3sQxVdOLx9QYg4CLyXuGfzSYm9PYZZwDHPk8izbYKiziHNn6amsv7NCBOKoHpHP3QREK7b-9QLdprt_zNN2LVWgaWWeJLaOIIGUoudrf2dqpXWpUwLSZ-8c1mMWZilxBWUgCJ_L7fGO2uyEfEG_c1iC-3y5N9XaZK5ARrCJZCFW0a9IWvUJrjFsDSSmJ0mXnx2hqSp0l7ZupSwuMxFLPZ5bZSGei66rP8aRmrBWIfJdEoc8uIeHULBxdPk1kLqtV9049bnYqo28v4pL9NXuu1q6Kx0g_aQdA7o9uSj55-PZd81ZemQ7_HsZ-MkmNhELM33jpMzxKpmUobYCfh6ieK02wGNf7zPE7c-MVlnHWBe2A6Tx3yVE7nsJ2EczCF8Iz83azQ14dQFj6_lRMpGSjte9efLm4x9RjajtUr86tOzeLjKfGRsb_f3kvijcsO4haByal6PN8A2hSaWRvXbQYbqHZ8sAALjQXMDFwBPXGlTQ4RsXBXyUq5f13xZchUT8sKSfMd8rr-1xF0cyspFckKVnBVdRtzkMpibYv5Nm681Drt_4MELhgVzEbPxWQIko68ALK2bZA_gTKcjunOT_S6Bi7pQ4aNi-HAe0a6RqeJgQc4aCiFhYEH8-OLfpTO693imq1G9PzNJ8GBIUybE6S31Iu1OjlWli5L3EHKzQo2dTYBFLiBOqZFndRwzvqMblh9wNaB65JT0rs9SgRjPiBF2UA2L4Gz74F8_95MvL8obj5ixNtba7xCCxoD0mv04R2WmA6BiRs5rqxgYigf58GrYrUw3icv9tcMXzLAWqPWoY1C32tOrGcL6oZwR3-3o1-ljTHkKwlwTPb9gXGWazbWfd6YXaSmjsENLMNWBfWqPmvZ_1YRAde3ruW8GjQDRHXpfrDeTu4iQFsa7-Dxr0S8GGedDTiS97oIgc_LSAZpLKPYg6e186mCQpuu_lZmo53ymkygKsgqq98GZK4dK3yOYmhNiu8pYVBk3H4pDzLbrsKsukpa4J_B_EucNcFD-LRnCjhYmtdHqs-MbyVInzH7DPGhlR3OLfAiVBWg-iTkJV9SaP4-vghsqEYbWH4n1sVb_a6axc5YacvzSDCpKzZJICCAycrUzMT59-_b-amw8jsrk8D00iKTVF4H5F0f44_3V4H6FdVEFZ2Kt1wNotvzFMn6cQ4_U5msMo3p-0DFbwz6jqCiCBXVwmE5YWJtRAZx5GgbirK_Fo3jag1f1iEKuUqU4XfjvUso5nSj6aoWswMH4ahT1V3smHuOAq47iRgISp8GkhUH20jBrRMamofGYQZQ_rzz1tlWurqUVPre0YGtATE125Hh2exsJcAHeNcpt1I8yD045q-0qf3tkphqfT0BrSp9y5OLC1OTd9eddd8dkf9x-6VXIPYEC6tADEFZ8WttL2IvWYwTCyH8HbY2ebg52cSKJct06CzDzw4Wp0YM_ONVBU6jEfBY4jOA4EKZKnKrpL8c3XL3Dd2GJjeXSVvnh_CWMCVDuhFdB6hYq1Sq2-EDFOivLF-TPi2PXd_FMSeUF_BBNNiLdMeCB9GHmLcpDr8qhoEP7ZLrcHXSeXK6FuKu4emixaMa7MpvCpI70Nl2bow9UkQs9mEho-OG9l7Be-l9WVTtlGcG_mN_mXPWZeHXV5aqollyKk0yBNAc0BvuhlmSD5Gx8aLs934Ya5_MGJ3gaUbb9k1eGKPYx5V0kBqsphVCG0j_unmyzmbMUByaZBhJZ2R6vDJdXRTxaRLkU7WTw2QgrUyiY8j9QlAaHP8XHgwPr7BgVGG-ZDEMFJ4oFv3TptHZ4qYwf8lJWPReIclvbvEFI0Q-OwLyQKrGMqpckxdrnfJwUc9vA2bF_lhwQMDYRhhK_mLOnKtnNabiTCs-mKck3iQU-Fgg4oxUqgHC6j7EvMofZwqf0f1gL-22eEqqdkz1pLjl95owtJ8f5ZAF6y6OBvOmETkqltM4foUrS3euru8XLf7865p84Qoy8JdkbIWBhN2AWlFC5BPJX-ukTPX7TcFt4-QB6nUKpAEV5Rs9SDdFgBSP5VpFQ81w-91teq-6Kf54Tubk2xTVKoBcNOCBuLvIZFkbuXkfQmIJoCSz4RdNgO10_Ktz-aluioEZUrjbShfqOVOuPqcMi_wmZhGW85CgBH6vN7gV0OE_KHCT8424FbrEKhtZcluRxWcmIFlnfL5fXEYNdSaOfCRY6TEDIvJ-1BhOK2WsMQWOWkcaMAcT2CAqcMEIEVt7Xow-lTwYI1MUI8rDivsiVd5rZenwNW23m1GhBC3l7YgkeVSF6Ir7jOUy7wkcQ3I91kh-1_GIUN3EEjr_7HlGEUOTM-fHidcmYZ7DERj-62R0dO59xdbFNFvwGT6LM0-V-UaaagQ2ymvcwTqY-W-PPmTcbD6i7Pxl6U2IuMG7d_8BZg7Vn5nBQoI5eCWTIDHBzGlLo9-PRk37LrDaAYyuZG_mDCNAUzXvwL0i5IM63XSw7aNa-zcUg3pwNbCMFq7AE2KjRoTzCUKpZzLvx8jhURk2ojuKzlyWzCpTtD0CUWgL-SJFDCF2d0DdEK8He9JyJe80BrMyeTy6ELthxwjiGDIdu7nKvyJFCvfHCsyn1Lb65t8LKZyEQgv2qLumQUT81I9q7OGC-M9vGSge3xWLacM_OWG4O9lEggammoTg-sRiIVt2cyEm3zXYnz13rTe8owW0cyobLVkfyXPpvA1Wch8Z0Vpn9CD5LT3gsOxVX-qcynHGIcR1bw8entlCBFqi7bZ2nSP8XXC8yY9-9OAL4hP_mo-anlkmAZbOJNR9H-Sdgxnt4UA5W9AxTUBTzU8Rzu3D71JNA4A_TEeNP9pLBElSK0-4mvciLYZLQdHLmDoYuIGERN7LC-SxfFk1t4NwM1ATs2pm5vKcXiPoVqK1Vm1q3lFOSqYJ6hyKKzGBsePWFDzsCAy8uMZYCYyv-fpTDNDkKzWrO2OupwSsDmkTjChtt4RpOwDEKkimjR9ohNlWx1mgqmypqpM_HhnartEzlHXALL9WGMZJHr7SFMyv0PwAxAuPm5nWsclx5H42Vtvwn8LwKaiJiMUubenuWOMd3_ebNKnGlq0eW2YzrNB_3dNHBVCkqe-WlYOmep9X_MJHOx95tAKwtYdUxFhLkTRENDpj01H9D4ftXva5QPs4KcW_Xyz2UMuzmNUNrsb2TNIRb0ks5yNWTSQH93qXBT__mPpDLfgmVWtxwNAWFDWb4ugl_k3jlInHwRyGhufD8Jkv5cjgC5NvLmwpuv3mwajxjmt2MKVZ00LwIdMYlS7L7BFnfSRs0A9cFp6Y4cwG4lPzNfMhMUIJGEdvP-8lk1NxeVxigMI4XwVAOvA4h6gZe2NNhA3KVaScqtW-XA3W5nbRWNf0Gg9m645_2TIS0Fex1B1PexWoxSs2QyZm1LeQnpmmGHaA2_86WN9UrRgHDu2XVvyXbsZYO258132_ua6cGRvyu_s8vZH7JXDU0fe6Tdw_ivabC8GfW19wMz80TA**&amp;docUrl=http%3A//rigvedawiki.net/r1/wiki.php/%25EC%2595%25A0%25ED%2594%258C%2520%25EC%25A7%2580%25EB%258F%2584%3Faction%3Dshow%26redirect%3DApple%2520%25EC%25A7%2580%25EB%258F%2584%23fn13&amp;loadStartTime=1411989307808"></object>
+}}}
+~~[[심시티]]?~~
+
+{{{#!html
+<iframe width="600" height="338" src="http://www.youtube.com/embed/llyq-zyE-wU?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+유머로 애플이 자사의 지도 정확성을 위해 [[지구]]를 새로 만들고 있다는 음모론이 제기되고 있다.
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BQkZ2CV3Fb0" frameborder="0" allowfullscreen></iframe>
+}}}
+결국 애플의 CEO인 [[팀 쿡]]이 직접 사과하기도 했다.([[http://www.macrumors.com/2012/09/28/tim-cook-publishes-open-letter-on-maps-for-ios-6/ #]])
+
+== 출시 이후 ==
+이게 탑재된 iOS 6가 [[아이폰 5]]부터 들어가기 시작한지라, 사람들이 아이폰 5를 구입하는 데에 어느 정도 영향을 주기도 했다.[* 한국은 아이폰 사용자들도 대부분 [[네이버]]나 [[다음]] 지도, T맵 등을 쓰기 때문에 한때의 놀림거리가 되었을 뿐 별 영향은 없었지만, 구글맵이 甲인 타 대륙에서는 제법 큰 이슈였다.] [[미국]]에서조차도 대도시를 제외하고는 상태가 양호하다고 할 수는 없는 수준이고, [[일본어]] 지도에 [[한글]]이 표시가 된다든지, 멀쩡한 도시가 허허벌판으로 나오는 등 문제가 꽤 심각한 편. 그나마 구글이 구글 지도를 12월 12일부로 무료 출시함에 따라 아이폰 사용자들의 불편은 그럭저럭 해소가 되었다. 
+
+남은 건 애플이 얼마나 빠르게 지도 경쟁력을 갖추느냐의 문제. 직접 나서서 데이터를 보충하는 구글과는 다르게 관련 [[회사]]와 하청 또는 합병을 통해 간접적으로 데이터를 보강한 애플로서는 이를 통괄할 알고리즘을 개발하는게 우선이다. 물론 개발 자체야 어느 정도 되기야 했지만, 2013년 초반까지도 형편이 크게 나아지지 않았다.
+
+쉽게 말해, 애플 지도 믿고 가다간 미국 내 중규모 이상 도시 지역 거주민 아니면 지도 따라가다 [[바다]] 속으로 가거나 산으로 가는 상황이 발생할 수 있다는 것이다. 그나마 openstreetmap 또한 사용한다고 하니 약간이나마 안심은 되지만[* 이 서비스에 소스를 제공하는 [[영국]] 만체스터 대학 근처의 지도는 덕분에 매우 정확하다고 한다.] 그 외의 지역은 문제가 --꾸준히-- 심각한 상태.[* 물론, 시간이 해결해줄 문제이기는 하나, 구글 또한 맵 애플리케이션을 출시하는 데 뜸을 들이고 있었기 때문에 많은 불만이 쌓여 있는 상태. 기존의 구글 맵을 이용해 턴 바이 턴 네비게이션 기능을 지원하려 했지만, 구글과 협상이 결렬된 바람에 결국 자체적으로 지도 앱을 만들게 되었고 그 와중에 애플의 능력 부족으로 이런 일이 생겼다고 사람들은 추정하고 있다.] 물론 [[웹 브라우저]]로 구글맵을 띄워 사용하거나 출시된 구글맵 앱을 다운받아 쓰면 해결이 되는 문제이긴 하지만, 자체 맵 애플리케이션과 연동되는 앱들의 경우에는 어떻게 해결할 방도가 없다. 애플 지도가 정확해지기를 기다리는 수 밖에.
+
+=== 대한민국에서의 전망 ===
+iOS 6에서 [[대한민국]] 데이터에 한해서는 톰톰사의 데이터와 SK M&C의 데이터를 같이 사용한다고 한다. 자료를 취합하는 단계여서 사용자가 보기에는 많이 조악해 보이는 것. 조만간 개선된다고는 한다. 참고로 SK M&C는 구글에도 지도 데이터를 제공하고 있다. 즉 제대로 굴러간다면 --언제가 될지는 모르겠지만 아무튼-- 국내 지도는 구글 맵이랑 큰 차이 없는 퀄리티가 나올 것이라 예상해볼 수 있다. --구글 맵이 한국에서 쓸만한 건지는 일단 제껴놓자--[* 평범하게 쓸 수 있을 정도는 되지만, 엄청난 디테일을 확보한 네이버 지도, 다음 지도가 아무래도 비교우위에 있다보니...]
+
+이와 동시에 한국 내 지도 데이터베이스에 대한 규제에 대해 관심도 쏠리고 있다. 그나마 규제가 덜한 해외의 경우, 사실상 문제 해결은 시간문제인데 비해 한국의 경우 서비스 업자가 한국에 들어와있어야 하고 서버도 한국에 위치해야 하는 등 이런저런 규제가 많다. 결국 일이 터진 게 애플 맵과 구글 맵의 [[독도]] 표기 논란.[* 하지만 애플 맵은 베타 기간 동안에 논란이 불거지자 정식 버전에서 독도로 표기를 바꾸었으며 타국에서도 '독도'라고 한국어로 표기한다. 구글 맵은 한국에서만 독도를 표기하고 일본에서는 Takeshima, 타국에서는 Liancourt Rocks라고 표기한다.] 바꿔말하자면, 문제가 언젠가 해결될 것이라고는 예상할 수 있지만 해외에 비해 그 속도가 '''굉장히''' 느릴 것이라고도 예상할 수 있는 부분이다. 
+
+당장 위에 나온 SK M&C의 데이터를 사용하는 구글 맵의 한국 지역 품질은 [[네이버]], [[다음]] 등의 한국 업체들에 비해 상당히 떨어진다. 2007년 이전 위성 [[사진]]을 사용하는 지역도 부지기수이며 줌인도 iOS 6 애플 맵 수준만큼 밖에 되지 않는다. 한국 지역의 [[인공위성]] 지도 품질만 놓고 볼 때는 애플 맵이나 구글 맵이나 큰 차이가 없다. 거의 매년마다 최신 위성 데이터로 업데이트되는 국내 업체에는 상대가 되질 않는 수준. 길찾기 기능 또한 국내 업체에 비해 상당히 부족하다. 물론 애플 맵에 비하면 그나마 낫지만 구글 맵 또한 한국에서 메인 지도로 사용하기엔 부족한 점이 너무나 많다. 그만큼 해외 업체가 양질의 지도 서비스를 하기에는 한국의 지도 관련 규제가 상당히 심하다. 이미 구글은 한국 지역의 위성지도 품질 향상을 위해 관련 데이터를 확보하려 시도했지만 한국 정부에 의해 거부당한 전례가 있다.
+
+2014년 3월에는 한국 지도가 --이제서야-- 대대적으로 업데이트 되었다. 하지만 어디까지나 못 써먹을 쓰레기가 --다른 거 다 안 될 때-- 아쉬운 대로, 혹은 재미삼아 한 번 써 볼 만한 정도로 바뀐 정도이며, 여전히 네이버 지도나 [[다음 지도]] 쓰는 게 훨씬 나은 상태다. 더군다나 운전이 목적이라면 그냥 국산 네비게이션을 쓰는 것이 건강에 이로울 것이다. 해외에서 현지 네비게이션을 구하지 못한 상황이라면 써 보는 것도 그리 나쁘진 않다.
+
+== 사고사례 ==
+=== [[대만]] ===
+다른 지역은 불완전하게 나오는데 비해 하필 대만의 기밀 군 부대가 제대로 노출된 사건이 났다.[http://gizmodo.com/5950391/apple-maps-accidentally-revealed-a-top-secret-military-base #]
+
+그동안 공개된 적 없는, [[중국]]의 [[미사일]] 대비용 대만의 기밀 장거리 [[레이더]] 기지의 깨끗한 위성 사진이 노출된 것. 대만의 The Liberty Times에 따르면 상업위성에서 찍힌 사진이며 일단 법적으로는 문제가 없지만 애플에게 해상도를 낮춰달라고 요청해 현재는 처리가 되었다고 한다.
+
+=== [[호주]] ===
+호주에서는 6명이 애플 지도를 사용하다 조난을 당했으며 [[경찰]]이 24시간 뒤 구조하였다. 경찰이 말하길 "(애플 지도 사용은) 생명에 심각한 문제가 될수 있다." [[http://news.cnet.com/8301-13579_3-57558151-37/australia-police-discourage-use-of-apple-maps-app-after-rescues 기사(원문)]] 이걸 두고 [[삼성]]은 기회다 싶어 호주 현지에서 애플 지도를 대놓고 조롱하기도 했다.
+
+사실 이 경우는 딱히 애플 지도를 비난할 일은 아니다. 애플 지도에 등록된 정보는, 바로 그 정보를 제공하는 호주 정부의 공식 지명 사전을 인용한 것이기 때문이다. 지명 사전에는 Mildura로 들어서는 36가지 길이 설명되어 있는데 그중 하나는 Mildura Rural City로 들어서는 1가지 길이다. 문제는 Mildura Rural City가 실은 빅토리아 주의 북서부의 아주 넓은 지역임에도 불구하고 호주 정부의 지질학 연구 기관에서 마을이 아니라 공원 한가운데의 입구를 채택했고 지명 사전이 그걸 그대로 사용했다는 데 있다. 다만 애플 측에서도 실수한 게 있다면 Mildura로 향하는 다른 길을 무시해버린 건데, 이건 지명 사전이 제대로 설명을 명시한 부분도 아니기 때문에 시스템상 한계라고도 볼 수 있겠다. [http://www.guardian.co.uk/technology/2012/dec/11/apple-maps-fault-mildura-australia-confusion 기사 참조] 그리고 사실 호주에선 애플 지도 뿐만이 아니라 구글 지도 또한 크게 의존하지 말라는 기사도 떴다.
+
+== 긍정적인 부분 ==
+출시 이후부터 정확성 문제로 줄기차게 비난을 받느라 잘 드러나지 않는 부분이지만, 애플 지도에도 나름의 의의와 장점은 존재한다. --하지만 삼성과 [wiki: "안드로이드(OS)" 안드로이드], [wiki: "포털 사이트" 국산 포탈]의 [[성지]]인 대한민국에서 몇 년 안에 그 장점을 느낄 수 있으리란 헛된 기대는 품지 않는 것이 좋을 것이다.--
+
+ * 벡터 그래픽을 사용해서 데이터 사용량이 적고 줌인/줌아웃이 깔끔하다. 이전에 iOS에 포함된 구글 지도는 비트맵 이미지를 사용한 탓에, 줌인/줌아웃 시 매번 데이터를 다운로드하고 새로 지도를 띄워주느라 하드웨어나 네트워크가 제대로 받쳐주지 않으면 버벅이곤 했었다. 애플 지도는 그러한 버벅임이 없이 아주 깔끔한 줌인 줌아웃이 가능하며 거의 실시간으로 정보가 나타난다. 똑같은 정보량을 열람할 시 애플 지도가 구글 지도보다 80%나 데이터를 덜 쓴다는 보고도 있으며, [[인터넷]] 사용이 안되는 상황에서도 애플 지도는 더 많은 정보량을 캐시로 저장한다. iOS에 기본적으로 최적화되어 있어 정보량이 많은 지역에서도 깔끔하게 돌아간다. 실제로 미국에서 네비게이션으로 사용할 경우, 애플 지도는 데이터 접속이 불안정한 지역에서[* 한국에서는 상상하기 어려운 부분이지만, 미국의 시골이나 국립공원 등지는 휴대폰이 안 터지는 경우가 허다하다.] iOS용 구글 지도에 비해 훨씬 안정적인 모습을 보였으며 배터리 소모도 확연히 적은 모습을 보여준다. --하지만 장소 명칭 검색은 미국 본토에서도 구글 맵에 비해 여전히 딸린다는 게 함정. 구글 맵으로 주소 찾아 배터리 소모 적은 애플 지도로 다시 찾으면 땡.--
+
+ * [[네비게이션]]으로 활용할 수 있는 턴바이턴 디렉션 기능은 확실히 강점이다. 특히 [[장애인]]이나 운전자를 고려한 '''음성 디렉션 기능'''은 상당한 퀄리티를 자랑한다. 턴바이턴 디렉션이 실제 맵에서 보여지는 것보다 더 정확하다는 보고도 있다. 즉, 운전을 하는 상황이라면 애플 지도가 구글 지도보다 낫다. --물론 어디로 데려가는지는 묻지 말기.--
+ 여담으로 네비게이션 모드는 전원버튼을 눌러서 폰 화면을 꺼도 정보가 지워지지 않는다. 전원버튼을 다시 눌러보면 잠금 화면에서 네비게이션이 계속 돌아가는 것을 볼 수 있다. ~~이야 움직이는 바탕화면이다~~ 
+
+ * 교통 상황을 보여줄 때 구글 지도와 달리 교통이 왜 정체되고 있는지 그 이유를 설명한다.
+
+ * 애플 지도는 3D로 볼 경우 전례가 없는 미려한 모습을 보여주는 지도다. 지도가 정확한 지역의 3D 화면을 볼 경우 건물 및 지형의 높낮이까지 정확히 묘사한 입체적인 지도를 사용자에게 보여준다. 구글 지도에서도 3D뷰를 지원하기 시작했지만 품질면에서 애플 지도가 압도적으로 앞서고 있다. 당장 텍스쳐의 해상도부터 상당한 차이가 나며, 지형의 높낮이가 심한 지형에서 일그러짐이 심한 현상도 --까이고 까인 끝에-- 대부분 해결되어있는 애플 지도에 비해 구글 지도는 정도가 심한 편. 두 회사의 3D뷰 지원 도시에서도 다소 차이가 있는데, 애플은 주요 대도시 위주로 지원폭을 확장하고 있는 반면, 구글은 중소도시부터 지원하는 모습을 보이고 있다. 예로 구글 지도에서는 [[런던]], [[파리]], [[베를린]], [[시드니]] 등의 대도시의 3D뷰를 지원하지 않는다. 하지만 3D 이미지를 지원하는 전체 도시 수는 구글 지도가 더 많다.
+
+ * 구글 지도나 다른 지도 앱과 달리 써드 파티 앱과의 연계가 매우 잘 되어 있다. iOS 유저라면 거의 다 다운받아 쓰는 Yelp 같은 맵은 애플 지도와 바로 연계가 되어 있기 때문에 매우 유용한 편이다. 특히 교통과 같은 기타 정보 또한 다른 관련 앱에서 확인을 바로 할 수 있게끔 하고 있다.[* 여기에는 구글 지도도 포함된다.] 이러한 연계는 앞으로도 계속 확대될 것이므로 지속적으로 보강될 데이터의 정확성, 그 용도의 다양성 또는 실용성 면에서 애플 지도는 우수한 잠재력을 갖고 있는 셈이다.  
+
+ * 애플 지도는 대부분 톰톰의 데이터에 의존하지만 오픈스트리트 맵의 데이터도 활용하고 있어서, 오픈스트리트 맵의 강점인 현실성과 유동성을 갖고 있다고 볼 수 있다. 오픈스트리트 재단에서는 애플이 오픈스트리트 맵의 데이터를 더 많이 활용할 것을 바라는 내용이 담긴 포스트를 올리기도 했다. 팀 쿡이 애플 지도의 부정확성 논란에 대해 사과하면서 대다수의 유저들의 참여가 정확성을 높일 것이라고 말한 것에는 바로 이러한 배경이 깔려 있는 것. --하지만 경복궁이 청화대로 표기된 것을 고치는 데는 시간이 년 단위로 걸렸지.--
+
+ * 지도 서비스에서 구글의 독주에 대항할 수 있다. 정확도 문제로 출시 이후 꾸준히 욕을 먹고 있는 애플 지도이지만, 기본적으로는 잘 만들어진 프로그램이기 때문에 iOS 사용자들의 구글 의존도를 떨어뜨릴 수 있으며 이는 광고를 주 수입으로 삼는 구글에게 위협요소가 될 수 있는 잠재력이 있다. [[인터넷]] 지도 서비스에 있어 구글은 독점적인 모습을 제법 보여 주었는데, 애플이 다른 [[회사]]들과 손을 잡고 정면으로 도전했다. 구글이 안주할 수 없게끔 한다는 점에서, 소비자들은 간접적으로 경쟁의 이득을 볼 수 있게 된다는 의의가 있다.
+ 사실 애플 지도 출시 초기에 iOS 유저들이 돌려달라고 아우성이었던 (iOS 5까지 기본으로 포함되었던) 구글 지도도 실상을 알고 나면 좀 거시기한 앱이었다. 구글은 얼마전부터 [wiki: "안드로이드(OS)" 안드로이드]에서는 벡터 그래픽을 사용한 앱을 지원했었는데, iOS 기기에서만 유독 느린 비트맵 앱을 고수하는 바람에 구형 아이폰에서는 앱이 심히 버벅일 수밖에 없었다. 게다가 턴바이턴 디렉션 등 여러 편의 기능을 애플의 요청에도 불구하고 iOS의 구글 지도에는 의도적으로 넣지 않고 있었다. 경쟁사를 대놓고 배제하는 구글의 태도가 누그러뜨려질 기미가 보이지 않자 애플은 아예 자체적으로 지도를 만들었고, 구글은 그제사 턴바이턴 디렉션을 추가한 벡터 그래픽의 구글 지도를 부랴부랴 새로 내놓은 것이다. 만약 애플이 지도를 내놓지 않았다거나 내놓을 생각도 안하고 있었다면 iOS 유저에 대한 구글의 의도적 차별은 계속 되었을 것이 분명했다. [* 애플이 안드로이드진영에 대해 소송전을 벌인 배경중 하나가 지도때문이라는 말도 있다. 물론 유일한 원인은 아니겠지만. 유투브앱이 구글과의 계약기간이 1년가량 남았는데도 불구하고 기본앱에서 제거된것도 이러한 시각에서 보면 어느정도 이해가능하다.][* 이 사실을 애플 팬보이들의 과도한 의심이라 생각할 수 있지만, 전혀 그렇지 않다. 구글은 비슷한 일을 마이크로소프트에게도 행한 바 있다. 윈도우폰에는 출시 이후 유튜브 앱이 없었다. 앱 자체는 있지만 그저 웹페이지를 연결해두고 동영상이 돌아가도록 임시로 만든 수준에 불과했다. 마이크로소프트는 지속적으로 구글에 유튜브 앱을 만들어주든가 아니면 자신들이 직접 만들게 API라도 열어달라 했지만, 구글은 갖가지 이유를 들어 거부하였다. 결국 마이크로소프트가 API를 사용하지 않고 억지로 돌아가게 만든 앱을 만들고 ~~뭐? 안 만들어줘? 우리가 만든다.~~이 앱에선 유튜브 내부의 광고가 안나오게 하자, 그제서야 구글은 마이크로소프트를 비난하면서 해당 앱을 중단할 것은 요청했다. 마이크로소프트는 그 때를 노려, 구글의 폐쇄성과 견제를 지적하였고 결국 구글에게 유튜브 앱을 만들겠다는 약속을 받아냈다. 또 윈도우폰에는 구글 지도가 없는데 그나마 브라우저에서는 쓸 수 있었다. 그러나 어느 날 갑자기 모바일 인터넷 익스플로러에서는 정상적인 작동을 보증할 수 없다는 이유로 차단되었는데, 문제는 브라우저를 모바일에서 데스크톱으로 인식하게 만들어서 들어가자 작동에 전혀 문제가 없음이 들어나기도 했다.]
+ 다시 말해서 넓은 안목에서 보자면 애플이 자체 지도 서비스를 제공한 것 자체에는 충분한 당위성이 있다는 것이다. 물론 유저들은 애플만을 욕하겠지만 사실상 애플 지도의 존재로 인해 구글이 '''여유롭게 놀고있을 수는 없게 된 것'''이다. --애플 지도는 쫓긴 구글이 새 지도를 내도록 하기 위해 [wiki:"희생된 거다"희생된 것이다]!--
+
+== 업데이트 현황 ==
+일단 애플도 ~~[[팀 쿡]]이 갈궜는지~~ 출시--하고 대차게 욕을 먹은-- 이후 수개월에 걸쳐 알게 모르게 업데이트를 ~~무진장~~ 열심히 하긴 했다.
+
+16개 주요 도시에 플라이오버를 지원하기 시작했고, 15개 주요 도시에 플라이오버 기능을 확장하였으며 12개 도시에 일반 모드에서 보이는 3D 건물들과 턴바이턴 내비게이션을 지원하였다. 애플이 관심을 두는 시장인 [[중국]]의 경우에도 다수의 업데이트가 있어왔으며 그중에는 [[중국어]] [[폰트]]를 좀더 가독성이 좋게 교체하는 등의 세심한 부분도 있었다. 2013년 3월에는 iOS 차원에서 [[일본]] 전역에 광범위한 업데이트가 이루어졌다.
+
+언제 스리슬쩍 업데이트가 되었는지, 2013년 4월에는 출시 초에 비하면 그럭저럭 쓸만하게 바뀐 상태다. --물론 대한민국 안의 장소명이나 업체명 검색은 헛다리 짚을 가능성이 여전히 높지만-- 적어도 주요 국도, 지방도, 고속도로는 물론 어지간한 차량통행 가능한 골목길까지 제대로 들어있으며, 장거리를 안내하도록 명령하면 유료도로와 무료도로를 구분해준다. 그리고 장소 검색 시 자동차나 도보가 아닌 대중교통 아이콘을 터치할 경우, 구글 맵이나 네이버 지도, [[다음 지도]] 같은 서드파티앱으로 연결하는 기능이 있다. 대중교통 경로 검색이 가능한 앱이 설치되어 있을 경우 화면 상단에 해당 앱에서 경로 검색을 할 수 있게 하는 버튼이 뜨며, 이걸 누르면 해당 앱을 띄운 후 목적지까지 대중교통 경로를 보여준다. 설치되어 있지 않은 앱은 앱스토어에서 설치할수 있도록 화면 하단부에 링크가 뜬다.([http://www.ppomppu.co.kr/zboard/view.php?id=iphone&no=161898 #])
+
+[[2013년]] [[6월 10일]] 발표된 [[OS X]] 10.9에 탑재되어 맥에서도 사용하는 것이 가능해졌다.
+
+attachment:Apple_Maps.png
+'''[[2014년]] [[3월 27일]], 드디어 한국 애플 지도가 더 많아진 데이터, 지하철역 표시, [[도로명주소]] 지원과 함께 업데이트되었다.'''[* 다만, 2014년 4월 초 기준으로, 지도상에 길 이름은 도로명주소로 표시되지만 실제로 주소로 검색할 경우에는 구 지번주소가 훨씬 정확한 결과를 보여주며, 지도 위의 가게나 주요 Spot들을 클릭했을 때 뜨는 주소도 도로명주소가 아닌 지번주소이다.][* 2014년 7월에는 한국 지도에서 구 주소가 검색이 안되고, 신 주소도 정확하게 검색이 안 되는 문제가 발생했다. 애플코리아는 --쿨하게-- 오류를 인정하고 본사에 연락하겠다는 --의례적인-- 답변을 --남기고 잠수한-- 상태. --이래야 우리 애플답지.--]
+
+attachment:0409060308223761.jpg
+'''[[2015년]] [[4월 07일]],  변경된 한국 지도 (더 그 전일수도 ) 하지만 일본에서만 한함 한국에서 보면  그대로(다른국가는모름) 드디어 시흥평택 고속 도로가 추가 되고 맵 도로가 좀더 풍성해 졌다. (몇년 만인가..손 놓고 있는줄 알았는데 )..서울은 주요 명소가 아이콘으로 노출 되고있음 (애플에 입사한 김윤재씨의 아이콘으로 보임).
+
+
+[[각주]]

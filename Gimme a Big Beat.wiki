@@ -1,0 +1,55 @@
+[[목차]]
+
+attachment:Gimme_a_Big_Beat.png?width=360
+
+[[유비트 시리즈]]의 수록곡. 작곡은 [[kors k]].
+
+== [[유비트 시리즈]] ==
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>10||
+||<#000000><:>{{{#white 노트수}}}||<:>352||<:>581||<:>933||
+||<#000000><:>{{{#white BPM}}}||||||<:>138||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>saucer pack 23||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * Gimme a Big Beat : 모든 보면 클리어
+  * 全身でロックンロールを受け止めたい(온몸으로 로큰롤을 받아들이고 싶어) : 모든 보면에서 풀 콤보 
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+[[코나미 아케이드 챔피언쉽/2013|KAC 2013]]에서 E그룹의 과제곡으로 지금만 악곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/vvnN0L9UjG0" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT 채보 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/wiL3oxlJtUA" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+이 곡이 나오기 전에는 많은 이들이 [[The Wind of Gold|E조의]] [[Our Faith|곡 리스트]]를 보고서 kors k의 곡이다, 분산 배치형 패턴이다 등의 추측을 하였고, 사실이 되었다.
+
+EXT 보면은 여태까지 kors k가 냈던 곡들 중 노트수는 933개로 가장 많다.[* 이전까지 kors k의 투고된 곡들 중 노트 수가 가장 많았던 곡은 932개의 [[Shine On Me]]. 이곡보다 한개 적다.] 난이도는 레벨 10 안에선 중간은 간다고 평하고있다. BPM도 138로 비교적 느린 편에 속하는 것도 있고, 88배치로 처리하기 쉬운 부분이 많다. 엇박을 조금만 조심한다면 꽤나 할만 한 정도. 다만 그만큼 동시치기가 많이 있다는 뜻이기 때문에 처리를 잘 하는 것이 관건.
+
+== [[리플렉 비트 시리즈]] (Gimme a Big Beat (Hommarju Remix)) ==
+{{{#!HTML
+<iframe width="480" height="360" src="//www.youtube.com/embed/fZHswWVT0kE" frameborder="0" allowfullscreen></iframe>
+}}}
+HARD 패턴 플레이 영상
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 175 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10+}}} ||
+|| 오브젝트 || {{{#green 206}}} || {{{#orange 360}}} || {{{#red 783}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈] ||
+
+kors k의 앨범 Let's Do It Now!에 [[Hommarju]]가 리믹스한 곡이 실렸고, 이 곡은 앨범 발매기념으로 [[리플렉 비트 그루빈]]에 이식되었다. kors k 검정에서 플레이한 후 리플렉 샵에서 구매하면 해금된다.

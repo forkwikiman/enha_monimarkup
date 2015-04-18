@@ -1,0 +1,77 @@
+{{{+1 Ligne L du Transilien / ligne L}}}
+ * [[철도 관련 정보]]
+||<-4><table align=center><#5bad27> [wiki:"트랑지리엥" <span style="font-weight:bold;color:white">Transilien</span>] ||
+||<#dcdcdc> [[wiki:"트랑지리엥 H선" H선]] ||<#dcdcdc> [[wiki:"트랑지리엥 J선" J선]] ||<#dcdcdc> [[wiki:"트랑지리엥 K선" K선]] ||<ffffff> '''{{{#797fbc L선 }}}''' ||
+||<#dcdcdc> [[wiki:"트랑지리엥 N선" N선]] ||<#dcdcdc> [[wiki:"트랑지리엥 P선" P선]] ||<#dcdcdc> [[wiki:"트랑지리엥 R선" R선]] ||<#dcdcdc> [[wiki:"트랑지리엥 U선" U선]] ||
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#797fbc '''트랑지리엥 L선''' }}} ||
+||운영기관 ||[프랑스국철](SNCF)||
+||영업거리 ||86km ||
+||궤간 ||1435㎜ ||
+||역수 ||40 ||
+||전기 ||교류 25000V ||
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gare_de_Courbevoie.JPG/800px-Gare_de_Courbevoie.JPG?width=650
+
+[[트랑지리엥]]의 한 노선으로 트랑지리엥 N선은 동서 방향의 노선이다. 동쪽의 파리 생 라자르 역을 기준으로 총 4방면의 노선이 나뉜다. 베콩 레 브뤼에르를 기점으로 세르지 르 오 방면과 다시 생 클루를 분기로 베르사유 리브 드루아트 방면과 생 노 라 브르테쉬 - 포레 드 마를리 방면으로 나뉜다. 생 노 라 브르테쉬 - 포레 드 마를리는 다시 2개의 지선으로 나뉜다. 생 제르망 앙 레 GC 방면과 누아지 르 루아 방면으로 나뉜다.  노선은 [프랑스국철](SNCF)이 운영한다. 
+
+== 노선 ==
+attachment:/tranL.jpg?width=650
+
+==== 생 노 라 브르테쉬 - 포레 드 마를리 지선 ====
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 누아지 르 루아 || Noisy-le-Roi || 5 ||  ||  || ||
+|| 생 노 라 브르테쉬 - 포레 드 마를리 || Saint-Nom-la-Bretèche - Forêt de Marly || 5 || {{{#797fbc Ⓛ}}} [[트랑지리엥 L선]] || 생 클루 합류 ||
+|| 마레이-마를리 || Mareil-Marly || 4 ||  ||  || ||
+|| 생 제르망 앙 레 벨 에르 - 푸르퀘 || Saint-Germain-en-Laye-Bel-Air - Fourqueux || 4 ||  || ||
+|| 생 제르망 앙 레 그랑드 생튀르 || Saint-Germain-en-Laye-Grande-Ceinture || 4 ||  ||  ||
+
+=== 생 클루 분기 (생 노 라 브르테쉬 - 포레 드 마를리 방면) ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 생 노 라 브르테쉬 - 포레 드 마를리 || Saint-Nom-la-Bretèche - Forêt de Marly || 5 || {{{#797fbc Ⓛ}}} [[트랑지리엥 L선]] || 지선 ||
+|| 레탕 라 빌 || L'Étang-la-Ville || 5 ||  ||  || ||
+|| 마를리 르 루아 || Marly-le-Roi || 4 ||  || ||
+|| 루브시엔느 || Louveciennes || 4 ||  ||  ||
+|| 부지발 || Bougival || 4 ||  ||  ||
+|| 라 셀 생 클루 || La Celle-Saint-Cloud || 4 ||  ||  ||
+|| 보크르송 || Vaucresson || 4 ||  ||  ||
+|| 가르슈 – 마른 라 코케트 || Garches - Marnes-la-Coquette || 3 ||  ||  ||
+|| (생 클루) || Saint-Cloud ||  ||  ||  ||
+
+=== 베콩 레 브뤼에르 분기(베르사유 리브 드루아트) ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 베르사유 리브 드루아트 || Versailles-Rive-Droite || 4 ||  ||  ||
+|| 몽퇴유 || Montreuil || 4 ||  ||  || 
+|| 비로플레이 리브 드로이트 || Viroflay-Rive-Droite || 3 ||  || ||
+|| 샤빌 리브 드로이트 || Chaville-Rive-Droite || 3 ||  ||  || 
+|| 세브르 – 빌 다브레 || Sèvres - Ville-d'Avray || 3 ||  ||  ||
+|| 생 클루 || Saint-Cloud || 3 || {{{#ed0677 Ⓤ}}} [[트랑지리엥 U선]] || 분기 ||
+|| 르 발 도르 || Le Val d'Or || 3 || {{{#ed0677 Ⓤ}}} [[트랑지리엥 U선]] || ||
+|| 쉬렌 몽 발레리앙 || Suresnes-Mont-Valérien || 3 || {{{#ed0677 Ⓤ}}} [[트랑지리엥 U선]] ||  ||
+|| 퓌토 || Puteaux || 3 || {{{#ed0677 Ⓤ}}} [[트랑지리엥 U선]] [[br]] {{{#bb4b9c ②}}} [[파리 트램 2호선]] ||  ||
+|| [wiki:"라 데팡스(그랑드 아르슈)역" 라 데팡스] || La Défense || 3 || {{{#ffcd09 ●}}} [[파리 지하철 1호선]] [[br]] {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#ed0677 Ⓤ}}} [[트랑지리엥 U선]] [[br]] {{{#bb4b9c ②}}} [[파리 트램 2호선]] ||  ||
+|| 쿠르브부아 || Courbevoie || 3 || ||  ||  ||
+|| (베콩 레 브뤼에르) || Bécon-les-Bruyères ||  ||  ||  ||
+
+=== 본선 ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 세르지 르 오 || Cergy-le-Haut || 5 || {{{#fe370f Ⓐ}}} [[RER A선]] ||  ||
+|| 세르지 생 크리스토프 || Cergy-Saint-Christophe || 5 || {{{#fe370f Ⓐ}}} [[RER A선]] || ||
+|| 세르지 프레펙튀르 || Cergy-Préfecture || 5 || {{{#fe370f Ⓐ}}} [[RER A선]] ||  ||
+|| 뇌빌 유니베르시테 || Neuville-Université || 5 || {{{#fe370f Ⓐ}}} [[RER A선]] ||  ||
+|| 콩플랑 팽 두아즈 || Conflans-Fin-d'Oise || 5 || {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] ||  ||
+|| 아셰르 빌 || Achères-Ville || 5 || {{{#fe370f Ⓐ}}} [[RER A선]] ||  ||
+|| 메종 - 라피트 || Maisons-Laffitte || 4 || {{{#fe370f Ⓐ}}} [[RER A선]] ||  ||
+|| 사트루빌 || Sartrouville || 4 || {{{#fe370f Ⓐ}}} [[RER A선]] ||  ||
+|| 우이유 - 카리에르 쉬르 센 || Houilles - Carrières-sur-Seine || 4 || {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] ||  ||
+|| 낭테르 유니베르시테 || Nanterre-Université || 3 || {{{#fe370f Ⓐ}}} [[RER A선]] ||  ||
+|| 라 가렌느 콜롱브 || La Garenne-Colombes || 3 ||  ||  ||
+|| 레 발레 || Les Vallées || 3 ||  ||  ||
+|| 베콩 레 브뤼에르 || Bécon-les-Bruyères || 3 ||  || 분기 ||
+|| 아니에르 쉬르 센 || Asnières-sur-Seine || 3 || {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] ||  ||
+|| 클리쉬 - 르발루아 || Clichy - Levallois || 2 ||  ||  ||
+|| 퐁 카디네 || Pont-Cardinet || 1 || {{{#9b993a ●}}} [[파리 지하철 3호선]] [[br]] {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| [wiki:"파리 생 라자르역" 파리 생 라자르] || Paris Saint-Lazare || 1 || {{{#9b993a ●}}} [[파리 지하철 3호선]] [[br]] {{{#cec82b ●}}} [[파리 지하철 9호선]] [[br]] {{{#028d5b ●}}} [[파리 지하철 12호선]] [[br]] {{{#89d3de ●}}} [[파리 지하철 13호선]] [[br]] {{{#672f8f ●}}} [[파리 지하철 14호선]] [[br]] {{{#c760ad Ⓔ}}} [[RER E선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] [[br]] [[TER]] 오트-노르망디 [[br]] 앵테르시테 노르망디 ||  ||
+
+[[각주]]

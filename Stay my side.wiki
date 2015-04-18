@@ -1,0 +1,38 @@
+[[목차]]
+
+== 개요 ==
+attachment:staymyside.jpg
+[[BEMANI 시리즈]]의 악곡. 아티스트 명의는 DJ Yoshitaka feat.RINA. 작곡은 [[DJ Yoshitaka]]. 작사/보컬은 RINA.
+
+D.A.N.C.E.!, Catch Me, wish, Darling my LUV, The Lonely Streets 등으로 이어지는 소문자 DJ Yoshitaka의 미디엄 템포 R&B 곡이다.
+
+수록 과정이 조금 복잡하다. 이 곡이 처음으로 모습을 드러낸 것은 리플렉 비트 첫 작품의 [[인컴 테스트]]판이었다. 하지만 제품판에 정식으로 수록된 것은 비트매니아 IIDX 18이 처음이다. 수록곡을 따질 때는 제품판을 기준으로 하기 때문에 이 곡이 처음으로 등장한 것은 비트매니아고 이후 리플렉 비트로 이식되었다고 할 수 있다.
+
+== [[리플렉 비트 시리즈]] ==
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 100 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 5}}} || {{{#red 7}}} ||
+|| 오브젝트 || {{{#green 108}}} || {{{#orange 194}}} || {{{#red 260}}} ||
+|| 수록버전 ||||||||<#FF1AF8> [리플렉 비트] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 10 ||
+||||||||||<#ffffff>{{{#green BASIC}}} : 난이도 1 증가 (라임라이트)[[BR]]{{{#orange MEDIUM}}} : 난이도 1 증가 (라임라이트)||
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/aLANhx_1Uok" frameborder="0" allowfullscreen></iframe>}}}
+
+라임라이트 버전 하드패턴 영상
+
+리플렉 비트에선 레벨 38이되면 해금이 되고 라임라이트에선 리플렉비트 1-2 글라스 첫번째에서 해금이 된다.
+
+== [[beatmania IIDX]] ==
+|||||||||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 100 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 4}}} || {{{#blue 325}}} || {{{#orange 6}}} || {{{#orange 541}}} || {{{#red 8}}} || {{{#red 678}}} || {{{#blue 4}}} || {{{#blue 301}}} || {{{#orange 6}}} || {{{#orange 498}}} || {{{#red 7}}} || {{{#red 689}}} ||
+
+ * [[롱노트|차지 노트]] 채용
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 18 Resort Anthem|18 Resort Anthem]] ~ 
+
+[[beatmania IIDX 18 Resort Anthem]]에 수록되었다.

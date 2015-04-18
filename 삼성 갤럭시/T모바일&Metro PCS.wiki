@@ -1,0 +1,109 @@
+ * 상위항목 : [[삼성 갤럭시]]
+
+
+[[목차]]
+
+== 개요 ==
+[[삼성전자]]가 미국 4대 이동통신사인 [[T-모바일]] US와, '''옛''' 미국 지역통신사인 Metro PCS를 통해 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 목록.
+
+각 기기정보가 전부 토막글 수준이며 [[갤럭시 S]] 등의 커스텀 모델도 아닌 별개의 모델들이다.
+
+[[T-모바일]] US가 Metro PCS를 인수했기 때문에 본 항목에서는 통합하여 정리한다.
+
+=== 적용 네이밍 및 지원 통신망 ===
+미국 이동통신사로 공급되는 [[삼성전자]]의 모바일 기기들은 글로벌 네이밍인 'GT-'네이밍이 아닌 기존 [[피처폰]] 시절부터 사용된 'SxH-'네이밍을 사용한다.
+
+이 중, [[T-모바일]] US는 [[WCDMA]] Band 2 1.9 GHz와 Band 4 AWS가 기본 통신망으로 'SGH-'네이밍을, Metro PCS는 [[CDMA]] Band 0 800 MHz가 기본 통신망이므로 'SCH-'네이밍을 적용받는다. 풀이하면 ''''S'''amsung '''G'''SM/'''C'''DMA '''H'''andset'이다.[* WCDMA은 GSM의 후계 이동통신 기술이기 때문에 네이밍 규칙 변경없이 그냥 GSM으로 밀고가는 것으로 보인다.]
+
+2013년 하반기부터 모든 네이밍이 'SM-'네이밍으로 통합되고, 미국 이동통신사로 공급되는 기기들 역시 한국 이동통신사로 공급되는 기기들처럼 이동통신사 식별 코드[* [[SK텔레콤]]은 S, [[KT]]는 K, [[LG U+|]]는 L을 부여받는 상황에서 미국 이동통신사들과 일본 이동통신사들도 새로이 부여받았다. ~~물론 일본쪽은 무용지물인 상황이다.~~]를 부여받으면서 통합 네이밍을 적용하고 있다 [[T-모바일]] US의 이동통신사 식별 코드는 '''T'''이다. 다만, Metro PCS는 인수되었기 때문에 따로 부여받지 않았다.
+
+ * [[T-모바일]] US : [[LTE]] / [[WCDMA]] / [[GSM]]
+ * 舊 Metro PCS : [[LTE]] / [[CDMA]]
+
+== Galaxy Indulge (SCH-R910) ==
+||<tablealign="center"> http://pdadb.net/img/samsung_sch-r910_galaxy_indulge.jpg ||
+|| [[http://www.samsung.com/us/mobile/cell-phones/SCH-R910ZKAMTR? 미국 삼성전자 SCH-R910 공식 사이트]] ||
+
+2011년 2월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||삼성 [[엑시노스]] 3110 [[SoC]]. [[ARM Cortex-A8]] 1 GHz [[CPU]], PowerVR SGX540 200 MHz [[GPU]] ||
+||[[메모리]]||512 MB RAM[* 1 Gib OneDRAM + 3Gib Mobile DDR SDRAM], 2 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD (165 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, [wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.2 (Froyo)[[br]][[삼성 터치위즈]] 3.0(보급형 경량판) ||
+||규격||61 x 132 x 15 mm, 152 g ||
+
+=== 상세 ===
+슬라이드 쿼티 자판이 탑재되었다. LTE를 지원한다.
+
+[[각주]]
+
+== Galaxy Attain 4G (SCH-R920) ==
+||<tablealign="center"> http://pdadb.net/img/samsung_sch-r920_galaxy_attain.jpg ||
+|| [[http://www.samsung.com/us/mobile/cell-phones/SCH-R920DSAMTR? 미국 삼성전자 SCH-R920 공식 사이트]] ||
+
+2012년 1월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655 [[SoC]]. [[Qualcomm Scorpion]] 1 GHz [[CPU]]. 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 2 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD (165 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, [wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 130만 화소, 후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1650 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.3 (Gingerbread)[[br]][[삼성 터치위즈]] 3.0(보급형 경량판) ||
+||규격||60.5 x 113.1 x 11.7 mm, 119.1 g ||
+
+=== 상세 ===
+[[퀄컴 스냅드래곤]] S2를 사용한다. 동 시기 모델보다 전반적으로 사양이 떨어진다.
+
+[[각주]]
+
+== Galaxy Exhibit (SGH-T599) ==
+||<tablealign="center"> http://pdadb.net/img/samsung_sgh-t599_galaxy_exhibit.jpg ||
+|| [[http://www.samsung.com/us/mobile/cell-phones/SGH-T599DAATMB 미국 삼성전자 SGH-T599 공식 사이트]] ||
+
+2013년 5월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||ST-에릭슨 NovaThor U8500 [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]], [[ARM Mali]]-400 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.8인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD (246 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 1650 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean)[[br]][[삼성 터치위즈]] 5.0 ||
+||규격||66 x 127.8 x 8.9 mm, 122 g ||
+
+=== 상세 ===
+[[갤럭시 S#s-2.4|갤럭시 S Advance]]와 [[갤럭시 S III#s-2.3|갤럭시 S III mini WCDMA]][* [[LTE]] 모델은 [[퀄컴 스냅드래곤]] S4 Plus MSM8930을 사용한다. [[Qualcomm Krait]] 듀얼코어 1.2 GHz [[CPU]]를 탑재했기 때문에 [[ARM Cortex-A9]] 듀얼코어보다 성능은 좋다.]와 비슷한 사양을 가진 중급형 [[스마트폰]]이다.
+
+캐나다로는 '''갤럭시 에이스 II e'''라는 정식 발매명으로 출시되었다. 참고로, [[갤럭시 에이스#s-2.2|갤럭시 에이스 2]]와도 비슷한 사양을 가졌다.
+
+[[각주]]
+
+== Galaxy Light (SGH-T399) ==
+||<tablealign="center"> http://s.tmocache.com/content/dam/tmo/en-p/cell-phones/samsung-galaxy-light/all/stills/carousel-samsung-galaxy-light-all-380x380-1.jpg ||
+|| [[http://www.t-mobile.com/cell-phones/samsung-galaxy-light.html T-모바일 Galaxy Light 공식 사이트]] ||
+
+2013년 10월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||삼성 [[엑시노스]] ModAP SHANNON222 [[SoC]]. [[ARM Cortex-A7]] MP4 1.4 GHz [[CPU]], [[ARM Mali]]-400 MP4 440 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 8 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD (233 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, [wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11a/b/g/n, [[블루투스]] 2.1+EDR, [[NFC]] ||
+||[[카메라]]||전면 --만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 1800 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean)[[br]][[삼성 터치위즈]] 6.0 ||
+||규격||63.5 x 121.4 x 10.2 mm, 121.9 g ||
+
+=== 상세 ===
+[[T-모바일]] US로 출시된 제품 중 매우 희귀한 삼성전자 자체 AP 탑재 [[스마트폰]]이다.[* [[갤럭시 S]] 시리즈 조차 1세대를 제외하면 전부 [[퀄컴 스냅드래곤]]을 사용했다. 즉, [[갤럭시 S II]] [[WCDMA]] 모델에도 [[퀄컴 스냅드래곤]]을 사용했다는 소리다. 그나마 있던 모델은 [[갤럭시 노트 II]] 정도다.] 이외의 사양은 디스플레이를 제외하면 4.7인치의 [[갤럭시 윈]]과 비슷하다. ~~[[갤럭시 윈]] LTE는 동일한 AP를 사용해서 더욱 비슷하게 보인다.~~
+
+특히, 사용된 AP가 기존의 [[엑시노스]]가 아닌, 통신 모뎀이 포함된 [[엑시노스#s-3.1|SHANNON222]] AP를 사용한다.[* 원래 SHANNON222는 통신 모뎀으로, 한국 내수용 [[갤럭시 S4]] LTE에 사용되었다.]
+
+[[각주]]

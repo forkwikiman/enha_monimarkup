@@ -1,0 +1,60 @@
+ * 상위항목 : [[다키스트 던전]] & [[다키스트 던전/캐릭터]]
+
+{{{+1 ''' ''Highwayman'' ''' }}}
+
+attachment:DD_Highwayman.jpg
+
+[[목차]]
+
+== 소개 ==
+> A rogue, a thug and a thief, the Highwayman has honed his skills with dirk and flintlock to devastating effect. 
+> Whether at range or in a melee, he is equally effective at dispatching his foes. Be it a grapeshot area-of-effect, or a single target bleed, the Highwayman's skills focus solely on dealing damage in a variety of ways.
+
+도적이자 부랑자, 혹은 그저 도둑이라고도 불리우는 노상강도는 단도와 플린트락 머스킷을 치명적으로 다루는 방법을 극한까지 단련했습니다. 적과의 거리에 상관 없이 노상강도는 적을 효과적으로 제거할 수 있습니다. 포도탄으로 광역 피해를 가하거나, 혹은 단일 대상에게 출혈을 일으키는 등, 노상 강도는 적들에게 다양한 방식으로 피해를 주는 역할을 맡습니다.
+== 운용법 ==
+원거리, 근거리를 포괄하는 공격 스킬들로 무장한 원거리 딜러형 캐릭터.
+
+게임 시작시 처음 접하게 되는 캐릭터로, 스킬들의 밸런스가 잘 잡혀 있어 취향대로 다양한 운용이 가능하며, 정조준과 캠핑스킬인 총기 청소[* (원거리)ACC 10 증가, DMG 20% 증가, CRT 5% 증가]의 치명타율 상승이 높아 후반에는 원거리 치명타 위주로 운용하게 된다. 최전방에서 사용 가능하며 사용시 후열로 한칸 이동하는 영거리 사격과 전열로 한칸 치고 나가는 결투자의 전진의 조합이 잘 맞으며, 영거리 사격의 추가 데미지가 50%로 매우 높기 때문에 스피드가 빠르다면 1선에 세워서 초반부터 적의 전열을 녹여버리는 것도 좋으며, 노상강도 두명을 전열에 세워두고 턴마다 영거리 사격을 하는 전술도 유효하다.[* 다만  턴이 돌아오는 캐릭터가 제일 앞에 있어야 연속해서 사용이 가능하니 적당히 순서를 조절하며 플레이하면 좋다.] 회피율이 높기 때문에 전열이든 후열이든 적의 공격을 피할 확률도 높은 편이다.
+
+운용 방법은 전열에서 영거리 사격과 결투자의 전진으로 1~2열을 이동하며 딜을 넣는 방식, 혹은 상술한대로 2 노상강도 체제로 딜을 넣는 방식과 3열에서 버프를 걸고 높은 치명타 율을 가진 권총 사격으로 적을 제거하는 방식이 있다. 어느쪽이 되었건 캠핑스킬인 총기 청소 이후의 화력이 상당하기 때문에 무법자와 같이 캠핑 이후 더욱 강해지는 캐릭터.
+
+추천 스킬은 전열 운용시 영거리 사격과 결투자의 전진을 채택하며, 3열 운용의 경우는 권총사격의 높은 치명타 율과 자체 버프인 정조준, 총기 청소의 조합을 노려 극 치명타 세팅을 해 운용하는 것이 좋다. 비는 스킬칸은 고 출혈 단일타겟기인 정맥 절개이나 약한 적을 일거에 소탕할 수 있는 포도탄 사격으로 구성하면 좋다.[* 다만 포도탄 사격의 경우 명중률이 충분히 높지 않다면 턴을 날릴 수 있고, 후반으로 갈수록 적 한명을 집중 공격해 제거하는 것이 중요해진다는 것을 고려해야 한다.]
+
+== 능력치 ==
+해당 배율은 0렙 상태일때의 스킬치다.
+
+ * 기본 스텟
+ ||<#DCDCDC> HP || DOD ||<#DCDCDC> PROF || SPD ||<#DCDCDC> ACC || CRT ||<#DCDCDC> DMG ||
+ ||<#DCDCDC> 22 || 10 ||<#DCDCDC> 0% || 4 ||<#DCDCDC> 0 || 5% ||<#DCDCDC> 5 - 11 ||
+
+ * 저항력
+ ||<#DCDCDC> 스턴 || 오염 ||<#DCDCDC> 질병 || 치명타 ||<#DCDCDC> 이동 || 출혈 ||<#DCDCDC> 약화 || 함정 ||
+ ||<#DCDCDC> 40 || 40 ||<#DCDCDC> 40 || 67 ||<#DCDCDC> 40 || 40 ||<#DCDCDC> 40 || 30 ||
+
+== 보유 스킬 ==
+해당 배율은 1레벨 스킬 기준이다.
+
+ * 전투 스킬
+ ||<#000000> '''{{{#white 전투스킬명'''}}} ||<#000000> '''{{{#white 공격위치'''}}}  ||<#000000> '''{{{#white 대상위치'''}}}  ||<#000000> '''{{{#white  공격'''}}}[[br]]'''{{{#white 형태'''}}} ||<#000000> '''{{{#white  위치이동'''}}}  ||<#000000> '''{{{#white  ACC'''}}}[[br]]'''{{{#white  Base'''}}} ||<#000000> '''{{{#white DMG'''}}}[[br]]'''{{{#white  Mod'''}}} ||<#000000> '''{{{#white CRIT'''}}}[[br]]'''{{{#white  Mod'''}}}  ||<#000000> '''{{{#white  기타 효과'''}}}  ||
+ ||<#DCDCDC> 사악한 베기 [[br]] (Wicked Slice) ||<#DCDCDC> ○ ● ● ● ||<#DCDCDC> ● ● ○ ○ ||<#DCDCDC> 근접 ||<#DCDCDC> - ||<#DCDCDC> 85 ||<#DCDCDC> - ||<#DCDCDC> 5% ||<#DCDCDC> - ||
+ || 권총 사격 [[br]] (Pistol Shot) || ● ● ● ○ || ○ ● ● ● || 원거리 || - || 80 || -25% || 10% || - ||
+ ||<#DCDCDC> 영거리 사격 [[br]] (Point Blank Shot) ||<#DCDCDC> ○ ○ ○ ● ||<#DCDCDC> ● ○ ○ ○ ||<#DCDCDC> 원거리 ||<#DCDCDC> 1칸 후퇴 [[br]] 적 1칸 넉백 ||<#DCDCDC> 80 ||<#DCDCDC> 50% ||<#DCDCDC> - ||<#DCDCDC> - ||
+ || 포도탄 사격 [[br]] (Grapeshot Blast) || ○ ● ● ○ || ●-●-● ○  || 원거리 || - || 75 || -50% || -7% || ||
+ ||<#DCDCDC> 정조준 [[br]] (Take Aim) ||<#DCDCDC> ● ● ● ● ||<#DCDCDC> ○ ○ ○ ○  ||<#DCDCDC> 근접 ||<#DCDCDC> - ||<#DCDCDC> - ||<#DCDCDC> - ||<#DCDCDC> - ||<#DCDCDC> ACC 4 증가, CRT 5% 증가 ||
+ || 결투자의 전진 [[br]] (Duelist's Advance) || ● ● ● ○|| ● ● ● ● || 근접 || 1칸 전진 || 80 || -20% || 2% || ||
+ ||<#DCDCDC> 정맥 절개 [[br]] (Open Vein) ||<#DCDCDC> ○ ● ● ● ||<#DCDCDC> ● ● ○ ○ ||<#DCDCDC> 근접 ||<#DCDCDC> - ||<#DCDCDC> 85 ||<#DCDCDC> -15% ||<#DCDCDC>  - ||<#DCDCDC> 출혈 DMG 2 x 3라운드 ||
+
+ * 캠핑 스킬
+ The Highwayman relishes cynical preparedness and off-color jokes around the campfire. 
+ A life spent running and hiding has taught him the tenuous benefit of perimeter alarms, and late-night investigations into the encroaching shadows.
+
+ ||<#000000> '''{{{#white 캠핑스킬명'''}}} ||<#000000> '''{{{#white TC'''}}} ||<#000000> '''{{{#white  대상'''}}}  ||<#000000> '''{{{#white  효과'''}}}  ||
+ ||<#DCDCDC> 격려 (Encourage) ||<#DCDCDC> 2 ||<#DCDCDC> 아군 한명 ||<#DCDCDC> 스트레스 10 감소 ||
+ || 상처 치료 (Wound Care) || 2 || 아군 한명 || HP 20% 회복, 33% 확률로 출혈 제거 ||
+ ||<#DCDCDC> 격려 연설 (Pep Talk) ||<#DCDCDC> 2 ||<#DCDCDC> 아군 한명 ||<#DCDCDC> 스트레스 저항력 25% 증가 ||
+ || 으스스한 농담 (Gallows Humor) || 5 || 자신 [[br]] 모든 아군 || 스트레스 25 감소 [[br]] 75%확률로 스트레스 20 감소, 25%확률로 스트레스 10 증가 ||
+ ||<#DCDCDC> 대비하기 (Uncatchable) ||<#DCDCDC> 2 ||<#DCDCDC> 자신 ||<#DCDCDC> 다음캠프때까지 스카우팅 찬스 30% 증가 ||
+ || 총기 청소 (Clean Guns) || 3 || 자신 || (원거리) ACC 10 증가, DMG 20% 증가, CRT 5% 증가 ||
+ ||<#DCDCDC> 도적의 감각 (Bandit's Sense) ||<#DCDCDC> 2 ||<#DCDCDC> 자신 ||<#DCDCDC> 다음 캠프때까지 아군의 놀람(Surprised) 감소, 적군은 증가 ||
+
+[[각주]]

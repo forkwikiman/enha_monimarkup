@@ -1,0 +1,11 @@
+위키의 전체 목차 페이지입니다.
+현재 리그베다 위키의 문서수는 [[PageCount]]개 입니다.
+
+  * [[WordIndex|WordIndex]] -- 단어로 분류하여 모든 항목을 보여줍니다
+  * [[RecentChanges|RecentChanges]] -- 바뀐글을 확인할 수 있습니다.
+
+----
+
+[[TitleIndex(가)]]
+
+

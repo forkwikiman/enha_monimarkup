@@ -1,0 +1,114 @@
+|| 장르 |||||||| Mambo ||
+|| 곡명 |||||||| With U Girl ||
+|| 작곡 |||||||| 양준영 ||
+|| 작사/보컬/랩 |||||||| [[Mario Bolden]] ||
+|| 배경 |||||||| [[KIMYS]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| 리믹스 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 144 ||
+|||||||||| 모드별 레벨 데이터 (원곡) ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 3}}} || {{{#red 4}}} || {{{#purple 8}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 4}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_LcbPcvcmMtI$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=LcbPcvcmMtI$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=LcbPcvcmMtI$&playLoc=undefined'></embed></object>
+}}}
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='A7wZAka6ask$' width='642px' height='510px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=A7wZAka6ask$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=A7wZAka6ask$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~]] '''BGA'''
+
+[[목차]]
+== 개요 ==
+사람들이 싫어하기로 유명한 노래. 인기가 없거나 잊혀지는 경우는 있어도 사람들이 싫어하는 경우는 별로 없는데 유난히 이 곡은 싫어하는 사람이 많다. 노래 자체가 나쁜 건 아닌데 인기가 떨어지는 것은 BGA가 이상하다는 것과 랜덤 채널에서 자주 나오는 것 같다는 느낌 때문인 듯. 그럼에도 불구하고 7th CV에서 삭제되지 않았다.
+
+한때 원래의 캉캉브라더스 BGA 대신 [[Ez2Dancer]]의 '줘' BGA를 재활용해서 대체된 적도 있었다.
+
+네이버에 제목으로 검색하면 원곡의 포스팅은 딱 두개 발견할수 있다. 리믹스는 3개. 노래 자체는 좋다. OST 버전을 구해서 들어보길 바란다.
+
+이상하게도 곡 표기가 자주 바뀌는 곡. 시리즈마다 With You Girl로 표기될 때도 있고, With U Girl로 표기될 때도 있다.
+
+== 패턴 ==
+비인기곡임에도 불구하고 리믹스도 생기고 패턴도 계속 추가되는 것을 보면 제작진 측에서는 계속 밀어주는 것 같기도 하다.
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+5키 기준 노멀 난이도는 3, 하드는 4. EV에서 SHD가 추가되었다. 난이도는 8. 노트수로 미루어볼 때 znpfg 패턴으로 추정된다. 드디어 아이캐치 디스크에서도 BGA의 아저씨 둘을 볼 수 있게 되었다. NM에는 열대어 1마리. HD는 상어와 물고기들. 일단 전부 BGA에 등장은 한다.
+=== 7K STANDARD ===
+언제부터인가 7키에 11레벨짜리 하드 패턴이 생겼다.
+=== 5K COURSE ===
+7th에서 새로 생긴 랜덤류 채널인 znpfg에서 원곡과 리믹스가 둘 다 등장한다. 그나마 난이도도 올라가고 해서 좀 덜 까인다. 
+
+원곡은 지금까지 단 한번도 라디오 채널에 등장한 적이 없다. znpfg 채널을 비롯한 랜덤류 채널 이외에는 단 한 번도 수록된 적이 없다.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+하드는 10으로, 동시치기로 우직하게 밀어붙이는 패턴. 느린 속도에 주로 8비트로만 나와서 박자가 어렵지는 않으나 동시치기 배치가 레벨 10치고는 까다로워서 주의해야 한다.
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+AEIC에서 추가되었다.
+
+== With U Girl (Beach Ver.) ==
+|| BPM |||||||| 143 ||
+|||||||||| 모드별 레벨 데이터 (리믹스) ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6}}} || {{{#red 7}}} || {{{#purple 8}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 5}}} || {{{#red 9}}} || {{{#purple 12}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_qV1ex9-035A$' width='502px' height='405px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=qV1ex9-035A$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=qV1ex9-035A$&playLoc=undefined'></embed></object>
+}}}
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''리믹스 BGA'''
+
+6th에서는 리믹스가 등장헀는데 리믹스도 미움받기는 마찬가지라, 노래는 둘째 치고 채보가 정말로 뭣같았다. 그러면서 슈퍼 하드까지 있는데 슈퍼 하드 채보 중에 가장 낮은 난이도를 자랑한다. 결국 원곡이 7th CV의 삭제 폭풍을 벗어난 것과는 달리 리믹스는 못 벗어났다.
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+슈하는 7th 1.0에서는 다른 6th 리믹스곡 슈하와 함께 삭제되었던 적이 있다. 그러나 아무래도 있었던 채보를 없애는 건 좀 그렇다고 생각한 건지 1.5인지 2.0인지에서 부활했다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+리믹스 곡은 6th 당시에 리믹스 곡들을 모아둔 채널에 들어간 적이 있었지만 하필이면 6th의 3개의 리믹스 채널중 가장 선택율이 빈약한 채널이다.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== 가사 ==
+||Have you ever met a girl & She was so file & She was so kind & She almost ruled your mind
+Girl that can't help it, wanna make your mind?
+Girl that can't help it, want you all the time
+Girl that can't help it, wanna make your mind?
+Girl that can't help it
+Can not run away with you, she's almost everyday with you
+We can self the world, earth, too. Build a house in malibu.
+Promise I'll be real with you, Need no other but my book.
+We can start our lives new, It'll be a dream come true.
+Girl that can't help it, wanna make your mind?
+Girl that can't help it, want you all the time
+Girl that can't help it, wanna make your mind?
+Girl that can't help it
+Working hard everyday, Just get a week a pay
+Trying to get real cost to yu, to your heart, get me a clue.
+I don't wanna bother you, I just wanna talk to you.
+Put some time I like with you, to you only girl with true.||

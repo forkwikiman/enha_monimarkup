@@ -1,0 +1,86 @@
+[[목차]]
+
+= BB.North Carolina =
+||attachment:네이비필드2/NorthCarolina.jpg||
+
+>워싱턴 해군조약이 파기된 후 건조된 미국의 전함입니다. 2차 세계대전에서 항공모함을 주력으로 하는 기동부대의 호위임무에서 활약하였습니다.
+
+||<tablewidth=90%><tablealign=center><|4><table align=center><#CCCCCC>기본 정보||||||<#DCDCDC>티어||||<#DCDCDC>9||
+||||||가격||||398,480||
+||||||<#DCDCDC>함체 연구 경험치||||<#DCDCDC>839,700||
+||||||이전 함선부터 연구 경험치||||1,106,870||
+||<|11><table align=center><#CCCCCC>장비||<|7><table align=center><#BBBBBB>함선 정보||||<#DCDCDC>내구력||||<#DCDCDC>91,238||
+||||속도||||26.7노트||
+||||<#DCDCDC>급 가속 준비시간||||<#DCDCDC>12.5초||
+||||급 가속 유지시간||||2.9초||
+||||<#DCDCDC>전투 수리량||||<#DCDCDC>0.0DP/초||
+||||최대 대공기관총 명중률||||24.4%||
+||||<#DCDCDC>대공기관총 공격력||||<#DCDCDC>20[* 게임 내 전투 중 관측값]||
+||<|4><table align=center><#BBBBBB>장갑||||상면||||0||
+||||<#DCDCDC>측면||||<#DCDCDC>0||
+||||방뢰||||0||
+||||<#DCDCDC>방어등급||||<#DCDCDC>6||
+||<|24><table align=center><#CCCCCC>무장||<|11|><table align=center><#BBBBBB>주포||||종류||||16"/45 Mark 6||
+||||<#DCDCDC>구성||||<#DCDCDC>3연장 3기||
+||||재장전 시간||||13.7초||
+||||<#DCDCDC>정확도||||<#DCDCDC>D||
+||||최대 사거리||||2,562||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>45도||
+||||탄약량||||270 (각 함포당 30회 사격분)||
+||<|4><table align=center><#AAAAAA>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||6,319||1,896||
+||<#DCDCDC>관통||<#DCDCDC>1,896||<#DCDCDC>7,583||
+||대지||3,160||1,264||
+||<|11><table align=center><#BBBBBB>부포1||||<#DCDCDC>종류||||<#DCDCDC>5"/38 Mark 12||
+||||구성||||2연장 10기[* 좌우현 각각 5기씩 배치되어 있다.]||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>4.1초||
+||||정확도||||C||
+||||<#DCDCDC>최대 사거리||||<#DCDCDC>1,858||
+||||최대 발사각||||85도||
+||||<#DCDCDC>탄약량||||<#DCDCDC>1,600 (각 함포당 80회 사격분)||
+||<|4><table align=center><#AAAAAA>공격력||탄종||AA||-||
+||<#DCDCDC>폭발||<#DCDCDC>531||<#DCDCDC>-||
+||관통||159||-||
+||<#DCDCDC>대지||<#DCDCDC>266||<#DCDCDC>-||
+||<|2><table align=center><#BBBBBB>거점점령||||부대수||||222||
+||||<#DCDCDC>공격력||||<#DCDCDC>1,083||
+||<|4><table align=center><#CCCCCC>항공기||||||총 적재량||||52||
+||||||<#DCDCDC>동시 이륙가능 수||||<#DCDCDC>1||
+||||||가능한 편대||||1||
+||||||<#DCDCDC>탑재 가능 항공기||||<#DCDCDC>정찰기||
+
+[[각주]]
+
+= 함선 연구 =
+== 주포 ==
+=== 16인치 3연장 I ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>16"/45 Mark 6 3×3 (HE: 6,319)||
+||||필요 경험치||||180,720||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>72,590||
+||<|11|><table align=center><#CCCCCC>세부 정보||||종류||||16"/45 Mark 6||
+||||<#DCDCDC>구성||||<#DCDCDC>3연장 3기||
+||||재장전 시간||||'''{{{#GREEN 13.19 초}}}'''||
+||||<#DCDCDC>정확도||||<#DCDCDC>D||
+||||최대 사거리||||2,562 M||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>45 도||
+||||탄약량||||270||
+||<|4><table align=center><#BBBBBB>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||6,319||1,896||
+||<#DCDCDC>관통||<#DCDCDC>1,896||<#DCDCDC>7,583||
+||대지||3,160||1,264||
+
+=== 16인치 3연장 II ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>16"/45 Mark 6 3×3 (HE: 6,635)||
+||||필요 경험치||||240,960||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>96,780||
+||<|11|><table align=center><#CCCCCC>세부 정보||||종류||||16"/45 Mark 6||
+||||<#DCDCDC>구성||||<#DCDCDC>3연장 3기||
+||||재장전 시간||||'''{{{#GREEN 12.47 초}}}'''||
+||||<#DCDCDC>정확도||||<#DCDCDC>'''{{{#GREEN D}}}'''||
+||||최대 사거리||||2,562 M||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>45도||
+||||탄약량||||270||
+||<|4><table align=center><#BBBBBB>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||'''{{{#GREEN 6,635}}}'''||'''{{{#GREEN 1,991}}}'''||
+||<#DCDCDC>관통||<#DCDCDC>'''{{{#GREEN 1,991}}}'''||<#DCDCDC>'''{{{#GREEN 7,962}}}'''||
+||대지||'''{{{#GREEN 3,318}}}'''||'''{{{#GREEN 1,327}}}'''||

@@ -1,0 +1,36 @@
+[[목차]]
+== 설명 ==
+대한민국의 게임 그래픽 디자이너, [[BGA]] 제작자. 1989년 8월 15일생이다.
+
+[[EZ2DJ]] 참여 이전의 활동에 대해서는 알려진 창작활동이 없기 때문에 알 수 있는 정보가 많지 않다. [[EZ2DJ AE]]에서 처음으로 상업용 리듬게임 제작자로 데뷔하였다. [[wiki:"EZ2DJ AE" AE]]에서 담당한 파트는 게임의 로고와 사용자 인터페이스를 비롯한 전반적인 디자인이다. [[EZ2DJ]]의 작업과 함께 [[Sabin Sound Star : Renascence Burst]]의 UI 및 인게임 디자인 리뉴얼도 담당했다.
+
+확실한 것은 그 역시 리듬게임 매니아 출신 제작자라는 것이다. [[DJMAX 시리즈]]와 [[EZ2DJ]] 커뮤니티에서 모두 활동하였으며 [[BEMANI 시리즈]] 리듬게임도 최근까지 플레이하는 듯 하다. 꽤 오랜 시간동안 리듬게임을 접해왔던 것으로 보인다.
+
+BGA로는 [[wiki:"EZ2DJ AE" AE]] 시리즈의 스탭 롤인 [[Beyond The Azure Skies]]와 [[Phat Trash]], [[wiki: "EZ2AC EC" EC]]의 스탭 롤인 [[northpole]]을 제작하였다. Diesel Eater 팀이 만든 [[Nothing Else]]의 BGA 리믹싱도 담당했다.
+
+디자인의 특징으로는 [점자]를 쓴다.
+
+== 개발한 작품 ==
+=== [[EZ2DJ]] ===
+==== [[EZ2DJ : AZURE EXPRESSION]] & [[wiki:"EZ2DJ AEIC" AEIC]] ====
+ * 게임 로고, UI, SKIN 등 게임 전반적인 디자인
+ * 웹 이미지 [* 해당 이미지들은 공식 트위터를 통해 공개되었다.]
+=== [[EZ2AC]] ===
+==== [[EZ2AC : ENDLESS CIRCULATION]] ====
+ * 게임 로고, UI, SKIN 등 게임 전반적인 디자인
+ * 게임 PV, 스탭 롤 담당
+ * 해금 관련 이미지 [* 해당 이미지들은 EZ2AC 공식 트위터 계정에서 확인 가능하다.]
+=== [[Sabin Sound Star]] ===
+==== [[Sabin Sound Star : Renascence Burst]] ====
+ * UI 및 인게임 디자인 리뉴얼
+== 리듬게임 참여 BGA ==
+=== [[EZ2DJ]] ===
+==== [[EZ2DJ : AZURE EXPRESSION]] ====
+ * [[Beyond The Azure Skies]][* AE & AEIC 버전 모두 담당하였다.]
+==== [[EZ2DJ : AZURE EXPRESSION INTEGRAL COMPOSITION]] ====
+ * [[Phat Trash]]
+=== [[EZ2AC]] ===
+==== [[EZ2AC : ENDLESS CIRCULATION]] ====
+ * [[Lucid]]
+ * [[Nothing Else]] - [https://www.youtube.com/watch?v=-viRmn1x5E8 BGA 리믹스]
+ * [[northpole]]

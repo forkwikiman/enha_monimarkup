@@ -1,0 +1,156 @@
+[[목차]]
+
+== 거성 콩댄스 ==
+
+{{{#!html
+<iframe title='거성콩댄스 ㅋㅋ' width='640px' height='360px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=WmLgX9TD2Ss$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+원본은 거성체조
+}}}
+
+== 09년도 대중가요 메들리 콩댄스 ==
+
+{{{#!html
+<iframe title='콩댄스 대중가요 메들리 버전' width='502px' height='399px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=RUS9gIDzILA$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+}}}
+
+== 보글보글 ==
+
+{{{#!html
+<object id='mgoonPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='500' height='423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://play.mgoon.com/Video/V657138@0' /><param name='quality' value='high' /><param name='bgcolor' value='#000000' /><embed src='http://play.mgoon.com/Video/V657138@0' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' quality='high' bgcolor='#000000' width='500' height='423' name='mgoonPlayer' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+원본은 [[버블보블]].
+
+== 복서 콩 ==
+
+{{{#!html
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=ECF2C383D843897F60B3909DE1F3D56A1DE7&outKey=V1241b40e62aca350ed64cb9b620e0d9981c5a78efc3f23a108b6cb9b620e0d9981c5" frameborder="no" scrolling="no"></iframe>
+}}}
+
+== 불경 ==
+
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|209326975/20090831020800861200921001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|209326975/20090831020800861200921001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+
+== 슈퍼 마리오 ==
+
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|174513356/20080123000100373591391001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|174513356/20080123000100373591391001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+
+== 스페이스 환타지 ==
+
+{{{#!html
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="500" height="402" id="movie" align="middle">	<param name="quality" value="high" />	<param name="movie" value="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=yt6c3&amp;prgid=4805280&amp;skin=1&countryChk=ko" />	<param name="allowScriptAccess" value="always" />	<param name="allowFullScreen" value="true" />	<param name="wmode" value="transparent" />	<embed src="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=yt6c3&amp;prgid=4805280&amp;skin=1&countryChk=ko" type="application/x-shockwave-flash" wmode="transparent" allowScriptAccess="always" allowFullScreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" width="500" height="402" /></embed></object>
+}}}
+
+== 신한 시즌 2 ==
+
+{{{#!html
+<iframe title='콩댄스 신한은행 스타리그 시즌 2ver.' width='640px' height='360px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=fseNn4FAir4$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+}}}
+
+== 실릿콩 ==
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dkfMjiJAcrY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+== 아이팟 콩댄스 ==
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/RBrm5vbXqvE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+== 여인천하 ==
+
+{{{#!html
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="500" height="402" id="movie" align="middle">	<param name="quality" value="high" />	<param name="movie" value="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=doengao&amp;prgid=4238977&amp;skin=1&countryChk=ko" />	<param name="allowScriptAccess" value="always" />	<param name="allowFullScreen" value="true" />	<param name="wmode" value="transparent" />	<embed src="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=doengao&amp;prgid=4238977&amp;skin=1&countryChk=ko" type="application/x-shockwave-flash" wmode="transparent" allowScriptAccess="always" allowFullScreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" width="500" height="402" /></embed></object>
+}}}
+
+== 요들콩 ==
+
+{{{#!html
+<iframe title='요들 콩댄스' width='502px' height='399px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=DBHf68Z4eE8$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+}}}
+
+== 전국노래자랑 ==
+
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|77267313/20080421010400430280441001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|77267313/20080421010400430280441001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+
+== 콩벌의 비행 ==
+
+{{{#!html
+<iframe title='콩벌의 비행' width='540px' height='310px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=nwoLrYNxQFs$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+}}}
+
+== 콩 너는 죽었다 ==
+
+{{{#!html
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="500" height="402" id="movie" align="middle">	<param name="quality" value="high" />	<param name="movie" value="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=doengao&amp;prgid=4191796&amp;skin=1&countryChk=ko" />	<param name="allowScriptAccess" value="always" />	<param name="allowFullScreen" value="true" />	<param name="wmode" value="transparent" />	<embed src="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=doengao&amp;prgid=4191796&amp;skin=1&countryChk=ko" type="application/x-shockwave-flash" wmode="transparent" allowScriptAccess="always" allowFullScreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" width="500" height="402" /></embed></object>
+}}}
+
+== 콩의 독백 ==
+
+{{{#!html
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="500" height="402" id="movie" align="middle">	<param name="quality" value="high" />	<param name="movie" value="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=panstar&amp;prgid=5951376&amp;skin=1&countryChk=ko" />	<param name="allowScriptAccess" value="always" />	<param name="allowFullScreen" value="true" />	<param name="wmode" value="transparent" />	<embed src="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=panstar&amp;prgid=5951376&amp;skin=1&countryChk=ko" type="application/x-shockwave-flash" wmode="transparent" allowScriptAccess="always" allowFullScreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" width="500" height="402" /></embed></object>
+}}}
+
+== 판관 포청천 ==
+
+{{{#!html
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=8C115339CFDCCF5CFA3DDED0B06BBC892E14&outKey=V1296f18993909d37c7d4b9f35e9bb7398afcd65df7dd2c935b64b9f35e9bb7398afc" frameborder="no" scrolling="no"></iframe>
+}}}
+
+== 호러 콩댄스 ==
+
+{{{#!html
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=B67C463CC7187325C293757BD6F9E80411AA&outKey=V121029a3090fc7bc0fa8f5aecf0fbbff0cdff51005aff12bbf7cf5aecf0fbbff0cdf" frameborder="no" scrolling="no"></iframe>
+}}}
+
+== 홍진호 우승의 순간 ==
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2CSf63BdYj8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+== 흐르는 강물 ==
+
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0%7C176575588/20080209010200375662481001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0%7C176575588/20080209010200375662481001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+
+== BLIZZARD ==
+
+{{{#!html
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=516187C8352B7505A8CFB21FA7062EFA1C02&outKey=V122b0e2af7a65bda3a6bed51fd7a4a9ac4e95b97bfbf5c092a65ed51fd7a4a9ac4e9" frameborder="no" scrolling="no"></iframe>
+}}}
+
+배경음악은 [[반야]]의 winter. 폭풍+겨울이라서 블리자드(...)
+
+== 콩댄스 ==
+{{{#!html
+<iframe width="480" height="360" src="http://www.youtube.com/embed/pALQCHLpdVI" frameborder="0" allowfullscreen></iframe>}}}
+
+http://gall.dcinside.com/list.php?id=hit&no=11639&page=1&bbs=
+
+콩댄스를 추자! 대망의 22번째 콩댄스.  자세한 사항은 [[콩댄스를 추자]] 항목 참고.
+
+== 하얀콩탑 ==
+
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/qqAwSbVGCWs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+bgm은 드라마 [[하얀 거탑]] OST 중 great surgeon. 동영상 내용도 내용이었지만 드라마 대사를 패러디한 '간콩장문합술로 하실건가요 담콩간문합술로 하실건가요' '저 콩진호입니다. 전 성공적인 댄스만 합니다' '형님, 하다못해 홍진호도 노래 틀어놓으면 춤이라도 춥니다' '어떻게라는 생각을 버려. 조건 없어. 무조건이야. 쉬지 말고, 놓지 말고 끝까지 춤춰. 그럼 그걸 내 댄스로 만들 수 있어' 등등의 주옥같은 댓글들이 사람들을 포복절도하게 만들었다..
+== 열두간지 ==
+
+{{{#!html
+<iframe title='엽갤 콩댄스 관련 영상' width='640px' height='360px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=ZhkvC89aNr4$&play_loc=undefined&alert=true' frameborder='0' scrolling='no' ></iframe>}}}
+
+
+<iframe title='최근갤에 올라온 짤로 만든 영계백숙 콩댄스' width='640px' height='360px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=v8190OAshvA88A55NAOgsha&play_loc=undefined&alert=true' frameborder='0' scrolling='no' ></iframe>
+
+

@@ -1,0 +1,251 @@
+ * 상위항목: [팝픈뮤직], [팝픈뮤직/난이도 체계]
+
+[[목차]]
+== 개요 ==
+이 항목은 팝픈뮤직 고난이도곡의 무배속 클리어 난이도를 정리해 둔 표이다. 노스피드(NS) 플레이는 많은 리듬게임에서 [막장 플레이]로 취급되는 행위이다. 이유는 특히 저 BPM 곡의 경우에는 노트를 분석해 내기조차 쉽지 않으며, 또한 노트 분별도 쉽지 않아 한번 BAD 말림이 일어나면 끝도 없는 BAD 행진을 볼 가능성이 커진다. 
+
+이 역시 공식 난이도와 어느 정도 호환성이 있으며 가이드라인에는 슈퍼랜덤 난이도와 비슷하게 Lv13~16(공식 난이도 50), Lv10~12(49강), Lv8~9(49중?), Lv5~7(49약), Lv4(48강), Lv3(48중), Lv1약(48약) 정도로 소개되어 있다. 역시 Lv.17은 '''레벨 50을 무배속 플레이를 하는 것을 말하며''' 역시 이 역시 Lv16에 비해서 아스트랄한 난이도를 자랑한다(...)
+
+각 곡에는 주기적으로 사칭/역사칭을 구별하는 표가 있으며, Lv17을 제외하고 사칭이 역사칭의 두배 이상 많을 경우 한 단계 올리고, 역사칭이 사칭의 두 배 이상 많을 경우 한 단계 내려 표기한다. 어느 한 쪽이 0표~1표인 경우는 두 표 차 이상 날 경우 한 단계 조정함.
+
+이 표의 경우 같은 난이도 대에 원래 고난이도 + 높은 BPM의 곡과 원래 저난이도 + 낮은 BPM의 곡이 혼재하는데 이 때문에 높은 개인차가 나타난다. 예를 들어 정상적으로 고난이도곡을 클리어할 수 있지만 저배속 플레이에 익숙하지 않은 유저는 전자를, 정상적으로는 그렇게 어려운 곡을 클리어하지 못하지만 노스피드를 오래 해 와서 저배속에 익숙한 유저는 후자를 더 쉽게 느끼기 마련.
+
+이미 노스피드 계에서 유명했던 [[BabeL ~roof garden~]] EX 같은 경우가 극단적인 경우로, BPM이 360을 넘는 난이도 49 곡들인 스크린이나 오이펑크0 EX 같은 곡들하고 '표에서는' 비슷한 레벨로 취급되나... 실제 체감상 얘네들의 난이도가 비슷하다 느끼는 유저는 많지 않다. 극단적인 BPM 차이 때문에 어느 한 쪽이 크게 어렵거나 크게 쉽다고 느끼는 게 보통.
+
+따라서 각 BPM별로[* 예를 들어  160~180, 240~260] 구별해서 난이도를 표기하는 방법도 제기되고 있으나, 이 경우 현재 존재하는 난이도표의 구별성이 떨어진다고 하여 BPM 구별은 그다지 잘 활용되지 않는다.
+
+여담으로 라피스토리아 들어 구 버전곡들로 정리한 [[HELL]] 코스가 추가되고 있는데, HELL TUNE STREET 코스가 [[Remain]] EX - [[BabeL ~Grand Story~]] EX - [[BabeL ~Next Story~]] EX - [[BabeL ~roof garden~]] EX에... 마지막 곡은 강제 노스피드가 걸려 있다. 해 보면 알겠지만(...) BPM 62 NS의 압박으로 인해 변속에 강하다고 자부할 정도의[* 예를 들어 SUD+ 옵션 없이 [[DDR MEGAMIX]] EX를 풀콤할 수 있는 실력] 유저마저 곡이 어려워지는 후반까지 버티지도 못하고 셔터 닫히는 걸 구경하는 수준의 난이도로, 오직 이 표의 코스를 차근차근 밟아서 Lv8~9의 저속곡을 클리어 할 수 있는 수준이 돼야 끝까지 버텨낼 수 있다. 일본에서도 노스피드 인구는 (슈퍼랜덤 인구 같은 것에 비교했을 때) 턱없이 적기 때문에... 다른 HELL 코스는 추가되자마자 실시간으로 클리어 동영상이 올라오고 있지만 HELL 19는 아예 동영상 자체가 올라올 생각을 안 하는 상황.
+
+== 난이도표[* [[date]] 상급자&초상급자 난이도표 기준+물렙곡&사기 난이도 보정 추가] ==
+이하 표에서 취소선 처리된 장르명은 원래는 장르명이 없지만 편의상 불리는 명칭이나 투덱 장르명으로 표기된 것이다.
+
+=== Lv17 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||사일런트 EX||[[音楽]]||50||[[wac|弁士カンタビレオ]]||17 The Movie||210~360||||
+||토이 컨템포러리 EX||[[シュレーディンガーの猫]]||50||[[TOMOSUKE|Cait Sith]]||16 Party♪||187||||
+||더지 EX||[wiki:"헐화"ピアノ協奏曲第1番 "蠍火"]||50||[[wac|Virkato]]||20 fantasia||165~188||IIDX 11 RED에서 이식||
+||엔젤리온 EX||[[生命の環を紡いで]]||50||han@*mori||Sunny Park||156~172||||
+||무라쿠모 EX||[[少年は空を辿る]]||50||[[PON|Power Of Nature]]||20 fantasia||140||||
+||프로그레시브(Concertino in Blue) EX||[[Concertino in Blue]]||'''48'''||[[사사키 히로후미|佐々木博史]]||Sunny Park||103~155||[[기타프릭스]] 7th & [[드럼매니아]] 6th에서 이식[[br]]Lv16 [사기 난이도]||
+
+=== Lv16 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||리나시타 EX||[[uən]]||49||[[wac|少年ラジオ]]||포터블 2||200||20 fantasia에 이식||
+||스케일아웃 EX||[wiki:"BabeL 시리즈" BabeL ～Next Story ～]||49||[wiki:"PON"Power Of Nature]||19 Tune Street||100~173||||
+||바이킹 EX||[[バイキングマン]]||48||[[부타펀치|ブタパンチ]]||16 Party♪||100~133||||
+||힙락 3 EX||[[雪上断火]]||48||[[Des-ROW]]・組||12 이로하||105~180||Lv15 [사기 난이도]||
+||노마딕 네이션 2 EX||[[Esperanza]]||48||[[猫叉Master|猫叉]][[극단레코드|劇団]]||Sunny Park||135||Lv15 [사기 난이도]||
+
+=== Lv15 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||니엔테 EX||[[neu]]||49||[[wac|少年ラジオ]]||15 ADVENTURE||199||Lv16 [물렙곡]||
+||프로그레시브 바로크 EX||[[Übertreffen]]||49||[[dj TAKA|TAKA]] Respect for J.S.B||14 FEVER!||174||||
+||루이너스 스피리츄얼 EX||[[Remain]]||49||[[wac|ZERO]]+[[kors k|ZIBA]]||19 Tune Street||150||||
+||메탈릭 오페라 EX||[[Geiselhaus]]||49||[[Naya~n|Sarastro]]||17 The Movie||180||Lv14 [사기 난이도]||
+||카그런지 EX||[生きてこそ～特別版～]||48||[あさき]||포터블2||127||20 fantasia에 이식||
+
+=== Lv14 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||스페이스 레퀴엠 EX||[[Zirkfied]]||49||iconoclasm||Sunny Park||210||[[쿠프로·미미냐미·파스텔군의 다함께 우주전쟁!!]] 최종 해금곡||
+||임볼크 EX||[[生命の焔纏いて]]||49||WALPULG||Sunny Park||184||||
+||벨럼 EX||[[Eine Haube ～聖地の果てにあるもの～]]||49||[[AIKO OI]]||20 fantasia||170||||
+||앤섬 EX||[[天空の夜明け]]||49||[[dj TAKA|Cuvelia]]||Sunny Park||150||IIDX 19 Lincle에서 이식||
+||저지먼트 EX||[[終末を追う者]]||49||[[S-C-U]]x[[PON]]||Sunny Park||185||[[미미냐미·코타로의 플라잉 캐치!]] 최종 해금곡[[br]]Lv13 [사기 난이도]||
+||와라베 스텝 EX||[[コドモライブ]]||48||[[onoken]] feat. asami||Sunny Park||140~146||||
+||그런지 데스 EX||[[ULTRA BUTTERFLY（坤剛力）]]||48||[[Des-ROW]]・組 スペシアル||AC 10||140~175||||
+||조디악 오라클 7 EX||[[アストライアの双皿]]||48||[[wac|ZODIACSYNDICATE]]||Sunny Park||173||[[유비트 소서]]에서 이식||
+||프로그레 탱고 EX||[[Red Roses]]||48||[[이즈미 무츠히코]]||19 Tune Street||130~170||||
+||모반 트랜스 EX||[[NOBUNAGA]]||48||[[dj TAKA|本能寺尊之]]||18 전국열전||150||||
+||모던펑크 EX||[夢について]　TYPE C||48||[小野秀幸] feat.岡本裕美||19 TUNE STREET||148||||
+||드림 참프루 EX||[Dimensiva Vulnus]||48||[Akhuta]||Sunny Park||120~140||||
+||브로큰 삼바 브레이크 EX||[灼熱Beach Side Bunny]||48||[DJ Mass] Mad Izm*||Sunny Park||153||IIDX 18 Resort Anthem에서 이식[[br]]Lv13 [사기 난이도]||
+||환상음악 EX||[αρχη]||47||[Dormir]||20 fantasia||120||기타프릭스&드럼매니아 V3에서 이식||
+||근대절정음악 EX||[天庭]||47||[아사키|閣下]||15 Adventure||113||||
+||카바렛 EX||マッシュな部屋||'''43'''||[Jimmy Weckl|亜熱帯マ][오노 히데유키|ジ-SKA爆弾] feat.[MAKI]||14 FEVER!||70||||
+
+=== Lv13 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||클래식 9 EX||[[클래식 9|Hell? or Heaven?]]||49||Waldeus vön Dovjak||CS 9||'''25~680'''||12 이로하에 이식||
+||클래식 11 EX||[想い出をありがとう]||49||Waldeus vön Dovjak||CS 11||40~320||14 FEVER!에 이식||
+||하드 르네상스 EX||[[Elemental Creation]]||49||[[dj TAKA]] meets [[DJ YOSHITAKA]]||Sunny Park||212||[[사립 BEMANI 학원]] 최종 해금곡||
+||피아노 컨템포러리 EX||[Macuilxochitl]||48||[TOMOSUKE]||19 Tune Street||148||[유비트 리플즈]에서 이식[[br]]Lv14 [물렙곡]||
+||크리에이터 EX||[[創世ノート]]||48||[[PON]]+[[wac]]||Sunny Park||200||[[사립 BEMANI 학원]] 해금곡||
+||옛날 이야기 EX||[[序]]||48||[[wac|かむがたりべ]]||18 전국열전||170~195||||
+||글로솔레일리아 EX||[万物快楽理論]||48||[あさき]||16 Party♪||110~135||Lv14 [물렙곡]||
+||그래비올 EX||[[STULTI]]||48||[[MAX MAXIMIZER]]&[[DJ TOTTO]]||Sunny Park||90~182||[[사립 BEMANI 학원]] 해금곡||
+||스파이럴 스테어즈 EX||[[BabeL 시리즈|BabeL ～Grand Story～]]||48||[[부타펀치|Ako Atak]]||19 Tune Street||163||||
+||나이트메어 캐러셀 EX||[カーニバルの主題による人形のためのいびつな狂想曲]||48||[wac|楽士カンタビレオ]||CS 13 카니발||80~150||16 Party♪에 이식||
+||노마딕 네이션 EX||[[カラルの月]]||48||[[猫叉Master|猫叉]][[극단레코드|劇団]]||20 fantasia||135||||
+||괴수 EX||[[突然ゴルゴンゾーラ]]||47||[[부타펀치|ひので155]]||17 The Movie||140||||
+||컨템포러리 네이션 EX||[BEYOND THE EARTH]||47||[猫叉Master]||CS 10||140||||
+||데파 펑크 EX||デパ地下のお話||47||[스와 히데오|Sch][good-cool|ool]||AC 9||130||||
+||연설 EX||[猿の経]||47||[あさき]||14 FEVER!||106~126||||
+||아시안 콘체르토 EX||[鳳凰]||45||[Naya~n|菜楊]||12 이로하||74||||
+
+=== Lv12 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||하드 르네상스 3 EX||[[JOMANDA]]||48||[[DJ YOSHITAKA]]||Sunny Park||90~300||[[미미냐미·코타로의 플라잉 캐치!]] 해금곡[[br]][[유비트 코피어스 어펜드]]에서 이식||
+||아트코어 EX||[[Valanga]]||48||[[DJ TOTTO]]||Sunny Park||186||[[리플렉 비트 콜레트]]에서 이식||
+||스태리†트랜스 EX||[Southern Cross]||48||BlackY||20 fantasia||155||Lv13 [물렙곡]||
+||아공간 재즈 EX||[[Ergosphere]]||48||[[TOMOSUKE]]||16 Party♪||170||||
+||진기 프로그레시브 EX||[風林火山]||48||[96]||18 전국열전||92~162||||
+||피버 로보 EX||[[踊るフィーバーロボ]]||48||ダニエル&eimyとよしくん||14 FEVER!||160||||
+||하드 르네상스 2 EX||[[Evans]]||48||[[DJ YOSHITAKA]]||Sunny Park||185||[[미미냐미·코타로의 플라잉 캐치!]] 해금곡[[br]][[유비트]]에서 이식||
+||IDM EX||[ZETA 〜素数の世界と超越者〜]||48||[Zektbach]||15 Adventure||90~180||Lv11 [사기 난이도]||
+||비비드 EX||[For Dear~]||47||[Des-ROW|桜井零士]||12 이로하||166~188||||
+||트랜스랜스 EX||[full-consciousness green]||47||[Des-ROW|D-crew]||14 FEVER!||158~180||||
+||사이버 웨스턴 EX||PITAゴラス☆KISS||47||[good-cool] ft.バッチ恋トシ||17 The Movie||148||||
+||엔카 리믹스 EX||[お江戸花吹雪 TEYAN-day MIX]||47||[타케야스 히로시|高田香里] ReMIXed by [무라이 세이야|SEIYA]||AC 5||140||||
+||피라미드 EX||[永遠という名の媚薬]||47||[키다 슌스케|THE NEXT FILE]||AC 8||70~130?(70~270)||보면은 AC 9에서 추가||
+||바이올린 프로그레시브 EX||[ポルターガイスト]||47||[96] feat.藤本美樹||16 Party♪||128||||
+||포레스트 스노우 2 EX||[白夜幻燈]||47||[猫叉Master]||18 전국열전||128||||
+||루닉 에어 EX||Princess Roki||47||Akino||19 Tune Street||126||||
+||오샤마 스윙 EX||[なまいきプリンセス]||47||[Dormir]||19 Tune Street||125||||
+||하이퍼 드라마틱 EX||[薔薇は永遠に美しく]||47||[TЁЯRA]||19 Tune Street||160||Lv11 [사기 난이도]||
+||에이지 비트 EX||NEW PEOPLE||46||F.size.free||13 카니발||110||Lv13 [물렙곡]||
+||컨템포러리 네이션 2 EX||[サヨナラ・ヘヴン]||46||[猫叉Master]||CS 11||111||14 FEVER!에 이식||
+||머더 락 EX||Treasure Hoard||45||[Des-ROW|ジョルカエフ多鬼島]||17 THE MOVIE||120||||
+||고스 인더스트리얼 EX||PACEM||44||[L.E.D.] fw. 堀澤麻衣子||17 THE MOVIE||108||||
+
+=== Lv11 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||블러드 메탈 EX||[[IX]]||49||[[dj TAKA]] VS [[DJ TOTTO]] feat.[[AIKO OI|藍]]||Sunny Park||198||[[열투! BEMANI 스타디움]] 최종해금곡||
+||블랙 앨범 EX||[[OVERHEAT]] -Type P-||48||[[96|DOUBLE]] [[후지모리 소타|IMPACT]]||Sunny Park||155||Lv12 [물렙곡]||
+||라멘토 EX||[[雫]]||48||[[아사키|あさき]]||12 이로하||95~210||||
+||나이트메어 메탈 EX||[[背徳と邪悪のエピタフ]]||48||[[96]] vs Vivian||Sunny Park||80~190||||
+||심포닉 메탈 op.2 EX||Sanctum Crusade||48||[[Naya~n|Sarastro]]||13 카니발||170~180||||
+||스피드 댄스 EX||[[GAIA]]||48||[[猫叉Master|猫叉]][[L.E.D.]][[猫叉Master|Master+]]||Sunny Park||180||[[사립 BEMANI 학원]] 해금곡||
+||코어 락 EX||[へんたいトリロジー]||47||[Des-ROW]・組スペシアルr||17 The Movie||182||||
+||피아노텍 EX||[Stories]||47||[wiki:"onoken"Ax]||17 The Movie||175||||
+||윤생 EX||[カゲロウ]||47||[Des-ROW]・組スペシャルr||AC 11||164||||
+||피버로보 리믹스 EX||[踊るフィーバーロボ] Eu-Robot mix||47||[DJ YOSHITAKA|D&][wac|E&Y] Rmx by [kors k|kors k as disconation]||17 THE MOVIE||163||||
+||엘레지 2 EX||[この子の七つのお祝いに]||47||[wiki:"아사키"あさき]||17 The Movie||161||||
+||클래식 6||[maritare!]||47||Waldeus vön Dovjak||CS 6||160||AC 8에 이식||
+||도구 테크노 EX||[Dogu Ditty]||47||[wiki:"Dr.Honda"Dp.Honda feat.まりも]||18 전국열전||160||||
+||신곡 EX||[神曲]||47||[あさき]||19 Tune Street||140~152||||
+||나니와 히어로 EX||[でんがなマンガナ]||47||[Jimmy Weckl|でんがな＆マンガナ]||AC 11||162||||
+||프로그레시브 (V) EX||[V(비마니 시리즈)|V]||47||[dj TAKA|TAKA]||16 Party♪||150||[beatmania IIDX 5th style]에서 이식||
+||몽골 EX||[怒れる大きな白い馬]||47||[wac|Morning Blue Dragon]||AC 11||67~148||||
+||하이퍼 J-팝 3 EX||1/6 billionth||47||[TЁЯRA]||[ee'MALL] (AC 9)[[br]]14 FEVER!에 통상해금||145||||
+||앤섬 트랜스 리믹스 EX||[Votum stellarum] -forest #25 RMX-||47||[dj TAKA|icono][wac|clasm]||15 ADVENTURE||140||||
+||핫티스트 파티 EX||[will]||46||[NAOKI]||17 The Movie||145||[댄스 댄스 레볼루션] CS HOTTEST PARTY에서 이식||
+||이과 팝 EX||[恋はどう？モロ◎波動OK☆方程式!!]||46||[TOMOSUKE|あべにゅうぷろじぇくと feat.佐倉紗織 produced by ave;new]||20 fantasia||128||||
+||자극 락 EX||[鳥無き島にて]||46||[あさき]||Sunny Park||126||||
+||트라이벌 팝 EX||[Gradation]||46||The Natural Mahoganies||14 FEVER!||125||||
+||컬러 퓨전 EX||[Riot of Color]||46||[TAG]||Sunny Park||150||[[미미냐미·코타로의 플라잉 캐치!]] 해금곡[[br]][[유비트 소서]]에서 이식||
+||에이지 락 EX||カリスマ（ゲームサイズ）||45||F.size.free||12 이로하||120||||
+||모모 비주얼 EX||[紅ノ桃]||45||[good-cool] ft.Jouei from 閃-4-AIM||18 전국열전||118||||
+||켈틱 윈드 EX||[Caring Dance]||44||[猫叉Master]||15 Adventure||101||||
+
+=== Lv10 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||스크린 EX||[[GALAXY FOREST 11.6&12]]||49||J_KANE||BEST HIT||379||AC 10에 이식||
+||전란회권 EX||[西軍∥∴⊂SEKIGAHARA⊃∴∥東軍]||48||Yukky+[Des-ROW|DES]||18 전국열전||120~210||||
+||닌자 메탈 포프코네 EX||[[背水之陣]](Kagutsuchi Remix)||48||すわひでお connected by Kagutsuchi||Sunny Park||210||||
+||데스 레게 EX||[夜間行]||48||[Des-ROW] feat.TSUBOI||AC 7||102~205||||
+||PSG 브레이크 코어 EX||[CHIP'N'RIDDIM]||48||[L.E.D.]-G||16 Party♪||200||||
+||클래식 4 H||[Concertare]||48||Waldeus von dövjak||CS 4||179||AC 7에 이식||
+||오리엔탈 미솔로지 EX||[[蛇神]]||48||[[Zektbach]]||18 전국열전||170||||
+||에센셜리 EX||[True Blue]||48||[dj TAKA] feat.AiMEE||Sunny Park||164||[[미미냐미·코타로의 플라잉 캐치!]] 해금곡[[br]][[유비트 소서]]에서 이식||
+||슈게이저 EX||[chilblain]||47||[wiki:"wac"Glaring Radiokids]||16 Party♪||196||||
+||나데시코 메탈 EX||[黒髪乱れし修羅となりて]||46||[TOMOSUKE|村正クオリア]||18 전국열전||150||||
+||유성레이브 리믹스 EX||流星☆ハニー Perforation Mix||46||[신타니 사나에|新谷][야마오카 아키라|あきら] Rmx by [good-cool]||17 THE MOVIE||148||
+||그리닝 EX||[Greening]||46||[猫叉Master]||포터블||146||19 Tune Street에서 이식||
+||컨템포러리 네이션 5 EX||[The Sky of Sadness]||46||[猫叉Master]||19 Tune Street||138||||
+||케마리 EX||[Kicky Kemari Kicker]||46||[DJ SIMON|ROUTE No.1 KIZOKU UNIT]||16 Party♪||136||||
+||포크로어 EX||アンデスの太陽||46||[이즈미 무츠히코]||15 Adventure||125||||
+||드럼 앤 프라이 H||[テンプラ揚三]|45||[SLAKE|GARIBEN KEN]||AC 11||171||Lv 11 [물렙곡]||
+||오리엔탈 포크로어 EX||旗||45||Akino||18 전국열전||132||||
+||판타지아 퓨전 EX||プロキオンの騎士団||45||Flying Kite||Sunny Park||135||||
+||하드 락 EX||[SA-DA-ME]||45||[good-cool] feat. [すわひでお]||AC 7||128||
+||포레스트 스노우 EX||[月雪に舞う花のように]||45||[猫叉Master]||CS 12 이로하||70~125||15 Adventure에 이식||
+||플러흐 EX||[水面静かに大地の烈日わたらせて]||45||[あさき]||18 전국열전||124?(70~124)||||
+||러시아 2 EX||レトロ男爵の嘆き||45||[劇団レコード]||17 THE MOVIE||130||||
+||엘레 플러드 웨이브 EX||Aqua||45||Akino||15 Adventure||115||||
+||컨템포러리 네이션 4 EX||[Tree in Lake ～消えたチチカカの木～]||45||[猫叉Master]||17 THE MOVIE||100||||
+||철도 EX||Train||44||[스와 히데오|Sch][good-cool|ool]||AC 11||120||||
+||시네마 2 EX||映画「ジェノヴァの空の下」のテーマ||43||[Q-Mex]||17 THE MOVIE||62~101||||
+||네이쳐 EX||forest song||'''41'''||[무라이 세이야|MIKI-CHANG + WORLD SEQUENCE]||CS 14 FEVER!||91||||
+||스패니쉬 발라드 EX||Dance to Blue||'''40'''||[이토 켄지|伊藤賢治]||16 Party♪||82||||
+||트와일라잇 차임 EX||[BabeL 시리즈|BabeL ～roof garden～]||'''38'''||[wac|Capital Wage Assocation]||19 Tune Street||'''52~65'''||Lv9 [사기 난이도]||
+
+=== Lv9 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||오이펑크 0 EX||[[ブタパンチのテーマ]]||49||[[부타펀치|ブタパンチ]]||AC 9||90~360||||
+||사이버 가가쿠 EX||[[Vairocana]]||48||[[wac|五条]][[NAOKI|式改]]||12 이로하||145~290||||
+||사이버 플라멩코 EX||[hora de verdad]||48||[wiki:"wac"Vandalusia][wiki:"Ryu☆"改]||14 FEVER!||140~280||||
+||클래식 10 EX||[Doll's sight]||48||Waldeus von dövjak||CS 10||50~200||13 카니발에 이식||
+||베이스볼 히로인 EX||[[轟け！恋のビーンボール！！]]||48||ダイナミック野球兄弟 v.s. クロスファイヤーPrim||Sunny Park||180||[[열투! BEMANI 스타디움]] 해금곡||
+||클래식 7 EX||[The tyro's reverie]||47||Waldeus von dövjak||CS 7||190||AC 9에 이식||
+||서커스 EX||[フリーパス]||47||[Naya~n|パンダバンダ]||AC 7||140~186||보면은 13 카니발에 등장||
+||해피 EX||[quaver♪]||47||[wiki:"dj TAKA"Risk Junk]||Sunny Park||182~186||[리플렉 비트 라임라이트]에서 이식||
+||심포닉 메탈 EX||Holy Forest||47||[Naya~n|Sarastro]||AC 10||185||||
+||해피 하드코어(I'm So Happy) EX||[I'm so Happy]||47||[Ryu☆]||Sunny Park||181||[유비트 니트]에서 이식||
+||조디악 오라클 1 EX||[ストレイ・マーチ]||47||[wac|少年ゾディアック]||Sunny Park||180||[리플렉 비트 콜레트]에서 이식||
+||차이나 락 EX||已経忍不住了||47||[good-cool] feat.ミッキー・マサシ||CS 13 카니발||180||||
+||화풍 프로그래시브 EX||[たまゆら]||47||[사사키 히로후미]||16 Party♪||179||[기타프릭스] 8th&[드럼매니아] 7th에서 이식||
+||하극상 드럼 앤 베이스 EX||[Ge-Ko-Ku-Jo]||47||[kors k] feat. MC RALLY||18 전국열전||175||||
+||네지 락 EX||[螺子之人]||47||[あさき]||[ee'MALL] 2nd Avneue[[br]]15 Adventure에 이식||100~170||||
+||일렉트로 바로크 EX||[Amalgamation]||47||Mystic Moon||Sunny Park||166||[[댄스 댄스 레볼루션]] X3 vs 2nd MIX에서 이식|| 
+||닌자 메탈 EX||[[背水之陣]]||47||[[wac|すわひでお ]]||17 The Movie||164||||
+||해적 EX||[KING of the SEA]||47||[ブタパンチ]||13 카니발||160||||
+||에이션트 유로 EX||[In The Ruins]||47||[good-cool] feat.CHiCO||15 Adventure||156||||
+||트랜스 코어 EX||[FLOWER]||47||[DJ YOSHITAKA]||20 fantasia||[유비트 니트 어펜드]에서 이식[[br]]Lv8 [사기 난이도]||
+||JV-락 EX||[洟・月・奇蹟]||46||[Des-ROW|PLATINUM-EDEN]||[ee'MALL] 2nd Avenue(AC 10)[[br]]15 Adventure에서 통상해금||170||||
+||데몬즈 메탈 EX||魔界！痛快！ヘルダンス||46||[manzo]||20 fantasia||135~167||||
+||블룸 퓨전 EX||[アルストロメリア]||46||[TAG]||Sunny Park||144||[유비트 코피어스]에서 이식[[br]]Lv8 [사기 난이도]||
+||메탈릭 사가 EX||[OVER THE LIMIT!]||45||[이토 켄지|伊藤賢治]||19 Tune Street||104~150||[기타프릭스] & [드럼매니아] V6에서 이식||
+||인피니티(kaleidoscope) EX||[만화경|kaleidoscope]||45||[ota2|ASparagus]||CS 9||142||16 Party♪에 이식||
+||프론티어 EX||探検ノート||45||[PON] feat. ふじのマナミ||19 Tune Street||142||||
+||태극권 EX||[個胃Ｘ光]||45||[Jimmy Weckl|絹 老人]||14 FEVER!||85~137||||
+||알리프로 2 EX||暗黒サイケデリック||45||[ALI PROJECT]||17 THE MOVIE||135||||
+||에너지 락 EX||夢と現実||44||P-4 laboratory||CS 9||137||17 THE MOVIE에 이식||
+||루나틱 릴 EX||moon dance||44||Akino||17 THE MOVIE||124||||
+||이모셔널 EX||Loveholic||43||[Sana]||CS 9||150||15 Adventure에 이식[[br]]Lv8 [사기 난이도]||
+||쿠반 그루브 EX||[サナ・モレッテ・ネ・エンテ]||42||[Togo|Togo Project] feat. [Sana]||CS 5||90||beatmania APPEND GOTTAMIX2에서 이식[[BR]]AC 7에 이식||
+||글램 락 EX||スペース★彡キッス||41||[키다 슌스케|Kiddy & Sunshine Lovers]||AC 7||100||||
+||환상수호전 V EX||[女王騎士]||41||[猫叉Master]||CS 13 카니발||95||18 전국열전에 이식||
+||론도 EX||[おもちゃばこのロンド]||'''39'''||[Dormir]||14 FEVER!||100||Lv8 [사기 난이도]||
+
+=== Lv8 ===
+||장르명||곡명||표기 난이도||아티스트||수록작||BPM||기타||
+||비스트 메탈 EX||[野獣ワイルド]||48||[ブタパンチ]||Sunny Park||249||||
+||대우주의 법전 EX||[天庭 おとこのこ編]|47||[あさき]||Sunny Park||209||[기타프릭스] & [드럼매니아] XG에서 이식||
+||노로 에모? EX||ミサコの日記 (見ちゃダメ!)||47||[Des-ROW]+ミサコちゃん||20 fantasia||95~190||Lv9 [물렙곡]||
+||메이드 메탈 EX||[[ホーンテッド★メイドランチ]]||47||[[히나비타♪|日向美ビタースイーツ♪.]]||Sunny Park||188||||
+||벨벳 불렛 히트 EX||ヴェルヴェットバレット||47||[Des-ROW]+2||19 Tune Street||177||||
+||코어더스트 비트 EX||真超深TION||47||[Des-ROW|Des-][아사키|あさ]||13 카니발||177||||
+||드림게이저 EX||[Little Prayer]||47||[wac|土岐麻子]||포터블||174||[기타프릭스] & [드럼매니아] V에서 이식[[br]]20 fantasia에 이식||||
+||다크 오페라 리믹스 EX||Der Wald (kors k Remix)||47||[무라이 세이야|エレハモニカ] remixed by [kors k]||20 fantasia||170||||
+||발키리 브레이크 EX||[Celsus]||47||[onoken|felys] feat. 夏川陽子||20 fantasia||165||||
+||J-락Φ뉴 EX||[Alicy]||46||[dj TAKA|colors feat. Hyuga Rei]||17 THE MOVIE||174||||
+||멜로 펑크 EX||pure||46||[Des-ROW]+1||AC 8||120~168||||
+||애니멀 미니멀 EX||The Zoo Zone||46||[Mystic Moon]||19 Tune Street||160||||
+||케시고무 EX||[School Life]||46||[스와 히데오|Sch][good-cool|ool]||CS 8||77~155||AC 11에 이식||
+||컨템포러리 네이션 3 EX||[Echoes]||46||[猫叉Master]||16 Party♪||150||||
+||사이키델릭 트랜스 EX||[Psyche Planet-V]||46||[Sota Fujimori]||14 FEVER!||150||||
+||고어 트랜스 EX||[IMPLANTATION]||46||[TOMOSUKE]||[ee'MALL](AC 9)[[br]]14 FEVER!에 통상해금||145||[드럼매니아] 2ndMIX에서 이식||
+||네부타 EX||[烏]||46||[무라이 세이야|黒踊社中]||AC 11||140||||
+||하이퍼 재패니스크 3 EX||[天上の星 ～黎明記～]||45||[TЁЯRA]||18 전국열전||170?(85~170)||||
+||데스 보사 EX||SUN/光線||45||[Des-ROW]・組スペシアルz||13 카니발||155||||
+||핸즈 업 EX||[Second Heaven]||45||[Ryu☆]||17 THE MOVIE||149||[beatmania IIDX 14 GOLD]에서 이식||
+||패시네이션 EX||[朧]||45||[Ryu☆|HHH]×[모리나가 마유미|MM]×[Starving Trancer|ST]||20 fantasia||149||||
+||대하 리믹스 EX||ANAHONIKUY -雪の華 PuzzLeMix-||45||[무라이 세이야|moonlit]||AC 11||45~145||||
+||메세지 송 EX||MY||45||[DJ YOSHITAKA|よしくんと荒牧陽子さん]||12 이로하||85~170||Lv7 [사기 난이도]||
+||디지 테크노 EX||A change of probability||44||[ota2|18times per 1,000]||CS 8||150||AC 11에 이식||
+||하이퍼 J-팝 2 EX||North Wind||44||[TЁЯRA]||AC 9||145||||
+||판타지텍 EX||双子のフェレット||44||742||20 fantasia||120~129||||
+||마사라 EX||すてきなタブーラ||44||TABAN KING||'''AC 2'''||129||||
+||포크 락 EX||面影橋||44||[wac|Traveling Fan Troop]||19 Tune Street||125~127||||
+||켈트 EX||水中家族のテーマ||44||[부타펀치|パーキッツ]||'''AC 3'''||110||||
+||다크니스 EX||電気人形||44||[무라이 세이야|フレディ波多江とエレハモニカ]||AC 7||109||||
+||카그런지 H||[生きてこそ～特別版～]||43||[あさき]||포터블2||127||20 fantasia에 이식||
+||윈터 댄스 EX||White Eve||43||[dj TAKAさ][Sana|な]||AC 9||125||||
+||울트라 90's EX||ノー！ノー！Way||43||[96|Apa][PON|chE]||20 fantasia||124||||
+||일렉트로고딕 사바트 EX||Dar![k]wish||43||Akino||13 카니발||124||||
+||레이디 메탈 EX||Over The Night||43||[good-cool]||AC 8||124||||
+||론리 필 EX||fragments||43||[무라이 세이야|秋桜]||14 FEVER!||123||||
+||스무스 EX||ATTITUDE||43||[ota2|ASparagus]||CS 7||112||AC 9에 이식||||
+||헤븐 EX||ヴォイス||41||[Naya~n|ふじのマナミとナヤ～ンたち]||14 FEVER!||89~104||||
+
+Lv.7 이하 곡들 [추가바람]

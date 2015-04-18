@@ -1,0 +1,56 @@
+ * 상위 항목: [초계함], [인도 해군]
+
+http://i.imgur.com/GhKaJf7.jpg
+|| 초도함 INS Sukanya (P50) ||
+
+http://i.imgur.com/yhJwLlO.jpg
+|| 최종함 INS Sujata (P56) ||
+
+|| 다음 함급 ||[사리우급 원양초계함][* http://en.wikipedia.org/wiki/Saryu-class_patrol_vessel] ||
+|| 이전 함급(개발원형) ||[포항급] ||
+||<|2> 운용국 ||[인도 공화국] ||
+||[스리랑카] ||
+|| 완성 ||7척 ||
+|| 운용 ||7척(인도: 6척, 스리랑카: 1척) ||
+|| 만재배수량 ||1,890톤 ||
+|| 길이 ||101 m (331 피트) ||
+|| 폭 ||11.5 m (38 피트) ||
+
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<iframe width="640" height="480" src="//www.youtube.com/embed/X7ulJVRHTEQ" frameborder="0" allowfullscreen></iframe>}}}
+|| INS Kirch & INS Sukanya at Paradip port for Navy Week celebrations ||
+
+수칸야급은 인도해군이 [1989년] ~ [1993년] 사이에 취역시킨 초계함이다. 이것은 대한민국의 [한진중공업]에서 [포항급]을 기반으로 개발한 전투수상함이다. 초기 3척은 한국([코리아 타코마])에서 건조되었으며 후기 4척은 인도에서 건조되었다. 배수량은 포항급에서 늘어난 만재 1890톤이며 길이는 101m이다. 총 7척이 진수되었으며 [2014년]에도 운용중인 것으로 확인되고 있다. 무장은 [원양초계함](OPV)에 가깝다. 때문에 수칸야급에서는 장비된 40mm 대공포 한문이 가장 강력한 무기라 할 수 있다. 
+
+== 개조와 매각 ==
+[2000년], 7척의 수칸야급 중 하나인 INS Sarayu(P54)가 [스리랑카]에 매각되었다. 
+
+http://i.imgur.com/hzvHDSq.jpg
+http://i.imgur.com/3Kx4QXK.jpg
+
+인도 해군의 수칸야급 중 2척은 개조를 시행하였다. 우선 INS Subhadra (P51)는 사거리 350km급의 단거리 [다누시 탄도 미사일](Dhanush)[* http://en.wikipedia.org/wiki/Dhanush_(missile)]을 발사하기 위한 개조가 시행되었다. 다누시는 500kg의 탄두를 보유한 해상발사형 지대지, 지대함용의 단거리 탄도 미사일이다. 원형은 1단 액체연료로켓추진방식을 사용하는 'Prithvi'라는 이름의 탄도미사일인 것으로 전해지고 있다. 
+
+http://i.imgur.com/hOaYG6o.jpg
+|| INS Sujata(P56) ||
+
+이외에도 최종함인 INS Sujata(P56)에 약간의 무장을 추가하였다. INS Sujata(P56)에 추가된 무장은 2문의 25mm 대공포이다.
+
+== 수칸야급 목록 ==
+|| 이름	|| 함번 || 건조 || 모항 || 진수 || 취역 || 상태 ||
+||Sukanya||P50	||코리아타코마 ||[뭄바이]	||[1989년]||[8월 31일] [1989년]||운용||
+||Subhadra||P51	||코리아타코마 ||뭄바이	||[1989년]||[1월 25일] [1990년]||운용||
+||Suvarna||P52	||코리아타코마 ||뭄바이	||[8월 22일] [1990년]||[4월 4일] [1991년]||운용||
+||Savitri||P53	||힌두스탄십야드(Hindustan Shipyard) ||Visakhapatnam||[5월 23일] [1989년]||[11월 27일] [1990년]||운용||
+||Sarayu||P54	||힌두스탄십야드(Hindustan Shipyard) ||Trincomalee||[10월 16일] [1989년]||[10월 8일] [1991년]||[2000년] [스리랑카]에 매각됨, SLNS Sayura ||
+||Sharada||P55	||힌두스탄십야드(Hindustan Shipyard) ||Kochi||[8월 22일] [1990년]||[10월 27일] [1991년]||운용||
+||Sujata||P56	||힌두스탄십야드(Hindustan Shipyard) ||Kochi||[10월 25일] [1991년]||[11월 3일] [1993년]||운용||
+
+== 관련 문서 ==
+[http://en.wikipedia.org/wiki/Sukanya-class_patrol_vessel Sukanya-class patrol vessel]
+
+== 관련 항목 ==
+ * [해군력]
+ * [해상 병기/현대전]

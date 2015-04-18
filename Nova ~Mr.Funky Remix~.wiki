@@ -1,0 +1,44 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX TECHNIKA 2]] ||
+|| 장르 || Nu Skool Breakz ||
+|| 작사 || [BEXTER], [Mike Blunck] ||
+|| 작곡 || [[BEXTER]] ||
+|| 리믹스 || [[Mr.Funky]] ||
+|| BPM || 136 ||
+|| 비주얼 || SAREE, [[D]] ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/zBqOcLmSVKM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+BGA
+
+약칭 '''노바'''[* 원곡이 [[DJMAX 시리즈]]에 수록되지 않았기 때문에 이렇게 불린다.]
+
+[[SuperSonic]]과 함께 S4리그 에 수록되어 있던곡을 [[Mr.Funky]]가 리믹스한 곡이다. 통통튀는 베이스가 살아있는곡이다.
+사실 이 곡은 [[S4리그]] 사운드 트랙에서 먼저 공개되었다.
+
+그런데 어째 곡 분위기가 [[Supersonic ~Mr.Funky Remix~]]랑 비슷하다. 그래서 둘이 같이 엮이는 일이 많은듯, 그리고 두곡이 나란하게 [[DJMAX TECHNIKA 2]]에서 신곡으로 등장하였다.
+
+아래는 편곡자 Mr. Funky의 코멘트 --어째 코멘트도 두부쏘오닉이랑 비슷한 맥락이다.--
+
+>사실 락넘버를 Hip 스럽게 리믹스 한다는 것이 쉬운일은 아니지만, Nova는 HIP한 느낌으로 서브베
+>이스를 강조한 트랙으로 리믹스하고 싶었다. 이어폰으로는 그 서브한 베이스를 크게 느끼진 
+>못하겠지만, 집에서 볼륨을 조금 올리고 베이스업해서 들으면 내가 원했던 서브베이스한 사운
+>드를 무릎으로 느낄 수 있을것이다.
+>무릎팍 사운드!
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/-GRDw-ZYRI0" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 Max || || || ||
+||<#FFFF00> Normal || D || 150 Max || 4 || 4박 스크롤 || [wiki:"TechniColor" 미션 - Crystalberg] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 200 Max || 6 || 4박 스크롤 || [RemiXound Set] 셀렉곡, [wiki:"Future Challenge"미션 - Mr.Funky Mix] 수록 ||
+
+노말 패턴은 이렇다 할 거 없는 평범한 패턴, 하지만 하드패턴은 후반부에 두개의 노트조합을 합쳐서 당황해서 Break를 연발하기 쉬우니 주의하자.

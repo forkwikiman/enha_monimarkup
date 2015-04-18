@@ -1,0 +1,85 @@
+ν ・ μ
+[[팝픈뮤직]]의 등장 캐릭터.
+
+[[목차]]
+
+=== 캐릭터 코멘트 ===
+AC8 - 조금 이상한 쌍둥이 여자아이. 둥실둥실 둘만의 말로 속삭이는 비밀이야기...
+
+=== 공식설정 ===
+출신지: 레티클좌의 가까이서[* 레티클좌가 무엇인지 정확히 알 순 없으나 [[그물자리]]로 추정된다.]
+취미: 둘이서 이야기하는 것
+좋아하는 것: 마시멜로가 들어간 코코아
+싫어하는 것: 거울.내가 4명이 되어 알수 없게 돼버려.
+생일: ν월 μ일
+
+=== 캐릭터 설정 ===
+첫 등장은 팝픈뮤직 8.
+
+둥근 모양이 새겨진 원피스를 입고 있는 조금 이상한 분위기의 쌍둥이 자매로 [[좌우대칭]]을 모티브로 한 캐릭터라고 한다.
+쌍둥이답게 머리 모양이나 색깔 등을 제외하면 똑같이 생겼다.
+
+공식에서 정확히 밝히지는 않았으나,캐릭터 이름의 색을 봐선 오렌지색 머리 쪽이 뉴,분홍색 머리 쪽이 뮤로 추정된다.
+
+모션은 파도와 하트,다각형 등의 이펙트가 사용되어 꽤나 독특한 분위기이다.
+
+13버전 [wiki:"사나에(팝픈뮤직)" 사나에]의 피버모션에도 등장하는데,왜인지 자세히 보면 머리 모양이 서로 바뀌어있다..
+
+=== 원작에서 출현한 대사 ===
+
+ * NET 대전 모드 시 대사
+
+ATTACK - 킥킥
+DAMAGE - ×××
+WIN - 흔들흔들...
+LOSE - ~~~..
+GOOD - 라라라
+BAD - …
+
+ * pop'n music 19 TUNE STREET TOWN 모드에서 대사
+
+-(비밀얘기를 하고있다)
+-새로운 꽃 왔어?
+-저건 어떤 향기가 날까?
+-기대되네...
+-키득키득....
+
+
+
+=== 담당곡 ===
+
+ * AC 팝픈뮤직 8
+
+Marigold/플라워 팝/SHORTCUTS
+
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/U-pZNw22kT8?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+}}} 
+
+작곡가는 SHORTCUTS명의를 사용한 [[TOMOSUKE]]이며,보컬은 Midori가 맡았다.
+난이도는 21/27/33.
+
+ * AC 팝픈뮤직 19 튠스트릿(리믹스)
+
+Marigold(Jazzy Hip-Hop Remix)/플라워 팝 리믹스/SHORTCUTS RMX by ROMANTIC PRODUCTION
+
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/sQ5w6p2GYFU?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+ 
+플라워 팝의 리믹스.
+리믹스자는 mizuno이며,원곡과는 다른 색다른 분위기 덕에 꽤 호평을 받았다.원곡에는 없는 피아노 음색도 특징.
+리믹스 곡이기 때문에 담당 캐릭터는 당연히 [MZD]이다.뉴&뮤는 VJ화면에 비춰지는 정도로만 출현한다.
+난이도는 19/30/39.
+
+* AC 팝픈뮤직 19 튠스트릿
+
+미스 패러렐월드([wiki:"상대성이론(밴드)#s-4.4.2" ミス・パラレルワールド)]/[wiki:"상대성이론(밴드)" 상대성이론]
+
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/sQsKKd0A8NE?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+}}}
+
+판권곡이며 국내에서는 흔히 빠라레루(...)로 유명한 곡이다.
+[팝픈뮤직]의 특성상 커버보컬로 수록되었을 것 같지만,'''원곡 그대로 수록되었다.'''그래서인지 명의도 커버 보컬 수록시의 명의인  ♪♪♪♪♪이 아닌 원곡 아티스트 명으로 되어있다.
+난이도는 17/25/31.

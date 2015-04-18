@@ -1,0 +1,94 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 악곡. 작곡명의는 [[오노 히데유키]]와 [[Jimmy Weckl]]의 유닛인 '아열대 마지 SKA폭탄'(亜熱帯マジ-SKA爆弾). 제목의 미케네코(三毛猫)는 삼색고양이라는 의미. 신나는 스윙리듬의 곡이다.
+
+풀버전은 亜熱帯マジ-SKA爆弾 featuring MAKI 앨범에 수록되어 있으며, GITADOLIVE의 라이브 버전이 over there에 실려있다.
+
+[[더★비시바시]]의 배경음악으로도 쓰였다.
+
+=== 기타프릭스 & 드럼매니아 ===
+{{{#!html
+<iframe width="600" height="437" src="http://www.youtube.com/embed/6O0YESP1pYA" frameborder="0" allowfullscreen></iframe>
+}}}
+드럼매니아 클래식 익스트림 영상.
+
+{{{#!html
+<iframe width="600" height="437" src="http://www.youtube.com/embed/7aZ-qOyXEp4" frameborder="0" allowfullscreen></iframe>
+}}}
+기타프릭스 클래식 익스트림 영상.
+
+[[기타프릭스]] 8th & [[드럼매니아]] 7th의 스탠다드 엑스트라 스테이지 곡.
+
+영어 제목은 Calico Cat Rock이며 명의는 A.Mettai Ma-SKA Rakudan
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 246 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 49}}} || {{{#orange 61}}} || {{{#red 77}}} ||
+|| 기타 오픈픽 || {{{#green 52}}} || {{{#orange 65}}} || {{{#red 79}}} ||
+|| 기타 베이스 || {{{#green 34}}} || {{{#orange 46}}} || {{{#red 48}}} ||
+|| 드럼매니아 || {{{#green 33}}} || {{{#orange 49}}} || {{{#red 67}}} ||
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 246 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 4.05}}} || {{{#orange 5.30}}} || {{{#red 6.70}}} ||
+|| 기타 베이스 || {{{#blue 4.80}}} || {{{#orange 5.30}}} || {{{#red 6.20}}} ||
+|| 드럼매니아 || {{{#blue 4.45}}} || {{{#orange 6.35}}} || {{{#red 6.80}}} ||
+
+전작의 엑스트라 스테이지인 [[MODEL DD2]]가 워낙 빡셌던 반면, 이 곡은 엑스트라지만 그나마 부담없는 구성을 하고 있다. 하지만 이 곡을 클리어하면 나오는 앙코르 스테이지는 [[MODEL DD3]].
+
+BGA에는 본래 Orange Lounge의 곡에 나오는 캐릭터인 Torte와 Parfait가 등장한다. 그 이후 팝픈뮤직 19의 수록곡 [[夢について]]에도 출전했다.
+
+XG채보가 [[사기 난이도|표기 난이도보다 빡셌는데]] GITADORA로 넘어와서 표기 난이도가 올라갔다. 
+
+==== 곡 코멘트 ====
+||오랜만에 마지SKA로 연주곡을 해봤습니다. 브라스 록입니다.
+최근에는 보컬곡을 한 적이 많았으니까요.
+그건 그렇고 즐겨주시고 있으신가요?
+이 곡의 백미는 뭐니뭐니해도 12소절의 드럼 솔로!
+전부 원 코러스 부분 드럼이 솔로를 하고 있으니까.
+「ノリ」일발 승부로 힘차게 잘라버리죠!
+
+- 小野秀幸||
+
+=== [[댄스 댄스 레볼루션]] ===
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/ypKkRMFo-PA?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ypKkRMFo-PA?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+싱글 익스퍼트 영상.
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 11}}} || {{{#purple -}}} ||
+||<|3> 246|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 9}}} || {{{#green 13}}} || {{{#purple -}}} ||
+
+[[댄스 댄스 레볼루션]] EXTREME에 이식.
+
+=== [[팝픈뮤직]] ===
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/L0h_szi7KCo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+マジ-SKAならではのパワフルなブラスロック！JazzyでSwingingでダンサブル！！にゃー！！！
+마지-SKA 특유의 파워풀한 브라스 락! Jazzy에서 Swinging에서 댄서블!! 냥-!!!
+|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 9[[br]]([[ee'MALL]]) || BRASS ROCK[[br]]브라스 락 || 三毛猫ロック[[br]]미케네코 락 || 亜熱帯マジ-SKA爆弾[[br]]아열대 마지-SKA 폭탄 || hone nyami[[br]][[냐미|해골 냐미]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 246[[br]](246~250) || 43단계 || {{{#blue 13}}} || {{{#green 18}}} || {{{#orange 27}}} || {{{#red 37}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 24}}} || {{{#orange 33}}} || {{{#red 43}}} ||
+|||| 노트 수 || {{{#blue 282}}} || {{{#green 300}}} || {{{#orange 520}}} || {{{#red 838}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+[[ee'MALL]]을 통해 9에 이식되었다. 14 FEVER!에 통상해금. 그런데 정작 원곡의 캐릭터인 Torte & Parfait는 이 곡의 담당캐릭터로 들어가지 않았다(...)[* 그럴만도 한게 ee'MALL의 수록곡들의 담당 캐릭터와 캐릭터 배경은 기존에 있었던 캐릭터와 캐릭터 배경을 우려먹은게 대부분이다(...)] 이후 이 캐릭터는 19 TUNE STREET의 수록곡인 [[夢について]] TYPE A와 TYPE C에 등장하였다.
+
+기본 BPM은 246이지만 후반부에 250으로 미세하게 배속이 바뀐다.

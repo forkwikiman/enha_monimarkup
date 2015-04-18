@@ -1,0 +1,30 @@
+ * [[하드코어 테크노]]의 장르인 댄스코어를 찾아오셨다면 [[스피드코어]] 항목을 참조하세요.
+
+Dance Core
+중국판 명칭은 舞者之星(댄서의 별)이다.
+
+한국의 신생 개발사 크레노바[* 대표이사로 재직중인 분은 초창기부터 한창 흥할때까지 어뮤즈월드 대표이사로 있었던 이상철. 개발이사로 재직중인 김병혁 이사 역시 과거 그라비티 및 어뮤즈월드에서 재직한 바 있음.]에서 개발중이었던 [[리듬게임]]으로, 세부적으로 따져보면 댄스 시뮬레이션 계열의 [리듬게임].
+
+인터페이스는 4방향 입력과 4센서 입력이 기본이지만, '''발판 입력의 경우 무게중심을 감지하여 입력을 받는 전방향 센서 입력 방식'''이 채용되고 있다. 표면적으로는 4방향이 표시되지만, 이 4방향은 무게중심 이동을 통한 입력으로 적당히 무게만 맞춰주면 OK. 그리고 나머지 구석방향의 4개 입력은 손을 이용한 적외선감지식 센서 입력을 받는다. 구조만으로 보면 [3DDX]에서 발판만 무게중심 센서로 바꾼거라고 생각하면 쉽다. 발판 특성상 두 개 이상의 발판을 동시에 밟는 채보가 존재하지 않는다. 물론 더블모드에서는 존재. 그 덕분에 [댄스 매니악스]나 [파라파라 파라다이스]와 같은 손 또한 사용하는 리듬게임에서 나오는 단점인 '''퍼포먼스 없으면 초라한 사태'''가 발생한다.
+
+2011년 9월 초에 건대 게임천국, 안산 팬시앤게임 등에서 기습적인 테스트를 개최하고 있다. 일단은 엠넷미디어, DSP엔터테인먼트, YG엔터테인먼트와 같은 기획사들과의 라이센스 체결을 통한 한국 대중가요 수록이 포인트로, [[레이디 가가]] 등 해외 인기 팝도 수록되어 있다.
+
+[인 더 그루브] 시리즈에서나 사용되던 USB 입력을 통한 [[플래시 메모리]] 내부의 곡을 인식하여 플레이하는 기능도 추가되어 있는데, 패턴은 그리 기대하지 않는게 좋다. ~~돈나미가 지켜보고 있다~~
+
+기체 패널에 중국어가 적혀있고, 중국어 노래도 수록되어있는것을 감안하면 한국시장보다는 해외 수츨, 특히 [한류]의 인기가 높은 중국시장을 노리고 만들었다는것이 지배적. 실제로 8월에 열렸던 중국 GTI Show 2011에서도 이 기체가 공개되었으며, 커다란 기체 크기와 그에 맞먹는 가격, 그리고 게임 방식으로 인해 한국 시장에서는 가능성이 전혀 없는 게임이기도 하다. 결국 [wiki:"탭소닉 링스타" TOP STAR] 등을 배급한 WAHLAP에서 배급하면서 아쉽게도 한국 정발은 완전히 취소되었다. [http://game.wahlap.com/pro_info.php?gid=333&b_id=6&c_id=16&cat= 상품 페이지] --다만 유동인구 많은 지역에서 춤 한번 추면 사람 엄청 몰린다는것은 기정사실이다. 3DDX조차도 그랬으니..-- 결국 중국 전략 게임이 되면서 사실상 중국의 댄스게임이 되었다.
+
+2013년 2월 열린 재팬 어뮤즈먼트 엔터테인먼트 엑스포(JAEPO) 2013에 출품되었다.
+
+{{{#!html
+<object width="300" height="169"><param name="movie" value="http://www.youtube.com/v/J7ZUDYBTI_o?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/J7ZUDYBTI_o?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="300" height="169" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+위 영상은 미리 연습을 한 홍보 모델의 플레이. 당연히 춤이 능숙하다.
+
+{{{#!html
+<object width="300" height="169"><param name="movie" value="http://www.youtube.com/v/4qg7xnnaaVg?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4qg7xnnaaVg?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="300" height="169" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+그러나 일반인의 플레이는 그저 허우적...
+
+참고로 JAEPO 2013에 출품된 리듬게임으로는 [[BEMANI 시리즈]]의 [[미라이다갓키]], [[사운드 볼텍스 II -인피니트 인펙션-]], [[타이토]]의 그루브 코스터 아케이드, 세가의 [[maimai]] 등이 있다.
+
+2013년 7월, 문화체육관광부에서 선정한 '건전 아케이드 게임'으로 선정되었다. 이에 따라 2014년 3월까지 완성을 목표로 총 12억 원의 자금이 지원될 예정이다.[http://ruliweb.daum.net/news/view/53316.daum 기사] 댄스코어와 함께 지원 대상으로는 [[안다미로]]의 탱크 대전, 알브이소프트의 체감형 4D FPS(가제) 등 총 5종의 게임기가 뽑혔다. --그럼 댄스코어는 중국리듬 게임이라면서 본격적으로 출시한다고?! 말도 안돼!--

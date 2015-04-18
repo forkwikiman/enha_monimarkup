@@ -1,0 +1,88 @@
+[[include(틀:워크래프트 3/나이트 엘프 센티널)]]
+
+ * 상위 항목: [[워크래프트 3/종족, 유닛, 건물]]
+
+http://classic.battle.net/war3/images/nightelf/buildings/ancientofwonder.gif
+건설비용 : 금 90 나무 30
+건설시간 : 60초
+체력 : 450
+아머 : 건물(5)
+기능 : 아이템 판매
+
+[[목차]]
+== 소개 ==
+[[워크래프트 3]]의 [[나이트 엘프 센티널]]의 건물? 말 그대로 [[에인션트|고대정령]]이다. 인벤토리를 가진 유닛이라면 누구든지 아이템을 구입할 수 있는 상점이다. 판매되는 아이템은 [[트리 오브 라이프]]의 업그레이드 레벨(트리 오브 라이프, 트리 오브 에이지 , 트리 오브 이터니티) 및 지어진 건물에 따라 달라진다. 영웅의 경우, 필요 없는 아이템을 아무 상점에나 팔 수 있다.
+
+[[사나난]]의 대표적인 아이템인 보존 스태프를 이 상점에서 살 수 있다.
+
+[[아케인 볼트]]를 가지고 있는 [[휴먼 얼라이언스|휴먼]]처럼 유닛들 물량에 힘을 주는것도 아니고, [[부두 라운지]]를 가지고 있는 --[[블레이드 마스터]]-- [[오크 호드|오크]]처럼 영웅이 팍팍하게 돌아다니지 않으니 그냥 본진에 하나만 짓는게 보통이지만 김성식이 휴먼 상대로 [[아처(워크래프트)|아처]] [드루이드 오브 탈론|탈론]] 올인을 할때 멀리 자리 이동을 해봤었다. [http://www.youtube.com/watch?feature=player_detailpage&v=TYqydJgZCe0#t=402s #]
+[http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&clipid=26921514 이성덕이 두개 지은경기가 있다] [http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&page=3&playlistid=1890489&clipid=39144608 전진해서 지은 경기] [http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11374848&nTitleNo=3553639&nRowNum=15&szSkin=&nPageNo=2 #]
+장재호 전진 원더 : [http://www.youtube.com/watch?v=El_D0_mfC0U&list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H #] [http://www.youtube.com/watch?v=OtIhKfyfwqc&list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H ##]
+
+
+== 트리 오브 라이프일 때 구매 가능한 아이템 ==
+http://classic.battle.net/war3/images/items/moonstone.gif
+ * 문 스톤
+ 30초 동안 시간을 밤으로 바꿔준다. 낮에는 체력 회복이 되지 않고 [[문웰]]도 차지 않는 나엘의 특성상 급할 때 써주면 좋은 아이템. 밤으로 시간을 고정시키기 때문에 밤에 써도 본래의 밤시간과 중복돼지 않으면서 문스톤의 효과를 그대로 볼 수 있다. [http://tvpot.daum.net/clip/ClipView.do?clipid=53720794&rtes=y&startDuration=1384.83 #] --별별걸 모르는 [[홀스]]-- 동족전에서는 상대 문웰도 채워줘서 아주 급한 상황이 아니면 거의 안 쓰인다.
+  * 비용 : 금 50
+  * 재충전시간 : 90초
+  * 구매 가능 수량 : 1개
+
+http://classic.battle.net/war3/images/items/lesserclaritypotion.gif
+ * [[클래러티 포션]]
+ 선택한 유닛을 30초동안 100까지의 MP를 회복시킨다. 이 포션이 사용되는 중에 어떠한 공격, 스펠에 의해 데미지를 입게 되면 이 능력은 취소된다. 그러므로 전장에서 떨어진 곳에서 이 아이템을 사용하는 것이 좋다. 나엘은 --사나난이라--문웰이 있기 때문에 잘 안 쓰게 되는 아이템.
+  * 비용 : 금 70
+  * 재충전시간 : 30초
+  * 구매 가능 수량 :2개
+
+http://classic.battle.net/war3/images/items/dustofappearance.gif
+ * 더스트 오브 어피어런스
+ 찍은 위치에 있는 투명유닛을 감지할 수 있다. 블마 때문에 필수품이 된 아이템. 2번 쓸 수 있다.
+  * 비용 : 금 75
+  * 재충전시간 : 60초
+  * 구매 가능 수량 : 1개
+
+
+== 트리 오브 에이지일 때 구매 가능한 아이템 ==
+http://classic.battle.net/war3/images/items/healing.gif
+ * 힐링 포션
+ 사용시 HP 250을 회복시켜준다.
+  * 비용 : 금 150
+  * 재충전시간 : 120초
+  * 구매 가능 수량 : 3개
+
+http://classic.battle.net/war3/images/items/mana.gif
+ * 마나 포션
+ 사용시 MP 150을 회복시켜준다.
+  * 비용 : 금 200
+  * 재충전시간 : 120초
+  * 구매 가능 수량 : 3개
+
+http://classic.battle.net/war3/images/items/townportal.gif
+ * 타운 포탈 스크롤
+ 영웅과 근처의 대군을 원하는 아군 타운 홀로 순간이동 시킨다. [[트리 오브 라이프]]와 일어선 트리가 움직이면 포탈이 취소돼는걸 잘 조합하면 무적시간만 [http://www.youtube.com/watch?feature=player_detailpage&list=UUasaMcz75KtCRnwX2HVbtTQ&v=NFIbjpZda08#t=126s 쓸 수 있다.]
+  * 재충전시간 : 120초
+  * 구매 가능 수량 : 2개
+
+http://classic.battle.net/war3/images/items/staffofpreservation.gif
+ * 보존 스태프
+ 대상 영웅 및 유닛 한 명을 최고레벨의 본진 건물에 보낸다. 과거 패치 이전에는 하나만 구매해서 영웅끼리 돌려쓰기가 가능했으나 블리자드에서 버그로 간주하고 돌려쓰기를 막아버렸다. 그래도 여전히 죽을 판인 영웅이나 유닛 하나를 살릴 수 있으므로 사기적이다.[http://www.youtube.com/watch?v=UZbbFMl2ILQ&list=UUG7F-M8M5wwlZfEEPZJ39Mw&feature=player_detailpage#t=1268 #] 본진에 [[문웰]]이 박혀있는 특성상 더욱 빛을 본다.[[제플린|재플린]]에 영웅을 태우기 직전 보존 스태프를 제플린에게 걸어서 재플린에 탄채로 영웅도 본진으로 돌아가는 기술도 있다. [http://www.youtube.com/watch?feature=player_detailpage&v=NFIbjpZda08&list=UUasaMcz75KtCRnwX2HVbtTQ#t=162s #] 후반에 트리 오브 라이프를 더 지을 수 없어 본진의 이터니티를 움직여서 멀티를 먹은 곳에서 교전이 일어났을때 한창 교전이 일어나는곳 바로 옆으로 보존이 타져서 영웅이 몇 초뒤에 곧 바로 죽어버리는 불상사가 나올 수 있으므로 주의 해야 한다. [http://www.youtube.com/watch?feature=player_detailpage&list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H&v=cGkuOOiKqUE#t=1458 #] --[http://www.youtube.com/watch?list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H&v=H9hUNb8GKYU&feature=player_detailpage#t=1498 역이용이 돼는것 같긴 하지만....]--  
+  * 비용 : 금 150
+  * 재충전시간 : 120초
+  * 구매 가능 수량 : 1개
+
+== 트리 오브 이터니티일 때 구매 가능한 아이템 ==
+http://classic.battle.net/war3/images/items/orbofvenom.gif
+ * [[베놈 오브]]--[멜론]--
+ 장착한 영웅이 공중 공격을 할 수 있고 추가 피해 5가 붙는다. 또한 공격을 받은 유닛에 독 피해를 입혀 초당 9의 데미지를 주는 독을 6초 동안 중독시킨다. 중첩이 됀다.
+ [[데몬 헌터(워크래프트)|데몬 헌터]]가 드는 순간 공포의 대상. 안 그래도 강력한 데몬 헌터의 평타의 공격력을 배 이상 올려주는데다 데몬 헌터의 공격력으로 대공까지 가능하기 때문. 덕분에 하향에 하향에 거듭하여 지금은 그냥 쓸만한 정도...가 되었다[카더라].
+  * 비용 : 금 325
+  * 재충전시간 : 120초
+  * 구매 가능 수량 : 1개
+
+http://classic.battle.net/war3/images/items/antibodypotion.gif
+ * 안티 매직 포션
+ 15초 동안 복용한 영웅에게 마법 면역을 제공한다. 대 언데전에서 필수 아이템. 코일+노바의 콤보에 순간 영웅이 즉사하는 것을 막아준다. 휴먼전에서도 상대방이 [[마운틴 킹]] + [[블러드 메이지]] 조합으로 배니쉬+볼트 콤보를 사용할 경우에도 큰 도움이 된다. 하지만 디스펠이 돼니 주의. 컨이 됀다면 스톰 볼트 같은 미사일형 마법을 무효화 시키는걸 싼값에 즐기는것도 좋다.
+  * 비용 : 금 100
+  * 재충전시간 : 120초
+  * 구매 가능 수량 : 2개

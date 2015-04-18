@@ -1,0 +1,5 @@
+||<tablealign=center><-4><#ffffff><:> [[메이저리그|<span style="font-weight:bold;color:#ee0000">MLB</span>]] [[아메리칸리그|<span style="font-weight:bold;color:#ee0000">아메리칸리그</span>]] ||
+||<-4><:><#ff0000> [[틀:아메리칸리그 중부지구|<span style="font-weight:bold;color:#ffffff">◀</span>]] '''{{{#ffffff 동부지구 소속구단}}}''' ||
+||<width=12%><#ffffff><:> attachment:/yankees.png ||<width=21.3%><#DCDCDC><:> [[뉴욕 양키스]] [[br]] (New York Yankees) ||<width=12%><#ffffff><:> attachment:/redsox.png ||<width=21.3%><#DCDCDC><:> [[보스턴 레드삭스]] [[br]] (Boston Red Sox) ||
+||<width=12%><#ffffff><:> attachment:/rays.png ||<width=21.4%><#DCDCDC><:> [[탬파베이 레이스]] [[br]] (Tampa Bay Rays) ||<#ffffff><:> attachment:/orioles2.png  ||<:><#DCDCDC> [[볼티모어 오리올스]] [[br]] (Baltimore Orioles) || 
+||<#ffffff><:> attachment:/bluejays.png ||<:><#DCDCDC> [[토론토 블루제이스]] [[br]] (Toronto Blue Jays) ||||||

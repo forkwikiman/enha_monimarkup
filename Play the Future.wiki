@@ -1,0 +1,63 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [DJMAX Portable Clazziquai Edition] ||
+|| 장르 || Electro House ||
+|| 작곡 || [[Urbatronic Chopsticks]] ||
+|| 피처링 || Mellow Funk Sound[* 아마도 목소리를 녹음한 것 같다. Mellow Funk Sound는 이후 [[DJMAX RAY]]에서 [[Sold on Your Love]]와 [[Candy Girl]]을 제공.] ||
+|| BPM || 128 ||
+|| 비주얼 || KIMYS & Z_B ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/LPXMPQTzTl0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[메트로 프로젝트]]의 수록곡으로 [DJMAX Portable Clazziquai Edition]과 [[DJMAX TECHNIKA]]에 수록.
+
+약칭은 '''플퓨'''... 는 거의 쓰이지 않는다.
+
+Urbatronic Chopsticks의 Electro House곡으로, 소위 말하는 [[테크토닉]] 댄스 스타일의 곡이다. 테크니카 필드테스트 버젼 당시에는 곡의 장르가 'Techtonik' 으로 표기되어 있었으나, 정발되면서 'Electro House'로 변경되었다. [* 테크토닉은 음악의 장르가 아니라는 지적이 유저들 사이에서 있었다. 테크토닉은 장르가 아니며 테크토닉 댄스도 여러 음악에 맞춰 출 수 있다]
+
+작곡가가 오락실에서 더 퓨쳐를 치다가 영감을 얻고 작곡을 했기 때문에 [[EZ2DJ]]의 [[The Future]]의 후속곡으로 생각될 만큼 The Future와 많이 비슷하다. 처음의 The be~st music 샘플링도 다 퓨쳐에서 가져온 것이다. 
+
+아래는 테크니카 공식 웹사이트의 곡 소개이다.
+
+{{|'트렌드에 뒤쳐지지 않는 DJMAX의 모습을 대변하는 테크토닉 스타일의 U.C의 일렉트로 하우스.
+곡 중간 중간 나오는 익숙한 보이스 샘플은 과거 리듬게임 시대의 향수를 불러일으킨다.'|}}
+
+[[wiki:"DJMAX TECHNIKA"초대작]]에서 실시했던 UCC 공모전에서 대전 다이나마이트 테크니카 대표 UCC였던 [http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=F7DF4E37FED9E70062859B5051667AA86F18&outKey=V128ac45e940949183d027f0cccd89c1657bb3327b9ce823903287f0cccd89c1657bb FUTURE PLAY]라는 영상이 매우 큰 인기를 끌었고, 최우수 작품으로 선정되었다. [[플래티넘 크루]]의 UCC 불후의 명작 중 하나.
+
+여담으로, [[오투잼]]에서는 이 곡과 매우 흡사한, 아니 '''거의 표절이 확실한 한 정도의''' '''Play the Techtonik'''이란 곡을 신곡으로 내놓았다가 DJMAX 유저들의 뭇매를 받고 며칠만에 곡을 없앤 기록이 있다. Play the Techtonik의 곡 설명에는 '어디선가 들은 곡 처럼 느껴지는건 당신의 착각' 이라고 곡 설명을 써 놓았고, 이 '당신의 착각' 이란 말은 한동안 [[디시인사이드]] [[리듬게임 갤러리]]에서 유행어가 되었다.
+
+== [DJMAX Portable Clazziquai Edition] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Et4aKwrmEcg" frameborder="0" allowfullscreen></iframe>}}}
+
+(4B NM)
+
+클래지콰이 에디션에서는 저렙곡으로 등장. 링크 디스크 시스템을 통해 블랙 스퀘어에서도 플레이할 수 있다.
+
+== [[DJMAX TECHNIKA 시리즈]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/OiP6bWdzcj0" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴(SP)
+
+초대작에서의 난이도는 LP 3, PP 5, TP 6, SP 8.
+
+PP는 2스테이지에서 플레이 가능하며 TP는 미션에서 클리어한 뒤 3스테이지에서 플레이가 가능하며, 테크니컬 모드의 [wiki:"HeartBeat" HeartBeat Set]에서도 플레이가 가능하다. SP패턴은 1월 스페셜 패턴의 두 번째 스테이지와, [wiki:"Futurist" Futurist Set]에서 플레이해 볼 수 있다. PP,TP에 비해 난이도가 크게 높아졌지만, 스페셜 패턴 중에서 어려운 편에 속하는 곡은 아니다. PP,TP 패턴에 비해 연타 노트(일명 보라돌이)의 비중이 높아진 패턴이다.
+
+이 곡의 난이도는 평이하지만 그 중에서 좀 어려운 부분이 있는데. 바로 중간에 나오는 2연타 부분. 처음하는 사람들은 은근히 잘 틀려서 죽는다. 어떤 패턴이든 롱노트는 없다고 해야하며 그 덕분에 최대스코어도 낮은 편이다. 후반부에는 드래그 롱노트가 나오지만 결국 콤보 하나가 오른다. PP는 아무리 올맥스 해봐야 10만점 넘지 못한다. 그래서 연타에 익숙한 사람은 [wiki:"HeartBeat" HeartBeat Set]에서 선택하는 사람이 있으나 나중에는 스코어 때문에 결국 버려진다.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || ? || 8박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 4 || 8박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 5 || 8박 스크롤 || [[Electro Beat Set]] 셀렉곡, [[wiki:"Metronom" 미션 - Double Tempo]] 수록 ||
+||<#FF0000> Maximum || B || 200 Max || 7 || 8박 스크롤 || [wiki:"Futurist" Futurist Set] 셀렉곡 ||
+
+
+테크니카2에서는 [wiki:"HeartBeat" HeartBeat Set]에서 [[Electro Beat Set]]로 옮겨갔으며, [wiki:"Futurist" Futurist Set]에는 남아 있다. 난이도는 Duo 5, Star 4, NM 4, HD 5, MX 7. Star를 제외한 모든 패턴의 난이도가 1 하락한 셈이다. 다만, 듀오 패턴은 엇박 + 정박 노트가 도배되어 있기 때문에 [[White Blue]] 초반부 만큼 어렵다.
+
+테크니카 3에서는, HD패턴이 미션 Double Tempo에 수록됨에 따라 4박스크롤의 쾌적한 패턴을 즐겨볼 수 있다. 다만 이 미션이 올콤보 미션인지라....

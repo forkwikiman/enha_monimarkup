@@ -1,0 +1,4 @@
+||<-3><:><#DB0000> '''[[원자|<span style="color:white">원자 구성 입자</span>]]''' ||
+||<-2><:><#FF0000> [[원자핵|<span style="color:white">원자핵</span>]] ||<|3><:><#FF0000> [[전자|<span style="color:white">전자</span>]] ||
+||<#FF6C6C> [[양성자]] ||<#FF6C6C> [[중성자]] ||
+||<-2> [[wiki:"쿼크" 업 쿼크]] + [[wiki:"쿼크" 다운 쿼크]] ||

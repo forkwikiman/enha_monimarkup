@@ -1,0 +1,15 @@
+Skate.
+
+[[던전 앤 드래곤 시리즈]], 그 중 [[D&D 3.5]]에 등장하는 [wiki:"초능력(던전 앤 드래곤 시리즈)" 초능력](Psionic Power)이다.
+1레벨 신체 강화(Psychometabolism) 계열 [wiki:"사이언(던전 앤 드래곤 시리즈)"사이언]/[[와일더]]/[[사이킥 워리어]]의 기본 초능력이다.
+
+초능력 기본서인 Expanded Psionics Handbook(XPH)에 등장하였고, d20 SRD에 [http://www.d20srd.org/srd/psionic/powers/skate.htm 수록되어있다].
+
+하나의 대상이나 물체가 바닥과 닿는 마찰력을 줄여주어 얼음판 위를 미끄러지는 것 처럼 움직이게 한다.
+
+대상에게 시전하면 이동 속도가 라운드당 15피트만큼 증가한다. 해당 속도 보너스는 강화 보너스(Enhancement Bonus)로 취급된다. 경사 아래로 미끄러질 때는 속도에 15피트만큼의 상황 보너스(Circumstance Bonus)를 추가로 받고, 경사 위로 올라갈 때는 속도 보너스가 없어진다. 미끄러져가는 것이기는 하지만 걸린 대상의 의지대로 자유롭게 가속과 감속을 할 수 있어 평소 익숙한 방식대로 움직일 수 있다.
+
+물체에 걸면 물체를 밀어서 움직일 때 질량이 1/10로 줄어든 것 처럼 판정한다.
+
+이동 속도는 어떤 직업이던 간에 빠르면 빠를수록 좋기 때문에 부담없이 배우기 좋다.
+이 초능력이 상시로 걸려있는 아이템으로는 [http://www.d20srd.org/srd/psionic/items/universalItems.htm#bootsofSkating Boots of Skating]이 있다.

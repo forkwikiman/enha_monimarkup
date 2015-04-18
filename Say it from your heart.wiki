@@ -1,0 +1,50 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX TECHNIKA 2]] ||
+|| 장르 || Classic Handbag ||
+|| 보컬 샘플 || Vocal Forge ||
+|| 작사,작곡 || [makou] ||
+|| BPM || 130 ||
+|| 비주얼 || GrooveBear , Z_B ||
+
+
+[[DJMAX 시리즈]]의 수록 곡 중 하나.
+[[DJMAX TECHNIKA 2]], [[DJMAX Portable 3]]에 수록되었다.
+
+약칭 '''세잇'''.
+
+꾸준히 [DJMAX 시리즈]에 양질의 곡들을 제공해온 [makou]의 곡으로, 밝은 분위기의 하우스 곡이다. 보컬은 Vocal Forge의 보컬샘플을 썼다.
+
+BGA의 탄생 비화에 대해서는 조금 황당한데, Z_B가 밝힌 바에 의하면, [[실론티]]의 캔 이미지를 차용해서 만들었다고. 하지만 전화위복으로, BGA는 상당히 수려하다.
+
+현재 [[TAP SONIC]] 업데이트 예정 곡으로 'Project M'에 올라와있다!
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/AVnseKzJytA" frameborder="0" allowfullscreen></iframe>}}}
+
+(HD 패턴 영상)
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 || 5 || 4박 스크롤 || ||
+||<#FFFF00> Normal || D || 150 || 4 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 200 || 6 || 4박 스크롤 || [[Sweet Sound Set]] 하위 보스곡, [wiki:"Future Challenge" 미션 - Triple Special] 수록 ||
+
+모두 난이도에 비해 상당히 쉬운 편이며, 큰 특징이 없는 무난한 패턴이다.
+
+=== [[DJMAX Portable 3]] ===
+
+[[DJMAX Portable 3]]에 그대로 수록되었다.
+리믹스 모드 샘플곡은 [[Y]]
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/yrvDZSNWmgk" frameborder="0"></iframe>
+}}}
+클래식 모드 6T NM
+
+{{{#!html
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/Y2rF6wMV3lE" frameborder="0"></iframe>
+}}}
+리믹스 모드 4.2T SS

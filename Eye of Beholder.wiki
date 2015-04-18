@@ -1,0 +1,43 @@
+[[목차]]
+
+|| 장르 |||||||| Triphop ||
+|| 곡명 |||||||| Eye of Beholder ~Smash Episode No.0 ||
+|| 작곡 |||||||| [xxdbxx] ||
+|| 배경 |||||||| KKASHI ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 4th]] ||
+|| BPM |||||||| 121 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple 13}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 9}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_AgRRqV6mchE$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=AgRRqV6mchE$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=AgRRqV6mchE$&playLoc=undefined'></embed></object>
+}}}
+
+[[EZ2DJ 4thTRAX ~Over Mind~]] '''BGA'''
+
+== 개요 ==
+[[EZ2DJ 4th]]의 수록곡. 통칭 아오비. BGA도 그렇고 상당히 아리따운 하늘색 머리 소녀가 나온다. 특히 윙크한 그림은 그야말로 [[모에]]. 스토리상으로는 [[Smash]] 이전의 에피소드를 다룬다. Easy Mix의 이미지에서 Eazy Mix로 나오는 오타가 있다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+하드의 경우에는 스크래치가 많이 나올 뿐만 아니라 정박자 5번째키 때문에 많이 애를 먹는다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+[[EZ2DJ AEIC]]의 턴테이블 모드에 새로이 수록되었다. 레벨은 12로써, 노말 패턴을 기준으로 삼은 찰진 패턴이다.

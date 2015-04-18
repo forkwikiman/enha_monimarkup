@@ -1,0 +1,178 @@
+|| [[한글]] || 밈 || [[유니코드]] || BC08 || [[완성형]] 수록 여부 || O ||
+|| 구성 || ㅁ+ㅣ+ㅁ || [[두벌식]]–[[QWERTY]] || ala || [[세벌식]] 최종–QWERTY || idz ||
+
+ * [[제목이 한글 한 글자인 항목 목록]]
+
+
+[[목차]]
+
+== 인류학 용어 ==
+[[그리스어]]의 모방을 뜻하는 단어인 '미메시스(Mimesis)'에서 만들어진 말. [[리처드 도킨스]]가 《[[이기적 유전자]]》에서 처음 사용한 단어로, [[사상]], [[종교]], [[이념]], [[관습]] 등의 인간의 삶을 규정하는 다양한 문화적 요소들이, 유전자와 비슷한 방식으로 퍼지고 번식하며 '복제자'의 형태를 띤다고 규정하고 일종의 문화 유전자, 혹은 [[바이러스]]로 취급한 것이다. 유전자가 인간의 모든 삶의 방식을 결정하지 않는다는 것을 설명하기 위해 등장한 표현. 이후 도킨스는《[[만들어진 신]]》에서 한발 더 나아가 부모들이 다음 세대에게 종교라는 밈을 그대로 주입하는 현상에 대해 비판하게 된다. 
+
+재미있게도, '밈'이라는 개념 자체도 밈의 형태를 띠고 있다. 도킨스가 밈을 주창한 이래 여러 사회-인류학 계열 학문에서 밈 개념을 빌어다 사용하는 예시들을 보면 알 수 있다. 하지만 굴드 등에게는 비판받는 개념이었는데, 억지로 유전자스러운 개념을 문화에 적용하는 것이라고 생각했기 때문이다. 
+
+실제로 유전자에 못지 않게 피노타입(표현형)의 창발성 역시 중요한데, 이기적 유전자적 관점에서 보아도 '확장된 표현형'에 더욱 가까울 '밈'을 다시 유전자와 비슷한 요소로 견지한다는 것이다. 
+
+'밈'으로 주로 [[번역]]되나 '[[모방자]]'로 번역하자는 주장 또한 많다.[* [[이화여대]] [[최재천]] 교수가 번역한 도킨스의 또다른 저서 《무지개를 풀며》에서도 '모방자'로 번역되었다.] 원래 밈 또한 '[[진]](gene, [[유전자]])'이라는 단어에서 유래된 이름인 만큼 유전자와 대응되는 표현이라는 점에서 이 번역은 상당부분 타당한 것으로 보인다. 다만 [[한국어]]의 뉘앙스상으로 모방자(模倣者), 즉 '모방하는 사람'이라고 이해될 가능성이 높다는 지적도 있다. 
+
+상당한 인기를 끌어 [[옥스퍼드 영어사전]]에도 다음과 같이 실릴 정도가 되었다[* 참고로 《이기적 유전자》가 출간된 연도는 1976년으로, 사실 족히 수십 년은 묵은 오래된 서적이다.] 
+
+''''meme(mi: m), n, Biol. (shortened from mimeme ... that which is imitated, after Gene n.). 
+An element of a culture that may be considered to be passed on by non-generic means, esp. imitation'''' 
+(유전적이지 않은, 특히 모방을 통해서 전해지는 것으로 여겨지는 문화의 요소) 
+
+후에 [[에드워드 윌슨]]도 저서인 《[[통섭]]》에서 밈에서 한발 더 나아간 [[모방자]]를 주창하였는데 보다 진전된 개념이기는 하지만 근본 의미에 큰 차이는 없다.
+
+일본에서 만들었고 한국에서도 인기를 끌었던 만화 《미미의 컴퓨터 여행》에서 화자인 손이 없는 나체 생물의 이름이 바로 이 '밈'에서 따왔다. 한국판에서는 '미미'라고 [[개명]]되었지만. 
+== 영미권 인터넷 용어 ==
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/N_6XQp08pgM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/N_6XQp08pgM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+~~마지막에 [한 뚝배기 하실래예|뚝배기] 비슷한 게 들린 것 같은데~~
+
+Internet meme, 줄여서 meme(밈)이라고 부른다. ~~반댓말은 당김이라 카더라.~~ 인터넷의 주요 문화 요소와 유행하는 것들을 일컫는 말.
+
+우리말로 대체할 수 있는 용어로는 '[[필수요소]]'가 있는데, 두 단어가 정확하게 일치하지는 않는다. [[내가 고자라니]]를 예로 들어 설명하자면 '필수요소'가 '내가 고자라니'라는 소스 하나를 가리킨다면, 밈은 이걸 가지고 합성을 해서 나온 다양한 [[심영(야인시대)|심영]] 능욕물 및 폭발물(...) 등을 전부 포함한다. 대체로 특정 요인에 의한 유행 전반을 통칭하는 개념. 때문에 합성물 그 자체가 밈이 되는 경우가 꽤 있다. [[Nyan Cat]]이 좋은 예시라 할 수 있겠다.
+
+원칙적인 차이점을 하나 더 들자면 한국의 필수요소는 사진 및 영상물 중심이고 주로 [[합필갤]]에서 좌지우지 되는 인터넷 문화 요소인 것에 비해, 밈은 사진 및 영상물뿐만 아니라 유행어 등 훨씬 더 포괄적이고 특정 사이트에 좌지우지되는 게 아니라 수많은 웹사이트들의 통합적인 '''유행 요소 전체'''이다. 밈의 이와 같은 의미는 애초에 [[4chan]]에서 비롯되었으며, 2000년대를 이끌었던 밈들도 십중팔구가 4chan에서 만들어졌다. 
+
+그리고 상당수의 밈은 그림 파일 내지 [[GIF]]다. 이러한 이미지들은 한국의 [[짤방]]과 비슷한 개념. 대부분의 유행어--WTF--도 이 짤방들의 [[자막]]에서 유래한다.
+
+영어판 [[위키백과]]에서는 밈을 모아둔 분류도 존재하는데 2013년까지 무려 550개가 넘어가는 목록을 보유하고 있다. [http://en.wikipedia.org/wiki/Category:Internet_memes #]
+
+인터넷 필수요소의 변화를 잘 표현한 짤로는 [[http://www.cracked.com/article_19240_the-rise-fall-internet-meme-5Bchart5D.html 이것]] 참조
+
+The GAG Quartet라는 곳에서 그동안 유행했던 밈들을 전부 모아 리믹스한 곡도 있다. [http://www.youtube.com/watch?v=mghhLqu31cQ #] ~~다만 마치 9gag에서 나온 것마냥 제목을 지은 게 문제~~
+
+[위저]의〈돼지고기와 콩(Pork And Beans)〉 M/V는 유튜버들이 직접 참여했다. [http://youtu.be/PQHPYelqr0E #]
+
+=== 발음 문제 ===
+[[http://youtu.be/3dErjFPTarc How to Pronounce Meme]]이라는 이름의 [[유튜브]] 동영상을 보면 해당 발음은 /밈/으로 발음되고 있다. 하지만 댓글란에서 일어나는 [[병림픽]]이 문제. 미미, 멤메이, 메메, 메미, 메이메이 등등 천차만별의 의견이 있는데, 결론부터 보자면 해당 단어는 밈으로 발음하는 게 맞다. 
+
+복잡할 것 없이, 이 용어를 처음 만든 리차드 도킨스가 /밈/이라고 발음을 정했기 때문에 /밈/인 것이다. 사실 어원학적으로 따지면, /멤/이 되는 것이 맞기 때문에 /밈/이라고 부르는 것은 특별한 근거가 있는 것이 아니라 단순히 도킨스가 그렇게 정했기 때문이라고 생각하면 된다. 
+
+from Greek mimēma 'that which is imitated' 라는 meme의 어원 설명에서 보듯(옥스퍼드 사전출처), meme이라는 단어는 그리스 어근 mime에서 출발했다. 그런데 이 mime 어근은 영어에 들어와서 /미메/로 발음된다. 예를들어, mimesis, mimetic 같은 단어들은 /미메시스/, /미메틱/으로 발음된다. 따라서 도킨스가 처음 의도한 대로 mimeme /미멤/에서 mi를 뺀 것이라면 /멤/이 되는 것이 맞지만, 아래 설명에서 보듯 gene과의 유사성을 강조하기 위해 발음도 gene과 유사하게 만든 것이다. 결국 도킨스가 자의적으로 창조한 단어와 발음인 것이다.
+
+이전 서술에는 
+전제1: 발음상 gene /진/ - genetics /제네틱스/의 관계가 있다. 
+전제2: memetics는 /메메틱스/로 발음된다.  
+전제3: meme - memetics 의 관계는 gene - genetics의 관계와 유사하다.
+결론: 따라서, meme은 /밈/으로 발음되어야 한다. 
+라는 짧은 논증이 있었는데, 전제1의 경우 genetics는 /지네틱스/(옥스퍼드 사전) 혹은 슈와 현상에 의한 /저네틱스/(네이버 사전)로 발음되기 때문에 틀렸으며, 전제 2의 경우 memetics는 meme의 파생어이기 때문에 meme의 발음이 정의되지 않은 상태에서  memetics의 발음을 미리 상정하는 것 자체가 오류이다. 따라서 기본 전제가 거짓이므로 더이상 살펴볼 것도 없는 거짓 논증이다.
+
+다음은 [[위키백과]]에서 인용한 [[이기적 유전자]]의 일부분의 번역이다.
+
+>We need a name for the new replicator, a noun that conveys the idea of a unit of cultural transmission, or a unit of imitation. 'Mimeme' comes from a suitable Greek root, but I want a monosyllable that sounds a bit like 'gene'. I hope my classicist friends will forgive me if I abbreviate mimeme to meme. If it is any consolation, it could alternatively be thought of as being related to 'memory', or to the French word même. It should be pronounced to rhyme with 'cream'.
+>
+>우리는 이 새로운 복제자를 위한 이름이 필요하다. 문화의 전달의 단위, 혹은 모방의 단위라는 개념을 잘 전달할 수 있는 명사 말이다. 적당한 그리스어 단어를 어원으로 선택하면 'Mimeme'라는 단어를 얻을 수 있지만, 나는 어느정도 '''유전자(진)와 비슷하게 발음되는 단음절 단어를 원한다.''' 내 고전주의자 친구들이 mimeme를 meme으로 축약하는 것을 용서해주길 바랄 뿐이다. 위안이 될지는 모르겠지만, 혹시 이 단어가 영어 memory(메모리)나 불어 même(멤)과 연관이 있다고 생각하는 사람이 있을지도 모르겠다. 이 단어는 '''[[크림]]과 라임이 맞도록 발음되어야 한다.'''
+=== 목록 (알파벳순으로 정리) ===
+ * [[wiki:"ain't nobody got time for that" Ain't nobody got time for that]]
+ * [[All your base are belong to us]] 
+ * [[wiki:"팥죽송" Badger Badger Badger]]
+ * [[wiki: "Bad luck Brian" Bad luck Brian]]
+ * [[wiki:"블랙 미디"Black MIDI]]
+ * [[wiki:"볼바르 폴드라곤#s-5.1" Bolvar's Loading screen]]
+ * [[Baneposting]]
+ * [[스페인 에케호모화 훼손사건|Botched Ecce Homo Painting]]
+ * [[wiki:"에이드리언 브로디" BRODYQUEST]]
+ * [[wiki:"웃웃우마우마" Caramelldansen]]
+ * [[wiki:"척 노리스" Chuck Norris]]
+ * [Dead Bart][* 괴담으로 수록되어 있지만 밈 위키에서는 밈 계열로 설명되어 있다. 항목 참조]
+ * [[DEUUEAUGH]]
+ * [[Do a barrel roll]]
+ * [[wiki:"더블 레인보우" Double Rainbow]]
+ * [[Dumb ways to die]]
+ * [[wiki:"노홍철" Elevator guy]]
+ * [[Epic Sax Guy]]
+ * [[wiki:"팔콘 펀치" Falcon Punch]]
+ * [[wiki:"페르난도 토레스" Fernando Torres]]
+ * [[wiki:"플래시몹" Flash mob]]
+ * [[wiki:"Rage Guy" Forever Alone Face]]
+ * [[FUS RO DAH!]]
+ * [[wiki:"강남스타일" Gangnam Style]]
+ * [[wiki:"AGEHA" GentleMentleMen]]
+ * [[wiki:"Scumbag Steve" Good Guy Greg]]
+ * [[wiki:"귀요미" Gwiyomi]]
+ * [[Harlem Shake]]
+ * [[HEYYEYAAEYAAAEYAEYAA]]
+ * [[High Expectations Asian Father]]
+ * [[wiki:"호텔 마리오" Hotel Mario]]
+ * [[Keep calm and carry on]]
+ * [[Leeroy Jenkins]]
+ * [[wiki:"파돌리기송" Ievan Polkka]]
+ * [[wiki:"카니예 웨스트" Imma let you finish]]
+ * [[wiki:"제노블레이드#s-5.1" I'M REALLY FEELING IT]]
+ * [[wiki:"it's over 9000" It's over 9000]]
+ * [[LOL]]
+ * [[wiki:"MegaGFilms#s-3.2" My Brand!]]
+ * [[wiki:"러시아식 유머#s-5.1"Meanwhile in Russia..]]
+ * [[wiki:"니코니코니" Nico Nico Smile]]
+ * [[wiki:"닌텐도64 소년" Nintendo 64 Kid]]
+ * [[wiki:"Dragostea Din Tei" Numa Numa]]
+ * [[Nyan Cat]]
+ * [[이의 있음!|Objection!]]
+ * [[wiki:"잭 블랙#s-1.1"Octagon]]
+ * [[Overly Attached Girlfriend]]
+ * [[Rage Guy]][* 위키백과에서는 'Rage comic'으로 등록되어있다.]
+ * [["리액션 가이즈" Reaction Guys]]
+ * [[Reality Hits You Hard Bro]]
+ * [[wiki:"레베카 블랙" Rebecca Black]]
+ * [[wiki:"릭롤링" Rickrolling]]
+ * [[wiki:"로보트닉" PINGAS]]
+ * [[PROFIT!]]
+ * [[wiki:"Dr.Face#s-3.4" Pumkin]]
+ * [[wiki:"누누네네송" Rub it]]
+ * [[wiki:"소닉 더 헤지혹" Sanic hegehog]]
+ * [[wiki:"RubberFruit#s-3.9" Scout Face]]
+ * [[Scumbag Steve]]
+ * [[Shibe doge]]
+ * [[wiki:"필립 J. 프라이" Shut up and take my money!]]
+ * [[대짱이|So i herd you liek mudkipz]]
+ * [[wiki:"Sandstorm#s-1.1" Song name?]]
+ * [[wiki:"스페이스 잼" Space Jam(Quad City)]]
+ * [[wiki:"스타워즈 키드" Star Wars Kid]]
+ * [[wiki:"MegaGFilms#s-3.1" Surprise ButtSeck]][* 우리나라의 [등짝을 보자]와 비슷하다. 해당 항목 참조]
+ * [[wiki:"테크노 바이킹"Techno Viking]]
+ * [[키노피오|Thank you Mario! But our princess is in another castle.]]
+ * [[The Fox]]
+ * [[They're taking the Hobbits to Isengard]]
+ * [[wiki:"300(영화)" This is Sparta!]]
+ * [[wiki:"트롤링#s-6" Trololo song]]
+ * [[Tunak Tunak Tun]]
+ * [[Twitch Plays Pokémon]][* 채팅 내역을 커맨드로 인식하고, 그 커맨드를 이용해서 [[포켓몬스터]] 게임을 하는 기묘한 방송이지만 여기서 뭔가를 할 때마다 화젯거리가 되서 사실상 밈 취급을 받고 있다.]
+ * [[wiki:"Sons Of Maxwell" United Breaks Guitars]]
+ * [[wiki: "루이지" Weegee]]
+ * [[What a shame]]
+ * [[When Mama Isn't Home]]
+ * [[WRYYYYYYYYYY]]
+ * [[wiki:"샤오샤오" Xiao Xiao]]
+ * [[wiki:"딩고 픽처스#s-1.1.3" Yee]]
+ * [[You spin me round]]
+
+짧은 설명의 밈은 [[밈/기타]]에 넣을 것.
+
+=== 참조항목 ===
+ * [게리모드][* 유튜브에서 [레프트 포 데드] 및 [팀 포트리스 2]의 모든 2차 창작이 대부분 밈 종류가 되었다. 팀 포트리스 2의 경우는 [[커뮤니티 유행어(팀 포트리스 2)|커뮤니티 유행어]] 항목 참고.]
+ * [[소스 필름 메이커]][* 이쪽은 비교적 최근에 쓰이기 시작했다.]
+ * [[오퍼레이션 블랙 레이지]]
+ * [[억지 밈]]
+ * [[네타]]
+ * '''[[팀 포트리스 2/커뮤니티 유행어]]'''[* 대부분의 팀 포트리스 2의 밈들을 여기서 볼 수 있다. 아직 많이 부족하니 아는 대로 [추가바람].]
+ * [[Youtube Poop]]
+ * [[Fail Blog]]
+ * [[YTMND]]
+ * [[4chan]]
+ * [[9GAG]]
+
+== [[비마니 시리즈]]의 수록곡 ==
+[[meme]] 항목 참고 바람.
+
+== [[SCP 재단]]의 용어 ==
+SCP 재단에서 밈적(Memetic)이라는 용어는 정신간섭 같은 [[초능력]] 계열의 특수 능력을 가지지 않으면서 이에 접하는 사람의 정신에 어떠한 영향을 미치는 경우를 의미하는 용어이다. 유래는 1번 항목이며, SCP 재단 한국어 위키에서는 1번 항목의 '모방자'라는 번역에 맞춰 '정신자'로 번역하고 있다. [http://www.scp-kr.net/understanding-memetics #]
+
+이러한 밈 효과를 지니는 대상은 그 자체로는 아무런 영향을 미치지 않으며, 오직 그것이 정보로서 사람에게 인지되는 과정에서 그 효과를 발휘하게 된다. 이러한 밈에 의한 효과는 단순히 사람이 그 대상을 실제와는 다른 방식으로 인식하게 하는 정도에서, 인식한 대상이 일정한 생각이나 행동을 하게 만들 수도 있고, 인식한 대상에게 특정한 정보를 각인시키거나[* 예를 들면 [[2]]나 [[9]]같은 숫자를 보고 [[콩드립]]이나 [[비둘기야 먹자]]를 떠올리게 되는 식.] 반대로 [wiki:"SCP-055"어떤 정보를 인지하게 못하게 작용]하거나, 아예 이를 [wiki:"BLIT" 인식한 대상을 그대로 사망][* 재단에서 중요 정보 보호에 사용하고 있는 Instant Memetic-Kill Agent가 이걸 이용한 것이다.]하게 만들 수도 있다.
+
+이러한 밈적 효과는 그 대상자에게 직접적인 정신적 조작을 가하는 것이 아니기 때문에, [[텔레파시]] 능력을 차단하는 [[텔레킬 합금]]으로 그 효과를 차단할 수 없다는 공통점이 있다.
+
+[[각주]]

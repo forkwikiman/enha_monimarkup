@@ -1,0 +1,71 @@
+[[목차]]
+
+|| 장르 |||||||| Funky Jazz ||
+|| 곡명 |||||||| Funny Funky ||
+|| 작곡 |||||||| [[CROOVE]] ||
+|| 배경 |||||||| [[Lassoft]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 1st]] ||
+|| BPM |||||||| 92 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 3}}} || {{{#red 5}}} || {{{#purple 6}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 3}}} || {{{#red 5}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 3}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 3}}} || {{{#red 10}}} || {{{#purple 12}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+
+{{{#!HTML
+<embed src='http://flvs.daum.net/flvPlayer.swf?vid=gq2EBPg8HJM$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+[[EZ2DJ The 1st TRACKS]] '''BGA'''
+
+== 개요 ==
+[[Freedom]]과 함께 존재조차 모르는 사람이 많은 노래. 그나마 Freedom은 '한 번 삭제되고 나서 다시 돌아오지 않았다'라는 특이성 때문에 많은 사람들에게 존재를 각인시켰지만 '''이 곡은 그런 것도 아니다'''. 곡이 상당히 단조로운 구성을 취하고 있는 것도 한 몫 했다. 그래도 존재감이 없다는 것 때문에 오히려 기억해주는 사람들도 있는 모양. CROOVE의 곡인 만큼 은근히 멜로디가 좋다.
+
+당시 공식 홈페이지의 곡 설명에 따르면, 삶의 즐거움을 펑키한 음악으로 표현하고자 한 곡이라고 한다. CROOVE 왈, Lassoft가 곡 그래픽에 이상한 생명체를 탄생시켜서 의도가 걷잡을 수 없게 되었지만 그 생명체도 상당히 즐거운 삶을 살고 있다고 생각한다고.
+
+BGA는 선인장으로 보이는 한 식물의 성장 과정을 좀 귀엽게 그려놨다.
+
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~|3rd]]에서 삭제된 이후 [[EZ2DJ Platinum]]에서 부활했다. [[EZ2DJ 7thTRAX Ver 2.0| 7th 2.0]]에서 7키에 난이도 11짜리 하드 채보가 생겼고, 의외로 [[EZ2DJ CV|CV]]의 삭제 폭풍을 피해갔다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+일단 1st 당시에는 세 번째 판에서 등장하는 곡이었는데 두 번째 판에서 [[Confete]]를 플레이해야 나오는 숨겨진 곡이었다. 게다가 이 곡과 같은 판에는 [[Envy Mask]], [[Stay]] 등 1st 최강의 인기곡들이 몰려나오니 이 곡은 더욱 묻힐 수밖에 없었다. 물론 네 번째 판으로 넘어가기 위해 그나마 가장 쉬운 이 곡을 억지로 고르는 경우도 있었지만 네 번째 판의 곡들의 난이도가 만만치 않았다[* 1st 스트릿의 네 번째 판에서 가장 쉬운 곡은 [[Baby Dance]].].
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/Hnf2H1dIEVY?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+[[EZ2DJ The 1st TRACKS Special Edition]]의 '''플레이 영상'''(하드 믹스)
+
+[[EZ2DJ The 1st TRACKS Special Edition|1st SE]]에서 하드 채보가 생겼다. [[The Rhythm]], [[Catch The Flow]], [[Southwest Cadillac]], [[Envy Mask]]처럼 곡이 변하는 하드 믹스로, 위의 영상에서도 확인할 수 있듯이 'Session Mix'라는 부제도 붙어있다. SE의 네 번째 판 곡 중에서는 가장 쉬운 곡이라서 그나마 초보자들이 플레이했다. Platinum에서 부활할 당시 하드 믹스는 빼고 노멀만 부활했으나 7th 2.0에서 하드가 돌아왔다.
+
+다른 네 곡과는 달리 그 어떤 공식 매체에서도 이 버전을 'Remix'로 지칭하는 곳이 없다[* The Rhythm, Southwest Cadillac, Envy Mask는 3rd 시절 나온 Platinum OST에 Remix라는 이름으로 별도로 수록되었고, Catch The Flow는 EZ2ON에서 하드 음원이 Remix라는 이름으로 분리되었다.].
+=== 7K STANDARD ===
+7th 2.0에서 해금 패턴으로 7키 하드가 추가되었다. 리믹스를 원곡 길이로 늘인 음원을 사용한다. 복잡한 스크와 페달 박자로 인해 7키임에도 봉산탈춤을 출 수가 있다.
+
+{{{#!html
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FX3NMeaxE9Y" frameborder="0" allowfullscreen></iframe>
+}}}
+이렇게.
+=== 5K COURSE ===
+AEIC에서 추가되어 현재까지 이르고 있는 Lounge J 채널의 마지막 스테이지에 전용 패턴이 존재한다. 난이도는 하드와 비슷한 편.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+클럽 믹스에서는 난이도 9짜리 하드 채보가 생겼지만 정작 이 곡을 고르면 '''스킵'''되는 버그가 있었다. 이 버그는 [[EZ2DJ AE|AE]]에서 곧바로 수정되었고, 그와 동시에 10으로 상향되었다. 클럽 하드 채보는 1st 당시의 더블 채보를 이식한 것 같은 느낌을 준다. 중간중간에 나오는 무리스크를 제외하면 10치고는 수월한 편이었지만 EV에서 쌍스크 도입으로 인해 패턴이 변경되면서 상당히 어려워졌다.
+
+EV에서 이를 한층 더 강화한 슈하가 추가되었다. 난이도는 12.
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+EC에서 3레벨짜리 턴테이블 패턴이 추가되었다. 3레벨답게 무난하며 턴테이블의 플레이 방식만 알면 어렵지 않게 클리어 할 수 있을 것이다.
+
+
+[[각주]]

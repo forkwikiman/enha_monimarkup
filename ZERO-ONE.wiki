@@ -1,0 +1,47 @@
+|||||||||| [[Mr.T]]의 ELECTROSHOCK 시리즈 ||
+|| '''ZERO-ONE'''[[BR]]IIDX 7th style || → || [[xenon]][[BR]]IIDX 8th style || → || [[EXE]][[BR]]IIDX 10th style ||
+
+[[목차]]
+
+== [[beatmania IIDX]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/dZ58MLbNKtg" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 어나더 영상
+
+{{{#!html
+<iframe width="420" height="315" src="https://www.youtube.com/embed/BlgqKbIuCIc" frameborder="0" allowfullscreen></iframe>
+}}}
+흑어나더 랜덤플레이 영상
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/RQv05h1Mc1g" frameborder="0" allowfullscreen></iframe>
+}}}
+더블 어나더 영상
+
+|||||||||||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+||<|2> [[BPM]] |||||||||||||||| 싱글 플레이 |||||||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#800000 흑 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#800000 흑 어나더}}} ||
+|| 160 || {{{#blue 5}}} || {{{#blue 556}}} || {{{#orange 9}}} || {{{#orange 874}}} || {{{#red 10}}} || {{{#red 1132}}} || {{{#800000 11}}} || {{{#800000 1448}}} || {{{#blue 5}}} || {{{#blue 556}}} || {{{#orange 8}}} || {{{#orange 874}}} || {{{#red 10}}} || {{{#red 1169}}} || {{{#800000 없음}}} || {{{#800000 없음}}} ||
+ 
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 7th style ~ 
+ * 가정용판 수록 : 7th style, 10th style, 16 EMPRESS(PREMIUM BEST SIDE)
+ * [[단위인정]] 수록  
+  * SPH : 5단 (9th stlye), 6단 (16 EMPRESS)
+  * SPA : '''9단''' (가정용 7th style)
+
+작곡은 [[Mr.T]]이며 장르는 ELECTROSHOCK이다. 일렉트로쇼크 시리즈의 첫번째 악곡. 이 곡의 후속곡이 바로 xenon이다.
+
+채보의 특징으로 하이퍼 이상에는 싱글/더블 모두 중반에 [[트릴]]이 있어 방심하다가는 게이지가 대폭 깎여나갈 수 있다. 어나더는 노트 수는 적지만 곡의 길이가 짧아(90초) 체감밀도는 높은 편이다. 게다가 쉴 틈이 별로 없어 페이스를 유지하는 것이 클리어의 관건이 된다. 
+
+CS EMPRESS BEST 디스크에 수록되면서 흑어나더가 추가되었다. 원래의 어나더의 난타에 살이 더 붙은 형태로, 11에서도 상급 난이도로 평가된다.
+
+범용 BGA에 전용레이어를 사용하였다. 레이어에는 零壱이라는 한자가 나온다.[* 곡제목을 그대로 번역한 것이다.]
+
+== [[댄스 댄스 레볼루션]] ==
+
+[[youtube(GrmEoLXb4kE)]]
+
+가정용 DDR ULTRAMIX2에 수록되었고, 이후 DDR FESTIVAL에도 수록되었다. 아직 아케이드엔 이식되지 않았다.

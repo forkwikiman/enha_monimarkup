@@ -1,0 +1,51 @@
+##
+[[include(틀:스타바운드)]]
+
+게임 [스타바운드]의 세부 항목들에 사용되는 여러 표들의 서식들을 모아두는 항목입니다. 필요한 서식은 계속해서 추가할 예정입니다.
+
+== 일반적인 표 ==
+ * 일반적인 아이템
+|| 이미지 || 설명문 ||
+
+ * 재료
+|| 요구 제작대 || - ||
+|||| 재료 ||
+|| - || - ||
+
+ * 퀘스트
+|| 클리어 조건 || - ||
+|| 보상 || - ||
+|| 선행 퀘스트 || - ||
+|| 연계 퀘스트 || - ||
+
+== 무기 ==
+ ※ 무기의 경우 무기의 성능이 설명문에 표기되기 때문에 설명을 찾으려 한다면 내부 데이터를 직접 뒤지거나(...) 위키에서 검색해볼 필요가 있습니다. 단, 이는 고유 무기에만 해당되며 무작위 결정 무기에 경우 설명문 자체가 존재하지 않습니다.
+
+ * 원거리 계열
+||<|4> 이미지 || DPS || - ||
+|| 공격 속도 || - ||
+|| 발 당 피해량 || - ||
+|| 발 당 에너지 소모량 || - ||
+||<-3> 설명문 ||
+
+ * 근접 계열
+||<|3> 이미지 || DPS || - ||
+|| 공격 속도 || - ||
+|| 회 당 피해량 || - ||
+||<-3> 설명문 ||
+
+== 갑옷 & 의상 ==
+ * 세트로 존재하는 갑옷 & 의상
+||<|4> 풀셋 이미지 || 아이콘 || http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 설명문 ||
+|| 머리 아이콘 || - || - || - || - || - ||  ||
+|| 상의 아이콘 || - || - || - || - || - ||  ||
+|| 하의 아이콘 || - || - || - || - || - ||  ||
+
+ * 시작 의상 혹은 모자가 없는 갑옷 & 의상 - 다른 부위가 없는 경우 그에 맞춰 적절히 수정해 주십쇼.
+||<|3> 풀셋 이미지 || 아이콘 || http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 설명문 ||
+|| 상의 아이콘 || - || - || - || - || - ||  ||
+|| 하의 아이콘 || - || - || - || - || - ||  ||
+
+ * 한 부위만 존재하는 갑옷 & 의상
+||<|2> 착용 샷 || 아이콘 || http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 설명문 ||
+|| 해당 아이템의 아이콘 || - || - || - || - || - ||  ||

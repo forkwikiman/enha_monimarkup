@@ -1,0 +1,33 @@
+{{{+1 新御徒町駅 / Shin-Okachimachi Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 다이토구에 위치한 [[도쿄도 지하 고속전차]] 및 [[수도권 신도시 철도]]의 역이다. [[오에도선]] 및 [[츠쿠바 익스프레스]]의 환승역이다. 원래 출입구는 2개였지만 츠쿠바 익스프레스 개통 후 2곳이 더 늘었다.
+
+역 주변에는 상점가 및 학교가 있으며, [[도쿄 메트로]] [[긴자선]] [[이나리쵸역]]과는 600m  정도 떨어져 있어 환승역은 아니지만 츠쿠바 익스프레스는 이 역이 가까이 있다고 안내하고 있다.
+
+== 역 및 승강장 ==
+=== [[도쿄도 지하 고속전차]] 신오카치마치역 ===
+||||||||||<#b6007a> {{{#ffffff 오에도선}}} ||<#b6007a><|6>{{{#ffffff 운영주체 : 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일 : 2000년 12월 12일}}} ||
+||<width=100px> [wiki:"도청 앞역" 도청앞] 방면[[br]][wiki:"우에노오카치마치역" 우에노오카치마치][[br]](E-09) || {{{+1 ← }}} ||<width=100px> 신오카치마치[[br]](E-10) || {{{+1 → }}} ||<width=100px> [wiki:"히카리가오카역" 히카리가오카] 방면[[br]][wiki:"쿠라마에역" 쿠라마에][[br]](E-11) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toei-shin-okachimachi-platform.jpg/512px-Toei-shin-okachimachi-platform.jpg
+오에도선 신오카치마치역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3AToei-shin-okachimachi-platform.jpg|LERK]])
+
+섬식 승강장으로 승강장은 지하 2층이다. 쿠라마에 방면으로 인상선이 있다.
+
+=== [[수도권 신도시 철도]] 신오카치마치역 ===
+||||||||||<#004282> {{{#ffffff 츠쿠바 익스프레스}}} ||<#004282><|6>{{{#ffffff 운영주체 : 수도권 신도시 철도}}}[[br]]{{{#ffffff 개업일 : 2005년 8월 24일}}} ||
+||<width=100px> [wiki:"아키하바라역" 아키하바라] 방면[[br]][wiki:"아키하바라역" 아키하바라][[br]](01) || {{{+1 ← }}} ||<width=100px> 신오카치마치[[br]](02) || {{{+1 → }}} ||<width=100px> [wiki:"츠쿠바역" 츠쿠바] 방면[[br]][wiki:"아사쿠사역(츠쿠바 익스프레스)" 아사쿠사][[br]](03) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tsukuba-express-02-Shin-okachimachi-station-platform.jpg/512px-Tsukuba-express-02-Shin-okachimachi-station-platform.jpg
+http://farm1.staticflickr.com/32/247386764_b6b5c136bc_z.jpg
+츠쿠바 익스프레스 신오카치마치역의 승강장 모습. (사진 저작자 : (위)[[http://commons.wikimedia.org/wiki/File%3ATsukuba-express-02-Shin-okachimachi-station-platform.jpg|LERK]], (아래)[[http://www.flickr.com/photos/prestwick/247386764/|Prestwick]])
+
+http://upload.wikimedia.org/wikipedia/commons/2/2c/Shin-Okachimachi.JPG
+츠쿠바 익스프레스 신오카치마치역의 역명판. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3AShin-Okachimachi.JPG|Nozomikobe]])
+
+섬식 승강장으로 승강장은 지하 4층이다.
+
+[[각주]]

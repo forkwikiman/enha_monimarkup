@@ -1,0 +1,18 @@
+1. 국지방위용전투차량 블랙 드래프트 
+局地防衛用戦闘車両　ブラックドラフト(Black Draft)
+
+attachment:/f0054431_4a5dcc9ceae23.jpg
+
+||<bgcolor=#E9ECEF>[[케츠이]] 4면필드 BGM Defensive Line ~ Lurk in the Dark{{{#!html
+<object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds22.egloos.com/pds/201201/02/57/07_-_DEFENSIVE_LINE_-_Lurk_in_the_Darkness_(Stage4).mp3" width="200" height="20"> <param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds22.egloos.com/pds/201201/02/57/07_-_DEFENSIVE_LINE_-_Lurk_in_the_Darkness_(Stage4).mp3" /> </object>}}}||
+
+[[케이브]]의 [[탄막 슈팅 게임]] [[케츠이]]의 4스테이지 중간보스.
+
+절벽에 6개의 다리로 매달려서 좌우로 흔들거리는 재미있는 모션을 보여주는 보스이다.
+배경 BGM인 'DEFENSIVE LINE - 闇に潛む(어둠에 잠기다)'의 박자와 모션이 맞아 떨어져서, 음악을 들으면서 하다 보면 저절로 어깨가 좌우로 흔들거린다(...).[* 단 케츠이 DL에서는 BGM이 나오는 부분이 다르니까 어깨가 좌우로 흔들거리는 일이 거의 없을 거다]
+
+ 아케이드에서 직접 할 때는 어렵기도 하고 주변이 시끄럽기도 하고 해서 느끼기 어렵지만.
+
+난이도는 상당히 높은 편. 탄속이 상당히 빠르고, 특히 홀수 반격탄을 뿜는 바늘(?)을 뱉는 패턴에서 바늘을 부수는 위치가 바뀜에 따라 탄의 간격이나 방향이 달라지기 때문에 패턴화가 살짝 힘든 측면이 있다.
+
+2주에서는 바늘을 부수면 기본 홀수 반격탄 외에도 2주 반격탄까지 쏟아져서 한층 더 더럽다(...) 하지만 괴수들은 오히려 이 점을 이용해서 3루프를 돌린다(케츠이의 2주는 반격탄의 개수로 배율이 결정되기 때문. 보통은 2루프째 바늘 패턴 중에 격파할 수 있다).

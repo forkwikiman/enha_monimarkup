@@ -1,0 +1,53 @@
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Utrecht_central_station.jpg/800px-Utrecht_central_station.jpg?width=500&align=right
+|||| Station Utrecht Centraal[[br]]Utrecht Central station ||
+|| 개업 || 1843년 ||
+|| 역코드 || Ut ||
+|| 관리 || [wiki:"NS" Nederlandse Spoorwegen] ||
+|| 소유 || [[NS]] ||
+
+[[목차]]
+
+ * [[NS]]
+ * [[역 관련 정보]]
+
+== 개요 ==
+[[네덜란드]] 중부 [[위트레흐트]]에 위치한 철도역. 규모로만 따지면 네덜란드 최대 규모로, 역사 건물이 [[암스테르담 중앙역]]보다 크다. 승객 숫자로 따지면 2위로, 하루 약 150,000명이 이용한다. 위치적 특성으로 인해 물동량이 어마어마하며 하루에 약 900대의 열차가 발착한다. 또한 [[NS]]의 본사가 [[위트레흐트]]에 있어 역 근처에 중검수를 위한 정비창이 있다.
+
+위트레흐트 시내버스 노선의 대부분이 이 역에 정차한다. 역사 동쪽으로 쇼핑몰과 연결되어 있는데, 이 쇼핑몰은 유럽 최대 규모의 실내 쇼핑몰이다.
+
+== 노선 ==
+=== 국제노선/장거리 열차 ===
+||||||||||<#ff0000> {{{#ffffff ICE}}} ||
+|| '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]]''시종착역'' || ← || [wiki:"ICE" Intercity-Express 100]  || → || '''바젤 방면'''[[br]]naar Basel SBB[[br]]아른헴[[br]]Arnhem ||
+|| '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]]''시종착역'' || ← || [wiki:"ICE" Intercity-Express 120]  || → || '''[wiki:"프랑크푸르트 중앙역" 프랑크푸르트] 방면'''[[br]]naar Frankfurt Hbf[[br]]아른헴[[br]]Arnhem ||
+||||||||||<#8c022d> {{{#ffffff 장거리 열차}}} ||
+|| '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]]''시종착역'' || ← || CityNightLine 419  || → || '''[[뮌헨]]/[[취리히]] 방면'''[[br]]naar München Hbf/Zürich HB[[br]]아른헴[[br]]Arnhem ||
+|| '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]]''시종착역'' || ← || EuroNight 447 || → || '''[[바르샤바]]/[[코펜하겐]] 방면'''[[br]]naar Warsaw/Copenhagen[[br]]아른헴[[br]]Arnhem ||
+|| '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]]''시종착역'' || ← || CityNightLine 457  || → || '''[[프라하]] 방면'''[[br]]naar Praha[[br]]아른헴[[br]]Arnhem ||
+
+=== 일반선 ===
+||||||||||<#0000CD> {{{#ffffff 인터시티}}} ||
+|| '''[wiki:"로테르담 중앙역" 로테르담] 방면'''[[br]]naar Rotterdam Centraal[[br]]하우다[[br]]Gouda || ← || [[NS]] Intercity 500 || → || '''흐로닝언 방면'''[[br]]naar Groningen[[br]]아메르스포르트[[br]]Amersfoort ||
+|| '''스하헨 방면'''[[br]]naar Schagen[[br]]암스테르담 암스텔[[br]]Amsterdam Amstel || ← || [[NS]] Intercity 800 || → || '''마스트리흐트 방면'''[[br]]naar Maastricht[[br]]스헤르토헨보스[[br]]'s-Hertogenbosch ||
+|| '''[wiki:"로테르담 중앙역" 로테르담] 방면'''[[br]]naar Rotterdam Centraal[[br]][[암스테르담 중앙역]][[br]]Amsterdam Centraal || ← || [[NS]] Nachtnet 1400 || - || ''시종착역'' ||
+|| '''[wiki:"덴 하흐 중앙역" 덴 하흐] 방면'''[[br]]naar Den Haag Centraal[[br]]하우다[[br]]Gouda || ← || [[NS]] Intercity 1700 || → || '''엔스헤데 방면'''[[br]]naar Enschede[[br]]아메르스포르트[[br]]Amersfoort ||
+|| '''[wiki:"덴 하흐 중앙역" 덴 하흐] 방면'''[[br]]naar Den Haag Centraal[[br]]하우다[[br]]Gouda || ← || [[NS]] Intercity 2000 || - || ''시종착역'' ||
+|| '''[wiki:"로테르담 중앙역" 로테르담] 방면'''[[br]]naar Rotterdam Centraal[[br]]하우다[[br]]Gouda || ← || [[NS]] Intercity 2800 || - || ''시종착역'' ||
+|| '''덴 헬더 방면'''[[br]]naar Den Helder[[br]]암스테르담 암스텔[[br]]Amsterdam Amstel || ← || [[NS]] Intercity 3000 || → || '''네이메헨 방면'''[[br]]naar Nijmegen[[br]]베이넨달-데 클롬프[[br]]Veenendaal-De Klomp ||
+|| '''[wiki:"암스테르담 스키폴 국제공항" 스키폴] 방면'''[[br]]naar Schiphol[[br]]암스테르담 바일머 아레나[[br]]Amsterdam Bijlmer ArenA || ← || [[NS]] Intercity 3100 || → || '''네이메헨 방면'''[[br]]naar Nijmegen[[br]]드리베르헨-자이스트[[br]]Driebergen-Zeist ||
+|| '''[wiki:"암스테르담 스키폴 국제공항" 스키폴] 방면'''[[br]]naar Schiphol[[br]]암스테르담 바일머 아레나[[br]]Amsterdam Bijlmer ArenA || ← || [[NS]] Intercity 3500 || → || '''헤를렌 방면'''[[br]]naar Heerlen[[br]]스헤르토헨보스[[br]]'s-Hertogenbosch ||
+|| '''[wiki:"라이덴 중앙역" 라이덴] 방면'''[[br]]naar Leiden Centraal[[br]]부르덴[[br]]Woerden || ← || [[NS]] Intercity 8800 || - || ''시종착역'' ||
+|| '''[wiki:"덴 하흐 중앙역" 덴 하흐] 방면'''[[br]]naar Den Haag Centraal[[br]]하우다[[br]]Gouda || ← || [[NS]] Intercity 11700 || → || '''스코트호르스트 방면'''[[br]]naar Amersfoort Schothorst[[br]]아메르스포르트[[br]]Amersfoort ||
+|| '''[wiki:"로테르담 중앙역" 로테르담] 방면'''[[br]]naar Rotterdam Centraal[[br]]하우다[[br]]Gouda || ← || [[NS]] Intercity 1700 || → || '''레와르덴 방면'''[[br]]naar Leeuwarden[[br]]아메르스포르트[[br]]Amersfoort ||
+|| ''시종착역'' || - || [[NS]] Nachtnet 21400 || → || '''아인트호벤 방면'''[[br]]naar Eindhoven[[br]]스헤르토헨보스[[br]]'s-Hertogenbosch ||
+||||||||||<#FFD700> {{{#000000 스프린터}}} ||
+|| ''시종착역'' || - || [[NS]] Sprinter 4900 || → || '''알메르 오스트바르더스 방면'''[[br]]naar Almere Oostvaarders[[br]]위트레흐트 오버베흐트[[br]]Utrecht Overvecht ||
+|| ''시종착역'' || - || [[NS]] Sprinter 5500 || → || '''밤 방면'''[[br]]naar Baam[[br]]위트레흐트 오버베흐트[[br]]Utrecht Overvecht ||
+|| ''시종착역'' || - || [[NS]] Sprinter 5600 || → || '''츠볼레 방면'''[[br]]naar Zwolle[[br]]위트레흐트 오버베흐트[[br]]Utrecht Overvecht ||
+|| '''[wiki:"덴 하흐 중앙역" 덴 하흐] 방면'''[[br]]naar Den Haag Centraal[[br]]위트레흐트 오버베흐트[[br]]Utrecht Overvecht || ← || [[NS]] Sprinter 5700 || - || ''시종착역'' ||
+|| ''시종착역'' || - || [[NS]] Sprinter 6000 || → || '''틸 방면'''[[br]]naar Tiel[[br]]위트레흐트 루네텐[[br]]Utrecht Lunetten ||
+|| '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]]위트레흐트 자윌렌[[br]]Utrecht Zuilen || ← || [[NS]] Sprinter 7400 || → || '''레넨 방면'''[[br]]naar Rhenen[[br]]부닉[[br]]Bunnik ||
+|| '''[wiki:"덴 하흐 중앙역" 덴 하흐] 방면'''[[br]]naar Den Haag Centraal[[br]]위트레흐트 테르바이데[[br]]Utrecht Terwijde || ← || [[NS]] Sprinter 9800 || - || ''시종착역'' ||
+|| ''시종착역'' || - || [[NS]] Sprinter 16000 || → || '''스헤르토헨보스 방면'''[[br]]naar 's-Hertogenbosch[[br]]위트레흐트 루네텐[[br]]Utrecht Lunetten ||
+|| '''브뢰켈렌 방면'''[[br]]naar Breukelen[[br]]위트레흐트 자윌렌[[br]]Utrecht Zuilen || ← || [[NS]] Sprinter 17400 || → || '''베이넨달 중앙역 방면'''[[br]]naar Veenendaal Centrum[[br]]부닉[[br]]Bunnik ||
+|| ''시종착역'' || - || [[NS]] Stoptrein 28300 || → || '''위트레흐트 말리반 방면'''[[br]]naar Utrecht Maliebaan[[br]]''시종착역'' ||

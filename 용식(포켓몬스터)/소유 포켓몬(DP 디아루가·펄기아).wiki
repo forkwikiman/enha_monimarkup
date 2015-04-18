@@ -1,0 +1,195 @@
+[[목차]]
+
+[[포켓몬스터 DP 디아루가·펄기아]]에서의 [wiki:"용식(포켓몬스터)" 용식]의 포켓몬 목록.
+
+== 목록 ==
+=== 1차전 ===
+||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#ff9933> attachment:/Spr_4d_390.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.7) ||<#dcdcdc> [wiki:"초염몽" 불꽃숭이] ♂[[br]](Lv.9) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+||<:> __특성__ :[[br]]날카로운눈 ||<:> __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[울음소리]][[br]][[전광석화]] ||<:> __기술배치__ :[[br]][[할퀴기]][[br]][[째려보기]] ||
+
+
+||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#6699ff> attachment:/Spr_4d_393.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.7) ||<#dcdcdc> [[팽도리]] ♂[[br]](Lv.9) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] ||
+||<:> __특성__ :[[br]]날카로운눈 ||<:> __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[울음소리]][[br]][[전광석화]] ||<:> __기술배치__ :[[br]][[막치기]][[br]][[울음소리]] ||
+
+
+||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#66cc66> attachment:/Spr_4d_387.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.7) ||<#dcdcdc> [wiki:"토대부기" 모부기] ♂[[br]](Lv.9) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]] ||
+||<:> __특성__ :[[br]]날카로운눈 ||<:> __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[울음소리]][[br]][[전광석화]] ||<:> __기술배치__ :[[br]][[몸통박치기]][[br]][[껍질에숨기]] ||
+
+=== 2차전 ===
+||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#6699ff> attachment:/Spr_4d_418_m.png ||<#66cc66> attachment:/Spr_4d_315_m.png ||<#ff9933> attachment:/Spr_4d_391.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.19) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.20) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.20) ||<#dcdcdc> [wiki:"초염몽" 파이숭이] ♂[[br]](Lv.21) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]날카로운눈 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[날개치기]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[죽기살기]] || __기술배치__ :[[br]][[물대포]][[br]][[울음소리]][[br]][[전광석화]][[br]][[따라가때리기]] || __기술배치__ :[[br]][[독침]][[br]][[메가드레인]][[br]][[씨뿌리기]][[br]][[저리가루]] || __기술배치__ :[[br]][[마하펀치]][[br]][[째려보기]][[br]][[마구할퀴기]][[br]][[화염자동차]] ||
+
+
+||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#ff9933> attachment:/Spr_4d_077.png ||<#66cc66> attachment:/Spr_4d_315_m.png ||<#6699ff> attachment:/Spr_4d_394.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.19) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.20) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.20) ||<#dcdcdc> [wiki:"엠페르트" 팽태자] ♂[[br]](Lv.21) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] ||
+|| __특성__ :[[br]]날카로운눈 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[날개치기]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[죽기살기]] || __기술배치__ :[[br]][[불꽃세례]][[br]][[몸통박치기]][[br]][[꼬리흔들기]][[br]][[울음소리]] || __기술배치__ :[[br]][[독침]][[br]][[메가드레인]][[br]][[씨뿌리기]][[br]][[저리가루]] || __기술배치__ :[[br]][[거품]][[br]][[쪼기]][[br]][[메탈 크로우]][[br]][[울음소리]] ||
+
+
+||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#6699ff> attachment:/Spr_4d_418_m.png ||<#ff9933> attachment:/Spr_4d_077.png ||<#66cc66> attachment:/Spr_4d_388.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.19) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.20) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.20) ||<#dcdcdc> [wiki:"토대부기" 수풀부기] ♂[[br]](Lv.21) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]] ||
+|| __특성__ :[[br]]날카로운눈 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[날개치기]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[죽기살기]] || __기술배치__ :[[br]][[물대포]][[br]][[울음소리]][[br]][[전광석화]][[br]][[따라가때리기]] || __기술배치__ :[[br]][[불꽃세례]][[br]][[몸통박치기]][[br]][[꼬리흔들기]][[br]][[울음소리]] || __기술배치__ :[[br]][[잎날가르기]][[br]][[몸통박치기]][[br]][[흡수]][[br]][[껍질에숨기]] ||
+
+=== 3차전 ===
+||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#6699ff> attachment:/Spr_4d_418_m.png ||<#66cc66> attachment:/Spr_4d_315_m.png ||<#ff9933> attachment:/Spr_4d_391.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.26) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"초염몽" 파이숭이] ♂[[br]](Lv.28) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]날카로운눈 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[날개치기]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[죽기살기]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[울음소리]][[br]][[전광석화]][[br]][[따라가때리기]] || __기술배치__ :[[br]][[독침]][[br]][[메가드레인]][[br]][[씨뿌리기]][[br]][[메지컬리프]] || __기술배치__ :[[br]][[마하펀치]][[br]][[째려보기]][[br]][[마구할퀴기]][[br]][[화염자동차]] ||
+
+
+||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#ff9933> attachment:/Spr_4d_077.png ||<#66cc66> attachment:/Spr_4d_315_m.png ||<#6699ff> attachment:/Spr_4d_394.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.26) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"엠페르트" 팽태자] ♂[[br]](Lv.28) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] ||
+|| __특성__ :[[br]]날카로운눈 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[날개치기]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[죽기살기]] || __기술배치__ :[[br]][[불꽃세례]][[br]][[짓밟기]][[br]][[꼬리흔들기]][[br]][[울음소리]] || __기술배치__ :[[br]][[독침]][[br]][[메가드레인]][[br]][[씨뿌리기]][[br]][[메지컬리프]] || __기술배치__ :[[br]][[거품광선]][[br]][[쪼기]][[br]][[메탈 크로우]][[br]][[울음소리]] ||
+
+
+||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_396_m.png ||<#6699ff> attachment:/Spr_4d_418_m.png ||<#ff9933> attachment:/Spr_4d_077.png ||<#66cc66> attachment:/Spr_4d_388.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르꼬] ♂[[br]](Lv.26) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"토대부기" 수풀부기] ♂[[br]](Lv.28) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]] ||
+|| __특성__ :[[br]]날카로운눈 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[날개치기]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[죽기살기]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[울음소리]][[br]][[전광석화]][[br]][[따라가때리기]] || __기술배치__ :[[br]][[불꽃세례]][[br]][[짓밟기]][[br]][[꼬리흔들기]][[br]][[울음소리]] || __기술배치__ :[[br]][[잎날가르기]][[br]][[물기]][[br]][[메가드레인]][[br]][[껍질에숨기]] ||
+
+=== 4차전 ===
+||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_397_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#6699ff> attachment:/Spr_4d_418_m.png ||<#66cc66> attachment:/Spr_4d_315_m.png ||<#ff9933> attachment:/Spr_4d_391.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르버드] ♂[[br]](Lv.31) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.30) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.32) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.32) ||<#dcdcdc> [wiki:"초염몽" 파이숭이] ♂[[br]](Lv.35) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[돌진]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[제비반환]] || __기술배치__ :[[br]][[뿔찌르기]][[br]][[깨트리다]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[스피드 스타]][[br]][[전광석화]][[br]][[따라가때리기]] || __기술배치__ :[[br]][[독압정]][[br]][[기가드레인]][[br]][[씨뿌리기]][[br]][[풀피리]] || __기술배치__ :[[br]][[마하펀치]][[br]][[깨트리다]][[br]][[화염자동차]][[br]][[제비반환]] ||
+
+
+||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_397_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#ff9933> attachment:/Spr_4d_077.png ||<#66cc66> attachment:/Spr_4d_315_m.png ||<#6699ff> attachment:/Spr_4d_394.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르버드] ♂[[br]](Lv.31) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.30) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.32) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.32) ||<#dcdcdc> [wiki:"엠페르트" 팽태자] ♂[[br]](Lv.35) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[돌진]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[제비반환]] || __기술배치__ :[[br]][[뿔찌르기]][[br]][[깨트리다]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[회오리불꽃]][[br]][[돌진]][[br]][[짓밟기]][[br]][[꼬리흔들기]] || __기술배치__ :[[br]][[독압정]][[br]][[기가드레인]][[br]][[씨뿌리기]][[br]][[풀피리]] || __기술배치__ :[[br]][[거품광선]][[br]][[제비반환]][[br]][[메탈 크로우]][[br]][[마구찌르기]] ||
+
+
+||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_397_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#6699ff> attachment:/Spr_4d_418_m.png ||<#ff9933> attachment:/Spr_4d_077.png ||<#66cc66> attachment:/Spr_4d_388.png ||
+||<#dcdcdc> [wiki:"찌르호크" 찌르버드] ♂[[br]](Lv.31) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.30) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.32) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.32) ||<#dcdcdc> [wiki:"토대부기" 수풀부기] ♂[[br]](Lv.35) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[돌진]][[br]][[그림자분신]][[br]][[전광석화]][[br]][[제비반환]] || __기술배치__ :[[br]][[뿔찌르기]][[br]][[깨트리다]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[스피드 스타]][[br]][[전광석화]][[br]][[따라가때리기]] || __기술배치__ :[[br]][[회오리불꽃]][[br]][[돌진]][[br]][[짓밟기]][[br]][[꼬리흔들기]] || __기술배치__ :[[br]][[잎날가르기]][[br]][[물기]][[br]][[메가드레인]][[br]][[씨뿌리기]] ||
+
+=== 주인공과의 협동 배틀 ===
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_b_4d_446.png ||<#99cc33> attachment:/Spr_b_4d_214_m.png ||<#999966> attachment:/Spr_b_4d_398_m.png ||<#6699ff> attachment:/Spr_b_4d_418_m.png ||<#66cc66> attachment:/Spr_b_4d_315_m.png ||<#ff9933> attachment:/Spr_b_4d_392.png ||
+||<#dcdcdc> [wiki:"잠만보" 먹고자] ♂[[br]](Lv.40) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.42) ||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.40) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.41) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.41) ||<#dcdcdc> [[초염몽]] ♂[[br]](Lv.43) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]두꺼운지방 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]위협 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[누르기]][[br]][[비축하기]][[br]][[꿀꺽]][[br]][[싫은소리]] || __기술배치__ :[[br]][[인파이트]][[br]][[깨트리다]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[돌진]][[br]][[전광석화]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[따라가때리기]][[br]][[깨트리다]][[br]][[아이언테일]] || __기술배치__ :[[br]][[기가드레인]][[br]][[맹독]][[br]][[뿌리박기]][[br]][[풀피리]] || __기술배치__ :[[br]][[인파이트]][[br]][[혼내기]][[br]][[화염자동차]][[br]][[도깨비불]] ||
+
+
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_b_4d_446.png ||<#99cc33> attachment:/Spr_b_4d_214_m.png ||<#999966> attachment:/Spr_b_4d_398_m.png ||<#ff9933> attachment:/Spr_b_4d_077.png ||<#66cc66> attachment:/Spr_b_4d_315_m.png ||<#6699ff> attachment:/Spr_b_4d_395.png ||
+||<#dcdcdc> [wiki:"잠만보" 먹고자] ♂[[br]](Lv.40) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.42) ||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.40) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.41) ||<#dcdcdc> [wiki:"로즈레이드" 로젤리아] ♂[[br]](Lv.41) ||<#dcdcdc> [[엠페르트]] ♂[[br]](Lv.43) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]두꺼운지방 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]위협 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[누르기]][[br]][[비축하기]][[br]][[꿀꺽]][[br]][[싫은소리]] || __기술배치__ :[[br]][[인파이트]][[br]][[깨트리다]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[돌진]][[br]][[전광석화]] || __기술배치__ :[[br]][[불대문자]][[br]][[도깨비불]][[br]][[짓밟기]][[br]][[돌진]] || __기술배치__ :[[br]][[기가드레인]][[br]][[맹독]][[br]][[뿌리박기]][[br]][[풀피리]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[제비반환]][[br]][[메탈 크로우]][[br]][[뽐내기]] ||
+
+
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_b_4d_446.png ||<#99cc33> attachment:/Spr_b_4d_214_m.png ||<#999966> attachment:/Spr_b_4d_398_m.png ||<#6699ff> attachment:/Spr_b_4d_418_m.png ||<#ff9933> attachment:/Spr_b_4d_077.png ||<#66cc66> attachment:/Spr_b_4d_389.png ||
+||<#dcdcdc> [wiki:"잠만보" 먹고자] ♂[[br]](Lv.40) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.42) ||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.40) ||<#dcdcdc> [wiki:"플로젤" 브이젤] ♂[[br]](Lv.41) ||<#dcdcdc> [wiki:"날쌩마" 포니타] ♂[[br]](Lv.41) ||<#dcdcdc> [[토대부기]] ♂[[br]](Lv.43) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]] ||
+|| __특성__ :[[br]]두꺼운지방 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]위협 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[누르기]][[br]][[비축하기]][[br]][[꿀꺽]][[br]][[싫은소리]] || __기술배치__ :[[br]][[인파이트]][[br]][[깨트리다]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[돌진]][[br]][[전광석화]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[따라가때리기]][[br]][[깨트리다]][[br]][[아이언테일]] || __기술배치__ :[[br]][[불대문자]][[br]][[도깨비불]][[br]][[짓밟기]][[br]][[돌진]] || __기술배치__ :[[br]][[기가드레인]][[br]][[물기]][[br]][[씨뿌리기]][[br]][[광합성]] ||
+
+=== 5차전 ===
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_398_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#999966> attachment:/Spr_4d_143.png ||<#6699ff> attachment:/Spr_4d_419_m.png ||<#66cc66> attachment:/Spr_4d_407_f.png ||<#ff9933> attachment:/Spr_4d_392.png ||
+||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.48) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.50) ||<#dcdcdc> [[잠만보]] ♂[[br]](Lv.51) ||<#dcdcdc> [[플로젤]] ♂[[br]](Lv.49) ||<#dcdcdc> [[로즈레이드]] ♂[[br]](Lv.49) ||<#dcdcdc> [[초염몽]] ♂[[br]](Lv.53) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]면역 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[강철날개]][[br]][[유턴]] || __기술배치__ :[[br]][[인파이트]][[br]][[스톤샤워]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[누르기]][[br]][[깨물어부수기]][[br]][[지진]][[br]][[잠자기]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[깨물어부수기]][[br]][[얼음엄니]][[br]][[깨트리다]] || __기술배치__ :[[br]][[독찌르기]][[br]][[기가드레인]][[br]][[섀도볼]][[br]][[풀피리]] || __기술배치__ :[[br]][[화염방사]][[br]][[기합구슬]][[br]][[섀도크루]][[br]][[제비반환]] ||
+
+
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_398_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#999966> attachment:/Spr_4d_143.png ||<#ff9933> attachment:/Spr_4d_078.png ||<#66cc66> attachment:/Spr_4d_407_f.png ||<#6699ff> attachment:/Spr_4d_395.png ||
+||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.48) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.50) ||<#dcdcdc> [[잠만보]] ♂[[br]](Lv.51) ||<#dcdcdc> [[날쌩마]] ♂[[br]](Lv.49) ||<#dcdcdc> [[로즈레이드]] ♂[[br]](Lv.49) ||<#dcdcdc> [[엠페르트]] ♂[[br]](Lv.53) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]면역 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[강철날개]][[br]][[유턴]] || __기술배치__ :[[br]][[인파이트]][[br]][[스톤샤워]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[누르기]][[br]][[깨물어부수기]][[br]][[지진]][[br]][[잠자기]] || __기술배치__ :[[br]][[불대문자]][[br]][[쾌청]][[br]][[뛰어오르다]][[br]][[도깨비불]] || __기술배치__ :[[br]][[독찌르기]][[br]][[기가드레인]][[br]][[섀도볼]][[br]][[풀피리]] || __기술배치__ :[[br]][[소금물]][[br]][[제비반환]][[br]][[메탈 크로우]][[br]][[섀도크루]] ||
+
+
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_398_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#999966> attachment:/Spr_4d_143.png ||<#6699ff> attachment:/Spr_4d_419_m.png ||<#ff9933> attachment:/Spr_4d_078.png ||<#66cc66> attachment:/Spr_4d_389.png ||
+||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.48) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.50) ||<#dcdcdc> [[잠만보]] ♂[[br]](Lv.51) ||<#dcdcdc> [[플로젤]] ♂[[br]](Lv.49) ||<#dcdcdc> [[날쌩마]] ♂[[br]](Lv.49) ||<#dcdcdc> [[토대부기]] ♂[[br]](Lv.53) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]면역 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[강철날개]][[br]][[유턴]] || __기술배치__ :[[br]][[인파이트]][[br]][[스톤샤워]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[누르기]][[br]][[깨물어부수기]][[br]][[지진]][[br]][[잠자기]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[깨물어부수기]][[br]][[얼음엄니]][[br]][[깨트리다]] || __기술배치__ :[[br]][[불대문자]][[br]][[쾌청]][[br]][[뛰어오르다]][[br]][[도깨비불]] || __기술배치__ :[[br]][[리프스톰]][[br]][[지진]][[br]][[깨물어부수기]][[br]][[광합성]] ||
+
+=== 재대결 ===
+ * 전당등록을 20회 이상 할 경우 레벨이 전원 10씩 오른다.
+
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_398_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#999966> attachment:/Spr_4d_143.png ||<#6699ff> attachment:/Spr_4d_419_m.png ||<#66cc66> attachment:/Spr_4d_407_f.png ||<#ff9933> attachment:/Spr_4d_392.png ||
+||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.58) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.60) ||<#dcdcdc> [[잠만보]] ♂[[br]](Lv.60) ||<#dcdcdc> [[플로젤]] ♂[[br]](Lv.59) ||<#dcdcdc> [[로즈레이드]] ♂[[br]](Lv.59) ||<#dcdcdc> [[초염몽]] ♂[[br]](Lv.64) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]면역 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[강철날개]][[br]][[유턴]][[br]][[인파이트]][[br]][[제비반환]] || __기술배치__ :[[br]][[스톤샤워]][[br]][[메가폰]][[br]][[깨트리다]][[br]][[깜짝베기]] || __기술배치__ :[[br]][[잠ㅈ자기]][[br]][[누르기]][[br]][[깨물어부수기]][[br]][[지진]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[깨트리다]][[br]][[깨물어부수기]][[br]][[얼음엄니]] || __기술배치__ :[[br]][[독찌르기]][[br]][[기가드레인]][[br]][[섀도볼]][[br]][[풀피리]] || __기술배치__ :[[br]][[화염방사]][[br]][[기합구슬]][[br]][[섀도크루]][[br]][[제비반환]] ||
+
+
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_398_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#999966> attachment:/Spr_4d_143.png ||<#ff9933> attachment:/Spr_4d_078.png ||<#66cc66> attachment:/Spr_4d_407_f.png ||<#6699ff> attachment:/Spr_4d_395.png ||
+||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.58) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.60) ||<#dcdcdc> [[잠만보]] ♂[[br]](Lv.60) ||<#dcdcdc> [[날쌩마]] ♂[[br]](Lv.59) ||<#dcdcdc> [[로즈레이드]] ♂[[br]](Lv.59) ||<#dcdcdc> [[엠페르트]] ♂[[br]](Lv.64) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]면역 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]자연회복 || __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[강철날개]][[br]][[유턴]] || __기술배치__ :[[br]][[인파이트]][[br]][[스톤샤워]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[누르기]][[br]][[깨물어부수기]][[br]][[지진]][[br]][[잠자기]] || __기술배치__ :[[br]][[뛰어오르다]][[br]][[불대문자]][[br]][[쾌청]][[br]][[도깨비불]] || __기술배치__ :[[br]][[독찌르기]][[br]][[기가드레인]][[br]][[섀도볼]][[br]][[풀피리]] || __기술배치__ :[[br]][[하이드로펌프]][[br]][[메탈 크로우]][[br]][[회전부리]][[br]][[섀도크루]] ||
+
+
+||||||||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_4d_398_m.png ||<#99cc33> attachment:/Spr_4d_214_m.png ||<#999966> attachment:/Spr_4d_143.png ||<#6699ff> attachment:/Spr_4d_419_m.png ||<#ff9933> attachment:/Spr_4d_078.png ||<#66cc66> attachment:/Spr_4d_389.png ||
+||<#dcdcdc> [[찌르호크]] ♂[[br]](Lv.58) ||<#dcdcdc> [[헤라크로스]] ♂[[br]](Lv.60) ||<#dcdcdc> [[잠만보]] ♂[[br]](Lv.60) ||<#dcdcdc> [[플로젤]] ♂[[br]](Lv.59) ||<#dcdcdc> [[날쌩마]] ♂[[br]](Lv.59) ||<#dcdcdc> [[토대부기]] ♂[[br]](Lv.64) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.8" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]] ||
+|| __특성__ :[[br]]위협 || __특성__ :[[br]]벌레의알림 || __특성__ :[[br]]면역 || __특성__ :[[br]]쓱쓱 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[인파이트]][[br]][[제비반환]][[br]][[강철날개]][[br]][[유턴]] || __기술배치__ :[[br]][[인파이트]][[br]][[스톤샤워]][[br]][[깜짝베기]][[br]][[제비반환]] || __기술배치__ :[[br]][[누르기]][[br]][[깨물어부수기]][[br]][[지진]][[br]][[잠자기]] || __기술배치__ :[[br]][[아쿠아제트]][[br]][[깨트리다]][[br]][[깨물어부수기]][[br]][[얼음엄니]] || __기술배치__ :[[br]][[뛰어오르다]][[br]][[불대문자]][[br]][[쾌청]][[br]][[도깨비불]] || __기술배치__ :[[br]][[지진]][[br]][[씨뿌리기]][[br]][[리프스톰]][[br]][[깨물어부수기]] ||

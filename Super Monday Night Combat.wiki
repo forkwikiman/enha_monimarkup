@@ -1,0 +1,15 @@
+attachment:logo.png
+
+http://www.uberent.com/smnc/
+
+{{{#!html
+<embed src="//www.youtube.com/v/tiL7ItFZG9A?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[Uber Entertainment]]에서 내놓은 [[부분유료]]화 [[TPS]] 게임. 콘솔 전용으로 발매되었던 Monday Night Combat의 후속작이다. 클래스 기반의 캐릭터 특성을 더욱 강화하고 붐을 타기 시작한 [[AOS|도타라이크]] 장르의 특성을 도입해 발표 당시 [[팀 포트리스 2]]의 대항마로서 큰 기대를 받았다.
+
+구성을 보면 알겠지만 못 만든 게임은 절대 아니고 오히려 할수록 깊이 빠져들 만한 요소가 굉장히 많은데 제작진이 꽤나 공을 들여 만든 게임인 걸 알 수 있다.
+
+한때 [[팀 포트리스 2]]와 콜라보레이션을 한 적이 있으나, 이를 계기로 유입된 유저는 많지 않았던 듯. 
+
+게임 자체는 잘 만들어졌으나[* 메타크리틱 76점으로, F2P 기반 게임임을 고려하면 상당한 성적이다.] 우버 엔터테인먼트의 사후관리가 엉망이었던 점이 패착의 큰 요인이었다. 게임이 아직 완성되지도 않은 상황에서 게임을 출시했으며, 매치메이킹 시스템과 서버 관리 역시 엉망. 우버는 이후 [킥스타터] 펀딩을 통해 [토탈 어나이얼레이션]의 [정신적 후속작]을 자칭하는 [플래니터리 어나이얼레이션]을 제작했으나, 이 역시 전작에서의 실책을 그대로 반복해 큰 공분을 샀다.

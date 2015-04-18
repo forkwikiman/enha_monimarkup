@@ -1,0 +1,53 @@
+[[include(틀:포켓몬스터/지방)]]
+
+'''カロス''' / ''Kalos''
+
+[[목차]]
+
+== 소개 ==
+||<tablealign=center><width=420px> http://static2.wikia.nocookie.net/__cb20130514131238/pokemon/ko/images/e/e9/%EC%B9%BC%EB%A1%9C%EC%8A%A4%EC%A7%80%EB%B0%A9_%EA%B3%B5%EC%8B%9D_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8.jpg ||
+|| 칼로스지방 지도 ||
+
+[[포켓몬스터]] 시리즈의 6세대 작품군 [[포켓몬스터 X·Y]]의 주요 무대가 되는 지역. 이름의 유래는 고전 그리스어로 "美"를 뜻하는 καλλονή. '''[[밀로틱]]의 일본판 이름과 어원이 같다.'''
+
+모델은 [[프랑스]]로, [wiki:"☆" 별 모양]이 특징.
+
+== 지리 ==
+=== 도시 및 마을 ===
+||<tablealign=center><rowbgcolor="#5a5aff"><:> {{{#ffffff '''모습'''}}} || {{{#ffffff '''도시/마을'''}}} || {{{#ffffff '''표어'''}}} ||
+||<rowbgcolor="#dcdcdc"><:> attachment:조아마을/Vaniville.png?width=190 || [[조아마을]] || '앞으로 꽃필 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:수미마을/Aquacorde.png?width=190 || [[수미마을]] || '강변에 인접한 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:백단시티/Santalune.png?width=190 || [[백단시티]] || '고풍스럽고 우아한 도시' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Lumiose_City_art.jpg?align=right&width=190 || [[미르시티]] || '칼로스의 중심에 위치한 기술과 예술의 메트로폴리스' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:고목내마을/Camphrier.png?width=190 || [[고목내마을]] || '원숙한 매력의 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:가라마을/Ambrette.png?width=190 || [[가라마을]] || '붉게 흩날리는 흙먼지' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:삼채시티/Cyllage.png?width=190 || [[삼채시티]] || '여유롭게 산책하기 좋은 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:옥유마을/Geosenge.png?width=190 || [[옥유마을]] || '조용한 돌은 많은 것을 이야기한다' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:사라시티/Shalour.png?width=190 || [[사라시티]] || '각성의 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:비익시티/Coumarine.png?width=190 || [[비익시티]] || '해변과 전망대가 이어지는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:후늬시티/Laverre.png?width=190 || [[후늬시티]] || '조금 이상한 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:버들비마을/Dendemille.png?width=190 || [[버들비마을]] || '솜털이 흩날리는 바람의 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:향전시티/Anistar.png?width=190 || [[향전시티]] || '별의 움직임으로 시간을 알리는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:배롱마을/Couriway.png?width=190 || [[배롱마을]] || '다른 것을 연결하는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:이설시티/Snowbelle.png?width=190 || [[이설시티]] || '겨울보다도 차갑게 어는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:기남시티/Kiloude.png?width=190 || [[기남시티]] || '부드럽고 달콤한 최상의 마을' ||
+
+=== 던전 및 기타 ===
+ * [[백단숲]]
+ * [[칼로스발전소]]
+ * [[파르팽 궁전]]
+ * [[땅이음의 동굴]]
+ * [[반짝임의 동굴]]
+ * [[비춤의 동굴]]
+ * [[마스터타워]]
+ * [[해신의 굴]]
+ * [[볼 공장]]
+ * [[황폐해진 호텔]]
+ * [[프로스트케이브]]
+ * [[끝의 동굴]]
+ * [[미혹의 숲]]
+ * [[포켓몬마을]]
+ * [[챔피언로드]]
+ * [[공허의 방]]
+ * [[배틀샤토]]
+ * [[배틀하우스]]

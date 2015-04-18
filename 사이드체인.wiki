@@ -1,0 +1,17 @@
+ * 상위 항목 : 음향 관련 정보
+
+Side Chain. 한국어로는 보통 울렁울렁 소리 라고 한다. 
+
+믹싱을 할 때 특정 악기의 소리 규모를 다른 트랙에 전송하여 그 트랙에 있는 이팩터에 연결하여 소리의 크기나 필터의 옵션을 조정하는 것. 주로 일렉트로니카 장르에서 사용되며, Kick 사운드가 있는 트랙에서 따오는 경우가 많다. 
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Compressor_Sidechain.svg/500px-Compressor_Sidechain.svg.png
+
+논리 회로는 이렇고, 
+
+http://www.reasontutorials.net/resources/sidechain-demo-back.png
+
+배선은 이렇게 딴다. 
+
+자세한 설명은 http://en.wikipedia.org/wiki/Dynamic_range_compression 에서 볼 수 있다. 사이드체인으로 가장 많이 조절하는 것이 Compression 이기에 DRC 에 대한 글에 붙어있다. 다만, 좀 더 많은곳에 응용할 수 있는 기법이란 점 알아주면 한다. 
+
+http://www.youtube.com/watch?v=iHq9aToqvHU 방법을 보지말고 소리가 어떻게 변하는지 들어보자. 

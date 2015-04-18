@@ -1,0 +1,7 @@
+ * 상위항목 : [이터널시티2/계산공식]
+
+|| 체력회복공식 = 2.8 + (0.34 * S) + (0.6 + (0.78 * S)) * (스탯 -3) ||
+
+attachment:recovery.jpg
+attachment:recovery2.jpg
+attachment:recovery3.jpg

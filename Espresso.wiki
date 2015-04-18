@@ -1,0 +1,76 @@
+||[[커피]]의 한 종류 [[에스프레소]]는 해당 항목을 참조하시오.||
+
+[[목차]]
+|| 작곡, 편곡 || Zero ||
+|| 비주얼 || [wiki:"RYUminus" RewMineUs] ||
+|| BPM || 95 ||
+
+{{{#!HTML
+<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/Y4OhkQZX8qk?fs=1&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Y4OhkQZX8qk?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[Sabin Sound Star]] BGA
+== 개요 ==
+3S에서는 비해금곡이므로 카드 없이도 플레이가 가능하다.
+
+리듬게임에서 보기 힘들어진 [[트립합]] 스타일의 곡으로, 토속적인 분위기의 퍼커션으로 몽롱한 분위기를 연출하는 곡. 그러나 느려터진 BPM과 그만큼 낮은 난이도, 그리고 오락실에서 하기에는 지루한 곡 특성 덕분에 Sabin Sound Star에서는 인기가 바닥을 뚫는 안습 곡들 중 하나였다.
+
+== [[EZ2DJ]]에서의 Espresso ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 2}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7}}} || {{{#red 14}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 10}}} || {{{#red 14}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="420" height="349" src="http://www.youtube.com/embed/KX4FE6PFOkw" frameborder="0" allowfullscreen></iframe>
+}}}
+[[EZ2DJ]]로 이식되면서 [[EZ2Dancer]]의 수록곡인 '촛불하나'의 BGA를 옮겨왔다. 재탕이긴 하지만 곡과 잘 어울린다는 평을 받고 있다. 그러나 EV 1.53에서 원래의 3S BGA가 이식되었다.
+=== 5K ONLY ===
+{{{#!html
+<iframe width="420" height="315" src="https://www.youtube.com/embed/nCUe8bhGkMg" frameborder="0" allowfullscreen></iframe>
+}}}
+5K ONLY ALL KOOL 영상. 5키 온리에서는 무난한 레벨 8곡으로 나온다.
+=== 5K RUBY ===
+=== 5K STANDARD ===
+[[EZ2DJ 7thTRAX BONUS EDITION revision A]]에 이식되면서 순식간에 괴수들의 엄청난 인기를 한 몸에 받고 있는데, 5스트릿 HD 패턴이 '''레벨 14'''로 등장한 것이다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/hFIWaz7gYN8?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/hFIWaz7gYN8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+HD 패턴의 정체는 다름아닌 '''판정곡'''으로, [wiki:"Get the beat" 개떡비트] 이상의 살인적인 정확도를 요구하고 있다. 판정선 수치는 KOOL 2, COOL 3, GOOD 4, MISS 5. 판정곡 계의 [[최종보스]] [[To My Love]]의 1/2/3/4에는 못 미치지만 이쪽도 어지간한 정확도로는 굿도 보기 힘들다. 또한 페달과 스크래치는 나오지 않는 대신 건반노트의 밀도가 두 곡에 비해 매우 높으며 박자 배치도 난해하게 되어 있어 EZ2DJ 전체 패턴에서도 손에 꼽는 보스곡 중 하나로 등극하였다. 스크롤 속도가 느려 배속이 모자란 것도 난이도 상승의 주범.
+
+[[La Grand Bleu]]와 더불어 노멀보다 하드의 노트수가 적은 희귀 케이스. 노멀은 538개, 하드는 411개. 겟더비트나 투마이러브의 경우에는 노멀과 하드의 패턴이 같고 판정만 다르기 때문에 노트 수가 같다.
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='yZs4qpL-ab8$' width='600px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=yZs4qpL-ab8$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=yZs4qpL-ab8$' width='600px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+문제의 5키 하드 영상. 참고로 영상의 플레이어는 전국기록을 다수 보유한 [[탑랭커]]다. 그런데도 저 정도이니... [http://toez2dj.net/zeroboard/zboard.php?id=d_playmovie&no=13314 그러나 이 영상으로부터 1년 4개월 후...]
+
+[[EZ2DJ AE]]에서 라이센스 만료 문제로 To My Love가 짤리면서 판정곡 1등을 차지했다. 별칭은 특유의 쓰디 쓴 판정에 착안한 '''쓴커피''' 혹은 '''썩은커피'''. 
+
+EV 1.50에서 판정이 전반적으로 완화되면서 판정곡들의 판정도 완화되었다. Espresso의 경우, 1.50 이전의 [[Get the beat]] 하드보다 쉽다고 한다.[http://toez2dj.net/zeroboard/zboard.php?id=c_ez2dj2&no=315614 #] ~~에스프레소가 [[아메리카노]]로 바뀌었다.~~
+=== 7K STANDARD ===
+--[http://toez2dj.net/zeroboard/zboard.php?id=d_playmovie&page=1&sn1=&divpage=2&sn=off&ss=on&sc=on&keyword=%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C&select_arrange=headnum&desc=asc&no=8196 7 스트릿 믹스에서는 플레이어를 1초만에 게임오버시키는 위엄을 보였다.]-- 사실 데이터 스킵 버그로, AE에서는 아예 7키 자체가 없다. EV에 와서야 7키 채보가 추가가 되었다.
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+표기상으론 레벨 10이다. 전체적으로 한손 연주 주력이다.하지만 BPM이 느리고 판정이 짠 것도 아니라 [[wiki:"물렙곡" 실질 체감은 7 정도이다.]]
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+{{{#!HTML
+<iframe width="420" height="349" src="https://www.youtube.com/embed/6yWryp6Al9Q" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX
+
+EZ2CATCH에서는 노멀 패턴이 10, 하드 패턴이 14로 등장. 마찬가지로 ~~지랄맞은~~ 판정곡이지만, 패턴이 워낙 쉬워서 14 중에서는 굉장한 물렙에 속한다.
+=== TURNTABLE ===

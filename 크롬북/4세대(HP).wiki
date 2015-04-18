@@ -1,0 +1,24 @@
+|||||||||||||||||| [[구글]] [[크롬북]] 시리즈 ||
+||<width=100px> [[2010년]] ||<|2>{{{+1 →}}}||<width=100px> [[2011년]] ||<|2>{{{+1 →}}}||<width=100px> [[2012년]] ||<|2>{{{+1 →}}}||<width=100px> [[2012년]] ||<|2>{{{+1 →}}}||<width=100px> [[2013년]] ||
+||<width=100px> [[크롬북/프로토 타입(구글)]] ||<width=100px> [[크롬북/1세대(삼성)]] [[br]] [[크롬북/1세대(Acer)]] ||<width=100px> [[크롬북/2세대]] ||<width=100px> [[크롬북/3세대(삼성)]] [[br]] [[크롬북/3세대(Acer)]] ||<width=100px> [[크롬북 픽셀]] [[br]] [[크롬북/4세대(HP)]] ||
+
+http://www.google.com/intl/en/chrome/assets/common/images/devices/hp-pavilion/hero.jpg?width=560
+
+'''HP Pavilion Chromebook'''
+
+== 개요 ==
+구글에서 2013년 2월 4일에 출시한 4번째 [[크롬북]] 제품군이다.구매시 2년동안 구글드라이브 100GB를 제공한다. 14인치로 기존 크롬북에 비해 대형 모니터를 장착한게 특징
+
+== 사양 ==
+||[wiki:"CPU" 프로][wiki:"GPU" 세서]||[Intel] [wiki:"인텔 셀러론 시리즈" Intel Celeron] 847 / 1.1 GHz [[CPU]], [Intel] HD Graphics [[GPU]] ||
+||[[메모리]]||2GB DDR3 SDRAM, 16GB [[SSD]] ||
+||[[디스플레이]]||14인치 (1366 x 768 )||
+||[[네트워크]]||[wiki:"와이파이" Built-in dual band Wi-Fi] 802.11a/b/g/n 2x2,ethernet [[블루투스]] 3.0 ||
+||[[카메라]]||HD camera ||
+||[[배터리]]||4-cell Lithium ion 37 Wh ||
+||[[운영체제]]||[[구글 크롬 OS]] ||
+||크기 및 무게||13.7 x 9.4 x 0.8 in 4 lbs / 1.8 kg ||
+
+== 뱀발 ==
+
+크롬북 픽셀보다 HP 크롬북이 먼저 출시되었다.

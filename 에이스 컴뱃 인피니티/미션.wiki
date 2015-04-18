@@ -1,0 +1,94 @@
+[[목차]]
+
+= OPERATION ETERNAL LIBERATION =
+== Tokyo Martial Law ==
+ * 도쿄 계엄령
+ 관동 평야 상공의 항공 우세를 잡은 적군은 수도권 전역에 병력을 전개. 수비대의 선전에도 불구하고 도쿄는 허무하게 함락되었다. 적은 점령상황을 영구화하기 위해 곳곳에 지상 병력을 배치하고 도쿄만에 함대를 집결. 민간 인프라를 군사전용하여 순조롭게 도쿄의 무장화를 진행하고 있다. 도쿄 해방의 전열에 참가하여 신속하게 육해공의 적 병력을 제거하라.
+
+ * 미션 클리어 조건 
+ 작전시간 내에 일정 전적을 달성하라. 더 전적이 뛰어난 팀에는 추가보상이 주어진다.
+
+ * 스테이지 개요
+ 도쿄시를 모델로한 스테이지다. 빌딩이 모여있으므로 지상표적이 가려져서 노리기 어렵다. 고도를 높여서 급강하폭격을 하거나 지상표적에 호밍 기능이 있는 4AGM이나 LASM 등을 사용해보자.
+=== 긴급 미션 ===
+ * [신팍시] 급 잠수함(호위 UAV 사출) 출현
+ * [줌왈트급] 스텔스 구축함 함대(MiG-29 호위) 출현
+ * F-14D TITAN 출현
+ * T-50 출현
+ * Su-35 출현
+ * 혼성 스텔스기(F-22, F-35, YF-23 등) 출현
+ * 운석 낙하
+=== 출현 적기 ===
+ * 적 항공기
+  * AV-8B Harrier II
+  * F-4E Phantom II
+  * MiG-29A Fulcrum
+  * Rafale M
+  * F-14D Super Tomcat
+
+ * 적 지상병력
+  * AA Gun
+  * AD Tank
+  * SAM
+  * XSAM
+  * Tank
+  * Radar Truck
+  * Rocket Truck
+  * Heavy Artillery
+
+ * 적 해상병력
+  * Corvette
+  * Frigate
+  * Gunboat
+  * Missile Boat
+  * Ship Gun
+
+== Alps Air Corridor ==
+ * 알프스 공중회랑
+ 알프스 산에 구축된 영구요새를 공격하라. 제2차 세계대전 중 구축을 시작하여 냉전시절을 걸쳐 비밀리에 확장을 계속한 광대한 지하구조물을 적이 손에 넣어 지상시설을 구축하고 폭격을 대비한 요새화하였다. 이 요새를 방치한다면 허를 찔릴 위험성이 있다. 지하구조물과 지형특성에 따라 게릴라적인 반격이 예상된다. 경계를 늦추지마라. 
+
+ * 미션 클리어 조건
+ 작전시간 내에 일정 전적을 달성하라. 더 전적이 뛰어난 팀에는 추가보상이 주어진다.
+
+ * 스테이지 개요
+ 알프스 산맥을 모델로 한 스테이지이다. 분지와 산맥에 적이 밀집해있기 때문에 지면과 충돌에 주의하자. 지형으로 가려진 표적은 HUD에 점선으로 표시되니 잘못보고 달려들지 않도록 주의.
+
+=== 긴급 미션 ===
+ * 레이더 사이트 파괴
+ * 스텔스 요격기 부대 출현
+ * ICBM 파괴지령
+
+=== 출현 적기 ===
+ * 적 항공기
+  * AV-8B Harrier II
+  * F-4E Phantom II
+  * MiG-29A Fulcrum
+  * Rafale M
+  * F-14D Super Tomcat
+
+ * 적 지상병력
+  * AA Gun
+  * AD Tank
+  * SAM
+  * XSAM
+  * Tank
+  * Radar Truck
+  * Rocket Truck
+  * Heavy Artillery
+
+ * 적 해상병력
+  * Corvette
+  * Frigate
+  * Gunboat
+  * Missile Boat
+  * Ship Gun
+== Pipeline Destruction ==
+== Dubai Night Assault ==
+
+= OPERATION COUNT DOWN =
+== Aerospace Center Defense ==
+
+= OPERATION WHALE HUNT =
+== Moby Dick Pursuit I ==
+== Moby Dick Pursuit II ==
+== Moby Dick Pursuit III ==

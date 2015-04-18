@@ -1,0 +1,25 @@
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/H85-udAkFa0?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/H85-udAkFa0?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+Yankee Doodle
+
+역사가 길지 않은 [[미국]]에서 나름대로 전통(?)노래로 꼽히는 곡. 미국 내에서는 포크송으로 분류하고 있으며 [[코네티컷]]주의 주가로도 사용되고 있다. [[양키]]는 [[wiki:"미국"미쿡]]인을 지칭하는 단어이지만 정확히는 북아메리카에 정착한 이주민을 지칭하는 단어였고, Doodle은 바보, 멍청이, 얼간이 정도로 해석된다. 제목부터가 미국인들을 까고 있다.
+
+원래 프렌치-인디언 전쟁 당시 [[영국]]에서 북미 지역의 식민지 거주민들을 동원해서 돕게 했는데, 행색도 추레하고 영 [[오합지졸]]들이라 [[영국군]]이 조롱하는 목적으로 불렀던 노래다. 그 영향으로 곡도 굉장히 단순한 패턴이 반복되는 식이며 군에서 부르던 노래인지라 파이프와 북만으로 연주할 수 있었다. 게다가 가사도 양키를 깐다(…)는 패턴은 정해져 있었지만 후렴구를 제외하면 내용은 부를 때마자 조금씩 달라지던 노래였다.
+
+양키들도 영국애들이 불러재끼니 음과 가사를 차용해서 쓰긴 했으나 이 노래가 미국인들이 공식적으로 부르기 시작한 것은 1775년, [[미국 독립전쟁]]이 발발하던 시기이다. [[매사추세츠]]주에서 한 사람이 영국군에 대항할 목적으로 머스킷을 구입하려다가 적발당해 처벌당했는데 영국군은 이를 조롱할 목적으로 가사를 살짝 어레인지하여 양키 두들을 불렀다. 문제는 이게 [[어그로]]를 제대로 끌어 빡친 미국인들은 영국군이 부르던 양키 두들의 노래를 살짝 어레인지한다음 영국군을 조롱할 목적으로 불러재끼기 시작했다.
+
+그 덕분에 양키 두들은 [[미국 독립전쟁]] 동안 식민지군의 군가이자 행진곡으로 사용됐고 미국의 [[애국가]]처럼 사용됐다. 노래는 보통 아래와 같은 패턴으로 시작된다. 후렴구는 계속 반복되고 부르는 상황에 맞게 어레인지하면서 노래를 반복해나갔던 것이 특징.
+
+||Yankee Doodle went to town[* Yankee Doodle came to town 으로 된 버전도 존재]
+A-riding on a pony,
+Stuck a feather in his cap
+And called it macaroni'. 
+
+(후렴구)
+Yankee Doodle keep it up,
+Yankee Doodle dandy,
+Mind the music and the step,
+And with the girls be handy.||
+
+현재도 미국에서 흔히 연주하고 부르는 곡이라 한다. 공식가사처럼 사용되는 것들도 있지만 꽤 많은 버전이 존재한다. 더불어 현재의 후손들도 어레인지 전통을 아주 잘 따르고 있다고 한다(…).

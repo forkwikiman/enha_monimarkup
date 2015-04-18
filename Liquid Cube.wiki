@@ -1,0 +1,60 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| Trance ||
+|| 곡명 |||||||| Liquid Cube ||
+|| 작곡 |||||||| [[wiki:"KIEN" StaticSphere]] ||
+|| 배경 |||||||| [[Flow.D]] ||
+|| 타이틀 |||||||| [[Flow.D]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ AE]] ||
+|| BPM |||||||| 140 ||
+|||||||||| 모드별 레벨 데이터 ※EZ2AC : EC 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 3}}} || {{{#red 6}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple 12}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red 15}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red 14}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!html
+<iframe width="640" height="480" src="//www.youtube.com/embed/qM0KcWvaAVc" frameborder="0" allowfullscreen></iframe>
+}}}
+'''[http://www.youtube.com/user/EZ2Developer EZ2 ARCADE의 공식 유튜브 계정]'''에서 공개된 '''BGA'''
+== 개요 ==
+[[EZ2DJ : AZURE EXPRESSION]]의 신곡. StaticSphere 명의를 사용한 [[KIEN]]이 작곡했다.
+
+마치 [[Rosen Vampir]]를 연상시키는 빰빰빰빰 구간이 인상적인 곡이다. 단 뱀피르와는 달리 딱히 고 레벨곡 특유의 복잡한 선율같은 건 나오지 않으며 실제로도 SHD 믹스 급으로 가지 않는 이상은 중 저레벨 포지션을 맡고 있기도 하다. 곡 자체는 평타 수준은 된다고들 하지만 실제 AE 신곡들 중 인지도는 바닥을 기는데, 단적으로 AE가 출시된지 어느덧 한달하고도 반이 지났음에도 항목 생성이 이뤄지고 있지 않았다. ~~다들 [wiki:"Morgenglut 2012" 이][wiki:"Core" 것]들만 만졌다. 그래도 AE 당시에는 [[wiki:"The Greatest Escape" 항목도 없던 곡]]이 있었으니 AE때 생긴 것만으로 감사해야 된다.~~
+
+BMS 출시 곡인 'Extreme Wave 2'와도 비슷하다고 주장을 제기하는 사람이 있는듯. 전체적인 곡조는 그렇다 치고, 후반의 선율은 확실히 비슷하다.
+
+EZ2DJ AE의 패치 버전인 AEIC에서 Flow.D가 제작한 BGA가 추가되었다. 전체적으로 반복적인 구성이지만 곡과의 싱크로율이 상당히 높다고 평가밭고 있다. 한없이 빨려들어가는 것만 같은 속도감이 일품. ~~근데 계속 보고 있으면 멀미가 난다~~
+== 패턴 ==
+=== 5 Street mix ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/zNrJPy87ALE?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/zNrJPy87ALE?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD - SHD MIX
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/1F0I8ioOO0E" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX
+
+5스트릿에선 모두 적절한 채보로 호평을 받고는 있다. 하지만 AE 오리지널에서 SHD 채보가 표기 Lv.13임에도 그 체감난이도가 상당히 낮아 '''역대 최강 Lv.13 [[물렙곡]]''' 취급을 받았다. 같이 추가된 Lv.13 곡인 [[The Ashtray]] HD랑 비교가 안 된다. 결국 AEIC 패치로 BGA가 추가되면서 슈퍼하드 패턴이 Lv.12로 강등당했다. 사실 AE 오리지널이 채보의 질은 논외로 하고, 난이도 책정에 있어서 상당히 문제점이 많기 때문에 난이도 문제로 까이는 곡들이 한둘이 아니었다. EV 1.5에서 결국 11까지 떨어졌다. 12에서는 여전히 쉽다고 까였지만 11에서는 상급에 속할 듯.
+
+AE 오리지널에선 하드는 Lv.11인 라디오 Ch. Azure Expression에서 등장하기도 한다. Ch. Mutant 채널에 전용 패턴이 있고, 난이도는 HD와 비슷.
+AEIC 이후 노멀은 Embark 채널에 등장한다.
+=== 7 Street mix ===
+=== 10 Club mix ===
+NM 채보는 Lv.12. 초반부의 트릴, 중후반의 오른손 계단+왼손 계단 등이 꽤 어렵지만 엄지테크닉을 잘 익혔다면 무리없이 처리하기 쉽다. HD는 표기상 Lv.15지만 Lv.13~14 수준의 오른손 원핸드 능력만 갖추고 있다면 중간에 나타나는 왼손 트릴부분만 벗어나면 충분히 클리어 가능하다.
+=== 14 Space mix ===
+NM이나 HD나 난이도에 비해 패턴은 쉬운 편이다. 오죽하면 NM을 깼다면 바로 HD를 몇번 연습하면 클리어가 가능할 정도.
+다만 HD 패턴은 버튼 사이사이에 정확하고 신속하게 움직이는데 익숙하지 않다면 당황할 패턴이 가끔 등장한다.
+=== EZ2 Catch ===
+=== Turntable ===
+Lv.11을 차지하고 있으며, 전체적으로 타 Lv.11인 곡들([wiki:"Y-Gate" 요놈]이라든지, [wiki:"R.F.C." 요놈]이라든지, [wiki:"Riff Guy" 요놈]이라든지..)에 비해서 비교가 안되는 물렙 난이도를 선사중. 간접미스 유발 패턴도 상당히 적으며, 패턴 상으로 따지자면, 빰 빰 빰빰 빰 빰 구간 때문에 시궁창까지는 면한 것 같지만, 크게 재미있는 패턴은 아니다. 이와 나름 비슷한 패턴을 보자면, [[Aquaris]] 정도되는 9레벨 패턴으로 적절하다.[* 후반구간에는 대놓고 아콰리스와 같은 16비트 어묵공장 4연타가 등장한다..]
+
+결국 [[EZ2DJ AEIC]]에서 Lv.10으로 강등당했다.

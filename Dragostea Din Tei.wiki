@@ -1,0 +1,191 @@
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<iframe width="640" height="480" src="https://www.youtube.com/embed/jRx5PrAlUdY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+공식 뮤직비디오. ~~[[I'm on a boat|육지 좆까 I'm on a plane]]~~
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer322' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=AC3C78992F21C91CE6FE6AC265F0176E6ECC&outKey=V12618c6f0c9b729085529b5051667aa86f18747f2a5551666dd29b5051667aa86f18' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=AC3C78992F21C91CE6FE6AC265F0176E6ECC&outKey=V12618c6f0c9b729085529b5051667aa86f18747f2a5551666dd29b5051667aa86f18' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer322' id='NFPlayer322' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+[[라이브]]~~인 척 하는 [[립싱크]]~~
+
+[[몰도바]] 공화국의 댄스그룹 [[O-ZONE]]이 2003년 발매한 곡.  자국어인 [[루마니아어]]로 부른 곡으로 제목은 '보리수 나무 아래서 사랑'(Love from the Linden Trees)이라는 뜻. O-ZONE의 멤버인 단 벌란이 작사 작곡했다.
+
+인트로의 '마이야히~' 하는 부분이 특히 유명한 곡이다. 이는 루마니아어에서 전화가 울리는 소리를 나타내는 의성어이다. [[한국어]]로 치면 '따르르릉' 정도. 서양에선 이 곡의 애칭을 후렴구에 반복되는 '누마누마'를 사용해서 '누마누마 송'(Numa Numa song)으로 부른다.
+
+O-ZONE은 이 곡으로 세계적인 히트를 친 이후로는 별다른 히트곡을 내놓지 못했고, [* O-ZONE은 히트한후 1년 후에 개인문제로 해체했다] [[원 히트 원더]]의 대표적인 예제가 되었다.
+
+
+== [[필수요소]]화 ==
+국내에서는 웬 [[뚱보]] 한 명이 [[립싱크]]로 쇼를 하는 [[플래시]] 애니메이션으로 알려졌다. 바로 이 동영상.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/KmtzQCSh6xk?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KmtzQCSh6xk?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+미국에 사는 [[1986년]]생 Gary Brolsma라는 이 양반은 후일 뉴 누마(New Numa)라는 이름으로 아예 [[인디]] 가수로 데뷔해 [[유튜브]]에 [http://www.youtube.com/user/NewNuma 채널]까지 만들게 되었다...  [[ABC]]의 Good Morning America와 [[NBC]]의 투나잇 쇼(The Tonight Show)에도 출연했다(...) [http://www.youtube.com/watch?v=3gg5LOd_Zus # '뉴 누마'라는 이름으로 누마헤이라는 후속 영상도 있다].~~누 누나 오라 해~~
+
+이 동영상으로 이 곡이 유명해지자, 2년 뒤인 [[2006년]]에 우리나라의 [[장땡]]이 [http://blog.naver.com/dhgudtn17?Redirect=Log&logNo=110006790072 플래시][* 크롬 브라우저에서 플러그인이 필요하다고 할때 F12를 눌러 .swf 링크된것을 클릭하면 새창으로 나온다]로도 만들었다. 이 플래시는 이 곡의 [[몬데그린]]의 집합체. 사실 이전에 일본에서도 몬데그린을 싸그리 모아놓은 플래시가 나오기도 했다.
+
+세계적으로 히트를 친 곡이라서 수많은 [[리믹스]]가 나왔으며, 일본에서는 [[에이벡스]]의 [[유로비트]] [[컴필레이션 앨범]]인 [[SUPER EUROBEAT]]에 유로비트 버전으로 실리기도 했다. 그리고 [[부치아게]] 트랜스 앨범에도 커버버전이 실리기도 했다. 또한 많은 부분이 [[몬데그린]]의 [[네타]]로 널리 쓰였다.
+
+이 곡이 잘나가던 때에는 [[레알 마드리드]]의 선수 입장곡으로 쓰이기도 했다!
+
+그리고 이 노래가 유명세를 탄 뒤에 2006년 3월 현영이 '누나의 꿈'[* 원래 현영이 아닌 다른 가수가 번안하기로 했으나 해당 가수가 거절하여 현영에게로 온 것이다.]이라는 이름으로 번안하여 화제가 되어 한국에선 이 쪽으로 더 유명한 듯.--아예 원래 노래가 이 노래에서 나온 줄 아는 사람도 있다-- 원곡의 후렴구 핵심파트인 '누마누마'는 번안곡에서 '''누나누나'''로 몬데그린화 되었고, (사실상 '마이야히~'하는 여음구와 누나누나만 따온 노래) 당시 [[웃음을 찾는 사람들]]의 코너로 나온 [[누나누나]]도 이 몬데그린인 '''누나누나를 그대로 코너 제목으로 사용'''하고 원곡의 후렴구 파트를 브금으로 사용하였다. 
+
+좀 비공식적으로 [[사운드 호라이즌]]의 콘서트 때 [[로망]]의 주인공 [[이베르]]의 귀환 기념으로 '''이베귀환기념 사랑의 마이야히'''를 열창하기도 했다고.
+
+[[태고의 달인]]에서는 '사랑의 마이야히'라는 제목으로 태고의 달인 포터블 2에 수록되었다.
+
+세계적으로 컬트적인 인기를 누려서 그런지 '''[[오페라]] 버전'''까지 있다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/MZ3lXZT7PFY&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MZ3lXZT7PFY&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+1977년생인 루마니아 출신 이탈리아 가수 Haiducii도 [[리메이크]]하였다.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer7099' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=687C59CBB08809DC8759757BD6F9E80411AA&outKey=V127a4ef0000ce7a3afac5852b0d8b4866d7b295cb6cfe844ea2e5852b0d8b4866d7b' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=687C59CBB08809DC8759757BD6F9E80411AA&outKey=V127a4ef0000ce7a3afac5852b0d8b4866d7b295cb6cfe844ea2e5852b0d8b4866d7b' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer7099' id='NFPlayer7099' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+Haiducii가 이 노래를 부르는 바람에 O-ZONE과 Haiducii는 둘이서 사이 좋게(?) 서로 자기 노래라고 주장하며 법정싸움을 벌였으며 법원에서는 누가 작사작곡한 노래인가를 밝히게 되었는데, 단 벌란이 작사작곡한 것으로 밝혀져 O-ZONE이 승소했다. 패소한 Haiducii는 엄청난 손해배상과 이와는 별도로 벌금을 납부해야 했다. 더 황당한 사실은 이 재판이 끝난 바로 다음 달에 독일 차트에서 O-ZONE 버전이 1등, Haiducii 버전이 2등을 차지했다는 거. [[원 히트 원더]] 중에서도 독보적인 [[병크]]로 손꼽히고 있다.
+
+[[록밴드]] 블러드하운드 갱(Bloodhound Gang)이 공연에서 부르기도 했다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/ZSRF5oERKzU&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZSRF5oERKzU&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+......엄청 못 부른다. 이게 재해석이라면 꽤나 [[흠좀무]].
+
+'''[[스마프]]가 스마스마에서 O-ZONE과 직접 부르기도 했다!''' 이미 O-ZONE이 해체한 지 2년 뒤에 다시 모여 부른 것이라는데... 이 정도면 잘 된 건지 안 된 건지 모를 지경.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer7229' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E67B3F445D0B1B1E5A0123DE9A785FA10F46&outKey=V122d054312a9b28a63f4ca28f4530bc57f839808bb89840df7e8ca28f4530bc57f83' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E67B3F445D0B1B1E5A0123DE9A785FA10F46&outKey=V122d054312a9b28a63f4ca28f4530bc57f839808bb89840df7e8ca28f4530bc57f83' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer7229' id='NFPlayer7229' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+심지어 2005년 12월 31일에 열린 [[홍백가합전]] 때 [[스마프]]가 '''세상에 하나뿐인 꽃(世界に一つだけの花) + Dragostea Din Tei'''로 불렀다.....아주 국민가요 레벨 [[OTL]]
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer63623' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=85E041F2B273923A3B9FBBC72B7A66561CB9&outKey=V1268ce48084c9fb70de9a1f9c4b3f1cb39964ebe12a7b35a1a67a1f9c4b3f1cb3996' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=85E041F2B273923A3B9FBBC72B7A66561CB9&outKey=V1268ce48084c9fb70de9a1f9c4b3f1cb39964ebe12a7b35a1a67a1f9c4b3f1cb3996' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer63623' id='NFPlayer63623' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+~~[[wiki:"오사마 빈 라덴" 어디서 많이 뵈었던 듯한 분]]도 이 곡에 심취한 모양.~~ 아주 신나게 두 팔을 흔들어주신다. 해외의 유명한 [[필수요소]] 중 하나. [http://youtu.be/hTWNXbLuugs/ 듣기]
+
+{{{#!html
+<embed src="http://mysohko.up.seesaa.net/image/maiyahii.swf" width='500' height='408'>
+}}}
+[[일본어]] 몬데그린 종결자
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_vWe8Gq_FPv0$' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=vWe8Gq_FPv0$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=vWe8Gq_FPv0$&playLoc=undefined'></embed></object>
+}}}
+
+지금은 역사속으로 사라진 밴드 [[불나방스타쏘세지클럽]]의 '''잊을만하면 다시 떠오르는'''에서도 차용되었다. 몬데그린을 이용한 가사가 압권.~~누나 있는 남자들이라면 누구나 공감~~
+
+== 가사 ==
+||Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+
+Alo, salut, sunt eu, un haiduc
+여보세요? 안녕, 저예요, 무법자
+Şi te rog, iubirea mea, primeşte fericirea
+그래서 바라건대, 내 사랑, 행복을 받아 주세요
+
+Alo, alo, sunt eu, Picasso
+여보세요, 여보세요? 저예요, 피카소
+Ţi-am dat beep, şi sunt voinic
+당신에게 전화를 걸었죠, 나는 용감한 사람
+Dar să ştii nu-ţi cer nimic
+하지만 알아 줘요, 저는 당신에게 아무것도 바라지 않아요
+
+Vrei să pleci dar nu mă, nu mă iei
+그대는 떠나기를 원하지만 나를 데려가지 않을 건가요
+Nu mă, nu mă iei, nu mă, nu mă, nu mă iei
+나를 데려가지 않을 건가요, 나를, 나를 데려가지 않을 건가요
+Chipul tău şi dragostea din tei
+그대의 모습과 그리고 보리수나무에서의 사랑이
+Mi-amintesc de ochii tăi
+제게 당신의 눈동자를 떠올리게 하네요
+
+Vrei să pleci dar nu mă, nu mă iei
+그대는 떠나기를 원하지만 나를 데려가지 않을 건가요
+Nu mă, nu mă iei, nu mă, nu mă, nu mă iei
+나를 데려가지 않을 건가요, 나를, 나를 데려가지 않을 건가요
+Chipul tău şi dragostea din tei
+그대의 모습과 그리고 보리수나무에서의 사랑이
+Mi-amintesc de ochii tăi
+제게 당신의 눈동자를 떠올리게 하네요
+
+Te sun, să-ţi spun, ce simt acum
+그대를 부릅니다, 그대에게 전하기 위하여, 지금 내가 느끼는 것을 말이죠
+Alo, iubirea mea, sunt eu, fericirea
+여보세요? 내 사랑, 저예요, 행복이죠
+
+Alo, alo, sunt iarăşi eu, Picasso
+여보세요, 여보세요? 또다시 저예요, 피카소
+Ţi-am dat beep, şi sunt voinic
+당신에게 전화를 걸었죠, 나는 용감한 사람
+Dar să ştii nu-ţi cer nimic
+하지만 알아 줘요, 저는 당신에게 아무것도 바라지 않아요
+
+Vrei să pleci dar nu mă, nu mă iei
+그대는 떠나기를 원하지만 나를 데려가지 않을 건가요
+Nu mă, nu mă iei, nu mă, nu mă, nu mă iei
+나를 데려가지 않을 건가요, 나를, 나를 데려가지 않을 건가요
+Chipul tău şi dragostea din tei
+그대의 모습과 그리고 보리수나무에서의 사랑이
+Mi-amintesc de ochii tăi
+제게 당신의 눈동자를 떠올리게 하네요
+
+Vrei să pleci dar nu mă, nu mă iei
+그대는 떠나기를 원하지만 나를 데려가지 않을 건가요
+Nu mă, nu mă iei, nu mă, nu mă, nu mă iei
+나를 데려가지 않을 건가요, 나를, 나를 데려가지 않을 건가요
+Chipul tău şi dragostea din tei
+그대의 모습과 그리고 보리수나무에서의 사랑이
+Mi-amintesc de ochii tăi
+제게 당신의 눈동자를 떠올리게 하네요
+
+Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+Ma-ia-hii Ma-ia-huu Ma-ia-hoo Ma-ia-haa
+띠리리링, 띠리리링
+
+Vrei să pleci dar nu mă, nu mă iei
+그대는 떠나기를 원하지만 나를 데려가지 않을 건가요
+Nu mă, nu mă iei, nu mă, nu mă, nu mă iei
+나를 데려가지 않을 건가요, 나를, 나를 데려가지 않을 건가요
+Chipul tău şi dragostea din tei
+그대의 모습과 그리고 보리수나무에서의 사랑이
+Mi-amintesc de ochii tăi
+제게 당신의 눈동자를 떠올리게 하네요
+
+Vrei să pleci dar nu mă, nu mă iei
+그대는 떠나기를 원하지만 나를 데려가지 않을 건가요
+Nu mă, nu mă iei, nu mă, nu mă, nu mă iei
+나를 데려가지 않을 건가요, 나를, 나를 데려가지 않을 건가요
+Chipul tău şi dragostea din tei
+그대의 모습과 그리고 보리수나무에서의 사랑이
+Mi-amintesc de ochii tăi
+제게 당신의 눈동자를 떠올리게 하네요
+||
+
+특히 국내에서 흔히 떠돌았던 개그성 환청가사와는 달리, 원어의 가사는 상당히 진지한 사랑 노래이다. 다만 가사가 '''[[루마니아어]]'''라 뭔 말인지 알아듣는 사람이 전무해서 [[몬데그린]]만 흥했을 뿐(…)
+
+[[각주]]

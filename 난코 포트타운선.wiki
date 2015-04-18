@@ -1,0 +1,53 @@
+||<table width=85%><#3d117b><:><-6><table align=center>[wiki:"오사카 시 교통국" <span style="font-weight:bold;color:#ffd700">오사카 시 교통국 운영 교통수단 일람</span>] ||
+||<#808080><:><-6><table align=center>[wiki:"오사카 시영 지하철" <span style="font-weight:bold;color:white">오사카 시영 지하철 & 신교통 시스템 운행 노선</span>] ||
+||<table width=5%><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/d/d4/Midosuji_logo.png?width=30 ||<table width=20%><#eeeeee> [[미도스지선]] ||<table width=5%><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/a/a1/Tanimachi_logo.png?width=30 ||<table width=20%><#eeeeee> [[타니마치선]] ||<table width=5%><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/7/7a/Yotsubashi.png?width=30 ||<table width=20%><#eeeeee> [[요츠바시선]] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/6/65/Chuo.png?width=30 ||<#eeeeee> [[wiki:"츄오선(오사카 시영 지하철)" 츄오선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/f/f7/Sennichimae.png?width=30 ||<#eeeeee> [[센니치마에선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/9/9d/Sakaisuji_logo.png?width=30 ||<#eeeeee> [[사카이스지선]] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/6/61/Tsurumiryokuchi.png?width=30 ||<#eeeeee> [[나가호리츠루미료쿠치선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/2/21/Imazatosuji.png?width=30 ||<#eeeeee> [[이마자토스지선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/c/c0/Newtram_logo.png?width=30 ||<#1a97ba> '''{{{#ffffff 난코 포트타운선 }}}''' ||
+
+|| {{{+1 南港ポートタウン線 / Nankō '''P'''ort Town line}}} ||
+ * [[일본 철도 정보/노선 관련 정보]]
+--뉴토라무 [남코]포트타운--
+http://upload.wikimedia.org/wikipedia/ja/f/fe/Osaka_Newtram01.jpg?width=600
+[[목차]]
+== 개요 ==
+||||<#1a97ba> {{{#ffffff 난코 포트타운선}}} ||
+||운영기관 ||오사카 시 교통국 ||
+||영업거리 ||7.9km[[br]]제2종 철도사업자 구간 0.6km(코스모스퀘어-트레이드센터앞) ||
+||궤간 ||1600mm(고무차륜임) ||
+||역수 ||10 ||
+||전기 ||삼상교류 600V 60Hz, 측면접촉식, 3선강체가선방식 ||
+||편성 ||4량 ||
+||신호방식 ||CS-ATC, TASC ||
+||영업최고속도 ||60km/h ||
+||차량기지 ||난코 검차장 ||
+
+[[오사카 시 교통국]]에서 운영하는 신교통시스템 노선으로 알기쉽게 말하자면 [[경전철]].  정식명칭은 오사카시 중량궤도 난코(남항)포트타운선이며 애칭은 뉴트램, 노선색깔은 바다와 하늘을 의미하는 물색.
+
+오사카 남항의 인공섬 사키시마 일대에 조성된 주택단지인 포트 타운의 교통수단으로서 1981년에 개통되었다. 노선 양 끝부분에서 [[오사카 시영 지하철]] 노선과 환승이 가능하며 요금체계가 같기 때문에 사실상 지하철 노선과 같은 취급을 받고 있으며 노선도에도 함께 기재되어 있다.
+
+노선의 특징으로 [[유리카모메]]처럼 자동 무인운전을 시행하고 있다. 그러나 1993년 무인 운행 중 사고가 발생하여 이후 7년간 차량에 승무원이 동승하다가 2000년 이후에야 다시 무인운행을 재개한 흑역사가 존재. 또한 노선의 모든 역이 섬식 승강장 구조인 것도 특징.
+
+노선 중 코스모스퀘어-나카후토 구간은 오사카항 트랜스포트 시스템(OTS) 관할의 뉴트램 테크노포트선이라는 별도의 노선명을 달고 직결운행의 형태로 1997년부터 개통되었다. 그러나 츄오선과의 직결구간과 마찬가지로 이 구간도 별도의 추가운임이 적용되었기 때문에 이용객들이 비교적 저렴한 시영버스 쪽으로 돌아섰고 그로 인해 크게 저조한 실적을 기록했다. 결국 2005년도에 OTS측이 코스모스퀘어-트레이드센터앞 구간만을 임대 형태로 남기고 그 외의 모든 노선과 시설을 교통국측에 양도함으로서 노선 전 구간의 운영, 운임체계가 일원화되었고 그로 인해 해당 구간의 이용객은 이전에 비해 증가추세를 보이고 있다.
+
+포트 타운 일대의 주요 시설인 오사카 남항, 인텍스 오사카(국제전시장), 오사카부 사키시마 정청(구 오사카WTC빌딩)을 비롯해 [[부산국제여객터미널]]과 오사카 사이를 운행하는 여객선의 기항지인 오사카 국제 페리 터미널이 이 노선의 인근에 위치해 있다.
+
+노선을 운행하는 열차의 종류는 오사카 시 교통국 소속의 100A계 차량으로, 4량 편성.
+
+
+== 노선 ==
+2012년 10월 18일 모든 역의 문서가 작성되었다.
+
+|| 번호 || 역명 || 승강장 || 환승노선 ||
+|| P-09 || [wiki:"코스모스퀘어역" 코스모스퀘어][[br]]コスモスクエア || 섬식 ||¶[[오사카 시영 지하철]] [[wiki:"츄오선(오사카 시영 지하철)" 츄오선]](C-10)||
+||<#ccffff> P-10 ||<#ccffff> [wiki:"트레이드센터앞역" 트레이드센터앞][[br]]トレードセンター前 ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}} ||
+||<#ccffff> P-11 ||<#ccffff> [wiki:"나카후토역(오사카)" 나카후토][[br]]中ふ頭 ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}} ||
+||<#ccffff> P-12 ||<#ccffff> [wiki:"포트타운니시역" 포트타운니시][[br]]ポートタウン西 ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}} ||
+||<#ccffff> P-13 ||<#ccffff> [wiki:"포트타운히가시역" 포트타운히가시][[br]]ポートタウン東 ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}} ||
+||<#ccffff> P-14 ||<#ccffff> [wiki:"페리터미널역" 페리터미널][[br]]フェリーターミナル ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}} ||
+||<#ccffff> P-15 ||<#ccffff> [wiki:"난코히가시역" 난코히가시][[br]]南港東 ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}} ||
+||<#ccffff> P-16 ||<#ccffff> [wiki:"난코구치역" 난코구치][[br]]南港口 ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}} ||
+||<#ccffff> P-17 ||<#ccffff> [wiki:"히라바야시역(오사카)" 히라바야시][[br]]平林 ||<#ccffff> 섬식 ||<#ccffff> {{{#ccffff }}}||
+||<#ccffff> P-18 ||<#ccffff> [wiki:"스미노에 공원역" 스미노에코엔][[br]]住之江公園 ||<#ccffff> 섬식 ||<#ccffff>¶[[오사카 시영 지하철]] [[요츠바시선]](Y-21)||
+
+
+[[footnote]]

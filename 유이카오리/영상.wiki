@@ -1,0 +1,28 @@
+[[목차]]
+
+== 뮤직비디오 ==
+
+6번째 싱글, '''ウェィカッ!!'''
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/tsWt88rLxS8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+7번째 싱글, '''Shiny Blue'''
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/sKvQjKj-9wk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+2번째 앨범 Bunny 대표곡, '''Jumpin' Bunny Flash!!'''
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/7AHLgbjWSFQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+8번째 싱글 '''LUCKY DUCKY!'''
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/pYt7DZuVuPs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+9번째 싱글 '''Intro Situation'''
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/I0KOhF4IFDo" frameborder="0" allowfullscreen></iframe>
+}}}

@@ -1,0 +1,11 @@
+[[include(틀:탄화수소)]]
+[[include(틀:탄화수소/방향족)]]
+
+|| http://upload.wikimedia.org/wikipedia/commons/7/72/Anthracene2.png?width=200 || http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Anthracene_molecule_ball.png/1920px-Anthracene_molecule_ball.png?width=200 || http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Anthracene_C14H10.JPG/1280px-Anthracene_C14H10.JPG?width=200 ||
+||<-3> 번호는 IUPAC 명명법에 따른 화합물 명명시 사용된다. ||
+
+Anthracene. 세고리 [[방향족]] 탄화수소다. 벤젠 고리 3개가 일렬로 붙어서 14개의 π전자를 갖게 되어 분자가 방향족성을 띈다.[* 가장 간단한 기술로 방향족성은 4n+2개의 전자(6, 10, 14, ...)가 π시스템에 있으면 발생하며, 이를 Hückel's Rule이라고 한다. 반대로 4n개의 전자가 있으면 오히려 불안정해지는 반방향족성이 생긴다.]
+
+두고리 방향족 탄화수소인 [[나프탈렌]]에 비하면 좀 마이너하다. 고등학교 화학 과정의 [[유기화학]] ~~맛보기~~파트에 분자구조가 교과서나 참고서에 따라서 모습을 드러내거나 말거나 한다. 화학올림피아드나 경시대회를 준비하는 학생을 제외하고 이 화합물의 이름을 알고 있으면 많이 공부했다고 할 수 있는 편.
+
+나프탈렌과는 달리 더 길어진 π시스템의 영향으로 자외선을 받으면 보라색 형광을 내기 시작한다. 콜타르에서 발견되며, 유기분자 주제에 반도체 성질을 띄기 때문에 염료나 유기광전자소자의 반도체 재료의 유도체로 사용된다.

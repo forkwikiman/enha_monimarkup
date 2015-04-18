@@ -1,0 +1,18 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>  '''영어판 명칭''' || '''Wilt-Leaf Cavaliers''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/124777_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {G/W}{G/W}{G/W} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 생물 — 엘프 기사 ||
+||||<height=160px>경계
+
+''Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.''||
+|| '''공격력/방어력''' || 3/4 ||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Shadowmoor || 언커먼 ||
+|||| Duel Decks: Knights vs. Dragons || 언커먼 ||
+
+3/4에 경계 발동비용 3개.. 다 유색 마나이긴 하지만 백녹 하이브리드이기때문에 섞어 쓰기도 쉽다. 단순한 능력이지만 강하다. 공격 방어도 자유자재이고 방어력이 4라 잘 죽지도 않는다. 보통 여기에다가 [[Shield of the Oversoul]]을 붙여서 사용한다. 그러면 5/6 비행 경계 파괴불가가 달린 생물이 탄생한다.
+
+하지만 미묘하게 같은 3발비 시리즈의 [[Boggart Ram-Gang]]나 [[Kitchen Finks]]보다는 찬밥이었던 생물. 그래도 당시 [[Doran, the Siege Tower]]를 쓰는 BGW 도란락덱에서 쓰긴 했다.

@@ -1,0 +1,76 @@
+ * 이 항목은 '''이토리노'''로도 들어올 수 있습니다.
+
+'''견습천사와 별이 내리는 언덕'''
+
+[[목차]]
+== 개요 ==
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/rvtEQycsP5A" frameborder="0" allowfullscreen></iframe>
+}}}
+
+
+||<#eeeeee>
+GITADORA에서 처음으로 투고하는 곡입니다!
+· 겨울 같은 느낌
+· MASTER의 난이도가 8.0~8.8 정도
+· 프리미엄 앙코르
+라는 세세한 것 같이 보이는 뜻밖의 투박한 과제를 받아, 처음에는 디지털 테이스트의 락으로 할까 라고도 생각했습니다만, 굳이 여느 때와는 싹 다른 분위기를 바꾸어 전자음을 별로 사용하지 않은 밴드 편성으로 승부를 걸어 보았습니다.
+좋은 느낌에 평소의 저의 곡 같은 이미지와는 어긋난 새로운 일면을 보이지 않았나 라고 생각합니다.
+96씨의 완전 멋진 기타 감솨함돠!(あざーっす!)
+
+그런 느낌으로, 어딘가에 연재라도 되어 있을 것 같은 「이토리노」를, 앞으로도 부디 잘 부탁 드리겠습니다!
+
+- [[DJ TOTTO]], [[GITADORA]] 3rd season OST 코멘트
+||
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[DJ TOTTO]]. [[GITADORA]]에 처음 수록되었으며, 이후 [[리플렉 비트 그루빈]]으로 이식되었다. 단독 명의로는 처음으로 기타도라에 제공한 곡이자[* 합작명의로는 [[사립 비마니 학원]]을 통해 수록된 [[STULTI]]가 있다.] 첫 프리미엄 앙코르 악곡을 맡은 곡이다. [[Windy Fairy]]를 닮아있는 활기찬 느낌에, 화려한 BGA로 유저들 사이에서도 평가가 좋다.
+
+처음 등장시 BGA에 WI'''TN'''ER라는 오타가 있었는데. OST Vol.3에 있는 특전 DVD의 영상에는 제대로 수정되었고, OverDrive에서 반영되었다. [* 위의 BGA영상 0:43초 부근에 WINTER라고 써져있는 부분에 오타가 있었다.]
+
+자켓과 BGA에 있는 ITORINO는 제목인 見習'''い'''天使'''と'''星降'''りの'''丘에서 히라가나만 따온 것으로, 제목이 매우 긴 라이트노벨이나 게임 등에서 약칭을 이런 방식으로 쓰기도 한다. 예시로 [[하가나이]], [[토토노]] 등이 있다.
+== [[GITADORA]] ==
+
+||<-2><#56FFFF><:> '''[[GITADORA]] ENCORE/PREMIUM ENCORE STAGE''' ||
+||<#AAFFFF> ENCORE 1 || '''[[Crazy blooms]]''' ||
+||<#AAFFFF> PREMIUM ENCORE 1 / ENCORE 2 || '''[[MODEL FT3]]''' ||
+||<#AAFFFF> PREMIUM ENCORE 2 / ENCORE 3 || '''[[memento mori -intro-]]''' ||
+||<#AAFFFF> PREMIUM ENCORE 3 / ENCORE 4 || '''[[クリムゾンゲイト]]''' ||
+||<#AAFFFF> PREMIUM ENCORE 4 / ENCORE 5 || '''[[Last Song]]''' ||
+||<#AAFFFF> PREMIUM ENCORE 5 / ENCORE 6 || '''[[Rosetta Stone]]''' ||
+||<#AAFFFF> PREMIUM ENCORE 6 / ENCORE 7 || '''見習い天使と星降りの丘''' ||
+||<#AAFFFF> PREMIUM ENCORE 7 / ENCORE 8 || '''[[Obsidian]]''' ||
+||<#AAFFFF> PREMIUM ENCORE 8 ||  '''[[SPRING BAZOOKA]]''' ||
+
+attachment:itorino.png?width=240
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/pgE5cjbKXMY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+프리미엄 앙코르 스테이지 소환후 플레이 영상
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 174 ||<|2><:> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 3.35}}} || {{{#orange 5.15}}} || {{{#red 7.90}}} || {{{#purple 8.70}}} ||
+|| 기타 베이스 || {{{#blue 3.65}}} || {{{#orange 5.00}}} || {{{#red 7.60}}} || {{{#purple 8.90}}} ||
+|| 드럼매니아 || {{{#blue 3.10}}} || {{{#orange 4.95}}} || {{{#red 7.60}}} || {{{#purple 8.55}}} ||
+
+[[GITADORA]]의 엑스트라 레벨 6의 프리미엄 앙코르곡으로 처음 나왔다. 레벨 7로 올라가면서 앙코르 전용곡으로 격하되었으며, OverDrive에서 통상해금.
+
+== [[리플렉 비트 시리즈]] ==
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 174 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10+}}} ||
+|| 오브젝트 || {{{#green 172}}} || {{{#orange 294}}} || {{{#red 773}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈] ||
+
+{{{#!HTML
+<iframe width="480" height="360" src="//www.youtube.com/embed/jSdZgQsRxVU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[발견! 되살아난 BEMANI 유적]]이벤트로 이식되었다.
+
+채보는 [[Windy Fairy]]의 강화형으로 16비트, 12비트릴이 끊임없이 쏟아지는 와중에, 롱노트의 견제와 개연성없는 탑노트가 쏟아져 손이 꼬이는 일이 많은 패턴이다. 때문에 배치 파악이 안되있는 상태에서는 정말 까다로워지는 패턴으로 첫 플레이시에는 잘못하면 10++까지 체감 레벨이 올라가는 패턴. 다만 배치에 익숙해지면 3박과 4박을 오가는 박자정도 외에는 난점이 없어지기 때문에 대략 상위권정도로 내려가게 된다.

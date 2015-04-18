@@ -1,0 +1,88 @@
+[[목차]]
+|| 장르 || Bright Pop ||
+|| 작곡 || [[Applesoda]] ||
+|| 보컬 || [[Ran]] ||
+|| 랩 || [[Hani]] ||
+|| 배경 || [[범용 BGA]] ||
+|| BPM || 140 ||
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/028sWeMthPA?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/028sWeMthPA?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
+}}}
+'''[http://www.youtube.com/user/3SFACTORY 3S ENTERTAINMENT의 공식 유튜브 계정]'''에서 공개된 '''BGA'''
+== 개요 ==
+서울로 상경한 Applesoda(애플소다)의 마음을 간접적으로 느낄 수 있는 인상적인 곡이다. 칩튠 음악과 비슷한 스타일로, 난이도도 누구나 쉽게 접할 수 있는 곡. 그래서 그런지 코어 유저들의 플레이 횟수는 약간 적다.
+
+이 곡은 이름값을 톡톡히 한다. 왜냐고? '''BGA가 없잖아.''' [[Sabin Sound Star]]에서나 [[EZ2DJ]]에서나 전부 [[범용 BGA]]를 사용한다.
+
+여담으로, 작곡자 Applesoda는 이 곡 이전에 [[BMS]]계에서 '[[http://www.youtube.com/watch?v=MMf7Aru64pc 있잖아?]]'란 곡을 발표한 적이 있는데, 이에 대해 애플소다 본인이 '~잖아 시리즈'라고 언급을 했다.
+
+== EZ2DJ 수록 ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+EZ2DJ BONUS EDITION이 기습적으로 발매되면서, Sabin Sound Star의 오리지널 전곡이 모두 BONUS EDITION으로 이식되었다.
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/bMO6LPhxkgk?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/bMO6LPhxkgk?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+노멀은 난이도 8, 하드는 난이도 10인데 표기만 그렇다는 것이고 실제 플레이를 해 보면 두 패턴 다 엄청난 물렙임을 실감하게 해준다. 루비믹스 난이도로 8과 10이면 적절하다 보면 되겠는데 스트릿에서 난이도를 잘못 표기한게 아닌가 싶다. 난이도에 맞지 않게 노트 밀도가 매우 낮아보이고 어려운 패턴이 거의 존재하지도 않다. 다만 하드에서는 기습 스크래치 연타가 좀 위협이 되긴 하지만 정작 키 노트는 형편없기 때문에 여전히 쉽다. 결국 [[EZ2AC EV]]에서 각각 두 단계씩 폭풍처럼 강등당했다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== 가사 ==
+중간에 Show me the Money나 엄마 친구 아들 등의 패러디가 있다.
+
+||일상에 지쳐버린 외로움의 마음이
+오늘따라 보고싶다 그리워요 Mommy
+텅 비어버린 내 주머니 아무리 털어봐도 먼지만이
+구겨진 내 복권을 긁는다 구겨진 자존심을 찾는다
+너무나도 괴로운 나의 삶을 받아줘
+나무나도 괴로운 나의 맘을 채워줘
+
+서울에 온 지 몇 년이 되었을까
+스테이크가 라면으로 변해있네
+통장을 보니 잔액 Zero의 압박
+부모님들은 Show me the money
+엄마친구 아들 돈 벌고 잘 산대
+돈 벌기 전에는 집에 오지마
+
+이 굶주린 내 뱃속 시리구나 나의 뼛속
+친구들은 나를 외면하고
+돈이없다 나는 그래 매달리고 언제나 또 배고프고
+여전히 난 무일푼 뻔지르한 무늬뿐
+(용기를 내요 할 수가 있어)
+로또당첨은 때려쳐라 소다의 꿈일뿐
+
+
+힘을 내요 할 수 있어 꿈을 가져요 용기를 내요
+포기하지 않으면 너도 할 수 있어
+아직 우리들은 젊잖아
+힘들면 잠시 쉬어 잠깐 뒤돌아 봐도 돼
+세상은 좀 더 좋아질거야
+
+Oh You can do that
+It's my life It's music
+It's my life for the music for my life
+It's my life It's music
+I can do it It's my life to my music is all love||

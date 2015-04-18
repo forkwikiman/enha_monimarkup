@@ -1,0 +1,119 @@
+||<-5><#464646><tablealign=center> '''프로필''' ||
+||<|14> attachment:/Black_White_Grimsley.png?align=center ||
+||<#464646> '''이름''' ||<#6e6e6e> 블래리 ||
+||<#464646> '''성별''' ||<#6e6e6e> [wiki:"남성"<font color="#00008c">남성</font>] ||
+||<#464646> '''눈 색깔''' ||<#6e6e6e> [wiki:"눈/청색"<font color="#00008c">하늘색</font>] ||
+||<#464646> '''머리 색깔''' ||<#6e6e6e> [wiki:"머리카락/검은색"<font color="#00008c">흑색</font>] ||
+||<#464646> '''트레이너 계급''' ||<#6e6e6e> [wiki:"사천왕(포켓몬스터)"<font color="#00008c">사천왕</font>] ||
+||<#464646> '''지방''' ||<#6e6e6e> [wiki:"하나지방"<font color="#00008c">하나지방</font>] ||
+||<#464646> '''출신지''' ||<#6e6e6e> 불명 ||
+||<#464646> '''가족관계''' ||<#6e6e6e> 불명 ||
+||<#464646> '''담당 지역''' ||<#6e6e6e> 포켓몬 리그 ||
+||<#464646> '''주된 타입''' ||<#6e6e6e> [[wiki:"포켓몬스터/타입/설명#s-3.1" attachment:/Pokemon_Type_Dark_2.png]] ||
+||<#464646> '''데뷔작''' ||<#6e6e6e> [wiki:"포켓몬스터 블랙·화이트"<font color="#00008c">포켓몬스터 블랙·화이트</font>] ||
+||<#464646> '''세대''' ||<#6e6e6e> 5 ||
+||<#464646> '''등장 게임''' ||<#6e6e6e> [wiki:"포켓몬스터 블랙·화이트"<font color="#00008c">블랙·화이트</font>][[br]][wiki:"포켓몬스터 블랙·화이트 2"<font color="#00008c">블랙·화이트 2</font>] ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/사천왕)]]
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물.
+
+하나지방 포켓몬 리그 [wiki:"사천왕(포켓몬스터)"사천왕]의 일원이자 악타입 전문 [[포켓몬 트레이너]]로 나긋나긋해보이는 외모에 상당히 독특한 패션 센스가 특징인 남성. 몰락한 부호의 후손이자 도박광이라는 설정이 있으며, 그래서인지 대화 도중에도 갬블과 관련된 말을 섞어쓰는걸 즐긴다. 사천왕이 되기 전에는 갬블러 트레이너였을지도.
+
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed> * 전투! 사천왕
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile21.uf.tistory.com/media/23771C3851FBBA7E138E4B"></object>}}}||
+
+=== 기타 ===
+ * 하나 사천왕들이 사용하는 포켓몬들 중 가장 종족치 총합이 낮은 포켓몬인 [[레파르다스]]를 가지고 있다. 특히 히든카드인 [[절각참]]은 악/강철 타입이라 격투에 4배 데미지를 입는다. 2차전에서는 격투타입에 어느 정도 신경을 썼는지 [[샤크니아]]와 [[드래피온]]을 투입한다. 그러니 2차전부터는 이 둘을 상대할 기술이나 포켓몬을 준비하는 것이 좋을 듯.
+
+ * 블래리가 소유하고 있는 포켓몬의 성별은 대다수가 암컷이며 1차전 때 쓰는 수컷 [[곤율거니]]도 2차전으로 가면 어느새 '''암컷으로 바뀐다'''. ~~나쁜남자 + [[하렘]]~~ 블랙·화이트 2부터는 1,2차전 모두 암컷 포켓몬으로 이루어진 멤버를 들고오는데, 챌린지 모드 2차전에선 전부 수컷으로 바뀌는 것도 눈여겨볼 만하다.
+
+ * 개발 스탭의 비화에 따르면 모델이 된 인물은 [[드라큘라]] 백작. 
+
+ * 동인 및 2차 창작에선 고스트 타입이 주요인 [wiki:"망초(포켓몬스터)"망초]하고 엮이는 경우가 많다. BL계에서는 [[연무]]와 [[wiki:"아티(포켓몬스터)" 아티]]와 엮인다. 둘 다 블래리가 다루는 악타입과 상성이 안 좋기 때문인 듯.
+
+=== 삽화 ===
+||<#464646><-4><tablealign=center> {{{#ffffff 스프라이트}}} ||
+|| attachment:/Spr_B2W2_Grimsley.png || attachment:/Spr_BW_Grimsley.gif || attachment:/VSGrimsley.png || attachment:/Grimsley_OD.png ||
+|| 트레이너[[br]](블랙·화이트) || 트레이너[[br]](블랙·화이트 2) || VS || 필드 ||
+
+||<-3><tablealign=center><#464646> 하나리그 북서쪽 방 내부 ||
+|| http://img3.wikia.nocookie.net/__cb20130208083241/pokemon/ko/images/0/07/%EB%B8%94%ED%99%94_%EB%B8%94%EB%9E%98%EB%A6%AC%EC%9D%98_%EB%B0%A9.png || attachment:Pokémon_League(Unova)3.png ||    
+|| 블랙,화이트 || 블랙2,화이트2 ||
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#464646"><:> {{{#ffffff 언어}}} || {{{#ffffff 이름}}} || {{{#ffffff 유래}}} ||
+|| 일본어 || 기마 ギーマ ||  ||
+|| 한국어 || 블래리 || 과일의 이름인 [[블랙베리]]에서. ||
+|| 영어 || 그림즐리 Grimsley ||  ||
+
+= 소유 포켓몬 =
+== [wiki:"포켓몬스터 블랙·화이트" 블랙·화이트] ==
+=== 1차전 ===
+||<tablealign=center><#6e6e6e> attachment:/5efggbpsbw_(5).gif ||<#cccc66> attachment:/bwsym5_(8).gif ||<#6e6e6e> attachment:/bwcpsw5s_(1).gif ||<#6e6e6e> attachment:/1bwgps5.GIF ||
+||<#dcdcdc> [[곤율거니]] ♂[[br]](Lv.48) ||<#dcdcdc> [[악비아르]] ♀[[br]](Lv.48) ||<#dcdcdc> [[레파르다스]] ♀[[br]](Lv.48) ||<#dcdcdc> [[절각참]] ♀[[br]](Lv.50) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]자기과신 || __특성__ :[[br]]위협 || __특성__ :[[br]]유연 || __특성__ :[[br]]오기 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[모래뿌리기]][[br]][[깨물어부수기]][[br]][[독찌르기]][[br]][[깨트리다]] || __기술배치__ :[[br]][[깨물어부수기]][[br]][[드래곤크루]][[br]][[속임수]][[br]][[지진]] || __기술배치__ :[[br]][[속이다]][[br]][[헤롱헤롱]][[br]][[제비반환]][[br]][[깜짝베기]] || __기술배치__ :[[br]][[시저크로스]][[br]][[깜짝베기]][[br]][[메탈 크로우]][[br]][[제비반환]] ||
+
+=== 2차전 ===
+||<tablealign=center><#6699ff> attachment:/5efggbpsbw_(3).gif ||<#6e6e6e> attachment:/5efggbpsbw_(5).gif ||<#cccc66> attachment:/bwsym5_(8).gif ||<#6e6e6e> attachment:/bwcpsw5s_(1).gif ||<#993399>  attachment:/bwmbps5_(7).gif ||<#6e6e6e> attachment:/1bwgps5.GIF ||
+||<#dcdcdc> [[샤크니아]] ♂[[br]](Lv.71) ||<#dcdcdc> [[곤율거니]] ♀[[br]](Lv.71) ||<#dcdcdc> [[악비아르]] ♀[[br]](Lv.71)  ||<#dcdcdc> [[레파르다스]] ♀[[br]](Lv.71) ||<#dcdcdc> [[드래피온]] ♀[[br]](Lv.71) ||<#dcdcdc> [[절각참]] ♀[[br]](Lv.73) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]까칠한피부 || __특성__ :[[br]]자기과신 || __특성__ :[[br]]위협 || __특성__ :[[br]]유연 || __특성__ :[[br]]전투무장 || __특성__ :[[br]]오기 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[폭포오르기]][[br]][[깜짝베기]][[br]][[지진]][[br]][[아쿠아제트]] || __기술배치__ :[[br]][[깨물어부수기]][[br]][[독찌르기]][[br]][[양날박치기]][[br]][[깨트리다]] || __기술배치__ :[[br]][[역린]][[br]][[지진]][[br]][[속임수]][[br]][[떨어트리기]] || __기술배치__ :[[br]][[기습]][[br]][[속이다]][[br]][[제비반환]][[br]][[헤롱헤롱]] || __기술배치__ :[[br]][[독엄니]][[br]][[불꽃엄니]][[br]][[깨물어부수기]][[br]][[번개엄니]] || __기술배치__ :[[br]][[시저크로스]][[br]][[깜짝베기]][[br]][[제비반환]][[br]][[가위자르기]] ||
+남성 npc지만 소지 포켓몬이 대부분 암컷이다(!?)
+블랙버전에선 1차전에 수컷이었던 곤율거니가 암컷으로 변한다(!?) --사실 성전환한 거다--
+ 
+== [wiki:"포켓몬스터 블랙·화이트 2" 블랙·화이트 2] ==
+=== 노멀 모드 1차전 ===
+||<tablealign=center><#6e6e6e> attachment:/bwcpsw5s_(1).gif ||<#6e6e6e> attachment:/5efggbpsbw_(5).gif ||<#cccc66> attachment:/bwsym5_(8).gif ||<#6e6e6e> attachment:/1bwgps5.GIF ||
+||<#dcdcdc> [[레파르다스]] ♀[[br]](Lv.56) ||<#dcdcdc> [[곤율거니]] ♀[[br]](Lv.56) ||<#dcdcdc> [[악비아르]] ♀[[br]](Lv.56) ||<#dcdcdc> [[절각참]] ♀[[br]](Lv.58) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]유연 || __특성__ :[[br]]자기과신 || __특성__ :[[br]]위협 || __특성__ :[[br]]오기 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] ||
+|| __기술배치__ :[[br]][[속이다]][[br]][[깜짝베기]][[br]][[제비반환]][[br]][[헤롱헤롱]] || __기술배치__ :[[br]][[암석봉인]][[br]][[깨트리다]][[br]][[깨물어부수기]][[br]][[독찌르기]] || __기술배치__ :[[br]][[깨물어부수기]][[br]][[지진]][[br]][[드래곤크루]][[br]][[암석봉인]] || __기술배치__ :[[br]][[제비반환]][[br]][[깜짝베기]][[br]][[시저크로스]][[br]][[메탈 크로우]] ||
+
+=== 노멀 모드 2차전 ===
+||<tablealign=center><#6e6e6e> attachment:/bwcpsw5s_(1).gif ||<#6e6e6e> attachment:/honchkrow_bw.gif ||<#6e6e6e> attachment:/5efggbpsbw_(5).gif ||<#cccc66> attachment:/bwsym5_(8).gif ||<#6e6e6e> attachment:/5efggbpsbw_(1).gif ||<#6e6e6e> attachment:/1bwgps5.GIF ||
+||<#dcdcdc> [[레파르다스]] ♀[[br]](Lv.72) ||<#dcdcdc> [[돈크로우]] ♀[[br]](Lv.72) ||<#dcdcdc> [[곤율거니]] ♀[[br]](Lv.72) ||<#dcdcdc> [[악비아르]] ♀[[br]](Lv.72) ||<#dcdcdc> [[wiki:"헬가(포켓몬스터)" 헬가]] ♀[[br]](Lv.72) ||<#dcdcdc> [[절각참]] ♀[[br]](Lv.74) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]곡예 || __특성__ :[[br]]대운 || __특성__ :[[br]]자기과신 || __특성__ :[[br]]위협 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]오기 ||
+|| __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.41.1"노멀주얼] || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] ||
+|| __기술배치__ :[[br]][[속이다]][[br]][[헤롱헤롱]][[br]][[제비반환]][[br]][[기습]] || __기술배치__ :[[br]][[깜짝베기]][[br]][[제비반환]][[br]][[흑안개]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] || __기술배치__ :[[br]][[무릎차기]][[br]][[양날박치기]][[br]][[깨물어부수기]][[br]][[독찌르기]] || __기술배치__ :[[br]][[지진]][[br]][[역린]][[br]][[깨물어부수기]][[br]][[스톤샤워]] || __기술배치__ :[[br]][[번개엄니]][[br]][[불대문자]][[br]][[오물폭탄]][[br]][[깨물어부수기]] || __기술배치__ :[[br]][[가위자르기]][[br]][[깜짝베기]][[br]][[시저크로스]][[br]][[제비반환]] ||
+
+=== 챌린지 모드 1차전 ===
+||<tablealign=center><#6e6e6e> attachment:/bwcpsw5s_(1).gif ||<#6e6e6e> attachment:/5efggbpsbw_(5).gif ||<#cccc66> attachment:/bwsym5_(8).gif ||<#6e6e6e> attachment:/5efggbpsbw_(4).gif ||<#6e6e6e> attachment:/1bwgps5.GIF ||
+||<#dcdcdc> [[레파르다스]] ♀[[br]](Lv.60) ||<#dcdcdc> [[곤율거니]] ♀[[br]](Lv.60) ||<#dcdcdc> [[악비아르]] ♀[[br]](Lv.60) ||<#dcdcdc> [[앱솔]] ♀[[br]](Lv.60) ||<#dcdcdc> [[절각참]] ♀[[br]](Lv.62) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]곡예 || __특성__ :[[br]]자기과신 || __특성__ :[[br]]위협 || __특성__ :[[br]]대운 || __특성__ :[[br]]오기 ||
+|| __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.41.1"노멀주얼] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.3"먹다남은음식] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.21"달인의띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.23"힘의머리띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.5"선제공격손톱] ||
+|| __기술배치__ :[[br]][[속이다]][[br]][[깜짝베기]][[br]][[제비반환]][[br]][[헤롱헤롱]] || __기술배치__ :[[br]][[암석봉인]][[br]][[깨물어부수기]][[br]][[깨트리다]][[br]][[독찌르기]] || __기술배치__ :[[br]][[깨물어부수기]][[br]][[드래곤크루]][[br]][[암석봉인]][[br]][[지진]] || __기술배치__ :[[br]][[칼춤]][[br]][[깜짝베기]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[시저크로스]] || __기술배치__ :[[br]][[메탈 크로우]][[br]][[제비반환]][[br]][[시저크로스]][[br]][[깜짝베기]] ||
+
+=== 챌린지 모드 2차전 ===
+||<tablealign=center><#6e6e6e> attachment:/honchkrow_bw.gif ||<#6e6e6e> attachment:/5efggbpsbw_(5).gif ||<#cccc66> attachment:/bwsym5_(8).gif ||<#6e6e6e> attachment:/5efggbpsbw_(1).gif ||<#cc9933> attachment:/5efggbpsbw_(2).gif ||<#6e6e6e> attachment:/1bwgps5.GIF ||
+||<#dcdcdc> [[돈크로우]] ♂[[br]](Lv.77) ||<#dcdcdc> [[곤율거니]] ♂[[br]](Lv.77) ||<#dcdcdc> [[악비아르]] ♂[[br]](Lv.77) ||<#dcdcdc> [[wiki:"헬가(포켓몬스터)" 헬가]] ♂[[br]](Lv.77) ||<#dcdcdc> [[마기라스]] ♂[[br]](Lv.77) ||<#dcdcdc> [[절각참]] ♂[[br]](Lv.79) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.14" attachment:/Pokemon_Type_Rock_2.png]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.4" attachment:/Pokemon_Type_Dark_2.png]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]대운 || __특성__ :[[br]]자기과신 || __특성__ :[[br]]위협 || __특성__ :[[br]]타오르는불꽃 || __특성__ :[[br]]모래날림 || __특성__ :[[br]]오기 ||
+|| __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.12"초점렌즈] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.3"먹다남은음식] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.21"달인의띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.22"박식안경] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.8"기합의머리띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.5"선제공격손톱] ||
+|| __기술배치__ :[[br]][[깜짝베기]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[제비반환]][[br]][[흑안개]] || __기술배치__ :[[br]][[무릎차기]][[br]][[양날박치기]][[br]][[깨물어부수기]][[br]][[독찌르기]] || __기술배치__ :[[br]][[스톤샤워]][[br]][[지진]][[br]][[깨물어부수기]][[br]][[역린]] || __기술배치__ :[[br]][[오물폭탄]][[br]][[번개엄니]][[br]][[불대문자]][[br]][[깨물어부수기]] || __기술배치__ :[[br]][[악의파동]][[br]][[스톤에지]][[br]][[불대문자]][[br]][[지진]] || __기술배치__ :[[br]][[가위자르기]][[br]][[깜짝베기]][[br]][[시저크로스]][[br]][[제비반환]] ||
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 SPECIAL]]에서 ==
+attachment:/Grimsley_Adventures.png?width=300
+
+4번 도로 게이트에서 [[리조트 데저트]]의 일꾼들과 카드게임을 하거나 주인공 [wiki:"블랙(포켓몬스터 SPECIAL)" 블랙]과 포켓몬 배틀로 내기를 신청하는 등 게임 설정과 마찬가지로 쿨가이 + 도박광적인 모습을 보여주며 일꾼으로 변장한 [[플라즈마단]] 졸개를 절각참의 [[연속자르기]]로 순식간에 제압하는 실력을 보인다. 
+
+소지 포켓몬은 [[절각참]] 하나 뿐. 작중 블랙과 게임을 하는 척하며 [wiki:"몰드류" 두더류]에게 일부러 여기저기 구멍을 파게해서 일꾼으로 변장한 플라즈마단 졸개을 함정에 빠트리는데 그 두더류도 블래리의 소지 포켓몬인지 아닌지는 알수 없다.

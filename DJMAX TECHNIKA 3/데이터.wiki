@@ -1,0 +1,253 @@
+'''[wiki:"DJMAX TECHNIKA 3"DJMAX TECHNIKA 3 항목으로 돌아가기]'''
+
+[[목차]]
+
+=== 수록곡 레벨 데이터 ===
+
+ * 현재 물음표 표시는 팝 믹싱 최소 존재 조건[* 수록곡들은 적어도 스타 믹싱 패턴과 노멀 패턴은 업데이트가 되며, 모든 상위 패턴은 하위 패턴을 가진다는 조건을 적용했습니다.]과 미션팩 수록 패턴 일람을 고려하여 작성된 것입니다. 해당 패턴이 팝 믹싱에 업데이트가 되면 [[wiki:"추가바람" 추가바랍니다]].
+ * 여기서 없었던 내용을 추가할 때, 그 곡이 포함된 세트 데이터에도 추가를 해주시기 바랍니다.
+ * 곡명을 제작하실 때, 플래티넘 크루 홈페이지에서 나타나는 공식적인 이름으로 해주세요. 물론 리믹스와 원곡이 같은 문서에 있더라도 링크만 원곡으로, 표시는 리믹스로 해주시기 바랍니다.
+ * 2013년 12월 31일부로 [[플래티넘 크루]] 넷 서비스가 종료됨에 따라, [[date]] 현재 플레이할 수 없는 패턴들은 --취소선-- 처리가 되어 있습니다. 팝 믹싱에서 플레이 불가능하지만, 취소선이 없는 일부 패턴들은 [[Randomizer Set]]을 포함한 클럽믹싱 세트 혹은 오프라인 크루 레이스 모드에서 플레이가 가능합니다.
+
+(범례)
+
+|| 기호 ||설명 ||
+|| ||존재 여부를 알 수 없는 패턴 ||
+|| - ||존재하지 않는 것으로 확인된 패턴 ||
+|| ? ||존재가 확인되었으나 패턴과 난이도를 확인할 수 없는 패턴||
+|| # ||패턴이 확인되었으나 난이도 표기를 확인할 수 없는 패턴||
+|| --취소선-- ||플래티넘 크루 서비스 종료 이후 플레이가 불가능한 패턴||
+||{{{#red 붉은색}}} ||난이도 표기가 전작에 비해 1 상향 조정된 패턴[* 2 상향 조정된 경우 {{{#red '''굵은 글씨'''}}}로 표기] ||
+||{{{#blue 푸른색}}} ||난이도 표기가 전작에 비해 1 하향 조정된 패턴[* 2 하향 조정된 경우 {{{#blue '''굵은 글씨'''}}}로 표기] ||
+|| V ||플레이 도중 '''BPM''' 변화가 존재하는 경우로[* 스크롤 변화는 따지지 않음], 자세한 설명은 해당 각주 참조 바람 ||
+
+ST - 스타 믹싱 패턴
+NM - 노멀 패턴
+HD - 하드 패턴
+MX - 맥시멈 패턴
+EX - 엑스트라 패턴
+
+ * 해당 곡들들의 더 세부적인 내용은, 해당 곡 문서를 참조할 것.
+
+==== DJMAX TECHNIKA 3 신곡 데이터 리스트 ====
+||곡명　　　　　　　　　　　　　　　　　　||장르　　　　　　　||BPM||ST||NM||HD||MX||EX||
+||[[설레임 Part.2]]||Cute pop||156||4||4||6||--8--|| ||
+||--[wiki:"유령(DJMAX)" 유령]--||Fusion Hiphop||125||--4--||--3--||--5--||--7--|| ||
+||[[AD2222]]||Junkno||140||7||6||--7--||--10--|| ||
+||--[[A Life With You]]--||Broken Beat||122||--5--||--5--||--6--||--7--|| ||
+||--[wiki:"Angel(DJMAX)" Angel]--||Euro Dance||170||--5--||--5--||--8--||--11--|| ||
+||[[Bamboo on Bamboo]]||Gabba||200||10||7||9||--12--|| ||
+||--[[Beautiful Girl]]--||Electro House||128||--4--||--4--||--5--||--8--|| ||
+||--[[Become Myself]]--||Hard Core||95||--2--||--4--||--6--||--8--|| ||
+||[[Black Swan]]||Electronic Waltz||174||8||7||8||--10--|| ||
+||[[Break!]]||Synth pop rock||167||4||4||6||--8--|| ||
+||--[[Chemical Slave]]--||Euro Dance||150||--7--||--5--||--7--||--9--|| ||
+||--[[Dark Prism]]--||Melodic Trance||150||--8--||--6--||--7--||--11--|| ||
+||[[Dream Again]]||Ani Pop||140||4||4||5||--7--|| ||
+||--[[Drum Town]]--||Core Electronic||133||--4--||--4--||--6--||--7--|| ||
+||--[wiki:"EGG(DJMAX)" EGG]--||Light pop||176||--4--||--5--||--6--||--8--|| ||
+||--[[Emblem]]--||Irish Dance||240||--6--||--6--||--7--||--9--|| ||
+||--[[Everything]]--||House Dance||130||--4--||--2--||--6--||--8--|| ||
+||--[[Fallin' in LUV]]--||Luv Pop||132||--3--||--3--||--5--||--8--|| ||
+||[[Feel Ma Beat]]||Rap Metal||100||6||7||8||--9--|| ||
+||[[Funky People]]||Nu Breakz||132||5||5||6||--8--|| ||
+||[[Gone Astray]]||Progressive House||140||--5--||--6--||7||--8--|| ||
+||[[Give Me 5]]||Soulful House||121||6||5||7||--8--|| ||
+||[[Hanz up!]]||Hip House||129||6||5||7||--9--|| ||
+||--[[IF]]--||Rock||134||--3--||--3--||--7--||--8--|| ||
+||[[In the Tdot]]||Electro HipHop||102||1||1||4||6|| ||
+||[[Jumping]]||K-POP||126||4||5||6||--8--|| ||
+||--[[Just For Today]]--||Morden Rock||V[* 180 → 90. 게임 내에서는 일정한 스크롤.]||--2--||--2--||--6--||--8--|| ||
+||[[Kung-Fu Rider]]||Oriental Funk||133||5||6||7||--8--|| ||
+||[[Leave me alone]]||Hard Core||236||8||6||7||--10--|| ||
+||[[Luv is True]]||Luv Pop||128||--4--||--2--||5||--7--|| ||
+||[[Lupin]]||K-POP||136||3||4||--6--||--7--|| ||
+||--[[Mellow D Fantasy]]--||K-pop||132||--2--||--3--||--5--||--7--|| ||
+||[[Mister]]||K-POP||126||5||4||6||--7--|| ||
+||[[My Heart, My Soul]]||R&B Slow||123||4||1||6||--7--|| ||
+||[[Now a New Day]]||Electric pop||158||2||5||7||--9--|| ||
+||[[Oohlala]]||Soulful R&B||120||2||3||6||--8--|| ||
+||--[[Out of CTRL]]--||Drum & Bass||176||--7--||--7--||--9--||--10--|| ||
+||[wiki:"Over The Rainbow(DJMAX)" Over The Rainbow]||Ani Pop||190||6||6||8||--11--|| ||
+||[[Pretty Girl]]||K-POP||134||4||4||6||--8--|| ||
+||[[Raise me up]]||Pop Rock||130||1||2||4||--8--|| ||
+||[[Right Back]]||UK Hardcore||175||7||6||7||--10--|| ||
+||--[[RockSTAR]]--||Electro House||126||--6--||--4--||--6--||--8--|| ||
+||[[Season (Warm Mix)]]||Electronic Soul||105||1||1||3||--9--|| ||
+||--[[Showdown]]--||Brass Funk||145||--6--||--6--||--7--||--9--|| ||
+||[[SigNalize]]||Electro Trance||132||9||6||8||--10--||--#--||
+||[[STEP]]||K-POP||123||3||4||5||--7--|| ||
+||--[[Supernova]]--||Rave||165||--5--||--7--||--8--||--11--|| ||
+||--[[Supersonic 2011]]--||Rock Band||148||-||-||-||--9--[* 맥시멈 패턴은 현재 [[Sound Lab Set]]의 상위 보스곡이며, 패턴은 오직 이 패턴(MX) 하나만 있는 것으로 추정된다. 이 곡은 해당 디스크 셋 한정곡이며, 팝 믹싱 업데이트는 고려하고 있지 않다고 밝혔다. [[http://twitter.com/#!/DJMaxTechnika/status/196789630920691713 #]] 팝 믹싱에 풀리지 않아 직접적으로 난이도 표기를 확인할 수는 없으나, 펜타비전 트위터를 통해 난이도는 9로 설정되어있는 사실을 알 수 있다. [[http://twitter.com/#!/DJMaxTechnika/status/201853288658911232 #]]]||-||
+||[[The Rain Maker]]||Epic Trance||138||4||5||--6--||--8--|| ||
+||--[[Victim of Love]]--||R&B pop||113||--4--||--3--||--6--||--9--|| ||
+||--[[Wanna Be Your Lover]]--||80's Dance||128||--4--||--3--||--5--||--7--|| ||
+||[[Watch Your Step]]||90's Dance||130||3||4||6||--8--|| ||
+||--[[Xeus]]--||Melodic Trance||148||--8--||--7--||--11--||--12--|| ||
+||--[[You & Me]]--||K-pop||136||--3--||--2--||--5--||--7--|| ||
+||[[You should get over me]]||90's Rock||150||5||5||6||--8--|| ||
+||롱 버전||||||||||||||
+||Pretty Girl (Original Ver.)||K-Pop||134||-||5||7||8||-||
+||Jumping (Original Ver.)||K-Pop||126||-||5||7||8||-||
+||--STEP (Original Ver.)--||K-pop||123||-||--5--||--7--||--9--||-||
+||--AD2222 (Extended Mix)--||Junkno||140||-||--7--||--9--||--11--||-||
+||--EGG (Extended Mix)--||Light pop||176||-||--6--||--8--||--9--||-||
+||--Supersonic (Mr.Funky Extended Remix)--||Nu Disco||130||-||--6--||--7--||--9--||-||
+
+==== 구곡 데이터 리스트 ====
+||곡명　　　　　　　　　　　　　　　　　　||장르　　　　　　　||BPM||ST||NM||HD||MX||EX||
+||[wiki:"고백,꽃,늑대"고백,꽃,늑대 part.1]||Piano Ballad||80||1||2||4||-|| ||
+||[[고백,꽃,늑대 part.2]]||Progressive||V[* 160 → 80 → 160. 해당 문서 참고]||--5--||5||7||8|| ||
+||[[내게로 와]]||Electro pop||125||3||4||6||8|| ||
+||[[너에게]]||80's pop||130||2||4||5||7|| ||
+||[[바람에게 부탁해]]||Fantasy R&B||108||1||1||5||-|| ||
+||[[바람에게 부탁해 Live Mix]]||Live pop||210||--{{{#blue 4}}}--||6||8||-|| ||
+||[[영원]]||Modern Rock||114||2||4||6||-|| ||
+||[[피아노 협주곡 1번]]||Classic Remix||156||5||6||8||9|| ||
+||[[Access]]||Trance||135||2||2||3||6|| ||
+||[wiki:"A.I(DJMAX)"A.I]||Techno||138||4||5||7||8|| ||
+||[[Airwave]]||Melodic Trance||150||--5--||5||9||-|| ||
+||[[Area 7]]||Trance||130||3||3||7||8|| ||
+||[[Beat U Down]]||Euro Dance||155||--5--||6||7||-|| ||
+||[[BEE-U-TIFUL]]||Drum'n Bass||170||5||7||9||-|| ||
+||[[Beyond the Future]]||Technical House||130||--4--||6||7||8|| ||
+||[[BlythE]]||Synth DnB||180||'''{{{#red 8}}}'''||6||9||-|| ||
+||[[Brandnew Days]]||Pop Rock||124||1||2||6||7|| ||
+||[[Burn it Down]]||Industrial||150||4||5||6||7|| ||
+||[[Cherokee]]||Trance Fusion||136||4||5||6||7|| ||
+||[[Closer]]||Pure House||120||2||3||5||-|| ||
+||[[Coastal Tempo]]||Up Tempo||135||4||5||6||7|| ||
+||[[Color]]||Electronica||120||3||5||6||7|| ||
+||[[Colours of Sorrow]]||Colours pop||143||5||6||7||8|| ||
+||[[Cosmic Fantastic Lovesong]]||Ani pop||136||2||3||5||6|| ||
+||[[Cozy Quilt]]||Jazz House||141||4||5||8||-|| ||
+||[[Creator]]||Electronica||117||4||6||7||-|| ||
+||[[Cypher Gate]]||Hi-Break Core||150||--6--||6||9||{{{#red '''12'''}}}|| ||
+||[wiki:"D2(DJMAX)" D2]||Progressive||178||--5--||8||{{{#red 10}}}||{{{#red 11}}}|| ||
+||[[Dark Envy]]||NB Rock||195||--4--||6||7||-|| ||
+||[[Dear my Lady]]||HI-NRG||128||2||4||6||7|| ||
+||[[Desperado]]||Electronic Funk||130||5||5||-||-|| ||
+||[wiki:"Desperado" Desperado Nu Skool Mix]||Nu Skool||135||--5--||5||6||7|| ||
+||[[Divine Service]]||Ethnic Techno||152||4||4||5||6|| ||
+||[[DJMAX]]||MAX House||130||--2--||3||4||-|| ||
+||[[Dream of Winds]]||Melodic Trance||150||--5--||6||8||{{{#red 10}}}|| ||
+||[[Dual Strikers]]||Techno Trance||152||4||6||8||-|| ||
+||[[Electronics]]||Electro House||128||--6--||6||8||-|| ||
+||[[End of the Moonlight]]||Techno pop||155||5||4||7||8|| ||
+||[[Enemy Storm]]||Hard Core||133||3||3||6||{{{#red 10}}}|| ||
+||[wiki:"Enemy Storm" Enemy Storm Dark Jungle Mix]||Dark Jungle||170||{{{#red 6}}}||--6--||8||9|| ||
+||[wiki:"Eternal Memory ~소녀의 꿈~"Eternal Memory]||Fantasy Pop||125||1||3||5||7|| ||
+||[wiki:"Eternal Fantasy ~유니의 꿈~"Eternal Fantasy]||Fantasy pop||127||3||4||5||6|| ||
+||[[wiki:"Fate~運命~" Fate]]||Fusion Hiphop||110||2||4||5||6[* 3 출시당시 7이였으나, 다시 6으로 떨어졌다.]|| ||
+||[[Fermion]]||Psychedelic Trance||156||--'''{{{#red 9}}}'''--||8||10||-|| ||
+||[[Flea]]||New Wave||126||4||5||6||7|| ||
+||[[First Kiss]]||Dance pop||107||2||2||4||5|| ||
+||[[Freedom]]||Electronica||126||2||4||5||7|| ||
+||[[Fury]]||Punk Rock||135||{{{#red 6}}}||6||7||8|| ||
+||[[Get Down]]||Dance Rock||128||4||4||-||-|| ||
+||[[Grave Consequence]]||DnB Trance||180||--{{{#red 7}}}--||7||8||-|| ||
+||[[Heart of Witch]]||Classical Trance||170||4||5||7||8|| ||
+||[[Here in the Moment]]||Latin House||115||3||5||6||-|| ||
+||[[HEXAD]]||Electro House||135||--5--||5||6||7|| ||
+||[[Honeymoon]]||Acid pop||150||2||3||4||8|| ||
+||[[In my Dream]]||Mental Metal||150||5||{{{#red 6}}}||-||-||--#--||
+||[[In My Heart]]||House pop||123||2||3||4||5|| ||
+||[[wiki:"I Want You(DJMAX)" I want You]]||House Dance||140||3||4||6||7|| ||
+||[[Jealousy]]||Marble House||125||--2--||5||6||-|| ||
+||[[Jupiter Driving]]||Techno Stock||144||3||5||6||7|| ||
+||[[Keys to the World]]||Planet Core||160||5||6||7||8|| ||
+||[wiki:"La Campanella : Nu Rave" La Campanella : Nu Rave]||Symphonic Rave||V[* 178 → 130 → 135 → 140 → 130, 복잡한 변박이 탄생한 이유는 해당 항목 참고]||5||6||7||-|| ||
+||[[Ladymade Star]]||Space idol pop||136||2||4||5||6|| ||
+||[[Landscape]]||Melodic Trance||140||5||5||6||9|| ||
+||[[Love is Beautiful]]||Flipper's Rock||152||2||4||5||6|| ||
+||[[Love Mode]]||Electronica||120||1||3||6||7|| ||
+||[[Lovely hands]]||Space pop||135||3||5||6||-|| ||
+||[[Lover]]||Barbie House||145||4||5||6||7|| ||
+||[wiki:"Luv Flow" Luv Flow Funky House Mix]||Funky House||127||--{{{#blue 3}}}--||5||6||7|| ||
+||[wiki:"MASAI(DJMAX)" MASAI Electro House Mix]||Electro House||128||--4--||5||6||7|| ||
+||[[Melody]]||Cute pop||188||3||5||6||8|| ||
+||[[Miles]]||Electro Fusion||130||{{{#red 7}}}||5||6||7|| ||
+||[[MonoXide]]||Planet Core||135||4||6||7||8|| ||
+||[[Nova ~Mr.Funky Remix~]]||Nu Skool Breakz||136||4||4||6||-|| ||
+||[[Oblivion]]||Dramatic Trance||141||2||3||6||8|| ||
+||[wiki:"Out Law" OUT LAW - Reborn]||Nu Skool||130||--4--||5||7||8|| ||
+||[[PDM]]||Acid Jazz||120||4||5||6||8|| ||
+||[[Play the Future]]||Electro House||128||3||4||5||7|| ||
+||[[Put'Em Up]]||Reggaetion like||100||3||4||5||-|| ||
+||[[Puzzler]]||Toy pop||130||3||4||7||-|| ||
+||[[Rage Of Demon]]||Nu Metal||196||--6--||6||8||9|| ||
+||[[Ray of Illuminati]]||Euro Dance||150||--5--||5||7||8|| ||
+||[[Ready Now]]||Euro Dance||135||3||5||6||8|| ||
+||[[Remember]]||K-POP||150||3||5||6||7|| ||
+||[[Ruti'n]]||Urban pop||120||4||5||6||-|| ||
+||[[Say it from your heart]]||Classic Handbag||130||4||4||6||-|| ||
+||[[Secret World]]||Teen pop||110||4||5||6||-|| ||
+||[[Shoreline]]||Balearic House||135||5||6||7||8|| ||
+||[[SIN]]||Drum'n Bass||190||6||6||8||9|| ||
+||[[Someday]]||90's Pop||136||3||3||5||{{{#blue 6}}}|| ||
+||[[Son of Sun]]||Gabber||200||{{{#red 7}}}||6||8||{{{#red 11}}}|| ||
+||[[Space of Soul]]||Symphonic House||160||5||8||9||-|| ||
+||[[STOP]]||Big Band House||162||4||5||6||7||--#--||
+||[[SuperSonic]]||Speed Core||156||3||4||5||7|| ||
+||[[Supersonic ~Mr.Funky Remix~]]||Nu Disco||130||4||6||7||9|| ||
+||[[Sweet Dream]]||House Dance||140||3||4||6||-|| ||
+||[[Sweet Shining Shooting Star]]||Acid House||140||5||5||7||8|| ||
+||[[The Clear Blue Sky]]||Artcore||178||4||4||7||8|| ||
+||[[The Guilty]]||Speed Funk||155||3||5||6||7|| ||
+||[[The Last Dance]]||India Hiphop||102||5||4||5||7|| ||
+||[[The Night Stage]]||Electro pop||120||2||4||6||-|| ||
+||[[Thor]]||Melodic Trance||147||--5--||6||10||-|| ||
+||[[Trip]]||Dance pop||114||2||4||6||-|| ||
+||[[Voyage]]||Brokenbeat||125||4||5||6||-|| ||
+||[[White Blue]]||Trance||144||5||6||7||8|| ||
+||[[XLASHER]]||Slash Core||160||5||6||7||-|| ||
+||[[Y]]||Acid House||130||3||5||6||7|| ||
+||[[Your Own Miracle]]||Miracle pop||136||4||4||6||8|| ||
+||[[wiki:"ZET"ZET ~Mr.Funky Remix~]]||Indie Dance||128||--4--||5||6||7|| ||
+||롱 버전||||||||||||||||||
+||[[NB Ranger Nonstop Remix]]||NB Mixtune||V[* 140 → 185]||-||8||9||-||-||
+||SON OF SUN ~Extended Ver.~||Gabber||200||-||7||8||{{{#red 11}}}||-||
+||Thor ~Extended Ver.~||Melodic Trance||153||-||6||9||{{{#red 11}}}||-||
+||Y ~Extended Ver.~||Acid House||130||-||6||7||8||-||
+
+=== 디스크 셋 데이터 ===
+ * 구작 디스크 셋 데이터들은 [[DJMAX TECHNIKA]], [[DJMAX TECHNIKA 2/데이터]] 항목을 참고할 것.
+
+==== 신 디스크 셋 일람 ====
+1에서 2로 넘어올 때 [[Core Sound]]가 삭제됐던 것과는 달리, 이번에는 삭제되는 디스크 셋은 없다고. Xeronion이 직접 트위터를 통해 밝혔다. ~~[[Core Sound]] 진짜 지못미 ▶◀ 그리고 이 아래의 취소선으로 표시된 세트들도 진짜 지못미 ▶◀~~
+
+||#||이름||난이도||해금||
+||1||[[Boy Meets Girl Set]]||Easy Performance||기본해금||
+||2||[[Rainbow Voyage Set]]||Easy Performance||기본해금||
+||3||[[Saturday Night Set]]||Normal Perfomance||기본해금||
+||4||[[Orientalism Set]]||Hard Performance||기본해금||
+||5||[[Brutalizer Set]]||Hard Performance ||기본해금||
+||6||[[Randomizer Set]]||Variation Performance||기본해금||
+||7||Pretty Girl (Original Ver.)||Nonstop Performance||기본해금||
+||8||Jumping (Original Ver.)||Nonstop Performance||기본해금||
+||9||--[[Radio Wave Set]]--||Normal Perfomance||5,000 Max Point||
+||10||--STEP (Original Ver.)--||Nonstop Performance||7,000 Max Point||
+||11||--[[Detonate Set]]--||Hard Performance||6,000 Max Point||
+||12||--[wiki:"Supersonic%20~Mr.Funky%20Remix~#s-2.1" SuperSonic (Mr.Funky Extended Remix)]--||Nonstop Performance||15,000 Max Point||
+||13||--[[wiki:"EGG(DJMAX)#s-2.1" EGG (Extended Mix)]]--||Nonstop Performance||18,000 Max Point||
+||14||--[[Sound Lab Set]]--||Very Hard Performance||8,000 Max Point||
+||15||--[[Hyper Speed Set]]--||Maniac Performance||10,000 Max Point||
+||16||--[wiki:"AD2222" AD2222 (Extended Mix)]--||Nonstop Perfomance||20,000 Max Point||
+||17||--[[Fatality Set]]--||Maniac Performance||12,000 Max Point||
+=== 난이도 표기 문제 및 전 디스크 셋 난이도 비교 표 ===
+ * [DJMAX TECHNIKA 3/난이도 표기 문제] 참조.
+
+=== 미션 목록/데이터 ===
+아래는 개인 미션 모드인 챌린지 미션 모드의 미션팩 항목의 퀵링크이며, 미션에 대한 개요 설명이나 크루 챌린지, 스페셜 미션의 설명은 [[DJMAX TECHNIKA 3/미션]] 문서 참조할 것.
+
+||#|| 미션 팩 제목 || 도전 가능 레벨 || 테마 ||
+||01|| --[[New Beginning]]-- || 1 || 미션을 시작하는 분들을 위한 기본 미션입니다. ||
+||02|| --[[TechniColor]]-- || 7 || BGA의 색감을 테마로 한 미션입니다. ||
+||03|| --[[A to Z]]-- || 13 || DJ MAX의 다양한 곡 제목을 테마로 한 미션입니다. ||
+||04|| --[[Metronom]]-- || 19 || 다양한 곡 빠르기를 주제로 한 미션입니다. ||
+||05|| --[wiki:"Labyrinth(DJMAX)" Labyrinth]-- || 25 || 다양한 주제를 가진 미션입니다. ||
+||06|| --[[Future Challenge]]-- || 30 || 새로운 미션이 업데이트 되었습니다. ||
+||07|| --[[HyperTechnician]]-- || 35 || 다양한 노트 처리 능력이 필요한 미션입니다. ||
+||08|| --[[Raconteur]]-- || 40 || BGA의 이야기를 테마로 한 미션입니다. ||
+||09|| --[wiki:"Masterpiece(DJMAX)" Masterpiece]-- || 45 || 작곡자의 곡을 모은 미션입니다. ||
+||10|| --[wiki:"Ragnarok(DJMAX)" Ragnarok]-- || 50 || 고난도 미션입니다. ||

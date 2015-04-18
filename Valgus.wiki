@@ -1,0 +1,18 @@
+|| 장르명 |||||| MAINSTREAM HARDCORE || [[BPM]] |||| 175 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue NORMAL}}} |||| {{{#orange HYPER}}} |||| {{{#red ANOTHER}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 330}}} || {{{#orange 7}}} || {{{#orange 685}}} || {{{#red 11}}} || {{{#red 1206}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 348}}} || {{{#orange 7}}} || {{{#orange 734}}} || {{{#red 10}}} || {{{#red 1212}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 21 SPADA|21 SPADA]] ~ 
+ * 특수 노트 없음
+
+beatmania IIDX 21 SPADA의 수록곡이다.
+[http://www.myosuke.com DJ Myosuke][* Filthy란 명의를 쓰기도 한다.]의 [[BEMANI 시리즈]] 첫 데뷔곡이며 yukacco가 피처링을 맡았다.
+
+[[HTML(<iframe width="640" height="360" src="//www.youtube.com/embed/J7Voprs3K-E" frameborder="0" allowfullscreen></iframe>)]]
+SPA
+
+[[HTML(<iframe width="640" height="360" src="//www.youtube.com/embed/bClbQjvM1wQ" frameborder="0" allowfullscreen></iframe>)]]
+DPH

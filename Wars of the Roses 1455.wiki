@@ -1,0 +1,43 @@
+[[목차]]
+
+|| 장르 |||||||| Melodic Trance ||
+|| 곡명 |||||||| Wars of the Roses 1455 ||
+|| 작곡 |||||||| [[Lotze]] ||
+|| 배경 |||||||| X.Z ||
+|| 최초 수록버전 |||||||| [[EZ2DJ CV]] ||
+|| BPM |||||||| 140 → 100 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple 12}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple 15}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 14}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+== 개요 ==
+EZ2DJ 7th CV의 수록곡. 5스트릿 기준 노멀 7, 하드 9, 슈퍼하드 12. 제목의 명칭과 숫자만 봐도 이 곡의 배경은 당연히 [[장미전쟁]]. [* 뒤의 숫자인 1455는 전쟁의 발발년도.] 멜로디 트랜스라는 장르임에도 같은 장르의 곡인 [[Legend of Moonlight]]나 [[Hyper Magic]]등과는 달리 곡 분위기가 상당히 어두운 편.
+
+참고로 곡조를 들어보면 알겠지만, [[weep Irish]]와 정말 비슷하다. 그래서 [[Lotze]]는 [[SHK]]다라는 주장이 끊임없이 제기되었다. 물론 이 곡 말고도 그 증거는 또 있다. 3S판 [[LOKI]] BGA를 보면 Composed by '''SHK'''라 되어 있으며, 결정적인 증거는 바로 [[赤月愛]].
+
+[[Sabin Sound Star]]에는 네티라인 스튜디오가 만든 곡을 제외한 CV곡이 이식되었지만, 왠지 모르게 이 곡은 이식되지 않았다. 인기가 심하게 없으며 이는 본 항목의 분량만 봐도 알 수 있다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/QTHAHm045Sg?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/QTHAHm045Sg?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD - SHD MIX
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+턴테이블 모드에서는 레벨 9라고 표기되어 있으나, 꽤나 느긋한 BPM, 일자형 유도패턴 등으로 9레벨 중에서는 물렙에 위치하고 있다.

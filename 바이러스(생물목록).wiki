@@ -1,0 +1,116 @@
+ * 상위문서: [[생물 계통 분류]]
+ * 일반적인 내용은 [[바이러스]] 참고.
+
+[[목차]]
+
+바이러스(Virus)는 단세포 생물보다 단순한 구조로, 반생물(半生物)로 불리기도 한다.
+바이러스의 계통분류는 현재 논의 중으로, 바이러스 분류 국제 위원회(International Committee on Taxonomy of Viruses, ICTV)의 제안에 따라 목, 과, 아과, 속, 종으로 분류하며, 최상위 단계는 데이비드 볼티모어(David Baltimore)의 분류에 따른 7개 군(Group)으로 한다.
+[[리그베다 위키]]에서는 합의안에 따라 목, 과, 속 단위의 바이러스 생물목록 문서를 만들며, 아과와 종은 별도의 생물목록을 만들지 않기로 한다.
+
+= DNA 바이러스 =
+== 이중가닥 DNA 바이러스(Ⅰ군) ==
+=== 헤르페스바이러스목 (Herpesvirales) ===
+ * 헤르페스바이러스과 (Herpesviridae)
+  * 알파헤르페스아과(Alphaherpesvirinae)
+   * 심플렉스바이러스속(Simplexvirus)
+    * [[헤르페스]] 심플렉스 바이러스
+   * 바리셀라바이러스속(Varicellovirus)
+    * [[수두]] [[대상포진]] 바이러스
+=== 미분류목 ===
+ * 판도라바이러스과(Pandoraviridae)
+  * [[판도라바이러스]]속(Pandoravirus)
+ * 폭스바이러스과(Poxviridae)
+  * 초르도폭스바이러스아과(Chordopoxvirinae)
+   * 오르토폭스바이러스속(Orthopoxvirus)
+    * [[천연두]] 바이러스
+    * [[우두]] 바이러스
+
+== 외가닥 DNA 바이러스(Ⅱ군) ==
+
+= RNA 바이러스 =
+== 이중가닥 RNA 바이러스(Ⅲ군) ==
+
+== 양극성 외가닥 RNA 바이러스(Ⅳ군) ==
+=== 피코르나바이러스목(Picornavirales) ===
+ * 피코르나바이러스과(Picornaviridae)
+  * 헤파토바이러스속(Hepatovirus)
+   * A형 [[간염]] 바이러스
+  * 엔테로바이러스속(Enterovirus)
+   * A형 엔테로바이러스
+    * [[수족구병|콕사키바이러스 A46]]
+   * C형 엔테로바이러스
+    * [[소아마비|폴리오바이러스]]
+    * [[수족구병|엔테로바이러스 71]]
+    * [[감기|라이노바이러스]]
+=== 니도바이러스목(Nidovirales) ===
+ * 코로나바이러스과(Coronaviridae)
+  * 코로나바이러스아과(Coronavirinae)
+   * 베타코로나바이러스속(Betacoronavirus)
+    * [[사스]] 코로나바이러스
+=== 미분류목 ===
+ * 칼리시바이러스과(Caliciviridae)
+  * 노로바이러스속(Norovirus)
+   * [[노로바이러스]]
+ * 비르가바이러스과(Virgaviridae)
+  * 토바모바이러스속(Tobamovirus)
+   * [[담배 모자이크 바이러스]]
+ * 플라비바이러스과(Flaviviridae)
+  * 헤파시바이러스속(Hepacivirus)
+   * C형 [[간염]] 바이러스
+ * 헤페바이러스과(Hepeviridae)
+  * 헤페바이러스속(Hepevirus)
+   * E형 [[간염]] 바이러스
+ * 토가바이러스과(Togaviridae)
+  * 루비바이러스속(Rubivirus)
+   * [[풍진]] 바이러스
+
+== 음극성 외가닥 RNA 바이러스(Ⅴ군) ==
+=== 모노네가바이러스목(Mononegavirales) ===
+ * 필로바이러스과(Filoviridae)
+  * [[에볼라]]바이러스속(Ebolavirus)
+   * 분디부교 에볼라바이러스(Bundibugyo ebolavirus)
+   * 레스턴 에볼라바이러스(Reston ebolavirus)
+   * 수단 에볼라바이러스(Sudan ebolavirus)
+   * 타이포레스트(코트디부아르) 에볼라바이러스(Taï Forest ebolavirus)
+   * 자이르 에볼라바이러스(Zaire ebolavirus)
+ * 파라믹소바이러스과(Paramyxoviridae)
+  * 파라믹소바이러스아과(Paramyxovirinae)
+   * 모빌리바이러스속(Morbillivirus)
+    * [[홍역]] 바이러스(Measles virus)
+   * 이하선염바이러스속(Rubulavirus)
+    * [[볼거리|유행성이하선염]]바이러스
+ * 랍도바이러스과(Rhabdoviridae)
+  * 리사바이러스속(Lyssavirus)
+   * [[광견병]] 바이러스(Rabies virus)
+
+=== 미분류목 ===
+ * 오르토믹소바이러스과(Orthomyxoviridae)
+  * 인플루엔자바이러스 A형속(Influenzavirus A)
+   * [[인플루엔자 A]]
+  * 인플루엔자바이러스 B형속(Influenzavirus B)
+   * [[인플루엔자 B]]
+  * 인플루엔자바이러스 C형속(Influenzavirus C)
+   * [[인플루엔자 C]]
+ * 부니아바이러스과(Bunyaviridae)
+  * [[한타바이러스]]속(Hantavirus)
+   * 한탄바이러스
+   * 서울바이러스
+   * 제주바이러스
+ * 미분류과
+  * 델타바이러스속(Deltavirus)
+   * D형 [[간염]] 바이러스
+
+= 레트로바이러스 =
+== 외가닥 RNA 역전사 바이러스(Ⅵ군) ==
+=== 미분류목 ===
+ * 레트로바이러스과(Retroviridae)
+  * 오르토레트로바이러스아과(Orthoretrovirinae)
+   * 렌티바이러스속(Lentivirus)
+    * [[HIV|인간 면역결핍 바이러스]]
+    * [[유인원 면역결핍 바이러스]]
+
+== 이중가닥 DNA 역전사 바이러스(Ⅶ군) ==
+=== 미분류목 ===
+ * 헤파드나바이러스과(Hepadnaviridae)
+  * 오르토헤파드나바이러스속(Orthohepadnavirus)
+   * B형 [[간염]] 바이러스

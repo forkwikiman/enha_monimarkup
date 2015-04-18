@@ -1,0 +1,35 @@
+[[황혼 프론티어]]에서 만든 [[동방프로젝트]] 관련 [[동인]] [[게임]]중 가장 처음 나온 녀석.
+
+[[슈퍼 마리사 월드]]와 착각하는 사람들이 있는데 엄연히 다르다.
+하지만 마찬가지로 [[주인공]]은 [[키리사메 마리사]].
+
+마리오 시리즈와 마찬가지로 마리사가 버섯을 먹으면 성장한다. 앨리스는 먹으면 그냥 죽는다.
+
+동영상을 보면 쉬운거 같지만 '''절대 안쉽다'''. 일단 미끄러지는 정도나 공중에서 움직임이 슈퍼마리오 1과 꽤나 닮아서 슈퍼마리오 1의 ~~꽤 뭐같은~~ 조작감에 익숙하면 그럭저럭 할만한 수준. 하지만 슈퍼마리오 3이나 슈퍼 마리오 월드의 편안한 조작감에 익숙한 사람에게는 토나오는 난이도...
+
+기본적으로 2등신 (가분수)로 시작하며, 갈색 버섯을 먹으면 +1, 붉은 버섯을 먹으면 X2가 된다.
+하지만 5등신은 없으며, 4->5->6으로 넘어갈수 없다. 물론 4->6도 안된다. 총 8등신까지가 있으며, 4등신만 되도 플레이엔 일단 지장은 없다. 하지만 8등신이 되면...
+
+
+
+{{{#!HTML
+<object width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=265B31355B5A676D1EB757707F7CE007402B&outKey=b4f8a6a8eed1da2f17ce1a61a4e239ef5cff52a4c2532fbfe3d90667c3bd4dc5ab3522b4d1c8bf549b94000549b630c4' /><param name='wmode' value='transparent' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=265B31355B5A676D1EB757707F7CE007402B&outKey=b4f8a6a8eed1da2f17ce1a61a4e239ef5cff52a4c2532fbfe3d90667c3bd4dc5ab3522b4d1c8bf549b94000549b630c4' wmode='transparent' width='500' height='408' type='application/x-shockwave-flash' /></object>}}}
+
+'''뭐든지 파괴하는 정도의 능력'''을 가지게 된다...
+
+
+동방 관련 게임에서의 항상 걸려가는 특징인 '''이상한 난이도의 엑스트라 스테이지'''를 역시 채택. 몇몇 스테이지는 적당한 컨트롤만 있으면 되나, 11번 스테이지, 19번 스테이지의 경우는 컨트롤로는 어렵다. 특히 19번은 이미 정도를 넘은 수준 (그러나 절대 어렵다고는 할 수 없는 것이, 6등신으로도 닥돌하면 목숨은 비슷하게 얻을 수 있기도 하고, 뭉쳐오는 몹을 적당히 죽여 계단 형식으로 만들어서 밟고 넘어가는 해법도 존재.).
+
+굳이 설명하자면 '''적들이 맵 한가득'''.
+
+참고로 위의 동영상이 바로 11번 엑스트라 스테이지이다.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer5071' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=D3ADCC4416518CEE722B095559381DC02507&outKey=V12105258cf011c3e8123e300a9b7110b6dd1167f13b8f49f63a3e300a9b7110b6dd1' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=D3ADCC4416518CEE722B095559381DC02507&outKey=V12105258cf011c3e8123e300a9b7110b6dd1167f13b8f49f63a3e300a9b7110b6dd1' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer5071' id='NFPlayer5071' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+19스테이지. 
+
+처음 접할 땐 이걸 어쩌라고! 소리가 절로 나오지만 침착하게 생각해보면 공략법이 뻔히 나와있는 스테이지다.
+
+여담으로 후속작인 [[마리사와 6개의 버섯]]이 있으며, 스토리도 서로 연결되어 있다.

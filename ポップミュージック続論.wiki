@@ -1,0 +1,40 @@
+[[목차]]
+
+'''팝 뮤직 속론'''
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [wac], 보컬은 [MAKI]. 팝픈뮤직 13의 수록곡 [[ポップミュージック論]]의 공식 후속곡. MAKI의 보컬곡답게 성인가요의 냄새가 물씬 풍기는 노래이다.
+
+== [[팝픈뮤직]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/VPzlHDR2i4w" frameborder="0" allowfullscreen></iframe>
+}}}
+
+>刹那の歌は消えました。時代錯誤な逆切れロックも大衆化。お茶をにごした歌謡をひとつ。
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 캐릭터 ||
+|| pop'n music 18[[br]]せんごく列伝 || MEGANE KAYO[[br]]메가네 가요 || ポップミュージック続論[[br]]팝 뮤직 속론 || ギラギラメガネ楽団 feat. MAKI[[br]]반짝반짝 안경악단 feat. MAKI || MURASAKI[[br]]무라사키 ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 182 || 43단계 || {{{#blue 14}}} || {{{#green 17}}} || {{{#orange 30}}} || {{{#red 36}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 23}}} || {{{#orange 36}}} || {{{#red 42}}} ||
+|||| 노트수 || {{{#blue 283}}} || {{{#green 355}}} || {{{#orange 738}}} || {{{#red 1008}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+원래는 V-RARE SOUNDTRACK 15에 들어있던 노래였다. 아케이드엔 18 전국열전에 수록.
+
+== [[GITADORA]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/Bp-gyTOxmr4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [GITADORA] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 182 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 3.20}}} || {{{#orange 5.00}}} || {{{#red 7.45}}} ||
+|| 기타 베이스 || {{{#blue 3.40}}} || {{{#orange 4.55}}} || {{{#red 6.25}}} || 
+|| 드럼매니아 || {{{#blue 3.10}}} || {{{#orange 5.10}}} || {{{#red 7.40}}} || 
+
+GITADORA 3차 로케테스트에 수록되었으며, XG3에 선행 수록되었다.

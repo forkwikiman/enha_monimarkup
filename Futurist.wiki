@@ -1,0 +1,109 @@
+[[목차]]
+
+== [EZ2DJ]의 수록곡 ==
+|| 장르 |||||||| New Wave Rock ||
+|| 곡명 |||||||| Futurist ||
+|| 작곡 |||||||| [[wiki:"ND Lee" Andy Lee]] ||
+|| 배경 |||||||| [[Airborn]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 4th]] ||
+|| BPM |||||||| 123 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}}[* 스트릿 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* 루비 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#orange 5}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='yUQpTOWzn1w$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=yUQpTOWzn1w$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=yUQpTOWzn1w$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 4thTRAX ~Over Mind~]] '''BGA'''
+
+노멀의 난이도는 5, 하드는 8. 사실 인기곡으로는 절대 생각하기 힘든 곡인지라 점점 묻혀가는 중...
+
+그래도 플레이 하는 모습을 볼수 있을 때가 있긴 하다. 5th인가 6th에서 스트릿 믹스에서 올송 안걸고 몇번째 스테이지에선가 곡 목록중 가장 위에 (곡 목록 화면으로 들어가면 이 노래에 커서가 맞춰져 있다.) 있기 때문에 리듬게임 유저가 '''아닌''' 사람들이 가끔 플레이 하는 모습을 볼수 있었다.
+
+다만 갓 판정 연습을 시작한 유저들에게 있어서 노멀 패턴이 연습에 매우 좋기에 은근히 플레이하는 유저들이 있다. 하드 패턴은 스코어링 유저들 사이에서도 고득점을 하기가 쉽지 않은 패턴이다. 정박 스크, 엇박 페달, 중간 계단 패턴 등 연습에 좋은 구간들이 많은 패턴이므로 스코어링을 노리지 않는다 해도 연습 삼아서 플레이하는 것도 좋을 것이다.
+
+그런데... 8렙에서도 하급에 위치한 이 하드패턴이 [[EZ2AC EV]]에서 9로 올라간 이유를 알 수 없다. BPM이 느리고 무엇보다 구곡 중에서도 특히 판정이 후한 곡 중 하나인데 패턴도 그렇게 난해한 구간도 없다. 이로써 9레벨 역대급의 물렙이 되었다.
+
+턴테이블 모드에서는 레벨 10으로 등장. 10렙중에서도 매우 정직하고 매우 찰진 패턴을 가지고 있다...--만 곡 자체의 인기가 안습해서 그저 안습--
+
+아는 사람은 거의 없지만, 이 곡도 가요에 원곡이 있다. 나일론이라는 그룹의 '태양 아래서' 라는 노래. 이 곡은 1997년에 발표되었으므로 Futurist보다 한참 전에 나온 곡이다. 각종 음원 사이트에 올라가 있으므로 궁금하다면 들어보자.
+
+[[EZ2ON]]에서는 정말 나쁜 패턴과 함께 수록되었는데, 30초 동안 같은 마디 패턴이 반복되어 비트매니아 투덱의 이노리와 함께 지루한 패턴의 대표적 사례로 꼽힌다.[http://toez2dj.net/zeroboard/zboard.php?id=c_ez2dj2&no=310234 플짤]
+
+== [DJMAX TECHNIKA] 시리즈의 세트 ==
+세트 이미지에 표기된 난이도는 VERY HARD Performance
+
+업데이트 당시 플레이어 계급으로 '퓨처리스트'라는 계급이 함께 생겼다. 그 이전까진 그랜드마스터가 가장 높은 계급이었다.
+이 계급을 달고 있으면 그야말로 테크니카에 엄청난 돈을 부었다는 인증 그 자체가 된다. (1크레딧 500원 기준으로 약 220만원!) 우스갯소리로 이 세트는 이 계급인 사람들만 플레이가능하다는 소리가 있다.
+=== [DJMAX TECHNIKA] ===
+DJMAX TECHNIKA의 플레이 모드 중 하나인 Technical 모드에서 고를 수 있는 세트 중 하나.
+==== 수록곡 일람 ====
+
+||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||6||Teen Pop||[[Secret World]]||[[Sweetune]]||110||TP|| ||
+||6||Urban POP||[[Ruti'n]]||[[BEXTER]]||120||TP|| ||
+||6||Euro Dance||[[Ready Now]]||[[Ruby Tuesday]]||135||TP|| ||
+||6||House Dance||[[I want You]]||[[Lin-G]]||140||SP|| ||
+||7||Electronica||[[Love Mode]]||[[Clazziquai]]||130||SP|| ||
+||8||Electro House||[[Play the Future]]||[[Urbatronic Chopsticks]]||128||SP|| ||
+||8||New Wave||[[Flea]]||[[Clazziquai]]||126||SP|| ||
+||?||Technical House||[[Beyond the Future]]||[[7 Sequence]]||130||TP||1~3Stage MAX평균 98%미만 ||
+||?||DnB Trance||[[Grave Consequence]]||[[Tsukasa]]||180||TP||1~3Stage MAX평균 98%이상 ||
+
+==== 설명 ====
+[[DJMAX TECHNIKA]]의 플레이 모드 중 하나인 Technical 모드에서 고를 수 있는 세트 중 하나로, 11월 말에 공지된 1주년 업데이트로 새로 추가된 코스이다.
+카드가 없어도 플레이가 가능한 기본코스이며, 난이도는 Very Hard Perfomance. 위치도 커스터마이저 바로 옆이다.
+
+아무것도 공지되지 않았던 [[Grave Consequence]]가 나오긴 하지만, 기존에 MAX 95%가 아니라 MAX 98%이기 때문에 뽑기가 상당히 어렵다. [* 스코어어택 코스 기준 커트라인이 27개]
+
+첫 클리어를 위해선 [[Secret World]] / [[Ready Now]] / [[Ruti'n]] ▷ [[Beyond the Future]]
+스코어 어택용으론 Ruti'N / [[I want You]] / [[Flea]] ▷ [[Grave Consequence]] 로 플레이해주면 된다.
+다만 커트라인이 98%이며, [[Grave Consequence]]의 경우 올콤시 [[Beyond the Future]]보다 점수는 5천점 가량밖에 더 나오지 않으면서, 올콤 난이도는 훨씬 높기 때문에, 최상위권이 아닌 이상은 마지막 스테이지곡으로 [[Beyond the Future]]를 쓰는것이 더 낫다. 실제로 상위권 내에서도 12위, 15위의 마지막곡이 [[Beyond the Future]]라는것을 감안하면 어중간하게 [[Grave Consequence]]를 뽑아서 하는것 보다는 차라리 [[Beyond the Future]]가 훨씬 낫다.
+
+
+어떻게 본다면 [[굴리기]]에 대한 펜타비전의 대처방법이라고 할수도 있는것 같다.
+그것이 효과를 보고있는지 최근 플래티넘 크루 사이트로가보면 퓨쳐리스트셋 첫페이지의 마지막 곡이 [[Grave Consequence]]로 떡칠되어있지만, 둘째페이지부터는 [[Beyond the Future]]가 압도적으로 많은것을 볼 수 있다. [* 커스터마이저가 6페이지에 가야 겨우 [[SIN]]이 보이며, 10페이지를 넘겨도 [[SIN]]을 찾기가 매우 어렵다는걸 보면 얼마나 많은지 알 수 있다.]
+
+=== [DJMAX TECHNIKA 2] ===
+[[DJMAX TECHNIKA 2]]의 플레이 모드 중 하나인 Club Mixing에서 고를 수 있는 세트 중 하나.
+==== 수록곡 일람 ====
+
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||1||6||Teen Pop||[[Secret World]]||[Sweetune]||110||HD|| ||
+||2||6||Urban Pop||[Ruti'n]||[BEXTER]||120||HD|| ||
+||3||6||Euro Dance||[Ready Now]||[Ruby Tuesday]||135||HD||||
+||4||7||Electronica||[Love Mode]||[Clazziquai]||120||MX|| ||
+||5||7||Electro House||[Play the Future]||[Urbatronic Chopsticks]||128||MX|| ||
+||6||7||New Wave||[Flea]||[Clazziquai]||127||MX|| ||
+||B1||8||Technical House||[Beyond the Future]||[7 Sequence]||130||MX||선택곡 3곡 번호 합<13||
+||B2||8||DnB Trance||[Grave Consequence]||[Tsukasa]||180||HD||선택곡 3곡 번호 합≥13||
+==== 설명 ====
+
+[I want You]가 빠졌다. 또한 보스곡 출현 조건이 변경되었기 때문에 [Grave Consequence]를 띄우기가 꽤나 쉬워졌다. 
+
+=== [DJMAX TECHNIKA 3] ===
+==== 수록곡 일람 ====
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||1||6||Teen Pop||[[Secret World]]||[Sweetune]||110||HD|| ||
+||2||6||Urban Pop||[Ruti'n]||[BEXTER]||120||HD|| ||
+||3||6||Euro Dance||[Ready Now]||[Ruby Tuesday]||135||HD||||
+||4||7||Electronica||[Love Mode]||[Clazziquai]||120||MX|| ||
+||5||7||Electro House||[Play the Future]||[Urbatronic Chopsticks]||128||MX|| ||
+||6||7||New Wave||[Flea]||[Clazziquai]||127||MX||상위 루트 필수선택 ||
+||B1||8||Technical House||[Beyond the Future]||[7 Sequence]||130||MX||선택곡 3곡 번호 합<13||
+||B2||8||DnB Trance||[Grave Consequence]||[Tsukasa]||180||HD||선택곡 3곡 번호 합≥13||
+==== 설명 ====
+다른 구 세트들과 같이 그대로 유지되었다. 다만 문제는 계속되는 난이도 인플레때문에 사실상 HARD Performance와 비슷한 난이도가 되어버렸다는 것.
+=== 관련 항목 ===
+ * [wiki:"DJMAX TECHNIKA#s-2.5" DJMAX TECHNIKA]
+ * [DJMAX TECHNIKA 2/데이터]
+ * [DJMAX TECHNIKA 3/데이터]

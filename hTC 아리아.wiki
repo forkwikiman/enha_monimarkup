@@ -1,0 +1,32 @@
+[[hTC]] Aria
+http://www.wired.com/images/productreviews/2010/06/pr_htc_aria_f.jpg&width=600
+[[목차]]
+== 개요 ==
+HTC에서 만든 [wiki:안드로이드(OS) 안드로이드]기반 중급형[* 보급형으로 분류되기도 하였으나, 확실한 보급형인 wiki:"와일드파이어" 가 출시되면서 중급형으로 분류됨.] [[스마트폰]]이다.
+
+해외에는 2010년 6월 22일 AT&T를 통해 발표되었으며, 국내 출시는 불투명하다. 
+
+비슷한 스펙의 [[wiki:"hTC 레전드" 레전드]]가 이미 출시되어 있기 때문이라는 말이 있으며, AT&T를 위한 독점 전략폰이라 그렇다는 말도 있다.
+
+{{{#!html
+<object width="595" height="360"><param name="movie" value="http://www.youtube.com/v/mg338vZKisE?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/mg338vZKisE?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="595" height="360"></embed></object>
+}}}
+
+== 사양 ==
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] MSM7227 [[SoC]], [[ARM]]11 600Mhz [[CPU]], 퀄컴 Adreno 130[[GPU]]||
+||[[메모리]]||384MB LPDDR1 SDRAM, 512 MB 내장 메모리, MicroSD지원 (최대 32 GB 지원) ||
+||[[디스플레이]]||3.2인치 [[HVGA]](320x480)RG-BG 펜타일 서브픽셀 방식의 SMD [[AMOLED]][[br]]멀티터치 지원 정전식 터치 스크린 ||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11 b/g||
+||[[카메라]]||후면 500만 화소 [[AF]], [[LED]] 플래시||
+||[[배터리]]||Li-Ion 1200 mAh||
+||[[운영체제]]||[[안드로이드]] 2.1 (Eclair)||
+||규격||103.8 x 57.7 x 11.7 mm, 115g ||
+||기타 || ||
+== 상세 ==
+동사의 하이엔드 스마트폰인 [[EVO 4G]]를 줄여놓은 듯한 디자인으로, 디자인에서 알 수 있듯이 EVO 4G의 간략화 제품이다. 3.2인치 LCD를 탑재하였으며, 거대한 크기를 자랑하던 EVO 4G에 비하여 크기가 굉장히 작아졌다는 것을 알 수 있다. 안드로이드 기본 4버튼을 EVO 4G에서 실제 버튼을 장착하여 직관적으로 조작할 수 있게 하였다면, 아리아에서는 이를 간소화시켜 [[넥서스 원]]과 같은 터치식 버튼을 채용하였다. 단, EVO 4G에는 없던 OTP(광학마우스)를 내장하여 사용감을 개선시켰다.
+
+같은 회사의 스마트폰인 [[wiki:"hTC 레전드" 레전드]]와 CPU 및 여러 가지 스펙이 거의 같다. CPU는 주로 피쳐폰에 사용되는 퀄컴의 MSM 시리즈 중 스마트폰에 대응하는 600Mhz급으로, 이는 [[안드로원]]이나 [[아이폰]] 3GS와 비슷한 성능의 칩셋이다. 하지만 hTC 특유의 SENSE UI를 적용하여 반응성이나 사용감 자체는 쾌적하다는 평이다. 단, 레전드에 비해서는 배터리 용량이 1200mAh로 약간 작은편이다. 폰 자체의 크기도 약간 작다.
+
+무난한 직사각형 디자인으로, 주로 성인 및 비즈니스계통의 수요층을 타겟으로 한 것으로 보이며, 특히 기존의 안드로이드에서 잘 드러나지 않았던 기업 환경에 최적화된 비즈니스 기능과 함께 SNS(소셜 네트워크 서비스) 측면을 강조하여 마케팅을 하고 있는 중이다.
+
+

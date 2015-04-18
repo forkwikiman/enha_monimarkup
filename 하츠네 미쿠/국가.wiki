@@ -1,0 +1,95 @@
+ * 상위 항목 : [[하츠네 미쿠]]
+
+[[하츠네 미쿠]]가 여러 나라의 [wiki:"국가#s-2" 국가]를 부른 영상을 링크하는 페이지. 
+ * 목차 제목은 '''국가 - 한국어 곡명(또는 리그베다 위키에 등재된 제목)'''으로 하고, 대륙별로 국명 가나다순 정렬해 주시기 바랍니다.
+
+[[목차]]
+
+= 아시아 =
+== [[대한민국]] - [애국가] ==
+{{{#!html
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=ACAD3D7532D6D8CFEFB2E863F834BFEAE725&outKey=V123b70f7b70a48c243544aaac45aa20d9c9970d6eb9a6e8a6b984aaac45aa20d9c99" frameborder="no" scrolling="no"></iframe>}}}
+== [[말레이시아]] - [Negaraku] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/ZfP5RnAU1us?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZfP5RnAU1us?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[이스라엘]] - [wiki:"희망#s-2"희망] ==
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/a0-n1kNqf1s?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/a0-n1kNqf1s?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+== [[인도네시아]] - [Indonesia Raya] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/GeBWEq-bwug?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GeBWEq-bwug?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[일본]] - [기미가요] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/5zO4PnGtldc?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5zO4PnGtldc?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[중화인민공화국]] - [의용군 진행곡] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/PjHHVkNHE3s?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PjHHVkNHE3s?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[중화민국]] - [삼민주의] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/lSNsokbkgXc?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lSNsokbkgXc?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[필리핀]] - [Lupang Hinirang] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/eh9AK7mPM7I?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/eh9AK7mPM7I?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+
+= 유럽 =
+== [[그리스]] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/2weR9H9k8MI?version=3&amp;hl=en_US"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/2weR9H9k8MI?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></object>}}}
+== [[프랑스]] - [[라 마르세예즈]] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/5aUmqYY2HF4?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5aUmqYY2HF4?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[독일]] - [[독일인의 노래]] ==
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/Q8jSar45nJo?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Q8jSar45nJo?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>}}}
+== [[러시아]] - [러시아 연방 국가] ==
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/pcNjzWuGoCk?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pcNjzWuGoCk?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+처음 1초 부분에 'Made in KOREA'가 쓰여 있는 것으로 보아 [[대한민국]]에서 제작된 영상으로 보인다.
+== [[아르메니아]] - [[우리의 조국]] ==
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/rRgh62U03NE?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rRgh62U03NE?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+== [[우크라이나]] - [[우크라이나의 영광은 사라지지 않으리]] ==
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/rYAVLWmVjx4?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rYAVLWmVjx4?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+== [[핀란드]] - [wiki:"Maamme" 우리 나라] ==
+{{{#!html
+<object width="640" height="375"><param name="movie" value="http://www.youtube.com/v/tMMacfUdzVQ?fs=1&amp;hl=ko_KR&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tMMacfUdzVQ?fs=1&amp;hl=ko_KR&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>}}}
+== [[노르웨이]] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/ytgc-6nqmf4?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ytgc-6nqmf4?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[오스트리아]] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/PxVOLKD5VR0?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PxVOLKD5VR0?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[스웨덴]] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/uHCmbMxSqoE?version=3&amp;hl=en_US"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/uHCmbMxSqoE?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></object>}}}
+= 오세아니아 =
+= 북아메리카 =
+== [[캐나다]] - [[O Canada]] ==
+{{{#!html
+<object width="960" height="750"><param name="movie" value="http://www.youtube.com/v/UZl_bxcimss?fs=1&amp;hl=ko_KR&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UZl_bxcimss?fs=1&amp;hl=ko_KR&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>}}}
+= 남아메리카 =
+== [[아르헨티나]] ==
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/94VzDYYtLDI?version=3&amp;hl=en_US"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/94VzDYYtLDI?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></object>}}}
+== [[페루]] - [Himno nacional del Perú] ==
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/2bZqBenvhFc?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2bZqBenvhFc?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+== [[칠레]] ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/WSHWbL1mRG8?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/WSHWbL1mRG8?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+= 아프리카 =
+= 기타 =
+ * 이 부분에는 여러 나라의 국가를 이어 놓은 영상이 들어갑니다. 목차 제목은 재생 순서대로.
+
+== [[프랑스]], [[독일]], [[네덜란드]], [[이탈리아]], [[영국]], [[미국]] ==
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/muPQ7hwEYvk?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/muPQ7hwEYvk?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>}}}
+ * [[프랑스]] - [[라 마르세예즈]]
+ * [[독일]] - [[독일인의 노래]]
+ * [[네덜란드]] - [[나사우의 빌렘]]
+ * [[이탈리아]] - [[마멜리 찬가]]
+ * [[영국]] - [[God save the Queen]]
+ * [[미국]] - [wiki:"성조기#s-2" 성조기]

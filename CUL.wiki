@@ -1,0 +1,45 @@
+[[include(틀:VOCALOID)]]
+
+[[목차]]
+
+== 개요 ==
+CUL는 [[인터넷(기업)|인터넷]] 사가 개발한 [[VOCALOID|VOCALOID3]] 음원이자 캐릭터다. 일본에서는 'CUL'이라 쓰고 '카루(カル)'라고 읽는다. 서양권에서는 '쿨'이라고 읽는 듯. 성우는 [[키타무라 에리]]. 발매일은 [[2011년]] [[12월 22일]].
+
+== 프로필 ==
+||||<#FFFFFF> attachment:cul_all02.jpg?width=300 ||
+||성별 ||여자 ||
+||나이 ||16세 ||
+||키 ||157 cm ||
+||몸무게 ||불명(공식 프로필에 Secret이라고 쓰여있다.) ||
+
+== 설명 ==
+원래는 'VOCALO Revolution'이라는 프로젝트의 마스코트 캐릭터였으나 [[인터넷(기업)|인터넷]] 사에서 목소리를 주어서 정식 보컬로이드가 되었다. 이전에는 [[VY1]]의 목소리를 빌려 사용했었다. 초기의 CUL은 인기 성우인 키타무라 에리를 기용한 만큼 성우덕들이나 보컬로이드 덕후들에게도 기대를 모았었다. 그리고 키타무라 에리의 소속사에서 CUL X [[키타무라 에리]]의 화보집도 내는 등 CUL과 키타무라 에리가 함께하는 여러가지 프로젝트를 진행햇었다.
+
+담당 성우의 목소리를 그대로 재현하는 것을 목표로 하는 인터넷사이니 키타무라 에리의 팬이라면 기대해도 좋을 듯하다. 역으로 말하면 키타무라 에리가 연기하지 않은 원래의 키타무라 에리를 기대해야하는 것이고, 키타무라 에리가 연기했었던 캐릭터의 목소리가 될 일은 없다.
+
+실제 음색은 약간 콧소리가 들어간 높은 여자아이의 목소리. 붉은 컬러의 활동적인 캐릭터와 맞물려서, 약간 성깔있게 들리는 목소리가 매력적이다. 90년대 애니메이션 캐릭터 같다는 평가도 있다. 
+
+하지만 섬세한 소리를 내기는 어렵고 그렇다고 예쁜 목소리라고 하기에도 무언가 모자란 점이 있어서, 보컬로이드로서는 당분간 연구가 필요하다는 평가를 받고 있다. 그래도 지금까지 발매된 보컬로이드 중에서는, 제작자들의 취향면에서 제일 어울리는 편이라고. 
+
+== 데모 곡 ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/vYdXnyUojho?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vYdXnyUojho?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+== 공개 이후 ==
+첫 공개 이후, 보컬로이드 계열에선 전에 없던 정열적이고 활동적인 이미지 캐릭터와 인터넷 사의 이름이 합쳐져서 굉장한 시너지 효과를 냈다. 보컬로이드 3세대 중에서도 차별화된 보이쉬하고 강한 성격을 지닌 여성 보컬로이드. 하지만 발매되고 나서 생각보다 큰 반응은 이끌어내지 못하고 있다. 일단은 시유처럼 새로운 유료 MMD 모델이 나오고 새롭게 관심을 받는 구도도 생각해볼 수 있다. 일본 내에서의 평판은 2세대 GUMI보다도 못하다는 것 같지만, 이건 니코 등지에서 보컬로이드에 대한 관심이 죽어서 괜히 독박을 쓰고 있는 것에 가깝다.
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/65F05mH6YPo?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/65F05mH6YPo?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+ * [[월드 이즈 마인]] CUL Version
+
+그래도 성능 자체는 '''ROCK이 가능한 [[GUMI]]의 여동생'''이라고 불릴 정도로 뛰어나다. 고음, 특히 에코를 전혀 쓰지 않은 생목이 엄청난 성능. 아무리 조교를 잘 해도 어딘가 맹한 목소리를 내던 기존의 VOCALOID 라이브러리들에게서 찾기 힘들었던 힘찬 목소리를 들을 수 있다. 하지만 현재는 엄청나게 쏟아진 VOCALOID3 라이브러리들과 함께 사이 좋게 공기화가 되었다.
+
+== 기타 정보 ==
+ * 재킷을 벗은 뒷모습이 섹시하다는 평가가 있다. 거꾸로 말하자면 재킷을 입은 디자인이 구리다고 불평하는 사람들이 꽤 있다.
+ * [[프랑스]]권의 VOCALOID 팬들에게는 나름 충격을 주었다. 이름인 Cul은 프랑스어로 '엉덩이'라는 뜻이기 때문. Cul이 사용된 영상이 불어자막을 입혀 유투브 등지에 올리면 반드시 누군가가 지적한다.
+
+== 바깥 고리 ==
+ * [[http://vocarevo.com/culproject/ CUL 공식 홈페이지]]
+

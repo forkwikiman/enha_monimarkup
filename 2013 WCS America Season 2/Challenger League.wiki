@@ -1,0 +1,216 @@
+ * 상위항목: [2013 WCS America Season 2]
+[[목차]]
+= 선수 목록 =
+황색에 해당하는 선수는 1라운드에서, 연청색에 해당하는 선수는 3라운드에서 시작한다.
+
+||<tablealign=center><rowbgcolor="#70F170"><-3><:>attachment:Picon_small.png||<#7CB9E8><-3><:>attachment:Ticon_small.png||<#F4C2C2><-3><:>attachment:Zicon_small.png||<#E4D00A><-3><:>attachment:Ricon_small.png||
+||<rowbgcolor="#FFFF00"><-12><:>Season 1 Group Stage 조 3위(8명)||
+|| attachment:Ar.png || Capoch || [attachment:Isurusgaminglogo_std.png][[br]]Isurus Gaming || attachment:Ca.png || Drunkenboi || [wiki:"ROOT Gaming"attachment:Rootlogo_std.png] || attachment:Us.png || [Goswser] || [wiki:"Millenium"attachment:Milllogo_std.png] || attachment:Nz.png || Tilea || [attachment:Denialesports_std.png][[br]]Denial eSports ||
+|| attachment:Us.png || State || (무소속) |||||| || attachment:Tw.png || [Sen] || [attachment:Gamabearslogo_std.png][[br]]Gama Bears ||
+|| attachment:Us.png || hellokitty || [wiki:"Fnatic"attachment:Fnaticlogo_std.png] |||||| || attachment:Cl.png || KiLLeR || [attachment:TeamPartClarity.png][[br]]Clarity Gaming ||
+||<rowbgcolor="#FFFF00"><-12><:>Season 2 Challenger League 예선 통과(8명)||
+|| attachment:Kr.png || 윤명혁 || (무소속) || attachment:Kr.png || [김영일] || [wiki:"StarTale"attachment:Startalelogo_std.png] || attachment:Kr.png || [고석현] || [wiki:"Quantic Gaming"attachment:Quantic_std.png] ||
+|||||| || attachment:Kr.png || 배상환 || attachment:Startalelogo_std.png || attachment:Kr.png || [한지원] || [wiki:"Incredible Miracle"attachment:IMlogo_std.png] ||
+|||||| || attachment:Kr.png || [최재성] || attachment:Quantic_std.png ||
+|||||| || attachment:Kr.png || [김민혁] || [wiki:"Axiom"attachment:Axiomlogo_std.png] ||
+|||||| || attachment:Kr.png || [류경현] || (무소속) ||
+||<rowbgcolor="#FFFF00"><-12><:>Season 2 Premier League 1라운드 탈락(16명)||
+|| attachment:Kr.png || [송현덕] || [wiki:"Teamliquid"attachment:Liquidlogo_std.png] || attachment:Mx.png || [MajOr] || (무소속) || attachment:Us.png || ViBE || attachment:Rootlogo_std.png ||
+|| attachment:Cn.png || Top || [attachment:Zoo_std.png][[br]]Zenith of Origin || attachment:Us.png || Neeb || [wiki:"FXOpen"attachment:FXOlogo_std.png] || attachment:Kr.png || [임재덕] || attachment:IMlogo_std.png ||
+|| attachment:Kr.png || 황승혁 || attachment:Quantic_std.png || attachment:Kr.png || 김민형 || attachment:Quantic_std.png || attachment:Au.png || [mOOnGLaDe] || [attachment:Nvlogo_std.png][[br]]GAMECOM Nv ||
+|| attachment:Us.png || puCK || attachment:Rootlogo_std.png || attachment:Cn.png || XY || [wiki:"Invictus Gaming/스타크래프트 2"attachment:IGlogo_std.png] || attachment:No.png || [Snute] || attachment:Liquidlogo_std.png ||
+|| attachment:Ca.png || [HuK] || [wiki:"Evil Geniuses"attachment:Eglogo_std.png] || attachment:Us.png || theognis || attachment:Rootlogo_std.png || attachment:Us.png || [Suppy] || attachment:Eglogo_std.png || 
+|||||| || attachment:Kr.png || [최연식] || [wiki:"compLexity Gaming"attachment:Complexitylogo_std.png] ||
+||<rowbgcolor="#6CA0DC"><-12><:>Season 2 Premier League 2라운드 탈락(8명)||
+|| attachment:Us.png || Minigun || [wiki:"ROOT Gaming"attachment:Rootlogo_std.png] || attachment:Kr.png || [김동원] || [wiki:"Axiom"attachment:Axiomlogo_std.png] || attachment:Kr.png || [wiki:"김동환(프로게이머)"김동환] || (무소속) || 
+|| attachment:Kr.png || [우경철] || [wiki:"ROOT Gaming"attachment:Rootlogo_std.png] || attachment:Uk.png || [DeMusliM] || [wiki:"EG"attachment:Eglogo_std.png] || attachment:Kr.png || [김동현] || [wiki:"EG"attachment:Eglogo_std.png] ||
+|| attachment:Kr.png || [최재원] || [wiki:"Axiom"attachment:Axiomlogo_std.png] ||
+|| attachment:Kr.png || [양준식] || [wiki:"Axiom"attachment:Axiomlogo_std.png] ||
+= 대회 결과 =
+금색에 해당하는 선수는 다음 시즌 프리미어 리그에 진출하고, 은색에 해당하는 선수는 다음 시즌 챌린저 리그에 잔류한다.
+
+||<tablealign=center> '''성적''' || '''상금''' || '''포인트''' ||<-4><:>'''성명'''('''ID''')||
+||<#FFD700><|2><:>Bracket Stage 통과||<|2> $300||<|2> 100점|| 임재덕 || 한지원 || DeMusliM || Minigun ||
+|| 송현덕 || Top || Sen || 김동현 ||
+||<#FFD700><|2><:>Group Stage 조 1위||<|2> $200||<|4> 50점|| 최재원 || 우경철 || 김민혁 || 황승혁 ||
+|| 윤명혁 || ViBE || 김민형 || HuK ||
+||<#FFD700><|2><:>Group Stage 조 2위||<|2> $100|| Goswser || Suppy || MajOr || puCK ||
+|| 고석현 || Neeb || 김영일 || 최연식 ||
+||<#C0C0C0><|2><:>Group Stage 조 3위||<|4>||<|4> 25점|| Tilea || Snute || 양준식 || mOOnGLaDe ||
+|| State || Drunkenboi || 류경현 || 김동원 ||
+||<|2><:>Group Stage 조 4위|| Capoch || XY || 배상환 || theognis ||
+|| 김동환 || hellokitty || 최제성 || KiLLeR ||
+= 종족 비율 =
+ * Bracket Stage
+  * Round 1: [attachment:Ticon_small.png]12, [attachment:Zicon_small.png]10, [attachment:Picon_small.png]9, [attachment:Ricon_small.png]1
+  * Round 2: [attachment:Ticon_small.png]4, [attachment:Zicon_small.png]4, [attachment:Picon_small.png]7, [attachment:Ricon_small.png]1
+  * Round 3: [attachment:Ticon_small.png]4, [attachment:Zicon_small.png]5, [attachment:Picon_small.png]7
+  * Stage 통과: [attachment:Ticon_small.png]1, [attachment:Zicon_small.png]4, [attachment:Picon_small.png]3
+ * Group Stage: [attachment:Ticon_small.png]13, [attachment:Zicon_small.png]8, [attachment:Picon_small.png]10, [attachment:Ricon_small.png]1
+  * Stage 통과: [attachment:Ticon_small.png]6, [attachment:Zicon_small.png]4, [attachment:Picon_small.png]6
+= 리그의 진행 =
+== 예선 ==
+=== 주요 참가자 목록 ===
+ * 한국인 선수
+  * [한국e스포츠협회] 소속: [변현제], [신혜성], [원선재], 고인빈
+  * [e스포츠 연맹] 소속: 김태균, [wiki:"김정훈(프로토스)"김정훈], [최종혁], [한지원], [김민혁], [김영일], ["이인수(프로게이머)"이인수], 배상환, [조명환]
+  * 해외팀 소속: [최재성], [고석현], ["최정민(프로게이머)"최정민], ["김정훈(테란)"김정훈], ["주훈(프로게이머)"주훈]
+  * 무소속: 윤명혁, 류경현
+ * 비한국인 선수
+  * 아시아·오세아니아: XiGua, PiG, Comm, Loner, Ian
+  * 북미: Xenocider, NonY, TriMaster, hendralisk, MaSsan, [qxc], flo
+=== 예선 통과자 목록 ===
+ * Day 1: 고석현(HyuN), 김영일(Hack)
+ * Day 2: 윤명혁(Arthur), 배상환(Sound)
+ * Day 3: 한지원(Byul), 최재성(Center)
+ * Day 4: 김민혁(Heart), 류경현(SeleCT)
+== Bracket Stage ==
+ * 지난 시즌 챌린저 리그 Group Stage에서 조 3위를 기록한 8명과 이번 시즌 챌린저 리그 예선을 통과한 8명이, 이번 시즌 프리미어 리그 32강에서 조 3·4위를 기록한 16명과 각각 1:1로 겨뤄 승자가 2라운드에 진출한다.
+ * 2라운드에 진출한 16명이 2명씩 맞붙어 승자가 3라운드에 진출한다.
+ * 3라운드에 진출한 8명은 프리미어 리그 16강 탈락자 8명과 각각 1:1로 겨뤄 승자가 다음 시즌 프리미어 리그에 진출한다.
+ * 각 라운드 탈락자는 Group Stage로 이동한다.
+=== Round 1 ===
+||<tablealign=center><-6><:>1라운드 1일차(7월 29일 15:00)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 3경기 || [attachment:Ticon_small.png]MajOr || 0 || [attachment:Zicon_small.png]한지원 || 2 || 아킬론 황무지, 뉴커크 재개발 지구 ||
+|| 1경기 || [attachment:Ticon_small.png]김민형 || 2 || [attachment:Ticon_small.png]최재성 || 0 || 아킬론 황무지, 네오 플래닛 S ||
+|| 2경기 || [attachment:Zicon_small.png]고석현 || 1 || [attachment:Picon_small.png]puCK || 2 || 뉴커크 재개발 지구, {{{#ff0000 벨시르 잔재}}}, 네오 플래닛 S ||
+|| 4경기 || [attachment:Picon_small.png]황승혁 || 부전승 || [attachment:Ticon_small.png]배상환 || 기권 ||
+
+후안 로페즈의 일정 관계로 3경기를 제일 먼저 실시했다.
+
+||<tablealign=center><-6><:>1라운드 2일차(7월 30일 15:00)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 3경기 || [attachment:Zicon_small.png]mOOnGLaDe || 1 || [attachment:Ricon_small.png]Tilea[* 저그로 플레이] || 2 || 아킬론 황무지, {{{#ff0000 외로운 파수꾼}}}, 뉴커크 재개발 지구 ||
+|| 1경기 || [attachment:Ticon_small.png]Neeb || 2 || [attachment:Ticon_small.png]Drunkenboi || 1 || 뉴커크 재개발 지구, {{{#ff0000 벨시르 잔재}}}, 아킬론 황무지 ||
+|| 2경기 || [attachment:Zicon_small.png]임재덕 || 2 || [attachment:Zicon_small.png]Goswser || 0 || 뉴커크 재개발 지구, 외로운 파수꾼 ||
+|| 4경기 || [attachment:Zicon_small.png]ViBE || 0 || [attachment:Zicon_small.png]Sen || 2 || 네오 플래닛 S, 벨시르 잔재 ||
+
+일정 상의 문제인지 3경기를 제일 먼저 실시했다. --그러고보니 오세아니아 더비--
+
+||<tablealign=center><-6><:>1라운드 3일차(7월 31일 15:00)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]theognis || 0 || [attachment:Picon_small.png]Hellokitty || 2 || 뉴커크 재개발 지구, 외로운 파수꾼 ||
+|| 2경기 || [attachment:Zicon_small.png]Suppy || 0 || [attachment:Ticon_small.png]김영일 || 2 || 뉴커크 재개발 지구, 네오 플래닛 S ||
+
+Top과 Capoch가 맞붙기로 예정된 3경기, XY와 김민혁이 맞붙기로 예정된 4경기는 패치 일정 관계로 연기되었다.
+이후 XY가 기권하면서 김민혁은 2라운드에 무혈입성했다.
+
+||<tablealign=center><-6><:>1라운드 4일차(8월 1일 15:00)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]최연식 || 1 || [attachment:Picon_small.png]State || 2 || 벨시르 잔재, {{{#ff0000 외로운 파수꾼}}}, 뉴커크 재개발 지구 ||
+|| 2경기 || [attachment:Zicon_small.png]Snute || 2 || [attachment:Zicon_small.png]KiLLeR || 0 || 뉴커크 재개발 지구, 네오 플래닛 S ||
+|| 3경기 || [attachment:Picon_small.png]송현덕 || 2 || [attachment:Ticon_small.png]류경현 || 0 || 아킬론 황무지, 코랄 둥둥섬 ||
+|| 4경기 || [attachment:Picon_small.png]HuK || 2 || [attachment:Picon_small.png]윤명혁 || 0 || 벨시르 잔재, 외로운 파수꾼 ||
+
+||<tablealign=center><-5><:>1라운드 5일차(8월 6일)||
+|| '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Picon_small.png]Top || 2 || [attachment:Picon_small.png]Capoch || 0 ||
+=== Round 2 ===
+||<tablealign=center><-6><:>2라운드 1일차 (8월 12일 15:00)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]임재덕 || 2 || [attachment:Ticon_small.png]김민혁 || 0 || 붉은 도시, 외로운 파수꾼 ||
+|| 2경기 || [attachment:Zicon_small.png]한지원 || 2 || [attachment:Ricon_small.png]Tilea[* 저그로 플레이] || 0 || 네오 플래닛 S, 뉴커크 재개발 지구 ||
+|| 3경기 || [attachment:Picon_small.png]puCK || 0 || [attachment:Ticon_small.png]Neeb || 2 || 벨시르 잔재, 아킬론 황무지 ||
+|| 4경기 || [attachment:Zicon_small.png]Snute || 0 || [attachment:Ticon_small.png]김민형 || 2 || 벨시르 잔재, 네오 플래닛 S ||
+
+||<tablealign=center><-6><:>2라운드 2일차 (8월 13일 15:00) ||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]HuK || 0 || [attachment:Zicon_small.png]Sen || 2 || 밸시르 잔재, 뉴커크 재개발 지구||
+|| 2경기 || [attachment:Picon_small.png]황승혁 || 2 || [attachment:Picon_small.png]hellokitty || 0 || 아킬론 황무지, 외로운 파수꾼 ||
+|| 3경기 || [attachment:Picon_small.png]Top || 2 || [attachment:Ticon_small.png]김영일 || 0 || 밸시르 잔재, 뉴커크 재개발 지구 ||
+|| 4경기 || [attachment:Picon_small.png]송현덕 || 2 || [attachment:Picon_small.png]State || 0 || 밸시르 잔재, 네오 플래닛 S ||
+=== Round 3 ===
+||<tablealign=center><-6><:>3라운드 1일차(8월 14일 15시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]김동환 || 기권 ||<#FFD700> [attachment:Zicon_small.png]임재덕 || 부전승 || ||
+|| 2경기 || [attachment:Ticon_small.png]김동원 || 0 ||<#FFD700> [attachment:Zicon_small.png]한지원 || 2 || 외로운 파수꾼, 뉴커크 재개발 지구 ||
+|| 3경기 ||<#FFD700> [attachment:Ticon_small.png]DeMusliM || 2 || [attachment:Ticon_small.png]Neeb || 0 || 아킬론 황무지, 뉴커크 재개발 지구 ||
+|| 4경기 ||<#FFD700> [attachment:Picon_small.png]Minigun || 2 || [attachment:Ticon_small.png]김민형 || 1 || {{{#ff0000 뉴커크 재개발 지구}}}, 아킬론 황무지, 네오 플래닛 S||
+
+||<tablealign=center><-6><:>3라운드 2일차(8월 15일 15시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]양준식 || 1 ||<#FFD700> [attachment:Picon_small.png]송현덕 || 2 || {{{#ff0000 벨시르 잔재}}}, 네오 플래닛 S, 아킬론 황무지 ||
+|| 2경기 || [attachment:Picon_small.png]우경철 || 0 ||<#FFD700> [attachment:Picon_small.png]Top || 2 || 네오 플래닛 S, 벨시르 잔재 ||
+|| 3경기 || [attachment:Picon_small.png]최재원 || 0 ||<#FFD700> [attachment:Zicon_small.png]Sen || 2 || 벨시르 잔재, 외로운 파수꾼 ||
+|| 4경기 ||<#FFD700> [attachment:Zicon_small.png]김동현 || 2 || [attachment:Picon_small.png]황승혁 || 0 || 벨시르 잔재, 네오 플래닛 S ||
+
+--정의는 승리한다 시즌 2--
+== Group Stage ==
+ * Bracket Stage에서 탈락한 32명을 4명씩 8개 조로 편성하여 조별 더블 엘리미네이션 방식으로 순위를 가린다.
+ * 조 1·2위(금색)는 다음 시즌 프리미어 리그에 진출한다.
+ * 조 3위(은색)는 다음 시즌 챌린저 리그에 잔류한다.
+ * 조 4위는 WCS에서 퇴출당한다(다음 시즌 챌린저 리그 예선부터 다시 시작해야 한다).
+||<tablealign=center><-6><:>A조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]최재원 || 2 || [attachment:Picon_small.png]Capoch || 0 || 벨시르 잔재, 아킬론 황무지 ||
+|| 2경기 || [attachment:Ricon_small.png]Tilea || 1 || [attachment:Zicon_small.png]Goswser || 2 || 외로운 파수꾼, {{{#ff0000 벨시르 잔재}}}, 뉴커크 재개발 지구 ||
+|| 승자전 ||<#FFD700> 최재원 || 2 || Goswser || 0 || 벨시르 잔재, 외로운 파수꾼 ||
+|| 패자전 || Capoch || 1 || Tilea || 2 || 뉴커크 재개발 지구, {{{#ff0000 네오 플래닛 S}}}, 아킬론 황무지 ||
+|| 최종전 ||<#FFD700> Goswser || 2 ||<#C0C0C0> Tilea || 0 || 외로운 파수꾼, 벨시르 잔재 ||
+
+||<tablealign=center><-6><:>B조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]우경철 || 2 || [attachment:Ticon_small.png]XY || 0 || 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| 2경기 || [attachment:Zicon_small.png]Snute || 1 || [attachment:Zicon_small.png]Suppy || 2 || {{{#ff0000 뉴커크 재개발 지구}}}, 네오 플래닛 S, 외로운 파수꾼 ||
+|| 승자전 ||<#FFD700> 우경철 || 2 || Suppy || 1 || {{{#ff0000 벨시르 잔재}}}, 뉴커크 재개발 지구, 아킬론 황무지 ||
+|| 패자전 || XY || 0 || Snute || 2 || 뉴커크 재개발 지구, 아킬론 황무지 ||
+|| 최종전 ||<#FFD700> Suppy || 2 ||<#C0C0C0> Snute || 1 || 벨시르 잔재, {{{#ff0000 네오 플래닛 S}}}, 뉴커크 재개발 지구 ||
+
+||<tablealign=center><-6><:>C조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]양준식 || 부전승 || [attachment:Ticon_small.png]배상환 || 기권 ||
+|| 2경기 || [attachment:Ticon_small.png]김민혁 || 2 || [attachment:Ticon_small.png]MajOr || 0 || 벨시르 잔재, 아킬론 황무지 ||
+|| 승자전 || 양준식 || 1 ||<#FFD700> 김민혁 || 2 || 붉은 도시, {{{#ff0000 아킬론 황무지}}}, 네오 플래닛 S ||
+|| 패자전 || 배상환 || 기권 || MajOr || 부전승 ||
+|| 최종전 ||<#C0C0C0> 양준식 || 1 ||<#FFD700> MajOr || 2 || 뉴커크 재개발 지구, {{{#ff0000 네오 플래닛 S}}}, 벨시르 잔재 ||
+
+--정의는 승리한다 시즌 3--
+
+||<tablealign=center><-6><:>D조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]황승혁 || 부전승 || [attachment:Ticon_small.png]theognis || 기권 ||
+|| 2경기 || [attachment:Picon_small.png]puCK || 2 || [attachment:Zicon_small.png]mOOnGLaDe || 1 || {{{#ff0000 벨시르 잔재}}}, 아킬론 황무지, 네오 플래닛 S ||
+|| 승자전 ||<#FFD700> 황승혁 || 2 || puCK || 1 || {{{#ff0000 벨시르 잔재}}}, 아킬론 황무지, 네오 플래닛 S ||
+|| 패자전 || theognis || 기권 || mOOnGLaDe || 부전승 ||
+|| 최종전 ||<#FFD700> puCK || 2 ||<#C0C0C0> mOOnGLaDe || 0 || 벨시르 잔재, 아킬론 황무지 ||
+
+||<tablealign=center><-6><:>E조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]김동환 || 기권 || [attachment:Picon_small.png]윤명혁 || 부전승 ||
+|| 2경기 || [attachment:Picon_small.png]State || 2 || [attachment:Zicon_small.png]고석현 || 0 || 외로운 파수꾼, 벨시르 잔재 ||
+|| 승자전 ||<#FFD700> 윤명혁 || 2 || State || 0 || 벨시르 잔재, 외로운 파수꾼 ||
+|| 패자전 || 김동환 || 기권 || 고석현 || 부전승 ||
+|| 최종전 ||<#C0C0C0> State || 1 ||<#FFD700> 고석현 || 2 || {{{#ff0000 뉴커크 재개발 지구}}}, 벨시르 잔재, 아킬론 황무지 ||
+
+듀얼 토너먼트 시스템의 맹점!
+
+무조건 '''최후에 GG를 받는 자가 승자'''라는 진실을 적나라하게 보여준 사례. 3승 2패를 거둔 State가 2승 3패를 거둔 고석현에게 최종전에서 2패를 했다는 이유로 챌린저 리그에 남게 되었다.
+
+한편, 고석현이 프리미어 리그에 진출하면서 드디어 프리미어 리그 한국인 점유율이 절반을 넘어서게 됐다! 흠좀무.
+
+||<tablealign=center><-6><:>F조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]Neeb || 2 || [attachment:Ticon_small.png]Drunkenboi || 0 || 뉴커크 재개발 지구, 아킬론 황무지 ||
+|| 2경기 || [attachment:Picon_small.png]hellokitty || 1 || [attachment:Zicon_small.png]ViBE || 2 || {{{#ff0000 벨시르 잔재}}}, 아킬론 황무지, 뉴커크 재개발 지구 ||
+|| 승자전 || Neeb || 1 ||<#FFD700> ViBE || 2 || {{{#ff0000 뉴커크 재개발 지구}}}, 벨시르 잔재, 네오 플래닛 S ||
+|| 패자전 || Drunkenboi || 2 || hellokitty || 1 || 뉴커크 재개발 지구, {{{#ff0000 아킬론 황무지}}}, 벨시르 잔재 ||
+|| 최종전 ||<#FFD700> Neeb || 2 ||<#C0C0C0> Drunkenboi || 1 || 벨시르 잔재, {{{#ff0000 아킬론 황무지}}}, 뉴커크 재개발 지구 ||
+
+||<tablealign=center><-6><:>G조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]김민형 || 2 || [attachment:Ticon_small.png]류경현 || 0 || 뉴커크 재개발 지구, 벨시르 잔재 ||
+|| 2경기 || [attachment:Ticon_small.png]김영일 || 2 || [attachment:Ticon_small.png]최제성 || 1 || 아킬론 황무지, {{{#ff0000 뉴커크 재개발 지구}}}, 벨시르 잔재 ||
+|| 승자전 ||<#FFD700> 김민형 || 2 || 김영일 || 1 || 뉴커크 재개발 지구, {{{#ff0000 아킬론 황무지}}}, 벨시르 잔재 ||
+|| 패자전 || 류경현 || 2 || 최제성 || 1 || 아킬론 황무지, {{{#ff0000 벨시르 잔재}}}, 뉴커크 재개발 지구 ||
+|| 최종전 ||<#FFD700> 김영일 || 2 ||<#C0C0C0> 류경현 || 0 || 뉴커크 재개발 지구, 외로운 파수꾼 ||
+
+--4명의 한국인, 4명의 테란. 완벽하다.--
+
+||<tablealign=center><-6><:>H조||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]김동원 || 2 || [attachment:Zicon_small.png]KiLLeR || 0 || 외로운 파수꾼, 뉴커크 재개발 지구 ||
+|| 2경기 || [attachment:Picon_small.png]HuK || 2 || [attachment:Ticon_small.png]최연식 || 0 || 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| 승자전 ||<#FFD700> HuK || 2 || 김동원 || 1 || 벨시르 잔재, {{{#ff0000 코랄 둥둥섬}}}, 외로운 파수꾼 ||
+|| 패자전 || 최연식 || 2 || KiLLeR || 0 || 외로운 파수꾼, 아킬론 황무지 ||
+|| 최종전 ||<#C0C0C0> 김동원 || 1 ||<#FFD700> 최연식 || 2 || {{{#ff0000 붉은 도시}}}, 네오 플래닛 S, 아킬론 황무지 ||

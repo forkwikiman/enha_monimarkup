@@ -1,0 +1,47 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [DJMAX Portable Clazziquai Edition] ||
+|| 작곡 || [[3rd Coast]] ||
+|| 보컬 || [[So Fly]](보컬),[[JC]](랩) ||
+|| 배경  || Giggsan(3D,모션) ||
+|| 장르 || Pure House ||
+|| BPM || 120 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/2hxxcjk77S0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+3rd Coast가 예전에도 많이 보여줬던, 포근하면서도 따뜻한 느낌의 느린 발라드 풍의 곡. DJMAX 메트로 프로젝트 중, [[DJMAX TECHNIKA]]와 [DJMAX Portable Clazziquai Edition]에 수록되었다. 
+
+디제이맥스 게임 내에선 River Flow가 [[Luv Flow]]의 후속곡이라고 되어있지만.. 작곡가도 다르고.. 이 곡이 진짜 Luv Flow의 후속곡이 아닐까 하는 느낌.. 게임 내에서는 비인기곡이지만, 이 곡을 좋아하는 사람은 꽤 많다. 다만 게임에서의 컷팅은 좀 애매한 느낌이 들어서 별로 안했는데 끝나버리는 느낌이 심하게 드는 곡이다.
+
+포근하고 따뜻한 느낌의 곡에 맞추어.. BGA도 귀여운 카툰 랜더링으로 제작되었다. 구름을 베이스로 한 캐릭터의 부드러운 동작이 일품. 사실 [[Landscape]]등과 비견될수 있을 정도로 완성도 높은 비주얼 중 하나이지만.. 곡이 워낙에 묻혀버리는 바람에 비주얼도 따라서 묻혀 버린 비운의 비주얼 중 하나일듯.. 이런 곡도 한번쯤 감상해보자.
+
+여담으로 가사에 [[Luv is True]]가 있다. --[[wiki:"Luv is True"후속곡]] 암시--
+
+== [DJMAX Portable Clazziquai Edition] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/lZ0VFR_3C1c" frameborder="0" allowfullscreen></iframe>}}}
+
+(4B HD)
+
+클래지콰이 에디션에서도 상당히 낮은 난이도로, 입문용 곡 중 하나이다.
+
+== [DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/JlbAuP22cRg" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(TP)
+
+테크니카에서의 난이도는 LP 2, PP 3, TP 3. SP 패턴은 존재하지 않는다. PP는 1스테이지에서 등장한다. LP는 무난하지만, PP는 [[Dear my Lady]]와 더불어 3레벨 치고 상당히 어려운 편. 연결형 노트와, 후반의 연타 노트가 초보자들에게는 상당히 성가시고 까다로우며, 게다가 스크롤 속도가 상당히 느리면서, 곡 자체가 정박보다는 엇박 위주이기 때문에 박자를 놓치기 십상이다. 그래서인지, 파퓰러에서 아주 가끔 선택하는 것을 빼고는 거의 무시당하는 비운의 곡이다. 그나마 이 곡을 아는 사람도 드물다... 게다가 테크니컬 모드와 플래티넘 미션 모드에서도 채택되지 않은 관계로, 일부러 파퓰러로 들어가서 플레이해야한다는 불편함 때문에 잘 플레이되지 않는다. [[Motion]]과 [[Voyage]]와 함께, 테크니카 3대 비인기곡. 왜인지는 모르겠으나 미션이나 주별 코스에도 잘 채택되지 않는다. TP패턴은 8월 25일 Evolution EP 패치와 함께 업데이트되었다. PP패턴에 어느정도 살을 덧붙인 느낌. PP와 난이도표기는 같은데, PP패턴자체도 3레벨 치고 매우 어려운 편이었던 탓에 괴악한 [[사기 난이도]]가 되어버렸다.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || ? || 8박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 3 || 8박 스크롤 || ※[지뢰곡] ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 5 || 8박 스크롤 || [wiki:"Cotton Candy"Cotton Candy Set] 셀렉곡, [wiki:"Metronom"미션 - Double Tempo] 수록 ||
+
+테크니카 2로 넘어와서 기존 TP패턴은 HD가 되었는데, 홀드노트 구간에서 나오던 분홍 겹노트였던 부분이 (같은 X축에 분홍노트 2개가 연달아 배치)분홍노트 한 개로 바뀌어 난이도가 하락하였다.
+당연히 기존의 PP패턴은 NM이고 팝믹싱 기준 난이도표기는 각각 NM 3 , HD 5 이다. 테크니카 3에서는 다른 변동이 없다. 미션 팩에서 HD패턴을 4박 스크롤로 즐겨 볼 수 있다.

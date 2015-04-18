@@ -1,0 +1,55 @@
+|| 장르 |||||||| Oriental Pop ||
+|| 곡명 |||||||| An Old Story ||
+|| 작곡 |||||||| [[Memme]][* 1.5, 2.0에선 God Hand 명의이며 본 명의는 CV부터 적용되었다. EZ2ON에선 그냥 본명의로 적혀있다.]  ||
+|| 배경 |||||||| [[wiki:"류난" YammyYammy]], [[imp17]][* [[Aquaris]] 리믹스에 나온 별담배를 재활용했기에 기재되었다.] (1.5, 2.0)[[br]][[범용 BGA]][* 타이틀 이미지는 ZBRANSTRIM이 제작.] (3.0~BErA)[[br]][[SR]], [[SADAHAM]][* 일러스트], [[RYUminus]][* 모션그래픽] ([[EZ2ON]]) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.5]] ||
+|| BPM |||||||| 87 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 1}}} || {{{#red 3}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 3}}} || {{{#red 5}}} || {{{#purple 8}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple 9}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!html
+<iframe width="425" height="349" src="http://www.youtube.com/embed/hshaxpPLtmI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+'''[[EZ2DJ 7thTRAX Ver 2.0]] 버전의 BGA'''
+
+== 개요 ==
+상당히 감미로운 곡이지만, 난이도가 매우 쉬웠고 1.5 버전 당시에는 BGA가 [[범용 BGA]]였기 때문에 다소 인기가 없는 곡이었다. 그러나 2.0 버전이 되면서, BGA가 EZ2DJ의 역사를 보여주는 BGA로 바뀌었는데, 곡과도 잘 어울리는 데다 감동적이기 때문에 반응이 좋아서 '찬가 3'라고도 불렸다. Ryunan과 Memme 사이에 비주얼에 관한 논쟁이 있었고, 결국 [[wiki:"EZ2DJ 7th CV" 7th CV]]에서는 BGA가 삭제되고 범용 BGA가 되었다. 타이틀 화면은 ZBRANSTRIM이 새로 그린 타이틀 화면으로 변경. 이 BGA의 진짜 의의는 EZ2DJ 구작들의 발매일을 알 수 있는 유일한 공식 매체라는 점이다[* 다만 틀린 점이 몇 개 있다. BGA에는 Platinum이 8월에 나왔다고 되어있지만, 실제로 오락실에 물량이 풀린 것은 9월이었다.].
+
+2.0 버전에서 레벨 8의 슈퍼하드 패턴도 추가되었지만, 역시 알지 못할 어른들의 사정으로 인하여 정작 5키 스트릿에서는 플레이 할 수 없었다. 후에 CV에서 5스트릿에서도 슈퍼하드 패턴을 플레이 할수 있게 되었다. 그러나, 레벨 8이라 보이기에는 너무나 겹겹이 쌓여있는 노트 채보와 엇박 페달 덕분에 레벨 8 최종보스 위치를 점하고 있다.
+
+캐치 채보에는 1~12까지 한 줄이 전부 다 나오는 파격적인 노트가 있다.
+
+== [[EZ2ON]]에서 ==
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/PW685B-kwLY?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/PW685B-kwLY?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+@온라인 버전의 BGA
+
+|| 해금 레벨[* 앞 숫자는 노래, 뒷 숫자는 SHD나 8키] |||||||||| 23/25 ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) ||  ||  ||  ||  || - ||
+|| 스트릿(5키) ||  ||  ||  ||  || - ||
+|| 클럽(6키/8키) || 4 || 6 || 10 || - || 11 ||
+
+[[EZ2ON]]으로 옮겨오면서, 영상 제작을 [[SADAHAM]]이 담당하게 되어 비쥬얼이 바뀌었다. 겨울을 배경으로 한 어느 이야기로, 이쪽 역시 음악과 매우 잘 어울리며 나름대로 슬프고 감동적인 훌륭한 영상이 탄생했으나, 등장하는 두 사람은 둘 다 '''남자'''다. [* 하얀 머리의 신부의 이름은 "아이덴(Aiden)", 검은 머리에 키가 큰 신사의 이름은 "죠(Joe)"라고 한다. 이 두 명의 이름과 성별의 정보는 같이 작업한 SR의 블로그에 언급되었으며, 이름을 보아 BGA의 공간배경은 영국으로 추측할 수 있다.][* 참고로 검은 머리 남자를 어디서 본 적이 있다면 정확히 본 것이다. 저 남자는 [[DJMAX 시리즈]] 수록곡 [[Divine Service]]의 BGA에 등장한 바 있다.]
+
+다음 영상은 8키 플레이 영상.
+
+{{{#!HTML
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/9-2hB5qfhVY&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9-2hB5qfhVY&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+많은 유저들이 별담배[* 사실 [[Aquaris]] Remix BGA에서 처음 나왔었지만, 그 사실을 아는 사람은 드물어 An old story의 BGA를 상징하는 캐릭터가 되어버렸다.~~안습~~] 어디갔냐는 둥, [[야오이]]물을 만들어놨다는 반응을 보였다. 이미 Ryunan과 비주얼 콘셉트와 관한 언쟁을 벌인 전적이 있는 Memme는 이번에도 업데이트 당일날 게임에 접속해서 [[BL]]를 만들어놨다고 비명을 질렀지만, 정작 SADAHAM의 블로그에는 "훌륭하게 잘 만드셨습니다." 는 식의 메세지를 남겼다 카더라.
+
+~~이후 [[Frozen Eyes]]에서 [[wiki:"백합(장르)" 비슷한 양상]]이 벌어진다~~

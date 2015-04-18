@@ -1,0 +1,22 @@
+{{{+1 東青山駅 / Higashi-Aoyama Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kintetsu_Higashi_Aoyama_sta_001.jpg/640px-Kintetsu_Higashi_Aoyama_sta_001.jpg
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kintetsu_Higashiaoyama_station02.JPG/640px-Kintetsu_Higashiaoyama_station02.JPG
+
+||||||||||<#4169ff> {{{#ffffff 오사카선}}} ||<#cc0033><|6>{{{#ffffff 운영주체 : 킨키 일본 철도}}}[[br]]{{{#ffffff 개업일 : 1930년 12월 20일}}} ||
+||<width=100px> [wiki:"오사카우에혼마치역" 오사카우에혼마치] 방면[[br]][wiki:"니시아오야마역" 니시아오야마] || {{{+1 ← }}} ||<width=100px> 히가시아오야마 || {{{+1 → }}} ||<width=100px> [wiki:"이세나카가와역" 이세나카가와] 방면[[br]][wiki:"사카키바라온센구치역" 사카키바라온센구치] ||
+
+일본 [[미에]]현 [[츠]]시에 위치한 [[킨키 일본 철도]] [wiki:"오사카선(킨키 일본 철도)" 오사카선]의 역이다. 쌍섬식 승강장의 고가역으로 승강장 길이는 8량 길이이다. 통상적으로는 무인역으로 운용된다. 이세나카가와에서부터 온 보통 열차 일부는 이 역에서 회차하고, 이 역에서 우등열차 대피도 이루어진다.
+
+하루 이용객은 '''62명'''으로 킨테츠의 역 중 [[니시아오야마역]]과 함께 이용객 수에서 최하위를 달린다.
+
+역 주변에는 '히가시아오야마시키노사토' 및 아오야마 고원이 유명하다.
+
+'''완급결합'''
+||||||<#ff6600> {{{#ffffff 급　　행}}}
+||<width=120px> [wiki:"니시아오야마역" 니시아오야마] || {{{+1  ← }}} ||<width=100px> 히가시아오야마 || {{{+1  → }}} ||<width=120px> [wiki:"사카키바라온센구치역" 사카키바라온센구치] ||
+||||||<#0033ff> {{{#ffffff 각역정차}}}
+||<width=120px> [wiki:"니시아오야마역" 니시아오야마] || {{{+1  ← }}} ||<width=100px> 히가시아오야마 || {{{+1  → }}} ||<width=120px> [wiki:"사카키바라온센구치역" 사카키바라온센구치] ||
+
+[[각주]]

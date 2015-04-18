@@ -1,0 +1,169 @@
+ * 상위 항목 : [[리플렉 비트 그루빈]], [[리플렉 비트 그루빈 어퍼]]
+
+[[목차]]
+== 개요 ==
+ * [[리플렉 비트 그루빈 어퍼]]의 해금요소들을 소개하는 페이지
+
+== [[리플렉 샵]] ==
+항목 참고.
+
+== 특수 해금곡 ==
+||||||<#F6EC01><:>'''특수선곡 해금곡'''||
+||  첫번째 선곡  ||||  '''[[LIGHTNING THUNDERBOLT]]'''  ||
+||  두번째 선곡  ||||  '''-Try to sing ver.- 시리즈'''[* [[Diamond Dust]], [[UNLIMITED FIRE]], [[Cosmic Hurricane]] 전부 허용된다.]  ||
+||||  ↓  ||
+|| FINAL ROUND에 출현[*A 샵 구매곡이 아니라 출현과 동시에 상주한다.] ||||  '''[[LIGHTNING THUNDERBOLT#s-1.1|LIGHTNING THUNDERBOLT -Try to sing ver.-]]'''  ||
+
+||||||<#F6EC01><:>'''특수선곡 해금곡'''||
+|| 첫번째 선곡 |||| '''[[PON]] 명의의 곡을 플레이[* Power of Nature 명의의 곡이나 합작곡은 제외된다.]''' ||
+|| 두번째 선곡 |||| '''[[VENUS(아티스트)|VENUS]] 명의의 곡을 플레이[* [[Squeeze|합작곡]]도 가능하다.]''' ||
+||||  ↓  ||
+|| FINAL ROUND에 출현[*A 샵 구매곡이 아니라 출현과 동시에 상주한다.] ||||  '''[[恋愛観測#s-4|恋愛観測 -VENUS Mix-]]'''  ||
+
+||||||<#F6EC01><:>'''특수선곡 해금곡'''||
+|||| '''[[시노노메 나츠히]] 아이콘[*B [[水月鏡花のコノテーション]]을 5회 플레이하면 획득할 수 있다.]을 적용'''한 상태에서 '''[[日向美ビタースイーツ♪]] 명의의 곡을 플레이[* 단, [[水月鏡花のコノテーション]]과 [[キモチコネクト]]는 日向美ビタースイーツ♪ 명의이지만 해금조건에서 제외된다.]''' ||
+||||  ↓  ||
+|| 다음 ROUND에 출현[*A 샵 구매곡이 아니라 출현과 동시에 상주한다.] ||  '''[[ツーマンライブ]]'''  ||
+
+||||||<#F6EC01><:>'''특수선곡 해금곡'''||
+|||| '''[[시노노메 코코나]] 아이콘[*B [[水月鏡花のコノテーション]]을 5회 플레이하면 획득할 수 있다.]을 적용'''한 상태에서 '''[[日向美ビタースイーツ♪]] 명의의 곡을 플레이[* 단, [[水月鏡花のコノテーション]]과 [[ツーマンライブ]]는 日向美ビタースイーツ♪ 명의이지만 해금조건에서 제외된다.]''' ||
+||||  ↓  ||
+|| 다음 ROUND에 출현[*A 샵 구매곡이 아니라 출현과 동시에 상주한다.] ||  '''[[キモチコネクト]]'''  ||
+
+== [[MYSTICAL STRIKE]] ==
+항목 참고.
+
+== BEMANI MUSIC FOCUS ==
+ * [[BEMANI MUSIC FOCUS]]([http://rigvedawiki.net/r1/wiki.php/BEMANI%20MUSIC%20FOCUS?action=show 관리]), [[비마니 뮤직 포커스]]([http://rigvedawiki.net/r1/wiki.php/%EB%B9%84%EB%A7%88%EB%8B%88%20%EB%AE%A4%EC%A7%81%20%ED%8F%AC%EC%BB%A4%EC%8A%A4?action=show 관리])는 이 문단으로 넘어옵니다.
+
+해금 순서는 '''3곡 각 1회 클리어로 해금 → 최종곡 1회 클리어로 B/M/H 해금 → 최종곡 SP 플레이[* 여기만 FAILED도 인정]로 해금'''이다. 전체 해금을 위해 최소 5회 폴더에 접근, 즉 총 500만 어퍼가 필요하다. 이 폴더 안에서는 옵션을 선택할 수 없으며, 이전 스테이지에 하드나 슈퍼하드 게이지를 사용했어도 이 스테이지에서는 노멀 게이지로 강제 조정된다.
+
+한번 폴더로 접근하기 위해서 100만 어퍼 포인트를 모아야 한다는 부담감을 줄여주려고 한건지, 각 회차별 첫 날 첫 플레이 때는 100만 어퍼포인트를, 이후 기간이 종료될 때까지는 매일 첫 플레이때 20만 어퍼포인트를 받을 수 있게 되었다.[* 단 2회차의 경우, 새해 기념으로 1월 1일부터 3일까지는 20만이 아닌 50만 어퍼포인트가 지급된다.]
+
+=== 제1회: [[DJ TOTTO]]'s SELECTION ===
+ * 기간: 2014/12/12 10:00 ~ 2014/12/25 05:00
+||||||<#F6EC01><tablewidth=80%><tablealign=center> '''{{{#F80092 BEMANI MUSIC FOCUS}}}''' ||
+||||||<tablewidth=80%><tablealign=center> '''DJ TOTTO's SELECTION''' ||
+|| [[ABSOLUTE]][[BR]][[dj TAKA]] || [[LOGICAL DASH]][[BR]][[dj TAKA]] || [[CHOCOLATE PHILOSOPHY]][[BR]][[토키와 유우|常盤ゆう]] ||
+|| from [[beatmania IIDX 4th style]] || from [[비트매니아 시리즈/역사#s-1.5|beatmania 4thMIX]] ||<tablealign=center> from [[기타프릭스·드럼매니아/시리즈 소개#s-1.8|GUITARFREAKS 8thMIX <br>& drummania 7thMIX]] ||
+|||||||||||| '''상기 3곡을 모두 해금시 출현''' ||
+|||||||||||| '''[[era#s-4.3|era (nostalmix)]]'''[* 스페셜 난이도만 era (step mix)의 음원이 나온다.][[BR]]'''[[TaQ]]''' ||
+|||||||||||| '''from [[beatmania IIDX 3rd style]]''' ||
+
+=== 제2회: [[TAG]]'s SELECTION ===
+ * 기간: 2014/12/25 10:00 ~ 2015/01/08 05:00
+||||||<#F6EC01><tablewidth=80%><tablealign=center> '''{{{#F80092 BEMANI MUSIC FOCUS}}}''' ||
+||||||<#white><tablewidth=80%><tablealign=center> '''TAG's SELECTION''' ||
+||<tablewidth=80%><tablealign=center> [[DROP THE BOMB]][[BR]][[Scotty D.]] ||<tablewidth=80%><tablealign=center> [[AXIS]][[BR]][[센본마츠 진|千本松 仁]] ||<tablewidth=80%><tablealign=center> [[fellows]][[BR]][[dj TAKA]] feat. [[Sana]] ||
+|| from  [[Dance Dance Revolution 3rdMIX#s-5.1|(CS) DanceDance<br>Revolution 3rdMIX]] || from [[기타프릭스·드럼매니아/시리즈 소개#s-2.3|GuitarFreaks V3<br>& DrumMania V3]] || from [[비트매니아 시리즈/역사#s-1.13|beatmania THE FINAL]] ||
+|||||||||||| '''상기 3곡을 모두 해금시 출현''' ||
+|||||||||||| '''[[MAD BLAST]]'''<<br>>'''[[세노오 카즈히로|THE INFECTION]]''' ||
+|||||||||||| '''from [[댄스 매니악스|DanceManiax]]''' ||
+
+=== 제3회: [[Des-ROW]]'s SELECTION ===
+ * 기간: 2015/01/08 10:00 ~ 2015/01/22 05:00
+||||||<#F6EC01><tablewidth=80%><tablealign=center> '''{{{#F80092 BEMANI MUSIC FOCUS}}}''' ||
+||||||<#white><tablewidth=80%><tablealign=center> '''Des-ROW's SELECTION''' ||
+||<tablewidth=80%><tablealign=center> [[大見解]][[BR]]Des-ROW・組 || [[BE LOVIN]][* 출전은 beatmania 7th MIX지만 음원은 beatmania III APPEND 7th MIX에 쓰인 롱버전이다(팝픈뮤직에 쓰인 음원).][[BR]]D-Crew || [[Funky sonic World]][[BR]]Des-ROW feat.SHIGE ||
+|| from  [[팝픈뮤직/역사#s-1.6|pop'n music 6]] || from [[비트매니아%20시리즈/역사#s-1.12|beatmania 7th MIX]] || from [[기타프릭스·드럼매니아/시리즈%20소개#s-1.10|GuitarFreaks 10th<br>& DrumMania 9th]] ||
+|||||||||||| '''상기 3곡을 모두 해금시 출현''' ||
+|||||||||||| '''[[CURUS]]'''[* 제1회의 era (step mix)처럼 SPECIAL 패턴에서만 CURUS-M(ditty)의 음원이 나온다.][[BR]]'''D-Crew''' ||
+|||||||||||| '''from [[팝픈뮤직/역사#s-1.12|pop'n music 12 いろは]]''' ||
+
+모든 해금곡이 Des-ROW 자신의 곡으로 이루어진 것이 특징. 이는 앞서 공개된 두 작곡가는 BEMANI 시리즈 플레이 경력이 꽤 되는 반면에 데스로우는 그렇지 않다는 것이 어느정도 반영된 것으로 보인다. 거기다 그에 비해 데스로우는 비교적 고참인 것도 특징.
+
+=== 제4회: [[Ryu☆]]'s SELECTION ===
+ * 기간: 2015/02/05 10:00 ~ 2015/02/19 05:00
+||||||<#F6EC01><tablewidth=80%><tablealign=center> '''{{{#F80092 BEMANI MUSIC FOCUS}}}''' ||
+||||||<tablewidth=80%><tablealign=center> '''Ryu☆'s SELECTION''' ||
+|| [[GENOM SCREAMS]][[BR]][[L.E.D.|L.E.D.LIGHT]] || [[Presto]][[BR]][[쿠보타 오사무|Osamu Kubota]] || [[JET WORLD]][[BR]][[이즈미 무츠히코|泉 陸奥彦]] ||
+|| from [[비트매니아 시리즈/역사#s-2.3|beatmania APPEND GOTTAMIX]] || from [[beatmania IIDX 3rd style]] ||<tablealign=center> from [[GUITARFREAKS 2ndMIX & drummania]] ||
+|||||||||||| '''상기 3곡을 모두 해금시 출현''' ||
+|||||||||||| '''[[Go Beyond!!]]'''[[BR]]'''[[Ryu☆]] Vs. [[후지모리 소타|Sota]]''' ||
+|||||||||||| '''from CS [[beatmania IIDX 13 DistorteD]]''' ||
+
+[[Ryu☆]]의 새로운 앨범 [[Seventh Heaven]]의 발매에 맞추어 선곡자가 Ryu☆로 결정되었다.[* 같은 날 [[사운드 볼텍스 III 그래비티 워즈|사볼3]]에 Ryu☆의 신곡 [[CRITICAL LINE]]이 수록되기도 하였다.] 이식 떡밥만 무성할 뿐 실제 이식이 이루어지지 않았던 [[Go Beyond!!]]의 이식으로 큰 화제가 되었다. 사족으로 처음으로 전곡이 항목이 있는 뮤직 포커스다.
+
+=== 제5회: [[TOMOSUKE]]'s SELECTION ===
+ * 기간: 2015/02/26 10:00 ~ 2015/03/12 05:00
+
+||||||<#F6EC01><tablewidth=80%><tablealign=center> '''{{{#F80092 BEMANI MUSIC FOCUS}}}''' ||
+||||||<tablewidth=80%><tablealign=center> '''TOMOSUKE's SELECTION''' ||
+|| [[I'M GONNA GET YOU!]][* 자켓은 XG~XG2의 클래식 모드에 쓰여진 자켓을 사용했다.][[BR]][세노오 카즈히로|Kelly Cosmo] || [[the keel]][[BR]]Akino || [[LOVE IS ORANGE]][[BR]][TOMOSUKE|Orange Lounge] ||
+|| from [[GUITARFREAKS 4thMIX & drummania 3rdMIX]] || from pop'n music 11 ||<tablealign=center> from [[beatmania IIDX 8th style]] ||
+|||||||||||| '''상기 3곡을 모두 해금시 출현''' ||
+|||||||||||| '''[[Gamelan de Couple]]'''[[BR]]'''[[TOMOSUKE]]''' ||
+|||||||||||| '''from [맘보 아 고고|MAMBO A GO GO]''' ||
+
+=== 제6회: [[kors k]]'s SELECTION ===
+ * 기간: 2015/03/12 10:00 ~ 2015/03/26 05:00
+
+||||||<#F6EC01><tablewidth=80%><tablealign=center> '''{{{#F80092 BEMANI MUSIC FOCUS}}}''' ||
+||||||<tablewidth=80%><tablealign=center> '''kors k's SELECTION''' ||
+|| [[Flash Back 90's#s-3|Flash Back 90's]][* IIDX BGA에 나온 삿대질 분신술(...) 장면이 자켓에 사용되었다. 베이직→미디엄→하드 순으로 퍼지는 형상.][[BR]]kors k as disconation || [[White Eve#s-3|White Eve]][[BR]][[신타니 사나에|さな]] || [[HELL SCAPER#s-1.2|HELL SCAPER]][[BR]][[L.E.D.|L.E.D.LIGHT-G]] ||
+|| from [[beatmania IIDX 16 EMPRESS]] || from pop'n music 9 || from CS beatmania append GOTTA MIX ||
+|||||||||||| '''상기 3곡을 모두 해금시 출현''' ||
+|||||||||||| '''[[starmine#s-1.5|starmine]]'''[[BR]]'''[Ryu☆]''' ||
+|||||||||||| '''from beatmania IIDX 4th style''' ||
+
+=== 제7회: User's[* 사족을 조금 달자면 유저는 1명이 아니고 복수기 때문에 User__s'__가 맞다.] SELECTION[* 투표 당시의 이름은 SUPER CHOICE였다.] ===
+ * 이벤트 진행 기간: 2015/03/'''27'''[* 기존과 달리 금요일에 시작되어 금요일(실질적으로는 목요일)에 종료된다.] 10:00 ~ 2015/04/10 05:00
+
+||||||<#F6EC01><tablewidth=80%><tablealign=center> '''{{{#F80092 BEMANI MUSIC FOCUS}}}''' ||
+||||||<tablewidth=80%><tablealign=center> '''User's SELECTION''' ||
+|| [[明鏡止水]][[BR]][[TOMOSUKE]] feat. [[아사키|あさき]] || [[Pink Rose]][[BR]][[쿠마노 키요미|Kiyommy]]+[[무라이 세이야|Seiya]] || [[sync]][[BR]]OutPhase ([[TaQ]]/[[dj TAKA]]) ||
+|| from [[팝픈뮤직/역사#s-1.10|pop'n music 10]] || from [[키보드매니아|KEYBOARDMANIA 3rdMIX]] || from [[beatmania IIDX 5th style]] ||
+|||||||||||| '''상기 3곡을 모두 해금시 출현''' ||
+|||||||||||| '''[[BEYOND THE EARTH]]'''[[BR]]'''[[猫叉Master]]''' ||
+|||||||||||| '''from [[팝픈뮤직/역사#s-2.13|pop'n music 10 CS]]''' ||
+
+ * 악곡 투표 기간 : 2월 19일 ~ 3월 5일
+
+보통의 뮤직 포커스와는 다르게 플레이어들이 악곡을 결정하는 뮤직 포커스. 악곡 투표 기간 내에 1플레이 종료시 1곡씩 투표할 수 있었다. 선곡자가 각 곡의 코멘트를 적은 다른 회차와 달리 당연하게도 유저가 코멘트를 써줄 수는 없으니(...) 코멘트는 각각의 곡의 작곡가가 대신 적었다.
+
+곡의 후보는 총 30곡으로, 다음과 같다.
+
+||<#F6EC01><tablealign=center> '''곡명''' ||<#F6EC01><tablealign=center> '''아티스트''' ||<#F6EC01><tablealign=center> '''수록작''' ||
+|| [[e-motion]] || e.o.s || [[beatmania]] ||
+|| [[GUILTY(비마니 시리즈)|GUILTY]] || [[dj TAKA|D.J.SETUP]] || [[비트매니아 시리즈/역사#s-1.10|beatmania CORE REMIX]] ||
+|| [[one seek]] || [[Des-ROW|positive MA]] feat. akino || [[비트매니아 시리즈/역사#s-1.13|beatmania THE FINAL]] ||
+|| '''[[Pink Rose]]''' || [[쿠마노 키요미|Kiyommy]]+[[무라이 세이야|Seiya]] || [[키보드매니아|KEYBOARDMANIA 3rdMIX]] ||
+|| [[Quickening]] || [[dj TAKA]] || [[댄스매니악스|DanceManiax 2ndMIX]] ||
+|| [[Kind Lady]] || [[후지모리 소타|OKUYATOS]] || [[댄스 댄스 레볼루션/역사#s-2.6.1|DDRMAX -DanceDanceRevolution 6thMIX- CS]] ||
+|| [[Flow]] || Scotty D. revisits [[U1-ASAMi|U1]] || [[댄스 댄스 레볼루션/역사#s-2.9|DanceDanceRevolution SuperNOVA]] ||
+|| [[Saturn]] || [[wac|Mr.Saturn]] || [[댄스 댄스 레볼루션/역사#s-2.10|DanceDanceRevolution SuperNOVA2]] ||
+|| [[.59]] || [[dj TAKA]] || [[beatmania IIDX 2nd style]] ||
+|| [[Clione]] || [[kors k]] || [[beatmania IIDX 4th style]] ||
+|| '''[[sync]]''' || OutPhase ([[TaQ]]/[[dj TAKA]]) || [[beatmania IIDX 5th style]] ||
+|| [[電人イェーガーのテーマ (Theme of DENJIN J)]] || [[L.E.D.]] || [[beatmania IIDX 5th style|beatmania IIDX 5th style CS]] ||
+|| [[xenon]] || [[Mr.T]] || [[beatmania IIDX 8th style]] ||
+|| [[캡티베이트 시리즈#s-2.1|CaptivAte ~淨化~]] || A/I || [[beatmania IIDX 12 HAPPY SKY]] ||
+|| [[Quick Master]] || [[시미즈 요헤이|act deft]] || [[팝픈뮤직/역사#s-1.1|pop'n music]] ||
+|| [[カモミール・バスルーム]] || [[토키와 유우|常盤ゆう]] || [[팝픈뮤직/역사#s-1.7|pop'n music 7]] ||
+|| [[Tir na n'Og]] || [[무라이 세이야|WORLD SEQUENCE]] || [[팝픈뮤직/역사#s-1.8|pop'n music 8]] ||
+|| [[100sec.Kitchen Battle!!]] || [[TOMOSUKE|Orange Lounge]] || [[팝픈뮤직/역사#s-1.8|pop'n music 8]] ||
+|| [[cobalt]] || [[Des-ROW]]・組スペシアル || [[팝픈뮤직/역사#s-1.9|pop'n music 9]] ||
+|| '''[[明鏡止水]]''' || [[TOMOSUKE]] feat. [[아사키|あさき]] || [[팝픈뮤직/역사#s-1.10|pop'n music 10]] ||
+|| [[Votum stellarum]] || iconoclasm([[dj TAKA]]/[[wac]]) || [[팝픈뮤직/역사#s-1.10|pop'n music 10]] ||
+|| '''[[BEYOND THE EARTH]]''' || [[猫叉Master]] || [[팝픈뮤직/역사#s-2.13|pop'n music 10 CS]] ||
+|| [[LUCKY STAFF|LUCKY? STAFF]] || [[이즈미 무츠히코|泉 陸奥彦]] || [[GUITARFREAKS (1999)|GUITARFREAKS]] ||
+|| [[VOIDDD]] || [[Des-ROW]] feat. Kevin Vecchione || [[GUITARFREAKS 5thMIX & drummania 4thMIX]] ||
+|| [[BOBBY SUE AND SKINNY JIM]] || Raj Ramayya || [[기타프릭스·드럼매니아/시리즈 소개#s-1.6|GUITARFREAKS 6thMIX & drummania 5thMIX]] ||
+|| [[Brazilian Anthem]] || [[TOMOSUKE|Berimbau '66]] || [[기타프릭스·드럼매니아/시리즈 소개#s-1.6|GUITARFREAKS 6thMIX & drummania 5thMIX]] ||
+|| [[under control]] || Kevin Vecchione || [[기타프릭스·드럼매니아/시리즈 소개#s-1.7|GUITARFREAKS 7thMIX & drummania 6thMIX]] ||
+|| [[Black horizon]] || [[코에즈카 요시히코|Trick Trap]] || [[기타프릭스·드럼매니아/시리즈 소개#s-1.9|GUITARFREAKS 9thMIX & drummania 8thMIX]] ||
+|| [[カゴノトリ]] || [[TOMOSUKE|橙色特別室]] || [[기타프릭스·드럼매니아/시리즈 소개#s-1.10|GUITARFREAKS 10thMIX & drummania 9thMIX]] ||
+|| [[Agnus Dei]] || [[아사키|あさき]] || [[기타프릭스·드럼매니아/시리즈 소개#s-1.10|GUITARFREAKS 10thMIX & drummania 9thMIX]] ||
+
+여담으로 리플렉 비트를 담당하게 되어서 그런지, Des-ROW는 자신의 곡인 [VOIDDD]를 대놓고 밀어줄려고 열심히 공작을 하고 있다. "VOIDDD가 노도의 인기를 자랑!!! --2--4위!"같은 식. 그러나 별다른 효과는 없어보인다. 결과적으로는 23등을 했다. 억지로라도 수록을 하고싶었는지 뭔지 몰라도 4월 1일 하루 기간 한정으로 플레이가 가능했었다.
+
+3월 19일 결과가 발표되었다. 4위는 [[明鏡止水]], 3위는 [[Pink Rose]], 2위는 [[sync]]. '''그리고 3월 27일 업데이트로 1위는 [[BEYOND THE EARTH]]'''로 밝혀졌다.
+== CODE BREAKING ==
+2015년 3월 6일부터 시작된 해금 이벤트. [[BEMANI%20시리즈/연동%20이벤트#s-5.16|코카콜라 콜라보 로케테스트]] 추가곡([[龍と少女とデコヒーレンス]], [[INSOMNIA]], [[Ludus In Tenebris]])이 대상이다.
+온라인 플레이 1회 당 곡명 [[요미가나|가타카나 표기]]의 [[애너그램]]이 하나씩 제시된다. 원래 표기를 알아맞혀서 해당 곡을 플레이하면 대상곡 하나가 해금된다. 문제는 플레이어마다 다르다.
+
+각 문제에 관한 힌트는 여기서 확인할 수 있다.
+http://www44.atwiki.jp/reflec_beat/m/pages/1523.html?guid=on
+
+해독기도 등장했다.
+http://cb.hibiya.moe/

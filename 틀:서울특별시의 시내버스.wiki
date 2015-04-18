@@ -1,0 +1,2 @@
+||<tablewidth=100%><-5><:> '''[[서울특별시 시내버스|서울특별시의 시내버스]]''' ||
+ ||<#0000FF> [[간선버스(서울)|<span style="color:white">간선버스</span>]] ||<#009900> [[지선버스(서울)|<span style="color:white">지선버스</span>]] ||<#FF0000> [[광역버스(서울)|<span style="color:white">광역버스</span>]] ||<#FFD700> [[순환버스(서울)|<span style="color:white">순환버스</span>]] ||<#0000ff> [[심야버스(서울)|<span style="color:white">심야버스</span>]] ||

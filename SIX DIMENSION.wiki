@@ -1,0 +1,45 @@
+[[목차]]
+== 설명 ==
+||<-3><#C9D540><:>'''GuitarFreaks & DrumMania V8 & XG2 Extra Rush'''||
+|| V8 || XG2 || 해당 곡 ||
+||<-2><#FFA500><:> EXTRA 1 || '''[[Einherjar]]''' ||
+||<-2><#FFA500><:> EXTRA 2 || '''[[blue moon]]''' ||
+||<-2><#FFA500><:> EXTRA 3 / ENCORE 1 || '''[[Chinese Snowy Dance]]''' ||
+||<-2><#FFA500><:> EXTRA 4 / ENCORE 2 || '''[[Martial Arts]]''' ||
+||<-2><#FFA500><:> EXTRA 5 / ENCORE 3 || '''SIX DIMENSION''' ||
+||<-2><#FFA500><:> EXTRA 6 / ENCORE 4 || '''[[Illuminati ~光を求める者たち~]]''' ||
+||<-2><#FFA500><:> EXTRA 7 / ENCORE 5 || '''[[ゲームより愛を込めて]]''' ||
+||<#082567> {{{#white ENCORE 6}}} ||<#FFA500> EXTRA 8 / ENCORE 6 || '''[[幻想雷神記]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' ||<#082567> {{{#white ENCORE 7}}} || '''[[EXCELSIOR DIVE]]''' ||
+|| 해당 없음 ||<#800080> '''{{{#white CLIMAX}}}''' || '''[[Brown blizzard]]''' ||
+
+attachment:sixdimension.jpg
+
+{{{#!html
+<object width="560" height="345"><param name="movie" value="http://www.youtube.com/v/h-FBsXffY_g?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/h-FBsXffY_g?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="345" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 175 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 56}}} || {{{#orange 74}}} || {{{#red 87}}} ||
+|| 기타 오픈픽 || {{{#green 57}}} || {{{#orange 77}}} || {{{#red 88}}} ||
+|| 기타 베이스 || {{{#green 56}}} || {{{#orange 71}}} || {{{#red 81}}} ||
+|| 드럼매니아 || {{{#green 52}}} || {{{#orange 66}}} || {{{#red 84}}} ||
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"드럼매니아&기타프릭스/XG" XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 175 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 4.30}}} || {{{#orange 5.85}}} || {{{#red 8.30}}} || {{{#purple 9.00}}} ||
+|| 기타 베이스 || {{{#blue 4.30}}} || {{{#orange 6.20}}} || {{{#red 7.75}}} || {{{#purple 8.30}}} ||
+|| 드럼매니아 || {{{#blue 4.90}}} || {{{#orange 7.25}}} || {{{#red 8.60}}} || {{{#purple 9.30}}} ||
+
+작곡은 [[96]]. [[기타프릭스]] & [[드럼매니아]] V8/XG2 수록곡으로, 2011년 5월 13일 Extra level이 4로 올라가며 앙코르 스테이지에 등장한 곡으로, 2011년 6월 10일 Extra level 6에서 엑스트라 스테이지 전용 곡으로 강등, 2011년 8월 26일 Extra level 11에서 일반곡으로 완전 해금되었다.
+
+무겁고 강렬한 비트가 인상적인 곡으로, 패드를 고루 사용하게 되며 표기 레벨에 걸맞는 적절하게 난이도 있는 곡이다. 빠른 연타와 탐돌리기가 주를 이루며, XG2 쪽은 중반부 이후부터 갑자기 투베이스를 곁들인 [wiki:"Destiny"체력보면]으로 변하게 된다. 기타쪽의 경우 2연 속주가 초반부터 '''상당히 길게''' 이어진다. 문제는 도중에 '''[[Driven Shooter]]와 동급의 속도로''' 내려오는 구간이 있어서 콤보를 수월하게 잇기가 어렵다.
+
+== 아티스트 코멘트 ==
+
+>차원이라고 하는 것은 원래 무한히 존재하는 것 같습니다.
+>전반 섹션은 모두 라이트 핸드, 태핑입니다.
+>꼭 도전해보세요.

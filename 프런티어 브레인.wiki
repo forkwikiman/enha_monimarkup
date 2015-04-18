@@ -1,0 +1,32 @@
+[[목차]]
+
+= 소개 =
+[[포켓몬스터]] 시리즈의 트레이너 계급.
+
+[wiki:"배틀프런티어(포켓몬스터)" 배틀프런티어]에 존재하는 각 시설을 담당하는 최강급 [[포켓몬 트레이너]]들을 가리킨다. [[포켓몬스터 에메랄드]], [[포켓몬스터 Pt 기라티나]], [[포켓몬스터 하트골드·소울실버]]에서 등장하며, 한 시설 내에서 일정 수준 연승을 해나가다 보면 출현해 플레이어의 도전을 받아준다. 특정 지역의 최강자라는 점은 [[체육관 관장]]과 비슷하지만 난이도는 비교가 불가할 정도로 높다. 
+
+== 목록 ==
+=== [[호연지방]] ===
+||<tablealign=center><rowbgcolor="#5fee9e"><:> {{{#ffffff '''이름'''}}} || {{{#ffffff '''시설'''}}} || {{{#ffffff '''테마'''}}} ||<-2><:> {{{#ffffff '''심볼'''}}} ||
+||<#dcdcdc><:> attachment:/Spr_E_Anabel.png [[br]]타워타이쿤 [[wiki:"리라(포켓몬스터)" 리라]] ||<#dcdcdc> [[배틀타워]] ||<#dcdcdc> 재능 ||<#dcdcdc> attachment:/Abilitysymbolsilver.png ||<#dcdcdc> attachment:/Abilitysymbol.png ||
+||<#dcdcdc><:> attachment:/Spr_E_Tucker.png [[br]]돔슈퍼스타 [[wiki:"하인즈(포켓몬스터)" 하인즈]] ||<#dcdcdc> [[배틀 돔]] ||<#dcdcdc> 전술 ||<#dcdcdc> attachment:/Tacticssymbolsilver.png ||<#dcdcdc> attachment:/Tacticssymbol.png ||
+||<#dcdcdc><:> attachment:/Spr_E_Noland.png [[br]]팩토리헤드 [[다투라]] ||<#dcdcdc> [[배틀 팩토리]] ||<#dcdcdc> 지식 ||<#dcdcdc> attachment:/Knowledgesymbolsilver.png ||<#dcdcdc> attachment:/Knowledgesymbol.png ||
+||<#dcdcdc><:> attachment:/Spr_E_Lucy.png [[br]]튜브퀸 [[다슬]] ||<#dcdcdc> [[배틀 튜브]] ||<#dcdcdc> 운 ||<#dcdcdc> attachment:/Lucksymbolsilver.png ||<#dcdcdc> attachment:/Lucksymbol.png ||
+||<#dcdcdc><:> attachment:/Spr_E_Greta.png [[br]]아레나캡틴 [[wiki:"나리(포켓몬스터)" 나리]] ||<#dcdcdc> [[배틀 아레나]] ||<#dcdcdc> 투지 ||<#dcdcdc> attachment:/Gutssymbolsilver.png ||<#dcdcdc> attachment:/Gutssymbol.png ||
+||<#dcdcdc><:> attachment:/Spr_E_Spenser.png [[br]]팰리스가디언 [[우근]] ||<#dcdcdc> [[배틀 팰리스]] ||<#dcdcdc> 마음 ||<#dcdcdc> attachment:/Spiritssymbolsilver.png ||<#dcdcdc> attachment:/Spiritssymbol.png ||
+||<#dcdcdc><:> attachment:/Spr_E_Brandon.png [[br]]피라미드킹 [[wiki:"기선(포켓몬스터)" 기선]] ||<#dcdcdc> [[배틀 피라미드]] ||<#dcdcdc> 용기 ||<#dcdcdc> attachment:/Bravesymbolsilver.png ||<#dcdcdc> attachment:/Bravesymbol.png ||
+
+=== [wiki:"신오지방" 신오]/[[성도지방]] ===
+||<tablealign=center><rowbgcolor="#fafabe"><:> '''이름''' || '''스프라이트''' || '''시설''' ||<-2><:> '''프린트''' ||
+||<#FF5A5A><:> attachment:/VSPalmer.png [[br]]타워타이쿤 [[종수]] ||<#dcdcdc> attachment:/Spr_Pt_Palmer.gif ||<#dcdcdc> [[배틀타워]] ||<#dcdcdc> attachment:/TowerSilverprintD.png ||<#dcdcdc> attachment:/TowerGoldprintD.png ||
+||<#FF46C5><:> attachment:/VSArgenta.png [[br]]스테이지마돈나 [[맨드라]] ||<#dcdcdc> attachment:/Spr_Pt_Argenta.gif ||<#dcdcdc> [[배틀 스테이지]] ||<#dcdcdc> attachment:/HallSilverprintD.png ||<#dcdcdc> attachment:/HallGoldprintD.png ||
+||<#64db99><:> attachment:/VSDarach.png [[br]]캐슬버틀러 [[코크런]] ||<#dcdcdc> attachment:/Spr_Platinum_Caitlin.GIF ||<#dcdcdc> [[배틀 캐슬]] ||<#dcdcdc> attachment:/CastleSilverprintD.png ||<#dcdcdc> attachment:/CastleGoldprintD.png ||
+||<#FFE146><:> attachment:/VSDahlia.png [[br]]룰렛여신 [[달리아(포켓몬스터)|달리아]] ||<#dcdcdc> attachment:/Spr_Pt_Dahlia.gif ||<#dcdcdc> [[배틀 룰렛]] ||<#dcdcdc> attachment:/ArcadeSilverprintD.png ||<#dcdcdc> attachment:/ArcadeGoldprintL.png ||
+||<#28A0FF><:> attachment:/VSThorton.png [[br]]팩토리책임자 [[수철]] ||<#dcdcdc> attachment:/Spr_Pt_Thorton.gif ||<#dcdcdc> [[배틀 팩토리]] ||<#dcdcdc> attachment:/FactorySilverprintL.png ||<#dcdcdc> attachment:/FactoryGoldprintL.png ||
+
+== 기타 ==
+ * 브레인들의 이름은 대개 식물, 나무, 과일 등에서 유래.
+
+ * 애니메이션에선 제대로 된 리그 우승 경력이 없는 [[지우]]가 프런티어를 제패하고 브레인 제안까지 받았을 정도로 위상이 낮아졌다.
+ * 애니메이션에선 리그 우승 경력까지 있는 [[진철]]의 형이 프런티어 제패에 실패하는 모습을 보이기도했다. 
+ * 이들을 이기면 심볼 혹은 기념프린트를 받을 수 있다.

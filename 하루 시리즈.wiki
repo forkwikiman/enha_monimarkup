@@ -1,0 +1,28 @@
+[[목차]]
+{{{#!html
+<object id='mgoonPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='500' height='423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://play.mgoon.com/Video/V4392189@0' /><param name='quality' value='high' /><param name='bgcolor' value='#000000' /><embed src='http://play.mgoon.com/Video/V4392189@0' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' quality='high' bgcolor='#000000' width='500' height='423' name='mgoonPlayer' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' /></object> }}}
+
+~~모든 것의 원흉~~
+[http://5secondfilms.com/watch/late_for_work/  원본영상]
+
+== 정의 ==
+주일마다 하나씩 5초짜리 단편영화(...)를 제작하는 해외 웹사이트 5secondfilms 에서 나온 동영상이 한국에 알려지면서 만들어진 시리즈들을 말한다. 
+
+대체로 시작은 자명종 시계를 보고 깨어나, 비명을 지르며 하루가 다이제스트로 지나가고, 마지막엔 잠자리에 풀썩 쓰러지며 끝난다.
+== 시리즈 ==
+한국에서는 고등학생의 하루, 대학생의 하루, 공군 급양병의 하루등이 나왔고 심지어는 [[MBC]]에서 최일구 아나운서로 8시뉴스 광고를 하기도 했다 
+
+{{{#!html
+<object id='mgoonPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='500' height='423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://play.mgoon.com/Video/V4257542@0' /><param name='quality' value='high' /><param name='bgcolor' value='#000000' /><embed src='http://play.mgoon.com/Video/V4257542@0' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' quality='high' bgcolor='#000000' width='500' height='423' name='mgoonPlayer' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' /></object> }}}
+고등학생의 하루
+
+{{{#!html
+<object id='mgoonPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='500' height='423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://play.mgoon.com/Video/V4320036@0' /><param name='quality' value='high' /><param name='bgcolor' value='#000000' /><embed src='http://play.mgoon.com/Video/V4320036@0' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' quality='high' bgcolor='#000000' width='500' height='423' name='mgoonPlayer' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' /></object> }}}
+공군 [취사병|급양병]의 하루 [[http://afplay.tistory.com/354 출처 : '''공군 공감 공식 블로그''']]
+~~고기 더달라고!!!!~~
+~~그냥 가라고!!!~~
+
+{{{#!html
+<object id='mgoonPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='500' height='423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://play.mgoon.com/Video/V4280842@0' /><param name='quality' value='high' /><param name='bgcolor' value='#000000' /><embed src='http://play.mgoon.com/Video/V4280842@0' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' quality='high' bgcolor='#000000' width='500' height='423' name='mgoonPlayer' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' /></object> }}}
+~~아나운서 최일구의 하루~~
+

@@ -1,0 +1,16 @@
+[[include(틀:현악기)]]
+
+||<tablealign=center> http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mongolian_yatga_front_view.JPG/800px-Mongolian_yatga_front_view.JPG?Width=600 ||
+|| 사진출처: Wikimedia Commons ||
+
+[[몽골어]]: Яатга
+[[로마자]]: yatga
+
+중국의 [[쟁]]에서 유래한 [[몽골]]의 전통악기. 다양한 변종이 있으며 대표적인 종류가 21현식, 소형으로 13현식이 많이 사용된다고 한다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/MEU3EJCS7Rg&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MEU3EJCS7Rg&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/FpzmbonpHCM&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FpzmbonpHCM&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}

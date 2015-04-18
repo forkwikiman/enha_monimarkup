@@ -1,0 +1,170 @@
+ * [미국의 철도 환경], [미국의 커뮤터 레일 목록]
+
+[[include(틀:뉴욕시의 대중교통)]]
+
+http://web.mta.info/lirr/Timetable/images/lirr.gif?width=100% 노선도
+||<table align=right>|| '''롱아일랜드 철도''' [[br]] (Long Island Rail Road) ||
+|||| attachment:lirrlogo.jpg?width=250 ||
+|| '''리포팅 마크''' ||LI ||
+|| '''소유''' ||[뉴욕] [MTA] ||
+|| '''개업 년도''' ||[1834년] ||
+|| '''영업 지역''' ||[미국] [뉴욕] 주 [롱아일랜드] ||
+|| '''선로 궤간''' ||[wiki:표준궤 1,435mm] ||
+|| '''영업 거리''' ||956㎞ ||
+|| '''노선 수''' ||11 ||
+|| '''역 수''' ||124 ||
+|||| [[http://new.mta.info/lirr]] ||
+http://3.bp.blogspot.com/-BltF6DPA7bI/UgaTv2jLMOI/AAAAAAAAgGI/QPjFReazWKU/s1600/LIRR_7780-Babylon.jpg?width=540 주력 차종인 [봄바르디어] 제 M7 [전동차]
+
+== 소개 ==
+[미국] [뉴욕] 주 [뉴욕] 동부 지역의 [MTA] 소유 [커뮤터 레일] 시스템. [NJ Transit] 이 뉴욕 서부 [뉴저지]를 담당한다면 이쪽은 뉴욕 동부 [롱아일랜드]를 담당한다.[* 일부 화물도 취급한다.] 본사는 양대 간선의 환승역인 Jamaica 역 앞에 있다.
+
+[뉴욕] 동부 [롱아일랜드]를 사실상 독점하고 있는 덕분에 현재 미국에서 가장 이용 승객이 많은 [커뮤터 레일]로, [커뮤터 레일]로는 유일하게 [뉴욕 지하철]처럼 24시간 운행을 한다. 이러한 이유로 시설 면에서도 미국 답지않은 전철화(750V 직류 [제3궤조]), [ATC] 적용 등으로 60년대 느낌이 풀풀 나는 타 [커뮤터 레일]과 다르게 상당히 현대화되어 있다.
+
+1834년 개업한 만큼 미국에서 가장 오래된 철도 회사들 중 하나로, 미국에서 단일 편명으로 운영 중인 회사 중 가장 오래된 회사다. 개업 이후 한때는 [펜실베이니아 철도] 소유이기도 했으며, 현재는 [MTA] 산하에 있다. 롱아일랜드 철도는 한때 미국 철도의 전성기이던 1900년대 폭발적으로 성장하여 전철화 사업을 진행하고 [맨해튼]으로 노선을 직접 연장하는 등[* 이전에는 롱 아일랜드 서쪽 끝 Long Island City 역에서 [페리]를 타고 [맨해튼]을 갔다.] 크게 발전했으나 미국 철도가 기울던 2차대전 이후 [고속도로] 개통과 사고다발 등의 악재가 겹쳤고, 과거 운임 인상 없이 운행하던 결과로 인해 쌓인 부채가 터져 1949년 결국 [파산]하고 1966년 [펜실베이니아 철도]에서 [뉴욕] [MTA]로 넘어가게 된 것. 그래도 [미국|동네]가 [뉴욕|동네]인지라 이래도 전미 1위 이용객 수를 유지하고 있다(...) 대부분의 [커뮤터 레일]들이 이와 비슷한 테크를 타기도 했고. 다행히도 미국 철도산업이 약간이나마 살아나는 최근 들어서는 2층 객차와 듀얼모드 기관차, M7, M9 전동차 차량을 주문하는 등 상당히 나아진 모습을 보이고 있다.[* 1998년 주문한 M7은 현재 주력 차종으로 자리잡았다.]
+
+[뉴욕] 시 인근 이용률이 높은 구간은 대부분 전철화가 되어 있으며, [롱아일랜드] 동부 구간은 수요가 적은 만큼 대부분 비전철이다. 차량은 전동차 또는 기관차 견인 방식을 구간에 따라 맞춰 사용하며 기관차의 경우 [허드슨 강] 하저터널에서 디젤 기관차를 운행할 수 없는 관계로 디젤기관차 외에 듀얼 모드[* 전철화 구간에서는 전기를 사용하고 비전철 구간에서는 디젤을 사용한다.] 기관차를 일부 보유하고 있다. 객차는 전 차량 2층 Bi-Level 차량을 사용한다.[* 서부 [커뮤터 레일]의 그것과는 달리 비교적 전고가 낮다.] 
+
+2019년 완공을 목표로 [[그랜드 센트럴 터미널]] 연결 공사가 진행 중이다.
+
+||http://subwaynut.com/lirr/newhydepark/newhydepark7.jpg?width=360||http://www.ttmg.org/photos/tlogan/LIRR_Kawasaki_High-Interior.jpg?width=360||
+||[EMD] DM30AC 듀얼 모드 기관차와 Bi-Level 2층 객차 ||2층 객차 상층부의 실내 모습 ||
+
+== 노선 목록 ==
+'''Main Line 계열'''
+ * {{{#555555 ●}}}Main Line(본선) : [뉴욕 펜 역]/롱아일랜드 시티 역 - 자메이카 역 전철화
+||||<width=66%><#555555> {{{#ffffff 역명}}} ||
+|| Penn Station || Long Island City ||
+|| Woodside || Hunterspoint Avenue ||
+|| Forest Hills || Jamaica ||
+|| Kew Garden || 
+|| Jamaica ||
+
+  * {{{#af00ff ●}}}Ronkonkoma 지선 : 본선의 Hicksville 이동(以東) 구간. Hicksville - Ronkonkoma 구간 전철화.
+||<width=66%><#af00ff> {{{#ffffff 역명}}} ||
+|| Greenport ||
+|| Southold ||
+|| Mattituck ||
+|| Riverhead ||
+|| Yaphank ||
+|| Medford ||
+|| Ronkonkoma ||
+|| Central Islip ||
+|| Brentwood ||
+|| Deer Park ||
+|| Wyandanch ||
+|| Pinelawn ||
+|| Farmingdale ||
+|| Bethpage ||
+|| Hicksville ||
+ 
+ * {{{#efb000 ●}}}Hempstead 지선 : Jamaica 역 - Hempstead 역. 전구간 전철화.
+||<width=66%><#efb000> {{{#ffffff 역명}}} ||
+|| Hempstead ||
+|| Country Life Press ||
+|| Garden City ||
+|| Nassau Boulevard ||
+|| Stewart Manor ||
+|| Floral Park ||
+|| Bellerose ||
+|| Queens Village ||
+|| Hollis ||
+|| Jamaica ||
+
+ * {{{#01cd68 ●}}}Oyster Bay 지선 : Mineola 역 - Oyster Bay 역. 비전철.
+||<width=66%><#01cd68> {{{#ffffff 역명}}} ||
+|| Oyster Bay ||
+|| LocustValley ||
+|| Glen Cove ||
+|| Glen Street ||
+|| Sea Cliff ||
+|| Glen Head ||
+|| Greenvale ||
+|| Roslyn ||
+|| Albertson ||
+|| East Williston ||
+|| Mineola ||
+
+ * {{{#2322de ●}}}Port Jefferson 지선 : Hicksville 역 - Port Jefferson 역. Hicksville - Huntington 구간 전철화.
+||<width=66%><#2322de> {{{#ffffff 역명}}} ||
+|| Port Jefferson ||
+|| Stony Brook[* 스토니브룩 대학교 안에 역이 있다.] ||
+|| St. James ||
+|| Smithtown ||
+|| Kings Park ||
+|| North Port ||
+|| Greenlawn ||
+|| Huntington ||
+|| Cold Spring Harbor ||
+|| Syosset ||
+|| Hicksville ||
+|| Westbury ||
+|| Carle Place ||
+|| Mineola ||
+|| Merillon Avenue ||
+|| New Hyde Park ||
+|| Jamaica ||
+
+ * {{{#ee1212 ●}}}Port Washington 지선 : [뉴욕 펜 역] - Port Washington 역. 타 노선과는 다르게 Jamaica 역을 거치지 않고 바로 [뉴욕 펜 역]으로 간다. 전구간 전철화.
+||<width=66%><#ee1212> {{{#ffffff 역명}}} ||
+|| Port Washington ||
+|| Plandome ||
+|| Manhasset ||
+|| Great Neck ||
+|| Little Neck ||
+|| Douglaston ||
+|| Bayside ||
+|| Auburndale ||
+|| Broadway ||
+|| Murray Hill ||
+|| Flushing Main Street ||
+|| Woodside ||
+
+ * {{{#555555 ●}}}Central 지선 : Bethpage 역 - Babylon 역(Montauk Branch). 비전철.
+ * {{{#6a00ff ●}}}Belmont Park 지선 : Jamaica 역 - Belmont Park 역. 벨몬트 파크 경마장 경기가 있을 때만 운행하는 부정기 노선.
+||<width=66%><#6a00ff> {{{#ffffff 역명}}} ||
+|| Belmont Park ||
+
+
+'''Montauk Branch 계열'''
+ * Montauk Branch(본선) : Long Island City 역 - Montauk 역. Babylon 이서 구간 전철화.
+||<width=66%><#009900> {{{#ffffff 역명}}} ||
+|| Montauk ||
+|| Amagansett ||
+|| East Hampton ||
+|| Bridgehampton ||
+|| Southampton ||
+|| Hampton Bays ||
+|| Westhampton ||
+|| Speonk ||
+|| Mastic Shirley ||
+|| Bellport ||
+|| Patchogue ||
+|| Sayville ||
+|| Oakdale ||
+|| Great River ||
+|| Islip ||
+|| Bay Shore ||
+|| Babylon ||
+
+  * Babylon 지선 : Montauk Branch 본선 내 전철화 구간의 별도 명칭
+||<width=66%><#009900> {{{#ffffff 역명}}} ||
+|| Babylon ||
+|| Lindenhurst ||
+|| Copiague ||
+|| Amityville ||
+|| Massapequa Park ||
+|| Massapequa ||
+|| Seaford ||
+|| Wantagh ||
+|| Bellmore ||
+|| Merrick ||
+|| Freeport ||
+|| Baldwin ||
+|| Rockville Centre ||
+|| Jamaica ||
+
+ * Atlantic 지선 : Atlantic Terminal 역 - Valley Stream 역. 전구간 전철화.
+ * West Hempstead 지선 : Valley Stream 역 - West Hempstead 역. 전구간 전철화, 평일에만 운행
+ * Far Rockaway 지선 : Valley Stream 역 - Far Rockaway 역. 전구간 전철화.
+ * Long Beach 지선 : Valley Stream 역 - Long Beach 역. 전구간 전철화.

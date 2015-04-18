@@ -1,0 +1,35 @@
+[[목차]]
+== 일반적인 용도 ==
+--/ass-duff/--
+지금도 생성되고 있을 [[인터넷]] 상의 수많은 [[아이디]]와 [[비밀번호]], 혹은 파일명.
+
+왜 하필 asdf인가 하면, [[QWERTY]] 자판 기준으로 [[키보드]]에 제일 먼저 왼손이 닿는 부위가 순서대로 [[A]], [[S]], [[D]], [[F]]이기 때문이다. Dvorak(드보락) 자판에서는 이 부분이 aoeu가 되며, 비슷한 경우로 [[ㅁㄴㅇㄹ]]와 qwer 따위도 존재한다.
+
+하여간 이 아이디를 쓰면 어디서든 간에 굉장히 사려없고 성의없어 보인다. 가끔 [[온라인 게임]] 캐릭터명으로도 존재하지만 성의없어 보이긴 마찬가지. 
+
+[[CSS|CSS]]에서 색상코드를 {{{#asdf}}}로 주면 [[연두색|이런 색상]]({{{#a0df00 ■}}}, 실제 코드 #A0DF00)으로 인식한다. 색상코드가 4자리로 주어진 경우 HTML에서는 앞 2자리를 R, 뒤 2자리를 G에 배당하고 B값은 0으로 간주하기 때문. 여기서는 16진수에 쓰지 않는 문자인 S 부분을 0으로 처리했기에 이런 코드가 나온 것이다. 단 이것은 HTML 코드에 직접 썼을 때 한정이며 리그베다 위키에서 문법으로 대놓고 #asdf라고 쓰면 그냥 검은색으로 뜬다. ~~응?~~
+
+[[일본]] [[항공자위대]]의 약자('''A'''ir '''S'''elf-'''D'''efence '''F'''orce)이기도 하다.
+
+《호버보드 ASDF》라는 제목의 게임도 있었다. [[흠좀무]]. 
+
+게임 《[[천년의 신화]]》에서는 화살을 사는 단축키로 지정되어 있다. 화살(Arrow)이 A키, 쌍화살이 S(~~Ssang~~Double arrow)키, 독화살이 D(~~Dok~~Poison arrow)키, 불화살이 F(Fire arrow)인데...
+
+'http://asdf.com'이라는 홈페이지도 있다. asdf송도 있는데 [[BMS]]계에서 잊을 만하면 [[네타]]거리가 되기도 한다.
+
+[[http://en.wikipedia.org/wiki/ASDF 그 밖에 이리도 많은 뜻이 있다.]]
+
+== 유튜브 영상 시리즈 ==
+Tomska가 [[유튜브]]에 연재하는 영상 시리즈. [[asdfmovie]] 참조.
+== [[난해한 프로그래밍 언어]]의 하나 ==
+a, s, d, f로 모든 프로그래밍을 한다.
+예시로 Hello World!를 쓰려면
+ asaasaasssasaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaaaasssasaasssasaasss
+ asaasssasaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaasssasaaaasssasa
+ aaaaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaasssasaasssasaaaasssasaaaaaaa
+ asssasaasssasaaaaaaaaaaaasssasaaaaaasssasaasssasaaaaaasssasaasssasaaaasssasaas
+ ssasaaaaaaaasssasaasssasaaaaaasssasaaaasssasaasssasaaaasssasaaaasssasaasssasaa
+ aasssasaaaaaasssasaaaasssasaaaasssasaasssasaaaaaaaasssasaasssasaaaaaaaasssasaa
+.. 이라고 써야한다.~~d, f가 없는건 기분 탓인가?~~~~아니 이거 애초에 [[이진법]]이잖아~~ ~~ass?~~ ~~저 단락에서만 해도 ass가 50개 나왔다~~ --그걸 세봤어?-- --그냥 ctrl+F 하면 알아서 세 준다-- --shift+F3 해도 된다--~~그만해 미친놈들아~~
+
+[http://esolangs.org/wiki/Asdf 참고].

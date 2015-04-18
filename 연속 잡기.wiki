@@ -1,0 +1,12 @@
+[대전 액션 게임]에 존재하는 잡기의 한 종류. 가장 유명한 연속잡기로는 [철권]의 [킹]이 가진 연속잡기로서 시작기가 3종류에 각각 중간에 2가지 종류로 퍼질 수 있어서 잡기가 연속적으로 돌아가는 와중에도 당하는 사람은 이지선다 까지 걸리는 치명적인 잡기.
+
+하지만 잡기자체는 빠른편이아니고 시동기가 모두 양손잡기라서 상당히 쉽게 풀리며 꽤나 커맨드가 알려져있기 때문에 썼다가 끝까지 못가고 풀려버리는게 문제라면 문제. 하지만 끝까지 성공하면 데미지는 확실히 보장된다.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer86988' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=D048255CB2468265461F123F8FA8423E5375&outKey=V124b9f02d5c0f5a50a76d96732a009e527a9a14696825dda2e36d96732a009e527a9' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=D048255CB2468265461F123F8FA8423E5375&outKey=V124b9f02d5c0f5a50a76d96732a009e527a9a14696825dda2e36d96732a009e527a9' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer86988' id='NFPlayer86988' allowFullScreen='true' type='application/x-shockwave-flash' /></object>}}}
+
+최 철권 크래시 예선도중 [킹박사]와 구이의 대결도중 나온적이 있다.11초부터 나온다.
+
+사실 연속잡기는 위에도 서술했듯 약점이 많은데 이걸 거의 다 맞아버리자 나온 "이건 철권열전이 아닌데"가 마음에와 닿는다. --모르나요, 모르나요, 모르면 맞아야죠.--
+
+다른 게임에서는 [[KOF 시리즈]]의 [[다이몬 고로]]의 산 넘기기가 있다. 이후에도 [[wiki:"라몬(KOF)" 라몬]]과 [[클락 스틸]] 등에 차례로 연속 잡기계 초필살기가 등장

@@ -1,0 +1,54 @@
+attachment:eden_minori.jpg?width=570
+
+[[minori]]에서 발매한 게임. 본편 자체는 비성인용이며 18금 추가 디스크인 PLUS+MOSAIC가 따로 발매 되었다. 중요한건 18금 추가 디스크는 비성인용인 본편이 있어야 인스톨 가능하다. 참고로 본편과 추가디스크의 에피소드는 갭이 심한 편이다. 시온의 추가 에피소드를 제외하고 본편의 인상을 깨먹고 싶지 않다면, 하지 않는것도 좋겠다.[* 일반판의 가격이 5800엔, 18금 추가 디스크의 가격이 1980엔. 합쳐서 8000엔 이하의 가격이니 분할판매로 돈벌겠다는 상술은 아닌 것 같다. 구매층을 미성년까지 확대하겠다는 의미는 있겠지만.]
+
+대부분의 성우진과 스탭들이 [[ef - a fairy tale of the two.]]와 같으나 오프닝 감독이 [[신카이 마코토]]가 아니다.다만, 엔딩 스탭롤 'Special Thanks' 란에서 신카이 감독의 이름이 보이긴 했으니, 어떤 식으로건 도움을 주긴 줬던 모양이다. 여전히 음악 담당은 [[텐몬]]+야나기 에이치로. 
+
+2009년 8월 17일 체험판이 공개되었으며, 발매일은 동년 9월 18일. 선택지도 없고 볼륨도 크지 않아 게임이라기보다는 [[키네틱 노벨]]에 가깝지만 ef 시절에 맛들인 변태적인 수준의 CG활용을 여기서도 사용해 CG 숫자는 상당히 많다.
+
+작화는 [[The Grimoire of Marisa]] 삽화로 잘 알려진 모리키 타케시(守姫武士) 담당이며, 원화는 여성 캐릭터는 치코타무, 남성 캐릭터는 KIMちー가 맡는 이원체제.
+
+2014년 겨울에 [[MangaGamer]]를 통해 [[스팀]]에 등록될 예정이다. 
+
+2015년 1월 30일부로 스팀에 정식 등록되었다. 단, 일어 원판이 아닌 영문 텍스트에 일본어 보이스다. 스팀 스토어에 정식 등록되기 약 2달 전에 구입이 가능해지는 사고가 있었다. 스팀 측에서는 이 사고를 곧 인지하고, 구매자가 정식 등록일 전까지 게임 플레이가 불가능하도록 하는 한편 원하는 사람은 환불이 가능하도록 조치했다. 
+
+{{{#!html 
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer17935' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=F2B460714621015CE599BBB06489BA8D2FB3&outKey=V128872198a07cfb57eee0911b1a8bfa391d42cccd373472c03760911b1a8bfa391d4' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=F2B460714621015CE599BBB06489BA8D2FB3&outKey=V128872198a07cfb57eee0911b1a8bfa391d42cccd373472c03760911b1a8bfa391d4' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer17935' id='NFPlayer17935' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+||오프닝 - Little Explorer([[하라다 히토미]])||
+
+줄거리는 지구의 '''수명이 다해''' 인류가 지구탈출계획을 세우고 계획이 막바지에 이르렀다는 세계관에서 주인공 [[하루나 료]]가 지구탈출계획의 1등공신 [wiki:"시온(eden*)" 시온]이 근무하고 있는 연구소에 소속된 이후 겪게 되는 이야기이다.
+
+설정은 한계에 다다른 폐허가 된 지구를 배경으로 하지만, 작품내에선 이러한 묘사가 전혀 보이지 않는다. 끽 해야 생물의 수의 감소, 생물의 번식력의 변화, 사람들이 피난선을 타고 떠난다는것만 빼면 말이다. 이를 설정구멍으로 보거나, 배경설정을 잘 살리지 못했다고 하는 평이 있다.
+
+2013년 8월 24일 모 유저가 번역본을 완료 했으며 [http://anged86.ivyro.net/main/zboard/view.php?id=ut&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=261 참조]
+같은 해 10월 7일 해당 번역본을 기준으로 준한글패치도 만들어졌다.
+
+=== 등장 인물 ===
+  * [[하루나 료]] - [[마지마 준지]]
+  * [wiki:"시온(eden*)" 시온] - [[시무라 유미]] 
+  * [wiki:"에리카(eden*)" 에리카] - [[나카지마 유미코]]
+  * [[이나바 나오토]] - [[토치카 코이치]]
+  * [[아사이 F. 라비니아]] - [[나카무라 에리코]]
+
+  * [[토우노 마야]] - [[고토 마이]]
+  * [wiki:"나츠메(eden*)" 나츠메] - [[오카다 준코]]
+
+=== 관련 항목 ===
+  * [[펠릭스(eden*)]]
+
+=== 기타 ===
+0:10
+초속 5센치미터 2부 코스모나우트에 나오는 파도의 작화와 일치
+구름의 형태는 전형적인 신카이마코토 작화
+0:20 
+하늘은 초속5센치미터 3부에 나오던 타카기의 꿈의 작화와 흡사하고, 점차 구름의저편 약속의장소의 빛궤적 화법이 똑같음
+0:50
+폐허의 헝태나 이미지가 구름의저편 약속의장소에서 사유리의 꿈작화와 흡사하다
+1:30
+파편 엥글돌리기는 ef - a fairy tale of the two. 오프닝, EF- a tale of memories에서 두번 써먹은적있으며
+1:40
+달리기는 마찬가지로 ef - a latter tale에서 3D 활용 엥글돌리기가 일치함.
+1:50
+따다다다다닥 끊으면서 사물보여주기는 신카이마코토 감독 특유의 뮤직비디오 제작법등.
+신카이 마코토 감독이 참여하지 않았다면 제작진이 작정하고 신카이 마코토의 대표작에서 각 대표 효과를 그대로 가지고와서 총집합시켜 놓았다고 밖에 표현 불가능할 정도로 이 동영상 한편에는 신카이마코토가 지금까지 쓴 효과가 모두 쓰였다고 해도 과원이아니다.

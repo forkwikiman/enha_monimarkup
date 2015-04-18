@@ -1,0 +1,41 @@
+'''이겨서 울자!''' 승리의 눈물을 흘리자는 의미.
+
+[[목차]]
+
+== 개요 ==
+http://ec3.images-amazon.com/images/I/51183slxDKL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/ndf42M6dMR0?fs=1&amp;hl=ko_KR&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ndf42M6dMR0?fs=1&amp;hl=ko_KR&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+PV 영상
+
+[[레이튼 교수 시리즈]] 등으로 유명한 [[레벨 5]]의 게임을 원작으로 한 애니메이션 [[이나즈마 일레븐]]의 네 번째 오프닝 테마로, 노래는 T-Pistonz+KMC가 담당하였다. 작중에서는 68화에서 87화까지 오프닝 테마로 사용되었다. 싱글은 2010년 3월 10일에 발매되었고, 오리콘 차트 4위까지 올랐다.
+우리나라에서도 3기 오프닝 테마로 이 곡이 번안된 곡을 사용했는데, 원곡보다 썰렁하다는 평이 있다(...).
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer55640' width='640' height='480'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C82734BD9AEC84C4B4421CD0A8C210A4CEBC&outKey=V1267715604804dcd69ba7f0cccd89c1657bb5b5d319144e9f9257f0cccd89c1657bb' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C82734BD9AEC84C4B4421CD0A8C210A4CEBC&outKey=V1267715604804dcd69ba7f0cccd89c1657bb5b5d319144e9f9257f0cccd89c1657bb' wmode='transparent' width='640' height='480' allowScriptAccess='always' name='NFPlayer55640' id='NFPlayer55640' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+국내판 오프닝 영상. 어떤지는 직접 보고 판단하시길.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>7||
+||<#5a5aff><:>노트수||<:>235||<:>513||<:>627||
+||<#5a5aff><:>BPM||||||<:>136||
+||<#5a5aff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/IUvQFr09eI4" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 엑설런트 영상
+
+중반에 나오는 랩 부분을 포함해서 박자를 맞추기 까다로운 편이지만, 배치가 전체적으로 무난한 수준이라 익숙해지면 충분히 높은 점수를 뽑을 수 있다. 후반부의 y 문자노트나 곳곳에 보이는 V 모양의 노트가 큰 특징.
+
+게임이나 애니메이션 자체는 유명한 편인데 어째 라이센스 차트는 10위권에 든 적이 없다. --역시 [[wiki:"only my railgun" 츤데레포]]가 너무 센 거다. [[지못미]]--

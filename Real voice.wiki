@@ -1,0 +1,38 @@
+[[목차]]
+
+== 개요 ==
+http://ec3.images-amazon.com/images/I/41GHBKATAAL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/HudqwQV8YDk?fs=1&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/HudqwQV8YDk?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+PV 영상
+
+2006년 7월 19일에 발매된, 아야카(絢香)의 3번째 싱글 제목 및 그 타이틀 곡 이름. 어쩐지 국내에서는 ''''[[레알]]''' 보이스'라고 자주 읽힌다(...).
+
+== 수록곡 목록 ==
+1. Real voice   
+2. Peace loving people 
+3. Real voice (Inst.)
+
+== [[유비트 시리즈]]에 수록 ==
+attachment:1_jubeat_realvoice.png
+
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>4||<:>5||
+||<#5a5aff><:>노트수||<:>173||<:>258||<:>349||
+||<#5a5aff><:>BPM||||||<:>131||
+||<#5a5aff><:>곡 이력||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#27a449 BSC}}}레벨 1 상승, {{{#f68a1f ADV}}}레벨 1 하락, {{{#e75050 EXT}}}레벨 1 하락[[BR]][[유비트 플러스]]에서 music pack 25에 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+커버 보컬 버전으로 수록되었다.
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/TUWJiVeQ48A" frameborder="0" allowFullScreen></iframe>
+}}}
+NAT 플레이어의 엑설런트 영상
+
+'''[[엑설런트]] 제물''' 중 하나. 노트가 일정한 박자에 딱딱 맞춰서 나오기 때문에 중반의 모서리 동시치기에 주의하고 박자감을 잃지 않으면 쉽게 높은 점수를 올릴 수 있다.

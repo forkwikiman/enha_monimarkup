@@ -1,0 +1,24 @@
+[[include(틀:사고위험행위)]]
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/HBGYhh0D2lY?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/HBGYhh0D2lY?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+상위 문서 : [[프로레슬링/기술]]
+
+상대와 나란히 선 상태로 옆에서 목과 팔을 잡고 다리를 건 뒤, 뒤로 넘어지는 기술이다.
+
+원래 이 기술은 스모의 '''방어기술'''인 개구리걸기에서 아이디어를 얻은 기술이다. 최초 사용자는 [[역도산]]. [[역도산]]이 프로레슬링에서 활약하던 때 [[루 테즈]]의 [[백드롭]]에 속수무책으로 당했었는데 이때 백드롭을 당하지 않으려고 저항하다 만든 기술을 제자인 [[자이언트 바바]]가 받아 다리까지 걸어서 넘어지는 공격기술로 바꾸었다. 그것이 원조인 [[자이언트 바바]]의 개구리 떨구기 그런데 사실 말이 공격이지 대체 어느부위가 타점인지 잘 모르는 기술. 목인지 등인지... 시전자나 피폭자나 똑같이 뒤로 넘어가는 기술이라 그대로 쓰면 이게 타격기인지 자폭기인지도 알기 어렵다.
+
+자이언트 바바는 TV 해설 때 "자신보다 키가 작은 상대에게 사용하지 않으면 상대의 머리를 붙잡고 있는 자신의 팔이 쿠션처럼 충격을 대신 흡수해 버려서 위력이 줄어든다."라고 밝혔다고 한다.
+
+이 기술이 북미로 넘어가면서 이름이 바뀌었는데, 왜 '''러시안''' 레그스윕인지도 아직 알려진 것이 없다. 커맨드 [[삼보]]에 이와 유사한 기술이 있어서라는 설이 유력하나 확정적이진 않다.
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/H87oSQa2-wk?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/H87oSQa2-wk?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[돌프 지글러]]의 지그 재그. 점프해서 쓰는 러시안 레그스윕으로 돌프 지글러의 [[피니쉬 무브]]이다.--다리를 안거는데 레그 스윕이냐고 따지지 말자-- 사실 최근의 지그 재그는 [wiki:"브레이커(프로레슬링)#s-3"넥 브레이커]에 가깝다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/VOYM3LzjLMU?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/VOYM3LzjLMU?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[샌드맨]]의 화이트 러시안 레그 스윕. 죽도로 목을 걸어 쓰러뜨리는 형태. 샌드맨은 이 기술과 센턴밤을 제외하면 제대로 된 기술이 거의 없다시피했다.

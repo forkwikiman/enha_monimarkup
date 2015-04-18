@@ -1,0 +1,150 @@
+본 문서에서는 [[리듬게임]]에서의 수록곡에 대해 다루고 있으며, 세곡 다 서로 연관성은 없다
+
+[[목차]]
+== [[EZ2DJ]] 시리즈의 수록곡 ==
+|| 장르 |||||||| Dance[* EZ2ON의 분류이다.] ||
+|| 곡명 |||||||| Stay with me ||
+|| 작사/작곡 |||||||| 한태수 ||
+|| 보컬 |||||||| Baby Boy ||
+|| 배경 |||||||| [wiki:"armcho" Arms] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 115 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple 10}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6}}} || {{{#red 7}}} || {{{#purple 8}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 5}}} || {{{#red 6}}} || {{{#purple 10}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 5}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_TnCyArFsGc4$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=TnCyArFsGc4$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=TnCyArFsGc4$&playLoc=undefined'></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''BGA'''
+
+[wiki:"EZ2DJ 6thTRAX ~Self Evolution~" Ez2DJ 6th TraX]에 수록된 가요 풍의 곡. 딱 대중 가요를 듣는 듯한 분위기의 편안한 곡이다. 깔끔한 분위기의 곡에 역시 비주얼도 정적이고 깔끔한 편. 6th TraX에는 장르 표기가 되지 않았으나, 후에 [[EZ2ON]]에서 그냥 'Dance'로 장르가 분류되었다.
+
+배경의 Arms는 [[트릭스터]] 일러스트를 담당한 Armcho(암초)이다. 이 곡에 참여한 것을 계기로 [[DJMAX 시리즈]]에도 참여하게 되는데, DJMAX Online에 수록된 Catch Me와 Portable 2에 수록된 [[Good Bye]]의 비주얼을 담당하였다.
+
+사족으로 게임판과 OST판이 약간 다르다. 후반 후렴구에서 같이 부르는 보컬이 여자이냐 남자이냐의 차이 정도.
+
+=== 패턴 ===
+==== 5K ONLY ====
+==== 5K RUBY ====
+==== 5K STANDARD ====
+저난이도 곡이지만, 나름대로 치는 맛이 있는 편이다. 신곡들이 하나같이 패턴이 밍밍했던 6th TraX에서 치는 맛이 있었던 곡이였다. EV에서 8짜리 5키 슈하가 추가되었는데 노트 수로 미루어보아 znpfg 패턴으로 추정된다.
+==== 7K STANDARD ====
+==== 5K COURSE ====
+==== 7K COURSE ====
+==== 10K MANIAC ====
+==== 14K MANIAC ====
+==== EZ2CATCH ====
+==== TURNTABLE ====
+
+=== EZ2ON에서의 Stay with me ===
+아래는 [[EZ2ON]]에서의 정보이다.
+|| 해금 레벨[* 숫자는 곡 자체/SHD(8키)] |||||||||| 10/12 ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) ||  ||  ||  ||  || - ||
+|| 스트릿(5키) ||  ||  ||  ||  || - ||
+|| 클럽(6키/8키) || 7 || 11 || 15 || - || 15 ||
+
+=== 가사 ===
+||(Said I need you, girl)
+(당신를 원한다고 말했어)
+
+Baby baby stay with me Stay With Me
+나와 함께 해줘요 그대여, 함께 해줘요
+Baby baby stay with me Stay With Me
+나와 함께 해줘요 그대여, 함께 해줘요
+
+When I told you that I love you, girl. 
+당신에게 사랑을 고백할때
+I do You are the best thing in my life
+나는 내인생 최고의 여자는 당신이라고 말했었죠
+Said I need your love I can`t live without you 
+난 당신 없이 살수 없어서 당신의 사랑이 필요해요. 
+If you go I don't know what I do
+당신이 떠나면  난 아무것도 할줄 모르게 될거에요
+
+(So baby please)
+(그대여 제발)
+
+I just wanna love you girl Come on let me love you girl
+난 당신을 사랑하고싶을뿐이죠. 내사랑을 허락해주세요 그대여
+Said I really need you in my life (Said I really need you in my life)
+당신없는 내인생은 있을수가 없어요 (내 삶에서 당신이 정말 필요하다고 말했어요)
+I just wanna love you girl Come on let me love you girl 
+난 당신을 사랑하고싶을뿐이죠. 내사랑을 허락해주세요 그대여
+Girl, I really need you near
+그대여 내곁에 있어줘요
+
+When I told you that I love you, girl. (Yes, I do)
+당신에게 사랑을 고백할때 (그래요)
+I do You are the best thing in my life (Yeah)
+나는 내인생 최고의 여자는 당신이라고 말했었죠 (예~)
+Said I need your love I can`t live without you 
+난 당신 없이 살수 없어서 당신의 사랑이 필요해요. 
+If you go I don't know what I do
+당신이 떠나면  난 아무것도 할줄 모르게 될거에요
+
+I just wanna love you girl Come on let me love you girl
+난 당신을 사랑하고싶을뿐이죠. 내사랑을 허락해주세요 그대여
+Said I really need you in my life (Said I really need you in my life)
+당신없는 내인생은 있을수가 없어요 (내 삶에서 당신이 정말 필요하다고 말했어요)
+I just wanna love you girl Come on let me love you girl 
+난 당신을 사랑하고싶을뿐이죠. 내사랑을 허락해주세요 그대여
+Girl, I really need you near
+그대여 내곁에 있어줘요
+
+Baby baby stay stay with me (I want you with in my mind)
+나와 함께 해줘요 그대여 (나는 진심으로 그대를 원해요)
+Stay With Me (I'm just thinking of you in my mind)
+나와 함께 해줘요 (난 진심으로 그대를 생각해요)
+Baby baby stay stay with me (I think you baby baby) 
+나와 함께 해줘요 그대여 (그대를 사랑해요) 
+Stay With Me
+나와 함께 해줘요||
+
+== DJMAX의 수록곡 Stay with me ==
+|||| [[DJMAX 시리즈/수록곡 목록]] ||
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 작곡 || [[Ruby Tuesday]] ||
+|| 작사 || [[Ruby Tuesday]] ||
+|| 보컬 || LEAH ||
+|| BGA || [[Tem]] ||
+|| 장르 || Techno Pop ||
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/J-gzNQqLiQQ&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/J-gzNQqLiQQ&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+ 
+1번의 곡과는 달리 이쪽은 장르명과 같이 테크노 팝 분위기. [[Ruby Tuesday]]의 곡 답게 곡 자체는 좋은 편이지만 1번의 동명의 곡에 비해서는 리듬게임게에서 존재감이 작은 편. 특이점으로는 게임상의 숏 버젼은, 원곡의 1절이 아닌 2절 부분을 쓰고 있다.
+
+== [비트매니아 III]의 수록곡 Stay with me ==
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/UUo7JrW74o8?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UUo7JrW74o8?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+팝픈뮤직에서의 플레이 동영상
+
+|| 최초 수록 버전 || [[비트매니아 III]] ||
+|| 작곡 || dj nagureo ||
+|| 보컬 || Robbie Danzie ||
+|| 장르 || Garage House ||
+
+{{|
+전형적인 댄서블한 개러지 곡조 하우스로, 게임적으로도 고난이도인 곡입니다. 공략법은,후반의 스크래치가 포인트입니다.
+백 코러스나, 수많은 명곡, 유닛에 참가하고 있는 로비 단지를 피쳐링한 곡으로, [[20,november]]의 후계적인 곡입니다.
+|}}
+
+비트매니아 III에 첫 수록된 곡. 코멘트에서 알 수 있듯 [[20,november]]의 후속곡.
+
+본가 [[비트매니아]]에서는 THE FINAL에서 이식되었고, [[팝픈뮤직]]에서도 [[ee'MALL]]을 통해 이식되었으나 17 THE MOVIE에서 5키 비트매니아곡들의 대량삭제에 같이 떠밀려서 사라지게 된 곡.
+
+이 노래의 보컬 담당은 [[Right On Time]]를 부른 Robbie Danzie이므로, 기타드럼을 접한 유저들에게는 친근한 여성 보컬이다.

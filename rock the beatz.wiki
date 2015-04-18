@@ -1,0 +1,46 @@
+[[목차]]
+
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 [[ASLETICS]]으로, 힙합과 락이 적절히 곁들여진 곡 구성이 특징이다.
+
+== [[비트매니아 시리즈]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/ePNT-pCnOyE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아]],[[비트매니아 III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 100~122 |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 4}}} || {{{#orange 210}}} || {{{#red 5}}} || {{{#red 332}}} || {{{#green 6}}} || {{{#green 422}}} || {{{#orange 3}}} || {{{#orange 245}}} || {{{#red 5}}} || {{{#red 332}}} || {{{#green 6}}} || {{{#green 422}}} ||
+
+ * [wiki:"비트매니아 시리즈" 곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : CORE REMIX, THE FINAL
+ * 가정용판 수록 : beatmania 6th mix + CORE REMIX
+ * 타 [[비마니 시리즈]] 이식 : beatmania III APPEND CORE REMIX ~ beatmania III THE FINAL, [[팝픈뮤직]]
+
+[[wiki:"비트매니아 시리즈/역사#s-1.10" 비트매니아 CORE REMIX]]에 첫 수록되었다. 노멀, 하드와 어나더의 곡 구조가 약간 틀린데, 어나더의 음원이 약간 더 길다.
+
+== [[팝픈뮤직]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/1JsBkz2ntkc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+来ましたね～、リズムもギターもグイグイ来てます。このコアなサウンドがたまらない！
+왔네요~, 리듬도 기타도 쭉쭉 오고 있습니다. 이 코어한 사운드가 참을 수 없어!
+|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 9 [[br]] (ee'MALL) || Mixture[[br]]믹스쳐 || rock and beatz || [[ASLETICS]] || COSINE[[br]][코사인] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 100~122 || 43단계 || {{{#blue 8}}} || {{{#green 14}}} || {{{#orange 24}}} || {{{#red -}}} ||
+|||| 노트 수 || {{{#blue 229}}} || {{{#green 229}}} || {{{#orange 412}}} || {{{#red -}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+팝픈뮤직 9에 [[ee'MALL]]을 통해서 이식되었다.
+
+첫 수록 당시의 캐릭터는 [[MZD]]였다가 14 FEVER!에서 코사인으로 변경되었다. 전체적으로 난이도는 저렙에 EX가 없다. 하이퍼는 비트매니아의 어나더 보면의 컷팅.
+
+17 THE MOVIE에서 삭제되어 현행 버전에선 플레이 불가.

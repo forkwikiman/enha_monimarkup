@@ -1,0 +1,24 @@
+||<:><rowbgcolor=#FFFFFF>http://goto2020.cdn1.cafe24.com/img/game/tw/icon/nod/unit/harvester.png?width=200 ||<:>http://goto2020.cdn1.cafe24.com/img/game/tw/ingame/nod/unit/harvester.jpg ||
+||<:><rowbgcolor=#FF0000> {{{#ffffff '''유닛 아이콘'''}}} ||<:><rowbgcolor=#FF0000> {{{#ffffff '''게임 내 텍스처'''}}} ||
+
+{{{#!html
+<object style="height: 300px; width: 560px"><param name="movie" value="http://www.youtube.com/v/2nwbj__KtB4?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/2nwbj__KtB4?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="560" height="300"></object>
+}}}
+
+대사집
+
+||<:>구분 ||<:><#009900> '''[[커맨드 앤 컨커3 타이베리움 워|<span style="color:white">오리지널]]''' ||<:><#FF0000> '''[[커맨드 앤 컨커3 케인의 분노|<span style="color:white">확장팩]]''' ||
+|| 가격 || 1400원 || 1600원 ||
+|| 생산시간 || 14초 || 16초 ||
+|| 요구사항 ||<-2> [[군수공장]], 정제소 ||
+||<-3> [[wiki:"블랙 핸드(진영)"블랙 핸드]]는 [[블랙 핸드 하베스터]]로 대체 ||
+
+[[커맨드 앤 컨커3 타이베리움 워]]에 등장하는 [[Nod]]의 [[wiki:"하베스터(커맨드 앤 컨커 시리즈)"하베스터]]
+
+스텔스 발생기가 있는 하베스터이다. 그렇기 때문에 [[스텔스]] 상태이며 타이베리움 정제소에 들어가야 스텔스가 풀리고 스텔스 감지 유닛으로 탐지할 수 있다. 문제는 하베스터 테러에 이용하는 [어택 바이크], [[핏불]], [[시커]], [wiki:"오르카(커맨드 앤 컨커 시리즈)" 오르카] 등은 스텔스 감지가 가능하다.(...)
+
+게임상에서는 [[타이베리움]]을 뒤로 채취하는 행위 때문인지 가장 [[인공지능]]이 나쁘다.
+
+참고로 하베스터의 대사는 영문 해석이 어느정도 된다면 [[타이베리움]]에 집착한다는 사실을 알 수 있다.(...) [[블랙 핸드 하베스터]]도 동일하다.
+
+[[커맨드 앤 컨커3 케인의 분노]]에서는 [[Nod]] 본대는 물론 [[Marked of Kane]]도 사용한다.

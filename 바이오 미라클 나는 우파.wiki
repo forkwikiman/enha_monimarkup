@@ -1,0 +1,28 @@
+[[목차]]
+
+순수하고 해맑은 [[아기]]를 주인공으로 한 게임에 관한 내용이다. ~~혹시 [[정치]]와 관련된 게임인가 생각하고 이 항목에 들어왔다면 심히 골룸하다.~~
+
+== 개요 ==
+
+バイオミラクルぼくってウパ
+
+{{{#!HTML 
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/ZBKRM0_2fKo?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZBKRM0_2fKo?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object> }}}
+
+[[1988년]]에 [[코나미]]에서 내놓은 플랫폼 게임. [[패미컴]]으로 발매되었다.
+
+제목의 '우파'는 ~~[wiki:"우파"右派]가 아니고~~ 이 게임의 주인공 이름이다. 주인공은 [[아기]] 캐릭터로, 기어서 이동을 하며 점프를 할 수 있다. 공격은 근접공격이고 공격 무기는 딸랑이이다. 딸랑이에 맞은 자코는 풍선이 되어 하늘로 떠오르다가 펑 하고 터지면서 떨어지고 그냥 OUT된다. 근데 재미있는 건, 딸랑이 맞고 공중에 뜨면서 [[사망 플래그]] 확정된 자코를 우파가 발판으로 쓸 수 있다는 것이고, 보스전에서도 보스가 내뱉는 자코를 풍선으로 만들어서 공격용으로도 쓸 수 있다는 것이다.
+
+== 이식 ==
+[[모바일 게임]] 버전과 [[버추얼 콘솔]] 버전으로 이식되엇다.
+
+어떤 [[합팩]]에서는 주인공이 짱구로 바뀌고 아이템도 은근히 달라진 [[크레용 신짱]] 버전으로 등장했다. 
+
+== 찬조출연 ==
+ * [[와이 와이 월드]]
+ * [[극상 파로디우스]] ([[슈퍼패미컴]]판 한정)
+ * [[실황 떠벌이 파로디우스]]
+ * [[팝픈뮤직]] 9
+ * [[실황 파워풀 프로야구]]
+
+극상 파로디우스와 실황 떠벌이 파로디우스에선 2P 버전의 캐릭터로 우파의 여동생 '루파'가 존재한다. 조합하면 [[우파루파]]

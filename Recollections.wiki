@@ -1,0 +1,48 @@
+상위항목 : [Cytus], [Cytus/수록곡], [Deemo]
+
+[[목차]]
+= [Cytus] =
+||||||||<table align=right> '''Recollections''' ||
+||||||||  http://wikiwiki.jp/cytus/?plugin=ref&page=Recollections&src=recollections.jpg&height=125 ||
+||<:>작곡||||||||<:>[[Yamajet]]||
+||<:>보컬||||||||<:> - ||
+||<:>일러스트||||||||<:> IDRIL ||
+||<:>BPM||||||||<:> 96 ||
+||<:>연주 시간||||||||<:> 2:23 ||
+|| ||<:>EASY||<:>HARD||
+||<:>레벨||<:>6||<:>9[* 이지4/하드8에서 4.0업데이트 이후 상향조정]||
+||<:>노트 수||<:>283||<:>491||
+||<:>'''특이사항'''||||||<:> - ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/8C0HGicadZ0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+챕터 5 : VANESSA에 수록된 곡. Yamajet이 작곡하였으며 곡의 전체적인 분위기는 거의 [wiki:"Dream of You" 이 곡]과 비슷하다.  
+
+yamajet이 작곡한 [wiki:"Hard Landing" 곡]이 그러듯이 패턴은 변태적이다.(...) ~~애초에 이 분 앞에서 평범한 패턴을 기대하는 것 자체가...~~ 스크롤의 속도가 2박 스크롤인데도 느린데다 전체적으로 '''5/4박자'''라 익숙하지 않은 엇박이 많기 때문에 판정이 매우 짜게 느껴진다. 특히 중반과 후반에 튀어나오는 이 곡의 모든 것이라 할 수 있는 '''24비트 지그재그'''는 그야말로 압권. 저 지그재그만 어떻게 잘 처리하면 밀마 자체는 9렙치고 그리 어렵지는 않다. 이후 이 지그재그 패턴은 또 다른 [wiki:"Halloween Party" 곡]에도 나왔다.
+
+~~곡도 그렇고 패턴도 그렇고 점점 이 [wiki:"Makou" 양반] 닮아가는거 같다~~
+
+사실상 5챕터 TP작업은 [[Zauberkugel]]과 함께 양대산맥을 이룬다. 둘 다 재즈곡인데다 박자도 엇박이다.
+= [Deemo] =
+||||||||<table align=right> '''Recollections'''||
+||||||||http://img4.wikia.nocookie.net/__cb20141011084707/deemo/images/thumb/0/0f/Recollections.jpg/536px-Recollections.jpg?width=240||
+||<:>작곡||||||||<:>Yamajet||
+||<:>BPM||||||||<:>120||
+|| ||<:>Easy||<:>Normal||<:>Hard||
+||<:>레벨||<:>4||<:>6||<:>8||
+||<:>노트수||<:>381||<:>622||<:>741||
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/gFNrL0zBxKA?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/qUmQHb6oTYU?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+Hard 모드 All Charming 동영상.
+
+2014년 10월 10일에 업데이트 된 [Deemo]의 수록곡. #11 Cytus Selection Vol.2에 수록되어있다.
+
+올콤하기는 어렵지 않으나, 그 놈의 엇박(...)이 정확도를 갉아먹는다.

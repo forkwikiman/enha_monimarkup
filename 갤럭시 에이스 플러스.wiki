@@ -1,0 +1,32 @@
+ * 상위 항목 : [[갤럭시 에이스]]
+
+||<tablealign="center"> attachment:/GalaxyAcePlusKorean.jpg || attachment:galaxyaceplusblack.jpg || attachment:/GalaxyAcePlusGlobalWhite.jpg ||
+||<:>한국판 자급제 모델 ||<:>블랙  || <:>화이트 ||
+|||||| [[http://www.samsung.com/sec/consumer/mobile-phone/mobile-phone/open/SHW-M460DABOO 한국 삼성전자 SHW-M460D 공식 사이트]] ||
+
+[[목차]]
+
+== 개요 ==
+[[삼성전자]]가 2012년 1월에 공개한 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]].
+
+== 사양 ==
+ * 사양이 두 가지 이상으로 나뉘는 경우, 한국 내수용 사양에 해당되는 부분에 '''{{{#FFE08C 노란색 바탕}}}'''으로 표기.
+||<|2>[wiki:"SoC" 프로][[br]][[SoC|세서]]||<:>'''기본'''||<#FFF5A0>[[퀄컴 스냅드래곤]] S1 MSM7227A-1 [[SoC]] ||<|2><#FFF5A0>[[ARM Cortex-A5]] 1 GHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||<#fe6b02><:>'''[[차이나텔레콤|CT]]'''||[[퀄컴 스냅드래곤]] S1 MSM7627A-1 [[SoC]]||
+||||[[메모리]]||||512 MB LPDDR1 SDRAM, 4 GB 내장메모리, micro SDHC (최대 32 GB 까지) ||
+||||[[디스플레이]]||||3.6인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||<|3>[[네트워크|네트]][[br]][[네트워크|워크]]||<:>'''기본'''||<:><#FFF5A0>[wiki:"WCDMA" HSDPA & HSUPA & UMTS] ||<|3><#FFF5A0>[wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||<#494a4c><:>'''[[차이나모바일|<span style="color:#ffffff">CM]]''' ||<:>[[TD-SCDMA]] ||
+||<#fe6b02><:>'''[[차이나텔레콤|CT]]'''||<:>[wiki:"CDMA2000" CDMA & EV-DO Rev. A] ||
+||||[[카메라]]||||후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||||[[배터리]]||||Li-lon 1300 mAh ||
+||||[[운영체제]]||||[[안드로이드(운영체제)/버전|안드로이드]] 2.3 (Gingerbread)[[br]][[삼성 터치위즈]] 3.0(보급형 경량판) ||
+||||규격||||62.5 x 114.7 x 11.2 mm, 115 g ||
+||||기타||||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+== 상세 ==
+전반적으로는 갤럭시 미니 2와 비슷한 사양을 가졌다. 다만, CPU 클럭이 1 GHz이고, 본가와 비교해 RAM 용량이 늘었다. 그 외에는 별 다른 점은 없다.
+
+한국에서는 2012년 11월에 [[단말기 자급제]] 제품으로 [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=277&aid=0002853743 출시]되었다.
+
+여담으로 '''4.1 젤리빈 업그레이드 대상 기기'''였다. 다만, 모든 4.1 업그레이드가 마무리된 2013년 6월, 갤럭시 미니 2와 같이 아무런 소식이 없다가 결국 2013년 6월, 삼성전자에서 [[http://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=031&aid=0000294799&date=20130620&type=1&rankingSeq=7&rankingS 갤럭시 미니 2의 4.1 젤리빈 업그레이드 지원 철회]]를 함에 따라 이쪽도 역시 불투명해졌다. 갤럭시 영만 봐도 AP 성능은 엇비슷하지만 내장 메모리에서 시스템으로 할당된 용량이 1 GB 남짓이니 갤럭시 영의 펌웨어를 사용한다 하더라도 상당한 어려움이 있었던 것으로 보인다.

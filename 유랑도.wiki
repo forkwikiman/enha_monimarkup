@@ -1,0 +1,35 @@
+[[include(틀:월드 오브 워크래프트/지역)]]
+
+||<tablealign=center>attachment:the_wandering_isle_000.jpg||
+||attachment:the_wandering_isle_001.jpg||
+
+{{{#!html
+<div align="center"><object width="420" height="315"><param name="movie" value="//www.youtube.com/v/RrrYq_CmB7I?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/RrrYq_CmB7I?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+}}}
+
+The Wandering Isle. [[월드 오브 워크래프트]]에 등장하는 지역. [[판다리아]] 본토와 떨어진 지 오래된 [[판다렌]] 종족의 시작 지점인 유랑도는, 진짜 섬이 아니라 아주 오래 전 안개로 세상과 단절된 판다리아에서 바깥 세상을 탐험하고 싶었던 판다렌 리우 랑(Liu Lang)[* 리우 랑은 유랑(流浪)의 중국식 발음(liúlàng)이기도 하다.]과 함께 세상을 여행하던 거북이 셴진 수의 등에 얹힌 거대한 땅덩어리다. 최소 15레벨이 되기 전에 떠나야 하고 한 번 떠나면 돌아올 수 없지만 어째서인지 85레벨용 음식을 판매하고, 판다렌 종족에게만 주어지는 샹 시 수도원 평판도 확고를 찍을 수는 없다. ~~케잔과 유랑도 둘 중에 어느 쪽이 먼저 돌아갈 수 있을까~~
+
+attachment:the_wandering_isle_002.jpg?align=center
+
+'''셴진 수(Shen-zin Su)'''[* 중국어로 '神真子(Shénzhēnzi)'라고 쓴다.][* 여담으로 이 이름은 리우 랑이 세계를 탐험할 작정이라고 하자 맞장구를 치며 원래 산 물건에 공짜로 우산(리우 랑이 항상 갖고 다니는 그것)까지 얹어준 잡화점 주인 '셴진'의 이름에서 따온 거라 카더라.]는 정말로 엄청나게 [[거대한 거북]]이다. 크기만 따지면 [[반신]] 정도는 상대가 안 될 정도.[* 라고 해도 이 거북이의 나이만 봐서는 이미 반신 아닐까 싶다.] [[바쉬르]]의 민달팽이 반신인 [[네스피라]]나 고레크보다 훨씬 거대하다. ~~[[토르톨라]] 지못미...~~ 하지만 [[판다리아의 안개|최근]] 들어 셴진 수가 균형을 잃고 점점 [[혼돈의 소용돌이]]를 향해 헤엄치고 있다.
+
+사부 샹 시는 새 제자인 플레이어에게 흩어진 네 고대 정령을 모아 그들의 힘을 빌어 셴진 수와 대화하고 이상 행동의 원인을 밝힐 것을 명한다. 이 여정에는 사부 샹 시의 또 다른 제자들인 투슈이 문파의 수장 [[아이사 클라우드싱어]]와 후오진 문파의 수장 [[지 파이어포우]]가 함께한다. 후에 [[조조 아이언브라우]]라는 판다렌도 함께 하게 된다. 여정을 진행하면서 지가 아이사에게 반한 듯한 묘사가 있다.
+
+셴진 수와 대화하기 전, 장로들이 자신의 지팡이를 묘비 삼아 영면에 드는 장소라는 지팡이의 숲에서 수명이 다 된 사부 샹 시를 배웅하는 이벤트가 있다. 하지만 판다렌들은 장로의 영혼과 소통하는 능력이 있기 때문에 사부 샹 시는 영혼의 모습으로 마지막까지 등장한다(...). 모든 정령을 모아 셴진 수와 대화하여 밝혀진 이상 행동의 이유는 최근 셴진 수의 허리에 추락한 [[얼라이언스(워크래프트)|얼라이언스]] 비행포격선 하늘추적자호 때문으로, 이 비행포격선이 옆구리에 깊게 꽂혀버리는 바람에 그 고통으로 셴진 수가 똑바로 헤엄치지 못한 것이다.[* 확장팩 초기에는 이 비행포격선이 [[데스윙]]과의 전투 도중 추락한 얼라이언스 비행포격선 [[데스윙의 등|하늘불꽃호]]였다. 테스트 서버 초기의 스크린샷 등을 보면 '하늘불꽃호 추락지점'이라는 장소가 있는 것을 확인할 수 있다. 현재는 '하늘추적자호의 잔해'. 하늘불꽃호 쪽이 스토리 전개로 보면 더 극적이지만, 데스윙과의 전투는 세계를 구하기 위해 모든 종족이 힘을 합한 것인 만큼 세력 간의 알력으로 인한 사고였다는 쪽이 [[판다리아의 안개]] 스토리 전개에 일관성을 부여한다고 판단한 듯하다.] 이를 안 플레이어와 동료들은 비행포격선을 빼낼 방법을 찾기 위해 흩어지고 [[호드(워크래프트)|호드]] 및 얼라이언스와 접촉하게 된다.
+
+호드는 이 상황에 대해 다소 위험을 동반하지만 한시라도 빨리 해결해야 하는 급박한 문제이니 폭탄으로 비행포격선을 튕겨내버리자는 강경책을 제시하고, [[지 파이어포우]]는 이에 공감한다. [[아이사 클라우드싱어]]가 깊은 상처가 남을 것을 염려하여 좀 더 시간이 걸려도 다른 좋은 방법을 생각해보자며 반대하지만 호드와 지는 상처는 치유하면 된다며 뜻을 계속 밀고 나가고, 결국 아이사는 '정 그렇다면 더 이상 말리지는 않겠다'며 물러선다. 그러나 폭탄을 터트리자, 예상했던 대로 셴진 수의 옆구리에는 깊은 상처가 남게 된다.
+
+{{{#!html
+<div align="center"><object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer07235' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=956B0028BED56A36874470C12C084DB70E1B&outKey=V123ff0653b6822deb5c67e48f7778b839e76b738af0d15f1cc8a7e48f7778b839e76' /><param name='wmode' value='transparent' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=956B0028BED56A36874470C12C084DB70E1B&outKey=V123ff0653b6822deb5c67e48f7778b839e76b738af0d15f1cc8a7e48f7778b839e76' wmode='transparent' width='512' height='321' allowScriptAccess='always' name='NFPlayer07235' allowFullScreen='true' type='application/x-shockwave-flash' /></object></div>
+}}}
+ * [http://youtu.be/dlBtlWrbSvI 영어 버전]
+
+||<tablewidth=100%>||<width=15%><^|1>지 파이어포우: ||<width=33%>아이사... ||<width=13%><^|1>Ji Firepaw: ||<width=40%>Aysa... ||
+||||<^|1>아이사 클라우드싱어: ||그가 죽어가요. ||<^|1>Aysa Cloudsinger: ||He is dying. ||
+||||<^|1>지 파이어포우: ||이 상처는 치유할 수 있어. ||<^|1>Ji Firepaw: ||His wounds can be healed. ||
+||||<^|1>아이사 클라우드싱어: ||<^|1>당신이 오늘 저지른 일은... 용서받지 못할 거예요. ||<^|1>Aysa Cloudsinger: ||I hope you can forgive yourself... for what you have done to him.[* 직역하면 "당신이 그에게 한 짓에 대해 스스로를 용서할 수 있기를 빌겠어요". ~~뉘앙스가 확 바뀐 것 같은데? 돌려까기 vs 대놓고 까기~~][* 여담으로 국내판 아이사의 대사는 '하지만'을 생략했다는 전제 하에 [[초월번역]]이 될 수도 있다. (지:이 상처는 치유할 수 있어. 아이사:(하지만) 당신이 오늘 저지른 일은... 용서받지 못할 거예요.)] ||
+
+아이사는 지를 비난하며 깊은비늘 괴물들로부터 셴진 수의 상처를 보호하기 위해 자리를 떠난다. 한편 지와 플레이어는 얼라이언스 [[사제(WoW)|사제]]와 호드 [[드루이드(WoW)|드루이드]]를 모으고 사우록들로부터 보호하면서 셴진 수를 치유하며, 다행히도 셴진 수의 상처는 성공적으로 아물어서 회복하게 된다.
+
+모든 사건을 해결한 사부 샹 시의 제자들은 더 넓은 세상을 탐험하고자 한다. 그리고 각각 [[조조 아이언브라우|조조]]와 투슈이 판다렌의 수장 [[아이사 클라우드싱어]]가 [[얼라이언스(워크래프트)|얼라이언스]]에, 후오진 판다렌의 수장 [[지 파이어포우]]가 [[호드(워크래프트)|호드]]에 붙기로 결정하고 길을 떠난다. 플레이어는 여기에서 자신의 진영을 고르게 된다.~~어떤 양덕은 중립으로 남아서 90렙 찍었다.[http://www.inven.co.kr/board/powerbbs.php?come_idx=1896&query=view&p=1&my=&category=&sort=PID&orderby=&where=&name=subject&subject=&content=&keyword=%C1%DF%B8%B3&sterm=&iskin=&mskin=&l=15017 #]~~ ~~그리고 2015년에 100랩이 되었다.[http://us.battle.net/wow/en/character/mannoroth/Doubleagent/simple]~~
+아쉬운 점이라면 동족, 가까운 친우들간에 이념과 사상으로 인한 불화와 갈라섬, 대립 등 스토리적으로 심도있게 풀어갈 수 있는 소재였음에도 이후에는 그냥 흐지부지하게 묻히고, 막판 오그리마 공성전 때 갑자기 화해하는 분위기로 갔다는 점이다.

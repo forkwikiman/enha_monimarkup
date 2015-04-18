@@ -1,0 +1,10 @@
+||<tablealign=center><-6><#ffffff><:>[wiki:"메이저리그" <span style="font-weight:bold;color:#00004e">MLB</span>] [wiki:"내셔널리그" <span style="font-weight:bold;color:#00004e">내셔널리그</span>] ||
+||<-6><:><#0000cc> '''{{{#ffffff 동부지구 소속구단}}}''' ||
+||<width=12%><:> attachment:/Braves_1.png ||<width=21.3%><#DCDCDC><:> [[애틀랜타 브레이브스]] [[br]] (Atlanta Braves) ||<width=12%><:> attachment:/Marlins_1.png ||<width=21.3%><#DCDCDC><:> [[마이애미 말린스]] [[br]] (Miami Marlins) ||<width=12%><:> attachment:/Mets_1.png ||<width=21.4%><:><#DCDCDC> [[뉴욕 메츠]] [[br]] (New York Mets) ||
+||<:> attachment:/Nationals_1.png ||<#DCDCDC><:> [[워싱턴 내셔널스]] [[br]] (Washington Nationals) ||<:> attachment:/Phillies_1.png  ||<#DCDCDC><:> [[필라델피아 필리스]] [[br]] (Philadelphia Phillies) ||
+||<-6><:><#670067> '''{{{#ffffff 중부지구 소속구단}}}''' ||
+||<width=12%><:> attachment:/Cardinals_1.png ||<width=21.3%><:><#DCDCDC> [[세인트루이스 카디널스]][[br]](Saint Louis Cardinals) ||<width=12%><:> attachment:/BrewersLogo.png ||<width=21.3%><:><#DCDCDC> [[밀워키 브루어스]][[br]](Milwaukee Brewers) ||<:> attachment:/cubs222.jpg ||<width=21.3%><:><#DCDCDC> [[시카고 컵스]][[br]](Chicago Cubs) ||
+||<:> attachment:/Reds_1.png ||<#DCDCDC><:> [[신시내티 레즈]][[br]](Cincinnati Reds) ||<:> attachment:/Pirates_2.png ||<#DCDCDC><:> [[피츠버그 파이리츠]][[br]](Pittsburgh Pirates) ||
+||<-6><:><#037d14> '''{{{#ffffff 서부지구 소속구단}}}''' ||
+||<width=12%><:> attachment:/Diamondbacks.png ||<width=21.3%><:><#DCDCDC> [[애리조나 다이아몬드백스]] [[br]] (Arizona Diamondbacks) ||<width=12%><:> attachment:/Dodgers.png ||<width=21.3%><#DCDCDC><:> [[로스앤젤레스 다저스]] [[br]] (Los Angeles Dodgers) ||<width=12%><:> attachment:/Giants.png ||<width=21.4%><#DCDCDC><:> [[샌프란시스코 자이언츠]] [[br]] (San Francisco Giants) ||
+||<:> attachment:/Padres.jpg ||<#DCDCDC><:> [[샌디에이고 파드리스]] [[br]] (San Diego Padres) ||<:> attachment:/Rockies.png ||<#DCDCDC><:> [[콜로라도 로키스]] [[br]] (Colorado Rokies) || 

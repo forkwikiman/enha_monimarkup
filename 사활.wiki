@@ -1,0 +1,116 @@
+ * 상위 항목: [[바둑]]
+
+[[목차]]
+
+== 개요 ==
+死活
+
+[[바둑]]에서 돌의 삶과 죽음을 이르는 말, 사활문제(Tsumego)라 하면 바로 이 사활을 놓고 풀어보는 문제를 말한다. 그러니까, 어떻게 둬야 내 돌이 살아나고 또 어떻게 둬야 상대방 돌을 죽일 수 있는지의 문제를 일컫는다. 일상생활에서도 이 문제에 빗대 일의 성패가 갈린 상황을 "사활이 걸려 있다"고 표현한다.
+
+== 예제 ==
+=== 1 ===
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├○○┼┼┼┼
+├●○╋┼┼┼
+├●○○┼┼┼
+├●●○┼┼┼
+└┴●○┴┴┴ </div>}}}
+흑선 흑활 문제.
+
+{{{#!html
+<div style="font-face:굴림체, 새굴림; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├○○┼┼┼┼
+②●○╋┼┼┼
+<span style="color:white; background:black;">③</span>●○○┼┼┼
+├●●○┼┼┼
+<span style="color:white; background:black;">①</span>┴●○┴┴┴ </div> }}}
+이렇게 둬야 산다.
+
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├○○┼┼┼┼
+<span style="color:white; background:black;">①</span>●○╋┼┼┼
+├●○○┼┼┼
+②●●○┼┼┼
+<span style="color:white; background:black;">③</span>④●○┴┴┴ </div>}}}
+이렇게 두면 [[귀곡사]]궁으로 [[패]]가 나서 실패다. 팻감이 없으면 흑이 죽는다.
+
+=== 2 ===
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├●●╋┼┼┼
+├○○●●●┼
+├┼○○○●┼
+└┴┴┴┴┴┴ </div>}}}
+백선 백활 문제.
+
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├●●╋┼┼┼
+③○○●●●┼
+<span style="color:white; background:black;">②</span>┼○○○●┼
+└①┴⑤<span style="color:white; background:black;">④</span>┴┴ </div>}}}
+백에게 있어서 최선의 선택은 바로 이렇게 급소에 선수를 치는 것이다.
+
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├●●╋┼┼┼
+①○○●●●┼
+├③○○○●┼
+<span style="color:white; background:black;">④</span><span style="color:white; background:black;">②</span><span style="color:white; background:black;">⑥</span>┴⑤┴┴ </div>}}}
+하지만 이렇게 둔다면? [wiki:"망했어요"망했다]. [[귀곡사]]다ㅠㅠ
+
+=== 3 ===
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼○○○┼┼
+○○○●┼○┼
+●●●┼●○┼
+└┴●┴●○┴ </div>}}}
+백선 흑사 문제. 흑이 집을 내고 살아있는 것처럼 보이지만 약점을 남기고 있다.
+
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼○○○┼┼
+○○○●ａ○┼
+●●●①●○┼
+└┴●ｂ●○┴ </div>}}}
+이렇게 두는 게 정해이다. 흑은 a에 두면 자충이고 b에 두면 백이 a로 응수해서 집이 두 개 있는데 둘 중 하나가 고자가 되고 말았다. 전문용어(?)로 말하면 먹여치기로 옥집이 되어 죽는 모양이다.
+
+{{{#!html
+<div style="font-face:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼┼┼┼┼┼
+├┼○○○┼┼
+○○○●①○┼
+●●●<span style="color:white; background:black;">②</span>●○┼
+└┴●┴●○┴ </div>}}}
+하지만 실수로 이렇게 둬 버린다면? 흑이 살아났다. [[야! 신난다~]]
+
+== 관련 매체 ==
+사활 문제를 수록한 고서(古書)로 현현기경과 관자보 등이 있다.
+
+[[오락실]] 게임 중 하나인 [[흑선백사]]는 이 문제를 다룬 게임이다.

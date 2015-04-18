@@ -1,0 +1,70 @@
+[[목차]]
+== [[댄스 댄스 레볼루션]]의 수록곡 ==
+attachment:Uranus.png
+
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/RNccMc4CqAI?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/RNccMc4CqAI?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 11}}} || {{{#purple 13}}} ||
+||<|3> 81-162|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 11}}} || {{{#purple 13}}} ||
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+DDR SuperNOVA 2에서 첫 수록된 곡. 작곡은 Tatsh SN2 Style 명의를 쓴 [[Tatsh]]로, [[Tatsh]]가 DDR에 처음으로 제공한 오리지날 곡.
+
+작품 컨셉인 "태양계"에 맞춰서 [[천왕성]]의 느낌이 나오는 곡으로 작곡하였다. 정지 구간이 4번, 저속 구간이 한번 나온다.  챌린지 채보는 도입부가 끝날 때 8비트 동시밝기 8연이 나오므로 주의.
+
+== [[Sabin Sound Star]]의 수록곡 ==
+|| 최초 수록 버전 || [[Sabin Sound Star]] ||
+|| 작곡 || [[Memme]] ||
+|| 배경 || [[Marz]] & [[Lepusnette]] ||
+|| 장르 || (미표기) ||
+|| BPM || 155 ||
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/3iiiI4vKAXo?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/3iiiI4vKAXo?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+'''[[Sabin Sound Star]] BGA'''
+
+[[Sabin Sound Star]], [[EZ2DJ 7thTRAX BONUS EDITION|EZ2DJ BE]]의 수록곡.
+
+곡은 memme의 스타일을 살린 상쾌한 트랜스곡이다. 삼스판 BGA에는 곰탱이[* 그런데 이런 말이 나올만도 한게 안그래도 수인화 시켰는데 수염까지 없으니...]를 닮은 고양이와 어떤 소녀가 막 달리는 모습이 나온다.
+
+=== [[EZ2DJ]]에서의 Uranus ===
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7}}} || {{{#red 8}}} || {{{#purple 12}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple 13}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+==== 5K ONLY ====
+==== 5K RUBY ====
+==== 5K STANDARD ====
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/ofQUfI3iXcY?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/ofQUfI3iXcY?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD - SHD MIX
+
+패턴은 이전 memme곡에서 볼 수 있었던 폭타가 주를 이룬다. 5키 슈퍼하드는 난이도가 12로, 정박 페달에 폭타가 나오는 전형적인 7th 신곡 스타일의 패턴이다. 끊임없이 정박 페달이 나오는 가운데 후반부에는 엇박 스크래치가 나와서 잘못하면 흐름이 깨지기 쉽다. 대체적으로 12 중급 정도 수준이라고 평가받는다.
+==== 7K STANDARD ====
+==== 5K COURSE ====
+==== 7K COURSE ====
+==== 10K MANIAC ====
+==== 14K MANIAC ====
+==== EZ2CATCH ====
+==== TURNTABLE ====
+[[EZ2DJ AEIC]]에서 [[주문을 외워봐]]와 함께 턴테이블 모드에 첫등장하였으며, 레벨은 9인데, 아무래도 불렙 포지션이 아닐까 의심되는 패턴이 문제. 신스음들의 패턴은 무난한 편이지만, 중반 피아노 계단이 상당히 골치아프게 32비트도 끼여있고 한지라, 올콤하기도 클리어하기도 고역스러운 패턴이 주를 이룬다. 마치 '''리틀 [[Extra Wave]]'''를 보는 것 같달까.. 여튼 9렙 입문유저라면 주의가 필요하다.

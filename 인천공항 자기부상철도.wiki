@@ -1,0 +1,62 @@
+[[include(틀:미완성노선)]]
+ * 상위항목 : [[수도권 전철]], [[자기부상열차]], [[인천국제공항공사]]
+
+{{{+1 仁川空港磁氣浮上鐵道 / Incheon Airport Maglev Line }}}
+
+||||<#ffcd12> {{{#000000 인천공항 자기부상철도}}} ||
+||사업자 ||[[인천국제공항공사]] ||
+||위탁운영기관 ||[[인천교통공사]] ||
+||영업거리 ||5.6 km ||
+||궤간 ||1850㎜ ||
+||역수 ||6 ||
+||전기 ||DC 1500V ||
+||신호 ||RF-CBTC ||
+||표정속도 ||평균 41㎞/h ||
+||차량기지 ||용유차량사업소||
+||지상구간 ||전구간 ||
+||개통연혁 ||2010. 8. 3. 착공[[br]]2015. 6. 인천국제공항↔용유 구간 개통예정||
+
+
+[[목차]]
+== 개요 ==
+attachment:/8014.jpg?width=600
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/rWyQZwRv1s8?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rWyQZwRv1s8?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+[[2010년]] 발표된 시뮬레이션 영상.
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/dcmcRABNYE0?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dcmcRABNYE0?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+[[2012년]] 나온 홍보영상. 
+
+[[인천국제공항역]]에서 [[용유역]] 사이를 잇는 [[대한민국]] 최초의 상용 [[자기부상열차]] 노선. [[인천국제공항공사]]가 노선 설계를 맡았다. 소유주는 [[인천광역시]], 운영사는 [[인천교통공사]]. 노선색도 미정.
+
+[[1993 대전 엑스포]]때 [[대한민국]]에 시범노선이 생기긴 했지만, 이렇게 [[도시철도]]나 광역전철의 노선이 아닌 순전히 엑스포장 내부의 시범노선이었다. 그리하여 정부에서 자기부상열차 시범사업을 신청받았을 때 [[대구광역시]], [[대전광역시]], [[광주광역시]], [[경상남도]] [[창원]]시와의 경쟁에서 인천광역시가 [[2014 인천 아시안 게임]]을 [[떡밥]](...)으로 제시, 노선이 결정되어 지어지게 된 시범형 자기부상열차 노선.
+
+[[인천국제공항]]의 근교 지역을 잇는 [[수도권 전철]] 노선이 될 예정이다. [[2010년]] 착공을 하였으며 [[2013년]] [[9월]] 개통을 목표로 공사에 들어갔다. [[2012년]] [[7월 17일]]에 [http://news.airportal.co.kr/enewspaper/articleview.php?master&aid=26451&ssid=1&mvid=1790 공모전]을 통하여 역명 및 노선명을 확정하였다는 것 외에는 자세한 정보는 없다. 장기적으로 영종도를 순환하는 노선이 될 예정이다.
+
+인천국제공항 자기부상철도에 대한 명칭 공모에서 '''국제''' 자만 뺀 '인천공항 자기부상철도'로 선정되었기에 이럴 거면 공모전을 왜 했냐는 비난 의견이 많았다. [http://article.joinsmsn.com/news/article/article.asp?total_id=8883752 기사] [http://news.kukinews.com/article/view.asp?page=1&gCode=kmi&arcid=0006260776 기사2] [http://www.kihoilbo.co.kr/news/articleView.html?idxno=473559 기사3] [[공모전]] 당첨자가 [[인천국제공항공사]] 내부 직원 아니냐, 이미 내부적으로 이름을 정해놓고 [wiki:"ITX-새마을"형식적으로] 공모전을 한 게 아니냐 하는 등의 각종 의혹이 쏟아졌다.
+ 
+[[인천교통공사]]가 운영권을 취득하였다. [http://www.kgnews.co.kr/news/articleView.html?idxno=318629 기사]
+
+차량은 모노레일인 [[대구 도시철도 3호선]]과는 달리[* 이쪽은 일본 히타치 차량이 사용된다. 자세한 항목은 [[wiki:"대구도시철도공사 3000호대 전동차" 여기]]를 참조.] [wiki:"현대로템"로템]의 자기부상열차가 사용.
+
+[[2014년]] [[5월 14일]]부터 2달간 [http://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=001&aid=0006907027&isYeonhapFlash=Y 시운전을 실시]한다고 한다. 문제가 없으면 7월 중순경에 정식 개통 예정이라고. 6월 30일에서 7월로 또 밀렸다. 다시 9월 30일로 밀렸다는 기사가 떴다.[[http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0000879910 #]] 개통하기는 할 건가. 또 연기되었다. [[http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=056&aid=0010076123 이번에는 날짜도 밝히지 않았다.]]
+
+[[2014년]] [[9월 29일]] 무기한 연기로 확정되었다. --제2의 [월미은하레일] 될 기세.-- 결국 내용을 보면 노선을 만든 [[국토교통과학기술진흥원]]과 노선 운영사인 [[인천국제공항공사]]의 부담금 떠넘기기(...)로 얼룩져있다는 것을 알 수 있다. 진흥원 측은 [wiki:"선개통 후완공"일단 개통을 한 뒤 나머지 공사를 진행하자]는 입장인 반면 공항공사는 주변 부대시설까지 완공해야 인수하겠다고 버티고 있기 때문이라고. [http://www.kgnews.co.kr/news/articleView.html?idxno=396173 기사] --하여간 [[공무원]]들과 [[공기업]] 수준하고는-- --그건그렇고 [인천광역시/재정|빚 투성이]인 [인천광역시]는 대체 대책도 안세우고 뭐하는 중인지-- 결국 2014년 개통은 [[http://www.hani.co.kr/arti/society/area/667257.html 물건너 가버렸다.]] 하여튼 개통은 하며, [2015년] 올해 [6월]에 [http://news.donga.com/3/all/20150101/68873658/1 개통]한다고 한다.
+한편 이 자기부상철도는 향후 [[wiki:"수도권 통합 요금" 수도권 대중교통 환승제도]]에는 포함되지 않을 가능성이 크다. --여길 환승제도 도입할 바엔 공항철도 운서~용유를 먼저..--
+== 역 목록 ==
+ * [[2012년]] [[8월 16일]] 확정된 역명이다.
+ * 아래의 노선은 '''1단계''' 구간이다. 2단계, 3단계를 거치면 '''[[영종도]] 전체를 한 바퀴 도는 순환선'''이 될 예정. 완성될 경우 총 연장 53.2㎞로 [[서울 지하철 2호선]] 을지로순환선보다 더 길어진다. 다만 세계 최장거리 순환선 [[도시철도]]라는 [[기네스북]] 기록은 [[중화인민공화국]]의 '''[[베이징 지하철 10호선]]이 57.5km'''로 빼앗아간 상태이다. 이 노선은 세계 [wiki:"콩라인" 2위](...)가 될 예정. 
+ * 참고로 3단계 구간 중 [[영종하늘도시]]를 지나는 구간은 [[제2공항철도]]와 노선이 완전히 겹친다. 중복구간을 어떻게 처리할지는 아직 미정인 듯. ~~근데 제2공철이 생기기는 하나?? [[KTX]] 들인답시고 제2공철 승강장도 뜯어낸 마당에~~
+
+||<|2><:> 역번 ||<|2><:> ㎞ ||||<|2><:> 역명 ||||<:> 승강장 ||<|2><:> 환승노선 ||<|2><:> 소재지 ||
+||<:> 형태 ||<:> 횡단 ||
+||<#ccffff>M01 ||<#ccffff>0.0 ||<#ccffff>[wiki:"인천국제공항역" 인천국제공항] ||<#ccffff>仁川國際空港 ||<#ccffff> │■│ ||<#ccffff>　 ||<#ccffff><:>[[KTX]][[br]]{{{#3681b7 ●}}} [[인천국제공항철도]] ||<|6> [[인천광역시]] [wiki:"중구(인천)"중구] ||
+||<#ccffff>M02 ||<#ccffff>　 ||<#ccffff>[wiki:"장기주차장역"장기주차장] ||<#ccffff>長期駐車場 ||<#ccffff> ■││■ ||<#ccffff>　 ||<#ccffff>　 ||
+||<#ccffff>M03 ||<#ccffff>　 ||<#ccffff>[wiki:"합동청사역"합동청사] ||<#ccffff>合同廳舍 ||<#ccffff> ■││■ ||<#ccffff>　 ||<#ccffff>　 ||
+||<#ccffff>M04 ||<#ccffff>　 ||<#ccffff>[wiki:"국제업무단지역"국제업무단지] ||<#ccffff>國際業務團地 ||<#ccffff> ■││■ ||<#ccffff>　 ||<#ccffff>　 ||
+||<#ccffff>M05 ||<#ccffff>　 ||<#ccffff>[wiki:"워터파크역"워터파크] ||<#ccffff>　 ||<#ccffff> ■││■ ||<#ccffff>　 ||<#ccffff>　 ||
+||<#ccffff>M06 ||<#ccffff>6.1 ||<#ccffff>[wiki:"용유역" 용　유] ||<#ccffff>龍　遊 ||<#ccffff> ■││■ ||<#ccffff>　 ||<#ccffff>{{{#3681b7 ●}}} [[인천국제공항철도]] ||
+
+[[각주]]

@@ -1,0 +1,7 @@
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|74479035/20080222020200381763041001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|74479035/20080222020200381763041001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+[http://lgaim.egloos.com/951541 참고 블로그]
+1986년 제 37회 [[NHK]] [[홍백가합전]]에서 당시 백팀 첫타자로 첫 출장했던 [[소년대]]의 노래 "가면무도회"를 백팀 MC [[카야마 유조]]가 "[[가면라이더]]"라고 잘못 소개해버려 웃음을 산 사건. 당시 동영상을 보면 알겠지만 실제 이들이 의상 속에 착용하고 있던 전신 쫄쫄이 타이즈는 [[쇼커 전투원]]을 연상시키는 옷이기도 해서 수많은 사람들에게 회자되어 버렸다.
+
+6년 후인 1992년 제 43회 홍백의 애니메이션/특촬 특집 무대에서, 12인(1호~ZO)의 가면 라이더와 소년대 멤버가 등장해서 '렛츠 고! 라이더 킥'(실제 가면 라이더 주제가)를 불렀다. 이 와중에 한 멤버가 날린 멘트는 [보고 있나|카야마씨, 보고 계시죠?]

@@ -1,0 +1,9 @@
+ * 상위 항목 : [[워크래프트 3]], [[워크래프트 3/맵]]
+
+http://classic.battle.net/war3/images/ladder/maps/CentaurGrove.jpg
+http://www.battle.net/war3/images/ladder-revise/minimaps/CentaurGrove.jpg
+||켄타우로스는 성스러운 영역으로 여겨지는 이 초원을 끈질기게 방어하고 있습니다. 신비의 관문을 활용하면 더 빠르게 이동할 수 있습니다.||
+
+지도 크기 : 중형 (128 * 128)
+타일셋 : 배런스
+인원 : 4

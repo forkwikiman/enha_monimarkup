@@ -1,0 +1,81 @@
+ * 이 문서는 [[Sabin Sound Star]]의 수록곡인 '선샤인'에 대한 문서입니다. 선샤인이라는 이름을 가진 다른 항목들에 대해서는 [[선샤인]] 문서를 참조하세요.
+
+[[목차]]
+|| 최초 수록 버전 || [[Sabin Sound Star]] ||
+|| 작곡 || [[SpringHead]] ||
+|| 보컬 || Sohhe ||
+|| 배경 || [[Ratise]] & [[RYUminus]] ||
+|| 장르 || Dance[* 작곡가 언급 http://ask.fm/xxx2130] ||
+|| BPM || 127 → 150 → 127 ||
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/3-QxgOECGlg?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/3-QxgOECGlg?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+'''[[Sabin Sound Star]] BGA'''
+== 개요 ==
+{{{#!HTML
+<iframe width="500" height="315" src="http://www.youtube.com/embed/HRITo-bGS0M" frameborder="0" allowfullscreen></iframe>
+}}}
+'''3S Arcade HD패턴'''
+
+[[Sabin Sound Star]]의 기본 수록곡. Sohhe의 보컬과 수려한 BGA, 곡의 분위기가 적절히 조화된 곡. 초반부와 마지막 부분에 Yuha의 독백 부분도 백미. 다만 보컬과 BGA에 나오는 소녀가 부담된다고 하는 사람도 있다.
+
+2010년 3월 공개된 로케이션 테스트판에서는 이 곡만 고르면 게임이 다운되는 치명적 버그가 있었다.
+
+3S에서는 초보자를 위한 곡으로 자리매김하였다. 아케이드와 퍼쿠션의 EZ패턴은 최저 난이도인 1로 등장했지만 프로페셔널에는 EZ패턴이 없다.
+
+== [[EZ2DJ]]에서의 Sunshine ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 10}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 6}}} || {{{#red 9}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+이 후 [[EZ2DJ 7thTRAX BONUS EDITION]]에도 이식. 3S의 BGA에 나오는 소녀는 EZ2DJ의 디스크 이미지와 타이틀 이미지에는 나오지 않는다.
+
+5키 쪽은 평범하지만, 7키 쪽과 캐치는 꽤나 까다롭다. 
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/2o3X_v6UylQ?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/2o3X_v6UylQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM & HD MIX
+=== 7K STANDARD ===
+BErA 7스트릿에서는 노멀 패턴이 하드 패턴과 동일하게 나오는 버그가 있었다. AE에서 수정.
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== 가사 ==
+||(intro)
+항상 내 눈에 비치던 거리의 풍경
+어둠고 차갑기만 했던 도시의 사람들.
+
+아무도 없는 이 도시에 칠흑 같은 거리에 나 홀로
+도무지 이해할 수 없었던 내가 살아야 하는 의미를
+구름 뒤에 달빛마저 어둡게 보여
+눈물로 오늘도 난 의미없는 하루를 떠나보내네
+내일도 변함 없는 하루를 다시 맞긴 싫어
+상처만 받는 내일은 두 번 다시 원하지(아-아-아-)
+내일의
+희망이란 이름의 태양 빛이 상처 입은 마음을 비춰
+아 - 어둡고 얼어 있던 도시를 따뜻하게 비추고 있어
+다음이란 이름의 태양 빛이 나를 향해 비추고 있어
+아 - 이제는 작은 용기 내어 빛을 향해 달려가 볼 거야
+태양이 질 때까지.
+
+(outro)
+사람들은 하늘이 흘리는 눈물의 의미를 알고 있을까
+대지 위에 뿌려지는 그 눈물의 의미를 알고 있을까||

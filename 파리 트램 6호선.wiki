@@ -1,0 +1,45 @@
+{{{+1 Ligne 6 du tramway d'Île-de-France / Île-de-France tramway Line 6}}}
+ * [[철도 관련 정보]]
+||<-5><table align=center><#ffffff> [wiki:"파리 트램" <span style="font-weight:bold;color:0000f9">파리 트램 운행 노선</span>] ||
+||<#dcdcdc> [[wiki:"파리 트램 1호선" 1호선]] ||<#dcdcdc> [[wiki:"파리 트램 2호선" 2호선]] ||<#dcdcdc> [[wiki:"파리 트램 3a선" 3a선]] ||<#dcdcdc> [[wiki:"파리 트램 3b선" 3b선]] ||<#dcdcdc> [[wiki:"파리 트램 4호선" 4호선]] ||
+||<#dcdcdc> [[wiki:"파리 트램 5호선" 5호선]] ||<#ffffff> {{{#ed5839 '''6호선''' }}} ||<#dcdcdc> [[wiki:"파리 트램 7호선" 7호선]] ||<#dcdcdc> [[wiki:"파리 트램 8호선" 8호선]] ||<#dcdcdc> {{{#dcdcdc }}} ||
+
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#ed5839 '''파리 트램 6호선'''}}} ||
+||운영기관 ||파리교통공사(RATP)||
+||영업거리 ||12.4km ||
+||역수 ||19 ||
+||차량 ||Translohr STE6 ||
+||전기 ||직류 750V ||
+
+[[파리 트램]]의 한 노선으로 파리 트램 6호선은 동서 방향의 노선이다. 동쪽의 샤티옹 - 몽루즈 (Châtillon - Montrouge) 역으로부터 서쪽의 로버트 와그너(Robert Wagner)역까지 운행한다. 이 노선은 [파리교통공사](RATP)가 운영한다. 2014년 12월 16일에 개통하였다. 
+비로플레 리브 고슈(Viroflay-Rive-Gauche)역과 비로플레 리브 드로이트(Viroflay-Rive-Droite) 역은 2016년에 개통될 예정이다.
+
+https://pbs.twimg.com/media/B4qX0bQCAAAWI0A.jpg
+트램 6호선에서 운행되는 Translohr STE6 전동차
+
+== 노선 ==
+attachment:/tram6.jpg?width=650
+
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 샤티옹 - 몽루즈 || Châtillon - Montrouge || 2~3 || {{{#89d3de ●}}} [[파리 지하철 13호선]] ||  ||
+|| 보방 || Vauban || 3 ||  ||  ||
+|| 상트르 드 샤티옹 || Centre de Châtillon || 3 ||  ||  ||
+|| 파르크 앙드레 말로 || Parc André Malraux || 3 ||  || ||
+|| 디비지옹 르클레르 || Division Leclerc || 3 ||  ||  ||
+|| 솔레이 르방 || Soleil Levant || 3 ||  ||  ||
+|| 베클레르 병원 || Hôpital Béclère || 3 ||  ||  ||
+|| 메일 드 라 플렌 || Mail de la Plaine || 3 ||  ||  ||
+|| 파베 블랑 || Pavé Blanc || 3 ||  || ||
+|| 조르주 퐁피두 || Georges Pompidou || 3 ||  ||  ||
+|| 조르주 밀랑디 || Georges Millandy || 3 ||  ||  ||
+|| 벨리지 2 || Vélizy 2 || 3 ||  ||  ||
+|| 드와틴 || Dewoitine || 3 ||  ||  ||
+|| 이노블 파르크 노르 || Inovel Parc Nord || 3 ||  ||  ||
+|| 루부아 || Louvois || 3 ||  ||  ||
+|| 메리 드 벨리지 || Mairie de Vélizy || 3 ||  || ||
+|| 롱드 || L'Onde || 3 || ||  ||
+|| 로버트 와그너 || Robert Wagner || 3 ||  ||  ||
+
+[[각주]]

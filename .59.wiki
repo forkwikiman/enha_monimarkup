@@ -1,0 +1,143 @@
+[[목차]]
+
+== [[BEMANI 시리즈]]의 수록곡 ==
+=== 개요 ===
+작곡가는 [[dj TAKA]]. 이 곡의 제목을 일본식으로 읽으면 '텐고쿠'가 되는데, 이것은 일본어로 '[[천국]]'의 발음과도 같다. 즉 [[말장난]]. 이는 beatmania IIDX에서 [[천사]] 그림 레이어에서도 간접적으로 시사된다. 본 곡을 발표한지 10년 후, [[beatmania IIDX 17 SIRIUS]]에서는 작곡자인 dj TAKA가 이 곡을 반대로 비튼 [[G59]]라는 곡을 발표하였다. 이 곡 제목은 일본어로 읽으면 지고쿠, 즉 [[지옥]]이다.
+
+G59를 발표한지 3년 후, [[beatmania IIDX 20 tricoro]]의 [[LEGEND CROSS]]에서 .59랑 연관되어있는 음악 [[ΕΛΠΙΣ]]을 발표하였다. 자세한건 [[ΕΛΠΙΣ]] 항목 참조.
+
+dj TAKA와 [[TaQ]]가 OutPhase 명의로 라이브 믹스한 버젼이 있으며, TaQ는 후에 bounce connected라는 앨범에서 다시 한 번 자기 색깔을 내어 리믹스한 전적이 있다.
+
+=== [[beatmania IIDX]] ===
+|| 장르명 |||||| CHILL OUT[[BR]][[칠 아웃]] || [[BPM]] |||| 123-135 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 360}}} || {{{#orange 6}}} || {{{#orange 514}}} || {{{#red 7}}} || {{{#red 584}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 444}}} || {{{#orange 6}}} || {{{#orange 514}}} || {{{#red 7}}} || {{{#red 585}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 2nd ~
+ * 가정용판 수록 : 3rd, 5th, 7th, 11 IIDX RED, 16 EMPRESS + PREMIUM BEST (PREMIUM BEST SIDE)
+
+[[beatmania IIDX]] 2nd style에 처음 수록되었으며, [[I Was The One]], [[Indigo Vision]] 등과 함께 2nd Style을 대표하는 곡 중 하나이다.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/YM7IBVmzNac?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YM7IBVmzNac?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+SPH 영상
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/-FRGFQ8bxoQ" frameborder="0" allowfullscreen></iframe>
+}}}
+SPA 영상
+
+TAKA식 폭타를 본격적으로 IIDX에 도입한 곡으로 유명하다. 그 뒤로 이 곡에 나오는 폭타는 주로 TAKA가 트랜스계 곡들을 만들 때 많이 써먹었다([[REINCARNATION]], [[ABSOLUTE]], [[Colors]], [[Foundation of Our Love]] 등) 그리고 [[V(비마니 시리즈)|V]]에도 중간에 이 곡과 비슷한 식의 폭타가 나오기도 한다. 폭타 이외에도 연타가 이곳저곳에서 나타나는데, 어나더는 이 연타가 더욱 심해졌다. 어나더는 처음부터 있었지만 3rd Style에서 채보와 곡이 변경되어 지금까지 전해져 내려온다. 더블 어나더는 11 IIDX RED에서 추가되었다.
+
+이 곡의 [[BGA]]는 하우스계 범용에 [[GOLI]]가 그린 천사 레이어 연출이 있다. 곡의 분위기와 잘 맞아서 호평을 받았지만 [[beatmania IIDX 20 tricoro]]에서 전용 레이어가 삭제되었다.
+
+==== 아티스트 코멘트 ====
+||<bgcolor=#E9ECEF>게임적으로, 세로의 연타가 되지 않는 듯한 테크노를,여러 가지로 생각한 제 대답이 바로 이「.59」.
+이 게임성은 IIDX라면요. 
+상당히 고난이도랍니다~
+스탭들 중 에서도 이것을 뛰어넘은 것은 나 정도일까나, 훗.
+게다가, 바흐의 발명으로부터, German 트랜스에 이르기까지의 독일의 음악사가 이 1곡에 응축되어 있다고!
+곡 중에선 동서 병합등의 역사 배경이나, 막연하게 한 혼돈까지 표현하고 있다고요~ (거짓말)
+덧붙여서, 곡명은 스탭 전원이 잡담하면서 생각했습니다.
+그 의미는.....[[VJ GYO]], 해답 잘 부탁드립니다!
+- [[dj TAKA]]
+
+「.59」, 여러분은 어떻게 발음하는지 알고 계십니까?
+「피리어드 피프틴 나인」이 아니고, 「텐고쿠/천국」이 정답입니다.
+무비는, 몇개의 곡으로 공통되는 것을 사용하게 되었으므로, 건반을 눌렀을 때에 반응하는 애니메이션의 분을 적은 시간 중에, [[GOLI]]가 기합을 담아 제작해 주었습니다.
+곡명 자체도, 스트레이트하게 「천국」이라고「HEAVEN」라고 딱 잘라 얘기하고 있지는 않습니다만, 곡조도 애니메이션도, 간단히 「천국」을 연상시키는 건 아닙니다.
+도달한 사람에게의 찬미라고 하는 것보다, 도상에 있어 괴로워하는 사람에게의 위무라고 하는 메세지가 담겨져 있을 것 같습니다...
+- [[VJ GYO]]||
+
+=== [[댄스 댄스 레볼루션]] ===
+==== 원곡 ====
+attachment:ddr_jacket.jpg
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 11}}} || {{{#purple --}}} ||
+||<|3> 123-135 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 10}}} || {{{#purple --}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+댄스 댄스 레볼루션 4th에 처음으로 실렸다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/TnOTfmuMJwU" frameborder="0" allowfullscreen></iframe>
+}}}
+SINGLE MANIAC(=ESP) 영상
+
+==== .59 remix ====
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 1}}} || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 8}}} || {{{#purple --}}} ||
+||<|3> 130 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 3}}} || {{{#red 6}}} || {{{#green 8}}} || {{{#purple --}}} ||
+
+ * 위 난이도 표는 ULTRAMIX2 당시 10레벨 표기 기준.
+
+ * [[댄스 댄스 레볼루션/삭제곡, 아케이드 미수록곡|곡 목록으로 돌아가기]]
+
+Jesper Kyd가 리믹스한 버젼으로 북미 XBOX판인 DDR ULTRAMIX2에 수록되었다. 아케이드에는 이식되지 않았다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/bqatPeletv8" frameborder="0" allowfullscreen></iframe>
+}}}
+SINGLE HEAVY(=ESP) 영상
+
+=== [[사운드 볼텍스]] (.59 -BOOTH BOOST REMIX-) ===
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/GBZno69Hztw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+리믹서는 현세대 [[BMS]] 제작자인 Hate. IDEA+RHYTHM[* 이 명의는 BMS 작곡보다는 앨범활동쪽에 더 많이 보인다.]이라는 명의로 투고했다. 원곡과는 분위기가 사뭇 다른 밴드 풍의 어레인지.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0066_1.jpg?width=150||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0066_1.jpg?width=150
+||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0066_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 08}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0418}}} || {{{#orange 0596}}} || {{{#ff009f 0901 }}} ||
+|| 일러스트 담당 || {{{#purple もとこ}}} || {{{#orange もとこ}}} || {{{#ff009f もとこ}}} ||
+|| 이펙터 || {{{#purple 月刊ミズタニ }}} || {{{#orange 月刊ミズタニ }}} || {{{#ff009f 月刊ミズタニ }}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} ||
+|| [[BPM]] |||||| 145 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 05(2013.7.3 ~ 2013.9.5, 2013.10.4 ~ 2013.12.6, 2014.4.4 ~ 2014.5.1), Skill Level 05 A코스(2014.11.20 ~ 2014.11.26)
+
+||<bgcolor=#E9ECEF>처음 뵙겠습니다, IDEA+RHYTHM(아이디어 리듬)이라고 합니다.
+
+불타오르는 컨테스트의 배너와 질주감 200%라는 프레이즈. 거기에, SOUND VOLTEX의 깊이있는 인터페이스에서, "밤중의 고속도로에서, 오렌지색 조명 사이에서 터널을 주파한다는" 이미지로 결정(계절은 물론 여름)
+열대야의 더위와 플로어의 열량은 마치 지옥의 화염처럼. 하지만, 차 안은 에어컨을 켜놓아서 쾌적한 천국이군요!?
+
+라는 느낌이 들거나 들지 않던가 하는데요, (적절하게) BOOTH를 BOOST한 곡이 된다면 다행입니다.
+
+-당선자 코멘트-||
+
+{{{#!HTML
+<iframe width="450" height="800" src="http://www.youtube.com/embed/-ODoWzZgKmM" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+EXH 패턴은 BT 노트의 비중이 많은 편이다. 특히 하이라이트 부분에 노브를 돌리면서 BT 노트를 치는 부분에서는 원핸드로 처리하는 실력이 많이 필요하다. 중반의 발광부분도 주의해야 한다.
+
+[[스킬 애널라이저]]에서 오랫동안 스킬 레벨 05의 마지막 스테이지 곡을 맡았다.
+
+== 한국의 인디 일렉트로니카 아티스트 ==
+[[모던록]] [[인디 음악]]밴드인 [http://krrr.kr/wiki/index.php/%EC%BD%94%EC%BD%94%EC%96%B4 코코어]의 베이시스트였던 김재권이 문지혜, 문지은과 함께 결성한 인디 유닛이다.
+
+2012년 9월 이 명의로 첫 음반인 <가고 오는 정든 길>을 취입했으며 [[wiki:"박정근" 비싼트로피]]와 관련이 있는 '''괴짜''' 일렉트로니카 아티스트인 [http://younggiftedwack.com/archives/4014 요한 일렉트릭 바흐와 공동 공연]한 적도 있다. 이후 공연이력들중 2013년에는 [[RMHN]]등 자립계 아티스트들과 같은 공연의 라인업으로 선 적도 있다.
+
+아티스트 명의가 본 항목의 1번 문단에서 유래되었는지(혹은 인지하고 있는지)는 불명. 본인들은 "오십구"라고 하는 듯 [* [http://krrr.kr/wiki/index.php/.59 에서] sic.].    

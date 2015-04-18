@@ -1,0 +1,44 @@
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Your Style ||
+|| 작곡/작사/보컬 |||||||| Dakick ||
+|| 배경 |||||||| Red Can([[imp17]]) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 100 ||
+
+== [[EZ2AC]]에서의 Your Style ==
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}}[* 스트릿 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* AEIC까지의 루비 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨. EC 이후에 존재하는 루비 노멀 패턴과는 다소 다르다.] || {{{#orange 6}}} || {{{#red 7}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 7}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='NLQeBlbaRno$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=NLQeBlbaRno$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=NLQeBlbaRno$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''BGA'''
+
+초기 작품에서 [[Get the beat]]와 여러 리믹스 악곡들을 제공했던 Itdie(Dakick)이 오랜만에 이지투디제이에서 발표한 곡. 난이도는 스트릿 기준 노멀 6, 하드 7. 이전까지 나왔던 EZ2DJ의 힙합 곡들과는 조금 다르게, 대중적이고 가벼운 분위기가 강한 한국 가요풍의 힙합이다. 가사가 재미있는데, 당시 유행하던 [[정준하]]의 '편견을 버려'도 나온다. 정말 가볍고 단순한 리듬만이 반복되고, 여기에 따라하기 간편한 가사의 랩이 얹혀있다. 랩의 라임과 플로우가 흥얼거리기에는 좋은 곡. 중간의 알 수 없는 가사는 이 곡의 "보호색 속에 숨어있어 Like a bugs(쉬)" 부분을 백마스킹으로 만들어낸 가사. [http://youtu.be/xoIKCum0DBA 56초부터]
+
+BGA는 파스텔톤의 단순한 색채감이 인상적이며, 레이어 기법을 훌륭하게 활용한 BGA로 평가받는다.
+
+EC에만 수록된 라디오채널 Ghetto Box에 스트릿보다 어려운 전용 채보가 등장한다. 스크래치 노트가 대폭으로 강화되었다.
+
+== [[EZ2ON]]에서의 Your Style ==
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| [[추가바람]] ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) || 1 || 4 || 6 || 10 || - ||
+|| 스트릿(5키) || 1 || 4 || 6 || 10 || - ||
+|| 클럽(6키/8키) || 4 || 6 || 10 || - || 12 ||
+
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/zqML2TYKHJU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+6키 HDMix 영상.

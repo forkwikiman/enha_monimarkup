@@ -1,0 +1,89 @@
+'''じょいふる'''
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/51mMZ%2BcqUvL._SL500_AA300_.jpg
+곡이 수록된 싱글음반 'YELL/じょいふる'의 자켓
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer76034' width='640' height='480'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=2AAB7B6A1A423AB6C3D4578B2140D141B937&outKey=V122d05f1666026d8f84b9d6a553fbf3dd2bf421a4c7189e6fe209d6a553fbf3dd2bf' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=2AAB7B6A1A423AB6C3D4578B2140D141B937&outKey=V122d05f1666026d8f84b9d6a553fbf3dd2bf421a4c7189e6fe209d6a553fbf3dd2bf' wmode='transparent' width='640' height='480' allowScriptAccess='always' name='NFPlayer76034' id='NFPlayer76034' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+PV 영상
+
+[[이키모노가카리]]가 2009년 9월 23일에 발표한 15번째 싱글음반 'YELL/じょいふる' 중에서 2번 트랙에 실린 곡이다. 
+
+이 곡이 수록된 싱글은 10만 장 판매기록을 돌파하며 2009년 9월 23일에 집계된 오리콘 차트에서 1위를 기록했으며, '베스트 히트 가요제 2009' 골드 아티스트 상 등 많은 상을 가져다주었다. ~~YELL의 공헌이 크긴 했지만~~
+
+뮤직비디오 촬영장소는 카나가와 현에 있는 아츠기 시립 토우메이 중학교.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/ZJ1ZEKmW_jY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[포키]]의 CM에 사용되기도 했다. 
+
+여담으로 2012년 11월 18일 방송된 [[1박2일]] 시즌 2 38회에 인트로가 BGM으로 삽입되었다. [[https://www.youtube.com/watch?v=ntDWQwl5C1I&feature=youtube_gdata_player 3:00 ~ 3:21]] 근데 [[only my railgun]]같은 노래보단 인지도가 낮아서 그런지 묻혔다(...)
+
+== [[리듬게임]]에 수록 ==
+여러 [[리듬게임]]에 수록된 곡이기도 하다. [[BEMANI 시리즈]]에서는 [[유비트 시리즈]], [[팝픈뮤직]], [[리플렉 비트 시리즈]], [[기타프릭스&드럼매니아]]에 수록되었다. 또한, [[태고의 달인]] 14와 뮤직 건건! 2에도 수록되어 있다. 게다가 [[maimai]]의 1차 로케 테스트에도 수록이 확인되면서 수록 기종 수가 [[凛として咲く花の如く]]와 동률을 이루었다. 
+
+BEMANI 시리즈의 커버 보컬은 다른 이키모노가카리의 곡 커버가 그렇듯 [[타츠미 메구미]]가 맡았다.
+
+attachment:attachment:4_knit_joyful.png
+자켓에 나오는 인물은 [[맛스루]]라고 한다.
+
+=== [[유비트 시리즈]] ===
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>1||<:>6||<:>8||
+||<#ffffff><:>노트수||<:>147||<:>395||<:>564||
+||<#ffffff><:>BPM||||||<:>159||
+||<#ffffff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 플러스]]에서 music pack 04에 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/qo1ycrJAp8E?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qo1ycrJAp8E?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+EXTREME 보면 영상
+
+문자노트가 많이 나온다. T자 축소판, r, 그리고 j가 나오는데, 가장 압권인 노트는…
+
+||□ ■ ■ ■
+□ □ ■ □
+■ □ ■ □
+□ ■ □ □||
+
+바로 '''[[크고 아름다운]] '[[J]]'''' 되시겠다(…). 이 노트는 손배치가 익숙하지 않은 플레이어들의 경우 손바닥이나 팔 등으로 처리하기 쉽다. [[TRUE♥LOVE]]에서도 'P'가 나오긴 하지만 P는 한 번 밖에 안 나오는 데 비해 J는 '''막판에 무려 다섯 번씩이나''' 나와서 콤보를 깨뜨려 주신다. [[OTL]]
+이 노트 뿐만 아니라 원을 그리는 패턴 등 까다로운 배치가 나오기 때문에 많은 연습이 필요하므로 8레벨 중에서는 난이도가 높다고 볼 수 있을 듯. 단지 박자 자체는 매우 단조로운 편이라 익숙해지면 8렙 중에서도 고득점을 내기 쉬운 편이다.
+
+[[유비트 플러스]]에서 [[아이패드]]는 11개까지 동시입력이 가능하니 그나마 낫지만 [[아이폰]]이나 [[아이팟 터치]]로 플레이할 때 J 처리가 더 난감해졌다. 아…
+
+베이직 보면은 레벨 1 치고는 어려운 보면. 엇박 노트가 뜬금없이 나타나거나 플레이 중에 손으로 가려지는 부분에서 출현하는 노트가 있기 때문이다.
+=== [[리플렉 비트 시리즈]] ===
+|||||||||||||| [[REFLEC BEAT]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|4> 159 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 1}}} || {{{#orange 4}}} || {{{#red 6}}} ||
+
+레벨 6에서는 [[We Can Change]]와 더불어서 풀콤보 상급. 물론 판정에 한해서는 다른 두 곡덕분에 힘들지만 풀콤보의 경우는 6 상급 두곡 중 하나이다.
+
+=== [[팝픈뮤직]] ===
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/fyHwasny8f4?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fyHwasny8f4?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 19[[BR]]TUNE STREET || じょいふる[[BR]]조이풀 || じょいふる[[BR]]조이풀 || ♪ ♪ ♪ ♪ ♪ || marin[[BR]][[wiki:"마린(팝픈뮤직)" 마린]]  ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue EASY/5버튼}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:>159|| 43단계 || {{{#blue 15}}} || {{{#green 18}}} || {{{#orange 27}}} || {{{#red '''33'''}}} ||
+|| 50단계 || {{{#blue 5(5버튼)}}} || {{{#green 24}}} || {{{#orange 33}}} || {{{#red '''41'''}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+표기 난이도는 낮은 편이라 라이센스 곡으로서 편하게 플레이 할수 있지만, EX는 33렙중에서도 손에 꼽히는 [[사기 난이도]]로, 동렙의 대표적인 불렙곡인 [[wiki:"おもちゃばこのロンド" 윤무곡]]보다도 어렵다. 동시치기 위주의 밀도 높은 패턴이라, 노트수도 1032개다.[*  팝픈뮤직에서는 노트수에 따라 게이지 보정이 있는데, 그 기준중 하나가 1025개 이상일때이다. 비교대상곡인 윤무곡으 노트수는 1017개.] 이정도면 33레벨 수준이 아니라 36레벨 곡들과도 비교 할 수도 있다. 그래서인지 Sunny Park에서는 EX 난이도가 41(구 35)로 상승.
+
+= 기타 =
+그외 노래방에서도 찾을 수 있다.
+번호는 [[금영노래방]]에서는 43836 , [[태진노래방]]에서는 26977이다.

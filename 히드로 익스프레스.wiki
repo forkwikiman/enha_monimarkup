@@ -1,0 +1,28 @@
+'''Heathrow--[[히드라|Hydra]]--Express'''
+--[[히드라리스크|이 열차는 '갈지자'로 가는 열차가 아닙니다!]]--
+
+[[include(틀:그레이터 런던의 대중교통)]]
+
+[http://www.heathrowexpress.com/Home 홈페이지]
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/P46kHUvQ1PI" frameborder="0" allowfullscreen></iframe>
+}}}
+[[런던]] [[히드로 공항]]과 [[런던 패딩턴 역]]을 왕복 운행하는 [[공항철도]]. [[내셔널 레일]]이 아니고 BAA에서 직접 운영한다. 내셔널 레일의 할인 프로그램인 레일카드 소지자가 할인을 받을 수는 있다. 브릿레일패스를 사면 히드로 익스프레스 쿠폰을 끼워주긴 하지만, 기본적으로 브릿레일패스로 커버되지 않는다. [[오이스터]]도 안 된다. [wiki:"국제학생증" ISIC] 할인은 있는데 매표소에서 사야 적용해준다. 히드로 익스프레스 자판기에서는 [[유로]]도 받는데, 잔돈은 [wiki:"파운드 스털링" 파운드]로 준다. 적용되는 환율의 수준을 생각하면 차라리 파운드화로 사는 게 낫다.
+
+자매품으로 값이 싸고 정차역 수가 더 많은 히드로 커넥트도 운행중이다. 공항 직전역~도심구간에서는 오이스터를 쓸 수 있다.
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/oJhrlzrXD5I" frameborder="0" allowfullscreen></iframe>
+}}}
+||<width=120px> 역명 ||<width=70px> 익스프레스 ||<width=50px> 커넥트 || attachment:/TfL-LU-roundel.png [[wiki:"런던 지하철" 지하철]] 환승 || attachment:/nationalrail-small.png [[내셔널 레일]] 환승 ||
+|||||||||| '''본선''' ||
+||[wiki:"히드로 터미널 5 역" 히드로 터미널 5][[br]]Heathrow Terminal 5 || ● || ● ||[wiki:"피카딜리 선" 피카딜리] ||||
+||[wiki:"히드로 센트럴 역" 히드로 센트럴][[br]]Heathrow Central || ● || ● ||피카딜리 ([wiki:"히드로 터미널 1, 2, 3 역" 히드로 터미널 1, 2, 3]) ||터미널 4 셔틀 ||
+||[wiki:"해이즈 & 할링턴 역" 해이즈 & 할링턴][[br]]Hayes & Harlington || │ || ● ||  ||[wiki:"퍼스트그룹" First Great Western] ||
+||[wiki:"사우스올 역" 사우스올][[br]]Southall || │ || ● ||  ||First Great Western ||
+||[wiki:"한웰 역" 한웰][[br]]Hanwell || │ || ● ||  ||First Great Western ||
+||[wiki:"웨스트 일링 역" 웨스트 일링][[br]]West Ealing || │ || ● ||  ||First Great Western ||
+||[wiki:"일링 브로드웨이 역" 일링 브로드웨이][[br]]Ealing Broadway || │ || ● ||[wiki:"디스트릭트 선" 디스트릭트], [[센트럴 선]] ||First Great Western ||
+||[wiki:"런던 패딩턴 역" 런던 패딩턴][[br]]London Paddington || ● || ● ||디스트릭트, [wiki:"서클 선" 서클], 센트럴, [[해머스미스 앤 시티 선]] ||First Great Western, Chiltern Railways ||
+|||||||||| '''히드로 터미널 4 셔틀''' ||
+||[wiki:"히드로 센트럴 역" 히드로 센트럴][[br]]Heathrow Central || ● || ╳ ||피카딜리 ([wiki:"히드로 터미널 1, 2, 3 역" 히드로 터미널 1, 2, 3]) ||히드로 익스프레스 본선 ||
+||[wiki:"히드로 터미널 4 역" 히드로 터미널 4][[br]]Heathrow Terminal 4 || ● || ╳ ||피카딜리 ||||

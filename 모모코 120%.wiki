@@ -1,0 +1,30 @@
+Momoko 120%
+http://cdn.wikimg.net/strategywiki/images/thumb/8/85/Momoko_120_marquee.jpg/300px-Momoko_120_marquee.jpg?width=600
+attachment:/1210990313_momoko.png
+
+{{{#!html
+<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/V2FHK_1V-kw?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/V2FHK_1V-kw?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="349"></embed></object>}}}
+
+1986년, [[자레코]]에서 제작, 유통한 게임.
+
+국내 [[오락실]]에는 '시집가는 날'이라는 이름으로 개명당한 게임이다.
+
+전자오락이라는 것에 [[모에]]요소를 도입한 초기의 게임 중 하나. 주인공인 [[모모코]]는 처음에 4살짜리 유치원생으로 시작해서 6살에 초등학생이 되고, 12살에 중학생, 15살에 고등학생, 18살에 고등학교를 졸업하고 [[아이돌]] 가수가 되며, 20살에 '결혼'을 하게 되는 게임이다.
+
+마지막 스테이지인 결혼식장을 제외하고는 밑에서 불이 솓구쳐 올라오는 학교(그리고 건물?)를 탈출하게 되는 내용이다. 
+
+http://cdn.wikimg.net/strategywiki/images/thumb/e/eb/Momoko_120_flyer.jpg/250px-Momoko_120_flyer.jpg?width=300
+아이템을 얻으면 쏘는 총이 파워업하게 한다. 문에 들어가면 다른 문으로 텔레포트한다.
+
+자라면서 모모코의 모습도 꽤 달라지니 그것을 관찰하는 것도 게임의 재미. (특히 중학생 이상의 나이에서 제자리에 앉는다던가 밑으로 떨어지는 액션이 볼만하다)
+
+엔딩은 결혼식장에서 남자와 결혼. 그리고 모모코는 2세를 낳고, 그 2세는 또다시 유치원에 입학해서.. 결국 무한반복.
+
+
+본래 [[우루세이 야츠라]]를 게임화하는 기획으로 개발이 시작된 게임이었지만 우루세이 야츠라의 판권을 획득하지 못해 캐릭터를 바꿔서 출시한 게임이다. 그래서인지 게임의 BGM이 애니메이션의 1기 오프닝인 라무의 러브송이다. [[패미컴]]판은 기존 계획대로 우루세이 야츠라의 [[라무]]가 주인공으로 나오는 게임으로 바뀌었다. (제목도 '우루세이 야츠라 - 라무의 웨딩벨'로 바뀜)
+
+{{{#!html
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/YjN0D4b6azI?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YjN0D4b6azI?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="349"></embed></object>}}}
+
+이 게임의 주인공인 모모코는 나중에 자레코의 패러디 슈팅게임 [[게임천국]]에서도 플레이어블 캐릭터로 등장한다.
+

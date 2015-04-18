@@ -1,0 +1,32 @@
+[[목차]]
+
+== 개요 ==
+http://ecx.images-amazon.com/images/I/61HjWzoFzNL._SL500_AA300_.jpg
+미니 앨범 자켓
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/2fIKlBkkXnI?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2fIKlBkkXnI?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+PV 영상
+
+일본의 가수 miray의 2번째 미니 앨범이자 그 표제곡. 앨범은 2009년 7월 29일에 발매되었다. 이전에 'Summer for Life'라는 미니앨범을 낸 적이 있지만 메이저 데뷔는 이 앨범을 내면서 했다.
+
+이후 성인지향 아이돌 그룹 [[SDN48]] 3기생으로 가입하나 7개월 후 그룹이 해산되었다. 이후에는 솔로 가수로 소소하게 라이브 활동을 하는 듯.
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>5||<:>7||
+||<#5a5aff><:>노트수||<:>239||<:>492||<:>601||
+||<#5a5aff><:>BPM||||||<:>140 ~ 152||
+||<#5a5aff><:>곡 이력||||||[[유비트 리플즈 어펜드]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/0CM-Muhlcqc" frameborder="0" allowfullscreen></iframe>
+}}}
+[[Y.S-Y]]의 EXTREME 엑설런트 영상
+
+시작할 때 BPM이 바뀌지만 크게 신경쓸 필요는 없는 수준. 주의할 부분은 초반의 '따닥'하는 느낌의 노트, 랩 부분 및 이어지는 연타, 동시치기가 나오는 박자 등이 있다. 동시치기를 어떻게 처리하는지도 득점의 포인트.

@@ -1,0 +1,63 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 악곡. 아티스트 명의는 [[VENUS(아티스트)|VENUS]]. 작곡/작사/보컬은 [[DJ YOSHITAKA]]. 편곡은 [[후지모리 소타]].
+
+== [[리플렉 비트 시리즈]] ==
+http://31.media.tumblr.com/2c3eefdf74c59f6817eda51a3069705d/tumblr_mvkoh3kdMf1rqf4s0o1_1280.jpg
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 165 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 151}}} || {{{#orange 266}}} || {{{#red 462}}} ||
+|| 수록버전 ||||||||<#CF6E36> [[리플렉 비트 콜레트]] ||
+
+{{{#!HTML
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/RGezBsuFkjk?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/RGezBsuFkjk?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+플레이 영상
+
+특징이라면 난이도에 따라 '''자켓이 달라진다.''' 이미 [[사운드 볼텍스]]에서 이식된 곡 중 난이도에 따라 자켓이 달라지는 곡이 있었지만 [[리플렉 비트 시리즈]] 오리지널곡만 따져본다면 이곡이 최초.
+
+== [[댄스 에볼루션]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/E4LlRlV_rZ0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 에볼루션]] 난이도 체계 ||
+|| BPM || 난이도 |||||||| 노트수 || 소비 칼로리 ||
+||<|2> 165 ||<|2> 3 || {{{#green LIGHT}}} || {{{#blue STANDARD}}} || {{{#red EXTREME}}} || {{{#orange MASTER}}} ||<|2> 10.00kcal ||
+|| {{{#green 67}}} || {{{#blue 110}}} || {{{#red 185}}} || {{{#orange 251}}} ||
+
+이노쿠마 대작전 이벤트를 통해 이식 수록되었으며, 이후 단에보 데일리 트레이닝 이벤트에서 스탬프 1일차에 해금할 수 있다. 자켓은 리플렉 비트의 HARD 패턴의 것을 사용한다.
+
+== [[팝픈뮤직]] ==
+||||||||<#654921> '''{{{#ffffff 100만 Wow Wow 기념! 팝픈에서도 Without You Night}}}''' ||
+|| '''크레딧''' || '''동작''' || '''획득''' ||
+|| 0 || 기본 해금 || '''[[Survival Games]]'''[[br]]'''[[Far Away]]''' ||
+|| 1 || 캐릭터 VENUS를 사용 || 팝플파츠 '비너스 재킷'[[br]](ヴィーナスジャケット) ||
+|| 2 || 비너스 재킷을 착용하고[[br]]1크레딧 중 VENUS 곡을 2회 플레이 || '''[[Wow Wow VENUS]]''' ||
+|| 3 || Wow Wow VENUS를 플레이 || 팝플파츠 'Wow Wow VENUS T셔츠'[[br]](Wow Wow VENUS Tシャツ) ||
+|| 4 || Wow Wow VENUS T셔츠를 착용하고[[br]]1크레딧 중 VENUS 곡을 2회 플레이 || '''Chu☆Chu☆Tonight''' ||
+
+{{{#!HTML
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/MAZYykf5Hnc?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/MAZYykf5Hnc?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+||<bgcolor=#E9ECEF>今夜お前とウィザウチュナイ！チュチュチュと歌えばもうそこは二人だけの世界！
+오늘 밤 너와 위자우츄나이! 츄츄츄라고 부르면 그곳은 둘만의 세계!||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music[[BR]]Sunny Park || WITHOUT YOU TONIGHT -V-[[BR]]위자우츄나이 -펜데[* πέντε/pende. 현대 [[그리스어]]로 [[5]]를 뜻한다.]- || Chu☆Chu☆Tonight || [[VENUS(아티스트)|VENUS]] || [[VENUS(아티스트)|VENUS]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:>  165 || 50단계 || {{{#blue 8(6키)}}} || {{{#green 23}}} || {{{#orange 33}}} || {{{#red 44}}} ||
+|| 노트수 || {{{#blue 155}}} || {{{#green 319}}} || {{{#orange 729}}} || {{{#red 1272}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+'100만 Wow Wow 기념! 팝픈에서도 Without You Night' 이벤트의 일환으로 2013년 11월 20일 오전 10시를 기해 이식되었다.
+당시에는 출현 조건을 달성하면 "新曲…Chu☆Chu☆Tonight…(신곡…Chu☆Chu☆Tonight…)"라는 음성과 함깨 출현하였다.
+후속작인 라피스토리아에선 통상으로 풀렸다.
+
+[[각주]]

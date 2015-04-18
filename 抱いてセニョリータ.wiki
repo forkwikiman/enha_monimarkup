@@ -1,0 +1,46 @@
+[[목차]]
+
+== 개요 ==
+||attachment:/daitesenyorita2.jpg?width=200||attachment:/daitesenyorita.jpg?width=200||
+|| DVD가 함께 수록된 초회 한정판 표지 || 통상판 표지 ||
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer96004' width='640' height='480'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=28B86C50125DC166F70CD3B32D2F617EC61B&outKey=V122b02b7d6ec8b517fa9eaeefb71a5bd30bf0bf88494dee513baeaeefb71a5bd30bf' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=28B86C50125DC166F70CD3B32D2F617EC61B&outKey=V122b02b7d6ec8b517fa9eaeefb71a5bd30bf0bf88494dee513baeaeefb71a5bd30bf' wmode='transparent' width='640' height='480' allowScriptAccess='always' name='NFPlayer96004' id='NFPlayer96004' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+PV 영상
+
+일본의 가수이자 배우인 [[야마시타 토모히사]]가 2006년 5월 31일에 발매한 싱글이자 그 표제곡. 이전에는 아이돌 그룹 [[NEWS]]의 멤버로 있었지만 솔로로 낸 싱글이다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=809D123BE556C507829FC09E04C6CBACAEFC&outKey=V1240e60afa8faf24403d6f809adaacc7638bd5249989080c6e8e6f809adaacc7638b" frameborder="no" scrolling="no"></iframe>
+}}}
+쿠로사기 오프닝 영상
+
+[[일본 드라마]] '[[쿠로사기]](クロサギ)'의 오프닝 테마로 사용되었으며, 싱글은 초동매상 40만 장을 돌파했고 오리콘 차트 1위까지 차지하였다.
+
+== 음반 수록곡 목록 ==
+1. 抱いてセニョリータ
+2. 指輪
+3. 向日葵
+4. 抱いてセニョリータ(Instrumental)
+
+== [[유비트 시리즈]]에 수록 ==
+attachment:1_jubeat_senorita.png
+
+||||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>2||<:>4||<:>6||
+||<#5a5aff><:>노트수||||<:>172||<:>290||<:>405||
+||<#5a5aff><:>BPM||||||||<:>144||
+||<#5a5aff><:>곡 이력||||||||[[유비트]]에서 첫 수록[[BR]][[유비트 플러스]]에서 music pack 04에 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+커버 보컬로 수록되었다.
+
+{{{#!HTML
+<iframe title="YouTube video player" width="640" height="480" src="http://www.youtube.com/embed/jv6o1EJDfhI" frameborder="0" allowfullscreen></iframe>
+}}}
+NAT 플레이어의 [[엑설런트]] 영상
+
+전체적으로 배치가 무난하다. 주의해야 할 부분은 중반부의 '와깟따릇떼'와 '오또나붓떼'. 박자만 신경쓰면 어렵지 않게 풀콤보를 노릴 수 있는 수준. 그리고, 베이직에서 이 부분의 노트 박자는, 다른 난이도의 박자와 다르므로 주의할 것.

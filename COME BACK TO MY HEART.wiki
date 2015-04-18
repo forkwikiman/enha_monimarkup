@@ -1,0 +1,54 @@
+[[목차]]
+
+== 개요 ==
+[[Ryu☆]]의 2번째 앨범인 [[AGEHA]] 3번 트랙에 실린 곡이다. [[Another Infinity]] 작곡에 보컬은 [[모리나가 마유미]].
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/hLhGYzrNdUc" frameborder="0" allowfullscreen></iframe>
+}}}
+[[Ryu☆]]의 3번째 앨범 [[Rainbow☆Rainbow]]에서는 부제 '(Ryu☆Remix)'를 달고 리믹스되어 13번 트랙에 수록되었다.
+
+== [[BEMANI 시리즈]]에 수록 ==
+=== [[유비트 플러스]] ( COME BACK TO MY HEART (Ryu☆Remix) ) ===
+||||||||<#002040><:>{{{#white jubeat plus 기준}}}||
+||<|2><#002040><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>9||
+||<#002040><:>{{{#white 노트수}}}||<:>259||<:>512||<:>704||
+||<#002040><:>{{{#white BPM}}}||||||<:>180||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#002040><:>{{{#white 아케이드 수록}}}||||||<:>없음||
+||<#002040><:>{{{#white iOS}}}||||||<:>[[AGEHA]] pack||
+||<#002040><:>{{{#white Android}}}||||||<:>[[AGEHA]] pack||
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/fiVELq5n7KQ" frameborder="0" allowfullscreen></iframe>
+}}}
+익스트림 채보 영상
+
+주로 동시치기 위주의 곡으로, 특히 채보 영상 기준으로 44~46초의 폭타는 외우지않는 이상 치기가 상당히 어렵다. 또 1분 12~13초에서 나오는 가사인 유메(ユメ)를 [[가타카나]]로 표기한 듯한 패턴이 나온다. 이외 다양한 동시치기 패턴으로 9레벨 중에서도 어려운 편.
+
+=== [[댄스 댄스 레볼루션]] ===
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple 6}}} ||
+||<|3> 142 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple 6}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+ * 챌린지 채보는 쇼크 애로우 사용
+
+Dance Dance Revolution X3 VS 2ndMIX에 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/RWu6eEo-F9c" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 모든 보면 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/wB3yo1dv478" frameborder="0" allowfullscreen></iframe>
+}}}
+EDP, CSP 영상
+
+[[BEMANIWiki]]에서는 더블 EXPERT를 물렙곡이라고 설명한다. 전반적으로 16분 박자가 많지만, 밀도가 낮고 체중 이동도 어려운 부분이 없다는 것이 이유. 첫 수록 때 13이었다가 [[Dance Dance Revolution(2013)]]에서 12로 떨어졌는데도 12라 하기에는 부족하다는 평이다.

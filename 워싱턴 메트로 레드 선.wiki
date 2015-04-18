@@ -1,0 +1,48 @@
+{{{+1 Washington Metro Red Line}}}
+ * [[철도 관련 정보]]
+
+[[목차]]
+== 개요 ==
+||||<#d72136> {{{#ffffff 워싱턴 메트로 레드선}}} ||
+||운영기관 ||WMATA ||
+||영업거리 ||51.3km ||
+||궤간 ||1435㎜ ||
+||역수 ||27 ||
+||전기 ||[[추가바람]] ||
+
+[[워싱턴 메트로]]의 한 노선으로 노선색은 빨강색이다. 레드선(Red Line)은 워싱턴 메트로 노선 중에 1976년에 개통된 가장 오래된 노선이며, 가장 이용객이 많은 노선이다. 북서쪽 셰이디 그로브 역에서 시작하여 시내 중심부를 지난후 북쪽 글렌몬트 역까지 운행하는 노선이다.
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Red_line_train.jpg/800px-Red_line_train.jpg?width=500
+
+== 노선 ==
+attachment:red.jpg?width=500
+|| 역번호 || 한국어 역명 || 영어 역명 || 환승노선 || 비고 ||
+|| A15 || 셰디 그로브 || Shady Grove ||  ||  ||
+|| A14 || 락빌 || Rockville ||  ||  ||
+|| A13 || 트윈브룩 || Twinbrook ||  ||  ||
+|| A12 || 화이트 플린트 || White Flint ||  ||  ||
+|| A11 || 그로스베너-스트라스모어 || Grosvenor–Strathmore ||  ||  ||
+|| A10 || 메디컬 센터 || Medical Center ||  ||  ||
+|| A09 || 베데스다 || Bethesda ||  ||  ||
+|| A08 || 프렌드쉽 하이츠 || Friendship Heights ||  ||  ||
+|| A07 || 텐리타운-AU || Tenleytown–AU ||  ||  ||
+|| A06 || 밴 네스 – UDC || Van Ness – UDC ||  ||  ||
+|| A05 || 클리블랜드 파크 || Cleveland Park ||  ||  ||
+|| A04 || 우들리 파크 || Woodley Park ||  ||  ||
+|| A03 || 듀폰트 서클 || Dupont Circle ||  ||  ||
+|| A02 || 패러것 노스 || Farragut North ||  ||  ||
+|| A01 || [wiki:"메트로 센터 역" 메트로 센터] || Metro Center || {{{#0b6bb0 ●}}} [wiki:"워싱턴 메트로 블루 선" 블루] [[br]] {{{#ee9125 ●}}} [wiki:"워싱턴 메트로 오렌지 선" 오렌지] ||  ||
+|| B01 || [wiki:"갤러리 플레이스 역" 갤러리 플레이스] || Gallery Place || {{{#f4e733 ●}}} [wiki:"워싱턴 메트로 옐로우 선" 옐로우] [[br]] {{{#17a34e ●}}} [wiki:"워싱턴 메트로 그린 선" 그린] ||  ||
+|| B02 || [wiki:"주디셔리 스퀘어 역"  주디시어리 스퀘어] || Judiciary Square ||  ||  ||
+|| B03 || [wiki:"유니언 역(워싱턴)"  유니언 역] || Union Station ||  ||  ||
+|| B35 || 뉴욕 Ave – 플로리다 Av – 갈루뎃 대학교 || New York Ave - Florida Av - Gallaudet University ||  ||  ||
+|| B04 || 로드 아일랜드 애비뉴 - 브렌트우드 || Rhode Island Avenue – Brentwood ||  ||  ||
+|| B05 || 브루클랜드–CUA || Brookland–CUA ||  ||  ||
+|| B06 || 포트 토튼 || Fort Totten || {{{#f4e733 ●}}} [wiki:"워싱턴 메트로 옐로우 선" 옐로우] [[br]] {{{#17a34e ●}}} [wiki:"워싱턴 메트로 그린 선" 그린] ||  ||
+|| B07 || 타코마 || Takoma ||  ||  ||
+|| B08 || 실버 스프링 || Silver Spring ||  ||  ||
+|| B09 || 포레스트 글렌 || Forest Glen ||  ||  ||
+|| B10 || 휘튼 || Wheaton ||  ||  ||
+|| B11 || 글렌먼트 || Glenmont ||  ||  ||
+
+
+[[각주]]

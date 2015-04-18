@@ -1,0 +1,97 @@
+'''별이 깃드는 하늘 아래 가지에 매는 바람'''
+
+ * 이 항목은 수록된 게임 시리즈가 달라도 노래를 이으면 하나가 되기 때문에 '별이 깃드는 하늘 아래' 또는 '가지에 매는 바람'으로도 들어올 수 있습니다.
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작사, 작곡은 모두 [[Akhuta]].
+
+||
+ ↓ 枝に結ぶ願い
+||
+attachment:edani_musubu_negai.jpg?width=300
+||
+attachment:hoshiyadoru_sora_no_shita_de.png?width=300
+||
+ ↑ 星宿る空の下で
+||
+
+枝に結ぶ願い의 자켓을 위에, 星宿る空の下で의 자켓을 아래에 붙이면 이어지며, 곡도 星宿る空の下で의 마지막 피아노 페이드 아웃되는 부분에서 이어진다.
+
+== [[GITADORA 시리즈]] (星宿る空の下で) ==
+attachment:hoshiyadoru_sora_no_shita_de.png?width=240
+
+|||||||||||||| [[GITADORA OverDrive]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 204 ||<|2><:> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 3.40}}} || {{{#orange 5.30}}} || {{{#red 7.20}}} || {{{#purple 8.35}}} ||
+|| 기타 베이스 || {{{#blue 3.10}}} || {{{#orange 5.30}}} || {{{#red 7.00}}} || {{{#purple 7.85}}} ||
+|| 드럼매니아 || {{{#blue 3.65}}} || {{{#orange 5.40}}} || {{{#red 6.80}}} || {{{#purple 7.80}}} ||
+
+GITADORA의 해금 시스템 Music Factory Vol.5의 녹색 드라이브를 100% 주입하면 해금된다.
+
+[[youtube(tMWTcko3hDk, width=640, height=480)]]
+기타프릭스 Extreme 영상(유튜브)
+
+[[youtube(xxAGvKKw6gc, width=640, height=360)]]
+드럼매니아 Master 영상(유튜브)
+
+[[http://ext.nicovideo.jp/thumb_watch/sm23915011 드럼매니아 Advanced, Extreme, Master 전체 영상(니코동, 로그인 필요)]] 
+
+== [[유비트 시리즈]] (枝に結ぶ願い) ==
+attachment:edani_musubu_negai.jpg
+
+http://livedoor.blogimg.jp/matomepo/imgs/6/5/6517f698.png
+
+2014년 8월 16일에 첫 단서가 공개되었는데, 딸랑 원고지에 쓰여진 문구 일부가 전부였다. 다음 날엔 나머지 일부가 공개.[* [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140816_0.jpg 16일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140817_0.jpg 17일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140818_0.jpg 18일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140819_0.jpg 19일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140820_0.jpg 20일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140821_0.jpg 21일]]]
+
+이 때 위쪽 문구의 마지막 문자만 추려서 '星宿る空の下で'로 나와서 혹시 이 노래가 [[GITADORA OverDrive]]에서 [[유비트 소서 풀필]]에 이식되는 거 아니냐는 추측과, 아래쪽 문구의 맨 첫째 문자만 추려서 枝に結ぶ願い라는 노래의 제목으로 星宿る空の下で의 후속곡이 나올 것이라는 추측이 나왔었다.
+
+http://livedoor.blogimg.jp/matomepo/imgs/b/f/bf15328c.png
+
+8월 20일의 이미지로 사실상 星宿る空の下で의 후속곡이라는 추측이 우세해졌고 8월 21일에 곡이 공개되었다.
+
+||<tablealign=center><#FF9900> '''[[유비트 소서 풀필]]의 [[유비트 소서 풀필/BONUS TUNE|보너스 튠]] 전용곡''' ||
+|| '''[[Blue Goose]]'''[[BR]][[이즈미 무츠히코|Mutsuhiko Izumi]][[BR]]2014/07/24 ||
+|| '''枝に結ぶ願い'''[[BR]][[Akhuta]][[BR]]2014/08/21 ||
+
+|||||||| [[유비트 시리즈|jubeat]] 난이도 체계 ||
+||<|2><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>8||<:>9||
+||<:>노트수||<:>310||<:>616||<:>856||
+||<:>BPM||||||<:>204||
+||||||||<#aaaaaa><:>아케이드 수록버전 및[[BR]]jubeat plus 수록 pack||
+||<:>아케이드 수록||||||<:><#000000>[[유비트 소서 풀필|<span style="color:white">유비트 소서 풀필</span>]]{{{#white (2014.8.21) ~}}}||
+||<:>iOS||||||<:>saucer fulfill pack 6||
+||<:>Android||||||<:>saucer fulfill pack 6||
+
+## jubeat plus Android 버전은 https://remywiki.com/Jubeat_plus_(Android) 을 참고.
+## (jubeat saucer 이후 수록곡중) Android 수록 여부를 모르는 경우에는 iOS와 동일하게 기재바람.
+## 이 주석을 제외한 채로 위의 표만 복사하지 말 것.
+## 이 주석은 2016년 2월 1일 이후로 일괄삭제함.
+관련 칭호
+ * [[유비트 소서 풀필]] ~
+  * 彼岸の空　憧憬の星 (피안의 하늘 동경의 별): 모든 보면 클리어
+  * 星宿る空の下で枝に結ぶ願い (별이 깃드는 하늘 아래 가지에 매는 바람): 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+[[유비트 소서 풀필]]의 두번째 BONUS TUNE 전용곡으로 2014년 8월 21일 수록되었다.
+
+[[youtube(4EZLFX1aKqE, width=640, height=480)]]
+EXT EXC 영상
+
+전체적으로 무난한 듯 보이나, 짤막한 폭타가 조금씩 섞여있기도 하고 다소 당황스러운 패턴이 나오기도 한다. 같은 작곡가의 곡인 [[影縫い胤撒き]]가 지뢰곡 의혹을 받았던 것 처럼 이곡 역시 만만하지는 않다.
+
+=== 곡 코멘트 ===
+||이번에도 KANJI & HIRAGANA곡으로 참가합니다 Akhuta입니다.
+빠르게도 jubeat로의 곡 제공도 세번째가 됩니다만, 이번 곡은 뭐라고 해도 타이틀이 읽기 쉬워!
+혹시 이 Akhuta는 픽션인가? 아니 진짜 Akhuta입니다.
+어차피 Akhuta고 뭔가 읽기 어려운 느낌이 나네, 라고 생각해 읽는 방법을 생각했더니 결국 안 꼬아놓은 거잖아,라는 어떤 의미로 이단 구조의 함정입니다.
+
+긴장해서 곡을 만들었더니 힘이 넘쳐서 4분 정도의 길이가 되어, 곡의 마지막을 싹둑 자르는 것도 뭔가 아까웠기 때문에, 반대로 전반 부분을 싹둑 잘라봤습니다.
+그것을 구현해서, 자켓에도 뭔가 이별이 아쉬운 듯한 하얀 여성은 정열이 식지 않아 화면 밖으로 팔을 뻗고 있네요.
+자켓의 테두리 밖이라는 불가침영역에 막혀서 보이지않는 그녀의 팔은, 도대체 어디로 뻗고 있는 걸까.
+
+- Akhtua||

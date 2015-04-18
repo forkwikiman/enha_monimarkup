@@ -1,0 +1,67 @@
+ * 상위 항목 : [[ZTE Blade]]
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]의 [[안드로이드(OS)|안드로이드]] [[스마트폰]] 시리즈인 [[ZTE Blade|Blade 시리즈]]의 하위 시리즈.
+
+[[ZTE Blade|Blade 시리즈]] 자체가 중급형 혹은 저사양 [[스마트폰]]으로 구성되어 있기 때문에 Blade C 역시 그렇게 높은 사양을 가지고 있지않다.
+
+== 소속 기기 ==
+ * Blade C
+ * Blade C2
+
+[[각주]]
+
+=== Blade C ===
+||<tablealign="center"> http://pdadb.net/img/zte_blade_c.jpg ||
+|| [[http://www.ztedevice.com.cn/product/smart_phone/06bbba01-b734-4ba8-ab9c-9a8485c68d35.html 중국 ZTE U807 공식 사이트]] ||
+
+==== 개요 ====
+[[ZTE]]가 2013년 4월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||<|2>[wiki:"SoC" 프로][[br]][wiki:"SoC" 세서]||<:>'''기본'''||[[MediaTek]] MT6577A [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]] ||<|2>PowerVR SGX531 -- MHz[[GPU]] ||
+||<#494a4c><:>'''[[차이나모바일|<span style="color:#ffffff">CM]]'''||[[MediaTek]] MT6517A [[SoC]]. [[ARM Cortex-A7]] MP2 1 GHz [[CPU]] ||
+||||[[메모리]]||||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC 지원 (최대 32 GB 지원) ||
+||||[[디스플레이]]||||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||<|3>[wiki:"네트워크" 네트][[br]][wiki:"네트워크" 워크]||<:>'''기본'''|| [[4G|HSPA+]] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS] ||<|3>[wiki:"GSM" GSM & EDGE][[br]][[Wi-Fi]] 802.11b/g/n, [[블루투스]] 2.1+A2DP ||
+||<#494a4c><:>'''[[차이나모바일|<span style="color:#ffffff">CM]]'''|| [[TD-SCDMA]] ||
+||<#fe6b02><:>'''[[차이나텔레콤|CT]]'''|| [[CDMA|CDMA EV-DO Rev.A]] ||
+||||[[카메라]]||||후면 320만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||||[[배터리]]||||Li-Ion 1600 mAh ||
+||<|2>[wiki:"운영체제" 운영][[br]][wiki:"운영체제" 체제]||<:>'''기본'''||||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||<#494a4c><:>'''[[차이나모바일|<span style="color:#ffffff">CM]]'''||||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||||규격||||64 x 124 x 11.9 mm, 130 g ||
+||||기타||||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+무난한 중급형 사양을 가졌다. 중국 [[차이나모바일]]을 통해 '''U807'''이라는 기기명으로 선출시 되었다가 이후에 글로벌 모델이 출시되었으며 그사양 그대로 [[차이나유니콤]], [[차이나텔레콤]]을 통해 출시되었다. 때문에 [[차이나모바일]] 모델이 약간 성능이 떨어진다.
+
+[[각주]]
+
+=== ZTE Blade C2 ===
+||<tablealign="center"> attachment:c2.jpg ||
+|| [[http://www.ztedevices.com/product/smart_phone/46715772-0254-45dc-892e-2e7b1ef8afdb.html 글로벌 ZTE Blade C2 공식 사이트]] ||
+
+==== 개요 ====
+[[ZTE]]가 2013년 -월에 공개한 [[안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6572 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]], [[ARM Mali]]-400 500 MHz [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [[Wi-Fi]] 802.11a/b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 300만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1440 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||64 x 124 x 11 mm, -- g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]], 듀얼심 지원 ||
+
+==== 상세 ====
+Blade C의 후속작으로 보인다.
+
+사양표와 부품의 실질적인 성능이 차이가 있다. [[http://www.ztedevices.com/product/smart_phone/46715772-0254-45dc-892e-2e7b1ef8afdb.html 공식 사이트]]에 의하면 미디어텍의 MT6572를 사용하며 듀얼코어 1.3 GHz CPU를 사용한다고 나와있지만, CPU 사양에 맞는 AP는 MT6582다. MT6572는 1.2 GHz가 최대 클럭이다. 또한 이 둘은 GPU도 다르다. [[ARM Mali]]-400을 사용하는 것은 동일하지만, MT6572는 싱글코어로 사용한다. 하지만 MT6582는 듀얼코어로 사용한다. ~~제발 화웨이만큼 공식 사이트 관리 좀 해라~~
+
+호주 시장에는 T809라는 기기명으로, [[텔스트라]]를 통해서 출시되었다.
+[[각주]]

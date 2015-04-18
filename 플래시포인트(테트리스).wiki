@@ -1,0 +1,35 @@
+[[목차]]
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/OkskmlzE5jw?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OkskmlzE5jw?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<br><br>오리지널, 세가 제네시스판<br><br>
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/DoBgLXtlUM8?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DoBgLXtlUM8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+문제의 재미나가 카피한 [[MSX]]판
+== 개요 ==
+[[세가]]에서 1989년에 제작한 [[낙하물 퍼즐]] [[게임]].
+
+[[테트리스]]의 룰을 기본으로 하여 제작한 게임이다.
+== 규칙 ==
+위에서도 말했다시피 테트리스를 기본으로 하고 있다. 각 스테이지마다 블록들이 서로 다른 모양으로 미리 쌓여 있는데, 그 중에 반짝이는 블록이 있다. 플레이어는 반짝이 블록이 있는 줄을 지우는 게 목표이다. 반짝이 블록이 있는 줄을 모두 지워서 필드에 반짝이 블록이 한 개도 남지 않게 되면 스테이지 클리어.
+== 스테이지 ==
+스테이지는 100개가 있다. 처음 도전할 때는 1스테이지부터 90스테이지까지의 스테이지 중 한 스테이지를 도전할 수 있으며 91스테이지부터 100스테이지까지는 처음부터 도전할 수는 없고 게임을 진행 하면서 [[해금]]되는 방식.
+
+한 스테이지를 클리어하면 바로 다음의 4개 스테이지 중 한 스테이지를 골라서 도전할 수 있는데, 특이하게도 홀수 스테이지를 깨면 그 다음엔 4개의 짝수 스테이지가 뜨고 반대로 짝수 스테이지를 깨면 그 다음엔 4개의 홀수 스테이지가 뜨는 방식이다. 예를 들어, 1스테이지를 클리어하면 다음엔 2·4·6·8스테이지 중 한 스테이지를 도전할 수 있다.
+
+어떻게든 마지막 100스테이지만 클리어하면 올 클리어로 간주된다. 가장 적게 도전해서 올 클리어를 한다고 하면 다음과 같이 단 세 스테이지만에 올 클리어를 달성할 수 있다.
+ * 86 →→→→ 93 →→→→ 100
+ * 88 →→→ 93 →→→→ 100
+ * 88 →→→→ 95 →→→ 100
+ * 90 →→ 93 →→→→ 100
+ * 90 →→→ 95 →→→ 100
+ * 90 →→→→ 97 →→ 100
+
+그리고, 올 클리어를 달성할 수 있는 최다 스테이지 수는 당연히 100개. 1스테이지부터 시작해서 건너뛰기 없이 한 스테이지씩 쭉 플레이하면 모든 스테이지를 클리어하고 퍼펙트 올 클리어를 찍을 수 있다.
+ * 1 → 2 → 3 → 4 → … → 97 → 98 → 99 → 100
+
+== 여담 ==
+[[재미나]]에서 이 게임을 카피하여 [[MSX]]판으로 자체제작하기도 했다. [[브금]]까지 똑같이 카피([http://www.youtube.com/watch?v=QhFPM5P-QIM 오리지널 아케이드판]과 비교해 볼 것).
+
+MSX판의 경우는 총 90판이 존재하는데, 90판의 경우는 반짝이 블록이 없기 때문에 사실상 그냥 테트리스다.
+
+반짝이 블록을 없애서 클리어하는 모드는 [[코리안 테트리스]]에서도 사용했다.

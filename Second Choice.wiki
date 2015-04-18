@@ -1,0 +1,29 @@
+ * 상위 항목: [[EZ2ON]]
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/nQ8HaA7ZvUY?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/nQ8HaA7ZvUY?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+|| 장르 |||||||| [[트랜스(음악)#s2|Trance]] ||
+|| 곡명 |||||||| Second Choice ||
+|| 작곡 |||||||| [[M2U]] ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| BPM |||||||| 추가바람 ||
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||| ? ||
+|||||||||| 모드별 레벨 데이터 (이지투온 기준) ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD (8K)}}} ||
+||<#FF0000> Ruby Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#00ff00> Street Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#0000ff> Club Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+
+[[목차]]
+== 개요 ==
+온라인 리듬게임 [[EZ2ON]]의 수록곡. [[M2U]]가 작곡했다.
+
+이 곡이 최초로 공개된 것은 [[EZ2DJ 7th 1.5]] 발매 당시 어뮤즈월드 공식 홈페이지에 올라왔던 발매 공지 팝업창이었다. 그 팝업창의 BGM으로 이 곡이 사용된 것이다. 또한 당시 RYUminus가 운영하던 개인 웹사이트 'D2D Station'에는 이 곡의 제목이 Shock Bird라고 올라온 적도 있다. 2009년 5월 12일 EZ2ON에 업데이트됐으나, 그 전에 발매된 EZ2ON OST에서도 히든 트랙으로 수록되었다.
+
+난이도는 제법 상급에 속했고, 은근히 체력곡에 속한다. 곡도 [[M2U]]라는 네임밸류가 작용한데다가 패턴도 충분히 어려워서 인기가 매우 높았다.
+
+BGA의 경우, 도로 영상에 여러 효과를 더한 영상이 나오다가, 화면 조정 영상(음악에 맞춰 각각의 색상이 빛난다), 사무실 영상이 나오고, 키보드로 작업하는 영상이 나오다가 '더 이상 보여줄 게 없다(There's nothing more to show)'는 메세지와 함께 재탕된다.
+
+이 곡의 형제격인 First choice와 이 곡 모두 하루만에 제작되었음을 M2U본인이 밝혔다(M2U ask.fm).

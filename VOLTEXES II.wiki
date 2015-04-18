@@ -1,0 +1,25 @@
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/Nn74KMwuwt4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[리플렉 비트 그루빈]]의 수록곡. 작곡은 [[후지모리 소타]]. [[Ha・lle・lu・jah]]에 이어 [[레이시스]]가 리플렉 비트 시리즈에 등장했다. [[사운드 볼텍스 II -인피니트 인펙션-|인피니트 인펙션]]의 모습이라면 이 곡이 최초.
+
+곡명이나 자켓에서 알 수 있듯이, [[VOLTEXES]]의 후속곡이며, [[사운드 볼텍스 II -인피니트 인펙션-]]의 시스템 음원들을 묶어 어레인지 한 구성을 가지고 있다. 메인화면 및 엔트리 BGM, 총 리절트 BGM, 매칭 대기 BGM, 곡 리절트 BGM 등의 순서로 나오다가 오리지널 파트 후 [[POLICY BREAK]] BGM, 그리고 [[THANK YOU FOR PLAYING]] 부분 순으로 진행되는 구성을 가지고 있다. 마지막 부분은 곡 선택시의 효과음으로 끝이 난다.
+
+== [[리플렉 비트 시리즈]] ==
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 147 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green }}} || {{{#orange 268}}} || {{{#red 569}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈] ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/hkdAJ7v6sGw" frameborder="0" allowfullscreen></iframe>
+}}}
+--초반에 들리는 마와레는 무시하자--
+
+Hard 패턴 플레이 영상.
+
+[[polygon]]과 비슷한 느낌의 패턴으로, 후지모리 소타의 곡에서 자주 발견할 수 있는 엇박 위주의 곡이다. --그 놈의 후지모리 장단-- 박자가 매우 까다롭기 때문에, 여러번 플레이 해 박자를 암기할 필요가 있다.

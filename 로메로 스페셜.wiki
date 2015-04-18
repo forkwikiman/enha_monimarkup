@@ -1,0 +1,31 @@
+[[목차]]
+== [[프로레슬링]]의 기술 ==
+
+[[include(틀:사고위험행위)]]
+
+http://www.cammyfan.com/Cammy-fan/fan-ideas/submissions/romero2.jpg?width=500
+
+상위 문서 : [[프로레슬링/기술]]
+
+엎드린 상대의 무릎 뒤쪽을 양 발로 밟은 상태에서 양 팔까지 잡은 다음, 자신은 누우면서 상대를 들어올려 사지를 잡아당겨 충격을 가하는 [[쟈베]]로. 멕시코의 레슬러 라울 로메로가 개발한 기술이라 로메로 스페셜이라는 이름으로 북미에 알려졌으며 라 타파티아(La Tapatía)가 원래 이름.
+
+전신 타격 서브미션이라 위력이 상당한 반면, 작위적인 기술인데다 '''시전시간이 너무 길다'''는 문제점 때문에 거의 사라진 기술.
+
+피폭자의 체중과 유연성 문제 때문인지 남성경기보다는 여성경기에서 볼 수 있다. 하트 다이너스티의 [[http://mrcrack.tistory.com/85 나탈리아 나이드하트도 사용한 바가 있다.]]
+
+요즘은 다니엘 브라이언이 자주 사용해 쏠쏠한 재미를 보고 있다.
+
+이 기술과 [[드래곤 슬리퍼]]를 합친 기술은 '''변형 카벨나리아'''[[http://kkjzato.egloos.com/1529957 #]] [[http://kkjzato.egloos.com/2321247 #]]라고 부른다.
+ 
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/GxSbUABThXs?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GxSbUABThXs?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[럼블 로즈]] 히노모토 레이코의 서브미션 피니쉬.
+
+== [[철권]]의 기술 ==
+[[킹]]의 연속잡기 중 하나이다.
+→n↓↘ RP+LK - 스탠딩 아킬레스 홀드
+ ㄴAP LP LK AP - 인디언 데스 록
+  ㄴLP LK RK AP AK - 로메로 스폐셜
+로 이어지는 3단 연속 잡기의 마무리. 커맨드도 매우 간단하며, 잡기 시간이 길어서 입력 시간이 넉넉하기 때문에 입력 미스가 날 위험도 없다. 끝까지 다 넣으면 3단 짜리 잡기임에도 불구하고 95라는 상당한 데미지를 자랑하며, 아리킥 1타가 확정이기 때문에 기본적으로 100은 넘긴다. 결정적으로 로메로 스폐셜은 잡기 풀기 불가능이기 때문에 2번째 잡기인 인디언 데스 록을 풀지 못하면 로메로 스폐셜도 고스란히 당해야 한다. 때문에 킹에 대해 조금이라도 아는 유저들은 두번째 잡기 들어가기전에 AP로 풀으려 하는게 대부분이라 다른 루트로 이지선다를 걸기도 한다.
+덤으로 3단짜리임에도 불구하고 연속 잡기 시전 시간이 매우 길기 때문에 남은 시간이 애매할 경우 로메로 스폐셜까지 성공해도 타임오버로 못 이기는 경우도 생긴다.

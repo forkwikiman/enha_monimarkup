@@ -1,0 +1,28 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[L.E.D.]]와 [[GUHROOVY]]의 합작이며, NO+CHIN이 피처링으로 참가.
+
+pop'n music request best!에 롱버젼이 수록. V-RARE SOUNDTRACK vol.17에 [[kors k]]의 리믹스가 있다.
+
+== [[팝픈뮤직]] ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/-9Z-M7UQ-Xg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||<bgcolor=#E9ECEF> 燃えて燃えて焼けるぜ焦げるぜレゲエ魂！！灼熱の炎に包まれてラガビートは加速する！！！
+||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 15[[br]]ADVENTURE || LOUD MIXTURE RAGGA[[br]] || Soul On Fire[[br]] || [[L.E.D.]]-G VS [[GUHROOVY]][[br]]fw NO+CHIN || WELL-DONE[[br]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 182 || 43단계 || {{{#blue 18}}} || {{{#green 24}}} || {{{#orange 35}}} || {{{#red 41}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 30}}} || {{{#orange 41}}} || {{{#red 46}}} ||
+|||| 노트수 || {{{#blue 392}}} || {{{#green 539}}} || {{{#orange 1029}}} || {{{#red 1400}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+[[L.E.D.]]의 첫 팝픈 참여곡이다. 팝픈뮤직 15 어드벤처 해금 이벤트 "두근두근 미미냐미 탐험대"의 해금곡.
+
+EX채보의 경우 동시치기 중심에 계단패턴이 섞인 채보. 쉬는 구간이 적기 때문에 상당히 체력곡. 앞부분에 어려운 패턴이 많은 대신 후반부분은 비교적 쉬운 동시치기 구간이기 때문에 어느정도 회복을 할 수 있다. [[팝픈뮤직 20 fantasia|판타지아]]까지 표기난이도는 41(현 47)이였지만 [[팝픈뮤직 Sunny Park|서니파크]]에서 46으로 내려갔다. 어쨋든 체력 조절을 잘해야 하는 채보.

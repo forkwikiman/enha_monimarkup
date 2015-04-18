@@ -1,0 +1,47 @@
+[[목차]]
+
+98甲子園
+= 개요 =
+'''마법주식회사'''[* 참고로 이 회사 아직 있다! 홈페이지는 http://www.mahou.co.jp/]라는 이름만 들어도 수상해 보이는 회사에서 [[플레이스테이션]]1으로 출시했던 [[갑자원]] [[토너먼트]]를 무대로 한 [[야구]][[게임]].
+
+개발사에서는 98갑자원 이후로도 다른 게임도 몇 종류 더 발매했지만, 정작 이 회사 공식 홈페이지에도 98갑자원에 대한 얘기는 없다. 게임 자체도 그냥 평범한 야구게임 A. 이쯤 되면 훌륭한 [[흑역사]]로 묻혔어야 했지만...
+
+= 특징 =
+이 게임은 특이하게 '''투구폼을 커스터마이즈하는 것이 가능하다.'''
+
+그래서 그 결과
+
+[[youtube(1xJni5cj2dU)]]
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer52086' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E0AF908E55C3A78A0B64F85F5DA177373136&outKey=V129ccd11c8c06e35359cbb16f34ac9175d92f4f65a0da869ef3cbb16f34ac9175d92' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E0AF908E55C3A78A0B64F85F5DA177373136&outKey=V129ccd11c8c06e35359cbb16f34ac9175d92f4f65a0da869ef3cbb16f34ac9175d92' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer52086' id='NFPlayer52086' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+'''위 동영상 자막첨가버전'''
+
+[[youtube(-f5MRM48H_E)]]
+'''[[아프리카]]의 BJ인 [[김마메]] 더빙 버전'''
+
+{{{#!html
+<embed allowScriptAccess=always allowFullScreen=true src=http://afbbs.afreeca.com:8080/player.swf?uid=kimuza&nTitleNo=324458 width=504 height=448></embed>
+}}}
+(위 동영상 배경음악의 제목은 Rival. [[MintJam]]의 노래이다.)
+
+어이가 [[가출]]해 [[안드로메다]]로 날아가는 [[괴작]]이 되어버렸다. 일부에서는 '''마귀들린 게임'''이라는 이야기까지 나올 정도. 이해는 간다(...). --[무슨 마약하시길래 이런생각을 했어요|아니, 무슨 마약하시길래 이런 게임을 만들었어요?]-- 
+
+참고로 위 동영상의 [[니코니코 동화]]쪽 원본은 [[http://www.nicovideo.jp/watch/sm5130255 여기]]. 일어가 된다면 읽을 수 있겠지만 니코동 사람들은 여기에 등장하는 모든 투구법(?)에 이름을 붙여 줬다(...).
+
+참고로 '''저 게임에서의 커스터마이즈 시스템으로는 제대로 된 투구법을 만들기보다 정신나간 형태의 투구법을 만들기가 더 쉽다.''' 투구폼을 관절 단위로 세밀하게 조정해줘야 하는데 PS1 시스템의 특성상 [그런 거 없다|그런 거 될 리 없다]. 결국 저 지경으로 직행.
+
+[[nicovideo(sm7876747)]]
+아예 한술 더 떠서 [http://www.nicovideo.jp/watch/sm7876747 순수하게 저런 투구만으로 실황중계]를 하는 영상까지 등장했다.[* 제목이 '''2198 갑자원.'''(...) ~~하긴 '''그 정도 미래가 아니면 저런 행동은 불가능할 것 같다.'''~~] 시작부터 끝까지 [병맛]을 달리는 것이 일품. ~~[마젤란] - [안드로메다] - [깐따삐야] - [아이어] 코스 관광(......)~~ 가장 큰 포인트는 영상 16분쯤에 ~~모처럼~~ 정상적인 투구폼이 나오자 보크 선언되는 것이다(...) ~~[[하츠네 미쿠|쓰리라안보오크데스]]~~
+
+참고로 실전에서 저렇게 던지면 '''기본이 [[보크]]'''. ~~잘 되면 뉴스에도 나온다?~~ 물론 저렇게 던질 수 있다는 가정 하에(...). ~~'''[[신수지|그런데 그것이 실제로 일어났습니다]]'''~~
+
+사실 저렇게 던질 수만 있다면 치는 입장에서는 매우 곤혹스럽다. [[피구왕 통키]]에서 나한상의 스위치 슛을 떠올려 보면 알기 쉽다. 할 수만 있다면 해보자, 야구 꿈나무들이여! ~~그러니까 [[보크]]~~
+
+물론 아무리 괴상한 투구폼이라 할지라도, 계속 같은 폼으로 투구할 수 있다면 보크로 인정하지 않기도 한다. [[신수지]]의 투구폼도 경기 내내 저렇게 던질 수만 있다면 보크가 아니라는 얘기. 사실 저 게임에 나오는 선수들도 같은 구질일 경우 계속해서 똑같은 투구폼을 사용하기는 한다. ~~그러나 [[보크]]~~
+
+= 참고항목 =
+ * [[겟단]]
+ * [[젊은날의 과오]]

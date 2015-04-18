@@ -1,0 +1,38 @@
+[[사운드 볼텍스]]의 수록곡. 작곡은 [[黒魔]].
+
+[[사운드 볼텍스 플로어]] '[[사운드 볼텍스 II -인피니트 인펙션-]] 제작결정기념 오리지널곡 컨테스트'의 당선곡이다.
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || 
+|| 자켓 || attachment:Example.jpg || attachment:Example.jpg  || attachment:Example.jpg ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 10}}} || {{{#ff009f 14}}} || 
+|| 체인 수 || {{{#purple 0574}}} || {{{#orange 1046}}} || {{{#ff009f 1423}}} ||
+|| 일러스트 담당 || {{{#purple MoToCo}}} || {{{#orange MoToCo}}} || {{{#ff009f MoToCo}}} || 
+|| 이펙터 || {{{#purple MaKoTo}}} || {{{#orange MaKoTo}}} || {{{#ff009f MaKoTo}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 01(2013.6.5)}}} ||
+|| [[BPM]] |||||| 185 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : KAC 2013 E그룹(2013.10.31 ~ 2013.11.25)
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} || 통상해금 || 통상해금 ||
+|| {{{#orange ADVANCED}}} ||<|2> 1600 ||<|2> 없음 ||
+|| {{{#ff009f EXHAUST}}} ||
+
+{{|
+안녕하세요, 쿠로마입니다.
+채용, 정말로 기쁩니다. 감사합니다!
+이 곡은 '한 아이가 우주를 꿈꾸며 로켓을 만들어 우주로 날아오른다'는 걸 이미지해서 만들어봤습니다.
+아이들의 사랑스러움이라든지, 여러가지 것들이 곡을 듣고 전해질 수 있다면 기쁘다고 생각합니다.
+
+-당선자 코멘트-
+|}}
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/NvZsfRg_mdc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상

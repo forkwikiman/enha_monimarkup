@@ -1,0 +1,55 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX TECHNIKA 2]] ||
+|| 추가 수록 버전 || [[DJMAX TECHNIKA 3]], [[DJMAX TECHNIKA TUNE]] ||
+|| 장르 || [[Jazz]] House ||
+|| 작곡 || bermei.inazawa ||
+|| BGA || Yein(일러스트), 79c(모션) ||
+|| [BPM] || 141 ||
+
+{{{#!html
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/6ahiQ_PNQWo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[DJMAX TECHNIKA 2]의 수록곡.
+전체적으로 무난한 bermei.inazawa의 밝은 느낌의 곡으로, Stars in your eyes, Lost'n Found, [Melody] 에 이은 bermei.inazawa의 4번째 DJMAX 참여곡이다.
+
+Acid House적인 리듬의 곡에, 재즈풍 피아노 음과 피치 업 된 샘플링 보이스 음들이 서로 잘 어우러진 곡. ~~맨 처음에 [[이종원]]씨를 부르는 목소리가 들린다.~~그리고 곡에 어울리는 파스텔풍의 동화책을 보는 듯한 비주얼 역시 잘 어울린다. 역시 수록곡 중 좋은 평을 얻고 있는 곡중 하나이다.
+
+그리고, 해당 곡이 화제가 되었던게, '''상당히 의미심장한 [BGA]''' 동화책을 보는 듯한 색감과 행복한 분위기가 이어지다가,꽤 섬뜩한 마지막 반전이 이어지는 비주얼 때문인지, 몇몇의 리듬게임 커뮤니티에서 [도시전설]급의 논란이 된 적이 있다. 여러가지 해석이 있지만 그 중에서도 [[소녀의 일기장]]과 같은 아동 [[성폭행]]을 다루었다는 해석이 주류. 그리고 3년 후 [wiki:"Shining My Boy"이 BGA와 같은 길을 걸어간 BGA]가 하나 더 나온다.
+
+다만 펜타비전이 [[Melody]] 원곡 OST 무단 삽입 [[병크]]로 인해 더 이상의 bermei.inazawa의 신곡을 [[DJMAX 시리즈]]에서 볼 수 있을지는 미지수지만... [* 펜타비전과 bermei.inazawa가 서로 계약서를 읽지 않고 서명한 탓에 생긴 트러블이었다. 현재는 원만하게 해결됐다고. 이 곡에 대한 소개 코멘트가 없는 건 bermei가 그냥 쓰지 않은 것 뿐이다. 사건에 대한 자세한 이야기는 [[Melody]] 항목의 흑역사 단락 참조]
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 Max || || || ||
+||<#FFFF00> Normal || D || 150 Max || 5 || 4박 스크롤 || [wiki:"TechniColor" 미션 - Rainbow Pastels] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 200 Max || 8 || 4박 스크롤 || [Electro Beat Set] 상위 보스곡, ※[물렙곡] ||
+
+
+{{{#!html
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/ju-FPEZTek4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+HD 패턴
+
+노멀 패턴의 경우는 4박 스크롤의 정박 위주인 무난한 5레벨 패턴. 클리어와 스코어링 모두 쉽다.
+
+하드 패턴의 경우는 노멀에 비해 난이도는 꽤 높아졌지만, 그래도 하드 퍼포먼스의 4스테이지 치고는 무난한 편. 중반까지는 몇몇 엇박 외에는 크게 게이지를 깎을 구간이 없다. 후반 보라돌이 구간은 분홍노트가 정박이므로 침착하게만 치면 된다. 단, 몇몇 보라돌이에서는 정박으로 가다가, 갑자기 보라노트 하나가 더 끼거나, 혹은 정박이 아닌 보라돌이가 등장하는 등 낚시가 있으니 주의. 다만 8레벨치곤 너무 쉽다는 의견이 많다. 심지어 같은 세트에 등장하는 [wiki:"La Campanella : Nu Rave" La Campanella : Nu Rave]보다 쉽다. --보스곡이 셀렉곡보다 약해-- 거기다 이 패턴은 '''30만점 만점 기록이 있는 패턴이다.''' 같은 8레벨에 [wiki:"Dream of Winds" 이][wiki:"Gone Astray"런] [wiki:"Black Swan"곡][wiki:"End of the Moonlight"들]이 있으니...
+
+이러한 낚시때문에 별칭 '''고자퀼트''', '''꼬장퀼트'''로도 부른다.(...) Quilt가 '이불'이라는 뜻도 지니고 있기 때문에 '고자'''이불''''로 부르기도(......)
+
+테크니카 3로 넘어오면서 노멀 패턴이 [wiki:"TechniColor"미션 - Rainbow Pastels]에 수록되었다. ~~그리고 이 미션에서 난민이 된 사람들에게는 구세주 같은 곡이 되었다(항목 참조)~~
+
+=== [DJMAX TECHNIKA TUNE] ===
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 5 || ||
+||<#FF0000> CLUB || 6 || [[Instrumental Set]] 셀렉곡 ||
+
+[[DJMAX TECHNIKA TUNE]]에서도 만날 수 있다. 거기다가 새 클럽 믹싱에도 수록되었다. 이래저래 TECHNIKA 시리즈에서는 대접이 좋은 편. ~~[[Melody]] 때문에 bermei한테 저지른 짓이 미안해서인가 보다~~
+
+[[각주]]

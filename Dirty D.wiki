@@ -1,0 +1,79 @@
+[[목차]]
+
+|| 장르 |||||||| Rap ||
+|| 곡명 |||||||| Dirty D ||
+|| 작곡 |||||||| [Ruby Tuesday] ||
+|| 랩 |||||||| George Rulez ||
+|| 배경 |||||||| ibarad ||
+|| 최초 수록버전 |||||||| [EZ2DJ 1st] ||
+|| BPM |||||||| 100 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 3}}} || {{{#red 5}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 2}}} || {{{#red 5}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 5}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 3}}} || {{{#red 6}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=QhTjY9jCylM$&playLoc=undefined'></embed>
+}}}
+[[EZ2DJ The 1st TRACKS]] '''BGA'''
+
+== 개요 ==
+끈적끈적한 분위기의 힙합이다. 시작하자마자 들리는 '''스꾸임~'''과 노래 마지막의 경박한 웃음소리가 매력 포인트.
+
+이 곡의 후반 랩 부분에 '''sex me up'''이라는 꽤나 파격적인 가사가 들어 있다.('sex somebody up'이라는 구에는 '~의 성욕을 돋우게 하다'라는 뜻이 있다.) 이는 예전 천리안이나 하이텔, 나우누리 등의 텔넷기반 통신 시절 [[EZ2DJ The 1st TRACKS]]의 OST가 발매되고, 알려진 후 어느 정도 화제거리가 되었다.
+각 모드의 하드 패턴들과 10K MANIAC, EZ2CATCH 모드의 노멀 패턴에는 이 후반부 랩 구간이 커팅되어 있다. 그래서 하드가 노멀보다 곡 길이가 더 짧다.
+
+4th에서 삭제되었다가 Platinum에서 부활한 후, CV에서 다시 삭제곡이 되었다가 [[EZ2DJ 7thTRAX BONUS EDITION revision A]]에서 부활하였다.
+
+== 패턴 ==
+=== 5K RUBY ===
+EV에서 패턴이 추가되었다.
+=== 5K ONLY ===
+NM 패턴은 5K STANDARD의 NM 패턴과 거의 유사하다. HD 패턴은 EV 1.50에서 추가되었다.
+=== 5K STANDARD ===
+{{{#!html
+<embed pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="600" height="480" src="http://play.mgoon.com/Video/V2199568" allowScriptAccess="always" allowFullScreen="true" quality="high"/>
+}}}
+[[EZ2DJ The 1st TRACKS Special Edition]]에서의 플레이
+
+1st 당시에는 '''극악 판정'''(특히 라디오 힙합채널에서)으로도 유명했었다. 처음하는 사람은 5콤보도 내지 못한다고 할 정도. 스트릿에서는 2 스테이지에 등장하는 곡이었는데 하필이면 같은 스테이지에 장르가 같은 [[Southwest Cadillac]]이 있는 바람에 묻혔다. Southwest Cadillac은 곡 자체도 인기가 좋았고 패턴도 재밌는데다가 판정이 Dirty D보다는 덜 짰다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+EV 1.53 기준으로 패턴이 존재하지 않는다.
+=== EZ2CATCH ===
+=== TURNTABLE ===
+노멀 3, 하드 6인데 각각 스텐다드의 노멀, 하드의 패턴을 베이스로 턴테이블 모드에 맞게 배치를 바꾼 패턴이다.
+
+== 가사 ==
+||~~Scream~~
+~~DJ DJ D D D D D DJ DJ~~
+We can roll solo on the beach
+holding hands on the looa looa
+as we creep you + me baby oh no
+I won't sleep take our time baby go slow
+I mean we be coming hard core baby
+never had on dime ya crazy
+injects straght into your brain
+Can you feel me
+I pick it up want you want to have my baby
+They can't fale me
+Now on this second words I'll keep it smou
+send a shot out on this joint to my baby Boo
+Like my stical - you know - It's all about U
+I'll cut the small talk - Straight up keep it real + true
+Never had nodoby to break it down
+'''Sex me up''' and you know I'll always be around
+for eternity you know It'll be you and me
+Money, cause you sweet like candy||
+[[각주]]

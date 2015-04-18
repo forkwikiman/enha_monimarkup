@@ -1,0 +1,23 @@
+[[include(틀:타악기)]]
+Mbira
+
+{{{#!html
+<div align=center><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/faZpUnCyhBc?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/faZpUnCyhBc?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div> }}}
+
+가느다란 철판을 여러 개 달아놓은 악기. [[실로폰]]과 비슷하지만, 실로폰처럼 고정된 금속판이 아니라 한 부분만 고정시키고, 나머지는 공중으로 치켜올려진 모습이다. 얇은 철판을 튕겼을 때 진동에 의해 소리가 나는 것을 이용한 악기로, 언뜻 보기에는 무슨 무기처럼 보이지만 의외로 소리가 맑고 깨끗해 [[오르골]]과 비슷한 느낌을 준다.
+
+실제로 오르골의 일종이기도 하며, 금속판을 튕겨 소리를 낸다는 점에서 공통점을 가진다.
+
+중앙[[아프리카]]에 기원을 두고 있으며 각 부족마다 여러가지 이름으로 부르고 있다. 주로 '엠비라'라는 명칭보단 칼림바(Kalimba)로 불린다. 18세기 식민지 개척 당시 [[유럽]] [[전도사]]들에 의해 악마의 악기라고 지목되기도 했는데, 이는 이 악기가 그들 조상과의 영적 교류를 위해 쓰여졌기 때문이다.
+
+전통적으로 3~14개의 떨림판을 가지며, 몸체는 종려나무 껍질, 등나무, 대나무 등이 자주 이용된다. 금속판을 배열, 조립한 뒤 두 손가락을 이용해 떨림판을 뚱기며, 몸체부분으로 울림을 만들어내는데, 이 악기를 연주할 때는 둥근 [[바가지]] 안에 넣어 그 울림을 증폭시킨다.
+
+본래 정해진 치수나 형태의 제약이 없어 개인의 기호나 부족의 색채로 장식되는데, 요즘 아프리카에서는 [[통조림]] 깡통을 이용해서도 많이 만들어진다고.
+
+{{{#!html
+<div align=center><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/e1lf3DZzdgE?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/e1lf3DZzdgE?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div> }}}
+
+어레이 엠비라라는 대형 엠비라도 있는데, 이건 미국 발명가인 빌 웨슬리가 5 옥타브까지 지원 가능한 서양 음계에 맞게 개량한 형태.
+
+
+ * 참고항목 : [[오르골]]

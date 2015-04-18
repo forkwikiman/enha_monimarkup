@@ -1,0 +1,74 @@
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/1wr8G_JfiQY?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1wr8G_JfiQY?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 215  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 498}}} || {{{#orange 10}}} || {{{#orange 1299}}} || {{{#red 12}}} || {{{#red 1593}}} || {{{#blue 5}}} || {{{#blue 706}}} || {{{#orange 10}}} || {{{#orange 1267}}} || {{{#red 12}}} || {{{#red 1810}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 미수록
+ * 가정용판 수록 : [[wiki:"비트매니아 IIDX 15 DJ TROOPERS" 15 DJ TROOPERS]]
+ * 단위인정 수록 : '''10단''' (CS 15 DJ TROOPERS)
+
+가정용 15 DJ TROOPERS에 수록된 [[GUHROOVY]]의 [[wiki:"하드코어 테크노#s-3.8" 브레이크 코어]]의 일종인 레게코어 넘버. 215의 빠른 BPM과 동시치기, 16박의 폭타와 계단 등으로 상당한 체력곡으로 가정용 군투덱의 단위인정 10단에 올라와있다.
+난이도가 어느 정도 있는 12렙 곡임에도 불구하고 CS DJ TROOPERS에만 수록되어 있는 것 때문에 곡의 인지도는 낮은 편이다.
+
+== 가사 ==
+{{|(Listen!)
+A long, long time ago, We were the one, we were the one.
+color of skin, color of hair, color of eyes and color of life.
+It was not possible to understand each other.
+There is a person who suffers at this time now.
+
+The time of the hundred million 
+how many year is exceeded
+Let's become once again now.
+again, again, again,
+& again & again, now!
+
+* Everybody JUMP!  
+Let's get it on!
+Clap your hands! 
+and shake your body!
+
+Take a look around. 
+We are united.
+
+This is an important thing.
+
+Everybody JUMP!
+Let's kick it now!
+Clap your hands! 
+and shake your body!
+
+Take a look around. 
+We are united.
+
+I gotta dance.
+
+beat the keyboard according to the rhythm.
+beat the drum pad according to the rhythm.
+be scratch turntable according to the rhythm.
+preform dance steps according to the.., again!
+Beat the keyboard according to the rhythm.
+Beat the guitar according to the rhythm.
+be scratch turntable according to the rhythm.
+perform dance steps according to the rhythm.
+The world sings.
+The world plays it.
+Enough in the game if you fight
+When not getting enjoyment out of hardcore life
+
+* Refrain
+
+Everybody jump! (jump jump jump)
+Clap your hands! (hands hands hands)
+Take a look around. We are united.
+This is war!  This is war!
+
+Let's make all arms a controller.
+It ties wherever you are.
+It is a friend and it is a rival.
+Let's become one by this tune.|}}

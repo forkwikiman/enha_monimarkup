@@ -1,0 +1,73 @@
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='293' id='rmcPlayer_05670' align='middle'><param name='allowScriptAccess' value='always' /><param name='quality' value='high' /><param name='movie' value='http://serviceapi.rmcnmv.naver.com/flash/getCommonPlayer.nhn' /><param name='wmode' value='window' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='FlashVars' value='vid=727819EB67732322275920B7933A170CBA14&outKey=V12895ffa1c278229ac1a5caa732847ba922e926c927ade9a25115caa732847ba922e&wmode=transparent&jsCallable=false&isAutoPlay=false&controlBarMovable=true&api=http://serviceapi.rmcnmv.naver.com/flash&skinName=tvcast_black&isResizableCoverImage=true&beginTime=0&__flashID=rmcPlayer_05670&skinURL=http://serviceapi.rmcnmv.naver.com/flash/getCommonPlayerSkin.nhn?name=tvcast_black&'><embed src='http://serviceapi.rmcnmv.naver.com/flash/getCommonPlayer.nhn' width='512' height='293' quality='high' wmode='window' id='rmcPlayer_rmcPlayer_2911' name='rmcPlayer_rmcPlayer_2911' FlashVars='vid=727819EB67732322275920B7933A170CBA14&outKey=V12895ffa1c278229ac1a5caa732847ba922e926c927ade9a25115caa732847ba922e&wmode=transparent&jsCallable=false&isAutoPlay=false&controlBarMovable=true&api=http://serviceapi.rmcnmv.naver.com/flash&skinName=tvcast_black&isResizableCoverImage=true&beginTime=0&__flashID=rmcPlayer_05670&skinURL=http://serviceapi.rmcnmv.naver.com/flash/getCommonPlayerSkin.nhn?name=tvcast_black&' bgColor='#000000' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+[http://tvcast.naver.com/v/72819 navertv#] 2013년 7월 29일 사전 공개된 1회.
+
+
+|| [[JTBC]]의 [[월화 드라마]] ||
+|| [[무정도시]] → '''그녀의 신화''' →  [[네 이웃의 아내]] ||
+
+[http://drama.jtbc.co.kr/bagstory/ 홈페이지]
+[[목차]]
+== 소개 ==
+[[종합편성채널]] [[JTBC]]에서 2013년 8월 5일부터 동년 10월 8일까지 방송된 월화 드라마. 총 20부작이다. 연출 이승렬, 극본 김정아. 줄거리는 "역경을 딛고 명품가방 제작의 꿈에 도전하는 정수의 성공신화를 담아내는 휴먼터치 석세스 드라마".
+
+첫회 시청률은 [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=019&aid=0002365336 0.757%]였으며 조금씩 상승하여 18회 시청률은 [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=213&aid=0000381402 2.894%]를 기록하였다.
+스토리라든가 제정신이 아닌 인물들이 등장하기에 기획의도와 다르게 [막장 드라마]의 모습도 보여주었다.
+
+== 기획의도 ==
+http://fs.jtbc.co.kr/cms_upload/attach_image/2013/07/201307230500540031.jpg
+
+== 출연진 ==
+http://home.jtbc.co.kr/Cast/CastIntro.aspx?prog_id=PR10010229&menu_id=PM10018788
+
+http://images.jtbc.co.kr/ui_jtbc/program/myth/myth_people01.jpg
+
+=== 메인 등장인물 ===
+ * 은정수 - [최정원]
+ 본작의 주인공. 밝고 긍정적인 성격을 지녔다. [[사생아]]로, 어머니 사후에 외삼촌인 은기정의 집에 맡겨진다.
+
+ * 도진후 - [김정훈]
+ 본작의 남주인공. 신화그룹의 후계자.
+ 첫화부터 정수와 실랑이를 벌이는등..전형적인 드라마의 재벌 캐릭터로서 등장한다.
+
+ * 은경희/김서현 - [손은서] 
+ 은기정의 딸로 정수의 사촌. 어릴때부터 엄마와 함께 정수를 괴롭혔고, 주제에 된장녀 기질까지 있어서 무능력한 부모가 싫다고 자신에게는 진짜 부모가 있을거라 생각해 온 찌질이. 김서현은 도영이 기억을 잃은 틈을 타 종욱과 도영을 속이고 입양된 후 갖게 된 이름이다. 입양 후 잘 되는 듯 했으나 도영이 기억을 되찾는 바람에 정수와 재회하게 된다.~~쌤통이다~~
+
+ * 강민기 - [박윤재]
+ 신화그룹 디자인 실장. 아버지가 사망한 후에 최수호의 후원으로 학교를 다녔기 때문에, 수호를 아버지처럼 따른다. 진후와는 친한 형-동생 사이. 예전에 서현과 사귀던 사이였으나 헤어졌다. 
+
+=== 정수와 경희(서현)의 가족 ===
+ * 은혜정 - 최수린
+ 정수의 어머니. 과거 최수호와 연인 사이였으며, 그와 헤어진 후 임신한 사실을 알고는 집을 나온다. 최수호의 친딸인 정수를 낳고 몇 년 뒤 뇌종양으로 사망한다.
+
+ * 은기정 - 맹상훈
+ 은혜정의 오빠로 정수의 외삼촌. 아버지의 뒤를 이어 가방 제작 일을 하고 있다. 매번 정수를 괴롭히는 아내와 딸과 다르게 정수를 챙겨주는등 착한 면을 지녔다.
+
+ * 김미연 - 전수경
+ 은기정의 아내. 딸을 편애하는 경향이 있다. 가난하게 사는 상황을 무척 싫어하며, 자기 딸에게 투자한 돈은 자기 돈이 아니라 남에게 받은 돈이고, 그걸 들통나서 남편이 화내는데도 정신승리를 하는등 찌질하다. 심지어 나중에는 남편이 싫다고 뱃속에 든 아이를 가지고 친딸을 버리는등 막장녀. 정수가 어릴 때는 정수를 못 잡아먹어 안달인 모습만 보여줬으며 정수가 성장한 이후에도 정수를 영 불편해한다.
+ 
+ * 은경호 - 장태성
+ 은기정의 아들로, 은경희의 오빠. 엄마의 편애 때문에 성장하면서 친동생보다는 사촌 동생인 정수와 더 친해진다.
+
+ * 김종욱 - [[김병세]]
+ 우도영의 남편. <세경무역>의 대표이사. 아내가 의식불명 상태가 된 후, 아내가 입양하기로 한 소녀를 입양했다. 그러나 이 소녀는 사실......
+ 
+ * 우도영 - [[김혜선]]
+ 그림을 그리는 게 취미. 불임 때문에 마음 고생을 심하게 했다. 우연히 길에서 만나게 된 소녀 은정수에게 끌렸고, 정수가 고아라는 사실을 안 뒤에 그녀를 양녀로 삼기로 한다. 그러나 그 직후 교통 사고로 인해 오랫동안 의식불명 상태가 된다. 이후 기억을 잃는 바람에 경희를 정수인 줄 알고 입양했지만 나중에 기억을 되찾으면서 정수와 재회하게 된다.
+
+=== 신화그룹 사람들 ===
+ * 도경철 - 김섬경
+ 도진후의 할아버지로, 신화그룹의 회장.
+
+ * 최수호 - [[전노민]]
+ 신화그룹의 사장. 본래 은기정의 아버지의 제자였지만, 출세를 위해 아버지나 다름없는 스승의 곁을 떠났다. 신화그룹에 입사한 뒤 진후의 아버지와 친하게 지냈고, 이 때문에 진후에겐 아버지나 마찬가지인 존재. 강민기 역시 그를 아버지처럼 따르고 있다.
+
+ * [심은진]
+ * [김수현]
+ * [신수연]
+ * [정윤석]
+
+=== 기타 ===
+ * 여숙경 - 변정혜
+ 정수의 친구.

@@ -1,0 +1,30 @@
+'''げきオコスティックファイナリアリティぷんぷんマスタースパーク'''
+
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/C3xY-AJXEz4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/C3xY-AJXEz4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[동방프로젝트]] 어레인지곡. 작곡은 ARM([[IOSYS]]), 보컬은 [[COOL&CREATE]] 소속 [[비트마리오]].원곡은 [[키리사메 마리사]]의 테마곡인 동방삼월정의 메이거스 나이트+[[동방영야초]]의 사랑색 마스터 스파크를 섞어놓은 것.
+
+== [[사운드 볼텍스]] ==
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:gekioko.jpg?width=150 || attachment:gekioko.jpg?width=150 || attachment:gekioko.jpg?width=150 ||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 11}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0582}}} || {{{#orange 0991}}} || {{{#ff009f 1604}}} ||
+|| 일러스트 담당 || {{{#purple ギンザケ(水海)}}} || {{{#orange ギンザケ(水海)}}} || {{{#ff009f ギンザケ(水海)}}} ||
+|| 이펙터 || {{{#purple PHQUASE}}} || {{{#orange PHQUASE}}} || {{{#ff009f PHQUASE}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 01(2013.6.5)}}} ||
+|| [[BPM]] |||||| 200 ||
+
+자켓은 [[하쿠레이 신사 예대제]] 10에서 배포한 앨범 게키오코☆메이거스의 자켓이다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/l5x79R6BPew?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/l5x79R6BPew?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 클리어 영상

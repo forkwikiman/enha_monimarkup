@@ -1,0 +1,28 @@
+[[목차]]
+
+== 설명 ==
+attachment:/Daft_Punk_-_Discovery.jpg
+[[다프트 펑크]] 2집 [[Discovery]] 1번 트랙.
+밑에 후술되는 [[리플렉 비트]]에 추가된 이유는 [[소니]] VAIO CM 곡이여서...
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/FGBhQbmPwH8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+== [[리플렉 비트 시리즈]] 수록 ==
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 123 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 108}}} || {{{#orange 187}}} || {{{#red 303}}} ||
+|| 수록버전 ||||||||<#FF1AF8> [리플렉 비트] ||
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nz0ZUWuaFRY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[리플렉 비트]] 오리지날 플레이 영상
+
+[[리플렉 비트 라임라이트]]로 넘어오면서 '''3TOP'''이 추가된 관계로 패턴 변화가 생겼다. 롱놋이 탑에 들어가버렸다(...) 또한 베이직 채보 또한 변경되었다. 패턴 자체는 어렵지 않은 아주 평범한 9렙곡을 지키고 있으나 박자가 BPM 123이 믿겨지지 않을 정도로 꽤 맞추기 힘든 편이다. 박자만 익숙해지면 고득점을 취할 수 있는 노래.
+
+2014년 10월 29일, [[リアルワールド]]와 함께 라이센스 만료로 삭제되었다.

@@ -1,0 +1,3 @@
+{{{#!html
+<script language="javascript"> if(document.location.toString().split('?')[1]===undefined) document.location.replace('./%EC%86%8C%EB%B6%80%20%EB%B3%B8%EC%84%A0?action=show&redirect=%EC%A3%BC%EC%98%A4-%EC%86%8C%EB%B6%80%EC%84%A0#s-4');</script>(바로가기 문서)<br /><font size="+2">→ <a href="./%EC%86%8C%EB%B6%80%20%EB%B3%B8%EC%84%A0#s-4">소부 본선#s-4</a></font>
+}}}

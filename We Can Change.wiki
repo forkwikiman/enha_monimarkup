@@ -1,0 +1,57 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[후지모리 소타]]의 테크노 팝 악곡. Sota Fujimori feat. Kemy 명의이다. 신시사이저의 향연과 보컬이 어우러져있다. [[팝픈뮤직]]과 [[리플렉 비트]]에 실렸다. 롱버전은 후지모리 소타의 두 번째 앨범 SYNTHESIZED 2에 실렸고, [[Dirty Androids]]가 일렉트로 풍으로 리믹스한 곡이 SYNTHEZIED -Re-Edition-에 실렸다[* 초판에 실린 Do it Alright의 리믹스 대신 새롭게 실린 리믹스 악곡.].
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/6Z5zaUGJ-aA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+@롱버전 음원 영상
+
+== [[팝픈뮤직]] ==
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/46IXCToUIMY" frameborder="0" allowfullscreen></iframe>
+}}}
+EX플레이 영상
+
+{{|
+キュートでクールな未来派テクノポップだよ！ We Can Change the Future！
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 17[[br]]THE MOVIE || CUTIE TECHNO POP[[br]]큐티 테크노 팝 || We Can Change || Sota Fujimori feat. Kemy || SORA HOSHINO[[br]][[호시노 소라]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 138 || 43단계 || {{{#blue 13}}} || {{{#green 16}}} || {{{#orange 26}}} || {{{#red 32}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 22}}} || {{{#orange 32}}} || {{{#red 38}}} ||
+|||| 노트수 || {{{#blue 349}}} || {{{#green 393}}} || {{{#orange 692}}} || {{{#red 944}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+팝픈뮤직 17 The Movie부터 수록되었으며 장르는 큐티 테크노 팝.
+
+동시치기만 계속 나온다. 32치고는 어렵다는 평도 있으나 패턴만 알면 쉽다. 손이 좀 꼬이지만... 로케테에서 5키 레벨이 14였지만 정식발매에선 13으로 하락.
+
+== [[리플렉 비트]] ==
+attachment:wecanchange.jpg
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ASIl5dOu4bc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 138 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 7}}} ||
+|| 오브젝트 || {{{#green 116}}} || {{{#orange 262}}} || {{{#red 346}}} ||
+|| 수록버전 ||||||||<#FF1AF8> [리플렉 비트] ||
+|| [wiki:"리플렉 비트 플러스" Rb+] 수록 팩 |||||||| MUSIC PACK 06 ||
+||||||||||<#ffffff>{{{#orange MEDIUM}}} : 난이도 1 증가 (라임라이트)[[BR]]{{{#red HARD}}} : 난이도 1 증가 (라임라이트)||
+
+초대작 부터 수록이 되었다. 레벨 22에서 해금이 되지만 라임라이트에선 통상해금곡으로 풀렸다. 사용하는 자켓은 그의 개인 앨범 2집인 SYNTHESIZED 2의 재킷이다.
+
+하드 난이도가 6이지만, 6치고 엇박이 상당히 많이 나오는 채보이다. 그래서 그런지 차기작 라임라이트선 미디움과 같이 1씩 상승되었고 패턴도 리듬만 알면 후한판정이 나오도록 수정되었다. 하지만 스크롤 속도가 느리고 3TOP 노트가 심심찮게 나오기 때문에 침착하게 플레이하지 않으면 높은 랭크는 기대하기 어렵다.
+
+여담으로, 선곡률이 그다지 높지 않아서인지 리플렉 비트 초대작의 타 비마니 시리즈 이식곡 중 가장 늦게 항목이 개설되었다.
+
+그 선곡률을 반영하듯이 그루빈때 삭제되었다.

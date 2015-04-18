@@ -1,0 +1,343 @@
+ * 상위 항목: [[엑스컴: 롱 워]]
+
+[[목차]]
+
+[[엑스컴: 롱 워]] 모드의 정찰-저격병과(정찰병 및 저격병), MEC 병사로 전환시의 클래스인 예거과 패스파인더에 대한 전반적인 정보와 운용 팁을 서술한다.
+이하는 버전 15c를 기준으로 작성되었음.
+
+= 전투병 =
+
+== 저격병 ==
+원작의 분대시야 저격병. 더이상 설명이 필요없다. 다만 더이상 기회주의자 훈련은 없기에 경계로 끊어먹는 플레이는 다른 병과에 맡기자. 항상 평균 이상의 조준을 가진 신병을 저격수로 뽑는게 정신건강에 좋으며, 경계사격보다 조준정렬를 시키는게 이득인 경우가 많다. 무기는 지정사수소총/저격소총 이며, 초반엔 지정사수소총이 좋다. 저격병에게 필요한 기동성을 주며 초반에 장거리 교전을 할만한 기회도 인원수도 부족하기 때문.
+
+||<tablewidth=100%><width=10%><#3DB7CC><:>계급||<width=15%><#3DB7CC><:>HP 상승치||<width=15%><#3DB7CC><:>HP 누적||<width=15%><#3DB7CC><:>명중 상승치||<width=15%><#3DB7CC><:>명중 누적||<width=15%><#3DB7CC><:>의지 상승치[* 세컨드 웨이브의 '''잠재력''' 적용 시, 의지는 표기된 범위내에서 랜덤하게 오른다. 예외적으로 사이오닉 병사는 항상 최대 상승치를 얻는다.]||<width=15%><#3DB7CC><:>의지 누적||
+||<:><#5CD1E5>이병||<#B2EBF4><:>0||<#B2EBF4><:>0||<#B2EBF4><:>4||<#B2EBF4><:>4||<#B2EBF4><:>5~6||<#B2EBF4><:>5~6||
+||<:><#5CD1E5>일병||<#B2EBF4><:>0||<#B2EBF4><:>0||<#B2EBF4><:>4||<#B2EBF4><:>8||<#B2EBF4><:>5~6||<#B2EBF4><:>10~12||
+||<:><#5CD1E5>상병||<#B2EBF4><:>1||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>12||<#B2EBF4><:>3~4||<#B2EBF4><:>13~16||
+||<:><#5CD1E5>병장||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>16||<#B2EBF4><:>2~3||<#B2EBF4><:>15~19||
+||<:><#5CD1E5>하사||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>20||<#B2EBF4><:>2~3||<#B2EBF4><:>17~22||
+||<:><#5CD1E5>중사||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>24||<#B2EBF4><:>2~3||<#B2EBF4><:>19~25||
+||<:><#5CD1E5>상사||<#B2EBF4><:>1||<#B2EBF4><:>2||<#B2EBF4><:>4||<#B2EBF4><:>28||<#B2EBF4><:>2~3||<#B2EBF4><:>21~28||
+
+ * 이병
+||<bgcolor=#EDA900><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/7f/SNIPER_SQUADSIGHT.png/32px-SNIPER_SQUADSIGHT.png||<bgcolor=#FFFF7E><|2><(>아군의 인식 반경 내의 목표물에 대해 무기의 사거리가 닿는 한 사격이 가능하지만, 치명타율이 30%감소합니다. MEC의 주무기, 지정사수소총 및 경기관총은 5타일의 추가범위를 얻을 수 있으며 저격총은 무한한 사거리를 가집니다. 지정사수소총의 경우 분대시야 내의 적에게 경계중 반응사격을 가할 수 있습니다.||
+||<bgcolor=#FFCD12><:>분대 시야||
+- 분대시야: 원작과는 달리 처음부터 분대시야를 가지고 있기 때문에 육성이 편하다. 기동성을 원하면 DMR을, 장거리 저격이라면 기본 저격소총을 주면 된다.
+
+ * 일병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/4/40/SNIPER_LOWPROFILE.png/32px-SNIPER_LOWPROFILE.png||<bgcolor=#FFCA6C><|2><(>부분 엄폐 상태가 완전 엄폐로 처리됩니다.||
+||<bgcolor=#FF8224><:>은밀 기동||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/8/8c/SNIPER_GUNSLINGER.png/32px-SNIPER_GUNSLINGER.png||<bgcolor=#FFCA6C><|2><(>보조무기가 +1 추가 데미지를 가지며 14미터이상의 장거리사격에 대한 패널티를 무효화합니다.||
+||<bgcolor=#FF8224><:>청부 살인자||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/97/Council_Medal_of_Honor_2_%28EU2012%29.png/32px-Council_Medal_of_Honor_2_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>7칸안에 아군 유닛이 없으면 +10 조준 및 치명타율 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>고독한 늑대||
+- 은밀 기동:분대와 함께하는 중거리 DMR 저격병 또는 스냅샷 저격병이 찍는다.
+- 청부 살인자: '''더이상 저격병은 잠입요원으로서 샤용가치가 없다.''' 설명 끝. 잠입요원으로는 돌격병이나 정찰병을 쓰자.
+- 고독한 늑대: 전통적 역할의 장거리 저격소총 저격병이 찍는다. +10 조준/치명타면 스코프 1개 수준의 능력치!
+
+ * 상병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/f/f6/SNIPER_DISABLINGSHOT.png/32px-SNIPER_DISABLINGSHOT.png||<bgcolor=#FFCA6C><|2><(>대상의 무기에 고장을 일으키는 사격을 합니다. 대상이 무기를 수리하려면 재장전이 필요합니다. 이 능력으로는 치명타를 가할 수 없습니다. 2턴이 지나면 다시 사용 가능합니다.||
+||<bgcolor=#FF8224><:>무력화 사격||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/0/0e/SNIPER_HEADSHOT.png/32px-SNIPER_HEADSHOT.png||<bgcolor=#FFCA6C><|2><(>저격총으로 쓸 경우 분대시야 치명타율 패널티를 무시하고 +30% 치명타율을 추가합니다. 또한 무기 수준에 따라 치명타 데미지가 추가됩니다. 지정사수소총의 경우 다른 보너스 없이 거리제한을 무시합니다. 2턴이 지나면 다시 사용 가능합니다.||
+||<bgcolor=#FF8224><:>정밀 사격||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/ec/SNIPER_SNAPSHOT.png/32px-SNIPER_SNAPSHOT.png||<bgcolor=#FFCA6C><|2><(>저격병의 경우 행동 후에도 사격과 경계 상태의 선택이 가능합니다. 이 상태에서의 모든 사격은 -10 조준 패널티를 받습니다. 로켓병의 경우 행동 후에 로켓을 발사할 때 조준 패널티를 줄여줍니다.||
+||<bgcolor=#FF8224><:>스냅 샷||
+- 무력화 사격: 롱워에서는 섹토포드 이외에도 막강한 분대장급 외계인들이 많이 등장하기 때문에 엄청나게 유용하다. 포획시 산성수류탄과 연계해서 쓰기도 좋다.
+- 정밀 사격: 전작의 헤드샷. 저격총의 경우 분대시야의 크리율 30% 페널티를 무효화하기 때문에 장거리에서는 60% 증가하는 셈이다. DMR 사격시에는 크리율이 늘지 않는 대신 사거리가 무한이지만 그냥 이동해서 쏘면 되기 때문에 큰 메리트는 없다. 사실상 저격총 극크리 빌드 전용 스킬. 무력화 사격과 택일이라는 것이 단점이나 위력 하나는 확실하다.
+- 스냅 샷: 분대시야로 저격 각도가 안 나올 때 원작처럼 이동하고 턴을 날릴 필요 없이 그대로 쏠 수 있게 해준다. 사실상 효과는 '''치명타율+10%'''에[* DMR류의 무기는 원본 저격소총보다 치명타율이 10% 낮다.] 이동후 명중률 -10%의 사격/경계 가능. 준비된 사수 스킬과 조합하면 재장전 후 바로 쏠 수 있게 된다. 물론 DMR 사용시에는 아무런 효과가 없는 스킬.
+
+ * 병장
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/ea/SNIPER_DGG.png/32px-SNIPER_DGG.png||<bgcolor=#FFCA6C><|2><(>낮은 지대의 적에 대해, 기본 지형 보너스 외에 +10 조준 보너스 및 +10 방어 보너스를 부여합니다. '''의지 +2'''||
+||<bgcolor=#FF8224><:>죽이는 위치 선정|| 
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/91/ALIEN_CANNONFIRE.png/32px-ALIEN_CANNONFIRE.png||<bgcolor=#FFCA6C><|2><(>주무기, 로켓 발사기 및 MEC보조무기가 1의 추가 데미지를 줍니다.||
+||<bgcolor=#FF8224><:>레인저||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/1/1d/Urban_Combat_Badge_2_%28EU2012%29.png/32px-Urban_Combat_Badge_2_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>+10 치명타율 보너스를 받고 완전 엄폐상태의 적에대해 +10 조준 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>명사수||
+- 죽이는 위치 선정: 후반에 유용하다. 후반가면 저격병은 유전자 개조에 온갖 마개조를 당하는데 모든 보너스를 총합하고 날라다니면 완전엄폐쯤이야 우습게 뚫는다. 방어 보너스는 비행슈트의 생존성을 높여주고 조준 보너스야 설명이 필요한가? 단 중반에 케스트렐 갑옷이 나와도 쓸만해진다. 좀 시야확보가 되는 맵이라면.
+- 레인저:
+- 명사수:
+
+
+ * 하사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/f/f2/SNIPER_EXECUTIONER.png/32px-SNIPER_EXECUTIONER.png||<bgcolor=#FFCA6C><|2><(>남은 체력이 50% 이하인 적을 공격할 때, +10 조준과 +10 치명타율 보너스가 추가됩니다.||
+||<bgcolor=#FF8224><:>처형인||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/7f/MEC_VITAL_POINT_TARGETING.png/32px-MEC_VITAL_POINT_TARGETING.png||<bgcolor=#FFCA6C><|2><(>해부한 종류의 인간이나 외계인 목표에 입히는 데미지가 주무기가 2데미지, 보조무기가 1데미지 추가됩니다.  ||
+||<bgcolor=#FF8224><:>약점 조준||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/1/10/MEC_PLATFORM_STABILITY.png/32px-MEC_PLATFORM_STABILITY.png||<bgcolor=#FFCA6C><|2><(>행동하지 않고 사격하면 +10 조준 및 +10% 치명타율 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>플랫폼 안정성||
+- 처형인:
+- 약점 조준:
+- 플랫폼 안정성:
+
+ * 중사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/a/a6/ASSAULT_TACTICALSENSE.png/32px-ASSAULT_TACTICALSENSE.png||<bgcolor=#FFCA6C><|2><(>시야에 있는 적 하나당 +5 방어 보너스를 부여합니다. (최대 +20)||
+||<bgcolor=#FF8224><:>전술적 감각||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/c/c2/ASSAULT_BRINGTHEMON.png/32px-ASSAULT_BRINGTHEMON.png||<bgcolor=#FFCA6C><|2><(>병사가 볼 수 있는 범위에 적이 여러명 있을시 치명타 데미지가 추가됩니다. (최대 +6)||
+||<bgcolor=#FF8224><:>호승심||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/95/SUPPORT_DEEPPOCKETS.png/32px-SUPPORT_DEEPPOCKETS.png||<bgcolor=#FFCA6C><|2><(>주무기의 장탄수를 1증가시킵니다. 첫 행동으로 주무기를 재장전하면 턴이 끝나지 않습니다.||
+||<bgcolor=#FF8224><:>락 앤 로드||
+- 전술적 감각: 
+- 호승심: 
+- 락 앤 로드:
+
+ * 상사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/e8/SNIPER_ITZ.png/32px-SNIPER_ITZ.png||<bgcolor=#FFCA6C><|2><(>측면을 노출 중이거나 엄폐 중이 아닌 목표를 주무기로 처치한 경우, 행동 횟수를 소비하지 않습니다. 무아지경이 발동 할 때마다 치명타율이 감소합니다.||
+||<bgcolor=#FF8224><:>무아지경||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/a/a5/HEAVY_MAYHEM.png/32px-HEAVY_MAYHEM.png||<bgcolor=#FFCA6C><|2><(>제압사격시 2 데미지를 줍니다. 또한 수류탄, 지뢰 및 모든 로켓발사기에 2 데미지를 추가합니다. 분대자동화기, 경기관총으로 엄폐해제사격을 사용할시 1데미지를 추가합니다. 일반사격 및 속사에 2 데미지를 추가합니다. 저격총 및 지정사수소총으로 일반사격 및 정밀사격을 사용할시 4데미지를 추가합니다. '''조준 +2'''||
+||<bgcolor=#FF8224><:>아수라장||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/a/ad/SNIPER_DOUBLETAP.png/32px-SNIPER_DOUBLETAP.png||<bgcolor=#FFCA6C><|2><(>행동하지 않은 상태에서 일반 사격, 정밀사격 또는 무력화 사격을 해도 한 번 더 사격이 가능합니다. 1턴이 지나면 다시 사용 가능합니다.||
+||<bgcolor=#FF8224><:>더블 탭||
+- 무아지경: 외계인이나 EXALT나 물량으로 밀어붙이기 때문에 로켓/수류탄과 연계하면 총알이 모자랄 정도로 학살을 벌일 수 있다. 다만 원작과는 달리 연속적인 치명타가 불가능해서 깡뎀을 늘리는 쪽이 안정적이다.
+- 아수라장: 데미지가 '''4''' 증가한다. 약점조준과 같이 찍을 경우 기본 DMR만 들어도 데미지를 10~11가량 띄울 수 있어서 연구가 빡빡한 초반에 매우 큰 도움이 된다. 펄스 테크쯤 되면 더블탭에 비해 DPS에서 밀리는 편. 원작에 비해 저격총의 화력이 많이 떨어졌기 때문에 매턴 안정적인 1킬을 보장해주는 대혼란의 가치는 높다.
+- 더블 탭: 모든 상황에 무난한 대응이 가능하며 무아지경과는 달리 아군에게 막타를 양보할 수 있다는 것이 큰 장점.
+== 정찰병 ==
+'''팀의 시야를 책임진다!''' 항상 분대의 선봉에서 위협적인 적들의 유무를 파악하고, 현재 직면한 상황에 맞춰 여러가지 전략을 선택하며, '''아군을 위해 적의 반응 사격을 소모해주는 중요한 역할을 맡고 있다.'''~~사실상 브루털 이상 난이도부터는 정찰병으로 경계사격을 빼지 않으면 진행이 안된다 카더라~~ ~~플래시뱅은?~~ ~~멀어서 못던진다 카더라~~ 미션마다 정찰병 한명씩 데리고 가면 도움이 된다. 원작의 스냅 샷 저격수와 지원병을 혼합한 듯한 능력을 보유하고 있으며, 사용할수 있는 무기는 '''기관총/저격 소총을 제외한 모든무기'''. 샷건을 들고 딜러로 가거나, 포인트맨처럼 정찰을 하도록 SMG/카빈을 들려주거나 하는 식으로 매우 유연한 전술적 조치를 취할수 있는 병과.
+
+지정사수 소총(DMR)은 저격 소총과 일반 무기 사이의 사거리를 가지고 있으며,[* 분대 시야 훈련을 거칠 경우 더욱 긴 사거리를 확보하는 것도 가능하며, 저격병의 경우 정밀 사격(구:헤드샷)을 배운다면 일회성이지만 무한대의 사거리를 지닐 수 있다] 스냅 샷 능력을 처음부터 보장받는다. 저격 소총과 마찬가지로, DMR 역시 근거리의 적을 공격하려 하면 '''극심한''' -명중치 보정을 받게 되므로 주의하자. DMR의 경우 기본 대미지는 저격 소총과 같으나, 저격 소총에 비해 10% 낮은 크리티컬율을 가진 것도 특징 중의 하나. 꾸준히 딜을 구겨넣을 수 있다고 생각하면 편할듯 하다.
+
+||<tablewidth=100%><width=10%><#3DB7CC><:>계급||<width=15%><#3DB7CC><:>HP 상승치||<width=15%><#3DB7CC><:>HP 누적||<width=15%><#3DB7CC><:>명중 상승치||<width=15%><#3DB7CC><:>명중 누적||<width=15%><#3DB7CC><:>의지 상승치[*1]||<width=15%><#3DB7CC><:>의지 누적||
+||<:><#5CD1E5>이병||<#B2EBF4><:>0||<#B2EBF4><:>0||<#B2EBF4><:>4||<#B2EBF4><:>4||<#B2EBF4><:>5~6||<#B2EBF4><:>5~6||
+||<:><#5CD1E5>일병||<#B2EBF4><:>0||<#B2EBF4><:>0||<#B2EBF4><:>3||<#B2EBF4><:>7||<#B2EBF4><:>5~6||<#B2EBF4><:>10~12||
+||<:><#5CD1E5>상병||<#B2EBF4><:>1||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>11||<#B2EBF4><:>3~4||<#B2EBF4><:>13~16||
+||<:><#5CD1E5>병장||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>3||<#B2EBF4><:>14||<#B2EBF4><:>3~4||<#B2EBF4><:>16~20||
+||<:><#5CD1E5>하사||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>18||<#B2EBF4><:>3~4||<#B2EBF4><:>19~24||
+||<:><#5CD1E5>중사||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>3||<#B2EBF4><:>21||<#B2EBF4><:>3~4||<#B2EBF4><:>22~28||
+||<:><#5CD1E5>상사||<#B2EBF4><:>1||<#B2EBF4><:>2||<#B2EBF4><:>4||<#B2EBF4><:>25||<#B2EBF4><:>2~3||<#B2EBF4><:>24~31||
+
+ * 이병
+||<bgcolor=#EDA900><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/90/ASSAULT_LIGHTNINGREFLEXES.png/32px-ASSAULT_LIGHTNINGREFLEXES.png||<bgcolor=#FFFF7E><|2><(>이 유닛에 가해진 첫 반응 사격은 90%, 추가적인 사격은 70%의 명중률을 감소시킵니다.[* 이게 무슨 소린지 설명하자면 이렇다. 적의 반응 사격 명중률에 대해 상술한 비율만큼 깎는다는 뜻인데, 예를 들어 적의 반응사격 명중률이 80이었다면, 그게 첫번째 반응사격이었을 경우 90%만큼 깎아 반응사격 명중률이 8%가 되고, 두 번째 이후부터의 반응사격이었을 경우 70%만큼 깎아 24%가 된다는 뜻이다. 보면 알겠지만 더 이상 일회용 스킬은 아니게 되었으나 대신 운 나쁘면 스킬이 있어도 반응사격을 맞을 수도 있다. 스킬이 반응사격 명중률을 0%로는 절대 만들어주지 못하기 때문에... 대신 이게 적에게도 적용되어 크리살리드 분대장 같이 예리한 반사신경을 가진 적 유닛도 럭키샷 반응 사격을 맞출 수 있다. 아주 가끔...] '''(이동 +1)'''||
+||<bgcolor=#FFCD12><:>예리한 반사 신경||
+- 예리한 반사신경: 오늘도 어느 이름모를 정찰병은 반응 사격 어그로를 끌고있다.~~본격 에일리언식 다트 던지기~~ 이 스킬 덕분에 정찰병으로서의 기본적 소양도 갖출 수 있고,[* 개활지로 아무 생각 없이 이동했을때 사이버디스크 같은 놈들이 갑자기 경계를 걸어도 물흐르듯이 빠져나오거나 완전 엄폐 지형으로 숨어들어갈 수 있다] 우회 타격을 시도할때에도 비교적 안전하게 적의 등짝을 노릴수 있다(대부분의 적은 행동하지 않을때 아군과 마찬가지로 경계 상태로 들어가므로.). 또한 예반이 엄호 사격으로 발동된 반응사격에도 적용되므로, 노엄폐로 등짝을 노릴때도 금상첨화이다. 다만 카멜레온 수트를 입지 않으면 2번째 사격부터는 맞을 확률이 꽤 높으므로 주의해야 한다.
+
+ * 일병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/0/08/HEAVY_HOLO.png/32px-HEAVY_HOLO.png||<bgcolor=#FFCA6C><|2><(>적에게 일반 사격이나 제압 사격 시, 해당 적에 대한 아군의 모든 공격에 +10 조준 보너스를 부여합니다.||
+||<bgcolor=#FF8224><:>홀로그램 조준||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/8/8c/SNIPER_GUNSLINGER.png/32px-SNIPER_GUNSLINGER.png||<bgcolor=#FFCA6C><|2><(>보조무기가 +1 추가 데미지를 가지며 14미터이상의 장거리사격에 대한 패널티를 무효화합니다.||
+||<bgcolor=#FF8224><:>청부 살인자||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/97/Council_Medal_of_Honor_2_%28EU2012%29.png/32px-Council_Medal_of_Honor_2_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>7칸안에 아군 유닛이 없으면 +10 조준 및 치명타율 보너스를 받습니다. ||
+||<bgcolor=#FF8224><:>고독한 늑대||
+- 홀로그램 조준:
+- 청부 살인자: 
+- 고독한 늑대:
+
+ * 상병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/4/40/SNIPER_LOWPROFILE.png/32px-SNIPER_LOWPROFILE.png||<bgcolor=#FFCA6C><|2><(>부분 엄폐 상태가 완전 엄폐로 처리됩니다.||
+||<bgcolor=#FF8224><:>은밀 기동||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/91/ALIEN_CANNONFIRE.png/32px-ALIEN_CANNONFIRE.png||<bgcolor=#FFCA6C><|2><(>주무기, 로켓 발사기 및 MEC보조무기가 1의 추가 데미지를 줍니다. '''(조준 +1)'''||
+||<bgcolor=#FF8224><:>레인저||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/f/f0/SENTINEL_MODULE_ICON.png/32px-SENTINEL_MODULE_ICON.png||<bgcolor=#FFCA6C><|2><(>비행중인 유닛을 상대로 +15 조준 보너스를 부여합니다.||
+||<bgcolor=#FF8224><:>죽음의 시선||
+- 은밀 기동:
+- 레인저:
+- 죽음의 시선:
+
+ * 병장
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/e2/ASSAULT_FLUSH.png/32px-ASSAULT_FLUSH.png||<bgcolor=#FFCA6C><|2><(>적이 엄폐물에서 강제로 벗어나게 합니다. 명중시키기 쉬우나 낮은 데미지를 줍니다.||
+||<bgcolor=#FF8224><:>엄폐 해제 사격||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/4/40/ASSAULT_AGGRESSION.png/32px-ASSAULT_AGGRESSION.png||<bgcolor=#FFCA6C><|2><(>시야에 있는 적 하나당 +10% 치명타율이 증가합니다. (최대 +30%) 분대시야로 보이는 외계인은 제외됩니다.||
+||<bgcolor=#FF8224><:>호전성||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/1/11/SNIPER_BATTLESCANNER.png/32px-SNIPER_BATTLESCANNER.png||<bgcolor=#FFCA6C><|2><(>2턴 동안 새 지점에서 시야가 확보 가능한 스캔 장치를 투척합니다. 전투 당 2회 사용 가능합니다.||
+||<bgcolor=#FF8224><:>전투 스캐너||
+- 엄폐 해제 사격:
+- 호전성:
+- 전투 스캐너:
+
+ * 하사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/4/4e/Mimetic_Skin_Gene_Mod_%28EU2012%29.png/32px-Mimetic_Skin_Gene_Mod_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>적의 지각을 변화시켜 아군병사를 보기힘들게 만듭니다. 병사가 완전 엄폐물로 이동하면 특별한 능력이 없는 적은 병사를 공격할 수 없습니다. 병사의 능력 시작 지점이 적의 시야에 들어오면 발동하지 않습니다. 엄폐물에서 나가거나 측면을 노출시키거나 사격, 익절트 통신기 해킹 및 융합 물질 회수를 하면 은폐가 풀립니다. 낮은 엄폐의 유닛은 적은 엄폐를 가지므로 이 보너스를 얻지 못합니다.||
+||<bgcolor=#FF8224><:>은신||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/e8/SNIPER_ITZ.png/32px-SNIPER_ITZ.png||<bgcolor=#FFCA6C><|2><(>측면을 노출 중이거나 엄폐 중이 아닌 목표를 주무기로 처치한 경우, 행동 횟수를 소비하지 않습니다. 무아지경이 발동 할 때마다 치명타율이 감소합니다.||
+||<bgcolor=#FF8224><:>무아지경||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/3/31/ALIEN_LEAP.png/32px-ALIEN_LEAP.png||<bgcolor=#FFCA6C><|2><(>측면노출이나 노엄폐인 적을 공격할시 첫 번째 기본 사격은 행동을 소모하지 않습니다. 공중 유닛에는 적용 되지 않고 런앤건과 같이 쓸 수 없습니다.||
+||<bgcolor=#FF8224><:>히트 앤 런||
+- 은신: 
+- 무아지경: 
+- 히트 앤 런: 
+
+ * 중사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/a/a6/ASSAULT_TACTICALSENSE.png/32px-ASSAULT_TACTICALSENSE.png||<bgcolor=#FFCA6C><|2><(>시야에 있는 적 하나당 +5 방어 보너스를 부여합니다. (최대 +20)||
+||<bgcolor=#FF8224><:>전술적 감각||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/c/c2/ASSAULT_BRINGTHEMON.png/32px-ASSAULT_BRINGTHEMON.png||<bgcolor=#FFCA6C><|2><(>병사의 시야에 있는 각 적당 +1 치명타 데미지가 추가됩니다. (최대 +6)  ||
+||<bgcolor=#FF8224><:>호승심||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/c/ce/SUPPORT_SPRINTER.png/32px-SUPPORT_SPRINTER.png||<bgcolor=#FFCA6C><|2><(>추가로 4칸(약3칸)을 더 이동할 수 있습니다.||
+||<bgcolor=#FF8224><:>스프린터||
+- 전술적 감각:
+- 호승심:
+- 스프린터: 
+
+ * 상사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/b/b7/ASSAULT_EXTRACONDITIONING.png/32px-ASSAULT_EXTRACONDITIONING.png||<bgcolor=#FFCA6C><|2><(>장착한 방어구의 종류에 따라 추가 방어 포인트 보너스를 획득합니다. 중량 방어구일수록 더 많은 보너스가 추가됩니다. '''(조준 +4, 의지 +4, 이동 +1)'''||
+||<bgcolor=#FF8224><:>특별 방어구 적응 훈련||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/7f/MEC_VITAL_POINT_TARGETING.png/32px-MEC_VITAL_POINT_TARGETING.png||<bgcolor=#FFCA6C><|2><(>해부한 종류의 인간이나 외계인 목표에 입히는 데미지가 주무기가 2데미지, 보조무기가 1데미지 추가됩니다. ||
+||<bgcolor=#FF8224><:>약점 조준||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/e7/SUPPORT_SMOKEMIRRORS.png/32px-SUPPORT_SMOKEMIRRORS.png||<bgcolor=#FFCA6C><|2><(>장비로 장착한 지원 수류탄의 사용횟수가 임무당 1회 증가합니다.||
+||<bgcolor=#FF8224><:>은폐||
+- 특별 방어구 적응 훈련: 
+- 약점 조준: 
+- 은폐: 
+= MEC 병사 =
+
+== 예거 ==
+'''분대시야'''를 쓰는 MEC. 모든 병과 중 최고의 기본 명중률을 자랑한다.[* 최종적인 명중률은 스킬과 장비에 따라 달라진다.] 적의 시야 밖에서 매턴 2발씩 강력하고 정확한 사격을 날릴 수 있다. 파쇄탄 찍고 크리가 뜨면 30을 넘어가기도 한다. 티어1의 워든만 타도 무기만 좋으면 끝이라는 게 큰 장점.
+
+||<tablewidth=100%><width=10%><#3DB7CC><:>계급||<width=15%><#3DB7CC><:>HP 상승치||<width=15%><#3DB7CC><:>HP 누적||<width=15%><#3DB7CC><:>명중 상승치||<width=15%><#3DB7CC><:>명중 누적||<width=15%><#3DB7CC><:>의지 상승치[*2]||<width=15%><#3DB7CC><:>의지 누적||
+||<:><#5CD1E5>이병||<#B2EBF4><:>1||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>4||<#B2EBF4><:>2~3||<#B2EBF4><:>2~3||
+||<:><#5CD1E5>일병||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>8||<#B2EBF4><:>2~3||<#B2EBF4><:>4~6||
+||<:><#5CD1E5>상병||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>12||<#B2EBF4><:>2~3||<#B2EBF4><:>6~9||
+||<:><#5CD1E5>병장||<#B2EBF4><:>1||<#B2EBF4><:>2||<#B2EBF4><:>4||<#B2EBF4><:>16||<#B2EBF4><:>2~3||<#B2EBF4><:>8~12||
+||<:><#5CD1E5>하사||<#B2EBF4><:>0||<#B2EBF4><:>2||<#B2EBF4><:>4||<#B2EBF4><:>20||<#B2EBF4><:>2~3||<#B2EBF4><:>10~15||
+||<:><#5CD1E5>중사||<#B2EBF4><:>0||<#B2EBF4><:>2||<#B2EBF4><:>4||<#B2EBF4><:>24||<#B2EBF4><:>2~3||<#B2EBF4><:>12~18||
+||<:><#5CD1E5>상사||<#B2EBF4><:>1||<#B2EBF4><:>3||<#B2EBF4><:>4||<#B2EBF4><:>28||<#B2EBF4><:>2~3||<#B2EBF4><:>14~21||
+
+ * 이병
+||<bgcolor=#EDA900><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/7f/SNIPER_SQUADSIGHT.png/32px-SNIPER_SQUADSIGHT.png||<bgcolor=#FFFF7E><|2><(>아군의 인식 반경 내의 목표물에 대해 무기의 사거리가 닿는 한 사격이 가능하지만, 치명타율이 30%감소합니다. MEC의 주무기, 지정사수소총 및 경기관총은 5타일의 추가범위를 얻을 수 있으며 저격총은 무한한 사거리를 가집니다. 지정사수소총의 경우 분대시야 내의 적에게 경계중 반응사격을 가할 수 있습니다.||
+||<bgcolor=#FFCD12><:>분대 시야||
+- 분대 시야:
+
+ * 일병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/ea/SNIPER_DGG.png/32px-SNIPER_DGG.png||<bgcolor=#FFCA6C><|2><(>낮은 지대의 적에 대해, 기본 지형 보너스 외에 +10 조준 보너스 및 +10 방어 보너스를 부여합니다.||
+||<bgcolor=#FF8224><:>죽이는 위치 선정||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/1/10/MEC_PLATFORM_STABILITY.png/32px-MEC_PLATFORM_STABILITY.png||<bgcolor=#FFCA6C><|2><(>행동하지 않고 사격하면 +10 조준 및 +10% 치명타율 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>플랫폼 안정성||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/1/1d/Urban_Combat_Badge_2_%28EU2012%29.png/32px-Urban_Combat_Badge_2_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>+10 치명타율 보너스를 받고 완전 엄폐상태의 적에대해 +10 조준 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>명사수||
+- 죽이는 위치 선정:
+- 플랫폼 안정성: 예거와 잘 맞는 스킬이지만 총알세례로 2연사를 날리면 첫발에만 적용된다는 단점이 있다.
+- 명사수: 예거는 완전엄폐만 뚫으면 다른 건 다 뚫는 수준이라 적절한 스킬이다.
+
+ * 상병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/f/f2/SNIPER_EXECUTIONER.png/32px-SNIPER_EXECUTIONER.png||<bgcolor=#FFCA6C><|2><(>남은 체력이 50% 이하인 적을 공격할 때, +10 조준과 +10 치명타율 보너스가 추가됩니다.||
+||<bgcolor=#FF8224><:>처형인||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/b/bb/MEC_AUTOMATED_THREAT_ASSESSMENT.png/32px-MEC_AUTOMATED_THREAT_ASSESSMENT.png||<bgcolor=#FFCA6C><|2><(>0.5 DR 보너스를 받습니다.(공격을 받았을때 1의 데미지를 50% 확률로 무시합니다) 그리고 경계 사격을 맞추기 전까지 +15 방어 보너스를 부여합니다. ||
+||<bgcolor=#FF8224><:>자동 위협 측정||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/e2/ASSAULT_FLUSH.png/32px-ASSAULT_FLUSH.png||<bgcolor=#FFCA6C><|2><(>적이 엄폐물에서 강제로 벗어나게 합니다. 명중시키기 쉬우나 낮은 데미지를 줍니다.||
+||<bgcolor=#FF8224><:>엄폐 해제 사격||
+- 처형인:
+- 자동 위협 측정:
+- 엄폐 해제 사격: 아군 경계병과 연계할 수 있고 막타용으로 쓰기도 좋다.
+
+ * 병장
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/97/Council_Medal_of_Honor_2_%28EU2012%29.png/32px-Council_Medal_of_Honor_2_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>7칸안에 아군 유닛이 없으면 +10 조준 및 치명타율 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>고독한 늑대||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/a/a1/MEC_ADVANCED_FIRE_CONTROL.png/32px-MEC_ADVANCED_FIRE_CONTROL.png||<bgcolor=#FFCA6C><|2><(>경계 상태에서 사격 시 조준 패널티가 없습니다.||
+||<bgcolor=#FF8224><:>고급 사격 통제||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/91/ALIEN_CANNONFIRE.png/32px-ALIEN_CANNONFIRE.png||<bgcolor=#FFCA6C><|2><(>주무기, 로켓 발사기 및 MEC보조무기가 1의 추가 데미지를 줍니다.||
+||<bgcolor=#FF8224><:>레인저||
+- 고독한 늑대: 
+- 고급 사격 통제:
+- 레인저: MEC에게 1데미지는 너무 적다.
+
+ * 하사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/4/40/ASSAULT_AGGRESSION.png/32px-ASSAULT_AGGRESSION.png||<bgcolor=#FFCA6C><|2><(>시야에 있는 적 하나당 +10% 치명타율이 증가합니다. (최대 +30%) 분대시야로 보이는 외계인은 제외됩니다.||
+||<bgcolor=#FF8224><:>호전성||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/75/MEC_DAMAGE_CONTROL.png/32px-MEC_DAMAGE_CONTROL.png||<bgcolor=#FFCA6C><|2><(>이 유닛이 데미지를 입으면 다음 2턴에서 받는 모든 추가 데미지가 1또는 2만큼 감소합니다. '''(의지 +2)'''||
+||<bgcolor=#FF8224><:>데미지 컨트롤||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/7f/MEC_VITAL_POINT_TARGETING.png/32px-MEC_VITAL_POINT_TARGETING.png||<bgcolor=#FFCA6C><|2><(>해부한 종류의 인간이나 외계인 목표에 입히는 데미지가 주무기가 2데미지, 보조무기가 1데미지 추가됩니다.||
+||<bgcolor=#FF8224><:>약점 조준||
+- 호전성:
+- 데미지 컨트롤: 가끔 1대 맞을 일은 있으나 2~3대씩 맞을 일은 거의 없다.
+- 약점 조준:
+
+ * 중사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/6/6b/MEC_REPAIR_SERVOS.png/32px-MEC_REPAIR_SERVOS.png||<bgcolor=#FFCA6C><|2><(>턴이 시작될 때마다 받은 데미지의 50%를 수리합니다(턴당 최대 2). 아이콘 값이 수리의 남은 부분을 나타냅니다. 완전히 수리가 끝나기전에 받는 추가적인 데미지는 수리할 수 있는 양을 줄입니다. '''(의지 +2)'''||
+||<bgcolor=#FF8224><:>서보 수리||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/c/c2/ASSAULT_BRINGTHEMON.png/32px-ASSAULT_BRINGTHEMON.png||<bgcolor=#FFCA6C><|2><(>병사가 볼 수 있는 범위에 적이 여러명 있을시 치명타 데미지가 추가됩니다. (최대 +6)||
+||<bgcolor=#FF8224><:>호승심||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/6/69/HEAVY_SHREDDER.png/32px-HEAVY_SHREDDER.png||<bgcolor=#FFCA6C><|2><(>명중된 모든 적은 다음 4턴 동안 모든 공격에 대해 받는 데미지가 증가합니다. 로켓병은 추가 파쇄 로켓을 얻지만 기관총병은 파쇄탄을 장전합니다. 파쇄 로켓은 일반 로켓보다 약하고 엄폐물을 관통할 수 없습니다.||
+||<bgcolor=#FF8224><:>파쇄탄||
+- 서보 수리:
+- 호승심: 분대시야에는 크리율 30% 페널티가 있다. 호전성을 찍고 근거리에서 놀면 좋은 과녁이 될 것이다.
+- 파쇄탄: 화력이 눈에 띄게 좋아지며 아군에게 큰 도움이 된다. 로봇에게도 그럭저럭 뎀딜을 넣을 수 있다.
+
+ * 상사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/e8/SNIPER_ITZ.png/32px-SNIPER_ITZ.png||<bgcolor=#FFCA6C><|2><(>측면을 노출 중이거나 엄폐 중이 아닌 목표를 주무기로 처치한 경우, 행동 횟수를 소비하지 않습니다. 무아지경이 발동 할 때마다 치명타율이 감소합니다. ||
+||<bgcolor=#FF8224><:>무아지경||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/b/b8/MEC_ABSORTION_FIELDS.png/32px-MEC_ABSORTION_FIELDS.png||<bgcolor=#FFCA6C><|2><(>이 유닛에 들어오는 데미지는 크면 클수록 많이 줄어듭니다. 최대 40%의 데미지가 감소합니다. '''(이동 -1)'''||
+||<bgcolor=#FF8224><:>흡수장||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/2/2a/HEAVY_BULLETSWARM.png/32px-HEAVY_BULLETSWARM.png||<bgcolor=#FFCA6C><|2><(>첫 행동에 사격을 하여도 턴이 끝나지 않습니다.||
+||<bgcolor=#FF8224><:>총알 세례||
+- 무아지경: 제법 잘 써먹을 수 있으나 패스파인더의 하위호환이 된다. 예거를 막타용으로 쓰면 데미지면에서 손해가 크다.
+- 흡수장: 순삭당하지 않는 것은 좋으나 총알세례와 겹친다.
+- 총알 세례: 예거를 위한 스킬이다.
+== 패스파인더 ==
+버전15c의 제트 모듈의 삭제로 인해 모든 MEC 강화병이 평등해졌다. 따라서 고지 플레이의 이점은 더 이상 없다. 무아지경도 삭제되었다. 하지만 이병부터 히트 앤 런을 배우기 때문에 잡몹 학살에 특화되어 있다.
+
+||<tablewidth=100%><width=10%><#3DB7CC><:>계급||<width=15%><#3DB7CC><:>HP 상승치||<width=15%><#3DB7CC><:>HP 누적||<width=15%><#3DB7CC><:>명중 상승치||<width=15%><#3DB7CC><:>명중 누적||<width=15%><#3DB7CC><:>의지 상승치[*2]||<width=15%><#3DB7CC><:>의지 누적||
+||<:><#5CD1E5>이병||<#B2EBF4><:>1||<#B2EBF4><:>1||<#B2EBF4><:>3||<#B2EBF4><:>3||<#B2EBF4><:>2~3||<#B2EBF4><:>2~3||
+||<:><#5CD1E5>일병||<#B2EBF4><:>0||<#B2EBF4><:>1||<#B2EBF4><:>3||<#B2EBF4><:>6||<#B2EBF4><:>2~3||<#B2EBF4><:>4~6||
+||<:><#5CD1E5>상병||<#B2EBF4><:>1||<#B2EBF4><:>2||<#B2EBF4><:>3||<#B2EBF4><:>9||<#B2EBF4><:>2~3||<#B2EBF4><:>6~9||
+||<:><#5CD1E5>병장||<#B2EBF4><:>0||<#B2EBF4><:>2||<#B2EBF4><:>3||<#B2EBF4><:>12||<#B2EBF4><:>2~3||<#B2EBF4><:>8~12||
+||<:><#5CD1E5>하사||<#B2EBF4><:>1||<#B2EBF4><:>3||<#B2EBF4><:>3||<#B2EBF4><:>15||<#B2EBF4><:>2~3||<#B2EBF4><:>10~15||
+||<:><#5CD1E5>중사||<#B2EBF4><:>0||<#B2EBF4><:>3||<#B2EBF4><:>3||<#B2EBF4><:>18||<#B2EBF4><:>2~3||<#B2EBF4><:>12~18||
+||<:><#5CD1E5>상사||<#B2EBF4><:>1||<#B2EBF4><:>4||<#B2EBF4><:>3||<#B2EBF4><:>21||<#B2EBF4><:>2~3||<#B2EBF4><:>14~21||
+
+ * 이병
+||<bgcolor=#EDA900><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/3/31/ALIEN_LEAP.png/32px-ALIEN_LEAP.png||<bgcolor=#FFFF7E><|2><(>측면노출이나 노엄폐인 적을 공격할시 첫 번째 기본 사격은 행동을 소모하지 않습니다. 공중 유닛에는 적용 되지 않고 런앤건과 같이 쓸 수 없습니다. '''(이동 +1)'''||
+||<bgcolor=#FFCD12><:>히트 앤 런||
+- 히트 앤 런:
+
+ * 일병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/f/f0/SENTINEL_MODULE_ICON.png/32px-SENTINEL_MODULE_ICON.png||<bgcolor=#FFCA6C><|2><(>비행중인 유닛을 상대로 +15 조준 보너스를 부여합니다.||
+||<bgcolor=#FF8224><:>죽음의 시선||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/a/a1/MEC_ADVANCED_FIRE_CONTROL.png/32px-MEC_ADVANCED_FIRE_CONTROL.png||<bgcolor=#FFCA6C><|2><(>경계 상태에서 사격 시 조준 패널티가 없습니다.||
+||<bgcolor=#FF8224><:>고급 사격 통제||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/97/Council_Medal_of_Honor_2_%28EU2012%29.png/32px-Council_Medal_of_Honor_2_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>7칸안에 아군 유닛이 없으면 +10 조준 및 치명타율 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>고독한 늑대||
+- 죽음의 시선:
+- 고급 사격 통제:
+- 플고독한 늑대:
+
+ * 상병
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/ea/SNIPER_DGG.png/32px-SNIPER_DGG.png||<bgcolor=#FFCA6C><|2><(>낮은 지대의 적에 대해, 기본 지형 보너스 외에 +10 조준 보너스 및 +10 방어 보너스를 부여합니다.||
+||<bgcolor=#FF8224><:>죽이는 위치 선정||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/1/1d/Urban_Combat_Badge_2_%28EU2012%29.png/32px-Urban_Combat_Badge_2_%28EU2012%29.png||<bgcolor=#FFCA6C><|2><(>+10 치명타율 보너스를 받고 완전 엄폐상태의 적에대해 +10 조준 보너스를 받습니다.||
+||<bgcolor=#FF8224><:>명사수||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/e/e2/ASSAULT_FLUSH.png/32px-ASSAULT_FLUSH.png||<bgcolor=#FFCA6C><|2><(>적이 엄폐물에서 강제로 벗어나게 합니다. 명중시키기 쉬우나 낮은 데미지를 줍니다.||
+||<bgcolor=#FF8224><:>엄폐 해제 사격||
+- 죽이는 위치 선정:
+- 명사수:
+- 엄폐 해제 사격: 우회타격하기 힘든 상황에서 도움이 된다. 물론 라인전투는 다른 MEC에게 맡기는 게 낫다.
+
+ * 병장
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/91/ALIEN_CANNONFIRE.png/32px-ALIEN_CANNONFIRE.png||<bgcolor=#FFCA6C><|2><(>주무기, 로켓 발사기 및 MEC보조무기가 1의 추가 데미지를 줍니다.||
+||<bgcolor=#FF8224><:>레인저||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/f/f2/SNIPER_EXECUTIONER.png/32px-SNIPER_EXECUTIONER.png||<bgcolor=#FFCA6C><|2><(>남은 체력이 50% 이하인 적을 공격할 때, +10 조준과 +10 치명타율 보너스가 추가됩니다.||
+||<bgcolor=#FF8224><:>처형인||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/6/6b/MEC_REPAIR_SERVOS.png/32px-MEC_REPAIR_SERVOS.png||<bgcolor=#FFCA6C><|2><(>턴이 시작될 때마다 받은 데미지의 50%를 수리합니다(턴당 최대 2). 아이콘 값이 수리의 남은 부분을 나타냅니다. 완전히 수리가 끝나기전에 받는 추가적인 데미지는 수리할 수 있는 양을 줄입니다.||
+||<bgcolor=#FF8224><:>서보 수리||
+- 레인저: 
+- 처형인: 
+- 서보 수리: 
+
+ * 하사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/75/MEC_DAMAGE_CONTROL.png/32px-MEC_DAMAGE_CONTROL.png||<bgcolor=#FFCA6C><|2><(>이 유닛이 데미지를 입으면 다음 2턴에서 받는 모든 추가 데미지가 1또는 2만큼 감소합니다.||
+||<bgcolor=#FF8224><:>데미지 컨트롤||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/4/40/ASSAULT_AGGRESSION.png/32px-ASSAULT_AGGRESSION.png||<bgcolor=#FFCA6C><|2><(>시야에 있는 적 하나당 +10% 치명타율이 증가합니다. (최대 +30%) 분대시야로 보이는 외계인은 제외됩니다.||
+||<bgcolor=#FF8224><:>호전성||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/7f/MEC_VITAL_POINT_TARGETING.png/32px-MEC_VITAL_POINT_TARGETING.png||<bgcolor=#FFCA6C><|2><(>해부한 종류의 인간이나 외계인 목표에 입히는 데미지가 주무기가 2데미지, 보조무기가 1데미지 추가됩니다. ||
+||<bgcolor=#FF8224><:>약점 조준||
+- 데미지 컨트롤:
+- 호전성:
+- 약점 조준:
+
+ * 중사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/c/c2/ASSAULT_BRINGTHEMON.png/32px-ASSAULT_BRINGTHEMON.png||<bgcolor=#FFCA6C><|2><(>병사의 시야에 있는 각 적당 +1 치명타 데미지가 추가됩니다. (최대 +6)  ||
+||<bgcolor=#FF8224><:>호승심||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/7f/SNIPER_SQUADSIGHT.png/32px-SNIPER_SQUADSIGHT.png||<bgcolor=#FFCA6C><|2><(>아군의 인식 반경 내의 목표물에 대해 무기의 사거리가 닿는 한 사격이 가능하지만, 치명타율이 30%감소합니다. MEC의 주무기, 지정사수소총 및 경기관총은 5타일의 추가범위를 얻을 수 있으며 저격총은 무한한 사거리를 가집니다. 지정사수소총의 경우 분대시야 내의 적에게 경계중 반응사격을 가할 수 있습니다.||
+||<bgcolor=#FF8224><:>분대 시야||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/95/SUPPORT_DEEPPOCKETS.png/32px-SUPPORT_DEEPPOCKETS.png||<bgcolor=#FFCA6C><|2><(>주무기의 장탄수를 1증가시킵니다. 첫 행동으로 주무기를 재장전하면 턴이 끝나지 않습니다.||
+||<bgcolor=#FF8224><:>락 앤 로드||
+- 호승심:
+- 분대 시야:
+- 락 앤 로드: 
+
+ * 상사
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/9/90/ASSAULT_LIGHTNINGREFLEXES.png/32px-ASSAULT_LIGHTNINGREFLEXES.png||<bgcolor=#FFCA6C><|2><(>이 유닛에 가해진 첫 반응 사격은 90%, 추가적인 사격은 70%의 명중률을 감소시킵니다.||
+||<bgcolor=#FF8224><:>예리한 반사 신경||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/7/70/ASSAULT_RAPIDFIRE.png/32px-ASSAULT_RAPIDFIRE.png||<bgcolor=#FFCA6C><|2><(>하나의 목표에 대해 빠르게 두 번 연사합니다. 각 사격 당 -15 명중률 패널티를 부여합니다. ||
+||<bgcolor=#FF8224><:>속사||
+||<bgcolor=#FF5E00><tablewidth=100%><tablealign=center><width=100px><:>http://ufopaedia.org/images/thumb/b/b8/MEC_ABSORTION_FIELDS.png/32px-MEC_ABSORTION_FIELDS.png||<bgcolor=#FFCA6C><|2><(>이 유닛에 들어오는 데미지는 크면 클수록 많이 줄어듭니다. '''(이동 -1)'''||
+||<bgcolor=#FF8224><:>흡수장||
+- 예리한 반사 신경:
+- 속사:
+- 흡수장:
+ 

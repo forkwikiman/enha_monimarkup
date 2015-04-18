@@ -1,0 +1,325 @@
+ * 상위 항목 : [[스팀(플랫폼)]]
+
+[[목차]]
+
+[[스팀(플랫폼)|스팀]]에서 유통하는 게임 중 [[한글화]]된 게임들의 목록.
+
+
+항목 작성 시 간혹 {{{[[wiki:"게임 이름" 게임 이름]]}}} 같이 의미 없어보이는 {{{wiki:""}}} 사용예가 있는데 이는 위키 엔진 자체의 문제 때문에 항목명에 슬래시(/)가 들어간 상태에서 콜론(:)이 들어간 이름에 {{{wiki:""}}} 없이 그냥 링크를 걸면 이상하게 꼬이는 문제가 있어서 그렇다.
+
+== 스팀 자체에서 한글이 지원되는 게임들 ==
+이 리스트에 있는 게임들은 공식적으로 한글화 된 게임들이다. 스팀에서 구매하는 것 만으로도 한글이 지원되는 버전을 이용할 수 있다.
+
+ * 140
+ * 3SwitcheD
+ * 9 Clues: The Secret of Serpent Creek
+ * [[게리 모드]]
+ * [[다크 소울]]: 프리페어 투 다이 에디션
+ * [[다크 소울 2]]
+ * [wiki:"더 위처 2: 왕들의 암살자" 더 위처 2: 왕들의 암살자]
+ * [wiki:"더 킹 오브 파이터즈 XIII" 더 킹 오브 파이터즈 XIII 스팀 에디션]
+ * [[데드 라이징 2]]
+ * [wiki:"데드 라이징 2 : 오프 더 레코드" 데드 라이징 2: 오프 더 레코드]
+ * [[데드 라이징 3]]
+ * [[도타 2]]
+ * [[디펜더스 퀘스트 : 밸리 오브 더 포가튼]][* 유저 한글화가 공식 한글화로 승격]
+ * [[레프트 4 데드]]
+ * [[레프트 4 데드 2]]
+ * [[마이트 앤 매직 히어로즈 6]]
+ * [[마이트 앤 매직 10]]
+ * [[메탈슬러그 3]]
+ * [[문명 5]][* 공식 한글화라지만, 맥 / 리눅스 쪽에서는 한글화 안됨.]
+ * [[문명: 비욘드 어스]]
+ * [wiki:"발더스 게이트 시리즈#s-2.3" 발더스 게이트 Enahnced Edition][* 유저 한글화가 공식 한글화로 승격.]
+ * 바이오닉 코만도
+ * [[바이오하자드 레벌레이션스 2]]
+ * [wiki:"배트맨: 아캄 오리진" 배트맨: 아캄 오리진]
+ * [[배틀블럭 씨어터]][* 공식 한글화지만 번역의 질이 매우 엉망이다.]
+ * [[보더랜드 2]][* 공식 한글화가 이루어지기 전에 [http://betagam.danawa.com/bbs/board.php?bo_table=borderlands 베타겜 보더랜드 게시판]에서 유저 한글 패치가 나온 적이 있다.] - 공식 한글화라지만, [[wiki:"Asypr" 맥 / 리눅스 쪽에선 한글화 안됨]]
+ * [[블레이블루: 캘러미티 트리거]]
+ * [[셜록 홈즈]]의 유언 [* 원래 팀 한필드의 유저 한글 패치였으나 이후 제작사 측에 의해 공식 한글화로 승격되었다.]
+ * [wiki:"슈퍼 스트리트 파이터 4#s-3" 슈퍼 스트리트 파이터 4 아케이드 에디션]
+ * [[울트라 스트리트 파이터 4]]
+ * [[엑스컴: 에너미 언노운]]
+ * [[엑스컴: 에너미 위드인]]
+ * [[스트리트 파이터 X 철권]]
+ * [[심즈 3]]
+ * [[앨런 웨이크]]
+ * [[어쌔신 크리드 4: 블랙 플래그]]
+ * [[wiki:"에이지 오브 엠파이어2 : 에이지 오브 킹" 에이지 오브 엠파이어2 HD]]
+ * [[투 더 문]][* 이우상 등 2명의 번역가가 번역한 한국어판이 스팀에 등록되었다.]
+ * [[툼 레이더(2013)]]
+ * [[트라인]] 2
+ * [[트레인 피버]]
+ * [[트로피코 4]]  [* 처음에는 유저 한글화였으나 추후에 [[H2인터렉티브]]에서 국내 정식발매하면서 공식한글화되었다.]
+ * [[트로피코 5]]
+ * [[팀 포트리스 2]]
+ * [wiki:"페이블 시리즈" 페이블] 3
+ * [[wiki:"포탈(게임)" 포탈]]
+ * [[포탈 2]]
+ * [wiki:"하프 라이프#s-2" 하프 라이프][* 이 작품에는 자막이 나타나지 않아 음성이 한글화 되었는데 [wiki:"장비를 정지합니다" 나온 결과물은...]]
+ * [[하프 라이프 2]][* 본편과 추가 발매된 에피소드 1까지는 음성 더빙되어있고 에피소드 2는 자막만 지원하는데, 상점 페이지에서 지원 언어를 확인해보면 한국어만이 아니고 영어, 독일어, 프랑스어, 러시아어, 스페인어를 제외한 모든 음성 더빙이 에피소드 2에서 빠졌다.]
+ * [[하프 라이프 2: 로스트 코스트]]
+ * Abyss: The Wraiths of Eden
+ * Age of Mythology: Extended Edition
+ * [[AirMech]]
+ * [[wiki:"Analogue: A Hate Story" Analogue: A Hate Story]] [* 개발자가 전문 번역가를 고용해서 정식 계약으로 한글화한 특별 사례. 자세한 건 항목 참조.]
+ * Anodyne
+ * Avoid - Sensory Overload
+ * Ballad of Solar
+ * BattleBlock Theater®
+ * Battlepillars Gold Edition
+ * [[Braid]]
+ * Bridge Constructor
+ * Clockwork Tales: Of Glass and Ink
+ * Cloudberry Kingdom™
+ * Constant C
+ * Crazy Machines: Golden Gears
+ * [wiki:"데이 오브 디피트" Day of Defeat: Source]
+ * [[Dead or Alive 5]] Last Round
+ * Defense Technica
+ * Draw a Stickman: EPIC
+ * Echo Prime
+ * Estranged: Act I
+ * [[F.E.A.R. 3]]
+ * Farm Frenzy 4
+ * [[FEZ]]
+ * FLASHOUT 2
+ * Foosball - Street Edition
+ * Fractal: Make Blooms Not War
+ * Free to Play
+ * [[wiki:"풀 스펙트럼 워리어"Full Spectrum Warrior]]
+ * [[wiki:"갤럭시 온 파이어 2" Galaxy on Fire 2™ Full HD]]
+ * [[wiki:"GTA 5" Grand Theft Auto V]]
+ * Gravity Badgers
+ * [wiki:"길드워" Guild Wars] Factions®
+ * [wiki:"길드워" Guild Wars] Nightfall®
+ * [wiki:"길드워" Guild Wars] Trilogy
+ * [wiki:"길드워" Guild Wars®] Game of the Year Edition
+ * [wiki:"길드워" Guild Wars]: Eye of the North®
+ * [[wiki:"건즈 더 듀얼#s-5" GunZ 2: The Second Duel]]
+ * Halo: Spartan Assault
+ * Hamlet or the Last Game without MMORPG Features, Shaders ...
+ * Happy Hereafter
+ * Happy Wars
+ * Hero Academy
+ * Hydrophobia: Prophecy
+ * Indie Game: The Movie
+ * Ion Assault
+ * Journey of a Roach
+ * [[LIMBO]]
+ * Magrunner: Dark Pulse[* 원래 팀 한필드가 제작한 한글패치였으나 공식 한글화로 승격되었다.]
+ * Monday Night Combat
+ * Monochroma
+ * Octodad: Dadliest Catch
+ * Rage Runner
+ * Strata
+ * [[wiki:"더 뷰로: 기밀 해제된 엑스컴" The Bureau: XCOM Declassified]]
+ * The Clockwork Man
+ * Thinking with Time Machine
+ * [[wiki:"토이 솔져스" Toy Soldiers]]
+ * [[wiki:"트랙매니아" TrackMania Nations Forever]]
+ * [[wiki:"트랙매니아" Trackmania United Forever Star Edition]]
+ * Vector
+ * [[Warframe]]
+
+== 특정 구독권에서만 한글이 지원되는 게임들 ==
+이 목록에 있는 게임들은 제작사나 유통사에 의해서 공식적으로 한글화 되었으나, 그 게임을 특정한 곳에서 구매해야만 한글판이 지원되는 경우이다. 이런 경우에는 아무 생각 없이 그냥 스팀에서 샀다가는 게임을 외국어로 해야 되니 주의하시길(...) 가급적이면, 한글판을 구매할 수 있는 링크를 제공해 주는 것을 권장한다.
+
+'''주의 사항 : 비록 어떤 게임이 한글판이 존재한다 하더라도, 그 한글판이 스팀에 등록되지 않으면 이 목록에 올리지 마시길 바랍니다'''[* 예를 들어서, [[콜 오브 듀티]] 시리즈의 한글판의 경우, 이 한글판들은 스팀에 등록되지 않습니다. 이런 게임들을 올리지 말라는 겁니다]
+
+ * 데드폴 어드벤처 ([https://www.directg.net/game/game_page.html?product_code=10000451 다이렉트 게임즈])
+ * 데모니콘: 더 다크 아이 ([https://www.directg.net/game/game_page.html?product_code=10000343 다이렉트 게임즈])
+ * 디비니티: 드래곤 커맨더 ([https://www.directg.net/game/game_page.html?product_code=10000006 다이렉트 게임즈])
+ * [[디스아너드]] ([https://www.directg.net/game/game_page.html?product_code=10000692 다이렉트 게임즈])
+ * [[wiki: "바이오하자드 리버스" 레지던트 이블 HD 리마스터]] ([https://www.directg.net/game/game_page.html?product_code=10000815 다이렉트 게임즈])
+ * [[라이즈 오브 베니스]] ([https://www.directg.net/game/game_page.html?product_code=10000196 다이렉트 게임즈])
+ * 로드 오브 더 폴른 ([https://www.directg.net/game/game_page.html?product_code=10000906 다이렉트 게임즈])
+ * 바운드 바이 플레임 ([https://www.directg.net/game/game_page.html?product_code=10000943 다이렉트 게임즈]
+ * [[세인츠 로우: 더 서드]] ([https://www.directg.net/game/game_page.html?product_code=10000189 다이렉트 게임즈]
+ * 셜록 홈즈: 크라임 앤 퍼니시먼트 ([http://www.playcode.co.kr/game/all/?mode=view&pid=1362&page=&sort= 플레이코드])
+ * [스나이퍼: 고스트 워리어 2] ([https://www.directg.net/game/game_page.html?product_code=10000904 다이렉트 게임즈])
+ * 스트라이크 슈트 제로 ([https://www.directg.net/game/game_page.html?product_code=10000195 다이렉트 게임즈])
+ * [[시티즈: 스카이라인]] ([https://www.directg.net/game/game_page.html?product_code=10001122 다이렉트 게임즈]) 해당 게임은 일단 영문판으로 정발되었으나 추후 한글화될 예정이다. [http://steamcommunity.com/sharedfiles/filedetails/?id=418647950 게임 갤러리]에서 제공하는 유저 한글 패치가 있으나, H2인터렉티브에서 공식 한글화를 내놓으면 삭제할 예정이라고 한다)
+ * ["ArmA3" 아르마 3] ([https://www.directg.net/game/game_page.html?product_code=10000349 다이렉트 게임즈])
+ * 에단 카터의 실종 ([https://www.directg.net/game/game_page.html?product_code=10000863 다이렉트 게임즈])[* 해당 게임은 '''한국어 패치로 한국어가 지원된다.''']
+ * [오메르타: 시티 오브 갱스터즈] ([https://www.directg.net/game/game_page.html?product_code=10000009 다이렉트 게임즈])
+ * [워게임: 레드 드래곤][* 원래 정식 발매판 패키지만 한국어를 지원하였으나 알 수 없는 이유로 지금은 스팀에서 구매해도 한국어를 지원한다.]
+ * [웨이스트랜드 2]([https://www.directg.net/game/game_page.html?product_code=10000540 다이렉트 게임즈])[* 다이렉트 게임즈에서 구매해야만 한국어 지원이 된다.]
+ * ["디 이블 위딘" 이블 위딘] ([https://www.directg.net/game/game_page.html?product_code=10000883 다이렉트 게임즈])[* 정식 발매판 패키지 구매 또는 다이렉트 게임즈에서 구매해야만 한국어 지원이 된다. 해당 게임은 '''한국어 패치로 한국어가 지원된다.''']
+ * 헤게모니 로마: 카이사르의 비상 ([https://www.directg.net/game/game_page.html?product_code=10000902 다이렉트 게임즈])
+
+~~대부분 [[H2인터렉티브]]에서 유통하는 게임들인건 함정~~
+
+== 비공식적으로 한글패치가 존재하는 게임들 ==
+이 목록에 있는 게임들은 개발사나 유통사에 의해서 공식적으로 한글화 되지 않았으나, 유저들이 자체적으로 한글 패치를 제작한 경우이다. '''이 리스트에 게임을 올릴 것이라면 반드시 한글패치의 링크도 같이 기재하도록 하자'''
+ * 갤러틱 시빌라이제이션 2: 얼티메이트 에디션 ([[http://oldgamelove.tistory.com/16 베타겜의 패치]])[* 본래 베타겜의 자료였으나, 자료가 소실되어 대체 링크를 첨부하였다.]
+ * 고딕 3 ([[http://blog.naver.com/barrett_lv/20134856337 UW Satelite]])
+ * [[다크사이더스]] ([http://betagam.danawa.com/bbs/board.php?bo_table=darksiders&wr_id=54716 베타겜 다크사이더스 게시판])
+ * [[다크사이더스 2]] ([http://kimilge.blog.me/30149384128 메피온의 블로그])
+ * [[더 길드 2]] ([http://cafe.naver.com/theguildz2 더 길드 2 재건 커뮤니티])
+ * [[더 바인딩 오브 아이작: 리버스]] ([http://team-sm.tistory.com/42 Team.SM 블로그)
+ * [[더 위처]] ([http://steambox.tistory.com/129 더 위쳐 통합커뮤니티 패치 수정본])[* [http://cafe.naver.com/thewitcherkor 더 위쳐 통합커뮤니티]가 배포한 5.0 패치에 수정이 가해진 패치.]
+ * 데드라이트 ([http://hanfield.egloos.com/944581 팀 한필드 공식 블로그])
+ * [[데드 스페이스]] ([http://blog.naver.com/souldier/80108019615 본인인증의 블로그])[* 기술적인 문제로 텍스트 로그는 한글화가 되지 않았지만 제작자의 블로그에서 번역본을 제공하고 있다.]
+ * [[데드 스페이스 2]] ([http://korrunens.tistory.com/1 루넨스의 블로그)][* 100% 한글 패치는 아니고 텍스트 로그와 오디오 로그를 제외한 대사를 중심으로 한글화되었다. 대사중에서도 어쩌다가 번역이 안 된 부분이 나오기는 하지만 소량이라 별 영향은 없다.]
+ * [[데드 아일랜드]] ([[http://darksound.tistory.com/192 Darksound]])
+ * [데이어스 엑스: 휴먼 레볼루션] ([http://betagam.danawa.com/bbs/board.php?bo_table=deusex&wr_id=53787&sca=%C0%DA%B7%E1 데이어스 엑스 한글화 카페의 패치])
+  *  [[감독판]] ([http://daemon_.blog.me/100199124745 임시 한글패치][* 기존 것을 이식한 것이라서 감독판 코멘트나 미싱링크 파트는 번역이 안되어있다.])
+ * [[듀크 뉴켐 포에버]] ([[http://blog.naver.com/kdy5683b/70169122034 팀 틴에이저]])[* 본편 및 DLC 캠페인의 번역이 완료되었으며, 멀티 번역은 추후 예정이다. 베타겜의 유저인 xearo0913의 허락을 맡고 기존에 한글화된 본편 대사가 사용 및 대거 수정되었다. ([[http://blog.naver.com/xearo0913/90129567588 본편]])]
+ * [[라라 크로프트와 빛의 수호자]] ([http://hygame.tistory.com/1774 베타겜 촌닭투])[* 기존 링크가 터졌기에 대체.]
+ * 라라 크로포트와 오시리스의 신전 ([[http://blog.naver.com/icezero_/220304438888 베타겜 촌닭투]])[* 원래 링크를 찾으면 교체 바람.]
+ * [[롤러코스터 타이쿤]] 3 : 플래티넘 ([http://sectiong.tistory.com/2 Section.G])
+ * 라이즌 2: 다크 워터 ([[http://blog.naver.com/barrett_lv/20134856337 UW satelite]])
+ * 락 오브 에이지 ([http://steamcommunity.com/groups/IGHH123#announcements/detail/1533766554622635653 팀 IGHH])[* 팀 IGHH의 경우 팀의 공식 홈페이지가 존재하지 않아 스팀 그룹 게시글로 연결해 두었다.]
+ * [[레이지(게임)|레이지]] ([[http://www.playwares.com/xe/index.php?mid=gamedown&page=2&document_srl=26118638 플레이웨어즈 게임자료 게시판]])
+ * [wiki:"마피아(PC게임)" 마피아] ([http://cafe.naver.com/gogayteamwaldobully/442 팀 왈도])
+ * [[마피아2]] ([[http://betagam.danawa.com/bbs/board.php?bo_table=mafia&wr_id=200900&sca=%C0%DA%B7%E1 베타겜)]]
+  * DLC ([http://betagam.etnews.com/bbs/board.php?bo_table=mafia&wr_id=201593&sca=%B0%F8%C1%F6 팀 IGHH])
+ * [wiki:"메트로 2033(게임)" 메트로 2033] ([http://www.playwares.com/xe/?mid=gamedown&document_srl=27456935 촌닭투])
+ * [[문명 4]][* BTS 까지 전부 한글화 되었지만 해외의 mod (영문)을 못쓰게 된다.]
+ * [[미러스 엣지]]  ([http://steambox.tistory.com/86 WON.의 블로그])[* 본래 iamghost라는 유저가 한글화 작업을 했었으나 링크가 터졌기에 대체. 사실 정식 발매는 한글화가 되어 있지만 스팀판은 따로 한글패치를 받아야 한다. ~~[[오리진]]을 쓰라는 EA의 음모~~]
+ * [[바이오쇼크]] ([[http://savearth.tistory.com/154 베타겜 통합 패치]])[* 원출처는 베타겜 바이오쇼크 게시판이나, 게시판에 있는 링크가 작동이 안 돼서 패치 파일들을 전부 업로드한 블로그 포스팅으로 링크 대체. 한글패치 적용에 문제가 발생할 경우 [http://www.playwares.com/xe/19666016 여기]를 참조하자. 그리고 패치 자체의 호환성이 좀 떨어지는 편이므로 주의할 것.]
+ * [[바이오쇼크 2]] ([http://www.playwares.com/xe/index.php?mid=gamedown&document_srl=43554134 촌닭투])
+ * [[바이오하자드 4]] HD ([http://betagam.net/bbs/board.php?bo_table=biohazard&wr_id=1080475 베타겜])[* 15년 3월 현재 다운로드 링크 삭제됨. 살아있는 링크가 있다면 교체 바람.]
+ * [[바이오하자드 5]] ([[http://betagam.net/bbs/board.php?bo_table=biohazard&wr_id=1072289 베타겜]])[* 2015년에 새로 발매한 골드 에디션에는 한글 패치 적용이 되지 않으니 주의.]
+ * [[바이오하자드 5]] 골드 에디션 ([[http://cafe.naver.com/teamprometheus/10468 팀 프로메테우스]])
+ * [[바이오하자드 6]] ([[http://cafe.naver.com/teamprometheus/789 팀 프로메테우스]])
+ * [[바이오하자드 레벌레이션스]] ([[http://cafe.naver.com/teamprometheus/2236 팀 프로메테우스]])
+ * [[반지의 제왕]] 북부전쟁 ([[http://www.steambb.com/bbs/board.php?bo_table=special&wr_id=218#L 스팀비비]])[* 스팀 라이브러리에 정품을 소유하고 있는 유저만 다운받을 수 있다.]
+ * [wiki:"배트맨: 아캄 어사일럼" 배트맨: 아캄 어사일럼] ([http://cafe.naver.com/teamprometheus 팀 프로메테우스])
+ * [wiki:"배트맨: 아캄 시티" 배트맨: 아캄 시티] ([http://daemon_.blog.me/100144528662 디지의 블로그])
+ * [[배틀필드 2]] ([[http://steambox.tistory.com/33 WON.의 블로그]])[* 이 역시 미러스 엣지처럼 iamghost라는 유저가 한글패치를 제작했지만 링크가 터졌기에 대체.]
+ * [[배스쳔]] ([[http://korrunens.tistory.com/5 루넨스의 블로그]])
+ * [[백 투 더 퓨쳐 더 게임]] ([https://docs.google.com/spreadsheet/pub?key=0AtYFNPMhrdondG1XdkVIR2lTOWZKc3gwU1pOSUZ2VGc&single=true&gid=0&output=html 팀 왈도])
+ * [[보더랜드]] ([[http://betagam.net/bbs/board.php?bo_table=borderlands&wr_id=265347 베타겜 보더랜드 게시판]])[* 한글패치를 하면 스팀 도전과제 클리어가 불가능해지는 문제가 있다.]
+ * [[불리]] ([[http://cafe.naver.com/gogayteamwaldobully/320 팀 왈도]])
+ * 블레이드 심포니 ([http://steamcommunity.com/groups/IGHH123#announcements?p=2 팀 IGHH])[* 앞서 표기된 락 오브 에이지와 같은 이유.]
+ * [[사우스 파크: 진리의 막대]]([http://gall.dcinside.com/board/view/?id=game1&no=2326774&page=1 팀 왈도])
+ * [[사일런트 힐 : 홈커밍]] ([[http://betagam.etnews.com/bbs/board.php?bo_table=hangulnews&wr_id=305&page=4 베타겜 한글화게시판]])
+ * [[세인츠 로우 시리즈|세인츠 로우 2]] ([[http://blog.naver.com/identifyid/60195284645 identifyid의 블로그]])[* 윈도우 7 64Bit 이상(32Bit에서는 멀쩡하게 돌아가는 사람도 있어서 64Bit 이상이라 표기함.)에서 게임 속도가 2배 정도 나와 제대로 진행할 수 없는 문제가 있다. 64Bit 운영체제라면 반드시 패치를 설치하자.]
+ * [[세인츠 로우 4]] ([http://teamconundrum.tistory.com/entry/%EC%84%B8%EC%9D%B8%EC%B8%A0-%EB%A1%9C%EC%9A%B0-4-%ED%95%9C%EA%B8%80%ED%8C%A8%EC%B9%98-%EB%B2%A0%ED%83%80-%EB%B2%84%EC%A0%84-%EB%B0%B0%ED%8F%AC 팀 커넌드럼 공식 블로그])
+ * [[쉐도우 워리어]](리부트) ([http://betagam.etnews.com/bbs/board.php?bo_table=hangulnews&wr_id=816 팀 IGHH])
+ * [[스나이퍼 엘리트 V2]] ([[http://hanfield.egloos.com/1115782 팀 한필드 공식 블로그]])
+ * [[스토커 섀도우 오브 체르노빌]] ([http://steambox.tistory.com/125 스토커 KSG 카페의 패치])[* 본디 [http://cafe.naver.com/stalkerg 스토커 KSG 카페] 카페에서 배포하던 패치였으나 현재는 카페가 팔려 상업성 카페가 되어버린 지라 링크 대체.]
+ * [[스토커 콜 오브 프리피야트]] ([http://blog.naver.com/wjddn244/140186311266 스토커 KSG 카페의 패치])[* 본디 섀도우 오브 체르노빌 한글패치처럼 KSG 카페에서 배포하던 패치였으나 현재는 카페가 팔려 상업성 카페가 되어버린지라 링크 대체.]
+ * [[스토커 클리어 스카이]] ([http://cafe.naver.com/gamepole/27838 게임클래식 카페])
+ * [[wiki:"스펙 옵스: 더 라인" 스펙 옵스: 더 라인]] ([[http://hanfield.egloos.com/1003736 팀 한필드 공식 블로그]])[* 전체적으로 양호하나 중간 중간의 오역들과 '''가장 중요한 마지막 부분의 오역이 심하다.''' 또한 한글패치 시 스팀 도전과제 클리어 및 멀티, 코옵 플레이가 불가능해지는 문제점이 있다.]
+ * [[슬리핑 독스]] ([[http://hanfield.egloos.com/1118486 팀 한필드 공식 블로그]])[* Definitive Edition에서는 작동하지 않았으나 전용패치가 다시 나왔다.]
+ * [[심시티 4]] 디럭스 에디션 ([http://sectiong.tistory.com/7 Section.G])
+ * [[씨프]] ([http://blog.naver.com/kdy5683b/220039479405 팀 틴에이저])
+ * 아르카니아 - 고딕 4 ([[http://blog.naver.com/barrett_lv/20134856337 UW satelite]])
+ * 아르카니아 - 폴 오브 세트리프 ([[http://blog.naver.com/barrett_lv/20134856337 UW Satelite]])
+ * [[아웃라스트]] ([http://blog.naver.com/zeroweb3333/90185248485 은둔쟁이케이군의 블로그])
+ * 악스 파탈리스 ([[http://nsm53p.tistory.com/500 NSM53 PROJECT]])
+ * [wiki:"암네시아 : 더 다크 디센트" 암네시아 : 더 다크 디센트] ([[http://blog.naver.com/stillbabo2 stillbabo2의 블로그]])
+ * [[wiki:"암네시아 : 어 머신 포 피그스" 암네시아 : 어 머신 포 피그스]] ([http://blog.naver.com/rkddkwlenfdl/30177694764 조개껍데기 블로그] [http://blog.naver.com/home5680/60201591355 으아아 블로그], [http://ace6893.blog.me/110177830341 대러닝 블로그])
+ * [[앨런 웨이크의 아메리칸 나이트메어]] ([http://lcom.uu.gl/123 쩌새의 패치])[* 원 제작자인 [http://lthisgod.blog.me/ 쩌새의 블로그]에서 패치가 삭제되어서 링크 대체. 스팀 내에서 게임 언어 설정을 일본어로 설정해야 한다.]
+ * [[앨리스 매드니스 리턴즈]] ([[http://blog.naver.com/daemon_/100144301193 디지의 블로그]])[* 오리진용 패치라 스팀 버전에서 사용하려면 약간 번거로운 절차를 걸쳐야 하긴 하나 사용이 가능하다.]
+ * [wiki:"어쌔신 크리드: 브라더후드" 어쌔신 크리드: 브라더후드] ([http://blog.naver.com/sukgiwon1234/40141131564 화이트에지오의 블로그])[* 어쌔신 크리드 시리즈는 한글패치라기 보다는 잠긴 한글화 파일을 언락하는 것이다. 왜 잠겨있냐면 콘솔판에는 한글화를 해줬지만 PC판은 한글화가 안되어있는 해괴한 경우이기 때문. 즉 PC판 파일에 콘솔 한글 파일이 잠겨있다.(...) 위의 배트맨 아캄 시티도 비슷한 경우.]
+ * [wiki:"어쌔신 크리드: 레벨레이션" 어쌔신 크리드: 레벨레이션] ([http://blog.naver.com/sukgiwon1234/40146672840 화이트에지오의 블로그])
+ * [wiki:"어쌔신 크리드 3: 리버레이션" 어쌔신 크리드: 리버레이션] ([http://betagam.net/bbs/board.php?bo_table=assassinscreed&wr_id=307256#c_307309 베타겜])
+ * [[어쌔신 크리드 3]]  ([http://blog.naver.com/sukgiwon1234/40173124900 화이트에지오의 블로그])
+ * [[에이지 오브 엠파이어3]] ([[http://sectiong.tistory.com/3 Section.G]])[* 본래 정발 패키지판에서만 한글이 지원되었으나, 완전히 단종되어 구할 길이 없어 링크해 둔다.]
+ * [[에일리언 슈터]] 2 ([[http://duskdog.blog.me/40054360709 검은개의 다섯번째 굴]])
+ * [[엘더스크롤 3: 모로윈드]] [http://blog.naver.com/east998/60025141125|#][* 책은 제외]
+ * [wiki:"엘더스크롤 4: 오블리비언" 엘더스크롤 4: 오블리비언] ([http://cafe.naver.com/elderscrolls7/340786 엘더스크롤 카페])[* 읽을거리 제외 99% 한글화 패치이나 MOD를 이용한 패치인지라 패치 방법이 엄청나게 복잡해서, 따로 카페에서 오블리비언 MOD 이용방법에 관해서 많은 것을 알아야만 한다. 또한 본 한글패치는 UOP 3.3.5와 USIP 1.4.2라는 MOD에 최적화 되어있으나(본 게시글에는 이 외에도 UPS라는 게 소개되어있으나 이는 UOP와 USIP를 3.2.0과 1.4.0에서 상기의 버전으로 업데이트하는 파일이라 현재는 불필요하다. 아니, 파일 자체가 삭제되었다.) 두 MOD 전부 현재는 UOP 3.4.3과 USIP 1.5.2로 업데이트되어서 이 최신버전들에 호환되는 [http://cafe.naver.com/elderscrolls7/603888 2차 한글패치]를 또 '''어떻게든 적절하게''' 패치해야만 한다. 쉬버링 아일즈를 제외한 [http://cafe.naver.com/elderscrolls7/284703 DLC 한글패치]도 따로 존재하는데 댓글에 의하면 이 패치만 적용하면 치명적인 버그가 발생해서 [http://cafe.naver.com/escroll/9934 이것]과 [http://cafe.naver.com/escroll/14939 요것]을 또 추가적으로 적용해야 한다는 듯. ~~대체 뭐가 이렇게 복잡해~~ 그야말로, '''초심자는 저리 가라.'''라는 패치...아니 '''[[MOD]]'''.]
+ * [wiki:"엘더스크롤 5: 스카이림" 엘더스크롤 5: 스카이림] ([http://cafe.naver.com/elderscrolls7/663739 엘더스크롤 카페])[* 이 또한 오블리비언과 같이 MOD 사용 방법에 관해서 어느 정도 숙지해야하나 다행히 오블리비언만큼 복잡하지는 않아서 비교적 쉽게 패치할 수 있다.] ([http://cafe.naver.com/escroll.cafe?iframe_url=/ArticleRead.nhn%3Fclubid=11927335%26page=1%26menuid=88%26boardtype=L%26articleid=29104%26 말미르님 패치])[* MOD 방식이 아니라 게임내 스트링 파일을 직접 교체하는 방식이다. 번역은 굉장히 자연스럽지만 게임내 고유명사도 한국어로 번역하여 호불호가 갈리니 엘더스크롤 카페 패치 중 잘 선택하는 것이 좋다.]
+ * [[오디오서프]] ([http://hanfield.egloos.com/1120656 팀 한필드 공식 블로그])[* 제작사와 협의해 공식 한글화로 승격될 예정이었지만 팀 한필드의 해체 이후 별다른 소식이 없다.]
+ * [wiki:"왕좌의 게임(텔테일 게임즈)" 왕좌의 게임] 에피소드 1 ([http://lastkingdom.tistory.com/369 lastkingdom의 블로그])[* 원 제작자는 게임 갤러리의 팀 왈도다.]
+ * [wiki:"왕좌의 게임(텔테일 게임즈)" 왕좌의 게임] 에피소드 2 ([http://lastkingdom.tistory.com/391 lastkingdom의 블로그])
+ * [[용사 30]] ([http://team-sm.tistory.com/5 팀SM])
+ * [[용사 30 SECOND]] ([http://team-sm.tistory.com/26 팀SM])
+ * [[울펜슈타인: 더 뉴 오더]] ([http://blog.naver.com/PostList.nhn?blogId=physics1114&from=postList&categoryNo=46 팀 왈도])
+ * [[울펜슈타인: 더 뉴 오더]] ([http://blog.naver.com/PostList.nhn?blogId=physics1114&from=postList&categoryNo=46 팀 왈도])
+ * [wiki:"워킹 데드 시즌1(게임)" 워킹 데드 시즌1] ([http://blog.naver.com/teambackstab/30176900873 팀 백스탭])
+ * [wiki:"워킹 데드 400데이즈" 워킹 데드 400데이즈] ([http://blog.naver.com/teambackstab/30177276453 팀 백스탭])
+ * [wiki:"워킹 데드 시즌2(게임)" 워킹 데드 시즌2] ([http://blog.naver.com/teambackstab/30186790355 팀 백스탭])
+ * [[워게임 : 에어랜드 배틀]] (디시인사이드 기갑갤러리)
+ * [wiki:"원숭이 섬의 비밀#s-2.1.2" 원숭이 섬의 비밀 스페셜 에디션] ([[http://cafe.naver.com/koreaadv/1534 Korea ADV 카페]])
+ * [[차일드 오브 라이트]] ([http://blog.naver.com/physics1114/220078845127 프기니의 블로그])
+ * [[카라테카]] ([http://hanfield.egloos.com/1011103 팀 한필드 공식 블로그])
+ * [[코만도스 2 맨 오브 커리지]] ([[http://oldgamelove.tistory.com/7 증기봇 블로그]])[* 원래 정발 패키지판에서만 한글이 지원되었지만, 현재 패키지가 완전히 단종되어 구할 길이 없으므로 링크해 둔다. 이하로 이 블로그를 링크한 게임들이 동일한 상황이다.]
+ * 코만도스 3 ([[http://oldgamelove.tistory.com/8 증기봇 블로그]])
+ * [[콜 오브 듀티]] ([[http://oldgamelove.tistory.com/17 증기봇 블로그]])
+ * [[wiki:"콜 오브 듀티: 유나이티드 오펜시브" 콜 오브 듀티: 유나이티드 오펜시브]] ([[http://oldgamelove.tistory.com/18 증기봇 블로그]])
+ * [wiki:"콜 오브 후아레즈 : 건슬링어" 콜 오브 후아레즈: 건슬링어] ([http://hanfield.egloos.com/1128130 팀 한필드 공식 블로그])
+ * [wiki:"콜 오브 후아레즈 : 바운드 인 블러드" 콜 오브 후아레즈: 바운드 인 블러드]
+ * [[wiki:"크라이시스(게임)" 크라이시스]]  ([http://cafe.naver.com/crysiscafe/6989 크라이시스 팬카페])
+ * [[크라이시스 2]] 맥시멈 에디션 ([[http://www.playwares.com/xe/index.php?mid=gamedown&document_srl=24607977 플레이웨어즈 게임자료 게시판]])
+ * 크라이시스 워헤드 ([http://cafe.naver.com/crysiscafe/7567 크라이시스 팬카페])
+ * [[크루세이더 킹즈 2]] ([[http://cafe.daum.net/Europa/ Europa Universalis 카페]])
+ * [[크루세이더 킹즈 2]] ([[http://cafe.daum.net/Europa/ Europa Universalis 카페]])
+ * 킹스 바운티
+ * [[킹스 바운티 더 레전드]] ([http://www.playwares.com/xe/index.php?mid=gamedown&document_srl=32948060 킹스 바운티 한글화 통합카페의 자료])
+ * [[킹스 바운티 아머드 프린세스]] ([http://www.playwares.com/xe/index.php?mid=gamedown&document_srl=32948060 킹스 바운티 한글화 통합카페의 자료])
+ * [[킹스 바운티]] 크로스 월드([http://www.playwares.com/xe/index.php?mid=gamedown&document_srl=32948060 킹스 바운티 한글화 통합카페의 자료])
+ * [[킬링 플로어]] ([[http://steamcommunity.com/groups/kissserver KISSES서버 커뮤니티]])
+ * [[툼 레이더]] 레전드 ([http://betagam.danawa.com/bbs/board.php?bo_table=tombraider&wr_id=157991&sca=%C0%DA%B7%E1 베타겜 촌닭투])
+ * [[툼 레이더]] 애니버서리 ([http://betagam.danawa.com/bbs/board.php?bo_table=tombraider&wr_id=157991&sca=%C0%DA%B7%E1 베타겜 촌닭투])
+ * [[툼 레이더]] 언더월드 ([http://betagam.danawa.com/bbs/board.php?bo_table=tombraider&wr_id=157991&sca=%C0%DA%B7%E1 베타겜 촌닭투])
+ * [[트라인]] ([http://blog.daum.net/caloot/4 시알룻의 블로그])
+ * [wiki:"트랜스포머 : 폴 오브 사이버트론" 트랜스포머 : 폴 오브 사이버트론] ([http://hanfield.egloos.com/1126759 팀 한필드])
+ * [[파 크라이]] ([http://betagam.danawa.com/bbs/board.php?bo_table=farcry&wr_id=770728 베타겜])
+ * [[파 크라이 3]] ([[http://hanfield.egloos.com/1061564 팀 한필드 공식 블로그]])
+ * [페이데이: 더 하이스트] ([https://mega.co.nz/#!2wISURID!gxQTPTHzAZU97CD-Z1pwEunEFaZPT21lmmQP-wQCUu0 어느 유동닉의 패치])
+ * [[페이퍼 플리즈]] - 한글 패치가 2가지 버전이 있는데 하나는 평범한 버전이지만 나머지 하나는 [[문화어]] 버전이다! (일반 버전 : [[http://sanara1004.blog.me/140211591446 산아라의 블로그]]/문화어 버전 : [[http://gall.dcinside.com/board/view/?id=game1&no=2614072 디시인사이드 게임 갤러리]])
+ * [[폴아웃3]] ([http://cafe.naver.com/hannori/13739 The Capital Wasteland 카페])
+ * [[폴아웃: 뉴 베가스]] ([http://cafe.naver.com/megatons/62380 메가톤 카페])
+ * [[프로토타입 2]] ([http://blog.naver.com/chunjaes47/120205221719 랄프의 블로그])
+ * [[히트맨: 앱솔루션]] ([http://blog.naver.com/kdy5683b/70173484258 팀 틴에이저])
+ * [[wiki:"오퍼레이션 플래쉬 포인트" ARMA: Cold War Assault]] ([http://betagam.etnews.com/bbs/board.php?bo_table=hangulnews&wr_id=900 베타겜])
+ * [[wiki:"ArmA : 암드 어썰트" ARMA: Gold Edition]] ([http://betagam.etnews.com/bbs/board.php?bo_table=hangulnews&wr_id=901 베타겜])
+ * Avencast: Rise of the Mage ([[http://hahakickkick.blog.me/60059908508 대장장이의 블로그]])
+ * Blocks That Matter ([[http://blog.naver.com/wheel_man/120171625791 휠맨의 블로그]])
+ * [wiki:"캐슬바니아 로드 오브 섀도우" Castlevania: Lords of Shadow ? Ultimate Edition] ([http://hanfield.egloos.com/1159383 팀 한필드 공식 블로그])
+ * [[wiki:"동굴 이야기#s-3.5" Cave Story+]] ([http://team-sm.tistory.com/1 Team.SM 공식 블로그])
+ * [[wiki:"시티즈 인 모션" Cities in Motion]] ([http://cafe.naver.com/guidegame/135922 EYMS 카페])
+ * [[wiki:"Cities XL" Cities XL 2011]] ([[http://4dreams.kr/3698611 이키나!의 블로그]])
+ * [[wiki:"Cities XL" Cities XL 2012]] ([[http://4dreams.kr/3698611 이키나!의 블로그]])
+ * [[wiki:"Cities XL" Cities XL Platinum]] ([[http://4dreams.kr/3698611 이키나!의 블로그]])
+ * Deadpool ([http://teamconundrum.tistory.com/entry/%EB%8D%B0%EB%93%9C%ED%92%80Deadpool-%ED%95%9C%EA%B8%80%ED%8C%A8%EC%B9%98-%EB%B0%B0%ED%8F%AC 팀 커넌드럼 공식 블로그])
+ * [[Dear Esther]] ([http://st135.tistory.com/121 st135의 블로그])
+ * [wiki:"DmC : 데빌 메이 크라이" DmC: Devil May Cry] ([[http://hanfield.egloos.com/1050376 팀 한필드 공식 블로그]])
+ * [wiki:"Dust: An Elysian Tail" Dust: An Elysian Tail] ([http://hanfield.egloos.com/1130056 팀 한필드 공식 블로그])
+ * ENSLAVED™: Odyssey to the West™ Premium Edition ([http://hanfield.egloos.com/1159384 팀 한필드 공식 블로그])
+ * [[F.E.A.R.]] ([http://steambox.tistory.com/374 WON.의 블로그])
+ * [wiki:"F.E.A.R. 2: Project Origin" F.E.A.R. 2: Project Origin] ([http://blog.naver.com/freemagick/100111186765 prelude의 블로그)][* 스팀에서 동작 확인을 보장할 수 없다고 이야기했지만, 실제로는 잘 적용된다.]
+ * [[wiki:"FTL: Faster Than Light" FTL: Faster Than Light]] ([http://blog.naver.com/PostList.nhn?blogId=note9772&from=postList&categoryNo=7 팀 왈도])
+ * [[Gone Home]] ([http://st135.tistory.com/148 st135의 블로그])
+ * [[wiki:"GTA 3" Grand Theft Auto III]] ([http://gtacommunity.cafe24.com/zeroboard/zboard.php?id=gtakor&no=185 GTA-Korea-Community 카페])
+ * [[wiki:"GTA 산 안드레아스" Grand Theft Auto: San Andreas]] ([http://cafe.naver.com/gtasakor/9 GTA: SA 한글화 작업공간 카페])
+ * [[wiki:"GTA 바이스 시티" Grand Theft Auto: Vice City]] ([http://gtacommunity.cafe24.com/zeroboard/zboard.php?id=gtakor&no=31 GTA-Korea-Community 카페])
+ * [[wiki:"GTA 4" Grand Theft Auto IV]] ([http://steambox.tistory.com/34 WON.의 블로그])[* 원래 [http://betagam.danawa.com/bbs/board.php?bo_table=gta&wr_id=1728668 베타겜의 촌닭투라는 유저가 만든 패치]이나 원 출처에서 링크가 삭제되어 새로운 링크로 대체.]
+  * [[wiki:"GTA 4#s-4" Grand Theft Auto IV: Episode from Liberty City]] ([http://cozy-watson.tistory.com/10 코지~*의 블로그])[* [http://blog.naver.com/sunnylim1220/150122363536 The Lost and Damned의 한글패치]와 [http://hanfield.egloos.com/1127903 The Ballad of Gay Tony의 한글패치]를 충돌이나 폰트 문제 등이 일어나지 않도록 통합해 놓은 패치이다.]
+ * [[wiki:"헌티드: 더 데몬스 포지" Hunted: The Demon’s Forge™]] ([http://blog.naver.com/moonliht_37/10167703598 노을빛 여우의 블로그])
+ * [[I Am Alive]] ([http://blog.naver.com/cst012/140170026650 바버의 블로그])
+ * [[wiki:"I Have No Mouth, and I Must Scream#s-2" I Have No Mouth, and I Must Scream]] ([http://www.steambb.com/bbs/board.php?bo_table=gamebb&wr_id=420726&appid=245390 스팀비비])
+ * Indie Game: The Movie Special Edition DLC ([http://st135.tistory.com/146 st135의 블로그])
+ * Inversion™ ([http://hanfield.egloos.com/1132769 팀 한필드 공식 블로그])
+ * [[Long Live The Queen]] ([http://ghap.tistory.com/entry/LONG-LIVE-THE-QUEEN-%ED%95%9C%EA%B8%80-%ED%8C%A8%EC%B9%98-%ED%8C%8C%EC%9D%BC%EC%9E%85%EB%8B%88%EB%8B%A4 팀 왈도])
+ * [[Lucius]] ([http://hanfield.egloos.com/840214 팀 한필드 공식 블로그])
+ * [[wiki:"파포와 요" Papo & Yo]] ([http://hanfield.egloos.com/1159386 팀 한필드 공식 블로그])
+ * prison architect ([[http://bbs2.ruliweb.daum.net/gaia/do/ruliweb/default/pc/27/read?bbsId=G003&itemId=7&articleId=1506454 링크]][* 다만 스팀으로 할 수는 없다.]
+ * [[wiki:"페이데이 2" PAYDAY 2]] ([http://gall.dcinside.com/board/view/?id=game1&no=2370312&page=1 디시인사이드 게임 갤러리])
+ * [[wiki:"페이데이: 더 하이스트" PAYDAY™ The Heist]] ([http://gall.dcinside.com/board/view/?id=game1&no=2289823 디시인사이드 게임 갤러리])
+ * Sanctum ([http://www.4dreams.kr/3698624 이키나!의 블로그])
+ * Sanctum 2 ([http://www.steambb.com/bbs/board.php?bo_table=gamebb&wr_id=814088&page=3 스팀비비])[* 팀 한필드의 패치를 본 게임이 업데이트 됨에 따라 갱신한 패치이다.]
+ * [[wiki:"사이베리아#s-2" Syberia]] ([http://cafe.naver.com/koreaadv/963 Korea ADV 카페])
+ * [[The Cave]] ([http://hanfield.egloos.com/1089423 팀 한필드 공식 블로그])
+ * The Incredible Adventures of Van Helsing ([http://hanfield.egloos.com/1130758 팀 한필드 공식 블로그])
+ * [[The Stanley Parable]] ([http://www.steambb.com/bbs/board.php?bo_table=gamebb&wr_id=415276 Team FELT])
+  * 데모 ([http://www.steambb.com/bbs/board.php?bo_table=gamebb&wr_id=403438 Team FELT])
+ * [[The Wolf Among Us]] ([http://blog.naver.com/teambigby 팀 빅비의 한글패치 블로그])
+ * [[wiki:"스플린터 셀: 컨빅션" Tom Clancy's Splinter Cell Conviction™]] ([http://baha4hdhan.tistory.com/entry/%EC%8A%A4%ED%94%8C%EB%A6%B0%ED%84%B0%EC%85%80%EC%BB%A8%EB%B9%85%EC%85%98%ED%95%9C%EA%B8%80%ED%8C%A8%EC%B9%98 hanlastlight의 블로그])
+ * [wiki:"Warhammer 40,000 : Dawn of War 2" Warhammer 40,000 : Dawn of War 2] + [wiki:"Warhammer 40,000 : Dawn of War 2 - Chaos Rising" Warhammer 40,000 : Dawn of War 2 - Chaos Rising] ([http://www.warhammerkorea.com/zbxe/343439 워해머 코리아])
+ * [wiki:"Warhammer 40,000 : Dawn of War 2 - Retribution" Warhammer 40,000 : Dawn of War 2 - Retribution] ([http://cafe.naver.com/whm40k/693 워해머 갤러리 번역판]) ([http://www.warhammerkorea.com/zbxe/833524 워해머 코리아 번역판])
+ * [wiki:"Warhammer 40,000 : Space Marine" Warhammer 40,000: Space Marine] ([http://hanfield.egloos.com/790689 팀 한필드 공식 블로그])
+ * [[Xenonauts]] ([http://gall.dcinside.com/board/view/?id=game1&no=2375074 디시인사이드 게임 갤러리]) [https://drive.google.com/file/d/0B-svcHvD1IdjT3daSE42V19yS2s/view?usp=sharing 1.56/1.57 버전용 업데이트]
+
+== 외부 링크 ==
+리그베다 위키 외부의 한글화 게임 정리 목록 링크
+
+ * [http://store.steampowered.com/search/?sort_by=Released&sort_order=DESC&category1=998&supportedlang=koreana 공식 한글화된 스팀 게임 목록]
+ * [http://www.steambb.com/bbs/board.php?bo_table=special&wr_id=218 스팀비비 한글화 정보 모음]
+ * [https://docs.google.com/spreadsheet/ccc?key=0Alaaxd4_-vxbdFptRFpGbkdnVGZNQ2tNVDhQNE9OMEE&usp=drive_web#gid=0 유저, 공식 한글화 게임 목록]

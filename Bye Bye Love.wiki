@@ -1,0 +1,53 @@
+[[목차]]
+== 개요 ==
+{{{#!HTML
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/sP_3LsGIEGA&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sP_3LsGIEGA&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 장르 || Latin House ||
+|| 작사, 작곡 || [[3rd Coast]] ||
+|| 보컬 || [[So Fly]] ||
+|| 랩 || [[JC]] ||
+|| BPM || 120 ||
+|| BGA || Jareun ||
+
+약칭은 '''바이바이'''.
+
+[[DJMAX Portable 2]]의 수록곡. 3rd Coast 작곡의 보사노바 장르의 곡이다.
+
+두 명의 요정들의 씨앗 키우기가 주요 BGA 내용. 씨앗이 자라고 자라 열매가 되더니 아기 요정이 태어난다. 요정들의 춤추는 장면이 포인트. ~~아니 그런데 BGA 내용이랑 제목이 안 맞잖아요?~~ 참고로 주황색 삐죽머리 요정의 이름은 라이라.
+=== [[DJMAX Portable 2]] ===
+곡의 난이도는 DMP2 내에서 중간 정도의 난이도에 속하는 곡.
+
+DJMAX Portable 2 의 수록곡 중 가장 먼저 공개된 곡들중 하나이기도 하다.
+
+전체적인 사운드 프로듀싱의 영향인지 저난이도곡의 경우 상당히 부드러운 분위기의 곡으로 이루어져 있는데, 그 중에서도 가장 많은 인기를 얻었던 곡.
+=== [[TAP SONIC]] ===
+[[TAP SONIC]]에서 또한 6라인 레전드 기준 7레벨 중에서 중간보다 조금 쉬운 축에 속한다.
+=== [[DJMAX RAY]] ===
+|||||||||| [DJMAX RAY]의 Harmony 팩 수록곡 ||
+|| [[설레임 Part.2]] || [[Dream Again]] || '''Bye Bye Love''' || [[Ray of Illuminati]] || [[Pray For You]] ||
+
+|||||||||||| [[DJMAX RAY]] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 3 || ||
+||<#0000FF> {{{#white HD}}} || 5 || ||
+||<#FF0000> MX || 8 || ||
+
+[[DJMAX RAY]]의 Harmony 뮤직팩에 수록되었다. MX는 한손으로 치는 연타가 초보자가 플레이하기에는 좀 난해한 패턴이니 어느 정도 실력을 쌓고 도전하자.
+== Bye Bye Love ~Nu Jazz Mix~ ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/ZLZfCHjyoms" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX Trilogy]] ||
+|| 장르 || Nu Jazz ||
+|| 작사, 작곡 || [[3rd Coast]] ||
+|| 편곡 || [[3rd Coast]] ||
+|| 보컬 || [[So Fly]] ||
+|| 랩 || [[JC]] ||
+|| BPM || 130 ||
+|| BGA || Jareun ||
+
+[[DJMAX Trilogy]]에 이 곡의 Nu Jazz Mix가 수록되었다. 제목 그대로 재즈 느낌이 나며 BPM도 더 빠르다.

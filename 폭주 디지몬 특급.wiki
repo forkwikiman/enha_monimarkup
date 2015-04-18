@@ -1,0 +1,50 @@
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='500' height='408' id='NFPlayer07835' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=465A60AF27474650B11B73305B22B2579820&outKey=V122e0539b6c57a2b4a5d3a100cc4ea59eba2c4367dcbe4648a5d3a100cc4ea59eba2' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=465A60AF27474650B11B73305B22B2579820&outKey=V122e0539b6c57a2b4a5d3a100cc4ea59eba2c4367dcbe4648a5d3a100cc4ea59eba2' wmode='window' width='500' height='408' allowScriptAccess='always' name='NFPlayer07835' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+한국판 오프닝. 노래는 [[TULA]].
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='500' height='408' id='NFPlayer06431' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=48DD6C7B4E2E553D2F4F25E581543769BAAB&outKey=V1210e53ca0239997c4376d62ab89c0066e8502754c8e4c0e3a526d62ab89c0066e85' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=48DD6C7B4E2E553D2F4F25E581543769BAAB&outKey=V1210e53ca0239997c4376d62ab89c0066e8502754c8e4c0e3a526d62ab89c0066e85' wmode='window' width='500' height='408' allowScriptAccess='always' name='NFPlayer06431' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+한국판 엔딩. 노래는 [[임지숙]].
+
+[[목차]]
+== 개요 ==
+[[디지몬 테이머즈]]의 두번째 극장판. 엔딩은 석양의 약속(夕陽の約束). 무대는 초반에 등장하는 [은세나]의 티셔츠가 하트가 온전하게 보존되어 있으며 [[레오몬]]이 없어도 황주연이 제정신이라는 점, 계절적 배경이 봄이라는 걸 봤을 땐 TV판 [[데리파]] 사건 이후의 시간대. 일부에선 이를 근거로 TVA 엔딩 이후로 이어지는 사건이라는 ~~무리하게 [[해피엔딩]]을 바라는~~ 주장이 있기도 하지만, 대부분의 팬들은 파트너 디지몬이 현실세계에 그대로 남아있는 '''[[패러렐 월드]]'''라는 게 정설. 원래는 드라마 CD인 '메시지 인 더 패킷'의 존재[* 드라마 CD의 시간적 배경은 디지몬들과의 이별 1년 후로, 본편 -> 드라마 CD -> 극장판이라는 주장에도 모순이 생기게 된다.]로 인해 팬서비스 혹은 [[팬디스크]]에 불과한 패러렐 월드로 보는게 맞다.~~애초에 베르제브몬이 애저녁에 [[디지털 월드]]에서 박살난 베헤모스를 멀쩡히 타고다니는게 말이 되나~~
+
+== 스토리 ==
+돌연 현실세계에 리얼라이즈한 [[로코몬]]이 폭주한다. 그리고 하늘에 보이는 디지털 존. 로코몬의 목적은 폭주를 통해 시공을 비틀어 디지털 존을 여는 것이었다. 그리고 로코몬을 조종하는 건 다름아닌 패러사이몬. 패러사이몬이 로코몬에 기생한 이유는 로코몬으로 하여금 디지털 존을 열게 하여 그곳을 통해 자신이 리얼라이즈하는 것이 목적이었다. 그리하여 침략이 시작되고 궁극체로 변신한 주인공들이 싸우지만, 압도적인 물량에 의해 밀리기 시작한다. 질 수 없다고 결심한 타카토의 결심이 그라니를 불러와 듀크몬 크림슨 모드로 융합하고, 크림슨 모드의 공격 한방에 모든 패러사이몬들은 사라지고 로코몬은 디지털 세계로 돌아간다. 
+
+== 등장인물 ==
+[[오유민]]
+[[곽소룡]]
+[[은세나]]
+[[황주연]]
+[[이재익]]
+[[강재호]]
+[이성우(디지몬 시리즈)|이성우]
+[[곽소희]]
+
+== 등장 디지몬 ==
+||->방향으로 진화한다||
+||성장기||성숙기||완전체||궁극체||
+||[[길몬]]||[[그라우몬]]||[[메가로그라우몬]]||[[듀크몬]]||
+||[[테리어몬]]||[[가르고몬]]||[[래피드몬]]||[[세인트가르고몬]]||
+||[[레나몬]]||[[구미호몬]]||[[도사몬]]||[[사쿠야몬]]||
+||[[로프몬]]|| || || ||
+||[[임프몬]]|| || ||[[베르제브몬]]||
+|| || ||[[사이버드라몬]]||[[저스티몬]]||
+|| ||[[가드로몬]]|| || ||
+|| || || ||[[마린엔젤몬]]||
+|| || ||[[로코몬]]||[[그랜드로코몬]]||
+|| || || ||[[패러사이몬]]||
+
+기타 : [[동글몬]]
+== 비고 ==
+[[디지몬 시리즈]] 극장판 중 특정 캐릭터, 그것도 히로인을 테마로 내세운 유일한 작품이다. 극장판에 개인 테마곡이 사용된 것도 이 작품이 유일. 세나의 인기~~와 제작진의 편애~~를 실감할 수 있게 해준다.
+
+[[로코몬]], [[패러사이몬]] 첫 영상화.
+
+수익은 20억엔으로 극장판 중 흥행 순위 3위.
+
+전작 극장판에 비해서 별다른 임팩트는 남기지 못했지만 주요 테마곡인 은세나의 <석양의 약속>은 두고두고 명곡으로 회자된다.

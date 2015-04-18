@@ -1,0 +1,75 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+[[차이콥스키]]의 피아노 협주곡을 리믹스한 [[DJMAX 시리즈]]의 수록곡. 원곡은 3악장인 Allegro Con Fuoco 부분이다.
+
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || Classic Remix ||
+|| 작곡 || Pyotr Ilyich Tchaikovsky ||
+|| 편곡 || [[Wavfactory]] ||
+|| BGA || [[ECO]] ||
+|| BPM || 156 ||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1KmPmmllV2s?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+약칭은 '''피협'''.
+
+[[DJMAX 시리즈]]에 처음으로 제공된 클래식 리믹스 악곡. DJMAX 시리즈의 클래식 리믹스 곡 중에서 개념으로 꼽는 세 곡중의 하나로, [[차이콥스키]]가 작곡한 원곡의 분위기를 크게 해치지 않으면서도 빠르고 밝은 분위기의 곡으로 잘 살려냈다는 평을 받고 있다. BGA 내용은 초고속으로 흘러다니는 구름위에서 정체불명의 ~~[wiki:"파이로(팀 포트리스2)"파이로]~~방독면 신사, 愛가 씌여진 까만 쫄쫄이 아가씨들, 눈 4개 공룡, 그믐달위의 성 등 [wiki:"약빨다"전혀 이해할 수 없는 해괴망측한] 영상미를 자랑한다.
+ 
+=== [DJMAX Portable] ===
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/hTrokZA-tk0" frameborder="0" allowfullscreen></iframe>}}}
+
+6B HD 패턴
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/q5WUcprEACk" frameborder="0" allowfullscreen></iframe>}}}
+
+8B HD 패턴
+
+특유의 BPM때문에 포터블에선 배속조절하기가 약간 애매한편이다. 3배속으로 하면 좀 느리고 3.5배속으로 하면 좀 빠르게 느껴지는 정도. [wiki:"Ray of Illuminati"]와 비슷한 긁기 패턴이 자주 등장한다. 중간중간 등장하는 오밀조밀한 노트는 유저의 엄지를 신나게 농락한다.(..)
+
+=== [DJMAX TECHNIKA 2] ~ [DJMAX TECHNIKA 3] ===
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vvas35UTNsY" frameborder="0" allowfullscreen></iframe>}}}
+
+하드 패턴
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 Max || 6 || 8박 스크롤 || ||
+||<#FFFF00> Normal || D || 150 Max || 6 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 200 Max || 8 || 4박 스크롤 || [Unplugged Set] 상위 보스곡, [wiki:"Future Challenge"미션 - Classic Over] 수록 ||
+||<#FF0000> Maximum || B || 250 Max || 9 || 4박 스크롤 || [Maximum Set] 셀렉곡, ※[물렙곡] ||
+
+[[DJMAX TECHNIKA 2]]에도 이식되었다. 이후 [[DJMAX TECHNIKA 3]]에서는  [wiki:"La Campanella : Nu Rave" 라 캄파넬라], [wiki:"D2(DJMAX)"D2], [[Black Swan]]과 함께 4대 클래식 리믹스곡으로 자리잡고 있다.
+
+~~아이들이 보면 울 것 같았던~~ BGA는 리마스터링 되었다. (사실 지금도 자세히보면 해괴한건 마찬가지..) 잘 보면 예전 BGA의 캐릭터도 많이 등장한다. [태권부리]와 펌비가 까메오로 나오기도.
+
+스크롤 박자와 곡의 박자가 일치하지 않는 몇 안되는 특이한 곡이다. 주 선율이 수시로 3/4박자 4/4박자를 왔다갔다 하는 반면 스크롤속도는 꾸준하게 4/4로 유지된다. 비슷한 케이스로는 [wiki:"D2(DJMAX)"D2]가 있고,  [[Black Swan]]같은 경우는 스크롤 속도 자체를 바꾼다.
+  
+노멀은 무난하지만 하드패턴은 상당히 까다롭다. 곡 중간 중간 고도의 처리력을 요구하는 배치가 많기 때문. 전체적으로 쉽고 평이한 [[Unplugged Set]]의 다른곡들과 비교하면 혼자서 무지막지한 난이도를 보여준다. 따로노는 박자부터 시작해서 중반부의 보라노트 배치까지, 아무리봐도 전혀 normal performance가 아니다.
+
+다만 맥시멈 패턴은 하드 패턴과 별다른 난이도 차이가 없는 탓에, [* 오히려 공포의 보라 2연타+분홍을 긁기로 바꿔놓았기때문에 더 무난해진다는 이야기도 있다.] [[Maximum Set]]에서 2스테이지 혹은 3스테이지에 배치되어 고수들이 1스테이지 [[Dream of Winds]]에서 깎였던 피를 채우는 용도(...)로 쓰이는 굴욕을 보여주고 있다.
+
+=== [DJMAX Trilogy] ===
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8V8XMPzHWBc" frameborder="0" allowfullscreen></iframe>}}}
+
+인기가 좋은 곡이었던지라 [DJMAX Trilogy]로도 이식.
+
+=== [TAP SONIC] ===
+
+[[TAP SONIC]]에서도 등장했으며, 6라인 레전드 기준으로 초창기부터 9레벨의 자리에 위치해 있었는데 9레벨 치고 어려운 편은 아니었다. 그러다 4월 9일 신패턴으로 교체, 피아노 폭타가 무서워졌다!
+
+=== [[DJMAX TECHNIKA TUNE]] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 6 || ||
+||<#FF0000> CLUB || 9 || [[Nostalgia Set]] 상위보스곡 ||

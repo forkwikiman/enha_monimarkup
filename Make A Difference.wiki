@@ -1,0 +1,48 @@
+[[목차]]
+
+== 개요 ==
+[BEMANI 시리즈]의 수록곡. 아티스트 명의는 Lala Moore with CoCoRo*Co이지만 보컬 명의로 되어있는 것이며 실제 작곡가는 [wac].
+
+이 곡을 처음 작곡했을 때는 [wac]이 직접 코러스를 불렀었다고 한다. 이후 DDR EXTREME2로 이식되었는데, DDR에서는 IIDX버전보다 더 짧은 음원을 사용한다.
+
+투덱에서의 장르명은 GOSPEL(고스펠). 이후 [KHAMEN BREAK]에서 PROGRESSIVE GOSPEL로 재활용한다.
+
+== [beatmania IIDX] ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/AMAmUMLhRzI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 130  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 445}}} || {{{#orange 9}}} || {{{#orange 846}}} || {{{#red 10}}} || {{{#red 1155}}} || {{{#blue 5}}} || {{{#blue 441}}} || {{{#orange 9}}} || {{{#orange 866}}} || {{{#red 10}}} || {{{#red 1202}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 9th~ 12 HAPPY SKY, 16 EMPRESS ~
+ * 가정용판 수록 : 9th, 16 EMPRESS+PREMIUM BEST(PREMIUM BEST SIDE)
+
+어나더 채보는 수록 이후 Distorted에서 삭제될 때까지 존재하지 않았다가, 16 EMPRESS에 부활하면서 싱글 어나더 채보가 추가되었다. 동시에 싱글 하이퍼의 난이도가 10에서 9로 강등되고 노트수가 13개 줄어들었다. 싱글 어나더 채보는 계단과 즈레패턴으로 점철된 채보로 10에서 최상급 위치에 머물러 있다.
+
+CS EMPRESS에서 더블 어나더 채보가 추가되었는데, 이 채보는 18 Resort Anthem에 이식되었다. 역시 비공식 난이도 10.7로 10에서 상급 위치를 차지한다.
+
+[BGA]는 IIDX 19 Lincle까지는 범용 BGA였다가, 20 tricoro에서 DDR에서 사용하던 BGA가 이식되었다.
+
+== [댄스 댄스 레볼루션] ==
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/IzBOe-gVFDk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 12}}} || {{{#purple -}}} ||
+||<|3><:> 130 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+가정용으로 나온 DDR EXTREME2에 이식되었으며, 후에 SuperNOVA로 아케이드에 역이식되었다.
+
+상술하다시피 [BGA]가 새로 제작되었으며, 이후 IIDX에서 이 BGA가 들어가게 된다.

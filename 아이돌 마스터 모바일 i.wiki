@@ -1,0 +1,23 @@
+[[include(틀:THE iDOLM@STER)]]
+
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/NMA1UcQgRSk?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/NMA1UcQgRSk?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>}}}
+
+공식 홈페이지 : http://info.idolmaster.jp/
+
+[[아이폰]]의 위치정보를 이용한 [[아이돌 마스터]] 시리즈의 프로듀스 [[애플리케이션]]. 2012년 3월 30일 아이폰 앱스토어서 출시.. 대응 OS는 iOS5 이상(iPhone 4, iPhone 4s,iPhone 5,iPhone 5s, iPhone 5c, iPod touch 4 세대,iPod touch 5 세대). 다운로드 요금은 무료(일부 아이템 과금 있음).
+
+피쳐폰 용인 아이돌 마스터 모바일도 있다. 공식 사이트는 모바일 i와 동일하다.
+
+== 상세 ==
+일명 '지역 게임'으로 불리며 [[일본]] 각지에서 주어진 일의 의뢰 '제안'을 받으면 그 지역에 실제로 가서 휴대 전화 위치 정보를 전송하여, 영업을 달성하게 된다. 만약 사정상 갈 수 없는 지역이라면 그 지역의 P유저들에게 대행 의뢰를 주는 것도 가능. 이런식으로 팬들을 늘리고, 담당 아이돌을 톱 아이돌로 길러내는 것이 목적이다. 
+
+아이돌들의 그래픽은 [[아이돌 마스터 2]]의 그래픽. 아이돌을 터치하거나 흔들면 다양한 반응을 보여주며, 아이돌과 사진도 찍을 수 있다. 그 밖에 트위터 연동 기능, 각 지역의 토산품 등으로 아이돌을 파워업 시키는 등의 다양한 기능이 있다.
+
+게임 시스템상 전적으로 일본 내수용이다. [[한국]]에서는 위치 정보 인식으로 인해 게임 시작조차 안된다. [[탈옥]]을 하면 가능하긴하다.(locationholic이라는 프로그램으로 가능.)
+
+== 기타 ==
+[[인피니트 스트라토스]]의 연재중단 소문으로인해 여러 안좋은 소문이 돌던 [[유미즈루 이즈루]]가 2012년 3월초, 자신의 [[트위터]]에서 중대발표를 하겠다고 [[떡밥]]을 던졌었는데, 결국 그 중대발표라는 것이 이 게임을 하겠다고 핸드폰을 아이폰으로 바꿨다는 것이었던지라 진창 욕을 얻어먹는 해프닝이 벌어지기도 했다(…).

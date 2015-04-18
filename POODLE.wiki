@@ -1,0 +1,52 @@
+ * 동명의 [[개]]에 대해 알고싶다면 [[푸들]]항목을 참고할것.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/a0Ne-cCYd1A?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/a0Ne-cCYd1A?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 160  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} [* Happy SKY 당시에는 없었으나 GOLD에서 추가되었다.] ||
+|| {{{#blue 5}}} || {{{#blue 495}}} || {{{#orange 8}}} || {{{#orange 956}}} || {{{#red 9}}} || {{{#red 1156}}} || {{{#blue 5}}} || {{{#blue 493}}} || {{{#orange 8}}} || {{{#orange 880}}} || {{{#red 11}}} || {{{#red 1438}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 12 Happy SKY ~
+ * 가정용판 수록 : 12 Happy SKY, 16 EMPRESS (SIDE [추가바람])
+
+== 개요 ==
+Beatmania IIDX 12 Happy SKY의 [[유로비트]]악곡. 작곡은 [[Y&Co.]] 보컬은 Ayatsuki (FakejazzQuintet).
+
+BGA는 F-FLY가 제작했는데 곡 제목에 맞게 분홍색 [[푸들]]이 등장하는 BGA다.
+
+SPA는 레벨 9로 낮은편이지만 GOLD에서 추가된 DPA는 11이다. [http://nicoviewer.net/sm14679696 DPA 영상]
+
+Y&Co.의 앨범인 <BEST HIT YCO>에 롱버전이 수록되어있다.
+
+== 가사 ==
+
+{{|Walking with you on a happy sunny day
+You know me clever more than retriever
+Washing me everyday tidy neat
+You know me a precious dog as a dynamite
+
+Believe in me 
+If it's rainy again
+Nobody wanna cry
+Nice cow bone you are my lover
+
+Shall we promise everyday go to walk in the park?
+Shall we promise everyday go to walk without chain?
+You will forget,
+On cloudy day,
+So lovely and sweet pretty poodle,
+Alone again
+
+Nice cow bone you are my lover
+Collar may be feel a free
+
+Shall we promise everyday go to walk in the park?
+Shall we promise everyday go to walk without chain?
+You will forget,
+On cloudy day,
+So lovely and sweet pretty poodle,
+Alone again|}}

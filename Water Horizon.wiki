@@ -1,0 +1,64 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+ <object width="640" height="480"><param name="movie" value="https://www.youtube.com/v/7l7uD1ey9aY?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/7l7uD1ey9aY?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[Ryu☆]]의 2번째 앨범인 [[AGEHA]]의 수록곡이다. 명의는 靑龍(청룡). 청룡 명의답게 괴상한 샘플링이 많다. 후에 청룡명의로 낸 앨범 [[BLUE DRAGON]]에서 BD MIX가 붙어서 ~~재탕~~수록되었다.
+
+== [[유비트 시리즈]] ==
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>5||<:>9||<:>10||
+||<#000000><:>{{{#white 노트수}}}||<:>366||<:>671||<:>780||
+||<#000000><:>{{{#white BPM}}}||||||<:>191||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>[[Rainbow☆Rainbow]] pack||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * 果てない'''水平線'''[* 굵은 글씨는 칭호 파츠.](끝없는 수평선) : 모든 보면 클리어
+  * 向こう岸なんてない世界へ(건너편 같은 건 없는 세계로) : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+[[유비트 플러스]]에 수록될 때에, AGEHA 발매 당시에는 청룡 명의로 낸 곡이지만, 어째서인지 처음 수록 때에는 Ryu☆ 본 명의로 되어있었다. 이후 청룡 명의로 유비트 플러스 내에서 수정되었다. 아무래도 실수가 있었는듯.
+이후 2013년 9월 [[bistro saucer]] 시즌 9 최종 해금곡으로 아케이드에 이식되었다. 이 곡은 유비트 시리즈 해금곡 사상 처음으로 '''[[http://p.eagate.573.jp/game/jubeat/saucer/p/information/music_list1.html 라이센스곡]]''' 취급을 받는 곡이다.[* KONAMI 오리지널이 아닌 '''[[EXIT TUNES]]''' 라이센스곡이다.][* 클래식 곡들의 경우 유비트 소서로 넘어오면서 해금곡이 된 경우이므로 제외. 사실 [[이즈미 무츠히코]]의 클래식 리믹스곡들은 모두 코나미 오리지널이다.] [[리플렉 비트 시리즈]]의 [[KOROBUSHKA (Ryu☆Remix)]] [[STARS (Ryu☆Remix RRver.)]] [[Sakura Luminance]] [[Blade]] 같은 경우. 그런데 라이센스곡인데도 불구하고 클리어/풀콤보 칭호가 있다. [* 원래 라이센스곡은 칭호 자체가 없다.]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/f8GE_LxK25g" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT 보면 영상
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/ciB-Cucmljg" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+보면은 [[wiki:"トルコ行進曲" BPM 빠르고 체력소비가 많은 어떤 곡]]이 연상되지만 전반부의 괴상한 샘플링 부분과 Ryu☆다운 [[wiki:"후살" 최후반살인]]을 제외하면 쉽다는 평이 대다수. 후살 형태가 딱 [[STELLAR WIND]]랑 동일한 형태. 박자가 빠른대신 엇박은 없다. [[愛は不死鳥の様に]]이 상위호환으로 존재한다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/Ei8BGJoGUUE" frameborder="0" allowfullscreen></iframe>
+}}}
+ADV 플레이 영상
+
+== [[리플렉 비트 시리즈]] (Water Horizon (BD MIX)) ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/azv4rONCrQg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 191 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 8}}} || {{{#red 10+}}} ||
+|| 오브젝트 || {{{#green 191}}} || {{{#orange 347}}} || {{{#red 698}}} ||
+|| 수록버전 ||||||||<#ffffff> [리플렉 비트 콜레트] ||
+
+2014년 1월 27일 BLUE DRAGON과 함께 리플렉 비트 시리즈에도 이식되었다. 다만 이쪽은 유비트 시리즈[* 유비트 시리즈에서는 이식해온 쪽이 유비트 플러스의 '''AGEHA'''쪽이라서 뒤에 아무것도 안붙고 원제로 나왔다.]와는 다르게 '''(BD MIX)'''~~[wiki:"다리따위는 장식입니다"따위는 장식이지만] 아무래도 청룡 앨범이 나온 후에 수록되는거인지라~~가 붙어서 수록되었다. BLUE DRAGON쪽과는 다르게 HARD 난이도의 레벨이 10+라는 것이 특징이다.
+해금법은 먼저 BLUE DRAGON를 선곡하고 다음 튠에 BLUE DRAGON을 제외한 청룡 명의 곡을 플레이를 하면 해금된다.
+
+난이도는 10+ 최약체 레벨. 일본의 리플렉 비트 위키 사이트에서는 이 곡과 [Bad Maniacs] 하드 패턴을 10+ 최약체로 분류해놓았다. 차라리 [STRONG]쪽이 더 어렵다는 평이 지배적.

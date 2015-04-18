@@ -1,0 +1,34 @@
+[[목차]]
+
+== For Seasons ==
+{{{#!HTML
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/qtEEP_gHLwI" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || Easy Listening ||
+|| 작곡 || [[makou]] ||
+|| BPM || 116 ||
+|| BGA || TARI, ETER ||
+
+초심으로 돌아가라는 느낌의 곡으로 처음 입문했을 때 하게 되는 곡이다.
+
+BGA는 ~~당시 커플이었고 지금은 아예 부부가 된~~ Tari와 ETER가 그렸으며, 제목과 발음이 비슷한 사계절(Four Seasons)을 표현했다. 마지막에 잘 보면 [[Lemonade]]의 남주가 등장하는 걸 볼 수 있다.
+
+이후 소식이 없다가 [[DJMAX Portable 2]]에서 등장했으며 노멀은 LV 1, 하드에서는 LV5로 무난하게 플레이 할 수 있다.
+
+다만 6버튼 하드와 8버튼이 조금 어렵다.[* 다만 같은 6버튼 하드레벨에서의 전작의 A.I에 비하면 어렵지 않다. 이쪽은 패턴이 너무 '''괴롭다.''']
+
+== For Seasons ~Air Guitar Mix~ ==
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 공개 || [[DJMAX Portable 2]][* OST 수록] ||
+|| 최초 수록 버전 || [[DJMAX Trilogy]] ||
+|| 장르 || Air Guitar ||
+|| 작곡 || [[makou]] ||
+|| 편곡 || [[PlanetBoom]] ||
+|| BPM || 116 ||
+|| BGA || TARI, ETER ||
+
+[[DJMAX Trilogy]]에서는 안 그래도 DMP2 OST에 수록되었던, 에어기타 버전이 나왔다. 난이도는 좀 높은 편.
+
+이 곡의 스타일은 후에 [[DJMAX TECHNIKA 3]]에서 [[Emblem]]으로 계승된다.

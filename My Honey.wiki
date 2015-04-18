@@ -1,0 +1,43 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+== My Honey ==
+|| 장르 |||||||| Light Dance Pop ||
+|| 곡명 |||||||| My Honey ||
+|| 원곡 |||||||| [[이승환]] '애인간수' ||
+|| 작곡 |||||||| [[이승환]],[[황성제]] ||
+|| 작사/보컬 |||||||| [[이승환]] ||
+|| 랩 |||||||| [[김진표]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 1st SE]] ||
+|| BPM |||||||| 117 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ AEIC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red 6}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 5}}} || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+ *라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ *[wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!html
+<embed src='http://flvs.daum.net/flvPlayer.swf?vid=DzE0wxNyj0g$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+[[EZ2DJ The 1st TRACKS Special Edition]] '''BGA'''
+=== 개요 ===
+원곡은 [[이승환]]의 6집에 수록된 '애인간수'라는 곡이다. [[EZ2DJ The 1st TRACKS Special Edition]]의 경우 라이센스 계약을 드림팩토리 쪽 뮤지션들과 맺어서 수록 할 수 있었던 곡.
+
+BGA에는 [[Baby Dance]]의 BGA에 나오는 인어와 비슷하게 생긴 여자가 등장하며 하늘을 날아다닌다.
+
+가요곡이기 때문에, 판권 계약이 만료된 3rd에서 [[Bob]], [[Love & Extasy]]와 함께 삭제되었다. [[For 3 Weeks]]는 4th까지 살아남았으나 Platinum에서 삭제되었다. 이후 BERA에서 부활한 후 [[EZ2AC EC]]에서 다시 삭제되었다.
+
+=== 5 Street mix ===
+패턴은 초중반엔 살짝살짝 롱노트와 잔노트가 나오다가 후반엔 노트와 정박 스크+발판이 나오는 형태. [[김진표]]의 랩이 시작되기 전의 계단에서 노트 끊어먹기 딱 좋다.
+
+{{{#!html
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/IKBlLeeIzy4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/IKBlLeeIzy4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+5 Radio Ch.Znpfg에 등장하는 전용 패턴
+
+[[각주]]

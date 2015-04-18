@@ -1,0 +1,12 @@
+||<tablebgcolor=#cbe5f8><tablewidth=100%><#ffcc33><-100> '''[[워크래프트 3]] [[휴먼 얼라이언스]]의 영웅, [[워크래프트 3/종족, 유닛, 건물|유닛, 건물들]]''' ||
+||<#7ec0ee><|2><-3> '''알터 오브 킹''' ||<-2> http://classic.battle.net/war3/images/human/units/icons/archmage.gif?width=20px ||<-2> http://classic.battle.net/war3/images/human/units/icons/mountainking.gif?width=20px ||<-2> http://classic.battle.net/war3/images/human/units/icons/paladin.gif?width=20px ||<-2> http://classic.battle.net/war3/images/human/units/icons/bloodmage.gif?width=20px ||
+||<width=20%><-2> [[아크메이지(워크래프트 3)|아크메이지]] ||<width=20%><-2> [[마운틴 킹]] ||<width=20%><-2> [[팔라딘(워크래프트 3)|팔라딘]] ||<width=20%><-2> [[블러드 메이지]] ||
+||<rowbgcolor=#7ec0ee>　||<-2> '''[[마을 회관#s-5|타운 홀]]''' ||<-2> '''[[배럭#s-3|배럭]]''' ||<-2> '''[[워크샵]]''' ||<-3> '''[[아케인 생텀]]''' || '''[[그리폰 에비어리]]''' ||
+||<#7ec0ee><|2> '''1티어''' || http://classic.battle.net/war3/images/human/units/icons/peasant-small.gif?width=20px || http://img3.wikia.nocookie.net/__cb20090112014407/wowwiki/images/c/c2/BTNMilitia.png?width=20px || http://classic.battle.net/war3/images/human/units/icons/footman.gif?width=20px || http://classic.battle.net/war3/images/human/units/icons/rifleman.gif?width=20px ||<-6><|2>　||
+|| [[피전트]] || [[밀리샤]] || [[풋맨(워크래프트)|풋맨]] || [[라이플맨#s-1.1|라이플맨]] ||
+||<#7ec0ee><|2> '''2티어''' ||<-4><|2>　|| http://classic.battle.net/war3/images/human/units/icons/gyrocopter.gif?width=20px || http://classic.battle.net/war3/images/human/units/icons/mortarteam.gif?width=20px || http://classic.battle.net/war3/images/human/units/icons/priest.gif?width=20px || http://classic.battle.net/war3/images/human/units/icons/sorceress.gif?width=20px || http://classic.battle.net/war3/images/human/units/icons/spellbreaker.gif?width=20px || http://classic.battle.net/war3/images/human/units/icons/dragonhawk.gif?width=20px ||
+|| [[플라잉 머신]] || [[모탈 팀]] || [[프리스트(워크래프트 3)|프리스트]] || [[소서리스(워크래프트 3)|소서리스]] || [[스펠 브레이커]] || [[드래곤호크 라이더]] ||
+||<#7ec0ee><|2> '''3티어''' ||<-2><|2>　||<-2> http://classic.battle.net/war3/images/human/units/icons/knight.gif?width=20px ||<-2> http://classic.battle.net/war3/images/human/units/icons/siegeengine.gif?width=20px ||<-3><|2>　 || http://classic.battle.net/war3/images/human/units/icons/gryphonrider.gif?width=20px ||
+||<-2> [[나이트#s-1.3|나이트]] ||<-2> [[시즈 엔진]] || [[그리폰 라이더]] ||
+||<#7ec0ee><|2><-3> '''기타 건물들''' ||<-2> [[팜#s-2.1|팜]] ||<-2> [[럼버 밀]] ||<-2> [[블랙스미스#s-2|블랙스미스]] ||<-2> [[아케인 볼트]] ||
+||<-2> 스카웃 타워 ||<-2> [[가드 타워]] ||<-2> [[캐논 타워]] ||<-2> [[아케인 타워]] ||

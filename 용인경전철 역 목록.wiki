@@ -1,0 +1,21 @@
+ * 이 문서는 [[용인경전철]]의 하위문서이다. 파란 칸은 지상역임을 표시하는 것.
+ * 다른 노선과는 달리 역명이 두 개인 역은 '주역명(부역명)'처럼 하지 않고 '역명1·역명2' 식으로 구분해두었다. 용인경전철의 주 수요처인 용인대, 송담대, 에버랜드를 부각시키기 위해서인 것으로 보인다[* 그러나 용인대나 송담대는 서울로 바로 가는 셔틀 버스를 운행하고 있기 때문에 경전철에는 도움이 되지 못할 것 같다. 물론 셔틀버스를 학기중에만 운영하는 대학도 있지만, 방학중에 학교를 찾아오는 학생이 소수에 불과하다는 것을 생각하면 이걸로 수요를 기대하기도 힘들다. 그리고 무엇보다도 역명에 학교 이름이 붙어있어도 '''역과 학교가 한참 멀리 떨어져 있다.'''].
+
+||<|2> 역번 ||||<|2> 역명 ||<|2> 역간거리(㎞) ||<|2> 누적거리(㎞) |||| 승강장 ||<|2> 환승노선 ||<|2> 소재지 ||
+|| 형태 || 횡단 ||
+||<#ccffff>Y110 ||<#ccffff>[wiki:"기흥역"기　흥] ||<#ccffff>器　興 ||<#ccffff>0.000 ||<#ccffff>0.000 ||<#ccffff>■│■│■ ||<#ccffff>○ ||<#ccffff>{{{#ffb300 ●}}} [[분당선]] ||<|6><#c0c0c0>용인시 기흥구 ||
+||<#ccffff>Y111 ||<#ccffff>[wiki:"강남대역"강남대] ||<#ccffff>江南大 ||<#ccffff>1.044 ||<#ccffff>1.044 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y112 ||<#ccffff>[wiki:"지석역"지　석] ||<#ccffff>支　石 ||<#ccffff>1.062 ||<#ccffff>2.106 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y113 ||<#ccffff>[wiki:"어정역"어　정] ||<#ccffff>御　井 ||<#ccffff>0.918 ||<#ccffff>3.024 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y114 ||<#ccffff>[wiki:"동백역(용인경전철)"동　백] ||<#ccffff>東　栢 ||<#ccffff>1.185 ||<#ccffff>4.209 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y115 ||<#ccffff>[wiki:"초당역"초　당] ||<#ccffff>草　堂 ||<#ccffff>1.097 ||<#ccffff>5.306 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y116 ||<#ccffff>[wiki:"삼가역"삼　가] ||<#ccffff>三　街 ||<#ccffff>2.591 ||<#ccffff>7.897 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||<|9>용인시 처인구 ||
+||<#ccffff>Y117 ||<#ccffff>[wiki:"시청·용인대역"시청·용인대] ||<#ccffff>市廳·龍仁大 ||<#ccffff>1.045 ||<#ccffff>8.942 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y118 ||<#ccffff>[wiki:"명지대역"명지대] ||<#ccffff>明知大 ||<#ccffff>1.034 ||<#ccffff>9.976 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y119 ||<#ccffff>[wiki:"김량장역"김량장] ||<#ccffff>金良場 ||<#ccffff>0.755 ||<#ccffff>10.731 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y120 ||<#ccffff>[wiki:"운동장·송담대역"운동장·송담대] ||<#ccffff>運動場·松潭大 ||<#ccffff>0.945 ||<#ccffff>11.676 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y121 ||<#ccffff>[wiki:"고진역"고　진] ||<#ccffff>古　陳 ||<#ccffff>0.935 ||<#ccffff>12.611 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y122 ||<#ccffff>[wiki:"보평역"보　평] ||<#ccffff>洑　坪 ||<#ccffff>1.750 ||<#ccffff>14.361 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y123 ||<#ccffff>[wiki:"둔전역(용인경전철)"둔　전] ||<#ccffff>屯　田 ||<#ccffff>1.027 ||<#ccffff>15.388 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>Y124 ||<#ccffff>[wiki:"전대·에버랜드역"전대·에버랜드][* 제5주차장-에버랜드 간 셔틀버스로 환승해서 [[에버랜드]] 연계] ||<#ccffff>前垈·에버랜드 ||<#ccffff>2.626 ||<#ccffff>18.014 ||<#ccffff>■││■ ||<#ccffff>○ ||<#ccffff>　||
+

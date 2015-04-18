@@ -1,0 +1,29 @@
+ * 상위 항목: [[EZ2ON]]
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/ReTXVCwDYSw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+'''[[EZ2ON]] The First Movement of Moonlight BGA'''
+
+|| 장르 |||||||| Classic Remix ||
+|| 곡명 |||||||| The First Movement of Moonlight ||
+|| 작곡 |||||||| [[Mnfc]] ||
+|| 배경 |||||||| [[Ratise]] (원화)[[br]][[RYUminus]] (모션그래픽) ||
+|| BPM |||||||| 추가바람 ||
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||| ? ||
+|||||||||| 모드별 레벨 데이터 (이지투온 기준) ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD (8K)}}} ||
+||<#FF0000> Ruby Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#00ff00> Street Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#0000ff> Club Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+
+[[EZ2ON]]에 수록된 클래식 리믹스. 첫 업데이트 당시 유저들이 곡 제목을 보고 [[Legend of Moonlight]]랑 착각해서 "이지투온 운영진들이 우릴 낚았다"라며 광분하는 해프닝이 있었다.
+
+사람들에게 더 익숙한 월광 3악장이 아닌 월광 1악장의 리믹스이다. 신스의 음색과 후반부의 기타 사운드가 곡과 안 맞다며 까였다.
+
+{{{#!HTML
+<iframe width="512" height="321" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DA85985A87636536313D9C7C5F97885BFB1D&outKey=V123e008eac266d8e8e9df85f5da177373136e30940ef3f74f1c1f85f5da177373136" frameborder="no" scrolling="no"></iframe>
+}}}
+
+6K HD.

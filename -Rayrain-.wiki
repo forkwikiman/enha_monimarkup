@@ -1,0 +1,34 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/U27zGSgXECo" frameborder="0" allowfullscreen></iframe>
+}}}
+[[동방프로젝트]] 어레인지 곡. 원곡은 [[동방성련선]]의 법계의 불과 감정의 마천루 ~ Cosmic Mind.([[히지리 뱌쿠렌]]). 가루약(こなぐすり, 코나구스리)의 곡이다.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/ucqoWkKbXf0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/22/s187_jk_001_0137_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/22/s187_jk_001_0137_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/22/s187_jk_001_0137_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 09}}} || {{{#ff009f 12}}} ||
+|| 체인 수 || {{{#purple 0640}}} || {{{#orange 0825}}} || {{{#ff009f 0973}}} ||
+|| 일러스트 담당 || {{{#purple ふーかでぃあ}}} || {{{#orange ふーかでぃあ}}} || {{{#ff009f ふーかでぃあ}}} ||
+|| 이펙터 || {{{#purple レッドホットスクリューズ  }}} || {{{#orange レッドホットスクリューズ }}} || {{{#ff009f レッドホットスクリューズ }}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 22(2012.12.21)}}} ||
+|| [[BPM]] |||||| 180 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 03 A코스(2014.12.26 ~ 2015.2.27)
+
+자켓은 '동방홍화약'의 자켓이다.
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/xkOLYJDJetY" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상

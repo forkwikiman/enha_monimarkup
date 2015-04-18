@@ -1,0 +1,57 @@
+'''하현의 달''' 실제로는 '하현달'이 올바른 번역명이다.
+
+[[목차]]
+
+== WhiteFlame의 곡 ==
+2007년 12월 1일 음악 서클 WhiteFlame이 발표한 Seirios에 수록된 곡이다. 작사, 작곡은 しゃな 명의를 쓴 [[흑토끼P]], 보컬은 [[메라미팝]].
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/nQG6l-mW9_8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+2013년 1월 9일 발매한 WhiteFlame의 앨범 '月と星の虚構空間(달과 별의 허구공간)'에서는 [[96猫]]가 보컬을 맡은 리메이크 버전이 실린다.
+
+== [[비트매니아 IIDX]]의 수록곡 ==
+=== 개요 ===
+작곡은 [[96]], 보컬은 iNO. 전작의 수록곡인 [[衰色小町メランコリア]]와 곡조와 분위기가 비슷한 건 물론, 작곡가과 보컬도 같다.
+
+==== 가사 ====
+{{|
+愛をなくした腕に眠る夜は 
+終焉へ続く闇が迎えに来る
+
+裏切りならばそれでもいいから 
+これ以上心切り裂かないで
+
+ひとしずく光る涙に 
+君は疎ましい眼差し向ける
+
+戻れぬ未来　過去を失くしても 
+夜毎迎えに来る闇の遣いよ
+
+堕ちゆく夢に心は囚われたまま 
+下弦の月に願うは君への罰
+
+消えない傷に流した涙が 
+許せぬ愛を前に渇いてゆく
+
+堕ちゆく夢から心取り戻しても 
+下弦の月に願うは君への罰 
+下弦の月に願うは君への罰
+|}}
+
+=== [[비트매니아 IIDX]] ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/lLIMo-k2Abc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lLIMo-k2Abc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 166 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 477}}} || {{{#orange 7}}} || {{{#orange 755}}} || {{{#red 9}}} || {{{#red 1000}}} || {{{#blue 5}}} || {{{#blue 471}}} || {{{#orange 7}}} || {{{#orange 729}}} || {{{#red 9}}} || {{{#red 984}}} ||
+
+ * [[wiki:"비트매니아 IIDX/수록곡" 곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 20 tricoro ~ 
+
+보면의 난이도는 중저렙 수준이지만 싱글의 경우 하드게이지 클리어가 힘든 구성이 많다. 싱글 하이퍼는 ☆7은 사기 난이도로, 중반에 시작되는 계단과 종연타 때문에 매우 힘들다. 싱글 어나더는 하이퍼의 어려운 부분을 더욱 강화한 형태.
+
+BGA는 트리코로 신규 범용 BGA에 레이어 대응. 衰色小町メランコリア에 나온 여고생 레이어가 대응되는데, 한 명의 여고생이 더 추가되었다. [http://www.nicovideo.jp/watch/sm18977015 실험을 통해서 스코어분기는 없는것으로 밝혀졌지만,] [[죽은 눈]]으로 다른 여고생을 바라보고 다시 잠든다거나, 미스 레이어로 두 여고생이 같이 찍은 사진의 가운데가 찢어지며 흑백으로 바뀌면서 눈이 빨갛게 되는 등 전작보다 더 섬뜩한 BGA가 되었다. --프로그레시브 장인의 여고괴담--

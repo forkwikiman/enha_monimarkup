@@ -1,0 +1,111 @@
+[[include(틀:현악기)]]
+[[include(틀:타악기)]]
+[[목차]]
+== 개요 ==
+||<tablealign=center> http://encyberimg.encyber.com/dicimage/midimage/32/36032.jpg || http://upload.wikimedia.org/wikipedia/commons/2/2c/Yangqin1.jpg?height=253 ||
+|| 한국의 양금 (사진출처: 인사이버 백과사전) || 중국의 양금 (사진출처: Wikimedia Commons) ||
+
+洋琴(국악기). 揚琴(중국 악기)
+
+한국의 전통 [[현악기]]. 그런데 이름에서 볼 수 있듯이 '''원산지는 서양, 정확히 말하자면 [[유럽]]쪽'''이다. 서양금이라고 불리거나 [[유럽]](구라파)에서 왔다고 해서 '구라철현금(歐羅鐵絃琴)' 또는 '구라철사금(歐羅鐵絲琴)'이라고도 불린다.
+
+== 기원 ==
+전신은 [[아라비아]]와 [[페르시아]]에서 [[이슬람]]음악에 중요한 역할을 한 악기인 '''산투르(santur, santūr, santour, santoor)'''인 것으로 알려져 있다. 이 악기가 세계 각국으로 퍼져 나가면서 각 지역에서 다양한 이름으로 토착화된다. 유럽 쪽으로는 [[신성 로마 제국]]때 유럽으로 들어와 개량되었는데, 동유럽쪽에서는 '''침발롬(cimbalom)''' 계통의 이름으로 많이 불렸고, 영미권에서는 가장 일반적으로 알려져 있는 이름이 '''덜시머(hammered dulcimer)'''. 덜시머는 뒤에 같은 타현악기 계통인 [[피아노]] 등의 발달에도 영향을 끼친다.
+ 
+[[중국]]에 들어온 것은 [[명]]나라 때의 일이며,[* 중국의 것 역시 원래는 洋琴이라고 썼으나 뒤에 揚琴으로 표기가 바뀌었다. 한국과 달리 두 개의 채를 양 손에 하나씩 들고 연주한다.] [[마테오 리치]]에 의해 16세기경 [[중국]]에 전해진 것이 [[영조]]시기 홍대용과 김억에 의해 [[한국]]에 유입되기에 이른다. 이후 풍류음악에 수용되어 영산회상, 가곡 반주 등에 널리 사용되며 사랑받았으며 조선말기에 이르러 궁중음악에 수용된다. 
+
+== 국악기 양금(洋琴) ==
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/8czyLEeS40k?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/8czyLEeS40k?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object>
+}}}
+
+양금과 [[거문고]], [[가야금]]으로 연주한 [[수요남극]].[http://twitter.com/#!/GUGAKFM/status/49714124132855808 FM 국악방송 3월 21자 방송].
+
+=== 역사 ===
+양금의 고악보인 '구라철사금자보'에는 '국내에 유입된지 60여 년이 될 때까지 악곡을 번역한 것은 없고 다만 선비들 공부방의 장식물로 어루만지고 희롱할 따름이다'라고 되어 있다. 이런 기록으로 보아서 양금은 [[영조]]대에 유입된 이후에도 한동안은 연주되지 못한 것을 알 수 있다.
+
+이후 [[정조]]때에 [[장악원]]의 전악인 박보안이라는 사람이 사신을 따라 연경에 가서 연주법을 배워 와 한국 음악에 맞도록 번역했지만 아직 악보가 만들어지지 않아 연주법을 배우기가 쉽지 않았다. 첫 악보는 순조 17년, 장악원 전악인 문명신에 의해 편찬되었다([http://kumroa.com/298 참조]).
+
+=== 주요 특징 ===
+서양에서 들어온 탓에 전통 국악기 중에서는 유일하게 철현을 사용하고,[* 물론 개량 국악기에서는 철현을 사용한다. [[가야금]]에 철현을 얹은 철현가야금, [[아쟁]]에 철현을 얹은 철현아쟁 등이 있다.] 다른 국악 현악기들은 모두 현을 활로 문지르는 '찰현악기'이거나 현을 손이나 술대로 뜯는 발현악기인 반면, 양금은 채로 줄을 두드리며 연주하는 국악기 유일의 타현악기이다.
+
+생긴 것은 등변[[사다리꼴]]인데, 연주할 때는 뚜껑을 엎어놓고 그 위에 본체를 올려 놓아 뚜껑이 울림통 역할을 하게 해서 연주한다. 길다란 괘 2개를 줄에 받쳐서 줄을 총 저음부, 중음부, 고음부를 담당하는 세 구역으로 나누어 연주한다. 연주법은 [[대나무]] 뿌리를 얇게 깎아 탄력있게 만든 채를 손에 들고 현을 치고 굴리면서 연주한다.[* 줄의 순서만 외우면 연주법이 그리 어렵지 않아, 국악동아리에서는 양금 주자가 없을 때 아무 신입생이나 한 명 붙잡아서~~지못미~~ 연주회 1주일 전부터 가르쳐 연주회에 내보내기도 한다.] [[한국]]에서는 채를 한 개만 쓴다.[* 세계적으로 양금 계통의 악기들은 모두 채 두 개를 양 손에 들고 쌍채질을 하지만, 한국의 경우는 특이한 경우이다. 물론 현대 창작국악에서 양금이 사용될 때는 쌍채질을 하는 경우도 많다. '아래 나오는 김보희의 '길쓸별노래', 김영동의 '멀리 있는 빛' 등에서 양금 쌍채질을 볼 수 있다.] 채는 한 쪽이 두껍게 되어 있는데 두꺼운 쪽이 현을 두드리는 부분이다. 현의 개수는 56현으로 [[크고 아름다운]] 현의 수를 자랑한다. 물론 56개를 일일히 치는 것은 아니고 같은 음으로 조율한 4현을 한 '조' 또는 한 '벌'이라고 해서, 14벌의 현으로 간주한다. 따라서 1벌 4현을 동시에 치는 것. 이렇다 보니 국악기 특유의 농현이 불가능하지만, 탄력있는 채를 이용해서 [[트레몰로]] 주법이 가능하다. 
+
+철현악기인 만큼 금속성의 맑은 소리가 발군. 다만 독주악기로는 거의 쓰이지 않고, 음량이 그리 크지 않은 관계로 현악 [[영산회상]]이나 [[천년만세]]같은 소규모 현악합주에 편성되어 통통 튀는 역할을 담당한다. 이런 편성법은 쇠퇴한 [[향비파]]나 [[당비파]]의 자리를 대신하고 있는 것으로 보인다. 비슷하게 맑은 고음을 가진 [[단소]]와 중주(병주)를 하기도 하는데, 이렇게 [[단소]]와 병주하는 음악형식을 '양소병주'라고 한다. 현대 음악에서는 특유의 맑은 음색으로 [[소금]]과 함께 창작국악에 자주 쓰인다. 유명한 양금 독주곡으로 김보희가 작곡한 '길쓸별 노래'[* [[신라]] [[향가]]인 [[혜성가]]를 주제로 했다. 길쓸별 노래도 '혜성가'의 [[순 우리말]] 번역.] 등이 있다.
+
+양금의 최대 단점은 바로 [[조율]]이다. 56개나 되는 줄을 일일히 나사를 돌려가며 조율을 해 줘야 하기 때문에 꽤 힘들다. 또 4현 1벌이 음이 모두 같게 해야 하는데, 조율이 제대로 안 되어 네 개의 음이 서로 맞지 않게 되면 분명 한 음을 쳤는데도 화음이 나는 경우가 생기기도 한다. 또 현 하나하나가 무척 얇아서 온도나 습도 등에 굉장히 민감하다. 물론 대부분의 현악기가 연주를 오래 하다 보면 줄이 풀려서 현이 처지기 때문에 조금씩은 음정이 낮아지긴 하지만, 양금은 이게 좀 심해서 현에 손을 대는 것은 물론 '''연주자의 숨결이나 심지어는 공연장의 조명으로도 현이 처져서 음이 낮아진다'''. 관악기는 반대로 오래 불면 연주자가 힘들어해서 음정이 조금씩 올라가는 현상이 발생하기도 하는데 양소병주를 할 때 단소 음 올라가고 양금 음 처지면 환상의 [[불협화음]]을 감상할 수 있기도 하다.
+
+=== 악보 ===
+양금 고[[악보]]로는 '''구라철사금자보'''라는 악보가 전한다. [[조선]] 후기 [[헌종]]때 이규경이 엮은 악보로 조현법을 비롯해 [[영산회상]], [[도드리]], [[가곡]], [[시조]] 등이 실려 있다. 악보는 각 줄의 음정을 아악식의 12율에 따라 배율하여 적었기 때문에 해독하기 상당히 난해하다고 한다.
+
+'''[[거문고]] 악보인 양금신보와는 아무런 관련이 없다.'''
+
+=== 조율 ===
+양금은 [[피아노]]를 조율하듯이, 오른편에 현이 감긴 줄감기 못(정, 釘)을 곡철(曲鐵)이라는 도구로 돌려 가면서 조율한다. 앞서 써 있듯이 56현을 일일히 돌려가며 조율해야 하고, 또 한 벌 4줄의 음높이를 정확히 같게 맞춰야 하기 때문에 조율하기 상당히 까다로운 편이다.
+
+||
+오른편 괘 왼쪽 줄[* 오른편 괘 오른쪽 줄은 사용하지 않는다.]
+黃太夾仲林南無
+
+왼편 괘 오른쪽 줄
+黃太夾仲林南無
+
+왼편 괘 왼쪽 줄
+林南無潢汰㴌仲
+||
+
+위와 같이 조율하며, 조율하는 법은 아래와 같다. 이하 조율법은 '한국악기대관'(장사훈 저, 서울대학교출판부)에서 발췌.
+
+ 1. 오른편 5현을 㑣에 맞춘다.
+ 2. 중앙의 5현을 오른편 5현보다 한 옥타브 높게 淋에 맞춘다. 이렇게 하면 왼편 5현은 자동적으로 이보다 5도 높은 汰음이 된다.
+ 3. 이렇게 자동적으로 조율되는 새로운 음을 중심으로 그 다음 줄을 조율해 나가면 된다. 즉 2에서 조율된 왼편 5현의 汰현을 중심으로 중앙 2현을 옥타브로 조율하고, 중앙 2현과 오른편 2현을 옥타브로 조율하면 자동적으로 왼편 2현은 南이 된다.
+ 4. 왼편 2현과 중앙 6현을 같은 음으로 맞춘 뒤, 중앙 6현과 오른편 6현을 옥타브로 조율하면 왼편 6현은 㴌로 맞추어진다.
+ 5. 왼편 6현과 중앙 3현, 중앙 3현과 오른편 3현을 각각 옥타브 관계로 조율하면 왼편 3현은 無가 된다.
+ 6. 왼편 3현과 중앙 7현을 같은 음으로 맞추고, 중앙 7현과 오른편 7현을 옥타브로 조율하면 왼편 7현은 㳞이 된다.
+ 7. 왼편 7현과 중앙 4현, 중앙 4현과 오른편 4현을 각각 한 옥타브로 조율하면 왼편 4현은 潢이 된다.
+ 8. 왼편 4현과 중앙 4현, 중앙 1현과 오른편 1현을 각각 옥타브로 맞추면 조율이 끝난다.
+
+이러한 전통적 조율법에 따르면 [[현악 영산회상]]의 [[군악]]은 연주가 불가능한데, 오른편에 姑음을 내는 줄이 없기 때문이다. 그래서 현대에 들어서는 중앙 제3현과 제4현 사이에 姑와 應 음을 내는 줄을 하나 더 얹기도 한다.[* 장사훈 <한국악기 연주법> pp. 21~25]
+
+== 세계의 양금 계통의 악기들 ==
+=== 산투르 ===
+||<tablealign=center> http://upload.wikimedia.org/wikipedia/commons/9/96/Hasht-Behesht_Palace_santur.jpg?width=400 ||
+|| 사진출처: 위키미디어 공용 ||
+
+양금 계통에서는 가장 오래 된 악기로 약 1800년 전에 페르샤 제국에서 최초로 등장했다고 한다. ~~조르바 옹은 젊은 시절 이 악기에 미쳐서 가진 돈을 다 털어 현질했다고 한다.~~ 72줄, 줄 4조가 한 벌을 이루므로 실제는 18벌의 현이 있다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/3OmERWCitGA&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3OmERWCitGA&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+
+이 산투르는 [[오스만 제국]]을 통해서 여러지역에 전파되었는데, 가령 [[그리스]]의 전통악기인 산두리(Σαντούρι)도 산투르와 동일한 악기이다. 니코스 카잔자키스의 소설 <그리스인 조르바>의 주인공인 조르바옹이 젊은시절에 결혼하기위해 꼬불쳤던 돈까지 싹 다 털어서 지른 물건도 바로 이것. 그리스의 산두리 연주법은 터키의 직접적인 영향을 받았으며 솔로로 연주하는것이 보통이나 탁심이나 카르슐라스마같은 기악곡에 함께 포함되기도 한다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/NtQw9VGVckY?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NtQw9VGVckY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+그리스의 산두리 연주
+
+=== 침발롬 ===
+||<tablealign=center> http://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Cimbalom_-_Vencel_J%C3%B3zsef_Schunda.JPG/250px-Cimbalom_-_Vencel_J%C3%B3zsef_Schunda.JPG?Width=400 ||
+|| 콘서트용 침발롬 (사진출처: 위키미디어 공용) ||
+
+동유럽에서는 다양한 크기와 모양의 악기들이 침발- 계통의 이름으로 많이 알려져 있고(cimbalom, cymbalom, cymbalum, ţambal, tsymbaly, tsimbl, ţambal, cimbál, cimbale, ...), 소형 피아노의 크기에 가까운 콘서트용의 대형 침발롬도 고안되어 클래식 음악에도 많이 사용되었다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/OmTaV4xRoM8&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OmTaV4xRoM8&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+
+=== 덜시머(hammered dulcimer) ===
+영미권에서는 주로 덜시머라는 이름으로 많이 알려져 있고, 중세에 많이 사용되었다. 현대에는 주로 유럽의 전통 민속음악의 연주에서 사용되고 있다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/TxjpYHhfRyI&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TxjpYHhfRyI&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+
+=== 揚琴(중국) ===
+||<tablealign=center> http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Yangqin_strikers.jpg/200px-Yangqin_strikers.jpg?width=300 ||
+|| 중국 양금의 체 (사진출처: 위키미디어 공용) ||
+
+중국 양금은 일반적으로 144줄로 되어 있다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/bbgx5MyLhm8&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/bbgx5MyLhm8&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/_Qv2tGO8fus&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_Qv2tGO8fus&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>}}}
+
+[[각주]]

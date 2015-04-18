@@ -1,0 +1,107 @@
+[[목차]]
+
+== 개요 ==
+attachment:chinesesnow.jpg
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[이즈미 무츠히코]].
+
+[[유비트 시리즈]]의 [[Russian Snowy Dance]]와 [[Green Green Dance]]에 이은 민속 음악 Dance 시리즈의 3번째 곡이다. 국내에선 '''짱개눈춤'''이라는 애칭으로 불리기도한다(...)
+
+== [[기타프릭스·드럼매니아]] ==
+||<-3><#C9D540><:>'''GuitarFreaks & DrumMania V8 & XG2 Extra Rush'''||
+|| V8 || XG2 || 해당 곡 ||
+||<-2><#FFA500><:> EXTRA 1 || '''[[Einherjar]]''' ||
+||<-2><#FFA500><:> EXTRA 2 || '''[[blue moon]]''' ||
+||<-2><#FFA500><:> EXTRA 3 / ENCORE 1 || '''Chinese Snowy Dance''' ||
+||<-2><#FFA500><:> EXTRA 4 / ENCORE 2 || '''[[Martial Arts]]''' ||
+||<-2><#FFA500><:> EXTRA 5 / ENCORE 3 || '''[[SIX DIMENSION]]''' ||
+||<-2><#FFA500><:> EXTRA 6 / ENCORE 4 || '''[[Illuminati ~光を求める者たち~]]''' ||
+||<-2><#FFA500><:> EXTRA 7 / ENCORE 5 || '''[[ゲームより愛を込めて]]''' ||
+||<#082567> {{{#white ENCORE 6}}} ||<#FFA500> EXTRA 8 / ENCORE 6 || '''[[幻想雷神記]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' ||<#082567> {{{#white ENCORE 7}}} || '''[[EXCELSIOR DIVE]]''' ||
+|| 해당 없음 ||<#800080> '''{{{#white CLIMAX}}}''' || '''[[Brown blizzard]]''' ||
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/Fd-Y15yY1yo?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Fd-Y15yY1yo?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+1분 51초 부분을 [[死ぬがよい|꼭 보도록 하자]].
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 175 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 41}}} || {{{#orange 58}}} || {{{#red 80}}} ||
+|| 기타 오픈픽 || {{{#green 41}}} || {{{#orange 58}}} || {{{#red 81}}} ||
+|| 기타 베이스 || {{{#green 42}}} || {{{#orange 55}}} || {{{#red 82}}} ||
+|| 드럼매니아 || {{{#green 37}}} || {{{#orange 66}}} || {{{#red 86}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 175 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 5.00}}} || {{{#orange 5.90}}} || {{{#red 7.85}}} || {{{#purple 9.45}}} ||
+|| 기타 베이스 || {{{#blue 4.90}}} || {{{#orange 6.30}}} || {{{#red 7.85}}} || {{{#purple 9.40}}} ||
+|| 드럼매니아 || {{{#blue 4.35}}} || {{{#orange 6.10}}} || {{{#red 8.20}}} || {{{#purple 9.20}}} ||
+
+2011년 3월 28일 V8/XG2 가동과 동시에 Extra level 1부터 앙코르 스테이지에 등장한 곡으로, 이후 2011년 4월 15일 Extra level 2에서 엑스트라 스테이지 전용 곡으로 강등, 2011년 6월 24일엔 Extra level 7에서 일반곡으로 완전 해금되었다.
+
+개인차가 크게 벌어지는 곡으로, XG2 기준 드럼 마스터 난이도가 9.00이지만 9.00을 주기엔 뭔가 부족한 패턴이 내내 이어진다. 경쾌하면서도 빠른 리듬과 그에 따른 빠른 연타에만 적응할 수만 있다면 개인차에 따라 난이도에 비해 쉽다고 느낄 수 있을지는 모르겠으'''나''' 위 동영상 1분 51초부터 약 6초간 이어지는 '''노트 폭격'''이 이 곡의 실체이다. 얼핏 보면 뭐가 지나갔는지 조차 잘 모를 정도로 무지막지한데, 정확히는 투베이스 + 16비트 탐돌리기 + [[계단]]식 노트로 구성 되어있는 발광 부분이며, V8쪽도 비슷하게 날뛴다. 건반게임에서나 볼 노트형식이 등장하는데, 뭐 이런 식의 노트를 찍었던 노래가 [[cachaca|이미 있기는 하지만]] 이쪽이 훨씬 강렬하다.
+
+attachment:chinesenico.jpg
+
+말 그대로 '''엄청 짧고 굵다'''.
+
+=== 아티스트 코멘트 ===
+||<#eeeeee>
+중국 풍의 곡은, 기타프릭스 8th & 드럼매니아 7th의  '[[美丽的家乡|美麗的家郷]]' 이후 
+처음이네요. 이번엔 보스곡으로 해 달라는 의뢰가 있었으므로, 템포를 꽤 빠르게 해서 
+드럼의 프레이즈 등등의 것들도 세세하고 까다롭게 만들었습니다.
+
+그리고, 얼후[* 중국의 전통 악기]와 거문고의 소리를 메인에, 디스토션 기타를 집어넣어 락의 느낌이 나는 질주감과 하드함을 표현해 보았어요.
+
+테마의 멜로디는 '누구라도 노래 하기 쉬운 프레이즈' 라고 하는 것을 염두해 만들었습니다.
+
+언젠가는 보컬 버전도 만들어 보고 싶은데~.
+||
+
+== [[리플렉 비트 시리즈]] ==
+|||||||||||||| [[REFLEC BEAT]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 175 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 8}}} || {{{#red 10+}}} ||
+|| 오브젝트 || {{{#green 256}}} || {{{#orange 401}}} || {{{#red 635}}} ||
+|| 수록버전 ||||||||<#8e8eff>  [[리플렉 비트 콜레트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 42 ||
+
+|||||||| [[리플렉 비트 콜레트]] FINAL 전용 곡 / Winter||
+|| [Daily Lunch Special] ||
+||||||<:>▼||
+|| '''Chinese Snowy Dance''' ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/1yjvtcSMtEo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[Daily Lunch Special]]에 이어 두 번째 파이널 곡으로 [[万物快楽理論|--뜬금없이--]] 출현.
+첫 번째 파이널 전용곡인 [Daily Lunch Special]을 해금하고 파이널 라운드를 제외한 모든 라운드를 대인전으로 매칭을 했다면 FINAL 라운드에 출현하는 음악이다.
+처음부터 강렬하게 16비트 트릴로 시작해 곡 전체가 3TOP이 섞인 기묘한 박자와 부담스러운 트릴로 점철되어 있는 까다로운 패턴. 특히 중반부에는 한 손으로는 일반 노트 8분박, 한 손으로는 3TOP 체인 정박을 처리해야 하는 까다로운 패턴이 있다. 미리 숙지해놓고 있으면 굉장히 쉽게 넘길 수 있으니 참고하도록 하자.
+
+여담으로 리플렉 비트 버전 자켓에 나오는 인물 중에 흰색 옷을 입고 있는 여자의 옷이 레이어가 이상하게 설정되어 깨져있다. 선곡 자켓에선 흰색, 곡 해금땐 약간 분홍색 레이어가 이상하게 깨져있다.
+나중에 아는 정보대로 [[수정바람]]
+
+== [[댄스 댄스 레볼루션]] ==
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 7}}} || {{{#red 12}}} || {{{#green 16}}} || {{{#purple -}}} ||
+||<|3><:> 175|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 7}}} || {{{#red 12}}} || {{{#green 16}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+[[Triple Journey]]이벤트로 [[Dance Dance Revolution(2013)]]에 이식수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/1lXS10sHmkk" frameborder="0" allowfullscreen></iframe>
+}}}
+ESP+EDP 영상

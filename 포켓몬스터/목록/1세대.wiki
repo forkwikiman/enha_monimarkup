@@ -1,0 +1,165 @@
+ * 상위 항목 : [[포켓몬스터/목록]]
+ * 리다이렉트 : [[관동도감]]
+
+[[목차]]
+
+== 개요 ==
+[포켓몬스터 적·녹|1세대] 포켓몬의 목록.
+
+각 포켓몬 디자인은 몇번이나 고치고 고치는 장고 끝에 결정된 것으로 알려져 있는데 그 덕분에 역대 포켓몬 디자인에서 가장 호평을 받았으며 3세대 이후 포켓몬들이 부쩍 화려해지자 이 때를 그리워하는 팬들도 많다. 일각에서는 분명히 외모로 악평을 받고 존재감 없는 1세대 포켓몬도 꽤 있고, 일부 3세대 이후 포켓몬들은 인기가 많기 때문에 [[추억보정]] 문제를 감안해야 한다는 이야기도 나오고 있다. 그러나 정작 험상궂다는 평을 듣는 질뻐기나 또도가스는 1세대에서도 극히 일부의 사례에 불과하며 5세대 이후로 나오는 기괴한 디자인의 포켓몬에 비하면 양반인 건 사실이다. 또 1세대 초기의 기괴한 게임 내 스프라이트를 예시로 들어 1세대 포켓몬의 귀여운 디자인은 거의 전부 애니메이션이나 잡지 만화 등에서 리파인된 결과물이라고 주장하는 사례도 있는데, 게임 내 스프라이트와 일러스트 간의 차이와 포켓몬의 인기는 거의 관련이 없다. 당장 해외에서도 악마의 상징이라며 까인 골뱃은 리파인이 되었음에도 딱히 인기가 늘거나 하지 않았음을 보면 간단히 알 수 있는 사실.
+
+독 타입이 151마리 중 20%가 넘는 33마리라는 압도적인 비율을 자랑했던 세대이기도 하다.
+
+== 목록 ==
+||<tablealign=center><rowbgcolor="#80BB1D"><:> {{{#ffffff No.}}} ||<-2> {{{#ffffff 포켓몬}}} ||<-2> {{{#ffffff 타입}}} ||
+|| 001 || attachment:/Pokemon_icon_001.png || [[이상해씨]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 002 || attachment:/Pokemon_icon_002.png || [[이상해풀]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] ||
+|| 003 || attachment:/Pokemon_icon_003.png || [[이상해꽃]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 004 || attachment:/Pokemon_icon_004.png || [[파이리]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] ||
+|| 005 || attachment:/Pokemon_icon_005.png || [[리자드]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 006 || attachment:/Pokemon_icon_006.png || [[리자몽]] || [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] ||
+|| 007 || attachment:/Pokemon_icon_007.png || [[꼬부기]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 008 || attachment:/Pokemon_icon_008.png || [[어니부기]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 009 || attachment:/Pokemon_icon_009.png || [[거북왕]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 010 || attachment:/Pokemon_icon_010.png || 캐터피 |||| [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || 
+|| 011 || attachment:/Pokemon_icon_011.png || [[단데기]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || 
+|| 012 || attachment:/Pokemon_icon_012.png || [[버터플]] || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] ||
+|| 013 || attachment:/Pokemon_icon_013.png || 뿔충이 || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 014 || attachment:/Pokemon_icon_014.png || 딱충이 || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 015 || attachment:/Pokemon_icon_015.png || [[독침붕]] || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 016 || attachment:/Pokemon_icon_016.png || 구구 || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 017 || attachment:/Pokemon_icon_017.png || [[피죤]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 018 || attachment:/Pokemon_icon_018.png || [[피죤투]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] ||
+|| 019 || attachment:/Pokemon_icon_019.png || 꼬렛 |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 020 || attachment:/Pokemon_icon_020.png || [[레트라]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 021 || attachment:/Pokemon_icon_021.png || 깨비참 || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 022 || attachment:/Pokemon_icon_022.png || [[깨비드릴조]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 023 || attachment:/Pokemon_icon_023.png || 아보 |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 024 || attachment:/Pokemon_icon_024.png || [[아보크]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] ||
+|| 025 || attachment:/Pokemon_icon_025.png || [[피카츄]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] ||
+|| 026 || attachment:/Pokemon_icon_026.png || [[라이츄]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] ||
+|| 027 || attachment:/Pokemon_icon_027.png || 모래두지 |||| [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 028 || attachment:/Pokemon_icon_028.png || [[고지(포켓몬스터)|고지]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 029 || attachment:/Pokemon_icon_029.png || 니드런♀ |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 030 || attachment:/Pokemon_icon_030.png || 니드리나 |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 031 || attachment:/Pokemon_icon_031.png || [[니드퀸]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 032 || attachment:/Pokemon_icon_032.png || 니드런♂ |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 033 || attachment:/Pokemon_icon_033.png || 니드리노 |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 034 || attachment:/Pokemon_icon_034.png || [[니드킹]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 035 || attachment:/Pokemon_icon_035.png || [[삐삐]] |||| [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] || 
+|| 036 || attachment:/Pokemon_icon_036.png || [[픽시(포켓몬스터)|픽시]] |||| [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] || 
+|| 037 || attachment:/Pokemon_icon_037.png || 식스테일 |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 038 || attachment:/Pokemon_icon_038.png || [[나인테일]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 039 || attachment:/Pokemon_icon_039.png || [[푸린]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] || 
+|| 040 || attachment:/Pokemon_icon_040.png || [[푸크린]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] || 
+|| 041 || attachment:/Pokemon_icon_041.png || 주뱃 || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 042 || attachment:/Pokemon_icon_042.png || [[크로뱃|골뱃]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 043 || attachment:/Pokemon_icon_043.png || 뚜벅쵸 || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]]  || 
+|| 044 || attachment:/Pokemon_icon_044.png || 냄새꼬 || [[wiki:"포켓몬스터/타입#s-3.7"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입#s-3.16"attachment:/Pokemon_Type_Poison.png]] || 
+|| 045 || attachment:/Pokemon_icon_045.png || [[라플레시아(포켓몬스터)|라플레시아]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 046 || attachment:/Pokemon_icon_046.png || 파라스 || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || 
+|| 047 || attachment:/Pokemon_icon_047.png || [[파라섹트]] || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || 
+|| 048 || attachment:/Pokemon_icon_048.png || 콘팡 || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 049 || attachment:/Pokemon_icon_049.png || [[도나리]] || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 050 || attachment:/Pokemon_icon_050.png || 디그다 |||| [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 051 || attachment:/Pokemon_icon_051.png || [[닥트리오]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 052 || attachment:/Pokemon_icon_052.png || [[나옹]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 053 || attachment:/Pokemon_icon_053.png || [[페르시온]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 054 || attachment:/Pokemon_icon_054.png || 고라파덕 |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 055 || attachment:/Pokemon_icon_055.png || [[골덕]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 056 || attachment:/Pokemon_icon_056.png || 망키 |||| [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 057 || attachment:/Pokemon_icon_057.png || [[성원숭]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 058 || attachment:/Pokemon_icon_058.png || 가디 |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 059 || attachment:/Pokemon_icon_059.png || [[윈디(포켓몬스터)|윈디]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 060 || attachment:/Pokemon_icon_060.png || 발챙이 |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 061 || attachment:/Pokemon_icon_061.png || 슈륙챙이[* 본래 수(水)와 륙(陸)을 합친 수륙챙이였으나 후에 슈륙챙이로 바뀌었다. 4세대 정발 이후로 게임 내 이름도 슈륙챙이로 변경.] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 062 || attachment:/Pokemon_icon_062.png || [[강챙이]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 063 || attachment:/Pokemon_icon_063.png || 캐이시 |||| [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 064 || attachment:/Pokemon_icon_064.png || 윤겔라 |||| [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 065 || attachment:/Pokemon_icon_065.png || [[후딘]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 066 || attachment:/Pokemon_icon_066.png || 알통몬 |||| [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 067 || attachment:/Pokemon_icon_067.png || 근육몬 |||| [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 068 || attachment:/Pokemon_icon_068.png || [[괴력몬]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 069 || attachment:/Pokemon_icon_069.png || 모다피 || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 070 || attachment:/Pokemon_icon_070.png || 우츠동 || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 071 || attachment:/Pokemon_icon_071.png || [[우츠보트]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 072 || attachment:/Pokemon_icon_072.png || 왕눈해 || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 073 || attachment:/Pokemon_icon_073.png || [[독파리]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 074 || attachment:/Pokemon_icon_074.png || 꼬마돌 || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 075 || attachment:/Pokemon_icon_075.png || 데구리 || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 076 || attachment:/Pokemon_icon_076.png || [[딱구리]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 077 || attachment:/Pokemon_icon_077.png || 포니타 |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 078 || attachment:/Pokemon_icon_078.png || [[날쌩마]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 079 || attachment:/Pokemon_icon_079.png || 야돈 || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 080 || attachment:/Pokemon_icon_080.png || [[야도란]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 081 || attachment:/Pokemon_icon_081.png || [[코일(포켓몬스터)|코일]] || [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || [[wiki:"포켓몬스터/타입/설명#s-3.2"attachment:/Pokemon_Type_Steel.png]] || 
+|| 082 || attachment:/Pokemon_icon_082.png || [[자포코일|레어코일]] || [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || [[wiki:"포켓몬스터/타입/설명#s-3.2"attachment:/Pokemon_Type_Steel.png]] || 
+|| 083 || attachment:/Pokemon_icon_083.png || [[파오리]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 084 || attachment:/Pokemon_icon_084.png || [[두두]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 085 || attachment:/Pokemon_icon_085.png || [[두트리오]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 086 || attachment:/Pokemon_icon_086.png || [[쥬쥬]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 087 || attachment:/Pokemon_icon_087.png || [[쥬레곤]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.6"attachment:/Pokemon_Type_Ice.png]] || 
+|| 088 || attachment:/Pokemon_icon_088.png || 질퍽이 |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 089 || attachment:/Pokemon_icon_089.png || [[질뻐기]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 090 || attachment:/Pokemon_icon_090.png || 셀러 |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 091 || attachment:/Pokemon_icon_091.png || [[파르셀]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.6"attachment:/Pokemon_Type_Ice.png]] || 
+|| 092 || attachment:/Pokemon_icon_092.png || 고오스 || [[wiki:"포켓몬스터/타입/설명#s-2.14"attachment:/Pokemon_Type_Ghost.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 093 || attachment:/Pokemon_icon_093.png || 고우스트 || [[wiki:"포켓몬스터/타입/설명#s-2.14"attachment:/Pokemon_Type_Ghost.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 094 || attachment:/Pokemon_icon_094.png || [[팬텀(포켓몬스터)|팬텀]] || [[wiki:"포켓몬스터/타입/설명#s-2.14"attachment:/Pokemon_Type_Ghost.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 095 || attachment:/Pokemon_icon_095.png || [[강철톤|롱스톤]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 096 || attachment:/Pokemon_icon_096.png || 슬리프 |||| [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 097 || attachment:/Pokemon_icon_097.png || [[슬리퍼(포켓몬스터)|슬리퍼]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 098 || attachment:/Pokemon_icon_098.png || 크랩 |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 099 || attachment:/Pokemon_icon_099.png || [[킹크랩(포켓몬스터)|킹크랩]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 100 || attachment:/Pokemon_icon_100.png || 찌리리공 |||| [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || 
+|| 101 || attachment:/Pokemon_icon_101.png || [[붐볼]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || 
+|| 102 || attachment:/Pokemon_icon_102.png || 아라리 || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 103 || attachment:/Pokemon_icon_103.png || [[나시(포켓몬스터)|나시]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 104 || attachment:/Pokemon_icon_104.png || 탕구리 |||| [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 105 || attachment:/Pokemon_icon_105.png || [[텅구리]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 
+|| 106 || attachment:/Pokemon_icon_106.png || [[시라소몬]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 107 || attachment:/Pokemon_icon_107.png || [[홍수몬]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 
+|| 108 || attachment:/Pokemon_icon_108.png || [[내룸벨트|내루미]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 109 || attachment:/Pokemon_icon_109.png || 또가스 |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 110 || attachment:/Pokemon_icon_110.png || [[또도가스]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 
+|| 111 || attachment:/Pokemon_icon_111.png || 뿔카노 || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || 
+|| 112 || attachment:/Pokemon_icon_112.png || [[코뿌리]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || 
+|| 113 || attachment:/Pokemon_icon_113.png || [[럭키(포켓몬스터)|럭키]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 114 || attachment:/Pokemon_icon_114.png || [[덩쿠림보|덩쿠리]][* 2세대 정발 소프트에서의 이름은 덩구리였다.그런데 사실 맞춤법에 따르면 덩쿨이 아니라 덩굴이 맞다(?!)] |||| [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || 
+|| 115 || attachment:/Pokemon_icon_115.png || [[캥카]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 116 || attachment:/Pokemon_icon_116.png || 쏘드라 |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 117 || attachment:/Pokemon_icon_117.png || [[킹드라|시드라]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 118 || attachment:/Pokemon_icon_118.png || 콘치 |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 119 || attachment:/Pokemon_icon_119.png || [[왕콘치]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 120 || attachment:/Pokemon_icon_120.png || 별가사리 |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 121 || attachment:/Pokemon_icon_121.png || [[아쿠스타]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 122 || attachment:/Pokemon_icon_122.png || [[마임맨]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] || 
+|| 123 || attachment:/Pokemon_icon_123.png || [[스라크]] || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 124 || attachment:/Pokemon_icon_124.png || [[루주라]] || [[wiki:"포켓몬스터/타입/설명#s-2.6"attachment:/Pokemon_Type_Ice.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 125 || attachment:/Pokemon_icon_125.png || [[에레브(포켓몬스터)|에레브]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || 
+|| 126 || attachment:/Pokemon_icon_126.png || [[마그마(포켓몬스터)|마그마]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 127 || attachment:/Pokemon_icon_127.png || [[쁘사이저]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || 
+|| 128 || attachment:/Pokemon_icon_128.png || [[켄타로스]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 129 || attachment:/Pokemon_icon_129.png || [[잉어킹]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 130 || attachment:/Pokemon_icon_130.png || [[갸라도스]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 131 || attachment:/Pokemon_icon_131.png || [[라프라스]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.6"attachment:/Pokemon_Type_Ice.png]] || 
+|| 132 || attachment:/Pokemon_icon_132.png || [[메타몽]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 133 || attachment:/Pokemon_icon_133.png || [[이브이]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 134 || attachment:/Pokemon_icon_134.png || [[샤미드]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 135 || attachment:/Pokemon_icon_135.png || [[쥬피썬더]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || 
+|| 136 || attachment:/Pokemon_icon_136.png || [[부스터(포켓몬스터)|부스터]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || 
+|| 137 || attachment:/Pokemon_icon_137.png || [[폴리곤(포켓몬스터)|폴리곤]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 138 || attachment:/Pokemon_icon_138.png || 암나이트 || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 139 || attachment:/Pokemon_icon_139.png || [[암스타]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 140 || attachment:/Pokemon_icon_140.png || [[투구(포켓몬스터)|투구]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 141 || attachment:/Pokemon_icon_141.png || [[투구푸스]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 
+|| 142 || attachment:/Pokemon_icon_142.png || [[프테라]] || [[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 143 || attachment:/Pokemon_icon_143.png || [[잠만보]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 
+|| 144 || attachment:/Pokemon_icon_144.png || [[프리져]] || [[wiki:"포켓몬스터/타입/설명#s-2.6"attachment:/Pokemon_Type_Ice.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 145 || attachment:/Pokemon_icon_145.png || [[썬더(포켓몬스터)|썬더]] || [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 146 || attachment:/Pokemon_icon_146.png || [[파이어(포켓몬스터)|파이어]] || [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 147 || attachment:/Pokemon_icon_147.png || 미뇽 |||| [[wiki:"포켓몬스터/타입/설명#s-2.15"attachment:/Pokemon_Type_Dragon.png]] || 
+|| 148 || attachment:/Pokemon_icon_148.png || 신뇽 |||| [[wiki:"포켓몬스터/타입/설명#s-2.15"attachment:/Pokemon_Type_Dragon.png]] || 
+|| 149 || attachment:/Pokemon_icon_149.png || [[망나뇽]] || [[wiki:"포켓몬스터/타입/설명#s-2.15"attachment:/Pokemon_Type_Dragon.png]] || [[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 
+|| 150 || attachment:/Pokemon_icon_150.png || [[뮤츠]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 
+|| 151 || attachment:/Pokemon_icon_151.png || [[뮤(포켓몬스터)|뮤]] |||| [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 

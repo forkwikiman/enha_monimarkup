@@ -1,0 +1,27 @@
+[[목차]]
+
+= [[토끼]]의 영단어 Rabbit =
+
+= [[대전 액션 게임]] =
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_sLahNLwlozk$' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=sLahNLwlozk$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=sLahNLwlozk$&playLoc=undefined'></embed></object>
+}}}
+일본명은 나미두(羅媚斗). 이걸 라비토라고 읽는듯 하다(...)
+
+제작사는 AORN(에이온?)이라고 하는 회사. (대만계로 추정된다.)
+8명의 개성있는 캐릭터가 각자가 부리고 있는 동물영혼을 내세우며 싸우는데 이 동물영혼들이라는게 [[죠죠의 기묘한 모험]] 스탠드를 갖다붙인것이다. 죠죠처럼 스탠드 가지면서 싸우지만 차이점은 이기면 [[초인학원 고우카이저]]마냥 이긴 상대방의 동물영혼을 흡수(?)할수 있어서 해당 동물영혼 초필살기중 하나를 쓸수 있다는 것이다.  
+동물영혼 초필살기들은 특이한데 대부분 플레이어가 동물영혼에 수납된(?)뒤 플레이어 캐릭터를 수납한(?) 동물영혼이 공격하는 식으로 나온다. 
+= [[학원 앨리스]]에 등장하는 화폐단위 =
+애니메이션에만 등장한다.[* 원작에선 멀쩡하게 엔화로 준다.] 앨리스 학원에서는 일반 돈은 쓸 수 없기 때문에 만들었다. 
+
+은동전 하나가 1래빗, 100엔 정도. 한화로 따지면 약 1000원. 얻는 방법은 학교에서 성적과 계급에 따라 다르게 지급한다. 매달 [[용돈]]으로 주는데 계급이 낮을수록 '''"이걸로 대체 어떻게 살아?"'''...할 정도로 차별이 심하다.
+
+== [[별계급]]별 지급 래빗 ==
+ * 스페셜: 300래빗, 한화 약 30만~50만원
+ * 트리플: 100래빗, 한화 약 10만~30만원
+ * 더블: 50래빗, 한화 약 5만~10만원
+ * 싱글: 30래빗, 한화 약 3만~5만원
+ * 별제로: 5래빗, 한화 약 5천~만원
+
+= [[나이트런]]에 등장하는 영식 =
+[wiki:"래빗(나이트런)" 래빗] 참고.

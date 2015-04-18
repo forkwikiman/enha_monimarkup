@@ -1,0 +1,47 @@
+[[팝픈뮤직]]에 수록된 악곡.
+
+[[목차]]
+== Tir na n'Og ==
+{{{#!html
+<object style="height: 360px; width: 480px"><param name="movie" value="http://www.youtube.com/v/V5XaW0EfnLs?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/V5XaW0EfnLs?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="480" height="360"></object>}}}
+
+팝픈뮤직 8 OST에 실린 롱 버전
+
+{{{#!HTML
+<iframe width="480" height="360" src="http://www.youtube.com/embed/JDzQUeEXSNo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|北欧の風にふかれ今、魂のメロディーが呼び覚まされる。
+북유럽의 바람에 휘날려 지금, 영혼의 멜로디가 불러 일으켜진다.|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| [[wiki:"팝픈뮤직/역사#s-1.8" 팝픈뮤직 8]] || JIG[[br]]지그 || Tir na n'Og || [[wiki:"무라이 세이야" WORLD SEQUENCE]] || Robin & Cook[[br]]로빈 & 쿡 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 110 || 43단계 || {{{#blue 8}}} || {{{#green 16}}} || {{{#orange 20}}} || {{{#red 28}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 22}}} || {{{#orange 26}}} || {{{#red 34}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+[[무라이 세이야]] 작곡의 켈트족 풍미의 악곡으로 특유의 아름답고 유려한 음색으로 꽤 많은 시간이 지난 현재까지도 명곡으로 꼽히고 있는 작품이다.
+
+원곡의 난이도는 팝픈뮤직 내에서도 비교적 낮은 레벨로 초반과 후반의 [[계단]] 부분 의외에는 별 어려움이 없는 곡이나….
+
+== Tir na n'Og(Europa GT Remix) ==
+{{{#!html
+<object style="height: 360px; width: 480px"><param name="movie" value="http://www.youtube.com/v/DnrHb02HB8Y?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/DnrHb02HB8Y?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="480" height="360"></object>}}}
+
+{{|北欧メタルの風にふかれ、魂のメロディーは今一度蘇る。
+북유럽 메탈의 바람에 휘날려, 영혼의 멜로디가 다시 한 번 소생한다.|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| [[wiki:"팝픈뮤직/역사#s-1.16" 팝픈뮤직 16 PARTY♪]] || JIG REMIX[[br]]지그 리믹스 || Tir na n'Og(Europa GT Remix) || inOak || [[MZD]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 220 || 43단계 || {{{#blue 14}}} || {{{#green 23}}} || {{{#orange 29}}} || {{{#red 37}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 29}}} || {{{#orange 35}}} || {{{#red 43}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+16 파티에서 mizuno에 의해서 기타 밴드풍으로 리믹스 되면서 난이도가 전체적으로 올라갔다.
+특히 EX 패턴에서는 끝나는 부분에서 기나긴 이중계단이 덮쳐오기 때문에 37 중에서는 꽤 난이도가 높다고 평가되는 곡. 16비트가 아니라 8비트이기 때문에 다소 빠른 동시치기라고 생각하고 임하는 것이 좋다. 또한 하이퍼도 29치고는 만만치 않은 계단 부분이 있다.
+
+여담으로, 명의인 inOak은 mizuno가 속한 유닛인 Akino의 [[애너그램]]인데, 곡이 나왔을 당시에는 [[NAOKI]]가 리믹스한 줄 알았던 사람들도 있었다고 한다(…).

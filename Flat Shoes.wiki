@@ -1,0 +1,75 @@
+[[목차]]
+
+= [[오투잼 U]]의 수록곡 = 
+
+[[youtube(Apm46VrBGnM)]]
+
+4Key Hard Perfect Play 영상
+Player : 류별
+
+|||||||| [[오투잼 U]] ||
+|| 발매일 |||||| 2014.03.13 ||
+|| 난이도 || 2Key || 4Key || 5Key ||
+|| EZ || 05 || 06 || 06 ||
+|| NM || 08 || 13 || 13 ||
+|| HD || 12 || 20 || 20 ||
+|| 가격 |||||| 3P / ~~300P~~[* 구매시 차후 업데이트로 [[FRANTIC☆ARCADE]] 지급] NO SALE ||
+
+하드가 레벨 20답지않은~~물렙~~ 쉬운 패턴으로
+초보자들이 쉽게 플레이 할 수 있는 곡 이다.
+변속도 없어서 무난하게 플레이가 가능한 편.
+= [[EZ2AC]]의 수록곡 =
+
+
+|| 장르 |||||||| Techno Pop[* 서클링크 쪽의 표기.] ||
+|| 곡명 |||||||| Flat Shoes ||
+|| 작곡 |||||||| HiTaZ ||
+|| 작사, 보컬 |||||||| iLee ||
+|| 배경 |||||||| (불명) ||
+|| 최초 수록버전 |||||||| [[EZ2AC : EVOLVE]] ||
+|| BPM |||||||| 140 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EVOLVE]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6 }}} || {{{#red 10 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 4 }}} || {{{#red 13 }}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 1}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2AC/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+== 개요 ==
+||||Cradle Edge 2집 앨범 목록||
+||트랙||타이틀||
+||01||Minimalism Color ||
+||02||'''flat shoes''' ||
+||03||[[May%20I%20Come%20In%3F|May I Come In?]] ||
+||04||[[Venn Diagram|Venn diagram -interlude-]] ||
+||05||[[mello mello]] ||
+||06||[Bluesy] ||
+
+Cradle Edge 2집 May I come in?의 2번째 수록곡. 본래는 banami가 보컬을 맡은 버전으로 [[민트쿠키]]의 앨범인 RE:mint에 수록될 예정이었지만, 앨범의 발매가 취소되고 banami마저 [[시드 사운드]]에서 탈퇴하면서 현재의 모습으로 바뀌었다.
+
+== 패턴 ==
+=== 5K ONLY ===
+
+=== 5K RUBY ===
+
+=== 5K STANDARD ===
+
+=== 7K STANDARD ===
+
+=== 10K MANIAC ===
+
+=== 14K MANIAC ===
+
+=== EZ2CATCH ===
+
+=== TURNTABLE ===
+1.2a 기준으로 난이도가 1로 잘못 표기된 문제가 있다.
+
+
+

@@ -1,0 +1,219 @@
+ * 이 항목은 [[아이작/아이템]]으로 검색해도 들어올 수 있습니다.
+
+ * 상위 항목: [[더 바인딩 오브 아이작]]
+ * 연결 항목: [[더 바인딩 오브 아이작: 리버스/아이템]]
+ * 아래 이미지 중 몇 가지는 사람에 따라 혐오스러울 수 있으니 주의할 것.[* 그림체가 귀여운 편이라 엄청 혐오스럽다고 하긴 어려워도 [[고어]]한 아이템이 있다.] ~~어차피 다 아이작 하는 사람들만 볼텐데...~~
+ * 오리지널 아이템이 확장팩 능력치로 적혀 있지 않은 것 같다. 참고할 시 주의할 것.[* 예를 들어 Wiggle Worm은 연사속도가 확장팩에서는 0.4인데 오리지널에서는 1이였기 때문에 연사속도가 1로 적혀있다.]
+ * 리버스에서는 아이템의 일부가 오리지널 아이템에서 변경[* 예로 Wiggle Worm은 오리지널에서 수동 아이템이였으나 리버스로 오면서 장신구화되었다.]되거나 삭제되었다.
+ * 오리지널에서 '''{{{#red Rare}}}''' 등급[* 이 아이템들은 주로 언커먼급의 아이템들로 Rare 아이템의 획득 개수에 따라 다른 Rare 아이템이 등장하지 않고 리롤된다. 리버스와는 달리 2개만 먹어도 더 이상 찾기가 힘들 정도.], 리버스에서 '''{{{#orange Special}}}''' 등급[* 이 아이템들은 매우 뛰어난 성능을 가지고 있고, Special 아이템의 '''등장''' 개수에 따라 확률적으로 다른 Special 아이템이 등장하지 않고 리롤된다.]으로 지정된 아이템은 명칭에 색상을 넣어 표기한다.
+ * 아이템 그림 아래에는 어느 방에서 나타나는지(= 어느 배열에 있는지) 표시되어있다. 오리지널/확장팩과 리버스에서 등장하는 방의 배열이 다른 경우 리버스에서의 등장 배열을 아랫줄에 표시한다. 별다른 표기가 없으면 오리지널, 리버스 모두 보물 방에서만 등장한다.[* 오리지널의 경우 저주 방은 현재 층의 악마 방/천사 방의 배열을 따른다.][* 오리지널의 경우 책방 배열이 존재하지 않는다. 또한 리버스의 경우 거지 배열이 존재하나, 거지 배열의 방이 없다. 이 때문에 해당 아이템을 D6로 돌리면 보물 방 배열의 아이템이 나온다.][* 리버스의 경우 황금 상자나 돌상자는 금고 방 배열을 따른다.][* 악마 방(숫자)는 필요한 최대 체력의 개수를 의미한다. 소울 하트는 모든 아이템이 3개를 요구한다.][* 리버스의 경우 도전 방, 보스 도전 방, 보스 러시 배열이 존재하나 세 방 모두 보물 방 배열을 쓰기 때문에 실제로는 사용되지 않는 [[더미 데이터]]로 남게 되었다. 배열 간섭(예를 들어 Fate와 Pyro) 역시 사라진 것으로 보인다. 확인 후 [[수정바람]]]
+ * 오리지널의 경우 Luck 스탯을 사용하는 아이템이 Tough Love 하나 뿐이였지만 리버스에서 엄청나게 늘었다. 아이템마다 다르지만 발동 확률은 1/(n-Luck)이고 Luck이 n 이상일 때 항상 발동된다.
+ * [[http://blog.naver.com/to1992/70159719456 자세한 아이템 설명]]
+ 
+[[목차]]
+
+=== 그림으로 보는 목록 ===
+그림을 클릭하면 항목으로 이동된다. 바로 설명을 보고 싶다면 [[더 바인딩 오브 아이작/아이템#s-2|여기]]를 클릭. ~~엄청난 노력이다~~
+
+==== 능동 아이템 (Activated Items;플레이어가 직접 사용하는 아이템) ====
+||<tablewidth=100%><width=12.5%> [[더 바인딩 오브 아이작/아이템#AnarchistCookbook|attachment:TBOI_Anarchist_cookbook.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#TheBean|attachment:TBOI_Bean.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#TheBible|attachment:TBOI_Bible.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#BobsRottenHead|attachment:TBOI_Bobs_rotten_head.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#TheBookOfBelial|attachment:TBOI_Book_of_belial.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#BookOfRevelations|attachment:TBOI_Book_of_revelations.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#BookOfShadows|attachment:TBOI_Book_of_shadows.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#TheBookOfSin|attachment:TBOI_Book_of_sin.png]] ||
+## ▼2열
+|| [[더 바인딩 오브 아이작/아이템#DeadSeaScrolls|attachment:TBOI_Dead_sea_scrolls.png]] || [[더 바인딩 오브 아이작/아이템#DeckOfCards|attachment:TBOI_Deck_of_cards.png]] || [[더 바인딩 오브 아이작/아이템#TheDice|attachment:TBOI_Dice.png]] || [[더 바인딩 오브 아이작/아이템#DoctorsRemote|attachment:TBOI_Doctors_remote.png]] || [[더 바인딩 오브 아이작/아이템#ForgetMeNow|attachment:TBOI_Forget_me_now.png]] || [[더 바인딩 오브 아이작/아이템#TheGamekid|attachment:TBOI_Gamekid.png]] || [[더 바인딩 오브 아이작/아이템#TheHourglass|attachment:TBOI_Hourglass.png]] || [[더 바인딩 오브 아이작/아이템#Kamikaze!|attachment:TBOI_Kamikaze.png]] ||
+## ▼3열
+|| [[더 바인딩 오브 아이작/아이템#LemonMishap|attachment:TBOI_Lemon_mishap.png]] || [[더 바인딩 오브 아이작/아이템#MomsBottleofPills|attachment:TBOI_Moms_bottle_of_pills.png]] || [[더 바인딩 오브 아이작/아이템#MomsBra|attachment:TBOI_Moms_bra.png]] || [[더 바인딩 오브 아이작/아이템#MomsPad|attachment:TBOI_Moms_pad.png]] || [[더 바인딩 오브 아이작/아이템#MonsterManuel|attachment:TBOI_Monster_manuel.png]] || [[더 바인딩 오브 아이작/아이템#MonstrosTooth|attachment:TBOI_Monstros_tooth.png]] || [[더 바인딩 오브 아이작/아이템#Mr.Boom|attachment:TBOI_Mr_boom.png]] || [[더 바인딩 오브 아이작/아이템#MyLittleUnicorn|attachment:TBOI_My_little_unicorn.png]] ||
+## ▼4열
+|| [[더 바인딩 오브 아이작/아이템#TheNail|attachment:TBOI_Nail.png]] || [[더 바인딩 오브 아이작/아이템#TheNecronomicon|attachment:TBOI_Necronomicon.png]] || [[더 바인딩 오브 아이작/아이템#ThePinkingShears|attachment:TBOI_Pinking_shears.png]] || [[더 바인딩 오브 아이작/아이템#APony|attachment:TBOI_Pony.png]] || [[더 바인딩 오브 아이작/아이템#ThePoop|attachment:TBOI_Poop.png]] || [[더 바인딩 오브 아이작/아이템#RazorBlade|attachment:TBOI_Razor_blade.png]] || [[더 바인딩 오브 아이작/아이템#ShoopDaWhoop!|attachment:TBOI_Shoop_da_whoop.png]] || [[더 바인딩 오브 아이작/아이템#TammysHead|attachment:TBOI_Tammys_head.png]] ||
+## ▼5열
+|| [[더 바인딩 오브 아이작/아이템#Teleport!|attachment:TBOI_Teleport.png]] || [[더 바인딩 오브 아이작/아이템#WeNeedToGoDeeper|attachment:TBOI_We_need_to_go_deeper.png]] || [[더 바인딩 오브 아이작/아이템#YumHeart|attachment:TBOI_Yum_heart.png]] || [[더 바인딩 오브 아이작/아이템#BestFriend|attachment:/Best_Friend_Ingame.png]] || [[더 바인딩 오브 아이작/아이템#BloodRights|attachment:/Blood_Rights_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheCandle|attachment:/The_Candle_Icon.png]] || [[더 바인딩 오브 아이작/아이템#CracktheSky|attachment:/Crack_The_Sky_Icon.png]] || [[더 바인딩 오브 아이작/아이템#CrystalBall|attachment:/Crystal_Ball_Icon.png]] ||
+## ▼6열
+|| [[더 바인딩 오브 아이작/아이템#D20|attachment:/D_20.png]] || [[더 바인딩 오브 아이작/아이템#DadsKey|attachment:/Dads_Key_Icon.png]] || [[더 바인딩 오브 아이작/아이템#GuppysHead|attachment:/Guppys_Head_Icon.png]] || [[더 바인딩 오브 아이작/아이템#GuppysPaw|attachment:/Guppys_Paw_Icon.png]] || [[더 바인딩 오브 아이작/아이템#IVBag|attachment:/IV_Bag_Icon.png]] || [[더 바인딩 오브 아이작/아이템#NotchedAxe|attachment:/Notched_Axe_Icon.png]] || [[더 바인딩 오브 아이작/아이템#PrayerCard|attachment:/Prayer_Card_Icon.png]] || [[더 바인딩 오브 아이작/아이템#PortableSlot|attachment:/Portable_Slot_Icon.png]] ||
+## ▼7열
+|| [[더 바인딩 오브 아이작/아이템#RemoteDetonator|attachment:/Remote_Detonator_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SpiderButt|attachment:/Spider_Butt_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TelepathyforDummies|attachment:/Telepathy_For_Dummies_Icon.png]] || [[더 바인딩 오브 아이작/아이템#WhitePony|attachment:/White_Pony_Icon.png]] ||
+
+## ▲▲▲능동 아이템 길잡이▲▲▲
+## ▼▼▼자동 아이템 길잡이▼▼▼
+==== 자동 아이템 (Passives) ====
+
+||<tablewidth=100%><width=12.5%> [[더 바인딩 오브 아이작/아이템#1UP!|attachment:/1_UP_Icon.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#<3|attachment:/Less_Than_Three_Icon.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#ADollar|attachment:/A_Dollar_Icon.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#AQuarter|attachment:/A_Quarter_Icon.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#BloodoftheMartyr|attachment:/Blood_Of_The_Martyr_Icon.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#Boom!|attachment:/Boom_Icon.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#Breakfast|attachment:/Breakfast_Icon.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#BrotherBobby|attachment:/Brother_Bobby_Icon.png]] ||
+## ▼2열
+|| [[더 바인딩 오브 아이작/아이템#CharmoftheVampire|attachment:/Charm_Of_The_Vampire_Icon.png]] || [[더 바인딩 오브 아이작/아이템#ChocolateMilk|attachment:/Chocolate_Milk_Icon.png]] || [[더 바인딩 오브 아이작/아이템#CubeofMeat|attachment:/Cube_Of_Meat_Icon.png]] || [[더 바인딩 오브 아이작/아이템#CupidsArrow|attachment:/Cupids_Arrow_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Dessert|attachment:/Dessert_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Dinner|attachment:/Dinner_Icon.png]] || [[더 바인딩 오브 아이작/아이템#DistantAdmiration|attachment:/Distant_Admiration_Icon.png]] || [[더 바인딩 오브 아이작/아이템#DrFetus|attachment:/Dr_Fetus_Icon.png]] ||
+## ▼3열
+|| [[더 바인딩 오브 아이작/아이템#DeadCat|attachment:/Dead_Cat_Icon.png]] || [[더 바인딩 오브 아이작/아이템#GrowthHormones|attachment:/Growth_Hormones_Icon.png]] || [[더 바인딩 오브 아이작/아이템#HaloofFlies|attachment:/Halo_Of_Flies_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Ladder|attachment:/The_Ladder_Icon.png]] || [[더 바인딩 오브 아이작/아이템#LittleC.H.A.D.|attachment:/Little_CHAD_Icon.png]] || [[더 바인딩 오브 아이작/아이템#LittleChubby|attachment:/Little_Chubby_Icon.png]] || [[더 바인딩 오브 아이작/아이템#LittleGish|attachment:/Little_Gish_Icon.png]] || [[더 바인딩 오브 아이작/아이템#LittleSteve|attachment:/Little_Steve_Icon.png]] ||
+## ▼4열
+|| [[더 바인딩 오브 아이작/아이템#LokisHorns|attachment:/Lokis_Horns_Icon.png]] || [[더 바인딩 오브 아이작/아이템#LordofthePit|attachment:/Lord_Of_The_Pit_Icon.png]] || [[더 바인딩 오브 아이작/아이템#LuckyFoot|attachment:/Lucky_Foot_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Lunch|attachment:/Lunch_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MagicMushroom|attachment:/Magic_Mushroom_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Magneto|attachment:/Magneto_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MaxsHead|attachment:/Maxs_Head_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MiniMush|attachment:/Mini_Mushroom_Icon.png]] ||
+## ▼5열
+|| [[더 바인딩 오브 아이작/아이템#Momscontacts|attachment:/Moms_Contacts_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Momseye|attachment:/Moms_Eye_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MomsHeels|attachment:/Moms_Heels_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MomsLipstick|attachment:/Moms_Lipstick_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MomsUnderwear|attachment:/Moms_Underwear_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Money=Power|attachment:/Money_Equals_Power_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Mr.Mega|attachment:/Mr_Mega_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MyReflection|attachment:/My_Reflection_Icon.png]] ||
+## ▼6열
+|| [[더 바인딩 오브 아이작/아이템#NumberOne|attachment:/Number_One_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Parasite|attachment:/The_Parasite_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Pentagram|attachment:/Pentagram_Icon.png]] || [[더 바인딩 오브 아이작/아이템#PHD|attachment:/PHD_Icon.png]] || [[더 바인딩 오브 아이작/아이템#RawLiver|attachment:/Raw_Liver_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Robo-Baby|attachment:/Robo-Baby_Icon.png]] || [[더 바인딩 오브 아이작/아이템#RoidRage|attachment:/Roid_Rage_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Rosary|attachment:/Rosary_Icon.png]] ||
+## ▼7열
+|| [[더 바인딩 오브 아이작/아이템#RottenMeat|attachment:/Rotten_Meat_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SackOfPennies|attachment:/Sack_Of_Pennies_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SisterMaggy|attachment:/Sister_Maggy_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Skatole|attachment:/Skatatole_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SkeletonKey|attachment:/Skeleton_Key_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheSmallRock|attachment:/Small_Rock_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SpelunkerHat|attachment:/Spelunker_Hat_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SpiderBite|attachment:/Spiders_Bite_Icon.png]] ||
+## ▼8열
+|| [[더 바인딩 오브 아이작/아이템#SpoonBender|attachment:/Spoon_Bender_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SteamSale|attachment:/Steam_Sale_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Steven|attachment:/Steven_Icon_1.png]] || [[더 바인딩 오브 아이작/아이템#SuperBandage|attachment:/Super_Bandage_Icon_1.png]] || [[더 바인딩 오브 아이작/아이템#Technology|attachment:/Technology_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheBattery|attachment:/The_Battery_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheBelt|attachment:/The_Belt_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheCommonCold|attachment:/The_Common_Cold_Icon.png]] ||
+## ▼9열
+|| [[더 바인딩 오브 아이작/아이템#TheCompass|attachment:/The_Compass_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheHalo|attachment:/The_Halo_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheInnerEye|attachment:/The_Inner_Eye_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheMark|attachment:/The_Mark_Icon.png]] || [[더 바인딩 오브 아이작/아이템#ThePact|attachment:/The_Pact_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheRelic|attachment:/The_Relic_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheSadOnion|attachment:/The_Sad_Onion_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheVirus|attachment:/The_Virus_Icon.png]] ||
+## ▼10열
+|| [[더 바인딩 오브 아이작/아이템#TheWafer|attachment:/The_Wafer_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Transcendence|attachment:/Transcendence_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TreasureMap|attachment:/Treasure_Map_Icon.png]] || [[더 바인딩 오브 아이작/아이템#WiggleWorm|attachment:/Wiggle_Worm_Icon.png]] || [[더 바인딩 오브 아이작/아이템#WireCoatHanger|attachment:/Wire_Coat_Hanger_Icon.png]] || [[더 바인딩 오브 아이작/아이템#WoodenSpoon|attachment:/Wooden_Spoon_Icon.png]] || [[더 바인딩 오브 아이작/아이템#X-RayVision|attachment:/XRay-Vision_Icon.png]] || [[더 바인딩 오브 아이작/아이템#9Volt|attachment:/9_Volt_Icon.png]] ||
+## ▼11열
+|| [[더 바인딩 오브 아이작/아이템#BloodBag|attachment:/Blood_Bag_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Bobby-Bomb|attachment:/Bobby-Bomb_Icon.png]] || [[더 바인딩 오브 아이작/아이템#BombBag|attachment:/Bomb_Bag_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Brimstone|attachment:/Brimstone_Icon.png]] || [[더 바인딩 오브 아이작/아이템#BucketofLard|attachment:/Bucket_Of_Lard_Icon.png]] || [[더 바인딩 오브 아이작/아이템#DeadBird|attachment:/Dead_Bird_Icon.png]] || [[더 바인딩 오브 아이작/아이템#DemonBaby|attachment:/Demon_Baby_Icon.png]] || [[더 바인딩 오브 아이작/아이템#ForeverAlone|attachment:/Forever_Alone_Icon.png]] ||
+## ▼12열
+|| [[더 바인딩 오브 아이작/아이템#GuardianAngel|attachment:/Guardian_Angel_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MomsKnife|attachment:/Moms_Knife_Icon.png]] || [[더 바인딩 오브 아이작/아이템#OddMushroom|attachment:/Odd_Mushroom_(Thin)_Icon.png]] || [[더 바인딩 오브 아이작/아이템#OddMushroom|attachment:/Odd_Mushroom_(Large)_Icon.png]] || [[더 바인딩 오브 아이작/아이템#OuijaBoard|attachment:/Ouija_Board_Icon.png]] || [[더 바인딩 오브 아이작/아이템#WhoreofBabylon|attachment:/Whore_Of_Babylon_Icon.png]] || [[더 바인딩 오브 아이작/아이템#ALumpOfCoal|attachment:/A_Lump_Of_Coal_Icon.png]] || [[더 바인딩 오브 아이작/아이템#3DollarBill|attachment:/3_Dollar_Bill_Icon.png]] ||
+## ▼13열
+|| [[더 바인딩 오브 아이작/아이템#Abel|attachment:/Abel_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheBlackBean|attachment:/The_Black_Bean_Icon.png]] || [[더 바인딩 오브 아이작/아이템#BloodyLust|attachment:/Bloody_Lust_Icon.png]] || [[더 바인딩 오브 아이작/아이템#BobsCurse|attachment:/Bobs_Curse_Icon.png]] || [[더 바인딩 오브 아이작/아이템#BumFriend|attachment:/Bumfriend.png]] || [[더 바인딩 오브 아이작/아이템#Box|attachment:/Box_Icon.png]] || [[더 바인딩 오브 아이작/아이템#ChemicalPeel|attachment:/Chemical_Peel_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Cat-O-Nine-Tails|attachment:/Cat-o-nine-tails.png]] ||
+## ▼14열
+|| [[더 바인딩 오브 아이작/아이템#CelticCross|attachment:/Celtic_Cross_Icon.png]] || [[더 바인딩 오브 아이작/아이템#DaddyLonglegs|attachment:/Eggsack.png]] || [[더 바인딩 오브 아이작/아이템#DeadDove|attachment:/Dead_Dove_Icon.png]] || [[더 바인딩 오브 아이작/아이템#EpicFetus|attachment:/Epicfetus.png]] || [[더 바인딩 오브 아이작/아이템#Fate|attachment:/fate.png]] || [[더 바인딩 오브 아이작/아이템#GhostBaby|attachment:/Ghost_Baby_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Habit|attachment:/Habit_Icon.png]] || [[더 바인딩 오브 아이작/아이템#GuppysHairBall|attachment:/Guppys_Hair_Ball_Icon.png]] ||
+## ▼15열
+|| [[더 바인딩 오브 아이작/아이템#GuppysTail|attachment:/Guppystail.png]] || [[더 바인딩 오브 아이작/아이템#HolyWater|attachment:/Holywater.png]] || [[더 바인딩 오브 아이작/아이템#IPECAC|attachment:/IPECAC_Icon.png]] || [[더 바인딩 오브 아이작/아이템#JesusJuice|attachment:/Jesus_Juice_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Magic8Ball|attachment:/Magic8ball.png]] || [[더 바인딩 오브 아이작/아이템#MomsCoinPurse|attachment:/Moms_Coin_Purse_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MutantSpider|attachment:/Mutant_Spider_Icon.png]] || [[더 바인딩 오브 아이작/아이템#PageantBoy|attachment:/Pageant_Boy_Icon.png]] ||
+## ▼16열
+|| [[더 바인딩 오브 아이작/아이템#ThePeeper|attachment:/The_Peeper_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Polyphemus|attachment:/Polyphemus_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SpeedBall|attachment:/Speed_Ball_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Technology2|attachment:/Technology_2_Icon.png]] || [[더 바인딩 오브 아이작/아이템#TheMulligan|attachment:/The_Mulligan_Icon.png]] || [[더 바인딩 오브 아이작/아이템#ToughLove|attachment:/Tough_Love_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Toothpicks|attachment:/Toothpicks_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Ankh|attachment:/Ankh.png]] ||
+## ▼17열
+|| [[더 바인딩 오브 아이작/아이템#HarlequinBaby|attachment:/Harlequinbaby.png]] || [[더 바인딩 오브 아이작/아이템#HolGrail|attachment:/Holy_Grail_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Infestation|attachment:/Infestation_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Meat|attachment:/MEAT_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Mitre|attachment:/Mitre_Icon.png]] || [[더 바인딩 오브 아이작/아이템#MomsPurse|attachment:/Moms_Purse_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Pyro|attachment:/Pyro_Icon.png]] || [[더 바인딩 오브 아이작/아이템#RainbowBaby|attachment:/Rainbow_Baby_Icon.png]] ||
+## ▼18열
+|| [[더 바인딩 오브 아이작/아이템#SacredHeart|attachment:/Sacred_Heart_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SacrificialDagger|attachment:/Sacrificialdagger.png]] || [[더 바인딩 오브 아이작/아이템#Scapular|attachment:/Scapular_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SMBSuperFan|attachment:/SMB_Super_Fan_Icon.png]] || [[더 바인딩 오브 아이작/아이템#SpiritoftheNight|attachment:/Spirit_Of_The_Night_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Squeezy|attachment:/Squeezy_Icon.png]] || [[더 바인딩 오브 아이작/아이템#StemCells|attachment:/Stem_Cells_Icon.png]] || [[더 바인딩 오브 아이작/아이템#Stigmata|attachment:/Stigmata_Icon.png]] ||
+## ▲▲▲자동 아이템 길잡이▲▲▲
+## ▼▼▼장신구 길잡이▼▼▼
+==== 장신구 (Trinkets) ====
+||<tablewidth=100%><width=12.5%> [[더 바인딩 오브 아이작/아이템#AceofSpades|attachment:/Aceofspades.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#BloodyPenny|attachment:/Bloodypenny.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#BurntPenny|attachment:/Burntpenny.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#Cancer|attachment:/Cancer.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#ChildsHeart|attachment:/Childsheart.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#CounterfeitPenny|attachment:/Counterfeitpenny.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#CursedSkull|attachment:/Cursedskull.png]] ||<width=12.5%> [[더 바인딩 오브 아이작/아이템#CurvedHorn|attachment:/Curvedhorn.png]] ||
+## ▼2열
+|| [[더 바인딩 오브 아이작/아이템#FishHead|attachment:/Fishhead.png]] || [[더 바인딩 오브 아이작/아이템#FlatPenny|attachment:/Flattenedpenny.png]] || [[더 바인딩 오브 아이작/아이템#GoatHoof|attachment:/Goathoof.png]] || [[더 바인딩 오브 아이작/아이템#IsaacsFork|attachment:/Isaacsfork.png]] || [[더 바인딩 오브 아이작/아이템#LibertyCap|attachment:/Libertycaphirez_1.png]] || [[더 바인딩 오브 아이작/아이템#LuckyToe|attachment:/Luckytoe_1.png]] || [[더 바인딩 오브 아이작/아이템#Matchstick|attachment:/Matchstick.png]] || [[더 바인딩 오브 아이작/아이템#AMissingPage|attachment:/Amissingpage.png]] ||
+## ▼3열
+|| [[더 바인딩 오브 아이작/아이템#MomsPearl|attachment:/Momspearl.png]] || [[더 바인딩 오브 아이작/아이템#PinkyEye|attachment:/Pinkyeye.png]] || [[더 바인딩 오브 아이작/아이템#ThePolaroid|attachment:/Thepolaroid.png]] || [[더 바인딩 오브 아이작/아이템#PushPin|attachment:/Pushpinhirez.png]] || [[더 바인딩 오브 아이작/아이템#RedPatch|attachment:/Redpatch.png]] || [[더 바인딩 오브 아이작/아이템#RustedKey|attachment:/Rustedkey.png]] || [[더 바인딩 오브 아이작/아이템#SafetyCap|attachment:/Safetycap.png]] || [[더 바인딩 오브 아이작/아이템#Tick|attachment:/Tickhirez.png]] ||
+## ▼4열
+|| [[더 바인딩 오브 아이작/아이템#UmbilicalCord|attachment:/Umbilicalcord.png]] || [[더 바인딩 오브 아이작/아이템#%3F%3F%3F%27sSoul|attachment:/Shape675.png]] || [[더 바인딩 오브 아이작/아이템#CainEye|attachment:/Shape677.png]] || [[더 바인딩 오브 아이작/아이템#EvesBirdFoot|attachment:/Shape678.png]] || [[더 바인딩 오브 아이작/아이템#IsaacsHead|attachment:/Shape672.png]] || [[더 바인딩 오브 아이작/아이템#JudasTongue|attachment:/Shape674_1.png]] || [[더 바인딩 오브 아이작/아이템#MaggysFaith|attachment:/Shape673.png]] || [[더 바인딩 오브 아이작/아이템#SamsonsLock|attachment:/Shape676.png]] ||
+## ▼5열
+|| [[더 바인딩 오브 아이작/아이템#TheLeftHand|attachment:/Shape679_1.png]] ||
+## ▲▲▲장신구 길잡이▲▲▲
+## ▼▼▼능동 아이템 설명표▼▼▼
+=== 능동 아이템 ===
+능동 아이템들은 스페이스바를 눌러 사용하며 사용한 뒤엔 매 전투가 끝날 때마다 일정량이 충전되나 특수한 경우 시간이 지나면 차기도 하고 피격 시마다 충전되기도 한다.
+
+||<width=15%><|2> '''아이템''' 
+||<width=15%><|2> '''필요 충전량''' 
+||<width=60%> '''설명''' 
+||<width=10%><|2> '''여는 조건''' ||
+||<bgcolor=silver> '''[[더 바인딩 오브 아이작: 리버스|리버스]] 변경 사항''' ||
+## ◆
+|| [[anchor(AnarchistCookbook)]] '''[아나키스트|Anarchist] Cookbook''' [[br]] attachment:TBOI_Anarchist_cookbook.png [[br]]보물 방, 책방 || 3 || 해당 방 안의 무작위 위치에 트롤 폭탄 6개를 생성한다. 딱히 좋은 아이템은 아니지만 돌을 부수거나 비밀 방을 찾는 데에 쓸 수 있다.[[br]]Magneto를 먹은 후 사용하면 생성된 폭탄이 캐릭터에게 몰려오니  주의. || - ||
+## ◆
+|| [[anchor(TheBean)]] '''The Bean'''[[br]] attachment:TBOI_Bean.png || 1 || 캐릭터가 방귀를 뀐다. 알약 Bad Gas와 동일한 효과.[* 데미지는 처음 터질때 5, 그후 3.5씩 10번 들어가 총 40이다.]  || 똥을 50개 부순다. ||
+## ◆
+||<|2> [[anchor(TheBible)]] '''[[성경|The Bible]]'''[[br]] attachment:TBOI_Bible.png [[br]]천사 방[[br]](천사 방, '''상점, 책방''') ||<|2> 6 ||<tablealign="center"><:> attachment:/Isaac_Fate_2.png [[br]]캐릭터가 천사의 모습으로 변하며 해당 방 안에서 비행 효과를 얻는다.[[br]] 보스 Mom과 Mom's Heart, It Lives!에의 전투에서 사용하여 즉사시킬 수 있다.  하지만 보스 Satan이나 Isaac에게 사용하면 캐릭터가 즉사한다.[* 그러나 The Wafer을 갖고있다면 사탄에게 성경을 써도 하트 반 칸의 데미지만 받는다. 단, 소울 하트는 전부 깎인다.] ||<|2> - ||
+||<bgcolor=silver> Satan, Isaac에게 사용할 때 캐릭터를 즉사시킨다. 이 때 Wafer의 효과도 무력화된다. '''심지어 Dead Cat, 1up 등 목숨 추가 아이템을 전부 무효화하고 바로 유서행이므로 절대 저 상황에선 쓰지 말자.''' 다만 예외적으로 Mega Satan에게 써도 아무 효과가 없다. ||
+## ◆
+|| [[anchor(BobsRottenHead)]] '''Bob's Rotten Head'''[[br]] attachment:TBOI_Bobs_rotten_head.png [[br]]비밀 방[[br]](보물 방, 금고 방) || 3 || attachment:/Bobsrottenhead_missile.png [[br]] ~~[[매생이]]~~ 폭탄을 머리 위에 든 후 입력한 공격방향으로 던진다. 폭탄에 공격당한 적은 강력한 데미지를 입으며 중독에 걸린다.[* 데미지는 처음 터질때 50+스텟데미지가 들어가고, 7씩 15번 들어가니 총 158.5의 데미지이다.][* 참고로, 머리에 직격하면 자신의 현재 공격력만큼의 데미지가 추가로 들어간다.(Brimstone과 같은 공격력이 아닌, 눈물일때의 데미지이다. 그러므로 기본 공격이 눈물 상태가 아닐때도 Magic Mushroom과 같은 눈물데미지 1.5배 효과와 캐릭터별 데미지 공식이 적용된다.)] 벽이나 다른 오브젝트에 닿는 즉시 폭발하므로 주의. My Reflection 아이템을 획득한 상태에서 사용하면 폭탄이 '''캐릭터에게 돌아온다.''' 비밀 방에서 발견하거나 [[더 바인딩 오브 아이작/보스#s-3,1|7대 죄악 미니보스]] 중 Sloth에게서 낮은 확률로 얻을 수 있다. || - ||
+## ◆
+||<|2> [[anchor(TheBookOfBelial)]] '''The Book Of [벨리알|Belial]'''[[br]] attachment:TBOI_Book_of_belial.png [[br]]보물 방, 악마 방(1), 책방, 비밀 방[[br]](악마 방(1), 책방) ||<|2> 3 || attachment:TBOI_Book_of_belial_active.png [[br]] 해당 방 안에서 데미지가 2.95 더해지고, 눈물을 빨간 눈물로 바꾼다.[* 눈물이 빨간색으로 바뀌는건 (Magic Mushroom등의 눈물데미지 1.5배 효과가 적용되지 않은)데미지가 5.5가 넘어섰을때이다. 하지만 Eve 캐릭터가 기본 상태에서 사용했을때의 데미지는 4.83이다. 그런데도 빨간 눈물이 나온다][* Spirit of night을 획득했을땐 반투명한 붉은 눈물로 바뀐다] XV The Devil 타로카드와 동일한 효과.[* 하지만 Devil카드와 중첩 적용되지 않는다. 즉, 한 방에서 두 가지 아이템을 다 사용해도 데미지 증가량은 2.95라는 것.] 또한 소유하고 있을 시 악마 방이 등장할 확률이 25% 증가한다. Judas는 이 아이템을 갖고 시작한다. ||<|2> 보스 Mom's Heart를 처치한다. ||
+||<bgcolor=silver> '''소지한 채로 보스 방을 클리어하면 악마 방/천사 방이 100%확률로 열린다.''' [* 다만 Goat Head와는 달리 보스를 물리친 다음에 이 아이템을 얻었다고 해서 악마 방/천사 방이 열리지는 않는다.] ||
+## ◆
+|| [[anchor(BookOfRevelations)]] '''Book Of Revelations'''[[br]] attachment:TBOI_Book_of_revelations.png [[br]]보물 방, 책방 || 6 || 소울 하트 하나를 얻는다. Habit과 같이 쓰면 효과가 좋다. 더불어 The Wafer를 가지고 있다면 죽을 염려가 없다. 아이템 사용시 그 레벨 보스를 [[더 바인딩 오브 아이작/보스#s-2.8|묵시록의 4기사]]로 바꾼다.[* 10% 확률로 포니 보스가 나올수도 있다.][* 엄마의 발이 보스로 나오는 6스테이지, 심장이 보스로 나오는 8스테이지, 사탄이 보스로 나오는 지옥 스테이지, 아이작이 보스로 나오는 성당 스테이지, ???가 보스로 나오는 The Chest 스테이지는 변하지 않는다.] 소유하고 있을 시 악마 방이 등장할 확률이 35% 증가한다. Sheol에서 사용할 시 버그로 Satan 대신 Headless Horsemen이 나오기도 한다. || 보스 묵시록의 4기사 중 한 마리를 처치한다. || 
+## ◆
+|| [[anchor(BookOfShadows)]] '''Book Of Shadows'''[[br]] attachment:TBOI_Book_of_shadows.png [[br]]보물 방, 책방 || 3 ||<tablealign="center"><:> attachment:TBOI_Book_of_shadows_active.png [[br]] 10초 동안 무적이 되어 모든 데미지를 무효화한다. 이는 현혈 기계를 사용하거나 악마 거지에게 피를 헌납하는 것이나 희생방에서 가시에 올라 상자를 얻는다던지,[* 1프레임마다 판정이 들어가기 때문에 100% 통한다고 보면 된다.] 저주 방에 들어가는 것도 포함된다. 방을 빠져나가면 아이템 효과가 바로 끝난다. Habit과 같이 쓰면 효과가 좋다.[[br]]무적 상태에서도 바이러스의 효과는 적용된다. ??? 캐릭터 플레이 혹은 소울 하트를 이용한 계약 시 악마 방에서 방어막을 발동시키고 계약하면 '''소울 하트의 소모 없이 아이템을 얻을 수 있다'''.|| - ||
+## ◆
+|| [[anchor(TheBookOfSin)]] '''The Book Of Sin'''[[br]] attachment:TBOI_Book_of_sin.png [[br]]보물 방, 악마 방(1), 책방 || 4 || 픽업 아이템, 알약, 타로카드, 열쇠 중 하나를 랜덤으로 생성한다. 확률은 모두 같다. || [[더 바인딩 오브 아이작/보스#s-3.1|7대 죄악 미니보스]]를 모두 처치한다. ||
+## ◆
+||<|2> [[anchor(DeadSeaScrolls)]] '''Dead Sea Scrolls'''[[br]] attachment:TBOI_Dead_sea_scrolls.png [[br]]보물 방[[br]](보물 방, '''천사 방''') ||<|2> '''4'''[* 예전에는 발동된 능동 아이템의 충전 횟수와 같았지만, 패치로 무조건 4회로 바뀌었다. 즉 원래 6회 충전이 필요한 능동 아이템도 4번만에 발동될 수 있단 소리. ~~그게 쉽게 나와야 말이지~~ .] || 임의의 능동 아이템[* Book Of Belial, The Necronomicon, Mr. Boom, Tammy's Head, Mom's Bra ,Kamikaze!, Mom's Pad, Bob's Rotten Head, Teleport!, Yum Heart, Lemon Mishap, Shoop Da Whoop!, Book of Shadows, Wiggle Worm (버그로 인해 그래픽 효과는 없음), Anarchist Cookbook ,The Hourglass ,My Little Unicorn, Book of Revelations, The Nail, We Need To Go Deeper!, Deck of Cards, Monstro's Tooth, The Gamekid, The Book Of Sin, Mom's Bottle of Pills.]의 효과를 발동시킨다.[[br]]The Pinking Shears, Kamikaze! 등의 충전이 필요없는 효과가 발동될 경우 재사용이 가능하다. Monstro's tooth 아이템 효과가 발동될 경우 몬스트로가 적 위로 떨어지지 않고 맵에 그냥 떡하니 나타났다 사라진다. ||<|2> - || 
+||<bgcolor=silver> 충전 횟수가 2회로 바뀌었다. ||
+## ◆
+|| [[anchor(DeckOfCards)]] '''Deck Of Cards'''[[br]] attachment:TBOI_Deck_of_cards.png [[br]]보물 방[[br]](보물 방, '''상점''') || 6 || 임의의 타로카드 중 하나를 뽑는다. ~~[[버서커 소울#s-2.2|드로! XII - 데스!]]~~ || - ||
+## ◆
+||<|2> [[anchor(TheDice)]] '''{{{#orange The Dice}}}'''[[br]] attachment:TBOI_Dice.png ||<|2> 3 ||<tablealign="center"><:> '''평범한 능력치의 아이작을 최고의 캐릭터로 만들어 준 아이템.''' 해당 방 안의 모든 아이템을 그 방 배열의 아이템으로 바꾼다. 픽업 아이템이나 알약, 타로카드에는 적용되지 않으며[* 픽업 아이템, 알약, 타로카드, 상자 등을 바꾸는 것은 D20이라고 따로 있다.] 오로지 능동, 수동 아이템에만 적용된다. 이는 상점[* 단, 상점에서 15원에 살 수 있는 아이템(반값의 경우 7원)만 바꾸어진다.][* 상점에서 Greed, Super Greed를 잡아서 아이템을 드롭하면 그것을 바꾸어 상점 아이템을 획득할 수 있다.]이나 악마 방에서 판매되고 있는 아이템에도 적용된다. 다만 방에 따라 드랍될 수 있는 아이템에는 제한되어있다.[* 이를 아이템 배열이라고 한다. 배열이 1인 경우는 한 번 확인되면 그 아이템은 더이상 나오지 않으며, 2 이상의 경우 그만큼 확인되면 더이상 나오지 않게된다. 하지만 2배열 이상의 아이템은 획득 시 그 배열을 모두 지운다.][* 그 방의 모든 배열을 다 지우게되면 황금방 배열의 아이템이 나오게 된다.][* 참고로, 엄마의 식칼은 게임 시작시에 2/3의 확률로 황금방에 배열, 1/3의 확률로 악마 방에 배열되고, Fate는 비밀 방에 1/2확률로 Pyro가 배열될 경우 동시에 황금 상자에 배열된다. 이와 같이 아이템끼리 서로 배열을 간섭하거나, 게임 시작시에 확률적으로 배열되는 경우도 있다.][[더 바인딩 오브 아이작/보스#s-2,8|묵시록의 4기사]]를 처치한 보스 방에서는 Cube Of Meat만 생성되며 보스 Gish를 처치한 보스 방에서는 Little Gish만 생성되고, Steven을 처치한 보스 방에서는 5/6로 Little Steve가, 1/6로 Steven이 생성된다.[* 황금방에서 Little Steve를 얻은 경우 무조건 Steven이 생성되고, 황금 상자에서 Steven을 획득한 경우 Little Steve가 생성된다. 둘 다 얻을 경우 일반 보스 방 아이템이 생성된다.] 또한 C.H.A.D를 처치한 보스 방에서는 Little C.H.A.D 아이템만이 생성된다.[* 하지만 Little C.H.A.D를 황금방에서 얻으면 Little C.H.A.D가 아닌 일반 보스 방 아이템이 생성된다.]
+
+설명이 길고 실제로도 매우 어렵다. 간략하게 설명하자면 모든 방에는 생성될 수 있는 아이템의 '배열'이 존재하고, The Dice를 사용하면 능동/수동 아이템을 그 방의 남은 배열 아이템 중에서 하나로 랜덤으로 바꾸는 것이다. 만약 그 방의 배열을 전부 지우게 된다면 황금방의 아이템이 생성된다.[* 거지, 빨간 상자, 황금 상자, 색돌에서 생성되는 아이템은 일단 원래 나올 수 있는 아이템이 나온다. 하지만 The Dice를 사용하면 그 방에 배열된 아이템이 생성된다. 만약 그 방의 배열을 다 지워 황금방의 아이템이 나오게 되었을때 황금방의 배열도 모두 지워지게 된다면 UNDEFIND라는 아이템이 등장하게 된다. 하지만 엄밀히 말하자면 아이템이 등장한다고 배열이 지워지는것이 아니다. 배열이 지워진다고 생각하기 쉽지만, 배열은 남아있되 획득한 아이템이 다시 등장하면 리롤하는 것이다.]||<|2> 캐릭터 ???로 보스 It Lives! 혹은 엄마의 심장을 처치한다. ||
+||<bgcolor=silver> ???로 Cathedral 챕터를 클리어해야 언락되게 변경, 이름이 The D6으로 변경, 완충횟수가 6번으로 변경. Lil battery의 등장을 생각하면 적절한 너프일지도? 또한, 악마 방에서 쓸 경우 가격도 해당 아이템의 가격으로 바뀌고, 특정 아이템만 나오는 보스를 물리치고 돌려도 보스 방의 아이템이 나온다.[* 묵시록의 4기사를 처치한 보스 방에서는 Cube Of Meat나 Ball Of Bandages가 나오나 이걸 돌리면 보스 방의 아이템이 나온다. 다른 보스도 마찬가지.][* 유일한 예외는 The Fallen으로, The Fallen을 처치한 후 돌리면 여전히 악마 방 아이템이 나온다.] ||
+## ◆
+||<|2> [[anchor(DoctorsRemote)]] '''Doctor's Remote'''[[br]] attachment:TBOI_Doctors_remote.png ||<|2> 3 || attachment:/Missile_spirits.png [[br]]붉은 색의 타겟 표시 마크가 방의 바닥에 나타난다. 방향키나 마우스로 이 타겟 마크를 조종할 수 있으며 잠시 후 미사일이 타겟 마크 위로 떨어져 폭발을 일으킨다.[* 더 바인딩 오브 아이작의 제작자 Edmund의 전작인 Super Meat Boy의 적인 Dr. Fetus가 사용하던 리모콘의 패러디.] ||<|2> - || 
+||<bgcolor=silver> 조준 시간이 6초로 늘어났으며, 마우스로 조준이 되지 않는다. 빠른 적들을 상대할때 약간 애로사항이 있다. ||
+## ◆
+|| [[anchor(ForgetMeNow)]] '''Forget Me Now'''[[br]] attachment:TBOI_Forget_me_now.png?width=75 [[br]]보물 방, 악마 방(1)[[br]](보물 방, '''비밀 방''') || 1회용 || '''해당 스테이지를 재시작한다'''. 획득했던 아이템은 사라지지 않으나 스테이지의 모든 방 구조, 출현하는 몬스터, 드랍되는 아이템이 모두 재생성된다. 들고 있던 능동 아이템을 내려놓고 이 아이템을 사용하면 들고 있던 능동 아이템을 잃어버린다. 사용하면 사라진다.[* 미드 Arrested Development의 패러디.] 참고로 이 아이템으로 스테이지가 재시작되는건 스테이지 진행 판정으로, 이터널 하트가 있다면 사용 시 이터널 하트를 최대 체력 하나로 바꾼다. 또한 스테이지 시작시에 적용되는 아이템[* Maggy's Faith, Cain's eye 등]이 적용된다. || 캐릭터 '???' 로 보스 Satan을 처치한다. ||
+## ◆
+|| [[anchor(TheGamekid)]] '''The Gamekid'''[[br]] attachment:TBOI_Gamekid.png || 6 || attachment:TBOI_Gamekid_active.png [[br]] 5초동안 이동속도가 0.28 증가하며 무적 상태가 되고 이때 적에게 접촉할 경우 피해를 입히며 지속시간이 끝날 때까지 눈물 공격이 불가능해진다. 무적 상태에서 몬스터를 두 마리 처치할 때마다 체력이 반 칸 회복된다. 무적 상태에서는 적들이 캐릭터를 피해 도망치며 이는 무적 효과가 끝날 때까지 지속된다. 맞아서 잃은 체력을 충당할 수 있어 Habit과의 궁합이 적절하다. 방을 빠져나가면 아이템 효과가 바로 끝난다.[* 아이템의 이름은 닌텐도의 게임보이를 패러디한 것이며 아이템을 사용한 캐릭터의 모습은 팩맨의 패러디.] || 오락실을 10회 방문한다. ||
+## ◆
+|| [[anchor(TheHourglass)]] '''The Hourglass'''[[br]] attachment:TBOI_Hourglass.png || 2 ||<tablealign="center"><:> 해당 방 안의 모든 적들과 적들의 발사체를 느리게 만든다. 지속 시간은 7.5초. || - ||
+## ◆
+||<|2> [[anchor(Kamikaze!)]] '''[[카미카제|Kamikaze]]!'''[[br]] attachment:TBOI_Kamikaze.png ||<|2> 제한 없음 || attachment:/Kamikaze_Isaac_1.png [[br]] attachment:/Kamikaze_ingame.png ﻿[[br]]캐릭터가 있는 위치에 폭발이 일어나며 캐릭터는 체력 한 칸의 피해를 입는다. 물론 주위에 있던 적들도 폭발 데미지를 입는다. 일반적으로 생각하기에는 정말 못 써먹을 아이템 같지만 VII The Chariot 타로카드와 조합해 사용하면 체력을 잃지 않고 강력한 데미지를 입힐 수 있고 참고로 벽에 붙어서, 해당 벽면을 밀면서[* 말그대로 벽에 달라붙은뒤 그 방향으로 계속 이동하려 하면 된다.] 사용하면 자폭 데미지를 입지 않는 버그가 있다. 이를 이용하면 비밀 방 찾기[* 참고로, 이 버그를 이용해 문을 열 때 그 문이 열려 아이작이 움직이게 되면 데미지를 입게 된다. 따라서 문 옆으로 약간 떨어져서 문으로 바로 들어가지지 않게 해야한다.], 강제로 문 열기, 적절한 컨트롤로 데미지 주기 등 꽤나 쓸 만하다(벽에 꼭 붙어서 사용해야 한다. 왼쪽 벽이면 왼쪽 이동키를 누르면서 사용). 참고로 이 아이템을 사용해 입은 데미지는 [[더 바인딩 오브 아이작/도전과제|Basement Boy, Spelunker Boy, Dark Boy, Mamas Boy 도전과제]]에 영향을 주지 않는다. The Wafer 아이템을 획득한 경우 Kamikaze! 아이템의 자폭 데미지 또한 반 칸으로 줄어든다. Gurdy가 보스로 나올 경우 위쪽 벽에 붙어 연속적으로 사용하면 쉽게 이길수있다.  ||<|2> - ||
+||<bgcolor=silver> 더이상 버그를 사용할 수 없다. 체력 소모가 반 칸으로 줄어들었다. 신 아이템 Pyromaniac과 시너지가 엄청나다! ||
+## ◆
+||<|2> [[anchor(LemonMishap)]] '''Lemon Mishap'''[[br]] attachment:TBOI_Lemon_mishap.png ||<|2> 2 || attachment:/Lemon_Mishap_Use_1.png ﻿[[br]]캐릭터의 주위에 노란 웅덩이를 생성한다. 웅덩이 위의 적은 지속적으로 데미지를 입는다. 비행 타입의 적은 이 웅덩이 위에서도 데미지를 입지 않는다. 보스 Peep의 능력과 유사하다. ||<|2> - || 
+||<bgcolor=silver> 지속시간이 꽤 늘어났다. ||
+## ◆
+|| [[anchor(MomsBottleofPills)]] '''Mom's Bottle of Pills'''[[br]] attachment:TBOI_Moms_bottle_of_pills.png [[br]]보물 방[[br]](보물 방, '''상점''') || 6 || 알약 중 하나를 랜덤으로 드랍한다. Lucky Foot 혹은 PHD와 조합하면 매우 유용하다. Cain 캐릭터는 Lucky Foot을 기본적으로 갖고 있으므로 나아가 Cain과도 매우 훌륭한 상성의 아이템. || 헌혈 기계를 20회 사용한다. ||
+## ◆
+|| [[anchor(MomsBra)]] '''Mom's Bra'''[[br]] attachment:TBOI_Moms_bra.png || 5 || attachment:TBOI_Moms_bra_active.png [[br]] 5초동안 적들이 굳으며 캐릭터가 어머니의 브래지어를 머리에 착용한다. ~~[[자 와루도]]!~~ || - ||
+## ◆
+|| [[anchor(MomsPad)]] '''Mom's Pad'''[[br]] attachment:TBOI_Moms_pad.png || 3 || 5초 동안 모든 적이 캐릭터를 피해 뒤로 물러난다. || - ||
+## ◆
+|| [[anchor(MonsterManuel)]] '''Monster Manuel'''[[br]] attachment:TBOI_Monster_manuel.png [[br]]보물 방, 악마 방(1), 책방[[br]](보물 방, 책방) || 4 || 해당 방 안에서 추종자 중 하나를 랜덤으로 소환한다. 열리지 않은 추종자는 소환되지 않으며 방을 빠져나가면 추종자는 사라진다.[* 아이템의 이름과 외형은 TSR의 D&D 몬스터 매뉴얼의 패러디.][* 소환되는 추종자 - 브라더 보비, 미트큐브, 파리배리어, 빨간파리, 시스터 매기, 리틀 처비, 로보 베이비, 리틀 기쉬, 리틀 스티브, 가디언 엔젤, 데몬 베이비, 파란파리] || 캐릭터 Judas로 보스 Satan을 처치한다. ||
+## ◆
+||<|2> [[anchor(MonstrosTooth)]] '''Monstro's Tooth'''[[br]] attachment:TBOI_Monstros_tooth.png ||<|2> 3 || attachment:/Monstros_Tooth_Isaac_1.png [[br]]보스 Monstro가 출현해 랜덤한 적의 머리 위로 떨어진다. Monstro는 데미지를 입힌 이후 다시 점프해 사라진다. Monstro가 낙하할 위치에 서있거나 착지 직후의 Monstro에게 다가가면 캐릭터는 데미지를 입는다. Monstro가 낙하했을 때 Mom's Bra 등의 아이템이나 눈물의 효과를 이용해 Monstro를 정지시키고 데미지를 입혀 나아가 처치할 수도 있지만 아무것도 주는 게 없다. 당연히 보스 Monstro와 전투 중일 때는 사용이 불가능하다. 그러나 Monstro II에게는 사용 가능하다. --어?-- 보스 War가 트롤 폭탄을 소환하기 위해 화면 밖으로 사라졌을 때 이 아이템을 사용하면 보스가 걸려버려 진행이 불가능해진다. ||<|2> The Basement의 모든 보스를 처치한다. ||
+||<bgcolor=silver> Monstro와 전투 중일때도 사용할 수 있다(...). --동족상잔의 비극-- ||
+## ◆
+|| [[anchor(Mr.Boom)]] '''Mr. Boom'''[[br]] attachment:TBOI_Mr_boom.png || 2 || attachment:/Mrboom_active_1.png [[br]]큰 폭탄을 하나 소환한다. 일반 폭탄에 비해 데미지가 강력하다. 또한 반지름이 두 칸인 일반 폭탄과는 달리 반지름이 세 칸이다. Mr. Mega 아이템을 획득한 상태일 경우 일반 폭탄도 반지름 세 칸짜리 강력한 폭탄이 나가므로 그냥 재사용 가능한 폭탄. || - ||
+## ◆
+|| [[anchor(MyLittleUnicorn)]] '''My Little Unicorn'''[[br]] attachment:TBOI_My_little_unicorn.png [[br]]보물 방, 비밀 방[[br]](보물 방) || 6 ||<tablealign="center"><:> attachment:TBOI_My_little_unicorn_active.png [[br]]일정 시간동안 이동속도가 0.28 증가하며 무적 상태가 되고 이때 적에게 접촉할 경우 피해를 입히며 지속시간이 끝날 때까지 눈물 공격이 불가능해진다. 방을 빠져나가면 아이템 효과가 바로 끝난다. 미니보스인 Super Greed와 접촉하면 데미지는 입지 않지만 여전히 돈을 흘리는 버그가 있다.|| - ||
+## ◆
+||<|2> [[anchor(TheNail)]] '''The Nail'''[[br]] attachment:TBOI_Nail.png [[br]]악마 방(2) ||<|2> 6 || attachment:/The_Nail.png [[br]]해당 방에서만 캐릭터가 검은 색으로 변하고 꼬인 뿔이 생기며 사용 즉시 소울 하트를 하나 추가하고 데미지가 0.7 상승하고 이동속도가 0.18 감소한다. 변신 상태에서 적과 부딪히면 40 데미지를 주며 또한 바위를 부술 수 있다. 이 때 돌은 위를 향해 부서진다. Mom's Contact 혹은 Mom's Bra 아이템으로 인해 굳은 적도 파괴된다. 악마 방이나 보스 The Fallen 처치 후 얻을 수 있으며 악마 거지나 저주 방에서도 드랍된다. 초기엔 도전 방 쇠창살 문을 뚫고 나갈 수 있었기 때문에 이를 Battery와 조합할 경우 무한정 하트를 얻는 비기가 있었으나 업데이트로 뚫고 나갈 수 없도록 수정되었다. Habit과 같이 쓰면 효과가 좋으며 다른 체력회복 아이템보다 큰 효율성을 가진다. ||<|2> Mom's Heart를 3회 깬다. || 
+||<bgcolor=silver> Azazel 로 보스 러쉬 룸을 클리어해야 언락되도록 변경. ||
+## ◆
+|| [[anchor(TheNecronomicon)]] '''The Necronomicon'''[[br]] attachment:TBOI_Necronomicon.png [[br]]보물 방, 책방, 악마 방(1)[[br]](비밀 방, 책방, 악마 방(1)) || 6 || 해당 방 안의 모든 적들에게 데미지를 입힌다. 적들의 발사체 또한 증발시킨다. || XIII Death 타로카드를 4회 사용한다. ||
+## ◆
+||<|2> [[anchor(ThePinkingShears)]] '''The Pinking Shears'''[[br]] attachment:TBOI_Pinking_shears.png ||<|2> 6 || attachment:/Scissors_Isaac.png [[br]] 해당 방에서만 아이작의 몸과 머리가 분리되며 머리를 조종한다. 머리는 비행 효과를 얻으며 몸은 Cube Of Meat를 4개 모은 미트보이처럼 적에게 다가가 접촉하여 강력한 데미지를 입힌다. Monstro같은 관통공격이 없는 보스는 근처 바위에 머리를 올려두고 대기하고있으면 저절로 스테이지가 깨지는걸 볼 수 있을것이다. 참고로 Habit과 같이 사용하면 몸을 여러개로 만들 수 있다. ~~그림자 분신술~~ ||<|2> 100회 사망한다. || 
+||<bgcolor=silver> 처음부터 언락되어 있으며, 100번 사망하면 언락되는 아이템은 The Scissors로 변경되었다.||
+## ◆
+|| [[anchor(APony)]] '''A Pony'''[[br]] attachment:TBOI_Pony.png [[br]]없음[* Headless Horseman을 처치하면 고정적으로 등장] || 4 || attachment:/Official_pony_1.png [[br]]A Pony는 White Pony와 함께 소유하고만 있어도 능력치가 올라가는 능동 아이템이다. 이 아이템을 소유하고 있다면 비행 효과와 함께 캐릭터의 이동속도가 1.5 밑으로 떨어지지 않게 된다.[* 기본 캐릭터인 아이작의 기본 이동속도는 1.] 스페이스 바로 아이템을 사용하면 아이작이 바라보는 방향으로 질주하게 되며 질주하는 동안은 무적 상태가 되며 질주하는 경로에 있는 모든 적들에게 데미지를 입힌다. 다른 능동 아이템으로 대체할 경우 효과는 사라진다. 헌혈기계나 악마 거지에게 돌진해 체력을 소비하지 않고 이용할 수 있다. 또한 사용한 뒤 돌진만 (방향키) 하지 않고 있으면 그냥 무적 상태로 있기 때문에 보스전에서 키보드를 쓰지않고 마우스로 공격을 하면 아주 느긋하게 상대할 수 있다. || 보스 Headless Horseman을 처치한다.[* 보스 Headless Horseman은 묵시록의 4기사의 일원이 아니며 묵시록의 4기사는 모두 Cube Of Meat만을 드랍한다.] ||
+## ◆
+||<|2> [[anchor(ThePoop)]] '''The Poop'''[[br]] attachment:TBOI_Poop.png ||<|2> 1 || '''똥을 싼다'''. 이 똥은 맵상에 존재하는 다른 똥들과 완전히 똑같으며 다른 똥들과 마찬가지로 파괴시 낮은 확률로 아이템이 드랍되고 다가오는 적과 적의 발사체를 막을 수 있는 일반 똥이다. 주사위를 돌려 이 아이템이 나온 경우엔 기분이 심히 아스트랄하다. 일반 똥과 다른 점은 단 한 가지로 파괴하지 않고 방을 나가면 없어진다. 즉 똥을 파괴한 후 다른 방에 갔다 오면 파괴된 똥의 흔적이 남지 않는다. 거미줄 위에서 사용하면 게이지는 소모되는데 똥은 안 나온다. ~~변비~~ ???는 이 아이템을 갖고 시작한다. ||<|2> 게임을 10회 완료한다. ||
+||<bgcolor=silver> 처음부터 열려있으며, 다른 방에 갔다 와도 똥의 흔적이 남아있다. ||
+## ◆
+||<|2> [[anchor(RazorBlade)]] '''Razor Blade'''[[br]] attachment:TBOI_Razor_blade.png [[br]]보물 방, 악마 방(1)[[br]](악마 방(1)) ||<|2> 0 || attachment:/Razorblade_Isaac.png [[br]]자기 자신에게 데미지를 입혀 해당 방에서만 자신의 공격력을 1.2 증가시킨다. 반복해서 사용할수록 데미지 증가량은 줄어든다. 전반부(1~6) 에서는 0.5 피격을 2번, 후반부(7~) 에서는 1의 피격을 2번 입는다. 후반부 스테이지에서 최대 체력이 존재하고 빨간 하트가 1칸 또는 2칸에서 사용시 소울 하트가 존재해도 캐릭터가 죽어버리는 버그가 존재한다. [* 단 빨간 하트 반 칸 보유, The Wafer 아이템 소지, 피맥이 없을 경우에는 버그가 발동되지 않는다.] ||<|2> 캐릭터 Eve로 자궁 방을 돌파한다. || 
+||<bgcolor=silver> 버그가 수정되었으며, Eve로 Satan을 처치해야 언락된다. ||
+## ◆
+|| [[anchor(ShoopDaWhoop!)]] '''Shoop Da Whoop!'''[[br]] attachment:TBOI_Shoop_da_whoop.png || 3 || attachment:TBOI_Shoop_da_whoop_active_2.png [[br]] 캐릭터가 --만득이같은--벙찐 표정을 짓는다. 눈물 대신 혈사포와 유사한 레이저포를 1회 발사해 경로에 있는 모든 적들에게 데미지를 입힌다. 또한 지형을 무시하며 바위나 구덩이를 관통한다. 시전과 발사에 딜레이가 있어서 맞추기는 쉽지 않으며 점프가 가능한 적은 피하기도 한다. 미니보스 Envy에게서 가끔씩 드랍된다.[* 4chan의 인터넷 밈의 패러디.] || - ||
+## ◆
+||<|2> [[anchor(TammysHead)]] '''Tammy's Head'''[[br]] attachment:TBOI_Tammys_head.png [[br]]보물 방, 금고 방 ||<|2> 1 || 캐릭터의 주위로 최대 데미지의 10방울의 눈물을 발사한다. Brimstone, Technology, Dr. Fetus 등의 아이템을 먹었다고 해서 눈물 대신 혈사포나 레이저나 폭탄이 나가지는 않는다. 황금방이나 황금 상자에서 얻을 수 있다. ||<|2> - ||
+||<bgcolor=silver> 눈물의 모든 변경점이 적용된다.  예를 들어 현재 눈물이 혈사포라면, '''8방향으로 혈사포가 나간다!''' ~~[[피바다]]~~ 심지어 데미지가 각각 들어가기 때문에, 붙어서 쏘면 왠만한 보스도 순삭한다. ||
+## ◆
+||<|2> [[anchor(Teleport!)]] '''Teleport!'''[[br]] attachment:TBOI_Teleport.png [[br]]보물 방, 도전 방[[br]](보물 방) ||<|2> 2 || 무작위 방으로 텔레포트한다. 텔레포트는 비밀 방, 상점, 아이템방, 보스 방으로도 이루어질 수 있으며 1.48 패치 이후로는 I am Error 방으로 이동할 수 없다. 악마 방이나 천사 방으로 텔레포트했을 경우 방을 나가면 맵의 첫 번째 방으로 돌아오게 된다. Womb/Utero 2에서 악마 방으로 텔레포트했다면 Mom's Heart 보스를 처치하지 않고 바로 '''Sheol'''로 갈 수 있다. ||<|2> - ||
+||<bgcolor=silver> 악마 방/천사 방으로는 텔레포트 할 수 없게 되었다. I AM ERROR로는 다시 이동이 가능하게 되었지만 매우 극악한 확률[* 일단은 Telepills(1/15 확률)보다는 '''훨씬''' 낮다.]이라 별 기대는 하지 말자(...). ||
+## ◆
+||<|2> [[anchor(WeNeedToGoDeeper)]] '''We Need To Go Deeper'''[[br]] attachment:TBOI_We_need_to_go_deeper.png [[br]]비밀 방, 악마 방(1) ||<|2> 6 || ~~[[삽질]]~~ 다음 스테이지로 바로 건너가는 트랩도어를 만든다. End 10을 보지 않아 스테이지 Sheol이 열리지 않은 상태에서도 Womb/Utero 2 스테이지에서 사용하여 Sheol로 내려갈 수 있다. Basement/Cellar/Cave/Catacombs/Depth/Necropolis/Womb/Utero 2에서 보스를 잡지 않고 사용하면 [[더 바인딩 오브 아이작/도전과제|Basement Boy, Spelunker Boy, Dark Boy, Mamas Boy 도전과제]]를 달성할 수 없다. 각각의 스테이지 1에서 사용하면 도전과제에는 지장이 없다. ||<|2> - ||
+||<bgcolor=silver> 랜덤하게 다음 스테이지가 아닌 레트로 보물 방으로 가는 트랩도어를 만든다. ||
+## ◆
+|| [[anchor(YumHeart)]] '''Yum Heart'''[[br]] attachment:TBOI_Yum_heart.png || 4 || 체력 한 칸을 회복한다. Habit과 같이 쓰면 효과가 좋다. 반무적, 더불어 The Wafer를 가지고 있다면 사실상 무적이 되며 헌혈기와의 궁합도 좋다. 열린 이후 Magdalene는 이 아이템을 갖고 시작한다. || 최대 체력을 7칸으로 만든다. ||
+
+## ▲▲▲능동 아이템 설명표▲▲▲
+## ▼▼▼확장팩 및 리버스 능동 아이템 설명표▼▼▼
+==== 확장팩에 추가된 아이템 ====
+||<width=15%><|2> '''아이템''' 
+||<width=15%><|2> '''필요 충전량''' 
+||<width=60%> '''설명''' 
+||<width=10%><|2> '''여는 조건''' ||
+||<bgcolor=silver> '''[[더 바인딩 오브 아이작: 리버스|리버스]] 변경 사항''' ||
+## ◆
+||<|2> [[anchor(BestFriend)]] '''Best Friend''' [[br]] attachment:/Best_Friend_Icon.png ||<|2> 3 || attachment:/Best_Friend_Ingame.png [[br]]적을 유인하며 설치한 뒤 5초 후에 폭발하는 미끼인형을 생성한다. 버그가 많이 꼬여있는 아이템으로 미끼가 보스의 혈사포, Pride나 Super Pride의 대각선 공격, Mom's Heart나 It Lives!가 소환하는 몬스터, Mom 보스의 발, Daddy Long Legs나 Triachind의 다리에 맞거나 미끼의 폭발에 플레이어가 휘말리면 플레이어 자신이 죽는다. ||<|2> - || 
+||<bgcolor=silver> 버그가 전부 수정되었다. ||
+## ◆
+|| [[anchor(BloodRights)]] '''Blood Rights''' [[br]] attachment:/Blood_Rights_Icon.png || 0 || 체력을 소비해서 방 안에 있는 적 모두에게 피해를 입힌다. || Samson으로 사탄을 물리치면 해금된다. ||
+## ◆
+||<|2> [[anchor(TheCandle)]] '''The Candle''' [[br]] attachment:/The_Candle_Icon.png [[br]]상점 ||<|2> 0 || 3초마다 사용할 수 있다. 푸른 불꽃을 내뿜어 맞는 적에게 피해를 입힌다. 불꽃에는 적의 발사체를 지우는 효과가 있고 원래라면 맞지 않을 적에게도 불꽃으로 공격할 수 있다.[* MOM 보스의 문, 심장, 사탄 석상 등. 특히 심장같은 경우는 약한 몬스터 한마리를 살려놓고 캔틀로 중앙을 때리면 좋다.] 방 단위로 충전되는 형태가 아니라 시간에 따라 자동으로 충전되며 기본 충전 시간은 3초. The Battery가 있다면 1.5초, 9 Volt가 있다면 1.2초마다 충전된다. 둘 모두 지니고 있다면 1초마다 The Candle을 사용할 수 있다.[* 젤다의 전설의 패러디.] 스페이스바를 눌러 공격준비 상태로 슬롯머신이나 점 치는 기계 등 밀착해서 가만히 붙어있으면 계속 동전을 넣는 행동이 가능하다. ~~이러고 넋놓으면 TICK이 강제 장착된다~~ 이 상태에선 아이템의 줍는 효과 모션도 SKIP이 가능하다. ||<|2> Dark was the Night 도전 모드 클리어시 해금. || 
+||<bgcolor=silver> 상점의 기부 기계에 동전 '''900개'''를 기부해야 해금. ||
+## ◆
+|| [[anchor(CracktheSky)]] '''Crack the Sky''' [[br]] attachment:/Crack_The_Sky_Icon.png || 4 || 빛의 기둥을 불러내 닿는 적에게 피해를 준다. 빛은 무작위로 생성된다. 다만, 주의할 점은 묵시록의 4기사(+ Headless Horseman, Conquest)와 전투 중일 때 사용하면 '''플레이어가 즉사한다.''' || - ||
+## ◆
+|| [[anchor(CrystalBall)]] '''Crystal Ball''' [[br]] attachment:/Crystal_Ball_Icon.png [[br]]없음[* 점치는 기계 폭발시 낮은 확률로 나온다.][[br]]('''보물 방''') || 6 || 쓰면 현재 레벨의 맵을 밝히고 추가로 소울 하트나 타로 카드 1장을 준다. 확률은 같다. || - ||
+## ◆
+||<|2> [[anchor(D20)]] '''D20''' [[br]] attachment:/D_20.png ||<|2> 6 || 방 안에 있는 소비성 아이템을 무작위로 바꾼다. 소비성 아이템(알약, 장신구, 카드, 금화, 폭탄, 열쇠, 상자, '''열린 상자''')들이 '''상자'''로도 바뀌기 때문에 상당히 좋다. ~~동전 5개가 황금 상자 세 개와 소울 하트 두 개가 되고 다시 그 황금 상자에서 템들이 나오고...~~ 특히 소비성 아이템을 많이 얻을 수 있는 아케이드에서 그 진가를 발휘한다. 만약 Habit이 있다면 헌혈기계에서 아이템 게이지까지 자체 충당이 가능하다. 트롤 폭탄도 바꿀 수 있다. War를 상대한다거나 Anarchist's Cookbook이나 The Tower를 획득했을 때 활용할 수 있다. ||<|2> 아이작으로 Cathedral 깨면 해금된다. || 
+||<bgcolor=silver> 트롤 폭탄은 D20이 적용되지 않는다. Isaac으로 Chest 레벨을 클리어해야 열린다. ||
+## ◆
+||<|2> [[anchor(DadsKey)]] '''Dad's Key''' [[br]] attachment:/Dads_Key_Icon.png [[br]]보물 방,비밀 방[[br]](보물 방, '''열쇠 거지''') ||<|2> 2 || 쓰면 전투 중일 때 닫힌 문을 열 수 있다. 황금방이나 상점같이 열쇠를 소모해야 들어갈 수 있는 방은 열리지 않는다. 전투 중일 때 폭탄으로 문을 여는 방법도 있지만, Chest에선 이 방법이 통하지 않는다. Dad's Key를 사용하면 Chest에서도 단번에 문이 열린다. 보스와 전투 중에 쓰면 그 순간의 악마 방의 확률로 악마 방이 열린다. 즉, 들어오자마자 쓰면 보스에게 피격 당하지 않은것으로 취급되고, 그 확률로 악마 방이 열리는 것이다.  ||<|2> Cathedral 레벨을 Polaroid을 든 상태로 클리어하면 해금된다. ||
+||<bgcolor=silver> Chest/Dark Room 챕터를 클리어 한 후 천사 방에서 천사상을 폭파하면 나오는 천사 보스를 잡고, 나오는 열쇠 조각을 두 개 모으면 해금. 보물 방, 상점, 비밀 방, 일급 비밀 방, 도전 방, 보스 도전 방[* 도전 방과 보스 도전 방은 체력 조건이 맞지 않을 경우 다른 방으로 왔다가면 다시 닫히니 주의.]도 열리며, 최종보스 방 까지 열린다.[* 금고 방, 주사위방, 침대방은 2번 써야 열렸었으나, 패치로 이들도 한번만 써도 열리게 수정되었다.] 다만 악마 방/천사 방은 열리지 않는다. ||
+## ◆
+|| [[anchor(GuppysHead)]] '''Guppy's Head''' [[br]] attachment:/Guppys_Head_Icon.png [[br]]악마 방(2), 빨간 상자[[br]](악마 방('''1'''), '''금고 방, 저주 방''', 빨간 상자) || 1 || 사용시 자폭 파리를 2~5마리 소환하는데 자폭 파리의 데미지가 꽤 쏠쏠한 데다 아이템 충전 주기도 짧다. Guppy 관련 아이템(Guppy's Head, Guppy's Paw, Guppy's Tail, Dead Cat) 중 3가지를 모으면 Guppy로 변신이 가능하다. Guppy로 변신하면 비행할 수 있게 되며 타격 시마다 자신의 공격력의 2배에 해당하는 자폭 파리를 생성한다. Technology 2는 0.1초마다 1/3의 확률로 소환하며, 원래는 기본 공격이 The Mulligan으로 바뀌어야 하지만 버그로 바뀌지 않는다. || - ||
+## ◆
+|| [[anchor(GuppysPaw)]] '''Guppy's Paw''' [[br]] attachment:/Guppys_Paw_Icon.png [[br]]악마 방(2), 빨간 상자[[br]](악마 방('''1'''), '''저주 방''', 빨간 상자) || 0 || 최대 하트 1칸을 소울 하트 3개로 바꾸며, 이때 꽉 찬 하트칸을 우선으로 바꾼다. 하트가 아예 없는 '???' 는 사용할 수 없다. 저주 방, 악마 방 등에서 나온다. Guppy 관련 아이템(Guppy's Head, Guppy's Paw, Guppy's Tail, Dead Cat) 중 3가지를 모으면 Guppy로 변신이 가능하다. Guppy로 변신하면 비행할 수 있게 되며 타격 시마다 자신의 공격력의 2배에 해당하는 자폭 파리를 생성한다. Technology 2는 0.1초마다 1/3의 확률로 소환하며, 원래는 기본 공격이 The Mulligan으로 바뀌어야 하지만 버그로 바뀌지 않는다. || - ||
+## ◆
+||<|2> [[anchor(IVBag)]] '''IV Bag''' [[br]] attachment:/IV_Bag_Icon.png [[br]]없음[* 헌혈 기계를 쓰다보면 터지면서 나온다.] ||<|2> 0 ||<tablealign="center"><:> 하트 반 칸을 깎아서 동전 1개를 생성한다. 무적 상태에서 쓰면 체력 소비 없이 사용 가능하며 이때문에 한 번 사용하고 곧바로 다시 한 번 사용하면 추가 체력 소비 없이 한번 더 헌혈 하는것이 가능하다. 일반 헌혈과 마찬가지로 흰색 이터널 하트를 일반 하트보다 먼저 소비한다. Bloody penny와 궁합이 좋다. 버그로 타이밍 좋게 한 문을 계속 지나가며 무적시간을 이용하여 헌혈을 하면 고작 반 칸의 피로 99원을 손쉽게 만들 수 있다. 타이밍은 대충 동전이 바닥으로 떨어지는 순간 오른쪽으로 이동하면서, 문으로 들어가는 순간 스페이스를 눌러줘야한다. 타이밍 맞추는 것이 까다로운 편이니 사전연습은 필수.||<|2> - ||
+||<bgcolor=silver> 더이상 버그를 사용할 수 없다. ||
+## ◆
+||<|2> [[anchor(NotchedAxe)]] '''Notched Axe''' [[br]] attachment:/Notched_Axe_Icon.png [[br]]보물 방, 상점[[br]](보물 방) ||<|2> 1 || [[마인크래프트]]의 제작자 Notch 패러디 아이템. 쓰면 바위 한 칸을 파괴할 수 있다. 이 때 돌은 위를 향해 부서진다. ||<|2> - || 
+||<bgcolor=silver> 3회 충전으로 바뀌었으며, 발동식으로 바뀌어 The Nail과 비슷하게 사용하는 동안 돌 위로 이동하여 부술 수 있다. 스페이스바를 다시 누르거나 피해를 입으면 발동이 취소된다. 발동한 상태로 벽을 쭉 긁으면 비밀 방을 발견할 수도 있다. ||
+## ◆
+|| [[anchor(PrayerCard)]] '''Prayer Card''' [[br]] attachment:/Prayer_Card_Icon.png [[br]]천사 방[[br]](보물 방, 천사 방) || 6 || 이터널 하트를 생성한다. 이터널 하트를 2개 얻거나 1개를 지닌 상태에서 보스를 격파하고 다음 플로어로 이동하면 하트가 1칸 늘어난다. The Battery같이 아이템 충전 게이지를 채워주는 아이템과 함께라면 Judas처럼 

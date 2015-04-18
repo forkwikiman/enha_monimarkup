@@ -1,0 +1,18 @@
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hu_Lu_Si.jpg/752px-Hu_Lu_Si.jpg?Width=600
+
+한자: '''葫蘆絲(葫芦丝)'''
+
+중국의 전통악기. 원래는 중국 [운남성] 지역의 다이족(傣族:태족)을 비롯한 소수민족들이 사용하던 악기였으나 현재는 중국 전역에서 사용되고 있다고 한다.
+
+이름에 사(絲)가 들어 있지만 현악기가 아니다. 호로사(葫蘆絲)의 호로는 호리병박을 가리킨다고 하며, 사(絲)는 소리가 비단결같이 고와서 붙은 이름이라고 한다.
+
+아래 동영상은 [독현금]과의 합주. 호로사는 중간부터 나오기 시작한다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/30DZGaArq3A&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/30DZGaArq3A&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+아래는 좀더 전통적 삘이 나는 호로사 독주 동영상.
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/zfotOd5gJoE&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/zfotOd5gJoE&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}

@@ -1,0 +1,114 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[wiki:"BEMANI 시리즈/연동 이벤트" APPEND FESTIVAL]]의 [[비트매니아 IIDX]]부문 악곡으로, 작곡은 [[L.E.D.]]. THE DOOR INTO RAINBOW, [[EXUSIA]] 등 같은 작곡가의 곡과 곡조, 음원, 샘플링 등에서 비슷한 점이 많아서 유저들에게 우려먹기라는 악평을 들었으며, 특히 킥드럼과 필인 샘플은 THE DOOR INTO RAINBOW에서 사용한 것을 그대로 사용해 논란이 되기도했다.
+
+제목의 의미는 [[http://ko.wikipedia.org/wiki/%ED%95%AD%EC%84%B1%ED%92%8D 항성풍]]으로, [[태양풍]]이 여기에 속한다. 그래서 유비트 시리즈에서의 칭호도 The Sun, The Polaris.
+
+== [[비트매니아 IIDX]] ==
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/Ext6nEPRevc?fs=1&hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Ext6nEPRevc?fs=1&hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 162 || {{{#blue 4}}} || {{{#blue 322}}} || {{{#orange 9}}} || {{{#orange 963}}} || {{{#red 11}}} || {{{#red 1370}}} || {{{#blue 5}}} || {{{#blue 523}}} || {{{#orange 9}}} || {{{#orange 930}}} || {{{#red 11}}} || {{{#red 1373}}} ||
+
+ * [[wiki:"비트매니아 IIDX/수록곡" 곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 18 Resort Anthem ~
+
+장르는 HARD DANCE. 어나더는 전체적으로 반복되는 [[트릴]]에 살이 붙는 형식으로 이루어져 있으며, 중간중간 32비트 계단이 뜬금포로 끼어든다. 자칫 타이밍을 잃었다가는 말려서 폭사하기 쉬우므로 하드게로는 11레벨 상위권이다. 유저들로부터는 재미없는 패턴이라는 평가가 주를 이뤘는지, 해금 신곡인데도 불구하고 등장한 지 한 달도 되지 않아 위클리 글로벌 랭킹 20위권에서 나가 떨어져버렸다.
+
+유비트 수록 음원과 비교해서 BPM이 2가 늘었고 후반부에 한 마디 더 곡 길이가 길어졌으며, 신시사이저 음색도 약간 다르다는게 특징.[* 유비트 수록 음원은 메인 멜로디가 드럼에 많이 묻힌데 반해, IIDX에서는 드럼이 거의 묻히고 멜로디가 주로 들린다.]
+== [[유비트 시리즈]] ==
+attachment:stellarwind.png
+
+{{|
+안녕하세요. [[L.E.D.]]입니다.
+현재 나는 새도 떨어뜨릴 기세로 절찬 대 가동중인 [[유비트]]에 부름을 받아서, 영광스럽기가 그지없습니다.
+이번에도 어펜더(appender)로서의 직무를 다하기 위해 전력을 다했습니다!
+각설하고, 유비트라 하면, 여러분은 어떤 이미지를 가지고 계시는지요.
+저는, 장식품으로서 가정에 한 대쯤 놓고 싶어질 것 같은 스타일 있는 모양새, 그리고 시시각각 변화하는 네온 컬러로부터, 유비트는 "세련 사이버" 머-씐(Machine)! 이라고 나날이 생각하고 있었습니다.
+그래서, 그 "세련 사이버" 감각을 악곡으로 표현한 것이 이 "STELLAR WIND"입니다.
+...아니, 플레이어 여러분께서 이 점에 관해 무리하게 공감해 주시지는 않으셔도 됩니다. '''보통처럼''' 플레이해 주시는 것만으로도 충분히 기쁩니다.
+
+- [[L.E.D.]], [[유비트 니트 어펜드]] OST 코멘트
+|}}
+
+||||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>6||<:>9||<:>10||
+||<#ffffff><:>노트수||||<:>415||<:>'''713'''||<:>'''712'''||
+||<#ffffff><:>BPM||||||||<:>160||
+||<#ffffff><:>곡 이력||||||||[[유비트 니트 어펜드]]에 첫 수록[[BR]][[유비트 플러스]]에서 music pack 21에 수록[[BR]][[유비트 코피어스]]에서 [[wiki:"BEMANI 시리즈/연동 이벤트" APPEND FESTIVAL]] 해금곡→전도 해금곡으로 변경[[BR]][[유비트 소서]]에서 전도 해금곡→Achievement Point 해금곡으로 2012/9/25 변경[[BR]][[유비트 소서]]에서 2013/5/1 교체[[BR]][[유비트 소서]]에서 2013/7/1 지금만의 악곡으로 재수록||
+
+관련 칭호
+ * [[유비트 니트 어펜드]] ~
+  * THE SUN : 모든 보면 클리어
+  * THE '''POLARIS'''[* 굵은 글씨는 칭호 파츠.] : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+수록 당시에 ADV와 EXT의 노트바가 '''매우 유사해서''' 조작이 아닌가 화제가 되기도 했다.[* http://gall.dcinside.com/rhythmgame/1723931] 
+
+그 실체는 '''레벨 10의 EXT 보면을 시계방향으로 90도 회전시키면 레벨 9의 ADV 보면과 노트 하나 빼고 완벽히 일치한다는 사실이었다.''' 즉, EXT 보면은 ADV 보면을 단지 옆으로 돌린 패턴이라는 것.
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='FZU0FvH1W5I$' width='640px' height='480px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=FZU0FvH1W5I$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=FZU0FvH1W5I$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+참고로 상단은 EXT 정규 보면, 그리고 좌측하단은 EXT 보면을 '''우측으로 90도 회전'''. 우측하단은 ADV 보면이다. 자세히 보면 1분 48초에 왼쪽 하단에 ADV만 노트가 하나 더 나온다. 나중에 알려진 사실이지만, 원래 ADV 패턴을 제작한 후 90도 틀어 EXT 패턴을 만들던 중 실수로 후반부의 노트 하나를 빼먹고 넣지 않았다고 한다. 그 때문에 '''유비트 시리즈에서 최초로 ADV가 EXT보다 노트 수가 더 많은 곡이 되었다.''' 
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/4NtnZWW1Kl4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4NtnZWW1Kl4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXT EXC 영상
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/jCKBVNb_SuM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jCKBVNb_SuM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXT '''옆비트''' EXC 영상
+
+맨 윗줄 + 맨 아랫줄 패턴이 끼어있는 이러한 까다로운 패턴이 '''회전 때문에''' 처음부터 끝까지 꾸준히 나온다. 게다가 그것 뿐이 아니라 박자 면에서도 굉장히 까다로운 곡인데, 잘 보면 정박 비트가 계속 한 줄에 나오고 주 멜로디가 다른 박자로 나오는 것을 볼 수 있다.[* 참고로 [[Evans]] EXT의 후반 발광 박자와 어느 정도 일치한다. 물론 변칙적이긴 하지만 대체로 사이드의 동시치기가 멜로디, 중앙의 단타가 정박에 대응된다.] ~~[DJMAX TECHNIKA|테크니카]에 가야할 패턴이 요기잉네?~~
+
+옆비트 외에 조금 쉽게 플레이하는 방법을 들자면 어느 한 손으로 아랫줄의 정박 노트를 처리하고, 다른 손으로 윗줄의 멜로디 노트를 처리하는 방법[* 탑랭커 [[3SAGIRI]]가 이 손배치를 써서 엑설런트를 획득했다.]이 있다. 쉽게 말해서 '''몸은 그대로 손만 옆비트하라는 것'''. 왼손의 정박 구간이 꾸준히 나오므로 왼손의 움직임을 고정시켜야 멜로디 처리에만 신경쓸 수 있다. 이 때 왼손의 정박 처리를 '''8비트로''' 해야 하는 구간 및 초반에 낚시 박자가 한 번 있다는 것에 주의하자. 하지만 이 손배치의 단점은 몸이 불편하게 틀어져있어야 하며 왼팔이 오른쪽 아래, 오른팔이 왼쪽 위로 가는 등 팔이 꼬여있는 경우가 지속적으로 발생해서 부담이 된다는 점. 그래서 상하분리형이 아닌 손배치를 직접 짠 유저들도 상당히 많은 편이다. 
+
+전반적인 부분이 이런 정박노트와 엇박이 가미한 박자로 이루어져있어 익숙해지기 전까지는 손이 꼬이기 쉽고 판정도 안 좋기 마련이며, 후반에 등장하는 폭타도 난이도에 큰 한 몫을 한다. 폭타의 경우에는 좌8 우8 손배치를 깨고 한손으로 3개의 속타나 촉수를 해야하는 부분도 나오기에 필수적으로 외우고 손배치를 짜야만 한다. 이 [[후살]] 때문에 엑설런트 및 트리플 스코어링은 상당히 어려운 편.
+
+ADV의 경우 클리어 난이도는 위의 꾸준히 나오는 정박+멜로디 패턴 때문에 상하배치를 지속적으로 쳐야 하는 익스트림보다는 쉽지만, 최종 난관인 후반 폭타가 90도 회전 때문에 '''오히려 EXT보다 어려워져서''' 엑설런트 난이도면에서는 9레벨중에는 상위권 이상, 심지어는 EXT급이라는 평가도 많다. ADV가 플레이률은 EXT보다는 떨어지지만 9~10레벨의 고레벨만 도는 유저들이 종종 있는 것과 실제로 코피어스 당시 212곡 636보면 중에 엑설자 100명이 제일 마지막에 뚫렸다는 것을 감안한다면 수긍이 가는 말. 그래서 농담삼아 어드가 아니라 어나더라고 유저들끼리 부르는 경우도 있었다.
+
+이러한 특징 때문에 붙여진 별명은 '정텔라'와 '옆텔라'. ADV 패턴을 180도 돌리는, 즉 EXT 패턴을 오른쪽이 아닌 왼쪽에서 치는, 속칭 '뒷텔라'도 있다. 뒷텔라의 경우 손의 좌우를 아예 바꿔 쳐야 해서 하는 사람이 드문 편. 한편 반대로 ADV 패턴을 왼쪽에서 쳐서 EXT처럼 치는 옆텔라도 존재한다.
+
+비슷한 패턴은 [[electro peaceful]] 외에도 상당히 자주 볼 수 있으며, [[유비트 코피어스 어펜드]]에서 [[wiki:"The Wind of Gold" 다른 버전]]이 등장했고 [[유비트 소서]]에서 [[wiki:"BLUE STRAGGLER" 업그레이드]] [[wiki:"Our Faith" 패턴]], [[wiki:"Beastie Starter" 궁극체]]가 나오기도 했다.
+
+== [[리플렉 비트 시리즈]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/fMJn45xemCM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+HARD 보면
+
+{{{#!HTML
+<iframe width="640" height="390" src="//www.youtube.com/embed/kOK7f2ohFmE" frameborder="0" allowfullscreen></iframe>
+}}}
+SPECIAL 보면 99.4% FULL COMBO
+
+|||||||||||||| [[REFLEC BEAT]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 160 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} || {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} ||
+|| {{{#green 4}}} || {{{#orange 8}}} || {{{#red 10+}}} || {{{#08AFDB 10}}} ||
+|| 오브젝트 || {{{#green 195}}} || {{{#orange 419}}} || {{{#red 671}}} || {{{#08AFDB '''671'''}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| [[jubeat]] PACK 2 ||
+|||||||||| {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} 추가 : [[리플렉 비트 그루빈]] ||
+
+[[wiki:"BEMANI 시리즈/연동 이벤트" APPEND TRAVEL]]으로 리플렉 비트에 이식되었다. 유비트의 전례가 있어서인지 이식되었다는 소식에 '''설마 탑노트가 정박이고 나머지가 일반노트인 것은 아닌가''' 하고 추측이 난무했는데 '''[[wiki:"그런데 그것이 실제로 일어났습니다" 실제로 일어났다.]]'''
+
+10+에서는 최하위권 내지 [[물렙곡]]으로 많이 평가되는 편이다. 특히 패턴이 3TOP을 중심으로 나온 박자가 반복되기 때문에 박자를 파악하기 쉬워 익숙해질 경우 쉽게 스코어가 올라갈 수 있다. 다만 양손이 따로 처리하는데 익숙하지 않다던가 박자를 알아차리지 못하는 경우엔 16박으로 나오는 박자가 많아 상당히 어렵게 느낄 수 있다. 유비트에서의 박자를 그대로 옮겨왔지만 트릴이 자주 나와 물량곡이 되어버린 [[I'm so Happy]]와는 대조적. 때문에 유비트와 비슷하게 '탑텔라'라는 별명이 붙었다. '옆텔라'라는 별명도 건재. 간단하게 요약하자면 박자 파악이 되면 10+ 최하위권이지만 안되었다면 [ARACHNE]처럼 탈탈 털릴 수 있는 개인차 곡. 다만 대부분의 경우 숙련된 것을 기준으로 매기는 경우가 많기 때문에 보통 최하위권으로 치는 것이다.
+
+하지만 이 10+ 물렙곡이라는 건 어디까지나 숙련자 기준으로, 멋모르고 물렙이랍시고 하드에 슈퍼랜덤걸었다가는 3TOP 관광에 큰코 다친다. 그리고 하드 보면의 후반부에는 기습적으로 TOP 노트 동시치기가 튀어나와 어느 정도 익숙하지 않은 이상 손이 꼬여서 미스가 발생할 확률이 높으며, 이 구간을 제대로 넘기지 못하고 있으면 이 후 16비트 발광 구간에서 무너지게 된다. 한술 더 떠서 베이직에는 [[공명의 함정]]이 존재, 중간의 12초 동안은 [[wiki:"Illuminati ~光を求める者たち~" 아무 노트도 나오지 않는다]].
+
+'''10+곡 중에서 최초로 엑설런트(100.0%)가 나온 곡이다.''' 엑설자는 일본의 [[wiki:"HO4.KT-Y" HO4-KETI]] 이며, 엑설임에도 [[회수]]를 실패하여 엑설점수인 2253점이 아닌 2243점으로 남았다(…)
+
+2012년 9월 22일 공개된 [[리플렉 비트 플러스]]의 유비트 팩2에서 하드 패턴 난이도가 하락해서 '''10'''이 되어서 논란이 되었으나 추후 다시 10+로 수정되었다.
+
+그루빈에서 레벨 10의 스페셜 패턴이 추가되었다. 하드보면에서 탑노트 정박부분을 버티컬로 옮겨놓은~~버텔라~~ 것을 기본으로 약간의 수정을 가했다. 근데 이 수정이라는 게 단순 이동 수준이고 추가 노트가 없어 노트수는 하드와 똑같다. 하드패턴이 탑노트정박에 익숙해지는것이 관건인것처럼 스페셜은 버티컬 정박에 익숙해지는것이 관건이다. 하드 패턴 특유의 후살이 전부 버티컬 계단으로 나와서 상대적으로 하드 패턴보다 높은 판정을 내기가 쉬워졌기 때문에 스페셜 패턴이 레벨이 한 단계 낮은 것.

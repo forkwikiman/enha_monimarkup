@@ -1,0 +1,27 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 작사, 작곡 || [[NieN]] ||
+|| 보컬 || [NieN] ||
+|| 비주얼 || [[PANAX]], [[TARI]], [[ETER]] ||
+|| 장르 || Rock ||
+|| BPM || 145 ||
+
+|||||| [[NB Ranger 시리즈]] ||
+|| [[NB Ranger]] || '''NB Rangers : Returns''' || [[NB POWER]] || 
+|| [[Dark Envy Knight]] || [[NB Girls]] || [[NB Ranger : NonStop Remix]] || 
+|||||| 번외 : [[Mind Control]] ||
+
+{{{#!HTML
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/kieiW69xfmo&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kieiW69xfmo&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+[[NB Ranger 시리즈]]의 두번째 곡. 본래 곡의 제목은 ''Return of the dragon''으로, NB Ranger 시리즈와는 관계가 없는 장대한 판타지 풍의 곡으로 구상하여 작곡한 [[R.O.D. 시리즈]]의 악곡이였다...
+
+...만 Ponglow에 의해 NB Ranger 시리즈의 신곡으로 낙점, 초 거대 스케일의 비주얼을 기대하고 곡을 맡겼던 작곡가 NieN을 아연실색하게 만든 곡이다.[* BGA를 보고 NieN이 그자리에 주저앉았다고 한다. 물론 이후에는 자기도 재미있어했다고..]
+
+패턴은 딱히 어렵다고 할 수는 없는 패턴으로, 전체적으로 난타 형식의 패턴이 많은 것이 특징. 풀 콤보는 어렵지 않게 할 수 있지만 높은 정확도를 내기가 힘든 패턴이어서 호불호가 갈리는 듯. 곡 자체는 정말 좋다. ~~비주얼과 같이 보면 손발이 오그라들어서 그렇지~~
+
+BGA를 잘 보면 ~~BGA 제작자가 Tari, ETER라서 그런지 몰라도~~ [[Lemonade]]의 커플이 이번엔 배 타면서 등장했다!
+
+의미심장하게 등장하는 첫 문장 "It's came back" 은 문법적 오류를 갖고 있다. 가사에 "Return of the Dragon'''s'''" 가 있는 것으로 보아 아무래도 "They have come back" 이라고 하는 것이 옳았지 않나 싶다. 아니 애초에 가사가 말이 안되는 정도 급으로 막장이다만... --문법 수정하다 본격 작사할 기세--

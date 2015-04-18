@@ -1,0 +1,79 @@
+http://koreacpa.org/new/jpg/20001112-F09.jpg
+
+tobacco mosaic virus
+
+[[목차]]
+== 개요 ==
+[[바이러스]]의 일종. [[담배]] 혹은 가지과 식물의 잎에 감염되는 [[RNA]] 바이러스. 이미 19세기 후반부터 이런 게 있다는 건 입증되었으나 당시에는 박테리아균 감염이라고 생각했다. 그후 1930년이 되어서야 이 원인물질이 바이러스라는 사실이 증명되었다.[* 병이 걸린 잎에서 추출한 즙을 박테리아 필터로 거른후, 건강한 담배잎에 주입해서 발병함을 보였다. 참고로 이 연구를 시행한 사람이 바이러스의 최초 발견자인 웬델 스탠리다.] 인류 역사상 최초로 발견된 바이러스이기도 하다.
+
+이름 그대로 식물의 엽록소에 침투해 색깔을 바꿔버리는게 대표적인 증상. 식물 성장에 방해를 끼치기 때문에 결과적으로 담배 농사를 망치게 만드는 주범이다. 이렇게 색깔이 얼룩덜룩하게 바뀐다고 해서 담배 모자이크라고 불린다.
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TMV_structure_full.png/800px-TMV_structure_full.png
+나선형의 막대 형태 구조를 띠고 있는데, 안쪽에 [[RNA]]가 감겨져 있다.
+
+http://science.nasa.gov/media/medialibrary/1998/01/07/pcg_gallery_resources/STMV2.jpg?width=222
+특이하게도 '''결정''' 상태로도 존재한다. 사실 [[바이러스]]라는 것이 생물과 무생물의 경계에 있는 녀석이니...
+
+한편, 이 바이러스를 가지고 [[탄소 나노튜브]]를 만드려는 시도가 있었다 [[카더라]]. [[http://www.ncnr.nist.gov/programs/sans/pdf/publications/0419.pdf #관련 논문 보기]]
+
+여담으로 [[백괴사전]]에서는 TV매체에서 칼이나 피 처럼 담배를 검열하기위해 모자이크 처리한것으로 설명해놓았다.(...)
+
+== 화학식 ==
+아래에 있는 것은 [[학명]]이라고 알려졌지만, 이 단어는 학명이 아니다. 그저 [[화학식]]일 뿐. 학명은 명칭 그대로 ''Tobacco mosaic virus''이다. [http://www.ictvdb.rothamsted.ac.uk/ICTVdB/00.071.0.01.001.htm #]
+
+||ACETYL­SERYL­TYROSYL­SERYL­ISO­LEUCYL­THREONYL­SERYL­PROLYL­SERYL­GLUTAMINYL­PHENYL­ALANYL­VALYL­PHENYL­ALANYL­LEUCYL­SERYL­SERYL­VALYL­TRYPTOPHYL­ALANYL­ASPARTYL­PROLYL­ISOLEUCYL­GLUTAMYL­LEUCYL­LEUCYL­ASPARAGINYL­VALYL­CYSTEINYL­THREONYL­SERYL­SERYL­LEUCYL­GLYCYL­ASPARAGINYL­GLUTAMINYL­PHENYL­ALANYL­GLUTAMINYL­THREONYL­GLUTAMINYL­GLUTAMINYL­ALANYL­ARGINYL­THREONYL­THREONYL­GLUTAMINYL­VALYL­GLUTAMINYL­GLUTAMINYL­PHENYL­ALANYL­SERYL­GLUTAMINYL­VALYL­TRYPTOPHYL­LYSYL­PROLYL­PHENYL­ALANYL­PROLYL­GLUTAMINYL­SERYL­THREONYL­VALYL­ARGINYL­PHENYL­ALANYL­PROLYL­GLYCYL­ASPARTYL­VALYL­TYROSYL­LYSYL­VALYL­TYROSYL­ARGINYL­TYROSYL­ASPARAGINYL­ALANYL­VALYL­LEUCYL­ASPARTYL­PROLYL­LEUCYL­ISOLEUCYL­THREONYL­ALANYL­LEUCYL­LEUCYL­GLYCYL­THREONYL­PHENYL­ALANYL­ASPARTYL­THREONYL­ARGINYL­ASPARAGINYL­ARGINYL­ISOLEUCYL­ISOLEUCYL­GLUTAMYL­VALYL­GLUTAMYL­ASPARAGINYL­GLUTAMINYL­GLUTAMINYL­SERYL­PROLYL­THREONYL­THREONYL­ALANYL­GLUTAMYL­THREONYL­LEUCYL­ASPARTYL­ALANYL­THREONYL­ARGINYL­ARGINYL­VALYL­ASPARTYL­ASPARTYL­ALANYL­THREONYL­VALYL­ALANYL­ISOLEUCYL­ARGINYL­SERYL­ALANYL­ASPARAGINYL­ISOLEUCYL­ASPARAGINYL­LEUCYL­VALYL­ASPARAGINYL­GLUTAMYL­LEUCYL­VALYL­ARGINYL­GLYCYL­THREONYL­GLYCYL­LEUCYL­TYROSYL­ASPARAGINYL­GLUTAMINYL­ASPARAGINYL­THREONYL­PHENYL­ALANYL­GLUTAMYL­SERYL­METHIONYL­SERYL­GLYCYL­LEUCYL­VALYL­TRYPTOPHYL­THREONYL­SERYL­ALANYL­PROLYL­ALANYL­SERINE||
+
+이것을 읽는 방법은
+
+ACETYL­SERYL­TYROSYL­SERYL­SOLEUCYL­THREONYL­SERYL­PROLYL­SERYL­GLUTAMNYL­ 
+[[wiki:"아세트산" 아세틸]] - [[wiki:"세린" 세릴]] - [[wiki:"티로신" 티로실]] - [[wiki:"세린" 세릴]] - [[wiki:"이소류신"  이소류실]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"세린" 세릴]] - [[wiki:"프롤린" 프롤릴]] - [[wiki:"세린" 세릴]] - [[wiki:"글루탐산" 글루타미닐]]
+
+PHENYL­ALANYL­VALYL­PHENYL­ALANYL­LEUCYL­SERYL­SERYL­VALYL­TRYPTOPHYL­ALANYL­ 
+[[wiki:"페닐알라닌" 페닐알라닐]]  - [[wiki:"발린" 발릴]] -  [[wiki:"페닐알라닌" 페닐알라닐]]  - [[wiki:"류신"  류실]] - [[wiki:"세린" 세릴]] - [[wiki:"세린" 세릴]] - [[wiki:"발린" 발릴]] - [[wiki:"트립토판" 트리프로필]] - [[wiki:"알라닌" 알라닐]]
+
+ASPARTYL­PROLYL­SOLEUCYL­GLUTAMYL­LEUCYL­LEUCYL­ASPARAGNYL­VALYL­CYSTENYL­ 
+[[wiki:"아스파르트산"  아스파틸]] - [[wiki:"프롤린" 프롤릴]] - [[wiki:"이소류신"  이소류실]] - [[wiki:"글루타민" 글루타밀]] - [[wiki:"류신"  류실]] - [[wiki:"류신"  류실]] - [[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"발린" 발릴]] - [[wiki:"시스테인" 시스테닐]]
+
+THREONYL­SERYL­SERYL­LEUCYL­GLYCYL­ASPARAGNYL­GLUTAMNYL­PHENYL­ALANYL­GLUTAMNYL 
+[[wiki:"트레오닌" 스레오닐]]  - [[wiki:"세린" 세릴]] - [[wiki:"세린" 세릴]] - [[wiki:"류신"  류실]] - [[wiki:"글리신" 글리실]] - [[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"글루탐산" 글루타미닐]] -  [[wiki:"페닐알라닌" 페닐알라닐]] - [[wiki:"글루탐산" 글루타미닐]] 
+
+THREONYL­GLUTAMNYL­GLUTAMNYL­ALANYL­ARGNYL­THREONYL­THREONYL­GLUTAMNYL­VALYL­ 
+[[wiki:"트레오닌" 스레오닐]]  - [[wiki:"글루탐산" 글루타미닐]] - [[wiki:"글루탐산" 글루타미닐]] - [[wiki:"알라닌" 알라닐]] - [[wiki:"아르기닌" 알기닐]] - [[wiki:"트레오닌" 스레오닐]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"글루탐산" 글루타미닐]] - [[wiki:"발린" 발릴]]
+
+GLUTAMNYL­GLUTAMNYL­PHENYL­ALANYL­SERYL­GLUTAMNYL­VALYL­TRYPTOPHYL­LYSYL­PROLYL 
+[[wiki:"글루탐산" 글루타미닐]] - [[wiki:"글루탐산" 글루타미닐]] -  [[wiki:"페닐알라닌" 페닐알라닐]]  - [[wiki:"세린" 세릴]] - [[wiki:"글루탐산" 글루타미닐]] - [[wiki:"발린" 발릴]] - [[wiki:"트립토판" 트리프로필]] - [[wiki:"라이신" 리실]] - [[wiki:"프롤린" 프롤릴]] 
+
+PHENYL­ALANYL­PROLYL­GLUTAMNYL­SERYL­THREONYL­VALYL­ARGNYL­PHENYL­ALANYL­ 
+[[wiki:"페닐알라닌" 페닐알라닐]]  - [[wiki:"프롤린" 프롤릴]] - [[wiki:"글루탐산" 글루타미닐]] - [[wiki:"세린" 세릴]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"발린" 발릴]] - [[wiki:"아르기닌" 알기닐]] -  [[wiki:"페닐알라닌" 페닐알라닐]]
+
+PROLYL­GLYCYL­ASPARTYL­VALYL­TYROSYL­LYSYL­VALYL­TYROSYL­ARGNYL­TYROSYL­ 
+[[wiki:"프롤린" 프롤릴]] - [[wiki:"글리신" 글리실]] - [[wiki:"아스파르트산"  아스파틸]] - [[wiki:"발린" 발릴]] - [[wiki:"티로신" 티로실]] - [[wiki:"라이신" 리실]] - [[wiki:"발린" 발릴]] - [[wiki:"티로신" 티로실]] - [[wiki:"아르기닌" 알기닐]] - [[wiki:"티로신" 티로실]] 
+
+ASPARAGNYL­ALANYL­VALYL­LEUCYL­ASPARTYL­PROLYL­LEUCYL­SOLEUCYL­THREONYL­ALANYL­ 
+[[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"알라닌" 알라닐]] - [[wiki:"발린" 발릴]] - [[wiki:"류신" 류실]] - [[wiki:"아스파르트산" 아스파틸]] - [[wiki:"프롤린" 프롤릴]] - [[wiki:"류신"  류실]] - [[wiki:"이소류신"  이소류실]] - [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"알라닌" 알라닐]]
+
+LEUCYL­LEUCYL­GLYCYL­THREONYL­PHENYL­ALANYL­ASPARTYL­THREONYL­ARGNYL­ASPARAGNYL­ 
+[[wiki:"류신" 류실]] - [[wiki:"류신"  류실]] - [[wiki:"글리신" 글리실]] -  [[wiki:"트레오닌" 스레오닐]]  -  [[wiki:"페닐알라닌" 페닐알라닐]]  - [[wiki:"아스파르트산" 아스파틸]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"아르기닌" 알기닐]] - [[wiki:"아스파라긴"  아스파라기닐]]
+
+ARGNYL­SOLEUCYL­SOLEUCYL­GLUTAMYL­VALYL­GLUTAMYL­ASPARAGNYL­GLUTAMNYL­ 
+[[wiki:"아르기닌" 알기닐]] - [[wiki:"이소류신"  이소류실]] - [[wiki:"이소류신"  이소류실]] - [[wiki:"글루탐산" 글루타미닐]] - [[wiki:"발린" 발릴]] - [[wiki:"글루타민" 글루타밀]] - [[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"글루타민" 글루타밀]] 
+
+GLUTAMNYL­SERYL­PROLYL­THREONYL­THREONYL­ALANYL­GLUTAMYL­THREONYL­LEUCYL­ASPARTYL 
+[[wiki:"글루타민" 글루타밀]] - [[wiki:"세린" 세릴]] - [[wiki:"프롤린" 프롤릴]] -  [[wiki:"트레오닌" 스레오닐]]  -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"알라닌" 알라닐]] - [[wiki:"글루타민" 글루타밀]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"류신"  류실]] - [[wiki:"아스파르트산" 아스파틸]] 
+
+ALANYL­THREONYL­ARGNYL­ARGNYL­VALYL­ASPARTYL­ASPARTYL­ALANYL­THREONYL­VALYL­ 
+[[wiki:"알라닌" 알라닐]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"아르기닌" 알기닐]] - [[wiki:"아르기닌" 알기닐]] - [[wiki:"발린" 발릴]] - [[wiki:"아스파르트산"  아스파릴]] - [[wiki:"아스파르트산"  아스파릴]] - [[wiki:"알라닌" 알라닐]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"발린" 발릴]]
+
+ALANYL­SOLEUCYL­ARGNYL­SERYL­ALANYL­ASPARAGNYL­SOLEUCYL­ASPARAGNYL­LEUCYL­VALYL 
+[[wiki:"알라닌" 알라닐]] - [[wiki:"이소류신"  이소류실]] - [[wiki:"아르기닌" 알기닐]] - [[wiki:"세린" 세릴]] - [[wiki:"알라닌" 알라닐]] - [[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"이소류신"  이소류실]] - [[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"류신"  류실]] - [[wiki:"발린" 발릴]] 
+
+ASPARAGNYL­GLUTAMYL­LEUCYL­VALYL­ARGNYL­GLYCYL­THREONYL­GLYCYL­LEUCYL­TYROSYL­ 
+[[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"글루타민" 글루타밀]] - [[wiki:"류신"  류실]] - [[wiki:"발린" 발릴]] - [[wiki:"아르기닌" 알기닐]] - [[wiki:"글리신" 글리실]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"글리신" 글리실]] - [[wiki:"류신"  류실]] - [[wiki:"티로신" 티로실]]
+
+ASPARAGNYL­GLUTAMNYL­ASPARAGNYL­THREONYL­PHENYL­ALANYL­GLUTAMYL­SERYL­METHONYL­
+[[wiki:"아스파라긴"  아스파라기닐]] - [[wiki:"글루탐산" 글루타미닐]] - [[wiki:"아스파라긴"  아스파라기닐]] -  [[wiki:"트레오닌" 스레오닐]]  -  [[wiki:"페닐알라닌" 페닐알라닐]]  - [[wiki:"글루타민" 글루타밀]] - [[wiki:"세린" 세릴]] - [[wiki:"메티오닌" 메티오닐]]
+
+SERYL­GLYCYL­LEUCYL­VALYL­TRYPTOPHYL­THREONYL­SERYL­ALANYL­PROLYL­ALANYL­SERINE
+[[wiki:"세린" 세릴]] - [[wiki:"글리신" 글리실]] - [[wiki:"류신"  류실]] - [[wiki:"발린" 발릴]] - [[wiki:"트립토판" 트리프로필]] -  [[wiki:"트레오닌" 스레오닐]]  - [[wiki:"세린" 세릴]] - [[wiki:"알라닌" 알라닐]] - [[wiki:"프롤린" 프롤릴]] - [[wiki:"알라닌" 알라닐]] - [[세린]]
+
+그런데 이걸 다 읽는 사람은 있을까.

@@ -1,0 +1,50 @@
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/Nhjs3CEkxzs?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Nhjs3CEkxzs?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 110 || {{{#blue 3}}} || {{{#blue 295}}} || {{{#orange 7}}} || {{{#orange 643}}} || {{{#red 9}}} || {{{#red 963}}} || {{{#blue 4}}} || {{{#blue 367}}} || {{{#orange 6}}} || {{{#orange 667}}} || {{{#red 10}}} || {{{#red 1062}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기] 
+ * [[아케이드]] 수록 : 20 tricoro ~
+
+[비트매니아 IIDX 20 tricoro]의 수록곡. 원곡은 하단의 아티스트 코멘트에 보듯 [코나미]의 TPS 게임 [스틸 크로니클]의 BGM 중 하나로 사막 스테이지에 쓰였다.
+
+패턴의 난이도는 그리 어렵지 않은 편이나 싱글 어나더의 경우는 동시치기에 약하면 클리어가 버거운 편. BGA는 스틸 크로니클 PV의 내용에 나오는 등장 캐릭터에 투덱 캐릭터를 대신해서 넣은 무비. 저 무비의 의상은 스틸 크로니클에서 실제로 투덱과의 캠페인 연동으로 한때 입수가 가능했다. 현재는 그 캠페인이 종료되어 입수 불가능.
+
+다음은 BGA에 나오는 대사와 해당 대사가 나오는 장면에 대응되는 투덱 캐릭터와 [http://www.konami.jp/am/steel/game/hound.html 실제 홈페이지에 나오는 [스틸 크로니클]의 캐릭터의 대사]를 대조한 부분. 대사 원본은 주석을 참조.
+
+|| 순차 || 대사 || 투덱 캐릭터 || 스틸 크로니클 캐릭터 ||
+|| 1 || 인류가 살아남기 위해선, 당신의 힘이 필요해요.[[br]]人類が生き残るためには、あなたの力が必要よ。 || -- || [http://www.konami.jp/am/steel/game/images/hound_hdg3_09.png 호다카 레크렉 쿄코] ||
+|| 2 || 자, 준비는 되었나요?[[br]]さあ、準備はいい？ || -- || -- ||
+|| 3 || 가자! 정면돌파다! [[br]] 行くそ！正面突破だ！ || [[시로우]] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_01.png 카미야 신] ||
+|| 4 || 그것이 나의 존재 의미이기 때문에.[[br]]それが私の存在意義ですから。 || [[wiki:"세리카(비트매니아 IIDX)" 세리카]] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_02.png 엘레나 자하로브] ||
+|| 5 || 여기서 자신을 잃어버리면 사라져 버린다. [[br]] ここじゃ自分を見失ったやから消えて行くんだぜ || [[Q-JACK]] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_03.png 사이드 나짐] ||
+|| 6 || 이 내가 질수가 없겠네요! [[br]] このわたしが負けるなんて、ありませんね！ || [[히후미]] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_06.png 세레스틴 챠를로이] ||
+|| 7 || 이러면 전혀 먹히지 않잖아! 이봐! [[br]] こんなんじゃ全然食いたんねぇぞ！おい！ || [wiki:"닉스(비트매니아 IIDX)" 닉스] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_05.png 크라이브 록 하트] ||
+|| 8 || 실패는 용서하지 않아! [[br]] 失敗は許されないのよ…！ || [wiki:"사쿠라(비트매니아 IIDX)" 사쿠라] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_04.png 안나 베른하드] ||
+|| 9 || 무리야. 나에게 이기려는 건. 소용없다니깐.[[br]]無理だよ。ボクに勝つのは。やるだけ無駄だってば。 || [[다루마]] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_07.png 알랙스 서덜랜드] ||
+|| 10 || 나도 모두의 역할을 설테니까...! [[br]] 私だってみんなの役に立っんだから…！ || [츠가루] || [http://www.konami.jp/am/steel/game/images/hound_hdg3_08.png 윤리나] ||
+
+== 아티스트 코멘트 ==
+>○Sound / 극단 레코드 (劇団レコード)
+>
+>안녕하세요. 극단 레코드입니다.
+>YELLOW FROG는, 아케이드 게임 스틸 크로니클의 사막 스테이지의 악곡입니다만, 이번에 비트매니아 IIDX와 콜라보를 하게 되었습니다.
+>
+>노래를 제작할 단계부터 콜라보레이션이 정해져 있었습니다만, 스틸 크로니클의 세계관을 그리면서, 리듬게임으로서의 노래의 완급과 재미를 추구하면서 만들었습니다. 어떠셨나요?
+>
+>또 스틸 크로니클의 음악은, 여러가지 장르의 테이스트가 섞인 아무쪼록 미라클한 음악입니다. 이것이 보기 좋게 비트매니아 IIDX의 세계관과도 매치하고 있지요~. 훌륭하다!
+>
+>비트매니아 IIDX를 통해서 YELLOW FROG에 흥미가 솟은 사람! 스틸 크로니클을 꼭 플레이 해 보세요! 에!? 벌써 하고 있다고? 멋집니다! (^^)
+----------------------------------------------------------------
+>○Movie / S.I.V.A 디자인 제작실 (S.I.V.Aデザイン制作室)
+>
+>[비트매니아 IIDX 20 tricoro]와 콜라보하는 것으로, 이번 무비를 담당했습니다.
+>
+>이 무비는 스틸 크로니클의 오프닝 무비를, IIDX와의 콜라보용으로 재편집한 것입니다. (사용한 무비는 현재 새로운 것으로 바뀌었기 때문에, 이 버전을 볼 수 있는 것은 이제 IIDX에만!)
+>
+>하운드들의 코스튬도 모두 IIDX에 맞춰 변경했습니다만, 알아챌 수 있겠죠? 게다가! [GOLI]씨에게 러프 그림을 써 주었습니다. (그 때엔 대단히 감사했습니다!)
+>
+>BEMANI라고 하는 역사가 있는 인기 타이틀에 작품을 제공하는 것이므로, 압력도 있었지만 완성해 홋하고 있습니다.[* 원문은 ホっとしています。]

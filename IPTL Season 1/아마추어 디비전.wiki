@@ -1,0 +1,289 @@
+ * 상위 항목 : [[wiki:"IPTL Season 1#s-3.3" IPTL Season 1]]
+
+[[목차]]
+
+== 리그 진행 방식 ==
+
+ * 8개 팀 4개 조 토너먼트 [* 그렇기 때문에 8강에서 공백과 부전승이 많다.]
+ * 싱글 엘리미네이션
+ * 상위 4팀은 컨텐더 디비전 진출
+
+GSL로 따지면 코드 B이기 때문에 모든 경기 기록이 있을 수는 없다.
+
+== 참가 팀 ==
+
+아마추어 디비전은 팀 형식을 갖춘 아마추어 팀들이 많기 때문에 국적이 명시되어 리퀴피디아에 등록된 팀들을 제외하고는 국적을 기재하지 않는다.
+
+|| 팀명 || 국적 ||
+|| [[Fnatic]] || 영국 ||
+|| [[wiki:"FXOpen" FXO.CIS]] || 러시아 ||
+|| [[Western Wolves]] || 벨기에 ||
+|| [[Imaginary Gaming]] || 프랑스 ||
+|| [[It's Gosu]] || 미국 ||
+|| [[Renegades of Hell]] || 칠레 ||
+|| [[isurus Gaming]] || 아르헨티나 ||
+|| [[LighT]] || 미국 ||
+|| [[Team ALT]] || 미국 ||
+|| [[Dream Team Gaming]] || 대한민국 ||
+|| [[Crown Gaming]] || 미국 ||
+|| [[Monomaniac eSports]] || 미국 ||
+|| [[Eclypsia]] || 프랑스 ||
+|| [[Root]] || 캐나다 ||
+|| [[Infinity Seven]] || 미국 ||
+
+|| Gamers Abyss ||
+|| Tactical Carnage ||
+|| Team Metagaming ||
+|| Fusion eSports ||
+|| MaxFloPlay ||
+|| Complexity Academy ||
+|| RIP Zeez ||
+|| nuBreed ||
+|| 4Nothing ||
+|| IPlayeSports ||
+|| exioN Gaming ||
+
+== A조 ==
+
+=== 8강 ===
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| 미정 || Implisity || {{{#0000ff 패}}} || Khaydaria || {{{#ff0000 승}}} || BobMoo || 미정 ||
+|| 미정 || link || {{{#0000ff 패}}} || 안티가 조선소 || {{{#ff0000 승}}} || BobMoo || 미정 ||
+|| 미정 || Samp || {{{#ff0000 승}}} || 오하나 || {{{#0000ff 패}}} || BobMoo || 미정 ||
+|| 미정 || Samp || {{{#0000ff 패}}} || 여명 || {{{#ff0000 승}}} || Rebecca || 미정 ||
+|| 미정 || AriA || {{{#0000ff 패}}} || 구름왕국 || {{{#ff0000 승}}} || Rebecca || 미정 ||
+|| 미정 || Kudoku || {{{#ff0000 승}}} || Atlantis Spaceship || {{{#0000ff 패}}} || Rebecca || 미정 ||
+|| 미정 || Kudoku || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || Nairi || 미정 ||
+|| 미정 || Kudoku || {{{#ff0000 승}}} || 대도시 || {{{#0000ff 패}}} || Izual || 미정 ||
+|| 미정 || Kudoku || {{{#ff0000 승}}} || 돌개바람 || {{{#0000ff 패}}} || Zennith || 미정 ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Gammer Abyss''' || {{{#ff0000 5}}} || 4강 진출 ||
+|| Tactical Carnage || {{{#0000ff 4}}} || 탈락 ||
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| Z || Sanddbox || {{{#ff0000 승}}} || 없음 || {{{#0000ff 패}}} || ReAP || Z ||
+|| Z || Sanddbox || {{{#ff0000 승}}} || 없음 || {{{#0000ff 패}}} || NoMicroWin || P ||
+|| Z || Sanddbox || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || Bubba || Z ||
+|| Z || Sanddbox || {{{#ff0000 승}}} || 안티가 조선소 || {{{#0000ff 패}}} || Psych || T ||
+|| Z || Sanddbox || {{{#ff0000 승}}} || 구름왕국 || {{{#0000ff 패}}} || DirtyZenith || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Infinity Seven''' || {{{#ff0000 5}}} || 4강 진출 ||
+|| Team Metagaming || {{{#0000ff 0}}} || 탈락 ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Western Wolves''' || {{{#ff0000 3}}} || 4강 진출 ||
+|| Imaginary Gaming || {{{#0000ff 0}}} || 탈락 ||
+
+=== 4강 ===
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| Z || DeParture || {{{#ff0000 승}}} || TBA || {{{#0000ff 패}}} || TBD || TBD ||
+|| Z || DeParture || {{{#ff0000 승}}} || 여명 || {{{#0000ff 패}}} || Samp || Z ||
+|| Z || DeParture || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || ThoR || P ||
+|| Z || DeParture || {{{#ff0000 승}}} || 오하나 || {{{#0000ff 패}}} || Kudoku || P ||
+|| Z || DeParture || {{{#ff0000 승}}} || 대도시 || {{{#0000ff 패}}} || Link || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Fnatic''' || {{{#ff0000 5}}} || 결승 진출 ||
+|| Gamers Abyss || {{{#0000ff 0}}} || 탈락 ||
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| T || Pyre || {{{#ff0000 승}}} || TBA || {{{#0000ff 패}}} || Mini || Z ||
+|| T || Pyre || {{{#0000ff 패}}} || TBA || {{{#ff0000 승}}} || ZiktoMini || Z ||
+|| Z || Sandbox || {{{#ff0000 승}}} || TBA || {{{#0000ff 패}}} || ZiktoMini || Z ||
+|| Z || Sandbox || {{{#ff0000 승}}} || TBA || {{{#0000ff 패}}} || StjarNaN || P ||
+|| Z || Sandbox || {{{#0000ff 패}}} || TBA || {{{#ff0000 승}}} || SortOf || Z ||
+|| P || Insur || {{{#0000ff 패}}} || TBA || {{{#ff0000 승}}} || SortOf || Z ||
+|| P || Axslav || {{{#0000ff 패}}} || TBA || {{{#ff0000 승}}} || SortOf || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+|| Infinity Seven || {{{#0000ff 3}}} || 탈락 ||
+||<rowbgcolor="#FFFF00"><:>'''Western Wolves''' || {{{#ff0000 4}}} || 결승 진출 ||
+
+=== 결승 ===
+
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| P || Harstem || {{{#0000ff 패}}} || 여명 || {{{#ff0000 승}}} || Ziktomini || Z ||
+|| T || Naama || {{{#0000ff 패}}} || 오하나 || {{{#ff0000 승}}} || Ziktomini || Z ||
+|| Z || 장재호(Moon) || {{{#ff0000 승}}} || Atlantis Spaceship || {{{#0000ff 패}}} || Ziktomini || Z ||
+|| Z || 장재호(Moon) || {{{#0000ff 패}}} || 구름 왕국 || {{{#ff0000 승}}} || Fargo || T ||
+|| T || 박서용(Rain) || {{{#ff0000 승}}} || 문혀진 계곡 || {{{#0000ff 패}}} || Fargo || T ||
+|| T || 박서용(Rain) || {{{#ff0000 승}}} || 안티가 조선소 || {{{#0000ff 패}}} || Mini || Z ||
+|| T || 박서용(Rain) || {{{#ff0000 승}}} || 대도시 || {{{#0000ff 패}}} || SortOf || Z ||
+|| T || 박서용(Rain) || {{{#ff0000 승}}} || 돌개바람 || {{{#0000ff 패}}} || StarNaN || P ||
+
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Fnatic''' || {{{#ff0000 5}}} || 컨텐더 디비전 진출 ||
+|| It's Gosu || {{{#0000ff 3}}} || 탈락 ||
+
+== B조 ==
+
+=== 8강 ===
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Fusion eSports''' || {{{#ff0000 부전승}}} || 4강 진출 ||
+|| MaxFloPlay || {{{#0000ff 부전패}}} || 탈락 ||
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| T || SniXSniPe || {{{#0000ff 패}}} || Khaydaria || {{{#ff0000 승}}} || bNydice || Z ||
+|| Z || NoCreativity || {{{#ff0000 승}}} || 왕국 || {{{#0000ff 패}}} || bNydice || Z ||
+|| Z || NoCreativity || {{{#ff0000 승}}} || 여명 || {{{#0000ff 패}}} || bNydice || Z ||
+|| Z || NoCreativity || {{{#0000ff 패}}} || 묻혀진 계곡 || {{{#ff0000 승}}} || Winter || Z ||
+|| Z || Fuzzy || {{{#ff0000 승}}} || 안티가 조선소 || {{{#0000ff 패}}} || Winter || Z ||
+|| Z || Fuzzy || {{{#ff0000 승}}} || 돌개바람 || {{{#0000ff 패}}} || Winter || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Complexity Academy''' || {{{#ff0000 4}}} || 4강 진출 ||
+|| Team ALT || {{{#0000ff 2}}} || 탈락 ||
+
+=== 4강 ===
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| T || dde || {{{#ff0000 승}}} || 돌개바람 || {{{#0000ff 패}}} || Wrath || T ||
+|| T || dde || {{{#0000ff 패}}} || 구름왕국 || {{{#ff0000 승}}} || SwitcH || P ||
+|| P || 황승혁(HwangSin) || {{{#ff0000 승}}} || Atlantis Spaceship || {{{#0000ff 패}}} || SwitcH || P ||
+|| P || 황승혁(HwangSin) || {{{#0000ff 패}}} || 여명 || {{{#ff0000 승}}} || Blade || Z ||
+|| T || 조재원(Icecream) || {{{#ff0000 승}}} || 안티가 조선소 || {{{#0000ff 패}}} || Blade || Z ||
+|| T || 조재원(Icecream) || {{{#0000ff 패}}} || 대도시 || {{{#ff0000 승}}} || everytime || Z ||
+|| Z || Ostojiy || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || everytime || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''It's Gosu''' || {{{#ff0000 4}}} || 결승 진출 ||
+|| Fusion eSports || {{{#0000ff 3}}} || 탈락 ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''FXO.CIS''' || {{{#ff0000 5}}} || 결승 진출 ||
+|| compLexity Academy || {{{#0000ff 3}}} || 탈락 ||
+
+=== 결승 ===
+
+|| 팀명 || 승점 || 진출 여부 ||
+|| It's Gosu || {{{#0000ff 3}}} || 탈락 ||
+||<rowbgcolor="#FFFF00"><:>'''FXO.CIS''' || {{{#ff0000 5}}} || 컨텐더 디비전 진출 ||
+
+== C조 ==
+
+=== 8강 ===
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| T || Dayshi || {{{#0000ff 패}}} || Khaydaria || {{{#ff0000 승}}} || LurKeR || Z ||
+|| P || Krr || {{{#ff0000 승}}} || 안티가 조선소 || {{{#0000ff 패}}} || LurKeR || Z ||
+|| P || Krr || {{{#0000ff 패}}} || 여명 || {{{#ff0000 승}}} || StarBuck || Z ||
+|| P || Welmu || {{{#ff0000 승}}} || 오하나 || {{{#0000ff 패}}} || StarBuck || Z ||
+|| P || Welmu || {{{#0000ff 패}}} || 묻혀진 계곡 || {{{#ff0000 승}}} || Bunny || T ||
+|| T || SjoW || {{{#ff0000 승}}} || Atlantis Spaceship || {{{#0000ff 패}}} || Bunny || T ||
+|| T || SjoW || {{{#ff0000 승}}} || 대도시 || {{{#0000ff 패}}} || Chubz || P ||
+|| T || SjoW || {{{#ff0000 승}}} || 구름왕국 || {{{#0000ff 패}}} || Downfall || T ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Eclypsia''' || {{{#ff0000 5}}} || 4강 진출 ||
+|| nuBreed || {{{#0000ff 3}}} || 탈락 ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+|| Crown Gaming || {{{#0000ff 1}}} || 탈락 ||
+||<rowbgcolor="#FFFF00"><:>'''Monocromatic eSports''' || {{{#ff0000 5}}} || 4강 진출 ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''4Nothing''' || {{{#ff0000 부전승}}} || 4강 진출 ||
+|| IPlayerSports || {{{#0000ff 부전패}}} || 탈락 ||
+
+=== 4강 ===
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Dream Team Gaming''' || {{{#ff0000 5}}} || 결승 진출 ||
+|| Monocromatic eSports || {{{#0000ff 3}}} || 탈락 ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+|| Eclypsia || {{{#0000ff 4}}} || 탈락 ||
+||<rowbgcolor="#FFFF00"><:>'''4Nothing''' || {{{#ff0000 5}}} || 결승 진출 ||
+
+=== 결승 ===
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Dream Team Gaming''' || {{{#ff0000 5}}} || 컨텐더 디비전 진출 ||
+|| 4Nothing || {{{#0000ff 0}}} || 탈락 ||
+
+== D조 ==
+
+=== 8강 ===
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| P || Courage || {{{#ff0000 승}}} || Khaydaria || {{{#0000ff 패}}} || KuMa || P ||
+|| P || Courage || {{{#0000ff 패}}} || 여명 || {{{#ff0000 승}}} || Kieds || Z ||
+|| Z || Lyra || {{{#0000ff 패}}} || 오하나 || {{{#ff0000 승}}} || Kieds || T ||
+|| Z || ChEDo || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || Kieds || P ||
+|| Z || ChEDo || {{{#0000ff 패}}} || 안티가 조선소 || {{{#ff0000 승}}} || CucH || Z ||
+|| Z || Nezi || {{{#0000ff 패}}} || 대도시 || {{{#ff0000 승}}} || CucH || Z ||
+|| Z || Quonzar || {{{#0000ff 패}}} || 구름왕국 || {{{#ff0000 승}}} || CucH || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+|| exioN Gaming || {{{#0000ff 2}}} || 탈락 ||
+||<rowbgcolor="#FFFF00"><:>'''Renegades of Hell''' || {{{#ff0000 5}}} || 4강 진출 ||
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| Z || Murila || {{{#ff0000 승}}} || Khaydaria || {{{#0000ff 패}}} || Poetry || 미정 ||
+|| Z || Murila || {{{#ff0000 승}}} || 구름왕국 || {{{#0000ff 패}}} || Vogue || 미정 ||
+|| Z || Murila || {{{#0000ff 패}}} || 여명 || {{{#ff0000 승}}} || Jimmeh || 미정 ||
+|| Z || Dark || {{{#0000ff 패}}} || 안티가 조선소 || {{{#ff0000 승}}} || Jimmeh || 미정 ||
+|| P || Darkness || {{{#ff0000 승}}} || 오하나 || {{{#0000ff 패}}} || Jimmeh || 미정 ||
+|| P || Darkness || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || Zugz || 미정 ||
+|| P || Darkness || {{{#0000ff 패}}} || 돌개바람 || {{{#ff0000 승}}} || JJH || 미정 ||
+|| T || SenDoh || {{{#ff0000 승}}} || 대도시 || {{{#0000ff 패}}} || JJH || 미정 ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''isurus Gaming''' || {{{#ff0000 5}}} || 4강 진출 ||
+|| Rip ZeeZ || {{{#0000ff 3}}}  || 탈락 || 
+
+=== 4강 ===
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| Z || Destiny || {{{#ff0000 승}}} || 돌개바람 || {{{#0000ff 패}}} || CuCH || Z ||
+|| Z || Destiny || {{{#ff0000 승}}} || 오하나 || {{{#0000ff 패}}} || Gdlk || T ||
+|| Z || Destiny || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || FrancisKO || T ||
+|| Z || Destiny || {{{#ff0000 승}}} || 구름왕국 || {{{#0000ff 패}}} || KuMa || P ||
+|| Z || Destiny || {{{#ff0000 승}}} || 안티가 조선소 || {{{#0000ff 패}}} || Kieds || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''ROOT Gaming''' || {{{#ff0000 5}}} || 4강 진출 ||
+|| Renegades Of Hell || {{{#0000ff 0}}} || 탈락 ||
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| T || KnighT || {{{#0000ff 패}}} || 돌개바람 || {{{#ff0000 승}}} || Murila || Z ||
+|| T || 박서현(SeoHyeon) || {{{#ff0000 승}}} || 안티가 조선소 || {{{#0000ff 패}}} || Murila || Z ||
+|| T || 박서현(SeoHyeon) || {{{#0000ff 패}}} || 오하나 || {{{#ff0000 승}}} || Darkness || P ||
+|| P || Caliber || {{{#ff0000 승}}} || 여명 || {{{#0000ff 패}}} || Darkness || P ||
+|| P || Caliber || {{{#ff0000 승}}} || Khaydaria || {{{#0000ff 패}}} || Darkness || T ||
+|| P || Caliber || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || Darkness || P ||
+|| P || Caliber || {{{#ff0000 승}}} || 구름왕국 || {{{#0000ff 패}}} || Darkness || Z ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''Light eSports''' || {{{#ff0000 5}}} || 결승 진출 ||
+|| isurus Gaming || {{{#0000ff 2}}} || 탈락 ||
+
+=== 결승 ===
+
+|| 종족 || 선수명 || 승점 || 맵 || 승점 || 선수명 || 종족 ||
+|| Z || SLush || {{{#ff0000 승}}} || 여명 || {{{#0000ff 패}}} || 손석희(Sson) || P ||
+|| Z || SLush || {{{#ff0000 승}}} || 묻혀진 계곡 || {{{#0000ff 패}}} || KawaiiRice || T ||
+|| Z || SLush || {{{#ff0000 승}}} || 대도시 || {{{#0000ff 패}}} || Caliber || P ||
+|| Z || SLush || {{{#0000ff 패}}} || 안티가 조선소 || {{{#ff0000 승}}} || 박서현(SeoHyeon) || T ||
+|| T || MaSa || {{{#ff0000 승}}} || 돌개바람 || {{{#0000ff 패}}} || 박서현(SeoHyeon) || T ||
+|| T || MaSa || {{{#ff0000 승}}} || Atlantis Spaceship || {{{#0000ff 패}}} || binski || T ||
+
+|| 팀명 || 승점 || 진출 여부 ||
+||<rowbgcolor="#FFFF00"><:>'''ROOT Gaming''' || {{{#ff0000 5}}} || 컨텐더 디비전 진출 ||
+|| LighT eSports || {{{#0000ff 1}}} || 탈락 ||
+
+
+== 컨텐더 디비전 진출 팀 ==
+
+|| 팀명 || 국적 ||
+|| [[Fnatic]] || 영국 ||
+|| [[wiki:"FXOpen" FXO.CIS]] || 러시아 ||
+|| Dream Team Gaming || 대한민국 ||
+|| ROOT Gaming || 캐나다 ||

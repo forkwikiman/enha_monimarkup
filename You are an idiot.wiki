@@ -1,0 +1,58 @@
+[[목차]]
+== 개요 ==
+[http://wwwyouareanidiot.org/ 웹사이트. IE7 이하에서는 절대 들어가지 말자.] (이 링크는 무의식중 클릭을 방지하기 위해, www와 주소 사이의 점(.)을 제거하였다.)
+
+[[플래시]] 애니메이션이자 바이러스 웹사이트 중 하나.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/48rz8udZBmQ?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/48rz8udZBmQ?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+>You are an idiot! Ahahahahahahaha! hahahahaha!
+> - '''You are an idiot 플래시'''
+
+처음 보았을 땐 합창단의 큰 소리에 놀랐다가, 30초가 지나면 슬슬 열을 받기 시작하더니, 1분이 지나면 그 묘한 중독성에 계속 보게 되는 신비한 플래시. ~~[[wiki:"다들 그렇게 게이가 되는 거야" 다들 그렇게 바보가 되는 거다.]]~~ 
+그 때문인지 꾀 많은 2차창작물이 있다. 어디에 붙여도 싱크로율이 높은 것도 한몫 한 듯 하다.
+현재는 [[UCC]]계에서 가끔 소재로 사용된다.
+
+당연히 [[일본]]의 [[니코니코 동화]]에도 업로드 되었는데, 이 때문인지 일본쪽 2차 창작물이 많다.
+늘 그렇듯 [[몬데그린]] 코멘트가 여럿 있다.
+아래는 그 중 대표적인 3가지 예.
+>>床にTBS！
+>>마루에 [TBS]!
+
+>>優雅にTBS！
+>>우아하게 [TBS]!
+
+>>有価にTBS！
+>>유가에 [TBS]!
+
+물론 [[한국어]]로도 [[몬데그린]]이 없지는 않다.
+>>[[유아인]] 이리 와!
+
+원래는 그냥 단순히 보는 사람을 조롱하기 위한 플래시였다. 그러나 이 플래시가 '''끄면 창이 6개로 늘어나는''' 테러 사이트에 게시되면서 유명해졌다. 게다가 이 사이트는 조롱하기라도 하듯이 자유분방하게 움직인다! 그리고 당시는 [wiki:"인터넷 익스플로러"IE5] 시절이라 브라우저 수준에서 팝업을 자동차단해주지 않았기 때문에 악명이 매우 높았다.
+하지만 이제는 창이 늘어나거나 움직이진 않는다.
+사이트 주인이 사이트를 팔았는데. 새 주인도 이짓거리를 하는 중이다
+
+
+== 2차(?) 창작물 ==
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/hiRacdl02w4?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hiRacdl02w4?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+가장 유명한 리믹스 버전. 처음에 나오는 일본어(あなたは本当に馬鹿ですね)는 '''당신은 정말 바보로군요!''' 라는 뜻이다.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer36288' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=02EAF807FCAA70904D30EAEEFB71A5BD30BF&outKey=V122f0d1cb3cd52f96e5479620a3bfafc357b2f5c1e73c2b9074e79620a3bfafc357b' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=02EAF807FCAA70904D30EAEEFB71A5BD30BF&outKey=V122f0d1cb3cd52f96e5479620a3bfafc357b2f5c1e73c2b9074e79620a3bfafc357b' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer36288' id='NFPlayer36288' allowFullScreen='true' type='application/x-shockwave-flash' /></object>}}}
+[[나이트 오브 나이츠|Night of idiots]]
+
+[[HTML|<iframe width="420" height="315" src="//www.youtube.com/embed/yPFGtr2kY-E" frameborder="0" allowfullscreen></iframe>]]
+[[300(영화)|스파르타 리믹스 버전.]]
+
+[[HTML|<iframe width="420" height="315" src="//www.youtube.com/embed/4h8vDhFn6OA" frameborder="0" allowfullscreen></iframe>]]
+[[Nyan Cat|Idiotdiotdiotdiotdiot!]]
+
+[[HTML|<iframe width="420" height="315" src="//www.youtube.com/embed/oed9R6veEhE" frameborder="0" allowfullscreen></iframe>]]
+[[RED ZONE|IDIOT ZONE]]
+
+[[HTML|<iframe width="560" height="315" src="//www.youtube.com/embed/n38oDZbmMvQ" frameborder="0" allowfullscreen></iframe>]]
+냉장 idiot (HammeRedzonEvanSecondHeaven 이라고도 한다.)

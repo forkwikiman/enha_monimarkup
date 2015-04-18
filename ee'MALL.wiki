@@ -1,0 +1,176 @@
+attachment:uploadfile/nlive3_02.jpg
+
+'''e'''-AMUSEMENT '''e'''NTERTAINMENT' '''MALL'''
+~~'''e'''vil '''e'''mpire '''MALL'''~~
+
+[[목차]]
+== 개요 ==
+[[코나미]]에서 2003년도[* 첫 버전은 3월, 2nd avenue는 12월에 발매]에 발매한 게임. 장르는 디지털 쇼핑 시뮬레이션. 일본 현지의 약칭은 芋로, ee'MALL과 발음이 비슷하다[* 芋의 독음은 이모(いも).]는 것을 이용한 언어유희. [[리듬게임 갤러리]]에서 가끔 이걸 얘기할때 앞의 두글자 때문인지 '''[[용개]]몰'''이라 부르기도. --외쳐! [[EE]]!--
+
+== 기체 ==
+기체는 카드 슬롯과 모니터, 다이얼과 A,B 버튼으로 구성되어 있다. [[e-AMUSEMENT]]에 대응해서, 각 e-AMUSEMENT 대응 게임의 엔트리 카드를 이용해 게임을 즐길 수 있었다.
+
+== 컨텐츠 ==
+ee'MALL의 컨텐츠라면 [[BEMANI 시리즈]]의 곡 구입을 떠올리는 사람이 많겠지만 ee'MALL 자체로도 이런저런 컨텐츠가 있었다. 탁구나 사격, 비마니 미니게임 등의 게임이나 ee'MALL 기체를 통한 메일 기능 등이 있었다. 이 중 비마니 미니게임은 ee'MALL 기체의 A버튼과 B버튼으로 비트매니아를 즐기는 게임인데, 버튼이 두 개밖에 없으니 순전히 연타로 승부하는 게임이 되었다.
+
+컨텐츠를 즐기다보면 포인트가 쌓이고 포인트를 통해 아바타의 옷이나 아이템을 구매하는 등 추가 컨텐츠를 즐길 수 있었다.
+=== 타 게임과의 연동 ===
+ee'MALL의 여러 컨텐츠를 즐겨서 얻을 수 있는 포인트를 통해 BEMANI 시리즈에서 즐길 수 있는 곡을 구입할 수 있었다. [[팝픈뮤직]]과 [[기타프릭스]]&[[드럼매니아]]의 경우는 포인트 연동은 물론 추가곡이 제공된다. 다른 BEMANI 시리즈의 곡들을 포인트로 구입하는 방식 이외에도, 게임 내에서 획득한 아이템들을 합성해서 얻을 수도 있었다.
+
+[ee'MALL]만의 오리지날 곡들도 있으며, 당시 대응되었던 곡의 리스트는 본 문서의 이식곡 및 수록곡 란에서 확인이 가능.
+
+beatmania IIDX, 마작격투구락부, Winning Eleven 등에도 연동되었지만 모두 포인트만 연동.
+
+== 반응 ==
+본디 이 연동을 코나미에서는 기대하면서 차후 타 게임에도 대응시킴과 동시에 서비스가 확장될 예정이었으나, 출시 이후 반응이 시큰둥하고 '''새로 전용기계를 들여놔야 되는데, 정작 이건 게임이라고 하기도 애매하고 정보기기라고 하기도 애매하다'''라는 단점때문에 초기에 반짝 떴다가 이후 시들시들해서 데이터 유지만 시키고 있었던 실정. [e-AMUSEMENT SPOT]이전에 나온 삽질이었던 셈.
+
+거기에 일본내 한정 서비스로만 했던것도 문제라면 문제. 이 서비스는 일본 외의 다른 아시아 국가에서는 전혀 이용할 수가 없었는데, 문제는 이게 막 나올 당시 e-AMUSEMENT가 최초로 해외개통이 되었던곳이 생겼고,[* 홍콩과 대만이 [기타프릭스] 11th MIX & [드럼매니아] 10th MIX때부터 정식으로 네트워크 대응이 시작되었다.] 당연히 해외에서는 막 도입중이던 이 서비스를 이용할 수 없었기 때문에 e-AMUSEMENT가 개통이 되었어도 몇몇 곡을 플레이할수 없다는 안습한 사태가 발생하기도 하였다.
+
+== 수록곡 이식 ==
+나중에 e-AMUSEMENT 시스템이 e-AMUSEMENT PASS로 개편이 되면서 결국 서비스를 종료하게 되며, 이 ee'MALL로 구입할 수 있었던 곡들은 기타프릭스 & 드럼매니아에서는 V3에서, 팝픈뮤직에서는 14 FEVER와 15 ADVENTURE 두 버전으로 나뉘어서 완전 해금이 되었다.
+
+팝픈뮤직의 경우는 수록곡 및 이식곡이 많았기 때문에 아예 ee'MALL 폴더가 따로 마련되어 있었으며, 16 PARTY부터 20 fantasia까지는 BEMANI 폴더로 편입되었었다. 하지만 Sunny Park에서 BEMANI 폴더가 현행 기종들만 보여주는 바람에 시리즈 명맥이 끊긴 5건반 [[비트매니아]],[[키보드매니아]] 수록곡들과 함께 BEMANI 폴더에서 빠져버렸다.
+
+그나마 기타도라 시리즈에 수록된 곡들은 GITADORA 폴더에서 찾을 수 있지만 그 외의 곡들을 찾을려면 '''곡명''','''작곡가명''','''장르''','''난이도'''로만 찾을 수 밖에 없어 안 그래도 낮은 선택빈도의 곡들을 더 나락으로 떨어트렸다. 이에 유저들은 서니파크 가동 초기부터 개선을 요구를 했지만 코나미는 묵묵부답. 이는 [[라피스토리아]] 시점에서도 전혀 개선되지 않았다.
+
+캐릭터 뒷배경이 있었던 [[Sunny Park]] 이전의 버전에 해당되는 얘기로, 팝픈뮤직에 이식된 ee'MALL의 곡은 자체적으로 캐릭터 뒷배경으로 쓰는 곡이 하나도 없고[* [[Aithon]], [[A SHOOTING STAR]] 등 ee'MALL이 끝난 뒤에 이식된 노래는 제외.] 대부분의 곡이 다른 곡의 캐릭터 뒷배경을 그대로 가져다 쓴 경우가 거의 대부분이었다.[* 예로 [洟・月・奇蹟]는 [明鏡止水], [The Least 100sec]은 The tyro's reverie, [月光蝶]은 [幸せを謳う詩]를 썼다. 이 중에 [Destiny lovers]처럼 [CAT'S EYE|판권곡]의 배경을 가져다 쓴 경우도 있다.]
+
+가정용으로의 이식도 이루어졌는데, 팝픈뮤직의 경우는 최초로 대응되었던 9부터 14까지 각 버전에 구곡으로, [기타프릭스] & [드럼매니아]는 마스터피스 골드/실버, V3에 나누어서 수록되어 있으나 모든 곡이 이식되지는 못했다.
+
+기타드럼 시리즈의 경우, V2 이전까지는 거의 모든 곡에 범용 BGA + 레이어가 붙었지만, V3에 MPS[* [[brave!]], [[螺子之人]], [[空言の海]].], V4에 MPG의 BGA[* Aithon, [[洟・月・奇蹟]], [[ペパーミントは私の敵]]. memories는 beatmania IIDX 8th Style의 전용 BGA로 변경.]가 이식되고, V5에 [悪アガキ], [[ちょっと]]의 BGA가 추가되었고 가정용 V3에 수록된 이식곡들의 BGA도 이식되었다.
+
+그리고 지금은 BEMANI 시리즈와 e-AMUSEMENT 서비스의 [[흑역사]]로 남아버렸다.
+
+[[비트매니아 IIDX]] 16 EMPRESS의 [[B4U]](BEMANI FOR YOU MIX) 에서 각종 BEMANI 게임들이 가사에 나오는데 그 중 이 ee'MALL도 있어서 ee'MALL을 아는 사람들에게 씁쓸한 실소를 남겼다.
+
+ee'MALL이 종료됨으로서 전용 기계를 통한 연계 해금 방식의 시스템은 폐지되었지만, [wiki:"기타프릭스" 기타][wiki:"드럼매니아" 도라] V6 <=> [[악마성 드라큘라 아케이드]]를 거쳐 '''[[BEMANI 시리즈/연동 이벤트]]'''로 이어져 타 아케이드 기계와의 콜라보레이션 형태를 제공해준 계기가 되기도 했다. 이러한 역사성 때문에 완벽한 실패라 보긴 힘들지만, 그래도 이미 유저들의 기억 속에는 이 기계가 있었다 정도로 잊혀진지 오래다.
+
+=== 이식곡 일람 (ee'MALL) ===
+ * [[beatmania]] → [[pop'n music]]
+  * [[SURGE LINE]]
+  * [[What is Love?]]
+  * [[perfect sunrise]]
+  * [[Cappuccino bossa]]
+  * [[rock the beatz]]
+  * [[Jack and Mark Get Busy!]]
+  * [[COREDESAT]]
+  * [[Feel The Light]]
+  * [[HEALEN]]
+  * [[7000 Questions]]
+  * [[WATCHINGOUT]]
+  * [[S.F.M]]
+  * [[STEEL CAGE]]
+  * [[BE LOVIN]]
+ * [[beatmania IIDX]] → pop'n music
+  * [[OVER THE CLOUDS]]
+  * [[DIAMOND JEALOUSY]]
+  * [[Colors]]
+  * [[I'm In Love Again]]
+  * [[memories]]
+ * [[beatmania III]] → pop'n music
+  * [[Stay with me]]
+  * [[Badboy flygirl]]
+ * [[댄스 댄스 레볼루션]] → pop'n music
+  * [[BRE∀K DOWN!]]
+ * [[댄스 매니악스]] → pop'n music
+  * [[AFRONOVA|AFRONOVA PRIMEVAL]]
+ * [[기타프릭스]]&[[드럼매니아]] → pop'n music
+  * [[jet coaster☆girl]]
+  * [[BALALAIKA, CARRIED WITH THE WIND]]
+  * [[VOIDDD]]
+  * [[Happy Man]]
+  * [[スイマーズ]]
+  * [[The Least 100sec]]
+  * [[CHOCOLATE PHILOSOPHY]]
+  * [[三毛猫ロック]]
+  * [[そっと。]]
+  * [[IMPLANTATION]]
+ * [[키보드매니아]] → pop'n music
+  * [[AKUMAJO DRACULA MEDLEY]]
+  * [[Shake!]]
+=== 이식곡 일람 (ee'MALL 2nd avenue) ===
+ * [[beatmania]] → [[pop'n music]]
+  * [[ZANZIBAR]]
+  * [[LINN 1999]]
+  * [[papayapa bossa]]
+  * [[Turning the motor over]]
+  * [[LOVE D RIVE]]
+ * [[beatmania IIDX]] → pop'n music
+  * [[airflow]]
+  * [[LOVE IS ORANGE]]
+  * [[rottel-da-sun]]
+  * [[REINCARNATION]]
+ * [[beatmania III]] → pop'n music
+  * [[Twin Bee ~Generation X~]]
+  * [[feeling of love]]
+ * [[댄스 댄스 레볼루션]] → pop'n music
+  * [[END OF THE CENTURY]]
+  * [[Sweet Sweet ♥ Magic]]
+  * [[祭 JAPAN]]
+ * [[댄스 매니악스]] → pop'n music
+  * [[KISS KISS KISS]]
+ * [[기타프릭스]]&[[드럼매니아]] → pop'n music
+  * [[Waza]]
+  * [[Sweet Illusion]]
+  * [[チカラ]]
+  * [[子供の落書き帳]]
+  * [[Destiny lovers]]
+  * [[月光蝶]]
+ * [[키보드매니아]] → pop'n music
+  * [[Henry Henry]]
+  * [[MR.C.C]]
+  * [[NEW CENTURY GENERATION]]
+ * [[맘보 아 고고]] → pop'n music
+  * [[LA BRISE D'ETE]]
+ * [[beatmania]] → [[기타프릭스]]&[[드럼매니아]]
+  * [[S.F.M]]
+ * [[beatmania IIDX]] → 기타프릭스&드럼매니아
+  * [[memories]]
+ * [[pop'n music]] → 기타프릭스&드럼매니아
+  * [[Marigold]][* 기타드럼에 처음 나왔을 땐 범용 BGA였고 세션도 안됐지만 V5에서 가정용 V3의 전용 BGA가 이식되었고 세션도 가능하게 되었다.]
+ * [[맘보 아 고고]] → 기타프릭스&드럼매니아
+  * [[Dance the night away]][* 팝픈뮤직엔 14 FEVER!에 이식 수록.]
+  * [[Wall Street down-sizer]][*8]
+== 수록곡 일람 ==
+
+수록곡 리스트는 ee'MALL & ee'MALL 2nd avenue 사운드트랙에 수록된 수록곡을 중심으로 작성. 
+※ 표시는 기타프릭스 & 드럼매니아 V시리즈에서 세션 플레이가 불가능한 곡이다. V8 현재 세션이 가능한 곡은 취소선 표기.
+☆ 표시는 팝픈뮤직, ★ 표시는 드럼매니아에 수록된 노래.
+
+ * [I really love you so] ☆
+ * [1/6billionth] ☆
+ * [Nick Boys] ☆
+ * [説] ☆
+ * [ペパーミントは私の敵] --※[* V3까지 세션 불가]--☆★
+ * [Craze for You] ☆
+ * [ラスネール] ☆
+ * [lime-light] ☆
+ * [CLOUD] ☆
+ * [Moonlight Prayer] ☆
+ * [空言の海] ☆★
+ * [ちょっと] ※--☆[* ee'MALL 시리즈가 종료된 뒤에 수록]--★
+ * [花見で一杯] ☆
+ * [Custom-made Girl -NOT FOR SALE!-] ☆
+ * [螺子之人] --☆[*11]--★
+ * [Brave!] ☆★
+ * [DIAMOND JEALOUSY] ☆
+ * [mind] ☆
+ * [I'm In Love Again] ☆
+ * [memories] --※[*10]--☆★
+ * [Romance] ☆
+ * [純勉夏] ※☆★
+ * [Pinky Nick] ☆
+ * [バリバリブギ ～涙のフルーツポンチ～] ※☆★
+ * [悪アガキ] ※☆★
+ * [洟・月・奇蹟] --※[*10]--☆★
+ * [大好きだよ] ※--☆[*10]--★
+ * [Aithon] --※[*10]-- --☆[*11]--★
+ * [ALONE] ☆
+ * [さんぽのうた] ☆
+ * [A SHOOTING STAR] --※[*8]-- --☆[*11]--★
+ * [fantasy suitcase] ☆
+ * [autumn G] ☆
+ * [old O] ☆
+ * --[[DANCE FOR THE FUTURE]]--[* 기타프릭스 10th & 드럼매니아 9th의 수록곡으로, 첫 등장 당시(기타 10th & 드럼 9th 로케테스트)엔 ee'MALL 2nd avenue에서 구매해야 플레이 할 수 있었던 곡이었으나 정식판에서 통상해금곡으로 변경.]
+
+[[각주]]

@@ -1,0 +1,69 @@
+[[목차]]
+|| 장르 |||||||| R&B ||
+|| 곡명 |||||||| Up and down ||
+|| 작곡/보컬 |||||||| Soulzean ||
+|| 작사 |||||||| Baby Boy ||
+|| 배경 |||||||| (작자 미상) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 96 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 5}}} || {{{#red 6}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple 9}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='cHNtSvfEKFk$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=cHNtSvfEKFk$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=cHNtSvfEKFk$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''BGA'''
+== 개요 ==
+EZ2DJ 6thTRAX의 수록곡.
+
+시시한 패턴과 배경 영상의 낮은 질, 그리고 이렇다할 매력이 없는 곡 등 여러 단점들 때문에 묻혔다. 특히 BGA는 2004년에 나온 작품에 수록된 영상임에에도 불구하고 5년 전에 나온 [[펌프 잇 업]] 2nd의 BGA보다 못하다는 굴욕적인 평을 받았다. 다만 노력은 했다는 긍정적인 평가도 있다. 실제로 [[Stars in Your Eyes]]처럼 그림 몇 장 뿌려놓고 돌리는 무성의한 BGA와 비교하면 이것저것 다양한 연출을 넣으려고 노력한 흔적은 보인다.
+
+[wiki:"EZ2DJ 7thTRAX BONUS EDITION revision A" BE rA]의 스트릿 모드에서는 4th~6th 올송커맨드 입력시 한정으로 등장한다.
+
+이 곡의 작곡가이자 보컬을 맡은 소울진은 2008년도에 솔로앨범을 발표하였으며 현재는 대중음악씬에서 작곡가로써 활동 중이다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+=== 7K STANDARD ===
+=== 5K COURSE ===
+이 곡은 한 번도 라디오 채널에 들어간 적이 없다. 이지투디제이에서 제일 인기가 없고 존재감이 낮은 곡이라서 앞으로도 라디오 채널에 들어갈 일은 드물 듯.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== 가사 ==
+||-1 it's up and down feel the beat
+-2 up and down can you take the heat
+-3 up and down got the heat
+ 
+-3
+tell me how ya feelin baby
+-2
+gonna get ya beautiful lady
+-3 
+feelin this bangin music
+-2
+can you feel the groove tonight
+ 
+ADLIB-
+can you feel 
+can you feel it baby
+feel the beat yo!-x2
+yeah baby!x2
+yeah
+feel that beat baby||

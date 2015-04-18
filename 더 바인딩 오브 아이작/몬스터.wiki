@@ -1,0 +1,287 @@
+ * 상위 항목: [[더 바인딩 오브 아이작]], [[더 바인딩 오브 아이작: 리버스]]
+ * 보스는 [[더 바인딩 오브 아이작/보스]] 항목 참조.
+ * 아래 이미지 중 몇 가지는 사람에 따라 혐오스러울 수 있으니 주의할 것.
+ * 몬스터들의 기본적인 공격은 하트 반칸 분의 대미지, Womb부터, 혹은 챔피언 몬스터는 무조건 하트 한칸 분의 대미지를 입힌다. 일부 몬스터들은 Womb 이전에도 한칸분의 대미지를 입히는 공격(♥)이 있다.
+ * 몬스터들의 이름 옆에는 등장하는 층이 기재되어있다. 대개 층에 따라 등장하는 몬스터들이 달라지지만 일부 상급 몬스터들은 가끔 윗층에 등장하는 경우도 있다. 참고로 리버스에서 D10을 쓸 경우 '''등장하는 층에 관계 없이 전부 랜덤으로 몬스터들이 정해지니''' 조심해서 쓰자.
+
+[[목차]]
+
+== 기존 몬스터 ==
+왼쪽은 오리지널, 오른쪽은 리버스에서의 모습이다.
+
+|||| '''몬스터''' || '''설명''' ||
+|||| '''Black Fly''' || Basement/Cellar, Caves/Catacombs, Womb(...) ||
+|| attachment:Black_Fly.png || attachment:Black_Fly(r).png ||작고 검은 파리. 플레이어를 공격하지 않으며 스폰된 장소 주위를 배회한다. 접촉 대미지 없음. 똥 주위에 오래 있을 경우 Pooter로 변이된다. ||
+|||| '''Attack Fly''' || Basement/Cellar, Caves/Catacombs, Depths/Necropolis, Utero, Chest(...) ||
+|| attachment:Attack_Fly.png || attachment:Attack_Fly(r).png ||붉은 파리. Black Fly보다 체력이 약간 높다. 플레이어에게 접근해서 공격한다.||
+|||| '''Moter''' || Basement/Cellar, Caves/Catacombs, Depths, Womb/Utero ||
+|| attachment:Moter.png || attachment:Moter(r).png ||파리 한 쌍이 접합된 몬스터. 체력이 모두 닳으면 Attack Fly 2마리로 나눠진다. 아주 큰 데미지를 줄 경우 나뉘지 않고 바로 죽는다.||
+|||| '''Pooter''' || Basement/Cellar, Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Pooter(1).png || attachment:Pooter(r).png ||스폰된 장소 주위를 배회하며 플레이어에게 핏방울을 하나 발사한다. 접촉 대미지 없음.||
+|||| '''Boom Fly''' || '''Cellar''', Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Boom_Fly.png || attachment:Boom_Fly(r).png ||대각선 방향으로 움직이며 체력이 모두 닳으면 폭발한다. 사거리가 짧은 아자젤은 특히 주의해야 될 적. 자폭 몬스터가 다 그렇듯이 무리지어 있을 때 터뜨리면 줄줄이 폭사하는 장관을 볼 수 있다.||
+|||| '''Red Boom Fly''' || Caves/Catacombs, Depths/Necropolis, Utero ||
+|| attachment:Red_Boom_Fly.png || attachment:Red_Boom_Fly(r).png ||대각선 방향으로 움직이며 체력이 모두 닳으면 6갈래로 핏방울을 발사한다.||
+|||| '''Sucker''' || '''Basement''', Caves/Catacombs, Depths/Necropolis, Womb/Utero, Sheol ||
+|| attachment:Sucker(1).png || attachment:Sucker(r).png ||플레이어를 천천히 따라오며 죽을 시 +자 방향으로 핏방울을 발사한다.||
+|||| '''Boil''' || Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Boil.png || attachment:Boil(r).png ||플레이어가 방으로 들어오는 순간부터 크기가 점점 커지기 시작하며 완전히 커지면 무작위 방향으로 여러 개의 핏방울을 뿜어낸다. 리버스에서는 플레이어가 범위 내에 접근할 경우 플레이어에를 향해 여러 개의 핏방울을 발사한다. 피격 시마다 작아지며 크기가 곧 체력인 몬스터. 접촉 데미지 없음.||
+|||| '''Mulligan''' || Basement/Cellar ||
+|| attachment:Mulligan.png || attachment:Mulligan(r).png ||질질 짜는 신음소리와 함께 플레이어를 피해다닌다. 구석에 몰리면 자폭하며, +자 방향으로 핏방울을 발사한다. 자폭을 유도해서 비밀방을 뚫거나, 주위 오브젝트를 부술 수도 있다. 죽으면 Black Fly, Attack Fly, Pooter 여러 마리를 남긴다.||
+|||| '''Mulligoon''' || Basement/Cellar ||
+|| attachment:Mulligoon.png || attachment:Mulligoon(r).png ||패턴은 Mulligan과 동일하나 죽으면 x자 방향으로 핏방울을 발사하고 트롤 폭탄 하나를 남긴다. 자폭할 때에는 8방향으로 핏방울을 발사한다.||
+|||| '''Hive''' || Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Hive.png || attachment:Hive(r).png ||살아 있는 동안 attack fly를 한마리씩 소환한다. 죽으면 Black Fly, Attack Fly, Pooter 여러 마리를 남긴다.||
+|||| '''Hopper''' || Basement, Caves, Depths ||
+|| attachment:Hopper.png || attachment:Hopper(r).png ||점프로 이동하며 플레이어를 인식할 수 있는 짧은 시야를 가지고 있다. 방 내에 모닥불이 있을 경우 닿으면 아래 Flaming Hopper로 진화하니 주의할 것.||
+|||| '''Flaming Hopper''' ||<|2>Hopper가 모닥불에 접촉해서 변이된 몬스터로 Hopper보다 월등한 체력과 이동 속도, 넓은 시야를 가지고 있다.||
+|| attachment:Flaming_Hopper.png || attachment:Flaming_Hopper(r).png ||
+|||| '''Leaper''' || '''Catacombs''', Depths/Necropolis ||
+|| attachment:Leaper.png || attachment:Leaper(r).png ||Hopper처럼 방 안을 돌아다니다가 플레이어를 인식했을 경우 매우 높게 도약해서 플레이어 위치로 착지한다. 착지 시 +자 방향으로 핏방울을 발사한다.||
+|||| '''Pacer''' || Basement/Cellar, Caves/Catacombs ||
+|| attachment:Pacer.png || attachment:Pacer(r).png ||방 안을 무작위 방향으로 돌아다닌다. Gaper, Frowning Gaper를 죽일 경우 일정 확률로 나온다.||
+|||| '''Gusher''' || Basement/Cellar ||
+|| attachment:Gusher.png || attachment:Gusher(r).png ||목이 잘려 피가 분출하는 형상을 한 몬스터. Pacer처럼 이동하면서 무작위 방향으로 핏방울을 발사한다.||
+|||| '''Gaper''' || Basement/Cellar ||
+|| attachment:Gaper.png || attachment:Gaper(r).png ||플레이어를 추적해오며 체력이 모두 닳으면 일정 확률로 Pacer 또는 Gusher가 된다.||
+|||| '''Frowning Gaper''' || Basement/Cellar, Chest ||
+|| attachment:Frowning_Gaper.png || attachment:Frowning_Gaper(r).png ||플레이어를 인식할 경우 눈을 뜨며~~눈이 없는데~~ 빠른 속도로 추적해온다. 체력이 모두 닳으면 일정 확률로 Pacer 또는 Gusher가 된다.||
+|||| '''Horf''' || Basement/Cellar ||
+|| attachment:Horf.png || attachment:Horf(r).png ||제자리에 가만히 떠 있으며 플레이어를 인식하면 핏방울 하나를 발사한다.||
+|||| '''Mr. Maw''' || Depths/Necropolis, Womb/Utero ||
+|| attachment:Mr_Maw.png || attachment:Mr_Maw(r).png ||플레이어에게 다가오며 일정 범위 이상 접근하면 플레이어 쪽으로 머리박치기를 시도한다. 어느 부위를 먼저 파괴했냐에 따라 Maw 또는 Pacer를 남긴다. 목을 먼저 파괴했을 경우 둘 다 남기며 일반적인 경우에는 무조건 머리가 남는다. 가끔 자기 혼자서 목을 끊어버리는 경우도 있다.||
+|||| '''Maw''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Maw.png || attachment:Maw(r).png ||언제나 떠 있는 상태이며 핏방울 하나를 발사하면서 플레이어를 느리게 추적해온다.||
+|||| '''Red Maw''' || Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Red_Maw.png || attachment:Red_Maw(r).png ||Maw보다 빠른 속도로 플레이어를 추적해온다. 죽으면 +자 방향으로 핏방울을 발사한다.||
+|||| '''Globin''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero, Sheol/Cathedral ||
+|| attachment:Globin.png || attachment:Globin(r).png ||플레이어를 추적해온다. 죽을 경우 곤죽이 되며 그대로 놔두면 체력이 줄어든 상태로 다시 부활한다. 하트 1개분의 데미지를 입히므로 주의.(♥)||
+|||| '''Gazing Globin''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero, Sheol/Cathedral ||
+|| attachment:Gazing_Globin.png || attachment:Gazing_Globin(r).png ||Globin과 같지만, Globin보다 빠른 속도로 추적해온다. 곤죽이 되면 플레이어에게서 도망친다. 하트 1개분의 데미지를 입히므로 주의.(♥)||
+|||| '''Knight''' || '''Catacombs''', Depths/Necropolis, Cathedral ||
+|| attachment:Knight.png || attachment:Knight(r).png ||상하좌우 방향으로만 다니며 플레이어를 인식하면 플레이어 쪽으로 방향을 튼다. 앞쪽은 무적이며 뇌 부분을 공격해야 처치할 수 있다. 리버스에서는 플레이어 인식 범위가 줄어들어, 보다 손쉽게 잡을 수 있다.||
+|||| '''Selfless Knight''' || '''Catacombs''', Depths/Necropolis, Cathedral ||
+|| attachment:Selfless_Knight.png || attachment:Selfless_Knight(r).png ||Knight와 동일하나, 플레이어를 인식하면 플레이어 쪽으로 방향을 틀어 빠르게 돌진한다. 앞쪽은 무적이며 아이작 얼굴 부분을 공격해야 처치할 수 있다. 리버스에서는 플레이어 인식 범위와 돌진 속도가 줄어들어, 보다 손쉽게 잡을 수 있다.||
+|||| '''Clotty''' || Basement/Cellar, Caves, Womb/Utero ||
+|| attachment:Clotty.png || attachment:Clotty(r).png ||방을 돌아다니다가 주기적으로 +자 방향으로 핏방울을 쏜다.||
+|||| '''Clot''' || Basement/Cellar, Caves/Catacombs, Depths, Cathedral ||
+|| attachment:Clot.png || attachment:Clot(r)(1).png ||방을 돌아다니다가 주기적으로 x자 방향으로 눈물을 쏜다.||
+|||| '''[[구더기|Maggot]]''' || Caves/Catacombs ||
+|| attachment:Maggot.png || attachment:Maggot(r).png ||방 안을 상하좌우로 이리저리 돌아다닌다. 피격시 맞은 눈물이 날아온 반대 방향으로 도망간다.||
+|||| '''Charger''' || Caves/Catacombs ||
+|| attachment:Charger.png || attachment:Charger(r).png ||방 안을 돌아다니다가 상하좌우 범위 내의 플레이어를 인식했을 경우 빠른 속도로 돌진한다.||
+|||| '''Spitty''' || '''Cellar''', Caves/Catacombs ||
+|| attachment:Spitty.png || attachment:Spitty(r).png ||방 안을 돌아다니다가 핏방울 하나를 발사한다.(♥)||
+|||| '''Brain''' || Depths/Necropolis, Womb ||
+|| attachment:Brain.png || attachment:Brain(r).png ||이동할 때마다 데미지를 입히는 붉은 핏자국 장판을 남긴다. 기존에는 장판의 데미지가 하트 1칸이었지만, 리버스에서는 하트 반 칸으로 하향되었다. 다만 접촉 데미지는 여전히 한 칸이므로 주의.(♥) 플레이어를 인식했을 경우 조금 빠른 속도로 돌진해온다.||
+|||| '''MemBrain''' || Depths, Womb/Utero, Chest ||
+|| attachment:MemBrain.png || attachment:MemBrain(r).png ||바닥을 찍어 8방향으로 핏방울(♥)을 발사한다. 체력이 모두 소진되면 Brain 2마리를 남긴다.||
+|||| '''Guts''' || Depths/Necropolis, Womb/Utero ||
+|| attachment:Guts.png || attachment:Guts(r).png ||벽 쪽에 붙어서 빠른 속도로 움직인다.||
+|||| '''Para-Bite''' || Womb/Utero ||
+|| attachment:Para-Bite.png || attachment:Para-Bite(r).png ||플레이어 쪽으로 접근하다가 땅속으로 숨어 플레이어 근처에 다시 튀어나온다. 이름의 모티브는 기생충(parasite)+물다(bite)로 추정.||
+|||| '''Fred''' || Womb/Utero ||
+|| attachment:Fred.png || attachment:Fred(r).png ||플레이어 쪽으로 구토제 폭탄(♥)을 날린 뒤 땅속에 숨는다. 이때 x자 방향으로 핏방울을 날린다. ||
+|||| '''Lump''' || Womb/Utero ||
+|| attachment:Lump.png || attachment:Lump(r).png ||플레이어를 인식하면 3개의 핏방울을 발사한 뒤 땅속에 바로 숨는다. 시간이 지나면 다른 곳에서 다시 튀어나온다. 리버스에서는 땅 위로 나왔을 때 플레이어가 범위 내에 있다면 바로 발사하고 숨어버도록 상향(!!)되었다.||
+|||| '''Leech''' || '''Depths''', Womb/Utero, Sheol/Cathedral ||
+|| attachment:Leech.png || attachment:Leech(r).png ||상하좌우로 이동할 수 있으며 플레이어가 직선상에 있으면 매우 빠른 속도로 돌진한다.(♥)||
+|||| '''[[카미카제|Kamikaze]] Leech''' || '''Necropolis''', Womb/Utero, Sheol ||
+|| attachment:Kamikaze_Leech.png || attachment:Kamikaze_Leech(r).png ||패턴은 Leech와 동일하나 죽을 때 폭발한다.(♥)||
+|||| '''Host''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Host.png || attachment:Host(r).png ||제자리에 고정된 몬스터. 플레이어가 범위 내로 들어오면 머리를 들고 핏방울 3개를 발사한다. 머리가 닫혀있을 때는 모든 공격을 무효화하며,[* 단, 가시에 접촉할 경우 '''무조건 즉사한다.''' 리버스에선 가시에 아예 닿지 않게 수정되었다.] 매우 큰 대미지를 입었을 경우 잠시동안 머리가 찌그러지며 머리를 들지 않는다.||
+|||| '''Red Host''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Red_Host.png || attachment:Red_Host(r).png ||플레이어가 사정권 내로 들어오면 머리를 들고 핏방울 5개를 발사한다. Host와 달리 머리가 닫혀있을 때에도 데미지를 입힐 수 있다.||
+|||| '''Vis''' || Depths/Necropolis, Womb/Utero ||
+|| attachment:Vis.png || attachment:Vis(r).png ||플레이어가 상하좌우에 있으면 플레이어 쪽으로 혈사포를 발사한다.||
+|||| '''Poky''' || '''Basement/Cellar'''[* 빨간 버전 한정], Depths/Necropolis, Womb ||
+|| attachment:Poky.png || attachment:Poky(r).png ||벽 쪽을 따라서 이동하는 장애물. 플레이어를 인식할 경우, 플레이어 쪽으로 방향을 틀며 방의 몬스터가 다 없어지면 사라진다. 리버스에서는 빨간 버전과 회색 버전으로 나뉘었는데 빨간 버전은 벽쪽으로만 따라서 이동하는 장애물이며, 몬스터가 다 없어져도 사라지지 않는다.[* 사실 대부분은 몬스터가 없는 방에서만 등장하며, 플레이어가 방을 입장한 후에 몇초 뒤 가시를 내밀기 시작한다.] 회색 버전은 방을 돌아다니다가 플레이어를 인식할 경우 플레이어 쪽으로 방향을 틀며 방의 몬스터가 다 없어지면 사라진다.||
+|||| '''Eye''' || Womb/Utero ||
+|| attachment:Eye.png || attachment:Eye(r).png ||한 자리에 고정되어 있으며, 빙빙 돌며 플레이어에게 레이저를 발사한다. 레이저는 팀킬이 가능하다.||
+|||| '''Bloodshot Eye''' || Womb/Utero, Sheol ||
+|| attachment:Bloodshot_Eye.png || attachment:Bloodshot_Eye(r).png ||한 자리에 고정되어 있으며, 빙빙 돌며 플레이어에게 혈사포를 발사한다. 위의 eye처럼 팀킬이 가능. ~~어째선지 오리지널과 리버스에서 모습이 반대다.~~||
+|||| '''Dople''' || Womb/Utero ||
+|| attachment:Dople.png || attachment:Dople(r).png ||살가죽을 전부 벗겨낸 아이작의 모습. 플레이어의 행동을 거울처럼[* 정확히는 방의 중앙을 중심으로 점대칭식으로 움직인다] 따라한다. Dople은 대부분 가시와 같이 방안에 있는데, Dople을 가시 쪽으로 유도하여 죽일 수도 있다.||
+|||| '''Evil Twin''' || '''Womb/Utero''', Sheol ||
+|| attachment:Evil_Twin.png || attachment:Evil_Twin(r).png ||패턴은 Dople와 동일하나 핏방울 3개를 발사하며[* 대신, 공격속도가 느리다.] 날아다닌다.||
+|||| '''Embryo''' || Basement/Cellar, Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Embryo.png || attachment:Embryo(r).png ||방 안을 이리저리 움직인다.||
+|||| '''Baby''' || Depths/Necropolis, Womb/Utero ||
+|| attachment:Baby.png || attachment:Baby(r).png ||플레이어에게 핏방울 하나를 발사하고 무작위 장소로 텔레포트한다.||
+|||| '''Stone Grimace''' || Depths/Necropolis, Cathedral ||
+|| attachment:Stone_Grimace.png || attachment:Stone_Grimace(r).png ||플레이어에게 핏방울 하나를 발사한다. 몬스터가 모두 제거되면 비활성화된다.||
+
+== 확장판에서 추가된 몬스터 ==
+|||| '''몬스터''' || '''설명''' ||
+|||| '''Eternal Fly''' ||<|2>옥수수 똥과 Holy Leech, Hanger, Psychic Maw를 숙주로 삼아 원형을 그리며 돈다. 숙주가 있는 동안에는 모든 공격을 무시하며, 숙주가 사라지면 체력이 많은 Attack Fly로 변한다. 리버스에서는 일반 Attack Fly로 변한다.||
+|| attachment:Eternal_Fly.png || attachment:Eternal_Fly(r).png ||
+|||| '''Fat Fly''' ||<|2>스폰된 장소 주위를 배회하며 플레이어에게 핏방울을 두 개 발사한다. 접촉 대미지 없음.||
+|| attachment:Fat_Fly(1).png || attachment:Fat_Fly(r).png ||
+|||| '''Spit''' ||<|2>플레이어를 천천히 따라오며 죽을 시 플레이어에게 구토제 폭탄(♥)을 던진다.||
+|| attachment:Spit(1).png || attachment:Spit(r).png ||
+|||| '''Spider''' ||<|2>확장판에 추가된 적. 파리와 함께 기본적인 몬스터이지만 움직임을 예측하기 힘들기에 초보자에게 까다로운 몬스터로 손꼽힌다. 짧은 거리를 빠른 속도로 이동하며 플레이어가 범위 내에 있을 경우 다가온다.||
+|| attachment:Spider.png || attachment:Spider(r).png ||
+|||| '''Big Spider''' ||<|2>거미보다 체력이 높으며 패턴은 동일. 체력이 모두 소진되면 거미 2마리로 나눠진다. 몬스터의 패턴을 어느 정도 익힌 플레이어에겐 아래 Trite보다 까다로운 적이 될 수 있다.||
+|| attachment:Big_Spider.png || attachment:Big_Spider(r).png ||
+|||| '''Trite''' ||<|2>플레이어 쪽으로 긴 거리를 점프한다. 점프하는 동안에는 지형지물이나 낭떠러지를 무시하나 접촉 대미지 역시 없다.[[br]]리버스에서는 점프하는 동안에도 접촉 대미지가 있으니 주의.||
+|| attachment:Trite.png || attachment:Trite(r).png ||
+|||| '''Gut''' ||<|2>플레이어가 방으로 들어오는 순간부터 크기가 점점 커지기 시작하며 완전히 커지면 무작위 방향으로 구토제 폭탄을 던진다. 리버스에서는 완전히 커지면 범위 내에 들어온 플레이어에게 구토제 폭탄(♥)을 던진다.||
+|| attachment:Gut.png || attachment:Gut(r).png ||
+|||| '''Sack''' ||<|2>플레이어가 방으로 들어오는 순간부터 크기가 점점 커지기 시작하며 완전히 커지면 Spider 1마리를 소환한다. 리버스에서는 완전히 커지면 플레이어가 범위 내에 들어왔을 때 Spider 1마리를 발사한다.||
+|| attachment:Sack.png || attachment:Sack(r).png ||
+|||| '''Walking Boil''' ||<|2>Boil과 동일하지만 방에 들어왔을 때부터 최대 크기 상태이고 방안을 돌아다닌다. 데미지를 입는다고 작아지지 않는다.||
+|| attachment:Walking_Boil.png || attachment:Walking_Boil(r).png ||
+|||| '''Walking Gut''' ||<|2>Gut와 동일하지만 방에 들어왔을 때부터 최대 크기 상태이고 방안을 돌아다닌다. 데미지를 입는다고 작아지지 않는다.||
+|| attachment:Walking_Gut.png || attachment:Walking_Gut(r).png ||
+|||| '''Walking Sack''' ||<|2>Sack과 동일하지만 방에 들어왔을 때부터 최대 크기 상태이고 방안을 돌아다닌다. 데미지를 입는다고 작아지지 않는다.||
+|| attachment:Walking_Sack.png || attachment:Walking_Sack(r).png ||
+|||| '''Mulliboom''' ||<|2>Mulligan의 머리에 폭탄이 박혀있는 형상을 한 몬스터로, 플레이어를 피해다니던 Mulligan과 달리 위협적으로 추적해온다. 죽거나 플레이어 접촉하면 폭발한다.
+캐릭터 중 [[더 바인딩 오브 아이작/캐릭터#s-2.4|The Lost]]의 언락에 쓰이기도 하는데, Mulliboom의 스폰률이 낮아져 해금하기가 어렵다.[* 만약 Mulliboom을 쉽게 보고싶다면 Cellar를 언락한 후에 하드모드로 시작해보자. Mulliboom은 Cellar에서 출현 확률이 훨씬 높다.]||
+|| attachment:Mulliboom.png || attachment:Mulliboom(r).png ||
+|||| '''Swarmer''' ||<|2>~~[브룩(원피스)|브룩]~~ 기본적으로 부유 상태이며, 방 안을 대각선으로 떠돌아다닌다. 돌아다니면서 Attack Fly를 소환하고, 기침을 하면서 Pooter, Fat Fly를 소환한다. 체력이 낮아질수록 소환 딜레이가 줄어든다. 죽을 경우 Boom Fly 또는 Red Boom Fly 1마리를 남긴다. ||
+|| attachment:Swarmer.png || attachment:Swarmer(r).png ||
+|||| '''Gurgle''' ||<|2>플레이어에게 약간 느린 속도로 다가오며 구토제 폭탄(♥)을 발사한다. 리버스에서는 죽으면 일정 확률로 Splasher가 된다.||
+|| attachment:Gurgle.png || attachment:Gurgle(r).png ||
+|||| '''Psychic Maw''' ||<|2>플레이어에게 느린 속도로 접근하여 유도성 눈물을 하나 발사한다. 언제나 Eternal Fly와 대동한다.||
+|| attachment:Psychic_Maw.png || attachment:Psychic_Maw(r).png ||
+|||| '''Mask''' ||<|2>Necropolis 레벨에서 등장. 언제나 무적 상태이며 같이 등장하는 심장을 처치하면 소멸된다. 플레이어가 +자 방향에 있을 때 돌진한다.||
+|| attachment:Mask.png || attachment:Mask(r).png ||
+|||| '''Heart''' ||<|2>Necropolis 레벨에서 등장. Mask와 같이 등장한다. 플레이어를 피하려는 경향이 있으며 가까이 있으면 +자 방향으로 핏방울을 날린다. 간혹 Womb 챕터에서 Mask 없이 등장하기도 한다.||
+|| attachment:Heart.png || attachment:Heart(r).png ||
+|||| '''I. [[블롭|Blob]]''' ||<|2>방을 돌아다니다가 8방향으로 눈물을 쏜다.||
+|| attachment:I_Blob.png || attachment:I_Blob(r)(1).png ||
+|||| '''Mama Guts''' ||<|2>바닥을 찍어 8방향으로 핏방울을 발사한다. 체력이 모두 소진되면 Guts 2마리를 남긴다.||
+|| attachment:Mama_Guts.png || attachment:Mama_Guts(r).png ||
+|||| '''B. Licker''' ||<|2>3~5마리가 붙어서 나오며 상하좌우로 빠르게 이동한다. 1마리가 죽으면 분리된다.||
+|| attachment:B_Licker.png || attachment:B_Licker(r).png ||
+|||| '''Holy Leech''' ||<|2>Cathedral에서 주로 보인다. 죽을 때 폭발하며, 언제나 Eternal Fly와 대동한다.||
+|| attachment:Holy_Leech.png || attachment:Holy_Leech(r).png ||
+|||| '''Double Vis''' ||<|2>플레이어가 상하좌우에 있으면 플레이어와 그 반대 방향으로 혈사포를 발사한다.||
+|| attachment:Double_Vis.png || attachment:Double_Vis(r).png ||
+|||| '''Chubber''' ||<|2>혈사포 대신 지형을 관통하는 벌레(♥)를 발사한다. ~~은근 빡친다~~||
+|| attachment:Chubber.png || attachment:Chubber(r).png ||
+|||| '''Slide''' ||<|2>제자리에 있다가 플레이어가 상하좌우에 있으면 플레이어 쪽으로 미끄러져 온다.||
+|| attachment:Slide.png || attachment:Slide(r).png ||
+|||| '''Angelic Baby''' ||<|2>플레이어에게 핏방울 3개를 발사하고 플레이어와 가까운 곳으로 텔레포트한다.~~만드라고라~~||
+|| attachment:Angelic_Baby.png || attachment:Angelic_Baby(r).png ||
+|||| '''Keeper''' ||<|2>방 안을 낮게 점프해다니며 플레이어에게 핏방울 2개를 발사한다. 맞으면 Greed마냥 돈을 떨구니 주의.||
+|| attachment:Keeper.png || attachment:Keeper(r).png ||
+|||| '''Hanger''' ||<|2>부유 상태이며 플레이어에게 느린 속도로 다가오며 핏방울 3개를 발사한다. 언제나 Eternal Fly와 대동한다.||
+|| attachment:Hanger.png || attachment:Hanger(r).png ||
+|||| '''Vomit Grimace''' ||<|2>플레이어에게 구토제 폭탄을 발사한다. 몬스터가 모두 제거되면 비활성화된다.||
+|| attachment:Vomit_Grimace.png || attachment:Vomit_Grimace(r).png ||
+
+== 리버스에서 추가된 몬스터 ==
+|| '''몬스터''' || '''설명''' ||
+|| '''Gurglings''' || '''--Basement--'''[* 일반 몬스터로는 보스 도전방에만 출현], Caves/Catacombs, Depths/Necropolis, Womb/Utero, Chest/Dark Room ||
+|| attachment:Gurglings.png ||보스 항목에 있던 그 Gurglings들 맞다. 다만 보스로서의 Gurglings들과 비교했을 때 체력이 매우 낮고 챔피언도 일반적인 몬스터들의 챔피언 형태를 띄기 때문에 엄연히 다른 일반 몬스터 취급이라 이 항목에 기재한다. 이동할 때도 피 장판을 뿌리고 플레이어에게 대시한 후 장애물에 부딪혔을 때는 파리가 아닌 6방향의 핏방울을 발사한다. ||
+|| '''Ring Fly''' || Basement/Cellar ||
+|| attachment:Ring_Fly.png ||여러 마리가 한 방에 등장. 한쪽으로 뭉친 뒤 원을 그리며 플레이어에게 다가온다.||
+|| '''Level 2 Fly''' || Basement/Cellar ||
+|| attachment:Level_2_Fly.png ||플레이어를 중심축으로 반시계 방향으로 돌면서 다가온다.||
+|| '''Full Fly''' || Basement/Cellar, Caves/Catacombs, Womb/Utero ||
+|| attachment:Full_Fly.png ||플레이어를 중심축으로 시계 방향으로 돌면서 다가온다. 죽으면 6방향으로 핏방울을 발사한다. Level 2 Fly의 상위호환.||
+|| '''Dip''' || '''전 스테이지에서 등장''' ||
+|| attachment:Dip.png ||똥의 형상을 한 몬스터로 스폰된 장소 주위를 돌아다닌다. 피격시 일정 확률로 신음소리를 낸다. 여담으로 전 스테이지에서 등장하는 유일한 몬스터이다.(보스나 다른 몬스터가 소환하는 경우를 제외)||
+|| '''Squirt''' || '''Basement/Cellar''', Caves/Catacombs, Depths/Necropolis, Womb/Utero, Chest ||
+|| attachment:Squirt.png ||중간 크기의 똥으로 추진력을 모은 뒤 플레이어에게 매우 빠른 속도로 돌진한다. 죽으면 Dip 2마리를 남긴다.||
+|| '''Dinga''' || Depths/Necropolis, Womb/Utero, Chest ||
+|| attachment:Dinga(1).png ||대형 크기의 똥으로 바닥을 찍어 8방향으로 똥물을 쏘거나 Dip 2마리를 소환한다. 죽으면 Squirt 2마리를 남긴다.||
+|| '''Ragling''' || Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Ragling.png ||움직임은 Trite와 동일. 시계 방향으로 도는 눈물 2개를 발사한다. Trite의 상위 몬스터지만 눈물을 쏘느라 딜레이가 크고 점프 공격하는 빈도가 낮아 오히려 Trite보다 덜 위협적이다.||
+|| '''Level 2 Spider''' || Basement/Cellar, Catacombs ||
+|| attachment:Level_2_Spider.png ||거미의 움직임을 가지고 있으며 짧은 거리에 한하여 Trite의 점프 능력을 지닌다. 이쪽의 경우 점프했을 때의 높이가 높아 플레이어의 눈물을 피하는(!) 효과가 있어, 점프해오는 도중에 죽일 수 있는 Trite와는 달리 뛰어오는 Level 2 Spider는 죽일 수 없다. 대신 플레이어도 점프하는 Level 2 Spider의 밑으로 파고들어서 피할 수 있다는 특징이 있다.||
+|| '''Ticking Spider''' || Cellar, Caves/Catacombs, Sheol ||
+|| attachment:Ticking_Spider.png ||패턴은 Level 2 Spider와 동일하나 죽으면 폭발한다. 특이하게도 폭발 대미지는 반 칸이나, 접촉 대미지는 한 칸(♥)이므로 주의. Level 2 Spider의 상위호환.||
+|| '''Baby Long Legs''' || Basement/Cellar, Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Baby_Long_Legs.png ||플레이어로부터 도망치면서 거미를 1마리씩 소환한다.||
+|| '''Small Baby Long Legs''' || Basement/Cellar ||
+|| attachment:Small_Baby_Long_Legs.png ||플레이어로부터 도망치면서 Sacks 1마리를 소환한다.||
+|| '''Crazy Long Legs''' || Basement/Cellar, Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Crazy_Long_Legs.png ||플레이어를 추적하면서 8방향으로 핏방울을 발사한다.||
+|| '''Small Crazy Long Legs''' || Basement/Cellar, Womb/Utero ||
+|| attachment:Small_Crazy_Long_Legs.png ||플레이어를 추적하면서 x자 방향으로 핏방울을 발사한다.||
+|| '''Wall Creep''' || '''Cellar''', Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Wall_Creep.png ||리버스에서 새로 추가된 유형의 몬스터. 방의 벽 쪽에 붙어서 이동한다. 플레이어를 추적하면서 핏방울 3개를 연발로 발사한다.||
+|| '''Blind Creep''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Blind_Creep.png ||방의 벽 쪽에 붙어서 느리게 이동한다. 플레이어를 추적하지 않으나 주기적으로 핏방울을 3갈래로 발사한다.||
+|| '''Rage Creep''' || Depths/Necropolis, Womb/Utero ||
+|| attachment:Rage_Creep.png ||The Cave 레벨부터 보이는 Creep류 몬스터. 느리게 이동하면서 주기적으로 혈사포를 발사한다.||
+|| '''Round Worm''' || Basement/Cellar, Caves/Catacombs, Depths, Utero ||
+|| attachment:Round_Worm.png ||땅속에 숨어있다가 고개를 내밀어 플레이어에게 핏방울 하나를 발사한다.||
+|| '''Nightcrawler''' || Basement/Cellar, Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Nightcrawler.png ||땅속에 숨어있다가 고개를 내밀어 핏방울 4개를 시계 방향으로 원을 그리며 발사한다.||
+|| '''Nest''' || Basement/Cellar, Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Nest.png ||리버스에서 새로 추가된 뮬리건 계열 몬스터. Hive에서 소환하는 몬스터만 거미로 달라졌다. 죽으면 Big Spider 또는 Trite 1마리를 남긴다.||
+|| '''Splasher''' || Caves/Catacombs ||
+|| attachment:Splasher.png ||Gusher같이 주변을 이리저리 돌아다니면서 구토제 폭탄(♥)을 발사한다. Gurgle의 체력이 다 닳을 경우 확률적으로 Splasher가 된다.||
+|| '''Skinny''' || Basement/Cellar, Caves/Catacombs ||
+|| attachment:Skinny.png ||매우 느린 속도로 플레이어에게 다가온다. 붉은 핏자국도 남기지만 길이도 짧고 생성 직후 바로 사라지기에 위협적이지도 않다.||
+|| '''Rotty''' || Depths/Necropolis ||
+|| attachment:Rotty.png ||패턴은 Skinny와 동일하지만 죽으면 Bony 1마리 또는 Attack fly 2마리를 남기기도 한다. Skinny의 상위호환||
+|| '''Psychic Horf''' || Caves/Catacombs, Cathedral ||
+|| attachment:Psychic_Horf.png ||플레이어를 인식할 경우 유도성 눈물을 1개 발사한다.||
+|| '''Bony''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero, Sheol/Cathedral, Dark Room ||
+|| attachment:Bony.png ||해골 형태의 몬스터. 방을 상하좌우로 돌아다니다가 플레이어가 시야에 들어오면 뼈다귀 하나를 발사한다. 인식 범위도 넓은데다가 뼈다귀 던지는 속도도 매우 빠르니 주의.||
+|| '''Death's Head''' || Depths/Necropolis, Womb/Utero, Sheol/Cathedral ||
+|| attachment:Deaths_Head.png ||무적이며, 방 안을 대각선으로 돌아다닌다. 몬스터가 모두 처치되었을 경우 사라진다.~~묵시록의 기사중 DEATH의 머리다~~||
+|| '''One Tooth''' || Caves/Catacombs, Depths/Necropolis ||
+|| attachment:One_Tooth.png ||플레이어를 따라오다가 이따금씩 돌진해온다.||
+|| '''Tiny Haunt''' || '''Cellar''', Depths/Necropolis, Sheol/Cathedral, Chest ||
+|| attachment:Tiny_Haunt.png ||플레이어를 쫓아오며 플레이어의 움직임을 따라한다.[* 인공지능이 약간 특이한데, 플레이어 추적을 기본으로 잡고, 플레이어가 누르는 이동키의 방향대로 가속/감속이 된다. Cellar의 Haunt 보스가 어려운 이유가 바로 Tiny Haunt의 까다로운 인공지능 때문. 추적 속도가 빠르다 싶으면 도망가지 말고 몬스터를 향해 돌진하면 추적 속도를 약간이나마 줄일 수 있다.] 주기적으로 핏방울 1개를 발사한다. --쬐끄만 주제에 체력도 많다!--||
+|| '''Wizoob''' || Depths/Necropolis, Womb/Utero, Sheol/Cathedral, Dark Room ||
+|| attachment:Wizoob.png ||보통 여러 마리가 방 안에 스폰되며, 순간이동으로 플레이어 주위를 포위해 눈물 여러 개를 뿜는다.||
+|| '''Fatty''' || Basement/Cellar, Caves/Catacombs ||
+|| attachment:Fatty.png ||플레이어에게 느리게 다가오며 가까이 접근했을 경우 방귀를 뀐다. 이때 밀려나면서 다른 몬스터에게 접촉하기도 하니 주의.||
+|| '''Pale Fatty''' || Depths/Necropolis, Womb/Utero, Cathedral, Chest ||
+|| attachment:Pale_Fatty.png ||패턴은 Fatty와 동일하나 방귀를 뀌면서 6방향으로 핏방울을 날린다. 체력이 모두 닳으면 일정 확률로 Blubber가 된다. Fatty의 상위호환.||
+|| '''Fat Sack''' || '''Caves/Catacombs''', Depths/Necropolis, Womb/Utero, Cathedral ||
+|| attachment:Fat_Sack.png ||Pale Fatty와 비슷하게 생겼지만 플레이어를 인식하면 빠른 속도로 높게 점프해서 찍어내리며, 6방향으로 핏방울을 발사한다. 체력이 모두 닳으면 일정 확률로 Blubber가 된다.||
+|| '''Blubber''' || Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Blubber.png ||근~중거리에 걸쳐 무작위로 핏방울 여러 개를 주위에 뿌린다. 체력이 모두 닳으면 일정 확률로 Half Sack가 된다.||
+|| '''Half Sack''' || Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Half_Sack.png ||느린 속도로 이동하면서 붉은 핏자국을 남긴다.||
+|| '''Floating Knight''' || Depths/Necropolis, Cathedral ||
+|| attachment:Floating_Knight.png ||Knight의 머리 부분만 부유한 상태로 오브젝트를 무시하고 상하좌우로 날아다닌다. 마찬가지로 뇌를 공격해야 한다.||
+|| '''Mom's Hand''' || Depths/Necropolis, Womb/Utero, Cathedral ||
+|| attachment:Moms_Hand.png ||방 안에 들어올 때 엄마의 웃음소리가 들리며 일정 시간이 지나면 그림자가 보이면서 손목이 잘린 엄마의 손이 떨어진다. 잡히면 대미지와 함께 시작 지점으로 강제 이동된다.[* 초기에는 잡히는 순간 폴라로이드나 Death 효과로 손이 사라지면 대미지만 입고 강제 이동 되지는 않았으나 패치로 이 경우도 강제 이동되도록 수정되었다.]||
+|| '''Conjoined Spitty''' || '''Cellar''', Caves/Catacombs ||
+|| attachment:Conjoined_Spitty.png ||Spitty 2마리가 융합된 모습이다. 양쪽으로 핏방울을 발사한다.||
+|| '''Tumor''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Tumor.png ||방 안을 대각선으로 느리게 날아다니면서 6방향으로 핏방울을 발사한다. 체력이 줄어들수록 핏방울 연사 속도가 증가한다.||
+|| '''Psy Tumor''' || '''Depths/Necropolis''', Cathedral ||
+|| attachment:Psy_Tumor.png ||패턴은 Tumor와 동일하나 6방향으로 유도성 핏방울을 발사한다. 체력이 줄어들수록 핏방울 연사 속도가 증가한다. Tumor의 상위호환.||
+|| '''Camillo Jr.''' || Sheol ||
+|| attachment:Camillo_Jr.png ||플레이어에게 레이저를 발사한다. 체력이 줄어들수록 레이저 연사 속도가 증가한다. Tumor의 상위호환.||
+|| '''Grub''' || '''Basement''', Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Grub.png ||보스 Larry Jr.와 비슷한 패턴을 보이나 약간 더 느리며 플레이어가 상하좌우에 있을 경우 빠르게 돌진한다. 죽으면 구더기류 몬스터 여러 마리를 남긴다.||
+|| '''Codworm''' || Womb/Utero ||
+|| attachment:Codworm.png ||머리가 감춰진 상태에서는 모든 공격을 무효화하며 공격받을시 플레이어 쪽으로 핏방울 여러 개를 뿜는다. 공격을 받지 않으면 머리를 내미며 이때 공격할 수 있다.||
+|| '''Nerve Ending''' || '''Basement(...)''', Depths, Womb/Utero, Sheol ||
+|| attachment:Nerve_Ending.png ||제자리에 가만히 있으며 아무 공격도 하지 않는다. 주로 길을 막거나 몬스터 주위를 주로 둘러싸는 역할을 한다.||
+|| '''Swinger''' || Womb/Utero ||
+|| attachment:Swinger.png ||머리와 곤죽 사이에 목으로 이어져 있으며 머리는 곤죽 주위를 계속 돈다. ~~[[미트스핀]]?~~ 곤죽을 먼저 처치할 경우 Maw를, 머리를 먼저 처치할 경우 Globin을 남긴다.[* 어디를 먼저 처치하든 모두 확률적으로 생성된다.]||
+|| '''Walking Host''' || Caves/Catacombs, Depths/Necropolis, Sheol ||
+|| attachment:Walking_Host.png ||Host의 걸어다니는 버전. 역시나 머리가 들춰진 상태에서만 공격할 수 있다. 안그래도 대부분의 플레이어들을 짜증나게 하는 녀석인데 Host에 비해 머리를 들추는 빈도가 적어졌고 Host에는 없는 접촉 대미지도 있는 데다가 대다수의 경우는 가시나 아래의 Turret Grimace, '''Stone Eye'''와 같이 등장하기 때문에 더욱 플레이어들을 빡돌게 만든다.[* 가시로 유인하면 되지 않을까 하고 생각하면 안된다. 이녀석은 다른 몬스터들과는 달리 가시를 피해다닌다(!)]||
+|| '''Walking Red Host''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero  ||
+|| attachment:Walking_Red_Host.png ||Red Host의 걸어다니는 버전.||
+|| '''[[호문클루스|Homunculus]]''' || Womb/Utero ||
+|| attachment:Homunculus.png ||자궁의 벽 쪽에 묶여져 있으며 구속을 풀고 플레이어를 쫓아갈려고 시도한다. 일정 시간이 지날 경우 구속이 풀어짐과 동시에 6방향으로 핏방울을 발사하며 플레이어를 빠른 속도로 쫓아간다. 사망시 자기 주변에 피 장판을 생성한다.||
+|| '''Begotten''' || '''Depths/Necropolis''', Sheol, Dark Room ||
+|| attachment:Begotten.png ||Sheol의 벽 쪽에 구속되어 있다. 일정 시간이 지날 경우 구속이 풀어짐과 동시에 방에 Curse of Darkness를 걸고 플레이어를 빠른 속도로 쫓아간다. 움직이는 동안에는 투명해졌다가 나타나기를 반복한다.||
+|| '''Null''' || '''Depths/Necropolis''', Sheol, Dark Room ||
+|| attachment:Null.png ||Frowning Gaper과 패턴은 동일하지만 움직이면서 투명해졌다가 나타나기를 반복한다.||
+|| '''Oob''' || Womb/Utero, Cathedral, Chest ||
+|| attachment:Oob.png ||플레이어에게 다가오며 Brain을 소환한다. 플레이어가 좌우에 있을 경우 돌진하면서 맵을 한 바퀴 돈다. 보스 Famine(기근)의 AI와 유사하지만 돌진 속도는 훨씬 빠르다.||
+|| '''Blackmaw''' || Sheol, Dark Room ||
+|| attachment:Blackmaw.png ||Leech를 소환하면서 플레이어가 좌우에 있을 경우 돌진하여 부메랑처럼 돌진 전의 위치로 돌아온다. 죽을 때 폭발한다.||
+|| '''Gaping Maw''' || Caves/Catacombs, Depths/Necropolis, Womb/Utero ||
+|| attachment:Gaping_Maw.png ||플레이어, 핏방울을 빨아들이듯이 끌어당긴다. 플레이어가 설치한 폭탄이나 아이템 등은 영향이 없다.||
+|| '''Turret Grimace''' || Caves/Catacombs, Depths/Necropolis ||
+|| attachment:Turret_Grimace.png ||한 방향으로 눈물을 계속 발사한다. 방 안의 몬스터가 전부 죽어도 비활성화되지 않는다.||
+|| '''Stone Eye''' || '''Womb/Utero''', Sheol ||
+|| attachment:Stone_Eye.png ||시계 방향으로 천천히 회전하면서 레이저를 계속 발사한다. 몬스터를 전부 처치하면 비활성화된다.||
+|| '''Brimstone Grimace''' || Sheol ||
+|| attachment:Brimstone_Grimace.png ||한 방향으로 혈사포를 계속 발사한다. 방 안의 몬스터가 전부 죽어도 비활성화되지 않는다.||
+
+[[각주]]

@@ -1,0 +1,17 @@
+Schultz Method. [wiki:"루빅스 큐브/해법" 3×3×3 큐브 고급 해법]의 하나. 
+
+[[목차]]
+== 개요 ==
+네덜란드의 휘스 라주 슐츠(Guus Razoux Schultz)가 제안한 해법. CFCE 해법이라고도 한다. 
+
+attachment:shultzmethod.jpg?width=400
+
+Cross - [[F2L]] - CLL - ELL의 4단계로 큐브를 맞춘다. [[CFEC 해법]]과 마지막 두 단계의 순서가 반대인 것을 알 수 있다. 
+'''[[CFEC 해법]]에서의 ELL,CLL과 슐츠 해법에서의 ELL,CLL은 다르다'''. CFEC 해법의 ELL을 쓰면 코너가 흐트러지지만 슐츠 해법의 ELL은 그렇지 않다. 반대로 슐츠 해법의 CLL을 쓰면 코너가 흐트러지지만 CFEC 해법의 CLL은 그렇지 않다. 
+
+== CLL ==
+Corners of Last Layer의 약자. 3층의 [[코너 조각]]을 한 번에 맞춘다. 42개의 공식으로 이루어져 있다. 
+
+== ELL ==
+Edges of Last Layer의 약자. 3층의 [[엣지 조각]]을 한 번에 맞춘다. M회전을 잘 한다면 시도해봄직하다. 좌우대칭 포함 총 29개의 공식으로 이루어져 있다. 
+여담으로, 슐츠 해법의 ELL은 [[루 해법]]의 EMLL에 완전히 포함된다. 

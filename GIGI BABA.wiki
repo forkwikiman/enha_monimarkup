@@ -1,0 +1,53 @@
+[[사운드 볼텍스]]의 수록곡. 작곡은 ヒゲドライバー(히게드라이버). [[PULSE LASER]]의 후속곡이다. 
+
+[[사운드 볼텍스 플로어]] '[[사운드 볼텍스 II -인피니트 인펙션-]] 제작결정기념 오리지널곡 컨테스트'의 당선곡이다.
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || 
+|| 자켓 || attachment:Example.jpg || attachment:Example.jpg  || attachment:Example.jpg ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 09}}} || {{{#ff009f 13}}} || 
+|| 체인 수 || {{{#purple 0556}}} || {{{#orange 0852}}} || {{{#ff009f 1143}}} ||
+|| 일러스트 담당 || {{{#purple Litbi}}} || {{{#orange Litbi}}} || {{{#ff009f Litbi}}} || 
+|| 이펙터 || {{{#purple 月刊ミズタニ}}} || {{{#orange 月刊ミズタニ}}} || {{{#ff009f 月刊ミズタニ}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 01(2013.6.5)}}} ||
+|| [[BPM]] |||||| 165 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} || 통상해금 || 통상해금 ||
+|| {{{#orange ADVANCED}}} ||<|2> 1400 ||<|2> 없음 ||
+|| {{{#ff009f EXHAUST}}} ||
+
+{{|
+오랜만입니다, 히게드라이버입니다!
+이번에는, 동시에 두 곡이나 채용되었습니다. 감사합니다!
+이 곡은 'PULSE LASER'와 마찬가지로, 멜로디 따라 누르는 느낌인, 빠른 four-on-the-floor곡입니다.
+후렴구에 조를 바꿔서, 단숨에 분위기를 올려서, 호~호~!
+제목 읽기는 원래 '기기바바'였습니다만,
+주위에서 '할아버지 할머니'[* GIGI를 '기기'가 아닌 '지지'로 읽으면 일본어로 '할아버지', '바바'는 일본어로 '할머니'이다.]라고 부르는데 그 또한 좋습니다.
+지지바바, 잘 부탁드립니다!
+
+-당선자 ヒゲドライバー 코멘트-
+|}}
+
+{{|
+http://p.eagate.573.jp/game/sdvx/sv/p/floor/image/floor_result/original/08/02gigi.jpg
+※이 작품은 자켓도 함께 채용되었습니다!
+일러스트레이터명：Litbi
+
+오랜만입니다. 'PULSE LASER'에 이어 다시 채용해주셔서 감사합니다!
+게다가 설마했던 히게드라이버씨 본인과의 콜라보레이션, 제가 제일 놀랐습니다.(웃음)
+곡을 듣고나서, 라이벌을 느끼게 하는 인상을 받았으니 "그녀석"을 참전시켜봤습니다♪
+잭 'JACK POT! 아자자! 하이스코어 갱신... 어, 어엇! 동점?!'
+로즈 '무르구나, 잭. 이정도로는, 나한테 몸풀기도 안돼요♪'
+잭 '진짜? 워... 원모어! 질 수 없다!'
+자, 여러분들도 이 곡으로 매칭 배틀이다!
+*｡.:・゜.v(￣┏3┓￣)vv(*´ω｀*)v.｡.:・゜*
+
+-당선자 Litbi 코멘트-
+|}}
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/yOJqwDgUIJ8?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/yOJqwDgUIJ8?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 플레이 영상

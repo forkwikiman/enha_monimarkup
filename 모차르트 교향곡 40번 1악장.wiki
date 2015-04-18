@@ -1,0 +1,40 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 ||[[DJMAX 온라인]]||
+|| 이후 수록 ||[[DJMAX TECHNIKA TUNE]]||
+|| 장르 ||Classic Remix||
+|| [[BPM]] ||135||
+|| 작곡 ||볼프강 아마데우스 모차르트||
+|| 편곡 ||김창훈[* 온라인 판에서는 편곡자 명이 'WavFactory'였다.]||
+|| 비주얼 || SAGWANAMU(원화), [wiki:"영인" Young-in](원화:아이캐치에 미기재), ENTIA J(모션),||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/s5UcfqAGVTg" frameborder="0" allowfullscreen></iframe>}}}
+
+DJMAX Online에서 첫 선을 보였던 곡으로 당시 클래식 리믹스 곡들이 평가가 좋지 않아 피아노 협주곡 1번을 제외한 나머지와 함께 묻혔던 곡이였으나 일본에서 터진 정보 유출로 DJMAX TECHNIKA TUNE에 새로운 BGA와 함께 수록된다는 것이 밝혀졌다.
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 6 || ||
+||<#FF0000> CLUB || 7 || [[Nostalgia Set]] 셀렉곡 ||
+
+온라인에서는 터키 행진곡과 함께 SC가 있는 몇 안 되는 클래식 리메이크 곡으로, SC가 레벨 13이였다.
+
+테크니카 튠으로 이식되며 전용 비주얼이 생겼다. 새로운 비주얼은 [[My Heart, My Soul]], [[Dark Prism]] 등의 비주얼을 맡았던 SAGWANAMU가 기본적인 배경과 배경 캐릭터들을 제작했고, 주인공 소녀와 토끼인형은 [[Dream Again]]과 [[Shining My Boy]]의 비주얼을 맡은 [wiki:"영인" Young-in]이 담당한, [[DJMAX 시리즈]] 내에서는 매우 드문 2명의 외주 일러스트레이터의 합작품[* Young-in이 트위터를 통해 해당 사실을 밝혔다. 2명 이상의 내주 일러스트레이터 혹은 2명 이상의 외주 모션 디자이너가 합작을 하는 경우는 종종 있지만, 2명 이상의 외주 일러스트레이터가 합작을 하는 경우는 시리즈 내에서 매우 드물다.][* 두 원화가가 동일인물이라는 이야기가 있다. 사실 확인시 [수정바람].]. 아기자기한 느낌의 BGA라 곡의 느낌과는 괴리감이 좀 있다는 평이다. --[wiki:"펌프 잇 업"수영, 복싱, 스케이트보드, 농구였다면 어떨까?]--
+
+어찌된 일인지 아이캐치에는 SAGWANAMU의 닉네임만 적혀 있었기 때문에 '''닥프를 그린 분이 이런 그림도 그리시다니'''라는 이야기도 많았다.
+
+온라인에 있던 모차르트 교향곡 40번 1악장은 편곡자 명이 'WavFactory'였는데, 이 곡은 편곡자 명이 '김창훈'이다. 같은 WavFactory에서 리믹스한 [[피아노 협주곡 1번]]은 테크니카 2에 들어갔을 때도 원래 편곡자 명의 그대로 WavFactory라고 표기되었는데 이 곡은 편곡자 명이 바뀌었다. 
+
+== [[DJMAX TECHNIKA Q]] ==
+
+|||||||||||||| [DJMAX TECHNIKA Q]의  기본 수록곡 ||
+|| [[In the Tdot]] || [[Raise me up]] || [[Lover]] || [[Oblivion]] || [[Ray of Illuminati]] || [wiki:"Eternal Fantasy ~유니의 꿈~"Eternal Fantasy (Miya Vocal Mix)] || '''모차르트 교향곡 40번 1악장''' ||
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|| 패턴 || 난이도 (2라인/3라인)|| 비고 ||
+||<#FFFF00> ORIGINAL || 4 / 5 || 
+||<#0000FF> {{{#white PREMIUM}}} || 6 / 6 ||
+||<#FF0000> SIGNATURE || 8 / 8 ||
+
+서로 다른 6곡 플레이시 해금된다 .[* 기본곡 5곡+친구초대로 해금한 1곡 플레이시 쉽게 해금.].

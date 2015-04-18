@@ -1,0 +1,74 @@
+ * 상위 항목 : [[둠/WAD와 모드]]
+
+'''메멘토 모리 (Memento Mori)'''
+
+[[목차]]
+
+== 소개 ==
+
+[[wiki:"둠 2: 헬 온 어스" 둠 2]] 기반의 추가맵 모드. 1996년 우수 WAD 로 선정된 적이 있는 완성도 높은 모드이다. 32개의 새로운 레벨과 새로운 배경음악, 멀티플레이가 지원된다. [[wiki:"메멘토 모리 2" 후속작]]과 다르게, 별도의 시나리오는 포함하고 있지 않다.
+
+== 맵 정보 ==
+
+ * 맵 제목을 클릭하면 해당 맵의 유튜브 공략 영상을 볼 수 있다. 단, 스피드런 영상은 제외하였다. 이 영상들은 내용상 모두 하나로 연결되어 있다.
+
+MAP 01 : '''[http://youtu.be/VYtSR3V4qAQ/ The Teleporter]'''
+MAP 02 : '''[http://youtu.be/AXJhlsV1-nI/ The Bridge]'''
+MAP 03 : '''[http://youtu.be/3aEw2Rzi6Mo/ Interlock]'''
+MAP 04 : '''[http://youtu.be/tPiG98usc4k/ The Stand]'''
+MAP 05 : '''[http://youtu.be/NRGdOsrnSRY/ Hell's Kitchen]'''
+MAP 06 : '''[http://youtu.be/Yl3ZlzcGxSM/ The Powerstation]'''
+
+MAP 07 : '''[http://youtu.be/RPz-zQa37S4/ Not That Simple]'''
+MAP 08 : '''[http://youtu.be/ShKx9lydmx8/ And the Dead Shall Rise]'''
+MAP 09 : '''[http://youtu.be/3NqaqCvpGec/ Hightech Grave]'''
+MAP 10 : '''[http://youtu.be/xJ4ex4UMVHk/ The Mansion]'''
+MAP 11 : '''[http://youtu.be/EaZi1NqTcVw/ Halls of Insanity]'''
+
+MAP 12 : '''[http://youtu.be/pZKFXq0QaYQ/ Kinetics]'''
+MAP 13 : '''[http://youtu.be/ihfOcqYekFs/ The Inmost Dens II]'''
+MAP 14 : '''[http://youtu.be/Xb1EB1IoMBM/ Aquaduct]'''
+MAP 15 : '''[http://youtu.be/OUiFQN9RSAQ/ Karmacoma]'''
+MAP 16 : '''[http://youtu.be/9Em-Bk-SEzM/ Stoned]'''
+MAP 17 : '''[http://youtu.be/0eNvjuzsCMA/ House of Thorn]'''
+MAP 18 : '''[http://youtu.be/KKTx44XbfFk/ A Dead Man's Town]'''
+MAP 19 : '''[http://youtu.be/dbCYZH6WMs8/ Maltraiter]'''
+MAP 20 : '''[http://youtu.be/Q63JoyJI7uM/ Mountain Depot]'''
+
+MAP 21 : '''[http://youtu.be/CmjCAaXr56M/ Twilight Lab]'''
+MAP 22 : '''[http://youtu.be/NS-tC6e2cjQ/ The Escape]'''
+MAP 23 : '''[http://youtu.be/LSHBvKKZmu0/ Showdown]'''
+MAP 24 : '''[http://youtu.be/76z_sN8xyao/ Diehard]'''
+MAP 25 : '''[http://youtu.be/9nya0M9v9us/ Cesspool]'''
+MAP 26 : '''[http://youtu.be/cx5PFxW22DA/ Between Scattered Corpes]'''
+MAP 27 : '''[http://youtu.be/msGfaxU8Aq4/ Fort Hades]'''
+MAP 28 : '''[http://youtu.be/3XTYvWR3Qto/ City of the Unavenged]'''
+MAP 29 : '''[http://youtu.be/qtVWjiouywA/ Island of Death]'''
+MAP 30 : '''[http://youtu.be/X-w6rJr1txg/ Viper]'''
+
+MAP 31 : '''[http://youtu.be/aScTpRrX3OM/ Technology Base]'''
+MAP 32 : '''[http://youtu.be/Oly8NyOu4vo/ The Hidden Slime Factory]'''
+
+== 총평 ==
+
+전체적인 난이도는 타 모드들과 비교하면 '''중하 수준'''. 그러나 MAP 23 이후부터는 난이도가 다시 급격하게 상승하므로 무조건 만만히 볼 만한 모드는 아니다. 은근히 몬스터 수가 많은 편이며, 전체적인 분위기에서 오리지널 둠의 냄새가 꽤 느껴지고, 테크베이스 테마의 맵들도 많다. 압도적인 인상을 심어주는 느낌보다는 익숙한 느낌이 더 강한 모드. 시크릿들이 깨알같이 배치되어 있어 은근히 이를 찾는 재미도 있다.
+
+무엇보다도, '''[[배경음악]]에 상당히 신경을 썼다'''. 흔히들 모드 제작자들이 간과하는 것이지만, 적절한 배경음악은 게임의 몰입도와 압도감을 높여주는 일등공신이다. 그런 점에서 오프닝 음악부터 싹 다시 만든 이 모드의 가치는 더욱 빛난다. 정말로 말 그대로 음악 하나 하나를 성의있게 만들었다는 느낌을 받을 정도다. 분위기는 공포스러움보다는 박진감에 초점을 맞춘 듯.
+
+1996년의 우수 WAD 로 선정된 만큼 그 완성도 역시 게이머를 실망시키지 않는 수준. 그러나 앞서 말했다시피 난이도가 낮아서, [[아크바일]]의 출현은 손에 꼽을 정도이고 (…) 주력 몬스터들이 좀비 내지 [[wiki:"임프(둠)" 임프]] 계열인 만큼 극악의 난이도에 익숙한 게이머들은 좀 실망할지도 모르겠다.
+
+== 기타 ==
+
+ * MAP 02 시작점 앞의 엘리베이터의 비정상적인 작동방식은 옥의 티일 가능성이 높다. 또한 중앙부에 위치한 거대한 안뜰은 디테일이 지나치게 간소하고, 몬스터가 없어 휑뎅그렁한 분위기를 준다는 점이 해외 게이머들에게 지적된 적이 있다.
+
+ * MAP 13 에서 게이머의 첫 시작점은 방사능 지대 위에 있다. (…) 시작과 동시에 자리를 뜰 것.
+
+ * MAP 29 에서 경우에 따라 (정상적인 플레이임에도 불구하고) 4~5분 남짓에 클리어가 되는 경우가 있다. 열심히 맵을 누비던 도중, 어찌어찌 하다 보니 종착점에 있는 '배'를 타게 되는 것. 이것이 원래 그런 것인지 소스 포트 때문인지, 아니면 다른 이유인지는 불명.
+
+ * MAP 30 에서 게이머는 실내형 맵에서 [[아이콘 오브 신]]과 대결하게 된다. 바포메트 그림 뒤로 이동하여 텔레포트 장치를 타고 임프들로 가득 찬 방으로 이동하면 그때부터 아이콘 오브 신이 활성화된다. 그 방에 있는 스위치를 켜지 않으면 아이콘 오브 신의 머리가 열리지 않아 파괴가 불가능.
+
+ * 스위치를 켠 이후 서재에서 파란색 키를 획득하고 중앙의 방으로 이동하면, 상하로 움직이는 엘리베이터가 있고 마치 무슨 가늠쇠마냥 (…) 조준구멍이 뚫린 기둥이 정면에 위치해 있다. 이 앞으로 정면을 향해 로켓을 죽어라 쏘아 대면 되긴 되는데, '''조심할 것! 아이콘 오브 신의 본체 앞에는 [[사이버데몬]]이 버티고 서 있다.''' 마주 날아오는 로켓으로부터 스스로를 보호해야 하는 것.
+
+ * 그러나 사이버데몬을 처치한 이후에도 쉽사리 클리어하기가 곤란할 수 있는데, 이는 아이콘 오브 신의 본체로 통하는 작은 구멍을 크러셔 (밀려내려오는 천장) 가 상하 왕복하며 주기적으로 틀어막아 버리기 때문이다.
+
+ * 링크된 영상에서도 나타나긴 하지만, 상급 난이도에서는 전체적으로 탄약수급에 애로가 좀 있는 편. 그 덕분인지 [wiki:"전기톱(둠 시리즈)"훌륭한 대화 수단]을 [wiki:"둠(코믹스)"이용하는 장면]도 중간중간 보인다. (…)

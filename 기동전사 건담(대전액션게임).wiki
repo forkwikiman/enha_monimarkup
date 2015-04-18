@@ -1,0 +1,52 @@
+attachment:Title.png
+1993년 [[반프레스토]]에서 아케이드용으로 만든 [[대전액션게임]]. 동명의 애니메이션을 원작으로 삼고 있다. 
+
+[[목차]]
+
+== 개요 ==
+[[스트리트 파이터]]이래로 아케이드에 대대적으로 분 대전액션 붐을 의식해서 나온 [[기동전사 건담]]의 대전액션게임. 하지만 당시 의례 그렇듯 쏟아지는 대전액션게임의 하나로 완성도는 기대하기 힘든.. 정도가 아니라 [[쿠소겜]]이다.
+어설픈 모션. 툭툭 끊어지는 프레임. 괴악한 판정. 너무 단순해서 만들다 만 느낌이 좔좔 흐르는 시스템 등 뭐 하나 건질만한게 없다. [[세이라 마스]] 컬러의 [[건담]] 정도...
+그런 주제에 셀렉트 불가능한 보스인 지온 MS [[돌멜]]같은 오리지널 MS도 디자인해 넣어놓는등 나름 꽤 야심차게 기획했던 모양이다. 결국 어찌되었는지는 모르겠으나 본 게임을 베이스로 더 보완한 후속작인 [[기동전사 건담 EX REVUE]]도 발매되었다.
+
+== 시스템 ==
+사용버튼은 '''단 2개'''로 약공격과 강공격뿐. 이동은 걷기, 앉기, 점프가 전부. 일반적인 커맨드 입력으로 필살기를 사용. 초필살기는 따로 존재하지 않는다.
+각 캐릭터마다 겨우 2-3개 정도의 필살기가 있으며 입력 판정이 꽤 빡빡해서 잘 나가지도 않는다.
+
+== 등장 기체 ==
+[[건담]] ([[아무로 레이]])
+attachment:Gundam.png
+attachment:Amuro.png attachment:Amuro-win.png attachment:Amuro-lose.png
+
+[[자쿠II]] ([[진]])
+attachment:Zaku.png
+attachment:Jin.png attachment:Jin-win.png attachment:Jin-lose.png
+
+[[구프]] ([[란바랄]])
+attachment:Gouf.png
+attachment:Ral.png attachment:Ral-win.png attachment:Ral-lose.png
+
+[[돔]] ([[가이아]])
+attachment:Dom.png
+attachment:Gaia.png attachment:Gaia-win.png attachment:Gaia-lose.png
+
+[[즈고크]] (지온병)
+attachment:Zugock.png
+attachment:Zion1.png attachment:Zion1-win.png attachment:Zion1-lose.png
+
+[[겔구그]] (지온병)
+attachment:Gelgoog.png
+attachment:Zion2.png attachment:Zion2-win.png attachment:Zion2-lose.png
+
+[[건담]] ([[세이라 마스]])[* 모션은 아무로의 건담과 동일]
+attachment:Gundam2.png
+attachment:Sailor.png attachment:Sailor-win.png attachment:Sailor-lose.png
+
+[[샤아전용 자쿠II]] ([[샤아 아즈나블]])
+attachment:CharZaku.png
+attachment:Char.png attachment:Char-win.png attachment:Char-lose.png
+
+[wiki:"샤아 전용기" 샤아전용] [[즈고크]] ([[샤아 아즈나블]])
+attachment:CharZugock.png
+
+[wiki:"샤아 전용기" 샤아전용] [[겔구그]] ([[샤아 아즈나블]])
+attachment:CharGelgoog.png

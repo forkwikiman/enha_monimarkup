@@ -1,0 +1,141 @@
+'''히마와리''' 뜻은 '해바라기'
+
+ * 이 항목은 '히마와리(비마니 시리즈)'로 들어올 수 있다.
+
+[[목차]]
+
+== 개요 ==
+|| https://remywiki.com/images/2/26/Himawari.png?width=240 || https://remywiki.com/images/6/6c/Himawari_DDR.png?width=240 || https://remywiki.com/images/d/da/Himawari_UNI3.png?width=240 ||
+|| XG 시리즈의 자켓 || [[댄스 댄스 레볼루션]]에서의 자켓 || 댄스 댄스 레볼루션 UNIVERSE3에서의 자켓. ||
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[NAOKI]], 보컬은 BeForU의 멤버 [[코사카 리유]].
+
+=== [[BGA]] ===
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/ubJAdXVlki8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+이 BGA는 [[beatmania IIDX]]에서 특이사항이 존재한다. 기타드럼 때의 [[BGA]]를 그대로 사용해서 IIDX에 실린 BeForU 관련곡 중에서 유일하게 BeForU의 캐릭터가 나오는 곡이 되었다. 단 BGA가 리메이크되어서 IIDX에 이식된 [[Agnus Dei]]와는 다르고, 이 곡은 기타드럼의 BGA를 그대로 사용했으므로 BGA의 화질이 좋지 않다고 하는 반응도 있었다.
+
+[[댄스 댄스 레볼루션]]에는 이 BGA가 수록되지 않았다.
+
+== [[기타프릭스·드럼매니아]] ==
+[[youtube(lk0lqRLxkNY)]]
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||| [[기타프릭스&드럼매니아 XG|XG 시리즈]] 난이도 체계 ||
+||<|5> 185 ||<|2> 기타 표준 || {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue NOV}}} || {{{#orange REG}}} || {{{#red EXP}}} ||
+|| {{{#green 20}}} || {{{#orange 29}}} || {{{#red 55}}} ||<|2> {{{#blue 2.90}}} ||<|2> {{{#orange 5.10}}} ||<|2> {{{#red 6.60}}} ||
+|| 기타 오픈픽 || {{{#green 23}}} || {{{#orange 32}}} || {{{#red 56}}} ||
+|| 기타 베이스 || {{{#green 28}}} || {{{#orange 35}}} || {{{#red -}}} || {{{#blue 2.65}}} || {{{#orange 3.75}}} || {{{#red 5.90}}} ||
+|| 드럼매니아 || {{{#green 27}}} || {{{#orange 53}}} || {{{#red 77}}} || {{{#blue 2.50}}} || {{{#orange 4.70}}} || {{{#red 6.55}}} ||
+
+[[기타프릭스]] 10th & [[드럼매니아]] 9th에 나온 곡. 기타드럼 시리즈에 4번째로 실린 BeForU 관련 곡이다. 코나미와 BeForU와의 관계가 소원해져서 V6에서 삭제되었지만 XG/V7에서 부활.
+
+기타프릭스에서는 이 때의 BeForU 곡이 고만고만하지만 드럼매니아에서는 이전의 두 곡([[BRE∀K DOWN!]], [[チカラ]])에 비해서 어려운 난이도(EX 기준 77)라서 이 곡이 벽이었던 유저가 많았다.
+
+=== 곡 코멘트 ===
+||GF&dm에는『チカラ』에 이어 BeForU프로젝트 제 3탄이 되는『ヒマワリ』.
+
+해드 하드 코어 풍의 드러밍에 제 나름 대로의 기타가 얽혀, 코사카 리유의
+리드미컬하고 힘찬 보컬, 그리고 코사카밖에 쓸 수 없는 가사가 하이 텐션으로 만난, 2003년의 마이 베스트 넘버 1인 곡입니다.
+
+제 안에서는 이 사운드, J-HAPPYHARD CORE인 록으로 이름을 붙였습니다.
+『CANDY』,『LOVESHINE』이라는 제 작풍의 흐름이 드러납니다.
+그러면서도『ヒマワリ』는 GF&DM용의 오리지널 신곡이기에,
+기타를 전면에 내세우고, 드럼은 반드시 진짜로 두드립니다. (펑)
+
+『チカラ』나『BRE∀K DOWN!』도 그렇지만, 반드시 밴드로 플레이 가능한
+것이므로, 한 번 플레이 해주세요!
+
+그리고 가사의 내용도 チカラ같이, 꽤 꾹하고 마음에 남기에, 귀를 기울여서
+노래로 된 메세지를 청취해주세요!
+
+- NAOKI MEDIA||
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| J-HAPPY HARDCORE[[BR]]J-해피 하드코어 || [[BPM]] |||| 185 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 3}}} || {{{#blue 280}}} || {{{#orange 9}}} || {{{#orange 947}}} || {{{#red 10}}} || {{{#red 1042}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 396}}} || {{{#orange 8}}} || {{{#orange 852}}} || {{{#red 9}}} || {{{#red 943}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 12 HAPPY SKY ~ 16 EMPRESS, 18 Resort Anthem ~
+ * 가정용판 수록 : 12 HAPPY SKY
+ * [[단위인정]] 수록
+  * 싱글 노멀 : 6급
+
+[[beatmania IIDX]] 12 HAPPY SKY에도 이식. 위의 V6처럼 IIDX 17에서 삭제되었지만 18에서 바로 부활했다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/gqte8qZ9OVs" frameborder="0" allowfullscreen></iframe>
+}}}
+SPA 영상
+
+== [[댄스 댄스 레볼루션]] ==
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 10}}} || {{{#purple -}}} ||
+||<|3> 185|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 12}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+[[댄스 댄스 레볼루션]] SuperNOVA에도 이식되었다. DDR판은 곡이 편집되어서 인트로가 짧아지고 있다(...)
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/HbD8HAlFd04" frameborder="0" allowfullscreen></iframe>
+}}}
+ESP 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/8WKSp8OMjB4" frameborder="0" allowfullscreen></iframe>
+}}}
+EDP 영상
+
+싱글은 무난한 편이지만 더블 익스퍼트의 경우 허리를 많이 틀어야 되기 때문에 체력 소모가 심하다.
+
+== [[사운드 볼텍스]] (ヒマワリ MUZIK SERVANT Remix) ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/9nfFrfkJK6E" frameborder="0" allowfullscreen></iframe>
+}}}
+
+리믹서는 MUZIK SERVANT. 사운드 볼텍스 부스에서 등장한 보컬 곡의 대부분이 [[VOCALOID]]를 사용하는 중에서는 드물게도 원곡의 보컬을 사용해서 리믹스 한 곡.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0003_himawari_muzik_servant_jacket_n.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0003_himawari_muzik_servant_jacket_a.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0003_himawari_muzik_servant_jacket_e.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 08}}} || {{{#ff009f 10}}} ||
+|| 체인 수 || {{{#purple 0564}}} || {{{#orange 0770}}} || {{{#ff009f 0914}}} ||
+|| 일러스트 담당 || {{{#purple twiny*blue}}} || {{{#orange twiny*blue}}} || {{{#ff009f 石川優雅（極東喫茶）}}} ||
+|| 이펙터 || {{{#purple SHOUTICE}}} || {{{#orange SHOUTICE}}} || {{{#ff009f SHOUTICE}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 01(2011.7.16)}}} ||
+|| [[BPM]] |||||| 175 ||
+
+변경점
+|| 2012/01/30 || ADV 패턴 난이도 상승 (07 → 08) ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 02(2013.7.3 ~ 2013.9.5, 2013.10.4 ~ 2013.10.31), Skill Level 02 C코스(2014.11.20 ~ 2014.12.26)
+
+~~자켓이 이쁘장 하다가 캐릭터가 광속 선팅해버림~~
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/FawCsZ0XYyw" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+EXH 패턴에서는 한 손으로 노브를 돌리면서 다른 한 손으로 숏 노트나 롱 노트를 처리하는 패턴이 많이 나온다.
+
+== 같이보기 ==
+이 곡을 이용해서 만든, [[해바라기]]를 키우는 소녀를 다룬 플래시 애니가 [[니코니코 동화]]에서 꽤 좋은 반응을 얻었다. (근데 그 소녀가 왠지 [[댄스 댄스 레볼루션]]의 캐릭터 [[도시바 에미]]와 닮았다...아 그냥 에미일지도)
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/xtYbw7-ReA8&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/xtYbw7-ReA8&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+
+~~[[wiki:"국내도입이 시급합니다" BGA 도입이 시급합니다]]~~

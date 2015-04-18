@@ -1,0 +1,32 @@
+[[목차]]
+
+== 개요 ==
+||http://ec2.images-amazon.com/images/I/51FDAa1EpzL._SL500_AA300_.jpg||http://ec2.images-amazon.com/images/I/51W6P6hfqaL._SL500_AA300_.jpg||
+|| 싱글음반 '終わりと始まり/Lost Boy'의 초회한정반 자켓 || 싱글음반 '終わりと始まり/Lost Boy'의 통상반 자켓 ||
+
+[[일본]]의 래퍼이자 싱어송 라이터인 SEAMO의 노래. [[2010년]] [[2월 17일]]에 발매된 12번째 싱글 '終わりと始まり/Lost Boy'의 2번 트랙에 실린 곡이다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/vnxF7U9il0k?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vnxF7U9il0k?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+
+[[애니메이션]] [[괴담 레스토랑]]의 엔딩 테마로도 사용되었다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>7||<:>8||
+||<#faca00><:>노트수||<:>163||<:>414||<:>490||
+||<#faca00><:>BPM||||||<:>100||
+||<#faca00><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임 안에서 쓰는 자켓은 통상반 자켓.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/9aZ-24Q6XbY" frameborder="0" allowfullscreen></iframe>
+}}}
+익스트림 [[엑설런트]] 영상
+
+8레벨 중에서도 상급 난이도에 속하는 곡. 시작부터 난해한 박자의 랩 부분을 처리해야 한다. 노트 순서를 정확히 파악하지 않으면 뮤직바가 블루스톰이 되기 쉬우며, 동시치기의 경우 손이 꼬이기 쉬우므로 주의가 필요하다. 특히 랩 부분에 나올 때는 연타와 섞어서 나오기 때문에 낚이면 미스나기 쉽다.

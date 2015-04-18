@@ -1,0 +1,74 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 장르 || Nu Breakz ||
+|| 작곡 || Vesper vs Myagi ||
+|| 보컬 || Vesper Feat. Krystal Jones ||
+|| 최초수록 || [[DJMAX Portable 3]] ||
+|| BPM || 132 ||
+|| 비주얼 || [[ECO]] ||
+
+{{{#!html
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/gBbrPAa7mqU?rel=0" frameborder="0" allowFullScreen></iframe>
+}}}
+처음 공개되었을 때의 BGA
+
+{{{#!html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g7ouPjdenDk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+ECO가 개인 작업의 형식으로 리마스터링한 BGA ~~후방주의~~
+
+[[DJMAX Portable 3]] 수록곡.
+[[Drum Town]]과 함께 DMP3에 새로 참여한 Myagi의 곡이다. 작곡 정보로 보면, 해외 보컬리스트 Vesper와의 합작곡.
+
+시종일관 펑키한 느낌의 시원시원한 진행이 돋보이는 곡. 이 곡의 BGA 설명을 보면, "금지된 사랑에 대한 비극적인 결말을 그려낸 BGA가 포인트이다. 그 이름 텍사스 헐리우드 [wiki:"빌리 헤링턴" 빌리]!" 라는 이야기가 있는데, 정작 BGA를 보면 대체 어디서 그런 내용이 있는 것인지 알기 힘들다. 
+
+하지만, 정작 본 BGA에 나오지 않는 BGA 프리뷰 영상에서 비밀을 알 수 있는데..
+
+{{{#!html
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/SBhXVSxvCcM?rel=0" frameborder="0" allowFullScreen></iframe>
+}}}
+[[wiki:"Ang"ANG?]]
+
+프리뷰에 나오는 이 장면은 본래 BGA에 전혀 나오지 않는다. 본래 BGA도 위와 같은 장면들이 심의 문제로 인해 삭제되고 나머지 장면들로 우려먹은 것으로 추정된다. 이 곡의 본 BGA가 다른 BGA들에 비해 유독 같은 장면 반복/재탕이 많은 이유도 여기에 있다. 다만 프리뷰 장면은 그대로 위 동영상으로 나오는 것을 알 수 있는데, 어떻게 심의를 통과하고 프리뷰에라도 들어갔는지는 의문점.
+
+참고로 BGA중간에 차의 그림이 바뀌는데 이중에는 [[NB POWER]], [[Astro Fight]]도 있다. 이 곡들의 BGA를 [[ECO]]가 그렸기 때문.
+
+그래서 원본의 BGA를 구경 못하고 그렇게 유저들 사이에서 잊혀지는가 했는데 [[DJMAX TECHNIKA 3]]에는 '''BGA가 수정되지 않은 원본으로 수록됐다!''' --심의는 어떻게 통과했지?-- [* 참고로, BGA가 수정된 DMP3는 12세 이용가, BGA가 원본인 테크니카3는 전체이용가이다. 물론 심의를 할 때 이 곡만 보고 심의를 하는 건 아니겠지만...] 그리고 밑의 테크니카 플레이 영상을 보면 알수 있지만 '''(0:18 부분부터 참고)''' 비누가 미끄러 지는 부분도 있다. 처음부터 끝까지 온갖 게이드립의 향연(...) --[[wiki:"비누 좀 주워줘" 거기...비누 좀 주워주겠나?]]--
+
+게다가 위의 리모델링 영상은 수위가 엄청나게 증가했다. ~~그건 그렇고 제작자도 혹시....~~
+=== 게임 플레이 ===
+리믹스 모드에서 등장하는 다른 곡의 샘플은 [[Desperado]]. DMP3 내에서는 대체적으로 레벨 5 이하의 저레벨곡으로 등장한다. 다만, 3.2T에서는 TS 8, WS 10 의 난이도로 다른 키에 비해 상당히 높은 레벨로 나오고, 또 그만큼 까다로운 편.
+
+{{{#!html
+<iframe width="560" height="349" src="http://www.youtube.com/embed/w4rDV38qQ7g" frameborder="0" allowfullscreen></iframe>
+}}}
+6T NM
+
+{{{#!html
+<iframe width="560" height="349" src="http://www.youtube.com/embed/dDZ9ro5bd8g?hd=1" frameborder="0" allowfullscreen></iframe>
+}}}
+3.2T WS
+
+{{{#!html
+<iframe width="560" height="349" src="http://www.youtube.com/embed/GX8QrfrAIlE" frameborder="0" allowfullscreen></iframe>
+}}}
+개발자 [[XeoN]]이 플레이한 3.2T WS.
+
+
+=== DJMAX TECHNIKA 3 ===
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 375 Max || 5 || || ||
+||<#FFFF00> Normal || C || 375 Max || 5 || 4박 스크롤 || ※[지뢰곡] ||
+||<#0000FF> {{{#white Hard}}} || B || 1250 Max || 6 || 4박 스크롤 || [[Saturday Night Set]] 셀렉곡, [Radio Wave Set] 셀렉곡, [wiki:"Future Challenge"미션 - .2nd Triangle] 수록 ||
+||<#FF0000> Maximum || A || 3250 Max || 8 || 4박 스크롤 || [wiki:"New Beginning"미션 - 신의 손길] 수록 ||
+
+MX 패턴은 [wiki:"New Beginning" 미션 1-8 : 신의 손길]에서 플레이할수 있는데, 노트가 매우 밀집되어 있는지라 플레이하기가 상당히 까다로운 편. 게다가 최후반부에는 변종 분홍+보라 패턴에다가 블링크 2를 걸어놨기 때문에 처음 플레이하는 사람들은 이 부분을 마구마구 비비는 상황이 발생한다(...). 6월 12일 맥스포인트 샵 15차 업데이트가 되면서 팝믹싱에 MX 패턴이 풀렸다.
+
+여담이지만 STAR 패턴부터 MAXIMUM 패턴까지 [DJMAX Portable 3]의 리믹스모드음원을 사용하는 곡이다. Luv Flow(Funky House Mix)가 MX에 부분적으로 사용된적은 있지만 패턴 대부분이 리믹스 음원으로 쓰인건 이 곡이 처음. --[[키음]]이 꽤나 부족했나보네-- 이후에 [[Drum Town]], [[Everything]]도 이 뒤를 잇고 있다.
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ZbCOg3THFXE" frameborder="0" allowfullscreen></iframe>}}}
+
+MX패턴 ([[New Beginning]] 미션팩 1-8 신의손길)플레이 영상. 블링크 2가 걸려있다.

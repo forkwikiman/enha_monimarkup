@@ -1,0 +1,90 @@
+'''境界インサニティー'''
+
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡은 Toma+o.
+
+=== 가사 ===
+{{|
+進行方向　任せてAlright！ 
+六畳半の世界が回る 
+完全超越　んなわけない 
+たった一度の　最高傑作さ 
+
+
+心頭滅却　火もまた涼しと 
+上澄みだけで喉すら通らぬ 
+諦観決めて　諸行の無常を 
+味わいたいね　脳みそピンク色 
+
+
+「早くやめちゃえば？」 
+最後の理性が囁いた 
+「それもいいかもね」 
+肯いた 
+
+
+おてて繋いで踊りましょう 
+境界線ならそこだよ 
+カラカラ回る時計の針 
+蛍光灯が笑ってるの 
+
+
+その眼開いて見据えましょう 
+霞む時間の真ん中で 
+カーテンが　揺れている　手招きするのはだぁれ？ 
+
+
+その手　合掌（あわし）て祈りましょう 
+境界線なら越えたよ 
+衆人環視　初舞台ね 
+解体ショーはこちらです 
+
+
+そして笑って終わりましょう 
+無言の抵抗届かないの 
+カーテンが　揺れている　真赤なお空が綺麗 
+|}}
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/85yIkUM14_o" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '[[wiki:"MEGPOID" GUMI]] 오리지널곡 모집!'의 당선곡이다.
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/23/s187_jk_001_0149_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/23/s187_jk_001_0149_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/23/s187_jk_001_0149_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 06}}} || {{{#orange 11}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0614}}} || {{{#orange 1056}}} || {{{#ff009f 1329}}} ||
+|| 일러스트 담당 || {{{#purple くまお}}} || {{{#orange くまお}}} || {{{#ff009f くまお}}} ||
+|| 이펙터 || {{{#purple ユカリ☆chan  }}} || {{{#orange ユカリ☆chan}}} || {{{#ff009f ユカリ☆chan }}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 23(2013.1.18)}}} ||
+|| [[BPM]] |||||| 190 ||
+
+{{|
+두부 좋아.
+
+-당선자 Toma+o 코멘트-
+|}}
+
+{{|
+http://p.eagate.573.jp/game/sdvx/sv/p/floor/image/floor_result/original/04/01.jpg
+※이 작품은 자켓도 함께 채용되었습니다!
+일러스트레이터명：くまお
+
+햄 좋아.
+
+-당선자 くまお 코멘트-
+|}}
+
+{{{#!HTML
+<iframe width="354" height="480" src="http://www.youtube.com/embed/mbDzkcsWDOQ" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+영상 기준 1:17부터 노브발광이 시작되는데, 여기서 특히 주의할것. 집중력과 컨트롤이 요구된다. 13레벨기준으론 특히 어려운곳은 없다. 얼티밋 체인도 노브 발광만 잘 처리한다면 쉽게 할 수 있을것이다. --마지막 트릴이 고난일수도 있다.--

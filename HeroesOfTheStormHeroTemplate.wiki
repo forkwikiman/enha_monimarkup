@@ -1,0 +1,162 @@
+## 영웅의 능력치와 기술, 특성 관련 정보는 게임 내/공홈에서 확인 가능한 정보를 최우선으로 합니다. 직접 확인할 수 없는 항목은 www.heroesfire.com이나 www.heroesnexus.com을 참조 바랍니다.
+[[목차]]
+
+== 소개 ==
+||||<tablewidth=100%><tablebgcolor=#ccffff> {{{attachment:대표이미지.jpg?width=100%}}} ||
+||||<#6ebed4> '''영웅 이름, 칭호''' (Hero Name, nickname) ||
+||||공식 홈페이지 또는 게임 내에서 제공하는 영웅에 대한 소개입니다. ||
+||<width=50%>  '''영웅 이름, 칭호''': 영웅 소개 페이지 (링크) ||<width=50%> 영웅 집중 조명: '''영웅 이름''' (링크) ||
+
+{{{#!html
+<div align="center">(영웅 소개 동영상)</div>}}}
+
+>영웅 소개 동영상의 대사
+
+[[히어로즈 오브 더 스톰]]의 [[히어로즈 오브 더 스톰/영웅|영웅]]. '''[[스타크래프트]]/[[디아블로 시리즈|디아블로]]/[[워크래프트]] 시리즈'''의 '''{{{[[영웅 이름]]}}}'''
+
+영웅에 대한 자세한 소개 내용.
+
+== 대사 ==
+##차후 한국어 대사가 나오거나, 영문 대사를 번역한 것이 있을 경우 추가해 주세요.
+- 선택 시
+ * 대사 1
+ * 대사 2
+ * 대사 3
+
+- 이동 시
+ * 대사 1
+ * 대사 2
+ * 대사 3
+
+- 공격 시
+ * 대사 1
+ * 대사 2
+ * 대사 3
+
+- 기술명 (단축키) 사용 시
+ * 대사 1
+ * 대사 2
+ * 대사 3
+
+- 반복 선택 시
+ * 대사 1
+ * 대사 2
+
+- 적 처치 시
+ * 대사 1
+ * 대사 2 (vs 적 영웅 1)
+ * 대사 3 (vs 적 영웅 2)
+
+- 아군 조우 시
+ * (아군 영웅 1)
+   영웅 1: 대사
+   영웅 2: 대사
+ * (아군 영웅 2)
+   영웅 1: 대사
+   영웅 2: 대사
+
+== 능력치 ==
+||||<tablewidth=100%><tablebgcolor=#ccffff><width=24%><#6ebed4> '''유형''' ||||<width=24%><#6ebed4> '''세계관''' ||<width=12%><#6ebed4> '''공격력''' ||<width=12%><#6ebed4> '''활용성''' ||<width=12%><#6ebed4> '''생존력''' ||<width=12%><#6ebed4> '''난이도''' ||
+|||| 전사, 암살자, 지원형, 전문가 중 택일 |||| 스타크래프트, 디아블로, 워크래프트 중 택일 || 수치/10 || 수치/10 || 수치/10 || 수치/10 ||
+||<#6ebed4> '''생명력''' ||<#6ebed4> '''생명력 회복''' ||<#6ebed4> '''마나''' ||<#6ebed4> '''마나 회복''' ||<#6ebed4> '''이동 속도''' ||<#6ebed4> '''공격 속도''' ||<#6ebed4> '''사정거리''' ||<#6ebed4> '''피해량''' ||
+|| 생명력 (+레벨당 증가량) || 생명력 회복률 (+레벨당 증가량) || 마나 (+레벨당 증가량) || 마나 회복률 (+레벨당 증가량) || 이동속도값 || 공격속도값 || 사정거리 || 피해량 (+레벨당 증가량) ||
+
+능력치, 난이도 등에 대한 해설.
+
+== 기술 정보 ==
+=== 고유 능력: 기술명 (Hero Trait Name) ===
+||<tablewidth=100%><width=80px><#8684d4><^|0> (기술 아이콘 경로) ||<#ccccff>게임 내 기술 설명[[BR]][[BR]]''공식 홈페이지의 기술 설명'' ||
+
+고유 능력에 대한 설명.
+
+=== Q - 기술명 1 (Starting Ability 1) ===
+||<tablewidth=100%><width=80px><#8684d4><^|0> (기술 아이콘 경로) ||<#ccccff>게임 내 기술 설명[[BR]][[BR]]'''재사용 대기시간''' XX초｜'''소모 마나''' XX[[BR]][[BR]]''공식 홈페이지의 기술 설명'' ||
+
+기술에 대한 자세한 설명.
+
+=== W - 기술명 2 (Starting Ability 2) ===
+||<tablewidth=100%><width=80px><#8684d4><^|0> (기술 아이콘 경로) ||<#ccccff>게임 내 기술 설명[[BR]][[BR]]'''재사용 대기시간''' XX초｜'''소모 마나''' XX[[BR]][[BR]]''공식 홈페이지의 기술 설명'' ||
+
+기술에 대한 자세한 설명.
+
+=== E - 기술명 3 (Starting Ability 3) ===
+||<tablewidth=100%><width=80px><#8684d4><^|0> (기술 아이콘 경로) ||<#ccccff>게임 내 기술 설명[[BR]][[BR]]'''재사용 대기시간''' XX초｜'''소모 마나''' XX[[BR]][[BR]]''공식 홈페이지의 기술 설명'' ||
+
+기술에 대한 자세한 설명.
+
+== [[히어로즈 오브 더 스톰/특성|특성]] ==
+##공용 특성은 [[히어로즈 오브 더 스톰/특성]]에 있는 것들 중에서 추가해 주세요. 외부 위키를 참고할 경우 특성의 순서가 실제와 다를 수 있으니 꼭 특성 계산기를 확인 바랍니다.
+=== 1단계: 레벨 1 ===
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+
+=== 2단계: 레벨 4 ===
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+
+=== 3단계: 레벨 7 ===
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+
+=== 4단계: 레벨 10 (궁극기) ===
+==== R - 궁극기 1 (Heroic Ability 1) ====
+||<tablewidth=100%><width=80px><#8684d4><^|0> (기술 아이콘 경로) ||<#ccccff>게임 내 기술 설명[[BR]][[BR]]'''재사용 대기시간''' XX초｜'''소모 마나''' XX[[BR]][[BR]]''공식 홈페이지의 기술 설명'' ||
+
+사용법 및 상대하는 방법 등 기술에 대한 자세한 설명.
+
+==== R - 궁극기 2 (Heroic Ability 2) ====
+||<tablewidth=100%><width=80px><#8684d4><^|0> (기술 아이콘 경로) ||<#ccccff>게임 내 기술 설명[[BR]][[BR]]'''재사용 대기시간''' XX초｜'''소모 마나''' XX[[BR]][[BR]]''공식 홈페이지의 기술 설명'' ||
+
+사용법 및 상대하는 방법 등 기술에 대한 자세한 설명.
+
+=== 5단계: 레벨 13 ===
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+
+=== 6단계: 레벨 16 ===
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (고유 능력/Q/W/E) ||
+||||<#d9effe>설명 ||
+
+=== 7단계: 레벨 20 ===
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (R) ||
+||||<#d9effe>설명 ||
+||<tablewidth=100%><width=64px><#6690d3><^|2> attachment:이미지?width=100% ||<#a9cfff> '''특성 이름 (Talent Name)''' ||<width=35%><#a9cfff> 지속 효과/사용 효과 (R) ||
+||||<#d9effe>설명 ||
+
+== 평가 및 활용 ==
+전체적인 장단점과 각 전장별 전략전술, 상대하는 방법 등을 서술바람.
+
+== 스킨 ==
+=== 기본 스킨: 스킨 이름 1 (Skin Name 1) ===
+스킨 이미지 및 설명.
+
+=== 스킨 이름 2 (Skin Name 2) ===
+스킨 이미지 및 설명.
+
+== 기타 ==
+
+[[각주]]

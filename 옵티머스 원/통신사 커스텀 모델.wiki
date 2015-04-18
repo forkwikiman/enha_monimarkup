@@ -1,0 +1,158 @@
+ * 상위 항목: [[옵티머스 원]], [[LG 옵티머스|LG 옵티머스 시리즈]]
+
+[[목차]]
+
+== 개요 ==
+이 문서는 [[옵티머스 원]]의 이동통신사로 출시된 커스텀 모델들의 정보를 정리하는 문서다.
+
+[[옵티머스 원]]은 [[스마트폰]] 시장에서 부진하던 [[LG전자]]를 숨통을 트이게한 기기로, 한국 뿐만이 아니라 전세계적으로 출시되었고, 다양한 이동통신사들이 존재하는 미국 시장에도 적지않은 수의 이동통신사를 통해서도 출시되었다. 이는 2년 뒤의 전략 [[스마트폰]]이던 [[옵티머스 G]]보다도 많은 수의 이동통신사를 통해 출시되었다.
+
+== 미국 ==
+=== [[T모바일]] US & Metro PCS ===
+==== 옵티머스 T (P509) ====
+||<tablealign="center"> attachment:/LGOptimusT.jpg?width=380 ||
+|| [[http://www.lg.com/us/cell-phones/lg-P509-Black-black-optimus-t 미국 LG전자 LG-P509 공식 사이트]] ||
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S1 MSM7227 [[SoC]]. [[ARM(CPU)|ARM11]] 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 1500 mAh||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 2.2 (Froyo)[[br]][[LG UI]] 1.0 ||
+||규격||59 x 113.5 x 13.3 mm, 129 g ||
+||기타|| ||
+
+===== 상세 =====
+[[옵티머스 원]] [[WCDMA]] 모델의 커스텀 모델이다.
+
+==== 옵티머스 M (MS690) ====
+||<tablealign="center"> attachment:/LGOptimusM.jpg ||
+|| [[http://www.lg.com/us/cell-phones/lg-MS690-optimus-m 미국 LG전자 LG-MS690 공식 사이트]] ||
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S1 MSM7627 [[SoC]]. [[ARM(CPU)|ARM11]] 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[CDMA2000|CDMA & EV-DO Rev. A]], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 1500 mAh||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 2.2 (Froyo)[[br]][[LG UI]] 1.0 ||
+||규격||56 x 116 x 16 mm, 153 g ||
+||기타|| ||
+
+===== 상세 =====
+[[옵티머스 원]] [[CDMA]] 모델의 커스텀 모델이다.
+
+==== 옵티머스 M+ (MS695) ====
+||<tablealign="center"> attachment:/LGOptimusMP.jpg ||
+|| [[http://www.lg.com/us/cell-phones/lg-MS695-optimus-m-plus 미국 LG전자 LG-MS695 공식 사이트]] ||
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S1 MSM7627A [[SoC]]. [[ARM Cortex-A5]] 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[CDMA2000|CDMA & EV-DO Rev. A]], [[Wi-Fi]] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-Ion 1300 mAh ||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 2.3 (Gingerbread)[[br]][[LG UI]] 2.0 ||
+||규격||62.7 x 113.8 x 9.9 mm, 119 g ||
+||기타|| ||
+
+===== 상세 =====
+옵티머스 M의 후속작이다.
+
+[[각주]]
+
+=== [[at%26t|AT&T]] ===
+==== LG Phoenix (P505) ====
+||<tablealign="center"> attachment:/LGPhoenix.jpg ||
+|| [[http://www.lg.com/us/cell-phones/lg-P505-phoenix 미국 LG전자 LG-P505 공식 사이트]] ||
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S1 MSM7227 [[SoC]]. [[ARM(CPU)|ARM11]] 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1 ||
+||[[카메라]]||후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 1500 mAh||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 2.2 (Froyo)[[br]][[LG UI]] 1.0 ||
+||규격||59 x 114 x 13.3 mm, 91 g ||
+||기타||[[FM#s-2|FM]] [[라디오]] 지원 ||
+
+===== 상세 =====
+[[옵티머스 원]] [[WCDMA]] 모델의 커스텀 모델이다. [[LG전자]]의 브랜드 파워가 약한 관계로 [[LG 옵티머스|옵티머스 브랜드]]가 빠졌다.
+==== LG Thrive (P506) ====
+||<tablealign="center"> attachment:/LGThrive.jpg ||
+|| [[http://www.lg.com/us/cell-phones/lg-P506-thrive 미국 LG전자 LG-P506 공식 사이트]] ||
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S1 MSM7227 [[SoC]]. [[ARM(CPU)|ARM11]] 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1 ||
+||[[카메라]]||후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 1500 mAh||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 2.2 (Froyo)[[br]][[LG UI]] 1.0 ||
+||규격||59 x 114 x 13.3 mm, 91 g ||
+||기타||[[FM#s-2|FM]] [[라디오]] 지원 ||
+
+===== 상세 =====
+[[옵티머스 원]] [[WCDMA]] 모델의 커스텀 모델이다. [[LG전자]]의 브랜드 파워가 약한 관계로 [[LG 옵티머스|옵티머스 브랜드]]가 빠졌다.
+
+[[각주]]
+
+=== [[스프린트]] ===
+==== 옵티머스 S (LS670) ====
+||<tablealign="center"> attachment:/LGOptimusS.jpg?width=380 ||
+|| [[http://www.lg.com/us/cell-phones/lg-LS670-Gray-gray-optimus-s 미국 LG전자 LG-LS670 공식 사이트]] ||
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S1 MSM7627 [[SoC]]. [[ARM(CPU)|ARM11]] 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[CDMA2000|CDMA & EV-DO Rev. A]], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 1500 mAh||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 2.2 (Froyo)[[br]][[LG UI]] 1.0 ||
+||규격||59 x 114 x 13 mm, 130 g ||
+||기타|| ||
+
+===== 상세 =====
+[[옵티머스 원]] [[CDMA]] 모델의 커스텀 모델이다.
+
+[[각주]]
+
+=== [[버라이즌]] ===
+==== LG Vortex (VS660) ====
+||<tablealign="center"> attachment:/LGVortex.jpg ||
+|| [[http://www.lg.com/us/cell-phones/lg-VS660-vortex 미국 LG전자 LG-VS660 공식 사이트]] ||
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] S1 MSM7627 [[SoC]]. [[ARM(CPU)|ARM11]] 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[CDMA2000|CDMA & EV-DO Rev. A]], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 1500 mAh||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 2.2 (Froyo)[[br]][[LG UI]] 1.0 ||
+||규격||59 x 113.5 x 13.3 mm, 124.8 g ||
+||기타|| ||
+
+===== 상세 =====
+[[옵티머스 원]] [[CDMA]] 모델의 커스텀 모델이다. [[LG전자]]의 브랜드 파워가 약한 관계로 [[LG 옵티머스|옵티머스 브랜드]]가 빠졌다.
+
+[[각주]]
+
+== [[일본]] ==
+=== [[NTT 도코모]] ===
+==== Optimus Chat L-04C ====
+||<tablealign="center"> http://www.beingmac.com/ebay/lg_docomo_foma_l-04c_pic_(7).jpg ||
+|| [http://m.lg.com/jp/mobile-phone/lg-L-04C 일본 LG전자 L-04C 공식 사이트] ||
+
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 MSM7227 [[SoC]]. [[ARM]]11 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 1 GB 내장 메모리[*A FAT32로 포맷된 사용자 공간이 없다.], micro SDHC (최대 32GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" QVGA](320 x 480) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 2.2 (Froyo)[[br]][[옵티머스 UI]] 1.0 ||
+||규격||58x 116x 15.3, 149 g ||
+||기타||슬라이드 쿼티 자판 탑재 ||
+
+===== 상세 =====
+일본 내수용으로 출시된 [[옵티머스 원]]의 슬라이드 쿼티 자판 파생 모델이다.

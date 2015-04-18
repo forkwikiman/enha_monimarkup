@@ -1,0 +1,52 @@
+[[메탈기어 솔리드 2]]의 확장판 서브스탠스에 추가된 모드로 [[솔리드 스네이크]]가 주인공인 외전.
+
+서브스탠스 광고 영상에는 마치 '라이덴이 진행하던 시간대에 스네이크는 뭘 했나'를 플레이할수 있는 것처럼 보여 기대를 모았으나 막상 뚜껑을 따 보니 오리지널 스토리 5개여서 한숨을 쉬게 했다. 이점은 메기솔3에서도 보이는 코지마 특유의 트레일러 낚시인듯.
+본편과는 여러가지 차이가 있는데,
+
+1. '''레이더 삭제'''(본편도 레이더 모드 옵션을 묻지만, 이 모드는 아예 레이더가 없는게 기본)  따라서 심박탐지기를 이용해 적병의 위치를 알아내야 된다.
+2. 난이도는 기본적으로 어렵다(본편의 하드 정도의 난이도인듯)  매 시나리오 시작마다 [[USP]] 한자루는 들고 시작하는데 탄환은 꼴랑 16발에 소음기는 없다.  대부분의 시나리오에서 탄환이 매우 부족하다.
+
+지형은 본편의 지형을 그대로 이용하되, 병사들의 배치등이 전혀 다르다.  5개의 짧은 시나리오를 즐기는것으로 각 편마다의 관련성은 없다.  단 스토리 도중에 본편의 캐릭터들의 다른 면을 볼수도 있다.
+
+다음은 각 시나리오의 소개
+
+---------------------
+
+1. A Wrongdoing
+-팻맨에 의해 장악된 플랜트에 스네이크가 잠입하여 인질을 구하고 팻맨과 결투하는 내용이다.  분량은 본편의 팻맨 편까지지만, 인질과 접촉하는 부분까지 있다.  본편에선 [wiki:"라이덴(메탈기어 시리즈)" 라이덴]이 병사 유니폼을 입고 잠입한곳에서 스네이크는 자신의 반려자 [[골판지 상자]]만 믿고 돌아다녀야 된다(...)만 밑의 유저 같은 경우는 그냥 쌩까고 진행했다.  참고로 저 접촉하는 인질 위치는 랜덤.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/2TuorTNY_Qc&hl=en"></param><embed src="http://www.youtube.com/v/2TuorTNY_Qc&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+}}}
+
+2. Big Shell Evil
+-러시아 테러리스트들에 의해 빅 쉘이 점거되고, [[오타콘]]의 부탁을 받은 스네이크가 [[에마 에머리히]]를 구하고 테러리스트 대장의 해리어와 대결하게 된다.  다른것보다 마의 E동 전투로 유명한데, 에마를 엄호하면서 경보 모드상태의 적들을 쓰러뜨려가며 도망쳐야된다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/8AzB839hmfs&hl=en"></param><embed src="http://www.youtube.com/v/8AzB839hmfs&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+}}}
+
+3. Confidential Legacy
+-유일하게 탱커편이 무대로 일단은 [[메탈기어 솔리드]]의 메릴 엔딩 이후를 그리고 있다.  어느날 메릴이 스네이크를 떠나게되고, 캠벨의 부탁으로 스네이크는 탱커로 잠입해 러시아 테러리스트와 대치하게 되는데, 그 중에는 메릴이 있었다... 메릴은 본편의 [[올가 글루코비치]]와 동일하지만 폴리곤만 다르다.  이땐 스네이크의 복장이 MGS 1때의 복장으로 등장한다.  막판에 메릴을 죽이느냐, 기절시키느냐에 따라 엔딩이 달라진다.  
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/_u5gcbNCJiM&hl=en"></param><embed src="http://www.youtube.com/v/_u5gcbNCJiM&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+}}}
+
+4. Dead Man Whisper
+-[[뱀프]]가 이끄는 테러리스트 집단이 빅 쉘을 점거하게 되어 델타 포스와 함께 잠입한 스네이크가 뱀프와 싸우게 되는 이야기.  뱀프는 억울하게 죽은 데드 셀의 대장의 복수를 하기위해 이번 테러를 꾸민것이었다.  복장은 본편의 플리스킨 버젼이다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/8kfeJhNF4dI&hl=en"></param><embed src="http://www.youtube.com/v/8kfeJhNF4dI&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+}}}
+
+5. External Gazer
+-최강의 막장 시나리오(...) VR 미션을 하다가 다른 평행세계와 연결된 스네이크는 올가의 도움으로 [[솔리더스 스네이크]]를 막기위해 싸우는데...어떻게 된게 시나리오의 80% 정도가 VR 미션이다(...)  거기다가 시나리오 상 라이덴으로 플레이도 해야돼서 어쩐지 성의없단 느낌.  마지막엔 스네이크 혼자 텡구병들과 [[메탈기어 레이]]에 이어 '''맨손으로''' 솔리더스를 상대해야된다.
+
+참고로 여기서 등장한 솔리더스의 아내는 [[메이 링]](...) 그리고 올가의 남편은 스네이크인것 같다(...)
+거기다 '어째서인지 총알이 맞지않는 행운의 여인'과 '백덤블링을 실패하는 게 특기인 노인'[* 이쪽은 잘 모르는 사람이 많지만 메탈기어1,2 그리고 메기솔4에 등장하시는 그분.]이 오타콘에게 면접을 보러온다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/fPq4dO9jIdw&hl=ko&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fPq4dO9jIdw&hl=ko&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/0YsCIbtqGf0&hl=ko&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0YsCIbtqGf0&hl=ko&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}

@@ -1,0 +1,128 @@
+||||||||||||<#DCDCDC><table align=center> '''[[초차원게임 넵튠 시리즈]]''' ||
+||||||||||||<#DCDCDC><table align=center> '''번외편''' ||
+||<table align=center> '''신차원아이돌 넵튠 PP''' ||
+||<table align=center> [[초여신신앙 느와르 격신블랙하트]] ||
+||<table align=center> [[초차원액션 넵튠 U]] ||
+
+attachment:"신차원아이돌 넵튠 PP/pplogo.jpg"?width=600&align=center
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_v0ad1LmJiYFJminvYYmvcsY' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=v0ad1LmJiYFJminvYYmvcsY&playLoc=undefined&alert=true' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=v0ad1LmJiYFJminvYYmvcsY&playLoc=undefined&alert=true'></embed></object>
+}}}
+ * OP 테마 : NEXT STAGE! - 아필리아 사가(アフィリア・サーガ)
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_vfda79xxJnpnnnnaQZJJQa3' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=vfda79xxJnpnnnnaQZJJQa3&playLoc=undefined&alert=true' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=vfda79xxJnpnnnnaQZJJQa3&playLoc=undefined&alert=true'></embed></object>
+}}}
+ * ED 테마 : 퍼펙트☆퀘스트(パーフェクト☆クエスト) - [[아야네(가수)|아야네(彩音)]]
+ * 오프닝, 엔딩 앨범에 대한 자세한 정보를 알고싶다면 [초차원게임 넵튠 시리즈/관련 앨범] 항목 참조
+
+||<-3><:><tablewidth=320px><tablealign=right><tablealign=right><#F361A6> '''{{{#white 神次元アイドル ネプテューヌＰＰ'''}}} ||
+||<-3><:><tablealign=right><#F361A6> '''{{{#white 신차원아이돌 넵튠 PP'''}}} ||
+||<-3><:> http://img1.wikia.nocookie.net/__cb20130925013728/neptunia/images/e/ec/NepPPArt.png?width=320 ||
+||<-3><#DCDCDC> 개발 ||
+||<-3><:> [[탐 소프트]] ||
+||<-3><:> [[컴파일 하트]] ||
+||<-3><#DCDCDC> 발매 / 유통 ||
+|| 일본 ||<-2><:> [[아이디어 팩토리]] ||
+|| 한국 ||<-2><:> [[CFK]] ||
+|| 북미 ||<-2><:> [[닛폰이치 소프트웨어|NISA]] ||
+||<-3><#DCDCDC> 등급 ||
+|| 일본 ||<-2><#0066FF><:>[[wiki:"CERO"<span style="color:white">CERO C (15세 이용가)]] ||
+|| 한국 ||<-2><#FF9900> {{{#ffffff 15세 이용가}}}[* 여담으로 넵튠 시리즈 사상 최초로 15세 이용가 판정을 받은 작품이다(...).] ||
+||<:>북미 ||<#0066FF><:>[[ESRB|<span style="color:white"> ESRB]] {{{#white T}}}||
+||<-3><#DCDCDC> 장르 ||
+||<-2><:>[[연애 어드벤처 게임|네푸네푸 ADV]] ||
+||<-3><#DCDCDC> 플랫폼 ||
+||<-2><:>[[PS Vita]] ||
+||<-3><#DCDCDC> 발매 ||
+|| 일본 ||<-2><:> [[2013년]] [[6월 20일]] ||
+|| 한국 ||<-2><:> [[2014년]] [[6월 12일]] ||
+|| 북미 ||<-2><:> [[2014년]] [[6월 3일]] ||
+||<-3><#DCDCDC> 시리즈 ||
+||<-2><:>[[초차원게임 넵튠 시리즈]] ||
+||<-3><#DCDCDC> [http://www.compileheart.com/neptune/pp/  공식 홈페이지] ||
+
+[[목차]]
+神次元アイドル ネプテューヌＰＰ
+신차원아이돌 넵튠 PP
+Hyperdimension Neptunia: Producing Perfection[* 북미/유럽판 제목]
+= 개요 =
+[[2013년]] [[6월 20일]]에 [PS Vita]로 발매된 [초차원게임 넵튠 시리즈]의 번외작품.
+패러럴 월드지만,전국 바사라 시리즈 처럼 '비슷한 일이 발생했었다.'라는 방식으로 간접적으로 나마 세계관을 이어주던 본가 시리즈와 달리,제작진이 패러럴 월드..즉 세계관은 이어지지 않는 외전이라고 공인했다.[* 모든 여신들이 [[신차원게임 넵튠 V]]의 복장이며, 도시도 신차원쪽의 모습을 하고 있지만 여신 후보생들이 존재하며, [[이스투아르]] 역시 신차원의 어린 이스투아르이다. 그 외에도 뜯어보면 세세한 차이점이 존재.]
+
+각 국가의 국민들이 아이돌 붐에 의해 [wiki:"AKB48" MOB48]이라는 아이돌 그룹에 빠져 쉐어(신앙)이 줄어들자,4명의 여신들이 그 아이돌 붐에 편승해 아이돌이 되어 MOB48을 누르고 쉐어를 다시 얻기 위해 [wiki:"아이돌 마스터" 이세계]의 문을 열어 [[프로듀서]]를 [[소환]], 그의 도움으로 쉐어를 다시 얻는 것을 목표로 한다는 내용. ~~[wiki:"디오 브란도" 난 여신을 그만두겠다!][wiki:"이스투아르" 잇승!] [wiki:"메가톤맨" 아이돌이 되었단 말이다!]~~
+
+아이돌 마스터의 영향을 받은 작품으로, 주인공에 해당되는 프로듀서가 등장하며, 플레이어는 이 프로듀서로서 4여신을 톱 아이돌로 만들어야 한다는게 본작의 주 목표. 아이마스의 영향을 받았기에 연애요소도 등장한다.
+
+그리고 우리의 [[CFK]]는 이번에도 우리의 기대를 배신하지 않고 [http://ruliweb.daum.net/news/view/52777.daum 한글화 정식 발매를 결정하였다.]
+6월 12일 정식 발매일자가 결정되었다. 한정판은 5월 30일 3시부터. [http://ruliweb.daum.net/news/view/62225.daum 한정판 구성품으로 인해 다키마쿠라나 비타를 사면 딸려오는 게임이 돼버렸다.] ~~심지어 비타가 1000번대다~~
+
+쿠소게이지만 ~~팬심덕분에~~ 한정판은 대부분 매진되었다. 단 이걸로 입문하는건 모두가 비추천해서 그런지 비타가 들어있는 한정판은 남아돈다(...). 2015년 3월 기준, 게임가격과 비슷하거나 보다 낮은 가격에 게임을 제외한 한정판 구성품만 따로 파는 곳도 출현하고 있다(...).또한 한정판의 특전인 드라마cd의 평가는 좋다.
+
+= 시놉시스 =
+여기는 게임업계
+여신들의 힘으로 평화를 유지하는 세계
+
+여신들은 평화로움을 만끽하며
+매일 게임을 하면서 즐겁게 지내고 있었다.
+
+그러던 중
+'''「게임업계에 갑작스런 파란의 돌풍」'''
+
+'''갑작스레 일어난 아이돌 붐으로'''
+'''여신들의 힘의 근원이 되는 신앙(쉐어)이'''
+'''사라져 버린 것이었다.'''
+
+사태가 심각하다고 느낀 여신들은
+긴급 회의를 시작하는데……
+
+= 등장인물 =
+== 메인 캐릭터 ==
+ * 주인공 (프로듀서)
+ 말 그대로 주인공이자 플레이어의 분신, 디폴트 네임은 딱히 없으나 이름을 지을 때 주인공(シュジンコウ)이라는 이름이 먼저 젹혀있긴 하다. 학생이며 게임폐인, 방학을 맞이하여 만만의 준비를 갖추고 신작 게임에 몰두하려다가 여신들에게 프로듀서로써 소환된다.[* 특이점이 있다면 소환되었을 때 고른 여신의 위로 떨어진다.~~[wiki:"느와르(초차원게임 넵튠)" 느와르]의 역할이 다른 여신들에게도 전염되었다~~][* 사실 이 주인공이 소환된 세계가 바로 본작의 세계관이다. 느와르 트루엔딩에서 돌아온뒤, 소환되기전에 켰던 게임을 고르는데, 바로 그 게임 이름이 '신차원아이돌 넵튠 PP'이었던것.]
+ * [wiki:"넵튠(초차원게임 넵튠)" 넵튠]
+ * [wiki:"느와르(초차원게임 넵튠)" 느와르]
+ * [wiki:"블랑(초차원게임 넵튠)" 블랑]
+ * [wiki:"벨(초차원게임 넵튠)" 벨]
+
+== 서브 캐릭터 ==
+ * [[네프기어]]
+ * [wiki:"유니(초차원게임 넵튠 MK2)" 유니]
+ * [[롬 & 람]]
+ * [[아이에프]]
+ * [[컴파]]
+ * 힐짱
+ 벨 루트에서만 등장하는 힐 슬라이누로 안그래도 여동생이 고팠던 벨은 힐짱이라고 이름을 지은뒤 거두게 된다.
+
+= 평가 =
+결론부터 말하자면 '''[[wiki:"Big Rigs : Over the Road Racing" 이 게임에서 제대로 완성된 부분이라곤 사실상 없다.]]'''
+--[wiki:"서드파티" 그래도 '''기술, 신뢰성, 오락적 가치'''에 있어서는 소니의 엄격한 평가기준을 채운 게임이다.]--
+'''본격 신앙심 테스트 게임'''
+'''빅 똥'''
+~~얼마나 문제가 많냐면 다른 항목들보다 이 항목이 압도적으로 길다.~~
+
+아이돌 마스터를 표방한 본격 아이돌 육성 게임이면서 미니 게임 같이 '''부가적으로 즐길 수 있는 게임 요소가 전무'''하고, '''중요 이벤트를 달랑 텍스트 몇 줄로만 때우는 무성의의 극치'''를 보여주고, 이 게임의 '''핵심 파트이면서도 가장 지루한 파트'''라는 아이러니함을 보여주는 '''라이브 컨텐츠의 수록곡 수가 5곡 뿐[* 그마저도 4곡은 [wiki:"초차원게임%20넵튠%20시리즈/관련%20앨범#s-4.2" 수호여신 곡들] 어레인지 재탕이므로 완전신곡은 미라인피니티 1곡뿐이다.]'''이 안 되는, 그야말로 '''즐길거리도 별로 없는데 그마저도 너무 재미가 없는''' 게임의 표본을 보여준다.
+
+왜 재미가 없냐면 보통 처음 라이브 컨텐츠를 접한 사람들은 음악이 나오면서 캐릭터가 춤을 추니 마치 [[프로젝트 디바 시리즈]]랑 비슷하여 이게 리듬 게임이라고 착각할 수 있는데, [[wiki:"페이크다 이 병신들아" 사실 카메라를 이리저리 돌리면서 무대에 꽃가루 뿌려주는게 전부다.]] [http://youtu.be/YPYAqveGUWc?t=4m22s 플레이 영상] --리듬 게임이 아니라 그냥 [[뮤직뱅크]]--
+
+장르가 텍스트 어드벤쳐가 아닌데도 불구하고 캐릭터들간의 영양가 없는 대화가 게임 전체의 2/3 이상을 차지하는 이 게임에서 그나마 게임다운 모습을 보여주는 부분이 바로 이 라이브 컨텐츠 파트인데도 심각할 정도로 재미가 없다보니 '''대체 제작사가 이 게임을 만든 의도가 무엇인지''' 플레이어로 하여금 근본적인 문제까지 생각하게 만든다.
+
+심지어 컨텐츠뿐만 아니라 전체적인 게임 볼륨도 가격에 걸맞지 않게 턱없이 적어서 '''약 3시간 정도에 1회차 엔딩'''을 볼 수 있는 등 '''전형적인 팬심을 악용한 [[쓰레기 게임]]'''. 사실 실제작사부터가 [[SIMPLE 시리즈]]에 주로 게임을 납품한 적이 있는 TAMSOFT였으니 예고된 수순이었는지도 모른다.
+
+본인이 넵튠을 하는건지 아니면 아이돌 마스터를 하는건지 아니면 드림클럽을 하는건지 도저히 장르를 종집을 수 없는 '''난잡함'''과 그마저도 제대로 만들어진 부분이 없어 대체 이 게임의 어디에서 재미를 느껴야 되는지 게임을 하는 사람도 도저히 모르는 '''혼란감'''과 분명 정가로 52,000원(일본판 약 6,300엔) 주고 샀는데 무료 모바일 게임마냥 맛보기 식의 부족한 컨텐츠로 '''좌절감'''을 한 데 느낄 수 있다.
+
+사실 게임 하다보면 아이돌 육성 게임이라기보단 그냥 선택지만 고르는 유사 미연시 게임 같다고 느껴진다. --제작사도 자기들이 뭘 만들었는지 모를거 같다--
+
+일본 아마존에서 이 게임의 한줄 평을 빌리자면, '''"레슨과 미니 게임이 없는 [[아이돌 마스터]]와, 주문할 수 없는 [[드림 클럽]]을 더한 게임"'''. 
+
+--[[CFK]] 본인들도 안 팔릴 것을 직감했는지 [[다키마쿠라]]로 초강수를 둔 탓에-- 넵튠 매니아가 한정판을 소장 용도로 사는거라면 나쁘지 않으나 순수히 게임을 즐기는 용도로나 첫 넵튠 시리즈를 이걸로 접하는 경우라면 극구 말리고 싶을 정도다. 게임으로서 평가해야 할 만한 부분이라곤 전혀 보이지 않아 신앙심이고 뭐고를 떠나 게임 자체로만 본다면 [[KOTY]] 후보에 들어가도 전혀 아깝지 않다. --미래를 위한 신자들의 눈물나는 투자--
+
+IGN에서는 유일한 장점이라고는 "팬서비스 게임"이라는 --[[단호박]]-- 평가와 함께 10점 만점에 '''4점'''을 때렸다. [http://www.ign.com/articles/2014/05/23/hyperdimension-neptunia-producing-perfection-review 전문] --참고로 [[빅릭스]]가 2.5점이다--
+
+[[루리웹]]에서 전문 리뷰도 올라와있으니 관심 있으신 분은 참고하길. 위키 평가랑 크게 다르지 않다. [http://bbs1.ruliweb.daum.net/gaia/do/ruliweb/default/news/547/read?articleId=1238&bbsId=G007&pageIndex=1 링크]
+
+= 기타 =
+[[wiki:"아이돌 마스터" 모 아이돌 육성게임]]을 표방하고 있지만 렛슨에는 미니게임이 없고 하루에 한 가지 일만 가능하며 캐릭터 공략이 가능하고 노래의 수가 적다.
+게임의 한 시리즈보다는 [[팬디스크]]속성이 강하다. 공식 장르명은 네푸네푸 [[ADV]]이지만 연애 ADV이다. 주의하자.
+
+[[샤다라빠]]가 《제멋대로 성남빠》([http://sports.news.nate.com/view/20140519n22929?mid=s1004&isq=3499 2014년 5월 19일자])에서 성남빠들이 신나할 뉴스로 이 게임을 언급했는데, 그 결과는 [wiki:"샤다라빠의 저주" 위에 언급한 대로…….]

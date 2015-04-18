@@ -1,0 +1,28 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable 3]] ||
+|| 작곡 및 편곡 || Cistrans (RoseLine) ||
+|| 작사 || Todd Durrant ||
+|| 보컬 || 김민정 ||
+|| 비주얼 || Madum ||
+|| 장르 || Synth Pop ||
+|| BPM || 128 ||
+
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/enQbNNkGsEs?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/enQbNNkGsEs?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+(BGA)
+
+DJMax Portable 3에 새롭게 수록된 라이센스 곡.
+국내 클럽씬에서 활발하게 활동해온 로즈라인의 싱글 <미소>에 수록된 동명의 곡을 라이센스한 것으로, 제목만은 영문판 싱글 인 <Your Smile>, 그것도 동명의 곡에서 따왔다. 이 때문에 '미소'가 수록되었긴 하지만 표기만은 'Your smile'임에 유의
+
+보컬은 [[Waiting for the Sun]]과 동일하게 김민정이 피처링하였다.
+
+== 게임 플레이 ==
+
+{{{#!html
+<iframe width="560" height="349" src="http://www.youtube.com/embed/3bN3Vq23ik0" frameborder="0" allowfullscreen></iframe>
+}}}
+6T NM
+
+[[추가바람]]

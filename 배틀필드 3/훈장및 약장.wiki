@@ -1,0 +1,386 @@
+[[목차]]
+
+상위항목 : [배틀필드 3]
+
+== 개요 ==
+배틀 필드 3에 등장하는 두 개의 보너스 시스템 중 하나이다. 차량 종류, 무기 종류, 팀워크의 성공, 전투 효율 성공이나 게임 형식으로 자신의 요구 사항을 충족에 여러 번 부여하고있다.배틀필드 3에 등장하는 메달은 리본의 특정 숫자, 무기 특정 킬을 적립, 또는 시간 요구 사항을 만족 수여된다.
+
+=== 약장 ===
+
+==== 돌격소총 약장 ====
+한 라운드에서 돌격소총으로 적 7명 사살
+http://img2.wikia.nocookie.net/__cb20111128192706/battlefield/images/7/7f/Assault_Rifle_Ribbon.png
+==== 경기관총 약장 ====
+한 라운드에서 경기관총으로 적 7명 사살
+http://img4.wikia.nocookie.net/__cb20111128192812/battlefield/images/6/67/Light_Machine_Gun_Ribbon.png
+==== 카빈 약장 ====
+한 라운드에서 카빈으로 적 7명 사살
+http://img2.wikia.nocookie.net/__cb20111128192706/battlefield/images/b/bb/Carbine_Ribbon.png
+==== 저격소총 약장 ====
+한 라운드에서 저격소총으로 적 7명 사살
+http://img4.wikia.nocookie.net/__cb20111128193020/battlefield/images/8/84/Sniper_Rifle_Ribbon.png
+==== PDW 약장 ====
+한 라운드에서 개인방어무기로 적 7명 사살
+http://img4.wikia.nocookie.net/__cb20111128192919/battlefield/images/1/1e/PDW_Ribbon.png
+==== 샷건 약장 ====
+한 라운드에서 샷건으로 적 7명 사살
+http://img3.wikia.nocookie.net/__cb20111128193018/battlefield/images/a/a2/Shotgun_Ribbon.png
+==== 권총 약장 ====
+한 라운드에서 권총으로 적 4명 사살
+http://img2.wikia.nocookie.net/__cb20111128192812/battlefield/images/d/d0/Handgun_Ribbon.png
+==== 백병전 약장 ====
+한 라운드에서 백병전으로 적 4명 사살
+http://img4.wikia.nocookie.net/__cb20111128192918/battlefield/images/a/ab/Melee_Ribbon.png
+==== 차량 파괴 약장 ====
+한 라운드에서 적 차량 3대 파괴
+http://img1.wikia.nocookie.net/__cb20111128192705/battlefield/images/e/e1/Anti_Vehicle_Ribbon.png
+==== 차량 무력화 약장 ====
+한 라운드에서 적 차량 4대 무력화
+http://img2.wikia.nocookie.net/__cb20111128192810/battlefield/images/2/22/Disable_Vehicle_Ribbon.png
+==== 명중률 약장 ====
+한 라운드에서 헤드샷 5번 기록
+http://img4.wikia.nocookie.net/__cb20111128192704/battlefield/images/2/29/Accuracy_Ribbon.png
+==== 보복 약장 ====
+한 라운드에서 보복 3번 기록
+http://img1.wikia.nocookie.net/__cb20111128192706/battlefield/images/9/98/Avenger_Ribbon.png
+==== 구원 약장 ====
+한 라운드에서 구원 2번 기록
+http://img3.wikia.nocookie.net/__cb20111128193018/battlefield/images/b/bc/Savior_Ribbon.png
+==== 숙적 약장 ====
+한 라운드에서 숙적 2번 기록
+http://img1.wikia.nocookie.net/__cb20111128192919/battlefield/images/3/3d/Nemesis_Ribbon.png
+
+==== 보급 능률 약장 ====
+한 라운드에서 7번 보급
+http://img1.wikia.nocookie.net/__cb20111128192919/battlefield/images/0/09/Resupply_Efficiency_Ribbon.png
+
+==== 감시 능률 약장 ====
+한 라운드에서 5번 동작감지기 도움
+http://img3.wikia.nocookie.net/__cb20111128193058/battlefield/images/8/8e/Surveillance_Efficiency_Ribbon.png
+
+==== 의료 능률 약장 ====
+한 라운드에서 5번 소생
+http://img3.wikia.nocookie.net/__cb20111128192918/battlefield/images/1/1f/Medical_Efficiency_Ribbon.png
+
+==== 유지 보수 약장 ====
+한 라운드에서 7번 수리
+http://img3.wikia.nocookie.net/__cb20111128192812/battlefield/images/5/56/Maintainence_Efficiency_Ribbon.png
+==== 깃발 공격 약장 ====
+한 라운드에서 깃발 4회 점령http://img2.wikia.nocookie.net/__cb20111128192810/battlefield/images/0/05/Flag_Attacker_Ribbon.png
+
+==== 깃발 방어 약장 ====
+한 라운드에서 깃발 5회 방어http://img3.wikia.nocookie.net/__cb20111128192811/battlefield/images/1/16/Flag_Defender_Ribbon.png
+
+==== M-COM 공격 약장 ====
+한 라운드에서 M-COM 스테이션 4기 파괴
+http://img4.wikia.nocookie.net/__cb20111128192814/battlefield/images/7/7f/M-COM_Attacker_Ribbon.png
+
+==== M-COM 방어 약장 ====
+한 라운드에서 M-COM 스테이션 2기 방어
+http://img1.wikia.nocookie.net/__cb20111128192815/battlefield/images/7/73/M-COM_Defender_Ribbon.png
+
+==== 전투 능률 약장 ====
+한 라운드에서 연속사살 보너스 3번 획득
+http://img2.wikia.nocookie.net/__cb20111128192707/battlefield/images/d/df/Combat_Efficiency_Ribbon.png
+
+==== MVP 약장 ====
+한 라운드에서 최우수 플레이어 달성
+http://img2.wikia.nocookie.net/__cb20111128192918/battlefield/images/b/b0/MVP_Ribbon.png
+
+==== MVP 2위 약장 ====
+한 라운드에서 2번째 최우수 플레이어 달성
+http://img4.wikia.nocookie.net/__cb20111128192918/battlefield/images/b/be/MVP_2_Ribbon.png
+
+==== MVP 3위 약장 ====
+한 라운드에서 3번째 최우수 플레이어 달성
+http://img2.wikia.nocookie.net/__cb20111128192918/battlefield/images/1/17/MVP_3_Ribbon.png
+
+==== 공중전 약장 ====
+한 라운드에서 항공기로 적5명 사살
+http://img1.wikia.nocookie.net/__cb20111128192705/battlefield/images/f/fc/Air_Warfare_Ribbon.png
+
+==== 고정장비 약장 ====
+한 라운드에서 고정장비로 적2명 사살
+http://img3.wikia.nocookie.net/__cb20111128193022/battlefield/images/e/e6/Stationary_Emplacement_Ribbon.png
+
+==== 기갑전 약장 ====
+한 라운드에서 지상 차량으로 적7명 사살
+http://img2.wikia.nocookie.net/__cb20111128192706/battlefield/images/d/d1/Armored_Warfare_Ribbon.png
+
+==== 수송전 약장 ====
+한 라운드에서 운송수단으로 적4명 사살
+http://img2.wikia.nocookie.net/__cb20111128193059/battlefield/images/8/82/Transport_Warfare_Ribbon.png
+
+==== 폭발물 처리 약장 ====
+한 라운드에서 적 폭발물 3개 처리
+http://img1.wikia.nocookie.net/__cb20111128192705/battlefield/images/3/32/Anti_Explosives_Ribbon.png
+--C4카를 처리하면 한두개 나온다--
+==== 분대원 부활 약장 ====
+한 라운드에서 분대원 부활 보너스7회 획득
+http://img1.wikia.nocookie.net/__cb20111128193022/battlefield/images/d/d3/Squad_Spawn_Ribbon.png
+
+==== 최우수 분대 약장 ====
+한 라운드에서 최우수 분대의 일원이 됨
+http://img2.wikia.nocookie.net/__cb20111128192704/battlefield/images/9/9e/Ace_Squad_Ribbon.png
+
+==== 분대 격파 약장 ====
+한 라운드에서 분대 격파 보너스2회 획득
+http://img2.wikia.nocookie.net/__cb20111128193022/battlefield/images/8/84/Squad_Wipe_Ribbon.png
+
+==== 컨퀘스트 약장 ====
+컨퀘스트 라운드 완수
+http://img2.wikia.nocookie.net/__cb20111128192809/battlefield/images/d/d8/Conquest_Ribbon.png
+
+==== 컨퀘스트 승리 약장 ====
+컨퀘스트 라운드 승리
+http://img4.wikia.nocookie.net/__cb20111128192810/battlefield/images/4/4c/Conquest_Winner_Ribbon.png
+
+
+==== 러시 약장 ====
+러시 라운드 완수
+http://img3.wikia.nocookie.net/__cb20111128192919/battlefield/images/6/65/Rush_Ribbon.png
+
+==== 러시 승리 약장 ====
+러시 라운드 승리
+http://img4.wikia.nocookie.net/__cb20111128192920/battlefield/images/a/ad/Rush_Winner_Ribbon.png
+
+==== 팀 데스매치 약장 ====
+팀 데스매치 라운드 완수
+http://img2.wikia.nocookie.net/__cb20111128193059/battlefield/images/6/69/Team_Deathmatch_Ribbon.png
+
+==== 팀 데스매치 승리 약장 ====
+팀 데스매치 라운드 승리
+http://img1.wikia.nocookie.net/__cb20111128193059/battlefield/images/d/d8/TDM_Winner.png
+
+==== 팀 데스매치 근접전 약장 ====
+팀 데스매치 근접전 라운드를 끝냅니다
+http://img4.wikia.nocookie.net/__cb20130609082235/battlefield/images/a/ad/Tdmcq-round-ribbon.png
+
+==== 팀 데스매치 근접전 약장 ====
+팀 데스매치 근접전 라운드 승리합니다
+http://img4.wikia.nocookie.net/__cb20130609082256/battlefield/images/1/16/Tdmcq-winner-ribbon.png
+==== 분대 데스매치 약장 ====
+분대 데스매치 라운드 완수
+http://img4.wikia.nocookie.net/__cb20111128193020/battlefield/images/5/52/Squad_Deathmatch_Ribbon.png
+
+==== 분대 데스매치 승리 약장 ====
+분대 데스매치 승리
+http://img1.wikia.nocookie.net/__cb20111128193020/battlefield/images/d/de/Squad_Deathmatch_Winner.png
+
+==== 분대 러시 약장 ====
+분대 러시 라운드 완수
+http://img3.wikia.nocookie.net/__cb20111128193021/battlefield/images/1/1c/Squad_Rush_Ribbon.png
+
+==== 분대 러시 승리 약장 ====
+분대 러시 라운드 승리
+http://img2.wikia.nocookie.net/__cb20111128193021/battlefield/images/c/cd/Squad_Rush_Winner.png
+
+==== 기갑 전면전 약장 ====
+기갑 전면전 라운드 하나를 끝냅니다
+http://img3.wikia.nocookie.net/__cb20130609081732/battlefield/images/d/d4/Tanksuperiorityribbon.png
+
+==== 기갑 전면전 승리 약장 ====
+기갑 전면전 라운드 승리
+http://img4.wikia.nocookie.net/__cb20130609080953/battlefield/images/6/65/Tanksuperiority2d.png
+
+==== 스캐빈저 약장 ====
+스캐빈저 라운드 하나를 끝냅니다
+http://img1.wikia.nocookie.net/__cb20130609081227/battlefield/images/4/42/Scavengerribbon.png
+
+==== 스캐빈저 약장 ====
+스캐빈저 라운드 하나를 승리합니다
+http://img4.wikia.nocookie.net/__cb20121208054339/battlefield/images/0/0c/Scavenger_ribbon.png
+
+==== 도미네이션 약장 ====
+도미네이션 라운드 하나를 끝냅니다
+http://img1.wikia.nocookie.net/__cb20130609081207/battlefield/images/2/2b/Conquest_dominationribbon.png
+
+==== 도미네이션 승리 약장 ====
+도미네이션 라운드 승리
+http://img2.wikia.nocookie.net/__cb20130609080615/battlefield/images/f/f5/Conquest_domination2d.png
+
+==== 건 마스터 약장 ====
+건 마스터 라운드 하나를 끝냅니다
+http://img2.wikia.nocookie.net/__cb20130609081710/battlefield/images/2/27/Gmribbon.png
+
+==== 건 마스터 승리 약장 ====
+건 마스터 라운드 5위 이상
+http://img3.wikia.nocookie.net/__cb20130609080742/battlefield/images/a/a7/Gunmaster2d.png
+
+==== 깃발 쟁탈 약장 ====
+깃발 쟁탈 라운드 하나를 끝냅니다
+http://img4.wikia.nocookie.net/__cb20130302184925/battlefield/images/9/9c/BF3_Capture_the_Flag_Ribbon.png
+
+==== 깃발 쟁탈 승리 약장 ====
+깃발 쟁탈 한 라운드를 승리
+http://img1.wikia.nocookie.net/__cb20130302185008/battlefield/images/4/45/BF3_Capture_the_Flag_Winner_Ribbon.png
+
+==== 제공권 약장 ====
+제공권 라운드 하나를 끝냅니다
+http://img3.wikia.nocookie.net/__cb20130302184944/battlefield/images/d/d2/BF3_Air_Superiority_Ribbon.png
+
+==== 제공권 약장 ====
+제공권 한 라운드를 승리합니다
+http://img2.wikia.nocookie.net/__cb20130302185022/battlefield/images/0/0f/BF3_Air_Superiority_Winner_Ribbon.png
+=== 메달 ===
+
+==== 미 해병대 공로 훈장 ====
+미 해병대에서 100시간 복무
+http://img2.wikia.nocookie.net/__cb20140210012001/battlefield/images/9/9d/US_Marines_Service_Medal.png
+
+==== 러시아 군 공로 훈장 ====
+러시아군 에서 100시간 복무
+http://img4.wikia.nocookie.net/__cb20140210012006/battlefield/images/2/2e/RU_Army_Service_Medal.png
+
+==== 돌격소총 훈장 ====
+돌격소총 약장 50개 획득
+http://img1.wikia.nocookie.net/__cb20140210012634/battlefield/images/e/ed/BF3_Assault_Rifle_Medal.png
+
+==== 경기관총 훈장 ====
+경기관총 약장 50개 획득
+http://img1.wikia.nocookie.net/__cb20140210012717/battlefield/images/0/07/BF3_Light_Machine_Gun_Medal.png
+
+
+==== 카빈 훈장 ====
+카빈 약장 50개 획득
+http://img1.wikia.nocookie.net/__cb20140210012748/battlefield/images/c/c3/BF3_Carbine_Medal.png
+
+==== 저격소총 훈장 ====
+저격소총 약장 50개 획득
+http://img1.wikia.nocookie.net/__cb20140210012839/battlefield/images/e/e2/BF3_Sniper_Rifle_Medal.png
+
+==== 샷건 훈장 ====
+샷건 약장 50개 획득
+http://img2.wikia.nocookie.net/__cb20140210012939/battlefield/images/8/8d/BF3_Shotgun_Medal.png
+
+==== PDW 훈장 ====
+PDW 약장 30개 획득
+http://img2.wikia.nocookie.net/__cb20140210013033/battlefield/images/6/67/BF3_PDW_Medal.png
+
+==== 백병전 훈장 ====
+백병전 약장 20개 획득
+http://img3.wikia.nocookie.net/__cb20140210013110/battlefield/images/c/c9/BF3_Melee_Medal.png
+
+==== 전투 능률 훈장 ====
+전투 능률 약장 30개 획득
+http://img4.wikia.nocookie.net/__cb20140210013248/battlefield/images/4/4b/BF3_Combat_Efficency_Medal.png
+
+==== 보복 훈장 ====
+보복 약장 50개 획득
+http://img3.wikia.nocookie.net/__cb20140210013346/battlefield/images/c/c7/BF3_Avenger_Medal.png
+
+==== 명중률 훈장 ====
+명중률 약장 50개 획득
+http://img1.wikia.nocookie.net/__cb20140210013742/battlefield/images/9/97/BF3_Accuracy_Medal.png
+
+==== 구원 훈장 ====
+구원 약장 50개 획득
+http://img2.wikia.nocookie.net/__cb20140210013552/battlefield/images/b/bf/BF3_Savior_Medal.png
+
+==== 숙적 훈장 ====
+숙적 약장 50개 획득
+http://img1.wikia.nocookie.net/__cb20140210013518/battlefield/images/5/53/BF3_Nemesis_Medal.png
+
+==== 제압 훈장 ====
+제압 약장 50개 획득
+http://img3.wikia.nocookie.net/__cb20140210013707/battlefield/images/7/77/BF3_Suppresion_Medal.png
+
+==== 의료 훈장 ====
+의료 약장 50개 획득
+http://img2.wikia.nocookie.net/__cb20140210014455/battlefield/images/8/83/BF3_Medical_Medal.png
+
+==== 정비 공훈 훈장 ====
+정비 약장 50개 획득
+http://img4.wikia.nocookie.net/__cb20140210014535/battlefield/images/d/d1/BF3_Maintenance_Medal.png
+
+==== 보급 훈장 ====
+보급 약장 50개 획득
+http://img2.wikia.nocookie.net/__cb20140210014608/battlefield/images/4/4a/BF3_Resupply_Medal.png
+
+==== 감시 훈장 ====
+감시 약장 30개 획득
+http://img1.wikia.nocookie.net/__cb20140210014635/battlefield/images/0/0c/BF3_Surveillance_Medal.png
+
+==== 돌격병 공로 훈장 ====
+돌격병으로 50시간 복무
+http://img2.wikia.nocookie.net/__cb20140210014241/battlefield/images/c/c0/BF3_Assault_Service_Medal.png
+
+==== 공병 공로 훈장 ====
+공병으로 50시간 복무
+http://img3.wikia.nocookie.net/__cb20140210014316/battlefield/images/6/62/BF3_Engineer_Service_Medal.png
+
+==== 보급병 공로 훈장 ====
+보급병으로 50시간 복무
+http://img4.wikia.nocookie.net/__cb20140210014344/battlefield/images/8/86/BF3_Support_Service_Medal.png
+
+==== 정찰병 공로 훈장 ====
+정찰병으로 50시간 복무
+http://img1.wikia.nocookie.net/__cb20140210014407/battlefield/images/7/7d/BF3_Recon_Service_Medal.png
+
+==== 최정예 분대 훈장 ====
+최정예 분대 약장 50개 획득
+http://img3.wikia.nocookie.net/__cb20140210015732/battlefield/images/e/e9/BF3_Ace_Squad_Medal.png
+
+==== MVP 1위 훈장 ====
+MVP 1위 약장 30개 획득
+http://img4.wikia.nocookie.net/__cb20140210015800/battlefield/images/c/c6/BF3_MVP_Medal.png
+
+==== MVP 2위 훈장 ====
+MVP 2위 약장 30개 획득
+http://img2.wikia.nocookie.net/__cb20140210015810/battlefield/images/6/64/BF3_2nd_MVP_Medal.png
+
+==== MVP 3위 훈장 ====
+MVP 3위 약장 30개 획득
+http://img1.wikia.nocookie.net/__cb20140210015816/battlefield/images/8/8e/BF3_3rd_MVP_Medal.png
+
+==== 무선 신호기 훈장 ====
+설치한 무선 신호기에서 아군이 100번 부활
+http://img3.wikia.nocookie.net/__cb20140210014702/battlefield/images/0/04/BF3_Radio_Beacon_Medal.png
+
+==== M18 클레이모어 훈장 ====
+M18 클레이모어로 적 150명 사살
+http://img1.wikia.nocookie.net/__cb20140210014723/battlefield/images/f/f2/BF3_M18_Claymore_Medal.png
+
+==== 레이저 표적 지시기 훈장 ====
+레이저 표적 지시기로 150번 공격 지원
+http://img4.wikia.nocookie.net/__cb20140210014748/battlefield/images/1/11/BF3_Laser_Designator_Medal.png
+
+==== 박격포 훈장 ====
+박격포로 적 150명 사살
+http://img3.wikia.nocookie.net/__cb20140210014821/battlefield/images/8/8d/BF3_Mortar_Medal.png
+
+==== 탱크 공로 훈장 ====
+탱크에서 10시간 복무
+http://img3.wikia.nocookie.net/__cb20140210015139/battlefield/images/0/09/BF3_Tank_Service_Medal.png
+
+==== 헬기 공로 훈장 ====
+헬기에서 10시간 복무
+http://img2.wikia.nocookie.net/__cb20140210015258/battlefield/images/e/e3/BF3_Helicopter_Service_Medal.png
+
+==== 전투기 공로 훈장 ====
+전투기에서 10시간 복무
+http://img1.wikia.nocookie.net/__cb20140210015323/battlefield/images/b/b2/BF3_Jet_Service_Medal.png
+
+==== 고정장비 공로 훈장 ====
+고정장비 1시간 사용
+http://img3.wikia.nocookie.net/__cb20140210015216/battlefield/images/9/93/BF3_Stationery_Service_Medal.png
+
+==== 수송전 훈장 ====
+수송전 약장 10개 획득
+http://img2.wikia.nocookie.net/__cb20140210015351/battlefield/images/3/3b/BF3_Transport_Warfare_Medal.png
+
+==== 기갑전 훈장 ====
+기갑전 약장 30개 획득
+http://img2.wikia.nocookie.net/__cb20140210015413/battlefield/images/3/37/BF3_Armored_Warfare_Medal.png\
+
+==== 공중전 훈장 ====
+공중전 약장 20개 획득
+http://img2.wikia.nocookie.net/__cb20140210015435/battlefield/images/9/9e/BF3_Air_Warfare_Medal.png
+
+==== 고정장비 훈장 ====
+고정장비 약장 10개 획득
+http://img1.wikia.nocookie.net/__cb20140210015457/battlefield/images/c/c1/BF3_Stationary_Emplacement_Medal.png
+
+==== 차량 파괴 훈장 ====
+차량 파괴 약장 50개 획득
+http://img1.wikia.nocookie.net/__cb20140210015525/battlefield/images/e/e4/BF3_Anti_Vehicle_Medal.png

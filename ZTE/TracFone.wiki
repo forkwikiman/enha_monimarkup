@@ -1,0 +1,66 @@
+ * 상위항목 : [[ZTE]]
+
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 미국 지역통신사인 Trac Fone의 하위 [[MVNO]] 브랜드인 NET10과 Straight Talk을 통해 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 목록.
+
+NET10과 Straight Talk 모두 [[GSM]]-[[WCDMA]]의 [[at%26t|AT&T]]과 [[T모바일]], [[CDMA]]의 [[버라이즌]]과 [[스프린트]]의 네트워크와 연계되기 때문에 [[WCDMA]] 대응 모델과 [[CDMA]] 대응 모델이 따로 나올 수 있다.
+
+각 기기정보가 전부 토막글 수준이며 주요 모델의 커스텀 모델도 아닌 별개의 모델들이다.
+
+== ZTE Merit ==
+[ZTE Roamer] 참조. 해당 모델의 통신사 내수 모델이다.
+
+[[각주]]
+
+== ZTE Illustra ==
+
+[wiki:"ZTE KIS#s-2.1" ZTE KIS] 항목 참조. 해당 모델의 내수용 모델이다. NET10으로 출시되었다.
+
+== ZTE Midnight ==
+[[ZTE Concord]] 참조. 해당 모델의 통신사 내수 모델이다.
+
+== ZTE Majesty ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/f/r/front_14.png
+
+2013년 -월에 출시되었다. 기기명은 Z796C.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Play MSM8625 [[SoC]]. [[ARM Cortex-A5]] MP2 1.2 GHz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||[[메모리]]||768 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 2000 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||67 x 134.8 x 10.6 mm, 149.9 g ||
+||기타|| ||
+
+=== 상세 ===
+Straight Talk과 NET10으로 같이 공급되는 첫번째 모델이다. NET10 단독 공급된 기존 모델들과는 다르게 [[CDMA]]에 대응한다.
+
+[[각주]]
+
+== ZTE Savvy ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/f/r/front_15.png
+
+2013년 -월에 출시되었다. 기기명은 Z750C.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Play MSM8625 [[SoC]]. [[ARM Cortex-A5]] MP2 1 GHz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||[[메모리]]||768 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1600 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||64.7 x 125.9 x 10.6 mm, 125.5 g ||
+||기타|| ||
+
+=== 상세 ===
+Majesty의 하위 호환격 사양을 가진 모델이다. Straight Talk과 NET10으로 같이 공급되며 [[CDMA]]에 대응한다.
+
+[[각주]]
+

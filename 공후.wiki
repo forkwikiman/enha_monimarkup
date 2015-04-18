@@ -1,0 +1,33 @@
+attachment:箜篌.jpg
+
+箜篌
+
+[[한국]]과 [[중국]]의 전통 [[현악기]].
+
+서양 악기인 [[하프]]와 놀랄만큼 비슷하게 생겼다. 요즘 쓰이는 사람 키보다도 큰 [[오케스트라]]용 하프 말고 [[천사]]들이 들고 다니는 [[수금]]류와 비슷하다고 보면 된다. 연주법이 소실되어 전해지지 않고 있다가 21세기에 와서야 겨우 복원되었다. 
+[http://www.hani.co.kr/section-009000000/2003/07/009000000200307081906169.html 참고]
+
+일단 [[한국]]에서 사용되었다는 유명한 기록으로는 [[삼국유사]]에 전하는 기록으로, [[공후인]] 설화(또는 공무도하가)에서 나오는 공후다.
+
+>公無渡河(공무도하) 임아 물을 건너지 마오
+>公境渡河(공경도하) 임은 그예 물을 건너셨네
+>墮河而死(타하이사) 물에 빠져서 돌아가시니
+>當乃公何(당내공하) 가신 임을 어이하리요
+
+백수광부의 아내가, 남편이 ~~[[주사]]~~술에 취해서 물을 건너다 빠져 죽었을 때의 슬픔을 이러한 가사의 노래로 불렀고, 이 사연 전해들은 어느 부인이 '''공후를 끌어당겨''' 이 노래를 뜯으며 불렀다고 한다. 이걸로 봐서 [[고구려]] 당시에는 이 악기가 집마다 하나쯤은 있는 보편적인 악기였을 것 같은데, 그 이후에는 쓰인 기록이 없기 때문에 어디에 어떻게 쓰였는지는 알려져 있지 않다.
+
+종류에 수(竪)공후, 와(臥)공후, 소(小)공후의 세 종류가 있다. 수공후는 21현으로 되어 있으므로 세로로 세워진 형태이고, 와공후는 13현짜리로 비스듬히 누워 있는 형태, 소공후는 13현으로 된 작은 공후이다. [[국립국악원]]에 각 한 대씩 보존되어 있다.
+
+1970~80년대에 [[북한]]에서는 [wiki:"북한의 악기 개량" 악기 개량 사업]의 일환으로 전통 와공후에 [[양금]], [[하프]], [[쳄발로]] 등의 구조와 연주법을 응용해 개량시켜 옥류금이라는 악기를 만들기도 했다. 현의 개수는 최종 개량형 기준으로 33개이고 '도' 현은 빨간색, '파' 현은 파란색으로 물들여 구분한다.
+
+양손으로 현을 뜯어 엱하며, 반음은 하프와 비슷하게 도~시까지 각 온음에 하나씩 배당된 일곱 개의 페달을 발로 밟아 조정한다. 참고로 이름이 옥류금인 이유는 악기를 개발하고 이름을 짓기 위해 [[김일성]]에게 갔더니 "소리가 [[금강산]] 옥류봉에서 흐르는 물소리같다"고 해서 옥류금이 되었다고 한다. 북한에서 개발한 악기지만 [[일본]]과 [[중국]] 등지를 통해 한국에도 유입되어 있고, [[가야금]] 주자들 중에 이 악기를 부전공으로 익혀 연주하는 경우도 있다.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/5V5qpdKKRdk&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5V5qpdKKRdk&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+북한의 연주
+
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/CyhlRzB2xZo?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/CyhlRzB2xZo?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object>
+}}}
+남한의 연주

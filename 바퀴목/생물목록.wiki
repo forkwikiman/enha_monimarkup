@@ -1,0 +1,47 @@
+ * 상위문서: [[곤충강]]
+ * 일반적인 내용은 [[바퀴목]] 참고.
+
+[[목차]]
+
+바퀴목(Dictyoptera)은 바퀴, 흰개미, 사마귀를 포함하는 불완전변태 곤충이다.
+
+= 바퀴류 =
+== 바퀴아목(Blattodea) ==
+=== 바퀴과 ===
+ * 바퀴(''Blattella germanica'') = [[독일바퀴]]
+ * 경도바퀴(''Asiablatta kyotoensis'')
+ * [산바퀴](''Blattella nipponica'')
+ * 줄바퀴(''Symploce striata'')
+ * ?''Chorisoneura nigra''?
+ * 유리날개바퀴(''Margattea kumamotonis'')
+ * 아시아바퀴
+ * 갈색띠바퀴
+ * 산바퀴
+=== 대형바퀴과(Blaberidae) ===
+ * 마다가스카르휘파람바퀴
+=== 왕바퀴과(Blattidae)[* 위의 Blaberidae와 함께 국내에서 왕바퀴로 불려 혼동되는 경우가 있으니 주의] ===
+ * [[이질바퀴]](''Periplaneta americana'') = 미국바퀴
+ * [[먹바퀴]](''Periplaneta fuliginosa'')
+ * [[집바퀴]](''Periplaneta japonica'') = 일본바퀴
+ * [[잔이질바퀴]](''Periplaneta australasiae'') = 오스트레일리아바퀴
+=== [[뿔바퀴]]과(''Blaberidae'') ===
+ * 뿔바퀴(?''Panesthia angustipennis spadica''?)
+ * ?''Pseudoglomeris planiuscula/Corydidarium tarsalis''?
+=== [[갑옷바퀴]]과 (Cryptocercidae) ===
+ * 갑옷바퀴 (''Cryptocercus kyebangensis'') = 귀신바퀴
+ * 가시바퀴 (''Cryptocercus relictus'')
+=== Nocticolidae ===
+=== 옛날바퀴과 (Polyphagidae ===)
+=== 사막바퀴과 ===
+ * 사막바퀴
+
+== 흰개미아목(Isoptera) ==
+=== 흰개미과 ===
+  * [[흰개미]]
+=== 수확흰개미과 ===
+=== 윤재흰개미과 ===
+
+= 사마귀류 =
+== [[사마귀]]아목(Mantodea) ==
+=== 사마귀과 ===
+ * [[사마귀]]

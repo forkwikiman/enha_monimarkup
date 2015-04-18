@@ -1,0 +1,146 @@
+ * "생생한, 선명한"을 의미하는 영어 단어이다.
+
+[[목차]]
+
+== [[매직 더 개더링]]에 나온 카드. ==
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+
+
+Lorwyn 블럭에 나온 대지카드로, [[Gemstone Mine]]의 변형에 해당하는 대지이다.
+
+탭되어서 들어오며, charge 카운터를 2개 가지고 들어온다. 그냥 탭하면 그 색에 해당하는 마나 하나를 꺼내며, 카운터 하나를 날리고 탭하면 아무 색의 마나를 하나 꺼내는 형태이다. 물론 카운터가 없다고 무덤가지는 않기 때문에 [[Crucible of Worlds]]와의 연계는 거의 불가능하다.
+
+한 색을 주로 쓰면서 다른 색을 양념처럼 쓰는 느낌의 다색덱에 추천. 다만 탭랜드이기 때문에 덱의 속도가 느려지는 것은 주의해야 한다. 참고로 [[Reflecting Pool]]과 함께하면 Reflecting Pool은 페널티 없는 5색대지가 된다. 덕분에 5색 컨트롤덱의 필수재료이다.
+
+희귀도는 모두 언커먼. 2013년 [[wiki:"매직 더 개더링/제품" 모던 마스터즈]]에 재판된적이 있다.
+
+아래는 그 종류.
+
+
+||<tablewidth=100%>   '''영어판 명칭'''   ||   '''Vivid Crag'''   ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/192109_1.jpg?width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  -  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  대지  ||
+||||<height=190px>Vivid Crag는 전장에 들어올 때 충전 카운터 2개를 가진 채로 탭된 상태로 들어온다.
+
+{T}: {R}을 당신의 마나풀에 담는다.
+{T}, Vivid Crag에서 충전 카운터 한 개를 제거한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.||
+||||  '''[[매직 더 개더링/블럭|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Lorwyn  ||  언커먼  ||
+||||  Modern Masters  ||  언커먼  ||
+||||  Commander  ||  언커먼  ||
+||||  Commander 2013  ||  언커먼  ||
+
+||<tablewidth=100%>   '''영어판 명칭'''   ||   '''Vivid Creek'''   ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/192110_1.jpg?width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  -  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  대지  ||
+||||<height=190px>Vivid Creek는 전장에 들어올 때 충전 카운터 2개를 가진 채로 탭된 상태로 들어온다.
+
+{T}: {U}을 당신의 마나풀에 담는다.
+{T}, Vivid Creek에서 충전 카운터 한 개를 제거한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.||
+||||  '''[[매직 더 개더링/블럭|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Lorwyn  ||  언커먼  ||
+||||  Modern Masters  ||  언커먼  ||
+||||  Commander  ||  언커먼  ||
+||||  Premium Deck Series: Slivers  ||  언커먼  ||
+||||  Planechase 2012  ||  언커먼  ||
+||||  Commander 2013  ||  언커먼  ||
+
+
+||<tablewidth=100%>   '''영어판 명칭'''   ||   '''Vivid Grove'''   ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/192111_1.jpg?width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  -  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  대지  ||
+||||<height=190px>Vivid Grove는 전장에 들어올 때 충전 카운터 2개를 가진 채로 탭된 상태로 들어온다.
+
+{T}: {G}를 당신의 마나풀에 담는다.
+{T}, Vivid Grove에서 충전 카운터 한 개를 제거한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.||
+||||  '''[[매직 더 개더링/블럭|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Lorwyn  ||  언커먼  ||
+||||  Modern Masters  ||  언커먼  ||
+||||  Commander  ||  언커먼  ||
+||||  Premium Deck Series: Slivers  ||  언커먼  ||
+||||  Commander 2013  ||  언커먼  ||
+
+||<tablewidth=100%>   '''영어판 명칭'''   ||   '''Vivid Marsh'''   ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/192112_1.jpg?width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  -  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  대지  ||
+||||<height=190px>Vivid Marsh는 전장에 들어올 때 충전 카운터 2개를 가진 채로 탭된 상태로 들어온다.
+
+{T}: {B}을 당신의 마나풀에 담는다.
+{T}, Vivid Marsh에서 충전 카운터 한 개를 제거한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.||
+||||  '''[[매직 더 개더링/블럭|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Lorwyn  ||  언커먼  ||
+||||  Modern Masters  ||  언커먼  ||
+||||  Commander  ||  언커먼  ||
+||||  Commander 2013  ||  언커먼  ||
+
+
+||<tablewidth=100%>   '''영어판 명칭'''   ||   '''Vivid Meadow'''   ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/184947_1.jpg?width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  -  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  대지  ||
+||||<height=190px>Vivid Meadow는 전장에 들어올 때 충전 카운터 2개를 가진 채로 탭된 상태로 들어온다.
+
+{T}: {W}을 당신의 마나풀에 담는다.
+{T}, Vivid Meadow에서 충전 카운터 한 개를 제거한다: 당신의 마나풀에 원하는 색의 마나 한 개를 담는다.||
+||||  '''[[매직 더 개더링/블럭|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Lorwyn  ||  언커먼  ||
+||||  Modern Masters  ||  언커먼  ||
+||||  Commander  ||  언커먼  ||
+
+== [[일본]]의 [[비주얼계]] [[록밴드]] ==
+[[PS Company]] 소속의 밴드. [[ViViD(밴드)]]항목 참조.
+
+== 팝픈뮤직의 수록곡 [[For Dear~]]의 장르명 ==
+이 항목 바로 아래의 곡과는 작곡가와 수록기종이 다르다 항목 참조.
+
+== [[일본]]의 [[가수]]  [[May'n]]의 8번째 싱글음반이자 그 표제곡 ==
+=== 개요 ===
+||http://ec2.images-amazon.com/images/I/41Cv1ZrafNL._SL500_AA300_.jpg||http://ec2.images-amazon.com/images/I/51ULsUohCiL._SL500_AA300_.jpg||
+|| 초회한정반 자켓 || 통상반 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/z3nBgIb_7XU" frameborder="0" allowfullscreen></iframe>
+}}}
+짧은 PV 영상
+
+싱글음반은 2013년 7월 24일 발매되었다. 
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_v560fnJLwnqnTgwK5iJiX5O' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=v560fnJLwnqnTgwK5iJiX5O&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=v560fnJLwnqnTgwK5iJiX5O&playLoc=undefined'></embed></object>
+}}}
+
+[[블러드 래드]]의 오프닝 테마곡으로 쓰였다.
+
+=== [[BEMANI 시리즈]]에 수록 ===
+[[유비트 소서]]와 [[GITADORA]]에 '''음반발매일인 2013년 7월 24일'''에 수록되었다. 2일전인 7월 22일에 업데이트가 연동 업데이트가 아닌 이 업데이트라 미리 이 곡의 동시 수록을 위해 이야기를 해놨다는 이야기가 된다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/tsiP8yZoyPM" frameborder="0" allowfullscreen></iframe>
+}}}
+수록기념 특별 메시지 영상
+
+==== [[유비트 시리즈]] ====
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>9||
+||<#ffffff><:>노트수||<:>178||<:>342||<:>595||
+||<#ffffff><:>BPM||||||<:>205||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2013/7/24 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+게임 안에서 쓰는 자켓은 통상반 자켓.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/LPwzVE30t8M" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME [[엑설런트]] 영상
+
+EXTREME 채보는 후렴구에 v 모양의 노트가 분할되어 나오는 게 특징. 전주 부분과 후렴구 초반에 각각 등장하는 2-1-2-1 패턴에 콤보가 끊기기 쉬우니 주의하자. 후반부에는 드럼에 맞춘 16비트가 등장한다. 박자가 쉬운편이라 엑설런트 난이도는 9렙 하위권에 속한다.
+

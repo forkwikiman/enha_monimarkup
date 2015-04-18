@@ -1,0 +1,5 @@
+||<-11><#FFFFFF><tablealign=center><tablewidth=80%> '''[[대한민국 국군|<span style="color:Black">대한민국 국군 편제단위</span>]]''' ||
+||<-3><#F0FFF0> '''[[틀:육군편제단위|<span style="color:DarkGreen">육군</span>]]''' ||<-2><#F5FFFA> '''[[틀:해군편제단위|<span style="color:DarkBlue">해군</span>]]''' ||<-2><#F5F5F5> '''[[틀:공군편제단위|<span style="color:DimGray">공군</span>]]''' ||
+||<-9><#696969><tablealign=center><tablewidth=80%> '''[[대한민국 공군|<span style="color:white">대한민국 공군 편제단위</span>]]''' ||
+||<#FFFFF0> '''규모''' ||<#F5F5F5> [[편대]] ||<#F5F5F5> [[대대]] ||<#F5F5F5> [[전대#s-1.2|전대]] ||<#F5F5F5> [[비행단]] ||<#F5F5F5> [[전투사령부]] ||<#F5F5F5> [[작전사령부]] ||
+||<#FFFFF0> '''지휘관''' ||<#F5F5F5> [[편대장]] ||<#F5F5F5> [[대대장#s-3|대대장]] ||<#F5F5F5> [[전대장#s-2.2|전대장]] ||<#F5F5F5> [[비행단장]] ||<#F5F5F5> [[전투사령관]] ||<#F5F5F5> [[작전사령관|공군작전사령관]] || 

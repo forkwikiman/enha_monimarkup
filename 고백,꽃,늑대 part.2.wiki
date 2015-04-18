@@ -1,0 +1,80 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+Proposed, Flower, Wolf Part.II
+
+|| 작곡 || [wiki:"M2U"ReX] ||
+|| BGA || [[D]] ||
+|| 장르 || Violin Trance(메트로 프로젝트) / Progressive(테크니카 2) ||
+|| BPM || 80(6/8)~160(4/4) ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/5cxCFTv1ZwM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX]] 메트로 프로젝트 수록곡. [DJMAX Portable Black Square]와 [[DJMAX TECHNIKA]]에 수록되었다.
+
+고백, 꽃, 늑대 2연작의 마지막 파트로, 전작이라고 할 수 있는 [[고백,꽃,늑대]]에서 이야기가 겹치는 구조로 제작되었다.
+
+약칭 '''고꽃늑 part.2''' 혹은 '''고꽃늑'''. Part.1이 저렙이라 상대적으로 묻혔기 때문에 보통 고꽃늑 하드니 엠엑이니 하는 말들은 대부분이 이 Part.2를 가리키는 것이다.
+
+전작과는 다르게 곡의 장르가 완전히 다른데([wiki:"고백,꽃,늑대" Part.I]은 [피아노] [발라드]), 바이올린 소리를 베이스로 빠르게 전개되는 곡. 등장시에는 바이올린 [[트랜스]]라는 말도 안 되는 장르명을 달고 나와 신나게 까였으나, 테크니카2에서는 프로그레시브(Progressive)로 장르가 바뀌었다. 하지만 Progressive도 뒤에 아무것도 안붙으면(Rock, Jazz) 음악 장르로는 영 안어울릴 수도 있는 일. 일반인들이 생각하기에는 '''진보'''(Progressive) 자체가 장르라는 게 이상하겠지만[* [[wiki:"D2(DJMAX)" D2]]도 사정은 마찬가지, 단 D2는 프로그레시브 DnB이다.], 우선 곡 자체가 [[프로그레시브 뮤직]]의 주류(Rock, Jazz, House 등)에서 벗어나 있기 때문. 굳이 곡의 특징을 고려해 정의하자면 프로그레시브 오케스트라(Progressive Orchestra)로 볼 수 있다. 비주얼 역시 잔잔했던 전작에 비하면 좀 더 역동적인 편.
+
+철저하게 저난이도 패턴이던 [wiki:"고백,꽃,늑대" Part.I]과는 달리 이쪽은 고난이도배치. [wiki:"DJMAX Portable Black Square" BLACK SQUARE]에 수록된 버전은 수록곡 중에서도 중간 수준의 난이도이지만, DMT에서의 난이도는 괴악함 그 자체.
+[[DJMAX Mobile]]에서는 유일하게 7레벨로 보스곡의 자리에 오르기도 했다. 거기다가 저 유명한 [[Seeker]]나 [[Nightmare]]를 압살하기까지 했다! [* Seeker는 6레벨, Nightmare는 '''4레벨'''이었다. ~~지못미 나메~~]
+
+배경영상의 경우 화풍은 똑같지만 전편의 그 애틋하고 애절한 분위기와는 완전히 다른, 이른바 '''반전물'''이 되어버린것이 가장 큰 특징. 소년이 탑에 사는 늑대를 잡으러 떠난 직후부터 고백을 받기까지의 '''소년은 전혀 눈치채지도 못했던 뒷얘기'''를 다루고 있다. 한마디로 요약해서 '''[wiki:"좆나" X나]짱센~~[투명드래곤]~~마누라'''(…) 소년의 앞날이 그리 밝지만은 않아 보인다는게 자못 슬픈 유저들이 많은 듯.
+
+BGA에서 여자아이가 사용하는 무기가 블랙스퀘어 한정판인 QUATTRA라는 루머가 있다.
+
+고꽃늑 시리즈의 영상이 이걸로 끝인거라고 아는 사람이 많지만, 한번의 반전이 더 있다.
+
+{{{#!HTML
+<iframe title="YouTube video player" width="560" height="345" src="http://www.youtube.com/embed/ppnlXJskEXQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+알고보니 '영화'였다.[* 혹은 뮤직비디오 촬영이라고 볼 수도 있다.] 충격과 공포, '''훼이크다 병신들아!!'''
+참고로 흐르는 곡은 '고백,꽃,늑대 Part.1'의 무가사 버전이다.(음원만 있다.)
+
+아래는 BS 공식 설명이다.
+
+{{|'첫 참여한 신인 작곡가 [wiki:"M2U"ReX]의 Violin Trance 곡. '디제이맥스 포터블 클래지콰이 에디션'의 '고백,꽃,늑대'와 상반된 상황에서의 스토리가 펼처진다.'|}}
+
+== [DJMAX Portable Black Square] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BtMt6B-kyys" frameborder="0" allowfullscreen></iframe>}}}
+
+블랙 스퀘어에서는 중상급의 난이도로 수록.
+
+== [DJMAX Mobile] ==
+
+'''최종보스'''
+최초 티저에는 수록되어 있지 않았지만 이후 업데이트로 다운로드 가능하게 바뀌었다.
+하드 난이도부터 피쳐폰 스펙(렉)으로는 도저히 누를 수 없는 패턴들이 튀어나와서 노멀을 클리어하고 만만하게 본 상당 수 유저들을 당황스럽게 했다. 테크니카 모드의 경우 모바일버전 치고는 상당히 빠른 속도에 연속노트가 갑작스럽게 튀어나와서 피 본 유저가 많다.
+
+
+== [DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/QtrEo4w_w4Y" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴 (테크니카 1 기준 SP)
+
+[DJMAX TECHNIKA]에서는 Part.I과는 다르게 LP가 없고, PP 5, TP 8로, PP도 난이도에 비해 어려운 편이며 TP의 경우는 레벨 8 값을 제대로 하고 있는 곡. 홀딩 노트와 드래그 노트 연타로 도배된 상당한 난이도의 패턴이어서 의외로 손도 못대는 사람이 많다. 안정권 클리어에 성공해도.. 후반의 까다로운 연타 노트때문에 올 콤보로 가는 여정도 험난 그 자체. 2009년 10월 스페셜 패턴에는 SP 패턴이 있는데, 중간의 보라 + 분홍이 [wiki:"Colours of Sorrow"코사인]급 씹힘을 보여주기 때문에 잘못하면 후반부에서 원하지 않게 폭사당할 수 있다.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || 5 || 4박 스크롤, 8박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 5 || 4박 스크롤, 8박 스크롤 || [wiki:"TechniColor"미션 - 2 Tone] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 7 || 4박 스크롤, 8박 스크롤 || [wiki:"Challenger"Challenger Set] 셀렉곡 ||
+||<#FF0000> Maximum || B || 200 Max || 8 || 4박 스크롤, 8박 스크롤 || [wiki:"Metronom"미션 - Tempo Rubato] 수록 ||
+
+[DJMAX TECHNIKA 2] 이후로는 새롭게 Star 패턴이 추가되었으며, HD 패턴은 난이도가 1 하락했다.
+
+여담으로 [wiki:"M2U"ReX]가 [wiki:"Lubinn"TAK][* [[Black Swan]]을 작곡한 그 TAK 맞다.]에게 고꽃늑 3탄을 덥스텝으로 만들어달라고 의뢰했다. 정말 만들어지면 DMP4에 등장할 수도 있을 듯. ~~그러니까 D는 속히 비주얼 제작을 시작하라~~ ~~하지만 펜타비전을 퇴사했잖아? 안될거야~~
+
+== [TAP SONIC] ==
+
+[[TAP SONIC]]에도 수록되어 있는데, 곡이 메트로 프로젝트 때의 것보다도 상당히 화려해져, 진정한 대작의 면목을 보여주고 있다. 더욱이 2012년 5월 7일자로 패턴이 업그레이드되어, 그 전의 6레벨 정도 수준의 패턴과는 차원을 달리하는 어려움을 보여주고 있다. 사실상 [[설레임 Part.2]]와 함께 7레벨 끝판왕으로 자리매김하고 있다.
+
+[[각주]]

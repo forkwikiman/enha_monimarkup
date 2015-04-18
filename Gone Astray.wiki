@@ -1,0 +1,88 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable 3]] ||
+|| 추가 수록 버전 || [[DJMAX TECHNIKA 3]], [[DJMAX TECHNIKA Q]] ||
+|| 장르 || [wiki:"프로그레시브 뮤직" Progressive] [wiki:"House(리듬게임)" House] ||
+|| 작곡, 편곡 || [[makou]] ||
+|| 기타 || [[NieN]] ||
+|| 비주얼 || [[ECO]], Xloth ||
+|| 작사, 보컬 || Etsuko Yusa ||
+|| [[BPM]] || 140 ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/Z2XyK5E5EBs" frameborder="0" allowfullscreen></iframe>
+}}}
+(BGA)
+
+약칭은 '''건아''' 혹은 '''곤어스'''.
+
+Hamsin, Fermion 등 지속적으로 양질의 음악을 공급한 makou가 [[DJMAX Portable 3]]에 공급하여 수록된 레벨70대 해금곡. [[제5원소]]의 디바 오페라와 비슷하게 성악 보컬을 중심으로 한, 몽환적인 분위기가 이 음악의 특징이며, 'Progressive House'라는 장르에 걸맞게 [[트랜스]]의 성향과 기타 음색이 무서울 정도로 잘 어울러져 있다. 펜타비전에서 직접 발매한 디지털 앨범인 DJMAX Maniac Tunes 앨범에도 이 곡이 수록되어 있다.[* 펜타비전이 네오위즈의 자회사라는 [[어른의 사정]]으로 인해 한때 벅스에서만 받을 수 있었으나 네이버에서도 다운로드 가능함이 확인되었다.]
+
+'Gone Astray'의 의미[* Go Astray = 없어지다, 길을 잃다, 잘못하다(잘못된 결과를 일으키다), 타락하다]에 걸맞게, BGA도 (최상급은 아니고, 옥에 티도 있지만) 매우 심오하다. 사람[* 이 여성 캐릭터의 이름이 '플라네타'(Planeta)인데, 이는 행성(Planet)을 뜻하는 스페인 말이다. 다시 말해 [[가이아]], '''지구 자신'''을 의미.]의 머리에서 인류의 문명 과정이 시간순서대로 등장하고, 마지막에 핵미사일이 그 현대문명 위에 추락하는 내용이다.[* BGA가 시작할 때 플라네타가 하품하는 장면과 마지막에 핵미사일이 머리 위에 떨어질 때 최후를 인정하는 듯 눈을 지그시 감는 장면은 각각 인류 문명의 '''시작과 끝'''을 의미한다고도 볼 수 있다.]
+
+실제로 고대 신전에서 시작해 세계무역센터 빌딩(일명 쌍둥이 빌딩) 등 고층 건물으로 이어지고, [wiki:"인플루엔자 A" H1N1], (핵폐기물이나 석유로 추정되는) 드럼통 등이 등장하는 등, 지구문명의 발달과정과 그 과정에서 나타난 문제점을 대표하는 상징들이 속속들이 등장하여 '문명'이라는 양날의 칼날에 놓인 인류의 책임을 강조하고 있고, 최종적으로는 [[핵전쟁]]으로 발생할 수 있는 인류종말에 대해 무언(無言)의 경고를 보내고 있다.([[가이아 이론]], [[2012년/지구멸망설]] 참고) 덕분에 이 BGA는 [[Plastic Method]]와 함께 DJMAX 시리즈 수록곡 전원을 통틀어서 가장 주제가 무거운 BGA 중 하나로 손꼽히게 되었다.
+
+이 때문에 '물 같은 환상과 불 같은 현실이 섞인 음악', '마니악한 느낌을 받을 수 있는 곡' 등, 전체적으로 무섭다는 평이 많다.
+
+BGA는 ECO와 Xloth가 맡았다. Xloth로서는 [[Emblem]]에 이은 두 번째 참여작[* 정식으로 공개된 건 Gone Astray가 더 먼저지만, Emblem은 테크니카 2에 BGA까지 완성된 상태로 수록되었었던 곡이다.]. ECO의 경우, 같은 시리즈 수록곡인 [[Funky People]]과는 정말 심하게 대조된다...
+
+이 BGA는 훗날 [[OrBiTal]]의 테큐니카 BGA에서 재사용된다. 그것도 이상한 쪽으로(...).
+
+== DJMAX Portable 3 ==
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/jijIJzjl3MY?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jijIJzjl3MY?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+(6T HD)
+
+{{{#!html
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="340" src="http://www.youtube.com/embed/O8voX9l5Z6A" frameborder="0" allowFullScreen></iframe>
+}}}
+(4.2T TS)
+
+곡 자체도 무섭거니와, 패턴의 난이도도 은근히 무섭다. DMP3를 통틀어서 나름 높은 편. 평이해 보이지만 실제로 해보면 [[간접미스]]와 맞물려 헷갈리는 패턴 때문에 의외로 브레이크가 많이 나는 편이다.
+
+리믹스 모드에서의 샘플링 음악은 DMP3의 스탭롤에 등장하는 '''[[Armageddon]]'''(4.2T TS)과 '''[[The Rain Maker]]'''.
+
+== DJMAX TECHNIKA 3 ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/6nUjG_W_r14" frameborder="0" allowfullscreen></iframe>}}}
+
+(하드 패턴)
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CdaX_yh6NO4" frameborder="0" allowfullscreen></iframe>}}}
+
+(맥시멈 패턴)
+
+|||||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 스크롤 || 설명 || 비고 ||
+||<#FFB0B0> Star || B || 375 Max || 5 || || || ||
+||<#FFFF00> Normal || B || 375 Max || 6 || 4박 스크롤 || || ||
+||<#0000FF> {{{#white Hard}}} || A || 1500 Max || 7 || 4박 스크롤 || [[Orientalism Set]] 하위보스곡, [wiki:"Raconteur" 미션 - Nuke Missile] 수록 || ||
+||<#FF0000> Maximum || S || 3250 Max || 8 || 4박 스크롤 || [wiki:"Masterpiece(DJMAX)" 미션 - Makou System 수록], ※[wiki:"DJMAX TECHNIKA 3/난이도 표기 문제" 지뢰곡] ||
+
+
+테크니카 3 에도 수록되었는데, HD 패턴은 [[Orientalism Set]]의 하위 보스를 담당하고 있다. 스크롤 자체가 빨라 어려운 [wiki:"Over The Rainbow(DJMAX)"Over The Rainbow]와는 달리, 이쪽은 DMP3의 트리키한 채보를 상당부분 가지고 와 다른 의미로 어려운 편. 뜬금없는 [[키음]]이 산재해 있어 의외로 풀콤보로 클리어하기 어렵다는 평이 많다.
+
+3차 맥스샵 업데이트로 HD패턴이 나오면서 레벨이 공개되었는데 레벨은 7. 클리어 난이도로는 7레벨 수준으로, 지뢰곡까지는 아니지만 스코어링 난이도는 웬만한 8레벨곡보다 높다는 평. [wiki:"Raconteur"미션-Nuke Missile]의 마지막 곡으로서의 위엄도 한 몫 더하고 있다.
+
+14차 업데이트에 드디어 MX패턴이 공개되었다. 표기된 난이도는 8이지만 노말과 하드패턴처럼 패턴이 매우 난해하기 때문에 클리어 & 스코어링이 상당히 어렵다는 평가를 받고있다.
+
+== [[DJMAX TECHNIKA Q]] ==
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/S0LrRQfwwl8" frameborder="0" allowfullscreen></iframe>}}}
+3라인 시그니처 영상.
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|||| 2라인 |||| 3라인 ||
+|| 패턴 || 난이도 || 패턴 || 난이도 ||
+||<#FFFF00> Original || 5 ||<#FFFF00> Original || 6 ||
+||<#0000FF> {{{#white Premium}}} || 7 ||<#0000FF> {{{#white Premium}}} || 8 ||
+||<#FF0000> Signature || 9 ||<#FF0000> Signature || '''10''' ||
+
+테크니카 3에 비해서 훨씬 약화된 형태로 나왔다. 3라인이라는 좁은 공간으로 인해 동시치기 연타가 잘렸고, 특징적인 패턴들은 간략화되거나 잘린 부분이 많다. 그럼에도 불구하고, 3라인 시그니처 보면은 초기 출하곡 중 [[Leave me alone]], [[Renovation]]과 함께 10레벨 보면을 당당하게 맡고 있으며, 실제로 10레벨의 명성에 그리 흠이 가지 않는 곡이었다. 쉴 틈이 거의 없는 건 기본이고, 보라색 노트가 연타로 나오질 않나, 관절 노트가 세세하게 꺾이면서 나오질 않나...
+
+이래저래 곡이나 패턴이나 '''무서움으로만 가득찬 곡이다.'''
+
+물론 11월 7일 업데이트로 아케이드 패턴을 그대로 때려박은 [[Thor]]가 나오고서는 나머지 두 곡과 함께 나란히 버로우.

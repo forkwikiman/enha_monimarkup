@@ -1,0 +1,62 @@
+[[목차]]
+
+== 정보 ==
+{{{#!html
+<iframe width="550" height="413" src="http://www.youtube.com/embed/R1KTyndRIh8" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Portable 2]], [[DJMAX Trilogy]], [[DJMAX Portable Hot Tunes]], [[DJMAX RAY]] ||
+|| 장르 || Oriental Trance ||
+|| 작곡 || [[NieN]] ||
+|| 보컬 || [[NieN]] ||
+|| BPM || 147 ||
+|| BGA || Tako Ashin ||
+
+[[DJMAX 온라인]]부터 수록된 [[NieN]]의 곡.
+
+일러스트레이터는 Tako Ashin으로 [[바람에게 부탁해]]와 같은데 분위기가 정반대다. [[NieN]]이 동양의 악기를 사용한 것에 맞추었는지 BGA가 대놓고 일본 냄새를 풍기고 있는데 이 때문에 플레이어들 사이에서 호불호가 상당히 많이 갈렸던 곡이다.
+
+=== 가사 ===
+||Feel like crazy you, I Just wanna kill the people in the world
+i wanna make something special brilliant
+Feel me up Dreams come up Finally chance i have tonight
+
+Feel me up Volum up, enjoy the sound on me
+Kill me up pull me under, Listen to the Music of the blood
+
+Can you catching me
+
+*Follow me give me your heart! You have to give me now
+Falling to me hear that blood sound! Just want to have your everything
+
+*Repeat
+
+Listen this music right now||
+
+== 난이도 ==
+=== DJMAX Portable 2에서의 난이도 체계 ===
+
+|||||||| [[DJMAX Portable 2]] ||
+|| Tunes || NM || HD || MX ||
+|| 4B Tunes ||8 || || ||
+|| 5B Tunes ||10 || || ||
+|| 6B Tunes ||10 || || ||
+|| 8B Tunes ||4 ||7 || ||
+
+=== DJMAX Trilogy에서의 난이도 체계 ===
+|||||||||||| [[DJMAX Trilogy]] ||
+|| 난이도 || 4K || 5K || 6K || 7K || 8K ||
+|| NM ||10 ||9 ||10 ||8 ||4 ||
+|| HD || ||13 || ||13 ||7 ||
+|| MX || || || || || ||
+|| SC || || || || || ||
+
+=== TAP SONIC에서의 난이도 체계 ===
+
+|||||||| [[TAP SONIC]] ||
+|| 가격 |||||| MP ||
+|| 패턴 || 4L || 5L || 6L ||
+|| Basic ||6 ||6 ||6 ||
+|| Pro ||7 ||7 ||7 ||
+|| Legend ||8 ||8 ||8 ||

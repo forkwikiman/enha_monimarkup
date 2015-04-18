@@ -1,0 +1,22 @@
+{{{#!html
+<object width="600" height="450"><param name="movie" value="http://www.youtube.com/v/XbWp2R9ARr4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XbWp2R9ARr4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="450" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+2012년 8월 31일 공개된 티저 영상
+[http://www.pmangplus.com/promotion/landing/djmax/201208 티저 사이트]
+[http://www.thisisgame.com/board/view.php?viewtype=pc&category=102&id=1277117 뉴스기사1]  [http://www.betanews.net/article/566805 뉴스기사2]
+
+[[DJMAX TECHNIKA TUNE]]의 정보가 점점 풀리고 발매일이 얼마 남지 않았던 2012년 8월 29일, 돌연 [[DJMAX 시리즈]]의 모바일 이식이 발표되었고 곧바로 다음날 티저 영상이 공개되었다. 일단 플랫폼은 iOS. 발표 당시에는 안드로이드도 지원한다 하였으니 나중에 안드로이드 플랫폼으로도 내놓을 가능성이 높다.
+
+그러나 대다수의 예상과는 달리 테크니카 방식이 아닌, 종전의 포터블 방식과 유사한 방식으로 개발을 한다고 하여 많은 사람들이 불만을 토로했고, 특히 테크니카의 [[아이패드]] 버전을 바라는 사람들의 불만이 컸다. [wiki: "하라는 공부는 안하고" 내라는 아이패드 버전은 안내고] 웬 [wiki: "DJMAX TECHNIKA TUNE" 엉뚱한 물건]이 나왔으니...[* iOS용은 복돌이 활개칠것으로 생각하여 iOS용으로 안 나올것이라고 전망하는 사람들도 꽤나 있다]
+
+같은 개발사의 [[TAP SONIC]]을 팀킬하지 않을까 우려하는 목소리도 있었다.~~그리고 그것은 현실이 되고 있다. 한판 할때마다 돈내면서 할래 한방에 내고 할래~~
+
+특히나 발표가 있기 며칠 전 [[DJMAX TECHNIKA 시리즈]]를 카피한 iOS게임 "[[Rhythmix]]"의 표절시비 때문에 [[팬덤]] 내에서 두 패로 갈라져 계속 논쟁을 벌여왔기에 이 와중에 발표된 iOS용 DJMAX를 고깝게 보는 시선도 적지않은 편이다.[* [Cytus]의 경우 아예 제작진이 표절을 인정했으나, 나름의 독창성이 있기 때문에 그나마 덜 까였지만 [[Rhythmix]]의 경우 외관까지 빼닮을 정도로 카피를 해서 더욱 논란이 되었고 이 때문에 사이터스가 불판에서 살짝 비껴나가게 되었다. 일부 [안티]들은 [[리드믹스]] 논쟁에서 온라인과 포터블을 거론하며 [[피장파장의 오류]]를 범하기도 했다.] 여러가지로 악재가 겹친 상황.
+
+2012년작 DJMAX 모바일의 정식 명칭은 아직 밝혀지지 않은 상태이며, 8/31~9/12 동안 티저 사이트에서 정식 명칭을 유추해 맞추는 이벤트를 벌이고 있는 중이었다...하지만 [[피망]]플러스 트위터 계정에서 DJMAX RAY라고 이름을 스포일러해버린 상태이다. 루리웹에서는 공개된 아이캐치에 남캐가 많다고 DJMAX GAY라고 깠었다. (…) [https://twitter.com/pmangplus/status/242453142443274241 #]
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/jg5k0tjzT3Y?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jg5k0tjzT3Y?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+2012년 9월 24일에 플레이 영상이 공개되었다. (첫 음악 시작전에 키를 몇번 누르는데 탭소닉과는 달리 키음이 들어가 있는것을 확인 할 수 있다.) 9월 28일 앱스토어에 공개되었다.

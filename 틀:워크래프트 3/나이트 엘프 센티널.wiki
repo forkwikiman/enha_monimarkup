@@ -1,0 +1,12 @@
+||<tablebgcolor=#b4efdc><tablewidth=100%><#ffcc33><-100> '''[[워크래프트 3]] [[나이트 엘프 센티널]]의 영웅, [[워크래프트 3/종족, 유닛, 건물|유닛, 건물들]]''' ||
+||<#44d7a8><|2><-2> '''[[알터 오브 엘더]]''' ||<-3> http://classic.battle.net/war3/images/nightelf/units/icons/demonhunter.gif?width=20px ||<-2> http://classic.battle.net/war3/images/nightelf/units/icons/keepergrove.gif?width=20px ||<-2> http://classic.battle.net/war3/images/nightelf/units/icons/priestess.gif?width=20px ||<-3> http://classic.battle.net/war3/images/nightelf/units/icons/warden.gif?width=20px ||
+||<width=20%><-3> [[데몬 헌터(워크래프트)|데몬 헌터]] ||<width=20%><-2> [[키퍼 오브 그로브]] ||<width=20%><-2> [[프리스티스 오브 더 문]] ||<width=20%><-3> [[워든#s-3.1|워든]] ||
+||<rowbgcolor=#44d7a8>　|| '''[[트리 오브 라이프]]''' ||<-3> '''[[에인션트 오브 워]]''' ||<-3> '''[[에인션트 오브 로어]]''' ||<-3> '''[[에인션트 오브 윈드]]''' || '''[[키메라 루스트]]''' ||
+||<#44d7a8><|2> '''1티어''' || http://classic.battle.net/war3/images/nightelf/units/icons/wisp.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/archer.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/huntress.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/glaivethrower.gif?width=20px ||<-7><|2>　 ||
+|| [[위습#s-2.1|위습]] || [[아처(워크래프트)|아처]] || [[헌트리스]] || [[글레이브 스로워]] ||
+||<#44d7a8><|2> '''2티어''' ||<-4><|2>　|| http://classic.battle.net/war3/images/nightelf/units/icons/dryad-small.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/druidclaw-small.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/mountaingiant-small.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/hippogryph.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/druidtalon.gif?width=20px || http://classic.battle.net/war3/images/nightelf/units/icons/faeriedragon.gif?width=20px ||<|2>　||
+|| [[드라이어드#s-2.1|드라이어드]] || [[드루이드 오브 클러]] || [[마운틴 자이언트(워크래프트 3)|마운틴 자이언트]] || [[히포그리프#s-3.1.1|히포그리프]] || [[드루이드 오브 탈론]] || [[페어리 드래곤#s-2.1|페어리 드래곤]] ||
+||<#44d7a8><|2> '''3티어''' ||<-10><|2>　|| http://classic.battle.net/war3/images/nightelf/units/icons/chimaera.gif?width=20px ||
+|| [[키메라(워크래프트)|키메라]] ||
+||<#44d7a8><|2><-2> '''기타 건물들''' ||<-3> [[인탱글드 골드 마인]] ||<-2> [[문웰]] ||<-2> [[헌터스 홀]] ||<-3> [[에인션트 오브 원더]] ||
+||<-3> [[에인션트 프로텍터]] ||<-7>　||

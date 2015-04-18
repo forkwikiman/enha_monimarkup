@@ -1,0 +1,42 @@
+[[목차]]
+
+== 개요 ==
+[반지의 제왕 온라인]에서 퀘스트 인스턴스가 아닌 인스를 인스턴스 던전, 이하 인던이라고 지칭하게 되며, 이를 위해서는 소규모 원정대[* 3인]이나 원정대[* 6인]을 구성해야된다. 인던에는 일일 퀘스트가 있으며, 이들 일일 퀘스트는 여러번 반복해서 할수 있다.[* 단, 하루에 1회씩 제한이 있으며, 이 제한은 국내 기준으로 오후 4시에 리셋된다. 미국 기준으로 새벽 3시] 
+
+현재 반지의 제왕 온라인은 북미/유럽에서만 서비스 되므로, 한국어 명칭 표기보다는 원어로 인스 명칭을 표시하도록 한다. 단, 모리아까지의 인스는 한국어로 번역되었던 명칭을 병행해서 표기한다.
+
+== 목록 ==
+|| '''이름''' || '''줄임말''' || '''지역''' || '''레벨 제한''' || '''기타''' || 
+|| [The Great Barrow] || GB || Bree-land || 20-65 || 첫번째 인던으로, 고분 구릉지에 위치 || 
+|| [Garth Agarwen] || GA || Lone-lands || 30-35 || 아가마우르 인스로도 언급됨 || 
+|| [Fornost] || N/A || North Downs || 35-42 || 포른노스트 평원 북쪽에 위치 || 
+|| [Urugarth] || Uru || Angmar || 45-50 || 북부 앙그마르 깊숙히 위치, 카른둠의 남동쪽 || 
+|| [Carn Dûm] || CD || Angmar || 45-50 || 앙그마르의 적들의 수도로, 북쪽 깊숙히 위치 || 
+|| [Barad Gúlaran] || BG || Angmar || 45-50 || 앙그마르 북동쪽에 위치하는 마술사왕의 요새 || 
+|| [Glinghant] || Gardens || Evendim || 45-50 || 안누미나스의 옛 정원이였지만, 현재느 악령들에 의해 오염된 곳 || 
+|| [Ost Elendil] || OE || Evendim || 45-50 || 안누미나스의 왕좌가 있는 곳이자, 한때는 접견실이였던 곳 || 
+|| [Haudh Valandil] || HV || Evendim || 45-50 || 아르노르 왕조의 3번째 왕인 발란딜의 무덤 || 
+|| [The Battle for Aughaire] || N/A || Angmar || 45-50 || Defend Aughaire from the Witch-king's assaults || 
+|| [The Battle Before the Rammas Deluon] || N/A || Angmar || 45-50 || Cut off Mordirith's reinforcements at Rammas Deluon || 
+|| [The Battle of Rhunendin] || N/A || Angmar || 45-50 || End Mordirith's aggressions for good at Rhunendin || 
+|| [The Library at Tham Mírdain] || Lib || Eregion || 50-65 || 미로벨의 반지 대장간 근처에 있는 고대 도서관 || 
+|| [The School in Tham Mírdain] || School || Eregion || 50-65 || 미로벨의 반지 대장간 근처에 있는 고대 학교 || 
+|| [The Forgotten Treasury] || FT || The Silvertine Lodes || 54-56 || A Treasure-vault infiltrated by Uruks from Dol Guldur || 
+|| [The Grand Stair] || GS || The Redhorn Lodes || 56-58 || Complete Challenge Mode for extra medallions of Moria (radiance gear) || 
+|| [The Sixteenth Hall] || 16th || Nud-melek || 58-60 || Complete Challenge Mode for extra medallions of Moria (radiance gear) || 
+|| [The Forges of Khazad-dum] || Forges || The Flaming Deeps || 58-60 || Complete Challenge Mode for extra medallions of Moria (radiance gear) || 
+|| [Fil Gashan] || FG || The Flaming Deeps || 58-60 || Complete Challenge Mode for extra medallions of Moria (radiance gear) || 
+|| [Halls of Crafting] || HoC || The Flaming Deeps || 58-60 || Complete Challenge Mode for extra medallions of Lothlórien (radiance gear) || 
+|| [The Dark Delving] || DD || The Foundations of Stone || 58-60 || Complete Challenge Mode for extra medallions of Moria (radiance gear) || 
+|| [Skûmfil] || Skum || The Foundations of Stone || 58-60 || Complete Challenge Mode for extra medallions of Moria (radiance gear) || 
+|| [The Mirror-halls of Lumul-nar] || HoM || Zirakzigil || 59-60 || Complete Challenge Mode for extra medallions of Lothlórien (radiance gear) || 
+|| [The Water Wheels: Nalâ-dûm] || WW || The Water-works || 59-60 || Complete Challenge Mode for extra medallions of Lothlórien (radiance gear) || 
+|| [The Battle of Lórien] || BoL || Lothlórien || 58-60 || Defend the Golden Wood from the Orcs of Moria || 
+|| [Sword-hall of Dol Guldur] || SH || Dol Guldur || 63-65 || Fight all champions at once for extra medallions of Dol Guldur (radiance gear) || 
+|| [Dungeons of Dol Guldur] || Dungeons || Dol Guldur || 63-65 || Free prisoners for more medallions of Dol Guldur (radiance gear) || 
+|| [Warg-pens of Dol Guldur] || WP || Dol Guldur || 63-65 || Let the wargs eat all meat slabs for extra medallions of Lothlórien (radiance gear) || 
+|| [Sammath Gûl] || SG || Dol Guldur || 63-65 || Complete Challenge Mode for extra medallions of Dol Guldur (radiance gear) || 
+|| [Lost Temple] || N/A || Trollshaws || 65 || Released with Update 2: Echoes of the Dead. || 
+|| [Glacier Fortress] || N/A || Forochel || 65 || Released with Update 2: Echoes of the Dead. || 
+|| [Northcotton Farms] || NF || Evendim || 65 || Released with Update 2: Echoes of the Dead. || 
+|| [Stoneheight] || N/A || North Downs || 65 || Released with Update 2: Echoes of the Dead. ||

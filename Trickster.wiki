@@ -1,0 +1,73 @@
+ * 상위항목 : [[미즈키 나나/음반 목록]]
+
+attachment:mizukinana_18th_single.jpg
+
+[[목차]]
+== 개요 ==
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|208544421/20090716010700820015901001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|208544421/20090716010700820015901001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>}}}
+
+PV 영상
+
+[[미즈키 나나]]의 18번째 싱글이자 그 표제곡으로, [[2008년]] [[10월 1일]]에 싱글이 발매되었다. 이전 싱글인 [[STARCAMP EP]] 이후 8개월 만에 낸 싱글로, 개인 통산 세 번째로 오리콘 주간 차트 2위를 기록하였다.
+
+타이틀곡 Trickster는 지상파 음악방송에 출연하여 부른 자신의 첫 곡이기도 하다. 발매 직후에 열린 좌장공연의 추첨권이 동봉된 싱글로 중복 구매가 많아 전후의 싱글들에 비해 첫주 판매량이 15000장 이상 많았고 2012년 7월까지 최고 싱글 초동을 유지하였다(오리콘 집계상).
+
+2번 트랙인 DISCOTHEQUE과 3번 트랙 Trinity Cross는 각각 [[로자리오와 뱀파이어]] CAPU2의 오프닝곡과 엔딩곡으로 쓰였다. 
+
+== 수록곡 목록 ==
+|| '''트랙''' || '''곡명''' ||
+|| 1 || Trickster ||
+|| 2 || DISCOTHEQUE || 
+|| 3 || Trinity Cross || 
+
+== [[리듬게임]]에서의 Trickster ==
+[[코나미]]사의 [[리듬게임]]인 [[기타프릭스&드럼매니아]], [[댄스 댄스 레볼루션]]에 수록되었다. 이 후에 --망겜--[[기타프릭스 XG3 & 드럼매니아 XG3]]의 [[ETERNAL BLAZE]]와 [[유비트 소서]]의 [[Synchrogazer]]로 이어지는 [[BEMANI 시리즈]] 수록의 신호탄이 된 곡이라고 할 수 있다.
+=== [[댄스 댄스 레볼루션]] ===
+[[댄스 댄스 레볼루션]] X부터 수록되었다. 원곡을 사용했지만 BGA에 뮤직 비디오는 사용되지 않았다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/ARbGHUBGISk?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ARbGHUBGISk?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+EXPERT 풀콤보 영상
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 9}}} || {{{#purple -}}} ||
+||<|3> (60-)174|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 11}}} || {{{#purple -}}} ||
+
+=== [[기타프릭스&드럼매니아]] ===
+XG/V7부터 수록되었다. --어딘지 미묘한-- 커버 보컬에서의 수록이 되었다. DDR판에는 존재하는 최후의 보컬 솔로의 부분은 기타프릭스와 드럼매니아에서는 연주하는 파트가 없기 때문인지 통째로 짤렸다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/ykyw38wJH30?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ykyw38wJH30?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+순서대로 [[기타프릭스]], [[드럼매니아]] EXTREME 보면 영상 (단, 베이스는 ADVANCED)
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/_JxStTRJTiA?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_JxStTRJTiA?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+[wiki:"기타프릭스&드럼매니아 XG"기타프릭스 XG] EXPERT 플레이 영상
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/DPl-1UcNB-4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DPl-1UcNB-4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+[wiki:"기타프릭스&드럼매니아 XG"드럼매니아 XG] EXPERT 풀콤보 영상
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||| [wiki:"기타프릭스%26드럼매니아 XG" XG] 난이도 체계 ||
+||<|5><:> 174 ||<|2><:> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} ||
+|| {{{#green 14}}} || {{{#orange 27}}} || {{{#red 50}}} ||<|2><:> {{{#blue 2.00}}} ||<|2><:> {{{#orange 3.20}}} ||<|2><:> {{{#red 5.40}}} ||
+|| 기타 오픈픽 || {{{#green 16}}} || {{{#orange 29}}} || {{{#red 53}}} ||
+|| 기타 베이스 || {{{#green 12}}} || {{{#orange 33}}} || {{{#red -}}} || {{{#blue 1.95}}} || {{{#orange 3.40}}} || {{{#red 4.80}}} || 
+|| 드럼매니아 || {{{#green 15}}} || {{{#orange 34}}} || {{{#red 64}}} || {{{#blue 1.25}}} || {{{#orange 3.00}}} || {{{#red 6.10}}} || 
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 174 ||<|2><:> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 1.70}}} || {{{#orange 4.00}}} || {{{#red 5.95}}} ||
+|| 기타 베이스 || {{{#blue 2.85}}} || {{{#orange 4.20}}} || {{{#red 5.45}}} ||
+|| 드럼매니아 || {{{#blue 1.00}}} || {{{#orange 3.75}}} || {{{#red 6.95}}} ||

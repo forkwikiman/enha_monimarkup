@@ -1,0 +1,205 @@
+ * 상위항목: [[히어로즈 오브 더 스톰]]
+ * 이 문서는 [[히오스 영웅]], [[히오스/영웅]]으로 들어올 수 있다.
+
+[[목차]]
+
+== 전사 (Warrior) ==
+||<table align=center><#0a053f> attachment:role_warrior.png ||
+
+>근접 전투에 뛰어들어 피해를 흡수하며 반격을 가할 수 있습니다.
+
+주로 체력이 높은 근접전 위주의 영웅들이며, 타 역할군에 비해 높은 체력에 강력한 화력이나 위협적인 군중 제어기를 가지고 있어서 전투에서 적군의 화력을 받아내고 진형을 붕괴시키는 역할을 맡는다. 다른 역할군은 근접/원거리가 나뉘지만 현재 전사는 모조리 근접만 있다.
+
+아직 이 분류에는 스타크래프트 출신 영웅이 없다. 아무래도 다른 두 세계관에 비해 첨단 무기 위주로 발전된 세계관이라 전사 느낌의 캐릭터가 몇 없는 데다, 근접유닛의 수도 손에 꼽을 정도로 적은 게 원인으로 보인다. 추가될 만한 캐릭터도 [[피닉스(스타크래프트)|피닉스]]와 [[원시 저그]] 우두머리인 [[데하카]] 정도로 손에 꼽힌다. 나올 가능성이 가장 높고, 또 팬들이 가장 기대하는 캐릭터는 단연 [[피닉스(스타크래프트)|피닉스]]. 아니면 해머상사처럼 원작에는 없지만 히오스 전용으로 창작한 유닛 캐릭터가 등장할 수도 있다.
+--[[http://inven.co.kr/board/powerbbs.php?come_idx=3903&iskin=hos&l=25749 사실 팔뚝이 굵은 레이너도 전사라 카더라.]]--
+
+||<table width=100%><tablebgcolor="#ccffff"><#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/564/65/65/icon.png?width=100% ||<width=27%> [[누더기|'''누더기''', 어둠골의 공포]][[BR]]'' '''Stitches''', Terror of Darkshire'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[누더기골렘]] ||<#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/548/65/65/icon.png?width=100% ||<width=27%> [[디아블로(히어로즈 오브 더 스톰)|'''디아블로''', 공포의 군주]][[BR]]'' '''Diablo''', Lord of Terror'' || [[디아블로 시리즈|attachment:UniverseDiabloS.png]][[BR]][[디아블로(디아블로 시리즈)|디아블로]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/556/65/65/icon.png?width=100% || [[무라딘(히어로즈 오브 더 스톰)|'''무라딘''', 산왕]][[BR]]'' '''Muradin''', Mountain King'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[무라딘 브론즈비어드]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/624/65/65/icon.png?width=100% || [[아눕아락(히어로즈 오브 더 스톰)|'''아눕아락''', 배신자 왕]][[BR]]'' '''Anub'arak''', Traitor King'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[아눕아락]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/572/65/65/icon.png?width=100% || [[아서스(히어로즈 오브 더 스톰)|'''아서스''',  리치 왕]][[BR]]'' '''Arthas''', The Lich King'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[아서스 메네실]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/316/287/65/65/icon.png?width=100% || [[소냐(히어로즈 오브 더 스톰)|'''소냐''', 떠도는 야만용사]][[BR]]'' '''Sonya''', Wandering Barbarian'' || [[디아블로 시리즈|attachment:UniverseDiabloS.png]][[BR]][[야만용사]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/540/65/65/icon.png?width=100% || [[정예 타우렌 족장|'''정예 타우렌 족장''', 록의 신]][[BR]]'' '''E.T.C.''', Rock God'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[타우렌 족장들]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/613/65/65/icon.png || [[첸(히어로즈 오브 더 스톰)|'''첸''', 전설의 양조사]][[BR]]'' '''Chen''', Legendary Brewmaster'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[첸 스톰스타우트]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/531/65/65/icon.png?width=100% || [[티리엘(히어로즈 오브 더 스톰)|'''티리엘''', 정의의 대천사]][[BR]]'' '''Tyrael''', Archangel of Justice'' || [[디아블로 시리즈|attachment:UniverseDiabloS.png]][[BR]][[티리엘]] || 　 || 　 || 　 ||
+
+== 암살자 (Assassin) ==
+||<table align=center><#400001> attachment:role_assassin.png ||
+
+>적에게 막대한 피해를 주고 적을 급습하는데 능하지만, 그만큼 적들도 이를 갈고 있으니 전투에 신중하게 돌입해야 합니다.
+
+생명력은 허약하지만 강한 공격력과 위력적인 기술 조합으로 전투를 유리하게 이끌어 나간다. 대부분의 원거리형 영웅들이 여기에 속해 있지만 근접 딜러 또한 꽤 속해 있다. 다른 게임에서는 마법사, 주 공격수, 암살자 등으로 분리되었을 역할들이 전부 암살자 역할군으로 묶여있는데, 이런 다양한 역할을 '암살자'라는 이름으로 합치니 어색한 감도 있다.[* 많은 사람들에게 익숙한 도타나 롤 방식의 분류를 해 본다면 노바와 제라툴은 정통파 암살자, 레이너/발라/폴스타트/타이커스는 주 공격수, 제이나는 전형적인 누킹형 마법사, 일리단은 근접형 평타캐리, 스랄과 케리건은 AD캐스터로 볼 수 있을 것이다.]
+
+스타크래프트 2의 주연 삼인방인 [[짐 레이너]], [[사라 케리건]], [[제라툴]]은 물론 인기있는 테란 영웅 타이커스와 노바가 전부 여기에 있다. 유독 스타크래프트 출신 영웅의 강세가 두드러지는 역할군.
+
+||<table width=100%><tablebgcolor="#ccffff"><#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/489/65/65/icon.png?width=100% ||<width=27%> [[노바(히어로즈 오브 더 스톰)|'''노바''', 자치령 유령]][[BR]]'' '''Nova''', Dominion Ghost'' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[노바 테라]] ||<#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/389/65/65/icon.png?width=100% ||<width=27%> [[레이너(히어로즈 오브 더 스톰)|'''레이너''', 반란군 사령관]][[BR]]'' '''Raynor''', Renegade Commander'' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[짐 레이너]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/498/65/65/icon.png?width=100% || [[발라(히어로즈 오브 더 스톰)|'''발라''', 악마사냥꾼]][[BR]]'' '''Valla''', Demon Hunter'' || [[디아블로 시리즈|attachment:UniverseDiabloS.png]][[BR]][[악마사냥꾼]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/243/449/65/65/icon.png?width=100% || [[스랄(히어로즈 오브 더 스톰)|'''스랄''', 호드의 대족장]][[BR]]'' '''Thrall''', Warchief of the Horde '' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[스랄]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/455/65/65/icon.png?width=100% || [[일리단(히어로즈 오브 더 스톰)|'''일리단''', 배신자]][[BR]]'' '''Illidan''', The Betrayer'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[일리단 스톰레이지]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/522/65/65/icon.png?width=100% || [[제라툴(히어로즈 오브 더 스톰)|'''제라툴''', 암흑 정무관]][[BR]]'' '''Zeratul''', Dark Prelate'' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[제라툴]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/202/114/65/65/icon.png?width=100% || [[제이나(히어로즈 오브 더 스톰)|'''제이나''', 대마법사]][[BR]]'' '''Jaina''', Archmage'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[제이나 프라우드무어]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/472/65/65/icon.png?width=100% || [[케리건(히어로즈 오브 더 스톰)|'''케리건''', 칼날 여왕]][[BR]]'' '''Kerrigan''', Queen of Blades'' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[사라 케리건]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/441/65/65/icon.png?width=100% || [타이커스(히어로즈 오브 더 스톰)|'''타이커스''', 악명 높은 범죄자]][[BR]]'' '''Tychus''', Notorious Outlaw'' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[타이커스 핀들레이]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/463/65/65/icon.png?width=100% || [[폴스타트(히어로즈 오브 더 스톰)|'''폴스타트''', 와일드해머 영주]][[BR]]'' '''Falstad''', Wildhammer Thane'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[폴스타트 와일드해머]] ||
+
+== 지원형 (Support) ==
+||<table align=center><#14353c> attachment:role_support.png ||
+
+>아군을 치유하거나 강화 효과를 부여하거나 전장을 혼란시켜서 전투의 흐름을 아군에게 유리하게 이끕니다.
+
+각종 지원 기술과 치유 기술 등으로 아군의 생존과 전투를 돕는 영웅. 이 역할군에 속해있는 영웅들은 타인에게 힐 또는 보호막을 걸어주는 스킬을 가지고 있다는 공통점이 있다. 물론 특성에 따라 암살자처럼 공격력을 올리거나 전사로 키울 수도 있다.[* 힐러 + 세미탱커/딜러 같은 하이브리드 형태를 갖추는 케이스가 많다. 전력질주가 있던 시절의 우서는 이니시에이팅까지 우월해서 사실상 탱커와 다름이 없었고, 티란데 같은 경우는 제약과 조건 들이 있지만 딜링 포텐셜도 높다. 빛나래 같은 경우는 글로벌 이동기를 확보해서 준 전문가 급의 맵 컨트롤이 가능하다는 점에서 힐러/전문가 하이브리드 포지션이라고 해석될 수도 있다. 테사다르는 스킬을 끊을 스턴급 스킬만 없다 뿐이지 특성을 찍는 방법에 따라서 어떤 포지션도 가능한 올라운드급 하이브리드라고 까지 볼 수 있다.]
+
+아직까지 이 분류군에 디아블로 세계관 출신 영웅은 존재하지 않는다. 디아블로 시리즈는 탱커와 서포터를 단정짓지 않는 게임성을 추구하기 때문에 이 분류군에 포함될 만한 영웅이 많지 않기 때문이다.
+
+사실 이 분류군에 들어가는 영웅은 대다수가 워크래프트 출신[* 2015.02.10 기준 워크래프트 영웅이 아닌 지원가는 [태사다르(히어로즈 오브 더 스톰)|태사다르] 뿐이다. 사실 테사다르도 보호막 스킬만 아니었으면 암살자나 전문가로 끌려갔을 가능성이 매우 높다.]이다. 워크래프트 시리즈가 다른 두 시리즈보다 세계관이 크고 시리즈의 역사도 더 깊은데다, 게임 세계관 특성상 자연스럽게 다양한 역할군이 등장할 수 있기 때문에 지원가 영웅이 많을 수 있는 것. 특히 [월드 오브 워크래프트]는 아예 치유사 직업군이 특화되어 있지만 디아블로나 스타크래프트에는 치료 기술을 가진 유닛이나 캐릭터가 드문 편이라 그런 현상이 더 심해진 것으로 보인다. ~~[[이곤 스텟먼]]을 기대해보자~~
+
+||<table width=100%><tablebgcolor="#ccffff"><#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/605/65/65/icon.png ||<width=27%> [[레가르(히어로즈 오브 더 스톰)|'''레가르''', 대지 고리회 주술사]][[BR]]'' '''Rehgar''', Shaman of the Earthen Ring'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[레가르 어스퓨리]] ||<#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/372/65/65/icon.png?width=100% ||<width=27%> [[리 리(히어로즈 오브 더 스톰)|'''리 리''', 세계 유랑자]][[BR]]'' '''Li Li''', World Wanderer'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[리 리 스톰스타우트]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/505/65/65/icon.png?width=100% || [[말퓨리온(히어로즈 오브 더 스톰)|'''말퓨리온''', 대드루이드]][[BR]]'' '''Malfurion''', Archdruid'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[말퓨리온 스톰레이지]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/581/65/65/icon.png?width=100% || [[빛나래|'''빛나래''', 요정용]][[BR]]'' '''Brightwing''', Faerie Dragon'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[페어리 드래곤|요정용]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/432/65/65/icon.png?width=100% || [[우서(히어로즈 오브 더 스톰)|'''우서''', 빛의 수호자]][[BR]]'' '''Uther''', The Lightbringer'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[빛의 수호자 우서]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/416/65/65/icon.png?width=100% || [[태사다르(히어로즈 오브 더 스톰)|'''태사다르''', 기사단의 구원자]][[BR]]'' '''Tassadar''', Savior of the Templar'' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[태사다르]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/424/65/65/icon.png?width=100% || [[티란데(히어로즈 오브 더 스톰)|'''티란데''', 엘룬의 대여사제]][[BR]]'' '''Tyrande''', High Priestess of Elune'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[티란데 위스퍼윈드]] || 　 || 　 || 　 ||
+== 전문가 (Specialist) ==
+||<table align=center><#330231> attachment:role_specialist.png ||
+
+>보다 특화된 역할로 팀에 또 다른 개성을 부여합니다.
+
+위의 세 부류(전사/암살자/지원가)에 포함되지 않으며 특이하고 개성적인 능력을 가지고 있는 영웅들이다. 게임 내 실제적인 역할은 주로 아군의 보조나 공성 역할 등을 맡는다. 대부분이 게임의 흐름에 큰 영향을 끼칠 수 있기 때문에 높은 수준의 이해도와 눈치가 필요하다. 
+
+주로 영웅대미지보다는 공성대미지를 효율적으로 가하는데 특화되어 있으며, 영웅대미지를 잘 뽑을 수 있는 영웅들 조차도 기본 활용은 돌격병이나 건물을 부수는 공성전 컨셉인게 돋보인다. 영웅 대 영웅의 정면승부 보다는 얼마나 각 라인의 공격 상태나 아군/적군의 영웅 동선관리를 잘 하느냐, 유리한 구도로 경험치 획득이나 교전을 잘 이끌어내느냐 등으로 게임을 풀어나가는 역할로 볼 수 있다.
+
+스타 셋, 워크 셋, 디아 둘, 클래식 1로 세계관 비율이 가장 잘 맞는 역할군이기도 하다. 참고로 전사에는 스타 영웅이 없고, 암살자에는 디아블로 영웅이 하나에 불과하며, 지원가는 워크래프트 영웅이 대부분이다.
+
+||<table width=100%><tablebgcolor="#ccffff"><#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/408/65/65/icon.png?width=100% ||<width=27%> [[가즈로(히어로즈 오브 더 스톰)|'''가즈로''', 톱니항 두목]][[BR]]'' '''Gazlowe''', Boss of Ratchet'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[가즈로]] 
+||<#6ebed4> http://www.heroesfire.com/images/wikibase/icon/heroes/the-lost-vikings.png?width=100% ||<width=27%> [[길 잃은 바이킹(히어로즈 오브 더 스톰)|'''길 잃은 바이킹''', 답 없는 삼형제]][[BR]]'' '''The Lost Vikings''', Triple Trouble '' || [[블리자드|attachment:UniverseBlizzardS.png]][[BR]][[로스트 바이킹]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/398/65/65/icon.png?width=100% || [[나지보|'''나지보''', 이교도 부두술사]][[BR]]'' '''Nazeebo''', Heretic Witch Doctor'' || [[디아블로 시리즈|attachment:UniverseDiabloS.png]][[BR]][[부두술사]] ||<#6ebed4><width=64px> http://media.heroesnexus.com/avatars/thumbnails/113/589/65/65/icon.png?width=100% || [[머키|'''머키''', 아기 멀록]][[BR]]'' '''Murky''', Baby Murloc'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[멀록]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/316/474/65/65/icon.png?width=100% || [[실바나스(히어로즈 오브 더 스톰)|'''실바나스''', 밴시 여왕]][[BR]]'' '''Sylvanas''', The Banshee Queen'' || [[워크래프트|attachment:UniverseWarcraftS.png]][[BR]][[실바나스 윈드러너]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/380/65/65/icon.png?width=100% || [[아바투르(히어로즈 오브 더 스톰)|'''아바투르''', 진화 군주]][[BR]]'' '''Abathur''', Evolution Master'' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[아바투르]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/633/65/65/icon.png || [[아즈모단(히어로즈 오브 더 스톰)|'''아즈모단''', 죄악의 군주]][[BR]]'' '''Azmodan''', Lord of Sin'' || [[디아블로 시리즈|attachment:UniverseDiabloS.png]][[BR]][[아즈모단]] ||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/597/65/65/icon.png?width=100% || [[자가라(히어로즈 오브 더 스톰)|'''자가라''', 군단의 무리어미]][[BR]]'' '''Zagara''', Broodmother of the Swarm '' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[자가라]] ||
+||<#6ebed4> http://media.heroesnexus.com/avatars/thumbnails/113/513/65/65/icon.png?width=100% || [[해머 상사|'''해머 상사''', 공성 전차 전차장]][[BR]]'' '''Sgt. Hammer''', Siege Tank Operator '' || [[스타크래프트|attachment:UniverseStarcraftS.png]][[BR]][[크루시오 공성 전차]] || 　 || 　 || 　 ||
+
+== 기타 출전이 확인된 영웅 ==
+=== [[디아블로 시리즈]] ===
+ * [[도살자]]
+ http://i.imgur.com/KghjxlC.jpg
+ 블리즈컨 2014에서 해골왕과 성전사와 같이 모델링이 공개 되었다. 똑같은 갈고리 기술을 가진 [[누더기]]와 어떻게 차별화될지가 주안점이며, 개발진도 도살자가 "빨간 누더기"가 되지 않도록 신경쓰고 있다는 언급이 있다.
+ 이후 2015년 2월 14일날에 열린 히어로즈 데이에서 새로운 정보가 공개되었다. 근접 암살자로 정해졌으며, 약자멸시형 암살자 컨셉으로 잡혀졌고, 일반 공격이 주가 되게 가닥을 잡고 있다고 하였다. 디아블로 3보다 디아블로 1의 느낌을 받을 수 있다고 하였으며 차별을 위해 갈고리를 가지지 않는다고 한다.
+
+ * [[성전사]]
+ http://i.imgur.com/CFmsvPY.jpg
+ 도살자와 해골왕과 함께 블리즈컨 2014에서 공개되었다.
+ 마찬가지로 히어로즈 데이에서 정보가 공개되었다. 전사형 영웅으로 확정되었으며, 방패를 이용한 튼튼한 탱킹 능력과 상대 군중제어기를 무시하는 능력을 갖을 것이라고 한다. 대신 성전사 본인도 군중 제어기가 없을 것이라고 한다.
+ 이름은 공홈에 올라온 여성 성전사 소설의 주인공 '아나진'으로 나올 듯.
+ 블자에서 새로 공개한 정보[* '전사. 치명적인 공격을 받았을 때 엄청난 보호막이 생긴다.' 디아3의 성전사에 동일한 능력을 가진 패시브 스킬이 존재한다. 피닉스도 설정으로는 어느 정도 해당되기는 하지만 해당 기술이 기존의 스킬로 존재하는데다 모델링까지 이미 공개된 성전사보다는 가능성이 낮다.]에 따르면 실바나스 다음으로 들어올 영웅일 가능성이 높아보인다.
+
+ * [[레오릭 왕]]
+ http://i.imgur.com/ZPcSrC5.jpg
+ 성전사와 도살자와 함께 블리즈컨 2014에서 공개 되었다.
+ 마찬가지로 히어로즈 데이에서 정보가 공개되었다. 캐릭터 컨셉에 맞게 죽음과 관련된 능력을 갖게 된다고 하며 우서나 티리엘처럼 죽은 뒤에도 도움이 되는 능력을 가질 것이라고 한다.
+
+ * '''[[데커드 케인]]'''
+ 놀랍게도 히어로즈에 합류할 것이라고 개발진이 직접 언급하였다. 만우절 장난인 [http://kr.blizzard.com/ko-kr/games/outcasts/ 블리자드의 낙오자들]에 나왔었는데..?
+
+ * [[메피스토]], [[바알]]
+ 디아블로의 상호작용 중 별도의 '형제 악마'로 구분된 것이 존재하는 것으로 보아 향후 출전을 짐작할 수 있다.
+
+ * [[아마존(디아블로 2)|아마존]], [[네크로맨서(디아블로 2)|네크로맨서]], [[드루이드(디아블로 2)|드루이드]]
+ 개발진의 인터뷰에서 언급하였다.
+
+ * [[임페리우스]]
+ 블리자드 도타 당시 언급된 적이 있으며, 티리엘 세라핌 스킨 스토리에 연관되고 있다. 스킨 스토리에 언급된 캐릭터는 다른 스킨과 함께 등장하고 있으므로 향후 출전될 것으로 예상된다.
+
+=== [[스타크래프트]] 시리즈 ===
+ * [[아르타니스]] 
+ 정찰기~~쓰레기~~, 모선--쓰레기2--만 타고 있었지 직접 칼질하거나 사이오닉 쓰는 게임 내의 모습이 없기 때문에 어떤 식으로 나올지 불확실했으나, 공허의 유산에서 그의 전투 묘사가 나오면서 고위 기사답게 사이오닉 폭풍을 쓰면서도, 광전사 같이 사이오닉 검으로 육탄전도 치르는 캐릭터로 등장할 것으로 보인다. ~~이제 [[셀렌디스|플토]] [[라사라|여캐]]만 나오면 된다~~
+
+ * [[피닉스(스타크래프트)|피닉스]]
+ 아직 밝혀지진 않았지만, 아마 광전사 버전으로 출현할 확률이 높으며 전사 영웅으로 추정된다. ~~궁극기로 용기병 변신은 아니겠지~~ ~~그건 변신이 아니라 자살이다~~ ~~궁극기가 사망 뒤 용기병으로 부활이라면?! 충공깽~~
+
+ * [[셀렌디스]]
+ 중국 히오스 공홈의 차기 영웅 선호도 투표 목록에 있었다.
+
+ * [[호러스 워필드]]
+ 블리즈컨 2011 공개 버전에서는 [[크루시오 공성 전차|공성 전차]]였으나, 공성 전차 영웅은 해머 상사로 교체되고 호러스 워필드는 다른 모습으로 등장할 예정이라고 한다. 이와 관련한 해머 상사의 대사도 있다. 워필드가 마음에 안드는 듯 비난하는 대사다(…). --핵죽빵의 사나이가 탱크 탄다고 징징대던 사람들은 기뻐했다.-- 호러스 워필드가 등장한다면 많은 플레이어에게 인상을 주었던 로봇 팔을 단 버전으로 등장할 가능성이 높다. 성우가 바뀌지 않는다면 발라, 티란데, 자가라를 맡은 [[이계윤]] 성우처럼 [[민응식]] 성우도 배역이 세 개 겹치게 된다.
+
+ * [[아크튜러스 멩스크]]
+ 전문가 영웅으로 추정된다고 한다. 이 인간의 이미지로 볼 때 아바투르처럼 기지에 짱박혀서 다른 팀원이나 맵에 이것저것을 하는 영웅인 듯. 데이터 상에 존재하는 멩스크의 기술들은 ~~언플 / 배신 / 고기방패~~ 보험 정책 / 현상금 / 선전기 / 사이오닉 방출기이다. 아무래도 정치가답게, 그리고 한 종족세력의 수장답게 아군(기술 이름으로 보아 아군 돌격병들이 대상이 될 듯 하다.) 들에게 버프를 걸고, 적에게 디버프를 거는 역할로 추측된다. --[http://www.inven.co.kr/board/powerbbs.php?come_idx=3903&l=79884 패시브가 공개되었다 카더라]--
+
+ * [[데하카]]
+ [[아바투르(히어로즈 오브 더 스톰)|아바투르]]에게 관련 대사가 존재한다. 근접 암살자나 전사가 될 가능성이 높다. [[군단의 심장]]에서의 스킬은 납치~~\~, 분신 생성, 치유였지만 케리건처럼 [[군단의 심장]]과는 다른 새로운 스킬들이 부여될 가능성이 높다.
+
+ * [[가브리엘 토시]]
+ 유출된 대사집을 보면 이 캐릭터에 대한 대사 역시 수록되어 있다. 69명의 영웅들이 있는 대사집에 이 캐릭터의 대사가 있다는 것을 보면 반참전 확정. 게다가 부두술사의 대사 중에 이 남자의 목소리가 들어있다.
+
+ * [[초월체]]
+ 태사다르의 데이터에 있는 대사를 통해 향후 출전을 짐작할 수 있다. 원작에서는 건물이나 맵의 일부인 형태로만 등장했기 때문에, 팬들은 아바투르처럼 본진에서 고정된 형태이거나 차원이동을 하는 형태, 아니면 아예 맵의 일부로 나오는 형태 등으로 추측한다. [http://www.inven.co.kr/board/powerbbs.php?come_idx=3909&l=186 #] 레딧에서 진행되었던 개발진 인터뷰에 따르면, 데스윙, 주르반, 초월체, 요그사론등 거대 몸집의 영웅들도 추가하는 것을 배제하지 않고 있다고 하니, 언젠가 추가될 날을 기대해보도록 하자. ~~더불어 이 [[벨리알(디아블로)|사기꾼]]도 거대보스 버전으로 나올지도~~
+
+ * [[주르반]]
+ 개발진의 인터뷰에서 초월체, 데스윙과 함께 언급됐다.
+
+=== [[워크래프트]] 시리즈 ===
+ * [[캘타스 선스트라이더]]
+ http://i.imgur.com/nmPfeJx.png
+ 제이나가 냉기 마법사 특성으로 나왔고, 2014년 말의 제작진 인터뷰에서 "화염작렬이 기대된다." 라고 하는 것을 미루어 볼때 화염 특성 마법사로 나올것으로 여겨진다.~~탈것으로 알라르가 나올것 같다~~ ~~남은건 비전인데… 로닌이 가지고 나오려나?~~ --디3 여법이 있는데..?--
+
+ * [[겔빈 멕카토크]]
+http://i.imgur.com/4mWFmYA.png
+ [[플라잉 머신|비행기]]를 탄 모습으로 2015년 중에 참전할 예정이다.
+
+ * [[렉사르]]
+http://img2.wikia.nocookie.net/__cb20140414091102/heroesofthestorm/images/8/8a/Rexxar_Heroes_Rend1.jpgwidth=200&height=200
+
+ * [[초갈]]
+http://i.imgur.com/Px91ybh.png
+ 모델링을 보면 [[황혼의 망치단]] 단장으로서의 모습으로 출전하는 듯하다.
+
+ * [[줄진]]
+http://i.imgur.com/pUAmliX.png
+ 마지막으로 공개된 모델링은 2차 대전쟁 당시의 모습이다.
+
+ * [[검귀]]
+http://img3.wikia.nocookie.net/__cb20131024230212/heroesofthestorm/images/f/f7/ZaMuro_SC2_DevRend1.jpgwidth=200&height=200
+ 워크래프트 3 캠페인에 출연했던 네임드 검귀 "사무로"로 출전한다.
+
+ * [[마이에브 섀도송]]
+ 인게임 데이터가 존재하며 일리단에게 관련 대사가 남아있다.
+
+ * [[바리안 린]]
+ 인게임 데이터가 존재한다.
+
+ * [[켈투자드]]
+ 인게임 데이터가 존재한다. 허나 강령술사 버전으로 나올지 리치 버전으로 나올지는 불명.
+
+ * [[여군주 바쉬]]
+ 인게임 데이터가 존재한다.
+
+ * [[세나리우스]]
+ 인게임 데이터가 존재한다.
+
+ * [[라그나로스]]
+ 데이터에 관련 대사가 존재한다.
+
+ * [[아즈샤라]]
+ 일리단, 티란데에게 관련 대사가 남아있다.
+
+ * [[샨드리스 페더문]]
+ 티란데에게 관련 대사가 남아있다.
+
+ * [[데스윙]]
+ 데이터에 관련 대사가 존재한다. --[[데스윙의 등|맵]]으로 나올 것 같기도.--
+
+ * [[브란 브론즈비어드]]
+ 무라딘에게 관련 대사가 존재한다.
+
+ * [[고블린 셰퍼|고블린 공병]]
+ 가즈로에게 관련 대사가 존재한다. [[도타 2]]에 [[기술단]]이 있듯이 영웅으로 나올 여지는 충분하다.
+
+ * [[굴단]]
+ 일리단의 대사 중에 굴단 처치 대사가 있다.
+
+ * [[그롬마쉬 헬스크림]] 
+ 티란데의 대사 중에 그롬 처치 대사가 있다. 가로쉬와 [[피의 울음소리|무기]]를 공유하는데 서로 스킨으로 나올지 별개의 영웅으로 나올지는 불명. 다만 가로쉬와 그롬은 전혀 다른 스타일의 전사다 보니 다른 영웅으로 나올 거라고 보는 의견이 많다.
+
+=== 블리자드 클래식 시리즈 ===
+ * 카일 [[블랙쏜]]
+개발진이 진행한 AMA에서 데커드 케인과 함께 추가될 영웅으로 언급되었다. 본격적인 작업을 시작하지는 않았지만 대략적인 컨셉은 잡힌 상황이라고. [http://heroesofthestorm.blizzpro.com/2014/12/05/heroes-storm-ama-transcript/ #]
+
+ * [[락앤롤 레이싱]]
+PAX 2014 인터뷰에서 더스틴 브라우더가 다른 클래식 프랜차이즈와 함께 긍정적으로 언급했으나, 이후 특별한 정보는 나오지 않은 상태이다. 
+
+=== 그 외 ===
+게임스컴 2014에서의 발표에 따르면 블리자드 IP가 아닌 캐릭터도 나올 가능성이 있다고 한다. 타사 IP 캐릭터의 참전을 의미하는지의 여부에 대해 말이 많았으나, 제작진의 발언은 타사 IP의 활용보다는 기존 3대 프랜차이즈에 속하지 않는 '시공의 폭풍' 출신의 오리지널 영웅이 출연할 수 있다는 것에 가깝다.
+
+http://i.imgur.com/RKAbyXN.jpg?width=640
+또한 차후 2014 블리즈컨에서 공개된 신작인 [[오버워치]]의 영웅들도 참전할 수 있다고 인터뷰에서 밝혔다. 다만 오버워치가 발매되기 전까진 기대하기 힘들 것이라고 한다. 베타 시점에서는 [[위도우메이커(오버워치)|위도우메이커]]와 [[트레이서]]의 핀업 아트가 [[타이커스(히어로즈 오브 더 스톰)|타이커스]]의 ~~어깨녀~~어깨 장식으로 등장.
+
+[[각주]]

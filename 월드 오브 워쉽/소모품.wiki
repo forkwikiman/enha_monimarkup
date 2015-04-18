@@ -1,0 +1,49 @@
+ * 아직 시스템에는 적용되지 않았지만 클라이언트 파일로 존재하기에 틀로 만들어 놓음.
+ * 현재 수리와 연막 등 기본적으로 제공되고 있는 소모품의 경우 기본 소모품, 이외의 경우 특이 소모품으로 분류함.
+
+[[목차]]
+
+== 개요 ==
+게임 [[월드 오브 워쉽]]에서의 소모품 아이템 일람.
+
+== 기본 소모품 ==
+현재 클로즈베타 기준 기본적으로 장착되는 소모품.
+
+=== 피해 복구반 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_crashcrew.png?witdh=550 || 모든 함선 || 손상된 장비를 수리하고 화재를 진압하고 침수 피해 복구를 빠르게 진행합니다. ||
+
+=== 연막 생성기 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_smokegenerator.png?witdh=550 || 구축함 || 군함 후방에 탐지 시야를 최소화 하는 연막을 생성합니다. ||
+
+=== 복구반 정비 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_regencrew.png?witdh=550 || 전함 || 경미한 피해를 복구하여 군함의 내구도를 부분적으로 회복시킵니다. ||
+
+=== 대공 방어 사격 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_airdefensedisp.png?witdh=550 || 6티어 이상의 순양함 || 일시적으로 대공포화 강도와 적 함재기를 명중할 확률을 높입니다.적 뇌격기와 폭격기의 명중률을 낮춥니다. ||
+
+=== 정찰기 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_scout.png?witdh=550 || 5티어 이상의 전함과 순양함 || 적 목표물을 탐지하는 거리를 늘여줍니다. ||
+
+== 특이 소모품 ==
+현재 시스템 상으로는 볼 수 없지만 클라이언트 파일 상으로 존재하는 소모품
+
+=== 주포 장전 속도 증가 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_artilleryboosters.png?witdh=550 || - || - ||
+
+=== 격납고 준비 속도 증가 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_hangarboosters.png?witdh=550 || - || - ||
+
+=== 어뢰 장전 속도 증가 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_torpedoboosters.png?witdh=550 || - || - ||
+
+=== 엔진 출력 증가 ===
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''아이콘'''}}}||<width=20%><#8258FA><:>{{{#white '''적용 함선'''}}}||<width=65%><:><#8258FA><:>{{{#white '''효과'''}}}||
+|| attachment:consumable_speedboosters.png?witdh=550 || - || - ||

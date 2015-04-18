@@ -1,0 +1,47 @@
+[[목차]]
+
+== [[눈]] (雪; 2번 항목) ==
+== [[에로게]] == 
+Studio Mebius에서 만든 에로게. [[SNOW(게임)]] 해당항목참조
+== [[레드 핫 칠리 페퍼스]]의 9집 Stadium Arcadium의 수록곡 Snow(Hey oh) ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/m5eoBcWvMwA" frameborder="0" allowfullscreen></iframe>}}}
+[[데스노트]] 영화판의 OST로 사용되기도 했다.
+
+== [[비트매니아 IIDX]]의 수록곡 ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/SIlPc4Tpo7Y&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SIlPc4Tpo7Y&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||<|2> 비고 ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+||<|2> 180 ||<|2> {{{#blue 5}}} ||<|2> {{{#blue 534}}} ||<|2> {{{#orange 7}}} ||<|2> {{{#orange 704}}} || {{{#red 9※}}} || {{{#red 877}}} ||<|2> {{{#blue 5}}} ||<|2> {{{#blue 598}}} ||<|2> {{{#orange 8}}} ||<|2> {{{#orange 762}}} || {{{#red 9※}}} || {{{#red 778}}} || AC 9th ~ 10th, CS 9th ||
+|| {{{#red 10}}} || {{{#red 1038}}} || {{{#red 10}}} || {{{#red 1037}}} || AC DJT 이후 ||
+
+ * ※표는 추정레벨임. (HAPPY SKY 난이도 체계 정립 이전에 삭제)
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 9th ~ 10th, 15 DJ TROOPERS ~
+ * 가정용판 수록 : 9th, 15 DJ TROOPERS
+
+작곡가는 [RAM(작곡가)|RAM]으로, [[장르]]는 [[드럼 앤 베이스]]. 일반적으로 사람들이 [[눈]](雪)에 대해 가지고 있는 서정적인 이미지와는 다르게 그야말로 혹한기의 폭설을 이미지한 듯한 냉혹하고 묵직함을 주 무기로 하는 악곡이다. 같은 게임 수록곡인 [[snow storm]], Let the Snow Paint Me, DDR의 수록곡 ever snow와는 정반대의 경향의 느낌.
+
+하이퍼 이하 채보는 그저 그런 난이도이지만, 어나더 채보가 10레벨 치고는 좀 어려운 편이다. 처음 나왔을 당시에도 어나더 채보는 있었지만, 곡이 삭제되었다가 DJ TROOPERS에서 부활하면서 데님부분을 제외한 곡 전반에 걸친 부분(변형계단과 특히 곡 후반부)에 살이 붙어 더 어려워졌다. 가장 큰 특징이라면 초중반의 꼬마 [[데님]]으로, 동레벨의 다른 곡에서는 잘 찾기 어려운 배치로([[STILL IN MY HEART]]에도 데님이 있긴 하다.)  여기서 게이지를 잘 깎아먹으며, 하드클리어에 큰 난관으로 다가온다. 후반부는 변형 [[계단]]을 제외하면 아주 어렵지는 않다.
+
+[[BGA]]는 [[MAX 300]], [[naughty girl@Queen's Palace]], [[eRAseRmOToRpHAntOM]]등이 사용한 [[범용 BGA]]로 레이어는 없다. 
+
+아케이드에서는 첫 등장이후 두 작품만에 삭제되었을 정도로 존재감은 크게 없었지만, DJ TROOPERS에서 부활하면서 어나더가 교체된 탓인지 CS에는 두 번 수록되었다. 
+
+여담으로 볼륨이 상당히 큰 곡이다. 이펙트를 켤 때 주의요망.
+
+=== 곡 코멘트 ===
+||RAM의 특기인 드럼 앤 베이스. 이번에도 윤곽이 뚜렷한 사이버 브레이크스가 작력합니다.
+왜곡된 브레이크 비트와 효과음인 신디가 합쳐져 상승과 하강을 되풀이해 베이스 라인이 회전해 가는 모습은 정말로 제트 코스터를 떠올리게 합니다.
+
+Sound / SLAKE
+
+테크노 음악에는, 곡명이 악곡의 주제나 이미지로부터 이름을 붙이지 않는 경우가 비교적 많다고 생각하지만, 이 곡은 어떨까요?
+
+직역하면 눈.
+내리기 시작하면 비보다도, 얼른 털어내는 것도 가능하고, 겉으로 보기엔 즐겁기도 하고, 그만큼 엄청난 영향도 없지만, 막상 눈이 내리고 얼어버리게 되면, 교통 기관은 마비되고 사고가 속출할 것이므로 큰 일이! 라는 패닉의 정도가 늘어가는 이미지를 떠올릴 수 있는 전개를 가진 곡이라고도 들리지만 실제로는 어떨까요.
+
+Movie / VJ GYO||

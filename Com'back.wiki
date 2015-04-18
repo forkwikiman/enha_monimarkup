@@ -1,0 +1,31 @@
+ *[펌프 잇 업/수록곡 일람]으로 돌아가기
+[[목차]]
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/DvQpq5KMqLo?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DvQpq5KMqLo?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/2nd" Pump It Up The 2nd Dance Floor]] ||
+|| 아티스트 |||| [[젝스키스]] ||
+|| BPM |||| 158 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| K-Pop / 1st ~ Perf ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 4[* Fiesta 新채보] / 6 / 8[* Prex 3에서 추가되었던 Crazy 채보. 해당 난이도는 최후 수록작인 Exceed 2 기준이지만, Fiesta 시리즈 기준으로 보아도 큰 차이는 없다.] / 8[* Fiesta EX 新채보] / 15 ||
+||<#009900> Double || 7 / 16 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+
+== 개요 ==
+1990년대 후반, 남성 아이돌 그룹 [[H.O.T]]와 함께 양대산맥을 이루었던 [[젝스키스]]의 곡. 펌프 잇 업의 곡들 중 일반인들에게 있어선 가장 대중적이라는데에 아무도 이견을 내지 않는 곡으로 펌프 잇 업을 대표하는 3대 국민곡 중 하나.
+
+3rd때 구곡 대량 삭제에 따라서 향후 Season Evolution버전까지는 삭제되어있다가, The Collection에서 부활. 이후 Rebirth, Pro 1, Pro 2 버전을 제외하고서는 삭제된 적이 없는 전통 깊은 장수곡이기도 하다.
+
+2nd 당시에는 난이도 6으로 당시 곡들 중에서는 상당한 난이도를 자랑했으나 펌프 자체의 매니악화가 진행됨에 따라 나중에는 초보곡으로 전락되었다. 하지만, 스텝 구성 자체는 초보들이 즐기기에 좋도록 배분이 알맞게 되어있고, 짜임새도 좋기에 매니아들 사이에서도 명채보로 인정받고 있다. 다만 후반의 가운데 발판을 축으로 하는 회전성 8분 스텝이 최난관이다. 그리고 추후에 Zero 새로이 추가 변경된 레벨 15의 Crazy채보와 레벨 16의 Nightmare채보는 폭타의 교과서라 인정받을 정도로 엄청난 인기를 구가했다.
+
+Prex 3에서 부활하였을 때 상술한 S15 스텝과는 다른 Crazy 채보가 수록되기도 했었는데 Hard 모드 채보에 살만 살짝씩 덧붙인 상당히 몰개성한 패턴으로 인해 묻혀 존재감이 거의 없다. 때문에 Zero시리즈에서 상술한 Lv.15채보로 교체되었다.
+
+여담으로 BGA가 차후에 화제가 되었는데 쌩뚱맞게 우주배경에 U.F.O가 나오는 등 뭔가 [우주전쟁]같은 걸 표현하고자 한 것 같지만, 휘끼휘끼하는 듯한 DJ 손도 나오고 뜬금없는 길거리 배경 혹은 요상하고 색이 번쩍번쩍하는 배경 연출로 인해 [[상처]]와 더불어 펌프 2nd 마약 BGA론에 한 몫 하였다.
+
+펌프 잇 업 버전은 원곡보다 BPM이 약간 빨라졌다. 아래는 원곡. 직접 비교해보자.
+[[Youtube(QOW-iD8coNQ)]]

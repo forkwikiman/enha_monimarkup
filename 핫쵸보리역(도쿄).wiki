@@ -1,0 +1,49 @@
+{{{+1 八丁堀駅 / Hatchōbori Station }}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://farm5.staticflickr.com/4112/5034224939_1e3a535b09_z.jpg
+핫쵸보리역이 위치한 교차로의 전경. (사진 저작자 : [[http://www.flickr.com/photos/kunghc/5034224939/|linshibi]])
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TokyoMetro-hatchobori-A1-entrance.jpg/256px-TokyoMetro-hatchobori-A1-entrance.jpg
+핫쵸보리역의 한 출입구. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3ATokyoMetro-hatchobori-A1-entrance.jpg|LERK]])
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 츄오구에 위치한 [[JR 히가시니혼]], [[도쿄 메트로]]의 역이다. [[케이요선]]과 [[히비야선]]의 환승역이며, 케이요선의 모든 등급의 열차가 정차한다.
+
+이용객 수는 지하철이 훨씬 많다. 통계로 따져 보면, 도쿄 메트로의 이용객이 거의 2배 정도 많았다.
+
+역 주변에는 츄오구 핫쵸보리 구민관, 츄오구립 여성센터 등이 있으며 마츠다, 미츠이 식품 등의 본사도 있다.
+
+== 역 및 승강장 ==
+=== [[JR 히가시니혼]] 핫쵸보리역 ===
+||||||||||<#c9242f> {{{#ffffff 케이요선}}} ||<#3ea343><|4>{{{#ffffff 운영주체 : 동일본 여객철도}}}[[br]]{{{#ffffff 개업일 : 1990년 3월 10일}}} ||
+||<width=100px> [wiki:"도쿄역" 도　쿄] 방면[[br]][wiki:"도쿄역" 도　쿄] || {{{+1 ← }}} ||<width=100px> 핫쵸보리 || {{{+1 → }}} ||<width=100px> [wiki:"소가역" 소　가] 방면[[br]][wiki:"엣츄지마역" 엣츄지마] ||
+
+[[http://www.flickr.com/photos/odashinsuke/4837821322/|(사진) JR 히가시니혼 핫쵸보리역의 한 출입구 전경]].
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JREast-Hatchobori-station-platform.jpg/512px-JREast-Hatchobori-station-platform.jpg
+JR 히가시니혼 핫쵸보리역의 승강장 전경. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File:JREast-Hatchobori-station-platform.jpg|LERK]])
+
+http://farm4.staticflickr.com/3393/3572127581_a824c4a2b4.jpg
+JR 히가시니혼 핫쵸보리역의 역명판. (사진 저작자 : [[http://www.flickr.com/photos/unholyknight/3572127581/|UnholyKnight]])
+
+섬식 승강장으로 개찰구는 2개소 있다. 소가 방면에는 린카이선 연락선이 있다.
+==== 완급결합 ====
+||||||<#ff0066> {{{#ffffff 통근쾌속}}}
+||<width=100px> [wiki:"도쿄역" 도　쿄] || {{{+1 ← }}} ||<width=100px> 핫쵸보리 || {{{+1 → }}} ||<width=100px> [wiki:"신키바역" 신키바] ||
+||||||<#339966> {{{#ffffff 쾌　　속}}}
+||<width=100px> [wiki:"도쿄역" 도　쿄] || {{{+1 ← }}} ||<width=100px> 핫쵸보리 || {{{+1 → }}} ||<width=100px> [wiki:"신키바역" 신키바] ||
+||||||<#3366cc> {{{#ffffff 각역정차}}}
+||<width=100px> [wiki:"도쿄역" 도　쿄] || {{{+1 ← }}} ||<width=100px> 핫쵸보리 || {{{+1 → }}} ||<width=100px> [wiki:"엣츄지마역" 엣츄지마] ||
+
+=== [[도쿄 메트로]] 핫쵸보리역 ===
+||||||||||<#8ba2ae> {{{#ffffff 히비야선}}} ||<#8ba2ae><|6>{{{#ffffff 운영주체 : 도쿄 메트로}}}[[br]]{{{#ffffff 개업일 : 1963년 2월 28일}}} ||
+||<width=100px> [wiki:"나카메구로역" 나카메구로] 방면[[br]][wiki:"츠키지역" 츠키지][[br]](H-10) || {{{+1 ← }}} ||<width=100px> 핫쵸보리[[br]](H-11) || {{{+1 → }}} ||<width=100px> [wiki:"키타센쥬역" 키타센쥬] 방면[[br]][wiki:"카야바쵸역" 카야바쵸][[br]](H-12) ||
+
+[[http://www.flickr.com/photos/40018021@N00/551112155|(사진) 도쿄 메트로 히비야선 핫쵸보리역의 역명판.]]
+[[http://commons.wikimedia.org/wiki/File:Hatchobori-Station-2005-10-24_1.jpg|(사진) 도쿄 메트로 히비야선 핫쵸보리역의 승강장 전경.]]
+[[http://www.flickr.com/photos/54911002@N03/5417282707|(사진-눈조심) 도쿄 메트로 히비야선 핫쵸보리역의 승강장 일부 모습.]]
+
+섬식 승강장이다.
+
+[[각주]]

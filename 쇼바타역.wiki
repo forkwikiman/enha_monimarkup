@@ -1,0 +1,26 @@
+{{{+1 勝幡駅 / Shobata Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MT-Shobata_Station-Building.JPG/600px-MT-Shobata_Station-Building.JPG
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MT-Shobata_Station-Platform.JPG/600px-MT-Shobata_Station-Platform.JPG
+
+||||||||||<#ffa500> {{{#000000 츠시마선}}} ||<#ff0000><|6>{{{#ffffff 운영주체 : 나고야 철도}}}[[br]]{{{#ffffff 개업일 : 1914년 1월 23일}}} ||
+||<width=100px> [wiki:"스카구치역" 스카구치] 방면[[br]][wiki:"아오츠카역" 아오츠카] || {{{+1 ← }}} ||<width=100px> 쇼바타 || {{{+1 → }}} ||<width=100px> [wiki:"츠시마역" 츠시마] 방면[[br]][wiki:"후지나미역(아이치현)" 후지나미] ||
+
+일본 [[아이치]]현 [[아이사이]]시에 위치한 [[나고야 철도]] [[츠시마선]]의 역이다. 상대식 승강장의 지상역이며  승강장 길이는 츠시마 방면 6량, 나고야 방면 8량이다. 역 집중관리시스템을 도입한 무인역이며, [[스카구치역]]에서 관리한다.
+
+하루 이용객은 2천 3백명 정도로 츠시마선 8개역 중 5위이다.
+
+역 주변에는 쇼바타 성터, 피아고, 홈센터 바로 등이 있으며, 주택지와 논밭 등이 섞여 있다.
+
+'''완급결합'''
+||||||<#ff0000> {{{#ffffff 특　　급}}}
+||<width=100px> [wiki:"키다역" 키　다] || {{{+1 ← }}} ||<width=100px> 쇼바타 || {{{+1 → }}} ||<width=100px> [wiki:"츠시마역" 츠시마] ||
+||||||<#0000ff> {{{#ffffff 급　　행}}}
+||<width=100px> [wiki:"키다역" 키　다] || {{{+1 ← }}} ||<width=100px> 쇼바타 || {{{+1 → }}} ||<width=100px> [wiki:"츠시마역" 츠시마] ||
+||||||<#008000> {{{#ffffff 준　　급}}}
+||<width=100px> [wiki:"키다역" 키　다] || {{{+1 ← }}} ||<width=100px> 쇼바타 || {{{+1 → }}} ||<width=100px> [wiki:"츠시마역" 츠시마] ||
+||||||<#000000> {{{#ffffff 각역정차}}}
+||<width=100px> [wiki:"아오츠카역" 아오츠카] || {{{+1 ← }}} ||<width=100px> 쇼바타 || {{{+1 → }}} ||<width=100px> [wiki:"후지나미역(아이치현)" 후지나미] ||
+
+[[각주]]

@@ -1,0 +1,73 @@
+ * 상위 항목 : [[런던 지하철]]
+
+http://ktransit.com/transit/Europe/unitedkingdom/london/underground/Photos/lon-hr-circle04.jpg
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/PdzBjpKmwEM" frameborder="0" allowfullscreen></iframe>
+}}}
+▲ [런던 지하철 C형 전동차]
+
+||||||<#ffce00> {{{#0019a8 서클 선}}}[[br]]{{{#0019a8 Circle Line}}} ||
+||운영기관 ||||[[런던교통공사]] ||
+||영업거리 ||||36㎞ ||
+||궤간 ||||1,435mm ([[표준궤]]) ||
+||역수 ||||27 ||
+||전기 ||||직류 630V 제4궤조 ||
+||신호 |||| ||
+||표정속도 |||| ||
+||차량기지 ||||해머스미스 차량기지 ||
+
+[[목차]]
+== 개요 ==
+[[런던 지하철]]의 [[순환선]]. 노선 색상은 노란색이다.
+
+원래는 진짜 순환만 하는 순환선이었는데, [wiki:"런던 패딩턴 역" 패딩턴] - [wiki:"리버풀가 역" 리버풀가] 구간을 공유하는 [[해머스미스 앤 시티 선]]의 선로를 이용하여 [wiki:"해머스미스 역" 해머스미스]로 노선을 연장해 버렸다. 때문에 계속 순환선을 타고 싶다면 반드시 [wiki:"에드궤어 로드 역" 에드궤어 로드]에서 열차를 갈아타야 한다. 패딩턴 역은 동쪽 방향과 서쪽 방향의 정차 승강장이 다르긴 하지만 환승은 가능.
+
+환승역의 비율이 매우 높지만 [[훼이크]]다. 선로를 공유하는 [wiki:"디스트릭트 선" 디스트릭트], [wiki:"메트로폴리탄 선" 메트로폴리탄], [[해머스미스 앤 시티 선]]을 빼면 환승역의 수가 팍 줄어들기 때문. ~~역시 런던 환승본좌는 [wiki:"빅토리아 선" 빅토리아]지~~
+
+== 차량 ==
+[[1969년]]에 도입한 6량 1편성의 C형과 [[2010년]]부터 C형을 대체하고 있는 7량 1편성의 S형 차량이 서클 선에서 운행하고 있다. S형 차량은 [[봄바르디어]]에서 제작하였으며, 런던 지하철 역사상 최초로 객실 안에 '''[[에어컨]]'''이 설치되었다. ~~여름철 런던 관광은 서클 선으로!~~
+
+== 역 목록 ==
+시계방향 순환 순서대로 기재하였다.
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/cHpDUnxCVSc" frameborder="0" allowfullscreen></iframe>
+}}}
+전구간 운행 영상(에드궤어 로드-패딩턴-베이즈워터-에드궤어 로드-해머스미스)
+||<|2> 구역 ||<|2> ㎞ ||<|2>  역명 |||||||| 환승노선([[환승역]]) ||
+||<:>[wiki:"해머스미스 앤 시티 선" H'Cty]||<:>[wiki:"디스트릭트 선" Dtr]||<:>[wiki:"메트로폴리탄 선" Met]|| 기타노선 ||
+||<#f3f4f6><|8> 2 || ||[[해머스미스 역]][[br]]Hammersmith ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+|| ||[[골드호크 로드 역]][[br]]Goldhawk Road ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+|| ||[[셰퍼즈 부시 마켓 역]][[br]]Shepherd's Bush Market ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+|| ||[[우드 레인 역]][[br]]Wood Lane ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+|| ||[[라티머 로드 역]][[br]]Latimer Road ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+|| ||[[라드브로그 그로브 역]][[br]]Ladbroke Grove ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+|| ||[[웨스트본 역]][[br]]Westbourne Park ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+|| ||[[로열 오크 역]][[br]]Royal Oak ||<#eb9bb2> {{{#0019a8 H}}} || || || ||
+||<#ffffff><|29> 1 || ||[wiki:"런던 패딩턴 역" 패딩턴 역][[br]]Paddington ||<#eb9bb2> {{{#0019a8 H}}} ||<#007e29> {{{#ffffff D}}} || ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[에드궤어 로드 역]][[br]]Edgware Road ||<#eb9bb2> {{{#0019a8 H}}} ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[[베이커가 역]][[br]]Baker Street ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} || ||
+|| ||[[그레이트 포틀랜드가 역]][[br]]Great Portland Street ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} || ||
+|| ||[[유스턴 스퀘어 역]][[br]]Euston Square ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} ||attachment:/nationalrail-small.png [[내셔널 레일]] ([wiki:"런던 유스턴 역" 유스턴]) ||
+|| ||[[킹스 크로스 세인트 판크라스 역]][[br]]King's Cross St Pancras ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ([wiki:"세인트 판크라스 역" 세인트 판크라스], [wiki:"런던 킹스 크로스 역" 킹스 크로스]) ||
+|| ||[[파링던 역]][[br]]Farringdon ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[바비칸 역]][[br]]Barbican ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} || ||
+|| ||[[무어게이트 역]][[br]]Moorgate ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} || ||
+|| ||[[리버풀가 역]][[br]]Liverpool Street ||<#eb9bb2> {{{#0019a8 H}}} || ||<#751056> {{{#ffffff M}}} ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[알드게이트 역]][[br]]Aldgate || || ||<#751056> {{{#ffffff M}}} || ||
+|| ||[[타워 힐 역]][[br]]Tower Hill || ||<#007e29> {{{#ffffff D}}}  || ||attachment:/TfL-DLR-roundel.png [[도클랜드 경전철]] ||
+|| ||[wiki:"뱅크 모뉴먼트 역" 모뉴먼트 역][[br]]Monument || ||<#007e29> {{{#ffffff D}}}  || ||attachment:/TfL-DLR-roundel.png [[도클랜드 경전철]] ||
+|| ||[[캐논가 역]][[br]]Cannon Street || ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[[맨션 하우스 역]][[br]]Mansion House || ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[[블랙프리아스 역]][[br]]Blackfriars || ||<#007e29> {{{#ffffff D}}}  || ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[템플 역]][[br]]Temple || ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[[임뱅크먼트 역]][[br]]Embankment || ||<#007e29> {{{#ffffff D}}}  || ||attachment:/nationalrail-small.png [[내셔널 레일]] ([wiki:"차링 크로스 역" 차링 크로스]) ||
+|| ||[[웨스트민스터 역]][[br]]Westminster || ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[[세인트 제임스 파크 역]][[br]]St James' Park || ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[wiki:"런던 빅토리아 역"  빅토리아 역][[br]]Victoria || ||<#007e29> {{{#ffffff D}}}  || ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[슬론 스퀘어 역]][[br]]Sloane Square || ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[[사우스 켄싱턴 역]][[br]]South Kensington || ||<#007e29> {{{#ffffff D}}}  || || ||
+|| ||[[글로우체스터 역]][[br]]Gloucester Road || ||<#007e29> {{{#ffffff D}}} || || ||
+|| ||[[하이 스트리트 켄싱턴 역]][[br]]High Street Kensington || ||<#007e29> {{{#ffffff D}}} || || ||
+|| ||[[노팅 힐 게이트 역]][[br]]Notting Hill Gate || ||<#007e29> {{{#ffffff D}}} || || ||
+|| ||[[베이즈워터 역]][[br]]Bayswater || ||<#007e29> {{{#ffffff D}}} || || ||
+|| ||[wiki:"런던 패딩턴 역"  패딩턴 역][[br]]Paddington || ||<#007e29> {{{#ffffff D}}} || || ||

@@ -1,0 +1,67 @@
+[[목차]]
+
+ * [[동음이의어]]
+
+= 長文 =
+긴 글.
+
+= 藏門 =
+[[바둑]]에서 ㄱ자로 꺾인 돌무더기 안쪽에 상대의 돌이 있을 때 바로 단수를 치지 않고도 달아나지 못하게 만드는 방법으로, [[축]]과 함께 돌 잡는 방법의 기본에 속한다.
+
+== 예시 ==
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼<span style="letter-spacing:-16px;">○</span>ㅁ┼
+○○┼┼┼┼┼
+├●┼┼┼┼┼
+├●<span style="letter-spacing:-16px;">○</span>ㅿ╋┼┼┼
+○○●●┼○○
+├○○●┼●┼
+○┴○┴┴┴┴ </div>}}}
+흑의 차례이고 이렇게 있을 때, 백 ㅿ를 잡고 싶지만...
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼<span style="color:white; background:black;">⑨</span><span style="letter-spacing:-16px;">○</span>ㅁ┼
+○○┼<span style="color:white; background:black;">⑤</span>⑧⑩┼
+├●<span style="color:white; background:black;">①</span>④⑥<span style="color:white; background:black;">⑦</span>┼
+├●<span style="letter-spacing:-16px;">○</span>ㅿ②<span style="color:white; background:black;">③</span>┼┼
+○○●●┼○○
+├○○●┼●┼
+○┴○┴┴┴┴ </div>}}}
+이렇게 축으로 잡으려니 문제가 생겼다. 백 ㅁ[* 이와 같이 축으로 몰려 나가는 방향에 있는 돌을 축머리라고 한다]의 도움을 받아 축에서 벗어난 것. 게다가 축으로 몰아가기에 실패한 흑은 양단수 당할 자리가 두 곳이나 노출되어 상당히 불리해지는 상황이다.
+
+그럼 앞의 그림에서 흑은 백 ㅿ를 잡을 방법이 없었던 것일까?
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼<span style="letter-spacing:-16px;">○</span>ㅁ┼
+○○┼┼┼┼┼
+├●┼<span style="color:white; background:black;">①</span>┼┼┼
+├●<span style="letter-spacing:-16px;">○</span>ㅿ╋┼┼┼
+○○●●┼○○
+├○○●┼●┼
+○┴○┴┴┴┴ </div>}}}
+이렇게 두면 된다. 이것이 바로 '''장문'''이다. 백 ㅿ는 당장은 단수가 아니지만,
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼<span style="letter-spacing:-16px;">○</span>ㅁ┼
+○○<span style="color:white; background:black;">③</span>┼┼┼┼
+├●②<span style="color:white; background:black;">①</span>┼┼┼
+├●<span style="letter-spacing:-16px;">○</span>ㅿ④<span style="color:white; background:black;">⑤</span>┼┼
+○○●●┼○○
+├○○●┼●┼
+○┴○┴┴┴┴ </div>}}}
+이렇게 도망갈 길이 막혀 백이 잡혀버린다.
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼<span style="letter-spacing:-16px;">○</span>ㅁ┼
+├○┼┼┼┼┼
+○<span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span>②<span style="color:white; background:black;">①</span>┼┼┼
+├<span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span><span style="letter-spacing:-16px;">○</span>ㅿ╋┼┼┼
+○○●●┼○○
+├○○●┼●┼
+○┴○┴┴┴┴ </div>}}}
+이 경우는 장문으로 잡지 못한다. 백 2로 인해 흑 ㅿ 두 점이 단수에 걸려버렸기 때문. 백 ㅁ가 축머리가 되기 때문에 축으로도 못 잡는다. 이건 뭐 조훈현 九단이 와도 [[답이 없다]]. ~~●: "[[틀렸어 이제 꿈이고 희망이고 없어]]"~~

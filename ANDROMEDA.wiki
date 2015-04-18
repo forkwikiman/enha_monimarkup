@@ -1,0 +1,114 @@
+ * 원래 의미를 찾는다면 [[안드로메다]] 항목 참고.
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[후지모리 소타]].
+
+== ANDROMEDA ==
+{{{#!HTML
+<iframe width="480" height="360" src="http://www.youtube.com/embed/pqRzUd5UTVg" frameborder="0" allowfullscreen></iframe>
+}}}
+[[비트매니아 IIDX 17 SIRIUS|17 SIRIUS]] 가동 당시 [[DOLCE.]]가 기록한 MAX-12 ALL GREAT 영상.
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 150 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 517}}} || {{{#orange 8}}} || {{{#orange 973}}} || {{{#red 11}}} || {{{#red 1446}}} || {{{#blue 4}}} || {{{#blue 512}}} || {{{#orange 9}}} || {{{#orange 1109}}} || {{{#red 11}}} || {{{#red 1568}}} ||
+
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 11 IIDX RED ~
+ * 가정용판 수록 : 11 RED, 16 EMPRESS (PREMIUM BEST SIDE)
+
+아티스트 코멘트에서 보다싶이, 악곡의 제목은 [[안드로메다]] 은하에서 따온 것이 아니라, 안드로메다라는 이름의 [[신디사이저]]만으로 이 곡을 작곡하였기 때문에 신디사이저의 이름에서 따와 제목을 붙였다고 한다. 여기서 그의 신디사이저에 대한 사랑을 엿볼 수 있다. 장르명은 PSYCHEDELIC GOA TRANCE이며, 빨려드는듯한 멜로디와 적당한 난이도의 채보 등으로 후지모리 소타가 IIDX에서 본격적으로 두각을 보이게 된 곡이기도 하다. 특히 난이도면의 밸런스가 상당해서 [[퀘이사]]와 함께 플레이어의 실력이 그대로 드러나는 곡 중 하나.
+
+다만 [wiki:"후살" 후반부의 밀도가 상당해서] 노멀 게이지 클리어 난이도는 레벨 11 중에서도 상위권.
+
+[[BGA]]는 [[HES]]가 당 작품에서 기획한 CORE ARENA라는 기획의 한 축을 이룬다. 이 곡은 두번째 단계인, 승(承)이다.
+롱 버전은 가정용 IIDX 12 Happy Sky 발매당시 같이 발매된 ]앨범인 cyberbeatnation 1st conclusion에 수록되었다. 
+
+=== 아티스트 코멘트 ===
+||Sota Fujimori / SOUND
+
+반년 전에 시부야에 있는 단골 신시사이저 상점에 갔을 때의 이야기입니다.
+거기엔 Andromeda라는 손잡이가 잔뜩 있는 신시사이저가 전시되어 있어서
+차분히 시험 연주를 해봤더니 기체에 울리는 듯한 대단한 음이 나더군요.
+그 순간 「확실히 나를 위해서 있는 신디사이저다」라고 마음대로 믿어 버려서 반해 버렸습니다. 주머니 사정을 감안해서 한 번 신디사이저 상점을 나왔습니다만,
+참을 수 없게 되어 돌아와 충동 구매해 버렸습니다. 기쁜 나머지 이 신디사이저 1대로 곡을 만드려고 한 끝에 완성한 것이 이 ANDROMEDA입니다. 
+종결부의 하이햇 이외의 음색은 모두 Andromeda 1대로 만들었습니다.
+그러니까 거의 Andromeda의 데모 송 상태입니다 (웃음)
+무비 쪽도 꽤 사이버틱해서 멋있네요. 그러니 부디 큰 소리로 들으며 Andromeda 사운드를 기체로 울려주세요♪
+
+Sota Fujimori||
+
+
+||HES / MOVIE
+
+기{{{#red '''승'''}}}전결 무비  {{{#black [ EPISODE 2 ]}}}　-investigate-
+
+간신히 탈출해 CORE를 찾아 적의 보안 영역에 잠수.
+CORE를 찾아낼 수 있을까?
+
+긴장감 있는 영상을 유의하며 제작했습니다.||
+
+== ANDROMEDA II ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/7Pu7x8wytmI&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7Pu7x8wytmI&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 150 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 501}}} || {{{#orange 9}}} || {{{#orange 982}}} || {{{#red 10}}} || {{{#red 1255}}} || {{{#blue 5}}} || {{{#blue 534}}} || {{{#orange 10}}} || {{{#orange 1084}}} || {{{#red 없음}}} || {{{#red 없음}}} ||
+
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 14 GOLD ~
+ * 가정용판 수록 : 14 GOLD
+
+ANDROMEDA가 수록되고 그 후 IIDX 14 GOLD에는 ANDROMEDA II가 수록되었는데, 이 곡도 드럼 파트를 제외하고는 위의 ANDROMEDA 신디사이저만을 이용해 작곡했다고 한다. 이쪽은 장르명이 PSYCHEDELIC '''SYNTH''' TRANCE이다. 전작보다는 난이도가 낮으며 롱 버전은 IIDX 14의 [[OST]]와 후지모리 소타의 앨범인 SYNTHESIZED에 수록되었다. SYNTHESIZED에 수록된 곡은 IIDX 14 GOLD의 OST에 공개된 것과 편집상의 차이가 없는데, 이는 --날로먹기--훨씬 더 파워업한 마스터링으로 이 곡을 들려주고 싶었던 후지모리 소타의 의도에서 그렇게 된 것이라고 한다.
+
+[[BGA]]도 전작이 전용 BGA였던 것에 반해 [[범용 BGA]]에 레이어 활용. 레이어는 [[HES]]가 제작하였다.
+
+=== 아티스트 코멘트 ===
+||■Sound / Sota Fujimori
+
+지난번의 ANDROMEDA 이래로 이 몬스터 신시사이저 "ANDROMEDA"를 쓸 기회가 좀처럼 없었는데
+오랜만에 써보니까 정말 좋은 음이 나더라고요~♪
+그래서 지난번의 속편으로 새로워진 ANDROMEDA를 제작 해봤습니다. (리믹스가 아니에요!!)
+이번에도 드럼 이외엔 전부 ANDROMEDA만으로 제작 해봤습니다!! 기대해주세요♪
+
+■Anime / HES
+
+전작으로부터 2년. 더욱 공격적이게 돌아온 ANDROMEDA II
+영상 쪽은 다른 각도에서 본 ANDROMEDA의 세계를 질주감과 긴박감을 중시한 연출로 해봤습니다.
+andromeda security system. reboot...||
+
+== ANDROMEDA -SF_2011 Mix- ==
+attachment:/ANDROMEDA_2011.jpg
+
+{{{#!HTML
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/FBpO1_7WA_4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FBpO1_7WA_4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+하드 패턴 영상
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/z-yXs1dz9cs" frameborder="0" allowfullscreen></iframe>}}}
+라임라이트 버전 하드패턴영상
+
+|||||||||||||| [[리플렉 비트 시리즈|리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 156 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} || {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#08AFDB 10}}} ||
+|| 오브젝트 || {{{#green 196}}} || {{{#orange 345}}} || {{{#red 547}}} || {{{#08AFDB 726}}} ||
+|| 수록버전 ||||||||<#82eb5a> [리플렉 비트] [* [리플렉 비트 라임라이트] 로케테스트에서 추가되었고 이후 [리플렉 비트] 1.5 업데이트로 선행수록되었다.] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 16 ||
+||||||||||<#ffffff>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} : 보면 추가 (그루빈) ||
+
+>저의 3집 솔로 앨범 SYNTHESIZED3에서 마음에 든 곡을 수록하였습니다.
+>오리지널은 [[비트매니아 IIDX]]에 수록되어 있습니다만, 앨범용으로 셀프 리믹스한 곡을 게임 사이즈로 만들어 수록하였습니다. 부디 이 리플렉 버전을 큰 음량으로 즐겨 주세요♪ 
+>
+>- [후지모리 소타], 리플렉 비트 라임라이트 OST 코멘트
+
+2011년에 새로운 리믹스 버전이 [[리플렉 비트 라임라이트]]에 수록됐다. 롱버전은 SYNTHESIZED 3에 선행수록되었으며, 게임에 수록된 앨범자켓도 SYNTHESIZED 3의 앨범자켓과 동일하다. 로케테스트 버전에서는 미해금 상태에서도 LOCAL PLAY 대인전을 한 번만 해도 출현한다.
+
+HARD는 전체적으로 '''[[Wuv U]] 강화판'''. Wuv U보다 느리긴 하지만 중반 이후로 '''끊임 없이''' 체인 노트가 튀어나오며 나머지 부분도 정밀한 엇박이 섞였기 때문에 안심할 수 없다. 다만 전작곡들을 기억하고 있다면 의외로 적응을 빨리할수 있지만 어쨌든 9치고는 상급에 속하는 난이도다.
+
+그루빈에 추가된 SP보면은 처음부터 끝까지 거의 트릴로 일관되는 구조다. 하드와 SP보면 공히 [리플렉 도장|트릴 검정] 수록.

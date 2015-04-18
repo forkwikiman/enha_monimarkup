@@ -1,0 +1,538 @@
+[[목차]]
+ * 상위항목 : [[EVE 온라인]]
+ * 관련항목 : [[EVE 온라인/스킬]]
+[[EVE 온라인]]의 스탯 및 능력치 향상 아이템인 임플란트에 대해 설명합니다.
+인공 치아 이식에 관련된 의학 정보는 [[임플랜트]]항목을 참고.
+
+
+== 개요 ==
+뇌에 삽입하여 캐릭터 스탯(Attribute)을 증가시킨다. 스탯에 대해 알고 싶다면. [[EVE 온라인/스킬#s-2]] 참조.
+임플란트를 삽입하여 총 스탯을 알고 싶다면 캐릭터 시트에서 Attribute 항목을 보면 된다. 어떤 임플란트가 삽입되어있는지 확인하려면 Augmentations 항목을 확인하자. 임플란트를 사용하려면 마우스 오른쪽버튼, 'Plug in'을 하면 된다. 한번 삽입한 임플란트는 다시 뺄 수 없으며 다른 임플란트를 플러그인하면 이전 임플란트는 파괴된다.
+
+모든 임플란트와 하드와이어링은 장착한 클론이 파괴되면 같이 파괴된다. 파괴된 임플란트를 복구할 수 있는 방법은 없다. 또한 클론에 삽입하는 개념이기 때문에 여러 클론을 사용하는 점프클론의 경우 임플란트가 공유가 되지 않는다.[* "Genolution 'Auroral' AU-79" 임플란트 제외]
+
+== 스탯강화 임플란트 (Attribute Enhancer) ==
+스킬 습득 속도가 단축되는 스탯을 올려주는 임플란트다.
+=== 순수 스탯강화 임플란트 ===
+스탯,소켓별로 5가지 종류가 있으며 세트 효과가 없으므로 반드시 같은 종류의 임플란트로 맞출 필요가 전혀 없다. 거의 모든 LP샵에서 구할 수 있다.
+==== Limited (+1) ====
+
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 스탯 ||
+||attachment:"EVE 온라인/임플란트/알파.png"?width=20&height=20 Limited Ocular Filter || Perception +1 ||
+||attachment:"EVE 온라인/임플란트/베타.png"?width=20&height=20 Limited Memory Augmentation || Memory +1 ||
+||attachment:"EVE 온라인/임플란트/감마.png"?width=20&height=20 Limited Neural Boost || Willpower +1 ||
+||attachment:"EVE 온라인/임플란트/델타.png"?width=20&height=20 Limited Subprocessor ||  Intelligence +1 ||
+||attachment:"EVE 온라인/임플란트/엡실.png"?width=20&height=20 Limited Social Adaptation Chip || Charisma +1 ||
+
+==== Limited Beta (+2) ====
+
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp;  || 스탯 ||
+||attachment:"EVE 온라인/임플란트/알파.png"?width=20&height=20 Limited Ocular Filter - Beta || Perception +2 ||
+||attachment:"EVE 온라인/임플란트/베타.png"?width=20&height=20 Limited Memory Augmentation - Beta || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마.png"?width=20&height=20 Limited Neural Boost - Beta || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타.png"?width=20&height=20 Limited Subprocessor - Beta ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실.png"?width=20&height=20 Limited Social Adaptation Chip - Beta || Charisma +2 ||
+==== Basic (+3) ====
+일명 3임플
+Cybernetics 스킬을 1단만 쳐도 바로 사용이 가능하고 가격이 저렴하여 초보자들에게 인기가 많다. 이름 그대로 베이직급 임플란트. PvP를 자주 가는 유저들은 5개를 다 박는 대신 스킬이 요구하는 능력치에 해당하는 임플란트만 박고서 다닌다.
+ 
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp;  || 스탯 ||
+||attachment:"EVE 온라인/임플란트/알파.png"?width=20&height=20 Ocular Filter - Basic || Perception +3 ||
+||attachment:"EVE 온라인/임플란트/베타.png"?width=20&height=20 Memory Augmentation - Basic || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마.png"?width=20&height=20 Neural Boost - Basic || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타.png"?width=20&height=20 Subprocessor - Basic ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실.png"?width=20&height=20 Social Adaptation Chip - Basic || Charisma +3 ||
+
+==== Standard (+4) ====
+Cybernetics 스킬을 4단 필요. 가격이 많이 비싸지 않아 국민 임플란트로 쓰인다. 돈에 여유가 있으면 PvP용 클론에도 쓸만하다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp;  || 스탯 ||
+||attachment:"EVE 온라인/임플란트/알파.png"?width=20&height=20 Ocular Filter - Standard || Perception +4 ||
+||attachment:"EVE 온라인/임플란트/베타.png"?width=20&height=20 Memory Augmentation - Standard || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마.png"?width=20&height=20 Neural Boost - Standard || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타.png"?width=20&height=20 Subprocessor - Standard ||  Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실.png"?width=20&height=20 Social Adaptation Chip - Standard || Charisma +4 ||
+
+==== Improved (+5) ====
+Cybernetics 스킬을 5단 필요. 보통 가격이 비싸서 날려먹을 일이 적은 PvE용 클론에 장착해서 쓴다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp;  || 스탯 ||
+||attachment:"EVE 온라인/임플란트/알파.png"?width=20&height=20 Ocular Filter - Improved || Perception +5 ||
+||attachment:"EVE 온라인/임플란트/베타.png"?width=20&height=20 Memory Augmentation - Improved || Memory +5 ||
+||attachment:"EVE 온라인/임플란트/감마.png"?width=20&height=20 Neural Boost - Improved || Willpower +5 ||
+||attachment:"EVE 온라인/임플란트/델타.png"?width=20&height=20 Subprocessor - Improved ||  Intelligence +5 ||
+||attachment:"EVE 온라인/임플란트/엡실.png"?width=20&height=20 Social Adaptation Chip - Improved || Charisma +5 ||
+
+==== ~~Advanced (+6)~~ ====
+데이터상 존재하는 아이템이긴 하나, 배포된적이 없다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 스탯 ||
+||attachment:"EVE 온라인/임플란트/알파.png"?width=20&height=20 Ocular Filter - Advanced || Perception +6 ||
+||attachment:"EVE 온라인/임플란트/베타.png"?width=20&height=20 Memory Augmentation - Advanced || Memory +6 ||
+||attachment:"EVE 온라인/임플란트/감마.png"?width=20&height=20 Neural Boost - Advanced || Willpower +6 ||
+||attachment:"EVE 온라인/임플란트/델타.png"?width=20&height=20 Subprocessor - Advanced ||  Intelligence +6 ||
+||attachment:"EVE 온라인/임플란트/엡실.png"?width=20&height=20 Social Adaptation Chip - Advanced || Charisma +6 ||
+
+==== ~~Elite (+7)~~ ====
+데이터상 존재하는 아이템이긴 하나, 배포된적이 없다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 스탯 ||
+||attachment:"EVE 온라인/임플란트/알파.png"?width=20&height=20 Ocular Filter - Elite (+7)  || Perception +7 ||
+||attachment:"EVE 온라인/임플란트/베타.png"?width=20&height=20 Memory Augmentation - Elite (+7)  || Memory +7 ||
+||attachment:"EVE 온라인/임플란트/감마.png"?width=20&height=20 Neural Boost - Elite (+7)  || Willpower +7 ||
+||attachment:"EVE 온라인/임플란트/델타.png"?width=20&height=20 Subprocessor - Elite (+7)  ||  Intelligence +7 ||
+||attachment:"EVE 온라인/임플란트/엡실.png"?width=20&height=20 Social Adaptation Chip - Elite (+7)  || Charisma +7 ||
+
+
+
+
+
+
+
+=== 세트 임플란트 ===
+스탯 외의 함선 능력치 상승효과도 지니고 있는 임플란트. 세트효과가 있으며 아이콘에 '테크2' 아이콘이 붙어있어 T2임플란트라고도 불린다. 세트는 1~5번 슬롯과 하드와이어링인 6번 슬롯까지 총 6개로 이루어져 있다. 세트 임플란트에 기본적으로 함선 능력치가 붙어있고, 같은 세트 임플란트를 많이 장착할수록 능력치가 추가로 중첩되어 상승한다. 슬롯 번호 수에 비례해서 능력치의 향상폭이 커진다. 6번 슬롯에 장착하는 오메가 하드와이어링은 자체 능력치는 없는 대신 세트 효과 자체를 크게 늘려준다. 모듈 없이 함선의 능력치를 추가로 늘려주는 만큼 세트가격이 굉장히 비싼편이다.
+
+스탯보너스는 +2 ~ +4. 즉, 순수하게 스킬 습득 속도만 원한다면 2번항목의 +5 임플란트를 삽입하는것이 더 유리하다. 돈에 여유가 있거나 PvE 클론이라면 1년 내내 스킬 습득에 필요한 능력치를 하나로 몰아주는 스킬 플랜을 짠 후(함선/무기 등) 나머지 필요 없는 슬롯을 이 세트로 채울 수도 있다.
+==== Ascendancy (워프스피드) ====
+함선의 워프스피드를 증가시킨다. 고스트 사이트에서 입수할 수 있다. 하급세트는 존재하지 않는다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Ascendancy Alpha || 1% || 15% || Perception +4 ||<|6>워프스피드 [[br]]53.63% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Ascendancy Beta || 2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Ascendancy Gamma || 3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Ascendancy Delta || 4% || 15% || Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Ascendancy Epsilon|| 5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Ascendancy Omega|| 없음 || 70% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Ascendancy Alpha || 1% || 10% || Perception +3 ||<|6>워프스피드 [[br]]33.83% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Ascendancy Beta || 2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Ascendancy Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Ascendancy Delta || 4% || 10% || Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Ascendancy Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Ascendancy Omega|| 없음 || 35% || ||
+
+
+==== Grail (Radar 센서강도) ====
+Radar(아마르) 센서강도 증가. 머리에 ECCM을 하나 더 박는 셈 치면 된다. ECM에 대한 저항성이 늘어나고 적의 컴뱃 스캔에 걸리는 신호 강도가 줄어든다. 아마르 회사 24th Imperial Crusade의 LP샵에서 구할 수 있다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Grail Alpha || 1% || 15% || Perception +4 ||<|6>Radar [[br]]센서강도[[br]] 75.63% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Grail Beta || 2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Grail Gamma || 3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Grail Delta || 4% || 15% ||  Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Grail Epsilon|| 5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Grail Omega|| 없음 || 100% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Grail Alpha || +1 || 없음 || Perception +2 ||<|6>Radar [[br]]센서강도[[br]] +7 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Grail Beta ||  +1 || 없음 || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Grail Gamma ||  +1 || 없음 || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Grail Delta ||  +1 || 없음 ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Grail Epsilon|| +1 || 없음 || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Grail Omega|| 없음 || 40% || ||
+
+
+==== Jackal (Ladar 센서강도) ====
+Ladar(민마타) 센서강도 75.63% 증가. 머리에 ECCM을 하나 더 박는 셈 치면 된다.민마타 회사 Tribal Liberation Force 의 LP샵에서 구할 수 있다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Jackal Alpha || 1% || 15% || Perception +4 ||<|6>Ladar [[br]]센서강도[[br]] 75.63% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Jackal Beta || 2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Jackal Gamma || 3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Jackal Delta || 4% || 15% ||  Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Jackal Epsilon|| 5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Jackal Omega|| 없음 || 100% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Jackal Alpha || +1 || 없음 || Perception +2 ||<|6>Ladar [[br]]센서강도[[br]] +7 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Jackal Beta ||  +1 || 없음 || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Jackal Gamma ||  +1 || 없음 || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Jackal Delta ||  +1 || 없음 ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Jackal Epsilon|| +1 || 없음 || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Jackal Omega|| 없음 || 40% || ||
+
+
+
+==== Spur (Magnetometric 센서강도) ====
+Magnetometric(갈렌테) 센서강도 75.63% 증가. 머리에 ECCM을 하나 더 박는 셈 치면 된다. 갈렌테 회사 Federal Defence Union 의 LP샵에서 구할 수 있다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Spur Alpha || 1% || 15% || Perception +4 ||<|6>Magnetometric  [[br]]센서강도[[br]] 75.63% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Spur Beta || 2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Spur Gamma || 3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Spur Delta || 4% || 15% ||  Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Spur Epsilon|| 5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Spur Omega|| 없음 || 100% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Spur Alpha || +1 || 없음 || Perception +2 ||<|6>Magnetometric  [[br]]센서강도[[br]] +7 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Spur Beta ||  +1 || 없음 || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Spur Gamma ||  +1 || 없음 || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Spur Delta ||  +1 || 없음 ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Spur Epsilon|| +1 || 없음 || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Spur Omega|| 없음 || 40% || ||
+
+
+
+==== Talon (Gravimetric  센서강도) ====
+Gravimetric(칼다리) 센서강도 75.63% 증가. 머리에 ECCM을 하나 더 박는 셈 치면 된다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Talon Alpha || 1% || 15% || Perception +4 ||<|6>Gravimetric [[br]]센서강도[[br]] 75.63% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Talon Beta || 2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Talon Gamma || 3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Talon Delta || 4% || 15% ||  Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Talon Epsilon|| 5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Talon Omega|| 없음 || 100% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Talon Alpha || +1 || 없음 || Perception +2 ||<|6>Gravimetric [[br]]센서강도[[br]] +7 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Talon Beta ||  +1 || 없음 || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Talon Gamma ||  +1 || 없음 || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Talon Delta ||  +1 || 없음 ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Talon Epsilon|| +1 || 없음 || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Talon Omega|| 없음 || 40% || ||
+
+
+==== Snake (함선 속도) ====
+함선 속도 증가. 속도에 죽고 사는 인터셉터 파일럿의 로망이다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Snake Alpha || 0.5% || 15% || Perception +4 ||<|6>함선 속도[[br]] 24.73% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Snake Beta || 0.625% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Snake Gamma || 0.75% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Snake Delta || 0.875% || 15% || Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Snake Epsilon|| 1.00% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Snake Omega|| 없음 || 200% ||  ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Snake Alpha || 0.5% || 없음 || Perception +3 ||<|6>함선 속도[[br]] 16.02% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Snake Beta ||  0.625% || 없음 || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Snake Gamma ||  0.75% || 없음 || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Snake Delta ||  0.875% || 없음 ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Snake Epsilon|| 1.00% || 없음 || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Snake Omega|| 없음 || 150% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Snake Alpha || 0.5% || 없음 || Perception +2 ||<|6>함선 속도[[br]] 10.5% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Snake Beta || 0.625% || 없음 || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Snake Gamma ||  0.75% || 없음 || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Snake Delta ||  0.875% || 없음 ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Snake Epsilon|| 1.00% || 없음 || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Snake Omega|| 없음 || 110% || ||
+
+
+
+
+
+==== Slave (아머) ====
+함선 아머량 증가. 아머량이 많은 슈퍼캐피탈쉽에게 거의 필수품이다. 만약 비용만 감당할 수 있다면 아머 탱킹을 하는 서브캐피탈 함선에도 고려할 수 있다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Slave Alpha || 1% || 15% || Perception +4 ||<|6>아머량 [[br]]53.63% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Slave Beta || 2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Slave Gamma || 3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Slave Delta || 4% || 15% || Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Slave Epsilon|| 5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Slave Omega|| 없음 || 50% ||  ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Slave Alpha || 1% || 10% || Perception +3 ||<|6>아머량 [[br]]33.83% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Slave Beta ||  2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Slave Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Slave Delta ||  4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Slave Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Slave Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Slave Alpha || 1% || 2.5% || Perception +2 ||<|6>아머량 [[br]]20% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Slave Beta || 2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Slave Gamma ||  3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Slave Delta ||  4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Slave Epsilon|| 5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Slave Omega|| 없음 || 10% || ||
+==== Crystal (실드부스트) ====
+실드 부스트 사용시 회복량 53.63% 증가. 보통 쉴드 부스터를 사용하는 값비싼 PvE 함선에 선호된다. PvP 상황에서는 ASB + 블루 필 + 크리스탈 셋으로 부스팅량 증가 효과를 중첩시키는 돈지랄 조합이 있다. --슬레이프니르가 쓰러지지 않아!-- 구리스타 회사 Guristas, Guristas Production 의 LP샵에서 구할 수 있다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Crystal Alpha || 1% || 15% || Perception +4 ||<|6>실드부스트량 [[br]] 53.63% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Crystal Beta || 2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Crystal Gamma || 3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Crystal Delta || 4% || 15% || Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Crystal Epsilon|| 5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Crystal Omega|| 없음 || 50% ||  ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Crystal Alpha || 1% || 10% || Perception +3 ||<|6>실드부스트량 [[br]] 33.83% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Crystal Beta ||  2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Crystal Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Crystal Delta ||  4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Crystal Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Crystal Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Crystal Alpha || 1% || 2.5% || Perception +2 ||<|6>실드부스트량 [[br]] 20% 증가 ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Crystal Beta || 2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Crystal Gamma ||  3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Crystal Delta ||  4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Crystal Epsilon|| 5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Crystal Omega|| 없음 || 10% || ||
+
+
+==== Halo (시그니처) ====
+함선의 시그니처 감소. 함선이 터렛에 맞을 확률과 미사일로부터 입는 데미지가 줄어드는 효과로, 기본 시그니처가 작은 함선이 득을 크게 본다. PvP 상황에서는 시그니처를 더 줄여주는 X-Instinct 뽕과 조합시킨다. 엔젤 카르텔 회사 Dominations, Guardian Angels, Archangels, Salvation Angels의 LP샵에서 구할 수 있다. 
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Halo Alpha || -1% || 15% || Perception +4 ||<|6> 시그니처[[br]] –20.7% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Halo Beta || -1.25% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Halo Gamma || -1.5% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Halo Delta || -1.75% || 15% || Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Halo Epsilon|| -2% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Halo Omega|| 없음 || 50% ||  ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Halo Alpha || -1% || 10% || Perception +3 ||<|6> 시그니처[[br]] –14.3% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Halo Beta || -1.25% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Halo Gamma || -1.5% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Halo Delta || -1.75% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Halo Epsilon|| -2% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Halo Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Halo Alpha || -1% || 2.5% || Perception +2 ||<|6> 시그니처[[br]] -9% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Halo Beta || -1.25% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Halo Gamma || -1.5% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Halo Delta || -1.75% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Halo Epsilon|| -2% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Halo Omega|| 없음 || 10% || ||
+
+==== Talisman (노스,뉴트 사이클) ====
+노스, 뉴트의 사이클 감소.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 High-grade Talisman Alpha || -1% || 15% || Perception +4 ||<|6> 노스,뉴트 사이클[[br]] –38.12% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 High-grade Talisman Beta || -2% || 15% || Memory +4 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 High-grade Talisman Gamma || -3% || 15% || Willpower +4 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 High-grade Talisman Delta || -4% || 15% || Intelligence +4 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 High-grade Talisman Epsilon|| -5% || 15% || Charisma +4 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 High-grade Talisman Omega|| 없음 || 50% ||  ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Talisman Alpha || -1% || 10% || Perception +3 ||<|6> 노스, 뉴트 사이클[[br]] –26.94% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Talisman Beta || -2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Talisman Gamma || -3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Talisman Delta || -4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Talisman Epsilon|| -5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Talisman Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Talisman Alpha || -1% || 2.5% || Perception +2 ||<|6> 노스, 뉴트 사이클[[br]] –17.4% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Talisman Beta || -2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Talisman Gamma || -3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Talisman Delta || -4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Talisman Epsilon|| -5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Talisman Omega|| 없음 || 10% || ||
+
+
+==== Virtue (프로브 스캔강도) ====
+탐사나 컴뱃 스캔 전문 캐릭터에게 좋다. 상급세트는 존재하지 않는다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Virtue Alpha || 1% || 10% || Perception +3 ||<|6>프로브 스캔강도[[br]] 33.83% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Virtue Beta ||  2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Virtue Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Virtue Delta ||  4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Virtue Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Virtue Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Virtue Alpha || 1% || 2.5% || Perception +2 ||<|6>프로브 스캔강도[[br]] 20% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Virtue Beta || 2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Virtue Gamma ||  3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Virtue Delta ||  4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Virtue Epsilon|| 5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Virtue Omega|| 없음 || 10% || ||
+==== Centurion (전자전 옵티멀) ====
+전자전 모듈의 옵티멀 증가. 상급세트는 존재하지 않는다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Centurion Alpha || 1% || 10% || Perception +3 ||<|6> 전자전모듈 옵티멀[[br]] 33.83% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Centurion Beta ||  2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Centurion Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Centurion Delta ||  4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Centurion Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Centurion Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Centurion Alpha || 1% || 2.5% || Perception +2 ||<|6> 전자전모듈 옵티멀[[br]] 20% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Centurion Beta || 2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Centurion Gamma ||  3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Centurion Delta ||  4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Centurion Epsilon|| 5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Centurion Omega|| 없음 || 10% || ||
+==== Harvest (마이너 사거리) ====
+마이닝 레이저의 사거리 증가. 상급세트는 존재하지 않는다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Harvest Alpha || 1% || 10% || Perception +3 ||<|6> 마이너 사거리[[br]] 33.83% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Harvest Beta ||  2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Harvest Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Harvest Delta ||  4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Harvest Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Harvest Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Harvest Alpha || 1% || 2.5% || Perception +2 ||<|6> 마이너 사거리[[br]] 20% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Harvest Beta || 2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Harvest Gamma ||  3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Harvest Delta ||  4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Harvest Epsilon|| 5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Harvest Omega|| 없음 || 10% || ||
+==== Nomad (어질리티) ====
+함선의 어질리티가 감소하여 가속력, 선회력이 빨라져 워프에 빨리 돌입한다. 상급세트는 존재하지 않는다. 둠스데이 웨폰이 광역 공격을 하던 먼 옛날에는 모든 타이탄 파일럿의 필수품이었다.
+Thukker Mix, Trust Partners의 LP샵에서 708,750LP와 472,500,018ISK, Limited Beta (+2)세트, Eifyr and Co. 'Rogue' Evasive Maneuvering EM-703와 교환이 가능하다.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Nomad Alpha || 1% || 10% || Perception +3 ||<|6> 어질리티[[br]] –26.94% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Nomad Beta ||  2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Nomad Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Nomad Delta ||  4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Nomad Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Nomad Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Nomad Alpha || 1% || 2.5% || Perception +2 ||<|6> 어질리티[[br]] –17.4%  ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Nomad Beta || 2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Nomad Gamma ||  3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Nomad Delta ||  4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Nomad Epsilon|| 5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Nomad Omega|| 없음 || 10% || ||
+==== Edge (부스터 부작용) ====
+부스터 부작용 효과를 감소. 하지만 일반적으로 유저들은 부스터 부작용을 그냥 복불복으로 생각해서 별 인기가 없다. 상급세트는 존재하지 않는다. 
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Mid-grade Edge Alpha || 1% || 10% || Perception +3 ||<|6> 부스터 부작용[[br]] –26.94% ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Mid-grade Edge Beta ||  2% || 10% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Mid-grade Edge Gamma || 3% || 10% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Mid-grade Edge Delta ||  4% || 10% ||  Intelligence +3 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Mid-grade Edge Epsilon|| 5% || 10% || Charisma +3 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Mid-grade Edge Omega|| 없음 || 25% || ||
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Low-grade Edge Alpha || 1% || 2.5% || Perception +2 ||<|6> 부스터 부작용[[br]] –17.4%  ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Low-grade Edge Beta || 2% || 2.5% || Memory +2 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Low-grade Edge Gamma ||  3% || 2.5% || Willpower +2 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Low-grade Edge Delta ||  4% || 2.5% ||  Intelligence +2 ||
+||attachment:"EVE 온라인/임플란트/엡실2.png"?width=20&height=20 Low-grade Edge Epsilon|| 5% || 2.5% || Charisma +2 ||
+||attachment:"EVE 온라인/임플란트/오메2.png"?width=20&height=20 Low-grade Edge Omega|| 없음 || 10% || ||
+
+
+
+==== Genolution Core Augmentation ====
+이벤트로 배포되었으며 사이버네틱스 2단필요.
+||<tablewidth=100%><rowbgcolor=#cccccc>&nbsp; || 성능 || 세트 효과 || 스탯 || 풀세트 효과 ||
+||attachment:"EVE 온라인/임플란트/알파2.png"?width=20&height=20 Genolution Core Augmentation CA-1 || 파워그리드 1.5%[[br]]캡 총량 1.5% || 50% || Perception +3 ||<|6> [[수정바람]]  ||
+||attachment:"EVE 온라인/임플란트/베타2.png"?width=20&height=20 Genolution Core Augmentation CA-2 || CPU 1.5%[[br]] 캡충전시간 1.5% || 40% || Memory +3 ||
+||attachment:"EVE 온라인/임플란트/감마2.png"?width=20&height=20 Genolution Core Augmentation CA-3 || 함선 속도 1.5%[[br]] 실드충전시간 1.5% || 30% || Willpower +3 ||
+||attachment:"EVE 온라인/임플란트/델타2.png"?width=20&height=20 Genolution Core Augmentation CA-4 || 어질리티 1.5%[[br]] 아머량 1.5% || 20% ||  Intelligence +3 ||
+
+
+
+
+== 하드와이어링(Skill Hardwiring) ==
+스탯에는 전혀 영향이 없고 함선의 능력에 보너스가 붙는다. 6~10슬롯을 사용하며, 모두 아이콘이 똑같고 이름이 간단명료하지가 않아서 햇갈리니 주의가 필요하다. 
+'''이름 뒤에 숫자가 붙는 경우, 앞자리는 슬롯, 뒷자리는 효과의 %를 뜻한다. 예를들어 604면 6번 슬롯에 삽입하고 효과는 4%짜리라는 뜻.''' 숫자가 없는 임플란트의 경우 설명에 삽입 슬롯번호를 기재한다.
+=== 아머, 헐 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Noble' Repair Systems RS-601 ~ 606 : 아머,헐 리페어의 사이클이 1~6% 감소한다.
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Numon Family Heirloom : 아머,헐 리페어의 사이클이 7% 감소한다. 6슬롯에 삽입
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Noble' Remote Armor Repair Systems RA-701 ~ 706 : 리모트 아머 리페어의 캡 소모량이 1~6% 감소한다.
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Noble' Mechanic MC-801 ~ 806 : 헐 HP가 1~6% 증가한다.
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Noble' Repair Proficiency RP-901 ~ 906 : 아머,헐 리페어량이 1~6% 증가한다.
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Noble' Hull Upgrades HG-1001 ~ 1008 : 아머량을 1~8% 증가.
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Imperial Navy Modified 'Noble' Implant : 아머량과 아머,헐 리페어량이 3% 증가. 10슬롯에 삽입
+
+=== 전자 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' CPU Management [[EE]]-601 ~ 606 : 함선의 CPU량 1~6% 증가 --누가 EE하래--
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Electronics Upgrades EU-601 ~ 606 : 센서부스터, 시그널 앰프의 CPU 요구량이 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Signature Analysis SA-701 ~ 706 : 함선의 스캔 레졸루션 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Long Range Targeting LT-801 ~ 806 : 타게팅 거리 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Propulsion Jamming PJ-801 ~ 806 : 스테이시스웹의 캡 소모량이 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Electronic Warfare EW-901 ~ 906 : ECM의 캡 소모량 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Sensor Linking SL-901 ~ 906 : 리모트센서부스터,트래킹링크,센서뎀퍼의 캡 소모량이 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Weapon Disruption WD-901 ~ 906 : 트래킹디스럽터의 캡 소모량이 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gypsy' Target Painting TG-901 ~ 906 : 타겟페인터의 캡 소모량이 1~6% 감소
+
+=== 엔지니어링 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Squire' Capacitor Systems Operation EO-601 ~ 606 : 캡 회복속도 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Squire' Power Grid Management EG-601 ~ 606 : 함선의 파워그리드 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Squire' Energy Emission Systems ES-701 ~ 706 : 뉴트, 노스의 캡 소모량이 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Squire' Energy Grid Upgrades EU-701 ~ 706 : 캡 리차저, Power Diagnostic System, Capacitor Power Relay, Reactor Control Unit의 CPU 요구량 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Squire' Energy Pulse Weapons EP-701 ~ 706 : 스마트밤의 사이클이 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Squire' Energy Management EM-801 ~ 806 : 함선의 캡 총량이 1~6% 증가
+
+=== 터렛 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Trajectory Analysis TA-701 ~ 706 : 터렛의 폴오프가 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Sharpshooter ST-901 ~ 906 : 터렛 옵티멀 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Small Hybrid Turret SH-601 ~ 606 : 소형 하이브리드 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Medium Hybrid Turret MH-801 ~ 806 : 중형 하이브리드 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Large Hybrid Turret LH-1001 ~ 1006 : 대형 하이브리드 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Gunslinger' Surgical Strike SS-901 - 906 : 모든 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Gunslinger' Motion Prediction MR-701 ~ 706 : 터렛 트래킹 스피드 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Gunslinger' Small Projectile Turret SP-601 ~ 606 : 소형 프로젝타일 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Gunslinger' Medium Projectile Turret MP-801 ~ 806 : 중형 프로젝타일 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Gunslinger' Large Projectile Turret LP-1001 ~ 1006 : 대형 프로젝타일 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Lancer' Controlled Bursts CB-701 ~ 706 : 터렛의 캡 소모량이 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Lancer' Gunnery RF-901 ~ 906 : 터렛 연사속도 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Lancer' Small Energy Turret SE-601 ~ 606 : 소형 레이저 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Lancer' Medium Energy Turret ME-801 ~ 806 : 중형 레이저 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Lancer' Large Energy Turret LE-1001 ~ 1006 : 대형 레이저 터렛 데미지 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Pashan's Turret Handling Mindlink : 대형 레이저 터렛 데미지 7% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Ogdin's Eye Coordination Enhancer : 터렛 트래킹 스피드 6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Pashan's Turret Customization Mindlink : 터렛 연사속도 7% 증가
+
+=== 미사일 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gnome' Launcher CPU Efficiency LE-601 ~ 606 : 미사일런처의 CPU 요구량 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Missile Bombardment MB-701 ~ 706 : 미사일의 비행시간 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Missile Projection MP-701 ~ 706 : 미사일의 비행속도 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Guided Missile Precision GP-801 ~ 806 : 미사일의 폭발반경 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Target Navigation Prediction TN-901 ~ 906 : 미사일의 폭발속도  1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Deadeye' Rapid Launch RL-1001 ~ 1006 : 미사일 발사속도 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' Cruise Missiles CM-601 ~ 606 : 크루즈미사일의 데미지 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' Torpedoes TD-601 ~ 606 : 토피도미사일의 데미지 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' Assault Missiles AM-701 ~ 706 : 어설트미사일의 데미지 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' Heavy Missiles HM-701 ~ 706 : 헤비미사일의 데미지 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' Defender Missiles DM-801 ~ 806 : 디펜더미사일의 비행속도 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' Light Missiles LM-901 ~ 906 : 라이트미사일의 데미지  1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' Rockets RD-901 ~ 906 : 로켓 데미지  1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Snapshot' FOF Explosion Radius FR-1001 ~ 1006 : 오토타겟미사일의 폭발반경 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Whelan Machorin's Ballistic Smartlink : 미사일 발사속도 5% 보너스. 10슬롯에 삽입
+
+=== 이동 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' Acceleration Control AC-601 ~ 606 : 애프터버너,MWD의 속도 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' Afterburner AB-602 ~ 612 : 애프터버너의 사이클 2, 4, 6, 8, 10, 12% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' Navigation NN-601 ~ 606 : 함선 속도 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Shaqil's Speed Enhancer : 함선 속도 8% 증가. 6슬롯에 삽입
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' Warp Drive Operation WD-602 ~ 612 : 워프드라이브의 캡 소모량 2, 4, 6, 8, 10, 12% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' Warp Drive Speed WS-605 ~ 618 : 워프드라이브 속도 5, 8, 10, 13, 15, 18% 증가.
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' Evasive Maneuvering EM-701 ~ 706 : 함선의 질량[* 질량이 줄면 선회력, 가속력이 증가한다.] 1~6% 감소.
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' Fuel Conservation FC-801 ~ 806 : 애프터버너의 캡 소모량 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Rogue' High Speed Maneuvering HS-901 ~ 906 : MWD의 캡 소모량 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zor's Custom Navigation Link : 애프터버너 사이클 10% 증가. 7슬롯에 삽입
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zor's Custom Navigation Hyper-Link : 애프터버너,MWD의 속도 5% 증가. 8슬롯에 삽입
+
+=== 사이언스 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Poteque 'Prospector' Astrometric Pinpointing AP-602 ~ 610 : 스캔 최대 편차 2, 6, 10% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Poteque 'Prospector' Astrometric Acquisition AQ-702 ~ 710 : 프로브 스캔 딜레이 2, 6, 10% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Poteque 'Prospector' Astrometric Rangefinding AR-802 ~ 810 : 프로브 스캔 강도 2, 6, 10% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Poteque 'Prospector' Archaeology AC-905 : 고고학에서 내 체력 5%증가, 난이도 5% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Poteque 'Prospector' Hacking HC-905 : 해킹에서 내 체력 5%증가, 난이도 5% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Poteque 'Prospector' Salvaging SV-905 : 샐비징 성공확률 5% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Poteque 'Prospector' Environmental Analysis EY-1005 : 샐비저, 아날라이저의 사이클 5% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'beancounter' Reprocessing RR-601 ~ 605 : 블루프린트 연구시간 1, 3, 5% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Beancounter' Metallurgy MY-701 ~ 705 : 블루프린트의 재료 소모 연구시간 1, 3, 5% 단축
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Beancounter' Science SC-801 ~ 805 : 블루프린트 복사 시간 1, 3, 5% 단축
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Alchemist' Biology BY-805 ~ 810 : 부스터 지속시간 5, 10% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Alchemist' Nanite Control NC-903 ~ 905 : 부스터 부작용 효과 3, 5% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Alchemist' Neurotoxin Recovery NR-1003 ~ 1005 : 부스터 부작용이 발생할 확률 3, 5% 감소
+
+=== 실드 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gnome' Shield Upgrades SU-601 ~ 606 : 실드익스텐더의 파워그리드 요구량 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gnome' Shield Management SM-701 ~ 706 : 실드량 1~6% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gnome' Shield Emission Systems SE-801 ~ 806 : 실드 트랜스퍼의 캡 소모량 1~6% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Gnome' Shield Operation SP-901 ~ 906 : 실드 회복속도 1~6% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Sansha Modified 'Gnome' Implant : 실드량과 실드 회복속도 3% 보너스. 7슬롯에 삽입
+
+=== 산업 관련 ===
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Michi's Excavation Augmentor : 채광량 5% 증가. 7슬롯에 삽입
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Eifyr and Co. 'Alchemist' Gas Harvesting GH-801 ~ 805 : 가스 채집속도 1, 3, 5% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Beancounter' Industry BX-801 ~ 804 : 생산 속도 1, 2, 4% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Zainou 'Beancounter' Refining RX-801 ~ 804 : 제련 효율 1, 2, 4% 보너스
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Highwall' Mining MX-1001 ~ 1005 채광량 1, 3, 5% 증가
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Highwall' Mining Upgrades MY-1001 ~ 1005 : 마이닝 업그레이드 모듈 CPU요구량 1, 3, 5% 감소
+ *attachment:"EVE 온라인/임플란트/하드.png"?width=20&height=20 Inherent Implants 'Yeti' Ice Harvesting IH-1001 ~ 1005 : 아이스 채빙속도 1, 3, 5% 보너스
+
+=== 리더쉽 관련 ===
+이 임플란트를 삽입한 사람을 플릿 부스터로 지정하면 플릿 전체에게 효과가 적용되기 때문에 이 임플란트를 삽입하고 워페어, 마이닝링크 떡칠한 커맨드쉽을 타고 플릿부스터로 지정받으면 굉장한 효과를 보여준다. 아이콘이 메달 모양이다.
+ *attachment:"EVE 온라인/임플란트/링크.png"?width=20&height=20 Armored Warfare Mindlink : 아머량 갱부스트 보너스를 10%에서 15%로 대체[* 스킬로 인한 갱부스트 보너스 아머량 10%를 대체한다. 타 마인드링크도 동일], 아머드 워페어링크 효과 50% 증가.
+ *attachment:"EVE 온라인/임플란트/링크.png"?width=20&height=20 Information Warfare Mindlink : 타게팅거리 갱부스트 보너스를 10%에서 15%로 대체, 인포메이션 워페어링크 효과 50% 증가.
+ *attachment:"EVE 온라인/임플란트/링크.png"?width=20&height=20 Siege Warfare Mindlink : 실드량 갱부스트 보너스를 10%에서 15%로 대체, 시즈 워페어링크 효과 50% 증가.
+ *attachment:"EVE 온라인/임플란트/링크.png"?width=20&height=20 Skirmish Warfare Mindlink : 어질리티 갱부스트 보너스를 10%에서 15%로 대체, 스키미쉬 워페어링크 효과 50% 증가.
+ *attachment:"EVE 온라인/임플란트/링크.png"?width=20&height=20 Mining Foreman Mindlink : 채광량 갱부스트 보너스를 10%에서 15%로 대체, 마이닝링크 효과 50% 증가.
+ 
+ *attachment:"EVE 온라인/임플란트/링크팩션.png"?width=20&height=20 Caldari Navy Warfare Mindlink : 시즈 마인드링크 + 인포메이션 마인드링크[* 정말로 정직하게 두 마인드링크를 합쳐놓았다. 효과도, 요구 스킬도]
+ *attachment:"EVE 온라인/임플란트/링크팩션.png"?width=20&height=20 Federation Navy Warfare Mindlink : 아머 마인드링크 + 스커미쉬 마인드링크
+ *attachment:"EVE 온라인/임플란트/링크팩션.png"?width=20&height=20 Imperial Navy Warfare Mindlink : 아머 마인드링크 + 인포메이션 마인드링크
+ *attachment:"EVE 온라인/임플란트/링크팩션.png"?width=20&height=20 Republic Fleet Warfare Mindlink : 시즈 마인드링크 + 스커미쉬 마인드링크
+
+
+
+
+=== 오메가 (Faction Omega) ===
+2번 항목의 세트 임플란트 중 6번째 Omega 임플란트이다. 대부분 자체 성능은 없으며 세트효과를 뻥튀기해주는 효과가 있다. 테크2 아이콘이 붙어 있기 때문에 다른 하드와이어링이랑 쉽게 구별이 가능하다.
+일부 아이템은 일반 세트와 하급 세트를 섞으면 세트효과가 없는 것도 있으니 주의.
+
+== 기타 ==
+ *attachment:"EVE 온라인/임플란트/황금.png"?width=20&height=20 Genolution 'Auroral' AU-79 : 이브 10주년 기념 패키지 수록 아이템. 삽입시 캡슐이 "Genolution 'Auroral' 197-variant"라는 황금색 캡슐로 변한다. 79번 슬롯을 사용하며 또한 캡슐이 파괴되어도 이 임플란트는 파괴되지 않는다. 점프클론을 해도 점프한 클론에 적용된다. 능력향상은 전혀 없는 일명 [[룩딸]]템.
+일종의 유료 아이템, 그것도 한정판급 아이템이기 때문에 캡슐 파괴에 따른 불이익을 받지 않는 것이다. ~~다만 이것을 자존심으로 여기고 절대 알뿜을 하지 않겠다고 하는 이도 있다 [[카더라]]~~

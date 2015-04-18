@@ -1,0 +1,94 @@
+ * 상위 항목 : [[경의선]], [[용산선]], [[경원선]], [[중앙선]], [[수도권 전철 경의선]], [[수도권 전철 중앙선]], [[수도권 전철 경의·중앙선]], [[경의선 역 목록]]
+ * 파란 칸은 지상역임을 표시하는 것.
+
+[[목차]]
+
+== 일러두기 ==
+|||||||| 일러두기(여객·화물취급) ||
+||K ||KTX 필수정차역 ||k ||KTX 선택정차역 ||
+||S ||새마을호 필수정차역 ||s ||새마을호 선택정차역 ||
+||M ||무궁화호·누리로 필수정차역 ||m ||무궁화호·누리로 선택정차역 ||
+||C ||통근열차 정차역 ||B ||바다열차 정차역 ||
+||B ||화물취급역 ||─ ||여객·화물 미취급역 ||
+|||||||| 일러두기(역 등급) ||
+||⊙ ||그룹대표역 ||○ ||보통역 ||
+||● ||배치간이역 ||◑ ||무배치간이역 ||
+||◎ ||임시승강장 ||◇ ||을종승차권발매소 ||
+||‡ ||신호장 ||† ||신호소 ||
+
+ * 급행 정차역은 ◆로, 급행 통과역은 ┃로 표기하였다.
+ {{{#red ◆}}} : 문산-용산역 급행, 문산-서울역 급행
+ {{{#green ◆}}} : 용산-용문역 급행...
+
+ * 경의·중앙선 노선도 기준으로 표기하였다.[http://gall.dcinside.com/board/view/?id=train&no=540177&page=1 출처]
+
+== 경의·중앙선 본선 ==
+||<|2><:>역번 ||<|2><:>㎞ ||||<|2><:>역명 ||||<:>승강장 ||<|2><:>등급 ||<|2><:>급행 ||<|2><:>환승 ||<|2><:>소재지 ||
+|| 형태 || 횡단 ||
+||<#ccffff> K335 ||<#ccffff> 0.0 ||<#ccffff> [wiki:"문산역" 문　산] ||<#ccffff> 文　山 ||<#ccffff>  {{{#c0c0c0 │■│}}}│■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||<#c0c0c0><|7> 경기 파주시 ||
+||<#ccffff> K334 ||<#ccffff> 4.4 ||<#ccffff> [wiki:"파주역" 파　주] ||<#ccffff> 坡　州 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||
+||<#ccffff> K333 ||<#ccffff> 6.6 ||<#ccffff> [wiki:"월롱역" 월　롱] ||<#ccffff> 月　籠 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||
+||<#ccffff> K331 ||<#ccffff> 10.7 ||<#ccffff> [wiki:"금촌역" 금　촌] ||<#ccffff> 金　村 ||<#ccffff> │■││■│ ||<#ccffff> × ||<#ccffff> ○ ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||
+||<#ccffff> K330 ||<#ccffff> 12.8 ||<#ccffff> [wiki:"금릉역" 금　릉] ||<#ccffff> 金　陵 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||
+||<#ccffff> K329 ||<#ccffff> 15.9 ||<#ccffff> [wiki:"운정역" 운　정] ||<#ccffff> 雲　井 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||
+||<#ccffff> K328 ||<#ccffff> 17.4 ||<#ccffff> ~~[wiki:"야당역" 야　당]~~ ||<#ccffff> 野　塘 ||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>{{{#red ┃}}}　||<#ccffff>　||
+||<#ccffff> K327 ||<#ccffff> 19.5 ||<#ccffff> [wiki:"탄현역" 탄　현] ||<#ccffff> 炭　峴 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||<|10> 경기 고양시 ||
+||<#ccffff> K326 ||<#ccffff> 21.2 ||<#ccffff> [wiki:"일산역" 일　산] ||<#ccffff> 一　山 ||<#ccffff> │■││■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||
+||<#ccffff> K325 ||<#ccffff> 23.1 ||<#ccffff> [wiki:"풍산역(경의선)" 풍　산] ||<#ccffff> 楓　山 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||
+||<#ccffff> K324 ||<#ccffff> 24.8 ||<#ccffff> [wiki:"백마역(경의선)" 백　마] ||<#ccffff> 白　馬 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||
+||<#ccffff> K323 ||<#ccffff> 26.3 ||<#ccffff> [wiki:"곡산역" 곡　산] ||<#ccffff> 谷　山 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||
+||<#ccffff> K322 ||<#ccffff> 28.1 ||<#ccffff> [wiki:"대곡역(고양)" 대　곡] ||<#ccffff> 大　谷 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#red ◆}}} ||<#ccffff> {{{#fe5b10 ●}}} [wiki:"수도권 전철 3호선" 3호선] [[br]] --[[소사대곡선]]-- ||
+||<#ccffff> K321 ||<#ccffff> 29.9 ||<#ccffff> [wiki:"능곡역" 능　곡] ||<#ccffff> 陵　谷 ||<#ccffff> {{{#c0c0c0 │■│}}}│■{{{#c0c0c0 ││}}}■│{{{#c0c0c0 │■│}}} ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||
+||<#ccffff> K320 ||<#ccffff> 31.4 ||<#ccffff> [wiki:"행신역" 행　신] ||<#ccffff> 幸　信 ||<#ccffff>  {{{#c0c0c0 │■│}}}│■{{{#c0c0c0 ││}}}■│ ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#red ◆}}} ||<#ccffff>　||
+||<#ccffff> K319 ||<#ccffff> 32.3 ||<#ccffff> [wiki:"강매역" 강　매] ||<#ccffff> 江　梅 ||<#ccffff> │■{{{#c0c0c0 ││}}}■│ ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||
+||<#ccffff> K318 ||<#ccffff> 34.8 ||<#ccffff> [wiki:"화전역(경의선)" 화　전] ||<#ccffff> 花　田 ||<#ccffff> ■││■{{{#c0c0c0 ││■}}} ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||
+||<#ccffff> K317 ||<#ccffff> 38.2 ||<#ccffff> [wiki:"수색역" 수　색] ||<#ccffff> 水　色 ||<#ccffff> │■││■│{{{#c0c0c0 ■││■}}} ||<#ccffff> ○ ||<#ccffff> ⊙ ||<#ccffff>{{{#red ┃}}} ||<#ccffff>　||<#c0c0c0><|2> 서울 은평구 ||
+||<#ccffff> K316 ||<#ccffff> 38.8 ||||<#ccffff> [wiki:"디지털미디어시티역" 디지털미디어시티] ||<#ccffff> ■││■{{{#c0c0c0 ││■}}} ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ◆}}} ||<#ccffff> {{{#c55c1d ●}}} [wiki:"서울 지하철 6호선" 6호선][[br]]{{{#3681b7 ●}}} [wiki:"인천국제공항철도" 공항철도] ||
+|| K315 || 40.5 || [wiki:"가좌역" 가　좌] || 加　佐 || ■││■ || ○ || ● ||{{{#red ┃}}} || {{{#73c7a6 ●}}} [wiki:"수도권 전철 경의·중앙선" 경의·중앙선][[br]]([wiki:"서울역" 서울] 방면) || 서울 서대문구 ||
+|| K314 || 42.2 || [wiki:"홍대입구역" 홍대입구] || 弘大入口 || ■││■ || ○ || ◑ ||{{{#red ◆}}} || {{{#33a23d ●}}} [wiki:"서울 지하철 2호선" 2호선][[BR]]{{{#3681b7 ●}}} [wiki:"인천국제공항철도" 공항철도] ||<#c0c0c0><|3> 서울 마포구 ||
+|| K313 || 43.1 || [wiki:"서강대역" 서강대] || 西江大 || ■││■ || ○ || ◑ ||{{{#red ┃}}} || ||
+|| K312 || 45.0 || [wiki:"공덕역" 공　덕] || 孔　德 || ■││■ || ○ || ◑ ||{{{#red ◆}}} || {{{#8b50a4 ●}}} [wiki:"서울 지하철 5호선" 5호선][[br]]{{{#c55c1d ●}}} [wiki:"서울 지하철 6호선" 6호선][[br]]{{{#3681b7 ●}}} [wiki:"인천국제공항철도" 공항철도] ||
+|| K311 || 45.7 || ~~[wiki:"효창공원앞역" 효창공원앞]~~ || 孝昌公園앞 ||  || ? || ◑ ||{{{#red ┃}}} || {{{#c55c1d ●}}} [wiki:"서울 지하철 6호선" 6호선] ||<|5> 서울 용산구 ||
+||<#ccffff> K110 ||<#ccffff> 47.5 ||<#ccffff> [wiki:"용산역(서울)" 용　산] ||<#ccffff> 龍　山 ||<#ccffff> {{{#c0c0c0 │■│││■││■││■││■││}}}■│{{{#c0c0c0 │}}}│■ ||<#ccffff> ○ ||<#ccffff> ⊙ ||<#ccffff>{{{#red ◆}}}{{{#green ◆}}} ||<#ccffff> {{{#0d3692 ●}}} [wiki:"수도권 전철 1호선" 1호선] ||
+||<#ccffff> K111 ||<#ccffff> 49.4 ||<#ccffff> [wiki:"이촌역" 이　촌] ||<#ccffff> 二　村 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◇ ||<#ccffff>{{{#green ◆}}} ||<#ccffff> {{{#32a1c8 ●}}} [wiki:"수도권 전철 4호선" 4호선] ||
+||<#ccffff> K112 ||<#ccffff> 51.1 ||<#ccffff> [wiki:"서빙고역" 서빙고] ||<#ccffff> 西氷庫 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K113 ||<#ccffff> 53.0 ||<#ccffff> [wiki:"한남역" 한　남] ||<#ccffff> 漢　南 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◇ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K114 ||<#ccffff> 54.6 ||<#ccffff> [wiki:"옥수역" 옥　수] ||<#ccffff> 玉　水 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#green ◆}}} ||<#ccffff> {{{#fe5b10 ●}}} [wiki:"수도권 전철 3호선" 3호선] ||<|3><:><#c0c0c0>서울 성동구 ||
+||<#ccffff> K115 ||<#ccffff> 56.4 ||<#ccffff> [wiki:"응봉역" 응　봉] ||<#ccffff> 鷹　峰 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◇ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K116 ||<#ccffff> 57.8 ||<#ccffff> [wiki:"왕십리역" 왕십리] ||<#ccffff> 往十里 ||<#ccffff> {{{#c0c0c0 │■│}}}│■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#green ◆}}} ||<#ccffff> {{{#33a23d ●}}} [wiki:"서울 지하철 2호선" 2호선][[br]]{{{#8b50a4 ●}}} [wiki:"서울 지하철 5호선" 5호선][[br]]{{{#ffb300 ●}}} [분당선] ||
+||<#ccffff> K117 ||<#ccffff> 60.2 ||<#ccffff> [wiki:"청량리역" 청량리] ||<#ccffff> 淸凉里 ||<#ccffff> {{{#c0c0c0 │■│││■│}}}│■│{{{#c0c0c0 │■│}}} ||<#ccffff> ○ ||<#ccffff> ⊙ ||<#ccffff>{{{#green ◆}}} ||<#ccffff> {{{#0d3692 ●}}} [wiki:"수도권 전철 1호선" 1호선] ||<|2><:>서울 동대문구 ||
+||<#ccffff> K118 ||<#ccffff> 61.6 ||<#ccffff> [wiki:"회기역" 회　기] ||<#ccffff> 回　基 ||<#ccffff> │■│{{{#c0c0c0 │■│}}} ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#green ◆}}} ||<#ccffff> {{{#0d3692 ●}}} [wiki:"수도권 전철 1호선" 1호선] ||
+||<#ccffff> K119 ||<#ccffff> 63.4 ||<#ccffff> [wiki:"중랑역" 중　랑] ||<#ccffff> 中　浪 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff> × ||<#ccffff> ◇ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||<|4><:><#c0c0c0>서울 중랑구 ||
+||<#ccffff> K120 ||<#ccffff> 64.2 ||<#ccffff> [wiki:"상봉역" 상　봉] ||<#ccffff> 上　鳳 ||<#ccffff> ■││■{{{#c0c0c0 ││■│}}} ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#green ◆}}} ||<#ccffff> {{{#54640d ●}}} [wiki:"서울 지하철 7호선" 7호선][[br]] {{{#32c6a6 ●}}} [wiki:"수도권 전철 경춘선" 경춘선] ||
+||<#ccffff> K121 ||<#ccffff> 64.8 ||<#ccffff> [wiki:"망우역" 망　우] ||<#ccffff> 忘　憂 ||<#ccffff> ■│{{{#c0c0c0 │}}}│■│ ||<#ccffff> ○ ||<#ccffff> ⊙ ||<#ccffff>{{{#green ┃}}} ||<#ccffff> {{{#32c6a6 ●}}} [wiki:"수도권 전철 경춘선" 경춘선] ||
+||<#ccffff> K122 ||<#ccffff> 66.5 ||<#ccffff> [wiki:"양원역(중앙선)" 양　원] ||<#ccffff> 養　源 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◇ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K123 ||<#ccffff> 69.7 ||<#ccffff> [wiki:"구리역" 구　리] ||<#ccffff> 九　里 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#green ◆}}} ||<#ccffff> --{{{#f51361 ●}}} [wiki:"서울 지하철 8호선" 8호선]([[별내선]])-- ||<:>경기 구리시||
+||<#ccffff> K124 ||<#ccffff> 71.4 ||<#ccffff> [wiki:"도농역" 도　농] ||<#ccffff> 陶　農 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#green ◆}}} ||<#ccffff>　||<|6><:><#c0c0c0>경기 남양주시||
+||<#ccffff> K125 ||<#ccffff> 75.1 ||<#ccffff> [wiki:"양정역(중앙선)" 양　정] ||<#ccffff> 養　正 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff> ○ ||<#ccffff> ◇ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K126 ||<#ccffff> 77.4 ||<#ccffff> [wiki:"덕소역" 덕　소] ||<#ccffff> 德　沼 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#green ◆}}} ||<#ccffff>　||
+||<#ccffff> K127 ||<#ccffff> 78.9 ||<#ccffff> [wiki:"도심역" 도　심] ||<#ccffff> 陶　深 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◇ ||<#ccffff>{{{#green ◆}}} ||<#ccffff>　||
+||<#ccffff> K128 ||<#ccffff> 83.1 ||<#ccffff> [wiki:"팔당역" 팔　당] ||<#ccffff> 八　堂 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K129 ||<#ccffff> 89.5 ||<#ccffff> [wiki:"운길산역" 운길산] ||<#ccffff> 雲吉山 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K130 ||<#ccffff> 91.4 ||<#ccffff> [wiki:"양수역" 양　수] ||<#ccffff> 兩　水 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#green ◆}}} ||<#ccffff>　||<|14><:>경기 양평군 ||
+||<#ccffff> K131 ||<#ccffff> 96.1 ||<#ccffff> [wiki:"신원역(중앙선)" 신　원] ||<#ccffff> 新　院 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K132 ||<#ccffff> 99.0 ||<#ccffff> [wiki:"국수역" 국　수] ||<#ccffff> 菊　秀 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K133 ||<#ccffff> 103.1 ||<#ccffff> [wiki:"아신역" 아　신] ||<#ccffff> 我　新 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K134 ||<#ccffff> 105.9 ||<#ccffff> [wiki:"오빈역" 오　빈] ||<#ccffff> 梧　濱 ||<#ccffff> ■││■ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K135 ||<#ccffff> 108.1 ||<#ccffff> [wiki:"양평역(중앙선)" 양　평] ||<#ccffff> 楊　平 ||<#ccffff> │■│{{{#c0c0c0 ■││■}}}│■│ ||<#ccffff> × ||<#ccffff> ⊙ ||<#ccffff>{{{#green ◆}}} ||<#ccffff>　||
+||<#ccffff> K136 ||<#ccffff> 113.9 ||<#ccffff> [wiki:"원덕역" 원　덕] ||<#ccffff> 元　德 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#green ┃}}} ||<#ccffff>　||
+||<#ccffff> K137 ||<#ccffff> 118.7 ||<#ccffff> [wiki:"용문역(중앙선)" 용　문] ||<#ccffff> 龍　門 ||<#ccffff> │■│{{{#c0c0c0 ■││■}}}│■│ ||<#ccffff> × ||<#ccffff> ○ ||<#ccffff>{{{#green ◆}}} ||<#ccffff>　||
+
+== 경의·중앙선 지선 ==
+||<|2><:>역번 ||<|2><:>㎞ ||||<|2><:>역명 ||||<:>승강장 ||<|2><:>등급 ||<|2><:>급행 ||<|2><:>환승 ||<|2><:>소재지 ||
+|| 형태 || 횡단 ||
+|||||||||||||||||||||| 출퇴근 시간 완행 및 급행 열차는 본선 운행계통과 합류하여 운행[* 실제 본선과 지선 선로는 수색역까지 선로별 복복선 형태로 운행된 후 수색~화전 사이의 입체교차선로를 통해 방향별 복복선으로 바뀐다. 이후 능곡역까지는 복복선이고, 능곡 이후로는 복선이다. 출퇴근 시간을 제외하면 서울 착발 열차는 대곡에서 종착한다. ~~뜬금없이 낮 시간대에 문산 발 서울행 1편성 빼고~~] ||
+||<#ccffff> K322 ||<#ccffff> 18.2 ||<#ccffff> [wiki:"대곡역(고양)" 대　곡] ||<#ccffff> 大　谷 ||<#ccffff> │■││■│ ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#red ◆}}} ||<#ccffff> {{{#fe5b10 ●}}} [wiki:"수도권 전철 3호선" 3호선] [[br]] --[[소사대곡선]]-- ||<|5>경기 고양시 ||
+||<#ccffff> K321 ||<#ccffff> 16.4 ||<#ccffff> [wiki:"능곡역" 능　곡] ||<#ccffff> 陵　谷 ||<#ccffff> {{{#c0c0c0 │■││}}}■││■{{{#c0c0c0 ││■│}}} ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#red ┃}}}||<#ccffff>　||
+||<#ccffff> K320 ||<#ccffff> 14.9 ||<#ccffff> [wiki:"행신역" 행　신] ||<#ccffff> 幸　信 ||<#ccffff> {{{#c0c0c0 │■││}}}■││■ {{{#c0c0c0 │}}} ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#red ◆}}}||<#ccffff>　||
+||<#ccffff> K319 ||<#ccffff> 13.0 ||<#ccffff> [wiki:"강매역" 강　매] ||<#ccffff> 江　梅 ||<#ccffff> {{{#c0c0c0 │}}}■││■ {{{#c0c0c0 │}}} ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff>{{{#red ┃}}}||<#ccffff>　||
+||<#ccffff> K318 ||<#ccffff> 11.5 ||<#ccffff> [wiki:"화전역(경의선)" 화　전] ||<#ccffff> 花　田 ||<#ccffff> {{{#c0c0c0 ■││}}}■││■ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#red ┃}}}||<#ccffff>　||
+||<#ccffff> K317 ||<#ccffff> 8.1 ||<#ccffff> [wiki:"수색역" 수　색] ||<#ccffff> 水　色 ||<#ccffff> {{{#c0c0c0 │■││■│}}}■││■ ||<#ccffff> ○ ||<#ccffff> ⊙ ||<#ccffff>{{{#red ┃}}}||<#ccffff>　||<|2><#c0c0c0> 서울 은평구 ||
+||<#ccffff> K316 ||<#ccffff> 7.5 ||||<#ccffff> [wiki:"디지털미디어시티역" 디지털미디어시티] ||<#ccffff> {{{#c0c0c0 ■││}}}■││■ ||<#ccffff> ○ ||<#ccffff> ◑ ||<#ccffff>{{{#red ◆}}}||<#ccffff> {{{#c55c1d ●}}} [wiki:"서울 지하철 6호선" 6호선][[br]]{{{#3681b7 ●}}} [wiki:"인천국제공항철도" 공항철도] ||
+||<#ccffff> K315 ||<#ccffff> 5.8 ||<#ccffff> [wiki:"가좌역" 가　좌] ||<#ccffff> 加　佐 ||<#ccffff> │■│ ||<#ccffff> ○ ||<#ccffff> ● ||<#ccffff><#ccffff>{{{#red ┃}}}||<#ccffff> {{{#73c7a6 ●}}} [경의·중앙선][[br]]([wiki:"용산역(서울)" 용산] 방면) ||<|2>서울 서대문구 ||
+||<#ccffff> P314 ||<#ccffff> 3.1 ||<#ccffff> [wiki:"신촌역(경의선)" 신　촌] ||<#ccffff> 新　村 ||<#ccffff> ││■││ ||<#ccffff> ○ ||<#ccffff> ○ ||<#ccffff>{{{#red ◆}}}||<#ccffff>　||
+||<#ccffff> P313 ||<#ccffff> 0.0 ||<#ccffff> [wiki:"서울역" 서　울] ||<#ccffff>　||<#ccffff> ■│{{{#c0c0c0 │■││■││■││■│││■│││■│││■│││}}} ||<#ccffff> ○ ||<#ccffff> ⊙ ||<#ccffff>{{{#red ◆}}}||<#ccffff> {{{#0d3692 ●}}} [wiki:"서울 지하철 1호선" 1호선][[br]]{{{#32a1c8 ●}}} [wiki:"서울 지하철 4호선" 4호선][[br]]{{{#3681b7 ●}}} [wiki:"인천국제공항철도" 공항철도] ||<#c0c0c0> 서울 용산구 ||

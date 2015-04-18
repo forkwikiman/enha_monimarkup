@@ -1,0 +1,38 @@
+'''神々の祈り'''
+
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/fvAUqK9UVQw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[동방 프로젝트]] 앨범인 동방화상신월(東方華想神月)과 동방신월담(東方神月譚)에 수록된 악곡. 원곡은 [동방풍신록] 2스테이지의 BGM인 厄神様の通り道(재앙신의 통로)　～ Dark road.
+
+어레인저는 時音(TOKINE), 보컬은 쟈스나 아스카(沙紗飛鳥). 원곡에 일본풍을 적절하게 가미하였다.
+
+== [[사운드 볼텍스]]에 수록 ==
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||http://maikaze.com/image/jyake/cd/mktd-0902_jk.jpg?width=150 || http://maikaze.com/image/jyake/cd/mktd-0902_jk.jpg?width=150 || http://maikaze.com/image/jyake/cd/mktd-0902_jk.jpg?width=150 ||
+|| 난이도 || {{{#purple 01}}} || {{{#orange 07}}} || {{{#ff009f 10}}} ||
+|| 체인 수 || {{{#purple 0360}}} || {{{#orange 0774}}} || {{{#ff009f 0909}}} ||
+|| 일러스트 담당 || {{{#purple 時音-TOKINE}}} || {{{#orange 時音-TOKINE}}} || {{{#ff009f 時音-TOKINE}}} ||
+|| 이펙터 || {{{#purple DJ WILDPARTY}}} || {{{#orange DJ WILDPARTY}}} || {{{#ff009f DJ WILDPARTY}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 01(2013.6.5)}}} ||
+|| [[BPM]] |||||| 130 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 01(2014.6.5 ~ 2014.8.1), Skill Level 01 C코스(2014.11.20 ~ 2014.12.26)
+
+자켓은 먼저 나온 동방화상신월의 자켓이 아닌 동방신월담의 자켓을 사용하였다.
+
+{{{#!HTML
+<iframe width="360" height="640" src="http://www.youtube.com/embed/FxDp4TVgDDw" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PERFECT 영상
+
+EXH 패턴의 레벨은 11이지만 11치곤 노트배치가 간단하다는 평. 결국 SDVX lll에서 난이도가 10으로 하향됐다.

@@ -1,0 +1,52 @@
+<<include(틀:IIDX 특수해금)>>
+
+[[목차]]
+== 개요 ==
+[[비트매니아 IIDX 17 SIRIUS]]에서 등장하는 엑스트라 폴더 시스템.
+
+IIDX RED부터 DJ TROOPERS까지의 과거 작품을 컨셉으로 한 폴더이다. [드럼매니아] & [기타프릭스]도 그렇고 [팝픈뮤직] 17 무비도 그랬고 이 당시에 행해진 구작 관련 이벤트의 일환으로, 폴더가 하나뿐이었던 전작들과는 달리 PARALLEL ROTATION IIDX RED부터 PARALLEL ROTATION DJ TROOPERS까지 폴더가 따로 있어서 모두 5개의 폴더로 구성되어 있다. 폴더 내에서는 해당하는 버전의 선곡 BGM, 게임 프레임[* 단 [비트매니아 IIDX 11 IIDX RED]의 경우 게이지 형태가 유일하게 슬래시 형태로 기울어져 있기 때문에 이 요소만은 완전히 재현하지 못했다.]이 표시되며, 선곡 화면도 해당하는 버전을 컨셉으로 한 전용 화면이 사용된다.
+
+각 폴더는 리믹스 1곡과 CS 이식곡 2곡, 그리고 숨겨진 신곡 1곡으로 구성되어 있다. 리믹스와 CS 이식곡을 특정 조건을 만족시켜서 클리어하면 곡에 열쇠 마크가 붙고, 3곡 모두에 열쇠 마크를 붙이면 신곡이 해금된다. 신곡은 해당 작품의 컨셉에 대한 재해석 형식으로 만들어졌다.
+
+2010년 1월 27일 beat#2 종료에 따라 PARALLEL ROTATION 대응곡들은 모두 해금되었다.
+
+== 대응곡 ==
+=== PARALLEL ROTATION [wiki:"비트매니아 IIDX 11 IIDX RED" IIDX RED] ===
+ * PSYCHEDELIC TRANCE / [[spiral galaxy]] -L.E.D. STYLE SPREADING PARTICLE BEAM MIX- / Remixed by [[L.E.D.]]
+ * HARDCORE / [[eRAseRmOToRpHAntOM]] / [[L.E.D.]]-G VS GUHROOVY
+ * WORLD/ELECTRONICA / 水上の提督(Short mix from "幻想水滸伝V") / [[猫叉Master]]
+ * VALSE / [wiki:"ワルツ第17番 ト短調 大犬のワルツ" ワルツ第17番 ト短調 "大犬のワルツ"] / [wiki:"wac" virkato]
+
+출현 조건 : 신곡 60채보를 플레이하여 점수를 남긴다. (싱글/더블 별도)
+=== PARALLEL ROTATION [wiki:"비트매니아 IIDX 12 HAPPY SKY" HAPPY SKY] ===
+ * TRANCE / [[wiki:"스파크" SPARK!]] -essential RMX- / Remixed by dj TAKA VS PINK PONG
+ * DRUM & BASS / DAWN -THE NEXT ENDEAVOUR- / L.E.D. fw.堀澤麻衣子
+ * WORLD/ELECTRONICA / [[サヨナラ・ヘヴン]] / 猫叉Master
+ * HARDCORE / [[EXUSIA]] / L.E.D.-G
+
+출현 조건 : DJ Point 2000을 넘긴다. (싱글/더블 별도)
+=== PARALLEL ROTATION [wiki:"비트매니아 IIDX 13 DistorteD" DistorteD] ===
+ * SUBLIME TECHNO / [[wiki:"캡티베이트 시리즈" CaptivAte~裁き~(SUBLIME TECHNO MIX)]] / Remixed by DJ YOSHITAKA
+ * HARDSTYLE / [[SOLID STATE SQUAD]] / kors k vs. L.E.D.
+ * TRANCE / [[quell -the seventh slave-]] / dj TAKA Vs. DJ YOSHITAKA
+ * EXPERIMENTAL MUSIC / [[G59]] / 怒れる金の獅子
+
+출현 조건 : 원정 지역 3지역 이상, 또는 원정 점포수 10점포 이상을 기록한다.
+=== PARALLEL ROTATION [wiki:"비트매니아 IIDX 14 GOLD" GOLD] ===
+ * PSYCHE TRANCE / DENJIN AKATSUKINI TAORERU-SF PureAnalogSynth Mix- / Remixed by Sota Fujimori
+ * EPIC TRANCE / The Story Begins / SADA & Sota
+ * TECHNO / [[GOLDEN CROSS]] / [[dj REMO-CON]] VS [[dj TAKA]]
+ * TECHNO POP SPEED / [[mosaic]] / Auridy
+
+출현 조건 : EXPERT의 Internet Ranking 대응 코스 15개를 플레이하여 점수를 등록한다. (싱글/더블 별도)
+=== PARALLEL ROTATION [wiki:"비트매니아 IIDX 15 DJ TROOPERS" DJ TROOPERS] ===
+ * EUROBEAT / [[Dazzlin' Darlin]] -秋葉工房mix- / Remixed by DJ Command
+ * DRUM & BASS / [[THE LAST STRIKER]] / L.E.D.
+ * DRUM'N'BASS / BEAUTIFUL ANGEL / DJ SWAN
+ * NEXT SKOOL BREAKBEATS HARDCORE / [[wiki:"D(비마니 시리즈)" D]] / Eagle
+
+출현 조건 : 각 버전별 폴더에서 5채보 이상 플레이하여 스코어를 남긴다.
+=== ONE MORE EXTRA STAGE ===
+ * AKASHIC RECORDS / [[Almagest]] / Galdeira
+
+출현 조건 : 각 PARALLEL ROTATION의 신곡을 클리어하여 열쇠를 붙이면 등장한다.

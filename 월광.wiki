@@ -1,0 +1,73 @@
+[[목차]]
+== 사전적인 뜻 ==
+~~胱~~月光. [[wiki:"문라이트" Moonlight]]. [[달]][[빛]].
+
+== 클래식 악곡 ==
+=== [[루트비히 판 베토벤]]이 작곡한 [[피아노]] [[소나타]] ===
+[[월광소나타]] 항목 참고.
+=== [[클로드 드뷔시]]가 작곡한 피아노곡 ===
+베르가마스크 모음곡 중 한 곡으로, 드뷔시 곡들이 그렇듯 이쪽은 정말 월광을 표현한 표제음악.
+원제 Clair de lune으로 검색해 들을 수 있다.
+== [[아머드 코어]] 시리즈의 등장 무기 ==
+[[월광(아머드 코어)]] 항목 참고.
+
+== [[메탈기어 시리즈]]에 등장하는 2족보행 무인기 ==
+[겟코(메탈기어 시리즈)] 항목 참고.
+
+== [[비트매니아 IIDX]]의 수록곡 ==
+月光. [[비트매니아 IIDX]] 12 Happy Sky 수록곡. 작(편)곡은 [[Tatsh]].
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gQG7R2b4sc8&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gQG7R2b4sc8&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 155 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 455}}} || {{{#orange 8}}} || {{{#orange 900}}} || {{{#red 10}}} || {{{#red 1246}}} || {{{#blue 4}}} || {{{#blue 440}}} || {{{#orange 9}}} || {{{#orange 922}}} || {{{#red 10}}} || {{{#red 1175}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 12 HAPPY SKY ~
+ * 가정용판 수록 : 12 HAPPY SKY, 16 EMPRESS + PREMIUM BEST (EMPRESS SIDE)
+
+보컬은 [[호시노 카나코]]가 맡았으며 [[BGA]]에도 그녀가 등장한다. BGA 담당은 동경식당. AC 12 HAPPY SKY에선 달과 빛의 제목을 가진 곡을 클리어하면 해금되는 특수 해금곡이었다. 로케테스트에선 프리모드에서 선택이 가능했으나, 제품판에선 막혔다.
+
+월광이란 제목의 유래는 동명의 [[베토벤]]의 소나타를 중반에 어레인지하였기 때문. [[유로비트]]풍이 물씬 풍기는 악곡이다. 
+
+난이도 면에서는 아주 어렵지는 않지만, [[wiki:"Tatsh" 채보를 만든 사람이 사람인지라]] 채보가 썩 좋지는 않다. 다만, 더블 노멀은 4레벨 치고는 5레벨에나 볼법한 패턴이 많아 특히 어렵다. 더블 어나더는 원래 11 난이도였으나 GOLD에서 10으로 하향되었다.
+
+호시노 카나코의 미니앨범인 EIGHT ELEMENTS OF THE STAR에 풀버전이 수록되었다.
+
+== [[트릭]]의 OST ==
+[[오니츠카 치히로]]가 부른 [[트릭]] 1기의 OST.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/tLb382OclBk&hl=ko_KR&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tLb382OclBk&hl=ko_KR&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+가사의 주인공을 [[예수]]로 상정하고 들으면 굉장히 흥미로운 내용의 노래가 된다.(응?!) 애초에 뮤직비디오에서도 계속해서 십자가를 비춰주며 그런 부분을 소재로 삼은 곡이란걸 드러낸다.
+
+== [[소녀왕국 표류기]]의 등장인물 ==
+전임 서쪽 주인. [[카라아게]] 이전의 주인으로 인술의 대가. 카라아게가 창안한 [[비계류]]를 보고 그를 인정해 자리를 물려주었다. 분신술까지 쓰는 닌자 같은 타입.
+
+== 반로국의 태자의 법명 ==
+[이뇌왕]의 아들이자 10대왕, 혹은 16대 왕으로 추정되는 인물. [wiki:"월광태자" 해당항목]참조.
+
+== [[펌프 잇 업]] Zero 수록곡 ==
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/u_xY1O5Roh8?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/u_xY1O5Roh8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/ZERO" Pump It Up Zero]] ||
+|| 아티스트 |||| BanYa ||
+|| BPM |||| 180 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| Original Tunes / Exceed ~ Zero ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 4 / 7 / 10 / 18 / 19 ||
+||<#009900> Double || 11 / 20 / 21 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+||<|2> Short Cut ||<#ff8c00> Single || 16 / 20 ||
+||<#009900> Double || 20 ||
+
+== 만화 아스트랄 프로젝트 월광 ==
+일본만화 [[올드보이]]의 작가 츠치야 가론이 marginal이라는 예명으로 타케야 슈지와 함께 만든 만화. 4권 완결. 

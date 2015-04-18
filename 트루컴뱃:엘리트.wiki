@@ -1,0 +1,25 @@
+울펜슈타인 : 에너미 테레토리의 모드.
+
+원레는 퀘이크의 모드로 만들었다가 후속으로 트루컴뱃 엘리트의 모드로 세롭게 만든 모드다.
+
+전체적으로 무척 사실적인 게임이면서도 캐쥬얼성을 적절히 혼합하여 사실주의 FPS중에선 생각보다 문턱이 낮은 편. 일본서버도 몇개 있고 해서 사실주의FPS를 좋아한다면 해볼만하다. 울펜슈타인 에너미테레토리의 모드인지라 '''완전무료'''다.
+
+울펜슈타인 에너미테레토리의 모드인데 확실히 그래픽이 향상했다.
+
+몇몇 서버에선 유즈맵이나 자작총기들을 돌리기도한다. 어떤맵에선 상자가 달린 권총도 존재하는데, 앉을경우 얼핏보면 그냥 상자로 보인다(...).
+
+현재 TC:CQB 라는 후속작을 개발중인데... '''극한의 프리에임'''을 재연하였다. 즉, 재장전하거나 조준 도중 '''머리만 돌려 주변을 둘러보는게 가능하다!'''
+
+모든 트루컴뱃에 대한 정보는 [[True Combat]] 에서 참조할 수 있다.
+
+아래는 TC:CQB의 영상.
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/y2oTt-rfAv8&color1=0x234900&color2=0x4e9e00&hl=ko_KR&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/y2oTt-rfAv8&color1=0x234900&color2=0x4e9e00&hl=ko_KR&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="385"></embed></object>
+}}}
+
+국내 공식 커뮤니티 [[http://www.truecombat.kr]]
+
+아래는 프리에임영상.
+http://www.youtube.com/watch?v=lflXNbEtJik
+
+

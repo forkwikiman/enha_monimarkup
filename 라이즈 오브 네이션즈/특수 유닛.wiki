@@ -1,0 +1,151 @@
+ * 상위 항목: [[라이즈 오브 네이션즈]]
+ * 연관 항목: [[라이즈 오브 네이션즈/유닛]]
+
+[[목차]]
+
+= 개요 =
+각 국가에서 기용할 수 있는 특수한 유닛이다. 새로 추가되는 것이 아니라 일반적인 병종, 예를 들어 다른 국가는 일반적인 궁병 유닛이지만, 영국에선 같은 종류의 궁병 유닛 대신 장궁병이 나오는 형태다. 따라서 일반적인 유닛보다는 능력치도 좋은 편이며, 유닛 간의 상성 관계가 약간 다른 경우도 있다.
+
+하지만 [[에이지 오브 엠파이어]]처럼 '이 유닛만 뽑으면 게임에서 이긴다' 같은 법칙은 존재하지 않는다. 또한 특정 시대에만 양성할 수 있고, 시대 업그레이드를 하고 나면 --애지중지하던 녀석이-- 일반 유닛으로 바뀌는 경우도 있으므로 게임 밸런스에 심각한 영향을 끼치지 않는다. --그럼 정보화 시대에 나오는 특수 유닛은 어쩌지?-- --[[순항 미사일]] 쓰면 되잖아-- --상대편도 쓰는데?-- --그럼 [[핵미사일]] 날려-- --[[고만해 미친놈들아]]-- 사실 유닛상성에 대한 고려만 잘 해도 때려잡기 쉽다.
+= 특수 유닛 목록 =
+아래에 표기된 특수 유닛의 명칭은 한국 정발판을 기준으로 하였다.
+== [[아메리카]] ==
+||<#DCDCDC><width=50px> 국가명 ||<#DCDCDC><width=70px> 이미지 ||<#DCDCDC><width=120px> 명칭 ||<#DCDCDC><width=63px> 등장 시대 ||<#DCDCDC> 설명 ||
+||<|4> [[라코타]] ||http://images2.wikia.nocookie.net/__cb20110413004851/riseofnations/images/4/40/Sunka_wakan.jpg||순카와칸[[br]]Sunka Wakan || 고전 시대 ||기마 궁사를 대체한다. 자원 수집용 건물에 추가 피해를 준다. 시민의 자원 수집을 방해하기 효과적이지만 라코타는 비인기 국가라서 라코타와 상대할 기회가 거의 없다. --다행이다-- ||
+||http://images4.wikia.nocookie.net/__cb20110413004928/riseofnations/images/7/7f/Eagle_feather_horse.jpg ||독수리 깃털 기마병[[br]]Eagle Feather Horse || 중세 시대 ||고급 기마 궁사를 대체한다. 자원 수집용 건물에 추가 피해를 준다.||
+||http://images2.wikia.nocookie.net/__cb20110413004953/riseofnations/images/6/63/Musket_horse.jpg ||머스킷 기마병[[br]]Musket Horse || 화약 시대 ||드래군 기병을 대체한다. 자원 수집용 건물에 추가 피해를 준다.||
+||http://images4.wikia.nocookie.net/__cb20110413005029/riseofnations/images/a/a3/Repeating_rifle_horse.jpg ||고급 머스킷 기마병[[br]]Repeating Rifle Horse || 계몽 시대 ||기총병을 대체한다. 자원 수집용 건물에 추가 피해를 준다.||
+||<#DCDCDC><|5> [[마야]] ||http://images2.wikia.nocookie.net/__cb20110413115757/riseofnations/images/4/44/Balamob_slinger.jpg||발라몹 투석병[[br]]Balamob Slingers || 고대 시대 ||투석병을 대체한다. 투석병보다 빨리 움직이며, 저렴하다. 적 보병을 상대하는 데 효과적이다. ||
+||http://images2.wikia.nocookie.net/__cb20110413115922/riseofnations/images/1/11/Royal_balamob_slinger.jpg||로열 발라몹 투석병[[br]]Royal Balamob Slingers || 고전 시대 ||투창병을 대체한다. 투창병보다 빨리 움직이며, 저렴하다. 적 보병을 상대하는 데 효과적이다. ||
+||http://images3.wikia.nocookie.net/__cb20110413120106/riseofnations/images/a/ab/Eagle_balamob_slinger.jpg||이글 발라몹 투석병[[br]]Eagle Balamob Slingers || 중세 시대 ||정예 투창병을 대체한다. 정예 투창병보다 빨리 움직이며, 저렴하다. 적 보병을 상대하는 데 효과적이다. ||
+||http://images2.wikia.nocookie.net/__cb20110413120143/riseofnations/images/c/c3/Recoilless_gun.jpg||[[무반동포]][[br]]Recoilless Gun || 현대 시대 ||[[바주카]]를 대체한다. 모든 종류의 차량을 상대하는 데 효과적이다. 마야의 영토가 멕시코 남부~중미였으니 [[중미]] 어딘가의 나라가 마야를 계승한 셈이다. [[과테말라]]나 [[온두라스]] 같은 나라를 계승 국가로 삼은 듯하다. ||
+||http://images2.wikia.nocookie.net/__cb20110413120250/riseofnations/images/f/f8/Dragon_at_missle.jpg||[wiki:"M47 드래곤"드래곤 대전차 미사일][[br]]Dragon AT Missile || 정보화 시대 ||[[대전차미사일]]을 대체한다. 모든 종류의 차량을 상대하는 데 효과적이다. --하지만 실제로 이걸 중미에서 쓰는 나라가 없다는 게 [[함정]]-- ||
+||<|6> [[미국]] ||http://images4.wikia.nocookie.net/__cb20110424213344/riseofnations/images/0/02/Continental_Marines.jpg ||[wiki:"미국 해병대"내륙 해병대][[br]]Continental Marines || 계몽 시대 ||[[머스킷]] 보병을 대체한다. 머스킷 보병보다 빨리 움직이며 강하다. 5초 동안 정지하면 자동으로 참호를 구축하여 방어력을 늘린다. 공격력도 높은데, '''장군의 참호 구축 능력 없이''' 자동으로 참호를 구축할 수 있는 사기 유닛이다. 적이 대기중인 해병대에게 공격할 경우 상당히 많은 병력을 잃을 수 있으므로 보병에 강한 기병이나 차량을 대량으로 생산해서 이들을 공격해야 한다. ||
+||http://images1.wikia.nocookie.net/__cb20110424213406/riseofnations/images/4/44/Marine_Riflemen.jpg||소총 해병대[[br]]Marine Riflemen || 산업 시대 ||소총수를 대체한다. 소총수보다 빨리 움직이며 강하다. 5초 동안 정지하면 자동으로 참호를 구축하여 방어력을 늘린다. ||
+||http://images4.wikia.nocookie.net/__cb20110424213430/riseofnations/images/e/e3/Marine_Infantry.jpg||대륙 해병대[[br]]Marine Infantry || 현대 시대 ||보병을 대체한다. 머스킷 보병보다 빨리 움직이며 강하고, 빠르게 공격한다. 5초 동안 정지하면 자동으로 참호를 구축하여 방어력을 늘린다. 원래부터 강한 녀석이 공격 속도마저 빨라져서 더 강해진다. --미친 거 아냐?-- 원화에는 해병대가 [[톰슨 기관단총]]을 무장하고 있는데, 삽입된 탄창은 [[브라우닝 자동소총]]의 탄창과 유사하다. ||
+||http://images2.wikia.nocookie.net/__cb20110424213453/riseofnations/images/7/7b/Assault_Marines.jpg||강습 해병대[[br]]Assault Marines || 정보화 시대 ||강습 보병을 대체한다. 강습 보병보다 빨리 움직이며 강하고, 빠르게 공격한다. 5초 동안 정지하면 자동으로 참호를 구축하여 방어력을 늘린다. 원화에는 해병대가 [[M203]] [[유탄발사기]]가 장착된 [[M16A2]](혹은 [wiki:"M16A3"A3])를 무장하고 있으나, 실제로는 [[유탄]]이 발사되지 않는다. --유탄까지 발사되면 어떻게 잡으라고?-- ||
+||attachment:RONIronclad.jpg||[[철갑선]][[br]]Ironclad|| 계몽 시대 ||세계 정복 <신대륙 발견> 캠페인에서만 등장한다. 소형선이다. 강력하고 기동성이 뛰어나며, 가벼운 화포로 무장되어 있다. 정찰 및 적 수송선 차단 임무를 수행하는 데 유용하다. ||
+||attachment:RONHumvee.jpg||[[험비]][[br]]Humvee|| 정보화 시대 ||세계 정복 <냉전> 캠페인에서만 등장한다. 기동성이 뛰어고 적절한 장갑으로 덮여 있으며, 이동 중 사격이 가능하다. '''다른 원거리 기동 유닛보다 방어력이 높다.''' --어째서 험비가 장갑차보다 방어력이 높은 거지?-- ||
+||<#DCDCDC><|5> [[아즈텍]] ||http://images1.wikia.nocookie.net/__cb20110424110133/riseofnations/images/9/9d/Atl-Atls.jpg||[[아틀아틀]][[br]]Atl-Atls || 고대 시대 ||투석병을 대체한다. 기존 투석병보다 빨리 움직이며 강하고, 생산 비용이 저렴하다. ||
+||http://images3.wikia.nocookie.net/__cb20110424110115/riseofnations/images/b/b5/Royal_Atl-Atls.jpg||로열 아틀아틀[[br]]Royal Atl-Atls || 고전 시대 ||투창병을 대체한다. 기존 투창병보다 빨리 움직이며 체력이 많고, 생산 비용이 저렴하다. ||
+||http://images3.wikia.nocookie.net/__cb20110424110046/riseofnations/images/5/55/Xopilli_Atl-Atls.jpg||조필리 아틀아틀[[br]]Xopilli Atl-Atls || 중세 시대 ||정예 투창병을 대체한다. 기존 투창병보다 빨리 움직이며 강하고, 생산 비용이 저렴하다.||
+||http://images4.wikia.nocookie.net/__cb20110424110024/riseofnations/images/6/62/Jaguar_Infantry.jpg||재규어 보병[[br]]JaguarInfantry || 현대 시대 ||보병을 대체한다. 보병보다 빨리 움직이며 공격력이 높다. 아즈텍은 훨씬 이전에 멸망했으면서 왜 이런 유닛이 나오느냐고 의문을 품을 수 있는데, [[멕시코]]가 아즈텍을 계승했다고 생각하면 된다. 멕시코 [[국기]]에 아즈텍 건국 신화와 관련된 [[뱀]]이 존재하는데, 자세한 내용은 [[멕시코]] 항목을 참조하자. ||
+||http://images2.wikia.nocookie.net/__cb20110424110004/riseofnations/images/2/25/Jaguar_Assault_Infantry.jpg||재규어 강습 보병[[br]]Jaguar Assault Infantry || 정보화 시대 ||강습 보병을 대체한다. 강습 보병보다 빨리 움직이며 공격력이 높다.||
+||<|7> [[이로쿼이]][* 모든 나라를 통틀어 유일하게 정찰병 계열 특수 유닛이 존재하는 나라다.] ||http://images4.wikia.nocookie.net/__cb20110413002555/riseofnations/images/d/da/Takohs.jpg||타코[[br]]Takohs || 고대 시대 ||정찰병을 대체한다. 정찰병보다 빠르고 강하고 시야가 넓다. ||
+||http://images1.wikia.nocookie.net/__cb20110413002723/riseofnations/images/8/8b/Akweks.jpg||아퀘크[[br]]Akweks || 중세 시대 ||정찰병을 대체한다. 정찰병보다 빠르고 강하고 시야가 넓다. 움직이지 않을 경우 적의 눈에 띄지 않는다. ||
+||http://images2.wikia.nocookie.net/__cb20110413002841/riseofnations/images/d/d7/Okwari.jpg||오콰리[[br]]Okwari || 계몽 시대 ||정찰병을 대체한다. 정찰병보다 빠르고 강하고 시야가 넓다. 움직이지 않을 경우 적의 눈에 띄지 않는다. 총을 장비하고 있기 때문에 다른 국가의 정찰병보다 '''한 시대 일찍 [[저격]] 능력을 사용할 수 있다.''' ||
+||http://images1.wikia.nocookie.net/__cb20110413002628/riseofnations/images/5/54/Spearmen.jpg||창병[[br]]Spearmen || 고대 시대 ||[[홉라이트]]를 대체한다. 홉라이트보다 강력하고 느리게 움직이지만, 아군 영토에선 홉라이트보다 빠르게 움직인다. ||
+||http://images3.wikia.nocookie.net/__cb20110413002661/riseofnations/images/3/3d/Mohawk_Spearmen.jpg||모호크 창병[[br]]Mohawk Spearmen || 고전 시대 ||팔랑스를 대체한다. 팔랑스보다 강력하고 느리게 움직이지만, 아군 영토에선 팔랑크스보다 빠르게 움직인다. ||
+||http://images3.wikia.nocookie.net/__cb20110413002744/riseofnations/images/d/d5/Heavy_Mohawk_Spearmen.jpg||고급 모호크 창병[[br]]Heavy Mohawk Spearmen || 중세 시대 ||장창병을 대체한다. 장창병보다 강력하고 느리게 움직이지만, 아군 영토에선 장창병보다 빠르게 움직인다. ||
+||http://images4.wikia.nocookie.net/__cb20110413002804/riseofnations/images/7/74/Elite_Mohawk_Spearmen.jpg||엘리트 모호크 창병[[br]]Elite Mohawk Spearmen || 화약 시대 ||정예 장창병을 대체한다. 정예 장창병보다 강력하고 느리게 움직이지만, 아군 영토에선 정예 장창병보다 빠르게 움직인다. ||
+||<#DCDCDC><|4> [[잉카]] ||http://images2.wikia.nocookie.net/__cb20110418122435/riseofnations/images/b/bf/Inti_Clubmen.jpg||인티 곤봉병[[br]]Inti Clubmen || 고전 시대 ||팔랑크스를 대체한다. 팔랑크스보다 빨리 움직이며 강하고, 생산 비용이 저렴하다. 적의 기병에 효과적이다. ||
+||http://images2.wikia.nocookie.net/__cb20110418122450/riseofnations/images/c/c8/Inti_Macemen.jpg||인티 철퇴병[[br]]Inti Macemen || 중세 시대 ||장창병을 대체한다. 장창병보다 빨리 움직이며 강하고, 생산 비용이 저렴하다. 적의 기병에 효과적이다. ||
+||http://images1.wikia.nocookie.net/__cb20110418122504/riseofnations/images/4/4b/Mortar.jpg||[[구포]][[br]]Mortar || 계몽 시대 ||대포를 대체한다. 적의 건물 및 보병에 효과적이다. 잉카 제국의 영토가 [[페루]], [[칠레]], [[볼리비아]] 등지에 걸쳐있었으니 해당 국가 중 하나가 잉카를 계승한 것으로 설정한 듯하다. ||
+||http://images2.wikia.nocookie.net/__cb20110418122520/riseofnations/images/e/ed/Siege_Mortar.jpg||공성포[[br]]Siege Mortar || 산업 시대 ||견인포를 대체한다. 적의 건물 및 보병에 효과적이다. ||
+== [[아시아]] ==
+||<#DCDCDC><width=50px> 국가명 ||<#DCDCDC><width=70px> 이미지 ||<#DCDCDC><width=120px> 명칭 ||<#DCDCDC><width=63px> 등장 시대 ||<#DCDCDC> 설명 ||
+||<|4> [[몽골]] ||http://images2.wikia.nocookie.net/__cb20110413125102/riseofnations/images/e/ec/Nomad.jpg||유목 기병[[br]]Nomad || 고전 시대 ||기마 궁사를 대체한다. 적 보병을 상대하는 데 매우 효과적이다. ||
+||http://images4.wikia.nocookie.net/__cb20110413125126/riseofnations/images/4/49/Steppe_nomad.jpg||스텝 유목 기병[[br]]Steppe Nomad || 중세 시대 ||고급 기마 궁사를 대체한다. 적 보병을 상대하는 데 매우 효과적이다. ||
+||http://images3.wikia.nocookie.net/__cb20110413125150/riseofnations/images/b/b0/Horde.jpg||몽골 기병[[br]][wiki:"호드"Horde] || 화약 시대 ||드래군 기병을 대체한다. 적 보병을 상대하는 데 매우 효과적이다. --이 시대의 다른 나라 기병들은 다 총 쏘는데 얘네들만 활 쏘는 게 좀 우습다.-- ||
+||http://images3.wikia.nocookie.net/__cb20110413125216/riseofnations/images/8/89/Golden_horde.jpg||고급 몽골 기병[[br]][wiki:"킵차크 칸국"Golden Horde] || 계몽 시대 ||기총병을 대체한다. 적 보병을 상대하는 데 매우 효과적이다. --이 시대의 다른 나라 기병들은 다 총 쏘는데 얘네들만 활 쏘는 게...(2)-- ||
+||<#DCDCDC><|4> [[인도]] ||http://images2.wikia.nocookie.net/__cb20110412233435/riseofnations/images/9/93/War_elephant.jpg||전투 [[코끼리]][[br]]War Elephant || 고전 시대 ||강력하지만 기동성이 떨어지는 근거리 공격 유닛이다. 밀집된 보병 유닛에게만 효과적이다. [[에이지 오브 엠파이어]]에서 전투 코끼리의 위력에 충격을 받은 플레이어라면 이 게임에서도 위협적으로 느껴질 수 있으나, 움직임이 느려서 기동 유닛으로 처리하기 쉬운 편이므로 안심해도 좋다. ||
+||http://images4.wikia.nocookie.net/__cb20110414190120/riseofnations/images/e/ee/Mahout.jpg||코끼리 기병[[br]]Mahout || 중세 시대 ||강력하지만 기동성이 떨어지는 근거리 공격 유닛이다. 밀집된 보병 유닛에게만 효과적이다. [[활]]을 장비하고 있으나 근거리 공격 유닛으로 간주한다. ||
+||http://images2.wikia.nocookie.net/__cb20110412233927/riseofnations/images/0/06/Gun_mahout.jpg||고급 코끼리 기병[[br]]Gun Mahout || 화약 시대 ||강력하지만 기동성이 떨어지는 근거리 공격 유닛이다. 밀집된 보병 유닛에게만 효과적이다. [[총]]을 장비하고 있으나 근거리 공격 유닛으로 간주한다. ||
+||http://images3.wikia.nocookie.net/__cb20110412234030/riseofnations/images/c/cb/Culverin_mahout.jpg||컬버린 코끼리 기병[[br]]Culverin Mahout || 계몽 시대 ||강력하지만 기동성이 떨어지는 근거리 공격 유닛이다. 밀집된 보병 유닛에게만 효과적이다. [[컬버린]] 대포를 장비하고 있지만 근거리 공격 유닛으로 간주한다. ||
+||<|5> [[일본]] ||http://images2.wikia.nocookie.net/__cb20110418001013/riseofnations/images/0/01/Ashigaru_Spearman.jpg||[[아시가루]] 창병[[br]]Ashigaru Spearman || 고대 시대 ||홉라이트를 대체한다. 홉라이트보다 강력하지만 기동성이 떨어진다. ||
+||http://images1.wikia.nocookie.net/__cb20110418001032/riseofnations/images/f/f6/Bushi.jpg||일본 무사[[br]]Bushi || 고전 시대 ||팔랑스를 대체한다. 팔랑스보다 강력하지만 기동성이 떨어진다. ||
+||http://images1.wikia.nocookie.net/__cb20110418001051/riseofnations/images/0/0d/Elite_Bushi.jpg||정예 일본 무사[[br]]Elite Bushi || 중세 시대 ||장창병을 대체한다. 장창병보다 강력하지만 기동성이 떨어진다. ||
+||http://images3.wikia.nocookie.net/__cb20110418001112/riseofnations/images/0/0e/Samurai.jpg||[[사무라이]][[br]]Samurai || 화약 시대 ||정예 장창병을 대체한다. 정예 장창병보다 강력하지만 기동성이 떨어진다. ||
+||http://images1.wikia.nocookie.net/__cb20110418001130/riseofnations/images/1/1a/Gun_Samurai.jpg||사무라이 조총수[[br]]Gun Samurai || 계몽 시대 ||퓨질리어 보병을 대체한다. 퓨질리어 보병보다 강력하지만 기동성이 떨어진다. --얘네들은 화약 시대에 나와야 하는 거 아닌가?--[* 사실 사무라이가 화약무기를 사용한 시기가 16~17세기인지라 조금 애매하긴 하다. 로열 쟤니세리도 계몽 시대 유닛으로 등장한걸 보면 시기상 early modern에 해당하는 유닛은 계몽 시대에 넣어주는 듯.] ||
+||<#DCDCDC><|5> [[중국]] ||http://images3.wikia.nocookie.net/__cb20110422130636/riseofnations/images/a/a4/Fire_Lances.jpg||화염 창병[[br]]Fire Lances || 중세 시대 ||정예 투창병을 대체한다. 세계에서 가장 먼저 화약을 발명한 중국답게 다른 국가들보다 한 시대 일찍 등장하는 화약 유닛이다. [[화전]]을 발사하며, 고급 보병을 상대하는 데 효과적이다. ||
+||http://images1.wikia.nocookie.net/__cb20110422130661/riseofnations/images/9/9f/Heavy_Fire_Lances.jpg||고급 화염 창병[[br]]Heavy Fire Lances || 화약 시대 ||화승총병을 대체한다. 화승총병보다 사정 거리가 길다. --오오 화전 오오-- ||
+||http://images1.wikia.nocookie.net/__cb20110422130721/riseofnations/images/e/e7/Manchu_Musketeers.jpg||만주 머스킷 총병[[br]]Manchu Musketeers || 계몽 시대 ||머스킷 총병을 대체한다. 공격 속도가 느리지만, 양성 비용이 저렴하고 빠르게 양성된다.--질적 열세를 양으로 극복하라는 제작진의 의도가 담겨있다.-- ||
+||http://images1.wikia.nocookie.net/__cb20110422130741/riseofnations/images/f/fd/Manchu_Riflemen.jpg||만주 소총수[[br]]Manchu Riflemen || 산업 시대 ||소총수를 대체한다. 강력하고 명중률이 높다. 양성 비용이 저렴하고 빠르게 양성된다. 이 시기부터 중국 보병이 매우 강력해진다. --그 이전 특수 유닛들도 강하잖아-- ||
+||http://images3.wikia.nocookie.net/__cb20110422130758/riseofnations/images/8/81/Manchu_Infantry.jpg||만주 보병[[br]]Manchu Infantry || 현대 시대 ||보병을 대체한다. 강력한 화력의 자동 화기를 갖추고 있다. 양성 비용이 저렴하고 빠르게 양성된다. ||
+||<|4> [[터키]] ||http://images3.wikia.nocookie.net/__cb20110417135718/riseofnations/images/1/1d/Janissaries.jpg||[wiki:"예니체리"재니세리] || 화약 시대 ||화승총병을 대체한다. 화승총병보다 기동성이 뛰어나고 강하다. ||
+||http://images3.wikia.nocookie.net/__cb20110417142009/riseofnations/images/7/74/Royal_Janissaries.jpg||로열 재니세리 || 계몽 시대 ||머스킷 총병을 대체한다. 머스킷 총병보다 기동성이 뛰어나고 강하다. ||
+||http://images3.wikia.nocookie.net/__cb20110417141949/riseofnations/images/6/6e/Basilica_Bombard.jpg||바실리카 [[사석포]] || 화약 시대 ||사석포를 대체한다. 적의 건물과 보병을 상대하는 데 매우 효과적이다. 희대의 사기 공성 유닛이기도 하다. ||
+||http://images4.wikia.nocookie.net/__cb20110417142026/riseofnations/images/6/6c/Basilica_Cannon.jpg||바실리카 대포 || 계몽 시대 ||대포를 대체한다. 적의 건물과 보병을 상대하는 데 매우 효과적이다. 희대의 사기 공성 유닛이기도 하다. ||
+||<|4> [[페르시아]][* 독일과 함께 특수 유닛 수가 8개로 가장 많다. 다만 코끼리 유닛 4종은 인도와 공유한다. 여기선 페르시아만의 특수 유닛만 설명.] ||http://images1.wikia.nocookie.net/__cb20110414185946/riseofnations/images/f/f9/Immortals.jpg||[이모탈][* 원래 이모탈 부대는 페르시아에서 '왕의 동지(마케도니아의 헤타이로이 기병대와 유사)'라는 뜻의 아누시야(Anûšiya)라고 불렸는데, 그걸 그리스의 역사가 헤로도토스가 '불사신(Anauša. '아나우사' 정도의 발음이 아닐까 싶다)' 이라고 착각한 것이 유명해진 것이다. 아다나토이는 불사를 의미하는 그리스어로 이걸 영어로 번역한게 이모탈이다.] || 고대 시대 ||홉라이트를 대체한다. 일반 홉라이트보다 약간 약하지만 원거리 공격이 가능하다.||
+||http://images1.wikia.nocookie.net/__cb20110414190019/riseofnations/images/5/52/Anusiya.jpg||아누시야 || 고전 시대 ||팔랑스를 대체한다. 일반 팔랑스보다 약간 약하지만 원거리 공격이 가능하다. ||
+||http://images1.wikia.nocookie.net/__cb20110414190060/riseofnations/images/c/c8/Athanatoi.jpg||아다나토이 || 중세 시대 ||장창병을 대체한다. 일반 장창병보다 약간 약하지만 원거리 공격이 가능하다. ||
+||http://images1.wikia.nocookie.net/__cb20110414190153/riseofnations/images/5/58/Arquebus_Immortal.jpg||아퀴버스(화승총) 이모탈|| 화약 시대 ||정예 장창병을 대체한다. 일반 정예 장창병보다 약하지만 원거리 공격이 가능하다. ||
+||<|6> [[한국]] ||http://images3.wikia.nocookie.net/__cb20110417230756/riseofnations/images/a/a0/Hwarang.jpg||[[화랑]][[br]]Hwarang || 고대 시대 ||궁병을 대체한다. 궁병보다 강하다. --어째서 화랑이 [[철기 시대]] 이전부터 있단 말인가-- ||
+||http://images3.wikia.nocookie.net/__cb20110417230832/riseofnations/images/0/06/Elite_Hwarang.jpg||정예 화랑[[br]]Elite Hwarang || 고전 시대 ||궁사를 대체한다. 궁사보다 강하다. ||
+||http://images3.wikia.nocookie.net/__cb20110417230924/riseofnations/images/7/73/Royal_Hwarang.jpg||로열 화랑[[br]]Royal Hwarang || 중세 시대 ||고급 궁사를 대체한다. 석궁병보다 강하다. --원래 화랑은 이 시기에 없었습니다 개발자님-- ||
+||http://images3.wikia.nocookie.net/__cb20110417231005/riseofnations/images/a/aa/Elite_Royal_Hwarang.jpg||정예 로열 화랑[[br]]Elite Royal Hwarang || 화약 시대 ||석궁병을 대체한다. 활로 무장한 모든 유닛보다 공격력이 높다. --과연 [[최종병기 활]]답다.-- --원래 화랑은 이 시기에 없었습니다 개발자님(2)-- 사거리는 영국 장궁병이 더 길다. ||
+||http://images3.wikia.nocookie.net/__cb20110417230855/riseofnations/images/6/65/Flaming_Arrow.jpg||[[주화]][[br]]Flaming Arrow || 고전 시대 ||투석기를 대체한다. 투석기보다 적 건물에 효과적이다. 모든 국가의 특수 공성 유닛 중 가장 이른 시기에 등장하는 것이 특징이다. --주화는 [[고려]] 시대에 나왔는데 고전 시대가 웬 말이냐-- ||
+||http://images2.wikia.nocookie.net/__cb20110417230944/riseofnations/images/d/df/Heavy_Flaming_Arrow.jpg||[[신기전]][[br]]Heavy Flaming Arrow || 중세 시대 ||트레뷰셋 투석기를 대체한다. 트레뷰셋 투석기보다 적 건물에 효과적이다. 원화의 그림은 [[공성]]용 [[쇠뇌]]인데, 실제 신기전은 절대 그렇지 않다! [* 정확히 말하자면 신기전은 우리가 생각하는 그 신기전이 쏘는 화살이 '신기전'이다. 그걸 쏘는 수레의 이름은 신기전기.] --신기전은 화약 시대에 나왔는데 중세 시대가 웬 말이냐-- --사실 잘못 번역되었을 가능성이 높다.-- ||
+== [[아프리카]] ==
+||<#DCDCDC><width=50px> 국가명 ||<#DCDCDC><width=70px> 이미지 ||<#DCDCDC><width=120px> 명칭 ||<#DCDCDC><width=63px> 등장 시대 ||<#DCDCDC> 설명 ||
+||<|7> [[누비아]][* 유일하게 특정 시대 동안 고급 원거리 보병과 원거리 기동 유닛이 함께 특수 유닛으로 대체되는 국가다. 특수 유닛 성능도 준수한 편인데, 누비아의 고유 옵션도 워낙 사기적이라서 게이머들 사이에서 금지 국가로 채택되고 말았다.] ||http://images3.wikia.nocookie.net/__cb20110413225339/riseofnations/images/f/ff/Kushite_archers.jpg||누비아 궁사대[[br]]Kushite Archers || 고전 시대 ||궁사를 대체한다. 적 궁사 계열 유닛을 공격하는 데 효과적이다. ||
+||http://images3.wikia.nocookie.net/__cb20110413225436/riseofnations/images/6/63/Royal_kushite_archer.jpg||로열 누비아 궁사[[br]]Royal Kushite Archers || 중세 시대 ||고급 궁사를 대체한다. 적 궁사 계열 유닛을 공격하는 데 효과적이다. ||
+||http://images1.wikia.nocookie.net/__cb20110413225518/riseofnations/images/6/6c/Apedemak_archers.jpg||아페데막 궁사[[br]]Apedemak Archer || 화약 시대 ||석궁병을 대체한다. 적 궁사 계열 유닛을 공격하는 데 효과적이다. ||
+||http://images4.wikia.nocookie.net/__cb20110413225416/riseofnations/images/3/3f/Camel_archer.jpg||낙타 궁사[[br]]Camel Archer || 고전 시대 ||기마 궁사를 대체한다. 적 보병 유닛을 공격하는 데 효과적이다. ||
+||http://images3.wikia.nocookie.net/__cb20110413225502/riseofnations/images/8/8d/Heavy_camel_archer.jpg||고급 낙타 궁사[[br]]Heavy Camel Archer || 중세 시대 ||고급 기마 궁사를 대체한다. 적 보병 유닛을 공격하는 데 효과적이다. ||
+||http://images3.wikia.nocookie.net/__cb20110413225534/riseofnations/images/4/43/Camel_raider.jpg||습격 낙타 기병[[br]]Camel Raider || 화약 시대 ||드래군 기병을 대체한다. 적 보병 유닛을 공격하는 데 효과적이다. ||
+||http://images1.wikia.nocookie.net/__cb20110413225550/riseofnations/images/d/d4/Camel_corps.jpg||고급 낙타 기병[[br]]Camel Corps || 계몽 시대 ||기총병을 대체한다. 적 보병 유닛을 공격하는 데 효과적이다. ||
+||<#DCDCDC><|5> [[반투]] ||http://images1.wikia.nocookie.net/__cb20110424102848/riseofnations/images/3/3f/Umpakati.jpg||움파카티[[br]] || 고대 시대 ||홉라이트를 대체한다. 홉라이트보다 기동성이 뛰어나고 양성 비용이 적게 들고, 양성 속도도 빠르다. ||
+||http://images3.wikia.nocookie.net/__cb20110424102827/riseofnations/images/5/55/Yangombi_Umpakati.jpg||얀곰비 움파카티[[br]] || 고전 시대 ||팔랑스를 대체한다. 팔랑스보다 기동성이 뛰어나고 양성 비용이 적게 들고, 양성 속도도 빠르다. ||
+||http://images3.wikia.nocookie.net/__cb20110424102806/riseofnations/images/6/68/Impi.jpg||임피[[br]] || 중세 시대 ||장창병을 대체한다. 장창병보다 기동성이 뛰어나고 양성 비용이 적게 들고, 양성 속도도 빠르다. ||
+||http://images3.wikia.nocookie.net/__cb20110424102748/riseofnations/images/5/51/Hawk_Fighter.jpg||호크 전투기[[br]] || 현대 시대 ||[[전투기]]를 대체한다. 전투기보다 적 항공기 및 지상군에게 더 많은 피해를 준다. [[P-38 라이트닝]]을 모델로 삼았다. ||
+||http://images2.wikia.nocookie.net/__cb20110424102723/riseofnations/images/6/67/Eagle_Fighter.jpg||이글 전투기[[br]] || 정보화 시대 ||[[전폭기]]를 대체한다. 전폭기보다 적 항공기 및 지상군에게 더 많은 피해를 준다. [[A-10]]을 모델로 삼았다. --[[공격기]]가 [[공중전]]을 펼친다. [[안습]]-- ||
+||<|7> [[이집트]][* 유일하게 특정 시대 동안 기동 유닛과 원거리 기동 유닛이 함께 특수 유닛으로 대체되는 국가다.] ||http://images1.wikia.nocookie.net/__cb20110418125725/riseofnations/images/8/8a/Chariot.jpg||[[전차]][[br]]Chariot || 고전 시대 ||기마 궁사를 대체한다. 다른 원거리 기동 유닛을 상대하는 데 매우 효과적이다. ||
+||http://images4.wikia.nocookie.net/__cb20110418125645/riseofnations/images/d/d6/Heavy_Chariot.jpg||중전차[[br]]Heavy Chariot || 중세 시대 ||정예 기마 궁사를 대체한다. 다른 원거리 기동 유닛을 상대하는 데 매우 효과적이다. ||
+||http://images4.wikia.nocookie.net/__cb20110418125428/riseofnations/images/5/58/Mameluke.jpg||[[노예병]][[br]]Mameluke || 화약 시대 ||드래군 기병을 대체한다. 다른 원거리 기동 유닛을 상대하는 데 매우 효과적이다. [[쌍권총]]을 사용한다. --도대체 말을 어떻게 모는 거지?-- ||
+||http://images1.wikia.nocookie.net/__cb20110418125343/riseofnations/images/e/ef/Royal_Mameluke.jpg||로열 노예병[[br]]Royal Mameluke || 계몽 시대 ||기총병을 대체한다. 다른 원거리 기동 유닛을 상대하는 데 매우 효과적이다. [[쌍권총]]을 사용한다. --도대체 말을 어떻게 모는 거지?--  ||
+||http://images3.wikia.nocookie.net/__cb20110418125703/riseofnations/images/c/ce/Light_Camel.jpg||낙타 기병[[br]]Light Camel || 고전 시대 ||기마병을 대체한다. 적 기동 유닛을 상대하는 데 효과적이다. ||
+||http://images3.wikia.nocookie.net/__cb20110418125548/riseofnations/images/0/05/Camel_Warrior.jpg||낙타 전사[[br]]Camel Warrior || 중세 시대 ||경기병을 대체한다. 적 기동 유닛을 상대하는 데 효과적이다. ||
+||http://images4.wikia.nocookie.net/__cb20110418125407/riseofnations/images/a/a6/Elite_Camel_Warrior.jpg||정예 낙타 전사[[br]]Elite Camel Warrior || 화약 시대 ||정예 경기병을 대체한다. 적 기동 유닛을 상대하는 데 효과적이다. ||
+== [[유럽]] ==
+||<#DCDCDC><width=50px> 국가명 ||<#DCDCDC><width=70px> 이미지 ||<#DCDCDC><width=120px> 명칭 ||<#DCDCDC><width=63px> 등장 시대 ||<#DCDCDC> 설명 ||
+||<|4>[[그리스]] ||http://images4.wikia.nocookie.net/__cb20110418002652/riseofnations/images/d/d5/Companion.jpg||그리스 기사[[br]][wiki:"헤타이로이"Companion] || 고전 시대 ||캐터프랙터 기병을 대체한다. 캐터프랙터 기병보다 기동성이 좋다. --근데 얘넨 그리스를 떡바른 [[마케도니아]] 애들이다.-- --어차피 [[문명 5]]에서도 얘들이 그리스로 나오잖아.--||
+||http://images3.wikia.nocookie.net/__cb20110418002717/riseofnations/images/4/4e/Royal_Companion.jpg||로열 그리스 기사[[br]]Royal Companion || 중세 시대 ||[[기사]]를 대체한다. 기사보다 기동성이 좋다. ||
+||http://images3.wikia.nocookie.net/__cb20110418002736/riseofnations/images/e/e5/Stratiotai.jpg||스트라티오타이[[br]]Stratiotai || 화약 시대 ||고급 기사를 대체한다. 고급 기사보다 기동성이 좋다. ||
+||http://images1.wikia.nocookie.net/__cb20110418002758/riseofnations/images/8/8b/Royal_Stratiotai.jpg||로열 스트라티오타이[[br]]Royal Stratiotai || 계몽 시대 ||[[쿼러시어]] 기병을 대체한다. 쿼러시어 기병보다 기동성이 좋다. ||
+||<|6><#DCDCDC> [[네덜란드]][* 유일하게 비무장 유닛과 소형선을 특수 유닛으로 대체하는 국가다.] ||http://images3.wikia.nocookie.net/__cb20110418132405/riseofnations/images/9/98/Armed_Caravan.jpg [[br]]attachment:ArmedCaravan02.jpg [[br]]attachment:ArmedCaravan03.jpg ||무장 캐러밴[[br]]Armed Caravan || 모든 시대 ||캐러밴을 대체한다. 자체적인 무장을 갖추고 있으며, 시대에 따라 무장을 달리한다. 하지만 공격력이 낮고 체력이 적기 때문에, 적 병사와의 일대일 싸움에서는 이기기 힘들다. ||
+||http://images3.wikia.nocookie.net/__cb20110418132349/riseofnations/images/1/15/Armed_Merchant.jpg [[br]]attachment:ArmedMerchant02.jpg [[br]]attachment:ArmedMerchant03.jpg ||무장 상인[[br]]Armed Merchant || 모든 시대 ||상인을 대체한다. 자체적인 무장을 갖추고 있으며, 시대에 따라 무장을 달리한다. 상대편 상인이 희귀 자원을 획득하지 못하도록 견제하기에 좋다. --하지만 상대편도 네덜란드라면?-- 하지만 공격력이 낮고 체력이 적기 때문에, 적 병사와의 일대일 싸움에서는 이기기 힘들다. ||
+||http://images4.wikia.nocookie.net/__cb20110418132314/riseofnations/images/9/97/Armed_Supply_Wagon.jpg||무장 보급 차량[[br]]Armed Supply Wagon || 모든 시대 ||보급 차량을 대체한다. 자체적인 무장을 갖추고 있으며, 시대에 따라 무장을 달리한다. 미약한 화력이지만, 아군에게 지원 사격을 해줄 수 있다. 전투할 때 아군 병력이 부족해질 수록 진가를 발휘한다. 하지만 공격력이 낮고 체력이 적기 때문에, 적 병사와의 일대일 싸움에서는 이기기 힘들다. ||
+||http://images2.wikia.nocookie.net/__cb20110418132259/riseofnations/images/9/92/Brig.jpg||쌍돛대 범선[[br]]Brig || 중세 시대 ||캐러벨선을 대체한다. 캐러벨선보다 강하고 기동성이 좋다. ||
+||http://images3.wikia.nocookie.net/__cb20110418132244/riseofnations/images/7/78/Fluyt.jpg||플루이트선[[br]]Fluyt || 화약 시대 ||코르벳함을 대체한다. 코르벳함보다 강하고 기동성이 좋다. ||
+||http://images1.wikia.nocookie.net/__cb20110418132226/riseofnations/images/8/84/Clipper.jpg||쾌속 범선[[br]]Clipper || 계몽 시대 ||슬루프 범선을 대체한다. 슬루프 범선보다 강하고 기동성이 좋다. ||
+||<|8> [[독일]][* 모든 국가 중 페르시아와 더불어 가장 많은 특수 유닛을 보유하고 있다. 무려 8개다! --오오 독일 오오--] ||http://images2.wikia.nocookie.net/__cb20110418010410/riseofnations/images/6/61/Solduri.jpg||솔두리[[br]]Solduri || 고대 시대 ||홉라이트를 대체한다. 홉라이트보다 강하고 빨리 양성된다. ||
+||http://images1.wikia.nocookie.net/__cb20110418010349/riseofnations/images/9/99/Barbarian.jpg||[[바바리안]][[br]]Barbarian || 고전 시대 ||팔랑스를 대체한다. 팔랑스보다 강하고 빨리 양성된다. ||
+||http://images3.wikia.nocookie.net/__cb20110418010320/riseofnations/images/0/0d/Vandals.jpg||[wiki:"반달족"반달][[br]]Vandals || 중세 시대 ||장창병을 대체한다. 장창병보다 강하고 빨리 양성된다. ||
+||http://images2.wikia.nocookie.net/__cb20110418010259/riseofnations/images/2/25/Landsknecht.jpg||[wiki:"란츠크네히트"란쯔크네츠] 기사[[br]]Landknecht || 화약 시대 ||정예 장창병을 대체한다. 정예 장창병보다 강하고 빨리 양성된다. ||
+||http://images3.wikia.nocookie.net/__cb20110418010235/riseofnations/images/c/cb/Volksgrenadier.jpg||[wiki:"국민척탄병"국민 척탄 병]사단[[br]]Volksgrenadier || 현대 시대 ||현대 보병을 대체한다. 현대 보병보다 강하고 기동성이 좋다. 실제로 국민척탄병은 정규군에 못 미치는 정규군이었다. 정규군보다 약한 부대를 특수 유닛으로 만든 것은 다소 이해하기 힘든 점이다. 또 특이한 점이 있는데, 그림을 자세히 보면 무장친위대처럼 보인다. --[wiki:"A라고 쓰고 B라고 읽는다"국민척탄병이라 쓰고 무장친위대라 읽는다]-- --그보다 왜 [[2차 세계대전]] 당시의 [[독일군]]이 [[톰슨 기관단총]]을 쓰는데?--[* 다만 게임상 모델에선 [[StG44]]를 들고 있다.] ||
+||http://images4.wikia.nocookie.net/__cb20110418010205/riseofnations/images/4/43/MG42.jpg||[[MG42]] 기관총병[[br]]MG42 || 현대 시대 ||중기관총병을 대체한다. 2차 세계대전 당시 [[연합군]]에게 [[충격과 공포]]를 선사한 MG42의 명성답게 적 보병 부대를 초토화시킬 수 있다. 모든 나라를 통틀어 유일한 기관총 계열 특수 유닛이다. ||
+||http://images3.wikia.nocookie.net/__cb20110418010108/riseofnations/images/7/72/Tiger_Tank.jpg||[wiki:"티거"타이거 탱크][[br]]Tiger Tank || 현대 시대 ||전차를 대체한다. 전차보다 강력하다. 사실, 유닛 외형상 티거는 아니고 [[티거 2|쾨니히스티거]]다. --어쨌든 티거는 티거네-- 또한 전차 주포 측면에 V자를 뒤집은 심볼(미군 병사 계급장 모양)이 붙어있는데, 이건 [[미군]]만 사용한다.(...) ||
+||http://images3.wikia.nocookie.net/__cb20110418010130/riseofnations/images/a/a4/Leopard_Tank.jpg||[wiki:"레오파르트2"레오파트 탱크][[br]]Leopard Tank || 정보화 시대 ||중형 탱크를 대체한다. 중형 탱크보다 강력하다. ||
+||<|8><#DCDCDC> [[러시아]][* 보병, 고급 기동 유닛, 포병 유닛처럼 다양한 계열에 특수 유닛이 고르게 존재하는 나라다.] ||http://images3.wikia.nocookie.net/__cb20110416224234/riseofnations/images/3/3a/Rusiny_Lancer.jpg||루시니 창기병[[br]]Rusiny Lancer || 중세 시대 ||경기병을 대체한다. 경기병보다 저렴하고 빠르게 생산할 수 있다. ||
+||http://images3.wikia.nocookie.net/__cb20110416224248/riseofnations/images/e/e6/Cossack.jpg||[wiki:"카자크"코사크] 기병[[br]]Cossack || 화약 시대 ||정예 경기병을 대체한다. 정예 경기병보다 저렴하고 빠르게 생산할 수 있다. ||
+||http://images3.wikia.nocookie.net/__cb20110416224436/riseofnations/images/0/00/Don_Cossack.jpg||돈 코사크 기병[[br]]Don Cossack || 계몽 시대 ||호위 경기병을 대체한다. 호위 경기병보다 저렴하고 빠르게 생산할 수 있다. ||
+||http://images1.wikia.nocookie.net/__cb20110416224308/riseofnations/images/c/ca/Red_Guard_Infantry.jpg||붉은 군대[[br]]Red Guards Infantry || 현대 시대 ||현대 보병을 대체한다. 현대 보병보다 저렴하게 생산할 수 있다. ||
+||http://images3.wikia.nocookie.net/__cb20110416224359/riseofnations/images/5/5f/Shock_Infantry_Icon.jpg||충격병[[br]]Shock Infantry || 정보화 시대 ||강습 보병을 대체한다. 강습 보병보다 강하고 저렴하게 생산할 수 있다. ||
+||http://images1.wikia.nocookie.net/__cb20110416224340/riseofnations/images/0/0d/Katyusha_Rocket.jpg||[wiki:"카츄사 다연장로켓"카추샤] 로켓[[br]]Katyusha Rocket || 현대 시대 ||곡사포를 대체한다. 곡사포보다 강하며 '''다른 국가보다 한 시대 앞서''' 다연장 로켓을 사용할 수 있다. 그 때문에 '''현대 시대에서 가장 흉악한 공성 병기다.''' ||
+||http://images2.wikia.nocookie.net/__cb20110416224414/riseofnations/images/8/81/T80_Tank.jpg||[wiki:"T-80"T80 탱크][[br]]T80 Tank || 정보화 시대 ||중형 전차를 대체한다. 중형 전차보다 저렴하게 생산할 수 있다. --그런데 T-80 대신 [[T-90]]이 나와야 하는 거 아닌가?-- --그보다 유닛 이미지는 T80이 아니라 [[M1 에이브람스]]란 것에 주목할 필요가 있다-- ||
+||attachment:RONNuclearMissileSub.jpg||핵미사일 잠수함[[br]]Nuclear Missile Sub || 정보화 시대 ||세계 정복 <냉전> 캠페인에서만 등장한다. 구축함과 순양함을 제외한 다른 선박에는 잘 탐지되지 않는다. ||
+||<|3> [[로마]][* 특수 유닛이 가장 적은 나라다. 원래 개발버전에는 2개의 특수 유닛(장갑차 계열을 대체하는 산업 시대 '탱크 디스트로이어'와 현대 시대 '탱크 킬러')이 더 있었는데, 최종 버전에선 삭제되었다. [[안습]] ] ||http://images1.wikia.nocookie.net/__cb20110416182948/riseofnations/images/c/c5/Legions.jpg||[[레기온]][[br]]Legions || 고전 시대 ||팔랑스를 대체한다. 적 중보병에 매우 강하다. ||
+||http://images2.wikia.nocookie.net/__cb20110416183007/riseofnations/images/6/64/Caesar_Legions.jpg||시저 레기온[[br]]Caesar Legions || 중세 시대 ||장창병을 대체한다. 적 고급 보병 유닛에 매우 강하다. ||
+||http://images1.wikia.nocookie.net/__cb20110416183023/riseofnations/images/1/1c/Praetorian_Guards.jpg||근위대[[br]]Praetorian Guards || 화약 시대 ||정예 장창병을 대체한다. 적 고급 보병 유닛에 매우 강하다. ||
+||<|6><#DCDCDC> [[스페인]] ||http://images2.wikia.nocookie.net/__cb20110417103016/riseofnations/images/e/ed/Scutari.jpg||스쿠타리[[br]]Scutari || 고전 시대 ||팔랑스를 대체한다. 기병 부대를 상대하는 데 매우 효과적이다. ||
+||http://images1.wikia.nocookie.net/__cb20110417102956/riseofnations/images/a/a7/Royal_Scutari.jpg||로열 스쿠타리[[br]]Royal Scutari || 중세 시대 ||장창병을 대체한다. 기병 부대를 상대하는 데 매우 효과적이다. ||
+||http://images2.wikia.nocookie.net/__cb20110417102903/riseofnations/images/f/fb/Tercios.jpg||[[wiki:"테르시오"테르시오스]][[br]]Tercios || 화약 시대 ||정예 장창병을 대체한다. 기병 부대를 상대하는 데 매우 효과적이다. ||
+||http://images1.wikia.nocookie.net/__cb20110417102938/riseofnations/images/c/cc/Royal_Tercios.jpg||로열 테르시오스[[br]]Royal Tercios || 계몽 시대 ||퓨질리어 보병을 대체한다. 기병 부대를 상대하는 데 매우 효과적이다. ||
+||attachment:RONConquistador.jpg||[wiki:"콩키스타도르"콘키스타도르][[br]]Conquistador|| 화약 시대 ||세계 정복 <신대륙 개척> 캠페인에만 등장한다. 드래군 보병을 대체한다. 다른 원거리 기동 유닛보다 공격력이 높다. ||
+||attachment:RONEliteConquistador.jpg||엘리트 콘키스타도르[[br]]Elite Conquistador|| 계몽 시대 ||세계 정복 <신대륙 개척> 캠페인에만 등장한다. 기총병을 대체한다. 다른 원거리 기동 유닛보다 공격력이 높다. ||
+||<|6> [[영국]] ||http://images2.wikia.nocookie.net/__cb20110424004558/riseofnations/images/c/c9/Longbowman.jpg||[[장궁]]병[[br]]Longbowmen || 고전 시대 ||궁사를 대체한다. 거의 모든 면에서 일반 궁사보다 우수하다. ||
+||http://images4.wikia.nocookie.net/__cb20110424004540/riseofnations/images/a/af/King%27s_Longbowman.jpg||근위 장궁병[[br]]King's Longbowmen || 중세 시대 ||석궁병을 대체한다. 거의 모든 면에서 일반 석궁병보다 우수하다. ||
+||http://images1.wikia.nocookie.net/__cb20110424004525/riseofnations/images/2/26/King%27s_Yeomanry.jpg||근위 의용 궁병[[br]]King's Yeomanry || 화약 시대 ||화승총병을 대체한다. 거의 모든 면에서 일반 화승총병보다 우수하다. ||
+||http://images3.wikia.nocookie.net/__cb20110424004503/riseofnations/images/8/87/Highlanders.jpg||[[하이랜더]][[br]]Highlanders || 계몽 시대 ||머스킷 보병을 대체한다. 모든 종류의 적 보병을 상대하는 데 특히 효과적이다. ||
+||http://images3.wikia.nocookie.net/__cb20110424004446/riseofnations/images/9/9e/Black_Watch.jpg||[wiki:"블랙와치"블랙 왓치][[br]]Black Watch || 산업 시대 ||소총수를 대체한다. 모든 종류의 적 보병을 상대하는 데 특히 효과적이다. --기관총병 [[지못미]]-- ||
+||http://images1.wikia.nocookie.net/__cb20110424004428/riseofnations/images/3/3a/Lancaster_Bomber.jpg||[wiki:"랭커스터"랭카스터 폭격기][[br]]Lancaster Bomber || 현대 시대 ||폭격기를 대체한다. 일반 폭격기보다 강력하지만 공격의 정확성이 다소 떨어진다. ||
+||<|2><#DCDCDC> [[포르투갈]][* 세계 정복 <신대륙 발견> 캠페인에만 등장하는 국가로, 국가 특성은 누비아의 것을 빌려왔다.] ||attachment:RONBandeirantes.jpg||반데이란테스[[br]]Bandeirantes|| 화약 시대 ||정예 장창병을 대체한다. 기동성이 떨어지지만 강력하고 '''은폐된''' 근거리 화약 유닛이다. 기병 부대를 상대하는 데 매우 효과적이다. ||
+||attachment:RONEliteBandeirantes.jpg||엘리트 반데이란테스[[br]]Elite Bandeirantes|| 계몽 시대 ||퓨질리어 보병을 대체한다. 기동성이 떨어지지만 강력하고 '''은폐된''' 근거리 화약 유닛이다. 기병 부대를 상대하는 데 매우 효과적이다. ||
+||<|5> [[프랑스]] ||http://images4.wikia.nocookie.net/__cb20110418120720/riseofnations/images/b/bd/Chevalier.jpg||프랑스 기사[[br]][wiki:"슈발리에"Chevalier] || 고전 시대 ||캐터프랙터 기병을 대체한다. 일반 고급 기동 유닛보다 전투력이 강하고 기동성이 뛰어나다. ||
+||http://images4.wikia.nocookie.net/__cb20110418120740/riseofnations/images/8/8d/Heavy_Chevalier.jpg||고급 프랑스 기사[[br]]Heavy Chevalier || 중세 시대 ||기사를 대체한다. 일반 고급 기동 유닛보다 전투력이 강하고 기동성이 뛰어나다. ||
+||http://images1.wikia.nocookie.net/__cb20110418120802/riseofnations/images/9/99/Horse_Grenadier.jpg||기마 근위병[[br]]Horse Grenadier || 화약 시대 ||고급 기사를 대체한다. 일반 고급 기동 유닛보다 전투력이 강하고 기동성이 뛰어나다. ||
+||http://images3.wikia.nocookie.net/__cb20110418120828/riseofnations/images/b/ba/Horse_Guard_Grenadier.jpg||고급 기마 근위병[[br]]Horse Guard Grenadier || 계몽 시대 ||쿼러시어 기병을 대체한다. 일반 고급 기동 유닛보다 전투력이 강하고 기동성이 뛰어나다. ||
+||attachment:RONImperialGuard.jpg||황제 친위대[[br]]Imperial Guard --[wiki:"임페리얼 가드"음?]-- || 계몽 시대 ||세계 정복 <나폴레옹> 캠페인에서만 등장한다. 다른 화약 보병보다 체력과 방어력이 높다. 다른 화약 보병을 대체하지 않고 보병 양성소에서 함께 생산할 수 있으나 비교적 흔한 자원인 목재 대신 게임에서 중요한 자원인 재화가 들어가며, 나폴레옹이 황제에 즉위하기 전까지는 등장하지 않는다[* 여담으로 모든 종류의 특수유닛 가운데 원본 유닛과 비교했을 때 유일하게 다른 자원을 필요로 하며, 원본 유닛과 동시에 생산할 수 있다. 즉 '대체' 된다기보다, '추가' 된다고 하는 쪽이 옳다.]. ||
+
+[[각주]]

@@ -1,0 +1,44 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| Nu Tech ||
+|| 곡명 |||||||| Fallback ||
+|| 작곡 |||||||| [[KIEN|Paraphrase]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 최초 수록버전 |||||||| [wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] ||
+|| BPM |||||||| 126 ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> 5KEY RUBY || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5KEY STANDARD || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple 13}}} ||
+||<#ff8c00> 7KEY STANDARD || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#0000ff> 10KEY MANIAC || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> 14KEY MANIAC || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange }}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+== 개요 ==
+EZ2AC : EC의 해금곡. 해당 알파벳은 ''''ENDLESS {{{#lightseagreen C}}}IRCULATION''''으로 8 번째 해금곡이다. 해금 방법은 [http://www.ez2ac.co.kr 공식 홈페이지]의 'HIDDEN' 탭에서 입장 가능한 '해금 시스템' 부분을 참고.
+
+Paraphrase가 [[Indistinction]]과 함께 이번 신작에 투고한 곡이다. 어느 정도 가라앉은 분위기 속에서 Indistinction과는 비슷하면서도 빳빳한 느낌이 나게 다른 음들이 어우러져 마치 [[놈3]]에서 나온 음악들을 연상케 하는 분위기의 음악이다. 특히 HD 패턴의 아이캐치는 단순한 구조에 좌우대칭인 것 같으면서도 비대칭인 점 때문에 놈3의 게임 배경과 상당히 흡사한 면이 있다. BGA는 범용을 쓰고 있다.
+다만 낮은 BPM과 저레벨 포지션으로 인해 묻힌 감이 많은 곡. 이번 작품 신곡들 중에 비슷한 난이도 포지션이면서 꽤나 특색 있는 다른 곡들이 많기 때문으로 추정된다.
+== 패턴 ==
+=== 5 Street mix ===
+{{{#!HTML
+<embed src="//www.youtube.com/v/vmLQ8P4oGMA?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+NM MIX
+
+{{{#!HTMl
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/tAeYiFMb8-M?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/tAeYiFMb8-M?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+
+null 채널에 전용 패턴이 있었으며 EV에서 슈하로 채택되었다. 표기 난이도는 13이지만 체감상 물렙 포지션을 담당하고 있다. 체감난이고는 11중에서 12중하급 정도인 것으로 보인다.
+=== 7 Street mix ===
+=== 10 Club mix ===
+=== 14 Space mix ===
+=== EZ2 Catch ===
+=== Turntable ===
+
+[[각주]]

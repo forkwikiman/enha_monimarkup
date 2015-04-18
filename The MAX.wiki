@@ -1,0 +1,97 @@
+[[목차]]
+
+== [[DJMAX 시리즈]]의 수록곡 ==
+||||<:> [[DJMAX 시리즈|DJMAX]] Portable 시리즈 오프닝 곡 ||
+|| [[DJMAX Portable|Portable]] || [[바람에게 부탁해 Live Mix]] ||
+|| [[DJMAX Portable 2|Portable 2]] || [[Your Own Miracle]] ||
+|| [[DMP CE|CLAZZIQUAI EDITION]] || [[Flea]] ||
+|| [[DMP BS#s-2|BLACK SQUARE]] || [[Get Down]] ||
+|| [[DJMAX Portable 3|Portable 3]] || [[Flash Finger#s-2|Flash Finger]] ||
+|| [[TECHNIKA TUNE]] || '''The MAX''' || 
+
+
+||||<:> [DJMAX 시리즈/수록곡 목록]||
+|| 최초 수록 || [[DJMAX TECHNIKA TUNE]] ||
+|| 장르 || Acid Dance ||
+|| 작곡 || [[ND Lee]] ||
+|| [[BPM]] || 120 ||
+|| 비주얼 || Dumping Life, ENTIA J ||
+|| 보컬 || ND Lee ||
+|| 랩 || [wiki:"김구#s-2" Evil Monky] ||
+
+[[youtube(rvYHmi7C-ns)]]
+[[DJMAX TECHNIKA TUNE]] 오프닝 버전
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/v7VNG9U2YcQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+영상만 있는 버전
+
+
+>안녕하세요. DJMAX팬 여러분. NDLee입니다.
+>DJMAX TECHNIKA TUNE으로 다시 만나게 되어 무척 기쁩니다.
+>이번 작품에서는 NDLee스러운(?) 코드보이싱과 화려한 편곡으로 댄서블한 느낌을 최대한 살리고자 하였습니다.
+>특히, E.M의 카리스마 넘치는 Rap 부분을 주목해 주세요. 하하!
+>
+>-[[ND Lee]], [[DJMAX TECHNIKA TUNE]] OST 코멘트|}}
+
+DJMAX TECHNIKA TUNE 신곡. ND Lee가 작곡, 보컬을 맡았고 TECHNIKA 시리즈에선 [[Beyond the Future]]를 잇는 타이틀 곡으로 선공개가 되었다. 플레이 가능한 곡이며 STAR, POP, CLUB 패턴이 모두 존재하고, 시리즈 [wiki:"Your Own Miracle" 기존의] [wiki:"Flea" 타이틀곡들][wiki:"Get Down" 처럼] 중~고난이도로 패턴이 짜여져있는듯 하다. ~~ BGA도 있고 Beyond the Future보다 대우가 좋다?~~
+
+[EZ2DJ] 수록곡인 [Futurist]의 멜로디를 약간 손봐서 집어넣은 부분도 존재.
+
+=== 가사 ===
+[http://www.cyphergate.net/wiki/index.php?title=The_MAX 출처]
+
+>Good evening ladies and gentleman, Whar you're about to get here
+>is real, Get into the beat, to the groove with Mr.ND Lee on the track
+>Now let's have some fun with DJMAX
+>
+>This time, I'll tell you how I feel
+>I'll die of boredom if I have to stay home all day
+>Mind out, you're in the way there now
+>So, my heart just seems to be missed a beat when I saw your light
+>
+>You must enjoy your light now
+>To date, you're never felt the groove in the world
+>Anywhere, anytime dance party
+>Let me show you playing the max light now
+>
+>I want to do it in my life, wanna DJMAX, wanna DJMAX
+>I want to do one more time, gonna DJMAX, gonna DJMAX
+>
+>Now It's a happening all over the place
+>Music's bump in my ear with the super bass
+>Time, next time I'mma get off this train
+>My destination this town will never be the same
+>This time's the right time for a session
+>Come on B-Real time for some action
+>What you got what you got I'm curious to know
+>Don't you hold back you gotta let everyting go
+
+===  [DJMAX TECHNIKA TUNE] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 4 || ||
+||<#0000FF> {{{#white POP}}} || 6 || ||
+||<#FF0000> CLUB || 7 || [[Vital Dance Set]] 하위보스곡 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/1LZMFSfHG4M?list=PLVOEWfhIg7oJxWNHJeVb7dAWVlnXNShmk" frameborder="0" allowfullscreen></iframe>
+}}}
+POP MIXING 플레이
+
+=== [DJMAX TECHNIKA Q] ===
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|||| 2라인 |||| 3라인 ||
+|| 패턴 || 난이도 || 패턴 || 난이도 ||
+||<#FFFF00> Original || 3 ||<#FFFF00> Original || 3 ||
+||<#0000FF> {{{#white Premium}}} || 5 ||<#0000FF> {{{#white Premium}}} || 5 ||
+||<#FF0000> Signature || 7 ||<#FF0000> Signature || 7 ||
+
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/V5oBU9MAS3Y" frameborder="0" allowfullscreen></iframe>
+}}}
+3라인 SIGNATURE 플레이

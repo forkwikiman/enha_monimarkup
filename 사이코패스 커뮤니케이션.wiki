@@ -1,0 +1,53 @@
+'''サイコパスコミュニケーション'''
+
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡은 ゆちゃP(유챠P), 사용한 [[VOCALOID]]는 [[하츠네 미쿠]].
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/kWADde5SgII" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/jk_001_0034_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/jk_001_0034_2.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/jk_001_0034_3.jpg?width=150 |||| http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/jk_001_0034_3.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 07}}} || {{{#ff009f 10}}} || {{{#448844 13}}} ||
+|| 체인 수 || {{{#purple 0543}}} || {{{#orange 0772}}} || {{{#ff009f 1013}}} || {{{#448844 1374}}} ||
+|| 일러스트 담당 || {{{#purple -AoniS-}}} || {{{#orange -AoniS-}}} || {{{#ff009f -AoniS-}}} || {{{#448844 -AoniS-}}} ||
+|| 이펙터 || {{{#purple MISY.b}}} || {{{#orange MISY.b}}} || {{{#ff009f MISY.b}}} || {{{#448844 MAD CHILD}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 03(2012.3.12)}}} || {{{#ff00ec II 12(2013.10.2)}}} ||
+|| [[BPM]] |||||||| 204 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} || 20 || 없음 ||
+|| {{{#orange ADVANCED}}} || 40 || 없음 ||
+|| {{{#ff009f EXHAUST}}} || 50 || 없음 ||
+|| {{{#448844 INFINITE}}} || 1200 || 이 곡의 EXHAUST 패턴을 AA 이상 클리어||
+
+변경점
+||2013/10/02||INFINITE 패턴 추가||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 01 C코스(2014.12.26 ~ 2015.2.27)
+  * EXHAUST : Skill Level 03(2013.9.5 ~ 2013.10.4)
+  * INFINTE : Skill Level 05(2014.8.1 ~ 2014.11.20)
+ 
+자켓의 캐릭터는 [[사운드 볼텍스/캐릭터#MAD_HOLIC|MAD†HOLIC]]이라 부른다.
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/Uobelg5RB1Q" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+패턴은 대체로 정박위주의 단순한 유형의 패턴. 클라이막스 도입전에 노브와 같이 나오는 롱 노트 낚시를 조심해야 한다. 중후반 클라이막스 구간부터 R노브+왼FX→오른FX로 넘어가는 구간을 숙지해두면 좋다. 맨 마지막 FX두개는 왼손으로 누르도록 하자!! 후에 R노브가 낚시로 한개 나오는점을 유의.
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/k52upGIFQQ4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+INF 패턴 PUC 영상

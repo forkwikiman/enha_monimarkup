@@ -1,0 +1,92 @@
+[[목차]]
+
+== [[DJMAX 시리즈/수록곡 목록]] ==
+
+=== ZET ===
+
+|| 최초 수록 버전 || [[DJMAX Trilogy]] ||
+|| 장르 || Rock ||
+|| 작곡 || [[BEXTER]] ||
+|| 보컬 || Bloom(= [[PlanetBoom]]) ||
+|| BGA || DOVA(제작), R-Goon(편집) ||
+|| BPM || 125 ||
+
+{{{#!HTML
+<iframe title="YouTube video player" width="560" height="315" src="http://www.youtube.com/embed/lypppxYksVU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX Portable 2]]에선 플레이할 순 없었으나, 게임 OST에는 수록된 BEXTER의 악곡, 후에 [[S4리그]]의 '터널'맵의 BGM과 [[DJMAX Trilogy]]의 플레이어블 곡으로 수록되었다.
+
+[[DJMAX Portable 2]] 이후로 신곡들의 퀄리티가 급상승하고있는 BEXTER가 작곡한 곡으로 전반적으로 느리고 강렬한 일렉트릭 기타 리듬 위로 Planetboom의 보컬을 얹은 곡이다. 느린 리듬이지만 '질주하는 느낌'에 맞춘 곡.
+
+비주얼 담당인 DOVA는 [[마비노기]] 동인계의 유명인사로 마비노기 2차창작에 관심이 많은 사람이라면 익숙할것이다.
+
+==== [DJMAX Trilogy] ====
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8UI1tohBfoU" frameborder="0" allowfullscreen></iframe>}}}
+
+(6Key HD)
+
+여기서는 그냥 평범한 중레벨 난이도.
+8Key HD 패턴은 노트수가 워낙 많아 콤보 불리기 노가다에 [[적절]]하다. 풀피버 성공시 약 8200콤보 정도가 나온다.
+
+=== ZET ~Mr.Funky Remix~ ===
+
+|| 최초 수록 작품 || [[DJMAX Portable 3]] ||
+|| 추가 수록 작품 || [[DJMAX TECHNIKA 2]], [[DJMAX TECHNIKA 3]] ||
+|| 장르 || Indie Dance ||
+|| 작곡 || [[BEXTER]] ||
+|| 리믹스 || [[Mr.Funky]] ||
+|| 보컬 || Bloom(= PlanetBoom) ||
+|| BGA || [[KIMYS]] ||
+|| BPM || 128 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/pSjLIkSVq-w?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+본래 락 스타일이었던 원곡이 [Mr.Funky]에 의해 일렉트로니카에 가깝게 리믹스된 곡. 때문에 원곡보다 리믹스곡을 선호하는 유저도 꽤 되는 편.
+
+TECHNIKA 2 이후의 시리즈에서 원곡이 수록되지 않았으므로 그냥 '''제트'''로 줄여 부를 수 있다. 
+
+[[DJMAX TECHNIKA 2]]와 [[DJMAX Portable 3]]에서는 이 버전을 플레이할 수 있는데, 원곡과 달리 이쪽은 KIMYS의 역작 3D BGA를 감상할 수 있다. 전체적으로 [[가디언즈]](전신마괴2)에 등장하는 미래도시를 닮아 있으며, 곡과의 매치가 맞지 않았던 [[Landscape]]나 [[Dream of Winds]]와는 달리, 건조한 느낌의 리믹스 음악과 황량한 분위기의 BGA가 잘 어울린다. 또 이 BGA는 [[Drum Town]]으로도 이어지며, [Dream of Winds]와도 이어진다. ~~랜스는 버림받았다.~~
+
+슈퍼소닉처럼 리믹스하는 사람 잘못 만나서 '컴온'이 후반가면 '캐몬'이라고 들린다.
+~~캐캐몬스 캐캐몬스~~
+
+==== [DJMAX Portable 3] ====
+
+DMP3에서는 중위권 수준의 난이도로 나왔지만 롱노트가 많이 나와 [[Mellow D Fantasy]]처럼 콤보 불리기 곡으로도 좋고 7피버기준 풀피버 난이도도 멜로디 판타지보다 쉽다.
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/zYZffspJLiI?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+6T 노멀
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/PN3-Zuja4ug?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+4.2T SS
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="315" src="http://www.youtube.com/embed/PVByv238T38?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+6.2T WS
+
+==== [DJMAX TECHNIKA 시리즈] ====
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 Max || 4 || 4박 스크롤 || ||
+||<#FFFF00> Normal || D || 150 Max || 5 || 4박 스크롤 || [wiki:"TechniColor"미션 - Midas] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 200 Max || 6 || 4박 스크롤 || [RemiXound Set] 셀렉곡, [wiki:"Future Challenge"미션 - Mr.Funky Mix] 수록 ||
+||<#FF0000> Maximum || B || 250 Max || 7 || 4박 스크롤 || [wiki:"A to Z"미션 - 질주] 수록 ||
+
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/LloM0vR7tJo" frameborder="0" allowfullscreen></iframe>}}}
+
+(MX 패턴)
+
+후에 DMP3 리믹스곡 업데이트 때 [DJMAX TECHNIKA 시리즈]에도 수록되었다. 전체적으로는 레벨에 적당한 난이도이다.

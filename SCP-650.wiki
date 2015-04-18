@@ -1,0 +1,8 @@
+[[include(틀:SCP)]]
+
+||<tablewidth=70%><tablealign=center><-2><:> '''[[SCP 재단]]''' ||
+|| '''일련번호''' || SCP-650 ||
+|| '''명칭''' || 깜짝 조각상(Startling Statue) ||
+|| '''등급''' || 유클리드(Euclid) ||
+|| '''원문''' || [[http://www.scp-wiki.net/scp-650]] ||
+

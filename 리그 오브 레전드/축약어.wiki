@@ -1,0 +1,382 @@
+[[목차]]
+= 게임 내 용어 =
+=== ad / ap / op ===
+Attack Damage(공격력), Ability Power(주문력), OverPowered(사기급)의 축약어.
+
+예를 들어 AP누커(Ability Power Nuker)라고 한다면, 주문력 계수를 가진 스킬을 연타로 때려박아 핵폭탄 급의 데미지를 주는 챔프를 뜻함.
+
+=== b/100/ㅃ ===
+Back 의 축약어, '하던 행동을 중지하고 기지로 돌아오라'는 뜻
+
+=== p ===
+Push의 축약어, '미니언을 이끌고 적의 타워를 파괴하러 가라'라는 말
+
+=== w8/ㄷㄱ ===
+Wait의 축약어,' 잠시 기다리라'는 말/대기의 초성어[* 보통은 대기의 'ㄷㄱ'보다 기달의 'ㄱㄷ'을 더 많이 쓴다.]
+
+=== k ===
+Okay의 축약어, 상대의 말에 동의할 때 쓰는 말. --[[갱플랭크]]가 자주 쓴다--
+
+=== top/탑 ===
+위쪽라인을 말한다. 정글러가 있는 경우 혼자 가며, 그렇지 않은 경우 둘이 간다.
+=== mid/미드 ===
+중간라인을 말한다. 대부분 혼자 간다.
+
+=== bot/봇 ===
+아래라인을 말한다. 정글러가 있어도 유용한 버프를 주는 용이 근처에 있기에 보통 두 명이서 간다.
+
+=== jungle / nc ===
+중립미니언이 존재하는 통칭 정글 nc는 neutral creep 의 약자
+
+=== leash ===
+중립미니언을 잡을 때 다른 아군이 한대 쳐주면서 일정 시간 동안 정글러가 공격을 받지 않게 하고, 빠른 정글을 돌 수 있게 해준다.
+시즌 3에 들어서면서 정글몹이 무조건 가장 가까이 있는 챔피언을 공격하도록 변경되면서 한 대 쳐 주고 가는 것은 별 의미가 없게 되었기 때문에 봇 듀오나 탑과 미드 챔피언들이 하드리쉬를 해 주는 것이 일반적으로 정착하게 되었다. 하드리쉬란 그저 한 대 치고 가는 게 아니라 라인에 조금 늦게 도착하더라도 같이 버프몹의 체력을 많이 깍아 주는 것을 말한다.
+
+단 리쉬를 하다가 원딜이나 서포터가 --고의적으로-- 실수로 그 몬스터를 잡아버릴 경우 욕을 엄청나게 얻어먹는다. 특히 독 공격이 있는 트위치나 3타 마다 강타가 들어가는 베인 등이 이런 사고를 자주 일으킨다.
+=== omw ===
+On my way. 오고 있다는 말. 주로 누군가가 핑[* G 버튼을 누르고 맵 특정 지역을 찍으면 소리와 함께 그 지역이 지칭된다. 연속으로 하면 스트레스 유발이 극심해진다(...)]을 했을 때 하는 말.
+
+=== DoT ===
+DOT(Damage Over Time) 데미지: 찔끔찔끔 지속적으로 체력에 피해를 주는 스킬이 주는 데미지, 대개 체력 회복에 방해되거나 상대의 위치가 파악된다거나 등의 부가 효과들이 있다. 
+([[말자하]]의 재앙의 환상, [[티모]]의 독다트나, [[wiki:"카시오페이아" 카시오페아]]의 독, [[니달리]]의 함정)
+
+--점(dot)찍히듯 찔끔찔끔 다는 데미지라고 이해하는 편이 쉽다--
+
+=== AoE ===
+AOE 스킬: area of effect 범위 마법이나, 메즈기들을 의미한다.
+([[wiki:"피들스틱" 피들]]의 까마귀 폭풍, [[브랜드]]의 화염 기둥)
+
+=== cs ===
+Creep Score 또는 Creep slain의 약자. --롤은 미니언인데 왜 크립을 쓰는지는 묻지 말자-- 미니언 잡은 수를 뜻한다.--[[드레이븐]]은 ds를 먹는다--
+
+=== ks ===
+Kill Steal의 약자. 다 잡아가는 걸 다른 사람이 잡아버렸을 때 사용한다. ~~킬딸~~
+
+=== mez, cc ===
+Mesmerize, Crowd Control의 약자. 상태이상(혼돈,두려움,침묵,속박,띄우기)을 말한다.
+
+=== ss / mia ===
+missing, missing in action의 약자. 자신의 라인에 서있던 챔피언이 사라졌을 때 말해준다. 일종의 경고. 이 경우. 대개는 옆 라인으로 가서 갱킹을 노리고 있다는 소리이니. 조심하는 게 좋다. 한국서버에선 한글로 "(라인 이름or적 이름) 미아" 라고 하거나 ㅂㅁㅇ(봇미아) ㅁㄷㅁㅇ(미드미아) ㅌㅁㅇ(탑미아) 로 줄여쓰는 경우도 있다. 처음 롤을 하는 사람들 중엔 이걸 보고 적 챔피언이 라인을 잃고 미아가 됐다(...)라고 이해하는 경우도 있는 것 같다.
+
+=== re/ㄹ/리 ===
+미아콜을 했는데 미아가 된 챔피언이 다시 라인에 돌아오는 것.
+
+=== dodge/닷지 ===
+게임내에서는 회피를 뜻하지만, 방에서 강제적으로 나감으로서 게임시작 전에 게임을 깨는 것이다. 그날 첫 닷지시 5분의 게임플레이 불가 패널티가 생기고, 그 이후로는 15분의 패널티가 주어진다. 랭크게임에서는 30분 게임플레이 페널티가 주어진다.
+
+=== home / base/집 ===
+본진
+
+=== 기방 ===
+기지방어의 약자다. 주로 바론 킬 상황이 자주 일어나는 중 후반에 사용되는 용어이다. 1차 타워들이 밀리고, 2차 타워까지 전선이 확대되기 시작한 상태, 거기에 상대가 바론버프를 먹은 상황일 경우 일반적으로 개활지에서 싸우게 되면 바론버프를 먹은 쪽이 더욱 더 유리하게 전투를 진행하는 것이 가능하다. 때문에 바론을 빼앗긴 입장에서는 타워들을 수비하면서 상대의 바론버프가 빠지는 것을 기다릴 수밖에 없는데, 이때 주로 "기방하지요" 라는 형태로 사용된다. 즉 "상대의 바론버프가 빠질 때까지 타워를 지키면서 수비적으로 게임을 하지요." 라는 뜻이라고 말할 수 있다.
+
+=== ward / ㅇㄷ ===
+와드. 절대 '어디?' 라고 물어보는 게 아니다. 원딜도 아니다. --하지만 물음표가 달려있다면? ㅇㄷ?-- --정글러가 와딩되있냐고 묻는거일수도...--
+
+=== brb ===
+be right back. '곧 돌아오겠다'는 의미로, 템을 빠르게 사기 위해 귀환을 타며 주로 사용한다. --브라보가 아니다--
+
+=== oom ===
+out of mana. '마나가 떨어졌다'는 의미로, 아군이 갱킹을 왔는데 마나가 떨어져서 호응하기 힘들때 사용한다. --오오미가 아니다--
+
+=== 폿 ===
+EU스타일의 포지션 중 하나인 서폿의 줄임말. 왜 '폿'이냐면, 서폿의 자음체로 ㅅㅍ이라고 치면 클라이언트가 [씨발|시팔]로 인식해서인지(...) 블라인드 처리하기 때문.
+= 게임 내 영웅 축약어 =
+
+이 항목에서는 영어권 서버에서 각 영웅들이 어떻게 불리는지 나타나 있습니다. 한글 호칭은 축약어와 별명을 표기하며 가장 대중적인 표현을 가장 앞에 표기합니다..[* 축약어보다 원래 이름이 자주 쓰일 경우 원래 이름도 표기합니다.] 
+
+북미에서 플레이하던 유저들이 한국서버가 오픈할 당시 아프리카방송 등으로 큰 영향력을 끼치면서 잘못된 표기가 상당수 정착되었다. 해당하는 표기는 기울임 처리.
+ 
+=== 구미호 아리 (Ahri, the Nine-Tailed Fox) ===
+▶ ahri, ari, fox, 아리
+
+=== 그림자의 권 아칼리 (Akali, the Fist of Shadow) ===
+▶ ak, akli, aka, 아칼리, 칼리[* 다만 현재 칼리스타라는 챔프의 등장으로 오해의 소지가 생겨버렸다.], ''아카리''
+
+=== 미노타우르스 알리스타 (Alistar, the minotaur) ===
+▶ ali, cow, 알리,  소, 한우
+
+=== 슬픈 미라 아무무 (Amumu, the sad mummy) ===
+▶  mumu, mummy, 아무무, 무무, 아무, 뭄무
+
+=== 얼음 불사조 애니비아 (Anivia, the cryophoenix) ===
+▶ bird, ani[* 애니가 없고, 애니비아만 있다면 이렇게 불리기도 한다.], aniv, 애니비아, 애니[* 두 글자로 줄여부를 수 있다는 경제성 때문에 헷갈릴 염려가 없을 때 이렇게 불리기도 한다.], 얼닭, 빙닭, --[wiki:"프리져"플져]--
+ 
+=== 어둠의 아이 애니 (Annie, the dark child) ===
+▶ ani(애니비아와 혼동하기 쉽다), annie, 애니
+
+=== 서리 궁수 애쉬 (Ashe, the frost archer) ===
+▶ ashe, ash, 애쉬, ''애시''
+
+=== 거대 증기 골렘 블릿츠크랭크 (Blitzcrank, the great steam golem) ===
+▶ blitz, bliz, robot, 블츠, 블크, 블리츠, 블랭, 블릿, 블탱 ~~블 뒤에 아무거나 한 글자만 붙이면 통한다~~
+
+=== 타오르는 복수 브랜드 (Brand, the burnig vengence) ===
+▶ brand, 브랜드, 부란도
+=== 필트오버의 보안관 케이틀린 (Caitlyn, the Sheriff of Piltover) ===
+▶ cait, 케틀, 케이틀린, 케잉
+
+=== 독사의 포옹 카시오페아 (Cassiopeia, the Serpent’s Embrace) ===
+▶ snake, cass(카사딘과 혼동하기 쉽다.), 카시, 카페
+
+=== 공허의 공포 초가스 (Cho'gath, the terror of the void) ===
+▶ cho, 초가스, 초갓
+
+=== 대담한 폭격수 코르키(Corki, the daring bombardier) ===
+▶ corki, cork, 코르키, 콜키
+
+=== 녹서스의 실력자 다리우스(Darius, the Hand of Noxus) ===
+▶ dari, 다리, 다리우스, --다으리우스--
+
+=== 차가운 달의 분노 다이애나(Diana, the Scorn of the Moon) ===
+▶ Di, 다이애나, 달창
+
+=== 자운의 광인 문도 박사 (Dr. Mundo, the madman of Zaun) ===
+▶ mundo, 문도
+
+=== 화려한 처형자 드레이븐 (Draven, the Glorious Executioner) ===
+▶ Dra, 드븐, 드레이븐, [wiki:"노홍철"홍철이]
+ 
+=== 학살자 이블린 (Evelynn, the widowmaker) ===
+▶ eve, 이블린, 이블
+
+=== 방탕한 모험가 이즈리얼 (Ezreal, The Prodigal Explorer) ===
+▶ ez, 이즈, 애자리얼
+
+=== 종말의 전조 피들스틱 (Fiddlesticks, the harbinger of doom) ===
+▶ fiddle, stick, fs, 피들, 피딩스틱
+
+=== 결투의 대가 피오라 (Fiora, the Grand Duelist) ===
+▶ fiora, 피오라
+
+=== 대양의 말썽꾸러기 피즈 (Fizz, the Tidal Trickster) ===
+▶ fizz, 피즈, 생선
+
+=== 파수꾼의 슬픔 갈리오 (Galio, the Sentinel's Sorrow) ===
+▶ galio, gal, 갈리오
+
+=== 바다의 무법자 갱플랭크 (Gangplank, the saltwater scourge) ===
+▶ gp, gank, pirate, 갱플, 갱플랭크, 귤, 귤쟁이, 귤선장, 귤플랭크, 선장 등등
+
+=== 데마시아의 힘 가렌 (Garen, The Might of Demacia) ===
+▶ garen, 가렌
+
+=== 술취한 난동꾼 그라가스 (Gragas, The Rabblerouser) ===
+▶ grag, 그라가스, 그라, 그라가슴, 가슴
+
+=== 무법자 그레이브즈 (Graves, the Outlaw) ===
+▶ grave, grav, 그브, 무덤, 그브즈
+
+=== 전쟁의 전조 헤카림 (Hecarim, the Shadow of War) ===
+▶ Hecar, 헤카림, 헤라리, 카림, 말, 포니
+
+=== 위대한 발명가 하이머딩거 (Heimerdinger, the Revered Inventor) ===
+▶ dinger, hei, heim, 딩거, 하이머, 하딩
+
+=== 칼날의 의지 이렐리아 (Irelia, the Will of the Blades) ===
+▶ ire, irelia, 이렐, 이렐리아
+
+=== 폭풍의 분노 잔나 (Janna, the storm's fury) ===
+▶ jan, janna, 잔나
+
+=== 데마시아의 귀감 자르반 4세 (Jarvan IV, the Exemplar of Demacia) ===
+▶ jv, jarv, jar, j4, 자르반, 잘반, 고등어, --양념반 자르반 아무무 많이 주세요--
+
+=== 무기의 달인 잭스 (Jax, grandmaster at arms) ===
+▶ jax, 잭스, 짹스
+
+=== 미래의 수호자 제이스 (Jayce, the Defender of Tomorrow) ===
+▶ J, jay, 제이스, 제이
+
+=== 깨우친 자 카르마 (Karma, the Enlightened One) ===
+▶ karma, kar(카서스랑 혼동할 수 있다.), 카르마
+
+=== 죽음을 노래하는 자 카서스 (Karthus, the deathsinger) ===
+▶ kart, kar(카르마와 혼동할 수 있다), 카서스, 카섯
+
+=== 공허의 방랑자 카사딘 (Kassadin, the void walker) ===
+▶ kass (카시오페아와 혼동할 수 있다), 카사딘, 갓사딘[* 물론 심하게 너프 먹기전이다.], 고사딘
+ 
+=== 사악한 칼날 카타리나 (Katarina, the sinister blade) ===
+▶ kat, 카타
+
+=== 심판자 케일 (Kayle, the judicator) ===
+▶ kay~~(갱플랭크와 혼동하기 쉽다)~~, KL, 케일
+
+=== 폭풍의 심장 케넨 (Kennen, The Heart of the Tempest) ===
+▶ ken, rat(트위치와 혼동할 수 있다), 케넨, [[피카츄]]
+
+=== 공허의 약탈자 카직스 (Kha'zix, The Voidreaver) ===
+▶ Kha, 카직스, 메뚜기
+
+=== 심연의 아귀 코그모 (Kog'Maw, The Mouth of Abyss) ===
+▶ kog, 코그모, 고구마, 꼬끄모
+
+=== 환술사 르블랑 (LeBlanc, the Deceiver) ===
+▶ leb, lb, 르블랑, 르통기한, 르블, 릅랑
+
+=== 눈먼 수도승 리 신 (Lee Sin, the blind Monk) ===
+▶ ls, lee, sin , 리신
+
+=== 찬란한 여명 레오나 (Leona, the Radiant Dawn) ===
+▶ leona, leo, 레오나,오나
+
+=== 요정 마법사 룰루 (Lulu, the Fae Sorceress) ===
+▶lulu, 룰루
+
+=== 광명의 소녀 럭스 (Lux, the Lady of Luminosity) ===
+▶ lux, 럭스, --광년--
+
+=== 거석의 파편 말파이트 (Malphite, shard of the monolith) ===
+▶ malp, mal(말자하와 혼동하기 쉽다), 말파, ''말핏'', 갓파이트 --거석신앙--
+
+=== 공허의 예언자 말자하 (Malzahar, Prophet of the Void) ===
+▶ malz, mal(말파이트와 혼동하기 쉽다), 말자하, 말자, --말자G--
+ 
+=== 뒤틀린 나무 정령 마오카이 (Maokai, the Twisted Treant) ===
+▶ mao, tree, 마오카이, 마오, 마카, 묘목
+
+=== 우주 검사 마스터 이 (Master Yi, the Wuju bladesman) ===
+▶ yi, 마이
+
+=== 현상금 사냥꾼 미스 포츈 (Miss Fortune, the bounty hunter) ===
+▶ mf, 미포
+
+=== 금속의 주인 모데카이저 (Mordekaiser, The Master of Metal) ===
+▶ morde, 모데
+
+=== 타락한 천사 모르가나 (Morgana, fallen angel) ===
+▶ morg, 모르가나, 몰가
+
+=== 사막의 관리자 나서스 (Nasus, the curator of the sands) ===
+▶ nasus, 나서스, 개, 개서스
+
+=== 야성의 사냥꾼 니달리 (Nidalee, the Bestial Huntress) ===
+▶ nid, 니달리, 니달, 달리, ~~챙년~~
+
+=== 영원한 악몽 녹턴 (Nocturne, the Eternal Nightmare) ===
+▶ noc, 녹턴, 노크턴
+
+=== 심해의 타이탄 노틸러스 (Nautilus, the Titan of the Depth) ===
+▶ nau, naut, 노틸, 노딜, 노딜러스
+
+=== 설인 기수 누누 (Nunu, the yeti rider) ===
+▶ nunu, 누누
+
+=== 광전사 올라프 (Olaf, The Berserker) ===
+▶ olaf, 올라프, 올랖
+
+=== 시계태엽 소녀 오리아나 (Orianna, the Lady Of Clockwork) ===
+▶ ori, 오리, 오리아나
+
+=== 전쟁의 장인 판테온 (Pantheon, The Artisan of War) ===
+▶ panth, pan, 빵테, 판테온, 판테, 빵테온, 빵
+
+=== 강철의 외교관 뽀삐 (Poppy, The Iron Ambassador) ===
+▶ poppy, pop, 뽀삐
+
+=== 중무장 아르마딜로 람머스 (Rammus, the armodillo) ===
+▶ ram, 람머스, 람머르기니, 람머
+
+=== 사막의 도살자 레넥톤 (Renekton, The Butcher of the Sand) ===
+▶ renek, renk, ren, 레넥, 레넥톤, 레네기, ~~상어~~악어, 노잼톤
+=== 기계 악동 럼블 (Rumble, The Mechanized Menace) ===
+▶ rum, rumble, 럼블
+
+=== 방랑 마법사 라이즈 (Ryze, the rogue mage) ===
+▶ ryze, 라이즈, ~~빡빡이~~
+
+=== 혹한의 서릿발 세주아니 (Sejuani, the Winter's Wrath) ===
+▶ sej, 세주, 세주아니
+
+=== 악마 어릿광대 샤코 (Shaco, the Demon Jester) ===
+▶ shac, shaco, 샤코
+
+=== 황혼의 눈 쉔 (Shen, The Eye of Twilight) ===
+▶ shen, 쉔
+
+=== 미친 화학자 신지드 (Singed, mad chemist) ===
+▶ singed, sing, 신지드, ''싱드'', ~~빡빡이~~
+
+=== 언데드 챔피언 사이온 (Sion, the undead champion) ===
+▶ sion, 사이온, ''시온''
+ 
+=== 전장의 여제 시비르 (Sivir, the battle mistress) ===
+▶ sivir, 시비르, 시비
+
+=== 수정 선봉장 스카너 (Skarner, the Crystal Vanguard) ===
+▶ skar, 스카너, 스카, 전갈
+
+=== 어둠의 여제 신드라 (Syndra, the Dark Sovereign) ===
+▶ synd, 신드라, 신드
+
+=== 현의 명인 소나 (Sona, the Maven of the Strings) ===
+▶ sona, 소나, ~~가슴/슴가~~, --가슴이 시키는 소나--
+
+=== 별의 아이 소라카 (Soraka, the starchild) ===
+▶ soraka, sora, 소라카  ~~별창~~
+
+=== 전략의 대가 스웨인 (Swain, the Master Tactiction) ===
+▶ swain, crow, 스웨인, 스웨, --쩔뚝--
+=== 보석 기사 타릭 (Taric, the gem knight) ===
+▶ tar, taric, gay, 타릭, 게이
+
+=== 날쌘 정찰병 티모 (Teemo, the swift scout) ===
+▶ teemo, 티모, ~~^오^~~
+
+=== 메글링 여단 사수 트리스타나 (Tristana, the megling gunner) ===
+▶ trist, 트리, 트타
+
+=== 트롤 왕 트런들 (Trundle, the Troll King) ===
+▶ trun, troll, 트런들, 트롤
+ 
+=== 야만인의 왕 트린다미어 (Tryndamere, the barbarian king) ===
+▶ tryn, 트린, ''트란'', 트미, 트린다미르
+
+=== 카드의 달인 트위스티드 페이트 (Twisted fate, the card master) ===
+▶ tf, 트페
+ 
+=== 역병 쥐 트위치 (Twitch, the plague rat) ===
+▶ rat(케넨과 혼동할 수 있다), twit, 트위치, 쥐, 트윗, --[wiki:"흑사병"흑사쥐]--
+
+=== 야수의 혼 우디르 (Udyr, The Animal Spirit) ===
+▶ udyr, 우디르
+
+=== 처형인의 긍지 우르곳 (Urgot, the Headman's Pride) ===
+▶ urgot, urgt, 우르곳, ''우르갓'', ''얼갓'', ~~[wiki:"내가 고자라니"우르고자]~~
+
+=== 응징의 화살 바루스 (Varus, the Arrow of Retribution) ===
+▶ Varus, 바루스 
+
+=== 어둠 사냥꾼 베인 (Vayne, the Night Hunter) ===
+▶ vayne, 베인, 구룬다
+
+=== 악의 작은 지배자 베이가 (Veigar, the tiny master of evil) ===
+▶ veigar, vei, 베이가, 베가
+
+=== 기계화의 전령관 빅토르 (Viktor, the Machine Herald) ===
+▶ viktor, 빅토르, ~~빅고인~~
+
+=== 진홍빛 사신 블라디미르 (Vladimir, the Crimson Reaper) ===
+▶ vlad, 블라디, 모기
+
+=== 울부짖는 천둥 볼리베어 (Volibear, the Thunder's Roar) ===
+▶ bear, 볼베, 볼리, 곰, 콜라곰
+
+=== 피의 사냥꾼 워윅 (Warwick, the blood hunter) ===
+▶ ww, 워윅, 늑대
+
+=== 원숭이 왕 오공 (WuKong, the Monkey King) ===
+▶ wk, wuk, monkey, 오공, ''우콩'', 원숭이
+
+=== 데마시아의 호위무사 신 짜오 (Xin'Zhao, the Seneschal of Demacia) ===
+▶ xz, xin, 짜오, 짜장, 짱깨, 신짜장
+
+=== 무덤지기 요릭 (Yorick, the Gravedigger)  ===
+▶ yo, yorik, 요릭
+
+=== 마법공학 폭파병 직스 (Ziggs, the Hexplosives Expert) ===
+▶ zig, bomb, 직스
+
+=== 시간의 수호자 질리언 (Zilean, chronokeeper) ===
+▶ zil, 질리언, 질언

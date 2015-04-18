@@ -1,0 +1,6 @@
+||<tablewidth=100%><-15><#3a98e0> '''[[그래픽 툴|<span style="color:white">그래픽 툴</span>]]''' ||
+||<width=15%><|3><-2><#80b6e5> '''2D 그래픽 툴''' ||||<width=10%><#a6d8f1> '''[[비트맵]]''' ||[[Black Ink]], [[GIMP]], [[Krita]], [[MyPaint]], [[Paint.NET]], [[Pixia]], [[그림판]], [[스무스 드로우]], [[스케치북(소프트웨어)|스케치북]], [[아트레이지]], [[아트위버]], [[오픈캔버스]], [[일러스트 스튜디오]], [[콜러페인트]], [[코믹 스튜디오]], [[클립 스튜디오]], [[파이어알파카]], [[페인터]], [[페인트샵]], [[페인트툴 사이]], [[포토샵]], [[포토샵 라이트룸]], [[프레시 페인트]], [[픽셀메이터]], [[훠닐 스타일픽스]]||
+||||<#a6d8f1> '''[[벡터]]''' ||[[Inkscape]], [[Microsoft Office#s-2.9|Microsoft Visio]], [[어도비 일러스트레이터]], [[어도비 플래시]]||
+||||<#a6d8f1> '''[[DTP]]''' ||[[Adobe Acrobat]], [[Microsoft Office#s-2.7|Microsoft Publisher]], [[QuarkXPress]], [[Scribus]], [[인디자인]]||
+||<-2><|2><#80b6e5> '''3D 그래픽 툴''' ||||<#a6d8f1> '''일반''' ||[[3ds max|3Ds Max]], [[Alias]], [[BodyPaint 3D]], [[Blender]], [[Cinema 4D]], [[Maya(3D 그래픽 툴)|Maya]], [[Metasequoia]], [[Rhino]], [[스케치업|SketchUp]], [[오토데스크 123D Design]], [[ZBrush]],[[Sculptris]], [[LightWave 3D]]||
+||||<#a6d8f1> '''[[CAD]]''' ||[[AutoCAD]], [[CATIA]], [[CREO]], [[SolidWorks]] ||

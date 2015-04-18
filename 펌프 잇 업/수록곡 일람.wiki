@@ -1,0 +1,931 @@
+ *[wiki:"../" 펌프 잇 업]으로 돌아가기
+
+[[목차]]
+
+== 작성 전 주의 사항 ==
+ * 수록곡은 해당 곡이 최초 수록된 버전에만 분류.
+ * 해당 곡의 수록 버전 관련 정보는 해당 곡 항목에서 정리.
+ * 버전별 펌프 오리지널/K-Pop 라이센스/Pop 라이센스로 정렬 카테고리 분류.
+ * 곡 목록은 숫자->가나다->ABC 순 사전색인 정렬.
+ * 리메이크 곡은 추후에 원곡 별도 표기바람.
+ * 각 곡 항목마다의 수록 난이도 표기는 해당 곡이 수록되어있는 최신작을 기준으로 함.
+
+== 곡 템플릿(예시는 [wiki:"Vacuum" 진공]) ==
+ * [펌프 잇 업/수록곡 일람]으로 돌아가기
+|| 최초 수록 버전[* 엑스트라바간자와 같은 현재 곡은 1st가 최초 수록 버전이 아니므로 기준으로 할 것.] |||| [[wiki:"펌프 잇 업/FIESTA" 펌프 잇 업 FIESTA]] ||
+|| 최후 수록 버전 ||||  ||
+|| 아티스트 |||| [[도인]] ||
+|| BPM |||| 200 ||
+|| 비주얼 |||| (LWS) ||
+|| 채널 |||| FIESTA / ORIGINAL TUNES[* 버전별 채널과 장르별 채널 기준 둘 다 기술해주길 바람.] ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/FIESTA 2" FIESTA 2] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 21 / 23 ||
+||<#009900> Double || 22 / 25 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || 3 ||
+
+ * [펌프 잇 업/수록곡 일람]으로 돌아가기
+|| 최초 수록 버전 ||||  ||
+|| 최후 수록 버전[* 현 최신 버전에서도 살아 있는 경우에는 지울 것] ||||  ||
+|| 아티스트 ||||  ||
+|| BPM ||||  ||
+|| 비주얼 ||||  ||
+|| 채널 ||||  ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/FIESTA 2" FIESTA 2] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || - ||
+||<#009900> Double || - ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+||<|2> Short Cut[* 풀 송과 숏 컷이 수록되지 않은 경우에는 지울 것] ||<#ff8c00> Single || - ||
+||<#009900> Double || - ||
+||<|2> Full Song ||<#ff8c00> Single || - ||
+||<#009900> Double || - ||
+
+== 수록곡 목록 ==
+=== [[wiki:"펌프 잇 업/1st" Pump It Up The 1st Dance Floor]](국내 전용) ===
+||||||||<#87CEEB> '''The 1st Dance Floor: Ultimate Remix''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||[[Ignition Starts!]]||[[wiki:"반야" BanYa]]||[* EXCEED 2까지 존재했으나 ZERO부터 오리지널 곡 샘플링 문제로 삭제. 이후 PRIME 1.01 업데이트로 부활.]||
+||||[[Hypnosis]]||[[wiki:"반야" BanYa]]||최초로 반야가 작곡한 작품.[* EXCEED 2까지 존재했으나 Ignition Starts!의 오리지널 곡 샘플링 문제로 쌍둥이 양대산맥이라는 이유로 같이 삭제. 이후 PRIME 1.01 업데이트로 부활.]||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||[[영원한 사랑]]||Forever Love||[[핑클]]||장수곡[* NXA까지 존재했으나 PRO 2 혹은 피에스타 시리즈부터 국내 라이센스 샘플링 문제로 삭제.]||
+||열정||Passion||[[유승준]]||||
+||[wiki:"검은 고양이 네로" 검은 고양이]||Black Cat||[[터보]]||반야 편곡[* 표기와 실제 BPM이 차이가 나는 곡. 타이틀 화면에선 150으로 적혔으나 실제는 143.]||
+||폼생폼사||Pom Pom Pom||[젝스키스]||||
+||랩교 2막||the RAP(act.2)||[[허니 패밀리]]||실루엣의 대체 수록곡.[* 후기판에 수록된 탓에 같은 BGA를 돌려쓰는 타 1st곡들과는 다르게 전용 BGA로 나온다.]||
+||돌아와||Come To Me||[[클론]]||반야 편곡||
+||||Funky Tonight||[클론]||장수곡||
+||니가 진짜로 원하는게 뭐야||What Do U Really Want?||[wiki:"신해철" Monocrome]||원곡에서 속도를 높여놓았다. BPM 112. 원래 BPM은 100.||
+||[증오]||Hatred[* 피에스타 시리즈부터 [http://youtu.be/IJgQ759Ir5U HATE!]라고 영문명이 바뀌었다. 이유는 불명.]||[노바소닉]||||
+||[[또다른 진심]]||Another Truth||[[노바소닉]]||반야 편곡, 펌프 잇 업 역사상 최장수곡[* 3rd OBG부터는 BGA 교체 및 전체적 스텝 리메이크, 붉은 머리의 기타치는 남자가 등장하는 현재의 BGA.]||
+||난 널 원해||I Want U||[[드렁큰 타이거]]||반야 편곡||
+||몰라||I Don't Know Anything||[[엄정화]]||반야 편곡||
+||이유같지 않은 이유||No Particular Reason||[박미경]||반야 편곡||
+||~~[[실루엣]]~~|| ||~~[[김현정]]~~||최초기 수록 작품, 추후 저작권 문제로 랩교 2막으로 교체||
+
+=== [[wiki:"펌프 잇 업/2nd" Pump It Up The 2nd Dance Floor]](국내 전용) ===
+||||||||<#FF0000> {{{#white '''The 2nd Dance Floor'''}}} ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||[[Creamy Skinny]]||[[wiki:"반야" BanYa]]||||
+||싫어||Hate||[[wiki:"반야" BanYa]]||히든곡 'Koul' 출현 조건 대상곡.[* NXA의 월드맥스까지 존재했으나 오리지널 곡 샘플링 문제로 삭제. 다만 본 곡이 사용된 반야 힙합 리믹스는 생존.]||
+||||Koul||[[wiki:"반야" BanYa]]||히든곡 'Extravaganza' 출현 조건 대상곡[* EXCEED 2까지 존재했으나 ZERO부터 오리지널 곡 샘플링 문제로 삭제.]||
+||||[[Final Audition]]||[[wiki:"반야" BanYa]]||장수곡, 히든곡 'Extravaganza' 출현 조건 대상곡.||
+||||[wiki:"엑스트라바간자" Extravaganza]||[[wiki:"반야" BanYa]]||히든곡, 당시 아케이드 최종보스. 숏 컷 존재[* 3rd OBG부터는 음악 일부분 및 스텝 리메이크, 2차 페이크 최종보스, 리믹스 모드는 제외]||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||||[[Rewind]]||이강신||반야 편곡||
+||아이야||I Yah||[[H.O.T.]]||||
+||[[투지]]||Fighting Sprits||[[H.O.T.]]||||
+||||Love||[[S.E.S]]||||
+||꼭!||Please||[[김건모]]||||
+||||[[Com'back]]||[[젝스키스]]||반야 편곡, 장수곡[* 원곡에서 속도를 높여놓았다. BPM 158. 원래 BPM은 144.]||
+||[[뫼비우스의 띠]]||Mobius Strip||[[젝스키스]]||장수곡||
+||||[[Fever]]||[[조PD]]||||
+||[[호기심]]||Curiosity||[[한스밴드]]||||
+||잊혀진 사랑||Love||[wiki:"클릭비" 클릭B]||||
+||||Tell Me Tell Me||[[wiki:"샵#s-2" S#arp]]||||
+||[[상처]]||Heart Break||[[조성모]]||반야 편곡||
+
+=== [[wiki:"펌프 잇 업/3rd O.B.G." Pump It Up The O.B.G.: The 3rd Dance Floor]](국내 전용) ===
+||||||||<#FF85CA> '''The O.B.G.: The 3rd Dance Floor''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||[[Final Audition 2]]||[[wiki:"반야" BanYa]]||패치 후 크레이지 스텝 추가, 숏 컷 존재||
+||[[태동]](胎動)||Naissance||[[wiki:"반야" BanYa]]||히든곡||
+||[wiki:"터키 행진곡(펌프 잇 업)" 터키 행진곡]||Turkey March||[[wiki:"반야" BanYa]]||최초의 클래식 리메이크, 3rd 진 최종보스||
+||[[서울구경]]||An Interesting View||[[wiki:"반야" BanYa]]||구전가요 리메이크||
+||님과 함께||With My Lover||[[wiki:"반야" BanYa]]||트로트 리메이크 ||
+||[[악몽]]||Nightmare||[[wiki:"반야" BanYa]]||||
+||눈을 감아||Close Your Eye||[[wiki:"반야" BanYa]]||||
+||||Free Style||[[wiki:"반야" BanYa]]||||
+||||Midnight Blue||[[wiki:"반야" BanYa]]||최초의 클래식 리메이크, 역대 펌프 수록곡 중 가장 느린 BPM 80||
+||[[그녀는 피자를 좋아해]]||She Likes Pizza||[[wiki:"반야" BanYa]]||최초 BPM 200 돌파곡, 페이크 최종보스[* 패치 전 이 곡이 난이도 8, Extravaganza가 7로 표기되어있었는데 Extravaganza가 더 어렵다는 유저들의 의견을 수렴하였는지 패치 후 8로 상향표기.]||
+||||Pumping Up||[[wiki:"반야" BanYa]]||히든곡 '태동' 출현 조건 대상곡[* 하드 2스테이지에서 이 곡을 플레이하면, 3스테이지에서 Final Audition 2대신, 태동이 출현했다. 더블은 2stage에서 반야곡을 하면 출연]||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||[[경고]]||Don't Bother Me||타샤니||장수곡||
+||연가||Love Song||[[유승준]]||||
+||애수||Lover's Grief||[[G.O.D]]||||
+||||To The Top||[[이주노]]||||
+||그녀와의 이별||Separation With Her||[[김현정]]||||
+||[[wiki:"뿌요뿌요(노래)" 뿌요뿌요]]||Puyo Puyo||U.P||||
+||우리는||We Are||[[듀스]]||장수곡||
+||헤어지는 기회||Time To Say Goodbye||[[소찬휘]]||패치 후 크레이지 스텝 추가||
+||말해줘||Tell Me||[[지누션]]||||
+||||[[미녀와 야수]](OK? OK!)||[[DJ DOC]]||||
+
+=== [[wiki:"펌프 잇 업/O.B.G. Season Evolution" Pump It Up The O.B.G. Season Evolution]](국내 전용) ===
+||||||||<#F361A6> '''The O.B.G. Season Evolution''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||Oh! Rosa||[[wiki:"반야" BanYa]]||추후 스페인어 버전이 따로 출시||
+||[[첫사랑]]||First Love||[[wiki:"반야" BanYa]]||Oh! 로사와 동일||
+||사랑가||Betrayer||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 음원||
+||[[무혼]]||Solitary||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 음원||
+||||[[Mr.Larpus]]||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 음원, S/E 최종보스||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||||Sad Salsa||[[백지영]]||||
+||||Summer of Love||[[룰라]]||||
+||||Kiss||컨츄리 꼬꼬||저작권 문제로 The Collection부터 삭제||
+||해석남녀||Man & Woman||Cool||||
+||[[초련]]||First Love||[[클론]]||[wiki:"펌프 잇 업/EXTRA" EXTRA]때 테크노 버전으로 교체(타이틀 유지)||
+||[[올가미]]||A Trap||[[베이비복스]]||||
+||||Disco Bus||[[김현정]]||본작 신곡 중 유일히 Double스텝이 부재||
+||뛰어봐||Run!||[[노바소닉]]||||
+||||Run to You||[[DJ DOC]]||||
+
+=== [[wiki:"펌프 잇 업/The Collection" Pump It Up The Collection]](국내 전용) ===
+해당 사항 없음. 
+
+=== [[wiki:"펌프 잇 업/The Perfect Collection" Pump It Up Perfect Collection]](국내 전용) ===
+||||||||<#A566FF> '''Perfect Collection''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||Pump Jump||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 음원. 외국곡 같지만 오리지널 곡이다.||
+||||[[N]]||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 5곡의 음원[* 선공개 음원들 중 4곡이 먼저 공개되고나서, 가장 나중에 공개되었다.]||
+||||[[Rolling Christmas]]||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 음원||
+||||All I Want For X-mas||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 음원||
+||||[wiki:"베토벤 바이러스" Beethoven Virus]||[[wiki:"반야" BanYa]]||본작 출시 전 선공개된 5곡의 음원, 클래식 리메이크||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||성인식||I Will Accept You||[[박지윤]]||본작 신곡 중 유일히 Crazy스텝이 부재||
+||나를 돌아봐||Come Back To Me||[[듀스]]||[* NXA까지 존재했으나 프로 2 혹은 피에스타부터는 국내 라이센스 샘플링 문제로 삭제.]||
+||말하자면||As I Told You||[[김성재]]||||
+||[[난 알아요]]||I Know||[[서태지와 아이들]]||서태지가 직접 게임사이즈 편집||
+||환상속의 그대||My Fantasy||[[서태지와 아이들]]||서태지가 직접 게임사이즈 편집, [wiki:"펌프 잇 업/NX ABSOLUTE" NXA]에서 리믹스 버전으로 재수록||
+||우리들만의 추억||Unforgetable Memory||[[서태지와 아이들]]||서태지가 직접 게임사이즈 편집||
+||하여가||Hayuga||[[서태지와 아이들]]||서태지가 직접 게임사이즈 편집||
+||[[필승]]||Certain Victory||[[서태지와 아이들]]||서태지가 직접 게임사이즈 편집||
+||울트라맨이야||Ultramania||[[서태지]]||서태지가 직접 게임사이즈 편집||
+||||Bonaccia||나즈카||타이틀 화면에선 BPM이 76으로 표기됐으나 실은 76의 2배인 152||
+||||[[SLAM]]||[[노바소닉]]||장수곡, P.C. 최강의 극악곡이자 진 최종보스[* 크레이지 스텝 한정이지만, 이 곡이 처음 등장했을때 사람들의 반응은 경악 그 자체였으며, '어렵다'라는 말 대신, '슬램같다'라는 신조어가 붙을 정도로 그 파급력은 경이적이었다. 국내에선 Prex3가 출시되기 전까지 사실상 시리즈 최강의 보스곡으로 인식되었다.]||
+||||Space Fantasy||[[이박사]]||||
+||||--Now--||--[[핑클]]--||초기 수록 예정곡이었으나, 저작권 문제로 수록 취소||
+
+=== [[wiki:"펌프 잇 업/EXTRA" Pump It Up Extra]](국내 전용) ===
+||||||||<#0100FF> {{{#white '''Extra'''}}} ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||Chicken Wing||[[wiki:"반야" BanYa]]||숏 컷 존재||
+||||[[Holiday]]||F2 Original||히든곡||
+||[[라젠스키 캉캉]](혹은 라데즈키)||Radezky Can Can||F2 Original||히든곡, 페이크 최종보스곡[* 당시 이 곡보다 어렵다고 평가되었던 곡이 최소 3곡 이상(…). 펌프 역대 수록곡 중 가장 거품이 심한 페이크 최종보스이며 Pro 시리즈에서는 곡명이 Can Can, 아티스트 명의가 BanYa로 변경되었다.]||
+||||[[Final Audition Episode 1]]||[[wiki:"반야" BanYa]]||||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||[[야화]]||Flower Night||피플크루||||
+||서커스 매직 유랑단||Circus Magic||[[크라잉 넛]]||||
+||머리치워 머리||Move Your Head||[[틴틴파이브]]||||
+||나는 쓰레기야||Trash Man||[[넥스트]]||히든곡, 테크노 모션에서 이식한 곡||
+||||Funky Jockey||B.O.K||||
+||||Starian||[[듀크]]||테크노 모션에서 이식한 곡, 장수곡||
+||||Big Money||[wiki:"엑스 틴" X-Teen]||||
+||와요와요||Wayo Wayo||[[OPPA#s-2.2.1|O.P.P.A]]||||
+||자책||Mistake||Utwo||장수곡||
+||랩교 3막||the RAP act.3||[[허니 패밀리]]||||
+||찾길 바래||Wish You Could Find||[[유승준]]||||
+||||Loner||T.T.MA||테크노 모션에서 이식한 곡||
+||||[[wiki:"몽키 매직" Monkey Magic]]||[[이박사]]||||
+||굴레를 벗어나||Out Of The Ring||[[듀스]]||||
+||||Blind Faith||[[O-24]]||||
+||||Lazenca, Save us||[[넥스트]]||||
+||뱃놀이||Ferry Boat||[[DJ DOC]]||||
+||[[삐에로]]||Pierrot||[[이현도]]||테크노 모션에서 이식한 곡||
+||[[초련]](Techno Mix)||First Love||[[클론]]||테크노 모션에 수록된 편곡/BGA로 교체. Kiss와 마찬가지로 저작권 문제로 프리미어1/프렉스1에서 삭제||
+
+=== Pump It up Premiere(해외전용판) ===
+Perfect Collection까지의 전곡에 오리지널 곡 6개가 추가됐다.[* 브라질 버전은 여기에 8곡이 추가되었지만, BGA 재탕곡이 몇개 있다.]
+
+추가 곡[* PC판 프리미어1에서 플레이할 수 있다.]
+||||||||<#FF00DD> '''Premiere''' ||
+||<width=300px> 곡명 ||<width=200px> 아티스트 ||<width=300px> 비고 ||
+||||||<:>'''해외 라이센스(World Music)'''||
+||Oops! I Did It Again||(Britney Spears)||해외판 전용 신곡, 커버 보컬||
+||Bye Bye Bye||(Nsync)||해외판 전용 신곡, 커버 보컬||
+||I Need To Know||(Marc Anthony)||해외판 전용 신곡, 커버 보컬||
+||Let's Get Loud||(Jennifer Lopez)||해외판 전용 신곡, 커버 보컬||
+||Mambo No. 5||(Lou Bega)||해외판 전용 신곡, 커버 보컬||
+||Take on me||(A-ha)||해외판 전용 신곡, 커버 보컬||
+||||||<:>'''브라질버전 추가곡'''||
+||A Cerca||Skank||해외판 전용 신곡||
+||De Volta Ao Planeta||Jota Quest||해외판 전용 신곡||
+||Pensamento||Cidade Negra||해외판 전용 신곡||
+||Popozuda Rock 'n Roll||De Falla||해외판 전용 신곡||
+||Rebola Na Boa||Mr. Jam||해외판 전용 신곡||
+||Sempre Assim||Jota Quest||해외판 전용 신곡||
+||Uma Bomba||Braga Boys||해외판 전용 신곡||
+||Vaqueiro Bom Demais||Limão Com Mel||해외판 전용 신곡||
+
+=== Pump It Up Prex(해외전용판) ===
+Premiere 1 + Extra
+
+=== [[wiki:"펌프 잇 업/Rebirth" Pump It Up The Rebirth]](국내 전용) ===
+이 시리즈까지 가요가 한글 타이틀로 나왔었고 이후의 후속작은 영어 타이틀로 나왔다. 이후 NX2에서부터 한글 타이틀이 부활한다. 다만 익시드2와 NX에는 한글 타이틀이 더미 데이터로 남아있었다.
+||||||||<#B5B2FF> '''The Rebirth''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||Dr. M||[[wiki:"반야" BanYa]]||클래식 리메이크||
+||||[[Emperor]]||[[wiki:"반야" BanYa]]||||
+||||Get Your Groove On||[[wiki:"반야" BanYa]]||||
+||||[[Love is A Danger Zone]]||[[wiki:"반야" BanYa]]||숏 컷 존재||
+||||Maria||[[wiki:"반야" BanYa]]||클래식 리메이크||
+||||Mission Possible||[[wiki:"반야" BanYa]]||||
+||||[[My Way]]||[[wiki:"반야" BanYa]]||||
+||||Point Break||[[wiki:"반야" BanYa]]||클래식 리메이크||
+||||Street Show Down||[[wiki:"반야" BanYa]]||||
+||||Top City||[[wiki:"반야" BanYa]]||||
+||||Winter||[[wiki:"반야" BanYa]]||클래식 리메이크, 숏 컷 존재||
+||||[wiki:"윌 오 더 위스프" Will o' The Wisp]||[[wiki:"반야" BanYa]]||Division 한정 최종보스곡[* Division에서 올 와일드 플레이 시, 마지막에 쏟아지는 Drill 스텝은 그야말로 미친 근성을 필요로 한다. 이 부분은 후에 Skill Up! Zone의 Drill부분 연습용으로, Beatream of the wisp에서 부활했다.]||
+||||Till The End Of Time||[[wiki:"반야" BanYa]]||||
+||||Oy Oy Oy||[[wiki:"반야" BanYa]]||||
+||||We Will Meet Again||[[wiki:"반야" BanYa]]||||
+||||Miss's Story||[[wiki:"반야" BanYa]]||||
+||||Set Me Up||[[wiki:"반야" BanYa]]||||
+||||[[Dance With Me]]||[[wiki:"반야" BanYa]]||||
+||||Vook||[[wiki:"반야" BanYa]]||더블 한정 최종보스곡[* REBIRTH 수록곡 중 유일한 난이도 '12']||
+||||Csikos Post||[[wiki:"반야" BanYa]]||클래식 리메이크||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||[[가]]||Go Away||투야||후에 G.A라고 표기||
+||[[사랑해]]||I Love You||[[쥬얼리]]||||
+||웃기네||Gotta Be Kidding||[[하늘]]||PREMIERE 3 부터 타이틀 교체||
+||[[짱가]]||Zzanga||[[김건모]]||||
+||창살없는 감옥||A Prison Without Bars||[[박진영]]||||
+||[[휘파람]]||A Whistle||[[CB MASS]]||||
+||||Gentleman Quality||[[CB MASS]]||||
+||||Run Away||투야||||
+||||Swing Baby||[[박진영]]||||
+||||[[Temptation]]||[[하리수]]||||
+||||[[Y]]||[[김건모]]||||
+||딱이야||Perfect!||[[디바]]||||
+||||Let's Boogie||[[거북이]]||||
+||내 생에 봄 날은 간다||My Best Day Is Gone||캔||||
+||파도||The Waves||[[UN]]||||
+||||[[Always]]||보이클럽||||
+
+=== Pump It Up Premiere 2(해외전용판) ===
+Premire 2 구곡 + Rebirth
+
+=== Pump It Up Prex 2(해외전용판) ===
+Premiere 2 구곡 + Rebirth + EXTRA의 곡 구성으로 이루어져 있지만, EXTRA 구곡 중에서 서커스 매직 유랑단이 삭제되었다.
+
+=== Pump it up Premiere 3(해외전용판) ===
+K-Pop 신곡이 없고, BanYa의 곡들 또한 중남미 스타일의 곡을 작곡.
+||||||||<#FF00DD> '''Premire 3''' ||
+||<width=300px> 곡명 ||<width=200px> 아티스트 ||<width=300px> 비고 ||
+||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||Bee||[[wiki:"반야" BanYa]]||클래식 리메이크||
+||D Gang||[[wiki:"반야" BanYa]]||||
+||[[Hello]]||[[wiki:"반야" BanYa]]||||
+||Beat of the War||[[wiki:"반야" BanYa]]||최초의 본격 변속곡||
+||||||<:>'''해외 라이센스(World Music)'''||
+||Bambole||Papa Gonzales||||
+||Burning Krypt||B-Legit, 2Wice, & 4Tray||||
+||Can You Feel Dis Or Dat||2Wice||||
+||Clap Your Hands||Scoop feat. Joyce Lyle||||
+||Conga||Queen Latin||||
+||DJ Nightmare||Rodney O & Joe Cooley||||
+||Eres Para Mi||Mozquito||||
+||Fiesta Macarena Pt.1||DJ Paula||||
+||On Your Side||Kay Kent||||
+||Everybody||Carlos T. Quila||||
+||Join the Party||Gans||Prex 3에서 Crazy 패턴 변경||
+||Lay It Down||Fresno||||
+||Let The Sunshine||Lisa Cool & The South Spirit||||
+||Lovething||Down Low||||
+||Mexi Mexi||Mozquito||||
+||You Don't Wanna Runup!!||Rodney O & Joe Cooley||||
+
+=== [wiki:"펌프 잇 업/PREX3" Pump It Up Prex 3](한국/인터내셔널 통합) ===
+||||||||<#FF48FF> '''Prex 3''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||Come To Me||[[wiki:"반야" BanYa]]||||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||태양의 나라||Empire Of The Sun||[[노바소닉]]||리믹스 버전으로 수록||
+||||||||<:>'''외국 라이센스(World Music)'''||
+||||Let's Get the Party Started||Pink||||
+||||||||<:>'''수록취소곡들''' [* PC판에서 패치후 플레이 가능. 일부 BGA 재탕곡 있음.]||
+||||Just A Girl||No Doubt||||
+||||Objection||Shakira||||
+||||It's My Party||Thalia||||
+||||Music||Madonna||||
+||||[[Master of Puppets]]||[[메탈리카]]||정식으로 수록됐으면 팝중에서 가장 빠른 곡. BPM 212!||
+
+=== [[wiki:"펌프 잇 업/EXCEED" Pump It Up Exceed]](한국/인터내셔널 통합) ===
+||||||||<#BDBDBD> '''Exceed''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||[[wiki:"Final Audition 3 U.F." Final Audition 3 U.F (Un.Finished)]]||[[wiki:"반야" BanYa]]||숏 컷 존재||
+||태동 2||Naissance 2||[[wiki:"반야" BanYa]]||||
+||||Monkey Fingers||[[wiki:"반야" BanYa]]||히든 곡, 풀 송 존재||
+||||Blazing||[[wiki:"반야" BanYa]]||||
+||||Pump Me Amadeus||[[wiki:"반야" BanYa]]||클래식 리메이크||
+||||X-Treme||[[wiki:"반야" BanYa]]||||
+||||Get Up!||[[wiki:"반야" BanYa]]||클래식 리메이크||
+||||Oh! Rosa (Spanish ver.)||[[wiki:"반야" BanYa]]||히든 곡(스텝은 동일)||
+||||첫 사랑 (Spanish ver.)||[[wiki:"반야" BanYa]]||히든 곡(역시 스텝은 동일)||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||||[[wiki:"Dignity(크래쉬)" Dignity]]||[[크래쉬]]||NX이전 진 최종보스, 풀 송 존재||
+||자! 엉덩이||Shake That Bootie||[[원투]]||||
+||||Valenti||[[보아]]||BGA, 스텝, 곡이 잘 맞는 몇 안되는 수작.||
+||니가 진짜로 원하는게 뭐야||What Do You Really Want||[[크래쉬]]||||
+||[[가]]||Go||[[유니]]||||
+||플라멘코||Flamanco||[[Oliver]]||||
+||||One Love||S'MAX||||
+||||||||<:>'''외국 라이센스(World Music)'''||
+||||Kiss Me||Debbie Scott||리메이크 버전||
+||||Essa Maneira||Kaoma||||
+||||Ba Be Loo Be Ra||Kristeen||||
+||||La Cubanita||Los Niños de Sara||||
+||||Shake It Up||Rod||||
+||||Power of Dream||[[Victoria]]||||
+||||Watch Out||[[Victoria]]||||
+||||Fiesta||El Cuba||||
+||||Soca Make Yuh Ram Ram||General Grant||||
+||||Born to be Alive||P. Hernandez & B. Thomas||||
+||||Xibom Bombom||Los Del Ritmo||||
+||||||||<:>'''북미판 EXCEED SE 추가곡''' (가정용이다.)||
+||||A Little Less Conversation||Elvis vs. JXL||편곡버전||
+||||I Love You Baby||Pandera||제로에도 수록||
+||||Let's Groove||Earth, Wind & Fire||||
+||||Name of the Game||The Crystal Method||||
+||||Rapper's Delight||Sugarhill Gang||||
+||||Walkie Talkie Man||Steriogram||||
+
+=== [[wiki:"펌프 잇 업/EXCEED2" Pump It Up Exceed 2]](한국/인터내셔널 통합) ===
+||||||||<#999999> '''Exceed 2''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||J Bong||[[wiki:"반야" BanYa]]||||
+||||Hi-Bi||[[wiki:"반야" BanYa]]||||
+||[[무혼 2]]||Solitary2||[[wiki:"반야" BanYa]]||당시 히든곡, 숏 컷 존재||
+||||[[Canon-D]]||[[wiki:"반야" BanYa]]||클래식 리메이크. BGA가 상당한 수작으로 정평이 나 있다. 풀 송 존재||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||애송이||GreenHorn||렉시||||
+||핫뜨거||HOT||[[1TYM]]||||
+||바래||Pray||Som2||||
+||떠나버려||Go Away!||[[BMK]]||원곡에서 속도를 높여놓았다. BPM 132. 원래 BPM은 120.||
+||만취 인 멜로디||Drunken in Melody||[[은지원]]||||
+||[[예지몽]]||Dejavu||Som2||풀 송 존재||
+||너너||[[U]]||주다인||||
+||[[사자후]]||Sajahu||[[이현도]]||||
+||[[폭풍]]||Typoon||[[이현도]]||풀 송 존재||
+||[[이터니티]]||Eternity||[[엄정화]]||||
+||폭시 레이디||Foxy Lady||[[하리수]]||원곡에서 속도를 높여놓았다. BPM 130. 원래 BPM은 118.||
+||투 레잇||Too Late||[[샤인]]||||
+||[[내게 남은 사랑을 다 줄께]]||I'll Give You All My Love||[[왁스]]||당시 캐논-D 나이트메어 해금 대상 곡, 풀 송 존재||
+||후아예||Huu Yah Yeah||Y-me||||
+||||We Don't Stop||아소토 유니온||||
+||||||||<:>'''해외 라이센스(World Music)'''||
+||||Re Code De Bonne Conduite||Manlesa||||
+
+=== [[wiki:"펌프 잇 업/ZERO" Pump It Up Zero]](한국/인터내셔널 통합) ===
+||||||||<#F15F5F> '''Zero''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||Beat of the War 2||[[wiki:"반야" BanYa]]||미션 한정 MR 버전, 풀 송 존재 ||
+||[[월광]]||Moonlight||[[wiki:"반야" BanYa]]||클래식 리메이크, 숏 컷 존재 ||
+||||[[wiki:"위치 닥터" Witch Doctor]]||[[wiki:"반야" BanYa]]||당시 히든곡, 숏 컷 존재||
+||||[[wiki:"Love is A Danger Zone pt.2" Love is a Danger Zone 2]]||[[wiki:"반야" BanYa]]||MR 버전, 숏 컷, 풀 송 존재||
+||||[[wiki:"팬텀" Phantom]]||[[wiki:"반야" BanYa]]||클래식 리메이크 ||
+||||Papa Gonzales||[[wiki:"반야" BanYa]]||||
+||||Jump||[[wiki:"반야" BanYa]]||[* NXA의 월드맥스까지 존재했다가 피에스타 시리즈 이후 오리지널 샘플링 문제로 삭제.]||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||긴급상황||Emergency||[[드렁큰 타이거]]||풀 송 존재||
+||친구여||My Freind||[[조PD]]||||
+||[[폭풍의 언덕]]||Wuthering Heights||[[유진]]||||
+||||Do it Yourself||레이지본||||
+||왜 이래||What's Going On?||[[거북이]]||||
+||[[올빼미]]||All Famy||[[은지원]]||저작권 문제로 NX부터 삭제||
+||[[중화반점]]||Chung Hwa Ban Jeom||[[루이스]]||||
+||소방관 아저씨||Mr.FireFighter||스푸키 바나나||풀 송 존재||
+||발자국||Footprint||T.O||최초로 BGA가 뮤비로 나옴[* 원곡에서 속도를 높여놓았다. BPM 135. 원래 BPM은 122.]||
+||어머나||Oh, My!||[[장윤정]]||당시 히든곡||
+||[[엔터 더 드래곤]]||Enter the Dragon||J.T.L||풀 송 존재||
+||[[스톰]]||Storm||[[페리]]||||
+||돌아||Turn Around||[[미나]]||||
+||||||||<:>'''외국 라이센스(World Music)'''||
+||||I Love You Baby||Pandera||||
+||||Up Up||Cachy Huang||펌프 잇 업에서는 이 이름으로 등장하지만 사실 원제는 [[채의림]]의 초패동작(招牌动作)이다.||
+
+=== [[wiki:"펌프 잇 업/New Xenesis" Pump It Up NX: New Xenesis]](한국/인터내셔널 통합) ===
+||||||||<#80F5FF> '''NX: New Xenesis''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||[[wiki:"위치 닥터" Witch Doctor #1]]||Yahpp||||
+||||Arch of Darkness||Yahpp||아크 셰이드로 제공한 곡||
+||||[[Chimera]]||Yahpp||NX의 최종보스[* 사실 진 최종보스라 할 수 있는 스텝으로는 NX Special Boss라 칭해졌던 Final Audition Episode 2-2 Another Nighmare가 존재했지만, 도저히 1인용이라 생각할 수 없는 내용물을 담고 있었던 탓에 최종보스라기보다는 그냥 쓰레기 채보로 낙인받아버렸다. 이 스텝은 차후 미션존에서나 볼 수 있는 스텝으로 전락되었......으나 INFINITY에서 D27 채보로 부활했다!]||
+||2006 사랑가||2006 Love Song||[wiki:"반야" BanYa Production]||||
+||||Do You No That - Old School||[wiki:"반야" BanYa Production]||||
+||||Gun Rock||[wiki:"반야" BanYa Production]||익시드2 오프닝 리믹스||
+||투우사의 노래||Bullfighters' Song||[wiki:"반야" BanYa Production]||클래식 리메이크||
+||[[미운 오리 새끼]]||Ugly Dee||[wiki:"반야" BanYa Production]||클래식 리메이크||
+||||[[Final Audition Episode 2-1]]||Yahpp||||
+||불놀이야||Fire Game[* 최초 수록시엔 영문명이 그냥 'Fire'였다.]||Yahpp||옥슨80의 불놀이야를 리메이크한 곡. 아케이드에서 선택 불가, 풀 송 존재[* NX2까지 존재했으나 아케이드에서 선택 불가능 탓인지 몰라도 NXA부터 삭제.]||
+||||[[Final Audition Episode 2-2]]||Yahpp||||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||[[고백]]||Go Back||[[다이나믹 듀오]]||||
+||||Fly||[[에픽하이]]||풀 송 존재||
+||||One Night||[[DJ DOC]]||||
+||흐린 기억속의 그대||U inside my dim memory||[[현진영]]||이얍 편곡, 풀 송 존재||
+||자유로와||Free!||[[지니]]||풀 송 존재||
+||사랑스러워||Lovely||[[김종국]]||풀 송 존재||
+||종점 보관소||Terminal Depository||[[어어부밴드]]||||
+||[[그대에게]]||For You||[[wiki:"N.EX.T" 넥스트]]||풀 송 존재[* 여기서 사용된 음원은 2006년 초에 발매된 N.EX.T 5.5집 <ReGame?>의 수록판.]||
+||||Snow Dream||애플잼||뮤비가 BGA로 나옴||
+||지나가던 꽃미남 캐릭터다||Handsome Character That Pass||[[메이]]||||
+||현진영 GO 진영 GO||Hyun Jin Young GO! Jin Young GO!||[[현진영]]||리믹스 버전||
+||[[오빠는 풍각쟁이야]]||My Brother is Street Singer||박향림||이얍 편곡||
+||그래서||So||[[타이푼]]||||
+||||Hold The Line||[[조PD]] & [[wiki:"브라운 아이드 걸스" B.E.G]]||풀 송 존재||
+||||~~누나의 꿈~~||~~현영~~||수록이 예정되어 있었고 채보도 완성됐으나 표절 시비에 휘말려서 계약이 파기된 곡||
+||||||||<:>'''해외 라이센스(World Music)'''||
+||||It's the Hyps||DJ Dookie||||
+||||Throw'Em Up||Andrew Kim||||
+||||Bust back||DVS||||
+||||Haley||Sam-I-am||||
+||||We Goin'Fly Remix||Gyfted||||
+
+=== [[wiki:"펌프 잇 업/Pro" Pump It Up Pro]](해외전용판)[* 일부 구곡들은 프로와 프로 2까지 존재했으나 인피니티에서는 해외 라이센스 샘플링 문제로 삭제.] ===
+||||||||<#4948FF> {{{#white '''Pro'''}}} ||
+||<width=300px> 곡명 ||<width=200px> 아티스트 ||<width=300px> 비고 ||
+||!||Onyx||[[인 더 그루브]] 2 이식 곡||
+||Aliens in Our Midst||Corporation|| ||
+||Anubis||Banzai||인 더 그루브 이식 곡||
+||Art City||Virgill|| ||
+||Be My Friend||Lagoona|| ||
+||Blow My Mind||Alphadelta|| ||
+||Boogie Land||Le Bruj|| ||
+||Chopstix||Sonic Dimension||NX2에 이식, 클래식 리메이크||
+||Clockwork Genesis||Inspector K||인 더 그루브 2 이식 곡||
+||Coming Out||Playmaker feat. Robin|| ||
+||Dance All Night||Oscillator X||NX2에 이식||
+||Dance Vibrations||Elpis||NX2에 이식||
+||Dawn (Perpetual Mix)||KaW||인 더 그루브 수록곡 Dawn의 리믹스||
+||Destiny||Smiley||인 더 그루브 2 이식 곡||
+||DJ Superstar||Oscillator X|| ||
+||Do What You Wanna Do||Playmaker|| ||
+||Energizer||ZiGZaG||인 더 그루브 2 이식 곡, NX2에 이식||
+||Esperanza||KaW|| ||
+||Exotica||Banzai|| ||
+||Feels Just Like That Night||Eskimo & Icebird feat. Maria Merete|| ||
+||Funk Factory||Money Deluxe||인 더 그루브 이식 곡||
+||Groovin' Motion||Sonic Dimension||NX2에 이식||
+||Hasse Mich||Onyx|| ||
+||Heel and Toe||KURi-ZiLL||피에스타2에 이식||
+||Incognito||Inspector K||인 더 그루브 이식 곡||
+||Infection||Inspector K||인 더 그루브 이식 곡||
+||Into My Dream -Kaveh Azizi remix-||Lagoona|| ||
+||It's Over Now||Virgill|| ||
+||July -Euromix-||js14||인 더 그루브 2 이식 곡||
+||Love Eternal||When Machines Dream|| ||
+||Monolith||Affinity||인 더 그루브 2 이식 곡, 피에스타 2에 이식||
+||Moonstone||Virgill|| ||
+||Nightmoves||Playmaker|| ||
+||Oasis||KaW||인 더 그루브 이식곡||
+||Ra||Banzai|| ||
+||Radius||KURi-ZiLL|| ||
+||RE-RAVE||KURi-ZiLL||피에스타 2에 이식||
+||Riders, Unite!||Andreas Viklund|| ||
+||Robotix||Kbit||인 더 그루브 2 이식 곡||
+||Round and Round||Eskimo & Icebird|| ||
+||STOP! & GO||Onyx|| ||
+||Summer -Speedy Mix-||Smiley||인 더 그루브 2 이식 곡||
+||Sunshine||Playmaker|| ||
+||Take Me Back||KaW||피에스타 2에 이식||
+||Take My Time||Alphadelta|| ||
+||Utopia||Smiley||인 더 그루브 이식 곡, 피에스타 2에 이식[* 인피니티에서 수록되지 않았지만 유일하게 본가 시리즈에서 수록된 프로 시리즈의 곡이다.]||
+||Virtual Emotion||Inspector K||피에스타 2에 이식||
+||[wiki:"버텍스" VVV(VerTex^3)]||ZiGZaG||인 더 그루브 시리즈 수록곡 VerTex, VerTex^2의 후속작. 피에스타 2에 이식||
+||Who||KaW|| ||
+||Xuxa||Smiley||인 더 그루브 이식 곡, 피에스타 2에 이식||
+||Y2Z||Affinity||피에스타 2에 이식||
+||Zodiac||Banzai||인 더 그루브 이식 곡||
+||||||<:>'''Encore 패치 추가곡'''||
+||Epilogue||When Machines Dream|| ||
+||Euphoria||KaW feat. Smiley||인 더 그루브 이식 곡||
+||Kitty Cat||Coconut|| ||
+||Ladybug||Coconut||피에스타 2에 이식||
+||London Bridge||Sci GUYS|| ||
+||Move It Groove It||KaW feat. Sam-I-Am|| ||
+||Shooting Star||Coconut|| ||
+||Style On My Speed Dial||Oscillator X|| ||
+||Tension||Inspector K||인 더 그루브 이식 곡||
+||Tribal Style||KaW||인 더 그루브 이식 곡||
+
+=== [[wiki:"펌프 잇 업/NX2 ~Next Xenesis~" Pump It Up NX2: Next Xenesis]](아시아/남미/오세아니아) ===
+||||||||<#6EE3F7> '''NX2: Next Xenesis''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||무혼 1.5||Solitary 1.5||Yahpp||당시 USB 전용곡||
+||||Beat the Ghost||[wiki:"반야" BanYa Production]||기타맨 부분 샘플링||
+||||Carprice of Otada||[wiki:"반야" BanYa Production]||클래식 리메이크 ||
+||||Money||[wiki:"반야" BanYa Production]||||
+||||Monkey Fingers 2||[wiki:"반야" BanYa Production]||||
+||||Faster Z||Yahpp||클래식 리메이크||
+||||Pumptris Quattro||Yahpp||||
+||||Guitar Man||[wiki:"반야" BanYa Production]||풀 송 존재||
+||||Higgledy Piggledy||[wiki:"반야" BanYa Production]||클래식 리메이크||
+||||Jam o Beat||[wiki:"반야" BanYa Production]||||
+||||Witch docva||Yahpp||미션 전용||
+||||Phantom (Speed up ver.)||[wiki:"반야" BanYa Production]||미션 전용||
+||||Pumptris 8Bit ver.||Yahpp||NX2 당시 미션 전용, NXA에서 정식곡으로 승격. 숏 컷 존재[* 피에스타부터는 NXA 채널의 곡으로 설정하고 있다.]||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||반갑습니다||Nice to Meet You||[[배치기]]||||
+||아주 오래된 연인들||Very Old Couples||[[015B]]||편곡 버전, 풀 송 존재||
+||전화받아||Get My Phone Call||[[미나]]||||
+||햇살 좋은 날||Shiny Day||죠앤||||
+||||A.U.Ready?||길건||풀 송 존재||
+||||[[VIP]]||[[바다]]||풀 송 존재||
+||[[wiki:"내 맘이야" 내맘이야]]||It's My Business||[[서태지와 아이들]]||서태지가 직접 게임사이즈 편집, 풀 송 존재[* NXA까지 존재했으나 PRO 2 혹은 피에스타 시리즈부터 영원한 사랑처럼 국내 라이센스 샘플링 문제로 삭제.]||
+||[[넌 내게 반했어]]||You Fall in me||[[노브레인]]||풀 송 존재||
+||[[소용돌이]]||A Maelstrom||[[피아]]||풀 송 존재||
+||신기한 노래||Astral Song||[[크라잉 넛]]||풀 송 존재||
+||좌절금지||No Despair||[[뜨거운 감자]]||당시 USB 전용곡, 풀 송 존재||
+||[[후회]]||Compunction||[[메이]]||||
+||||Beat # No. 4||헤드트립||풀 송 존재||
+||||Come Back Home||[[서태지와 아이들]]||서태지가 직접 게임사이즈 편집, 풀 송 존재||
+||||Feel The Soul||[[서태지]]||서태지가 직접 게임사이즈 편집, 풀 송 존재||
+||||[[Tell Me]]||[[원더걸스]]||당시 국내판 전용곡, 풀 송 존재||
+||||||||<:>'''해외 라이센스(World Music)'''||
+||||Chopstix||Sonic Dimension||Pro 이식 곡, 클래식 리메이크||
+||||Dance All Night||Oscillator X||Pro 이식 곡||
+||||Dance Vibrations||Elpis||Pro 이식 곡||
+||||Energizer||ZiGZaG||Pro 이식 곡||
+||||Groovin' Motion||Sonic Dimension||Pro 이식 곡||
+||[[정무문]]||Fist of Fury||나지상||중국판 수록, NXA에도 수록||
+||화인만세||Long Live the Chinese||왕리홍||중국판 수록, NXA에도 수록||
+||||Fire||막문위||중국판 수록||
+||야만유희||Wild Game||채의림||중국판 수록||
+||||One Last Chance||ENERGY||중국판 수록||
+||기기왜왜||Mechanical Doll ||나지상||중국판 수록||
+||탈도||Take It Off||두덕위||중국판 수록||
+
+=== [[wiki:"펌프 잇 업/NX ABSOLUTE" Pump It Up NX Absolute]](아시아/남미/오세아니아) ===
+||||||||<#5CD1E5> '''NX Absolute''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||[[Blaze Emotion]]||Yahpp||||
+||||[[Cannon X.1]]||Yahpp||클래식 리메이크. 당시 USB 전용곡||
+||||Chopsticks Challenge||Yahpp||클래식 리메이크, 풀 송 존재||
+||사람들은 몰랐다네||The People Didn't Know||[wiki:"반야" BanYa Production]||||
+||||DJ Otada||[wiki:"반야" BanYa Production]||클래식 리메이크||
+||||K.O.A. ~Alice in Wonderworld~||[wiki:"반야" BanYa Production]||클래식 리메이크, 숏 컷 존재||
+||||My Dreams||[wiki:"반야" BanYa Production]||||
+||||Toccata||[wiki:"반야" BanYa Production]||클래식 리메이크||
+||||[[Final Audition Episode 2-X]]||Yahpp||패치 추가곡. 최후의 파엡시리즈, 숏 컷 존재||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||라라라||LaLaLa||[[빅뱅]]||풀 송 존재||
+||||Adios||[[은지원]]||풀 송 존재||
+||살짝쿵||Slightly||[[45RPM]]||풀 송은 편곡버전 ||
+||||I am Your Girl||[[S.E.S]]||||
+||너만 볼래||Only You||나몰라 패밀리||||
+||[초콜릿]||Chocolate||바나나 걸||풀 송 존재||
+||||Do It!||House Rulz||패치 추가 곡. 뮤비가 BGA로 나옴||
+||||Dawn Of The Apocalypse||[바세린]||패치 추가 곡. 완전 영어라서 외국곡 같지만 가요다. 풀 송 존재||
+||환상속의 그대||In your Fantasy||[서태지와 아이들]||리믹스 버전. 서태지가 직접 게임사이즈 편집, BGA, 스텝 리메이크. 당시 미션용 곡.[* 피에스타 1.10 패치때 아케이드 곡으로 승격. 피에스타 EX까지 수록하다가 피에스타 2부터는 국내 라이센스 샘플링 문제로 삭제.]||
+||||||||<:>'''해외 라이센스(World Music)'''||
+||||Forward||DJ Missill||풀 송 존재||
+||||Uprock||Sam-I-Am||||
+||||Crazy||Gyfted||풀 송 존재||
+||||Pañuelito Rojo(붉은 손수건)||빅 메트라||풀 송 존재||
+||||Procedimientos Para Llegar A Un Comun Acuerdo(잘 가 내 사랑)||PXNDX||풀 송 존재||
+||||Digan Lo Que Digan(나완 상관없어)||Nina Pilots||풀 송 존재||
+||||Pump Breakers||Thaide & Lil V (Taiji)||||
+||||Change Myself||왕리홍||원곡, 풀 송 존재||
+||와||Come On||[[이정현]]||중국어 버전, 풀 송 존재||
+||||Bad Character(못된 성질)||[[장나라]]||||
+||||[[U]]||[[슈퍼주니어 M]]||중국어 버전, 풀 송 존재||
+||||Breakin'Love||[[스티브 유]]||||
+||||Trato De No Trabarme(잠깐이면 돼)||빅 메트라||패치 추가 곡. 풀 송 전용||
+
+=== [[wiki:"펌프 잇 업/Pro 2" Pump It Up Pro 2]](해외전용판)[* 프로 1과 마찬가지로 일부 구곡 프로 2는 프로 2만 존재했으나 인피니티에서 해외 라이센스 샘플링 문제로 삭제] ===
+||||||||<#2524FF> {{{#white '''Pro 2'''}}} ||
+||<width=300px> 곡명 ||<width=200px> 아티스트 ||<width=300px> 비고 ||
+||[[Allegro Con Fuoco]]||[[DM Ashura]]||피에스타 EX에 이식||
+||All Of The World||API|| ||
+||Back In Boogie Town||Beat Bender|| ||
+||Bang The Bass||Wez Devine|| ||
+||Be Alive (Raaban Inc. Mix)||Stian K||피에스타 2에 이식||
+||Boom Digi Da||Bambee|| ||
+||Breathing You In||Zircon Feat. Jillian Goldin|| ||
+||Chaotic WHITE||DM Ashura vs Enoch|| ||
+||Closer to Heaven||MePuma|| ||
+||Coalesce||On Slot|| ||
+||Concerto||Sanxion7|| ||
+||Cosmic Unconsciousness||When Machines Dream|| ||
+||Cowgirl||Bambee|| ||
+||Dawgs In Da House||CanBlaster (Miami Style)|| ||
+||Deadbeat Boyfriend||Lucky Princess||Disko Warp 레이블 이식 곡[* 피에스타 EX 1.50에 BASIC 모드 한정으로 이식되었지만 저작권 문제로 의해 1.51에서 삭제, 인피니티에서 Disko Warp 레이블의 곡 전부가 삭제된 원인이 되었다.]||
+||Disco Punks on Jolt||Blue Stahli|| ||
+||Don't Don't Go Away||Foxxie||Disko Warp 레이블 이식 곡||
+||Dream To Nightmare||Nightmare||피에스타 2에 이식||
+||Elder God Shrine||E-Racer|| ||
+||Electrock||Throwdown || ||
+||EternuS||Sanxion7|| ||
+||Frozen||Celldweller|| ||
+||Gargoyle||Sanxion7||피에스타 EX에 이식||
+||GO! (EK Mix)||DM Ashura|| ||
+||Hanky Panky||Jenny Rom|| ||
+||Hardkore Atomic||Diclonius Kid|| ||
+||Hardkore of the North||Diclonius Kid||피에스타 2에 이식||
+||Hell Flame||Diclonius Kid|| ||
+||Ika Uka||Jenny Rom|| ||
+||I'm Just a DJ||Ekowraith feat. Kyrn|| ||
+||In The Night||Scandalous|| ||
+||I Think I Like That Sound||Kid Whatever|| ||
+||Lolitabot||Lolitabot||Disko Warp 레이블 이식 곡||
+||Man vs Mountain||Throwdown|| ||
+||Maslo||Vospi|| ||
+||Memory||On Slot|| ||
+||Mind Your Matter||Bjorn Fogelberg|| ||
+||Mission Incredible||Bjorn Lynne|| ||
+||Necromancy||Zircon||피에스타 EX에 이식||
+||Oh Oh Oh Sexy Vampire||Fright Ranger||Disko Warp 레이블 이식 곡||
+||One Step Higher||MePuma|| ||
+||Online||Bambee|| ||
+||Operator||Miss Papaya|| ||
+||Photosynthesis||Zircon|| ||
+||[[pink fuzzy bunnies]]|| Wonderboy ||스텝매니아 이식 곡||
+||Poco Loco||Carlito|| ||
+||Power Trip||Nostra Cosa|| ||
+||Rainspark||Sanxion7||피에스타 2에 이식||
+||[[Rave Until The Night Is Over]]||DM Ashura feat. MC Jay and Veronica||피에스타 EX에 이식||
+||Right Back Up||SGX feat. Navi|| ||
+||Rippin' It Up||Future Funk Squad||피에스타 2에 이식||
+||Rockhill||Beltaine||피에스타 2에 이식||
+||Rock Robotic -OSX Mix-||Oscillator X|| ||
+||Smart Optics||Damian Turnbull|| ||
+||[wiki:"스멜 라이크 어 초콜릿" Smells Like a Chocolate]||Vospi||피에스타 EX에 이식||
+||Span||SGX|| ||
+||Star Command||Zircon||피에스타 2에 이식||
+||Step On It||The DNC|| ||
+||Supremacy||KaW|| ||
+||Sweet Senorita||Miss Papaya|| ||
+||Swing Baby Swing||The DNC|| ||
+||Switchback||Celldweller||피에스타 2에 이식||
+||Tell Me A Story (Compendium Mix)||SGX|| ||
+||Terminal||Sanxion7|| ||
+||The Game of Love||Jenny Rom|| ||
+||The Last Firstborn||Celldweller|| ||
+||The Neon Underground||Oscillator X|| ||
+||The Next Step||Falling Down|| ||
+||Tribe Attacker||Hi-G||피에스타 2에 이식||
+||UFO Catcher||Initial P|| ||
+||Unlikely (Stay With Me)||Celldweller|| ||
+||Wake Up||Kid Whatever|| ||
+||Wanting You||Ekowraith|| ||
+||Wham Bam Boogie||Bambee|| ||
+||[[What Happened]]||Throwdown||피에스타 EX에 이식||
+||While Tha Rekkid Spinz||DJ Zombie||Disko Warp 레이블 이식 곡||
+||X-RaVE||DM Ashura||피에스타 EX에 이식||
+||You Bring The Rain||Oscillator X || ||
+||||||<:>'''해금곡'''||
+||Boulafacet||Nightmare|| ||
+||Crowdpleaser (Drop the Mic Mix)||SGX|| ||
+||Dabbi Doo||Ni-Ni|| ||
+||Haven||SGX|| ||
+||King of the Beats||Throwdown|| ||
+||Playa D' Embossa (I Feel Love)||Paul Sumpter|| ||
+||[[Rave Until The Night Is Over]] (Cyber Trance Mix)||DM Ashura feat. MC Jay and Veronica|| ||
+||Shine (Breakz Mix)||Oscillator X|| ||
+||Swing the House||Elliot Simons|| ||
+||We Are Loud||Dynamedion|| ||
+||||||<:>'''Gauntlet 모드 전용곡'''||
+||Accelerator||Nitro|| ||
+||Beyond the Sky||Pawel Blaszczak|| ||
+||In The Groove||One Dollar|| ||
+||Z -The New Legend-||DM Ashura||풀 송 전용||
+
+=== [[wiki:"펌프 잇 업/FIESTA" Pump It Up 2010 Fiesta]](아시아/남미/오세아니아) ===
+||||||||<#CF3682> {{{#white '''2010 Fiesta'''}}} ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||||X-Tree||Yahpp||||
+||||Sorceress Elise||Yahpp||클래식 리메이크||
+||사랑가 2막||Betrayer Act.2||msgoon||원곡 후반부||
+||유 갓 투 노우||[[U Got 2 Know]]||[[MAX]]||||
+||[[wiki:"데스티네이션(펌프 잇 업)" 데스티네이션]]||[[wiki:"데스티네이션(펌프 잇 업)" Destination]]||[[SHK]]||숏 컷 존재||
+||[[wiki:"Vacuum" 진공]]||[[Vacuum]]||[[도인]]||크레이지 코어||
+||두 잇 레게 스타일||Do It -Reggae Style-||[wiki:"반야" BanYa Production]||||
+||제네시스||Xenesis||[wiki:"반야" BanYa Production]||클래식 리메이크||
+||아리랑||Arirang||[wiki:"반야" BanYa Production]||||
+||테크 -클럽 코펜하겐-||Tek -Club Copenhagen-||[wiki:"반야" BanYa Production]||||
+||안녕 윌리엄||Hello William||[wiki:"반야" BanYa Production]||클래식 리메이크||
+||터키 행진곡 미니멀 튠즈||Turkey March -Minimal Tunes-||[wiki:"반야" BanYa Production]||터키 행진곡의 리메이크||
+||겟 업 (앤 고)||Get Up (And Go)||[wiki:"반야" BanYa Production]||Get Up!의 리메이크||
+||[[wiki: "팬텀" 팬텀 인터메조]]||Phantom -Intermezzo-||[wiki:"반야" BanYa Production]||Phantom의 리메이크||
+||미션 파서블 블로우 백||Mission Possible -Blow Back-||[wiki:"반야" BanYa Production]||Mission Possible의 리메이크||
+||펌핑 점핑||Pumping Jumping||[wiki:"반야" BanYa Production]||Pump Jump의 리메이크.||
+||테프리스||Tepris||[[도인]]||1.10 신곡||
+||네이팜||Napalm||[[도인]]||1.10 신곡||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||||Good Life||[[드렁큰 타이거]]||||
+||||Big beat||[[나우]]||||
+||신나||Sin na(Exciting)||[[다이나믹 듀오]]||||
+||우연||By Chance||[[베이비복스]]||||
+||하늘위로||To the Sky||렉시||||
+||날개 잃은 천사||The Angel Who Lost Wings||[[룰라]]||||
+||순정||Innocent||[[코요태]]||아케이드는 2절, 리믹스에서는 1절이 수록돼 있다.||
+||노세 놀아보세||Enjoy! Enjoy!||무가당||||
+||||Twist King||[[터보]]||||
+||파이어||Fire||[[2NE1]]||풀 송 존재, 피에스타 2부터 BGA가 뮤직 비디오로 변경||
+||||Wanna||[[wiki:"카라(아이돌)" 카라]]||풀 송 존재, 피에스타의 타이틀곡이자 뮤비가 BGA인 곡||
+||||||||<:>'''해외 라이센스(World Music)'''||
+||자아도취||Narcisista Por Excelencia||PXNDX||풀 송 존재||
+||||No Rhyme No Reason||LTJ X-Perience||||
+||||80's pop||Energy Presents||||
+||16살||Dieciseis||Nina Pilots||1.10 신곡||
+
+=== [[wiki:"펌프 잇 업/FIESTA EX" Pump It Up 2011 Fiesta EX]](아시아/남미/오세아니아) ===
+||||||||<#CF36BB> {{{#white '''2011 Fiesta EX'''}}} ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(ORIGINAL TUNES)'''|| 
+||[[클리너]]||[[Cleaner]]||[[도인]]||숏 컷 존재|| 
+||인터퍼런스||[[Interference]]||[[도인]]||1.40에서 풀 송 추가|| 
+||리얼리티||[[Reality]]||[[SHK]] (Feat.Ruriling)||[[BMS]] 이식곡|| 
+||테이크 아웃||[[Take Out]]||[[SHK]]||숏 컷 존재|| 
+||[[버터플라이]]||Butterfly||[[MAX]]&Rorychesell([wiki:"sid sound" S.I.D-Sound])|| || 
+||오버 블로우||[[Overblow]]||[[MAX]]||숏 컷 존재|| 
+||위 갓 투 노우||[[We Got 2 Know]]||[[MAX]]||유 갓 투 노우의 후속작|| 
+||헝가리 무곡 V||Hungarian Dance V||[wiki:"반야" BanYa Production]||클래식 리메이크|| 
+||[[마왕]]||The Devil||[wiki:"반야" BanYa Production]||클래식 리메이크|| 
+||네이티브||Native||[[SHK]]||1.30 신곡|| 
+||트롯프리스||Trotpris||[[도인]]||숏 컷 전용|| 
+||야근||Night Duty||A.V.||미션 전용|| 
+||파반느||Pavane||V.A.||1.30 버전에서 정식 곡으로 승격. 피에스타 2에서 오리지널 BGA 추가|| 
+||잣||Pine Nut||[[도인]]||1.50 버전에서 정식 곡으로 승격|| 
+||[[ㅁㄴㅇㄹ]][* 이거 '''오타가 아니며''', 이게 곡제목이기 때문에 영어로 번역되었을때 ASDF로 번역한게 초월번역이 되어버렸다.]||[wiki:"ㅁㄴㅇㄹ" ASDF]||[[도인]]||1.50 버전에서 정식 곡으로 승격|| 
+||말씀||Says||[[도인]]||미션 전용|| 
+||[[조나단의 꿈]]||Jonathan's Dream||[[MAX]]&Seorryang([wiki:"sid sound" S.I.D-Sound])||1.50 신곡|| 
+||||||||||<:>'''국내 라이센스(K-Pop)'''||
+||매직||Magic||[[시크릿]]||아이돌 신곡 중에서 뮤비가 안나오는 유일한 곡|| 
+||핫 이슈||Hot Issue||[[4minute]]||1.30에서 풀 송 추가|| 
+||[[마법소녀]]||Magic Girl||[[오렌지 캬라멜]]||풀 송 존재|| 
+||링딩동||[[Ring Ding Dong]]||[[샤이니]]||'''해외판 한정 수록''', 1.30에서 풀 송 추가. 저작권 문제로 피에스타 2부터 삭제|| 
+||쇼크||Shock||[wiki:"비스트(아이돌)" 비스트]||풀 송 존재|| 
+||마지막 인사||Last Farewell||[wiki:"빅뱅(아이돌)" 빅뱅]||매직과 동일|| 
+||[[슈퍼맨]]||Superman||[[노라조]]|| || 
+||에너지||Energy||[[마이티 마우스]]||풀 송 존재|| 
+||어머니||Mother||[wiki:"원타임" 1TYM]|| || 
+||넘버3||NO.3||[[배치기]]||풀 송 존재|| 
+||남자답게||Like a Man||[[아웃사이더]]||풀 송 존재|| 
+||크래쉬 데이||Crash Day||[[크래쉬]]||Dawn Of The Apocalypse와 마찬가지로 완전 영어라서 외국곡 같지만 가요다. 풀 송 존재|| 
+||||||||<:>'''해외 라이센스(World Music)'''||
+||왓 해픈드||[[What Happened]]||Throwdown||Pro 2 이식곡|| 
+||가고일||Gargoyle||Sanxion7||Pro 2 이식곡|| 
+||알레그로 콘 푸오코||[[Allegro Con Fuoco]]||DM Ashura||Pro 2 이식곡|| 
+||엑스 레이브||X-Rave||[[DM Ashura]]||Pro 2 이식곡, 1.30 신곡[* 그전엔 숏 컷 전용으로만 존재.]|| 
+||[[스멜 라이크 어 초콜릿]]||Smells Like a Chololate||Vospi||Pro 2 이식곡, 엔딩곡, 1.30 버전에서 정식곡으로 승격|| 
+||네크로멘시||Necromancy||Zircon||Pro 2 이식곡, 1.20 신곡|| 
+||레이브 언틸 더 나이트 이스 오버||[[Rave Until The Night Is Over]]||DM Ashura feat. MC Jay and Veronica||Pro 2 이식곡||
+
+=== [[wiki:"펌프 잇 업/Infinity" Pump It Up Infinity]](해외전용판) ===
+||||||||<#3F0099> {{{#white '''Infinity'''}}} ||
+||<width=300px> 곡명 ||<width=200px> 아티스트 ||<width=300px> 비고 ||
+||||||||||||<:>'''확인된 수록곡'''||
+||Baroque Virus||Zircon||피에스타 2 동시 수록곡||
+||Blow||Future Funk Squad|| ||
+||Bubblegum Dancer (J-Mi & Midi-D Remix)||Hanna Stockzell|| ||
+||Creatures Ov Deception||RainbowDragonEyes|| ||
+||Dance (The Way It Moves)||The DNC|| ||
+||Devil's Spirit||Zircon|| ||
+||Electric||The DNC||피에스타 2 동시 수록곡||
+||Elise||[[DM Ashura]]||클래식 리메이크, 피에스타 2 동시 수록곡||
+||Euphorium||DM Ashura|| ||
+||[wiki:"엑스트라바간자" Extravaganza Reborn]||[[wiki:"반야" BanYa]] remixed by Wavelength|| ||
+||[[Fallen Angel]]||DM Ashura ft. Ariel|| ||
+||Fresh||Mr. Thoro|| ||
+||[[Hypnosis]] (Synthwulf Mix)||[[wiki:"반야" BanYa]] remixed by Synthwulf||피에스타 2 동시 수록곡||
+||Ignis Fatuus||[[wiki:"반야" BanYa]] remixed by DM Ashura||[wiki:"윌 오 더 위스프" Will o' The Wisp]의 리믹스 곡, 피에스타 2 동시 수록곡||
+||Invincible||Missill|| ||
+||Last Day Alive||Sanxion7|| ||
+||Love is a Danger Zone (Cranky Mix)||[[wiki:"반야" BanYa]] remixed by [[Cranky]]||피에스타 2 동시 수록곡||
+||Nervous||Vospi|| ||
+||Party 4U (Holy Nite Mix)||[[Cranky]]||[[BMS]] 이식 곡||
+||Passacaglia||Synthwulf||피에스타 2 동시 수록곡||
+||Pop The Track||J-Mi & Midi-D Ft. Hanna Stockzell||피에스타 2 동시 수록곡||
+||Shadows||Zircon feat. Jillian Aversa|| ||
+||[[wiki:"무혼" Solitary]] (Sanxion7 Mix)||[[wiki:"반야" BanYa]] remixed by Sanxion7|| ||
+||~~Space Space Shooter~~||~~Kick & Punch~~||수록취소곡[* Disko Warp 레이블의 곡으로 Amusement Expo 2012용 데모 버전에 수록돼있었지만 Deadbeat Boyfriend의 저작권 문제의 영향으로 USPF 2012용 테스트 버전에서 삭제되었다.]||
+||The Ark Sailing Over Truth||Ashley Scared The Sky|| ||
+||The Best It's Gonna Get||Celldweller|| ||
+||The Revolution||MAX&DOOM||클래식 리메이크||
+||TRUE||SGX feat. Sekhret Hush|| ||
+||Venetian Staccato||[[sta]]||[[Tone Sphere]]로부터의 이식 곡||
+||Concerto No. 22: The Fool||DJ Clonepa|| ||
+
+=== [[wiki:"펌프 잇 업/FIESTA 2" Pump It Up 2013 Fiesta 2]](아시아/남미/오세아니아) ===
+||||||||<#6B66FF> {{{#white '''2013 Fiesta 2'''}}} ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||엘리제||Elise||[[DM Ashura]]||Infinity 동시 수록곡, 클래식 리믹스|| 
+||이그니스 패터스||Ignis Fatuus||[[wiki:"반야" BanYa]] remixed by [[DM Ashura]]||Infinity 동시 수록곡, 숏 컷 존재|| 
+||러브 이즈 어 데인저 존 (Cranky 믹스)||Love is a Danger Zone (Cranky Mix)||[[wiki:"반야" BanYa]] remixed by [[Cranky]]||Infinity 동시 수록곡|| 
+||힙노시스 (Synthwulf 믹스)||[[Hypnosis]] (Synthwulf Mix)||[[wiki:"반야" BanYa]] remixed by Synthwulf||Infinity 동시 수록곡||
+||에프 에프 에프 (플류 파 패스터)||[[FFF]] (Flew Far Faster)||[wiki:"도인" Doin]||숏 컷 존재|| 
+||유니크||[[Unique]]||[[SHK]]||숏 컷 존재|| 
+||엑시던트||[[Accident]]||[[MAX]]|| || 
+||디||[[D]]||[[MAX]]||[[MAX]] 곡 중 최초의 클래식 리믹스|| 
+||유 갓 미 락킹||[[U Got Me Rocking]]||[MAX]||숏 컷 존재|| 
+||루시드 (PIU Edit)||[[Lucid]] (PIU Edit)||[[yak_won]]|| || 
+||로그인||Log-in||[[SHK]]||1.40 신곡||
+||[[윈드밀]]||Windmill||[[yak_won]]||1.40 신곡. 본가 시리즈의 아케이드 곡 중에서 가장 빠른 곡이다.||
+||팔로우 미||Follow Me||[[SHK]]||1.60 신곡.||
+||[[여래아]]||Yeo Rae A||[[S.I.D-Sound]]||1.60 신곡||
+||멘탈라이더||[[Mental Rider]]||SQUAR||미션 한정. 1.50에서 정식 곡으로 승격|| 
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||노바디||Nobody||[[원더걸스]]|| || 
+||배드 걸 굿 걸||Bad Girl Good Girl||[[miss A]]|| || 
+||스텝||[wiki:"STEP" Step]||[[wiki:"카라(아이돌)" 카라]]||풀 송 존재|| 
+||내가 제일 잘나가||I am The Best||[[2NE1]]||풀 송 존재|| 
+||캔 노바디||Can't Nobody||[[2NE1]]||1.60에서 풀 송 추가 || 
+||샹하이 로맨스||Shanghai Romance||[[오렌지 캬라멜]]||풀 송 존재|| 
+||판타스틱 베이비||Fantastic Baby||[[wiki:"빅뱅(아이돌)" 빅뱅]]||풀 송 존재|| 
+||~~라잇 나우~~||~~[[Right Now]]~~||~~[[싸이]]~~||강남스타일로 떠버려 해외판권이 유니버설 뮤직으로 넘어가는 바람에 수록이 취소된 곡. 빅뱅의 거짓말로 대체.|| 
+||거짓말||Lie||[[wiki:"빅뱅(아이돌)" 빅뱅]]||전술한 Right Now의 대체 수록곡|| 
+||하트브레이커||Heartbreaker||[[G.DRAGON]]||1.60에서 풀 송 추가||
+||핸즈 업 (이스트4A 믹스)||Hands Up (East4A Mix)||[[2PM]]||저작권 문제로 PRIME부터 삭제||
+||내꺼하자||Be Mine||[[인피니트]]|| ||
+||크레용||Crayon||[[G.DRAGON]]||1.10 신곡||
+||고등어||Mackerel||[[노라조]]|| || 
+||두 마리||Two Guys||[[배치기]]|| || 
+||||||||||<:>'''해외 라이센스(World Music)'''||
+||모노리스||Monolith||Affinity||Pro 이식 곡||
+||Y2Z||Y2Z||Affinity||Pro 이식 곡, 1.30 신곡||
+||락힐||Rockhill||Beltaine||Pro 2 이식 곡, 1.10에서 정식곡으로 승격||
+||스위치백||Switchback||Celldweller||Pro 2 이식 곡||
+||레이디버그||LadyBug||Coconut||Pro 이식 곡||
+||하드코어 오브 더 노스||Hardkore of the North||Diclonius Kid||Pro 2 이식 곡||
+||리핀 잇 업||Rippin' It Up||Future Funk Squad||Pro 2 이식 곡||
+||트라이브 어택커||Tribe Attacker||Hi-G||Pro 2 이식 곡[* 이 곡에서 본가 시리즈 최초의 4인 퍼포먼스가 나왔다.]||
+||버추얼 이모션||Virtual Emotion||Inspector K||Pro 이식 곡||
+||테이크 미 백||Take Me Back||KaW||Pro 이식 곡, 1.20 신곡||
+||리-레이브||RE-RAVE||KURi-ZiLL||Pro 이식 곡, 뮤직 트레인/미션 한정. 1.50에서 정식 곡으로 승격||
+||힐 앤 토||Heel and Toe||KURi-ZiLL||Pro 이식 곡||
+||드림 투 나이트메어||Dream to Nightmare||Nightmare||Pro 2 이식 곡, 뮤직 트레인/미션 한정. 1.30에서 정식 곡으로 승격||
+||레인스파크||Rainspark||Sanxion7||Pro 2 이식 곡||
+||유토피아||Utopia||Smiley||Pro 이식 곡||
+||슈샤||Xuxa||Smiley||Pro 이식 곡, 1.20 신곡||
+||비 얼라이브 (Raaban Inc. Mix)||Be Alive (Raaban Inc. Mix)||Stian K||Pro 2 이식 곡||
+||(VerTex^3)||[wiki:"버텍스" VVV]||ZiGZaG||Pro 이식 곡, 뮤직 트레인/미션 한정. 1.50에서 정식 곡으로 승격||
+||스타 커맨드||Star Command||Zircon||Pro 2 이식 곡||
+||팝 더 트랙||[[Pop The Track]]||J-Mi & Midi-D ft. Hanna Stockzell||Infinity 동시수록곡, 숏 컷 존재|| 
+||일렉트릭||Electric||The DNC||Infinity 동시수록곡||
+||파사칼리아||Passacaglia||Synthwulf||Infinity 동시수록곡, 숏 컷 존재||
+||바로크 바이러스||Baroque Virus||Zircon||Infinity 동시수록곡||
+||단자 쿠두로||Danza Kuduro||Don Omar Ft. Lucenzo||'''남미판 한정 수록'''||
+||라비오사||Rabiosa||[[wiki:"샤키라" Shakira]] feat. Pitbull||'''남미판 한정 수록'''||
+||로붐바||Lovumba||Daddy Yankee||'''남미판 한정 수록'''||
+||원 투 쓰리 고!||One Two Three Go!||Belanova||멕시코||
+||불행한 사람들은 울지 않는다||Los Malaventurados No Lloran||PXNDX||멕시코, 매직과는 달리 신곡 중에서 뮤비가 안나오는 유일한 곡||
+||식 아식||Sik Asik||Ayu Ting Ting||인도네시아||
+||온라인||Online||Saykoji||인도네시아||
+||담||Dam||Ben Chalatit||태국||
+||슈가 아이즈||Sugar Eyes||Sugar Eyes||태국||
+
+=== [[wiki:"펌프 잇 업/PRIME" Pump It Up 2015 Prime]](아시아/남미/오세아니아) ===
+||||||||<#87CEEB> '''2015 Prime''' ||
+||<width=200px> 곡명 ||<width=200px> 영문명 ||<width=150px> 아티스트 ||<width=250px> 비고 ||
+||||||||<:>'''오리지널 악곡(Original Tunes)'''||
+||[[wiki: "네메시스" 네미시스]]||[[wiki: "네메시스" Nemesis]]||[[M2U]]||||
+||라티노 바이러스||Latino Virus||[[Warak]]||클래식 리믹스||
+||[[wiki:"요그 소토스" 요그-소토스]]||Yog-Sothoth||[[wiki:"nato(작곡가)" nato]]||숏 컷 존재||
+||차이니즈 레스토랑||Chinese Restaurant||[[Memme]]||||
+||[[레퀴엠]]||[[wiki:"레퀴엠" Requiem]]||[[MAX]]||클래식 리믹스||
+||메테오라이즈||Meteorize||[[Paul Bazooka]]||||
+||헤스티아||Hestia||[[Gentle Stick]]||1.01 신곡||
+||리키지 볼티지||Leakage Voltage||[wiki:"도인" Doin]||||
+||[[wiki:"Super Fantasy" 슈퍼 판타지]]||[[Super Fantasy]]||[[SHK]]||[[SHK]] 곡 중 최초의 클래식 리믹스||
+||레드 스완||Red Swan||Yahpp||클래식 리믹스||
+||알레그로 피유 모쏘||Allegro PIU Mosso||[[DM Ashura]]||||
+||로봇배틀||Robot Battle||CYO||||
+||||||||<:>'''국내 라이센스(K-Pop)'''||
+||빠빠빠||Bar Bar Bar||[[wiki: "크레용팝" Crayon Pop]]||풀 송 존재||
+||다칠 준비가 돼 있어 ||On and On||[[VIXX]]||1.02 신곡||
+||엘비스||Elvis||[[AOA]]||||
+||아임쏘리||I'm Sorry||[[wiki: "씨엔블루" CNBlue]]||||
+||판도라||Pandora||[[wiki: "카라(아이돌)" KARA]]||||
+||있기 없기||Hate, Don't Hate!||[[wiki: "달샤벳" Dal Shabet]]||||
+||슈퍼매직||SuperMagic||[[wiki: "슈프림팀" Supreme Team]]||||
+||슈가프리||Sugar Free||[[wiki: "티아라(아이돌)" T-ara]]||1.01에서 풀 송 추가||
+||[헐]||HER||[[wiki: "블락비" Block B]]||||
+||노노노||NoNoNo||[[Apink]]||||
+||외톨이||Loner||[[wiki: "아웃사이더" Outsider]]||||
+||오리날다||Flying Duck||[[wiki: "체리필터" Cherry Filter]]||||
+||치이고 박히고 무능상사||Ineffective Boss Without Power||[[wiki: "노라조" Norazo]]||1.01 신곡||
+||원||One||[[wiki: "에픽하이" Epik High]]||||
+||||||||<:>'''해외 라이센스(World Music)'''||
+||락 더 하우스||Rock the House||MATDUKE||숏 컷 존재||
+||셀피쉬니스||Selfishness||[[S.I.D-Sound]]||1.03.0 신곡, 숏 컷 존재||
+||[[Cosmical Rhythm|코스미컬 리듬]]||[[Cosmical Rhythm]]||[[S.I.D-Sound]]||||
+||[[MATADOR|마타도르]]||[[MATADOR|Matador]]||[[Cranky]]||||
+||밀키 웨이 갤럭시||Milky Way Galaxy||3R2||1.03.0 신곡||
+||라그나로크||Ragnarok||Synthwulf||||
+||아클루오이아스 ||Achluoias ||D_AAN||1.02 신곡 ||
+||까랴위사따||Karyawisata||Vesuvia x REDSHIFT||||
+||림보||Limbo||Daddy Yankee||'''남미판 한정 수록'''||
+||멜로디아||Melodia||Lyloo Feat.Egas||'''유럽판 한정 수록'''||
+||큐 비바 라 비다||Que Viva La Vida||Wisin Feat.Michel Telo||'''남미판 한정 수록'''||
+
+== 기타 ==
+수록된 곡들의 숏 컷, 풀 송 버전과 리믹스는 [[wiki:"펌프 잇 업/숏컷·풀 송" 해당]] [[wiki:"펌프 잇 업/리믹스 수록 목록" 항목]] 참조. [[서태지]], [[서태지와 아이들]]의 곡은 반야팀이 아닌 서태지가 직접 게임 사이즈 편집 작업을 하였으며, 서태지의 모든 곡은 러쉬모드를 인정하지 않았다.

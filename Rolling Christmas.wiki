@@ -1,0 +1,31 @@
+ *[펌프 잇 업/수록곡 일람]으로 돌아가기
+[[목차]]
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/9VY03dMKcSw?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9VY03dMKcSw?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+~~로리 크리스마스!~~
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/The Perfect Collection" Pump It Up Perfect Collection]] ||
+|| 아티스트 |||| BanYa ||
+|| BPM |||| 148 ||
+|| 비주얼 |||| piah [http://piah.kr/ #] ||
+|| 채널 |||| Original Tunes / 1st ~ Perf ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 3 / 5 / 8[* Fiesta 新채보] / 8[* 교체 전 舊Crazy 채보] / 13 ||
+||<#009900> Double || 5 / 13 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+
+== 개요 ==
+댄싱 게임 [[펌프 잇 업]]의 ~~로리 찬양곡~~수록곡이자, All I Want For X-Mas와 함께 [wiki:"펌프 잇 업/The Perfect Collection" P.C] 버전에 수록된 BanYa 최초의 캐롤송. 원곡은 모르는 이가 거의 없을 '''징글벨'''과 '''기쁘다 구주 오셨네'''이며 전형적인 락 스타일의 리믹스로 구성된 곡이다.
+
+밝고 경쾌한 느낌의 편곡이라는 점과, 익숙한 캐롤송이라는 점, 초보자를 겨냥하여 제작된 스텝~~과 오덕을 겨냥한 로리 BGA~~과 같은 특징들 덕분에 당시 출시된 BanYa의 신곡 5곡 중에서도 [[베토벤 바이러스]]와 함께 일반인 & 매니아 양층 유저들에게 높은 인기를 점유하였다. 게다가 곡 퀄리티나 스텝 퀄리티나 10년이 훌쩍 넘어 등장한 FIESTA 시리즈의 것들과 비교해도 전혀 퀄리티가 떨어지지 않는 편이라 매니아들 사이에선 ~~로리~~명곡 클래스로 분류되고 있다.
+
+다만 [wiki:"펌프 잇 업/EXTRA" EXTRA] 버전을 비롯해 PREX2 버전까지는 삭제되어 있었으나, 많은 매니아들의 요청이 있었던 탓인지, PREMIERE3에서 부활. 제로에서는 Nightmare 채보까지 추가되었다.
+
+본작 출시 전, 펌프 잇 업 공식 홈페이지에서 음원이 선공개되었는데, 선공개된 음원과 본작에 수록된 음원이 미묘하게 다르다. 선공개된 음원은 가사부분으로 구분하였을 때 "종소리~ 울려라~ 종소리 울려~"부분에 드럼 비트가 없으나, 게임에 수록된 음원은 드럼 비트가 추가 되었다.
+
+여담으로 공식적인 수록버전은 Perfect Collection이지만, PC용 The Collection에 출시일에 맞춰서 크리스마스 이벤트로 All I Want For X-Mas와 같이 수록된 바가 있었다.
+
+또 다른 여담으로 [wiki:"펌프 잇 업/FIESTA" FIESTA]의 신 캐롤송인 X-Tree와 함께 크리스마스 이브나 당일에 쓸쓸한 나날을 보내는 솔로들이 크리스마스 기념으로 한 번씩 플레이한다는 풍문이 전해져내려온다(…). 물론 처절한 BGA를 담고 있는 X-Tree보다는 정신적 충격이 덜한 편이지만 후새드….~~[wiki:"All I Want for X-Mas" 한 곡]이 비는 것 같지만 신경쓰지말자.~~

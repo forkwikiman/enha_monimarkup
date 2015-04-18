@@ -1,0 +1,75 @@
+{{| [[서력기원]]에 따른 연도에 대해서는 [[1950년]] 문서를 참고하시오. |}}
+[[목차]]
+= 숫자 1950 =
+[[소인수분해]]로는 2×3×5^^2^^×13이다. 로마 숫자로는 MCML이라고 쓴다.
+= [[EZ2AC]]의 수록곡 1950 =
+|| 장르 |||||||| Emocore ||
+|| 곡명 |||||||| 1950 ||
+|| 작곡 |||||||| [[SpringHead]] ||
+|| 배경 |||||||| HFS+ ||
+|| 최초 수록버전 |||||||| [[EZ2DJ AE]] ||
+|| BPM |||||||| 85 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 4}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple 12}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple 13}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+== 개요 ==
+[[EZ2DJ : AZURE EXPRESSION]]의 수록곡으로 이전 시리즈에서 활약했던 [[SpringHead]]가 제공한 곡이다. 주로 여성 보컬의 트랜스 장르를 작곡했던 것과는 다르게 이번에는 남성 보컬의 락을 선보였다. 제목의 뜻은 말 그대로 1950년으로, 가사 내용도 분단된 [[한국]]의 현실을 노래하고 있다.
+
+[[NieN]]이 있는 [[DJMAX 시리즈]]와는 달리 이쪽에서는 신선한 장르의 곡으로, 사용자들 사이에서 좋은 평가를 듣고 있지만 대학가요제 같다는 평가도 없지는 않다.
+
+특이한 것은 패턴의 스크롤 속도인데 [[EZ2DJ]] 패턴 전체에서 손에 꼽힐 정도로 느리다.[* 순간적인 감속이 있는 패턴 제외.] 아래의 영상에서도 6.00배속으로 맞춰놓고 플레이하는 것을 볼 수 있다. 사실 7.50 정도 되어야 랭커들의 눈에 맞지만 6.00 다음이 바로 10.00이기 때문에 더 올리지 못하는 것이라고.
+
+사실 이 곡의 원래 BPM이 85라서 '''올바른''' 스크롤이다. 체감 BPM은 170인데 32분음표를 16분 음표처럼 사용하고 있기 때문이다. 반대의 케이스로 [[DJMAX Portable 3]]의 [[Leave me alone]]이 있다. 이쪽은 원BPM이 '''236'''인데 체감 BPM은 118. AEIC에서는 5키 슈퍼 하드 등의 일부 채보가 스크롤이 두배로 바뀌었다.
+
+이런 BPM 장난(?)은 플레이 시 배속을 올리면[* EZ2AC : EC의 경우 7배, 8배속 옵션도 들어왔다.] 일반 곡과 비슷한 플레이를 하게 되어 차이가 사라지지만 bpm이 절반으로 책정되어 롱노트 콤보가 거의 없게 되는 차이점이 있다.
+
+여담으로 [[SpringHead]]가 가장 흑역사로 꼽는 곡이다. 그 이유는 자신의 목소리가 울려퍼지는게 싫어서...[* http://blog.naver.com/sbm1122?Redirect=Log&logNo=140197925948]
+== 패턴 ==
+=== 5 Street mix ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/-w4d9f_7MTk?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/-w4d9f_7MTk?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+EZ - NM - HD - SHD MIX
+
+Lv.12이며 트릴과 연타가 주를 이루고 있어 개인차가 있지만, 판정이 좋고 체력회복에 용이한 구간이 꽤 있어 12 중에서는 비교적 수월하다.
+
+EZ2DJ AEIC에서는 앨범자켓이 어둡고 단순하게 바뀌었으며 BGA가 추가되었다.
+=== 7 Street mix ===
+=== 10 Club mix ===
+=== 14 Space mix ===
+=== EZ2Catch ===
+여타모드와 공통적으로 스크롤 속도가 워낙 느리다보니 기본적으로 다른 곡들보다 스크롤 속도를 2배속 해줘야 수월하게 할 수 있다. 물론 '''0.5배속'''을 하면 엄청나게 느려지기 때문에 가독성이 매우 안습하게 된다. ~~0.5배속 슈랜을 걸어도 판정이 판정인지라 긁으어도 된다~~
+
+{{{#!HTML
+<embed src='http://flvs.daum.net/flvPlayer.swf?vid=v8522mwIjIzId0iqTITd8WT' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+NM MIX
+
+Lv.7 총 노트수는 525개.
+~~5키 스트릿에서 본 패턴들이 어째 많아보인다???~~
+
+여타 7렙 곡들과 비교하면 평균적인 부분면에서는 쉬운 편이다. 다만 1+3 과 같은 1칸간격 쌍과일을 처리하기 위해서는 빈 공간을 중심으로 하여 잡아 내는것이 중요하다. 이를 수월하게 할 수 있다면 체감난이도가 6정도로 느껴 질수도 있다. 극후반의 2->12 로 넘어가는 16박 간격만 주의하면 ALL KOOL을 노려볼만하다.
+
+{{{#!HTML
+<embed src='http://flvs.daum.net/flvPlayer.swf?vid=v6762uzuuWgW8oriCICIgzO' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+HD MIX
+
+Lv.12. 총 노트수는 1039개.
+
+과일배치랑 달리 판정이 너그로운 편이라서 40초부터 나오는 드럼파트 폭타를 '''8박자'''[* 원래 베이스는 4박, 나머지 요소들은 16박별로 나오기 때문에 일반판정상에서는 15는 기본으로 쌈싸먹는 패턴이다. 다만 판정이 워낙 자비롭기 때문에 15가 아닌 12에 측정이 되어졌다. ~~이 패턴이 개떡비트나 투마럽 판정이었다면 4대천왕 버금가는 난이도가 되었을 것이다.~~]로 긁어도 다 받아진다고 한다. 그렇다고 판정만 믿고 대충 긁다보면 U NEED MORE PRACTICE를 볼 수 있다(...) NM과 달리 중심잡기 보다는 과일을 긁어서 받는것이 오히려 클리어 하는데 수월하다고 볼 수 있다. 마지막 5개,2개 부분은 역시 판정이 너그로운 편이라 8박으로 긁어도 무난하다. 물론 너무 늦게 긁었다간 놓친다.
+=== Turntable ===
+턴테이블 모드에서는 레벨 10으로 등장. 초반 32비트 + 135 쾅쾅, 초중반 32비트 3연타, 최후반 32비트 1+5번 연타 패턴을 주의한다면, 10렙 중에서는 올콤이 수월한 곡. BPM이 주옥같이(..) 느리기 때문에, 탑랭커들은 '''ALL KOOL'''을 노려보는 것도 바람직하다. AEIC에선 상황이 달라질지도 모르지만.[* 턴테이블 모드의 판정은 BE에 들어서부터 갑자기 완화되었다. 판정수치 1증가 수준까지는 아니지만, 0.5 정도라고 해도 될듯? 그래서 탑랭커들은 턴테이블 모드에서 올케쿨을 노리기도 한다.] 
+
+그런데, [[EZ2DJ AEIC]]에서 8레벨로 격하되는 굴욕을 당한다(..)! 
+
+= 가사 =
+attachment:/AxSjd92CQAAm6ci.jpg

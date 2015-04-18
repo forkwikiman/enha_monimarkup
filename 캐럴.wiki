@@ -1,0 +1,51 @@
+ * [[음악 관련 정보]]
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/PD9lmZv2Syo?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PD9lmZv2Syo?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+~~[[wiki:"러시아식 유머" 러시아에서는 캐럴이 사람을 부릅니다]]~~
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/rM4GxCyJ3jM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rM4GxCyJ3jM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/NIrJCU9Wnls" frameborder="0" allowfullscreen></iframe>
+}}}
+본격 부랄(...)로 연주하는 캐럴, 중간에 어이! 소리가 일품
+Carol.
+
+[[목차]]
+== 개요 ==
+'''[[캐롤]]'''이라고도 한다. 현대의 축제음악을 의미하며 흔히 [[크리스마스]]에 ([[기독교]]의) [[신]]을 찬양하기 위해 야외에서 부르는 [[노래]]가 많지만 원래 비단 [[종교]]에 한정되지 않고, 야외 축제 등에서 기쁨을 표현하기 위해 부르는 [[음악]]의 총칭이었다. 어원은 프랑스어 carole 로 중세시절 빙글빙글 도는 춤에 어울리는 노래를 말 했다고 한다. 1150년대 부터 1350년대까지 크게 유행하였으며 이후 기적극이나 성사극에 쓰이기 시작했으며 현대의 종교적 색을 띄는 크리스마스 캐럴은 1534년 영국에서 최초의 캐럴집이 발간된 이후, 여러 나라에서 크리스마스 전용 캐럴이 등장하면서 원래 캐럴의 의미가 축소, 와전되었다고 볼 수 있다.
+
+현재는 그저 크리스마스 전용 BGM 정도로 인식되는 듯. 사실 본래의 뜻을 생각해 보면, '루돌프 사슴코'나 '산타 할아버지 우리 마을에 오시네' 같은 게 캐럴로 인식되는 건 상당히 우스운 일이다.
+
+그러나 이런 곡들 중 일부는 성탄 시즌이 아닌 때에 들어도 참 들을만 하다.
+
+혹자는 [[크리스마스 트리]]와 함께 12월 한정 생산·소비품으로 칭하기도 한다. 유명하든 유명하지 않든, 12월이 되면 국내의 여러 가수들이 우후죽순으로 캐럴음반을 내놓는 걸 보면 그런 것 같기도 하다(그리고 한 번 샀음에도 불구하고 내년이 되면 부르는 사람만 바뀌었을 뿐 비슷한 구성의 CD를 또 산다).
+
+가수뿐만 아니라 많은 수의 개그맨들이 개그 음반을 내기도 한다. 물론 대부분 평은 좋지 못하지만... 개그 캐럴의 선구자였던 [[심형래]] 정도 외에는 성공한 예를 찾아보기 힘들다. --흰 눈 사이로~ 썰매를 타고~ 달릴까, 말까, 달릴까, 말까--
+
+외국에서는 [[스타크래프트]],[[사우스파크]] 등 에서 나온 성우들이 직접 케럴을 부른적도 있다.
+
+== 대표적인 캐럴 ==
+=== 전통 캐럴[* [[찬송가]]들도 여럿 포함되어 있다.] ===
+ * Angels We Have Heard on High
+ * Silent Night, Holy Night([[고요한 밤 거룩한 밤]])
+ * [[The First Noel]](저 들 밖에 한밤중에)
+ * [[Hark! The Herald Angels Sing]](천사 찬송하기를)[* 원제를 직역하자면, '들으라! 전령 천사들이 노래하네' 정도가 된다.]
+ * Jingle Bells([[징글벨]])
+ * O Holy Night(경사롭다)[* 원래 찬송가가 아니었는데 편입된 케이스. 가톨릭에서는 꽤 일찍 성가로 편입해서 [[http://info.catholic.or.kr/sungga/gospelChart.asp?ctxtIndex=110 가톨릭 성가 110번]]으로 수록되어 있다. 개신교의 경우  새찬송가에 뒤늦게 수록되었다.]
+ * Santa Claus is Coming to Town[* 일명 "[[울면]] 안돼"로 잘 알려져 있다(...).]
+ * [[The Twelve Days of Christmas]]
+ * Adeste Fideles
+ * Carol of the bells
+
+=== 현대 캐럴[* 팝 가수들이 크리스마스 특수를 노리고(...) 내놓은 곡들.] ===
+ * [[화이트 크리스마스|White Christmas]] 
+ * [[All I Want For Christmas Is You]]
+ * [[Last Christmas]]
+ * Feliz Navidad [* 스페인어로 메리 크리스마스를 의미한다. [[푸에르토리코]] 출신 맹인가수 호세 펠리치아노가 1970년에 처음 불렀고, 이후 영국의 [[디스코]] 그룹 Boney M이 부르면서 유명해졌다.]
+ * [[Fairytale of New York]]
+[[각주]]

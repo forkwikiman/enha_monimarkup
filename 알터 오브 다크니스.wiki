@@ -1,0 +1,29 @@
+[[include(틀:워크래프트 3/언데드 스콜지)]]
+
+ * 상위 항목: [[워크래프트 3/종족, 유닛, 건물]]
+
+http://classic.battle.net/war3/images/undead/buildings/altarofdarkness.gif
+
+건설비용 : 금 180 나무 50
+건설시간 : 60초
+체력 : 900
+아머 : 건물(5)
+기능 : 영웅 생산 및 영웅 부활
+
+[[목차]]
+== 설명 ==
+Altar of Darkness. 타종족의 알터와 똑같이 영웅 생산 및 부활을 담당하는 건물.
+
+의외로 [[언데드 스콜지|언데드]] 영웅진이 전부 스탯이랑 스킬들은 쓸만한데 [[데스 나이트(워크래프트 3)|데스 나이트]], [[리치(워크래프트 3)|리치]]가 워낙 강력해서 보기 힘들다. 그래서 언데드 유저들의 영웅 구성은 언제나 심심하다.
+
+언데드는 다른 종족이 거의 게임 시작과 동시에 알타를 먼저 짓는 빌드를 쓰는 것과는 다르게, 알타를 다소 늦게 짓는 경우를 많이 볼 수 있는데, 이는 언데드의 금을 캐는 [[애콜라이트#s-3|애컬]]과 나무를 캐는 [[구울#s-2.3.1|구울]]이라는 자원 채집 체계 때문이다.
+
+== 생산 가능한 영웅 ==
+http://classic.battle.net/war3/images/undead/units/icons/deathknight.gif
+ * [[데스 나이트(워크래프트 3)|데스 나이트]]
+http://classic.battle.net/war3/images/undead/units/icons/dreadlord.gif
+ * [[드레드로드]]
+http://classic.battle.net/war3/images/undead/units/icons/lich.gif
+ * [[리치(워크래프트 3)|리치]]
+http://classic.battle.net/war3/images/undead/units/icons/cryptlord.gif
+ * [[크립트 로드]]

@@ -1,0 +1,33 @@
+[[include(틀:사건사고)]]
+ * [[사건 사고 관련 정보]], [[항공 사건사고]]
+
+|| attachment:Saudia_763.jpg?width=300 || attachment:Kazakhstan_1907.jpg?width=300 ||
+|| 사고 일어나기 8년전에 찍힌 사진 || 사고 일어나기 2년 1달전에 찍힌 사진 ||
+|||| attachment:Charkhi_Dadri_Collision.jpg?width=600 ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='480' height='360' id='movie' align='middle'><param name='quality' value='high' /><param name='movie' value='http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=werk95&prgid=38575619&countryChk=ko&skin=1&autoPlay=false&share=on' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='wmode' value='transparent' /><embed src='http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=werk95&prgid=38575619&countryChk=ko&skin=1&autoPlay=false&share=on' type='application/x-shockwave-flash' wmode='transparent' allowScriptAccess='always' allowFullScreen='true' pluginspage='http://www.macromedia.com/go/getflashplayer' width='480' height='360' /></embed></object>}}}
+
+[[목차]]
+
+== 사건의 설명 ==
+[1996년] [11월 12일] [[인도]] [뉴델리] 상공에서 [보잉] [747]기와 [IL-76]기가 공중 충돌하여 총 349명이 사망한 사건. 공중충돌로 인한 항공사고 중에서 가장 많은 사망자가 발생한 사건이며 전체 항공사고로는 '''세 번째로 많은 사망자'''가 발생했다. [[항공 사고 수사대]]에도 소개되었다.
+
+'''차르키다드리 상공 공중 충돌 사고'''라고도 한다.
+
+== 사건의 개요 ==
+[1996년] [11월 12일] 오후 6시. 289명의 승객이 탑승하고 [[델리]]에서 [사우디아라비아] 동부의 담맘으로 가는 [[wiki:"사우디아 항공" 사우디아라비아 항공]]의 SV763편([[보잉]] [[747]]-100)이 델리 [인디라 간디 국제공항]을 이륙하여, 관제탑으로 부터 고도 140FL까지 상승을 지시받았다. 고도를 달성하자 관제탑은 타 항공기 관제를 위해 고도 유지를 명령하였다.
+
+한편 60명이 탑승한 [[카자흐스탄 항공]] 소속 [[IL-76]] 여객기(군용을 민간용 수송기로 개량)는 150FL 까지 하강하고 착륙을 위해 관제탑과 교신하였다. 관제탑은 고도 유지를 지시하고, 사우디아라비아 항공 747기가 근처에 있음을 안내했다. 
+
+근처에는 [[미국]] 공군 소속 [[C-141]] 수송기 역시 비행 중이었다. 각 항공기들이 관제탑과 교신하던 도중, 뉴델리에서 60여 km 떨어진 샤카 다드리 상공에서 사우디아라비아 항공 여객기의 측면을 카자흐스탄 항공 여객기가 스쳐 지나가며 공중에서 대 폭발이 발생하였다. 관제탑은 두 항공기가 교신하지 않고 레이더에서 사라지자 교신을 시도했고, 공중 충돌로 인한 폭발과 추락을 목격한 미국 공군의 C-141 수송기는 이를 관제탑으로 보고했다.
+
+== 사고의 원인 ==
+원래 지시대로 따랐다면 두 항공기는 충돌할 가능성은 전혀 없었다. 하지만 카자흐스탄 항공 소속 IL-76기가 지시된 고도를 유지하지 않고 하강하고 있었다는 것을 밝혀냈다. 항공사는 블랙박스의 기록을 근거로 난기류 때문이라고 주장했으나, [블랙박스]의 노후화에 의한 오류라는 것이 밝혀졌다. 난기류로 인한 급강하가 아닌 완만한 하강은 조종사들이 기체를 하강하고 있었다는 것을 의미했고, 결국 카자흐스탄 항공의 문제 위주로 조사가 진행됐다.
+
+결국 IL-76 기체 조종석 배치 문제와 조종사들의 위계질서가 문제로 지적되었다. IL-76기의 통신 기사는 고도 확인을 할 수 없었기에, 고도를 알기 위해서는 조종사들이 알려주거나 멀리서 칵핏을 보고 확인해야 했다. 그런데, 사고 당시 통신 기사가 고도를 착각하고 300m나 낮게 확인하고 보고하였다. 게다가 통신사가 150 FL을 유지하고, 140 FL에 보잉 747기가 비행중이라고 보고했는데, 부기장은 이를 140 FL로 비행하라는 지시로 착각한 것. 후에 통신 기사가 '150 FL을 유지해야 합니다.' 라고 경고했으나 경고했을 때에는 이미 충돌 선상에서 벗어날 수 없었다. 또한 인디라 간디 국제공항의 시설도 원인으로 지적됐는데, 당시 인디라 간디 국제공항의 레이더는 원시적인 방식으로 단순히 항공기의 위치만 포착할 수 있었으며, 항공기에서 발신하는 트랜스폰더 신호를 받아들일 수 없었기 때문에 관제사는 조종사가 지시사항을 제대로 이행하는지 확인할 길이 없었다.
+
+== 사고의 결과 ==
+이러한 공중 충돌 사건 이후 ACAS 및 [[TCAS]](공중충돌 경고장치)의 탑재가 의무화되었으며, [인도] 정부는 사고의 주된 원인 중 하나로 지적되었던 인디라 간디 국제공항의 시설을 보강하였다.
+
+[추가바람]

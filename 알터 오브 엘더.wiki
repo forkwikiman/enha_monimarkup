@@ -1,0 +1,26 @@
+[[include(틀:워크래프트 3/나이트 엘프 센티널)]]
+
+ * 상위 항목: [[워크래프트 3/종족, 유닛, 건물]]
+
+http://classic.battle.net/war3/images/nightelf/buildings/altarofelders.gif
+건설비용 : 금 180 나무 50
+건설시간 : 60초
+체력 : 900
+아머 : 건물(5)
+기능 : 영웅 생산 및 영웅 부활
+
+
+[[목차]]
+== 설명 ==
+--다른 종족과는 다르게 이 건물에서는 유닛이 나온다. 이 유닛의 정체는 바로 [[키퍼 오브 그로브|이 녀석]].--
+그래도 [[데몬 헌터(워크래프트)|데몬 헌터]]와 [[워든]]이라는 영웅이 버티고 있으니 나엘 진영 영웅들도 그리 똥망은 아닌듯 어차피 확장판 와서 [[선술집]]이 생겨서 중립 영웅이 있기 때문에 상관없다. 그래서인지 중립 영웅을 가장 많이 활용하는 종족이다.
+
+== 생산 가능한 영웅 ==
+http://classic.battle.net/war3/images/nightelf/units/icons/demonhunter.gif
+ * [[데몬 헌터(워크래프트)|데몬 헌터]]
+http://classic.battle.net/war3/images/nightelf/units/icons/keepergrove.gif
+ * [[키퍼 오브 그로브]]
+http://classic.battle.net/war3/images/nightelf/units/icons/priestess.gif
+ * [[프리스티스 오브 더 문]]
+http://classic.battle.net/war3/images/nightelf/units/icons/warden.gif
+ * [[워든#s-3.1|워든]]

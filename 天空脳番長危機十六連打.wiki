@@ -1,0 +1,34 @@
+ * 이 항목은 장르명인 RAGE AGAINST EMPRESS로도 들어올 수 있습니다.
+[[비트매니아 IIDX 16 EMPRESS]]의 수록곡.
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/p1bhC3SuF2c" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/1tyqdBR7Ll4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 장르명 |||||| RAGE AGAINST EMPRESS[[BR]]레이지 어게인스트 엠프레스 |||| || [[BPM]] |||| 150 ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 RAGE AGAINST EMPRESS}}}''' ||
+|| |||| {{{#green 비기너}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#green 難}}} || {{{#green 298}}} || {{{#blue 5}}} || {{{#blue 525}}} || {{{#orange 10}}} || {{{#orange 1115}}} || {{{#red 11}}} || {{{#red 1323}}} ||
+|| [[더블 플레이]] || {{{#green -}}} || {{{#green -}}} || {{{#blue 5}}} || {{{#blue 525}}} || {{{#orange 10}}} || {{{#orange 1087}}} || {{{#red 11}}} || {{{#red 1309}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 16 EMPRESS ~
+ * 가정용판 수록 : 16 EMPRESS + PREMIUM BEST (EMPRESS SIDE)
+ * [단위인정] 수록
+  * SPH : 8단 (17 SIRIUS)
+  * SPA : 9단 (AC, CS EMPRESS)
+작곡가는 [wiki:"dj TAKA" D.J.SETUP]. 곡 명칭은 "천공뇌번장위기십육연타"라 읽으며, 명칭의 유래는 "[wiki:"후지모리 소타" Sota Fujimori] 위기 30연발!"이라는 영상에서 따왔고, 이 외에도 곡 명칭에는 [언어유희]가 다분하다고 한다. 천공뇌(天空脳)를 일본어로 읽으면 텐쿠노 → [테크노]와 발음이 비슷하다고 하는 등등. 그래서인지 일본에서의 별명도 テクノ番長이다. 해석하자면 테크노 번장(대장). 番長이란 우리나라로 치면 [[일진]] 우두머리를 말하는 것이다.
+
+RAGE AGAINST EMPRESS라는 특이한 장르명을 달고 있으며, 모니터 아래의 전광판에도 곡 제목 대신 이렇게 표기되어서 당해 작품에 대한 작곡가의 시선을 반영한 것이 아니냐는 추측이 있었으나 작곡가는 '억측'이라는 표현으로 부인하였다. 장르명은 동 작곡가의 [[rage against usual]]에서 유래한 듯하다.
+
+[[spiral galaxy]]이후로 다섯 작품만에 제공한 D.J.SETUP 테크노 넘버였다.[* 그리고 동시에 2014년 기준으로 마지막으로 제공한 D.J.SETUP 명의의 테크노 악곡이다.] 하지만 그 이전작들과는 꽤나 차이나는 컨셉(유일한 한자 곡 제목, 튀는 장르명[* 다른 D.J.SETUP 명의 악곡들은 TECHNO / PSYCHEDELIC TECHNO 장르가 부여되어 있다.], 전용 BGA 미할당[* CS DJ TROOPERS로 역이식된 GUILTY는 제외])과 무기질적인 곡조로 D.J.SETUP 곡들 중 가장 이질적인 곡이 되었다. 다만 [[L.E.D.]]의 첫 앨범 [[電人 K]]에 수록된 [[GENOM SCREAMS]]의 리믹스와 매우 비슷한 분위기이다.
+
+곡 명칭에 16연타가 들어가 있지만 정작 채보엔 연타가 없다는 게 함정(...). 싱글 하이퍼나 어나더는 주로 난타와 트릴 위주로 구성되어 있다. 간단히 요약하자면 [[QUANTUM TELEPORTATION]]과 많이 비슷하다.
+
+이 후 [[SLAKE]]가 "天空脳番長危機十六連打 - '''十六連打無版'''"으로 리믹스하였고, 이 리믹스 버전은 I'm In Love Again -DJ YOSHITAKA REMIX-을 대신해서 [milestone] - Re-Edition -에 수록되었다. 리믹스의 전반적인 분위기는 [SEQUENCE CAT]과 비슷한 느낌.
+
+[[BGA]]는 [Scripted Connection⇒], [[Miracle 5ympho X]] 등에서 쓰인 [[범용 BGA]]를 채용하였다. 전술한 대로 IIDX에 먼저 등장한 D.J.SETUP 명의 악곡 중 유일한 사례.
+
+[[각주]]

@@ -1,0 +1,128 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ Platinum]] 관련 정보''' ||
+|| [[EZ2DJ Platinum/수록곡|수록곡]] || [[EZ2DJ Platinum/삭제곡|삭제곡]] || [[EZ2DJ Platinum/라디오채널|라디오채널]] || [[EZ2DJ Platinum/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ Platinum]]의 히든커맨드 목록.
+
+ * 이 항목은 [[EZ2DJ PT/히든커맨드]], [[EZ2DJ 5th/히든커맨드]]로도 들어올 수 있다.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://web.archive.org/web/20050126074209/http://bb100.nalove.org/ez2dj/5th/hidden.html]
+  * [https://docs.google.com/spreadsheet/ccc?key=0AguAt1s3MJirdDlIeWlLY0hXcnJGLXB5UU5NR2xjVXc#gid=1]
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=f_cat&no=581]
+  * [http://cafe337.daum.net/_c21_/bbs_search_read?grpid=PUGA&fldid=2iaG&contentval=000LRzzzzzzzzzzzzzzzzzzzzzzzzz&nenc=&fenc=&q=&nil_profile=cafetop&nil_menu=sch_updw]
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=f_cat&no=132]
+
+[[목차]]
+== 범례 ==
+ * 버튼: 1-2-3-4-5-6-7-8-9-0
+ * 이펙터: E1-E2-E3-E4
+ * 페달: P1-P2
+
+== 히든 커맨드 ==
+ * 올송
+ 모드 선택 화면에서 각 모드에 커서를 맞추고 스타트 버튼을 누른 채로 입력한다. 숨겨진 하드믹스들도 올송을 걸면 전부 다 나온다.
+  * Ruby Mix: E1-P1-E4-P2
+  * 5Street Mix: 3-9-5-E1-E4-P1-E1-E3-6
+  * 7Street Mix: E3-E2-E1-6-6-P1-P1-10-P1
+  * Space Mix: E2-E3-E2-P2-P1-E1-3-7-6
+
+ * 리버스 모드
+ 기어 스킨이 상하로 뒤집힌다.
+ 모드 선택 화면에서 스타트 버튼을 누른 채로 E1-E4-P1-P2-E1-E4
+ 
+ * 스캔 모드
+ 판정선이 상하로 계속 움직인다.
+ 모드 선택 화면에서 스타트 버튼을 누른 채로 E4-E1-P2-P1-E4-E1
+
+ * 슬라이드 모드
+ 기어 스킨이 좌우로 계속 움직인다.
+ 모드 선택 화면에서 스타트 버튼을 누른 채로 P2-P1-E2-E1-P2-P1
+
+ * EZ2Catch
+ 타이틀 화면에서 1P 페달을 밟은 채 1P 턴테이블을 시계 방향으로 3초간 돌려준다. 한 번 더 입력하면 일반 모드로 돌아갈 수 있다.
+
+ * Turntable
+ 타이틀 화면에서 1P, 2P 페달을 모두 밟은 채로 2P 턴테이블을 반시계 방향으로 3초간 돌려준다. 한 번 더 입력하면 일반 모드로 돌아갈 수 있다.
+
+== 히든 곡/채널 ==
+ * 5Street Mix 하드믹스 해금
+||<tablealign='center'> 곡명 || 플레이 레벨 || 필요 스테이지 조건 || 출현 스테이지 || 콤보 길이 조건 || 안티 굿 ||
+|| [[Hypnotize]] || 9 || 1 || 2 || 200 이상 || 필요 없음 ||
+|| [[Quake in Kyoto]] || 10 || 2 || 3 || 400 이상 || 필요 없음 ||
+|| [[R.F.C.]] || 11 || 2 || 3 || 600 이상 || 필요 없음 ||
+|| [[Aquaris]] (Remix) || 10 || 1 || 2 || 128 이상 || 필요함  || 
+|| [[Zeroize]] || 13 || 2 || 3 || 256 이상 || 필요함 ||
+|| [[Panic Strike]] || 13 || 2 || 3 || 384 이상 || 필요함 ||
+
+올송을 걸면 전부 나오기는 하지만, 랭킹을 새길 수가 없기 때문에 이름을 새기려면 해금을 해서 플레이해야 한다.[* 스테이지 플레이 후 바로 곡별 스코어를 등록할 수 있게 된 것은 [EZ2DJ 6th] 이후부터 가능해졌다. 이전까지는 토탈 스코어랭킹의 네임 엔트리에서 일괄적으로 등록되는 방식. 올송시에 네임 엔트리를 막은건 스코어 인플레이션을 방지하고 다양한 스코어 어택 코스를 짜도록 유도하기 위함이었을 가능성이 크지만, 이러한 시스템에 약간의 오류가 있었다. 올송으로 플레이하고 네임 엔트리가 스킵되어도 곡별 스코어가 곡별랭킹에 'EZDJ'로 기록되는 것이 그것.]
+
+ * 5Radio Mix 히든 채널
+ 채널 선택 화면에서 스타트 버튼을 누른 채로 입력한다.
+   * Remix, Hard Random
+   P1-P2-E1-E4-P1-P2
+   * Platinum, 12+
+   E2-9-E2-2-P1-P1-P1-E1-1
+
+ * 7Radio Mix 히든 채널
+ 채널 선택 화면에서 스타트 버튼을 누른 채로 입력한다.
+   * Forte Escape, Kkashi
+   P2-P1-P2-P2-E4-E1
+   * Ache, Minan
+   P2-P2-E1-5-P1-P2-8-P2-P1
+
+ * Space Mix 3스테이지 곡 공식
+ (1스테이지 곡 번호+2스테이지 곡 번호)/3의 나머지가 0이면 [[Zeroize]], 1이면 [[Panic Strike]], 2면 ~~위어드 웨이브 에이치 디~~[[Weird Wave]] HD가 나온다. 물론 2스테이지까지 콤보 게이지를 다 채워야 나온다.
+
+|| 1 || [[느낌]] || [[Spotlight]] ||
+|| 2 || [[I've Fallen]] || [[Ready to Yah]] ||
+|| 3 || [[Anemia]] || [[Cellavue]] ||
+|| 4 || [[Say That U]] || [[The Rhythm]] ||
+|| 5 || [[The Future]] || [[JMJ]] (Remix) ||
+|| 6 || [[Envy Mask]] || [[Showdown]] ||
+|| 7 || [[Stay|Stay (Radio Edit)]] || [[I've got this feeling]] ||
+|| 8 || [[We Luv Music]] || [[Damnation]] ||
+|| 9 || [[Any way you want it]] || [[Riff Guy]] ||
+|| 10 || [[Sparrow]] || [[Substance]] ||
+|| 11 || [[Night Madness]] || [[Smash]] ||
+|| 12 || [[Anytime]] || [[Q Factor]] ||
+|| 13 || [[Unknown H2]] || [[DIEOXIN]] ||
+|| 14 || [[Black Market]] || [[Weird Wave]] ||
+|| 15 || [[Memories(EZ2DJ)|Memories]] || [[Night Watcher]] ||
+|| 16 || [[Red Ocean]] || [[Minus 2]] ||
+|| 17 || [[Aquaris]] (Remix) || [[2nd Jewel]] ||
+|| 18 || [[Lie Lie]] || [[Minus 1 ~Space Mix~]] ||
+|| 19 || [[Y-Gate]] || [[R.F.C.]] ||
+|| 20 || [[M Police]] || [[Cosmic Bird]] ||
+|| 21 || [[JMJ]] || [[20000000000]] ||
+|| 22 || [[Sand Storm]] || [[Fire Storm]] ||
+|| 23 || [[Ztar warZ]] || [[Feel So Sad]] ||
+|| 24 || [[Metagalatic G - 1000]] || [[B.O.W.]] ||
+|| 25 || [[Calling me Now]] || [[Mad Robot]] ||
+|| 26 || [[Eye of Beholder]] || [[Delight]] ||
+|| 27 || [[Blue]] || [[Tokyo 9 P.M.]] ||
+|| 28 || [[Futurist]] || [[Go!]] ||
+|| 29 || [[Aquaris]] || [[Climax]] ||
+|| 30 || [[Complex]] || [[Shout]] ||
+|| 31 || [[Judgement]] || - ||
+|| 32 || [[Lovely Day]] || - ||
+
+ * EZ2Catch 곡 공식
+|| || ||[[Be My Baby]]|| ||[[Memories(EZ2DJ)|Memories]]|| ||[[Look out ~Here comes my love~|Look Out]]|| || ||
+|| ||[[Ready to Yah]]||[[JAM(EZ2DJ)|JAM]]||[[I've Fallen]] (Remix)||[[Lovely Day]]||[[Delight]]||[[Unknown H2]]||[[Theme of EZ2DJ]]|| ||
+||[[Confete]]||[[Funky 5]]||[[The Boy ~Here comes my baby~|The Boy]]||[[Seize The Day]]||[[In a Nutshell]]||[[Go!]]||[[Riff Guy]]||[[20000000000]]||[[Zeroize]]||
+
+ 남아있는 게이지의 양과 색깔에 따라 다음 스테이지의 곡이 결정된다.
+ * 청록색: 두 칸 오른쪽 아래의 곡. 단 Look Out에서는 Theme of EZ2DJ가, Theme of EZ2DJ에서는 Zeroize가 나온다.
+ * 초록색: 한 칸 오른쪽 아래의 곡. 단 Look Out에서는 Unknown H2가, Theme of EZ2DJ에서는 20000000000이 나온다.
+ * 노랑색: 바로 아래의 곡.
+ * 주황색: 한 칸 왼쪽 아래의 곡.
+ * 빨강색: 두 칸 오른쪽 아래의 곡. 단 Be My Baby에서는 Ready to Yah가, Ready to Yah에서는 Confete가 나온다.
+
+ * Turntable 곡 공식
+||[[Exist]]|| ||[[Any way you want it]]|| ||[[Say That U]]|| || || || ||
+||[[The Boy ~Here comes my baby~|The Boy]]||[[느낌]]||[[Appeal]]||[[Lie Lie]]||[[Memories(EZ2DJ)|Memories]]||[[Cosmic Bird]]||[[Minus 2]]|| || ||
+||[[Delight]]||[[JAM(EZ2DJ)|JAM]]||[[Black Market]]||[[R.F.C.]]||[[Aquaris]]||[[Riff Guy]]||[[Go!]]||[[Metagalatic G - 1000]]||[[Zeroize]]||
+
+ 맥스 콤보의 일의 자리 숫자에 따라 다음 스테이지의 곡이 결정된다.
+ * 0, 3, 6, 9: 바로 아래의 곡.
+ * 1, 4, 7: 한 칸 오른쪽 아래의 곡.
+ * 2, 5, 8: 두 칸 오른쪽 아래의 곡.

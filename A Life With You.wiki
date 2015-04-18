@@ -1,0 +1,43 @@
+|| 최초 수록 버전 || [[DJMAX TECHNIKA 3]] ||
+|| 작곡 || [[makou]] ||
+|| 장르 || Broken Beat ||
+|| 보컬 || Fumi ||
+|| BPM || 122 ||
+|| 비주얼 || Mandrill, Hoon ||
+
+{{{#!HTML
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/4F-YJVAr0jQ?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4F-YJVAr0jQ?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+>> 조금 허스키하고 소울스타일의 목소리를 피쳐링한 일렉트로 스타일의 브로큰비트입니다. (이런 어려운 노래를 불러주니... 놀람) 프레이즈가 꽤 복잡하지만 미래를 향한 마음을 맹세하는 신비한 노래입니다.
+
+
+별칭은 '''엇박윗유''' 또는 '''없박윗유'''. 약칭도 별칭을 줄여서 '''엇박''', '''없박'''.
+
+장르나 작곡자나 [[Voyage]]의 후속곡으로 생각된다. 이 곡도 [[Voyage]]처럼 기본음의 처음과 끝부분을 잘라내어 탁탁 끊기는 느낌을 들게 만들었다.
+
+Voyage가 부드러운 느낌이였다면 이 곡은 좀더 발랄하고 통통 튀는느낌. 다만 음악을 들어보면 알겠지만... '''엄청난 엇박'''의 압박이 심하다. 유저들 사이에서는 이 곡을 [[엑설런트]]로 처리하는 자가 과연 등장할까 하는 소리가 나올 정도로. 그로 인해 유저들 사이에서는 '''엇박이 아니라 '없박' '''이라는 이야기까지 나오고 있다. --없박윝유-- --유저들 엿먹이는 박자라고 "엿박" 이라고 부르기도...-- 
+
+BGA는 등장하는 네 소녀간의 우정을 그려낸 내용으로 화사하고 귀여운 그림체가 돋보인다. 중간에 비주얼 등장 캐릭터가 들고 있는 휴대폰의 배경화면으로 [[Watch Your Step]]에 나오는 여캐가 나오는데 이는 비주얼 일러스트 담당자가 Watch your step과 같은 Mandrill이기 때문이다. 밑에 플레이 영상 참고.
+
+== [[DJMAX TECHNIKA 3]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/QU-cEsyf7Tw" frameborder="0" allowfullscreen></iframe>}}}
+
+(MX패턴 영상) ~~이게 노멀 퍼포먼스입니다 여러분~~
+~~[[makou]]: 정박이 뭔가요? 먹는건가요?~~
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 스크롤 || 비고 ||
+||<#FFB0B0> Star || B || 375 Max || 5 || || ||
+||<#FFFF00> Normal || B || 375 Max || 5 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || A || 1250 Max || 6 || 4박 스크롤 || [wiki:"Metronom"미션 - Senza Tempo] 수록 ||
+||<#FF0000> Maximum || S || 3000 Max || 7 || 4박 스크롤 || [[Radio Wave Set]] 상위 보스곡, [wiki:"Masterpiece(DJMAX)"미션 - Makou System] 수록,  ※[[지뢰곡]] ||
+
+유저들의 우려는 현실이 되어 처음부터 끝까지 정박은 존재하지않고 엇박으로 시작해서 엇박으로 끝난다. HD패턴은 [[Metronom]]미션팩의 Senza Tempo 미션에서, MX패턴은 [[Radio Wave Set]] 상위보스곡으로 나온다. 
+
+특히 MX패턴은 전체적으로 난이도가 향상된 테크니카 3 세트중에서 지뢰곡이나 물렙곡을 운운하기 전에, 세트 난이도와 가장 어울리지 않는 곡으로 손 꼽힐 정도이다. 노트 자체의 난이도를 떠나서, '''정박 따위 없는''' 처음부터 끝까지 엇박의 향연. 곡 자체는 심심한 느낌이 들지만, 보컬음을 제외한 [wiki:"사일런트(팝픈뮤직)"거의 모든음을 키음으로 구현해놨다.] [[Emblem]]과 더불어 판정 난이도가 최강 수준이니, Normal Performance 표시만 보고 도전하는 초심자들은 주의하자.
+
+여담으로, 테크니카의 곡 중 최초로 노멀패턴보다, 하드와 맥시멈 패턴이 먼저 공개된 곡. [[wiki:"D2(DJMAX)" D2]]나 [[You & Me]]와 같이 하드패턴이 선공개되고 노멀 패턴이 공개되거나, 혹은 [wiki:"Luv Flow" Luv Flow Funky House Mix] 처럼 노멀 패턴과 맥시멈 패턴이 공개된 후 하드 패턴이 나중에 등장한 경우는 있었지만, 하드와 맥시멈 패턴이 모두 노멀패턴보다 먼저 공개된 적은 이번이 처음. 
+

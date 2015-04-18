@@ -1,0 +1,20 @@
+{{{#!HTML
+<iframe width="480" height="360" src="//www.youtube.com/embed/Z9s0xAVaUfs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 14[[BR]]FEVER || BULGARIAN RHYTHM[[BR]]불가리안 리듬 || Deep Magenta[[BR]]딥 마젠타 || [[Naya~n]] || Nicholaschka[[BR]][[니콜라슈카]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 204 || 43단계 || {{{#blue 10}}} || {{{#green 17}}} || {{{#orange 35}}} || {{{#red 40}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 23}}} || {{{#orange 41}}} || {{{#red 46}}} ||
+|||| 노트수 || {{{#blue 280}}} || {{{#green 310}}} || {{{#orange 850}}} || {{{#red 1287}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+빠른 BPM과 난해한 리듬이 특징인 곡으로, EX는 46 중에서 어려운 편에 속한다. 채보는 언뜻 봐서는 그럭저럭 칠 만한, 난해하지는 않은 정도라고 생각할 수도 있지만, 문제는 앞에서도 서술한 난해한 리듬과 빠른 BPM. 2분이라는 시간동안 쉴 틈을 전혀 주지 않으며, 패턴도 체력이 소모되기에 딱 좋은 패턴이므로 어느정도 체력과 집중력이 갖추어져야 클리어를 노릴 수 있다. 
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/sSfa4qDa1dg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+배틀모드에서의 하이퍼가 압권인데, 3버튼 주제에 '''통상 EX보다 노트수가 많다...''' 온갖 물렙과 불렙 등 막장 난이도가 넘쳐나는 배틀모드에서도 독보적인 존재감을 어필.

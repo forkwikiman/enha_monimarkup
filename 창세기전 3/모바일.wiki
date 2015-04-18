@@ -1,0 +1,63 @@
+ * 상위항목: [[창세기전 3]]
+
+[[목차]]
+== 소개 ==
+[[창세기전 3]]의 [[휴대전화]] 이식판으로 [[엠조이넷]]이 개발하였다. EP3까지는 일본에도 수출되었으며 일본 모바일 게임에서 베스트 1위를 기록했다고 한다.
+
+핸드폰의 용량 한계상 화질이나 음질은 PC판보다 떨어지지만 스토리, 스테이지, 필살기, 마법, 대사는 PC판에 비해서 상당히 추가되어 호평을 받았다. 또 [[창세기전 2]]나 [[서풍의 광시곡]]을 떠올리게 할 만한 여러 보너스/오리지널 요소 역시 많이 첨가했다. ~~대신 용량 문제로 비중이 낮은 조연은 과감히 삭제.~~ 창세기전 3 리메이크를 목표로 했다고 한다.
+
+[[창세기전 3]] 팬들은 모바일처럼 추가되어 콘솔판으로 이식되길 바라고 있지만 콘솔 이식이라면 일본 수출이 더 가능성 있다. [[창세기전 3: 파트 2]]까지 나온다면 EP5, EP6으로 이름이 붙어서 나올 거라는 추측이 많았는데, 엠조이넷이 소리소문 없이 망하면서 장래가 불투명해졌다.
+
+일부 팬들은 [[창세기전 3]] 그래픽 수준의 모바일로 [[창세기전 2]]가 리메이크되는 것도 바라고 있는 것 같다. 다만 [[피처폰]] 플레이를 기준으로 리메이크했기 때문에, 스마트폰 환경에 대응하지 못하는 것은 단점.
+
+* 창세기전3 EP1: 시반슈미터
+* 창세기전3 EP2: 크림슨 크루세이드
+* 창세기전3 EP3: 아포칼립스
+* 창세기전3 EP4: 울티메이트 제네시스
+
+== 원작(PC판)과의 차이점 ==
+ * (EP1~3 한정)[* EP4는 카드 시스템이며 직업이 정해져 있다.] 원하는 직업으로 이리저리 육성할 수 있던 PC판과는 반대로 조건이 맞으면 자동으로 전직한다. 즉 아무 것도 모르고 찍다보면 망캐될 수 있는 게 단점. 대신 육성과정이 엉망이었던 게 상당히 잘 정리되어있다. 대표적으로 [[시반 슈미터]].
+ * (EP4 한정) 카드 용병 시스템이 추가되었다. ~~[[주사위의 잔영]] 또는 [[wiki: "SD건담 캡슐파이터 온라인" 캡슐 뽑는 그 게임]]이 연상된다.~~
+ * [[wiki:"살라딘(창세기전 3)" 살라딘]]이 포로로 잡혔을 때 간수에게 [[wiki:"Ang" 등짝을 보이고]] 약과 식량을 얻어서 [[버몬트 대공]]에게 주는 걸 암시하는 대사가 나온다.
+ * [[천지파열무]]를 쓸 때 살라딘이 PC판보다 높게 점프한 후 회전해서 땅에 칼을 박아넣고 폭발하는 연출이 더 화려해졌다.
+ * [[용자의 무덤]]이라는 보너스 스테이지를 플레이할 수 있다.
+ * [[바리사다]] 조각을 모으면 원본 바리사다를 얻어서 진[[설화난영참]]을 쓸 수 있다. 바리사다 Ⅱ와는 달리 연출이 상당히 화려해졌다.
+ * [[버몬트 대공]] VS [[오웬 튜더]]의 일기토 대결이 있다. (홍보 동영상에 나오는 것이니 확인바람.)
+ * [[wiki:"철가면(창세기전 3)" 철가면]] VS [[벨제부르]]의 일기토 대결이 추가되었다. 또한 PC판에선 사용되지 않았었던 대사들이 사용되었다. [[창세기전 3/더미 데이터]] 참조.
+ * 새로운 필살기나 마법이 상당히 추가되었다.
+ * [[아포칼립스]] 초반에 이름만 언급되고 죽은 '세이렌'이라는 정보원으로 플레이하는 챕터(튜토리얼)가 있다.
+
+== [[스마트폰]] 이식 ==
+[[iOS]] 와 [[안드로이드(운영체제)|안드로이드]] 로 EP1, EP3, EP4가 출시되었다. ~~EP2는?~~
+현재 신규 사용자는 설치할 수 없으며, 기존 다운로드 내역이 있는 사용자에 한하여 재설치가 가능하다.
+
+==== [[iOS]] - EP1 ====
+2010년 4월 [[iOS]]로 에피소드 1이 이식됐다. 그런데 '''[[피처폰]] 버전 그대로'''다!
+
+ * [[http://www.zdnet.co.kr/news/news_view.asp?artice_id=20100701163501&type=det 평가에 대한 기사]]
+ * [[http://www.youtube.com/watch?v=akxJCpHZS44 실제 게임 돌리는 영상 ~~화가 난다!~~]]
+
+화면 아래의 반이 조작키, 위의 반에 게임화면에 게임이 [[피처폰]] 버전 그대로. 다른 폰게임 이식작들이 최소한 조작이라도 터치스크린에 맞게 바꾸는데, 이것은 버튼을 그냥 화면에 만들어 버렸다. ~~iDOS로 창세기전 2 돌리는 게 더 조작성이 좋다.~~ 음악에서도 무개념을 보이는데 "원작 게임의 음악을 이용하면 웅장한 음악을 들을 수 있다"는 개념상실 내용을 게임 설명에 그대로 적어놨다!
+
+당연히 망했다! 평점은 극악이다. 추억보정으로도 [[답이 없다]].
+
+==== [[안드로이드(운영체제)|안드로이드]] - EP3, EP4 ====
+||||<#000000> '''{{{#white 창세기전3 EP3: 아포칼립스'''}}} ||
+|||| https://lh5.ggpht.com/_iqwnj-s90EBHid2gv40F4PAuOYdF-o4hQXSEuWnNn6xgIfnUXbOAqn9kivnGp7hNIRw=w300-rw?.png&width=200 ||
+|| '''개발''' || ㈜엠조이넷 ||
+|| '''플랫폼''' || [[https://play.google.com/store/apps/details?id=com.MJoyNet.G3EP3 안드로이드]] ||
+|| '''출시일''' || 2010.4.26 ||
+|| '''장르''' || [[SRPG]] ||
+|| '''웹사이트''' || [http://www.softmax.co.kr/Service/GameList.aspx?menuid=2_1&hselPlatform=iOS+%2F+Android 공식 홈페이지] ||
+|| https://lh4.ggpht.com/cBYJgkghIsPuoLG98sDuy8zyLwAcV7n0H_g__q6HAA2U90I-j9IdKu2ImoNU3ywwJnw=h310-rw?.png&width=200 || https://lh5.ggpht.com/fguksZKzeNgNRiP0oIibOX7tEb66NNM1dHB7sM2qTS9p5cKkdLDLxVA4P99ntCRqsA=h310-rw?.png&width=200 ||
+|| https://lh3.ggpht.com/1P25E5VhePrZt9IWGWVah1u5EA6CfgB_7CeXbeTNZ3tz4rE2Nj9DQTRbltrrUif_yOg=h310-rw?.png&width=200 || https://lh3.ggpht.com/b0cDCIyTP5NhHC_ZnvA5lau4bRREXfQt4A1qjTt5H-2wp2hso0h7JPk-Zd2G9g0BTcS1=h310-rw?.png&width=200 ||
+
+||||<#000000> '''{{{#white 창세기전3 EP4: 울티메이트 제네시스'''}}} ||
+|||| https://lh5.ggpht.com/H7Q7jLwADWhoB0DZQzPq85m8nHYCiyNEpvkyX_ZIwotQ3OyPpm2VVaZf5_qQanpvQZPf=w300-rw?.png&width=200 ||
+|| '''개발''' || ㈜엠조이넷 ||
+|| '''플랫폼''' || [[https://play.google.com/store/apps/details?id=com.MJoyNet.G3EP4 안드로이드]] ||
+|| '''출시일''' || 2011.2.1 ||
+|| '''장르''' || [[SRPG]] ||
+|| '''웹사이트''' || [http://www.softmax.co.kr/Service/GameList.aspx?menuid=2_1&hselPlatform=iOS+%2F+Android 공식 홈페이지] ||
+|| https://lh5.ggpht.com/CVnCxbk6lPBjnZ927lST8UGOa9n2A8DFaomNxDZ7TYmbzkXNROSK_I2fPodQdhxUTtk=h310-rw?.png&width=200 || https://lh6.ggpht.com/1BZxK3FsYYK57s6eBCgtI1GmjGjIdGlccHXdWgNAZ1ediuUuBifbBeHpGBZ0rqPv4_4=h310-rw?.png&width=200 ||
+|| https://lh6.ggpht.com/d_5pFTM1iBxOjlA2HN1vPl4fTg-hnjZ8uyHiclAkDTOiBceCwNLN3TVetelNVTtfcy8=h310-rw?.png&width=200 || https://lh6.ggpht.com/rThdEPhyO-4p8fcMDnHthHhi1vHeWCJRNQe2yK3-q15FK8ATnypI8Ff8WIq8mpsnWfw=h310-rw?.png&width=200 ||

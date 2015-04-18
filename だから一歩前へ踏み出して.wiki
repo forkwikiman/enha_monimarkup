@@ -1,0 +1,40 @@
+'''그러니 한발짝 앞으로 내딛어'''
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/51p%2BLSR57GL._SS500_.jpg?width=300
+싱글음반 자켓
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/jJCZe42OntY?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jJCZe42OntY?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+@PV
+
+일본의 음악그룹 Hi-Fi Camp의 다섯번째 싱글음반 및 수록곡. 자켓 및 PV에 등장하는 축구선수는 [[나카무라 슌스케]].  싱글음반은 2009년 8월 5일 발매되었으며, 등장 첫 주 오리콘 차트 싱글 주간 43위를 기록했다. 앨범에는 이 곡과 'RadicalisM'이라는 곡이 실려있다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/P3sAQxIc9uM?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P3sAQxIc9uM?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+@2009년의 [[포카리스웨트]] 광고 영상
+
+일본 현지 [[포카리스웨트]]의 2009년 광고 CM송으로도 실렸다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>5||<:>7||
+||<#5a5aff><:>노트수||<:>186||<:>405||<:>539||
+||<#5a5aff><:>BPM||||||<:>130||
+||<#5a5aff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 제목이 길고 읽기 힘들어서인지 국내에서는 그냥 [[포카리스웨트]]라고 불렀다.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/rBbtN7sK0WI?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rBbtN7sK0WI?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+EXTREME 채보
+
+7레벨의 전형적인 동시치기 위주의 곡이다. 글자 노트가 많이 나온다. 예를 들어 왼쪽 오른쪽 두 부분으로 나뉘어서 나오는 向자라든가. 다만 向자가 나오는 14초 부분에서는 풀 콤보 및 [[엑설런트]]를 내기가 까다로울 수 있다.

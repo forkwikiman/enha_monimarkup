@@ -1,0 +1,59 @@
+ * 본 항목은 [[BEMANI 시리즈]]의 수록곡들을 설명하고 있습니다. 일반적인 [[클라우드]]의 의미는 항목 참조.
+
+[[목차]]
+
+== [[팝픈뮤직]]의 수록곡 CLOUD ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/GPn8FNbQ1y0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 灰の街、工場の騒音…そこに棲む人々は、日々の汗をパンと酒に換え、踊り、歌う
+회색 거리, 공장의 소음…거기에 사는 사람들은, 일일의 땀을 빵과 술로 바꾸어, 춤추고, 노래를 불렀다. ||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 9[[br]](ee'MALL) || JAZZ WALTZ[[br]]재즈 왈츠 || CLOUD || WORLD SEQUENCE || CECIL[[br]]세실 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 180 || 43단계 || {{{#blue 10}}} || {{{#green 22}}} || {{{#orange 31}}} || {{{#red 35}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 28}}} || {{{#orange 37}}} || {{{#red 41}}} ||
+|||| 노트 수 || {{{#blue 275}}} || {{{#green 454}}} || {{{#orange 724}}} || {{{#red 909}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+[[ee'MALL]]의 오리지널 노래로 팝픈뮤직에만 수록되었다.
+
+[[무라이 세이야]]의 명의인 WORLD SEQUENCE의 노래 중 하나로, 9에 ee'MALL 전용곡으로 수록되었다. 14 FEVER!에 통상해금. EX 보면은 첫 수록 당시엔 36이었다가 16 PARTY♪에서 35로 하락.
+
+첫 수록 당시의 캐릭터는 케빈이었지만 통상해금되면서 세실로 변경되었다.
+
+== [[사운드 볼텍스]]의 수록곡 cloud ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/WgRbq92RziM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스]]의 수록곡. 1의 노래와는 전혀 관련 없다.
+
+작곡자는 다수의 보컬로이드를 제작했던 EZFG. 단, 이 곡에서는 보컬로이드 샘플을 하나도 사용하지 않았다. 곡 자체는 사운드 볼텍스의 컨셉에 잘 어울린다는 평도 있고, [[%5BE%5D|［E］]]와 닮았다는 평가도 있다. 어느쪽이든 망곡은 아니라는 평이 지배적.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/05/jk_5_05_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/05/jk_5_05_2.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/05/jk_5_05_3.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 08}}} || {{{#ff009f 12}}} ||
+|| 체인 수 || {{{#purple 0608}}} || {{{#orange 0753}}} || {{{#ff009f 0850}}} ||
+|| 일러스트 담당 || {{{#purple M-TC}}} || {{{#orange M-TC}}} || {{{#ff009f EZFG}}} ||
+|| 이펙터 || {{{#purple DJ WILDPARTY}}} || {{{#orange DJ WILDPARTY}}} || {{{#ff009f DJ WILDPARTY}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 05(2012.4.26)}}} ||
+|| [[BPM]] |||||| 143 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 04(2013.7.3 ~ 2013.9.5)
+
+EZFG 본인이 곡을 투고할 때 EXH 자켓도 같이 투고했다는 점은 물론, ADV 자켓은 NOV 자켓과 EXH 자켓을 합쳤다는 점도 눈에 띈다.
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/hipXZnrvQrE" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+모든 패턴이 '''시작부터 끝까지 332332 엇박'''이라 판정 망치기 딱 좋다. 이 엇박 폭타를 어떻게 처리하느냐에 따라 점수가 갈리기 일쑤. 노브 개인차가 크게 갈리는 [[니시닛포리의 춤]]과 달리, 이 곡은 박자 개인차가 크게 갈리는 곡이다. 다만, 이 엇박이 규칙적이기 때문에 박자에 익숙해지기는 쉬운 편이고, 얼티밋 체인 난이도도 그렇게 높지 않다.

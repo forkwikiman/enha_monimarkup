@@ -1,0 +1,27 @@
+'''저녁의 엘레지[* 비가(悲歌) 슬픔을 나타내는 악곡을 가리키는 말.] -가을-'''
+
+== [[개요]] ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/eRWLCrt7XAA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||| [[Des-ROW]]의 계절 시리즈 ||
+||<#8e8eff> [[겨울]] ||<#ff1493> [[봄]] ||<#81e3ff> [[여름]] ||<#f29650> [[가을]] ||
+|| [[純白レジエンド -冬-]] || [[追儺の桜 -春-]] || [[Last Memento -花火のない夏-]] || '''夕刻エレジ -秋-''' ||
+
+[[리플렉 비트 그루빈 어퍼]]의 수록곡. 작곡은 [[Des-ROW]]. [[Last Memento -花火のない夏-|여름곡]]이 나온지 약 1년 3개월이 지나 나온 가을곡이자 마지막 계절곡.
+
+== [[리플렉 비트 시리즈]] ==
+
+||||||||||||||<:> [[리플렉 비트]] 난이도 체계 ||
+||<:> [[BPM]] ||||||||||||  난이도  ||
+||<|2><:> 178 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 124}}} || {{{#orange 229}}} || {{{#red 476}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈 어퍼] ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/wWqzUb1P0WQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+Hard 패턴 플레이 영상

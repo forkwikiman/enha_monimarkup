@@ -1,0 +1,25 @@
+ * 상위항목 : [[Cytus]], [[Cytus/수록곡]]
+
+||||||||<table align=right> '''YURERO~時間は過ぎ去ってイクから~''' ||
+||||||||  http://wikiwiki.jp/cytus/?plugin=ref&page=YURERO%7E%BB%FE%B4%D6%A4%CF%B2%E1%A4%AE%B5%EE%A4%C3%A4%C6%A5%A4%A5%AF%A4%AB%A4%E9%7E&src=Screenshot_2014-02-12-13-15-50_1.jpg?height=135  ||
+||<:>작곡||||||||<:> Bro's ||
+||<:>보컬||||||||<:> Bro's ||
+||<:>일러스트||||||||<:> - ||
+||<:>BPM||||||||<:> 110 ||
+||<:>연주 시간||||||||<:> 2:54 ||
+|| ||<:>EASY||<:>HARD||
+||<:>레벨||<:>4||<:>7||
+||<:>노트 수||<:>409||<:>591||
+||<:>'''특이사항'''||||||<:> - ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/bJhEm0uI9zM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[Cytus]]의 수록곡으로 챕터 10 'The New World'의 세번째 곡이다. 일본의 힙합 듀오 BRO'S~~[wiki:"브로"Bro][wiki:"자쿠와는 다르다 자쿠와는"와는 다르다, Bro와는!]~~가 [[Hey Wonder]]와 함께 투고하였다.
+
+Hey Wonder보다 BPM이 더 빠르며 비트 자체도 상당히 신나는 편. 제목의 뜻은 그냥 봐서는 알기 어렵지만 힙합 가사에서 자주 쓰이는 You'd better를 ~~최대한으로 굴려서~~ 발음하다 보면 '''유레로'''라 발음이 된다. 일러스트를 보아 Hey Wonder와 일러스트레이터를 공유하는 듯하다. 그리고 각각 남자가 한 명씩 있는데 이 두 남자가 아마 BRO'S일 듯.
+
+이지 4, 하드 7로 챕터 내에서 [[Twenty One]], [[Finite Circuit]]과 이지, 하드의 난이도를 공유한다. 스크롤 속도는 Hey Wonder처럼 느리기 때문에 TP 따내기는 꽤 어렵다. 대신 이지고 하드고 딱히 두드러지는 구간 없이 평이하다. 레벨 값에는 적절하긴 하지만, 챕터 내 7레벨 곡들 중에서는 쉬운 편.
+
+그리고 Set Free와 함께 챕터 내 비인기곡이다(...). 챕터 내 [wiki:"Twenty One"다른] [wiki:"Red Eyes"7레벨] [wiki:"Finite Circuit"곡들] 모두 밀마 방지용 구간을 하나씩은 다 가지고 있는 반면[* Twenty One은 중후반부 단타+롱노트+긁기, Red Eyes는 롱노트 폭풍, Finite Circuit은 초반부 연타.] 이 곡은 채보 자체가 심하게 평이해서 다른 7레벨 곡들보다 손이 가는 쪽도 아닌데다가(...) 이거 바로 앞에 [wiki:"FREEDOM DiVE"정신 나간 9레벨 곡이] [wiki:"Halloween Party"두 개씩이나 있는 것도 모자라] 바로 뒤에 [wiki:"Twenty One"정신 나간 7레벨 곡도] [wiki:"Red Eyes"두 개씩이나 포진해있어서] 더더욱 묻힐 수밖에 없다(...).

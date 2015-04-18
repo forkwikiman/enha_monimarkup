@@ -1,0 +1,86 @@
+ * 상위 항목 : [[쿠프로]]
+
+[[목차]]
+
+ * 본 항목에서는 [[beatmania IIDX]]의 아바타 시스템인 [[쿠프로]]의 아이템 샵 판매 품목에 관하여 다룹니다.
+
+== 머리 파트 ==
+||||||||<tablewidth=100%><#fce5cd> '''머리 파트''' ||
+||<rowbgcolor=#fce5cd><width=120px> '''이미지''' || '''아이템 이름''' || '''가격(델라)''' || '''판매 조건''' ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_2_1.jpg || 鬼 || 2,000 ||<|12> [beatmania IIDX 20 tricoro|20 tricoro] 이후 구매가능 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_3_1.jpg || おひなさま || 3,200 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_4_1.jpg || 学ラン || 6,800 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_5_1.jpg || 子供 || 2,500 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_6_1.jpg || ウェディング || 5,000 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_7_1.jpg || ビキニ || 4,800 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_8_1.jpg || サマー || 3,200 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_9_1.jpg || 巫女 || 3,500 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_10_1.jpg || ウィッチ || 7,800 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_11_1.jpg || フォール || 6,400 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_12_1.jpg || サンタ || 4,500 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_s_1.jpg || 次郎長 || 5,500 ||
+||<rowbgcolor=#fce5cd> attachment:/qpro_lincle_1_1.jpg || ゴスロリ(黒) || 9,000 ||<|3> 없음 ||
+||<rowbgcolor=#fce5cd> attachment:/qpro_lincle_2_1.jpg || ゴスロリ(甘) || 10,000 ||
+||<rowbgcolor=#fce5cd> attachment:/qpro_lincle_3_1.jpg || プリンス || 4,250 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_lincle_sp_1_1.jpg || 強欲の眼帯 || 7,500 || [[The Sampling Paradise]] 플레이 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_lincle_sp_3_1.jpg || アーミーのヘッドギア || 4,250 || [[In the Blackest Den]] 플레이 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_lincle_sp_5_1.jpg || 傲慢の星飾り || 9,250 || [[Todestrieb]] 플레이 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_lincle_sp_6_1.jpg || レヴィヘルム || 6,000 || [[NNRT]] 플레이 ||
+||<rowbgcolor=#fdf3e8> attachment:/qpro_lincle_sp_9_1.jpg || キュベリアの冠 || 6,750 || [[天空の夜明け]] 플레이 ||
+
+== 머리카락 파트 ==
+||||||||<tablewidth=100%><#fcf194> '''머리카락 파트''' ||
+||<rowbgcolor=#fcf194><width=120px> '''이미지''' || '''아이템 이름''' || '''가격(델라)''' || '''판매 조건''' ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_1_2.jpg || 雪だるま || 9,800 ||<|13> [beatmania IIDX 20 tricoro|20 tricoro] 이후 구매가능 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_2_2.jpg || 鬼 || 3,200 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_3_2.jpg || おひなさま || 5,200 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_4_2.jpg || 学ラン || 2,400 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_5_2.jpg || 子供 || 5,800 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_6_2.jpg || ウェディング || 7,000 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_7_2.jpg || ビキニ || 8,500 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_8_2.jpg || サマー || 6,400 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_9_2.jpg || 巫女 || 5,800 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_10_2.jpg || ウィッチ || 6,400 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_11_2.jpg || フォール || 6,400 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_12_2.jpg || サンタ || 5,800 ||
+||<rowbgcolor=#fff8e2> attachment:/qpro_s_2.jpg || 次郎長 || 9,800 ||
+
+== 얼굴 파트 ==
+||||||||<tablewidth=100%><#d9ead3> '''얼굴 파트''' ||
+||<rowbgcolor=#d9ead3><width=120px> '''이미지''' || '''아이템 이름''' || '''가격(델라)''' || '''판매 조건''' ||
+||<rowbgcolor=#f4fff0> attachment:/qpro_s_3.jpg || 次郎長 || 28,000 || [beatmania IIDX 20 tricoro|20 tricoro] 이후 구매가능 ||
+
+== 몸 파트 ==
+
+||||||||<tablewidth=100%><#b9deff> '''몸 파트''' ||
+||<rowbgcolor=#b9deff><width=120px> '''이미지''' || '''아이템 이름''' || '''가격(델라)''' || '''판매 조건''' ||
+||<rowbgcolor=#e1effc> attachment:/qpro_1_4.jpg || 雪だるま || 8,800 ||<|13> [beatmania IIDX 20 tricoro|20 tricoro] 이후 구매가능 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_2_4.jpg || 鬼 || 3,500 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_3_4.jpg || おひなさま || 9,500 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_4_4.jpg || 学ラン || 9,800 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_5_4.jpg || 子供 || 5,500 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_6_4.jpg || ウェディング || 16,500 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_7_4.jpg || ビキニ || 14,700 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_8_4.jpg || サマー || 8,500 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_9_4.jpg || 巫女 || 11,600 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_10_4.jpg || ウィッチ || 13,000 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_11_4.jpg || フォール || 12,800 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_12_4.jpg || サンタ || 9,800 ||
+||<rowbgcolor=#e1effc> attachment:/qpro_s_4.jpg || 次郎長 || 12,600 ||
+
+== 손 파트 ==
+||||||||<tablewidth=100%><#ffbfdb> '''손 파트''' ||
+||<rowbgcolor=#ffbfdb><width=120px> '''이미지''' || '''아이템 이름''' || '''가격(델라)''' || '''판매 조건''' ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_1_5.jpg || 雪だるま || 1,500 ||<|13> [beatmania IIDX 20 tricoro|20 tricoro] 이후 구매가능 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_2_5.jpg || 鬼 || 5,200 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_3_5.jpg || おひなさま || 6,100 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_4_5.jpg || 学ラン || 3,600 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_5_5.jpg || 子供 || 5,500 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_6_5.jpg || ウェディング || 6,000 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_7_5.jpg || ビキニ || 3,200 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_8_5.jpg || サマー || 2,700 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_9_5.jpg || 巫女 || 1,900 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_10_5.jpg || ウィッチ || 5,800 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_11_5.jpg || フォール || 1,600 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_12_5.jpg || サンタ || 1,200 ||
+||<rowbgcolor=#ffe6f1> attachment:/qpro_s_5.jpg || 次郎長 || 9,800 ||

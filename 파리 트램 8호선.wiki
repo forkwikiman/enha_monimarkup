@@ -1,0 +1,49 @@
+{{{+1 Ligne 8 du tramway d'Île-de-France / Île-de-France tramway Line 8}}}
+ * [[철도 관련 정보]]
+||<-5><table align=center><#ffffff> [wiki:"파리 트램" <span style="font-weight:bold;color:0000f9">파리 트램 운행 노선</span>] ||
+||<#dcdcdc> [[wiki:"파리 트램 1호선" 1호선]] ||<#dcdcdc> [[wiki:"파리 트램 2호선" 2호선]] ||<#dcdcdc> [[wiki:"파리 트램 3a선" 3a선]] ||<#dcdcdc> [[wiki:"파리 트램 3b선" 3b선]] ||<#dcdcdc> [[wiki:"파리 트램 4호선" 4호선]] ||
+||<#dcdcdc> [[wiki:"파리 트램 5호선" 5호선]] ||<#dcdcdc> [[wiki:"파리 트램 6호선" 6호선]] ||<#dcdcdc> [[wiki:"파리 트램 7호선" 7호선]] ||<#ffffff> {{{#b1a245 '''8호선''' }}} ||<#dcdcdc> {{{#dcdcdc }}} ||
+
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#b1a245 '''파리 트램 8호선'''}}} ||
+||운영기관 ||파리교통공사(RATP)||
+||영업거리 ||8.5km ||
+||궤간 ||1435㎜  ||
+||역수 ||17 ||
+||차량 ||Citadis 302 ||
+||전기 ||직류 1500V  ||
+
+[[파리 트램]]의 한 노선으로 파리 트램 8호선은 남북 방향의 노선이다. 북쪽의 생 드니 포르트 드 파리 (Saint-Denis - Porte de Paris) 역으로부터 들로네 벨빌 (Delaunay-Belleville) 역에 이르며 이 역에서 2 곳으로 분기한다. 빌르타뇌즈 대학 방향으로 가는 지선과 에피네 오르주몽 방향으로 가는 본선이 있다. 이 노선은 [파리교통공사](RATP)가 운영한다. 2014년 12월 16일에 개통하였다. 
+
+https://pbs.twimg.com/media/B6B5mmLCcAMO-v8.jpg
+트램 8호선에서 운행되는 Citadis 302 전동차
+
+== 노선 ==
+attachment:/tram8.jpg?width=650
+
+=== 본선 ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 생드니 포르트 드 파리 || Saint-Denis - Porte de Paris || 3 || {{{#89d3de ●}}} [[파리 지하철 13호선]] ||  ||
+|| 피에르 드 게이터 || Pierre de Geyter || 3 ||  ||  ||
+|| 생드니 - 가르 || Saint Denis - Gare || 3 || {{{#006cb8 ①}}} [[파리 트램 1호선]] [[br]] {{{#18964c Ⓓ}}} [[RER D선]] [[br]] {{{#a15256 Ⓗ}}} [[트랑지리엥 H선]] ||  ||
+|| 폴 엘뤼아르 || Paul Éluard || 3 ||  || ||
+|| 들로네 벨빌 || Delaunay-Belleville || 3 ||  || 빌르타뇌즈 대학 지선 ||
+|| 블루멘탈 || Blumenthal || 3 ||  ||  ||
+|| 레 모빌 || Les Mobiles || 3 ||  ||  ||
+|| 레 보투스 || Les Béatus || 3 ||  || ||
+|| 로즈 베르탱 || Rose Bertin || 3 ||  ||  ||
+|| 라세페드 || Lacépède || 3 ||  ||  ||
+|| 질베르 본메종 || Gilbert Bonnemaison || 3 ||  ||  ||
+|| 에피네 쉬르 센 - 가르 || Épinay-sur-Seine - Gare || 3 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 에피네 오르주몽 || Épinay-Orgemont || 3 ||  ||  ||
+=== 지선 ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 들로네 벨빌 || Delaunay-Belleville || 3 ||  || 본선 ||
+|| 세자르 || César || 3 ||  ||  ||
+|| 장 빌라르 || Jean Vilar || 3 ||  ||  ||
+|| 파블로 네루다 || Pablo Néruda || 3 ||  || ||
+|| 빌르타뇌즈 대학 || Villetaneuse-Université || 3 ||  ||  ||
+
+[[각주]]
+

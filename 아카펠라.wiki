@@ -1,0 +1,99 @@
+영어로는 A Cappella 또는 Acapella 등으로 표기한다.
+
+[[목차]]
+
+= 개요 =
+[[음악]]의 표현방식 중 하나로, 아카펠라의 정의는 대단히 간단하다. 악기 없이 인간의 목소리로만 구현되는 음악을 아카펠라 음악이라고 하며, 이에 따라 전문 아카펠라 그룹의 퍼포먼스가 아니라 그냥 집에서 방청소하다가 흥얼거리는 멜로디도 아카펠라라고 부를 수 있다. 인간 목소리의 매력을 한껏 드러내는 곡들도 있는 반면, 악기 소리를 그럴듯하게 재현해 인간 육성의 색을 지우는 곡들도 있다. 어느 쪽이든 목소리의 포텐을 극대화해서 들려줄 수 있다는 점에서 나름의 매력이 있는 장르이다. 처음부터 아카펠라 형식으로 불려질 것을 상정하고 작곡되는 곡들도 있지만 기존에 있던 곡들을 아카펠라 형식으로 편곡해서 부르는 경우가 많다. 편곡하는 경우 같은 원곡을 가지고도 팀의 음악적 취향이나 색깔에 따라 [[재즈]] 또는 [[라틴]] 등 여러가지 느낌으로 편곡할 수 있고 팀이 가진 편곡 실력을 보여주는 일종의 척도가 되기도 한다.
+장르가 아닌 표현방식인 만큼, 거의 모든 장르를 소화 가능하다.
+
+A Cappella 라는 것은 라틴어로 "교회당에서 하는 방식으로" 라는 뜻이다. 중세 교회 음악에서 출발하였으며, 르네상스시대까지 교회의 성가대가 반주 없이 복잡한 다성 찬송가를 부르던 것에서부터 시작되었다. 현대적인 형식의 아카펠라는 20세기 들어서 [[The King's Singers]]나 [[Boyz II Men]]등의 그룹이 등장하면서 확립되게 되었다. 
+
+참여하는 인원수에는 제한이 없으며, 보통은 4~6인의 구성이 많다. 꼭 혼성 구성으로만 하는 것도 아니며 남성 또는 여성으로만 구성된 팀들도 엄연히 존재한다. 이러한 팀들은 혼성과는 또 다른 색다른 맛을 낸다. 물론 드물지만 '''1인 혼자서 전파트를 담당하는''' [[신해철|굇수]]들도 존재한다. ~~무섭다~~
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/qjCLQaTFXx0?version=3&feature=player_profilepage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/EwYIR57Zl90?version=3&feature=player_profilepage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
+}}}
+{{{#!html 
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/_AfTBoCKJbU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qKTv5JIPzjI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+파트는 일반적으로 [[성악]]의 파트이름을 사용하는 것이 일반적이다.
+ * [[소프라노]](여성 최고음)
+ * [[메조 소프라노]](여성 중간음)
+ * [[알토]](여성 최저음)
+ * [[카운터테너]]([[가성]]을 쓰는 남성, 여성의 음역도 소화가 가능하다)
+ * [[테너]](남성 최고음)
+ * [[바리톤]](남성 중간음)
+ * [[베이스]](남성 최저음)
+
+세밀하게 나누자면 상당히 많지만 일반적으론 이 중 소프라노, 알토, 테너, 베이스를 주로 쓴다.[* 파트의 수가 너무 많을 때에는 소프라노1, 소프라노2와 같이 번호를 매겨서 사용하기도 한다:이 경우엔 1에 가까울수록 높은 음인게 일반적] 가끔 기악의 파트(메인보컬/코러스(일렉,건반 등)/베이스/퍼커션)을 따르기도 한다.
+
+이른바 '[[비트박스]]'라고 불리는 퍼커션을 전담하는 멤버가 추가되기도 하며,[* 아예 비트박서 만으로 이루어진 그룹도 있다. 대신 신스음은 악기로 찍는 경우가 많다. 국내에선 6is가 대표적.] 보통의 그룹들은 보컬 파트의 멤버가 퍼커션까지 같이 소화해내는 경우가 많다. 물론 화성에 있어서 근음을 찍어주고 퍼커션과 함께 리듬을 담당하는 베이스의 존재는 필수적이며, 음역과는 상관없이 베이스의 역할을 담당하는 멤버는 모든 팀에 꼭 존재한다.
+
+국내의 경우 [[메이트리]][* 2011년 김범수가 나는 가수다 경연에서 섭외한 그룹], [[원더풀]], [[보이쳐]] 등의 그룹들이 국내에서 메이저로 꼽히는 그룹들이며, [[아마추어]] 레벨에서는 실력있기로 유명한 그룹들과 각 [[대학교]]의 [[동아리]]들이 활동하고 있다. [[스윗소로우]]의 경우 2011 무한도전 가요제에도 참가하는 등 오버그라운드에서 가장 눈에 띄는 활동을 벌이는 그룹이라고 할 수 있다. 일반인들의 경우 일부러 찾아 듣지 않는 이상 다양한 아카펠라 음악을 접할 기회가 그리 많지 않다. 2010년 국제아카펠라페스티벌을 보러 온 관객 수가 증명하듯이 아카펠라 장르의 대중화는 아직 갈 길이 먼 실정이다.
+
+= 아티스트 =
+== 국내 (가나다 순) ==
+[[다이아]](D.I.A.)
+[[라울]](ROUL)
+[[레드소울]](Redsoul)[* 스타킹에 출연한 적이 있다.]
+[[리얼 보이스]](Real Voice)
+[[메이트리]](Maytree)
+[[보이쳐]](Voiture)
+[[스윗소로우]](Sweet Sorrow)
+[[원더풀]](One The Full)
+[[wiki:"인공위성(가수)"인공위성]][* 서울대학교 합창단 출신의 1세대 그룹]
+[[신해철]][* A.D.D.A라는 1인 아카펠라 곡을 냈다.]
+
+~~[wiki:"인간 관악기" 가카펠라]~~
+--[http://www.youtube.com/watch?v=ktEpU5il4Nc 딕펑스]--
+~~[[산와머니]]~~
+=== 국내 대학 동아리들 (가나다 순) ===
+기가히츠 - [[가톨릭대학교]]
+오선지 - 건국대학교 수의과대학
+[[로그스]](LoGS) - [[고려대학교]]
+[[벨칸토]](Belcanto) - [[서울교육대학교]]
+[[보이스보이즈]](Voice Boyz) - [[연세대학교]] 원주캠퍼스
+[[야얀]](Yayan) - [[연세대학교]]
+[[인스트루]](In's Tru) - [[서울대학교]]
+[[모카]](MOCA) - [[서울대학교 의과대학]]
+[[바오밥]](BAOBAB) - [[KAIST]]
+[[음치]] - [[POSTECH]]
+[[하울]] - [[한국외국어대학교]]
+[[허밍]](Humming) - [[상명대학교]]
+=== 국외 대학 동아리들 ===
+Byu Noteworthy - [[Brigham Young University]]
+Committed - [[Oakwood University]] - The Sing-off Season2 우승
+The Beelzebubs - [[Tufts University]] - The Sing-off Season1 준우승
+The SoCals - [[University of Southern california]]
+Out Of The Blue - [[옥스퍼드 대학교]] - [[http://www.youtube.com/watch?v=84-iLXPWm48 2011년 브리튼즈 갓 탤런트의 본선에 진출했다.]] 2014년 7월 [[샤키라]]가 [http://www.youtube.com/watch?v=bRWVMPnByzo 메들리 커버 영상]을 보고 트윗을 남겼다.
+Talisman - [[Stanford University]]
+Voices of Lee - [[Lee university]]
+== 국외 ([[알파벳]] 순) ==
+[[Bobby McFerrin]] - 그룹이 아니고 사람 한 명이라는 점에서 아카펠라계의 괴물
+[[Boyz II Men]]
+[[Club For Five]]
+[[INSPI]]
+[[Loituma]] - 그 유명한 [[파돌리기송]](의 원곡인 '''Ievan Polkka''')를 부른 가장 유명한 그룹[* Ievan Polkka 자체는 1930년대에 발표되어 많은 이본이 있다.]
+[[M-Pact]]
+[[Mike Tompkins]] - '''1인 21역'''으로 아카펠라를 하는 [[유튜브]] 스타. [[케이티 페리]]의 Teenage Dream과 [[마이클 잭슨]]의 P.Y.T.(Pretty Young Thing)로 유명하다. 
+[[Naturally 7]]
+[[NOTA]] - 미국 NBC에서 주최하는 아카펠라 경연 "The Sing-off" season1 우승팀
+[http://uoontherocks.wordpress.com/ On the Rocks]
+[[Peter Hollens]] - [[Mike Tompkins]] 와 같은, 1인 다역으로 아카펠라를 하는 2012년 현재 뜨는 가수. Lindsey Stirling 과 같이 제작한 [[스카이림]]의 주제곡 뮤직비디오가 유명하다[* http://www.youtube.com/watch?v=nlCPOCwo3FY][* http://www.youtube.com/watch?v=mgPienNLSyk]
+[[Pentatonix]] - 5인조 혼성 그룹. Daft Punk Medley를 통해서 페이스 북을 통해서 큰 인기를 얻었으며, The sing-off 우승 팀 출신이다. 파트는 소프라노, 하이테너, 바리톤, 베이스, 퍼커션이 있으며 퍼커션은 유투브 100만 조회수 출신... 무려 첼로와 퍼커션을 같이할 수 있는 드럼인간. 가장 유명한 Daft Punk Medley는 아래 링크가 있다. [* http://www.youtube.com/watch?v=3MteSlpxCpo]
+[[Rag Fair]]
+[[Rajaton]]
+[[Rockapella]]
+[http://www.youtube.com/user/SmoothMcGroove Smooth McGroove] - 게임 BGM을 '''1인''' 아카펠라로 표현해내는 악기인간.
+[[Suade]]
+[[The Idea Of North]]
+[[The King's Singers]]
+[[The Real Group]] - LG폰 알람인 굿모닝과 [[홍진호]]의 상징들중 하나인 [[칠리 콘 카르네]]를 부른 아카펠라 그룹.
+[http://en.wikipedia.org/wiki/The_Sing-Off The Sing-off]
+[[Try-tone]]
+[http://en.wikipedia.org/wiki/Van_Canto Van Canto] - 독일의 아카펠라 '''메탈''' 그룹. '비트박스' 부분은 실제 드럼을 사용한다. [* http://www.youtube.com/watch?v=kJ0n-1FmFiw]
+[[VoicePlay]] - The sing-off 4차에서 아쉽게 4위로 떨어진 그룹이지만 남성 5인과 1명의 객원을 통해서 매우 다양한 장르를 소화한다. 베이스의 음의 한계가 없을 정도로 튼튼한 베이스를 기반으로 3인조 남성의 화음은 가히 환상적이며 퍼커션의 능력또한 최상급으로 유명한 곡으로는 다음이 있다. I knew you were in the trouble & As long as love me[* http://www.youtube.com/watch?v=spa88tPh2HE] , Chandelier [* http://www.youtube.com/watch?v=6PxEY_kUm-w], Road Trip [* http://www.youtube.com/watch?v=QnQ7gfJSoJQ]
+
+[[추가바람]]
+
+[[각주]]

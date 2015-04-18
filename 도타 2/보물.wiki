@@ -1,0 +1,137 @@
+ * 상위 항목: [도타 2], [도타 2/치장 아이템]
+[[include(틀:현재진행중)]]
+[[목차]]
+= [[도타 2]] 보물 =
+도타 2 상점에서는 보물상자를 판매하며 이를 구매하여 열면 상자의 내용물 중 무작위의 치장 아이템이 나온다.--[[게이브 뉴웰]]의 지갑털이는 게임 내에서도 멈추지 않는다!-- 또한 매치를 완수할 때 낮은 확률로 아무나 아무 치장 아이템을 발견하기도 한다.
+
+보물을 열면 낮은 확률로 추가 희귀 치장 아이템 또는 와드와 짐꾼을 추가로 얻을 수도 있으며. 스팀 장터에서 사지 않고 굳이 상자를 사는 이유는 이 희귀 아이템을 얻기 위함이다.
+
+발견 시스템 덕분에 스팀 장터에는 치장 아이템의 매물이 많다. 따라서 치장 아이템을 가지고 싶다면 장터를 이용하는 것이 상점가보다 알뜰하게 구할 수 있다. 추가 희귀 아이템까지 얻고 싶다면 상자를 까는 수밖에 없고(...) 어쨌든 치장 아이템을 가지고 싶다면 스팀 장터 위주로 두 시스템을 병행해서 이용하면 좋다.
+
+== 판매 중 보물 ==
+도타 2 상점에서 현재 구입 할 수 있는 보물상자
+=== 썩은 교수대의 보물 ===
+||<tablewidth=510px><width=240px><|6>http://cdn.dota2.com/apps/570/icons/econ/tools/rotted_gallows_large.3db0e3dfa19186867cb1601689bacd40d16732a8.png&width=240px||
+||||<width=270px><:>썩은 교수대의 보물||
+||<width=50px><:>출시일||<:>10월 28, 2014||
+||<:>희귀도||<:>{{{#8847FF 신화}}}||
+||<:>가격||<:>2900원 / $2.49 USD||
+||<:>비고||||
+
+||||||||||||||<:>획득 가능한 아이템||
+||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/awakened_thirst_loading_screen.d28634cdac09f4f63b99ddc59f1db5383f030fdf.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_fiend_cleaver.936e25d97c199469fb7dc5ea851e08536ca3675a.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_hells_bat.291d35fbbaf95ef5d06c0e6087c0dea3a68330df.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[죽음의 예언자]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[스벤]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[라이온(도타 2)|라이온]]||
+||||<:>죽음의 모권||||<:>마귀 척살자||||<:>지옥 날개의 유산||
+||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_battletrap.d9b348f1d184a0f18318ccdfafdc250ec97db129.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_dragons_touch.57405c873be3c1ee096168eb8a91afb89b0f8845.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_haze_atrocity.622af9409483d511756ce49c50125e4f8700cf68.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[태엽장이]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[드로우 레인저]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[리키(도타 2)|리키]]||
+||||<:>전투장이||||<:>장로고룡의 손길||||<:>살벌한 보복||
+||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_champion_discord.fd9cf30618d439198d1270feeee89a07ff34fd40.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_fungal_protector.99f0ee042aad646122784f32e988dcdf7dcc2f90.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[혼돈 기사]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[나무정령 수호자]]||
+||||<:>불화의 용사||||<:>번성하는 주름버섯||
+
+||||||||||||||<:>무작위 보너스 보상||
+||||<:>'''매우 희귀'''||||<:>'''극도로 희귀'''||
+||||http://cdn.dota2.com/apps/570/icons/econ/items/wards/echo_bat_ward/echo_bat_ward_npc_dota_observer_wards.dbdfaa7527d47bb3cd220c5239fd8d9f9cb29fec.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/bundles/babka_ward_bundle.5174397908bce0afe9e9627a66fb91f05c973ec5.png&width=240px||
+||<width=40px><:><#8847FF>{{{#white 신화}}}||<:>와드||<width=40px><:><#8847FF>{{{#white 신화}}}||<:>짐꾼, 와드 번들||
+||||<:>위기 탐지기 메아리||||<:>늙은 마녀 번들||
+=== 정상의 봉우리 보물 ===
+||<tablewidth=510px><width=240px><|6>http://cdn.dota2.com/apps/570/icons/econ/tools/summits_peak_large.780cabcbb4624b6ac3e2089a90f427cbacd46fec.png&width=240px||
+||||<width=260px><:>정상의 봉우리 보물||
+||<width=50px><:>출시일||<:>9월 30, 2014||
+||<:>희귀도||<:>{{{#4A67D4 고급}}}||
+||<:>가격||<:>2900원 / $2.49 USD||
+||<:>비고||<|2>판매 금액의 10%가 The Summit 2 토너먼트 총 상금에 추가됩니다||
+
+||||||||||||||<:>획득 가능한 아이템||
+||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/sunderered.5f52ea1575789624008b31237f807fad33fc12bd.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/dreadhawk.77009fbd3fab6f86e57918caf4b91f71cc4e9f17.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/carreau.02983f4caa9f5b9faeaa83bd1697a7ec6a123680.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[망령 제왕]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[복수 혼령]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[유령 자객]]||
+||||<:>분열된 왕의 유물||||<:>공포매 방어구||||<:>다이아몬드 여왕||
+||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/hiddenflower.132cb19ac258f7f547390a66d2c213a40f4efcf7.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[암살 기사]]||
+||||<:>비밀의 꽃||
+
+||||||||||||||<:>무작위 보너스 보상||
+||||<:>'''매우 희귀'''||||<:>'''극도로 희귀'''||
+||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/firefly.5391827600db236805515e79ce35bdfcd8576ee9.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/rainmaker.f08ac6374e0a5f97a5da714d839ea8115215c0fb.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[벌목꾼]]||<width=40px><:><#8847FF>{{{#white 신화}}}||<:>[[자이로콥터]]||
+||||<:>괴짜 기술자||||<:>집중폭격기 MK.VII||
+=== 담금질된 분노의 보물 ===
+||<tablewidth=510px><width=240px><|6>http://cdn.dota2.com/apps/570/icons/econ/tools/forged_fury_large.94db758370d06a63d876ca91134dceefcccb8f1a.png&width=240px||
+||||<width=270px><:>담금질된 분노의 보물||
+||<width=50px><:>출시일||<:>9월 17, 2014||
+||<:>희귀도||<:>{{{#5E98D9 고급}}}||
+||<:>가격||<:>2900원 / $2.49 USD||
+||<:>비고||||
+
+||||||||||||||<:>획득 가능한 아이템||
+||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/darkgabriel.af9abc5a4f4947c4674dfbc98baa6e523a1ca6c9.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/obsidianguard.afd5a29d06e34a8a60d60852f09bd7f61c531922.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/forgemaster.d3883cfd3a66ad26b0decbd8aa09eca0912a5382.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[악령(도타 2)|악령]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[외계 침략자]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[마그누스(도타 2)|마그누스]]||
+||||<:>변화무쌍한 창공||||<:>흑요석 수호자||||<:>집어삼키는 쐐기||
+||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/snowstorm.217708836f86d3f339bd669cda60a3dd3600081e.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/loading_screens/stalwart.8192e696314e0fee8ac20a94e31ae33f151e762c.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_iceborn_trinity.79404f99768dbe2d866a7dfa9daa0e9ef6897569.png&width=240px||
+||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[미라나]]||<width=40px><:><#4B69D8>{{{#white 희귀}}}||<:>[[전능기사]]||<width=40px><:><#8847FF>{{{#white 신화}}}||<:>[[나가 세이렌]]||
+||||<:>눈보라 여사냥꾼||||<:>충실한 영혼의 방어구||||<:>얼음숨결 삼중주||
+
+||||||||||||||<:>무작위 보너스 보상||
+||||<:>'''매우 희귀'''||||<:>'''극도로 희귀'''||
+||||http://cdn.dota2.com/apps/570/icons/econ/sets/dota_item_the_hunter_of_kings.2bdda53195753b95a0bc1a085b4c66be6e78970a.png&width=240px||||http://cdn.dota2.com/apps/570/icons/econ/items/courier/lilnova/lilnova.1451d676534af9e51e22a00118b835d481793afa.png&width=240px||
+||<width=40px><:><#8847FF>{{{#white 신화}}}||<:>[[늑대인간(도타 2)|늑대인간]]||<width=40px><:><#8847FF>{{{#white 신화}}}||<:>짐꾼||
+||||<:>왕의 사냥꾼||||<:>꼬마 노바||
+=== 수리공 손안의 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/menders_palm_large.015579961daaa3b38a00c5384af2eaccbca54332.png
+[[수정바람]]
+=== 흑마노 눈의 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/onyx_eye_large.799b40cb57093716195ad230b316944e195c154d.png
+[[수정바람]]
+=== 영원한 동맹의 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/treasure_of_the_eternal_alliance_large.146138785efc49caf93ac8e37bfd6eca9fa730f5.png
+[[수정바람]]
+=== 자연의 승전 기념 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/treasure_of_the_elemental_trophy_large.82c226a831f4b2fb44f05ad4e1db3f52ab1f0e22.png
+[[수정바람]]
+=== 뒤얽힌 기념 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/treasure_of_the_tangled_keepsake_large.98046b129ad2bde7aa9dfb99b9ff2b7f8ed9dc5a.png
+[[수정바람]]
+=== 대포 도화선 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/treasure_of_the_cannons_fuse_large.b6d681e623a45692198f10804df9fdda3fa75b90.png
+[[수정바람]]
+=== 덫사냥꾼의 생가죽 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/treasure_of_the_trappers_pelt_large.98131c3b3a4c477a2a9551b1db3f9d6e8eb5eb53.png
+[[수정바람]]
+=== 녹아내린 강철 보물 ===
+http://cdn.dota2.com/apps/570/icons/econ/tools/treasure_of_molten_steel_large.2d697d92134a2bc53fe5362c6e46360423797759.png
+[[수정바람]]
+== 판매 종료 보물 ==
+도타 2 상점에서 현재 구입 할 수 없는 보물상자, 대부분은 보물상자 열쇠로 별도로 획득 가능하다
+== 인게임 획득 보물 ==
+현재는 획득할 수 없으나, 인게임에서 얻고 상점에서 열쇠를 구입하여 여는식인 보물상자.
+2014년 패치 이후 잠겨있지 않는 상자로 바뀐건 제외된다
+[[추가 바람]] [[수정 바람]]
+=== Frosty Treasure of Frostivus ===
+=== Treasure of the Silent Grove ===
+=== Treasure of the Hunted Dragon ===
+=== Treasure of the Twins ===
+=== 다이어타이드의 섬뜩한 보물 2012 === 
+=== Treasure of the Wild Claw ===
+=== Treasure of the Rogue Knight ===
+=== Treasure of Challengers ===
+=== Treasure of Champions ===
+=== Treasure of Profound Mysteries ===
+=== The Defense 2 Chest ===
+=== Sithil's Summer Stash ===
+=== Treasure of the High Tide ===
+=== Treasure of the Ancestor Spirits ===
+=== 판골린 조합장의 보물 ===
+=== 붉은 안개 군단의 보물 ===
+=== 깊은 숲 드루이드의 보물 ===
+=== 상아 섬의 잃어버린 보물 ===
+[[추가바람]]
+== 한정 판매/배포 보물 ==
+=== 영웅의 승리 모음집 ===
+[[The International]] 2014 기록서 특전으로 배포 된 보물. 로딩 스크린 모읍집.
+=== 불멸 금고 ===
+[[The International]] 2014 기록서 특전으로 배포 된 보물. 이름 그대로 불멸 아이템이 들어있다.
+=== 갈라진 빛기둥 보물 ===
+[[넥슨]]에서 주최한 이벤트로 배포 된 보물. 한국서버 한정으로 배포 되었기 때문에 비교적 희귀하고 시세가 높히 형성되어있다.
+=== 첫돌맞이 보물 ===
+중국서버의 1주년 기념 이벤트로 배포 된 보물. 매우 높은 시세와 매우 높은 희귀성이 특징.
+[[추가바람]]

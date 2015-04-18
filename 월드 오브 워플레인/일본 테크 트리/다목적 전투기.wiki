@@ -1,0 +1,98 @@
+[[include(틀:월드 오브 워플레인)]]
+
+[[목차]]
+
+== 개요 ==
+
+== 기본 기체 ==
+==== Nakajima Type 91 - 1티어 ====
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/type-91.png|| 일본육군의 요청으로 프랑스 측과 공동개발하여 만들어졌다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Jupiter VI || 450 마력 || 330 kg || 공랭식 || 1티어 || 스톡 || 0 || 0 ||
+|| Jupiter VIIF.P || 520 마력 || 330 kg || 공랭식 || 1티어 ||  || 125 || 1.500 ||
+|| Kotobuki 2 || 580 마력 || 350 kg || 공랭식 || 2티어 || 최종 || 140 || 2.200 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.7mm Vickers-J(s) 2정 (C) || 28 || 400 || 7.7 || 744 || 46 || 1티어 || 스톡 || 0 || 0 ||
+|| 7.7mm Type-89(s) 2정 (C) || 33 || 670 || 7.7 || 747 || 40 || 2티어 || 최종 || 110 || 2.000 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Nakajima NC || 50 || 1150 || 1티어 || 스톡 || 0 || 0 ||
+|| Nakajima Type 91 || 60 || 1150 || 2티어 || 최종 || 50 || 1.200 ||
+
+일본군의 요청으로 프랑스 설계자와 함께 만든 비행기.
+
+7.7mm 비커스 기관총 2정이 기본무장. 조금더 쎈 89식 기관총으로 업그레이드 가능.
+
+무장은 다소 아쉬운 면이 많지만 엔진이나 선회력 모두 우수하므로 저속 선회전을 자주 걸어주자. 다만 헤드온과 같은 상황에선 밀리는 경향이 있으므로 초반에 교전할 때 적을 끌어들여 선회전으로 꼬리를 잡아내는 기술이 필요하다. 어차피 이 기술은 함상 전투기 트리를 탈거라면 주야장천 써먹을 기술이므로 잘 익혀두자. 
+
+== 정규 트리 ==
+=== Kyushu [[wiki:"J7W 신덴" J7W1 Shinden]] - 8티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/j7w1.png || 미국의 일본 본토폭격공습에 반격하기위해 개발된 국지전투기이다. 2대의 시제기체만 종전이 되기전에 만들어졌다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| MK9D || 2300 마력 || 1080 kg || 공랭식 || 8티어 || 스톡 || 0 || 0 ||
+|| MK9F || 2500 마력 || 1240 kg || 공랭식 || 9티어 ||  || 21.500 || 162.000 ||
+|| MK1B || 3100 마력 || 1520 kg || 공랭식 || 9티어 || 최종 || 29.200 || 179.000 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 20mm Type-99-2 Model 5(C) 4정 || 129 || 620 || 20 || 750 || 75 || 7티어 || 스톡 || 0 || 0 ||
+|| 30mm TYPE 2 (c) 4정 || 176 || 400 || 30 || 700 || 100 || 8티어 || || 23.500 || 301.000 ||
+|| 30mm TYPE 5 (c) 4정 || 220 || 500 || 30 || 760 || 120 || 9티어 || 최종 || 44.300 || 352.000 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 || 0 || 0 ||
+|| 250Kg 폭탄 1개 || 4400 || 100 || 250 || 6티어 ||  || 3.500 || 600 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| J7W1 Model || 280 || 3575 || 8티어 || 스톡 || 0 || 0 ||
+
+요구 경험치: 102.690, 가격: 2.540.000
+
+폭격기 요격용으로 설계된 기체. 2기의 프로토타입만 만들어져서 종전후 미군에게 포획되었다.
+오락실을 많이 들락거린 사람이라면 굉장히 낯익은 그 기체.
+
+=== Kyushu [[wiki:"J7W 신덴" J7W2 Shinden Kai]] - 9티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/j7w2.png || 제트엔진을 장착한 J7W1이다 일본 항복 후 청사진으로만 존재한다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 출력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Ne-130 || 1000 || 890 kg || 제트 || 9티어 || 스톡 || 0 || 0 ||
+|| Ne-230 || 1390 || 930 kg || 제트 || 9티어 ||  || 27.500 || 180.000 ||
+|| Ne-330 || 1500 || 1025 kg || 제트 || 10티어 || 최종 || 39.000 || 230.000 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 20mm Type-99-2 Model 5(C) 4정 || 129 || 620 || 20 || 750 || 75 || 7티어 || 스톡 || 0 || 0 ||
+|| 30mm TYPE 5 (c) 4정 || 220 || 500 || 30 || 760 || 120 || 9티어 ||  || 44.300 || 352.000 ||
+|| 30mm TYPE 17 (c) 4정 || 242 || 600 || 30 || 760 || 140 || 10티어 || 최종 || 57.500 || 340.000 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 || 0 || 0 ||
+|| 250Kg 폭탄 1개 || 4400 || 100 || 250 || 6티어 ||  || 3.500 || 600 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| J7W2 Model || 340 || 3970 || 9티어 || 스톡 || 0 || 0 ||
+
+요구 경험치: 195.750, 가격: 3.500.000
+
+J7W1의 제트 추진방식. 일본의 항복후 기초 설계만 발견됨.
+
+=== Kyusyu [[wiki:"J7W 신덴" J7W3]] - 10티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/j7w3.png || 청사진으로만 존재하는 J7W의 개발형으로 일본의 항복으로 프로젝트는 더 이상 이어지지 않았다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 출력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Ne-440 || 1800 || 1200 kg || 제트 || 10티어 || 최종 || 0 || 0 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 30mm TYPE 17 (c) 4정 || 242 || 600 || 30 || 760 || 140 || 10티어 || 최종 || 0 || 0 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 || 0 || 0 ||
+|| 250Kg 폭탄 1개 || 4400 || 100 || 250 || 6티어 ||  || 3.500 || 600 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| J7W3 || 380 || 4100 || 10티어 || 최종 || 0 || 0 ||
+
+요구 경험치: 233.100, 가격: 6.000.000
+
+J7W의 후계기로 개발. 종전후 개발중지.

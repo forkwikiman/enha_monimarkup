@@ -1,0 +1,79 @@
+http://www.jeffstrainsite.com/railfan_pics/Class_One/Norfolk_Southern/locomotive/ns_es40dc_7550.jpg&width=100%
+
+http://4.bp.blogspot.com/_ok2qTkEnPhw/TN7XHtvpnxI/AAAAAAAAAWo/zETcQ5iBfZo/s1600/New11810.jpg&width=100%
+
+http://dccinstalled.files.wordpress.com/2009/12/up_gevo.jpg&width=100%
+
+http://www.jeffstrainsite.com/railfan_pics/Class_One/BNSF/locomotive/bnsf_es44c4_6890.jpg&width=100%
+위에서부터 ES40DC, ES44DC, ES44AC, ES44C4
+
+http://www.railpictures.net/images/d1/0/1/7/5017.1264038426.jpg&width=100%
+
+[[목차]]
+== 개요 ==
+'''GE Evolution Series'''
+'''[[제너럴 일렉트릭]] [[에볼루션]] 시리즈'''
+
+[[미국]] 'GE'에서 개발한 4,000~4,400[[마력]] 디젤-전기 기관차 라인업.
+
+[[2005년]]에 발효된 미국 환경청(United States Environmental Protection Agency)의 티어 2 환경규제 조건에 맞춰 개발된 친환경 기관차로 [[2003년]] 첫번째 차량이 출고되었다. 이전 모델인 GE 대쉬 9 시리즈와 외형이 매우 흡사하나 내부적으로는 많은 차이가 있는데 대표적인것이 GEVO [[디젤]][[엔진]]. 항공업계의 친환경 엔진으로 GEnx [[터보팬]]이 있다면 [[철도]]업계의 친환경 엔진으로는 바로 이 GEVO 디젤엔진이 있는데 고효율 저공해뿐만 아니라 [[엔진 다운사이징]]을 통해 기존 16기통 기관차 엔진들과 달리 12기통으로 동급 출력을 뽑아내는 우수한 엔진이다.
+
+세부적으로 ES40DC, ES44DC, ES44AC, ES44C4 네가지 형식이 존재한다.
+
+=== ES40DC ===
+'''E'''volution '''S'''eries, '''40'''00마력, '''[[DC]]'''[[모터]]
+
+대쉬 9-40CW를 대체하는 형식으로 4,000마력 직류모터 모델.
+
+=== ES44DC ===
+'''E'''volution '''S'''eries, '''44'''00마력, '''DC'''모터
+
+대쉬 9-44CW를 대체하는 형식으로 4,400마력 직류모터 모델.
+
+=== ES44AC ===
+'''E'''volution '''S'''eries, '''44'''00마력, '''[[wiki:"교류" AC]]'''모터
+
+AC4400CW를 대체하는 형식으로 4,400마력 교류모터 모델.
+
+=== ES44C4 ===
+'''E'''volution '''S'''eries, '''44'''00마력, '''A'''C모터, '''4'''동력축
+
+기본사양은 ES44AC와 동일하지만 [[대차]] 형식이 C-C가 아닌 A1A-A1A으로 동력축이 6축에서 4축으로 줄어든 모델.
+
+== 특징 ==
+{{{#!html
+<iframe width="600" height="338" src="http://www.youtube.com/embed/PoQso-zjZsE?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+1분 10초부터 엔진시동.
+
+[[wiki:"4행정 기관" 4행정]] GEVO 디젤엔진 특유의 겔그렁 거리는 엔진음으로 유명하다.
+
+4천 마력급의 강력한 출력과 뛰어난 범용성으로 EMD SD70 시리즈와 함깨 [[유니온 퍼시픽]]과 [[BNSF]]의 주력 기관차 자리를 양분하는 차종이다. 미국의 간판격 디젤-전기 기관차.
+
+== 운용 ==
+유니온 퍼시픽, BNSF 외 12개 철도[[회사]]에서 운용 되고있다.
+
+ * Cartier Railway
+ * Canadian National
+ * Canadian Pacific Railway
+ * Citirail/CREX
+ * Cemex
+ * CSX Transportation
+ * Ferromex
+ * Ferrosur
+ * Iowa Interstate Railroad
+ * Kansas City Southern
+ * Kansas City Southern de México
+ * Norfolk Southern Railway
+
+== 제원 ==
+|| '''제작사''' ||GE||
+|| '''제작시기''' ||2003년 ~ 현재||
+|| '''대차형식''' ||C-C (Co'Co'), ES44C4 : A1A-A1A||
+|| '''전장''' ||73[[피트]] 2인치 (22.3m)||
+|| '''연료 탑재량''' ||5,000 US갤런 (18,900리터)||
+|| '''엔진''' ||1x GE GEVO V12 [[wiki:"과급기" 터보]]디젤, 4,400마력 (3,280kW), ES40DC : 4,000마력 (2,980kW)||
+
+== 관련 항목 ==
+ * [[철도차량 관련 정보]]
+ * [[미국의 철도 환경]]

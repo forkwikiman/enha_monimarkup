@@ -1,0 +1,42 @@
+[[목차]]
+
+== 곡 정보 ==
+{{{#!html
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Ae8cvHl8VK8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+'''보통 보면'''
+
+{{{#!html
+<iframe width="640" height="360" src="https://www.youtube.com/embed/a-d8eIJt0SM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+''' 현인 보면'''
+
+{{{#!html
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1QNH4kZUuTs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+'''달인 보면'''
+
+||<-999><bgcolor=#9D75BE> もじぴったんメドレー ||
+||<-3> BPM ||<-999> 168 ||
+||<-999> NAC 기준 ||
+||<|2> 난이도 ||<bgcolor=#f66f05> 간단 ||<bgcolor=#3cd219> 보통 ||<bgcolor=#088da5> 어려움 ||<bgcolor=#e770e3> 오니 ||
+|| {{{#f66f05 4}}} || {{{#green 4}}}[* DS는 6] || {{{#002040 3}}}[* PSP는 5] || {{{#purple 7}}}[* PS2과 AC 8,9는 6 DS는 8] ||
+|| 노트 수 || {{{#f66f05 200}}}[* AC는 201] || {{{#green 338}}} || {{{#002040 489}}} || {{{#purple 739}}}[* 보통보면 500 현인보면 588]||
+|| 수록 버전 ||<-999>AC 4, 8~14, PS2 1대목, TDM
+PSP 1, Wii 초호화판, DS 1, iOS||
+||||비고||||보면분할 존재||
+
+[태고의 달인] 수록곡.
+곡명은 남코의 퍼즐게임인 [말의 퍼즐 모지핏탄]의 모지핏탄메들리(もじぴったんメドレー)
+AC 4 처음으로 수록돼었다.
+AC 8부터 14까지 수록돼었지만 NAC에는 수록돼지않았다.
+원래장르는 남코오리지날이였는데 AC 10부터 게임뮤직로 이동돼었다.
+보통,현인보면은 그나마 쉬운편이지만 달인보면은 체력이 어느정도 필요하고 매우 어려운편이다.
+(7레벨 입문곡으로는 약간무리가 있는것 같다.)
+Wii 초호화판과 iOS에도 수록돼었다.
+
+== 가사 ==
+가사는 [추가바람]

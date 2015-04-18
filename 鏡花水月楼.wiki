@@ -1,0 +1,51 @@
+https://remywiki.com/images/3/3c/KYOKA-SUIGETSU-ROW_%28GFDM_EDITION%29.jpg?width=240
+기타드럼 버전의 자켓.
+
+'''경화수월루'''
+
+[[목차]]
+
+== 개요 ==
+
+[[BEMANI 시리즈]]의 수록곡. [[TЁЯRA]]와 일본 비주얼계 펑크 밴드인 우주전대NOIZ(宇宙戦隊NOIZ)와의 합작으로, AC 기타드럼 V5와 가정용 댄스 댄스 레볼루션 후루후루♪파티에 수록되었다.
+
+두 버전의 음원은 비슷하지만 기타드럼음을 강조했느냐(기타드럼 버전)와 킥음과 후반부의 피아노음을 강조했느냐(DDR 버전)의 차이점이 있다. 이러한 구분은 [[Sacred Oath]]로 계승.
+
+TЁЯRA의 두번째 앨범인 [[ЁVOLUTIΦN]]에 롱버전이 수록되어 있다.
+
+=== [[기타프릭스]] & [[드럼매니아]] (鏡花水月楼 (GFDM EDITION)) ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/lHZGD9HWe7k" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 175 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 35}}} || {{{#orange 61}}} || {{{#red 69}}} ||
+|| 기타 오픈픽 || {{{#green 36}}} || {{{#orange 63}}} || {{{#red 69}}} ||
+|| 기타 베이스 || {{{#green 30}}} || {{{#orange 52}}} || {{{#red -}}} ||
+|| 드럼매니아 || {{{#green 25}}} || {{{#orange 42}}} || {{{#red 66}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 175 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 4.05}}} || {{{#orange 5.60}}} || {{{#red 7.45}}} ||
+|| 기타 베이스 || {{{#blue 3.65}}} || {{{#orange 5.55}}} || {{{#red 7.30}}} ||
+|| 드럼매니아 || {{{#blue 4.00}}} || {{{#orange 5.90}}} || {{{#red 6.75}}} ||
+
+첫 수록은 V시리즈는 V5, XG 시리즈는 XG2. BGA는 전용 BGA를 사용한다.
+
+=== [[댄스 댄스 레볼루션]] (鏡花水月楼 (DDR EDITION)) ===
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/Urm94PprflI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|2> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| 175 || {{{#blue 2}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 9}}} ||
+아직 아케이드에 이식되지 않았으므로 フルフル♪パーティー 당시의 표기 난이도를 따름.
+
+wii용 DDR フルフル♪パーティー (북미명 HOTTEST PARTY2)에 수록되었다. 더블 플레이가 없는 이유는 フルフル♪パーティー는 더블 플레이 시스템 자체가 없기 때문이다[* 이는 Music Fit와 HOTTEST PARTY도 동일하다. 그런 이유로 이 3개 기종으로부터 아케이드 DDR로 이식된 곡(ex: [[SILVER☆DREAM]], [[Somehow You Found Me]], [[SUPER HERO]], [[Habibe (Antuh muhleke)]] 등)의 더블 보면은 모두 새로 만들어진 보면이다.]. DDR 2014엔 아직 이식되지 않았다.

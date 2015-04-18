@@ -1,0 +1,33 @@
+[[비트매니아 IIDX 20 tricoro]]의 수록곡.
+
+||||||||||<#ff0000> [[LEGEND CROSS]] - [wiki:"비트매니아 IIDX 20 tricoro" beatmania IIDX 20 tricoro] / RED ||
+||<|6><:> EXTRA || [[ΕΛΠΙΣ]] ||<|6><:> One More EXTRA ||<|6><:> [Plan 8] ||
+|| [[S!ck]] ||
+|| [[rumrum triplets]] ||
+|| [[SYNC-ANTHEM]] ||
+|| '''CONCEPTUAL''' ||
+|| [[Thor's Hammer]] ||
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/XVVRdu4_M-0?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 198  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 417}}} || {{{#orange 7}}} || {{{#orange 689}}} || {{{#red 11}}} || {{{#red 1391}}} || {{{#blue 5}}} || {{{#blue 437}}} || {{{#orange 8}}} || {{{#orange 708}}} || {{{#red 11}}} || {{{#red 1412}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 20 tricoro ~
+
+[[비트매니아 IIDX]] 20 tricoro의 수록곡. [[LEGEND CROSS]]의 일원 중 하나다. 작곡은 [[후지모리 소타]]. [[리플렉 비트 콜레트]]에서 [[GLITTER]]를 통해 선보인 명의 중 하나인 Sota Fujimori 2nd Season을 사용하였다. 14 GOLD와 19 Lincle의 아스트란의 빛을 얻으면 해금 가능하다. 각 빛의 해금 조건은 아래와 같다.
+
+||5||{{{#gold '''GOLD'''}}}||전 시리즈 폴더에서 해금하려고 하는 난이도 체계(노멀, 하이퍼, 어나더)를 적어도 한 곡씩은 클리어한다||
+||10||{{{#Turquoise '''Lincle'''}}}||남은 선택시간의 1의 자릿수가 순서대로 '''5,7,3''' 일때 곡을 선곡한다.||
+
+Lincle 조건을 눈치채지 못한 탓에 레전드 크로스 곡들 중에서 가장 정보가 적은 곡이다(...). 거기에 소타의 [wiki:"E(비마니 시리즈)" 원조 드립곡(...)] [[New Decade]]가 이식됨으로써 존재감이 좀 많이 옅어지고 있다. 참고로 CS 14 GOLD가 출시된 2008년엔 후지모리 소타의 첫 앨범인 SYNTHESIZED가 발매되었고. 19 Lincle이 가동된 2011년에는 SYNTHESIZED 3가 발매된 적 있다.
+
+채보의 특징은 주로 동시치기+트릴 위주의 채보. 동시치기와 트릴이 어려운 사람에게는 어려운 채보가 되겠지만 반대로 쉬운 사람에게는 쉽게 느껴질수도 있는 개인차가 좀 큰 채보다.
+
+타 LEGEND CROSS 곡들이 해당 시리즈의 곡들의 프레이즈를 인용한데 비해 본 곡은 유일하게 프레이즈가 아닌 과거에 사용했던 [[신시사이저]]를 집결 시킨 곡으로, 시간 순서대로 Cyber Force → [wiki:"ANDROMEDA"ANDROMEDA II] → The Story Begins → Lucky Days →prompt의 신시사이저 음들이 차례로 흘러나온다.
+
+레이어는 [wiki:"지니" 램프의 요정]이 생각나는, [[불]]을 모티브로 한 남성. AUK-YAM이라는 신인 그래픽 아티스트가 제작하였다.

@@ -1,0 +1,60 @@
+ * 해당 항목은 골드 소스의 [[wiki:"게임 엔진" 엔진]]의 [[MOD]]들을 다루고 있습니다.
+
+[[목차]]
+== 스탠드 얼론 (MOD > 독립 게임) ==
+ * [[건맨 크로니클스]][* 이건 원래 리울프사가 퀘이크 MOD로 개발하다 골드소스 (하프라이프 엔진)으로 옮겨와 상업화시키는데까지 성공했으나... 흑역사가 되고 말았다. 국내에선 [한빛소프트]가 유통을 맡았다.]
+ * [[데이 오브 디피트]]
+ * [[카운터 스트라이크]]
+== [[하프라이프]] MOD ==
+=== 싱글플레이어 MOD ===
+ * [[맥기의 모험]]
+ * [[파라노이아]]
+ * [[Afraid of Monsters]]
+ * Azure sheep[* 이거에 대해선 http://blog.naver.com/toxagen/memo/80075126998 참고 바란다. ]
+ * Big Scientists
+ * Case Closed
+ * [[Counter-Life]][* 하프라이프 싱글 레벨을 카운터-스트라이크의 무기로 진행하는 MOD. 일부 무기엔 추가기능이나 바뀐점이 있다 예를 들면 글록의 3연사 기능이 완전 자동연사로 됐다던지.(기관단총처럼 연발로 나간다.) P90에 AUG처럼 줌기능이 생겼다던지. M4A1에 유탄발사기능이 생겼다던지 약간의 차이점이 있다.]
+ * [[Cry of Fear]]
+ * [[ETC 시리즈]]
+ * [[G-man Invasion]]
+ * Go-Mod [* 게리 모드가 하프라이프1에 들어갔다고 보면된다.]
+ * [[Halfquake 시리즈]]
+ * [[Heart of Evil]]
+ * INSTINCT
+ * Need for Energy
+ * [[Parallax]]
+ * Peace like us[* 볼티간트를 포함한 젠의 외계인들이 블렉메사 사람들과 함께 일한다는 훈훈한(?) 주제의 MOD. 참고로 하프2처럼 직접 싸우지는 않고 하는 일이라곤 '''단지 막힌 통로나 문을 뚫어주는 기계일뿐!!''' 참고로 제작자는 일본인.]
+ * Point of View[* 아주얼 쉿 만든 인원들이 새로 만든거. 케이트를 끌고 다니지 않아도 된다는 측면에서 전작보다 몇배 낫다.]
+ * [[POKE 646]] 시리즈
+ * [[Residual Life]] ([방사능 작업실]- 한국)
+ * [[Residual Point]] ([방사능 작업실]- 한국)
+ * [[Scientist Slaughterhouse]][* 박사 도축장, 흔히 말하는 박사 학살 MOD는 이걸 뜻한다.]
+ * [[Someplace Else]]
+ * [[Sweet Half-Life]][* Peace like us 제작자가 만들었다. 참고로 엔딩/루트가 우주선/지상으로 나뉘고 제작자는 훗날 [남코]의 게임기용(!) CS 프로젝트에 참가한다.]
+ * The Haunted Lab
+ * The Long Night
+ * [[They Hunger]] 시리즈
+ * Uss Darkstar[* 데이 헝거 제작진의 또다른 작품. 여기는 우주선이 주요 배경.]
+ * Xeno Project
+ * [[Xen Warrior]]
+ * [[Zombie Edition]]
+=== 멀티플레이어 MOD ===
+ * [[브레인 브레드]][* 좀비 아포칼립스를 주제로 한 모드. 뇌빵으로도 불렸다.]
+ * Earth's special forces[* [드래곤볼] 시리즈를 원작으로 한 MOD.]
+ * [[Half-Life rally]]
+ * [[Half-screwed]]
+ * [[Natural Selection]]
+ * [[PS07/Surprise]] (한국)
+ * Ricochet[* 밸브가 개발/배포한 실험용 MOD, 플레이어들이 총기대신 접시 가지고 승부를 본다.]
+ * Rocket Crowbar[* [[빠루]]에 로켓을 묶어놓고 한번 휘두를 때마다 로켓이 날아가는 엽기 MOD. 제작자는 이 MOD 이외에도 봇도 제작, [[Natural Selection]]에서도 봇이 돌아간다.]
+ * [[Science and Industry]]
+ * [[Scientist Hunt]]
+ * [[Sven coop]] 맵을 다른이와 함께 역할을 분담하고 협동해 깨나가는 모드.
+ * [[The Specialists]]
+ * The Trenches[* [1차 세계대전]을 배경으로 참호를 드나들며 총질하는 멀티플레이  MOD, 하지만 릴리즈후 반짝하고 흥하다 사람이 줄어듬과 동시에 거의 도태될까 말까하게 되다시피한 MOD.]
+
+=== [[하프 라이프: 어포징 포스]] 클라이언트를 포함한 하프라이프 싱글플레이 MOD[* 어포징 포스 클라이언트를 포함하지 않고 그쪽 맵으로만 나온 경우는 제외.] ===
+ * [[Focalpoint]]
+ * Nuclear Winter
+
+[[각주]]

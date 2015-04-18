@@ -1,0 +1,33 @@
+ [[닌텐도 3DS]]에 탑재된 GPU
+
+제작은 일본 '디지털 미디어 프로패셔널ディジタルメディアプロフェッショナル'
+
+대략적인 스펙은...
+
+Frame buffer: Maximum 4095×4095 pixels 
+Pixel format: RGBA4444, RGB565, RGBA5551, RGBA8888 
+Vertex program (ARB_vertex_program) 
+Render to texture 
+mipmap 
+Bilinear texture filtering 
+Alpha blending 
+Full-scene antialiasing (2×2) 
+Polygon offset 
+8-bit stencil buffer 
+24-bit depth buffer 
+Single/Double/Triple buffer 
+Vertex performance: Maximum 15.3M polygons/sec (at 200MHz) 
+Pixel performance: Maximum 800M pixels/sec (at 200MHz)[* 4파이프라인의 경우고 8파이프라인을 채택한 경우는 1600M pixels/sec이다] 
+DMP MAESTRO technology
+Per-pixel lighting 
+Procedural texture 
+Refraction mapping 
+Subdivision primitive 
+Shadow 
+Gaseous object renderin 
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/KrGvaZrzMhA?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrGvaZrzMhA?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+닌텐도가 AMD-ATI나 엔비디아제 GPU가 아닌 자국 중소기업의 GPU를 탑재한게 약간의 화제를 불렀다.

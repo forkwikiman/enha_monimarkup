@@ -1,0 +1,63 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 || [[DJMAX TECHNIKA 3]] ||
+|| 장르 || Electro HipHop ||
+|| [[BPM]] || 102 ||
+|| 작곡 || C. Morgan ||
+|| 보컬 || Mr.Thoro(Aspektz) ||
+|| BGA || Sampal(원화), Carrotjuice(모션) (3 CREW CHALLENGE) [[br]] DumpingLife, ENTIA J, ECO (TECHNIKA Q) ||
+
+{{{#!HTML
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/_pvNq3sKQ_w?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_pvNq3sKQ_w?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+약칭은 '''티닷'''.
+
+Mr.Thoro(Aspektz)의 2010년에 발매한 디지털앨범 Academic Probation: Detention의 수록곡이다. 신스음과 비트가 두드러지는 곡이다.
+제목의 표기 때문에 발음을 '인더 트닷'이라고 하는 사람들이 간혹 있는데, 곡을 들어보면 알겠지만 '인더 '''티'''닷'이 맞다.
+
+== [[DJMAX TECHNIKA 3]] ==
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 250 Max || 1 || || ||
+||<#FFFF00> Normal || C || 250 Max || '''1''' || '''4박 스크롤''' || [[wiki:"New Beginning"미션 - Touch to Start]] 수록, ※[[지뢰곡]][* 레벨 1에서 지뢰곡이면 얼마나 어렵겠냐만은.... 일단은 1레벨에 있는 다른 곡보다는 어렵다.] ||
+||<#0000FF> Hard || B || 750 Max || 4 || 4박 스크롤 || 넷이 꺼져있을 때 크루 레이스에서 플레이 가능 ||
+||<#FF0000> Maximum || A || 2500 Max || 6 || 4박 스크롤 || [[Saturday Night Set]] 셀렉곡, [[wiki:"New Beginning"미션 - 신의 손길]] 수록 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/7gyQ14fU6GY" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+특이하게 발매 당일 모든 패턴이 공개되었다.[* HD패턴의 경우에는 크루 레이스의 넷이 꺼져있을 때의 견본 코스에 수록되어 있다. 하지만 특성상 이걸 알아내기까지 발매후 1주일이 걸렸다.] MX패턴은 테크니카 3에서 처음 등장한 드래그+분홍노트 동시입력[* 정확히 말하자면 처음이 아닌게, 테크니카 1때부터 등장한 [[SuperSonic]] MX 패턴에 딱 한 번 등장한다. 본격적으로 등장한 것은 테크니카 3.]이나 홀딩 롱노트를 넘어가는 연결형 노트 등 변태같은 조합이 많지만  BPM도 느긋하고 키음도 매우 [wiki:"찰지구나"찰지기]때문에 연주하는 손맛이 느껴지는 곡.~~더군다나 bga도 찰지다.~~
+
+후에, 2011년 11월 22일 2차 맥스포인트샵 업데이트에서 하드패턴이 크루포인트 아이템으로 등장하였다.
+
+BGA 중간에 검은 모자를 쓰고있는 [[흑형]]이 DJ 아이콘으로 나와있는데, 그 아이콘을 얻을 수 있던 미션이 하필 악명높던 [wiki:"TechniColor"네온 스크래치]였다. 덕분에 한동안 이 아이콘은 엄청난 상징이였다. --지금은 쉬워져서 많이 하락했지만.--
+
+== [[DJMAX TECHNIKA TUNE]] ==
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 1 || ||
+||<#0000FF> {{{#white POP}}} || 3 || ||
+||<#FF0000> CLUB || 6 || [[Electro-Hip Set]] 셀렉곡 ||
+
+== [[DJMAX TECHNIKA Q]] ==
+
+|||||||||||||| [DJMAX TECHNIKA Q]의  기본 수록곡 ||
+|| '''In the Tdot''' || [[Raise me up]] || [[Lover]] || [[Oblivion]] || [[Ray of Illuminati]] || [wiki:"Eternal Fantasy ~유니의 꿈~"Eternal Fantasy (Miya Vocal Mix)] || [[모차르트 교향곡 40번 1악장]] ||
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|| 패턴 || 난이도 (2라인/3라인)|| 비고 ||
+||<#FFFF00> ORIGINAL || 1 / 1 ||
+||<#0000FF> {{{#white PREMIUM}}} || 2 / 3 ||
+||<#FF0000> SIGNATURE || 5 / 5 ||
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/xab1ZnUldlU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+3라인 SIGNATURE 플레이 영상
+
+BGA가 ~~[[심의]]에 걸릴까봐~~ 펜타비전 생존 당시 만들어진[* DJMAX TECHNIKA TUNE 제작 전이던 네오위즈 게임즈 산하일 시기에 제작한 펜타비전 사내 워크샵용 영상으로 바뀌었다(...). TUNE의 영상 특전으로 수록되어 있기도 하다] 듯한 [wiki:"Oblivion" Oblivion rockin' night style']의 BGA를 제작한 ENTIA J, [ECO], DumpingLIFE 삼총사가 등장하는 BGA로 변경되었다. --[wiki:"Son of Sun"욕나오는] [wiki:"Thor"카드]-- ECO만 모자가 아닌 흰 수건을 쓰며, Dumping Life와 ENTIA J는 검은 모자를 거꾸로 쓰고 있다. 춤실력은 괜찮은 편으로 보인다. --그리고 농구로 괜히 도전했다 털린 한 분 지못미--

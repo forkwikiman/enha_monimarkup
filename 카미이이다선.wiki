@@ -1,0 +1,40 @@
+||<-4><#333333><table align=center><:>[wiki:"나고야 시영 지하철" <span style="font-weight:bold;color:white">나고야 시영 지하철 운행 노선</span>] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg/40px-Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg.png||<#eeeeee> [[히가시야마선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg/40px-Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg.png||<#eeeeee> [[츠루마이선]] ||
+||<|2><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg/40px-Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg.png||<#eeeeee> [[메이죠선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg/40px-Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg.png||<#eeeeee> [[사쿠라도오리선]] ||
+||<#eeeeee> [[메이코선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg/40px-Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg.png||<#ff66c4> '''{{{#ffffff 카미이이다선 }}}''' ||
+
+||<table align=left><#ff66c4><:>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nagoya-subway1.svg/60px-Nagoya-subway1.svg.png ||
+|| {{{+1 上飯田線 / '''K'''amiiida line}}} ||
+ * [[일본 철도 정보/노선 관련 정보]]
+http://upload.wikimedia.org/wikipedia/ja/c/ce/Pc031970.jpg
+[[목차]]
+== 개요 ==
+||||<#ff66c4> {{{#ffffff 7호선 카미이이다선}}} ||
+||운영기관 ||나고야 시 교통국 ||
+||영업거리 ||0.8km ||
+||궤간 ||1067mm ||
+||역수 ||2 ||
+||전기 ||직류 1500V 가공전차선 방식 ||
+||편성 ||4량 ||
+||신호방식 ||CS-ATC||
+||영업최고속도 ||75km/h ||
+||차량기지 ||이누야마 검차구[* 나고야 철도 히로미선에 위치. 카미이이다선의 열차는 전부 메이테츠 측에서 관리한다.] ||
+||지상구간 ||없음 ||
+
+[[나고야 시 교통국]]에서 운영하는 [[나고야 시영 지하철]]의 노선으로 노선의 이미지 컬러는 분홍색이다. 전 구간의 거리가 0.8km에 불과한 일본에서 가장 짧은 지하철 노선으로 [[나고야 철도]] [[wiki:"메이테츠 코마키선" 코마키선]]과 전구간 직결운행을 하고 있다.
+
+카미이이다선의 기점인 [[카미이이다역]]은 이 노선이 생기기 전에는 [[메이테츠]] 코마키선의 종점역이자 시영전차와의 환승역할을 하고 있던 역이었으나 1971년의 전차운행 폐지를 계기로 나고야 도심지와의 환승기능을 상실하고, 이로 인해 코마키선의 이용객들은 환승을 위해 카미이이다역에서 약 1km가량 떨어진 지하철 [[메이죠선]]의 헤이안도리 역까지 도보로 이동해야 하는 불편을 겪게 된다. 이러한 불편을 해소하기 위해 카미이이다~헤이안도리 구간에 지어진 노선이 카이이이다선으로 2003년에 개통되었다.
+
+카이이이다선의 선로는 카미이이다 연락선 주식회사라는 민자회사가 건설해 제3종 철도사업자의 형태로 보유하고 있으며 나고야 시 교통국이 제2종 철도사업자로서 노선을 운영하고 있다. 하지만 운행업무는 2007년 이후 메이테츠 측에 위탁한 상태로 사실상 코마키선의 일부라고 봐도 무방한 상황이다. 일설에는 메이테츠에서 이 구간의 공사비를 떠안고 싶지 않았기 때문에 이런 형태가 돼버렸다는 이야기도 있다.
+
+노선을 운행하는 열차는 교통국 소속 7000형 열차와 나고야 철도 소속의 300계 열차로 일반적인 지하철의 차량와는 다르게 크로스시트 형태의 좌석이 배치되어 있다. 또한 카이이이다선은 다른 지하철 노선들과 인입선으로 연결되어 있지 않으므로 열차의 관리 및 검수를 메이테츠 측에서 담당하고 있다.
+
+2012년 8월 21일, 나고야 시영 지하철 노선 중 최초로 모든 역의 문서 작성이 완료되었다.--그래봤자 2개--
+
+== 노선 ==
+|| 번호 || 역명 || 승강장 || 환승노선 ||
+||<-4>↑나고야 철도 코마키선 이누야마 방면 ||
+|| K-01 || [wiki:"카미이이다역" 카미이이다][* 공동사용역으로 역 시설은 카미이이다 연락선 주식회사가 소유, 역 업무는 나고야 철도측이 담당하고 있다.][[br]]上飯田 || 섬식 || ||
+|| K-02 || [wiki:"헤이안도리역" 헤이안도리][[br]]平安通 || 섬식 ||¶[[나고야 시영 지하철]] [[메이죠선]](M-11) ||
+
+[[footnote]]

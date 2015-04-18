@@ -1,0 +1,42 @@
+[[목차]]
+
+== 개요 ==
+attachment:Screaming_Your_Faith.png
+
+[[BEMANI 시리즈]]의 악곡. 아티스트 명의는 [[이토 켄지|itoken]] vs. [[96]] 이토 켄지의 전작인 [[OVER THE LIMIT!]]와 [[Shake and Shout!!]]에 이어서 제목에 느낌표 표기가 하나 늘어났다.
+
+[[GITADORA]]와 [[리플렉 비트 콜레트]] 섬머 시즌에 동시수록 되었다.
+
+== [[GITADORA]] ==
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/o9JwpOUXVJM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> BPM 값 ||<|2><:> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 2.70}}} || {{{#orange 5.40}}} || {{{#red 7.20}}} ||
+|| 기타 베이스 || {{{#blue 3.00}}} || {{{#orange 4.60}}} || {{{#red 5.90}}} ||
+|| 드럼매니아 || {{{#blue 2.40}}} || {{{#orange 4.90}}} || {{{#red 8.05}}} ||		
+
+== [[리플렉 비트 시리즈]] ==
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/buuZZBge7RQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||<#81e3ff>[[리플렉 비트 콜레트]] FINAL 전용 곡 / Summer ||
+|| [[examination leave]] ||
+|| '''Screaming Your Faith!!!''' ||
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> BPM 값 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 166}}} || {{{#orange 288}}} || {{{#red 476}}} ||
+|| 수록버전 ||||||||<#81e3ff> [[리플렉 비트 콜레트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 50 ||
+
+
+examination leave가 정박계열로 재밌는 10레벨 패턴을 보여줬다면 이곡은 정반대로 엇박과 탑발광으로 짜증나는 10레벨을 보여준다. 그래서 박자를 놓치면 스코어링이 조금 힘들어 진다.
+
+어드밴스와 노말도 만만치 않은 엇박과 트릴로 스코어링이 만만하지 않다

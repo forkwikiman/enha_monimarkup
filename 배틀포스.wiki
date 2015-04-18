@@ -1,0 +1,214 @@
+[[목차]]
+
+== 개요 ==
+ * BattleForce(1987)는 [[배틀테크]]의 중대 규모 이상 대규모 전투 규칙이기도 하다. 클래식 배틀테크 최신 판본으로 개정되면서는 대규모 전투 규칙은 Strategic Operations에서 취급하고 있다.
+
+{{{+1 '''Battleforce'''}}}
+
+[[게임즈 워크숍]]에서 [[Warhammer 40,000]]의 각 진영의 미니어처를 싸게 구할수 있도록 세트화한 상품. [wiki:"Warhammer" 워해머 판타지]의 [wiki:"바탈리언(Warhammer)" 바탈리언]과 같다. 그레이 나이트를 제외하면 각 진영마다 기본적으로 1개의 배틀포스가 있으며, [[임페리얼 가드]]는 카디안 쇼크 트루퍼와 카타찬 정글 파이터 버전의 두 종류가 있다.
+
+이렇게 배틀포스로 구매하는 것이 각 모델을 단품으로 구매할 때보다 싸게 구할 수 있기 때문에 처음 Warhammer 40,000에 입문하여 막 모델을 모으기 시작한 사람들은 주로 배틀포스를 구입한다. 예를 들어 임페리얼 가드 배틀 포스는 가드맨 스쿼드 2세트, [[커맨드 스쿼드]] 1세트, 헤비웨폰 스쿼드 1세트, 센티넬 1기의 구성으로 약 500포인트 정도가 되면서 가격이 $115인데, 이걸 단품으로 구하면 가드맨 스쿼드가 $29X2=&58, [[커맨드 스쿼드]]가 $25, 헤비 웨폰 스쿼드가 $38.75, 센티넬이 $30으로 총 $151.75로 배틀포스가 더 저렴하다.
+
+다만, 각 진영마다 병종들이 이것저것 들어있긴 하지만 HQ가 포함되어 있지 않다던가 하는 등 뭔가 구성이 약간 부족하게 되어있기 때문에, 배틀포스에 포함된 모형만으로 게임을 플레이 하는 것은 거의 불가능하고 가능하더라도 매우 제한적인 플레이만 할 수 있다.
+
+6판 개정이후 많은 진영들이 배틀포스가 사라지고 더 많은 모델을 포함하는 세트상품들이 늘어나고 있다.--물론 더 비싸고-- 
+
+7판개정후 많은 사람들이 목빠지도록 기다리던 [[그레이 나이트]]역시 추가되었다--올레!--
+= 진영별 구성 =
+== [[스페이스 마린]] ==
+http://www.games-workshop.com/resources/catalog/product/600x620/99120101109_SpaceMarinesStrikeforceNEW01.jpg
+
+ELITE: [[드레드노트(Warhammer 40,000)|베너러블 드레드노트]]
+TROOP: [[택티컬 스쿼드]] x 10
+TROOP: [[택티컬 스쿼드]] x 10
+TROOP: [[스카웃 스쿼드]] x 5
+FAST: [[어썰트 스쿼드]] x 5
+TRANS: [wiki:"라이노(Warhammer 40,000)" 라이노]
+
+스마는 터미네이터 아머 위주의 박스셋 역시 추가 되었다. 이 박스에서만 구할 수 있는 터미 캡틴의 인기가 좋다.
+http://www.games-workshop.com/resources/catalog/product/600x620/99120101114_StrikeForceUltra01.jpg
+http://www.games-workshop.com/en-GB/Space-Marine-Strike-Force-Ultra
+
+=== [[스페이스 울프]] ===
+--http://www.games-workshop.com/resources/catalog/product/600x620/99120101080_SpaceWolvesBattleforceNEW01.jpg--
+
+--TROOP 또는 ELITE: 울프 팩 x 10[* [[블러드 클로]], [[그레이 헌터]], [[울프 가드]] 중 하나로 만들 수 있는 제품.]--
+--TROOP 또는 ELITE: 울프 팩 x 10--
+--ELITE: [[울프 스카웃]] x 5--
+--[[wiki:"드랍 포드(Warhammer 40,000)"드랍 포드]]--
+
+스페이스 울프 7판 개정으로 사라졌다. 이후 추가될 박스셋 추가바람
+=== [wiki:"다크 엔젤(Warhammer 40,000)" 다크 엔젤] [[레이븐윙]] ===
+http://www.games-workshop.com/resources/catalog/product/600x620/99120101100_DarkAngelsBattleforceNEW01.jpg
+
+TROOP: 레이븐윙 [[바이크 스쿼드]] x 6
+TROOP: 레이븐윙 어택 바이크 x 1[* 중화기를 장착한 바이크.]
+FAST: 레이븐윙 [[랜드 스피더]] x 1
+=== [[블러드 엔젤]] ===
+http://www.games-workshop.com/resources/catalog/product/600x620/99120101087_BloodAngelsBattleforceNEW01.jpg
+
+TROOP: [[택티컬 스쿼드]] x 10
+TROOP: [[데스 컴퍼니]] x 5
+FAST: [[어썰트 스쿼드]] x 5
+TRANS: [wiki:"라이노(Warhammer 40,000)" 라이노]
+== [[아스트라 밀리타룸]] ==
+배틀포스가 두 종류 있지만 차이점은 모형의 생김새 뿐으로 모형의 능력치와 구성에 차이는 없다. 그냥 취향에 따라 고르면 된다.
+
+--HQ: [[커맨드 스쿼드]]--
+--TROOP: [[가드맨]] x 20--
+--TROOP: [[중화기 팀]] x 3--
+--FAST: [wiki:"센티넬(Warhammer 40,000)" 센티넬] x 1--
+
+카디안(카타찬) 디펜스 포스로 대체됨
+http://www.games-workshop.com/resources/catalog/product/600x620/99120105058_CadiaDefenceForce01.jpg
+HQ: [[커맨드 스쿼드]]
+TROOP: [가드맨] x 20
+TROOP: [중화기 팀] x 3
+HEAVY: ["리만 러스 전차" 리만 러스] x 1
+TRANS: ["키메라(Warhammer 40,000)" 키메라] x 1
+== [[엘다]] ==
+http://www.games-workshop.com/resources/catalog/product/600x620/99120104034_EldarBattleforceNEW01.jpg
+
+TROOP: [wiki:"가디언(Warhammer 40,000)" 가디언] x 10
+TROOP: [wiki:"어스팩트 워리어#s-1.1" 다이어 어벤저] x 5 (엑사크 1 포함)
+FAST: 젯 바이크 x 1
+HEAVY: 중화기 플랫폼 x 1
+TRANS: [[웨이브 서펀트]]
+== [[다크 엘다]] ==
+http://www.games-workshop.com/resources/catalog/product/600x620/99120112017_EldarBattleforceNEW01.jpg
+
+TROOP: [[카발라이트 워리어]] x 10
+TROOP: [위치(Warhammer 40%2C000)|위치]x 10
+FAST: [[리버 제트 바이크]] x 3
+TRANS: [레이더(Warhammer 40,000)|레이더]
+
+그리고 구판 배틀포스에는 나무 지형 몇 개가 덤으로 포함되어 있었다. 구판 스타터에도 지형이 포함되어 있던 것을 고려하면, 단순한 GW 전략의 차이.
+
+http://www.games-workshop.com/resources/catalog/product/600x620/99120112022_WychCultShardstorm01.jpg
+
+7판 개정과 함께 [다크 엘다#s-7.2|위치 컬트]를 주제로 한 번들인 Wych Cult Shardstorm이 출시되었다. 새로 모델이 만들어진 서큐버스가 포함되어있다.
+
+TROOP: [위치(Warhammer 40%2C000)|위치] x 10
+FAST: [[리버 제트 바이크]] x 6
+TRANS: [레이더(Warhammer 40,000)|레이더]
+TRANS: [베놈(Warhammer 40%2C000)|베놈]
+HQ: [서큐버스(Warhammer 40%2C000)|서큐버스]
+
+위치를 5명짜리 분대 2개로 나누고 트랜스포트에 탑승시키면 컴바인드 암즈를 준수하는 약 500포인트짜리 소규모 아미를 하나 만들 수 있다. 7판 현재 위치는 트룹으로 쓰기보다는 컨버전 재료나 장식(...)에 가까워졌지만 나머지 쓸모있는 구성품만 따져도 할인을 받는 셈이라 반응이 괜찮다. ~~사실은 두당 8파운드씩 하시는 귀한 리버를 2박스 분량이나 넣어줘서 그렇다.~~ 위치를 활용하고 싶으면 여성 카발라이트 워리어로 컨버전을 시킬 수도 있다.
+
+== [wiki:"네크론(Warhammer 40,000)" 네크론] ==
+http://www.games-workshop.com/resources/catalog/product/600x620/99120110018_NecronBattleforceNEW01.jpg
+
+TROOP: [[네크론 워리어]] x 20
+TROOP: [wiki:"이모탈(Warhammer 40,000)" 이모탈] x 5(데스막스(Deathmarks)로도 조립가능)
+FAST: [[스캐럽 스웜]] x 5
+TRANS: [[고스트 아크]] x 1([[둠스데이 아크]]로도 조립가능)
+
+네크론 워리어만 잔뜩 들어있던 구판에 비하면 매우 좋아졌다. 네크론 워리어의 수가 줄고 디스트로이어가 사라졌지만 데스 막스로도 쓸수 있는 이모탈과 헤비 서포트인 둠스데이 아크로 쓸수 있는 수송차량 고스트 아크가 추가되어 가격대 성능비가 상당히 좋다는 평.
+== [wiki:"타우(Warhammer 40,000)" 타우] ==
+http://www.games-workshop.com/resources/catalog/product/600x620/99120113032_TauBattleforceNEW01.jpg
+
+ELITE: XV8 [[크라이시스 배틀슈츠]] x 3 (건 드론 6 포함)
+ELITE: XV25 [[스텔스수트]] x 3 (마커라이트 드론 1 포함)
+TROOP: [[파이어 워리어]] x 12 (건 드론 2 포함)
+FAST: [[피라냐 라이트 스키머]] (건 드론 2 포함)
+
+--크룻을 없애서 가격을 낮췄으면 찬양 받을 구성(...)--
+크룻이 빠지고 배틀슈트를 2마리 더 넣었다.
+== [wiki:"오크(Warhammer 40,000)" 오크] ==
+
+
+--TROOP: [[오크 보이즈]] x 20--
+--FAST: 오크 [[워바이커]] x 3--
+--TRANS: [[워트럭]]--
+
+--오크의 배틀포스는 아무래도 보이의 숫자가 적은 편이라 사는 사람이 많지 않다. 거기다 워바이커도 좋지 않다. 때문에 오크 유저들은 값도 매우 저렴하고 모델도 많은 [[어썰트 온 블랙리치]]를 배틀포스 대신 사곤 했는데, 6판 들어오면서 단종되어버려 모두 피눈물을 흘리고 있는 중. 거기다 6판 환경에서 그렇지 않아도 허약한 오크의 트럭이 너무 잘 터지는지라 앞으로도 사는 사람은 별로 없을 것 같다.--
+
+
+오크 맥 몹으로 대체됨
+
+http://www.games-workshop.com/resources/catalog/product/600x620/99120103030_MekMob01.jpg
+
+http://www.games-workshop.com/en-GB/Ork-Mekmob
+== [[타이라니드]] ==
+
+
+--TROOP: [[타이라니드 워리어]] x 3--
+--TROOP: [[진스틸러]] x 8--
+--TROOP: [[호마건트]] x 16--
+--TROOP: [[터마건트]] x 16--
+--TROOP: [[리퍼 스웜]] x 3--
+
+--전부 트룹이지만 저 중 워리어는 '''타이라니드 워리어 프라임'''으로도 사용 가능하므로 저 구성만으로도 1HQ 2Troop이 되어 게임이 가능하다.--
+
+타이라니드 스웜으로 대체됨
+
+http://www.games-workshop.com/resources/catalog/product/600x620/99120106028_TyranidsSwarmNEW01.jpg
+
+http://www.games-workshop.com/en-GB/Tyranid-Swarm
+== [[카오스 스페이스 마린]] ==
+
+--TROOP: [[카오스 스페이스 마린 분대]] x 10 (아이콘 운반자 1, 챔피언 1, 중화기 포함)--
+--ELITE: [[포제스드 마린]] x 5 (챔피언 1 포함)--
+--Fast: [wiki:"바이크 스쿼드" 카오스 바이크 스쿼드] x 3--
+--TRANS: 카오스 [wiki:"라이노(Warhammer 40,000)" 라이노]--
+
+--포제스드 마린은 [[복불복]]성이 강해 별로 쓰이지 않는 유닛이라 주로 컨버전용 부품으로 활용된다. ~~그러니까 이걸 사고 포제스드 마린 부품만 팔면 돈을 아낄 수 있다.~~--
+
+카오스 스페이스 마린 어택 포스로 대체됨
+
+http://www.games-workshop.com/resources/catalog/product/600x620/99120102048_ChaosSpaceMarineAttackForce.jpg
+
+http://www.games-workshop.com/en-GB/Chaos-Space-Marine-Attack-Force
+== [[카오스 데몬]] ==
+http://www.games-workshop.com/resources/catalog/product/600x620/99129915018_ChaosDaemonsBattleforceNEW01.jpg
+
+[wiki:"플레이그베어러"] 10 Plaguebearers, 
+[wiki:"너글링"] 3 Nurglings, 
+[wiki:"블러드레터"] 10 Bloodletters, 
+[wiki:"시커 오브 슬라네쉬"] 5 Seekers and 
+[wiki:"스크리머 오브 젠취"] 3 Screamers.
+
+[[데몬 오브 카오스]]의 바탈리언을 겸하는 제품.
+£87.00 어치를 £70에 준다.
+
+== [[그레이 나이트]] ==
+사진은 추가바람
+
+[[팔라딘 스쿼드]] 5
+[wiki:"그레이 나이트 스쿼드" 스트라이크 스쿼드] 15
+-[[랜드 레이더]]1개
+[[네메시스 드레드 나이트]]1개
+
+가격은 234000원이지만 따로따로 살 경우에는 304000원인지라 70000원이나 싸다. 
+
+== 7판 한정판 박스 세트 스톰 클로 ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/YqsrESScR0U?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+http://www.games-workshop.com/resources/catalog/product/600x620/60010199009_StormclawENG01.jpg
+
+구성은 [[스페이스 울프]] VS [wiki:"옼스"오크].
+
+특징은 켐페인 상투스 리치 시리즈중 하나로 발매되었다는 점이다. 
+
+오크는 하필 들어있는게 킬라칸과 그레친(...). 못쓸놈들은 아니지만 오크의 근간이 되는 보이가 없는것이 매우 뼈아프다. 놉 자체도 놉바이커로 많이 쓰였는데 너프를 왕창 먹어 아쉽다는 의견도 있다. 그래도 들어있는 놉 두마리의 무기가 빅쵸파가 아니라 파워클로이고, 워보스는 어택 스퀴그까지 달려있는 훌륭한 모델이라 호평을 받았다.~~근데 보스 자세가 블랙리치때랑 비슷~~
+
+스페이스 울프는 다행히 오크에 비하면 범용성이 좋은 유닛들이 있지만 보병만 달랑 있어서 기존 세트에비해 빈약하긴 매한가지. 오히려 캡틴 모델이 큰 메리트가 없다며 까이는중.
+
+사실 워보스와 울프로드를 제외하면 신조형이 아닌 기존제품을 묶어서 할인판매한 것에 불과하다. [[워보스]]/[[울프 로드]] (각각 15파운드 잡고)에 [[놉]]+[[킬라칸]]+[[그레친]] (53.5파운드) / 울프가드 [[터미네이터]]+[[스페이스 울프]] 팩 (51파운드)니까 짠돌이 [[게임즈 워크샵]] 치고는 꽤 해 준 셈. 그리고 들어있는 미니룰북이 정말 훌륭하다. 정규 룰북에서 게임에 필요한 Book III가 통으로 들어있어서 게임에 바로 적용 가능. 
+
+
+ * 오크
+ 1 [[워보스]]
+ 5 [[놉]] 
+ 10 [[그레친]] + 1 목동
+ 3 [[킬라칸]]
+ * 스페이스 울프
+ 1 울프 로드
+ 5 [[울프 가드]] [[터미네이터]]
+ 10 [[스페이스 울프]] 팩 [* 울프가드, 그레이 헌터, 블러드 클로 중 골라서 만들면 된다. 기본적으로 범용킷 ]
+
+
+[[각주]]

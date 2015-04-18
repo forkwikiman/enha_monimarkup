@@ -1,0 +1,87 @@
+ *리다이렉트 : [[EZ2DJ/라디오채널 일람]]
+ *[wiki:"EZ2AC : EVOLVE"]부터 라디오믹스가 코스모드로 개명됨에 따라 EV 이후 문서들은 라디오채널이 아닌 코스로 명명해주길 바람.
+
+[[목차]]
+
+== 개관 ==
+원래 5키 라디오는 곡의 장르나 일정한 콘셉트, 7키 라디오는 작곡가나 비주얼 아티스트 등 제작자 명의의 채널로 이루어져 있는 것이 [[불문율]]이었으나, 6th부터 붕괴되었다. 7th CV에서 이 규칙이 다시 적용되는가 싶더니 BE에서 다시 붕괴. AE에 들어와서 다시 적용되고 있다. 그러나 EC에서 다시 붕괴되는가 싶다.
+
+EZ2DJ의 라디오 채널은 6th 이전의 구 버전까지는 4개의 스테이지 중 3스테이지에 가장 어려운 곡이 배치되는 것이 일반적이어서, 4스테이지는 일종의 보너스 곡 개념인 경우가 가장 많았지만, 7th 이후로는 4스테이지에 가장 어려운 곡이 들어가는 경우의 비중이 더 높아진 경향이 있다.
+
+== 버전별 하위 문서 ==
+ *아래의 버전들은 다음과 같은 이유로 항목을 개설하지 않는다.
+  *[[EZ2DJ 7th 1.5]] : [[EZ2DJ 7th 2.0]]이라는 상위호환 버전의 존재.
+  *[[EZ2DJ 7th BE]] : [[EZ2DJ 7th BERA]]라는 상위호환 버전의 존재, 무상패치로 인한 잔여물량 전멸.
+  *[[EZ2DJ AE]] : [[EZ2DJ AEIC]]라는 상위호환 버전의 존재, 무상패치로 인한 잔여물량 전멸.
+
+||<#568EFD>　||[[EZ2DJ The 1st TRACKS/라디오채널]]||
+||<#5B7DEB>　||[[EZ2DJ The 1st TRACKS Special Edition/라디오채널]]||
+||<#F275E1>　||[[EZ2DJ 2ndTRAX ~It rules once again~/라디오채널]]||
+||<#79A46E>　||[[EZ2DJ 3rdTRAX ~Absolute Pitch~/라디오채널]]||
+||<#F0BF5B>　||[[EZ2DJ 4thTRAX ~Over Mind~/라디오채널]]||
+||<#B0B0B0>　||[[EZ2DJ Platinum/라디오채널]]||
+||<#EE83A3>　||[[EZ2DJ 6thTRAX ~Self Evolution~/라디오채널]]||
+||<#FD975B>　||[[EZ2DJ 7thTRAX ~Resistance~/라디오채널]]||
+||<#E1812D>　||-||
+||<#CB744F>　||[[EZ2DJ 7thTRAX Ver 2.0/라디오채널]]||
+||<#D777EF>　||[EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~/라디오채널]]||
+||<#FD313F>　||-||
+||<#C5011B>　||[[EZ2DJ 7thTRAX BONUS EDITION revision A/라디오채널]]||
+||<#3CB2F6>　||-||
+||<#2C7BC0>　||[EZ2DJ : AZURE EXPRESSION INTEGRAL COMPOSITION/라디오채널]]||
+||<#81FCDB>　||[EZ2AC : ENDLESS CIRCULATION/라디오채널]]||
+||<#CE3351>　||[EZ2AC : EVOLVE/코스]||
+
+== 특수 패턴 랜덤 채널 ==
+ * [[EZ2DJ/Znpfg]]
+ * [[EZ2DJ/Mutant]]
+
+== 라디오 채널에 여러 번 수록된 곡들 ==
+라디오 채널에 많이 수록된 곡들. EZ2DJ 2대 명곡인 Stay와 Look Out의 위엄이 새삼 느껴진다!
+
+ * 버전별로 미세하게 수록곡이 다른 채널은 수록곡을 각각 한 번씩 카운트했다.[* 예를 들어 sjhdeux 채널은 2nd Life, Don't Say Anything, Aura, Sinus, R-decision을 각각 한 번씩 카운트했다.]
+ * 1st부터 BE rA까지 수록된 채널들을 대상으로 집계했다.
+
+||<width=15%><:> 수록 회수 || 대상 곡 ||
+|| 16 ||[[Stay]]||
+|| 15 ||[[Look out ~Here comes my love~|Look Out]]||
+|| 14 ||[[20000000000]], [[Fire Storm]]||
+|| 13 ||[[The Future]]. [[Complex]]||
+|| 12 ||[[Panic Strike]]||
+|| 10 ||[[The Prince of Darkness]], [[Zeroize]], [[Envy Mask]]||
+|| 9 ||[[Night Madness]], [[We Luv Music]], [[Aquaris|Aquaris (Physical Inspiration Hyper Blue Mix)]], [[R.F.C.]], [[The Rhythm]], [[Aquaris]], [[Revelation]]||
+|| 8 ||[[Lovely Day]], [[Back For More]]. [[Climax]], [[Theme of EZ2DJ]], [[Toy War]], [[R.D.M. ~Rain Drops in My mind~|R.D.M.]], [[Appeal]], [[It's My Secret]]||
+|| 7 ||[[Minus 1 ~ space mix|Minus 1 (Space Mix)]], [[Minus 2]], [[Ztar warZ]], [[Say That U]], [[JMJ]], [[Metagalatic G - 1000]], [[Legend of Moonlight]], [[느낌]], [[Soul Destructor]], [[Calling me Now]], [[Sand Storm]], [[Delight]], [[Eye of Beholder]], [[Cosmic Bird]]||
+|| 6 ||[[Showdown]], [[Mad Robot]], [[Lie Lie]], [[JMJ|JMJ (DFC Space Gear Re-formation)]], [[Judgement]], [[2nd Jewel]], [[Black Market]], [[B.O.W. ~Battle of Wilderness has started|B.O.W.]], [[Frantic]], [[Round 3]], [[DIEOXIN]], [[Go!]], [[Sparrow]], [[Y-Gate]], [[Hyper Magic]], [[Lucid]], [[You Are The One For Me]], [[Exist]], [[Quake in Kyoto]], [[Southwest Cadillac]]||
+|| 5 ||[[Theme of EZ2DJ 2]], [[Minus 1]], [[Be My Baby]], [[White Rose]], [[Weird Wave]], [[I've Fallen]], [[Black Bird]], [[The Boy ~Here comes my baby~|The Boy]], [[Catch The Flow]], [[For 3 Weeks]], [[Dreamy Flight]], [[Smash]], [[Blue]]||
+
+== 라디오에 한 번도 못 들어간 곡들 ==
+의외로 라디오 채널에 한 번도 수록이 안 된 곡이 꽤 된다.
+=== 1st~6th ===
+ * [[Freedom]] - 1st 수록곡 중 유일하게 라디오에 못 들어간 곡. 1st 수록곡이 22곡이고 라디오 채널이 4개라 이 곡과 [[I've Fallen]]은 라디오 채널에 못 들어갔다. 그나마 I've Fallen은 SE에서 구제되었지만 이 곡은 SE 이후 삭제되었고 SE에서도 수록되지 못한 탓에 구제를 못 받았다.
+ * [[With U Girl]] - 이 곡은 znpfg 채널에 특수 패턴으로 수록된 적이 있다. 다만 znpfg도 랜덤 채널이기 때문에 제외한다.
+ * [[Up and down]] - 오래된 구곡임에도 불구하고 단 한 번도 들어간 적이 없다. 나름대로 인지도 있는 위 두 곡과는 달리 이 곡은 인지도 자체도 거의 공기급인지라...
+=== 7th 계열 ===
+ * 초기 버전(1.00~2.01): 판권 문제로 최신작인 AE에서 삭제되었고 판권 문제가 해결될 조짐도 보이지 않는지라 이렇게 두 곡은 앞으로도 영영 라디오에 못 들어갈 운명이 되었다. 참고로 이 두 곡은 비단 라디오 뿐만 아니라 클럽/스페이스에서도 취급이 매우 나쁘다. 7.30에서 클럽/스페이스 패턴이 지워졌으나 BERA에서 복구가 되지 않아서 7th 2.0을 일부러 찾아가지 않는 한 영영 즐길 수 없게 되었다.
+  * [[End of Summer]]
+  * [[The back of beyond]]
+
+ * 세이빈 사운드 스타 이식곡: BE에서 한꺼번에 30곡이나 이식되었기 때문에 라디오 채널에 모두 수용을 못 했다. 이후 EC에서 [[Luv Message]]가 수록되는 등 버전이 진행되면서 여러 라디오 채널에 들어가고 있다. Zero의 곡들은 단 한 번도 라디오 채널에 들어가지 않았다가, [[EZ2AC : EVOLVE]]에서 [[Good Speed]], [[Latino]]가 HoR 채널에 추가되었다.
+  * [[Cosmos]]
+  * [[Drive To You]]
+  * [[Espresso]]
+  * [[Please Please Me]]
+  * [[Sunshine]]
+  * [[없잖아]] --라디오채널에 없잖아--
+
+=== AEIC ~ EV ===
+ * [[EZ2AC : EVOLVE]] 기준, [[EZ2DJ : AZURE EXPRESSION INTEGRAL COMPOSITION]] 수록곡은 모두 1번 이상 라디오 채널에 수록되었으며, [[EZ2AC : ENDLESS CIRCULATION]] 수록곡 중 라디오 채널에 한 번도 수록되지 않은 곡은 오직 1곡이다. [[EZ2AC : EVOLVE]] 신곡중에서는 5곡이 코스 모드에 수록되지 않았다.
+  * [[Hey Barbie]]
+  * [[Lazy Days]]
+  * [[Mello Mello]]
+  * [[Sparkling Ways]]
+  * [[Stereotype Lovesong]]
+  * [[피로]]
+
+== 같이 보기 ==
+ * [[EZ2DJ 5대 채널]]

@@ -1,0 +1,81 @@
+ *[펌프 잇 업/수록곡 일람]으로 돌아가기
+[[목차]]
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/uL4L5RU6YvQ?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/uL4L5RU6YvQ?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/iJXtl5ax4g4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iJXtl5ax4g4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+※ 많은 대중들의 인기를 받고 있는 싱글 7(기존 하드 모드 스텝)의 영상
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/3rd O.B.G." Pump It Up The O.B.G.: The 3rd Dance Floor]]  ||
+|| 아티스트 |||| BanYa ||
+|| BPM |||| 150 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| Original Tunes / 1st ~ Perf ||
+|||||||||| 모드별 레벨 데이터 ※[[wiki:"펌프 잇 업/PRIME" Prime]] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 3[* Fiesta EX 新채보] / 7 / 9[* Fiesta EX 베이직 모드 전용 스텝.] / 12 / 15 / 18[* NX 시리즈 어나더 크레이지에 해당했던 채보. 추후 Fiesta에서 삭제되었다.] ||
+||<#009900> Double || 9 / 19 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+
+== 개요 ==
+댄싱 게임 [[펌프 잇 업]]의 수록곡이자, BanYa 및 시리즈 최초의 클래식 리믹스. 원곡은 그 유명한 모짜르트의 피아노 소나타 11번 3악장, 터키 행진곡. 전형적인 락 스타일의 리메이크 송으로 후대에 나온 클래식 리믹스 곡들보다는 퀄리티가 상대적으로 뒤쳐지는 편이나, Banya 최초의 클래식 리믹스라는데 의의가 있다. 또한 유저들에게 있어서는 [[Com'back]], [[베토벤 바이러스]]와 함께 펌프를 대표하는 3대 국민곡 중 하나로 손꼽히며, 등장한 지 10년이 넘었음에도 불구하고 많은 이들이 플레이를 하고 있다.
+
+BGA 테마는 '[[전쟁]]'. 주로 1차 대전과 2차 대전의 기록 사진을 옮겨온듯 하다. 영상 썸네일도 [[아르덴 대공세]]때의 독일군 병사.
+
+=== 3rd 최종보스? ===
+3rd 당시엔 보스곡급 컨셉으로 등장했으며 크레이지 스텝이 수록된 최초의 8곡 중 하나이기도 하였다. 최종보스의 컨셉은 아니었지만, 크레이지 스텝이 당시 양대 보스 기믹으로 등장했던 [[엑스트라바간자]]와 [[그녀는 피자를 좋아해]]와 맞먹거나 높았기에 몇몇 유저들 사이에선 진 최종보스 취급을 받았다. 하지만 전작부터 내려온 최종보스곡 Extravaganza가 유저들 사이에서 보스 이미지로 크게 작용한 것이 있었고, Extravaganza 크레이지 스텝 자체가 개인차가 갈리는 곡이라 트릴에 어려움을 호소하는 이들이 상당히 있었기에 현실상 이쪽이 더 최종보스 취급 받았다.[* 거기에 더블 스텝도 엑바쪽 난이도가 더 높았던 점 또한 이에 한 몫 하였다.]
+
+Fiesta 시리즈에서는 터키 행진곡 크레이지는 레벨 12, Extravaganza 크레이지는 레벨 11로 책정되었는데 어느 쪽이 진 최종보스인가는 개인이 판단할 문제로 사료된다.
+
+다만 [wiki:"펌프 잇 업/FIESTA 2" FIESTA 2]의 미션 존에서 공식 확정된 3rd의 최종보스는 Extravaganza로 선정이 되었다.
+
+== 채보 구성 ==
+=== 싱글 ===
+Lv.3 - [[추가바람]]
+
+Lv.7 - [[추가바람]]
+
+Lv.9 - [[추가바람]]
+
+Lv.12 - [[추가바람]]
+
+Lv.15 - [[추가바람]]
+
+=== 더블 ===
+Lv.9 - [[추가바람]]
+
+Lv.19 - [[추가바람]]
+
+==== 터키 행진곡 -미니멀 튠즈- ====
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/FIESTA" Pump It Up 2010 Fiesta]] ||
+|| 아티스트 |||| BanYa Production ||
+|| BPM |||| 130 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| Original Tunes / Fiesta ||
+|||||||||| 모드별 레벨 데이터 ※[[wiki:"펌프 잇 업/PRIME" Prime]] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 3 / 6 / 8 / 17 ||
+||<#009900> Double || 10 / 18 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || 1 ||
+
+Fiesta에서 후속작으로 피아노 버전의 Minimul Tunes가 나왔는데, 전반적인 퀄리티는 문제가 없으나 오리지널의 긴박감 넘치는 락 스타일에 비해 조용한 성격의 곡이어서 그런지, 많이 묻힌 편이다.
+
+== 채보 구성 ==
+=== 싱글 ===
+Lv.3 - [[추가바람]]
+
+Lv.6 - [[추가바람]]
+
+Lv.8 - [[추가바람]]
+
+Lv.17 - [[추가바람]]
+
+=== 더블 ===
+Lv.10 - [[추가바람]]
+
+Lv.18 - [[추가바람]]

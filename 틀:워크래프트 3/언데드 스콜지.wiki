@@ -1,0 +1,12 @@
+||<tablebgcolor=#d6c1ea><tablewidth=100%><#ffcc33><-100> '''[[워크래프트 3]] [[언데드 스콜지]]의 영웅, [[워크래프트 3/종족, 유닛, 건물|유닛, 건물들]]''' ||
+||<#9966cc><|2><-2> '''[[알터 오브 다크니스]]''' ||<-2> http://classic.battle.net/war3/images/undead/units/icons/deathknight.gif?width=20px ||<-2> http://classic.battle.net/war3/images/undead/units/icons/dreadlord.gif?width=20px ||<-2> http://classic.battle.net/war3/images/undead/units/icons/lich.gif?width=20px ||<-2> http://classic.battle.net/war3/images/undead/units/icons/cryptlord.gif?width=20px ||
+||<width=20%><-2> [[데스 나이트(워크래프트 3)|데스 나이트]] ||<width=20%><-2> [[드레드로드]] ||<width=20%><-2> [[리치(워크래프트 3)|리치]] ||<width=20%><-2> [[크립트 로드]] ||
+||<rowbgcolor=#9966cc>　|| '''[[네크로폴리스(워크래프트 3)|네크로폴리스]]''' ||<-2> '''[[크립트]]''' ||<-2> '''[[슬래터하우스]]''' ||<-2> '''[[템플 오브 뎀드]]''' || '''[[새크리피셜 핏]]''' || '''[[본 야드]]''' ||
+||<#9966cc><|2> '''1티어''' || http://classic.battle.net/war3/images/undead/units/icons/acolyte.gif?width=20px || http://classic.battle.net/war3/images/undead/units/icons/ghoul.gif?width=20px || http://classic.battle.net/war3/images/undead/units/icons/cryptfiend.gif?width=20px ||<-6><|2>　||
+|| [[애콜라이트#s-3|애콜라이트]] || [[구울#s-2.3.1|구울]] || [[크립트 핀드]] ||
+||<#9966cc><|2> '''2티어''' ||<|2>　||<-2> http://classic.battle.net/war3/images/undead/units/icons/gargoyle.gif?width=20px || http://classic.battle.net/war3/images/undead/units/icons/meatwagon.gif?width=20px || http://classic.battle.net/war3/images/undead/units/icons/obsidianstatue.gif?width=20px || http://classic.battle.net/war3/images/undead/units/icons/necromancer.gif?width=20px || http://classic.battle.net/war3/images/undead/units/icons/banshee.gif?width=20px || attachment:shade.png?width=20px ||<-2><|2>　||
+||<-2> [[가고일(워크래프트 3)|가고일]] || [[미트 웨건]] || [[옵시디언 스태츄]] || [[네크로맨서#s-2.5|네크로맨서]]  || [[밴시(워크래프트)|밴시]] || [[셰이드#s-4|셰이드]] ||
+||<#9966cc><|2> '''3티어''' ||<-3><|2>　|| http://classic.battle.net/war3/images/undead/units/icons/abomination.gif?width=20px || http://classic.battle.net/war3/images/undead/units/icons/destroyer-small.gif?width=20px ||<-3><|2>　|| http://classic.battle.net/war3/images/undead/units/icons/frostwyrm.gif?width=20px ||
+|| [[어보미네이션(워크래프트 3)|어보미네이션]] || [[디스트로이어(워크래프트 3)|디스트로이어]] || [[프로스트 웜]] ||
+||<#9966cc><|2><-2> '''기타 건물들''' ||<-2> [[헌티드 골드 마인]] ||<-2> [[지구라트#s-2.1|지구라트]] ||<-2> [[지구라트#s-2.2|스피릿 타워]] ||<-2> [[지구라트#s-2.3|네루비안 타워]] ||
+||<-2> [[그레이브야드#s-3|그레이브야드]] ||<-2> [[툼 오브 렐릭스]] ||<-4>　||

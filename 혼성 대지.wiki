@@ -1,0 +1,112 @@
+'''Hybrid Land'''
+
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드들.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+[[목차]]
+= 개요 =
+[[필터랜드]] 이후 위자드가 충분한 반성을 거치고 이를 새로이 개량시킨 2색 대지. [[Time Spiral]] 블럭 [[Future Sight의 2색 대지]] 중 Gravin Cairns를 통해 이런 형태의 대지가 나올 것임을 예고했으며, 결국 이후 Shadowmoor 블럭의 Shadowmoor 세트에서는 우방 2색에 해당되는 5종이, Eventide 세트에서는 반대 2색에 해당되는 5종이 출시되었다. 당연히 희귀도는 모두 레어.
+
+그냥 혼자서 {T}할 경우 {1}을 마나풀에 담고, 유색 마나 한 개를 추가로 지불하고 {T}하면 유색 마나 두 개를 마나풀에 담는다.
+문제는 이 두번째 능력을 쓰기위해 지불해야 하는 마나와, 어떤 마나 두 개가 나오느냐다. 놀랍게도 비용으로 요구하는 마나는 '''특정 2색의 혼성 마나 한 개'''. 즉 두 색 중 어느 하나만으로도 된다는 것이다. 그리고 그 결과 나오는 마나는 '''그 특정 2색으로부터 원하는 조합의 마나 두 개'''.
+예를 들어, 특정 2색이 녹색과 백색이라고 한다면, {G/W}를 지불하고 {T}하면 {G}{G}나 {G}{W}, 또는 {W}{W} 세 조합 중 하나를 선택해 마나풀에 담는 것이다.
+
+[[샤도우무어]] 당시에 [[데미지 랜드]]와 함께 다색 덱에서 많이 쓰였지만 기본 대지가 아닌 혼성 대지만 줄창 나올 경우는 무색 마나 밖에 못 뽑는다는 단점이 있다.
+= 일람 =
+== Shadowmoor의 혼성 대지 ==
+=== Mystic Gate ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Mystic Gate''' ||<|5><:>attachment:/Mystic_Gate.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{W/U}, {T}: {W}{W}, {W}{U}, 또는 {U}{U}를 당신의 마나풀에 담는다.[[br]][[br]]''The gate of every kithkin doun is a cunning trap, intended to spill visitors into an oubliette from which there is no escape.''||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Shadowmoor || 레어 ||
+=== Sunken Ruins ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Sunken Ruins''' ||<|5><:>attachment:/Sunken_Ruins.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{U/B}, {T}: {U}{U}, {U}{B}, 또는 {B}{B}를 당신의 마나풀에 담는다.[[br]][[br]]''Without the care of the tideshapers, the Lanes lie neglected. Some have flooded entire towns; others dried to cracked mud.''||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Shadowmoor || 레어 ||
+=== Graven Cairns ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Graven Cairns''' ||<width=100px><|5><:>attachment:/Graven_Cairns.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{B/R}, {T}: {B}{B}, {B}{R}, 또는 {R}{R}를 당신의 마나풀에 담는다.||
+
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Future Sight || Time Spiral ||<|2><:>레어||
+|| Shadowmoor || Shadowmoor ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+|| 블럭컨스 |||| 사용가능 ||
+|| 모던 |||| 사용가능 ||
+|| 레가시 |||| 사용가능 ||
+|| 빈티지 |||| 사용가능 ||
+|| [[EDH]] |||| 사용가능 ||
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''[[wiki:"플레이버 텍스트"배경담]]''' ||
+|| Future Sight ||''Shamans of Kar-Sengir claim that their sun sets because it can no longer bear the gaze of those pain-carved cliffs.''||
+|| Shadowmoor ||''"Here did the Extinguisher steal the light from the world. Here will we sacrifice her to bring the Great Rekindling to our people."[[br]]—Illulia of Nighthearth''||
+=== Fire-Lit Thicket ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Fire-Lit Thicket''' ||<|5><:>attachment:/Fire-Lit_Thicket.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{R/G}, {T}: {R}{R}, {R}{G}, 또는 {G}{G}를 당신의 마나풀에 담는다.[[br]][[br]]''Occupancy of the den changes from night to night as boggart gangs fight for control of a place they aren't willing to simply eat.''||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Shadowmoor || 레어 ||
+=== Wooded Bastion ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Wooded Bastion''' ||<|5><:>attachment:/Wooded_Bastion.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{G/W}, {T}: {G}{G}, {G}{W}, 또는 {W}{W}를 당신의 마나풀에 담는다.[[br]][[br]]''The elves of Wilt-Leaf Wood contiunally expand the palisade surrounding the sandtuary. They hope to one day enclose the entire forest within its walls.''||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Shadowmoor || 레어 ||
+== Eventide의 혼성 대지 ==
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Eventide || Shadowmoor || 레어 ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+|| 블럭컨스 |||| 사용가능 ||
+|| 모던 |||| 사용가능 ||
+|| 레가시 |||| 사용가능 ||
+|| 빈티지 |||| 사용가능 ||
+|| [[EDH]] |||| 사용가능 ||
+=== Fetid Heath ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Fetid Heath''' ||<|5><:>attachment:/Fetid_Heath.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{W/B}, {T}: {W}{W}, {W}{B}, 또는 {B}{B}를 당신의 마나풀에 담는다.[[br]][[br]]''"Do not linger in such places, child. There the gwyllions dance. If they find you, you will join in their revels for eternity."[[br]]—Talara, elvish safewright''||
+=== Cascade Bluffs ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Cascade Bluffs''' ||<width=100px><|5><:>attachment:/Cascade_Bluffs.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{U/R}, {T}: {U}{U}, {U}{R}, 또는 {R}{R}를 당신의 마나풀에 담는다.[[br]][[br]]''Travelers Bathe in the falls to wash away curses from the pucas who lurk nearby.''||
+=== Twilight Mire ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Twilight Mire''' ||<|5><:>attachment:/Twilight_Mire.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{B/G}, {T}: {B}{B}, {B}{G}, 또는 {G}{G}를 당신의 마나풀에 담는다.[[br]][[br]]''As their roots soaked in a weak tea of bogwater and decay, the trees absorbed the essence of death into their living tissue.''||
+=== Rugged Prairie ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Rugged Prairie''' ||<|5><:>attachment:/Rugged_Prairie.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{R/W}, {T}: {R}{R}, {R}{W}, 또는 {W}{W}를 당신의 마나풀에 담는다.[[br]][[br]]''Hobs bury their kin far from home, they believe the dry, open ground keeps hags from stealing the bones and gwyllions from stealing the spirits.''||
+=== Flooded Grove ===
+||<tablewidth=100%> '''영어판 명칭''' || '''Flooded Grove''' ||<width=100px><|5><:>attachment:/Flooded_Grove.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || — ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 대지 ||
+||||<height=198px>{T}: {1}을 당신의 마나풀에 담는다.[[br]][[br]]{G/U}, {T}: {G}{G}, {G}{U}, 또는 {U}{U}를 당신의 마나풀에 담는다.[[br]][[br]]''At full moon, the river seeps over its banks and crawls through the woods like a blanket of serpents.''||

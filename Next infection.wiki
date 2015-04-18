@@ -1,0 +1,43 @@
+[[사운드 볼텍스]]의 수록곡. 작곡은 Sanaas.
+
+[[사운드 볼텍스 플로어]] '[[사운드 볼텍스 II -인피니트 인펙션-]] 제작결정기념 오리지널곡 컨테스트'의 당선곡이다.
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:Nextinfection.jpg || attachment:Nextinfection.jpg || attachment:Nextinfection.jpg ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 10}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0579}}} || {{{#orange 1090}}} || {{{#ff009f 1421}}} ||
+|| 일러스트 담당 |||||| [[NAGI]] ||
+|| 이펙터 || {{{#purple TEK-A-RHYTHM}}} || {{{#orange TEK-A-RHYTHM}}} || {{{#ff009f TEK-A-RHYTHM}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 01(2013.6.5)}}} ||
+|| [[BPM]] |||||| 188 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : 운부이도(韻符弐刀) 순한맛, Skill Level 03 B코스(2014.12.26 ~ 2015.2.27)
+  * EXHAUST : 운부이도(韻符弐刀) 매운맛
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} || 통상해금 || 통상해금 ||
+|| {{{#orange ADVANCED}}} ||<|2> 1700 ||<|2> 없음 ||
+|| {{{#ff009f EXHAUST}}} ||
+
+{{|
+안녕하세요. 안녕하세요. 안녕하세요.[* 원문이 'おはようございます。こんにちは。こんばんは。' 즉 아침, 점심, 저녁 인사를 한꺼번에 다 하고 있다.] 그리고 처음뵙겠습니다. Sanaas(사나아즈)라고 합니다.
+평소에는 인터넷 레이블 'Wahhei Records', 'DigitalAcid Force'라는 곳에서 곡을 만들고 있습니다.
+이번 채용, 정말로 기쁩니다! 정말 감사합니다! 감사감격입니다!
+저는 아직 BEMANI를 접한지 2년 정도 밖에 되지 않았지만, BEMANI에 감동하여 DTM을 시작할 수 있었고,
+그리고 FLOOR 채용 목표를 달성할 수 있었습니다! 고마워요 BEMANI!
+근데, 곡쪽 이야기입니다만, SDVX II기념이라 하는 걸로, 'SDVX II'의 OP를 컨셉으로 제작했습니다.
+꽤 좋은 느낌의 해피코어로 마무리된게 아닐까 생각합니다.
+전개는 적지만, 순수하게 즐길 수 있는 곡이므로, 부디 플레이해 주시면 감사하겠습니다!
+
+-당선자 코멘트-
+|}}
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/07-q8O54JnU?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/07-q8O54JnU?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 클리어 영상

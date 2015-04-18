@@ -1,0 +1,199 @@
+||<tablealign=center><tablewidth=100%>|||||||||||| '''역대 LJ League 일람''' ||
+|| 대회 창설 || || [wiki:"로지텍" 로지쿨] || || 로지쿨 ||
+||<width=30%> 대회 창설 || {{{+1 ←}}} ||<width=30%><#FFFF00> '''LJ League Winter Season''' || {{{+1 →}}} ||<width=30%> [[LJ League Spring Season]] ||
+
+[[목차]]
+= 개요 =
+ * 우승팀 : Rascal Jester
+ * 준우승팀 : Ozone Rampage
+ * 리그기간 : 2014년 2월 9일~2014년 3월 30일
+ * 개막전 : 도쿄 아키하바라 E-sports Square
+ * 특이사항
+  * [[LJ League]]의 첫번째 시즌.
+  * 이 시즌의 우승팀은 [[NLB]]에 출전하게 된다. 다만, 출전을 하게 되어도 서킷 포인트는 받을 수 없다고.
+  * 4위는 2014 LJ League Spring Season Survival Match로 강등된다.
+  * [[나이스게임TV]]에서 경기가 끝난 다음날인 월요일에 결과와 함께 VOD를 업로드한다. [http://www.nicegame.tv/board/bbs/lists/6/203/ 링크]
+  * 다음 TV팟에서 생중계를 해준다고 한다. [http://tvpot.daum.net/pot/loljapan 링크] [http://pgr21.com/pb/pb.php?id=gamenews&no=7104&sn1=on&divpage=2&sn=on&keyword=라덱 출처]
+  *[http://www.twitch.tv/ljlofficial/profile/pastBroadcasts twitch tv 다시보기]
+  * 1경기만 방송하고 2,3경기는 방송하지않는다
+= 이모저모 =
+ * 총 상금은 20만엔, 우승 상금은 10만엔이다.
+
+= 참가팀 정보 =
+ * DetonatioN FocusMe
+ 일본에서 가장 큰 규모의 게임단인 DetonatioN의 LoL 게임단. 탑 라이너인 Yutaproid는 시즌3 당시 북미 서버에서 유일한 챌린저 티어 플레이어. 팀 자체도 시즌2 북미 서버 팀랭 상위 32위권에 든 경력이 있다.
+ 2013년 여름 쯤 [[나진소드]]와 친선전을 가질 예정이 있었지만, 당시 소드가 [[NLB]]로 광탈하고 이래저래 발등에 불이 붙으면서 무산된 것으로 보인다. 대신 2014년 1월 [[CJ 엔투스]]의 혼합팀과 친선전을 가졌었고, 무참히 패배. 다만 당시 탑이 아니라 원딜로 출전했던 Yutaproid가 있는 바텀 라인만은 라인전에서 오히려 우세한 양상을 보였었다.
+
+ * Ozone Rampage
+ 역시 시즌2 북미 서버 팀랭 32위권에 들었던 팀이고, WCG 2013에서 [[CJ 블레이즈]]와 붙었던지라 한국에도 조금 이름이 알려있다. 참고로 해당 경기가 LoL 부문 최초의 공식 한일전. 블레이즈가 노데스로 압도하고 있는 상황에서 플레임이 1데스를 내준 직후 칼같이 서렌을 쳐버려 강한 인상(…)을 남겼던 팀. 당시 현장 트러블로 핑이 폭발하던 상황이었던지라 스트레스를 심하게 받아서 서렌을 쳤다는 모양이다. 핑 문제만 아니었다면 끝까지 해보고 싶었다고.
+ CJ 엔투스의 팬인지 롤챔스 직관까지 와서 CJ 멤버들의 사인을 받아갔다. 이 사인이 자신들의 가보로 삼고 있다는 모양.
+
+ * Rascal Jester
+ 원래 PeachServer Allstars라는 팀명으로 활동하던 팀. 일본내에서 전통 강호로 취급받는 팀이면서도 상기된 두 팀에 비하면 캐리어가 좀 딸리는 편이다. 정글러인 Rainbrain은 [[동방 프로젝트]]의 동인 활동도 활동하고 있는 모양. ~~[[데이드림]]님이 이 팀을 좋아합니다~~
+
+ * Okinawan Tigers
+ 정식 팀 이름은 '오키나와의 호랑이(沖縄のトラ)'. 2014년에 결성된 참가 팀들 중 가장 신생팀. 이름 그대로 [[오키나와]] 출신 팀이고, 팀원들중 절반은 외국인(?)이다. 국적 자체는 일본이긴 한데(…). 덕분에 영어로 말하다가 일본어로 말하다가 이래저래 바쁜 모양.
+
+= 리그의 진행 =
+== 토너먼트 ==
+||<#3399FF> 순위 ||<#3399FF> 팀명 ||<#3399FF> '''승점''' ||<#3399FF> 승 ||<#3399FF> 무 ||<#3399FF> 패 ||
+||<#87CEFA> 1 || Rascal Jester || '''26''' || 8 || 2 || 2 ||
+||<#87CEFA> 2 || Ozone Rampage || '''25''' || 7 || 4 || 1 ||
+||<#87CEFA> 3 || Okinawan Tigers || '''9''' || 2 || 3 || 6 ||
+||<#87CEFA> 4 || DetonatioN FocusMe || '''6''' || 1 || 3 || 8 ||
+
+=== 1주차 ===
+
+||<#3399FF><-5><:> 1주차 1경기 (2014. 02. 09) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || ○ ||<#dcdcdc> 1세트 || × || Ozone Rampage ||
+|| Rascal Jester || ○ ||<#dcdcdc> 2세트 || × || Ozone Rampage ||
+||<-2><:> '''1승''' ||<#3399FF> '''결과''' ||<-2><:> '''1패''' ||
+
+||<#3399FF><-5><:> 1주차 2경기 (2014. 02. 09) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Okinawan Tigers || ○ ||<#dcdcdc> 1세트 || × || DetonatioN FocusMe ||
+|| Okinawan Tigers || × ||<#dcdcdc> 2세트 || ○ || DetonatioN FocusMe ||
+||<-2><:> '''1무''' ||<#3399FF> '''결과''' ||<-2><:> '''1무''' ||
+
+||<#3399FF><-5><:> 1주차 3경기 (2014. 02. 09) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || × ||<#dcdcdc> 1세트 || ○ || Okinawan Tigers ||
+|| Rascal Jester || × ||<#dcdcdc> 2세트 || ○ || Okinawan Tigers ||
+||<-2><:> '''1승 1패''' ||<#3399FF> '''결과''' ||<-2><:> '''1승 1무''' ||
+=== 2주차 ===
+
+||<#3399FF><-5><:> 2주차 1경기 (2014. 02. 16) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || × ||<#dcdcdc> 1세트 || ○ || Ozone Rampage ||
+|| Rascal Jester || × ||<#dcdcdc> 2세트 || ○ || Ozone Rampage ||
+||<-2><:> '''1승 2패''' ||<#3399FF> '''결과''' ||<-2><:> '''1승 1패''' ||
+
+||<#3399FF><-5><:> 2주차 2경기 (2014. 02. 16) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Okinawan Tigers || ○ ||<#dcdcdc> 1세트 || × || DetonatioN FocusMe ||
+|| Okinawan Tigers || × ||<#dcdcdc> 2세트 || ○ || DetonatioN FocusMe ||
+||<-2><:> '''1승 2무''' ||<#3399FF> '''결과''' ||<-2><:> '''2무''' ||
+
+||<#3399FF><-5><:> 2주차 3경기 (2014. 02. 16) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || ○ ||<#dcdcdc> 1세트 || × || DetonatioN FocusMe ||
+|| Rascal Jester || ○ ||<#dcdcdc> 2세트 || × || DetonatioN FocusMe ||
+||<-2><:> '''2승 2패''' ||<#3399FF> '''결과''' ||<-2><:> '''2무 1패''' ||
+=== 3주차 ===
+
+||<#3399FF><-5><:> 3주차 1경기 (2014. 02. 23) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 1세트 || × || Okinawan Tigers ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 2세트 || × || Okinawan Tigers ||
+||<-2><:> '''2승 1패''' ||<#3399FF> '''결과''' ||<-2><:> '''1승 2무 1패''' ||
+
+||<#3399FF><-5><:> 3주차 2경기 (2014. 02. 23) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || ○ ||<#dcdcdc> 1세트 || × || DetonatioN FocusMe ||
+|| Rascal Jester || ○ ||<#dcdcdc> 2세트 || × || DetonatioN FocusMe ||
+||<-2><:> '''3승 2패''' ||<#3399FF> '''결과''' ||<-2><:> '''2무 2패''' ||
+
+||<#3399FF><-5><:> 3주차 3경기 (2014. 02. 23) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Detonation FM || × ||<#dcdcdc> 1세트 || ○ || Ozone Rampage ||
+|| Detonation FM || × ||<#dcdcdc> 2세트 || ○ || Ozone Rampage ||
+||<-2><:> '''2무 2패''' ||<#3399FF> '''결과''' ||<-2><:> '''3승 1패''' ||
+=== 4주차 ===
+
+||<#3399FF><-5><:> 4주차 1경기 (2014. 03. 02) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| DetonatioN FM || × ||<#dcdcdc> 1세트 || ○ || Rascal Jesters ||
+|| DetonatioN FM || × ||<#dcdcdc> 2세트 || ○ || Rascal Jesters ||
+||<-2><:> '''2무 4패''' ||<#3399FF> '''결과''' ||<-2><:> '''4승 2패''' ||
+
+||<#3399FF><-5><:> 4주차 2경기 (2014. 03. 02) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Okinawan Tigers || × ||<#dcdcdc> 1세트 || ○ || Ozone Rampage ||
+|| Okinawan Tigers || ○ ||<#dcdcdc> 2세트 || × || Ozone Rampage ||
+||<-2><:> '''1승 3무 1패''' ||<#3399FF> '''결과''' ||<-2><:> '''3승 1무 1패''' ||
+
+||<#3399FF><-5><:> 4주차 3경기 (2014. 03. 02) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Okinawan Tigers || × ||<#dcdcdc> 1세트 || ○ || Rascal Jesters ||
+|| Okinawan Tigers || × ||<#dcdcdc> 2세트 || ○ || Rascal Jesters ||
+||<-2><:> '''1승 3무 2패''' ||<#3399FF> '''결과''' ||<-2><:> '''5승 2패''' ||
+=== 5주차 ===
+
+||<#3399FF><-5><:> 5주차 1경기 (2014. 03. 09) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 1세트 || × || DetonatioN FocusMe ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 2세트 || × || DetonatioN FocusMe ||
+||<-2><:> ''' 4승  1무 1패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 2무 5패  ''' ||
+
+||<#3399FF><-5><:> 5주차 2경기 (2014. 03. ??) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || ○ ||<#dcdcdc> 1세트 || × || Okinawan Tigers ||
+|| Rascal Jester || ○ ||<#dcdcdc> 2세트 || × || Okinawan Tigers ||
+||<-2><:> ''' 6승 2패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 1승 3무 3패 ''' ||
+
+||<#3399FF><-5><:> 5주차 3경기 (2014. 03. ??) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 1세트 || × || Okinawan Tigers ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 2세트 || × || Okinawan Tigers ||
+||<-2><:> '''5승  1무 1패  ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 1승 3무 4패  ''' ||
+
+
+
+=== 6주차 ===
+
+||<#3399FF><-5><:> 6주차 1경기 (2014. 03. 16) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Okinawan Tigers || ○ ||<#dcdcdc> 1세트 || × || DetonatioN FocusMe ||
+|| Okinawan Tigers || ○ ||<#dcdcdc> 2세트 || × || DetonatioN FocusMe ||
+||<-2><:> ''' 2승 3무 4패  ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 2무 6패 ''' ||
+
+||<#3399FF><-5><:> 6주차 2경기 (2014. 03. 16) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || × ||<#dcdcdc> 1세트 || ○ || Ozone Rampage ||
+|| Rascal Jester || ○ ||<#dcdcdc> 2세트 || × || Ozone Rampage ||
+||<-2><:> ''' 6승 1무 2패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 5승 2무 1패  ''' ||
+
+||<#3399FF><-5><:> 6주차 3경기 (2014. 03. 16) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester ||  ○ ||<#dcdcdc> 1세트 || × || DetonatioN FocusMe ||
+|| Rascal Jester ||  ○ ||<#dcdcdc> 2세트 || × || DetonatioN FocusMe ||
+||<-2><:> ''' 7승 1무 2패 ''' ||<#3399FF> '''결과''' ||<-2><:> '''2무  7패  ''' ||
+=== 7주차 ===
+
+||<#3399FF><-5><:> 7주차 1경기 (2014. 03. 23) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester || ○ ||<#dcdcdc> 1세트 || × || Okinawan Tigers ||
+|| Rascal Jester || ○ ||<#dcdcdc> 2세트 || × || Okinawan Tigers ||
+||<-2><:> ''' 8승 1무 2패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 2승 3무 5패 ''' ||
+
+||<#3399FF><-5><:> 7주차 2경기 (2014. 03. 23) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Ozone Rampage || × ||<#dcdcdc> 1세트 || ○ || DetonatioN FocusMe ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 2세트 || × || DetonatioN FocusMe ||
+||<-2><:> ''' 5승 3무 1패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 3무  7패 ''' ||
+
+||<#3399FF><-5><:> 7주차 3경기 (2014. 03. 23) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 1세트 || × || Okinawan Tigers ||
+|| Ozone Rampage || ○ ||<#dcdcdc> 2세트 || × || Okinawan Tigers ||
+||<-2><:> ''' 6승 3무 1패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 2승 3무 6패 ''' ||
+=== Final ===
+
+||<#3399FF><-5><:> 8주차 1경기 (2014. 03. 30) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Ozone Rampage ||  ○  ||<#dcdcdc> 1세트 ||  ×  || DetonatioN FocusMe ||
+|| Ozone Rampage ||  ○  ||<#dcdcdc> 2세트 ||  ×  || DetonatioN FocusMe ||
+||<-2><:> ''' 7승 3무 1패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 3무 8패 ''' ||
+
+||<#3399FF><-5><:> 8주차 2경기 (2014. 03. 30) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Okinawan Tigers ||  ×  ||<#dcdcdc> 1세트 ||  ○  || DetonatioN FocusMe ||
+|| Okinawan Tigers ||  ×  ||<#dcdcdc> 2세트 ||  ○  || DetonatioN FocusMe ||
+||<-2><:> ''' 2승 3무 6패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 1승 3무 8패 ''' ||
+
+||<#3399FF><-5><:> 8주차 3경기 (2014. 03. 30) ||
+||<#dcdcdc> 팀명 ||<#dcdcdc> 승패 ||<#dcdcdc> ||<#dcdcdc> 승패 ||<#dcdcdc> 팀명 ||
+|| Rascal Jester ||  ○  ||<#dcdcdc> 1세트 ||  ×  || Ozone Rampage ||
+|| Rascal Jester ||  ×  ||<#dcdcdc> 2세트 ||   ○ || Ozone Rampage ||
+||<-2><:> ''' 8승 2무 2패 ''' ||<#3399FF> '''결과''' ||<-2><:> ''' 7승 4무 1패 ''' ||

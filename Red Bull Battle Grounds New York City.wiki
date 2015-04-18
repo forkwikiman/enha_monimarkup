@@ -1,0 +1,105 @@
+ * 상위 항목 : [[Red Bull Battle Grounds]]
+
+[[목차]]
+
+== 개요 ==
+
+ * 리그 일정 : 2013년 11월 24일 ~ 25일
+ * 사용 맵 : 뉴 폴라리스 랩소디, 해비테이션 스테이션, 블릿츠크리그[* 이상 3개는 Team Liquid Map Contest에서 선발], [[연수]], [[돌개바람]], [[프로스트]], '''[[구름 왕국]]'''
+
+[[스타크래프트 2/대회]] 중 [[레드불]]에서 여는 2번째 정규 리그. 앞선 [[Red Bull Battle Grounds: Austin]]과는 다르게 초청뿐만이 아니라 예선을 통한 선발도 있다는 것과 상금 규모에서 약간의 차이를 보이고 있다. 그래서인지 프리미어 리그로 인정받게 된 대회.
+
+== 참가 선수 ==
+
+=== 초청 ===
+
+|| 선수명(ID) || 소속팀 || 비고 ||
+|| attachment:/South_Korea_1.png attachment:/Picon_small.png [[장민철]](MC) || attachment:/Sklogo_std.png [[SK Gaming]] || [[Red Bull Battle Grounds: Austin]] 우승 ||
+|| attachment:/South_Korea_1.png attachment:/Ticon_small.png [[최지성]](Bomber) || attachment:/Startalelogo_std.png [[StarTale]] || [[Red Bull Battle Grounds: Austin]] 준우승 ||
+|| attachment:/South_Korea_1.png attachment:/Picon_small.png [[wiki:"김유진(프로게이머)" 김유진]](sOs) || attachment:/Woongjinlogo_std.png [[웅진 스타즈]] || [[2013 WCS Global Finals]] 우승 ||
+|| attachment:/South_Korea_1.png attachment:Zicon_small.png [[조명환]](Golden) || attachment:/Startalelogo_std.png [[StarTale]] || [[wiki:"Red Bull Battle Grounds#s-3.1" 레드불 트레이닝 그라운드#1]] 우승 ||
+|| attachment:/Norway.png attachment:Zicon_small.png [[얀스 오스골드]](Snute) || attachment:/Liquidlogo_std.png [[Team Liquid]] || [[wiki:"Red Bull Battle Grounds#s-3.2" 레드불 트레이닝 그라운드#2]] 우승 ||
+
+=== 예선 ===
+
+|| 선수명(ID) || 소속팀 || 비고 ||
+|| attachment:/Canada.png attachment:Zicon_small.png [[사샤 호스틴]](Scarlett) || attachment:/Acerlogo_std.png [[Team Acer]] || 북미 예선 ||
+|| attachment:/South_Korea_1.png attachment:/Zicon_small.png [[고석현]](Hyun) || attachment:/Qantic_std.png [[Quantic Gaming]] || 글로벌 예선 ||
+|| attachment:/South_Korea_1.png attachment:/Picon_small.png [[원이삭]](PartinG) || attachment:/SKT1logo_std.png [[SKT T1]] || TLMC 예선 ||
+
+== 대회 결과 ==
+
+||<tablealign=center> '''순위''' || '''상금''' || '''성명''' || '''소속팀''' ||
+||<#FFD700> 우승 || $20,000 || attachment:/South_Korea_1.png attachment:/Picon_small.png 원이삭 || attachment:/SKT1logo_std.png [[SKT T1]] ||
+||<#C0C0C0> 준우승 || $10,000 || attachment:/South_Korea_1.png attachment:/Picon_small.png 김유진 || attachment:/Woongjinlogo_std.png [[웅진 스타즈]] ||
+||<#8C7853> 3위 || $6,000 || attachment:/Canada.png attachment:Zicon_small.png 사샤 호스틴 || attachment:/Acerlogo_std.png [[Team Acer]] ||
+|| 4위 || $4,000 || attachment:/South_Korea_1.png attachment:/Picon_small.png 장민철 || attachment:/Sklogo_std.png [[SK Gaming]] ||
+|| 5,6위 || $3,000 || attachment:/South_Korea_1.png attachment:/Ticon_small.png 최지성 || attachment:/Startalelogo_std.png [[StarTale]] ||
+|| 5,6위 || $3,000 || attachment:/South_Korea_1.png attachment:Zicon_small.png 고석현 || attachment:/Qantic_std.png [[Quantic Gaming]] ||
+|| 7,8위 || $2,000 || attachment:/South_Korea_1.png attachment:Zicon_small.png 조명환 || attachment:/Startalelogo_std.png [[StarTale]] ||
+|| 7,8위 || $2,000 || attachment:/Norway.png attachment:Zicon_small.png 얀스 오스골드 || attachment:/Liquidlogo_std.png [[Team Liquid]] ||
+
+== 예선 ==
+
+=== 북미 예선 ===
+
+[[Red Bull Battle Grounds/NA]]
+
+=== 글로벌 예선 ===
+
+[[Red Bull Battle Grounds/Global]]
+
+=== TLMC[* Team Liquid Map Contest] 예선 ===
+
+[[Red Bull Battle Grounds/TLMC]]
+
+== 본선 ==
+
+=== 8강 ===
+
+||<tablealign=center><-6><:>A조(11월 24일)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:/Ticon_small.png 최지성 || 2 || attachment:Zicon_small.png 조명환 || 0 || 뉴 폴라리스 랩소디, 해비테이션 스테이션 ||
+|| 2경기 || attachment:Zicon_small.png 사샤 호스틴|| 0 || attachment:/Picon_small.png 원이삭 || 2 || 해비테이션 스테이션, 프로스트 ||
+|| 승자전 || 최지성 || 1 ||<#FFD700> 원이삭 || 2 || 프로스트, 구름왕국, 연수 ||
+|| 패자전 || 조명환 || 1 || 사샤 호스틴 || 2 || 돌개바람, 구름왕국, 아킬론 황무지 ||
+|| 최종전 || 최지성 || 1 ||<#FFD700> 사샤 호스틴 || 2 || 구름왕국, 프로스트, 해비테이션 스테이션 ||
+
+||<tablealign=center><-6><:>B조(11월 24일)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:/Picon_small.png 장민철 || 2 || attachment:Zicon_small.png 얀스 오스골드 || 0 || 연수, 구름왕국 ||
+|| 2경기 || attachment:/Picon_small.png 김유진 || 2 || attachment:Zicon_small.png 고석현 || 0 || 블릿츠크리그, 프로스트 ||
+|| 승자전 || 장민철 || 0 ||<#FFD700> 김유진 || 2 || 뉴 폴라리스 랩소디, 구름왕국 ||
+|| 패자전 || 얀스 오스골드 || 0 || 고석현 || 2 || 블릿츠크리그, 돌개바람 ||
+|| 최종전 ||<#FFD700> 장민철 || 2 || 고석현 || 1 || 해비테이션 스테이션, 구름왕국, 블릿츠크리그 ||
+=== 4강 ===
+
+||<tablealign=center><-6><:>1경기(11월 25일) ||
+|| 선수명(ID) || 승점 || 맵 || 승점 || 선수명(ID) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || '''{{{#ff0000 승}}}''' || 연수 || {{{#0000ff 패}}} || attachment:/Picon_small.png 장민철(MC) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || {{{#0000ff 패}}} || 프로스트 || '''{{{#ff0000 승}}}''' || attachment:/Picon_small.png 장민철(MC) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || '''{{{#ff0000 승}}}''' || 구름왕국 || {{{#0000ff 패}}} || attachment:/Picon_small.png 장민철(MC) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || '''{{{#ff0000 승}}}''' || 돌개바람 || {{{#0000ff 패}}} || attachment:/Picon_small.png 장민철(MC) ||
+
+||<tablealign=center><-6><:>2경기(11월 25일) ||
+|| 선수명(ID) || 승점 || 맵 || 승점 || 선수명(ID) ||
+|| attachment:Zicon_small.png 사샤 호스틴(Scarlett) || '''{{{#ff0000 승}}}''' || 프로스트 || {{{#0000ff 패}}} || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:Zicon_small.png 사샤 호스틴(Scarlett) || '''{{{#ff0000 승}}}''' || 돌개바람 || {{{#0000ff 패}}} || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:Zicon_small.png 사샤 호스틴(Scarlett) || {{{#0000ff 패}}} || 구름왕국 || '''{{{#ff0000 승}}}''' || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:Zicon_small.png 사샤 호스틴(Scarlett) || {{{#0000ff 패}}} || 해비테이션 스테이션 || '''{{{#ff0000 승}}}''' || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:Zicon_small.png 사샤 호스틴(Scarlett) || {{{#0000ff 패}}} || 연수 || '''{{{#ff0000 승}}}''' || attachment:/Picon_small.png 김유진(sOs) ||
+
+=== 3,4위전 ===
+
+|| 선수명(ID) || 승점 || 맵 || 승점 || 선수명(ID) ||
+|| attachment:/Picon_small.png 장민철(MC) || {{{#0000ff 패}}} || 구름왕국 || '''{{{#ff0000 승}}}''' || attachment:Zicon_small.png 사샤 호스틴(Scarlett) ||
+|| attachment:/Picon_small.png 장민철(MC) || {{{#0000ff 패}}} || 블릿츠크리그 || '''{{{#ff0000 승}}}''' || attachment:Zicon_small.png 사샤 호스틴(Scarlett) ||
+
+=== 결승전 ===
+
+|| 선수명(ID) || 승점 || 맵 || 승점 || 선수명(ID) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || '''{{{#ff0000 승}}}''' || 돌개바람 || {{{#0000ff 패}}} || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || {{{#0000ff 패}}} || 연수 || '''{{{#ff0000 승}}}''' || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || '''{{{#ff0000 승}}}''' || 뉴 폴라리스 랩소디 || {{{#0000ff 패}}} || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || '''{{{#ff0000 승}}}''' || 프로스트 || {{{#0000ff 패}}} || attachment:/Picon_small.png 김유진(sOs) ||
+|| attachment:/Picon_small.png 원이삭(PartinG) || '''{{{#ff0000 승}}}''' || 구름왕국 || {{{#0000ff 패}}} || attachment:/Picon_small.png 김유진(sOs) ||

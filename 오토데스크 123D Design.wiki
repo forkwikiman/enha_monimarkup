@@ -1,0 +1,16 @@
+Describe ["오토데스크 123D Design"] here
+
+
+[[include(틀:그래픽 툴)]]
+
+||<table align=right><tablewidth=35%>|| https://p2.zdassets.com/hc/settings_assets/532868/200062994/ox7QILrDDqdAa2wLgqjsXQ-sb_logo.png?width=60% ||
+||<width=40%>  정식명칭 || Autodesk 123D Design (오토데스크 123D Design) ||
+|| 개발 || [[Autodesk]] ||
+|| 라이센스 || 프리웨어(PC만) ||
+|| 용도 || 페인팅, 드로잉 ||
+|| 운영체제 || [[Windows]], [[iOS]] ||
+|| 사이트 || [http://www.123dapp.com/design/|홈페이지] ||
+attachment:sketchbookPro.jpg?width=60%
+
+
+설명 작성중

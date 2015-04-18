@@ -1,0 +1,41 @@
+[[목차]]
+
+== 원래 의미. ==
+Time Attack. 원래는 제한 시간 내로 특정 코스를 클리어하는 모든 종류의 경기를 지칭하는 말이다. 특히 [[레이싱]] 계열에서 자주 쓰이는 말이며, 그러다 보니 [[레이싱 게임]]들의 기록 경쟁 모드는 열이면 열 타임어택이라는 말이 들어가게 된다.
+
+== [[꿈의 플레이]] 중 하나 ==
+어떤 [[게임]]을 최단시간으로 클리어하는 플레이이다. 정석적으로 그냥 빠르게 플레이하는 경우도 있으나 온갖 버그나 꼼수들을 활용하거나, 여러 명이 몇 부분으로 나눠서 플레이하는 등의 다양한 방식이 있다. 물론 유래는 1. 다만 그 의미가 차츰 확장되자 [[레이싱 게임]] 이외의 경우에는 '''스피드런Speedrun'''이라고 따로 부르는 경우가 많아졌다. 그런 이유로 [[리그베다 위키]]에서 스피드런으로 검색하면 이 항목으로 [[리다이렉트]]된다.
+
+[[에뮬레이터]]가 발달하여 [[TAS]] 같은 프로그램 개입 플레이가 가능해진 이후로는, 실기 플레이라는 것을 [[인증]]하는 절차가 가장 중요해지는 [[주객전도]]급 현상이 일어나 버리기도 했으며, 단순한 스피드런에서 벗어나 [[아이템]] 사용 금지 룰이나 특정 무장 사용 금지 룰, 버그 사용 금지 룰 등등의 [[wiki: "막장 플레이" 자체 제한 룰]]이 추가되는 등 여러 가지 발전이 이루어졌다. 참고로 실기 플레이임이 제대로 인증된 경우 TAS와 대비되는 의미의 RTA(Real Time Attack)라는 이니셜을 붙여 준다.
+
+참고로 [[미국]]과 [[일본]] 사이에 자주 경쟁이 붙는 일종의 경쟁종목 중의 하나로 인식되어 있는 경우가 많다. TAS/RTA 양쪽 모두.
+
+[[TAS]]의 개념을 [[대한민국]]에 처음 전파시킨 것은 2003년 중반 즈음에 나왔던 [[슈퍼 마리오 브라더스 3]] [http://www.youtube.com/watch?v=BEcrJLM4GgU 11분 클리어 영상]으로 추정된다.[* 사실 이 영상은 대한민국뿐만 아니라 전세계적으로 상당히 히트쳤던 영상이다. 이 때는 [[유튜브]]가 있지도 않았고 그저 [[인터넷]] 개인 사이트 등을 통해 널리 전파된 것이어서 영상에 별다른 설명이 붙지 않아 TAS라는 사실을 아는 사람들은 극히 드물었으며, 몇 년이나 지난 다음에 TAS가 널리 전파되면서 그 시초로 재조명되었다. ~~현재는 5분 클리어 괴물이 있다~~]
+
+유튜브에선 타임 어택에 해당하는 영상의 경우 speedrun, TAS 플레이의 경우 TAS로 검색하면 찾을 수 있다. 보다 보면 탄성이 나오는 플레이가 많다.
+
+서양에선 유명 스피드런 웹사이트인 [http://speeddemosarchive.com/ Speed Demos Archive]에서 주관하는 자선 행사인 SDA 자선 마라톤도 매년 열리고 있다. 게임들의 스피드런을 스피드러너들이 생방송으로 보여주는데, 이 스피드런을 보는 사람들이 기부금을 내면 그 기부금이 100% 모두 자선 단체로 전달되는 방식이다. 이 행사에서 펼쳐진 스피드런들은 [http://www.youtube.com/user/SpeedDemosArchiveSDA 이 채널]에서 다시 볼 수 있다.
+
+
+
+둠 2 전 스테이지 최단 시간 클리어 영상.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/XorJfexzF4M&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XorJfexzF4M&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+포탈 1 타임어택 영상.
+
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/W1U5RUVENNE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/W1U5RUVENNE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/V7sHEedINXI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+
+[[아프리카]]에서는 [[록맨 시리즈]]를 가지고 타임어택 대회를 연다고 한다. 주로 하는 것은 [[록맨 X4]]. 실제로 [[돈]]을 버는 직업은 아니지만 [[프로게이머]]도 있고(?) 정기 대회도 있다. 
+
+관련 동영상은 [http://tvpot.daum.net/mypot/Top.do?ownerid=2q6cZgsekNU0 #여기에 가면 자세하게 찾을 수 있다.]

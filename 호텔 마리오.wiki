@@ -1,0 +1,31 @@
+http://upload.wikimedia.org/wikipedia/en/3/39/Hotel_Mario.jpg
+
+|| 발매 || 1994 ||
+|| 제작 || Fantasy Factory ||
+|| 유통 || [[필립스]] ||
+|| 플랫폼 || [[CD-i]] ||
+|| 장르 || [[퍼즐 게임]][* 아무리 봐도 [액션 게임]같아 보이지만 발매 당시 이렇게 분류되어 있었다. ] ||
+
+[[필립스]]에서 [[닌텐도]]로부터 라이센스를 빌려서 만든 게임이다.
+
+겉만 마리오의 탈을 쓴 퍼즐 게임인데, 게임의 단순함[* [[AVGN]]은 이 게임을 플레이하고 필립스에서 만든 젤다 시리즈에 비하자면 그렇게까지 나쁘진 않지만 80년대 게임을 하는 것 같다고 평했다. 그도 그럴 것이 이게 나왔을때는 이미 클래식 콘솔 마리오의 끝판왕인 월드가 나와있는 상황이었다.]과 CD-i 특유의 병맛 조작감 때문에 게이머들로부터 혹평을 받았었다.
+
+원래 기획에선 [http://www.youtube.com/watch?v=qPLV4FUxWaM Super Mario's Wacky World]라는 [[슈퍼 마리오 월드]]의 [[후속작]]을 만드려고 했다고 한다. 그리고 사실 유출된 버전을 보면 '''이게 더 멀쩡한 물건이었다.''' 하지만, (마리오 라이센스는 빌렸지만) 닌텐도의 허락 없이 슈퍼 마리오 월드의 후속작을 내놓으면 닌텐도로부터 소송이 걸리고, 결국 회사가 부도에 처할 가능성이 있다는 판단 하에 와키 월드 개발은 중도에 취소되었다. 대신 마리오 라이센스로 만든 게임이 바로 이 호텔 마리오이다.
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/nS956FdMPfc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nS956FdMPfc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+허나 이 게임에서 유명해진 건 게임 자체가 아닌 중간마다 틀어주는 애니메이션 컷신이다. [[작붕]]으로 가득한 괴악한 그림체와 국어책 더빙, 뜬금없는 전개가 돋보이는 애니메이션 [* 그래도 CD-i판 젤다의 전설과 비교하면 양반이다.]이 [[유튜브]]에서 선풍적인 인기를 끌어 합성에 합성을 거듭, 같은 기종의 젤다의 전설과 함께 [[필수요소]]로 군림하고 있다.
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/Uf0v8nCjfx0?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Uf0v8nCjfx0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+대표적인 합성의 예. 그리고 이건 비교적 멀쩡한 물건.
+~~후속작으로 [[호텔 더스크의 비밀]]이 있다 믿으면 골룸~~
+
+관련항목
+ * [[Youtube Poop]]
+
+[[각주]]

@@ -1,0 +1,59 @@
+イー・アル・カンフー
+Yie Ar Kung-Fu
+[[목차]]
+
+== 개요 ==
+http://i.ytimg.com/vi/bgipd20Ji14/0.jpg
+이건 아케이드판.
+
+http://upload.wikimedia.org/wikipedia/en/e/e1/Yie_Ar_Kung_Fu_(MSX2).png
+이건 [MSX] 판, 패미콤 판도 이와 거의 같은 화면이다.
+
+[[코나미]]에서 1985년, 아케이드용으로 발매한 초창기 [[대전액션게임]]. [[테크노스 저팬]]의 [[공수도]]가 레버 2개를 사용했던 것과는 달리 버튼과 레버 조합을 이용하여 다양한 기술을 낼 수 있었던 것이 특징. 8방향 및 2개의 버튼조합으로 8*2=16 가지의 기술을 낼 수 있다.  여기에 당시 격겜하면 수수하고 이름없는 공수도가나 검객이 대부분이었지만, 이얼 쿵후는 각각의 캐릭터가 이름과 고유의 룩과 격투 스타일을 가지고 있었다.
+
+후에 그래픽과 사운드를 대폭 하향시키고 스테이지 수를 줄인 [[MSX]]용과 [[패미콤]]용으로 발매하였다. 특히 [[MSX]]용이 인기를 끌어 스토리를 보강하고 등장 캐릭터, 보너스 스테이지 등을 추가한 2편(이가 황제의 역습)이 나오기도 했다. 여기서는 2인 대전도 지원했는데 모든 캐릭터를 고를 수 있는건 아니고 1P는 주인공 고정, 2P 한정으로 1~3스테이지 상대인 적 캐릭터 3인 중 하나를 고를 수 있었다. 하지만 난이도가 굉장히 높은 편이로 전편과는 차원이 다르다. 특히 4스테이지의 가면남을 넘기지 못하고 포기하는 플레이어가 수두룩했다. 
+
+특히 NES판 게임에서 메인 BGM으로 쓰인 마임이 [섹시 파로디우스]에서 어레인지[* 이 때, 천계 스테이지에서 이 BGM과 동시에 주인공이 잠깐 등장한다. 물론, 이전 미션을 달성했을 때의 이야기. 불클했을 경우 [[악마성 드라큘라]]가 나오고 보스로 헝가리 무곡이 나온다.]되고, 이것이 다시 인터넷을 통해 [마임마임]으로 유명해졌다. 자세한 것은 해당 항목 참고. 그 외에도 꽤 많은 음악에 샘플링으로 쓰이고 있는데 한국 그룹인 킹조가 부른 쿵푸 샘플링으로도 쓰였고 이 노래가 [[한국]][[영화]] 아라한 장풍 대작전에 삽입되기도 했다.
+
+[[NEW 러브 플러스]]와 확장판인 [[NEW 러브 플러스＋]]에 미니게임으로 수록되었다. 아케이드판을 거의 그대로 이식. 특이한 점은 일정 스코어(20만점?) 이상으로 마지막 라운드인 'Blues'까지 갈 경우 갑자기 [wiki:"순옥살" 순옥s…]은 아니지만 아무튼 히든 캐릭터인 'Syaorin'이 Blues를 떡실신시키고 난입한다. 이 캐릭터의 정체는 꿈 이벤트에서 등장하는 [[코바야카와 린코]]. 이 캐릭터에게 승리할 경우 도전과제인 '린코를 초월한 자(リンコを超える者)'를 얻을 수 있다.
+== 등장하는 캐릭터 ==
+=== 아케이드판 === 
+ * Oolong - [[주인공]]
+ * Buchu - [[스모]]
+ * Star - 수리검
+ * Nuncha - 쌍절곤
+ * Pole - [[봉]]
+ * Feedle - ~~[[다구리]]~~ 보너스 게임
+ * Chain - 쇠사슬
+ * Club - 곤봉과 [[방패]]
+ * Fan - [[철선]]
+ * Sword - [[검]]
+ * Tonfun - [[톤파]]
+ * Blues - 권법 [* Bruce와의 발음상 유사함때문에 당시에는 "이소룡"이라고 많이 불렸다.]
+=== 패미컴판 ===
+ * LEE - [[주인공]][* 플스판에서는 이름이 리 우롱으로 나온다. 아케이드판과 동일인물인듯.]. MSX판 2편에선 MSX 2슬롯에 이얼쿵푸를 넣은 채 플레이하면 플레이어의 위기 때 영혼으로 나타나서 [[우롱차]]를(...) 드롭해준다.
+ * WANG - [[봉]]. 날아차기를 이용한 패턴화가 가능하기 때문에 매우 쉬우며 그 꼼수를 쓰지 않더라도 크게 어렵지 않은 상대이다. 
+ * TAO - 불을 뿜는다. 대전격겜 사상 최초의 장풍캐. 불은 타이밍 맞춰서 공격하면 파괴 가능. 생긴 것은 아케이드판의 Feedle과 비슷하다. 
+ * CHEN - 쇠사슬. 처음 하는 사람이 가장 어려워하는 상대이다. 쇠사슬 공격은 타이밍을 맞춰서 무효화할 수도 있다. 
+ * LANG - 수리검. 마찬가지로 수리검은 파괴할 수 있다. 아케이드판의 Star와 비슷한 느낌. 주먹 공격이 잘 먹히는 편이라 크게 어렵지 않다. 
+ * MU - 의문의 무사. 무기를 전혀 가지고 있지 않으며 아케이드판의 Buchu처럼 날아다니며(...) 공격한다. 그러고보니 외모도 닮은 듯. 날아오는 기술을 쓸 때는 마찬가지로 타이밍을 잘 맞춰서 반격하는 것이 가능하다. 
+=== MSX판 2편 ===
+ * Lee-Young - 주인공. 전작 주인공의 아들이다. 
+ * Yen-Pei - 머리카락(...) 공격 방식은 쇠사슬을 사용하던 전작의 CHEN과 유사하다. 
+ * Lan-Fang - 부채. 이 쪽은 아케이드판의 Fan과 비슷하다. 사실 부채보다는 가까이 갔을 때 나오는 펀치 연타를 주의해야 한다. 발차기를 잘 사용해서 상대할 것. 
+ * Po-Chin - '''[[방귀]]'''(...) 보기 드문 특이한 컨셉의 캐릭터로 이 방귀에 맞으면 일정시간 마비되어 공격 3방을 그냥 허용해야 하므로 꽤 어려운 상대다. 참고로 방귀는 파괴 가능(읭?). 바로 다음의 Wen-Hu만큼은 많지는 않지만 여기서 포기하는 아이들도 있었다. 
+ * Wen-Hu - 가면. 가면이 제멋대로 날아다니며 주인공을 공격하기 때문에 엄청나게 어려운 상대로 5, 6스테이지보다도 어렵다. 재수없으면 '''전혀 움직여볼 틈도 없이''' 가면에 맞고 발차기에 맞고 또 가면에 맞기를 반복하다 완패하게 된다. 많은 아이들이 게임을 포기하게 만들었던 주범이다. 그리고 여기서부터 주인공이 받는 대미지 1.5배. 
+ * Wei-Chin - 부메랑. 부메랑은 직선으로만 날아갔다 돌아오며 속도도 느려서 큰 위협이 되지 않는다. 따라서 전 스테이지보다는 훨씬 쉽다. 하지만 방심은 금물. 
+ * Mei-Ling - 단검. 직선으로 날아가지만 부메랑보다 속도는 빠르다. 여성이라 리치가 짧아서 그런지 발차기 공격이 척척 잘 먹혀서 역시 가면남에 비하면 쉽다. 하지만 이 스테이지부터 대미지가 2배로 상승하니 주의. ~~그리고 싸우는 도중에는 절대로 치마속을 보여주지 않지만 쓰러뜨리면 서비스로 흰 팬티도 볼 수 있다.~~ 
+ * Han-Chen - 폭탄. 날아오는 궤도가 포물선이라 파괴하기 어렵고 주인공을 뒤로 밀어내는 특징까지 있다. 폭탄도 무섭지만 이 아저씨 자체의 발공격 판정도 장난이 아니라서 정말 이기기 어려운 상대이다. 
+ * Li-Gen - 번개(...) 신선 혹은 도인을 연상시키는 외모의 최종 상대이며 한 마디로 '''정신 나간 난이도.''' 번개는 날아오는 각도도 제멋대로인데다 파괴 불가능. 그리고 화면 끝에서 끝으로 순간이동을 하는 것도 짜증난다(사실 이 능력은 모든 적 캐릭터가 다 가지고 있다). 얼마나 어려운지는 한 번 해 보면 안다. 
+
+== 게임 플레이 영상 ==
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/Zh9mPILeuOk?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Zh9mPILeuOk?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object><br>아케이드판 플레이 영상<br>
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/-YpEhujLnGw?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-YpEhujLnGw?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object><br>패미컴판 플레이영상<br>
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/7B71UYhe6YU?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7B71UYhe6YU?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+MSX판 후속작 이가황제의 역습 플레이 영상.
+
+[[각주]]

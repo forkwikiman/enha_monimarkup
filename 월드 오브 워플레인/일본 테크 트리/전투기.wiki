@@ -1,0 +1,146 @@
+[[include(틀:월드 오브 워플레인)]]
+
+[[목차]]
+
+== 개요 ==
+
+== 정규 트리 ==
+=== Nakajima A4N - 2티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/a4n.png|| 중일전쟁 중 나카지마사가 마지막으로 개발한 복엽 전투기이다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Hikari 2 || 730 마력 || 420 kg || 공랭식 || 1티어 || 스톡 || 0 || 0 ||
+|| Hikari 3 || 770 마력 || 440 kg || 공랭식 || 2티어 ||     || 210 || 2.400 ||
+|| Hikari 1 || 820 마력 || 470 kg || 공랭식 || 3티어 || 최종 || 310 || 3.600 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.7mm Type-89 (s) 2정 || 33 || 670 || 7.7 || 747 || 46 || 2티어 || 스톡 || 0 || 0 ||
+|| 7.7mm Type-97 Model 1(s) 2정 || 42 || 800 || 7.7 || 750 || 25 || 3티어 || 최종 || 235 || 8.500 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Nakajima YM || 75 || 1166 || 1티어 || 스톡 || 0 || 0 ||
+|| Nakajima A4M1 || 80 || 1166 || 2티어 || 최종 || 150 || 3.200 ||
+
+요구 경험치: 150 , 가격: 1.900
+
+중일 전쟁에서 다방면으로 활약한 나카지마가 제작한 마지막 복엽기.
+
+일본은 2티어부터 슬슬 폭탄을 투하할수가 있다.
+
+=== Mitsubishi [[A5M]]- 3티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/a5m.png|| 일본해군 최초로 개발된 단엽 함재기로 2차 중일전쟁에서 성공을 거두었다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Kotobuki 5 || 600 마력 || 380 kg || 공랭식 || 2티어 || 스톡 || 0 || 0 ||
+|| Kotobuki 3 || 715 마력 || 410 kg || 공랭식 || 3티어 ||     || 750 || 6.580 ||
+|| Kotobuki 41 || 785 마력 || 425 kg || 공랭식 || 4티어 || 최종 || 880 || 14.300 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.7mm Type-97 Model 1(s) 2정 || 42 || 800 || 7.7 || 750 || 25 || 3티어 || 스톡 || 0 || 0 ||
+|| 13.2mm Type-2 (s) 2정 || 74 || 720 || 13.2 || 750 || 50 || 4티어 || 최종 || 1.250 || 33.800 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Ka-14 || 90 || 1100 || 2티어 || 스톡 || 0 || 0 ||
+|| A5M || 100 || 1100 || 3티어 || 최종 || 650 || 9.850 ||
+
+요구 경험치: 1.250 , 가격: 18.000
+
+2차 중일전쟁에 사용된 최초의 함재기. 대부분의 기체는 카미카제 공격으로 소실.
+
+동티어 대비 엔진이 좀 그렇고.. 이게 앞으로의 일본의 종특이므로 익숙해지지 않으면 힘들다. 얕은 피통과 우월한 선회력에 신경을 써야한다. 그리고 고고도를 조심하자. 위에서 들이닥치면 일본 비행기는 녹는다.
+
+소련산 공격기들이 몸으로 쳐박으면 쟤는 반피인데 나는 추락이라는 안습의 내구차를 불수가 있다. 이때문에 쉬운 조작성을 믿고 마구 꺾다가 일어나는 충돌에 조심해야한다. 다른 나라 다 하는 카미카제는 정작 일본에겐 조건이 안 맞으면 그리 쉬운게 아니다..
+
+=== Mitsubishi [[wiki:"제로센" A6M1 Zero]] - 4티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/a6m1.png|| 유명한 A6M의 일찍제작된 프로토타입 기체로 Zuisei 엔진이 탑재되었다. 1939년 4월에 처녀비행을 하였다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Zuisei 13 || 780 마력 || 540 kg || 공랭식 || 4티어 || 스톡 || 0 || 0 ||
+|| Zuisei 14 || 850 마력 || 570 kg || 공랭식 || 4티어 || 최종 || 1.050 || 23.200 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.7mm Type-97 Model 2(s) 2정 || 46 || 800 || 7.7 || 750 || 25 || 3티어 || 스톡 || 0 || 0 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 20mm Type-E (W) 2정 || 75 || 520 || 20 || 585 || 75 || 4티어 || 스톡 || 0 || 0 ||
+|| 20mm TYPE-99 Model 1(W) 2정 || 82 || 520 || 20 || 600 || 70 || 5티어 || 최종 || 2.750 || 42.000||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| A6M (Prototype) || 110 || 1780 || 3티어 || 스톡 || 0 || 0 ||
+|| A6M Model 11 || 120 || 1780 || 4티어 || 최종 || 1.800 || 22.500 ||
+
+요구 경험치: 3.700, 가격: 70.000
+
+[[제로센]] 또는 레이센으로 불리던 (zero = 레이 = 0) 태평양전쟁 초기에 활약한 함재기.
+4티어치고는 괜찮은 화력과 뛰어난 선회력으로 활약하기 좋은기체. 방어력은 약하므로 후방기관총이 달린 대형기체는 멀리 하는것이 좋다. 전반적으로 좋다. 단지.. 기총의 과열이 너무 빠르다. 좀 긁어보려고 하면 과열돼서 공격 못하게 되기 십상. 그러므로 공격의 기회를 잡았을때만 쏘는게 좋다. 또 뒤를 잡았다고 일방적으로 다 쏟아부으려다가 정작 조루 탄창으로 피돼지들은 살아남고 자신은 상대 후방기총에 득득득득 긁혀버혀서 결과적으론 피적은 제로센만 눈물이 나는 경우를 볼수가 있다. 
+
+=== Mitsubishi [[wiki:"제로센" A6M2 Zero]] - 5티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/a6m2.png|| 일찌기 태평양 전쟁부터 쓰인 A6M 모델 중 가장많이 쓰인 함재전투기로 일본의 제공장악에 기여하였다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| sakae 12 || 925 마력 || 540 kg || 공랭식 || 4티어 || 스톡 || 0 || 0 ||
+|| sakae 21 || 1130 마력 || 570 kg || 공랭식 || 5티어 || 최종 || 3.100 || 33.500 ||
+|| sakae 31a || 1210 마력 || 540 kg || 공랭식 || 6티어 || 최종 || 3.600 || 42.700 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.7mm Type-97 Model 2(s) 2정 || 46 || 800 || 7.7 || 750 || 25 || 3티어 || 스톡 || 0 || 0 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 20mm TYPE-99 Model 1(W) 2정 || 82 || 520 || 20 || 600 || 70 || 5티어 || 스톡 || 0 || 0 ||
+|| 20mm TYPE-99 Model 3(W) 2정 || 92 || 540 || 20 || 600 || 70 || 6티어 || 최종 || 2.850 || 52.000 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| A6M2 Model 11  || 150 || 1780 || 4티어 || 스톡 || 0 || 0 ||
+|| A6M2 Model 21 || 160 || 1840 || 5티어 || 최종 || 3.750 || 44.500 ||
+
+요구 경험치: 14.700, 가격: 325.000
+
+제로센의 중기형. 가장 많이쓰인 모델이다.--그리고 모두 불이야--
+
+=== Mitsubishi [[wiki:"제로센" A6M5 Zero]] - 6티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/a6m5.png|| 연합군 전투기에 맞서기위해 수정,개선된 기체로 2차 세계대전 마지막날까지 사용되었다. 이형으로 총 10.449대가 생산되었다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| Sakae 31a || 1210 마력 || 540 kg || 공랭식 || 6티어 || 스톡 || 0 || 0 ||
+|| Kinsei 62 || 1560 마력 || 725 kg || 공랭식 || 7티어 || 최종 || 12.800 || 49.900 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 7.7mm Type-97 Model 2(s) 2정 || 46 || 800 || 7.7 || 750 || 25 || 3티어 || 스톡 || 0 || 0 ||
+|| 13.2mm Type-3 (W) 2정 || 100 || 789 || 13.2 || 800 || 50 || 6티어 || 최종 || 4.800 || 57.800 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 20mm TYPE-99 Model 1(W) 2정 || 82 || 520 || 20 || 600 || 70 || 5티어 || 스톡 || 0 || 0 ||
+|| 20mm TYPE-99 Model 2(W) 2정 || 102 || 490 || 20 || 750 || 75 || 7티어 || 최종 || 12.500 || 82.000 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| A6M5 Model 52  || 190 || 1840 || 5티어 || 스톡 || 0 || 0 ||
+|| A6M5 Model 52 Hei || 200 || 1900 || 6티어 || 최종 || 7.500 || 67.400 ||
+
+요구 경험치: 33.000, 가격: 888.000
+
+제로센의 후기형. 더 강력한 엔진과 무장을 갖추긴 했지만, 동티어의 타국기체에 비해 낮은 성능이다. 믿을건 선회밖에 없으므로 어떻게든 선회로 승부 봐야한다.
+
+=== Mitsubishi [[wiki:"A7M 렛푸" A7M Reppu]] - 7티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/a7m.png || 1942년부터 1945년까지 일본해군측이 A6M을 기반으로 개발한 전투기이다. 총 8대의 시제기체만 종전때 만들어져 시험비행을 했을 뿐이다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| NK9K || 1990 마력 || 830 kg || 공랭식 || 7티어 || 스톡 || 0 || 0 ||
+|| MK9A || 2200 마력 || 1035 kg || 공랭식 || 8티어 ||  || 16.000 || 75.600 ||
+|| MK9E || 2550 마력 || 1040 kg || 공랭식 || 9티어 || 최종 || 21.000 || 165.000 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포 1  http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 13.2mm Type-3 (W) 2정 || 100 || 789 || 13.2 || 800 || 50 || 6티어 || 스톡 || 0 || 0 ||
+|| 20mm TYPE-99-2 Model 4(W) 2정 || 124 || 600 || 20 || 750 || 75 || 7티어 || || 0 || 82.600 ||
+|| 20mm TYPE-99-2 Model 5(W) 2정 || 129 || 620 || 20 || 750 || 75 || 7티어 || 최종 || 16.400 || 107.800 ||
+
+||<tablewidth=100%><#00BFFF> 날개 장착 주포 2 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 20mm TYPE-99-2 Model 4(W) 2정 || 124 || 600 || 20 || 750 || 75 || 7티어 || 스톡 || 0 || 0 ||
+|| 20mm TYPE-99-2 Model 5(W) 2정 || 129 || 620 || 20 || 750 || 75 || 7티어 || 최종 || 16.400 || 107.800 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| A7M1 Model || 240 || 2600 || 6티어 || 스톡 || 0 || 0 ||
+|| A7M2 Model || 260 || 2600 || 7티어 || 최종 || 23.800 || 87.000 ||
+
+요구 경험치: 57.000, 가격: 1.333.000
+
+~~[[아카기(함대 컬렉션)|아카기가 모르는 아이.]]~~ 제로센의 후속기로 1942에서 45년 사이 개발된기체. 전쟁 막바지에 시제 겸 양산기로 8기만 만들어졌다.

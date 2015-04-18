@@ -1,0 +1,183 @@
+ * 상위항목 : [더 바인딩 오브 아이작: 리버스], [[더 바인딩 오브 아이작/도전과제]]
+
+전작의 84개에서 크게 늘어난 178개의 도전과제가 존재한다. 도전과제 목록은 [[http://bindingofisaacrebirth.gamepedia.com/Achievements 이 곳]]을 참조하였다. 정확하지 않은 내용이 있다면 수정바람.
+
+|| '''#'''[* 게임 내 Secret 번호] || '''이미지''' ||<width=25%> '''과제명''' || '''달성 조건''' ||
+|| 1 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ac5ebd9ba1934b1f6229bda09bcb8155f0af7ece.jpg||Magdalene||최대 체력을 7개 달성||
+|| 2 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/33658122e504ae8670bbb70686468e1276902cc4.jpg||Cain||한 게임에서 코인을 55개 이상 획득||
+|| 3 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8196f7a0a6ed79c2fbeffa58f17c9508eec99d12.jpg||Judas||Sheol 챕터에서 사탄을 클리어||
+|| 4 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/be9b9b5460cecea8cd08966011993a94f6009f28.jpg||The Womb||엄마를 처음으로 클리어||
+|| 5 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4b60c000e6ada52368b63e7cd542da5c98ecb891.jpg||The Harbingers||엄마를 처음으로 클리어||
+|| 6 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/284bc31a579615dcf933215379f81ea011f9cd68.jpg||A Cube of Meat||엄마를 처음으로 클리어||
+|| 7 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fe25808e41be017139e4d59e852d52051438080f.jpg||The Book of Revelations||Horseman을 클리어||
+|| 8 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3bf267e579321b40f9cf2dc9239f369fb64a42ed.jpg||A Noose||엄마의 심장을 3회 클리어||
+|| 9 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/15676e97dfa025f754bd2bf9dc7c0ba0e7b4cd7b.jpg||The Nail||Azazel로 보스 러쉬를 클리어||
+|| 10 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a042cb78d919a2e77459116e61571d34139c2490.jpg||A Quarter||엄마의 심장을 8회 클리어||
+|| 11 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f654e0ba79b02042265d70ccc770ad1c2fff9c3b.jpg||A Fetus in a Jar||엄마의 심장을 9회 클리어||
+|| 12 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/14f9a10908b17ca60a0bb7089e773edce7cdda57.jpg||A Small Rock||X 표시된 돌을 100회 파괴||
+|| 13 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6a9014a7962096578041f80d1c3a2b5bea1a1533.jpg||Monstro's Tooth||Basement 챕터를 클리어||
+|| 14 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/33db595bc7f4ea2ce26977c3aa0b29e36f70b486.jpg||Lil' Chubby||Caves 챕터를 클리어||
+|| 15 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1c9b65104bf93966e2a83a02c8d2af88ca110ed5.jpg||Loki's Horns||Loki를 클리어||
+|| 16 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/099f14f900121dcba0bd7343d2e51313af93b878.jpg||Something From The Future||Basement 챕터를 40회 클리어||
+|| 17 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/000d2e0103eec62035c1136be86d46a3f9a36ece.jpg||Something Cute||Caves 챕터를 30회 클리어||
+|| 18 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9160bec98702d715824d99fe8f2dbbbbdfc2d508.jpg||Something Sticky||Depths 챕터를 20회 클리어||
+|| 19 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/69a73f5ec50e7f6f39a19b0bb9b6a9ab3347783e.jpg||A Bandage||한 게임에서 Ball of Bandages 아이템을 4개 모으기||
+|| 20 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8f253ed05a3ba402a6f24e3aa772607ce72656cc.jpg||A Cross||Magdalene으로 Cathedral 챕터를 클리어||
+|| 21 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3bfaae865fdf77e3e8c965f583bb16468b2a6db7.jpg||A Bag of Pennies||Cain으로 Cathedral 챕터를 클리어||
+|| 22 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d909731cc1cf5f94d20bbf9ed64d369a129461e6.jpg||The Book of Sin||[더 바인딩 오브 아이작/보스#s-3.1|7대 원죄의 보스]를 모두 격파||
+|| 23 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0739e9f66cd0bbcc98995285b085e40f2ebf65f6.jpg||Little Gish||Gish 격파||
+|| 24 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9d98fb085b7b4521c441fea96d29989fb8bdf40c.jpg||Little Steven||Steven 격파||
+|| 25 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7c84f4ccb61b4112e0e6e53c891ac07c6894e517.jpg||Little C.H.A.D.||C.H.A.D. 격파||
+|| 26 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d7d968c35d3bd9cfff55448067ffdb0a611c0727.jpg||A Gamekid||아케이드 방을 10번 방문||
+|| 27 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5e385b816c79a1558e63796c9af9ccdb97e6e90e.jpg||A Halo||엄마 또는 엄마의 심장을 The Bible로 클리어||
+|| 28 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ab64b9eb5d967a4f63d8c9d6591b43f25a9fd30b.jpg||Mr. Mega||X 표시된 돌을 10회 파괴||
+|| 29 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0b7920d6196b2e216536d63d953ef3cc1d839170.jpg||The D6||???로 Cathedral 챕터를 클리어||
+|| 30 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fe6c34978bc7454c6bc66be822c82869ca082c4f.jpg||The Scissors||100회 사망||
+|| 31 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7f0a1b63880588b9f4810225b3ff29d7754d48c3.jpg||The Parasite||Bob's rotten head, dead cat, Max's head, Tammy's head 중 2개를 보유||
+|| 32 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f7bb4791470a130ca074bf8b8b7439784624f581.jpg||???||엄마의 심장을 10회 클리어||
+|| 33 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ff9835c94f32c67602b45e62d58a3bc81582e003.jpg||Everything is Terrible!!!||엄마의 심장을 5회 클리어||
+|| 34 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8de4f96d3ad3501ab713f9fd26e02f62d69d2c00.jpg||It Lives!||엄마의 심장을 11회 클리어||
+|| 35 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f21466ed6a1003124df57242c1f9462d2ae573de.jpg||Mom's Contact||한 게임에서 엄마 관련 아이템을 3개 이상 모으기||
+|| 36 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b4e86dfcacd3285737aadd6c3f6b6c2ba34ef533.jpg||The Necronomicon||Death 카드를 4번 사용||
+|| 37 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f732080101a581c4b34eebc16d6ff946e4ad235c.jpg||Basement Boy||Basement/Cellar 챕터에서 피격을 당하지 않고 클리어||
+|| 38 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/042cfd6dd69abee2934864f940b57d372e7441e1.jpg||Spelunker Boy||Caves/Catacombs 챕터에서 피격을 당하지 않고 클리어||
+|| 39 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4a1caa4d760ab294acbb4310d2b30ef21f987b97.jpg||Dark Boy||Depths/Necropolis 챕터에서 피격을 당하지 않고 클리어||
+|| 40 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/900185e458585929b0e82dc92d17435a75375b67.jpg||Mama's Boy||Womb/Utero 챕터에서 피격을 당하지 않고 클리어||
+|| 41 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/35e1d5b2f688876861eff77827d76d3f2b5b8dfd.jpg||Golden God!||보스 ???와 The Lamb 처치||
+|| 42 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fdf7005674528c4b51f1d596962f079126022c71.jpg||Eve||2개의 층에서 하트를 줍지 않고 클리어||
+|| 43 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/085e86cb271415f9d6f6700ae64fe8c940847418.jpg||Mom's Knife||Isaac으로 Sheol 챕터를 클리어||
+|| 44 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/68b8460669011012c1b718b89c2f782bdeeb93ee.jpg||The Razor||Eve로 Sheol 챕터를 클리어||
+|| 45 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f44778ceba1bfccf3efd726f6ce8c6bdd34434ab.jpg||Guardian Angel||Magdalene으로 Sheol 챕터를 클리어||
+|| 46 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c143f615e068ef93e9e18ac25caf9b4cafe63b42.jpg||A Bag of Bombs||Cain으로 Sheol 챕터를 클리어||
+|| 47 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d6305b0e090515786c84f73044980bf5b56d834b.jpg||Demon Baby||Azazel로 Dark Room 챕터를 클리어||
+|| 48 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3fd9f027d8a3ac100e9f6dd17a3c37c8f20a1b41.jpg||Forget Me Now||???로 Sheol 챕터를 클리어||
+|| 49 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/829e854585f907b989df4d8bea6aa3295762e735.jpg||The D20||Isaac으로 The Chest 챕터를 클리어||
+|| 50 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b2f2af0aa4c7e0f9c79d9ff5d92150f95e6dc1a6.jpg||Celtic Cross||Magdalene으로 The Chest 챕터를 클리어||
+|| 51 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/57a0774248f63d496704e9d4475079b9a01b8577.jpg||Abel||Cain으로 Dark Room 챕터를 클리어||
+|| 52 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3e4b9a3011cc4499141727b56fb3004aa0a21160.jpg||Curved Horn||Judas로 Dark Room 챕터를 클리어||
+|| 53 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d6d5a1cde0fcc1fed4451bba71546dd934d27caa.jpg||Sacrificial Dagger||Eve로 The Chest 챕터를 클리어||
+|| 54 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7aff3b559c772ccc05309cdf8b58cbabf7b86d1f.jpg||Bloody Lust||Samson으로 Cathedral 챕터를 클리어||
+|| 55 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c792fc9ba2cee10a4838639ef24796254c0ffce5.jpg||Blood Penny||Samson으로 The Chest 챕터를 클리어||
+|| 56 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/adba32944289484bbb40b8d22a35a8e4ea3fb010.jpg||Blood Rights||Samson으로 Sheol 챕터를 클리어||
+|| 57 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7344e82782324511a5ee05e04500eb84fa7ca608.jpg||The Polaroid||Cathedral 챕터에서 Isaac을 5회 클리어||
+|| 58 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d4070079c1c64fa4817ff8e84bee9431e96524c1.jpg||Dad's Key||황금 열쇠를 완성||
+|| 59 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d746744c715c5ec1a9d14d54216ba97596c209f8.jpg||Blue Candle||900 코인을 기부||
+|| 60 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/51da857cf8dda83508ef5111080d3f590a1d246a.jpg||Burnt Penny||도전 모드 #13 (Beans!)을 완료||
+|| 61 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7dc3011b486c6498e8649d17070c0b362ea78e96.jpg||Lucky Toe||상점 주인 20회 폭탄으로 터트리기||
+|| 62 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4d65020f147af1b0f7eff2366a20918fb02717c7.jpg||Epic Fetus||도전 모드 #19 (The Family Man)를 완료||
+|| 63 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/22ae1e58e3274ff6df8901f7043368e087267ec1.jpg||SMB Super Fan||도전 모드 #14 (It's In The Cards)를 완료||
+|| 64 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/150f7abca876bbde90b4924fe819a31260357cbd.jpg||Counterfeit Coin||야바위 게임 100번 하기||
+|| 65 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5e83d35fb2f217d2569493f9885bb50f1a4c3506.jpg||Guppy's Hairball||구피로 변신하기||
+|| 66 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3ee15d8b922f533f2f6f3e67d16a08e39c585480.jpg||A Forgotten Horseman||천사방에서 아이템을 10회 이상 획득||
+|| 67 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a9deb948370ec83d32885552aa0ff00946736690.jpg||Samson||2개의 층에서 피격을 당하지 않고 클리어||
+|| 68 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a28057b4d0efd76b5f530e3be1fb75bc09a54810.jpg||Something Icky||Cathedral 챕터를 10회 클리어||
+|| 69 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cbe79358952288e9a6989254eb1e09bdba74f343.jpg||!Platinum God!||모든 아이템 획득, 시크릿과 엔딩 언락 (The Lost 관련 제외)||
+|| 70 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/782c3779ea0c9c141a2677df23f354a039fa4f33.jpg||Isaac's Head||Isaac으로 보스 러쉬를 클리어||
+|| 71 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f93738874600854fd0b314fe05e12d7eafef5a69.jpg||Maggy's Faith||Magdalene으로 Dark Room 챕터를 클리어||
+|| 72 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/885c47b3cfbee1f1338e05837e60c9c02c2cf065.jpg||Judas' Tongue||Judas으로 Sheol 챕터를 클리어||
+|| 73 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/237c9e788f4bb956d716cc2541acf0593229683d.jpg||???'s Soul||???로 Dark Room 챕터를 클리어||
+|| 74 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a2f0cfd886b079feb2bed962f859cfc5bcb19a7e.jpg||Samson's Lock||Samson으로 Dark Room 챕터를 클리어||
+|| 75 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/32798c117ac3dde1d5775ab142c7e48327789193.jpg||Cain's Eye||Cain으로 The Chest 챕터를 클리어||
+|| 76 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bcefa390cbc3de440f685eb5976bf245d1146ed5.jpg||Eve's Bird Foot||Eve로 Cathedral 챕터를 클리어||
+|| 77 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9705c9f8f26fae8dfc32670cd49b86b9b5330cc6.jpg||The Left Hand||Ultra-Pride를 클리어||
+|| 78 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fd2b19ef9aeb5ac8d0ef9616d082236dc4e5d060.jpg||The Negative||Sheol 챕터를 5회 클리어||
+|| 79 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6570bf8ea557989f23215aea3a3afa3ca43ca49e.jpg||Azazel||한 게임에서 악마와 3번 거래||
+|| 80 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/788e3081f9edf9831738909b9d32f835e0b75658.jpg||Lazarus||한 게임에서 소울하트 4개 이상[* Sin 하트도 소울 하트로 취급되므로 소울 하트, Sin 하트를 합쳐 4개 가지고 있으면 된다.] 보유||
+|| 81 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/32762356ae78283cd6f0e64dbc075d0ecfdb6198.jpg||Eden||엄마의 심장을 처음으로 클리어||
+|| 82 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5b4a21ce3c817f483f3e3eef99b1701a84a9b38e.jpg||The Lost||The Lost 캐릭터 해금. 자세한 방법은 [[더 바인딩 오브 아이작/캐릭터#s-2.4|여기]]를 참조.||
+|| 83 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/86c15e3de3028a5ef72dadd274f2cd942847168d.jpg||Dead Boy||The Chest/Dark Room 챕터를 피격을 당하지 않고 클리어[*버그로 인해 노피격 클리어 후에 해금되지 않을 경우 시작화면-stat-secrets 항목에 접속하면 해금되기도 한다.]||
+|| 84 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/050ae666a70cab8928f96d16f32d6607d66e4692.jpg||The Real Platinum God||모든 아이템 언락||
+|| 85 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b3cb8d0f97ba33ddf1502768485fc7651b7ecfa0.jpg||Lucky Rock||돌을 100회 파괴||
+|| 86 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/057bb55a43a48881c6b7e13f0f05236d6e64ff4b.jpg||The Cellar||Basement 챕터에서 나올 수 있는 모든 종류의 보스를 클리어[[br]](Steven은 제외)||
+|| 87 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2bfa98175a0ea9a1258a67f19b06f4e5476625c3.jpg||The Catacombs||Caves 챕터에서 나올 수 있는 모든 종류의 보스를 클리어[[br]](C.H.A.D.는 제외)||
+|| 88 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/268f0f2c2007a09ecc29beb04bbe15d3f2431fff.jpg||The Necropolis||Depths 챕터에서 나올 수 있는 모든 종류의 보스를 클리어[[br]](Gish는 제외)||
+|| 89 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/83df1b55987cd268c9219fcb31894b8692e47ca0.jpg||Rune of Hagalaz||도전 모드 #1 (Pitch Black)을 완료||
+|| 90 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e5599748ba47647ce4b9128030488eeb7e915fac.jpg||Rune of Jera||도전 모드 #2 (High Brow)를 완료||
+|| 91 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cde65ef46e9bc608e143fdb48e5c8267279acdfa.jpg||Rune of Ehwaz||도전 모드 #3 (Head Trauma)을 완료||
+|| 92 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/dec619d18a3589882491bf4f3175f0e66ab260ec.jpg||Rune of Dagaz||도전 모드 #4 (Darkness Falls)를 완료||
+|| 93 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d5dda079641301e3ef4e19232a481375b6ff42cf.jpg||Rune of Ansuz||도전 모드 #5 (The Tank)를 완료||
+|| 94 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ae835bd109bccfa57900b6bbb0ea3acbc372686d.jpg||Rune of Perthro||도전 모드 #6 (Solar System)을 완료||
+|| 95 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/367f1f024c53335c39710b66b305b1ae9b1a8721.jpg||Rune of Berkano||도전 모드 #20 (Purist)을 완료||
+|| 96 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f6c7500d02bd6d24a08138cb2c7a41ee32adc73e.jpg||Rune of Algiz||도전 모드 #8 (Cat Got Your Tounge)을 완료||
+|| 97 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ed8b65dda77c512d146db1e9460a2a6f8aaf5c3e.jpg||Chaos Card||도전 모드 #9 (Demo Man)를 완료||
+|| 98 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/252c1cba03215d4a1e4c8d6637bcacec44c5d843.jpg||Credit Card||도전 모드 #10 (Cursed!)을 완료||
+|| 99 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b91bbebc79b21de1ca84903bbb8e0e7e37e01d9e.jpg||Rules Card||도전 모드 #11 (Glass Cannon)을 완료||
+|| 100 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b9898a88571031149a4ec23c6d1f1d204131a6da.jpg||Card Against Humanity||도전 모드 #12 (When Life Gives You Lemons)를 완료||
+|| 101 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3df0ed8f843bf69babec374de529420f534766dc.jpg||Swallowed Penny||도전 모드 #15 (Slow Roll)를 완료||
+|| 102 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c024803a26fc9ad8fc764ef2551366a69e44f36b.jpg||Robo-Baby 2.0||도전 모드 #16 (Computer Savvy)을 완료||
+|| 103 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a15828bd58afdcd201e666c173ec9a7b04b3fc18.jpg||Death's Touch||도전 모드 #17 (Waka Waka)을 완료||
+|| 104 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/aa8bc18f5c48fa120ab8da9831fbd195361e8657.jpg||Technology .5||도전 모드 #18 (The Host)을 완료||
+|| 105 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d2d8fc385d46ce2762e3d6090a4a64677c8e8fdc.jpg||Missing No.||Lazarus로 보스 러쉬를 클리어||
+|| 106 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/384414fdb64313492108541994f6a2ba084e86c7.jpg||Isaac's Tears||Isaac으로 Cathedral 챕터를 클리어||
+|| 107 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/af07a49491ae729ef3c4a7f6f30262c9af3f378b.jpg||Guillotine||Judas로 Cathedral 챕터를 클리어||
+|| 108 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/578be7d2c20c1b53023b216b6caa16a590a8ffd2.jpg||Judas' Shadow||Judas로 보스 러쉬를 클리어||
+|| 109 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/513d3d92b0034005161d0bd0a1e895db43051926.jpg||Maggy's Bow||Magdalene으로 보스 러쉬를 클리어||
+|| 110 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/89535e6b48a725bd6d97012a78709857f1df7c75.jpg||Cain's Other Eye||Cain으로 보스 러쉬를 클리어||
+|| 111 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fee318d4ef76a6b73c5680b96e95f82dd5860593.jpg||Black Lipstick||Eve로 Dark Room 챕터를 클리어||
+|| 112 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bb81c6303ddaa9bc4f8c1edb12e648df43787087.jpg||Eve's Mascara||Eve로 보스 러쉬를 클리어||
+|| 113 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c410c1154ad1d5b2c85d79af2d2020f477062096.jpg||Fate||???로 The Chest 챕터를 클리어||
+|| 114 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f2cc3f51cad58ef8de53217b7735bfe689955ca4.jpg||???'s Only Friend||???로 보스 러쉬를 클리어||
+|| 115 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/90ede3ee4bdd1ea35a4abc0fc966a42b41b2cf4a.jpg||Samson's Chains||Samson으로 보스 러쉬를 클리어||
+|| 116 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b23edce72ece02eda55e3f98b78bce0f8a429721.jpg||Lazarus' Rags||Lazarus로 Cathedral 챕터를 클리어||
+|| 117 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/104db9e1a2094e5668daf4d0e955c7a0fa443aee.jpg||Broken Ankh||Lazarus로 Sheol 챕터를 클리어||
+|| 118 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4b8db6b11a72c12ab81fb94ecea241dc2b4b637e.jpg||Store Credit||Lazarus로 The Chest 챕터를 클리어||
+|| 119 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f94973cee5b59d22eff3a45af598162dcf51a598.jpg||Pandora's Box||Lazarus로 Dark Room 챕터를 클리어||
+|| 120 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c2a9465bd6f1b43e9a04519fb7bc45b7199f355d.jpg||Suicide King||도전 모드 #7 (Suicide King)을 완료||
+|| 121 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70d7d64f145b4afeb4fc867fb7a207c12ade35a5.jpg||Blank Card||Eden으로 Cathedral 챕터를 클리어||
+|| 122 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/77158c43fa3cb7bc9f545033964505d010adf467.jpg||Book of Secrets||Eden으로 Sheol 챕터를 클리어||
+|| 123 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/08234477a8f152f0553b57fb057760b604c3763a.jpg||Mysterious Paper||Eden으로 The Chest 챕터를 클리어||
+|| 124 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6e417bea5d575d2bf2853e17b2dce6647e8040a8.jpg||Mystery Sack||Eden으로 Dark Room 챕터를 클리어||
+|| 125 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70f6ac0ad8bd9b613c1c118af51500143ae4eb5a.jpg||Undefined||Eden으로 보스 러쉬를 클리어||
+|| 126 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5a1eeebafb0d6d49ea5cdd7a0755fff876e9e3aa.jpg||Satanic Bible||Azazel으로 Cathedral 챕터를 클리어||
+|| 127 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bcb08f33523ec7e4132b4ad7d58dec8285a179c5.jpg||Daemon's Tail||Azazel으로 Sheol 챕터를 클리어||
+|| 128 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ffe2c2692092da6cec4a0bd0cf39cd7cf44f4947.jpg||Abaddon||Azazel으로 The Chest 챕터를 클리어||
+|| 129 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70883b9ec63afc3c46a79f32e004ab24d8523e9e.jpg||Isaac's Heart||The Lost로 Cathedral 챕터를 클리어||
+|| 130 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fa070d0120d3e2e500cfd587a9692682072cf7b7.jpg||The Mind||The Lost로 Sheol 챕터를 클리어||
+|| 131 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bc0e4096839fe3cab068312e4618e41e40169e1a.jpg||The Body||The Lost로 The Chest 챕터를 클리어||
+|| 132 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/866f849bc279efc9278c426fdc61e14ea789a865.jpg||The Soul||The Lost로 Dark Room 챕터를 클리어||
+|| 133 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ca5f0db670cfe1716f888f9977d0fce989466a98.jpg||The D100||The Lost로 보스 러쉬를 클리어||
+|| 134 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/303b7d93465c0565d430a6b68a9147f4fd7919b4.jpg||Blue Map||10 코인을 기부||
+|| 135 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1c92620430a9c60e23a5af7ceb6abb65496b73de.jpg||There's Options||50 코인을 기부||
+|| 136 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b96deadca693e784c022a144f0b70cda7ae0d6eb.jpg||Black Candle||150 코인을 기부||
+|| 137 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/763cf4bc65a1fb86f675e1db0167801e7bcfd663.jpg||Red Candle||400 코인을 기부||
+|| 138 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1e9b33e9e07c35e66f0cd5e9afda7709c7123c50.jpg||Stop Watch||999 코인을 기부||
+|| 139 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/415cfd9dfd727944694f0731bffc019490ec473a.jpg||Wire Coat Hanger||엄마의 심장을 4회 클리어||
+|| 140 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ed3f07a848553b8930d590fd007d973fef1871de.jpg||Ipecac||엄마의 심장을 6회 클리어||
+|| 141 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/006615fafe9db5b4f92f9a278757583d63f6b8b3.jpg||Experimental Treatment||엄마의 심장을 7회 클리어||
+|| 142 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b72a45f3baacccf1ebe98a69bde5667a5ca6f1cd.jpg||Krampus||악마방에서 아이템 20개 획득||
+|| 143 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2d0efde3fa29478e18ffa0de3f3de3512ae3e61e.jpg||Head of Krampus||Krampus를 클리어||
+|| 144 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6f5e11a6a0bca2c94b4a42cf9bf905640d7c1b35.jpg||Super Meat Boy||한 게임에서 Cube of Meat를 4회 획득||
+|| 145 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bc4f54b85bcfc4579926eee659fe2ee195fe9180.jpg||Butter Bean||똥 100개 부수기||
+|| 146 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f7a523e1b7f923a43611530abe501d510e525297.jpg||Little Baggy||Roid Rage, The Virus, Growth Hormones, Experimental Treatment, Speed Ball 아이템 중 2개 이상을 수집||
+|| 147 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f3196f72886a26b5178760621e202ca8e56be99e.jpg||Blood Bag||헌혈 기계 30번 사용하기||
+|| 148 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8638e7d925354a8156ecfd0c418e7b4b620f54f5.jpg||The D4||슬롯머신 30개 폭탄으로 파괴하기||
+|| 149 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1ed428cea10724fdf1a31e91e5990d6c547abf71.jpg||Missing Poster||Isaac으로 Dark Room 챕터를 클리어||
+|| 150 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3d00f311fdaf81c6374e976739c3d3e5c17e1ddc.jpg||Rubber Cement||엄마의 심장을 2회 클리어||
+|| 151 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0c0450a2df1b58545aa2692f022e90117efc7605.jpg||Store Upgrade lv.1||20 코인을 기부||
+|| 152 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1f2ff88107aa3741580f91b488c2fc67833d047b.jpg||Store Upgrade lv.2||100 코인을 기부||
+|| 153 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1723ef9d3b9fbd255722021d11d61c6094c8a34f.jpg||Store Upgrade lv.3||200 코인을 기부||
+|| 154 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2b131646b405b1d96eeb6bd8340aa17bf0885fe1.jpg||Store Upgrade lv.4||600 코인을 기부||
+|| 155 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d86908ce294ba999c7bd2499b5596daca5820994.jpg||Angels||The Chest 또는 Dark Room 클리어||
+|| 156 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1c9b7d8874ea24b6bc1e01d803ef62a6b8897f22.jpg||Godhead||The Lost로 하드모드 엄마의 심장, 아이작, 사탄, 보스 러쉬, ???, The Lamb 클리어||
+|| 157 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f3efa8f34a8cde33d316a4d711c77f58c77d7be4.jpg||Darkness Falls[[br]](도전 모드 #4)||It Lives를 언락||
+|| 158 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/733a6bd79624af43e1c2c7e280d920a264186d39.jpg||The Tank[[br]](도전 모드 #5)||Magdalene을 언락||
+|| 159 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6b75fcb6afef548fa1c63e4d3efd6fb13602d1aa.jpg||Solar System[[br]](도전 모드 #6)||캐릭터 주위를 3종류의 배리어[* 파리, Cube of Meat, Guardian Angel, Sacrificial Dagger 등]로 채우고 게임을 완료||
+|| 160 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/44c9e992bc1d1a4deff61c1e9a583539caec2aaa.jpg||Suicide King[[br]](도전 모드 #7)||It Lives를 언락||
+|| 161 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9ddc322cf687dae07ba51fd051f836a955cad20f.jpg||Cat Got Your Tongue[[br]](도전 모드 #8)||구피로 변신하기||
+|| 162 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0210c719b68fdf10aa831b8215a18bf96d0a4df8.jpg||Demo Man[[br]](도전 모드 #9)||Dr. Fetus를 언락||
+|| 163 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1f0eed37fa705c7f16df9af35a64252ad4107775.jpg||Cursed! [[br]](도전 모드 #10)||Magdalene을 언락||
+|| 164 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9223599bc565123671b127256b3d29aac2d18f6c.jpg||Glass Cannon[[br]](도전 모드 #11)||Epic Fetus와 Loki's Horn을 언락||
+|| 165 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f598ea34a68e2071e227ac0c2cbeaeffe577bad6.jpg||The Family Man[[br]](도전 모드 #19)||황금 열쇠를 완성||
+|| 166 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a600f71a773cfa7997b7a25fd69ae7173f8b78e0.jpg||Purist[[br]](도전 모드 #20)||엄마를 처음으로 클리어||
+|| 167 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b36b68337e98fac9e48bb49d60ce4b0ddffcb407.jpg||Lost Baby||Isaac으로 하드 모드에서 엄마의 심장 클리어||
+|| 168 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/367e3162d635c06371d14a793fc1a72757cc62db.jpg||Cute Baby||Magdalene으로 하드 모드에서 엄마의 심장 클리어||
+|| 169 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a74c8947c66c93f0a083d38be71bd27833411cea.jpg||Crow Baby||Eve로 하드 모드에서 엄마의 심장 클리어||
+|| 170 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/998329df91c3259ddd652ef3d8405d29ee970be6.jpg||Shadow Baby||Judas로 하드 모드에서 엄마의 심장 클리어||
+|| 171 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b8de606643f13d2c63f8535e8c6ad40b7f204e5e.jpg||Glass Baby||Cain으로 하드 모드에서 엄마의 심장 클리어||
+|| 172 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2483c9c25db9d25a0a818a0db68bf8c6db1e8704.jpg||Wrapped Baby||Lazarus로 하드 모드에서 엄마의 심장 클리어[* 버그로 인해 Azazel로 클리어시 해금되는 경우가 있다]||
+|| 173 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8c2aec50c45fb4d0ea198c38778c45afbd998f17.jpg||Begotten Baby||Azazel로 하드 모드에서 엄마의 심장 클리어[* 버그로 인해 Lazarus로 클리어시 해금되는 경우가 있다]||
+|| 174 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2f56068a129a2d9f93fc3fe26f1d4bc7aec82314.jpg||Dead Baby||???로 하드 모드에서 엄마의 심장 클리어||
+|| 175 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/11b4ec454833d28d909ef7ee098498c3c8580724.jpg||-0- Baby||The Lost로 하드 모드에서 엄마의 심장 클리어||
+|| 176 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b9f90720bbc173f76ec1a2267bf1f029d72bd22c.jpg||Glitch Baby||Eden으로 하드 모드에서 엄마의 심장 클리어||
+|| 177 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/eb234e74edd0c7f191881dc2eeebb39e9602afe6.jpg||Fighting Baby||Samson으로 하드 모드에서 엄마의 심장 클리어||
+|| 178 ||http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3eec49150b625cdf4a6766f1a6935eb2061d0ba1.jpg||Lord of the Flies||파리의 제왕으로 변신하기||

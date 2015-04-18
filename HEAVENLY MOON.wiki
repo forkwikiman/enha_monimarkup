@@ -1,0 +1,135 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡자는 [[Tatsh]].
+
+== [[유비트 시리즈]] ==
+attachment:6_copious_heavenlymoon.png
+
+||전국의 [[유비트]] 팬 여러분, 안녕하세요. [[Tatsh]]입니다.
+이번이 첫 참가이기에, [하드코어 테크노|해피 하드코어] 풍의 곡을 제공하였습니다.
+그렇지만 그냥 해피 하드코어로는 유비트에 다채로움을 더할 수 없기 때문에, 조금은 화려한 맛을 섞어 보았습니다.
+그 두 요소, "HEAVEN"과 "MOON"이 어울려 제목이 되었습니다.
+부디, 그 어딘가의 게임 센터에서 플레이하고 계시는 모습을 뵙고 싶습니다.
+잘 부탁해요 HEAVENLY MOON!!
+
+-[[Tatsh]], [[유비트 코피어스]] OST 코멘트
+||
+
+||【채보】 맛스루
+[[wiki:"유비트 코피어스/Copious Travel" copious travel]]의 임종을 느끼도록, 여기까지 다다른 달성감과 이걸로 끝나 버린다는 조금 덧없음도 느끼는 그런 곡으로, 거기에 적당한 보면이라고 하는 것으로 여러가지 고민했어요. 다른 LEVEL10 들과는 또 다른 개성이 되지 않았을까.
+이야~ 그래도 역시 [[wiki: "The Dirty of Loudness" 전부 누르는 보면]]으로는 되지 않았네요. 기대감은 느끼고 있었습니다만.
+
+【쟈켓】 nyt..
+달님에 장난을 쳤습니다-. [* 확대해서 보면 문양에 맛스루와 냐구와, 넨고로네코의 얼굴이 있다. attachment:hmpp.jpg]
+
+- [[유비트 코피어스]] 스태프 블로그
+||
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>5||<:>8||<:>10||
+||<#000000><:>{{{#white 노트수}}}||<:>347||<:>596||<:>886||
+||<#000000><:>{{{#white BPM}}}||||||<:>185||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#5a5aff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 코피어스]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>copious pack 07||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+관련 칭호
+ * [[유비트 코피어스]] ~
+  * HEAVENLY NIGHT : 모든 보면 클리어
+  * HEAVENLY '''GALAXY'''[* 굵은 글씨는 칭호 파츠.] : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+Tatsh가 [[유비트 시리즈]]에 처음으로 참여한 곡이다.
+
+[[wiki:"유비트 코피어스/Copious Travel" Copious Travel]]의 최종해금곡이며, 이 곡의 3개 난이도를 모두 해금하면 '''Eternal Travel''' 상태로 전환된다. Stage 5까지 오는 것은 물론이고, 전 패턴을 해금하는데도 AP가 상당히 필요한지라 항간에서는 '''해금리문'''으로도 불린다.[* AP가 총 753060점 필요하다. 보통 한코인에 얻는 포인트를 1000으로 가정했을때 753코인, 총 376500원이 필요하게 된다. 인디고 셔츠까지 합해도 대략 57만 포인트정도 들었던 [[I'm so Happy]]와 비교하면 엄청난 차이] 그러나 최종해금곡이라는 위치가 무색하게도 [http://youtu.be/iA5Iv-g58yU 익스트림 보면을 한턴에 해금시키는 영상이 올라오기도 했다.] [* [http://www.youtube.com/watch?v=FDtPEZxbdts&feature=relmfu 5분짜리 풀버전.] 5튠+로컬매칭으로 설정. 각 곡명별 행별마다 클리어시 4000AP+남긴 곡들이 대부분 오리지널곡 전도(1500AP)및 이것저것 보너스 점수(...)를 받는데, 한 보면을 해금하면 남는 포인트는 다음에 사용되므로, 어드밴스 해금 직전에 몰아서 받았다. 참고로 프리 플레이라서 박스모드는 아니다. 플레이어가 말하기를 이날 박스모드 대여가 가능한 오락실은 사람이 너무 많아서 다른 오락실에서 작업했다고 한다.] 
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/FKpipOqOOAY?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FKpipOqOOAY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+익스트림 보면 영상
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/qGcBqM4NsTM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qGcBqM4NsTM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[Y.S-Y]]의 엑설런트 영상
+
+곡의 난이도는 최종해금곡[* Copious Travel 기준. 특수 해금곡까지 합한다면 [[アルストロメリア]]가 실질적인 최종 해금곡이다.]답게 '''어렵다.''' 초반에는 [[wiki:"さよならトリップ" X자 보면]]이 나오고, 이후 피아노 연주 부분 이후에 곡이 멈추면서 나오는 "Heavenly Moon" 이라는 샘플링과 함께
+
+||● ① ④ ●
+● ② ③ ④
+④ ② ③ ④
+● ④ ④ ●||
+
+이런 식으로 '''초승달 모양의 패턴''' 이 나오는 것이 특징이라 할 만하며 이후에는 동시치기 위주의 어렵지 않은 패턴이 나온다.
+
+하지만 1분 9초부터 '''폭타가 나오기 시작하며''', 이후에도 동시치기 위주의 패턴이 나오다가 '''기습폭타가 여러 번 나온다.''' 게다가 뒤로 갈수록 노트 수도 점점 많아지기 때문에 '''[[후살]]이라 할 수 있다.''' 단, 클리어 자체는 초반에 점수를 착실히 모은다면 가능하다. 폭타부분도 보이는거라도 제대로 치는게 어버버하다가 다 놓치는거보다는 낫다.
+
+어드밴스 난이도에서는 [[wiki:"I'm so Happy" H패턴]]이 2번 나오니 주의할 것.
+
+여담으로 맛스루가 처음 패턴을 짤때는 위같은 초승달이 아닌
+
+||□ ■ ■ □
+■ □ □ ■
+■ □ □ ■
+□ ■ ■ □||
+
+이런 [[보름달]]을 넣으려고 했었는데, 주변의 만류에 의해 위의 초승달로 바꿔서 넣었다고 한다. 
+ 
+== [[리플렉 비트 시리즈]] ==
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/3RqX-jVR19I?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3RqX-jVR19I?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+||||||<table align=right><:>'''PASTEL ADVENTURE'''||
+||||||||<#000080><:>'''[wiki:"유비트 시리즈"<span style="color:white">jubeat] {{{#white 산맥}}}'''||
+||||||<:>[wiki:"%5BE%5D" [E] ]||
+||||||<:>'''HEAVENLY MOON'''||
+||||||<:>[[量子の海のリントヴルム]]||
+||||||<:>[[Red Goose]]||
+||||||<:>[[ALBIDA]]||
+
+|||||||||||||| [[리플렉 비트 시리즈|리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 185 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 177}}} || {{{#orange 380}}} || {{{#red 577}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]]  ||
+|| [[wiki:"리플렉 비트 플러스" Rb+]] 수록 팩 |||||||| MUSIC PACK 27 ||
+
+2012년 3월 28일 [[리플렉 비트 라임라이트]]로 이식되었다. [[wikI:"유비트 코피어스 어펜드" jubeat]] II 글래스 두번째 눈금 해금곡. X자 보면을 연상시키는 탑 오브젝트와 일반오브젝트 배치를 시작으로 TOP이 나오는 형태가 [STELLAR WIND]의 열화판으로 구성되어서 상당히 헷갈릴 염려가 많다. 유비트에서의 박자를 상당수 따라가기에 익숙해지기는 쉽지만 3TOP이 많이 나와 풀콤보 난이도가 높아질 수 있다. 자주 등장하는 16분음 트릴도 콤보를 끊어먹는 주된 요인. 특히 최후반의 2TOP 롱 오브젝트는 '''마지막 노트가 나올때까지도 끝나지 않기 때문에''' 주의하자. 보통 엄지로 일반 오브젝트를 처리하기 때문에 [[I'm so Happy]]와는 다른 의미로 저스트 리플렉을 날리기 어렵다.
+하드 보면은 10레벨 중에서 극악의 [[회수]]조건을 자랑하는데, '''4그렛 내외'''에서 회수가 된다고 한다.
+
+일본에선 1그렛까지 떴을 정도로 [[엑설런트]]의 조짐이 보인다 했더니, 결국 한국에서 엑설자가 나왔다.[https://twitter.com/Rb_NAGI/status/275194729321361408/photo/1 참고로 엑설점수는 577(노트수)*3+17(총 저스트 리플렉)*10+50(풀콤보)=1951점.]
+
+== [[팝픈뮤직]] ==
+||<:><#fffd7e> '''[[미미냐미·코타로의 플라잉 캐치!]]''' ||
+|| [[量子の海のリントヴルム]] ||
+|| ▼ ||
+|| '''HEAVENLY MOON''' ||
+|| ▼ ||
+|| [[The Wind of Gold]] ||
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/4JCi_2JjU3A?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4JCi_2JjU3A?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+||宵闇に光る神秘。月光を思わせる懐かしくあたたかなハードコア。
+어스름에 빛나는 신비. 달빛을 연상시키는 그립고 따뜻한 하드코어.||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music[[BR]]Sunny Park || MOON CORE[[BR]]문 코어 || HEAVENLY MOON || [[Tatsh]] || AMETORI[[BR]][[아메토리]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 185 || 50단계 || {{{#blue 6}}} || {{{#green 23}}} || {{{#orange 37}}} || {{{#red 44}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+ * [[wiki:"미미냐미·코타로의 플라잉 캐치!" 연동곡 목록으로 돌아가기]]
+
+2013년 6월 3일 [[미미냐미·코타로의 플라잉 캐치!]] 연동 이벤트 해금곡으로 이식되었다.
+
+담당 캐릭터 아메토리는 팝픈뮤직 10에서 Atlantic Spotted Dolphin 라는 곡을 담당하며 처음 등장하고 이후 팝픈뮤직 17 MUSIC에서 해금곡 [[Polaris]]도 담당을 했다. 여기서는 2P컬러로 등장한다.
+
+전체적으로 레벨에 맞는 난이도지만, 중반의 계단을 잘넘겨야하며, 후반 동시치기 후살이 클리어의 관건이니 주의.

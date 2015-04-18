@@ -1,0 +1,75 @@
+[[TCG]] [[매직 더 개더링]]에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+||<tablewidth=100%> '''영어판 명칭''' ||'''Air Elemental'''||<width=230px><|6>attachment:/Air_Elemental.jpg?width=230||
+|| '''한글판 명칭''' ||'''공기의 정령'''||
+|| '''마나비용''' || {3}{U}{U} ||
+|| '''유형''' || 생물 ─ 정령 ||
+||||<height=188px> 비행 ||
+|| '''공격력/방어력''' || 4/4 ||
+
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Limited Edition Alpha ||<|12><:>코어세트||<|17><:>언커먼||
+|| Limited Edition Beta ||
+|| Unlimited Edition ||
+|| Revised Edition ||
+|| Fourth Edition ||
+|| Fifth Edition ||
+|| Classic Sixth Edition ||
+|| Seventh Edition ||
+|| Eighth Edition ||
+|| Ninth Edition ||
+|| Tenth Edition ||
+|| Magic 2010 ||
+|| Portal Second Age ||
+|| Starter 1999 ||
+|| Battle Royale Box Set ||
+|| Beatdown Box Set ||
+|| Duel Decks: Jace VS. Chandra ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+|| 모던 ||||<|3><:>사용가능||
+|| 레가시 ||
+|| 빈티지 ||
+
+||<tablewidth=100%><width=20%> '''세트''' || '''[[wiki:"플레이버 텍스트"배경담]]''' ||
+||Limited Edition Alpha||<|7>''These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.''||
+||Limited Edition Beta||
+|| Unlimited Edition ||
+|| Revised Edition ||
+|| Fourth Edition ||
+|| Fifth Edition ||
+||Battle Royale Box Set||
+||Classic Sixth Edition||<|4><:>''As insubstantial, and as powerful, as the wind that carries it.''||
+|| Portal Second Age ||
+|| Starter 1999 ||
+|| Beatdown Box Set ||
+|| Seventh Edition ||<:>''Where psycho meets cyclone.''||
+|| Eighth Edition ||<|3><:>''Pray that it doesn't seek the safety of your lungs.''||
+|| Ninth Edition ||
+||Duel Decks: Jace VS. Chandra||
+|| Tenth Edition ||<|2>''"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab."[[br]]—Joseph Conrad, The Mirror of the Sea''||
+|| Magic 2010 ||
+
+'''최초의 부스터 팩, [[Limited Edition Alpha]]에서도 알파벳 순서상 가장 먼저 위치한 카드.'''[* 그 때문에 [[매직 더 개더링 온라인]]의 [[디버그 모드]] 카드인 [[Library of Congress]]의 일러스트로 알파 버전의 일러스트가 채용되었다.] 극초창기부터 나름대로 청색의 거대생물(?)로서 자리를 지키고 있었다.
+
+이 당시에는 밸런스를 위해서 생물의 위력이 다른 색보다 약한 청색이기에 당장 같은 전환마나비용인 [[세라 천사]]랑 비교해봐도 뭔가 빠졌다. (그쪽은 3WW, 4/4, 비행, 경계) 하지만 그래도 기본판으로 부스터 드랩을 할 때는 나름대로 청색의 희망이었던 카드. ~~그리고 청색은 생물이 약한 대신 다른게 충분히 강하다. 괜히 [[진남불용청]]이라는 말이 있는 게 아니다.~~
+
+Magic 2011에서는 절판되었고, 대신 발비 4U의 Air Servant(한글명 '공기로 만든 하수인')가 나왔다. 이거나 그거나 컨스에서는 볼 일이 없지만 리밋에서는 오히려 한술 더 뜬 생물. ~~대신 [[벼락]]에 맞아 죽는다던가~~ Magic 2014에서 돌아왔는데, 벼락이 없어져서 벼락맞아 죽을 걱정이 없어졌다.
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Air Servant''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/190645_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''공기로 만든 하수인''' ||
+|| '''마나비용''' || {4}{U} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 생물 — 정령 ||
+||||<height=160px>비행
+{2}{U}: 비행 능력이 있는 생물 한 개를 목표로 정한다. 그 생물을 탭한다.
+
+''"바람은 강하지만 형체는 없다. 용을 하늘에서 떨어트릴 수도 있지만 가장 작은 구멍도 통과할 수 있지."[[br]]—제스투스 드레야, 원소와 영속성에 관한 고찰''||
+|| '''공격력/방어력''' || 4/3 ||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Magic 2011 || 언커먼 ||
+|||| Magic 2014 || 언커먼 ||
+
+[[삼국지]]를 테마로 한 Portal Three Kingdoms에 나오는 [[여몽]]의 능력이 공기의 정령에서 비행만 Horsemanship으로 대체된 능력이다. ([[매직 더 개더링의 삼국지 장수들]] 항목 참고)
+
+attachment:/airelemental_index.jpg?width=230
+~~[[모에선]] 버전 [wiki:"인덱스(어떤 마술의 금서목록)" 공기의 정령]~~[* 참고로 MTG에 [[모에선]] 먹은 일러로 나온 게 실제로 딱 하나 있다. [[Chandra Nalaar]] 참조.]

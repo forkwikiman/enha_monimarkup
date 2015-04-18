@@ -1,0 +1,70 @@
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Curse It! ||
+|| 작곡/작사 |||||||| 한태수 ||
+|| 보컬 |||||||| Denver ||
+|| 배경 |||||||| Loliel ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 113 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}}[* 스트릿 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* 루비 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='4ng2a0SULAs$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=4ng2a0SULAs$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=4ng2a0SULAs$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''BGA'''
+
+[[목차]]
+== 개요 ==
+EZ2DJ 하드코어의 계보를 잇는 곡으로 6th에서 꽤 괜찮게 들을만한 곡. [[Be mine]]도 있었지만 좀 매니악했다.
+
+여담으로 6th 데모 플레이 곡중 하나이다.
+
+== BGA ==
+BGA 스토리는 [[니벨룽겐의 반지]]가 모티브로, 히틀러가 실제로 찾아다녔다는 로제타 스톤을 발견한 '아돌프 군터'라는 캐릭터가 발견해서 이에 연금술을 응용한 증기 기관의 시대를 열어 1941년에 2차 대전을 벌인다는 얘기다.
+
+BGA에서 직접 나오는 부분은 '크림힐트'라는 이름의 소녀가 스팀 기어(로제타 스톤을 이용한 로봇의 이름)를 타고 '아돌프 군터'의 '브루건트'와 '지크프리트'의 '지그문트'를 [[개발살]]내는 내용. 지크프리트는 크림힐트에게 막말하다가(ex: Come on Darling~ 또는 하트표시를 날리는 등) 그녀에게 된통 당한다. ([http://loliel.egloos.com 출처는 BGA 담당인 Loliel의 블로그])
+
+== 패턴 ==
+하드믹스는 7레벨치고는 페달이 어려운 편이다. 엇박페달이 상당히 많이 나오고 거기에 페달 수도 생각보다 많은 편. 그래서 신나게 치고 나면 살짝 발목이 아플 때도 가끔 있다. 사실 페달 빼고는 노트는 7치고 단순한 편에 속하기 때문에 고수들은 판정내기용으로 슈퍼랜덤을 걸고 플레이 하기도 한다.
+
+{{{#!html
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/I9NtK5Ock4o" frameborder="0" allowfullscreen></iframe>
+}}}
+
+위의 영상은 5Key 'znpfg채널' 영상
+
+7th 2.0 znpfg 채널에서 전용 패턴이 등장한다. 하드보다 어렵지만 그래도 무난무난한 편.
+
+EV에서 9짜리 5키 슈하가 추가되었다. 노트 수로 미루어볼 때 znpfg 패턴으로 추정된다.
+
+== 가사 ==
+||I wont have no sleep tonight, too.
+Im going down on the street right there.
+
+
+That you were throwing me up is bringing you down. 
+To shout me it like the beast is bending your knees.
+Your action to be rude is breaking the heart.
+Im cursing at you every night.  still tonight.
+(Chorus: Nah!! Tah too too!! Nah!!)
+
+Curse it now!! Curse it now!! Cant stand!!
+(Chorus: Nah!! Tah too too!! Nah!!)
+
+
+That you were throwing me up is bringing you down. 
+Im cursing at you every night.  still tonight.
+(Chorus: Nah!! Tah too too!! Nah!!)
+
+Curse it now!! Curse it now!! Cant stand!!
+(Chorus: Nah!! Tah too too!! Nah!!)||

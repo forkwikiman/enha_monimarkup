@@ -1,0 +1,190 @@
+ * 상위 항목 : [[템플릿]]
+
+[[목차]]
+== 개요 ==
+[[리그베다 위키]]에 등록된 [[템플릿]] 모음. 문서를 만들 때 아래 목록 중에 선택하여 문서의 기본 틀로 삼을 수 있게 해 준다. 현재 등록되어 있는 템플릿의 수는 총 [[http://wikibbs.net/1677755 122개]].[* 템플릿이 추가될 때마다 업데이트 중입니다.]
+
+== 템플릿 만들기 ==
+이를테면 [[게임]]에 관련된 항목의 기틀로 삼기 위해 [[GameTemplate|Game Template]]을 만들고 싶다면, [[GameTemplate]]라는 문서에 기본 틀을 넣고 저장하면 자동으로 등록된다[* 이런 식으로 대문자와 소문자가 섞여 있는 경우, 리그베다 위키에서는 타이틀을 출력할 때 중간에 있는 대문자 앞을 띄어 쓰게 된다. 때문에, [[GameTemplate]] 문서에 직접 접근했을 때 타이틀은 '''Game Template'''가 된다.]. [[정규표현식]]으로는 {{{^[a-zA-Z0-9]Template$}}}.
+
+만약 중간에 [[띄어쓰기]]가 있거나, 새 항목을 생성할 때
+> 탬플리트를 만드시려면 '{{{[a-z]Template$}}}' 형식의 이름으로 페이지를 만드세요.
+라고 적혀있다고 해서 정말로 항목명 끝에 $[* 정규표현식에서 문자열의 종료를 나타내는 기호이다.]를 붙이거나, 항목명을 따옴표로 둘러싸면 심히 [[골룸]]하다.
+
+== 템플릿 목록 ==
+=== [[리그베다 위키]] 관련 ===
+ * [[MetaTemplate]] : [[템플릿]]을 만들기 위한 템플릿.
+ * [[RedirectTemplate?action=edit|RedirectTemplate]] : [[리다이렉트]] 문서 만들기.
+ * [[TemplateNamespaceTemplate]] : [[틀]]을 만들기 위한 템플릿.
+
+=== [[게임]] 관련 ===
+ * [[GameTemplate]] : '''[[게임]]'''.
+
+ * [[BahamutTemplate]] : 『[[바하무트:배틀 오브 레전드]]』에 나오는 카드.
+ * [[BattleSpiritsTemplate]] : 『[[배틀 스피리츠]]』의 [[배틀 스피리츠/TCG|카드]].
+ * [[BeatcraftCyclonSongTemplate]] 『[[비트크래프트 사이클론]]』의 수록곡.
+ * [[BemaniSongTemplate]] : [[비마니 시리즈]]의 수록곡.
+ * [[Blitz2VehicleTemplate]] : 『[[블리츠 2]]』에 나오는 [[블리츠 2/차량|차량]].
+ * [[BMSSongTemplate]] : [[Be-Music Script]] 기반 리듬게임 수록곡.
+ * [[CapsuleFighterUnitTemplate]] : 『[[캡슐파이터]]』의 유닛.
+ * [[CastlevaniaCharacterTemplate]] : [[악마성 시리즈]]의 등장인물.
+ * [[CinderellaElevenTemplate]] : 『[[신데렐라 일레븐]]』.
+ * [[ClosersCharacterTemplate]] : 『[[클로저스]]』의 등장인물.
+ * [[CookieRunCookieTemplate]] : 『[[쿠키런]]』의 플레이어블 쿠키 캐릭터.
+ * [[CoremastersMasterTemplate]] : 『[[코어마스터즈]]』의 [[코어마스터즈/마스터|마스터]].
+ * [[CosmicRobotCompleteTemplate]] : 『[[강철전기 C21]]』, 『[[코즈믹 브레이크]]』, 『[[코즈믹 커맨더]]』.
+ * [[CyphersCharacterTemplate]] : 『[[사이퍼즈]]』의 능력자(캐릭터).
+ * [[DaydreamBreakerTemplate]]: 『[[동방쇄환전]]』 의 [[동방쇄환전/등장 캐릭터|등장 캐릭터]].
+ * [[DeemoSongTemplate]] : 『[[디모]]』의 수록곡.
+ * [[DiavoloDexTemplate]] : 『[[디아볼로의 대모험]]』의 캐릭터 [[디아볼로의 대모험/도감|도감]].
+ * [[DigimonTemplate]] : [[디지몬 시리즈]]의 디지몬.
+ * [[DJMAXSongTemplate]] : 『[[디제이맥스]]』의 수록곡.
+ * [[Dota2HeroTemplate]]: 『[[도타 2]]』의 [[도타 2/영웅|영웅]].
+ * [[Dota2QuotesTemplate]] : 『[[도타 2]]』의 영웅 대사.
+ * [[ElswordCharacterTemplate]] : 『[[엘소드]]』 플레이어블 캐릭터의 기본 전직 항목용.
+ * [[ElswordClassTemplate]] : 『[[엘소드]]』 플레이어블 캐릭터의 세부 전직 항목용.
+ * [[EVEShipTemplate]] : 『[[이브 온라인]]』의 함선 정보.
+ * [[FalloutNVEquipmentTemplate]] : 『[[폴아웃: 뉴 베가스]]』, [[폴아웃: 뉴 베가스/게임 관련 정보]].
+ * [[HeroesOfTheStormHeroTemplate]] : 『[[히어로즈 오브 더 스톰]]』의 [[히어로즈 오브 더 스톰/영웅|영웅]].
+ * [[HOCHeroTemplate]] : 『[[히어로즈 오브 오더앤카오스]]』의 영웅.
+ * [[IDOLM@STERSongTemplate]] : 『[[아이돌 마스터]]』의 수록곡.
+ * [[IdolParadiseTemplate]] : 『[[아이돌 파라다이스]]』의 캐릭터.
+ * [[JA2CharacterTemplate]] : 『[[재기드 얼라이언스 2]]』의 캐릭터.
+ * [[LOLChampionTemplate]] : 『[[리그 오브 레전드]]』의 챔피언.
+ * [[MapleStorySkillTemplate]] : 『[[메이플스토리]]』의 스킬.
+ * [[MillionArthurTemplate]] : 『[[확산성 밀리언 아서]]』의 등장 카드.
+ * [[MTGCardTemplate]] : 『[[매직 더 개더링]]』에 나오는 카드.
+ * [[O2JamAnalogSongTemplate]] : 『[[오투잼 아날로그]]』의 수록곡.
+ * [[PokemonCardTemplate]] : 『[[포켓몬스터]]』의 [[포켓몬스터 TCG|카드]].
+ * [[PokemonMoveTemplate]] : 『[[포켓몬스터]]』의 [[포켓몬스터/기술|기술]].
+ * [[PokemonTemplate]] : 『[[포켓몬스터]]』의 [[포켓몬스터/목록|포켓몬]].
+ * [[PuzzleAndDragonsMonsterTemplate]] : 『[[퍼즐앤드래곤]]』의 [[몬스터]].
+ * [[SGTCGTemplate]] : 『[[소드걸스]]』 오프라인 TCG의 카드.
+ * [[SoccerSpiritsPlayerTemplate]] : 『[[사커스피리츠]]』의 선수.
+ * [[SolitaireTemplate]] : 『[[솔리테어]]』.
+ * [[SMITETemplate]] : 『[[스마이트]]』에 등장하는 신.
+ * [[Starcraft2MapTemplate]]: 『[[스타크래프트 2]]』의 [[맵]].
+ * [[StarcraftCharacterTemplate]] : 『[[스타크래프트]]』의 [[캐릭터]].
+ * [[StarcraftUnitTemplate]] : 『[[스타크래프트]]』의 [[유닛]].
+ * [[StoneAgePetTemplate]] : 『[[스톤에이지]]』의 펫.
+ * [[SwordGirlsTemplate]] : 『[[소드걸스]]』의 카드.
+ * [[TaikoTemplate]] : 『[[태고의 달인]]』.
+ * [[ToneSphereTemplate]] : 『[[톤 스피어]]』의 수록곡.
+ * [[TouhouCharacterTemplate]] : 『[[동방프로젝트]]』의 캐릭터.
+ * [[TouhouSpellCardTemplate]] : 『[[동방프로젝트]]』의 [[스펠 카드(동방 프로젝트)|스펠 카드]].
+ * [[TwilightStruggleCardTemplate]] : 『[[황혼의 투쟁]]』의 카드.
+ * [[UnleashedDLCNoxTemplate]] : 『[[언리쉬드]]』 DLC 녹스 항목.
+ * [[UnleashedNoxTemplate]] : 『[[언리쉬드]]』 녹스 테마 항목.
+ * [[UnlightCharacterTemplate]] : 『[[언라이트]]』의 캐릭터.
+ * [[VanguardCardTemplate]] : 『[[카드파이트!! 뱅가드]]』에 등장하는 카드.
+ * [[VOCALOIDSongTemplate]] : 『[[보컬로이드]]』의 수록곡.
+ * [[WarmachineTemplate]] : 『[[워머신]]』의 유닛.
+ * [[WOTNationTemplate]] : 『[[월드 오브 탱크]]』의 테크트리.
+ * [[WOTTemplate]] : 『[[월드 오브 탱크]]』의 전차/자주포/구축전차.
+ * [[YugiohCardTemplate]] : 『[[유희왕]]』의 [[유희왕/OCG|카드]].
+
+=== [[교통]] 관련 ===
+ * [[DPRKStationTemplate]] : [[북한]]의 [[철도역]].
+ * [[ICTemplate]] : [[나들목]].
+ * [[JapanStationTemplate]] : [[일본]]의 [[철도역]].
+ * [[RoadTemplate]] : [[도로]].
+ * [[ROKStationTemplate]] : [[대한민국]]의 [[철도역]].
+ * [[StationTemplate]] : [[철도역]].
+
+=== [[기업]] 관련 ===
+ * [[EnterpriseTemplate]] : [[기업]].
+ * [[TelecomTemplate]] : 이동통신 사업을 진행하는 [[통신회사]] 혹은 [[이동통신사]].
+
+=== [[단체]] 관련 ===
+ * [[ROKMinistryTemplate]] : [[국가행정조직/대한민국]].
+ * [[JapanMinistryTemplate]] : [[국가행정조직/일본]].
+
+=== [[도서]] 관련 ===
+ * [[BookTemplate]] : [[도서]].
+
+=== [[드라마]] 관련 ===
+ * [[DramaTemplate]] : [[드라마]].
+
+=== [[등장인물]] 관련 ===
+ * [[CharacterTemplate]] : [[캐릭터]].
+
+=== [[만화]] 및 [[애니메이션]] 관련 ===
+ * [[AnimationTemplate]] : [[애니메이션]].
+ * [[ComicReviewTemplate]] : [[만화]] 리뷰.
+ * [[SouthParkEpisodeTemplate]] : 《[[사우스 파크]]》의 에피소드.
+ * [[SuperheroTemplate]] : 《[[슈퍼히어로]]》 외 관련 캐릭터.
+ * [[WebtoonTemplate]] : [[웹툰]].
+
+=== [[방송]] 관련 ===
+ * [[TelevisionBroadcastingTemplate]] : [[TV]] 프로그램.
+
+=== [[범죄]] 관련 ===
+ * [[CrimeTemplate]] : [[범죄]].
+
+=== [[스포츠]] 관련 ===
+ * [[BaseballBoxScoreTemplate]] : [[야구]] 점수표.
+ * [[SoccerBoxScoreTemplate]] : [[축구]] 점수표.
+
+=== [[시간]] 관련 ===
+ * [[DateTemplate]] : 각 [[날짜]].
+ * [[YearTemplate]] : 각 [[연도]].
+
+=== [[식품]] 관련 ===
+ * [[CocktailTemplate]] : [[칵테일]].
+
+=== [[신화]], [[전설]] 관련 ===
+ * [[SCPTemplate]] : [[SCP 재단]].
+
+=== [[언어]], [[문자]] 관련 ===
+ * [[HangulTemplate]] : [[한글]].
+ * [[HanjaTemplate]] : [[한자]].
+
+=== [[엔터테인먼트]] 관련 ===
+ * [[GagConcertCornerTemplate]] : [[개그콘서트]]의 코너.
+ * [[RollercoasterTemplate]] : [[롤러코스터]].
+
+=== [[영화]] 관련 ===
+ * [[MovieTemplate]] : [[영화]].
+
+=== [[음악]] 관련 ===
+ * [[AlbumTemplate]] : [[앨범]] 목록.
+
+=== [[의학]] 관련 ===
+ * [[DiseaseTemplate]] : [[질병]].
+
+=== [[인물]] 관련 ===
+ * [[ActorTemplate]] : [[배우]].
+ * [[BadmintonPlayerTemplate]] : [[배드민턴]] 선수.
+ * [[BaseballPlayerTemplate]] : [[야구]] 선수.
+ * [[BasketballPlayerTemplate]] : [[농구]] 선수.
+ * [[CelebrityTemplate]] : 유명 인사.
+ * [[LOLProgamerTemplate]] : 『[[리그 오브 레전드]]』의 [[프로게이머]].
+ * [[ProfessorTemplate]] : [[교수]].
+ * [[SingerTemplate]] : [[가수]].
+ * [[SoccerPlayerTemplate]] : [[축구]] 선수.
+
+=== [[인터넷]] 관련 ===
+ * [[CafeTemplate]] : 인터넷 [[카페]].
+
+=== [[자동차]] 관련 ===
+ * [[CarTemplate]] : [[자동차]].
+
+=== [[자연과학]] 관련 ===
+ * [[AnimalTemplate]] : [[동물]].
+ * [[DinosaurTemplate]] : [[공룡]].
+ * [[PlantTemplate]] : [[식물]].
+
+=== [[종교]] 관련 ===
+ * [[QuranTemplate]] : [[쿠란]].
+
+=== [[지역]] 관련 ===
+ * [[HistoricStateTemplate]] : 사라진 [[국가]].
+ * [[RegionTemplate]] : [[도시]], [[지방자치단체]].
+
+=== [[행정구역]] 관련 ===
+ * [[DongTemplate]] : [[법정동]].
+ * [[EupMyeonTemplate]] : [[읍(행정구역)|읍]], [[면(행정구역)|면]].
+ * [[ROKBasicLGTemplate]] : [[대한민국]]의 [[기초자치단체]].
+ * [[ROKCityTemplate]] : [[대한민국]] [[제주특별자치도]]의 [[행정시]].[* [[자치시]]는 [[기초자치단체]]로 취급하여 [[ROKBasicLGTemplate]]를 사용한다.]
+ * [[ROKDistrictTemplate]] : [[대한민국]] [[특정시]]의 [[일반구]].[* [[자치구]]는 [[기초자치단체]]로 취급하여 [[ROKBasicLGTemplate]]를 사용한다.]
+ * [[ROKRegionalLGTemplate]] : [[대한민국]]의 [[광역자치단체]].

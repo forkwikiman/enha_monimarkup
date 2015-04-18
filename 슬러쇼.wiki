@@ -1,0 +1,34 @@
+[[목차]]
+
+= [[클로버필드]]의 가제 = 
+영화 정보 유출을 막기 위해 붙여진 이름이다. 이 외에도 Wrecked나 Cheese같은 가제들이 있다.
+
+= 클로버필드, [[히어로즈]]에 등장하는 정체불명의 음료수 =
+[http://www.slusho.jp 홈페이지]도 있지만, 실제로 판매되는 음료수가 아닌 가상의 음료수이다. You can't just drink six! (여섯 번만 마실 순 없다!)라는 문구처럼 굉장히 맛있다.
+
+홈페이지의 상품코너에서 물건을 사면 진짜로 물건이 온다. [[스타 트렉 더 비기닝]] 개봉 기념으로 슬러쇼 로고가 새겨진 [[엔터프라이즈]] 호를 팔고 있다. 근데 한국에서는 받기 힘들듯...
+
+사실은 영화 클로버필드 상에 직접적으로 드러나지 않는 타구루아토라는 회사의 상품이다. 슬러쇼의 성분은 심해에서 추출한 미지의 물질이다. 이 물질은 맛있고 굉장히 중독성이 강하고  음용자를 기분 좋게 만들어준다. 일종의 마약과 같은게 아닐까 한다. 또 가공하지 않고 그대로 먹을 경우 정신적으로 이상해지는 것 같다. 어떤 사람들은 이 물질이 클로버필드에 등장하는 괴수 [[클로버]]와 모종의 연관이 있지 않을까 추측한다.
+
+
+복용 전
+
+{{{#!html
+<embed src='http://flvs.daum.net/flvPlayer.swf?pwidth=502&pheight=399&vid=eT0KKhdde2c$' width='502px' height='399px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+
+복용 후
+
+{{{#!html
+<embed src='http://flvs.daum.net/flvPlayer.swf?pwidth=502&pheight=399&vid=1G1bUFgKfwE$' width='502px' height='399px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+
+'''왠지 [[딥 원]]들의 의식을 보는 듯하다.'''
+
+여담으로 클로버필드에서 주인공인 로버트 홉킨스가 일본으로 가려고 했던 것은 사실 이 슬러쇼의 일본 지부 부사장이 되었기 때문이다.
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/ZbUODnN-u5g&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZbUODnN-u5g&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+
+스타트렉 더 비기닝에서는 대놓고 등장. 메뉴판에는 슬러쇼의 로고가 나타나며, 주문하는 음료수는 슬러쇼이다.

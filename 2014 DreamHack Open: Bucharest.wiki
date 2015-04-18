@@ -1,0 +1,339 @@
+#title 2014 DreamHack Open: Bucharest
+##title 명령어를 쓰지 않으면 '2014 Dream Hack Open: Bucharest'로 보입니다.
+ * 상위항목: [스타크래프트 2/대회], [DreamHack], [세계 챔피언십 시리즈][* 이 대회는 2014년도 WCS 글로벌 2급 대회이다.]
+
+[[목차]]
+= 개요 =
+||<tablealign=center><-6> '''2014 DreamHack Open''' ||
+||<|2> ''Kick Off''[* 개막 전 이벤트의 성격을 띰] ||'''Bucharest''' || ["2014 DreamHack Open: Summer"Summer] || ["2014 DreamHack Open: Valencia"Valencia] || ["2014 DreamHack Open: Moscow"Moscow] || ["2014 DreamHack Open: Stockholm"Stockholm] ||
+||<-5> ["2014 DreamHack Open: Winter"Winter] ||
+※ 각 대회가 순차적으로 이어지는 [스타리그]나 [GSL]과 달리, DreamHack Open은 각 대회가 서로 영향을 주지 않고[* 직전 대회 시드가 없다.] 독립적으로 진행되며, 마지막 대회인 Winter Open에서 각 대회의 입상자들이 1년을 결산하게 된다.
+
+ * 주최·주관: DreamHack
+ * 기간: 4월 26~27일
+ * 장소: [루마니아] 부쿠레슈티 '살라 폴리발렌타(Sala Polivalenta, 다목적관)'
+ * 사용 맵
+  * [알터짐 요새]
+  * [다이달로스 요충지]
+  * ["프로스트#s-5"프로스트]
+  * 해비테이션 스테이션
+  * 헤비 레인
+  * [폴라 나이트]
+  * ["연수#s-5"연수]
+ * 방식
+  * 4명을 1조로 하여 3차례의 [더블 엘리미네이션]을 실시, 각 조 2위까지 통과한다.
+  * 64명은 1라운드부터, 32명은 2라운드부터 시작한다.
+  * 3라운드를 통과한 16명이 ["토너먼트#s-2"토너먼트]를 통해 우승자를 가린다.
+  * 모든 경기는 3판 2선승제고, 결승전만 5판 3선승제다.
+ * 주요사항
+  * 2014 드림핵 오픈의 실질적인 개막
+= 이모저모 =
+ * 3라운드의 대진특성상 대한민국 16인 전원 편성은 불가능하다.
+= 출전자 =
+= 일정 =
+== 1라운드 ==
+4월 26일 10시에 모든 경기가 동시에 진행되었다.
+원래는 64명이 정원인데 20명만 출전했다(…). 한 명 떨구기(…)와 순위만 정하기(…)로 1라운드가 도배되는 상황이 발생했다.
+
+||<tablealign=center><-6> '''A조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Niroxs || - || - || (없음) || ||
+|| 2경기 || [attachment:Picon_small.png]robertiagar || 0 || 2 || [attachment:Ticon_small.png]Destructicon || ||
+|| 승자전 ||<#FFD700> Niroxs || 2 || 0 || Destructicon || ||
+|| 패자전 || (없음) || - || - || robertiagar || ||
+|| 최종전 ||<#FFD700> Destructicon || 2 || 0 || robertiagar || ||
+
+||<tablealign=center><-6> '''B조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]sSak || 부전승 || - || [attachment:Picon_small.png]Zeny || ||
+|| 2경기 || [attachment:Ticon_small.png]Reynor || - || - || (없음) || ||
+|| 승자전 || sSak || 0 || 2 ||<#FFD700> Reynor || ||
+|| 패자전 || Zeny || - || - || (없음) || ||
+|| 최종전 ||<#FFD700> sSak || 2 || 0 || Zeny || ||
+
+||<tablealign=center><-6> '''C조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]SpiriT || - || - || (없음) || ||
+|| 2경기 || [attachment:Ticon_small.png]Jarod || 0 || 2 || [attachment:Ticon_small.png]MMY || ||
+|| 승자전 ||<#FFD700> SpiriT || 2 || 1 || MMY || ||
+|| 패자전 || (없음) || - || - || Jarod || ||
+|| 최종전 ||<#FFD700> MMY || 2 || 1 || Jarod || ||
+
+||<tablealign=center><-6> '''D조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]Narcotic || - || - || (없음) || ||
+|| 2경기 || [attachment:Zicon_small.png]PengWin || 2 || 0 || [attachment:Picon_small.png]Tish || ||
+|| 승자전 ||<#FFD700> Narcotic || 2 || 0 || PengWin || ||
+|| 패자전 || (없음) || - || - || Tish || ||
+|| 최종전 || PengWin || 0 || 2 ||<#FFD700> Tish || ||
+
+||<tablealign=center><-5> '''E조''' ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Picon_small.png]DaZe || 0 || 2 || [attachment:Zicon_small.png]Nogard || ||
+
+||<tablealign=center><-5> '''F조''' ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Picon_small.png]Ancestor || 2 || 0 || SarahKerigan || ||
+
+||<tablealign=center><-5> '''G조''' ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Picon_small.png]MoonBeam || 0 || 2 || [attachment:Ticon_small.png]Warbsky || ||
+
+||<tablealign=center><-5> '''H조''' ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Zicon_small.png]okhydra || 0 || 2 || [attachment:Ticon_small.png]HoBBiT || ||
+== 2라운드 ==
+4월 26일 14시 30분에 모든 경기가 동시에 진행되었다.
+무려 48명이 2라운드부터 시작하여 1라운드의 의미가 더욱 떨어지게 되었다(…).
+
+||<tablealign=center><-6> '''A조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''B조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''C조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''D조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''E조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''F조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''G조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''H조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''I조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''J조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''K조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''L조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''M조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''N조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''O조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+
+||<tablealign=center><-6> '''P조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || || || || || ||
+|| 2경기 || || || || || ||
+|| 승자전 || || || || || ||
+|| 패자전 || || || || || ||
+|| 최종전 || || || || || ||
+== 3라운드 ==
+4월 26일 19시에 모든 경기가 동시에 진행되었다.
+
+||<tablealign=center><-6> '''A조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]고석현 || 2 || 0 || [attachment:Picon_small.png]Welmu || 해비테이션 스테이션, 프로스트 ||
+|| 2경기 || [attachment:Zicon_small.png]신노열 || 2 || 0 || [attachment:Ticon_small.png]KrasS || 기착지, 만발의 정원 ||
+|| 승자전 ||<#FFD700> 고석현 || 2 || 1 || 신노열 || ||
+|| 패자전 || Welmu || 2 || 0 || KrasS || 만발의 정원, 해비테이션 스테이션 ||
+|| 최종전 || 신노열 || 1 || 2 ||<#FFD700> Welmu || {{{#ff0000 만발의 정원}}}, 프로스트, 회전목마 ||
+
+||<tablealign=center><-6> '''B조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]조명환 || 2 || 0 || [attachment:Ticon_small.png]최병현 || ||
+|| 2경기 || [attachment:Zicon_small.png]이제동 || 1 || 2 || [attachment:Picon_small.png]ToD || {{{#ff0000 해비테이션 스테이션}}}, 만발의 정원, 프로스트 ||
+|| 승자전 || 조명환 || 0 || 2 ||<#FFD700> ToD || 세종과학기지, 만발의 정원 ||
+|| 패자전 || 최병현 || 0 || 2 || 이제동 || ||
+|| 최종전 || 조명환 || 0 || 2 ||<#FFD700> 이제동 || 해비테이션 스테이션, 기착지 ||
+
+||<tablealign=center><-6> '''C조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]MorroW || 0 || 2 || [attachment:Zicon_small.png]이동녕 || {{{#ff0000 만발의 정원}}}, 세종과학기지, 프로스트 ||
+|| 2경기 || [attachment:Zicon_small.png]김준혁 || 1 || 2 || [attachment:Picon_small.png]송현덕 || ||
+|| 승자전 ||<#FFD700> 이동녕 || 2 || 0 || 송현덕 || ||
+|| 패자전 || MorroW || 0 || 2 || 김준혁 || ||
+|| 최종전 || 송현덕 || 1 || 2 ||<#FFD700> 김준혁 || 세종과학기지, {{{#ff0000 해비테이션 스테이션}}}, 회전목마 ||
+
+||<tablealign=center><-6> '''D조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Zanster || 2 || 1 || [attachment:Picon_small.png]강현우 || ||
+|| 2경기 || [attachment:Picon_small.png]조지현 || 2 || 0 || [attachment:Ticon_small.png]Bunny || ||
+|| 승자전 ||<#FFD700> Zanster || 2 || 0 || 조지현 || ||
+|| 패자전 || 강현우 || 0 || 2 || Bunny || ||
+|| 최종전 || 조지현 || 0 || 2 ||<#FFD700> Bunny || , 회전목마 ||
+
+||<tablealign=center><-6> '''E조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]정지훈 || 0 || 2 || [attachment:Ticon_small.png]uThermal || ||
+|| 2경기 || [attachment:Zicon_small.png]Serral || 1 || 2 || [attachment:Ticon_small.png]전태양 || 프로스트 ||
+|| 승자전 || uThermal || 0 || 2 ||<#FFD700>  전태양 || 해비테이션 스테이션, 프로스트 ||
+|| 패자전 || 정지훈 || 2 || 1 || Serral || ||
+|| 최종전 || uThermal || 0 || 2 ||<#FFD700>  정지훈 || 회전목마, 만발의 정원 ||
+
+||<tablealign=center><-6> '''F조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]HuK || 1 || 2 || [attachment:Ticon_small.png]이신형 || {{{#ff0000 세종과학기지}}}, 프로스트, 만발의 정원 ||
+|| 2경기 || [attachment:Zicon_small.png]roof || 0 || 2 || [attachment:Zicon_small.png]Snute || ||
+|| 승자전 ||<#FFD700> 이신형 || 2 ||0 || Snute || ||
+|| 패자전 || HuK || 2 || 0 || roof || ||
+|| 최종전 ||<#FFD700> Snute || 2 || 1 || HuK || ||
+
+||<tablealign=center><-6> '''G조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]이승현 || 2 || 0 || [attachment:Picon_small.png]Lilbow || ||
+|| 2경기 || [attachment:Zicon_small.png]Niroxs || 1 || 2 || [attachment:Ticon_small.png]김동원 || ||
+|| 승자전 || 이승현 || 1 || 2 ||<#FFD700> 김동원 || ||
+|| 패자전 || Lilbow || 2 || 0 || Niroxs || ||
+|| 최종전 ||<#FFD700> 이승현 || 2 || 0 || Lilbow || ||
+
+||<tablealign=center><-6> '''H조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]손석희 || 2 || 0 || [attachment:Picon_small.png]NightEnD || ||
+|| 2경기 || [attachment:Zicon_small.png]FireCake || 0 || 2 || [attachment:Picon_small.png]장민철 || ||
+|| 승자전 ||<#FFD700> 손석희 || 2 || 0 || 장민철 || ||
+|| 패자전 || NightEnD || 1 || 2 || FireCake || ||
+|| 최종전 ||<#FFD700> 장민철 || 2 || 0 || FireCake || ||
+== 결선 라운드 ==
+모든 경기가 4월 27일에 진행되었다.
+
+||<tablealign=center><-7> '''16강전''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]전태양 || 1 || 2 ||<#FFD700> [attachment:Picon_small.png]장민철 || 프로스트, {{{#ff0000 해비테이션 스테이션}}}, 회전목마 ||
+|| 2경기 || [attachment:Ticon_small.png]김동원 || 1 || 2 ||<#FFD700> [attachment:Zicon_small.png]김준혁 || {{{#ff0000 세종과학기지}}}, 프로스트, 기착지 ||
+|| 3경기 || [attachment:Zicon_small.png]Zanster || 0 || 2 ||<#FFD700> [attachment:Zicon_small.png]이제동 || 해비테이션 스테이션, 기착지 ||
+|| 4경기 || [attachment:Zicon_small.png]고석현 || 0 || 2 ||<#FFD700> [attachment:Zicon_small.png]Snute || 기착지, 세종과학기지 ||
+|| 5경기 ||<#FFD700> [attachment:Ticon_small.png]이신형 || 2 || 1 || [attachment:Picon_small.png]Welmu || {{{#ff0000 회전목마}}}, 프로스트, 만발의 정원 ||
+|| 6경기 || [attachment:Picon_small.png]ToD || 0 || 2 ||<#FFD700> [attachment:Ticon_small.png]Bunny || 회전목마, 만발의 정원 ||
+|| 7경기 || [attachment:Zicon_small.png]이동녕|| 1 || 2 ||<#FFD700> [attachment:Zicon_small.png]이승현 || 프로스트, {{{#ff0000 세종과학기지}}}, 기착지 ||
+|| 8경기 || [attachment:Ticon_small.png]정지훈 || 1 || 2 ||<#FFD700> [attachment:Picon_small.png]손석희 || 알터짐 요새, {{{#ff0000 프로스트}}}, 해비테이션 스테이션 ||
+
+||<tablealign=center><-7> '''8강전''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]장민철 || 0 || 2 ||<#FFD700> [attachment:Zicon_small.png]김준혁 || 해비테이션 스테이션, 만발의 정원 ||
+|| 2경기 ||<#FFD700> [attachment:Zicon_small.png]이제동 || 2 || 1 || [attachment:Zicon_small.png]Snute || {{{#ff0000 만발의 정원}}}, 프로스트, 세종과학기지, ||
+|| 3경기 ||<#FFD700> [attachment:Ticon_small.png]이신형 || 2 || 0 ||[attachment:Ticon_small.png]Bunny || 회전목마, 프로스트 ||
+|| 4경기 ||<#FFD700> [attachment:Zicon_small.png]이승현 || 2 || 1 || [attachment:Picon_small.png]손석희 || 해비테이션 스테이션, {{{#ff0000 회전목마}}}, 만발의 정원 ||
+
+||<tablealign=center><-7> '''4강전''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Zicon_small.png]김준혁 || 2 || 1 || [attachment:Zicon_small.png]이제동 || 만발의 정원, {{{#ff0000 프로스트}}}, 세종과학기지 ||
+|| 2경기 || [attachment:Ticon_small.png]이신형 || 1 || 2 ||<#FFD700> [attachment:Zicon_small.png]이승현 || 만발의 정원, {{{#ff0000 회전목마}}}, 프로스트 ||
+
+||<tablealign=center><-7> '''결승전''' ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Zicon_small.png]김준혁 || 0 || 3 ||<#FFD700> [attachment:Zicon_small.png]이승현 || 프로스트, 회전목마, 해비테이션 스테이션 ||
+= 결과 =
+WCS 포인트 지급 범위인 16위까지만 기록한다.
+
+||<tablealign=center> '''순위''' || '''상금''' || '''포인트''' |||| '''성명''' || '''비고''' ||
+||<#FFD700> 우승 || $10000|| 750점|||| 이승현 ||<|3><#FFD700> DreamHack Open: Winter 직행 ||
+||<#C0C0C0> 준우승 || $5000|| 500점|||| 김준혁 ||
+||<#8C7853> 3위 || $3000|| 375점|| 이제동 || 이신형 ||
+||<|2> 5위 ||<|2> $1000||<|2> 250점|| 장민철 || 얀스 오스골드 ||
+|| 패트릭 브릭스 || 손석희 ||
+||<|4> 9위 ||<|4> $0 ||<|4> 125점|| 전태양 || 김동원 ||
+|| 안톤 달스트룀 || 고석현 ||
+|| 베사 호비넨 || 유안 메를루 ||
+|| 이동녕 || 정지훈 ||
+= 통계 =
+ * 종족별
+  * 1라운드: attachment:Ticon_small.png attachment:Zicon_small.png attachment:Picon_small.png
+  * 2라운드: attachment:Ticon_small.png 18, attachment:Zicon_small.png 25, attachment:Picon_small.png 20
+  * 3라운드: attachment:Ticon_small.png 9, attachment:Zicon_small.png 13, attachment:Picon_small.png 10
+  * 16강: attachment:Ticon_small.png 5, attachment:Zicon_small.png 7, attachment:Picon_small.png 4
+  * 8강: attachment:Ticon_small.png 2, attachment:Zicon_small.png 4, attachment:Picon_small.png 2
+  * 4강: attachment:Ticon_small.png 1, attachment:Zicon_small.png 3
+ * 국적별
+  * 1라운드: 
+  * 2라운드: 
+  * 3라운드: attachment:Kr.png 17, attachment:Fr.png 3, ,attachment:Se.png 2, attachment:Pi.png 2, attachment:De.png 2, attachment:No.png 1, attachment:Dk.png 1, attachment:Ro.png 1, attachment:Ch.png 1, attachment:Ca.png 1, attachment:Nl.png 1
+  * 16강: attachment:Kr.png 11, attachment:No.png 1, attachment:Dk.png 1, attachment:Pi.png 1, attachment:Fr.png 1, attachment:Se.png 1
+  * 8강: attachment:Kr.png 6, attachment:No.png 1, attachment:Dk.png 1
+  * 4강: attachment:Kr.png attachment:Kr.png attachment:Kr.png attachment:Kr.png
+= 총평 =

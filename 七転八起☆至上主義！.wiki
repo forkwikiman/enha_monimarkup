@@ -1,0 +1,47 @@
+attachment:/KOTOKO_maxi_09.jpg
+[[애니메이션]] [[하야테처럼!]]의 오프닝 곡. 제목의 뜻은 '''칠전팔기☆지상주의!'''이다.
+
+[[목차]]
+=== 앨범 정보 ===
+발매일: 2007년 10월 17일
+TVA 하야테처럼!의 오프닝 주제가로 사용되었다. 이후 리플렉 비트에도 판권 곡으로 수록되어서 간만에 I've 관련 곡이 리듬 게임에 사용되는 쾌거를 이루었다.
+
+PV 내용이 참 재밌다. 사탕 하나로 불량배를 착한 사람으로 개과천선. 찾아보면 쉽게 나오니 한번 보는 것도 좋다.
+
+1. 七転八起☆至上主義！
+작사: KOTOKO
+작곡: C.G Mix
+편곡: C.G Mix
+2. scene
+작사: KOTOKO
+작곡: 타카세 카즈야
+편곡: 타카세 카즈야
+3. 七転八起☆至上主義！ (Instrumental ver.)
+4. scene (Instrumental ver.)
+그리고 [[리플렉 비트]] 초대작에 실리게 되었다.
+=== [[리플렉 비트 시리즈]] 에서 ===
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 176 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} || {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#08AFDB 8}}} ||
+|| 오브젝트 || {{{#green 101}}} || {{{#orange 197}}} || {{{#red 254}}} || {{{#08AFDB 363}}} ||
+|| 수록버전 ||||||||<#FF1AF8> [리플렉 비트] ||
+||||||||||<#ffffff> REFLEC BEAT와 난이도 비교 - '''없음'''.||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vcLMv-W1GUo" frameborder="0" allowfullscreen></iframe>
+}}}
+오리지널 하드 패턴 영상.
+
+{{{#!html
+<object width="600" height="338"><param name="movie" value="//www.youtube.com/v/65u8_ucJ6ds?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/65u8_ucJ6ds?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="338" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+그루빈에서 추가된 스페셜 패턴 '''엑설런트(100.0%)''' 영상
+
+레벨 7에서 상당히 쉬우면서도 오리지널 시절에 인기가 많던 노래. 이유는 아무래도 [[하야테처럼]]의 오프닝 곡이어서 선곡 버프를 받았다고 봐야 한다. 난이도는 7렙 무난한 패턴이며, 더 대단한 사실은... '''[[리플렉 비트 라임라이트]]에서 패턴이 변하지 않았다.''' 심지어 3TOP으로 바뀌면서 오리지널 시절의 대부분 곡들의 하드 패턴이 수정된 와중에 하드 패턴에서 중앙 TOP 오브젝트가 전혀 안 나온다.
+
+박자는 정직한 정박이며, 어려운 부분 또한 크게 산재하지 않아서 클리어는 물론 풀콤보 난이도도 레벨 7 하급을 달리고 있다.
+
+[[리플렉 비트 그루빈]]에서 스페셜이 추가되었다. 버티컬 위주로 패턴이 짜여져 있으나 까다로운 부분도 박자가 꼬이는 부분도 없기 때문에 판정 내기와 풀콤보 양면에서 하위권. 때문에 [비마니 유적]에서의 스페셜 패턴 풀콤보 과제 달성을 위한 셔틀로 쓰이는 경우가 대부분.
+
+[[각주]]

@@ -1,0 +1,156 @@
+이 페이지는 [[ArmA3]]에 등장하는 무기들을 설명하고 있습니다.
+
+[[목차]]
+= BLUFOR =
+== NATO ==
+=== PO7 ===
+https://community.bistudio.com/wikidata/images/a/ac/Arma3_CfgWeapons_hgun_P07_F.jpg
+   9mm를 사용.
+   장착가능 부착물 :9mm [[소음기]]
+
+NATO 진영의 일반 병사들의 기본 부무장이다.
+=== Vermin SMG ===
+https://community.bistudio.com/wikidata/images/2/2a/Arma3_CfgWeapons_SMG_01_F.jpg
+   [[TDI Vector]]
+   [[.45 ACP]] 30발 탄창을 사용한다. 단발,3연발,자동사격이 가능하다.
+   장착가능 부착물 :.45acp 소음기,PDW용 조준경들 다수
+
+=== MX 시리즈 ===
+https://community.bistudio.com/wikidata/images/9/93/Arma3_CfgWeapons_arifle_MX_F.jpg
+   [wiki:"ACR(Adaptive Combat Rifle)"ACR]진화형으로 추정
+    *MX : 일반적인 소총으로 에르고 그립이 달려있다.
+    *MXC : 카빈버젼 총열이 조금 짦다
+    *MXM : DMR버젼 총열이 조금 더 길다.
+    *MXSW : 분대지원화기 버젼 100발들이 탄창을 주로 사용하고 30발들이 탄창이 호환된다. 그런데 100발들이는 다른 MX와 호환되지 않는다.
+   사용 탄약은 6.5mm "무탄피" 탄약[* 약간 구식 (세계관상으론 현대와 가장 가까운...) 무장을 갖춘 AAF 나 FIA 는 익숙한 5.56mm 탄을 사용한다]
+가늠쇠에 [[트리튬]]이 박혀 있고, 형태가 상당히 쏘기 편하다. 그러나 반동이 좀 있어서 짧은 점사를 맞추기 어렵다 
+상대진영의 소총에 조금 밀리는감이 있는듯.
+Marksmen DLC로 유탄이 장착물이 되었다.
+
+
+=== Mk.18 ABR ===
+https://community.bistudio.com/wikidata/images/0/0d/Arma3_CfgWeapons_srifle_EBR_F.jpg
+   Mk.14 EBR [[M14]]소총은 죽지 않았다.. 다만 강화될뿐..
+   7.62mm 20rnd stanag 사용
+7.62mm 탄약이 상당히 강력하다.
+M14의 무거운 전통을 그대로 반영해 똑같은 7.62mm를 사용하는 CSAT의 라힘과 비교하면 더럽게 무겁다. 거기에 총열까지 짧아 사거리도 짧고..대신 쏘는맛은 묵직하게 좋다. 7.62mm이다시피 파워가 강력해 보통 보병은 2~3방에 죽어버린다. 자동사격은 마찬가지로 반동이 심하지만 못 쏠 정도는 아니고,MXM과 비교하면 더없이 좋은 무기.
+
+
+=== M320 ===
+https://community.bistudio.com/wikidata/images/a/aa/Arma3_CfgWeapons_srifle_LRR_F.jpg
+  ~~[[M320]]~~ 
+
+  [wiki:"CheyTac%20Intervention" 이 체이탁 맞다]
+   .408 탄 사용
+
+=== SDAR ===
+https://community.bistudio.com/wikidata/images/5/5f/Arma3_CfgWeapons_arifle_SDAR_F.jpg
+   수중전투용 소총
+   5.56mm 일반탄(standard)과 이중목적탄 사용
+   수중에서 쏘려면 이중목적탄을 장전해야 되고,일반 소총은 수중에서 격발되지 않는다.
+   주의해야 할 점은. 이중목적탄은 지상에서 유효사거리가 20m도 안나온다. 지상에서 쏠땐 반드시 탄을 갈아 낄 것.
+   또한 부착물 장착이 불가능하다.
+=== PCML ===
+https://community.bistudio.com/wikidata/images/b/b3/Arma3_CfgWeapons_launch_NLAW_F.jpg
+   락온은 적 차량을 크로스헤어에 놓고
+   T를 누르고 있으면 된다
+   이하 모든 유도기능 런처는 사용방법 동일함
+   PCML은 탄두가 직사에 가깝게 발사된다
+
+=== Titian Multi-Purpose Rocket Launcher ===
+https://community.bistudio.com/wikidata/images/d/d4/Arma3_CfgWeapons_launch_B_Titan_F.jpg
+
+https://community.bistudio.com/wikidata/images/b/b8/Arma3_CfgWeapons_launch_B_Titan_short_F.jpg
+위쪽이 AA,아래 것이 단축형. 단축형은 AT,대인 미사일만 장전 가능하며 그냥 타이탄은 [[AA]]미사일만 장전 가능.
+일반 AT탄을 적 보병에게 발사해도 잘 안죽으니까 보병을 상대할땐 AP미사일로 바꿔서 사격하자.
+
+== FIA ==
+=== TRG-20 시리즈 ===
+https://community.bistudio.com/wikidata/images/7/7f/Arma3_CfgWeapons_arifle_TRG21_F.jpg
+   [[TAR-21]]
+   5.56mm를 사용
+FIA군만 쓰는 가난한 자들의 총...
+trg-20이라는 총열이 약간 짧은 버전이 있다.
+
+= OPFOR =
+== CSAT ==
+=== Rook-40 ===
+
+https://community.bistudio.com/wikidata/images/f/f1/Arma3_CfgWeapons_hgun_Rook40_F.jpg
+   9mm 사용
+실총은 MP-443 GRACH. CSAT의 유닛들이 가지고 다니는 권총으로 탄창은 같은 구경인 PO7과 호환된다.
+=== Katiba 시리즈 ===
+https://community.bistudio.com/wikidata/images/2/26/Arma3_CfgWeapons_arifle_Katiba_F.jpg
+   [[KH-2002]]
+똑같이 6.5mm 무탄피탄을 사용하지만 탄창이 호환이 되지 않는다. MX와 비교하면 더할 나위 없이 좋은 무기. 불펍이라 반동도 낮고 사거리도 길며 연사력은 더 좋다. 명중률은 조금 부족하지만 체감이 되는 부분은 아니니.. 마찬가지로 카빈,유탄발사기가 달린 버전이 있다.
+
+=== Zafir 7.62mm LMG ===
+https://community.bistudio.com/wikidata/images/f/f5/Arma3_CfgWeapons_LMG_Zafir_F.jpg
+   7.62mm '''LMG'''이며 연사력도 끝내준다. 장탄수는 150발. 명중률도 나쁘지 않고 경차량이나 민간 차량은 단숨에 무력화 시킬정도의 파괴력을 가지고 있으나 총소리가 매우 개성적이다... ~~이때문에 장탄량도 달리고 개성적이지도 않은 MX SW는 더욱더 찬밥신세가 되었다~~ AI가 들면 왠지 모르게 엄청 잘쏘는것같고 내가 들면 왠지 모르게 AI가 쏘는것보다 명중률이 떨어지는것같은 느낌을 주는 여러모로 개성적인 총기. 여담이지만 FM설명에 의하면 이 총기는 중국제다(!) 
+=== Rahim DMR ===
+https://community.bistudio.com/wikidata/images/4/4b/Arma3_CfgWeapons_srifle_DMR_01_F.jpg
+   이즈마쉬 에서 개발한 VS-121로 보임
+   7.62mm 사용 (역시 NATO의 Mk.18 ABR 과 호환되지 않음)
+
+=== GM6 Lynx ===
+https://community.bistudio.com/wikidata/images/4/4a/Arma3_CfgWeapons_srifle_GM6_LRPS_F.jpg
+   [wiki:"게파트(대물저격총)" 게파트 M6]
+   12.7mm 사용
+   [[wiki:"분리철갑탄" APDS]]탄이 있으며 장갑차 장갑을 관통해 승무원을 사살하거나 손상을 입힐 수 있다.
+
+=== SDAR ===
+https://community.bistudio.com/wikidata/images/5/5f/Arma3_CfgWeapons_arifle_SDAR_F.jpg
+
+=== RPG-42 Alamut ===
+https://community.bistudio.com/wikidata/images/9/9c/Arma3_CfgWeapons_launch_RPG32_F.jpg
+고폭탄두와 대전차탄두가 있다. 무유도지만 생각보다 맞추기는 쉬운 편.
+
+=== Titian Multi-Purpose Rocket Launcher ===
+https://community.bistudio.com/wikidata/images/b/b8/Arma3_CfgWeapons_launch_B_Titan_short_F.jpg
+https://community.bistudio.com/wikidata/images/d/d4/Arma3_CfgWeapons_launch_B_Titan_F.jpg
+텍스쳐만 다르지 동일한 무기.
+
+= INDEPENDENT =
+== AAF ==
+=== ACP-C2 ===
+https://community.bistudio.com/wikidata/images/b/bd/Arma3_CfgWeapons_hgun_ACPC2_F.jpg
+   [[콜트 M1911]]의 개량형
+   .45 acp 사용
+   특이하게 마지막 5발이 예광탄이다.
+
+=== Scorpion SMG ===
+https://community.bistudio.com/wikidata/images/3/37/Arma3_CfgWeapons_SMG_02_F.jpg
+   [[CZ Scorpion Evo 3 A1]]
+   9mm 사용. AAF의 경보병이 들고 나온다.
+
+=== PDW 2000 ===
+https://community.bistudio.com/wikidata/images/0/08/Arma3_CfgWeapons_hgun_PDW2000_F.jpg
+   [[ST Kinetics CPW]]
+   '''가장 가벼운 주무기'''. 이렇게 작아도 베스트엔 안 들어간다. 가볍다는 것만으로도 쓸만한 물건.
+
+=== Mk20 시리즈 ===
+https://community.bistudio.com/wikidata/images/2/2d/Arma3_CfgWeapons_arifle_Mk20_F.jpg
+   [F2000]]
+   5.56mm 사용
+   FIA 가 사용하는 TAR-21의 탄창과 호환가능
+   카빈버전,UGL,카모 버전이 있다.
+
+=== Mk200 ===
+https://community.bistudio.com/wikidata/images/7/72/Arma3_CfgWeapons_LMG_Mk200_F.jpg
+   200발들이 6.5mm 경기관총. 소음기 장착도 되고 연사력도 좋은 편.
+
+=== SDAR ===
+https://community.bistudio.com/wikidata/images/5/5f/Arma3_CfgWeapons_arifle_SDAR_F.jpg
+
+=== PCML ===
+MBT-LAW 대전차 미사일
+https://community.bistudio.com/wikidata/images/b/b3/Arma3_CfgWeapons_launch_NLAW_F.jpg
+
+=== Titian Multi-Purpose Rocket Launcher ===
+https://community.bistudio.com/wikidata/images/d/d4/Arma3_CfgWeapons_launch_B_Titan_F.jpg
+https://community.bistudio.com/wikidata/images/b/b8/Arma3_CfgWeapons_launch_B_Titan_short_F.jpg
+
+== 그 외 ==
+
+http://morawiki.pagekite.me/doku/doku.php?id=arma_3 
+여기에 더 자세한 데이터가 나와있다. (저작권문제)~~서버가 불안정해서 새벽에나 들어가면 확률이 높다...~~

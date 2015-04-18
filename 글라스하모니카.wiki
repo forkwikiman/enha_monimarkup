@@ -1,0 +1,25 @@
+[[include(틀:타악기)]]
+glass harmonica／armonica
+
+attachment:/Glass-Harmonica1.jpg?align=center
+
+{{{#!html
+<div align=center><object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/eQemvyyJ--g?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/eQemvyyJ--g?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+}}}
+[[차이코프스키]]의 '사탕요정의 춤'.
+
+[[악기]]의 한 종류인 [[체명악기]](體鳴樂器, 이디오폰)의 일종. 1761년 [[벤자민 프랭클린]]이 고안하였다. '''아르모니카'''라고도 불린다.
+
+[[오르간]]처럼 틀 아랫부분에 넓적한 페달이 있고 윗부분에는 건반 대신 여러 개의 유리 주발이 걸려 있다. 아랫부분의 페달을 밟아 중심축을 돌리며 주발들을 젖은 손으로 건드리면 와인잔 마찰과 비슷한 효과로 소리가 난다. 상당히 마이너한 악기.
+
+글라스하모니카라고는 하지만 [[하모니카]]와 직접적인 연관은 없고, 오히려 수많은 와인잔에 물을 각각 다르게 담아 연주하는 '''글라스[[하프]]'''와 관련이 있다. 글라스하모니카가 워낙에 마이너한 악기이기 때문에 이를 위한 곡을 연주할 때 글라스하프로 대신하는 경우가 더러 있는데, 자세히 들어보면 두 악기 또한 소리에 묘하게 차이가 있다. [http://www.youtube.com/watch?v=QdoTdG_VNV4 한번 비교해보자.]
+
+애니메이션 [[흑집사]] 2기 6화에 글라스하모니카가 '악마의 악기'로서(...) 등장한다. 실제로도 신경쪽의 위험성이 보고된 바가 있다는데, 극도적으로 신경을 자극해 의기소침해질 수 있다고. 게다가 음색 자체도 상당히 우울하게 느껴질 수도 있다. 하지만 다시 들어보면 맑고 깨끗한 음색이 매력적이기도 하다.
+
+이 악기를 내세운 얼마 안 되는 클래식 악곡 중에는 [[볼프강 아마데우스 모차르트]]가 1791년에 작곡한, 글라스하모니카를 위한 두 개의 소곡이 가장 알려져 있다. 아래의 악곡은 〈글라스하모니카, [[플루트]], [[오보에]], [[비올라]]와 [[첼로]]를 위한 [[아다지오]]와 [[론도]] c단조〉 [[wiki:"쾨헬 번호" KV]] 617.
+
+{{{#!html
+<div align=center><object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/_oYkGaVL62o?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_oYkGaVL62o?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+}}}
+
+사실 여부는 불투명하나 [[루트비히 판 베토벤]]의 사망설에 대한 이야기도 있다. 베토벤이 이 악기를 좋아하여 자주 연주하곤 했는데, 소리를 맑게 하기 위해 유리종 위에 [[납]]이 함유된 물감을 발랐고, 또 유리 자체도 납유리를 사용했기 때문에 납중독을 일으켰다는 것. 그의 사후 [[머리카락]]에서도 납이 검출되었다고 한다.

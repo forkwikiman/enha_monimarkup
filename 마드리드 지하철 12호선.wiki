@@ -1,0 +1,52 @@
+{{{+1 Metro de Madrid Línea 12 / Madrid Metro line 12}}}
+ * [[철도 관련 정보]]
+
+[[목차]]
+== 개요 ==
+||||<#949435> {{{#ffffff 마드리드 지하철 12호선}}} ||
+||운영기관 ||마드리드 지하철공사 ||
+||영업거리 ||41km ||
+||궤간 ||1445㎜ ||
+||차량 ||8000[* CAF/알스톰 차량], 8400[* CAF/봄바르디어/지멘스 차량] ||
+||최대속도 ||70km/h ||
+||역수 ||28 ||
+||전기 ||직류 1500V ||
+
+[[마드리드 지하철]]의 한 노선으로 마드리드 지하철 12호선은 2003년에 처음 개통하였다. 순환선인 12호선은 푸에르타 델 수르 역에서 산 니카시오 역까지 운영한다. 노선은 마드리드 지하철공사가 함께 운영한다.
+
+== 노선 ==
+attachment:/line12.jpg?width=650
+
+|| 한국어 명 || 스페인어 명 || 환승노선 || 비고 ||
+|| ∆ 산 니카시오 ||||||||
+|| 푸에르타 델 수르 || Puerta del Sur || {{{#242676 ●}}} [wiki:"마드리드 지하철 10호선" 10호선] ||  ||
+|| 파르케 리스보아 || Parque Lisboa ||  ||  ||
+|| 알코르콘 센트랄 || Alcorcón Central || [[세르카니아스]] || ||
+|| 파르케 오에스테 || Parque Oeste ||  ||  ||
+|| 우니베르시다드 레이 J. 카를로스 || Universidad Rey J. Carlos ||   ||  ||
+|| 모스톨레스 센트랄 || Móstoles Central || [[세르카니아스]] ||  ||
+|| 프라디요 || Pradillo ||  ||  ||
+|| 오스피탈 데 모스톨레스 || Hospital de Móstoles ||  || ||
+|| 마누엘라 말라사냐 || Manuela Malasaña ||  ||  ||
+|| 로란카 || Loranca ||  ||  ||
+|| 오스피탈 데 푸엔라브라다 || Hospital de Fuenlabrada ||  ||  ||
+|| 파르케 에우로파 || Parque Europa ||  || ||
+|| 푸엔라브라다 센트랄 || Fuenlabrada Central || [[세르카니아스]] ||  ||
+|| 파르케 데 로스 에스타도스 || Parque de los Estados ||  ||  ||
+|| 아로요 쿨레브로 || Arroyo Culebro ||  ||  ||
+|| 콘세르바토리오 || Conservatorio ||  ||  ||
+|| 알론소 데 멘도사 || Alonso de Mendoza ||   ||  ||
+|| 헤타페 센트랄 || Getafe Central || [[세르카니아스]] ||  ||
+|| 후안 데 라 시에르바 || Juan de la Cierva ||  ||  ||
+|| 엘 카사르 || El Casar || {{{#f4d82a ●}}} [wiki:"마드리드 지하철 3호선" 3호선] [[br]] [[세르카니아스]] ||  ||
+|| 로스 에스파르탈레스 || Los Espartales ||  ||  ||
+|| 엘 베르시알 || El Bercial ||  ||  ||
+|| 엘 카라스칼 || El Carrascal ||  || ||
+|| 훌리안 베스테이로 || Julián Besteiro ||  ||  ||
+|| 카사 델 레로흐 || Casa del Reloj ||  ||  ||
+|| 오스피탈 세베로 오초아 || Hospital Severo Ochoa ||  ||  ||
+|| 레가네스 센트랄 || Leganés Central || [[세르카니아스]] || ||
+|| 산 니카시오 || San Nicasio ||  ||  ||
+|| ∇ 푸에르타 델 수르 ||||||||
+
+[[각주]]

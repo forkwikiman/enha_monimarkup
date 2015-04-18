@@ -1,0 +1,51 @@
+[[목차]]
+
+[[BEMANI 시리즈]]의 악곡으로, [[good-cool]]과 [[스와 히데오]]의 합작으로, 강렬한 락과 스와 히데오의 파워풀한 랩이 특징이다.
+
+가사의 내용이 영 좋지 않은 것으로도 알려져 있다. [[가사가 시궁창/일본]] 항목 참조.
+
+== 팝픈뮤직 ==
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/B5RjmpMYsqw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+これが男だ！これがＳＡＤＡＭＥだ！！ここから先はノンフィクション！！！
+이것이 남자다! 이것이 SADAME다!! 여기서부터는 논픽션!!! 
+|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 7 || HARD ROCK[[BR]]하드 락 || SA-DA-ME[[br]]사-다-메 || good-cool feat. すわひでお || YOSHIO[[br]]요시오 ||
+
+|||||||| [HELL] 7 ||
+|| BALLEY TRANCE || HARD ROCK || DES-REGGAE || SPECIAL ENDING 2 ||
+|| Denpasar || '''SA-DA-ME''' || [[夜間行]] || Ending theme of pop'n music 6 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 128 || 43단계 || {{{#blue 5}}} || {{{#green 15}}} || {{{#orange 29}}} || {{{#red 39}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 21}}} || {{{#orange 35}}} || {{{#red 45}}} ||
+|||| 노트 수 || {{{#blue 140}}} || {{{#green 289}}} || {{{#orange 543}}} || {{{#red 791}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+EX는 7의 헬코스에 수록되기도 했다. 19 튠 스트릿까지는 40이었으나 20 fantasia에서 39로 강등.
+
+롱버전이 있고 롱버전도 9에 수록되었지만 롱버전이 다 짤린 16 PARTY에서 삭제되었다.
+
+== 기타프릭스 & 드럼매니아 ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/SvDcLrKUVbw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [GITADORA] 난이도 체계 ||
+||<|5><:> 128 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || 
+|| {{{#green 21}}} || {{{#orange 42}}} || {{{#red 70}}} ||<|2><:> {{{#blue 3.55}}} ||<|2><:> {{{#orange 5.15}}} ||<|2><:> {{{#red 6.90}}} ||
+|| 기타 오픈픽 || {{{#green 26}}} || {{{#orange 42}}} || {{{#red 72}}} ||
+|| 기타 베이스 || {{{#green 20}}} || {{{#orange 41}}} || {{{#red -}}} || {{{#blue 3.35}}} || {{{#orange 5.15}}} || {{{#red 6.50}}} || 
+|| 드럼매니아 || {{{#green 19}}} || {{{#orange 26}}} || {{{#red 50}}} || {{{#blue 2.70}}} || {{{#orange 4.25}}} || {{{#red 6.15}}} || 
+
+GF 10th & DM 9th에 이식되었는데, School의 명의로 출전. 다만 XG 시리즈는 팝픈뮤직의 명의대로 출전한다. 가정용 기타드럼 시리즈엔 이식되지 않았다.
+
+XG 수록은 XG3에서. BGA는 클래식과 V시리즈는 전용 BGA를, GITADORA는 범용 BGA를 사용한다.

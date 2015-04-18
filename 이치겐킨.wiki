@@ -1,0 +1,11 @@
+http://www.ichigenkin.com/graphics/edo.jpg?Width=600
+사진출처: [http://www.ichigenkin.com http://www.ichigenkin.com]
+
+한자: 一絃琴 (いちげんきん, 일현금)
+중국에서 기원하는 일본의 전통악기. 악기의 형태를 보면 [[고금]]과 비슷한 기본적 형태를 하고 있으며, 고금에서 변형된 악기로 여겨진다.
+
+
+아래는 이치겐킨을 소개하는 동영상
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/pl8p9CIBHjU&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pl8p9CIBHjU&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}

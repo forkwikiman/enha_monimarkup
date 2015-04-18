@@ -1,0 +1,139 @@
+[[목차]]
+
+== 개요 ==
+attachment:/poptart1red1.gif
+
+[[미국]]에서 만들어진 [[고양이]] [[캐릭터]]. 작자는 PRguitarman. 몸통이 팝타르트[* [[켈로그]]사에서 만든 일종의 과자이다.]로 되어있는 고양이로, 밤하늘에 [[무지개]]를 ~~싸지르며~~그리며 달린다. 
+
+== 상세 ==
+2011년 4월, PRguitarman이 자신의 사이트인 LOL COMICS에 업로드한 팝타르트 캣(POP TART CAT)이라는 제목의 그림에서 유래한 캐릭터. 동년 4월 5일 saraj00n이라는 인물이 PRguitarman이 업로드한 팝타르트 캣의 GIF 그림에 [[Nyanyanyanyanyanyanya!]]를 [[BGM]]으로 씌워 Nyan Cat이라는 제목으로 [[유튜브]]에 업로드한 것이 계기가 되어 폭발적인 인기를 끌게됐다. 그리고 이후 캐릭터의 이름도 Nyan Cat으로 변경. 2014년 8월 유튜브에서 현재 조회수 '''1억''' 이상을 기록하고 있는중.
+
+=== 영상 ===
+{{{#!HTML
+<embed src="http://www.youtube.com/v/QH2-TGUlwu4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+
+[[Nyanyanyanyanyanyanya!]]가 BGM으로 쓰인 이유는 그냥(…). saraj00n가 유튜브에서 [[BGM]]으로 쓸만한 음악을 찾아다니던 중 우연히 [[UTAU]]의 [[모모네 모모]]가 [[http://youtu.be/_EuPsXanYzY 커버한 곡]]을 발견하여 사용하게 됐다고 한다. saraj00n는 그게 누가 만든 곡인지도, 누가 부른 곡인지도 몰랐다는 모양. 애초에 이렇게 인기가 생길지도 예상하지 못했을테니 신경도 쓰지 않았을테지만(…).
+
+유튜브측은 이 영상의 인기가 쩔어주자 1000만 재생을 넘어간 시점에서 유튜브 플레이어의 시크바 부분을 Nyan Cat 모양으로 만들어버리기까지 했다([[http://www.rigvedawiki.net/r1/pds/nc_ut.jpg 참고]]).
+
+이 영상이 세계적으로 인기를 얻기 시작하자 이를 지켜본 [[일본]]의 [[네티즌]]들은 '이게 어째서 이렇게나 인기가 있는거야?'라고 의문을 표하기도.
+
+=== 저작권 문제 ===
+saraj00n이라는 인물 자체는 그냥 아무 생각 없이 재미삼아 그림과 음악을 무단으로 가져다가 업로드한 것이기 때문에 인기가 폭발하면서 뒤늦게 문제시 되었다.
+
+일단 캐릭터 및 영상의 작자인 PRguitarman은 이 영상이 엄청나게 유행하기 시작하자 반감을 표시. 유튜브에 저작권 침해를 주장하여 한때 영상이 삭제되기도 했었다. 또한 원곡인 Nyanyanyanyanyanyanya!의 작자인 daniwellP도 한참 뒤에야 이 Nyan Cat이라는 영상을 알게 된 모양. 그리고 모모네 모모의 음성원인 후지모토 모모코의 권리도 문제시 되었다.
+
+결국은 각 권리자들과 원만하게 수습은 된 모양이다. PRguitarman은 신이 나서 Nyan Cat 관련 굿즈를 팔아먹고 있고, daniwellP도 '''Nyanyanyanyanyanyanya!가 아닌 Nyan Cat이라는 제목으로 앨범을 냈고(…)'''[* 2012년 2월 1일 발매.].
+
+현재 Nyan Cat 영상의 코멘트에는 제작자로 PRguitarman과 Daniwell-P, [[모모네 모모]]가 표기되었으며, "허가 하에 사용되었음; 제게는 어느 쪽의 권한도 없습니다(***used with permission; I own neither***)"라는 설명이 붙었다.
+
+사실 숨겨진 최고의 수혜자는 팝타르트를 만든 [[켈로그]]일지도(...).
+
+== 기타 ==
+[[어노잉 오렌지]]에서 패러디되었으며([http://youtu.be/0XrRwruU8DE 링크]), 2011년 9월 발매된 [[FL Studio]]에는 Nyan Cat의 프리셋이 동봉되기도 했다([http://youtu.be/X9MR7oMo5r0 링크]). 같은 해 9월 6일에는 [[MIT]]에 [[http://hacks.mit.edu/Hacks/by_year/2011/nyan_cat/ 등장]]하기도 했다.
+
+안드로이드 버전 4.0인 아이스크림 샌드위치에서 이스터 에그로 패러디되었다. 진저브레드처럼 버전 정보를 여러번 터치하면 나오며, 처음에는 작지만 누르고 있으면 점점 커져서 안드로이드 여러 마리가 흐느적거리며(...) 날아다닌다. 액티비티 이름은 --니 안드로이드--Nyandroid. ~~또한 안드로이드 SDK(소프트웨어 개발 키트. 그러니까 앱 만들 때 쓰는 툴)의 로깅 툴 이름은 "LogCat"이다. [[이클립스]]에서 이걸 열어보면 [http://i.imgur.com/n9mYe.jpg?1 냥캣 아이콘을 패러디한 아이콘]이 뜨는 걸 봐서는 확정범.~~ 순서가 바뀐 패러디. cat은 유닉스에서 파일을 플레인하게 제어해주는 프로그램인데 보통 터미널에 파일 내용을 뿌려주는 용도로 사용한다. 즉 log를 cat해주기 때문에 logcat인데 이에 착안해서 Nyandroid로 패러디한 것.
+
+2012년 8월 3일 [[사운드 볼텍스 부스]]에서 '''[[UTAU]]버전을 통채로 수록했다'''(...) 아 물론 플레이 시간에 맞게 컷팅해서. ~~오락실에서 들리는 냥냥 냐냐냐냥~~ 아래 항목 참고. 
+
+어떤이는 10시간짜리 Nyan cat 영상을 처음부터 끝까지 모두 봤다고 한다. [http://www.youtube.com/watch?v=D6etnDBV2gY 링크] [[흠좀무]]...
+10시간 0분 7초에 이 분의 소감을 들을 수 있는데,
+>>"내가 이걸 다시는 볼것 같아? 당연하지!"
+(...) ~~이런 [[근성]]가이~~
+
+그리고 어떤이는 10시간짜리 Nyan cat 영상을 처음부터 끝까지 보는 자신을 찍은 영상을 보는 자신을 찍은 영상을 올렸다. [http://www.youtube.com/watch?v=YLdxIvyWY2k 링크]
+
+=== 패러디물 ===
+ * 10시간짜리 Nyan cat([http://www.youtube.com/watch?v=D091idBiieY&feature=channel_video_title 링크])
+ * 24시간짜리 Nyan Cat([http://youtu.be/VLDKnWi2hNA 링크])
+ * --'''100시간''' 짜리--([http://youtu.be/AA5DsLzSVrk 링크])[* 참고로 유튜브의 최대 길이 동영상은 '''596시간 정도'''이다. 하지만 저작권 때문에 짤렸다... [[지못미]]]
+ * 메탈 버전([http://www.youtube.com/watch?v=mARgyb3asb4&feature=related 링크])
+ * 뉴 헤비메탈 버전 ([http://www.youtube.com/watch?v=q3WIs6j7g4w&feature=fvwrel 링크])~~들으면 지옥행~~
+ * 재즈 버전([http://youtu.be/AaEmCFiNqP0 링크])
+ * 아일랜드 버전([http://www.youtube.com/watch?v=li8ewiacEi0&feature=related 링크])
+ * 오케스트라 버전([http://youtu.be/KiKPgmN5jTg 링크])
+ * [덥스텝] 버전 ([http://www.youtube.com/watch?v=502xxCTRfxo&feature=related 링크])
+ * [흑형]이 직접 들려주시는 비트박스 버전 ([http://www.youtube.com/watch?v=1c2j0Mw37nE 링크])
+ * 텔넷버전([telnet://miku.acm.uiuc.edu 링크])
+ * [[나치]] 버전([http://www.youtube.com/watch?v=QjyiAyo_3vw&feature=related 링크])[* 나치를 다룬 탓에 경고문이 뜬다.][* 가보면 고양이가 싸지르고 있는 무지개(검정색, 노란색, 빨간색으로 이루어져있다)가 [[벨기에]] 국기인지 [[독일]] 국기인지에 대한 병림픽이 난무하고 있다(...) 현행 독일 국기라면 검정-빨강-노랑 순서가 돼야 맞다.]
+ * [[헤비웨폰가이(팀 포트리스2)|헤비웨폰가이 버전]]([http://www.youtube.com/watch?v=OLsdhC9GdXQ&feature=related 링크])
+ * [[스카웃(팀 포트리스2)|스카웃 버전]]([http://www.youtube.com/watch?v=mp_8M_21dHE&feature=related 링크])
+ * [[레이디 가가]] 버전([http://www.youtube.com/watch?v=fr6bDgvDfYk&feature=related 링크])
+ * [[다프트 펑크]] 버전([http://youtu.be/zAdGhpxjOK0 링크])
+ * [[슈퍼 마리오]] 버전([http://www.youtube.com/watch?v=sTLuX5o36K4&feature=related 링크])
+ * [[에미넴]] Without Me 버전. The Fresh Shady of NyaNya([http://www.youtube.com/watch?v=GWPvbC2vrh4 링크])
+ * [[카코데몬]] 버전1([http://youtu.be/40xXmAal18I 링크1]), ([http://youtu.be/tAxQCweDucI 링크2]), ([http://youtu.be/Aj7zIVCYjOg 링크3])
+ * [[오케스트라]] 버전~~쓸데없이 웅장하다~~([http://www.youtube.com/watch?v=obgswSg292c&feature=related 유튜브 자동재생])
+ * [[니달리]] 버전 ([http://www.youtube.com/watch?v=dcYCi6U0isY 링크1]), ([http://www.youtube.com/watch?v=n8gYqqd1dWA 링크2])
+ * NYAN CAT MASHUP ([[50Cent]], [[Eminem]], Gwen Stefani, Slipknot, etc.[* [[50Cent]], [[Eminem]], Ludacris, Nate Dogg, Gwen Stefani, Drake, Lil Wayne, The Game, Kelis, Soulja Boy Tell 'Em, Guns N' Roses, Slipknot 까지해서 총 12명이 이음악에서 리믹스 되었다.]) ([http://www.youtube.com/watch?feature=player_detailpage&v=mhKenOipxj4 링크])
+ * [[레인보 대시(Friendship is Magic)|Nyan Dash]] ([http://www.youtube.com/watch?v=2jp12Qr48WE YTPMV], [http://www.youtube.com/watch?v=yLIT6cEksqY 메탈]) --싱크로율이 적절하다--
+ * [피카츄] 버전 ([http://www.youtube.com/watch?v=361mBai-h8Q 링크])
+ * [[프리퀄]] [http://www.youtube.com/watch?feature=player_embedded&v=CggsoJzg5iw #]
+ * [[안나카]] 버전 [http://www.youtube.com/watch?v=Mmu465hTNMc #]
+ * [[실사판]] [http://www.youtube.com/watch?v=x8oICXD-AGc]
+ * 색반전 Tac Nayn: Nyan Cat의 숙적으로, 몸이 와플이다. 둘이 [http://www.youtube.com/watch?v=JiGQGfun5W0 정면 충돌하면]... 
+ ([http://www.youtube.com/watch?v=mARgyb3asb4 일반 버전], [http://www.youtube.com/watch?v=pnD9FBR6oSE 8비트] [[테스타먼트]])
+ * [[룰루(리그 오브 레전드)|룰루]] 버전 [http://bgmstore.net/view/7I4xh 리폿 하고싶다.]
+ * 젠트(Djent, 프로그레시브의 하위 장르) 버전 [http://www.youtube.com/watch?v=2WOOHYNHhME]
+
+ * 비둘기야 먹자 버젼 [http://bgmstore.net/view/6TDy1?q_type=category&q=%EC%9E%A5%EC%97%84 무언가 진지하다. 진지한 마약?]
+ * 윈도우 98 효과음 버전 [https://www.youtube.com/watch?v=3zYMiz4KZNU]
+=== [[사운드 볼텍스]]에 수록 ===
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/k4iPrsVK6xQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+본격 [[버터플라이 캣|고양이]] [[세계는 고양이의 것|시리즈]] 3탄. '''서양쪽'''의 몇몇 사람들은 이게 게임에 실렸다는 사실이 납득이 안간다는 반응. ~~그 와중에 '''[[콘파쿠 요우무|묭묭묭묭묭묭묭!]]'''이 원본인줄 아는 사람이 있다.~~ 사실 일본에서도 납득 못하는 분위기가 꽤 퍼져 있다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0058_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0058_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0058_1.jpg?width=150 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0058_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 08}}} || {{{#ff009f 13}}} || {{{#448844 15}}} ||
+|| 체인 수 || {{{#purple 0339}}} || {{{#orange 0633}}} || {{{#ff009f 0886}}} |||| {{{#448844 1028}}} ||
+|| 일러스트 담당 || {{{#purple まじろ}}} || {{{#orange まじろ}}} || {{{#ff009f まじろ}}} |||| {{{#448844 まじろ}}} ||
+|| 이펙터 || {{{#purple DJ UTO}}} || {{{#orange DJ UTO}}} || {{{#ff009f DJ UTO}}} || {{{#448844 TEK-A-RHYTHM}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} || {{{#ff00ec II 03(2013.7.3)}}} ||
+|| [[BPM]] |||||||| 142 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} || 통상해금 || 통상해금 ||
+|| {{{#orange ADVANCED}}} || 40 || 없음 ||
+|| {{{#ff009f EXHAUST}}} || 160 || 없음 ||
+|| {{{#448844 INFINITE}}} || 2000 || [[세계는 고양이의 것]]의 EXH 패턴 AAA로 클리어[[BR]]또는[[BR]][[세계는 고양이의 것]]의 전체 패턴 10회 이상 클리어 ||
+
+변경점
+|| 2013/07/03 ||INFINITE 패턴 추가||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 06(2013.7.3 ~ 2013.9.5)
+  * INFINITE : Skill Level 09(2014.5.1 ~ 2014.6.5)
+
+원래 CD자켓에는 [[하츠네 미쿠]]가 그려져 있었으나, 사운드 볼텍스에서는 미쿠가 지워졌다.
+
+[[사운드 볼텍스 부스]]에서 다운로드 가능조건이 특이했었는데, ADV는 [[버터플라이 캣]][* daniwellP가 투고했던 곡이다] ADV, EXH는 [[세계는 고양이의 것]] EXH 클리어가 조건인데, 세계는 고양이의 것 EXH의 다운로드 가능조건을 생각해보면 결국 '''버터플라이 캣 ADV 클리어 → 세계는 고양이의 것 ADV 해금 후 클리어 → 세계는 고양이의 것 EXH 해금 후 클리어 → Nyan Cat EXH가 다운로드 가능하다'''는 결론이 나온다.
+한 술 더 떠서 [[사운드 볼텍스 II -인피니트 인펙션-]]에서 INFINITE 패턴 해금조건이 세계는 고양이의 것 EXH AAA 랭크 혹은 10판플레이 ~~[[이말년씨리즈|하하 고양이판이네?]]~~ 다만, 부스 때와는 달리 세계는 고양이의 것 EXH 패턴의 다운로드 조건이 사라졌고, 블럭으로만 해금할 수 있게 되었다.
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/tAdcMbt4Xbc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+모든 패턴이 이펙터를 최대한 활용한 패턴이다. EXH 패턴 난이도 자체는 13 상급이라는 평이 다수이지만 곡 특유의 냥냥냥(...) 때문에 체감 난이도는 더 높게 느껴질 수도 있다.
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/KifzAYynxvs" frameborder="0" allowfullscreen></iframe>
+}}}
+INF 패턴 PERFECT 영상
+
+INF 패턴은 이펙터와 더불어 한술 더뜬 노브를 더욱 최대한 아낌없이 활용하는 패턴으로 레벨 15를 찍었다(...). 클리어 레이트는 부동의 1위...였으나, [[Cleopatrysm]]이 압도적인 차로 벌리고 있는 탓에 2위로 내려왔다. 클리어 난이도는 15레벨 최하위에 속하지만 스코어링 난이도는 어렵다는 평도 종종 나오는 기묘한 패턴이 되어 버렸다. 15레벨에서 2번째로 적은 체인 수 덕에 체인 하나당 배정된 점수가 크기 때문에 일어난 일. 다만 BPM이 낮아 처리력에 비례하여 판정이 나오기 때문에, 처리력이 높은 유저가 하면 체감 난이도는 클리어 난이도와 비슷하다.
+
+== 외부링크 ==
+ * 공식 사이트 http://www.nyan.cat/ [*8 2015년 신년맞이 [[작별]]리믹스가 재생되고있다.]
+ * 플래시 게임 http://www.newgrounds.com/portal/view/569268
+ * 아이폰/아이패드용 게임([http://itunes.apple.com/us/app/nyan-cat-lost-in-space/id433592592?mt=8 아이튠즈 링크]).
+ * [[http://nyanit.com/]] 페이지 안의 주소 입력창에 원하는 사이트 주소를 넣고 NYAN 버튼을 누른 후, 아래에 나온 NYAN ME!를 누르면 어느 사이트나 냥냥 그라운드가 된다. 이런 식으로.→[http://nyanit.com/rigvedawiki.net 냥캣 리그베다 위키] http://nyanit.com/(원하는주소) 로 들어가도 된다. 아래 r0ng을 누르면 [[http://r0ng.com/]]로 이동된다. 화면에 돌아다니는 냥캣은 그냥 놔두면 커지고 클릭하면 작아진다. 클릭할수록 늘어난다.
+  ~~그냥 놔두는 짓은 하지 말자. 몸소 개판이 아닌 고양이판을 몸소 체험할 수 있다.~~

@@ -1,0 +1,10 @@
+||<-20><tablewidth=100%><#ff4000><:> '''[[wiki:"포켓몬스터#s-5.1.1" <font color=white>포켓몬스터 메인 시리즈]]{{{#white 의}}} [[wiki:"라이벌(포켓몬스터)" <font color=white>라이벌]] {{{#white 및 친구들}}}''' ||
+||<-4><#FF0000><:> '''[[wiki:"관동지방" <font color=white>관동지방]]''' ||<-4><#ffd700><:> '''[[wiki:"성도지방" <font color=white>성도지방]]''' ||<-12><#cd1039><:> '''[[wiki:"호연지방" <font color=white>호연지방]]''' ||
+||<-4><width=20%><:> attachment:/60px-FireRed_LeafGreen_Green.png ||<-4><width=20%><:> attachment:/34px-HeartGold_SoulSilver_Silver.png ||<-4><width=20%><:> attachment:/39px-Omega_Ruby_Alpha_Sapphire_Yuuki.png ||<-4><width=20%><:> attachment:/37px-Omega_Ruby_Alpha_Sapphire_Haruka.png ||<-4><width=20%><:> attachment:/37px-Omega_Ruby_Alpha_Sapphire_Mitsuru.png ||
+||<-4><rowbgcolor="#dcdcdc"><:> [[wiki:"그린(포켓몬스터)" 그린]] ||<-4><:> [[실버(포켓몬스터)|실버]] ||<-4><:> [[휘웅]] ||<-4><:> [[봄이]] ||<-4><:> [[민진]] ||
+||<-5><#64aaff><:> '''[[wiki:"신오지방" <font color=white>신오지방]]''' ||<-15><#000000><:> '''[[wiki:"하나지방" <font color=white>하나지방]]''' ||
+||<-5><width=25%><:> attachment:/55px-Platinum_jyun.png?width=50px ||<-5><width=61px><:> attachment:/32px-Black_White_Cheren.png ||<-5><width=25%><:> attachment:/31px-Black_White_bell.png ||<-5><width=25%><:> attachment:/38px-Black_2_White_2_Hugh.png ||
+||<-5><rowbgcolor="#dcdcdc"><:> [[용식(포켓몬스터)|용식]] ||<-5><:> [[체렌]] ||<-5><:> [[벨(포켓몬스터)|벨]] ||<-5><:> [[휴이(포켓몬스터)|휴이]] ||
+||<-20><#5a5aff><:> '''[[wiki:"칼로스지방" <font color=white>칼로스지방]]''' ||
+||<-4><width=20%><:> attachment:/32px-X_Y_Calem.png ||<-4><width=20%><:> attachment:/50px-X_Y_Serena.png ||<-4><width=20%><:> attachment:/259px-XY_Shauna.png?width=40px ||<-4><width=20%><:> attachment:/207px-XY_Trevor.png?width=32px ||<-4><width=20%><:>attachment:/375px-XY_Tierno.png?width=60px ||
+||<-4><rowbgcolor="#dcdcdc"><:> [[칼름]] ||<-4><:> [[세레나(포켓몬스터)|세레나]] ||<-4> [[사나(포켓몬스터)|사나]] ||<-4> [[트로바]] ||<-4> [[티에르노]] ||

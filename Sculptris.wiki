@@ -1,0 +1,12 @@
+[[include(틀:그래픽 툴)]]
+
+|||| ||
+||<width=40%> 정식명칭 || Sculptris (스컬트리스) ||
+|| 개발 || pixologic ||
+|| 라이센스 || [[오픈소스]] ||  
+|| 용도 || 모델링, [[ZBrush]]와 연동 ||
+|| 운영체제 || [[Windows]], [[OSX]] ||
+|| 사이트 || [http://pixologic.com/|홈페이지] ||
+http://i1-win.softpedia-static.com/screenshots/Blender_21.jpg?width=60%
+
+[[목차]]

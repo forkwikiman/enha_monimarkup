@@ -1,0 +1,105 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 7thTRAX Ver 2.0]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2DJ 7thTRAX Ver 2.0/삭제곡|삭제곡]] || [[EZ2DJ 7thTRAX Ver 2.0/라디오채널|라디오채널]] || [[EZ2DJ 7thTRAX Ver 2.0/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 7thTRAX Ver 2.0]]의 히든커맨드 목록.
+
+ * 이 항목은 [[EZ2DJ 7th 2.0/히든커맨드]]로도 들어올 수 있다.
+ * 7th 1.5와 7th 2.0은 커맨드가 대부분 같기 때문에 한 문서에 통합하였다.
+
+[[목차]]
+== 범례 ==
+ * 버튼: 1-2-3-4-5-6-7-8-9-0
+ * 이펙터: E1-E2-E3-E4
+ * 페달: P1-P2
+
+== 히든 커맨드 ==
+ * 버전별 올송
+ 모드 선택 화면에서 해당 모드에 커서를 맞추고 스타트 버튼을 누른 채로 입력한다.
+  * 1st ~ 1st SE: E1 - E2 - E3 - E4 - 1
+  * 2nd: E1 - E2 - E3 - E4 - 2
+  * 3rd: E1 - E2 - E3 - E4 - 3
+  * 4th: E1 - E2 - E3 - E4 - 4
+  * Platinum: E1 - E2 - E3 - E4 - 5
+  * 6th: E1 - E2 - E3 - E4 - 6
+  * 7th ~ 7th 1.5/2.0: E1 - E2 - E3 - E4 - 7
+
+ * 전체 올송
+ 모드 선택 화면에서 해당 모드에 커서를 맞추고 스타트 버튼을 누른 채로 입력한다.
+ 6 - 6 - 7 - 6 - 6 - 8 - 6 - 6 - 9 - 6 - 6 - 9 - 6 - 6 - 10 - E1
+ 시리즈 굴지의 명곡 [[Envy Mask]]의 기타 리프부분 채보에서 따왔다. 이후 [[EZ2DJ AEIC]]까지 한 번도 변경되지 않고 사용된 커맨드이다.
+
+ * 5Radio, 7Radio 히든 채널
+ 5키와 7키 모두 같은 커맨드를 사용한다.
+  * 1.5 1차: 1 - 10 - 2 - 9 - 3 - 8 - 4 - 7 - 5 - 6 - E1
+  * 1.5 2차: 1 - 10 - 3 - 8 - 5 - 6 - 4 - 7 - 2 - 9 - E1 - E2
+  * 1.5 3차: 1 - 2 - 1 - 3 - 1 - 4 - 1 - 5 - 1 - 6 - 1 - 7 - 1 - 8 - 1 - 9 - 1 - 10 - E1 - E4
+  * 2.0 1차: 1 - 10 - 2 - 9 - 3 - 8 - 4 - 7 - 5 - 6 - E1
+  * 2.0 2차: 1 - 10 - 1 - 8 - 1 - 6 - 1 - 7 - 1 - 9 - E3 - E1
+
+ * 무스킨 모드(5Street Mix)
+ 기어 스킨이 안 나오는 모드. 주의할 점은 기어 스킨만 투명해지는 것 뿐이지, 노트는 나온다는 점이다. 즉 외워서 치지 않으면 그대로 게임 오버가 된다.
+ 루비 스킨에서 스타트 버튼을 누른 채로 페달 1번을 밟는다.
+
+ * 구곡 롱노트콤보 모드(5Street Mix)
+ 롱노트콤보 시스템이 적용되지 않는 6th 이전의 구곡에서도 롱노트 콤보를 즐길 수 있도록 하는 모드. 단 이 모드를 사용하면 곡별 랭킹이나 기체 랭킹을 남길 수 없다.
+ 하고 싶은 곡에 커서를 맞춘 후 스타트 버튼을 누른 채로 곡을 시작.
+
+== 히든 곡 ==
+ * 클럽 믹스 3스테이지 히든 곡 해금
+  * Sinus: 3200 콤보 이상
+  * Lucid HD: 2500 콤보 이상
+  * White Rose HD: 1500 콤보 이상
+  * Dreamy Flight HD: 1000 콤보 이상
+  * G.O.A HD: 600 콤보 이상
+
+== 해금 (2.0) ==
+ * 해금 커맨드
+ 해금 커맨드를 입력함에 따라 구곡 추가 패턴과 라디오 믹스 채널들이 해금되었다. 추가 패턴들이 말 그대로 쏟아져나왔고, 특히 7키 모드는 이때 장족의 발전을 이루었다. 7th 2.0이 유저들에게 사랑받았던 이유 중 하나. 한 번 커맨드를 입력하면 기계를 초기화하지 않는 이상 계속 효과가 적용된다.
+||<width=50px> 회차 ||<width=80px> 해금 모드 || 해금 요소 ||
+||<|6><:>1|| 커맨드 ||1 - 9 - 3 - E1 - 6 - 5 - 4 - 1 - 10 - P1 - 1 - 6 - 3 - 5 - E2 - 1 - 2 - 8 - 3 - E4 - 5 - 1 - 9 - 1 - 6 - 4 - 7 - 6 - 1 - 2 - 10 - E2 - 2 - 6 - 1 - 7 - 6 - 4 - 2||
+|| 5Street ||[[Holic]] SHD, [[Black Bird]] SHD, [[R.E.D.]] SHD, [[The Prince of Darkness]] SHD||
+|| 7Street ||[[2.14]] HD, [[Be My Baby]] HD, [[Combination]] HD, [[Special K]] HD, [[Get the beat]] HD, [[I Do Love You]] HD, [[I've got this feeling]] HD, [[Southwest Cadillac]] HD, [[Dirty D]] HD, [[JAM(EZ2DJ)|JAM]] HD, [[Sentimental No! No!]] HD, [[Moving On]] HD, [[Seize The Day]] HD, [[Departure]] HD, [[Holic]] HD, [[Gray Hunter]] SHD||
+|| 5Radio ||La Resistance 2||
+|| 7Radio ||2nd - Tomato, K&S, Ponglow[[br]]3rd - Airborn, xxdbxx, Andy Lee, Croove, Ponglow[[br]]4th - Imp17, xxdbxx, Andy Lee, Croove, Rehpic, Kimys, Dizzy||
+|| Space ||2Stage - [[White Rose]], [[Legend of Moonlight]], [[The Prince of Darkness]], [[Legend of Moonlight]] HD||
+||<#AAAAAA><|5><:>2||<#AAAAAA> 커맨드 ||10 - 7 - 6 - 4 - E1 - 9 - 3 - 4 - P1 - 6 - 5 - 4 - 9 - P1 - 10 - 2 - 4 - 2 - 3 - 1 - P2 - 2 - 9 - 4 - 5 - 6 - 4 - 4 - 2 - E3 - 1 - 10 - 2 - 6 - 4 - 9 - E2 - 3 - 4 - 1||
+||<#AAAAAA> 5Street ||[[Never Feel This Way]] SHD, [[Legend of Moonlight]] SHD, [[Hyper Magic]] SHD||
+||<#AAAAAA> 7Street ||[[Anemia]] HD, [[Yes Yes]] HD, [[Confete]] HD, [[Confete|Confete (Remix)]] HD, [[Red Hot]] HD, [[느낌|느낌 (Sonic A.P.E Ver.)]] HD, [[The Boy ~Here comes my baby~]] HD, [[Where's My Girl]] HD, [[Funky 5]] HD, [[Back to Bed]] HD, [[I've got this feeling|I've got this feeling (Extended Ver.)]] HD, [[Legend of Moonlight]] SHD, [[The Prince of Darkness]] SHD, [[Lucid]] SHD, [[Holic]] SHD, [[Never Feel This Way]] SHD, [[An Old Story]] SHD, [[Hyper Magic]] SHD||
+||<#AAAAAA> 5Radio ||YammyYammy||
+||<#AAAAAA> 7Radio ||Platinum - S.R., FE, Joyrock&Bigduck, Kkashi, Ache, Forte Escape, Minan[[br]]6th - A.O Music, Sonic A.P.E, EZ2DJ Platinum, SRS(●)[[br]]신규 - YammyYammy, Hamence||
+||<|7><:>3|| 커맨드 ||7 - 3 - 10 - P2 - 1- 10 - 6 - 3 - E1 - 10 - 1 - 6 - 2 - 5 - 4 - E2 - 3 - 5 - 4 - 1 - 2 - 3 - 1 - P1 - 2 - 9 - 8 - 1 - E3 - 4 - 5 - 3 -9 - 2 - 1 - 7 - E4 - 3 - 7 - 2 - 9||
+|| Ruby ||1Stage - [[Freedom]]||
+|| 5Street ||1Stage - [[Mystic Dream 9903]][[br]]2Stage - [[Freedom]][[br]][[Funny Funky]] HD, [[Baby Dance]] HD[* BErA에서 신규 패턴으로 교체], [[You love the life you live]] HD, [[R.D.M. ~Rain Drops in My mind~]] HD, [[Sentimental No! No!]] HD, [[Dreamy Flight]] SHD||
+|| 7Street ||1Stage - [[Freedom]][[br]]2Stage - [[Mystic Dream 9903]][[br]][[In a Nutshell]] HD, [[Cellavue]] HD, [[Ready to Yah]] HD, [[Anytime]] HD, [[I've Fallen|I've Fallen (Hot Dog Boogie Groove Mix)]] HD, [[Any way you want it]] HD, [[Up and down]] HD, [[You love the life you live]] HD, [[With U Girl]] HD, [[Minus 2]] HD, [[One Two Three Four]] SHD, [[I've got this feeling|I've got this feeling (DJ.FE's Restless Soul Mix)]] HD||
+|| 5Radio ||Into the Space, Trick BPM||
+|| 7Radio ||VAi, Sound Addict, Trick BPM||
+|| Space ||2Stage - [[Do you remember]] HD, [[Dance Machine]] HD, [[Holic]] HD, [[Hyper Magic]]||
+||<#AAAAAA><|8><:>4||<#AAAAAA> 커맨드 ||9 - 1 - 6 - 4 - E1 - 9 - 8 - 1 - 7 - P2 - 5 - 4 - 1 - 5 -P2 - 3 - 6 - 9 - 8 - 1 - 2 - E3 - 7 - 3 - 4 - 5 - 2 - E1 - 3 - 8 - 4 - 7 - E1 - 1 - 3 - 5 - 4||
+||<#AAAAAA> 5Street ||[[I've Fallen]] HD, [[Let It Go|Let It Go (Remix)]] HD[* 리믹스의 하드지만, 사용된 음원은 원곡이다. 리믹스에 기생하는 식으로 부활한 셈. 원곡의 노멀 채보는 BE rA에 가서야 부활했다.], [[Departure]] HD, [[JAM(EZ2DJ)|JAM]] HD, [[The Boy ~Here comes my baby~]] HD[* AE에서 신규 패턴으로 교체]||
+||<#AAAAAA> 7Street ||3Stage - [[Be mine]][[br]][[Damnation]] HD, [[Hypnotize]] HD, [[Y-Gate]] HD, [[Delight]] HD, [[Feel So Sad]] HD, [[Memories(EZ2DJ)|Memories]] HD, [[JMJ|JMJ (DFC Space Gear Re-formation)]] HD, [[Spotlight]] HD, [[Weird Wave]] HD, [[Move Your Body]] HD, [[You were the one]] HD, [[Be My Baby|Be My Baby (Funky Mix)]] HD, [[Curse It!]] HD, [[Be-at Feedback]] HD, [[With U Girl|With U Girl (Beach Ver.)]] HD, [[The Boy ~Here comes my baby~|The Boy (EK2-Beat Ver.)]] HD, [[Baby Dance|Baby Dance (Club Ver.)]] HD, [[Lie Lie|Lie Lie (Ceave Beat Ver.)]] HD, [[Climax]] SHD||
+||<#AAAAAA> 5Radio ||Dream Generator||
+||<#AAAAAA> 7Radio ||Exercise, Piano Groove, PPET||
+||<#AAAAAA> Space ||2Stage - [[Lucid]]||
+||<#AAAAAA> EZ2Catch ||3Stage - [[Theme of EZ2DJ 2]] HD||
+||<#AAAAAA> Turntable ||3Stage - [[Lucid]] HD||
+||<|5><:>5|| 커맨드 ||P1 - 5 - 2 - 3 - E2 - 8 - 1 - 2 - 5 - E1 - 3 - 4 - 9 - 8 - E1 - 1 - 4 - 4 - 9 - 4 - 5 - 5 - 4 - P2 - 9 - 3 - 6 - 5 - 3 - E4 - 9 - 1 - 2 - 6 - 3 - E2 - 9 - 1 - 1 - 3 - 4||
+|| 5Street ||[[Do you remember]] HD, [[Back For More]] HD, [[Delight]] HD||
+|| 7Street ||[[Funny Funky]] HD, [[Let It Go]] HD, [[Look out ~Here comes my love~]] SHD, [[Minus 1]] HD, [[Back For More]] HD, [[Hypnotize]] SHD, [[Say That U]] HD, [[We Luv Music]] HD, [[Minus 2]] SHD, [[Blue]] HD, [[Night Madness]] HD, [[Riff Guy]] HD, [[I've got this feeling|I've got this feeling (Extended Ver.)]] SHD||
+|| 5Radio ||SHK, IBIS||
+|| 7Radio ||KIEN, TCUN, Redemption||
+||<#AAAAAA><|5><:>6||<#AAAAAA> 커맨드 ||9 - 8 - 3 - E4 - 2 - 5 - 2 - E2 - 3 - 7 - 1 - 4 - E1 - 3 - 2 - 3 - E3 - 9 - 8 - 2 - 5 - P2 - 9 - 5 - 6 - 10 - P1 - 9 - 7 - 9 - 8 - P2 - 3 - 4 - 7 - 8 - E2 - 10 - 3 - 4 - 4 - 3 - 6||
+||<#AAAAAA> 5Street ||신곡 - [[Frantic|Frantic (YK Edit)]][[br]][[Damnation]] HD, [[Dance Machine]] HD[* Dance Machine (YK House Edit).], [[Dance With Me]] HD[* Dance With Me(Dischord Edit).], [[Refresh]] HD[* Refresh (J-Style Edit).]||
+||<#AAAAAA> 7Street ||신곡 - [[Frantic|Frantic (YK Edit)]][[br]][[Damnation]] HD, [[Dance Machine]] HD[* Dance Machine (YK House Edit).], [[Dance With Me]] HD[* Dance With Me(Dischord Edit).], [[Refresh]] HD[* Refresh (J-Style Edit).], [[I've Fallen]] HD, [[Baby Dance]] HD, [[Do you remember]] HD, [[Quake in Kyoto]] HD, [[DIEOXIN]] HD, [[R.F.C.]] HD, [[Q Factor]] HD, [[Stay]] SHD, [[Cosmic Bird]] SHD, [[Mad Robot]] SHD, [[Baby Dance|Baby Dance (Club Ver.)]] SHD, [[Go!]] SHD, [[Be-at Feedback]] SHD, [[The Boy ~Here comes my baby~|The Boy (EK2-Beat Ver.)]] SHD, [[With U Girl|With U Girl (Beach Ver.)]] SHD||
+||<#AAAAAA> 5Radio ||yak_won||
+||<#AAAAAA> 7Radio ||yak_won, Restoration||
+
+ * 신곡 해금
+ 2.0의 추가곡들을 해금하는 방법. 조건이 극악해서 말이 많았다. 물론 2.0의 신곡들은 1.5의 미사용 곡들을 집어넣은, 덤 요소에 가까운 것이라서 이런 조건을 걸었는지도 모르지만 유저들이 그렇게 받아들이는 건 또 아니었다.
+||<width=50px> 회차 ||<width=80px> 해금 모드 || 해금 요소 ||
+||<|7><:>7|| 커맨드 ||1. 7키 라디오 채널 중 48개를 오토 없이 클리어하여 기록을 새긴다.[[br]]2. 아무 라디오 채널이건 DJ 네임을 ART7[* 의미는 ARTIST CHANNEL in 7th patch. [http://gall.dcinside.com/list.php?id=rhythmgame&no=474458 출처]]로 새긴다.[[br]]3. 두 조건을 만족시킨 후 5Radio Mix를 선택한다.||
+|| Ruby ||[[weep Irish|weep Irish -RE-]], [[One Two Three Four|One Two Three Four (SJ Remix)]]||
+|| 5Radio ||Musician's Collection[* [[Don't Say Anything]], [[One Two Three Four|One Two Three Four (SJ Remix)]], [[One's Trash]], [[weep Irish|weep Irish -RE-]].], SJHdeux[* [[2nd Life]], [[R-decision]], [[Aura]], [[Sinus - Secret Heart]].]||
+|| 7Radio ||Musician's Collection[* [[Don't Say Anything]], [[One Two Three Four|One Two Three Four (SJ Remix)]], [[One's Trash]], [[weep Irish|weep Irish -RE-]].], SJHdeux[* [[2nd Life]], [[R-decision]], [[Aura]], [[Sinus - Secret Heart]].]||
+|| Club ||[[weep Irish|weep Irish -RE-]], [[One Two Three Four|One Two Three Four (SJ Remix)]], [[One's Trash]], [[Sinus - Secret Heart]][* 3200콤보 이상을 기록하면 선곡할 수 있게 된다.]||
+|| Space ||[[One Two Three Four|One Two Three Four (SJ Remix)]], [[One's Trash]], [[Frantic|Frantic (YK Edit)]], [[Be-at Feedback]][* yak_won이 키음을 새롭게 작업한 판본이다.], [[Quake in Kyoto]] HD[[br]]3Stage - [[Don't Say Anything]], [[weep Irish|weep Irish -RE-]]||
+|| Turntable ||[[One Two Three Four|One Two Three Four (SJ Remix)]]||

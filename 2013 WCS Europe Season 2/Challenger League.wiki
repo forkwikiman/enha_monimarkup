@@ -1,0 +1,180 @@
+ * 상위항목: [2013 WCS Europe Season 2]
+[[목차]]
+== 선수 목록 ==
+황색에 해당하는 선수는 1라운드에서, 연청색에 해당하는 선수는 3라운드에서 시작한다.
+
+||<tablealign=center><rowbgcolor="#70F170"><-3><:>attachment:Picon_small.png||<#7CB9E8><-3><:>attachment:Ticon_small.png||<#F4C2C2><-3><:>attachment:Zicon_small.png||
+|| '''국적''' || '''성명'''('''ID''') || '''소속 ''' || '''국적''' || '''성명'''('''ID''') || '''소속 ''' || '''국적''' || '''성명'''('''ID''') || '''소속 ''' ||
+||<rowbgcolor="#FFFF00"><-9><:>[wiki:"2013 WCS Europe Season 1"Season 1] Challenger League Group Stage 조 3위(8명) ||
+|| attachment:Se.png || [SaSe] || [wiki:"Fnatic"attachment:Fnaticlogo_std.png] || attachment:Ru.png || Noname || [attachment:3DClanlogo_std.png][[br]]3D Clan || attachment:Fr.png || FireCake || [attachment:Vega_squadron_std.png][[br]]Vega Squadron ||
+|| attachment:Ru.png || Siw || [wiki:"Team Empire"attachment:Empirelogo_std.png] || attachment:Ua.png || Strelok || [attachment:Navilogo_std.png][[br]]Natus Vincere || attachment:Pl.png || [Nerchio] || [wiki:"Team Acer"attachment:Acerlogo_std.png] ||
+|| || || || attachment:Ua.png || Kas || attachment:Empirelogo_std.png ||
+|| || || || attachment:De.png || KrasS || [attachment:Nrslogo_std.png][[br]]NewRoSoft ||
+||<rowbgcolor="#FFFF00"><-9><:>Season 2 Challenger League 예선 통과(8명) ||
+|| attachment:Kr.png || [wiki:"손석희(프로게이머)"손석희] || [attachment:Myinsanitylogo_std.png][[br]]mYinsanity || || || || attachment:Si.png || Starbuck || attachment:Vega_squadron_std.png ||
+|| attachment:Uk.png || BlinG || [attachment:Dignitaslogo_std.png][[br]][Team Dignitas] || || || || attachment:Es.png || AlaStOr || [attachment:Ldlclogo_std.png][[br]]Team LDLC.com ||
+|| attachment:Kr.png || [강초원] || [wiki:"Azubu/스타크래프트2"attachment:Azubulogo_std.png] || || || || attachment:No.png || TargA || attachment:Dignitaslogo_std.png ||
+|| attachment:De.png || ShoWTimE || [attachment:ESClogo_std.png][[br]]ESC Gaming ||
+|| attachment:Kr.png || [정민수] || attachment:Azubulogo_std.png ||
+||<rowbgcolor="#FFFF00"><-9><:>Season 2 Premier League 32강 탈락(16명) ||
+|| attachment:Fi.png || elfi || [attachment:Encelogo_std.png][[br]]Ence || attachment:Rs.png || Beastyqt || attachment:Empirelogo_std.png || attachment:Ru.png || sLivko || [attachment:Virtuslogo_std.png][[br]]Virtus.pro ||
+|| attachment:Kr.png || [wiki:"김원형(프로게이머)"김원형] || [wiki:"MVP(프로게임단)"attachment:MVPlogo_std.png] || attachment:Kr.png || [wiki:"최성진#s-1"최성진] || [attachment:TeamPartClarity.png][[br]]Clarity Gaming || attachment:De.png || [TLO] || [wiki:"Teamliquid"attachment:Liquidlogo_std.png] ||
+|| attachment:Dk.png || BabyKnight || attachment:Navilogo_std.png || attachment:Fr.png || Dayshi || [wiki:"Millenium"attachment:Milllogo_std.png] || attachment:Ua.png || [DIMAGA] || [attachment:Roccatlogo_std.png][[br]](ROCCAT) ||
+|| attachment:Fr.png || ToD || [attachment:XMG_std.png][[br]]XMG || attachment:Se.png || [ThorZaIN] || [wiki:"Evil Geniuses"attachment:Eglogo_std.png] || attachment:Ua.png || Bly || attachment:Acerlogo_std.png ||
+|| || || || attachment:Dk.png || Bunny || [attachment:Copenhagenwolveslogo_std.png][[br]]Copenhagen Wolves || attachment:Pl.png || uzer || (무소속) ||
+|| || || || attachment:Kr.png || [박지수] || [wiki:"Millenium"attachment:Milllogo_std.png] || attachment:Se.png || SortOf || [wiki:"Western Wolves"attachment:WesternWolvesLogo_std.png] ||
+||||||||||||||||||<rowbgcolor="#6CA0DC"><:>Season 2 Premier League 16강 탈락(8명) ||
+|| attachment:Pl.png || [MaNa] || attachment:Mouzlogo_std.png || attachment:Kr.png || 정종현 || [wiki:"Incredible Miracle"attachment:IMlogo_std.png] || attachment:Nl.png || [Ret] || attachment:Liquidlogo_std.png ||
+|| attachment:Ru.png || TitaN || [attachment:Roxicon_std.png][[br]]RoX || attachment:Es.png || [LucifroN] || [wiki:"mousesports"attachment:Mouzlogo_std.png] || attachment:Fr.png || [Stephano] || [wiki:"Evil Geniuses"attachment:Eglogo_std.png] ||
+|| || || || attachment:Ru.png || [Happy] || [wiki:"Team Empire"attachment:Empirelogo_std.png] || attachment:Pl.png || Tefel || [attachment:Dignitaslogo_std.png][[br]][Team Dignitas] ||
+== 예선 ==
+=== 주요 참가자 목록 ===
+ * 한국인
+  * [한국e스포츠협회] 소속: [고강민]
+  * e스포츠 연맹 소속: [강초원], [이상헌], [wiki:"정민수(프로게이머)"정민수], [송준혁] 
+  * 해외팀 소속: [wiki:"손석희(프로게이머)"손석희], [이종혁]
+ * 외국인
+  * 유럽: BlinG, Adelscott, StarNaN, Socke, SjoW, HeRoMaRinE, Naama, GoOdy, Brat_OK, Miniraser, JonnyREcco, LoWeLy, HappyZerg
+  * 아시아: DreAm
+=== 예선 통과자 목록 ===
+ * 1일차: 손석희(StarDust), BlinG
+ * 2일차: Starbuck, AlaStOr
+ * 3일차: 강초원(San), TargA
+ * 4일차: ShoWTime, 정민수(Genius)
+= 대회 결과 =
+금색에 해당하는 선수는 다음 시즌 프리미어 리그에 진출하고, 은색에 해당하는 선수는 다음 시즌 챌린저 리그에 잔류한다.
+
+||<tablealign=center> '''성적''' || '''상금''' || '''포인트''' ||<-4><:>'''성명'''('''ID''')||
+||<#FFD700><|2><:>Bracket Stage 통과||<|2> $300||<|2> 100점|| sLivko || Starbuck || TitaN || BabyKnight ||
+|| 정종현 || Happy || 손석희 || ToD ||
+||<#FFD700><|2><:>Group Stage 조 1위||<|2> $200||<|4> 50점|| ShoWTimE || Nerchio || Kas || SaSe ||
+|| LucifroN || ThorZaIN || 박지수 || KrasS ||
+||<#FFD700><|2><:>Group Stage 조 2위||<|2> $100|| TargA || Noname || 김원형 || 최성진 ||
+|| TLO || BlinG || FireCake || 정민수 ||
+||<#C0C0C0><|2><:>Group Stage 조 3위||<|4>||<|4> 25점|| 강초원 || SortOf || Dayshi || DIMAGA ||
+|| uzer || Bunny || MaNa || Tefel ||
+||<|2><:>Group Stage 조 4위|| Stephano || Siw || Bly || elfi ||
+|| Strelok || Ret || Beastyqt || AlaStOr ||
+== Bracket Stage ==
+지난 시즌 챌린저 리그 Group Stage에서 조 3위를 기록한 8명과 이번 시즌 챌린저 리그 예선을 통과한 8명이, 이번 시즌 프리미어 리그 32강에서 조 3·4위를 기록한 16명과 각각 1:1로 겨뤄 승자가 2라운드에 진출한다. 2라운드에 진출한 16명이 각각 1:1로 겨뤄 승자가 3라운드에 진출한다. 3라운드에 진출한 8명은 프리미어 리그 16강 탈락자 8명과 각각 1:1로 겨뤄 승자가 다음 시즌 프리미어 리그에 진출한다. 각 라운드 탈락자는 Group Stage로 이동한다.
+해당 방식은 북미, 유럽이 동일하다.
+=== Round 1 ===
+8월 12일 18시에 '''모든 경기를 동시에 진행했다'''.
+Siw가 기권하면서 상대인 Beastyqt는 2라운드에 직행했다.
+
+||<tablealign=center> '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Ticon_small.png]박지수 || 1 || [attachment:Zicon_small.png]TargA || 2 || 우주 정거장, {{{#ff0000 네오 플래닛 S}}}, 외로운 파수꾼 ||
+|| [attachment:Zicon_small.png]sLivko || 2 || [attachment:Picon_small.png]정민수 || 1 || 뉴커크 재개발 지구, {{{#ff0000 돌개바람}}}, 붉은 도시 ||
+|| [attachment:Zicon_small.png]Bly || 1 || [attachment:Ticon_small.png]KrasS || 2 || 네오 플래닛 S, {{{#ff0000 돌개바람}}}, 붉은 도시 ||
+|| [attachment:Zicon_small.png]Uzer || 1 || [attachment:Zicon_small.png]Starbuck || 2 || 우주 정거장, {{{#ff0000 네오 플래닛 S}}}, 뉴커크 재개발 지구 ||
+|| [attachment:Picon_small.png]김원형 || 2 || [attachment:Picon_small.png]SaSe || 1 || {{{#ff0000 벨시르 잔재}}}, 네오 플래닛 S, 외로운 파수꾼 ||
+|| [attachment:Ticon_small.png]Strelok || 0 || [attachment:Ticon_small.png]Bunny || 2 || 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| [attachment:Picon_small.png]ShoWTimE || 0 || [attachment:Picon_small.png]BabyKnight || 2 || 뉴커크 재개발 지구, 벨시르 잔재 ||
+|| [attachment:Ticon_small.png]최성진 || 2 || [attachment:Zicon_small.png]FireCake || 0 || 뉴커크 재개발 지구, 우주 정거장 ||
+|| [attachment:Picon_small.png]강초원 || 2 || [attachment:Zicon_small.png]SortOf || 1 || 뉴커크 재개발 지구, {{{#ff0000 우주 정거장}}}, 벨시르 잔재 ||
+|| [attachment:Ticon_small.png]Noname || 1 || [attachment:Ticon_small.png]Dayshi || 2 || 우주 정거장, {{{#ff0000 돌개바람}}}, 뉴커크 재개발 지구 ||
+|| [attachment:Zicon_small.png]TLO || 2 || [attachment:Zicon_small.png]AlaStOr || 0 || 우주 정거장, 네오 플래닛 S ||
+|| [attachment:Zicon_small.png]Nerchio || 2 || [attachment:Ticon_small.png]ThorZaIN || 0 || 돌개바람, 뉴커크 재개발 지구 ||
+|| [attachment:Picon_small.png]elfi || 0 || [attachment:Picon_small.png]손석희 || 2 || 뉴커크 재개발 지구, 벨시르 잔재 ||
+|| [attachment:Ticon_small.png]Kas || 1 || [attachment:Picon_small.png]ToD || 2 || 벨시르 잔재, {{{#ff0000 뉴커크 재개발 지구}}}, 돌개바람 ||
+|| [attachment:Picon_small.png]BlinG || 1 || [attachment:Zicon_small.png]DIMAGA || 2 || 뉴커크 재개발 지구, {{{#ff0000 벨시르 잔재}}}, 우주 정거장 ||
+=== Round 2 ===
+1라운드와 마찬가지로 8월 13일 18시에 모든 경기를 동시에 진행했다.
+
+||<tablealign=center> '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Picon_small.png]김원형 || 0 || [attachment:Zicon_small.png]'''Starbuck '''|| '''2''' || 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| [attachment:Ticon_small.png]KrasS || 0 || [attachment:Picon_small.png]'''강초원''' || '''2''' || 뉴커크 재개발 지구, 우주 정거장 ||
+|| [attachment:Picon_small.png]'''BabyKnight''' || '''2''' || [attachment:Ticon_small.png]최성진 || 0 || 네오 플래닛 S, 벨시르 잔재 ||
+|| [attachment:Zicon_small.png]TLO || 0 || [attachment:Ticon_small.png]'''Dayshi''' || '''2''' || 돌개바람, 우주 정거장 ||
+|| [attachment:Zicon_small.png]'''sLivko''' || '''2''' || [attachment:Zicon_small.png]Nerchio || 1 || 외로운 파수꾼, {{{#ff0000 뉴커크 재개발 지구}}}, 돌개바람 ||
+|| [attachment:Zicon_small.png]Beastyqt || 0 || [attachment:Zicon_small.png]'''DIMAGA''' || '''2 ''' || 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| [attachment:Zicon_small.png]TargA || 1 || [attachment:Picon_small.png]'''ToD''' || '''2''' || {{{#ff0000 벨시르 잔재}}}, 돌개바람, 외로운 파수꾼 ||
+|| [attachment:Ticon_small.png]Bunny || 0 || [attachment:Picon_small.png]'''손석희''' || '''2''' || 돌개바람, 외로운 파수꾼 ||
+=== Round 3 ===
+1·2라운드와 마찬가지로 8월 14일 18시에 모든 경기를 동시에 진행했다.
+스테파노가 은퇴하면서 상대인 sLivko는 다음 시즌 프리미어 리그에 직행했다.
+
+||<tablealign=center> '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Zicon_small.png]Ret || 1 ||<#FFD700> [attachment:Zicon_small.png]Starbuck || 2 || 네오 플래닛 S, {{{#ff0000 우주 정거장}}}, 벨시르 잔재 ||
+||<#FFD700> [attachment:Picon_small.png]TitaN || 2 || [attachment:Picon_small.png]강초원 || 1 || 뉴커크 재개발 지구, {{{#ff0000 벨시르 잔재}}}, 돌개바람 ||
+||<#FFD700> [attachment:Picon_small.png]BabyKnight || 2 || [attachment:Ticon_small.png]LucifroN || 1 || 벨시르 잔재, {{{#ff0000 붉은 도시}}}, 우주 정거장 ||
+||<#FFD700> [attachment:Ticon_small.png]정종현 || 2 || [attachment:Zicon_small.png]DIMAGA || 1 || {{{#ff0000 뉴커크 재개발 지구}}}, 벨시르 잔재, 네오 플래닛 S ||
+||<#FFD700> [attachment:Ticon_small.png]Happy || 2 || [attachment:Ticon_small.png]Dayshi || 0 || 우주 정거장, 벨시르 잔재 ||
+||<#FFD700> [attachment:Picon_small.png]손석희 || 2 || [attachment:Picon_small.png]MaNa || 0 || 벨시르 잔재, 뉴커크 재개발 지구  ||
+|| [attachment:Zicon_small.png]Tefel || 0 ||<#FFD700> [attachment:Picon_small.png]ToD || 2 || 벨시르 잔재, 뉴커크 재개발 지구 ||
+== Group Stage ==
+Bracket Stage에서 탈락한 32명을 4명씩 8개 조로 편성하여 조별 더블 엘리미네이션 방식으로 순위를 가린다. 조 1·2위(금색으로 표시)는 다음 시즌 프리미어 리그에 진출한다. 조 3위(은색으로 표시)는 다음 시즌 챌린저 리그에 잔류한다. 조 4위는 WCS에서 퇴출당한다(다음 시즌 챌린저 리그 예선부터 다시 시작해야 한다).
+
+||<tablealign=center><-6><:>A조(8월 15일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]강초원 || 2 || [attachment:Zicon_small.png]Bly || 1 || {{{#ff0000 벨시르 잔재}}}, 돌개바람, 네오 플래닛 S ||
+|| 2경기 || [attachment:Zicon_small.png]TargA || 1 || [attachment:Picon_small.png]ShoWTimE || 2 || 벨시르 잔재, {{{#ff0000 외로운 파수꾼}}}, 뉴커크 재개발 지구 ||
+|| 승자전 || 강초원 || 1 ||<#FFD700> ShoWTimE || 2 || 벨시르 잔재, {{{#ff0000 네오 플래닛 S}}}, 외로운 파수꾼 ||
+|| 패자전 || Bly || 1 || TargA || 2 || {{{#ff0000 외로운 파수꾼}}}, 뉴커크 재개발 지구, 벨시르 잔재 ||
+|| 최종전 ||<#C0C0C0> 강초원 || 1 ||<#FFD700> TargA || 2 || {{{#ff0000 벨시르 잔재}}}, 우주 정거장, 뉴커크 재개발 지구 ||
+
+||<tablealign=center><-6><:>B조(8월 15일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]Noname || 부전승 || [attachment:Zicon_small.png]Stephano || 기권 ||
+|| 2경기 || [attachment:Zicon_small.png]Nerchio || 2 || [attachment:Zicon_small.png]SortOf || 1 || 벨시르 잔재, {{{#ff0000 외로운 파수꾼}}}, 뉴커크 재개발 지구 ||
+|| 승자전 || Noname || 0 ||<#FFD700> Nerchio || 2 || 외로운 파수꾼, 뉴커크 재개발 지구 ||
+|| 패자전 || Stephano || 기권 || SortOf || 부전승 ||
+|| 최종전 ||<#FFD700> Noname || 2 ||<#C0C0C0> SortOf || 0 || 우주 정거장, 뉴커크 재개발 지구 ||
+
+||<tablealign=center><-6><:>C조(8월 16일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]Dayshi || 0 || [attachment:Ticon_small.png]Kas || 2 || 돌개바람, 뉴커크 재개발 지구 ||
+|| 2경기 || [attachment:Picon_small.png]김원형 || 2 || [attachment:Picon_small.png]elfi || 1 || 벨시르 잔재, {{{#ff0000 외로운 파수꾼}}}, 네오 플래닛 S ||
+|| 승자전 ||<#FFD700> Kas || 2 || 김원형 || 1 || 벨시르 잔재, {{{#ff0000 뉴커크 재개발 지구}}}, 우주 정거장 ||
+|| 패자전 || Dayshi || 2 || elfi || 1 || 벨시르 잔재, {{{#ff0000 돌개바람}}}, 외로운 파수꾼 ||
+|| 최종전 ||<#FFD700> 김원형 || 2 ||<#C0C0C0> Dayshi || 1 || {{{#ff0000 우주 정거장}}}, 벨시르 잔재, 외로운 파수꾼 ||
+
+||<tablealign=center><-6><:>D조(8월 16일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]DIMAGA || 부전승 || [attachment:Picon_small.png]Siw || 기권 ||
+|| 2경기 || [attachment:Ticon_small.png]최성진 || 1 || [attachment:Picon_small.png]SaSe || 2 || {{{#ff0000 뉴커크 재개발 지구}}}, 돌개바람, 벨시르 잔재 ||
+|| 승자전 || DIMAGA || 1 ||<#FFD700> SaSe || 2 || 벨시르 잔재, {{{#ff0000 뉴커크 재개발 지구}}}, 외로운 파수꾼 ||
+|| 패자전 || Siw || 기권 || 최성진 || 부전승 ||
+|| 최종전 ||<#C0C0C0> DIMAGA || 1 ||<#FFD700> 최성진 || 2 || 뉴커크 재개발 지구, {{{#ff0000 외로운 파수꾼}}}, 벨시르 잔재 ||
+
+Siw의 선물을 걷어차고 만 디마가에게 애도를…….
+
+||<tablealign=center><-6><:>E조(8월 17일 13시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]LucifroN || 2 || [attachment:Zicon_small.png]uzer || 0 || 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| 2경기 || [attachment:Zicon_small.png]TLO || 2 || [attachment:Ticon_small.png]Strelok || 0 || 우주 정거장, 네오 플래닛 S ||
+|| 승자전 ||<#FFD700> LucifroN || 2 || TLO || 1 || {{{#ff0000 외로운 파수꾼}}}, 우주 정거장, 벨시르 잔재 ||
+|| 패자전 || uzer || 2 || Strelok || 1 || 돌개바람, {{{#ff0000 우주 정거장}}}, 외로운 파수꾼 ||
+|| 최종전 ||<#FFD700> TLO || 2 ||<#C0C0C0> uzer || 0 || 우주 정거장, 벨시르 잔재 ||
+
+||<tablealign=center><-6><:>F조(8월 17일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]Bunny || 2 || [attachment:Picon_small.png]BlinG || 1 || {{{#ff0000 벨시르 잔재}}}, 외로운 파수꾼, 네오 플래닛 S ||
+|| 2경기 || [attachment:Zicon_small.png]Ret || 1 || [attachment:Ticon_small.png]ThorZaIN || 2 || 붉은 도시, {{{#ff0000 네오 플래닛 S}}}, 뉴커크 재개발 지구 ||
+|| 승자전 || Bunny || 1 ||<#FFD700> ThorZaIN || 2 || {{{#ff0000 벨시르 잔재}}}, 네오 플래닛 S, 우주 정거장 ||
+|| 패자전 || BlinG || 2 || Ret || 0 || 벨시르 잔재, 네오 플래닛 S ||
+|| 최종전 ||<#C0C0C0> Bunny || 1 ||<#FFD700> BlinG || 2 || 돌개바람, {{{#ff0000 벨시르 잔재}}}, 우주 정거장 ||
+
+||<tablealign=center><-6><:>G조(8월 18일 13시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]MaNa || 1 || [attachment:Zicon_small.png]FireCake || 2 || 뉴커크 재개발 지구, {{{#ff0000 돌개바람}}}, 우주 정거장 ||
+|| 2경기 || [attachment:Ticon_small.png]Beastyqt || 0 || [attachment:Ticon_small.png]박지수 || 2 || 네오 플래닛 S, 벨시르 잔재 ||
+|| 승자전 || FireCake || 1 ||<#FFD700> 박지수 || 2 || 네오 플래닛 S, {{{#ff0000 뉴커크 재개발 지구}}}, 벨시르 잔재 ||
+|| 패자전 || MaNa || 2 || Beastyqt || 1 || 돌개바람, {{{#ff0000 벨시르 잔재}}}, 뉴커크 재개발 지구 ||
+|| 최종전 ||<#FFD700> FireCake || 2 ||<#C0C0C0> MaNa || 0 || 뉴커크 재개발 지구, 돌개바람 ||
+
+||<tablealign=center><-6><:>H조(8월 18일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Tefel || 2 || [attachment:Picon_small.png]정민수 || 1 || {{{#ff0000 벨시르 잔재}}}, 뉴커크 재개발 지구, 돌개바람 ||
+|| 2경기 || [attachment:Ticon_small.png]KrasS || 2 || [attachment:Zicon_small.png]AlaStOr || 1 || 우주 정거장, {{{#ff0000 뉴커크 재개발 지구}}}, 돌개바람 ||
+|| 승자전 || Tefel || 1 ||<#FFD700> KrasS || 2 || 돌개바람, {{{#ff0000 외로운 파수꾼}}}, 뉴커크 재개발 지구 ||
+|| 패자전 || 정민수 || 2 || AlaStOr || 0 || 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| 최종전 ||<#C0C0C0> Tefel || 0 ||<#FFD700> 정민수 || 2 || 뉴커크 재개발 지구, 벨시르 잔재 ||
+== 종족 비율 ==
+ * Bracket Stage
+  * Round 1: attachment:Ticon_small.png 10, attachment:Zicon_small.png 11, attachment:Picon_small.png 11-1
+  * Round 2: attachment:Ticon_small.png 4, attachment:Zicon_small.png 7, attachment:Picon_small.png 5
+  * Round 3: attachment:Ticon_small.png 4, attachment:Zicon_small.png 6-1, attachment:Picon_small.png 6
+  * Stage 통과: attachment:Ticon_small.png 2, attachment:Zicon_small.png 2, attachment:Picon_small.png 4
+ * Group Stage: attachment:Ticon_small.png 11, attachment:Zicon_small.png 12-1, attachment:Picon_small.png 9-1
+  * Stage 통과: attachment:Ticon_small.png 7, attachment:Zicon_small.png 4, attachment:Picon_small.png 5

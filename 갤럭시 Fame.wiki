@@ -1,0 +1,47 @@
+ * 상위 항목 : [[삼성 갤럭시|갤럭시 시리즈]], [[삼성 갤럭시/MWC]]
+
+||<tablealign="center"> attachment:GFame_B.jpg?width=450 || attachment:GFame_W.jpg?width=450 ||
+|| 블루 || 화이트 ||
+|||| [[http://www.samsung.com/uk/consumer/mobile-devices/smartphones/android/GT-S6810PWNBTU 영국 삼성전자 GT-S6810 공식 사이트]] ||
+
+[[목차]]
+
+== 개요 ==
+[[삼성전자]]가 2013년 2월, [[MWC]] 2013에서 공개한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+== 사양 ==
+=== 갤럭시 Fame ===
+||<|2>[wiki:"SoC" 프로][[br]][[SoC|세서]]||<:>'''기본'''||||Broadcom BCM21654G [[SoC]]. [[ARM Cortex-A9]] 1 GHz [[CPU]][* [[ARM Cortex-A9]] 아키텍쳐를 사용하면서 보기드문 싱글코어 AP이다.], VideoCore-Ⅳ [[VPU]] ||
+||<#fe6b02><:>'''[[차이나텔레콤|CT]]'''||||[[퀄컴 스냅드래곤]] S1 MSM7627A-1 [[SoC]]. [[ARM Cortex-A5]] 800 MHz, 퀄컴 Adreno 200 [[GPU]] ||
+||||[[메모리]]||||||512 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDXC (최대 64 GB 지원) ||
+||||[[디스플레이]]||||||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD (165 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||<|3>[[네트워크|네트]][[br]][[네트워크|워크]]||<:>'''기본'''|| [wiki:"WCDMA" HSDPA & HSUPA & UMTS] ||<|3>[wiki:"GSM" GSM & EDGE][[br]][[Wi-Fi]] 802.11b/g/n, [[블루투스]] 3.0+HS ||
+||<#494a4c><:>'''[[차이나모바일|<span style="color:#ffffff">CM]]'''|| [[TD-SCDMA]][* [[차이나모바일]]을 통해 두 가지 모델이 출시되었다. ~~도대체 왜?~~ 기기명 GT-S6818, GT-S6818V] ||
+||<#fe6b02><:>'''[[차이나텔레콤|CT]]'''|| [wiki:"CDMA2000" CDMA & EV-DO Rev. A] ||
+||||[[카메라]]||||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||||[[배터리]]||||Li-lon 1300 mAh ||
+||||[[운영체제]]||||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean)[[br]][[삼성 터치위즈]] 5.0 ||
+||||규격||||61.6 x 113.2 x 11.6 mm, 120.6 g ||
+||||구성[* 'GT-'네이밍으로 구성된 글로벌 모델 기준. 'SCH-'나 'SHW-' 같은 내수용 모델은 포함되지 않는다.]||||싱글심 '''GT-S6810''' / 듀얼심 '''GT-S6812''' / [[TD-SCDMA]] '''GT-S6818'''[* 위에 언급된 GT-S6818V는 이 녀석의 파생형 모델이다.] ||
+||||기타||||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+=== 갤럭시 Fame Lite ===
+||<tablealign="center"> attachment:GFameL_B.jpg?width=450 || attachment:GFameL_W.jpg?width=450 ||
+|| 블랙 || 화이트 ||
+|||| [[http://www.samsung.com/ru/consumer/mobile-devices/smart-phones/samsung-galaxy/GT-S6790MKASER 영국 삼성전자 GT-S6790 공식 사이트]] ||
+
+||[wiki:"SoC" 프로세서]||850 MHz [[CPU]] 탑재 AP ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDXC (최대 64 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD (165 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"3G" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0+HS ||
+||[[카메라]]||후면 300만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1300 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean)[[br]][[삼성 터치위즈]] 5.0 ||
+||규격||61.6 x 113.2 x 11.9 mm, 118.2 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, [[LaFleur Edition]] 출시 ||
+
+갤럭시 Fame의 Lite 모델이다. 기본적으로 본가 모델 자체가 낮은 사양을 가졌었기 때문에 큰 차이를 보이며 낮아지지는 않았다. [[CPU]] 클럭이 낮아지고 카메라 사양이 너프되었다.
+
+== 상세 ==
+네이밍 법칙을 따지면 M 라인업에 속할 낮은 사양을 가졌음에도 불구하고 4.1 젤리빈을 탑재하고 출시했다. 그런데 같은 날 공개된 이보다 더 사양이 좋지않은 갤럭시 영보다 RAM이 딸린다.(...)
+
+[[MWC]]에서 계속 공개된 갤럭시 미니를 대체하는 모델로 보인다.

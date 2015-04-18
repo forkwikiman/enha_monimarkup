@@ -1,0 +1,60 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/codpbSpC4JE" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+[[EXIT TUNES]]를 통해 발매된 [[kors k]]의 앨범 [[Let's Do It Now!!]]의 리드 트랙. 게임에 실리지 않았던 완전 신곡이며, 특전인 스페셜 리믹스 트랙에 [[kors k]] 본인의 셀프 리믹스를 포함한 3가지의 리믹스 버전이 수록되어있다.
+
+앨범 발매 기념으로 [[리플렉 비트 그루빈]]에 수록되었고, 이후 kors k의 셀프 리믹스가 [[beatmania IIDX 22 PENDUAL]]에 수록되었다.
+
+== [[리플렉 비트 시리즈]] ==
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:>130 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 152}}} || {{{#orange 367}}} || {{{#red 540}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈] ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/Nj9yr0LjhS0" frameborder="0" allowfullscreen></iframe>
+}}}
+HARD 패턴 플레이 영상
+
+앨범 발매 기념으로 [[Force of mind]]와 함께 [[리플렉 비트 그루빈]]에 이식되었다.
+
+채보는 [[롱잡]]으로 시작해서 [[롱잡]]으로 끝나는 전형적인 [[롱잡]]패턴. 딱히 노트를 꼬아놓은것도 아니고, 박자가 이상한것도 아니기때문에 스코어링 난이도는 평이하다.
+
+== [[beatmania IIDX]] -On My Wings(HARDSTYLE IIDX)- ==
+
+|| 장르명 |||||| HARDSTYLE[[BR]]하드스타일 || [[BPM]] |||| 150 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 5}}} || {{{#blue 463}}} || {{{#orange 7}}} || {{{#orange 644}}} || {{{#red 10}}} || {{{#red 999}}} ||
+|| [[더블 플레이]] || {{{#blue 5}}} || {{{#blue 459}}} || {{{#orange 7}}} || {{{#orange 663}}} || {{{#red 10}}} || {{{#red 1073}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 22 PENDUAL|22 PENDUAL]] ~
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/2jhArMVMIqw" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 어나더 영상
+
+[[EXIT TUNES]] 라이센스 취급을 받기 때문에 선곡 후 화면에 라이센스 표기가 되어있다.
+
+=== 곡 코멘트 ===
+||제 1st 메이저앨범「Let's Do It Now!!」의 타이틀 곡으로서 만든 곡.
+독창적이지만 일본적인 EDM을 의식했던 소리로 되어 있습니다만, 실은 여러 리믹스 버전이 존재합니다.
+거기서 L.E.D.씨에게 Hardstyle버전을 들려주었던 때, 좋아해주셨기에 이 버전을 수록하게 되었습니다.
+
+롱 버전을 만드는 것과는 달리 자신의 곡을 셀프 리믹스하는 기회는 꽤 많지 않습니다.
+원본과 어떻게 차별화할까라고 생각한 결과, 큰맘 먹고 하드한 소리를 넣었습니다.
+킥이 쾅쾅하고 있지만 원본이 이모(エモ,emo)한 부분이 배열된 유포릭계열입니다.
+원본 버전과의 대비가 재미있는 곡이기에 부디 원본 버전도 들어주시기를 바래요.
+
+그런데 타이틀, IIDX Hardstyle이라 했어야 했네. 틀렸습니다.
+
+Sound / kors k||

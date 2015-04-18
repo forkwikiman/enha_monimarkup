@@ -1,0 +1,64 @@
+ * [[포켓몬스터/등장인물/트레이너]]
+
+||<tablealign=center> http://img3.wikia.nocookie.net/__cb20141017113650/es.pokemon/images/2/29/Modelo_ROZA.png ||
+||<#dcdcdc> 포켓몬스터 오메가루비·알파사파이어의 아가씨 ||
+
+[[목차]]
+
+= 개요 =
+[[포켓몬스터]] 시리즈의 트레이너 계급.
+
+1세대 시리즈부터 등장하기 시작한 [[포켓몬 트레이너]]의 한 종류. 성숙한 분위기가 물씬 풍기는 여성 캐릭터로 예쁘거나 귀여운 포켓몬을 주로 사용한다. 이들에게서 승리 후 받을 수 있는 상금의 액수는 비교적 높은 편.
+
+사실 이름과 이미지가 어쩐지 좀 거리가 있다고 느끼는 사람이 한둘이 아닐텐데,~~특히 OR/AS의 일러스트~~ 실은 일본판에서의 명칭은 '''어른스러운 누나(おとなのおねえさん)'''였고, 한국 정발판에서 아가씨로 번역되었기 때문이다. 덕분에 후에 등장한 'おじょうさま(아가씨)', 즉 소위 청순한 느낌나는 지체높은 아가씨 캐릭터에 대해선  '아'''기'''씨'라는 번역명을 쓸 수밖에 없게 되었다.
+
+보통 색기가 넘치는 포즈나 복장으로 등장한다. 2세대 시리즈에선 한쪽 눈으로 윙크를 하고 있었지만 이는 해외판에서 수정되었다. 그와 함께 입고 있는 바지의 길이도 변경. 5세대 시리즈 중 블랙·화이트에선 등장하지 않아 개근 기록이 깨졌는데 그 대신 그 후속작인 블랙·화이트 2에서 재등장한다. 여기선 본 직업으로 모델을 하고 있는 [[체육관 관장]] [[wiki:"카밀레(포켓몬스터)" 카밀레]]의 체육관에서 자주 볼 수 있기 때문인지 노출도가 높은 여성스러운 복장이 돋보였던 이전의 디자인과는 다르게 마치 모델을 연상시키는 복장을 하고 나왔다. 몰론 6세대에선 다시 원래의 색기넘치는 모습으로 복귀했다.
+
+== 그외 ==
+=== 모습 ===
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> 1세대 || 2세대 || 루비·사파이어/에메랄드 || 파이어레드·리프그린 || DP 디아루가·펄기아/Pt 기라티나 ||
+|| attachment:/young_lady_RGB.png || attachment:/young_lady_GSC.png || attachment:/young_lady_RSE.png || attachment:/young_lady_FRLG.png || attachment:/young_lady_DPP.png || 
+||<rowbgcolor="#dcdcdc"><:> 하트골드·소울실버 || 블랙·화이트 2 || X·Y ||<-2> 오메가루비·알파사파이어 ||
+|| attachment:/young_lady_HGSS.png || attachment:/young_lady_BW2.gif || attachment:/young_lady_XY.png ||<-2> http://i.imgur.com/s2BPPZ3.png?width=150 ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> 언어 || 명칭 ||
+|| 일본어 || 어른스러운 누나 おとなのおねえさん ||
+|| 한국어 || 아가씨 ||
+|| 영어 || 미인 Beauty ||
+
+= 트레이너 목록 =
+== [[wiki:"포켓몬스터 적·녹" 적·녹]], [[wiki:"포켓몬스터 청" 청]], [[wiki:"포켓몬스터 피카츄" 피카츄]] ==
+||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff 출현 장소}}} || {{{#ffffff 이름}}} || {{{#ffffff 대결 횟수}}} || {{{#ffffff 상금}}} ||<-6> {{{#ffffff 소유 포켓몬}}} ||
+||<|3><rowbgcolor="#dcdcdc"><:> [[무지개체육관]] || 아가씨 || 1차전 || 1680원 || [[wiki:"모다피" attachment:/Pokemon_icon_069.png]][[br]]Lv.24 || [[wiki:"모다피" attachment:/Pokemon_icon_069.png]][[br]]Lv.24 || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 1470원 || [[wiki:"모다피" attachment:/Pokemon_icon_069.png]][[br]]Lv.21 || [[wiki:"모다피" attachment:/Pokemon_icon_069.png]][[br]]Lv.21 || [[wiki:"뚜벅쵸" attachment:/Pokemon_icon_043.png]][[br]]Lv.21 || [[wiki:"뚜벅쵸" attachment:/Pokemon_icon_043.png]][[br]]Lv.21 ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 1820원 || [[wiki:"아라리" attachment:/Pokemon_icon_102.png]][[br]]Lv.26 ||  ||  ||  ||  ||  ||
+||<|2><rowbgcolor="#dcdcdc"><:> [[관동 13번도로]] || 아가씨 || 1차전 || 1890원 || [[wiki:"꼬렛" attachment:/Pokemon_icon_019.png]][[br]]Lv.27 || [[wiki:"피카츄" attachment:/Pokemon_icon_025.png]][[br]]Lv.27 || [[wiki:"꼬렛" attachment:/Pokemon_icon_019.png]][[br]]Lv.27 ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 2030원 || [[wiki:"삐삐" attachment:/Pokemon_icon_035.png]][[br]]Lv.29 || [[wiki:"나옹" attachment:/Pokemon_icon_052.png]][[br]]Lv.29 ||  ||  ||  ||  ||
+||<|2><rowbgcolor="#dcdcdc"><:> [[관동 15번도로]] || 아가씨 || 1차전 || 2030원 || [[wiki:"피죤" attachment:/Pokemon_icon_017.png]][[br]]Lv.29 || [[wiki:"푸크린" attachment:/Pokemon_icon_040.png]][[br]]Lv.29 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 2030원 || [[wiki:"이상해씨" attachment:/Pokemon_icon_001.png]][[br]]Lv.29 || [[wiki:"이상해풀" attachment:/Pokemon_icon_002.png]][[br]]Lv.29 ||  ||  ||  ||  ||
+||<|3><rowbgcolor="#dcdcdc"><:> [[관동 19번수로]] || 아가씨 || 1차전 || 2100원 || [[wiki:"콘치" attachment:/Pokemon_icon_118.png]][[br]]Lv.30 || [[wiki:"왕콘치" attachment:/Pokemon_icon_119.png]][[br]]Lv.30 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 1890원 || [[wiki:"발챙이" attachment:/Pokemon_icon_060.png]][[br]]Lv.27 || [[wiki:"콘치" attachment:/Pokemon_icon_118.png]][[br]]Lv.27 || [[wiki:"왕콘치" attachment:/Pokemon_icon_119.png]][[br]]Lv.27 || [[wiki:"콘치" attachment:/Pokemon_icon_118.png]][[br]]Lv.27 || [[wiki:"발챙이" attachment:/Pokemon_icon_060.png]][[br]]Lv.27 ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 2030원 || [[wiki:"별가사리" attachment:/Pokemon_icon_120.png]][[br]]Lv.29 || [[wiki:"별가사리" attachment:/Pokemon_icon_120.png]][[br]]Lv.29 || [[wiki:"별가사리" attachment:/Pokemon_icon_120.png]][[br]]Lv.29 ||  ||  ||  ||
+||<|4><rowbgcolor="#dcdcdc"><:> [[관동 20번수로]] || 아가씨 || 1차전 || 2100원 || [[wiki:"시드라" attachment:/Pokemon_icon_117.png]][[br]]Lv.30 || [[wiki:"쏘드라" attachment:/Pokemon_icon_116.png]][[br]]Lv.30 || [[wiki:"시드라" attachment:/Pokemon_icon_117.png]][[br]]Lv.30 ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 2450원 || [[wiki:"왕콘치" attachment:/Pokemon_icon_119.png]][[br]]Lv.35 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 2100원 || [[wiki:"셀러" attachment:/Pokemon_icon_090.png]][[br]]Lv.30 || [[wiki:"셀러" attachment:/Pokemon_icon_090.png]][[br]]Lv.30 || [[wiki:"파르셀" attachment:/Pokemon_icon_091.png]][[br]]Lv.30 ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 || 1차전 || 2170원 || [[wiki:"발챙이" attachment:/Pokemon_icon_060.png]][[br]]Lv.31 || [[wiki:"왕콘치" attachment:/Pokemon_icon_119.png]][[br]]Lv.31 ||  ||  ||  ||  ||
+
+== [[wiki:"포켓몬스터 금·은" 금·은]], [[wiki:"포켓몬스터 크리스탈 버전" 크리스탈]] ==
+||<tablealign=center><rowbgcolor="#ffd700"><:> {{{#ffffff 출현 장소}}} || {{{#ffffff 이름}}} || {{{#ffffff 대결 횟수}}} || {{{#ffffff 상금}}} ||<-6> {{{#ffffff 소유 포켓몬}}} ||
+||<rowbgcolor="#dcdcdc"><:><|2> [[성도 38번도로]] || 아가씨 미스즈[* 크리스탈 버전에서만 등장.] || 1차전 || 1672원 || [[wiki:"코산호" attachment:/Pokemon_icon_222.png]][[br]]Lv.19 || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 백합 || 1차전 || 1496원 || [[wiki:"통통코" attachment:/Pokemon_icon_187.png]][[br]]Lv.17 || [[wiki:"두코" attachment:/Pokemon_icon_188.png]][[br]]Lv.17 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> [[쾌속선아쿠아호]] || 아가씨 문옥 || 1차전 || 2992원 || [[wiki:"라플레시아(포켓몬스터)" attachment:/Pokemon_icon_045.png]][[br]]Lv.28 || [[wiki:"버터플" attachment:/Pokemon_icon_012.png]][[br]]Lv.34 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:><|2> [[금빛체육관]] || 아가씨 진주 || 1차전 || 1496원 || [[wiki:"꼬리선" attachment:/Pokemon_icon_161.png]][[br]]Lv.9 || [[wiki:"꼬리선" attachment:/Pokemon_icon_161.png]][[br]]Lv.13 || [[wiki:"꼬리선" attachment:/Pokemon_icon_161.png]][[br]]Lv.17  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 아가씨 채린 || 1차전 || 1408원 || [[wiki:"나옹" attachment:/Pokemon_icon_052.png]][[br]]Lv.16 || [[wiki:"나옹" attachment:/Pokemon_icon_052.png]][[br]]Lv.16 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> [[무지개체육관]] || 아가씨 수하 || 1차전 || 3080원 || [[wiki:"파라스" attachment:/Pokemon_icon_046.png]][[br]]Lv.32 || [[wiki:"아라리" attachment:/Pokemon_icon_102.png]][[br]]Lv.32 || [[wiki:"파라섹트" attachment:/Pokemon_icon_047.png]][[br]]Lv.35 ||  ||  ||  ||
+
+== [[wiki:"포켓몬스터 루비·사파이어" 루비·사파이어]] ==
+== [[wiki:"포켓몬스터 에메랄드" 에메랄드]] ==
+== [[wiki:"포켓몬스터 파이어레드·리프그린" 파이어레드·리프그린]] ==
+== [[wiki:"포켓몬스터 DP 디아루가·펄기아" DP 디아루가·펄기아]] ==
+== [[wiki:"포켓몬스터 Pt 기라티나" Pt 기라티나]] ==
+== [[wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버]] ==
+== [[wiki:"포켓몬스터 블랙·화이트 2" 블랙·화이트 2]] ==
+== [[wiki:"포켓몬스터 X·Y" X·Y]] ==

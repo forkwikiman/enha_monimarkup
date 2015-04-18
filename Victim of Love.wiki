@@ -1,0 +1,44 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 || [[DJMAX TECHNIKA 3]] ||
+|| 장르 || R&B Pop ||
+|| [[BPM]] || 113 ||
+|| 작곡 || David Bower ||
+|| 보컬 || Jade ||
+|| 비주얼 || Sampal(원화), Out(모션) ||
+
+{{{#!HTML
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/p784y1BaX40?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/p784y1BaX40?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+원 버전 동영상.
+
+약칭은 '''빅팀'''.
+
+[[Oohlala]], [[In the Tdot]], [[You should get over me]], [[Just For Today]]와 함께 테크니카 3에 수록된 해외 팝곡이다. 전체적으로 강렬한 느낌의 곡. 원곡이 아닌 Jade의 또 다른 앨범에 있는 어레인지 버전으로 수록되었다.
+
+BGA는 수갑플레이를 다루고 있어 [[wiki:"Funky People"몇번이나 충격에]] [[wiki:"You & Me"빠진 유저들의]] [[wiki:"Over The Rainbow(DJMAX)"정신을]] 또 안드로메다로 날렸다. --어떤 사람은 이제 익숙해져서 아무렇지도 않다 카더라--
+
+== [[DJMAX TECHNIKA 3]] ==
+http://cyphergate.net/wiki/images/3/3e/DMT3_Victim_of_Love.jpg?width=400&height=225
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/EGqUf6pOyd8" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/NeGjZlF2w7A" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || B || 375 Max || 4 || 4박 스크롤 || ||
+||<#FFFF00> Normal || B || 375 Max || 3 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || A || 1250 Max || 6 || 4박 스크롤 || ||
+||<#FF0000> Maximum || S || 3500 Max || 9 || 4박 스크롤 ||  [[Fatality Set]] 셀렉곡, [[wiki:"Raconteur"미션 - Femme Fatale]] 수록, ※[물렙곡] ||
+
+노말 패턴의 경우 정박위주의 평범한 패턴이지만, 중간에 노트밀도가 높은부분이 있으니 올콤보나 퍼펙트 플레이를 위해서라면 적응하는것이 필요하다.
+HD 패턴의 경우 노말패턴을 강화한 패턴이며 후반에 드래그 노트+드래그홀딩+일반노트가 올콤보나 퍼펙트 플레이를 방해한다. (드래그홀딩을 너무 위로 긁을경우 다음 일반노트가 미스가난다. 드래그홀딩을 그냥 제자리에서 누르면 된다.)
+MX패턴의 경우에는 8번째 미션팩의 가장 마지막 미션에 수록되어 있다.
+추후에 [[Fatality Set]]에 수록되면서 난이도가 공개되었는데, 9치고는 약하다는게 중론. [wiki:"Maximum Set"전작]의 [wiki:"Supersonic ~Mr.Funky Remix~"두부소닉]과 비슷한 케이스.
+[[Fatality Set]]의 다른 셀렉곡들이 팝믹싱에 풀린 20차 업데이트에서 혼자 빠졌는데, 아마 라이센스를 사서 쓰는 곡이라 조금 더 아껴 둔 감이 없지 않다. 21차 업데이트로 팝 믹싱에 풀렸다.
+여담으로, 아이캐치의 신문에 써있는 기사는 [[제2차 세계대전]] 일본 항복에 관한 내용이다.

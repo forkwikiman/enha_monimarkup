@@ -1,0 +1,26 @@
+~~Suckers~~ Circus Charlie
+http://upload.wikimedia.org/wikipedia/en/a/a7/CircusCharlie_arcadeflyer.png
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/ycKmo_PANyc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/ycKmo_PANyc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+1984년에 [[코나미]]에서 만든 아케이드 게임. 정식 이름은 "서커스 찰리"인데 대부분 간단히 "서커스"로만 부른다. [[서커스]]를 소재로 만든 게임으로 여러가지 서커스의 묘기들을 주제로 한 총 6개의 스테이지를 진행하는 방식이다.
+
+http://piisami.net/harrastus/imgr/mame-charlie.gif
+ * 1스테이지 : 사자를 탄 상태로 불 붙은 고리를 뛰어넘어 점프[* 참고로 밑에 불을 앞뒤로 뛰다보면 일정 확률로 점수 5000짜리 금색돌이 튀어나온다.]
+ * 2스테이지 : 원숭이들을 피하면서 외줄타기
+ * 3스테이지 : 점프대[* [여담]으로 이 점프대에서 계속 뛰고 있으면 서커스 장막을 뚫고 나간다(…). 즉, 시간을 너무 끌어서는 안된다는 것]에서 점프하면서 사이사이의 장애물 피하기
+ * 4스테이지 : 공타기
+ * 5스테이지 : 말타면서 점프하기
+ * 6스테이지 : 공중그네(좌우로 흔들리는 공중그네를 트램폴린을 이용해 건너뛰기)
+
+오락실로 먼저 나왔지만 [[MSX]]와 [[패미컴]]으로 이식되었고, [[합팩]] [[필수요소]] 게임이 되면서 8비트 게임기 쪽으로 인지도가 더 높은 게임이다. 참고로 MSX판과 패미컴판에서는 3스테이지(점프대)는 삭제되었다.
+
+이식된 버전의 스테이지 1 배경음악이 매우 유명하다. 원곡명은 Glenn Miller의 [http://youtu.be/DK-lBi5r6Jk American Patrol]. 밧줄 스테이지의 배경음악은 [[요한 슈트라우스 2세]]의 [[아름답고 푸른 도나우강]]을 편곡한 것.
+
+또 한가지 유명요소 라면 마지막 스테이지인 공중그네의 난이도. 정말 절묘한 컨트롤이 필요해서 말타기까지는 쉽게 클리어 하면서 공중그네는 예나 지금이나 클리어 못하는 사람이 수두룩하다.
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/_Vd6_rm4X8s" frameborder="0" allowfullscreen></iframe>
+}}}
+BGM을 일렉기타로 편곡한 버전도 나왔다.

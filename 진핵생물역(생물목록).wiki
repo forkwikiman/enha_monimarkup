@@ -1,0 +1,69 @@
+ * 상위 문서: [[생물 계통 분류]]
+ * 일반적인 내용은 [[진핵생물]] 참고.
+
+[[목차]]
+
+진핵생물역(眞核生物域, Eukarya)은 세포소기관을 갖는 진핵세포로 이루어진 생물이다.
+
+= 동물계(Animalia) =
+ * [[동물계(생물목록)]]
+
+= 식물계(Plantae) =
+ * [[식물계(생물목록)]]
+
+= 균계(Fungi) =
+ * [[균계(생물목록)]]
+
+= 원생생물계(Protista) =
+측계통군으로, 동물계, 식물계, 균계에 포함되지 않는 모든 생물을 포함하는 계다.
+
+== 아메바계(Amoebozoa) ==
+ * [[아메바]]
+
+== 리자리아계(유공충계. Rhizaria) ==
+ * 사족충문(Cercozoa)
+  * 클로라라크니온강(Chlorarachnea)
+ * 유공충상문
+  * 유공충문(Foraminifera)
+  * 방산충문(Radiolaria)
+
+== 엑스카바타계(Excavata) ==
+ * 유글레나문(Euglenozoa)
+  * 유글레나강(Euglenophyceae)
+   * 유글레나목(Euglenales)
+    * 유글레나과
+     * 유글레나
+ * 페르콜로조아(Percolozoa)
+ * 로우코조아(Loukozoa)
+ * 메타모나다(Metamonad)
+
+== 크로말베올라타계(Chromalveolata) ==
+ * [[피에스테리아 피시시다]]
+ * 부등편모조류문(Heterokonta)
+  * 황갈조류(Chrysophyta)
+   * 규조강(Bacillariophyceae)
+   * 시누라조강(Synurophyceae)
+   * 진안점조강(Eustigmatophyceae)
+   * 착편모조강(Haptophyceae)
+   * 침편모조강(Raphidophyceae)
+   * 황갈조강(Chrysophyceae)
+   * 황녹조강(Xanthophyceae)
+  * 갈조류(Phaeophyta)
+   * 갈조강(Phaeophyceae)
+    * 다시마목(Laminariales)
+     * 다시마과
+      * [[다시마]]
+     * 미역과
+      * [[미역]]
+    * 모지반목(Fucales)
+     * 모지반과
+      * 톳
+ * 착편모조류문(Haptophyta)
+ * 은편모조류문(Cryptophyta)
+ * 와편모조류문(Dinophyta)
+ * 정단복합체충류문(Apicomplexa)
+ * 섬모충문(Ciliophora)
+  * 짚신벌레
+  * 섬모충
+  * 선모류
+  * 리토스토마테아강

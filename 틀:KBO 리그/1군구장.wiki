@@ -1,0 +1,8 @@
+||<tablealign=center><-6><#151b54><:> [[wiki:"KBO 리그" <span style="font-weight:bold;color:white">KBO 리그</span>]] [[wiki:"틀:KBO 리그/1군구장" <span style="font-weight:bold;color:white">1군 야구장</span>]] [[br]] {{{#ffffff (구단명 가나다순) }}} ||
+||<#C2E68B><width=5%><:> '''구단명''' ||<width=12%><#ffffff><:> [[wiki:"KIA 타이거즈" attachment:/kia_tigers_s.png]] ||<width=12%><#ffffff><:> [[wiki:"넥센 히어로즈" attachment:/nexen_heros_s.png]] ||<width=12%><#ffffff><:> [[wiki:"두산 베어스" attachment:/doosan_bears_s.png]] ||<width=12%><#ffffff><:> [[wiki:"롯데 자이언츠" attachment:/lotte_giants_s.png]] ||<width=12%><#ffffff><:> [[wiki:"삼성 라이온즈" attachment:/samsung_lions_s.png]] ||
+||<#C2E68B><:> '''홈구장''' ||<:> [[광주-기아 챔피언스 필드]] ||<:> [[목동야구장|목동 야구장]] ||<:> [[잠실 야구장]] ||<:> [[사직 야구장]] ||<:> [[대구시민운동장 야구장]] ||
+||<#C2E68B><:> '''제2구장''' ||<:> [[wiki:"월명야구장" 월명 야구장]] ||  ||  ||<:> [[울산 문수 야구장]] ||<:> [[포항 야구장]] ||
+||<#FAE7A6><:> '''구단명''' ||<#ffffff><:> [[wiki:"SK 와이번스" attachment:/sk_wyverns_s.png]] ||<#ffffff><:> [[wiki:"NC 다이노스" attachment:/nc_dinos_s.png]] ||<#ffffff><:> [[wiki:"LG 트윈스" attachment:/lg_twins_s.png]] ||<#ffffff><:> [[wiki:"KT 위즈" attachment:/KT_Wiz_s.png]] ||<#ffffff><:> [[wiki:"한화 이글스" attachment:/hanwha_eagles_s.png]] ||
+||<#FAE7A6><:> '''홈구장''' ||<:> [[인천 SK 행복드림구장]] ||<:> [[창원 마산 종합운동장 야구장]] ||<:> [[잠실 야구장]] ||<:> [[수원 kt 위즈 파크]] ||<:> [[대전 한화생명 이글스파크]] ||
+||<#FAE7A6><:> '''제2구장''' || || || || ||<:> [[청주종합운동장 야구장]] ||
+||<#fae7a6> '''제3구장''' || || || || || [[의암야구장|의암 야구장]] ||

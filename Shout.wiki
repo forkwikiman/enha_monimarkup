@@ -1,0 +1,66 @@
+|| 장르 |||||||| Big Hip ||
+|| 곡명 |||||||| Shout ||
+|| 작곡 |||||||| [[CROOVE]] ||
+|| 배경 |||||||| [[KIMYS]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 4th]] ||
+|| BPM |||||||| 95 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* 루비 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#orange 5}}} || {{{#red 8}}} || {{{#purple 11}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple 12}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='A2lkmOD9SHU$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=A2lkmOD9SHU$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=A2lkmOD9SHU$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 4thTRAX ~Over Mind~]] '''BGA'''
+
+BPM은 꽤 느려서 판정이 다른 곡에 비해서 좋다고 느낄 수 있지만, 상당히 많은 스크래치로 난이도에 비해서 어려운 곡이다.
+
+특히 하드의 경우는 원핸드가 아니면 고스트스크래치라도 좀 까다로운 편이며, 후반부에 가면 원핸드마저도 손이 꼬이는 배치가 특징이다.
+
+7키 하드는 노트겹침 버그로 유명했다. 4th의 인기가 높은 [[CROOVE]]채널에 수록되었던지라 사람들이 '''어디가 버그인지 알고 버그 노트를 콤보로 잇는''' 경지까지 오르기도.
+
+나중에는 슈퍼하드믹스도 추가되었고, 지금도 계속 수록되었다. 슈퍼하드의 난이도는 11.
+
+== 가사 ==
+{{|
+Yeah, what's up? This is a DJ unknown. 
+Straight spiting make full list the track 
+
+Come on 
+Crack it all, kid 
+No time to stop 
+EZ2 the DJ come keep you block it 
+
+Say it all, kid 
+Come on let's get break it 
+Don't stop the body block 
+It's time to bust it 
+
+You're making bounce so don't stop come get it and wait it 
+You're breaking down now I start to hate it hate it 
+
+Bad looking fat my kids for your to please and a 
+Turntable let make kids you know tease as they 
+get back kick back sit back Track for relax it 
+Over my heads over the both were not be break it 
+points of us so shapes of sounds 
+ready for The First round so don't stop the get down 
+
+Come on 
+Crack it all, kid 
+No time to stop 
+EZ2 the DJ come keep you block it 
+
+Say it all, kid 
+Come on let's get break it 
+So Don't stop the body block 
+It's time to bust it 
+|}}

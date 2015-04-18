@@ -1,0 +1,17 @@
+{{{#!HTML
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/im_tJLeo2qU?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/im_tJLeo2qU?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+
+[[볼프강 아마데우스 모차르트]]의 아! 어머니께 말씀드리죠 주제에 의한 변주곡. 영미권과 아시아에서는 작은별 주제에 의한 변주곡으로 많이 알려져 있다. 엄격 변주곡의 전형을 보여 준다.
+
+
+'''變奏曲 Variation(영) Variationen(독)'''
+
+
+클래식 악곡의 한 장르. 말 그대로 하나의 주제(theme)를 여러 가지로 변형시켜 가면서 다채로운 악상을 펼치는 작품을 가리킨다. 당연히도 주제와 변주로 이루어지며, 주제는 음악적으로 요리하기 쉽도록 매우 단순하고 선율라인이 명쾌한 경우가 대부분이다. 독립적으로 작곡되기도 하고, [[소나타]]와 같은 고전적인 양식의 작품에 한 악장으로 들어가기도 한다.
+
+바로크 이전을 포함하면 더 크게 세분할 수 있지만, 크게 엄격 변주곡과 성격 변주곡으로 나뉜다. '''엄격 변주곡'''은 주제의 조성이나 선율을 그대로 놔둔 상태에서 장식음을 부가하거나 리듬을 바꾸거나 음 높이를 변화시켜 가면서 만든 변주곡을 지칭한다. 베토벤 시대까지의 변주곡은 대개 이 엄격 변주곡을 가리킨다.
+
+'''성격 변주곡'''은 엄격 변주곡보다 조금 더 자유로운 변주곡으로, 말로 설명하기는 굉장히 어렵지만 청중이 변주 부분을 들을 때 '''"지금 이 선율이 아까 들었던 그 주제랑 같은 건가?"'''싶을 정도로 원 주제를 음악적으로 변형시키고 분해하여 재창조한 변주들로 이루어진 곡을 뜻하다. 유식한 말로 각 변주에 새로운 성격을 부여하였다고 해서 성격 변주곡이라고 한다. 바흐의 [[골드베르크 변주곡]]에서 그 원형을 찾아볼 수 있으며, 베토벤의 "디아벨리 주제에 의한 변주곡"은 성격 변주곡의 대표적인 예시이다. 19세기 이후의 변주곡은 대개 이 성격 변주곡풍으로 작곡되었다.
+
+

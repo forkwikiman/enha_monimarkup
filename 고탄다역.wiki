@@ -1,0 +1,53 @@
+{{{+1 五反田駅 / Gotanda Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+
+http://farm1.staticflickr.com/48/110730572_52114cbada_z.jpg
+고탄다역의 모습. (사진 저작자 : [[http://www.flickr.com/photos/shibainu/110730572/|shibainu]])
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 시나가와구에 위치한 [[JR 히가시니혼]]과 [[도쿄 급행전철]], [[도쿄도 지하 고속전차]]의 역이다. 각각 [[야마노테선]], [[wiki:"도큐 이케가미선" 이케가미선]], [[아사쿠사선]]이 지난다. 도큐의 경우 역 빌딩인 '고탄다 빌딩'과 일체화되어 있다. 원래 이 역 다음역인 [[오사키히로코지역]]에서 도보연락하는 형태였는데 이 역까지 연장되어 직접 연계되었고, 그 때문에 역간 거리가 0.3km밖에 되지 않는다.
+
+역을 중심으로 도로가 뻗어 있으며, 소니 고덴야마 테크놀로지 센터, 알파인 본사, 가쿠엔홀딩스 본사 등이 위치한다. 여기 여행와서 볼만한 건 도큐의 역빌딩인 '도큐 고탄다 빌딩' 정도이다.
+
+== 역 및 승강장 ==
+=== [[JR 히가시니혼]] 고탄다역 ===
+||||||||||<#80c241> {{{#ffffff 야마노테선}}} ||<#3ea343><|4>{{{#ffffff 운영주체 : 동일본 여객철도}}}[[br]]{{{#ffffff 개업일 : 1911년 10월 15일}}} ||
+||<width=100px> 내선순환[[br]][wiki:"오사키역" 오사키] || {{{+1 ← }}} ||<width=100px> 고탄다 || {{{+1 → }}} ||<width=100px> 외선순환[[br]][wiki:"메구로역" 메구로] ||
+
+http://farm6.staticflickr.com/5167/5293519244_e7e981d7f7_z.jpg
+JR 히가시니혼 고탄다역의 한 출입구 전경. (사진 저작자 : [[http://www.flickr.com/photos/harunire/5293519244/|harunire]])
+
+http://farm4.staticflickr.com/3127/2660967572_7caba16aa7_z.jpg
+http://farm1.staticflickr.com/34/110730652_3961864168_z.jpg
+JR 히가시니혼 고탄다역의 승강장 모습. (사진 저작자 : (위)[[http://www.flickr.com/photos/koichiwb/2660967572/|K.Suzuki]], (아래)[[http://www.flickr.com/photos/shibainu/110730652/|shibainu]])
+
+http://farm4.staticflickr.com/3548/3802666575_ddf0de36a4.jpg
+JR 히가시니혼 고탄다역의 역명판. (사진 저작자 : [[http://www.flickr.com/photos/tirol28/3802666575/|tirol28]])
+
+섬식 승강장이며 역 밑으로 국도 1호선이 지난다.
+=== [[도쿄 급행전철]] 고탄다역 ===
+||||||||||<#de65b0> {{{#ffffff 이케가미선}}} ||<#ee0011><|4>{{{#ffffff 운영주체 : 도쿄 급행전철}}}[[br]]{{{#ffffff 개업일 : 1928년 6월 17일}}} ||
+||<width=100px> 시종착역 || {{{#ffffff :← }}} ||<width=100px> 고탄다[[br]](IK-01) || {{{+1 → }}} ||<width=100px> [wiki:"카마타역" 카마타] 방면[[br]][wiki:"오사키히로코지역" 오사키히로코지][[br]](IK-02) ||
+
+http://farm4.staticflickr.com/3065/2660137891_437c493fb1_z.jpg
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tokyu-gotanda-platform.jpg/600px-Tokyu-gotanda-platform.jpg
+이케가미선 고탄다역의 승강장. (사진 저작자 : (위)[[http://www.flickr.com/photos/koichiwb/2660137891/|K.Suzuki]], (아래)[[http://commons.wikimedia.org/wiki/File:Tokyu-gotanda-platform.jpg|LERK]])
+
+http://kura1.photozou.jp/pub/694/1743694/photo/155696707_624.jpg
+이케가미선 고탄다역의 역명판. (사진 저작자 : [[http://photozou.jp/photo/show/1743694/155696707|specialrapid221]])
+
+섬식 승강장으로 JR의 승강장보다 더 위에 위치한다. JR과의 환승이 계단으로밖에 되지 않아 불편하다.
+=== [[도쿄도 지하 고속전차]] 고탄다역 ===
+||||||||||<#e85298> {{{#ffffff 아사쿠사선}}} ||<#e85298><|4>{{{#ffffff 운영주체 : 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일 : 1968년 11월 15일}}} ||
+||<width=100px> [wiki:"니시마고메역" 니시마고메] 방면[[br]][wiki:"토고시역" 토고시][[br]](A-04) || {{{+1 ← }}} ||<width=100px> 고탄다[[br]](A-05) || {{{+1 → }}} ||<width=100px> [wiki:"오시아게역" 오시아게] 방면[[br]][wiki:"타카나와다이역" 타카나와다이][[br]](A-06) ||
+
+http://farm4.staticflickr.com/3094/2727314475_28a75e59ea_z.jpg
+아사쿠사선 고탄다역의 한 출입구. (사진 저작자 : [[http://www.flickr.com/photos/koichiwb/2727314475/|K.Suzuki]])
+
+[[http://www.flickr.com/photos/mattiasberg/2111926837/|(사진) 아사쿠사선 고탄다역의 기둥식 역명판]].
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Toei-A05-Gotanda-station-platform.jpg/600px-Toei-A05-Gotanda-station-platform.jpg
+아사쿠사선 고탄다역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3AToei-A05-Gotanda-station-platform.jpg|LERK]])
+
+섬식 승강장이다.

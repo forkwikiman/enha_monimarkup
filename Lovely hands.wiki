@@ -1,0 +1,46 @@
+|| 최초 수록 버전 || [[DJMAX Portable Black Square]] ||
+|| 장르 || [["Pop(리듬게임)" Space Pop]] ||
+|| 작곡 || [[PlanetBoom]] ||
+|| 작사 || [PlanetBoom] ||
+|| 보컬 || [[Miya]] ||
+|| BGA || [[SARA]] ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/2T-q0VLrkUs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+약칭은 '''러핸'''.
+
+[[DJMAX]] 메트로 프로젝트의 수록곡, [[DJMAX Portable Black Square]]와 [[DJMAX TECHNIKA]]에 수록되었다. 
+[PlanetBoom]과 [Miya]의 첫 합작곡으로, 소프트 팝 스타일의 부드러운 곡. 곡 분위기에 걸맞게 그냥저냥인 난이도를 가지고 있어 그다지 인기가 많은 곡은 아니다.
+
+참고로 이 곡 이후로 작사, 작곡을 맡은 [PlanetBoom]과 보컬인 [Miya]가 결혼하였고, [[Raise me up]]을 내놓았다. [DJMAX Portable 3]에 있는 [[Raise me up]] 리믹스 모드에서의 샘플곡으로 쓰고 있을만큼 곡 자체의 느낌도 비슷하다.
+
+블랙 스퀘어 OST에는 풀버전도 수록되어 있는데, 커팅 버전과의 차이는 '''20초도 안된다.'''
+
+=== [DJMAX Portable Black Square] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qlLHwOLOdvU" frameborder="0" allowfullscreen></iframe>}}}
+
+(6B NM)
+
+블랙 스퀘어에서는 평범... 아니 시리즈 내에서는 쉬운 난이도이다. 존재감 [안습]
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/uvXmRJz9rLM" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(테크니카 1 기준 SP)
+
+[[DJMAX TECHNIKA]] 에는 PP패턴과 SP패턴이 존재하였다.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 Max || || || ||
+||<#FFFF00> Normal || D || 150 Max || 5 || 8박 스크롤 || [[wiki:"Labyrinth(DJMAX)"미션 - TRAP!!]] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 200 Max || 6 || 4박 스크롤 || [[Black & White Set]] 수록곡 ※[[지뢰곡]] ||
+
+이후로는 SP패턴이 HD로 하향되었다.
+HD패턴이 지뢰곡이긴한데..... 2때나 3때나 비인기곡이라 그다지 부각되지는 않는다. NM패턴이 5번째 미션팩에 수록되었다.

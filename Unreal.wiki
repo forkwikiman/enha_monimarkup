@@ -1,0 +1,36 @@
+ * [[에픽 게임스]]의 일련의 게임에 대해서는 [[언리얼 시리즈]]를, 거기에 쓰인 것으로 유명한 동명의 엔진은 [[언리얼 엔진]]을 참조할 것.
+
+[[목차]]
+
+== 개요 ==
+attachment:Unreal.png
+
+[[BEMANI 시리즈]]의 수록곡. 아티스트 명의는 Black Rose Garden.
+
+DDR에서 드문 [[락]] 음악이다.
+
+== [[댄스 댄스 레볼루션]] ==
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 8}}} || {{{#red 12}}} || {{{#green 15}}} || {{{#purple -}}} ||
+||<|3> 90-180 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 8}}} || {{{#red 12}}} || {{{#green 14}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+DDR SuperNOVA2의 파이널 스테이지 전용곡으로 수록되었다. 이후 2007년 12월 27일 통상 해금되었다.
+
+BPM 변동 순서는 180-90-180.
+
+[[youtube(XssaOoeCXi8)]]
+([[스텝매니아]] 영상)
+
+싱글 EXPERT 채보는 동시밟기, 연타 요소를 적극적으로 사용한 패턴. 16비트는 저속부분에서 나오지만 나머지부분의 8비트와 속도는 똑같으므로[* 180BPM의 8비트=90BPM의 16비트]실질적으로 16비트는 쓰이지 않은 전부 8비트 채보. 동시밟기 처리력에 따라 개인차가 아주 많이 나오는 채보다.
+
+[[youtube(mBm_d_VPlVs)]]
+싱글 DIFFICULT는 EXPERT의 약화판이긴 하지만 동 레벨대 치고 동시밟기 패턴이 많고 체력도 상당히 많이 소모하므로 주의.
+
+[[https://www.youtube.com/watch?v=KvQupBqrEt4 더블 익스퍼트 영상]]
+[[https://www.youtube.com/watch?v=SLIJ_coI_B4 더블 디피컬트 영상]]

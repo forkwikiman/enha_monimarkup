@@ -1,0 +1,616 @@
+ * 상위 항목: [[디지몬 시리즈]]
+
+[[디지몬 시리즈]]에 사용된 오프닝, 엔딩, 삽입곡을 정리하는 항목.
+
+[[목차]]
+
+= [[디지몬 어드벤처]] =
+== 일본판 OP : [[Butter-Fly]] ==
+||||||||<#f06a00> {{{#ffffff '''일본판 OP'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> [[Butter-Fly]] ||
+||<|2><#f06a00><|2>{{{#ffffff '''가수'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> [[전영호]] ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> [[와다 코지]](和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 치와타 히데노리(千綿偉功) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 치와타 히데노리(千綿偉功) ||
+||<#f06a00><:> {{{#ffffff '''편곡'''}}} ||||<#faca00><:> 와타나베 첼(渡部チェル) ||
+||<#f06a00><:> {{{#ffffff '''개사'''}}} ||||<#faca00><:> 장동준 ||
+
+가수 와다 코지의 데뷔곡, '''와다 코지와 디지몬 애니메이션 시리즈를 상징하는, 뜻깊은 노래.'''
+자세한 건 [wiki:"Butter-Fly" 항목 참조].
+
+== 한국판 OP : 디지몬 어드벤처 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 OP'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 디지몬 어드벤처 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 故홍종명, [[TULA]] ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> [[방용석]] ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/yyo6xZu93KA?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/yyo6xZu93KA?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+TV 사이즈 버전
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/kUazU5xcZ5I?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/kUazU5xcZ5I?
+version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+풀버전
+
+KBS에서 자체제작한 한국 전용 오프닝곡.
+가사나 노래가 원곡에 비해 유치하다고 좋아하지 않는 팬들도 있지만, [[재일교포]]가 아닌 이상 제일 먼저 접했을 곡이니 [[추억보정]]도 있고 곡 자체도 좋은 편이라서 지금까지도 꽤나 인기가 많은 곡이다.
+
+이 노래를 열창해주신 가수 홍종명 씨는 지난 2012년 12월 18일 뇌출혈로 인해 세상을 떠나셨다. 마지막 순간엔 장기기증을 통해 8명의 환자들에게 새 생명을 선물하셨고, 많은 아이들이 듣고 자랐을 이 주제곡으로 어린시절의 소중한 추억을 남겨주신 그의 명복을 빈다.
+
+== 일본판 1기 ED : I wish ==
+||||||||<#f06a00> {{{#ffffff '''일본판 1기 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> I wish ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [wiki:"마에다 아이(성우)" 마에다 아이](前田愛) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 미우라 요시코(三浦徳子) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 시라카와 요시히사(白川善久) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer01667' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=556979BA6E8C19925B8A436DF2330CC86B0B&outKey=V1210cb2df2bd6660a7f124e10033cb9032cf682c12caf9b16a3d24e10033cb9032cf' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=556979BA6E8C19925B8A436DF2330CC86B0B&outKey=V1210cb2df2bd6660a7f124e10033cb9032cf682c12caf9b16a3d24e10033cb9032cf' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer01667' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+본 작의 [[이미나]](타치카와 미미)의 성우이기도 한, 마에다 아이(AiM)의 데뷔곡.
+이후 마에다 아이는 [[디지몬 프론티어]]까지의 엔딩곡을 도맡아 부르게 된다.
+
+== 일본판 2기 ED : Keep on ==
+||||||||<#f06a00> {{{#ffffff '''일본판 2기 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Keep on ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 마에다 아이(前田愛) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> NK ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 키네 나오토(木根尚登) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer08283' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=99A1D8CFC71FF3B646C6735AC84AAC5A93EE&outKey=V124f9d07007cbeb2ddc33bdfe1f868a6809eafd000f2b2df43113bdfe1f868a6809e' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=99A1D8CFC71FF3B646C6735AC84AAC5A93EE&outKey=V124f9d07007cbeb2ddc33bdfe1f868a6809eafd000f2b2df43113bdfe1f868a6809e' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer08283' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+종종 최고의 애니메이션 음악 순위에도 모습을 보이는 곡.
+특기할 만한 사항으로는 오프닝, 1기 엔딩에 참여하지 못한 [[신나리]]가 참여한다는 점.
+
+== 한국판 ED : 안녕! 디지몬 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 안녕! 디지몬 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 장숙희 ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/5fnR0Lpzl4g?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/5fnR0Lpzl4g?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+~~'''[http://cfs.tistory.com/custom/blog/50/502625/skin/images/2014mini.swf 한국 수험생들의 영원한 악몽]'''~~
+위의 링크된 적절한 수능 카운터가 '''매우매우''' 유명하다(...) 이제는 이 곡만 올라오면 디지몬 보다 수능이 먼저 언급되는 정도(...)  [[추억보정]]은 덤.
+
+== 일본판 [wiki:"진화(디지몬 시리즈)" 진화] 테마곡 : [[brave heart]] ==
+||||||||<#f06a00> {{{#ffffff '''일본판 진화 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> [[brave heart]] ||
+||<|2><#f06a00><|2>{{{#ffffff '''가수'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> [[전영호]] ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> [[미야자키 아유미]](宮崎歩) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 오오모리 쇼코(大森祥子) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+||<#f06a00><:> {{{#ffffff '''개사'''}}} ||||<#faca00><:> 장동준 ||
+
+미야자키 아유미의 데뷔곡.
+자세한 건 [wiki:"brave heart" 항목 참조].
+
+== 한국판 진화 테마곡 : [[Power Up!]] ==
+||||||||<#f06a00> {{{#ffffff '''한국판 진화 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Power Up! ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> TULA ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+자세한 건 [wiki:"Power Up!" 항목 참조].
+
+= [[파워 디지몬]] =
+== 일본판 OP : ターゲット～赤い衝撃～ ==
+||||||||<#f06a00> {{{#ffffff '''일본판 OP'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 타겟 ~붉은 충격~ ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> ターゲット～赤い衝撃～ ||
+||<|2><#f06a00><|2>{{{#ffffff '''가수'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 전영호 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> [[와다 코지]](和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 마츠키 유우(松木悠) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+||<#f06a00><:> {{{#ffffff '''개사'''}}} ||||<#faca00><:> 장동준 ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer01838' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=99B7CB2B6CDFD52A87440820185A4DF97362&outKey=V1260605a0012f24fc65ee002104d29d0480495460a45b7abda7be002104d29d04804' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=99B7CB2B6CDFD52A87440820185A4DF97362&outKey=V1260605a0012f24fc65ee002104d29d0480495460a45b7abda7be002104d29d04804' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer01838' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판 기준 25화 까지 사용된 오프닝 영상.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer06783' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=258175BA9495017027C8932F14ABC8642FAC&outKey=V128b23bc8608d629e0c57b83039a42e109e634694b44757bdda37b83039a42e109e6' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=258175BA9495017027C8932F14ABC8642FAC&outKey=V128b23bc8608d629e0c57b83039a42e109e634694b44757bdda37b83039a42e109e6' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer06783' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판 기준 26화 부터 사용된 오프닝 영상.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/4s4W5hkHaPo?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/4s4W5hkHaPo?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+극장판 오프닝, 삽입곡 등으로 사용된 한국판.
+
+이 시기가 디지몬 시리즈의 인기 최절정 시기였다는 걸 입증하듯, 디지몬 관련 음반 최고 판매량을 기록하고 있다.
+
+== 한국판 OP : 내일을 찾아 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 OP'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 내일을 찾아 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [[방대식]] ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/vwK4houHj60?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/vwK4houHj60?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+~~곡의 하이라이트 부분은 모닝콜로 자주 사용된다 [[카더라]].~~
+풀버전을 그대로 사용했는지 일본판에 사용된 오프닝곡에 비해 노래가 긴데, 본편에서 직접 영상을 가져와 어떻게든 싱크를 맞춘 듯 하다.
+
+== 일본판 1기 ED : アシタハアタシノカゼガフク ==
+||||||||<#f06a00> {{{#ffffff '''일본판 1기 ED'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 내일은 나의 바람이 불어 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> アシタハアタシノカゼガフク ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [wiki:"마에다 아이(성우)" AiM] ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 미우라 요시코(三浦徳子) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> MIZUKI ||
+||<#f06a00><:> {{{#ffffff '''편곡'''}}} ||||<#faca00><:> 와타나베 첼 (渡部チェル) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer01552' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=1C22AFA5E0E5F8D8FD06424BA4F9834F3156&outKey=V1210ac27d1ebaf8beb866a1b97ce111509016eaf70b8d09cfc986a1b97ce11150901' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=1C22AFA5E0E5F8D8FD06424BA4F9834F3156&outKey=V1210ac27d1ebaf8beb866a1b97ce111509016eaf70b8d09cfc986a1b97ce11150901' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer01552' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+== 일본판 2기 ED : いつも いつでも ==
+||||||||<#f06a00> {{{#ffffff '''일본판 2기 ED'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 언제나 언제라도 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> いつも いつでも ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [wiki:"마에다 아이(성우)" AiM] ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 마츠키 유우(松木悠) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 시라카와 아키라(白川晃) ||
+||<#f06a00><:> {{{#ffffff '''편곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer05492' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E3CC8060C7DD9B602406141B435665847E88&outKey=V126afde2061943d54e53d9da3dc67eb9f2d6f577242b0c1dfa3bd9da3dc67eb9f2d6' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E3CC8060C7DD9B602406141B435665847E88&outKey=V126afde2061943d54e53d9da3dc67eb9f2d6f577242b0c1dfa3bd9da3dc67eb9f2d6' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer05492' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+꽤 인기가 많은 곡으로, I wish와 함께 AiM 15주년 기념으로 리메이크 되기도 하였다.
+그 외에도, 프로듀서 버전이 존재하고 성우들이 부른 메모리얼 버전에서도 1기 엔딩곡 대신 사용되는 등 취급이 좋은 편.
+
+== 한국판 ED : To My Wish ==
+||||||||<#f06a00> {{{#ffffff '''한국판 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> To My Wish ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [[정여진]] ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/MNj2e-uAEP4?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/MNj2e-uAEP4?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/ZhXjqoQrXX8?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/ZhXjqoQrXX8?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+두 영상은 일본판에서 엔딩을 바꿈에 따라 그 영상에 맞춰 같이 변경된 버전으로, 곡의 끝도 미묘하게 다르다.
+
+== 일본판 아머 진화 테마곡 : Break up! ==
+||||||||<#f06a00> {{{#ffffff '''일본판 아머 진화 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Break up! ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 미야자키 아유미(宮崎歩) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/YEXupZlfW0U?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/YEXupZlfW0U?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+아머 진화(국내판은 캡슐 진화) 전용 테마곡으로 사용되었다.
+
+== 일본판 [[조그레스]] 진화 테마곡 : Beat Hit! ==
+||||||||<#f06a00> {{{#ffffff '''일본판 조그레스 진화 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Beat Hit! ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 미야자키 아유미(宮崎歩) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/EMs9K4zD97k?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/EMs9K4zD97k?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+디지몬 시리즈 첫 두번째 전투 테마곡.
+조그레스 진화(국내판은 합체 진화) 전용 테마곡으로 사용되었다.
+
+== 한국판 진화 테마곡 : 날 지켜줘 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 진화 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 날 지켜줘 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 강성호 ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/66641n2MRdA?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/66641n2MRdA?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+Break up!에서 멜로디만 따온 창작 진화 테마곡.
+
+[[http://ekdp0520.blog.me/30126725136 '날 지켜줘'와 'Break Up!'을 비교 분석한 글.]]
+
+= [[디지몬 테이머즈]] =
+== 일본판 OP : [[The Biggest Dreamer]] ==
+||||||||<#f06a00> {{{#ffffff '''일본판 OP'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> The Biggest Dreamer ||
+||<|2><#f06a00><|2>{{{#ffffff '''가수'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> TULA ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> 와다 코지(和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+||<#f06a00><:> {{{#ffffff '''개사'''}}} ||||<#faca00><:> 장동준 ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer03245' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=3EFD9C29FB41AE1CC2E6A138C997517B84EE&outKey=V1210118794d8bf5aad172f458c05eb08143569714c7b8f9f155c2f458c05eb081435' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=3EFD9C29FB41AE1CC2E6A138C997517B84EE&outKey=V1210118794d8bf5aad172f458c05eb08143569714c7b8f9f155c2f458c05eb081435' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer03245' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판 기준 23화 까지 사용된 오프닝 영상.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer09363' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=943F67141C3A249E3B8B3EAB335028E537BC&outKey=V121058cbc96482976b291b895f4dfe251c7f2b2681e971eb6d151b895f4dfe251c7f' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=943F67141C3A249E3B8B3EAB335028E537BC&outKey=V121058cbc96482976b291b895f4dfe251c7f2b2681e971eb6d151b895f4dfe251c7f' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer09363' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판 기준 24화 부터 사용된 오프닝 영상.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/Tmo4IRWNZYk?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Tmo4IRWNZYk?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+극장판 오프닝에 사용된 한국판.
+
+역시 인기가 많은 곡으로, 애니메이션 음악 순위에서 시리즈 내에선 Butter-Fly 이후 가장 높은 순위를 자랑하며, 종종 몇몇 팬들에겐 Butter-Fly 이상으로 평가되기도 한다.
+
+자세한 건 [The Biggest Dreamer|항목 참조].
+
+== 한국판 OP : 질주 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 OP'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 질주 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [[박응식]] ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/CsIOovWnE1M?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/CsIOovWnE1M?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+TV size 버전
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/gXkaZSizUtE?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/gXkaZSizUtE?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+풀버전
+
+디지몬 테이머즈 부터는 국내판 정식 음원을 앨범으로 발매하진 않았지만, 어째서인지 인터넷 상에 풀버전이 존재하기는 한다.
+
+== 일본판 1기 ED : My Tomorrow ==
+||||||||<#f06a00> {{{#ffffff '''일본판 1기 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> My Tomorrow ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> AiM ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 마츠키 유우(松木悠) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오쿠보 카오루(大久保薫) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer07525' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C78935DD623099EF9C019D6A553FBF3DD2BF&outKey=V125072e0cc1d01c082ca78c6d6439d473cb770b0ae9e6d672e3178c6d6439d473cb7' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C78935DD623099EF9C019D6A553FBF3DD2BF&outKey=V125072e0cc1d01c082ca78c6d6439d473cb770b0ae9e6d672e3178c6d6439d473cb7' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer07525' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+== 일본판 2기 ED : Days-愛情と日常- ==
+||||||||<#f06a00> {{{#ffffff '''일본판 2기 ED'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> Days -애정과 일상- ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> Days-愛情と日常- ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> AiM ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 우란(うらん) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 우란/오오쿠보 카오루(うらん/大久保薫) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer04893' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=8827A10E371EF1099FFCA6224BBD7102A93C&outKey=V1260b562040c8dc69acbfc00f15df45674a3b263208e84cb61f8fc00f15df45674a3' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=8827A10E371EF1099FFCA6224BBD7102A93C&outKey=V1260b562040c8dc69acbfc00f15df45674a3b263208e84cb61f8fc00f15df45674a3' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer04893' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+== 한국판 ED : 외롭지 않아 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 외롭지 않아 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 정여진, 김문선 ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/HUeNsj4HnWQ?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/HUeNsj4HnWQ?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+== 일본판 카드 슬래시 테마곡 : SLASH!! ==
+||||||||<#f06a00> {{{#ffffff '''일본판 카드 슬래시 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> SLASH!! ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/mOiZTt0BW1s?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/mOiZTt0BW1s?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+카드 슬래시 전용 테마곡으로 사용되었다.
+
+== 일본판 진화 테마곡 : EVO ==
+||||||||<#f06a00> {{{#ffffff '''일본판 진화 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> EVO ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> WILD CHILD BOUND ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 오오모리 쇼코(大森祥子) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 와타나베 첼(渡部チェル) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/0mWY_RJyqSs?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/0mWY_RJyqSs?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+테이머와 파트너 디지몬이 합체 진화하는 매트릭스 에볼루션 제외 통상 진화 전용 테마곡으로 사용되었다.
+
+== 일본판 매트릭스 에볼루션 테마곡 : One Vision ==
+||||||||<#f06a00> {{{#ffffff '''일본판 매트릭스 에볼루션 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> One Vision ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [[타니모토 타카요시]](谷本貴義) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/EbGjxdyRdOI?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/EbGjxdyRdOI?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+매트릭스 에볼루션 전용 테마곡으로 사용되었다.
+노래가 흐르기 전 [[듀크몬]], [[세인트가르고몬]], [[사쿠야몬]]의 전용 전주가 따로 있으며, 사쿠야몬 버전을 제외하고는 모두 정식 발매되었다.
+
+아무래도 좋은 여담이지만, [[니코니코 동화]] 등지에서는 첫 소절인 '히카리오 하나츠 카라다가'(빛을 발하는 몸이)를 [[몬데그린]]으로 '히카리오 하나츠 [[다나카]]가'(빛을 발하는 다나카가)로 부르는 게 네타화 돼 있다(...)
+
+== 한국판 전투 테마곡 : Evolution ==
+||||||||<#f06a00> {{{#ffffff '''한국판 전투 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Evolution ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 불명 ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/XLiodYbK7qs?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/XLiodYbK7qs?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+KBS에서 자체제작한 국내판 진화 테마곡.
+다만, 곡 제목이나 가수는 제대로 알려지지 않았으며, 알려진 곡 제목은 '''Evolution'''이나 '''결투''', 가수는 TULA라고 추측된다.
+
+= [[디지몬 프론티어]] =
+== 일본판 OP : [FIRE#s-5|FIRE!!] ==
+||||||||<#f06a00> {{{#ffffff '''일본판 OP'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> FIRE!! ||
+||<|2><#f06a00><|2>{{{#ffffff '''가수'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 전영호 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> 와다 코지(和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+||<#f06a00><:> {{{#ffffff '''개사'''}}} ||||<#faca00><:> 장동준 ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer07813' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=B3E2F711D258B4FD2EF05BFFD6A752A398B0&outKey=V1243690c29d615d30eed84e49b65315d787c451ce5ff6044224984e49b65315d787c' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=B3E2F711D258B4FD2EF05BFFD6A752A398B0&outKey=V1243690c29d615d30eed84e49b65315d787c451ce5ff6044224984e49b65315d787c' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer07813' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판에 사용된 오프닝 영상.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/81A9ksT1zCc?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/81A9ksT1zCc?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+극장판 엔딩에 사용된 한국판.
+
+가사 중 '쓰레기통을 뛰어넘은 그 앞에 있는 미래'라는 파트는 데뷔하기 이전에 퇴짜 받고 돌아온 데모 녹음본 테이프를 쓰레기통에 버려야 했던 고난의 시기를 넘고 일어선 보컬 와다 코지를 위해 작사가가 직접 넣어준 부분이라고 한다.
+
+== 한국판 OP : 디지몬 프론티어 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 OP'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 디지몬 프론티어 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [wiki:"박응식" 지무] ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/lIllyUKXCnA?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/lIllyUKXCnA?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+판권이 KBS에서 [[대원방송]]으로 넘어감에 따라 [[애니원]]에서 제작한 오프닝곡으로, 몇 안되는 애니원 자체 창작곡 중 하나이기도 하다.
+
+== 일본판 1기 ED : イノセント ~無邪氣なままで~ ==
+||||||||<#f06a00> {{{#ffffff '''일본판 1기 ED'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 이노센트 ~순수한 그대로~ ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> イノセント ~無邪氣なままで~ ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 와다 코지(和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 마츠키 유우(松木悠) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 치와타 히데노리(千綿偉功) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer05416' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=162EB15A4D26DB7B40C5A0DAD1A7AF6C2505&outKey=V1245c408b1737428f2d309a50cb4c302d8f9a2adafd2d175059c09a50cb4c302d8f9' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=162EB15A4D26DB7B40C5A0DAD1A7AF6C2505&outKey=V1245c408b1737428f2d309a50cb4c302d8f9a2adafd2d175059c09a50cb4c302d8f9' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer05416' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+시리즈 내에서 AiM이 부르지 않은 첫번째 엔딩곡이자, 와다 코지가 부른 첫번째 엔딩곡.
+
+== 한국판 1기 ED : 미라클 ==
+||||||||<#f06a00> {{{#ffffff '''한국판 1기 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> 미라클 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 정미영 ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/qHSB4KxsNpg?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/qHSB4KxsNpg?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+삽입곡으로 몇번 풀버전을 틀어주기는 했지만, 아쉽게도 공개된 풀버전 음원은 없다.
+
+== 일본판 2기 ED : an Endless tale ==
+||||||||<#f06a00> {{{#ffffff '''일본판 2기 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> an Endless tale ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 와다 코지(和田光司), AiM ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코(太田美知彦) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer02092' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=2027DFD5D7FABA5503C621FF7CFDC32D1927&outKey=V121091288cc9408eafc30911b1a8bfa391d4e6e86f53b085129e0911b1a8bfa391d4' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=2027DFD5D7FABA5503C621FF7CFDC32D1927&outKey=V121091288cc9408eafc30911b1a8bfa391d4e6e86f53b085129e0911b1a8bfa391d4' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer02092' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+시리즈 내 첫번째이자 유일한 듀엣 엔딩곡.
+
+== 한국판 2기 ED : Stay For You ==
+||||||||<#f06a00> {{{#ffffff '''한국판 2기 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Stay For You ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 강인한, 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer00725' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=A4DD2B94DDD40F1FEE929187D007AD9187A5&outKey=V1292d8b081f0dbfa641bb1b943db31a9a2c7e8567fdbb03dd0b0b1b943db31a9a2c7' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=A4DD2B94DDD40F1FEE929187D007AD9187A5&outKey=V1292d8b081f0dbfa641bb1b943db31a9a2c7e8567fdbb03dd0b0b1b943db31a9a2c7' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer00725' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+국내 더빙판 첫 2기 엔딩곡.
+
+== 일본판 스피릿 에볼루션 테마곡 : With The Will ==
+||||||||<#f06a00> {{{#ffffff '''일본판 스피릿 에볼루션 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> With The Will ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 와다 코지(和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 오오모리 쇼코(大森祥子) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 와타나베 첼(渡部チェル) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/shY1rJzWHbY?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/shY1rJzWHbY?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+스피릿 에볼루션 전용 테마곡으로 사용된 곡으로, 와다 코지가 담당한 첫 전투 테마곡이다.
+
+== 한국판 스피릿 에볼루션 테마곡 : I've got the power ==
+||||||||<#f06a00> {{{#ffffff '''한국판 스피릿 에볼루션 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> I've got the power ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 불명 ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+한국판 스피릿 에볼루션 전용 테마곡으로 사용된 곡이다.
+어째선지 인터넷에선 전영호가 보컬을 담당했다고 알려져있지만, 실제로 들어보면 음색부터가 많이 다르다.
+
+== 일본판 하이퍼 스피릿 에볼루션 테마곡 : The last element ==
+||||||||<#f06a00> {{{#ffffff '''일본판 하이퍼 스피릿 에볼루션 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> The last element ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> [wiki:"미야자키 아유미" 아유미](アユミ) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 와타나베 첼(渡部チェル) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/q5imd1D4yPw?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/q5imd1D4yPw?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+하이퍼 스피릿 에볼루션 전용 테마곡.
+
+== 한국판 하이퍼 스피릿 에볼루션 테마곡 : Spirit Evolution ==
+||||||||<#f06a00> {{{#ffffff '''한국판 하이퍼 스피릿 에볼루션 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Spirit Evolution ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> TULA ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 김주희 ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 방용석 ||
+
+[[HTML(<audio src="http://cfile295.uf.daum.net/media/1952D0184A70FB7081494B" controls="play"></audio>)]]
+
+'''새로운 진화'''라는 곡명으로도 알려져있는 한국판 하이퍼 스피릿 에볼루션 전용 테마곡.
+이 곡은 어찌어찌해서 유출됐는지 음원은 존재하지만, 풀버전 음원은 존재하지 않는다.
+
+= [[디지몬 세이버즈]] =
+== 1기 OP : 强ing! Going! My Soul!! ==
+||||||||<#f06a00> {{{#ffffff '''일본판 1기 OP'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 고-ing Going! My Soul!!, My Soul[* 한국 방영시 제목] ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> 强ing! Going! My Soul!! ||
+||<|2><#f06a00><|2>{{{#ffffff '''가수'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 이성준 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> 다이너마이트 SHU(ダイナマイトSHU) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 히루마 토오루(比留間徹) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> POM ||
+||<#f06a00><:> {{{#ffffff '''편곡'''}}} ||||<#faca00><:> 와타나베 첼(渡部チェル) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer08875' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=CA2D3613CB1BBEA4F7B82EC9EF440A0F943E&outKey=V123db0959d54545b5b36909de1f3d56a1de7cf8be99a11258faa909de1f3d56a1de7' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=CA2D3613CB1BBEA4F7B82EC9EF440A0F943E&outKey=V123db0959d54545b5b36909de1f3d56a1de7cf8be99a11258faa909de1f3d56a1de7' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer08875' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판 기준 29화까지 사용된 오프닝 영상.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer05671' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=487382D99555AF12D48A5D99BCA4160D519B&outKey=V12595db0b41411168aabded0b06bbc892e14167e1c77f64ed30dded0b06bbc892e14' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=487382D99555AF12D48A5D99BCA4160D519B&outKey=V12595db0b41411168aabded0b06bbc892e14167e1c77f64ed30dded0b06bbc892e14' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer05671' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+한국판에 사용된 오프닝 영상.
+
+와다 코지가 담당하지 않은 첫 오프닝곡.
+디지몬 세이버즈 부터는 국내에서도 창작곡이 아닌 번안곡을 쓰게 된다.
+
+== 2기 OP : ヒラリ ==
+||||||||<#f06a00> {{{#ffffff '''일본판 2기 OP'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 훌쩍 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> ヒラリ ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> 와다 코지(和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 와다 코지(和田光司) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> IKUO ||
+||<#f06a00><:> {{{#ffffff '''편곡'''}}} ||||<#faca00><:> SPM@ ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer09279' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=47EB792E0B80C5C1D34EDFE413886EDBC217&outKey=V1270c8c5106d325876e881de8ec9855de99f39628032cb20636b81de8ec9855de99f' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=47EB792E0B80C5C1D34EDFE413886EDBC217&outKey=V1270c8c5106d325876e881de8ec9855de99f39628032cb20636b81de8ec9855de99f' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer09279' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+시리즈 내 첫 2기 오프닝곡이자 와다 코지의 복귀곡.
+참고로, 번안되지 않은 유일한 오프닝곡으로 이 무성의함으로 대원은 또 까였다고 한다(...)
+
+== 1기 ED : One Star ==
+||||||||<#f06a00> {{{#ffffff '''일본판 1기 ED'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> One Star ||
+||<|2><#f06a00><|2>{{{#ffffff '''가수'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 박문영 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> 이토 요스케(伊藤陽佑) ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 사카키바라 토모코(榊原智子) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> POM ||
+||<#f06a00><:> {{{#ffffff '''편곡'''}}} ||||<#faca00><:> 오오노 히로아키(大野宏明) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer05689' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=52E74187331142B9685C3D72C06C8ACFB1A1&outKey=V1235906ac9e9546be19c1b6811099841c5e0a5a8e9ce092db0841b6811099841c5e0' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=52E74187331142B9685C3D72C06C8ACFB1A1&outKey=V1235906ac9e9546be19c1b6811099841c5e0a5a8e9ce092db0841b6811099841c5e0' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer05689' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판 기준 24화까지 사용된 엔딩 영상.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='500' height='408' id='NFPlayer01509' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=833C1441F08BF28E6E026AC265F0176E6ECC&outKey=V1233f0a331e36f3f468070415f612dd876bb7c49370bffe0b2cf70415f612dd876bb' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=833C1441F08BF28E6E026AC265F0176E6ECC&outKey=V1233f0a331e36f3f468070415f612dd876bb7c49370bffe0b2cf70415f612dd876bb' wmode='window' width='500' height='408' allowScriptAccess='always' name='NFPlayer01509' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+한국판에 사용된 엔딩 영상.
+
+== 2기 ED : 流星 ==
+||||||||<#f06a00> {{{#ffffff '''일본판 2기 ED'''}}} ||
+||<|2><#f06a00><|2>{{{#ffffff '''제목'''}}} ||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/20px-Flag_of_South_Korea.svg.png ||<#faca00><:> 유성 ||
+||<#ce6db6><:> http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png ||<#faca00><:> 流星 ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> MiyuMiyu ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> yukiko ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> yukiko ||
+||<#f06a00><:> {{{#ffffff '''편곡'''}}} ||||<#faca00><:> 미야케 카즈노리 (三宅一徳) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer04456' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C891AEB1DC85817A3DD520D7D30B15428276&outKey=V125d615017a0acb234795caa732847ba922e3f43d6c520fb73245caa732847ba922e' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C891AEB1DC85817A3DD520D7D30B15428276&outKey=V125d615017a0acb234795caa732847ba922e3f43d6c520fb73245caa732847ba922e' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer04456' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+일본판 기준 25화 부터 사용된 엔딩 영상.
+
+== 진화 테마곡 : Believer ==
+||||||||<#f06a00> {{{#ffffff '''진화 테마곡'''}}} ||
+||<#f06a00><:> {{{#ffffff '''제목'''}}} ||||<#faca00><:> Believer ||
+||<#f06a00><:> {{{#ffffff '''가수'''}}} ||||<#faca00><:> IKUO ||
+||<#f06a00><:> {{{#ffffff '''작사'''}}} ||||<#faca00><:> 야마다 히로시(山田ひろし) ||
+||<#f06a00><:> {{{#ffffff '''작곡'''}}} ||||<#faca00><:> 오오타 미치히코 (太田美知彦) ||
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/_vSJnBkFzQs?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/_vSJnBkFzQs?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+진화 테마곡.
+
+= [[디지몬 크로스워즈]] =
+
+이쪽은 항목에 따로 서술되어 있으니 항목 참고

@@ -1,0 +1,38 @@
+|| 장르 |||||||| 2Step ||
+|| 곡명 |||||||| Gray Hunter ||
+|| 작곡 |||||||| CHAOS ||
+|| 배경 |||||||| 범용 BGA (1.5~) [[br]] [[CATENA]] (ON) ||
+|| 타이틀 |||||||| [[wiki:"류난" YammyYammy]] (1.5~) [[br]] [[CATENA]] (ON) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.5]] ||
+|| BPM |||||||| 125 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 6}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 7}}} || {{{#orange 9}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple ☠}}}[* [[EZ2CATCH 4대 천왕]] 당시 패턴이다. 게임상에선 ANOTHER 취급.] ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+[[목차]]
+== 개요 ==
+투스텝이라지만 베이스 라인과 패드 음이 강해서 별로 투스텝같지는 않다. 오히려 디스코처럼 들리는 구석도 있는데 그래서인지 디스코 장르의 곡 [[Seize The Day]]의 BGA를 그대로 갖다 썼다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/_lS0Q3raYqY?list=UUORnx29p-fEakvAjYS-Cc1A" frameborder="0" allowfullscreen></iframe>
+}}}
+
+7th 1.5 버전의 [[EZ2CATCH 4대 천왕]] 중 하나였고 가장 먼저 클리어자가 나온 곡이다. 이후 2.0에서, 다른 3곡은 제대로 된 채보로 교체되었지만 이 곡은 그냥 잘렸다. 그리고 BERA에서 다시 부활했는데, 4대 천왕 패턴 그대로 부활했다. 다른 건 게이지가 좀 더 후한 정도. 덧붙여 게이지까지 1.5 그대로인 ANOTHER 버전은 올송을 안 걸면 등장한다.
+
+== [[EZ2ON]]에서의 수록 ==
+{{{#!HTML
+<iframe width="500" height="250" src="//www.youtube.com/embed/Rj_Whx3FKZk" frameborder="0" allowfullscreen></iframe>
+}}}
+'''온라인 버전의 BGA'''
+
+이지투온에는 Lepusnette(CATENA)가 제작한 말끔한 BGA와 함께 수록되었다. BGA는 키네틱 타이포그라피를 위주로 한 역동적인 연출이 돋보이는데, 타이포그라피로는 별별 말이 다 지나가고 심지어는 [[미트스핀|You spin me right round]]도 나온다.(…)
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/JFdZSzc9zPY" frameborder="0" allowfullscreen></iframe>
+}}}
+'''온라인 버전의 6K HD'''

@@ -1,0 +1,53 @@
+ * 상위항목 : [[ZTE]]
+
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 미국의 지역통신사인 US Cellular를 통해 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 목록.
+
+각 기기정보가 전부 토막글 수준이며 주요 모델의 커스텀 모델도 아닌 별개의 모델들이다.
+
+[[각주]]
+
+== ZTE Director ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/f/r/front_1.png
+
+2013년 4월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 MSM7627 [[SoC]]. [[ARM]]11 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||62.5 x 118.1 x 12.2 mm, 140 g ||
+||기타|| ||
+
+=== 상세 ===
+ZTE의 첫 US 셀룰러 출시 스마트폰으로 [wiki:"ZTE/스프린트#s-2" Fury]나 [wiki:"ZTE/크리켓#s-2" Score]처럼 철저한 저사양 스마트폰이다.
+
+[[각주]]
+
+== ZTE Imperial ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/f/r/front_7.png
+
+2013년 6월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Plus MSM8930 [[SoC]]. [[Qualcomm Krait]] MP2 1.2 GHz [[CPU]], 퀄컴 Adreno 305 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, --[[4G|HSPA]] + 21 Mbps, [[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]]--[* 일단 통신사가 지원하지 않는다.], [wiki:"CDMA2000" CDMA & EV-DO Rev. A][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 100만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 2500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||65.5 x 124.9 x 12.2 mm, 153.4 g ||
+||기타|| ||
+
+=== 상세 ===
+[[LTE]]를 지원하는 스마트폰이다. AP로는 [[퀄컴 스냅드래곤]] S4 Plus MSM8930을 사용했다. 라인업 개편으로 MSM8930이 [[퀄컴 스냅드래곤]] 400으로 편입되었으나, CPU 클럭 상 전자가 맞는 것으로 보인다.
+
+[[각주]]

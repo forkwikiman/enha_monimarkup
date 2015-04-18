@@ -1,0 +1,34 @@
+ * 상위 항목: [제트전투기]
+
+[[include(틀:제트전투기/러시아)]]
+
+|||||||||||||| MiG기 계보 ||
+|| [[MiG-33]] ||→|| MiG-35 ||
+
+[[목차]]
+
+== MiG-35라는 이름에 얽힌 비화 ==
+한때 서방권과 동구권 국가들은 MiG-35라는 같은 형식번호를 가지고 서로 다른 전투기를 지칭하고 있었다(…).
+서방권 국가에서의 MiG-35는 [[F-22]]의 대항마로서 개발되던 [[MiG-MFI]]를 지칭하는 말이었고, 동구권 국가들이 부르는 MiG-35는 [[MiG-29]]의 최신 개량형인 밑에서 설명할 전투기를 칭한다. 뭐야 이거(…). 한마디로 전투기판 [[아쿨라급]].
+다만 [[MiG-MFI]]가 결과적으로는 흑역사화되었기 때문인지, 이제는 서방권에서도 [[MiG-MFI]]를 MiG-35라 칭하는 일은 별로 없게 된 것 같다. 덕분에 현재는 서방권에서든 동구권에서든 MiG-35는 밑에서 설명할 전투기를 칭하는 말로 의미가 통일된 것으로 보인다. 실로 다행이다(…).
+
+== MiG-29의 개량형 ==
+attachment:/mikoyangurevich-mig35-fulcrum.jpg
+attachment:/MIG35.jpg
+attachment:Example.jpg
+[[소련]]이 [[러시아]]로 바뀌면서 국방예산이 대폭 감축되자 러시아 [[공군]]과 [[해군]]은 [[Su-27]] 계열을 단일 주력전투기로 사용하기로 하여 [[MiG-29]]의 입지가 대폭 약화되었으며, 수출시장에서도 처음에 잘 팔리던 [[MiG-29]]가 [[걸프전]]과 유고 내전에서 일방적으로 격추당하는 꼴을 보여 [[Su-27]]에게 시장을 많이 빼앗기게 되자, 이를 만회하기 위해 [[MiG-29]]를 전면 재설계해서 수출시장에 내놓을 목적으로 등장한 기종. 즉 [[MiG-29]]의 개량형이다. 곳에 따라서 '슈퍼 펄크럼'이라고 불리기도 한다.(그런데 NATO 코드네임으로는 펄크럼 F다. 슈퍼 펄크럼은 [[MiG-33]].) 최근 러시아 공군이 100여대를 발주해놓은 상태이다.
+
+{{{#!html
+<object width="600" height="365"><param name="movie" value="http://www.youtube.com/v/KG_EgwoEQdk&rel=0&color1=0xe1600f&color2=0xfebd01&hl=ko_KR&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/KG_EgwoEQdk&rel=0&color1=0xe1600f&color2=0xfebd01&hl=ko_KR&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="365"></embed></object>}}}
+[wiki:"미그기" 미그사]의 MiG-35 CF
+
+http://www.migavia.ru/im/photo/AESA%20Radar%20Zhuk-AE_1_main.jpg?width=570
+MiG-35의 레이더인 Zhuk-AE.
+
+주된 개량점은 역시 MiG-29의 약점으로 지적되던 짧은 항속거리, 탑재량을 크게 늘렸다. 신형 AESA 레이더인 Zhuk-AE는 저가형은 110km의 탐지능력을, 고급형은 170km의 탐지능력 T/R 수가 1016개에 이르는 최종형에서는 무려 250km의 탐지거리를 가진다. 적 함선같은 큰 물체는 저가형도 300km 밖에서 탐지가 가능하다. 디지털 사격통제장치의 도입으로 [[R-77]], [[R-73]] 등을 사용하여 BVR 능력과 대지상 타격능력이 매우 뛰어나졌으며 Su-35bm처럼 추력편향 엔진을 도입하여 기동력을 극한으로 끌어올렸다.
+
+여담으로 MiG-29에도 있는 프로프 공중급유장치가 삭제되었다는 말이 있는데, 이는 사실이 아니며 엄연히 존재한다.
+
+현재 [[말레이시아]] 같이 기존의 [[MiG-29]]를 사용하는 국가 및 베트남 같은 국가에게 더 활발한 판촉을 하고 있다.
+
+그런데 [[인도군]]의 MiG-21 126대를 대체하는 차기 중형 전투기 사업인 MMRCA에서 2011년 4월 28일에 탈락함에 따라 전망이 어두워졌다. 비단 외부의 평가만이 아니라 러시아 내부의 평가도 부정적인데 탈락이 확정된 4월 28일 러시아 국영 일간지인 프라우다에서는 인도에서의 탈락으로 MiG-35 프로그램이 사실상 끝났다는 언급을 하며 미코얀의 부채가 440억 루블(기존 설명에는 440억 달러로 표시되어 있었으나 사실 위 문단은 언론기사를 그대로 베낀 것인데 그 기사에는 440억 루블로 나와 있었다.)에 달하기에 이번 실패를 감당하기 힘들 것이라는 전망을 내놓았다. 

@@ -1,0 +1,41 @@
+[[팝픈뮤직]] 5 수록곡. 원제는 일본어이며  I JUST WANNA TELL YOU라는 부제가 붙어 있다. 후에 [[비트매니아 IIDX]] 4th style에 이식되었을 때는 제목이 영어가 되고 부제가 빠졌다.
+
+작곡은 [[dj TAKA]]. 노래는 ANGEL([[EZ2DJ]] 시리즈에 참여한 [[Ruby Tuesday]]의 곡을 불렀던 그 Angel O'Brien). 한국 유저 입장에서는 EZ2DJ로 유명한 Angel O'Brien이 [[BEMANI 시리즈]]에도 참여를 했다는 것에 의의를 둘 수 있는 곡. 코나미 소속도 어뮤즈 소속도 아닌 프리랜서이다 보니 나름대로 있을 수 있는 일이지만.[* 그런데 공식 홈페이지의 곡 소개에는 Angel O'Brien이 DDR에서 활동했다고 소개되어 있다. Angel O'Brien이 기타도라의 라이센스곡 커버에 참여한 건 잘 알려져 있는 사실이나 DDR 쪽은 자료가 전무. 관련 내용을 아시는 분이 [[추가바람]].]
+
+[[파라파라 파라다이스]] 2nd MIX에는 B4 ZA BEAT가 슈퍼 유로비트 버전으로 리믹스한 것이 수록되었다.
+
+참고로 이 곡의 제목을 직역하면 '무지하게 [wiki:"하이힐" 높은 힐]'이다...
+
+[[목차]]
+== [[팝픈뮤직]] ==
+{{{#!html
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/nro5j6J_cuE?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nro5j6J_cuE?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+{{|
+ね～！コレなんかスゴクなぁ～い？ソッコー着メロして入れよ～よ！！
+저기～! 이거 좀 쩔지 않아～? 후딱 착신음으로 넣자고～!![* 원문은 [[wiki:"갸루 패션" 갸루]] 말투. 담당 캐릭터 타마코부터가 살 태운 갸루이다. 2P 캐릭터는 안 탔지만.]
+|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| [[wiki:"팝픈뮤직/역사#s-1.5" 팝픈뮤직 5]] || PARAPARA[[br]][[파라파라]][* 파라파라는 댄스의 일종이지 음악의 장르가 아니다. 파라파라가 한창 유행하고 KONAMI에서 게임까지 낸 당시 상황을 감안한 장르명. 팝픈에 붙는 장르명이 애초에 붙이는 사람 마음이다 보니….] || ウルトラハイヒール[[br]]～I JUST WANNA TELL YOU || dj TAKA feat.ANGEL || TAMAKO[[br]]타마코 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 159 || 43단계 || {{{#blue 6}}} || {{{#green 18}}} || {{{#orange 23}}} || {{{#red 27}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 24}}} || {{{#orange 29}}} || {{{#red 33}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+== [[비트매니아 IIDX]] ==
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/lIWCQxQAZIM&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/lIWCQxQAZIM&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|3> 160 |||| 노멀 |||| 하이퍼 |||| 어나더 |||| 노멀 |||| 하이퍼 |||| 어나더 ||
+|| 4 || 380 || 5 || 462 || 5 || 497 || 4 || 441 || 5 || 503 || 없음 || 없음 ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 4th ~ 6th, 11 RED ~
+ * 가정용판 수록 : 4th style
+
+비트매니아 IIDX에 수록된 유로비트 중에서는 난이도가 비교적 쉬운 편. 딱히 [[계단]]이라든가 폭타라든가도 나오지 않고 무난하게 플레이할 수 있다. 하이퍼랑 어나더의 난이도 차도 별로 없다.

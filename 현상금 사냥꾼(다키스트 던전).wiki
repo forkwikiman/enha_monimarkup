@@ -1,0 +1,68 @@
+ * 상위항목 : [[다키스트 던전]] & [[다키스트 던전/캐릭터]]
+
+{{{+1 ''' ''Bounty Hunter'' ''' }}}
+
+attachment:DD_Bounty_Hunter.jpg
+
+[[목차]]
+
+== 소개 ==
+> A brutally efficient single-target executioner and crowd control specialist. 
+> For the Bounty Hunter, planning is key - mark targets for bonus damage or look for opportunities to capitalize on a stunned foe. 
+> He can also wreak havoc on an enemy party's order using his grappling hook, flashbangs and powerful uppercut. 
+
+== 운용법 ==
+강력한 딜링 스킬들과 메즈기로 무장한 딜러형 캐릭터.
+
+어느 열에 세워도 제 몫을 하며, 공격 스킬은 물론이거니와 적에게 스턴을 걸고 위치를 섞는 섬광탄, 후방의 적을 강제적으로 끌어오는 후크, 해당 적에게 가하는 데미지를 증가시키는 표식 등 유용한 스킬들을 다수 갖추고 있다. 다만 체력이 약간 부족한 편이며, 광역 공격스킬이 없다는 것이 껄끄럽다.
+
+표식이 남은 적에게 '''100% 추가 데미지'''를 주는 스킬 현상금 수집이 있어 단일 딜이 매우 강하며, 역시 표식 스킬을 가진 신비학자와 좋은 궁합을 보인다. 대 보스전 특화에 가까운 느낌.
+
+또한 스턴 된 적에게 추가 피해를 가하는 공격 스킬이 있어 후열에 높은 확률로 광역 스턴을 거는 역병술사와 연계해 적의 후방을 녹여버리는 전략이 유효하다. 이 스킬은 단독으로 사용할 경우에 치명타 확률을 제외하면 다른 주력 공격 스킬인 현상금 수집에 비해 부족한 점이 없으며, 사용 가능 범위와 공격 범위가 제한이 없다는 장점까지 있다. 그러나... 당장 턴이 안 돌아오는 스턴된 적을 공격하는 것보다 턴이 돌아오는 다른 적을 먼저 처리하는 게 훨씬 유리하며, 결정적인 문제가, 스턴 너프 이후 적들이 스턴에 거의 안 걸려서 별로 쓸 일이 없다.
+
+전열 교란, 스턴 메즈 등으로 사전에 공격을 차단할 수 있기 때문에 속도의 중요도가 높은 편이며, 전용 장신구에도 속도 증가 효과가 붙어있는 경우가 많다. 또한 함정 제거 확률이 캐릭터 중 무덤 도굴꾼 다음으로 높다.
+
+추천 스킬은 죽음의 표식과 표식이 남은 적에게 100% 추가 피해를 주는 현상금 수집, 모든 위치에서 사용 가능하고 기절한 적에게 추가 피해를 주는 끝장내기와 적을 기절시키고 위치를 변동시키는 섬광탄이다. 신비학자와 연동할 경우에는 죽음의 표식을 적을 끌어오는 스킬로 대체하는 것도 가능하다.
+
+여담으로 다른 캐릭터들에 비해 말수가 적은 편. 치명타를 먹여 적을 끝장내고 나서도 "흠."하고 만다. 과묵한 프로페셔널같은 느낌.
+
+== 능력치 ==
+해당 배율은 0렙 상태일때의 스킬치다.
+
+ * 기본 스텟
+ ||<#DCDCDC> HP || DOD ||<#DCDCDC> PROF || SPD ||<#DCDCDC> ACC || CRT ||<#DCDCDC> DMG ||
+ ||<#DCDCDC> 25 || 5 ||<#DCDCDC> 0% || 4 ||<#DCDCDC> 0 || 5% ||<#DCDCDC> 5 - 10 ||
+
+ * 저항력
+ ||<#DCDCDC> 스턴 || 오염 ||<#DCDCDC> 질병 || 치명타 ||<#DCDCDC> 이동 || 출혈 ||<#DCDCDC> 약화 || 함정 ||
+ ||<#DCDCDC> 40 || 30 ||<#DCDCDC> 0 || 67 ||<#DCDCDC> 40 || 30 ||<#DCDCDC> 20 || 30 ||
+
+== 보유 스킬 ==
+해당 배율은 1레벨 스킬 기준이다.
+
+ * 전투 스킬
+ ||<#000000> '''{{{#white 전투스킬명'''}}} ||<#000000> '''{{{#white 공격위치'''}}}  ||<#000000> '''{{{#white 대상위치'''}}}  ||<#000000> '''{{{#white  공격'''}}}[[br]]'''{{{#white 형태'''}}} ||<#000000> '''{{{#white  위치이동'''}}}  ||<#000000> '''{{{#white  ACC'''}}}[[br]]'''{{{#white  Base'''}}} ||<#000000> '''{{{#white DMG'''}}}[[br]]'''{{{#white  Mod'''}}} ||<#000000> '''{{{#white CRIT'''}}}[[br]]'''{{{#white  Mod'''}}}  ||<#000000> '''{{{#white  기타 효과'''}}}  ||
+ ||<#DCDCDC> 현상금 수집 [[br]] (Collect Bounty) ||<#DCDCDC> ○ ● ● ● ||<#DCDCDC> ● ● ○ ○ ||<#DCDCDC> 근접 ||<#DCDCDC> - ||<#DCDCDC> 80 ||<#DCDCDC> - ||<#DCDCDC> 5% ||<#DCDCDC> - 표식이 있는 적에게 DMG 100% 증가 ||
+ || 죽음의 표식 [[br]] (Marked for Death) || ● ● ● ● || ● ● ● ● || 원거리 || - || 100 || -100% || - || 적에게 표식을 남긴다 ||
+ ||<#DCDCDC> 이리 오시지 [[br]] (Come Hither) ||<#DCDCDC> ● ● ● ● ||<#DCDCDC> ○ ○ ● ● ||<#DCDCDC> 원거리 ||<#DCDCDC> 적 2칸 당김 ||<#DCDCDC> 90 ||<#DCDCDC> -67% ||<#DCDCDC> - ||<#DCDCDC> - ||
+ || 어퍼컷 [[br]] (Uppercut) || ○ ○ ● ● || ● ● ○ ○ || 적 2칸 넉백 || - || 80 || -67% || - || - ||
+ ||<#DCDCDC> 섬광탄 [[br]] (Flashbang) ||<#DCDCDC> ● ● ● ○ ||<#DCDCDC> ● ● ● ●  ||<#DCDCDC> 원거리 ||<#DCDCDC> 적 위치 Shuffle ||<#DCDCDC> 80 ||<#DCDCDC> -100% ||<#DCDCDC> - ||<#DCDCDC> 스턴 Base 125% ||
+ || 끝장내기 [[br]] (Finish Him) || ● ● ● ● || ● ● ● ● || 근접 || - || 80 || - || 3% || 적이 스턴 상태라면 DMG 33% 증가 ||
+ ||<#DCDCDC> 낚고 썰기 [[br]] (Hook and Slice) ||<#DCDCDC> ● ● ○ ○ ||<#DCDCDC> ○ ● ● ● ||<#DCDCDC> 원거리 ||<#DCDCDC> - ||<#DCDCDC> 75 ||<#DCDCDC> -33% ||<#DCDCDC> 2% ||<#DCDCDC> - ||
+
+ * 캠핑 스킬
+ At camp, like in combat, the Bounty Hunter is all about preparedness. 
+ He can instruct another other party members on the nuances of combat, or he can take time to study his notes, bettering his odds against 'big game'. 
+ Scouting ahead can increase a party's knowledge of lurking threats, while tracking increases the party's chance of maintaining the elements of surprise. 
+
+ ||<#000000> '''{{{#white 캠핑스킬명'''}}} ||<#000000> '''{{{#white TC'''}}} ||<#000000> '''{{{#white  대상'''}}}  ||<#000000> '''{{{#white  효과'''}}}  ||
+ ||<#DCDCDC> 격려 (Encourage) ||<#DCDCDC> 2 ||<#DCDCDC> 아군 한명 ||<#DCDCDC> 스트레스 10 감소 ||
+ || 상처 치료 (Wound Care) || 2 || 아군 한명 || HP 20% 회복, 33% 확률로 출혈 제거 ||
+ ||<#DCDCDC> 격려 연설 (Pep Talk) ||<#DCDCDC> 2 ||<#DCDCDC> 아군 한명 ||<#DCDCDC> 스트레스 저항령 25% 증가 ||
+ || 이게 우리가 일하는 방식이지 [[br]] (This Is How We Do It) || 2 || 아군 한명 || ACC 10 증가, CRT 5% 증가 ||
+ ||<#DCDCDC> 추적 (Tracking) ||<#DCDCDC> 2 ||<#DCDCDC> 자신 ||<#DCDCDC> 다음 캠프때까지 아군의 놀람(Surprised) 감소, 적군은 증가 ||
+ || 계획적 제압 (Planned Takedown) || 4 || 자신 || 몬스터 크기 2이상 적에 대하여 DMG 25% 증가 ||
+ ||<#DCDCDC> 전방 정찰 (Scout Ahead) ||<#DCDCDC> 3 ||<#DCDCDC> 자신 ||<#DCDCDC> 다음 캠프때까지 스카우팅 찬스 50% 증가 ||
+
+[[각주]]
+

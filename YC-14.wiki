@@ -1,0 +1,30 @@
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Yc14-1_072.jpg/300px-Yc14-1_072.jpg
+
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/6-tyjLQ4xM0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[목차]]
+
+== 개요 ==
+[[보잉]] YC-14는 전술 [[STOL]] [wiki:"쌍발기" 쌍발] [[수송기]]이다. [[미 공군]]의 AMST(Advanced Medium STOL Transport)프로그램에 따라 개발되었으며, 기존의 전술 STOL 수송기인 [[C-130]]을 대체하기 위해 개발되었다. 경쟁작이였던 [[YC-15]]와 YC-14 모두 상당한 수작이었다. 그런데도 결국 하나도 생산에 들어가지 못한채로 AMST 프로젝트 자체가 1979년에 종료되고 C-X 프로그램으로 대체되었다.. [[안습]].. ~~디자인이 어깨뽕 최강급이다...~~
+
+== 개발 과정 ==
+1970년대 중반, 미 공군은 전술 항공기 선발(Tactical Aircraft Investigation)을 구상하기 시작했다. [[보잉]], [[맥도넬 더글라스]], 그리고 다른 항공기 제작회사들이 다양한 전술 수송기 디자인을 검토했다. 그리고 마침내 위의 AMST 프로젝트가 시작되었고, 보잉은 다양한 수송기를 검토해보기 시작해서, [[C-5]]의 날개 방식을 참고해서 개발된 것이 YC-14이다. 자세한 과정은 [[추가바람]]
+
+== 제원 ==
+http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/YC14-3Seiten.jpg/350px-YC14-3Seiten.jpg
+
+승무원 : 3
+적재량 : 보병 150명 또는 31.4t (STOL : 12.3t)
+길이 : 40.14m
+날개 폭 : 39.32m
+높이 : 14.74m
+주익 면적 : 163.7m^2
+무게 : 53.41t(비었을 때), 113.85t(최대 이륙 중량), 77.27t(STOL)
+파워플랜트 : 2 × [[제너럴 일렉트릭]] CF6-50D 터보팬, 각각 227kN의 출력
+최대 속도 : 811km/h
+순항 속도 : 723km/h
+항속 거리 : 5,136km
+운항 고도 : 45000피트 (13716m)
+상승 속도 : 1935m/분

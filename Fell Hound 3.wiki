@@ -1,0 +1,97 @@
+{{|[[리듬게임]] [[EZ2DJ]] 수록곡.|}}
+[[목차]]
+|| 장르 |||||||| Hard Trance [* 작곡가 언급 http://ask.fm/xxx2130] ||
+|| 곡명 |||||||| Fell Hound 3 ||
+|| 작곡 |||||||| [[SpringHead]][* 게임 내에서는 Transin 작곡, SpringHead 편곡이라고 적혀 있다(...) ~~[[동명지인]]~~] ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 140 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 8}}} || {{{#orange 10}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 12}}} || {{{#red 16}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<iframe title='[Ez2DJ]Fell Hound 3(Arcade Ver.)' width='600px' height='450px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=qCIW8ua2nDA$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+{{{#!HTML
+<iframe width="640" height="390" src="//www.youtube.com/embed/G3h1U0fKMhY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[EZ2ON]] '''BGA'''
+== 소개 ==
+[[BMS]]로 출품된 [http://www.youtube.com/watch?v=iSYIFTfzBIQ 원곡]이 존재한다. 2006년에 풀 버전으로 나왔는데, 이것이 Fell Hound 2. 그리고 2007년에 7th에 리믹스되어 수록된 물건이 바로 Fell Hound 3이다. 원곡은 7th 1.0 인컴테스트 때에 [[Unrequited Love 2]]의 원곡인 Unrequited Love와 함께 잠시 수록되기도 했다.
+
+원곡의 [[BGA]]는 무난한 [[RYUminus]] 스타일의 루핑 애니메이션이지만 마지막에 '''[[개]]를 몽둥이로 패는''' --[[그림판]]으로 그린-- 장면이 등장하여 몇몇 유저는 배꼽을 잡고 웃기도 했다.
+
+[[EZ2DJ AE]]에서는 곡 판권에 관한 문제로 인해 삭제되었다.
+== 패턴 ==
+=== 5키 ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/iTZJlQKGGNg?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/iTZJlQKGGNg?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+HD MIX
+이 곡이 유명한 이유는 악랄한 '''연타''' 패턴 때문이다. 물론 이전 버전에도 [[Fire Storm]], [[Zeroize]] 등의 연타로 유명한 음원들이 존재하지만 이 패턴은 노골적으로 '''14초간''' 연타만 해야 한다. BMS에서도 이 패턴은 있었지만 EZ2DJ로 넘어오며 스크래치가 추가되었다. 이 때문에 몇몇 유저의 테크닉인 양손 연타도 막혀버렸다. 순수하게 한 손만 달달달달 떨어야 하는 패턴.
+
+연타는 HD 믹스에만 등장하는데 이 때문에 개인차가 상당히 심한 패턴이 되었다. 같은 레벨인 [[20000000000]] HD와 비슷하다. 하지만 대체로 12보다는 어렵다는 후기가 많다.
+
+7th의 5키 보스 채널인 RYUminus 채널에 연타가 강화된 전용 패턴이 나오는데, RYUminus 채널의 실질적인 보스곡으로 꼽히기도 한다. 그러나 이후 RYUminus 채널은 조용히 묻혀서 존재감이 전혀 없다.
+
+라디오믹스 [wiki:"EZ2DJ/Znpfg" Znpfg] 채널에 전용패턴이 등장하는데 연타 부분에 노트를 더 쑤셔넣어 극악의 난이도를 자랑한다. 많은 사람들이 해당 채널 보스곡으로 인정한다. 음원이 조금 더 길어졌는데 후반부에 원곡을 섞어놓았다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/SzLV9Le4mmw?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+Ch. znpfg
+=== 7키 ===
+라디오믹스 HEAT FLOW에 위의 Znpfg 패턴과 비슷한 모양으로 등장한다.
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/hJjqg_jlPkY?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+5키와 비슷하지만 4줄이라 두손 모두 꼼짝없이 죽어라 두들겨야한다. Znpfg보다는 조금 쉽다.
+=== 클럽 ===
+노멀이 이미 난이도 13. 그리고 통상적인 13에 비해 조금 어렵다. 후반부의 연타지옥이 사라졌지만 완전히 사라진 것은 아니고 왼손에 조금씩 등장한다.
+BERA에서 갑자기 12레벨의 EZ 믹스가 추가되었다. 무난한 패턴이다.
+=== 스페믹 ===
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/anbc900xK68" frameborder="0" allowfullscreen></iframe>
+}}}
+
+표기 레벨이 11이지만, 실상은 레벨 8수준도 안된다. 노트수는 11답지만 패턴에서 이펙트하고 키의 간격이 거의 없이 고정적으로 되어있기 떄문에 심지어는 입문자도 깬다. 다만 이것은 스트릿에서 어느정도 짬이 되어야 한다.
+=== 캐치 ===
+BERA에서 추가된 16레벨의 HD 패턴.
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/8BQij79JSMc?rel=0"
+frameborder="0" allowfullscreen></iframe>
+}}}
+
+연타가 8비트로 바뀐 대신에 과일이 '''9'''개씩 떨어진다. 양쪽썰기로 받는것 보다는 영상처럼 비비면서 한방향으로 썰어주는 것이 조금 더 수월하다. 그 외에 중반부 롱놋지대에서 롱놋이 겹쳐있는 패턴 문제가 존재한다.
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/y_XTXwrzZgA" frameborder="0" allowfullscreen></iframe>
+}}}
+저런 식으로 받을 수도 있다.타이밍은 과일이 접시와 거의 붙을락말락 할 때쯤 반대쪽 끝으로 왔다갔다 하면 된다. 다만, 흐름이 한번 끊기면 거의 그 순간 폭사하니 주의.
+=== [[EZ2ON]] ===
+앞에서 언급한 공포의 후반연타는 6키에서만 볼 수 있다. 여기서도 사기라, 난이도 17이라 쓰여있지만 "적어도 18은..." 이라는 평이 지배적.
+== 제작자 코멘트 ==
+{{|
+그냥 3D 다. 버벅버벅버벅버벅 거려서 결국 오만거 다 뺐다.
+기본적으로 처음부터 끝까지 나오는 선들은 매우 고해상도의 예쁘고 단정한 선들이었는데,
+시스템이 시스템이다 보니....
+버벅 버벅 버벅 버벅 버벅 버벅 버벅 버벅 버벅 버벅 버벅 버벅 버벅.
+그냥 해상도 낮추고...
+BGA 포인트는 스트릿믹스 하드패턴 페달 기준으로 움직이는 레벨게이지. 정도...
+-RYUminus
+|}}

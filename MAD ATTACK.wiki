@@ -1,0 +1,29 @@
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/za0mVFFeDw0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[비마니 시리즈]]의 수록곡. 작곡은 HALFBY. 이 작곡가는 옛날 니코동에서 [[RODEO MACHINE]]이라는 곡으로 유명세를 탔던 그 DJ다. [[베타 시대의 영웅]] 참조.
+
+곡 전체적으로 '''어''' 하는 샘플링을 [[인간 관악기]]로 사용해서 처음에 이 곡이 공개되었을 때 ~~작곡가가 [[합필갤]]러~~[* 물론 이런 음성의 피치를 높이거나 낮춰서 음악에 사용한건 어느 나라를 막론하고 많다. [[인간 관악기]]항목 참조] --근데 합필갤에서 리메이크 되었다-- 엄청난 반응을 일으켰다. 일본 현지에서는 [[짱구]]의 목소리로 들린다는 의견이 많다.
+
+그 외에도 곡 초반에 "Are U Mad?" 라는 샘플링도 있다.
+
+== [[beatmania IIDX 21 SPADA]] ==
+
+|| 장르명 |||||| UPBEAT[[BR]]업 비트 || [[BPM]] |||| 140 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 3}}} || {{{#blue 348}}} || {{{#orange 6}}} || {{{#orange 683}}} || {{{#red 9}}} || {{{#red 991}}} ||
+|| [[더블 플레이]] || {{{#blue 3}}} || {{{#blue 383}}} || {{{#orange 9}}} || {{{#orange 719}}} || {{{#red 10}}} || {{{#red 1136}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 21 SPADA ~
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/eMNMfAuSlek" frameborder="0" allowfullscreen></iframe>
+}}}
+SPA 풀콤보 및 손배치 영상.
+
+BGA는 [[灼熱Beach Side Bunny]], [[wiki:"F(비마니 시리즈)"F]]를 만든적이 있는 Minako Endo.
+
+싱글 어나더의 경우에는 동시치기가 주가된 패턴이며, 9레벨 중에서도 상급에 속하는 꽤 어려운 채보.

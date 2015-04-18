@@ -1,0 +1,13 @@
+Detect Hostile Intent.
+
+[[던전 앤 드래곤 시리즈]], 그 중 [[D&D 3.5]]에 등장하는 [wiki:"초능력(던전 앤 드래곤 시리즈)" 초능력](Psionic Power)이다.
+2레벨 텔레파시(Telepathy) 계열 [wiki:"사이언(던전 앤 드래곤 시리즈)"사이언] / [[와일더]] 기본 초능력이자 [[사이킥 워리어]] 초능력이다. 
+
+초능력 기본서인 Expanded Psionics Handbook(XPH)에 등장하였고, d20 SRD에 [http://www.d20srd.org/srd/psionic/powers/detectHostileIntent.htm 수록되어있다].
+
+시전자로부터 반경 30피트(6칸) 내에서 공격 행위가 벌어지는 방향과 공격 행위를 한 가해자의 존재를 감지할 수 있다. 또한, 반경 30피트 안에 들어온 모든 대상에게 매 턴마다 동기 감지(Sense Motive) 스킬 체크를 즉시 행동(Free Action)으로 취할 수 있다. 이 초능력이 지속되는 동안 시전자는 항시 전투 태세가 되어있어서 민첩 보너스로 받는 추가 AC를 항상 유지하고, 기습과 암습을 당하지 않는다.[* 전투 태세가 안 된 상태, 즉 기습 라운드와 전투 첫 라운드에서 턴이 돌아오기 전까지는 [http://www.d20srd.org/srd/conditionSummary.htm#flatFooted Flat-Footed]라 하여 민첩이 제공하는 보너스 AC를 잃고 암습의 대상이 된다.]
+
+
+적의 존재를 항상 눈여겨보고 주위를 감시하는 컨셉과, 기습과 암습에 면역이 되는 기능이 둘 다 맞아 떨어지는 초능력이다. 특히 전면에 서서 공격을 받아내야 하는 [[사이킥 워리어]]에게 쓸모가 많다. 사이킥 워리어는 Sense Motive에 쓰이는 능력치인 [[지혜]](WIS)가 높아서 모처럼만에 스킬 활용을 해보기도 한다.
+
+모티브는 남을 항상 의심하고 불의의 사태를 두려워하는 편집증([http://en.wikipedia.org/wiki/Paranoia Paranoia])이지만, 단순한 두려움 때문이 아니라 [http://www.youtube.com/watch?v=dZUSqpqIqsU&t=2m 진짜로 불의의 사태가 자주 벌어지는](...) 모험가의 경험에서 우러나오는 체계적인 감시 능력으로 재해석되었다. 

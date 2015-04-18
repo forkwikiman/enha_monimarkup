@@ -1,0 +1,12 @@
+||<tablewidth=100%><#FF0000><-100> '''[[스타크래프트|<span style="color:white">스타크래프트 1]] [[테란|<span style="color:white">테란]]{{{#ffffff 의 유닛, 건물}}}''' ||
+||<|2><#fe2e2e> '''[[사령부#s-2.2|커맨드 센터]]''' || attachment:scv.jpg?width=40px || || || || || ||
+|| [[건설로봇#s-2|SCV]] || || || || || || 
+||<|2><#fe2e2e> '''[[병영#s-2.1|배럭]]''' || attachment:marine.jpg?width=40px || attachment:firebat.jpg?width=40px || attachment:ghost.jpg?width=40px || attachment:medic.jpg?width=40px || || ||
+|| [[해병(스타크래프트)#s-3|마린]] || [[화염방사병(스타크래프트)#s-2|파이어뱃]] || [유령(스타크래프트)#s-2|고스트] || [의무관|메딕] || || ||
+||<|2><#fe2e2e> '''[[군수공장#s-1.1|팩토리]]''' || attachment:vulture.jpg?width=40px  || attachment:siegetank0.jpg?width=40px  || attachment:goliath.jpg?width=40px  || || || ||
+|| [[시체매|벌처]] || [[아크라이트 공성 전차|시즈 탱크]] || [[골리앗(스타크래프트)|골리앗]] || || || ||
+||<|2><#fe2e2e> '''[[우주공항#s-1|스타포트]]''' || attachment:warith.jpg?width=40px || attachment:dropship.jpg?width=40px || attachment:sciencevessel0.jpg?width=40px || attachment:battlecruiser0.jpg?width=40px || attachment:valkyrie.jpg?width=40px || ||
+|| [[망령|레이스]] || [[수송선#s-2|드랍쉽]] || [[과학선|사이언스 베슬]] || [[전투순양함#s-2|배틀크루저]] || [[발키리(스타크래프트)|발키리]] || ||
+||<|2><#fe2e2e> '''{{{#ffffff 기타 건물들}}}''' || [[보급고|서플라이 디포우]] || [[정제소|리파이너리]] || [[공학 연구소|엔지니어링 베이]] || [[미사일 포탑|미사일 터렛]] || [[사관학교(스타크래프트)|아카데미]] || [[벙커(스타크래프트)|벙커]] ||
+|| [[과학 시설|사이언스 퍼실리티]] || [[무기고|아머리]] || || || || || 
+||<|1><#fe2e2e> '''{{{#ffffff 부속 건물들}}}''' || [[콤샛 스테이션]] || [[뉴클리어 사일로]] || [[군수공장#s-1.1.1|머신 샵]] || [[컨트롤 타워]] || [[커버트 옵스]] || [[피직스 랩]] ||

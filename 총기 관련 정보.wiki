@@ -1,0 +1,181 @@
+ * 이외의 무기는 [[무기 관련 정보]] 참조.
+
+attachment:guns.jpg?width=600
+
+[[목차]]
+== 종류 ==
+=== 형태 및 용도에 따른 분류 ===
+ * [[권총]] (Pistol)
+  * [[기관권총]](Machine Pistol)
+  * [[리볼버]] (Revolver)
+  * 대구경 권총 (Large Frame Pistol/Revolver)
+  * 중절식 권총 (Break-Action Pistol)
+ * [[기관총]](Machine Gun)
+  * 경기관총 (Light MG)
+  * 중기관총 (Heavy MG)
+  * 다목적 기관총 (GPMG - General-purpose Machine gun)
+ * [[기관단총]](Sub-Machine Gun)
+  * [PDW|개인방어화기] (Personal Defense Weapon)
+ * [[소총]] (Rifle)
+  * 볼트 액션 소총 (Bolt-Action Rifle)
+  * [[반자동 소총]] (Semi-Automatic Rifle)
+  * 펌프액션 소총 (Pump-Action Rifle)
+  * 레버액션 소총 (Lever-Action Rifle)
+ * [[자동소총]] (Automatic Rifle)
+  * [[돌격소총]] (Assault Rifle)
+  * 전투소총 (Battle Rifle)
+  * [[단축형 돌격소총]]([[MAR]]) (Miniature Assault Rifle)
+  * 카빈형 돌격소총 (Carbine)
+ * [[저격 소총]] (Sniper Rifle)
+  * 볼트액션 저격소총 (Bolt-Action Sniper Rifle)
+  * 반자동 저격소총 (Semi-Automatic Sniper Rifle)
+  * 대인 저격소총 (Anti Personnel Sniper Rifle)
+  * [대물저격총|대물 저격소총] (Anti Materiel Sniper Rifle)
+  * 지정 사수용 저격소총 (Designated Marksman Rifle)
+  * [[제프 쿠퍼|스카웃 라이플]] (Scout Rifle)
+ * [[산탄총]] (Shotgun)
+  * 사냥용(중절식) 산탄총 (Break-Action Shotgun)
+   * [[더블 배럴 샷건]] (Double Barrelled Shotgun)
+  * 레버액션 산탄총 (Lever-Action Shotgun)
+  * 반자동 산탄총 (Semi-Automatic Shotgun)
+  * [[자동 산탄총]] (Full-Automatic Shotgun)
+  * 펌프액션 산탄총 (Pump-Action Shotgun)
+ * [[공기총]] (Air-Gun)
+ * 비 살상용 총 (Non-lethal weapon)
+
+=== [[장전]], 격발 방식에 따른 분류 ===
+ * [[전장식]] = [[머스킷]]
+  * [[매치락]] = [[화승총]]
+   * [[조총]]
+  * [[플린트락]] = [[수석총]]
+  * [[휠락]]
+  * [[퍼커션 캡]]
+ * [[후장식]]
+  * 브레이크 액션(중절식)
+  * [[레버액션]]
+  * [[볼트액션]]
+  * [[펌프액션]]
+  * 폴링 블록
+  * 셀프로딩(반자동, 자동소총 계열)
+   * 블로우백
+    * 심플 블로우백(상당수 SMG)
+    * 레버 딜레이 블로우백([[FAMAS]])
+    * 가스 딜레이 블로우백(HK P7, Steyr GB)
+    * 롤러 딜레이 블로우백(HK G3, MP5)
+   * 블로우 포워드(팬코 잭해머)
+   * 리코일 작동
+    * 쇼트 리코일(상당수 자동권총)
+    * 롱 리코일(브라우닝 오토5)
+   * 가스압 작동
+    * 쇼트 스트로크(HK G36
+    * 롱 스트로크(AK-47, M1 개런드)
+    * 가스 직동식(AR-15)
+    * 가스 트랩식
+ * 권총의 격발 방식
+  * [[싱글액션]]
+  * [[더블액션]]
+   * 패스트액션: 더블액션 상태에서 방아쇠의 가벼움은 유지하고 방아쇠 당기는 거리는 길게 만든 개량형
+  * 스트라이커 직동식: 글록 같은 해머가 없는 총기의 방식.
+ * 자동화기 약실 폐쇄 방식
+  * [[오픈 볼트]]
+  * [[클로즈드 볼트]]
+
+=== 총기회사 ===
+  * [[안지오]] - Anzio Ironworks Corporation
+  * [[알렉산더 암즈]]Alaxander Arms
+  * [[글록]] - Glock Ges.m.b.H.
+  * [[라인메탈]] - Rheinmetall AG
+  * [[레밍턴]] - Remington Arms
+  * [[마우저]] - Mauser
+  * [[메탈스톰]] - Metal Storm
+  * [[부시마스터]] - Bushmaster Firearms International
+  * [[말린]] - Marlin Firearms
+  * [[맥밀란]] - McMillan Brothers Rifle Company
+  * [[맥풀]] - Magpul
+  * [[바렛]] - Barrett Firearms Manufacturing
+  * [[발터]] - Walther
+  * [[베넬리]] - Benelli
+  * [[베레타]] - Beretta
+  * [[브라우닝]] - Browning Arms Company
+  * [[샤이텍]] - CheyTac
+  * [[슈타이어]] - Steyr
+  * [[스텀 루거]] Sturm, Ruger
+  * [[스프링필드]] - Springfield Armory
+  * [[아말라이트]] - ArmaLite
+  * [[윈체스터]] - Winchester
+  * [[칼라시니코프]] - Kalasinikov [* 구 이즈마쉬]
+  * [[콜트]] - Colt
+  * [[토러스]] - Taurus
+  * 툴라 병기창 - Tula Arms Plant
+  * [[트루벨로]] - Truvelo Manufacturers
+  * [[파라-오드넌스]] - Para-Ordnance
+  * [[프랑키]] - Franchi[* 이탈리아식 발음으로는 '프랑키'가 맞다.] 
+  * [[호와 공업]] - Howa industries
+  * [[AI]] - Accuracy International
+  * [[B&T]] - Brügger & Thomet
+  * Česká zbrojovka Uherský Brod - 체코 공화국 무기회사(Czech firearms manufacturer)
+  * [[FAMAE]]
+  * [[FAMARS]] -  Fabbrica Armi d’Abbiatico e Salvinelli
+  * [[FN]]- Fabrique Nationale d'Herstal
+  * [[IMBEL]]
+  * [[IMI]] - Israel Military Industries[* 현재는 민영화 되면서 회사명을 IWI(Israel Weapon Industries)로 변경하였다.]
+  * [[Hammerli]]
+  * [[KBP]] - KBP Instrument Design Bureau
+  * Henry Repeating Arms
+  * [[Hi-Point]] Firearms
+  * [[H&H]] - Holland & Holland
+  * [[H&K]] - Heckler & Koch
+  * [[KAC]] - Knight's Armament Company
+  * [[Kel-Tec]] - Kel-Tec CNC Industries Inc
+  * [[TROY]] - TROY Defence
+  * [[Sako]]
+  * [[SIG]]
+  * [[Sauer]]
+  * [[S&T 대우]]
+  * [[S&W]] - Smith & Wesson
+
+이외에도 더 많이 있으니 [http://en.wikipedia.org/wiki/List_of_modern_armament_manufacturers 이 사이트를 참고하시라]. 
+
+== 총기의 구조 ==
+ * [[개머리판]]
+ * [[기계식 조준기]] = [[가늠자]], [[가늠쇠]]
+ * [[도트 사이트]]
+ * [[망원조준경]]
+ * [[양각대]], [[삼각대]]
+ * [[소염기]] ≒ [[컴펜세이터]]
+ * [[소음기]]
+ * [[총신]]
+ * [[총열]]
+  * [[라이플]] = [[강선]]
+ * [[총열덮개]]
+  * [[수직손잡이]]
+ * [[탄창]]
+  * [[탄약링크]] - 대표적으로 MG42의 금속링크, M1919의 작물링크가 있다.
+
+== [[총알]] ==
+ * [[각종 탄약, 포탄 구경일람]]
+  * [[5.56mm]]
+  * [[7.62mm]]
+  * [[9mm]]
+  * [[12.7mm]]
+ * [[탄피]]
+ * [[총알/탄자의 종류]]
+
+ * [[화약]]
+  * [[흑색화약]]
+  * [[무연화약]]
+
+== 기타 ==
+ * [[사격]]
+ * [[러시안 룰렛]]
+  * [[캅카스 룰렛]]
+ * [[NRA]]
+
+== 관련 항목 ==
+ * [[총]]
+  * [[총기]]
+  * [[총기번호]]
+ * [[무기 관련 정보]]
+ * 관련 개념 : [[점사]]
+
+[[각주]]

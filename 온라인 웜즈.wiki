@@ -1,0 +1,75 @@
+ * 상위 항목 : [[웜즈]]
+
+attachment:worms.png
+[[목차]]
+
+= 개요 =
+[[한국]]의 [[엠게임]]에서 개발한 [[웜즈 시리즈]] 게임으로 원작사 Team 17 에서 라이센스를 받아 서비스 하였다.
+
+= 상세 =
+2001년도에 웜즈 2(웜즈 아마겟돈)를 [[온라인 게임]]화시킨 것으로 게임 진행과 무기들은 일부 무기만 빠지고 단축키가 약간 변경된거 빼면은, 사실상 [[웜즈 2]]와 똑같다. 3인 동시 로그인으로 세명이서 한 컴퓨터 앞에 앞아 동시에 플레이가 가능[* 이 경우에는 1P만 단독으로 채팅이 가능했다.]했고 또 컴퓨터 플레이어들과도 플레이가 가능했다. 단 2~3P 로그인시에는 한 컴퓨터로 서로 싸워야한다.
+
+== 서비스 국가 ==
+한국과 중국, 일본에서 서비스하였다. 이 때문에 해당 국가 언어(한국어, 중국어, 일본어)를 지원하였다. 이 음성들과 맵들은 Team 17에서 만든 2D 계열 [[웜즈 시리즈]]에서 호환이 잘 되었기 때문에 서비스가 종료된 지금도 [[한국]]의 플레이어들은 이 음성과 맵 파일을 빼내서 쓰고 있다.
+== 계급 체계 ==
+온라인웜즈의 계급 체계는 다음과 같다. 웜즈 시리즈에 걸맞게, 벌레→지렁이→뱀→용 순이며, 아래에서 위로 갈수록 상위 계급이다. 최고 계급은 신용(God is Dragon)이며 최하 계급은 애벌레이다.
+
+||<|7><#00bdff> '''{{{#red 용 계급}}}''' || attachment:goddragon.png || '''{{{#Orange 신룡}}}''' || ||<|7><#ffdbff> '''{{{#orange 뱀 계급}}}''' || attachment:goldsnake.png || '''{{{#gold 금사}}}''' ||
+|| attachment:golddragon.png || '''{{{#gold 금룡}}}''' || || attachment:whitesnake.png || '''{{{#purple 백사}}}''' ||
+|| attachment:whitedragon.png || '''{{{#purple 백룡}}}''' || || attachment:blacksnake.png || '''흑사''' ||
+|| attachment:blackdragon.png || '''흑룡''' || || attachment:redsnake.png || '''{{{#red 적사}}}''' ||
+|| attachment:reddragon.png || '''{{{#red 적룡}}}''' || || attachment:bluesnake.png || '''{{{#blue 청사}}}''' ||
+|| attachment:bluedragon.png || '''{{{#blue 청룡}}}''' || || || ||
+|| attachment:greendragon.png || '''{{{#green 녹룡}}}''' || || || ||
+||<|5><#0000ff> '''{{{#white 지렁이}}}'''[[br]]'''{{{#white 계급}}}''' || attachment:goldsn.png || '''{{{#gold 금지렁이}}}''' || ||<|7><#ffffff> '''{{{#teal 벌레}}}'''[[br]]'''{{{#teal 계급}}}''' ||<|2>attachment:gold.png ||<|2> '''{{{#gold 금벌레}}}''' ||
+|| attachment:whitesn.png || '''{{{#purple 백지렁이}}}''' ||
+|| attachment:blacksn.png || '''흑지렁이''' || ||<|2> attachment:blue.png ||<|2> '''{{{#blue 청벌레}}}''' ||
+|| attachment:redsn.png || '''{{{#red 적지렁이}}}''' ||
+|| attachment:bluesn.png || '''{{{#blue 청지렁이}}}''' || || attachment:green.png || '''{{{#green 애벌레}}}''' ||
+== 인터페이스 ==
+attachment:lgin.jpg
+로그인 화면.(중국판)
+
+attachment:login.jpg
+서버 선택 화면
+
+attachment:inset.jpg
+대기실 화면의 모습.
+
+attachment:gyip.jpg
+방만들기/초기 게임방식 선택화면. 기본전,폭탄전,슈팅전,로프전, 샤퍼전 총 5가지 게임 방식으로 플레이가 가능하다. 최대 웜 4마리까지 선택이 가능하다.(중국판)
+
+attachment:room.jpg
+플레이 대기화면. 화면은 일본판의 모습이다. 한국판은 저 웜즈 그림 대신에, 엠게임 아바타로 바뀐다. 우측에 보면 턴 타임과 게임 방식, 체력 등 게임 인터페이스 전반적인 방식, 로프 길이[* 일반 로프와 롱 로프 방식을 선택할 수 있다.] 및 배경음악 등을 선택할 수 있도록 했다.
+attachment:avata.png
+
+attachment:chat.jpg
+채팅창 화면(중국판)
+
+== 게임 플레이 화면 ==
+attachment:1st.png
+구형 게임 플레이 화면. 웜즈 아마겟돈과 흡사하다.
+
+attachment:hko.jpg
+신형 게임 플레이 화면. 업데이트 하면서 저런 방식으로 바뀌었다.
+
+== 주요 플레이 맵 ==
+attachment:old.png
+attachment:new.png
+로프전에서 국민맵으로 통한 바위섬. 윗쪽이 구버전이고 아랫쪽이 신버전이다. --여기에 쓰레기 버리지 마세요. CCTV 촬영중. 갈매기--
+
+attachment:tongtree.jpg
+통나무다.
+
+attachment:a.jpg
+늪지대
+
+attachment:pa.jpg
+파리들의 식사
+
+attachment:isup.jpg
+잊혀진 숲. ~~어떻게 해야 저런 버그가 나오지?~~  --총과같은 폭파범위가 작은 무기로 파괴하고 로프를 사용하면 웜을 점형태로 인식하기 때문애 매우 좁은 공간도 들어갈 수 있다--
+
+== 기타 ==
+
+ * 온라인 웜즈가 서비스가 종료된 이유로는 기존의 온라인 웜즈 유저들이 전부 웜즈 월드파티 아쿠아로 가버렸다. 온라인 웜즈를 플레이 하는 사람이 줄자, 엠게임에서는 서비스를 종료한 것으로 보인다.

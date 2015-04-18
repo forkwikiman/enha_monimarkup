@@ -1,0 +1,48 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/9XUOFXjG9uA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[wiki:"댄스 댄스 레볼루션/역사#s-3.2.2"댄스 댄스 레볼루션 PS2용 북미판 EXTREME]]에 처음 수록된 악곡. 작곡은 CLI-MAX S. 명의를 쓴 [[후지모리 소타]]
+
+이 곡 때문에 [[DEADLOCK]]의 작곡가 MAX MAXIMIZER를 [[후지모리 소타]]로 오해한 사람이 꽤 있었다. [wiki:"Qrispy Joybox" 하지만 사실은...]
+
+== [[댄스 댄스 레볼루션]] ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/XkiD66ASXMQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 5}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple --}}} ||
+||<|3><:> 190|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 11}}} || {{{#purple --}}} ||
+
+북미용 PS2판 DDR EXTREME의 EXTRA STAGE 전용곡으로 처음 등장했던 곡. 일본판에서는 [[wiki:"댄스 댄스 레볼루션/역사#s-3.2.2"댄스 댄스 레볼루션 CS FESTIVAL]][* 북미에서 XBOX로 발매되었던 DDR ULTRAMIX의 코나미 오리지널 곡들과 CS EXTREME과 파티 콜렉션에서 실리지 못했던 과거곡들 위주로 구성됐던 시리즈, 당시 PS2의 [[아이토이]]를 지원하는 등 여러가지 시도를 했다]에 수록되었고, 아케이드판으로는 SuperNOVA에서 이식되었다. 이전까지 DDR에서 밝은 곡 위주로 작곡하던 후지모리 소타가 하드코어 테크노 곡을 처음 내놓은 점이 포인트이다.
+
+난이도에선 중간 중간마다 멈추는 구간만 외우고 있다면 특별히 어려운 부분은 없다. FESTIVAL의 미션 모드에서는 일반 EXPERT보다 어려운 난이도의 전용 채보가 존재했으나, 아케이드에 이식될때 추가되 않았다. 대신 유저가 EDIT채보로 만들어 플레이할 수는 있다.
+
+== [[리플렉 비트 시리즈]] ==
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:>  || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 163}}} || {{{#orange 331}}} || {{{#red 561}}} ||
+|| 수록버전 ||||||||<#f29650> [[리플렉 비트 콜레트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 51 ||
+
+||||||||<#f29650> [리플렉 비트 콜레트] FINAL 전용 곡 / Autumn ||
+|| '''MAXIMIZER''' ||
+|| [["Survival Games#s-2.2"Survival Games -ZEUS Mix-]] ||
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/n3r2id-IhWQ" frameborder="0" allowfullscreen></iframe>
+}}}
+하드패턴 영상
+
+리플렉 비트 콜레트 Autumn 파이널 전용 곡으로 등장하였다. DEADLOCK이 처음 나왔을때 이 곡 때문에 MAX MAXIMIZER로 추측 된걸 생각하면 참으로 적절한(?) 이식인셈. 이 곡은 기존의 후지모리 장단 대신 8/8 박자가 갑자기 7/8로 되거나 하는 식의 변박이 특징이다. 하드패턴은 중후반부에 [[wiki:"STELLAR WIND" 탑노트관광]]이 특징이라면 특징. 그것들만 주의한다면 평범한 10난이도의 악곡이다.

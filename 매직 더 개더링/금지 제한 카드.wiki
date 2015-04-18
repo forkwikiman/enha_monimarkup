@@ -1,0 +1,646 @@
+ * 상위항목 : [[매직 더 개더링]]
+[http://www.wizards.com/magic/magazine/article.aspx?x=judge/resources/banned 공식 홈페이지 제한카드 목록]
+
+[[목차]]
+
+== 개요 ==
+[[매직 더 개더링]]의 컨스트럭티드 대회의 경우는 "[[매직 더 개더링/블록|블록 로테이션]] 제도"를 도입하고 있으며, 포맷에 따라 덱에 넣을 수 있는 카드 세트의 범위가 제한되어 있다.
+
+최초에는 단 하나의 포맷밖에 없었고 금지 및 제한도 존재하지 않았으나 [[파워나인]]을 비롯한 일부 강력한 카드들로 인해 1994년 1월 처음으로 금지 및 제한 카드가 설정되었다. 이후 초기 카드를 구입하지 못한 신규 사용자들이 늘어나면서 최근 발매된 일부 카드들만을 이용[* 예전 세트의 카드라고 해도 그 카드와 영문 이름이 동일한 카드가 새로운 세트에도 존재하는 경우는 옛날 카드라도 넣을 수 있지만, 카드 텍스트는 옛날 카드 원문이 아닌 최신 규칙을 반영하여 수정(이를 [[에라타]]라 한다.)한 [[오라클 텍스트]]를 기준으로 한다.]하는 스탠다드(Standard) 종목이 개설되었고, 기존의 종목은 빈티지(Vintage)라는 이름을 갖게 된다. 빈티지를 T1, 스탠다드를 T2라 부르는 것은 이 때 비롯된 것이고, 이후 사이에 레거시(Legacy)가 끼어들면서 T1.5, 익스텐디드(Extended)가 끼어들면서 T1.75라는 표현이 적용되었지만, Tx.x 용어는 현재는 T2 이외에는 거의 사용되지 않는다.
+
+공식대회에서 쓸 수 있는 범위를 제한하게되면 얻을 수 있는 장점은
+ * 유저들이 계속 카드를 사게 된다. ~~이 경우엔 유저 입장에선 단점~~
+ * 게임 환경의 정체를 막을 수 있다. 일반적인 TCG의 경우 금지/제한 목록이 바뀌지 않는 한 한번 고착된 환경을 바꾸는 것은 굉장히 힘들다. 하지만 주기적으로 카드풀이 바뀌는 경우 자동적으로 게임 환경이 바뀌게 되고 특정 환경이 고착되는 것을 막을 수 있다.
+ * [[파워 인플레]]가 방지된다. 제한이 없는 경우 유저들이 새 카드를 사게 하려면 이전 보다 좋은 카드들을 넣어야 되고, 이 경우 얼마 안 가 밸런스 붕괴가 일어나 게임 자체의 수명이 짧아진다.
+ * 밸런스를 맞추기가 쉽다. 카드가 수만 장 단위로 넘어간 매직의 경우 별 생각없이 넣은 카드가 예전에 발매됐던 다른 카드와 조합하면 사기적으로 강해지는 경우가 있는데 이를 예방할 수 있다. 하위 포맷으로 갈수록 제한카드가 많아지는 이유.
+ * 초보자의 유입이 쉽다. 덱 하나를 만들려고 몇년 전에 절판된 카드들까지 구해야 된다면 신규 사용자의 진입 장벽은 높아진다.
+
+[[앤티 룰]] 전용 카드이거나 밸런스에 문제를 줄 수 있는 카드의 경우 공식 대전 금지 또는 제한을 먹이기도 한다. 금지카드 목록은 매년 3월, 6월, 9월, 12월에 갱신된다. [[Unset]]에 해당하는 은색 테두리의 카드, 과거 월드 프록시 덱 및 콜렉터즈 셋과 같은 금색 테두리의 카드들과 [[Conspiracy]] 유형을 가지는 카드들은 어떠한 공식 대회에서도 사용할 수 없다.
+
+== 오프라인 대회 ==
+
+=== 스탠다드(T2) ===
+MTG 공인 컨스트럭티드 대회 중에서 가장 흔히 열리는 형태로, 스탠다드 게임에서는 가장 최근의 기본판 1세트과 확장판 2블록만을 사용해야 한다.
+
+가장 유저들이 많고 무엇보다도 다른 타입과 달리 '''현재 판매중인 부스터'''와 직결되기 때문에, 금지/제한에 굉장히 민감하며[* 부스터를 사서 뜯었는데 여기서 금지 카드가 나온다면? 이건 '''비싼 돈 주고 산 물건이 불량이라 못 쓴다'''는 것과 같은 소리다(...).], 역으로 그 때문에 최대한 금지 카드가 나오지 않도록 돈법사가 심혈을 기울이는 포맷. 만약 이 포맷에서 어떤 카드가 금지를 먹으면 돈법사는 반드시 홈페이지에 '''사과문'''을 올리며, '''개발자들은 사장실로 끌려가 조낸 개발살난다'''고 한다(...).~~[[코나미]]도 [wiki:"유희왕" 좀 본받아야 할 텐데]~~[* 다만 유희왕의 금지제한과 직접 비교하기는 힘든게 유희왕은 시즌제가 아니다. 전체 카드를 다 사용하면서 금지/제한을 정하는 방식으로 매직에서 대응되는 포멧은 레거시라고 할 수 있다. 오히려 매직의 레거시와 비교했을때 무한콤보나 한방콤보등은 매시즌마다 전부 제재를 먹이는 유희왕쪽이 합리적일 수도 있다. --그래도 금지/제한에 상업성이 짙은건 변명할수 없다-- ]
+
+2015년 후반기부터 스탠다드의 방식이 대대적으로 변경된다고 한다. 15년에 마지막 기본판인 Magic 2016이 발매되고 이후부턴 기본판이 없어지고 블록도 기존 3세트에서 2세트로만 구성되며, 그 대신 스탠다드 범위에 '''3블록'''이 들어가게 된다. 이로인해 1년에 로테이션 아웃이 두 번 발생하게 된다고. 다만 들어가는 세트의 양 자체는 기본판의 삭제, 블록의 간소화로 인해 5~8세트였던 기존에 비해 5~6 세트로 축소된다.
+
+==== 사용 가능한 세트 ====
+ * [[매직 2015 코어세트]]
+
+ * [[Theros]] (Theros, Born of the Gods, Journey into Nyx)
+ * [[Khans of Tarkir]] (Khans of Tarkir, Fate Reforged, Dragons of Tarkir) 
+==== 금지 카드 ====
+ * 없음
+
+==== 과거의 금지 카드 ====
+아래 카드들은 해당 카드의 세트가 T2에 속했던 동안 금지되었던 카드들이다. ([[앤티 룰]]로만 쓸 수 있는 카드는 리스트에서 생략)
+ * [[아티팩트 랜드]]
+  * Ancient Den
+  * [[Darksteel Citadel]]
+  * Great Furnace
+  * Seat of the Synod
+  * Tree of Tales
+  * Vault of Whispers
+ * [[Arcbound Ravager]]
+ * [[Black Vise]]
+ * [[Disciple of the Vault]]
+ * [[Dream Halls]]
+ * [[Earthcraft]]
+ * [[Fluctuator]]
+ * [[Hymn to Tourach]]
+ * [[Jace, the Mind Sculptor]]
+ * [[Land Tax]]
+ * [[Lotus Petal]]
+ * [[Memory Jar]]
+ * [[Mind Over Matter]]
+ * [[Mind Twist]]
+ * [[Recurring Nightmare]]
+ * [[Skullclamp]]
+ * [[Stoneforge Mystic]]
+ * [[Strip Mine]]
+ * [[Time Spiral]]
+ * [[Tolarian Academy]]
+ * [[Windfall]]
+ * [[Zuran Orb]]
+
+=== 모던 ===
+모던(Modern)은 카드 프레임이 바뀐 8판/Mirrodin 블록부터의 카드가 사용 가능한 포맷이다.
+
+원래는 유저들이 정한 캐주얼 포맷이었는데 인기를 얻자 2011년 공식 포맷으로 지정되었다. Tx.x 같은 별칭이 없는 것도 한참 나중에 생긴 포맷이기 때문이다. ~~T1.625라고 하기엔 너무 길기도 하고~~ 
+
+공식 포맷으로 출범한 이후 위저드에서 이 포맷을 밀어주려고 애쓰는 모습이 무던히도 드러나는데, 기존의 익스텐디드 포맷의 자리를 전부 모던으로 대체해버리고, 만들어지자마자 바로 이 포맷으로 그랑프리와 프로투어를 여러 차례 개최했으며, 2012년 세계 대회 개인전의 컨스트럭티드 부문은 아예 전부 모던으로만 진행했고, 심지어 2013년에는 '''[[wiki:"매직 더 개더링/제품"모던 마스터즈]]'''라는 모던을 위한 특별세트까지 발매되기도 했다.~~익스텐디드는 희생된거다 모던을 띄우기 위한 희생 그 희생이 말이지~~
+==== 사용 가능한 세트 ====
+ * [[8th Edition]] 이후에 출시된 모든 기본판
+
+ * [[Mirrodin]] 블록 이후에 출시된 모든 확장판 (Coldsnap 포함)
+==== 금지 카드 ====
+ * [[아티팩트 랜드]]
+  * Ancient Den
+  * Great Furnace
+  * Seat of the Synod
+  * Tree of Tales
+  * Vault of Whispers
+ * [[Ancestral Vision]]
+ * [[Birthing Pod]]
+ * [[Blazing Shoal]]
+ * [[Bloodbraid Elf]]
+ * [[Chrome Mox]]
+ * [[Cloudpost]]
+ * [[Dark Depths]]
+ * [[Deathrite Shaman]]
+ * [[Dig Through Time]]
+ * [[Dread Return]]
+ * [[Glimpse of Nature]]
+ * [[Green Sun's Zenith]]
+ * [[Hypergenesis]]
+ * [[Jace, the Mind Sculptor]]
+ * [[Mental Misstep]]
+ * [[Ponder]]
+ * [[Preordain]]
+ * [[Punishing Fire]]
+ * [[Rite of Flame]]
+ * [[Seething Song]]
+ * [[Second Sunrise]]
+ * [[Sensei's Divining Top]]
+ * [[Skullclamp]]
+ * [[Stoneforge Mystic]]
+ * [[Sword of the Meek]]
+ * [[Treasure Cruise]]
+ * [[Umezawa's Jitte]]
+
+=== 레거시(T1.5) ===
+사용 범위에 제한이 없는 타입이다. 기본판/확장판 뿐만 아니라 커맨더 덱과 같이 특정 이벤트성 상품에만 나온 카드들도 쓸 수 있는 타입. 다만 대회에서 [[앤티 룰]]로 게임을 할 수는 없으므로 '앤티를 걸고 하는 게임이 아니면 게임 시작 전에 덱에서 제거한다'와 같은 텍스트가 있는 카드는 금지된다. 그 외 여러 금지 카드들이 지정되어 있다.
+==== 금지 카드 ====
+ * [[앤티 룰]]에 의한 금지
+  * [[Amulet of Quoz]]
+  * Bronze Tablet
+  * [[Contract from Below]]
+  * Darkpact
+  * Demonic Attorney
+  * [[Jeweled Bird]]
+  * [[Rebirth]]
+  * Tempest Efreet
+  * Timmerian Fiends
+ * 더 이상 지원하지 않는 매커니즘
+  * [[Chaos Orb]]
+  * [[Falling Star]]
+  * [[Shahrazad]]
+
+ * [[파워 나인]]
+  * Ancestral Recall
+  * Black Lotus
+  * Mox Emerald
+  * Mox Jet
+  * Mox Pearl
+  * Mox Ruby
+  * Mox Sapphire
+  * Time Walk
+  * Timetwister
+ * [[Tutor]]
+  * Demonic Tutor
+  * Mystical Tutor
+  * Vampiric Tutor
+ * [[Balance]]
+ * [[Bazaar of Baghdad]]
+ * [[Black Vise]] 
+ * [[Channel]]
+ * [[Demonic Consultation]]
+ * [[Earthcraft]]  
+ * [[Fastbond]] 
+ * [[Flash]]
+ * [[Frantic Search]]
+ * [[Goblin Recruiter]] 
+ * [[Gush]] 
+ * [[Hermit Druid]] 
+ * [[Imperial Seal]] 
+ * [[Library of Alexandria]] 
+ * [[Mana Crypt]] 
+ * [[Mana Drain]]
+ * [[Mana Vault]] 
+ * [[Memory Jar]] 
+ * [[Mental Misstep]]
+ * [[Mind Twist]] 
+ * [[Mind's Desire]]
+ * [[Mishra's Workshop]] 
+ * [[Necropotence]]
+ * [[Oath of Druids]]
+ * [[Skullclamp]]
+ * [[Sol Ring]] 
+ * [[Strip Mine]]
+ * [[Survival of the Fittest]]
+ * [[Time Vault]]
+ * [[Tinker]]
+ * [[Tolarian Academy]] 
+ * [[Treasure Cruise]]
+ * [[Wheel of Fortune]]
+ * [[Windfall]]
+ * [["Necropotence" Yawgmoth`s Bargain]]
+ * [[Yawgmoth's Will]]
+
+=== 빈티지(T1) ===
+사용 범위는 레거시와 같으나 [[앤티 룰]] 같은 특별한 경우가 아니면 금지 카드가 없고 모든 카드가 덱에 최소한 한장은 들어갈 수 있는 포맷이다.
+
+한동안 매직 온라인에서는 플레이할 수 없는 포맷이었고 클래식(Classic)이라는 포맷이 현실의 빈티지를 대신했으나, (금지/제한 리스트가 빈티지와는 다르다) 2014년 6월 매직 온라인에서의 Vintage Masters 출시와 함께 매직 온라인에서도 플레이가 가능해졌다.
+
+==== 금지 카드 ====
+ * [[앤티 룰]]에 의한 금지
+  * [[Amulet of Quoz]]
+  * Bronze Tablet
+  * [[Contract from Below]]
+  * Darkpact
+  * Demonic Attorney
+  * [[Jeweled Bird]]
+  * [[Rebirth]]
+  * Tempest Efreet
+  * Timmerian Fiends
+ * 더 이상 지원하지 않는 매커니즘
+  * [[Chaos Orb]]
+  * [[Falling Star]]
+  * [[Shahrazad]]
+==== 제한 카드 (덱에 한 장만 넣을 수 있다) ====
+ * [[파워 나인]]
+  * Ancestral Recall
+  * Black Lotus
+  * Mox Emerald
+  * Mox Jet
+  * Mox Pearl
+  * Mox Ruby
+  * Mox Sapphire
+  * Time Walk
+  * Timetwister
+ * [[Tutor]]
+  * Demonic Tutor
+  * Mystical Tutor
+  * Vampiric Tutor
+ * [[Balance]]
+ * [[Brainstorm]] 
+ * [[Channel]]
+ * [[Demonic Consultation]]
+ * [[Fastbond]] 
+ * [[Flash]]
+ * [[Gifts Ungiven]] 
+ * [[Imperial Seal]]
+ * [[Library of Alexandria]] 
+ * [[Lion's Eye Diamond]] 
+ * [[Lotus Petal]] 
+ * [[Mana Crypt]] 
+ * [[Mana Vault]] 
+ * [[Memory Jar]]
+ * [[Merchant Scroll]]
+ * [[Mind's Desire]]
+ * [[Necropotence]]
+ * [[Ponder]] 
+ * [[Sol Ring]] 
+ * [[Strip Mine]] 
+ * [[Thirst for Knowledge]]
+ * [[Time Vault]]
+ * [[Tinker]] 
+ * [[Tolarian Academy]]
+ * [[Treasure Cruise]]
+ * [[Trinisphere]] 
+ * [[Wheel of Fortune]]
+ * [[Windfall]] 
+ * [[Yawgmoth`s Bargain]]
+ * [[Yawgmoth's Will]]
+
+=== 커맨더(EDH) ===
+[[wiki:"EDH#s-3"항목 참조]]
+
+=== 블록 컨스트럭티드 ===
+블록 컨스트럭티드는 한 [[wiki:"매직 더 개더링/블록"블록]]의 카드들만으로 덱을 구성하는 방식이다. 보통은 가장 최근의 블록으로 진행하지만, 이전 블록으로 대회를 여는 것도 가능하다. 
+ * 명시되지 않은 블록에서는 금지카드가 없다.
+==== [[Ice Age]] ====
+ * [[Amulet of Quoz]]
+ * [[Thawing Glaciers]]
+ * [[Zuran Orb]]
+==== [[미라지 블록|Mirage]] ====
+ * [[Squandered Resources]]
+==== [[템페스트 블록|Tempest]] ====
+ * [[Cursed Scroll]]
+==== [[우르자 블록|Urza]] ====
+ * [[Gaea's Cradle]]
+ * [[Memory Jar]]
+ * [[Serra's Sanctum]] 
+ * [[시간의 소용돌이|Time Spiral]]
+ * [[Tolarian Academy]]
+ * [[Voltaic Key]]
+ * [[Windfall]]
+==== [[Masques]] ====
+ * [[Lin Sivvi, Defiant Hero]]
+ * [[Rishadan Port]]
+==== [[Mirrodin]] ====
+ * [[아티팩트 랜드]]
+  * Ancient Den
+  * [[Darksteel Citadel]]
+  * Great Furnace
+  * Seat of the Synod
+  * Tree of Tales
+  * Vault of Whispers
+ * [[Aether Vial]]
+ * [[Arcbound Ravager]]
+ * [[Disciple of the Vault]]
+ * [[Skullclamp]]
+==== [[Innistrad]] ====
+ * [[Intangible Virtue]](무형의 덕)
+ * [[wiki:"자정의 출몰" Lingering Souls]](잔존하는 영혼들)
+토큰덱이 지나치게 강세인 관계로 밴. 이니스트라드 블록엔 [[Ratchet Bomb]] 같은 토큰 견제 카드가 없기 때문에 취해진 조치
+
+=== ~~익스텐디드(T1.75)~~ ===
+T1.75(Extended)에서는 T2에 더해서 약간의 기본판과 확장판을 더 사용할 수 있었다.
+
+원래는 발매된지 7년치 블록까지 사용할 수 있었으나 밸런스 조절, 초보자 유입의 용이 등을 이유로 2010년 7월 부로 사용 가능한 블록을 4개까지로 확 줄여버렸다. 그런데 이 조치가 덱의 다양성을 줄여버리는 역효과가 나는 바람에 인기가 뚝 떨어져버렸다. 
+
+모던이 출범한 이후로 공식 대회가 열리지 않는 등 [[WotC]]에서 일종의 버린 자식 취급하고 있다가, 결국 2013년 8월 부로 '''폐지'''됐다.
+
+==== 과거의 금지 카드 ====
+아래 카드들은 해당 카드의 세트가 익스텐디드에 속했던 동안 금지되었던 카드들이다. ([[앤티 룰]]로만 쓸 수 있는 카드는 리스트에서 생략)
+ * [[Aether Vial]] 
+ * [[Dark Ritual]] 
+ * [[Demonic Consultation]]
+ * [[Disciple of the Vault]]
+ * [[Dream Halls]]
+ * [[Earthcraft]]
+ * [[Entomb]]
+ * [[Frantic Search]]
+ * [[Goblin Lackey]]
+ * [[Hypergenesis]]
+ * [[Hypnotic Specter]]
+ * [[Jace, the Mind Sculptor]] 
+ * [[Lotus Petal]]
+ * [[Mana Vault]]
+ * [[Memory Jar]]
+ * [[Mental Misstep]] 
+ * [[Metalworker]]
+ * [[Mind Over Matter]]
+ * [[Necropotence]]
+ * [[Ponder]]
+ * [[Preordain]]
+ * [[Replenish]] 
+ * [[Sensei's Divining Top]]
+ * [[Skullclamp]]
+ * [[Stoneforge Mystic]]
+ * [[Survival of the Fittest]]
+ * [[Sword of the Meek]]
+ * [[Time Spiral]]
+ * [[Tolarian Academy]]
+ * [[Windfall]]
+ * [[Yawgmoth's Bargain]]
+ * [[Yawgmoth's Will]]
+
+== 매직 온라인 전용 포맷 ==
+매직 온라인은 오프라인 MTG 공식에는 없는 전용 룰로 플레이할 수 있다. 아주 옛날 카드 중에서 매직 온라인에서는 나오지 않은 카드들도 있기 때문에 오프라인 룰과는 금지/제한이 약간 다를 수 있다.
+
+=== 100 Card Singleton ===
+이른바 [[하이랜더]] 포맷. 매직 온라인에 나온 모든 범위 내에 있는 카드를 쓸 수 있다. 덱은 정확히 100장이어야 하며, 기본 대지를 제외하고는 모든 카드를 덱에 한장씩만 쓸 수 있다.
+
+==== 금지 카드 ====
+ * [[Balance]]
+ * [[Crucible of Worlds]]
+ * [[Demonic Tutor]]
+ * [[Fastbond]]
+ * [[Flash]]
+ * [[Gifts Ungiven]]
+ * [[Imperial Seal]]
+ * [[Intuition]]
+ * [[Library of Alexandria]]
+ * [[Life from the Loam]]
+ * [[Lion's Eye Diamond]]
+ * [[Mana Crypt]]
+ * [[Mana Vault]]
+ * [[Mind Twist]]
+ * [[Sensei's Divining Top]]
+ * [[Skullclamp]]
+ * [[Sol Ring]]
+ * [[Stoneforge Mystic]]
+ * [[Strip Mine]]
+ * [[Survival of the Fittest]]
+ * [[Time Vault]]
+ * [[Tinker]]
+ * [[Tolarian Academy]]
+ * [[Umezawa's Jitte]]
+ * [[Vampiric Tutor]]
+ * [[Wheel of Fortune]]
+
+=== Commander ===
+위의 [[EDH]]와 같다.
+
+=== Core Set Constructed ===
+역대 기본판에 나온 카드들로만 덱을 구성하는 포맷.
+
+매직 온라인은 기본판이 7판부터 있었으므로 7판부터 가장 최신의 기본판인 Magic 2014의 카드를 쓸 수 있으며, 거기에 추가로 매직 온라인 전용 세트인 Masters Edition 1~4가 사용 범위에 포함된다.
+
+현재 금지/제한 카드는 없다.
+
+=== Freeform ===
+그냥 사용범위 제한 없이 들어오는 방. 심지어 4장 제한도 없으며, 유일한 제한이 덱 카드장수가 최소 40장이라는 것. 물론 이 타입으로 공식대회가 열릴 일은 없으며 그냥 친선전 전용 타입.
+
+=== Kaleidoscope ===
+대지를 제외한 모든 카드가 '''다색'''카드여야 하는 포맷. 물론 하이브리드 카드와 스플릿 카드는 포함된다. 레거시에서 쓸 수 있는 카드들이 사용범위에 포함된다.
+
+==== 금지 카드 ====
+ * [[Anathemancer]]
+ * [[Glittering Wish]]
+
+=== Momir Basic ===
+'[[Momir Vig, Simic Visionary|Momir Vig]]'라는 아바타 카드와 60장의 '''기본 대지'''로만 덱을 구성하는 포맷.
+
+Momir Vig의 성능인즉
+
+'X, 카드 한 장을 버린다: 전환마나비용 X의 랜덤한 생물 카드 한 장의 복사본 토큰을 전장에 넣는다. 이 능력은 당신이 집중마법을 발동할 수 있을 때에 턴 당 한 번씩만 활성화할 수 있다.
+
+즉 '''완전 [[복불복]]'''으로 플레이하는 포맷. 하지만 보통 발비에 따른 성능이 정해져 있기 때문에 나름 전략도 존재한다.
+
+=== Pauper ===
+역대 커먼으로만 플레이하는 포맷. 이후에 희귀도가 달라져서 재판되었더라도 매직 온라인에서 커먼으로 한 번이라도 나온 적이 있었던 카드는 모두 사용범위에 포함된다. 
+ * [[퍼덕이는 날틀]]은 실카드로는 Antiquities에서 맨 처음 나왔을때 커먼이었으나, 매직 온라인에서는 Antiquities가 나오지 않았으며 계속 기본판에서 언커먼으로만 나왔으므로 사용 범위에 포함되지 않았다가 Magic 2015에서 커먼으로 나오면서 사용 범위에 포함되었다.
+ * [[Hymn to Tourach]]은 실카드로는 Fallen Empires에서 커먼이었으나 매직 온라인에서는 Masters Edition 2에서 언커먼으로 나온게 끝이므로 사용 범위가 아니다.
+ * [[원한]]은 Magic 2013에서 언커먼으로 나왔으나, Dual Decks: Garruk vs. Liliana에서 커먼으로(매직 온라인에서도!) 나왔으므로 사용 범위에 포함된다.
+==== 금지 카드 ====
+ * [[Cloudpost]]
+ * [[Cranial Plating]]
+ * [[Empty the Warrens]]
+ * [[Frantic Search]]
+ * [[Grapeshot]]
+ * [[Invigorate]]
+ * [[Temporal Fissure]]
+
+=== Planeswalker ===
+매직 온라인 전용 세트인 골드보더 카드로만 플레이할 수 있는 포맷. 해당 카드가 등장하는 세트들은 아래 세트들이다.
+ * Planeswalker Deck Pack
+ * Planeswalker Deck Pack II
+ * Planeswalker Deck Pack III
+ * Planeswalker Deck Pack IV
+ * Planeswalker 2012 Deck Pack
+ * Planeswalker 2013 Deck Pack
+ * Planeswalker 2013 Expansion
+ * Planeswalker 2014 Deck Pack
+
+==== 제한 카드 (덱에 한 장만 넣을 수 있다) ====
+ * [[Anowon, the Ruin Sage]]
+ * [[Archon of Redemption]]
+ * [[Ascendant Evincar]]
+ * [[Baneslayer Angel]]
+ * [[Blazing Specter]]
+ * [[Bribery]]
+ * [[Brion Stoutarm]]
+ * [[Broodmate Dragon]]
+ * [[Cabal Patriarch]]
+ * [[Captain of the Watch]]
+ * [[Celestial Force]]
+ * [[Celestial Mantle]]
+ * [[Chain Reaction]]
+ * [[Cho-Manno, Revolutionary]]
+ * [[Conqueror's Pledge]]
+ * [[Corrupt]]
+ * [[Damnation]]
+ * [[Deathbringer Liege]]
+ * [[Defense of the Heart]]
+ * [[Defiler of Souls]]
+ * [[Demonic Tutor]]
+ * [[Drana, Kalastria Bloodchief]]
+ * [[Dread]]
+ * [[Earthquake]]
+ * [[Edric, Spymaster of Trest]]
+ * [[Emrakul, the Aeons Torn]]
+ * [[Evacuation]]
+ * [[Final Revels]]
+ * [[Flame Wave]]
+ * [[Flamebreak]]
+ * [[Geist of Saint Traft]]
+ * [[Goblin Piledriver]]
+ * [[Godhead of Awe]]
+ * [[Grand Arbiter Augustin IV]]
+ * [[Grave Titan]]
+ * [[Great Sable Stag]]
+ * [[Hanna, Ship's Navigator]]
+ * [[Howl of the Night Pack]]
+ * [[Hurricane]]
+ * [[Immaculate Magistrate]]
+ * [[Imperious Perfect]]
+ * [[Kaervek the Merciless]]
+ * [[Kamahl, Pit Fighter]]
+ * [[Karrthus, Tyrant of Jund]]
+ * [[Kozilek, Butcher of Truth]]
+ * [[Lorthos, the Tidemaker]]
+ * [[Loxodon Warhammer]]
+ * [[Lyzolda, the Blood Witch]]
+ * [[Malakir Bloodwitch]]
+ * [[Malfegor]]
+ * [[Martial Coup]]
+ * [[Massacre Wurm]]
+ * [[Mind Control]]
+ * [[Mind Shatter]]
+ * [[Mirri the Cursed]]
+ * [[Mirri, Cat Warrior]]
+ * [[Molimo, Maro-Sorcerer]]
+ * [[Multani, Maro-Sorcerer]]
+ * [[Nath of the Gilt-Leaf]]
+ * [[Nekrataal]]
+ * [[Nemata, Grove Guardian]]
+ * [[Nicol Bolas]]
+ * [[Niv-Mizzet, the Firemind]]
+ * [[Ob Nixilis, the Fallen]]
+ * [[Paladin en-Vec]]
+ * [[Platinum Angel]]
+ * [[Persuasion]]
+ * [[Phage the Untouchable]]
+ * [[Planar Cleansing]]
+ * [[Platinum Angel]]
+ * [[Pyroclasm]]
+ * [[Rakdos the Defiler]]
+ * [[Rancor]]
+ * [[Razormane Masticore]]
+ * [[Retether]]
+ * [[Reya Dawnbringer]]
+ * [[Rhys the Exiled]]
+ * [[Rorix Bladewing]]
+ * [[Royal Assassin]]
+ * [[Serra Ascendant]]
+ * [[Shadowmage Infiltrator]]
+ * [[Silent Arbiter]]
+ * [[Skarrgan Firebird]]
+ * [[Soul Warden]]
+ * [[Stonebrow, Krosan Hero]]
+ * [[Stoneforge Mystic]]
+ * [[Sword of War and Peace]]
+ * [[Tinker]]
+ * [[Three Dreams]]
+ * [[Thragtusk]]
+ * [[Thrun, the Last Troll]]
+ * [[Tolsimir Wolfblood]]
+ * [[Ulamog, the Infinite Gyre]]
+ * [[Vampire Nighthawk]]
+ * [[Vampire Nocturnus]]
+ * [[Vampiric Dragon]]
+ * [[Verdeloth the Ancient]]
+ * [[Vigor]]
+ * [[Voice of All]]
+ * [[Wheel of Fortune]]
+ * [[White Sun's Zenith]] 
+ * [[Wrath of God]]
+ * [[Xathrid Gorgon]]
+=== Standard Singleton ===
+60장의 카드를 기본 대지를 제외하고 덱에 한 장씩만 넣을 수 있는 [[하이랜더]] 포맷. 스탠다드가 붙은 것에서 예상할 수 있겠지만 카드 사용범위는 T2와 같다.
+
+현재 금지/제한 카드는 없다.
+
+=== Tribal Wars Legacy ===
+덱의 1/3은 특정한 하나의 생물 유형을 가진(종족 카드들도 포함) 카드로만 만들어야 하는 타입. 사용 범위는 레거시와 같다.
+
+==== 금지 카드 ====
+ * [[Arboria]]
+ * [[Balance]]
+ * [[Channel]]
+ * [[Circle of Solace]]
+ * [[Demonic Consultation]]
+ * [[Demonic Tutor]]
+ * [[Engineered Plague]]
+ * [[Extinction]]
+ * [[Fastbond]]
+ * [[Flash]]
+ * [[Imperial Seal]]
+ * [[Library of Alexandria]]
+ * [[Mana Crypt]]
+ * [[Mana Vault]]
+ * [[Mishra's Workshop]]
+ * [[Moat]]
+ * [[Necropotence]]
+ * [[Peer Pressure]]
+ * [[Skullclamp]]
+ * [[Sol Ring]]
+ * [[Stasis]]
+ * [[Strip Mine]]
+ * [[Survival of the Fittest]]
+ * [[The Abyss]]
+ * [[Time Vault]]
+ * [[Tinker]]
+ * [[Tolarian Academy]]
+ * [[Tsabo's Decree]]
+ * [[Umezawa's Jitte]]
+ * [[Vampiric Tutor]]
+ * [[Wheel of Fortune]]
+ * [[Yawgmoth's Bargain]]
+ * [[Yawgmoth's Will]]
+
+=== Tribal Wars Standard ===
+덱의 1/3은 특정한 하나의 생물 유형을 가진(종족 카드들도 포함) 카드로만 만들어야 하는 타입. 사용 범위는 T2와 같다.
+
+현재 금지/제한 카드는 없다.
+
+=== ~~Prismatic~~ ===
+덱을 최소 250장의 카드로 구성해야 하며, 최소 20장의 각 색의 카드들을 넣어야 하는 포맷. 사용범위는 클래식과 같다. 2014년 2월에 없어졌다.
+
+==== 금지 카드 ====
+* [[Balance]]
+* [[Battle of Wits]]
+* [[Bribery]]
+* [[Bringer of the Black Dawn]]
+* [[Buried Alive]]
+* [[Burning Wish]]
+* [[Congregation at Dawn]]
+* [[Crucible of Worlds]]
+* [[Cunning Wish]]
+* [[Demonic Consultation]]
+* [[Demonic Tutor]]
+* [[Detritivore]]
+* [[Diabolic Intent]]
+* [[Earthcraft]]
+* [[Eladamri's Call]]
+* [[Enlightened Tutor]]
+* [[Entomb]]
+* [[Eternal Witness]]
+* [[Fabricate]]
+* [[Flash]]
+* [[Gifts Ungiven]]
+* [[Glittering Wish]]
+* [[Grim Tutor]]
+* [[Hermit Druid]]
+* [[Idyllic Tutor]]
+* [[Imperial Seal]]
+* [[Insidious Dreams]]
+* [[Intuition]]
+* [[Life from the Loam]]
+* [[Living Wish]]
+* [[Mana Crypt]]
+* [[Merchant Scroll]]
+* [[Mystical Teachings]]
+* [[Mystical Tutor]]
+* [[Personal Tutor]]
+* [[Skullclamp]]
+* [[Steelshaper's Gift]]
+* [[Sterling Grove]]
+* [[Strip Mine]]
+* [[Summoner's Pact]]
+* [[Sundering Titan]]
+* [[Supply // Demand]]
+* [[Sylvan Scrying]]
+* [[Tinker]]
+* [[Tolaria West]]
+* [[Umezawa's Jitte]]
+* [[Vampiric Tutor]]
+
+=== ~~Classic~~ ===
+매직 온라인에서 모든 범위의 카드를 쓸 수 있는 포맷이었다. 오프라인의 빈티지랑 비슷한 타입이지만, 이 포맷에 있었던 당시에는 매직 온라인에서 옛날 카드가 다 나오지 않았기 때문에(특히 [[파워 나인]]이 없는게 크다) 제한카드는 오프라인의 빈티지보다 적다. 매직 온라인에서 2014년 Vintage Masters 출시 이후 오프라인과 같은 빈티지 포맷을 플레이할 수 있게 되면서 없어졌다.
+
+==== 제한 카드 (덱에 한 장만 넣을 수 있다) ==== 
+ * [[Balance]]
+ * [[Channel]]
+ * [[Demonic Consultation]]
+ * [[Demonic Tutor]]
+ * [[Fastbond]]
+ * [[Flash]]
+ * [[Imperial Seal]]
+ * [[Mana Crypt]]
+ * [[Mana Vault]]
+ * [[Necropotence]]
+ * [[Sol Ring]]
+ * [[Strip Mine]]
+ * [[Time Vault]]
+ * [[Tinker]]
+ * [[Tolarian Academy]]
+ * [[Trinisphere]]
+ * [[Vampiric Tutor]]
+ * [[Wheel of Fortune]]
+ * [[Yawgmoth's Will]]

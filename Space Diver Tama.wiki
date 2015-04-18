@@ -1,0 +1,44 @@
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡자는 [[黒魔]]. 이 곡이 공개되고 얼마 지나지 않아서 (일본쪽 한정으로) 충격적인 사실이 알려졌는데, 자세한 것은 [[黒魔]] 항목을 참고.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/t1J5it2B6RM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '하이텐션 four-on-the-floor 인스트로 오리지널 곡'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0062_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0062_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0062_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 08}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0416}}} || {{{#orange 0594}}} || {{{#ff009f 0952}}} ||
+|| 일러스트 담당 || {{{#purple tam}}} || {{{#orange tam}}} || {{{#ff009f tam}}} ||
+|| 이펙터 || {{{#purple karasu}}} || {{{#orange karasu}}} || {{{#ff009f karasu}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} ||
+|| [[BPM]] |||||| 170 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 06(2013.7.3 ~ 2013.9.5, 2013.10.31 ~ 2013.12.6, 2014.4.4 ~ 2014.5.1)
+
+||<#eeeeee>
+수상, 감사합니다. 정말로 기쁩니다!
+이 'Space Diver Tama'에서 의식하고 있는 점은, 듣고 있으면서 질리지 않는 전개를 만드는 것, 자신다움을 내세우는 것, (버튼을) 누르며 즐거운 부분을 만드는 것입니다.
+
+확실히 이 세가지가 이루어지면 좋겠다, 하고 생각합니다!
+
+- 당선자 코멘트-
+||
+
+외계인 소녀는 [[사운드 볼텍스/캐릭터#TAMA짱|TAMA짱]], 고양이 같은 생물은 [[사운드 볼텍스/캐릭터#TAMA네코|TAMA네코]]라고 한다. 여담으로 자켓 오른쪽 밑부분 타마네코는 '''왼쪽 귀가 없다(...).'''
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/qXh0RlFf5pQ" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+같은 날에 실린 [[Nyan Cat]]과 마찬가지로, 13레벨이라고 하기에는 클리어도 점수내기에도 어려운 편에 속한다. 노브보다는 BT 버튼과 FX 버튼 처리를 어떻게 하느냐가 중요하다.

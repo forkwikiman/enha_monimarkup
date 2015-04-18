@@ -1,0 +1,25 @@
+[[비트매니아 IIDX]] 9th Style의 수록곡.
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/TVFeIZDJZDc" frameborder="0" allowfullscreen></iframe>
+}}}
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 200 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 6}}} || {{{#blue 503}}} || {{{#orange 9}}} || {{{#orange 963}}} || {{{#red 10}}} || {{{#red 1137}}} || {{{#blue 6}}} || {{{#blue 634}}} || {{{#orange 9}}} || {{{#orange 924}}} || {{{#red 11}}} || {{{#red 1132}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 9th ~
+ * 가정용판 수록 : 9th, 10th
+[[rottel-da-sun]]을 잇는 [[호소에 신지]]의 개그곡(?). 이번에는 장르표기가 [[개버]]로, 200이라는 빠른 BPM에 걸맞춰 온갖 기묘한 샘플링이 합세하여 압박적인 곡을 만들어냈다.
+
+노트 배치는 동시치기가 주가 되는 형태로, BPM이 빨라 보기보다는 간격이 좁다. 그 외에 세세한 곳에서 미스를 내기가 쉽다. [[후살]]급은 아니지만 후반에 난이도가 약간 올라가는 형태이고, 특별히 발광부라고 할 부분은 없어서 전작보다는 클리어가 쉬운 편이다.
+
+[[BGA]]는 역시 곡에 맞춘 정신나간 연출이 특징적으로, 강가에서 [[낚시]]를 하며 고기를 굽는 장면이 주로 나온다. 출연진은 IIDX라는 문구가 씌여 있는 [[김]]으로 얼굴을 가려진 스탭들이다. 낚아올린 것은 정상적인 어류도 있지만 [[쇠고기]]처럼 보이는 고기, [[사람]](?!) 그리고 '''[[트란]]'''. 여기서 트란은 석쇠 위에서 구워지는 팔자에도 없는 [[관광]]을 당한다. 후반부에 增 - multiply - 라는 글자와 함께 같은 인물이 복제인간마냥 여럿으로 늘어나는 장면도 익살적이다.
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/7B1uOcNPk_o" frameborder="0" allowfullscreen></iframe>
+}}}
+BGA 자체가 [wiki:"약빨다" 약을 빨고] 만든 탓에, 이런 패러디 영상도 나왔다. 물론, 이 영상에서는 한자가 잘못되었다.
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dZpXOgLip-g?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+이것은 'The Amazing World of Gumball'에서의 장면을 짜깁기한 것, 해당 애니메이션부터 제정신이 아니라 싱크로가 높다.

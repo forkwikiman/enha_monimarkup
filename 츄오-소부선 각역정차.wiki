@@ -1,0 +1,146 @@
+{{{+1 中央・総武緩 (各駅停車) / Chūō-Sōbu Line (Local Service) }}}
+
+ * [[일본 철도 정보/노선 관련 정보]]
+ * 본 문서는 '''소부 완행선''' 혹은 '''주오-소부 완행선'''으로도 들어올 수 있습니다.
+ 
+attachment:/2012062601.jpg?width=580
+--알록달록-- --마이구미--
+츄오-소부선의 직결 기점인 오차노미즈(御茶ノ水)역. 빨간 열차는 [[도쿄 메트로]] [[마루노우치선]], 노란 열차는 츄오-소부선 각역정차, 오렌지색 열차는 [[츄오 쾌속선]]의 열차. 
+하천에 걸쳐진 교량을 넘으면 [[아키하바라]]가 나온다.
+
+http://upload.wikimedia.org/wikipedia/commons/c/ca/ChuoSobuLineStations.png?width=600px
+노선도
+
+[[목차]]
+
+== 개요 ==
+[[JR 히가시니혼]]의 직결 운행 계통이다. [[츄오 본선]]과 [[소부 본선]]을 경유하여 운행한다. 오차노미즈(御茶ノ水)역을 기점으로 직결하며, [[치바]]에서 [[신주쿠]] 방면으로의 주요 루트가 된다. [[아키하바라]]역을 기준으로 서쪽으로는 [[신주쿠]]와[[나카노]]를 동쪽로는 후나바시와 [[치바]]를 잇는 노선 전 구간에서 각 역에 정차하며, 쾌속 열차를 보조해주는 역할.
+
+개업 당시에는 [[소부 본선]]의 본선이 오차노미즈(御茶ノ水) 방향이었지만, 1970년대에 들어서 킨시쵸(錦糸町) - 도쿄(東京) 간 지하 터널이 관통되며 공식적인 기점이 [[도쿄역]]이 되었다. [[소부선]] 쾌속 열차는 도쿄 - 치바를 주로 운행하고, 각역정차 열차는 치바 - 오차노미즈 - 미타카 구간을 운행한다.
+
+덧붙여 오차노미즈 역 구간을 영상으로 보면 이렇다(1986년).
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/CfqROdsCDac" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[2014년]] [[12월]] 공덕 ~ 용산 직결로 [[대한민국]] [[수도권 전철 경의중앙선]]이 이 노선과 비슷해졌다. 수도(서울, 도쿄)를 동서로 관통하면서 [[수도권]] [[위성도시]]들로 연결되고 서로 다른 노선의 열차가 직결하면서 새로운 운행계통을 만드는 등... 다만 [[경의중앙선]]은 절대적인 길이가 워낙 길다는 차이점이 있다. 주오소부선이 60.2km인데 경의중앙선이 118.7km(문산-용문 기준)에 달하니... 비슷하게 맞춘다면 일산 - 덕소 정도 된다.
+
+== 노선의 명칭 ==
+노선 이름이 다소 복잡하다보니 다양한 이름으로 불린다. 츄오-소부 완행선(中央・総武緩行線)으로 표기되기도 하고, 각역정차(各駅停車)라는 이름을 쓰기도 한다. 또한, 그냥 "소부선" 으로 부르기도 한다. 연선 주민들에게는 그저 "주황색은 [[츄오선]], 노랑색은 소부선, 파란색은 [wiki:"소부 본선" 소부선 쾌속]" 정도로 인식되는 듯. 
+
+[[츄오 본선]] 구간에선 [[츄오선 쾌속]]의 존재감이 너무 커, [[츄오 본선]]의 역임에도 불구하고 각역정차 구간을 전부 소부선이라 표기하기도 한다.--어차피 [[미타카역]]도 율령국 구분 상 무사시 국에 있으니까 '소부선'이라는 이름에 어긋나진 않다-- 가장 큰 예로, 나카노(中野)역에서는 쾌속을 [[츄오선]], 각역정차 열차를 소부선이라 안내하고 있다. 실질적인 운행 방식 상 소부선의 각역정차 열차가 미타카역까지 직통운행하고 있는 형태이기 때문에[* 결정적으로 첫막차 시간대에는 각역정차 열차가 소부선 내에서만 움직인다] 이렇게 봐도 크게 무리는 없지만, 정식 명칭은 츄오-소부선 각역정차 (혹은 완행)이다.
+
+== 운행 계통 ==
+attachment:/2012062604.gif?width=560
+
+상행 방향으로는 미타카(三鷹)행과 나카노(中野)행이 절반씩 운행되며, 하행 방향으로는 치바(千葉)행과 츠다누마(津田沼)행이 절반씩 운행되고 있다. 주력 구간은 나카노(中野) - 츠다누마(津田沼)인 셈.
+
+출퇴근 시간에는 [[도쿄 메트로]] [wiki:"도자이선(도쿄 메트로)" 토자이선]과 직결 운행을 한다. 미타카(三鷹)역을 출발해 나카노(中野)역에서 토자이선으로 들어가 다시 니시후나바시(西船橋)에서 [[소부선]]에 들어가 츠다누마(津田沼)까지 운행하는 식.
+
+또한, 첫/막차 시간대에는 오차노미즈 - 치바 구간만 운행한다. 나머지 구간은 [[츄오선 쾌속]] 열차가 타카오(高尾)역까지 각역정차로 운행한다.
+
+나카노(中野)역이 [[JR 히가시니혼]]의 위탁역이기 때문에 사실상 모든 토자이선의 열차는 츄오-소부선과 관계가 있다고 봐도 무리가 없다. 개찰구도 같은 것을 쓴다.
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/3EjYkBl43UI" frameborder="0" allowfullscreen></iframe>
+}}}
+JR로의 민영화 직후인 1988년 당시의 영상
+ 
+== 노선 정보 ==
+ * 노선 : 전 구간 [[JR 히가시니혼]] 관할
+  * 치바(千葉) - 미타카(三鷹) 구간 60.2km
+ * 궤간 : 1,067mm
+ * 역 수 : 39개
+ * 복선 구간 : 전 구간
+ * 전화 구간 : 전 구간 직류 1,500V
+ * 최고 속도 : 95km/h
+
+== 차량 ==
+=== 츄오·소부선 각역정차 ===
+ * [[209계 전동차]] 500번대
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JR%E6%9D%B1%E6%97%A5%E6%9C%AC209%E7%B3%BB500%E7%95%AA%E5%8F%B0C508%E7%B7%A8%E6%88%90.JPG/1280px-JR%E6%9D%B1%E6%97%A5%E6%9C%AC209%E7%B3%BB500%E7%95%AA%E5%8F%B0C508%E7%B7%A8%E6%88%90.JPG?width=500px
+
+ * [[E231계 전동차]] 900번대, 0번대
+ 노란 도색이 되어있다. 색깔만 보고 각역정차인지 쾌속인지, [[츄오선]]인지 [[소부선]]인지 구별할 수 있다.
+ 2014년 현재까지도 6비차[* 차량 도어가 6개, 좌우측에 모두 있으므로 총 12개]가 남아있다. 혼잡률 완화를 위해 도입했는데 전혀 효과가 없어 퇴출 중. [[야마노테선]]은 [[홈도어]] 설치를 위해 아주 빠른 속도로 전멸당했지만 츄오-소부선은 아직 현역.
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/JR%E6%9D%B1%E6%97%A5%E6%9C%ACE231%E7%B3%BB0%E7%95%AA%E5%8F%B0B1%E7%B7%A8%E6%88%90.JPG/1280px-JR%E6%9D%B1%E6%97%A5%E6%9C%ACE231%E7%B3%BB0%E7%95%AA%E5%8F%B0B1%E7%B7%A8%E6%88%90.JPG?width=500px
+
+ * E231계 전동차 500번대
+ JR 동일본이 [E235계 전동차]를 개발하기 위해 야마노테선에서 차출한 1편성 가운데 무동력객차 1량을 뺀 나머지 10량을 재도색해 재배치시킨 편성이다.
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JR_East_E231_Chuo-Sobu_Line_A520_20141213.jpg/1280px-JR_East_E231_Chuo-Sobu_Line_A520_20141213.jpg?width=500px
+
+=== [[도쿄 메트로]] [도자이선(도쿄 메트로)|도자이선] 직결 ===
+ * 자사 차량
+  * [[E231계 전동차]] 800번대
+  지하철 직결 사양에 맞춰 ~~다이어트에 성공해~~ 죠반선 각역정차로 운용되는 209계 1000번대와 같은 외양을 하고 있다. 도자이선의 라인컬러에 맞춘 물색과 청색의 띠를 두르고 있다.
+https://upload.wikimedia.org/wikipedia/commons/9/97/JREAST-E231-800.jpg?width=500px
+
+ * 도쿄 메트로 차량
+  * [도쿄 지하철 05계 전동차|05계]
+  * [도쿄 지하철 07계 전동차|07계]
+  * [도쿄메트로 15000계 전동차|15000계]
+
+== 이야기 ==
+=== 수도권 JR 노선 혼잡률 '''1위''' ===
+[[츄오선]] 구간과 [[소부선]] 구간이 극과 극이다! 츄오선 구간은 도쿄 JR 노선 중에서 아침 혼잡도가 가장 낮지만(80~90%. 물론 이것도 사실 좋은 상태는 아니다...), 소부선 구간은 혼잡도가 가장 높다(약 '''215%''').
+츄오선 구간(나카노-오차노미즈)의 경우 쾌속 열차가 사실상 츄오-소부선 구간에서도 각 역에 정차하고 있고, 쾌속 열차가 [[신주쿠역]]도, [[도쿄역]]도 경유하는데다가 통과역도 많은 편이기 때문에 무조건 쾌속이 빨라 완행에 사람이 잘 몰리지 않는다.
+하지만 소부선의 경우는 조금 상황이 다른데, 소부선 쾌속 열차는 [[신주쿠]]역을 경유하지 않는데다가[* 이쪽은 요코스카선 직통이기 때문에 킨시쵸역 근처에서 방향을 튼다.] 야마노테선 환승도 그다지 좋은 상황이 아니기 때문. 츄오선 도쿄역도 그리 위치가 좋다곤 할 수 없지만 소부선 도쿄역은 '''지하 방공호'''이다. 오죽했으면 플랫폼 번호도 아예 별개로 소부 지하 1~4이다! 그리고 [[우에노역]] 방향으로 환승하는 경우엔 꽤 돌아가는 꼴이 되기 때문에 [[아키하바라]]에서 환승하는 것이 낫다. 
+
+소부선 쾌속 열차가 15량인데 반해, 츄오-소부선 열차는 10량인 것도 혼잡도 상승에 기여하고 있다. 덕분에 쾌속선과 완행선이 분기되는 킨시쵸(錦糸町) - 료고쿠(両国) 구간은 전국 JR 노선 중 혼잡률이 '''1위'''이다.
+
+=== 니시후나바시(西船橋)역의 쾌속 정차 ===
+니시후나바시역은 [[무사시노선]], [[케이요선]], [[토요고속철도]], [[도쿄 메트로]] [wiki:"도자이선(도쿄 메트로)" 토자이선], [[케이세이]]의 환승역으로써 대단히 수요가 많은 역이지만 [[소부선]] 쾌속 열차는 이 역에 정차하고 있지 않다. 인근의 후나바시(船橋)역에 이미 쾌속이 정차하고 있기 때문이기도 하고, 니시후나바시까지 정차를 하게 되면 소부선 쾌속 열차가 혼잡으로 폭발해버릴 가능성이 있기 때문. [[경인선]] 급행이 [[서울 지하철 7호선]]과의 환승역인 [[온수역]]에 서지 않는 것과 같은 이유.
+
+그리고 또 하나의 이유는 '''밥그릇 싸움'''. JR 히가시니혼이 오래 전부터 사철과의 연락 정기권에 굉장히 뜨뜻미지근한 반응을 보이고 있는데 쉽게 말해 '''우리 걸로 탈 수 있는데 왜 딴 애들 꺼 타염? 그딴 깝 ㄴㄴ'''
+
+== 역 목록 ==
+2012년 10월 18일 모든 역의 문서가 작성되었다.
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vL9-A1sESw0" frameborder="0" allowfullscreen></iframe>
+}}}
+이치카와⇒긴시초⇒오차노미즈⇒스이도바시 구간 영상
+
+||<tablealign=center><width=20px><#ffd400> '''정식노선명''' ||<#ffd400> '''운영[[br]]㎞''' ||<#ffd400> '''역명''' ||<#ffd400> '''승강장''' ||<#ffd400> '''환승노선''' ||
+||<|21><#000080> '''{{{#ffffff 소부본선}}}''' || 0 || [wiki:"치바역" 치바][[br]]千葉 || 섬식 ||[[JR]] [[소부 쾌속선]][[br]][[케이세이 전철]] [[치바선]][[br]][[치바 도시 모노레일]] 1호선,2호선 ||
+|| 1.4 || [wiki:"니시치바역" 니시치바][[br]]西千葉 || 섬식 || ||
+|| 3.3 || [wiki:"이나게역" 이나게][[br]]稲毛 || 섬식 ||JR [[소부 쾌속선]] ||
+|| 6.0 || [wiki:"신케미가와역" 신케미가와][[br]]新検見川 || 섬식 || ||
+|| 7.6 || [wiki:"마쿠하리역" 마쿠하리][[br]]幕張 || 2면3선 ||[[케이세이 전철]] [[치바선]] ||
+|| 9.6 || [wiki:"마쿠하리혼고역" 마쿠하리혼고][[br]]幕張本郷 || 섬식 ||[[케이세이 전철]] [[치바선]] ||
+|| 12.5 || [wiki:"츠다누마역" 츠다누마][* 도자이선 소속 차량은 이 역에서 시종착한다.][[br]]津田沼 || 2면4선 ||JR [[소부 쾌속선]][[br]][[신케이세이 전철]] 신케이세이선 (신츠다누마역) ||
+|| 14.2 || [wiki:"히가시후나바시역" 히가시후나바시][[br]]東船橋 || 섬식 || ||
+|| 16.0 || [wiki:"후나바시역" 후나바시][[br]]船橋 || 섬식 ||JR [[소부 쾌속선]][[br]][[도부 철도]] [[노다선]][[br]][[케이세이 본선]] ||
+|| 18.6 || [wiki:"니시후나바시역" 니시후나바시][[br]]西船橋 || 2면3선 ||JR [[무사시노선]],[[케이요선]][[br]][[도쿄 메트로]] [wiki:"도자이선(도쿄 메트로)" 토자이선](T-23)[[br]][[케이세이 본선]][[br]][[토요 고속철도]] ||
+|| 20.2 || [wiki:"시모사나카야마역" 시모사나카야마][[br]]下総中山 || 섬식 || ||
+|| 21.8 || [wiki:"모토야와타역" 모토야와타][[br]]本八幡 || 섬식 ||[[도영지하철]] [wiki:"신주쿠선(도쿄 도 교통국)"신주쿠선](S-21)[[br]][[케이세이 본선]] ||
+|| 23.8 || [wiki:"이치카와역" 이치카와][[br]]市川 || 섬식 ||JR [[소부 쾌속선]][[br]][[케이세이 본선]](이치카와마마역) ||
+|| 26.4 || [wiki:"코이와역" 코이와][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 小岩 || 섬식 || ||
+|| 29.2 || [wiki:"신코이와역" 신코이와][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 新小岩 || 섬식 ||JR [[소부 쾌속선]] ||
+|| 31.0 || [wiki:"히라이역(도쿄)" 히라이][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 平井 || 섬식 || ||
+|| 32.9 || [wiki:"카메이도역" 카메이도][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 亀戸 || 섬식 ||[[도부 철도]] [wiki:"도부 이세사키선#s-2.1.1"카메이도선] ||
+|| 34.4 || [wiki:"킨시쵸역" 킨시쵸][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 錦糸町 || 섬식 ||JR [[소부 쾌속선]][[br]][[도쿄 메트로]] [[한조몬선]](Z-13) ||
+|| 35.9 || [wiki:"료고쿠역" 료고쿠][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 両国 || 섬식 ||[[도영지하철]] [[오에도선]](E-12) ||
+|| 36.7 || [wiki:"아사쿠사바시역" 아사쿠사바시][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 浅草橋 || 상대식 ||[[도영지하철]] [[아사쿠사선]](A-16) ||
+|| 37.8 || [wiki:"아키하바라역" 아키하바라][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 秋葉原 || 상대식 ||JR [[야마노테선]],[[게이힌토호쿠선]][[br]][[도쿄 메트로]] [[히비야선]](H-15)[[br]] [wiki:"신주쿠선(도쿄 도 교통국)"신주쿠선][[br]][[츠쿠바 익스프레스]] ||
+||<#ffffff> '''노선변경역''' || 38.7 || [wiki:"오차노미즈역" 오차노미즈][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 御茶ノ水 || 상대식 ||JR [[츄오 쾌속선]][[br]][[도쿄 메트로]] [[마루노우치선]](M-20) ||
+||<|6><#f15a22> '''츄오본선''' || 39.5 || [wiki:"스이도바시역" 스이도바시][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 水道橋 || 상대식 ||[[도영지하철]] [[미타선]](I-11) ||
+|| 40.4 || [wiki:"이이다바시역" 이이다바시][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 飯田橋 || 섬식 ||[[도쿄 메트로]] [wiki:"도자이선(도쿄 메트로)" 토자이선](T-06),[wiki:"유라쿠초선(도쿄 메트로)" 유라쿠초선](Y-13),[wiki:"난보쿠선(도쿄 메트로)" 난보쿠선](N-10)[[br]][[도영지하철]] [[오에도선]](E-06) ||
+|| 41.9 || [wiki:"이치가야역" 이치가야][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 市ヶ谷 || 섬식 ||[[도쿄 메트로]] [wiki:"유라쿠초선(도쿄 메트로)" 유라쿠초선](Y-14),[wiki:"난보쿠선(도쿄 메트로)" 난보쿠선](N-09)[[br]][[도영지하철]] [wiki:"신주쿠선(도쿄 도 교통국)"신주쿠선](S-04) ||
+|| 42.7 || [wiki:"요츠야역" 요츠야][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 四ツ谷 || 섬식 ||JR [[츄오 쾌속선]][[br]][[도쿄 메트로]] [[마루노우치선]](M-12),[wiki:"난보쿠선(도쿄 메트로)" 난보쿠선](N-08) ||
+|| 44.0 || [wiki:"시나노마치역" 시나노마치][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 信濃町 || 섬식 || ||
+|| 44.7 || [wiki:"센다가야역" 센다가야][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 千駄ヶ谷 || 2면2선[* 1번선(미타카 방면) 옆에 있는 승강장은 특수한 경우에만 개방하는 임시승강장이므로, 실제로는 섬식 승강장으로 운용한다.] ||[[도영지하철]] [[오에도선]](E-25) ||
+||<|2><#9acd32> '''야마노테선''' || 45.7 || [wiki:"요요기역" 요요기][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 代々木 || 상대식 ||JR [[야마노테선]][[br]][[도영지하철]] [[오에도선]](E-26) ||
+|| 46.4 || [wiki:"신주쿠역" 신주쿠][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/JR_area_YAMA.svg/200px-JR_area_YAMA.svg.png?width=12px 新宿 || 2면2선[* 원래는 2면4선의 쌍섬식 승강장이지만, 안쪽 선로를 [야마노테선]에서 쓰기 때문에 이 노선은 바깥쪽 선로를 사용한다.] ||JR [[야마노테선]],[[츄오 쾌속선]],[[사이쿄선]],[[쇼난신주쿠라인]][[br]][[도쿄 메트로]] [[마루노우치선]](M-08)[[br]][[도영지하철]] [wiki:"신주쿠선(도쿄 도 교통국)"신주쿠선](S-01),[[오에도선]](E-01)[[br]][[오다큐]] [[오다와라선]][[br]][[케이오 전철]] [[케이오선]], 케이오 신선 ||
+||<|9><#f15a22> '''츄오본선''' || 47.8 || [wiki:"오쿠보역(도쿄)" 오쿠보역][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 大久保 || 섬식 || ||
+|| 48.9 || [wiki:"히가시나카노역" 히가시나카노][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 東中野 || 섬식 ||[[도영지하철]] [[오에도선]](E-31) ||
+|| 50.8 || [wiki:"나카노역(도쿄)" 나카노][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 中野 || 섬식[* 1번선과 2번선이 있는 곳에 섬식 승강장, 5번선 있는 곳에는 단선 승강장의 형태로 운용하고 있다. 1번선은 미타카 방면, 2번선은 치바 방면(당역출발), 5번선은 치바 방면(미타카 출발) 승강장이다.]  ||JR [[츄오 쾌속선]][[br]][[도쿄 메트로]] [wiki:"도자이선(도쿄 메트로)" 토자이선](T-01) ||
+|| 52.2 || [wiki:"코엔지역" 코엔지][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 高円寺 || 섬식 ||JR [[츄오 쾌속선]][*주말운휴 주말에는 [츄오 쾌속선] 열차가 정차하지 않고 통과하므로 이용시 주의를 요한다.] ||
+|| 53.4 || [wiki:"아사가야역" 아사가야][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 阿佐ヶ谷 || 섬식 ||JR [[츄오 쾌속선]][*주말운휴] ||
+|| 54.8 || [wiki:"오기쿠보역" 오기쿠보][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 荻窪 || 섬식 ||JR [[츄오 쾌속선]][[br]]도쿄메트로 마루노우치선(M-01) ||
+|| 56.7 || [wiki:"니시오기쿠보역" 니시오기쿠보][[br]]http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/JR_area_KU.svg/200px-JR_area_KU.svg.png?width=12px 西荻窪 || 섬식 ||JR [[츄오 쾌속선]][*주말운휴] ||
+|| 58.6 || [wiki:"키치죠지역" 키치조지][[br]]吉祥寺 || 섬식 ||JR [[츄오 쾌속선]][[br]][[케이오 전철]] [[이노카시라선]] ||
+|| 60.2 || [wiki:"미타카역" 미타카][[br]]三鷹 || 섬식 ||JR [[츄오 쾌속선]] ||
+
+== 기타 ==
+ * [[아키하바라]]-[[신주쿠역]] 구간은 [wiki:"특정도구시내구간#s-3.4" 도쿄야마노테선내(東京山手線内) 구간],  코이와(小岩) - 니시오기쿠보(西荻窪)역까지는 [wiki:"특정도구시내구간#s-3.3" 도쿄 도구내(都区内) 구간], 전 구간이 도쿄[[전차특정구간]](東京電車特定区間), 수도권 [[대도시근교구간]](大都市近郊区間)에 속해있다.

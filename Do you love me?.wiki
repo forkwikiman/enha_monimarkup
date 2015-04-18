@@ -1,0 +1,97 @@
+[[목차]]
+== 개요 ==
+[[비트매니아 시리즈]]의 수록곡. [[dj nagureo]]가 작곡했으며 명의는 본명인 'reo nagumo'이다. [[beatmania 2ndMIX]]에서 등장했다.
+
+초기 비트매니아를 대표하는 곡으로 장르는 발라드/재즈 소울.
+
+한국에서도 이 시기 오락실에서 비트매니아가 인기를 끌어서인지, 당시 한국 순정만화에도 등장한다.[http://gall.dcinside.com/board/view/?id=rhythmgame&no=2717566&page= 자료] [[이빈]] 작가가 그린 [[ONE(만화)|ONE]]이라는 만화에서 남주인공 음파가 여주인공 영주에게 고백을 할 때 오락실에서 이 노래를 골라 연주한다.
+
+[[EZ2DJ]] 시리즈에도 알게 모르게 영향을 주었는데, 어나더인 SOFT LANDING MIX는 [[EZ2DJ BERA]]의 라디오채널 RMX2D에 영향을 주었다([[Catch The Flow]] 참고). 또한 [[EZ2DJ The 1st TRACKS]]의 곡 [[I Do Love You]]는 이 곡을 의식해서 지은 곡명이 아니냐는 추측이 당시에 일었다.
+
+풀버전은 조금 2ndMIX OST에 radio edit이라는 부제가 있고, 4thMIX에 약간 짧은 버젼이 있다.
+== beatmania ==
+|||||||||||||||||||||||||| [[beatmania]], [[beatmania III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 100[* SOFT LANDING MIX는 200-100-200] |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 2}}} || {{{#orange 144}}} || {{{#red 2}}} || {{{#red 155}}} || {{{#green 8}}} || {{{#green 392}}} || {{{#orange 2}}} || {{{#orange 236}}} || {{{#red 2}}} || {{{#red 252}}} || {{{#green 8}}} || {{{#green 416}}} ||
+
+ * [[beatmania|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 2nd, 3rd, comp, comp2, CORE, THE FINAL, III~III THE FINAL
+ * 가정용판 수록 : 2nd, BEST HITS
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/oGXPDLnn-DE" frameborder="0" allowfullscreen></iframe>
+}}}
+2ndMIX에서의 플레이. 프리존 시스템 때문에 총 노트수가 조금 적게 나온다.
+
+중반부의 멜로디 부분(35321 35321 35321) 채보가 유명하다. 이 멜로디 부분은 2nd mix의 히든 커맨드로도 사용되었다. 또한 당시에는 게임 내 모든 곡을 통틀어 봐도 판정이 짠 곡이었다.
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/GhKM-juQ1qY" frameborder="0" allowfullscreen></iframe>
+}}}
+어나더는 [[DJ SIMON]]이 어레인지한 SOFT LANDING MIX. BPM을 두 배로 뻥튀기 하는 바람에 매우 엄한 판정과 난이도의 패턴이 되었다.
+
+=== FINAL EDIT ===
+|||||||||||||||||||||||||| [[beatmania]], [[beatmania III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 100 |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 2}}} || {{{#orange 165}}} || {{{#red 2}}} || {{{#red 192}}} || {{{#green 3}}} || {{{#green 285}}} || {{{#orange 2}}} || {{{#orange 185}}} || {{{#red 2}}} || {{{#red 193}}} || {{{#green 3}}} || {{{#green 287}}} ||
+
+ * [[beatmania|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : CORE, III CORE~III THE FINAL
+ * 가정용판 수록 : 6th+CORE
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/8sm-JMni1Uc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+2ndMIX의 곡들을 리믹스한 CORE REMIX에서는 니시와키 타츠야(西脇辰弥)가 편곡한 버전이 수록되었다. 니시와키 타츠야는 같은 작품에서 [[20,november]]도 편곡했으며, 이외의 BEMANI 시리즈 참가작으로는 ClubMIX의 [[TOKIO]](2번 항목), 키보드매니아 3rdMIX, 팝픈뮤직 미키튠즈 등이 있다. 또한 대중음악계에서도 활동하여 [[TOKIO]](1번 항목), 시이나 헤키루, 사사키 노조미, LIV MOON 등에게 곡을 제공하였으며 LIV MOON의 곡 WILD CREATURES는 기타프릭스/드럼매니아 XG에 판권곡으로 수록되었다.
+
+== beatmania IIDX ==
+|| 장르명 |||||| BALLAD[[br]]발라드 || [[BPM]] |||| 100 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue -}}} || {{{#blue -}}} || {{{#orange 2}}} || {{{#orange 155}}} || {{{#red -}}} || {{{#red -}}} ||
+|| [[더블 플레이]] || {{{#blue -}}} || {{{#blue -}}} || {{{#orange 2}}} || {{{#orange 252}}} || {{{#red -}}} || {{{#red -}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 1st~2nd
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/bLzPAZveEnI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[beatmania IIDX 1st style]]에 이식되었다. 다른 5키 곡들과 마찬가지로 5키 채보 그대로 이식되었으며, 별도의 어나더(7키 채보)는 추가되지 않았다. 3rd에서 5키 곡들이 삭제됨에 따라 삭제되었다.
+== 댄스 댄스 레볼루션 ==
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange 2}}} || {{{#red 4}}} || {{{#green 7}}} || {{{#purple -}}} ||
+||<|3><:> 100|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 2}}} || {{{#red 6}}} || {{{#green -}}} || {{{#purple -}}} ||
+
+IIDX와 DDR의 연동 플레이인 Club Ver.를 통해 DDR에도 이식되었으나 정확히 Club Ver.에만 수록되고 끝났다. 따라서 위의 난이도는 당시의 9단계 난이도에 따른 것.
+
+== 가사 ==
+||I'm a 2nd time 4 da faking funk sound. 
+Many kids went too far for my underground,
+lady, mama, shouldn't on the cliff,  (Yo, yo, yo, yo)
+every man is fitting fun and good.
+I can do pennies from my home into my pocket.
+It won't take to the moon like a rocket.
+You got it. Not fun talk.
+Jam miss the pot. This is how we do.
+
+I can't wait around no more
+I wanna know what do you think about me? (Yo, yo, yo, yo)
+so I came to you tonight
+I wanna know do you love me baby?
+
+(Let me tell you, what I want you to do)
+(Tell me how this is going to be)
+
+I'm ready for us to be more than just friends
+Ah...||
+
+참고로 초반부의 랩은 [[u gotta groove]] (Triple Mazin Dub) (힙합 스트리트 믹스)의 후반부 랩과 같다.

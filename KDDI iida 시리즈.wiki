@@ -1,0 +1,123 @@
+ * 상위 항목 : [[KDDI]]
+
+[[목차]]
+attachment:infobar.jpg
+== 개요 ==
+일본의 이동통신사인 [[KDDI]]의 휴대폰 라인업.
+
+2009년부터 선 보이는 [[KDDI]]의 자체 휴대폰 라인업이며 [[OEM]] 방식으로 제조된다. 브랜드 명인 iida는 'innovation'(혁신), 'imagination'(상상력), 'design'(디자인), 'art'(예술)에서 첫 알파벳을 따와서 만들었다고 한다.
+
+2011년 6월 이전에는 일반 [[피쳐폰]]이었으나 이후에는 [[안드로이드(OS)|안드로이드]] [[스마트폰]]으로 변경되었다. 즉, 피쳐폰 라인업이 스마트폰 라인업으로 전환된 케이스다.
+
+본 항목에서는 스마트폰 라인업만 다룬다.
+
+== 소속 기기 ==
+ * INFOBAR A01
+ * INFOBAR C01
+ * INFOBAR A02
+ * INFOBAR A03
+
+[[각주]]
+
+=== KDDI INFOBAR A01 ===
+||<tablealign="center">  attachment:/01NISHIKIGOI.jpg || attachment:/01kurk.jpg || attachment:/01chocomint.jpg || attachment:/01chocopink.jpg || attachment:/01hacca.jpg ||
+|| 레드 (NISHIKIGOI) || 블랙(Kuro) || 초코민트 || 초코핑크 || 화이트(hacca) ||
+
+==== 개요 ====
+[[KDDI]]가 2011년 6월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]]. 제조사는 [[샤프전자]], 모델명은 SHX11.
+
+==== 사양 ====
+||제조사||[[샤프전자]] ||
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655T [[SoC]]. [[Qualcomm Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 2 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.7인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 [[샤프]] New 모바일 ASV VA TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0+HS, 펠리카 ||
+||[[카메라]]||후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1020 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.3 (Gingerbread)[[br]][[KDDI]] iida UI ||
+||규격||63 x 118 x 11.8 mm, 113 g ||
+||기타||[[원세그]] TV 지원 ||
+
+==== 상세 ====
+iida 시리즈 최초의 [[스마트폰]]이며 [[샤프전자]]가 담당한 최초의 iida 시리즈이다.
+
+태생부터 [[OEM]]으로 개발되었기 때문에 사용자 인터페이스 역시 [[KDDI]]의 자체 UI인 '''iida UI'''를 사용한다. ~~[[팔레트 UI]]?~~
+
+[[각주]]
+
+=== KDDI INFOBAR C01 ===
+||<tablealign="center"> attachment:C01blac.jpg || attachment:C01red.jpg || attachment:C01whi.jpg ||
+|| 블랙 || 레드 || 화이트 ||
+==== 개요 ====
+[[KDDI]]가 2012년 2월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]]. 제조사는 [[샤프전자]], 모델명은 SHX12.
+
+==== 사양 ====
+||제조사||[[샤프전자]] ||
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655T [[SoC]]. [[Qualcomm Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.2인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0+HS, 펠리카 ||
+||[[카메라]]||후면 800만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1020 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.3 (Gingerbread)[[br]][[KDDI]] iida UI ||
+||규격||52 x 130 x 12.3 mm, 106 g ||
+||기타||[[원세그]] TV 지원 ||
+
+==== 상세 ====
+전작과 마찬가지로 [[샤프전자]]에서 제작했다. A02가 아닌 C01으로 펫 네임이 정해진 이유는 C가 '''C'''lassic의 의미를 가지고 있기 때문이라고 한다.
+
+이는 제품 디자인에서도 나타나는데, 기본적인 바 형 스마트폰이 맞긴하나, 하단에 키패드가 장착되어 있는 [[프리피아 2nd]]와 비슷한 디자인이다.
+
+[[각주]]
+
+=== KDDI INFOBAR A02 ===
+||<tablealign="center"> attachment:/02red.jpg || attachment:/02blue.jpg || attachment:/02whi.jpg ||
+|| 레드 || 블루 || 화이트 || 
+
+==== 개요 ====
+[[KDDI]]가 2013년 2월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]]. 제조사는 [[HTC]], 모델명은 HTX21.
+
+==== 사양 ====
+||제조사||[[HTC]] ||
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Pro APQ8064 [[SoC]]. [[Qualcomm Krait]] MP4 1.5 GHz [[CPU]], 퀄컴 Adreno 320 400 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 16 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.7인치 [wiki:"해상도/일람" HD](1280 x 720) RGB 서브픽셀 방식의 [[샤프]] IGZO TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, ~~[wiki:"4G" HSPA+] 42Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE]~~[* 기기는 지원하나, 통신사가 지원하지 않는다.], [wiki:"CDMA2000" CDMA & EV-DO Rev. A][[br]][wiki:"와이파이" Wi-Fi] 802.11a/b/g/n, [[블루투스]] 4.0, [[NFC]]/펠리카 ||
+||[[카메라]]||전면 210만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 2100 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean)[[br]][[KDDI]] iida UI ||
+||규격||70 x 138 x 9.7 mm, 147 g ||
+||기타||[[원세그]] TV 지원, IP57 등급 방수 방진 지원 ||
+
+==== 상세 ====
+iida 시리즈의 12번째 모델이자 [[스마트폰]]으로는 세번째 모델이다. 제조사는 [[샤프전자]]에서 [[HTC]]로 변경되었다.
+
+다만, 제품 자체가 [[KDDI]]의 기기이기 때문에 [[HTC]]의 사용자 인터페이스인 [[hTC Sense]]가 아닌 iida UI가 들어간다. 또한 iida 시리즈에 속한 [[스마트폰]] 최초로 방수 방진기능이 추가되었다.
+
+[[각주]]
+=== KDDI INFOBAR A03 ===
+||<tablealign="center">  attachment:/03red.jpg || attachment:/03blue.jpg || attachment:/03broe.jpg || attachment:/03pink.jpg ||
+|| 레드 || 블루 || 브라운 || 핑크 ||
+||<-4> [http://www.au.kddi.com/english/mobile/product/smartphone/a03/spec/ KDDI INFOBAR A03 공식 사이트] ||
+
+==== 개요 ====
+[[KDDI]]가 2015년 2월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]]. 제조사는 교세라, 모델명은 KYV33
+
+==== 사양 ====
+||제조사||교세라 ||
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] 801 MSM8974AC [[SoC]]. [[Qualcomm Krait]] 400 MP4 2.5 GHz [[CPU]], 퀄컴 Adreno 330 578 MHz [[GPU]]  ||
+||[[메모리]]||2 GB LPDDR2 SDRAM, 16 GB 내장 메모리, micro SDXC (최대 128 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" FHD](1280 x 1920) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.4, [[WiBro Evolution]], [[TD-LTE]], [wiki:"4G" HSPA+] 42Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11a/b/g/n/ac, [[블루투스]] 4.0, [[NFC]]/펠리카 ||
+||[[카메라]]||전면 190만 화소, 후면 1300만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 2020 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.4 (Kitkat)[[br]][[KDDI]] iida UI ||
+||규격||68 x 131 x 8.9 mm, 130 g ||
+||기타||[[VoLTE]] 지원, [[원세그]] TV 및 풀세그 TV 지원, IP58 등급 방수 방진 지원 ||
+
+==== 상세 ====
+iida 시리즈의 13번째 모델이자 [[스마트폰]]으로는 네번째 모델이다. 제조사는 [[HTC]]에서 교세라로 변경되었으며, [[CDMA]]를 지원하지 않고 [[VoLTE]]를 통해 음성 통화를 처리한다.
+
+자세한 내용은 [[추가바람]]
+
+[[각주]]

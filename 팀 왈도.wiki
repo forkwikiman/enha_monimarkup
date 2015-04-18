@@ -1,0 +1,120 @@
+ * 상위 항목: [[한글패치팀]]
+
+attachment:WaldoLogoBig.jpg?width=250 [* 오리지널 로고 고화질 PSD 원본 http://gall.dcinside.com/board/view/?id=game1&no=1728769][* http://www.mediafire.com/download/9j1t81qe7g5iefb/]
+
+>'''[왈도체|우리는 한다 번역을]'''
+
+[[목차]]
+
+== 개요 ==
+[[디시인사이드]]의 [[한패팀]]. 2012년 8월 15일에 결성된 [[고전게임 갤러리]]쪽과 [[FTL]]의 한글화 개시와 함께 신설된 [[게임 갤러리]] 쪽이 존재한다. 팀 왈도의 이름은 애초에 공공재로 취급되기 때문에 겜갤과 고갤팀 이외에도 많은 팀들이나 개인이 팀 왈도의 이름을 빌려 작업을 해왔다.
+
+고전게임 갤러리가 사실상 잡갤화된 이후, 게임 갤러리를 주축으로 활동 중이다.
+
+== 유래 ==
+2011년 11월 1일 한 고갤러가 한글화팀을 만들자는 제안과 함께 맨 위에 있는 로고를 올렸는데, 이걸 보고 빵 터진 고갤러 및 일부 네티즌들이 게임 및 기타 미디어 매체를 [[왈도체]]로 합성한 뒤 팀 왈도의 이름으로 공개했던 것이 팀 이름의 유래이다.
+
+심지어 [http://www.gamemeca.com/news/news_view.html?seq=33&ymd=20111116&page=1&point_ck=&search_ym=&sort_type=&search_text=&send=&mission_num=&mission_seq= 모 언론사 게임 관련 기자]까지 낚인 적이 있을 정도. 기사 내용 봐서는 알고 쓴 거 같지만 넘어가자.[* 그런데 기사 댓글을 보면 ~~난독~~왈도식의 자막이 적힌 스크린샷을 보고 얼마나 베네스다가 한국을 무시하기에 한글화를 대충하나며(...) 엄한 데 키배를 벌이고 있다.] 가히 [[도시전설]]이었다.
+
+== ~~진짜~~ 팀 왈도 결성 ==
+[[불리]] 한글화 프로젝트가 진행되면서 유머소재였던 팀 왈도가 현실이 되었다. 단 개그 소재로 쓰일 때처럼 의도적으로 발번역을 하지는 않는다. 2012년 8월 15일 카페를 개설하고 한글화를 진행하던 [[고전게임 갤러리]] 한글화팀이 비공식적으로 본인들의 별명을 팀 왈도로 정한 것.[http://cafe.naver.com/gogayteamwaldobully/ 주소] 고갤 한글화팀답게 작품 선택을 보면 최신 게임들을 한글화하지는 않으며, 나온지 몇년 지난 게임들 내지 고전게임들을 주로 다룬다. [[불리]]는 이미 한글화가 완료되어 한글패치 1.10버전을 배포중이며, 다음 기획으로 [[마피아(PC게임)]] 한글화 작업을 잡으면서 팀 왈도가 본격적으로 궤도에 올랐다.
+
+=== 특징 1 : 실체가 없다 ===
+"팀 왈도는 실체가 없다" 는 것이 모토. 고정적인 멤버가 모여있는 것이 아니라, 게임 한글 프로젝트를 시작하면 팀 왈도라는 이름을 가져다 쓰는 경우가 많다는 것. 그리하여 각 한글패치마다 제작을 이끈사람, 참여한 사람이 매우 다르다. 팀 왈도라는 이름 자체를 오픈소스로 지향하고 있기 때문에 가능한 점. 따라서 [디시인사이드]의 겜갤과 고갤 등에 나온 가장 규모가 큰 번역들에 '팀 왈도'라는 이름을 붙인다고 이해하는 것이 편하며, 이처럼 주체가 딱히 없기 때문에 개그 요소로서 팀 왈도의 이름과 로고를 사용해도 누구도 뭐라고 하지 않는다. 거기에 요즘은 딱히 디시인사이드 뿐만 아니라 스팀비비, [[루리웹]], [[플레이웨어즈]]의 재야의 번역 고수들도 참가하여 팀왈도 번역을 도와 쏜살같이 했다가 흩어진다고 한다. 대표적인 예가 [[FTL]] 한글패치.
+
+애초에 고정된 멤버가 있는 것도 아니기 때문에 누구든 상관없이 필요에 따라 모였다가 개인 사정이 있으면 얼마든지 빠질 수 있으며, 따라서 계획이 엎어지기도 쉽다. 이런 점을 방지하기 위해 누구라도 접속해서 번역을 해둘 수 있도록 데이터베이스를 공유하는 툴을 고갤에서 제작하여 배포한 적도 있다. 물론 역으로, 누구에게 약속한 것도 아니고 책임을 질 필요도 없기 때문에 다른 번역팀보다 부담감이 훨씬 덜하다고.
+=== 특징 2 : 로고가 쓸데없이 고퀄 ===
+또 하나의 특징이자 팀 왈도가 주목을 끌고 있는 이유 중 하나는 바로  '''[[쓸데없이 고퀄리티]]인 한글화 로고'''. 그냥 그림도 아니고 그 도트 왈도를 마개조하는 것에 그치지 않고 그 게임의 특징을 정확하게 짚어낸다.
+
+더불어 한글 패치 프로젝트를 시작할 때마다 로고를 만들어서인지 오죽하면 '''로고 만들려고 한패 만든다'''는 농담까지 나올 정도.
+
+근데 진짜로 Long Live The Queen의 한글화 이유를 '''로고 만들기 위해서'''라고 밝혔다. [[흠좀무]]...
+== 번역 작품 목록 ==
+=== 개그 요소로서의 팀 왈도 ===
+ * [[엘더스크롤 5: 스카이림]] : 사실상 팀 왈도의 부흥(?)을 불러온 작품. [http://hoochie.tistory.com/358 #] [http://hoochie.tistory.com/359 ##] [http://blog.naver.com/freesky2_10?Redirect=Log&logNo=30124254533 ###] [http://gall.dcgame.in/list.php?id=game_classic&no=1019145&page=1&search_pos=-1007286&k_type=0100&keyword=%EC%8B%9C%EC%84%B8%EB%A1%9C+%EC%A3%BD%EC%97%BF%EB%8B%A4%EA%B0%80&bbs= ####][* 뒤늦게 알려진 사실이지만 스카이림에 연관된 팀왈도 스크린샷들은 후치 네드발이라는 닉네임을 사용하는 루리웹 유저 혼자 스카이림 발매당일 PC방에서 알바나 하고있는 자신의 신세를 비관하여 개그짤이나 만들자는 목적으로 합성한게 퍼진거라한다. 원출처 블로그에 해당 게시물 포스터 날짜도 스카이림 출시 당일이다]
+ * [[콜 오브 듀티: 모던 워페어 3]] [http://todayhumor.co.kr/board/view.php?kind=&ask_time=&search_table_name=&table=humorbest&no=407525&page=1&keyfield=&keyword=&mn=&nk=&ouscrap_keyword=&ouscrap_no=&s_no=407525&member_kind= 브금주의]
+ * [[폴아웃 택틱스]] [http://gall.dcgame.in/list.php?id=game_classic&no=961637&page=1&recommend=1&recommend=1&bbs= #]
+ * 어느 [상업지] [http://blogfiles.naver.net/20120222_64/end9412_1329917876008xKy1P_JPEG/%25C6%25C0%25BF%25D0%25B5%25B5%25B9%25F8%25BF%25AA%25B8%25C1%25B0%25A1.jpg #]
+ * ~~[[wiki:"Fate/Zero/애니메이션/자막" Fate/Zero/애니메이션]]~~
+ * [[맥풀]] 다이내믹스 카빈편 [http://gall.dcinside.com/gun/98900 #]
+ * [[배트맨: 아캄 시티]] 패치 팀원 왈 '휴고 스트레인지가 게이돋아 보이는 건 의도된 사항임' [http://tvpot.daum.net/my/ClipView.do?ownerid=zUx8p71qH8Q0&clipid=37922413&page=1&svcid=0&idx=7&q=&order=date&from=Mypot_Mylist&lu=m_c_main_cliplist_7 #]
+ * 오스프리 뉴 뱅가드 [http://gall.dcinside.com/list.php?id=arm&no=108772 #]
+
+=== 팀 왈도 공식 한글화 작품 ===
+ * 게임
+  attachment:ijilog.jpg?width=250 [* 이 때는 공식적으로 팀 왈도 간판을 내걸진 않았고, 따라서 이 로고도 좀 많이 뒤에 만들어졌다. 아래의 로고들과 비교해보면, 이 로고는 '우리는 한다 번역을'은 그대로 쓰고 로고 형태를 자유롭게 한 초기형들과는 이질적인 반면 '우리는 한다 번역을'부분을 자유롭게 바꾸지만 로고 형태는 원형으로 된 후기형에 가까운 모습을 보여준다.]
+  * [[Iji]][* 참고로 이 한글판을 원작자 대니얼 리마에게 메일로 보내자 원작자가 홈페이지에 이 파일을 직접 게시했다. [http://gall.dcinside.com/list.php?id=game_classic&no=1516542 #]] 
+  * 오팔라 여왕의 전설 : [[RPG 쯔꾸르 XP]]로 제작된 [[동인 게임]]. 장르는 [[야겜]]
+  attachment:/i1242509228.png?width=250
+  * [[불리]]
+  attachment:/1025849749_994c58fc.jpg?width=250
+  * [[마피아(PC게임)]]
+  attachment:/1025849749_9deed375.jpg?width=250
+  * [[백 투 더 퓨쳐 더 게임]]
+  attachment:/3667089739_eb2c09d0_1.jpg?width=250
+  * [[wiki:"FTL: Faster Than Light" FTL: Faster Than Light]]
+  attachment:/waldo10.png?width=250
+  * [[wiki:"Don't Starve" 굶지마]]
+  attachment:waldo9.png?width=250
+  * [[wiki:"Don't Starve#s-2.5" 굶지마 : 투게더]]  
+  attachment:862553_1.png?width=250
+  * ~~[[페이데이 2]]~~ [* 잦은 업데이트 및 들쭉날쭉한 번역 인원들 같은 어려움을 겪던 중, 개발사 [오버킬|오버킬 소프트웨어]가 번역가 모집을 시작해 찔러넣어본 결과 '''승낙'''. 결국 팀 왈도의 번역은 중단이지만 번역팀 인원의 대부분이 공식 번역팀으로 들어가 [[http://gall.dcinside.com/board/view/?id=game1&no=2373181 '''공식 번역으로 돌아온다''']] 한다.]
+  attachment:3717603910_FDqt5XEh_Screenshot_2014-03-22-21-03-58-1_1.png?width=250
+  * [[사우스 파크 진리의 막대]]
+  attachment:/857403_1.jpg?width=250
+  * [[월레스와 그로밋#s-5|월레스와 그로밋의 엄청난 모험]]
+  attachment:queen.jpeg?width=250
+  * [[Long Live The Queen]]
+  기존 진행 중이던 한패 제작자가 몇달전부터 오랫동안 소식도 없고 업데이트도 되지 않아 독자적으로 한패를 제작하던 중 기존 제작자에게 연락이 와서 서로 작업을 통합하기로 했다. 팀 왈도는 엔딩 번역 및 검수 담당으로 한글화가 완료되었다.[http://gall.dcinside.com/board/view/?id=game1&no=2374666&exception_mode=recommend #] [http://gall.dcinside.com/board/view/?id=game1&no=2374563&exception_mode=recommend ##]
+  attachment:Wolfenstein.jpg?width=250
+  * [[울펜슈타인: 더 뉴 오더]]
+  한글화를 진행 중이던 기존 팀이 해체되고 팀 왈도가 공식적으로 넘겨받아 한글화가 완료되었다.
+  attachment:Transistorwaldo.png?width=250
+  * [[트랜지스터(게임)|트랜지스터]]
+  발매 당일부터 한글화를 진행하던 [[플레이웨어즈]]의 산아라를 제치고 괴물같은 번역 속도로 [http://team-sm.tistory.com/ Team.SM]과 함께 한글화를 완료하였다. 자세한 내용은 [http://gall.dcinside.com/board/view/?id=game1&no=2440946 이곳]을 참조. 또한 공식 한글화를 추진 중. ~~한글화 NTR~~
+  attachment:towlfwaldo.png?width=250
+  * [[The Wolf Among Us]]
+  기술 지원을 해주었다. 
+  attachment:shadowmordorwaldo.png?width=250
+  * [[미들 어스: 섀도우 오브 모르도르]]
+  attachment:endlessspacewaldo.png?width=250
+  * [[Endless Space]]
+  attachment:abadonwaldo.png?width=250
+  * 부계에 잠든 왕녀의 아바돈 :  [[RPG 쯔꾸르 XP]]로 제작된 [[동인 게임]]. 장르는 [[야겜]].
+  attachment:GOTEp1.png?width=250
+  * [[왕좌의 게임(텔테일 게임즈)]]
+  attachment:waldo11.png?width=250
+  * [[다키스트 던전]]
+  attachment:f0077445_54ef0bd91cd82.jpg?width=250
+  * [[Sakura Spirit]]
+
+ * 코믹스
+  * [[IDW]]에서 발행한 [My Little Pony: Friendship is Magic|MLP : FiM] 공식 만화
+   * [http://kysslave.tistory.com/327 5권 1부] [http://kysslave.tistory.com/328 5권 2부]
+   * [http://kysslave.tistory.com/329 6권 - 1] [http://kysslave.tistory.com/331 6권 - 2]
+   * [[http://kysslave.tistory.com/396 9권]]
+   * [[http://kysslave.tistory.com/414 10권]]
+   * [http://kysslave.tistory.com/429 11권]
+   * [[래리티]] 편 [http://kysslave.tistory.com/325 1], [http://kysslave.tistory.com/326 2], [http://kysslave.tistory.com/334 부록]
+   * [[wiki:"레인보우 대쉬(Friendship is Magic)" 레인보우 대쉬]] 편 [http://kysslave.tistory.com/335 #]
+   * [[플러터샤이]] 편 [http://kysslave.tistory.com/359 #]
+   * [[핑키 파이]] 편 [http://kysslave.tistory.com/366 #]
+   * [[wiki:"애플잭(Friendship is Magic)" 애플잭]] 편 [http://kysslave.tistory.com/383 #]
+   * [[큐티마크 크루세이더]] 편 [http://kysslave.tistory.com/411 #]
+   * [[셀레스티아 공주]] 편 [http://kysslave.tistory.com/422 #]
+   * [[루나 공주]] 편 [http://kysslave.tistory.com/496 #]
+
+
+== 기타 로고 ==
+  attachment:2949779565_4deee6cf.jpg?width=250
+  * [[한글날]] 기념 로고
+  attachment:2949779565_0bcf5018.jpg?width=250
+  * [[Recettear|루세티아]] 로고
+  attachment:64f794f9e5b63556455fecd34480686c.jpg?width=250
+  * [[The Angry Video Game Nerd|AVGN]] 로고
+  attachment:BYSPF3rCcAA3TTK.jpg?width=250
+  * [[Kerbal Space Program|KSP]] 로고
+  attachment:988416114_a6d52407.jpg?width=250
+  * 팀 에코의 [[테일즈 프롬 더 보더랜드]] 한글화 로고
+  attachment:31748531_28934cc3.jpg?width=250
+  * [[새누리당]]/[[여성가족부]] 풍자 로고

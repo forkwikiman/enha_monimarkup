@@ -1,0 +1,306 @@
+[[목차]]
+
+== 설명 ==
+[[DJMAX RAY]]의 뮤직팩 데이터를 정리해둔 문서. 현재 iOS는 1.0.8 버전을, 안드로이드는 1.4.2 버전을 기준으로 작성되었다. 뮤직팩 순서는 게임상의 순서를 따른다.
+
+== 뮤직팩 데이터 ==
+1.0.4 버전까지는 뮤직팩 설명이 있었으나 버전 업데이트가 되면서 삭제(...)되었다. 수록곡의 패턴들에 대해 자세히 알고 싶으면 해당 항목을 참조하자.
+
+'''DJMAX CLASSIC''' 뮤직팩 시리즈는 슬라이딩 노트가 하나도 없다. 참고할 것.
+
+=== BASIC ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[EGG(DJMAX)|EGG]]||[[Nauts]]|| 2 || 4 || 7 || [[DJMAX TECHNIKA 3]] ||
+||[[Angel(DJMAX)|Angel]]||[[Laurent Newfield]] and [[Ravenant]]|| 5 || 7 || 8 || [[DJMAX TECHNIKA 3]] ||
+||[[Get On Top]]||[[PlanetBoom]]|| 3 || 5 || 7 || [[DJMAX 온라인]] ||
+||[[Phoenix Virus]]||[[M2U]]|| 5 || 6 || 7 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Daylight]]||[[CROOVE]]|| 6 || 7 || 9 || '''[[DJMAX RAY]]''' ||
+
+기본으로 주어지는 무료 뮤직팩으로, 쉬운 난이도부터 어려운 난이도까지 고루 분포되어 있다. 다만, 수록곡 중 Phoenix Virus는 7레벨이라고는 생각할 수 없는 사기 난이도이며, Daylight는 반복적인 연타와 트릴이 빠른 BPM과 맞물려 초심자의 혼을 쏙 빼놓는 곡이니 주의.
+
+엑스트라 미션을 전부 클리어하면 "볼링"이라는 노트를 얻을 수 있다. 부가 효과는 추가 게이지 +30, 게이지 회복량 +15, 판정 범위 +5%
+
+=== Entrance ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[바람의 기억]]||[[Forte Escape]]|| 1 || 3 || 6 || [[DJMAX Trilogy]] ||
+||[[설레임(DJMAX)|설레임]]||[[ND Lee]]|| 3 || 6 || 7 || [[DJMAX Portable 2]] ||
+||[[Memory of Beach]]||[[M2U]]|| 2 || 5 || 6 || [[DJMAX 온라인]] ||
+||[[유령(DJMAX)|유령]]||[[STI]]|| 4 || 6 || 7 || [[DJMAX TECHNIKA 3]] ||
+|| '''해금곡''' ||[[Private Party]]||[[NieN]]|| 4 || 6 || 7 || '''[[DJMAX RAY]]''' ||
+
+입문자에게 초점이 맞춰져 있는 뮤직팩으로, 가장 높은 패턴 레벨이 7레벨이다. 뮤직팩 중에서는 가장 쉽다. 1레벨 채보가 있는 뮤직팩이기도 하다.
+
+엑스트라 미션을 전부 클리어하면 "볼링"이라는 기어를 얻을 수 있다. 부가 효과는 추가 게이지 +25, 게이지 회복량 +10, 판정 범위 +5%.
+
+~~[wiki:"entrance"동명의 ][wiki:"Entrance(Rayark)"다른 곡]과는 관련이 없다~~
+=== DJMAX Classic 1 ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[바람에게 부탁해]]||[[Forte Escape]]|| 1 || 4 || 6 || [[DJMAX 온라인]] ||
+||[[Ladymade Star]]||[[ESTi]]|| 3 || 5 || 8 || [[DJMAX Portable 2]] ||
+||[[아침형 인간]]||[[ND Lee]]|| 3 || 6 || 9 || [[DJMAX 온라인]] ||
+||[wiki:"A.I(DJMAX)" A.I]||[[Forte Escape]]|| 4 || 7 || 9 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[바람에게 부탁해 Live Mix]]||[[Forte Escape]]|| 4 || 6 || 7 || [[DJMAX Portable]] ||
+
+여기에도 1레벨 패턴이 하나 있다. 가장 높은 난이도인 아침형 인간, A.I는 전부 9레벨이라고 하기엔 쉬운 편이다.
+
+엑스트라 미션을 전부 클리어하면 "프로거"라는 노트를 얻을 수 있다. 부가 효과는 Max 획득 +25%.
+
+[[wiki:"Forte Escape" 한 작곡가]]가 작곡/편곡한 곡이 3곡이나 되는 유이한 뮤직팩이다.
+
+=== Scarlet Ray ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Sweet Shining Shooting Star]]||[[CROOVE]]|| 6 || 7 || 8 || [[메트로 프로젝트]] ||
+||[[Kung-Fu Rider]]||[[AstroKid]]|| 6 || 7 || 8 || [[DJMAX TECHNIKA 3]] ||
+||[[Y]]||[[ND Lee]]|| 3 || 6 || 8 || [[메트로 프로젝트]] ||
+||[[Dual Strikers]]||[[7 Sequence]]|| 7 || 8 || 9 || [[DJMAX TECHNIKA 2]] ||
+|| '''해금곡''' ||[[Candy Girl]]||Mellow Funk Sound|| 3 || 5 || 7 || '''[[DJMAX RAY]]''' ||
+
+Sweet Shining Shooting Star는 맥시멈 패턴보다 하드 패턴이 올콤하기에 더 어렵다는 패턴이다.(...) 그 맥시멈 패턴도 8레벨 치고 엄청 쉽다. Dual Strikers는 10레벨을 제외하면 순위권 안에 드는 9레벨 최상위 패턴.
+
+=== Metal Black ===
+|| 분류 || 곡명 || 작곡 (편곡) || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[STALKER]]||[[ND Lee]]|| 4 || 7 || 8 || [[DJMAX Portable 2]] ||
+||[[Oblivion]](Rockin' Night Style)||[[ESTi]] ([[NieN]])|| 4 || 7 || 8 || [[DJMAX Portable]] ||
+||[[Mind Control]]||[[NieN]]|| 5 || 7 || 8 || [[DJMAX Trilogy]] ||
+||[[IF]]||["바닐라 유니티" Vanila Unity]|| 3 || 6 || 8 || [[DJMAX Portable 3]] ||
+|| '''해금곡''' ||[[Mr.Lonely]]||[[NieN]]|| 5 || 6 || 8 || '''[[DJMAX RAY]]''' ||
+
+OBLIVION (Rockin' Night)나 Mind Control의 난이도는 8레벨 중에서도 최상위를 달린다고 할 만큼 어렵다.
+
+엑스트라 미션을 전부 클리어하면 "갤럭시"라는 쿨밤을 얻을 수 있다. 부가 효과는 FEVER 지속시간 +1, 판정 범위 +8%
+
+[[wiki:"NieN" 한 작곡가]]가 작곡/편곡한 곡이 3곡이나 되는 유이한 뮤직팩이다.
+
+=== Next Wave ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Someday]]||[[NieN]]|| 3 || 4 || 6 || [[DJMAX Trilogy]] ||
+||[[Love is Beautiful]]||[[Electronic Boutique]]|| 4 || 6 || 7 || [[DJMAX TECHNIKA 2]] ||
+||[[Good Bye]]||[[Ruby Tuesday]]|| 5 || 7 || 8 || [[DJMAX Portable 2]] ||
+||[[In my Dream]]||[[ND Lee]]|| 7 || 8 || '''10''' || [[메트로 프로젝트]] ||
+|| '''해금곡''' ||[[Dark Ages]]||[[XeoN]]|| 6 || 7 || 9 || '''[[DJMAX RAY]]''' ||
+
+안드로이드 전용 뮤직팩이었다가 iOS에도 오픈. In my Dream은 10레벨이긴 하지만, 그렇게 어렵지 않은 패턴이다. Dark Ages는 HD가 사기 패턴이니 주의할 것. SOMEDAY MX도 6레벨치곤 상당히 어려운 난이도를 보여준다.
+
+엑스트라 미션 보상은 "카모"라는 기어로, 부가 효과는 게이지 회복량 +8, FEVER 지속 시간 +1, 판정범위 +8%.
+
+IOS에서의 엑스트라 미션 보상은 "레오파드"라는 쿨밤으로, 부가 효과는 판정범위 +8%, Max 획득 +10%, 경험치 획득 +10%.
+
+=== Fusion ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Super Lovely]]||EarBreaker|| 6 || 7 || '''10''' || [[DJMAX 온라인]] ||
+||[[Memoirs]]||[[M2U]]|| 5 || 7 || 8 || [[DJMAX Portable 2]] ||
+||[[Emblem]]||[[makou]]|| 5 || 7 || 9 || [[DJMAX TECHNIKA 3]] ||
+||[[Showtime]]||[[Ruby Tuesday]]|| 3 || 5 || 8 || [[DJMAX Portable 2]] ||
+|| '''해금곡''' ||[[Sold on Your Love]]||Mellow Funk Sound|| 2 || 4 || 7 || '''[[DJMAX RAY]]''' ||
+
+Super Lovely는 노트가 쉴 새없이 몰아치지만 10레벨에는 못 미친다는 게 중론. Emblem은 올 콤보가 S랭크 맞기보다 쉬운 패턴이다. ~~[[DJMAX TECHNIKA 3|저기]]서도 판정왕이었는데 여기서도 판정왕~~ 대신 전체적으로는 9레벨 치고 쉽다는 평.
+
+엑스트라 미션을 모두 클리어하면 "터뷸러스"라는 쿨밤을 얻게 된다. 부가 효과는 FEVER 지속시간 +1, MAX 획득 +10%, 경험치 획득 +10%. Epic 아이템인 "버블" 쿨밤의 하위호환으로, DJMAX RAY Bundle 2를 구매한 유저라면 굳이 애써서 얻을 필요는 없다.
+
+=== Dramatic ===
+|| 분류 || 곡명 || 작곡 (편곡) || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[My Heart, My Soul]]||[[3rd Coast]]|| 2 || 5 || 7 || [[DJMAX TECHNIKA 3]] ||
+||[[Supersonic ~Mr.Funky Remix~]]||[[PlanetBoom]] ([[Mr.Funky]])|| 8 || 9 || '''10''' || [[DJMAX TECHNIKA 2]] ||
+||[[Leave me alone]]||[[NieN]]|| 5 || 7 || 9 || [[DJMAX Portable 3]] ||
+||[[Ventilator]]||Cycle75|| 7 || 8 || 9 || [[DJMAX Trilogy]] ||
+|| '''해금곡''' ||[wiki:"Secret(DJMAX)" Secret]||[[Electronic Boutique]]|| 4 || 5 || 7 || '''[[DJMAX RAY]]''' ||
+
+SuperSonic (Mr. Funky Remix)는 난이도가 8-9-10으로 난이도 총합이 가장 높지만, 애석하게도 전 패턴 물렙이다. Ventilator는 후반에 나오는 연타에 슬라이딩이 여기저기 끼어들어 꽤 까다로우며, 뮤직팩 내의 사실상 보스곡으로 봐도 무방하다.
+
+=== DJMAX Classic 2 ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Let's Go Baby]]||[[3rd Coast]]|| 3 || 5 || 7 || [[DJMAX 온라인]] ||
+||[[wiki:"I Want You(DJMAX)" I Want You]]||[[Lin-G]]|| 4 || 6 || 8 || [[메트로 프로젝트]] ||
+||[[Your Own Miracle]]||[[Ruby Tuesday]]|| 4 || 6 || 9 || [[DJMAX Portable 2]] ||
+||[[Midnight Blood]]||[[NieN]]|| 6 || 8 || '''10''' || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Hello Pinky]]||[[NieN]]|| 4 || 5 || 7 || [[DJMAX Portable 2]] ||
+
+Hello Pinky는 대체 무슨 약을 했는지 의심스러울 정도의 레벨을 지녔다.~~사스가 HELL로 핑키~~ 사실상 7레벨 중에서는 Phoenix Virus, Thor와 함께 쓰리탑이라고 해도 충분하다. Midnight Blood는 폭타가 꽤 나오긴 하지만, 10레벨 특유의 압도적인 느낌은 하나도 없다.
+
+=== Club Trance ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[White Blue]]||ZTS|| 5 || 7 || '''10''' || [[DJMAX Portable 2]] ||
+||[[SigNalize]]||[[Paul Bazooka]]|| 5 || 8 || 9 || [[DJMAX TECHNIKA 3]] ||
+||[[Minus 3]]||[[CROOVE]]|| 6 || 8 || '''10''' || [[DJMAX Portable 2]] ||
+||[[Seeker]]||[[M2U]]|| 3 || 7 || 8 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[OrBiTal]]||[[Paul Bazooka]]|| 3 || 5 || 7 || '''[[DJMAX RAY]]''' || 
+
+언뜻 보면 고레벨 패턴이 많아 보이지만, White Blue는 8레벨이라고 해도 믿을 만큼 심각한 물렙이다. 사실상 10레벨 최약체. SigNalize도 9레벨 물렙에 속한다. 하지만 Minus 3의 경우, DJMAX RAY 내에서도 최강의 패턴 중 하나로 자리하고 있다. Seeker도 8레벨 사기곡이니 주의할 것.
+
+안드로이드, iOS 모두 엑스트라 미션을 전부 클리어하면 "카모"라는 총알 모양의 노트를 얻을 수 있다. 부가 효과는 판정 범위 +8%.
+
+=== Rapid Stream ===
+|| 분류 || 곡명 || 작곡 (편곡) || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[wiki:"D2(DJMAX)" D2]]||FIRST AID|| 5 || 8 || '''10''' || [[DJMAX TECHNIKA 2]] ||
+||[[HAMSIN]]||[[makou]]|| 7 || 8 || '''10''' || [[DJMAX Portable]] ||
+||[[Bamboo on Bamboo]]||[[wiki:"호소에 신지" Sampling Masters MEGA]]|| 6 || 8 || 9 || [[DJMAX TECHNIKA 3]] ||
+||[[wiki:"FEAR(DJMAX)" FEAR]]||Supbaby|| 4 || 7 || 8 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Ztar Trek_RE Edit]]||[[Electronic Boutique]] ([[Mr.Funky]])|| 5 || 8 || 9 || '''[[DJMAX RAY]]''' ||
+
+D2는 까다로운 연타가 많이 나오긴 하지만 패턴만 놓고 보면 9레벨과 비교해도 그냥저냥한 패턴이다. 패턴 난이도나 판정 난이도나 HAMSIN에게 밀린다. HAMSIN은 빡빡하게 내려오는 엇박의 향연으로 점철되어 있으며 연타력이 좋지 않은 이상은 최후반살인에 당할 수가 있다. Bamboo on Bamboo는 MX 패턴이 9레벨 사기곡이며, 해금곡인 Ztar Trek_RE Edit도 MX 패턴이 9레벨 상급이니 주의할 것.
+
+엑스트라 미션을 모두 클리어하면 "로얄 오크"라는 기어를 얻게 된다.(안드로이드 판 기준입니다. iOS판은 [[추가바람]]) 부가 효과는 FEVER 지속시간 +2, 판정 범위 +5%, 경험치 획득 +5%. ~~인페르노 기어도 지를 필요가 없다.~~
+
+=== Delight ===
+|| 분류 || 곡명 || 작곡 (편곡) || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Sunny Side]] (Remix)||[[CROOVE]] ([[Forte Escape]])|| 3 || 6 || 8 || [[DJMAX Portable 3]] ||
+||[[Feel]]||DJ Mocha|| 1 || 5 || 7 || [[DJMAX 온라인]] ||
+||[[Now a NEW Day]]||Sui.jay|| 3 || 5 || 7 || [[DJMAX TECHNIKA 3]] ||
+||[[Another DAY]]||[[Forte Escape]]|| 5 || 7 || 8 || [[DJMAX Portable 2]] ||
+|| '''해금곡''' ||[[GirlZ]]||[[ND Lee]]|| 4 || 6 || 7 || '''[[DJMAX RAY]]''' ||
+
+뮤직팩 중에는 위의 Entrance 뮤직팩에 이어서 가장 쉬운 쪽에 속한다. 여기에도 1레벨 채보가 하나 존재.
+
+엑스트라 미션을 전부 클리어하면 "선샤인"이라는 쿨밤을 얻을 수 있다. 부가 효과는 추가 게이지 +30, 게이지 회복량 +5, 판정 범위 +3%.
+
+=== DJMAX Classic 3 ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Put'Em Up]]||[[makou]]|| 2 || 4 || 6 || [[DJMAX TECHNIKA 2]] ||
+||[[wiki:"RED(DJMAX)" Red]]||[[CROOVE]]|| 3 || 5 || 7 || [[DJMAX 온라인]] ||
+||[[A Lie]]||[[makou]]|| 5 || 7 || 9 || [[DJMAX Portable 2]] ||
+||[[Never Say]]||[[ND Lee]]|| 4 || 6 || 8 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[One the Love]]||[[xxdbxx]]|| 5 || 7 || 9 || [[DJMAX 온라인]] ||
+
+=== Emotional Sense[* DJMAX 시리즈의 부제이다.] ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Sunset Rider]]||[[Nauts]]|| 5 || 6 || 7 || [[DJMAX Portable 2]] ||
+||[[Get Out]]||[[ND Lee]]|| 6 || 7 || 8 || [[DJMAX Portable 2]] ||
+||[[Miles]]||[[Electronic Boutique]]|| 7 || 8 || 9 || [[DJMAX 온라인]] ||
+||[[Mess it up]]||[[Nauts]]|| 7 || 8 || 9 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Hyperboloid]]||[[makou]]|| 6 || 8 || '''10''' || '''[[DJMAX RAY]]''' ||
+
+Miles는 일반 노트로 계단을 그려놓았다. 때문에 엄지 플레이의 경우 굉장히 까다롭다. ~~이건 DJMAX Classic 전용 패턴 아닌가요~~ Hyperboloid는 기습적이며 복잡한 긁기가 다수 나오지만, 패턴으로만 본다면 9레벨과 비슷하다. Sunset Rider도 MX 패턴이 7레벨 치고 꽤 어려우니 주의할 것.
+
+=== [wiki:"슬레지해머" Sledgehammer] ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Nightmare]]||[[M2U]]|| 4 || 7 || '''10''' || [[DJMAX Portable 2]] ||
+||[[Syriana]]||[[BEXTER]]|| 4 || 6 || 8 || [[DJMAX Portable 2]] ||
+||[[Higher]]||Supbaby|| 2 || 5 || 8 || [[DJMAX Portable 2]] ||
+||[[On Da Floor]]||[[Mr.Funky]]|| 4 || 5 || 7 || '''[[DJMAX RAY]]''' ||
+|| '''해금곡''' ||[[SINister Evolution]]||[[TAK]]|| 6 || 8 || '''10''' || '''[[DJMAX RAY]]''' ||
+
+DJMAX RAY Bundle 1 출시 당시, 보스 컨셉을 맡았던 뮤직팩으로, 챌린지 미션도 초보자에게 조금 까다로울 수 있을 뿐더러, Nightmare는 탭소닉 단순 버전임에도 불구하고 후반 연타로 인해 엄지 플레이 기준 최종 보스곡이고, SINister Evolution는 미칠듯한 슬라이드와 함께 어우러진 빠른 폭타, 그리고 중간중간 껴있는 연타덕분에 DJMAX RAY 신곡 기준 최종 보스곡이라고 할 수 있을만큼 어렵다. 그나마 Higher MX가 8레벨 치고 쉬운 게 그나마의 자비라면 자비. 어쨌든 현재까지도 보스 컨셉을 유지하고 있는 괴물 뮤직 팩.
+
+안드로이드에서는 엑스트라 미션을 전부 클리어하면 "달마시안"이라는 쿨밤을 얻을 수 있다. 부가 효과는 경험치 획득 +25%. 상당히 ~~개같은~~깨는 디자인이라 왠지 쓰기가 싫어진다. iOS에서는 "카모"라는 기어를 얻을 수 있다. 부가효과는 게이지 회복량 +8, FEVER 지속시간 +1, 판정 범위 +8%.
+=== Wrath ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Xeus]]||[[XeoN]]|| 6 || 8 || '''10''' || [[DJMAX TECHNIKA 3]] ||
+||[[Celestial Tears]]||[[Tsukasa]]|| 4 || 6 || 9 || [[DJMAX 온라인]] ||
+||[[SQUEEZE]]||[[wiki:"kors k" Oriental ST8]]|| 4 || 7 || 9 || [[DJMAX Portable 2]] ||
+||[[wiki:"For the Ikarus" IKARUS]]||[[NieN]]|| 6 || 7 || 8 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Right Back]]||[[makou]]|| 3 || 5 || 7 || '''[[DJMAX RAY]]''' ||
+
+이름만 "분노"인 팩으로, 전체적인 난이도는 Sledgehammer보다 밀린다.
+하지만  Xeus 하나로 모든 걸 쌈싸먹을 수 있다. 최후반의 일반노트 + 슬라이딩 노트 발광이 엄청난 패턴으로, 어느 정도 숙련이 되기 전까지는 클리어 확률이 높지 않을 지도 모른다.
+=== Harmony ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[설레임 Part.2]]||[[ND Lee]]|| 4 || 6 || 8 || [[DJMAX TECHNIKA 3]] ||
+||[[Dream Again]]||[[DINY]]|| 4 || 5 || 6 || [[DJMAX TECHNIKA 3]] ||
+||[[Bye Bye Love]]||[[3rd Coast]]|| 3 || 5 || 8 || [[DJMAX Portable 2]] ||
+||[[Ray of Illuminati]]||[[ESTi]]|| 4 || 6 || 8 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Pray For You]]||[[AstroKid]]|| 1 || 4 || 6 || '''[[DJMAX RAY]]''' ||
+
+이 게임에서 유이하게 무료로 플레이할 수 있는 또 다른 뮤직팩으로, 전체적인 난이도는 BASIC에 비해서 낮다. 해금곡에 1레벨 채보가 있다. ~~기껏 해금해 놨더니 기본곡들보다도 쉽다.~~ 이 뮤직팩에서의 보스곡은 Ray of Illuminati. MX 패턴이 8레벨 중에서도 빡센 편이다.
+
+엑스트라 미션을 모두 클리어하면 "보이드"라는 쿨밤을 얻게 된다. 부가 효과는 추가 게이지 -50, 게이지 회복량 -50, FEVER 지속시간 +2. ~~인페르노 쿨밤을 지르지 않아도 되는 이유~~
+
+=== RemiXounD ===
+|| 분류 || 곡명 || 작곡 (편곡) || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[wiki:"Luv Flow" Luv Flow ~Funky House Mix~]]||[[3rd Coast]] ([[Paul Bazooka]])|| 5 || 7 || 9 || [[DJMAX Portable 3]] ||
+||[[wiki:"Yo Creo Que Si" Yo Creo Que Si Remix]]||[[makou]] ([[BEXTER]])|| 3 || 5 || 7 || [[DJMAX Trilogy]] ||
+||[[wiki:"Desperado" Desperado ~Nu Skool Mix~]]||[[CROOVE]] ([[Paul Bazooka]])|| 5 || 7 || 8 || [[DJMAX Portable 3]] ||
+||[[wiki:"For Seasons" For Seasons ~Air Guitar Mix~]]||[[makou]] ([[PlanetBoom]])|| 4 || 6 || 8 || [[DJMAX Trilogy]] ||
+|| '''해금곡''' ||[[wiki:"New World(DJMAX)" New World]]||[[wiki:"Mr.Funky"Flash Finger]]|| 4 || 6 || 8 || '''[[DJMAX RAY]]''' ||
+
+이름 그대로 리믹스 악곡들을 모아놓은 뮤직 팩이다. ~~근데 해금곡은 리믹스가 아니잖아 뭐야 이거 차라리 듀스락을 넣어주지~~ 그 해금곡인 New World는 후반 폭타가 빡센 주의할 만한 패턴이다.
+
+여담으로 테크니카 시리즈의 동명의 세트와 [wiki:"Luv Flow"두] [wiki:"Desperado"곡]을 공유한다.
+
+=== DJMAX CLASSIC 4 ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Jupiter Driving]]||[[xxdbxx]]|| 5 || 6 || 8 || [[DJMAX 온라인]] ||
+||[[FTR]]||[[Supbaby]]|| 6 || 7 || 8 || [[DJMAX 온라인]] ||
+||[[NB POWER]]||[[NieN]]|| 7 || 8 || 9 || [[DJMAX Portable 2]] ||
+||[[Shoreline]]||[[Oriental ST8]]|| 7 || 8 || 9 || [[메트로 프로젝트]] ||
+|| '''해금곡''' ||[[Enemy Storm]]||[[CROOVE]]|| 8 || 9 || '''10''' || [[DJMAX 온라인]] ||
+
+Shoreline은 레벨 이전에 노트 조차 너무 적은 패턴으로, 그야말로 통수 패턴이다. 올콤을 해도 2만 점과는 거리가 먼, 그야말로 스코어링 의욕을 떨어뜨리는 패턴. 난이도도 엄청난 물렙이다. Enemy Storm은 DJMAX CLASSIC 패턴 중 최강이라고 불릴 만한 패턴을 보유하고 있다. 엄청난 연타로 인해 엄지로 플레이하기엔 버거울 수준.
+
+=== Spectacular ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Ruti'n]]||[[BEXTER]]|| 4 || 5 || 7 || [[메트로 프로젝트]] ||
+||[[NANO RISK]]||[[Dayz]]|| 5 || 6 || 8 || [[DJMAX Portable 2]] ||
+||[[My Alias]]||[[Dayz]]|| 6 || 7 || 8 || [[DJMAX 온라인]] ||
+||[[Keys to the World]]||[[PlanetBoom]]|| 7 || 8 || 9 || [[메트로 프로젝트]] ||
+|| '''해금곡''' ||[[Dark Lightning]]||[[AstroKid]]|| 8 || 9 || '''10''' || '''[[DJMAX RAY]]''' ||
+
+해금곡인 Dark Lightning의 경우, MX 패턴이 이중노트 세례 덕에 올콤 난이도가 상당히 높다만 클리어 난이도는 9레벨 후반 수준에 머물기 때문에 Supersonic ~Mr.Funky Remix~처럼 이 곡도 8-9-10 전 패턴 물렙에 속한다. ~~이중노트에 긁기만 대거 투입했어도 초극악곡 될 수 있었을 텐데~~ 그밖에도 Nano Risk도 엄청난 물렙. 탭소닉에서의 패턴보다도 약하다!
+=== DJMAX CLASSIC 5 ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Trip]]||[[NieN]]|| 1 || 4 || 6 || [[DJMAX TECHNIKA 2]] ||
+||[[영원]]||[[BEXTER]]|| 1 || 3 || 5 || [[메트로 프로젝트]] ||
+||[[Coastal Tempo]]||[[3rd Coast]]|| 2 || 5 || 7 || [[메트로 프로젝트]] ||
+||[[고백,꽃,늑대 part.2]]||[[ReX]]|| 2 || 6 || 8 || [[메트로 프로젝트]] ||
+|| '''해금곡''' ||[[End of the Moonlight]]||[[Forte Escape]]|| 5 || 7 || 9 || [[DJMAX 온라인]] ||
+
+1레벨 패턴이 무려 2개나 존재하는 뮤직팩으로, 영원은 전곡을 통틀어 난이도 총합이 제일 낮다. ~~다 합쳐도 아래의 엔오문 맥시멈 난이도랑 같다~~
+엔오문MX는 엄지로 플레이하기 괴롭다.
+
+=== [wiki:"자외선" Ultraviolet] ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Aurora Borealis]]||[[Electronic Boutique]]|| 6 || 8 || '''10''' || [[DJMAX 온라인]] ||
+||[[Out of CTRL]]||[[Mr.Funky]]|| 6 || 8 || 9 || [[DJMAX TECHNIKA 3]] ||
+||[[Dark Prism]]||[[Tsukasa]]|| 5 || 7 || 9 || [[DJMAX TECHNIKA 3]] ||
+||[[Rolling On the Duck]]||[[NieN]]|| 6 || 8 || '''10''' || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Vampired]]||[[Paul Bazooka]]|| 3 || 6 || 9 || '''[[DJMAX RAY]]''' ||
+
+Sledgehammer 팩의 뒤를 잇는 고난도 뮤직팩.
+Aurora Borealis은 TAP SONIC의 레전드 패턴을 단순화 시킨 버전이며, 역시 최후반살인은 그대로 가져온 패턴이다. Rolling On the Duck은 무지막지한 물량을 자랑하는 패턴으로, 피버 아이템을 적당히 껴놓고 풀피버에 성공하면 10000콤보를 넘길 수도 있는 유일한 곡이다! 때문에 전곡 중 유일하게 15만 점이 넘어가는 곡이기도 하다. 다만 치다보면 손이 지친다(...). Dark Prism MX는 9레벨 중에서도 난이도가 최상위권. 10레벨로 표기되었어도 별 말 없었을 정도의 높은 난이도를 보여준다. 여기서의 유일한 물렙은 Out of CTRL. 최후반부 2중노트+긁기를 제외하면 8레벨이라 봐도 무방하다.
+
+엑스트라 미션을 전부 클리어하면 "카모"라는 노트를 얻을 수 있다. 부가 효과는 판정 범위 +8%.
+
+=== DJMAX CLASSIC 6 ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Rocka-a-doodle-doo]]||[[makou]]|| 3 || 5 || 7 || [[DJMAX 온라인]] ||
+||[wiki:"MASAI(DJMAX)"MASAI]||[[CROOVE]]|| 4 || 6 || 8 || [[DJMAX 온라인]] ||
+||[[Cherokee]]||[[xxdbxx]]|| 4 || 6 || 8 || [[DJMAX 온라인]] ||
+||[[SIN]]||[[ESTi]]|| 6 || 7 || 9 || [[DJMAX 온라인]] ||
+|| '''해금곡''' ||[[Light House]]||[[xxdbxx]]|| 7 || 8 || 10 || [[DJMAX 온라인]] ||
+
+=== DJMAX CLASSIC 7 ===
+|| 분류 || 곡명 || 작곡 (편곡) || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡|| [[wiki:"Elastic Star"Elastic Star Garage Remix]] ||[[Forte Escape]] ([[ESTi]])|| 4 || 6 || 7 || [[DJMAX 온라인]] ||
+|| [[StarFish]] || [[PlanetBoom]] || 4 || 6 || 7 || [[DJMAX 온라인]] ||
+|| [[Divine Service]] || [[Electronic Boutique]] || 5 || 6 || 8 || [[DJMAX Portable 2]] ||
+|| [[Out Law]] || [[CROOVE]] || 6 || 7 || 9 || [[DJMAX 온라인]] ||
+|| '''해금곡''' || [[Heart of Witch]] || [[wiki:"M2U"ReX]] || 5 || 7 || 10 ||[[메트로 프로젝트]]  ||
+
+Heart of Witch의 MX 패턴이 등장 즉시 Enemy Storm MX를 제치고 Classic 뮤직 팩 보스곡으로 올라섰다. 쉴 틈을 주지 않는 폭타가 일품.
+
+=== DJMAX CLASSIC 8 ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡|| [[Dear my Lady]] || [["kors k" Oriental ST8]] || 3 || 5 || 9 || [[메트로 프로젝트]] ||
+|| [[Airwave]] || [[wiki:"M2U"ReX]] || 2 || 5 || 8 || [[DJMAX TECHNIKA 2]] ||
+|| [[BEE-U-TIFUL]] || First Aid || 3 || 6 || 9 || [[DJMAX TECHNIKA 2]] ||
+|| [[Thor]] || [[XeoN]] || 3 || 5 || 7 || [[메트로 프로젝트]] ||
+|| '''해금곡''' || [[Renovation]] || [[XeoN]] || 2 || 5 || 9 || [[DJMAX TECHNIKA TUNE]] ||
+
+[[DJMAX TECHNIKA TUNE]] 수록곡 중 첫 타자로 나온 Renovation이 해금곡이다. Dear my Lady와 BEE-U-TIFUL은 9레벨 치고 임팩트가 부족한 편이지만 Thor는 7레벨 보스곡. 판정 난이도로만 따지면 웬만한 9레벨 곡들보다도 어렵다!
+
+MX패턴은 레벨이 9나 되는 곡이 3개나 있고, Thor MX도 상당히 까다로운 편이나, 챌린지 미션에서는 어떤 미션도 MX패턴을 사용하지 않았다. 해금으로 오픈시킨 한 곡을 빼고 나머지 세 미션은 모두 두번째 줄에 있는 미션의 동일한 패턴에서 조건만 바뀌었다.
+
+IOS에서의 엑스트라 미션 보상은 "레오파드"라는 기어로, 부가 효과는 FEVER 지속시간 +1, Max 획득 +15%, 경험치 획득 +15%.
+
+안드로이드에도 출시되었다. 디폴트 싱크 기준으로 Dear my Lady와 Airwave의 싱크가 심각하게 맞지 않는다.
+
+=== Sweetheart ===
+|| 분류 || 곡명 || 작곡 || NM || HD || MX || 최초 수록 ||
+||<|4><:>기본곡||[[Jealousy]]||[[3rd Coast]]|| 3 || 5 || 7 || [[메트로 프로젝트]] ||
+||[[Cosmic Fantastic Lovesong]]||[[DINY]]|| 2 || 5 || 7 || [[DJMAX TECHNIKA 2]] ||
+||[[Raise me up]]||[[PlanetBoom]]|| 4 || 6 || 8 || [[DJMAX Portable 3]] ||
+||[wiki:"Brandnew Days"Brand NEW Days]||[[PlanetBoom]]|| 5 || 7 || 8 || [[DJMAX Portable 2]] ||
+|| '''해금곡''' ||[[wiki:"Alone"Alone]]||[[Nauts]]|| 3 || 6 || 9 || '''[[DJMAX RAY]]''' ||
+
+Raise me up은 6레벨 패턴 중 점수가 가장 높은(8만 점) 패턴으로 자리매김하였다.
+
+[[각주]]

@@ -1,0 +1,114 @@
+ * 상위문서: [[포유강(생물목록)]]
+ * 일반적인 내용은 [[설치류]] 참고.
+
+[[목차]]
+
+설치목(齧齒目, Rodentia)은 앞니가 지속적으로 자라는 포유류다.
+
+= 다람쥐아목 (Sciuromorpha) =
+ * 겨울잠쥐과 (Gliridae)
+  * 겨울잠쥐
+ * 다람쥐과 (Sciuridae)
+  * [[다람쥐]]
+  * [[날다람쥐]]
+   * [[하늘다람쥐]]
+   * [[모몬가]]
+  * [[땅다람쥐]]
+  * [[마못]]
+  * [[청설모]]
+  * [[프레리도그]]
+ * 산비버과 (Aplodontiidae)
+  * [[산비버]]
+
+= 호저아목 (Hystricomorpha) =
+ * 군디과 (Ctenodactylidae)
+ * 라오스바위쥐과 (Diatomyidae)
+== 호저하목 (Hystricognathiformes) ==
+ * 호저과(Hystricidae)
+   * [[호저]]
+=== Phiomorpha소목 ===
+ * 아프리카바위쥐과 (Petromuridae)
+ * 사탕수수쥐과 (Thryonomyidae)
+ * 두더지쥐과 (Bathyergidae)
+   * [[벌거숭이두더지쥐]]
+=== 천축서소목 (Caviomorpha) ===
+==== 아메리카호저상과 (Erethizontoidea) ====
+  * 아메리카호저과 (Erethizontidae)
+==== 친축서상과 (Cavioidea) ====
+  * 아구티과 (Dasyproctidae)
+   * [[아구티]]
+   * [[파카]]
+  * 파카과 (Cuniculidas)
+  * 파카라나과 (Dinomyidae)
+  * 천축서과 (Caviidae)
+   * [[기니피그]] - [[모르모트]]
+   * [[캐피바라]]
+   * [[마라]]
+==== 데구상과 (Octodontoidea) ====
+  * 데구과 (Octodontidae)
+   * 데구
+  * 투코투코과 (Ctenomyidae)
+  * 아메리카가시쥐과 (Echimyidae)
+  * 뉴트리아과 (Myocastoridae)
+   * [[뉴트리아]](코이푸)
+  * 후티아과 (Capromyidae)
+   * [[후티아]]
+==== 친찰라상과 (Chinchilloidea) ====
+  * 친칠라과 (Chinchillidae)
+   * [[비스카차]]
+   * [[친칠라]]
+  * 친칠라쥐과 (Abrocomidae)
+
+= 비늘꼬리청서아목 (Anomaluromorpha) =
+ * 뜀토끼과 (Pedetidae)
+   * [[뜀토끼]]
+ * 비늘꼬리청서과 (Anomaluridae)
+
+= 비버아목 (Castorimorpha) =
+== 비버상과 (Castoroidea) ==
+ * 비버과 (Castoridae)
+  * [[비버]]
+
+== 주머니생쥐상과 (Geomyoidea) ==
+  * 주머니생쥐과 (Geomyidae)
+  * 흙파는쥐과 (Heteromyidae)
+
+= 쥐아목 (Myomorpha) =
+== 뛰는쥐상과 (Dipodoidea) ==
+  * 뛰는쥐과 (Dipodidae)
+   * [[사막뛰는쥐]]
+   * [[캥거루쥐]]
+   * [[주머니쥐#s-5|주머니쥐]]
+== 쥐상과 (Muroidea) ==
+  * 쥐과 (Muridae)
+   * 쥐아과
+    * 생쥐속
+     * [[생쥐]]
+    * 붉은쥐속
+     * 등줄쥐
+     * 제주등줄쥐
+    * 집쥐속
+     * [[시궁쥐]]
+     * 곰쥐
+    * 멧밭쥐속
+     * 멧밭쥐
+  * 비단털쥐과 (Cricetidae)
+   * 물밭쥐아과
+    * [[나그네쥐]]
+   * [[햄스터|비단털쥐아과]]
+    * 비단털쥐속
+     * 비단털쥐
+    * 비단털등줄쥐속
+     * 비단털등줄쥐
+    * [[시리아햄스터]]속
+     * 시리아햄스터(골든햄스터)
+    * [[드워프햄스터]]속
+     * 캠벨햄스터
+     * 정글리안햄스터
+     * 로보로브스키햄스터
+    * 유럽비단털쥐속
+    * 몽골햄스터속
+    * 간쑤비단털쥐속
+  * 붉은숲쥐과 (Nesomyidae)
+  * 가시겨울잠쥐과 (Platacanthomyidae)
+  * 소경쥐과 (Spalacidae)

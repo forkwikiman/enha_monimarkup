@@ -1,0 +1,61 @@
+[[목차]]
+
+== 설명 ==
+[[댄스 댄스 레볼루션]]의 6번째 시리즈인 DDRMAX에 등장한 원 모어 스테이지. 더불어서 DDR 시리즈 최초의 원 모어 스테이지이기도 하다.
+작곡은 [[NAOKI]]이며 여기선 Luv UNLIMITED 명의를 사용하였다.
+
+{{{#!html
+<iframe width="420" height="345" src="http://www.youtube.com/embed/zFYzN6hJngE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} || {{{#purple X-Special}}} ||
+|| {{{#blue 4}}} || {{{#orange 6}}} || {{{#red 7}}} || {{{#green 11}}} || {{{#purple -}}} || {{{#purple 12}}} ||
+||<|3><:> 192|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} || {{{#purple X-Special}}} ||
+|| || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 11}}} || {{{#purple -}}} || {{{#purple 13}}} ||
+
+해금 이전에는 엑스트라 스테이지에서 꺼내는 [[MAX 300]]을 AA랭크 이상으로 클리어해야 등장하는 곡이었다.
+
+보컬이 없는 빠른 템포의 댄스곡으로, 곡 자체에는 원 모어 스테이지(...)라는 위엄에는 역부족이라는 평. '''그러나''' 이 곡을 비롯한 이 시리즈의 일부 원 모어 엑스트라 곡들은 통상 원모어로 꺼냈을 때는 '''한번이라도 good이하의 판정이 나면 폭사해버리는''' 서든데스 게이지가 적용되었고, 당시 이 노래엔 1.5배속과 리버스 옵션이 강제적용되었다. 
+
+이후 원모어 엑스트라는 엑스트라보다 더 쉽게 나오는게 이 작품부터 일부 시리즈의 관례였다. 
+
+나중에 [[비트매니아]] THE FINAL로도 이식되었다. (원 출신이 DDR이라서 비트매니아에서의 BGA도 DDR의 스텝이 나온다) 다만 [[사기 난이도]]라는 평가가 있다. 또한 현재 [[더★비시바시]]의 배경음악 중 하나이기도 하다.
+
+참고로 [[기타프릭스]]&[[드럼매니아]] 시리즈 수록곡인 ☆CANDY와는 '''완전히 다른 곡이다.'''이쪽은 퓨전밴드 野獣王国(야수왕국)이 외주로 제공한 곡으로, 별이 앞에 있어서 일명 [[별사탕]]이라고 불리기도 한다.
+
+== CANDY♡ ==
+{{{#!html
+<iframe width="420" height="345" src="http://www.youtube.com/embed/IVdf3CzXl6Q" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 10}}} || {{{#purple -}}} ||
+||<|3><:> 180|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 10}}} || {{{#purple -}}} ||
+
+바로 다음 시리즈인 DDRMAX2에서는 CANDY♡라는 이름으로 [[코사카 리유]]가 부른 버전이 나왔다. 이 버전은 원곡보다는 bpm이 낮고 스텝 난이도가 쉽다. X에서 삭제되었다가 X2에서 부활.
+
+=== 팝픈뮤직 ===
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/l-Dn_uQiPf8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music[[br]]8 || CANDY POP[[br]]캔디 팝 || CANDY♥ || [[코사카 리유|♪♪♪♪♪]] || おしゃれずきん[[br]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 180 || 43단계 || {{{#blue 8}}} || {{{#green 23}}} || {{{#orange 31}}} || {{{#red 38}}} ||
+|| 50단계 || {{{#blue 5(3키)}}} || {{{#green 29}}} || {{{#orange 37}}} || {{{#red 44}}} ||
+|||| 노트수 || {{{#blue 223/177}}} || {{{#green 386}}} || {{{#orange 666}}} || {{{#red 930}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+[[팝픈뮤직]] 8에 이식되었다. DDR 수록곡으로서는 최초로 팝픈뮤직에 이식된 노래.
+
+17때 잠깐 삭제되었다가 19 튠스트릿 때 부활. 부활하면서 포터블 2의 EX채보가 이식되었다. EX 채보는 동시치기 위주의 채보. 중반의 발광패턴은 주의.

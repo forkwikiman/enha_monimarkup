@@ -1,0 +1,18 @@
+상위 링크 - [[키라링☆레볼루션]]
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer14938' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=46B3636E202633A254F80E798E7B382BB0E8&outKey=V122c04846f543f2afab657aa820458275cd789c239d3c4761ac357aa820458275cd7' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=46B3636E202633A254F80E798E7B382BB0E8&outKey=V122c04846f543f2afab657aa820458275cd789c239d3c4761ac357aa820458275cd7' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer14938' id='NFPlayer14938' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+일본판
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer97569' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C212546441D514879C3F1A6CEA842E81D1D8&outKey=V1289c21c2202cfd01d8fbe5e9e12f048dbaf344c090706172bc7be5e9e12f048dbaf' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=C212546441D514879C3F1A6CEA842E81D1D8&outKey=V1289c21c2202cfd01d8fbe5e9e12f048dbaf344c090706172bc7be5e9e12f048dbaf' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer97569' id='NFPlayer97569' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+한국판
+
+[[키라링☆레볼루션]](라라의 스타일기)에서 1기 엔딩에 쓰인 곡이다. 한국판의 제목은 불명이며 인터넷상에선 주로 '무지개 크레파스'로 칭해진다.[* 일본판에 익숙한 사람은 일본판의 제목으로 지칭한다.] 다양한 음식과 잔잔한 멜로디가 특징이며 이 엔딩부터 [[물빛멜로디]]까지는 키라리만이 단독으로 등장한다.
+
+삽입곡으로는 8화에 쓰였으며 [[츠키시마 키라리]](라라)가 애니메이션에서 데뷔할 시기에 부른 곡이기도 하다. 이 곡을 시작으로 키라리는 본격적으로 연예계로 뛰어들게 된다. --그러나 이 시기에 벌인 민폐의 양은 상상을 초월한다. 당분간은 갚느라 고생하지 않았을까?--
+
+코믹스에서는 이 곡 대신에 키라링☆레볼루션이란 곡으로 데뷔를 하게 된다.
+
+[[각주]]

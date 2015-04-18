@@ -1,0 +1,184 @@
+[http://www.railsimulator.com Railsimulator.com]의 [[철도]] [[시뮬레이션 게임]]인 [[트레인 시뮬레이터]]의 [[DLC]]를 설명하는 항목.
+
+[[목차]]
+== 개요 ==
+~~본 게임보다 목록이 더 길어 보이는건 착각이다~~
+트레인 시뮬레이터의 DLC는 크게 [[wiki:"철도차량 관련 정보" 차량]]과 [[wiki:"철도 노선 정보" 노선]]으로 나뉘어진다. 노선 DLC 안에는 기본적인 디폴트 차량들이 포함돼있고[* 디폴트 차량마저 없으면 노선 DLC만 구입했을때 할수있는것이 아무것도 없기 때문.] 거기에 추가적으로 차량 DLC를 이어나가는 형식인데 이러한 구조 상, 대부분의 차량 DLC들은 미션 수행을 위한 상위 노선 DLC를 요구하게 된다. 노선 DLC가 없는 경우 퀵스타트 운전[* 차량, 노선을 사용자 입맛에 골라 즐기는것.]이 가능하지만 노선을 필요로 하는 미션 진행은 불가능하다.
+
+== DLC 목록 ==
+=== 북미 노선 ===
+==== Portland Terminal ====
+http://cdn.steampowered.com/v/gfx/apps/65215/header_292x136.jpg?t=1349987310
+
+2011년 3월 26일 출시.
+
+===== B&M GE44 =====
+http://cdn.steampowered.com/v/gfx/apps/222548/header_292x136.jpg?t=1358895010
+
+2013년 1월 18일 출시.
+
+==== Horseshoe Curve ====
+http://cdn.steampowered.com/v/gfx/apps/65233/header_292x136.jpg?t=1349987310
+
+2011년 9월 24일 출시.
+
+===== PRR K4 =====
+http://cdn.steampowered.com/v/gfx/apps/65247/header_292x136.jpg?t=1355329859
+
+2012년 2월 10일 출시.
+
+===== GE44 PRR =====
+http://cdn.steampowered.com/v/gfx/apps/208341/header_292x136.jpg?t=1345790622
+
+2012년 8월 24일 출시.
+
+===== PRR Baldwin Centipede =====
+http://cdn.steampowered.com/v/gfx/apps/208318/header_292x136.jpg?t=1354560696
+
+2012년 11월 30일 출시.
+
+===== AT&N Consolidation =====
+http://cdn.steampowered.com/v/gfx/apps/222549/header_292x136.jpg?t=1363251239
+
+2013년 3월 14일 출시.
+
+===== PRR Alco RS11 =====
+http://cdn.steampowered.com/v/gfx/apps/222574/header_292x136.jpg?t=1365182734
+
+2013년 4월 5일 출시.
+
+==== Ohio Steel 2 ====
+http://cdn.steampowered.com/v/gfx/apps/65243/header_292x136.jpg?t=1349987310
+
+2012년 1월 13일 출시.
+
+==== Northeast Corridor ====
+http://cdn.steampowered.com/v/gfx/apps/65232/header_292x136.jpg?t=1348614559
+
+2012년 6월 7일 출시.
+
+===== [[Amtrak]] [wiki:"아셀라 익스프레스" Acela Express] =====
+http://cdn.steampowered.com/v/gfx/apps/65231/header_292x136.jpg?t=1349987310
+
+2011년 10월 14일 출시.
+
+===== [wiki:"PRR GG1" GG1] =====
+http://cdn.steampowered.com/v/gfx/apps/65242/header_292x136.jpg?t=1355329859
+
+2011년 12월 10일 출시.
+
+==== Cajon Pass ====
+http://cdn.steampowered.com/v/gfx/apps/208307/header_292x136.jpg?t=1348093460
+
+2012년 9월 19일 출시.
+
+===== SD75 =====
+http://cdn.steampowered.com/v/gfx/apps/65259/header_292x136.jpg?t=1355329859
+
+2012년 5월 11일 출시.
+
+===== Dash 9 =====
+http://cdn.steampowered.com/v/gfx/apps/208356/header_292x136.jpg?t=1350961682
+
+2012년 8월 2일 출시.
+
+===== SD70 Volume 2 =====
+http://cdn.steampowered.com/v/gfx/apps/208365/header_292x136.jpg?t=1351979582
+
+2012년 8월 4일 출시.
+
+===== SW1500 Switcher =====
+http://cdn.steampowered.com/v/gfx/apps/208367/header_292x136.jpg?t=1351981234
+
+2012년 8월 4일 출시.
+
+===== SD70Ace =====
+http://cdn.steampowered.com/v/gfx/apps/208362/header_292x136.jpg?t=1354560696
+
+2012년 8월 4일 출시.
+
+===== GE44 UP =====
+http://cdn.steampowered.com/v/gfx/apps/208342/header_292x136.jpg?t=1345769148
+
+2012년 8월 24일 출시.
+
+==== Sherman Hill ====
+http://cdn.steampowered.com/v/gfx/apps/208286/header_292x136.jpg?t=1352917774
+
+2012년 9월 21일 출시.
+
+===== [wiki:"UP 4-8-8-4 Big Boy" Union Pacific Big Boy] =====
+http://cdn.steampowered.com/v/gfx/apps/208361/header_292x136.jpg?t=1353700453
+
+2012년 11월 24일 출시.
+
+===== Union Pacific Challenger =====
+http://cdn.steampowered.com/v/gfx/apps/208350/header_292x136.jpg?t=1354560696
+
+2012년 11월 24일 출시.
+
+===== Union Pacific [[SD45]] =====
+http://cdn.steampowered.com/v/gfx/apps/208319/header_292x136.jpg?t=1354833503
+
+2012년 12월 7일 출시.
+
+==== Donner Pass: Southern Pacific ====
+http://cdn.steampowered.com/v/gfx/apps/65239/header_292x136.jpg?t=1356562592
+
+2012년 12월 22일 출시.
+
+===== Cab Forward =====
+http://cdn.steampowered.com/v/gfx/apps/208292/header_292x136.jpg?t=1348093747
+
+2012년 8월 24일 출시.
+
+===== F40PH California Zephyr =====
+http://cdn.steampowered.com/v/gfx/apps/208296/header_292x136.jpg?t=1349987311
+
+2012년 10월 5일 출시.
+
+===== Southern Pacific [[GE44]] =====
+http://cdn.steampowered.com/v/gfx/apps/222550/header_292x136.jpg?t=1360355167
+
+2013년 2월 1일 출시.
+
+===== Southern Pacific [[SD45]] =====
+http://cdn.steampowered.com/v/gfx/apps/222551/header_292x136.jpg?t=1360856929
+
+2013년 2월 15일 출시.
+
+==== Marias Pass ====
+http://cdn.steampowered.com/v/gfx/apps/222561/header_292x136.jpg?t=1365704184
+
+2013년 4월 11일 출시.
+
+===== [[BNSF]] [wiki:"EMD SD40-2" SD40-2] =====
+http://cdn.steampowered.com/v/gfx/apps/222577/header_292x136.jpg?t=1365680454
+
+2013년 4월 11일 출시.
+
+=== 유럽 노선 ===
+==== Cologne - Dusseldorf ====
+http://cdn.steampowered.com/v/gfx/apps/65246/header_292x136.jpg?t=1349987311
+
+2012년 3월 9일 출시. 해당 노선은 [[쾰른-뒤스부르크 선]]의 [[쾰른 중앙역]]-[[뒤셀도르프 중앙역]] 구간이다.
+
+===== [wiki:"독일국영철도 243형" DB BR143] =====
+http://cdn.steampowered.com/v/gfx/apps/208281/header_292x136.jpg?t=1349987311
+
+2012년 5월 25일 출시. [wiki:"독일국영철도 243형" 해당 차종]은 노르트라인-베스트팔렌 지역에서 [[RE]], [[S반]]을 주로 견인한다.
+
+==== Munich to Augsburg ====
+http://cdn.steampowered.com/v/gfx/apps/208288/header_292x136.jpg?t=1352917561
+
+2012년 10월 11일 출시.
+
+===== [[ICE 3]] =====
+http://cdn.steampowered.com/v/gfx/apps/208283/header_292x136.jpg?t=1347387056
+
+2012년 8월 10일 출시. [wiki:"인터시티익스프레스" 더 이상의 설명이 필요한지?]
+
+===== [[ICE 2]] =====
+http://cdn.steampowered.com/v/gfx/apps/222545/header_292x136.jpg?t=1357854756
+
+2013년 1월 11일 출시.

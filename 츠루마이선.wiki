@@ -1,0 +1,54 @@
+||<-4><#333333><table align=center><:>[wiki:"나고야 시영 지하철" <span style="font-weight:bold;color:white">나고야 시영 지하철 운행 노선</span>] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg/40px-Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg.png||<#eeeeee> [[히가시야마선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg/40px-Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg.png||<#04acdd> '''{{{#ffffff 츠루마이선 }}}''' ||
+||<|2><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg/40px-Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg.png||<#eeeeee> [[메이죠선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg/40px-Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg.png||<#eeeeee> [[사쿠라도오리선]] ||
+||<#eeeeee> [[메이코선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg/40px-Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg.png||<#eeeeee> [[카미이이다선]] ||
+
+||<table align=left><#04acdd><:>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nagoya-subway1.svg/60px-Nagoya-subway1.svg.png ||
+|| {{{+1 鶴舞線 / '''T'''surumai line}}} ||
+ * [[일본 철도 정보/노선 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/N3101H%EF%BC%86N3102H_in_Nissin.JPG/600px-N3101H%EF%BC%86N3102H_in_Nissin.JPG
+--누구세요?--
+[[목차]]
+== 개요 ==
+||||<#04acdd> {{{#ffffff 3호선 츠루마이선}}} ||
+||운영기관 ||나고야 시 교통국 ||
+||영업거리 ||20.4km ||
+||궤간 ||1067mm ||
+||역수 ||20 ||
+||전기 ||직류 1500V 가공전차선 방식 ||
+||편성 ||6량 ||
+||신호방식 ||CS-ATC||
+||영업최고속도 ||75km/h ||
+||차량기지 ||닛신 차고 ||
+||지상구간 ||카미오타이역 부근 ||
+
+[[나고야 시 교통국]]에서 운영하는 [[나고야 시영 지하철]]의 노선으로 이미지 컬러는 파란색이다. 나고야를 서북에서 동남으로 관통하는 노선이며 카미오타이 역에서 [[나고야 철도]] [[wiki:"메이테츠 이누야마선" 이누야마선]], 아카이케 역에서 [[wiki:"메이테츠 토요타선" 토요타선]]/[[wiki:"메이테츠 미카와선" 미카와선]]과 직결운행하여 각각 [[이누야마역]], [[토요타시역]]까지 간다.
+
+== 노선 ==
+2012년 12월 14일 모든 역의 문서가 작성되었다.
+
+|| 번호 || 역명 || 승강장 || 환승노선 ||
+||<-4>↑ [[나고야 철도]] [[이누야마선]] 이누야마 방면 ||
+||<#ccffff> T-01 ||<#ccffff> [wiki:"카미오타이역" 카미오타이][[br]]上小田井 ||<#ccffff> 2면 4선 ||<#ccffff> {{{#ccfff }}} ||
+|| T-02 || [wiki:"쇼나이 녹지공원역" 쇼나이 녹지공원][[br]]庄内緑地公園 || 상대식 || ||
+|| T-03 || [wiki:"쇼나이도오리역" 쇼나이도오리][[br]]庄内通 || 섬식 || ||
+|| T-04 || [wiki:"죠신역" 죠신][[br]]浄心 || 상대식 || ||
+|| T-05 || [wiki:"센겐쵸역" 센겐쵸][[br]]浅間町 || 상대식 || ||
+|| T-06 || [wiki:"마루노우치역(나고야 시영 지하철)" 마루노우치][[br]]丸の内 || 섬식 ||¶[[나고야 시영 지하철]] [[사쿠라도오리선]](S-04)||
+|| T-07 || [wiki:"후시미역(나고야)" 후시미][[br]]伏見 || 상대식 ||¶[[나고야 시영 지하철]] [[히가시야마선]](H-09)||
+|| T-08 || [wiki:"오스칸논역" 오스칸논][[br]]大須観音 || 상대식 || ||
+|| T-09 || [wiki:"카미마에즈역" 카미마에즈][[br]]上前津 || 상대식 ||¶[[나고야 시영 지하철]] [[메이죠선]](M-03)||
+|| T-10 || [wiki:"츠루마이역" 츠루마이][[br]]鶴舞 || 상대식 ||¶[[도카이 여객철도]] [[츄오 본선]] ||
+|| T-11 || [wiki:"아라하타역" 아라하타][[br]]荒畑 || 상대식 || ||
+|| T-12 || [wiki:"고키소역" 고키소(쇼와 구청)][[br]]御器所(昭和区役所) || 상대식 ||¶[[나고야 시영 지하철]] [[사쿠라도오리선]](S-10)||
+|| T-13 || [wiki:"카와나역(나고야)" 카와나][[br]]川名 || 상대식 || ||
+|| T-14 || [wiki:"이리나카역" 이리나카][[br]]いりなか || 상대식 || ||
+|| T-15 || [wiki:"야고토역" 야고토][[br]]八事 || 섬식 ||¶[[나고야 시영 지하철]] [[메이죠선]](M-20)||
+|| T-16 || [wiki:"시오가마구치역" 시오가마구치][[br]]塩釜口 || 섬식 || ||
+|| T-17 || [wiki:"우에다역(나고야)" 우에다][[br]]植田 || 상대식 || ||
+|| T-18 || [wiki:"하라역(나고야)" 하라][[br]]原 || 상대식 || ||
+|| T-19 || [wiki:"히라바리역" 히라바리][[br]]平針 || 상대식 || ||
+|| T-20 || [wiki:"아카이케역(아이치현)" 아카이케][[br]]赤池 || 2면 3선 || ||
+||<-4>↓ [[나고야 철도]] [[토요타선]], [[미카와선]] 토요타시 방면 ||
+
+[[footnote]]

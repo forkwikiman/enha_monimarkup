@@ -1,0 +1,53 @@
+|| 장르 |||||||| [[MMORPG]] ||
+|| 곡명 |||||||| B.O.W. ~Battle of Wilderness has started~ ||
+|| 작곡 |||||||| [[CROOVE]] ||
+|| 배경 |||||||| [wiki:"Forte Escape" FE] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 4th]] ||
+|| BPM |||||||| 125→135→140→145→150 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* EC에서 삭제됨] || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple 12}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 10}}} || {{{#purple 12}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='F_NHpAFydE8$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=F_NHpAFydE8$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=F_NHpAFydE8$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 4thTRAX ~Over Mind~]] '''BGA'''
+
+[[목차]]
+== 개요 ==
+EZ2DJ 4th의 수록곡. 장르가 MMORPG인 독특한 곡이다. 
+
+== 패턴 ==
+초중반의 폭타와 최후반의 가속 폭타가 유명한 패턴.
+
+노멀과 하드, 하드와 슈퍼하드의 난이도가 체감상 그렇게 크지 않다는게 특징이다. 이 점은 7키에서도 마찬가지. 7th 2.0의 [[znpfg]]채널에서만 나오는 패턴이 존재하는데, 이쪽은 확실히 슈퍼하드보다 어려운 느낌. 슈퍼하드의 경우엔 랜덤을 걸 경우 무조건 난이도가 정배보다 상승한다. AC의 7키 슈퍼하드의 경우엔 하드인 10의 채보에서 적당히 셔플된 패턴이기 때문에 하드를 무난하게 클리어한다면 슈퍼하드인 12는 절대 클리어하지 못할 리 없는 수준(!)이니, 겁먹지 말고 도전해보자.
+
+7th 1.5의 캐치에서는 표기난이도가 '''1'''로 출현하는 버그가 있다.
+
+그리고 아래는 B.O.W SHD 슈랜 영상 
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='0IG4-SczVSw$' width='642px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=0IG4-SczVSw$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=0IG4-SczVSw$' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+제로 하드 폭타 부분과 흡사하다.
+
+{{{#!HTML
+<iframe width="450" height="350" src="//www.youtube.com/embed/mhJ23hrM6Mw" frameborder="0" allowfullscreen></iframe>
+}}}
+캐치에서는 레벨 8로 나오는데, 지뢰곡이다. 초중반에는 그냥저냥 노트가 나오다가(겹노트도 짜증나긴 하지만), 영상 1:22 부근부터 웰컴 투 헬. 무지막지막 비비기 후에 최후반부에는 폭타가 쏟아진다. 이래저래 레벨 8로는 보기 어렵다. 최소 11?
+
+
+[[파이널 판타지]]느낌이 많이 나는 BGA도 박진감 넘치고 좋다. 다만 기계로 플레이시 렉이 '''자주''' 걸리는 곡이다.
+
+
+
+

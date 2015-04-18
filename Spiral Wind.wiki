@@ -1,0 +1,79 @@
+||||||||||<#288CFF> '''15일 연속 신곡 해금 이벤트 Summer Festa XG2+''' ||
+|| [wiki:"イバラノミチ" attachment:イバラノミチ/ibara.jpg] || [wiki:"たからもの#s-2" attachment:たからもの/takaramono.jpg] || [wiki:"Adverse Criticism" attachment:Adverse%20Criticism/adverse.jpg] ||
+|| [wiki:"우세오버도스#s-2" attachment:우세오버도스/overdose.jpg] || [wiki:"gloom" attachment:gloom/gloom.jpg] || [wiki:"Spiral Wind" attachment:Spiral%20Wind/spiralwind.jpg] ||
+|| [wiki:"no way..." attachment:no%20way.../noway.jpg] || [wiki:"나데시코메탈#s-3" attachment:黒髪乱れし修羅となりて/kurokami.jpg] || [wiki:"Come Back Alive" attachment:Come%20Back%20Alive/comebackalive.jpg] ||
+|| [wiki:"Around 40" attachment:Around%2040/around40.jpg] || [wiki:"Sacred Oath#s-3" attachment:Sacred%20Oath/sacredoath.jpg] || [wiki:"明鏡止水#s-3.3" attachment:명경지수/meikyo.jpg] ||
+|| [wiki:"行き過ぎて後に" attachment:行き過ぎて後に/yukisaki.jpg] || [wiki:"REALIZE" attachment:REALIZE/realize.jpg] || [wiki:"Bangin' Breaks" attachment:Bangin'%20Breaks/bangin.jpg] ||
+
+
+[[기타프릭스]] & [[드럼매니아]] XG2 수록곡
+
+attachment:spiralwind.jpg
+
+{{{#!html
+<object width="600" height="437"><param name="movie" value="http://www.youtube.com/v/sr6skUF96ag?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sr6skUF96ag?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="437" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲드럼 익스퍼트 영상
+
+{{{#!html
+<object width="600" height="335"><param name="movie" value="http://www.youtube.com/v/DQWSpbO-mKY?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DQWSpbO-mKY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="335" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲기타 표준 / 베이스 익스퍼트 영상
+
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"드럼매니아&기타프릭스/XG" XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 220 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} ||
+|| {{{#blue 2.60}}} || {{{#orange 4.20}}} || {{{#red 6.25}}} ||
+|| 기타 베이스 || {{{#blue 2.80}}} || {{{#orange 4.80}}} || {{{#red 6.15}}} ||
+|| 드럼매니아 || {{{#blue 2.80}}} || {{{#orange 4.30}}} || {{{#red 8.80}}} ||
+
+
+8월 15일부터 15일간 진행되었던 신곡 해금 이벤트 'Summer Festa XG2+'의 6일차인 8월 20일 해금곡이다. 라이브포인트 24000 달성시 해금된다.
+
+[[Spiral Wind]]. 작곡은 대체 [wiki:"Chinese Snowy Dance"한 작품에] [wiki:"I can be!!"신곡을] [wiki:"blue moon"몇 개나] 낼 작정인지 궁금한 [[이즈미 무츠히코]].
+
+전체적으로 익스퍼트 8.80을 주기엔 좀 많이 느긋한 패턴인데, 그럼에도 불구하고 이 곡에 8 후반대의 난이도가 붙은 이유는 '''특정 부분'''에 어려운 패턴이 몰려있기 때문이다. 같은 작곡가의 [wiki:"Chinese Snowy Dance"눈 춤 세번째 시리즈]와 비슷한 이유로 난이도가 높아졌다고 볼 수 있겠다.
+
+일단 첫번째로 얼핏 '''3개 동시치기'''로 보일 '''수''' 있는 부분이 등장하는데, 당연히 사람이 치라고 만든 이상 3개 동시치기는 당연히 [wiki:"오징어 소녀" 아니다].
+
+attachment:spiral1.jpg
+
+정확히는 플로어 탐과 스네어를 동시에 친 직후 '''32분'''으로 로우탐 하나가 떨어지는 구성이다. 
+'''0.034초''' 간격으로 미끄러지듯 처리하면 되는 부분이지만 말은 쉽다(...). 저 부분 이외에도 동시치기 처럼 보이는 32분 치기가 여러 번 등장~~하여 플레이어를 엿먹게끔~~한다.
+
+두번째로 등장하는 난관은 곡 등장 당시에 '''역대 최고 속도를 갱신'''한 '''투베이스 연타'''부분이다.
+BPM '''220'''에 16분으로, 등장 당시에'''는''' 최속이었다. 
+
+아니나 다를까 며칠 후에 [wiki:"REALIZE"바로 깨졌다](...). 이쪽은 BPM '''233'''에 16분.
+
+attachment:spiral2.jpg
+
+마지막에는 빠지면 섭한 초고속 탐돌리기가 등장한다. 32분과 24분, 16분이 고루 섞인 변태적인 돌리기 + 연타 패턴. 사실 아주 옛날부터 [wiki:"DAY DREAM"본 적은 있다]. 마찬가지로 못 칠 뿐이다(...).
+
+attachment:spiral3.jpg
+attachment:spiral4.jpg
+
+저 특정 부분을 제외한 나머지 부분들은 정말 느긋해서 기껏해야 6 줄 수 있을까 말까 하는 정도.
+음악은 좋지만 역시 보면이 꽝이라고 까기도 한다. 클리어는 무난, 풀 콤보 난이도는 극상.
+
+기타쪽의 경우 표준/베이스 모두 표기 난이도에 비해 체감 난이도가 높다. 회복구간은 충분하지만 고속 속주 부분 덕분에 풀 콤보 난이도는 높다.
+
+[[열투! BEMANI 스타디움]] PV영상의 배경음으로 사용되었다.
+
+== 코멘트 ==
+
+>오래간만에 하드 락 계의 연주곡을 만들었습니다. 일렉 피아노의 반주를 조미료처럼 곁들여 요즘 느낌의 하드 락은 아니고 70년대에 유행했던 퓨전의 분위기를 조금 내 보았습니다.
+>
+>당시는 퓨전이 아니라 크로스오버라고 불렀어요.
+>재즈와 락이 융합했다고 하여 그렇게 불리고 있었습니다.
+>
+>그렇지만 기타 솔로 부분은 완전히 락 기타가 되어 버렸습니다.
+>이것으로는 퓨전 노래에서 느낄 수 있는 특유의 지적인 느낌이 느껴지지 않지만,
+>
+>이쪽이 뜨겁고 괜찮을까…라고. 뭐, 어쨌든 좋지요. (;^_^)
+>기타는 Vanzandt(반잔트)의 스트라토를 사용했습니다.
+>
+>모 악기 가게에서 만들어 준 물색 보디-의 이 기타.
+>섬세한 소리부터 굵은 소리까지 낼 수가 있으므로
+>최근의 녹음에 대활약한 믿음직한 녀석이랍니다.

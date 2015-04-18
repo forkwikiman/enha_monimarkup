@@ -1,0 +1,12 @@
+ * 상위 항목: [[EZ2ON]]
+
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/bKxPUnVzJM4?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/bKxPUnVzJM4?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+EZ2ON 논스톱 리믹스 3번.
+
+'라스트 오픈베타' 프로모션 동영상에 사용된 곡을 그대로 게임용으로 썼다. BGA마저도 프로모션 동영상을 그대로 때려박았다. 그러니까, 프로모션 동영상이기 때문에 항마력이 떨어진다면 소개글이니 눈큰 캐릭터니 해서 주위에 신경이 쓰일 수 있다. ~~물론 BGA를 끄고 하면 상관없다만~~ 이지투온에서도 리믹스에 크게 신경쓰지 않은 듯. 곡의 순서는 [Black Market] - [Exist] - [Envy Mask] - [Minus 2]. 2번 리믹스와 마찬가지로 곡들이 자연스럽게 넘어가는 느낌이 없어 많은 아쉬움을 남겼다.
+
+이번 곡은 곡이 바뀔 때 마다 변속이 들어가있다. 그래서 마지막 [[Minus 2]]가 나올 때 속도를 조절하지 못해서 폭사하거나 콤보가 끊기는 경우가 다반사였다.

@@ -1,0 +1,73 @@
+[[목차]]
+
+== 개요 ==
+[[비마니 시리즈]]의 수록곡. 작곡은 [[후지모리 소타]]. [[beatmania IIDX 16 EMPRESS]]의 수록곡 [[Fly Above]]에서 모티브를 얻어 만든 후속곡 개념이며, 보컬도 Fly Above의 [[Aimee Blackschleger|AiMEE]]. 맑은 음색의 트랜스와 AiMEE의 보컬이 어우러진 곡이다.
+
+== [[비트매니아 IIDX]] ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/QXjYru2JPZQ" frameborder="0" allowfullscreen></iframe>}}}
+SPA 플레이 영상
+
+||<|2><:> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 149 || {{{#blue 4}}} || {{{#blue 386}}} || {{{#orange 7}}} || {{{#orange 745}}} || {{{#red 9}}} || {{{#red 1072}}} || {{{#blue 5}}} || {{{#blue 495}}} || {{{#orange 7}}} || {{{#orange 754}}} || {{{#red 9}}} || {{{#red 1107}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 20 tricoro ~
+
+푸른 하늘을 배경으로 [[HDLV]]가 제작한 고퀄리티의 디지털 앱스트랙트 모션그래픽 BGA가 어우러져 Fly Above와 마찬가지로 큰 호평을 받았다. 패턴의 난이도는 적당한 편이며 후반부에 잠깐 나오는 스크래치 폭타는 주의하자.
+
+=== 아티스트 코멘트 ===
+||Sound / Sota Fujimori
+
+Fly Above 같은 웅장하고 전개감이 있는 드라마틱한 [트랜스(음악)|TRANCE]를 만들어줬으면 좋겠다는 주문을 받아 제작했습니다.
+
+Fly Above의 가창은 물론, 가사가 정말 멋있어서 이번에도 지난번과 같은 Aimee씨께 보컬과 작사를 부탁드렸습니다.
+
+Fly Above의 가사의 가장 끝에 "There In Heaven"이라는 부분이 있는데,
+여기서 힌트를 얻어서 In Heaven이라는 타이틀을 붙여봤습니다.
+
+천국에서 다시 만난다면 이라는 러브 송입니다. 들어봐주세요♪
+
+Movie / alo
+
+소리 자체가 독특한 세계관을 이미 갖고 있는 악곡이라고 생각해서
+저도 거기에 맞춰서 생각한 대로 세계관을 따라서 영상으로 뽑아냈습니다.
+||
+
+== [[리플렉 비트 시리즈]] ==
+attachment:In_Heaven.png
+
+||2008년에 제가 제작한 [Fly Above]라는 곡의 가사 가장 마지막에 "There In Heaven"이라는 곳이 있습니다. 거기에서 힌트를 얻어 In Heaven이라는 타이틀을 붙여 보았습니다. 천국에도 다시 만날 수 있었으면, 하는 러브 송입니다. 들어봐 주세요♪ < [[Sota Fujimori]] >
+
+- [[리플렉 비트 콜레트]] OST vol.1||
+
+||||||<:>'''PASTEL ADVENTURE'''||
+||||||<#8e8eff><:>'''[wiki:"리플렉 비트 콜레트" colette] 산맥 제2'''||
+||||||<:>'''In Heaven'''||
+||||||<:>[純白レジエンド -冬-]||
+||||||<:>[Fantasia]||
+||||||<:>[Wizard]||
+||||||<:>[London EVOLVED]||
+||||||<:>[December Breeze]||
+
+|||||||||||||| [[리플렉 비트 시리즈|리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 149 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} || {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#08AFDB 9}}} ||
+|| 오브젝트 || {{{#green 97}}} || {{{#orange 216}}} || {{{#red 346}}} || {{{#08AFDB 497}}} ||
+|| 수록버전 ||||||||||<#8e8eff> [리플렉 비트 콜레트] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 35 ||
+||||||||||<#ffffff>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} : 보면 추가 (그루빈) ||
+
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/QCfu4fxepTE?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[리플렉 비트 콜레트]]에도 이식 수록되었다. 자켓 이미지는 후지모리 소타의 4집인 SYNTHESIZED 4의 앨범 자켓을 그대로 가져왔다. 투덱 음원과는 미묘하게 다른데, 도입부에 '''In Heaven'''음성을 추가하고 후반부에 우블 베이스로 반복되는 부분을 한번으로 쳐냈다.[* 앨범자켓도 그렇고 음원도 앨범버전을 커팅한쪽에 가까워, 트리코로에서 이식했다기보단 앨범 발매기념으로 이식했다는 쪽이 맞다.] 패턴 자체는 멜로디를 따라가서 비교적 쉽게 나왔다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/kUVJ7dRfz5A" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[SYNTHESIZED 5]] 발매 기념으로 추가된 [wiki:"리플렉 도장" 후지모리 소타 검정]에 SPECIAL보면이 추가되었다. 전체적으로 박자를 추가하고 탑노트의 비중이 많이 늘었다. [[Need Your Love]]처럼 탑노트 낚시에 낚이지 않는것이 관건.

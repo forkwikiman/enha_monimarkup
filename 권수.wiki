@@ -1,0 +1,142 @@
+||<-5><#4646cd><tablealign=center> '''프로필''' ||
+||<|15> http://cdn.bulbagarden.net/upload/thumb/3/3e/Omega_Ruby_Alpha_Sapphire_Drake.png/470px-Omega_Ruby_Alpha_Sapphire_Drake.png?width=360 ||
+||<#4646cd> '''이름''' ||<#6633ff><-2><font color="#ffffff"> 권수 ||
+||<#4646cd> '''성별''' ||<#6633ff><-2> [wiki:"남성"<font color="#FFFFFF">남성</font>] ||
+||<#4646cd> '''눈 색깔''' ||<#6633ff><-2> [wiki:"눈/검은색"<font color="#FFFFFF">흑색</font>] ||
+||<|1><#4646cd> '''트레이너 계급''' ||<#6633ff><-2> [[wiki:"사천왕(포켓몬스터)"<font color="#FFFFFF">사천왕</font>]] ||
+||<#4646cd> '''지방''' ||<#6633ff><-2><font color="#ffffff"> 호연지방 ||
+||<#4646cd> '''출신지''' ||<#6633ff><-2><font color="#ffffff"> 불명 ||
+||<#4646cd> '''가족관계''' ||<#6633ff><-2><font color="#ffffff"> 불명 ||
+||<#4646cd> '''담당 지역''' ||<#6633ff><-2><font color="#ffffff"> [[그랜드시티|<font color="#FFFFFF">그랜드시티</font>]] ||
+||<#4646cd> '''주된 타입''' ||<#6633ff><-2> [[wiki:"포켓몬스터/타입/설명#s-2.15" attachment:/Pokemon_Type_Dragon_2.png]] ||
+||<#4646cd> '''데뷔작''' ||<#6633ff><-2> [wiki:"포켓몬스터 루비·사파이어"<font color="#FFFFFF">포켓몬스터 루비·사파이어</font>] ||
+||<#4646cd> '''세대''' ||<#6633ff><-2><font color="#ffffff"> 3, 6 ||
+||<#4646cd> '''등장 게임''' ||<#6633ff><-2> [[wiki:"포켓몬스터 루비·사파이어"<font color="#FFFFFF">루비·사파이어</font>]][[br]][[wiki:"포켓몬스터 에메랄드"<font color="#FFFFFF">에메랄드</font>]][[br]][포켓몬스터 오메가루비·알파사파이어|<font color="#FFFFFF">오메가루비·알파사파이어</font>] ||
+||<|2><#4646cd> '''성우''' ||<#6633ff> [[wiki:"이이즈카 쇼조"<font color="#FFFFFF">이이즈카 쇼조</font>]] ||<#6633ff> attachment:/20px-Japan_Flag.png ||
+||<#6633ff><:> [[wiki:"장광"<font color="#FFFFFF">장광</font>]] ||<#6633ff> attachment:/20px-South_Korea_Flag.png ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/사천왕)]]
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물.
+
+[[호연지방]] [[사천왕(포켓몬스터)|사천왕]]의 일원이자 드래곤 타입 전문 포켓몬 트레이너. 오래전 포켓몬의 도움으로 목숨을 건진 바가 있어 이에 보답하기 위해 지금의 위치까지 올랐다고 하며, 포켓몬 트레이너에게 필요한 것은 올바른 마음이라 여기고 있다. 또한 포켓몬 리그에 대한 자부심이 높아 [wiki:"배틀프런티어(포켓몬스터)" 배틀프런티어]를 탐탁지 않게 생각하고 있는 듯하다. 
+
+[[wiki:"오키타 쥬조" 전형적인]] [[wiki:"브루노 J. 글로벌" 함장의]] [[전투순양함|모습]]을 하고 있으며 실제로도 애니판에서는 선장으로 등장한다. 
+
+[[오루알사|오메가루비/알파사파이어]] 체험판으로 인해 새로운 모습이 공개되었는데 예전의 모습이랑 ~~전혀~~ 별 차이가 없으나 포즈가 간지 넘쳐서 괜찮은 평을 받는 중.
+
+[[보만다]]가 메가진화함으로써, 어쩌면 메가보만다를 사용할 것이라는 추측이 난무했으며, 이 역시 체험판으로 인해 재대결 매치에서 메가보만다를 사용한다는 것이 확인되었다. 즉, [["피아나(포켓몬스터)" 피아나]]와 에이스 포켓몬을 공유한다.
+
+6세대에서 하기노인의 친구라는 설정이 새로 생겼는데, 타이드립호에 처음 타면 권수와 하기노인이 대화를 나누는 모습을 볼 수 있다. 그리고 타이드립호 뱃머리에 가면 바람을 느끼면서 자신의 오랜 친구인 하기의 실력이 녹슬지 않았다며 말한다.
+
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed> * 사천왕 등장! (루비·사파이어, 에메랄드)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile23.uf.tistory.com/media/251B223C522AF410063F78"></object>}}}
+
+ * 전투! 사천왕 (루비·사파이어, 에메랄드)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile5.uf.tistory.com/media/273A9C3C522AF41B340EBB"></object>}}}
+
+ * 사천왕 등장! (오메가루비·알파사파이어)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile30.uf.tistory.com/media/2650194F548B9DDD2E2EBF"></object>}}}
+
+ * 전투! 사천왕 (오메가루비·알파사파이어)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile5.uf.tistory.com/media/214F694F548B9DE130DA8C"></object>}}}||
+
+=== 공략 ===
+드래곤 타입의 약점인 얼음 타입 공격만 있으면 쉽게 클리어할 수 있다. 허나 얼음타입이 없으면 우리팀 포켓몬이 순삭당할수도 있다... 사파이어 버전으로 도전할 시엔 [[가이오가]] 하나면 정리 끝. 여담이지만 [wiki:"목호" 치트를] [wiki:"사간" 후려갈기는] [wiki:"아이리스(포켓몬스터)" 다른 드래곤 타입] [wiki:"게치스" 트레이너들]과는 다르게 [[이향]]과 같이 치트를 단 한번도 쓰지않은 드래곤 타입 네임드다. 만약 2차전때 삼삼드래라도 데리고 왔다면 포켓몬스터 게임역사상 최초의 무치트 삼삼드래를 볼 뻔했다.
+
+2차전에서는 페어리 포켓몬에게 빅엿을 선사하기 위해 [[드래캄]]을 끌고 오나, 에스퍼 견제기가 없어서 [[드라세나]] 여사님의 드래캄과 마찬가지로 에스퍼의 밥이다. 그리고 드래캄만 잘 처리하면 2차전에서 페어리 포켓몬을 막을 수단이 없다. ~~결론은 [[가디안]] 하나면 끝난다는 소리~~
+ 
+=== 삽화 ===
+||<-3><#4646cd><tablealign=center> 스프라이트 ||
+|| attachment:/Spr_RS_Drake.png || attachment:/Drake_OD.png || http://img1.wikia.nocookie.net/__cb20141016121229/es.pokemon/images/f/f3/VS_Drac%C3%B3n_ROZA.png?width=150 ||
+|| 트레이너[[br]](RSE) || 필드[[br]](RSE) || VS[[br]](ORAS) ||
+
+||<#4646cd><tablealign=center> 일러스트 ||
+|| attachment:/Ruby_Sapphire_Drake2.png?align=center&width=230 ||
+|| 3세대 일러스트 ||
+  
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#4646cd"><:> 언어 || 이름 || 유래 ||
+|| 일본어 || 겐지 ゲンジ || 알록제비꽃이란 뜻의 '겐지스미레(源氏菫)'. ||
+|| 한국어 || 권수 || ||
+|| 영어 || 드레이크 Drake || Dragon의 변형명. 혹은 [프랜시스 드레이크]. ||
+
+=== 트레이너 아이/엔트리 콜 ===
+다음은 RSE에서 포켓몬 내비게이터의 기능 중 하나인 트레이너 아이(루비, 사파이어) 혹은 엔트리 콜(에메랄드)를 통해 볼 수 있는 트레이너의 상세 정보다.
+
+|| 칭호 || 사천왕 권수 ||
+|| 작전 || 뛰어난 능력으로 공격한다! ||
+|| 소지한 포켓몬 || 드래곤타입의 저력! ||
+|| 자기 소개 || 목숨을 구해준 포켓몬에게 모든 것을 쏟아붓는다
+
+포켓몬과 서로 이해하기 위해 오늘도 승부를 계속한다... ||
+
+= 소유 포켓몬 =
+== 루비·사파이어 ==
+||<tablealign=center><#6633ff> attachment:/Spr_3r_372.png ||<#6633ff> attachment:/Spr_3r_334.png ||<#cccc66> attachment:/Spr_3r_330.png ||<#cccc66> attachment:/Spr_3r_330.png ||<#6633ff> attachment:/Spr_3r_373.png ||
+||<#dcdcdc> [wiki:"보만다" 쉘곤] ♂[[br]](Lv.52) ||<#dcdcdc> [[파비코리]] ♂[[br]](Lv.54) ||<#dcdcdc> [[플라이곤]] ♂[[br]](Lv.53) ||<#dcdcdc> [[플라이곤]] ♂[[br]](Lv.53) ||<#dcdcdc> [[보만다]] ♂[[br]](Lv.55) ||
+|| __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.13"attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.13"attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] ||
+|| __특성__:[[br]]돌머리 || __특성__:[[br]]자연회복 || __특성__:[[br]]부유 || __특성__:[[br]]부유 || __특성__:[[br]]위협 ||
+|| __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]자뭉열매 ||
+|| __기술배치__ :[[br]][[드래곤크루]][[br]][[암석봉인]][[br]][[wiki:"방어#s-4"방어]][[br]][[깨물어부수기]] || __기술배치__ :[[br]][[wiki:"돌진#s-6"돌진]][[br]][[용의 숨결]][[br]][[용의 춤]][[br]][[리프레쉬]] || __기술배치__:[[br]][[wiki:"화염방사#s-4"화염방사]][[br]][[깨물어부수기]][[br]][[용의 숨결]][[br]][[모래뿌리기]] || __기술배치__:[[br]][[공중날기]][[br]][[구멍파기]][[br]][[용의 숨결]][[br]][[모래바람]] || __기술배치__:[[br]][[wiki:"화염방사#s-4"화염방사]][[br]][[드래곤크루]][[br]][[깨물어부수기]][[br]][[공중날기]] ||
+
+== 에메랄드 ==
+||<tablealign=center><#6633ff> attachment:/Spr_3e_372.gif ||<#6633ff> attachment:/Spr_3e_334.gif ||<#6699ff> attachment:/Spr_3e_230.gif ||<#cccc66> attachment:/Spr_3e_330.gif ||<#6633ff> attachment:/Spr_3e_373.gif ||
+||<#dcdcdc> [wiki:"보만다" 쉘곤] ♂[[br]](Lv.52) ||<#dcdcdc> [[파비코리]] ♂[[br]](Lv.54) ||<#dcdcdc> [[킹드라]] ♂[[br]](Lv.53) ||<#dcdcdc> [[플라이곤]] ♂[[br]](Lv.53) ||<#dcdcdc> [[보만다]] ♂[[br]](Lv.55) ||
+|| __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.5"attachment:/Pokemon_Type_Water.png]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.13"attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[wiki:"포켓몬스터/타입#s-3.11" attachment:/Pokemon_Type_Dragon.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] ||
+|| __특성__:[[br]]돌머리 || __특성__:[[br]]자연회복 || __특성__:[[br]]쓱쓱 || __특성__:[[br]]부유 || __특성__:[[br]]위협 ||
+|| __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]자뭉열매 ||
+|| __기술배치__ :[[br]][[드래곤크루]][[br]][[암석봉인]][[br]][[wiki:"방어#s-4"방어]][[br]][[이판사판태클]] || __기술배치__ :[[br]][[이판사판태클]][[br]][[용의 숨결]][[br]][[용의 춤]][[br]][[제비반환]] || __기술배치__:[[br]][[wiki:"파도타기#s-4"파도타기]][[br]][[누르기]][[br]][[용의 춤]][[br]][[연막]] || __기술배치__:[[br]][[wiki:"화염방사#s-4"화염방사]][[br]][[wiki:"지진(포켓몬스터)"지진]][[br]][[용의 숨결]][[br]][[깨물어부수기]] || __기술배치__:[[br]][[wiki:"화염방사#s-4"화염방사]][[br]][[드래곤크루]][[br]][[깨물어부수기]][[br]][[스톤샤워]] ||
+
+== 오메가루비·알파사파이어 ==
+=== 1차전 ===
+||<tablealign=center><#6633ff> http://play.pokemonshowdown.com/sprites/xyani/altaria.gif ||<#cccc66> http://play.pokemonshowdown.com/sprites/xyani/flygon.gif ||<#6699ff> http://play.pokemonshowdown.com/sprites/xyani/kingdra.gif ||<#cccc66> http://play.pokemonshowdown.com/sprites/xyani/flygon.gif ||<#6633ff> http://play.pokemonshowdown.com/sprites/xyani/salamence.gif ||
+||<#dcdcdc> [[파비코리]] ♂[[br]](Lv.53) ||<#dcdcdc> [[플라이곤]] ♂[[br]](Lv.53) ||<#dcdcdc> [[킹드라]] ♂[[br]](Lv.53) ||<#dcdcdc> [[플라이곤]] ♂[[br]](Lv.53) ||<#dcdcdc> [[보만다]] ♂[[br]](Lv.55) ||
+|| __타입__:[[br]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||
+|| __특성__:[[br]]자연회복 || __특성__:[[br]]부유 || __특성__:[[br]]스나이퍼 || __특성__:[[br]]부유 || __특성__:[[br]]위협 ||
+|| __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 ||
+|| __기술배치__ :[[br]][[제비반환]][[br]][[코튼가드]][[br]][[용의파동]][[br]][[문포스]] || __기술배치__ :[[br]][[지진(포켓몬스터)|지진]][[br]][[드래곤크루]][[br]][[스톤샤워]][[br]][[초음파]] || __기술배치__:[[br]][[용의파동]][[br]][[파도타기]][[br]][[하품]][[br]][[냉동빔]] || __기술배치__:[[br]][[화염방사]][[br]][[폭음파]][[br]][[용의파동]][[br]][[싫은소리]] || __기술배치__:[[br]][[드래곤다이브]][[br]][[사념의박치기]][[br]][[깨물어부수기]][[br]][[번개엄니]] ||
+
+=== 2차전 ===
+||<tablealign=center><#6633ff> http://play.pokemonshowdown.com/sprites/xyani/altaria.gif?width=120 ||<#a83ca8> http://play.pokemonshowdown.com/sprites/xyani/dragalge.gif?width=120 ||<#6699ff> http://play.pokemonshowdown.com/sprites/xyani/kingdra.gif ||<#cccc66> http://play.pokemonshowdown.com/sprites/xyani/flygon.gif?width=120 ||<#6633ff> http://play.pokemonshowdown.com/sprites/xyani/haxorus.gif ||<#6633ff> attachment:/Spr_oras_373-mega.gif?width=140 ||
+||<#dcdcdc> [[파비코리]] ♂[[br]](Lv.73) ||<#dcdcdc> [[드래캄]] ♂[[br]](Lv.73) ||<#dcdcdc> [[킹드라]] ♂[[br]](Lv.73) ||<#dcdcdc> [[플라이곤]] ♂[[br]](Lv.73) ||<#dcdcdc> [[액스라이즈]] ♂[[br]](Lv.73) ||<#dcdcdc> [[보만다|메가보만다]] ♂[[br]](Lv.75) ||
+|| __타입__:[[br]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || __타입__:[[br]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||
+|| __특성__:[[br]]자연회복 || __특성__:[[br]]독가시 || __특성__:[[br]]스나이퍼 || __특성__:[[br]]부유 || __특성__:[[br]]틀깨기 || __특성__:[[br]]스카이스킨 ||
+|| __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]없음 || __지닌 도구__:[[br]]보만다나이트 ||
+|| __기술배치__ :[[br]][[제비반환]][[br]][[코튼가드]][[br]][[용의파동]][[br]][[문포스]] || __기술배치__ :[[br]][[용의파동]][[br]][[하이드로펌프]][[br]][[오물웨이브]][[br]][[10만볼트]] || __기술배치__:[[br]][[용의파동]][[br]][[파도타기]][[br]][[하품]][[br]][[냉동빔]] || __기술배치__:[[br]][[화염방사]][[br]][[폭음파]][[br]][[용의파동]][[br]][[싫은소리]] || __기술배치__ :[[br]][[드래곤크루]][[br]][[지진(포켓몬스터)|지진]][[br]][[시저크로스]][[br]][[섀도크루]] || __기술배치__:[[br]][[드래곤다이브]][[br]][[사념의박치기]][[br]][[깨물어부수기]][[br]][[번개엄니]] ||
+
+여기 보만다 역시 노말기술이 없으므로 메가진화의 특성까지 살릴 수 없는 배치이다.
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 애니메이션 시리즈]]에서 ==
+attachment:/Drake_anime.png
+
+[[포켓몬스터 AG]] 101화에 등장.
+
+호연지방 사천왕 중 유일하게 애니메이션에 등장한 인물이다. 지우와의 일전에서 쉘곤으로 [[wiki:"피카츄(한지우)" 지우의 피카츄]]를, [[파비코리]]로 나무돌이를 쓰러뜨린다. 이후 등장한 로켓단을 [[보만다]]를 꺼내 일격에 날려버린다.

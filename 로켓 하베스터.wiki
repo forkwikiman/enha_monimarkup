@@ -1,0 +1,19 @@
+http://goto2020.cdn1.cafe24.com/img/game/tw/kw/icon/gdi/unit/rocket_harvester.png
+http://goto2020.cdn1.cafe24.com/img/game/tw/kw/ingame/gdi/unit/rocket_harvester.jpg
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/0vOhfvR5uRM?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/0vOhfvR5uRM?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="480" height="360"></object>}}}
+
+대사집
+
+|| 가격 || 1600원 ||
+|| 생산시간 || 16초 ||
+|| 요구사항 || 군수공장, 정제소 ||
+|| 상성 || 경차량에 강함 ||
+|| 주무기 || 로켓 2발 ||
+||<-2> [[ZOCOM]] 전용 유닛 ||
+
+[[커맨드 앤 컨커3 케인의 분노]]에 등장하는 [[ZOCOM]]의 [[wiki:"하베스터(커맨드 앤 컨커 시리즈)" 하베스터]]
+
+[wiki:"하베스터(커맨드 앤 컨커 시리즈)"하베스터]에 [[로켓 발사기]]가 달려 있으며 다른 진영의 [[wiki:"하베스터(커맨드 앤 컨커 시리즈)" 하베스터]]와는 달리 하베스터 테러의 대응할 수 있다. --대신 보병을 상대하는 능력이 개판이 됐지만 깔아뭉개면 되지--
+
+로켓 하베스터의 --물--로켓은 집중 공격으로 [어택 바이크], [[핏불]], [[시커]], [wiki:"오르카(커맨드 앤 컨커 시리즈)" 오르카]에 대항할 수는 있지만 순전히 견제일 뿐 커다란 피해는 내지 못한다.

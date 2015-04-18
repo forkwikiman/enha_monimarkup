@@ -1,0 +1,61 @@
+{{{+1 Ligne 8 du métro de Paris / Paris Metro Line 8}}}
+ * [[철도 관련 정보]]
+||||||||||||<table align=center><#0000f9> [wiki:"파리 지하철" <span style="font-weight:bold;color:white">파리 지하철 운행 노선</span>] ||
+|| [[wiki:"파리 지하철 1호선"1호선]] || [[wiki:"파리 지하철 2호선"2호선]] || [[wiki:"파리 지하철 3호선"3호선]] || [[wiki:"파리 지하철 3bis선"3bis선]] || [[wiki:"파리 지하철 4호선"4호선]] || [[wiki:"파리 지하철 5호선"5호선]] ||
+|| [[wiki:"파리 지하철 6호선"6호선]] || [[wiki:"파리 지하철 7호선"7호선]] || [[wiki:"파리 지하철 7bis선"7bis선]] ||<#c5a3cc> '''{{{#000000 8호선 }}}''' || [[wiki:"파리 지하철 9호선"9호선]] || [[wiki:"파리 지하철 10호선"10호선]] ||
+|| [[wiki:"파리 지하철 11호선"11호선]] || [[wiki:"파리 지하철 12호선"12호선]] || [[wiki:"파리 지하철 13호선"13호선]] || [[wiki:"파리 지하철 14호선"14호선]] || [wiki:"Orlyval" 오를리발] || [CDGVAL] ||
+
+[[목차]]
+== 개요 ==
+||||<#c5a3cc> {{{#000000 파리 지하철 8호선}}} ||
+||운영기관 ||[[파리교통공사]](RATP)||
+||영업거리 ||23.4km[* 발라르 역(Balard)↔푸엥트 뒤 락 역(Pointe du Lac)] ||
+||궤간 ||1435㎜ ||
+||역수 ||38 ||
+||전기 ||직류 750V ||
+
+[[파리 지하철]]의 한 노선으로 파리 지하철 8호선 (Paris Metro Line 8)은 서쪽의 파리 15구(15e arrondissement) 발라르 역에서 동쪽의 발드마른(Val-de-Marne) 주 크레테유(Créteil) 푸엥트 뒤 락 역까지 동서로 잇는 영업거리 23.4㎞의 노선이다. 이 노선의 노선색은 연한 보라색이며 1913년 처음 개업하였다. 현재 [[파리교통공사]](RATP)가 운영하고 있다. 
+
+== 노선 ==
+attachment:노선도.jpg?width=650
+|| 한국어 명 || 프랑스어 명 || 환승노선 || 비고 ||
+|| 발라르 || Balard || {{{#bb4b9c ②}}} [[파리 트램 2호선]] [[br]] {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+|| 루르멜 || Lourmel ||  ||  ||
+|| 부시코 || Boucicaut ||  ||  ||
+|| 펠릭스 포르 || Félix Faure ||  ||  ||
+|| 코메르스 || Commerce ||  ||  ||
+|| 라 모트 피케 그르넬 || La Motte-Picquet - Grenelle || {{{#78c696 ●}}} [wiki:"파리 지하철 6호선" 6호선] [[br]] {{{#e0b03a ●}}} [wiki:"파리 지하철 10호선" 10호선] ||  ||
+|| 에콜 밀리테르 || École Militaire ||  ||  ||
+|| 라 투르 모부르 || La Tour-Maubourg ||  ||  ||
+|| 앵발리드 || Invalides || {{{#89d3de ●}}} [wiki:"파리 지하철 13호선" 13호선] [[br]] {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 콩코드 || Concorde || {{{#ffcd09 ●}}} [wiki:"파리 지하철 1호선" 1호선] [[br]] {{{#028d5b ●}}} [wiki:"파리 지하철 12호선" 12호선] ||  ||
+|| 마들렌 || Madeleine || {{{#028d5b ●}}} [wiki:"파리 지하철 12호선" 12호선] [[br]] {{{#672f8f ●}}} [wiki:"파리 지하철 14호선" 14호선] ||  ||
+|| 오페라 || Opéra || {{{#9b993a ●}}} [wiki:"파리 지하철 3호선" 3호선] [[br]] {{{#f59eb3 ●}}} [wiki:"파리 지하철 7호선" 7호선] [[br]] {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#c760ad Ⓔ}}} [[RER E선]] ||  ||
+|| 리슐리외 - 드로 || Richelieu - Drouot || {{{#cec82b ●}}} [wiki:"파리 지하철 9호선" 9호선] ||  ||
+|| 그랑 불르바르 || Grands Boulevards || {{{#cec82b ●}}} [wiki:"파리 지하철 9호선" 9호선] ||  ||
+|| 본느 누벨 || Bonne-Nouvelle || {{{#cec82b ●}}} [wiki:"파리 지하철 9호선" 9호선] ||  ||
+|| 스트라스부르 – 생 드니 || Strasbourg - Saint-Denis || {{{#bb4b9c ●}}} [wiki:"파리 지하철 4호선" 4호선] [[br]] {{{#cec82b ●}}} [wiki:"파리 지하철 9호선" 9호선] ||  ||
+|| 레퓌블리크 || République || {{{#9b993a ●}}} [wiki:"파리 지하철 3호선" 3호선] [[br]] {{{#f68f4d ●}}} [wiki:"파리 지하철 5호선" 5호선] [[br]] {{{#cec82b ●}}} [wiki:"파리 지하철 9호선" 9호선] [[br]] {{{#8d663a ●}}} [wiki:"파리 지하철 11호선" 11호선] ||  ||
+|| 피유 뒤 칼베르 || Filles du Calvaire ||  ||  ||
+|| 생 세바스티엥 프루아사르 || Saint-Sébastien - Froissart ||  ||  ||
+|| 슈맹 베르 || Chemin Vert ||  ||  ||
+|| 바스티유 || Bastille || {{{#ffcd09 ●}}} [wiki:"파리 지하철 1호선" 1호선] [[br]] {{{#f68f4d ●}}} [wiki:"파리 지하철 5호선" 5호선] ||  ||
+|| 레드뤼 롤랑 || Ledru-Rollin ||  ||  ||
+|| 페데르브 - 샬리니 || Faidherbe - Chaligny ||  ||  ||
+|| 뢰이 - 디드로 || Reuilly - Diderot || {{{#ffcd09 ●}}} [wiki:"파리 지하철 1호선" 1호선] ||  ||
+|| 몽갈레 || Montgallet ||  ||  ||
+|| 도메닐  || Daumesnil || {{{#78c696 ●}}} [wiki:"파리 지하철 6호선" 6호선] ||  ||
+|| 미셸 비조 || Michel Bizot || ||  ||
+|| 포르트 도레 || Porte Dorée || {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+|| 포르트 드 샤랑통 || Porte de Charenton || {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+|| 리베르테 || Liberté ||  ||  ||
+|| 샤랑통 - 에콜 || Charenton - Écoles ||  ||  ||
+|| 에콜 베테리네르 드 메종 알포트 || École vétérinaire de Maisons-Alfort ||  ||  ||
+|| 메종 알포트 - 스타드 || Maisons-Alfort - Stade ||  ||  ||
+|| 메종 알포트 - 레 줄리오트 || Maisons-Alfort - Les Juilliottes ||  ||  ||
+|| 크레테일 - 레샤 || Créteil - L'Échat ||  ||  ||
+|| 크레테일 - 유니베르시테 || Créteil - Université ||  ||  ||
+|| 크레테일 - 프레펙튀르 || Créteil - Préfecture ||  ||  ||
+|| 푸엥트 뒤 락 || Pointe du Lac ||  ||  ||
+
+[[각주]]

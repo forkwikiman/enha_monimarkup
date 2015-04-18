@@ -1,0 +1,58 @@
+[[목차]]
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Move Your Body ||
+|| 작곡 |||||||| Sean Kim ||
+|| 보컬 |||||||| Choi Won Suk ||
+|| 배경 |||||||| Tiffany ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 126 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 4}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 5}}} || {{{#red 6}}} || {{{#purple 8}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 6}}} || {{{#red 7}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 6}}} || {{{#red 13}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 5}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='4CMVW3MfTsc$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=4CMVW3MfTsc$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=4CMVW3MfTsc$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''BGA'''
+== 개요 ==
+EZ2DJ 6thTRAX의 수록곡. 중반 이후의 'EZ2DJ'이라고 하는 가사가 특징적이다.
+
+이 곡의 보컬을 맡은 최원석은 가요씬에서 작사/작곡가 및 코러스,OST 등으로 활동하였고 현재는 [[YG엔터테인먼트]]에서 보컬트레이너로써 활동 중이다.
+
+[[Sabin Sound Star]]에도 이식되었다. 3S 기계에서 'Easy to DJ~'하는 가사가 흘러나오는 모습에 아이러니를 느낀 이들이 많았다고.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+EV에서 8짜리 5키 슈하가 추가되었다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+EV 1.50에서 13레벨짜리 하드가 추가되었다.
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+턴테이블 모드에서는 5레벨인데, 올콤할려면 중간중간에 등장하는 '''32비트 겹놋 5연타가 나오기 때문에''' 짤리지 않게 빠르게 슥삭해주자.
+
+== 가사 ==
+||A>, What are you waiting for (you don't need to wait no more) 
+move and shake all night long 
+What are you gonna do (are you ready to dance) 
+bounce and groove up and down 
+
+B,> Move move your body 
+Shake EZ2DJ 
+Bounce bounce up and down 
+Groove EZ2DJ||

@@ -1,0 +1,120 @@
+[[매직 더 개더링]]에 나오는 카드들의 명칭.
+언제나 또는 상황에 따라 5가지 색의 마나를 뽑을 수 있는 랜드 카드들을 통틀어 일컫는 말이다.
+
+색을 섞어 쓸 때의 페널티와, 한가지 색을 쓸 때의 이득이 명확한 매직 더 개더링의 체제 상 '다섯가지 색을 막 뽑을 수 있어요!' 하는 오색 랜드는 자칫 잘못하면 매직 더 개더링의 개성을 무의미하게 만드는 결과를 부를 수도 있다. 따라서 위저드는 많은 오색랜드에 (똑바로 쓰지 못하게 하려고)[[병맛]]나는 페널티를 붙여왔다. 다만 이들 중 몇몇은 페널티가 적거나, 쓰는 덱에 따라 아예 페널티가 없다시피한 것들도 있다. 이 경우 '''오색 대지의 흉악함을 제대로 보여준다'''.
+
+[[목차]]
+
+== [[Arabian Nights]] ==
+ * [[City of Brass]]
+
+== [[Fallen Empires]] ==
+Rainbow Vale
+ Tap : Add one mana of any color to your mana pool. An opponent gains control of Rainbow Vale at end of turn. 
+
+탭하면 아무색 마나가 그냥 나오지만...턴 끝에 주인을 배신하고 상대편으로 붙어버리는(!) 막장 페널티를 장착했다. 상대방 랜드 부스팅 시켜주는 이타주의 카드.
+
+== [[미라지 블록]] ==
+ * [[Gemstone Mine]]
+ * [[Lotus Vale]]
+ * [[Undiscovered Paradise]]
+
+== [[템페스트 블록]] ==
+ * [[Reflecting Pool]]
+
+== [[우르자 블록]] ==
+ * [[Thran Quarry]]
+
+== [[마스크 블록]] ==
+ * [[Henge of Ramos]]
+ * [[Rhystic Cave]]
+
+== [[침략 블록]] ==
+ * [[Archaeological Dig]]
+ * [[Forsaken City]] 
+ * [[Meteor Crater]] 
+
+== [[오디세이 블록]] ==
+Abandoned Outpost
+ Abandoned Outpost comes into play tapped.
+ Tap: Add W to your mana pool.
+ Tap, Sacrifice Abandoned Outpost: Add one mana of any color to your mana pool.
+
+Bog Wreckage 
+ Bog Wreckage comes into play tapped.
+ Tap: Add B to your mana pool.
+ Tap, Sacrifice Bog Wreckage: Add one mana of any color to your mana pool.
+
+Ravaged Highlands
+ Ravaged Highlands comes into play tapped.
+ Tap: Add R to your mana pool.
+ Tap, Sacrifice Ravaged Highlands: Add one mana of any color to your mana pool.
+
+Seafloor Debris
+ Seafloor Debris comes into play tapped.
+ Tap: Add U to your mana pool.
+ Tap, Sacrifice Seafloor Debris: Add one mana of any color to your mana pool.
+
+Timberland Ruins 
+ Timberland Ruins comes into play tapped.
+ Tap: Add G to your mana pool.
+ Tap, Sacrifice Timberland Ruins: Add one mana of any color to your mana pool.
+
+탭되어서 들어오는 주제에 희생까지 해야 오색 마나를 생산하는 랜드들이다. 
+오색 랜드라고 보기에는 한번밖에 못쓰는 주제에 탭까지 되어서 들어오고... 최소한 희생할 때는 탭 필요없이 희생할 수 있게 해 달란 말이다. 그냥 오색 마나를 옵션으로 단 기본 랜드라고 봐도 별로... 하여튼 탭이 문제인 하찮디 하찮은 카드들이다.
+어찌보면 나중에 나온 [[Vivid]] 시리즈의 원조격이라 할 수 있다.
+
+ * [[Tarnished Citadel]]
+
+== [[맹공 블록]] ==
+ * [[Grand Coliseum]]
+
+== [[미로딘]] 블록 ==
+ * [[Glimmervoid]]
+ * [[Mirrodin's Core]] 
+
+== [[카미가와]] 블록 ==
+ * [[Forbidden Orchard]]
+ * [[Tendo Ice Bridge]]
+
+== [[라브니카]] 블록 ==
+ * [[Pillar of the Paruns]]
+
+== [[시간의 나선]] 블록 ==
+ * [[Gemstone Caverns]]
+
+== [[로윈-샤도우무어]] 블록 ==
+ * [[Springjack Pasture]]
+ * [[Primal Beyond]]
+ * [[Vivid]] 시리즈
+  * Vivid Crag
+  * Vivid Creek
+  * Vivid Grove
+  * Vivid Marsh
+  * Vivid Meadow
+
+== [[알라라의 파편]] 블록 ==
+ * [[Exotic Orchard]]
+ * [[Ancient Ziggurat]]
+ * [[Unstable Frontier]]
+ * [[Rupture Spire]]
+
+== [[이니스트라드]] 블록 ==
+ * [[영혼의 동굴]]
+
+== [[라브니카로의 귀환]] 블록 ==
+ * [[공동소유 산책로]]
+
+== [[테로스]] 블록 ==
+ * [[미지의 해안]]
+ * [[마나 합류점]]
+
+== [[타르커의 칸]] 블록 ==
+ * [[신령 용의 유폐지]]
+
+== 코어세트 ==
+ * [[슬리버의 소굴]]
+
+== 번외 ==
+ * [[Command Tower]]
+

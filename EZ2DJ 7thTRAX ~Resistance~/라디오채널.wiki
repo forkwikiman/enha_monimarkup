@@ -1,0 +1,145 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 7thTRAX ~Resistance~]] 관련 정보''' ||
+|| [[EZ2DJ 7thTRAX ~Resistance~/수록곡|수록곡]] || [[EZ2DJ 7thTRAX ~Resistance~/삭제곡|삭제곡]] || [[EZ2DJ 7thTRAX ~Resistance~/라디오채널|라디오채널]] || [[EZ2DJ 7thTRAX ~Resistance~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 7thTRAX ~Resistance~]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2DJ 7th/라디오채널]], [[EZ2DJ 7th 1.0/라디오채널]]로도 들어올 수 있다.
+ * 다음의 자료를 참고하여 작성하였다.
+  * [http://toez2dj.net/zeroboard/zboard.php?id=d_clearguide&no=637]
+
+[[목차]]
+
+== 범례 ==
+||<#F0BF5B>　|| 4th ||<#B0B0B0>　|| PT ||<#EE83A3>　|| 6th ||<#FD975B>　|| 7th ||
+
+== 5Radio Mix ==
+=== 기본 채널 ===
+||<#FD975B><tablewidth=600px>　|| '''Team K2yaa'''[[br]]VJ's Choice |||| Lv.8 ||
+|| 1 ||[[Space Destiny]]|| NM || 1080 ||
+|| 2 ||[[Sweet Heart]]|| EZ || 789 ||
+|| 3 ||[[Explode Engine]]|| NM || 785 ||
+|| 4 ||[[Gray Street]]|| EZ || 1204 ||
+||<#FD975B>　|| '''r300k'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[The World]]|| r300k || 865 ||
+|| 2 ||[[Energy Flower]]|| r300k || 1156 ||
+|| 3 ||[[Round 3]]|| r300k || 1092 ||
+|| 4 ||[[Sunlight]]|| HD || 1077 ||
+||<#FD975B>　|| '''DJ.Praya'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Let me hear your voice]]|| HD || 1155 ||
+|| 2 ||[[Forget]]|| Praya || 1025 ||
+|| 3 ||[[빛바랜 영혼]]|| HD || 729 ||
+|| 4 ||[[Mage Girl Story]]|| HD || 1322 ||
+||<#FD975B>　|| '''M2U'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Toy War]]|| HD || 1557 ||
+|| 2 ||[[White Rose]]|| HD || 1106 ||
+|| 3 ||[[Paradise]]|| NM || 1243 ||
+|| 4 ||[[天地開闢]]|| HD || 1349 ||
+|| ||||||7th 라디오에서 손에 꼽히는 인기 채널이었다.||
+||<#FD975B>　|| '''Team Curium'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Silver Ocean]]|| HD || 657 ||
+|| 2 ||[[G.O.A]]|| Curium || 1453 ||
+|| 3 ||[[Unrequited love 2]]|| HD || 1069 ||
+|| 4 ||[[Legacy of Hatred]] (live)|| Curium || 1234 ||
+||<#FD975B>　|| '''Transin'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Dreamy Flight]]|| HD || 1179 ||
+|| 2 ||[[Soul Destructor]]|| Transin || 1523 ||
+|| 3 ||[[Black Flame]]|| HD || 1637 ||
+|| 4 ||[[Explode Engine]]|| Transin || 1104 ||
+||<#F0BF5B>　|| '''4th TraX NF SPECIAL'''[[br]]4th TraX Hit Channel |||| Lv.11 ||
+|| 1 ||[[B.O.W.]]|| HD || 1026 ||
+|| 2 ||[[JMJ]]|| SHD || 993 ||
+|| 3 ||[[Mad Robot]]|| SHD || 1013 ||
+|| 4 ||[[Aquaris]]|| SHD || 1088 ||
+||<#F0BF5B>　|| '''4th TraX Grotesque'''[[br]]4th TraX Hit Channel |||| Lv.13 ||
+|| 1 ||[[Complex]]|| SHD || 1138 ||
+|| 2 ||[[Minus 1 ~Space Mix~]]|| HD || 873 ||
+|| 3 ||[[Fire Storm]]|| SHD || 1338 ||
+|| 4 ||[[Theme of EZ2DJ]]|| Gro || 692 ||
+||<#B0B0B0>　|| '''5th TraX Hard Beat Underground'''[[br]]5th TraX Hit Channel |||| Lv.9 ||
+|| 1 ||[[R.F.C.]]|| NM || 817 ||
+|| 2 ||[[Riff Guy]]|| NM || 703 ||
+|| 3 ||[[Q Factor]]|| NM || 613 ||
+|| 4 ||[[Climax]]|| NM || 1050 ||
+||<#EE83A3>　|| '''6th TraX A.O.Music'''[[br]]6th TraX Hit Channel |||| Lv.7 ||
+|| 1 ||[[Refresh]]|| HD || 451 ||
+|| 2 ||[[Your Style]]|| HD || 529 ||
+|| 3 ||[[Stay with me]]|| HD || 586 ||
+|| 4 ||[[Dance With Me]]|| HD || 646 ||
+=== 1차 히든 채널 ===
+||<#FD975B><tablewidth=600px>　|| '''Random'''[[br]]Normal Random Channel |||| Lv.? ||
+|| 1 ||<|4>노멀 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#B0B0B0>　|| '''5th TraX 12+'''[[br]]5th TraX Hit Channel |||| Lv.14 ||
+|| 1 ||[[20000000000]]|| HD || 1156 ||
+|| 2 ||[[Panic Strike]]|| HD || 1060 ||
+|| 3 ||[[Zeroize]]|| SHD || 1252 ||
+|| 4 ||[[Fire Storm]]|| SHD || 1338 ||
+||<#FD975B>　|| '''Spring Head'''[[br]]Musician's Collection |||| Lv.12 ||
+|| 1 ||[[Return]]|| SpringHead || 1476 ||
+|| 2 ||[[Soul Eater]]|| SpringHead || 1239 ||
+|| 3 ||[[Fallen Angel]]|| SpringHead || 1622 ||
+|| 4 ||[[Revelation]]|| Ruby || 1292 ||
+=== 2차 히든 채널 ===
+||<#FD975B><tablewidth=600px>　|| '''Hard Random'''[[br]]Hard Random Channel |||| Lv.? ||
+|| 1 ||<|4>하드 패턴 랜덤 선곡[[br]]일정한 확률로 [[Soul Destructor]] HD 등장|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#FD975B>　|| '''RYU♥star'''[[br]]Vocal's Collection |||| Lv.11 ||
+|| 1 ||[[빛바랜 영혼]]|| RYU♥star || 939 ||
+|| 2 ||[[Sunlight]]|| RYU♥star || 1409 ||
+|| 3 ||[[Let me hear your voice]]|| Praya || 1155 ||
+|| 4 ||[[To My Love]]|| RYU♥star || 297 ||
+|| ||||||마지막 곡인 To My Love는 판정곡이지만, 스트릿 하드믹스보다는 판정이 2배 넓어져서 그나마 쉽다. 1.5에서는 채널 타이틀 이미지에 '진실을 알고 있는 불쌍한 영혼들아'라는 문구가 들어갔다. [[Ryunan]]의 작품.||
+||<#FD975B>　|| '''RYUminus'''[[br]]Mania Zone Developer |||| Lv.14 ||
+|| 1 ||[[Fell Hound 3]]|| RYUminus || 1537 ||
+|| 2 ||[[Round 3]]|| HD || 1678 ||
+|| 3 ||[[Toy War]]|| RYUminus || 1668 ||
+|| 4 ||[[Revelation]]|| RYUminus || 1923 ||
+|| ||||||펠하는 개인차가 엄청 갈리는 변태연타곡, 라삼은 그냥 하드, 토이워는 체감 레벨 12 정도, 레벨은 노멀과 크게 다를 바가 없는 등 전체적으로 별로 인기가 있을 구성은 아니다. 결국 [[EZ2DJ 5대 채널]]에 묻혔다.||
+== 7Radio Mix ==
+=== 기본 채널 ===
+||<#FD975B><tablewidth=600px>　|| '''r300k'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[The World]]|| r300k || 848 ||
+|| 2 ||[[Energy Flower]]|| r300k || 1235 ||
+|| 3 ||[[Round 3]]|| r300k || 1171 ||
+|| 4 ||[[Sunlight]]|| r300k || 1141 ||
+||<#FD975B>　|| '''DJ.Praya'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Let me hear your voice]]|| Praya || 1061 ||
+|| 2 ||[[Forget]]|| Praya || 976 ||
+|| 3 ||[[빛바랜 영혼]]|| HD || 962 ||
+|| 4 ||[[Mage Girl Story]]|| HD || 1124 ||
+||<#FD975B>　|| '''M2U'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Toy War]]|| NM || 1293 ||
+|| 2 ||[[White Rose]]|| NM || 986 ||
+|| 3 ||[[Paradise]]|| NM || 1265 ||
+|| 4 ||[[天地開闢]]|| NM || 869 ||
+||<#FD975B>　|| '''Team Curium'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Silver Ocean]]|| NM || 640 ||
+|| 2 ||[[G.O.A]]|| Curium || 1234 ||
+|| 3 ||[[Unrequited love 2]]|| NM || 921 ||
+|| 4 ||[[Legacy of Hatred]] (live)|| Curium || 1201 ||
+=== 1차 히든 채널 ===
+||<#FD975B><tablewidth=600px>　|| '''Spring Head'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Return]]|| HD || 1340 ||
+|| 2 ||[[Soul Eater]]|| HD || 1010 ||
+|| 3 ||[[Fallen Angel]]|| SpringHead || 1395 ||
+|| 4 ||[[Revelation]]|| NM || 1756 ||
+||<#FD975B>　|| '''Transin'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Dreamy Flight]]|| Transin || 1154 ||
+|| 2 ||[[Soul Destructor]]|| HD || 1128 ||
+|| 3 ||[[Black Flame]]|| Transin || 1178 ||
+|| 4 ||[[Explode Engine]]|| Transin || 1014 ||
+=== 2차 히든 채널 ===
+||<#FD975B><tablewidth=600px>　|| '''RYU♥star'''[[br]]Vocal's Collection |||| Lv.11 ||
+|| 1 ||[[빛바랜 영혼]]|| HD || 962 ||
+|| 2 ||[[Sunlight]]|| RYU♥star || 1157 ||
+|| 3 ||[[Let me hear your voice]]|| Praya || 1061 ||
+|| 4 ||[[To My Love]]|| RYU♥star || 394 ||
+||<#FD975B>　|| '''RYUminus'''[[br]]Mania Zone Developer |||| Lv.14 ||
+|| 1 ||[[Fell Hound 3]]|| RYUminus || 1299 ||
+|| 2 ||[[Round 3]]|| RYUminus || 1565 ||
+|| 3 ||[[Toy War]]|| RYUminus || 1666 ||
+|| 4 ||[[Revelation]]|| RYUminus || 1994 ||

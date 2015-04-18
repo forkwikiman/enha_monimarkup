@@ -1,0 +1,47 @@
+[[목차]]
+
+== 개요 ==
+||||||<:>[[댄스 댄스 레볼루션]]의 Replicant D- 시리즈||
+||<:>[[Replicant D-action]][[BR]]DanceDanceRevolution X2||<:>→||<:>'''Replicant D-ignition'''[[BR]][[Dance Dance Revolution(2014)|DanceDanceRevolution]]||
+
+[[youtube(AlOWWslTHkc, width=640, height=360)]]
+Replicant D-ignition 티저 무비
+
+>선택받은 자여, 문을 열어라...!
+
+[[Dance Dance Revolution(2014)]]의 해금이벤트로, JAEPO 2015에서 열렸던 [[코나미 아케이드 챔피언쉽/The 4th|The 4th KONAMI Arcade Championship]]에서 왠만한 비마니 게임이 다 신곡을 공개했지만, DDR은 아무 신규요소도 없이 대회가 종료되었다. 그러나, --그럼 그렇지 하며 실망한-- 관람객들이 발을 돌리던 길에 갑자기 티저 영상을 공개하며 이벤트 존재를 알렸다. 결승방송이 종료되고 현장에서만 공개됐기 때문에 대회 종료 후 트위터 등의 SNS을 통해서 알려졌다.
+
+이후에 2015년 2월 18일 코나미 유튜브 채널에서 [[Replicant D-action]]의 키 캐릭터 리논이 귀환하는 짧막한 정식 예고 영상이 공개됐으며 2015년 3월 5일 오전 10시부터 이벤트가 시작되었다.
+
+이번에도 폴더 형식의 이벤트이며, [[MAX.(period)]]를 제외한 모든 해금곡이 '''완전 신곡'''인 것이 특징
+
+이벤트 돌입 조건이 [[BOSS ON PARADE]] 최종 해금곡인 [[Truare!]]를 EXTRA STAGE에서 클리어하는 것이므로 아직 해당 이벤트를 클리어 하지 못한 플레이어들은 완전 클리어를 해야한다.
+
+2015년 3월 26일 시점에서 페이즈 2에 돌입. MAX. (period)이 EGOISM 440과 함께 등장하게 되었고 Over The "Period"라는 신곡이 공개되었다. 플레이 조건은 MAX. (period)를 챌린지 패턴으로 AA이상을 띄우면 ATTACK PERFECT FULL COMBO 라는 메시지와 함께 새로운 ENCORE EXTRA STAGE로 돌입하게 되며, GREAT 이하의 판정이 되면 게임이 끝난다. LOVE IS THE POWER -Re：born-과 같은 방식이다.
+2015년 4월 9일 업데이트 이후 DIFFICULT 난이도로 오브를 모을수 있도록 조건이 완화되었다. MAX.(period)의 DIFFCULT 난이도로 흑 리논을 해금할 수 있으나, 그 이후에는 완화 전 페이즈의 난이도로 플레이해야 리논이 해금된다.
+== 해금 방식 ==
+ * [[BOSS ON PARADE]]에서 해당되는 5곡을 상주시켜 EXTRA STAGE에서 [[Truare!]]를 클리어 한다.[* [[Truare!]]는 원래 상주되지 않았으나 이 이벤트가 시작됨으로써 'BOSS ON PARADE' 폴더에 상주하게 된다.] (난이도 불문)
+ * 이후 정상 플레이를 진행하면 게임 오버전 마지막 TOTAL RESULT에서 플레이 결과에 따라 니트로를 받을 수 있다. 병을 하나 선택한 다음 이 니트로로 게이지를 채운다.
+ * 한번 선택한 병은 완전히 채울 때까지 변경할 수 없으며, 병 하나를 채우고 남은 니트로는 다른 병에 연이어서 담을 수 있다.
+ * 한 개 이상의 니트로 병을 다 채우면 다음 플레이의 EXTRA STAGE에서 'Replicant D-ignition' 폴더가 출현하여 돌입할 수 있다.[* 여타의 다른 해금이벤트 폴더 형식 처럼 한번 들어가면 게임 오버시까지 다시 일반 폴더로 돌아올 수 없다.]
+  * 노멀 플레이에서는 EXTRA STAGE를 소환할 수 없으므로, 플레이 할 수 없다. 버서스 플레이에서 한명이 프리미엄 플레이인 경우 곡을 플레이 할 수 있다.
+ * 채운 니트로 병 색깔에 따라서 각자 다른 곡이 출현하며, 은폐곡의 EXPERT 난이도를 'AA'랭크 이상 클리어시 [[오브]]를 받을 수 있다.
+ * 각 은폐곡의 오브를 모아(싱글, 더블 공유) 5개를 완성할 경우 다음 플레이 시 'Replicant D-ignition' 폴더에 '''EGOISM 440''' 출현. EGOISM 440를 플레이하게 되면 모은 오브는 사라져 다시 모아야 한다.
+ * EGOISM 440을 AA 랭크 이상 클리어 할 시 블랙 리논이 등장하여 강제로 ENCORE EXTRA STAGE로 직행한다. ENCORE EXTRA STAGE에는 강제로 배속 1.5배, REVERSE, RISKY 옵션이 걸려있다.
+
+== 해금곡 ==
+||||||||||<#ed49e7><:> '''Replicant D-ignition''' ||
+|| 곡명 || 아티스트명 || BPM || 니트로병 색 || 기타 ||
+||[[Destination]] || [[후지모리 소타|Sota F.]] || 85-170 ||<#33ff33> 　|| ||
+||[[Samurai Shogun vs. Master Ninja]] || [[96]] || 260 ||<#ff0000> 　|| ||
+||[[Sand Blow]] || [[코에즈카 요시히코|肥塚良彦]] || ??? ||<#ffff00> 　|| ||
+||[[HAPPY☆LUCKY☆YEAPPY]] || [[DJ TOTTO|DJ ミラクル☆ストーン]] || 190-380 ||<#ffffff> 　|| ||
+||[[chaos eater]] || [[猫叉Master]]+ || 105-210 ||<#0000ff> 　|| ||
+||||||||||<#ffffff> '''상기 5곡의 오브를 모으면 출현''' ||
+||[[EGOISM 440]] || [[U1-ASAMi|U1 High-Speed]] || (55~880) || || ||
+||||||||||<#000000> '''{{{#ffffff ENCORE EXTRA STAGE}}}''' ||
+||[[MAX.(period)]] || [[U1-ASAMi|2MB]] || (150-600) || || DDR EXTREME(CS) 이식[[br]]ENCORE EXTRA STAGE에서는 1.5배, 리버스 옵션 고정 ||
+||[[Over The "Period" ]] || [[TAG]] underground overlay || ??? || || GREAT 이하 판정이 나올시 게임 오버 ||
+== 그 외 ==
+ * --드디어-- 전용 스킨과 전용 댄서 배경이 등장했다. 해금곡을 플레이시 DDR 2013 이후 등장하지 않았던 댄서 캐릭터 '리논'이 선택되고, 전용 배경과 BGM이 존재.
+ * 이 이벤트로 [[코에즈카 요시히코]]와 [[96]], [[DJ TOTTO]]가 DDR에 첫 오리지널 곡으로 참여하였다.[* [[BEMANI 시리즈/연동 이벤트|연동 이벤트]]들을 통해 참여하기는 했었다.]

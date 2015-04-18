@@ -1,0 +1,97 @@
+||<table align=right>|| '''Los Angeles County Metro Rail'''[[br]](로스앤젤레스 카운티 메트로 레일) ||
+|||| '''로고''' ||
+|||| attachment:lametrologo.png?width=250 ||
+|| '''개업년도''' || [1990년] ||
+|| '''운영기관''' || LACMTA[* Los Angeles County Metropolitan Transportation Authority(로스앤젤레스 카운티 교통국)] ||
+|| '''노선 수''' || 6 ||
+|| '''역 수''' || 80 ||
+|| '''운임 방식''' || 균일 요금 ||
+|| '''영업 거리''' || 141km ||
+|| '''궤간''' || [표준궤|1435mm] ||
+|| '''신호 방식''' || ATC/ATO[* 그린 라인 한정] ||
+|| '''차량 수''' || 중전철 104[[br]]경전철 176 ||
+|||| [http://www.mta.net/][[br]][http://www.metro.net/riding/multi-language/korean/|한국어 홈페이지] ||
+http://cbsla.files.wordpress.com/2013/01/metro-rail-map.jpg&width=550
+
+[[목차]]
+
+= 소개 =
+||<table align=right>||http://www.urbanrail.net/am/lsan/pix/RD14-Hollywood-Highland2-08.JPG&width=300||
+||||[wiki:"로스앤젤레스 퍼플 라인" Purple Line]의 Hollywood/Highland 역 ||
+||||http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mission_lacmta_station_art.jpg/600px-Mission_lacmta_station_art.jpg&width=300||
+||||[wiki:"로스앤젤레스 골드 라인" Gold Line] - South Pasadena역의 조형물 Astride-Aside||
+'''Los Angeles County Metro Rail'''
+[[미국]] [[로스앤젤레스]] 시가 속한 로스앤젤레스 카운티의 [[도시철도]] 시스템. LACMTA(로스앤젤레스 카운티 교통국) 소유이다.
+
+자동차 위주의 교통이 정착된 로스앤젤레스 특성상 대부분의 노선이 경전철이며, 4개의 경전철 노선과 2개의 중전철 노선이 있다. 이용객 수로는 중전철은 미국 9위, 경전철은 미국 3위. 다만 거리 대비 이용객 수로는 많이 후달린다(...) 때문에 평소에는 붐비는 모습을 보기 힘들다. [[신도림역]]같은 모습은 임파서블. 
+
+시설 면에서는 지진이 많은 로스앤젤레스의 특성상 진도 7 수준의 지진에도 버틸 수 있도록 지어졌으며, 지어진 지 얼마 되지 않아 깨끗하고 현대적이다. 또한 대부분의 노선 역사(驛舍)는 [http://www.metro.net/about/art/ Metro Art Los Angeles]의 일환으로 역 주변의 특색에 맞게 설계되었고 지역 예술가와 협력하여 설치된 조형물이나 페인팅도 볼거리. 지하철 역 사진이 궁금하다면 [http://www.urbanrail.net/am/lsan/la-red-line.htm Urbanrail.net] 사이트에서 찾아볼 수 있다.
+
+다만, 노선망이 여전히 연장 중인 관계로 도시 구석구석을 찔러주지 못해서 로스앤젤레스 시민들이 지하철을 주요 교통수단으로 사용하지는 못하는 실정이다. 게다가 [wiki:"로스앤젤레스 국제공항" LAX]로 들어가는 노선이 없어 [wiki:"로스앤젤레스 그린 라인" Green Line] Aviation/LAX 역에서 셔틀버스로 환승해야 한다.~~LA 근교에 사는 사람들은 가끔은 LA에 지하철이 있는지 모를때도 있다~~ Crenshaw Line이 개통되면 약간이나마 LAX 접근성이 개선될 예정이지만 그래도 여전히 멀다(...)
+
+모든 노선이 지어진 지 얼마 되지 않은 만큼 지금도 여러 노선의 연장이 진행 중이다. 대표적으로 [로스앤젤레스 유니언 역|유니언 역]에 들어가지 못하는 블루 라인과 엑스포 라인을 연장하는 Regional Connector 사업, Crenshaw Line 건설 등의 사업이 진행 중이며 골드 라인, 퍼플 라인의 연장이 진행 중이다.
+
+모든 노선에 버스처럼 노선 번호가 붙어 있으며 800번대 번호를 사용한다. 번호 방식은 개통 순서대로 [로스앤젤레스 블루 라인|블루 라인]이 801번, [로스앤젤레스 레드 라인|레드 라인]이 802번인 식으로 부여되었다.
+
+요금은 단일 요금제로 1.5달러를 받으며, 현금 외에 TAP Card 라는 [교통카드]로 지불할 수 있다. 단 버스 및 타 노선과의 환승이 무료가 아니라 환승을 많이 해야 할 경우 5달러짜리 일일권을 구매하는 편이 낫다.
+
+
+= 역사 =
+||<table align=left>||http://www.tundria.com/trams/USA/LosAngeles-1941.gif&width=500||
+||||1940년대 Los Angeles Railway의 전차 노선도||
+||||http://www.erha.org/pe_system_map.jpg&width=500||
+||||1940년대 Pacific Electric Railway의 노선도[[br]]어디든지 걸어서 5분안에 역세권이던 시절이 LA에도 있었다!||
+||||http://i147.photobucket.com/albums/r293/VIEWLINER/0911/PEVIN1.jpg&width=500||
+||||Pasadena 부근 Pacific Railway 전철||
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4JnP8I2R4_g" frameborder="0" allowfullscreen></iframe>
+}}}
+1950년대 LA 전차의 시대가 저물때 찍은 비디오
+
+사실, 1950년대만 하더라도 이 '자동차의 도시'는 '[[철도]]의 도시'로 불릴 만큼 철도망이 방대했다. 천 마일(1,600km)이상의 Pacific Electric Railway와 Los Angeles Railway 두 회사의 철도가 깔려있었다.
+
+그러나...
+
+== [[전차 스캔들]] ==
+||http://files.abovetopsecret.com/images/member/65c8b1f0dea6.jpg?width=420||http://i56.tinypic.com/t8ufs9.gif?width=360||
+'''[[망했어요]]'''
+
+그러나 이 전차의 도시도 [wiki:"제너럴 모터스" GM]의 투자를 업은 석유회사 및 자동차 업체들의 컨소시엄이 일으킨 Great American streetcar scandal(전차 스캔들)의 광풍을 피할 순 없었다. 이들은 1950년대 로스앤젤레스, 뉴욕, 샌디에이고 등의 도시에서 100여개 이상의 노면전차 시스템들을 매수하여 버스로 대체하였고, 1963년을 끝으로 LA 전차의 시대는 막을 내렸다. 물론 그 목적에 대해서는 [wiki:"必要韓紙" 설명이 the 必要韓紙?]
+
+남아도는 차량은 [대한민국], [이집트], [칠레] 등에 무상 원조되었다. 당시 대한민국에서 운행되던 서울전차와 [부산전차]는 해방과 동시에 [일본인] 기술자가 모조리 빠져나가 정비 불량과 노후화로 차량 부족이 심각했는데 이때 LA에서 원조된 수백대의 미제 차량이 일제 차량의 자리를 대체했다.
+
+그리고 1970년대 [[오일쇼크]] 이후, 기름값이 폭등하고 인구가 늘어나 자가용과 [[버스]]를 대체할 교통수단이 필요해진 로스앤젤레스 카운티는 [[1976년]], 로스앤젤레스 교통위원회를 조직하여 로스앤젤레스 내 대중교통을 계획하고 1985년 노선의 착공에 들어갔다. --소 잃고 외양간 고치기--
+ 
+그리고 1990년 7월 14일, 19.1마일, 17개역의 [wiki:"로스앤젤레스 블루 라인" 블루 라인] (The Blue Line)이 개통하였다. LA 에서 전차가 사라진지 27년만에... 이후 [1993년] 1월 [로스앤젤레스 레드 라인|레드 라인] 중전철이 개통되었고 이어서 [로스앤젤레스 그린 라인|그린 라인], [로스앤젤레스 골드 라인|골드 라인], [로스앤젤레스 퍼플 라인|퍼플 라인], [로스앤젤레스 엑스포 라인|엑스포 라인]의 개통으로 노선이 확장되었다.
+= 노선 =
+2개의 중전철 노선(레드 라인, 퍼플 라인) 및 4개의 경전철 노선을 운행하고 있으며 철도 외에 별도로 Metro Liner라는 [wiki:간선급행버스체계 BRT](오렌지 라인, 실버 라인)도 운행한다.
+
+노선은 그린 라인을 제외하면 LA 다운타운과 [wiki:"로스앤젤레스 유니언 역" 유니언 역]을 중심으로 하여 외곽으로 뻗어나가는 형태로 건설되어 있으며, 후에 Regional Connector 노선이 개통되면 블루 라인과 엑스포 라인을 유니언 역까지 연장하여 각각 골드 라인의 북부/동부 노선을 흡수하게 된다. 
+
+유니언 역에서 [[암트랙]] 열차와 [[메트로링크]] [[커뮤터 레일]]로 환승할 수 있으며, Aviation/LAX 역에서 [[LAX]] 공항 셔틀로 환승할 수 있다.
+
+'''중전철 노선'''
+||<table align=right>||http://www.thebergennetwork.com/na/ca/lacmta/503.jpg&width=360||
+||||중전철 Purple Line의 Wilshire/ Western 역||
+||||http://subwaynut.com/california/la_metro/green_line/el_segundo/el_segundo44.jpg&width=360||
+||||경전철 Green Line의 El Segundo Blvd 역||
+||||http://zocalopublicsquare.org/thepublicsquare/wp-content/uploads/2011/05/orangeline_myclockworkorange.jpg&width=360||
+||||Metro Liner BRT Orange Line [[굴절버스]] 차량||
+
+|| 노선 || 구간 || 총연장 || 역 수 ||
+||{{{#ff0000 ●}}} [wiki:"로스앤젤레스 레드 라인" Red Line] || LA Union Station [[br]] (LA시 다운타운) [[br]]↔[[br]] North Hollywood [[br]] (할리우드시 북부) || 16.4 mi [[br]] (26.4 km) || 14 ||
+||{{{#800080 ●}}} [wiki:"로스앤젤레스 퍼플 라인" Purple Line] || LA Union Station [[br]] (LA시 다운타운) [[br]]↔[[br]] Western/Wilshire [[br]] (코리아타운) ||  6.4 mi [[br]] (10.3 km) || 8 ||
+
+'''경전철 노선'''
+|| 노선 || 구간 || 총연장 || 역 수 ||
+||{{{#0000ff ●}}} [wiki:"로스앤젤레스 블루 라인" Blue Line] || 7th Street / Metro Center [[br]]↔[[br]] Long Beach Transit Mall || 22.0 mi [[br]] (35.4 km) || 22 ||
+||{{{#80bd50 ●}}} [wiki:"로스앤젤레스 그린 라인" Green Line] ||  Norwalk [[br]] (LA 남동쪽 근교 도시) [[br]]↔[[br]] Redondo Beach [[br]] (LA 남서쪽 근교 도시) || 20.0 mi [[br]] (32.2 km) || 14 ||
+||{{{#efb000 ●}}} [wiki:"로스앤젤레스 골드 라인" Gold Line] ||  Sierra Madre Villa [[br]] (Pasadena시) [[br]]↔[[br]] Atlantic [[br]](LA 동부) || 19.7 mi [[br]] (31.7 km) || 21 ||
+||{{{#32a1c8 ●}}} [wiki:"로스앤젤레스 엑스포 라인" Expo Line] || 7th St/Metro Center [[br]] (LA시 다운타운) [[br]]↔[[br]] Culver City [[br]] (LA 서쪽 근교 도시) || 19.7 mi [[br]] (31.7 km) || 21 ||
+
+
+'''Metro Liner [wiki:간선급행버스체계 BRT]'''
+|| 노선 || 구간 || 총연장 || 역 수 ||
+||{{{#fe5b19 ●}}} [wiki:"로스앤젤레스 오렌지 라인" Orange Line] || Chatsworth [[br]]↔[[br]] North Hollywood || 18.0 mi [[br]] (29 km) || 18 ||
+||{{{#bababa ●}}} [wiki:"로스앤젤레스 실버 라인" Silver Line] || El Monte [[br]]↔[[br]] Harbor Gateway Transit Center || 26.0 mi [[br]] (41.8 km) || 9(전용구간) [[br]] 28(공용구간 포함) ||
+

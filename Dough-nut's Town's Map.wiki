@@ -1,0 +1,81 @@
+[[목차]]
+
+== 개요 ==
+http://g-ec2.images-amazon.com/images/G/09/ciu/ed/0a/9158a1909fa0343f1701d110.L._AA300_.jpg
+곡이 수록된 앨범 'cartooom!'의 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/dYZBXjwYiRk" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+[[일본]]의 [[시부야계]] 음악 유닛인 'Plus-Tech Squeeze Box'의 곡으로, 2004년 6월 16일에 발매된 두 번째 앨범 cartooom!에서 3번 트랙에 수록되었다. 이 곡은 Baby P라는 이름으로 [[팝픈뮤직]] 14 Fever!에 어레인지되어 수록되기도 했다. 유비트에서 오래 수록되지 못한 이 곡과는 달리 Baby P는 Sunny Park까지도 계속 남아있다.
+
+[[일본]]의 뮤지션이 작곡한 곡이지만 전체적인 곡 분위기 및 PV는 미국 카툰풍에 가깝다.
+~~[wiki:"인육" 그런데 뮤비 내용이 끔찍하다]~~
+
+== 가사 ==
+{{|
+I'm walking along that main street of a town.
+I'm very glad (it's a few in fact) hearing sound.
+I show this small town.
+I show my very dear mam.
+Then, shall I begin great tour soon?
+A prairie can be seen if hill is reached. good grief..
+Since it's time, the theme of a town is made to hear it.
+welcome Dough-nut. hello! hello!
+You're welcomed.
+hey! brother. you're lookin' great!
+welcome Dough-nut. hello! main street is in a mess.
+Please pass the time of good one if you please in town.
+psb game can be played in this place
+(galaxy center!!)
+amusement park!
+A coaster is too short..
+haunted house changes to the house of candy.
+that is a future park, the car is flying.
+
+welcome Dough-nut. hello! hello!
+You're welcomed.
+hey! brother. you're lookin' great!
+welcome Dough-nut. hello! main street is in a mess.
+Please pass the time of good one if you please in town.
+welcome Dough-nut. hello! hello!
+You're welcomed.
+hey! brother. you're lookin' great!
+welcome Dough-nut. hello! main street is in a mess.
+Please pass the time of good one if you please in town.
+welcome Dough-nut. hello! hello!
+You're welcomed.
+hey! brother. you're lookin' great!
+welcome Dough-nut. hello! main street is in a mess.
+Please pass the time of good one if you please in town.
+Please pass the time of good one if you please in town.|}}
+
+== MAD ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/GYnhyt5rYEU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+이 곡으로 만든 [[히다마리 스케치]] 합작 매드무비가 2009년 [[크리스마스]]를 앞두고 올라온 적이 있다. 이브와 크리스마스 당일 애니메이션 카테고리 1위에 등극했다. 이 합작 매드무비를 만든 제작자들은 이전에도 [[capsule]]과 Sonic Coaster Pop이라는 퓨처 팝 유닛의 곡으로 매드무비를 만들기도 했다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>'''7'''||
+||<#5a5aff><:>노트수||<:>220||<:>438||<:>554||
+||<#5a5aff><:>BPM||||||<:>136||
+||<#5a5aff><:>곡 이력||||||[[유비트 니트 어펜드]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer21056' width='640' height='480'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=81740E287BB136C0311344291AE413FA81C3&outKey=V123a806911e99b80c5092f1ac70538b056cefba42196458909ab2f1ac70538b056ce' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=81740E287BB136C0311344291AE413FA81C3&outKey=V123a806911e99b80c5092f1ac70538b056cefba42196458909ab2f1ac70538b056ce' wmode='transparent' width='640' height='480' allowScriptAccess='always' name='NFPlayer21056' id='NFPlayer21056' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+익스트림 보면 영상
+
+[[유비트 니트 어펜드]]에서 추가된 [[ニンジャマンジャパンのテーマ]]와 [[CAT'S EYE]]와 함께 레벨7 [[사기 난이도]] 삼대장 곡. '''곡 분위기에 비해 [[wiki:"꿈도 희망도 없어" 꿈도 희망도 없는]] 배치'''인 것도 모자라 '''[[あいのうた]]를 관광보낼 정도의 레벨 7 최악의 [[사기 난이도]]'''를 지닌 곡이다. 16비트는 기본에 [[긁기]]는 옵션으로 깔려있고, 전체적으로 중구난방인 배치까지 어우러져 [[막장]]을 선사하신다. 재미있는 앨범 자켓 때문에 손댔다가 피보는 위험이 없도록 초보자에게는 베이직을 추천하는 것이 좋다(...).
+
+결국 이 곡의 악명을 잊지 못한채 [[유비트 소서]]에서 삭제되었다. '''[[야 신난다]]!'''

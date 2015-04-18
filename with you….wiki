@@ -1,0 +1,24 @@
+{{{#!HTML
+<iframe width="480" height="360" src="//www.youtube.com/embed/Uqe7YZmd0wg" frameborder="0" allowfullscreen></iframe>}}}
+
+|| 장르명 |||||| FUNK'N JAZZ HOUSE[[BR]]펑크 앤 재즈 [[하우스(음악)|하우스]] || [[BPM]] |||| 135 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 398}}} || {{{#orange 6}}} || {{{#orange 580}}} || {{{#red 9}}} || {{{#red 891}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 398}}} || {{{#orange 7}}} || {{{#orange 580}}} || {{{#red 11}}} || {{{#red 1324}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 13 DistorteD|13 DistorteD]] ~ 
+ * 가정용판 수록 : 13 DistorteD CS
+
+[[beatmania IIDX]]의 수록곡. 작곡은 [[Sota Fujimori]]. 기타, 색소폰, 신스등 여러악기가 어울려진 재즈풍의 하우스로 평소 [[후지모리 소타]]가 게임에서 발표했던 곡과 조금 다른 성향의 노래지만 평가는 좋은 편.색소폰 연주는 그의 고등학교 친구(H. Hiraizumi)가 했다고 한다.
+
+싱글 어나더 같은 경우 적당한 난타 위주의 채보. BPM이 높은 편은 아니고 특별히 어려운 요소도 없어서 9레벨 중에선 입문곡 취급을 받는다.
+
+더블 어나더 채보가 [[beatmania IIDX 18 Resort Anthem|18 Resort Anthem]]에서 새로 생겼다.
+
+OST에 수록되었을 때는 길이가 조금 더 늘어나 수록되었다. [[good-cool]]이 리믹스 한 버젼이 "with you -X-Sota Mix-"라는 이름으로 앨범 "SYNTHESIZED"에 수록되었다. 롱버젼이 with you... 2011라는 이름으로 앨범 SYNTHESIZED3에 수록되었다.
+
+[[BGA]]는 야간 드라이브를 나타낸 BGA로 제작은 kjk@tksd / 東京食堂(도쿄식당).
+
+비슷한 제목의 "with me..."라는 곡([[beatmania IIDX 17 SIRIUS|17 SIRIUS]] 수록곡)이 있지만(작곡가도 같다.) 특별히 연관성은 없는 모양. 곡의 분위기도 상당히 다르다.

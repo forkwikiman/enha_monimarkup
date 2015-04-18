@@ -1,0 +1,135 @@
+ * 상위 항목 : [[군인]], [[군대 관련 정보]], [[동음이의어·다의어/ㅂ]], [[제목이 한글 한 글자인 항목 목록]]
+ * --관련 항목: [[병맛]]--
+
+[[include(틀:군대신분)]]
+
+[[목차]]
+
+== 兵 ==
+[[군대]]에서 가장 낮은 신분의 군인. 장기판의 말이기도 하다. 한마디로 [wiki:"병사" 졸병]. 국방부에서 공식으로 미는 호칭은 병이며 [병사]나 [사병]은 쓰지 않는다. 단 [관심병사]나 [으뜸병사] 같은 호칭은 관례적으로 쓰인다. 해군 병을 뜻하는 [수병] 및 공군 병을 뜻하는 [항공병]도 마찬가지다.
+
+[한국군]은 1946년 [경비대] 시절부터 1962년까지 [일병]과 [이병]만 존재했으나 1962년에 [상병]과 [병장]을 신설하였다. 그도 그럴듯이 초기에 [미군] 고문관들이 미국식의 enlisted 시스템을 이식했는데 징병제로 다수의 병을 끌어들이는 한국군 상태에서 잘 맞지 않았기 때문이다.
+
+ *1948년-1962년: 훈련병-이병-일병
+ *1962년 이후: 이병-일병-상병-병장
+
+[1974년] 1월부터 군 인사법이 바뀌면서 [여군]은 [부사관]과 [장교]로만 근무할 수 있게 되었다. 그 전에는 병으로 복무하는 것이 가능했다. 1950년 9월 6일에 [부산]에서 여자의용군교육대가 발족됐고 1951년 11월에 [육군본부] 고급부관실 여군과로 주무부서가 바뀌었다. 1955년 7월에 여군훈련소가 설치됐고 1959년 1월엔 육본 내에 여군처(女軍處)가 설립되었다. 1970년 12월엔 여군단(女軍團)으로 바뀌었다. 왜 여군병을 폐지했는지 궁금한 [위키러]가 있을 텐데 1950년대 초에 전시에 잠깐 여군 병이 입대한 걸 빼면 지원제에다 급여가 낮아[* 1970년에 [병장]의 월급이 780원이었다.] 여군 병으로 입대하는 사람이 없어서 이미 1950년대 중반부터 거의 유명무실한 제도였기 때문이었다. 자세한 것은 [여성징병제]와 [여성모병제]를 참고할 것.
+
+보통 징병제가 존재하는 국가에서 병 신분은 모두 징병에 의해 의무복무만 채우는 신분이라 여기기 쉬우나, 징병제 국가임에도 직업군인인 병 신분이 존재하는 나라들은 많다. 보통 병 최하위 계급 및 그 상위 1~2개 계급까지를 만기전역할 인원들에게 부여하고, 이 복무기간 만료 이후에도 장기복무를 희망하는 경우 그보다 상위 병 계급을 부여하다 일정 자격을 충족하면 부사관이 되는 식이다. [독일군] 같이 병 계급이 6개에 달하는 경우가 이런 케이스로, 직업군인이 모두 부사관과 장교인 국군에서 말단 [하사]들이 할 일들 다수가 이들 직업군인인 병들에게 부여된다.
+
+=== [한국군]의 병 ===
+계급장의 경우 포제 전투장 기준으로 [육군]과 [해병대]는 검정색을, [해군]은 주황색(해상병전투복과 고속정복, 정비복 및 구형 전투복용. 신형 전투복부터는 황록색 바탕에 흰색)을, [공군]은 파랑색을 사용한다. 포제 비전투장은 정복과 근무복에 쓰이는 것으로 색상이 다르다. 원래는 색상이 같았는데 1996년 강릉 무장공비 사태 이후에 전투복의 계급장 및 부대표지가 너무 잘 드러난다는 문제점이 부각되어 전투복에 다는 계급장은 저시인성 색상으로 바꿨다. 
+
+|| 계급 || 이병 || 일병 || 상병 || 병장 ||
+|| [대한민국 육군|육군]/[대한민국 해병대|해병대] || http://upload.wikimedia.org/wikipedia/commons/3/3c/%EC%9D%B4%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/0/03/%EC%9D%BC%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/b/b5/%EC%83%81%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/5/56/%EB%B3%91%EC%9E%A5.JPG ||
+|| [대한민국 해군|해군] || http://upload.wikimedia.org/wikipedia/commons/f/f3/%ED%95%B4%EA%B5%B0_%EC%9D%B4%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/3/3d/%ED%95%B4%EA%B5%B0_%EC%9D%BC%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/9/94/%ED%95%B4%EA%B5%B0_%EC%83%81%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/7/70/%ED%95%B4%EA%B5%B0_%EB%B3%91%EC%9E%A5.JPG ||
+|| [대한민국 공군|공군] || http://upload.wikimedia.org/wikipedia/commons/0/00/%EA%B3%B5%EA%B5%B0_%EC%9D%B4%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/5/5e/%EA%B3%B5%EA%B5%B0_%EC%9D%BC%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/c/cc/%EA%B3%B5%EA%B5%B0_%EC%83%81%EB%B3%91.JPG || http://upload.wikimedia.org/wikipedia/commons/e/e1/%EA%B3%B5%EA%B5%B0_%EB%B3%91%EC%9E%A5.JPG ||
+
+==== 계급 체계 개선 논란 ====
+복무기간에 비해 병의 계급이 4단계로 지나치게 복잡화되었단 의견이 있다. 1962년 이래로 2014년 [선임원사]가 생기기 전까지 한국군 부사관도 고작 4단계였다. [병]과 [부사관]이 [사병]으로 결합된 타국군의 경우 병의 체계를 복잡화하는 것이 사병 전체의 계급구조이기 때문에 동기부여나 인사적체에서 효과적인데 비해 단 2년으로 제한된 복무기간 내에 4계급 체계다보니 영… 인사명령도 수시로 내야 하고 계급장을 교체하는 주기도 너무 짧다. 이 때문에 병 계급의 축소에 관한 [[소문]]이 끊이지 않았고, 그 때마다 국방부는 사실무근이라며 일축해왔다. [http://puk.cnbnews.com/mobile/section_view.html?no=2275 2005년에도 이러한 소문이 돌았다.]
+
+특히 2014년에는 윤병장 사건을 비롯한 각종 [[가혹행위]], [[악폐습]] 문제가 큰 파장을 일으키는 와중 [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=469&aid=0000030493 아예 계급을 '''일원화'''하겠다는 내용의 기사]까지 돌았다. 국방부와 병영문화혁신위에서 기존의 이병-일병-상병-병장으로 나뉜 4개의 계급을 '용사' 계급으로 일원화하고 분대장급 병들에 한해서 '용장' 계급을 부여하는 방안을 검토중이라는 것. 이에 대해 국방부는 사실무근[* 육군에서 병 계급 체계를 일병-상병-(분대장만)병장으로 개선하자고 제안한 부분은 사실이다.]이라고 해명했다. 병영문화혁신위에서 [[2014년]] [[12월 12일]]에 최종적으로 의결한 권고안에도 병 계급 개선에 관한 내용은 포함되지 않았다. 다만, '조금만 단순화하면 좋을 것 같다'는 이야기가 나온 수준에서 그쳤다는 이야기가 있는 것을 볼 때 비록 합의되지는 못 했으나 일원화까지는 아니더라도 단순화하는 것에 대한 논의는 있었던 것으로 보인다.
+
+==== 육군병 ====
+영어로 솔저(Soldier)는 군인을 가리키기도 하나 좁은 의미로는 육군병을 말한다. [대한민국 국군]에서 가장 많은 인원을 차지한다. 연간 [기초군사훈련]을 받는 인원이 '''20만'''이 넘는다. 매년 [자위대] 전체 병력과 비슷한 인원이 육군병으로 입대하고 [소총수]는 대한민국 군대 얘기 중에서 가장 공감하기 쉬운 주제이다.
+
+==== 해군병 ====
+해군병은 '''[수병]'''이라 하며 영어로는 seaman이라 하나 맡은 [직별]에 따라 명칭이 달라진다. 그나마 공군병은 육군과 어느 정도 겹치는 부분이 있으나 해군병은 문화적으로 육군과 정말 다르다. 해군이 기술군이다보니 육군에 비하면 [수상함] 근무 등에서 [부사관]의 비율이 높고 [잠수함]의 경우에 한국은 수병을 아예 태우지 않고 전원 [하사] 이상으로 구성한다. 육군의 [소총수]처럼 해군에선 [갑판병]이 많은 비중을 차지한다.
+
+육군이 의경과 마주칠 일은 잘 없지만 해군병의 경우 배 타다 보면 [해양경비안전본부|해경]과 마주칠 일이 자주 있다. --마주치면 서로 병신이라고 한다.-- 같은 해상 업무에 종사한다는 점에서 비슷하지만 [군경]의 차이인지 해경과 해군이 사이가 안 좋은 경우가 꽤 있다. [해상자위대]와 [해상보안청]은 서로 한 배 새끼인데도 사이가 나쁘고[* 이는 건군기에 해상보안청을 구성하는 구 [일본군 해군] 장교 출신들이 [일본해군병학교]가 아닌 [상선사관] 출신이 많았다는 점에서 한 몫했다.] 미 [해안 경비대]와 [미 해군]도 좀 껄끄러운 편이다. 다만 [군종]이나 [의무], [법무] 등의 인원을 [미 해병대]처럼 해안경비대도 미 해군에게 지원받고 있기 때문에 서로 교류는 있다.[* 하지만 지휘 계통은 상관없다. 미 해병대는 [해군청] 소속이지만 해안경비대는 [국토안보부] 소속이다. 전시에는 [제1함대]로 해군에 파견될 수도 있긴 하다만.]
+
+==== 해병대병 ====
+해군이 [수병]이라 불리는 것처럼 [해병] 혹은 해병대원이라 불린다.[* [북한]과 [원피스]에서는 수병을 해병이라고 한다.] 해군과 합동훈련을 하고 과거에 해병대원들은 함정의 경비업무나 [기지] 경계업무를 맡았지만 현대의 해병들은 상륙보병 기능이고 [수상함]이나 [잠수함]의 경계업무나 기지 헌병 등은 해군 인원을 활용하는 탓에 해군과 일체감이 감소했다. 그 때문에 해병대 특유의 독특한 문화가 자리잡게 되었다.
+
+[대한민국 해병대]가 규모가 작아 [장교단]이나 [준사관단], [부사관단]의 규모가 작기 때문에 예비역 전우회 등을 구성하는 인원은 해병대 병 출신들이 많다. 타군의 예비역 병들이 전우회 등에 상대적으로 무관심한데 비해, 해병대 병들은 [전역] 후에도 [기수]를 따지는 등 분위기가 딴판이다. 해병대의 [독립]이나 [해병사관학교] 설립 등을 주장하는 인원들 상당수가 해병대 병 출신들이다. 병들만큼은 아니지만 예비역 부사관들도 전우회에 많이 참여하며, 장교들은 주로 임관 루트에 따른 기수 모임 등에 가므로 해군 예비역 장교들 모임에 함께 끼는 경우가 대부분이다.
+
+==== 공군병 ====
+공군병은 '''[항공병]'''이라 하며 영어로는 Airman이다. 하지만 공군병 대다수는 자신의 영어 표현이 soldier로 알고 있다(…). 대한민국 공군병의 경우에는 [육군 항공대]에서 독립하면서 시작했고 [건군기]의 인원들이 육군적인 문화에 익숙했기 때문에 해군보다는 육군에 가까운 문화로 나아갔다. 그런데 발전상에서 육군과는 달리 기술군의 특징이 부각되면서 조종장교나 기술부사관의 확충이 중요해져 상대적으로 고학력자를 요구했다. [갑종]이 고졸, [을종]이 중졸을 요구하는 동안 공군은 장교는 대졸, 부사관은 고졸 이상을 충원했다. 병 또한 타군에 비해 잦은 휴가를 미끼로 상대적으로 고학력자들의 지원을 받아들였다. 초기에는 육군과 분위기가 비슷했지만 기술군이란 점과 [조종]장교와 일부 [기지전대|기지대] 소속의 [헌병]이나 [방공포병][* 그나마도 육군에서 1991년에 넘어왔다.]을 제외하면 비전투병과란 점에서 병들의 업무가 전술훈련보다는 유지관리가 중점이 됐다. 타군에 비해 사무실이나 숍(shop) 단위로 근무를 하는 경우가 많다.
+
+=== [미군]의 병 ===
+미군의 경우 훈련병 및 이등병(E-1), 일병(E-2), 상병(E-3), 병장(E-4, 육군만 있으나 병장에 준하는 상병)이 병에 해당한다. 이중 육군 병장은 Corporal과 Specialist(병장에 전하는 상병)로 나뉘는데 동급인 Corporal는 [부사관](NCO) 신분이다. 훈련병 및 이등병은 계급장이 없다.
+
+|| 계급명 || [일등병|일병](E-2) || [상등병|상병](E-3)[* [병장|E-4 등급에 해당하는 계급이 없는 게 아니라, 해당 계급이 병]이 아닌 [부사관|부사관 신분]이라서 기재하지 않았다.] ||
+||<|2> [미합중국 육군|미 육군] || http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Army-USA-OR-02.svg/50px-Army-USA-OR-02.svg.png || http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Army-USA-OR-03.svg/50px-Army-USA-OR-03.svg.png [[br]] 상병 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Army-USA-OR-04b.svg/50px-Army-USA-OR-04b.svg.png [[br]] [병장] [[br]] ([병장]에 준하는 [상등병|상병]]) ||
+|| Private [[br]] (일병) || Private First Class [[br]] (상병) [[br]] Specialist [[br]] (병장) [[br]] ([병장]에 준하는 [상등병|상병]) ||
+||<|2> [미합중국 해군|미 해군] || http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/E2_SM_USN.svg/50px-E2_SM_USN.svg.png [[br]] [갑판병|갑판] 및 [의무병|의무] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/e/eb/E2_FM_USN.png?width=50 [[br]] [기관#s-2.1|기관] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/5/50/E2_AM_USN.png?width=50 [[br]] [해군 항공대|항공] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/b/b9/E2_CM_USN.png?width=50 [[br]] [시설#s-3.1.2.1|시설] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USN_-_Seaman_Apprentice.png/50px-USN_-_Seaman_Apprentice.png [[br]] 철장 || http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/E3_SM_USN.svg/50px-E3_SM_USN.svg.png [[br]] [갑판병|갑판] 및 [의무병|의무] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/f/f5/E3_FM_USN.png?width=50 [[br]] [기관#s-2.1|기관] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/0/05/E3_AM_USN.png?width=50 [[br]] [해군 항공대|항공] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/3/3f/E3_CM_USN.png?width=50 [[br]] [시설#s-3.1.2.1|시설] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USN_-_Seaman_Apprentice.png/50px-USN_-_Seaman_Apprentice.png [[br]] 철장 ||
+|| Seaman Apprentice & Hospitalman Apprentice [[br]] ([갑판병|갑판] 및 [의무병|의무]) [[br]] Fireman Apprentice [[br]] ([기관#s-2.1|기관]) [[br]] Airman Apprentice [[br]] ([해군 항공대|항공]) [[br]] Construction Apprentice [[br]] ([시설#s-3.1.2.1|시설]) [[br]] (일병) || Seaman & Hospitalman [[br]] ([갑판병|갑판] 및 [의무병|의무]) [[br]] Fireman [[br]] ([기관#s-2.1|기관]) [[br]] Airman [[br]] ([해군 항공대|항공]) [[br]] Construction [[br]] ([시설#s-3.1.2.1|시설]) [[br]] (상병) ||
+||<|2> [미합중국 공군|미 공군] || http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/E2_USAF_AM.svg/50px-E2_USAF_AM.svg.png || http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/E3_USAF_AM1.svg/50px-E3_USAF_AM1.svg.png ||
+|| Airman [[br]] (일병) || Airman First Class [[br]] (상병) ||
+||<|2> [미합중국 해병대|미 해병대] || http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/USMC-E2.svg/50px-USMC-E2.svg.png || http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/USMC-E3.svg/50px-USMC-E3.svg.png ||
+|| Private First Class [[br]] (일병) || Lance Corporal [[br]] (상병) ||
+||<|2> [wiki:"해안경비대#s-3" 미 해안경비대] || http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USCG_SM.svg/50px-USCG_SM.svg.png [[br]] [갑판병|갑판] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/USCG_FA.png/50px-USCG_FA.png [[br]] [기관#s-2|기관] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/USCG_AA.png/50px-USCG_AA.png [[br]] [해안경비대 항공대|항공] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USN_-_Seaman_Apprentice.png/50px-USN_-_Seaman_Apprentice.png [[br]] 철장 || http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/USCG_SM.svg/50px-USCG_SM.svg.png [[br]] [갑판병|갑판] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/USCG_FM.png/50px-USCG_FM.png [[br]] [기관#s-2|기관] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/USCG_AM.png/50px-USCG_AM.png [[br]] [해안경비대 항공대|항공] 계급장 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/USN_-_Seaman.png/50px-USN_-_Seaman.png [[br]] 철장 ||
+|| Seaman Apprentice [[br]] ([갑판병|갑판]) [[br]] Fireman Apprentice [[br]] ([기관#s-2|기관]) [[br]] Airman Apprentice [[br]] ([해안경비대 항공대|항공]) [[br]] (일병) || Seaman [[br]] ([갑판병|갑판]) [[br]] Fireman [[br]] ([기관#s-2|기관]) [[br]] Airman [[br]] ([해안경비대 항공대|항공]) [[br]] (상병) ||
+
+선술했듯, 육군만 예외적으로 E-4 등급에 병 신분인 Specialist([병장]에 준하는 [상등병|상병])와(과) [부사관] 신분인 Corporal이 혼재하고 그 외 군종의 E-4에 해당하는 계급은 부사관 신분이다. 60만 명을 넘어 사병(Enlisted)의 절반을 넘게 차지한다. 계급 명칭 번역만 보면 [상병] 등 병 계급인데 부사관으로 분류되는 괴이한 구조라 볼 수 있으나, 이는 그냥 밑에서부터 끊어 어거지로 대치시킨 현실성 없는 한미간 군 계급 번역 체계 탓이다. [주한미군] [육군]에서 근무하는 [카투사]들 증언에 따르면, "규정이 그렇다니까 따르긴 하지만, 부사관인 데다 다는 데 심하면 5년 이상도 복무해야 하는 우리 Sergeant가 가만히 있으면 1년 좀 넘은 뒤에 달아주는 병장이랑 같다는 건 납득하기 힘들다."고 하는 미 육군 장병들도 많다고 한다.
+
+[병장]이 30만 명으로 가장 많다.[* 해군은 E-5인 Petty Officer 2nd Class가 가장 많은 등 각 군별로 차이가 있지만, 쪽수가 가장 많은 게 육군이라 토탈하면 이 계급이 가장 사람이 많다.] 왜냐면 능력과 상관없이 병장(병장에 준하는 상병)까지는 진급이 보장되기 때문이다. 하사은 24만, 중사는 16만으로 줄어들고 상사는 10만이 안 된다. 원사부턴 2만, 선임원사는 1만으로 급격히 줄어드는 피라미드 구조다.
+
+그리고 미 해군 및 해안경비대 일병과 상병중에 수병 및 의무병은 흰색(흰색 제복일 경우 검정색), 기관병은 빨간색, 항공병은 녹색, 시설병은 파란색이다. 해안경비대는 자체 의무 및 시설병과 등이 없어 해군 인원이 파견되어 근무한다.
+
+=== [영국군]의 병 ===
+영국군의 경우 훈련병 및 이등병(E-1), 일병(E-2), 상병(E-3), 병장(E-4)이 병에 해당한다. 이중 없는 것은 육군 및 해병은 일병이며, 해군은 상병이다. 훈련병 및 이등병은 계급장이 없다.
+
+|| 계급명 || [일등병|일병](E-2) || [상등병|상병](E-3) || [병장](E-4) ||
+||<|2> 영국 육군 || 이미지 없음 || http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Army-GBR-OR-03.svg/80px-Army-GBR-OR-03.svg.png || http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Army-GBR-OR-04.svg/80px-Army-GBR-OR-04.svg.png ||
+|| Private [[br]] (일병:없는계급) || Lance Corporal/Lance Bombardier [[br]] (상병) || Corporal/Bombardier [[br]] (병장) ||
+||<|2> 영국 해군 || http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Able_Rating_Badge.png/80px-Able_Rating_Badge.png || 이미지 없음 || http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Leading_Rate_Badge.png/80px-Leading_Rate_Badge.png ||
+|| Able Seaman [[br]] (일병) || Able Seaman [[br]] (상병:없는계급) || Leading Rate [[br]] (병장) ||
+||<|2> 영국 공군 || http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RAF-SAC_Tech-OR-2.png/80px-RAF-SAC_Tech-OR-2.png [[br]] (기술일등병) [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RAF-SAC-OR-2.png/80px-RAF-SAC-OR-2.png [[br]] (일등병) [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RAF-LAC-OR-2.png/80px-RAF-LAC-OR-2.png [[br]] (지상근무일등병) || http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/RAF-Ln_Cpl-OR-7.png/80px-RAF-Ln_Cpl-OR-7.png || http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/RAF-Cpl-OR-4.png/80px-RAF-Cpl-OR-4.png ||
+|| Senior Aircraftman(Technician) [[br]] (기술일등병) [[br]] Senior Aircraftman [[br]] (일등병) [[br]] Leading Aircraftman [[br]] (지상근무일등병) [[br]] (일병) || Lance corporal [[br]] (상병) || Corporal [[br]] (병장) ||
+||<|2> 영국 해병대 || 이미지 없음 || http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OR3_RM_Lance_Corporal.svg/80px-OR3_RM_Lance_Corporal.svg.png || http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OR4_RM_Corporal.svg/80px-OR4_RM_Corporal.svg.png ||
+|| Marine [[br]] (일병:없는 계급) || Lance Corporal [[br]] (상병) || Corporal [[br]] (병장) ||
+
+E-4 이하를 말한다.
+=== [자위대]의 병 ===
+일병과 상병, 병장으로 구성된다. 일본어로는 2사(2士), 1사(1士), 사장(士長)이라고 표현한다. 보통 일병으로 6개월, 상병으로 1년을 보낸 뒤에 병장으로 진급한다. 훈련기간 3개월간엔 계급을 부여받지 않는다. 보통 사고치지 않는 한 입대 후 1년 9개월 뒤에 병장으로 진급하는 셈. 다만 병장으로 4-5년 이상을 보내는 일이 많다.
+
+|| 구분 || [일등병|일병] || [상등병|상병] || [병장] ||
+||<|2> [육상자위대] || http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/JGSDF_Private_insignia_%28a%29.svg/80px-JGSDF_Private_insignia_%28a%29.svg.png [[br]] 정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JGSDF_Private_insignia_%28b%29.svg/80px-JGSDF_Private_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/JGSDF_Private_insignia_%28miniature%29.svg/80px-JGSDF_Private_insignia_%28miniature%29.svg.png [[br]] 작업복 || http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JGSDF_Private_First_Class_insignia_%28a%29.svg/80px-JGSDF_Private_First_Class_insignia_%28a%29.svg.png [[br]] 정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/JGSDF_Private_First_Class_insignia_%28b%29.svg/80px-JGSDF_Private_First_Class_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/JGSDF_Private_First_Class_insignia_%28miniature%29.svg/80px-JGSDF_Private_First_Class_insignia_%28miniature%29.svg.png [[br]] 작업복 || http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/JGSDF_Leading_Private_insignia_%28a%29.svg/80px-JGSDF_Leading_Private_insignia_%28a%29.svg.png [[br]] 정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/JGSDF_Leading_Private_insignia_%28b%29.svg/80px-JGSDF_Leading_Private_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JGSDF_Leading_Private_insignia_%28miniature%29.svg/80px-JGSDF_Leading_Private_insignia_%28miniature%29.svg.png [[br]] 작업복 ||
+|| 2등육사 || 1등육사 || 육사장 ||
+||<|2> [해상자위대] || http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/JMSDF_Seaman_Apprentice_insignia_%28a%29.svg/80px-JMSDF_Seaman_Apprentice_insignia_%28a%29.svg.png [[br]] 동계정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JMSDF_Seaman_Apprentice_insignia_%28c%29.svg/80px-JMSDF_Seaman_Apprentice_insignia_%28c%29.svg.png [[br]] 하계정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/JMSDF_Seaman_Apprentice_insignia_%28b%29.svg/80px-JMSDF_Seaman_Apprentice_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/JMSDF_Seaman_Apprentice_insignia_%28miniature%29.svg/80px-JMSDF_Seaman_Apprentice_insignia_%28miniature%29.svg.png [[br]] 작업복 || http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/JMSDF_Seaman_insignia_%28a%29.svg/80px-JMSDF_Seaman_insignia_%28a%29.svg.png [[br]] 동계정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/JMSDF_Seaman_insignia_%28c%29.svg/80px-JMSDF_Seaman_insignia_%28c%29.svg.png [[br]] 하계정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/JMSDF_Seaman_insignia_%28b%29.svg/80px-JMSDF_Seaman_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/JMSDF_Seaman_insignia_%28miniature%29.svg/80px-JMSDF_Seaman_insignia_%28miniature%29.svg.png [[br]] 작업복 || http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JMSDF_Leading_Seaman_insignia_%28a%29.svg/80px-JMSDF_Leading_Seaman_insignia_%28a%29.svg.png [[br]] 동계정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/JMSDF_Leading_Seaman_insignia_%28c%29.svg/80px-JMSDF_Leading_Seaman_insignia_%28c%29.svg.png [[br]] 하계정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JMSDF_Leading_Seaman_insignia_%28b%29.svg/80px-JMSDF_Leading_Seaman_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/JMSDF_Leading_Seaman_insignia_%28miniature%29.svg/80px-JMSDF_Leading_Seaman_insignia_%28miniature%29.svg.png [[br]] 작업복 ||
+|| 2등해사 || 1등해사 || 해사장 ||
+||<|2> [항공자위대] || http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JASDF_Airman_3rd_Class_insignia_%28a%29.svg/80px-JASDF_Airman_3rd_Class_insignia_%28a%29.svg.png [[br]] 정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/JASDF_Airman_3rd_Class_insignia_%28b%29.svg/80px-JASDF_Airman_3rd_Class_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/JASDF_Airman_3rd_Class_insignia_%28miniature%29.svg/80px-JASDF_Airman_3rd_Class_insignia_%28miniature%29.svg.png [[br]] 작업복 || http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/JASDF_Airman_2nd_Class_insignia_%28a%29.svg/80px-JASDF_Airman_2nd_Class_insignia_%28a%29.svg.png [[br]] 정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/JASDF_Airman_2nd_Class_insignia_%28b%29.svg/80px-JASDF_Airman_2nd_Class_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JASDF_Airman_2nd_Class_insignia_%28miniature%29.svg/80px-JASDF_Airman_2nd_Class_insignia_%28miniature%29.svg.png [[br]] 작업복 || http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/JASDF_Airman_1st_Class_insignia_%28a%29.svg/80px-JASDF_Airman_1st_Class_insignia_%28a%29.svg.png [[br]] 정복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/JASDF_Airman_1st_Class_insignia_%28b%29.svg/80px-JASDF_Airman_1st_Class_insignia_%28b%29.svg.png [[br]] 근무복 [[br]] http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/JASDF_Airman_1st_Class_insignia_%28miniature%29.svg/80px-JASDF_Airman_1st_Class_insignia_%28miniature%29.svg.png [[br]] 작업복 ||
+|| 2등공사 || 1등공사 || 공사장 ||
+
+사병 55만 가운데 병이 45만 이상을 차지하는 한국군이나 사병 120만 가운데 병이 절반을 넘는 [미군]과 달리 [자위대]는 사병 중에 75% 정도가 [부사관]이고 병은 1/4 정도이다.
+
+=== [인민해방군] ===
+중국군의 병은 두 계급이다. 열병(列兵)과 상등병(上等兵)인데 각각 한국의 [일등병]과 [상등병]에 상당한다. 한국군도 1962년에 [상병]과 [병장]을 신설하기 전에는 이등병과 일등병만 존재했다. 병으로 2년을 근무하고 [장기복무]를 선택하면 [하사](한국군의 상병에 상당하나 이때부터 부사관으로 구분된다)로 진급한다.
+
+병의 1년차 월급은 400위안으로 한국돈으로 5만원에 상당한다. [베이징]의 최저급여인 800위안보다는 낮은 편이지만 한국군의 병 급여의 민간 대비보다는 높은 편이다. 부사관을 택하면 월급이 확 뛴다.
+
+== 甁 ==
+http://image.made-in-china.com/2f0j10vKzEGVsJnkcr/Glass-Bottle-Wine-Bottle-Grape.jpg?width=500
+
+Bottle. 액체나 가루를 담는 그릇으로, 입구가 좁게 된 것이 특징이다. 보통 유리 또는 플라스틱으로 만들어지며, 입구의 길이는 사용 목적에 따라서 알맞은 사이즈로 만들어진다.
+
+다양한 용도로 사용되는데, 보통 [[술]]이나 [[음료]] 등의 액체를 담는 데 쓰거나 [[꽃]]을 꽂아두는 데 사용하는 경우가 많으며, 담겨져 있는 대상에 따라 이름이 결정된다. 대부분 '담겨져 있는 대상+병'(예: 술병, 꽃병 등)으로 불린다.
+
+[[항아리]]와는 사용 용도 및 재료 등에서 차이가 있으므로 구분해서 사용한다.
+
+ * 관련 항목
+  * [[맥주병]]
+  * [[병나발]]
+  * [[병조림]]
+  * [[수통]]
+  * [[클라인의 병]]
+  * [[통조림]]
+
+== [[질병|病]] ==
+hurt,ill. 몸이 아픈 상황. 이거에 걸렸을 때는 [[병원]]에 가야한다. [[디트로이트 메탈 시티]] 8권의 트랙 80에서 나온 노래를 가리키기도 한다.
+이 항목에 대한 자세한 것은 [[질병]] 항목에 상세히 나와 있다.
+
+== 丙 ==
+|||||| [[십간]] ||
+|| [[을]] ||◁ '''병''' ▷|| [[정]] ||
+
+십간(十干)에서 세번째. ex - 병인, 병술.
+[[중국어]]로는 [[탄소]]가 3개인 화합물을 뜻하기도 한다. ex) [[wiki:"글리세롤" 丙三醇]]
+
+법학에서는 [[을]]만으로 사례나 판례를 묘사할 수 없는 경우에 나타나는 제3의 등장인물로, [[갑]]의 2번째 [[호구]]를 말한다.
+
+을보다도 못한.. 한마디로 갑의 장난감 또는 샌드백 신세를 나타낼 때도 쓰인다.
+
+== 餠 ==
+떡의 종류. ex - 전병.

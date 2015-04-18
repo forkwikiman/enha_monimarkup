@@ -1,0 +1,31 @@
+AKATSUKI/あかつき
+[[팝픈뮤직]]의 캐릭터.
+[[목차]]
+==== 캐릭터 공식 설정 ====
+[[팝픈뮤직]] CS14 기준
+
+출신지: 중국 화산
+취미: 삼림을 보는 것[* 원문:삼림 워칭]
+좋아하는 것: 숲,동물,자연
+싫어하는 것: 숲을 파괴하는 인간의 방식
+
+숲과 인간과의 보다 좋은 관계를 어떻게 만들어 가는지,
+언제나 진지하게 생각하고 있대.
+(신에게도 고민은 있습니다) 
+
+==== 캐릭터 설명 ====
+[[팝픈뮤직]]CS 14에서 처음 나온 캐릭터.
+여담으로, 전국열전의 곡명인 아카츠키(장르명 FUNKY KOTA)와는 상관 없는 캐릭터다.
+
+==== 팝픈뮤직에서 담당했던 곡들 ====
+ * 팝픈뮤직 CS 14/AC 17
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/5A4oyYPD-1Y&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5A4oyYPD-1Y&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+ Nature / forest song / MIKICHANG+world sequence
+ AC17기준 난이도:12/26/35.
+ 캐릭터 색깔만 연해졌지 AC로 이식되면서 바뀐 게 하나도 없다!
+노멀까지는 쉽지만 난이도가 올라가면서부터 손이 꼬인다. bpm이 느린 관계로, 익스의 경우는 정말 안되겠다 싶으면 하이스피드x2 쟈마를 이용하는 방법도 있다.
+
+[[각주]]

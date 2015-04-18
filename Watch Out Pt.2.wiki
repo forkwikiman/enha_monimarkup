@@ -1,0 +1,59 @@
+[[목차]]
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[beatmania IIDX 14 GOLD]]의 [Watch out!!][* 이쪽은 out의 O가 소문자이다.]의 리믹스 버전이라 할 수 있는 곡으로, 이 곡에서 쓰였던 샘플링이 다수 사용되었다. [wiki:"DJ Mass MAD Izm*" DJ Mass]와 [[DJ YOSHITAKA]]가 합작하였다는 점에서 큰 눈길을 끌었던 곡이다. 
+
+== [[beatmania IIDX]] ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/-j4jxdy_8Gk" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 하이퍼 채보
+
+[[youtube(0HlpzbNvIQY,width=560,height=315)]]
+싱글 어나더 채보
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/FG-pqK8KVEQ" frameborder="0" allowfullscreen></iframe>
+}}}
+더블 하이퍼 채보
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/3B-HU0FPisE" frameborder="0" allowfullscreen></iframe>
+}}}
+더블 어나더 채보 [* 정배치가 아닌 FLIP 에 1P,2P 각각 미러를 건 영상]
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 148  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 6}}} || {{{#blue 599}}} || {{{#orange 9}}} || {{{#orange 1029}}} || {{{#red 12}}} || {{{#red 1506}}} || {{{#blue 6}}} || {{{#blue 616}}} || {{{#orange 9}}} || {{{#orange 961}}} || {{{#red 11}}} || {{{#red 1322}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 18 Resort Anthem ~
+
+원작이 스크래치곡인 만큼 후속곡인 이 곡도 마찬가지로 스크래치곡으로 나왔는데 같은 버전에 워낙 [[wiki:"작열Beach Side Bunny"충격적인 스크래치 곡]]이 나와서 주목이 덜 한 점이 있긴 하지만, 이 곡도 DJ Mass의 다른 스크래치 곡들 못지않게 난이도가 높다. 싱글 노멀, 싱글 하이퍼 모두 표기 난이도에 비해 체감 난이도가 높으며, 특히 싱글 노멀의 스크래치 수는 203개로 총 노트 수의 3분의 1을 스크래치가 차지하고 있다.
+
+싱글 어나더 패턴은 복합 스크래치 처리능력이 필요하다. 키 파트가 다른 스크곡들에 비해서 어렵게 나와 원핸드를 할수는 없고, 24비트 스크래치가 가끔씩 끼여들고 노트도 처리해야 하기 때문에 [[Red. by Full Metal Jacket]]와 비슷하거나 좀 더 어렵게 느껴질 수 있다.
+
+싱글 하이퍼 패턴은 스크래치 처리 능력에 따라서 체감 난이도가 10레벨까지 올라갈 수도 있다. 스크래치도 까다로울 뿐더러 일반노트도 그렇게 간단한 편은 아니기에 9레벨치곤 어려운 편이다.
+
+{{{#!html
+<iframe width="480" height="360" src="http://www.youtube.com/embed/_TNMPgOBTlA" frameborder="0" allowfullscreen></iframe>}}}
+
+이 곡의 [[BGA]]에서 DJ Mass가 [[BEMANI 시리즈]] 관련 매체에서 처음 모습을 보였다. 검은 옷을 입고 붉은 가발을 쓰고 있는 남자가 DJ Mass, 흰 옷의 --혀 자꾸 낼름거리는-- 남자가 [[DJ YOSHITAKA]]. DJ Mass와 DJ Yoshitaka 둘이 벌이는 디제잉 배틀 장면이 압권이다. 영상에서 DJ Yoshitaka가 사용하는 턴테이블은 Technics SL-DZ1200이며, DJ Mass의 턴테이블은 Numark HDX이다.
+
+이 BGA는 [[DJ Mass]]의 앨범 I AM NOT A DJ의 30초짜리 광고로 편집되어서 미리 선보이기도 하였다. Visual Emotion판 BGA에는 짧은 인트로가 추가되어 있다.
+
+
+
+== [[댄스 에볼루션]] ==
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/JNmTQ7cadbk" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 에볼루션]] 난이도 체계 ||
+|| BPM || 난이도 |||||||| 노트수 || 소비 칼로리 ||
+||<|2> 148 ||<|2> 5 || {{{#green LIGHT}}} || {{{#blue STANDARD}}} || {{{#red EXTREME}}} || {{{#orange MASTER}}} ||<|2> 15.40kcal ||
+|| {{{#green 46}}} || {{{#blue 92}}} || {{{#red 177}}} || {{{#orange 276}}} ||
+
+2014년 10월 22일 댄스 에볼루션 아케이드에 이식되었다. 업데이트로 추가된 CHALLENGE 카테고리에서 플레이할 수 있다.
+
+정렬 방식에서 CHALLENGE 카테고리를 선택하면 과제곡이 1곡 등장하는데, 이를 AAA로 클리어해야 다음 과제곡이 등장한다. 9번째 과제곡인 [[FLOWER]]를 AAA로 클리어하면 10번째 과제곡으로 등장하고, 이를 AAA로 클리어하면 통상 해금된다.
+
+CHALLENGE는 2014년 12월 15일에 종료. 그러나 2015년 1월 15일부터 1월 21일까지 기간 한정으로 CHALLENGE를 플레이할 수 있다. 
+이 기간 내에 해금하지 못했을 경우 플레이할 수 없다.

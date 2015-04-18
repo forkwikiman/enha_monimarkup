@@ -1,0 +1,54 @@
+{{{+1 Ligne E du RER d'Île-de-France / RER E}}}
+ * [[철도 관련 정보]]
+||<-5><table align=center><#164b9c> [wiki:"RER" <span style="font-weight:bold;color:white">Réseau Express Régional</span>] ||
+||<#ffffff> [[wiki:"RER A선" A선]] ||<#ffffff> [[wiki:"RER B선" B선]] ||<#ffffff> [[wiki:"RER C선" C선]] ||<#ffffff> [[wiki:"RER D선" D선]] ||<#c760ad> '''{{{#ffffff RER E }}}''' ||
+[[목차]]
+== 개요 ==
+||||<#c760ad> {{{#ffffff RER E선}}} ||
+||운영기관 ||프랑스국철(SNCF)||
+||영업거리 ||56km ||
+||차량 ||SNCF Class Z 22500 ||
+||궤간 ||1435㎜ ||
+||역수 ||21 ||
+||전기 ||교류 25000V ||
+
+[[RER]]의 한 노선으로  1999년 에 개통한 RER로서는 최신의 노선이다.
+E선은 오스만 생 라자르 (Haussmann Saint-Lazare) 기차역과 마쟌타(Magenta) 역을 연결하는 지하 신선 개통으로 운전을 개시하여 현재 RER의 네트워크를 완성시켰다.
+교외에서는 센 생 드니 (Seine-Saint-Denis), 센 에 마른(Seine-et-Marne)으로 통한다. 종착역은 투르낭(Tournan) 역 셸 구르네(Chelles-Gournay) 역이다.
+또한 오스만 생 라자르 역에서 서진하여 라 데팡스 방면으로 연장하는 계획이 있다.
+
+== 노선 ==
+attachment:노선도.jpg
+=== 본선 ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| [wiki:"파리 생 라자르역" 오스만 - 생 라자르] || Haussmann - Saint-Lazare || 1 || {{{#9b993a ●}}} [[파리 지하철 3호선]] [[br]] {{{#cec82b ●}}} [[파리 지하철 9호선]] [[br]] {{{#028d5b ●}}} [[파리 지하철 12호선]] [[br]] {{{#89d3de ●}}} [[파리 지하철 13호선]] [[br]] {{{#672f8f ●}}} [[파리 지하철 14호선]] [[br]] {{{#fe370f Ⓐ}}} [[RER A선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] [[br]] {{{#c3a500 Ⓚ}}} [[트랑지리엥 K선]] [[br]] [[TER]] 오트-노르망디 ||  ||
+|| 마쟌타 || Magenta || 1 || {{{#0c6eb7 ●}}} [[파리 지하철 2호선]] [[br]] {{{#bb4b9c ●}}} [[파리 지하철 4호선]] [[br]] {{{#f68f4d ●}}} [[파리 지하철 5호선]] [[br]] {{{#537db9 Ⓑ}}} [[RER B선]] [[br]] {{{#18964c Ⓓ}}} [[RER D선]] [[br]] {{{#a15256 Ⓗ}}} [[트랑지리엥 H선]] [[br]] {{{#c3a500 Ⓚ}}} [[트랑지리엥 K선]] [[br]] [[TER]] 피카르디 || [파리 북역] 환승 ||
+|| 팡탱 || Pantin || 2 ||  ||  ||
+|| 누아지 르 섹 || Noisy-le-Sec || 3 || {{{#006cb8 ①}}} [[파리 트램 1호선]] || ||
+
+=== 동쪽 셸 구르네 분기 ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| (누아지 르 섹) || Noisy-le-Sec ||  ||  ||  ||
+|| 봉디 || Bondy || 3 || {{{#ffbf00 ④}}} [[파리 트램 4호선]] ||  ||
+|| 르 랑시 – 빌몽블 - 몽페르메이 || Le Raincy - Villemomble - Montfermeil || 4 ||  ||  ||
+|| 가니 || Gagny || 4 ||  || ||
+|| 르 샤네 - 가니 || Le Chénay – Gagny || 4 ||  ||  ||
+|| 셸 - 구르네 || Chelles - Gournay || 4 || {{{#ffa90d Ⓟ}}} [[트랑지리엥 P선]] || ||
+
+=== 동쪽 투르낭 분기 ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| (누아지 르 섹) || Noisy-le-Sec ||  ||  ||  ||
+|| 로즈니 부아 페리에 || Rosny-Bois-Perrier || 3 ||  ||  ||
+|| 로즈니 수 부아 || Rosny-sous-Bois || 3 ||  ||  ||
+|| 발 드 퐁트네 || Val-de-Fontenay || 3 || {{{#fe370f Ⓐ}}} [[RER A선]] || ||
+|| 노장 – 르 페로 || Nogent - Le Perreux || 3 ||  ||  ||
+|| 레 불레로 = 샹피니 || Les Boullereaux - Champigny || 3 ||  ||  ||
+|| 비예르 쉬르 마른 || Villiers-sur-Marne - Le Plessis-Trévise || 4 ||  ||  ||
+|| 레 이브리 – 누아지 르 그랑 || Les Yvris - Noisy-le-Grand || 4 ||  ||  ||
+|| 에메랭빌 - 퐁토 콩보 || Émerainville - Pontault-Combault || 5 ||  ||  ||
+|| 루와지 앙 브리 || Roissy-en-Brie || 5 ||  ||  ||
+|| 오주아 라 페리에 || Ozoir-la-Ferrière || 5 ||  || ||
+|| 그레츠 아르맹빌리에 || Gretz-Armainvilliers || 5 ||  ||  ||
+|| 투르낭 || Tournan || 5 || {{{#ffa90d Ⓟ}}} [[트랑지리엥 P선]] ||  ||
+
+[[각주]]

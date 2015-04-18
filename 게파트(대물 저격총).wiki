@@ -1,0 +1,41 @@
+http://weaponland.ru/_ph/7/192573472.jpg
+http://www.imfdb.org/images/thumb/a/ae/GepardM6.jpg/400px-GepardM6.jpg
+게파트 M6 Lynx ~~유독 현대적이고 특이하게 생겼다..~~ ~~사진도 따로있다~~
+~~M2,3는 불펍도 보통 형태도 아닌 괴악한 탄창배치..~~
+{{{#!html
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=7E3C53EA9A5CAE7B8F4B6AC265F0176E6ECC&outKey=V12406d0c937915e03f8d06ccadfa9f43be6dbd51187d0c1d734a06ccadfa9f43be6d" frameborder="no" scrolling="no"></iframe>
+}}}
+게파트 M4.
+{{{#!html 
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=41850B84CAF320C4399C9C7C5F97885BFB1D&outKey=V12102d92b6b6999dcfd704cc676647dae467e1e6421478bc679f04cc676647dae467" frameborder="no" scrolling="no"></iframe>
+}}}
+게파트 M6의 사격 영상. [[바렛 M82]]처럼 총열이 후퇴된다.
+[[목차]]
+== 제원 ==
+||무게||17.5 kg||
+||길이||1,570 mm||
+||총열||1,100 mm||
+||탄약||12.7x108mm B32, .50 BMG, 14.5x114mm(M3)||
+||작동 방식||M1 단발 12.7x108mm, .50 BMG||
+|| ||M2 반자동12.7x108mm, .50 BMG||
+|| ||M3 반자동 14.5x114mm||
+|| ||M4 반자동12.7x108mm, .50 BMG||
+|| ||M5 볼트액션 12.7x108mm, .50 BMG||
+|| ||M6 반자동 12.7x108mm, .50 BMG||
+||탄속||900 m/s (.50 BMG)||
+|| ||860 m/s (12.7x108 mm)||
+|| ||1000 m/s (14.5 mm)||
+||유효사거리||2,000 m||
+||최대사거리||2,500 m||
+||급탄||M1 단발,M2~M6 반자동 5발||
+== 개요 ==
+[[헝가리]]의 [[대물저격총]]으로, 비교적 정확한것이 특징이다. 실제로는 M1~M6가 모두 조금씩 다르다. M1도 반자동 버전이 있으며, 대신 M1 계열은 모두 길이가 긴편이며, M2 계열은 단축형이고, M3 계열은 14.5mm버전으로, 더 정확하다고 한다. 사실 굉장히 드문 14.5mm급 반자동 소총이다..
+~~그래서 개요는 어디갔어~~ [[추가바람]]
+== 매체에서의 등장 ==
+ * [[팬텀 오브 인페르노]]에서 게파트 M1이 나온다.
+ * [[코치카메]]에서 게파트 M1이 나온다.
+ * [[블랙 라군]]에서 게파트 M2가 나온다.
+ * [[ArmA 3]]에서 게파트 M6가 나온다.
+ * [[콜 오브 듀티: 고스트]]에서 게파트 M6가 나온다.
+ * [[이터널시티2]] - 55등급 대물저격소총 'Gepard M1'[* 게임 내에서는 제파드로 잘못 읽어 나온다.]으로 등장. 처음 나온 단발대물저격으로 장탄수가 적을수록 데미지가 강력해지는 게임 특성상 첫 등장시에 그 어마어마한 파괴력으로 한때 게임을 휩쓸었다. 오직 이 소총만을 위해 재장전속도에 극단적으로 투자하는 유저가 있을정도.
+[[추가바람]]

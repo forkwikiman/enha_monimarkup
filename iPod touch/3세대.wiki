@@ -1,0 +1,44 @@
+{{{+1 iPod touch(3rd generation)}}}
+
+[[include(틀:애플 iOS 제품군)]]
+http://www.bridgat.com/files/Apple_iPod_touch_32GB_MP3_Player_3rd_Generation.jpg
+{{{#!html
+<object width="600" height="338"><param name="movie" value="http://www.youtube.com/v/l5SfGql3px0?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/l5SfGql3px0?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="338" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+ * 2009년 미주지역 아이팟 터치 3세대 광고(BGM은 Tommy Sparks의 She's Got Me Dancing)
+
+[[목차]]
+== 개요 ==
+[[2009년]] [[9월 9일]] 출시된 [[wiki:"애플(기업)" 애플]]의 세번째 [[wiki:"iPod touch" 아이팟 터치]].
+
+== 사양 ==
+=== 8 GB 모델 - (속칭)i Pod touch/2.5 세대 ===
+||[wiki:"SoC" 프로세서]||삼성 [wiki:"삼성전자 허밍버드" S5L8720] [[SoC]]. [[wiki:"ARM(CPU)" ARM]]11 533 MHz [[CPU]], PowerVR MBX Lite 3D [[GPU]] ||
+||[[메모리]]||128 MB eDRAM RAM, 8 GB 내장 메모리 ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||없음 ||
+||[[배터리]]||내장형 Li-lon 739 mAh ||
+||[[운영체제]]||iPhone OS 3.1 → [[iOS]] 4.2.1 ||
+||크기 및 무게||61.8 x 110 x 8.5 mm, 115 g ||
+||기타||Nike+ 지원 ||
+
+=== 32 GB / 64 GB 모델 - i Pod touch/3 세대 ===
+||[wiki:"SoC" 프로세서]||삼성 [wiki:"삼성전자 허밍버드" S5PC100] [[SoC]]. [[ARM Cortex-A8]] 600 MHz [[CPU]], PowerVR SGX535 [[GPU]] ||
+||[[메모리]]||256 MB eDRAM RAM, 32 GB / 64 GB 내장메모리 ||
+||[[디스플레이]]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) TFT-LCD, 멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||없음 ||
+||[[배터리]]||내장형 Li-lon 789 mAh ||
+||[[운영체제]]||iPhone OS 3.1.1 → [[iOS]] 4.3 → 5.1.1 ||
+||크기 및 무게||61.8 x 110 x 8.5 mm, 115 g ||
+||기타기능||Nike+ 지원, 가속도 센서, 근접 센서, 조도 센서 탑재 ||
+
+== 상세 ==
+2009년 9월 9일 [[wiki:"iPod touch/2세대" 아이팟 터치 2세대]]모델이 단종되면서 32 GB와 64GB 모델이 출시되었다. 8 GB 신모델도 동시기에 나왔지만 3세대 모델과 스펙이 다르고 애플 스토어에서도 8 GB 모델에 대해서만 세대 명기를 하지 않고 있다. 속칭 2.5세대.
+
+iPhone OS 3.1로 출시되었고 [[iOS]] 5까지 지원되었다. 램이 256 MB로 늘어나고 CPU와 GPU 그래픽이 [[wiki:"아이폰 3GS" 3GS]]에 있는 것으로 바뀌었으며, 그에 따라 어플리케이션 실행 속도도 증가했다. 음성 명령을 지원하고, [[아이폰 3GS]]의 보이스오버 기능을 지원한다. 음악 재생은 30시간, 비디오 재생은 6시간으로 배터리가 늘었음에도 전작보다 음악 재생 시간이 줄어들었다. 마이크와 음악 재생 컨트롤이 달려있는 이어폰이 번들로 제공되었다. 
+
+[[아이폰 3GS]]와 함께 나온 3세대의 경우 통화 기능 및 카메라[* 사실 탑재하려 했으나 배터리 문제로 탑재되지 못했다고 한다.], [[GPS]]를 제외하면 공식상 스펙은 동급이지만 미묘하게 3D등 처리 속도 면에서 3GS보다 약간 더 빠르다. 네티즌들이 그 이유로 드는 것들은 통신 모듈과 전화 어플리케이션이 상주하면서 소비하는 리소스가 상당히 크기 때문에 하드웨어가 같더라도 통화 기능 등의 미탑재로 기기가 받는 부하가 적다는 것, 그리고 3GS보다 '비공식상' 스펙이 더 좋다는 것 등.
+
+아이팟 터치 1세대부터 적용되기 시작한 크롬 코팅의 약하디 약한 내구도가 문제가 되었다. 자세한 내용은 [[wiki:"iPod touch/1세대" 1세대]]문서 참조.

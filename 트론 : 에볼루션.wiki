@@ -1,0 +1,13 @@
+https://images-na.ssl-images-amazon.com/images/G/01/videogames/detail-page/TRON_timeline.jpg?width=850
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/5ZLONRreKAI?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5ZLONRreKAI?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+
+[[트론 : 새로운 시작]]의 미디어 믹스로 플레이스테이션3, 엑스박스 360, PC, Wil, NDS, PSP용으로 발매된 게임이다. 맨 위의 이미지에서도 볼 수 있듯이 트론 원작과 트론: 새로운 시작 사이에 일어난 일을 다루고 있는데 기종별로 사건이 일어난 시점에 차이가 있다. 덕분에 완벽하게 스토리를 즐기기 위해선 최소한 4장의 타이틀을 구입해서 즐겨야 하는 것으로 보인다. ~~더러운 상술~~ 본 문서는 1990~2000년 사이의 스토리를 기준으로 설명한다.
+
+게임의 배경은 영화에서 회상장면으로 잠깐 나오는 클루의 반란이 일어나기 직전으로 일종의 프리퀄로서 플레이어는 케빈 플린이 직접 통치하는 그리드의 모니터(감시역)이며 ISO의 행사에 나타나 훼방을 놓은 바이러스를 추적하는 것으로 이야기는 시작된다.
+
+본편에 등장하는 케빈 플린이나 클루, 트론, 쿠오라, 주스 같은 캐릭터들도 볼 수 있다. 참고로 성우도 모두 영화에 등장하는 배우들이 직접 연기했다. 게임 플레이 도중에 얻은 디스크로 세계관 설정이나 캐릭터 모델링들을 열람할 수도 있다.
+
+게임 플레이는 미러스 엣지를 연상시키는 [[파쿠르]] 액션이 대부분을 차지하지만 미러스 엣지와는 다르게 3인칭 시점에서 진행된다. 화면회전이 약간 독특한 느낌이지만 적응은 가능하다. 그 외에도 라이트 사이클 운전과 같은 미니 게임이 산재되어 있다. 바이러스에 침식된 부분의 묘사와 플레이어 캐릭터의 업그레이드는 트론 2.0의 영향을 받은 것으로 보인다.외국에는 이미 발매되었지만 국내 정발이 이루어지지 않았으며 향후방향에 대해서는 아직 불명이다.

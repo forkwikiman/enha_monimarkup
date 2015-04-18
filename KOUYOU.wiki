@@ -1,0 +1,46 @@
+[[목차]]
+
+== 개요 ==
+
+5키 [[비트매니아]] CORE REMIX 수록곡. 작곡은 [[시미즈 요헤이]]. 장르는 J-SOUL. CORE REMIX에 몇 안되는 신곡들 중 하나이다.
+
+== [[비트매니아 시리즈]] ==
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/HsDFRRNPPzM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아]],[[비트매니아 III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 118 |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 1}}} || {{{#orange 116}}} || {{{#red 1}}} || {{{#red 127}}} || {{{#green -}}} || {{{#green -}}} || {{{#orange 1}}} || {{{#orange 142}}} || {{{#red 1}}} || {{{#red 156}}} || {{{#green -}}} || {{{#green -}}} ||
+
+ * [wiki:"비트매니아" 곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : CORE REMIX, THE FINAL
+ * 가정용판 수록 : beatmania 6th mix + CORE REMIX
+ * 타 [[비마니 시리즈]] 이식 : [[beatmania III]] APPEND CORE REMIX ~ beatmania III THE FINAL, [[팝픈뮤직]]
+
+곡의 제목은 紅葉(붉은 잎)의 일어 발음을 영어로 표기한 것이다.
+
+전반적으로 매니악한 성향이 짙은 후기 5키 비트매니아 시리즈에서 몇 안되게 편안한(?) 분위기를 느낄 수 있는 곡으로, 말 그대로 '가을' 분위기를 그대로 곡으로 옮긴 곡이다. J-SOUL이라는 장르 표기와는 달리 보컬곡은 절대 아니다(...) 잔잔한 [[치유계]] 연주곡.
+
+난이도도 꽤나 쉬웠고 해서, 초심자를 위한 노래라 보면 될 듯 하다. 특이한 점은 난이도 1임에도 불구하고 마지막 판에서 등장한다는 것이다.
+== [[팝픈뮤직]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/0cFSqduYx3M" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|日本の秋。紅葉の秋。
+일본의 가을. 붉은 잎의 가을.|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 12 [[br]] いろは || J-SOUL(from beatmania) || KOUYOU[[br]]붉은 잎 || youhei || SHOLLKEE[[br]][[숄키]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 118 || 43단계 || {{{#blue 5}}} || {{{#green 8}}} || {{{#orange 18}}} || {{{#red 27}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 14}}} || {{{#orange 24}}} || {{{#red 33}}} ||
+|||| 노트 수 || {{{#blue 125}}} || {{{#green 127}}} || {{{#orange 314}}} || {{{#red 460}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+나중에 [[팝픈뮤직]] 12 이로하에도 이식되었다.

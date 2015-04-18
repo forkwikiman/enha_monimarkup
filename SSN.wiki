@@ -1,0 +1,70 @@
+ * 상위 항목: [[원자력 잠수함]]
+
+|||||||| 현대전의 잠수함 ||
+|||||| [[원자력 잠수함]] || [[재래식 잠수함]] ||
+|| [[SSBN]] || [[SSGN]] || '''SSN''' || [[잠수정]] ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Virginia_class_submarine.jpg/800px-Virginia_class_submarine.jpg?width=590
+
+http://upload.wikimedia.org/wikipedia/commons/d/d8/Submarine_Vepr_by_Ilya_Kurganov_crop.jpg?width=590
+
+http://upload.wikimedia.org/wikipedia/commons/7/74/HMS_Tireless_S-88.jpg?width=590
+
+[[목차]]
+
+== 개요 ==
+SSN은 원자력으로 추진되는 빠른 공격형 잠수함을 말한다. 대표적인 SSN으로는 [[버지니아급]], [[아쿨라급]], [아스튜트급]] 등이 있다.
+
+== 역사 ==
+원자력 잠수함(Nuclear submarine)은 제2차 세계대전이후에 개발된 핵분열 방식을 응용한 원자로를 동력으로 사용하는 잠수함을 말한다. 미국은 최초로 실용화한 원자력 잠수함의 해군 함종 분류기호를 SSN이라 칭했다. 미국과 영국, 프랑스는 원자력 추진 잠수함인 SSN과 SSBN만 운용한다. 미국은 추가적으로 SSGN도 운용하고 있다. 
+
+== SSBN, SSGN과 구별 ==
+=== [[SSBN]] ===
+공격용 잠수함이지만 동력만 원자로를 쓴다면 공격원잠(SSN)이라 부른다. 이 공격원잠에 잠동력 원자로만 쓰는게 아니라 핵무기까지 장비한다면 [탄도 미사일]원잠(SSBN)이 된다. SSBN은 전략원잠이라고 부른기도 한다.
+
+=== [[SSGN]] ===
+순항미사일원잠(SSGN)이라는 분류는 항공모함을 상대하기 위해 러시아가 [[오스카급]]을 만들면서 생겨난 명칭이다. SSGN은 일반적인 공격용 잠수함(SSN)이나 SSBN을 순항 미사일 발사 전용으로 개조한 원자력 잠수함을 말한다.  현재 SSGN은 미국과 러시아만 보유하고 있다.
+
+== 국가별 SSN 단순 보유 수량 ==
+|||||||| 국가별 SSN 보유 수량 ||
+|| 국가 || 보유 || 비축 || 건조/추가 계획 ||
+||[[미국]] || 53 척 || 2 척 || 23 척 ||
+||[[러시아]] || 17 척 || 4 척 || 9 척 ||
+||[[중국]] || 7 척 || || 10 ~ 12 척 ||
+||[[영국]] || 8 척 || || 5 척 ||
+||[[프랑스]] || 6 척 || || 6 척 ||
+||[[인도]] || 1 척 || || 10 척 ||
+||[[브라질]] || || || 1 척 ||
+||[[일본]] || || || ||
+
+== SSN의 종류와 비교 ==
+|| 이름 || 소속 || 수상 배수량 || 전장 || 전폭 || 흘수 || 수량 ||
+||[[로스엔젤레스급]] ||[[미해군]] ||6,082 톤 ||110 m ||10 m ||9.4 m ||43 척[* [http://en.wikipedia.org/wiki/Los_Angeles_class_submarine Los Angeles class submarine]] ||
+||[[시울프급]] ||[[미해군]] ||'''8,600 톤''' ||107 m ||12 m || ||3 척 ||
+||[[버지니아급]] ||[[미해군]] ||7,300 톤[* [http://www.shima.demon.co.uk/viboat.htm 수상 배수량 출처]] ||115 m ||10 m || ||8 척(+22 척) ||
+||[[시에라급]] I[* [http://en.wikipedia.org/wiki/Sierra_class_submarine Sierra class submarine]] ||[[러시아 해군]] ||7,200 톤 ||107 m ||12 m || ||(+2 척) ||
+||[[시에라급]] II ||[[러시아 해군]] ||7,600 톤 ||111 m ||14.2 m || ||2 척 ||
+||[[빅터급]] III[* [http://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_(%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0) 빅터3급 제원]] ||[[러시아 해군]] ||6,990 톤 ||107.1 m ||10.8 m ||7.8 m ||4 척 ||
+||[[슈카B/바스급]] I [* [NATO 코드명] 러시아의 전략원잠의 이름과 같은 아쿨라이다. 혼동하기 쉬우니 유의하기 바람.] ||[[러시아 해군]] ||8,140 톤 ||110.3 m ||13.6 m ||9.7 ||2 척 ||
+||[[슈카B/바스급]] I 개량형[* [http://en.wikipedia.org/wiki/Akula_class_submarine Akula class submarine]] ||[[러시아 해군]] ||8,140 톤 ||110.3 m ||13.6 m ||9.7 m ||5 척(+2 척) ||
+||[[슈카B/바스급]] II ||[[러시아 해군]] ||8,450 ~ 8,470 톤 ||113.3 m ||13.6 m ||9.7 m ||3 척[* 네르파급, 1척이 추가로 존재하나 러시아가 인도에 임대하여 제외하였음, 향후 인도에서 리스후에 구입한다는 뉴스도 존재함.] ||
+||[[슈카B/바스급]] III ||[[러시아 해군]] ||8,450 ~ 8,470 톤 ||113.3 m ||13.6 m ||9.7 m || ||
+||[[야센급]][* [http://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_885_%C2%AB%D0%AF%D1%81%D0%B5%D0%BD%D1%8C%C2%BB (러시아어)야센급의 제원 출처]] ||[[러시아 해군]] ||'''8,600 톤''' ||119 m ||13.5 m ||9.4 m ||1 척(+9 척) ||
+||[[네르파급]][* [http://en.wikipedia.org/wiki/Soviet_submarine_K-152 Russian submarine K-152 Nerpa]]([[슈카B/바스급]] III) ||[[인도 해군]] ||8,140 톤 ||113.3 m ||13.5 m ||9.7 m ||1 척 ||
+||[[트라팔가급]][* [http://en.wikipedia.org/wiki/Trafalgar_class_submarine Trafalgar class submarine]] ||[[영국 해군]] ||4,800 톤 ||85.4 m ||9.8 m ||9.5 m ||6 척[* 1척은 퇴역함.] ||
+||[[아스튜트급]][* [http://en.wikipedia.org/wiki/Astute_class_submarine Astute class submarine]] ||[[영국 해군]] ||7,000 톤 ||97 m ||11.3 m ||10 m ||2 척(+5 척) ||
+||[[루비급]][* [http://en.wikipedia.org/wiki/Rubis_class_submarine Rubis class submarine]] ||[[프랑스 해군]] ||2,400 톤 ||73.6 m ||7.6 m ||6.4 m ||6 척 ||
+||[[바라쿠다급]][* [http://en.wikipedia.org/wiki/French_Barracuda_class_submarine French Barracuda class submarine]] ||[[프랑스 해군]] ||4,765 톤 ||99.4 m ||8.8 m ||7.3 m ||(+6 척) ||
+||[[한급]][* [http://en.wikipedia.org/wiki/Type_091 Type 091 submarine]] ||[[인민해방군 해군]] ||4,500 톤 ||98.2 m ||10 m ||7.4 m ||5 척[* 초기 2척은 반 퇴역 상태라는 소문도 있다.] ||
+||[[상급]][* [http://en.wikipedia.org/wiki/Type_093 Type 093 submarine]] ||[[인민해방군 해군]] ||4000 ~ 5000 톤 ||110 m ||11 m ||10 m ||2 척[* [http://zh.wikipedia.org/wiki/093%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87 (중문)제원과 취역 출처]](+4 ~ 6 척) ||
+||[[95식 공격원잠]][* [http://zh.wikipedia.org/wiki/093%E5%9E%8B%E6%A0%B8%E6%BD%9C%E8%89%87 Type 095 submarine ]] ||[[인민해방군 해군]] ||? 톤 ||? m ||? m ||? m ||(+6 척) ||
+||[[바라쿠다급]][* [http://edition.cnn.com/2008/WORLD/americas/12/22/brazi.france.sub/ Brazil to get nuclear sub technology from France]] ||[[브라질 해군]] ||4,765 톤 ||99.4 m ||8.8 m ||7.3 m ||(+1 척) ||
+
+
+== 퇴역한 SSN 비교 ==
+
+
+== 관련 항목 ==
+ * [[구축함]]
+ * [[해군력]]
+ * [[해상 병기/현대전]]

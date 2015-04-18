@@ -1,0 +1,66 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡자는 [[Qrispy Joybox]]. [[Qrispy Joybox]] 명의 특유의 동화적인 분위기이다.
+
+== [[리플렉 비트 시리즈]] ==
+attachment:/fly_to_next_world.png
+[* 자켓에 [[空色コンチェルト]], [[cloche]], [[Twinkle Wonderland]]에 나오는 동물들이 있다.]
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 || 
+|| [[BPM]] |||||||||||| 난이도 || 
+||<|2> 184 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 5}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 114}}} || {{{#orange 200}}} || {{{#red 530}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 30 ||
+
+2012년 10월 1일 [[리플렉 비트 라임라이트]]에 수록되었다 제목부터가 곧 출시될 [[리플렉 비트 콜레트|차기작]]을 암시하고 있고, 실제로 라임라이트의 마지막 업데이트 곡이 되었다.
+
+[[코나미 아케이드 챔피언쉽/2012|KAC 2012]] 예선 과제곡으로 선정되었다. 그리고 [[리플렉 비트 콜레트|차기작]]에서는 통상 해금되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/SUEfXSuYyYw" frameborder="0" allowfullscreen></iframe>}}}
+
+레벨 10 중에서는 하급으로 종종 평가받고 있으나 주가 되는 3TOP 처리가 익숙치 않다면 체감 난이도가 높아지는 편. 전체적으로 정박자 위주지만 중간 부분에서 변박자가 나오기 때문에 스코어링을 할 때에는 주의를 해야한다.
+
+== [[사운드 볼텍스]] ( Fly to Next World (syzfonics Remix) ) ==
+[[사운드 볼텍스 플로어]] '[[사운드 볼텍스 II -인피니트 인펙션-]] 제작결정기념 리믹스 컨테스트'의 Fly to Next World 부문 당선곡이다. 리믹서는 syzfonics.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||attachment:/fly.jpg||attachment:/fly.jpg||attachment:/fly.jpg||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 07}}} || {{{#ff009f 12}}} ||
+|| 체인 수 || {{{#purple 0415}}} || {{{#orange 0788}}} || {{{#ff009f 1083}}} ||
+|| 일러스트 담당 || {{{#purple tef * tef}}} || {{{#orange tef * tef}}} || {{{#ff009f tef * tef}}} ||
+|| 이펙터 || {{{#purple DJ WILDPARTY}}} || {{{#orange DJ WILDPARTY}}} || {{{#ff009f DJ WILDPARTY}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 02(2013.6.20)}}} ||
+|| [[BPM]] |||||| 185 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} || 통상해금 || 통상해금 ||
+|| {{{#orange ADVANCED}}} ||<|2> 1100 ||<|2> 없음 ||
+|| {{{#ff009f EXHAUST}}} ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 01 C코스(2015.2.27 ~)
+  * EXHAUST : Skill Level 04 B코스(2014.11.20 ~ 2014.12.26)
+
+{{|
+처음뵙겠습니다, syzfonics(시즈포닉스)라 하는 잘 모르는 사람입니다.
+채용된건 의외였습니다. 음악 게임으로 플레이 하는건 일절 생각하지도 않고, 제가 원하는 대로 했기 때문에, 이건 사볼에서 어떻게 플레이할지 신경 쓰이는 부분이네요. 정말로 감사합니다.
+더 이상 말할 것은 없습니다. 코멘트를 생각하려고 에너지 드링크를 마시고, 급기야 철야도 해봤지만 똑같군요. 잘 부탁드립니다.
+
+-당선자 코멘트-
+|}}
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/4AnU6ddK7Y4" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 클리어 영상
+
+== 여담 ==
+[[KAC 2013]]에서 각 리듬게임들의 생중계를 종료할때마다 이 BGM이 사용되었다.그런데 대회 동안에 '''[[Qrispy Joybox]]가 작곡했던(MAX MAXIMIZER 명의 포함)곡이 나오지 않았다'''는 점에서 아이러니하게 다가온다. ~~콜레트 결승라운드때 마음고생하셨다고 마무리 BGM은 Fly to Next World로 돌려쓰는 [[KONMAI]]의 희망고문~~ 

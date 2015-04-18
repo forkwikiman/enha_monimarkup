@@ -1,0 +1,43 @@
+ * 이 항목은 작곡가 [[Memme]]의 곡에 대해 서술하고 있습니다. 이 곡의 모티브가 된 '귀요미송'은 [[귀요미]] 항목 참조.
+
+attachment:귀요미.jpg
+
+~~약 한사발 하신듯~~ ~~그것도 거하게 하신듯~~
+~~무슨 마약하시길래 이런 생각을 했어요~~
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/Od_xhM4HwpI?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Od_xhM4HwpI?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+2012년 11월 16일 Memme의 블로그, [[테오이]], [[리듬게임 갤러리]], [http://cafe.naver.com/o2jamanalog/ 오투잼 공식카페] 등에 공개된 곡이다. 이 곡이 설마 상용게임에 나오겠어....나오겠어.....했지만.....
+나왔다!
+
+|| 최초 수록 || [[오투잼 U]] ||
+|| 장르 || Cosmic Techno ||
+|| 작곡 || [[Memme]] ||
+|| BPM || 174 ||
+|| 일러스트 || Pory ||
+
+|||||||| [[오투잼 U]] ||
+|| 난이도 || 2Key || 4Key || 5Key ||
+|| EZ || 05 || 09 || 09 ||
+|| NM || 09 || 20 || 21 ||
+|| HD || 20 || 25 || 26 ||
+|| 가격 |||||| 해금곡 ||
+
+{{{#!html
+<iframe width="512" height="321" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=438565CDD4559C04378D9C7C5F97885BFB1D&outKey=V12104983c07d7a307be12b6b32d5618cdde3481f4315799a553d2b6b32d5618cdde3" frameborder="no" scrolling="no"></iframe>
+}}}
+
+'''그리고 어렵다.'''
+
+
+5키하드 Perfect Play 영상 Player : 웅차
+
+2013년 2월 23일 [[오투잼 U]]에 해금곡으로 등장했다. 해금조건은  6일 이내 기타 2개, 건반 2개, 드럼 2개, 마이크 2개. 2014년 1월 29일부터 해금 없이 플레이 가능하다.
+
+기존의 삽입된 목소리는 저작권때문에 그대로 출시할 수가 없어서 다른 목소리로 녹음을 했는데, 남자목소리는 [[Memme]] 자신이라고 한다.
+
+attachment:/memme_shot.jpg
+
+~~근데 원래 귀요미송 아니었나?~~
+2013년 7월 11일 [[리듬엔조이]] 에 Easy, Normal, Hard 모드로 실렸다. ~~[[충격과 공포]]~~

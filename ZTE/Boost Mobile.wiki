@@ -1,0 +1,72 @@
+ * 상위항목 : [[ZTE]]
+
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 미국 지역통신사인 Boost Mobile를 통해 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 목록.
+
+각 기기정보가 전부 토막글 수준이며 주요 모델의 커스텀 모델도 아닌 별개의 모델들이다.
+
+== ZTE Warp ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/z/t/ztewarp_1.png
+
+2011년 11월에 출시되었다. 기기명은 N860.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655 [[SoC]]. [[Qualcomm Scorpion]] 1 GHz [[CPU]], 퀄컴 Adereno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1 ||
+||[[카메라]]||후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1600 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.3 (Gingerbread) ||
+||규격||69 x 130 x 11 mm, 140 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+=== 상세 ===
+ZTE의 첫 부스트 모바일 출시 스마트폰이다. 2011년 하반기 기준으로 무난한 중급형 사양을 가졌다.
+
+[[각주]]
+
+== ZTE Warp Sequent ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/z/t/zte_warp_sequent_5.png
+
+2012년 9월에 출시되었다. 기기명은 N861.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655T [[SoC]]. [[Qualcomm Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adereno 205 [[GPU]] ||
+||[[메모리]]||768 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 130만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1650 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||65 x 127 x 10 mm, 140 g ||
+||기타|| ||
+
+=== 상세 ===
+Warp의 후속작이다. AP를 그대로 [[퀄컴 스냅드래곤]] S2 MSM8655을 사용하면서 [[베가 S]]와 같이 1.4 GHz로 오버클럭하여 사용한다. 또한 전면 카메라가 추가되었고, 운영체제도 4.1 JB로 업그레이드 되었다.
+
+[[각주]]
+
+== ZTE Boost Force ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/b/o/boost-force-front_2.png
+
+2013년 4월에 출시되었다. 기기명은 N9100.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Plus MSM8960 [[SoC]]. [[Qualcomm Krait]] MP2 1.5 GHz [[CPU]], 퀄컴 Adreno 225 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDXC (최대 64 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, ~~[wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE]~~[* 기기는 지원하나 통신사가 지원하지 않는다.], [wiki:"CDMA2000" CDMA & EV-DO Rev. A][[br]][[Wi-Fi]] 802.11b/g/n, [[블루투스]] 4.0+LE, [[NFC]] ||
+||[[카메라]]||전면 100만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||'''내장형''' Li-Ion 1730 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||64.5 x 124 x 11.9 mm, 153 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+=== 상세 ===
+[[스프린트]]를 통해 출시된 [wiki:"ZTE/스프린트#s-4" ZTE Sprint Force]와 동일한 모델이다. 다만, Warp Sequent이 4.1 JB로 출시되었지만 Boost Force는 스프린트 모델을 그대로 들여오는 바람에 4.0 ICS로 작동한다.
+
+[[각주]]

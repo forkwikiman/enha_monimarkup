@@ -1,0 +1,58 @@
+ * 상위 항목 : [[ZTE]], [[도이체 텔레콤]]
+  
+[[목차]]
+
+== 개요 ==
+[[ZTE]]의 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]] 시리즈. 전 제품군 저사양을 지원하는 모델이다.
+
+이 시리즈는 [[ZTE]]가 평소처럼 제품을 기획하고 개발한 제품이 아니다. [[도이체 텔레콤]] 미국 법인의 요청에 따라 개발된 모델이다.[* 이는 과거 [[Windows Mobile]] 시절부터 심심하면 일어나던 일이다. 최초의 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]]인 [[hTC G1|HTC의 G1]] 역시 [[도이체 텔레콤]] 미국 법인의 긴밀한 협조 속에 출시된 것이다. ~~노인학대로 전세계적으로 유명한~~ [[HD2]]도 요청에 의해 커스텀 모델을 출시했었고, [[LG전자]]역시 [[옵티머스 2X]]와 [[옵티머스 패드#s-2.1|옵티머스 패드]]를 [[도이체 텔레콤]] 미국 법인이 별도로 요청해 커스텀 모델을 출시한 적이 있다.]
+
+== 소속 기기 ==
+ * ZTE Concord
+ * ZTE Concord II
+
+=== ZTE Concord ===
+||<tablealign="center"> http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/c/o/concord_1.png ||
+|| [http://ztedevices.ca/en/pascal.html ZTE 캐나다 Pascal 공식 홈페이지] ||
+
+==== 개요 ====
+[[ZTE]]가 2012년 8월에 출시한 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||Broadcom BCM21553 [[SoC]]. [[ARM]]11 832 MHz [[CPU]], VideoCore-Ⅳ [[VPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD (165 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [[Wi-Fi]] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 200만 화소 ||
+||[[배터리]]||Li-lon 1200 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 2.3 (Gingerbread) ||
+||규격||62 x 117 x 11.4 mm, 100 g ||
+||기타|| ||
+
+==== 상세 ====
+저사양을 가진 무난한 저가형 [[스마트폰]]이다.
+
+제품에 [[ZTE]] 로고 대신 [[T모바일]] 로고만 있다.
+
+또한 이 모델은 Net 10으로는 Midnight라는 정식 발매명으로, 캐나다에 ZTE Pascal 및 V768이라는 모델 두종류로 출시되는 등, 여러 다양한 펫 네임으로 여러 국가에 출시된 기기이다.
+
+=== ZTE Comcord II ===
+||<tablealign="center"> http://cnet4.cbsistatic.com/hub/i/r/2014/05/14/adac79db-6670-4a31-ab4f-79037eff7e6e/resize/770x578/1a0c313400349acb4bda30a5ed830b41/zte-concord-ii.jpg ||
+|| [http://www.zteusa.com/phones/tmobile-concord2 ZTE USA Concord II 공식 홈페이지] ||
+
+==== 개요 ====
+[[ZTE]]가 2014년 4월에 출시한 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] 200 MSM8210 [[SoC]], [[ARM Cortex-A7]] MP2 1.2 GHz [[CPU]], 퀄컴 Adreno 302 [[GPU]] || ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" HVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD (165 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]], 고릴라 글래스 2 ||
+||[[네트워크]]||[[4G|HSPA+]] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][[Wi-Fi]] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||후면 500만 화소 ||
+||[[배터리]]||Li-lon 1820 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 4.3 (Jelly Bean) ||
+||규격||126 x 65 x 11 mm, 125 g ||
+||기타|| ||
+
+==== 상세 ====
+Concord의 후속작으로, 전작에 비해 사양이 상향된 모델이다. T모바일 US 이외에는 계열사인 Metro PCS[* 본래 [[CDMA]]로 서비스를 하던 회사였으나, T-모바일 US에 인수된 이후부터는 그냥 WCDMA 계열 기기만 들여오고 있다.]를 통해 출시되었다.

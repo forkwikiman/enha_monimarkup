@@ -1,0 +1,115 @@
+'''닌쟈리방방'''
+
+[[목차]]
+
+== 개요 ==
+||<width=300px> http://natalie.mu/media/1302/0212/extra/news_thumb_ninjyaribanban_syokai.jpg ||<width=300px> http://natalie.mu/media/1302/0212/extra/news_thumb_ninjyaribanban_jnormal.jpg ||
+|| 초회한정반 자켓 || 통상반 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="https://www.youtube.com/embed/teMdjJ3w9iM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+공식 PV. [[모션 캡쳐]]를 이용한 듯 함께 춤추는 로봇들과 중간의 [[슈퍼로봇대전]] 시리즈를 연상케 하는 전투씬이 인상적이다.
+
+[[일본]]의 [[가수]] 겸 [[패션모델]] [[캬리 파뮤파뮤]]의 다섯 번째 싱글음반 및 수록곡. 싱글음반은 2013년 3월 20일 발매되었다.
+
+제목인 닌쟈 리 방방에서 닌쟈는 PV에서 닌자를 비롯한 다양한 일본풍 의상이 등장하는 것으로 보아 그 [[닌자]]를 뜻하는 것이 맞는 것 같은데, 정작 곡 내에서 닌쟈리방방은 큰 뜻 없는 후렴구로만 쓰인다.
+
+2013년 일본 최대의 히트곡 중 하나라고 할 수 있다. 이 싱글 뿐만 아니라 이 싱글이 수록된 앨범 '난다 콜렉션'은 20만 장이 넘는 판매고를 올리며 캬리 파뮤파뮤의 인기가 여전함을 과시했다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/ssAS0bwgegw" frameborder="0" allowfullscreen></iframe>
+}}}
+au의 광고영상. 배경이 되는 곳은 일본의 사원인 조죠 지로, 실제로 이 앞에서 미니 콘서트를 가졌다.
+
+[[KDDI]]의 통신 브랜드 au의 4G [[LTE]] 서비스 광고음악으로 쓰였다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/X0F9VK584dw" frameborder="0" allowfullscreen></iframe>
+}}}
+캬리의 다른 곡들과 마찬가지로 [[VOCALOID]] 커버 버전이 있다. 제작자는 sat100, 담당캐릭터는 [[MEGPOID]]
+
+== [[리듬게임]]에 수록 ==
+[[유비트 소서]], [[리플렉 비트 콜레트]] Summer, [[팝픈뮤직 Sunny Park]], [[태고의 달인]]에 수록. 태고만 커버보컬이며, 비마니 계열은 전부 원곡으로 수록했다.
+
+유비트 시리즈와 리플렉 비트 시리즈 안에서 쓰는 자켓은 통상반 자켓.
+
+=== [[유비트 시리즈]] ===
+||||||||||||||<:> [[유비트 시리즈|jubeat]] 난이도 체계||
+||<:>난이도||||<#69d462><:>BASIC||||<#ff8a00><:>ADVANCED||||<#ea4c4c><:>EXTREME||
+||<:>일반 채보||<:>1||<:>164||<:>5||<:>425||<:>8||<:>611||
+||<:>홀드 채보||<:>3||<:>232||<:>6||<:>356||<:>8||<:>600||
+||<:>BPM||||||||||||<:>130||
+||||||||||||||<#aaaaaa><:>아케이드 수록버전 및[[BR]]jubeat plus 수록 pack||
+||<:>아케이드 수록||||||||||||<:><#ffffff> [[유비트 소서]](2013.05.01)~||
+||<:>iOS||||||||||||||<:>없음||
+||<:>Android||||||||||||||<:>없음||
+
+## jubeat plus Android 버전은 https://remywiki.com/Jubeat_plus_(Android) 을 참고.
+## (jubeat saucer 이후 수록곡중) Android 수록 여부를 모르는 경우에는 iOS와 동일하게 기재바람.
+## 이 주석을 제외한 채로 위의 표만 복사하지 말 것.
+## 이 주석은 2016년 2월 1일 이후로 일괄삭제함.
+
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/bwc3aWx65zI" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME [[엑설런트]] 영상
+
+간헐적으로 등장하는 16비트와 동시치기, 결정적으로 '''대회전'''이 한번 있어서 플레이어를 당황하게 만든다. 대회전 이후에는 노트 밀도가 확 떨어지고 후렴구는 1절과 완전히 동일한 패턴이므로 점수를 채우기 좋은 구간.
+
+8이라는 난이도에 크게 어긋나지 않는 패턴이고 박자도 대체로 보컬만 잘 따라가면 되기 때문에 익숙해지면 점수는 금방 올라간다. 다만 스코어링 시에는 대회전과 칼 뽑는 효과음에 맞춰 2번 등장하는 16비트에 주의.
+
+□□□③
+①□③②
+□③□□
+③□□□
+
+베이직과 어드밴스 공히 레벨에 비해 노트수가 많은 편. 베이직 노트수는 164개로 1레벨 곡 중에서는 [[Garden of Love]]에 이어 두번째로 많다. 애초에 1레벨이 많이 없어지기도 했지만...
+
+
+{{{#!HTML
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tqtru41Mj5A" frameborder="0" allowfullscreen></iframe>
+}}}
+홀드 채보 EXT EXC 영상
+=== [[리플렉 비트 시리즈]] ===
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 130 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 69}}} || {{{#orange 189}}} || {{{#red 416}}} ||
+|| 수록버전 ||||||||<#81e3ff> [[리플렉 비트 콜레트]] Summer ||
+
+콜레트 서머 가동개시와 함께 수록.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/j-WvDExho_4" frameborder="0" allowfullscreen></iframe>
+}}}
+HARD 99.9% 풀콤보 영상
+
+유비트의 박자와 비교하면 16비트가 많이 빠져나갔다. 유비트로 이 곡을 먼저 플레이해본 사람은 심심하게 느껴진다는 평이 있다. 8 중하급 난이도.
+
+수록 후 Autumn 가동 이전까지 J-POP 부문 차트 1위를 굳게 지키고 있었으나,[* 유비트에서도 J-POP만 놓고 본다면 TOP3급의 인기지만, 이쪽은 라이센스곡 전체를 대상으로 차트를 만들다 보니 [[wiki:"only my railgun" 초전자포]] [[wiki:"sister's noise" 오프닝들]]에게 밀려서...] Autumn 가동 이후에는 신곡인 [[REVERSI]]와 [[リライト]]에게 밀려나 3위로 내려갔다.
+
+=== [[팝픈뮤직]] ===
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music Sunny Park || にんじゃりばんばん || にんじゃりばんばん || きゃりーぱみゅぱみゅ[[BR]][[캬리 파뮤파뮤]] || AYAME[[BR]]아야메 ||
+
+|||||||||||||| [[팝픈뮤직]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 130 || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} || {{{#blue 5버튼}}} ||
+|| {{{#green 18}}} || {{{#orange 29}}} || {{{#red 38}}} || {{{#blue ?}}} ||
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/dNCuAOqNyrs" frameborder="0" allowfullscreen></iframe>
+}}}
+EX 퍼펙트 영상
+
+2013년 6월 5일 업데이트와 함께 수록되었다. 선행 수록된 [[つけまつける]]보다는 확실히 어려워진 난이도.
+
+1절 간주 부분에서 쏟아지는 16비트 슬라이드 계단이 요주의 포인트. 이 부분 이후에는 유비트와 마찬가지로 노트밀도가 떨어지므로 게이지를 잘 쌓는다면 클리어는 비교적 쉬운 패턴이다.
+
+=== 태고의 달인 ===
+AC 태고의 달인 SORAIRO의 7월 11일 업데이트 버전에 신곡으로 추가되었다.

@@ -1,0 +1,151 @@
+'''Final Attack'''. 마지막 공격을 뜻하는 영단어. 
+
+[[목차]]
+
+== [메탈슬러그 시리즈]마다 마지막을 장식하는 예 ==
+||'''Metal Slug 1'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile9.uf.tistory.com/media/140C03404F6A22351A1939"></object>
+}}}
+
+'''Metal Slug 2'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile10.uf.tistory.com/media/130E33404F6A224817759D"></object>
+}}}
+
+'''Metal Slug X'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile23.uf.tistory.com/media/170E2B404F6A22581619C1"></object>
+}}}
+
+'''Metal Slug 3'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile3.uf.tistory.com/media/120D02404F6A225E17C65C"></object>
+}}}
+
+'''Metal Slug 5'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile3.uf.tistory.com/media/110CA4404F6A224218101A"></object>
+}}}
+
+'''Metal Slug Advance'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile26.uf.tistory.com/media/17729C384F6A24042C51E9"></object>
+}}}
+
+'''Metal Slug 6'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile1.uf.tistory.com/media/130CBC404F6A223C185851"></object>
+}}}
+
+'''Metal Slug 7/XX'''
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile3.uf.tistory.com/media/130BB8404F6A22501A9F94"></object>
+}}}
+||
+전부 같은 제목이지만 --6을 제외하면-- 전부 미묘하게 음이 다르다.
+
+본디 나즈카에서 제작했던 1편에서는 파이널 미션 전체의 배경음악으로 나왔다. 그나마도 보스전 직전부터 배경음악이 바뀌면서 정작 모덴과의 결전에선 등장하지 않았지만.[* 단, 전함이 육지에 다다를 때 빠르게 이동하면 바뀌지 않고 계속 유지 가능하다. 통상 바뀌는 음악은 미션 2 후반과 미션3에 쓰이는 Assult theme.] 그러나 SNK가 제작한 이후작들부터는 최종보스전 음악으로 등장하게 되었다.
+
+단 제대로 [[흑역사]]였던 [[메탈슬러그 4]]에서는 나오지 않고 Final Madness라는 곡이 쓰였다. 비록 Final Attack에는 못 미치지만, 다른 건 안습했어도 음악만은 좋았던 메탈4답게 [[최종 보스전]]의 분위기를 잘 살려줬다.
+
+5에서는 락으로 리메이크되어 새로운 최종 보스전의 분위기를 만들어냈다. 다만 여기서부터 컨셉이 조금씩 달라지기 시작해서 점차 이질감을 느낀 유저들이 늘어나기 시작했다.
+
+6에서도 오랜만에 파이널 미션의 음악으로 나오기는 하지만 '''훼이크'''다. 첫 부분만이 예전 작품들에서 사용되던 부분과 일치할 뿐 후반부에 원곡 멜로디가 일부 사용된 것을 제외하면 전혀 다른 곡. 리메이크라기보다도 샘플링을 한 것에 더 가깝다. [* 사실 6시리즈는 1시리즈의 리메이크 격인 작품이면서도, 다른 시리즈에서 드러나는 '코믹한 적들을 호쾌하게 물리치는' 분위기와는 전혀 다르기 때문.] 그래서인지 호불호가 상당히 갈리는 편이다. ~~이건 뭐 [[이등병의 편지|어느 예비군의 편지]]도 아니고...~~
+
+7에서도 다시 리메이크 되어 나왔지만 1, 2, 3만큼의 포스는 찾기 어렵고, 5한테도 밀리는 편이다. 아무래도 마무리를 좀 흐려서 흩어버린게 주 이유인 듯 하다. 그래서 그런지 과거만큼의 포스를 찾기는 힘든 편이다. 그래도 Final Attack이라는 이름 답게 나름대로 명곡 반열에 들어가는 노래임은 틀림이 없다. 그런데 누군가가 [[http://bgmstore.net/view/xH2Ti '''메탈슬러그 5와 7을 합성한 BGM을 만들었는데 퀄리티가 장난이 아니다.''']] ~~차라리 처음부터 이 둘을 같이 썼었다면...~~
+
+이하 출현미션
+
+[[메탈슬러그]] : MF
+[[메탈슬러그 2]] : MF 보스전
+[[메탈슬러그 X]] : MF 보스전
+[메탈슬러그 퍼스트 미션] : MF 보스전
+[[메탈슬러그 3]] : MF 보스전
+[[메탈슬러그 4]] : 없음
+[[메탈슬러그 5]] : MF 보스전
+[[메탈슬러그 어드밴스]] : MF 보스전
+[[메탈슬러그 6]] : MF
+[[메탈슬러그 7]] : MF 보스전
+[[메탈슬러그 XX]] : MF 보스전
+
+[[http://www.youtube.com/watch?v=pzc3KfdVcBk 메탈슬러그 1+2+X+3+5+7+XX버전을 모두 합친 버전]]
+
+== [[그라디우스]]의 마지막 7스테이지의 테마 음악 ==
+[[파로디우스다!]]의 마지막 스테이지에서도 사용되었다.
+
+물론 위 2번의 Final Attack과는 제목만 같을 뿐이다.
+
+[[http://www.youtube.com/watch?v=jmwZQFGLmhQ 오리지널 버전 (10분 듣기)]], [[http://www.youtube.com/watch?v=nkeG4TT99NI 오토메디우스 버전]]
+
+[[nicovideo(sm8036797)]]
+
+동인 뮤지션 [[cranky]]가 과거에 G.7 "Final Attack Mix"라는 이름으로 [[BMS]] 리믹스를 내놓기도 했다.
+
+== [GEAR전사 덴도]에 나오는 기술 이름 ==
+[[youtube(742Zvyvvhhc)]]
+
+유니콘 드릴의 파이널 어택. 나오는 음악은 덴도의 [처형용 BGM].
+
+[[덴도]]나 [[오우거]]가 [[데이터 웨폰]]을 인스톨 한 후 사용하는 필살기술의 명칭.
+
+다만 한번 사용하면 하이퍼 덴도 전지가 모두 소모되어 셀 파이터에게 새로 공급 받아야 한다(...)
+
+[[슈퍼로봇대전 R]]때도 그대로 재현되어서 한번 쓰면 EN이 10만 남기고 전부 소모된다. EN을 홀라당 날려먹는 것 치고는 위력이 시원찮기 때문에 남발은 무리고 보스급에게 피니쉬를 날리는 용도로 쓰거나 그냥 봉인하고 다른 기술 쓰는게 이득.[* 무엇보다 최강무장인 파이널 어택이랑 데미지는 별로 차이도 나지 않으면서 연비가 좋은 주력무기가 각 폼마다 하나씩은 꼭 붙어있으므로 애초에 이걸 쓸 일 자체가 거의 없다] 또한 남은 EN에 따라 위력이 변화하는데, 이게 현재 EN이 많을수록 올라가는 형식이 아니라 '''최대 EN의 몇 퍼센트가 남았느냐'''를 따지므로 파이널 어택을 위해 EN을 늘려봤자 뻘짓.[* 그러나 덴도를 제대로 굴릴거면 EN 개조는 필수다. 다른 무장들도 죄다 EN을 먹어대는데다가 셀 파이터 이외에는 EN을 회복할 방법이 없기 때문. 파이널 어택 하나때문에 개조하는 건 바보짓 맞지만.] 일단 EN수치가 전체의 80% 이상일 경우에 제 위력이 나오니 참고하자.~~사실 이건 그냥 없는 무기인 셈 치는게 정신건강에 이롭다~~
+
+그런데 사실 파이널 어택의 제일 큰 문제점 중 하나는 원작을 충실하게 반영한 탓인지 덴도와 오우거는 '''모든 무기가 EN을 소모하기 때문에''' EN 관리가 제일 힘든 기체들이란 것. 셀 파이터로 보급받고 쏘면 될 것 같지만 이러면 기력이 떨어져서(...) 턴마다 EN이 완전 회복되는 피닉스 엘이 아닌 이상에는 이래저래 쓰기 힘든 무기. 한술 더 떠서 원작반영으로 덴도는 셀 파이터 외의 어떤 보급기체에게서도 EN을 회복하는게 불가능. 즉, 셀파이터가 없는한 이기술 한번쓰면 덴도는 그냥 바보되는거다(...). 원작에선 후반부 가면 전지 바꿔 끼워가며 펑펑 날려대는 걸 보면 슈로대에선 참으로 안습하다. 그리고 또하나의 문제점이 바로 저 파이널 어택의 위력이 남은 EN에 비례한다는 것. 안그래도 덴도 자체가 EN 소비율이 높은데 파이널어택 데미지가 EN 잔량에 비례하니 정작 어느 정도 싸워서 기력채우고 파이널 어택을 날릴만한 상황이 오면 오히려 파이널어택이 다른 일반 무기보다 공격력이 떨어져 필살기라고 있는게 일반 무기보다 공격력이 떨어지는 황당한 상황이 벌어진다는 것. 그렇다고 셀 파이터로 보급시켜주면 일단 기력이 10 떨어지는데다가 그리 많지도 않은 전지 잔탄을 하나 낭비하게 되는 상황이 벌어지게 된다. 그런데 전함으로 이용해서 슈퍼리페어키트를 박아버리면 체력과 동시에 EN이 회복된다. 어???
+
+== 캡콤의 [초강전기 키카이오]에서의 파이널 어택 ==
+해당 항목 참조.
+
+== [[메이플스토리]]의 기술명 == 
+전사([[모험가(메이플스토리)#s-2.3|모험가]], [[미하일(메이플스토리)#s-1|미하일]], [[아란]])와 궁수([[모험가(메이플스토리)#s-2.5|모험가]], [[메르세데스(메이플스토리)|메르세데스]], [[와일드헌터]][* 여담이지만 레지스탕스계열에서 유일하게 파이널어택을 가지고 있다.]) 계열 직업군에게만 주어진 패시브 기술로, '''공격 스킬 사용 시''' 일정 확률로 마나 소모 없이 터지는 추가 공격이 발생한다. 
+
+[[메이플스토리/빅뱅 이전|빅뱅 이전]]까지만 해도 마스터 기준 60% 발동 확률에 데미지도 200%를 넘는 좋은 기술이였으나 문제는 '''발동 시 캐릭터가 별도의 공격 모션을 취한다'''는 것에 있었다. 이 모션은 __캔슬이 불가능해서__ 만에 하나 적이 반격중이였다면 피하지도 못하고 얄짤없이 맞아주어야 했으며, 또 공격 타이밍의 문제로 몬스터가 한번 넉백 당하고 다시 넉백 당할수 있게 되기 까지 존재하는 1초의 딜레이가 존재하는데 파이널 어택이 보통 이 1초 안에 터지는 기술인지라 역시 이쪽은 꼼짝도 못하고 한대 얻어맞는 양날의 검 같은 기술이 되어버렸다. 그나마 전사라면 고민이 덜 하겠지만 궁수는... 
+
+하지만 이 단점을 감안하고도 정말 못 써줄만한 이유는 바로 '''3차, 4차 스킬에서는 파이널이 안 터진다'''는 단점이 있었다. 즉 3차 전직이 되는 시점부터 필요성이 0%가 되는 스킬. 전사의 경우 그래도 딱히 찍어줄 스킬이 없어서 마스터 하는 경우가 대부분이였고, 궁수는 차라리 이걸 포기하고 스킬 포인트에 목 마른 다른 스킬들에 투자해 주는 식으로 살아나갔다. 
+
+결국 빅뱅 업데이트를 기점으로 마스터 레벨이 30에서 20으로 하향 조정이 되었으며, 발동 시 추가 모션이 사라져서 컨트롤 하기도 좋아졌고 3차 공격 스킬에서도 발동 되게 변경되는 등 대수술을 거쳐 완벽한 스킬로 거듭났...는 줄 알았는데 '''발동 확률과 데미지도 레벨 20대로 하향 조정을 당했다!''' 즉 마스터 레벨이 30이던 시절 레벨 20인 파이널 어택의 발동 확률과 데미지가 각각 40%, 140%였었는데 이게 마스터시의 발동 확률과 데미지가 되어버린 것이다. 이거 하나로 다시 캐안습의 길로... 
+
+하지만 여전히 찍어서 손해 볼 건 없는 기술인지라 빅뱅 업데이트를 기점으로 전사, 궁수 모두 마스터 하게 되어있다. 단지 마스터 추천 레벨대가 40 ~ 50 대에서 60 ~ 70 대로 밀려나서 그렇지...(늦게 마스터 한다는 것은 그만큼 '급한 스킬이 아니다' - 즉 '효용성이 떨어진다'는 것을 입증하는 결과물이다) 
+
+그후 점프 업데이트 부터 다크나이트, 팔라딘, 신궁[* 참고로 신궁도 테섭에 추가되었지만 얼마 지나지 않아 삭제되었다.]를 제외하고는 어드밴스드 파이널어택이 추가되었다.  공격확률과 데미지가 상승하게 되고 추가로 공격력과 명중율도 증가한다. 또 와일드헌터는 RED패치에서 스킬 이펙트가 변경이 되었다.
+
+참고로 이전 시그너스 기사단 캐릭터([[소울마스터]], 윈드브레이커)의 파이널 어택과 모험가, 아란, 메르세데스, 와일드헌터의 캐릭터의 파이널 어택은 다른 점이 하나 있는데, 바로 전자의 파이널 어택은 '''버프'''형, 후자의 파이널 어택은 '''패시브''' 라는 것이다. 즉 시그너스 기사단의 파이널 어택은 일일히 켜주어야 하는 반면 모험가는 그냥 배워두기만 하면 알아서 된다는 뜻. 또한 시그너스 기사단의 파이널 어택은 빅뱅 업데이트의 물결에 휩쓸리지 않아서 여전히 마스터 레벨이 30이며 그런만큼 발동 확률과 데미지가 모험가의 것보다 강하다.  하지만 점프패치때 모험가와 마찬가지로 20으로 감소되었지만 강화형인 어드밴스드 파이널 어택은 얻지를 못했다. 그 이후 시그너스 리턴즈로 패치를 했지만 소울마스터는 아예 없어졌고 윈드브레이커는 '트라잉플림 윔'이라는 파이널 어택의 변형판을 얻게되었다. 참고로 이 스킬은 2~4차는 물론 하이퍼 스킬로도 강화된다.
+
+그리고 메르세데스 이후로는 파이널 어택을 가지지 않고 대신 파이널 어택과 비슷한 효과를 가진 스킬를 가지게 되었다. 
+스킬을 나열하자면  [[팬텀(메이플스토리)|팬텀]]의 [[팬텀(메이플스토리)/스킬#s-5.3|느와르 카르트]], [[윈드브레이커(메이플스토리)|윈드브레이커]]의 트라잉플림 윔, [[나이트로드(메이플스토리)|나이트로드]]의 마크 오브 나이트로드, [[제논(메이플스토리)|제논]]의 [[제논(메이플스토리)/스킬#s-4.7|이지스 시스템]], [[데몬어벤져]]의 [[데몬어벤져/스킬#s-5.8|인핸스드 익시드]],[* 단 해당 스킬은 익시드 스킬에서만 발동이 된다.] [[은월]]의 [[은월/스킬#s-5.1|불여우령]]이 있다. 대부분 2차에 있지만 제논은 3차, 데몬어벤저는 4차에 존재한다.  
+
+[[각주]]

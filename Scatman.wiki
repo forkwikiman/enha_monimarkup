@@ -1,0 +1,42 @@
+ * 이 항목은 싱글 음반 및 노래 Scatman에 대한 항목이다. 이 노래를 부른 사람에 대한 항목은 [[스캣맨]]을 참조.
+
+[[목차]]
+
+== 개요 ==
+동명의 가수가 부른 곡. 1994년 11월 29일에 발매된 싱글의 타이틀이기도 하며, 앨범 《Scatman's World》에도 수록되었다.
+
+{{{#!html
+<iframe width="640" height="510" src="http://www.youtube.com/embed/3cnQCk0u49w" frameborder="0" allowfullscreen></iframe>
+}}}
+
+국내에서도 [http://www.adic.co.kr/ads/list/showTvAd.do?ukey=70985&oid=&pageNumber= 누네띠네 CM]을 통해 널리 퍼졌다. 곡제목은 모르지만 곡을 들으면 ‘아 이곡?!’을 외칠 정도.
+
+빅뱅의 오아오에서 이 음악을 샘플링했다. 처음과 끝부분에서 총 두번나온다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/CyVKIQ-et-s" frameborder="0" allowfullscreen></iframe>
+}}}
+SOUND ONLY
+
+[[Ryu☆]]의 두번째 앨범 [[AGEHA]]에 리믹스 버전이 있다. 
+
+== [[유비트 시리즈]] == 
+||||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>4||<:>5||<:>7||
+||<#faca00><:>노트수||||<:>230||<:>275||<:>368||
+||<#faca00><:>BPM||||||||<:>136||
+||<#faca00><:>곡 이력||||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#27a449 BSC}}}레벨 1 상승, {{{#f68a1f ADV}}}레벨 1 상승, {{{#e75050 EXT}}}레벨 1 상승[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 북미판 UBeat에도 수록된 몇 안되는 곡이다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/y5wSatfHJLk" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면영상
+
+[[유비트 리플즈]]에서 유일하게 전작과 비교해서 '''EXTREME 난이도가 증가'''한 곡이다. 곡 중간에 스캐팅부분에 나오는 연속 돌리기+애매한 박자 덕분인듯 싶다. 당시에도 레벨이 변해서 같이 7레벨이 된 [あいのうた](...)와 동급의 취급을 받을 정도였다. 최소한 엑설런트 난이도만큼은 아이노우타와 동급이었다.
+
+위에 설명한대로 중간에 나오는 스캐팅 부분의 돌리기와 박자에 주의해준다면 클리어 자체는 쉽지만, 저 두가지 덕분에 판정 올리기가 어렵다.

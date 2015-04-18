@@ -1,0 +1,501 @@
+ * 여러 시리즈에 수록된 곡은 최초 수록된 버전에 등록한다.
+ * 숫자-가나다-ABC-기타 순 정렬을 원칙으로 한다.
+  * 단, 미수록곡은 최초 OST 수록 버전 순으로 우선 정렬한다.
+ * 개별 항목이 없는 오리지널 곡 중 대부분은 [[DJMAX 시리즈/기타 수록곡]]에 간단히 서술되어 있으니, 해당 항목을 참조할 것.
+
+[[목차]]
+
+=== [[DJMAX 온라인]] ===
+ *[[펜타비전]] 오리지널 악곡 
+  *[[1st-Sync]]
+  *[[동물의 사육제]]
+  *[[모차르트 교향곡 40번 1악장]]
+  *[[바람에게 부탁해]]
+  *[[복수혈전]]
+  *[[봄의 노래]]
+  *[[비발디 사계 중 여름 제 3악장]]
+  *[[아침형 인간]]
+  *[[여왕벌의 행진]]
+  *[[젓가락 행진곡]]
+  *[[터키 행진곡]]
+  *[[피아노 협주곡 1번]]
+  *[[피치카토 폴카]]
+  *[[하이든 트럼펫협주곡 3악장]]
+  *[[한여름밤의 꿈]]
+  *[wiki:"A.I(DJMAX)"A.I]
+  *[[Again Sunshine]] 
+  *[[Arabian Night]]
+  *[[Astro Fight]]
+  *[[Aurora Borealis]]
+  *[[Ave Maria]]
+  *[[Brave it Out]]
+  *[[Bright Dream]]
+  *[[Can We Talk]]
+  *[["Can We Talk" Can We Talk ~Broken Dog Leg Mix~]]
+  *[[Carmen Fantasy]]
+  *[[Carmen Toreador]]
+  *[[Catch Me]]
+  *[[Celestial Tears]]
+  *[[Chain of Gravity]]
+  *[[Chase 575]]
+  *[[Cherokee]]
+  *[[Chrono Breakers]]
+  *[[CnP]]
+  *[[Cool Running]]
+  *[[Cosmic Elevator]]
+  *[[Csikos Post]]
+  *[[Damascus]]
+  *[[Dancin' Planet]]
+  *[[Detonator]]
+  *[[Disco Time]]
+  *[[Dreadnought]]
+  *[[Dream of You]]
+  *[[Elastic Star]]
+  *[["Elastic Star" Elastic Star ~UK Garage Mix~]]
+  *[[Electro Sensibility]]
+  *[[End of the Moonlight]]
+  *[[Enemy Storm]]
+  *[[Eternal Memory ~소녀의 꿈~]]
+  *[[Extreme Z4]]
+  *[[Fallen Angel]]
+  *[[FarEast Glassfield]]
+  *[[FEAR]]
+  *[[Feel]]
+  *[[Fentanest]]
+  *[[Fever GJ]]
+  *[[For Seasons]]
+  *[[For the Ikarus]]
+  *[[FTR]]
+  *[[Funky Chups]]
+  *[[Futurism]]
+  *[[Get on Top]]
+  *[[Get Up]]
+  *[[Grid System]]
+  *[[Hello Christmas]]
+  *[[Hello Pinky]]
+  *[[Hey! There]]
+  *[[Hypersonic]]
+  *[[JBG]]
+  *[[Jupiter Driving]]
+  *[[Knowledge System]]
+  *[[KUDA]]
+  *[[Lemonade]]
+  *[[Let Go]]
+  *[[Let's Go Baby]]
+  *[[Light House]]
+  *[[Living on The Beat]]
+  *[[Long Vacation]]
+  *[[Luv Flow]]
+  *[[MASAI]]
+  *[[Memory of Beach]]
+  *[[Mess It Up]]
+  *[[Midnight Blood]]
+  *[[Miles]]
+  *[[Minimal Life]]
+  *[[My Alias]]
+  *[[NB Ranger]]
+  *[[Never Say]]
+  *[wiki:"오블리비언" Oblivion]
+  *[[ON]]
+  *[[One Sided Love]]
+  *[[One the Love]]
+  *[[Out Law]]
+  *[[Para Q]]
+  *[[Phantom of Sky]]
+  *[[Phoenix Virus]]
+  *[[Ray of Illuminati]]
+  *[[Real Over Drive]]
+  *[[RED]]
+  *[[Relation Again(ESTi's Remix)]]
+  *[[River Flow]]
+  *[[Road Of Death]]
+  *[[Rock Or Die]]
+  *[[Rocka-a-doodle-doo]]
+  *[[Rolling On the Duck]]
+  *[[Russian Dance]]
+  *[[Save My Dream]]
+  *[[Say My Love]]
+  *[[School Someday]]
+  *[[Seeker]]
+  *[[SIN]]
+  *[[Space of Soul]]
+  *[[StarFish]]
+  *[[Stars in Your Eyes]]
+  *[[Sunny Side]]
+  *[[Super Lovely]]
+  *[[Sweet Love]]
+  *[[TAMMUZ]]
+  *[[Temptation]]
+  *[[The Tokyo]]
+  *[[Too Fast]]
+  *[[Triple ZOE]]
+  *[[Urban Night]]
+  *[[V.BOB]]
+  *[[Vanish Lady]]
+  *[[Weird Pistol]]
+  *[[Ya! Party!]]
+  *[[Yellowberry]]
+  *[[Yo Creo Que Si]]
+  *[[Yo Max]]
+ *라이센스 악곡(곡 제목 옆에 해당 곡을 부르거나 작곡한 뮤지션을 표기)
+  *[[1st]] : [[버즈]](Buzz)
+  *[[꿈에서 만나다]] : 캐스커(Casker)
+  *[[끝까지 친구]](feat.Lyn) : 솔 플라워(Sol Flower)
+  *[[느리게 걷기]] : [[코요태]]
+  *[[단념]] : [[테이]](Tei)
+  *[[두근두근(PIT-A-PAT)]] : 보아(BoA)
+  *[[디스코 왕]] : 코요태
+  *[[문신]] : [[세븐]](SE7EN)
+  *[[불꽃]] : 코요태
+  *[[비수]] : [[유성규]](바이브의 전 멤버)
+  *[[빙고]] : 코요태
+  *[[사랑은...하나다]] : 테이(Tei)
+  *[[슬픔을 이기는 기도]] : [[부활]]
+  *[[애송이]] : 렉시(LEXY)
+  *[[어쩌면]] : 버즈(Buzz)
+  *[[열병(Crazy)]] : [[신화]]
+  *[[열정]] : 세븐(SE7EN)
+  *[[예감]] : 피비스(PB's)
+  *[[올빼미]] : [[은지원]]
+  *[[유영]] : 제펫(Jeppet)
+  *[[이제는]] : 코요태
+  *[[전화번호]] : 지누션(JinuSean)
+  *[[추억이면]] : 부활
+  *[[폭풍의 언덕]] : 유진(S.E.S의 전 멤버)
+  *[[All of Your Love]] : 와사비 아이스크림(Wasabi Icecream)
+  *[[Angel]] : 제펫(Jeppet)
+  *[[Angelic Tears]] : [[SHIKI]]
+  *[[Another Love]] : 테이(Tei)
+  *[[Banana Shake]] : 허밍 어반 스테레오(Humming Urban Stereo)
+  *[[Bin-Go]] : 빈(이사돈이라는 별명으로 유명한 그 전혜빈 맞다.)
+  *[[Bob줘]] : 허밍 어반 스테레오(Humming Urban Stereo)
+  *[[Brand New]] : 신화
+  *[[Bravo]] : 유성규
+  *[[Crazy]] : 세븐(SE7EN)
+  *[[Dance Dance]] : [[거미]]
+  *[[Delicious Humming]] : 허밍 어반 스테레오(Humming Urban Stereo)
+  *[[ela(bajo de la luna)]] : 캐스커(Casker)
+  *[[Eros]] : 엄정화
+  *[[Eternity]] : 엄정화
+  *[[From]] : 피비스(PB's)
+  *[[Girls]] : 렉시(LEXY)
+  *[[Happy Face]] : 바다
+  *[[IM]] : 피비스(PB's)
+  *[[Let Me Dance]] : 렉시(LEXY)
+  *[[MOTO]] : 보아(BoA)
+  *[[My Name]] : 보아(BoA)
+  *[[Oh!]] : 신화
+  *[[Pleeez]] : 유진
+  *[[Rain+]] : 제펫(Jeppet)
+  *[[Real Life]] : BMK
+  *[[Regret of Snow]] : SHIKI
+  *[[Relax]] : 유진
+  *[[Reload]] : 은지원
+  *[[Rising Sun~순수~]] : 동방신기(東方神起)
+  *[[Scully Doesn't Know]] : 허밍 어반 스테레오(Humming Urban Stereo)
+  *[[Sneakers]] : Eastwind
+  *[[Stepping Out~Step Remix~]] : 클래지콰이 프로젝트(CLAZZIQUAI PROJECT)
+  *[[Sweet]] : 캐스커(Casker)
+  *[[The Girl is Mine(feat.Lisa)]] : 플라이 투 더 스카이(Fly to the Sky)
+  *[[Together]] : 코요태
+  *[[Tri-Angle]] : 동방신기(東方神起)
+  *[[Virgin]] : BAN CLAF
+  *[[wiki:"Sakurakagetsu" 櫻華月]] ( Sakurakagetsu ) : AKITO(일본의 BMS 작곡가)
+  *[[Windy]] : 유진
+  *[[Without Your Love]] : JTL
+
+=== [[DJMAX Portable]] ===
+ *[[바람에게 부탁해 Live Mix]]
+ *[[BlythE]]
+ *[[HAMSIN]]
+ *[wiki:"SIN"Sin ~the Last Scene~]
+
+=== [[DJMAX Portable 2]] ===
+ *[[설레임]]
+ *[[태권부리]]
+ *[[A Lie]]
+ *[[Another Day]]
+ *[[Brain Storm]]
+ *[[Brandnew Days]]
+ *[[Bye Bye Love]]
+ *[[Divine Service]]
+ *[[Get Out]]
+ *[[Good Bye]]
+ *[[Higher]]
+ *[[Ladymade Star]]
+ *[[Lost n' found]]
+ *[[Memoirs]]
+ *[[Minus 3]]
+ *[[Nano Risk]]
+ *[[NB POWER]]
+ *[[NB Rangers:Returns]]
+ *[[Negative Nature]]
+ *[[Nightmare]]
+ *[[Plastic Method]]
+ *[[Right Now]]
+ *[[Showtime]]
+ *[[Smoky Quartz]]
+ *[[sO mUCH iN LUV]]
+ *[[SQUEEZE]]
+ *[[Stalker]]
+ *[[Stay with Me]]
+ *[[Sunset Rider]]
+ *[[Syriana]]
+ *[[WhiteBlue]]
+ *[[Your Own Miracle]]
+
+=== [wiki:"DJMAX CE"] ===
+ *펜타비전 오리지널 악곡
+  *[[고백,꽃,늑대]]
+  *[[너에게]]
+  *[[영원]]
+  *[[Closer]]
+  *[[Coastal Tempo]]
+  *[[DJMAX]]
+  *[[wiki:Fate Fate~運命~]]
+  *[[First Kiss]]
+  *[[Here in the Moment]]
+  *[[Honeymoon]]
+  *[[I want You]]
+  *[[Landscape]]
+  *[[Lover]]
+  *[[Play the Future]]
+  *[[SuperSonic]]
+  *[[The Last Dance]]
+  *[[Y]]
+ *라이센스 악곡
+  *[[내게로 와]]
+  *[[무투]]
+  *[[처음만 힘들지]]
+  *[[Color]]
+  *[[Creator]]
+  *[[Dark Envy Knight]]
+  *[[Electronics]]
+  *[[Flea]]
+  *[[Freedom]]
+  *[[In My Heart]]
+  *[[Love Mode]]
+  *[[Melody]]
+  *[[Motion]]
+  *[[No Way]]
+  *[[STOP]]
+  *[[Tell Me]]
+  *[[The Clear Blue Sky]]
+  *[[The Night Stage]]
+  *[[Touch My Body]]
+  *[[Urban Night]]
+
+
+=== [wiki:"DJMAX BS"] ===
+ *[[고백,꽃,늑대 part.2]]
+ *[[Beat U Down]]
+ *[[Colours of Sorrow]]
+ *[[Cypher Gate]]
+ *[[Desperado]]
+ *[[Dear my Lady]]
+ *[[Fermion]]
+ *[[Fever Pitch Girl]]
+ *[[Fury]]
+ *[[Get Down]]
+ *[[Grave Consequence]]
+ *[[Heart of Witch]]
+ *[[In my Dream]]
+ *[[Jealousy]]
+ *[[Keys to the World]]
+ *[[Lovely hands]]
+ *[[PDM]]
+ *[[Ready Now]]
+ *[[Remember]]
+ *[[Ruti'n]]
+ *[[Secret World]]
+ *[[Shoreline]]
+ *[[Son of Sun]]
+ *[[Sweet Shining Shooting Star]]
+ *[[Voyage]]
+
+=== [[DJMAX TECHNIKA]] ===
+ *[[Access]]
+ *[[Area 7]]
+ *[[Beyond the Future]]
+ *[[HEXAD]]
+ *[[Thor]]
+ 
+=== [[DJMAX Trilogy]] ===
+ *[[바람의 기억]]
+ *[["아침형 인간" 아침형 인간 ~Megatonic Mix~]]
+ *[["A Lie" A Lie ~Deep Inside Mix~]]
+ *[["Bye Bye Love" Bye Bye Love ~Nu Jazz Mix~]]
+ *[[Catch You]]
+ *[["For Seasons" For Seasons ~Air Guitar Mix~]]
+ *[["Get Out" Get Out ~Hip Noodle Mix~]]
+ *[[Mind Control]]
+ *[[My Jealousy]]
+ *[[NB Girls]]
+ *[[Someday]]
+ *[["sO mUCH iN LUV" sO mUCH iN LUV ~Melodic Hip Twisted Mix~]]
+ *[["Squeeze" Squeeze ~Megatonic Mix~]]
+ *[[STOP]]
+ *[[Streetlight]]
+ *[["Syriana" Syriana ~Blast Wave Mix~]]
+ *[[Talk! Talk!]]
+ *[[The One]]
+ *[[Ventilator]]
+ *[["Yo Creo Que Si" Yo Creo Que Si ~Live House Version~]]
+ *[["Your Own Miracle" Your Own Miracle ~Disco House Mix~]]
+ *[[ZET]]
+
+=== [[DJMAX TECHNIKA 2]] ===
+ *[[Airwave]]
+ *[[BEE-U-TIFUL]]
+ *[[Burn it Down]]
+ *[[Cosmic Fantastic Lovesong]]
+ *[[Cozy Quilt]]
+ *[[wiki:"D2(DJMAX)" D2]]
+ *[[Dream of Winds]]
+ *[[Dual Strikers]]
+ *[[Eternal Fantasy ~유니의 꿈~]]
+ *[[wiki: "La Campanella : Nu Rave" La Campanella : Nu Rave]]
+ *[[Love is Beautiful]]
+ *[[wiki: "Out Law" Out Law ~Reborn~]]
+ *[[MonoXide]]
+ *[[NB Ranger Nonstop Remix]]
+ *[[Nova ~Mr.Funky Remix~]]
+ *[[Put'Em Up]]	
+ *[[Puzzler]]
+ *[[Rage Of Demon]]
+ *[[Say it from your heart]]
+ *[[Supersonic ~Mr.Funky Remix~]]
+ *[[Sweet Dream]]
+ *[[The Guilty]]
+ *[[Trip]]
+ *[[XLASHER]]
+
+=== [[DJMAX FEVER]] ===
+ *힙합구조대 : 북미판인 DJMAX FEVER에만 들어간 곡. [[이현도]]의 그 곡이다.
+
+=== [[DJMAX Portable Hot Tunes]] ===
+ *신곡 추가 없음.
+
+=== [[DJMAX Portable 3]] ===
+ *[[Beautiful Girl]]
+ *[[Become Myself]]
+ *[[Break!]]
+ *[wiki:"Desperado" Desperado Nu Skool Mix]
+ *[[Drum Town]]
+ *[wiki:"Enemy Storm" Enemy Storm ~Dark Jungle Mix~]
+ *[[Everything]]
+ *[[Funky People]]
+ *[[Gone Astray]]
+ *[[Hanz up!]]
+ *[[IF]]
+ *[[Leave me alone]]
+ *[wiki:"Luv Flow" Luv Flow Funky House Mix]
+ *[[Luv is True]]
+ *[wiki:"MASAI" MASAI Electro House Mix]
+ *[[Mellow D Fantasy]]
+ *[[Raise me up]]
+ *[[Season (Warm Mix)]]
+ *[[wiki:"Sunny Side" Sunny Side Remastered Ver.]]
+ *[[The Rain Maker]]
+ *[[Waiting for the Sun]]
+ *[[Your Smile]]
+ *[[wiki:"ZET" ZET ~Mr.Funky Remix~]]
+
+=== [[DJMAX TECHNIKA 3]] ===
+ *[[설레임 Part.2]]
+ *[[wiki:"유령(DJMAX)" 유령]]
+ *[[A Life With You]]
+ *[[AD2222]]
+ *[[Angel]]
+ *[[Bamboo on Bamboo]]
+ *[[Black Swan]]
+ *[[Chemical Slave]][* 최초수록은 [[TAP SONIC]]이지만 [[DJMAX 시리즈]] 최초수록이므로 이쪽에 표기]
+ *[[Dark Prism]]
+ *[[Dream Again]]
+ *[[wiki:"EGG(DJMAX)" EGG]]
+ *[[Emblem]]
+ *[[Fallin'in LUV]]
+ *[[Feel Ma Beat]]
+ *[[Give Me 5]]
+ *[[In the Tdot]]
+ *[[Jumping]]
+ *[[Just For Today]]
+ *[[Kung-Fu Rider]]
+ *[[Lupin]]
+ *[[Mister]]
+ *[[My Heart, My Soul]]
+ *[[Now a NEW Day]]
+ *[[Oohlala]]
+ *[[Out of CTRL]]
+ *[wiki:"Over The Rainbow(DJMAX)" Over The Rainbow]
+ *[[Pretty Girl]]
+ *[[Right Back]]
+ *[[RockSTAR]][* Chemical Slave와 동일]
+ *[[Showdown]]
+ *[[SigNalize]]
+ *[[STEP]]
+ *[[Supersonic 2011]] 
+ *[[Supernova]]
+ *[[Victim of Love]]
+ *[[Wanna Be Your Lover]]
+ *[[Watch Your Step]][* Chemical Slave와 동일]
+ *[[Xeus]]
+ *[[You & Me]]
+ *[[You should get over me]]
+
+=== [[DJMAX TECHNIKA TUNE]] ===
+ *[[A Song of Sixpence]]
+ *[[Back to Life]]
+ *[[Luv Yourself]]
+ *[[Renovation]]
+ *[[Shining My Boy]]
+ *[[Silent Clarity]]
+ *[[Take on me]]
+ *[[The MAX]]
+
+=== [[DJMAX RAY]] ===
+ *[[Alone]]
+ *[[Candy Girl]]
+ *[[Dark Ages]]
+ *[[Dark Lightning]]
+ *[[Daylight]]
+ *[[GirlZ]]
+ *[[Hyperboloid]]
+ *[[Mr.Lonely]]
+ *["New World(DJMAX)" New World]
+ *[[On Da Floor]]
+ *[[OrBiTal]]
+ *[[Pray For You]]
+ *[[Private Party]]
+ *[[Right Back]]
+ *["Secret(DJMAX)" Secret]
+ *[[SINister Evolution]]
+ *[[Sold on Your Love]]
+ *[[Vampired]]
+ *[[Ztar Trek_RE Edit]]
+
+=== [[DJMAX TECHNIKA Q]] ===
+ *[[별빛정원]]
+ *[[Deborah]]
+ *[[Festa Nova]]
+ *[[Kal_wrnw]]
+ *[[Love☆panic]]
+ *[[Mukilteo Beach]]
+ *[[Retention]]
+ *[[VORTEX]]
+
+=== 미사용곡 ===
+ *[[Never be the same]] - DJMAX Online 미완성곡. Forte Escape 작곡
+ *[[Lucy]] - DJMAX Portable 1 미사용곡. [[BEXTER]]가 GonZo 명의로 작곡
+ *[[Sweet You]] - DJMAX Portable 2 미사용곡. [[Electronic Boutique]] 작곡
+ *[[Netslave]] - DJMAX Portable 2 미사용곡. [[Forte Escape]] 작곡
+ *[[U Got a Message]] - DJMAX Portable 2 미사용곡. [[Forte Escape]] 작곡
+ *[[Beat In Love]] - 스페셜 앨범 Metrotronics의 수록곡. 앨범 수록곡 중에서 리믹스곡을 제외하면 유일하게 DJMAX Portable Clazziquai Edition의 플레이어블 곡으로 등장하지 않았다. [[wiki:"Ponglow"그 당시 프로듀서]]의 행적을 생각하면 미사용곡인듯.
+ *[[Vacation]] - DJMAX Portable Clazziquai Edition의 미사용곡. [[STi]] 작곡. 이 곡은 후에 스티 2집 unique feSTival에 수록되었다.
+ *[[White Canvas]] - DJMAX Portable Black Square의 미사용곡. [[ReX]] 작곡
+ *[[Robotica]] - DJMAX Portable Clazziquai Edition의 미사용곡. [[wiki:"클래지콰이"Clazziquai]]의 곡
+ *[[꿈속에서 본 것은]] - DJMAX Trilogy 미사용곡(엔딩 테마). Forte Escape 작곡
+ *[[Over Your Dream]] - DJMAX Trilogy 미사용곡(오프닝 테마). [[xxdbxx]] 작곡
+ *[[Soul Phase]] - DJMAX Trilogy의 미사용곡. Forte Escape 작곡
+
+[[각주]]

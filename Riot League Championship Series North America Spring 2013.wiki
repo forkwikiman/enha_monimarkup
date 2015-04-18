@@ -1,0 +1,110 @@
+ * 상위항목 : [[Riot League Championship Series]], [[리그 오브 레전드]]
+
+[[목차]]
+== 참가 팀 ==
+||<tablewidth=500px><-2><:>'''Riot League Championship Series/North America/Season 3 (LCS NA)'''||
+||<width=30%><|3><:>시즌 2[[br]]챔피언쉽[[br]]진출 팀|| [[Team Solomid]] ||
+|| [[Team Dignitas]] ||
+|| [[Counter Logic Gaming]] ||
+||<|5><:>예선 통과 팀|| Team Vulcun(구 Team F.E.A.R) ||
+|| Good Game University ||
+|| [[wiki:"Team Curse" Curse Gaming]] ||
+|| [[compLexity Gaming]](구 The Brunch Club) ||
+|| Team MRN ||
+
+=== 리그 결과 ===
+||<-4><:>'''1주차'''(2013.02.7~8)||<:><-4>'''6주차'''(2013.03.21~22)||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 패 || 승 || Counter Logic Gaming || Team Dignitas || 승 || 패 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Team Dignitas || Team Solomid || 승 || 패 || compLexity Gaming ||
+||<rowbgcolor=#fffffc><:>Counter Logic Gaming|| 승 || 패 || Good Game University || Counter Logic Gaming || 패 || 승 || Team Dignitas ||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 승 || 패 || Team Vulcun || Team Solomid || 승 || 패 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Counter Logic Gaming || Team Solomid || 승 || 패 ||Counter Logic Gaming ||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 승 || 패 || Team Dignitas || compLexity Gaming || 패 || 승 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Good Game University|| 패 || 승 || Curse Gaming || Counter Logic Gaming || 패 || 승 || Team Vulcun ||
+||<rowbgcolor=#fffffc><:>Team Vulcun|| 패 || 승 || Team Dignitas || Team Dignitas || 승 || 패 || compLexity Gaming ||
+||<-4><:>'''2주차'''(2013.02.14~15)||<-4><:>'''7주차'''(2013.03.30~31)||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 승 || 패 || Team MRN || Team Solomid || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#fffffc><:>Team Vulcun|| 패 || 승 || Team Solomid || Team Dignitas || 패 || 승 || Curse Gaming ||
+||<rowbgcolor=#fffffc><:>compLexity Gaming|| 패 || 승 || Curse Gaming || Team Vulcun || 패 || 승 || Good Game University ||
+||<rowbgcolor=#fffffc><:> Team Dignitas || 승 || 패 || Team Solomid || compLexity Gaming || 승 || 패 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Team Vulcun || Team Solomid || 패 || 승 || Team Dignitas ||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 승 || 패 || Good Game University || Counter Logic Gaming || 승 || 패 || Curse Gaming ||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 승 || 패 || Team MRN || Team MRN || 승 || 패 || Team Vulcun ||
+||<rowbgcolor=#fffffc><:>Good Game University|| 승 || 패 || Team Vulcun || compLexity Gaming || 패 || 승 || Good Game University ||
+||<-4><:>'''3주차'''(2013.02.21~22)||<#fffffc><:>Team MRN||<#fffffc><:>패||<#fffffc><:>승||<#fffffc><:>Team Dignitas||
+||<rowbgcolor=#fffffc><:>Team Vulcun|| 승 || 패 || Counter Logic Gaming || Counter Logic Gaming || 승 || 패 || compLexity Gaming ||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Good Game University || Good Game University || 패 || 승 || Team Solomid ||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 승 || 패 || Counter Logic Gaming || Team Vulcun || 패 || 승 || Curse Gaming ||
+||<#fffffc><:>compLexity Gaming||<#fffffc><:>패||<#fffffc><:>승||<#fffffc><:>Team Vulcun||<-4><:>'''8주차'''(2013.04.04~05)||
+||<rowbgcolor=#fffffc><:>Team MRN|| 승 || 패 || Good Game University || compLexity Gaming || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#fffffc><:>Counter Logic Gaming|| 승 || 패 || compLexity Gaming || Good Game University || 패 || 승 || Curse Gaming ||
+||<rowbgcolor=#fffffc><:>Team MRN|| 패 || 승 || Team Vulcun || Team Vulcun || 승 || 패 || Team Solomid ||
+||<rowbgcolor=#fffffc><:>Good Game University|| 패 || 승 || compLexity Gaming || Team MRN || 승 || 패 || compLexity Gaming ||
+||<-4><:>'''4주차'''(2013.02.27~03.01)||<#fffffc><:>Team Solomid||<#fffffc><:>승||<#fffffc><:>패||<#fffffc><:>Curse Gaming||
+||<rowbgcolor=#fffffc><:>Counter Logic Gaming|| 승 || 패 || Team Vulcun || Team Vulcun || 패 || 승 || compLexity Gaming ||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Team MRN || Team MRN || 패 || 승 || Good Game University ||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 승 || 패 || compLexity Gaming || Curse Gaming || 승 || 패 || Team Vulcun ||
+||<#fffffc><:>Good Game University||<#fffffc><:>패||<#fffffc><:>승||<#fffffc><:>Counter Logic Gaming||<-4><:>'''9주차'''(2013.04.11~12)||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || compLexity Gaming || Curse Gaming || 승 || 패 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Good Game University|| 패 || 승 || Team Solomid || Team Dignitas || 패 || 승 || Counter Logic Gaming ||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 승 || 패 || Team Vulcun || compLexity Gaming || 패 || 승 || Curse Gaming ||
+||<rowbgcolor=#fffffc><:>Counter Logic Gaming|| 패 || 승 || Team MRN || Good Game University || 승 || 패 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 승 || 패 || Curse Gaming || Good Game University || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#fffffc><:>Team Vulcun|| 승 || 패 || compLexity Gaming || Counter Logic Gaming || 패 || 승 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Good Game University|| 패 || 승 || Team Dignitas || Good Game University || 승 || 패 || compLexity Gaming ||
+||<rowbgcolor=#fffffc><:>Team MRN|| 승 || 패 || Team Solomid || Curse Gaming || 패 || 승 || Team Solomid ||
+||<#fffffc><:>Team Solomid||<#fffffc><:>승||<#fffffc><:>패||<#fffffc><:>Team Vulcun||<-4><:>'''10주차'''(2013.04.17~19)||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 승 || 패 || compLexity Gaming || Team Dignitas || 패 || 승 || compLexity Gaming ||
+||<rowbgcolor=#fffffc><:>Good Game University|| 패 || 승 || Team MRN || Team Solomid || 승 || 패 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Counter Logic Gaming|| 승 || 패 || Curse Gaming || Good Game University || 패 || 승 || compLexity Gaming ||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 패 || 승 || Curse Gaming || Team Solomid || 승 || 패 || Counter Logic Gaming ||
+||<rowbgcolor=#fffffc><:>compLexity Gaming|| 패 || 승 || Counter Logic Gaming || Curse Gaming || 패 || 승 || Good Game University ||
+||<rowbgcolor=#fffffc><:>Team MRN|| 패 || 승 || Team Dignitas || Counter Logic Gaming || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#fffffc><:>Team Vulcun|| 패 || 승 || Good Game University || Team Vulcun || 승 || 패 || Team MRN ||
+||<-4><:>'''5주차'''(2013.3.15~17)||<#fffffc><:>Team Solomid||<#fffffc><:>승||<#fffffc><:>패||<#fffffc><:>compLexity Gaming||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 승 || 패 || Good Game University || Curse Gaming || 승 || 패 || Team MRN ||
+||<rowbgcolor=#fffffc><:>compLexity Gaming|| 승 || 패 || Team Dignitas || Team Vulcun || 승 || 패 || Good Game University ||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Counter Logic Gaming || Team Dignitas || 승 || 패 || Curse Gaming ||
+||<rowbgcolor=#fffffc><:>Team Vulcun|| 승 || 패 || Team MRN || Counter Logic Gaming || 승 || 패 || Team Vulcun ||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Team Solomid || Counter Logic Gaming || 패 || 승 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 승 || 패 || Good Game University || Curse Gaming || 패 || 승 || compLexity Gaming ||
+||<rowbgcolor=#fffffc><:>compLexity Gaming|| 승 || 패 || Team Vulcun || Team Solomid || 승 || 패 || Team Dignitas ||
+||<rowbgcolor=#fffffc><:>Team MRN|| 패 || 승 || Counter Logic Gaming || compLexity Gaming || 패 || 승 || Team MRN ||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 승 || 패 || compLexity Gaming || Curse Gaming || 패 || 승 || Team Vulcun ||
+||<rowbgcolor=#fffffc><:>Team Dignitas|| 패 || 승 || Team Vulcun ||||||||||
+||<rowbgcolor=#fffffc><:>Counter Logic Gaming|| 패 || 승 || Good Game University ||||||||||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 승 || 패 || Team MRN ||||||||||
+
+=== 페넌트레이스 최종 순위 ===
+||<tablewidth=100%><-4><:>'''리그순위'''||
+||<rowbgcolor=#fffffc><:>1위|| [[Team Solomid]] || 21승 7패 ||<|2>플레이오프 토너먼트 4강 직행||
+||<rowbgcolor=#fffffc><:>2위|| [[wiki:"Team Curse" Curse Gaming]] || 19승 9패 ||
+||<rowbgcolor=#fffffc><:>3위|| [[Team Dignitas]] || 17승 11패 ||<|4>플레이오프 토너먼트 예선 진출||
+||<rowbgcolor=#fffffc><:>4위|| [[Counter Logic Gaming]] || 13승 15패 ||
+||<rowbgcolor=#fffffc><:>5위|| Team Vulcun || 12승 16패 ||
+||<rowbgcolor=#fffffc><:>6위|| Good Game University || 11승 17패 ||
+||<rowbgcolor=#fffffc><:>7위|| Team MRN || 10승 18패 ||<|2>탈락||
+||<rowbgcolor=#fffffc><:>8위|| compLexity Gaming || 9승 19패 ||
+
+=== 플레이오프 결과 ===
+||<tablewidth=100%><-4><:>'''플레이오프 토너먼트 예선'''(2013.04.26)||
+||<width=40%><rowbgcolor=#fffffc><:>Team Dignitas|| 1 || 2 || Good Game University ||
+||<rowbgcolor=#fffffc><:>Counter Logic Gaming|| 1 || 2 || Team Vulcun ||
+||<-4><:>'''플레이오프 토너먼트 4강'''(2013.04.27)||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 1 || 2 || Good Game University ||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 2 || 1 || Team Vulcun ||
+||<-4><:>'''플레이오프 토너먼트 3-4위전'''(2013.04.28)||
+||<rowbgcolor=#fffffc><:>Curse Gaming|| 1 || 2 || Team Vulcun ||
+||<-4><:>'''플레이오프 토너먼트 결승'''(2013.04.28)||
+||<rowbgcolor=#fffffc><:>Team Solomid|| 3 || 2 || Good Game University ||
+
+=== 포스트시즌 최종 순위 ===
+||<tablewidth=100%><-4><:>'''최종순위'''||
+||<rowbgcolor=#fffffc><:>1위||<width=50%><:>Team Solomid|| 상금 $ 50,000, 섬머 시즌 진출권 ||
+||<rowbgcolor=#fffffc><:>2위|| Good Game University || 상금 $ 25,000, 섬머 시즌 진출권 ||
+||<rowbgcolor=#fffffc><:>3위|| Team Vulcun || 상금 $ 15,000, 섬머 시즌 진출권 ||
+||<rowbgcolor=#fffffc><:>4위|| Curse Gaming || 상금 $ 10,000, 섬머 시즌 진출권 ||
+||<rowbgcolor=#fffffc><:>5위|| Team Dignitas ||　||
+||<rowbgcolor=#fffffc><:>6위|| Counter Logic Gaming ||　||
+||<rowbgcolor=#fffffc><:>7위|| Team MRN ||　||
+||<rowbgcolor=#fffffc><:>8위|| compLexity Gaming ||　||

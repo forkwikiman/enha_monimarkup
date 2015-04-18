@@ -1,0 +1,74 @@
+[[목차]]
+|| 최초 수록 버전 || [[Sabin Sound Star]] ||
+|| 작곡 || [[nato(작곡가)|nato]] ||
+|| 작사 || ISK(from AMAX project) ||
+|| 배경 || [[am7]] & [[Lepusnette]] ||
+|| 보컬 || 여은 ||
+|| 장르 || (미표기)[* 유로비트 쪽으로 분류되는 경우가 많다.] ||
+|| BPM || 155 ||
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/TjF4cKnsoR4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+'''[[Sabin Sound Star]] BGA'''
+== 개요 ==
+[[Sabin Sound Star]], [wiki:"EZ2DJ 7thTRAX BONUS EDITION" EZ2DJ BE] 수록곡. 제스트 레이브(zest:rave) 소속의 nato가 작곡했으며 작사에는 ~~별 인지도가 없는~~ 아맥스 프로젝트(AMAX project)의 ISK가 담당했다. 부제는 Behind the Cloud.
+
+곡이 굉장히 밝은 분위기라 곡의 난이도도 중저레벨수준이지만, 3S의 Percussion HD 패턴이라든가, Ez2Dj의 7키 SHD 패턴은 정말 자비가 없다. 
+
+BGA가 상당히 부담스러운 곡 중 하나이다. 그래도 [[wiki:"주문을 외워봐" 손발이 오글거리는 그것]]보단 낫지만, 사람이 많은 곳에서 이거 했다가 이상한 시선으로 보였다는 경험담이 있다. Ez2DJ에는 BGA Off가 있지만 어차피 [[범용 BGA]]이다. 물론 부담스러운 BGA를 안 봐도 된다는 장점은 있다. 하지만 [[EZ2AC : EV]] 1.50에서 동영상 BGA이 지원되서 다시 BGA OFF를 꺼내들어야 할지도 모른다.
+
+가사에 대해서도 BGA와 더불어 이 곡이 오글거리게 만든다는 말이 많은데 사실 이 곡을 작사한 ISK가 실제 대외적으로 작사 경력이 짧았고 한국의 K-pop보단 주로 beatmania IIDX 등 BEMANI 계열의 리듬게임 곡에 익숙했던 탓이다. 본래는 beatmania IIDX 12 HAPPY SKY의 [[月光]]처럼 서정적 유로비트를 모토로 작사했다고 한다. 덧붙여 가창 또한 꾸밈 없이 소박하게 불렀는데 때문에 동요같다고 유치하다는 의견이 있다.
+
+== [[EZ2DJ]]에서의 Skyward ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple 11}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple 13}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 6}}} || {{{#red 14}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 13}}} || {{{#red 14}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/R0s5ItNFajg?list=UUjVvcz_kcVUrsHXnzic20MQ" frameborder="0" allowfullscreen></iframe>
+}}}
+NM & HD & SHD MIX
+
+EZ2DJ에선 5키 스트릿 기준 노멀 6, 하드 8, AE에서 추가된 슈퍼 하드 11이 존재.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+Collaboration 채널에 노멀 패턴이, AYA와 Mutant 채널에 전용 패턴이 존재한다.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+EV에서 하드가 새로 추가되었다.
+=== EZ2CATCH ===
+EV에서 하드가 새로 추가되었다. 그러나 하드패턴은 EV 1.5에서 스킵되는 버그로 인해 플레이가 불가능하다.
+=== TURNTABLE ===
+턴테이블 모드에서는 레벨 9. 곡 중후반 쯤 중간중간에 '''32비트 4연타'''를 껄끄럽게 처리하느냐 못하느냐에 따라서 곡의 클리어가 결정된다고 할 수 있다. 그런 구간만 잘 한다면 나머지 듬성듬성 등장하는 2연타 계단형 패턴은 짧게 나오기 때문에 그다지 위협이 되진 않으나, 조심하도록 하자.
+
+== 가사 ==
+||어두운 밤하늘 속에서 반짝이는 그대와
+빛을 비춘 그대와 언제나 함께 날고 싶어
+
+(feel the groove)
+
+더 이상은 망설일 필요 없어
+내 손을 잡아. 리듬에 몸을 맡기고
+힘차게 발딛어 Just fly now
+
+반짝이는 밤하늘을 닫아버린 저 구름
+은빛 날개를 달고서 마음의 열쇠로 여는거야
+돌이킬 수 없는 길일지는 몰라도
+지금 내 마음을 전할게 I wanna take your stars
+
+Skyward....||

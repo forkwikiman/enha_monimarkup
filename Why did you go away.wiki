@@ -1,0 +1,110 @@
+[[목차]]
+=== 비트매니아 IIDX ===
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/9vEfroPxBLM" frameborder="0" allowfullscreen></iframe>
+}}}
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 160  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 559}}} || {{{#orange 8}}} || {{{#orange 904}}} || {{{#red 10}}} || {{{#red 1166}}} || {{{#blue 5}}} || {{{#blue 552}}} || {{{#orange 9}}} || {{{#orange 901}}} || {{{#red 11}}} || {{{#red 1165}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : [비트매니아 IIDX 13 DistorteD] ~
+ * 가정용판 수록 : [[비트매니아 IIDX 13 DistorteD]]
+
+작곡은 [[jun]]. BGA는 [[GOLI]]. 보컬은 jun과 [[TAHIRIH]]가 같이 맡았다. 장르는 LOVERS [wiki:"유로비트" EUROBEAT]. [[HAPPY☆ANGEL]]에 이은 두 번째 합작.
+
+이후 [[비트매니아 IIDX 15 DJ TROOPERS]]까지 이어져 오는 일종의 분기점곡의 시작. 일본어파트는 BOY'S REASON이라는 부제가 붙고, 영어파트는 GIRL'S SIGHT라는 부제가 붙는다. BGA에 출력되는 레이어도 이 파트에 맞춰 출력. 일본어/영어가 선택되는 조건은 완전히 랜덤이라고 한다. (가정용에서는 선곡 직후 SELECT 버튼을 누른 채 스크래치를 왼쪽/오른쪽으로 계속 돌리면 무조건 해당 파트로 걸린다.)
+
+일본어 버전으로 플레이가 가능한건 업소용과 가정용 DistorteD뿐으로, 이후 작품에서는 원판인 영어 버전으로만 출력된다. 후속 분기곡들도 이와 동일.
+
+[[BGA]]는 [[雪月花]] 등이 사용한 9th 범용BGA에 [[GOLI]]가 그린 레이어가 대응된 형태. 위에 적힌 대로 GIRL'S SIGHT / BOY'S REASON 버전에 따라 다른 레이어가 출력된다.
+
+곡이나 난이도 모두 아주 눈에 띄는 곡은 아니라 그저 그런 곡으로 인식되는 듯 했으나…….
+
+=== [[리플렉 비트]] ===
+http://cdn44.atwikiimg.com/reflec_beat/?cmd=upload&act=open&page=Why%20did%20you%20go%20away&file=Why_did_you_go_away.png
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 160 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 6}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 290}}} || {{{#orange 328}}} || {{{#red 414}}} ||
+|| 수록버전 ||||||||<#FF1AF8> [리플렉 비트] ||
+|| [wiki:"리플렉 비트 플러스" Rb+] 수록 팩 |||||||| MUSIC PACK 25 ||
+||||||||||<#ffffff>{{{#green BASIC}}} : 난이도 1 증가 (라임라이트)[[BR]]{{{#orange MEDIUM}}} : 난이도 1 증가 (라임라이트)[[BR]]{{{#red HARD}}} : 난이도 1 증가 (라임라이트)[* 라임라이트로 넘어가면서 '''모든 패턴의 난이도가 상향 조정'''되었다.]||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/xQMwBWuNhd0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+하드 패턴 영상.
+
+[[Lincle Link]] 이벤트를 통해 [[리플렉 비트]]에 이식된 노래 중 하나. 위의 사양에 맞춰 이쪽도 무조건 영어(GIRL'S SIGHT)로만 출력된다. 재킷은 위 이미지를 사용.
+[[리플렉 비트]]에는 [[jun]] with [[TAHIRIH]] 명의로, 보컬이 TAHIRIH이며, 영어 가사이다. 초대작에서는 3-5-7이라는 이상한 난이도 선정[* 레벨 7인데 웬만한 8급은 뺨칠정도로 어렵다.]덕분에 [리플렉 비트 라임라이트]때는 패턴이 약간 수정되고 레벨 8로 상향. 그리고 다른 패턴도 난이도가 1씩 올라갔다.
+
+그런데 개정된 패턴으로도 박자가 막장이고, 거기에 설상가상으로 [[회수]] 조건이 오지게 빡쎈 노래 중 하나로 손꼽히는 악명높은 노래라 이미지는 확실하게 박혔는데, [Lincle Link] 5탄이 나올 때까지는 한국에서는 해금자가 많지 않은 관계[* [비트매니아 IIDX 19 Lincle]로 해금했을 시 STEP UP모드로 돌아 해금을 전부하게 되지만, 전작인 [비트매니아 IIDX 18 Resort Anthem]에서 해금했을 경우 해금 조건이 좀 어려웠기 때문에 대개 원하는 곡 한두곡만 해금하는 정도였는데 이곡은 대부분 다 해금을 하지 않았다.]로 많이 알려져 있지는 않았다.
+
+=== 가사 ===
+||일본어 (~BOY'S REASON~ (sung by [[jun]]))
+
+Why did you go away
+僕が選んだ結末はいつの日か未来へと繋がるだろう 
+
+廻る季節の中「幸せ？」と問いかけてみた
+君の目に幼い僕が映った 
+傍いにいて逸らさせても見失うよう
+今はただ遠くから祈りたい
+
+最後に見た君の優しき微笑みは
+いつまでも胸の奥満たすのだろう 
+出会って始まって寄り添った愛しき日たち
+今も光り輝き続ける
+
+(Why did you go away...)
+
+Why did you go away
+僕が選んだ結末はいつの日か未来へと繋がるだろう
+出会って始まった想いは永久にこの胸に 
+運命と信じたいほど愛してた||
+
+||영어 (~GIRL'S SIGHT~ (sung by [[TAHIRIH]]))
+
+Why did you go away?
+Leaving me to mend this broken heart again
+How can I go on?
+When our love was so strong
+Oh baby this beat goes on
+
+How could you tell me love was our fate
+How could you leave without explanation
+That ain't the way our story should end
+Cause I know feelings were real
+
+I know everyday when the sun will rise
+And at night the moon will shine
+I'll still be standing here all alone wondering why why
+
+Why did you go away?
+Leaving me to mend this broken heart again
+How can I go on?
+When love was so strong
+
+Oh baby this beat goes on
+And on And on
+Tell me what went wrong
+Baby now it's a sad love song
+I'm standing here all alone and I'm crying
+
+Why did you go away?
+
+Why did you go away?
+Leaving me to mend this broken heart again
+How can I go on?
+When our love was so strong
+Oh baby this beat goes on
+And on And on
+Tell me what went wrong
+To make it a sad love song
+While the beat goes on and on
+I'm all alone...
+||

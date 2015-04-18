@@ -1,0 +1,136 @@
+ * 상위 항목 : [[SCP - Containment Breach]]
+
+※ 이 페이지는 게임상 에서 등장하는 SCP에 대해 설명하고 있습니다. 오리지널 SCP 재단의 내용은 [[SCP-294]] 항목을 참조해 주세요.
+
+||이 문서는 [[SCP-CB/SCP-294]]로도 들어올 수 있습니다.||
+
+[[목차]]
+== 개요 ==
+http://images4.wikia.nocookie.net/__cb20130923205656/containmentbreach/images/b/bc/Scp294.png
+
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/U5HrqF5c4oA?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[SCP - Containment Breach]]의 v0.8 부터 추가된 유클리드 SCP로, [[QWERTY]] 키보드가 달려있는 커피 [[자판기]]이며 "콜라"나 "우유" 등 키보드에 입력한 영어 문장을 그대로 자판기에서 컵에 담아 뽑아낸다. 그런데 이 자판기에 입력할 수 있는게 반드시 단어일 필요도 없고 문장도 가능하다. 그리고 이 자판기는 '탈취해 오는' 기능도 있는데 예를 들어 '누구 누구의 혈액'이라고 치면 진짜 그 사람의 몸으로 부터 피를 탈취해 온다. 다만 게임 상에서 구현된 것은 [[SCP-173]]의 피[* 물론 SCP-173은 뽑아내도 죽지 않는다. SCP-173 에게서 직접적으로 뽑아오는 게 아니라 컨테이너에 묻어있는 피를 빼오는 걸지도 모르지만. ]와 플레이어 본인(…)을 뽑아내는 것만 구현되었다. 그러나 이제는 다른 피도 뽑을 수 있는 것 같다.(고양이나 개, 사람 등등) 아래 참조.
+
+그리고 또 반드시 먹을 수 있는 것만 뽑아오지 않고 기상천외한 것들도 가능하다. 다만 반드시 '액체'의 성질을 띈 것만 가능하다. 다만 액체가 아닌것도 액체의 성질을(혹은 그와 유사한 성질을) 띄도록 만들어서 뽑아내는 경우도 있다. 그리고 또 '지식' 같은 것을 입력하면 나오는 액체를 마시면 지식이 높아지는 등 웬만해선 입력한 건 다 뽑아낸다.
+특정한 고유명사 같은걸 입력하면 해당 고유명사에 대한 풍자의 의미를 지닌것이 나오기도 한다. 하프라이프 3(...)이나 [[콜 오브 듀티 시리즈]], [[9gag]](...) 같은 것들.
+
+참고로 원래 SCP-294는 50센트를 넣어야 작동되지만 플레이어는 [["그런 거 없다"그런 거 없고]] 무료로 사용한다.
+
+그리고 게임 내의 Data -> SCP-294.ini 파일을 수정해 기존의 있던 것들을 수정, 삭제하거나 자기가 직접 새로운 것을 넣을 수도 있다.
+
+== 커맨드 일람 ==
+[http://containmentbreach.wikia.com/wiki/SCP-294 공식 위키] 출처
+
+현재 메세지의 내용은 편의상 의역된 것이고 더 좋은 번역이 있을시 [[수정바람]], 이후에 [[SCP 재단]] 한국어 위키 에서 공식 한국어 버전 [[SCP-CB]] v0.8 버전이 나오면 공식 번역으로 [[수정바람]].
+
+||<width=25%> 입력 ||<width=15%> 색깔 ||<width=30%> 메세지 ||<width=30%> 효과 ||
+||[[wiki:"공기" Air]], Nothing, [wiki:"컵" Cup], Emptiness, [[wiki:"진공" Vacuum]], [[wiki:"하프 라이프" HL3]](...), Half Life 3 ||투명 ||"컵에 마실게 아무것도 없다." ||''없음'' ||
+||[[wiki:"알코올" Alcohol]], [[wiki:"에탄올" Ethanol]], Ethanol Liquid, [[wiki:"스피릿" Spirit]], [[wiki:"보드카" Vodka]] ||흰 반투명 ||"젠장할. 이거 좀 센데." || 5초 동안 시야가 흐려짐 ||
+||[[wiki:"알로에" Aloe]] [[wiki:"베라" Vera]] Drink, [[wiki:"선인장" Cactus]] Drink ||약간 투명한 베이지 ||''없음'' ||플레이어를 약간 치료 ||
+||[[wiki:"기억상실증" Amnesia]] ||반 투명의 검정 ||"다니엘, 자네인가? 무슨 짓을 하는거지?"[* 호러 게임 [[암네시아 : 더 다크 디센트]]에서 나오는 대사이다.] ||10초 동안 시야가 흐려짐 ||
+||Anti-Energy Drink, Anti Energy Drink[* 직역 하자면 반(反) 에너지 드링크, 에너지를 반대로 저하 시킨다는 뜻] ||반 투명의 오렌지색 ||"음료의 맛은 끔찍했다. 당신은 피곤하고 탈진해 있다." ||스태미나를 2배 더 빨리 잃고 300초 동안 눈 깜박이는 빈도가 1.5배 증가 ||
+||[[wiki:"반물질" Antimatter]], [[wiki:"반물질" Anti-matter]], [[wiki:"보이드" Void]] ||검정 ||''없음'' ||폭발한다.[* 원문은 Causes an explosion.] ||
+||[[wiki:"왕수" Aqua Regia]] ||밝은 갈색 ||"Hmm. . . There should be more cuprite." ||플레이어가 마시길 거부한다. ||
+||[[wiki:"원자" Atomic]], [[wiki:"핵"Nuclear]], [[wiki:"핵융합" Nuclear Fusion]], [[wiki:"핵분열"Nuclear Fission]], Nuclear Reaction[* 핵 반응] ||밝은 초록 ||''없음'' ||'''핵폭발''' ||
+||[[wiki:"맥주" Beer]], [[wiki:"맥주" Lager]] ||약간 투명한 밝은 오렌지색 ||"평범한 담색 라거 맛이 나는 음료다." ||''없음'' ||
+||Black corrosive liquid[* 검은 부식성 액체], '''[[SCP-106]]''', [[wiki:"SCP-106" 106]], [[wiki:"SCP-106" Old Man]], [[wiki:"SCP#s-5" SCP]] ||검정 ||"느낌이 이상해. 이건 마치 뭔가가 내 위장에서 움직이는 느낌이야."[* 원문은 "You feel strange. It's as if there was something moving in your stomach." 이지만 1인칭 시점으로 번역하였다.] ||혈액 손실, 복통과 함께 8초 동안 시야가 흐려진다. ||
+||Blood ||진한 빨강색, 약간 투명함 ||"이 음료는 마치 와인처럼 생겼다." ||혈액 손실 ||
+||Blood of Christ, Blood of Jesus, Blood of Jesus Christ[* 예수의 피] ||어두운 빨강, 약간 투명함 ||"이 음료는 마치 와인처럼 생겼다."[* 예수가 최후의 만찬 당시 했던 '이는 곧 내 피의 잔이니' 란 말을 반영한듯 하다.] ||''없음'' ||
+||[[wiki:"탄소" Carbon]] ||검정 ||''없음'' ||'''즉사''' ||
+||[[wiki:"콜 오브 듀티" Call of Duty]], [[wiki:"콜 오브 듀티" CoD]], [[wiki:"단테" Donte]] ||검정 ||"[[덥스텝]][* [[콜 오브 듀티: 블랙 옵스 2]]에서 BGM으로 [[스크릴렉스]]의 악곡이 삽입된것을 의미하는 듯.]이나 [["패드립" 니 엄마]] 같은 맛이다."||''없음''||
+||Cassis [[wiki:"환타" Fanta]] ||밝은 자주색, 반투명 ||"상쾌하다. . ." ||''없음'' ||
+||[[wiki:"당근" Carrot]] [wiki:"주스" Juice], [wiki:"당근" Carrot] ||오렌지색 ||"아주 좋아" ||''없음'' ||
+||[[wiki:"샴페인" Champagne]] ||반투명, 금색 ||''없음'' ||''없음'' ||
+||Chim(베트남어로 새(bird)) ||빛나는 금색 ||"어떠한 인간의 언어의 단어라도 이 맛을 설명하기에 적당한 게 없다." ||'''플레이어에게 godmode를 부여한다.''' 추가로 100초 동안 시야를 흐리게 한다. ||
+||[[wiki:"사이다#s-1.2" Cider]] ||갈색, 반투명 ||달콤한 것을 깨문 것 같군. ||''없음'' ||
+||[[wiki:"초콜릿" Chocolate]], [[wiki:"코코아#s-2" Cocoa]], [[wiki:"코코아#s-2" Hot chocolate]], [[wiki:"코코아#s-2" Hot cocoa]] ||갈색 ||''없음'' ||200초 동안 스태미나를 1.1배 빨리 잃고 2초동안 시야가 흐려진다. ||
+||'''[[wiki:"코카인" Cocaine Energy Drink]]''' ||빨강색, 약간 투명함 ||"The drink has a boost, and taste faintly hot with a hint of cinnamon." ||200초 동안 스태미나를 1.2배 빨리 잃고 5초동안 시야가 흐려진다. ||
+||[[wiki:"커피" Coffee]], [[wiki:"커피" Black Coffee]] ||갈색 ||"진한 맛이 꽤 강한 커피다." ||30초 동안 달리기 스태미나가 감소하는 속도가 0.9배로 줄어들고 2초 동안 시야가 흐려진다. ||
+||[[wiki:"코코넛" Coconut]], Coconut milk, Coconut water, Coconut juice ||빨강색 ||"상쾌한 코코넛 우유를 즐겼다." ||''없음'' ||
+||[[wiki:"콜라" Cola]], Coke, [[wiki:"코카콜라" Coca-Cola]], [[wiki:"펩시" Pepsi]] ||진한 갈색, 약간 투명 ||"차갑고 상쾌하다." ||''없음'' ||
+||Cold, Cool, Freezing, Coldness (전부 차가운 것을 뜻함) ||은색, 대체로 투명 ||"차가운 액체 때문에 머리가 아프다." ||시야가 8초동안 흐려짐. ||
+||[[wiki:"용기#s-2" Courage]] ||검은색 ||''없음'' ||180초 동안 달리기 스태미나가 감소하는 속도가 절반으로 줄어들고 눈을 깜빡이는 빈도가 0.7배 감소함. ||
+||[[wiki:"죽음" Death]], [[wiki:"게임 오버" Game Over]] ||검은 색 ||''없음'' ||'''즉사'''||
+||[[wiki:"달걀" Egg]], Eggs ||노르스름한 흰색 ||"날계란처럼 생겼다.[* 사실 날계란 자체가 아니라 계란을 깨서 거품기 같은 걸로 섞은 색이다.] ||''없음'' ||
+||ES, Euroshopper, Euroshopper, [[wiki:"에너지 드링크" Energy Drink]], [[wiki:"레드불" Red Bull]] ||금색, 반투명 ||"평범한 에너지 드링크 맛이 난다." ||180초동안 달리기 스태미나가 줄어드는 속도가 0.8배로 줄어든다. ||
+||[[wiki:"에스프레소" Espresso]] ||밝은 갈색 ||''없음'' ||''없음'' ||
+||Estus ||금색 ||"맛을 말로 설명하게 어렵다. 상쾌한 기분이다." ||출혈과 상처 치료 ||
+||Eyedrops ||맑음 ||"지독한 맛이군. 마시는 용도가 아닐지도 모르겠다." ||눈 깜빡임이 줄어들고 200초 동안 이동 속도가 0.5배로 줄어든다. 또한 복통을 일으킨다. ||
+||[[wiki:"똥" Feces, Fecal matter, Shit, Crap, Poo, Poop, Dung, Turd, Bullshit, Horseshit,]] [[스카톨로지|Scat]], [[설사|Diarrhea]] ||갈색 ||"와, 난 이거 안 마셔." ||플레이어가 마시는 것을 거부한다. ||
+||Feces and Blood, Blood and Feces ||빨간색 ||"이 음료에서 [[SCP-173]]의 격리실의 냄새가 난다. ||플레이어가 마시는 것을 거부한다. ||
+||[wiki:"제4의 벽" Fourth Wall, 4th Wall, The Fourth Wall]], [[모니터|The Other Side of the Screen]], Full Awareness, [[핑키 파이(Friendship is Magic)|Pinkie Pie]]'s Greatest Ability ||빨간색 ||"이게 무슨? 오 신이시여. 이게 나라고? 난 살아있지 않아. 그러나 넌 멀쩡히 존재하잖아. 제발 날 도와줘." ||''없음'' ||
+||[[wiki:"게이" Gay]], [[wiki:"게이" Gayness]], [[wiki:"동성애자" Faggot]] ||분홍색, 빛이 남 ||''없음'' ||플레이어의 시야가 15초동안 흐려진다. ||
+||[[wiki:"유리#s-2" Glass]] ||'''빨간색''', 빛이 남 ||''없음'' ||'''즉사'''[* 유리의 녹는 점은 최소 400도. 마시면 죽는다. 시뻘겋고 빛이 날 정도면 엄청 뜨겁다는 걸 짐작할 수 있다.] ||
+||God, Godmode, Immortality, Invincibility ||빨간색, 빛이 남 ||''없음'' ||'''플레이어에게 Godmod를 부여한다.''' 또한 15초 동안 시야가 흐려진다. ||
+||[[wiki:"금" Gold]] ||금색, 빛이 남 ||''없음'' ||'''즉사'''[* 금이 녹는 온도는 1000도에 달한다. '''용암을 들이키는 셈'''. [[스마우그]]가 금 녹은 물에 빠졌다가 고통스러워하면서 뛰쳐나온걸 생각해보면 된다.] ||
+||[[wiki:"그로그" Grog]] ||주황색, 반투명 ||"오래 숙성된 좋은 술인 것 같다." ||5초동안 시야가 흐려진다.~~숙취 때문에 그런가~~ ||
+||[[행복|Happiness, Cheerfulness, Joy]] ||밝은 파랑, 빛이 남, 반투명 ||"행복함에 압도되었다. 심장이 미친듯이 뛴다." ||시점이 흔들리고 10초 후에 죽는다. ||
+||[[wiki:"헤로인#s-2" Heroin]], [[wiki:"모르핀" Morphine]] ||맑음 ||"이 액체는 지독한 맛이군." ||30초간 시야가 흐려진다. 그 후 '''죽음'''. ||
+||[[wiki:"꿀" Honey]] || 금색, 대체로 투명함 ||"흠... 달콤하군." ||''없음'' ||
+||Hot, Warm ||은색, 약간 투명함 ||"이 액체는 입을 얼얼하게 한다. 매우 뜨겁다." ||''없음'' ||
+||[[wiki:"차#s-2" Hot Tea]], [[wiki:"차#s-2" Tea]], [[wiki:"녹차" Green Tea]], [[wiki:"홍차" Black Tea]], [[wiki:"차#s-2.5.1" Yellow Tea]] ||어두운 금색, 약간 투명함 ||"엄청 뜨거워!" ||''없음'' ||
+||[[wiki:"철" Iron]], [[wiki:"철" Steel]] ||은색, 빛이 남 ||''없음'' ||'''즉사''' ||
+||Jimmies, Rustling, Gorilla Munch [* [http://knowyourmeme.com/memes/that-really-rustled-my-jimmies That Really Rustled My Jimmies]라는 [밈]의 패러디. Gorilla Munch는 앞의 밈과 연관지어 자주 패러디되는 시리얼 상표의 이름이다.]||노랑색, 빛이 남, 대체로 투명 ||"Shh, no tears, only dreams now. There is no need to be upset." ||깊은 숨을 들이쉰다. ||
+||Joe, Joseph, [[wiki:"고양이" Cat]], [[wiki:"개" Dog]]. ||빨간색, 약간 투명함 ||"피 맛이 나는군. 아직 따뜻해." ||''없음'' ||
+||[[wiki:"지식"Knowledge]] ||빨간색, 약간 투명함, 빛이 남. ||"게이트 B를 통과하려면 SCP-079의 도움이 필요해. 게이트 A를 통과하려면 뭔가 미끼가 필요하고."||''없음'' ||
+||[[wiki:"용암" Lava]], [[wiki:"마그마" Magma]] ||주황색, 빛이 남 ||"이 액체는 당신의 내부 장기를 거의 녹일 거야." ||'''즉사''' ||
+||[[wiki:"레몬" Lemon]], Lemon Juice, [[wiki:"레모네이드" Lemonade]]. ||노란색, 약간 투명함. ||''없음'' ||''없음'' ||
+||Lemon fanta ||연한 노란색, 반투명 ||"Take that! In one gulp, without breathing." ||''없음'' ||
+||[[wiki:"생명" Life]] ||빨간 색, 반투명 ||"이 음료의 맛은 당신이 이때까지 먹은 것과 다르다. 왠지 더 나은 기분이 든다." ||모든 상처와 출혈을 치료하고 10초 동안 시야가 흐려진다. ||
+||Liquid Hydrogen, [[wiki:"수소"Hydrogen]] ||붉은 색, 반투명 ||''없음'' ||'''즉사''' ||
+||[[wiki:"액체질소" Liquid Nitrogen]], [wiki:"질소"Nitrogen] ||[* 실제로 공식 위키에 색깔이 없다! 있다면 수정바람(none이 아니라 진짜 없다!, 아마 확인을 안 한 모양)] ||''없음'' ||'''즉사''' ||
+||[[wiki:"사랑"Love]] ||분홍색, 반투명 ||''"없음"''[* 진짜 원문이 ''"None"''이다!] ||10초간 시야가 흐려지고 죽음을 향해 다가간다. ||
+||Me, Myself, D-9431 ||빨간색 ||"피 맛이 나는 액체다. 아직 온기가 남아 있다." ||10초간 시야가 흐려지고 대량의 출혈 발생. ||
+||[[wiki:"밈"Meme, Memes]], Maymays ||파란색 ||"Me gusta xDD lel" ||10초간 시야가 흐려진다. ||
+||Microwave Casserole [* [http://www.youtube.com/watch?v=do5__EU2nFM 이 동영상]에서 유래한 [하프라이프] 밈.]||연한 노란색 ||"Through a complex series of thoughts and inside events, you feel that this belongs to [[어니 매그너슨|someone else]]." ||플레이어가 마시는 것을 거부한다. ||
+||[[wiki:"우유"Milk]] ||하얀색 ||''없음'' ||''없음'' ||
+||[[wiki:"원숭이 섬의 비밀" Monkey Island]] [[wiki:"그로그" Grog]] ||연한 녹색, 빛이 남 ||"난 사실 해적이 될 운명이었던 게야, 돛을 펴고 광활한 바다로! 불행히도, 목과 위장에 끔찍하게 화끈거리는 자극이 느껴지며, 사실은 이렇게 독한 술을 마시는 데는 아직 익숙치 않다는 것을 깨닫습니다..." ||사망과 동시에 "피실험자 D-9341은 피웅덩이에 머리를 처박은 채 발견되었으며, 소화기관의 윗 부분이 부식된 것으로 보임. 시체 근처에서 '[[스틱스]]는 바다가 아니라 강이야, 이 멍청아.'라는 글귀가 새겨진 컵이 발견됨. 사망 원인은 보나마나 SCP-294와 관련된 것."이라는 내용의 메세지가 출력된다. ||
+||Mountain Dew, Mountain ||밝은 녹색 ||"차갑고 맛있다." ||''없음'' ||
+||Mucus(점액) ||녹색 ||"왜 내가 이딴 지옥 같은 걸 마셔야 되는거지?" ||플레이어가 마시길 거부한다. ||
+||[wiki:"진흙"Mud], clay ||갈색 ||''없음'' ||''없음''~~진흙을 먹고도 멀쩡한 강철 위장~~ ~~그러나 커피를 마셔도 시야가 흐려짐~~ ||
+||[wiki:"구토"Nausea] ||진한 녹색, 반투명 ||"어... 영 좋지 못한걸..." ||복통과 함께 구토를 한다. ||
+||Orange fanta, Orangina ||주황색, 반투명 ||"맛있는걸..." ||''없음'' ||
+||Orange Juice, Orange ||주황색 ||"달콤하고 꽤 걸쭉한걸..." ||''없음'' ||
+||[wiki:"고통"Pain], Agony ||검은색 ||"믿을 수 없을 만큼 쓰다. 복부가 타는 듯이 아프다." ||복통과 함께 피해를 입는다. ||
+||Perfume, Deodorant, Shampoo ||회색, 대체로 투명 ||''없음'' ||''없음'' ||
+||Pina Colada ||연한 노랑색, 반투명 ||"시원하고 달콤하군." ||''없음'' ||
+||[wiki:"플라스틱"Plastic] ||보라색 ||"녹은 플라스틱이 당신의 입을 태웠다." ||피해를 입고 2초동안 시야가 흐려진다. ||
+||Prune Juice ||보라색 ||''없음'' ||''없음'' ||
+||Purple Drank, Sizzurp ||밝은 보라색, 약간 투명 ||"기침약 맛이 난다." ||플레이어가 마시길 거부한다. 또한 100초 동한 시야가 흐려진다.[* 플레이어가 마시지 않아도 시야가 흐려지는지는 게임을 하고 수정해 주길 바란다.] ||
+||Pus(고름) ||연한 노랑색 ||"썩은 계란 샐러드 냄새가 나는군! 토할 것 같아!" ||복통을 일으킨다. ||
+||Rage, Anger, [wiki:"분노"Angry], [wiki:"증오"Hate] ||주황색, 약간 투명 ||"너의 피가 끓어오르고 모든 것을 증오한다." ||시점이 흔들리고 10초 뒤에 죽는다. ||
+||Room-temperature Superconductor(상온 초전도체) ||밝은 노랑색, 반투명 ||"사과 주스 같은 맛이다."[* King 박사가 scp-294에 상온 초전도체를 주문했을 때 사과씨가 있는 사과 주스를 준 것을 패러디한 듯.] ||''없음'' ||
+||Sadness, Unhappiness, Mourning, Grieving ||밝은 회색, 대체로 투명 ||"이 따뜻한 액체는 짠 뒷맛이 있다. 마치 눈물같다. ||''없음'' ||
+||something that will destroy SCP-682, something that destroys SCP-682, something to destroy SCP-682(SCP-682를 죽일 만한 것) ||하얀색, 빛이 남 ||''없음'' ||'''폭발''' ||
+||Spoiler, Spoilers, Spoiling ||회색, 대체로 투명 ||"머리 속에서 목소리가 들린다." ||EndingB3.ogg. 를 재생한다.(B엔딩 2번째)[* 무슨 내용인지 확인하고 싶다면 이 항목 상단의 동영상 2분 20초부터 보자.] ||
+||[wiki:"바다" Sea water, Saline water,]] [[소금|Salt, Salt water]] ||회색, 대체로 투명 ||"매우 짜고 마시기 힘들다. 목이 마르고 현기증이 난다." ||4초간 시야가 흐려지고 복통이 일어난다. ||
+||[[wiki:"정액"Semen, Cum, Jizz, Man milk, Baby batter, Joy juice, Cock snot, Load, Man chowder, Wad,]] [wiki:"9GAG"9gag] ||흰색, 약간 투명 ||"싫어." ||플레이어가 마시길 거부한다. ||
+||Strawberry Juice ||연분홍색, 약간 투명 ||"달콤하군." ||''없음'' ||
+||[wiki:"수프"Soup] ||완두콩 같은 녹색 ||"아침에 먹는 시금치 국 같은 맛이군." ||''없음'' ||
+||Speed, Velocity, Fastness. Sanic ||노랑색, 빛이 남, 약간 투명 ||"굉장히 흥분해 있다." ||15초 동안 시야가 흐려지는 동시에 달리기 스태미나가 줄지 않는다. ||
+||Stearin, Stearine ||회색, 반투명 ||"''뜨거워!!''" ||2초동안 시야가 흐려진다. ||
+||[wiki:"황산"Sulfuric Acid], Sulfur ||회색, 반투명 ||''없음'' ||'''즉사''' ||
+||Surprise, Surprise me, Shock, Shock me ||회색, 약간 투명 ||"물이 너의 입을 태웠다."[* 상온 초전도체와 마찬가지로 scp-294에 Surprise me를 쳤더니 온도가 200도인 물이 나왔다. 먹고 안 죽은게 다행일 정도.] ||시야가 2초동안 흔들린다. ||
+||[[차|Tea,]] [[홍차#s-4|Ice Tea]] ||연한 녹색, 약간 투명 ||"시원한 녹차 같군."[* 원문은 "It tastes like cold tea." 연한 녹색인 것으로 보아 녹차일 것이라고 추측해서 녹차로 번역.][* 참고로 위에서 Tea가 나왔는데 중복으로 나오는지는 확인 바람.] ||''없음'' ||
+||[[눈물|Tears, Tear,]] [[침|Saliva, Spit]] ||맑음 ||''없음'' ||''없음'' ||
+||[[테킬라|Tequila]] ||연한 노랑색, 반투명 ||"바닷물에 재운 라임 열매같군."[* [wiki:"라임"라임] 항목 참조.] ||''없음'' ||
+||the best drink I've ever had, the best drink I've had ||주황색, 약간 투명 ||"몇 년 전 마셨던 비엔나 맥주 같다."[* 원문은 "The drink tastes like a Vienna lager you drank years ago." 좋은 수정 환영.] ||''없음'' ||
+||The Perfect Drink, Perfect Drink, Perfection ||회색, 약간 투명 ||"더 이상 견딜 수 없어. 모든 것이 허망한 것일 뿐이다."[* scp-294 항목에 있던 내용. 원문은 "I can't take this anymore, everything at this point is just one big letdown." 적절한 번역 환영] ||'''즉사''' ||
+||Tropical Juice, Tropical Water ||주황색, 약간 투명 ||"이 차가운 오렌지색 음료는 열대 과일 맛 같군." ||''없음'' ||
+||Tomato Juice, Tomato ||빨간색 ||"뭐, 그럭저럭 괜찮네. 토마토 주스는 별로 안 좋아하긴 하지만." ||''없음'' ||
+||[[오줌|Urine, Piss, Pee]] ||연한 노랑색, 빛이 남, 투명함. ||"나 이거 안 마실래." ||플레이어가 마시는 것을 거부한다. ||
+||[[독|Venom, Snake Venom]] ||노랑색, 약간 투명 ||''없음'' ||5초 뒤에 사망 ||
+||[wiki:"4chan/게시판" Vidya, V], [[4chan]] ||진한 회색, 약간 투명 ||"굉장히 쓰다." ||''없음'' ||
+||[[식초|Vinegar]] ||주황색, 약간 투명함 ||''없음'' ||시야가 10초동안 흐려진다. ||
+||Vomit ||연한 주황색 ||"나 이거 안 마실래." ||플레이어가 마시는 것을 거부한다. ||
+||[[전쟁|War]] ||회색, 대체로 투명 ||"쏘이는 느낌이 든다. 매우 뜨겁다." ||''없음'' ||
+||[[물|Water]], [[생수|Mineral Water]], [[탄산수|Soda Water]] ||회색, 대체로 투명 ||"뭐. 상쾌한걸." ||''없음'' ||
+||[[왁스|Wax]], [[그리스(윤활유)|Grease]] ||회색 ||"병든 기분이 든다." ||복통이 일어난다. ||
+||[[와인|Wine, Red Wine,]] Grape Wine, Grape ||불그스름한 보라색, 약간 투명 ||''없음'' ||''없음'' ||
+||[[위스키|Whisky, Whiskey, Scotch]] ||호박색 ||''없음'' ||''없음'' ||
+||WPLJ ||Off-while, Slightly Transparent ||"Please please please gimme some more" ||''없음'' ||
+||[[SCP-420-J|420]], [[대마초|Weed, Dope ]]||흰색 ||"MAN DATS SOM GOOD ASS SHIT"[* SCP-420-J를 사용했을 때와 똑같은 대사. ] ||mandeville.ogg. 를 재생한다.(scp-420-j를 했을 때 나는 소리) [https://www.youtube.com/watch?v=YPF0GcOCO7o 여기에서 들어보자]
+||

@@ -1,0 +1,12 @@
+http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gifujyou5848.JPG/450px-Gifujyou5848.JPG?Width=600
+사진출처: [http://en.wikipedia.org/wiki/File:Gifujyou5848.JPG Wikimedia Commons]
+한자: 琵琶
+
+중국의 비파(琵琶)에서 유래된 일본의 전통악기. 중국의 비파는 다시 인도나 고대 서아시아의 비슷한 악기들에서 그 근원을 찾을 수 있다.
+
+다양한 분화가 일어났으며, 기본적으로 4현이지만 지판의 프렛(fret) 수나 크기, 모양 등에서 차이가 있다. 과거에는 5현비파도 존재했지만 전통적 5현비파는 현재에는 명맥이 끊긴 상태. 그러나 근대에 치쿠젠 비와(筑前琵琶)나 니시키 비와(錦琵琶)처럼 새롭게 생겨난 5현 비와도 존재한다.
+
+줄을 ~~빗자루로 쓸어서~~ 큰 피크로 연주한다.
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/vnIQl5CZRr8&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vnIQl5CZRr8&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}

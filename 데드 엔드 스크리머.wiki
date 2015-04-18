@@ -1,0 +1,27 @@
+[[더 킹 오브 파이터즈 시리즈]]의 [[더 킹 오브 파이터즈 시리즈/기술|기술]]. 98 노멀 [루갈 번스타인|루갈]에게만 있는 초필살기.
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='gDVrh1F_fDM$' width='642px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=gDVrh1F_fDM$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=gDVrh1F_fDM$' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+attachment:c01.gif
+
+※ 노멀판
+
+attachment:c02.gif
+
+※ MAX판
+
+발동하면 상대에게 발차기 자세로 날아가 상대를 넘어뜨리고 그 위에서 빙글빙글 돌며 상대를 짓밟는다. 일명 [[미트스핀|루갈스핀]]. --보고 있으면 동네 뒷산에 있는 운동기구가 생각난다-- 빙글빙글 돌 때의 웃음소리와 마지막으로 잡아주시는 우아한 근육 자랑 포즈로 끝을 맺는다. 회전할 때 나는 위이잉~ 하는 전동 드릴 효과음은 상대에겐 공포를 주기엔 충분하다. 그 전에 이게 맞았을 때 이야기지만... MAX판으로 쓰면 넘어뜨리기 전에 목을 다리 사이에 끼우고 한 번 꺾는 동작이 추가된다. 그야말로 종합격투술에 어울리는 독창적이고 멋있는(?) 초필살기. 발차기 자세 때문에 타격기 같지만 잡기 판정이라서 가드 모션이 뜨지 않고 굴러도 잡아낸다.
+
+이렇게 보면 장풍캐를 요리할 수 있는 좋은 초필살기 같아보인다. 허나 현실은 [[KOF 98]]에서도 손꼽히는 '''[[굴욕기]]'''. 기술 자체가 굴욕성이 짙기도 하지만 애초에 '''이걸 맞는 거 자체가 굴욕'''이라 굴욕기다(...). 일단 날아가는 게 너무 느려서 발동하는 거 보고 점프하면 땡이다(공중잡기가 아닌 이상 공중에 있는 상대는 잡기로 잡을 수 없다). 게다가 이 기술은 초필살기라 암전이 뜨기 때문에 발동한 게 뻔히 보인다. 그러니 루갈이 이걸 쓰면 보통 상대는 유유히 점프로 피한 다음 여유롭게 콤보 한 세트(...)
+
+그나마 유용한 루트가 있다면 위의 동영상에 상대 기상에 맞춰 열풍권을 깔아둔 후에 쓰는 것. 98에서는 버그로 인해 상대의 기상 모션과 장풍이 정확히 겹치면 장풍이 가드 불능이 되는데 이 경직을 노려서 데드 앤드 스크리머를 써주면 맞는다. 하지만 캐릭터마다 기상 속도가 달라서 정확히 깔아둘 수 있도록 거리를 맞춘다는 게 쉬운 일이 아니기 때문에... 그리고 이 짓을 할 정도의 실력이면 이미 루갈을 쓰는 거 자체가 상대에겐 굴욕(...)
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='QyR8UQCEbwA$' width='642px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=QyR8UQCEbwA$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=QyR8UQCEbwA$' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+그랬던 초필살기가 98 UM에서는 환골탈태. 날아가는 속도가 월등히 빨라져서 상대가 장풍 쓰는 것을 보고 바로 날아가 잡아채는 게 가능해졌다. 게다가 깔아두기 장풍 버그도 그대로 적용되기 때문에 진정한 의미의 굴욕기로 거듭났다. 전체적으로 루갈의 성능이 좋아진 98 UM에서는 실제 대전에서 써도 될 기술. 물론 막 지르면 여전히 상대방 콤보의 제물이 될 뿐이다(...)
+
+[[이터널 파이터 제로]]에서는 [[쿠라타 사유리]]가 매지컬☆온 스테이지로 패러디했다. 이쪽은 사용하면 상대방 머리 위에서 나타나 상대를 넘어뜨리고 그 위에서 빙글빙글 돌며 상대를 짓밟는다.

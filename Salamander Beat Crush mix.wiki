@@ -1,0 +1,63 @@
+[[목차]]
+
+== 개요 ==
+
+[[비마니 시리즈]]의 수록곡으로 [[beatmania 2ndMIX]]에서 등장했다. 작곡가는 [wiki:"와타나베 히로시" NITE SYSTEM]. 장르는 KONAMIX로, 이 곡 이후 코나미의 게임 BGM를 어레인지해서 [[비마니 시리즈]]에 내놓는 KONAMIX 장르의 시조가 되었다.
+
+이 곡은 [wiki:"사라만다(슈팅 게임)" 사라만다]의 4면 BGM인 Starfield를 어레인지를 가한 곡이지만, 정작 그 곡을 들어보면 도입부의 멜로디 몇초를 샘플로 쓴거 빼고는 '''접점이 전혀 없다.'''(...) 이 후 비트매니아 CORE REMIX에서 Crash mix란 부제로 한번 더 어레인지되는데, 리믹서는 DECADES. 하지만 이것도 별로 다를 건 없다.(…) 그나마 이쪽은 후반부에도 이 초반 멜로디가 한번 더 쓰이긴 한다.
+
+== 5건반 [[비트매니아]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/lg1BZ3QcF4E" frameborder="0" allowfullscreen></iframe>
+}}}
+리믹스인 CRASH MIX. 원곡은 2nd 당시의 영상이 있긴 [[wiki:"욱일기" 하지만...]]
+
+|||||||||||||||||||||||||| [[비트매니아]],[[비트매니아 III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 134 |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 3}}} || {{{#orange 147}}} || {{{#red 4}}} || {{{#red 171}}} || {{{#green -}}} || {{{#green ---}}} || {{{#orange 3}}} || {{{#orange 172}}} || {{{#red 3}}} || {{{#red 177}}} || {{{#green -}}} || {{{#green ---}}} ||
+||165 (CRASH MIX)|| {{{#orange 4}}} || {{{#orange 235}}} || {{{#red 6}}} || {{{#red 336}}} || {{{#green -}}} || {{{#green ---}}} || {{{#orange 2}}} || {{{#orange 234}}} || {{{#red 5}}} || {{{#red 334}}} || {{{#green -}}} || {{{#green ---}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 2nd mix, Complete Mix, CORE REMIX, THE FINAL
+ * 가정용 수록 : 2nd, 6th + CORE REMIX[* CRASH MIX만 수록.]
+ * 기타 비마니 시리즈 수록 : DDR Club Ver.
+
+첫 수록은 2nd. [[BGA]]의 경우, 5건반 비트매니아 2nd 첫 수록 당시엔 대놓고 [[욱일기]]가 그려진 레이어가 있어서 국내에 출시되었을 땐 이 부분이 잘려나갔다.[http://www.youtube.com/watch?v=vXzaglpNfyI 문제의 BGA 영상.] 그래도 Complete MIX 이후 수록되었을 땐 욱일기 컷은 나오지 않았다. 
+
+마이너하지만 비트매니아 GB 1편에도 이 곡이 수록되어 있다.
+
+== [[비트매니아 IIDX]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/j5jGdPsbMRc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 134 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 2}}} || {{{#blue 157}}} || {{{#orange 3}}} || {{{#orange 171}}} || {{{#red 3}}} || {{{#red 171}}} || {{{#blue 2}}} || {{{#blue 173}}} || {{{#orange 4}}} || {{{#orange 177}}} || {{{#red 없음}}} || {{{#red 없음}}} ||
+ * [[아케이드]] 수록 : 1st Style ~ 2nd Style
+ * 가정용판 수록 : 3rd Sryle
+12 HAPPY SKY 난이도 정립 이전에 삭제되어 난이도 표기는 CS 3rd Style의 표기 난이도를 따른다.
+
+[[비트매니아 IIDX]] 첫 작품에 이식되었다. CS 3rd에서의 BGA는 [[R5]]등에 쓰인 [범용 BGA].
+
+애당최 5건반 비트매니아에서도 저렙인지라 여기서도 저렙으로 나왔다. 5키에 적응하지 못하는 유저들을 위해서 만든 7키용 어나더가 있는데 5건반 하드 보면에서 노트 배치만 약간 바꾼 보면이다.
+
+5건반 이식곡이 싹 쓸려나간 3rd Style에 짤리고 다시는 부활하지 못해, 최신작에선 이 곡을 할 수 없다. 그나마 가정용에선 3rd Style에 이식되었기에 할 수 있다.
+
+== [[댄스 댄스 레볼루션]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/rxdEzwfQDJE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+댄스 댄스 레볼루션 Club Ver에 수록. 다만 Club Ver 연동 대상곡이었기에, Club Ver 연동이 3rd에 중지되면서 바로 짤렸다. 가정용에선 플레이스테이션판 APPEND Club Ver과 [[드림캐스트]]판 Club Ver Dreamcast Edition에 수록.
+
+== 같이 보기 ==
+
+{{{#!html
+<iframe width="480" height="360" src="http://www.youtube.com/embed/kqxWh6wrt44" frameborder="0" allowfullscreen></iframe>
+}}}
+여담으로 비트매니아 시절 유명 퍼포먼스 플레이어 DJ ITOH가 현란한 다이아몬드 스텝을 밟으며 연주하던 곡이 바로 이 곡이다.

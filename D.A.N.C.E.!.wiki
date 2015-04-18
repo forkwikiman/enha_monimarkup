@@ -1,0 +1,42 @@
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/XToB_3ZqHjQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 장르명 |||||| J-POP || [[BPM]] |||| 116 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 3}}} || {{{#blue 299}}} || {{{#orange 5}}} || {{{#orange 431}}} || {{{#red 10}}} || {{{#red 826}}} ||
+|| 싱글 플레이 || {{{#blue 3}}} || {{{#blue 298}}} || {{{#orange 5}}} || {{{#orange 425}}} || {{{#red 8}}} || {{{#red 653}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * 가정용 수록 : 11 IIDX RED, 16 EMPRESS + PREMIUM BEST (PREMIUM BEST SIDE)
+ * [[아케이드]] 수록 : [[beatmania IIDX 11 IIDX RED|11 IIDX RED]] ~ 
+ * [[단위인정]] 수록
+  * SPN : 5급 (AC 13 DistorteD), 6급 (AC 14 GOLD ~ 19 Lincle, CS 16 EMPRESS)
+  * SPH : 2급 (AC IIDX 11 RED), 3급 (CS 16 EMPRESS)
+  * DPN : 4급 (CS 16 EMPRESS)
+  * DPH : 2급 (22 PENDUAL)
+명의는 DJ Yoshitaka feat.星野奏子, 작곡은 [[DJ YOSHITAKA]], 보컬은 [[호시노 카나코]]. DJ YOSHITAKA의 [[BEMANI 시리즈]] 데뷔곡이며, 동 작품의 [[太陽～T・A・I・Y・O～]]과 함께 호시노 카나코의 BEMANI 시리즈 데뷔곡이기도 하다. [[BGA]] 담당은 shiro.
+
+수록 당시 [[2ch]] 등지에서 [[m-flo]]와 [[BoA]]의 듀엣곡 [http://youtu.be/YVqZKflL4PY the Love Bug]와 전개, 코드 등이 비슷해 [http://game9.2ch.net/test/read.cgi/arc/1102188998/ 표절설]이 나오기도 했었지만 결국 설로만 끝났다.
+
+채보는 주로 동시치기 + 스크래치로 이루어져있으며 종종 어긋난 동시치기나 연타가 섞여 나오기도 한다. 상당히 스크래치 견제가 심해서 개인차에 따라 체감 난이도가 높아질 수 있으며, 특히 후반부에는 밀도가 전보다 높아지니 주의.
+
+== 아티스트 코멘트 ==
+||DJ Yoshitaka / SOUND
+
+여러분 틈이 난다면 연타해서 오리지널 랩을 만들어봅시다.
+참고로 「D.A.N.C.E.!」라는 곡명은 「T・A・I・Y・O」이랑 닮아서 쪼개봤습니다. (격하게) 
+ 
+星野奏子 / VOCAL
+
+「D.A.N.C.E！」라는 곡은 「[[太陽～T・A・I・Y・O～]]」에서 보여준 격렬함과는 달리
+또 다른 얼굴이 나타나고 있다고 생각합니다.
+클럽계의 느긋한 리듬은 여러분의 몸이 자연스럽게 타서 춤추게 해버린다, 바로 「D.A.N.C.E.!」입니다.
+도중의 랩도 크게 들을 만하니 꽤나 마음에 드는 곡입니다.
+가사의 내용은 고민도 때로는 중요하지만 자신이 선택해온 일은 틀림이 없다, 생각하는 대로 하다! 오늘 밤은 춤추자고~ 라는 내용입니다.
+고민하는 사람이 있다면 기운 차릴 수 있을 곡이라고 생각합니다.
+여러분이 듣고, 춤추고, 즐겨서 이 곡을 만들어주세요♪
+
+호시노 카나코
+||

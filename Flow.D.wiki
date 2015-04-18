@@ -1,0 +1,34 @@
+[[목차]]
+== 설명 ==
+대한민국의 [[BGA]] 제작자. [https://twitter.com/_flowd/ 트위터]
+
+국내 [[EZ2DJ]] 커뮤니티 사이트인 [[Theme of EZ2DJ]]의 "다키 포럼"[* 7키, 10키, 14키 유저들이 활동하는 포럼이다. Flow.D는 스페이스 믹스를 전문으로 하던 유저다.] 마스터로 활동하였으나. [[EZ2DJ AEIC]]를 기점으로 상업용 리듬게임 BGA 제작자로 데뷔하였다.
+
+사양의 한계상 레이어 방식의 BGA만을 연출할 수 있는 [[EZ2DJ]]에서 렌더링 영상을 이용한 BGA를 제작하여 [[wiki:"EZ2DJ AEIC" AEIC]] 발매 당시 유저들의 이목을 끌었다. 다만, 용량 문제였는지 영상의 재활용이 심해 전체적인 구성이 다소 지루하다는 단점이 있다.
+화면을 떠는 위글 효과도 자주 쓰는 편인데 "루프가 끝나는 마지막 장"을 눈속임하기 위해 의도적으로 사용한 것이라고 한다.
+
+[[EZ2DJ AEIC]]의 개발이 끝난 후에도 [[Theme of EZ2DJ]]에서 활동하지 않고 있다. 간간히 블로그에 영상을 올리는 것으로 봐선 영상업계 현업에 뛰어든 모양.
+[[wiki:"EZ2DJ AEIC" AEIC]]에서 상당히 많은 양의 BGA를 만들었다. [[EZ2DJ AE]] 시리즈 신곡에 새로 적용된 [[범용 BGA]]도 이 분 작품이다.
+
+여담으로 2012년 경에 방탈출게임인 마이 다이아몬드 베이비의 클리어 후 이름 표기란에 이름을 남긴 것이 발견 되었다고. 본인인지는 [[추가바람]].
+
+참고로 닉네임의 D는 Down을 줄인 것으로 추정된다. [[EZ2DJ : AZURE EXPRESSION INTEGRAL COMPOSITION]]에서 추가된 [[The Ashtray]] BGA에 FLOWDOWN으로 표기한 적이 있다. 라디오 믹스 채널 부제에도 Flow Down이라 표기되어있다.
+
+[[EZ2AC : EVOLVE]]에서는 [[BGA]] 제작을 쉬고 패턴 디자인으로 참여하였다.
+
+== 리듬게임 참여 BGA ==
+=== [[EZ2DJ]] ===
+==== [[EZ2DJ : AZURE EXPRESSION INTEGRAL COMPOSITION]] ====
+ * [[AXIS]]
+ * [[Crisp]]
+ * [[EZ2DJ AE]] 시리즈 신곡용 범용 BGA
+ * [[Liquid Cube]]
+ * [[Nihilism]][* [[WR8NG]]와 합작하였다.]
+ * [[The Ashtray]]
+==== [[EZ2AC : ENDLESS CIRCULATION]] ====
+ * [[A Site De La Rue]]
+ * [[BEATRICE]] - Badny와 합작, 모션을 당담했다.
+ * [[Entire]]
+ * [[Total Eclipse]]
+
+[[추가바람]]

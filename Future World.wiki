@@ -1,0 +1,103 @@
+[[목차]]
+== [[파워 메탈]] 밴드 [[wiki:"헬로윈" Helloween]]의 2집 수록곡 ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/_9h3jRaZyB4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/_9h3jRaZyB4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+헬로윈의 2집 Keeper of the Seven Keys, Pt. 1 6번 트랙곡. 카이 한센이 곡을 썼다.
+
+하드한 리프와는 달리 가사는 매우 [건전가요]틱하고 미래지향적이다(...). [http://www.lyricsfreak.com/h/helloween/future+world_20065152.html 가사보기].
+
+== 리듬게임 [Cytus]의 수록곡 ==
+ * 상위 항목 : [Cytus/수록곡]
+||||||||<table align=right> '''Future World''' ||
+||||||||  attachment:Cytus_Future_World.jpg?width=240 ||
+||<:>  작곡  ||||||||<:>KillerBlood||
+||<:>일러스트||||||||<:> DD ||
+||<:>  BPM  ||||||||<:> 120 ||
+||<:>연주 시간||||||||<:> 2:20 ||
+|| ||<:>EASY||<:>HARD||
+||<:>레벨||<:>4||<:>7||
+||<:>노트 수||<:>345||<:>'''666'''||
+||<:>'''특이사항'''||||||<:> '''하드 패턴 노트 수'''||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/V-R_2olOF_c" frameborder="0" allowfullscreen></iframe>
+}}}
+
+Cytus의 Chapter 4 수록곡으로, 작곡은 [[The Black case]]를 작곡한 KillerBlood. 원곡은 2011년 9월 30일에 유튜브에 올라온 [http://www.youtube.com/watch?v=CYBc-t0jiuo 來世 (Future World)]로, Cytus에 수록된 버전은 ~~당연히~~ 커팅한 버전이다. 이전 곡과는 달리 [[칩튠]] 위주의 곡 구성이 인상적인 데다가 이미지도 귀여운 편.
+
+EASY 패턴과 HARD 패턴 모두 마지막에 잘 긁어야 하는데, EASY의 경우 250노트 이후의 긁기를 잘 처리해야 S랭크 이상을 받을 수 있다. HARD 패턴은 EASY 패턴 후반부부터 나오는 엇박 패턴이 처음부터 시작되고 16분박 엇갈려 치기를 요구하기에 조금은 어려운 편. 그래도 100만점 찍기가 어렵지, 90만점을 넘기기에는 그리 어렵지 않다. 실제로 [http://youtu.be/cMK50Z5v6Xo TP 100을 찍은 사람]도 많고.
+
+4.5버전에서 이지 난이도가 3에서 4로 1 상향되었다.
+
+곡 구성도 귀엽고 이미지도 귀여운 편이지만, 사실 이곡을 조금씩 파헤쳐보면 '''[wiki:"흠좀무" 설정이 상당히 소름이 돋는다]'''.
+
+찬찬히 살펴보면,
+
+1. 총 노트의 개수가 '''[[666]]'''개이다.
+
+2. '''4챕터의 4번째 곡'''이다.
+
+3. 일러의 소년은 귀엽게 그려져있는데, 오른손을 주목하라. 저 손은 유대교에서 악마의 상징으로 여기는 염소, 산양의 뿔을 상징하는''' Devil's Horn 손모양.'''
+
+4. 들고있는 토끼 인형의 머리를 보면 마치 머리가 깨져 피가 고여있는 듯 하며 눈도 파여있다.
+
+5. 풀 버전에서의 곡도 마무리가 한 음(솔)이 계속 이어지는 건데 이게 마치 '''사람이 죽었을 때의 맥박 측정기 소리[* 우리가 흔히 잘 알고 있는 그 삐- 소리.]와 유사하다!'''
+
+~~6. 머리 위에 [포로(리그 오브 레전드)|포로]가 있다.~~
+
+
+간단히 말해 자연을 잊고 쾌락세계에 빠져 있는 인류의 자화상, 어쩌면 [[가상현실]]에 빠진 인류의 자화상일 수도 있다. 
+덤으로 이 곡이 수록된 앨범의 이름은 '''자화상'''(自畵像)이라 확인사살. 아래는 그 코멘트 및 번역이다.
+
+||人類活在沒有自然的快樂世界，所有事物被人造物取代，
+자연이 없는 곳에서 살아가고 있는 인류, 이곳에서 필요한 것은 모두 사람이 만들게 된다.
+
+曾經自然的世界現在都必需經過人類之手所製造。
+이제는 자연에까지 사람의 손이 미치고 있다.
+
+快樂也不會消失，悲傷也不會。
+행복은 계속되지만, 슬픔 역시 마찬가지.
+
+不曾體會過自然的他們，也不會意識到失去自然的難過。
+자연을 경험하지 못한 그들[* '''[[인류]]''' ]은, 사라져가는 자연을 위해 슬퍼하지도 못한다.
+
+什麼是真的？假的？必要的？不需要的？
+무엇이 진실인가? 거짓인가? 필요한 것인가? 불필요한 것인가?
+
+關上你眼前的螢幕。
+당신은 눈 앞에 있는 모니터를 꺼보라.
+你所體會到的真實是...？
+'''그대가 찾을 수 있는 진실은 과연 무엇인가...?'''||
+= 리듬게임 [Deemo]의 수록곡 =
+||||||||<table align=right> '''Future World''' ||
+||||||||http://img3.wikia.nocookie.net/__cb20141011083154/deemo/images/thumb/6/64/Future_World.jpg/536px-Future_World.jpg?width=250||
+||<:>작곡||||||||<:>Killerblood||
+||<:>BPM||||||||<:>120||
+|| ||<:>Easy||<:>Normal||<:>Hard||
+||<:>레벨||<:>3||<:>6||<:>8||
+||<:>노트수||<:>425||<:>607||<:>725||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/WvEZn79Twrs?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/ItK7233eW40?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+Hard 모드 All Charming 동영상.
+
+2014년 10월 10일에 업데이트 된 [Deemo]의 수록곡. #11 Cytus Selction Vol.2에 수록되어있다.
+
+사실 수록된 것 자체가 아이러니할 정도인 곡. 곡이 [[칩튠]] 계열이니만큼 피아노가 주요 악기가 아니고, 그 피아노마저도 '''코드 연주만 하고 있다'''. 그 때문인지 초반에는 칩튠 계열의 멜로디가 중앙이 검은 노트로 나오다가, 중반 이후부터 '''동시치기'''로 코드 연주만 하게 된다. --사실 [[Saika|전]][[Magnolia|례]][[Hey boy|들]]을 생각하면 놀랄 것도 아니다-- --게다가 같은 부류에 속하는 Dream of Dreams와 Time Forgotten에 비하면 취급이 훨씬 낫다--
+
+동시치기 연타부분에서 밀리기라도 하면(...) 점수가 답이 없어지니 조심하자.
+
+[[VIVERE LA VITA|이 곡]]과 마찬가지로 일러스트를 보면 위의 설정과 괴리감이 몰려온다(...)
+
+Cytus에서의 이식곡 라인업을 정한 Ice가 업데이트 후에 여담으로 밝힌 바로는 표지그림을 쇼타로 해달라는 부탁을 몇번이고 한 모양이다(...).~~그치만 결국 로리로 되었다.~~
+{{{#!HTML
+<blockquote class="twitter-tweet" lang="ko"><p>Cytusの移植曲ですが、すべてわたしの偏見と独断でラインナップを決めました。来世のジャケットには何度も苦情を申し上げたんですが、ショタにはしてくれませんでした。</p>&mdash; Ice (@RayarkIce) <a href="https://twitter.com/RayarkIce/status/520591160666894336">2014년 10월 10일</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+}}}

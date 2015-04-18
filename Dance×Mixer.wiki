@@ -1,0 +1,21 @@
+attachment:/lessages.jpg
+Dance×Mixer 
+
+가격 : ￥ 15,980  
+CPU : Pentium4-2.4 G이상(Core2 Duo 이상 추천)
+대응 OS : WindowsXP/Vista
+메모리 : 1 GB이상(1.5 GB이상 추천)
+미디어 : DVD
+비디오 카드 : nVIDIA GeForece6 시리즈 이상(8 시리즈 이상 추천) [VRAM]256 MB이상(512 MB이상 추천)
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/bj7jV7WnZlY&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/bj7jV7WnZlY&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>}}}
+탑재된 버추얼 댄서 피치피치의 테마송.
+
+2009년 6월 26일  발매된 [[PV]] 제작용 [[프로그램]].
+
+버추얼 댄서 「피치피치(ぴちぴち)」를 프로그램의 이미지 캐릭터로 삼고 있다. 캐릭터 디자인은 [wiki:"와타나베 아키오"포요용로쿠], 테마송의 목소리는 성우 [[타무라 유카리]]가 담당했다.
+
+설치후 인터넷 인증을 거쳐야 실행할 수 있지만, 발매 이후 [[크랙]]이 돌아다니는 통에(...). 구입후 1년간 무료 업데이트를 지원하며 1년 뒤에는 업데이트를 유료로 구입하는 형식으로 바뀌게 된다.
+
+2012년 4월부로 지원이 중단되었다. ~~안습~~ 덕분에 자진해서 인터넷 인증 없이 실행되는 패치를 내놓았다.

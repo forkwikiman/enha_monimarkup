@@ -1,0 +1,95 @@
+[[목차]]
+
+== 개요 ==
+attachment:/Amalgamation.png
+
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 [[Mystic Moon]]. [[바로크]] 풍의 멜로디의 [[일렉트로니카]].
+
+롱버젼이 "Amalgamation (Original Score Version)"이라는 이름으로 DanceDanceRevolution X3 VS 2ndMIX OST에 수록되었다.
+
+== [[댄스 댄스 레볼루션]] ==
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#green 13}}} || {{{#purple 15}}} ||
+||<|3> 166|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 7}}} || {{{#red 10}}} || {{{#green 13}}} || {{{#purple 15}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+||<#eeeeee>
+이 곡의 토대는, 몇 년 전 새로 쓰기 시작한 바로크풍의 악곡이었다.
+그 때는 스트링스와 하프시코드라는 단순한 악기로 구성된 노래였으나, 이번에 DDR 측의 의견이 있었기 때문에 셀프 어레인지를 시도했다.
+이미지는 '클래식의 프레이즈를 샘플링한 고속 일렉트로'. 곡 중간의 기믹도, 클럽적인 수법과 게임적인 수법, 둘 다 포함했다.
+
+자, 전조를 반복하며 표정을 바꾸는 장엄한 리프를 네놈의 온 몸으로 느껴라!!
+흐흐, 춤을 추시게나.
+
+- [[Mystic Moon]]
+||
+
+DanceDanceRevolution X3 vs 2nd MIX에서 악곡 클리어 후 얻을 수 있는 별 9개를 모아서 열리는 엑스트라 스테이지 전용곡이였으나, 2012년 4월 25일에 통상해금되었으며, 그 후 익스퍼트 보면에서 동시치기와 16비트를 추가한 챌린지 보면이 공개되었다. 
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/bjzwYPtWdWc" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 모든 보면 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/TO8zn8Ojgac" frameborder="0" allowfullscreen></iframe>
+}}}
+EDP 영상
+
+8비트 2연속 밟기 패턴을 중심으로 구성이 바뀌면서 3연속 16비트 패턴이 나오는 구성이 상당히 많다. 곡 중반부에 풀콤보 방지용 일시중지 패턴이 있으나 잘 숙지해두면 어렵지 않게 지나갈 수 있다. 박자도 어렵지 않고 구성이 비슷비슷한 패턴들인지라, 실질적인 체감 난이도는 14레벨 하위권으로 평가받았으며, 이로 인해 [[Dance Dance Revolution(2013)]]에선 싱글, 더블 익스퍼트 모두 13으로 격하당했다.
+
+== [[유비트 시리즈]] ==
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>8||<:>9||
+||<#000000><:>{{{#white 노트수}}}||<:>271||<:>521||<:>722||
+||<#000000><:>{{{#white BPM}}}||||||<:>166||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>saucer pack 03||
+||<#002040><:>{{{#white Android}}}||||||<:>saucer pack 03||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * '''アマルガム'''[* 굵은 글씨는 칭호 파츠.]にすること([[아말감]]으로 하는 것) : 전보면 클리어
+  * で、'''アマルガム'''って何？([[아말감|근데, 아말감이 뭐지?]]) : 전보면 풀콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+유비트 소서의 첫 [[유비트 소서/bistro saucer|bistro saucer]]로 이식수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/Rxrxhq2veDU" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT 보면 영상
+
+박자는 정박이며 중간에 긁기부분만 잘 처리하면 스코어는 쉽게 올릴 수 있다.
+
+== [[팝픈뮤직]] ==
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/2gnIt1ZB9O0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||<#eeeeee>
+バロックとハードダンスの饗宴を、とくとご覧あれ！
+바로크와 하드댄스의 향연을, 똑똑히 보아라!
+||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music[[BR]]Sunny Park || ELECTRO BAROQUE[[BR]]일렉트로 바로크 || Amalgamation || [[Mystic Moon]] || wilhelm[[BR]][[빌헬름(팝픈뮤직)|빌헬름]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 166 || 50단계 || {{{#blue 13(8키)}}} || {{{#green 28}}} || {{{#orange 42}}} || {{{#red 47}}} ||
+|||| 노트수 || {{{#blue 200}}} || {{{#green 318}}} || {{{#orange 842}}} || {{{#red 1216}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+2012년 12월 26일자로 BEMANI 대작전 이벤트로 팝픈뮤직 Sunny Park에 이식되었다 12월 26일 부터 [[e-AMUSEMENT PASS]]의 플레이카운트가 4회 이상이면 해금된다.
+
+EX채보는 47 중에서는 중상급에 속한다. 특히 이곡의 하이라이트 구간인 위의 영상 기준 1:15 ~ 1:17 구간을 얼마나 잘 버티느냐가 이곡의 클리어 관건. 3초의 짧은 시간동안 정말 무식한 폭타가 내려오기 때문에 양손이 모두 정신없이 바쁘게 움직여야 한다.
+곡 후반에는 앞 부분 보단 비교적 수월한 노트가 떨어지지만 거의 막바지쯤 폭타 구간에서 오른손이 9번과 6번 버튼을 빠르게 번갈아 처리해야 하는곳도 포인트.

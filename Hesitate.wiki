@@ -1,0 +1,66 @@
+[[목차]]
+= '주저하다'를 뜻하는 영어단어 =
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| [[트랜스(음악)|Trance]] ||
+|| 곡명 |||||||| Hesitate ||
+|| 작곡 |||||||| [[KIEN|Rammage]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 최초 수록버전 |||||||| [wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] ||
+|| BPM |||||||| 140 ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange }}} || {{{#red }}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+== 개요 ==
+EZ2AC : EC의 해금곡. 해당 알파벳은 ''''ENDLESS CIR{{{#lightseagreen C}}}ULATION''''으로 11 번째 해금곡이다. 해금 방법은 [http://www.ez2ac.co.kr 공식 홈페이지]의 'HIDDEN' 탭에서 입장 가능한 '해금 시스템' 부분을 참고.
+
+Rammage가 투고한 곡으로, 피아노가 어느 정도 가미된 꽤 암울한 느낌의 트랜스 곡이다. 전반적으로 초중수들을 위한 곡 구성과 난이도 배치를 가지고 있지만, 많이 묻히고 있는 곡이다.
+~~한 가지 이 곡에 대해 특이점을 쓴다면, HD 아이캐치에 Trance Mix라고 써져 있는 점. 부제가 따로 달려 있지 않은 곡이지만 본래 트랜스가 아니었던 곡을 편곡해서 수록했을 수도 있다.~~
+Hard + Trance Mix 가 아니라 Hard Mix + Trance 이다. 난이도 하드고 노래의 종류가 트랜스라는 뜻
+== 패턴 ==
+=== 5 Street mix ===
+{{{#!HTML
+<embed src="//www.youtube.com/v/b1T_HZrrZ5Y?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+NM MIX
+간단한 롱노트 연쇄와 간단한 롱잡배치가 이어지는데, 각각의 패턴 입문자가 연습하는 데에는 어느 정도 좋은 패턴. 짧은 롱노트가 나올 때에는 따로 잔노트들이 나오지 않으므로 참조하자.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/atXO28ORO5s?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/atXO28ORO5s?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+
+롱잡배치가 강화된 형태. NM과는 달리 짧은 롱노트가 나올 때에도 잔노트들이 딸려 나온다.
+
+라디오 채널에서는 ch.null과 ch.Mutant에 전용 패턴이 있다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/iIYJT7dHRxg?&amp;start=202" frameborder="0" allowfullscreen></iframe>
+}}}
+ch.null
+
+ch.null에서는 2스테이지에 나오는데, 그 채널 내에 포함된 다른 곡들처럼 스트리트 채보에 비해 강화되어 있다. 사실상 Hesitate SHD 수준. 전반부는 그나마 할만하지만 후반부에 본래 롱잡배치로 쓰이던 롱노트를 롱스크로 밀어넣고 건반폭타까지 넣어 놔서 [[Indistinction]] 다음으로 어렵다. 개인차에 따라서는 Indistinction보다도 더 어려울 수도 있다. 체감 난이도는 12중상 ~ 13중하. EV에서 정식 슈하로 채택되었다.
+=== 7 Street mix ===
+=== 10 Club mix ===
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/iqEfEMa-Dwk?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+NM MIX
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/UMGxA92OIK8?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX
+
+=== 14 Space mix ===
+=== EZ2 Catch ===
+=== Turntable ===
+피아노와 엇박 키음이 많이 사용되었으며, 대놓고 간접 미스를 일으키는 패턴들도 일부 있다. 연습에 꽤나 도움이 되는 6레벨.
+[[각주]]

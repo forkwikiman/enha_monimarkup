@@ -1,0 +1,36 @@
+[[BEMANI 시리즈]]의 수록곡으로, [[Miracle Moon]]과 [[サナ・モレッテ・ネ・エンテ]] 등에서 뭉친 [[Togo]] project feat. [[Sana]] 명의의 노래 중 하나.
+
+롱버전은 sana-mode II에 수록되어 있다.
+
+[[목차]]
+
+== 팝픈뮤직 ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/_D0UiHdAHFU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 10[[br]](ee'MALL 2nd avenue) || BOSSA GOGO[[br]]보사 고고 || Custom-made Girl -NOT FOR SALE!- || Togo project feat. Sana || SANDAY[[br]]산데이 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 202 || 43단계 || {{{#blue 14}}} || {{{#green 21}}} || {{{#orange 24}}} || {{{#red -}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 27}}} || {{{#orange 30}}} || {{{#red -}}} ||
+|||| 노트 수 || {{{#blue 282}}} || {{{#green 474}}} || {{{#orange 536}}} || {{{#red -}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+팝픈뮤직 10에 ee'MALL 전용곡으로 첫 수록되었다. 첫 수록 당시의 노멀과 하이퍼 보면 구성이 약간 틀려있었으나 12 いろは에서 현재 남아있는 보면으로 수정되었다. 15 어드벤처에서 통상해금.
+
+== [[유비트 플러스]] ==
+
+{{{#!HTML
+<iframe width="315" height="420" src="//www.youtube.com/embed/u3rn0cVCTGA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||||||||||<#2828a0><:>jubeat Plus 기준||
+||<|2><#2828a0><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>2||<:>6||<:>8||
+||<#2828a0><:>노트수||||<:>163||<:>323||<:>591||
+||<#2828a0><:>BPM||||||||<:>202||
+
+유비트 플러스의 Sana 팩에 수록되었고, jukebeat에도 수록. 이 이식으로 이 노래는 ee'MALL 전용곡 중 유비트 시리즈에 첫 수록된 사례가 되었다.

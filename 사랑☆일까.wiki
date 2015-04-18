@@ -1,0 +1,28 @@
+상위 링크 - [[키라링☆레볼루션]]
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer91385' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=73877FEFF29E3017C3A319E3EE1BB08EFD89&outKey=V122300d7ef3566045331231e17f531b10e297eed7dfcf2e2a1a4231e17f531b10e29' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=73877FEFF29E3017C3A319E3EE1BB08EFD89&outKey=V122300d7ef3566045331231e17f531b10e297eed7dfcf2e2a1a4231e17f531b10e29' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer91385' id='NFPlayer91385' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+일본판
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer99173' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=11C71CD31FCB656500982780974B2E7A6B6B&outKey=V1281cd31fc0b656500982780974b2e7a6b6b65a138a579575bc52780974b2e7a6b6b' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=11C71CD31FCB656500982780974B2E7A6B6B&outKey=V1281cd31fc0b656500982780974b2e7a6b6b65a138a579575bc52780974b2e7a6b6b' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer99173' id='NFPlayer99173' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+한국판(14화~20화)
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_z-bmz--HAe4$' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf?vid=z-bmz--HAe4$&playLoc=undefined' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=z-bmz--HAe4$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf?vid=z-bmz--HAe4$&playLoc=undefined' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+한국판(21화~)
+
+[[키라링☆레볼루션]]의 첫번째 오프닝 곡으로 14화부터 26화까지 삽입곡으로도 쓰이는 곡이다. 한국판에서의 제목도 내용도 똑같은 곡이다.[* 가사는 차이가 있는 편이다.]
+
+작중에서는 사랑과 청춘 소나타의 엔딩곡으로 쓰였으며 [wiki:"토도 후부키" 후부키(리나)]와 대결하기 전까지 [wiki:"츠키시마 키라리" 키라리(라라)]의 대표 곡으로서 불러진다. 코믹스에서는 9권에서 제목이 한번 나온다.
+
+키라리의 성격 및 생각을 그대로 나타내는 곡으로 그에 걸맞는 활발하고 신나는 음악과 안무, 영상이 특징이다.
+
+'''한국판에서도 풀 버전은 존재하지만 가사는 1절의 가사에서 토씨 하나 안 틀리고 그대로다.''' -_-
+
+보컬은 일본판에서는 [[쿠스미 코하루]]. 국내 방영판은 [[배정미]]. 하지만 20화까지는 성우 본인이 부른 게 아닌듯하다.
+
+[[각주]]

@@ -1,0 +1,290 @@
+[[목차]]
+
+== 노래에서 매우 많이 쓰이는 코드 ==
+기본적으로 다장조 기준 '''C-G-Am-Em-F-C-F-G''' (I-V-vi-iii-IV-I-IV-V)로 나가는 [[카논|캐논 변주곡]] 코드를 말한다. 일반적으로는 더 짧게 '''C-G-Am-F''' (I-V-vi-IV)를 말한다. 머니코드(Money Chords)라는 표현 외에 '4 Chords'라고 하기도 한다.
+
+귀에 쏙쏙 들어오는 코드라 많이 팔리기 때문에 머니코드는 매우 많이 쓰인다. 가끔은 이렇게 비슷한 코드 진행 때문에 표절 시비에 휘말리는 것도 적지 않은 편. 밑에 서술한 [[로이킴]]의 "봄봄봄"이 어쿠스틱 레인(Acoustic Rain)의 "Love Is Canon"이 대표적인 예이다. 똑같은 바장조 음계에 코드 진행까지 똑같으니...
+
+G코드를 E코드로 바꾼 '''C-E-Am-F''' ([[에픽하이]] - 우산, [[태양]] - 눈, 코, 입 등)
+순서를 바꾼 '''Am-F-C-G''' ([[송지은]] -미친거니, [[티아라]] - Roly Poly, [[에이핑크]] - Hush, [[카라]] - Step, [[신화]] - Venus 등)
+'''F-C-G(혹은 E)-Am''' (표절 시비가 붙은 [[에일리]] - Heaven, [[Rihanna]] - Umbrella, [[FT아일랜드|FTISLAND]] - 좋겠어, Train - 50 Ways To Say Goodbye 등)
+
+다양한 바리에이션이 있다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/oOlDewpCfZQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+Axis of Awesome이 이 캐논 머니코드 하나만 가지고 메들리를 부르는데, 여기서 나오는 곡들을 적자면 
+
+(가수 - 곡)
+[[Journey]] - Don't Stop Believing
+James Blunt - You're Beautiful
+[[블랙 아이드 피스|Black Eyed Peas]] - Where Is the Love
+Alphaville - Forever Young
+[[Jason Mraz]] - I'm Yours
+Train - Hey Soul Sister
+The Calling - Wherever You WIll Go
+[[엘튼 존|Elton John]] - Can You Feel The Love Tonight (From The Lion King)
+[[Akon]] - Don't Matter
+John Denver - Take Me Home, Country Roads
+[[레이디 가가|Lady Gaga]] - Paparazzi
+[[U2]] - With Or Without You
+The Last Goodnight - Pictures Of You
+[[마룬5|Maroon 5]] - "She Will Be Loved"
+[[The Beatles]] - Let It Be
+[[밥 말리|Bob Marley]] - No Woman No Cry
+Marcy Playground - Sex and Candy
+Men At Work - Land Down Under
+Theme from America's Funniest Home Videos
+Jack Johnson - Taylor
+[[스파이스 걸스|Spice Girls]] - Two Become One
+[[아하|A-Ha]] - Take On Me
+[[Green Day]] - When I Come Around
+Eagle Eye Cherry - Save Tonight
+Toto - Africa
+[[비욘세|Beyonce]] - If I Were A Boy
+[[켈리 클락슨|Kelly Clarkson]] - Behind These Hazel Eyes
+Jason DeRulo - In My Head
+The Smashing Pumpkins - Bullet With Butterfly Wings
+Joan Osborne - One Of Us
+[[에이브릴 라빈|Avril Lavigne]] - Complicated
+The Offspring - Self Esteem
+The Offspring - You're Gonna Go Far Kid
+[[Akon]] - Beautiful
+Timberland - Apologize
+[[Eminem]] - Love the Way You Lie
+[[본 조비|Bon Jovi]] - It's My Life
+[[레이디 가가|Lady Gaga]] - Pokerface
+[[아쿠아(가수)|Aqua]] - Barbie Girl
+[[레드 핫 칠리 페퍼스|Red Hot Chili Peppers]] - Otherside
+The Gregory Brothers - Double Rainbow
+MGMT - Kids
+Andrea Bocelli - Time To Say Goodbye
+Robert Burns - Auld Lang Syne
+Five for fighting - Superman
+The Axis of Awesome - Birdplane
+Missy Higgins - Scar
+
+그 밖에도 캐논 머니코드가 쓰인 노래들은 다음과 같다.
+
+ * [[거미]] - 그만 헤어져
+ * [[국카스텐]] - Mandrake
+ * 규정 - Cold Winter
+ * 김보경 - Suddenly
+ * [[김재중]] - Just Another Girl
+ * 나몰라패밀리N - 어떻게 널 잊어
+ * [[노라조]] - 사랑가
+ * [[다이나믹 듀오(가수)|다이나믹 듀오]] - GONE(Feat. 주희. 8eight)
+ * 더크랙 (The Crack) - 전력질주
+ * [[러브홀릭]] - 그대만 있다면 (드라마 [[어느 멋진 날]] OST)
+ * [[로이킴]] - 봄봄봄
+ * 박귤 - 내 사랑 치킨
+ * 박귤 - 내신망
+ * 박귤 - 대두의 비애
+ * [[박명수]] - 바다의 왕자
+ * [[박상민]] - 해바라기 (작곡자: 박근태) ~~렛잇비 렛잇비 세상의 말 다 지우니 이 말 하나 렛잇비~~
+ * [[백지영]] - 사랑안해 (작곡자: 박근태)
+ * [[버스커 버스커]] - 처음엔 사랑이란게
+ * 브리즈 - 뭐라할까!
+ * [[비스트]] - Shock
+ * [[비스트]] - 내 여자친구를 부탁해 (Say No)
+ * [[비스트]] - 너 때문인걸
+ * [[비스트]] - Beautiful
+ * [[빅뱅]] - 천국
+ * [[빅뱅]] - LOVE SONG
+ * [[빅뱅]] - WHAT IS RIGHT
+ * [[소녀시대]] - 좋은 일만 생각하기(Day by Day)[* 머니코드가 작게나마 들어있다. 변주의 정도는 심하지만...]
+ * [[소녀시대]] - Kissing You
+ * [[시크릿(아이돌)|시크릿]] - 별빛달빛
+ * [[스탠딩 에그]] - 오래된 노래, 그 자리에 있어
+ * [[신지훈]] - 아프고 아프다
+ * [[아이유]] - 좋은날
+ * [[엄정화]] - 숨은 그림 찾기
+ * [[양파]] - 사랑 그게 뭔데
+ * [[에픽하이]]- One (Feat. 지선)
+ * 유성은 - Be OK (Feat. 배치기)
+ * [[인피니트]] - 맡겨
+ * [[인피니트]] - 그 해 여름
+ * [[인피니트]] - Man In Love (남자가 사랑할때)
+ * [[인피니트]] - Amazing
+ * 자전거 탄 풍경 - 너에게 난 나에게 넌
+ * [[체리필터]] - [[낭만고양이]](후렴부분)
+ * [[체리필터]] - 오리날다
+ * [[카라(아이돌)|카라]] -  Pretty Girl
+ * [[헬로비너스]] - 차 마실래?[* 이 쪽은 아예 [카논#s-3.1|파헬벨의 카논]을 반주로 사용한 곡이다.]
+ * [[휘성]] - Night and Day
+ * A1 - Bad Enough
+ * [[Akon]] - Beautiful
+ * All Time Low - Time Bomb
+ * Arianne - [[오라 달콤한 죽음이여]] ([[엔드 오브 에반게리온]] OST)
+ * Avril Lavigne - Everybody Hurts
+ * [[Avicii]] - Wake Me Up
+ * Backstreet Boys - Straight Through My Heart
+ * [[B.A.P]] - COMA
+ * Beyonce - I Was Here
+ * Boys Like Girls - The Great Escape
+ * Busted - Nerdy
+ * [[B1A4]] - 내가 뭐가 돼
+ * Coldplay - The Scientist
+ * Demien Rice - 9 Crimes
+ * Eagle Eye Cherry - Save Tonight
+ * Eternity∞ - Wonderful World
+ * [[EXO]] - 나비소녀 (Don't Go)
+ * [[Flo Rida]] - Whistle
+ * [[G.DRAGON|G-Dragon]] - 삐딱하게
+ * Globus - Europa
+ * [[GO! GO! 선거]]
+ * [[god]] - 길
+ * [[Green Day]] - 21 Guns, Basket Case
+ * Green Day - Holiday
+ * Gym Class Heroes - Stereo Hearts (Feat. Adam Levine)
+ * Henry - Trap
+ * Howie Day - Collide
+ * [wiki:"이디나 멘젤" Idina Menzel] - [[Let It Go(겨울왕국)|Let It Go]] ([[겨울왕국]] OST)
+ * Jason DeRulo - In My Head
+ * [[JYJ]] - 새벽 두시 반
+ * Kenny Chesney - Come Over
+ * Libera - [[상투스|Sanctus]] ~~[[무한재석교]]~~
+ * Linkin Park - Numb
+ * [[마룬5|Maroon 5]] - Never Gonna Leave This Bed
+ * Mat Kearney - Ships in the Night
+ * Matt Palmer - Back in Time
+ * M.I.B - Celebrate (Feat. t윤미래)
+ * M.I.B - Say My Name
+ * M.I.B - 낙화 (落花) (The Falling Flower)
+ * M.I.B - 끄덕여줘!
+ * M.I.B - 나만 힘들게
+ * Michael Bolton - Hope It's Too Late
+ * Michael Jackson - Hold My Hand (Feat. Akon)
+ * Mika - Underwater
+ * [[miss A]] - 남자 없이 잘 살아
+ * [[miwa]] - chAngE
+ * miwa - don't cry anymore
+ * miwa - Jexxxa
+ * [[oasis]] - [[Don't Look Back In Anger]], [[Whatever]]
+ * [[Owl City]] - Deer in the Headlights
+ * Owl City - Hospital Flowers
+ * Owl City - West Coast Friendship
+ * Owl City - Meteor Shower
+ * Owl City - If My Heart Was a House
+ * Owl City - Captains and Cruise Ships
+ * Owl City - Fuzzy Blue Lights
+ * Owl City - Embers
+ * Owl City - Silhouette
+ * Owl City - Hot Air Balloon
+ * Owl City - Lonely Lullaby
+ * Owl City - Vanilla Twilight
+ * [[Pet Shop Boys]] - Go West
+ * Phantom - Burning
+ * Red Hot Chili Peppers - Snow (Hey Oh)
+ * [[레드삭스]] - Sweet Dream
+ * Robbie Nevil - I Gotta Have It
+ * [[SEKAI NO OWARI]] - 青い太陽
+ * Simple Plan - Welcome To My Life
+ * [[SPYAIR]] - Why
+ * SPYAIR - 0 GAME
+ * SPYAIR - My World
+ * SPYAIR - Stay Gold
+ * SPYAIR - Just One Life
+ * SPYAIR - LIAR
+ * SPYAIR - I miss you
+ * SPYAIR - My Friend
+ * SPYAIR - Likn It All
+ * SPYAIR - Last Moment
+ * SPYAIR - STAR
+ * SPYAIR - サムライハート (Samurai Heart) (Some Like It Hot!!)
+ * Sum 41 - Hell Song
+ * Sum 41 - Makes No Difference
+ * Sum 41 - Pieces
+ * Sum 41 - Thanks For Nothing
+ * Sum 41 - With Me
+ * Suzanne Ciani - Turning
+ * [[Sweetbox]] - Life is so cool
+ * Tamaki Hiroshi - SLOW TIME
+ * Take That - Patience
+ * Taylor Swift - Sparks Fly
+ * Taylor Swift - Speak Now
+ * The Calling - Wherever You Will Go
+ * The Lonely Island - I Just Had Sex (Feat. Akon)
+ * The Lonely Island - Jack Sparrow (feat. Michael Bolton)
+ * The Melody - Good bye
+ * The Red Jumpsuit Apparatus - Face Down
+ * Timbaland - Apologize (Feat. One Republic)
+ * Train - Hey, Soul Sister
+ * Tsuji Shion - M/elody
+ * Varsity Fanclub - Babysteps
+ * Varsity Fanclub - Domino
+ * Varsity Fanclub - Let Her Go
+ * Varsity Fanclub - Stung
+ * [[YB]] - 나는 나비
+
+경음악
+
+ * Blazo - Righteous Path
+ * Brian Crain - Song For Sienna
+ * Don Ross & Andy McKee - Rylynn
+ * Eddie - Late Autumn
+ * July (줄라이) - In Love
+ * Valentin - A Little Story
+
+== 캐논 머니코드 이 외 자주 쓰이는 머니코드 ==
+
+다장조 기준 '''F-G-Em-F-F-G-Am-Am''' (IV-V-iii--IV-IV-V-vi-vi) 또한 자주 쓰이는 코드 진행이다. 이 역시도 일반적으로는 더 짧게 '''F-G-Am-Am''' (IV-V-vi-vi) 과 '''F-G-Em-Am''' (IV-V-iii-vi) 으로 사용되며
+
+Am코드를 C코드로 바꾼 '''F-G-Am-C''' ([[델리스파이스]] - [[챠우챠우]], [[Lana Del Rey]] - Young And Beautiful 등)
+
+다양한 바리에이션이 있다.
+
+이 코드 진행은 특히나 [[일본인]]들이 가장 좋아한다. [[뮤직 스테이션]], [[CDTV]] 등에서 명곡 순위를 매길 때 자세히 들어보면 대부분이 이 코드 진행이다.
+
+[[일본]]의 전설적인 밴드 [[사잔 올 스타즈]]의 히트곡 중 하나인 涙のキッス의 훅에서 '''F-G-Em-Am ''' 코드 진행이 대놓고 들어가 있으며 [[마키하라 노리유키]]의 최대 히트곡 どんなときも。에서도 부분적으로 [[모닝구무스메]]의 프로듀서 [[층쿠]] 또한 [[LOVEマシーン]]과 [[恋愛レボリューション21]]에서 이 코드를 사용해 재미를 봤다.
+
+그 밖에도 이 머니코드가 쓰인 노래들은 다음과 같다.
+
+ * [[빅뱅]] - Wonderful
+ * [[빅뱅]] - 거짓말
+ * [[빅뱅]] - 마지막 인사
+ * [[빅뱅]] - 하루하루
+ * [[타블로]] - 고마운 숨
+ * [[2NE1]] - 너 아님 안돼
+ * [[에디 킴]] - 너 사용법
+ * 타이나카 사치 - 最高の片想い
+ * Kreva - 音色
+ * [[이문세]] - 가로수 그늘아래 서면
+ * [[JYJ]] - In Heaven
+ * [[히라이 켄]] - 瞳をとじて (가수 정재욱이 가만히 눈을 감고로 [[리메이크]] 함)
+ * [[TUBE]] - シーズン・イン・ザ・サン (가수 정재욱이 Season In The Sun으로 [[리메이크]] 함)
+ * [[스토니 스컹크]] - LA Story
+ * Rumple-Stilts-Skin - I Need You ([[윤미래]] 검은 행복 샘플 원곡)
+ * [[인피니트]] - 추격자
+ * [[유키스]] - Neverland
+ * [[버스커 버스커]] - 첫사랑
+ * [[버스커 버스커]] - 벚꽃엔딩
+ * [[버스커 버스커]] - 꽃송이가
+ * [[버스커 버스커]] - 그마힘
+ * [[버스커 버스커]] - 정말로 사랑한다면
+ * [[서태지와 아이들]] - 내 모든것
+ * The Stylistics - You Are Everything ([[리쌍]] Rush 샘플 원곡)
+ * The Miracles - I Didn't Realize the Show Was Over ([[에픽하이]] 막을 올리며 샘플 원곡)
+ * [[MC몽|MC 몽]] - 미치겠어
+ * [[유이]] - 쏙쏙쏙
+ * [[자우림]] - 스물다섯, 스물하나
+ * [[이선희]] - 인연
+ * [[장윤정]] - 꽃
+ * [[블랙 아이드 피스|Black Eyed Peas]] - Alive
+ * [[에이핑크]] - LUV
+ * [[걸스데이]] - 한번만 안아줘
+ * [[하마사키 아유미]] - M
+ * [[더 콰이엇]], [[도끼]] - iPhone Girl
+ * [[Skrillex]] - Scary Monsters And Nice Sprites
+ * [[다프트 펑크|Daft Punk]] - Touch
+ * [[Eminem]] - When I'm Gone
+
+경음악
+
+ * [[DJ 오카와리]] - Flower Dance
+
+== 여담 ==
+
+위 곡들 외에도 수많은 곡들이 머니코드를 사용한다. 아마 모두 다 기입하면 이 문서는 끝도 없어 질 것... 머니코드가 아닌노래가 머니코드인 노래보다 찾기 힘들 정도로 머니코드 노래는 정말 많다. 정말 정말 정말 정말 많다. 게다가 아무래도 히트곡 중에 머니코드가 많다보니 [[듣보잡]] 신인그룹의 노래는 거진 반 이상이 머니코드로 만든 노래들이다. 하지만 [[양판소]]마냥 그렇게 머니코드로 막 찍어낸 노래들은 별로 좋지도 않고 오히려 다 그 노래가 그 노래인 것 같다는 느낌만 드는 것이 현실이다.

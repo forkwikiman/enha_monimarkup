@@ -1,0 +1,54 @@
+|| 장르 |||||||| Acid Jazz ||
+|| 곡명 |||||||| White Rose ||
+|| 작곡 |||||||| [[M2U]] ||
+|| 배경 |||||||| AC - S, ON - M.Night ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 128 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 5}}} || {{{#orange 9}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red 15}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/kCEcbV422ko" frameborder="0" allowfullscreen></iframe>
+}}}
+
+EZ2ON BGA.
+
+[[목차]]
+== 개요 ==
+EZ2DJ 7th의 수록곡으로 [[M2U]]가 작곡했다.
+
+가사는 [[Gray Street]], [[Space Destiny]] 와 같이 얼버무린 목소리를 뭉개서 만들었다. [[BGA]]는 [[I've got this feeling]]을 우려먹었다. [[EZ2ON]]에서는 BGA가 새로 나왔는데, 수준높은 작화로 호평을 받는다. 위 영상 참조. 
+
+2.0의 라디오 채널 'IBIS'에서는 베이스 드럼 비트를 더 강화시킨 편곡 버전이 등장하였다. 이 버전은 5라디오의 IBIS 채널에서만 플레이할 수 있다.
+
+[[EZ2DJ AE]]에서는 다른 7th 1.0 출신 곡들과 함께 판권 문제로 삭제되었다.
+== 패턴 ==
+=== 5키 ===
+5키 난이도는 이지 5, 노멀 9, 하드 11. 스트릿 하드 패턴은 4비트 쿵짝쿵짝 페달을 중심으로 피아노 음을 연주하는 채보이다. 간혹 나오는 트릴과 최후반의 계단이 압권이지만 클리어 난이도만 보면 11 중에서는 무난한 수준이다.
+=== 클럽 ===
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/WSDxZsIpw5o" frameborder="0" allowfullscreen></iframe>
+}}}
+
+
+{{{#!HTML
+<http://www.youtube.com/watch?v=8XEafxZwlxg<iframe width="640" height="390"
+<iframe width="420" height="315" src="//www.youtube.com/embed/8XEafxZwlxg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+클럽 믹스에서는 NM11 하드 패턴의 경우 난이도가 15인데...
+NM 패턴은 12중상 급 달리는 불렙이며
+HD 패턴은 15 3대장 패턴중 하나다.
+
+=== 턴테이블 ===
+턴테이블 모드에서는 레벨 7로 등장. 피아노 솔로 부분을 살린 노말 및 하드패턴 기준으로 나왔다면 꽤나 당혹스러웠겠지만, 패턴이 반복성이 짙은 패턴으로 등장하였기 때문에 레벨 7 입문곡이 되어버렸다. 덕분에 플레이 비율도 안습.

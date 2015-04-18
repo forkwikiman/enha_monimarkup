@@ -1,0 +1,17 @@
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/fJ9M8yb69As&hl=ja&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fJ9M8yb69As&hl=ja&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>}}}
+
+샤이닝 보우(シャイニングボウ)는 [[드래곤 퀘스트8]]의 [[쿠쿠루]]의 [[특기]].
+드퀘에서는 지금까지 의외로 한 번도 나오지 않았던 활기술의 절정.
+
+활 스킬을 88P까지 올리면 입수.
+MP소모 10으로 적 전체에게 120 정도의 데미지를 준다. 
+[[텐션]]까지 합치면 꽤 쏠쏠한 데미지.
+
+쿠쿠루가 보유한 전체공격 기술 중에서 [지고스파크]는 MP소모가 너무 높고, [[매혹의 시선]]은 위력이 좀 딸려서 딱 적절한 밸런스를 지녔다.
+
+단 이 기술은 [[이오]] 속성인데 하필 후반에 나오는 적들 대부분은 이오에 [내성]이 있다. 그래서 데미지가 폭삭 주저앉는 경우가 많다. 그래서 매혹의 시선이 더 좋은 거 아니냐는 주장도 일부에서 있다.
+
+이 기술 이후에 배우는 최종기 '니들 샤워'는 그래픽도 거지같고 효과도 거지같은 기술이므로 아까운 스킬 포인트 버리지 말고 활 스킬은 되도록 샤이닝 보우만 얻고 끝내도록 하자.
+
+[[드래곤 퀘스트9]]에서는 활의 비전서 기술로 등장한다. 그런데 8와 달리 입수 시점이 애매하고 다른 강력한 기술이 많아서 별로 쓸 일은 없다.

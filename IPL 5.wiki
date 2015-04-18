@@ -1,0 +1,174 @@
+ * 상위 항목 : [[wiki:"IGN ProLeague#s-4.5" IGN ProLeague]]
+
+[[목차]]
+
+== 개요 ==
+
+ * 총 상금 : $100,000
+ * 리그 기간 : 2012년 11월 29일 ~ 12월 2일
+ * 우승 : [[이동녕]]
+ * 준우승 : [[김동환]]
+ * 3위 : [[최성훈]]
+ * 4위 : [[최지성]]
+ * 특이사항
+
+   시드의 세분화 (전 시즌과 달리 이번엔 각 대회에서의 상위 입상을 위주로 뽑음)
+   GSL과의 협약으로 인해 GSL 시즌 5의 4강과 결승, GSL WorldChampionShip을 같이 함
+   대회 우승, 준우승자에게 [[2012 GSL Grand Final]] 시드
+
+== 참가 선수 ==
+
+=== IPL 4 우승자 시드 ===
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| T || [[한이석]](aLive) || 대한민국 ||
+
+=== IPL TAC 3 시드 ===
+
+|| 종족 || 선수명(ID) || 국적 || 팀 ||
+|| T || [[최병현]](YoDa) || 대한민국 || [[LG-IM]] ||
+|| T || [[염보성]](Sea) || 대한민국 || [[Team Liquid]] ||
+|| P || [[정민수]](Genius) || 대한민국 || [[SlayerS]] ||
+|| T || [[최지성]](Bomber) || 대한민국 || [[StarTale]] ||
+
+[[IPL Team Arena Challenge 3]]에서 상위 성적을 거둔 [[LG-IM]](우승), [[Team Liquid]](준우승), [[SlayerS]](3위), [[StarTale]](4위) 해당 4팀에서 각각 시드를 줄 선수 1명씩을 뽑게 했다. 
+
+=== GSL World ChampionShip 외국 선수[* 나니와, 스테파노 둘은 시드를 받고 나머지 3자리는 투표를 통해 뽑힌 16명의 선수들이 예선을 치러 선정된다.] ===
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| P || [[NaNiWa]] || 스웨덴 ||
+|| Z || [[Stephano]] || 프랑스 ||
+|| T || [[LucifroN]] || 스페인 ||
+|| Z || [[Scarlett]] || 캐나다 ||
+|| Z || [[Nerchio]] || 폴란드 ||
+
+=== GSL World ChampionShip 한국 선수[* GSL 포인트 랭킹 순으로 정렬] ===
+
+|| 종족 || 선수명(ID) || 팀 ||
+|| P || [[박현우]](Squirtle)[* 본래 참가했어야 할 정종현이 손목 부상 치료 때문에 기권하자 6위인 박현우에게 넘어갔다.] || [[StarTale]] ||
+|| Z || [[박수호]](DongRaeGu) || [[wiki:"MVP(프로게임단)" MVP]] ||
+|| Z || [[이승현]](Life) || [[StarTale]] ||
+|| P || [[안상원]](Seed) || [[LG-IM]] ||
+|| P || [[장민철]](MC) || [[SK-Gaming]] ||
+
+=== 예선 진출 ===
+
+==== North American Regional ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| Z || [[김성한]](Sleep) || 대한민국 ||
+
+==== European Regional ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| Z || [[Snute]] || 노르웨이 ||
+
+==== Korean Regional ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| P || [[강초원]](San) || 대한민국 ||
+
+WCG 2012에 이정훈의 이름이 올라있기때문에 같은 날 벌어지는 것으로 일정이 겹친다는 것을 이미 파악한 팬들이 있었다. 이정훈이 IPL5 출전 대신 WCG 출전을 선택, 차순위인 강초원이 참여하게 되었다.
+
+==== Amateur Championship ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| P || [[최재원]](Crank) || 대한민국 ||
+
+==== International Qualifier ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| T || [[최성훈]](Polt) || 대한민국 ||
+|| T || [[윤영서]](TaeJa) || 대한민국 ||
+
+==== Chinese Regional ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| Z || [[XiGua]] || 중국 ||
+
+==== American Satellites  ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| P || [[Perfect]] || 미국 ||
+|| P || [[Axslav]] || 미국 ||
+|| T || [[MajOr]] || 멕시코 ||
+|| T || [[qxc]] || 미국 ||
+|| T || [[TriMaster]] || 미국 ||
+|| Z || [[daisuki]] || 미국 ||
+|| Z || [[Glon]] || 미국 ||
+|| Z || [[김동환]](viOLet) || 대한민국 ||
+|| Z || [[ViBE]] || 미국 ||
+|| Z || [[CatZ]] || 미국 ||
+
+==== European Satellites ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+|| P || [[ToD]] || 프랑스 ||
+|| T || [[DBS]] || 독일 ||
+|| Z || [[Nerchio]] || 폴란드 ||
+
+==== Asian Satellites ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+
+==== International Satellites ====
+
+|| 종족 || 선수명(ID) || 국적 ||
+
+== 대회 사용 맵 ==
+
+ * 안티가 조선소
+ * Sanshorn Mists
+ * 여명
+ * 구름왕국
+ * 대도시
+ * 탈다림 제단
+ * Atlantis Spaceship
+
+== 리그의 진행 ==
+
+메인 토너먼트는 현재 어떻게 진행될지 결정되지 않은 상황
+
+=== North American Regional ===
+
+[[wiki:"IPL 5/North American Regional" 항목 참조]]
+
+=== European Regional ===
+
+[[wiki:"IPL 5/European Regional" 항목 참조]]
+
+=== Korean Regional ===
+
+[[wiki:"IPL 5/Korean Regional" 항목 참조]]
+
+=== Amateur Championship ===
+
+[[wiki:"IPL 5/Amateur Championship" 항목 참조]]
+
+=== International Qualifier ===
+
+[[wiki:"IPL 5/International Qualifier" 항목 참조]]
+
+=== Chinese Regional ===
+
+[[wiki:"IPL 5/Chinese Regional" 항목 참조]]
+
+=== American Satellites ===
+
+[[wiki:"IPL 5/American Satellites" 항목 참조]]
+
+=== European Satellites ===
+
+[[wiki:"IPL 5/European Satellites" 항목 참조]]
+
+=== Asian Satellites ===
+
+[[wiki:"IPL 5/Asian Satellites" 항목 참조]]
+
+=== International Satellites ===
+
+[[wiki:"IPL 5/International Satellites" 항목 참조]]
+
+=== 메인 토너먼트 ===
+
+[[wiki:"IPL 5/메인 토너먼트" 항목 참조]]

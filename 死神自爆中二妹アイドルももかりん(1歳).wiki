@@ -1,0 +1,19 @@
+'''사신 자폭 중2 여동생 아이돌 모모카린 (1살)'''
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/oM0WTgL3K6M?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/oM0WTgL3K6M?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|| 장르명 |||||| 電波METAL[[BR]]전파 메탈 || [[BPM]] |||| 210 ||
+|| 전광판 표기 ||||||||||||||<#454545> '''{{{#FF5A00 DEATH-DESTRUCT-CHUUNI-IMOUTO-IDOL MOMOKARIN-1YEAR OLD}}}''' ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 448}}} || {{{#orange 7}}} || {{{#orange 742}}} || {{{#red 11}}} || {{{#red 1472}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 477}}} || {{{#orange 8}}} || {{{#orange 790}}} || {{{#red 11}}} || {{{#red 1413}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 21 SPADA
+
+[[beatmania IIDX 21 SPADA]]의 수록곡이다. Qprogue DX의 해금곡.
+
+[[이오시스]]의 멤버인 ARM 작곡. 보컬은 [[突撃！ガラスのニーソ姫！]]의 보컬이기도 한 야마모토 모미지. 중간중간 내지르는 듯한 목소리는 [[Distorted Floor]]의 보컬이기도 한 DD"ナカタ"Metal. 그 외 남성 목소리는 ARM.

@@ -1,0 +1,59 @@
+'''진심LOVE2000%'''
+
+[[목차]]
+
+== 개요 ==
+attachment:/majilove2000.jpg
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/k8fJHJd66c4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+애니메이션 [[wiki:"노래의☆왕자님♪" 노래의☆왕자님♪ 진짜 LOVE 2000%]]의 엔딩곡.
+[[wiki:"マジLOVE1000%" 전작]]에 비해 더 화려해지고 ~~더 오글해지고~~ 여러가지로 더 강화되었다.
+
+== [[BEMANI 시리즈]]에 수록 ==
+[[팝픈뮤직]], [[유비트 시리즈]], [[댄스 에볼루션]]에 원곡으로 수록되었다.
+
+=== [[팝픈뮤직]] ===
+{{{#!HTML
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm21265565?w=640&h=360"></script><noscript><a href="http://www.nicovideo.jp/watch/sm21265565">【ポップンSP】マジLOVE2000% EX</a></noscript>
+}}}
+
+|| 출전 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music [[BR]]Sunny Park || マジLOVE2000% || ST☆RISH || ice[[BR]][[wiki:"아이스(팝픈뮤직)" 아이스]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 144 || 50단계 || {{{#blue 4(4버튼)}}} || {{{#green 21}}} || {{{#orange 30}}} || {{{#red 38}}} ||
+|||| 노트수 || {{{#blue 130}}} || {{{#green 271}}} || {{{#orange 538}}} || {{{#red 870}}} ||
+
+=== [[유비트 시리즈]] ===
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>9||
+||<#ffffff><:>노트수||<:>192||<:>413||<:>473||
+||<#ffffff><:>BPM||||||<:>129||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2013/8/1 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/q8nROrrO3JE" frameborder="0" allowfullscreen></iframe>
+}}}
+익스트림 EXC 영상
+
+マジLOVE1000%가 숫자놀이(...)를 했다면 이번에는 문자놀이를 한다. ST☆RISH 부분에서 문자가 뜨며 첫플에 놀라서 뜬금포 간접미스 나기쉽다. 그러니 살살쳐주자. 그리고 マジLOVE1000%때보다 더 강화된 채보로 돌아왔다. ~~강화되어도 9는 안되는게 함정. 랜덤매칭에 이곡이 나와도 함정.~~
+
+[[From Noon Till Dawn feat.Tabu Zombie & Kunikazu Tanaka]]보다 노트 수가 24개 더 적어져 현재 레벨9 중에서 가장 노트수가 적은 곡이 되었다. --곧 [[Shine On Me]] 노트수 절반 찍겠다--
+
+=== [[댄스 에볼루션]] ===
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/cUlC_71i_qM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 에볼루션]] 난이도 체계 ||
+|| BPM || 난이도 |||||||| 노트수 || 소비 칼로리 ||
+||<|2> 141 ||<|2> 3 || {{{#green LIGHT}}} || {{{#blue STANDARD}}} || {{{#red EXTREME}}} || {{{#orange MASTER}}} ||<|2> 9.90kcal ||
+|| {{{#green 44}}} || {{{#blue 63}}} || {{{#red 93}}} || {{{#orange 125}}} ||
+
+2013년 10월 10일 업데이트로 수록되었다.

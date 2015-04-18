@@ -1,0 +1,100 @@
+[[include(틀:워크래프트 3/휴먼 얼라이언스)]]
+
+ * 상위 항목 : [[워크래프트 3/종족, 유닛, 건물]]
+
+http://classic.battle.net/war3/images/human/buildings/arcanevault.gif
+건설비용 : 금 130 나무 30
+건설시간 : 60초
+체력 : 485 (석공술 풀업시 776)
+아머 : 건물(5)
+기능 : 아이템 판매
+
+[[목차]]
+= 개요 =
+Arcane Vault. [[워크래프트 3]]에서 인벤토리를 가진 유닛이라면 누구든지 아이템을 구입할 수 있는 [[휴먼 얼라이언스|휴먼]] 전용 상점. 판매되는 아이템은 [[마을 회관#s-5|타운 홀]]의 업그레이드 상태(타운 홀, 킵, 캐슬) 및 보유한 건물에 따라 달라진다. 영웅의 경우, 필요 없는 아이템을 아무 상점에나 팔 수 있다.
+
+특이한 점은 적진에 건설할 때가 다른 종족보다 압도적으로 많다는 것이다. 다른 종족들은 본진에서 좀 떨어진 곳에 전진해서 짓는 정도. 주로 초반 타이밍러시를 할때 짓는다. ~~이게 다 타워 러쉬 때문이다~~[http://kr.gomtv.net/bygomtv/vod/11366 2경기 11분 30초부터][* http://www.gomtv.net/gwi/vod/825 영어버전][http://tvpot.daum.net/clip/ClipView.do?clipid=47206664&rtes=y&startDuration=465.68 #][* http://www.youtube.com/watch?feature=player_detailpage&v=oWAOHQWmNGE#t=381s 영어버전][http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11374848&nTitleNo=3527344&nRowNum=15&szSkin=&nPageNo=1 ##][https://www.youtube.com/watch?feature=player_detailpage&v=k20QSUJjmZc#t=389s ###][http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&lu=v_my#playlistid=2469489&clipid=41580595 ####][http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&playlistid=2860186#playlistid=2860186&clipid=47164080 #####] [http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11703217&nTitleNo=3711112&nRowNum=15&szSkin=&nPageNo=1 6] [http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&clipid=26374670 7]
+다른 종족은 하나만 짓는 종족상점을 두개 짓는 경우도 있다. [http://www.youtube.com/watch?feature=player_detailpage&v=B9APnYqSA40#t=3428s # youtube][http://www.youtube.com/watch?v=50ffB-Azbjk&list=PLAGmKpF5L3HfN-C4C70EFsS1Q3KFf8G8N&feature=player_detailpage#t=1097s ##]
+혼합된(…) 경우[http://www.youtube.com/watch?feature=player_embedded&v=N5L7-dy_wfs#t=411s #] [https://www.youtube.com/watch?v=c-TCI2JNMgI 2] [http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&playlistid=1445598&clipid=27173216 3] [http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11703217&nTitleNo=3711119&nRowNum=15&szSkin=&nPageNo=1 4]
+
+
+= 타운 홀일 때 구매 가능한 아이템 목록 =
+http://classic.battle.net/war3/images/items/scrollofregenerationgreen.gif
+ * 재생 스크롤
+영웅 주위에 있는 모든 아군 생체유닛이 HP가 45초동안 225까지 회복된다. 이 아이템이 사용되는 중에 어떠한 공격, 스펠에 의해 데미지를 입게 되면 이 능력은 취소된다. 그러므로 전장에서 떨어진 곳에서 이 아이템을 사용하는 것이 좋다.
+오크가 한 명씩 많은 체력을 치료하는 [[힐링 샐브]]를 가졌다면 휴먼은 적은 체력을 인원에 상관없이 치료하는 재생 스크롤을 가졌다. 다수의 빨피의 [[풋맨(워크래프트)|풋맨]]들 사이에서 이 템을 사용하면 왠지 모르는 만족감이 든다? [http://tvpot.daum.net/clip/ClipView.do?clipid=39144608&rtes=y&startDuration=529.41 제플린에 태우고 쉬면 만족감 두배 일지도?]
+비용 : 금 100
+재충전시간 : 90초
+구매 가능 수량 : 2개
+
+http://classic.battle.net/war3/images/items/mechanicalcritter.gif
+ * 기계 크리터
+적을 정찰할 수 있는 크리터(중립 동물)를 만든다. 이 크리터는 플레이어의 컨트롤이 가능하다.
+이상하게 막 컨트롤 하지 않는 이상 상대도 눈치채기 어렵다. 크리터가 없는 맵이라면 바로 알아차리겠지만…
+비용 : 금 50
+재충전시간 : 60초
+구매 가능 수량 : 2개
+
+http://classic.battle.net/war3/images/items/lesserclaritypotion.gif
+ * [[클래러티 포션]]
+선택한 유닛을 30초동안 100까지의 MP를 회복시킨다. 이 포션이 사용되는 중에 어떠한 공격, 스펠에 의해 데미지를 입게 되면 이 능력은 취소된다. 그러므로 전장에서 떨어진 곳에서 이 아이템을 사용하는 것이 좋다.
+선영웅이 [[아크메이지(워크래프트 3)|아메]]라면 쓸 일이 거의 없겠지만 마나가 너무 바닥이고 아메가 잘 크지 못했다면 많이 사용하게 될 아이템. 유일하게 [[툼 오브 렐릭스|언데드 상점]]에만 없는 아이템이기도 하다. 안습의 [[야언좆]]…
+비용 : 금 70
+재충전시간 : 30초 
+구매 가능 수량 : 2개
+
+
+= 킵일 때 구매 가능한 아이템 목록 =
+http://classic.battle.net/war3/images/items/healing.gif
+ * 힐링 포션 
+사용시 HP 250 을 회복시켜준다.
+비용 : 금 150
+재충전시간 : 120초
+구매 가능 수량 : 3개
+
+http://classic.battle.net/war3/images/items/mana.gif
+ * 마나 포션
+사용시 MP 150 을 회복시켜준다.
+비용 : 금 200
+재충전시간 : 120초
+구매 가능 수량 : 3개
+
+http://classic.battle.net/war3/images/items/townportal.gif
+ * 타운 포탈 스크롤
+영웅과 근처의 대군을 원하는 아군 타운 홀로 순간이동 시킨다.
+비용 : 금 350
+재충전시간 : 120초
+구매 가능 수량 : 2개
+
+http://classic.battle.net/war3/images/items/ivorytower.gif
+ * 아이버리 타워
+지정한 위치에 스카우트 타워를 만든다. 이 아이템 덕에 휴먼이 타워종족이라는 말이 붙었을지도 모른다. 딱 킵이 완성되고 나면 3개가 생기는데 가격도 [[피전트]]가 직접 짓는것과 똑같아서 이걸로 타워짓고 [[밀리샤]]로 땡깡부리다가 변신이 풀리면 수리신공 들어가면 타워링 당하는 입장에서는 피토할 수밖에… 건설속도도 상당히 빠르다. 그나마 1.25 패치로 비용이 금 30 나무 20 에서 금 40 나무 20 으로 늘어났다. 겨우 10골드 가지고…[* 어차피 10골드 증가 이외에 석공술 너프 등으로 타워의 맷집이 약화되기도 했다.]
+
+가끔 이걸로 엠신공을 하거나 엠신공을 빠져나가는 명장면이 나오기도 한다. ~~[[스타크래프트 2|스2]]의 [[파수기|역장]]처럼 쓸 수 있을지도...?~~~~[http://www.youtube.com/watch?feature=player_detailpage&v=8WPE3ePA3tg#t=947s 진짜][http://www.youtube.com/watch?feature=player_detailpage&v=OvV77-uO0pA&t=642 쓴다][* http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11396770&nTitleNo=3587358&nRowNum=15&szSkin=&nPageNo=1 10분 40초 부터]~~
+그리고 매직 센트리업을 하면 스카웃타워에 투명유닛이 감지되는걸 이용해 더스트 오브 어피어런스를 쓰듯이 쓰기도 한다.[http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11374848&nTitleNo=3621307&nRowNum=15&szSkin=&nPageNo=1 #][* http://www.youtube.com/watch?v=68148Ln2iMc 러시아어]
+
+비용 : 금 40 나무 20
+재충전시간 : 30초
+구매 가능 수량 : 3개
+
+
+= 캐슬일 때 구매 가능한 아이템 목록 =
+http://classic.battle.net/war3/images/items/orboffire.gif
+ * [[파이어 오브]]
+영웅의 공격에 추가 데미지 5를 준다. 또한 영웅의 공격이 더욱 격렬해지며 반경 10의 근처 적군 유닛에게 스플래시 데미지를 준다.
+4종족 상점의 오브 중 제일 쓰레기라는 평을 듣는데, 프로즌 쓰론 초창기에는 다른 오브들과 똑같은 400골드였다. 가격이 내려가긴 했지만 그럼에도 불구하고 쓰는 사람은 보기 힘들다. 그만큼 쓰레기.[* [[오크 호드|오크]]의 [[라이트닝 오브]]는 퍼지 효과 및 디스펠 효과, [[언데드 스콜지|언데드]]의 [[커럽션 오브]]는 방어력 감소, [[나이트 엘프 센티널|나이트 엘프]]의 [[베놈 오브]]는 독 데미지로 지속적인 체력 감소라는 장점들이 있지만 이쪽은 미미한 스플래시가 전부. 게다가 빠른 공속을 통한 안정적인 딜링이 가능한 영웅도 없어서 더더욱 활용성이 잉여.]
+비용 : 금 275
+재충전시간 : 120초
+구매 가능 수량 : 1개
+
+http://classic.battle.net/war3/images/items/staffofsanctuary.gif
+ * 생추어리 스태프 
+선택한 유닛을 타운홀의 가장 높은 레벨로 순간이동 시킨 후, 스턴 상태에서 체력이 완전히 치료가 될 때까지 초당 10 HP씩 회복시킨다.
+나엘에 보존스태프가 있다면 휴먼에겐 생추어리 스태프가 있다. 하지만 최악의 단점이 있었으니 보존스태프는 체력에 관계없이 사용해도 움직일 수 있으나 생추어리 스태프는 스턴상태라서 조작 불능… 그래서 좀 답답하게 느껴지기도 한다. (그런데 사실 나엘은 문 웰이 있어서 보존스태프으로 날리고 문웰로 바로 피 채우고 싸우는게 가능하기 때문에, 보존스테프의 성능이 더 좋아 보인다.) 따라서 본진까지 밀린 상태에서 체력없는 영웅에게 썼더니 스턴돼서 누워버리더라…[* 프리스트의 디스펠을 사용하면 스턴이 풀리지만 체력 회복 효과도 같이 풀린다.] 본진과 떨어진 곳에서 교전을 하면 효과를 볼 수 있다. 
+비용 : 금 250
+재충전시간 : 120초
+구매 가능 수량 : 1개
+
+= 기타 =
+http://img2.wikia.nocookie.net/__cb20080801214609/wowwiki/images/7/7e/Arcane_Prison.jpg
+[[월드 오브 워크래프트]] [[리치왕의 분노]]에서 [[노스렌드]]([[북풍의 땅]])의 감옥 형태 중 하나로 등장. 

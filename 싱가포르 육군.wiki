@@ -1,0 +1,75 @@
+ * 상위 항목: [싱가포르군], [육군]
+
+http://upload.wikimedia.org/wikipedia/en/a/aa/Crest_of_the_Singapore_Armed_Forces.png
+http://upload.wikimedia.org/wikipedia/en/thumb/2/26/Singapore_Army_service_flag.svg/640px-Singapore_Army_service_flag.svg.png
+
+http://i.imgur.com/0rJD2Es.jpg
+http://i.imgur.com/JS5ySxC.jpg
+
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<iframe width="853" height="480" src="//www.youtube.com/embed/CwLPYYgQJmw" frameborder="0" allowfullscreen></iframe>}}}
+||Mobile Column during NDP 2010 Preview||
+
+싱가포르 육군의 특성상 국토에서의 훈련이 매우 제한되기 때문에 주로 호주나 미국에서의 훈련장을 임대하여 육군의 대대급 이상의 전술훈련을 한다고한다. 아파치의 IDM과 지상군간의 NCW전을 구현하는 역할을 한것도 싱가포르 육군이 시험할정도로 C4I를 중시하고 발전시키고있는 군대이기도 하다.
+== 총 전력 ==
+=== 전차 ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Upgraded_Leopard_2A4_SG_NDP_2010.JPG/640px-Upgraded_Leopard_2A4_SG_NDP_2010.JPG
+
+|||||||||||| 싱가포르 육군의 전차 ||  
+|| 이름 || 종류 || 제조국 || 운용 수량 || 추가 도입 || 기타 ||
+||[[레오파르트2]]ASG ||[[MBT]] ||[[독일]] ||132 || || ||
+
+=== 장갑차 ===
+==== [IFV] ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bionix_AFV_1.jpg/640px-Bionix_AFV_1.jpg
+
+|||||||||||| 싱가포르 육군의 IFV ||
+|| 이름 || 종류 || 제조국 || 보유수량 || 주문 || 기타 ||
+||[[바이오닉스]] II ||[[IFV]] ||[[싱가포르]] ||200 || || ||
+||[[바이오닉스]] 25 ||[[IFV]] ||[[싱가포르]] ||200 || || ||
+||[[바이오닉스]] 40/50 ||[[IFV]] ||[[싱가포르]] ||300 || || ||
+||[[테렉스 AV-81]] ||[[ICV]] ||[[싱가포르]] ||135 || || ||
+
+==== [APC], [장륜 장갑차] ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cadillac_Gage_V-150_do_Ex%C3%A9rcito_portugu%C3%AAs.jpg/640px-Cadillac_Gage_V-150_do_Ex%C3%A9rcito_portugu%C3%AAs.jpg
+|| [포르투갈군]의 캐딜락 게이지 V-150 : 90 mm 포탑형 (V-400) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cadillac_Gage_Commando.JPEG/640px-Cadillac_Gage_Commando.JPEG
+|| [미군]의 캐딜락 게이지 V-100 ||
+
+|||||||||||| 싱가포르 육군의 APC, 장륜 장갑차 ||
+|| 이름 || 종류 || 제조국 || 보유수량 || 주문 || 기타 ||
+||[[M113]]A2 ULTRA 40/50 ||[[APC]] ||[[미국]] ||950 || || ||
+||[[M113]]A2 ULTRA OWS ||[[APC]] ||[[미국]] ||50 || || ||
+||[[캐딜락 게이지]] V-100 ||[[장륜 장갑차]] ||[[미국]] ||30 || || ||
+||[[캐딜락 게이지]] V-150 ||[[장륜 장갑차]] ||[[미국]] ||40 || || ||
+||[[캐딜락 게이지]] V-200 ||[[장륜 장갑차]] ||[[미국]] ||200 || || ||
+||[[인터네셔널 맥스프로]] Dash [MRAP] ||[[장륜 장갑차]], [MRAP] ||[남아프리카공화국]/[[미국]]/[이스라엘] ||15 || || ||
+=== [포병] ===
+http://upload.wikimedia.org/wikipedia/commons/d/db/SSPH1_PRIMUS.jpg
+|| 싱가포르가 자체 개발한 SSPH-1(SSPH 프리머스) 자주포 ||
+
+|||||||||||| 싱가포르 육군의 포병 병기 ||
+|| 이름 || 종류 || 제조국 || 보유수량 || 주문 || 기타 ||
+||[HIMARS][* http://en.wikipedia.org/wiki/HIMARS] ||[[MLRS]] ||[[미국]] ||18 || ||총 246 로켓 ||
+||81 mm ||[[박격포]] || ||? || || ||
+||Soltam M-65 120 mm ||견인 [[박격포]] || ||50 || || ||
+||Soltam M-66 160 mm ||견인 [[박격포]] || ||12 || || ||
+||25 pounder Mk II ||[[곡사포]] || ||12 || || ||
+||Soltam M-68 155mm/L33 ||견인 [[곡사포]] || ||45 || || ||
+||Soltam M-71S 155mm/L39 ||견인 [[곡사포]] || ||38 || || ||
+||[M-114]A1 155mm ||견인 [[곡사포]] || ||16 || || ||
+||[FH-2000] 155mm/L52 ||견인 [[곡사포]] || ||72 || || ||
+||GIAT LG1 105mm/L30 ||견인 [[곡사포]] || ||37 || || ||
+||[SSPH 프리머스] 155mm/L3(SSPH-1) ||[[자주포]] ||[싱가포르] ||48 || || ||
+||[SLWH 페가수스] 155mm/L39 ||헬기 이동 경량급 [[곡사포]] || ||54 || || ||
+||AN/TPQ-36 ||[대포병 레이더] || ||4 || || ||
+||AN/TPQ-37 ||[대포병 레이더] || ||3 || || ||
+||ARTHUR ||[대포병 레이더] || ||3 || || ||
+== 관련 항목 ==
+ * [무기 관련 정보]
+ * [동남아시아]
+ * [동남아시아/군사]

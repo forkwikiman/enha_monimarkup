@@ -1,0 +1,28 @@
+{{{+1 南小樽駅 / Minami Otaru Station }}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Minami-otaru_station01.jpg/600px-Minami-otaru_station01.jpg
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Minami-Otaru_Station_platform.jpg/600px-Minami-Otaru_Station_platform.jpg
+
+||||||||||<#ed1c23> {{{#ffffff 하코다테 본선}}} ||<#2cb431><|6>{{{#ffffff 운영주체 : 홋카이도 여객철도}}}[[br]]{{{#ffffff 개업일 : 1880년 11월 11일}}} ||
+||<width=100px> [wiki:"하코다테역" 하코다테] 방면[[br]][wiki:"오타루역" 오타루][[br]](S-15) || {{{+1 ← }}} ||<width=100px> 미나미오타루[[br]](S-14) || {{{+1 → }}} ||<width=100px> [wiki:"아사히카와역" 아사히카와] 방면[[br]][wiki:"오타루 축항역" 오타루 축항][[br]](S-13) ||
+
+일본 [[홋카이도]] [[오타루]]시에 위치한 [[JR 홋카이도]] [[하코다테 본선]]의 역이다. 섬식 승강장의 반지하역이다. 업무위탁역으로 홋카이도 JR 서비스넷에서 역무를 맡고 있다.
+
+역 주변은 시가지 및 주택가로 번영했던 무역항의 흔적을 많이 찾아볼 수 있다. 금융기관, 오래된 제과점 등이 많은 편이다.
+
+오타루 시내 관광시 미나미오타루역에서 내려서 도보로 접근 하는 쪽이 편할 수 있다. 
+
+'''완급결합'''
+||||||<#ffffff> {{{#000000 홈라이너}}}
+||<width=100px> [wiki:"오타루역" 오타루] || {{{+1  ← }}} ||<width=100px> 미나미오타루 || {{{+1  → }}} ||<width=100px> [wiki:"오타루 축항역" 오타루 축항] ||
+||||||<#ff0000> {{{#ffffff 니 세 코}}}
+||<width=100px> [wiki:"오타루역" 오타루] || {{{+1  ← }}} ||<width=100px> 미나미오타루 || {{{+1  → }}} ||<width=100px> [wiki:"오타루 축항역" 오타루 축항] ||
+||||||<#ff0000> {{{#ffffff 에어포트}}}
+||<width=100px> [wiki:"오타루역" 오타루] || {{{+1  ← }}} ||<width=100px> 미나미오타루 || {{{+1  → }}} ||<width=100px> [wiki:"오타루 축항역" 오타루 축항] ||
+||||||<#ffa500> {{{#ffffff 이시카리}}}
+||<width=100px> [wiki:"오타루역" 오타루] || {{{+1  ← }}} ||<width=100px> 미나미오타루 || {{{+1  → }}} ||<width=100px> [wiki:"오타루 축항역" 오타루 축항] ||
+||||||<#000000> {{{#ffffff 보　　통}}}
+||<width=100px> [wiki:"오타루역" 오타루] || {{{+1  ← }}} ||<width=100px> 미나미오타루 || {{{+1  → }}} ||<width=100px> [wiki:"오타루 축항역" 오타루 축항] ||
+
+[[각주]]

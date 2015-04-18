@@ -1,0 +1,41 @@
+ * 동명의 노래를 찾는다면 [New World] 항목으로
+ * 철권의 배틀팀을 찾는다면 [new world] 항목으로
+
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 작곡 || ["Mr.Funky" Flash Finger] ||
+|| 랩 || [[Mike Blunck]] ||
+|| 장르 || DnB ||
+|| [[BPM]] || 176[* 정확한 BPM은 알려지지 않았지만, 같은 작곡가의 동일 DnB 곡인 [[Out of CTRL]]과 같이 들어보면 속도가 아예 같은 걸 알 수 있다.] ||
+|| 일러스트 || cho2e ||
+
+{{{#!HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/TkSUi6PdhwM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+S4리그 풀버전 OST
+
+{{{#!HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/wulMYQgLzc4?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+컷팅버전 OST
+
+[[Mr.Funky]]가 자신의 또 다른 명의인 [[Flash Finger]]로 발표한 곡이다. 원제는 New World ~World Cup Mix~이다. [[Out of CTRL]]과 같은 DnB 장르이며 일부 샘플링도 공유하고 있다. 랩은 Mike Blunck가 했으며([[SuperSonic]], [[Nova ~Mr.Funky Remix~]]에서의 음성을 일부 차용했다) 동시에 많은 음성 샘플링도 사용되어서 북적거리는 느낌을 주고 있다. [[S4리그]]의 하이퍼리움 맵의 BGM으로 쓰인 것이 이 곡의 첫 등장으로 탭소닉 업데이트 예정 곡중 하나였기에 언젠가 DJMAX 시리즈에 수록될 것이라는 예측이 있었다. 결국 [[DJMAX RAY]]의 2013년 첫 업데이트 때 수록 되었다.
+
+=== [[DJMAX RAY]] ===
+
+|||||||||| [DJMAX RAY]의 RemiXounD팩 수록곡 ||
+|| [[wiki:"Luv Flow" Luv Flow ~Funky House Mix~]] || [[wiki:"Yo Creo Que Si" Yo Creo Que Si Remix]] || [[wiki:"Desperado" Desperado ~Nu Skool Mix~]] || [[wiki:"For Seasons" For Seasons ~Air Guitar Mix~]] || '''New World''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 ||
+||<#0000FF> {{{#white HD}}} || 6 ||
+||<#FF0000> MX || 8 ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/4ZXAs5L7yeo" frameborder="0" allowfullscreen></iframe>
+}}}
+6L MX 플레이
+
+RemiXounD팩의 히든곡으로 출현한다. 
+하지만 아쉽게도 위 영상에서 확인 할 수 있듯 컷팅판의 음원을 사용한다.길어서 잘랐다 라고 하기에는 이곡보다 훨씬 더 긴 [[wiki:"For Seasons" 포시즌스 에어기타믹스]]가 같은 뮤직팩에 컷팅되지 않고 나온걸 보면 아무래도 [[wiki:"Desperado" 데스페라도 리믹스]]의 경우처럼 음원소스가 없어서가 아닌가싶다.[https://twitter.com/xeronion/status/299695559323811840 #] 이 곡의 MX 패턴은 "이게 어떻게 8레벨이야"라는 말이 나올 정도로 엄청난 폭타를 자랑한다. 거의 9레벨 수준.

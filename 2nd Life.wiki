@@ -1,0 +1,52 @@
+ * 온라인 [[가상현실]] 아바타 프로그램을 찾아오신 분은 [[세컨드 라이프]]로.
+
+[[목차]]
+|| 장르 |||||||| Soundtrack ||
+|| 곡명 |||||||| 2nd Life ||
+|| 작곡 |||||||| [[yak_won]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 타이틀 |||||||| 미상(2.0~EC)[[br]][[FOX-B]](EV~) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 2.0]] ||
+|| BPM |||||||| 130 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+== 개요 ==
+7th 2.0에서 추가된 How to Play 배경 음악. 이후 해금 커맨드를 통해 플레이할 수 있는 곡으로 나왔다. 잔잔한 느낌의 곡으로 피아노와 기타가 주가 된 곡이다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+이 곡이 유명한 건 곡 자체라기보다는 [[사기 난이도]]에 있었다.
+
+CV에서 스트릿 믹스에 해금되었다. 노멀은 CV에서 새로 만든 패턴으로 난이도 5, 하드는 znpfg 채널로 난이도 8로 책정되었다. 문제는 하드는 난이도 8을 플레이하는 유저가 절대 클리어할 수 없는 지옥같은 [[사기 난이도]]였다는 점. 사실 난이도 8은 커녕, 난이도 10을 파는 유저라고 해도 죽기 십상이었다. 특히 중간에 나오는 ~~정신나간~~[[Dreamy Flight]]를 연상시키는 스크 폭타가 압권이었다. 오히려 실제 난이도가 9정도 되는 5키 라디오 ~~신정환~~Programmer sjhdeux 채널의 패턴이 차라리 8로 책정되어야 할 정도였다.
+
+사실 이 곡 말고도 7th 1.5와 2.0의 신곡/신패턴은 대체적으로 실제 난이도에 비해 표기 난이도가 지나치게 낮았다. 특히 구곡 추가 패턴은 상황이 심각해서 [[Let it go(EZ2DJ)|Let It Go]] 하드, [[Back to Bed]] 슈하가 11이었고 지금은 패턴이 바뀌었지만 [[The Boy ~Here comes my baby~|The Boy]] 하드가 10, [[Memories(EZ2DJ)|Memories]] 슈하가 9, [[In a Nutshell]] 하드가 7, [[Sentimental No! No!]] 하드와 [[Jam]] 하드가 6 등 대다수 유저가 납득하기 어려운 난이도 책정이 이루어졌다. 이런 성향은 중저렙으로 갈수록 더 심해서 수많은 중수들을 울렸다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/7Ndk4DXHbEo?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/7Ndk4DXHbEo?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM & HD MIX(EC)
+
+결국 BE에서 하드패턴의 난이도는 11로 올라갔다. ~~[[Lucid]] 노멀하고 자리바꿈~~ 그리고 EC에서 패턴이 바뀌었는데 문제의 스크폭타가 건반 트릴로 대체되었다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/HXbbjgccLXk" frameborder="0" allowfullscreen></iframe>}}}
+클럽믹스 NM패턴이다. 중반부의 반복누르기 구간을 잘 넘기면 무난히 클리어 할 수 있다.
+=== 14K MANIAC ===
+[[EZ2DJ/Space Mix|스페이스 믹스]]에서는 [[EZ2AC : ENDLESS CIRCULATION]] 이전까지는 7레벨의 패턴이었다가 버전이 바뀌면서 9레벨로 올라가고, 패턴이 변경되었다. 롱노트를 잘 잡는다면 9레벨치고 쉬운 편이지만 스페이스 믹스 특유의 얇은 서바이벌 게이지때문에 하나라도 놓쳐버리면 순식간에 훅가는 패턴.
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+[[각주]]

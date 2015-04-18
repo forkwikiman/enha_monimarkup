@@ -1,0 +1,67 @@
+[[목차]]
+
+= --The Ocean-- =
+
+= --Nrrowsea-- =
+attachment:네이비필드2/맵/Nrrowsea.jpg
+4 vs 4 전용 맵
+
+= --Decalcomania-- =
+attachment:네이비필드2/맵/Decalcomania.jpg
+4 vs 4 전용 맵
+
+= 4 Death =
+attachment:네이비필드2/4Death.jpg
+
+= Archipelago-A =
+attachment:네이비필드2/Archipelago-A_Map.jpg
+중규모(12 vs 12)와 대규모(16 vs 16) 전용 맵
+
+= New Ocean (M) =
+attachment:네이비필드2/NewOcean(M).jpg
+
+= New Ocean (L) =
+attachment:네이비필드2/NewOcean(L).jpg
+
+= --Siege-- =
+
+= Letter X =
+attachment:네이비필드2/LetterX.jpg
+중규모(12 vs 12)와 대규모(16 vs 16) 전용 맵
+
+= Denmark Strait (S) =
+|| 9월 24일 이전 || attachment:네이비필드2/DenmarkStrait(S).jpg ||
+|| 9월 24일 이후 || attachment:네이비필드2/DenmarkStrait(S).png ||
+소규모(8 vs 8) 전용맵이다.
+
+12시 지역의 섬과 맵 가장자리 사이를 이용해 11시 지역으로 갈 수 있는 꼼수가 있었다.
+이로 인해 문제가 붉어지자 2014년 9월 24일 패치로 지형을 맵을 변경하였다.
+
+5시 방향의 섬에 있는 거점은 모두 레이더 기지다.
+= Denmark Strait (L) =
+attachment:네이비필드2/DenmarkStrait(L).jpg
+중규모(12 vs 12)와 대규모(16 vs 16) 전용 맵
+
+= Hunter =
+attachment:네이비필드2/Hunter.jpg
+중규모(12 vs 12)와 대규모(16 vs 16) 전용 맵
+
+2014년 8월 27일 패치로 추가되었다.
+
+= Summoner's Strait (소환사의 해협) =
+http://rigvedawiki.net/r1/wiki.php/%EB%84%A4%EC%9D%B4%EB%B9%84%ED%95%84%EB%93%9C2/%EB%A7%B5?action=download&value=Summoner%27sStrait_Temp.png
+##attachment:네이비필드2/맵/SummonersStrait_Temp.png
+2014년 9월 24일 패치로 추가되었다. 
+
+이름도 그렇고 구조도 그렇고 도타류 게임의 협곡 맵을 구현한 것이다.
+하지만 시작 후 약 30초 이후 게임이 정지되는 버그가 발생하여, 당일 긴급 패치로 사용이 중지되는 일이 벌어졌다.
+
+= Rathole (쥐구멍) =
+attachment:네이비필드2/맵/Rathole.png
+
+2014년 9월 24일 패치로 추가되었다.
+
+대각선형의 소규모 맵으로 거점은 레이더와 공항으로 각각 2개가 존재하는데 각진영 스폰 장소 바로 앞에 있기때문에 아무런 제지를 받지 않고 거점을 확보할 수 있다.
+상대 본진으로 갈 수 있는 경로가 3곳이나 되어 다양한 전략이 나올 수 있을 것 같기는 한데 현실은 거의 기방 모드로 일관하고 있다. 거점에 전함이 자리를 잡으면 중간 해협의 1/2지점까지 타격이 가능하고 좁기때문에 어뢰만 쿨타임마다 깔아도 통행불가. 양쪽 해협은 진입혹은 돌파가 어려운 곳이라서 어설픈 숫자로 돌입하다가는 기방하는 적 전함들에게 난타당하고 침몰당하기 딱 좋다보니 스폰 지역에서 개돌해오기를 기다려 승리하는 전법이 많이 보인다. 항모가 다수라면 좋은 항모전이 되겠지만 항모수가 부족한 편이라 그런것도 없는 편.  
+
+문제점으로는 구축함 등의 고기동 함선이 지형을 이용해 무승부 유도가 쉽다.

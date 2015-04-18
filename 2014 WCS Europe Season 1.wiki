@@ -1,0 +1,380 @@
+ * 상위항목: [스타크래프트 2/대회], [세계 챔피언십 시리즈]
+
+[[목차]]
+= 개요 =
+||<tablealign=center><-6> '''세계 챔피언십 시리즈''' ||
+|| '''유럽''' ||<|3> [[2013 WCS Global Finals]] || → || '''2014 WCS Europe Season 1''' || → || [[2014 WCS Europe Season 2]] ||
+|| 한국 || → || [[2014 WCS Korea Season 1]] || → || [[2014 WCS Korea Season 2]] ||
+|| 북미 || → || [[2014 WCS America Season 1]] || → || [[2014 WCS America Season 2]] ||
+ * 주최: [[블리자드 엔터테인먼트]], [[Electronic Sports League]]
+ * 주관: [[Electronic Sports League]]
+ * 리그 기간: 1월 21일 ~ 4월 13일
+ * 사용 맵
+  * [알터짐 요새]
+  * 다이달로스 요충지
+  * ["프로스트#s-5"프로스트]
+  * 해비테이션 스테이션
+  * 헤비 레인
+  * [폴라 나이트]
+  * ["연수#s-5"연수]
+ * 개막전: 1월 21일 18시 챌린저 리그 1일차 1경기 [드미트리 코스틴] 對 알렉스 토마스
+ * 결승전: 4월 13일 21:30
+= 이모저모 =
+= 예선 =
+예선 일정과 방식은 다음과 같다.
+ * 1월 4·5·11일: 유럽, 아프리카, 중동을 대상으로 18명 선발
+ 512인 토너먼트를 3회 진행하여(1일차에서 탈락할 경우 2일차에서 재도전이 가능하다) 각각 6위까지 통과. 8강전에서 패한 네 명을 둘씩 맞붙여 승자 둘이 5위, 6위가 된다.
+ ["정지훈(프로게이머)"정지훈]이 법적 거주지를 인정받아 여기에 도전했고 결국 통과했다. --방어에 실패하였습니다.-- GSL 코드 S 시드를 포기하고 유럽으로 이전한 대가를 챙길 수 있을지 관심이 주목되고 있다. --[김경덕]이 은퇴해서 한 자리가 비는데 그거 주면 될 것을--
+ * 1월 12일: 래더 와일드 카드 6명 선발
+ 놀랍게도 한국의 ["김원형(프로게이머)"김원형], [강현우], [최병현], [조지현], 김건, 전용수 등이 죄다 탈락했다! 반면 유럽으로 이전한 [얀스 오스골드]는 유럽 예선에서 물을 먹고, 여기에 재도전하여 간신히 살아남았다.
+통합체제 출범 이후 강호들은 이미 들어올 만큼 들어왔기 때문에 예선에 지역 할당이 생겼다고 딱히 문제가 될 것은 없을 것 같다. 북미에 비해 현지화율이 높으며, 래더 와일드 카드를 제외한 전 인원에 대해 통합 예선을 실시하는 유럽에서는 예선을 통과한 선수들의 경기력 문제도 비교적 적을 것이다. 다만 예선까지 떨어진 한국 선수들은 다시 예선을 뚫는 것이 매우 힘들어질 전망이다.
+= 챌린저 리그 =
+== 출전자 ==
+챌린저 리거 가운데 작년 WCS 랭킹이 가장 높은 선수인 [정종현]에게 [http://www.esl.eu/eu/sc2/wcs/news/235726?utm_source=twitterfeed&utm_medium=twitter 김경덕의 빈 자리를 넘겨주었고], [페드로 모레노 듀란]이 학업을 이유로 활동 중지를 선언하여 두 자리가 비게 되었다. 이 두 자리는 래더 와일드 카드 선발전 7위와 8위인 파벨 벨로프와 데니스 크리스텐센이 차지했다.
+
+||<tablealign=center> ||<-3><#7CB9E8> attachment:Ticon_small.png ||<-3><#F4C2C2> attachment:Zicon_small.png ||<-3><#70F170> attachment:Picon_small.png ||
+|| || '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' ||
+||<|9><#6CA0DC> 지난 시즌[[br]]챌린저 리그[[br]]통과 || --["mousesports"attachment:Mouzlogo_std.png]-- || --attachment:Es.png-- || --LucifroN[[br]]페드로 모레노 듀란[[br]]Pedro Moreno Durán-- || [attachment:Mia_std_2.png][[br]]Team MIA || attachment:Si.png || Starbuck[[br]]마티치 데약[[br]]Matic Dejak || [attachment:Nrslogo_std.png][[br]]NewRoSoft || attachment:Pi.png || Welmu[[br]]베사 호비넨[[br]]Vesa Hovinen ||
+|| [attachment:Copenhagenwolveslogo_std_2.png][[br]]Copenhagen Wolves || attachment:Dk.png || Bunny[[br]]패트릭 브릭스[[br]]Patrick Brix || [attachment:Esfxtv_std.png][[br]]ESFXtv || attachment:Ua.png || HappyZerg[[br]]스뱌토슬라프 블라쉬크[[br]]Svyatoslav Vlasyuk || [attachment:Alliancelogo_std.png][[br]]Alliance || attachment:Se.png || NaNiwa[[br]][요한 루세시][[br]]Johan Lucchesi ||
+|| ["Team Empire"attachment:Empirelogo_std.png] || attachment:Ru.png || Happy[[br]]드미트리 코스틴[[br]]Дмитрий Костин || [attachment:Dignitaslogo_std.png][[br]][Team Dignitas] || attachment:Pl.png || Tefel[[br]]우카츠 차네츠키[[br]]Łukasz Czarnecki || [attachment:ESClogo_std.png][[br]]ESC Gaming || attachment:De.png || ShoWTimE[[br]]토비아스 지버[[br]]Tobias Sieber ||
+|| ["Millenium"attachment:Milllogo_std.png] || attachment:Kr.png || ForGG[[br]][박지수] || [attachment:Roxicon_std.png][[br]]RoX || attachment:Ru.png || LiveZerg[[br]]안드레이 굴댜쇼프[[br]]Андрей Гульдяшов || [attachment:Wayispiderlogo_std.png][[br]]Wayi Spider || attachment:Kr.png || Daisy[[br]]["이종혁#s-3"이종혁] ||
+|| attachment:Empirelogo_std.png || attachment:Ua.png || Kas[[br]]미하일로 헤이다[[br]]Михаил Гайда || [attachment:Virtuslogo_std.png][[br]]Virtus.pro || attachment:Ru.png || sLivko[[br]]아르템 가랍초프[[br]]Артёма Гаравцова || [attachment:Flash_wolves_std.png][[br]]Yoe Flash Wolves || attachment:Kr.png || San[[br]][강초원] ||
+|| --["Incredible Miracle"attachment:IMlogo_std.png]-- || --attachment:Kr.png-- || --Mvp[[br]]정종현-- || ["Teamliquid"attachment:Liquidlogo_std.png] || attachment:De.png || TLO[[br]][다리오 뷘시][[br]]Dario Wünsch || [attachment:Cascadelogo_std.png][[br]]Cascade || attachment:Il.png || Adonminus[[br]]마크 요수아[[br]]Mark Ioshpa ||
+|| [attachment:AT_Gaminglogo_std.png][[br]]AT Gaming || attachment:Nl.png || uThermal[[br]]마크 슐라피[[br]]Marc Schlappi || [attachment:Vega_squadron_std.png][[br]]Vega Squadron || attachment:Fr.png || FireCake[[br]]세바스티앙 레브[[br]]Sébastien Lebbe || attachment:Dignitaslogo_std.png || attachment:Uk.png || BlinG[[br]]사마얀 케이[[br]]Samayan Kay ||
+|| attachment:Milllogo_std.png || attachment:Fr.png || Dayshi[[br]]앙투앙 스티브나[[br]]Antoine Stievenart |||||| || ["Fnatic"attachment:Fnaticlogo_std.png] || attachment:Ro.png || NightEnD[[br]]실비우 라자르[[br]]Silviu Lazar ||
+|||||||||||| || [attachment:XMG_std.png][[br]]XMG || attachment:Fr.png || ToD[[br]]유안 메를루[[br]]Yoan Merlo ||
+||<|8><#FFFF00> 유럽, 아프리카,[[br]]중동 예선 통과 || [attachment:Ailogo_std.png][[br]]Alien Invasion || attachment:Ua.png || Strelok[[br]]유진 오파리셰프[[br]]Eugin Oparyshev || ["Team Acer"attachment:Acerlogo_std.png] || attachment:Ua.png || Bly[[br]]알렉산드르 스뷔시크[[br]]Александр Свисюк || (무소속) || attachment:Nl.png || Grubby[[br]][마누엘 쉔카이젠][[br]]Manuel Schenkhuizen ||
+|| [attachment:Myinsanitylogo_std.png][[br]]mYinsanity || attachment:Kr.png || jjakji[[br]]정지훈 || attachment:Fnaticlogo_std.png || attachment:Se.png || Zanster[[br]]안톤 달스트룀[[br]]Anton Dahlström || attachment:Mouzlogo_std.png || attachment:De.png || HasuObs[[br]]데니스 슈나이더[[br]]Dennis Schneider ||
+|| attachment:Nrslogo_std.png || attachment:De.png || KrasS[[br]]안드레아스 울리히[[br]]Andreas Ullrich || attachment:Alliancelogo_std.png || attachment:Se.png || SortOf[[br]]리카드 베리만[[br]]Rickard Bergman || [attachmeny:Encelogo_std.png][[br]]Ence || attachment:Pi.png || elfi[[br]]사물리 시보넨[[br]]Samuli Sihvonen ||
+|| [attachment:Property_std.png][[br]]Team Property || attachment:Se.png || MorroW[[br]]스테판 안데르손[[br]]Stefan Andersson || attachment:Fnaticlogo_std.png || attachment:Se.png || Miniraser[[br]]빅토르 말름베리[[br]]Viktor Malmberg || attachment:Fnaticlogo_std.png || attachment:Nl.png || Harstem[[br]]케빈 데 코닝[[br]]Kevin de Koning ||
+|| attachment:Mouzlogo_std.png || attachment:De.png || HeRoMaRinE[[br]]가브리엘 세가트[[br]]Gabriel Segat || attachment:Cascadelogo_std.png || attachment:De.png || Lambo[[br]]율리안 브로지히[[br]]Julian Brosig || attachment:Milllogo_std.png || attachment:Dk.png || BabyKnight[[br]]욘 안데르센[[br]]Jon Andersen ||
+|||||||||||| || attachment:Property_std.png || attachment:Se.png || Mekar[[br]]알렉산더 욘손[[br]]Alexander Jonsson ||
+|||||||||||| || attachment:Vega_squadron_std.png || attachment:Pl.png || sLh[[br]]표트르 미할스키[[br]]Piotr Michalski ||
+|||||||||||| || attachment:XMG_std.png || attachment:Fr.png || Lilbow[[br]]다비드 모스케토[[br]]David Moschetto ||
+||<|4><#FFFF00> 래더 와일드 카드 || attachment:Milllogo_std.png || attachment:Pl.png || DieStar[[br]]마르친 비초레크[[br]]Marcin Wieczorek || (무소속) || attachment:Se.png || hOpe[[br]]단 구스타프손[[br]]Dan Gustafsson || attachment:Myinsanitylogo_std.png || attachment:Ie.png || ABomB[[br]]알렉스 토마스[[br]]Alex Thomas ||
+|||||| || attachment:Liquidlogo_std.png || attachment:No.png || Snute[[br]][얀스 오스골드][[br]]Jens Aasgaard || attachment:Vega_squadron_std.png || attachment:Ru.png || VERDI[[br]]아르템 아브라멘코[[br]]Артем Авраменко ||
+|||||| || [attachment:Ruw_std.png][[br]]RuW || attachment:Bg.png || stakimaN[[br]]니콜라이 네델체프[[br]]Николай Неделчев || [attachment:Karnage_esports_std.png][[br]]Karnage eSports || attachment:De.png  || StrinterN[[br]]데니스 크리스텐센[[br]]Dennis Christensen ||
+|||||| || attachment:Vega_squadron_std.png || attachment:Ru.png || Revolver[[br]]파벨 벨로프[[br]]Павел Белов ||
+== 일정 ==
+규칙은 매우 간단하다. 1:1로 맞붙어서, '''이기면 통과, 지면 탈락'''한다.
+재밌게도 같은 국적을 가진 선수들끼리는 마주치지 않는다.
+2일차 4경기와 5일차 1경기는 예선 통과자들끼리 맞붙고, 나머지는 적색이 대기자, 청색이 예선 통과자들이다.
+
+||<tablealign=center><-7> '''1일차'''(1월 21일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Ticon_small.png]Happy || 3 || 0 || [attachment:Picon_small.png]ABomB || 프로스트, 해비테이션 스테이션, 연수 ||
+|| 2경기 ||<#FFD700> [attachment:Zicon_small.png]FireCake || 3 || 1 || [attachment:Ticon_small.png]Strelok || 프로스트, {{{#ff0000 알터짐 요새}}},[[br]]헤비 레인, 다이달로스 요충지 ||
+|| 3경기 ||<#FFD700> [attachment:Zicon_small.png]Starbuck || 3 || 1 || [attachment:Ticon_small.png]HeRoMaRinE || {{{#ff0000 연수}}}, 다이달로스 요충지,[[br]]헤비 레인, 폴라 나이트 ||
+|| 4경기 ||<#FFD700> [attachment:Picon_small.png]NaNiwa || 3 || 0 || [attachment:Zicon_small.png]stakimaN || 연수, 폴라 나이트, 헤비 레인 ||
+
+["내려갈 팀은 내려간다"올라갈 선수들이 올라갔다].
+
+||<tablealign=center><-7> '''2일차'''(1월 22일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Tefel || 2 || 3 ||<#FFD700> [attachment:Picon_small.png]Lilbow || 폴라 나이트, 헤비 레인, {{{#ff0000 프로스트}}},[[br]]{{{#ff0000 해비테이션 스테이션}}}, 연수 ||
+|| 2경기 ||<#FFD700> [attachment:Zicon_small.png]sLivko || 3 || 1 || [attachment:Ticon_small.png]DieStar || {{{#ff0000 연수}}}, 프로스트,[[br]]헤비 레인, 폴라 나이트 ||
+|| 3경기 ||<#FFD700> [attachment:Picon_small.png]BlinG || 3 || 0 || [attachment:Ticon_small.png]KrasS || 연수, 헤비 레인, 해비테이션 스테이션 ||
+|| 4경기 ||<#FFD700> [attachment:Picon_small.png]Grubby || 3 || 0 || [attachment:Picon_small.png]sLh || 프로스트, 해비테이션 스테이션, 헤비 레인 ||
+
+첫번째 업셋이 발생했다. 다비드 모스케토가 풀세트 접전 끝에 우카츠 차네츠키를 제압했다.
+
+||<tablealign=center><-7> '''3일차'''(1월 23일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Picon_small.png]Welmu || 3 || 0 || [attachment:Picon_small.png]Mekar || 헤비 레인, 폴라 나이트, 연수 ||
+|| 2경기 ||<#FFD700> [attachment:Picon_small.png]ShoWTimE || 3 || 0 || [attachment:Ticon_small.png]MorroW || 프로스트, 해비테이션 스테이션, 연수 ||
+|| 3경기 || [attachment:Picon_small.png]이종혁 || 2 || 3 ||<#FFD700> [attachment:Zicon_small.png]Bly || {{{#ff0000 폴라 나이트}}}, {{{#ff0000 해비테이션 스테이션}}},[[br]]연수, 프로스트, 헤비 레인 ||
+|| 4경기 ||<#FFD700> [attachment:Zicon_small.png]TLO || 3 || 0 || [attachment:Picon_small.png]StrinterN || 프로스트, 폴라 나이트, 헤비 레인 ||
+
+한국인 이종혁이 최종전까지 분전했으나 알렉산드르 스뷔시크에게 역스윕을 당하며 두번째 업셋의 피해자가 되고 말았다.
+
+||<tablealign=center><-7> '''4일차'''(2월 4일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]Adonminus || 0 || 3 ||<#FFD700> [attachment:Picon_small.png]HasuObs || 해비테이션 스테이션, 폴라 나이트, 다이달로스 요충지 ||
+|| 2경기 ||<#FFD700> [attachment:Zicon_small.png]LiveZerg || 3 || 1 || [attachment:Picon_small.png]Harstem || 알터짐 요새, {{{#ff0000 프로스트}}},[[br]]해비테이션 스테이션, 폴라 나이트 ||
+|| 3경기 ||<#FFD700> [attachment:Ticon_small.png]Dayshi || 3 || 0 || [attachment:Zicon_small.png]hOpe || 프로스트, 헤비 레인, 폴라 나이트 ||
+|| 4경기 ||<#FFD700> [attachment:Ticon_small.png]Bunny || 3 || 1 || [attachment:Picon_small.png]VERDI || 프로스트, 해비테이션 스테이션,[[br]]{{{#ff0000 폴라 나이트}}}, 알터짐 요새 ||
+
+중동 최초로 WCS에 입성한 마크 요수아가 강호 데니스 슈나이더에게 3:0으로 짓밟혔다.
+
+||<tablealign=center><-7> '''5일차'''2월 5일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Picon_small.png]BabyKnight || 3 || 1 || [attachment:Zicon_small.png]Revolver || 폴라 나이트, 프로스트,[[br]]{{{#ff0000 알터짐 요새}}}, 해비테이션 스테이션 ||
+|| 2경기 ||<#FFD700> [attachment:Ticon_small.png]Kas || 3 || 2 || [attachment:Zicon_small.png]Zanster || {{{#ff0000 폴라 나이트}}}, 알터짐 요새,[[br]]{{{#ff0000 해비테이션 스테이션}}}, 프로스트, 헤비 레인 ||
+|| 3경기 ||<#FFD700> [attachment:Picon_small.png]강초원 || 3 || 0 || [attachment:Picon_small.png]elfi || 연수, 프로스트, 폴라 나이트 ||
+|| 4경기 || [attachment:Ticon_small.png]uThermal || 1 || 3 ||<#FFD700> [attachment:Zicon_small.png]Snute || 프로스트, {{{#ff0000 폴라 나이트}}},[[br]]해비테이션 스테이션, 알터짐 요새 ||
+
+강초원이 드디어 프리미어 리그에 입성하는 순간이다. 요에 플래시 울브스에 입단한 뒤 준우승과 우승을 연달아 거두면서 상승세를 타고 있다.
+지역 이동으로 챌린저 리그 출전권도 포기하고 예선도 래더 와일드 카드로 간신히 통과한 얀스 오스골드는 이제 한숨 돌리게 되었다.
+
+||<tablealign=center><-7> '''6일차'''(2월 6일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]HappyZerg || 0 || 3 ||<#FFD700> [attachment:Ticon_small.png]정지훈 || 다이달로스 요충지, 폴라 나이트, 헤비 레인 ||
+|| 2경기 || [attachment:Picon_small.png]ToD || 2 || 3 ||<#FFD700> [attachment:Zicon_small.png]Miniraser || 연수, {{{#ff0000 폴라 나이트}}}, 프로스트,[[br]]{{{#ff0000 헤비 레인}}}, 해비테이션 스테이션 ||
+|| 3경기 ||<#FFD700> [attachment:Ticon_small.png]박지수 || 3 || 0 || [attachment:Zicon_small.png]Lambo || 연수, 헤비 레인, 해비테이션 스테이션 ||
+|| 4경기 ||<#FFD700> [attachment:Picon_small.png]NightEnD || 3 || 1 || [attachment:Zicon_small.png]SortOf || 연수, {{{#ff0000 프로스트}}},[[br]]해비테이션 스테이션, 알터짐 요새 ||
+
+유럽에서도 강력한 선수들이 속속 모이고 있다.
+GSL 코드 S 시드를 내버리고 유럽으로 옮긴 정지훈이 시원하게 프리미어 리그에 진출하며 본전을 챙겼고, 박지수도 상대에게 깔끔한 3승을 거두고 프리미어 리그에 합류했다.
+== 결과 ==
+승자들은 즉시 프리미어 리그에 진출한다. 패자들은 다음 시즌을 예선에서 시작해야 한다.
+
+||<tablealign=center> '''결과''' || '''상금''' || '''포인트''' ||<-6> '''성명''' ||
+||<|4><#FFD700> 통과 ||||<|4> 프리미어 리그[[br]]성적에[[br]]따라 수령 || 드미트리 코스틴 || 세바스티앙 레브 || 마티치 데약 || 요한 루세시 || 다비드 모스케토 || 아르템 가랍초프 ||
+|| 사마얀 케이 || 마누엘 쉔카이젠 || 베사 호비넨 || 토비아스 지버 || 알렉산드르 스뷔시크 || 다리오 뷘시 ||
+|| 데니스 슈나이더 || 안드레이 굴댜쇼프 || 앙투앙 스티브나 || 패트릭 브릭스 || 욘 안데르센 || 미하일로 헤이다 ||
+|| 강초원 || 얀스 오스골드 || 정지훈 || 빅토르 말름베리 || 박지수 || 실비우 라자르 ||
+||<|4> 탈락 ||<|4> $600||<|4> 50점|| 알렉스 토마스 || 유진 오파리셰프 || 가브리엘 세가트 || 니콜라이 네델체프 || 우카츠 차네츠키 || 마르친 비초레크 ||
+|| 안드레아스 울리히 || 표트르 미할스키 || 알렉산더 욘손 || 스테판 안데르손 || 이종혁 || 데니스 크리스텐센 ||
+|| 마크 요수아 || 케빈 데 코닝 || 단 구스타프손 || 아르템 아브라멘코 || 파벨 벨로프 || 안톤 달스트룀 ||
+|| 사물리 시보넨 || 마크 슐라피 || 스뱌토슬라프 블라쉬크 || 유안 메를루 || 율리안 브로지히 || 리카드 베리만 ||
+= 프리미어 리그 =
+== 출전자 ==
+||<tablealign=center> ||<-3><#7CB9E8> attachment:Ticon_small.png ||<-3><#F4C2C2> attachment:Zicon_small.png ||<-3><#70F170> attachment:Picon_small.png ||
+|| || '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' ||
+||<|4><#6CA0DC> 지난 시즌[[br]]프리미어 리그[[br]]결선 라운드 진출 || attachment:Acerlogo_std.png || attachment:Kr.png ||<#FFD700> MMA[[br]][문성원] || attachment:Mouzlogo_std.png || attachment:Es.png ||<#8C7853> VortiX[[br]][후안 모레노 듀란][[br]]Juan Moreno Durán || (무소속) || attachment:Kr.png ||<#C0C0C0> MC[[br]][장민철] ||
+|||||| || attachment:Acerlogo_std.png || attachment:Pl.png || Nerchio[[br]][아르투르 블로흐][[br]]Artur Bloch || [attachment:Love_Your_Girlfriendlogo_std.png][[br]]Love Your Girlfriend || attachment:Kr.png ||<#8C7853> Genius[[br]]["정민수(프로게이머)"정민수] ||
+|||||| || (무소속) || attachment:No.png || TargA[[br]]크리스토퍼 마틴센[[br]]Kristoffer Marthinsen || --["MVP(프로게임단)"attachment:MVPlogo_std.png]-- || --attachment:Kr.png-- || --duckdeok[[br]]김경덕-- ||
+|||||||||||| || attachment:Myinsanitylogo_std.png || attachment:Kr.png || StarDust[[br]]["손석희(프로게이머)"손석희] ||
+||<|10><#FFFF00> 챌린저 리그 통과 || attachment:IMlogo_std.png || attachment:Kr.png || Mvp[[br]]정종현 || attachment:Vega_squadron_std.png || attachment:Fr.png || FireCake[[br]]세바스티앙 레브[[br]]Sébastien Lebbe || attachment:Alliancelogo_std.png || attachment:Se.png || NaNiwa[[br]]요한 루세시[[br]]Johan Lucchesi ||
+|| attachment:Empirelogo_std.png || attachment:Ru.png || Happy[[br]]드미트리 코스틴[[br]]Дмитрий Костин || attachment:Mia_std_2.png || attachment:Si.png || Starbuck[[br]]마티치 데약[[br]]Matic Dejak || attachment:XMG_std.png || attachment:Fr.png || Lilbow[[br]]다비드 모스케토[[br]]David Moschetto ||
+|| attachment:Milllogo_std.png || attachment:Fr.png || Dayshi[[br]]앙투앙 스티브나[[br]]Antoine Stievenart || attachment:Virtuslogo_std.png || attachment:Ru.png || sLivko[[br]]아르템 가랍초프[[br]]Артёма Гаравцова || attachment:Dignitaslogo_std.png || attachment:Uk.png || BlinG[[br]]사마얀 케이[[br]]Samayan Kay ||
+|| attachment:Liquidlogo_std.png || attachment:Dk.png || Bunny[[br]]패트릭 브릭스[[br]]Patrick Brix || attachment:Acerlogo_std.png || attachment:Ua.png || Bly[[br]]알렉산드르 스뷔시크[[br]]Александр Свисюк || (무소속) || attachment:Nl.png || Grubby[[br]]마누엘 쉔카이젠[[br]]Manuel Schenkhuizen ||
+|| attachment:Empirelogo_std.png || attachment:Ua.png || Kas[[br]]미하일로 헤이다[[br]]Михаил Гайда || attachment:Liquidlogo_std.png || attachment:De.png || TLO[[br]]다리오 뷘시[[br]]Dario Wünsch || attachment:Nrslogo_std.png || attachment:Pi.png || Welmu[[br]]베사 호비넨[[br]]Vesa Hovinen ||
+|| attachment:Myinsanitylogo_std.png || attachment:Kr.png || jjakji[[br]]정지훈 || attachment:Roxicon_std.png || attachment:Ru.png || LiveZerg[[br]]안드레이 굴댜쇼프[[br]]Андрей Гульдяшов || attachment:ESClogo_std.png || attachment:De.png || ShoWTimE[[br]]토비아스 지버[[br]]Tobias Sieber ||
+|| attachment:Milllogo_std.png || attachment:Kr.png || ForGG[[br]]박지수 || attachment:Liquidlogo_std.png || attachment:No.png || Snute[[br]]얀스 오스골드[[br]]Jens Aasgaard || attachment:Mouzlogo_std.png || attachment:De.png || HasuObs[[br]]데니스 슈나이더[[br]]Dennis Schneider ||
+|||||| || attachment:Fnaticlogo_std.png || attachment:Se.png || Miniraser[[br]]빅토르 말름베리[[br]]Viktor Malmberg || attachment:Milllogo_std.png || attachment:Dk.png || BabyKnight[[br]]욘 안데르센[[br]]Jon Andersen ||
+|||||||||||| || attachment:Flash_wolves_std.png || attachment:Kr.png || San[[br]]강초원 ||
+|||||||||||| || attachment:Fnaticlogo_std.png || attachment:Ro.png || NightEnD[[br]]실비우 라자르[[br]]Silviu Lazar ||
+== 일정 ==
+=== 1라운드 ===
+방식에는 변화가 없으나, 8명에게만 주어졌던 프리미어 시드가 16장으로 늘어나면서, 1라운드만 통과하면 다음 시즌을 프리미어 리그에서 시작할 수 있게 되었다.
+
+[http://www.esl.eu/eu/news/237494/The-Groups-of-WCS-Europe-Premier-League/ 조 편성 결과], 특별히 어려운 조도 쉬운 조도 나오지 않았다. 한국 선수들은 전부 다른 조에 배치되었다.
+
+||<tablealign=center> [[HTML(<center><iframe width="560" height="315" src="//www.youtube.com/embed/fKTd8Ro68r4" frameborder="0" allowfullscreen></iframe></center>)]] ||
+|| [간지폭풍]의 오프닝 영상이 화제가 되었다. ||
+
+||<tablealign=center><-6> '''A조'''(2월 18일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]장민철 || 2 || 1 || [attachment:Zicon_small.png]sLivko || 헤비 레인, {{{#ff0000 프로스트}}}, 폴라 나이트 ||
+|| 2경기 || [attachment:Picon_small.png]NaNiwa || 2 || 1 || [attachment:Ticon_small.png]Bunny || {{{#ff0000 연수}}}, 폴라 나이트, 알터짐 요새 ||
+|| 승자전 ||<#FFD700> 장민철 || 2 || 0 || NaNiwa || 알터짐 요새, 폴라 나이트 ||
+|| 패자전 || sLivko || 0 || 2 || Bunny || 해비테이션 스테이션, 프로스트 ||
+|| 최종전 || Naniwa || 1 || 2 ||<#FFD700> Bunny || 폴라 나이트, {{{#ff0000 해비테이션 스테이션}}}, 연수 ||
+
+'''장민철의 클래스는 건재하다. 하지만…….'''
+시드를 받고 참여한 장민철은 IEM에 이어 계속 좋은 컨디션을 유지하면서 WCS에서도 한 단계 위의 꿈을 이루는데 성공하였다. 하지만 통과가 유력해 보였던 요한 루세시는 최종전에서 패트릭 브릭스에게 덜미를 잡혀 1라운드 탈락, 조기 시즌 아웃을 달성했다. 글로벌 파이널 어떻게 출전하려고…….
+조 2위로 통과한 패트릭 브릭스는 그 기세를 타 3일 뒤 [팀리퀴드]에 입단했다. 추가로 장민철과 패트릭은 조별 리그 내에서는 붙지 않았지만 후에 벌어진 SeatStory Cup에서 대결해 패트릭이 승리했다.
+
+||<tablealign=center><-6> '''B조'''(2월 20일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Nerchio || 2 || 0 || [attachment:Picon_small.png]ShoWTimE || 프로스트, 헤비 레인 ||
+|| 2경기 || [attachment:Ticon_small.png]정지훈 || 2 || 1 || [attachment:Zicon_small.png]LiveZerg || {{{#ff0000 프로스트}}}, 다이달로스 요충지, 알터짐 요새 ||
+|| 승자전 || Nerchio || 1 || 2 ||<#FFD700> 정지훈 || {{{#ff0000 해비테이션 스테이션}}}, 프로스트, 다이달로스 요충지 ||
+|| 패자전 || ShoWTimE || 2 || 0 || LiveZerg || 해비테이션 스테이션, 폴라 나이트 ||
+|| 최종전 ||<#FFD700> Nerchio || 2 || 0 || ShoWTimE || 프로스트, 헤비 레인 ||
+
+'''[http://www.esl.eu/eu/news/237892/WCS-Group-B-jjakji-two-Zergs-and-an-underdog/ 정지훈, 저그 둘, 그리고 하수]'''
+한국에서 부활의 불꽃을 피우자마자 유럽으로 옮겨온 정지훈, GSL 코드 S 시드도 포기하고 여기까지 왔는데 떨어질 리가…없었다. 그는 조 1위로 당당히 상위 라운드에 진출하면서 유럽 무대에 본격적으로 발을 들여놓게 된다.
+남은 한 자리는 저그 유저 아르투르 블로흐의 차지. 시드의 위엄을 보여주며 상위 라운드 입성에 성공한다.
+
+||<tablealign=center><-6> '''C조'''(2월 22일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]VortiX || 2 || 1 || [attachment:Picon_small.png]Lilbow || {{{#ff0000 해비테이션 스테이션}}}, 프로스트, 헤비 레인 ||
+|| 2경기 || [attachment:Ticon_small.png]박지수 || 1 || 2 || [attachment:Picon_small.png]BabyKnight || {{{#ff0000 알터짐 요새}}}, 헤비 레인, 프로스트 ||
+|| 승자전 ||<#FFD700> VortiX || 2 || 1 || BabyKnight || 헤비 레인, {{{#ff0000 프로스트}}}, 연수 ||
+|| 패자전 || Lilbow || 2 || 0 || 박지수 || 프로스트, 폴라 나이트 ||
+|| 최종전 ||<#FFD700> BabyKnight || 2 || 1 || Lilbow || {{{#ff0000 폴라 나이트}}}, 연수, 헤비 레인 ||
+
+'''밀레니엄에서 한 명 통과'''
+문제라면 그 한 명이 박지수가 아니라는 점. 프로토스 유저인 욘 안데르센이 16강에 진출했다.
+시드를 받은 후안 모레노 듀란은 조 1위로 1라운드를 빠져나갔다.
+
+||<tablealign=center><-6> '''D조'''(2월 25일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]TargA || 0 || 2 || [attachment:Zicon_small.png]Miniraser || 폴라 나이트, 다이달로스 요충지 ||
+|| 2경기 || [attachment:Picon_small.png]강초원 || 1 || 2 || [attachment:Ticon_small.png]Dayshi || 폴라 나이트, {{{#ff0000 프로스트}}}, 다이달로스 요충지 ||
+|| 승자전 || Miniraser || 0 || 2 ||<#FFD700> Dayshi || 프로스트, 폴라 나이트 ||
+|| 패자전 || TargA || 1 || 2 || 강초원 || 해비테이션 스테이션, {{{#ff0000 폴라 나이트}}}, 헤비 레인 ||
+|| 최종전 || Miniraser || 1 || 2 ||<#FFD700> 강초원 || {{{#ff0000 프로스트}}}, 폴라 나이트, 헤비 레인 ||
+
+'''최초의 시드자 탈락'''
+전 대회 8강 입상자 중에서 최초로 크리스토퍼 마틴센 선수가 탈락했다.
+밀레니엄의 테란 유저인 앙투앙 스티브나가 간만에 유럽 테란의 자존심을 보이며 1위로 통과했고, 그에게 초장부터 물을 먹은 강초원이 나머지 둘을 각각 2:1로 이기고 개싸움 끝에 2라운드에 진출한다.
+
+||<tablealign=center><-6> '''E조'''(2월 27일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]손석희 || 1 || 2 || [attachment:Picon_small.png]BlinG || 폴라 나이트, {{{#ff0000 해비테이션 스테이션}}}, 헤비 레인 ||
+|| 2경기 || [attachment:Ticon_small.png]Happy || 2 || 1 || [attachment:Zicon_small.png]Bly || 해비테이션 스테이션, {{{#ff0000 폴라 나이트}}}, 헤비 레인 ||
+|| 승자전 ||<#FFD700> BlinG || 2 || 1 || Happy || 알터짐 요새, {{{#ff0000 프로스트}}}, 연수 ||
+|| 패자전 || 손석희 || 2 || 1 || Bly || {{{#ff0000 연수}}}, 해비테이션 스테이션, 폴라 나이트 ||
+|| 최종전 || Happy || 0 || 2 ||<#FFD700> 손석희 || 프로스트, 해비테이션 스테이션 ||
+
+'''--프로스트-- 프로토스 만세'''
+그래도 유럽에서는 알아주는 명가의 에이스 테란·저그가 프로토스 2명에게 도전장을 내밀었는데 모두 탈락하고 말았다.
+
+||<tablealign=center><-6> '''F조'''(3월 1일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]정민수 || 2 || 0 || [attachment:Ticon_small.png]Kas || 프로스트, 해비테이션 스테이션 ||
+|| 2경기 || [attachment:Zicon_small.png]TLO || 2 || 0 || [attachment:Picon_small.png]Grubby || 알터짐 요새, 프로스트 ||
+|| 승자전 || 정민수 || 1 || 2 ||<#FFD700> TLO || {{{#ff0000 다이달로스 요충지}}}, 폴라 나이트, 헤비 레인 ||
+|| 패자전 || Kas || 1 || 2 || Grubby || 알터짐 요새, {{{#ff0000 헤비 레인}}}, 해비테이션 스테이션 ||
+|| 최종전 || 정민수 || 1 || 2 ||<#FFD700> Grubby || {{{#ff0000 다이달로스 요충지}}}, 연수, 폴라 나이트 ||
+
+'''유럽에선 이 정도면 죽음의 조'''
+명문 팀의 테란 미하일로 헤이다, 팀리퀴드 부동의 주전 다리오 뷘시, 워3부터 이어지는 충성스런 팬덤의 소유자 마누엘 쉔카이젠, 그리고 2013년 재기에 성공한 정민수의 조합으로 화제가 되었던 조. 1·2경기는 정민수와 다리오가 시원하게 2:0 스토어를 달성했으나 승자전에서부터 풀세트 접전이 세 번 연속으로 나왔다. 다리오 뷘시가 조 1위로 후다닥 빠져나왔으나 정민수는 마누엘 쉔카이젠에게 잡히며 그의 한국인 킬러 이미지를 부각시키고 말았다.[* 그는 과거에도 박지수를 탈락시킨 적이 있고, 장재호는 인연의 상대…….]
+
+||<tablealign=center><-6> '''G조'''(3월 4일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]정종현 || 2 || 0 || [attachment:Zicon_small.png]FireCake || 프로스트, 알터짐 요새 ||
+|| 2경기 || [attachment:Zicon_small.png]Snute || 2 || 0 || [attachment:Picon_small.png]HasuObs || 프로스트, 알터짐 요새 ||
+|| 승자전 ||<#FFD700> 정종현 || 2 || 0 || Snute || 폴라 나이트, 알터짐 요새 ||
+|| 패자전 || FireCake || 0 || 2 || HasuObs || 프로스트, 연수 ||
+|| 최종전 ||<#FFD700> Snute || 2 || 0 || HasuObs || 알터짐 요새, 프로스트 ||
+
+'''승승장구'''
+GSL과 WCS 유럽에서 정점을 찍은 정종현, 독일의 강호 프로토스 데니스 슈나이더, 팀리퀴드의 또다른 주전 얀스 오스골드, 프랑스의 저그 유저 세바스티앙 레브가 한 조에 편성되었다. 
+유럽 현지에서 경기를 준비한 정종현이 시원하게 조 1위로 통과하며 보람찬 출발을 보였지만, 토스를 만나지 않았다는 점이 변수가 될 듯하다.
+북미 활동을 접고 유럽으로 돌아온 얀스 오스골드는 데니스 슈나이더에게만 4승을 거두며 성공적인 유럽 복귀를 신고했다. 
+
+||<tablealign=center><-6> '''H조'''(3월 6일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]문성원 || 2 || 0 || [attachment:Picon_small.png]NightEnD || 알터짐 요새, 프로스트 ||
+|| 2경기 || [attachment:Picon_small.png]Welmu || 2 || 1 || [attachment:Zicon_small.png]Starbuck || 해비테이션 스테이션, {{{#ff0000 헤비 레인}}}, 연수 ||
+|| 승자전 || 문성원 || 1 || 2 ||<#FFD700> Welmu || 알터짐 요새, {{{#ff0000 해비테이션 스테이션}}}, 프로스트 ||
+|| 패자전 || NightEnD || 0 || 2 || Starbuck || 연수, 헤비 레인 ||
+|| 최종전 ||<#FFD700> 문성원 || 2 || 1 || Starbuck || 알터짐 요새, {{{#ff0000 프로스트}}}, 헤비 레인 ||
+
+'''위기일발'''
+16강에 올라왔던 경력이 있고, 시즌 파이널에도 참여한 적이 있는 핀란드의 프로토스 베사 호비넨이 조 1위, 문성원이 조 2위로 진출했다.
+=== 2라운드 ===
+||<tablealign=center><-6> '''A조'''(3월 25일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]정종현 || 2 || 0 || [attachment:Ticon_small.png]Bunny || 폴라 나이트, 프로스트 ||
+|| 2경기 || [attachment:Zicon_small.png]VortiX || 2 || 0 || [attachment:Ticon_small.png]문성원 || 연수, 프로스트 ||
+|| 승자전 || 정종현 || 0 || 2 ||<#FFD700> VortiX || 폴라 나이트, 헤비 레인 ||
+|| 패자전 || Bunny || 1 || 2 || 문성원 || {{{#ff0000 다이달로스 요충지}}}, 헤비 레인, 연수 ||
+|| 최종전 || 정종현 || 1 || 2 ||<#FFD700> 문성원 || {{{#ff0000 폴라 나이트}}}, 해비테이션 스테이션, 연수 ||
+
+'''이제는 후안에게 기대해도 좋을까?'''
+토스전이 검증되지 않은 정종현인데 1라운드에선 프로토스 데니스 슈나이더를 피해갔고, 이번에는 아예 조에 토스가 없다. 정종현에겐 낭보였으나…그는 8강 진출에 실패하고 말았다.
+후안 모레노 듀란과 문성원은 며칠 전 Vasacast Invitational 2014에서 붙었다. 후안이 2:1으로 승리했는데[* 그리고 이 대회에서 후안은 우승까지 차지했다.] 마침 1·2세트 맵 모두 그때 후안이 승리한 전장. 결국 후안은 전장의 가호를 받아 똑같이 승리를 거두었다. 하지만 여기에서 끝이 아니었다. 승자전에서 후안은 그 기세를 이어 정종현까지 제압하고 제일 먼저 8강에 오른다.
+최종전에서는 2013년 유럽의 트로피를 가져갔던 우승자들의 매치업[* GSL에서도 결승 매치업이었으니 인연의 매치업이라고 말할 수 있지 않을까?]이 성사되었는데, 문성원이 패승승으로 정종현을 제압하고 8강에 오른다.
+
+||<tablealign=center><-6> '''B조'''(3월 26일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]정지훈 || 2 || 0 || [attachment:Picon_small.png]Grubby || 연수, 프로스트 ||
+|| 2경기 || [attachment:Ticon_small.png]Dayshi || 1 || 2 || [attachment:Zicon_small.png]Snute || {{{#ff0000 폴라 나이트}}}, 프로스트, 헤비 레인 ||
+|| 승자전 || 정지훈 || 1 || 2 ||<#FFD700> Snute || 프로스트, {{{#ff0000 헤비 레인}}}, 해비테이션 스테이션 ||
+|| 패자전 || Grubby || 0 || 2 || Dayshi || 프로스트, 해비테이션 스테이션 ||
+|| 최종전 ||<#FFD700> 정지훈 || 2 || 1 || Dayshi || {{{#ff0000 폴라 나이트}}}, 프로스트, 헤비 레인 ||
+
+'''["우리 아이가 달라졌어요"우리 유럽이 달라졌어요]'''
+강자도 약자도 없는 ["DSL"BSL] 성사.
+정지훈은 지역구를 옮긴 것에 대한 보상을 위해서라도 8강에 살아남는 것이 중요하다. 이미 16강에 올랐으니 유럽에서 활동할 수 있게 되었지만, 이미 그는 GSL에서 정점을 찍어본 선수고 높은 곳에 올라간 후안 모레노 듀란과 만나고 싶은 마음도 클 것이다.
+그리고 이 문단은 어째서인지 얀스 오스골드에게도 비슷하게나마 적용되는데, 그도 북미에서 유럽으로 옮겨왔으며 16강에 오르면서 안정적인 활동이 가능해졌다. 얀스 역시 후안과 마찬가지로 한국인들이 많이 참여했던 SeatStory Cup에서 우승을 차지했던 강자다 보니, 그 강함을 증명하기 위해서는 상위 라운드의 입성이 필요한 상황.
+뚜껑을 열어본 결과 얀스가 그 대회의 우승은 자신의 실력이었다는 것을 몸소 증명하며 조 1위로 통과했고, 정지훈 또한 최종전에서 앙투앙 스티브나를 패승승으로 이기며 8강 입성에 성공한다. 반면 마누엘 쉔카이젠은 한국인 킬러라는 별명이 무색하게 정지훈에게 패배, 그리고 패자전에서 앙투앙에게 패하면서 4패로 2라운드를 마감한다. --패자전 상대가 한국인이 아니라서 진출 못한 걸지도--
+
+||<tablealign=center><-6> '''C조'''(3월 27일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]Welmu || 0 || 2 || [attachment:Picon_small.png]BabyKnight || 헤비 레인, 프로스트 ||
+|| 2경기 || [attachment:Zicon_small.png]TLO || 0 || 2 || [attachment:Picon_small.png]손석희 || 헤비 레인, 폴라 나이트 ||
+|| 승자전 || BabyKnight || 0 || 2 ||<#FFD700> 손석희 || 연수, 프로스트 ||
+|| 패자전 || Welmu || 2 || 1 || TLO || {{{#ff0000 프로스트}}}, 헤비 레인, 알터짐 요새 ||
+|| 최종전 || BabyKnight || 1 || 2 ||<#FFD700> Welmu || {{{#ff0000 연수}}}, 해비테이션 스테이션, 헤비 레인 ||
+
+'''경기감각을 살릴 기회가 주어진다면 게이머는 언제라도 어디에서도 성장할 수 있다.''' --CJ 보고 있나?--
+ACER TeamStory Cup 시즌 3에 네 선수의 소속 팀들 모두 본선 진출을 한 상태다 보니 이 선수들의 대한 기대는 높은 편이다.
+특히 베사 호비넨은 시즌 3의 예선 통과 팀 중 유일하게 대한민국 선수가 없는 팀의 에이스로서 팀을 본선에 올렸다.[* Acer TeamStory Cup 예선에서 2:0으로 지고 있던 팀의 중견으로 나서 '''[고석현]·강현우·최병현·장민철·장민철'''을 잡아내고 '''홀로 5킬을 기록해''' 팀을 본선에 올려놓았다.]
+반면 손석희는 만만치 않은 앞 조에서 만만치 않은 유럽 선수들의 실력을 본 만큼 전심전력을 다할 필요가 있었다. 공교롭게도 승자전이 하루 전 벌어진 mYinsanity 對 Millenium의 재현이다.[* 마침 mYinsanity의 정지훈과 Millenium의 앙투앙 스티브나(바로 전날 8강 티켓을 놓고 격전을 벌였던 두 선수)가 현장을 찾아 서로의 팀원을 격려하는 훈훈한 모습을 보여주었다. 둘은 누워서 경기를 관전하기도 했는데(ESL 스튜디오의 객석은 널찍한데다 사람도 그리 많지 않다), 대한민국에서는 보기 어려운 광경] 테테전이었던 전날과 달리 이번엔 프프전.
+조 1위로 손석희가 깔끔한 진출을 이뤄냈으며, 베사는 욘 안데르센에게 첫 경기를 내줬지만 패자조에서 응원버프의 다리오 뷘시와 자신을 패자조로 내려보낸 욘에게 패승승으로 승리를 거두고 조 2위로 8강 진출에 성공한다.
+
+||<tablealign=center><-6> '''D조'''(3월 28일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]장민철 || 2 || 1 || [attachment:Zicon_small.png]Nerchio || {{{#ff0000 알터짐 요새}}} , 프로스트, 헤비 레인 ||
+|| 2경기 || [attachment:Picon_small.png]BlinG || 1 || 2 || [attachment:Picon_small.png]강초원 || 해비테이션 스테이션, {{{#ff0000 프로스트}}}, 폴라 나이트 ||
+|| 승자전 || 장민철 || 0 || 2 ||<#FFD700> 강초원 || 프로스트, 헤비 레인 ||
+|| 패자전 || Nerchio || 2 || 0 || BlinG || 프로스트, 알터짐 요새 ||
+|| 최종전 ||<#FFD700> 장민철 || 2 || 0 || Nerchio || 폴라 나이트, 프로스트 ||
+
+'''갓초원의 귀환'''
+최근 TeSL, ASUS ROG Winter 등 해외대회에서 여러 차례 우승한 강초원이 사마얀 케이와 장민철을 꺾고 8강에 진출한다. 이로써 강초원은 손석희, 정지훈과 같이 해외 팀 이적의 성공적인 케이스로 굳어졌다. 장민철은 최종전에서 자신이 이긴 아르투르 블로흐를 다시 한 번 이기면서 8강에 진출한다.
+=== 결선 라운드 ===
+현재 ESL이 WCS 북미·유럽을 모두 운영하게 되었기 때문에 이번 시즌에는 북미·유럽이 함께 독일 쾰른에 있는 ESL 스튜디오에서 4일 일정의 결선 라운드를 진행하게 된다. 유럽의 8강 1·2경기가 끝나면 북미의 8강 1·2경기를 진행하는 식으로…….
+
+대진은 프프전·테저전·테저전·프프전으로 완벽한 대칭을 이루고 있다. 이게 꽤나 흥미로운 것이 A·B조에서 올라간 선수들이 서로 상대 조의 선수들과 붙고 C·D조에서 올라간 선수들이 역시 또 상대 조의 선수들과 붙게 되면서 양익(兩翼)이 비슷한 중량을 형성하게 되었다는 것이다. 특히 저그 둘은 2라운드에서 한국의 테란을 꺾고 1위로 진출했다는 공통점을 가지고 있다.
+
+||<tablealign=center><-7> '''8강 1일차'''(4월 10일 20시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]손석희 || 1 || 3 ||<#FFD700> [attachment:Picon_small.png]장민철 || {{{#ff0000 프로스트}}}, 연수, 해비테이션 스테이션,[[br]]헤비 레인, --폴라 나이트-- ||
+|| 2경기 || [attachment:Zicon_small.png]VortiX || 0 || 3 ||<#FFD700> [attachment:Ticon_small.png]정지훈 || 프로스트, 해비테이션 스테이션,[[br]]다이달로스 요충지, --연수--, --폴라 나이트-- ||
+
+정지훈은 VasaCast Invitational 결승에서 후안 모레노 듀란에게 3:2로 진 아픈 기억이 있다. 이에 대한 복수였는지 정지훈은 2경기에서 후안에게 떡을 먹이며 오랜만에 4강에 진출하게 된다. 장민철 또한 요즘 기세가 좋다고 평가 받는 손석희를 3:1로 제압, 4강에 진출한다.
+
+||<tablealign=center><-7> '''8강 2일차'''(4월 11일 20시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Snute || 1 || 3 ||<#FFD700> [attachment:Ticon_small.png]문성원 || 헤비 레인, {{{#ff0000 폴라 나이트}}}, 해비테이션 스테이션,[[br]]프로스트, --다이달로스 요충지-- ||
+|| 2경기 ||<#FFD700> [attachment:Picon_small.png]강초원 || 3 || 0 || [attachment:Picon_small.png]Welmu || 해비테이션 스테이션, 프로스트,[[br]]연수, --폴라 나이트--, --헤비 레인-- ||
+
+얀스 오스골드의 기세가 만만치 않기 때문에 전 시즌 우승자인 문성원이 이를 감당할 수 있느냐도 볼거리다. 하지만 얼마 전 문성원이 DreamHack TV의 이벤트전에서 상대 팀을 올킬하면서 얀스가 털렸던 전적이 있기 때문에 컨디션의 회복에 따라 접전이 예상되는 상황.
+2경기는 어느 쪽이 이겨도 이상하지 않을 정도의 강력한 활약을 보이는 프로토스 둘이 대결하게 되었다는 점에서 흥미로운 대진이다. Acer Teamstory Cup 시즌 3에서 NewRoSoft가 yoe Flash Wolves에 올킬을 먹었기 때문에 베사 호비넨이 설욕을 할 수 있을지도 관전 포인트.
+
+8강에서 테란과 프로토스는 전원 진출했으나 저그는 모두 탈락했다. --한국인의 유전자를 흡수하지 못한 모양이다.--
+
+||<tablealign=center><-7> '''준결승전'''(4월 12일 20시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Picon_small.png]장민철 || 3 || 1 || [attachment:Ticon_small.png]정지훈 || 해비테이션 스테이션, {{{#ff0000 연수}}}, 프로스트,[[br]]다이달로스 포인트, --폴라 나이트-- ||
+|| 2경기 ||<#FFD700> [attachment:Ticon_small.png]문성원 || 3 || 2 || [attachment:Picon_small.png]강초원 || 헤비 레인, 프로스트, {{{#ff0000 해비테이션 스테이션}}},[[br]]{{{#ff0000 폴라 나이트}}}, 연수 ||
+
+'''아아, [NS호서]의 망령이여!'''
+강초원을 제외하고는 GSL의 우승컵을 들어봤던 선수들이고, 강초원도 GSL 4강까지는 찍어본 선수다.
+추억의 팀 NS호서의 원투펀치였던 정지훈과 강초원의 질주는 결국 4강에서 멈추게 되었다.
+
+||<tablealign=center><-7> '''결승전'''(4월 13일 21:30) ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+||<#FFD700> [attachment:Picon_small.png]장민철 || 4 || 2 || [attachment:Ticon_small.png]문성원 || 알터짐 요새, {{{#ff0000 해비테이션 스테이션}}}, 다이달로스 요충지,[[br]] {{{#ff0000 연수}}}, 프로스트, 폴라 나이트, --헤비 레인-- ||
+
+'''["주현미"또 만났네 또 만났어]''' --'나만 이 생각 한 거 아니구나' 싶은 사람이 많을 듯하다.--
+'''No Upset''', '''프통령 장민철의 귀환!!!'''
+자신들의 결승석은 누구에게도 양보하지 않았다. 즉, 지난 시즌 결승전의 주인공이었던 두 선수가 이번 시즌에도 결승전에서 대결하게 된 것이다. 장민철은 [2013 WCS Europe Season 2]에서 김경덕과 붙은 이래 3회 연속 결승 진출이며, 문성원은 2연속 우승을 노린다.
+지금까지 열린 모든 WCS 글로벌 대회에서 프로토스가 우승을 차지했고, 한국에서도 결국 프로토스 [주성욱]이 우승한 가운데, 유럽에서도 프로토스가 우승을 노리고 있다.
+결국 프로토스가 다시 한 번 우승을 차지 함으로써, 한국 디비전에 이은 프로토스 우승자를 배출했으며, 장민철은 문성원에게 저번시즌의 복수를 함과 동시에, '''2011 GSL Mar. 이후 근 3년 만에''' 개인리그 우승을 차지하게된다.
+== 결과 ==
+||<tablealign=center> '''순위''' || '''상금''' || '''포인트''' |||| '''성명''' || 다음 시즌 ||
+||<#FFD700> 우승 || $25000|| 2000점|||| 장민철 ||<|9><#FFD700> 프리미어 리그 ||
+||<#C0C0C0> 준우승 || $15000|| 1000점|||| 문성원 ||
+||<#8C7853> 3위 || $7000|| 750점|| 정지훈 || 강초원 ||
+||<|2> 5위 ||<|2> $5000||<|2> 500점|| 손석희 || 후안 모레노 듀란 ||
+|| 얀스 오스골드 || 베사 호비넨 ||
+||<|2> 9위 ||<|4> $3000||<|2> 300점|| 정종현 || 앙투앙 스티브나 ||
+|| 욘 안데르센 || 아르투르 블로흐 ||
+||<|2> 13위 ||<|2> 250점|| 패트릭 브릭스 || 마누엘 쉔카이젠 ||
+|| 다리오 뷘시 || 사마얀 케이 ||
+||<|4> 17위 ||<|8> $2000||<|4> 150점|| 요한 루세시 || 토비아스 지버 ||<|8> 챌린저 리그 ||
+|| 다비드 모스케토 || 빅토르 말름베리 ||
+|| 드미트리 코스틴 || 정민수 ||
+|| 데니스 슈나이더 || 마티치 데약 ||
+||<|4> 25위 ||<|4> 100점|| 아르템 가랍초프 || 안드레이 굴댜쇼프 ||
+|| 박지수 || 크리스토퍼 마틴센 ||
+|| 알렉산드르 스뷔시크 || 미하일로 헤이다 ||
+|| 세바스티앙 레브 || 실비우 라자르 ||
+= 통계 =
+ * 종족별
+  * 챌린저 리그
+   * 출전: attachment:Ticon_small.png 14-2, attachment:Zicon_small.png 19+1, attachment:Picon_small.png 15+1
+   * 통과: attachment:Ticon_small.png 6, attachment:Zicon_small.png 8, attachment:Picon_small.png 10 --글로벌 호구 테란-- --딱 절반씩 통과하는 균형미--
+  * 프리미어 리그
+   * 1라운드: attachment:Ticon_small.png 7+1, attachment:Zicon_small.png 11, attachment:Picon_small.png 14-1
+   * 2라운드: attachment:Ticon_small.png 4, attachment:Zicon_small.png 4, attachment:Picon_small.png 6
+   * 8강: attachment:Ticon_small.png 2, attachment:Zicon_small.png 2, attachment:Picon_small.png 4 --토스가 사기인 걸로--
+   * 4강: attachment:Ticon_small.png 2, attachment:Picon_small.png 2
+ * 국적별
+  * 챌린저 리그
+   * 출전: attachment:Se.png 7, attachment:De.png 6+1, attachment:Ru.png 4+1, attachment:Kr.png 5-1, attachment:Fr.png 4, attachment:Ua.png 4, attachment:Pl.png 3, attachment:Nl.png 3, attachment:Pi.png 2, attachment:Dk.png 2, attachment:Si.png 1, attachment:Il.png 1, attachment:Uk.png 1, attachment:Ro.png 1, attachment:Ie.png 1, attachment:No.png 1, attachment:Bg.png 1, attachment:Es.png 1-1 --지역 제한이 효과 발휘하는 듯--
+   * 통과: attachment:De.png 3, attachment:Ru.png 3, attachment:Kr.png 3, attachment:Fr.png 3, attachment:Se.png 2, attachment:Ua.png 2, attachment:Dk.png 2, attachment:Nl.png 1, attachment:Pi.png 1, attachment:Si.png 1, attachment:Uk.png 1, attachment:Ro.png 1, attachment:No.png 1
+  * 프리미어 리그  
+   * 1라운드: attachment:Kr.png 8-1+1, attachment:De.png 3, attachment:Ru.png 3, attachment:Fr.png 3, attachment:No.png 2, attachment:Se.png 2, attachment:Ua.png 2, attachment:Dk.png 2, attachment:Es.png 1, attachment:Pl.png 1, attachment:Nl.png 1, attachment:Pi.png 1, attachment:Si.png 1, attachment:Uk.png 1, attachment:Ro.png 1 --그래도 한국인이 지배민족--
+   * 2라운드: attachment:Kr.png 6, attachment:Dk.png 2, attachment:Fr.png 1, attachment:Es.png 1, attachment:Pl.png 1, attachment:Uk.png 1, attachment:De.png 1, attachment:Nl.png 1, attachment:No.png 1, attachment:Pi.png 1
+   * 8강: attachment:Kr.png 5, attachment:Es.png 1, attachment:No.png 1, attachment:Pi.png 1
+   * 4강: attachment:Kr.png [더 이상의 자세한 설명은 생략한다] --이 문구 좀 그만 봤으면 좋겠다--
+= 대회 정리 =

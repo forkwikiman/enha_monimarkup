@@ -1,0 +1,59 @@
+{{{+1 新御茶ノ水駅 / Shin-ochanomizu Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://farm4.staticflickr.com/3681/9814156704_36beb72220_z.jpg
+치요다선 신오차노미즈역의 한 출입구와 주변 모습. (사진 저작자 : [[http://www.flickr.com/photos/maynard/9814156704/|Nemo's great uncle]])
+
+http://www.tokyometro.jp/station/awajicho/yardmap/images/yardmap.gif
+역 입체도
+
+[[목차]]
+== 개요 ==
+일본 [도쿄]도 치요다구에 위치한 [[도쿄 메트로]] [[치요다선]]의 역이다. 환승이 가능한 [[도쿄 메트로]] [[마루노우치선]]의 아와지초역 및 [[도쿄도 지하 고속전차]] [[wiki:"신주쿠선(도쿄 도 교통국)" 신주쿠선]]의 오가와마치역도 이 문서에서 함께 설명한다. 주의할 점은 [[JR 히가시니혼]]의 [[오차노미즈역]] 환승은 신오차노미즈역에서만 가능하다. 왜냐하면, 아와지초역과 오가와마치역은 한 역으로 취급되고, 마루노우치선에 오차노미즈역이 있으니까. --그런데 신오차노미즈 ~ 아와지초 간이 [[막장환승]]이잖아! 망했다--
+
+역세권의 주요 시설로는 [[일본축구협회]], [[칸다묘진]], 유시마 성당[* 가톨릭의 성당이 아니라, 공자를 모셔둔 곳이다.], [[메이지 대학]], 니혼대학, [[도쿄전기대학]], 츄오대학이 있으며, 북쪽에는 칸다가와가 흐른다. 칸다 고서점가에서도 가까우니 참고하기 바란다.
+--[[러브라이브!|오토노키자카 고등학교]]가 이 곳에 가깝다는 [[카더라]]가 있다.[* 설정상 칸다, [[아키하바라|아키하☆바라]], 진보초의 사이에 끼어있는데, 이 곳을 삼각형으로 이어보면 한가운데에 이 역이 있다.]--
+
+== 역 및 승강장 ==
+=== [[도쿄 메트로]] 신오차노미즈역 ===
+||||||||||<#009944> {{{#ffffff 치요다선}}} ||<#009944><|6>{{{#ffffff 운영주체 : 도쿄 메트로}}}[[br]]{{{#ffffff 개업일 : 1969년 12월 20일}}} ||
+||<width=100px> [wiki:"요요기우에하라역" 요요기우에하라] 방면[[br]][wiki:"오테마치역(도쿄)" 오테마치][[br]](C-11) || {{{+1 ← }}} ||<width=100px> 신오차노미즈[[br]](C-12) || {{{+1 → }}} ||<width=100px> [wiki:"아야세역" 아야세] 방면[[br]][wiki:"유시마역(도쿄)" 유시마][[br]](C-13) ||
+
+
+http://farm5.staticflickr.com/4036/4547365451_e1057c6e14_z.jpg
+치요다선 신오차노미즈역의 승강장 모습. (사진 저작자 : [[http://www.flickr.com/photos/yakinik/4547365451/|Yakinik]])
+
+https://farm3.staticflickr.com/2796/4114992918_8d3002f29a.jpg
+http://farm6.staticflickr.com/5064/5660109143_8456e36452.jpg
+치요다선 신오차노미즈역의 승강장 벽면과 역명판. (사진 저작자 : (위)[[https://www.flickr.com/photos/stevenagata/4114992918/|Steve Nagata]], (아래)[[http://www.flickr.com/photos/kusaker/5660109143/|eidantoei]])
+
+http://farm2.staticflickr.com/1352/606289973_4badd3c8a0_z.jpg
+치요다선 신오차노미즈역의 한 에스컬레이터. (사진 저작자 : [[http://www.flickr.com/photos/koichiwb/606289973/|K.Suzuki]])
+
+섬식 승강장으로 아야세 방면으로는 에스컬레이터가 긴 편인 반면에 요요기우에하라 방면으로는 에스컬레이터가 짧다.
+
+=== [[도쿄 메트로]] 아와지초역 ===
+{{{+1 淡路町駅 / Awajicho Station}}}
+
+||||||||||<#e60012> {{{#ffffff 마루노우치선}}} ||<#e60012><|6>{{{#ffffff 운영주체: 도쿄 메트로}}}[[br]]{{{#ffffff 개업일: 1956년 3월 20일}}} ||
+||<width=100px> [wiki:"오기쿠보역" 오기쿠보] 방면[[br]][wiki:"오테마치역(도쿄)" 오테마치][[br]](M-18) || {{{+1 ← }}} ||<width=100px> 아와지초[[br]](M-19) || {{{+1 → }}} ||<width=100px> [wiki:"이케부쿠로역" 이케부쿠로] 방면[[br]][wiki:"오차노미즈역" 오차노미즈][[br]](M-20) ||
+
+http://farm3.staticflickr.com/2800/4468676166_148ee315fe_z.jpg
+마루노우치선 아와지초역과 신주쿠선 오가와마치역의 한 공동 출입구와 주변 모습. (사진 저작자 : [[http://www.flickr.com/photos/007_tanuki/4468676166/|007 Tanuki]])
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TokyoMetro-M19-Awajicho-station-platform.jpg/600px-TokyoMetro-M19-Awajicho-station-platform.jpg
+마루노우치선 아와지초역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3ATokyoMetro-M19-Awajicho-station-platform.jpg|LERK]])
+
+상대식 승강장이다.
+
+=== [[도쿄도 지하 고속전차]] 오가와마치역 ===
+{{{+1 小川町駅 / Ogawamachi Station}}}
+
+||||||||||<#6cbb5a> {{{#ffffff 신주쿠선}}} ||<#6cbb5a><|6>{{{#ffffff 운영주체: 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일: 1980년 3월 16일}}} ||
+||<width=100px> [wiki:"신주쿠역" 신주쿠] 방면[[br]][wiki:"진보초역" 진보초][[br]](S-06) || {{{#ffffff :← }}} ||<width=100px> 오가와마치[[br]](S-07) || {{{+1 → }}} ||<width=100px> [wiki:"모토야와타역" 모토야와타] 방면[[br]][wiki:"이와모토초역" 이와모토초][[br]](S-08) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Toei-S07-Ogawamachi-station-platform.jpg/600px-Toei-S07-Ogawamachi-station-platform.jpg
+신주쿠선 오가와마치역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3AToei-S07-Ogawamachi-station-platform.jpg|LERK]])
+
+섬식 승강장이다. 역명은 다르지만 마루노우치선의 아와지초역과의 혼선을 막기 위해 승강장 번호를 통합해 놓았다.
+
+[[각주]]

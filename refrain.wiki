@@ -1,0 +1,80 @@
+ * [[탄막슈팅게임]]인 '''RefRain ~prism memories~'''를 찾는다면 [[RefRain]] 항목으로.
+
+[[목차]]
+
+== 개요 ==
+
+||||||||||||||<#dcdcdc><table align=center><:> '''[[dj TAKA]]의 실연 시리즈''' ||
+||<:>'''[[Blue Rain]]'''[[BR]][[beatmania IIDX 15 DJ TROOPERS]] || → ||<:>'''[[Broken]]'''[[BR]][[리플렉 비트]] || → ||<:>'''[[True Blue]]'''[[BR]][[유비트 소서]] || → ||<:>'''refrain'''[[BR]][[리플렉 비트 그루빈]] ||
+
+> --[http://gall.dcinside.com/board/view/?id=rhythmgame&no=4795046&page=6&exception_mode=recommend ああああああああああああああああああああああ]--
+> '''AiMEE 씨의 애절하고 맑은 보컬, 그것을 120% 끌어낸 최고의 멜로디가 나왔습니다.'''
+> ― ''dj TAKA''
+
+||<#F8F8F8>AiMEE 씨와의 콤비는 [[True Blue]] 이후 약 1년 반만이네요.[[br]]생각해보면, 이름만으로도 많은 분들이 기대하게 되는 콘텐츠를 만든다는 것이 좀처럼 쉽게 되지 않았습니다만,[[br]]언제나 신세를 지고있는 [[리플렉 비트 시리즈|리플렉 비트]]에서 의뢰이기에 좀 더 노력 해보았습니다.[[br]]'이왕 하는 거, 최강의 콤비라는 자부심을 가지자'라는 생각으로 작업하였기 때문에 좋은 결과물이 나왔다고 생각합니다, 부디 스탬프를 모아서 플레이 해주셨으면 좋겠습니다.[[br]]그때까지 기다릴 수 없는 분을 위해 '着信★うた'[* 코나미에서 운영하는 착신음 다운로드 사이트]라는 디지털 음원 사이트에서 롱버전을 선행판매 하고 있기 때문에, 그것을 들으면서 예습해주셨으면 좋겠습니다.[[br]] ― ''dj TAKA'' ||
+
+||<#eeeeee>
+AiMEE 씨와의 콤비는 정신을 차려 보니 모두가 기대하는 콘텐츠가 되어 있어서, 그만큼 압박을 느끼지만, 그만큼 기합도 들어갑니다.
+그녀의 목소리의 장점을 가장 잘 이끌어낼 수 있는 건 저라고 믿고 있어서, 더욱더 저답게 만들 수 있었다고 생각합니다.
+"반복되는" 멜로디와, 동사로서의 refrain의 이중 의미가 되어 있습니다.
+AiMEE 씨와의 곡도 꽤나 라인업이 갖추어졌기에, 슬슬 마무리짓는 형태로 릴리즈하는 것도 생각해보고 싶네요.
+
+- [[dj TAKA]], [[리플렉 비트 그루빈]] OST 코멘트
+||
+
+
+[[리플렉 비트 그루빈]]의 수록곡. 작곡은 [[dj TAKA]] 보컬은 [[Aimee Blackschleger|AiMEE]]가 맡았다.
+
+[http://kanamaria.egloos.com/viewer/2145919 이 곡에 대한 dj TAKA와의 인터뷰 번역]
+
+== 가사 ==
+||<#eeeeee>
+How can it end?
+Refrain
+
+Where do all the dreams return
+When they melt away?
+Where do all the broken hearted songs
+Stop singing
+And resign themselves to fate?
+Why did you go
+Though we were running freely
+Through open meadows of fire and waterfalls?
+I thought we'd always last
+In this story we brought into being
+
+Now all I am is leaving me so slowly
+I'll never understand why I'm lonely
+We once had it all
+It only comes in my mind in shattered little frames
+All of the times my heart hears your name
+I loved you
+I loved you in my universe 
+||
+
+== 리플렉 비트 시리즈 ==
+||||||<#F6EC01> '''{{{#F80092 리플렉 비트 그루빈의 스탬프 해금곡}}}''' ||
+|| 6월 ||<|2> → || 7월 ||
+|| '''refrain'''[[BR]][[dj TAKA]] feat.AiMEE || [[Nigra Ludia]][[BR]][[Akhuta]] ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/a1wcSC-bkMg?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+ * '''HARD 패턴 98.3% 풀콤보 영상.'''
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:>158 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 8}}} || {{{#red 10+}}} ||
+|| 오브젝트 || {{{#green 177}}} || {{{#orange 450}}} || {{{#red 756}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈] ||
+
+리플렉 스탬프 해금곡이다. 스탬프는 하루에 한 개씩 받을 수 있으며 2개는 베이직, 4개는 미디엄, 7개는 하드 보면이 해금된다. 6월에 해금하지 못했으면, 리플렉 샵 보면샵에서 BAIC, MEDIUM, HARD보면을 각각 300, 700, 1000리플레로 살 수 있다.
+
+전작인 [[Broken]]이나 [[True Blue]]는 [[롱잡]]이 특징이었지만 이번 곡은 폭타가 특징이다. 유저들의 실력이 상향평준화 된 덕에 풀콤 난이도도 낮고 10+ 치고는 어렵지 않은 편이지만 문제는 '''버티컬 오브젝트로 나오는 계단 폭타'''이다. 버티컬 계단에 익숙하지 않다면 스코어링 하기가 힘들다. 이 곡의 하드보면이 해금된지 하루만에[* [[리플렉 비트 그루빈]] 가동일인 [[2014년]] [[6월 4일]]을 포함하여 매일 스탬프를 모았다면 [[6월 10일]]에 하드 보면을 해금할 수 있다.] [[일본]]의 [[탑랭커]] SIR·O·N이 [https://twitter.com/__siroron/status/476395450669355009/photo/1 99.3% 풀콤보를 달성하였다].
+
+난이도가 초반과 후반의 버티컬 폭타에 싹 다 몰려있는 [True Blue]와 비슷한 구조이기 때문에 이 두 부분을 어떻게 처리하느냐에 따라서 점수가 결정된다. 전체적인 평가는 10+ 중상급정도의 위치.
+
+회수컷이 10+의 회수컷치고 상당히 괴악한데 99.2%가 회수컷이라고 한다.
+
+[[각주]]

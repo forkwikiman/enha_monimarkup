@@ -1,0 +1,58 @@
+[[목차]]
+== '항해', '여행'의 의미를 갖는 영단어 ==
+프랑스어에도 동음동의어가 있기에 프랑스어에서 온 것으로 추정. 발음은 영어로는 '보이지', 프랑스어로는 '보야지'로 많이 되며, 비영어권에서는 프랑스어 발음이 많은 편이다.
+
+== [DJMAX 시리즈]의 수록곡. ==
+ 
+ * [DJMAX 시리즈/수록곡 목록]
+
+|| 장르 || Broken Beat ||
+|| 작곡 || [[makou]] ||
+|| 보컬 || Lin ||
+|| 비주얼 || Sagwanamu(일러스트) , Carrotjuice(모션) ||
+|| [[BPM]] || 125 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ZJ_6io4LgsI?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[디제이맥스] [메트로 프로젝트]의 수록곡으로, [DJMAX TECHNIKA]와 [DJMAX Portable Black Square]에 수록되었다.
+
+[DJMAX 온라인] 때부터 [DJMAX 시리즈]에 양질의 곡들을 제공해왔던 [makou]의 [메트로 프로젝트]신곡. Broken Beat라는 장르명처럼, [makou]의 프로젝트 외 곡에서 종종 들을 수 있는, 효과음이나 키보드음의 앞뒤를 잘라서 짧게 편집하여, 딱딱 끊어지는듯한 음원들을 메인음들로 사용한 기법으로 작곡되어진 독특한 느낌의 곡으로, 멜로디 자체는 서정적이고 부드러운 곡이다. 제목과 같이 배를 타고 바다에서 하늘까지 항해하는 느낌으로 만들어졌는데, 작곡가가 이 비주얼을 매우 맘에 들어하였다고 한다.
+
+게임 수록 버젼은, 앞뒤로 짧게 잘린 음원들에 매우 짧은 페이드인/아웃을 걸어주어 Broken Beat 치곤 부드러운 느낌이 되었지만, 테크니카 OST에 수록된 Instrumental 버젼을 들어 보면, 그런 보정이 없이 음원들을 각지게 잘라 놓은 음원 그대로 나오기 때문에 게임 버전과 상당히 느낌이 다르다. 들어 보지 못한 사람은 OST를 구해서 들어 보자.
+
+후속곡으로 [A Life With You]가 있다.
+
+=== [DJMAX Portable Black Square] ===
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/OSj9HeaOFIc" frameborder="0" allowfullscreen></iframe>}}}
+
+(8B NM)
+
+[DJMAX Portable Black Square] 에서는 중간 중간의 클럽 투어 미션에서 어느정도 비중있는 곡으로 나오고, 중간 정도 난이도에 배치도 어느 정도 재밌게 나오는 편. BS 클럽투어 시즌1의, 이 곡의 6B FX 패턴을 정확도 99% 이상으로 클리어하는 미션은, 어느정도 판정이 되지 않는다면 Easy 난이도를 걸어도 상당히 까다로운 미션 가운데 하나이기도 하다.
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/fx645nQ7XqM" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(테크니카 1 기준 TP)
+
+[DJMAX TECHNIKA]에서의 난이도는 PP 4, TP 4. PP는 본래 5였으나 Evolution EP 업데이트 후 4로 하향되었다. 테크니카 내에서 3대 비인기곡(다른 두 곡은 [Closer]와 [Motion])에 들어갈 정도로 인기가 없는 곡으로... 패턴도 PP던지 TP던지 간에 밋밋함 그 자체.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || || || ||
+||<#FFFF00> Normal || D || 100 Max || 5 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 6 || 4박 스크롤 || [wiki:"Cotton Candy"Cotton Candy Set] 셀렉곡, [[wiki:"A to Z"미션 - Pure Island]]수록 ||
+
+후에는 레벨이 NM 5, HD 6으로 상향되었다.
+
+테크니카 3에서는 HD패턴이 미션에 수록되면서 비인기곡이라고 연습안한 유저들의 뒷통수를 치는중.
+
+== [[하마사키 아유미]]의 28번째 싱글, [[RAINBOW]]수록곡 ==
+[[Voyage(하마사키 아유미)]]항목 참조.
+
+[[각주]]

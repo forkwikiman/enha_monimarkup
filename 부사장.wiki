@@ -1,0 +1,33 @@
+[[Include(틀:회사원의 직급)]]
+
+--[부사장]이 [마카다미아]를 ["wiki:페이스북"좋아합니다]-- ~~[wiki:"땅콩 회항"싫어하겠지]~~
+
+副社長. vice-president.
+[[목차]]
+== 개요 ==
+[회사]에서 [사장] 다음 가는 지위이다. vice-president는 [부통령]을 가리키는 말이기도 하다.
+
+보통 [대기업]의 경우엔 [사장]도 여러 명이기 때문에 [부사장]도 여럿일 때가 많다. 재무담당부사장, 인사담당부사장, 기술담당부사장 등 이런 식이다. 영어로는 Chief Financial Officer(최고재무책임자), Chief Operation Officer(최고운영책임자) 등 직무로 부사장들의 일이 분화되어 있다.
+
+== 번역 문제 ==
+vice-president는 한국의 부사장에 딱 대응되지 않는다. VP를 번역하면 '임원'이라고 해야 한다. 이는 미국의 조직문화에 기인하는데, 미국 문화에서 (회사던, 군대던, 기타 조직이던) 임원은 그 조직의 '장'의 다음가는 서열로서, 해당 업무에 있어서 만큼은 조직의 장의 다음가는 인물이라는 뜻이 있기 때문이다. 쉽게 말해 영업담당 부사장이라는것은, 영업 업무의 최고수장은 사장이지만, 최소한 그 영업의 업무 만큼은 영업담당 부사장이 서열 2위라는 뜻이다. 실제 연공서열이 30위권 밖이라 하더라도 말이다. 위계질서에 익숙한 [[한국]]문화에서는 이해가 잘 되지 않는 시스템이다. 실제로 미국의 [사업부]들은 사업부장에게 상당한 권한이 위임되어 있다.[* 군대도 이와 비슷해서 위임을 중시해 해안경비대에서는 한국에서 참모부장이라 부를 보직을 Vice Commandant라 한다.] 오너가 지배하는 한국의 사업부와는 다르다. 간혹 미국서 한국인 2세같은 사람들이 senior vice president로 임명되었을때 '수석부사장'이라고 호칭하는 것은 오역으로 보아야 한다.
+
+1. Senior Executive Vice President (SEVP): Deputy President
+2. Executive Vice President (EVP)
+3. Senior Vice President (SVP)
+4. Corporate Vice President or Vice President or First Vice President (CVP/VP/FVP)
+5. Assistant Vice President or Associate Vice President (AVP)
+6. Associate or Officer (Assoc/Officer)
+
+vice president란 표현이 들어간 [임원]급의 직위가 여럿이다.
+
+예를 들어 [마이크로소프트]의 경우 사장(President) 다음에 CVP - GM/VP - Partner의 순이다. [뱅크 오브 아메리카]의 경우엔 Managing Director - Director - SVP - VP - AVP - Officer의 순을 따르며 [제네럴 모터스]의 경우엔 President - EVP - GVP - SVP - GM VP(=CVP)의 순이다. [금융]의 경우엔 vice-president란 직함을 달고 [과장]급으로 돌아다니는 [실무자]도 수두룩하다.
+
+미국의 회사와 비교하면 한국의 회사들은 비교적 [직제]나 [임원]의 구조가 비슷하게 딱딱 맞게 떨어지는 편.
+
+한국 기업의 경우는 이하와 같이 임원명을 번역하는것이 타당하다.
+
+1. 부사장 : executive vice president
+2. 전무 : senior vice president
+3. 상무 : vice president
+

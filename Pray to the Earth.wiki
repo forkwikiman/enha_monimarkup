@@ -1,0 +1,50 @@
+||<-2><#FF377F><:>'''[[GITADORA OverDrive]] ENCORE/PREMIUM ENCORE STAGE''' ||
+||<#FFB2D9> ENCORE 1 ||<#FFB2D9> '''[[SPRING BAZOOKA]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 1 / ENCORE 2 ||<#FFB2D9> '''[[Noli Me Tangere]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 2 / ENCORE 3 ||<#FFB2D9> '''[[Nature]](GITADORA ver.)''' ||
+||<#FFB2D9> PREMIUM ENCORE 3 / ENCORE 4 ||<#FFB2D9> '''[[LEMON & SALT]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 4 / ENCORE 5 ||<#FFB2D9> '''[[Quarrel and Harmony]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 5 / ENCORE 6 ||<#FFB2D9> '''[[ジュピターガンズノベル]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 6 / ENCORE 7 ||<#FFB2D9> '''[[TOXIC VIBRATION]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 7 / ENCORE 8 ||<#FFB2D9> '''Pray to the Earth''' ||
+||<#FFB2D9> PREMIUM ENCORE 8 / ENCORE 9 ||<#FFB2D9> '''[[童話回廊]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 9 / ENCORE 10 ||<#FFB2D9> '''[[heliodor]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 10 / ENCORE 11 ||<#FFB2D9> '''[[幽明異境]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 11 / ENCORE 12 ||<#FFB2D9> '''[[九尾狐夜行]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 12 / ENCORE 13 ||<#FFB2D9> '''[[Silver star]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 13 ||<#FFB2D9> '''[[MODEL DD 시리즈|MODEL DD ULTIMATES]]''' ||
+||<#FFB2D9> PREMIUM ENCORE EX ||<#FFB2D9> '''[[The ULTIMATES -Brightness-]]''' ||
+
+||<#eeeeee>
+"우주에서 별이 새롭게 발견되거나, 자신이 모르는 곳에서 소멸하거나 하고 있는 중,
+지구는 여러 시행착오를 반복하고 장수하고 있다.
+물이나 마그마, 대지, 식물, 여러 생물이 있어 태양이나 달, 별자리도 육안으로 보이니 정말도 멋진 별이지요"
+라는 이미지를 곡으로 표현해보았습니다.
+
+부디 즐겁게 감상해주세욧☆
+
+- [[오오이 아이코|AIKO OI]], [[기타도라 오버드라이브]] 사운드 트렉 코멘트
+||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/a2mMXFWufbE" frameborder="0" allowfullscreen></iframe>
+}}}
+수정 전 MASTER 채보
+
+{{{#!html
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm24587875"></script><noscript><a href="http://www.nicovideo.jp/watch/sm24587875">【GITADORA】 Pray to the Earth (譜面調整後) 【DrumMania】</a></noscript>
+</object>}}}
+수정 후 MASTER 채보
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 140~290 ||<|2><:> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 3.00}}} || {{{#orange 5.50}}} || {{{#red 7.45}}} || {{{#purple 8.50}}} ||
+|| 기타 베이스 || {{{#blue 3.20}}} || {{{#orange 5.30}}} || {{{#red 7.10}}} || {{{#purple 7.70}}} ||
+|| 드럼매니아 || {{{#blue 3.50}}} || {{{#orange 6.00}}} || {{{#red 7.25}}} || {{{#purple 8.70}}} ||
+
+[[GITADORA OverDrive]]의 수록곡. 2014년 9월 10일에 앙코르 레벨 7로 업되면서 프리미엄 앙코르 전용곡으로 등장하였다. 레벨 8에 앙코르 전용곡으로 격하되었고, 레벨 11 기준으로 이 노래를 클리어하면 해금된다.
+
+작곡가는 [[AIKO OI]]로, Last Song 이후 코나미를 퇴사하고 처음으로 외주 자격으로 제공한 곡이다. [[BGA]]는 전용 BGA.
+
+드럼 보면은 중간에 '''분명히 드럼음이 들리는데도''' 아무 노트도 나오지 않는 구간이 있는 등 원곡의 드럼 연주를 고려하지 않은 듯한 보면 구성 때문에 채보에 대한 평가는 좋지 않았다가 2014년 9월 30일 업데이트로 채보가 수정되었다. 난이도 변경은 없다.

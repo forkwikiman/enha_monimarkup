@@ -1,0 +1,20 @@
+http://goto2020.cdn1.cafe24.com/img/game/tw/icon/nod/unit/harvester.png
+http://goto2020.cdn1.cafe24.com/img/game/tw/ingame/nod/unit/harvester.jpg
+{{{#!html
+<object style="height: 300px; width: 560px"><param name="movie" value="http://www.youtube.com/v/2nwbj__KtB4?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/2nwbj__KtB4?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="560" height="300"></object>
+}}}
+
+대사집[* 영문 해석이 어느정도 된다면 타이베리움에 집착한다는 사실을 알 수 있다.(...) 이는 스텔스 하베스터도 같다.]
+
+|| 가격 || 1600원 ||
+|| 생산시간 || 16초 ||
+|| 요구사항 || 군수공장, 정제소 ||
+||<-2> [[wiki:"블랙 핸드(진영)"블랙 핸드]] 전용 유닛 ||
+
+[[커맨드 앤 컨커3 케인의 분노]]에 등장하는 [[wiki:"블랙 핸드(진영)"블랙 핸드]]의 [[wiki:"하베스터(커맨드 앤 컨커 시리즈)"하베스터]]
+
+[스텔스 하베스터]에서 스텔스 발생기가 제거된 하베스터로 설정상 이쪽이 [[스텔스 하베스터]]의 원형이다.
+
+스텔스 발생기는 없지만 스텔스 하베스터보다 내구력이 더 단단하다. 그런데 게임상에서는 애초에 [[스텔스 하베스터]]가 [[타이베리움]]을 뒤로 채취하는 것 때문에 가장 [[인공지능]]이 나쁘고, [[Nod]] 본대 및 [[MOK]]와 달리 [스텔스]가 없는 [[wiki:"블랙 핸드(진영)" 블랙 핸드]]의 하베스터는 방어능력도 없기 때문에 가장 허약한 하베스터이다.(...)
+
+이 하베스터 때문에 [[wiki:"블랙 핸드(진영)"블랙 핸드]]에서는 하베스터 테러를 항상 주의해야한다.

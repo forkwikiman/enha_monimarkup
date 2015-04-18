@@ -1,0 +1,49 @@
+Ein deutsches Requiem
+
+[[목차]]
+== 개요 ==
+[[요하네스 브람스]]가 1860년부터 시작해 8년에 걸쳐 작곡한 끝에 완성된 작품이다. 이 작품의 많이 회자되는 작곡 동기로는 슈만의 죽음에 대한 애도, 또는 어머니의 죽음에 대한 애도의 의미로 작곡되었다고 한다. 어머니가 죽기 전부터 이 작품을 시작했기 때문에 어머니의 죽음에 대한 애도라는 의도는 안 맞을지도 모르지만, 어머니의 죽음이 이 곡의 일부분에 영향을 미친 건 분명하다.
+
+이 곡의 제목에 붙은 '독일'이라는 말의 의미는 독일어로 된 [[레퀴엠]]이란 의미다. [* 곡 제목대로 당연히 독일어로 불러야겠지만 타 언어로 바꿔서 연주한 경우도 있다. 2차 대전 당시 독일에 대한 반감이 극심하던 미국에서는 이 독일레퀴엠의 가사를 영어로 번역해서 연주했다. (토스카니니 등의 녹음반이 남아있다.) 심지어 브루노 발터는 이탈리아어로 바꿔서 연주하기도 했다.] 전통적인 가톨릭 교회의 레퀴엠 전례문이 라틴어 가사인것과는 달리 브람스는 [[마르틴 루터]]가 번역한 독일어 성서에서 자신이 직접 성서 구절들을 선정하여 이 곡을 작곡했다. 그러나 브람스는 "독일이란 말을 세계로 바꿔도 괜찮을 것이다"라고 말한 바 있다. 이를 통해 보면 브람스는 전 세계 사람들을 위한 보편적 의미의 레퀴엠을 작곡했다고 봐도 좋을 것이다.
+
+이 작품에 대해 클라라 슈만은 "저는 당신의 '레퀴엠'에 정말 매혹되고 말았습니다. 그 곡이 지닌 이상한 힘은, 듣는 사람을 감동시키고야 맙니다. 그것은 보기 드물게 훌륭한 작품입니다. 장엄하고 시적인 그 음악에는 사람들을 흥분하게하고 차분히 가라앉게도 하는 그 무엇이 있는 것입니다."라고 브람스에게 편지를 보내 극찬을 아끼지 않았다.
+
+빈에서 처음으로 초반부 3개의 곡만을 초연했지만, 이 때는 팀파니 주자의 잦은 실수로 결국 연주회는 실패로 돌아가고 만다. 그 이후 브레멘에서는 연주에서는 곡은 2부로 나뉘어 연주되었다. 이때에는 여섯 개의 곡이 연주되었다. 처음의 4악장과 마지막의 2악장 사이에 당시의 관습에 따라 요아힘과 그의 아내 아말리에가 헨델과 탈티니와 바하 및 슈만의 곡을 연주했다.
+
+그런데 이 무렵에 브람스의 어머니는 남편과 헤어져 혼자 살고 있다가 갑자기 중풍으로 쓰러졌다. 브람스는 급히 달려가서 식어 가기 시작한 어머니의 손과 아버지의 손을 맞잡게 해주었다. 어머니는 뜨거운 눈물을 흘렸으나 회복하지 못하고 얼마 후 이승을 하직하고 말았다. 그것은 1865년 2월 2일의 일이다. 이때 브람스는 슬픔에 잠긴 채 《독일 레퀴엠》의 일부를 이루는 구슬픈 선율을 착상했던 것이다. 요아힘은 이 멜로디를 격찬하여 '지극한 효성에 의해 이토록 아름답게 승화된 고상한 작품은 지금까지 없었다'고 말했다는 것이다.
+
+== 곡의 구성 ==
+{{{#!html
+<div align=center><object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/MAnUk6MxXQ0?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/MAnUk6MxXQ0?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object> }}}
+
+동영상은 1분 25초부터 보면 된다.
+{{{#!html
+</div> }}}
+
+ * '''제1곡''': Selig sind, die da Leid tragen (될 수 있는 대로 느리게, 표정을 붙여서)
+ 가사는 [[마태오 복음서]] 5장 4절과 [[시편]] 제126편의 5~6절 순이다. 침울하고 신비한 악장이다. 아래 가사는 모두 [[wiki:"성경/번역" 공동번역성서]]에서 발췌된 것.
+ ||<tablewidth=100%>||<width=50%><^|1>Selig sind, die da Leid tragen,[[BR]]denn sie sollen getröstet werden.[[BR]][[BR]]Die mit Tränen säen,[[BR]]werden mit Freuden ernten.[[BR]]Sie gehen hin und weinen[[BR]]und tragen edlen Samen,[[BR]]und kommen mit Freuden[[BR]]und bringen ihre Garben.||<width=50%><^|1>슬퍼하는 사람은 행복하다.[[BR]]그들은 위로를 받을 것이다.[[BR]][[BR]]눈물을 흘리며 씨뿌리는 자,[[BR]]기뻐하며 거두어들이리라.[[BR]]씨를 담아 들고[[BR]]울며 나가는 자,[[BR]]곡식단을 안고서[[BR]]노랫소리 흥겹게 들어오리라.||
+
+ * '''제2곡''': Denn alles Fleisch, es ist wie Gras (느리게, 행진곡풍으로)
+ 가사는 베드로의 첫째 서간 1장 24절, 야고보 서간 5장 7절, 베드로의 첫째 서간 1장 24절, [[이사야]]서 35장 10절 순이다.
+ ||<tablewidth=100%>||<width=50%><^|1>Denn alles Fleisch, es ist wie Gras[[BR]]und alle Herrlichkeit des Menschen[[BR]]wie des Grases Blumen.[[BR]]Das Gras ist verdorret[[BR]]und die Blume abgefallen.[[BR]][[BR]]So seid nun geduldig, liebe Brüder,[[BR]]bis auf die Zukunft des Herrn.[[BR]]Siehe, ein Ackermann wartet[[BR]]auf die köstliche Frucht der Erde[[BR]]und ist geduldig darüber,[[BR]]bis er empfahe den Morgenregen und Abendregen.[[BR]]So seid geduldig.[[BR]][[BR]]Aber des Herren Wort bleibet in Ewigkeit.[[BR]][[BR]]Die Erlöseten des Herrn werden wiederkommen,[[BR]]und gen Zion kommen mit Jauchzen;[[BR]]Freude, ewige Freude,[[BR]]wird über ihrem Haupte sein;[[BR]]Freude und Wonne werden sie ergreifen,[[BR]]und Schmerz und Seufzen wird weg müssen.||<width=50%><^|1>모든 인간은 풀과 같고[[BR]]인간의 영광은[[BR]]풀의 꽃과 같다.[[BR]]풀은 마르고[[BR]]꽃은 떨어진다.[[BR]][[BR]]그러므로 형제여,[[BR]]주님께서 오실 때까지[[BR]]참고 기다려라.[[BR]]농부는 땅이[[BR]]귀중한 소출을 낼 때까지[[BR]]끈기 있게[[BR]]가을비와 봄비를[[BR]]기다린다.[[BR]][[BR]]하지만 주님의 말씀은 영원히 살아 있다.[[BR]][[BR]]주님께서 되찾으신 사람이 이 길을 걸어[[BR]]시온 산으로 돌아오며 흥겨운 노래를 부르리라.[[BR]]그들의 머리 위에선[[BR]]끝없는 행복이 활짝 피어나고[[BR]]온몸은 기쁨과 즐거움에 젖어들어[[BR]]아픔과 한숨은 간데없이 스러지리라.||
+
+ * '''제3곡''': Herr, lehre doch mich (Andante moderato)
+ 가사는 [[시편]] 제39편 5-8절, 지혜서 3장 1절 순이다.
+ ||<tablewidth=100%>||<width=50%><^|1>Herr, lehre doch mich,[[BR]]daß ein Ende mit mir haben muß.[[BR]]und mein Leben ein Ziel hat,[[BR]]und ich davon muß.[[BR]]Siehe, meine Tage sind[[BR]]einer Hand breit vor Dir,[[BR]]und mein Leben ist wie nichts vor Dir.[[BR]][[BR]]Ach wie gar nichts sind alle Menschen,[[BR]]die doch so sicher leben.[[BR]]Sie gehen daher wie ein Schemen[[BR]]und machen ihnen viel vergebliche Unruhe;[[BR]]sie sammeln und wissen nicht,[[BR]]wer es kriegen wird.[[BR]]Nun Herr, wes soll ich mich trösten? [[BR]][[BR]]Ich hoffe auf Dich.[[BR]][[BR]]Der Gerechten Seelen sind in Gottes Hand[[BR]]und keine Qual rühret sie an.||<width=50%><^|1>주님, 알려주소서.[[BR]]며칠이나 더 살아야[[BR]]이 목숨이 멈추리이까?[[BR]]내 목숨 얼마나 덧없는 것인지 알고 싶사옵니다.[[BR]]아옵니다. 나의 세월을[[BR]]한 뼘 길이로 만드셨고,[[BR]]내 목숨, 당신 앞에서 아무것도 아님을.[[BR]][[BR]]머리를 들어봤자 사람은 모두 한낱 입김에 지나지 않는 것임을.[[BR]]걸어다닌다지만, 실상은 그림자,[[BR]]재물을 쌓아도 그것은 한낱 입김에 지나지 않으며[[BR]]그 차지할 자 누구일지 모르는 것을.[[BR]]그러니, 나의 주여, 이제 무엇을 바라고 살리이까? [[BR]][[BR]]당신 외에 또 누구를 믿으리이까? [[BR]][[BR]]의인들의 영혼은 하느님의 손에 있어서[[BR]]아무런 고통도 받지 않을 것입니다.||
+
+ * '''제4곡''': Wie lieblich sind Deine Wohnungen, Herr Zebaoth! (Con moto moderato)
+ 가사는 시편 제84편 2-3절과 5절이며, 하늘 나라의 천사 노래 소리와 평화의 찬가가 높이 불려진다. 
+ ||<tablewidth=100%>||<width=50%><^|1>Wie lieblich sind Deine Wohnungen,[[BR]]Herr Zebaoth! [[BR]]Meine Seele verlanget und sehnet sich[[BR]]nach den Vorhöfen des Herrn;[[BR]]Mein Leib und Seele freuen sich[[BR]]in dem lebendigen Gott.[[BR]]Wohl denen, die in Deinem Hause wohnen,[[BR]]die loben Dich immerdar.||<width=50%><^|1>만군의 주님, 계시는 곳[[BR]]그 얼마나 좋으신가! [[BR]]주님의 성전 뜰 안을 그리워하여[[BR]]내 영혼이 애타다가 지치옵니다.[[BR]]나의 마음 나의 이 몸이[[BR]]살아 계신 하느님께 기쁜 소리 지르옵니다.[[BR]]당신 집에 사는 사람, 복되오니[[BR]]길이길이 당신을 찬미하옵니다.||
+
+ * '''제5곡''': Ihr habt nun Traurigkeit (Andante)
+ 가사는 [[요한 복음서]] 16장 22절, 이사야서 66장 13절, 집회서 51장 27절 순. 이 악장은 다른 악장이 완성된 다음 해에 함부르크에서 써서 덧붙인 것이다.
+ ||<tablewidth=100%>||<width=50%><^|1>Ihr habt nun Traurigkeit;[[BR]]aber ich will euch wiedersehen,[[BR]]und euer Herz soll sich freuen,[[BR]]und eure Freude soll niemand von euch nehmen.[[BR]][[BR]]Ich will euch trösten,[[BR]]wie einen seine Mutter tröstet.[[BR]][[BR]]Sehet mich an: Ich habe eine kleine Zeit[[BR]]Mühe und Arbeit gehabt[[BR]]und habe großen Trost gefunden.||<width=50%><^|1>지금은 너희도 근심에 싸여 있지만[[BR]]내가 다시 너희와 만나게 될 때에는[[BR]]너희의 마음은 기쁨에 넘칠 것이며[[BR]]그 기쁨은 아무도 빼앗아가지 못할 것이다.[[BR]][[BR]]어미가 자식을 달래듯이[[BR]]내가 너희를 위로하리라.[[BR]][[BR]]눈을 바로 뜨고 보아라.[[BR]]내가 얼마나 적은 노력으로[[BR]]큰 평화를 얻었는가를!||
+
+ * '''제6곡''': Denn wir haben hie keine bleibende Statt (Andante)
+ 가사는 히브리 서간 13장 14절, 코린토 첫째 서간 15장 51~52, 54~55절, [[요한묵시록]] 4장 11절. 라틴어에 의한 레퀴엠의 [[wiki:"Dies irae" 디에스 이레]]에 해당한다.
+ ||<tablewidth=100%>||<width=50%><^|1>Denn wir haben hie keine bleibende Statt,[[BR]]sondern die zukünftige suchen wir.[[BR]][[BR]]Siehe, ich sage Euch ein Geheimnis: [[BR]]Wir werden nicht alle entschlafen,[[BR]]wir werden aber alle verwandelt werden;[[BR]]und dasselbige plötzlich in einem Augenblick,[[BR]]zu der Zeit der letzten Posaune.[[BR]][[BR]]Denn es wird die Posaune schallen[[BR]]und die Toten werden auferstehen unverweslich;[[BR]]und wir werden verwandelt werden.[[BR]]Dann wird erfüllet werden das Wort,[[BR]]das geschrieben steht.[[BR]]Der Tod ist verschlungen in den Sieg.[[BR]]Tod, wo ist dein Stachel? [[BR]]Hölle, wo ist dein Sieg? [[BR]][[BR]]Herr, Du bist würdig[[BR]]zu nehmen Preis und Ehre und Kraft,[[BR]]denn Du hast alle Dinge erschaffen,[[BR]]und durch Deinen Willen haben sie das Wesen[[BR]]und sind geschaffen.||<width=50%><^|1>이 땅 위에는 우리가 차지할 영원한 도성이 없습니다.[[BR]]우리는 다만 앞으로 올 도성을 바라고 있을 뿐입니다.[[BR]][[BR]]내가 이제 심오한 진리 하나를 말씀 드리겠습니다.[[BR]]우리는 죽지 않고 모두 변화할 것입니다.[[BR]]마지막 나팔 소리가 울릴 때에[[BR]]순식간에 눈 깜빡할 사이도 없이[[BR]]죽은 이들은 불멸의 몸으로 살아나고[[BR]]우리는 모두 변화할 것입니다.[[BR]][[BR]]이 썩을 몸이 불멸의 옷을 입고[[BR]]이 죽을 몸이 불사의 옷을 입게 될 때[[BR]]성서 말씀이 이루어질 것입니다.[[BR]]"승리가 죽음을 삼켜버렸다.[[BR]]죽음아, 네 승리는 어디 갔느냐?[[BR]]죽음아, 네 독침은 어디 있느냐?"[[BR]][[BR]]주님이신 우리 하느님은[[BR]]영광과 영예와 권능을 누리실 만한 분이십니다.[[BR]]주님께서는 모든 것을 창조하셨고[[BR]]만물이 주님의 뜻에 의해서 생겨났고[[BR]]또 존재합니다.||
+
+ * '''제7곡''': Selig sind die Toten, die in dem Herrn sterben (Maestoso)
+ 가사는 [[요한묵시록]] 14장 13절. 죽은 이는 영원한 휴식으로 들어가고, 승천한 사람들의 행복을 기원한다.
+ ||<tablewidth=100%>||<width=50%>Selig sind die Toten,[[BR]]die in dem Herrn sterben,[[BR]]von nun an.[[BR]]Ja, der Geist spricht,[[BR]]daß sie ruhen von ihrer Arbeit;[[BR]]denn ihre Werke folgen ihnen nach.||<width=50%>"이제부터는[[BR]]주님을 섬기다가[[BR]]죽는 사람들이 행복하다."[[BR]]성령께서 말씀하셨습니다. "옳은 말이다.[[BR]]그들은 수고를 그치고 쉬게 될 것이다.[[BR]]그들의 업적이 언제나 남아 있기 때문이다."||

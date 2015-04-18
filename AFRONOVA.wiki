@@ -1,0 +1,98 @@
+[[목차]]
+
+== 개요 ==
+[[댄스 댄스 레볼루션]] 시리즈의 곡으로 작곡은 [[NAOKI]]가 RE-VENGE라는 명의를 써서 작곡했다. 국내한정 별칭 앞으로누워봐.
+
+== AFRONOVA ==
+attachment:afronova.jpg
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/3m-KPFcoqxY&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3m-KPFcoqxY&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 5}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#green 13}}} || {{{#purple -}}} ||
+||<|3> 200|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 8}}} || {{{#red 9}}} || {{{#green 13}}} || {{{#purple -}}} ||
+
+첫 등장은 DDR 3rd. 당시 국내 댄스게이머들에게 bpm 200이라는 강렬한 속도로 어필하였다. 바로 이전 DDR시리즈에 bpm 200짜리 곡이 없는것도 아니었고 이미 260짜리 곡이 있었지만.[* [[댄스 댄스 레볼루션 솔로]] 시리즈에 있다. PARANOiA Evolution이 bpm 200이었고 [[DROP OUT]]은 bpm 260이라는 당시로서는 충격적인 BPM을 들고 나왔다. 이 두 곡은 4thMIX에서 본가 시리즈로 이식되었으나, 4thMIX는 국내에 발매되지 않았다.] 국내에서 사실상 DDR 솔로를 접할 수 없었던 당시 DDR 유저들에게는 bpm 200이라는 것만으로도 강렬한 인상을 주기에 충분했다.
+
+SSR(현행 익스퍼트난이도) 채보는 달리기를 강조하였고 테크닉적인 측면에서는 약간의 허리돌리기가 포함되어있는 체력을 많이 요하는 구성이었다. 마지막에 둥둥둥거리는 소리와 함께나오는 엇박 동시밟기의 마무리가 압권.
+
+악곡 측면에서는 제목 그대로 아프리카 토속 타악기 샘플링을 충분히 활용한 역동적인 타악음과 중간중간에 들리는 아프리카 원주민 함성 샘플링이 특징이다. 이 샘플링들은 간혹 [[몬데그린]]의 소재로 쓰이기도 하였다. 또한 이 이후로 나오키가 제3세계 및 각종 세계의 전통음악을 특징으로 삼은 오리지널곡을 작곡할때 RevenG(곡에 따라 약간의 차이가있음)라는 명의를 쓰게된다.[* 이후의 예를 들자면 오키나와를 소재로 한 ORION.78, 스코틀랜드 백파이프 음을 소재로한 [[bag]], 일본의 아와오도리를 소재로한 [[祭 JAPAN]], 일본 전통의 샤미센 연주가 일품인 [[TSUGARU]], 중동풍의 [[Arrabbiata]], 역시 일본 전통 악기를 소재로 한 [[wiki:"桜(비마니 시리즈)" 桜]] 등.]
+
+attachment:afronova2.jpg
+attachment:afronovagosomi.jpg
+
+과거 BG 이미지가 현재 교체됐는데 이 사진의 [[리즈 위더스푼]]의 포즈를 그대로 [[트레이싱]] 한 것. [[고소미]] 먹어도 할말 없을 정도였다.
+
+=== AFRONOVA (FROM NONSTOP MEGAMIX) ===
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/XibvVsinemk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 10}}} ||
+||<|3> 200|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 10}}} ||
+
+DDRMAX2에 논스톱 메가믹스에 실린 버전을 편집한 버전이 수록되었다. OST에서의 부제는 B4 ZA BEAT REMIX. 첫 수록 당시엔 챌린지모드에만 있었다가 EXTREME부터는 통상곡으로 해금. 챌린지 채보를 제외한 나머지 채보가 없는것도 이 때문이다.
+
+== AFRONOVA Primeval ==
+attachment:afronovaPrimeval.jpg
+=== 댄스 매니악스 ===
+이후 [[댄스 매니악스]]에서 AFRONOVA Primeval이라는 제목의 자체 어레인지가 뜬다[* 이때의 명의는 8bit] 작곡자의 명의처럼 원곡보다 8비트 박자로 뿜어져 나오는 리듬감을 강조하였으며 초반의 강렬한 8비트 베이스음은 은근슬쩍 개버 느낌도 든다. 원곡보다 더 많이 [[BEMANI 시리즈]]에 이식되었다.
+
+이 곡은 바로 댄스매니악스 1st의 보스곡으로 등극했다.
+
+=== [[댄스 댄스 레볼루션]] ===
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple -}}} ||
+||<|3> 200|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 7}}} || {{{#red 9}}} || {{{#green 13}}} || {{{#purple -}}} ||
+
+DDR 5th로도 역이식되어서 해당 시리즈의 보스곡을 차지한다.
+
+=== [[비트매니아]] ===
+[[비트매니아]] 7th MIX에 이식되어 재미있는 보면 배치로 호평을 받았다.
+
+=== [[팝픈뮤직]] ===
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/JV3Qz1hkGZc" frameborder="0" allowfullscreen></iframe>
+}}}
+EX 영상
+
+||
+種としての魂を鼓舞される熱きトライバルテクノ！！自然に踊りたくなっちゃうかもよ！？
+종으로써의 영혼을 고무시키는 뜨거운 트라이벌 테크노!! 자연스럽게 춤추고 싶게 될지도!?
+||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 9[[br]](ee'MALL) || TRIBAL[[br]]트라이벌 || AFRONOVA PRIMEVAL[[br]]아프로노바 프라이머블 || 8-bit || AFRO ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 200 || 43단계 || {{{#blue 9}}} || {{{#green 19}}} || {{{#orange 29}}} || {{{#red 35}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 25}}} || {{{#orange 35}}} || {{{#red 41}}} ||
+|||| 노트수 || {{{#blue 278}}} || {{{#green 392}}} || {{{#orange 621}}} || {{{#red 789}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+[[팝픈뮤직]] 9에서 [[ee'MALL]]을 통해 이식되었다. 14 FEVER에서 통상해금되었다.
+ 
+=== [댄스 에볼루션]] ===
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/or6j-a-mzEg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+XBOX360으로 나온 [[댄스 에볼루션]]에서도 원곡이 아닌 이 버전이 수록되었을 정도. 댄스 에볼루션 버전은 원시적인(...) 느낌을 잘 살린 토속 댄스로 많은 화제를 일으키기도 했다. 
+
+[[각주]]

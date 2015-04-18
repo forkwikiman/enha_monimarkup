@@ -1,0 +1,50 @@
+
+
+[[목차]]
+
+http://3.bp.blogspot.com/-vSu2-1UzFnM/T9FsurnxPvI/AAAAAAAARVg/PIYXkU0lS5A/s1600/YB-49+Flying+Wing+42-102367+1.jpg?width=400
+YB-49 폭격기
+attachment:/imgflyingwing.jpg?width=400
+B-2 폭격기
+
+== 개요 ==
+全翼機, Flying wing aircraft. 항공기 전체가 날개꼴인 형상의 항공기를 의미하는 용어. 기본적으로 동체와 주익이 구분되지 않고 일체화 되어 있으며, 꼬리 날개 등의 부착물도 작거나 없는 항공기도 많다. 다만 이는 전익기의 필수적인 요소는 아니다. 수평, 수직 안정판 정도가 존재하는 경우는 의외로 흔하고 가동면을 포함한 경우도 있다.
+
+이러한 전익기는 기체 전체로 양력을 얻으며, 동체 등 공기역학적으로 불리한 요소가 적기 때문에 일반적인 비행기보다 비행에 유리하고 장거리 이동에 적합한 등 여러 장점을 지닌다. 때문에 비행기 개발 초기부터 연구되어 왔던 형태이나, 직진성에 비해 회전 제어가 어려운 점이 있어 실제 제작된 형태는 많지 않은 편이었다. 하지만 현대에 들어 컴퓨터를 이용한 제어가 발전하면서 B-2 폭격기나 무인스텔스기의 디자인으로 쓰이고 있다.
+
+한국에서는 전익기라는 공식적 명칭 외에도 "가오리 형태" "가오리형 디자인" 이라고도 지칭한다. 
+일례로 [B-2]의 경우도 [밀덕]이나 [항덕]들은 "'''검은 [가오리]'''" "가오리 폭격기" 등의 애칭을 붙이기도 했다. 또한 실제로 한국의 언론과 방송 뉴스 등에서도 키리졸브 합동훈련 등에 참가한 B-2의 소식을 보도하거나 소개를 할때, 대부분 "가오리 모양의 폭격기"라고 표현한다. [http://news.kbs.co.kr/news/NewsView.do?SEARCH_NEWS_CODE=2634486 사례1] [http://imnews.imbc.com/replay/2013/nwtoday/article/3257158_12391.html 사례2] [http://news.ichannela.com/politics/3/00/20130328/54051656/1 사례3] [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=057&aid=0000211736 사례4] [http://news.tv.chosun.com/site/data/html_dir/2013/03/28/2013032890144.html 사례5]
+또한, [북한 무인기 추락사건] 중 파주와 삼척에서 발견된 무인기도 전익기였는데, 군에서도 "'''레이더 전파에 잡히는 면적을 줄이기 위한 가오리형 디자인'''" 이라고 특이사항을 등록했다. 하기사 전익기들이 날개와 동체가 일체된 특이한 형상이어서 가오리연이나 쥐가오리 같은 느낌을 주는 게 사실이긴 하다. 
+== 현실에서의 전익기 ==
+ * [[B-2]]
+ * [[YB-49]]
+ * [[YB-35]]
+ * [[Ho229]]
+ * [[XF5U 플라잉 팬케이크]]
+ * [[XP-79]]
+== 변형 ==
+=== 동체익기(Body Wing) ===
+http://3.bp.blogspot.com/-yPG8Gd-NkDE/UTy2_e4EwsI/AAAAAAAAR-M/hT7L3xbMdpQ/s1600/x48b1.jpg?width=400
+구글에 B-797이라고 검색하면 나오는 합성사진
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/X-48B_from_above.jpg/300px-X-48B_from_above.jpg
+보잉의 실험기체인 X-48B
+
+기존의 항공기와 전익기의 중간 형태로, 동체와 날개가 일단은 분리되어 있으나 동체로도 상당한 양의 양력을 얻는 형태이다. 이론상으로 비슷한 크기의 일반적인 항공기보다 2배 이상의 수송 능력을 기대할 수 있다고 한다.
+
+=== Lifting Body ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/X-24b-flying.jpg/300px-X-24b-flying.jpg
+X-24
+http://upload.wikimedia.org/wikipedia/en/d/d6/OrbitalSpacePlaneInOrbit600x597-cropped.jpg
+우주왕복선 프로메테우스의 구상도
+
+날개라고 할 만한 별도의 구조물 없이 동체의 형상에 의한 양력만으로 비행하는 형태의 항공기. 단면적이 적어 공기저항이 극도로 적으며, 이 때문에 초고속 항공기나 재돌입시 공기저항이 문제가 되는 우주왕복선 기체의 구조로 개발되고 있다.
+
+== 가상매체에서의 전익기 ==
+ * [[에반게리온]] 수송기
+ * [[헤일로]] - [[롱소드]] 전투기
+ * [[Warhammer 40,000]] - [[타우(Warhammer 40,000)]]의 항공기[* 정확히는 완전한 전익기 보다는 동체익기 쪽에 더 가깝다.]
+  * [[바라쿠다]]
+  * [[타이거 샤크]]
+  * [[만타]]
+ * ~~[[Warhammer 40,000]] - [[젠취]]의 [[스크리머 오브 젠취]]~~(...)
+

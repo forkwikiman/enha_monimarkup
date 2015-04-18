@@ -1,0 +1,55 @@
+ * 상위 항목 : [[폴아웃 택틱스]]
+[[목차]]
+== 개요 ==
+[[폴아웃 택틱스]]의 투척류 무기 중 [[수류탄]] 계열을 설명하고 있는 페이지이다.
+투척류 무기는 투척에 AP6을 소모한다.
+
+== 무기 일람 ==
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/7/74/Molotovcocktail.gif?version=15ddbd3afe3edea7ba35072328c97e6f
+ * [[화염병]]
+>> 던지면 불이 붙는 일종의 사제 수류탄이다.
+ 공격력 8 - 20 / 사거리 18 / 요구 힘 1 / 무게 1 pounds
+ 화염 속성 공격, 일정 확률로 적을 넘어뜨린다.
+
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/b/b8/Flash_grenade.gif?version=f56d1f2caebcea669c9f0f5f8f93dcea
+ * 섬광 수류탄
+>> 효과 범위에 있는 생물이 일시적으로 정신을 잃게 만든다.
+ 공격력 3 - 9 / 폭발 범위 5 / 사거리 15 / 요구 힘 4 / 무게 1 pounds
+ 일정 확률로 적을 마비시킨다.
+
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/a/a0/Grenadefrag.gif?version=e4237f46186f5e62352e446d0cc6ca88
+ * 수류탄 (파편)
+>> 일반적인 파편 수류탄이다. 부딪히면 즉시 폭발한다.
+ 공격력 30 - 50 / 폭발 범위 5 / 사거리 15 / 요구 힘 4 / 무게 1 pounds
+ 폭발 속성 공격, 관통력 +15%, 일정 확률로 적을 넘어뜨린다.
+
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/e/e1/Acid_grenade.gif?version=cc91a6fb68826a6689eb31a78e25d4db
+ * 강산 수류탄
+>> 목표물에게 대량의 강산을 쏟아낸다.
+ 공격력 30 - 60 / 폭발 범위 5 / 사거리 15 / 요구 힘 4 / 무게 1 pounds
+ 공격력 -25%, 관통력 +50%
+
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/9/9f/IncendiaryGrenadeTactics.png?version=7b62001af1e2da5b1a6f902fd58a25af
+ * 소이 수류탄
+>> 네이팜이 듬뿍 들은 대인용 수류탄.
+ 공격력 40 - 60 / 폭발 범위 5 / 사거리 15 / 요구 힘 4 / 무게 1 pounds
+ 화염 속성 공격, 관통력 +20%, 일정 확률로 적을 넘어뜨린다.
+
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/d/d5/Grenadeplasma.gif?version=eebd43b043f692c60aacfe5b06fc2772
+ * 플라즈마 수류탄
+>> 자력으로 봉인된 플라즈마 용기와 폭약으로 구성된 수류탄으로, 착탄하면 초고온의 플라즈마를 방출한다.
+ 공격력 40 - 90 / 폭발 범위 5 / 사거리 15 / 요구 힘 4 / 무게 1 pounds
+ 에너지 속성 공격, 적을 방사능 오염시킨다.
+
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/a/a4/PulseGrenadeTactics.png?version=19a22a6c234dbfa6f29dbcae114c0d6d
+ * 펄스 수류탄
+>> 전자기 펄스 수류탄으로, 폭발하면 자장을 형성한다. 생명체 보다는 기계에 대해서는 절대적인 위력을 발휘한다.
+ 공격력 100 - 150 / 폭발 범위 5 / 사거리 15 / 요구 힘 4 / 무게 1 pounds
+ 전기 속성 공격, 적을 방사능 오염시킨다.

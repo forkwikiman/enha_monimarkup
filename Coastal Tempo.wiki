@@ -1,0 +1,100 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [DJMAX Portable Clazziquai Edition] ||
+|| 장르 || Up Tempo ||
+|| 작사/작곡 || [[3rd Coast]] ||
+|| 어레인지 || [wiki:"M2U"ReX] ||
+|| 랩 || JC ||
+|| 보컬 || So Fly ||
+|| 비주얼 || Zaktan(일러스트), 79c(모션) ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/yFJqkofuPms?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX]] Metro Project 수록곡으로, [DJMAX Portable Clazziquai Edition]과 [[DJMAX TECHNIKA]]에 수록되었다.
+
+약칭은 '''코템'''.
+
+>상쾌한 코러스 멜로디 라인이 인상적인 곡. 기분을 Up 시켜주는 JC의 빠른 랩과 귀에 쏙 들어오는 So Fly의 부드러운 목소리. 이것이 바로 3rd Coast 스타일!
+
+매우 밝고 신나는 분위기의 곡. 원곡은 게임 버젼 곡보다, 살짝 느린 템포를 가진 팝 스타일의 곡임에 반해, 게임 버젼은 하우스 댄스 장르 스타일로 어레인지를 하였다. 이 과정에서 곡의 BPM이 빨라졌고, Up Tempo란 장르가 붙여진 것으로 보인다.
+
+시원하고 밝고 신나는 느낌의 곡 답게, BGA도 바닷가를 배경으로한, 그야말로 시원하게 노는 남녀의 모습을 가지고 있다. 중간 스크래치음 부분에서는 역시 비주얼에도 스크래치를 마구 돌려주는 비주얼이 나와주어야 제 맛.
+
+== [DJMAX Portable Clazziquai Edition] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/FczWzsYmbAI" frameborder="0" allowfullscreen></iframe>}}}
+
+(5B HD)
+
+DMP CE에선 어렵지 않은 난이도로 초보자들이 자주 선곡하는 곡중 하나. 스크래치를 돌리는 손맛이 의외로 장난 아니다.
+다만 하드 난이도에서 마지막 부분의 엇박자가 초보자들에겐 고난의 행군(..)
+
+== [DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/_jWPu3nv6Gw" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴(테크니카 1 기준 SP)
+
+DJMAX TECHNIKA에서의 난이도는 LP 4, PP 6, TP 7, SP 7. LP채보의 경우 큰 특징이 있지는 않지만, PP와 TP채보의 경우는 이 곡 특유의 엇박 채보가 두드러진 곡이다. PP패턴과 TP패턴 모두 8박 스크롤로 타임라인의 속도는 상당히 느리지만, 곡의 웬만한 [[키음]]은 다 들어가 있어.. TP의 경우는 [[Sweet Shining Shooting Star]] 못지 않은 노트로 화면 뒤덮기가 펼쳐진다. 
+
+PP와 TP모두 표기 난이도에 비해 살짝 어렵다는 평. 또한, 중간의 스크래치 부분은 길쭉하고 구불구불한 연결형 노트들로 나오는데.. PP던지 TP던지 이 곡의 박자를 잘 알고 아주 익숙하지 않은 이상 콤보를 잇기 힘든 편이다. TP패턴의 경우 맨 마지막 보라노트에서 인식오류도 잘 발생하는 쉽지 않은 곡. 
+
+SP패턴의 경우는 DJMAX CE의 확장판을 설치할 경우 나오는 RD버젼으로 만들어졌다. 노트 자체는 TP보다 복잡한 편이지만, SP는 TP와는 달리 스크롤 속도가 빨라진 4박 스크롤로 나오기 때문에 오히려 TP보다 플레이 자체는 훨씬 수월해졌다는 평.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || 5 || 8박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 5 || 8박 스크롤 || [wiki:"HyperTechnician"미션 - Seismometer] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 6 || 8박 스크롤 || ※[지뢰곡] ||
+||<#FF0000> Maximum || B || 200 Max || 7 || 4박 스크롤 ||  [wiki:"Labyrinth(DJMAX)"미션 - RainDrop] 수록 ||
+
+이후로는 노멀, 하드패턴의 레벨이 1씩 하락하였다.
+
+== [TAP SONIC] ==
+
+[[TAP SONIC]]에서는 이 스크래치음을 슬라이딩 구간으로 시원하게 구현해냈다! 8레벨 중에서도 쉬운 편이니 가벼운 마음으로 플레이할 수 있다.
+
+== 가사 ==
+
+아래는 가사이다.
+
+Let me set the mode, Let me take Control
+Let me top off the box I rock the spot
+With an ounce of Hip-Hop I top the charts
+Ripping house music I know y'all so shocked
+
+So Flexible withe the beats and the rhymes
+No Tempo can defeat I got mine
+So sick with it, holding juice stay commited
+Let me introduce the DJ back in the cut
+
+Run break that's the mode
+Let's pump breaks higher flow
+Run with a wicked team,
+I flip the scene
+That voice so cripsy clean
+Now welcome back to the DJMAX
+3rd Coast, illec is so so fresh
+
+Don't you want a night to remember
+I can feel the music pressure
+When the DJ Puts on the record
+I can call it a day
+Let no on keep you down baby stand up
+Groove and let your body move it
+Never lose yourself carry on baby
+Don't let go just feel it yeah
+
+DJ illec on the ones and twos
+JC on the mic straight keepin'it old school
+Yeah cut the wax, flow show finesse
+3rd Coast, illec is so so fresh
+
+Let no keep you down baby stand up
+Let no keep you down baby stand up
+Let no keep you down baby stand up
+Let no keep you down down down down

@@ -1,0 +1,18 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX 온라인]] ||
+|| 장르 || Disco ||
+|| 작곡 || [[M2U]] ||
+|| 보컬 || Pfull ||
+|| 랩 || Hani ||
+|| [[BPM]] || 130 ||
+|| 비주얼 || TARI ||
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|71276657/20071221121200336776571001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|71276657/20071221121200336776571001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+
+[[DJMAX 온라인]] 클로즈 베타테스트 시기에 추가되었던 곡. [[Sweet Love]]와 함께 추가된 [[M2U]]의 [[DJMAX 시리즈]] 데뷔곡. 당시에는 적당한 난이도로 나름대로 플레이되던 곡이었으나, 이후 M2U의 곡을 포함한 여러 인기곡들이 등장하였고, 이 곡은 DJMAX 온라인 외의 타 DJMAX 시리즈로 이식되지 않았기 때문에 지금은 거의 잊혀진 곡. Sweet Love와 더불어 정말 초창기 M2U의 작품을 들어볼 수 있는 의미 정도는 가지고 있다. 다만 유치하다는 평가가 많은 Sweet Love보다는 이쪽이 그나마 평이 좋은 편.
+
+등장 당시에는 [[비트매니아 IIDX]] 6th의 [[Mr.T]]의 곡 'Free Style'과 유사하다는 의혹이 꽤 많았다.
+
+보컬 항목에 표기된 Pfull의 경우 연예기획사인 Pfull 엔터테인먼트사에 소속된 누군가의 보컬이기 때문이라고. 랩의 경우에는 [[Memory of Beach]]의 랩을 맡은 Hani가 피처링 해주었다.

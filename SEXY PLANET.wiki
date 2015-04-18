@@ -1,0 +1,64 @@
+[[목차]]
+
+== 원곡 ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/Mjkzobziu7E" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 3}}} || {{{#orange 7}}} || {{{#red 8}}} || {{{#green 11}}}  ||
+||<|3> 180|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| - || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 10}}}  ||
+
+|||||||||||||||||| GROOVE RADAR 수치 ||
+|| 싱글 || {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| STREAM[[br]]全体密度 || {{{#blue 19}}} || {{{#orange 64}}} || {{{#red 66}}} || {{{#green 86}}} ||
+|| VOLTAGE[[br]]最大密度 || {{{#blue 22}}} || {{{#orange 58}}} || {{{#red 58}}} || {{{#green 66}}} ||
+|| AIR[[br]]ジャンプ度 || {{{#blue 0}}} || {{{#orange 38}}} || {{{#red 72}}} || {{{#green 54}}} ||
+|| FREEZE[[br]]踏みっぱ度 || {{{#blue 0}}} || {{{#orange 0}}} || {{{#red 0}}} || {{{#green 0}}} ||
+|| CHAOS[[br]]変則度 || {{{#blue 0}}} || {{{#orange 4}}} || {{{#red 10}}} || {{{#green 29}}} ||
+|||| 더블 || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| STREAM[[br]]全体密度 || || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+|| VOLTAGE[[br]]最大密度 || || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} || 
+|| AIR[[br]]ジャンプ度 || || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+|| FREEZE[[br]]踏みっぱ度 || || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+|| CHAOS[[br]]変則度 || || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+
+댄싱 스테이지 featuring TRUE KiSS DESTiNATiON 의 수록곡. 작곡가는 [[NAOKI]]. 보컬은 Crystal Aliens로, 여기서는 보컬 명의를 썼다. [[댄스 댄스 레볼루션]] Solo 2000과 4th에 이식. 
+
+== SEXY PLANET (FROM NONSTOP MEGAMIX) ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/oX57nrT8aYM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}}  || {{{#purple '''8'''}}} ||
+||<|3> 180|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| - || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}}  || {{{#purple '''8'''}}} ||
+
+|||||||||||||||||| GROOVE RADAR 수치 ||
+|| 싱글 || {{{#purple CHALLENGE}}} ||
+|| STREAM[[br]]全体密度 || {{{#purple 60}}} ||
+|| VOLTAGE[[br]]最大密度 || {{{#purple 60}}} ||
+|| AIR[[br]]ジャンプ度 || {{{#purple 87}}} ||
+|| FREEZE[[br]]踏みっぱ度 || {{{#purple 22}}} ||
+|| CHAOS[[br]]変則度 || {{{#purple 7}}} ||
+|| 더블 || {{{#purple CHALLENGE}}} ||
+|| STREAM[[br]]全体密度 || {{{#purple 50}}} ||
+|| VOLTAGE[[br]]最大密度 || {{{#purple 60}}} ||
+|| AIR[[br]]ジャンプ度 || {{{#purple 67}}} ||
+|| FREEZE[[br]]踏みっぱ度 || {{{#purple 31}}} ||
+|| CHAOS[[br]]変則度 || {{{#purple 3}}} ||
+
+Solo 2000의 논스톱 메가믹스를 편집한 버전이 DDRMAX2에 챌린지 모드 전용곡으로 수록되었다. EXTREME부터는 일반곡. OST에서의 부제는 MOMO REMIX. 원곡보다 훨씬 신나는 리듬으로 리믹싱된것이 특징.
+
+이 곡의 레벨은 8인데, 문제는 이게 '''SuperNOVA2까지의 10레벨 체계의 7레벨에서 딱 1레벨만 오른 것'''이다(...) 싱글의 경우는 명백한 [[사기 난이도]].
+
+처음에는 BGA가 없었지만, PS2판 DDR EXTREME2에 전용 BGA가 추가되었고, 이후 아케이드에 이식되었다.

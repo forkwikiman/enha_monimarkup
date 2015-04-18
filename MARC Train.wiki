@@ -1,0 +1,36 @@
+ * [미국의 철도 환경], [미국의 커뮤터 레일 목록]
+
+||||<table align=center>|||| {{{+2 '''MARC Train'''}}} [[br]] {{{+1 Maryland Area Regional Commuter}}} ||
+|||||| '''노선도'''[* Brunswick Line 이 노선도상 빨간색으로 표시되어 있는데 범례상엔 노란색으로 표기되어 있는 오류가 있다. 감안하고 보자.] ||
+||||||attachment:marcmap.JPG?width=100%||
+|| '''사진''' |||| '''로고''' ||
+||<|100>http://4.bp.blogspot.com/-LI0bnZrgfL8/Umbx7dfEWrI/AAAAAAAAmys/C2p2cXaWYgo/s1600/MARC_24-Baltimore.jpg?width=560||||attachment:logo.jpg?width=240||
+|| '''리포팅 마크''' || MARC ||
+|| '''개업 년도''' || [1984년] ||
+|| '''소유''' || [MTA#s-3|MTA][* [뉴욕]의 그것과는 다르다. 이쪽은 Maryland Transit Administration.] ||
+|| '''영업 지역''' || [미국] [메릴랜드] 주 [볼티모어][[br]][워싱턴 D.C.] ||
+|| '''선로 궤간''' || [표준궤|1,435mm] ||
+|| '''영업 거리''' || 301km ||
+|| '''노선 수''' || 3 ||
+|| '''역 수''' || 42 ||
+|||| [http://mta.maryland.gov/marc-train] ||
+
+[미국] [메릴랜드] 주 [볼티모어]와 [워싱턴 D.C.] 광역권의 [커뮤터 레일] 시스템. [Virginia Railway Express]가 [워싱턴 D.C.] 남부를 운행한다면 이쪽은 [워싱턴 D.C.] 북부를 운행한다.
+
+[암트랙] 동북 간선상의 수많은 커뮤터 레일 운영사 중 하나로 동북 간선 포화의 주범 중 하나.[* 나머지는 [NJ Transit]과 [SEPTA], [메트로-노스 철도], [Shore Line East], [MBTA]. 그래도 워싱턴 근교 구간은 비교적 널널한 편이라 약간 나은 편.] 거기에 [델라웨어] 주 Newark까지 연장할 생각을 하고 있어 이게 완료되면 [SEPTA]와 연결되어 [뉴욕]에서 [워싱턴 D.C.]까지 [암트랙]을 타지 않고 [커뮤터 레일]만으로 가는게 가능해진다(...) 이쯤 되면 미국판 서울-부산 시내버스 완주급 기행.
+ 
+노선 운영은 [봄바르디어] 트랜스포트, [암트랙], [CSX Transportation]에 위탁하여 운행한다. 이는 [메트라]와 비슷한 형태. 다만 메트라는 BNSF랑 UP빼면 다 나가떨어져서 직영으로 운영하고 있다.
+
+차량은 Penn Line 투입 목적으로 사용하는 EMD AEM-7, [알스톰] [HHP-8] 전기 기관차와 비전화 구간 투입 용도의 EMD GP40과 MPI MP36PH를 사용한다. 객차는 단층 객차와 복층 객차의 비율이 반반 수준.
+
+== 노선 목록 ==
+모든 노선은 [워싱턴 유니언 역]을 기점으로 한다.
+ * Brunswick Line [https://mta.maryland.gov/sites/default/files/Brunswick_Jan2013.pdf|시간표]
+Martinsburg 역 - Rockville 역 - [워싱턴 유니언 역]. [봄바르디어|봄바르디어 트랜스포트]에서 위탁 운영한다.
+
+
+ * Penn Line  [http://mta.maryland.gov/sites/default/files/Quick%20Post-110613-8.5x11-1.pdf|평일 시간표] [http://mta.maryland.gov/sites/default/files/PENN-Weekend_Sched-Grid103013.pdf|주말 시간표]
+Perryville 역 - [볼티모어 펜 역] - [볼티모어 워싱턴 국제공항|BWI] 마샬 역 - [워싱턴 유니언 역]. [암트랙]의 동북 간선을 따라가는 노선으로 [암트랙]에서 위탁 운영한다. [볼티모어 워싱턴 국제공항] 에 들어가는 노선 중 하나. 세 노선 중 가장 이용객 수, 운행 빈도가 높다.
+
+ * Camden Line[* [뉴저지]의 [캠든]과는 다른 곳이다.] [https://mta.maryland.gov/sites/default/files/Camden_Jan2013.pdf|시간표]
+[볼티모어] Camden 역 - Greenbelt 역 - [워싱턴 유니언 역]. 워싱턴에서 볼티모어까지 가는 것은 똑같지만 볼티모어 펜역이 아닌 Camden역에서 종착한다. 해당 역과 볼티모어 펜 역 간 경전철이 운행 중.

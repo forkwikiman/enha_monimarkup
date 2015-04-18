@@ -1,0 +1,104 @@
+[[목차]]
+|| 장르 |||||||| Broadway Dance Pop ||
+|| 곡명 |||||||| Be My Baby ||
+|| 작곡 |||||||| [[Ruby Tuesday]] ||
+|| 작사/보컬 |||||||| Robert Brake ||
+|| 배경 |||||||| [wiki:"Lassoft" LASSOFT] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| BPM |||||||| 115 ||
+|||||||||| 모드별 레벨 데이터 (원곡) ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 5}}} || {{{#red 9}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 3}}} || {{{#red 4}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 4}}} || {{{#red 5}}} || {{{#purple 7}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 4}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 4}}} || {{{#red 7}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_ft8RyU8u8Bc$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=ft8RyU8u8Bc$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=ft8RyU8u8Bc$&playLoc=undefined'></embed></object></object>
+}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+== 개요 ==
+80년대 스타일의 팝으로, 강조된 신디사이저 베이스라인이 복고적인 분위기를 강조하는 곡이다. 지금은 난이도가 낮아서 플레아하는 것을 보기 힘들지만 2nd 당시에는 상당히 인기가 있는 곡이었다. 무엇보다 BGA가 일품이다. 날고 싶어하는 거북이의 삶의 애환과 그 꿈의 성취를 그려낸 수작. 루비 믹스에는 전용 스킨도 존재한다. 실은 BGA 제작자인 LASSOFT가 대학 졸업작품으로 만들었던 동화책(이솝우화 중 '하늘을 날고 싶은 거북이')의 구성에서 내용만 살짝 해피엔딩으로 바꿔서 만든 것. 원래 내용은 배드엔딩이다.
+
+BGA의 그 거북이는 [[슈퍼 마리오 시리즈]]의 바타바타가 떠오른다.
+
+[[원더걸스]]의 정규 2집 타이틀곡과는 상관없다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+하드 믹스는 난이도 4로 등장했지만 난이도에 비해 어렵다. 초반에 4계단이 나오더니 동시치기 계단이 나오는 구간 이후, 이제 다른거 없겠지? 하는 순간 노트 밀도 급증! 체감 난이도는 5.2정도 되니까 주의하자. 
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== Be My Baby (Funky Ver.) ==
+|| 리믹스 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 115 ||
+|||||||||| 모드별 레벨 데이터 (리믹스) ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 5}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_axs2N0-EEJ8$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=axs2N0-EEJ8$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=axs2N0-EEJ8$&playLoc=undefined'></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''리믹스 BGA'''
+
+6th에서 리믹스가 출현했지만 7th CV때 삭제되었다 BErA에서 복귀했다.
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+== 가사[* 아케이드 버전만큼의 가사만 있다.] ==
+||I was walking down the street.
+When I saw you coming by
+Thought I saw you smile at me.
+My heart is flying up high.
+
+Oh, you make me feel so fine.
+And warm me like the sunshine.
+Oh, you make me feel so good.
+I'll do the same to you.
+
+Try to feel it and free it.
+I can see it in your eyes.
+Let it and be it.
+You don't have to be afraid.
+Just be my baby.
+
+Oh you make me feel so right.
+I know that you're the one.
+
+Together we'll start our new life.
+And forever we will stay as one.
+'Cause I do love you.
+'Cause you love me too.||

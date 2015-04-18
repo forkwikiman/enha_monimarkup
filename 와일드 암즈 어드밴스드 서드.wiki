@@ -1,0 +1,49 @@
+ * 상위 문서 : [[와일드 암즈 시리즈]]
+
+와일드 암즈 어드밴스드 서드(ワイルドアームズ アドヴァンスドサード, WILD ARMS Advanced 3rd)
+와일드 암즈3, 또는 WA3라고 표기하기도 한다.
+미디어 비젼이 개발, 소니 컴퓨터 엔터테이먼트가 판매한 [[와일드 암즈 시리즈]] 3번째 작품으로 [[PS2]]로 나오는 시리즈 첫작품. 발매일은 2002년 3월 14일.
+
+시리즈 특유의 존재감을 충실히 이어받은 한편, 플랫폼이 [[플레이스테이션2]]로 이동한것에 의해 그래픽이나 시스템의 향상등 타이틀의 어드밴스드(=진화한)에 걸맞게 개량되었다.
+이번작의 테마는 「추억」으로 캐치 프레이즈는 '''…그것은 분명, 언젠가 「추억」이 되는 이야기….'''
+
+무대는 바다가 전부 사막으로 변하고 끝없는 황야가 펼쳐져있는 별 [[팔가이아]]. 
+그런 절망적인 세계에 자신의 신념만을 기대며 살아가는 [[철새]]라 불리는 모험자가 있다. 유복한 집에서 자라면서 양손에 권총을 든 황야의 철새로서 방랑하는 18세의 소녀 버지니아 맥스웰. 황야의 끝에서 알게되는 여주인공의 모험이 시작된다.
+
+전투는 크로스 파이어 시퀀스라는 시스템을 채용하고 있는데 종래의 [[RPG]]의 커맨드전투와 별로 차이는 없다. 전투중 캐릭터들이 필드 내를 자유롭게 이동하긴 하지만 직접 이동시킬수는 없고 이동해도 달리지는건 없으니 의미는 없다.
+
+필드에서는 마을이나 던전이 이미 표시되어 있지 않고 서치 시스템으로 찾아야 하는데 그냥 찾는다고 나오진 않고 스토리 진행이나 마을사람과의 대화를 통해 그 존재에 대해 들어야지만 찾을수 있다. 그런데 정확한 좌표가 나오는 경우는 별로 없어서 찾기가 좀 힘들다.(거기다가 맵에도 표시가 되지를 않아서 조낸 난감. 그나마 얼터 코드에서는 이 문제점이 개선돼서 맵에 표시가 된다.)
+
+오프닝 Advanced Wind, 중단 테마는 밤하늘밖에 몰라 ~Only The Night Sky Knows~, 엔딩은 Wings.
+참고로 오프닝은 세이브 데이터를 로드 해야지 볼수 있고 중단 테마는 세이브 후 중단한다를 선택해야 볼수 있는데 게임 진행 정도에 따라 애니메이션이 바뀌고 가사가 2절로 넘어가기도 한다. 또 16분의 1의 확률로 영어버전도 나온다.
+
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/mc8VlnVcgaA" frameborder="0" allowfullscreen></iframe>
+오프닝 1번째
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/0JJSFGyAHXI" frameborder="0" allowfullscreen></iframe>
+오프닝 2번째
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/L78_O-Yit6c" frameborder="0" allowfullscreen></iframe>
+오프닝 3번째
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/6E86S7WE-zk" frameborder="0" allowfullscreen></iframe>
+오프닝 4번째
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/40k1tkUU_uo&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/40k1tkUU_uo&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+outro
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/SkhC-RTBXN4&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SkhC-RTBXN4&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+북미판 버전 엔딩 1
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/pws059tIZKo&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pws059tIZKo&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+북미판 버전 엔딩2
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/geekJV8XwrM&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/geekJV8XwrM&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+일본판 버전 Wings
+
+}}}
+
+== 등장인물 ==
+[[와일드 암즈 시리즈/등장인물]]

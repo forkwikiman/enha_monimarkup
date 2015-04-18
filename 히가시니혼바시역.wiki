@@ -1,0 +1,80 @@
+{{{+1 東日本橋駅 / Higashi-Nihombashi Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+
+http://www.kotsu.metro.tokyo.jp/subway/stations/higashi-nihombashi/i/solid.gif
+아사쿠사선과 신주쿠선의 입체도
+
+http://www.jreast.co.jp/estation/stations/img/map/m_bakurotyou.gif
+소부쾌속선 바쿠로초역의 입체도
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 츄오구에 위치한 [[도쿄도 지하 고속전차]] [[아사쿠사선]]의 역이다. 환승이 가능한 같은 [[도쿄 도 교통국]]에서 운영하는 [[wiki:"신주쿠선(도쿄 도 교통국)" 신주쿠선]] 바쿠로요코야마역 및 [[JR 히가시니혼]] [[소부 본선]](소부 쾌속선)의 바쿠로쵸역도 이 문서에서 함께 설명한다.
+
+역 주변에는 바쿠로쵸, 요코야마쵸 등의 상점가가 위치한다.
+
+여담으로, JR의 바쿠로쵸역은 국철 시절에는 '국철에서 가장 깊은 역'이라는 스탬프를 갖고 있었다. 이 기록은 [[케이요선]] [[도쿄역]] 및 [[카이쿄선]] [[요시오카 해저역]]이 개업하면서 깨졌다.
+
+=== [도쿄도 지하 고속전차] 히가시니혼바시역 ===
+||||||||||<#e85298> {{{#ffffff 아사쿠사선}}} ||<#e85298><|4>{{{#ffffff 운영주체: 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일: 1962년 5월 31일}}} ||
+||<width=100px> [wiki:"니시마고메역" 니시마고메] 방면[[br]][wiki:"닌교쵸역" 닌교쵸][[br]](A-14) || {{{+1 ← }}} ||<width=100px> 히가시니혼바시[[br]](A-15) || {{{+1 → }}} ||<width=100px> [wiki:"오시아게역" 오시아게] 방면[[br]][wiki:"아사쿠사바시역" 아사쿠사바시][[br]](A-16) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Toei-higashi-nihombashi-platform.jpg/600px-Toei-higashi-nihombashi-platform.jpg
+아사쿠사선 히가시니혼바시역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/Image:Toei-higashi-nihombashi-platform.jpg|LERK]])
+
+[[http://www.flickr.com/photos/8203293@N03/8199577328|(사진) 아사쿠사선 히가시니혼바시역의 역명판]].
+
+상대식 승강장으로, 에어포트 쾌특이 이 역에 정차한다.
+
+==== 완급결합 ====
+||||||<#049c5e> {{{#ffffff 에어포트쾌특}}}
+||<width=100px> [wiki:"니혼바시역" 니혼바시] || {{{+1 ← }}} ||<width=100px> 히가시니혼바시 || {{{+1 → }}} ||<width=100px> [wiki:"아사쿠사역" 아사쿠사] ||
+||||||<#e8334a> {{{#ffffff 그 외　모 두}}}
+||<width=100px> [wiki:"닌교쵸역" 닌교쵸] || {{{+1 ← }}} ||<width=100px> 히가시니혼바시 || {{{+1 → }}} ||<width=100px> [wiki:"아사쿠사바시역" 아사쿠사바시] ||
+
+=== [[도쿄도 지하 고속전차]] 바쿠로요코야마역 ===
+{{{+1 馬喰横山駅 / Bakuro-Yokoyama Station}}}
+
+||||||||||<#6cbb5a> {{{#ffffff 신주쿠선}}} ||<#6cbb5a><|6>{{{#ffffff 운영주체: 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일: 1978년 12월 21일}}} ||
+||<width=100px> [wiki:"신주쿠역" 신주쿠] 방면[[br]][wiki:"이와모토쵸역" 이와모토쵸][[br]](S-08) || {{{+1 ← }}} ||<width=100px> 바쿠로요코야마[[br]](S-09) || {{{+1 → }}} ||<width=100px> [wiki:"모토야와타역" 모토야와타] 방면[[br]][wiki:"하마쵸역" 하마쵸][[br]](S-10) ||
+
+http://farm3.staticflickr.com/2262/2280833605_982d5dfec6_z.jpg
+신주쿠선 바쿠로요코야마역의 개찰구 모습. (사진 저작자 : [[http://www.flickr.com/photos/kusaker/2280833605/|eidantoei]])
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Toei-bakuroyokoyama-station-platform.jpg/600px-Toei-bakuroyokoyama-station-platform.jpg
+신주쿠선 바쿠로요코야마역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3AToei-bakuroyokoyama-station-platform.jpg|LERK]])
+
+http://farm4.staticflickr.com/3064/3054129787_6e5068bc70_z.jpg
+http://farm7.staticflickr.com/6006/5977470610_f788f03381.jpg
+신주쿠선 바쿠로요코야마역의 역명판. (사진 저작자 : (위)[[http://www.flickr.com/photos/tirol28/3054129787/|tirol28]], (아래)[[http://www.flickr.com/photos/motoshi/5977470610/|motoshi ohmori]])
+
+상대식 승강장이다. 급행이 이 역에 정차한다.
+==== 완급결합 ====
+||||||<#20b2aa> {{{#ffffff 급　　행}}}
+||<width=100px> [wiki:"진보초역" 진보초] || {{{+1  ← }}} ||<width=100px> 바쿠로요코야마 || {{{+1  → }}} ||<width=100px> [wiki:"모리시타역(도쿄)" 모리시타] ||
+||||||<#0000ff> {{{#ffffff 통근쾌속}}}
+||<width=100px> [wiki:"이와모토쵸역" 이와모토쵸] || {{{+1  ← }}} ||<width=100px> 바쿠로요코야마 || {{{+1  → }}} ||<width=100px> [wiki:"하마쵸역" 하마쵸] ||
+||||||<#0000ff> {{{#ffffff 쾌　　속}}}
+||<width=100px> [wiki:"이와모토쵸역" 이와모토쵸] || {{{+1  ← }}} ||<width=100px> 바쿠로요코야마 || {{{+1  → }}} ||<width=100px> [wiki:"하마쵸역" 하마쵸] ||
+||||||<#888888> {{{#ffffff 각역정차}}}
+||<width=100px> [wiki:"이와모토쵸역" 이와모토쵸] || {{{+1  ← }}} ||<width=100px> 바쿠로요코야마 || {{{+1  → }}} ||<width=100px> [wiki:"하마쵸역" 하마쵸] ||
+
+=== [JR 히가시니혼] 바쿠로쵸역 ===
+{{{+1 馬喰町駅 / Bakurochō Station}}}
+
+||||||||||<#ffd400> {{{#000000 소부 본선}}} ||<#3ea343><|24>{{{#ffffff 운영주체: 동일본 여객철도}}}[[br]]{{{#ffffff 개업일: 1972년 7월 15일}}} ||
+||<width=100px> [wiki:"도쿄역" 도　쿄] 방면[[br]][wiki:"신니혼바시역" 신니혼바시] || {{{+1 ← }}} ||<width=100px> 바쿠로쵸 || {{{+1 → }}} ||<width=100px> [wiki:"쵸시역" 쵸　시] 방면[[br]][wiki:"킨시쵸역" 킨시쵸] ||
+||||||||||<#000080> {{{#ffffff 소부 쾌속선·요코스카선}}} ||
+||<width=100px> [wiki:"치바역" 치　바] 방면[[br]][wiki:"킨시쵸역" 킨시쵸] || {{{+1 ← }}} ||<width=100px> 바쿠로쵸 || {{{+1 → }}} ||<width=100px> [wiki:"쿠리하마역" 쿠리하마] 방면[[br]][wiki:"신니혼바시역" 신니혼바시] ||
+
+http://farm1.staticflickr.com/87/266035459_01b8a46ec5_z.jpg
+JR 히가시니혼 바쿠로쵸역의 한 승강장 모습. (사진 저작자 : [[http://www.flickr.com/photos/twinleaves/266035459/|twinleaves]])
+
+http://farm5.staticflickr.com/4094/4939792654_988748b4d4_z.jpg
+JR 히가시니혼 바쿠로쵸역의 역명판...과 한 승객의 모습. (사진 저작자 : [[http://www.flickr.com/photos/kevinlin1013/4939792654/|今 ゆっくりと 歩いていこう]])
+
+섬식 승강장이다.
+
+여담으로, 현재 일본에서 해발 고도가 제일 낮은 역이다. [세이칸 터널] 내의 해저역 2개소가 모두 폐역 처리되며 얻어온 타이틀. 웃기게도, 원래에도 일본에서 해발 고도가 제일 낮았던 역이었지만, 1988년에 세이칸 터널이 개업하면서, 터널 내 두 개의 역 때문에 한 때 이 타이틀을 뺏기기도 했었다.
+
+[[각주]]

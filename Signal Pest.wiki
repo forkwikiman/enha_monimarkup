@@ -1,0 +1,13 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+||<tablewidth=100%> '''영어판 명칭''' ||'''Signal Pest'''||<width=230px><|6>http://www.cardkingdom.com/media/images/products/standard/137200_1.jpg?width=230px||
+|| '''한글판 명칭''' ||'''-'''||
+|| '''마나비용''' || {1} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 마법물체 생물 - Pest ||
+||||<height=188px>Battle cry''(이 생물이 공격할 때마다 다른 각 공격 생물은 턴종료까지 +1/+0을 받는다.)''[[br]]Signal Pest는 비행 능력 또는 대공 능력을 가진 생물에게만 방어될 수 있다.[[br]][[br]]''It leaps from tree to tree, revealing the enemy's positions.''||
+|| '''공격력/방어력''' || 0/1 ||
+|| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' || '''워터마크''' ||
+|| Mirrodin Besieged || 언커먼 || Mirran ||
+
+미로딘 포위전에 새로 나온 능력인 Battle cry. 쪽수가 많으면 더 아프게 때리는 능력인데 이게 [[Kuldotha Rebirth]]와 궁합이 '''몹시''' 좋아서 미로딘 포위전 출시 이후 새로운 모노레드인 시그널 고블린 덱의 키 카드가 되었다.
+게다가 두번째 능력 때문에 비행이나 대공 능력이 없으면 막을 수도 없어서 초반에는 쉽게 막히지 않는다. (다만 [[Silhana Ledgewalker]]의 예가 있듯이 이 카드 자체가 비행인건 아니기에 [[Hurricane]]에 피해를 입지 않으며 [[Earthquake]]에 피해를 입는다)

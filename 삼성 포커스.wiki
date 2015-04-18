@@ -1,0 +1,104 @@
+ * 상위 항목 : [[삼성 옴니아]]
+
+[[목차]]
+
+== 개요 ==
+[[삼성전자]]의 '''옛''' [[Windows Phone]] 7 [[스마트폰]] 라인업. [[삼성 옴니아]]의 하위 라인업으로, 미국 [wiki:"at%26t" AT&T] 전용 라인업이다.
+
+[wiki:"삼성 옴니아" 옴니아 라인업]의 폐지로 덩달아 폐지되었다.
+
+== 소속 기기 ==
+ * Focus
+ * Focus S
+ * Focus Flash
+ * Focus 2
+
+=== 삼성 Focus ===
+http://pdadb.net/img/samsung_sgh-i917_focus.jpg
+
+==== 개요 ====
+[[삼성전자]]가 2010년 10월에 공개한 [[Windows Phone]] 7 [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 QSD8250 [[SoC]]. [[Scorpion]] 1 GHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 8 GB 내장 메모리 ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RG-BG 펜타일 서브픽셀 방식의 SMD Super [[AMOLED]][[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1500 mAh ||
+||[[운영체제]]||[[Windows Phone]] 7.0 (Nodo) ||
+||규격||64.3 x 124.7 x 9.9 mm, 119.4 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+같은 시기에 공개된 [wiki:"삼성 옴니아#s-2.6" 옴니아 7]의 [wiki:"at%26t" AT&T] 전용 파생 모델정도의 사양을 가졌다.
+
+[[각주]]
+
+=== 삼성 Focus S ===
+http://pdadb.net/img/samsung_sgh-i937_focus_s_2.jpg
+
+==== 개요 ====
+[[삼성전자]]가 2011년 9월에 공개한 [[Windows Phone]] 7 [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8255T [[SoC]]. [[Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 16 GB 내장 메모리 ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 SMD Super [[AMOLED]] Plus[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11a/b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 130만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1650 mAh ||
+||[[운영체제]]||[[Windows Phone]] 7.5 (Mango) ||
+||규격||67 x 126 x 8 mm, 111 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+[wiki:"삼성 옴니아#s-2.6" 옴니아 7]의 후속으로, 전 세계에서 [wiki:"at%26t" AT&T]으로만 출시된 스마트폰이다. [[갤럭시 S II]]가 기반 모델로 보여질 정도로 비슷한 부분이 많다.[* 그런데, 뒷 면 디자인은 한국 [[LG유플러스]] 전용 [[갤럭시 S II]]와 비슷하다.] 다만, AP와 RAM의 경우 [[마이크로소프트]]의 통제를 받는 [[Windows Phone]] 7의 특성 상, [[갤럭시 S II]]보다 성능이 낮은 부품을 사용했다.
+
+당시에는 괜찮은 [[Windows Phone]] 7 [[스마트폰]] 중 하나였기 때문에 익스펜시스 코리아 등지에서 언락폰을 구매해서 한국에서 사용하는 경우도 많았다고 한다.
+
+[[각주]]
+
+=== 삼성 Focus Flash ===
+http://www.unlocked-mobiles.com/blog/wp-content/uploads/2012/01/samsung-omnia-w-i8350-blog-image.jpg
+
+==== 개요 ====
+[[삼성전자]]가 2011년 9월에 공개한 [[Windows Phone]] 7 [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8255T [[SoC]]. [[Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 8 GB 내장 메모리 ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.7인치 [wiki:"해상도/일람" WVGA](480 x 800) RG-BG 펜타일 서브픽셀 방식의 SMD Super [[AMOLED]][[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11a/b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 130만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1500 mAh ||
+||[[운영체제]]||[[Windows Phone]] 7.5 (Mango) ||
+||규격||58.8 x 115.6 x 10.9 mm, 115.3 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+포커스 S와 비슷한 시기에 공개된 하위 호환 모델이다. 글로벌 시장에는 '''옴니아 W'''라는 펫 네임으로 출시되었다.
+
+[[각주]]
+
+=== 삼성 Focus 2 ===
+http://pdadb.net/img/samsung_sgh-i667_focus_2.jpg
+
+==== 개요 ====
+[[삼성전자]]가 2012년 5월에 공개한 [[Windows Phone]] 7 [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8255T [[SoC]]. [[Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 8 GB 내장 메모리 ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RG-BG 펜타일 서브픽셀 방식의 [[삼성D]] Super [[AMOLED]][[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, [wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1750 mAh  ||
+||[[운영체제]]||[[Windows Phone]] 7.5 (Mango) ||
+||규격||62.7 x 121.7 x 11 mm, 122 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+맨 위의 포커스의 후속작이다. [wiki:"at%26t" AT&T]의 LTE를 지원하는 [[삼성전자]]의 첫 [[Windows Phone]] [[스마트폰]]이다. 이후 [[삼성 옴니아]]가 [[삼성 아티브]]로 교체되고, [wiki:"at%26t" AT&T]에서 [[아티브 S]]를 출시 함에 따라 포커스 라인업 역시 자연스럽게 폐지되었다.
+
+[[각주]]

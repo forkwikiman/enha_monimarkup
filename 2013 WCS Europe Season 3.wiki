@@ -1,0 +1,295 @@
+ * 상위항목: [스타크래프트 2/대회], [세계 챔피언십 시리즈]
+ * 이 항목은 상위 32명이 출전하는 프리미어 리그에 대해서만 다루고, ["2013 WCS Europe Season 3/Challenger League"챌린저 리그]는 하위 항목으로 분리한다.
+[[목차]]
+= 개요 =
+||<tablealign=center>|||||||||| [[세계 챔피언십 시리즈]] 유럽 디비전 ||
+|| [[2013 WCS Europe Season 2]] || → || '''2013 WCS Europe Season 3''' || → || [[2014 WCS Europe Season 1]] ||
+|||||||||| 다른 지역 보기 : [[2013 WCS Korea Season 3]], [[2013 WCS America Season 3]] ||
+ * 주최: [[블리자드 엔터테인먼트]], [[Electronic Sports League]]
+ * 리그 기간: 9월 3일 ~ 10월 6일
+ * 개막전: 1라운드 A조 1경기 [[요한 루세시]] 對 [[크리스토퍼 마틴센]]
+ * 결승전 장소: [[독일]] [[쾰른]] ESL 스튜디오
+ * 우승자: [[문성원]]
+ * 준우승자: [[장민철]]
+ * 공동 3위: [["정민수(프로게이머)" 정민수]],[[VortiX]]
+ * 특이 사항
+  * WCS Europe의 세번째 시즌
+= 이모저모 =
+= 대회 사용 맵 =
+WCS 시즌과 배틀넷 래더 시즌을 동일하게 맞추는 블리자드의 정책으로 인해, 대회 공식 맵은 1:1 래더에서 사용되는 맵과 같은 것을 사용한다.
+ * [아킬론 황무지]
+ * [벨시르 잔재]
+ * 외로운 파수꾼
+ * 프로스트
+ * 폴라 나이트
+ * [돌개바람]
+ * 연수
+= 출전 선수 =
+연청색에 해당하는 선수는 프리미어 리그에서 직행했고, 황색에 해당하는 선수는 챌린저 리그에서 올라왔다.
+항목이 있는 선수의 경우 항목명으로 표기하였으나, 나머지 해외 선수들의 경우 대체로 한글 표기가 정확하지 않으므로 주의.
+
+||<tablealign=center> ||<#7CB9E8><-3><:>attachment:Ticon_small.png||<#F4C2C2><-3><:>attachment:Zicon_small.png||<#70F170><-3><:>attachment:Picon_small.png||
+|| 지난 시즌 성적 || '''소속''' || '''국적''' || '''성명'''('''ID''') || '''소속''' || '''국적''' || '''성명'''('''ID''') || '''소속''' || '''국적''' || '''성명'''('''ID''') ||
+||<#6CA0DC><|6><:>결선 라운드[[br]]진출(8명)|| ["Team Acer"attachment:Acerlogo_std.png] || attachment:Kr.png || MMA[[br]][문성원] || ["mousesports"attachment:Mouzlogo_std.png] || attachment:Es.png || VortiX[[br]][후안 모레노 듀란][[br]]{{{-1 Juan Moreno Durán}}} || ["MVP(프로게임단)"attachment:MVPlogo_std.png] || attachment:Kr.png || duckdeok[[br]][김경덕] ||
+|||||||||||| || ["SK Gaming"attachment:Sklogo_std.png] || attachment:Kr.png || MC[[br]][장민철] ||
+|||||||||||| || [attachment:Grubbylogo_std.png][[br]](Team Grubby) || attachment:Nl.png || Grubby[[br]][마누엘 쉔카이젠][[br]]{{{-1 Manuel Schenkhuizen}}} ||
+|||||||||||| || [attachment:Nrslogo_std.png][[br]]NewRoSoft || attachment:Pi.png || Welmu[[br]]베사 호비넨[[br]]{{{-1 Vesa Hovisen}}} ||
+|||||||||||| || [attachment:Alliancelogo_std.png][[br]]Alliance || attachment:Se.png || NaNiwa[[br]][요한 루세시][[br]]{{{-1 Johan Lucchesi}}} ||
+|||||||||||| || attachment:Mouzlogo_std.png || attachment:De.png || HasuObs[[br]]데니스 슈나이더[[br]]{{{-1 Dennis Schneider}}} ||
+||<#FFFF00><|4><:>Bracket Stage[[br]]통과(8명)|| ["Incredible Miracle"attachment:IMlogo_std.png] || attachment:Kr.png || Mvp[[br]][정종현] || [attachment:Virtuslogo_std.png][[br]]Virtus.pro || attachment:Ru.png || sLivko[[br]]아르템 가랍초프[[br]]{{{-1 Артёма Гаравцова}}} || [attachment:Roxicon_std.png][[br]]RoX || attachment:Ru.png || TitaN[[br]]올렉 쿱초프[[br]]{{{-1 Олег Купцов}}} ||
+|| ["Team Empire"attachment:Empirelogo_std.png] || attachment:Ru.png || Happy[[br]]드미트리 코스틴[[br]]{{{-1 Дмитрий Костин}}} || [attachment:Mia_std.png][[br]]Team MIA || attachment:Si.png || Starbuck[[br]]마틱 디작[[br]]{{{-1 Matic Dejak}}} || ["Millenium"attachment:Milllogo_std.png][* 9월 1일 입단] || attachment:Dk.png || BabyKnight[[br]]욘 안데르센[[br]]{{{-1 Jon Andersen}}} ||
+|||||||||||| || [attachment:Myinsanitylogo_std.png][[br]]mYinsanity || attachment:Kr.png || StarDust[[br]]["손석희(프로게이머)"손석희] ||
+|||||||||||| || [attachment:XMG_std.png][[br]]XMG || attachment:Fr.png || ToD[[br]]요안 메를로[[br]]{{{-1 Yoan Merlo}}} ||
+||<#FFFF00><|7><:>Group Stage[[br]]통과(16명)|| attachment:Nrslogo_std.png || attachment:De.png || KrasS[[br]]안드레아스 울리히[[br]]{{{-1 Andreas Ullrich}}} || attachment:Acerlogo_std.png || attachment:Pl.png || Nerchio[[br]][아르투르 블로흐][[br]]{{{-1 Artur Bloch}}} || [attachment:ESClogo_std.png][[br]]ESC Gaming || attachment:De.png || ShoWTimE[[br]]토비아스 지버[[br]]{{{-1 Tobias Sieber}}} ||
+|| [attachment:3DClanlogo_std.png][[br]]3D Clan || attachment:Ru.png || Noname[[br]]니키타 안드리프[[br]]{{{-1 Никита Андреев}}} || ["Teamliquid"attachment:Liquidlogo_std.png] || attachment:De.png || TLO[[br]][다리오 뷘시][[br]]{{{-1 Dario Wünsch}}} || attachment:MVPlogo_std.png || attachment:Kr.png || TAiLS[[br]]["김원형(프로게이머)"김원형] ||
+|| attachment:Empirelogo_std.png || attachment:Ua.png || Kas[[br]]미하일로 헤이다[[br]]{{{-1 Михаил Гайда}}} || [attachment:Vega_squadron_std.png][[br]]Vega Squadron || attachment:Fr.png || FireCake[[br]]세바스티엔 레브[[br]]{{{-1 Sébastien Lebbe}}} || ["Fnatic"attachment:Fnaticlogo_std.png] || attachment:Se.png || SaSe[[br]][킴 하마르][[br]]{{{-1 Kim Hammar}}} ||
+|| (무소속) || attachment:Kr.png || Shuttle[[br]]["최성진#s-1"최성진] || [attachment:Dignitaslogo_std.png][[br]][Team Dignitas] || attachment:No.png || TargA[[br]]크리스토퍼 마틴센[[br]]{{{-1 Kristoffer Marthinsen}}} || attachment:Dignitaslogo_std.png || attachment:Uk.png || BlinG[[br]]사마얀 케이[[br]]{{{-1 Samayan Kay}}} ||
+|| attachment:Mouzlogo_std.png || attachment:Es.png || LucifroN[[br]][페드로 모레노 듀란][[br]]{{{-1 Pedro Moreno Durán}}} |||||| || (무소속) || attachment:Kr.png || Genius[[br]]["정민수(프로게이머)"정민수] ||
+|| ["Evil Geniuses"attachment:Eglogo_std.png] || attachment:Se.png || ThorZaIN[[br]][마르커스 이클로프][[br]]{{{-1 Marcus Eklöf}}} ||
+|| attachment:Milllogo_std.png || attachment:Kr.png || ForGG[[br]][박지수] ||
+= 대회 결과 =
+||<tablealign=center> '''순위''' || '''상금''' || '''포인트''' |||| '''성명'''('''ID''') |||| 비고 ||
+||<#FFD700> 우승 || $20000|| 1500점|||| 문성원 ||<#FFD700><|6><:>다음 시즌[[br]]프리미어 리그 직행||<#FFD700><|4><:>시즌 파이널 출전||
+||<#C0C0C0> 준우승 || $12000|| 1000점 |||| 장민철 || 
+||<#8C7853> 3위 || $7000|| 750점|| 후안 모레노 듀란 || 정민수 ||
+|| 5위 ||<|3> $3500||<|3> 500점|||| 김경덕 ||
+|| 6위 |||| 손석희 ||
+|| 7위 || 아르투르 블로흐 || 크리스토퍼 마틴센 ||
+||<|2><:>9위||<|4> $2000||<|2> 300점|| 베사 호비넨 || 마르커스 이클로프 ||||<#C0C0C0><|4><:>챌린저 리그 브라켓 스테이지 3라운드 이동||
+|| 박지수 || 올렉 쿱초프 ||
+||<|2><:>13위||<|2> 200점|| 드미트리 코스틴 || 욘 안데르센 ||
+|| 토비아스 지버 || 마틱 디작 ||
+||<|4><:>17위||<|8> $1500||<|4> 150점|| 요한 루세시 || 다리오 뷘시 ||||<|8><:>챌린저 리그 브라켓 스테이지 1라운드 이동||
+|| 정종현 || 페드로 모레노 듀란 ||
+|| 아르템 가랍초프 || 데니스 슈나이더 ||
+|| 김원형 || 미하일로 헤이다 ||
+||<|4><:>25위||<|4> 100점|| 요안 메를로 || 킴 하마르 ||
+|| 니키타 안드리프 || 마누엘 쉔카이젠 ||
+|| 사마얀 케이 || 최성진 ||
+|| 안드레아스 울리히 || 세바스티안 레브 ||
+= 통계 =
+ * 종족별
+  * 1라운드: attachment:Ticon_small.png 10, attachment:Zicon_small.png 7, attachment:Picon_small.png 15
+  * 2라운드: attachment:Ticon_small.png 4, attachment:Zicon_small.png 4, attachment:Picon_small.png 8
+  * 8강: attachment:Ticon_small.png 1, attachment:Zicon_small.png 3, attachment:Picon_small.png 4
+  * 4강: attachment:Ticon_small.png 1, attachment:Zicon_small.png 1, attachment:Picon_small.png 2
+ * 국적별
+  * 1라운드: attachment:Kr.png 9, attachment:Ru.png 4, attachment:De.png 4, attachment:Se.png 3, attachment:Es.png 2, attachment:Fr.png 2, attachment:No.png 1, attachment:Pl.png 1, attachment:Pi.png 1, attachment:Si.png 1, attachment:Dk.png 1, attachment:Nl.png 1, attachment:Ua.png 1, attachment:Uk.png 1 --점점 점유율을 올려가는 한국인--[* 1분기에는 한국인이 4명이었으나, 2분기에는 7명으로 늘어났다.]
+  * 2라운드: attachment:Kr.png 6, attachment:Ru.png 2, attachment:Es.png 1, attachment:No.png 1, attachment:Pl.png 1, attachment:De.png 1, attachment:Se.png 1, attachment:Pi.png 1, attachment:Si.png 1, attachment:Dk.png 1
+  * 8강: attachment:Kr.png 5, attachment:Es.png 1, attachment:No.png 1, attachment:Pl.png 1
+  * 4강:  attachment:Kr.png 3, attachment:Es.png 1
+= 리그의 진행 =
+프리미어 리그의 모든 경기는 [http://wcs.battle.net/sc2/ko WCS 포털을 통해 생중계하며], [http://ko.twitch.tv/wcs_europe 트위치 TV를 통해서 무료로 시청 가능하다]. [http://www.youtube.com/playlist?list=PLhCH_nPE4JTr8eLuG_4TLDrnt2Q18Wb7o ESL은 유튜브를 통해 다시보기를 제공하고 있다].
+== 1라운드 ==
+상위 2명(금색으로 표시)은 2라운드에 진출하고, 하위 2명은 챌린저 리그 브라켓 스테이지 1라운드로 이동한다.
+
+||<tablealign=center><-6><:>A조(9월 3일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]NaNiwa || 2 || 0 || [attachment:Zicon_small.png]TargA || 폴라 나이트, 외로운 파수꾼 ||
+|| 2경기 || [attachment:Picon_small.png]ToD || 0 || 2 || [attachment:Ticon_small.png]박지수 || 벨시르 잔재, 아킬론 황무지, --돌개바람-- ||
+|| 승자전 || NaNiwa || 1 || 2 ||<#FFD700> 박지수 || 아킬론 황무지, {{{#ff0000 폴라 나이트}}}, 벨시르 잔재 ||
+|| 패자전 || TargA || 2 || 0 || ToD || 벨시르 잔재, {{{#ff0000 돌개바람}}}, 외로운 파수꾼 ||
+|| 최종전 ||<#FFD700> TargA || 2 || 1 || NaNiwa || 벨시르 잔재, {{{#ff0000 외로운 파수꾼}}}, 폴라 나이트 ||
+
+'''어?'''
+대충 봐도 NaNiwa, 박지수가 올라갈 가능성이 높을 줄 알았는데…….
+
+승자전은 불과 며칠 전 IEM 뉴욕 유럽 예선에서 진출자 동지로 성사된 그 대결의 리매치로, 여기에서도 박지수가 승리하면서 최근 전적에서 박지수가 NaNiwa에 4:1로 앞서게 되었다.
+그리고 윗 문단을 비웃기라도 하듯 저그 유저인 TargA가 유명 프로토스 유저 2명에게 4:1로 승리를 거두고 16강에 진출하는 상황이 발생…벌써부터 대격변의 시즌을 예고하고 있다. 벌써 시즌 파이널 멤버 한 명이 OUT되어버린 것이다! 지난 시즌 상위권이 다음 시즌에서 줄줄이 탈락하던 징크스가 이번 시즌에 확정되는 것이 아닌지 팬들의 이목이 쏠리고 있다.
+그리고 상위 16명 가운데 유일한 외국인인 그가 광탈함에 따라 글로벌 파이널이 한국인의 잔치가 될 가능성이 매우 높아졌다.
+
+||<tablealign=center><-6><:>B조(9월 4일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]김경덕 || 2 || 1 || [attachment:Zicon_small.png]TLO || {{{#ff0000 벨시르 잔재}}}, 아킬론 황무지, 돌개바람 ||
+|| 2경기 || [attachment:Ticon_small.png]Happy || 2 || 0 || [attachment:Picon_small.png]SaSe || 아킬론 황무지, 벨시르 잔재 ||
+|| 승자전 || 김경덕 || 0 || 2 ||<#FFD700> Happy || 돌개바람, 아킬론 황무지, --벨시르 잔재-- ||
+|| 패자전 || TLO || 2 || 0 || SaSe || 벨시르 잔재, 돌개바람 ||
+|| 최종전 || TLO || 0 || 2 ||<#FFD700> 김경덕 || 벨시르 잔재, 아킬론 황무지, --외로운 파수꾼-- ||
+
+'''["불사전설"난처한 동물들의 싸움터]'''
+35위 Happy, 20위 TLO, 그리고 뒤가 좀 불안한 김경덕(14위). 글로벌 파이널을 위한 Happy와 TLO의 투지가 결과를 좌우할 것이다.
+Happy를 피한다면 김경덕이 쉽게 2라운드에 진출할 지도 모른다고 했었는데 결과적으로 정확한 예측이 되었다. Happy는 4승으로 일찌감치 1라운드를 통과했고, 김경덕은 Happy에게 2패로 털리긴 했지만 TLO에게만 4승 1패를 거두며 조 2위로 합류, 디펜딩 챔피언의 체면 유지에는 성공한다.[* 김경덕과 TLO는 GSL를 오픈 시즌부터 봐온 사람들이라면 꽤나 익숙한 선수에 해당. 마침 GSL 3주년을 맞이하는 시점에서, 바다 건너 유럽에서 이 라인업이 두 번이나 성사된 것은 의미있는 사례][* 사실 지난 시즌에도 김경덕은 1라운드와 2라운드를 모두 조 2위로 통과했다.]
+
+||<tablealign=center><-6><:>C조(9월 5일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]VortiX || 2 || 0 || [attachment:Ticon_small.png]Noname || 돌개바람, 아킬론 황무지 ||
+|| 2경기 || [attachment:Ticon_small.png]정종현 || 1 || 2 || [attachment:Picon_small.png]ShoWTimE || 외로운 파수꾼, {{{#ff0000 아킬론 황무지}}}, 프로스트 ||
+|| 승자전 ||<#FFD700> VortiX || 2 || 0 || ShoWTimE || 돌개바람, 외로운 파수꾼, --벨시르 잔재-- ||
+|| 패자전 || Noname || 0 || 2 || 정종현 || 돌개바람, 벨시르 잔재 ||
+|| 최종전 ||<#FFD700> ShoWTimE || 2 || 1 || 정종현 || 돌개바람, {{{#ff0000 아킬론 황무지}}}, 벨시르 잔재 ||
+
+'''왕의 --귀환--굴욕'''
+정종현의 조 1위가 유력할 것이라는 예측이 제대로 깨졌다. 정종현이 지금까지 쌓은 점수 상 글로벌 파이널에 출전할 가능성은 아직 높지만, 이래서야…….
+한편, VortiX는 나머지 둘을 제압하고 2라운드 진출을 확정지었다.
+
+||<tablealign=center><-6><:>D조(9월 10일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]Grubby || 1 || 2 || [attachment:Picon_small.png]정민수 || {{{#ff0000 아킬론 황무지}}}, 벨시르 잔재, 연수 ||
+|| 2경기 || [attachment:Zicon_small.png]Starbuck || 0 || 2 || [attachment:Ticon_small.png]LucifroN || 벨시르 잔재, 연수 ||
+|| 승자전 ||<#FFD700> 정민수 || 2 || 0 || LucifroN || 연수, 돌개바람 ||
+|| 패자전 || Grubby || 0 || 2 || Starbuck || 외로운 파수꾼, 연수, --폴라 나이트-- ||
+|| 최종전 ||<#FFD700> Starbuck || 2 || 1 || LucifroN || 벨시르 잔재, {{{#ff0000 아킬론 황무지}}}, 프로스트 ||
+
+'''Grubby 입장에선 꿀조…일줄 알았지만…….'''
+그리고 LucifroN이 제 기량을 찾는다면 조 2위는 문제 없을 줄 알았지만…….
+정작 정민수가 이 둘을 털어먹고 16강에 진출하는데 성공한다. 그 두 선수는 조 2위를 노리기 위해 처절한 경쟁을 해야만 했으며, 결국 Grubby가 꼴찌, LucifroN이 3위로 사이좋게 탈락하면서 예측과 정반대의 상황이 발생했다.
+이로써 Grubby의 글로벌 파이널 출전은 사실상 물 건너가게 되었고, 지난 시즌 상위권이 맥없이 탈락하는 WCS의 징크스가 굳어지는 것이 아니냐는 불안감이 커지고 있다.
+
+||<tablealign=center><-6><:>E조(9월 11일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]Welmu || 2 || 0 || [attachment:Picon_small.png]BlinG || 아킬론 황무지, 외로운 파수꾼 ||
+|| 2경기 || [attachment:Zicon_small.png]sLivko || 0 || 2 || [attachment:Ticon_small.png]ThorZaIN || 아킬론 황무지, 벨시르 잔재, --연수-- ||
+|| 승자전 ||<#FFD700> Welmu || 2 || 1 || ThorZaIN || {{{#ff0000 돌개바람}}}, 벨시르 잔재, 폴라 나이트 ||
+|| 패자전 || BlinG || 0 || 2 || sLivko || 벨시르 잔재, 외로운 파수꾼 ||
+|| 최종전 ||<#FFD700> ThorZaIN || 2 || 0 || sLivko || 벨시르 잔재, 외로운 파수꾼 ||
+
+'''토르제인 [살아있네]'''
+혼전이 일어날 것으로 예상했으나, 결국 가장 지명도가 높았던 두 사람이 2라운드에 올라갔다. 토르제인은 Welmu에겐 2:1로 졌지만(이것도 첫 세트를 따낸 뒤 역전패한 거다), 압도적인 강함을 보여주며 손쉽게 2라운드행, 클래스 어디 안 간다는 걸 보여주었다.
+
+||<tablealign=center><-6><:>F조(9월 12일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]HasuObs || 2 || 0 || [attachment:Ticon_small.png]최성진 || 프로스트, 벨시르 잔재, --외로운 파수꾼-- ||
+|| 2경기 || [attachment:Picon_small.png]TitaN || 2 || 1 || [attachment:Zicon_small.png]Nerchio || {{{#ff0000 프로스트}}}, 연수, 돌개바람 ||
+|| 승자전 || HasuObs || 1 || 2 ||<#FFD700> TitaN || {{{#ff0000 아킬론 황무지}}}, 연수, 벨시르 잔재 ||
+|| 패자전 || 최성진 || 0 || 2 || Nerchio || 돌개바람, 외로운 파수꾼 ||
+|| 최종전 || HasuObs || 0 || 2 ||<#FFD700> Nerchio || 외로운 파수꾼, 프로스트 ||
+
+'''어익후야'''
+최성진이 한국인의 위엄을 세우지 못하고 허망하게 최하위로 무너졌고, HasuObs는 지난 시즌 8강의 위엄을 세우지 못하고 최종전 끝에 Nerchio에 덜미를 잡히고 말았다. TitaN이야 알아주는 강호였으니 2라운드 진출이 놀랍지 않지만 HasuObs가 무너진 것은 상당한 충격.
+
+||<tablealign=center><-6><:>G조(9월 17일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]문성원 || 2 || 0 || [attachment:Picon_small.png]김원형 || 외로운 파수꾼, 벨시르 잔재 ||
+|| 2경기 || [attachment:Picon_small.png]BabyKnight || 2 || 0 || [attachment:Ticon_small.png]KrasS || 아킬론 황무지, 벨시르 잔재 ||
+|| 승자전 ||<#FFD700> 문성원 || 2 || 0 || BabyKnight || 외로운 파수꾼, 프로스트, --벨시르 잔재-- ||
+|| 패자전 || 김원형 || 2 || 0 || KrasS || 벨시르 잔재, 돌개바람 ||
+|| 최종전 || 김원형 || 1 || 2 ||<#FFD700> BabyKnight || {{{#ff0000 연수}}}, 벨시르 잔재, 돌개바람 ||
+
+'''테란은 문성원, 그럼 프로토스는?'''
+문성원의 진출이 유력하고, BabyKnight와 김원형의 2위 싸움이 벌어질 가능성이 높다고 예상했는데, 예상 그대로 문성원은 클래스의 차이를 보여주며 이 두 선수에게 깔끔하게 4승을 거두고 16강에 안착한다.
+
+||<tablealign=center><-6><:>H조(9월 18일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]장민철 || 2 || 0 || [attachment:Zicon_small.png]FireCake || 아킬론 황무지, 벨시르 잔재 ||
+|| 2경기 || [attachment:Picon_small.png]손석희 || 0 || 2 || [attachment:Ticon_small.png]Kas || 아킬론 황무지, 벨시르 잔재 ||
+|| 승자전 ||<#FFD700> 장민철 || 2 || 0 || Kas || 아킬론 황무지, 프로스트 ||
+|| 패자전 || FireCake || 0 || 2 || 손석희 || 외로운 파수꾼, 아킬론 황무지 ||
+|| 최종전 ||<#FFD700> 손석희 || 2 || 0 || Kas || 아킬론 황무지, 돌개바람 ||
+
+'''["예언자(스타크래프트 2)"H조는…프로토스가 접수한다.]'''
+프통령 장민철, 무서운 상승세의 손석희가 나머지 두 선수를 압도하는 형국…결과적으로 기존의 강자였던 장민철의 클래스를 재확인하게 되었다.
+이번 대회에서는 승자 인터뷰를 Skype로 방영하는 특징이 있는데, 1위로 통과한 장민철은 해당 인터뷰에서 영상통화로 대화를 하는 위엄을 보여주었다.[* 사실 장민철은 부족한 영어 실력에도 불구하고 의사소통을 어떻게든 영어로 해결하려는 의지가 대단한 선수다. [http://pgr21.com/?b=1&n=2427 왜 그러는가 하면…….]]
+== 2라운드 ==
+상위 2명(금색으로 표시)은 결선 라운드에 진출한다. 또한 챌린저 리그를 거치지 않고 다음 시즌 프리미어 리그에 직행한다.
+하위 2명은 챌린저 리그 브라켓 스테이지 3라운드로 이동한다.
+
+[[html(<center><iframe width="640" height="360" src="//www.youtube.com/embed/fkwcyEUu04I" frameborder="0" allowfullscreen></iframe></center>)]]
+2라운드 조 편성 영상
+
+모든 조에 테란 하나, 저그 하나, 프로토스 둘씩 배치되었다.
+
+[http://www.esl.eu/eu/sc2/wcs/news/229272/ 1라운드에서 탈락한 마누엘 쉔카이젠이 중계석에 합류한다! 또한 결선 라운드에서는, EG의 매니저 지오프 로빈슨이 특별 호스트로 참가한다](쇼 호스트인 폴 샬로너가 집안 사정으로 결선 라운드에 불참하기 때문)!
+
+||<tablealign=center><-6><:>A조(9월 24일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]Happy || 0 || 2 || [attachment:Zicon_small.png]Targa || 폴라 나이트, 돌개바람, --벨시르 잔재-- ||
+|| 2경기 || [attachment:Picon_small.png]Welmu || 2 || 0 || [attachment:Picon_small.png]손석희 || 외로운 파수꾼, 돌개바람, --벨시르 잔재-- ||
+|| 승자전 ||<#FFD700> Targa || 2 || 1 || Welmu || {{{#ff0000 외로운 파수꾼}}}, 벨시르 잔재, 프로스트 ||
+|| 패자전 || Happy || 1 || 2 || 손석희 || 돌개바람, {{{#ff0000 아킬론 황무지}}}, ''벨시르 잔재'', 벨시르 잔재 ||
+|| 최종전 ||<#FFD700> 손석희 || 2 || 0 || Welmu || 벨시르 잔재, 외로운 파수꾼, 프로스트 ||
+
+'''절망의 그늘에서 희망을 쏘다.'''
+32강 당시 A조에서 이변을 만들어냈던 주인공인 TargA가 이번에는 16강을 제일 먼저 통과함으로써 실력의 증명을 해냈다. 
+그리고…조 2위로 통과한 손석희의 경우는 조금 더 흥미로운 상황이 발생했는데, 무려 세 번째 맵인 벨시르 잔재에서 무승부를 이끌어내고 엑스트라 라운드를 만들어 Happy를 탈락시킨 것. 패자전 3경기에서 재경기 판정이 나오는 똥줄 타는 상황을 극복하고 나니 자신을 이겼었던 상대에 대한 복수 역시 거침없었다. 이로써 드림핵 우승자로 가치를 증명했던 손석희는 프리미어 리그에서도 자신의 가치를 증명할 기회를 잡게 된다.
+
+||<tablealign=center><-6><:>B조(9월 25일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Vortix || 2 || 0 || [attachment:Picon_small.png]BabyKnight || 벨시르 잔재, 외로운 파수꾼 ||
+|| 2경기 || [attachment:Picon_small.png]장민철 || 0 || 2 || [attachment:Ticon_small.png]ThorZaIN || 외로운 파수꾼, 아킬론 황무지, --돌개바람-- ||
+|| 승자전 ||<#FFD700> Vortix || 2 || 0 || ThorZaIN || 아킬론 황무지, 벨시르 잔재, --연수-- ||
+|| 패자전 || BabyKnight || 0 || 2 || 장민철 || 벨시르 잔재, 돌개바람, --연수-- ||
+|| 최종전 || ThorZaIN || 1 || 2 ||<#FFD700> 장민철 || {{{#ff0000 프로스트}}}, 외로운 파수꾼, 아킬론 황무지 ||
+
+'''유럽판 ["DSL"BSL]'''
+지난 시즌 2라운드 D조에서 후안 모레노 듀란과 장민철이 각각 조 1위와 2위로 결선 라운드에 진출했는데 그게 이번 시즌에서도 그대로 재현되었다. 다른 점이 있다면 장민철이 2경기에서 패하는 바람에 두 사람이 승자전에서 맞붙지 않게 되었다는 것뿐.
+
+||<tablealign=center><-6><:>C조(9월 26일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]박지수 || 2 || 1 || [attachment:Picon_small.png]ShoWTimE || 외로운 파수꾼, {{{#ff0000 아킬론 황무지}}}, 돌개바람 ||
+|| 2경기 || [attachment:Picon_small.png]정민수 || 2 || 0 || [attachment:Zicon_small.png]Nerchio || 프로스트, 벨시르 잔재, --폴라 나이트-- ||
+|| 승자전 || 박지수 || 0 || 2 ||<#FFD700> 정민수 || 벨시르 잔재, 아킬론 황무지, --돌개바람-- ||
+|| 패자전 || ShoWTimE || 0 || 2 || Nerchio || 외로운 파수꾼, 돌개바람, --벨시르 잔재-- ||
+|| 최종전 || 박지수 || 0 || 2 ||<#FFD700> Nerchio || 폴라 나이트, 외로운 파수꾼, --돌개바람-- ||
+
+'''아아! 박지수!'''
+박지수가 결국 복병 아르투르 블로흐에게 덜미를 잡히며 챌린저 리그로 내려가게 됐다. 이로써 현재 간신히 16위. 글로벌 파이널 진출에 빨간불이 켜졌다.
+그리고 박지수가 탈락함에 따라 현재까지 8강에 테란은 한 명도 없다(저그와 프로토스가 사이좋게 3:3으로 반분). 남아있는 테란도 하필 문성원. 그는 살아남을 수 있을까?
+1위로 통과한 정민수는 '''소속팀이 없음'''에도 불구하고 다음 시즌 프리미어 리그 출전권과 시즌 파이널 가시권에 들어가는 업적을 달성함으로써 인생의 전환점을 맞게 될 가능성도 있다.
+
+||<tablealign=center><-6><:>D조(9월 27일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]문성원 || 2 || 0 || [attachment:Zicon_small.png]Starbuck || 연수, 벨시르 잔재 ||
+|| 2경기 || [attachment:Picon_small.png]TitaN || 1 || 2 || [attachment:Picon_small.png]김경덕 || 돌개바람, {{{#ff0000 벨시르 잔재}}}, 폴라 나이트 ||
+|| 승자전 ||<#FFD700> 문성원 || 2 || 1 || 김경덕 || {{{#ff0000 외로운 파수꾼}}}, 연수, 프로스트 ||
+|| 패자전 || Starbuck || 0 || 2 || TitaN || 아킬론 황무지, 연수, --프로스트-- ||
+|| 최종전 ||<#FFD700> 김경덕 || 2 || 0 || TitaN || 벨시르 잔재, 연수, --돌개바람-- ||
+
+'''문성원, 테란의 마지막 자존심을 지키다.'''
+지난 시즌에도 테란 중 유일하게 8강에 진출했던 문성원, 이번에도 8강에 진출하며 테란의 전멸을 막았다.
+== 결선 라운드 ==
+유럽·북미 지역의 경우 8강부터 결승까지의 '''모든''' 일정이 이틀 안에 진행이 되며 그 이벤트가 끝나면 5명의 시즌 파이널 진출자와 그 사이에서 1명의 우승자가 배출된다. 따라서 8강부터의 과정은 따로 분류하지 않고 결선 라운드로 통합해서 기재한다.
+
+||<tablealign=center><-7><:>결선 라운드 1일차(10월 5일 16시)||
+|||| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+||<|4><:>8강전|| 1경기 || [attachment:Picon_small.png]정민수 || 3 || 0 || [attachment:Picon_small.png]김경덕 || 프로스트, 연수, 벨시르 잔재,[[br]]--폴라 나이트--, --아킬론 황무지-- ||
+|| 2경기 || [attachment:Zicon_small.png]VortiX || 3 || 1 || [attachment:Picon_small.png]손석희 || 외로운 파수꾼, 연수, {{{#ff0000 프로스트}}},[[br]]벨시르 잔재, --돌개바람-- ||
+|| 3경기 || [attachment:Zicon_small.png]TargA || 1 || 3 || [attachment:Picon_small.png]장민철 || 돌개바람, 벨시르 잔재,[[br]]{{{#ff0000 외로운 파수꾼}}}, 프로스트, --연수-- ||
+|| 4경기 || [attachment:Ticon_small.png]문성원 || 3 || 0 || [attachment:Zicon_small.png]Nerchio || 연수, 폴라 나이트, 프로스트,[[br]]--외로운 파수꾼--, --벨시르 잔재-- ||
+
+'''이젠 내가 뜰 차례'''
+신성(新星)을 저격한 신성의 등장, 의외였던 점은 3:0으로 경기가 끝났다는 것이다.
+
+'''별(Star)에게 소행성(Stardust)으로 상대가 되겠나'''[* 한국인의 눈에는 대단치 않게 보일지 모르나 후안 모레노 듀란은 스페인에서는 독보적인 선수다.]
+드림핵 우승자이자 떠오르는 별인 손석희를 상대하는 후안! 16강에서 프로토스와 부대낀 대가를 쏠쏠히 챙겼다! 클래스를 입증한 후안은 한국인의 독주를 막았다.
+
+'''드디어 한국인과 맞닥뜨린 노르웨이 인'''
+크리스토퍼 마틴센은 지금까지 한국인을 피해서 8강까지 올라왔다. 그리고…장민철과 만나자마자 패배.
+
+'''에이서 내전 발발'''
+만나기 싫었을 게 틀림없지만 결국은 만나게 됐다. 그리고 비정한 문성원은 3:0이라는 큰 선물을 안겨줬다.
+
+||<tablealign=center><-7><:>결선 라운드 2일차(10월 6일 12시)||
+|||| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+||<|3><:>5위 결정전|| 1경기 || [attachment:Zicon_small.png]Nerchio || 2 || 3 || [attachment:Picon_small.png]손석희 || {{{#ff0000 외로운 파수꾼}}}, 돌개바람,[[br]]프로스트, {{{#ff0000 연수}}}, 벨시르 잔재 ||
+|| 2경기 || [attachment:Zicon_small.png]TargA || 1 || 3 || [attachment:Picon_small.png]김경덕 || {{{#ff0000 폴라 나이트}}}, 연수, 외로운 파수꾼,[[br]]벨시르 잔재, --프로스트-- ||
+|| 최종전 || 손석희 || 0 || 3 || 김경덕 || 프로스트, 외로운 파수꾼, 돌개바람,[[br]]--아킬론 황무지--, --벨시르 잔재-- ||
+||<|2><:>준결승전|| 1경기 ||<#8C7853> [attachment:Zicon_small.png]VortiX || 0 || 3 || [attachment:Ticon_small.png]문성원 || 벨시르 잔재, 아킬론 황무지,[[br]]프로스트, --연수--, --외로운 파수꾼-- ||
+|| 2경기 ||<#8C7853> [attachment:Picon_small.png]정민수 || 0 || 3 || [attachment:Picon_small.png]장민철 || 벨시르 잔재, 아킬론 황무지,[[br]]연수, --프로스트--, --외로운 파수꾼-- ||
+||<-2><:>결승전||<#FFD700> 문성원 || 4 || 2 ||<#C0C0C0> 장민철 || 아킬론 황무지, 프로스트,[[br]]돌개바람, {{{#ff0000 연수}}}, {{{#ff0000 벨시르 잔재}}},[[br]]외로운 파수꾼, --폴라 나이트-- ||
+
+'''부잣집은 망해도 3년은 간다지?'''
+장민철에게 카운터를 먹은 크리스토퍼 마틴센은 2경기에서 김경덕과 만났다. 그리고 다시 한국인에게 뜨거운 맛을 보며 내년을 기약하게 되었다. 비록 패하긴 했지만 이번 시즌 그의 활약은 인상적이었다.
+반대편에서는 손석희가 아르투르와 풀세트 접전 끝에 겨우 올라와 김경덕을 상대했는데, 놀랍게도 김경덕이 3:0으로 손석희를 제압했다. 이로써 2연속 시즌 파이널 진출.
+
+'''["땅거미 지뢰"지뢰]만 있으면 두려울 게 없었다.'''
+후안의 맹독충이 지뢰에 족족 털려나가는 안습한 상황이 3세트 내내 벌어졌다. 그렇게 후안은 ["버틸 수가 없다!"버텨내지 못하고 말았다.]
+
+'''네가 나한테 ["슬레이어스 해체 사건"슬레기]라고 했겠…어라?'''[* 경기 후 인터뷰에서 장민철은 정민수와의 사이는 좋다고 말했으니 심각하게 받아들일 필요까진 없을지도 모른다. --맵 결정 후에 악수를 의도적으로 힘주어 크게 하는 것도 그렇고--][* 참고로, 현재 '슬레이어스 해체 사건'은 논란 끝에 작성금지 처리를 먹었다.]
+선수와 종족, 그리고 3세트·4세트의 맵이 서로 바뀌었다는 것 빼고는 1경기와 동일했다. 지난 시즌 새로 떠오른 김경덕에게 결승전에서 덜미를 잡힌 장민철은, 이번엔 새로 떠오르는 정민수를 잡고 결승으로 고고싱~!
+
+그렇게 결승전이 시작되고…….
+
+'''2연준? 이…이거?! 설마…….'''
+장민철은 이번 시즌에도 준우승을 하면서 프리미어 리그 2연속 준우승을 하게 된다.[* [이제동]은 프리미어 리그에 이어 시즌 파이널에서 연달아 준우승을 차지하는 묘기(?)를 선보였다.] 한편 문성원은 521일만에 우승 트로피를 거머쥐며 군단의 심장에서 첫 우승을 거두었다.
+재미있게도 지난 시즌 4강 대진이 결승전에서 재현되었고, 결과는 정반대로 나왔다.[* 지난 시즌 4강전에선 장민철이 이기면서 결승에 진출했다.]
+= 대회 정리 =
+'''아직까지도 한국인의 벽은 높다.'''
+유럽 대회인데 상위 라운드에는 유러피안보다 한국인이 더 많다.[* 통합 WCS 체제의 문제점이라고 잘라 말할 수 있다면 좋겠지만, 그들 가운데 김경덕을 제외하고는 모두 해외 팀 소속인지라 무작정 까기도 어렵긴 하다.]
+1라운드에 출전한 한국인은 9명인데 그 9명 중 4강에 오른 멤버가 무려 3명이다.[* 5위까지 김경덕이 차지하면서 시즌 파이널에 출전하는 유럽 대표 중 한 자리 빼고 죄다 한국인 차지]
+시즌이 진행될 때마다 팬들은 외국인이 어디까지 올라갈 수 있을지 기대감(?)을 가지게 되는데 통합 WCS 체제 출범 이후 외국인의 최고 성적은 [일리예스 사토우리]의 프리미어 리그 준우승이다. --그러니까 왜 은퇴했냐고--
+
+'''평행 이론'''
+이번 시즌 4강에는 지난 시즌 4강과 같이 3명의 한국인과 1명의 --["원이삭"걸어다니는 결승 티켓]-- 외국인이 진출했다.
+4강의 2자리는 지난 시즌 4강에 오른 문성원과 장민철. 이 둘을 제외한 나머지 한국인의 자리는 2시즌 모두 프로토스가 차지했다.[* 그리고 두 선수 모두 준결승전에서 토스와 만났다.]
+지난 시즌에는 1경기가 테프전, 2경기가 프프전이었다. 그에 반해 이번 시즌은 1경기가 테저전, 2경기가 프프전이다.[* 1경기 타종족전, 2경기 프프전으로 동일하다.]
+또한 외국인의 경우 시즌 2에서는 Grubby가 VortiX를 3:1로 물리치고 4강에 진출했는데 아이러니하게도 시즌 3에서는 그 VortiX가 4강에 진출했고 ["김경덕"해당 시즌] ["문성원"우승자들]에게 4강전에서 패배하게 된다.

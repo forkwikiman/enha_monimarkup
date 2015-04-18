@@ -1,0 +1,151 @@
+이 글은 [[카오스 온라인]]의 [[wiki:"카오스 온라인/영웅"영웅]]인 마젠다를 설명하고 있습니다.
+
+http://i.imgur.com/SvFjtSU.jpg
+
+http://co.playnetwork.co.kr/GMUploadFiles/Hero/13_2_201111221949336898.jpg
+
+||<table bordercolor="silver"><#FFFACD>'''"내가 왜 뒷골목의 여왕인지 오늘 제대로 보여주지.'''||
+
+||<#2E2D88><:>{{{#gold '''영웅 이름'''}}}||<#E6E6FA><:>'''마젠다'''/'''''Mazenda'''''||
+||<#2E2D88><:>{{{#gold '''영웅 이명'''}}}||<#E6E6FA><:>'''여도적'''||
+||<#2E2D88><:>{{{#gold '''영웅 출시'''}}}||<#E6E6FA><:>2011년 11월 29일||
+||<#2E2D88><:>{{{#gold '''영웅 가격'''}}}||<#E6E6FA><:>8600GP, 태고의 영혼석 30개||
+||<#2E2D88><:>{{{#gold '''영웅 계열'''}}}||<#E6E6FA><:>투지계열,민첩영웅||
+||<#2E2D88><:>{{{#gold '''영웅 소속'''}}}||<#E6E6FA><:>신성연합||
+||<#2E2D88><:>{{{#gold '''주요 역할'''}}}||<#E6E6FA><:>맷집,광역 제어,적군 약화||
+||<#2E2D88><:>{{{#gold '''한국 성우'''}}}||<#E6E6FA><:>[[이지현(성우)|이지현]]||
+||<#2E2D88><:>{{{#gold '''일본 성우'''}}}||<#E6E6FA><:>[[우시다 히로코]]||
+
+[[목차]]
+
+== 영웅 이야기 ==
+http://co.playnetwork.co.kr/GMUploadFiles/Hero/13_3_201111221949337366.jpg
+
+||<#B0E0E6>
+성녀 에델린의 유일한 호위무사. 본래 마법력이 뛰어난 엘프족으로서 주요 4부대 단장들과 버금가는 능력을 지니고 있으나, 다른 이들과 달리 그 힘을 모두 직접 전투 능력을 극대화할 방향으로 단련하였다. 본래 암살자 출신으로 자신이 창안한 도구와 단검술을 통한 암습에 능하며, 그 능력을 호위에 특화시켜 어둠 속에서 성녀를 보호한다. 과거 노예신분에 반감을 품고 엘프 사회를 탈주해 암흑가의 일원으로 살아가던 도중 에델린을 만난 후, 밝고 당찬 그녀의 인품에 감화되어 이전의 생활을 청산하고 자발적으로 호위 임무를 청한다. 공과 사의 구별이 분명하고 무뚝뚝하지만, 에델린에게는 언니 같은 따뜻한 모습을 보인다.||
+
+== 영웅 정보 ==
+||||||||<#4943e8> {{{#white 신성연합}}} ||||||||<#F8F8FF> 여도적 ||
+||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_1.gif '''체력''' ||<#F8F8FF> 750 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_2.gif '''마력''' ||<#F8F8FF> 325 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_9.gif '''체력회복''' ||<#F8F8FF> 1.5 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_10.gif '''마력회복''' ||<#F8F8FF> 0.3 ||
+||||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_11.gif  '''힘''' ||||<#F8F8FF> 18 ||||<#E6E8FA>  레벨업 상승 ||||||<#F8F8FF>   2 ||
+||||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_12.gif '''민첩''' ||||<#F8F8FF> 22 ||||<#E6E8FA>  레벨업 상승 ||||||<#F8F8FF>   2.5 ||
+||||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_13.gif '''지능''' ||||<#F8F8FF> 15 ||||<#E6E8FA>  레벨업 상승 ||||||<#F8F8FF>   1.5 ||
+||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_3.gif '''공격력''' ||<#F8F8FF> 52 ~ 59 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_4.gif '''공격속도''' ||<#F8F8FF> 1.5 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_6.gif '''방어력''' ||<#F8F8FF> 4 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_14.gif '''마법방어력''' ||<#F8F8FF> 25% ||
+||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_5.gif '''공격방식''' ||<#F8F8FF> 근거리 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_5.gif '''사정거리''' ||<#F8F8FF> 140 ||<#E6E8FA>  http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_7.gif '''이동속도''' ||<#F8F8FF> 360 ||<#E6E8FA> http://www.chaosonline.co.kr/ClientUI/image/info/ico_sell_8.gif '''충돌크기''' ||<#F8F8FF> 소형 ||
+
+
+||||||||<#F8F8FF> '''공식 홈페이지상 영웅 정보''' ||
+||<#F8F8FF> 난이도 ||<#ffffff> ★★☆ ||
+||<#F8F8FF> 공격력 ||<#ffffff> 8 ||
+||<#F8F8FF> 방어력 ||<#ffffff> 6 ||
+||<#F8F8FF> 건물파괴 ||<#ffffff> 6 ||
+||<#F8F8FF> 보조능력 ||<#ffffff> 4 ||
+
+
+== 대사 ==
+||||<#F8F8FF> '''상황'''(액션/스킬) ||||||||<#F8F8FF> '''보이스 대사''' ||
+||||<#F8F8FF> 영웅 선택 시 ||||||||<#ffffff> 내가 왜 뒷골목의 여왕인지 오늘 제대로 보여주지. ||
+||||<#F8F8FF> 선택 ||||||||<#ffffff> 가진 게 많아 보이네~ ||
+||||<#F8F8FF> 선택 ||||||||<#ffffff> 나 정도면 대도라고 할 수 있지 ||
+||||<#F8F8FF> 선택 ||||||||<#ffffff> 물건 잘 간수해~ ||
+||||<#F8F8FF> 선택 ||||||||<#ffffff> 주머니를 확인해봐~ ||
+||||<#F8F8FF> 선택 ||||||||<#ffffff> 아아, 다시 생각해 봐~ ||
+||||<#F8F8FF> 선택 ||||||||<#ffffff> 그럴 때가 아니야! ||
+||||<#F8F8FF> 이동 ||||||||<#ffffff> 산책 나온게 아냐! ||
+||||<#F8F8FF> 이동 ||||||||<#ffffff> 정보가 필요해. ||
+||||<#F8F8FF> 이동 ||||||||<#ffffff> 오늘은 허탕이네 ||
+||||<#F8F8FF> 공격 ||||||||<#ffffff> 발 밑을 조심 하라구. ||
+||||<#F8F8FF> 공격 ||||||||<#ffffff> 그 목 잘 간수해~ ||
+||||<#F8F8FF> 공격 ||||||||<#ffffff> 목숨을 훔쳐주지. ||
+||||<#F8F8FF> 공격 ||||||||<#ffffff> 피가 멈추지 않을걸? ||
+||||<#F8F8FF> 공격 ||||||||<#ffffff> 목은 잘 붙어있지? ||
+||||<#F8F8FF> 공격 ||||||||<#ffffff> 주머니 접수! ||
+||||<#F8F8FF> 부활 ||||||||<#ffffff> 내가 왜 뒷골목의 여왕인지 오늘 제대로 보여주지. ||
+||||<#F8F8FF> 부활 ||||||||<#ffffff> 내가 돌아왔으니 바짝 긴장 하는 게 좋을 거야. ||
+||||<#F8F8FF> 부활 ||||||||<#ffffff> 세상의 죄다 털 때까지 죽을 수 없지! ||
+||||<#F8F8FF> 선택 연속 사운드 ||||||||<#ffffff> 손은 빛보다 빠르다! ||
+||||<#F8F8FF> 선택 연속 사운드 ||||||||<#ffffff> 이 세상에 내가 훔칠 수 없는 물건은 없단 말씀! ||
+||||<#F8F8FF> 선택 연속 사운드 ||||||||<#ffffff> 앗! 나도 모르게 그만… 이놈의 손 버릇은 어찌할 수가 없네. ||
+||||<#F8F8FF> 선택 연속 사운드 ||||||||<#ffffff> 호주머니에 있는 물건은 잘 있지? ||
+
+
+[[http://www.chaosonline.co.kr/Info/Hero/List.aspx/ 카오스온라인 공식 홈페이지]]에서 음성을 들어볼 수 있다.
+
+== 스킬 ==
+=== Q: 덫 설치 ===
+||<tablebgcolor=#E6E8FA> http://co.playnetwork.co.kr/GMUploadFiles/Skill/10_0_201111181347590383.pngalign=center||특정 지점에 기계 덫을 설치합니다. 이 덫은 인근에 적이 있을경우 폭발하여 피해를 입히고 기절 상태로 만듭니다.||
+||<tablebgcolor=#E6E8FA>
+ * '''요구레벨:''' 1 / 3 / 5
+ * '''발동방식:''' 지점 
+ * '''사용대상:''' {{{#bebebe 아군}}}/{{{#bebebe 적군}}}/{{{#bebebe 생명}}}/{{{#bebebe 면역}}}/{{{#bebebe 건물}}}/{{{#bebebe 기계}}}/{{{#bebebe 공중}}}||<width=75%> * '''소모마력''' 70.0 / 85.0 / 100.0
+ * '''사정거리''' 450.0 / 450.0 / 450.0
+ * '''투사체 속도:''' 1300 / 1300 / 1300
+ * '''재사용 대기시간:''' 9.0 / 9.0 / 9.0||
+
+[[덫]]을 깔아두는 기술. 상대가 덫의 범위에 들어오면 조금 시간이 지난후 폭발한다. 이 때문에 도주하는 적에게는 스턴기로 제대로 활용할수 없기에 덫을 공격하면 즉시 폭발해 스턴기로 활용할수 있다.
+
+
+
+=== W: 강탈 ===
+||<tablebgcolor=#E6E8FA> http://co.playnetwork.co.kr/GMUploadFiles/Skill/10_0_201111181347312571.pngalign=center||대상의 뒤로 순간 이동하여 돈을 강탈하고 공격합니다.||
+||<tablebgcolor=#E6E8FA>
+ * '''요구레벨:''' 1 / 4 / 7
+ * '''발동방식:''' 대상
+ * '''사용대상:''' {{{#bebebe '''아군'''}}}/'''적군'''[[br]]생명/{{{#bebebe 면역}}}/{{{#bebebe 건물}}}/{{{#bebebe 기계}}}/{{{#bebebe 공중}}} 
+||<width=75%> * '''사정거리:''' 400.0 / 450.0 / 500.0
+ * '''투사체속도''' 3000 / 3000 / 3000
+ * '''재사용 대기시간:''' 24.0 / 22.0 / 20.0
+ * '''소모마력''' 70.0 / 80.0 / 90.0||
+
+추격기술. 상대에게 근접해서 출혈 패시브를 걸고 동시에 일정량의 돈도 빼앗을수 있다. 예전에는 '40/70/100 + 대상 레벨 당 5'로 돈을 뺏을수 있었으나 패치루‘40/80/120’으로 고정되어 너프를 당했다.
+
+
+=== E: 출혈 ===
+||<tablebgcolor=#E6E8FA> http://co.playnetwork.co.kr/GMUploadFiles/Skill/10_0_201111181348171008.pngalign=center||공격 시 일정 확률로 상대의 몸에서 지속적인 출혈을 일으킵니다.||
+||<tablebgcolor=#E6E8FA>
+ * '''요구레벨:''' 1 / 4 / 7
+ * '''발동방식:''' 습득 
+ * '''사용대상:''' {{{#bebebe '''아군'''}}}/{{{#bebebe '''적군'''}}}[[br]]'''생명'''/'''면역'''/{{{#bebebe 건물}}}/{{{#bebebe 기계}}}/'''공중'''
+||<width=75%>||
+
+패시브 스킬이다. 공격력 20/30/40 증가, 매 공격시 45% 확률로, 10초간 15/30/45씩, 최대 180/360/540의 피해. 이동 속도 30%감소.
+출혈 도트 데미지가 상당해서 적이 포탈로 귀환하고도 우물에 가기전에 도트 데미지에 죽을때가 종종 있다.
+
+ 
+=== R: 암살 ===
+||<tablebgcolor=#E6E8FA> http://co.playnetwork.co.kr/GMUploadFiles/Skill/10_0_201111181349297258.pngalign=center||그림자의 어둠 속으로 자신의 모습을 완전히 감추고 공격 및 이동 속도를 크게 상승시킵니다.||
+||<tablebgcolor=#E6E8FA>
+ * '''요구레벨:''' 6  
+ * '''발동방식:''' 즉시
+ * '''사용대상:''' {{{#bebebe 아군}}}/{{{#bebebe 적군}}}/{{{#bebebe 생명}}}/{{{#bebebe 면역}}}/{{{#bebebe 건물}}}/{{{#bebebe 기계}}}/{{{#bebebe 공중}}}
+||<width=75%>
+ * '''소모마력''' 100.0
+ * '''재사용 대기시간:''' 60.0
+ * '''습득 시''': 이동 속도 50%증가. 
+ * '''사용 시''' : 15초동안, 공격 속도 150%증가, 이동속도 50% 증가, 최대 이동속도가 480으로 증가, 마법 방어력 15%증가.||
+
+
+이것을 익히는 순간 신발은 필요없어지게 된다. 마젠다로 6렙을 넘기고 나서도 신발을 신고 있으면 [[트롤]] 취급을 받게 되니 주의(...)
+대부분의 활용은 추격기지만 상황이 여의치 않으면 도주기로도 유용하게 써먹을수 있다.
+
+
+
+=== 의상 카드 ===
+==== 나르바쉬의 대도 마젠다 ====
+http://i.imgur.com/lJalBmD.jpg
+
+음성 변화는 없으나 스킬 이펙트 일부는 바뀐다
+
+
+=== 열혈 선도부장 마젠다 ===
+http://i.imgur.com/TlbNWAf.jpg
+
+음성 변화, 스킬 이펙트 전부 바뀐다
+
+=== 제국군 암살대 퇴역소령 마젠다 ===
+http://i.imgur.com/JmIWigA.jpg
+
+음성 변화, 스킬 이펙트 전부 바뀐다. 마젠다의 스킨중 가장 인기가 높다. 바뀐 성우는 [[윤아영]].
+
+
+

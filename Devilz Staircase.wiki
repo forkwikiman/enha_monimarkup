@@ -1,0 +1,48 @@
+[[목차]]
+
+== [비트매니아 IIDX] ==
+{{{#!html
+<iframe width="540" height="280" src="http://www.youtube.com/embed/JPq4MMqeKU0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/1EJr8CY3u44?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1EJr8CY3u44?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 185  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 3}}} || {{{#blue 332}}} || {{{#orange 10}}} || {{{#orange 1134}}} || {{{#red 12}}} || {{{#red 1685}}} || {{{#blue 4}}} || {{{#blue 361}}} || {{{#orange 10}}} || {{{#orange 1017}}} || {{{#red 12}}} || {{{#red 1614}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : [[wiki:"비트매니아 IIDX 20 tricoro"20 tricoro]] ~
+ * [wiki:"롱노트" 차지 노트] 채용 (하이퍼, 어나더 채보)
+
+작곡가는 이번 작품에서 처음으로 [[비트매니아 IIDX]]에 참가하는 [[OSTER project]]. 그녀의 첫 참가이자, 데뷔하자마자 최초로 어나더 레벨 12의 곡을 제공했다[* 어나더는 2012년 12월 5일 업데이트로 해금]. 곡명의 유래인 Devil's Staircase는 [[http://en.wikipedia.org/wiki/Cantor_function 칸토어 함수]]의 그래프를 나타내는 용어이다.[* Cantor's Staircase라고도 한다.] [[リカーシブ・ファンクション|동 작곡가의 다른 곡]]의 코멘트에서도 보이듯이 이 곡의 제목도 수학적인 의미를 노렸을 가능성이 높다.
+
+BGA에서는 [[Lincle Kingdom]]에서 레이어 등장했던 캐릭터들이 다시 등장하는데 특히 그중에서 압권인것은 [[The Sampling Paradise]]에서 등장했던 마모니스가 '''엄청나게''' 미화되어있다.~~회춘~~ 담당은 ~~해당 캐릭터들로 4컷만화를 그린 적 있는~~ [[GOLI]].
+
+SPH,DPH 패턴 둘다 초반, 후반에 잠깐 나오는 동시치기 트릴 이외에는 매우 끈질기게 계단이 쏟아져 나온다. 12월 5일에 공개된 싱글 어나더는 [wiki:"Xepher" X자 배치], 데님, [wiki:"Innocent Walls" 흰벽], [wiki:"VANESSA" 연속이중계단], [wiki:"mosaic" 동시치기+스크래치 난무] 등 골때리는 배치가 매우 많이 나온다. 계단과 복합 트릴 등에 자신이 없다면 상당히 어려운 채보. 더블 어나더는 흰벽은 그대로에 나머지는 난타와 계단이 주된 구성.
+
+== [[리플렉 비트]] ==
+
+http://cdn44.atwikiimg.com/reflec_beat/?cmd=upload&act=open&page=ZETA%20%E3%80%9C%E7%B4%A0%E6%95%B0%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%A8%E8%B6%85%E8%B6%8A%E8%80%85%E3%80%9C&file=devilz.png
+
+~~어째 작곡자 이름과 제목 배치가 반대로 돼야 할 것 같다~~
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 185 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 170}}} || {{{#orange 311}}} || {{{#red 623}}} ||
+|| 수록버전 ||||||||<#8e8eff>  [리플렉 비트 콜레트] ||
+
+ 
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/zwDT8K0_DEE?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/zwDT8K0_DEE?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[쿠프로·미미냐미·파스텔군의 다함께 우주전쟁!!]]으로 [[리플렉 비트 콜레트]]에 이식되었다.
+라피카(메카 형태)의 첫번째 HP바를 제거하면 해금된다.
+
+보면은 10레벨에서 중상급 정도의 난이도.이 곡과 같이 업뎃된 [[wiki:"ZETA ～素数の世界と超越者～"10레벨]] [[wiki:"Proof of the existence"곡들]] [[wiki:"コドモライブ"중에선]] 점수 올리기가 가장 어렵다는 평이 많다.

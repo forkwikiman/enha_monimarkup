@@ -1,0 +1,17 @@
+{{{#!html
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/govTxlhnq7k?fs=1&amp;hl=ko_KR&amp;rel=0&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/govTxlhnq7k?fs=1&amp;hl=ko_KR&amp;rel=0&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="349"></embed></object>
+}}}
+
+리울프 소프트웨어가 제작하고 [밸브]가 지원, [시에라 엔터테인먼트]가 배급을 맡은 [[SF]]적 세계관을 배경으로한 [[하프라이프]]의 상용 [[MOD]] 중 하나. 북미기준 2000년 11월 출시되었고 주인공은 일개 건맨으로서 --어찌저찌해서 상관이기도한-- 장군의 야망을 저지하는 입장이다.
+
+원래는 건맨쉽101이라는 [[퀘이크]]의 데스매치 모드로 제작중이었으나, 다시 [퀘이크 2]의 엔진으로 전환해서 제작하다가, 나중에는 하프라이프의 모드로 최종출시가 되었다. 1999년 하프라이프 MOD 엑스포에서 이목을 끌었는데 그걸 본 [시에라 엔터테인먼트]가[* 당시 시에라는 하프라이프 퍼블리싱을 담당했었다.] 상용모드로 개발할 것을 제안했다. 덕분에 리울프 소프트웨어는 사무실을 얻었으며 [[밸브]]사의 [[레벨 디자이너]] (제프 레인)도 고용해 어찌저찌 프로젝트를 끝마쳤고, 최종적으로 하프라이프 원본이 필요없는 스탠드얼론 게임으로 출시가 되었다.
+
+하지만 막상 출시를 해놓고 보니, 게임평론가들이나 플레이어들에겐 좋지 못한 평가를 받았는데, 그 이유는 마치 급조라도 한듯 찰흙을 대충 문질른듯한 저질텍스쳐와 애매한 스토리, [뺑이]를 유도하는 [레벨 디자인],[* http://j.mp/h4szTt, http://j.mp/dZCBac, http://j.mp/hHFPHq 참고.] 개성없는 캐릭터 모델링, [[장비를 정지합니다]] 수준급 더빙의 문제가 있었기도 하다. 하지만 총기마다 발사방식의 세세한 설정이 가능했다거나 하는 독창적인 부분도 있었다.
+
+국내에서도 [한빛소프트]에 의해 정식발매 되었으며,[* 물론 지금은 절판이다.] 스팀에 정식등록되지 않은 게임이기 때문에 본 게임의 시디키를 스팀에 등록하더라도[* 아예 시디키 자체가 [하프라이프] 시디키며 스팀에 등록하면 하프라이프가 게임으로 올라가기도 한다.] 하프라이프 플래티넘 에디션으로 대신 등록된다.
+
+근데 인트로 CG 영상은 --게임 전반적으로 [현실은 시궁창]이지만-- 수준급이다.
+
+{{{#!html
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/115QqhuArYQ?fs=1&amp;hl=ko_KR&amp;rel=0&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/115QqhuArYQ?fs=1&amp;hl=ko_KR&amp;rel=0&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="349"></embed></object>
+}}}

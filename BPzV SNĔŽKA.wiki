@@ -1,0 +1,30 @@
+||<bgcolor=#7CB9E8><:><-100><tablewidth=100%>'''[체코슬로바키아 인민군](1954~1990)의 지상 병기'''||
+||<bgcolor=#D2CFCA><:><|2>'''기갑'''||<bgcolor=#D2CFCA><:>'''전차'''||<:>''[T-34]'', ''[T-55]'', ''[T-62]'', ''[[T-72]]''||
+||<bgcolor=#D2CFCA><:>'''장갑차'''||<:>[BPzV], '''BPzV SNĔŽKA''', [OT-62], [OT-64], [OT-65], [wiki:"BMP-1" OT-90], ''[OT-810]'', ''[wiki:"BMP-1" BVP-1]'', ''[wiki:"BMP-2" BVP-2]'', ''[BRDM-2]''||
+||<bgcolor=#D2CFCA><:><-2>'''포병'''||<:>[ShKH vz.77 Dana], [RM-70], ''2S1'', ''2S7''||
+||<bgcolor=#D2CFCA><:><-2>'''자주대공포'''||<:>[Vz.53/59 PLDvK], [STROP]||
+||<bgcolor=#D2CFCA><:><-2>'''군용차량'''||<:>''UAZ-469''||
+||<bgcolor=#D2CFCA><:><-2>'''군용트럭'''||<:>[T-813], [T-815]||
+
+||<bgcolor=#7CB9E8><:><-100><tablewidth=100%>'''[체코슬로바키아군](1990~1993), [체코군](1993~)의 지상 병기'''||
+||<bgcolor=#D2CFCA><:><|2>'''기갑'''||<bgcolor=#D2CFCA><:>'''전차'''||<:>''[T-72]'', [T-72M4CZ]||
+||<bgcolor=#D2CFCA><:>'''장갑차'''||<:>[BVP-M2SKCZ, [BPzV], '''BPzV SNĔŽKA''', [LOS], [OT-64], [wiki:"BMP-1" OT-90], ''[wiki:"BMP-1" BVP-1]'', ''[wiki:"BMP-2" BVP-2]'', ''Pandur-II''||
+||<bgcolor=#D2CFCA><:><-2>'''포병'''||<:>[ShKH vz.77 Dana], [ShM vz.85 PRÁM-S]||
+||<bgcolor=#D2CFCA><:><-2>'''군용차량'''||<:>[VEGA(IMV)], ''Dingo 2'', ''LMV'', ''Defender 110'', ''Defender 130'',  ''[wiki:"험비" M1114]'', ''UAZ-469''||
+||<bgcolor=#D2CFCA><:><-2>'''군용트럭'''||<:>[T-815], [T-810]||
+
+attachment:/2_65.jpg
+
+[체코군]의 [정찰 장갑차]
+
+[[목차]]
+== 개요 ==
+BPzV Snezka [정찰 장갑차]는 [wiki:"BMP-2" BVP-2]를 베이스로 하여 열상 이미지 장비를 탑재한 정찰용 [장갑차]이다, 프로토 타입은 1989년에 등장하였다, [체코 육군]은 [포병][정찰]장비로 BPzV Snezka를 운영중으로 차륜을 한개 증가시킨 7개의 로드휠을 장착한 BVP 차체 연장형 장갑차량에 길이 14m의 텔레스코브식 마스트를 이용하여 정찰용 센서를 운영하며 포병정찰대 소속으로 [포탄] 관측점을 이용하여 적을 식별하고 추적한다.
+
+== 성능 ==
+BPzV Snezka의 탐지 장비는 radiolocator, day survey camera, day detection camera, IR camera로 구성되어있으며,  radiolocator는 27km의 탐지거리를, day survey carmera는 5km의 탐지거리를, day detection camera는 10km의 탐지거리를, IR camera는 9km의 탐지거리를 가지며, [포병]의 FCS로 데이터를 전송할수있는 14km의 사정거리를 갖고 GPS 유도또한 가능하다.  BPzV Snezka는 [북대서양 조약기구] 가맹군의 까다로운 요구 사항을 충족 시킨 수준 높은 정찰 장갑차의 전형이다.
+
+최고속도는 55km/h이며 도하시 속도는 7km/h 이다, 항속거리는 600km 이며 승무원은 4명이다.
+
+== 참고 사이트 ==
+http://www.delostrelectvo.army.cz/html/technika-SNEZKA.html

@@ -1,0 +1,83 @@
+[[목차]]
+
+== 개요 ==
+attachment:Playing_With_Fire.png
+
+[[BEMANI 시리즈]]의 수록곡. 작곡자는 [[kors k]].
+
+곡의 분위기는 Flash Back 90's에서의 Disconation 명의에 가까운 레이브계 악곡. 국내에서는 '''불장난''' 또는 '''불놀이'''라고 읽기도 한다. 곡 분위기나 제목에 불이 들어가서 [[FIRE FIRE]]의 후속곡으로 보는 사람도 몇몇있다.
+
+== [[리플렉 비트 시리즈]] ==
+||||||||<#ff1493><:>'''PASTEL ADVENTURE / 콜레트 가든'''||
+||||||<:>'''はじまりのたね(처음의 씨앗)'''||<:>[[みんな笑った]]||
+||||||<:>'''VENUSのたね([[VENUS(아티스트)|VENUS]]의 씨앗)'''||<:>[[Wow Wow VENUS]]||
+||||||<:>'''桜のたね(벛꽃 모양의 씨앗)'''||<:>[[追儺の桜 -春-]]||
+||||||<:>'''とがったたね(뾰족한 씨앗)'''||<:>[[Following Flow]]||
+||||||<:>'''ぎざぎざのたね(톱니 씨앗)'''||<:>[[Lights on Me]]||
+||||||<:>'''妖精のたね(요정의 씨앗)'''||<:>[[Windy Fairy]]||
+||||||<:>'''燃えさかるたね(타오르는 씨앗)'''||<:>'''Playing With Fire'''||
+||||||<:>'''イヌに似たたね(개와 닮은 씨앗)'''||<:>[[黒点]]||
+||||||<:>'''禍々しいたね(재앙의 씨앗)'''||<:>[[ARACHNE]]||
+||||||||<#ffd700><:>'''봄의 리플렉 페스티벌 해금 추가곡'''||
+||||||<:>'''鏡のたね(거울의 씨앗)'''||<:>[[水鏡]]||
+||||||<:>'''たんぽぽのたね(민들레의 씨앗)'''||<:>[[printemps]]||
+||||||<:>'''星形のたね(별모양의 씨앗)'''||<:>[[Honey Party]]||
+||||||<:>'''バラに似たたね(장미와 닮은 씨앗)'''||<:>[[Nostalgia Is Lost]]||
+||||||<:>'''伝説のたね(전설의 씨앗)'''||<:>[[ストレイ・マーチ]]||
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 160 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 8}}} || {{{#red 10+}}} ||
+|| 오브젝트 || {{{#green 168}}} || {{{#orange 331}}} || {{{#red 546}}} ||
+|| 수록버전 ||||||||<#ff1493>  [[리플렉 비트 콜레트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 44 ||
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/5DfcRTK9-vQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+리플렉 비트 콜레트 스프링 시즌의 신곡이다. kors k 명의로 제공된 리플렉 비트 수록곡 중 처음으로 10+ 난이도를 배정[* kors k의 다른 명의를 포함한다면 teranoid 명의로 작곡한 [[Bad Maniacs]]가 최초이다.]받은 곡이다.
+
+전체적으로 트릴과 상하의 튀는 리듬이 주를 이룬다. 영상 0:51 이후 롱오브젝트와 탑 노트가 섞인 노트가 나오고 이후의 구간부터 [[후살]]이 시작된다.
+
+전반부는 [[The Sampling Paradise]] 하드패턴 수준의 10+치고는 약간의 박자장난을 빼면 간단한 구성이지만, 롱노트 + 탑노트 발광구간 이후(영상 1분 10초)부터는 짧게짧게 변형되는 트릴패턴을 시작으로 한쪽이 풀어지는 등 각종 변형트릴(1 - T1 - 1 - T2 - 1)이 쏟아지며 마지막에는 한손이 T1과 T3을 오가는 등 콤보잇기에 상당히 난해한 패턴이 쏟아진다. 종합적으로 10+ 중간 이상은 하는 곡.
+
+후반 16비트 구간의 리듬은 다음과 같다. [* 세모가 탑 동그라미가 일반 노트 출처는 http://www44.atwiki.jp/reflec_beat/?cmd=word&word=Playing%20With%20Fire&type=normal&page=Playing%20With%20Fire]
+
+|| l ○ ○ ○ ○ l ○ ○ △ ○ l ○ ○ ○ ○ l △ ○ ○ ○ l ||
+
+그리고 3TOP 및 일반 오브젝트는 16비트가 교대되는 지점에서는 한손으로 분업화하는 방법도 고려해볼 수 있다.
+
+여담으로 노트수가 상당히 적은편이다. [[date]] 기준 10+ 최저 오브젝트 3위
+
+=== Playing With Fire (Sota Fujimori Remix) ===
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/ATvt8p79Suo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+HARD 패턴 영상
+
+6월 18일 코스케 검정과 같이 업데이트 된 코스케 리믹스판 3곡 중 하나이다. 난이도는 원곡보다 한 단계 낮은 10레벨이다.
+== [[사운드 볼텍스]] ==
+[[POLICY BREAK]] 이벤트로 이식 수록되었다. 2013년 9월 3일부터 9월 17일까지 기간 한정 해금된다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<:>[[사운드 볼텍스]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || 
+|| 자켓 ||attachment:Playing_With_Fire.png?width=150 ||attachment:Playing_With_Fire.png?width=150 ||attachment:Playing_With_Fire.png?width=150 || 
+|| 난이도 || {{{#purple 05}}} || {{{#orange 10}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0500}}} || {{{#orange 0739}}} || {{{#ff009f 1154}}} ||
+|| 일러스트 담당 |||||| [[VJ GYO]] ||
+|| 이펙터 || {{{#purple Hermit♣club}}} || {{{#orange Hermit♣club}}} || {{{#ff009f Hermit♣club}}} ||
+|| 수록 시기 ||||||<#ffe20d><:>__[[POLICY BREAK|<font color="black">POLICY BREAK</font>]]__ ||
+|| [[BPM]] |||||| 160 ||
+
+{{{#!HTML
+<iframe width="450" height="800" src="//www.youtube.com/embed/J9Ng5MCNZOc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PERFECT 영상
+
+박자나 리듬 모두 노트를 따라간다. 하지만 노트+FX롱놋, 원핸드 강요부분+FX숏노트+노트조합으로 인해 자칫하면 손이 꼬여 못따라가는 경우가 부지기수이다. 고로 많은 코인러쉬와 채보를 익혀두는게 답.

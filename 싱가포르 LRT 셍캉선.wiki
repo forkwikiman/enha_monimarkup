@@ -1,0 +1,48 @@
+||<-6><table align=center><#024d03> [wiki:"싱가포르 MRT" <span style="font-weight:bold;color:#f9ce24">싱가포르의 철도 운행 노선</span>] || 
+||<#00444d> '''{{{#fbd546 MRT }}}''' || [[wiki:"싱가포르 MRT 남북선" 남북선]] ||  [[wiki:"싱가포르 MRT 동서선" 동서선]] ||  [[wiki:"싱가포르 MRT 북동선" 북동선]] ||  [[wiki:"싱가포르 MRT 서클선" 서클선]] ||  [[wiki:"싱가포르 MRT 다운타운선" 다운타운선]] ||
+||<#00444d> '''{{{#fbd546 LRT }}}''' || [[wiki:"싱가포르 LRT 부킷 판장선" 부킷 판장선]] ||<#787878> '''{{{#ffffff 싱가포르 LRT 셍캉선 }}}''' || [[wiki:"싱가포르 LRT 풍골선" 풍골선]] || 
+{{{+1 盛港輕軌 /  Sengkang LRT Line}}}
+ * [[철도 관련 정보]]
+[[목차]]
+== 개요 ==
+||||<#787878> {{{#ffffff 싱가포르 LRT 셍캉선}}} ||
+||운영기관 ||SBS 트랜시트 ||
+||영업거리 ||10.7km ||
+||궤간 ||[[추가바람]] ||
+||역수 ||12 ||
+||전기 ||직류 750V ||
+||차량 ||Crystal Mover ||
+||표정속도 ||80km/h ||
+||차량기지 ||셍캉 차량기지 ||
+||지상구간 ||[[추가바람]] ||
+
+[[싱가포르 MRT]]의 한 노선으로 [[경전철]]이다. 경전철 노선색은 회색으로 통일되어있다. LRT 셍캉선(Sengkang LRT Line)은 [wiki:"싱가포르 MRT 북동선" 북동선]의 환승역인 셍캉 역을 중심으로 8자 모양의 선형을 하고 있다.
+무인 운전을 하며, 동쪽 순환선은 하루 종일 양방향으로 운행을 하고 있으며 서쪽 순환선은 첫차부터 오후 3시까지는 STC → SW1 , 3시 이후는 STC → SW8의 방향으로 운행하고 있다.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Singapore_Crystal_Mover.jpg/800px-Singapore_Crystal_Mover.jpg?&width=500
+미츠비시사에서 제작한 Crystal Mover 차량
+
+== 노선 ==
+attachment:sengkang.jpg
+=== 셍캉역 ===
+|| 역번호 || 한국어 역명 || 영어 역명 || 환승노선 || 비고 ||
+|| STC || 셍캉 || Sengkang || {{{#79318e ●}}}  [wiki:"싱가포르 MRT 북동선" 북동선] ||  ||
+=== 셍캉 동쪽 순환선 ===
+|| 역번호 || 한국어 역명 || 영어 역명 || 환승노선 || 비고 ||
+|| SE1 || 콤파스베일 || Compassvale ||  ||  ||
+|| SE2 || 룸비아 || Rumbia ||  ||  ||
+|| SE3 || 바카우 || Bakau ||  ||  ||
+|| SE4 || 캉카르 || Kangkar ||  ||  ||
+|| SE5 || 랑궁 || Ranggung ||  || ||
+=== 셍캉 서쪽 순환선 ===
+|| 역번호 || 한국어 역명 || 영어 역명 || 환승노선 || 비고 ||
+|| SW1 || 쳉 림 || Cheng Lim ||  ||  ||
+|| SW2 || 팜웨이 || Farmway ||  ||  ||
+|| SW3 || ~~쿠팡~~ || Kupang ||  || 미개통 ||
+|| SW4 || 탕감 || Thanggam ||  ||  ||
+|| SW5 || 펀베일 || Fernvale ||  ||  ||
+|| SW6 || 라야 || Layar ||  ||  ||
+|| SW7 || 통캉 || Tongkang ||  ||  ||
+|| SW8 || 렌종 || Renjong ||  ||  ||
+
+[[각주]]

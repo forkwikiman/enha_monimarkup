@@ -1,0 +1,58 @@
+[[BEMANI 시리즈]]의 악곡. [[NAOKI]]가 RevenG VS DE-SIRE라는 명의를 사용해서 작곡한 곡.--자아분열의 시초-- 이 두 명의의 특성을 서로 잘 보여주는 곡으로 기본은 일본 전통음악이지만 중간에 드럼앤베이스/정글 비스무리한 전개가 나오기도 한다. 샤미센 음이 일품.
+
+[[비트매니아 IIDX]]의 등장 캐릭터인 [[츠가루]]하곤 관계없다(...).
+
+[[목차]]
+
+== [[댄스 댄스 레볼루션]] ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/bQrgwEQ3pEs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple -}}} ||
+||<|3> 165[[br]](95~165)|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple -}}} ||
+
+DDRMAX2에 첫 수록되었다. EXPERT 채보는 [[In the Navy]]의 계보를 잇는 [[봉산탈춤]] 채보. 
+
+=== TSUGARU (APPLE MIX) ===
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/wWi0DvTM6NE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 11}}} ||
+||<|3> 165[[br]](81~165)|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 10}}} ||
+
+같은 작품에 같은 명의로 음을 약간 달리한 버전이 수록.
+
+== [[팝픈뮤직]] ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/bIC7bQJUeqU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+エッジの効いた津軽三味線が爪弾く日本の伝統民謡とダンスミュージックの極上コラボレーション。
+날카로움을 살린 츠가루 샤미센을 연주한 일본의 전통민요와 댄스 뮤직의 베스트 콜라보레이션.
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 18[[BR]]せんごく列伝 || JONGARA SPIRITUAL[[br]]종가라 스피리츄얼 || TSUGARU[[br]]츠가루 || RevenG VS DE-SIRE || 内田一門[[BR]]우치다 일문 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 165 || 43단계 || {{{#blue 15}}} || {{{#green 22}}} || {{{#orange 32}}} || {{{#red 37}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 26}}} || {{{#orange 38}}} || {{{#red 43}}} ||
+|||| 노트수 || {{{#blue 339}}} || {{{#green 372}}} || {{{#orange 632}}} || {{{#red 881}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+[[팝픈뮤직]] 18 전국열전에 이식. 해금이벤트 팝픈풍운록에서 아오모리현을 제압하면 해금된다.
+
+DDR에 미세하게나마 있었던 변속이 사라졌다.

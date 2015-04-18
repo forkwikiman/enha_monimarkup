@@ -1,0 +1,25 @@
+||<:><rowbgcolor=#FFFFFF>
+http://goto2020.cdn1.cafe24.com/img/game/tw/kw/icon/gdi/unit/heavy_harvester.png?width=200 ||<:> http://goto2020.cdn1.cafe24.com/img/game/tw/kw/ingame/gdi/unit/heavy_harvester.jpg ||
+||<:><bgcolor=#FFFF00> '''유닛 아이콘''' ||<:><bgcolor=#FFFF00> '''게임 내 텍스처''' ||
+
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/HgYun_uiBDY?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/HgYun_uiBDY?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="480" height="360"></object>
+}}}
+
+대사집
+
+|| 가격 || 1600원 ||
+|| 생산시간 || 16초 ||
+|| 요구사항 || 군수공장, 정제소 ||
+|| 능력 || 병력 주둔 벙커 제공 ||
+||<-2> [[스틸 탤론]] 전용 유닛 ||
+
+[[커맨드 앤 컨커3 케인의 분노]]에 등장하는 [[스틸 탤론]]의 [[wiki:"하베스터(커맨드 앤 컨커 시리즈)" 하베스터]]
+
+[wiki:"하베스터(커맨드 앤 컨커 시리즈)"하베스터]에 기본 무장 대신에 [[보병]]이 들어갈 수 있는 [[벙커]]가 달려 있으며 다른 진영의 [[wiki:"하베스터(커맨드 앤 컨커 시리즈)" 하베스터]]보다 방어력이 약간 높다.
+
+방어를 하려면 보병을 투입시켜야 하며 [[라이플맨 분대]]를 넣으면 [[머신건 하베스터]], [[미사일 분대]]를 넣으면 [[로켓 하베스터]]가 된다. 하지만 화력만 비교한다면 라이플맨 분대, 미사일 분대 등의 보병이 들어간 중장갑 하베스터의 화력이 훨씬 더 강하다.
+
+보병을 넣으면 방어능력이 다른 하베스터보다 좋아서 하베스터 테러에 쉽게 대응이 가능하지만, 문제는 중장갑 하베스터의 벙커를 관리하기 귀찮다는 점이다.(...) 물론 관리하지 않으면 상대에게 도움을 주는 셈이다. 그래서 하베스터 테러를 목적으로 접근하는 [[어택 바이크]], [[핏불]], [[시커]], [[wiki:"오르카(커맨드 앤 컨커 시리즈)"오르카]]가 등장한다면 미리 벙커에 [[미사일 분대]]를 넣어야 한다.
+
+주의할 점은 [[트래블러-59]]의 [[wiki:"컬티스트(커맨드 앤 컨커 시리즈)"컬티스트]]이다. 컬티스트는 벙커가 비면 방어가 불가능하다는 약점을 이용해 [[마인드 컨트롤]]하고 [[wiki:"GTA" 하베스터에 탑승하여 도주한다]].(...) 하지만 [[라이플맨 분대]]를 넣었다면 내리게 해서 먼저 공격하는 편이 좋다.

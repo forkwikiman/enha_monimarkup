@@ -1,0 +1,239 @@
+ * 상위항목: [[히어로즈 오브 마이트 앤 매직 3]]
+
+게임상에 등장하는 아티팩트(=아이템)에 대한 설명이다.
+
+[[목차]]
+
+=== 설명 ===
+아티팩트는 등급에 따라 4가지로 나뉘는데, 게임 상에서 직접 확인할 방법은 없고 그냥 얻기 쉽고 아티팩트가 주는 능력치가 별거 아닐수록 등급이 낮다고 보면 된다. 낮은 등급부터 보물(Treasure), 하급(Minor), 상급(Major), 유물급(Relic)으로 나뉜다. 
+
+커스텀 게임에서 시작 보너스를 아티팩트로 설정하면 보물급 아티팩트 하나를 준다. 보물급이나 하급 아티팩트는 그냥 필드에서 보물상자 열면 나올 때도 있고(확률은 5%), 일부 아티팩트 상점을 지을 수 있는 진영의 경우 상급 아티팩트까지는 구입할 수 있다. 드물게 아티팩트를 살 수 있는 건물인 암시장이 맵에 배치되기도 한다.[* 단 암시장은 원래 가지고 있는 아티팩트만 살 수 있다. 아티팩트 상점의 경우 한달이 지나면 아티팩트가 리필된다. 암시장의 경우 리필은 되는데 12개월이나 기다려야 하기 때문에 사실상 처음 파는 것만 있다고 보면 된다.] 기본적으로는 필드상에 배치된 것을 획득하거나, 아티팩트를 주는 이벤트 건물을 털거나, 일회성 이벤트 오브젝트에서 얻는다.
+
+확장팩 쉐도우 오브 데스에서는 아티팩트 여러개를 조합해서 만드는 '조합 아티팩트'라는 아이템도 등장했다.
+
+참고로 필드에 배치된 아티팩트를 얻을 경우 아티팩트를 얻게 되는 짤막한 이야기가 나오는데 이걸 보는 것도 소소한 재미 중 하나다. 다만 조합 아티팩트는 무조건 길가다가 강력한 아이템을 얻었다고만 나온다.
+
+참고로 아티팩트 자체에도 호위 부대나 조건을 걸어놓을 수 있다. 초기 맵인 에라시아의 부흥 버젼 맵에서 아티팩트 앞에 중립 크리쳐가 배치되지 않은 경우, 열에 아홉은 아티팩트를 지키고 있는 병력이 붙어 있어서 싸울 것인지 말 것인지 팝업이 뜬다. 이게 대단히 짜증나는 방식이라[* 일단 아티팩트를 그냥 먹을 수 없는 것도 짜증나고 지키고 있는 크리쳐의 종류나 숫자를 알 수 없다. 그야말로 복불복.] 확장팩에서는 그냥 중립 크리쳐를 배치해 놓는 방식으로 디자인되어 있다. 이보다 더 짜증나는 방법은 획득 조건을 특정 스킬(주로 외교술, 지도력)을 가진 영웅이 아니면 획득할 수 없게 하는 것이다. 그것도 주로 고급을 요구하기 때문에 사실상 아티팩트를 획득할 수 없는 경우도 있다. 이것도 확장팩에 가서는 보이지 않는다.
+
+http://www.heroesofmightandmagic.com/heroes3/h3px/papdoll.jpg
+아티팩트는 장착을 해야 효과가 발현된다.
+각각 1 머리, 2 목, 3 가슴(상체방어구), 4 어깨(주로 망토나 두건계열), 5오른손(주로 무기계열), 6왼손(주로 방패), 7손가락(반지나 장갑류), 8 발(하체방어구와 신발), 9 기타 소지품을 장비한다. 그리고 전쟁도구인 A노포, B탄약수레, C응급텐트, D발리스타가 존재한다. 아래 분류도 이에 따른다.  
+
+=== 장착 위치에 따른 분류 ===
+==== 머리 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 돌 유니콘 투구 (Helm of the Alabaster Unicorn) || http://heroes.thelazy.net/wiki/images/8/87/Artifact_Helm_of_the_Alabaster_Unicorn.gif || 보물 || 지식 +1 || 5000 ||
+|| 해골투구 (Skull Helmet) || http://heroes.thelazy.net/wiki/images/8/8d/Artifact_Skull_Helmet.gif || 보물 || 지식 +2, '''저주받은 갑옷 구성품''' || 15000 ||
+|| 혼돈의 투구 (Helm of Chaos) || http://heroes.thelazy.net/wiki/images/0/0c/Artifact_Helm_of_Chaos.gif || 하급 || 지식 +3 || 20000 ||
+|| 위대한 마법사의 왕관 (Crown of the Supreme Magi) || http://heroes.thelazy.net/wiki/images/a/a3/Artifact_Crown_of_the_Supreme_Magi.gif || 하급 || 지식 +4 || 25000 ||
+|| 지옥폭풍 투구 (Hellstorm Helmet) || http://heroes.thelazy.net/wiki/images/c/c1/Artifact_Hellstorm_Helmet.gif || 상급 || 지식 +5 || 30000 ||
+|| 드래곤 이빨 왕관 (Crown of Dragontooth) || http://heroes.thelazy.net/wiki/images/b/b7/Artifact_Crown_of_Dragontooth.gif || 유물 || 지식, 마력 +4 '''드래곤의 가호 구성품''' || 40000 ||
+|| 천둥의 투구 (Thunder Helmet) || http://heroes.thelazy.net/wiki/images/2/24/Artifact_Thunder_Helmet.gif || 유물 || 지식 +10, 마력 -2, '''타이탄의 번개 구성품''' || 50000 ||
+|| 선장의 모자 (Sea Captain's Hat) || http://heroes.thelazy.net/wiki/images/1/1e/Artifact_Sea_Captain%27s_Hat.gif || 유물 ||바다에서 이동력 증가, 소용돌이에서 유닛을 잃지 않음, 배 소환과 배 파괴 주문 얻음. 바다 맵이라면 좋지만 아니라면... '''제독의 모자 구성품''' || 75000 ||
+|| 거룩한 교화의 투구 (Helm of Heavenly Enlightenment) || http://heroes.thelazy.net/wiki/images/a/a2/Artifact_Helm_of_Heavenly_Enlightenment.gif || 유물 || 모든 능력치 +6, '''엔젤릭 얼라이언스 구성품''' || 120000 ||
+|| 마법사의 모자 (Spellbinder's Hat) || http://heroes.thelazy.net/wiki/images/d/d1/Artifact_Spellbinder%27s_Hat.gif || 유물 ||장비하면 모든 5레벨 마법을 쓸 수 있게됨 상당히 좋은 아이템. 차원의 문, 비행, 내파 등 좋은 마법들을 쓸 수 있다. 하지만 정령소환, 마법거울 같은 구린 마법도 있다는 것과 마력이 약하고 각 속성마법이 없다면 효과가 별로인 점은 유의해야 한다. || 150000 ||
+
+==== 목 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 마법 시전의 목걸이 (Collar of Conjuring) || http://heroes.thelazy.net/wiki/images/5/56/Artifact_Collar_of_Conjuring.gif || 보물 || 모든 마법 지속시간 +1[* 원래 지속시간이 있는 버프나 디버프, 설치마법에 해당한다. 이하 같은 옵션 동일. 참고로 마법의 지속시간은 영웅의 마력 수치와 같다.] '''마술반지 구성품''' || 2500 ||
+|| 냉정의 목걸이(Pendant of Dispassion) || http://heroes.thelazy.net/wiki/images/6/6e/Artifact_Pendant_of_Dispassion.gif || 보물 || 모든 유닛이 광폭화 주문에 면역이 된다 광폭화가 두렵다면 쓰자. || 5000 ||
+|| 자유의지의 목걸이 (Pendant of Free Will) || http://heroes.thelazy.net/wiki/images/6/69/Artifact_Pendant_of_Free_Will.gif || 보물 || 모든 유닛이 최면 주문에 면역이 된다 || 5000 ||
+|| 생명의 목걸이 (Pendant of Life) || http://heroes.thelazy.net/wiki/images/d/dc/Artifact_Pendant_of_Life.gif || 보물 || 모든 유닛이 죽음의 물결 주문에 면역이 된다 || 12500 ||
+|| 죽음의 목걸이 (Pendant of Death) || http://heroes.thelazy.net/wiki/images/2/26/Artifact_Pendant_of_Death.gif || 보물 || 모든 유닛이 언데드 파괴 주문에 면역이 된다 || 12500 ||
+||기억의 목걸이 (Pendant of Total Recall) || http://heroes.thelazy.net/wiki/images/1/11/Artifact_Pendant_of_Total_Recall.gif || 보물 || 모든 유닛이 망각 주문에 면역이 된다. 타워라면 원할만하다. || 15000 ||
+|| 신성의 목걸이 (Pendant of Holiness) || http://heroes.thelazy.net/wiki/images/1/1f/Artifact_Pendant_of_Holiness.gif || 보물 || 모든 유닛이 저주 주문에 면역이 된다 면역 아이템이 모두 그렇듯이 상대의 마법이 두렵다면 쓰자. || 25000 ||
+|| 장의사의 목걸이 (Amulet of the Undertaker) || http://heroes.thelazy.net/wiki/images/3/3f/Artifact_Amulet_of_the_Undertaker.gif || 보물 || 강령술 스킬 +5% '''언데드 왕의 망토 구성품''' || 10000 ||
+|| 신속의 목걸이 (Necklace of Swiftness) || http://heroes.thelazy.net/wiki/images/1/11/Artifact_Necklace_of_Swiftness.gif || 보물 || 모든 유닛 속도 +1[* 속도에 목숨을 거는 게임 진행 특성상 두 등급 이상 올려줘도 될 만큼 효과가 좋다. '속도=우선권 ||이동력'이기 때문.] || 25000 ||
+|| 간섭의 목걸이(Garniture of Interference) || http://heroes.thelazy.net/wiki/images/3/39/Artifact_Garniture_of_Interference.gif || 상급 || 마법 저항 +5% 가끔 의외의 모습을 보여줄 수 있지만 그리 기대할 만한 아이템은 아니다. || 10000 ||
+|| 교섭의 메달 (Statesman's Medal) || http://heroes.thelazy.net/wiki/images/9/99/Artifact_Statesman%27s_Medal.gif || 상급 || 항복 비용을 줄여줌 [* 실제로는 항복비용은 전혀 낮추지 않고, 중립유닛의 적대도를 1 낮추는 기능을 한다. 밑의 두 아이템도 동일한 효과.] || 25000 ||
+|| 또다른 시야의 목걸이 (Pendant of Second Sight) || http://heroes.thelazy.net/wiki/images/c/cf/Artifact_Pendant_of_Second_Sight.gif || 상급 || 모든 유닛이 장님 주문에 면역이 된다 || 25000 ||
+|| 동요의 목걸이 (Pendant of Agitation) || http://heroes.thelazy.net/wiki/images/a/a5/Artifact_Pendant_of_Negativity.gif || 상급 || 모든 유닛이 번개와 연속번개 주문에 면역이 된다[* SOD 판에서는 부정의 목걸이(Pendant of Negativity)로 이름이 바뀌어 있다. 참고로 착용자가 쓰는 연속번개 주문에도 면역이 돼서 연속번개를 쓰면 적에게만 번개가 튀므로 거리낌 없이 주문을 쓸 수 있다.][[솔미르]]같은 영웅 상대로 제격 || 25000 ||
+|| 용이빨 목걸이 (Necklace of Dragonteeth) || http://heroes.thelazy.net/wiki/images/d/d9/Artifact_Necklace_of_Dragonteeth.gif || 상급 || 지식, 마력 +3 '''드래곤의 가호 구성품''' || 30000 ||
+|| 용기의 목걸이(Pendant of Courage) || http://heroes.thelazy.net/wiki/images/2/25/Artifact_Pendant_of_Courage.gif || 상급 || 모든 유닛 행운, 사기 +3 사기를 많이 올려주기 때문에 어지간히 사기가 낮은 게 아니라면 사기문제를 많이 덜어준다. 행운도 가끔 기대할 수준. || 35000 ||
+|| 바다 안내자의 목걸이(Necklace of Ocean Guidance) || http://heroes.thelazy.net/wiki/images/d/db/Artifact_Necklace_of_Ocean_Guidance.gif || 상급 || 영웅의 해상 이동력 증가 '''제독의 모자 구성품''' || 50000 ||
+|| 천상의 환희의 목걸이 (Celestial Necklace of Bliss) || http://heroes.thelazy.net/wiki/images/2/2d/Artifact_Celestial_Necklace_of_Bliss.gif || 유물 || 모든 능력치 +3 '''엔젤릭 얼라이언스 구성품''' || 60000 ||
+
+==== 가슴 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 석화목 흉갑 (Breastplate of Petrified Wood) || http://heroes.thelazy.net/wiki/images/0/0d/Artifact_Breastplate_of_Petrified_Wood.gif || 보물 || 마력 +1 || 5000 ||
+|| 늑골 흉갑 (Rib Cage) || http://heroes.thelazy.net/wiki/images/2/2f/Artifact_Rib_Cage.gif || 하급 || 지식, 마력 +2 '''저주받은 갑옷 구성품''' || 15000 ||
+|| 거대한 바실리스크 비늘갑옷 (Scales of the Greater Basilisk) || http://heroes.thelazy.net/wiki/images/0/0e/Artifact_Scales_of_the_Greater_Basilisk.gif || 하급 || 마력 +3 || 20000 ||
+|| 경이의 갑옷 (Armor of Wonder) || http://heroes.thelazy.net/wiki/images/a/ab/Artifact_Armor_of_Wonder.gif || 하급 || 모든 능력치 +1 '''엔젤릭 얼라이언스 구성품''' || 20000 ||
+|| 사이클롭스 왕의 의복 (Tunic of the Cyclops King) || http://heroes.thelazy.net/wiki/images/a/a4/Artifact_Tunic_of_the_Cyclops_King.gif || 상급 || 마력 +4 || 25000 ||
+|| 유황 흉갑 (Breastplate of Brimstone) || http://heroes.thelazy.net/wiki/images/f/fb/Artifact_Breastplate_of_Brimstone.gif || 상급 || 마력 +5 || 30000 ||
+|| 드래곤 비늘 갑옷 (Dragon Scale Armor) || http://heroes.thelazy.net/wiki/images/b/b9/Artifact_Dragon_Scale_Armor.gif || 유물 || 공격, 방어 +4 '''드래곤의 가호 구성품''' || 40000 ||
+|| 타이탄의 갑옷 (Titan's Cuirass) || http://heroes.thelazy.net/wiki/images/4/48/Artifact_Titan%27s_Cuirass.gif || 유물 || 마력 +10, 지식 -2 '''타이탄의 번개 구성품''' || 50000 ||
+
+==== 어깨 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 마법 시전의 어깨덮개 (Cape of Conjuring) || http://heroes.thelazy.net/wiki/images/f/fe/Artifact_Cape_of_Conjuring.gif || 보물 || 모든 마법 지속시간 +3 '''마술 반지 구성품''' || 7500 ||
+|| 용날개 휘장 (Dragon Wing Tabard) || http://heroes.thelazy.net/wiki/images/d/d1/Artifact_Dragon_Wing_Tabard.gif || 하급 || 지식, 마력 +2 '''드래곤의 가호 구성품''' || 20000 ||
+|| 흡혈귀의 덮개 (Vampire's Cowl) || http://heroes.thelazy.net/wiki/images/b/b3/Artifact_Vampire%27s_Cowl.gif || 하급 || 강령술 스킬 +10% '''언데드 왕의 망토 구성품''' || 20000 ||
+|| 균형의 외투 (Surcoat of Counterpoise) || http://heroes.thelazy.net/wiki/images/b/b0/Artifact_Surcoat_of_Counterpoise.gif || 상급 || 마법 저항 +10% 간섭의 목 적 마법이 무섭다면 운믿고 써보는 것도 나쁘지 않다. || 20000 ||
+|| 사절의 장식띠 (Ambassador's Sash) || http://heroes.thelazy.net/wiki/images/d/d0/Artifact_Ambassador%27s_Sash.gif || 상급 || 항복 비용을 줄여줌 || 25000 ||
+|| 영원한 수정 망토 (Everflowing Crystal Cloak) || http://heroes.thelazy.net/wiki/images/2/21/Artifact_Everflowing_Crystal_Cloak.gif || 상급 || 매일 수정 +1 램파트나 스트롱홀드가 좋아할 아이템. 보조에게 주자. '''풍요의 뿔 구성품''' || 25000 ||
+|| 철회의 망토 (Recanter's Cloak) || http://heroes.thelazy.net/wiki/images/3/36/Artifact_Recanter%27s_Cloak.gif || 상급 || 전투시 적, 아군 모두 3레벨 이상 주문을 못 쓰게 된다 양날의 검.이 쪽이 마법을 주력으로 쓴다면 끼지 말아야 하지만 스트롱홀드같이 마법에 약하다면 끼는 게 좋다.[* 면역계 아티팩트에서는 효과가 최상위다. 1, 2 레벨에서 구멍이 생기는 것은 안타까우나 자신이 후공을 잡더라도 상대의 3레벨 이상을 확실히 막아준다] || 40000 |||
+|| 속도의 망토 (Cape of Velocity) || http://heroes.thelazy.net/wiki/images/d/d2/Artifact_Cape_of_Velocity.gif || 상급 || 모든 유닛 속도 +2 속도 아이템의 최고봉. 어느 정도의 속도차도 극복해주는 휼륭한 아이템. || 50000 ||
+|| 천사의 날개 (Angel Wings) || http://heroes.thelazy.net/wiki/images/3/3d/Artifact_Angel_Wings.gif || 유물 || 영웅이 날아다니게 됨 고급[* 한마디로 무조건 한 걸음마다 이동력 1씩 소모한다는 것이다!] 비행 마법을 항시 쓰는 셈. 사기 아이템. || 100000 ||
+
+==== 오른손 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 켄타우르스의 도끼 (Centaur's Axe) || http://heroes.thelazy.net/wiki/images/3/36/Artifact_Centaur%27s_Axe.gif || 보물 || 공격 +2 || 10000 ||
+|| 죽은 기사의 암흑검(Blackshard of the Dead Knight) || http://heroes.thelazy.net/wiki/images/a/aa/Artifact_Blackshard_of_the_Dead_Knight.gif || 하급 || 공격 +3 '''저주받은 갑옷 구성품''' || 15000 ||
+|| 거대한 놀의 철퇴(Greater Gnoll's Flail) || http://heroes.thelazy.net/wiki/images/f/f9/Artifact_Greater_Gnoll%27s_Flail.gif || 하급 || 공격 +4 || 20000 ||
+|| 불타는 붉은용의 혀(Red Dragon Flame Tongue) || http://heroes.thelazy.net/wiki/images/c/c9/Artifact_Red_Dragon_Flame_Tongue.gif || 하급 || 공격, 방어 +2 '''드래곤의 가호 구성품''' || 20000 ||
+|| 오우거의 파괴 곤봉(Ogre's Club of Havoc) || http://heroes.thelazy.net/wiki/images/0/0d/Artifact_Ogre%27s_Club_of_Havoc.gif || 상급 || 공격 +5 || 25000 ||
+|| 지옥불꽃 검(Sword of Hellfire) || http://heroes.thelazy.net/wiki/images/5/53/Artifact_Sword_of_Hellfire.gif || 상급 || 공격 +6 || 30000 ||
+|| 타이탄의 검(Titan's Gladius) || http://heroes.thelazy.net/wiki/images/e/e5/Artifact_Titan%27s_Gladius.gif || 유물 || 공격 +12, 방어 -3 '''타이탄의 번개 구성품''' || 50000 ||
+|| 심판의 검(Sword of Judgement) || http://heroes.thelazy.net/wiki/images/d/d6/Artifact_Sword_of_Judgement.gif || 유물 || 모든 능력치 +5 '''엔젤릭 얼라이언스 구성품''' || 100000 ||
+|| [wiki:"아마게돈 블레이드" '''아마겟돈 블레이드'''](Armageddon's Blade) || http://heroes.thelazy.net/wiki/images/d/db/Artifact_Armageddon%27s_Blade_%28artifact%29.gif || 유물 || 공격력 +3, 방어력 +3, 지력 +3, 마력 +6을 올려주고 지혜 기술에 상관없이 소지한 영웅에게 고급 아마겟돈 마법을 부여하며 자신의 부대원 전원은 아마겟돈 마법에 면역이 된다. 확장팩에서만 등장하는 금단의 사기 아이템. || 250000 ||
+
+==== 왼손 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 드워프 군주의 방패 (Shield of the Dwarven Lords) || http://heroes.thelazy.net/wiki/images/4/4c/Artifact_Shield_of_the_Dwarven_Lords.gif || 보물 || 방어 +2 || 10000 ||
+|| 울부짖는 죽음의 방패 (Shield of the Yawning Dead) || http://heroes.thelazy.net/wiki/images/8/80/Artifact_Shield_of_the_Yawning_Dead.gif || 하급 || 방어 +3 '''저주받은 갑옷 구성품''' || 15000 ||
+|| 놀 왕의 방패 (Buckler of the Gnoll King) || http://heroes.thelazy.net/wiki/images/e/eb/Artifact_Buckler_of_the_Gnoll_King.gif || 하급 || 방어 +4 || 20000 ||
+|| 광란의 오우거 방패 (Targ of the Rampaging Ogre) || http://heroes.thelazy.net/wiki/images/b/b7/Artifact_Targ_of_the_Rampaging_Ogre.gif || 상급 || 방어 +5 || 25000 ||
+|| 저주받은 방패 (Shield of the Damned) || http://heroes.thelazy.net/wiki/images/b/b3/Artifact_Shield_of_the_Damned.gif || 상급 || 방어 +6 || 30000 ||
+|| 용비늘 방패 (Dragon Scale Shield) || http://heroes.thelazy.net/wiki/images/9/97/Artifact_Dragon_Scale_Shield.gif || 상급 || 공격, 방어 +3 '''드래곤의 가호 구성품''' || 30000 ||
+|| 파수병의 방패 (Sentinel's Shield) || http://heroes.thelazy.net/wiki/images/c/c0/Artifact_Sentinel%27s_Shield.gif || 유물 || 방어 +12, 공격 -3 '''타이탄의 번개 구성품''' || 50000 ||
+|| 용맹한 사자 방패 (Lion's Shield of Courage) || http://heroes.thelazy.net/wiki/images/3/31/Artifact_Lion%27s_Shield_of_Courage.gif || 유물 || 모든 능력치 +4 '''엔젤릭 얼라이언스 구성품''' || 80000 ||
+
+==== 손가락 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 마법 시전의 반지 (Ring of Conjuring) || http://heroes.thelazy.net/wiki/images/c/c4/Artifact_Ring_of_Conjuring.gif || 보물 || 모든 마법 지속시간 +2 '''마술반지 구성품''' || 5000 ||
+|| 잠잠한 용의 눈 (Quiet Eye of the Dragon) || http://heroes.thelazy.net/wiki/images/8/86/Artifact_Quiet_Eye_of_the_Dragon.gif || 보물 || 공격, 방어 +1 '''드래곤의 가호 구성품''' || 10000 ||
+|| 고요한 용의 눈 (Still Eye of the Dragon) || http://heroes.thelazy.net/wiki/images/8/85/Artifact_Still_Eye_of_the_Dragon.gif || 보물 || 행운, 사기 +1 '''드래곤의 가호 구성품''' || 10000 ||
+|| 체력의 반지 (Ring of Vitality) || http://heroes.thelazy.net/wiki/images/0/08/Artifact_Ring_of_Vitality.gif || 보물 ||모든 유닛 체력 +1[* 언데드, 정령 등 생명체가 아닌 유닛은 적용받지 않는다. 즉 뱀파이어 로드의 흡혈이 통하는 상대만 이 옵션이 적용된다.] 저레벨 유닛에겐 의외로 괜찮은 아이템. '''앨릭셔 오브 라이프 구성품''' || 25000 ||
+|| 생명의 반지 (Ring of Life) || http://heroes.thelazy.net/wiki/images/9/94/Artifact_Ring_of_Life.gif || 하급 ||모든 유닛 체력 +1[* 언데드, 정령 등 생명체가 아닌 유닛은 적용받지 않는다. 즉 뱀파이어 로드의 흡혈이 통하는 상대만 이 옵션이 적용된다. 체력의 반지와 다른 물건이기 때문에 옵션이 중첩된다. 즉 체력의 반지와 생명의 반지를 둘 다 끼면 체력 +2가 된다.] 저레벨 유닛에겐 의외로 괜찮은 아이템. '''앨릭셔 오브 라이프 구성품''' || 25000 ||
+|| 기병의 장갑 (Equestrian's Gloves) || http://heroes.thelazy.net/wiki/images/8/89/Artifact_Equestrian%27s_Gloves.gif || 하급 || 영웅의 이동력 증가 +3. 괜찮은 이동력 증가 수단. 단, 두 개를 껴도 하나만 적용된다. || 15000 ||
+|| 외교관의 반지 (Diplomat's Ring) || http://heroes.thelazy.net/wiki/images/c/c5/Artifact_Diplomat%27s_Ring.gif || 상급 || 항복 비용을 줄여줌 || 25000 ||
+|| 길잡이의 반지( Ring of the Wayfarer) || http://heroes.thelazy.net/wiki/images/f/fd/Artifact_Ring_of_the_Wayfarer.gif || 상급 || 모든 유닛 속도 +1, 영웅의 이동력 증가 +6 || 25000 ||
+|| 끝없는 보석 반지 (Ring of Infinte Gems) || http://heroes.thelazy.net/wiki/images/e/e4/Artifact_Ring_of_Infinite_Gems.gif || 상급 || 매일 보석 +1 타워나 캐슬이 좋아할 아이템. 보조에게 주는 게 더 효율적이다. '''풍요의 뿔 구성품''' || 25000 ||
+|| 영원히 타오르는 유황 반지 (Eversmoking Ring of Sulfur) || http://heroes.thelazy.net/wiki/images/f/fd/Artifact_Eversmoking_Ring_of_Sulfur.gif || 상급 || 매일 유황 +1 포트리스나 던전이 좋아할 아이템. '''풍요의 뿔 구성품''' || 25000 ||
+
+==== 발 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 용뼈 무릎받이 (Dragonbone Greaves) || http://heroes.thelazy.net/wiki/images/f/fa/Artifact_Dragonbone_Greaves.gif || 보물 || 지식, 마력 +1. '''드래곤의 가호 구성품''' || 10000 ||
+|| 신속의 장화 (Boots of Speed) || http://heroes.thelazy.net/wiki/images/7/72/Artifact_Boots_of_Speed.gif || 하급 || 영웅 이동력 +6 || 30000 ||
+|| 망자의 장화 (Dead Man's Boots) || http://heroes.thelazy.net/wiki/images/4/4d/Artifact_Dead_Man%27s_Boots.gif || 상급 || 강령술 스킬 +15%, '''언데드 왕의 망토 구성품''' || 30000 ||
+|| 극단의 장화 (Boots of Polarity) || http://heroes.thelazy.net/wiki/images/7/71/Artifact_Boots_of_Polarity.gif || 유물 || 마법 저항 +15% || 30000 ||
+|| 성스러운 샌들 (Sandals of the Saint) || http://heroes.thelazy.net/wiki/images/7/78/Artifact_Sandals_of_the_Saint.gif || 유물 || 모든 능력치 +2, '''엔젤릭 얼라이언스 구성품''' || 40000 ||
+|| 수상보행 장화 (Boots of Levitation) || http://heroes.thelazy.net/wiki/images/5/50/Artifact_Boots_of_Levitation.gif || 유물 || 고급 수상보행 마법 효과가 지속됨 || 50000 ||
+
+==== 기타 ====
+|| 이름 || || 등급 || 효과 || 가격 ||
+|| 확대경 (Speculum) || http://heroes.thelazy.net/wiki/images/0/0a/Artifact_Speculum.gif || 보물 || 시야 +1 || 5000 ||
+|| 망원경 (Spyglass) || http://heroes.thelazy.net/wiki/images/5/51/Artifact_Spyglass.gif || 보물 || 시야 +1 || 5000 ||
+|| 지각의 새 (Bird of Perception) || http://heroes.thelazy.net/wiki/images/6/68/Artifact_Bird_of_Perception.gif || 보물 || [[독수리의 눈]] 스킬 +5%. 제단에 희생하거나 아티팩트 상점에서 엿 바꿔먹으면 된다. || 5000 ||
+|| 감시자 석상(Stoic Watchman) || http://heroes.thelazy.net/wiki/images/9/9f/Artifact_Stoic_Watchman.gif || 보물 || 독수리의 눈 스킬 +10% 위와 동문. || 10000 ||
+|| 마나의 부적[* 이게 한글판에는 '마나의 매력'이라는 기묘한 이름으로 되어있다. Charm에는 매혹이라는 뜻 말고 작은 부적이라는 뜻도 있다.] (Charm of Mana) || http://heroes.thelazy.net/wiki/images/0/04/Artifact_Charm_of_Mana.gif || 보물 || 매일 마력 1 회복 '''마법사의 우물 구성품''' || 2500 ||
+|| 마나의 부적 (Talisman of ManaTalisman of Mana) || http://heroes.thelazy.net/wiki/images/9/98/Artifact_Talisman_of_Mana.gif || 보물 || 매일 마력 2 회복 '''마법사의 우물 구성품''' || 5000 || 
+|| 마나의 신비한 보주 (Mystic Orb of Mana) || http://heroes.thelazy.net/wiki/images/f/fd/Artifact_Mystic_Orb_of_Mana.gif || 보물 || 매일 마력 3 회복[* 평상시에는 있는지 없는지도 모를 아이템이지만, 아마겟돈즈 블레이드의 드래곤 슬레이어 캠페인 마지막 맵에서 거의 필수적이다. 맵 전체를 통틀어서 마나를 회복할 수 있는 장소가 전혀 없기 때문.] '''마법사의 우물 구성품''' || 7500 ||
+|| 행운의 클로버 (Clover of Fortune) || http://heroes.thelazy.net/wiki/images/5/5f/Artifact_Clover_of_Fortune.gif || 보물 || 행운 +1 || 5000 ||
+|| 예언의 카드 (Cards of Prophecy) || http://heroes.thelazy.net/wiki/images/5/5d/Artifact_Cards_of_Prophecy.gif || 보물 || 행운 +1 || 5000 ||
+|| 행운의 새 (Ladybird of Luck) || http://heroes.thelazy.net/wiki/images/4/43/Artifact_Ladybird_of_Luck.gif || 보물 || 행운 +1 || 5000 ||
+|| 사악한 모래시계 (Hourglass of the Evil Hour) || http://heroes.thelazy.net/wiki/images/7/70/Artifact_Hourglass_of_the_Evil_Hour.gif || 보물 ||적, 아군 모두 행운 패널티나 보너스를 받지 못하게 한다 이건 금제의 영혼보다 쓸모없다. 불행은 거의 보는 게 불가능하고 행운도 확률이 별로라 이렇다 할 쓸 방법이 없다. || 10000 ||
+|| 용맹의 문장 (Crest of Valor) || http://heroes.thelazy.net/wiki/images/5/5a/Artifact_Crest_of_Valor.gif || 보물 || 사기 +1 || 5000 ||
+|| 용기의 글리프 (Glyph of Gallantry) || http://heroes.thelazy.net/wiki/images/4/41/Artifact_Glyph_of_Gallantry.gif || 보물 || 사기 +1 || 5000 ||
+|| 용기의 휘장 (Badge of Courage) || http://heroes.thelazy.net/wiki/images/1/15/Artifact_Badge_of_Courage.gif || 보물 || 사기 +1, 아군이 모든 정신마법에 면역[* 거의 유물급이지만, 게임 상에서는 전혀 언급이 안된 숨겨진 효과다. 타워 7레벨 유닛인 타이탄의 특수능력인 정신마법 면역과 같다.]사기 증가 아이템들은 대부분 있으면 가끔 사기 효과를 볼 수 있는 수준의 성능이다. 다만 다른 타운 유닛이 셖여있다면 한 두 개 착용해 사기저하를 막는 데 쓸 수 있다. || 5000 ||
+||금제의 영혼 (Spirit of Oppression) || http://heroes.thelazy.net/wiki/images/d/d4/Artifact_Spirit_of_Oppression.gif || 보물 ||적, 아군 모두 사기 패널티나 보너스를 받지 못하게 한다. [[양날의 검]]. 이 쪽의 사기 수준에 따라 착용해야 한다. 만약 사기가 떨어져 있거나 아군이 네크로폴리스거나 상대가 지도력을 익혔다면 쓸 만하다. || 10000 ||
+|| 엘프족 벚나무 활(Bow of Elven Cherrywood) || http://heroes.thelazy.net/wiki/images/2/2f/Artifact_Bow_of_Elven_Cherrywood.gif || 보물 || 궁술 스킬 +5% '''샤프슈터의 활 구성품''' || 10000 ||
+|| 군단의 다리 (Legs of Legion) || http://heroes.thelazy.net/wiki/images/f/fa/Artifact_Legs_of_Legion.gif || 보물 ||장비하고 마을에 있으면 2레벨 유닛 성장률 +5[* 각 주차의 1일이 되는 날 마을에 이 아티팩트를 장비한 영웅이 있어야 한다. 즉 7일차에 마을로 진입한 상태로 턴을 넘겨야 하는 것. 이하 같은 옵션 동일] '''군단의 조각상 구성품''' || 25000 ||
+|| 마법 두루마리(Scroll) || http://heroes.thelazy.net/wiki/images/5/5a/Artifact_Spell_Scroll.gif || 보물 ||장착시 두루마리에 적힌 마법을 쓸 수 있게 해준다. 두루마리에 적힌 마법은 맵 에디터에서 지정한 것이 없으면 랜덤하게 나온다. 랜덤 맵 생성기를 사용해 맵을 만들면 이상하게 마법 두루마리가 많이 배치된다. 타운포탈, 부활, 내파, 차원의 문 등 좋은 마법이라면 좋지만 아니면 그저 그런 아이템. 마법의 화살같은 저레벨 마법이 담긴 두루마리는 가능하다면 아티팩트 상점에 팔아치우자. 두루마리는 트레져급이고 가격이 2500원이라 은근히 돈이 된다. || 2500 ||
+|| 인식의 문장 (Emblem of Cognizance) || http://heroes.thelazy.net/wiki/images/a/ac/Artifact_Emblem_of_Cognizance.gif || 하급 || 독수리의 눈 스킬 +15%. 엿 바꿔먹으면 된다. || 15000 ||
+|| 유니콘 갈기 활시위 (Bowstring of the Unicorn's Mane) || http://heroes.thelazy.net/wiki/images/2/24/Artifact_Bowstring_of_the_Unicorn%27s_Mane.gif || 하급 || 궁술 스킬 +10% '''샤프슈터의 활 구성품''' || 20000 ||
+|| 끝없는 광물 수레 (Inexhaustible Cart of Ore) || http://heroes.thelazy.net/wiki/images/b/ba/Artifact_Inexhaustible_Cart_of_Ore.gif || 하급 ||매일 광물 +1 자원증가템은 주력이 끼긴 아까우니 보조에게 주는 게 좋다. || 25000 ||
+|| 끝없는 목재 수레 (Inexhaustible Cart of Lumber) || http://heroes.thelazy.net/wiki/images/6/6a/Artifact_Inexhaustible_Cart_of_Lumber.gif || 하급 ||매일 목재 +1 자원증가템은 주력이 끼긴 아까우니 보조에게 주는 게 좋다. || 25000 ||
+|| 군단의 허리 (Loins of Legion) || http://heroes.thelazy.net/wiki/images/1/1a/Artifact_Loins_of_Legion.gif || 하급 || 장비하고 마을에 있으면 3레벨 유닛 성장률 +4 '''군단의 조각상 구성품''' || 25000 ||
+|| 군단의 가슴 (Torso of Legion) || http://heroes.thelazy.net/wiki/images/8/8f/Artifact_Torso_of_Legion.gif || 하급 || 장비하고 마을에 있으면 4레벨 유닛 성장률 +3 '''군단의 조각상 구성품''' || 25000 ||
+||창공의 구슬 (Orb of the Firmament) || http://heroes.thelazy.net/wiki/images/1/1f/Artifact_Orb_of_the_Firmament.gif || 상급 ||공기마법 효과 +50% 번개와 연속 번개 위력이 높아지기 때문에 쓸만하다. 대기마법의 책이 있다면 금상첨화 || 30000 ||
+|| 진흙의 구슬 (Orb of Silt) || http://heroes.thelazy.net/wiki/images/5/52/Artifact_Orb_of_Silt.gif || 상급 ||땅마법 효과 +50% 가장 좋은 구슬이다. 부활, 운석 폭풍, 내파 등 땅마법 주력마법들을 강화시켜준다. 대지마법의 책이나 고급 대지마법이 있다면 매우 좋다. || 30000 ||
+|| 쏟아지는 비의 구슬 (Orb of Driving Rain) || http://heroes.thelazy.net/wiki/images/c/c4/Artifact_Orb_of_Driving_Rain.gif || 상급 ||물마법 효과 +50% 가장 나쁜 구슬. 물마법은 수치가 없는 마법이 대부분이라 효과를 거의 보지 못한다. 기껏해야 아이스볼트 정도. 그나마도 아이스볼트를 강화해야 번개보다 조금 낫거나 같은 수준. || 30000 ||
+|| 타오르는 불꽃의 구슬 (Orb of Tempestuous Fire) || http://heroes.thelazy.net/wiki/images/3/3a/Artifact_Orb_of_Tempestuous_Fire.gif || 상급 ||불마법 효과 +50% 애매하다. 아마게돈, 파이어볼, 화염폭발 등 효과를 볼 마법은 꽤 있지만 아마게돈을 빼면 워낙 기본 위력이 너무 약해 강화해도 그저 그렇다. 파이어볼이나 화염폭발을 주력으로 쓰지 않는다면 별로다. || 30000 ||
+|| 영원의 구슬 (Sphere of Permanence) || http://heroes.thelazy.net/wiki/images/0/00/Artifact_Sphere_of_Permanence.gif || 상급 || 모든 유닛이 마법해제 주문에 면역이 된다. || 37500 ||
+|| 천사깃털 화살 (Angel Feather Arrows) || http://heroes.thelazy.net/wiki/images/6/61/Artifact_Angel_Feather_Arrows.gif || 상급 ||궁술 스킬 +15% 궁술이 있고 원거리유닛이 주력이면 끼는 게 좋다. '''샤프슈터의 활 구성품''' || 30000 ||
+|| 황금 활 (Golden Bow) || http://heroes.thelazy.net/wiki/images/5/54/Artifact_Golden_Bow.gif || 상급 ||원거리 유닛들이 거리와 장애물 사격 패널티를 받지 않게 된다. 타워에게 가장 좋지만 다른 타운에서도 있으면 아주 좋다. || 40000 ||
+|| 생명의 피 약병 (Vial of Lifeblood) || http://heroes.thelazy.net/wiki/images/4/45/Artifact_Vial_of_Lifeblood.gif || 상급 || 모든 유닛 체력 +2. 특히 1레벨 유닛의 생존력을 크게 늘려준다. '''앨릭셔 오브 라이프 구성품''' || 50000 ||
+|| 비어지지 않는 수은 병 (Everpouring Vial of Mercury) || http://heroes.thelazy.net/wiki/images/1/1f/Artifact_Everpouring_Vial_of_Mercury.gif || 상급 ||매일 수은 +1 컨플럭스나 포트리스가 좋아할 아이템. 주력영웅이라면 아이템 칸이 넉넉한 게 아니면 보조에게 주는 편이 낫다. '''풍요의 뿔 구성품''' || 25000 ||
+|| 끝없는 금 지갑 (Endless Purse of Gold) || http://heroes.thelazy.net/wiki/images/3/3e/Artifact_Endless_Purse_of_Gold.gif || 상급 || 매일 금 +500 || 25000 ||
+|| 끝없는 금 가방 (Endless Bag of Gold) || http://heroes.thelazy.net/wiki/images/c/c1/Artifact_Endless_Bag_of_Gold.gif || 상급 ||매일 금 +750 보조영웅이 가지면 그런대로 도움이 되는 아이템. 주력이라도 끼고 다니다 전투 시에 전투에 도움이 되는 템으로 갈아끼우는 식으로 운영이 가능하다. || 37500 ||
+|| 군단의 팔 (Arms of Legion) || http://heroes.thelazy.net/wiki/images/3/32/Artifact_Arms_of_Legion.gif || 상급 || 장비하고 마을에 있으면 5레벨 유닛 성장률 +2 || 25000 ||
+|| 군단의 머리 (Head of Legion) || http://heroes.thelazy.net/wiki/images/6/68/Artifact_Head_of_Legion.gif || 상급 || 장비하고 마을에 있으면 6레벨 유닛 성장률 +1 || 25000 ||
+|| 전쟁의 족쇄 (Shackles of War) || http://heroes.thelazy.net/wiki/images/2/2a/Artifact_Shackles_of_War.gif || 상급 || 적, 아군 모두 전투중 도주, 항복이 불가능하게 된다[* 어려움 난이도부터 AI는 불리하다 싶으면 주문 한방 쏴갈기고 튀는 짓거리도 서슴없이 해댄다. 이게 귀찮다면 장만해볼만한 아이템] || 25000 ||
+|| 불 마법의 책 (Tome of Fire Magic) || http://heroes.thelazy.net/wiki/images/5/5c/Artifact_Tome_of_Fire.gif || 유물 ||장비하면 모든 불마법을 쓸 수 있게됨  아마겠돈에 먼역인 유닛이 있다면 아마겟돈을 써먹을 수 있고  광폭도 좋은 마법이다. 단 고급 불마법이 없으면 꽤 애매한 면이 있다. || 100000 ||
+|| 공기 마법의 책 (Tome of Air Magic) || http://heroes.thelazy.net/wiki/images/d/d8/Artifact_Tome_of_Air.gif || 유물 ||장비하면 모든 공기마법을 쓸 수 있게됨 대지마법의 책 다음의 책이라 할 수 잇다. 연속번개, 반격, 차원의 문, 비행 들 좋은 마법이 많다. || 100000 ||
+|| 물 마법의 책 (Tome of Water Magic) || http://heroes.thelazy.net/wiki/images/e/e9/Artifact_Tome_of_Water.gif || 유물 ||장비하면 모든 물마법을 쓸 수 있게됨 좀 애매한 책. 책 류의 장점은 그 속성에서 우수한 마법을 골라 쓸 수 있다는 것인데 물마법은 딱히 사기적인 마법이 없고 자주 쓰는 디스펠, 치료는 고작 1레벨이고 다른 마법들도 대부분 배우는 레벨이 그리 높은 것도 아니다. || 100000 ||
+|| 땅 마법의 책(Tome of Earth Magic) || http://heroes.thelazy.net/wiki/images/8/8b/Artifact_Tome_of_Earth.gif || 유물 ||장비하면 모든 땅마법을 쓸 수 있게됨 가장 좋은 책. 운석폭풍, 부활, 내파, 타운 포탈 만으로 이미 이 책의 가치는 이루 말할 수 없다. 다만 땅마법을 못 배웠다면 가치가 떨어진다. 땅마법의 구슬과의 궁합도 최고. || 100000 ||
+|| 취약성의 구슬(Orb of Vulnerability) || http://heroes.thelazy.net/wiki/images/b/ba/Artifact_Orb_of_Vulnerability.gif || 유물 || 적, 아군 모두 전투중 마법 저항이 불가능하게 된다[* 그러니까 모든 마법 면역인 블랙드래곤에게 내파를 쓸 수 있게 된다. 물론 상대적으로 아군도 패널티를 먹는 건 감수해야 한다.][* 마법 저항이 있는 드워프, 전투 드워프에게도 한 방에 마법이 들어간다.][* 저항과 면역을 무력화 시키는 것이지 데미지감소까지는 커버하지 못한다. 이 아이템 끼었다고 골렘들에게 100% 데미지를 줄 수 없다] || 100000 ||
+|| 금지의 구슬 (Orb of Inhibition) || http://heroes.thelazy.net/wiki/images/d/d6/Artifact_Orb_of_Inhibition.gif || 유물 ||적, 아군 모두 전투중 마법 사용이 불가능하게 된다 양날의 검. 철회의 망토보다 더욱 극단적인 능력이다. 마법능력이 앞서는 상대랑 싸울때 끼는 것을 고려해볼만 하지만 이 쪽도 마법을 통한 이점을 전혀 볼 수 없다는 게 껄끄럽다. 자신의 선영웅이 무력영웅이며, 강력한 고급유닛이 많아서 힘싸움에서 질리가 없다면 전쟁의 족쇄와 같이 써서 걸린 상대방 영웅을 다 해치울 수 있다. || 125000 ||
+|| 끝임없는 금 가마니 (Endless Sack of Gold) || http://heroes.thelazy.net/wiki/images/3/35/Artifact_Endless_Sack_of_Gold.gif || 유물 ||매일 금 +1000 금광 하나를 들고 다니는 셈. 짭짤한 돈벌이 아이템. || 50000 ||
+|| 드래곤의 피 약병 (Vial of Dragon Blood) || http://heroes.thelazy.net/wiki/images/5/5e/Artifact_Vial_of_Dragon_Blood.gif || 유물 ||모든 드래곤[* 던전과 램파트의 용들과 4대 중립 드래곤은 물론이고 언데드인 본 드래곤과 고스트 드래곤도 포함한다.]의 공격 +5, 방어 +5 상승. 확장팩에서만 등장한다.[* 아마게돈 블레이드와 드래곤 피의 약병은 아마게돈 블레이드 확장팩이 설치되어 있어야 등장한다. 원본에 쉐도우 오브 데스 확장팩만 설치된 경우 따로 패치를 하지 않으면 등장하지 않는다.]램파트나 던전이라면 그럭저럭 있으면 좋은 정도의 템. 사실 유물급 치곤 구린 편. 아마겟돈 블레이드 확장팩 전용|| 100000 ||
+|| 판도라의 상자 (Pandora's Box) || http://pic.paopaoche.net/up/2014-1/2014011416373486914.gif || 기타 ||아티팩트라기보다는 맵상에 배치된 오브젝트이다. 이름대로 안에 뭔가가 든 상자. 어지간한 것은 다 지정해줄 수 있다. 경험치, 주문 점수, 사기, 행운, 스킬, 주 능력치(공격, 방어, 마력, 지능) 상승, 괴물, 주문, 아티팩트를 줄 수 있다.[* 여러개씩 같은 것으로도 중복 가능하며 주문 점수, 사기, 행운, 자원은 감소시킬 수도 있다.] 마법 두루마리와 달리 만약 아무것도 지정하지 않으면 상자가 텅비었다면서 정말 아무것도 안준다. 당연히 호위 병력을 붙일 수 있다. 상자를 열었더니 엄청난 몬스터 대군과 싸워 이긴 다음에 자원 몇개가 나오는 낚시도 가능하다. || 0 || 
+|| 성궤 (Grail) || http://pic.paopaoche.net/up/2014-1/2014011416373424957.gif || 기타 ||성궤건물을 지을 수 있게 해주는 물건. 땅에 파묻혀 있는 것을 오벨리스크를 방문하여 위치를 알아낸 다음 파내야 한다.[* 땅을 파는 것은 모든 이동력을 소모한다. 게다가 영웅이 이동을 하지 않은 상태여야 한다. 성궤의 위치를 알아내 해당 위치로 가도 일단 다음날이 돼야 땅을 팔 수 있다. 참고로 임파서블 난이도에서 컴퓨터는 오벨리스크를 전부 방문하지 않아도 대충 위치를 알 정도가 되면 약간의 노가다를 거쳐서 귀신같이 성궤를 파낸다. 성궤가 묻힌 곳으로 갔는데 땅을 판 흔적이 여러개 있으면 그냥 포기하는 것이 낫다.] 성궤건물 건설이라는 엄청난 가치를 가지고 있지만 정작 성궤 자체는 시장 가격이 없고 등급도 없다. 승리조건으로 특정 타운에 성궤건물을 짓는 경우 뻘짓 못하게 다른 타운에서 성궤건물을 짓지 못하게 설정할 수 있다.(주민들의 믿음이 부족하다나) 주의할 점은 성궤를 가진 영웅이 해고당하거나 퇴각, 항복할 경우 성궤는 그대로 증발한다. 아티팩트를 남길 수 있는 항복이라도 알짤없다.|| 0 ||
+
+==== 전쟁기계 ====
+전투에서 보조적인 용도로 사용되는 기계들이다. 사실 아티팩트처럼 특별한 효과가 있지는 않으며 탄약 수레를 제외한 다른 기계마다 영웅의 기술이 존재한다.(발사술, 포술, 응급치료) 그러나 돈을 주고 구입 가능한데다 영웅 정보창에서 표시되는 것이 아티팩트와 차이가 없다. 심지어 영웅끼리 교환도 가능하다. 때문에 따로 항목을 만들지 않고 아티팩트 항목에 작성한다.
+
+기본적으로 각 타운마다 대장간을 건설해 전쟁기계 한 종류를 살 수 있다.[* 예외적으로 스트롱홀드는 대장간의 에드온 건물인 쇠뇌 제작소를 추가로 건설해 쇠뇌를 구입할 수 있다. 참고로 스트롱홀드의 대장간에서는 탄약 수레를 판다.] 쇠뇌는 금 2500, 응급텐트는 금 750, 탄약 수레는 금 1000이다. 맵에 배치된 전쟁기계 작업장에서는 셋 다 구입할 수 있다. 그리고 쇠뇌와 응급 텐트의 경우 해당 전쟁기계 기술에 특화된 영웅은 기본적으로 들고 나온다.[* 다만 타워의 토로사는 포술 특기인데 '''쇠뇌를 안들고 나온다.''' 그런데 타워 대장간에서는 탄약 수레를 판다. 숨겨진 쓰레기 영웅]
+
+상대가 유저 네크로폴리스일때 가속으로 인한 리치의 턴이 먼저오면 독이 된다! 유저들은 전투를 시작하자마자. 전쟁기계를 부숴버리는 동시에 1~2 부대에 피해도 크게 주기 때문이다. 한타전이라면 더 심각하고. 상대가 컴퓨터이거나 비생명체라면 다행이고.. --어자피 해골의 답없는 물량 때문에 금지잖어?--
+
+투석기 - 공성전에서 상대방 성벽이나 포탑에 돌을 날려서 파괴한다. 기본적으로 가지고 있으며, 설령 부숴진다고 해도 전투가 끝나면 재생성 된다.[* 투석기를 제외한 다른 전쟁기계는 부숴지면 다시 사야된다.] 체력은 1000이고 관련 기술은 발사술이다. 발사술이 없으면 투석기는 성벽을 먼저 공격한다.[* 발사술이 없는 상태에서 투석기는 무조건 성벽을 먼저 공격하며, 그 다음으로 포탑, 마지막으로 성문을 공격한다. 발사술이 있다고 해도 성문과 포탑은 확률적으로 공격할 수 있다.] 후반에 공성전을 벌일때 투석기부터 때려부수는 꽁수가 있는데 지진 마법이나 사이클롭스 같은 대체 공성 수단이 없고 비행유닛이나 궁수유닛의 전력이 약하다면 공격자 입장에서는 그야말로 피똥을 싸게 된다.[* 상대가 순간이동 마법이 있고 마나가 넉넉하고 고급 물 마법을 배웠다면 투석기가 부셔져도 소용이 없게 된다. 투석기 때려부수는 꽁수가 있다해도 일부러 부서질때까지 안쓰고 궁수 보호를 하는 경우가 있다.]
+
+쇠뇌 - 유닛을 직접 공격하는 전쟁기계다. 관련 기술은 포술로 투석기와 마찬가지로 기술이 없으면 쇠뇌가 정해진 공식에 따라 유닛을 자동으로 공격한다.[* 공식을 설명하자면, 일단 궁수유닛에 우선권을 가지며 유닛의 레벨과 체력을 따져 낮은 값이 나오는 유닛을 먼저 공격한다. 즉 궁수에다가 체력낮고 레벨이 낮은 유닛(캐슬의 저격병이나, 램파트의 엘프 등)은 무조건 먼저 공격 당한다. 이 공식은 공성전시 포탑의 공격 순위와 같다.] 체력은 250이며 영웅의 공격력, 방어력에 전부 영향을 받고 대미지는 (영웅의 공격력+1)x(2~3)으로 나온다.[* 스탯으로서 공격력과 주는 피해로서의 대미지가 따로 계산된다.] 다만 기본적인 공격력과 방어력은 전부 10이다. 발사술 특기 영웅의 경우 착실하게 레벨을 올리고 공격력을 높여주면 쇠뇌 하나로 중반까지 크게 활약할 수 있다. 캠페인에서도 고레벨 쇠뇌 특기 영웅을 육성하면 초반 확장을 병력생산도 안하고 마법도 안쓰면서 쉽게 할 수 있다.
+
+응급 치료 텐트 - 유닛의 체력을 회복시킨다. 관련 기술은 응급치료. 체력은 제일 낮은 75로 가장 낮다.[* 참고로 중간 이상 난이도의 컴퓨터와 싸울때 패배가 역력한 상황이라면 유닛은 안때리고 응급 치료 텐트나 탄약 수레를 파괴하는 테러를 저지른다. 일단 체력이 제일 낮은 텐트를 먼저 노린다.] 역시 기술이 없으면 무작위로 피해 입은 유닛을 선택해 치료한다. 치료량은 1~25로 있으나 마나한 회복량이다. 설령 응급치료 기술이 있다고 해도 최소 치료량은 1로 고정이기 때문에 활용성은 커녕 치료 이펙트를 거느라 시간만 잡아먹는다.
+
+탄약 수레 - 따로 작동하는 것은 아니고 그냥 가지고 있으면 효과를 보는 전쟁기계. 체력은 100. 궁수유닛은 기본적으로 화살 개수가 제한되 있는데 탄약 수례가 있으면 화살 개수가 무제한이 된다.[* 기본 소지량이 떨어지지 않는다. 전투 중에 탄약 수레가 파괴되면 원래 가지고 있던 소지량이 줄어들게 된다.] 궁수 유닛이 많은 타워가 필수적으로 들고 다니면 좋다. 물론 타워의 대장간에서 판다.
+
+==== 폐기된 아티팩트 ====
+개발 도중 폐기된 아티팩트로 더미 데이터가 남아있다. 한글판에서 아티팩트 설명을 보면 '폐기된 아티팩트입니다'라고 되어있다.[* 더미 데이터 인데도 한글 번역이 되어 있다. 게임 내용을 확인하지 않고 텍스트만 뽑아 일괄적으로 번역한 듯하다.] 맵에디터의 아티팩트 목록에서는 확인이 불가능하고, 필드상에 배치된 몬스터의 퇴치 보상에 아티팩트를 추가하고 목록을 살펴보면 확인할 수 있다. 폐기된 것이라서 아이콘도 없으며(셋 다 전부 동그라미에 대각선으로 줄이 그어진 금지표시가 아이콘) 장착해도 아무 효과도 없다.
+
+오우거의 쇠장갑(Ironfist of the Ogre) - 오른손
+중립의 수렁(Mired in Neutrality) - 가슴
+외교관의 옷(Diplomatic's Suite) - 어깨
+
+=== 조합 아티팩트 ===
+조합 아티팩트는 조합 전 부품들의 효능도 그대로 갖고 있으며, 아래의 효과가 추가된다. 차지하는 위치도 조합 전 부품들의 위치에 모두 장착된다. 조합을 통해서만 만들 수 있지만, 아이템 등급 자체는 유물급이기 때문에 [[드래곤의 성역]]을 털 경우 일반 유물급 아티팩트 대신 나오기도 한다.[* 그외에 영웅의 무덤과 난파선 생존자에서 5%의 확률로 유물급 아티팩트가 나온다.] 조합은 확장팩 셰도우 오브 데스를 설치 혹은 패치로만 가능하며, 오리지널과 확장팩 아마게돈 블레이드만 설치된 상태로는 불가. 거기에 오리지널 맵(캠페인 포함)은 셰도우 오브 데스가 설치된 상태여도 조합을 할 수 없다. 다만, 아마게돈 블레이드 맵(캠페인 포함)은 처음 1회 한정으로 조합이 가능하다.[* 조건이 몇 있는데, 당연히 조합 재료 아티팩트는 소지해야 되고, 재료 아티팩트를 각 슬롯에 끼고있는 상태여야 한다. 중요한 점은 그냥 슬롯에 끼어서는 안돼고 조합에 필요한 마지막 재료 아티팩트를 획득할 때 그 아티팩트와 다른 재료 아티팩트가 해당 슬롯에 들어가야 조합할 수 있다. 예를 들어, 맨 처음에 나오는 제독의 모자의 경우 함장의 모자를 장착한 후 목 부분의 슬롯을 비운 상태에서 바다 안내자 길잡이 목걸이를 획득하면(구입하든, 필드에서 취하든) 조합할 수 있다. 만약 획득할 때 목 슬롯에 다른 아티팩트를 장착하고 있으면 바로 배낭으로 들어가고 조합 불가.][* 1회 한정이라는게 괴상한게 조건을 갖추면 조합여부를 묻는다. 여기서 조합을 선택하면 조합이 되지만, 취소하면 더 이상 조합할 수 없다. 다만 해체는 가능하다. 게다가 앞의 각주에도 적었지만 획득 시 해당 슬롯이 차있으면 배낭으로 직행. 일단 배낭에 들어가고 나면 선택지 소멸이다. 그래서 조합 기회를 잡게되면 신경을 써줘야한다. 셰도우 오브 데스는 그런거 없고 재료만 갖춰지면 언제든지 조합, 해체 가능하다.]
+
+참고로 조합 아티팩트가 거는 마법은 영웅이 쓰는 마법과 별개라서 영웅이 가지고 있는 기술이나 능력치에 영향을 받지 않는다. 그리고 맵에디터로 조합 아티팩트를 배치할 때는 정상적으로 보이는데 게임을 실행시켜보면 조합 아티팩트끼리 그래픽이 다르게 보이는 버그가 있다. 가령 제독의 모자를 먹었는데 언데드왕의 망토라는 식이다. 
+
+단점으론 강력하지만 완성하는 게 어려운 데다가 아이템 슬롯을 여럿 차지하다보니 아티팩트 착용에 고민을 준다. 
+
+||||'''제독의 모자'''(Admiral's Hat)||
+|| http://heroes.thelazy.net/wiki/images/6/66/Artifact_Admiral%27s_Hat.gif ||필요: 함장의 모자, 바다 안내자의 목걸이||
+||머리||배를 타고 내릴때의 이동력 패널티가 사라진다.[* 원래 배에 타거나 내릴 때는 이동력이 얼마나 남았든 모든 이동력이 사라진다. 즉 배를 타거나 내린 다음에 이동하려면 무조건 2턴을 소모해야 한다.] 바다가 많은 맵이라면 정말 좋지만 아니라면 잉여 아이템.||
+||||'''[엔젤릭 얼라이언스]'''(Angelic Alliance)||
+|| http://heroes.thelazy.net/wiki/images/9/98/Artifact_Angelic_Alliance.gif ||필요: 경이의 갑옷, 성자의 샌달, 축복받은 천상의 목걸이, 용맹의 사자 방패, 심판의 검, 천상의 계시 투구||
+||오른손||선, 중립 진영(캐슬, 램파트, 타워, 스트롱홀드, 포트리스, 컨플럭스, 중립유닛(샤프슈터, 인챈터, 농부 등등))끼리 유닛을 조합하면 사기 패널티가 없어지면서 동일한 진영으로 간주되어 사기 +1이 된다. 또한 전투 시작 이후, 최초의 아군 차례에서 고급 기원 마법 시전.||
+||||'''[[저주받은 갑옷]]'''(Armor of the Damned)||
+|| http://heroes.thelazy.net/wiki/images/1/1e/Artifact_Armor_of_the_Damned.gif ||필요: 해골 투구, 죽은 기사의 암흑검, 늑골 흉갑, 울부짖는 죽음의 방패||
+||가슴||전투 시작 이후, 최초의 아군 차례에서 모든 적 유닛은 50턴 지속의 둔화, 저주, 약화, 불운에 걸림. 단 마법 저항력이나 유닛의 마법 면역을 뚫지는 못한다.||
+||||'''샤프슈터의 활'''(Bow of the Sharpshooter)||
+|| http://heroes.thelazy.net/wiki/images/a/ac/Artifact_Bow_of_the_Sharpshooter.gif ||필요: 엘프족 벚나무 활, 유니콘 갈기 활시위, 천사깃털 화살||
+||기타||모든 궁수 유닛의 원거리 사격 패널티(거리와 성벽 패널티)가 사라짐. 인접한 헥스의 적에게도 사격 가능.[* 원래 궁수 유닛은 인접한 헥스의 유닛에게 사격 대신 데미지 패널티 50%를 받는 근접 공격을 한다. 명사수의 활이 있으면 근접이라도 원래 화력을 낼 수 있을 뿐더러 인접한 헥스라고 해도 사격 공격은 원천적으로 반격이 불가능하기 때문에 사실상 근접전시 궁수 유닛을 무반격 유닛으로 바꿔준다. 단 근접 공격에 대한 반격을 사격 공격으로 바꿔주진 않는다. [[파괴신]]이면 너도 죽고 나도 죽자다.][* 확장팩 아마게돈 블레이드에서는 조합 아티팩트를 만들 수 없다. 단 예외적으로 아마게돈 블레이드 캠페인 중 겔루가 처음 나오는 미션 한정으로 조합이 가능하다. 해당 미션에서 맵을 조금만 탐색하면 엘프족 벚나무 활, 유니콘 갈기 시위, 천사깃털 화살을 전부 얻을 수 있다.]황금활의 강화판. 장거리 유닛이 강력한 타운이라면 좋다. 단점은 황금활보다 구하기 어렵다는 점.||
+||||'''[[언데드 왕의 망토]]'''(Cloak of the Undead King)||
+|| http://heroes.thelazy.net/wiki/images/c/c4/Artifact_Cloak_of_the_Undead_King.gif ||필요: 장의사의 목걸이, 흡혈귀의 덮개, 망자의 장화||
+||어깨||전투 후 강령술로 부활하는 유닛이 레벨에 따라 초급에는 걸어다니는 시체, 중급에는 와이트, 고급에는 '''리치'''로 변함.[* 강령술이 없는 경우엔 해골이 나온다.]||
+||||'''풍요의 뿔'''(Cornucopia)||
+|| http://heroes.thelazy.net/wiki/images/6/6a/Artifact_Cornucopia.gif ||필요: 영원한 수정 망토, 비어지지 않는 수은 약병, 영원히 타오르는 유황 반지, 무한한 보석 반지||
+||기타||매일 수정, 수은, 유황, 보석 자원 +4. 나무와 철광석은 아이템이 따로 있고 조합 구성품도 아니다. 이거 하나만 완성하면 자원걱정은 없어진다. 단 주력영웅보단 보조영웅이 장착하는 게 더 효율적이다.||
+||||'''앨릭셔 오브 라이프'''(Elixir of Life)||
+|| http://heroes.thelazy.net/wiki/images/9/91/Artifact_Elixir_of_Life.gif ||필요: 생명의 반지, 체력의 반지, 생명의 피 약병||
+||기타||언데드, 무생물, 정령을 제외한 모든 유닛 체력 +25%, 자동회복 능력을 얻게 됨[* 자동회복 능력은 체력을 100% 회복시키는게 아니라 50을 회복시킨다. 따라서 트롤과 와이트는 한번마다 체력이 꽉 차지만 에이져 드래곤같은 6레벨 이상부터는 100% 회복되진 않는다.]체력 증가량이 꽤 되며 재생도 꽤 도움이 된다.||
+||||'''드래곤의 가호'''(Power of the Dragon Father)||
+|| http://heroes.thelazy.net/wiki/images/c/c3/Artifact_Power_of_the_Dragon_Father.gif ||필요: 용이빨 왕관, 용이빨 목걸이, 용날개 휘장, 불타는 붉은용의 혀, 용비늘 방패, 잠잠한 용의 눈, 고요한 용의 눈, 용뼈 무릎받이, 용비늘 갑옷||
+||가슴||모든 능력치 +6, 모든 유닛이 4레벨 이하 마법에 면역이 됨. 완성하기는 엔젤릭 얼라이언스 이상으로 어렵다. 하나하나의 등급은 떨어지지만 워낙 요구 아이템이 많아서 어지간히 큰 맵이라도 한 두 개는 빠지기 쉽다. 일단 완성하면 강력하기는 하지만 단점도 꽤 있다. 특수능력이 4레벨 이하 마법 면역이라 대부분은 막지만 내파를 못 막는다. 거기다 버프 마법도 못 걸어 전투에서 불리한 면도 있다. 다만 아마게돈은 면역이라 아마게돈 러시에는 좋다. 증가 스탯도 각 능력치 16 인데 높지만 엔젤릭 얼라이언스에게 밀린다. 그리고 요구 슬롯이 너무 많아  이동력, 속도 증가 같은 아티팩트를 장착하지 못한다.||
+||||'''마술 반지'''(Ring of the Magi)||
+|| http://heroes.thelazy.net/wiki/images/e/e7/Artifact_Ring_of_the_Magi.gif ||필요: 소환의 목걸이, 소환의 반지, 소환의 망토||
+||손가락||모든 마법의 효과 지속시간이 50턴 증가함. 조합 아티팩트 중 상당히 쉽게 만들 수 있다는 장점이 있다. 50턴이라면 디스펠이나 치료를 안하면 전투 내내 지속된다는 것과 다름없다. 단점은 영웅 마력이 10 이상만 넘어가도 지속시간이 그리 모자랄 일이 많지 않다는 것.||
+||||'''군단의 조각상'''(Statue of Legion)||
+|| http://heroes.thelazy.net/wiki/images/6/66/Artifact_Statue_of_Legion.gif ||필요: 군단의 다리, 군단의 허리, 군단의 가슴, 군단의 팔, 군단의 머리||
+||기타||모든 유닛 성장률 +50% 마을에 있지 않아도 적용되며, 원래 부품들의 효과는 마을에 있어야 적용된다. 엄청난 물량을 보여줄 수 있는 아이템. 참고로 군단의 조각상을 2개 완성해도 효과는 하나만 적용된다. 어차피 2개 이상을 완성할 일도 거의 없기는 하지만.||
+||||'''타이탄의 번개'''(Titan's Thunder)||
+|| http://heroes.thelazy.net/wiki/images/6/64/Artifact_Titan%27s_Thunder.gif ||필요: 천둥 투구, 타이탄의 글라디우스, 타이탄의 흉갑, 수호의 방패||
+||오른손||장비한 영웅에게 주문점수 0 소모에 600데미지를 입히는 공격마법 '타이탄의 번개'가 생김. 해당 템을 가진 영웅에게 마법책이 없으면 마법책을 공짜로 생성시킨다.[* 웃긴점은 컨플럭스 성궤에도 '타이탄의 번개'도 배워 진다는 것이다.]타이탄의 번개 자체의 위력도  좋고 마술효과도 적용된다. 강력하지만 똑같은 슬롯을 차지하는 저주받은 갑옷에 비교하면 맞추기가 어렵다. 총 증가 스탯도 각 아이템들이 서로 깎아대다 보니 약간 모자란 편. ||
+||||'''마법사의 우물'''(Wizard's Well)||
+|| http://heroes.thelazy.net/wiki/images/5/5e/Artifact_Wizard%27s_Well.gif ||필요: 마나의 부적, 마나의 목걸이, 마나의 신비한 보주||
+||기타||매일 주문점수가 최대로 회복됨. 지력만 어느정도 있다면 마나 걱정은 싹 없어지는 아이템. 요구 아이템들이 그리 희귀한 아이템이 아니라는 것도 장점.||

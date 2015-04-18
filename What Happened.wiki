@@ -1,0 +1,39 @@
+ *[펌프 잇 업/수록곡 일람]으로 돌아가기
+[[목차]]
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/efLlY5StnVs?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/efLlY5StnVs?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/fJimScznUb4?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fJimScznUb4?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+문제의 더블 23 채보.--스텝 제작자에게 What Happened?-- --유니온 모드가 부활했다!--
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/Pro 2" Pump It Up Pro 2]] ||
+|| 아티스트 |||| Throwdown ||
+|| BPM |||| 130 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| World Music / Fiesta EX ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 3 / 7 / 12 / 17 / 20 ||
+||<#009900> Double || 20 / 23 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+
+== 개요 ==
+한국 댄싱 리듬게임 [[펌프 잇 업]]의 수록곡. 최초 등장은 외국작인 Pro 2였으나 추후 국내에서는 2011년 신작 [wiki:"펌프 잇 업/FIESTA EX" FIESTA EX]버전에 이식되었다.
+
+throwdown작곡. 외국작 수록곡으로 강렬한 비트가 난무하는 테크노음이 특징으로 BPM도 무난하고 곡 자체는 사실 그리 큰 인상의 곡이라고 하기엔 힘들었다. 하지만 채보의 경우 펌프 잇 업 역대상 엇밟기 스킬(1발 2노트)의 정점을 찍은 채보로 FIESTA EX의 등장한 강곡들 중에서도 일대 파란을 일으킬 정도로 강렬한 신곡에 속했다.
+
+맨 초기에 등장했을 때 채보는 단 3종류였는데 그 중 하나였던 싱글 17의 경우엔 해당 난이도에 맞춘 틀기와 적절한 체력소모 구성의 개념있는 채보로 무난한 평을 받았으나 문제는 다른 2개의 채보에서 비롯되었다. 싱글 20과 더블 20 채보였는데 엇밟기 스텝을 쓰지 않고서는 도저히 처리할 수 없는 스텝들이 줄줄이 쏟아져 내렸다. 특히나 싱글 20의 경우엔 엇밟기 + 고도의 허리틀기, 즉 허리를 뒤틀면서 2노트 투성의 스텝들을 처리해야하는 상황을 연출했던 것(…). 이로 인해 매니아들 사이에서 채보의 퀄리티를 놓고 여러 논란이 발생하기도 했다.~~[[wiki:"니가 진짜로 원하는게 뭐야" 이런거 어디서 많이 본 것 같다.]]~~
+
+하지만 진짜 문제는 1.30 버전 업데이트에서 생겨난 신 패턴 더블 23에 있었으니…. 더블 20의 채보는 2노트+1노트 연타로 구성이 되었고, 비교적 규칙적이어서 그래도 어떻게든 넘기기 쉽다는 평이었으나 더블 23의 경우 아예 '''2노트+2노트가 도배 수준으로 깔려나왔다(…)'''. 어느정도냐면 기존 겹발판 변태곡으로 유명했던 [[또다른 진심]]이나 [wiki:"니가 진짜로 원하는게 뭐야" 니진원]이 귀여워보일 정도로 4노트가 쭉쭉 도배되어있다. 그 포스에는 펌프를 막 접하는 초보부터해서, 산전수전 다 겪은 초고수들 및 올드비들까지 경악을 금치 못할 정도. 심지어 '안다미로사가 대체 스텝 제작자를 어떻게 대했길래, 저런 스텝이 나왔냐.', '스텝 제작자에게 뭔 일 있는거 아니냐?'와 같은 반응까지 나올정도였다(…).
+
+1.30버전 업데이트 시점이 한참 지났음에도 불구하고 펌프 유저들 사이에선 잇단 화제를 낳았으며,[* 이게 왜 23이냐는 둥, 말이 안된다는 둥 23보다 훨씬 어렵다는 쪽과 23이 적당하다는 쪽으로 의견이 상당히 엇갈리는 편. 그만큼 개인차가 확연한 곡이기도 하다.][* 한 유저는 이를 보고 펌프에 유니온 모드가 다시 부활한 것 같다고 평을 내리기도 하였다(…).] 차후 등장한 곡들중에서도 이만한 포스를 가진 곡은 당시 최종보스였던 [[진공 청소기]]나 FIESTA 2의 일부 강곡 몇을 제외하고서는 거의 없다고봐도 무방할 정도로 강력한 존재감을 자랑하고 있다.
+
+BGA의 경우 Pro 2의 이식곡 들이 대부분 그렇듯 타이틀 화면으로 시작해서 적당적당한 효과가 들어간 범용 BGA 비스무리한 내용물이 들어갔던지라 따로 부각되는 특징은 존재하지 않는다.
+
+결론적으로 '''채보 하나로 존재감을 폭발시킨 변태곡의 신예'''정도로 요약되겠다.
+
+1.40버전까지는 전술한 4개의 패턴만을 가지고 있던 Crazy 코어의 한축이었으나, 1.50버전에서 다른 곡들과 함께 초보용 패턴이 대거 추가되었다.
+
+2011년에 열렸던 KPF 국가대표 선발전 스피드 부문의 결승곡으로 선정되었던 곡이기도 하다.

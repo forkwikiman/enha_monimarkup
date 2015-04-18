@@ -1,0 +1,26 @@
+ * 상위 항목 : [[ZTE]]
+
+||<tablealign="center"> attachment:movistar.png ||
+|| [[http://www.ztedevices.com/search.html?keyword=Movistar%20One ZTE 글로벌 Movistra One 고객지원 검색결과]][[br]][[http://www.movistar.com.sv/sv/root/catalogo/telefono.php?terminal=111 엘살바도르 Movistra Movistra One 공식 사이트]][[br]][http://www.zte.com.fr/mobiles/201203/t20120308_12131.html ZTE 프랑스 ZTE Racer II 공식 사이트] ||
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 2011년 9월 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]]. 기기명은 V856.
+
+== 사양 ==
+||<|2>[wiki:"SoC" 프로세서]||<:>'''기본'''||[[MediaTek]] MT6573 [[SoC]]. [[ARM]]11 650 MHz [[CPU]], PowerVR SGX531 [[GPU]] ||
+||<:>'''{{{#red F}}}{{{#blue R}}}'''[[br]]'''독{{{#red 일}}}'''||||Broadcom BCM2157 [[SoC]]. [[ARM]]11 500 MHz [[CPU]] ||
+||[[메모리]]||||256 MB LPDDR1 SDRAM, 2 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||||2.8인치 [wiki:"해상도/일람" QVGA](320 x 240) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [[Wi-Fi]] 802.11a/b/g/n, [[블루투스]] 3.0+HS ||
+||[[카메라]]||||전면 30만 화소, 후면 200만 화소 [[AF]] ||
+||[[배터리]]||||Li-Ion 1100 mAh ||
+||[[운영체제]]||||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.2 (Froyo)[* 프랑스 한정]/2.3 (Gingerbread) ||
+||규격||||56.8 x 105 x 13.3 mm, 105 g ||
+||기타||||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+== 상세 ==
+저사양 [[스마트폰]]이다. [[텔레포니카]]의 자회사인 Movistar를 통해서 출시되었다. 다만, 이쪽 회사가 다국적 이동통신사이기 때문에 특정 국가만 출시된 것이 아니라 여러 국가를 통해서 출시되었다고 한다.
+
+프랑스와 독일 시장에도 출시되었는데, 이쪽은 ZTE Racer 시리즈 중 하나인 ZTE Racer II로 출시하였다. 덧붙여서 AP 제조 브랜드가 미디어텍에서 브로드컴으로 변경되었다. 특별하게 성능이 차이나지는 않는다. ~~대신 GPU가 없다.~~

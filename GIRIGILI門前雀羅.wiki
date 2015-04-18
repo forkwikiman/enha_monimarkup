@@ -1,0 +1,92 @@
+GIRIGILI門前雀羅(もんぜんじゃくら)
+GIRIGILI문전작라
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[Des-ROW]]가 Cheki-ROWS라는 명의로 작곡한 [[믹스쳐 락]]. 보컬은 데스로우, 무르무르, [[DJ YOSHITAKA|요시군]].
+
+== [[댄스 댄스 레볼루션]] ==
+{{{#!html
+<embed src="http://www.youtube.com/v/xJ2qsL2_5n0?fs=1&hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+[[댄스 댄스 레볼루션]]의 EXPERT 채보 플레이 동영상.
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 12}}} || {{{#purple -}}} ||
+||<|3> 148|||||||||||||| [[더블 플레이]] ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple -}}} ||
+
+중간에 순간정지 변속이 있어서 모르면 틀릴 수 밖에 없는 노래이다. SuperNOVA2 챌린지 코스의 4스테이지에 있기 때문에, 클리어를 하기 위해선 반드시 외워야 한다.
+
+== [[팝픈뮤직]] ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/I5PvQzOBFBo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+きたんこブリブル、夜な夜な遊び人、全員集合で集まれば、楽しいパーテーだ・よ・め！！
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 19[[br]]TUNE STREET || MIXTURENPON[[br]] || GIRIGILI門前雀羅[[br]]GIRIGILI문전작라 || Cheki-ROWS[[br]] || NICKEY [[br]] ||
+
+|| [[BPM]] || [wiki:"팝픈뮤직/난이도 체계"난이도] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 148 || 43단계 || {{{#blue 18}}} || {{{#green 22}}} || {{{#orange 28}}} || {{{#red 35}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 28}}} || {{{#orange 34}}} || {{{#red 42}}} ||
+|||| 노트수 || {{{#blue 323}}} || {{{#green 384}}} || {{{#orange 682}}} || {{{#red 919}}} ||
+
+ * [[wiki:"팝픈뮤직/수록곡"곡 목록으로 돌아가기]]
+
+튠스트릿에 이식되었다. 해금이벤트 타운모드 히든곡으로 등장한다. 여기서는 시스템상 순간 정지 변속은 없지만, 채보가 구 35레벨 대에서 상당히 어려운 편이다. 동시치기+양손이동이 특징. 서니파크에서 구 36에 해당되는 42로 상향.
+
+사실 아케이드에 이식되기 전에 DS 리듬게임 우탓치에 이식된 적이 있다.
+== 가사 ==
+>Cyo 待って！、E 何で？
+>今日は朝まで、マジ最高な感じに
+>上げてこう、っつたっしょ！
+>あんたら日帰り、俺明日休み
+>何言っても聞き分けねえなら俺には無理だ
+>はいタッチ！
+>
+>行くぜこの波　乗るぜこの風
+>いざGO いざDO
+>ツカム未来は　この手の中に
+>ゲットIN ゲットOUT
+>はじけながら　ブチ壊して進み逝け
+>ここで　カマセ
+>そこで　醒ませ
+>聞くぜ　ヤルゼ
+>これで　御相子
+>太く短く　とんで倒れて
+>行きます 飛びます
+>朝から晩まで　ちえけロウ～！
+>
+>押ス！
+>意味わからんけど全力前進
+>朝までビシっとぶっ飛ばす
+>日帰りなわけないヤン　それチャうヤン
+>明日のことは明日考えろ
+>Che! che! che! che! che! che! Cheke-ROW!
+>ギリで行ってるって俺ずっと
+>ギリで行き過ぎで門前雀羅
+>
+>「そんでお前　名前なんやっけ？」
+>「西村チャラ男　いいます」
+>「そんで君は？」
+>「おれパツ金りーぜんと！」
+>GET IN GET IN
+>GET IN GET IN
+>GET OUT GET OUT
+>GET OUT GET OUT
+
+== [[트리비아]] ==
+{{{#!html
+<embed src="http://www.youtube.com/v/aGSHrJhcXOI?fs=1&hl=en_US" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+
+여담으로 '''유명아티스트'''로 떠도는 [[Des-ROW]]의 라이브 동영상의 두번째 노래가 이것이다. 랩을 하다가 가사를 까먹어서(…) 으어~~~로 대충 넘어가는게 포인트
+
+팝픈뮤직으로 이식되면서 쓰인 스텝 코멘트로 인해 여성 코러스 중 한 명이 팝픈뮤직의 디자인 스텝이자 Des-ROW의 아내인 ちひろ임이 밝혀졌다.

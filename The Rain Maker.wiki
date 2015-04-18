@@ -1,0 +1,58 @@
+|||| [[DJMAX 시리즈/수록곡 목록]] ||
+|| 최초 수록 버전 || [[DJMAX Portable 3]] ||
+|| 추가 수록 버전 || [[DJMAX TECHNIKA 3]] ||
+|| 장르 || [[wiki:"트랜스" Epic Trance]] ||
+|| 작곡 || [[Paul Bazooka]] ||
+|| 비주얼 || MOSES ||
+|| [[BPM]] || 138 || 
+
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/Q8b1D5Dr8_M?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Q8b1D5Dr8_M?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+(BGA)
+
+약칭은 '''레메'''. ~~[wiki:"Ladymade Star"레메스][wiki:"자쿠와는 다르다 자쿠와는" 와는 다르다 레메스와는!]~~
+
+[[DJMAX TECHNIKA 2]]부터 계속 리믹스를 담당해 온 Paul Bazooka가 [[DJMAX Portable 3]]에 공급하여 수록된 곡. 기존의 DJMAX 시리즈에 수록된 트랜스와는 달리 정통적인 면이 상당히 강한 곡이다.[* 7분 정도 되는 원곡이 있다고 한다. 그야말로 정통 트랜스] 멜로딕 트랜스를 좋아하든 싫어하든 이 사실 하나만은 많이 인정되는 편.
+
+BGA는 DJMAX Portable 3의 [[White Blue]], [wiki:"Luv Flow" Luv Flow ~Funky House Mix~] 등의 BGA를 맡은 MOSES가 담당했다. 쿨하고 어두운 분위기의 곡과 매치가 잘 맞는 BGA가 일품.
+
+== [[DJMAX Portable 3]] ==
+[[DJMAX Portable 3]]에서는 40레벨대 해금곡으로 나온다. 작품 내에서의 난이도는 "중상"정도지만, DJMAX Portable 3 난이도가 전체적으로 하향되었기 때문에 패턴이 나름 평이하고 리듬감만 잘 맞추면 쉽게 깰 수 있는 패턴들로 구성되어 있다.
+
+리믹스모드도 클래식 모드와 별반 다를 것 없이 노트 나오는 타이밍만 잘 맞추면 무난하게 할 수 있다. 단, WS패턴의 경우, 리믹스 노트와 기본 노트가 번갈아서 나오는 구간이 있으니 주의.
+
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/pRdCnL1ppFc?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pRdCnL1ppFc?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+(6T HD)
+
+{{{#!HTML
+<iframe width="560" height="349" src="http://www.youtube.com/embed/PmGqaXVDMj4" frameborder="0" allowfullscreen></iframe>
+}}}
+6.2T WS
+
+== [[DJMAX TECHNIKA 3]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/EoqALxwNLm4" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/6b5zQFNZhUM" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 375 Max || 4 || 4박 스크롤 || ||
+||<#FFFF00> Normal || C || 375 Max || 5 || 4박 스크롤 || [wiki:"TechniColor" 미션 - Neon Scratch] 수록 ||
+||<#0000FF> {{{#white Hard}}} || B || 1250 Max || 6 || 4박 스크롤 ||  [[Radio Wave Set]] 셀렉곡, [wiki:"HyperTechnician"미션 - 황청길] 수록, ※[지뢰곡] ||
+ ||<#FF0000> Maximum || A || 3250 Max || 8 || 4박 스크롤 || [[Fatality Set]] 셀렉곡, [[wiki:"Masterpiece(DJMAX)"미션 - Paul Bazooka Energy]] 수록 || 
+
+노말패턴은 그 악명높았던 미션 [wiki:"TechniColor" Neon Scratch]에 있었기 때문에 여러 유저들을 골탕먹였던 적이 있지만, 채보 자체는 매우 무난한 5레벨 패턴. 다만 마지막 마디의 연속 2개 긁기가 나름 후살구간이 될 수 있으니 입문자들에게는 어느정도 유의할 필요가 있다.
+
+하드패턴은 [[Radio Wave Set]]을 통해 처음 공개되었다. 꽤나 심심했던 ~~하지만 미션이 더러웠지~~ 노말 패턴과는 다르게 본격적으로 복잡한 채보가 나타났다. 특히 후반부의 드럼을 보라노트로 꼬아놓았고, 최후반부 신스음을 2중보라로 만들어 놓았다. 표기상으론 6레벨이지만, 입문 유저 입장이라면 첫 클리어 난이도는 7레벨급이니 주의하자.
+
+MX패턴은 [wiki:"Masterpiece(DJMAX)"Masterpiece] 미션팩을 통해 공개되었다. HD패턴에서 키음 추가와 보라노트의 대량 배치가 돋보이는 패턴. 난이도는 상당한 편이나 미션 상에서는 판정 완화 보정이 걸려있어 클리어가 어렵지는 않다. 후에 [Fatality Set]에도 추가되었다.

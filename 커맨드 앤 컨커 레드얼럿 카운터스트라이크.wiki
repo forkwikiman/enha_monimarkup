@@ -1,0 +1,38 @@
+* 미국의 게임회사 밸브 코퍼레이션의 FPS 게임 Counter-Strike를 찾아오신 분은 [카운터 스트라이크]로
+
+http://goto2020.cdn1.cafe24.com/img/game/ra/cs/other/cover.gif
+    * 출시일: 1997년 4월 3일
+    * 유통사: 버진 인터랙티브 엔터테인먼트, [[동서게임채널]]
+    * 개발사: 웨스트우드 스튜디오
+    * 점수: 게임스팟 5.9/10, IGN 5.0/10
+    * 기종: DOS, WIN
+    * 장르: 전략
+
+1997년 발매된 [[커맨드 앤 컨커 레드얼럿]] 시리즈의 첫 확장팩. 
+[[커맨드 앤 컨커 비밀작전]]처럼 추가 미션이 생겼다. 단 새롭게 추가된 유닛은 거의 없으며 기존의 작품에 나오던 재머 유닛 그래픽을 재활용 한 테슬라 탱크 및 소련판 타냐 볼코프와 미그기 대용품으로 나오는 슈퍼 제트기 정도가 추가되었다. 테슬라의 유산 미션에서 나오는데 1발의 핵을 쏜다. (성능이 괴랄..) 그것도 미션 전용이다.
+
+이 작품엔 숨겨진 미션인 개미 미션이 있다.[* 개미미션 인트로 전에 전화받는 어떤 장군되는 양반이 나오는데 이양반 그 다름아닌 레드얼럿2에 나온 그 카빌 장군이다.]
+거대 개미의 등장이라든가 인트로 영상 등에서 고전 SF영화 [[THEM!]]에서 영향을 많이 받았다. 정확히는 [[THEM!]]의 영향을 받은 게임 It came from the desert(시네마웨어, 1989)의 오마쥬이다(이 미션의 제목은 It came from RedAlert으로 대놓고 가져왔다). 개미 미션의 진행은 연합군을 베이스로 연합군과 소련군 양쪽의 유닛이 사용 가능한 사양이다. 정작 소련군은 개미에게 털려서 소련군 기지가 개미굴로 쓰이는 모습만 나온다. [[안습]]
+
+커맨드 앤 컨커 레드얼럿 카운터스트라이크 인스톨 후 스피커 부분을 누르면 숨겨진 미션으로 들어갈수 있다.
+
+{{{#!html
+<embed src="http://www.youtube.com/v/hda_tCnh5pE&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed>
+
+<iframe width="425" height="355" src="http://www.youtube.com/embed/oUhjegdVUs8?rel=0" frameborder="0" allowfullscreen></iframe>
+미션1은 연락이 두절된 기지를 찾아서 원인을 파악하는 미션이다. 폐허가 된 기지를 발견할 수 있으며, 지원이 올 때 까지 버텨야한다.건물이 다 날아가더라도 유닛 하나라도 살아있으면 된다. 
+
+<iframe width="425" height="355" src="http://www.youtube.com/embed/jD7W6l7MCgM?rel=0" frameborder="0" allowfullscreen></iframe>
+미션2는 더 이상의 개미가 몰려오지 못하도록 기지와 개미굴을 연결하는 다리들을 끊는 것이 미션의 목표다. 탱크를 뽑을 수 있는게 그렇게 행복할 수 없다.
+
+<iframe width="425" height="355" src="http://www.youtube.com/embed/GQikkklLuZg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="425" height="355" src="http://www.youtube.com/embed/lqbVUVD1Lus?rel=0" frameborder="0" allowfullscreen></iframe>
+미션3은 본격적으로 개미를 상대로 반격에 나서는 미션이다. 살충제전문가(는 민간인 유닛..)을 모든 개미굴로 보내서 살충제(는 초록색 연막)을 피우게하여 더 이상 개미가 나오지 못하도록 조치하면 된다. 물론 살충제전문가들은 추가생산이 불가능하니 기갑병력으로 개미굴까지 길을 뚫고난 다음에 보내도록 하자. 
+이 미션에서 맘모스 탱크를 생산할 수 있다. 전작의 GDI처럼 서비스 디팟을 지으면 생산가능.
+
+<iframe width="425" height="355" src="http://www.youtube.com/embed/qsXWlB1hK28?rel=0" frameborder="0" allowfullscreen></iframe>
+마지막 미션은 개미들의 본거지를 소탕하는 미션이다. 다수의 보병유닛들이 주어지며, 스타브로스 장군도 있는데, 죽는다고 딱히 미션실패뜨지 않으니 알아서 쓰자. 기지내에 방업, 공업 상자가 있으니 먹어두면 좋다. 중간에 가동가능한 컴퓨터들을 꼼꼼히 가동시키면서 가면 방어탑이 솟아나오거나 하기때문에 미션을 조금 더 수월하게 진행할 수 있다. 중간에 맘모스탱크도 한 대 지원받을 수 있다. 소중히 사용하자. 동굴 끝 방에는 여왕개미가 버티고 있는데 테슬라공격을 하는 건물이다(...) 다수의 병력으로 한방에 덥치면 쉽게 깨지니 겁먹지 말자.
+그리고 지급되는 화염방사보병은 그냥 알아서 봉인하든 각개로 움직이게 시키든하여 자칫 주변동료들을 끌고 요단강건너는 일이 일어나지 않도록 각별히 주의!
+
+<embed src="http://www.youtube.com/v/q0run-6m5jE&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed>
+}}}

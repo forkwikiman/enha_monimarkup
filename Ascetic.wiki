@@ -1,0 +1,59 @@
+attachment:Ascetic.png?width=220
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/ELfbWYZRfh8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/VeZnfToAsFY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 220 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 21}}} || {{{#orange 40}}} || {{{#red 73}}} ||
+|| 기타 오픈픽 || {{{#green 23}}} || {{{#orange 48}}} || {{{#red 75}}} ||
+|| 기타 베이스 || {{{#green 26}}} || {{{#orange 35}}} || {{{#red 58}}} ||
+|| 드럼매니아 || {{{#green 48}}} || {{{#orange 66}}} || {{{#red '''82'''}}} ||
+
+|||||||||||||||| [GITADORA] 난이도 체계 ||
+|| [[BPM]] |||||||||||||||| 난이도 ||
+||<|4> 220 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 3.40}}} || {{{#orange 4.30}}} || {{{#red 5.90}}} || {{{#purple 6.45}}} ||
+|| 기타 베이스 || {{{#blue 3.40}}} || {{{#orange 4.40}}} || {{{#red 5.75}}} || {{{#purple 6.45}}} ||
+|| 드럼매니아 || {{{#blue 4.70}}} || {{{#orange 6.15}}} || {{{#red 8.20}}} || {{{#purple 8.50}}} ||
+
+[[목차]]
+
+== 개요 ==
+
+기타프릭스 & 드럼매니아 XG/V7의 수록곡.
+
+하드코어, 메탈, 록을 전문으로 작곡하는 인디밴드 QUIXOTIK과 [[kobo]]와의 합작. XG엔 Jukebox #2+의 해금곡으로, V7엔 GDP 해금곡으로 수록되었다. V7에서 GDP로 가장 마지막에 해금되는 노래였다.
+
+[[Before Daybreak]]에 묻혀서 그렇지, 이 노래도 말도 안되는 [[사기 난이도]]를 보여준다. 드럼매니아 EXT의 난이도는 '''82'''지만, 초반부와 중반부 총 3번에 걸쳐 '''BPM 220의 속도로''' 스네어 및 심벌 + 베이스 연타를 아무렇지 않게 쏟아붓는다. [[코노코]] EXT 중반부에 나오는 그 부분이지만, BPM이 더 빠르고 밀도도 더 높아서 '''완벽한 상위호환이다.''' 게다가 후반부엔 초고속 탐돌리기로 마무리 짓는 채보.
+
+XG 쪽엔 당연히 초반부와 중반부의 스네어 및 심벌 + 베이스 연타에서 베이스는 더블 베이스로 나온다.
+
+BGA는 범용 BGA에 레이어가 붙어있는 방식이었지만 XG3에서 레이어가 삭제된 후 GITADORA에서는 그냥 레이어 없는 범용 BGA만 나온다.
+
+== 가사 ==
+
+|| I know what you want to be.
+But you are just wasting your time.
+Yes. You are a loser.
+
+Don't turn your eyes away from me.
+I know what you are thinking.
+Don't turn your eyes away from me.
+You will never be a god.
+Yes. You are a loser.
+
+(Your) False beliefs leave this world to decay.
+Only devour hope.
+
+Take me away from this emotion (forever).
+Remember this is worthless.
+
+Look at the last moment of man.
+Can you say the same thing once again? ||

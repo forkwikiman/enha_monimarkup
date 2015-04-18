@@ -1,0 +1,53 @@
+[[목차]]
+
+== 개요 ==
+[[댄스 댄스 레볼루션]]의 수록곡. 작곡가는 [[NAOKI]], 작사는 [[jun]], 보컬은 [[BeForU]]의 멤버였던 코마츠 요마(小松代真)로, BEMANI 시리즈에서는 그녀의 처음이자 유일한 솔로곡이다. 
+
+이후 TËЯRA의 개인 앨범인 [[RЁVOLUTIΦN]]에 [[jun]]이 커버를 맡은 버전이 수록되었다.
+
+== [[댄스 댄스 레볼루션]] ==
+=== 원곡 ===
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 1}}} || {{{#orange 2}}} || {{{#red 5}}} || {{{#green 8}}} ||
+||<|3> 145|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 2}}} || {{{#red 6}}} || {{{#green 8}}} ||
+
+ * 위 난이도 표는 SuperNOVA2 당시 10레벨 표기 기준.
+ * [[댄스 댄스 레볼루션/삭제곡, 아케이드 미수록곡|곡 목록으로 돌아가기]]
+
+첫 수록은 DDRMAX2. BeForU 멤버의 소속사 이동 문제때문에 X에서 삭제되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/Xdpagobzakw" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 HEAVY(=ESP) 영상
+
+[[BGA]]에는 DDR의 캐릭터인 앨리스가 나오는 전용 BGA인데, 설정상 앨리스는 눈을 싫어한다. 고향인 홍콩을 떠나서 타국(일본)에 있다는 걸 상기시키기 때문이라는 설정이다.
+
+=== [[TЁЯRA]] 커버 버전 ===
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 4}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple -}}} ||
+||<|3> 145 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 8}}} || {{{#green 11}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+Wii판 Dance Dance Revolution (유럽명 HOTTEST PARTY 4)에 수록되었다. 아케이드엔 X3 vs 2nd Mix에 이식. 기본적인 채보 구성은 코마츠 요마 버전과 동일하고, 후렴구가 한번 더 나오는 부분은 앞부분을 좌우반전시켰다.
+
+2013 버전까지의 자켓은 RЁVOLUTIΦN의 자켓이었으나 NAOKI와 jun이 [[코나미]]를 퇴사하고 [[캡콤]]에 입사함으로써 2014년 버전에서 자켓이 변경되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube-nocookie.com/embed/YKxjUUawQvM" frameborder="0" allowfullscreen></iframe>
+}}}
+ESP 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/2ahtdm60pwU" frameborder="0" allowfullscreen></iframe>
+}}}
+더블 모든 보면 영상

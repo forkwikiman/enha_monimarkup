@@ -1,0 +1,38 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡으로, 아티스트는 [[L.E.D.]]-G. 장르는 [개버|MAINSTREAM HARDCORE].
+
+== [[beatmania IIDX]] ==
+||||||||||||||||||<#FFE08C> [[beatmania IIDX 22 PENDUAL]][[BR]]'''[[Chrono Seeker]]''' ||
+||<#FFBB00> ジャックハンス ||||<#35B62C> イェンス ||||<#ABF200> ジザル ||||<#A566FF> ジャックティーロ || 
+|| '''[[COLOSSEUM]]'''[[BR]][[극단레코드|劇団レコード]] |||| '''[[とろぴかる倶楽部]]'''[[BR]]HALFBY |||| '''[[Light My Fire]]'''[[BR]][[GUHROOVY]] feat. NO+CHIN |||| '''[[時空トラベローグ]]'''[[BR]][[SOUND HOLIC|SWING HOLIC]] feat. A～YA ||
+||<-3><#E1DDD0> アムドゥシアン ||||<-3><#D5CDED> マクスウェリオン ||
+||<-3> '''[[Symmetry]]'''[[BR]][[猫叉Master]] ||||<-3> '''NEO GENERATOR SEVEN'''[[BR]][[L.E.D.|L.E.D.-G]] ||
+||||||||||||||||||<#A6A6A6> '''ラプラシア''' ||
+|||||||||||||||||| '''[[Broken Sword]]'''[[BR]][[dj TAKA|金獅子]] VS [[麒麟]] ||
+
+|| 장르명 |||||| MAINSTREAM HARDCORE[[BR]]메인스트림 하드코어 || [[BPM]] |||| 182 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 5}}} || {{{#blue 469}}} || {{{#orange 10}}} || {{{#orange 974}}} || {{{#red 12}}} || {{{#red 1696}}} ||
+|| 더블 플레이 || {{{#blue 6}}} || {{{#blue 630}}} || {{{#orange 10}}} || {{{#orange 1129}}} || {{{#red 11}}} || {{{#red 1524}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 22 PENDUAL|22 PENDUAL]] ~
+
+[[Chrono Seeker]]의 미래 테마 측 보스곡 포지션의 곡이다.
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/s0m_9hswsPc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+싱글 어나더 영상
+
+싱글 어나더는 동시치기와 계단이 섞인 폭타에 간간히 스크래치가 더해진 채보로 밀어붙이는 형태로 [[EXUSIA]], [[YAKSHA]]에서 이것과 비슷한 형태의 배치를 볼 수 있다. 특히 위의 영상 기준 1:02~07의 폭타구간이 하드클리어의 난관이다. 다만 물량이 위에서 쓴 두 곡 보다는 한참 적은 편이여서 심각할 정도로 밀어붙히지는 않는 덕분에 체력소모는 상대적으로 적은편이며 회복구간과 위험구간이 분리된 편이다. 
+
+여담으로 중반 전개가 [[EMPEROR OF THE AVALON]]과 비슷하다. 장르가 비슷해서인듯.
+
+BGA로 연출되는 막스웨리온은 로봇 형태. 다른 전투 레이어들과 견줘보면 상대적으로 크기가 작다.
+
+막스웨리온의 유래는 열역학과 관련되어 있는 [[맥스웰의 악마]].

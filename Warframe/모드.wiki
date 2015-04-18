@@ -1,0 +1,377 @@
+[[include(틀:영리 활동)]]
+
+상위항목 : [[Warframe]]
+
+||||||||||<tablewidth=60%><table align=center><#f06a00><:> {{{#ffffff '''Warframe 하위항목'''}}} ||
+||<width=12%>  [[Warframe/워프레임|워프레임]]  ||<width=12%>  [[Warframe/대미지 타입|대미지 타입]]  ||<width=12%>  [[Warframe/몬스터|몬스터]]  ||<width=12%>  [[Warframe/보스|보스]]  ||<width=12%>  '''모드'''   ||
+||  [[Warframe/무기|무기]]  ||  [[Warframe/오로킨 보이드|오로킨 보이드]]  ||  [[Warframe/자원|자원]]  ||  [[Warframe/마스터리 랭크|마스터리 랭크]]  || [[Warframe/퀘스트|퀘스트]] ||
+|| [[Warframe/센티넬|센티넬]] || [[Warframe/쿠브로|쿠브로]] || [[Warframe/아크윙|아크윙]] || [[Warframe/신디케이트|신디케이트]] ||
+
+워프레임에 등장하는 모드에 관해 설명하는 곳입니다. (작성중)
+[http://warframe.wikia.com/wiki/Mods 북미위키]를 기초로 작성되고 있습니다.
+본페이지에서 원하는 정보를 획득하지 못했다면, 북미위키를 방문해주시기 바랍니다.
+
+[[목차]]
+== 개요 ==
+모드는 카드 형태로 보이며, 다음과 같은 정보를 담는다.
+
+ * 이름 : 모드의 이름. 중앙에 보인다.
+ * 코스트 : 모드를 장착하기 위해 필요한 수용량. 모드의 오른쪽 상단부에 보인다.
+ * 극성 : 모드의 극성. 코스트 오른쪽에 나온다. 슬롯과 일치하는 극성은 코스트가 절반으로 감소한다. 반대로 전혀 다른 극성에 끼우면 코스트가 1.3배로 증가한다. 슬롯이 없는건 보너스도 페널티도 없음. 오라 모드와 스탠스 모드의 경우, 모드 수용량을 늘려주는데, 슬롯과 일치하는 극성의 경우 증가하는 수용량이 두 배로 증가하고 극성이 일치하지 않을 경우 반대로 1.3배 적은 수치만큼 증가한다.
+ * 타입 : 모드의 종류. 오른쪽 하단부에 보인다. 스킬 모드는 해당 워프레임의 이름을, 그 이외에는 장착하는 종류에 따라 워프레임/주무기/보조무기/센티넬 등으로 나온다. 종류에 따라서는 샷건/라이플/보우와 같이 특정 무기군에만 착용할 수 있는 제한이 있다.
+ * 랭크 : 모드의 강화도. 모드 테두리의 하단에 동그라미로 표시. 랭크가 오르면 왼쪽부터 회색 칸이 하늘색 칸으로 차오른다. 모드마다 최대 랭크가 각각 다르다.
+ * 희귀도 : 모드의 희귀성. 커먼/언커먼/레어 세 종류로 구분되며, 카드 테두리가 각각 동테/은테/금테로 보인다. 당연하지만 희귀한 모드 일수록 드랍 테이블이 지옥이다.
+ * 콘클라베 : 모드의 콘클라베 수치. 모드 타입 왼쪽에 C?의 형태로 보인다(물음표는 해당 모드의 콘클라베 수치). PvP가 그리 활성화되지 않은 과거에는 큰 의미가 없는 장식 수치였지만, 업데이트 14 이후는 은근히 신경을 쓰게 만드는 수치가 되었다. 파티원의 대강의 전투력을 가늠할 수 있는 척도가 되며, 보스의 레벨이 장비한 무기와 모드에 기반한 콘클라베 총합치에 비례하게 바뀌었기 때문[* 스토커의 협박 편지 등에도 영향을 끼친다고도 알려져 있으나, 확실한 정보는 아니다.].
+== [[Warframe/모드/워프레임|워프레임]] ==
+ 워프레임에 장착하여 기본 성능을 향상시키는 모드.
+ 실드용량및 최대체력량. 파워 용량에서 스킬의 효과범위, 위력 등의 능력을 조절하는 다양한 커스터마이징이 가능하다.
+
+ 각 워프레임의 기본 스킬 모드는 해당 워프레임을 제작하면 자동으로 습득하며 해당 스킬에 대한 정보는 [[Warframe/워프레임|워프레임]] 항목 참조.
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''극성'''}}} || {{{#white '''희귀도'''}}} ||
+|| 아크로뱃 || 벽타기시 스태미나 소모 감소 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 안티톡신 || {{{#green '''독성'''}}} 저항 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 에비에이터 || 공중에 떠있을 시 피해 감소 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 블라인드 레이지 || 파워 위력 증가, 파워 소비 효율 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커럽티드 ||
+|| 컨스티튜션 || 넉다운 회복 속도 증가, 파워 지속시간 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 나이트메어 ||
+|| 컨티뉴어티 || 파워 지속시간 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 다이아몬드 스킨 || 레이저 저항 증가[* 위키에는 방사능 대미지 감소라고 표시되어있음] || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 에너미센스 || 적 감지 범위 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 이퀼리브리엄 || 체력 오브로 추가 에너지 회복, 에너지 오브로 추가 체력 회복 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 패스트 디플렉션 || 쉴드 재생률 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 트랜지언트 포티튜드 || 파워 위력 증가, 파워 지속시간 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커럽티드 ||
+|| 플레임 리펠런트 || {{{#red '''화염'''}}} 저항 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 플리팅 익스퍼티즈 || 파워 소비 효율 증가, 파워 지속시간 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커럽티드 ||
+|| 플로우 || 파워 최대량 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 포티튜드 || 넉다운 저항률 증가, 쉴드 재생률 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 나이트메어 ||
+|| 핸드스프링 || 넉다운 상태에서 일어나는 시간 단축 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 헤비 임팩트 || 무겁게 착지하여 주변의 적들을 넘어뜨리는 쇼크웨이브 생성 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 인설레이션 || {{{#blue '''냉기'''}}} 저항 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 인텐시파이 || 파워 위력 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 인트루더 || 해킹 제한시간 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 라이트닝 로드 || {{{#orange '''전기'''}}} 저항 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 매글레브 || 활주 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 마라톤 || 최대 스태미나량 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 마스터 시프 || 잠긴 보관함을 열 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 내로우 마인디드 || 파워 지속시간 증가, 파워 적용 범위 감소 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커럽티드 ||
+|| 네츄럴 탈렌트 || 캐스트 스피드 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 오버 익스텐디드 || 파워 적용 범위 증가, 파워 위력 감소 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커럽티드 ||
+|| 프로보크드 || 출혈 중 적에게 주는 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 퀵 레스트 || 스태미나 회복 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 퀵 싱킹 || 죽음에 이를 수 있는 피해를 받으면 에너지 소모 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 레이지 || 체력 피해를 에너지로 전환 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 리다이렉션 || 최대 '''실드량''' 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 리플렉션 || 방어중일때 피해를 공격자에게 반사 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 리플렉스 가드 || 자동 막기 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 레트리뷰션 || 실드에 근접공격을 한 적에게 {{{#orange '''전기'''}}} 피해 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 러쉬 || 질주 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 쉴드 플럭스 || 스태미너가 고갈되면 쉴드를 소비 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 쇼크 업소버 || 넉다운 상태에서의 피해 저항 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 스틸 파이버 || 방어력 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 스트림라인 || 파워 소비 효율 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 스트레치 || 파워 적용 범위 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 슈어 풋티드 || 넉다운 저항 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 시브즈 위트 || 주변 지형을 투사하여 모드 위치를 미니맵에 표시 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 언다잉 윌 || 출혈 감소 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 비거 || 최대 쉴드량 증가, 최대 체력량 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 나이트메어 ||
+|| 바이탈리티 || 최대 '''체력량''' 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 웜 코트 || 극저온 환경에 대한 쉴드의 저항력 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+== [[Warframe/모드/라이플|라이플]] ==
+ 대다수의 주무기의 성능을 커스터마이징 하는 모드. 대미지를 증감시키거나 속성을 부여할 수 있다.
+ 저격총이나 활은 전용 탄환을 사용하지만 모드는 라이플 모드를 사용한다.
+ 특정 무기군만 사용할 수 있는 전용 모드도 존재한다.
+
+ 이름 뒤에 *가 붙은 모드는 더이상 얻을 수 없는 모드들이다.
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''극성'''}}} || {{{#white '''희귀도'''}}} ||
+|| 애모 드럼 || 탄약 최대량 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 애로우 뮤테이션 || 바닥에 떨어진 탄환들을 화살로 바꾸어 획득 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 베인 오브 코퍼스 || 코퍼스에 대한 피해 추가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 베인 오브 그리니어 || 그리니어에 대한 피해 추가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 베인 오브 인페스티드 || 인페스티드에 대한 피해 추가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 차지드 채임버 || 저격총 초탄 최대 +40% '''보너스 피해''' || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 크리티컬 딜레이 || 치명타 확률 증가, 연사력 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커럽티드 ||
+|| 크라이오 라운즈 || {{{#blue '''냉기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 이글 아이 || 확대율 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 팽드 퓨설레이드* || '''베기''' 피해 증가. 최대 120% || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 패스트 핸즈 || 재장전 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 파이어스톰 || 이그니스와 오그리스, 펜타의 폭발 범위 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 해머샷 || 치명타 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 나이트메어 ||
+|| 헤비 칼리버 || '''피해 증가''', 정확도 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커럽티드 ||
+|| 헬파이어 || {{{#red '''화염'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 하이 볼티지* || {{{#orange '''전기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 허쉬 || 소음 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 인펙티드 클립 || {{{#green '''독성'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 매거진 워프 || 장탄수 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 멀리그난트 포스 || {{{#green '''독성'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 메탈 어거 || 관통 거리 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 피어싱 히트 || '''관통''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 포인트 스트라이크 || 치명타 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 프라임드 채임버* || 저격총 초탄 최대 +100% '''보너스 피해''' || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 라이플 애모 뮤테이션 || 바닥에 떨어진 탄환들을 소총 탄환으로 바꾸어 획득 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 라이플 앱티튜드 || 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 럽쳐 || '''충격''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 쏘우투스 클립 || '''베기''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 서레이션 || '''피해 증가''' || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 슈레드 || 연사력 증가, 관통거리 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 나이트메어 ||
+|| 스나이퍼 애모 뮤테이션 || 바닥에 떨어진 탄환들을 저격총 탄환으로 바꾸어 획득 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 스피드 트리거 || 연사력 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 스플릿 채임버 || '''멀티샷''' 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 스테빌라이져 || 반동 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 스톰브링어 || {{{#orange '''전기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 테인디드 매거진 || 장탄수 증가, 재장전 속도 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커럽티드 ||
+|| 테르밋 라운드 || {{{#red '''화염'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 선더볼트 || 화살 폭발 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 바일 프리시젼 || 반동 감소, 연사력 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커럽티드 ||
+|| 바이탈 센스 || 치명타 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 와일드 파이어 || 장탄수 증가, {{{#red '''화염'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 나이트메어 ||
+|| 라임 라운즈 || {{{#blue '''냉기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+== 샷건 ==
+ 다른 주무기와는 달리, 샷건은 라이플 모드를 하나도 공유하지 않고 샷건 전용 모드만을 사용한다.
+ 같은 효과를 가진 라이플 모드에 비해 최대 랭크가 낮지만 그만큼 강화하거나 커스터마이징하기에는 편하다는 장점이 있다.
+ 주무기나 보조무기의 멀티샷 모드는 해당 확률만큼 보너스 탄환이 발사될 확률을 증가시키지만, 샷건의 멀티샷 모드는 해당 퍼센트 만큼 펠릿 수를 증가시킨다.
+
+ 이름 뒤에 *가 붙은 모드는 더이상 얻을 수 없는 모드들이다.
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''극성'''}}} || {{{#white '''희귀도'''}}} ||
+|| 엑셀러레이티드 블래스트 || 연사력 증가, '''관통''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 나이트메어 ||
+|| 애모 스톡 || 장탄수 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 블레이즈 || '''피해 증가''', {{{#red '''화염'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 나이트메어 ||
+|| 블런더버스 || 크리티컬 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 버든드 매거진 || 장탄수 증가, 재장전 속도 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커럽티드 ||
+|| 차지드 셸 || {{{#orange '''전기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 칠링 그래스프 || {{{#blue '''냉기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 클렌즈 코퍼스 || 코퍼스에 대한 피해량 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 클렌즈 그리니어 || 그리니어에 대한 피해량 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 클렌즈 인페스티드 || 인페스티드에 대한 피해량 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 컨테이지어스 스프레드 || {{{#green '''독성'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 디스럽터 || '''충격''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 플레셋 || '''관통''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 헬스 채임버 || '''멀티샷''' 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 인센디어리 코트 || {{{#red '''화염'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 포인트 블랭크 || '''피해 증가''' || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 레비지 || 치명타 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 스케터링 인페르노 || {{{#red '''화염'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 시킹 포스 || 관통 거리 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 셸 컴프레션 || 탄약 최대량 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 쉘 쇼크* || {{{#orange '''전기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 샷건 애모 뮤테이션 || 바닥에 떨어진 탄환들을 샷건 탄환으로 바꾸어 획득 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 샷건 섀비 || 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 샷건 스패즈 || 연사 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 슈레더 || '''베기''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 스위핑 서레이션* || '''베기''' 피해 증가. 최대 120% || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 택티컬 펌프 || 재장전 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 테인디드 셸 || 확산률 감소, 연사 속도 감소 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커럽티드 ||
+|| 톡식 배러지 || {{{#green '''독성'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 비셔스 스프레드 || '''피해 증가''', 확산률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커럽티드 ||
+|| 프리지드 블래스트 || {{{#blue '''냉기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+== 권총 ==
+ 주무기의 모드가 라이플과 샷건으로 나뉘는것에 비해, 보조무기는 모두 권총 모드만을 사용한다.
+ 보조무기의 기본 대미지는 주무기보다 낮은 편이지만, 멀티샷 모드가 2개나 되고 각 속성 모드의 효과가 주무기보다 큰 것이 특징이다.
+
+ 이름 뒤에 *가 붙은 모드는 더이상 얻을 수 없는 모드들이다.
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''극성'''}}} || {{{#white '''희귀도'''}}} ||
+|| 배럴 디퓨전 || '''멀티샷''' 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 콘커션 라운즈 || '''충격''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 컨벌젼 || {{{#orange '''전기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 딥 프리즈 || {{{#blue '''냉기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 익스펠 코퍼스 || 코퍼스에 대한 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 익스펠 그리니어 || 그리니어에 대한 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 익스펠 인페스티드 || 인페스티드에 대한 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 건슬링어 || 연사 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 호크 아이 || 확대율 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 히티드 차지 || {{{#red '''화염'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 할로우 포인트 || 크리티컬 피해 증가, 기본 피해 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커럽티드 ||
+|| 호넷 스트라이크 || '''피해 증가''' || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 아이스 스톰 || {{{#blue '''냉기'''}}} 피해 증가, 장탄수 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 나이트메어 ||
+|| 졸트* || {{{#orange '''전기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 리썰 토렌트 || '''멀티샷''' 확률 증가, 연사속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 나이트메어 ||
+|| 매그넘포스 || '''피해 증가''', 정확도 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커럽티드 ||
+|| 메임* || '''베기''' 피해 증가. 최대 120% || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 노 리턴 || '''관통''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 패서전 라운즈 || {{{#green '''독성'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 피스톨 애모 뮤테이션 || 바닥에 떨어진 탄환들을 권총 탄환으로 바꾸어 획득 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 피스톨 갬빗 || 크리티컬 확율 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 피스톨 페스틸런스 || {{{#green '''독성'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 퀵 드로우 || 재장전 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 레이저 샷 || '''베기''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 스코치 || {{{#red '''화염'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 시커 || 관통 거리 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 슬립 매거진 || 장탄수 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 스테디 핸즈 || 반동 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 스터닝 스피드 || 상태이상 확률 증가, 재장전 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 나이트메어 ||
+|| 서프레스 || 소음 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 슈어 샷 || 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 프로스트바이트 || {{{#blue '''냉기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 테인디드 클립 || 장탄수 증가, 재장전 속도 감소 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커럽티드 ||
+|| 타겟 크렉커 || 치명타 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 트릭 매거진 || 탄약 최대량 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+== 근접무기 ==
+ 근접무기의 성능을 커스터마이징 하는 모드들.
+ 근접무기만이 채널링 공격이 가능하기 때문에 채널링 대미지나 효율을 증감시키는 모드가 존재하는것이 특징.
+
+ 이름 뒤에 *가 붙은 모드는 더이상 획득 할 수 없는 모드들이다.
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''극성'''}}} || {{{#white '''희귀도'''}}} ||
+|| 버서커 || 크리티컬 히트시 공격 속도 보너스 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 버즈 킬* || '''베기''' 피해 증가. 최대 120% || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 커럽트 차지 || 채널링 피해 증가, 채널링 효율 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커럽티드 ||
+|| 에너지 채널 || 파워를 통해 소모한 에너지를 근접공격에 보너스로 더한다 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 엔듀어링 스트라이크 || 상태이상 확률 증가, 채널링 효율 감소 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 커먼 ||
+|| 피버 스트라이크 || {{{#green '''독성'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 피니싱 터치 || 마무리 일격 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 포커스 에너지 || 채널링 효율 상승, {{{#orange '''전기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 나이트메어 ||
+|| 퓨리 || 공격 속도 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 헤비 트라우마 || '''충격''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 재기드 엣지 || '''베기''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 킬링 블로우 || 채널링 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 라이프 스트라이크 || (채널링시) 근접무기에 라이프 스틸 효과 추가, 채널링 효율 감소 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 밀리 프라워스 || 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 몰튼 임팩트 || {{{#red '''화염'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 노스 윈드 || {{{#blue '''냉기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 오르건 셰터 || 치명타 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 패리 || 방어상태에서 적이 근접공격을 하면 넉다운 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 파워 쓰로우 || 투척무기의 관통거리 증가[* 글레이브, 글레이브 프라임, 케스트렐] || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 프레셔 포인트 || '''피해 증가''' || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 퀵 리턴 || 투척무기의 튕김 횟수 감소[* 글레이브, 글레이브 프라임, 케스트렐] || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 퀴크닝 || 공격 속도 증가, 채널링 효율 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 리치 || 공격 범위 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 리바운드 || 투척무기의 튕김 횟수 증가[* 글레이브, 글레이브 프라임, 케스트렐] || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 커먼 ||
+|| 리플렉스 코일 || 채널링 효율 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 렌딩 스트라이크 || '''관통''' 피해 증가, '''베기''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 나이트메어 ||
+|| 세컨드 윈드 || 근접 처치시 스태미나 회복, 채널링 효율 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 쇼킹 터치 || {{{#orange '''전기'''}}} 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 스마이트 코퍼스 || 코퍼스에 대한 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 스마이트 그리니어 || 그리니어에 대한 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 스마이트 인페스티드 || 인페스티드에 대한 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 스포일드 스트라이크 || '''피해 증가''', 공격 속도 감소 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커럽티드 ||
+|| 선더링 스트라이크 || '''관통''' 피해 증가 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 ||
+|| 트루 퍼니시먼트 || (채널링 시) 크리티컬 확률 증가, 채널링 효율 감소 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 커먼 ||
+|| 트루 스틸 || 크리티컬 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 비셔스 프로스트 || {{{#blue '''냉기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 비럴런트 스커지 || {{{#green '''독성'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 볼케닉 엣지 || {{{#red '''화염'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 볼택 스트라이크* || {{{#orange '''전기'''}}} 피해 증가, 상태이상 확률 증가 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 휠윈드 || 투척무기의 비행 속도 증가[* 글레이브, 글레이브 프라임, 케스트렐] || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+== 센티넬 ==
+ 센티넬을 커스터마이징 하는 모드.
+ 모든 센티넬이 사용할 수 있는 모드와 특정 센티넬만이 사용할 수 있는 모드가 존재한다. 센티널의 특수능력을 사용하기 위해서는 해당하는 모드를 장착할 필요가 있다.
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''센티넬'''}}} || {{{#white '''극성'''}}} || {{{#white '''희귀도'''}}} ||
+|| 쿨란트 리크 || 센티넬이 작은 규모의 냉각 오러를 가지게 되며 다가오는 적을 느리게 만듭니다 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 크라우드 디스퍼젼 || 주변에 위치한 다수의 적들에게 피해를 주는 동시에 기절시키는 충격파를 방출합니다 || 웜 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 패스트 디플렉션 || 쉴드 재생률 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 페이탈 어트랙션 || 주변의 적을 가까운 거리까지 끌어 당깁니다 || 진 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 파이어드 업 || 최대 추가 피해 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 고스트 || 적들이 가까울 때 자신의 주인을 은폐. 주인이 공격을 행한다면 즉시 적들에게 모습이 발각됨 || 셰이드 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 가디언 || 주인의 쉴드가 모두 소진되면 즉시 쉴드를 충전해줍니다 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 인베스티게이터 || 센티넬이 만나는 적들과 물체들을 스캔하도록 합니다. 이 스캔은 스캐너를 소모합니다 || 헬리오스 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 리다이렉션 || 최대 실드량 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 리젠 || 센티넬이 죽음을 맞이하게 되면, 한 회에 한하여 부활 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 리벤지 || 센티넬이 주인을 공격한 적에게만 공격을 수행하도록 만듭니다 || 셰이드 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 새크리파이스 || 센티널이 자신의 체력을 소모해서 주인을 소생시킵니다[* 현재 획득방법 없음] || 모두 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 생츄어리 || 쓰러진 아군을 소생시킬 때 쉴드를 생성하여 주인을 보호합니다 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 ||
+|| 스페어 파츠 || 파괴될 때 레어아이템을 드랍할 확률 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 ||
+|| 셀프 디스트럭트 || 파괴될 때의 폭발 피해와 폭발 범위 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 스틸 파이버 || 방어력 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 스트라이커 || 캐리어는 처음 포착한 적을 공격할 것입니다 || 캐리어 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 스위프트 데스 || 센티넬이 범위 안에 들어온 첫 대상을 공격 할것입니다 || 데스큐브 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 타게팅 리셉터 || 헬리오스 센티넬이 먼저 발견한 대상을 공격하게 합니다 || 헬리오스 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 썸퍼 || 진이 가장 먼저 눈에 띈 적을 공격 합니다 || 진 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 버큠 || 주인을 위해 주위에 있는 아이템들을 자동으로 획득합니다. 모드도 포함 || 캐리어 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 베어포라이즈 || 센티넬이 가까이 다가온 적에게 강력한 피해를 입힐 것입니다 || 데스큐브 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 바이탈리티 || 최대 체력량 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 워리어 || 센티넬이 범위 내에서 가장 먼저 발견된 적에게 공격을 수행하도록 만듭니다 || 웜 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+== 쿠브로 ==
+
+모든 쿠브로 모드는 지구의 야생쿠브로와 다른 행성에서 나오는 드라코마스터가 소환하는 드라코들이 드랍한다. 참고로, 야생쿠브로들은 '쿠브로덴'에서 생성된다. 쿠브로덴을 바로 부시지 말고 몇번을 공격하면 쿠브로가 더 나옴으로 파밍을 하겠다면 참고하자.
+
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''쿠브로'''}}} || {{{#white '''극성'''}}} || {{{#white '''희귀도'''}}} ||
+|| 바이트 || 치명타 피해량 증가, 치명타 확률 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 ||
+|| 디그 || 쿠브로가 탄환 및 헬스 오브를 물어온다 || 사하사 ||  http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 패스트 디플렉션 || 쿠브로의 쉴드 회복량 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 페로시티 || 쿠브로의 마무리 일격이 가능해지고 마무리 피해량 증가 || 사하사 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 하울 || 쿠브로가 적에게 공포를 야기 || 락사 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 헌트 || 쿠브로가 태클로 공격 || 휴라스 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 링크 아머 || 플레이어의 '''방어력'''의 일정비율을 쿠브로에 반영 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 링크 헬스 || 플레이어의 '''체력량'''의 일정비율을 쿠브로에 반영  || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 링크 쉴드 || 플레이어의 '''쉴드량'''의 일정비율을 쿠브로에 반영  || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 ||
+|| 로얄 컴패니언 || 출혈상태시 사망할때 까지의 다운타이머 시간 연장 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 커먼 ||
+|| 마울 || '''근접 공격 피해량''' 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 ||
+|| 팩 리더 || 쿠브로의 체력을 플레이어가 가한 근접 대미지의 퍼센트로 회복 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 커먼 ||
+|| 프로텍트 || 주인의 쉴드량이 0이 되었을때 자동으로 회복 || 락사 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 새비져리 || 쿠브로의 마무리 일격이 가능해지고 마무리 피해량 증가 || 수니카 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 스캐빈지 || 쿠브로가 잠긴 상자를 열 확률 증가 || 모두 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 커먼 ||
+|| 스토크 || 적이 가까이 접근했을 때 주인을 은폐 || 휴라스 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+|| 언리쉬드 || 쿠브로가 VIP인 적을 붙잡고 땅에 눕힌다 || 수니카 || http://img2.wikia.nocookie.net/__cb20130401125549/warframe/images/thumb/1/16/Precept.png/17px-Precept.png || 레어 ||
+
+
+== 오라 ==
+ 워프레임 모드 슬롯 위쪽에 있는 오라모드 전용 슬롯에 장착하는 모드. 워프레임에 부가적인 능력치를 부여해준다.
+ 오라라는 이름처럼 자신만 효과를 보는것이 아니라 파티내의 다른 유저도 해당 오라 모드의 효과을 받게된다.
+ 가장 큰 특징으로서 다른 모드와는 달리 수용량을 소모하여 장착하는 것이 아니라 오히려 수용량을 늘려주는 특성을 가진다.
+ 오직 얼럿 미션으로만 획득할 수 있다는것도 특징.
+||<rowbgcolor=#000000><tablewidth=100%><:> {{{#white '''이름'''}}} || {{{#white '''상세'''}}} || {{{#white '''극성'''}}} || {{{#white '''드랍'''}}} || {{{#white '''희귀도'''}}} ||
+|| 코로시브 프로젝션 || 적의 방어력을 감소시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 데드 아이 || 장착중인 저격총의 피해를 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 얼럿 || 언커먼 ||
+|| 에너지 사이펀 || 팀원 전체에게 에너지 재생률을 부여합니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 에너미 레이더 || 미니맵에 적의 위치를 표시합니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 인페스티드 임피던스 || 인페스티드들의 이동속도를 감소시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 얼럿 || 언커먼 ||
+|| 루트 디텍터 || 미니맵에 아이템 상자들의 위치를 표시합니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 피지크 || 최대 체력량을 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 얼럿 || 언커먼 ||
+|| 피스톨 스케빈져 || 권총 탄환의 획득량을 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 리쥬버네이션 || 팀원 전체에게 체력 재생률을 부여합니다 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 얼럿 || 언커먼 ||
+|| 라이플 앰프 || 장착 중인 소총의 피해를 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 얼럿 || 언커먼 ||
+|| 라이플 스케빈져 || 소총 탄환의 획득량을 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 쉴드 디스트럽션 || 적의 쉴드를 감소시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 샷건 스케빈져 || 산탄총 탄환의 획득량을 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 스나이퍼 스케빈져 || 저격총 탄환의 획득량을 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 스피드 홀스터 || 무기를 수납하고 꺼내는 속도를 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 스프린트 부스트 || 달리기 속도를 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 얼럿 || 언커먼 ||
+|| 스틸 차지 || 장착 중인 근접 무기의 피해를 증가시킵니다 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 얼럿 || 언커먼 ||
+== 스탠스 ==
+ "업데이트 13 소드 얼론"으로 추가된 완전히 새로운 타입의 모드.
+ 장착 방식은 오라모드와 유사하나, 부가적인 능력을 부여하는 것이 아니라 근접 무기를 꺼내든 상태에서 공격 시 각 무기의 고유한 추가 콤보[* 각 스탠스 당 약 3개 정도의 콤보를 가지고  있다.  랭크를 올리면서 하나씩 해금]를 사용할 수 있게 해준다.
+ 표기된 드랍몹 및 미션 이외에도 변환으로 획득할 수 있다.
+||<tablewidth=100%><rowbgcolor=#000000><:> {{{#white '''이름'''}}} ||<rowbgcolor=#000000><:> {{{#white '''상세'''}}} ||<rowbgcolor=#000000><:> {{{#white '''무기 타입'''}}} ||<rowbgcolor=#000000><:> {{{#white '''극성'''}}} ||<rowbgcolor=#000000><:> {{{#white '''희귀도'''}}} ||<rowbgcolor=#000000><:> {{{#white '''드랍'''}}} ||
+||<width=15%> 블리딩 윌로우 || 강한 공격과 빠른 공격, 점프 공격을 섞은 연속기 입니다. ||<width=10%> 폴암 ||<width=5%> http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png ||<width=8%> 레어 ||<width=25%> 커럽티드 MOA, 퓨전 MOA 가디언 ||
+|| 블라인드 저스티스 || Reverse grip style emphasizing slashing and impaling strikes || 니카나 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 || 스토커 ||
+|| 브루탈 타이드 || 뒤돌려차기와 올려차기를 사용하는 연속기 입니다. || 스파링 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 || 톡식 에인션트 ||
+|| 버닝 와스프 || 자연스럽게 이어지는 연속기 입니다 || 채찍 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 || 레귤레이터, 커럽티드 랜서 ||
+|| 클래싱 포레스트 || 반달 모양의 휘어지는 공격과 집중적인 공격을 하는 연속기 입니다. || 스태프 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 || 커럽티드 에인션트 ||
+|| 클리빙 훨윈드 || 회전하는 마무리 공격을 가진 연속기 입니다. || 헤비소드[[br]]/도끼 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 || 에인션트 디스럽터 ||
+|| 코일링 바이퍼 || 힘찬 뒤집기와 아치형으로 이어지는 강한 공격을 하는 연속기 입니다. || 채찍 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 레어 || 커럽티드 크루맨 ||
+|| 크림슨 더비쉬 || 강력한 회전공격을 가합니다. || 도검 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 || 봄바드 ||
+|| 크러싱 루인 || 군중제어에 맞춰진 넓은 범위에 공격을 가합니다. || 해머 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 || 레일건 MOA, 그리니어 시커 ||
+|| 크로싱 스네이크 || 다양한 각도로 찔러 치명적인 상처를 입히는 공격입니다 || 쌍수 도검 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 || 엘리트 (노멀/애리드/프론티어) 랜서 ||
+|| 디사이시브 저지먼트 || 양손으로 강하게 관통하는 공격을 가합니다. || 니카나 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 || 그리니어 워든 ||
+|| 플레일링 브랜치 || 올려치기와 회전 공격을 가하는 연속기 입니다. || 스태프 || http://img4.wikia.nocookie.net/__cb20140410231552/warframe/images/thumb/b/b9/WardPol.png/18px-WardPol.png || 레어 || 커럽티드 헤비 거너 ||
+|| 프랙쳐링 윈드 || 강력한 마무리 일격을 가진 빠른 연타 공격입니다. || 피스트 || http://img4.wikia.nocookie.net/__cb20140410231552/warframe/images/thumb/b/b9/WardPol.png/18px-WardPol.png || 언커먼 || 인페스티드 차저 ||
+|| 제미니 크로스 || 광범위한 베기 공격과 빠른 잽을 선보이는 공격입니다. || 톤파 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 || 커럽티드 MOA, 발굴미션 ||
+|| 글리밍 탈론 || 빠르게 반달 모양을 그리는 연속기 입니다. || 글레이브 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 레어 || 리치 오스프레이 ||
+|| 내슁 파야라 || 나선형으로 회전하여 힘껏 관통해버립니다. || 쌍수 단검 || http://img4.wikia.nocookie.net/__cb20140410231552/warframe/images/thumb/b/b9/WardPol.png/18px-WardPol.png || 레어 || 엘리트 크루맨 ||
+|| 그림퓨리 || 번개같이 빠른 공격과 높은 피해를 주는 연속기 입니다. || 스파링 || http://img4.wikia.nocookie.net/__cb20140410231552/warframe/images/thumb/b/b9/WardPol.png/18px-WardPol.png || 언커먼 || 그리니어 파워피스트 ||
+|| 호밍 팽 || 빠른 속도를 가진 연타 공격입니다. || 단검 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 언커먼 || 노져스 크롤러 ||
+|| 아이언 피닉스 || 관통으로 마무리 일격을 하는 빠른 베기 공격입니다 || 도검 || http://img4.wikia.nocookie.net/__cb20140410231552/warframe/images/thumb/b/b9/WardPol.png/18px-WardPol.png || 레어 || (노멀/애리드/프론티어)랜서,[[br]](애리드/프론티어)헬리온, 헤비 거너 ||
+|| 말리시우스 랩터 || Puncturing strikes and quick slashes || 클로 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 || 파워피스트 ||
+|| 포인티드 윈드 || 나선형으로 위로 올려치는 공격입니다. || 단검 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 || 쇼크웨이브 MOA ||
+|| 리핑 스파이럴 || 긴 사거리의 공격과 다중 타격 연속기입니다 || 낫 || http://img2.wikia.nocookie.net/__cb20130401125510/warframe/images/thumb/e/e1/Bar.png/19px-Bar.png || 언커먼 || 코퍼스 크루맨 ||
+|| 렌딩 크레인 || 강한 충격을 주는 내려찍기 연속기 입니다. || 헤비소드[[br]]/도끼 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 || 그리니어 네이팜 ||
+|| 세이즈믹 팜 || 넓은 범위의 정석적인 공격입니다. || 피스트 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 레어 || 인페스티드 리퍼 ||
+|| 섀터링 스톰 || 강력한 충격 공격을 가하는 정석적인 공격입니다. || 해머 || http://img2.wikia.nocookie.net/__cb20130401125638/warframe/images/thumb/5/54/D.png/17px-D.png || 언커먼 || 사거스 룩 장군 ||
+|| 싱킹 탈론 || 여러번의 회전으로 강하고 집중된 공격을 가하는 공격입니다. || 쌍수 단검 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 언커먼 || 데트론 크루맨 ||
+|| 스토킹 팬 || 나선형을 그리면서 돌진을 이용해 상대를 산산조각내는 연속기입니다. || 낫 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 레어 || 스나이퍼 크루맨 ||
+|| 쉬머링 블라이트 || 재빠른 회전 공격과 적들을 휘청거리게 하는 공격을 합니다 || 폴암 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 언커먼 || (노멀/애리드/프론티어)시커 ||
+|| 선더링 위브 || 집중적으로 피해를 가하는 꾸준한 베어내기 공격입니다 || 마체테 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 언커먼 || (노멀/애리드/프론티어)트루퍼,[[br]](애리드/프론티어)에비서레이터,[[br]]스콜피온, (노멀/프론티어)스카치 ||
+|| 스윌링 타이거 || 여러명의 적을 한꺼번에서 타격하는 회전 공격입니다. || 쌍수 도검 || http://img1.wikia.nocookie.net/__cb20130401125706/warframe/images/thumb/8/87/Ability.png/17px-Ability.png || 언커먼 || 안티 MOA, 코퍼스 테크, 스카치 ||
+|| 트랭퀼 클리브 || 반달형으로 휘어지는, 강하게 몰아치는 콤보입니다. || 니카나 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 레어 || (애리드/프론티어)부쳐 ||
+|| 일레븐스 스톰 || 검과 방패를 이용하는 빠른 공격입니다. || 도검과 방패 || http://img2.wikia.nocookie.net/__cb20130401125611/warframe/images/thumb/8/83/V.png/18px-V.png || 언커먼 || 레판티스 ||
+
+
+== 무기 개조 모드 ==
+ 업데이트 15 아크윙때 추가된 신디케이트를 통해 획득 가능한 모드로 특정 무기의 성능을 올려준다.
+
+ *일단, 자세한 내용이 추가되기전에 간략하게 설명을 하자면 총 6개로 이루어진 신디케이트 진영에 가입하여서, 공적치를 쌓고그 댓가로 특정한 무기에만 장착할 수 있는 (ex-'헥'에만 장착할 수 있는 특별한 모드를 받을 수 있다) 모드를 받는 형식이다.
+ *참고로 신디케이트는 게임접속후, 함선에서 항해장치 왼쪽으로 가면 확인 할 수 있다. 또는, 각 행성의 HUB지역으로 가서 맘에드는 신디케이트 진영에 가입할 수 있다.
+
+ 자세한 항목은 [[추가바람]]
+
+== 어빌리티 개조 모드 ==
+ 업데이트 15 아크윙때 추가된 신디케이트를 통해 획득 가능한 모드로 특정 어빌리티에 추가 능력을 부여해시킨다
+
+*일단, 자세한 내용이 추가되기전에 간략하게 설명을 하자면 총 6개로 이루어진 신디케이트 진영에 가입하여서, 공적치를 쌓

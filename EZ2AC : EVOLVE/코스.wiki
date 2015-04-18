@@ -1,0 +1,524 @@
+ * 상위 항목: [[EZ2AC : EVOLVE]]
+
+[[목차]]
+== 개관 ==
+이번 작품에서는 코스별 부제가 사라졌다. 다만 일부 코스는 아이캐치에 부제가 적혀있다.
+
+구 7키 라디오 전통의 청취율 시스템이 삭제되고 서바이벌 게이지 방식이 적용되며, 5키 7키 모두 콤보와 게이지 잔량이 다음 스테이지로 계승되는 시스템으로 변화했다. 이에 따라 일부 구 코스는 체감 난이도가 변한 경우가 많다.
+
+전작에 비해 신규 코스 수가 많이 줄었다. 전작에서는 코스별로 채보를 다르게 하는 등 라디오에 공을 많이 들였지만, 개발력 대비 유저들의 호응이 그리 높지 않아서 이번에는 스탠다드 모드 추가 채보에 더 많은 신경을 쓴 것 같다.
+
+== 범례 ==
+||<#FD313F> BE ||<#C5011B> BERA ||<#3CB2F6> AE ||<#2CA4E9> AEIC ||<#81FCDB> EC ||<#CE3351> EV ||
+
+== 5키 코스 ==
+=== 신규 코스 ===
+==== Take One (Lv 4) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[2.14]]|| Take || 370 ||
+|| 2 ||[[Spotlight]]|| Take || 299 ||
+|| 3 ||[[MxMxM Star]]|| Take || 616 ||
+|| 4 ||[[The Boy ~Here comes my baby~]]|| Take || 582 ||
+1.5 패치기준 가장 먼저 골라지는 채널이다. AEIC Lounge J 이후 이지투 시리즈 역사상 가장 쉬운 채널.
+==== RMHN (Lv 7) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[WHEEL OF FIRE]]|| RMHN || 1001 ||
+|| 2 ||[[CHIARA]]|| RMHN || 840 ||
+|| 3 ||[[BEATRICE]]|| RMHN || 898 ||
+|| 4 ||[[Repulse Stream|Repulse Stream (RAVEN@TION REMIX)]]|| RMHN || 868 ||
+==== Jammin Color (Lv 9) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Sparrow]]|| HD || 694 ||
+|| 2 ||[[Flicker]]|| Jammin || 491 ||
+|| 3 ||[[Todos Los Dias]]|| Jammin || 976 ||
+|| 4 ||[[Complex]]|| Jammin || 1032 ||
+Sparrow는 하드와 노트 수가 같으나 동일 패턴인지는 검증이 필요하다.
+==== Cradle Edge (Lv 9) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Cosmical Rhythm]]|| Cradle || 1263 ||
+|| 2 ||[[May I Come In%3F|May I Come In?]]|| Cradle || 1036 ||
+|| 3 ||[[Flat Shoes]]|| Cradle || 1233 ||
+|| 4 ||[[M!rror]]|| Cradle || 1101 ||
+EV에서 신곡 2곡과 EC 수록곡 2곡으로 개편되었다. EC 곡도 EC Cradle Edge 채널 패턴과는 다르게 새로 짰다.
+==== Empty Band (Lv 10) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[QUADCORE]]|| Empty || 928 ||
+|| 2 ||[[True]]|| Empty || 1119 ||
+|| 3 ||[[Nothing Else]]|| HD || 1265 ||
+|| 4 ||[[Venn Diagram]]|| Empty || 1171 ||
+'Institution of Emptiness'라는 철학적인 부제가 붙어있는 채널. Nothing Else는 하드와 노트 수가 같으나 동일 패턴인지는 검증이 필요하다.
+==== ''SPEEDSTER'' (Lv 10) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[The Rhythm]]||  || 1241 ||
+|| 2 ||[[The Ashtray]]||  || 1193 ||
+|| 3 ||[[Phat Trash]]|| Flight || 1244 ||
+|| 4 ||[[Ztar warZ]]||  || 639 ||
+코스 선택 화면에서 제목이 기울어져 있다. 1스테이지는 BERA znpfg 패턴에서 초반의 스크래치들을 뺀 듯한 구성이며, 2스테이지는 하드에 롱노트 하나 추가한 수준. 3스테이지는 EC 라디오 Flight Plan 채널 패턴. 4스테이지 Ztar warZ는 리믹스 음원이다.
+==== PEENA (Lv 10) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Pair Creation]]||  || 1183 ||
+|| 2 ||[[Phat Trash]]||  || 1324 ||
+|| 3 ||[[INFINITY]]||  ||  ||
+|| 4 ||[[ASTERIOS REENTRY]]||  || 1319 ||
+1.2a 버전에서는 3스테이지가 스킵된다.
+==== Team Progrresive (Lv 11) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Airwave]]|| TPRO || 1304 ||
+|| 2 ||[[Rendezvous Coast]]|| TPRO || 914 ||
+|| 3 ||[[Purity Dream]]|| TPRO || 1434 ||
+|| 4 ||[[Rendezvous City]]|| TPRO || 1377 ||
+==== Subliminal Effect (Lv 11) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Hypnotize]]||  || 753 ||
+|| 2 ||[[Illusion]]|| SHD || 1294 ||
+|| 3 ||[[Purity Dream]]|| HD || 1450 ||
+|| 4 ||[[Y-Gate]]||  || 992 ||
+==== Heart-string (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Lucid]]||  || 1764 ||
+|| 2 ||[[Orphan Children]]||  || 1421 ||
+|| 3 ||[[Crisp]]||  || 1806 ||
+|| 4 ||[[Gothique Resonance]]||  || 1336 ||
+EC의 동명의 코스와는 완전히 다른 채널. 관현악, 교향곡 같은노래로 이루어져 있다. 루시드, 오펀, 고딕은 NM, 크리스프는 HD패턴과 난이도 및 패턴이 거의 비슷하다. 덕분에 물렙성이 매우 짙다.
+==== FOX-B (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Immortal]]|| FOX-B || 1603 ||
+|| 2 ||[[Flicker]]|| FOX-B || 988 ||
+|| 3 ||[[Repulse Stream|Repulse Stream (RAVEN@TION REMIX)]]|| FOX-B || 1448 ||
+|| 4 ||[[Bluesy]]|| FOX-B || 1591 ||
+==== KICK THE FLOOR (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dance Machine|Dance Machine (YK House Edit)]]|| KTF || 1242 ||
+|| 2 ||[[Uranus]]|| KTF || 1629 ||
+|| 3 ||[[Taillight Phantom]]|| KTF || 1535 ||
+|| 4 ||[[Repulse Stream|Repulse Stream (RAVEN@TION REMIX)]]|| HD || 1487 ||
+1스테이지는 하드랑 같지만 Come on! 후에 한 번 반복되는 부분이 다르다. 일반 하드는 신스를 연주하지만 KTF 패턴은 피아노 루프를 연주한다. 2, 3스테이지는 각각 슈하, 하드랑 비슷하다.
+==== 03's Icon (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Minus 1 ~Space Mix~]]|| 03's icon || 851 ||
+|| 2 ||[[Showdown]]|| 03's icon || 963 ||
+|| 3 ||[[Fire Storm]]|| 03's icon || 1036 ||
+|| 4 ||[[Zeroize]]|| 03's icon || 765 ||
+==== Blue Diamond (Lv 13) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Break of Dawn]]||  || 2070 ||
+|| 2 ||[[Diamond Shore]]||  || 1579 ||
+|| 3 ||[[Doll's Garden]]||  || 1426 ||
+|| 4 ||[[Hallucination]]||  || 2070 ||
+'flow.d's present'라는 부제가 붙어있다. Hallucination은 14K 하드 음원.
+==== Flow.D (Lv 14) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Storm Chaser]]|| Flow.D || 1844 ||
+|| 2 ||[[INFINITY]]|| Flow.D || 1707 ||
+|| 3 ||[[ASTERIOS REENTRY]]|| Flow.D || 1648 ||
+|| 4 ||[[Gothique Resonance]]|| Flow.D || 1578 ||
+유저들로부터 가장 많이 호평받는 코스. 특징은 페달이 단 한개도 없다.
+==== HoR (Lv ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Good Speed]]|| HoR || 1681 ||
+|| 2 ||[[Far Away]]|| HoR || 2490 ||
+|| 3 ||[[Latino]]|| HoR || 1717 ||
+|| 4 ||[[Irregular Liner]]|| HoR || 2245 ||
+[http://youtu.be/I8E6ZKP7LEY 플레이 영상]
+BE 3곡과 신곡 1개가 나온다. 네 곡 모두 스트릿에서 즐길 수 있는 패턴보다 난이도가 높으며 유저 체감 난이도는 15.
+==== err (Lv 16) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[ASTERIOS REENTRY]]|| SHD || 2643 ||
+|| 2 ||[[Oriental Shade]]|| SHD || 3080 ||
+|| 3 ||[[Terminated Protocol]]|| SHD || 2990 ||
+|| 4 ||[[Repulse Stream|Repulse Stream (RAVEN@TION REMIX)]]|| err || 2752 ||
+1.2a ~ 1.3c의 보스 채널이다. 4스테이지의 전용 패턴이 압권.
+==== LEVEL : ZETA (Lv ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[ASTERIOS REENTRY]]|| ZETA || 3199 ||
+|| 2 ||[[Oriental Shade]]|| ZETA || 3506 ||
+|| 3 ||[[Terminated Protocol]]|| ZETA || 3578 ||
+|| 4 ||[[Gothique Resonance]]|| ZETA || 2975 ||
+1.50 업데이트로 추가된 보스 코스. 1~3스테이지는 err 채널과 같으나 전부 전용 패턴이다. 한시도 쉴새 없이 떨어지는 폭타와 멜로디스크/페달의 압박이 강한 채널로 어렵기 이전에 힘들다는 평이 많다.
+=== 랜덤 코스 ===
+==== 7+ RANDOM (LV ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||<|4>레벨 7 이상 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+==== 10+ RANDOM (LV ?!) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||<|4>레벨 10 이상 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+==== 13+ RANDOM (LV !!!) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||<|4>레벨 13 이상 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+==== Mutant (Lv ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||<|4>특수 패턴 랜덤 선곡[[br]]자세한 목록은 [[EZ2AC/Mutant]] 참고|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+==== znpfg (Lv ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||<|4>특수 패턴 랜덤 선곡[[br]]자세한 목록은 [[EZ2AC/Znpfg]] 참고|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 기존 코스 ===
+==== Ouroboros (Lv ∞) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dream Walker]]|| Ouroboros || 2361 ||
+|| 2 ||[[Starlight Factory]]|| Ouroboros || 2151 ||
+|| 3 ||[[Legend]]|| Ouroboros || 3283 ||
+|| 4 ||[[A Site De La Rue]]|| Ouroboros || 3276 ||
+==== Trickster (Lv !?) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[You love the life you live|You love the life you live (Remix)]]|| Trickster || 353 ||
+|| 2 ||[[Red Ocean]]|| Trickster || 897 ||
+|| 3 ||[[Mystic Dream 9903 ~Horror Mix~|Mystic Dream 9903 (Horror Mix)]]|| Trickster || 513 ||
+|| 4 ||[[Be Mine!]]|| Trickster || 685 ||
+변속 채널이다. 채보 자체는 별로 어렵지는 않지만, 1, 2, 3, 4 스테이지 모두다 변속이 다짜고짜 등장해서 엄청나게 짜지는 판정과 잘못하면 우루루 깎여나가는 게이지를 구경할수도 있고, 변속 덕에 패턴에 익숙해지기가 힘들어 진다.
+==== Nervous Breakdown (Lv 17) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Zeroize]]|| Nervous || 1281 ||
+|| 2 ||[[Messier 333]]|| Nervous || 2885 ||
+|| 3 ||[[神威]]|| Nervous || 3415 ||
+|| 4 ||[[Return to Universe]]|| Nervous || 2081 ||
+==== END (Lv 16) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[WHEEL OF FIRE]]|| END || 2317 ||
+|| 2 ||[[Push me again]]|| END || 2096 ||
+|| 3 ||[[Orphan Children]]|| END || 2708 ||
+|| 4 ||[[Total Eclipse]]|| END || 2384 ||
+==== Total Mayhem (Lv 16) ====
+||<#2C7BC0> AEIC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[AXIS]]|| TM || 1759 ||
+|| 2 ||[[Nachthexen]]|| TM || 2315 ||
+|| 3 ||[[Morgenglut 2012]]|| TM || 2430 ||
+|| 4 ||[[Crisp]]|| TM || 3008 ||
+==== Abscondence (Lv 16) ====
+||<#3CB2F6> AE || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Nihilism]]|| Abscondence || 2475 ||
+|| 2 ||[[Morgenglut 2012]]|| Abscondence || 2072 ||
+|| 3 ||[[The Ashtray]]|| Abscondence || 2160 ||
+|| 4 ||[[Taillight Phantom]]|| Abscondence || 2227 ||
+==== FUSE (Lv 15) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dream Walker]]|| FUSE || 2981 ||
+|| 2 ||[[Orphan Children]]|| FUSE || 2118 ||
+|| 3 ||[[Shine Through]]|| FUSE || 2066 ||
+|| 4 ||[[BEATRICE]]|| FUSE || 1982 ||
+==== Pyrexia (Lv 14) ====
+||<#3CB2F6> AE || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Atomizer]]|| Pyrexia || 1991 ||
+|| 2 ||[[A Final Dreaming]]|| Pyrexia || 1791 ||
+|| 3 ||[[La Grand Bleu]]|| Pyrexia || 2401 ||
+|| 4 ||[[Don't Say Anything]]|| Pyrexia || 2534 ||
+EV에서 다시 부활했다.
+==== ohcodus (Lv 14) ====
+||<#FD313F> BE || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Thrust Out]]|| ohcodus || 1474 ||
+|| 2 ||[[Blood Castle]] (Remix)|| ohcodus || 1459 ||
+|| 3 ||[[Rosen Vampir]]|| ohcodus || 1963 ||
+|| 4 ||[[Apollon]]|| ohcodus || 2212 ||
+==== ATAS (Lv 12) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dancing Light]]|| ATAS || 1019 ||
+|| 2 ||[[AXIS]]|| ATAS || 1182 ||
+|| 3 ||[[Starlight Factory]]|| ATAS || 1172 ||
+|| 4 ||[[Total Eclipse]]|| ATAS || 1294 ||
+==== Team Indigo Wolves (Lv 12) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[DISTOPIA]]|| Indigo || 1815 ||
+|| 2 ||[[Stranger]]|| Indigo || 1170 ||
+|| 3 ||[[Shove it]]|| Indigo || 1654 ||
+|| 4 ||[[FUTURE NIGHT]]|| Indigo || 1536 ||
+==== HFS+ (Lv 10) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Rendezvous Coast]]|| HFS+ || 694 ||
+|| 2 ||[[Dream Walker]]|| HFS+ || 1821 ||
+|| 3 ||[[UniT(EZ2AC)|UniT]]|| HFS+ || 1243 ||
+|| 4 ||[[Legend]]|| HFS+ || 1780 ||
+레벨 9에서 승격되었다.
+==== Steel Heart (Lv 10) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Q Factor]]|| SteelHeart || 933 ||
+|| 2 ||[[Riff Guy]]|| SteelHeart || 799 ||
+|| 3 ||[[Be-at Feedback]]|| SteelHeart || 875 ||
+|| 4 ||[[UniT(EZ2AC)|UniT]]|| SteelHeart || 1265 ||
+==== Sprouts of Rebellion (Lv 10) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[WHEEL OF FIRE]]|| SoR || 974 ||
+|| 2 ||[[Push me again]]|| SoR || 732 ||
+|| 3 ||[[Shine Through]]|| SoR || 1204 ||
+|| 4 ||[[A Site De La Rue]]|| SoR || 1051 ||
+==== Game World (Lv 10) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Delight]]|| Game || 868 ||
+|| 2 ||[[B.O.W.]]|| Game || 925 ||
+|| 3 ||[[Minus 2]]|| Game || 1131 ||
+|| 4 ||[[Dream Walker]]|| Game || 961 ||
+==== AYA (Lv 10) ====
+||<#FD313F> BE || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[주문을 외워봐]]|| AYA || 890 ||
+|| 2 ||[[Sensation of Stage]]|| AYA || 1204 ||
+|| 3 ||[[Skyward]]|| AYA || 1070 ||
+|| 4 ||[[Dreamy Days]]|| AYA || 1583 ||
+==== European Express (Lv 9) ====
+||<#2C7BC0> AEIC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Say That U]]|| European || 834 ||
+|| 2 ||[[Skyward]]|| European || 909 ||
+|| 3 ||[[Rising In My Heart]]|| European || 1305 ||
+|| 4 ||[[BLEED]]|| European || 1164 ||
+==== Flight Plan (Lv 8) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dancing Light]]|| Flight || 796 ||
+|| 2 ||[[Phat Trash]]|| Flight || 1244 ||
+|| 3 ||[[Futurist]]|| Flight || 941 ||
+|| 4 ||[[Cosmic Bird]]|| Flight || 957 ||
+레벨 9에서 강등되었다. 그리고 곡 순서가 바뀌었다.
+==== Seeds of Rebellion (Lv 8) ====
+||<#3CB2F6> AE || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Crisp]]|| Seeds of Rebellion || 634 ||
+|| 2 ||[[Nachthexen]]|| Seeds of Rebellion || 781 ||
+|| 3 ||[[Messier 333]]|| Seeds of Rebellion || 402 ||
+|| 4 ||[[神威]]|| Seeds of Rebellion || 1662 ||
+EV에서 부활하였다.
+==== Houseplan Inc. (Lv 8) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Get It Up]]|| Houseplan || 701 ||
+|| 2 ||[[True]]|| Houseplan || 803 ||
+|| 3 ||[[Departure]]|| Houseplan || 602 ||
+|| 4 ||[[FUTURE NIGHT]]|| Houseplan || 1076 ||
+==== on the beach (Lv 8) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Vintage Summer]]|| beach || 834 ||
+|| 2 ||[[In a Nutshell]]|| beach || 678 ||
+|| 3 ||[[Sentimental No! No!]]|| beach || 556 ||
+|| 4 ||[[Rendezvous Coast]]|| beach || 659 ||
+==== Lounge J (Lv 5) ====
+||<#2C7BC0> AEIC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Spotlight]]|| Lounge || 409 ||
+|| 2 ||[[Catch The Flow]]|| Lounge || 378 ||
+|| 3 ||[[R.D.M. ~Rain Drops in My mind~]]|| Lounge || 904 ||
+|| 4 ||[[Funny Funky]]|| Lounge || 524 ||
+
+=== 삭제 코스 ===
+ * 12+
+ * Violet: 전 패턴 스탠다드에 수록
+ * Retro-Respect-Revisited: Let It Go, Showdown 스탠다드에 수록
+ * Decadance: 전 패턴 스탠다드에 수록
+ * null: 전 패턴 스탠다드에 수록
+ * Heart-String(AE): Anemia, Yes Yes 스탠다드에 수록
+ * Ghetto Box: Get the Beat (Nimble Mix) 스탠다드에 수록
+ * ENDLESS CIRCULATION, Cradle Edge(EC), House Nuts, Teardrop, Fairytales, virtuoso, SpringHead, Ethereal Voices(EC), Swallow Tail, Around The World, fromsmk, 24/7, Flow.D(EC), Team Progressive(EC), Outerspace, PEENA(EC)
+
+== 7키 코스 ==
+=== 신규 코스 ===
+==== Cradle Edge (Lv 9) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Cosmical Rhythm]]|| Cradle || 1142 ||
+|| 2 ||[[May I Come In%3F|May I Come In?]]|| Cradle || 1071 ||
+|| 3 ||[[Flat Shoes]]|| Cradle || 1340 ||
+|| 4 ||[[M!rror]]|| Cradle || 1001 ||
+1스테이지의 Cosmical Rhythm의 경우 변속이 추가되었고, 4스테이지의 M!RROR는 패턴이 변경된 것으로 추정된다.
+==== Team Progressive (Lv 9) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[DISTOPIA]]|| Progressive || 1321 ||
+|| 2 ||[[True]]|| Progressive || 1044 ||
+|| 3 ||[[Purity Dream]]|| Progressive || 1392 ||
+|| 4 ||[[Rendezvous City]]|| Progressive || 1355 ||
+2스테이지까지는 전작의 동명 채널과 곡 구성과 패턴이 같다.
+==== Jammin' Color (Lv 9) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Sparrow]]|| Jammin || 664 ||
+|| 2 ||[[Flicker]]|| Jammin || 507 ||
+|| 3 ||[[Todos Los Dias]]|| Jammin || 924 ||
+|| 4 ||[[Complex]]|| Jammin || 872 ||
+코스의 전 곡이 계단이 중심이 되는 패턴으로 이루어져있다. 보스곡인 컴플렉스는 레벨12급의 압박적인 채보를 가지고 있으니 주의.
+==== Empty Band (Lv 10) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[QUADCORE]]|| Empty || 1064 ||
+|| 2 ||[[True]]|| Progressive? || 1044 ||
+|| 3 ||[[Nothing Else]]|| PSYCLOID? || 892 ||
+|| 4 ||[[Venn Diagram]]|| HD? || 1011 ||
+2, 3스테이지의 패턴은 다른 채널에 존재하는 패턴과 동일한 노트수를 갖고, 4스테이지의 패턴은 HD와 노트수가 같은 것으로 파악되었으나, 실제 같은 패턴인지는 확인이 요구된다.
+==== ''SPEEDSTER'' (Lv 10) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[The Rhythm]]|| SPEEDSTER || 1253 ||
+|| 2 ||[[The Ashtray]]|| SPEEDSTER || 1540 ||
+|| 3 ||[[Phat Trash]]|| SPEEDSTER || 1339 ||
+|| 4 ||[[Ztar warZ]]|| SPEEDSTER || 654 ||
+4스테이지는 즈타워즈의 리믹스판,스크롤속도가 매우빠르므로 배속을 미리 낮춰둬야한다.
+==== Subliminal Effect (Lv 11) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Hypnotize]]|| Subliminal || 795 ||
+|| 2 ||[[Illusion]]|| Subliminal || 1361 ||
+|| 3 ||[[Purity Dream]]|| Subliminal || 1411 ||
+|| 4 ||[[Y-Gate]]|| Subliminal || 993 ||
+==== Heart-string (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Lucid]]||  ||  ||
+|| 2 ||[[Orphan Children]]||  ||  ||
+|| 3 ||[[Crisp]]||  ||  ||
+|| 4 ||[[Gothique Resonance]]||  ||  ||
+==== KICK THE FLOOR (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dance Machine|Dance Machine (YK House Edit)]]||  ||  ||
+|| 2 ||[[Uranus]]||  ||  ||
+|| 3 ||[[Taillight Phantom]]||  ||  ||
+|| 4 ||[[Repulse Stream|Repulse Stream (RAVEN@TION REMIX)]]||  ||  ||
+==== 03's ICON (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Minus 1 ~Space Mix~]]||  ||  ||
+|| 2 ||[[Showdown]]||  ||  ||
+|| 3 ||[[Fire Storm]]||  ||  ||
+|| 4 ||[[Zeroize]]||  ||  ||
+3스테이지와 4스테이지의 파톰과 제로는 스탠다드에서와는 달리 스크롤보정이 없기때문에 스탠다드보다 높게 배속을 걸어야한다.
+==== tustenik (Lv 12) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Substance]]||  ||  ||
+|| 2 ||[[Weird Wave]]||  ||  ||
+|| 3 ||[[Storm Chaser]]||  ||  ||
+|| 4 ||[[Terminated Protocol]]||  ||  ||
+==== KIEN (Lv 13) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Entire]]||  ||  ||
+|| 2 ||[[Break of Dawn]]||  ||  ||
+|| 3 ||[[A Site De La Rue]]||  ||  ||
+|| 4 ||[[Terminated Protocol]]||  ||  ||
+==== Vilkas (Lv 13) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Purity Dream]]|| Vilkas || 1414 ||
+|| 2 ||[[INFINITY]]|| Vilkas || 1455  ||
+|| 3 ||[[Oriental Shade]]|| Vilkas || 1835 ||
+|| 4 ||[[ASTERIOS REENTRY]]|| Vilkas || 1551 ||
+==== water-flame (Lv ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[May I Come In%3F|May I Come In?]]||  ||  ||
+|| 2 ||[[Flicker]]||  ||  ||
+|| 3 ||[[Gothique Resonance]]||  ||  ||
+|| 4 ||[[Bluesy]]||  ||  ||
+페일시의 게이지 감소량이 매우 큰 채널. 이 큰 감소량은 패터너인 워터플레임이 의도한 것 이라고한다. 하지만 피해량 보정을 걸어둬도 불구하고 청취율제였던 저번작까지의 채널에 비하면 굉장히 쉬운편이다.
+'''[https://twitter.com/waterflame_k/status/582332875204272128 그리고 이 코스가 쉽다라는 사실을 인지한 워터플레임은 1.5패치판에 더욱더 끔찍한 보정을 건 코스를 내는데...]'''[* 의역: 나(워터플레임)「이번 작은 청취율 방식이 없어졌으니, 게이지 감소량을 크게 해보자(^o^)」 여러분「이번 작 water-flame씨 코스는 쉽네요.」 나「뭐, 뭐라고?Σ（ﾟдﾟlll）」 ...그래서 이번 1.5 패치, 매우 어려운 코스를 추가했습니다! 꼭 해보세요!]
+
+참고로 3스테이지의 고딕이 곡목록에서 Terminated Protocol로 나오는 버그가 있다.
+==== escape from love -w473r fl4m3- (Lv ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Lie Lie]]|| escape from love || 863 ||
+|| 2 ||[[Stay with me]]|| escape from love || 1106  ||
+|| 3 ||[[Again(EZ2AC)|Again]]|| escape from love || 1177 ||
+|| 4 ||[[Sensation of Stage]]|| escape from love || 1369 ||
+1.5 업데이트로 추가된 코스. 채보 자체의 난이도는 12~13 수준이나 게이지가 회복되지 않으며, KOOL 또는 COOL 판정에도 게이지가 미세하게 감소한다. 게다가 게이지가 다음 스테이지로 계승되는 시스템 상, 전곡을 거의 완벽한 플레이를 할 것을 강요하는 코스. 여담으로 코스의 부제인 w473r fl4m3는 패터너 water flame을 [[리트]]로 표기한 것. 완벽한 플레이를 요구하는 코스의 컨셉에서도 알 수 있듯, 구작의 water-flame 채널의 후계가 되는 코스라고 볼 수 있다.
+제작진에 의하면 게이지 감소량은 Fail>Miss>Good>Cool=Kool이라고 한다.
+==== LEVEL : ZETA (Lv ?) ====
+||<#CE3351> EV || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[ASTERIOS REENTRY]]|| ZETA || 2113 ||
+|| 2 ||[[Repulse Stream|Repulse Stream (RAVEN@TION REMIX)]]|| ZETA || 1996 ||
+|| 3 ||[[Terminated Protocol]]|| ZETA || 2767 ||
+|| 4 ||[[Gothique Resonance]]|| ZETA || 1917 ||
+[https://youtu.be/H4YqhtNYJTo 플레이 영상]
+1.5 업데이트로 추가된 보스 코스. 상세사항 제보바람
+=== 기존 코스 ===
+==== Ouroboros (Lv ∞) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Sigma]]|| Ouroboros || 1616 ||
+|| 2 ||[[Starlight Factory]]|| Ouroboros || 1484 ||
+|| 3 ||[[A Site De La Rue]]|| Ouroboros || 2121 ||
+|| 4 ||[[Legend]]|| Ouroboros || 2268 ||
+청취율 시스템 삭제로 인해 3스테이지까지는 무난해졌지만, 후반부가 까다로운 Legend만큼은 어려워졌다는 평이 많다.
+==== Trickster (Lv !?) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[You love the life you live|You love the life you live (Remix)]]|| Trickster || 366 ||
+|| 2 ||[[Red Ocean]]|| Trickster || 927 ||
+|| 3 ||[[Mystic Dream 9903 ~Horror Mix~|Mystic Dream 9903 (Horror Mix)]]|| Trickster || 536 ||
+|| 4 ||[[Be Mine!]]|| Trickster || 692 ||
+3스테이지의 미스틱드림 호러믹스는 5코스와는 달리 게이지 회복량이 굉장히 후해서 쾅쾅쳐도 풀게이지로 넘어갈 수 있다.반면 4스테이지의 비마인은 앞스테이지와는 달리 게이지회복량이 매우 낮으니 주의.
+==== Total Mayhem (Lv 16) ====
+||<#2CA4E9> AEIC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[AXIS]]|| TM || 1505 ||
+|| 2 ||[[Intuition]]|| TM || 1908 ||
+|| 3 ||[[Nachthexen]]|| TM || 1974 ||
+|| 4 ||[[Crisp]]|| TM || 2805 ||
+==== Abscondence (Lv 15) ====
+||<#3CB2F6> AE || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Nihilism]]|| Abscondence || 2313 ||
+|| 2 ||[[The Ashtray]]|| Abscondence || 1655 ||
+|| 3 ||[[Morgenglut 2012]]|| Abscondence || 2302 ||
+|| 4 ||[[Taillight Phantom]]|| Abscondence || 1954 ||
+청취율 시스템이 삭제되어서 그런지 15로 강등되었다. 그런데 청취율이 삭제되어도 결코 쉽지 않다.
+==== FUSE (Lv 15) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dream Walker]]|| FUSE || 2566 ||
+|| 2 ||[[Orphan Children]]|| FUSE || 2002 ||
+|| 3 ||[[Shine Through]]|| FUSE || 1683 ||
+|| 4 ||[[BEATRICE]]|| FUSE || 1596 ||
+==== sun3 (Lv 14) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Apollon]]||  || 1594 ||
+|| 2 ||[[Messier 333]]||  || 1448 ||
+|| 3 ||[[Morgenglut 2012]]||  || 1722 ||
+|| 4 ||[[FUTURE NIGHT]]||  || 1396 ||
+==== Shooting Star (Lv 13) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[BLEED]]||  || 1141 ||
+|| 2 ||[[Starlight Factory]]||  || 1102 ||
+|| 3 ||[[Taillight Phantom]]||  || 1485 ||
+|| 4 ||[[A Site De La Rue]]||  || 1577 ||
+4스테이지 데라루의 스크롤속도가 스탠다드보다 빠른것에 주의.
+==== From Dusk Till Dawn (Lv 13) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Nachthexen]]||  || 1381 ||
+|| 2 ||[[The Onyx Night Sky]]||  || 1069 ||
+|| 3 ||[[Shine Through]]||  || 925 ||
+|| 4 ||[[Break of Dawn]]||  || 1614 ||
+==== yak_won (Lv 13) ====
+||<#2CA4E9> AEIC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Extra Wave]]|| yak_won || 1282 ||
+|| 2 ||[[Out of the Blue]]|| yak_won || 1706 ||
+|| 3 ||[[Wind Tales]]|| yak_won || 1871 ||
+|| 4 ||[[Crisp]]|| yak_won || 1920 ||
+==== wr8ng q: (Lv 13) ====
+||<#3CB2F6> AE || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Red Ocean]] ~Vermillion Surf Edit~ || wr8ng || 952 ||
+|| 2 ||[[Envy Mask]] ~Thousand Scars Edit~ || wr8ng || 851 ||
+|| 3 ||[[Climax]] ~Panic Disorder Edit~ || wr8ng || 1549 ||
+|| 4 ||[[Red Hot]] ~Chili Peppers Edit~ || wr8ng || 732 ||
+==== studio PSYCLOID (Lv 12) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[The Greatest Escape]]||  || 1020 ||
+|| 2 ||[[satellite 61]]||  || 1231 ||
+|| 3 ||[[Nothing Else]]||  || 892 ||
+|| 4 ||[[WHEEL OF FIRE]]||  || 1188 ||
+==== Steel Heart (Lv 10) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Q Factor]]||  || 934 ||
+|| 2 ||[[Riff Guy]]||  || 792 ||
+|| 3 ||[[Be-at Feedback]]||  || 828 ||
+|| 4 ||[[UniT]]||  || 1079 ||
+==== Flight Plan (Lv 8) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Dancing Light]]|| Flight || 720 ||
+|| 2 ||[[Phat Trash]]|| Flight || 1056 ||
+|| 3 ||[[Futurist]]|| Flight || 812 ||
+|| 4 ||[[Cosmic Bird]]|| Flight || 796 ||
+==== on the beach (Lv 8) ====
+||<#81FCDB> EC || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[Vintage Summer]]||  || 834 ||
+|| 2 ||[[In a Nutshell]]||  || 681 ||
+|| 3 ||[[Sentimental No! No!]]||  || 538 ||
+|| 4 ||[[Rendezvous Coast]]||  || 670 ||
+==== VAi2 (Lv 6) ====
+||<#C5011B> BERA || 곡명 || 패턴 || 노트수 ||
+|| 1 ||[[I've got this feeling]]|| VAi2 || 307 ||
+|| 2 ||[[Appeal]]|| VAi2 || 444 ||
+|| 3 ||[[It's My Secret]]|| VAi2 || 524 ||
+|| 4 ||[[You Are The One For Me]]|| VAi2 || 587 ||
+=== 삭제 코스 ===
+ * Violet: 전 패턴 스탠다드에 수록
+ * water-flame(EC): 전 패턴 스탠다드에 수록
+ * vilkas: northpole 스탠다드에 수록
+ * Love Affair: Stay With Me 스탠다드에 수록
+ * Cradle Edge(EC), HoR, House Nuts, Teardrop, virtuoso, Subliminal Effect(EC), SRS(●), Kentauji, Necobus, Minan, Sound Addict, Redemption, zest:rave, Lotze, Houseplan Inc., Club Modern Waves, Day After Day, Swallow Tail, Hyperactivity, Diesel Eater, HAHYEON, Badny, Art of Turntablism, Team Progressive(EC), Outerspace, KIEN(EC), Vilkas(EC)

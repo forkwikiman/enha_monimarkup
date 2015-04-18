@@ -1,0 +1,65 @@
+ * 상위 항목 : [[런던 지하철]]
+
+||||||<#00a0e2> {{{#ffffff 빅토리아 선}}}[[br]]{{{#ffffff Victoria Line}}} ||
+||운영기관 ||||[[런던교통공사]] ||
+||영업거리 ||||21㎞ ||
+||궤간 ||||1,435mm ([[표준궤]]) ||
+||역수 ||||16 ||
+||전기 ||||직류 630V 제4궤조 ||
+||신호 ||||[[ATO]] ||
+||표정속도 ||||38.2km/h ||
+||차량기지 ||||노섬블랜드 파크 차량기지 ||
+||<|5> 개통연혁||[[1968년]] [[9월 1일]] ||[[왈탐스토 센트럴 역]] ↔ [[하이버리 & 아이슬링턴 역]] ||
+||1968년 [[12월 1일]] ||[[하이버리 & 아이슬링턴 역]] ↔ [[와렌가 역]] ||
+||[[1969년]] [[3월 7일]] ||[[와렌가 역]] ↔ [wiki:"런던 빅토리아 역" 빅토리아 역] ||
+||[[1971년]] [[7월 23일]] ||[wiki:"런던 빅토리아 역" 빅토리아 역] ↔ [[브릭스턴 역]] ||
+||[[1972년]] [[9월 14일]] ||[[핌리코 역]] ||
+
+[[목차]]
+== 개요 ==
+
+http://genesis.blogs.casa.ucl.ac.uk/files/2011/09/Trackernet-Victoria_20110921_095000.jpg
+
+[[런던 지하철]]의 노선. 노선색은 {{{#00a0e2 ●}}}연한 [[하늘색]]. 배차 간격은 첨두시 2분.
+
+노선명은 [[런던 빅토리아 역]]을 지나가기 때문에 빅토리아 선이 되었다. 런던 지하철에서 최초로 CTC를 도입한 노선이기도 하다. 차량기지는 노섬블랜드 파크 차량기지를 이용하며, 인입선이 [[세븐 시스터즈 역]]에서 분기한다. 때문에 낮 시간에 차량기지로 입고하는 브릭스턴 발 세븐 시스터즈 행 열차가 종종 등장한다. 대략 열대가 오면 여섯대는 세븐 시스터즈에서 끊는다. ~~그렇다고 [wiki:"철싸대" 그거 타고 차량기지 들어가진 말고]~~
+
+== 특징 ==
+세계 최초로 전 노선에서 [[ATO]]를 실시하였다. 개통 당시부터 자동운전이 가능하도록 되어 있었으며 [wiki:"서울도시철도공사" 도시철도공사] 노선처럼 문 여닫는것 외에는 전부 자동운전을 하고 있다. 2012년 현재 새로운 버전의 ATO를 도입하고 있으며, 공사가 완료되면 ~~[[빗자루질]]~~ 배차를 더 줄여서 수송량을 늘릴 예정이다.
+
+여기에 붙였다 저기에 붙였다 해서 연혁이 복잡한 다른 노선과 달리, 이 노선은 [[제2차 세계대전]] 종전때 기획되어 한번에 공사를 진행한 노선이다. 따라서 타 노선과의 숨겨진 연결선이 없고 기존 노선과의 환승역이 엄청나게 많다. 만약 런던 지하철 자동안내방송에 환승 안내음악이 있었다면 역 출발할 때마다 음악이 나와야 할 듯. ~~런던판 [wiki:"서울 지하철 5호선" 5호선]~~
+
+특이하게도 역 장내에 험프가 있다. 험프는 주로 [[조차장]]에서 쓰는 얕은 언덕인데, 빅토리아 선을 건설할 때 역 장내의 높이를 터널보다 살짝 높여서 장내를 험프로 만들었다. 험프가 있기 때문에 열차가 진입할 때 언덕을 올라가면서 감속하여 퍼텐셜 에너지를 저장하고, 출발할 때에는 언덕을 내려가면서 가속하여 저장된 퍼텐셜 에너지를 운동 에너지로 전환해서 타 노선 대비 전기 에너지를 9% 정도 절약할 수 있다고. 전기 에너지를 절약하면 구형 저항제어 전동차는 열이 덜 나는 효과도 있어 쾌적한(?) 승강장 온도 유지에도 도움이 된다. 왜 에너지가 절약되는지 이해가 안 되면 [[물리 Ⅰ]] 교과서를 보자(...)
+
+== 차량 ==
+
+http://s0.geograph.org.uk/geophotos/02/23/39/2233981_4ae276ec.jpg
+빅토리아 라인 2009년형 내부
+2009년형은 1967년형을 대체하고 있으며, 최고시속이 50마일로 올라갔다. 
+봄바르디에 (Bombardier) 사의 Derby 공장에서 만든 제품. 
+전설비 자동화가 되었다.  
+
+개통시에는 1967년식 차량과 1972년식 차량을 운영하다가 2009년에 전량 퇴역시키고 새로운 [wiki:"런던 지하철 2009년식 전동차" 2009년식] 차량으로 교체했다. 해당 항목 참조.
+
+== 역 목록 ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/p3BdkgR2UcY" frameborder="0" allowfullscreen></iframe>
+}}}
+전구간 운행 영상(왈탐스토 센트럴-브릭스턴)
+|| 구역 || ㎞ || 역명 |||| 환승노선([[환승역]]) ||
+||<#e6e7e9><|4> 3 || ||[[왈탐스토 센트럴 역]][[br]]Walthamstow Central ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[블랙호스 로드 역]][[br]]Blackhorse Road ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[토트넘 헤일 역]][[br]]Tottenhan Hale ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[세븐 시스터즈 역]][[br]]Seven Sisters ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+||<#ffffff><|2> 2 || ||[[핀스버리 파크 역]][[br]]Finsbury Park ||attachment:/TfL-LU-roundel.png [[피카딜리 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[하이버리 & 아이슬링턴 역]][[br]]Highbury & Islington ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||
+||<#e6e7e9><|7> 1 || ||[[킹스 크로스 세인트 판크라스 역]][[br]]King's Cross St. Pancras ||attachment:/TfL-LU-roundel.png [wiki:"노던 선" 노던], [wiki:"메트로폴리탄 선" 메트로폴리탄], [wiki:"서클 선" 서클], [wiki:"피카딜리 선" 피카딜리], [[해머스미스 & 시티 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]]([wiki:"런던 킹스 크로스 역" 킹스 크로스], [wiki:"세인트 판크라스 역" 세인트 판크라스]) ||
+|| ||[wiki:"런던 유스턴 역" 유스턴 역][[br]]Euston ||attachment:/TfL-LU-roundel.png [[노던 선]][[br]]attachment:/TfL-LO-roundel.png [[런던 오버그라운드]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[와렌가 역]][[br]]Warren Street ||attachment:/TfL-LU-roundel.png [[노던 선]] ||
+|| ||[[옥스포드 서커스 역]][[br]]Oxford Circus ||attachment:/TfL-LU-roundel.png [wiki:"베이컬루 선" 베이컬루], [[센트럴 선]] ||
+|| ||[[그린 파크 역]][[br]]Green Park ||attachment:/TfL-LU-roundel.png [wiki:"주빌리 선" 주빌리], [[피카딜리 선]] ||
+|| ||[wiki:"런던 빅토리아 역" 빅토리아 역][[br]]Victoria ||attachment:/TfL-LU-roundel.png [wiki:"디스트릭트 선" 디스트릭트], [[서클 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[핌리코 역]][[br]]Pimlico || ||
+||<#ffffff> 1/2 || ||[[복스홀 역]][[br]]Vauxhall ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+||<#e6e7e9><|2> 2 || ||[[스톡웰 역]][[br]]Stockwell ||attachment:/TfL-LU-roundel.png [[노던 선]] ||
+|| ||[[브릭스턴 역]][[br]]Brixton ||attachment:/nationalrail-small.png [[내셔널 레일]] ||

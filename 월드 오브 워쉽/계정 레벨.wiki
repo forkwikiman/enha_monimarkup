@@ -1,0 +1,105 @@
+[[목차]]
+
+= 개요 =
+[[월드 오브 워쉽]]은 게임 내의 각종 시스템을 시작하자마자 쓸 수 있는 게 아니라, 플레이를 통해 계정의 레벨을 올려야 함장 스킬이나 장비품 장착등이 해금된다. 보통 5티어정도까지 올리면 대부분의 시스템이 해금되고 레벨도 그정도까진 빨리 오른다.
+= 공개된 레벨 =
+== Lv.1 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_1.png?witdh=550 || 협동 전투(PVE) 모드 잠금 해제 || - ||
+
+== Lv.2 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_2.png?witdh=550 || 무작위 전투(PVP) 모드 잠금 해제 || 25000 크레딧 ||
+
+== Lv.3 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_3.png?witdh=550 || 일일 임무 시스템 잠금 해제 || - ||
+
+== Lv.4 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_4.png?witdh=550 || 자유 경험치 시스템 잠금 해제 || 3000 자유 경험치 ||
+
+== Lv.5 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_5.png?witdh=550 || 함장 시스템 잠금 해제 || 50000 크레딧 ||
+
+== Lv.6 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_6.png?witdh=550 || 강화 시스템 잠금 해제 || 75000 크레딧 ||
+
+= 비공개 레벨 =
+== Lv.7 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_7.png?witdh=550 || - || - ||
+
+== Lv.8 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_8.png?witdh=550 || - || - ||
+
+== Lv.9 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_9.png?witdh=550 || - || - ||
+
+== Lv.10 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_10.png?witdh=550 || - || - ||
+
+== Lv.11 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_11.png?witdh=550 || - || - ||
+
+== Lv.12 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_12.png?witdh=550 || - || - ||
+
+== Lv.13 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_13.png?witdh=550 || - || - ||
+
+== Lv.14 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_14.png?witdh=550 || - || - ||
+
+== Lv.15 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_15.png?witdh=550 || - || - ||
+
+== Lv.16 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_16.png?witdh=550 || - || - ||
+
+== Lv.17 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_17.png?witdh=550 || - || - ||
+
+== Lv.18 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_18.png?witdh=550 || - || - ||
+
+== Lv.19 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_19.png?witdh=550 || - || - ||
+
+== Lv.20 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_20.png?witdh=550 || - || - ||
+
+== Lv.21 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_21.png?witdh=550 || - || - ||
+
+== Lv.22 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_22.png?witdh=550 || - || - ||
+
+== Lv.23 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_23.png?witdh=550 || - || - ||
+
+== Lv.24 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_24.png?witdh=550 || - || - ||
+
+== Lv.25 ==
+||<tablewidth=100%><width=15%><#8258FA><:>{{{#white '''계급장'''}}}||<width=50%><#8258FA><:>{{{#white '''잠금 해제'''}}}||<width=35%><:><#8258FA><:>{{{#white '''보너스'''}}}||
+|| attachment:icon_level_big_25.png?witdh=550 || - || - ||

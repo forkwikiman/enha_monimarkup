@@ -1,0 +1,74 @@
+ * [[스타크래프트 2]], [[만우절]]
+
+[[include(틀:스타크래프트 2/테란)]]
+
+attachment:Terra-tron.jpg
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/DqUnsTBnkWU?fs=1&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DqUnsTBnkWU?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>}}}
+
+[wiki:"All your base are belong to us" 모든 너 기지 다 내거다요]나, terratron!, terrorize! 같은 위험한 대사를 해댄다([[비스트 워즈]]의 [wiki:"메가트론(BW)" 메가트론]의 대사를 패러디한 것). 참고로 [wiki:"All your base are belong to us" 모든 너 기지 다 내거다요]는 [[밤까마귀]]도 한다. We are more than meets the eye라는 대사도 있는데 이건 트랜스포머 주제가 패러디. 대사 중 It's Morphin Time은 미국판 [[파워레인저]] 시리즈의 변신 구호인 It's Morphin Time을 그대로 따온것.
+
+{{{#!html 
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/9JGsMZPWYfs&color1=0xb1b1b1&color2=0xd0d0d0&hl=ko_KR&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/9JGsMZPWYfs&color1=0xb1b1b1&color2=0xd0d0d0&hl=ko_KR&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="560" height="340"></embed></object>}}} 
+[[목차]]
+== 소개 ==
+Terra-Tron. [[스타크래프트2]]의 [[테란]]의 궁극의 결전병기. 레드스톤같이 자원이 풍부하다거나 하는 여러가지 이유로 최우선적으로 중요한 행성들을 방어하기 위해 제작되었다. [[고라이온]] 시스템즈의 개발본부장 론 볼트 박사의 지휘 아래, 테란 군사 공학자들이 완성한 테란 기지 설계. 테란의 건물들이 합체하여 완성하는 로봇인 거대 테라트론이다.그 어디에서도 볼 수 없었던 독창적인 합체 방식으로 합체하는 테라트론은 기지 전체가 무기라 할 수 있으며 초특급한 철벽 방어력을 자랑한다. 
+
+그러나 현재로선 에너지 배전선이나 전송관을 뜯어내거나 절단해야 하고 이 과정에서 전기배선, 강철골조, 하수도 설비가 위험하게 노출될 가능성이 있기 때문에 비용 문제가 남아 있다. 계속 진행중인 개발로 이런 문제들은 해소될 것으로 보인다.
+[* 이거 하려면 벙커도 띄워야되는데 아마 벙커를 캠핑카로 만들어야 될거다.]
+테라트론은 톱날검, 에너지 캐논과 총 그리고 가슴에서 [wiki:"사신(스타크래프트2)" 사신]을 사출해 테란의 적을 물리친다.
+
+=== 구성요소 및 성능 ===
+{{{#!html 
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/WwEfiU4wd68&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/WwEfiU4wd68&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}} 
+
+테라트론을 구성하는 건물들은 다음과 같다.
+
+||  ||<-2> [[행성 요새]] ||  || 
+|| [[벙커]] ||<-2> [[군수공장]] || [[벙커]] ||
+|| [[병영]] || [[보급고]] || [[보급고]] || [[병영]] ||
+|| [[유령 사관학교]] || [[보급고]] || [[보급고]] || [[우주공항]] ||
+||  || [[융합로]] || [[융합로]] ||  ||
+||  || [[벙커]] || [[벙커]] ||  ||
+
+=== 성능 ===
+|| 비용 || [[광물]] 2400 / [[베스핀 가스]] 550 || 보급품 || 35 ||
+|| 생명력 || 1000 || 방어력 || 0 ||
+|| 특성 || 중장갑/기계/거대 || 시야 ||  ||
+|| 공격력 || - || 공격 가능 || 지상/공중 ||
+|| 사정거리 || - || 공격 속도 || - ||
+|| 이동 속도 || - || 생산 건물 || - ||
+|| 요구사항 || 모든 건물 건설 || 생산 시간 ||  ||
+|| 생산 단축키 || - || 에너지 || - ||
+|| 능력 || 톱날검, 에너지 캐논, 사신 배출 ||
+
+== [[정체]]는... ==
+~~[[include(틀:스포일러)]]~~
+~~타종족 입장에서 테라트론 소개 동영상을 보면 벙커가 공중으로 뜨는 순간 움찔하게 된다고 한다.~~
+
+이 건물(유닛?)의 진짜 정체는 [[블리자드]] 엔터테이먼트의 [[만우절]] 서프라이즈 개그. 블리자드 제작진의 정신 상태를 보여주는 물건이다(…). 링크는 아쉽게도 현재 모두 짤려 있다. 
+
+이미 이름부터 제작 회사는 [[백수왕 고라이온]](북미이름:볼트론)의 이름을 따왔고, 개발본부장의 이름은 '론 볼트'. 합체하는데 [[사자]]는 필요없다고 한다. 이름의 유래는 알사람은 다 아는 [[wiki:"메가트론" 메가카]]이고 전체적인 설정 즉 기지(도시)가 변신 합체하는 모습은 [[트랜스포머]]의 [[wiki:"메트로플렉스(FOC)" 메트로플렉스]]와 비슷하다는 의견도 있다.
+
+그런데 자원문제만 어떻게 한다면 진짜 나와도 쓸만할 듯. 유난히 기동성이 딸리는 테란유닛들인지라 폭탄드랍 맞으면 구원이 늦는데, 어차피 다 박살날거 합체시키면... ~~테란크래프트2~~
+
+참고로 말하자면 [[엑조디아|모든 건물을 긁어모아 테라트론을 만들어낸다면 엘리가 된다는 흉흉한 소문이 있다.]]
+
+=== 자유의 날개에서 ===
+개그용이긴 하지만 유즈맵을 이용하면 실제로 사용도 해볼 수 있고, 슈팅게임 [[길 잃은 바이킹]] 3스테이지의 최종보스로도 등장한다.  싱글플레이 진행 도중에 '''진짜 고라이온 시스템즈의 회사 간판'''을 볼 수 있다.
+
+attachment:/Screenshot2012-01-26_12_26_11.jpg?width=640
+고라이온 시스템즈 본사 건물.
+
+{{{#!html
+ <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/30DwodJTnR8" frameborder="0" allowfullscreen></iframe>
+}}} 
+저그,프로토스 다죽겠다 이놈들아 !![* 하지만 이 모델은 [[길잃은 바이킹]]의 보스 모델로 진짜 모델은 발견되지 않았다.][* 위의 만우절 영상에서는 걸어다니는 모습도 있지만 이 영상에서는 길잃은 바이킹 보스 모델이라 공중에 떠있기만 한다.]
+
+[wiki:"길 잃은 바이킹" 테라트론은 바이킹을 싫어한다.]
+--하지만 아케이드 교전맵에선 하루하루 톱날검만 만들어내는 쓰레기일 뿐이지!-- 
+
+=== 군단의 심장 ===
+[군단의 심장]에서는 테라트론 자체는 등장하지 않으나, 첫번째 스카이거 기지 임무 북쪽에서 볼트론 색을 칠한 [약탈자] 다섯 대를 볼 수 있다.

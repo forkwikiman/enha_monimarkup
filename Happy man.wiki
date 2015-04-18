@@ -1,0 +1,31 @@
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer11729' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6E027AF388298170088457AA820458275CD7&outKey=V125efa80755bb9193757f50a90352df3e3d1883198098d9758f3f50a90352df3e3d1' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6E027AF388298170088457AA820458275CD7&outKey=V125efa80755bb9193757f50a90352df3e3d1883198098d9758f3f50a90352df3e3d1' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer11729' id='NFPlayer11729' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+▲ 기타 익스퍼트 영상.
+
+{{{#!html
+<object width="600" height="437"><param name="movie" value="http://www.youtube.com/v/nNMd_Bimwjk?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nNMd_Bimwjk?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="437" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 드럼 익스퍼트 영상.
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||| [GITADORA] 난이도 체계 ||
+||<|5><:> 180 ||<|2><:> 기타 표준 || {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} ||
+|| {{{#green 19}}} || {{{#orange 28}}} || {{{#red 43}}} || {{{#blue 3.25}}} || {{{#orange 4.20}}} || {{{#red 5.00}}} ||
+|| 드럼매니아 || {{{#green 28}}} || {{{#orange 51}}} || {{{#red 68}}} || {{{#blue 4.55}}} || {{{#orange 5.70}}} || {{{#red 6.85}}} ||
+
+[[기타프릭스]] 1st부터 등장, [[드럼매니아]]에도 1st부터 등장했던 펑크락풍의 곡으로 작곡은 [[이즈미 무츠히코]].
+
+첫 등장 당시에는 익스퍼트 리얼에서 [Waza]와 더불어 별 10개 난이도였으며 Waza가 테크닉 중시였다면 이 쪽은 180의 빠른 BPM을 지닌 체력 위주의 곡이다. 대다수는 Waza보다 이 쪽이 더 어렵다고 평가하는 편. 그리고 실제로도 이후 시리즈에서는 Waza보다 난이도가 더 높게 매겨졌다.
+
+BGA에 등장하는 삐죽머리의 이름은 유키오[* [게이머즈]의 공략에서는 [wiki:"홍록기" 홍X기](...)라고 표현했다.]로, 드럼매니아와 기타프릭스 모두를 통틀어 이름 등의 설정이 밝혀진 최초의 캐릭터. 이후 E-Mail Me 등의 곡에서도 모습을 비춘다.
+
+참고로 기타드럼 초기 버전에서는 이 곡 BGA에 기타프릭스 쪽에서는 기타 연주자가 등장, 드럼매니아 쪽에서는 드럼 연주자가 등장했지만 이후에는 전부 삭제되고 그냥 유키오 얼굴로만 대체되었다.
+
+또 참고로, 드럼매니아 1st 수록곡 중에서 '''유일한''' 이즈미 무츠히코 작곡.[* 당시에만 해도 기타프릭스와 드럼매니아는 완전히 별개의 게임이었기 때문에 기타프릭스 스탭이었던 이즈미 무츠히코가 드럼매니아에 곡을 많이 쓰지 않는 것은 이상한 일이 아니었다.]
+
+기타7 드럼6에서 잠깐 삭제되었다가 기타9 드럼8에서 기계해금으로 부활, 이후 꾸준히 생존중.
+
+[[비트매니아]] THE FINAL로도 이식.
+
+[[팝픈뮤직]] 13 PS2판에서는 이 곡이 '''보컬버전'''으로 실리기도 했다. 보컬버전의 제목은 ヒツゼンでしょ!으로, 아케이드판에는 미수록.

@@ -1,0 +1,19 @@
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer48319' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=EB0D8EC73D5F8A56A9E90E670D2C9479119B&outKey=V126402990b93746cffc3586dbe7ddac6a5a0226fe16c7ea4ee22586dbe7ddac6a5a0' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=EB0D8EC73D5F8A56A9E90E670D2C9479119B&outKey=V126402990b93746cffc3586dbe7ddac6a5a0226fe16c7ea4ee22586dbe7ddac6a5a0' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer48319' id='NFPlayer48319' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+일본판
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer17074' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=23AB6AE82E6D65695C72A7313C34C2797845&outKey=V125b7a60f4c1328c9f267291da68def60779f10530953775b69a7291da68def60779' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=23AB6AE82E6D65695C72A7313C34C2797845&outKey=V125b7a60f4c1328c9f267291da68def60779f10530953775b69a7291da68def60779' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer17074' id='NFPlayer17074' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+한국판
+[[키라링☆레볼루션]]에 나오는 삽입곡으로 [[SHIPS]](맥스)의 노래다.
+
+39화(한국판은 40화)에서 나오는 슈퍼 아이돌 페스티벌(슈퍼 스타 페스티벌)에서 SHIPS의 대표곡으로 부르는 노래이며 [wiki:"키라링☆레볼루션/기타 등장인물" 미네타(도만)]의 특징이 들어간 곡이다.(일렉 기타에 흥겨운 음악)
+
+코믹스에서는 정말 아이돌로서의 요소가 없었던[* 초~중반엔 히로토(신성)가 인기 연예인이 맞냐고 수시로 따졌다.] SHIPS에게 생긴 아이돌로서의 요소 중 하나다. 특이한 점은 노래 자체는 애니메이션에서 먼저 나왔지만 제목은 코믹스 10권에서 생겼다. --그래봐야 코믹스에서 추가된 제목도 마지막 가사에서 따왔지만….--
+
+일본판과 한국판은 주제가 비슷하지만 한국판은 좀 더 아이들이 알아듣기 쉽게 바뀌어있다. --다만 그 성향으로 인해 가사가 유치해졌….-- 다만 한국판은 중간에 끊어지는 듯한 어색한 부분이 있다. 
+
+참고로 제목의 MHz는 메가 헤르츠를 뜻하며 한국내에서 주로 지칭되는 이름은 메가 헤르츠의 앞부분을 딴 '러브 X 메가'다.
+
+[[각주]]

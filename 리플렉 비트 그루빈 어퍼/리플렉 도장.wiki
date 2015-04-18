@@ -1,0 +1,586 @@
+ * 상위 항목 : [[리플렉 비트 그루빈]], [[리플렉 비트 그루빈 어퍼]]
+
+[[목차]]
+== 개요 ==
+~~[[도장 깨기]]~~ 지정된 곡들 중 하나를 골라 리플렉 명인 CPU와 3라운드 연속으로 대결하는 모드. [[IIDX]]의 [[단위인정]]과 비슷한 '''인정시험''' 및 테마가 정해져 있는 '''검정시험'''으로 나뉜다.
+
+ * 리플렉 도장의 판정에 따른 데미지/회복량은 다음과 같다.
+||<:>'''판정'''||<:>'''플레이어'''||<:>'''리플렉 명인'''||
+||<:>JUST||<:>0||<:><|2>{{{#RED -3}}}||
+||<:>JUST REFLEC||<:>{{{#BLUE +10}}}||
+||<:>GREAT||<:>0||<:>0||
+||<:>GOOD||<:>{{{#RED -2}}}||<:>0||
+||<:>MISS||<:>{{{#RED -5}}}||<:>0||
+||<:>MISS[[BR]](JUST REFLEC)||<:>{{{#RED -10}}}||<:>0||
+||<:>어퍼 개이지 lv.max||<:>0||<:>{{{#RED -50}}}||
+||<:>어퍼 게이지 lv.2||<:>0||<:>{{{#RED -25}}}||
+||<:>어퍼 게이지 lv.1||<:>0||<:>{{{#RED -10}}}||
+초기 HP는 200으로 늘어났지만 그와 함께 미스시의 데미지도 올라가있다. 거기다 MISS시의 데미지도 초기 HP 100기준으론 2.5로 늘어나있지만 그럼에도 회복량은 그대로 10이라 결론적으론 2배 이상으로 빡빡해진 셈.
+
+ * 도중에 체력이 0이 되거나 CPU의 체력을 다 깎지 못해[* 하위 단수에서는 큰 문제가 되지 않지만, 사범 이상의 높은 단수의 경우 살아남았더라도 CPU의 체력이 남아 있어 무승부 처리되는 불상사가 있다.] 시험에서 떨어질 경우, 해당 보면에 클리어 마크가 아닌 PLAYED[* FAILED와 같은 취급이다.] 마크가 붙는다.
+ * 스테이지 클리어시 체력이 일정량 회복하는데, 체력이 낮을경우 상당량 회복하지만, 풀피에 가까울 경우 회복량이 미미하거나 회복없이 그대로 간다. 저스트 리플렉 게이지는 초기화된다.
+ * 해당 모드의 선곡 BGM은 [[狂喜宴舞]]를 어레인지한 것이다.
+ * 프리미엄 스타트로 플레이시 돈낭비가 되어버리니 주의.[* 상급 검정시험은 컨티뉴시 얻는 티켓으로도 가능하다. 프리미엄을 할시 티켓이 전부 경험치로 환산된다.]
+ * JR이 체력회복과 동시에 추가데미지까지 주던 전작의 JOKER 게이지와는 달리, 본작에서는 체력회복의 기능만 있으며 추가데미지는 없다.
+ * 고레벨 채보의 경우 폭타에서의 GOOD판정을 주의해야 한다. 특히 트릴 검정의 대부분의 곡들이 그런데 특히 [Liberation]같은 경우는 잘못하면 그대로 사망할 수 있으니 주의가 필요하다.
+
+== 인증시험[* 정발명 우선 원칙에 따라 이렇게 적지만, 명백한 오역이다. 자세한 사항은 후술.] ==
+ * 1라운드는 3곡, 2라운드는 2곡 중에서 하나를 선택할 수 있으며, 3라운드는 1곡으로 고정된다.
+ * 그루빈이 가동되기 시작한 시점의 최고 단수는 대리사범이지만 그 난이도가 최고 단수에 맞지 않게 낮은 편이라는 의견이 많으며, 합격시 받는 트로피가 플래티넘이 아닌 골드라는 것과 더불어,[https://twitter.com/ruguremu/status/476012514786807808/photo/1 얼마 후에는 공식 홈페이지 내 소스에서 또다른 단수의 이미지가 발견되는 등] 대리사범보다 높은 단수가 추가될 것이 유력했다가 실제로 2014년 7월 4일 업데이트로 '''사범, 명예사범''' 단수가 추가되었다. 발견된 이미지 중 최고사범 단수만이 빠져 있어[* 참고로 최고사범 이미지는 어느샌가 해당 주소에서 삭제되었다가, 최고사범 단수가 추가되면서 돌아왔다.] IIDX의 9단, 10단처럼 상위 단위 2개 업데이트 후 개전급 단위가 추후 업데이트 될 것이라고 예상되었고, 예상대로 11월 20일 업데이트에서 '''최고사범''' 단수가 추가되었다.
+ * 원문은 認定試験(にんていしけん, 인'''정'''시험)인데 국내판에서는 '인'''증'''시험'으로 [[오역]]되었다. [[KONMAI]] 항목에 나온 각종 선례를 보면 오타일 가능성도 있다.
+ * 사범, 명예사범 추가 이후로 단위인정 로딩 시간이 30초~1분 가까이 길어진 편. 문이 열리자마자, 또는 '''닫힌 채로''' 10초 카운트가 울리는 경우가 흔하다. 거기에 시험이 추가될 때마다 더 길어지고 있다.
+ * 선택화면에서 시간초과가 된 경우 5급이 선택된다. [https://twitter.com/LaywolfKR/status/501980966361907200/photo/1 덧글도 같이 읽어볼 것] 문제는 바로 위의 버그급 로딩 시간과 시너지를 일으켜 로딩이 끝나자마자 강제로 5급이 선택된 경우도 있다.
+ * 급수 선택화면 에서 명인의 얼굴을 2초동안 누르면 하드베틀 모드가 발동되 최고사범은 4.5배의 데미지 나머지는 3배의 데미지를 받는다.
+
+## 대상곡 표 템플릿입니다. MEDIUM 난이도는 색깔 이름으로 orange를, BASIC은 green을 사용하면 됩니다.
+## SPECIAL은 난이도명은 아래 행을 복사해서 사용하고, 레벨이나 오브젝트 수는 08AFDB를 사용하세요
+## {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}
+{{{#!html
+<!----
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[추가바람]]|| [[추가바람]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red -}}}||
+||[[추가바람]]|| [[추가바람]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red -}}}||
+||[[추가바람]]|| [[추가바람]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red -}}}||
+||<|2>'''2nd'''||[[추가바람]]|| [[추가바람]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red -}}}||
+||[[추가바람]]|| [[추가바람]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red -}}}||
+||'''Final'''||[[추가바람]]|| [[추가바람]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red -}}}||
+---->
+}}}
+=== 급 ===
+==== 5급 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_0.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[サヨナラじゃない]]|| [[FUNKY MONKEY BABYS]] ||{{{#green BASIC}}}||{{{#green 1}}}||{{{#green 40}}}||
+||[[SHINE×SHINE×SHINE×SHINE]]|| [[エイプリルズ]] ||{{{#green BASIC}}}||{{{#green 1}}}||{{{#green 66}}}||
+||[[じょいふる]]|| [[이키모노가카리|いきものがかり]] ||{{{#green BASIC}}}||{{{#green 1}}}||{{{#green 59}}}||
+||<|2>'''2nd'''||[[サヨナラ・ヘヴン]]|| [[猫叉Master]] ||{{{#green BASIC}}}||{{{#green 1}}}||{{{#green 77}}}||
+||[[ファッションモンスター]]|| [[きゃりーぱみゅぱみゅ]] ||{{{#green BASIC}}}||{{{#green 1}}}||{{{#green 72}}}||
+||'''Final'''||[[Starry☆night]]|| [[Qrispy Joybox]] feat.[[mao]] ||{{{#green BASIC}}}||{{{#green 2}}}||{{{#green 98}}}||
+
+==== 4급 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_1.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[虹色の戦争]]|| [[SEKAI NO OWARI]] ||{{{#green BASIC}}}||{{{#green 2}}}||{{{#green 95}}}||
+||[[華爛漫 -Flowers-|華爛漫 -Flowers- (2nd EDITION)]]|| [[TЁЯRA]] ||{{{#green BASIC}}}||{{{#green 2}}}||{{{#green 60}}}||
+||[[yoakemae]]|| [[Base Ball Bear]] ||{{{#green BASIC}}}||{{{#green 2}}}||{{{#green 113}}}||
+||<|2>'''2nd'''||[[隅田川夏恋歌]]|| [[seiya-murai]] feat.[[ALT]] ||{{{#green BASIC}}}||{{{#green 2}}}||{{{#green 66}}}||
+||[[にんじゃりばんばん]]|| [[きゃりーぱみゅぱみゅ]] ||{{{#green BASIC}}}||{{{#green 2}}}||{{{#green 69}}}||
+||'''Final'''||[[7 Colors]]|| [[kors k]] feat.[[吉河順央]] ||{{{#green BASIC}}}||{{{#green 3}}}||{{{#green 139}}}||
+
+==== 3급 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_2.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[KOROBUSHKA (Ryu☆Remix)]]|| [[Ryu☆]] ||{{{#green BASIC}}}||{{{#green 3}}}||{{{#green 205}}}||
+||[[凛として咲く花の如く]]|| [[TOMOSUKE|紅色リトマス]] ||{{{#green BASIC}}}||{{{#green 3}}}||{{{#green 137}}}||
+||[[ルカルカ★ナイトフィーバー]]|| [[미타니 나나|実谷なな]] ||{{{#green BASIC}}}||{{{#green 3}}}||{{{#green 87}}}||
+||<|2>'''2nd'''||[[Dance My Generation]]|| [[ゴールデンボンバー]] ||{{{#green BASIC}}}||{{{#green 3}}}||{{{#green 128}}}||
+||[[WHITE BREATH]]|| [[BONUS]] ||{{{#green BASIC}}}||{{{#green 3}}}||{{{#green 125}}}||
+||'''Final'''||[[Honey Party]]|| [[Ryu☆]] ||{{{#green BASIC}}}||{{{#green 4}}}||{{{#green 152}}}||
+
+==== 2급 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_3.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[行くぜっ！怪盗少女|行くぜっ！怪盗少女 -Zver.-]]|| [[모모이로클로버Z|ももいろクローバーZ]] ||{{{#green BASIC}}}||{{{#green 4}}}||{{{#green 145}}}||
+||[[梅雪夜]]|| [[Qrispy Joybox]] feat.[[mao]] ||{{{#green BASIC}}}||{{{#green 4}}}||{{{#green 147}}}||
+||[[Sakura Reflection]]|| [[Ryu☆]] ||{{{#green BASIC}}}||{{{#green 4}}}||{{{#green 200}}}||
+||<|2>'''2nd'''||[[恋する☆宇宙戦争っ!!]]|| [[Prim]] ||{{{#green BASIC}}}||{{{#green 4}}}||{{{#green 223}}}||
+||[[夏祭り]]|| [[JITTERIN'JINN]] ||{{{#orange MEDIUM}}}||{{{#orange 4}}}||{{{#orange 131}}}||
+||'''Final'''||[[ÆTHER]]|| [[TAG|TAG underground]] ||{{{#green BASIC}}}||{{{#green 5}}}||{{{#green 248}}}||
+
+==== 1급 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_4.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[Clumsy thoughts]]|| [[猫叉Master]] feat. *spiLa* ||{{{#orange MEDIUM}}}||{{{#orange 5}}}||{{{#orange 204}}}||
+||[[Voice]]|| [[androp]] ||{{{#orange MEDIUM}}}||{{{#orange 5}}}||{{{#orange 216}}}||
+||[[リリーゼと炎龍レーヴァテイン]]|| [[TOMOSUKE|黒猫ダンジョン]] ||{{{#green BASIC}}}||{{{#green 5}}}||{{{#green 232}}}||
+||<|2>'''2nd'''||[[嘘]]|| [[シド]] ||{{{#orange MEDIUM}}}||{{{#orange 5}}}||{{{#orange 169}}}||
+||[[Diamond Dust]]|| [[TAG]] ||{{{#orange MEDIUM}}}||{{{#orange 5}}}||{{{#orange 188}}}||
+||'''Final'''||[[LEVEL5-judgelight-]]|| [[fripSide]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 285}}}||
+
+=== 단 ===
+==== 초단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_5.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[凛として咲く花の如く ~ひなビタ♪edition~]]|| [[히나비타♪|日向美ビタースイーツ♪]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 383}}}||
+||[[Chu☆Chu☆Tonight]]|| [[VENUS(아티스트)|VENUS]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 266}}}||
+||[[READY STEADY GO]]|| [[라르크 앙 시엘|L'Arc~en~Ciel]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 216}}}||
+||<|2>'''2nd'''||[[オリオンをなぞる]]|| [[UNISON SQUARE GARDEN]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 203}}}||
+||[[Little Flipper]]|| [[S-C-U]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 247}}}||
+||'''Final'''||[[Wuv U]]|| [[kors k]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 351}}}||
+
+==== 2단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_6.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[お米の美味しい炊き方]]|| 大日本鉄倶楽部 【[[아사키|あさき]]＆[[96]]】 ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 364}}}||
+||[[ちくわパフェだよ☆CKP]]|| [[히나비타♪|日向美ビタースイーツ♪]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 386}}}||
+||[[ビューティフル レシート]]|| [[DJ YOSHITAKA|Lucky Vacuum]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 301}}}||
+||<|2>'''2nd'''||[[Last Hometown]]|| [[猫叉Master]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 243}}}||
+||[[黒髪乱れし修羅となりて]]|| [[TOMOSUKE|村正クオリア]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 326}}}||
+||'''Final'''||[[I'm so Happy]]|| [[Ryu☆]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 360}}}||
+
+==== 3단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_7.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[THE FALLEN]]|| [[L.E.D.]]-G ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 347}}}||
+||[[セツナトリップ]]|| [[Last Note.]] feat. [[GUMI]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 357}}}||
+||[[虹の先に何があるか]]|| [[あさき]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 319}}}||
+||<|2>'''2nd'''||[[Express Emotion]]|| [[REDALiCE]] feat. [[Shihori]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 467}}}||
+||[[sister’s noise]]|| [[fripSide]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 336}}}||
+||'''Final'''||[[SEED(비마니 시리즈)|SEED]]|| [[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 386}}}||
+
+==== 4단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_8.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[→unfinished→]]|| [[KOTOKO]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 362}}}||
+||[[キラキラ☆ステーション]]|| [[Tatsh]] feat. Prico ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 382}}}||
+||[[雫]]|| [[あさき]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 352}}}||
+||<|2>'''2nd'''||[[wiki:"Thunderbolt(비마니 시리즈)"  Thunderbolt]]|| [[wiki:"Ryu☆"  雷龍]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 519}}}||
+||[[message]]|| [[dj TAKA]] feat.flare ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 305}}}||
+||'''Final'''||[[Far Away]]|| [[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 373}}}||
+
+==== 5단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_9.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[이얼 팬클럽|いーあるふぁんくらぶ]]|| みきとP ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 433}}}||
+||[[Elisha]]|| [[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 467}}}||
+||[[Re:GENERATION]]|| [[TAG]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 578}}}||
+||<|2>'''2nd'''||[[セツナトリップ]]|| [[Last Note.]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 478}}}||
+||[[紅焔]]|| [[PON]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 566}}}||
+||'''Final'''||[[量子の海のリントヴルム]]|| [[TOMOSUKE|黒猫ダンジョン]] ||{{{#orange MEDIUM}}}||{{{#orange 9}}}||{{{#orange 493}}}||
+
+2014년 10월 29일 기존에 있던 [[One more time]]이 라이센스 만료로 삭제되고, 대신 [[이얼 팬클럽|いーあるふぁんくらぶ]]이 1라운드 악곡으로 들어왔다.
+
+마지막 곡인 [[量子の海のリントヴルム]]은 난이도가 미디엄이다 보니 앞의 [[セツナトリップ|두]] [[紅焔|곡]]보다는 상대적으로 쉽다. 그러므로 2라운드에서 체력을 많이 보존해 두면 5단 합격이 수월해진다.
+
+==== 6단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_10.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[READY STEADY GO]]|| [[라르크 앙 시엘|L'Arc~en~Ciel]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 475}}}||
+||[ [wiki:"%5BE%5D" E] ] || [[후지모리 소타|dj MAX STEROID]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 552}}}||
+||[[ロボット☆ライフ]]|| [[Qrispy Joybox]] feat.林ももこ ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 421}}}||
+||<|2>'''2nd'''||[[Knell]]|| [[Project B-]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 546}}}||
+||[[ラキラキ]]|| [[Mutsuhiko Izumi]] & [[S-C-U]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 604}}}||
+||'''Final'''||[[ビューティフル レシート]]|| [[DJ YOSHITAKA|Lucky Vacuum]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 512}}}||
+
+1라운드의 [ [wiki:"%5BE%5D" E] ]는 박자가 이상하고 [[READY STEADY GO]]는 패턴이 복잡하므로 [[ロボット☆ライフ]]로 통과하는 것이 무난하다.
+2라운드는 트릴 처리력이 좋으면 [[ラキラキ]]를 그렇지 않다면 [[Knell]]을 권하지만 두 쪽다 쉽지는 않으므로 두 곡 다 해보고 선택하는 것이 좋다. ~~어차피 승부처는 [[ビューティフル レシート|영수증]]~~
+
+==== 7단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_11.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[Castle on the Moon]]|| [[Ryu☆|青龍]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 519}}}||
+||[[IMAGE-MATERIAL-]]|| [[Tatsh]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 415}}}||
+||[[梅雪夜]]|| [[Qrispy Joybox|Qrispy Joybox feat.mao]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 640}}}||
+||<|2>'''2nd'''||[[polygon]]|| [[Sota Fujimori]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 662}}}||
+||[[Honey Party]]|| [[Ryu☆]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 734}}}||
+||'''Final'''||[[THE SAFARI#s-2.2|THE SAFARI -DJ TOTTO mix-]]|| [[DJ TOTTO]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 466}}}||
+
+[[beatmania IIDX|옆동네]]의 [[wiki:"단위인정" 그것]]과 같이 [[wiki:"THE SAFARI" 사파리]]가 마지막 곡에 배치되어 있다. 사파리의 노트수가 적어 합격하기가 매우 까다로워 미리 연습을 충분히 해보고 도전하는것이 좋다.
+
+==== 8단 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_12.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[Ignited Night]]|| [[HHH]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 561}}}||
+||[[Russian Snowy Dance]]|| [[이즈미 무츠히코|Mutsuhiko Izumi]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 630}}}||
+||[[meme]]|| [[Zektbach]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 565}}}||
+||<|2>'''2nd'''||[[Daily Lunch Special]]|| [[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 741}}}||
+||[[Broken]]|| [[dj TAKA]] feat.AiMEE ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 603}}}||
+||'''Final'''||[[quaver♪]]|| [[Risk Junk]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 733}}}||
+
+1스테이지에서는 meme이 제일 무난하다. 소련눈춤은 후반부 가속에서 체력을 날려먹기 쉬우므로 자신이 없다면 선택보류를 추천한다. 2스테이지는 마지막까지 체력회복이나 유지가 쉬운 점심특선이 그나마 쉽다. 브로큰의 경우 후반의 배치운에 따라서 모아놓은 체력이 날아가는 경우가 있으므로 고르게 된다면 황배를 기대해서 선택하자. [* 전에는 브로큰이 6마디동안의 롱잡패턴만 버티면 된다고 되어있었는데, 제발 그런 말도안되는 평가는 적지 말자. 보고 참고하려는 사람들이 낚일수도 있다. 서열표 상으로나 노트수면이나 탑에 약하다거나 하면 점심특선이 더 위다. 그냥 자기가 자신있는걸 치자.] 3스테이지의 퀘이버는 편법을 알면 체력을 조금 잃더라도 클리어를 쉽게 노려볼수 있으므로 편법을 익혀서 들어가자.
+
+=== 사범 ===
+
+==== 대리사범[* 원문은 師範代([http://jpdic.naver.com/entry/jk/JK100038367002.nhn しはんだい], 사범대)인데 국내에서는 의역해서 이렇게 부른다. [[사범대학|이쪽]]과 헷갈릴 수 있기도 하고. 원문을 어느정도 살려서 '사범대리'라고 하기도 한다.] ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_13.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[ÆTHER]]|| [[TAG|TAG underground]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 780}}}||
+||[[ALBIDA]]|| [[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 700}}}||
+||[[Hollywood Galaxy]]|| [[dj TAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 630}}}||
+||<|2>'''2nd'''||[[GLITTER(비마니 시리즈)|GLITTER]]|| [[Sota Fujimori|Sota Fujimori 2nd season]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 722}}}||
+||[[Like+it!]]|| [[Ryu☆]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 702}}}||
+||'''Final'''||[[DEADLOCK]]|| [[MAX MAXIMIZER]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 676}}}||
+
+1스테이지의 할갤은 롱잡에 매우 취약하다면 건드리지 않는 것이 좋다. 알비다는 후살을 제외하면 무난한 편. 일반적으로 에테르를 골라서 무난하게 넘기는 편을 선호한다만 어떤 곡이 절대적으로 쉽다고 하기는 애매하다. 다만 2스테이지의 경우에는 트릴이 약하다면 글리터를 선택하는 것이 무난하지만, 후지모리 장단에 약한 경우 박자가 정직한 라이킷을 고르는 것을 추천. 
+
+오히려 대부분의 경우 2스테이지까지 무난하게 넘긴다면 3스테이지의 데드락은 생각보다 할만한 편이라서 위닝런이 가능할 수도 있다. 다만 최후반이라던가 조심할 구간이 많은 것은 사실이기때문에 주의할 필요는 있다.
+
+==== 사범 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_14.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[EMPEROR OF THE AVALON]]|| [[L.E.D.]]-G ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 602}}}||
+||[[終焔のClaudia]]|| [[DJ TOTTO|二代目朱雀]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 676}}}||
+||[[Vermilion]]|| [[Remo-con]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 632}}}||
+||<|2>'''2nd'''||[[ZZ(비마니 시리즈)|ZZ]]|| [[dj TAKA|D.J.Amuro]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 813}}}||
+||[[量子の海のリントヴルム]]|| [[TOMOSUKE|黒猫ダンジョン]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 757}}}||
+||'''Final'''||[[fallen leaves]]|| [[猫叉Master]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 653}}}||
+
+2014년 7월 4일 업데이트로 추가되었다.
+
+1스테이지는 그야말로 삼지선다. 동시치기에 강하다면 [[EMPEROR OF THE AVALON]]을, 엇박과 저속에 강하다면 [[Vermilion]]을, 복합채보에 강하다면 [終焔のClaudia]를 추천한다. 명예사범의 악곡들보다 난이도가 더 심각해질 수 있는 개인차 보면 3개만 모여있기 때문에 셋 중 하나를 중점적으로 파서 돌파하는 것이 가장 좋다. 그나마 종염이 가장 개인차를 뛰어넘어 체력유지가 쉬우므로 가능하면 종염을 선택하도록 하자.
+
+2스테이지에서는 많은 노트의 처리력이 요구된다. 그나마 [ZZ]]보다는 [[量子の海のリントヴルム]]가 최후반에서 체력을 덜 잃을 수가 있으므로 자신이 있는것이 아니라면 양자를 추천한다. 대신 양자는 고속이라 판정이 짜게 느껴질 수 있다. 딱히 어느게 쉽다고 하긴 힘든 편인 라인업.
+
+3스테이지의 [[fallen leaves]]은 [[Proof of the existence]]나 [[鬼天]]이나 [[Broken]]을 연습해두면 좋다. 롱잡구간에서 당황하다가는 체력을 어이없이 잃을수도 있으니, 정 자신이 없다면 롱노트를 한두개씩 고의로 버리면서 박자를 잡아가며 하는것도 좋다. 패턴과 박자를 어느정도 숙지해서 먹자구간에서 최대한 체력을 아껴서 후반부에 들어가는 것이 가장 좋다.
+
+==== 명예사범 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_15.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|3>'''1st'''||[[STULTI]]|| [[MAX MAXIMIZER]] VS [[DJ TOTTO]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 728}}}||
+||[[chaplet]]|| [[DJ TOTTO]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 706}}}||
+||[[Lisa-RICCIA]]|| [[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 893}}}||
+||<|2>'''2nd'''||[[Elemental Creation]]|| [[dj TAKA]] meets [[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 942}}}||
+||[[海神]]|| [[DJ TOTTO|兎々]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 900}}}||
+||'''Final'''||'''[[HAERETICUS]]'''|| [[dj TAKA|D.J.Amuro]] Vs [[MAX MAXIMIZER]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 809}}}||
+
+2014년 7월 4일 업데이트로 추가되었다.~~벌써 헤레기가 등장이면 다음에 추가될것은 [CLAMARE|설마...]~~ ~~[[그런데 그것이 실제로 일어났습니다]]~~
+
+주의할 점은 특히 파이널 라운드의 HAERETICUS의 경우 [난민|살아남았더라도 CPU의 체력을 다 깎지 못해 불합격되는 일이 종종 있다는 것이다.] 그저 살아남기만 하는 것 자체는 80% 근처에서도 가능하지만, CPU의 체력을 모두 깎기 위해서는 적어도 정확도 84% + 회수 가능한 만큼 전부 회수 정도는 되어야 한다. 대략 84.5~85%쯤이 안정적.
+
+1스테이지는 리사리시아 외에 다른 선택지가 거의 없고,[* 물론 리사리시아보다 스털티나 채플릿을 잘 하면 고르면 되긴 하는데 일반적으로, 그리고 보통은 압도적으로 리사리시아가 안정적이다.] 2스테이지는 해신의 박자를 외우고 있다면 해신을 고르고, 그렇지 않다면 엘리크리가 유리하다. 하지만 둘 중에 어느 하나가 확실히 쉽다고 할 수는 없기 때문에 직접 2곡을 해보고 결정하는 것이 좋다. ~~어차피 승부처는 [[HAERETICUS|헤레기]]~~
+
+==== 최고사범 ====
+http://p.eagate.573.jp/game/reflec/groovin/p/images/profile/bn_dojo_16.png
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||'''1st'''||[[Bad Maniacs]]|| [[kors k]] as teranoid ||{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||{{{#08AFDB 10+}}}||{{{#08AFDB 1009}}}||
+||'''2nd'''||[[onslaught]]|| [[PHQUASE]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 1014}}}||
+||'''Final'''||'''[[CLAMARE]]'''|| [[Qrispy Joybox|MAX MAXIMIZER]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 830}}}||
+
+2014년 11월 20일 그루빈 어퍼 업데이트와 함께 추가되었으며, 명예사범을 합격해야 도전이 가능하다. 이전까지는 1, 2라운드에서 3곡, 2곡 중 한 곡을 고르는 형태였지만 최고사범은 개전급 답게 [[그런거 없다]](...).
+
+모두의 예상대로 파이널 라운드에 [[CLAMARE]]가 배정되었고, 1, 2라운드는 물량 2인자와 1인자가 꿰차고 있다. 더불어 1라운드의 [[Bad Maniacs]]는 인정시험 최초이자 유일한 스페셜 보면이고, 2라운드의 [[onslaught]]는 인정시험 최초이자 유일한 그루빈 신곡이다.
+
+명예사범에 들어간 이단자와 똑같이 클라마르에 커트라인이 존재하는데 대략 '''89%~90%'''로 추산되고 있다. 피격 대미지 1.5배[* 굿 -3, 미스 -7.5, JR미스 -22.5]와 합쳐서 그냥은 따게하지 않겠다는 의지가 보일 정도. 참고로 3스테이지의 상대 피통은 1820이다.
+
+여러가지 클리어 방해 요소가 많은 탓에 최고사범 유저는 [[date]] 현재 전세계에서 300명대정도로 추산되고 있다.
+
+최고사범 100% 달성 유저의 최고사범 공략글. [http://gall.dcinside.com/board/view/?id=rhythmgame&no=6041327 #] 단 아무리 이걸 참고하고 열심히 1,2스테이지를 굴려가면서 하더라도 CLAMARE는 실력으로 뚫는 수밖에 없다.
+
+== 검정시험 ==
+ * 각 검정마다 테마가 따로 있으며 검정 내용은 그 테마에 맞는 악곡으로 구성되어 있다.
+ * 일부 악곡 및 SPECIAL 보면은 '''해당 악곡/보면에서 리플렉 명인에게 승리'''하면 리플렉 샵에 추가된다.[* 한 검정에 두 난이도 이상의 보면을 가진 곡이 있는 경우 그 악곡의 난이도에 상관없이 한 보면만 승리하면 리플렉 샵에서 해금 가능하다.][* AR 70%를 넘기지 못해 클리어에 실패하더라도 명인의 체력을 모두 깎고 플레이어의 체력을 남겼다면 승리 판정을 받기 때문에 리플렉 삽에서 해당 악곡 또는 보면을 리플렉 샵에서 해금할 수 있다. 또한 나머지 라운드에서 패배하더라도 승리한 라운드에 대한 해금은 가능하다. 명인과 플레이어의 체력이 모두 남은 무승부 조건에서의 해금 여부는 확인 후 [추가바람].] 해당하는 곡은 배경을 황색으로 표시하였다.
+ * 시험 내 점수는 콤보 수에 따라 그 가산치가 기본 1.0배에서 최대 2.0배까지 올라간다[* IIDX 단위인정과 같은 방식으로 콤보가 다음 스테이지로 넘어간다. 가산치도 넘어온 콤보 기준으로 적용.]. 자세한 수치는 다음과 같다.
+ * 일부 검정은 밸류팩 티켓 1장이 필요하다. 2코인 프리미엄 스타트로 해도 되지만 컨티뉴를 해도 1장을 주니 이쪽을 추천. 이 항목에서는 {{{#teal ★}}} 표로 표시한다.
+ * 여름 검정축제로 추가되는 4개 검정은 검정 티켓이 필요하다. 검정은 8월 매주 금요일에 추가되며, 매주 월요일부터 목요일까지 검정 대상곡을 추측하여[* 4일간이 지나면 대상곡을 플레이해도 해당 검정의 티켓은 획득 불가] 5곡을 플레이하면 티켓을 얻을 수 있다[* 주말에는 티켓을 얻을 수 없으며, 티켓을 얻지 못하면 해당 검정을 플레이할 수 없다.]. 이 항목에서는 {{{#purple ★}}} 표로 표시한다. [* 9월 1일 통상해금]
+
+||<:>'''판정'''||<:>'''기초점수'''||
+||<:>JUST||<:>3점||
+||<:>GREAT||<:>2점||
+||<:>GOOD||<:>1점||
+||<:>JUST REFLEC||<:>10점||
+
+||<:>'''콤보'''||<:>'''적용배율'''|| ||<:>'''콤보'''||<:>'''적용배율'''||
+||<:>1~9||<:>1.0배|| ||<:>60~69||<:>1.6배||
+||<:>11~19||<:>1.1배|| ||<:>70~79||<:>1.7배||
+||<:>21~29||<:>1.2배|| ||<:>80~89||<:>1.8배||
+||<:>31~39||<:>1.3배|| ||<:>90~99||<:>1.9배||
+||<:>41~49||<:>1.4배|| ||<:>100~||<:>2.0배||
+||<:>50~59||<:>1.5배||
+
+ * 플레이가 끝나면 총 점수가 산출되어 순위에 반영된다[* 각 곡별로 최대 이론치가 정해져있기 때문에 순위를 올리기 위해선 오브젝트 수가 많은 곡을 플레이해야 한다.], 또한 추가로 성적 스탬프를 받게 되는데, 등급은 秀(수), 優(우), 良(양), 可(가), 不可(불가)로 나뉜다.
+  * 국내판에서는 '가', '불가'는 한글로, '수' , '우' , '양'은 한자 그대로 나온다(...) ~~[[KONMAI]]가 한국 유저들을 얕잡아 보는건가~~
+
+=== Qrispy 검정 ===
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|6>'''1st'''||[[cloche]]||[[Qrispy Joybox]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 305}}}||
+||[[ロボット☆ライフ]]||[[Qrispy Joybox]] feat.林ももこ ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 250}}}||
+||[[カラフルミニッツ]]||[[Qrispy Joybox]] feat.[[mao]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 285}}}||
+||[[Starry☆night]]||[[Qrispy Joybox]] feat.[[mao]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 311}}}||
+||[[ロボット☆ライフ]]||[[Qrispy Joybox]] feat.林ももこ ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 421}}}||
+||[[梅雪夜]]||[[Qrispy Joybox]] feat.[[mao]] ||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 640}}}'''||
+||<|5>'''2nd'''||<#FFFFA2>[[狂喜宴舞]]||<#FFFFA2>[[Qrispy Joybox|栗須承之介]] ||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 8}}}||<#FFFFA2>{{{#orange 318}}}||
+||[[anemone]]||[[숏쵸|S-C-U]] feat.[[Qrispy Joybox]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 276}}}||
+||[[printemps]]||[[Qrispy Joybox]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 385}}}||
+||[[cloche]]||[[Qrispy Joybox]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 502}}}||
+||<#FFFFA2>[[Twinkle Wonderland]]||<#FFFFA2>[[Qrispy Joybox]] feat.[[Sana]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10}}}||<#FFFFA2>'''{{{#08AFDB 535}}}'''||
+||<|5>'''Final'''||[[空色コンチェルト]]||[[Qrispy Joybox]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 342}}}||
+||[[cloche]]||[[Qrispy Joybox]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 502}}}||
+||[[Fly to Next World]]||[[Qrispy Joybox]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 530}}}||
+||<#FFFFA2>[[梅雪夜]]||<#FFFFA2>[[Qrispy Joybox]] feat.[[mao]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>'''{{{#08AFDB 741}}}'''||
+||<#FFFFA2>[[狂喜宴舞]]||<#FFFFA2>[[Qrispy Joybox|栗須承之介]] ||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10+}}}||<#FFFFA2>{{{#red 650}}}||
+
+=== 롱 검정 ===
+롱노트가 주를 이루는 난이도를 모아놓은 검정. 이 검정을 플레이하기 위해서는 밸류팩 티켓 1장이 필요하였으나 업데이트로 티켓없이 진행이 가능해졌다.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|5>'''1st'''||[[OVER THE LIMIT!]]|| [[이토 켄지|伊藤賢治]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 301}}}||
+||[[カタルシスの月]]||[[히나비타|日向美ビタースイーツ♪]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 320}}}||
+||[[망나니 장군|テレビ映画「吉宗評判記暴れん坊将軍」]]BGM||[[키쿠치 슌스케|菊池俊輔]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 266}}}||
+||[[Elisha]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 467}}}'''||
+||[[Intersect Platinum]]||[[ZUKI]] featuring [[96]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 417}}}||
+||<|5>'''2nd'''||<#FFFFA2>[[Kailua]]||<#FFFFA2>[[kors k]] ||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 8}}}||<#FFFFA2>{{{#orange 299}}}||
+||<#FFFFA2>[[SEED]]||<#FFFFA2>[[DJ YOSHITAKA]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 9}}}||<#FFFFA2>{{{#08AFDB 482}}}||
+||[[FRONTIER GATE]]||[[猫叉Master|佐藤直之]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 363}}}||
+||[[murmur twins]]||[[토키와 유우|yu_tokiwa]][[wac|.djw]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 435}}}||
+||[[RAGNAROK]]||[[96]] ||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 581}}}'''||
+||<|5>'''Final'''||[[Apocalypse 〜dirge of swans〜]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 477}}}||
+||[[Proof of the existence]]||[[猫叉Master|猫叉Master+]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 591}}}||
+||[[Blade]]||[[Ryu☆|青龍]] ||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 604}}}'''||
+||<#FFFFA2>[[Kailua]]||<#FFFFA2>[[kors k]] ||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10+}}}||<#FFFFA2>{{{#red 597}}}||
+||[[Broken]]||[[dj TAKA]] feat.AiMEE ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 603}}}||
+
+=== 사쿠라 검정 ===
+모든 곡 제목에 어떤 형태로든 [[사쿠라]]가 들어가는 것이 특징.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|5>'''1st'''||'''[[さくら]]'''||["wiki:케츠메이시" ケツメイシ] ||{{{#orange MEDIUM}}}||{{{#orange 4}}}||{{{#orange 173}}}||
+||[[I LOVE SAKURA|I LOVE '''SAKURA''']]||CHERRY BLOSSOMS[[BR]]([[아사키|ASAKI]] & [[wac]]) ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 296}}}||
+||[[追儺の桜 -春-|追儺の'''桜''' -春-]]||[[Des-ROW|Des-TINE]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 447}}}||
+||[[サクラヨゾラ|'''サクラ'''ヨゾラ]]||Xceon feat.[[모리나가 마유미|Mayumi Morinaga]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 587}}}'''||
+||'''[[桜]]'''||[[Reven-G]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 584}}}||
+||<|5>'''2nd'''||[[sakura storm|'''sakura''' storm]]||[[Ryu☆]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 296}}}||
+||[[Sakura Mirage|'''Sakura''' Mirage]]||[[Ryu☆]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 374}}}||
+||[[Sakura Sunrise|'''Sakura''' Sunrise]]||[[Ryu☆]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 441}}}||
+||[[I LOVE SAKURA|I LOVE '''SAKURA''']]||CHERRY BLOSSOMS[[BR]]([[아사키|ASAKI]] & [[wac]]) ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 496}}}||
+||[[Sakura Luminance|'''Sakura''' Luminance]]||[[Ryu☆]] ||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 560}}}'''||
+||<|5>'''Final'''||[[Sakura Reflection|'''Sakura''' Reflection]]||[[Ryu☆]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 351}}}||
+||<#FFFFA2>'''[[さくら]]'''||<#FFFFA2>[[케츠메이시|ケツメイシ]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10}}}||<#FFFFA2>{{{#08AFDB 494}}}||
+||[[sakura storm|'''sakura''' storm]]||[[Ryu☆]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 468}}}||
+||[[Sakura Mirage|'''Sakura''' Mirage]]||[[Ryu☆]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 645}}}||
+||[[Sakura Reflection#s-2.3|'''Sakura''' Reflection(P*Light Slayer Remix)]]||[[P*Light]] ||{{{#red HARD}}}||{{{#red 10+}}}||'''{{{#red 680}}}'''||
+
+=== DJ YOSHITAKA 검정 ===
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|7>'''1st'''||[[Stay my side]]||[[DJ YOSHITAKA|DJ Yoshitaka feat.RINA.]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 260}}}||
+||[[FLOWER]]||[[DJ YOSHITAKA]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 374}}}||
+||[[SEED]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 386}}}||
+||[[JOMANDA]]||[[DJ YOSHITAKA]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 497}}}||
+||[[Elisha]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 467}}}||
+||[[SHION]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 546}}}'''||
+||[[MANA]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 521}}}||
+||<|7>'''2nd'''||<#FFFFA2>[[SEED]]||<#FFFFA2>[[DJ YOSHITAKA]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 9}}}||<#FFFFA2>{{{#08AFDB 482}}}||
+||[[High School Love]]||[[DJ YOSHITAKA]] feat.DWP ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 490}}}||
+||[[SPECIAL SUMMER CAMPAIGN!]]||[[DJ YOSHITAKA|Lucky Vacuum]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 484}}}||
+||[[ビューティフル レシート]]||[[DJ YOSHITAKA|Lucky Vacuum]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 512}}}||
+||[[ALBIDA]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 700}}}||
+||[[Evans]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 697}}}||
+||[[Daily Lunch Special]]||[[DJ YOSHITAKA|Lucky Vacuum]] ||{{{#red HARD}}}||{{{#red 10+}}}||'''{{{#red 741}}}'''||
+||<|4>'''Final'''||[[VALLIS-NERIA]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 753}}}||
+||[[JOMANDA]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 747}}}||
+||<#FFFFA2>[[FLOWER]]||<#FFFFA2>[[DJ YOSHITAKA]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>{{{#08AFDB 845}}}||
+||[[Lisa-RICCIA]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||'''{{{#red 893}}}'''||
+
+=== 위자우츄나이 검정 ===
+프리미엄 모드로 온라인 플레이 후 EXTRA ROUND에서 [[FUJIMORI -祭- FESTIVAL]] 플레이시 검정목록에 추가되었는데, 2014년 7월부터는 그냥 플레이할 수 있다. 검정시험들 중에선 유일하게 베이직이 들어있고, 스페셜보면이 없다.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|6>'''1st'''||<#FFFFA2>[[FUJIMORI -祭- FESTIVAL]]||<#FFFFA2>[[VENUS(아티스트)|VENUS]] ||<#FFFFA2>{{{#green BASIC}}}||<#FFFFA2>{{{#green 4}}}||<#FFFFA2>{{{#green 173}}}||
+||[[Wow Wow VENUS]]||[[VENUS(아티스트)|VENUS]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 315}}}||
+||[[1/3の純情な感情]]||[[VENUS(아티스트)|VENUS]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 223}}}||
+||[[Chu☆Chu☆Tonight]]||[[VENUS(아티스트)|VENUS]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 266}}}||
+||[[三日月]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 8}}}||'''{{{#red 401}}}'''||
+||[[Survival Games]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 361}}}||
+||<|5>'''2nd'''||[[Survival%20Games#s-2.2|Survival Games -ZEUS Mix-]]||[[VENUS(아티스트)|VENUS]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 239}}}||
+||[[Far Away]]||[[VENUS(아티스트)|VENUS]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 253}}}||
+||<#FFFFA2>[[FUJIMORI -祭- FESTIVAL]]||<#FFFFA2>[[VENUS(아티스트)|VENUS]] ||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 7}}}||<#FFFFA2>{{{#orange 315}}}||
+||[[Wow Wow VENUS]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 462}}}'''||
+||[[Chu☆Chu☆Tonight]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 462}}}'''||
+||<|5>'''Final'''||[[1/3の純情な感情]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 284}}}||
+||[[Survival%20Games#s-2.2|Survival Games -ZEUS Mix-]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 507}}}||
+||[[Far Away]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 373}}}||
+||[[Brand New World]]||[[VENUS(아티스트)|VENUS]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 440}}}||
+||<#FFFFA2>[[FUJIMORI -祭- FESTIVAL]]||<#FFFFA2>[[VENUS(아티스트)|VENUS]] ||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10}}}||<#FFFFA2>'''{{{#red 630}}}'''||
+
+=== kors k 검정 ===
+kors k의 앨범 [[Let's Do It Now!!]] 발매 기념으로 2014년 6월 18일 추가되었다.
+
+2014년 8월즈음해서 리믹스 악곡 등 여기서 플레이해서 해금해야하는 곡들이 전부 리플렉 샵 구매로 풀리게 되었다. 단 Flip Flap과 Bad Maniacs의 스페셜 패턴은 해금되지 않았다. 기존에 악곡 구매량이 상상을 초월할 정도였으니 한결 나아진 셈. 그리고 2014년 8월 22일부로 스페셜 패턴 두 개도 해금되었다.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|9>'''1st'''||[[Our Faith]]||[[kors k]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 338}}}||
+||[[smooooch・∀・]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 224}}}||
+||[[Force of mind]]||The 4th([[kors k]] vs [[Ryu☆]]) ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 381}}}||
+||[[Poochie]]||[[kors k]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 382}}}||
+||[[Rush!!]](Remix!!)||[[kors k]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 422}}}||
+||[[On My Wings]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 540}}}'''||
+||[[SigSig]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 417}}}||
+||[[Flip Flap]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 489}}}||
+||[[Wuv U]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 432}}}||
+||<|9>'''2nd'''||<#FFFFA2>[[smooooch・∀・]](Ryu☆ Remix)||<#FFFFA2>[[Ryu☆]] ||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 8}}}||<#FFFFA2>{{{#orange 305}}}||
+||[[Gymnopedie -kors k mix-]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 277}}}||
+||<#FFFFA2>[[smooooch・∀・]](Ryu☆ Remix)||<#FFFFA2>[[Ryu☆]] ||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 9}}}||<#FFFFA2>{{{#red -}}}||
+||[[7 Colors]]||[[kors k]] feat.[[요시카와 스나오|吉河順央]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 277}}}||
+||[[Our Faith]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 578}}}||
+||[[The Wind of Gold]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 661}}}||
+||<#FFFFA2>[[Flip Flap]]||<#FFFFA2>[[kors k]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10}}}||<#FFFFA2>'''{{{#08AFDB 663}}}'''||
+||[[Ground Shake]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 658}}}||
+||[[Playing With Fire]]||[[kors k]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 546}}}||
+||<|7>'''Final'''||<#FFFFA2>[[Gimme a Big Beat]](Hommarju Remix)||<#FFFFA2>[[Hommarju]] ||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 7}}}||<#FFFFA2>{{{#orange 360}}}||
+||<#FFFFA2>[[Playing With Fire]](Sota Fujimori Remix)||<#FFFFA2>[[Sota Fujimori]] ||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 7}}}||<#FFFFA2>{{{#orange -}}}||
+||[[The Sampling Paradise]]|| [[kors k|Mamonis]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 630}}}||
+||[[Force of mind]]|| The 4th([[kors k]] vs [[Ryu☆]]) ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red -}}}||
+||<#FFFFA2>[[Playing With Fire]](Sota Fujimori Remix)||<#FFFFA2>[[Sota Fujimori]] ||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10}}}||<#FFFFA2>{{{#red 599}}}||
+||<#FFFFA2>[[Gimme a Big Beat]](Hommarju Remix)||<#FFFFA2>[[Hommarju]] ||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10+}}}||<#FFFFA2>{{{#red 783}}}||
+||<#FFFFA2>[[Bad Maniacs]]||<#FFFFA2>[[kors k]] as teranoid ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>'''{{{#08AFDB 1009}}}'''||
+
+=== 트릴 검정 ===
+2014년 7월 4일 업데이트되었다. [[트릴]] 위주의 곡들이 모여있는 검정.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|7>'''1st'''||[[ふりそでーしょん]]||[[캬리 파뮤파뮤|きゃりーぱみゅぱみゅ]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 350}}}||
+||[[OVERHEAT]] -Type R-||[[96|DOUBLE]] [[후지모리 소타|IMPACT]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 405}}}||
+||<#FFFFA2>[[fffff]]||<#FFFFA2>[[무라이 세이야|Five Hammer]]||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 8}}}||<#FFFFA2>{{{#orange 413}}}||
+||[[海神]]||[[DJ TOTTO|兎々]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 500}}}||
+||[[ANDROMEDA -SF_2011 Mix-]]||[[후지모리 소타|Sota Fujimori]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 547}}}||
+||[[疾風]]||[[PON|Power Of Nature]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 11}}}||
+||[[ラデツキー行進曲～Radetzky March, op.228～]]||Rb. Conductor III||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 569}}}'''||
+||<|6>'''2nd'''||[[イミテーション語ル死ス]]||[[Des-ROW]]・スペ志アル||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 419}}}||
+||[[朧]]||[[Ryu☆|HHH]]×[[모리나가 마유미|MM]]×[[Starving Trancer|ST]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 648}}}||
+||[[Turii ～Panta rhei～]]||[[Zektbach]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 522}}}||
+||[[ふりそでーしょん]]||[[캬리 파뮤파뮤|きゃりーぱみゅぱみゅ]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 491}}}||
+||[[蛇神]]||[[Zektbach]]||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 693}}}'''||
+||[[回レ！雪月花]]||歌組雪月花||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 468}}}||
+||<|5>'''Final'''||[[黒髪乱れし修羅となりて]]||[[TOMOSUKE|村正クオリア]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 563}}}||
+||<#FFFFA2>[[ANDROMEDA -SF_2011 Mix-]]||<#FFFFA2>[[후지모리 소타|Sota Fujimori]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10}}}||<#FFFFA2>{{{#08AFDB 726}}}||
+||[[灼熱Beach Side Bunny]]||[[DJ Mass|DJ Mass MAD Izm*]]||{{{#red HARD}}}||{{{#red 10+}}}||'''{{{#red 843}}}'''||
+||<#FFFFA2>[[fffff]]||<#FFFFA2>[[무라이 세이야|Five Hammer]]||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10+}}}||<#FFFFA2>{{{#red 823}}}||
+||[[Liberation]]||[[dj TAKA]]||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 728}}}||
+
+=== Zektbach 검정 ===
+2014년 7월 4일 함께 업데이트되었다. [[Zektbach]] 명의의 곡들이 모여있는 검정. 
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|5>'''1st'''||[[蛇神]]||[[Zektbach]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 296}}}||
+||<#FFFFA2>[[シャムシールの舞]]||<#FFFFA2>[[Zektbach|ゼクトバッハ]] ||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 7}}}||<#FFFFA2>{{{#orange 301}}}||
+||[[L'avide]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 390}}}||
+||[[The Sealer ～ア・ミリアとミリアの民～]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 511}}}||
+||[[Turii ～Panta rhei～]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 522}}}'''||
+||<|5>'''2nd'''||[[ZETA ～素数の世界と超越者～]]||[Zektbach]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 457}}}||
+||[[Apocalypse 〜dirge of swans〜]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 477}}}||
+||[[Wenkamui]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 492}}}||
+||[[meme]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 565}}}'''||
+||[[L'erisia (Primal Logic)]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 500}}}||
+||<|4>'''Final'''||<#FFFFA2>[[シャムシールの舞]]||<#FFFFA2>[[Zektbach|ゼクトバッハ]]||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 9}}}||<#FFFFA2>{{{#red 471}}}||
+||[[蛇神]]||[[Zektbach]]||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 693}}}||
+||<#FFFFA2>[[Blind Justice 〜Torn souls, Hurt Faiths〜]]||<#FFFFA2>[[Zektbach]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>{{{#08AFDB 776}}}||
+||<#FFFFA2>[[L'erisia (Primal Logic)]]||<#FFFFA2>[[Zektbach]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>'''{{{#08AFDB 777}}}'''||
+
+=== [[열투! BEMANI 스타디움]] 검정 ===
+2014년 7월 24일 [[발견! 되살아난 BEMANI 유적]]의 시작과 함께 업데이트 되었다. IX를 해금하기 위해서 인지는 몰라도 HP가 400까지 주어진다.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|8>'''1st'''||[[sakura storm]]||[[Ryu☆]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 296}}}||
+||[[デッドボヲルdeホームラン]]||[[猫叉Master]]β2 ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 332}}}||
+||[[PUNISHER]]||[[TAG]]×[[PON]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 310}}}||
+||[[Evans]]||[[DJ YOSHITAKA]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 398}}}||
+||[[Squeeze]]||[[VENUS(아티스트)|VENUS]] feat.[[이즈미 무츠히코|Mutsuhiko Izumi]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 344}}}||
+||[[HYENA]]||[[Hommarju]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 414}}}||
+||[[The Sealer ～ア・ミリアとミリアの民～]]||[[Zektbach]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 511}}}'''||
+||[[マインド・ゲーム]]||[[96]] with [[숏쵸|メカショッチョー]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 481}}}||
+||<|8>'''2nd'''||[[Engraved Mark]]||[[Ryu☆]] ∞ [[Des-ROW]] ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 421}}}||
+||[[Stella Sinistra]]||[[Akhuta]] Philharmonic Orchestra ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 369}}}||
+||[[IX]]||[[dj TAKA]] VS [[DJ TOTTO]] feat.藍 ||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 459}}}||
+||[[フレッフレー♪熱血チアガール]]||[[wiki:"Prim"裏マドンナだ！Primちゃん]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 661}}}'''||
+||[[轟け！恋のビーンボール！！]]||[[wac|ダイナミック野球兄弟]] v.s. [[Prim|クロスファイヤーPrim]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 666}}}||
+||[[Squeeze]]||[[VENUS(아티스트)|VENUS]] feat.[[이즈미 무츠히코|Mutsuhiko Izumi]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 655}}}||
+||[[HYENA]]||[[Hommarju]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 744}}}||
+||<#FFFFA2>[[PUNISHER]]||<#FFFFA2>[[TAG]]×[[PON]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>{{{#08AFDB 790}}}||
+||<|7>'''Final'''||[[野球の遊び方　そしてその歴史　〜決定版〜]]||[[아사키|あさき]]大監督||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 509}}}||
+||[[sakura storm]]||[[Ryu☆]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 468}}}||
+||[[Stella Sinistra]]||[[Akhuta]] Philharmonic Orchestra ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 499}}}||
+||[[Evans]]||[[DJ YOSHITAKA]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 697}}}||
+||[[Engraved Mark]]||[[Ryu☆]] ∞ [[Des-ROW]] ||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 609}}}||
+||<#FFFFA2>[[デッドボヲルdeホームラン]]||<#FFFFA2>[[猫叉Master]]β2 ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>{{{#08AFDB 795}}}||
+||[[IX]]||[[dj TAKA]] VS [[DJ TOTTO]] feat.藍 ||{{{#red HARD}}}||{{{#red 10+}}}||'''{{{#red 942}}}'''||
+
+=== BPM 변화 검정 ===
+2014년 8월 8일 여름 검정축제의 4개 검정중 첫번째로 업데이트되었으며, 대상곡 모두 변속곡으로 구성되어있다. 축제가 공지될 당시 [SABER WING]이 이식될 예정임이 공식적으로 언급되었다.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|8>'''1st'''||[[桜]]||[[NAOKI|Reven-G]]||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 316}}}||
+||[[OVER THE LIMIT!]]||[[이토 켄지|伊藤 賢治]]||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 301}}}||
+||[[JOMANDA]]||[[DJ YOSHITAKA]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 497}}}||
+||[[テレビ映画「吉宗評判記暴れん坊将軍」BGM]]||[[菊池 俊輔]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 266}}}||
+||[[Poochie]]||[[kors k]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 382}}}||
+||[[A to Z]]||[[OSAKA翔GANGS]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 453}}}||
+||[[QUIZ MAGIC ACADEMY VIII ～決勝戦より～]]||[[マジックアカデミー管弦楽部]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 386}}}||
+||[[London EVOLVED]]||[[TAG|TAG underground]]||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 540}}}'''||
+||<|7>'''2nd'''||<#FFFFA2>[[SABER WING]]||<#FFFFA2>[TAG]]||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 7}}}||<#FFFFA2>{{{#orange 342}}}||
+||[[EMPEROR OF THE AVALON]]||[[L.E.D.|L.E.D.-G]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 374}}}||
+||[[阿波おどり -Awaodori-]]||[[U1-ASAMi|U1ミライダガッキ連]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 343}}}||
+||[[万物快楽理論]]||[[아사키|あさき]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 544}}}||
+||[[麻雀格闘倶楽部NEXT タイトルデモ～東一局～リーチ]]||[[Y. T.]]||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 567}}}||
+||[[Russian Snowy Dance]]||[[이즈미 무츠히코|泉 陸奥彦]]||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 630}}}'''||
+||[[TITANS RETURN]]||[[L.E.D.]]||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 455}}}||
+||<|7>'''Final'''||[[幻想雷神記]]||[96|9]][[코에즈카 요시히코|8]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 473}}}||
+||<#FFFFA2>[[SABER WING]]||<#FFFFA2>[[TAG]]||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10}}}||<#FFFFA2>{{{#red 648}}}||
+||[[ZETA ～素数の世界と超越者～]]||[[Zektbach]]||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 773}}}'''||
+||[[EMPEROR OF THE AVALON]]||[[L.E.D.|L.E.D.-G]]||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 602}}}||
+||[[STULTI]]||[[Qrispy Joybox|MAX MAXIMIZER]] VS [[DJ TOTTO]]||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 728}}}||
+||<#FFFFA2>[[TITANS RETURN]]||<#FFFFA2>[[L.E.D.]]||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>{{{#08AFDB 538}}}||
+||[[Poochie]]||[kors k]]||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 707}}}||
+
+=== 애니메이션 검정 ===
+2014년 8월 15일 여름 검정축제의 4개 검정중 두번째로 업데이트되었으며, 대상곡 모두 애니메이션 관련 곡으로 구성되어 있다. 리플렉 비트 공식 트위터에서 SPECIAL 보면이 3개 추가될 예정이라고 공지되었다.[* sister's noise,嘘,回レ!雪月花 이 세곡에 스페셜 보면이 추가되었다. 레벨은 각각 9,9,10+]
+제목 그대로 모든 대상곡이 '''애니메이션·게임''' 폴더에 들어있으므로 여기에 들어가면 고르기 쉽다. 단 여기서 게임 음악[* 참고로 코나미사 게임([[BEMANI 시리즈]] 포함)은 '''오리지널''' 폴더로 분류되므로 여기에는 없다.]을 고르지 않도록 주의.
+여담으로 秀를 획득하기가 굉장히 어렵다. 대략 8700~8800정도.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|11>'''1st'''||[[Butter-Fly]]|| [[wiki:"와다 코지" 和田光司]] ||{{{#orange MEDIUM}}}||{{{#orange 5}}}||{{{#orange 217}}}||
+||[[future gazer]]|| [[fripSide]] ||{{{#orange MEDIUM}}}||{{{#orange 5}}}||{{{#orange 229}}}||
+||[[オリオンをなぞる]]|| [[UNISON SQUARE GARDEN]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 203}}}||
+||[[残酷な天使のテーゼ]]|| [[高橋洋子]] ||{{{#red HARD}}}||{{{#red 6}}}||{{{#red 248}}}||
+||[[回レ！雪月花]]|| [[wiki:"하라다 히토미" 歌組]][[wiki:"카야노 아이" 雪月]][[wiki:"오구라 유이" 花]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 234}}}||
+||[[RPG]]|| [[SEKAI NO OWARI]] ||{{{#red HARD}}}||{{{#red 6}}}||{{{#red 256}}}||
+||[[Vitalization]]|| [[wiki:"미즈키 나나" 水樹奈々]] ||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 327}}}||
+||[[マジLOVE1000%]]|| [[ST☆RISH]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 292}}}||
+||[[カラフル]]|| [[ClariS]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 293}}}||
+||[[侵略ノススメ☆]]|| [[ULTRA-PRISM]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 355}}}||
+||[[Challenge the GAME]]|| [[REDMAN]] ||{{{#red HARD}}}||{{{#red 8}}}||'''{{{#red 400}}}'''||
+||<|10>'''2nd'''||[[嘘]]|| [[wiki:"지드" シド]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 264}}}||
+||[[創聖のアクエリオン]]|| [[AKINO]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 246}}}||
+||[[Hacking to the Gate]]|| [[wiki:"이토 카나코" いとうかなこ]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 300}}}||
+||[[→unfinished→]]|| [[KOTOKO]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 362}}}||
+||[[The Reluctant Heroes]]|| [[澤野 弘之]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 328}}}||
+||[[sister's noise]]|| [[fripSide]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 336}}}||
+||[[リライト]]|| ([[ASIAN KUNG-FU GENERATION]]) ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 453}}}||
+||[[Chase the Light！]]|| [[Fear,and Loathing in Las Vegas]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 400}}}||
+||[[REVERSI]]|| [[UVERworld]] ||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 442}}}||
+||[[READY STEADY GO]]|| [[L'Arc～en～Ciel]] ||{{{#red HARD}}}||{{{#red 9}}}||'''{{{#red 475}}}'''||
+||<|10>'''Final'''||[[サブリナ]] || [家入レオ]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 206}}}||
+||[[1/3の純情な感情]]|| [[wiki:"VENUS(아티스트)" VENUS]] ||{{{#red HARD}}}||{{{#red 7}}}||{{{#red 284}}}||
+||[[紅蓮の弓矢]]|| [[Linked Horizon]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 382}}}||
+||[[Super Driver]]|| [[wiki:"히라노 아야" 平野綾]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 382}}}||
+||[[リアルワールド]]|| [[nano.RIPE]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 427}}}||
+||[[LEVEL5 -judgelight-]]|| [[fripSide]] ||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 324}}}||
+||<#FFFFA2>[[嘘]]||<#FFFFA2> [[wiki:"지드" シド]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 9}}}||<#FFFFA2>{{{#08AFDB 379}}}||
+||<#FFFFA2>[[sister's noise]]||<#FFFFA2> [[fripSide]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 9}}}||<#FFFFA2>{{{#08AFDB 447}}}||
+||[[回レ！雪月花]]|| [[wiki:"하라다 히토미" 歌組]][[wiki:"카야노 아이" 雪月]][[wiki:"오구라 유이" 花]] ||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 468}}}||
+||<#FFFFA2>[[回レ！雪月花]]||<#FFFFA2> [[wiki:"하라다 히토미" 歌組]][[wiki:"카야노 아이" 雪月]][[wiki:"오구라 유이" 花]] ||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>'''{{{#08AFDB 560}}}'''||
+
+=== 뜨거운 검정 ===
+2014년 8월 22일 여름 검정축제의 4개 검정중 세번째로 업데이트되었으며, 대상곡 모두 키워드로 "뜨겁다", "불", "여름". "태양"과 관련된 곡으로 구성되어 있다. [[kors k|StripE]]의 [[FIRE FIRE]]와 SPECIAL 보면이 2개가 추가될 예정이라고 공지되었다.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|7>'''1st'''||[[太陽の子]]||[[아사키|あさき]]||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 331}}}||
+||<#FFFFA2>[[FIRE FIRE]]||<#FFFFA2>[[kors k|StripE]]||<#FFFFA2>{{{#orange MEDIUM}}}||<#FFFFA2>{{{#orange 7}}}||<#FFFFA2>{{{#orange 345}}}||
+||[[リリーゼと炎龍レーヴァテイン]]||[[TOMOSUKE|黒猫ダンジョン]]||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 308}}}||
+||[[UNLIMITED FIRE]]||[[TAG]]||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 374}}}||
+||[[OVERHEAT|OVERHEAT -Type R-]]||[[DOUBLE IMPACT]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||'''{{{#orange 405}}}'''||
+||[[終焔のClaudia]]||[[DJ TOTTO|二代目朱雀]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 375}}}||
+||[[DRAGON KILLER]]||[[96]] vs. [[Mutsuhiko Izumi]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 370}}}||
+||<|8>'''2nd'''||[[GAIA]]||[[猫叉Master|猫叉]][[L.E.D.]][[猫叉Master|Master+]]||{{{#orange MEDIUM}}}||{{{#orange 7}}}||{{{#orange 345}}}||
+||[[OVER THE LIMIT!]]||[[이토 켄지|伊藤賢治]]||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 301}}}||
+||[[홍련의 화살|紅蓮の弓矢]]||[[링크드 호라이즌|Linked Horizon]]||{{{#red HARD}}}||{{{#red 8}}}||{{{#red 365}}}||
+||[[IX]]||[[dj TAKA]] VS [[DJ TOTTO]] feat.[[Deathgaze|藍]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 459}}}||
+||[[Playing With Fire]]||[[kors k]]||{{{#orange MEDIUM}}}||{{{#orange 8}}}||{{{#orange 331}}}||
+||[[紅焔]]||[[PON]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 566}}}||
+||[[FIRE|FIRE (REFLEC Version)]]||[[Mutsuhiko Izumi]]||{{{#red HARD}}}||{{{#red 9}}}||{{{#red 449}}}||
+||[[Legendary Dragon]]||[[Vivian]]||{{{#red HARD}}}||{{{#red 10}}}||'''{{{#red 588}}}'''||
+||<|8>'''Final'''||[[UNLIMITED FIRE|UNLIMITED FIRE-Try to Sing Ver.-]]||[[TAG]] rejected by [[DJ YOSHITAKA]]||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 488}}}||
+||[[Playing With Fire|Playing With Fire (Sota Fujimori Remix)]]||[[Sota Fujimori]]||{{{#red HARD}}}||{{{#red 10}}}||{{{#red 599}}}||
+||<#FFFFA2>[[Ignited Night]]||<#FFFFA2>HHH||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>{{{#08AFDB 664}}}||
+||<#FFFFA2>[[紅焔]]||<#FFFFA2>[[PON]]||<#FFFFA2>{{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}}||<#FFFFA2>{{{#08AFDB 10+}}}||<#FFFFA2>'''{{{#08AFDB 942}}}'''||
+||[[灼熱Beach Side Bunny]]||[[DJ Mass MAD Izm*]]||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 843}}}||
+||[[IX]]||[[dj TAKA]] VS [[DJ TOTTO]] feat.[[Deathgaze|藍]]||{{{#red HARD}}}||{{{#red 10+}}}||'''{{{#red 942}}}'''||
+||<#FFFFA2>[[FIRE FIRE]]||<#FFFFA2>[[kors k|StripE]]||<#FFFFA2>{{{#red HARD}}}||<#FFFFA2>{{{#red 10+}}}||<#FFFFA2>{{{#red 826}}}||
+||[[Playing With Fire]]||[[kors k]]||{{{#red HARD}}}||{{{#red 10+}}}||{{{#red 546}}}||
+
+
+=== [[히나비타♪]] 검정 ===
+2014년 8월 29일 여름 검정축제의 4개 검정중 마지막으로 업데이트되었다. 8월 25일까지 정보가 공개되지 않아서 조건 비공개 검정이 아니냐는 이야기가 있었지만, 곧 히나비타♪ 검정인 것으로 밝혀졌다. [http://gall.dcinside.com/board/view/?id=rhythmgame&no=5283293 #] 히나비타 전곡이 대상곡에 포함되며, [[とってもとっても、ありがとう。]], [[カタルシスの月]], [[めうめうぺったんたん！！]] 세 곡의 SPECIAL 패턴이 등장하였다.
+
+||'''라운드'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''오브젝트 수'''||
+||<|7>'''1st'''||[[温故知新でいこっ！]]||[[日向美ビタースイーツ♪]] ||{{{#orange MEDIUM}}}||{{{#orange 6}}}||{{{#orange 270}}}||
+||[[滅びに至るエランプシス]]||[[日向美ビタースイーツ♪

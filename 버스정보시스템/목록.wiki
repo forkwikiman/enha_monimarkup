@@ -1,0 +1,75 @@
+ * 상위 문서 : [[버스정보시스템]]
+
+다음은 버스정보시스템을 운영하는 지자체의 목록이다.
+
+ * 특별시 및 광역시 이외의 지역은 가나다순으로 추가해주세요.
+ * 모바일 항목에는 [[피처폰]]용 WAP 페이지는 링크하지 않습니다.
+ * iOS와 안드로이드 앱은 지자체에서 공식적으로 배포하는 앱만 링크합니다.
+ * 실제 운영중인데 여기에 기재되지 않은 지역은 [wiki:"추가바람" 추가해주시고], 잘못된 정보는 [wiki:"수정바람" 즉시 수정해주세요].
+
+[[목차]]
+== 특별시 및 광역시 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[서울특별시]]''' |||| [http://www.bus.go.kr/ bus.go.kr] |||| [http://m.bus.go.kr m.bus.go.kr] |||| [http://blog.seoul.go.kr/1900 1577-0287] |||| [https://itunes.apple.com/app/id553159448 링크] |||| [https://play.google.com/store/apps/details?id=kr.go.seoul.SeoulTraffic 링크] ||
+|||| '''[[부산광역시]]''' |||| [http://bus.busan.go.kr/ bus.busan.go.kr] |||| [http://bus.busan.go.kr/busanBIMS/mobile/m_main.asp bus.busan.go.kr] ||||  [http://bus.busan.go.kr/busanBIMS/bus_info/busInfo_ARS.asp 1588-2902] |||| [https://itunes.apple.com/app/id499244711 링크] |||| [https://play.google.com/store/apps/details?id=go.busan.android.bti 링크] ||
+|||| '''[[인천광역시]]''' |||| [http://bus.incheon.go.kr/ bus.incheon.go.kr] |||| [http://bus.incheon.go.kr/pda/ .../pda/] |||| [http://bus.incheon.go.kr/iw/jsp/info/GuidUseMthdARSM.jsp 1577-0359] |||| N/A |||| N/A || 
+|||| '''[[대구광역시]]''' |||| [http://businfo.daegu.go.kr/ businfo.daegu.go.kr] |||| [http://m.businfo.go.kr m.businfo.go.kr] |||| N/A |||| N/A |||| N/A ||
+|||| '''[[대전광역시]]''' |||| [http://traffic.daejeon.go.kr/ traffic.daejeon.go.kr] |||| [http://mbus.dj.go.kr/ mbus.dj.go.kr] ||||http://bus.gjcity.net:7001/app/mobile/m_main.jsp |||| N/A |||| N/A ||
+|||| '''[[광주광역시]]''' |||| [http://bis.gjcity.net/ bis.gjcity.net] |||| N/A |||| [http://bis.gjcity.net/main/mybusUser.do?action=mybusAbout 062-613-5700] |||| N/A |||| N/A ||
+|||| '''[[울산광역시]]''' |||| [http://its.ulsan.kr/ its.ulsan.kr] |||| [http://m.its.ulsan.kr m.its.ulsan.kr] |||| [http://its.ulsan.kr/Menu008/Ars.aspx?SiteID=8006 1577-3609] |||| [https://itunes.apple.com/kr/app/id410508170 링크] |||| [https://play.google.com/store/apps/details?id=com.neighbor.ulsanbus 링크] ||
+
+== 강원도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[원주시]]''' |||| [http://its.wonju.go.kr/ its.wonju.go.kr] |||| N/A |||| N/A |||| N/A |||| N/A ||
+|||| '''[[춘천시]]'''[[br]](홍천군) |||| [http://www.chbis.kr/ chbis.kr] |||| N/A |||| [http://www.chbis.kr/useInfoForARS.do 033-252-0000] |||| N/A |||| [https://play.google.com/store/apps/details?id=com.isgoodlab.ccbus 링크] ||
+|||| '''[[강릉시]]''' |||| [http://203.228.156.220:8000/admn/AdmnMainAction.bis?method=readInfoList&loginType=G ] |||| N/A |||| N/A |||| N/A |||| [https://play.google.com/store/apps/details?id=com.ebwide.mobilebit.gangneung 링크] ||
+== 경기도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[wiki:"경기도 시내버스" 통합정보]''' |||| [http://www.gbis.go.kr/ www.gbis.go.kr] |||| [http://m.gbis.go.kr m.gbis.go.kr] |||| [http://www.gbis.go.kr/service/guide/guide03.action?cmd=ars 1688-8031] |||| [https://itunes.apple.com/app/id371649293 링크] |||| [https://play.google.com/store/apps/details?id=kr.or.gbus 링크] ||
+
+== 경상남도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[거제시]]''' |||| [http://bis.geoje.go.kr/ bis.geoje.go.kr] |||| N/A |||| [http://bis.geoje.go.kr/main/customerInfo.do?action=arsInfo 055-634-3030] |||| N/A |||| N/A ||
+|||| '''[[김해시]]''' |||| [http://bus.gimhae.go.kr/ bus.gimhae.go.kr] |||| [http://bus.gimhae.go.kr/mobile/ .../mobile/] |||| [http://bus.gimhae.go.kr/ver2/info_use/info_ars.php 055-330-6789] |||| N/A |||| N/A ||
+|||| '''[[밀양시]]''' |||| [http://bis.miryang.go.kr/ bis.miryang.go.kr] |||| N/A |||| [http://bis.miryang.go.kr/ars_seach/ars_info.asp 055-356-5330] |||| N/A |||| N/A ||
+|||| '''[[양산시]]''' |||| [http://bus.yangsan.go.kr/ bus.yangsan.go.kr] |||| N/A |||| [http://bus.yangsan.go.kr/yangsan_new/use_info/ars_info.php 1588-6669] |||| N/A |||| N/A ||
+|||| '''[[진주시]]''' |||| [http://bis.jinju.go.kr/ bis.jinju.go.kr] |||| N/A |||| N/A |||| N/A |||| N/A ||
+|||| '''[[창원시]]''' |||| [http://bus.changwon.go.kr/ bus.changwon.go.kr] |||| [http://mbus.changwon.go.kr mbus.changwon.go.kr] |||| N/A |||| [https://itunes.apple.com/app/id583748232 링크] |||| [https://play.google.com/store/apps/details?id=kr.go.cwbis 링크] ||
+|||| '''[[통영시]]''' |||| [http://bms.tongyeong.go.kr/ bms.tongyeong.go.kr] |||| [http://bms.tongyeong.go.kr/mobile/ .../mobile/] |||| [http://bms.tongyeong.go.kr/servicears.do 055-644-4808] |||| N/A |||| N/A ||
+
+== 경상북도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[경산시]]''' |||| [http://bis.gbgs.go.kr/ bis.gbgs.go.kr] |||| N/A |||| [http://newslink.media.daum.net/news/20081028161107931 053-819-5555] |||| N/A |||| N/A ||
+|||| '''[[구미시]]''' |||| [http://bis.gumi.go.kr/ bis.gumi.go.kr] |||| [http://m.bis.gumi.go.kr bis.gumi.go.kr] |||| [http://bis.gumi.go.kr/GCBIS/web/page/web003_06_1.do 1577-9217] |||| [https://itunes.apple.com/app/gumibeoseujeongbo/id435435311 링크] |||| [https://play.google.com/store/apps/details?id=com.neighbor.gumibus 링크] ||
+|||| '''[[포항시]]''' |||| [http://bis.ipohang.org/ bis.ipohang.org] |||| [http://mbis.ipohang.org/ mbis.ipohang.org] |||| [http://bis.ipohang.org/Intro/HowToArs/ 1588-2247] |||| N/A |||| N/A ||
+
+== 세종특별자치시 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''시 전체''' |||| [http://http://bis.sejong.go.kr/ bis.sejong.go.kr] |||| [http://mbis.sejong.go.kr/ mbis.sejong.go.kr] |||| N/A |||| N/A |||| N/A ||
+
+== 전라남도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[광양시]]''' |||| [http://bis.gwangyang.go.kr/ bis.gwangyang.go.kr] |||| [http://mbis.gwangyang.go.kr/ mbis.gwangyang.go.kr] |||| N/A |||| N/A |||| N/A ||
+|||| '''[[순천시]]''' |||| [http://bis.sc.go.kr/ bis.sc.go.kr] |||| [http://mbis.sc.go.kr/ mbis.sc.go.kr] |||| N/A |||| N/A |||| N/A ||
+|||| '''[[여수시]]''' |||| [http://its.yeosu.go.kr/ its.yeosu.go.kr] |||| [http://mbis.yeosu.go.kr/ mbis.yeosu.go.kr] |||| N/A |||| [https://itunes.apple.com/app/id496382837 링크] |||| [https://play.google.com/store/apps/details?id=com.its.yeosu.ubitec 링크] ||
+|||| '''[[목포시]]''' |||| [http://bis.mokpo.go.kr/ bis.mokpo.go.kr] |||| [http://bis.mokpo.go.kr/main/mobile .../main/mobile] |||| N/A |||| N/A |||| N/A ||
+|||| '''[[화순군]]''' |||| [http://bis.hwasun.go.kr/main/main/ bis.hwasun.go.kr] |||| [http://m.bis.hwasun.go.kr/mobile .../main/mobile] |||| N/A |||| N/A |||| N/A ||
+
+== 전라북도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[군산시]]''' |||| [http://its.gunsan.go.kr/ its.gunsan.go.kr] |||| N/A |||| N/A |||| N/A |||| N/A ||
+|||| '''[[전주시]]''' |||| [http://www.jeonjuits.go.kr/ jeonjuits.go.kr] |||| [http://m.jeonjuits.go.kr/ m.jeonjuits.go.kr] |||| N/A |||| N/A |||| N/A ||
+
+== 제주특별자치도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''도내 전체''' |||| [http://bus.jeju.go.kr/ bus.jeju.go.kr] |||| [http://m.jejuits.go.kr/ m.jejuits.go.kr] |||| N/A |||| N/A |||| [https://play.google.com/store/apps/details?id=infomind.co.kr.app 링크] ||
+
+== 충청남도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[아산시]]''' |||| [http://bus.asan.go.kr/index.jsp bus.asan.go.kr] |||| N/A |||| [http://bus.asan.go.kr/useInfo/ars.jsp 041-532-8899] |||| N/A |||| N/A ||
+|||| '''[[천안시]]''' |||| [http://its.cheonan.go.kr/ its.cheonan.go.kr] |||| [http://its.cheonan.go.kr/mobile/ .../mobile/] |||| N/A |||| N/A |||| N/A ||
+
+== 충청북도 ==
+|||| '''지역''' |||| '''URL''' |||| '''모바일''' |||| '''[[ARS]]''' |||| '''[[iOS]]''' |||| '''[wiki:"안드로이드(OS)" 안드로이드]''' ||
+|||| '''[[청주시]]''' |||| [http://www.dcbis.go.kr/ dcbis.go.kr] |||| [http://m.dcbis.go.kr/ m.dcbis.go.kr] |||| N/A |||| N/A |||| N/A ||
+|||| '''[[충주시]]''' |||| [http://its.cj100.net/bis/map/BusMap.do] |||| [http://its.cj100.net/mbis/mMain.do] |||| N/A |||| N/A |||| N/A ||

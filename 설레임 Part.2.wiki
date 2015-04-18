@@ -1,0 +1,71 @@
+{{|이 항목은 [[설레임 2]], [[설파2]]로 검색해도 들어올 수 있습니다.|}}
+[[목차]]
+== 개요 ==
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/WJRaR0fz_ZU?list=PL7bnUBefYwhuowRRk8A9kgKazkwR8Y6iV" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX TECHNIKA 3]] ||
+|| 장르 || Cute Pop ||
+|| 작곡 || [[ND Lee]] ||
+|| 보컬 || [[Miya]] ||
+|| BPM || 156 ||
+|| BGA || Lee Woo Chul(원화), shin105(모션) ||
+
+> 설레임 이후. 오랜만에 [[wiki:"Miya"MIYA]]와 호흡을 맞춘 설레임 Part.2
+> 기대 했던대로 [[wiki:"Miya"MIYA]]의 보컬톤은 멜로디와 잘 들어맞았고 예상했던 귀여운(!) 결과물이 나올 수 있었다. 특히, 사운드의 근간이 된 멎진 기타를 연주해준 Sun에게도 감사의 말씀을 전합니다.
+
+제목으로 보아 [[DJMAX Portable 2]]에 수록되어있던 [[설레임]]의 후속곡. 
+~~솔직히 설레임 후속곡 나올줄 몰랐는데~~
+
+약칭은 '''설레임2''' 혹은 '''설파2'''. '''설레임'''[* 테크니카 3에 전작인 설레임이 수록되지 않았기 때문에 굳이 구분지을 필요 없이 줄여 부를 수 있다. 물론 해당 시리즈 한정.]이라고도 부른다.
+
+실제로 곡이 등장하기 전 OST 자켓 리스트에 곡명이 공개되었을때 유저들의 반응이 남달랐는데, [[Eternal Memory ~소녀의 꿈~]]같은 상황과는 조금 다르게, 이 경우는 BGA에 To be Continued 라는 문구를 집어넣어놓고는 [[M2U]]가 포터블2 이후로 M2U 명의로는 참여하지 않았기때문에[* ReX와 SPHAZER 명의로 참여했으며, 테크니카3 발매 후 M2U가 직접 밝히기 전까지 M2U가 다른 명의로 작업했다는 사실은 확실하지 않았기 때문.] 후속곡을 [[XeoN]]이 대신 만든 상황이었지만, 이 곡은 이와 같은 상황 아닌지라 [[ND Lee]]가 후속곡을 작업했을 가능성이 높다고 여겨졌는데, 역시 예상은 맞아 떨어졌다.
+
+일부러 노렸는지 보컬, 작곡자, 장르, BPM까지 전작과 같다. 다만 [wiki:"나코파파" 전작과 같은 외주 비주얼제작자]을 섭외하긴 힘들었는지, 비주얼은 전작과는 다른 사람이 담당했다.
+
+BGA는 길을가던 여자가 토끼, 곰, 남자를 차례대로 만나게되는데 토끼와 곰의 도움으로 둘이 이어진다는 이야기. 곡과의 싱크도 괜찮다. 남자를 만나는 부분에서 곡의 전환이 이러우진다던지... 혹자는 '''[[설레임]]에서 남자를 찾던 여자가 결국 어떤 남자와 만나게 된다는 이야기.''' 라고 농담을 하더라.
+== [[DJMAX TECHNIKA 3]] ==
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 375 Max || 4 || || ||
+||<#FFFF00> Normal || C || 375 Max || 4 || 8박 스크롤 || [[Boy Meets Girl Set]] 셀렉곡 ||
+||<#0000FF> {{{#white Hard}}} || B || 1250 Max || 6 || 8박 스크롤 || [[Rainbow Voyage Set]] 하위 보스곡, [wiki:"Labyrinth(DJMAX)"미션 - Walking in the Light] 수록  ||
+||<#FF0000> {{{#white Maximum}}} || A || 3250 Max || 8 || 4박 스크롤 || [wiki:"Masterpiece(DJMAX)"미션 - ND Lee Sound] 수록 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Fpr42enhivM" frameborder="0" allowfullscreen></iframe>
+}}}
+HD 패턴
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/kmV6tjwM4F4" frameborder="0" allowfullscreen></iframe>
+}}}
+MX 패턴
+
+노말패턴은 레벨표기가 적당하나, 8박스크롤에 엇박이 많아 사전에 노래와 패턴을 인지하지 않았다면 쿨,굿이 대량으로 나올 수 있으니 주의할 필요가 있다.
+
+하드패턴은 [[Rainbow Voyage Set]]의 하위보스곡으로 나오는데, 클리어나 스코어링 면에서 상위 보스곡인 [[My Heart, My Soul]]보다 이쪽이 더 어렵다는 평이 많으은 편이므로 초심자의 경우에는 주의하자. 역시 노멀패턴처럼 8박스크롤의 압박이 심하다.
+
+MX패턴은 6월 26일 16차 업데이트로 풀린 미션팩 [wiki:"Masterpiece(DJMAX)" Masterpiece]의 2번째 미션 ND Lee Sound의 3스테이지에서 플레이할 수 있다. 노멀/하드패턴과는 달리 4박스크롤이지만, 하드 패턴과 비교해도 노트 밀도가 크게 증가한 편이라 마냥 만만한 난이도는 아니다. 별개로 치는 맛은 좋다는 평이 많아 실제로 마스터피스 미션팩의 신 MX패턴중에서는 가장 좋은 평을 얻는 패턴. 이후 다음 업데이트인 17차 맥스포인트 샵에서 팝 믹싱에서 플레이가 가능해졌다. 여담으로 테크니카 단일곡 사상 콤보수가 1000이 넘는 몇 안 되는 패턴 중 하나다! 그 중에서는 Feel ma Beat HD와 함께 단연 최저렙. [* 다른 1000콤보를 넘는 곡들로는 [[Feel Ma Beat]] HD, [[wiki:"Over The Rainbow(DJMAX)"Over the Rainbow]] MX, [[Xeus]] HD, MX, [[Supersonic 2011]] MX, [[Right Back]] MX, [wiki:"Angel(DJMAX)"Angel] MX, [[Dark Prism]] MX, [[Bamboo on Bamboo]] MX가 있다. 그 중 콤보수가 가장 높은 곡은 [wiki:"Angel(DJMAX)"Angel] MX. 노트수가 가장 많은 패턴은 [Xeus] MX이다.]
+
+여담으로 ND Lee Sound 미션의 설레임 Part.2 MX는 업뎃 당일 버그로 인하여 '''게이지 감소량이 0'''이 되는 버그가 있었기 때문에, 아무 것도 치지 않고 손을 놓아도 풀 게이지로 클리어되는 현상을 볼 수 있었다. 이 버그로 "눈 감고 팔을 벌려봐~" 라는 가사와 싱크가 일품이라는 이야기가 많았다.
+== [[DJMAX TECHNIKA TUNE]] ==
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 5 || ||
+||<#FF0000> CLUB || 7 || [[Popping-Like Set]] 하위보스곡 ||
+== [[TAP SONIC]] ==
+2013년 5월 9일, TAP SONIC에 이식되었다! 6라인 레전드 기준으로 레벨은 7인데, ~~[wiki:"설레임"전작]도 6레벨 고난이도 포지션이더니~~ 이 녀석도 7레벨 사기곡이다! [[고백,꽃,늑대 part.2]]와 함께 7레벨 보스곡. 특히 5라인 레전드에서 그 악랄함이 더 두드러진다.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Harmony 팩 수록곡 ||
+|| '''설레임 Part.2''' || [[Dream Again]] || [[Bye Bye Love]] || [[Ray of Illuminati]] || [[Pray For You]] ||
+
+|||||||||||| [[DJMAX RAY]] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 || ||
+||<#0000FF> {{{#white HD}}} || 6 || ||
+||<#FF0000> MX || 8 || ||
+
+[[DJMAX RAY]]의 Harmony 뮤직팩에 수록되었다. TAP SONIC과는 다르게 무난한 8렙. ~~탭소닉하고 RAY하고 패턴을 바꾸거나 표기를 바꾸는게 각각의 레벨에 맞는것 같은데~~

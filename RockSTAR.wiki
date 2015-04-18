@@ -1,0 +1,45 @@
+|| 최초 수록작품 || [[TAP SONIC]] ||
+|| 장르 || Electro House ||
+|| 작곡 || [[Mr.Funky]] ||
+|| 보컬 || [[Mr.Funky]] ||
+|| 랩 || [[Mike Blunck]] ||
+|| BGA || aj ||
+
+{{{#!HTML
+<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/sX0o8uTnLRY?fs=1&hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sX0o8uTnLRY?fs=1&hl=ko_KR" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[Mr.Funky]]가 공급한 [[TAP SONIC]]의 오리지날 신곡...이긴 한데 어째 느낌은 [[wiki:"두부소닉" SuperSonic ~Mr.Funky Remix~]] + [[게이바]](....) [SuperSonic] 이후로 전혀 참여가 없던 [wiki:"Mike Blunck" 마이크 블렁크]의 복귀작으로, 여전히 랩이 신나고 [wiki:"찰지구나" 찰지다]는 평.
+
+== [[TAP SONIC]] ==
+{{{#!HTML
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/dLi11FFStRE?fs=1&hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dLi11FFStRE?fs=1&hl=ko_KR" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+6K 레전드 영상
+5월 14일 패턴 패치로 8라인 물렙에서 [[Real Over Drive]]와 견주어도 손색이 없을 정도로 어렵게 탈바꿈했다.
+
+== [[DJMAX TECHNIKA 3]] ==
+
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || B || 375 Max || || || ||
+||<#FFFF00> Normal || B || 375 Max || 4 || 4박 스크롤 || ||
+||<#0000FF> Hard || A || 1250 Max || 6 || 4박 스크롤 || ||
+||<#FF0000> Maximum || S || 3250 Max || 8 || 4박 스크롤 || [[Detonate Set]] 셀렉곡, [wiki:"Masterpiece(DJMAX)"미션 - Mr.Funky Groove] 수록 ||
+ 
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/z9DDlmVwPKc" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴 영상
+
+테크니카 3에 이식되면서 전용 BGA가 추가되었다. 실사영상에 CG를 합성한 BGA로, 전반적으로 [[Love is Beautiful]]에 [[Supersonic ~Mr.Funky Remix~]]를 섞은 느낌. 하지만 BGA가 [wiki:"닌텐도 증후군" 눈 아프다]는 평이 적지 않게 있어 자칫 [[Para Q]]의 수순을 밟을 가능성이 있다.
+
+여담으로 탭소닉 오리지널 곡 중에서 가장 빨리 MX 패턴까지 나왔다. --출시와 같이 나온 [[Watch Your Step]]은 10차 업데이트에서야 나왔는데!-- --괜찮아 [Chemical Slave]는 16차 업데이트까지 기다려야 되잖아--
+
+=== [[DJMAX TECHNIKA TUNE]] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 5 || ||
+||<#FF0000> CLUB || 7 || [[Electro-Hip Set]] 셀렉곡 ||

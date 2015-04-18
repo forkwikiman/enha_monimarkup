@@ -1,0 +1,25 @@
+[[include(틀:워크래프트 3/언데드 스콜지)]]
+
+ * 상위 항목: [[워크래프트 3/종족, 유닛, 건물]]
+
+Meat wagon. [[워크래프트 3]] [[언데드 스콜지|언데드]] 진영의 공성 병기. 별명은 고기차. --뭐가 다르냐!--
+
+~~포위된 아군의 성에 효율적으로 식량을 공급하기 위해 아서스 대왕께서 만드신 식량공급책. 이외에도 여러 상황에 널리 밥차의 역할을 담당하고 있다.~~
+
+공격 기능 외에도 언데드에게 여러 가지 용도로 사용되는데, 시체를 8개 까지 저장(?)해서 운반하는 기능이 있으며, 확장팩에선 업그레이드를 하면 아예 시간이 흐르면 자체적으로 시체를 발굴해서 자동으로 생성한다. 참고로 이때 생성되는 시체는 구울의 것. 일반적으로는 [[구울#s-2.3.1|구울]]의 캐너벌라이즈용 밥차로 쓰거나 강력한 크립의 시체를 모아놓은 다음 전투시에 시체를 꺼내서 [[데스 나이트(워크래프트 3)|데스 나이트]]의 애니메이트 데드 기술을 사용해 죽은 크립들이 일정 시간 동안 살려 싸우게 만들거나 [[네크로맨서#s-2.5|네크로맨서]]로 [[스켈레톤]]을 만들어 싸우게 하는 변태플레이도 가능하다. 
+
+사실 가장 유용한 사용법은 휴먼의 ~~더러운~~ [[시즈 엔진|부릉이]]을 막는데 쓰는 것. 본진 홀이나 네루비안 타워의 칠링 효과 + 머드 골렘의 슬로우와 연계하여 수비하는 데 가끔 쓰인다. 소수라면 충분히 효과를 보지만 다수가 몰려오면.... [[더 이상의 자세한 설명은 생략한다]]
+
+시체를 날려보내 공격한다.[* 중세 유럽의 전술중에는 발석차로 병든 짐승이나 병사의 시체를 성안으로 날려보내 전염병을 퍼뜨리는 전술도 있긴 했다. 이걸 [[킵차크 칸국]]에서 쓰다가... 본의 아니게 '''[[흑사병|대박쳤다]]'''.] 타 진영의 공성 유닛이 날리는 물건에 비해 엽기적인 센스를 자랑한다. 화면을 돌려서 잘 맞춰보면 [http://rigvedawiki.net/r1/wiki.php/%EB%AF%B8%ED%8A%B8%20%EC%9B%A8%EA%B1%B4?action=download&value=80.jpg 이 이미지]처럼 벌건 핏줄기와 함께 사람 얼굴이 날아오는 것이 은근히 호러. 그리고 어보미네이션의 디지즈 클라우드 업그레이드를 공유하기 때문에 업그레이드를 했다면 ~~독방귀~~ 전염병 효과를 뿌리기도.[* 발사체에서 전염병 효과가 퍼진다.][* 다만 같은 언데드족은 전염병 데미지를 입지않는다.]
+
+성능이 나쁘지는 않은데 언데드는 [[디스트로이어(워크래프트 3)|디스트로이어]] 때문에 공성병기가 잘 쓰이지도 않고 에콜라이트가 적어서 수리도 힘들고 애초에 워크래프트란 게임 자체가 공성 병기의 입지가 좁은 게임이기도 해서 잘 안쓴다.
+하지만 수리가 힘든건 언홀리 오오라의 이속과 체력 리젠으로 보완이 가능하니, 단순히 적 건물만 철거하는게 아니라 공성을하며 적의 한방병력을 꾀어낸다음 적절한 컨트롤로 다른 병력들과 함께 적절히 적의 병력을 두들겨서 물리치는것을 반복해서 경기를 이기는 것으로 응용할 수 있는듯. 
+이긴경기:[http://www.youtube.com/watch?v=d4LfSXQ3SDg 1] [http://www.youtube.com/watch?feature=player_detailpage&v=B9APnYqSA40#t=1684s 2 youtube] [http://www.youtube.com/watch?v=u8dc3r6_OZo 3]  [https://www.youtube.com/watch?feature=player_detailpage&v=EUYdL9awDFo#t=688s 4] [http://www.youtube.com/watch?v=1bJUsoyK874&list=PLRCz2RLYlhRN2BpNkhidnt5aZRc5i7ttb&index=53 5]
+진경기:[http://www.youtube.com/watch?v=dsGaYAvDMDs 1] [http://www.youtube.com/watch?v=Jf0YxuyIxrU 2] [http://www.youtube.com/watch?v=kie-o5HJdnI 3] [http://www.youtube.com/watch?v=7DuTIrRzkIE&feature=c4-overview&list=UUam2aB0vAwcC8UnTm8SJu7A 4] [http://www.youtube.com/watch?v=vd5xHqX6pWc 5] [https://www.youtube.com/watch?v=9sypD4jQfCM 6]
+
+TeD가 아주 가끔씩 역전을 하기위해 미트 웨건을 섞은 독특한 타워러시를 하는데, 타워로 직접 건물을 때리는 전통적인 개념이 아니라 요충지를 장악한다음 그곳을 중심으로 주력병력끼리 밀고 당기면서 이득을 취하는 것. 원거리 유닛과 [[블라이트#s-2|블라이트]][* 블라이트는 언데드 유닛들의 체력을 초당 2씩 회복시켜주는 효과가 있다] 까지 같이 있어서 오래동안 싸울수 있고,상대선수는 이런 독특한 러시에 내성이 별로 없어서 역전이 나온다. [http://jupanda.tistory.com/395 4경기] [http://v.ku6.com/special/show_3858167/2JAUhHcjQiG7140K.html?nr=1 중국어] [* [http://blog.naver.com/PostView.nhn?blogId=raxterlim&logNo=30095679172 replay]] [http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11374848&nTitleNo=3527398&nRowNum=15&szSkin=&nPageNo=1 2] [* [http://www.youtube.com/watch?v=EodnmVqjOBk youtube]]
+
+[[미트스핀]]유행으로 인해 가끔 '''미트스핀웨건'''이라고도 불린다. 그 외에도 [[낙스라마스]] 안을 잘 둘러보면 몇 기가 배치되어 있으며, [[아서스 메네실]]이 쿠엘탈라스 침공 당시 개통한 ~~[[태양샘]] 직행 고속도로~~죽음의 흉터에서도 침공 당시에 쓰였다가 박살난 것들을 볼 수 있다.
+
+[[월드 오브 워크래프트]]에서는 [[언더시티]]에 여러 대가 있는 걸 볼 수 있다.
+--[[의료선|코프룰루 구역에서 테란측이 굴리고 있는 것을 확인했]]--

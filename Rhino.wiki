@@ -1,0 +1,17 @@
+[[include(틀:그래픽 툴)]]
+
+||<table align=right><tablewidth=35%>|| http://1-ps.googleusercontent.com/x/s.rhino-3d.appspot.com/www.rhino3d.com/en/images/xv5logo-m4.png.pagespeed.ic.UWIoyWNpPJ.png?width=60% ||
+||<width=40%> 정식명칭 || Rhinoceros (라이노세로스) ||
+|| 개발 ||  Robert McNeel & Associates ||
+|| 라이센스 || 상업소프트웨어 ||  
+|| 용도 || 모델링, 렌더링 ||
+|| 운영체제 || [[Windows]], [[OSX]] ||
+|| 사이트 || [http://www.rhino3d.com/kr/|홈페이지] ||
+http://1.bp.blogspot.com/-VUEE5ZqwwLY/T4Qa3k_vrdI/AAAAAAAABSk/_0CIEUzWz3g/s1600/5981761968_24cc85c74f_z.jpg?width=60%
+
+로버트 맥닐에서 개발 및 유통하는 3D 모델링 소프트웨어.
+전반적인 인터페이스가 [[3ds max]], [[Blender]], [[마야]] 등 메이저 3D 모델링 소프트웨어와는 확연하게 다르며 오히려 [[CAD]]와 더 닮았다. 타 3D 모델링 소프트가 폴리곤을 다듬어 만드는 대 비해 라이노는 NURBS식으로 각종 치수를 입력하여 일정한 점들을 연결한 직선에서 계산에 의한 곡선을 구하고 그 곡선을 확장시킨 3차원의 곡면을 구하는 방식을 사용한다. 덕분에 타 소프트들이 폴리곤 수를 늘리는 방식으로 '유사 곡선'을 재현하는 반면 라이노는 애초에 기본으로 곡선 개념을 탑재하고 있다. 이로 인해 CAD처럼 치수에 맞춰 아주 정확하고 정교한 작업이 가능하다.
+   
+애니메이션 기능은 굉장히 제한적이다. 하지만 렌더링 만큼은 굉장히 뛰어나며 특히 금속, 플라스틱, 유리 등을 사실적으로 구현하며 애드온등을 깔면 포토 퀄리티에 근접하게 뽑아낸다. 이는 이 소프트가 3D 애니메이션이나 게임 등을 위해 만들어 진 게 아니라 가전, 자동차, 보석세공 등등 '''제품 디자인용'''으로 만들어졌기 때문이다.  
+
+Nurbs 모델러인 라이노에 부가적인 기능을 확장시키는 많은 플러그인들이 있다. 대표적인 플러그인으로는 Grasshopper(그래스호퍼)가 있다.

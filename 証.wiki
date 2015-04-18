@@ -1,0 +1,21 @@
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/JTFKN-DZOlU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+答えなんてない。キミが歩んだ｢道｣が答えになるんだから。
+답은 없어. 네가 걸었던 「길」이 답이 될거니까. 
+|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 16 PARTY♪ || GIRLS ALTERNATIVE[[br]]걸즈 얼터너티브 || 証[[br]]아카시 || 阿部靖広 feat. 森亜紀子[[br]]아베 야스히로 feat. 모리 아키코 || LENA[[br]][[레나(팝픈뮤직)|레나]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 175 || 43단계 || {{{#blue 16}}} || {{{#green 20}}} || {{{#orange 29}}} || {{{#red 37}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 26}}} || {{{#orange 35}}} || {{{#red 43}}} ||
+|||| 노트수 || {{{#blue 267}}} || {{{#green 413}}} || {{{#orange 785}}} || {{{#red 1076}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+팝픈뮤직 PARTY♪의 수록곡. 작곡가는 아베 야스히로, 보컬은 Puretone Music 소속의 모리 아키코, 랩은 오사다 시니치 담당. 작곡가와 보컬 모두 이 곡으로 팝픈뮤직에 처음으로 참여했으며, 보컬인 [http://puretonemusic.jp/artist/mori/ 모리 아키코]는 이 노래로 데뷔했다. 
+
+EX보면은 동시치기만으로 몰아치는 보면으로, 첫 수록 당시 38이었으나 전국열전에서 37로 하향되었다.

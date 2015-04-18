@@ -1,0 +1,42 @@
+ * 리다이렉트: [[Android Studio]]
+
+[[목차]]
+
+== 개요 ==
+http://blog.teamtreehouse.com/wp-content/uploads/2013/05/studio_splash.png?width=200
+초기 로고. 이클립스 ADT의 스플래시 화면과 비슷하다.
+
+attachment:AndroidStudio101.png
+1.0부터 바뀐 로고. 왠지 [[프리메이슨]]의 상징처럼 바뀌었다(...)
+
+[[http://developer.android.com/sdk/index.html 공식 사이트]]
+
+[[안드로이드(운영체제)]] 앱 개발을 위한 [[통합 개발 환경]]. 2014년 10월부터 ADT 탑재 [[이클립스]]를 대체해 안드로이드의 공식 IDE가 되었다.
+
+기존에 이클립스로 작업하던 프로젝트를 안드로이드 스튜디오로 이전할 수 있다. [http://developer.android.com/sdk/installing/migrate.html 페이지 참조].
+== 시스템 요구조건 ==
+|| 운영체제 || [[Microsoft Windows]] [[Windows 8|8]][* [[Windows 8.1]]에서 동작 확인]/[[Windows 7|7]]/[[Windows Vista|Vista]]/[[Windows XP|2003]][* 어째서인지 공식 사이트에 2003으로 표기돼 있다.]<<br>>Mac [[OS X]] 10.8.5 ~ 10.10 Yosemite<<br>>[[GNOME]] 또는 [[KDE]] 데스크탑<<br>>(32 or 64-bit) ||
+|| RAM || 최소 2GB, 권장 4GB ||
+|| 하드디스크 || 400 MB (스튜디오 자체)<<br>>+ 1GB (안드로이드 SDK, 에뮬레이터 시스템 이미지, 캐시) ||
+|| 화면 해상도 || 최소 1280 x 800 ||
+|| Java || Java Development Kit (JDK) 7[* 리눅스만 [[오라클]] JDK라는 조건이 붙어 있다.]<<br>>Java Runtime Environment (JRE) 6 (맥 한정)[* 폰트 렌더링에 필요하다.] ||
+|| 에뮬레이터 가속<<br>>(선택사항) || Intel® processor with support for Intel® VT-x<<br>>Intel® EM64T (Intel® 64)<<br>>Execute Disable (XD) Bit functionality ||
+
+== 역사 ==
+0.9까지의 역사는 http://tools.android.com/recent 에서 볼 수 있다.
+
+ * 1.0 / [[2014년]] [[12월 8일]]
+  * 1.0.1 / [[2014년]] [[12월 11일]]
+
+== 여담 ==
+[[어베스트]]와 상성이 영 좋지 않다. 특히 컴파일러에 딥스크린 기능이 관여하면 프리징이 발생하니 설정에서 꼭 안드로이드 스튜디오 경로를 제외 지정해 주자. 아래는 자세한 설정 방법.
+ 1. 어베스트 UI에서 '''설정'''을 선택한다.
+ 1. 이 부분은 버전에 따라 약간 다르다.
+  * 2014에서는 '''안티바이러스'''를 선택
+  * 2015에서는 '''보호 활성''' → '''파일 시스템 감시'''의 __'''사용자 지정'''__을 선택
+ 1. 스크롤을 내리면 '''제외''' 항목이 있다. '''파일 경로''' 탭에서 아래 경로[* 마지막의 {{{\*}}}가 들어가야 하위 폴더를 포함한 서브트리 전체가 선택된다.]를 추가한다.
+  * AS 자체의 설치경로 (주로 {{{C:\Program Files\Android\*}}})
+  * {{{C:\Users\}}}'''''{{{<username>}}}'''''{{{\AppData\Local\Android\*}}}
+
+
+[[추가바람]]

@@ -1,0 +1,334 @@
+[[include(틀:집단연구)]]
+
+[[던전 앤 파이터]]가 다른 게임에서 무단 차용하였거나 하고 있는 것으로 의심되는 게임 스킬 및 구성들. 법적 의미의 [[표절]]까지는 성립하지 않는다 [[카더라]]. [* 사실 대놓고 소스를 그대로 끌어와 쓰지 않는 이상 법적인 문제로까지 번지기는 어렵다. 누가 보아도 표절이 명백하다고 판단될 지언정, 그것이 온당한 심판을 받기 어려운 것은 법의 잣대가 그러하기 때문. 이미 수많은 분야에서 이러한 점을 악용하고 있는 사례가 많다.]
+
+게임 컨셉 자체가 패러디에 기반을 두고 있기는 하지만, 무엇이든 과하면 독이 되는 법. 고스톱 같은 간단한 게임이나 만들 줄 알던 '''초보''' 프로그래머 셋이 만들기 시작했던 것도 원인인 듯 하다. 서비스 초기 2~3년간은 이런 얘기를 심심찮게 했었다.
+
+유저들의 비판이 있으면 좀 좋겠지만[* 던파통신을 보면 잘 알겠지만 당연히 비판이 있다. 예를 들어 레드 로제나 던전 앤 드래곤 SOM랑 비교한 글이라던가], 산전수전 다 겪으며 두터운 충성을 보장하는 코어 유저층이 확보되어 있어 표절 문제가 간혹 수중에 떠올라 질타를 받게 될 경우 되려 유저들이 나서서 제작진들을 변호해주는 우스운 사태도 벌어진다. ~~일부 코어 유저들는 표절시비들을 들은 것이 너무도 익숙하여 비판을 받아도 그냥 흘러듣는 경지지라고 한다.~~  반대로 이미 여러 군데에서 쓰여 클리셰에 가깝게 정착된 것들도 표절시비가 일어나는 경우도 존재한다.
+
+사실 던파는 오락실 게임의 향수를 느끼게 하는 요소를 다수 채용한 것도 한몫 한다고 할 수도 있~~긴 개뿔이~~다. 즉, 개발단계부터 일부러 배낀 것이라 할 수 있다.(...)
+
+
+
+[[목차]]
+
+== 귀검사 ==
+ * 기본 아바타 디자인 : [[솔 배드가이]] - 컬러링이 솔의 2p 컬러와 흡사하다/
+ http://www.fightersgeneration.com/np2/char2/gif/sol/sol-colorswap.gif 
+ * 파동검 지열 : 선풍파(하오마루/라세츠마루, [[사무라이 스피리츠]])
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6E74FA5FE28B4565DCECAF63B7A6366277BA&outKey=V1259dda08ec7e116cf6d9b4ae236e28da6e211d76514e649eb739b4ae236e28da6e2' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer16897' id='NFPlayer16897' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+ http://pro.tok2.com/~you/ss/0sp/senpuha.jpg
+ * 귀참 : 참철섬(하오마루, [[사무라이 스피리츠]]) - 과거 세리아 홈페이지의 '백군이야기'에서 제작진이 시인했다. 모션이 완전히 같은데, 하오마루의 강베기처럼 '한방은 강하면서 빈틈은 큰 기술'을 컨셉으로 제작되었다고.
+ http://www.fightersgeneration.com/characters/hao-a3.gif
+
+=== 웨펀마스터 ===
+ * 류심 승 : 기공선풍공격(왕후, [[사무라이 스피리츠]])
+ http://www.fightersgeneration.com/characters4/wanfu-shoryu.gif
+
+ * 극 귀검술 - 폭풍식 : FF7의 주인공 [[클라우드 스트라이프]]의 필살기 '초구무신패참'. [[무한의 검제]] 아니냐는 말도 나왔지만 제작진이 시인했다.
+정확히는 [파이널 판타지 7 어드벤트 칠드런]이후의 초무구신패참으로, 원작에선 그냥 연속베기 연출이었으나, 어드벤트 칠드런 이후로 연출이 바뀌었다.
+ http://fc07.deviantart.net/fs36/f/2008/283/4/8/Cloud__s_Omnislash_by_Sethyuikora.gif
+ http://stream1.gifsoup.com/view6/4463532/omnislash-ver-5-0-o.gif
+
+ * 삼단 베기 : 사무라이 스피릿츠 시리즈 키바가미 겐쥬로의 삼연살의 컨셉을 가져왔다. 정작 1타, 2타는 평타 1타 모션에 3타인 삼살은 '''대시 공격시 사용하는 찌르기 모션'''이어서 모션상으로는 틀리긴 했다. 단공참의 경우도 컨셉은 유지했지만 여전히 삼연살과 모션은 좀 다른 편.[* 귀신의 질주에서 추가된 종 베기 모션 두개를 사용한다. 웨펀마스터의 마스터리 효과를 받은 마무리는 역시 귀신의 질주에서 추가된 어퍼처럼 올려베는 종 베기.]
+ http://www.fightersgeneration.com/characters/genjuro-ng-3hit.gif
+=== 버서커 ===
+ * 블러드 러스트 : 천고봉라(류 윤페이, [[사무라이 스피리츠]])
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=206B7779DB3C13D1DCB0267D26C453690CEC&outKey=V12739767d017b8ae5b731ebf8e66d048717c0dd3a16cf7ab4b071ebf8e66d048717c' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer66489' id='NFPlayer66489' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+=== 소울브링어 ===
+ * 만월 달빛베기 : 일도 신월, 일도 쌍월(미나카타 모리야, [[월화의 검사]])
+
+http://www.fightersgeneration.com/characters2/moriya-doublecslash.gif
+=== 아수라 ===
+[http://youtu.be/5h78duXxkys]
+
+1차 각성 액티브 "파동의 눈" 시전시 등장하는 눈 문양들이 [바람의 검심]에 등장하는 맹인 검객 [우스노마 우스이]의 옷과 장신구를 수놓은 문양들과 유사하다. 어차피 "파동을 감지하는 맹인 검객"이라는 컨셉 및 "심안(心眼)"이라는 용어도 서로 겹친다. ~~물론 살인귀 우스이에 비하면 던파에 등장하는 아수라들은 선역이다.~~
+=== 소드마스터 ===
+ * 비연참 : 오광참([키바가미 겐쥬로]). 스킬명은 [wiki:"김갑환/커맨드 리스트" 김갑환]의 비연참?
+http://www.fightersgeneration.com/characters/genjurospecial-vshaoh.gif
+
+=== 데몬슬레이어 ===
+ * 사복검 - 조 / 사형조수 : [디어사이드]([wiki:바이스(KOF) 바이스])
+http://www.fightersgeneration.com/characters4/vi-toss.gif
+ * 폭류나선 : 소닉 슬로터 "코드-KW"([[윕]])
+http://www.fightersgeneration.com/characters4/whip-suuper4.gif
+
+=== 베가본드 ===
+ * 삼재검 : 트라이슬래쉬([사무라이 스피리츠], [샤를로트 크리스티느 콜데])
+http://www.fightersgeneration.com/characters/char-tri.gif
+
+=== 다크템플러 ===
+리버레이트 - 벅샷 : 슈팅게임 [[이카루가#s-2]](斑鳩) 힘의 해방 
+
+http://d140.jp/wp/wp-content/uploads/100415_ikaruga3.jpg
+
+원본인 힘의 해방도 게이지를 모아 유도탄을 쏘는 형식이었다.
+이름부터 리버레이트 (liberate : 해방시키다) 이다.
+== 격투가 ==
+ * 질풍각 : [[용권선풍각]]
+ 자세는 약간 다르다. 남격가의 질풍각은 적을 끌어들이는데, 이는 슈퍼콤보 버전 진공 용권선풍각과 유사.
+
+=== 스트리트 파이터 ===
+ * 일발화약성 : 대폭살([[카자마 카즈키]], 사무라이 스피리츠4), 비검 홍련완([[시시오 마코토]], [[바람의 검심]])[* 모티브가 사무라이 스피리츠의 카자마 카즈키다.], [[212식 금월 양]] ([[쿠사나기 쿄]], KOF 시리즈)
+{{{#!html 
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6DCC18189D320C5A0666141B435665847E88&outKey=V12841003b40801b7dc677e48f7778b839e7655b393276ba35a997e48f7778b839e76' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer18793' id='NFPlayer18793' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 마운트&크레이지 발칸 : KOF96 부터 추가된 랄프 존스의 초필살기 말타기 발칸 펀치.
+ http://www.fightersgeneration.com/nx9/char/kof2k2/ralf/a/ralf-kof2002-groundpound.gif
+
+ * 베놈마인(여성) : [테리 보가드]의 [[wiki:"파워%20가이저#s-2" 트리플 가이저]].
+ http://www.fightersgeneration.com/characters4/terry-ff3-powa3.gif
+
+
+=== 스트라이커 ===
+ * 라이징 너클 : 신룡권(켄, 스트리트 파이터). 자세와 이펙트 형식이 같다.
+ http://www.fightersgeneration.com/characters2/ken-sshinryuken.gif
+
+ * [[헥토파스칼 킥]] : 항목 참조
+=== 넨마스터 ===
+ *기공장 : [[춘리]]([[스트리트 파이터 시리즈]]의 [wiki:"기공권" 기공장]. 그대로 베꼈다.
+ http://www.fightersgeneration.com/characters/chunli-kikousho.gif
+   남성 넨마스터의 경우, 베니마루의 [[뇌광권]]과 흡사하다고 할 수 있겠다.
+ http://www.fightersgeneration.com/characters/beni-2k3-super.gif
+
+ * 광충노도 : 청룡([마리아 라넷드], [악마성 드라큘라 X 월하의 야상곡])
+{{{#!html
+<embed src="http://www.youtube.com/v/1JcSvp98wMI&hl=ko&fs=1&start=228" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed>
+}}}
+
+=== 그래플러 ===
+ * 숄더 태클 : 자이언트 봄 ([[wiki:"라이덴(SNK)" 라이덴 or 빅베어]], [[아랑전설]]) 자세와 기합소리가 같다.
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=84CAE2ED6BB403713384068E95A5859F21EE&outKey=V1260562507ed57a78bd401d2991dd77d6e08d4a874b24302d85201d2991dd77d6e08' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer42806' id='NFPlayer42806' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 기간틱 타이푼 : 개편전 버전이 겟타 3호의 대설산 오로시와 흡사하다.
+
+== 거너 ==
+ * 기본 아바타 디자인 : 기본 코트의 디자인이 [[밧슈 더 스탬피드]]와 닮았다. 머리에 쓰고 있는 녹색 선글라스도 밧슈가 쓰고 다니는 안경과 비슷한 디자인. 머리형의 경우에는 [[데빌 메이 크라이]]의 단테에게서 모티브를 가져온 듯 하다.
+ * 마하킥(남거너) : 거합차기(니카이도 베니마루, KOF))
+http://www.fightersgeneration.com/characters/beni-fastkick.gif
+ * 퍼니셔 : [데빌 메이 크라이] 의 단테의 건슬링거 기술 중 와일드 스톰프
+{{{#!html
+<img src=http://cfile229.uf.daum.net/image/13756E4C5132685032891C>
+
+}}}
+=== 레인저 ===
+ * 난사 : 영화 '이퀄리브리엄' 중, '존 프레스턴'이 적들 사이에 난입해서 쓰는 기술('[[건카타]]')를 차용하였다. 아래 영상의 33초부터이다.
+{{{#!html
+<embed src="http://www.youtube.com/v/IrJOF7jhgAQ&hl=ko&fs=1&start=40" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed>
+}}}
+
+* 멀티 헤드샷 : NAMCO X CAPCOM의 주인공 레이지와 샤오무의 기술인 '총의 형'[* Devil May Cry의 주인공 단테의 건슬링거 기술 투 섬 타임이라는 말도 있다]
+{{{#!html
+<embed src="http://www.youtube.com/v/XcJGdTVsb74&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed>
+}}}
+
+ *  더블 건호크 : 황당하게도 이 스킬은 개그영화 '''깝스'''에서 차용하였다--권총을 합체시키지 않지만 [[알 게 뭐야]] 걍 던지면 장땡이지--.
+{{{#!html
+<embed src='http://flvr.pandora.tv/flv2pan/flvmovie.dll/jid=091027021D70201B325F452EB950792DE4473085&id=76258' width='300' height='165' allowFullScreen='true' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' wmode='window' allowScriptAccess='always' />
+}}}
+ * 더블 건호크 : 대사 부분은 [겟타로보]의 고유기인 더블 토마호크 부메랑을 생각나게 한다.
+
+ * 스커드 제노사이드 : Devil May Cry 3,4의 주인공 단테의 기본 원거리 무기인 에보니&아이보리로 쓸 수 있는 기술과 매우 흡사하다. 그냥 걸으면서 공격하고 띄우고를 몇 번 반복하고 띄운 다음 건슬링어 스타일의 공중 기술인 레인 스톰을 쓰면 거의 완벽히 따라할 수 있다.
+=== 메카닉 ===
+
+ * RX-78 랜드러너, Ez-8 카운트다운, EXS 바이퍼는 각각 [[wiki:"건담(기동전사 건담)" 건담]], [[건담 Ez-8]], [["S 건담" Ex-s 건담]]의 형식번호이다.[* G-3 랩터의 경우는 [[G-3 건담]] 보다는 [[겟타 3]]에 가깝다.]
+
+ * G시리즈 : 그 연계 합체방식이 [겟타로보]와 흡사하다.
+
+
+ * 게이볼그 펀치(마이스터) : [[블로디아]] 펀치([[진 사오토메]], [[배리어블 시리즈]])
+
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=BC68BC0BED68880A90D904948B36C7E2BF8C&outKey=V129f32280480f96659b3b21fa7062efa1c028fd0bb77fb4397e4b21fa7062efa1c02' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer91442' id='NFPlayer91442' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 헬 마치 : 영화 [[아이언 맨 2]]의 [해머 드론] 군단.
+
+{{{#!html
+<embed src="//www.youtube.com/v/ivDKKMvk4aM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+=== 런처 ===
+ * 다른 게임에서 베껴온 건 없지만 레이저 라이플이나 익스트루더, 양자 폭탄 같은 가공의 화기들을 제외하면 대부분 현실의 중화기 이름을 약간씩 뜯어고쳐서 사용하고 있다.
+  
+ - M-137 개틀링건 :[[wiki:"헤비 머신건#s-2" 헤비 머신건]]([[메탈슬러그 시리즈]])[* 탄두 부분. 던파 초기에는 관통도 안되는 좁쌀이었지만 패치되면서 길쭉해졌다.]
+http://images2.wikia.nocookie.net/__cb20120727105045/metalslug/images/b/b8/Eri_with_heavy_machine_gun.gif
+
+ * 버스터 빔 : 레이저 난사 부분이 [[아이언맨 2]]의 레이저 빔과 유사. ~~[[wiki:"메카닉(던전 앤 파이터)/스킬#s-2.2.4"|헬 마치]]를 처부수는 가완거~~
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/MZWzf3h50LU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/MZWzf3h50LU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+ * 버스터 빔 : 레이저 발사 부분은 [[톱을 노려라2!]]의 버스터 머신 7호의 기술 버스터 빔과 목소리 톤, 자세까지 동일.
+(2분 10초경 부터) 개편으로 인해 아이언맨을 연상시키는 난사 부분이 삭제되고 버스터 빔 자체가 "점프-빔 사격"으로 변하면서 이 쪽과 더욱 더 유사해졌다(...).
+{{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/m6jM5MsQwMc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/m6jM5MsQwMc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+=== 스핏파이어 ===
+== 마법사 ==
+=== 마도학자 ===
+ * 메가드릴(마도학자) : 러쉬 드릴([[록맨]], [[배리어블 시리즈]])
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=49EA1F53502E0425F0C7EAEEFB71A5BD30BF&outKey=V1297ad70a310f6415a3a0fc3b833223888e972c411a8891029690fc3b833223888e9' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer83068' id='NFPlayer83068' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 빗자루 스핀 : 모모 크래시(카루이자와 모모, 불타라 저스티스 학원)
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=A46C14F50E081371C3541F01A114F87FB00B&outKey=V12468c046dfff0f5c19b9768e0400be212f43dd376d18964c1bb9768e0400be212f4' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer59372' id='NFPlayer59372' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+== 프리스트 ==
+ * 럭키 스트레이트 : '천지를 먹다 2'에서 '장비'가 사용하는 ↓↑A 커맨드의 스트레이트
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=A35B395440F5AD40D2C657707F7CE007402B&outKey=V12220f0ea8feaf9fe295d6674955473b1ce36afc310f6d04e0b4d6674955473b1ce3' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer21065' id='NFPlayer21065' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+ * 낙봉추 : 뒤흔들기(칸자키 쥬죠, [[월화의 검사]])
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=7AAC45F35578B72E2BE89FBAC37C07F8CBB8&outKey=V122c022677b55ba0845c539917a6a68d3809c5c7de23cb4c4438539917a6a68d3809' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer23266' id='NFPlayer23266' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+=== 크루세이더 ===
+
+=== 인파이터 ===
+ * 더킹 대시 후의 어퍼와 스트레이트 : 스트리트 파이터의 더들리가 사용하는 동명의 기술들.
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=1D32A0B8B6AC50CFACB7D41513C0FD20B457&outKey=V127c0e9e80f9681e36946f850d20745d59cd05c9c04c54cc87946f850d20745d59cd' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer18309' id='NFPlayer18309' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 홀리 카운터 : 크로스 카운터(더들리, 스트리트 파이터)
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=5EE5B2865270307FF52C642688AD465964CB&outKey=V12671ae10c8348ac028067917655211838b40a9c32b30ca8c04d67917655211838b4' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer914' id='NFPlayer914' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 머신건 잽 : 머신건 블로우(더들리, 스트리트 파이터).
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=4C6F1763F416309916BFE3D044BAABB63529&outKey=V122709d8832bf3df8033e02f448c29271f60ec46c00e81d8f35fe02f448c29271f60' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer16726' id='NFPlayer16726' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 사이드 와인더 : 뱀술사([야마자키 류지], 아랑전설 시리즈, KOF)
+http://www.fightersgeneration.com/characters4/yama-m.gif
+
+ * 허리케인 롤 : 롤링 썬더(더들리, 스트리트 파이터)
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=8F40AE8983BA77751AD7C1F6A770F77C5E95&outKey=V123a00746d110bece23b5b6d9c178be3077593fceb3458fe1efa5b6d9c178be30775' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer96025' id='NFPlayer96025' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 빅뱅 펀치 : 갓처 블로우(콩맨, 테일즈 오브 데스티니R)
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=13D150A451A1CD7518F81A62D6E23EE0E922&outKey=V1246cb0010a253854a8d72e1c42e690c74fa2afb91f14476d85272e1c42e690c74fa' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer34711' id='NFPlayer34711' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+=== 퇴마사 ===
+ * 저하늘의 별 : 냅다던지기 - 날려버리기(칸자키 쥬죠, [[월화의 검사]])
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=CC1070BCCAAC5DC46F71ED22E060EBC84556&outKey=V128e7d03c705fdc408ef41999d2fad6c232cf0aee6c6c40f4dfb41999d2fad6c232c' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer57826' id='NFPlayer57826' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+=== 어벤저 ===
+
+ * 악마화 상태의 처형 : 고어 페스트(바이스or황야를 달리는 사신의 바이스/KOF)
+http://www.fightersgeneration.com/characters4/vi-blood.gif - 말이 필요없는 싱크로율
+
+
+ * 재앙 : 벙커 버스터(멕시마/[[KOF 시리즈]])
+http://emu.flashwing.net/picture0423/kof2k/maxima/c21.gif
+
+== 도적 ==
+ * 도적에 연계점수... [[wiki:"도적(WOW)" 어디서 많이 보지 않았는가?]]~~기력이라도 나올기세~~
+ * 도적의 대쉬 공격 :  [[던전 앤 드래곤(게임)]] 의 시프와 [[캡틴 코만도]]의 제너티.
+attachment:a6.gif
+ * 이레이저 : 던전 앤 드래곤 SOM에 나오는 도적의 백 스탭 공격.
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6329FD74D497494BDA1A79A8557720B4E334&outKey=V125f9660483d0248282ec237d715d4e11fb6535398e3c2ff9b24c237d715d4e11fb6' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer95818' id='NFPlayer95818' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+=== 로그 ===
+ * 허리케인 : 캡틴 코만도 제네티의 메가 크래시.
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6844668B7B6EDA69D838ED51FD7A4A9AC4E9&outKey=V1291e68c38400bf12ada675b389fa5c322ed6ab1be3c21f8328d675b389fa5c322ed' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer80548' id='NFPlayer80548' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+
+ * 브레이킹 러시 : [아수라섬공](고우키, 스트리트 파이터 시리즈)
+
+http://www.fightersgeneration.com/characters/akuma-ts-tele.gif
+
+ * 버티컬 스파이럴 (지상) : 초열파탄(앤디 보가드, 아랑전설 & KOF)
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=B8DB330FB223095377D8675B389FA5C322ED&outKey=V127a48f8409c69c02119e50ae6113d7ae8a6b7bbbc9b8f3e57ebe50ae6113d7ae8a6' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer83269' id='NFPlayer83269' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+=== 사령술사 ===
+ * 야행혼 : 비전 환몽원령벽(듀오론, KOF). 기술의 성격은 다르나 이펙트가 흡사.
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=B662D8965691D141A4811348D2503C6D9220&outKey=V1210b878e0db2fcf7f011b6811099841c5e050a04b3084878c641b6811099841c5e0' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer14116' id='NFPlayer14116' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+ * 니콜라스의 거미줄 굴리기 공격 : 디오 세이거(제다 도마, 뱀파이어 시리즈). 이쪽도 말이 필요없는 싱크율을 자랑한다.
+http://images.uncyc.org/pt/3/31/Jedahc05.gif
+
+== 나이트 ==
+
+=== 엘븐나이트 ===
+ * 가디언 라이딩 : [[캡콤]]제 [벨트스크롤 액션게임]의 마상(馬上)시 조작법과 유사하다.
+ 방향전환이라던가, 후방공격스킬이라던가, 대쉬스킬이 따로있다던가 하는 점은 완벽하게 [천지를 먹다 2] 혹은 [나이츠 오브 더 라운드]의 그것. 
+
+ * 뱅가드 스트랏슈 : [아방 스트랏슈]와 비슷하다. 검을 쥐는 자세라던가, 이펙트, 네이밍 센스 등.
+
+=== 카오스 ===
+ * 천공검 : [초전자머신 볼테스 V]의 주역메카,[볼테스 V]의 천공검 V자베기. 이름부터 이펙트까지 그대로 가져왔다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/UtXpwun3i20?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/UtXpwun3i20?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+ * 악신난무 : [죠죠의 기묘한 모험]의 [wiki:"무다무다" 무다무다러쉬]. 제작진들이 직접 시인했다.
+
+=== 드래곤나이트 ===
+=== 팔라딘 ===
+
+== 기타 ==
+ * 무한의 제단의 10라운드 보스 중 하나인 '''캄페라'''는 '''모든 패턴이 킹 오브 드래곤즈의 보스 중 하나인 그레이트 드래고니안과 전부 일치'''한다. 생긴 것도 비슷하다. 사실상 그냥 그대로 가져와서 쓴 경우. [http://www.spriters-resource.com/community/showthread.php?tid=1600 갑옷입은 용인 + 한손 검('''윕소드''') + 방패]  {{{#!html
+<embed src="http://www.youtube.com/v/7FHaul1SbYs?fs=1&start=473&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed>
+}}}
+
+ * [야간습격전]의 요기 로베르와 배경의 코끼리는 마치 [스트리트 파이터 2]의 [달심]스테이지를 연상시킨다.
+
+ * 구 오데사 시가전 배경음악은 DMZ 비무장지대 영화의 OST를 거의 그대로 가져와서 사용했다.
+
+ * 사라 브리트리만의 음원을 그대로 가져와서 사용했다는 의혹을 받고있다가 나중에 아예 폴더에서 삭제됐다. 아간조 던전이 추가됐던 시점에 사라 브리트리만의 음원이 추가됐었다.
+ - How Fair This Place (Temp_grozny.ogg) 
+ - It's a Beautiful day (Temp_odesa.ogg)
+
+ * 3차 이계 던전 중 하나인 [바칼의 성]의 보스방 BGM은 [The Liberation of Gracemeria]와 '''진행이 완전히 같은''' '표절곡'이다. 3차 이계던전 업데이트 바로 직후 제기된 의견. ~~'''이것도 오마주인가요?'''~~
+ {{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/YhdNjzX4waA?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/YhdNjzX4waA?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+ * 앞서 소개한 BGM 뿐 아니라 몇몇 몬스터의 음성의 경우 (스켈레톤, 거미류) 의 대사를 추출해 자세히 들어보거나 역재생 시켜본 결과 [[스타크래프트]] 의 [[히드라리스크|몇]][[제라툴|몇]]유닛의 사운드를 그대로 가져다 쓴 것이었다. 실제로 흑요정 묘지가 존재하던 시절 스켈레톤을 잡을 때 대부분의 유저가 방귀소리 (...) 비슷한 소리를 들어본 적 있을텐데 이것과 중얼중얼 거리는 대사가 제라툴의 대사를 살짝 편집한 대사이다.
+
+ * 포츈 코인 : [악마성 드라큘라 X 월하의 야상곡]에 나오는 봄버 코인이 5:5 확률로 치료 or 데미지를 주는 아이템이다.
+
+ * [용암굴]의 배경음악은 에우레카7 O.S.T 디스크2 10번트랙 M-15와 지나치게 유사하다. 용암굴 업데이트는 2006년도, 에우레카 7은 2005년도에 방송했었다.
+
+ * 소울브링어의 장판 스킬 아이콘이 워크래프트에 나오는 [데스 나이트]의 데스 코일 아이콘과 지나치게 유사하다.
+
+ * [슬로트 발전소] 스테이지는 [던전 앤 드래곤 쉐도우 오버 미스타라]의 부유성결전 스테이지와 진행방향이 반대일 뿐, 진행방식이나 스테이지 구성이 같다. 동일한 방식의 스테이지가 [[록맨 X 시리즈]]에서도 사용된 바 있다.
+여담이지만 이러한 진행방식은 원래 하늘성에 사용될 예정이었다가 당시 프로그래밍의 한계로 구현되지 못했다고 한다.
+하늘성의 배경 디자인을 슬로트 발전소에 대입시켜 던전 앤 드래곤의 예의 맵과 비교해보면 초기의 하늘성 던전들을 어떠한 형식으로 만들고자 했었는지 대충 추측이 가능하다.
+
+ * 던파 초기부터 결투장에서 레디시 나오던 "ready and waiting" 대사는 [[C&C]] [[레드얼럿]] 1의 보병 선택시 음성 파일을 그대로 가져왔다.
+
+ * 콤보 후 나오는 "alright" 나레이션의 경우 [[워크래프트 3]]의 [[마운틴 킹]] 생산시 대사의 음성 파일 앞부분만 잘라서 그대로 가져왔다. 
+
+ * [[겐트 남문]]의 보스 GT-9600은 [[건담 레오파드]]의 형식번호.
+
+=== 쿠노이치 표절 사건 ===
+
+http://i.imgur.com/5vfsGlZ.gif http://i.imgur.com/l0qdIyk.gif
+http://i.imgur.com/PpReei7.gif http://i.imgur.com/vOsq6K5.gif
+
+[[각주]]

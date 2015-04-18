@@ -1,0 +1,41 @@
+[[목차]]
+
+== 정보 ==
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || [["트랜스(음악)" Progressive Trance]] ||
+|| 작곡 || [[XeoN]] ||
+|| 일러스트 || XnP ||
+
+== 소개 ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Wa81Ytyc2q0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/d2ttJOFtNbc?list=PLVu6eQqelUnlMzHB2lgWi4U0OvkUpGAJ0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+
+DJMAX RAY 안드로이드 버젼 출시와 동시에 안드로이드 한정으로 추가된 Next Wave 번들의 히든곡. 
+[[Xeronion]]의 트위터에 곡이 업데이트 되기전에 아이캐치가 먼저 올라왔었다.
+곡의 정체는 [[Dark Lightning]]과 마찬가지로 [[S4리그]]의 다크 라이트닝 패치의 인게임 트레일러에 삽입되었던 곡이다. 또한 나이트메어라는 맵의 캡틴 모드 BGM이기도 했으나, 현재는 [Dual Strikers] 락버전으로 통일된 듯. [안습].
+ 
+[[XeoN]]의 주력 장르인 트랜스곡이지만 기존에 주로 작곡하던 Melodic Trance와는 다른 Progressive Trance. 초반부분이 컷팅되어 수록되었다.
+
+[[목차]]
+== 곡 개요 ==
+|||||||||| [DJMAX RAY]의 Next Wave 팩 수록곡 ||
+|| [[Someday]] || [[Love is Beautiful]] || [[Good Bye]] || [[In my Dream]] || '''Dark Ages''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 6 ||||
+||<#0000FF> {{{#white HD}}} || 7 ||사기곡||
+||<#FF0000> MX || 9 ||||
+
+{{{#!HTML
+
+}}}
+
+[[추가바람]]

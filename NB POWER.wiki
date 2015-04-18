@@ -1,0 +1,39 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 작사, 작곡 || [[NieN]] ||
+|| 보컬 || [[NieN]] ||
+|| 비주얼 || [[ECO]] ||
+|| 장르 || AniRock ||
+|| BPM || 185 ||
+
+|||||| [[NB Ranger 시리즈]] ||
+|| [[NB Ranger]] || [[NB Rangers:Returns]] || '''NB POWER''' || 
+|| [[Dark Envy Knight]] || [[NB Girls]] || [[NB Ranger : NonStop Remix]] || 
+|||||| 번외 : [[Mind Control]] ||
+
+{{{#!HTML
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/1A9UUCXHeFc&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1A9UUCXHeFc&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+온라인 시절의 BGA, 여기선 후술할 Ladymade Storm이 없다. 포터블 2의 것은 [http://youtu.be/-t69YSffQeM 이곳]을 볼 것.
+
+[[NB Ranger 시리즈]]의 3번째 곡.
+전작들과는 다르게 메탈풍의 곡으로, 오리지널 NB Ranger 시리즈에서 가장 빠른 곡...이었으나 뒤이어 나온 [[Dark Envy]]에 그 자리를 내주게 되었다.
+
+BGA 상의 내용은 전체 NB Rangers 시리즈 중에서 가장 웃기고, 지저분하다(...) ECO 특유의 화풍이 제대로 먹힌 곡. [[Astro Fight]]의 그것과 거의 유사하다. 문제는 [[캡콤]]의 [[뷰티풀 죠]]와 위험하게 유사하다는 것. 포즈마저 똑같다.
+
+중간에 건물에 있는 광고간판에서 [[Ladymade Star]]의 쌍둥이 자매가 출연하는데 그림체덕분에 코믹한 모습으로 나온다. 거기다가 제목도 Ladymade Storm로 은근슬쩍 바뀌어있다. 다만 이러한 자체 패러디는 DJMAX 온라인판 BGA에서는 삭제되었다. DJMAX Trilogy판은 DJMAX 온라인판의 BGA를 따랐기 때문에 트릴로지에서도 이런 패러디를 볼 수가 없다. 마찬가지로 [[Astro Fight]]의 횽도 [[태권부리]]도 포터블2에만 까메오로 나온다.
+
+패턴상의 특이점으로는, 기타 리프가 죄다 롱놋으로 도배되어 있기 때문에 콤보빨을 제대로 받아 점수가 하늘 높은줄 모르고 쑥쑥 올라가는 모습을 보인다. 이러한 특징을 전적으로 보여주는 예가 [[DJMAX Portable 2]]의 5키 MX 패턴과 [[DJMAX Trilogy]]의 7키 HD 패턴.
+
+[[DJMAX Portable 2]]의 악명 높은 미션인 [JUST 1%]에서 두번째로 등장하는 곡이기도 한데, 4 스테이지의 롤덕보다는 아니지만 은근히 1% 판정이 많이 나올정도로 최적화된 BPM 때문에 엄청난 스트레스를 유발한다. 게다가 이게 NM이 아닌 MX다. 마지막 스테이지인 [Rolling On the Duck] 8B는 실수로 MX 를 넣었다 하더라 치더라도 이 곡까지 이런 건 너무한 게 아닐까...?
+
+[[TAP SONIC]]에서도 등장하는데, 6라인 레전드 기준 9레벨이지만 '''이게 9레벨이라고?''' 싶을 정도로 자비없는 폭타가 쏟아지는 바람에 9레벨 상급에 속한다.
+
+[[DJMAX 온라인]] 최후의 업데이트 곡이기도 하다. [[Hey! There]] 이후 1년 3개월 만에 업데이트된 곡이었고, 그나마 서비스 종료가 이미 고지된 상태에서 업데이트된 것이라 유저들은 좋아해야 할지 슬퍼해야 할지 모를 당황스러운 기분으로 곡을 플레이했다. 그런데 그나마도 업데이트 초기에는 아래 영상처럼 음원이 비정상적으로 출력되었다.
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='ktOfzM8bGT0$' width='642px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=ktOfzM8bGT0$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=ktOfzM8bGT0$' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+[[키음]]으로 직접 연주하는 부분과 보컬을 빼고는 안 나온다. 비록 며칠 안 지나서 수정되기는 했지만 서비스 종료가 얼마 안 남은 상황에서 무슨 의미가 있으랴...

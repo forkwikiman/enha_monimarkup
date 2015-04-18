@@ -1,0 +1,51 @@
+http://vjarmy.com/wiki/images/6/64/Ee_COLLEGE_POP.png
+
+'''페퍼민트는 나의 적'''
+
+[[ee'MALL]]의 수록곡. 영문명은 The peppermint is my enemy로, 팝픈뮤직 담당 캐릭터 소개 화면에 나와 있다.
+
+작곡가는 [wac], 보컬은 [토키와 유우]. 기타 연주는 [World Spider Web] 등을 연주했던 [Risette] 소속의 모리노 세이치 담당.
+
+[[목차]]
+
+== [[기타프릭스]] & [[드럼매니아]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/fdau-Qa35XE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [GITADORA] 난이도 체계 ||
+||<|5><:> 162~170 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || 
+|| {{{#green 18}}} || {{{#orange 46}}} || {{{#red 57}}} ||<|2><:> {{{#blue 3.15}}} ||<|2><:> {{{#orange 4.95}}} ||<|2><:> {{{#red 6.00}}} ||
+|| 기타 오픈픽 || {{{#green 19}}} || {{{#orange 46}}} || {{{#red 62}}} ||
+|| 기타 베이스 || {{{#green 15}}} || {{{#orange 41}}} || {{{#red -}}} || {{{#blue 3.70}}} || {{{#orange 5.15}}} || {{{#red 6.80}}} || 
+|| 드럼매니아 || {{{#green 22}}} || {{{#orange 43}}} || {{{#red 65}}} || {{{#blue 3.25}}} || {{{#orange 5.30}}} || {{{#red 6.60}}} || 
+
+첫 수록은 GF 10th & DM 9th로, V3에 통상해금되었다. XG 수록은 [XG3].
+
+클래식 시리즈 BGA는 처음엔 범용이었다가 V4에 MASTERPIECE GOLD의 BGA가 이식되었다. 그리고 V3때까진 이 곡으로 세션 플레이를 하지 못했다.
+
+[GITADORA]에선 범용 BGA.
+
+== [팝픈뮤직] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/57N8skPl8Zs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+純情さわやかギターポップは疾走する。歌声響けラララ。
+순정 산뜻하게 기타팝은 질주한다. 노랫소리 울려라 랄랄라.
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n Music 9 [[br]] (ee'MALL) || COLLEGE POP[[BR]] 콜레지 팝 || ペパーミントは私の敵[[br]]페퍼민트는 나의 적 || 常盤ゆう [[BR]] 토키와 유우 || risette [[BR]] 리세트 ||
+
+|| [[BPM]] || [wiki:"팝픈뮤직/난이도 체계"난이도] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 162~170 || 43단계 || {{{#blue 8}}} || {{{#green 16}}} || {{{#orange 28}}} || {{{#red 35}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 22}}} || {{{#orange 34}}} || {{{#red 41}}} ||
+|||| 노트수 || {{{#blue 235}}} || {{{#green 336}}} || {{{#orange 671}}} || {{{#red 835}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+9에 첫 수록되었다가 14 FEVER!에 통상해금으로 변경되었다.

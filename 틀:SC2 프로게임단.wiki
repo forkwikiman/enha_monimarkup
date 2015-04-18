@@ -1,0 +1,18 @@
+||<tablealign=center><#000000><-33> '''{{{#white 스타크래프트 2 프로게임단}}}''' ||
+|| '''국적''' ||<-12> '''활동''' ||<-20> '''해체''' ||
+||<|3> attachment:Kr.png ||<-4> ["SKT T1"attachment:SKT1logo_std.png] ||<-4> ["KT 롤스터"attachment:3Rolsterlogo_std.png] ||<-4> ["CJ 엔투스"attachment:CJEntuslogo_std.png] ||<-4> ["위메이드 폭스"attachment:WeMadeFOXlogo_std.png] ||<-4> ["Rising Star(프로게임단)"attachment:Risingstarlogo_std.png] ||<-4> ["oGs"attachment:OGslogo_std.png] ||<-4> ["ZeNEX"attachment:ZeNEXlogo_std.png] ||<-4> ["SlayerS"attachment:SlayerSlogo_std.png] ||
+||<-6> ["삼성 갤럭시 칸"attachment:Samsung_galaxy_std.png] ||<-6> ["진에어 그린윙스"attachment:Green_Wings_std.png] ||<-5> ["공군 ACE"attachment:ACElogo_std.png] ||<-5> ["MJ Team"attachment:MJTeamlogo_std.png] ||<-5> ["TSL"attachment:TSLlogo_std.png] ||<-5> ["NS호서"attachment:HoSeologo_std.png] ||
+||<-4> ["Prime"attachment:Primelogo_std.png] ||<-4> ["MVP(프로게임단)"attachment:MVPlogo_std.png] ||<-4>  ["StarTale"attachment:Startalelogo_std.png] ||<-4> ["fOu"attachment:FOulogo_std.png] ||<-4> ["SouL"attachment:Soul_std.png] ||<-4> ["웅진 스타즈"attachment:Woongjinlogo_std.png] ||<-4> ["Azubu/스타크래프트2"attachment:Azubulogo_std.png] ||<-4> ["Incredible Miracle"attachment:IMlogo_std.png] ||
+||<|2> attachment:Us.png ||<-6> ["Evil Geniuses"attachment:Eglogo_std.png] ||<-6> ["compLexity Gaming"attachment:Complexitylogo_std.png] ||<-20><|2> ["Quantic Gaming"attachment:Quantic_std.png] ||
+||<-6> ["Axiom"attachment:Axiomlogo_std.png] ||<-6> ["ROOT Gaming"attachment:Rootlogo_std.png] ||
+|| attachment:Nl.png ||<-12> ["Teamliquid"attachment:Liquidlogo_std.png] ||
+|| attachment:Be.png |||||||||||||||||||||||| ||<-20> ["Western Wolves"attachment:WesternWolvesLogo_std.png] ||
+|| attachment:Uk.png ||<-6> ["Fnatic"attachment:Fnaticlogo_std.png] ||<-6> ["Team Dignitas"attachment:Dignitaslogo_std.png] ||
+|| attachment:De.png ||<-4> ["mousesports"attachment:Mouzlogo_std.png] ||<-4> ["Team Acer"attachment:Acerlogo_std.png] ||<-4> ["Team ROCCAT"attachment:Roccatlogo_std.png] ||<-20> ["SK Gaming"attachment:Sklogo_std.png] ||
+|| attachment:Fr.png ||<-6> ["Millenium"attachment:Milllogo_std.png] ||<-6> ["against All authority"attachment:Aaalogo_std.png] ||
+|| attachment:Ch.png ||<-12> ["mYinsanity"attachment:Myinsanitylogo_std.png] ||
+|| attachment:Es.png |||||||||||||||||||||||| ||<-20> ["Karont 3 e-Sports Club"attachment:Karont3_std.png] ||
+|| attachment:Ru.png |||||||||||||||||||||||| ||<-20> ["Team Empire"attachment:Empirelogo_std.png] ||
+|| attachment:Cn.png ||<-12> ["Invictus Gaming/스타크래프트 2"attachment:IGlogo_std.png] ||<-20> ["World Elite"attachment:Welogo_std.png] ||
+|| attachment:Tw.png ||<-12> ["yoe Flash Wolves"attachment:Flash_wolves_std.png] ||<-20> ["Gamania Bears"attachment:Gamabearslogo_std.png] ||
+|| attachment:Au.png |||||||||||||||||||||||| ||<-20> ["FXOpen"attachment:FXOlogo_std.png] ||

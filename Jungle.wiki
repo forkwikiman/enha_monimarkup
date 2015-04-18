@@ -1,0 +1,77 @@
+||<-2><#99FFFF><:>'''GuitarFreaks V6 & DrumMania V6 BLAZING!!! Extra Rush''' ||
+||<#FFA500> EXTRA 1 || '''[[Rock to Infinity]]''' ||
+||<#FFA500> EXTRA 2 || '''[[OVER THE LIMIT!]]''' ||
+||<#FFA500> EXTRA 3 / ENCORE 1 || '''[[風神雲龍伝]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 2 || '''[[Driven Shooter]]''' ||
+||<#FFA500> EXTRA 5 / ENCORE 3 || '''[[Walnuts]]''' ||
+||<#FFA500> EXTRA 6 / ENCORE 4 || '''[[Chronos]]''' ||
+||<#FFA500> EXTRA 7 / ENCORE 5 || '''[[恐怖の右脳改革]]''' ||
+||<#082567> {{{#white ENCORE 6}}} || '''Jungle''' ||
+||<#FF0000> '''PREMIUM ENCORE''' || '''[[Sonne]]''' ||
+||<#99FFFF> '''BLAZING''' || '''[[Sky(비마니 시리즈)|Sky]]''' ||
+
+[[기타프릭스]] & [[드럼매니아]] V6 수록곡.
+
+attachment:jungle.jpg
+
+{{{#!html
+<object width="600" height="437"><param name="movie" value="http://www.youtube.com/v/HRN-Jl4YMrc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/HRN-Jl4YMrc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="345" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+▲국내 탑랭커 [[GR_DDX]]의 V6 플레이 영상.
+
+
+{{{#!html
+<object width="600" height="437"><param name="movie" value="http://www.youtube.com/v/RuALXz3paMI?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/RuALXz3paMI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="437" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+▲일본 탑랭커 E.S.T의 XG2 플레이 영상. ~~우뤠에에에으에이에이~~
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 160 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 74}}} || {{{#orange 89}}} || {{{#red '''99'''}}} ||
+|| 기타 오픈픽 || {{{#green 76}}} || {{{#orange 88}}} || {{{#red '''99'''}}} ||
+|| 기타 베이스 || {{{#green 62}}} || {{{#orange 75}}} || {{{#red 88}}} ||
+|| 드럼매니아 || {{{#green 48}}} || {{{#orange 86}}} || {{{#red '''97'''}}} ||
+
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 160 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 4.50}}} || {{{#orange 6.10}}} || {{{#red 7.80}}} || {{{#purple 9.10}}} ||
+|| 기타 베이스 || {{{#blue 4.45}}} || {{{#orange 6.60}}} || {{{#red 8.00}}} || {{{#purple 8.50}}} ||
+|| 드럼매니아 || {{{#blue 4.90}}} || {{{#orange 7.20}}} || {{{#red 9.40}}} || {{{#purple '''9.90'''}}} ||
+
+
+2009년 8월 21일 Extra level이 10으로 올라가며 앙코르 스테이지에 등장.
+이후 V6 가동 종료까지 해금조건이 대폭 완화된 채로 앙코르 스테이지에 남았다.
+
+
+작곡은 [[이즈미 무츠히코]]와 [[Jimmy Weckl]]의 합작.
+
+기타드럼 재즈 곡중에서도 처음 선보이는 프리재즈 형식의 곡이다.
+
+난이도는 6대 97[* [[Herring roe]], [[아이들의 낙서장]], [wiki:"MODEL DD 시리즈" MODEL DD4], [[over there]], [[ENCORE CONQUEST]], Jungle] 중에서도 '''최강'''. 쉴새 없이 쏟아지는 애매한 박자의 심벌 3연타에 종종 콤보를 끊어먹기 일쑤인 24비트 스네어 연타가 길게 나오는 데다가 베이스까지 같이 처리를 해줘야 한다. 특히 중반부분의 24비트 스-하-로 연타는 웬만한 숙련자들도 콤보를 끊어먹고 가는 구간.
+
+처음 앙코르 스테이지로 등장했을 당시에는 '''97'''도 사기고, 98은 줘야 한다는 의견도 있었을 정도. 개인차에 따라 98짜리 곡인 [[wiki:"MODEL FT2" MODEL FT2 Miracle Version]]보다 어렵다고 느끼는 유저들도 다수.
+
+기타프릭스 쪽도 어렵긴 매한가지. 이즈미옹 특유의 속주에 넥 변환까지 신경써야 하는 까다로운 곡이 되었다. 앞에 언급한 속주는 16분 환산 BPM '''240'''에 이르는 무지막지한 속주다. 그 밖에도 뭐 그냥 많이 어렵다 (...)
+
+XG에서는 기타와 베이스는 난이도 기준이 좀 낮아졌으나, 드럼의 마스터 채보는 '''9.60'''이라는 위엄쩌는 난이도를 자랑하면서 많은 플레이어들의 정신 상태를 정글 속으로 끌고 들어갔다. 게다가 XG3에서 '''9.80''', GITADORA에서 '''9.90'''으로 난이도 상향[* [[Brown blizzard]] 마스터 채보, [[A.DOGMA]] 마스터 채보와 동급이다.], V시리즈에서의 난이도 책정은 어느 정도 저평가였다는 것이 증명(?)되었다.
+
+== 코멘트 ==
+
+>어느 날, 새로운 장르의 보스곡을 만들어 달라는 의뢰를 받았습니다.
+>새로운 장르의 보스곡? 그것 참, 곤란했다. 
+>지금까지 만들어 본 적이 없는 장르라니 뭐야?
+>
+>그래! 프리 재즈는 기타도라 시리즈에는 1곡도 들어가 있지 않아. 
+>그렇다고 하는 것으로 만들 수 있었던 것이 이 곡! 입니다.
+>
+>그리고 프리 재즈에 피아노가 빠지면 곤란하죠. 
+>아방가르드한 피아노를 톡톡 튀게 만들어 줄 수 있는 건 Jimmy 씨 밖에 없다고 생각해, 즉시 부탁했어요.
+>
+>프리 재즈만의 배짱인 아슬아슬인 플레이, 최고군요~. 역시 대단합니다!
+>클립에도, Jimmy 씨와 내가 등장하고 있어요.
+>아직 본 적 없는 사람은 반드시 체크다~~!

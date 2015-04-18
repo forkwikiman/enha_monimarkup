@@ -1,0 +1,23 @@
+<<include(틀:IIDX 특수해금)>>
+
+[[비트매니아 IIDX 14 GOLD]]에 등장하는 엑스트라 룸. 전작 DistorteD의 [[CARDINAL GATE]]의 엑스트라 시스템 비슷하게 이번 작품에서는 VIP ROOM이라는 모드가 선보여졌다. 콘셉트는 90년대 클럽의 'VIP 룸'.
+
+[[e-AMUSEMENT PASS]]를 통해서만 플레이 할 수 있으며 VIP ROOM에 들어갈 때 GP를 내고 곡을 고를 때 GP를 또 내야 하는 조건이라 당시 불만을 가지는 이들도 있었다. 특이한 것은 VIP ROOM에 들어갈 때 내는 GP는 플레이한 곡의 난이도에 따라 줄어든다는 것.
+
+ * VIP Room 등장 조건 : 각 조건을 모두 만족해야 등장한다.
+  * Silver Room : [[DJ YOSHITAKA]]-G feat. [[Michael a la mode]] - [[GOLD RUSH]]
+   * 특정 난이도로 30곡 이상을 클리어
+   * 1700 GP 지불. 
+  * Gold Room : [wiki:"dj TAKA" Risk Junk]-G - [[Candy Galy]]
+   * 특정 난이도로 60곡 이상을 클리어
+   * [[GOLD RUSH]]를 하드 모드로 A랭크 이상 클리어
+   * 1700 GP지불
+  * Platinum Room : [[L.E.D.]]-G - [[電人、暁に斃れる。]]
+   * 특정 난이도로 90곡 이상을 클리어
+   * IIDX 레코드에 있는 곡 5곡을 같은 난이도로 클리어
+   * CANDY GALY를 하드모드로 랭크 A 이상으로 클리어
+   * 1700 GP지불 
+  * Black Room : [[good-cool]] - [[Sense 2007]]
+   * 세가지 Room을 모두 클리어.
+
+후에 이 VIP ROOM 시스템 내 곡들은 전부 [[e-AMUSEMENT PASS]] 플레이어 한정으로 일반 모드에서도 플레이 할 수 있게 되었다.

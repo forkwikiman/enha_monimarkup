@@ -1,0 +1,48 @@
+[[목차]]
+= [[EZ2DJ]]의 수록곡 =
+|| 장르 |||||||| Melodic Trance ||
+|| 곡명 |||||||| The Luna ||
+|| 작곡 |||||||| Triple Spade (=[[Applesoda]]) ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 타이틀 |||||||| [[NaXie]](BE) [[br]] [[Mutant]](BE rA) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|| BPM |||||||| 150 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 14}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange ?}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+== 개요 ==
+[[EZ2DJ 7thTRAX BONUS EDITION]]의 수록곡. 작곡은 이 곡의 표지에 Triple Spade라 표기되어 있는데 실제 작곡가는 [[없잖아]], [[주문을 외워봐]] 등을 작곡한 Applesoda.
+
+BONUS EDITION 초기판에서는 타이틀 그림으로 한때 [[리듬게임]] 관련 블로그를 운영하던 NaXie[* http://blog.naver.com/gustn5755 리듬게임에 관한 정보 및 데이터 정리를 하는 것으로 유명했던 사람으로  특히 [[비트매니아 IIDX]],[[EZ2DJ]],[[DJMAX]]의 전곡 데이터베이스 정리 및 현재로서는 아직 마이너게임에서 벗어나지 못하고 있는 [[Sabin Sound Star]]의 게임 데이터 및 퀘스트 정보를 정리해 뒀기도...[[BMS]]의 입문을 도와주는 잘 정리된 가이드 포스팅이 있었으며, 이를 통해서 리듬게임 입문자가 증가하기도 했다. 2011년 2월 7일자로 블로그를 닫는다는 공지를 올렸다.]
+
+[[EZ2DJ : AZURE EXPRESSION]]에서 라이센스 만료로 삭제되었다.
+BE에만 수록되기로 계약을 했었기 때문.
+== 패턴 ==
+ * '''5 STREET MIX'''
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/KQVNrgUbPY4" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX
+
+난이도는 노멀 11이었다가 BE rA때 10으로 하향. 정말 심각할 수준의 재미없는 패턴이며, 중반까지는 거의 노트가 없어 무슨 느낌인지도 없다. 초중반까지는 키노트보다 스크, 페달노트가 더 많은 정도다. 후반부의 16비트 계단패턴도 그리 위협적이지도 않다. BE rA에서 하드 패턴이 따로 추가되었다. 난이도는 13인데 같은 13난이도의 곡 중에서 어려운 축에 속한다. [[LOKI]]와 함께 따닥이 연타가 매우 잘 되어 있는 곡이다.
+
+ * '''7 STREET MIX'''
+ * '''10 CLUB MIX'''
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/XIocIcVPCRU?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/XIocIcVPCRU?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM MIX
+
+ * '''14 SPACE MIX'''
+스페믹에선 [[Irregular Liner]]와 [[Rosen Vampir]]와 함께 3스테이지에서 등장.
+ * '''EZ2 CATCH'''
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/fFay6AsQEls?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/fFay6AsQEls?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+단일패턴이며, 난이도는 13치고는 쉽다. 경우에 따라서는 물렙으로 평가받기도 한다. 비비는 구간이 그리 많지 않으며 계단식 패턴이 주를 이루고 있기 때문에 상대적으로 더 쉬워 보인다. 중반 이후부터 간간히 나오는 겹노트는 13레벨 유저들에게 큰 위협이 되는 수준도 아니다. 포션 구간이 워낙 많다보니 깎인 게이지는 계단식 패턴에서 채울 수 있기 때문이다.

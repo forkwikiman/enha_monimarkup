@@ -1,0 +1,89 @@
+[[목차]]
+|| 최초 수록 버전 || [[Sabin Sound Star]] ||
+|| 장르 || (미표기) ||
+|| 작곡 || [[Lubinn]] ||
+|| 배경 || [[creent]] ||
+|| BPM || 127 ||
+
+== 개요 ==
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/_yVsq_9Jz5M?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/_yVsq_9Jz5M?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+'''[[Sabin Sound Star]] BGA'''
+
+{{{#!HTML
+<iframe width="420" height="349" src="http://www.youtube.com/embed/YNccvtXV24k" frameborder="0" allowfullscreen></iframe>
+}}}
+'''3S Arcade HD패턴'''
+
+[[Sabin Sound Star]], [wiki:"EZ2DJ 7thTRAX BONUS EDITION" EZ2DJ BE]의 수록곡. 라틴 기타와 퍼쿠션을 사용하여 트렌디한 편곡을 연출했다. 작곡가 Lubinn이 직접 부른, 제목 그대로의 사랑에 관한 말들이 가사에 담겨 있다.
+
+[[creent]]가 제작한 BGA는 싱크가 산으로 가는 3S BGA들 중에서도 곡과 잘 맞는 영상으로 평가받는다. 화려한 면은 적지만[* 보다시피 가사 돌림] 가사에 맞춰서 역동적인 타이포그래피 연출 센스를 발휘한 게 곳곳에 보인다  특히 중간의 이펙터 먹인 부분의 소리를 그대로 BGA에 집어넣었다. ~~EE도 있다.~~
+
+참고로 부르기 괜찮은 곡이라서 그런지 불러보는 사람이 한둘이 아닌 듯하다. 3S 엑스트라 퀘스트 3번에 보컬을 뺀 버전이 있으니, 고인이 된 3S를 추모하며 경건한 마음으로 부르도록 하자.
+
+== [[EZ2DJ]]에서의 Luv Message ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple 9}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple 14}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/Th7QeNjt73I?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Th7QeNjt73I?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM _ HD MIX
+
+EZ2DJ BE에서 NM 5, HD 7의 초보자용 패턴으로 등장. EV에서는 9짜리 슈하도 추가되었다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+EV 1.50에서 14레벨짜리 10키 슈하가 추가되었다. 찰진 패턴으로 호평을 받았다.
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+[[EZ2AC : EC]]에서 턴테이블 모드에 추가되었다. 난이도 11로 그동안 1스테이지에서 선곡 가능한 최고 레벨인 [[Extra Wave]]와 [[Tempus Praeterita]]랑 어깨를 같이 하나 난이도는 뒤떨어진다는 평. 다만 계단과 32비트 문지르기는 체력 유지와 동시에 올콤도 곤란하게 하니 주의.
+
+== 가사 ==
+||순간이었지 잊을 수가 없는 너의 향기 
+이대론 있을 수 없어 
+제발 그냥 스쳐 보내지마 용기를 가져 
+Um 너무나 달콤한 미소 짓는 너의 입술 
+눈에 비친 너의 예쁜 표정 
+Yeah 날 바라봐 줄래 
+내가 필요할 때마다 나에게로 와 
+  
+처음 그 순간처럼 이제 난 
+저 멀리 보이는 그 행복이 꿈이 아냐 
+언제라도 괜찮아 변함없이 
+영원히 너와의 둘만의 Luv Message 
+  
+Yeah Ah Oh a a a Ye 
+나만 봐 줄래 너의 입술 
+Ah 너의 예쁜 표정 
+Yeah ee ma ma a a 
+Oh Oh Oh Oh Oh go 
+Ah Ah Ah Ah a 
+  
+처음 그 순간처럼 이제 난 
+저 멀리 보이는 그 행복이 꿈이 아냐 
+언제라도 괜찮아 변함없이 
+영원히 너와 둘만의 Luv Message 
+  
+Yeah Ah Oh Ah Ah Ah Ye 
+나만 봐 줄래 너의 입술 
+Ah 너의 예쁜 표정 Yeah 
+Yea Yay Yeah ee ma a a  
+나만 바라봐 ah ah||

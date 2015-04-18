@@ -1,0 +1,72 @@
+ * 상위항목 : [[ZTE]]
+
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 미국 지역통신사인 Metro PCS를 통해 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 목록.
+
+각 기기정보가 전부 토막글 수준이며 주요 모델의 커스텀 모델도 아닌 별개의 모델들이다.
+
+== ZTE Score M ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/z/t/zte_score_m_7.png
+
+2012년 5월에 출시되었다. 기기명은 X500M.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 MSM7627 [[SoC]]. [[ARM]]11 600 MHz [[CPU]], 퀄컴 Adereno 200 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g, [[블루투스]] 2.1 ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1600 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.3 (Gingerbread) ||
+||규격||61.9 x 112 x 14 mm, 136 g ||
+||기타|| ||
+
+=== 상세 ===
+ZTE의 첫 Metro PCS 출시 스마트폰이다.상당히 저사양 모델이며, 원래 이 모델은 크리켓 와이어리스로 출시된 ZTE SCORE의 Metro PCS 전용 파생 모델로 출시하였다.
+
+[[각주]]
+
+== ZTE Anthem 4G ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/z/t/zte_anthem_5.png
+
+2012년 6월에 출시되었다. 기기명은 N910.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S3 MSM8660 [[SoC]]. [[Qualcomm Scorpion]] MP2 1.2 GHz [[CPU]], 퀄컴 Adereno 220 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, ~~[wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE]~~[* 기기는 지원하나 통신사가 지원하지 않는다.], [wiki:"CDMA2000" CDMA & EV-DO Rev. A][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1780 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.3 (Gingerbread) ||
+||규격||65 x 127 x 10 mm, 140 g ||
+||기타|| ||
+
+=== 상세 ===
+[[LTE]]를 지원하는 제품이다. [wiki:"LG U+"]로 출시된 1세대 [[LTE]] 스마트폰들 처럼 [[퀄컴 스냅드래곤]] S3 MSM8660을 사용하면서 LTE 지원 통신 모뎀을 탑재해 지원한다. 다만, CPU 클럭이 [[옵티머스 LTE TAG]]처럼 1.2 GHz로 다운클럭 되어있다.
+
+[[각주]]
+
+== ZTE Avid 4G ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/a/v/avid-5-screen.png
+
+2012년 12월에 출시되었다. 기기명은 N9120.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Plus MSM8960 [[SoC]]. [[Qualcomm Krait]] MP2 1.2 GHz [[CPU]], 퀄컴 Adreno 225 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]] Cat.3, ~~[wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE]~~[* 기기는 지원하나 통신사가 지원하지 않는다.], [wiki:"CDMA2000" CDMA & EV-DO Rev. A][[br]][[Wi-Fi]] 802.11b/g/n, [[블루투스]] 3.1 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 1735 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||65.5 x 124 x 12 mm, 150 g ||
+||기타|| ||
+
+=== 상세 ===
+512 MB RAM을 탑재했다는 것을 제외하면 별다른 특징없는 중급형 LTE 지원 스마트폰이다.
+
+[[각주]]

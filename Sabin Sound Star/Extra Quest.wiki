@@ -1,0 +1,647 @@
+||||||||<tablewidth=100%> '''[wiki:"Sabin Sound Star"] 관련 정보''' ||
+|| '''[[wiki:"Sabin Sound Star/Normal Quest" NORMAL QUEST 목록]]''' || [[wiki:"Sabin Sound Star/퀘스트 목록" 퀘스트 목록으로 돌아가기]] || 
+[[목차]]
+== 소개 ==
+빠른 색인을 위해서 난이도 {{{#green Easy}}}, {{{#orange  Normal}}}, {{{#red Hard}}}를 각각 '''{{{#green EZ}}}''', '''{{{#orange  NM}}}''', '''{{{#red HD}}}'''로 변경하여 표기하며, 퀘스트 전용 패턴은 {{{#hotpink Special}}}의 약자인 '''{{{#hotpink SP}}}'''로 표기하도록 한다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/PlHK0phQJoc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/PlHK0phQJoc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+퀘스트 모드에 처음 진입하는 경우에는 Normal Quest밖에 진입할 수 없다. Extra Quest의 진입 조건은 명확히 알려져 있지 않지만, 현재까지 유력시되는 조건으로는 Normal Quest의 '''21번 퀘스트'''를 클리어한 후에 3~6개의 노말 퀘스트들을 더 클리어하는 것으로 알려져 있다. 이 조건의 순서는 서로 뒤바뀌어도 상관없다.
+
+여담으로 Extra Quest는 모든 퀘스트의 보상이 '''패턴'''이다.
+
+=== 1번 ~ 10번 ===
+ * 1 - Free Z1
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/5cOxfnyEs-A?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/5cOxfnyEs-A?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[The Future]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Envy Mask]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Stay]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Happiness]]||<:>{{{#green EZ}}}||
+
+소모 포인트 : 300
+특수 조건 : '''Blind''' + '''Zombie''' + '''No Skin''' (노트가 보이지 않고, 스킨이 보이지 않고, 게이지가 닳지 않는다.)
+달성 목표 : 클리어 (가만히 놔둬도 클리어)
+
+
+[[Sabin Sound Star]] 보상 : '''"Welcome to Extra Quest There is no Exit"'''
+[[Sabin Sound Star : Renascence Burst]] 보상 : '''"Welcome to EXTRA QUEST"'''
+
+ * 2 - D2P Melody
+{{{#!HTML
+<embed src="//www.youtube.com/v/eegZxTtyEtM?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Cellavue]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[MxMxMstar]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[I Do Love You]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[느낌]] '''~Deeper Feeling mix~'''||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 400
+특수 조건: '''Blink'''
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Any way you want it]]||<:>{{{#red HD}}}||
+
+ * 3 - E-motional Sound
+{{{#!HTML
+<embed src="//www.youtube.com/v/BJ_PW79C284?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[느낌 ]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[하나뿐인 당신에게]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Stay with me]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[Luv Message]] '''~Instrumental mix~'''||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표﻿: Score 550000점 이상으로 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[wiki:"R.D.M. ~Rain Drops in My mind~" R.D.M.]]||<:>{{{#red HD}}}||
+
+ * 4 - poJUSTICEwer
+{{{#!HTML
+<embed src="//www.youtube.com/v/DYAMf66fOso?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Funky 5]] '''~Delayed Style mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Blue]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[LOKI]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Judgement]]||<:>{{{#red HD}}}||
+
+소모 포인트: 600
+특수 조건: X
+달성 목표: 곡당 '''10 GOOD''' 이하
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Be Mine!]]||<:>{{{#red HD}}}||
+
+ * 5 - Soft L&ing
+{{{#!HTML
+<embed src="//www.youtube.com/v/AfzPJjyvk-Y?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[없잖아]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Sunshine]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[B.O.W]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[赤月愛]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 300
+특수 조건: Fade Out
+달성 목표: '''HP 100%'''로 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Be Mine!]]||<:>{{{#red HD}}}||
+
+ * 6 - 4 da TOP
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/CzF8peGdSoE?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/CzF8peGdSoE?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Spotlight]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Any way you want it]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Red Hot]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Futurist]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 600
+특수 조건 : X
+달성 목표: '''곡당 10 FAIL 이하'''
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Y-Gate]]||<:>{{{#red HD}}}||
+
+ * 7 - FLashING STAGE
+{{{#!HTML
+<embed src="//www.youtube.com/v/2XOjPko6oJM?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[주문을 외워봐]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Latino]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Return to Universe]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Eraser Rain for GAIA]]||<:>{{{#orange NM}}}||
+
+소모 포인트: 600
+특수 조건: '''No Skin'''
+달성 목표: 클리어﻿
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Frantic]]||<:>{{{#red HD}}}||
+
+ * 8 - Jealous for U
+{{{#!HTML
+<embed src="//www.youtube.com/v/Jhxhm38bdSM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Lovely Day]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Dreamy Days]]||<:>{{{#orange NM}}}||
+||<#ED0000><:>Professional||<:>[[느낌]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Envy Mask]]||<:>{{{#red HD}}}||
+
+소모 포인트: 1111
+특수 조건: '''3 Stage Colorize'''
+달성 목표: ﻿클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[하나뿐인 당신에게]]||<:>{{{#red HD}}}||
+
+ * 9 - Strict PULZ
+{{{#!HTML
+<embed src="//www.youtube.com/v/3a5w7fu0ZCc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>[[Please Please Me]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[Skyward]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[MxMxMstar]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[Dreamy Days]]||<:>{{{#orange NM}}}||
+
+소모 포인트: 500
+특수 조건: '''Hard Judgement'''(판정의 범위가 더욱 줄어든다.)
+달성 목표: 랭크 '''A''' 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Cellavue]]||<:>{{{#red HD}}}||
+
+ * 10 - Underground strEEt
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/3RGpgsTGTgk?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/3RGpgsTGTgk?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Get the beat]] '''~The Moan mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Exist]] '''~Absence mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Tokyo 9 P.M.]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Black Market]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 600
+특수 조건: '''Hard Guage'''
+달성 목표: Score 600000점 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Black Market]]||<:>{{{#red HD}}}||
+
+=== 11번 ~ 20번 ===
+ * 11 - Feel The BEAT
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/Z92TEbcvh-Q?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Z92TEbcvh-Q?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Get It Up]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[It's My Secret]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[The Rhythm]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Happiness]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: KOOL '''2222'''개 이상﻿
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Happiness]]||<:>{{{#red HD}}}||
+
+ * 12 - WondeREr's dREam
+{{{#!HTML
+<embed src="//www.youtube.com/v/3LY4Z4fTaTY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Please Please Me]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[Skyward]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Underflow]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[Aquaris]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: 곡당 '''30 FAIL''' 이하 
+﻿
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Ztar warZ]]||<:>{{{#red HD}}}||
+
+ * 13 - Semper Puri
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/GKSdYtnbUlQ?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/GKSdYtnbUlQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[You Are The One For Me]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Luv Message]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Lovely Day]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[wiki:"R.D.M. ~Rain Drops in My mind~" R.D.M.]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 400
+특수 조건: X
+달성 목표: '''1500 Combo''' 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Sparrow]]||<:>{{{#red HD}}}||
+
+ * 14 - ONE SIDED-LINER
+{{{#!HTML
+<embed src="//www.youtube.com/v/s5U3OTfiZNw?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Luv Message]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Uranus]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Briliant Stars]]||<:>{{{#orange NM}}}||
+||<#ED0000><:>Professional||<:>[[BLEED]]||<:>{{{#red HD}}}||
+
+소모 포인트: 600
+특수 조건: '''Deadly''' or '''Hard Gauge''' (각 스테이지마다 Deadly와 Hard Gauge가 랜덤하게 적용된다.)
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Be-at Feedback]]||<:>{{{#red HD}}}||
+
+ * 15 - TEKno wORLD
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/4YNtchbj9z0?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/4YNtchbj9z0?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Minus 1 ~Space mix~]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Minus 2]]] '''~Happiness mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Y-Gate]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[20000000000]] '''~SRS Style Revisited~'''||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 600
+특수 조건: X
+달성 목표: 곡당 20 Good 이하
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Red Hot]]||<:>{{{#red HD}}}||
+
+ * 16 - SPECIAL SUPERS
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/7-KMnhh2Clw?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/7-KMnhh2Clw?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Go!]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Aquaris]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Climax ]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Complex]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Climax]]||<:>{{{#red HD}}}||
+
+ * 17 - VIOLENT SECTION 008
+{{{#!HTML
+<embed src="//www.youtube.com/v/rcsMjvK9M1s?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Thrust Out]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Be Mine!]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Black Market]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Climax]]||<:>{{{#red HD}}}||
+
+소모 포인트: 800
+특수 조건: X
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Mad Robot]]||<:>{{{#red HD}}}||
+
+ * '''{{{#red 18 - hOrrOr rOund}}}'''
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/Ql_jmZmYQ5w?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Ql_jmZmYQ5w?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Weird Wave]] '''~Irregular Mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Night Madness]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Rosen Vampir]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Dieoxin]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 666
+특수 조건: Colorize
+달성 목표: 전곡 50 Good 이하
+
+달성 목표가 보기 보다 달성시키기가 매우 까다로워서 클리어가 힘들다. 게다가 마지막 스테이지가 [[wiki:"Dieoxin"하필...]]
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Riff Guy]]||<:>{{{#red HD}}}||
+
+ * 19 - HI-SPID
+{{{#!HTML
+<embed src="//www.youtube.com/v/9iWtBdxMFj0?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Brilliant Stars]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Return to Universe]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[神威]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Good Speed]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 700
+특수 조건: '''Speed 2.25x 고정.'''
+달성 목표: 클리어
+
+보면 알겠지만 BPM이 매우 빠른 곡만 모아놓았다. 거기다 2.25x 배속이 계속 고정 되있으므로 가면 갈수록 안 그래도 고 BPM으로 인해 짠 판정에다 노트를 보고 치는것도 매우 골치 아파진다. 그나마 난이도가 4곡 다 EZ 라는게 다행인편.
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Romance for Moon]]||<:>{{{#red HD}}}||
+(이 곡의 퍼쿠션 하드 패턴은 카드를 사용하지 않은 상태에서도 선곡할 수 있다. 따라서 이 보상은 오류.)
+
+ * 20 - LO-SPID
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/DRo6nAJZz44?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/DRo6nAJZz44?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>[[Cellavue]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Southwest Cadillac]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Unknown H2]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[One Two Three Four]]||<:>{{{#red HD}}}||
+
+소모 포인트: 700
+특수 조건: '''Speed 0.5x 고정.'''
+달성 목표: 클리어
+
+전에 있던 퀘스트랑 완전히 달리 4곡다 BPM이 매우 느린 곡을 모아놓은데다, 배속이 0.5x 고정이라 정말 노트가 내려오는 속도가 속이 답답할 정도로 느리다. 패턴이 4곡다 HD 패턴인데, 느려터진 배속덕에 고배속 유저라면 너무 느린 속도에 익숙치 못하는 동시에 노트수가 은근히 많아서 쉽게 폭사하기 일쑤이다. 미리 평소에 하던 배속보다 느리게 설정해 놓고 연습하는 것이 좋다.
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Weird Wave]]||<:>{{{#red HD}}}||
+
+=== 21번 ~ 30번 ===
+ * 21 - RMX2D
+{{{#!HTML
+<embed src="//www.youtube.com/v/uYoPDd1SV_4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Southwest Cadillac]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Envy Mask]] '''~Live-like style~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Stay]] '''~Saturday night mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Cosmic Bird]] '''~Countdown mix~'''||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: 점수 ??? 이상으로 클리어 (99만9999점)
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Catch the Flow]] '''~Overflow mix~'''||<:>{{{#red HD}}}||
+
+ * '''{{{#red 22 - MassIVE}}}'''
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/LIXR7JT46k8?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/LIXR7JT46k8?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Sparrow]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[B.O.W]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Minus 2]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Metagalactic-G1000]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 800
+특수 조건: '''Deadly'''
+달성 목표: '''Total 10Miss 이하'''
+
+이 퀘스트의 달성 목표가 Total 10 Miss 이하인데, 특수 조건이 달려있는게 하필 Deadly 라서 미스나 페일을 내면 매우 곤란해진다. 더구나 곡 하나 하나의 패턴이 미스나 페일을 내기가 쉬운편이라 방심하는 순간 미스를 한 뭉텅이로 내거나 게이지가 수직 낙하하는 모습을 볼수가 있다.
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Metagalactic-G1000]]||<:>{{{#red HD}}}||
+
+ * 23 - OL-d-MANIAC
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/W63KiYhRUvI?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/W63KiYhRUvI?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[20000000000]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Panic Strike]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Zeroize]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Fire Storm]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: Score 1200000점 이상으로 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Cosmic Bird]]||<:>{{{#red HD}}}||
+
+ * 24 - ZERO's RE:VENGE
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/KrsyUD307no?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/KrsyUD307no?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Espresso]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Latino]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Cosmos]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Good Speed]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Drive to You]]||<:>{{{#red HD}}}||
+
+ * 25 - Hard Arcade Random
+{{{#!HTML
+<embed src="//www.youtube.com/v/q3arVeErwbE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+
+소모 포인트: 1000
+특수 조건: Hard Gauge
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Dieoxin]]||<:>{{{#red HD}}}||
+
+ * 26 - Hard Professional Random
+{{{#!HTML
+<embed src="//www.youtube.com/v/nFaCoo7n3ic?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+
+소모 포인트: 1000
+특수 조건: X
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Dieoxin]]||<:>{{{#red HD}}}||
+
+ * 27 - Hard Percussion Random
+{{{#!HTML
+<embed src="//www.youtube.com/v/AIUcwYegY4o?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+
+소모 포인트: 1000
+특수 조건: Hard Gauge
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Dieoxin]]||<:>{{{#red HD}}}||
+
+ * 28 - Hard All Random
+{{{#!HTML
+<embed src="//www.youtube.com/v/TAlG2zJ0l7Y?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+
+소모 포인트: 1000
+특수 조건 : Deadly
+달성 목표 : 2곡 이상 All Combo
+
+이름이 붉은색이 아니라고 쉬워 보인다고 생각하면 오산이다. 의외로 데들리가 노트를 아무리 쳐도 깎인 체력을 회복을 못 시켜 주는 데다 까다로운 달성 목표가 플레이어가 골치를 썩게 만들어 준다. 만약 어려운 패턴이나 미스를 유발하는 곡이 연속으로 걸렸다 하면 묵념.
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Cosmos ]]||<:>{{{#red HD}}}||
+
+ * '''{{{#red 29 - ovERAst ~Manic & Maniac & Mortal~}}}'''
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/X4VvIval9P8?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/X4VvIval9P8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[주문을 외워봐]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Sensation of Stage]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Thrust Out]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Apollon]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 1000
+특수 조건: X
+달성 목표: 1000 Combo 이상
+
+[[주문을 외워봐]]가 원래는 쉬운 패턴인데 악명 높은 난이도를 지닌 이 퀘스트에 들어간만큼, 1스테이지부터가 고역이다.
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Panic Strike]]||<:>{{{#red HD}}}||
+
+ * '''{{{#red 30 - ARIXID}}}'''
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/C8yLR_9Oc4g?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/C8yLR_9Oc4g?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Cellavue]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Memories(EZ2DJ)|Memories]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Stay]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[MxMxMstar]] '''~ARIXID ver.~'''||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 500
+특수 조건: '''EX Guage''', Deadly
+달성 목표: 클리어
+
+Ez2dj에서 동명의 채널과는 달리, 퀘스트 모드의 특성상 한번 게이지가 감소하는 순간 회복이 불가능하므로 매우 어려운 퀘스트중 하나가 되었다.
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Stay]]||<:>{{{#red HD}}}||
+
+=== 31번 ~ 35번 ===
+ * '''{{{#red 31 - UNREAL}}}'''
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/g7jcMTOKjfI?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/g7jcMTOKjfI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Weird Wave]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[La Grand Bleu]] '''~Harmonize mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Zeroize]] '''~133 gipped mix~'''||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[20000000000]] '''~135 mix~'''||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 1000
+특수 조건 : X
+달성 목표 : 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[20000000000]]||<:>{{{#red HD}}}||
+
+ * 32 - SURREAL
+{{{#!HTML
+<embed src="//www.youtube.com/v/lXyIZD_vuaQ?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Minus 1 ~Space Mix~]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Metagalactic G-1000]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[20000000000]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Panic Strike]]||<:>{{{#red HD}}}||
+
+소모 포인트: 1000
+특수 조건: X
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Complex]]||<:>{{{#red HD}}}||
+
+ * '''{{{#red 33 - BLACK:HOLE}}}'''
+{{{#!HTML
+
+}}}
+
+{{{#!HTML
+<embed src="//www.youtube.com/v/9I56gbL_rNg?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>[[La Grand Bleu]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[Thrust Out]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[Apollon]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[20000000000]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 1500
+특수 조건 : X
+달성 목표 : 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Zeroize ]]||<:>{{{#red HD}}}||
+
+ * '''{{{#red 34 - HELL}}}'''
+{{{#!HTML
+
+}}}
+[* 두명의 합체플레이.]
+{{{#!HTML
+<embed src="//www.youtube.com/v/_FJqW9sxq6w?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+[[Fire Storm]] - [[神威]]
+{{{#!HTML
+<embed src="//www.youtube.com/v/NxxJS-Wmbcs?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+[[BLEED]]
+{{{#!HTML
+<embed src="//www.youtube.com/v/OmXCHa_GlSQ?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+[[Rosen Vampir]]
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Fire Storm]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[神威]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[BLEED]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[Rosen Vampir]]||<:>{{{#hotpink SP}}}||
+
+조건만 놓고 본다면 '''노말 퀘스트의 34번 보다 매우 쉬운 퀘스트'''이며, '''엑스트라 퀘스트의 18번 22번 30번이 더 어렵다.''' 그 대신 채보 난이도는 최강급이라 혼자 클리어 한다는 것은 거의 절대 불가능.
+
+소모 포인트: 2000
+특수 조건: X
+달성 목표: 클리어
+ 
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Rosen Vampir]]||<:>{{{#red HD}}}||
+
+ * 35 - The 3S:ANOTHER SIDE EDITION
+{{{#!HTML
+<embed src="//www.youtube.com/v/OGaCJPqZ3J0?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>[[MxMxMstar]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Happiness]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Romance for Moon]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Pair Creation]]||<:>{{{#red HD}}}||
+
+소모 포인트: 3000
+특수 조건 : X
+달성 목표 : ??? (밝혀진 조건은 S랭크 이상으로 클리어)
+ 
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Pair Creation]]||<:>{{{#red HD}}}||

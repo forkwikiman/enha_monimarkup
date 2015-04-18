@@ -1,0 +1,70 @@
+ * 리다이렉트 : '''BREAK DOWN!''', '''BREAK DOWN(비마니 시리즈)'''
+
+[[BEMANI 시리즈]]의 수록곡. [[BeForU]]가 보컬을 맡았으며, [[NAOKI]]가 작곡, [[코사카 리유]] 작사. 
+
+[[목차]]
+
+== [[댄스 댄스 레볼루션]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/gSrU27I-E9A" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 12}}} ||
+||<|3> 190 |||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 13}}} ||
+
+첫 수록은 DDRMAX2. BeForU와 코나미와의 관계 때문에 X때 삭제된 적이 있다.(X2에 부활)
+
+== [[기타프릭스]] & [[드럼매니아]] (BRE∀K DOWN! (GF&DM STYLE)) ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/srUdp1XAOUo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 190 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 19}}} || {{{#orange 32}}} || {{{#red 40}}} ||
+|| 기타 오픈픽 || {{{#green 30}}} || {{{#orange 38}}} || {{{#red 41}}} ||
+|| 기타 베이스 || {{{#green 24}}} || {{{#orange 58}}} || {{{#red -}}} ||
+|| 드럼매니아 || {{{#green 14}}} || {{{#orange 39}}} || {{{#red 64}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 190 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 3.70}}} || {{{#orange 4.50}}} || {{{#red 6.05}}} ||
+|| 기타 베이스 || {{{#blue 3.60}}} || {{{#orange 4.55}}} || {{{#red 5.30}}} || 
+|| 드럼매니아 || {{{#blue 2.35}}} || {{{#orange 5.35}}} || {{{#red 6.30}}} || 
+
+8th & 7th에 이식되었으며, 어레인지가 되어서인지 곡 제목 뒤에 GF&DM STYLE이란 부제가 붙었다. 어레인지 담당은 NAOKI. 여기 역시 V6때 일시적으로 짤린적이 있다. 이후 V7에 부활하고, XG 초대작에도 이식. 이 곡은 BeForU가 기타도라 시리즈에 처음으로 출전한 곡이기도 하다(같은 시리즈에 나온 begin은 파워업버전 추가곡).
+
+DDR의 범용 BGA와는 달리 여기엔 전용 BGA가 할당되어 있다. 하지만 GITADORA엔 사이즈 문제로 짤리고 범용 BGA로 대체. 전용 BGA에는 BeForU 멤버들을 모티브로 한 캐릭터가 출연. 
+
+가정용 기타드럼엔 V에 수록. 다만 DDR STR!KE의 데이터가 있어야만 통상해금으로 즐길 수 있고, 그게 아니라면 타임 릴리즈로 30시간이나 들여야 한다(...) 
+== [[팝픈뮤직]] ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/cvUSVIH8pwY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 女の子パワー全開なのだ!!ポップでキュートなノリノリロックナンバーだよ!!
+여자 아이의 파워 전개다!! 팝에 큐트하고 흥겨운 락 넘버야!! ||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 9[[BR]]([[ee'MALL]]) || GIRLS ROCK[[BR]]걸즈 락 || BRE∀K DOWN! || [BeForU] || Bis子[[BR]]비스코 ||
+
+|| [[BPM]] || [wiki:"팝픈뮤직/난이도 체계"난이도] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 190 || 43단계 || {{{#blue 14}}} || {{{#green 16}}} || {{{#orange 27}}} || {{{#red 39}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 22}}} || {{{#orange 33}}} || {{{#red 45}}} ||
+|||| 노트수 || {{{#blue 374}}} || {{{#green 374}}} || {{{#orange 598}}} || {{{#red 1052}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+[[ee'MALL]]을 통해 이식되었다. 14에서 통상 해금. 여기도 한때 17 THE MOVIE에 삭제되었다가 19 TUNE STREET에 부활.
+
+팝픈뮤직에서는 14 FEVER!에 통상해금되기 이전의 장르가 BREAK DOWN(...)이었던 적이 있었다. 현재는 걸즈 락으로 장르명이 표기되어 있는데, 이와 장르명이 똑같은 곡이 하나 더 있기 때문에([[☆shining☆]]) 유저들은 장르명 뒤에 곡명을 써서 분류한다.
+
+EX 보면은 동시치기와 후살이 있는 곡으로, 45이상의 보면 중 유이하게 10만점 퍼펙트가 나온 곡(...)[* [[팝픈뮤직 라피스토리아]] 기준 쿨 퍼펙자는 3명으로, 이 중 한명은 한국인이다.--근데 TATSU는 쿨퍼펙자가 아닌 것이 함정--][* 나머지 한 곡은 Infinity Blue로, 달성자는 [[TATSU]] 혼자(...)]

@@ -1,0 +1,47 @@
+|| 장르 |||||||| Tribal Trance ||
+|| 곡명 |||||||| The World ||
+|| 작곡 |||||||| [[r300k]] ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 110 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 7}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} ||
+
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='KuRSFo0nCZA$' width='600px' height='400px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=KuRSFo0nCZA$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=KuRSFo0nCZA$' width='600px' height='400px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+== 설명 ==
+BPM이 느린편이고 노트가 구성있게 배치되어있어 중수들의 판정 연습으로 애용되는 곡이다. 한국어 보컬곡이라고 하지만 그 누구도 가사를 알 수가 없다.
+특기할 사항이라면 7K HD가 13을 마크하고있는데.. 평범한 13러너라면 '''절대로 플레이하지 말라.''' 채보는 약간 어려운 수준이나 '''게이지가 아예 차지 않는다.''' 컨셉이라는듯. 체감난이도는 15에 육박한다!
+[[EZ2DJ AE]]에서는 다른 7th 1.0 출신 곡들과 함께 판권 문제로 삭제되었다.
+
+후에 [[EZ2ON]]에서 [[The World is One's Oyster]]라는 후속곡격으로 보이는 곡이 업데이트되었으나 r300k의 말로는 두 곡의 연관성은 없다고 한다.
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/pCfNivjV2hY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+이지투온 6K HDMix 플레이 영상.
+
+== 제작자 코멘트 ==
+{{|
+아 곡도 좋고 정말 이것저것 다 맘에 들었다.
+그저 간지낼려고 노력한, 광원 + 3D 구름 + 지구
+그러나 작업시간 2시간.
+
+...
+
+눈물난다
+-RYUminus
+|}}

@@ -1,0 +1,162 @@
+ * 상위 항목 : [[수도권 전철 1호선]]
+ * 파란 칸은 지상역임을 표시하는 것.
+
+[[목차]]
+
+== 일러두기 ==
+
+|||||||| 역 등급 ||
+||⊙ ||그룹대표역 ||○ ||보통역 ||
+||● ||배치간이역 ||◑ ||무배치간이역 ||
+||◎ ||임시승강장 ||◇ ||을종승차권발매소 ||
+||‡ ||신호장 ||† ||신호소 ||
+||K ||KTX ||S ||새마을호 ||
+||M ||무궁화호/누리로 ||I ||ITX-청춘 ||
+||O ||O-train ||
+
+|| 표기 || 이름 || 행선지 ||
+|| {{{#f3753a ◆}}} || 동두천급행 || 동두천-인천 급행 ||
+||<|4> {{{#000000 ◆}}} || 동인천급행 || 용산-동인천 급행 ||
+|| 부평급행[* 정차역은 동인천급행과 같으나 용산에서 부평까지만 운행한다.] || 용산-부평 급행 ||
+|| 구로급행[* 정차역은 동인천급행과 같으나 동인천에서 구로까지만 운행한다.] || 구로-동인천 급행 ||
+|| 부천급행[* 정차역은 동인천급행과 같으나 동인천에서 부천까지만 운행한다.] || 부천-동인천 급행 ||
+|| {{{#c0c0c0 ◆}}} || 인천급행[* 평일 막차시간대 1회 한정으로 운행한다.] || 양주발 인천급행[* 인천발 양주급행은 없다.] ||
+||<|2> {{{#red ◆}}} || 천안급행 A || 용산-천안 급행 A ||
+|| 용산급행[* 정차역은 천안급행 A와 같으나 병점까지만 운행한다.] || 용산-병점 급행 ||
+|| {{{#008000 ◆}}} || 천안급행 B(통근급행) || 서울-천안 급행 ||
+|| {{{#8ec96d ◆}}} || 천안급행 B(천안특급)[* 주말 및 공휴일 한정 운행] || 용산-천안 급행 B ||
+|| {{{#ffdf3e ◆}}} || 광명셔틀 || 영등포-광명 급행 ||
+|| {{{#d24999 ◆}}} || 병점급행[* 2014년 8월 25일부터 운행, 평일 출퇴근시간대 한정 운행] || 영등포-병점 급행 ||
+
+== 경인선 운행계통(소요산↔인천) ==
+
+회색 승강장은 일반열차만 정차하는 곳이다.
+
+||<|2> 역번 ||<|2> ㎞ ||||<|2> 역명 |||| 승강장 ||<|2> 등급 ||<|2> 급행 ||<|2> 환승노선 ||||<|2> 소재지 ||
+|| 형태 || 횡단 ||
+||<#ccffff>100 ||<#ccffff>0.0 ||<#ccffff>[wiki:"소요산역" 소요산] ||<#ccffff>逍遙山 ||<#ccffff> {{{#c0c0c0 ■│}}}│■ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>　||<#ccffff>　 ||<:><#c0c0c0><|13>경[[BR]]기[[BR]]도||<|5><#c0c0c0>동두천시 ||
+||<#ccffff>101 ||<#ccffff>2.5 ||<#ccffff>[wiki:"동두천역" 동두천] ||<#ccffff>東豆川 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}} ||<#ccffff>　||
+||<#ccffff>102 ||<#ccffff>4.1 ||<#ccffff>[wiki:"보산역" 보　산] ||<#ccffff>保　山 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ┃}}} ||<#ccffff>　||
+||<#ccffff>103 ||<#ccffff>5.5 ||<#ccffff>[wiki:"동두천중앙역" 동두천<BR>중앙] ||<#ccffff>東豆川[[BR]]中央 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#f3753a ◆}}} ||<#ccffff>　||
+||<#ccffff>104 ||<#ccffff>6.5 ||<#ccffff>[wiki:"지행역" 지　행] ||<#ccffff>紙　杏 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ┃}}} ||<#ccffff>　||
+||<#ccffff>105 ||<#ccffff>12.1 ||<#ccffff>[wiki:"덕정역" 덕　정] ||<#ccffff>德　亭 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#f3753a ◆}}} ||<#ccffff>　||<|3>양주시 ||
+||<#ccffff>106 ||<#ccffff>15.0 ||<#ccffff>[wiki:"덕계역" 덕　계] ||<#ccffff>德　溪 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#f3753a ┃}}} ||<#ccffff>　||
+||<#ccffff>107 ||<#ccffff>20.3 ||<#ccffff>[wiki:"양주역" 양　주] ||<#ccffff>楊　州 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||
+||<#ccffff>108 ||<#ccffff>21.9 ||<#ccffff>[wiki:"녹양역" 녹　양] ||<#ccffff>綠　揚 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ┃}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||<|5><#c0c0c0>의정부시 ||
+||<#ccffff>109 ||<#ccffff>23.2 ||<#ccffff>[wiki:"가능역(경원선)" 가　능] ||<#ccffff>佳　陵 ||<#ccffff> │■││■ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#f3753a ┃}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||
+||<#ccffff>110 ||<#ccffff>24.4 ||<#ccffff>[wiki:"의정부역" 의정부] ||<#ccffff>議政府 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||
+||<#ccffff>111 ||<#ccffff>26.0 ||<#ccffff>[wiki:"회룡역" 회　룡] ||<#ccffff>回　龍 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||<#ccffff>{{{#fda600 ●}}} [[의정부 경전철]] ||
+||<#ccffff>112 ||<#ccffff>27.4 ||<#ccffff>[wiki:"망월사역" 망월사] ||<#ccffff>望月寺 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ┃}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||
+||<#ccffff>113 ||<#ccffff>29.7 ||<#ccffff>[wiki:"도봉산역" 도봉산] ||<#ccffff>道峰山 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||<#ccffff>{{{#54640d ●}}} [wiki:"서울 지하철 7호선" 7호선] ||<:><|33>서[[BR]]울[[BR]]특[[BR]]별[[BR]]시||<|5>도봉구 ||
+||<#ccffff>114 ||<#ccffff>30.9 ||<#ccffff>[wiki:"도봉역" 도　봉] ||<#ccffff>道　峰 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ┃}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||
+||<#ccffff>115 ||<#ccffff>32.2 ||<#ccffff>[wiki:"방학역" 방　학] ||<#ccffff>放　鶴 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ┃}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||
+||<#ccffff>116 ||<#ccffff>33.9 ||<#ccffff>[wiki:"창동역" 창　동] ||<#ccffff>倉　洞 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||<#ccffff>{{{#32a1c8 ●}}} [wiki:"서울 지하철 4호선" 4호선] ||
+||<#ccffff>117 ||<#ccffff>34.9 ||<#ccffff>[wiki:"녹천역" 녹　천] ||<#ccffff>鹿　川 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ┃}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||
+||<#ccffff>118 ||<#ccffff>36.3 ||<#ccffff>[wiki:"월계역" 월　계] ||<#ccffff>月　溪 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ┃}}}{{{#c0c0c0 ◆}}} ||<#ccffff>　||<|3><#c0c0c0>노원구 ||
+||<#ccffff>119 ||<#ccffff>37.4 ||<#ccffff>[wiki:"광운대역" 광운대] ||<#ccffff>光云大 ||<#ccffff> ■││■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||<#ccffff>{{{#32c6a6 ●}}} [[경춘선]][* 평일에만 1일 2회 운행.] ||
+||<#ccffff>120 ||<#ccffff>38.5 ||<#ccffff>[wiki:"석계역" 석　계] ||<#ccffff>石　溪 ||<#ccffff> │■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}　||<#ccffff>{{{#c55c1d ●}}} [wiki:"서울 지하철 6호선" 6호선] ||
+||<#ccffff>121 ||<#ccffff>39.9 ||<#ccffff>[wiki:"신이문역" 신이문] ||<#ccffff>新里門 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}　||<#ccffff>　||<|6>동대문구 ||
+||<#ccffff>122 ||<#ccffff>40.7 ||<#ccffff>[wiki:"외대앞역" 외대앞] ||<#ccffff>外大앞 ||<#ccffff> ■│■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}　||<#ccffff>　||
+||<#ccffff>123 ||<#ccffff>41.5 ||<#ccffff>[wiki:"회기역" 회　기] ||<#ccffff>回　基 ||<#ccffff> │■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}　||<#ccffff>{{{#73c7a6 ●}}} [[경의·중앙선]] ||
+||124 ||42.9 ||[wiki:"청량리역" 청량리] ||淸凉里 || │■│ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||{{{#73c7a6 ●}}} [[경의·중앙선]] ||
+||125 ||43.9 ||[wiki:"제기동역" 제기동] ||祭基洞 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} || ||
+||126 ||44.8 ||[wiki:"신설동역" 신설동] ||新設洞 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||{{{#33a23d ●}}} [wiki:"서울 지하철 2호선" 2호선][[BR]]성수지선[[br]]~~{{{#b2bd54 ●}}} [wiki:"서울 경전철 우이신설선"우이신설선]~~ ||
+||127 ||45.5 ||[wiki:"동묘앞역" 동묘앞] ||東廟앞 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||{{{#c55c1d ●}}} [wiki:"서울 지하철 6호선" 6호선] ||<|5><#c0c0c0>종로구 ||
+||128 ||46.1 ||[wiki:"동대문역" 동대문] ||東大門 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||{{{#32a1c8 ●}}} [wiki:"서울 지하철 4호선" 4호선] ||
+||129 ||46.9 ||[wiki:"종로5가역" 종로5가] ||鐘路5街 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} || ||
+||130 ||47.8 ||[wiki:"종로3가역" 종로3가] ||鐘路3街 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||{{{#fe5b10 ●}}} [wiki:"서울 지하철 3호선" 3호선][[br]]{{{#8b50a4 ●}}} [wiki:"서울 지하철 5호선" 5호선] ||
+||131 ||48.6 ||[wiki:"종각역" 종　각] ||鐘　閣 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} || ||
+||132 ||49.6 ||[wiki:"시청역(서울)" 시　청] ||市　廳 || ■││■ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||{{{#33a23d ●}}} [wiki:"서울 지하철 2호선" 2호선] ||<|2>중구 ||
+||133 ||50.7 ||[서울역|서울역<br>(지　하)] ||서울驛 || │■│ ||○ || ||{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}　　　{{{#008000 ◆}}}[* 지상 서울역에 붙어있는 별도의 플랫폼에 정차하며 1·4호선, 공항철도와는 계단을 내려가면 나오는 지하 통로로 연결된다.] ||{{{#32a1c8 ●}}} [wiki:"서울 지하철 4호선" 4호선][[br]]{{{#73c7a6 ●}}} [[경의·중앙선]] [[br]]{{{#3681b7 ●}}} [[wiki:"인천국제공항철도" 공항철도]] ||
+||<#ccffff>134 ||<#ccffff>52.4 ||<#ccffff>[wiki:"남영역" 남　영] ||<#ccffff>南　營 ||<#ccffff> │■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}　　　{{{#008000 ┃}}} ||<#ccffff>　||<|2><#c0c0c0>용산구 ||
+||<#ccffff>135 ||<#ccffff>53.9 ||<#ccffff>[wiki:"용산역(서울)" 용　산] ||<#ccffff>龍　山 ||<#ccffff> ■││■││■ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ┃}}} ||<#ccffff>{{{#73c7a6 ●}}} [[경의·중앙선]] ||
+||<#ccffff>136 ||<#ccffff>56.5 ||<#ccffff>[wiki:"노량진역(경부선)" 노량진] ||<#ccffff>鷺梁津 ||<#ccffff> ■││■││■│■ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ┃}}}||<#ccffff>{{{#aa9872 ●}}} [wiki:"서울 지하철 9호선" 9호선] ||동작구 ||
+||<#ccffff>137 ||<#ccffff>58.0 ||<#ccffff>[wiki:"대방역" 대　방] ||<#ccffff>大　方 ||<#ccffff> ■││■││■ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ┃}}}||<#ccffff>　||<|3><#c0c0c0>영등포구 ||
+||<#ccffff>138 ||<#ccffff>58.8 ||<#ccffff>[wiki:"신길역" 신　길] ||<#ccffff>新　吉 ||<#ccffff> ■││■││■ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ┃}}}||<#ccffff>{{{#8b50a4 ●}}} [wiki:"서울 지하철 5호선" 5호선] ||
+||<#ccffff>139 ||<#ccffff>59.8 ||<#ccffff>[wiki:"영등포역" 영등포] ||<#ccffff>永登浦 ||<#ccffff> ■││■││■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ◆}}}[* 상행열차만 정차]{{{#d24999 ◆}}}{{{#ffdf3e ◆}}}||<#ccffff>　||
+||<#ccffff>140 ||<#ccffff>61.3 ||<#ccffff>[wiki:"신도림역" 신도림] ||<#ccffff>新道林 ||<#ccffff> ■│■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}{{{#ffdf3e ◆}}}||<#ccffff>{{{#33a23d ●}}} [wiki:"서울 지하철 2호선" 2호선][[BR]]본선/신정지선 ||<|6>구로구 ||
+||<#ccffff>141 ||<#ccffff>62.4 ||<#ccffff>[wiki:"구로역" 구　로] ||<#ccffff>九　老 ||<#ccffff> ■││■││■││■││■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}{{{#ffdf3e ◆}}}||<#ccffff>{{{#0d3692 ●}}} 1호선[[br]](경부) ||
+||<#ccffff>142 ||<#ccffff>63.8 ||<#ccffff>[wiki:"구일역" 구　일] ||<#ccffff>九　一 ||<#ccffff> ■│(위)[[br]]■││■│(아래) ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||
+||<#ccffff>143 ||<#ccffff>64.8 ||<#ccffff>[wiki:"개봉역" 개　봉] ||<#ccffff>開　峰 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||
+||<#ccffff>144 ||<#ccffff>66.1 ||<#ccffff>[wiki:"오류동역" 오류동] ||<#ccffff>梧柳洞 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||
+||<#ccffff>145 ||<#ccffff>68.0 ||<#ccffff>[wiki:"온수역" 온　수] ||<#ccffff>溫　水 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>{{{#54640d ●}}} [wiki:"서울 지하철 7호선" 7호선] ||
+||<#ccffff>146 ||<#ccffff>69.3 ||<#ccffff>[wiki:"역곡역" 역　곡] ||<#ccffff>驛　谷 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆ ||<#ccffff>　||<:><#c0c0c0><|5>경[[BR]]기[[BR]]도||<#c0c0c0>부천시[[br]]원미구 ||
+||<#ccffff>147 ||<#ccffff>70.8 ||<#ccffff>[wiki:"소사역" 소　사] ||<#ccffff>素　砂 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>~~[[소사원시선]]~~||<|4>부천시[[br]]소사구 ||
+||<#ccffff>148 ||<#ccffff>71.9 ||<#ccffff>[wiki:"부천역" 부　천] ||<#ccffff>富　川 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆ ||<#ccffff>　||
+||<#ccffff>149 ||<#ccffff>73.6 ||<#ccffff>[wiki:"중동역(경인선)" 중　동] ||<#ccffff>中　洞 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||
+||<#ccffff>150 ||<#ccffff>74.6 ||<#ccffff>[wiki:"송내역" 송　내] ||<#ccffff>松　內 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆ ||<#ccffff>　||
+||<#ccffff>151 ||<#ccffff>75.8 ||<#ccffff>[wiki:"부개역" 부　개] ||<#ccffff>富　開 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>~~{{{#4FA600 ●}}} [[인천 도시철도 3호선|인천 3호선]]~~　||<:><|11>인[[BR]]천[[BR]]광[[BR]]역[[BR]]시||<|4><#c0c0c0>부평구 ||
+||<#ccffff>152 ||<#ccffff>77.3 ||<#ccffff>[wiki:"부평역(인천)" 부　평] ||<#ccffff>富　平 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆ ||<#ccffff>{{{#8cadcb ●}}} [[wiki:"인천 도시철도 1호선"인천 1호선]] ||
+||<#ccffff>153 ||<#ccffff>79.0 ||<#ccffff>[wiki:"백운역" 백　운] ||<#ccffff>白　雲 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||
+||<#ccffff>154 ||<#ccffff>80.5 ||<#ccffff>[wiki:"동암역" 동　암] ||<#ccffff>銅　岩 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆ ||<#ccffff>　||
+||<#ccffff>155 ||<#ccffff>81.7 ||<#ccffff>[wiki:"간석역" 간　석] ||<#ccffff>間　石 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||남동구 ||
+||<#ccffff>156 ||<#ccffff>82.9 ||<#ccffff>[wiki:"주안역" 주　안] ||<#ccffff>朱　安 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆ ||<#ccffff>~~{{{#f08619 ●}}} [[wiki:"인천 도시철도 2호선"인천 2호선]]~~||<|3><#c0c0c0>남구 ||
+||<#ccffff>157 ||<#ccffff>83.9 ||<#ccffff>[wiki:"도화역" 도　화] ||<#ccffff>道　禾 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||
+||<#ccffff>158 ||<#ccffff>84.9 ||<#ccffff>[wiki:"제물포역" 제물포] ||<#ccffff>濟物浦 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>　||
+||<#ccffff>159 ||<#ccffff>86.3 ||<#ccffff>[wiki:"도원역" 도　원] ||<#ccffff>桃　源 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ┃}}}┃ ||<#ccffff>~~{{{#4FA600 ●}}} [[인천 도시철도 3호선|인천 3호선]]~~　||동구 ||
+||<#ccffff>160 ||<#ccffff>87.5 ||<#ccffff>[wiki:"동인천역" 동인천] ||<#ccffff>東仁川 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}}◆ ||<#ccffff>　||<|2><#c0c0c0>중구 ||
+||<#ccffff>161 ||<#ccffff>89.4 ||<#ccffff>[wiki:"인천역" 인　천] ||<#ccffff>仁　川 ||<#ccffff> │■││■ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#f3753a ◆}}}{{{#c0c0c0 ◆}}} ||<#ccffff>~~{{{#ffb300 ●}}} [[수인선]]~~||
+=== 경원선 연천 연장 ===
+
+||<|2> 역번 ||<|2> ㎞ ||||<|2> 역명 |||| 승강장 ||<|2> 등급 ||<|2> 급행 ||<|2> 환승노선 ||||<|2> 소재지 ||
+|| 형태 || 횡단 ||
+||<#ccffff>　||<#ccffff>　||<#ccffff>[wiki:"연천역" 연　천] ||<#ccffff>漣　川 ||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||<|3><#c0c0c0>경기 연천군 ||
+||<#ccffff>　||<#ccffff>　||<#ccffff>[wiki:"전곡역" 전　곡] ||<#ccffff>全　谷 ||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||
+||<#ccffff>　||<#ccffff>　||<#ccffff>[wiki:"초성리역" 초성리] ||<#ccffff>哨城里 ||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||
+||||||||||||||||||||||　▽ 소요산 ||
+
+== 경부선 운행계통(광운대↔서동탄, 청량리↔신창) ==
+
+회색 승강장은 일반열차만 정차하는 곳이다. (금정[* [wiki:"수도권 전철 4호선" 4호선]만 정차한다], 화서[* 아예 폐쇄된 곳.] 제외)
+
+||<|2> 역번 ||<|2> ㎞ ||||<|2> 역명 |||| 승강장 ||<|2> 등급 ||<|2> 급행 ||<|2> 환승노선 ||||<|2> 소재지 ||
+|| 형태 || 횡단 ||
+||||||||||||||||||||||　△ 구　로 ||
+||<#ccffff>P142 ||<#ccffff>64.8 ||<#ccffff>[wiki:"가산디지털단지역" 가산디지털][[br]][wiki:"가산디지털단지역" 단지] ||<#ccffff>加山디지털[[br]]단지 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>● ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}{{{#ffdf3e ◆}}}||<#ccffff>{{{#54640d ●}}} [wiki:"서울 지하철 7호선" 7호선] ||<:><|3>서[[BR]]울[[BR]]특[[BR]]별[[BR]]시||<|3><#c0c0c0>금천구 ||
+||<#ccffff>P143 ||<#ccffff>66.8 ||<#ccffff>[wiki:"독산역" 독　산] ||<#ccffff>禿　山 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}{{{#ffdf3e ◆}}}||<#ccffff>　||
+||<#ccffff>P144 ||<#ccffff>68.0 ||<#ccffff>[wiki:"금천구청역" 금천구청] ||<#ccffff>衿川區廳 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}{{{#d24999 ┃}}}{{{#ffdf3e ◆}}}||<#ccffff>{{{#0d3692 ●}}} 1호선[[br]](광명) ||
+||<#ccffff>P145 ||<#ccffff>70.3 ||<#ccffff>[wiki:"석수역" 석　수] ||<#ccffff>石　水 ||<#ccffff> │■{{{#c0c0c0 ││}}}■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}||<#ccffff>~~[[신안산선]]~~||<:><#c0c0c0><|21>경[[BR]]기[[BR]]도||<|4>안양시[[br]]만안구 ||
+||<#ccffff>P146 ||<#ccffff>72.2 ||<#ccffff>[wiki:"관악역" 관　악] ||<#ccffff>冠　岳 ||<#ccffff> │■{{{#c0c0c0 ││}}}■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}||<#ccffff>　||
+||<#ccffff>P147 ||<#ccffff>74.6 ||<#ccffff>[wiki:"안양역" 안　양] ||<#ccffff>安　養 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}{{{#d24999 ◆}}}||<#ccffff>　||
+||<#ccffff>P148 ||<#ccffff>76.8 ||<#ccffff>[wiki:"명학역" 명　학] ||<#ccffff>鳴　鶴 ||<#ccffff> │■{{{#c0c0c0 ││}}}■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}||<#ccffff>　||
+||<#ccffff>P149 ||<#ccffff>78.2 ||<#ccffff>[wiki:"금정역" 금　정] ||<#ccffff>衿　井 ||<#ccffff> {{{#c0c0c0 │}}}■│{{{#c0c0c0 ││}}}│■{{{#c0c0c0 │■│}}} ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}||<#ccffff>{{{#32a1c8 ●}}} [wiki:"수도권 전철 4호선" 4호선] ||<|3><#c0c0c0>군포시 ||
+||<#ccffff>P150 ||<#ccffff>80.4 ||<#ccffff>[wiki:"군포역" 군　포] ||<#ccffff>軍　浦 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}{{{#d24999 ┃}}} ||<#ccffff>　||
+||<#ccffff>P151 ||<#ccffff>82.0 ||<#ccffff>[wiki:"당정역" 당　정] ||<#ccffff>堂　井 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}||<#ccffff>　||
+||<#ccffff>P152 ||<#ccffff>84.6 ||<#ccffff>[wiki:"의왕역" 의　왕] ||<#ccffff>義　王 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}{{{#d24999 ┃}}}||<#ccffff>　||의왕시 ||
+||<#ccffff>P153 ||<#ccffff>87.5 ||<#ccffff>[wiki:"성균관대역" 성균관대] ||<#ccffff>成均館大 ||<#ccffff> │■││■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}[* 하행은 아침열차만 정차.]{{{#d24999 ┃}}}||<#ccffff>　||<#c0c0c0>수원시[[br]]장안구 ||
+||<#ccffff>P154 ||<#ccffff>90.1 ||<#ccffff>[wiki:"화서역" 화　서] ||<#ccffff>華　西 ||<#ccffff> ■│{{{#c0c0c0 │■│}}}│■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}||<#ccffff>~~{{{#c82127 ●}}} [신분당선]~~ ||<|2>수원시[[br]]팔달구 ||
+||<#ccffff>P155 ||<#ccffff>92.2 ||<#ccffff>[wiki:"수원역" 수　원] ||<#ccffff>水　原 ||<#ccffff> │■│{{{#c0c0c0 │■││■│}}}│■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ◆}}}{{{#d24999 ◆}}}||<#ccffff>{{{#ffb300 ●}}} [[분당선]][[br]]~~{{{#ffb300 ●}}} [[수인선]]~~ ||
+||<#ccffff>P156 ||<#ccffff>95.1 ||<#ccffff>[wiki:"세류역" 세　류] ||<#ccffff>細　柳 ||<#ccffff> │■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◑ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}{{{#d24999 ┃}}}||<#ccffff>　||<#c0c0c0>수원시[[br]]권선구 ||
+||<#ccffff>P157 ||<#ccffff>99.4 ||<#ccffff>[wiki:"병점역" 병　점] ||<#ccffff>餠　店 ||<#ccffff> │■│{{{#c0c0c0 ││}}}│■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}{{{#d24999 ◆}}}||<#ccffff>{{{#0d3692 ●}}} 1호선[[br]](서동탄) ||화성시 ||
+||<#ccffff>P158 ||<#ccffff>101.8 ||<#ccffff>[wiki:"세마역" 세　마] ||<#ccffff>洗　馬 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}||<#ccffff>　||<|3><#c0c0c0>오산시 ||
+||<#ccffff>P159 ||<#ccffff>104.5 ||<#ccffff>[wiki:"오산대역" 오산대] ||<#ccffff>烏山大 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}||<#ccffff>　||
+||<#ccffff>P160 ||<#ccffff>107.2 ||<#ccffff>[wiki:"오산역" 오　산] ||<#ccffff>烏　山 ||<#ccffff> │■│{{{#c0c0c0 ■││■}}}│■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}||<#ccffff>　||
+||<#ccffff>P161 ||<#ccffff>111.2 ||<#ccffff>[wiki:"진위역" 진　위] ||<#ccffff>振　威 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}||<#ccffff>　||<|5>평택시 ||
+||<#ccffff>P162 ||<#ccffff>115.0 ||<#ccffff>[wiki:"송탄역" 송　탄] ||<#ccffff>松　炭 ||<#ccffff> │■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}||<#ccffff>　||
+||<#ccffff>P163 ||<#ccffff>117.2 ||<#ccffff>[wiki:"서정리역" 서정리] ||<#ccffff>西井里 ||<#ccffff> │■│{{{#c0c0c0 ■││■}}}│■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}||<#ccffff>　||
+||<#ccffff>P164 ||<#ccffff>122.0 ||<#ccffff>[wiki:"지제역" 지　제] ||<#ccffff>芝　制 ||<#ccffff> ■│{{{#c0c0c0 ││}}}│■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}||<#ccffff>　||
+||<#ccffff>P165 ||<#ccffff>125.7 ||<#ccffff>[wiki:"평택역" 평　택] ||<#ccffff>平　澤 ||<#ccffff> │■│{{{#c0c0c0 ■││■}}}│■│ ||<#ccffff>× ||<#ccffff>⊙ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ◆}}}||<#ccffff>　||
+||<#ccffff>P166 ||<#ccffff>135.1 ||<#ccffff>[wiki:"성환역" 성　환] ||<#ccffff>成　歡 ||<#ccffff> │■│{{{#c0c0c0 ■││■}}}│■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ┃}}}{{{#008000 ◆}}}||<#ccffff>　||<:><|12>충[[BR]]청[[BR]]남[[BR]]도||<|3><#c0c0c0>천안시[[br]]서북구 ||
+||<#ccffff>P167 ||<#ccffff>140.5 ||<#ccffff>[wiki:"직산역" 직　산] ||<#ccffff>稷　山 ||<#ccffff> │■{{{#c0c0c0 ││}}} ■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ┃}}}{{{#8ec96d ┃}}}{{{#008000 ┃}}}||<#ccffff>　||
+||<#ccffff>P168 ||<#ccffff>144.3 ||<#ccffff>[wiki:"두정역" 두　정] ||<#ccffff>斗　井 ||<#ccffff> │■│{{{#c0c0c0 │││}}}│■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ◆}}}||<#ccffff>　||
+||<#ccffff>P169 ||<#ccffff>147.3 ||<#ccffff>[wiki:"천안역" 천　안] ||<#ccffff>天　安 ||<#ccffff> │■{{{#c0c0c0 ││}}}■│ ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>{{{#red ◆}}}{{{#8ec96d ◆}}}{{{#008000 ◆}}}||<#ccffff>　||<|2>천안시[[br]]동남구 ||
+||<#ccffff>P170 ||<#ccffff>148.8 ||<#ccffff>[wiki:"봉명역" 봉　명] ||<#ccffff>鳳　鳴 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>　||<#ccffff>　||
+||<#ccffff>P171 ||<#ccffff>150.3 ||<#ccffff>[wiki:"쌍용역(장항선)" 쌍　용] ||<#ccffff>雙　龍 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>　||<#ccffff>　||<#c0c0c0>천안시[[br]]서북구 ||
+||<#ccffff>P172 ||<#ccffff>151.8 ||<#ccffff>[wiki:"천안아산역" 아　산] ||<#ccffff>牙　山 ||<#ccffff> │■{{{#c0c0c0 ││}}}■│ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>　||<#ccffff>　||<|6>아산시 ||
+||<#ccffff>P173 ||<#ccffff>　||<#ccffff>~~[wiki:"탕정역" 탕　정]~~ ||<#ccffff>~~湯　井~~ ||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||
+||<#ccffff>P174 ||<#ccffff>156.7 ||<#ccffff>[wiki:"배방역" 배　방] ||<#ccffff>排　芳 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>◇ ||<#ccffff>　||<#ccffff>　||
+||<#ccffff>P175 ||<#ccffff>　||<#ccffff>~~[wiki:"풍기역" 풍　기]~~ ||<#ccffff>~~豊　基~~ ||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||<#ccffff>　||
+||<#ccffff>P176 ||<#ccffff>161.6 ||<#ccffff>[wiki:"온양온천역" 온양온천] ||<#ccffff>溫陽溫泉 ||<#ccffff> {{{#c0c0c0 │}}} ■││■ {{{#c0c0c0 │}}} ||<#ccffff>○ ||<#ccffff>⊙ ||<#ccffff>　||<#ccffff>　||
+||<#ccffff>P177 ||<#ccffff>166.7 ||<#ccffff>[wiki:"신창역(장항선)" 신　창] ||<#ccffff>新　昌 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>　||<#ccffff>　||
+
+== 경부고속선 ==
+||<|2> 역번 ||<|2> ㎞ ||||<|2> 역명 |||| 승강장 ||<|2> 등급 ||<|2> 급행 ||<|2> 환승노선 ||<|2> 소재지 ||
+|| 형태 || 횡단 ||
+||||||||||||||||||||　△ 금천구청 ||
+||<#ccffff>K410 ||<#ccffff>72.7 ||<#ccffff>[wiki:"광명역(경부고속선)" 광　명] ||<#ccffff>光　明 ||<#ccffff> ■│{{{#c0c0c0 │■││││■│}}}│■ ||<#ccffff>× ||<#ccffff>○ ||<#ccffff>{{{#ffdf3e ◆}}} ||<#ccffff>　||<#c0c0c0>경기도[[BR]]광명시 ||
+
+== 병점기지선 ==
+||<|2> 역번 ||<|2> ㎞ ||||<|2> 역명 |||| 승강장 ||<|2> 등급 ||<|2> 급행 ||<|2> 환승노선 ||<|2> 소재지 ||
+|| 형태 || 횡단 ||
+||||||||||||||||||||　△ 병　점 ||
+||<#ccffff>P157-1 ||<#ccffff>101.6 ||<#ccffff>[wiki:"서동탄역" 서동탄] ||<#ccffff>西東灘 ||<#ccffff> │■│ ||<#ccffff>○ ||<#ccffff>○ ||<#ccffff>　||<#ccffff>　||<#c0c0c0>경기도[[BR]]오산시 ||

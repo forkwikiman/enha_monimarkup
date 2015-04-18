@@ -1,0 +1,207 @@
+ * 상위 문서: [[진핵생물역(생물목록)]]
+ * 일반적인 내용은 [[동물]] 참고.
+
+[[목차]]
+
+= 측생동물아계 =
+== 해면동물문(Porifera) ==
+[[해면동물문(생물목록)]]
+== 판형동물문(Placozoa) ==
+ * 털납작벌레(''Trichoplax adhaerens'' Schulze, 1883)
+
+= 진정후생동물아계 =
+== 방사대칭동물군 ==
+=== 자포동물문(Cnidaria) ===
+==== 산호충강(Anthozoa) ====
+ * [[말미잘]]
+  * 꽃말미잘
+ * [[산호]]
+  * 해송
+  * 보석산호
+  * [[대보초]]
+==== 히드라충강(Hydrozoa) ====
+ * [[히드라]]
+  * 깃히드라
+  * 테히드라
+ * [[홍해파리]]
+ * [[고깔해파리]]
+==== [[해파리|해파리강(Scyphozoa)]] ====
+ * [[노무라입깃해파리]]
+ * [[사자갈기해파리]]
+ * 보름달물해파리
+==== [[상자해파리|상자해파리강(Cubozoa)]] ====
+ * [[이루칸지|이루칸지(Irukandji)]]
+ * 바다말벌(''Chironex fleckeri'' Southcott, 1956)
+
+=== 유즐동물문(Ctenophora) ===
+ * 빗해파리
+
+== 좌우대칭동물군 ==
+=== 직유동물문(Orthonectida) ===
+=== 능형동물문(Rhombozoa) ===
+=== 무장동물문(Acoelomorpha) ===
+=== 모악동물문(Chaetognatha) ===
+ * 화살벌레
+
+=== 편충동물상문 ===
+==== 편형동물문(Platyhelminthes) ====
+ * 와충강(Turbellaria)
+  * [[플라나리아]]
+ *흡충강(Trematoda)
+  * 디스토마
+  * [[서울주걱흡충]]
+ *촌충강(Cestoda)
+  * [[촌충]]
+==== 복모동물문(Gastrotricha) ====
+==== 윤형동물문(Rotifera) ====
+ * 로티퍼[* [알테미아]와 함께 자치어(어린 물고기)의 먹이 생물로 이용된다.]
+==== 구두동물문(Acanthocephala) ====
+==== 악구동물문(Gnathostomulida) ====
+==== 미악동물문(Micrognathozoa) ====
+==== 구륜동물문(Cycliophora) ====
+
+=== 촉수담륜동물상문 ===
+==== 성구동물문(Spiuncula) ====
+ * 별벌레
+==== 유형동물문(Nemertea) ====
+ * 끈벌레
+==== 추형동물문(Phoronida) ====
+ * 비벌레
+==== 태형동물문(Bryozoa) ====
+ * 피후강(Phylactolaemata)
+  * 총담이끼벌레
+  * [큰빗이끼벌레]
+ * 협후강(Stenolaemata)
+  * 접시이끼벌레
+ * 나후강(Gymnolaemata)
+  * 숨은이끼벌레
+  * 자주빛이끼벌레
+  * 큰다발이끼벌레
+==== 내항동물문(Entoprocta) ====
+==== 완족동물문(Branchiopoda) ====
+ * 개맛
+ * 조개사돈
+==== 연체동물문(Mollusca) ====
+[[연체동물문(생물목록)]]
+
+==== 환형동물문(Annelida) ====
+ * 다모강(Polychaeta)
+  * 털갯지렁이목(Eunicida)
+   * 왕털갯지렁이(보빗웜)
+  * 부채발갯지렁이목(Phyllodocida)
+   * 참갯지렁이
+   * 비늘갯지렁이
+   * 미갑갯지렁이
+   * 수염갯지렁이
+   * 투구갯지렁이
+   * 얼굴갯지렁이
+  * 흡구충목(Myzostomida)
+   * 흡구충
+  * 꽃갯지렁이목(Sabellida)
+   * 꽃갯지렁이
+   * 석회관갯지렁이
+   * Sibogolinidae[* 구 유수동물문, 현재는 환형동물문 다모강 하위의 과.]
+    * 관벌레
+    * 갈라파고스민고삐수염벌레
+  * 유령갯지렁이목(Terebellida)
+   * 유령갯지렁이
+ * 빈모강(Clitellata)
+  * 지렁이아강(Oligochaeta)
+   * [[지렁이]]
+   * [[거대지렁이]]
+  * 거머리아강(Hirudinea)
+   * [[거머리]]
+  * Branchiobdellae
+ * 원시환충강(Archiannelida)
+ * 개불강(Echiura)
+  * [[개불]]
+  * [[보넬리아]]
+
+=== 탈피동물상문 ===
+==== 동문동물문(Kinorhyncha) ====
+==== 동갑동물문(Loricifera) ====
+==== 새예동물문(Priapulida) ====
+ * 새예강 
+  * 새예목
+   * 새예과 
+   * 투빌루쿠스과
+==== 유선형동물문(Nematomorpha) ====
+ * [[연가시]]
+==== 선형동물문(Nematoda) ====
+ * Enoplia
+  * 편충목(Trichurida)
+   * 편충
+  * 곤충살이긴선충목(Mermithida)
+   * 메뚜기선충
+ * 쌍선충강(Secernentea)
+  * 원충목(Rhabditida)
+   * 십이지장충
+   * 돈폐충
+   * 구충
+   * 아메리카구충 
+   * [[원충]]
+   * [[예쁜꼬마선충]]
+  * 회충목(Ascaridida)
+   * [[고래회충]]
+   * [[회충]]
+   * 요충
+  * 무순선충목(Camallanida)
+   * [[메디나충]]
+ * 시미선충목(Spirurida)
+  * 사상충
+  * [[심장사상충]]
+==== 유조동물문(Onychophora) ====
+ * Euonychophora 
+  * Peripatidae
+  * Peripatopsidae
+   * 발톱벌레
+==== 완보동물문(Tardigrada) ====
+ * [[곰벌레]]
+==== †엽족동물문(Lobopodia) ====
+ * 아이셰하이
+ * [[할루키게니아]]
+ * 공하강(Dinocaridida)
+  * 라디오돈트목(Radiodonta)
+   * 아노말로카리스과(Anomalocarididae )
+    * [아노말로카리스]
+    * 후르디아
+    * [페이토이아]
+    * [신더하네스][* 절지동물의 특징이 보이는 친구이다.]
+    * 암플렉토벨루아
+    * 카수비아
+    * 카리요신트립스
+    * 스텐리카리스
+    * 쿠쿠메리쿠스
+   * 오파비니아과(Opabiniidae)
+    * [오파비니아]
+==== 절지동물문(Arthropoda) ====
+[[절지동물문(생물목록)]]
+
+=== 후구동물상문 ===
+==== 극피동물문(Echinodermata) ====
+ * †호말로조아문(Homalozoa)
+ * 바다나리아문(Crinozoa)
+  * 바다나리강(Crinoidea)
+   * 바다나리목(Comatulida)
+    * 깃갯고사리과
+    * 예쁜갯고사리과
+   * †이소크리니다(Isocrinida) 
+ * 불가사리아문(Asterozoa)
+  * [[불가사리#s-1|불가사리강(Asteroidea)]]
+   * 아무르불가사리
+   * 별불가사리
+  * 거미불가사리강(Ophiuroidea) 
+   * 거미불가사리
+   * 삼천발이
+ * 성게아문(Echinozoa)
+  * 성게강(Echinoidea)
+   * [[성게]]
+   * 염통성게
+   * 연잎성게
+  * 해삼강(Holothuroidea)
+   * [[해삼]]
+==== 반삭동물문(Hemichordata) ====
+ * 별벌레아재비
+==== 진와충동물문(Xenacoelomorpha) ====
+==== 척삭동물문(Chordata) ====
+[[척삭동물문(생물목록)]]

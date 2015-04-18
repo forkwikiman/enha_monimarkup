@@ -1,0 +1,15 @@
+||<tablealign=center>||||||||<:>'''< [wiki:"BOF" BOF2005] 개인전 스코어 우승곡 >''' ||
+|| 2004 - [[七つの鍵盤のためのソナタ -嬰ニ短調-]] || → || '''海神寓排''' || → || 2006 - [wiki:"路上のギリジン" 路上のギリジン-Shou+rt Mix-] ||
+
+{{{#!html
+<object width="510" height="360"><param name="movie" value="http://www.youtube.com/v/QeJ8_vxYGjc?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QeJ8_vxYGjc?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="510" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[BMS OF FIGHTERS]] 2005에 출품된 [[BMS]]로, 제작자는 [[sasakure.UK]].
+
+한국발음으로 제목을 읽으면 [[해신우배]]라고 읽을 수 있다. sasakre.UK가 ♂ShooTinG StaR★ミ팀을 이루었을 때도 사기팀이라는 예측이 있었고, [wiki:"그런데 그것이 실제로 일어났습니다"실제로 그 예상에서 벗어나지 않았다.][* 팀 구성원 나머지는 각각 guna(현 maki), 篠螺悠那(Masa). guna의 雪月夜鐘는 총점5/평점4위, 篠螺悠那의 物怪舞踏는 총점3/평점6위를 기록했다.] 사실 이 팀은 세 곡이 전부 같은 장르명인 Fantasia를 달고 나왔고, 작곡가마다의 다른 특색을 엿볼 수 있는 예가 되기도 했다. 
+
+스토리적으로는 '소년이 전설속에 나오는 해신을 만나 정체를 밝히는 이야기'라는 장르명에 걸맞는 스토리를 주제로 서정적인 멜로디로 풀어냈으며, 특히 사사쿠레 본인이 직접 만든 [[BGA]]는 비주얼 구성이 곡과 잘 맞아 떨어지는 동화적 분위기의 구성으로 되어있고 패턴에도 중간의 'Free of feeling'을 전후한 변속 등 여러 요소가 있다.
+이러한 경향은 후에 [[Avalon]]으로 이어지고, [[Jack the Ripper◆]]의 패턴에서도 나타난다.[* 물론 후자의 경우 sweez와 합작인 데다 BGA담당은 [[sta]]이긴 하지만 비교될만한 구성이 많다.]
+
+BPM은 200으로, 패턴의 전체적인 난이도는 무난한 편. 그래서인지 평점은 좀 깎여서 23위이긴 했지만 총점 및 임프레 수 부문에서 1위를 차지하여 개인전 우승을 차지한다. 여담으로 sasakure.UK는 초기 BOF에서 여러번 1위후보에 들었지만 실제 어떤 부문에서 1위를 달성한 곡은 이 곡 하나다. 2008년의 Avalon과 2009년의 Jack the Ripper◆는 개인전 스코어 2위에 그쳤다.

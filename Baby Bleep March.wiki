@@ -1,0 +1,31 @@
+attachment:/Baby_Bleep_March.png
+
+[[유비트 시리즈]]의 수록곡. 작곡은 [[무라이 세이야]]. [[beatmania IIDX 14 GOLD]]의 [[TRANOID]], [[팝픈뮤직 20 fantasia]]의 [[そして世界は音楽に満ちた]]를 잇는 [[칩튠]]계 악곡이다.
+
+||||||||<#ffffff><:> {{{#black jubeat saucer 기준}}}||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>5||<:>8||<:>9||
+||<#ffffff><:>노트수||<:>297||<:>559||<:>677||
+||<#ffffff><:>BPM||||||<:>180||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에 2012/9/25 첫 수록[[BR]][[유비트 플러스]]에서 saucer pack 02에 수록[[BR]][[유비트 소서]]에서 2013/3/1 교체[[BR]][[유비트 소서]]에서 2013/6/24 지금만의 악곡으로 재수록[[BR]][[유비트 소서]]에서 2013/9/1 교체[[BR]][[유비트 소서]]에서 2014/1/20 지금만의 악곡으로 재수록||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * '''噂'''[* 굵은 글씨는 칭호 파츠.]のノーティーベイベー (소문의 노 티 베이비) : 모든 보면 클리어
+  * '''伝説'''のクライングベイベー (전설의 크라잉 베이비) : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+유비트 소서의 첫 [[bistro saucer]] 해금곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/Vv1jPPdgIi0" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT 채보 영상
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/84FRCL8J7Uk" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+180이라는 빠른 [[BPM]]에 16비트 단타에 동시치기가 간간히 섞여서 나오는 패턴이 주를 이루며, 특히 간접미스가 날 수 있는 패턴들이 잦으니 주의해야한다. 

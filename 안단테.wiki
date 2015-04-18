@@ -1,0 +1,21 @@
+[[목차]]
+== Andante ==
+
+음악에서 악곡의 빠르기를 나타내는 [[음악 용어]] 중 하나로, '느리게'라는 뜻이다.
+~~n 위치 하나만 바꾸면 Nandate가 된다.~~
+
+== アンダンテ ==
+
+일본의 가수 [[야이다 히토미]]의 곡.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Qv1PjrRxG78&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Qv1PjrRxG78&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+리듬게임에서는 [[기타프릭스]] 9th MIX & [[드럼매니아]] 8th MIX에 판권곡으로 실렸는데, 이후로 V3에 [[Go my way]]가 실리게 됨으로서 야이다 히토미는 [[범프 오브 치킨]]과 함께 기타드럼 시리즈에 가장 많은 판권곡(5곡)을 제공한 가수가 되었다.
+
+특징이라면, 기타드럼 시리즈에 실린 야이다 히토미의 곡 중에서 풀콤보 난이도가 가장 쉽다(...) 패턴이 규칙적인 8비트로 나오고, 중간에 탐탐이 껴서 나오는 부분만 주의하면 풀콤보에 큰 지장은 없는 수준.
+
+다만 드럼매니아 10th MIX가 국내에 막 퍼졌을 때는 이 곡을 무심코 건드리다 폭사(...)한 라이트 유저들이 제법 되었는데, 그때 이 곡의 익스트림 난이도의 표기난이도가 38이라서 5th MIX 시절의 38을 생각하다가(그 때는 [[시리토리]]의 표기난이도가 91이었던 때였다(...)) 폭사했던 것이다.
+
+BGA에 나오는 귀여운 소녀 캐릭터가 기타를 들고 신나게 노래를 부르는 것도 포인트라면 포인트(?)

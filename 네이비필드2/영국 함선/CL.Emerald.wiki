@@ -1,0 +1,104 @@
+[[목차]]
+
+= 기본 정보 =
+|| attachment:네이비필드2/CL.Emerald.jpg ||  ||
+>1926년에 취역한 Emerald Class 경순양함은 E Class 라고도 불리우며 이전의 Danae Class를 개량한 형태의 함선입니다.
+
+||<tablewidth=90%><tablealign=center><|4><#CCCCCC> 기본 정보 ||||||<#DCDCDC>티어||||<#DCDCDC>4||
+||||||가격||||6,650||
+||||||<#DCDCDC>함체 연구 경험치||||<#DCDCDC>10,188||
+||||||이전 함선부터 연구 경험치||||15,148||
+||<|10><#CCCCCC> 장비 ||<|6><#BBBBBB> 함선 정보 ||||<#DCDCDC>내구력||||<#DCDCDC>23,537||
+||||속도||||37.0노트||
+||||<#DCDCDC>급 가속 준비시간||||<#DCDCDC>9.8초||
+||||급 가속 유지시간||||3.4초||
+||||<#DCDCDC>전투 수리량||||<#DCDCDC>0.0DP/초||
+||||최대 대공기관총 명중률||||24.4%||
+||<|4><#BBBBBB> 장갑 ||||<#DCDCDC>상면||||<#DCDCDC>0||
+||||측면||||0||
+||||<#DCDCDC>방뢰||||<#DCDCDC>0||
+||||방어등급||||3||
+||<|29><#CCCCCC> 무장 ||<|11|><#BBBBBB> 주포 ||||<#DCDCDC>종류||||<#DCDCDC>6"/45 BL Mark XII||
+||||구성||||2연장 1기, 1연장 5기||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>5.3초||
+||||정확도||||C||
+||||<#DCDCDC>최대 사거리||||<#DCDCDC>1,701||
+||||최대 발사각||||30도||
+||||<#DCDCDC>탄약량||||<#DCDCDC>?||
+||<|4><#AAAAAA> 공격력 ||탄종||HE||AP||
+||<#DCDCDC>폭발||<#DCDCDC>663||<#DCDCDC>199||
+||관통||199||795||
+||<#DCDCDC>대지||<#DCDCDC>331||<#DCDCDC>133||
+||<|7><#BBBBBB> 어뢰 ||||종류||||21" Torpedo Launcher||
+||||<#DCDCDC>구성||||<#DCDCDC>3연장 4기||
+||||재장전 시간||||52.8초||
+||||<#DCDCDC>이동 거리||||<#DCDCDC>4,197||
+||||속도||||53.2노트||
+||||<#DCDCDC>탄약량||||<#DCDCDC>48||
+||<#AAAAAA> 공력력 ||폭발||||9,930||
+||<|5><#BBBBBB> 기뢰 ||||<#DCDCDC>종류||||<#DCDCDC>Mark XX||
+||||구성||||3연장 1기||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>37.7초||
+||||탄약량||||75||
+||<#AAAAAA> 공격력 ||<#DCDCDC>폭발||||<#DCDCDC>8,661||
+||<|4><table align=center><#BBBBBB>소나 시스템||||재사용 시간||||18.5초||
+||||<#DCDCDC>지속시간||||<#DCDCDC>37.0초||
+||||탐색 범위||||531||
+||||<#DCDCDC>탐색 능력||||<#DCDCDC>55.0%||
+||<|2><#BBBBBB> 거점점령 ||||부대수||||222||
+||||<#DCDCDC>공격력||||<#DCDCDC>840||
+
+= 함선 연구 =
+== 가속력 ==
+=== 경순양함 가속력 증가 I ===
+||<tablewidth=90%><tablealign=center><|5><#CCCCCC> 기본 정보 ||||<#DCDCDC>연구 내용||<#DCDCDC>함선 가속도: 105%||
+||<|2><#BBBBBB> 세부 내용 ||기존||0.3||
+||<#DCDCDC>변경 후||<#DCDCDC>0.3||
+||||필요 경험치||5,750||
+||||<#DCDCDC>필요 크레딧||<#DCDCDC>3,020||
+
+=== 경순양함 가속력 증가 II ===
+||<tablewidth=90%><tablealign=center><|5><#CCCCCC> 기본 정보 ||||<#DCDCDC>연구 내용||<#DCDCDC>함선 가속도: 110%||
+||<|2><#BBBBBB> 세부 내용 ||기존||0.3||
+||<#DCDCDC>변경 후||<#DCDCDC>0.3||
+||||필요 경험치||8,630||
+||||<#DCDCDC>필요 크레딧||<#DCDCDC>4,530||
+
+=== 경순양함 가속력 증가 III ===
+||<tablewidth=90%><tablealign=center><|5><#CCCCCC> 기본 정보 ||||<#DCDCDC>연구 내용||<#DCDCDC>함선 가속도: 115%||
+||<|2><#BBBBBB> 세부 내용 ||기존||0.3||
+||<#DCDCDC>변경 후||<#DCDCDC>0.3||
+||||필요 경험치||12,950||
+||||<#DCDCDC>필요 크레딧||<#DCDCDC>6,800||
+
+
+== 시야범위 ==
+=== 경순양함 시야범위 증가 I ===
+||<tablewidth=90%><tablealign=center><|5><#CCCCCC> 기본 정보 ||||<#DCDCDC>연구 내용||<#DCDCDC>함선 시야: 110%||
+||<|2><#BBBBBB> 세부 내용 ||기존||803||
+||<#DCDCDC>변경 후||<#DCDCDC>'''{{{#00DD00 883.3}}}'''||
+||||필요 경험치||8,630||
+||||<#DCDCDC>필요 크레딧||<#DCDCDC>4,530||
+
+=== 경순양함 시야범위 증가 II ===
+||<tablewidth=90%><tablealign=center><|5><#CCCCCC> 기본 정보 ||||<#DCDCDC>연구 내용||<#DCDCDC>함선 시야: 120%||
+||<|2><#BBBBBB> 세부 내용 ||기존||803||
+||<#DCDCDC>변경 후||<#DCDCDC>'''{{{#00DD00 963.6}}}'''||
+||||필요 경험치||15,830||
+||||<#DCDCDC>필요 크레딧||<#DCDCDC>8,310||
+
+
+== 방어등급 ==
+=== 경순양함 방어등급 I ===
+||<tablewidth=90%><tablealign=center><|5><#CCCCCC> 기본 정보 ||||<#DCDCDC>연구 내용||<#DCDCDC>함선 방어등급: +1||
+||<|2><#BBBBBB> 세부 내용 ||기존||3||
+||<#DCDCDC>변경 후||<#DCDCDC>'''{{{#00DD00 4}}}'''||
+||||필요 경험치||4,320||
+||||<#DCDCDC>필요 크레딧||<#DCDCDC>2,270||
+
+=== 경순양함 방어등급 II ===
+||<tablewidth=90%><tablealign=center><|5><#CCCCCC> 기본 정보 ||||<#DCDCDC>연구 내용||<#DCDCDC>함선 방어등급: +2||
+||<|2><#BBBBBB> 세부 내용 ||기존||3||
+||<#DCDCDC>변경 후||<#DCDCDC>'''{{{#00DD00 5}}}'''||
+||||필요 경험치||12,950||
+||||<#DCDCDC>필요 크레딧||<#DCDCDC>6,800||

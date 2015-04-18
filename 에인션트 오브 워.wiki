@@ -1,0 +1,96 @@
+[[include(틀:워크래프트 3/나이트 엘프 센티널)]]
+
+ * 상위 항목: [[워크래프트 3/종족, 유닛, 건물]]
+
+http://classic.battle.net/war3/images/nightelf/buildings/ancientofwar.gif
+[[워크래프트 3]]에 등장하는 [[나이트 엘프 센티널]]의 건물.
+
+건설비용 : 금 150 나무 60
+건설시간 : 60초
+체력 : 1000
+아머 : 건물(2) 네이쳐스 블래싱 업그레이드 시 아머 (7)
+기능 : 근접 공격 (노말 45-55) , 나무 먹기 , 유닛 생산 및 업그레이드
+
+[[목차]]
+== 설명 ==
+Ancient of War. 나이트 엘프 병력을 양산하는 기본 건물이다. 가격은 상당히 싼데 강한 공격력과 맷집을 가지고 있다. 이쯤되면 밀리 공격유닛인지 생산건물인지 분간이 안 갈 정도. 오리지널 시절 워를 대량으로 지어서 러쉬가면 답이 없었기 때문에 [[사나난]] 전설에 일조했다. 방어타입 너프를 먹은 이후에도 초반에 워사냥을 가능케 한 건물로써 활약하고 있다.
+
+ * 성공사례
+[http://tvpot.daum.net/clip/ClipView.do?clipid=46979217&rtes=y&startDuration=106.04 #] [http://www.youtube.com/watch?v=5pLzfaFWXVg 2]
+[http://tvpot.daum.net/clip/ClipView.do?clipid=47161636&rtes=y&startDuration=158.57 ##] [http://tvpot.daum.net/clip/ClipView.do?clipid=47206287&rtes=y&startDuration=182.65 ###] [http://www.mgoon.com/view.htm?id=4478500 ###] [http://www.youtube.com/watch?v=5idlJ-hsrCI ###] [http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11374848&nTitleNo=3553721&nRowNum=15&szSkin=&nPageNo=1 ###]  [http://tvpot.daum.net/clip/ClipView.do?clipid=24830321&rtes=y&startDuration=123.65 ###]
+
+그래도 [[에인션트]]들이 일어나게 되면 건물 아머에서 헤비 아머로 변해 강한 지역을 [[크리핑]] 할 때는 나무 먹기를 미리 시전하고 [[탱킹]]을 하면서 [[뎀딜]]도 해야 하고 건물이 유닛의 막타를 치면 경험치를 안주니까 워가 막타를 양보하는 컨도 해야하기에 손이 많이 간다. 거기다가 상대방이 워사냥하는데 방해하면 더욱더 난감해지고, 혹시나 적 영웅이 에이션트를 부숴 경험치를 먹어가는 대참사도 간혹 나온다. 워사냥도 결국은 어디를 하느냐에 따라 실력이다.
+
+ * 초반 워사냥의 실패사례 
+[http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11396770&nTitleNo=3519913&nRowNum=15&szSkin=&nPageNo=1 트위스티드 매도우][http://www.youtube.com/watch?v=cRBchtJot_E youtube]
+[http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11396770&nTitleNo=3521210&nRowNum=15&szSkin=&nPageNo=1 크립에 의한 취소][http://www.youtube.com/watch?v=AKBZvGJyu_Y youtube]
+[http://tvpot.daum.net/clip/ClipView.do?clipid=47142463&rtes=y&startDuration=149.54 에코아일][http://v.youku.com/v_show/id_XMzI5NTE0MTc2.html 2] --[http://jupanda.tistory.com/396  또 다른 예] [* http://v.ku6.com/special/show_3858167/5twB9_DyPxDKH0BA.html 중국어] [http://www.youtube.com/watch?feature=player_detailpage&v=B9APnYqSA40#t=5808s 또 또 다른예 youtube]--
+[http://www.youtube.com/watch?v=o388H_Mc0pc 선이몰로 사냥 자체는 성공했다]
+
+ * 그 외
+[http://blog.naver.com/lrole7l?Redirect=Log&logNo=130115669854 트위스티드 매도우]에서 첫 사냥 실패이후 두번째 사냥 성공[http://v.pcgames.com.cn/video-82943.html #]
+[http://www.youtube.com/watch?feature=player_detailpage&v=j8dyValGP8A#t=103s 1풋,1 피전트 견제 대처] [http://www.youtube.com/watch?feature=player_detailpage&v=XiaVGdAvO30#t=132s 2] [http://www.youtube.com/watch?feature=player_detailpage&v=TYqydJgZCe0#t=103s 3]
+[http://tvpot.daum.net/clip/ClipView.do?clipid=25733087&rtes=y&startDuration=402.16 세컨 영웅과 함께 엇박자 워사냥]
+[http://www.youtube.com/watch?v=j3iZqI4aiMI&feature=c4-overview&list=UUygxGDxU48UIMRcymVdopIg 워 두개 운영]
+
+워 두개로 심시티를 하는 방법 소개[http://cafe.naver.com/a1tv.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=26871%26sc=1a265f94d58155706b16ab82229561d194beb3df%26query=%B3%AA%BF%A4+%BD%C9%BD%C3%C6%BC%26onSearchHighLight=true%26clubid=18863363#content-area #]
+-- 세기의 대결 우방휴먼 vs 워[https://www.youtube.com/watch?v=z_Vbp9V7DfI 1]--
+라이프 드레인을 찍은 다래 1레벨 타워링 vs 워 3개 [http://v.youku.com/v_show/id_XMTIyMTkxMDc2.html #]
+에인션트 오브 워와 건물들--feat 키퍼,마운틴 자이언트--[http://www.youtube.com/watch?v=ONT9GREes-w #]
+[http://www.youtube.com/watch?v=-jxcr3rxN14 워사냥을 틈탄 1레벨 찌르기] [http://www.youtube.com/watch?v=vwtOIEm7FOM&list=PLRCz2RLYlhRN2BpNkhidnt5aZRc5i7ttb #]
+
+
+=== 생산 가능한 유닛 ===
+
+http://classic.battle.net/war3/images/nightelf/units/icons/archer.gif
+ * [[아처(워크래프트)|아처]]
+http://classic.battle.net/war3/images/nightelf/units/icons/huntress.gif
+ * [[헌트리스]] ([[헌터스 홀]] 필요)
+http://classic.battle.net/war3/images/nightelf/units/icons/glaivethrower.gif
+ * [[글레이브 스로워]] ([[헌터스 홀]] 필요)
+
+=== 개발 가능한 업그레이드 ===
+http://classic.battle.net/war3/images/nightelf/upgrades/improvedbows.gif
+ * 임프루브드 보우
+[[아처(워크래프트)|아처]]와 [[히포그리프#s-3.1.1|히포그리프 라이더]]의 사정거리를 200 늘려준다.
+아처를 적극 사용해 줄 전략이라면 필히 해야하는 업그레이드
+비용: 금 50 나무 100
+개발시간 : 35초
+요구사항 : [[트리 오브 라이프#s-1.2|트리 오브 에이지]]
+
+http://classic.battle.net/war3/images/nightelf/spells/sentinel.gif
+ * 센티널
+나무에 부엉이를 붙여서 계속 그 지역을 감시하게 한다. 주변에 투명유닛도 탐지해 낼 수 있으며 부엉이가 붙어 있는 나무가 사라지지 않는한 무제한으로 남아있게 된다.
+개발 시간도 짧고 의외로 나무를 없앨수 있는 유닛을 많이 뽑지 않는 워크 특성상 잘만 이용하면 사기 소리 들을만한 스킬
+비용: 금 100 나무 100
+개발시간 : 20초
+요구사항 : [[트리 오브 라이프#s-1.2|트리 오브 에이지]] , [[헌터스 홀]]
+
+http://classic.battle.net/war3/images/nightelf/upgrades/marksmanship.gif
+ * 마크스맨쉽
+[[아처(워크래프트)|아처]]와 [[히포그리프#s-3.1.1|히포그리프 라이더]]의 데미지를 3 늘려준다.
+최대 최소 데미지를 3 늘려주므로 공격력을 극대화 할 수 있겠지만 워낙 나엘들이 [[에인션트 오브 워]] 계열 유닛을 잘 사용하지 않으므로.. 묻혔다.
+비용: 금 100 나무 175
+개발시간 : 40초
+요구사항 : [[트리 오브 라이프#s-1.3|트리 오브 이터니티]] , [[헌터스 홀]]
+
+
+http://classic.battle.net/war3/images/nightelf/spells/moonglaive.gif
+ * 문 글레이브
+[[헌트리스]]에게 한 번의 공격으로 여러명을 타격할 수 있게 하는 업그레이드. 업을 하지 않아도 튕기는데 이 업글을 하고 나면 정말 정신 없이 튕긴다. 이 업글을 하려면 이터니티까지 올려야 하는데 그때까지 헌터리스를 주력으로 꾸준히 쓸 이유가 없으므로 묻혔다.
+비용: 금 100 나무 150
+개발시간 : 35초
+요구사항 : [[트리 오브 라이프#s-1.3|트리 오브 이터니티]] , [[헌터스 홀]]
+
+
+http://classic.battle.net/war3/images/nightelf/upgrades/vorpalblades.gif
+ * 보팔 블레이드
+[[글레이브 스로워]]가 나무를 공격 가능하게 만들어준다.
+어차피 글러먹은 쓰레기 보기도 힘들고 다른 공성 병기들이 기본적으로 내장하고 있는 나무 파괴를 못해서 더욱 욕을 먹는다. 개발시간도 워에서 가장 긴 업그레이드다. 스플래쉬와 명중률도 변화하는데 [http://cafeblog.search.naver.com/search.naver?where=cafeblog&sm=tab_jum&ie=utf8&query=%EB%B3%B4%ED%8C%94+%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C+%EA%B8%80%EC%93%B0 자세한건 링크 참조]
+비용: 금 125 나무 100
+개발시간 : 60초
+요구사항 : [[트리 오브 라이프#s-1.2|트리 오브 에이지]] , [[헌터스 홀]]
+
+== 기타 ==
+
+[월드 오브 워크래프트]에서는 전쟁의 고대정령이라는 이름으로 번역. [다르나서스] 등지에서 있는 걸 가끔 볼 수 있다.

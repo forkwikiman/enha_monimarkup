@@ -1,0 +1,90 @@
+[[목차]]
+
+== 개요 ==
+attachment:7_copiousa_reprise.png
+
+[[BEMANI 시리즈]]의 수록곡. 명의는 보컬인 SHOGO로, 작사 및 작곡은 [[96]].
+
+[[BEMANI 시리즈/연동 이벤트|기타・드럼・유비트 대 여름축제]]의 네번째 해금곡이었다.
+
+== [[기타프릭스·드럼매니아]] ==
+{{|
+예전같지 않게 아슬아슬했습니다. 스케줄이나 뭐 이것저것이요. [[데헷]].
+
+- [[96]], 기타도라 XG3 시즌2 OST
+|}}
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [[기타프릭스·드럼매니아 XG|XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 182 ||<|2><:> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} ||
+|| {{{#blue 1.80}}} || {{{#orange 3.80}}} || {{{#red 5.10}}} ||
+|| 기타 베이스 || {{{#blue 2.30}}} || {{{#orange 3.90}}} || {{{#red 4.80}}} ||
+|| 드럼매니아 || {{{#blue 1.80}}} || {{{#orange 3.60}}} || {{{#red 5.60}}} ||
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube-nocookie.com/v/0CW3UqQTwG0?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/0CW3UqQTwG0?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 기타 표준/베이스 {{{#red 익스퍼트}}}
+
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube-nocookie.com/v/uQnKNZnS3iQ?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/uQnKNZnS3iQ?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 드럼 {{{#orange 레귤러}}}/{{{#red 익스퍼트}}}
+
+== [[유비트 시리즈]] ==
+{{|
+【채보】 [[맛스루]]
+드럼 맞춤 보면으로부터 시작해 jubeat스럽게 가사를 의식한 문자 패턴이 있어
+96쨩의 맞춤 기타가 들어오는 대여름축제의 묘미가 가득한 곡입니다.
+jubeat에는 왼쪽 시동이 많은데, 드럼을 의식한 곳은 손의 회전에 맞춰 오른쪽 시동이거나 한 것도 대여름축제 곡!!
+
+- [[유비트 코피어스]] 스태프 블로그
+|}}
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>9||
+||<#000000><:>{{{#white 노트수}}}||<:>215||<:>360||<:>648||
+||<#000000><:>{{{#white BPM}}}||||||<:>182||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#5a5aff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 코피어스 어펜드]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>copious pack 11||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+관련 칭호
+ * [[유비트 코피어스 어펜드]] ~
+  * '''RePrise'''[* 굵은 글씨는 칭호 파츠.] [[기타프릭스|Freaks]] : 모든 보면 클리어
+  * RePrise '''[[드럼매니아|Mania]]''': 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube-nocookie.com/v/LkEfCG5suXs?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/LkEfCG5suXs?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+익스트림, 어드밴스드 상관없이 전체적으로 문자패턴이 많이 나오는지라 스코어링 면으로는 상당히 난이도가 높은 편. 대표적인 문자 패턴의 예시로,
+
+||① □ □ ③
+□ □ ③ □
+② □ ③ ③
+② □ ③ □||
+[* 참고로 어드밴스드의 경우엔 I자가 분할되어 있지않고 동시치기 형태이다.]
+
+가사 중 もしも(만약)의 영어 뜻인 If를 따른 패턴과,
+
+■□■□　　□□□□　　□■□■
+□■□□　　□□□□　　□□■□
+□■□□　　□□■■　　□□□□
+□□□□　　□□■■　　□□□□
+
+가사 중 きみを(너를)의 영어 뜻인 YOU가 나오는 등 자주 나오는 문자패턴과 중반부의 기타솔로 12비트 파트를 어떻게 처리하느냐에 따라서 점수 차가 많이 날 수 있다.
+
+기타솔로 파트
+
+①②③□　　①②③①
+④⑤⑥□　　④⑤⑥④
+⑦⑧⑨□　　⑦⑧⑨⑦
+⑩⑪⑫□　　⑩⑪⑫⑩
+
+왼쪽 패턴을 살짝 변형해서 3.5회, 그리고 오른쪽 패턴을 일정하게 3.5회 반복한다. 이 때 박자가 16비트 ●●●○의 반복이 아닌 12비트 ●●●의 반복이라는 점에 주의하자. 폭타 구간에는 왼쪽 패턴에서 오른쪽 패턴으로 넘어가며 길게 쉬는 구간 외에는 쉬는 박자가 없다.

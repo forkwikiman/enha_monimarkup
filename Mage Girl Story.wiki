@@ -1,0 +1,58 @@
+|| 장르 |||||||| Digital Rock[* 타이틀을 비롯한 일부 레이어에서는 '''Digiral Rock'''으로 표기되어 있다.] ||
+|| 곡명 |||||||| Mage Girl Story ||
+|| 작곡 |||||||| [[Praya]] ||
+|| 배경 |||||||| [[RYUminus]](1.0, 1.5) [[br]] [[범용 BGA]] (2.0~) [[br]] [[Saya]](EZ2ON) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 180 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 5}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange -}}}[* 레벨 7 패턴이 있었으나 삭제됨.] || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='peP_TyBKQjc$' width='600px' height='400px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=peP_TyBKQjc$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=peP_TyBKQjc$' width='600px' height='400px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+||작곡가가 미웠다. 제목이 메이지 걸 스토리... 어쩌라는거 ...
+BGA 만드는 사람 입장에서 보면
+작곡가가 "이거 마법소녀 BGA 로 그리셈" 이라는것과 똑같다. 
+갇뎀갇뎀하며 그냥 덕지덕지 그렸다.
+이 BGA 를 만들며 원화실력에 한계를 느꼈다...
+- [[RYUminus]] 비주얼 제작기||
+
+[[목차]]
+== 개요 ==
+[[EZ2DJ 7thTRAX ~Resistance~]]의 수록곡. 미디 느낌이 물씬 나는 사운드가 특징적인 펑크 록으로 [[Dragon Hunter%3F|Dragon Hunter?]]와 비등비등한 퀄리티를 자랑하며, 7th의 암울한 퀄리티를 상징하는 곡 중 하나다.
+
+1.0과 1.01의 BGA에서는 보라색 머리에 보라색 복장을 한 소녀가 등장했고 1.5에서는 그림체가 약간 변화되었다. 당시 류마이너스의 손을 거친 여러 소녀들 중에서 두번째로 인기 있었다고 전해지는데 정확한 사실은 확인 된 바 없다. (아마 특정 부위 때문에 그럴 것이라 추측한다.) 참고로 가장 인기 있었던 것은 Energy Flower의 '17프레임 소녀'이지만 이것은 Nakoopa의 작화이다. 그랬던 것이 2.0에서는 [[범용 BGA]]로 대체되고 디스크 디자인에만 남아있게 되었다.
+
+5키 하드는 스크래치가 꽤 성가시게 나오므로 스크래치를 갓 푼 사람이 입문하면 오래 버티지 못하니 주의하도록 하자. 스크래치가 박자가 까다로우며 특히 롱스크 박자가 어렵다. 잘 안 들리는 디스토션 기타를 스크래치로 연주하기 때문에 박자를 파악하기도 쉽지 않다.
+
+[[EZ2DJ AE]]에서는 곡 판권에 관한 문제로 인해 삭제되었다.
+
+== [[EZ2ON]]에서의 Mage Girl Story ==
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| [[추가바람]] ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) || 3 || 5 || 8 || 14 || - ||
+|| 스트릿(5키) || 5 || 8 || 14 || - || - ||
+|| 클럽(6키/8키) || 5 || 8 || 14 || - || 15 ||
+
+{{{#!HTML
+<iframe width="550" height="413" src="//www.youtube.com/embed/OwDj1SirHMw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[BGA]]
+
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/f1NOhCIAkr8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+6키 HDMix 영상.
+
+노멀 믹스의 타이틀에 'MORMAL MIX'라는 오타가 있었다.

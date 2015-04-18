@@ -1,0 +1,13 @@
+상위 링크 - [[키라링☆레볼루션]]
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer44699' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=3A13B82BD740BE6080D9B65E6CE97C2B27D7&outKey=V12592d804429aca7d02fd0d35e98ea296cc17a700f458edb432ed0d35e98ea296cc1' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=3A13B82BD740BE6080D9B65E6CE97C2B27D7&outKey=V12592d804429aca7d02fd0d35e98ea296cc17a700f458edb432ed0d35e98ea296cc1' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer44699' id='NFPlayer44699' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+[[투니버스]], [[애니맥스]]에서 사용한 [[라라의 스타일기]](키라링☆레볼루션)의 2기 오프닝이다.
+
+원래 2기 오프닝은 [[Shining Star]]이지만 투니버스, 애니맥스에서는 이 오프닝을 사용한다. 라라의 스타일기의 한국내의 판권업체인 SK C&C에서 투니버스, 애니맥스 용으로 새로 제작한 오프닝으로 곡중 영상에 아이앤(임시은)이 출현함으로서 일본판처럼 실존인물을 오프닝에 투여한 것이 특징이다.[* 일본판은 오프닝 중간에 쿠스미 코하루가 출현한다.]
+
+덧붙여서 [[찬스!]]의 일부분, [[해피-☆]]의 마지막 부분을 빼면 전부 SK C&C에서 직접 만든 장면인 것도 특징이며 곡에 퀄리티도 Shining Star에 뒤쳐지지 않는 편이다.
+
+[[각주]]

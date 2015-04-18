@@ -1,0 +1,153 @@
+ * 이 항목은 [6928]로 검색해도 들어오실 수 있습니다.
+
+||<-2><#DEB887><:>'''{{{#red GuitarFreaks V5 & DrumMania V5 Rock to Infinity Extra Rush}}}''' ||
+||<#FFA500> EXTRA 1 || '''[[一網打尽]]''' ||
+||<#FFA500> EXTRA 2 || '''[[Dynamis]]''' ||
+||<#FFA500> EXTRA 3 / ENCORE 1 || '''[[FORCE Interval Build]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 2 || '''[[VANESSA]] -転生編-''' ||
+||<#FFA500> EXTRA 5 / ENCORE 3 || '''[[TENGU]]''' ||
+||<#082567> {{{#white ENCORE 4}}} || '''[[Blue Forest]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' || '''[[A.DOGMA]]''' ||
+||<#4169e1> '''INFINITY''' || '''Rock to Infinity''' ||
+||<#ee82ee> '''ENDING''' || '''[[FOR THE FINAL]]''' ||
+
+||<-2><#99FFFF><:>'''GuitarFreaks V6 & DrumMania V6 BLAZING!!! Extra Rush''' ||
+||<#FFA500> EXTRA 1 || '''Rock to Infinity''' ||
+||<#FFA500> EXTRA 2 || '''[[OVER THE LIMIT!]]''' ||
+||<#FFA500> EXTRA 3 / ENCORE 1 || '''[[風神雲龍伝]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 2 || '''[[Driven Shooter]]''' ||
+||<#FFA500> EXTRA 5 / ENCORE 3 || '''[[Walnuts]]''' ||
+||<#FFA500> EXTRA 6 / ENCORE 4 || '''[[Chronos]]''' ||
+||<#FFA500> EXTRA 7 / ENCORE 5 || '''[[恐怖の右脳改革]]''' ||
+||<#082567> {{{#white ENCORE 6}}} || '''[[Jungle]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' || '''[[Sonne]]''' ||
+||<#99FFFF> '''BLAZING''' || '''[[Sky(비마니 시리즈)|Sky]]''' ||
+
+[[목차]]
+
+=== 개요 ===
+[[기타프릭스]] & [[드럼매니아]] V5의 부제이자 수록곡.
+
+attachment:rocktoinfinity.jpg
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/aMdPvJ4Q7e0" frameborder="0" allowfullscreen></iframe>
+}}}
+▲드럼 클래식 익스트림 영상. 플레이어는 국내 탑랭커 [[GR_DDX]].
+
+{{{#!html
+<iframe width="600" height="437" src="http://www.youtube.com/embed/xuhEt0UrtQQ" frameborder="0" allowfullscreen></iframe>
+}}}
+▲드럼 XG 마스터 플레이 영상
+
+{{{#!html
+<iframe width="600" height="437" src="http://www.youtube.com/embed/JlMZXRlhHfA" frameborder="0" allowfullscreen></iframe>
+}}}
+▲기타 클래식 오픈픽 익스트림 영상
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 154 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 76}}} || {{{#orange 90}}} ||<|4><:> '''
+{{{#!html <font color="red" size="10">∞</font>}}}'''[[BR]] [[BR]]'''{{{#red (99)}}}''' ||
+|| 기타 오픈픽 || {{{#green 76}}} || {{{#orange 90}}} ||
+|| 기타 베이스 || {{{#green 63}}} || {{{#orange 80}}} ||
+|| 드럼매니아 || {{{#green 88}}} || {{{#orange 96}}} ||
+
+|||||||||||||| [GITADORA] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 154 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 4.95}}} || {{{#orange 7.35}}} || {{{#red 8.55}}} || {{{#purple 9.90}}} ||
+|| 기타 베이스 || {{{#blue 5.45}}} || {{{#orange 7.35}}} || {{{#red 8.10}}} || {{{#purple 9.20}}} ||
+|| 드럼매니아 || {{{#blue 5.90}}} || {{{#orange 7.45}}} || {{{#red 8.55}}} || '''{{{#purple 9.95}}}''' ||
+
+=== 상세 ===
+2008년 10월 31일 Extra Level이 10이 되며 Infinity Stage에 출현하였다.
+이후 해금 조건이 완화되어 가며 계속 Infinity Stage를 지켰다.
+
+곡명인 동시에 기타도라 V5의 부제. 작곡은 [[센본마츠 진]]. 사실 GFDM V5의 오프닝 BGM에서 살짝 이 곡의 후렴부분이 들어갔다 어찌보면 게임의 시작과 끝인 곡. 엑스트라 러쉬 레벨 9인 A.DOGMA 를 퍼펙트 98% 이상으로 클리어 해야 하기 때문에 후술하겠지만 소환 난이도는 '''역대 최강'''이라 여겨진다.  이 곡을 클리어할 경우 V5의 최종곡 [[FOR THE FINAL]] 이 출현한다. 
+
+난이도는 모든 모드가 무한대(∞)이지만, 막상 알맹이를 까봤더니 [[DAY DREAM]], [[The Least 100sec]], [[A.DOGMA]]와 같은 기존 99레벨 곡들보다는 그나마 쉽다는 평이 지배적이었다. 레벨 98인 [[MODEL FT2]] Miracle Ver.보다 살짝 어려운 수준.
+
+하지만 쉬운 99라는건 어디까지나 드럼매니아 한정. 기타프릭스에서는 [[DAY DREAM]], [[Driven Shooter]] 등과 함께 기타프릭스 역대 최강의 난이도를 자랑하는 곡이다. 무한대라는 표기가 부족하지 않은 난이도.
+
+그리고 V6에서는 Extra Level 1의 엑스트라 스테이지로 등장, 그리고 Extra Level 3에서 통상해금되었다. V5에서의 [[최종보스 보정]]이 사라져 간지나는 불꽃의 무한대가 아니라 모든 모드가 99로 표기되며, V8까지 99로 고정된다. 리듬게임 역사상 가장 큰 폭의 레벨 조정이 이뤄진 곡인 셈이다(...). 이렇게 모든 난이도가 99로 조정되면서 [[DAY DREAM]]과 함께 유이하게 모든 EXTREME 채보 난이도가 99인 곡이 되었다.
+
+드럼매니아 [wiki:"드럼매니아 XG"XG 시리즈]에서는 어김없이 마스터 난이도 '''9.85'''의 괴물로 재탄생했다. XG 시리즈 최고 레벨로, [[The Least 100sec]]와 동일한 난이도이다. 이후 XG3에서 9.90을 거쳐 GITADORA에서 9.95로 상승. --왠지 원점으로 돌아온 느낌--
+
+일웹에선 이 곡을 '6928'이라고 부르는 사람도 있다. Rock(69) to(2) Infinity(∞→8).
+
+==== 코멘트 ====
+||수많은 회의 끝에
+「부제목 대로 ∞(Infinity)로 해 버리자!」라는 컨셉을 바탕으로 태어났습니다.
+
+「뭔가 재미있는 일 할 수 없을까나∼」라고 이것저것 생각해 매번 익숙한 시행 착오의 날들!
+지금 생각하면 산도 있었고, 골짜기도 있었고, 큰 일 이었어∼
+
+곡중에서는 이번 작으로 친숙한 그 곡도 나오거나...
+이제 와서는…16분 연주 투성이라서 손이 너무 아프기도 하고...
+
+…그다지 이것저것 이야기 하지는 않을 작정이다.
+그런 곡입니다.
+
+한판 같이 붙어 보시지 않겠습니까?||
+
+=== 인피니티 스테이지 진출 & 해금 방법 ===
+첫 등장한 Extra Level 10 기준.
+
+별 건 아니고 V부터 V4까지의 마지막 엑스트라~프리미엄 앙코르를 그대로 넣은 것 뿐이다. 이름만 스페셜 스테이지로 바뀌었지 나머지는 모두 동일.
+
+스페셜 스테이지의 노래 난이도는 선택한 엑스트라 스테이지 전용곡 난이도와 동일[* V3 제외].
+
+==== 스페셜 스테이지 클리어, 칭호 4개 모으기 ====
+선택하는 노래는 '''보라색'''으로 표시되는 엑스트라 스테이지 전용곡.
+
+엑스트라 스테이지에서 White tornado, ancient breeze 중 한 곡 선택.
+기타/드럼 공통 퍼펙트 '''95%'''이상 달성 시 출현하는 스페셜 스테이지 [[Die Zauberflöte]]를 클리어.
+칭호 '''Memorial Train'''을 획득.
+
+엑스트라 스테이지에서 Atalante, CaptivAte 중 한 곡 선택.
+위와 동일 조건에서 등장하는 스페셜 스테이지 [[over there]]를 클리어.
+칭호 '''Memorial Live'''를 획득.
+
+엑스트라 스테이지에서 [[αρχη]], [[미라지 레지던스]] 중 한 곡 선택.
+위와 동일 조건에서 등장하는 스페셜 스테이지 MODEL FT2 '''Miracle Version'''[* 이 곡은 '''베이직, 어드밴스가 없는데다가''' 드럼 기준으로 익스가 '''98레벨'''이다. INFINITY STAGE 진입장벽을 확 올려버린 원흉.]을 클리어.
+칭호 '''Memorial Galaxy'''를 획득.
+
+엑스트라 스테이지에서 [[Slang]], [[PRIME LIGHT]] 중 한 곡 선택.
+위와 동일 조건에서 등장하는 스페셜 스테이지 [[일망타진]]을 클리어.
+칭호 '''Memorial Rock'''을 획득.
+
+그러니까 간단히 말하면 앙코르 스테이지를 4번 내면 된다(...)
+칭호 이름은 각 시리즈의 부제를 따온 것이다.
+
+위 4개의 칭호와 [[A.DOGMA]] 클리어 시 주는 칭호 '''Memorial A.DOGMA'''까지. 총 5개가 필요.
+
+==== 프리미엄 앙코르 소환 후 엑스트라 스테이지로 격하 ====
+첫 등장한 Extra Level 10 기준. 
+일단 프리미엄 앙코르 까지 진출 후 [[A.DOGMA]]에서 퍼펙트 비율 '''98%'''를 달성 시 해금. 해금 후에는 엑스트라 스테이지에 '''금빛'''으로 빛나는 [[A.DOGMA]]를 볼 수 있다.
+
+==== 소환 ====
+이후 엑스트라 스테이지에서 [[A.DOGMA]] 선택 후 퍼펙트 비율 '''기타 98% / 드럼 97%''' 달성 시
+'''Infinity Stage'''가 출현한다.
+
+퍼펙트 비율 상관 없이 클리어만 하면 ENDING으로 [[FOR THE FINAL]]이 출현한다.
+
+그래서 결국 V5 끝물에는 기본 3스테이지 설정 기준으로 '''6'''스테이지를 플레이 하는 것이 가능했다.
+
+==== 해금 ====
+소환은 Extra Level 10부터, 해금은 11부터 가능했다.
+11 기준으로 Infinity Stage의 곡 [[Rock to Infinity]]에서 퍼펙트 비율 98% 달성 시 '''해금'''된다.
+
+조건이 여러 모로 흉악하다 못해 어이가 없는 수준(...). 일부 고수들을 제외한 유저들은 그저 엑스트라 레벨이 올라가 조건이 완화되기를 기다리거나 아예 다음 작인 V6까지 기다려야만 했다. ~~잘하는 친구를 부르면 제일 쉽다~~
+
+=== 기타 관련 영상 ===
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/umpiFwQr2ic?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/umpiFwQr2ic?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲실제 드럼으로 연주해 본 Rock to Infinity.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/xMrLZ4uNbhE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/xMrLZ4uNbhE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+8비트 어레인지 버전

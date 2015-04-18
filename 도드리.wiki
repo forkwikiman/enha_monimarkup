@@ -1,0 +1,40 @@
+[[목차]]
+
+== 개요 ==
+[[국악]]의 한 곡으로, 정악에 속하는 기악곡이다. 한문으로는 번역하여 환입(還入)이라고 쓴다. [[보허자]]의 파생곡이지만 당악인 보허자와는 달리 완전히 향악화된 음악이다. 조선 [[세조]]대에 작곡되었다.
+
+'도드리'라는 것은 원래 음악의 형식 이름이다. [[보허자]]의 가사는 전단과 후단으로 나뉘는데, 전단과 후단 가사의 각 첫 줄(환두換頭)만 서로 가락이 다르고 나머지(환입還入)는 가락이 서로 같다. 이때 환입 부분을 따 변주하여 연주한 것이 바로 이 도드리 음악이다.
+
+크게 '밑도드리'와 '웃도드리'로 나뉜다.
+
+== 밑도드리 ==
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer94683' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=861B1ED3A79AAA2883D9D0CE540710C3282A&outKey=V126d64b108d1fd229c836adfd10800810e816a12c74db408111b6adfd10800810e81' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=861B1ED3A79AAA2883D9D0CE540710C3282A&outKey=V126d64b108d1fd229c836adfd10800810e816a12c74db408111b6adfd10800810e81' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer94683' id='NFPlayer94683' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+[[연세대학교]] 국악연구회 35주년 기념 동문연주회 실황
+
+원래는 그냥 '도드리'라고 불렸는데, 이 곡에서 웃도드리가 파생된 이후로 웃도드리와 구분하기 위해 밑도드리라는 이름이 붙었다. [[한문]]으로는 '미환입(尾還入)'이라 하고 아명으로는 '~~수단축지곡(壽短縮之曲)~~수연장지곡(壽延長之曲)', 줄여서 그냥 '수연장'이라고 부른다. 자주 쓰이는 이름은 '수연장'쪽.
+
+저음과 고음을 폭넓게 다루고 있고, 정악의 다양한 주법들을 사용하는 곡이기에 '''정악의 입문곡'''으로 사용된다. [[국악기]]를 배울 때 소리내는 법을 배우고 나면 처음으로 배우는 정악곡이 바로 이 수연장이다. 정말 처음에는 이 곡만 지긋지긋하게 연주한다. 그래서 웬만큼 정악을 배웠다 하는 사람은 수연장 눈감고 연주할 수 있을 정도이다(…) 그래서 '''수연장을 세 번 이상 완주하지 않고는 어떤 곡도 연주하지 말라'''는 [[명언]](?)도 존재한다.
+
+총 7장 구성이고, 음계는 黃太仲林南의 황종평조이다. 편성은 향[[피리]], [[대금]], [[소금]], [[해금]], [[가야금]], [[거문고]], [[아쟁]], [[좌고]], [[장구]]와 [[박]]을 갖춘 대편제가 원칙이다. 또한 [[별곡]]이라고 해서 [[현악 영산회상]]에 포함시켜 7장 이후 계면조로 조바꿈되는 돌장을 연주하고 나서 [[상현도드리]]로 이어갈 때가 있는데 이때는 [[거문고]], [[가야금]], [[대금]], 세[[피리]], [[해금]], [[양금]], [[단소]] 등 현악합주 편성으로 연주한다.
+
+관악기 주자들은 수연장을 불다 보면 숨이 차서 목숨(壽)이 연장은커녕 줄어들 것 같다고 해서 '''수단축'''이라고 부르기도 한다.(…)
+
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/X0BxOgvtUlU?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/X0BxOgvtUlU?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+}}}
+합주에서는 웃도드리(송구여)와 합주하기도 한다. 이런 합주에서는 수연장과 송구여의 미묘한 화음이 이색적인 느낌을 주게 된다.
+
+== 웃도드리 ==
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/txMWHflQLyU?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/txMWHflQLyU?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+밑도드리를 8도(1옥타브)위로 올린 음악이다. [[한문]]으로는 '세환입(細換入)'이라 하고 아명으로는 '송구여지곡(頌九如之曲)', 줄여서 '송구여'라고 부른다.
+
+밑도드리를 옥타브를 올린 것이기 때문에 장수와 구성, 악기 편성은 같다. 다만 국악기들의 음역 제약이나 연주 기교 때문에 4도나 5도 정도만 올린 음도 간혹 있다.
+
+고음역을 연주하기에 특히 관악기 주자들이 밑도드리로 기초를 닦은 후 힘을 기르기 위해 연습하는 경우가 있다.
+
+[[가야금]] 한정으로 정악 입문곡으로 밑도드리 대신 웃도드리를 연주한다. 밑도드리는 음이 너무 낮아서 [[가야금]] 초보들이 연주하기에는 조금 무리가 따르기 때문이다.

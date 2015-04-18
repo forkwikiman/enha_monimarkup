@@ -1,0 +1,110 @@
+'''기억의 조각'''
+
+[[목차]]
+
+== 개요 ==
+http://storage.itunes-ranking.com/img/20110921/16/lrg/47578.jpg
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/CwVJ29akwz4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/YBqmADNjCP8?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YBqmADNjCP8?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+매지컬 할로윈 3의 OST. 작곡은 [[ota2]], 보컬은 [[Sana]]. [[KONAMI]] 산하의 파칭코 슬롯머신 제작회사 [KPE]의 유명 파치슬로 시리즈 매지컬 할로윈 시리즈의 3번째 작품 매지컬 할로윈 3에서 BIG BONUS 이벤트 발생 시 나오는 OST이다. 
+
+== [[BEMANI 시리즈]] 수록 ==
+=== [[리플렉 비트 시리즈]] ===
+|||||| [wiki:"리플렉%20비트%20라임라이트/해금요소#s-3.1" LIME UP 시스템] ||
+||||||<#E7FFEA><:>'''limelight 4'''||
+||<:>4-1 글래스||<:>4-2 글래스||<:>4-3 글래스||
+||<:>'''記憶の欠片''' (85)||<:>[[QUIZ MAGIC ACADEMY VIII ～決勝戦より～]] (85)||<:>[[L'amour dans le lycee(High School Love Bossa -Arr.-)]] (80)||
+||||||<:>▼||
+||<:>[[キラキラ☆ステーション]] (90)||<:>[[Une mage blanche]] (90)||<:>[[Flip Flap]] (90)||
+||||||<#E7FFEA><:>'''limelight 5'''||
+||||||<:>5 글래스||
+||||||<:>[[DRAGON KILLER]] (210)||
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/EaMRgPHY6Jk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 153  || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 134}}} || {{{#orange 260}}} || {{{#red 381}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]] ||
+
+아티스트 명의는 Sana로 표시되며, 자켓은 매지컬 할로윈 3 OST의 앨범자켓을 그대로 사용한다. 부분부분 기습적인 오브젝트가 나오지만, 그외에는 8렙 중하권 정도의 난이도를 보여준다. 박자가 정박이기 때문에 박자 익히기도 어렵지 않은 편. 
+
+=== [[유비트 시리즈]] ===
+http://www.copmtg.net/picture/diary/2013/0102_6.jpg
+
+||||||||||<#ffffff><:>jubeat saucer기준||
+||<|2><#ffffff><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>4||<:>6||<:>7||
+||<#ffffff><:>노트수||||<:>203||<:>376||<:>508||
+||<#ffffff><:>BPM||||||||<:>153||
+||<#ffffff><:>곡 이력||||||||[[리플렉 비트 라임라이트]]에서 [[유비트 소서]]에 2013/1/1 이식 수록[[BR]][[유비트 플러스]]에서 saucer pack 09에 수록[[BR]][[유비트 소서]]에서 2013/7/1 교체[[BR]][[유비트 소서]]에서 2013/10/28 지금만의 악곡으로 재수록||
+
+관련 칭호
+ * [[유비트 소서]] ~
+   * '''カボ'''[* 굵은 글씨는 칭호 파츠.]チャンス (카보찬스)[* 매지컬 할로윈 시리즈의 용어로, BONUS 이벤트 중 레버가 ON 상태시 돌입하는 이벤트. [http://youtu.be/t5UuDZAbGrI 이벤트 영상]].: 모든 보면 클리어
+   * '''キング'''カボチャンス (킹 카보찬스)[* 카보찬스와 같이 매지컬 할로윈 시리즈의 용어로, 카보찬스 이벤트 중 특정 조건을 달성하면 출현하는 이벤트.] : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/-iway1S-93Y" frameborder="0" allowfullscreen></iframe>
+}}}
+
+EXT EXC 영상
+
+7레벨 중에서 은근히 엑설이 힘든곡, 후반부에 있는 상하배치부터 손이 꼬이는게 많아 7랩이라고 만만하게 볼수가 없다.
+
+ * 엑설 방지구간
+1.위 영상의 31초
+□□□□  |①－－②|
+□③□□  |－－③－|
+□□②①
+□①①□
+
+④□④⑧
+⑤□□⑨
+⑥□□⑩  |④⑤⑥⑦|
+⑦□□⑪  |⑧⑨⑩⑪|
+이 부분은 특히 긁기에서 그렛이 날수있으니 주의.
+
+2.위 영상의 44초
+□②□□  |①－－－|
+□□□□  |－－②－|
+□□□①
+□□□①
+
+□□□□
+③⑤⑥⑦
+④⑤⑥⑦  |③④⑤⑥|
+□□□□  |⑦－－－|
+5,6,7에 있는박자가 하필 16비트이기 때문에 처음하는사람들은 특히 주의해서 볼필요가 있다. (노래는 엇박으로 들리는데 박자는 정박)
+
+3. 위 영상의 1분 12초
+②①⑤□  |①－－－|
+③□□④  |②－－－|
+④□□③  |③－④－|
+□⑤①②  |－－⑤－|
+2,3,4부분이 연타하는걸로 기억하기 쉽다.
+p.s
+□□③④  |－－－－|
+□②□□  |－－①－|
+①□⑤□  |②－③④|
+□□□□  |－－⑤－|
+엑설방지구간 1항목 다음...
+
+~~맛스루 선생님 채보는 정박인데 왜 노래는 엇박으로 나가나요~~
+
+[[http://www14.atwiki.jp/jubeat_memo/pages/1040.html 채보 출처]]
+
+그리고 그 뒤에 있는 상하배치를 조심하면 크게 문제될건 없다. 전체적으로 노래를 따라가니 큰 어려움은 없다. ~~엑방방지구간 빼고~~

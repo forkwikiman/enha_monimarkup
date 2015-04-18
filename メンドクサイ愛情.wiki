@@ -1,0 +1,66 @@
+'''귀찮은 애정'''
+
+[[목차]]
+
+== 개요 ==
+||http://ec3.images-amazon.com/images/I/51JvPfLbnPL._SL500_AA300_.jpg?width=250||http://ec2.images-amazon.com/images/I/61aLNbIsDkL._SL500_AA300_.jpg?width=250||http://ec2.images-amazon.com/images/I/51PFGB2kzhL._SL500_AA300_.jpg?width=250||
+|| 초회한정반 A자켓 || 초회한정판 B자켓 || 통상반 C자켓 ||
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/I1a_JV6vecw?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/I1a_JV6vecw?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+PV 영상
+
+전 [[AKB48]] 팀A 멤버 [[오오시마 마이]]가 AKB48을 졸업하고 나서 발매한 솔로 데뷔 싱글이자 그 표제곡. 2010년 --어린이날인-- 5월 5일 발매되었다.
+
+오리콘 주간 싱글 차트 7위를 기록하여 [[AKB48]]에 관련된 싱글로는 처음으로 오리콘 차트 10위권 안에 든 곡이 되었다. 그러나 이 싱글 이후 오오시마 마이의 싱글은 오리콘 차트 30위권에 겨우 드는 등 부진한 성적을 보이고 있다.
+
+== [[BEMANI 시리즈]] 에 수록 ==
+리듬게임에서는 [[유비트 시리즈]]와 [[리플렉 비트 시리즈]]에 수록되었다. 둘 다 원곡 수록이며, 게임 안에서 쓰는 자켓은 통상반 C자켓이다. 
+
+=== [[유비트 시리즈]] ===
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>7||<:>8||
+||<#5a5aff><:>노트수||<:>177||<:>439||<:>591||
+||<#5a5aff><:>BPM||||||<:>130||
+||<#5a5aff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/9MPF95XqYc4" frameborder="0" allowfullscreen></iframe>
+}}}
+[[Y.S-Y]]의 [[엑설런트]] 영상
+
+한 마디로 '''어렵다'''. 초반부터 계속 이어지는 연타는 박자를 익히지 않으면 뮤직바가 파랗게 칠해지기 쉽다. 
+
+이외에도 가사에서 'Ah' 부분의 
+
+||○ ○ ① ○
+○ ① ○ ①
+○ ① ○ ①
+○ ○ ○ ○||
+A모양의 문자노트와 
+
+||② ① ① ①
+② ① ④ ④
+② ② ③ ④
+③ ③ ③ ④||
+
+[[테트리스]] 블록 노트도 난관 테트리스 노트는 2번 나온다.
+
+=== [[리플렉 비트 시리즈]] ===
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2>145 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 7}}} ||
+|| 오브젝트 || {{{#green 104}}} || {{{#orange 190}}} || {{{#red 305}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트]] ||
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/ndDEmF1JEGQ" frameborder="0" allowfullscreen></iframe>
+}}}
+하드패턴 플레이영상
+
+[[리플렉 비트]] 초대에서부터 이식되었다가 [[리플렉 비트 콜레트]]에서 삭제되었다. 유비트와 달리 초반 3초 드럼부분만 컷된채로 수록되었지만 유비트에서의 난타는 여전하므로 주의하자.

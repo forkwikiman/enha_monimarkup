@@ -1,0 +1,38 @@
+[wiki:"../" '마작의 역'으로 돌아가기]
+
+||<tablebgcolor="#EDEDED">※ 이 문서는 국표마작의 역을 설명하고 있습니다.||
+
+[[목차]]
+
+== 취안부카오 (全不靠;전불고;Lesser Honors and Knitted Tiles) ==
+수패 3종류에서 각 종류별로 (1,4,7), (2,5,8), (3,6,9)를 불완전하게, 또는 완전하게 채우고 나머지를 자패로 14장을 채우면 완성되는 역이다. 오문제, 불구인, 단조장과는 복합되지 않으며, 자패 7종이 모두 있으면 24점 역인 칠성불고가 된다. 뚜이쯔나 먼쯔가 만들어지지 않아 일반적인 후 조건을 따르지 않는 역이다.
+
+attachment:/1pin.gif attachment:/4pin.gif attachment:/7pin.gif attachment:/2sou.gif attachment:/5sou.gif attachment:/8sou.gif attachment:/3wan.gif attachment:/6wan.gif attachment:/ton.gif attachment:/nan.gif attachment:/sha.gif attachment:/pe.gif attachment:/haku.gif attachment:/chun.gif
+올바른 예시.
+
+attachment:/1pin.gif attachment:/4pin.gif attachment:/7pin.gif attachment:/2sou.gif attachment:/5sou.gif attachment:/8sou.gif attachment:/3wan.gif attachment:/6wan.gif attachment:/9wan.gif attachment:/ton.gif attachment:/nan.gif attachment:/sha.gif attachment:/haku.gif attachment:/chun.gif
+조합룡과 복합된 예시.
+
+attachment:/1pin.gif attachment:/2pin.gif attachment:/4pin.gif attachment:/5pin.gif attachment:/7pin.gif attachment:/3wan.gif attachment:/6wan.gif attachment:/9wan.gif attachment:/ton.gif attachment:/nan.gif attachment:/sha.gif attachment:/pe.gif attachment:/haku.gif attachment:/chun.gif
+잘못된 예시. (1,4,7) 또는 (2,5,8)을 소즈로 만들거나. 자패로 대체하여야 한다.
+
+== 쭈허룽 (组合龙;조합룡;Knitted Straight) ==
+수패 3종류에서 각 종류별로 (1,4,7), (2,5,8), (3,6,9)를 완전하게 채우면 완성되는 역. 
+
+attachment:/1wan.gif attachment:/4wan.gif attachment:/7wan.gif attachment:/2sou.gif attachment:/5sou.gif attachment:/8sou.gif attachment:/3pin.gif attachment:/6pin.gif attachment:/9pin.gif  attachment:/6pin.gif attachment:/7pin.gif attachment:/8pin.gif attachment:/ton.gif attachment:/ton.gif
+평화와 복합된 예시.
+
+== 다위우 (大于五;대무오;Upper Five) ==
+수패의 6,7,8,9만으로 만들어진 역.
+
+attachment:/6wan.gif attachment:/6wan.gif attachment:/6wan.gif attachment:/7wan.gif attachment:/7wan.gif attachment:/7wan.gif attachment:/7sou.gif attachment:/8sou.gif attachment:/9sou.gif attachment:/6pin.gif attachment:/7pin.gif attachment:/8pin.gif attachment:/9pin.gif attachment:/9pin.gif
+
+== 샤오위우 (小于五;소무오;Lower Five) ==
+수패의 1,2,3,4만으로 만들어진 역.
+
+attachment:/1wan.gif attachment:/1wan.gif attachment:/1wan.gif attachment:/2wan.gif attachment:/3wan.gif attachment:/4wan.gif attachment:/2sou.gif attachment:/2sou.gif attachment:/2sou.gif attachment:/1pin.gif attachment:/2pin.gif attachment:/3pin.gif attachment:/4pin.gif attachment:/4pin.gif
+
+== 산펑커 (三风刻;삼풍각;Big Three Winds) ==
+풍패 3종류의 커쯔.
+
+attachment:/1sou.gif attachment:/1sou.gif attachment:/1sou.gif attachment:/ton.gif attachment:/ton.gif attachment:/ton.gif attachment:/nan.gif attachment:/nan.gif attachment:/nan.gif attachment:/pe.gif attachment:/pe.gif attachment:/pe.gif attachment:/6wan.gif attachment:/6wan.gif

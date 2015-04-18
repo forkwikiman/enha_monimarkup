@@ -1,0 +1,116 @@
+ * 난이도 분류와 같은 자세한 항목은 [[유비트 시리즈/수록곡]]을 참고
+ * iOS 버전의 수록곡은 [[유비트 플러스/수록곡/iOS]] 참고
+ * 일본을 제외한 다른 국가에 출시된 버전인 [[쥬크비트]]의 수록곡은 해당항목 참고
+
+[[목차]]
+== 개요 ==
+[유비트 플러스]는 아케이드와 달리 수록곡들을 해금하는것이 아니라 구입을 하는 방식이다. 유비트 플러스 유져들의 구입을 돕기위해 팩을 기준으로 분류 하였음을 알려드린다.
+
+music pack이라고 붙은 팩들은 유비트 시리즈를 통틀어 아케이드 기기에 있던 곡들을 선별해서 판매하는것이고,  가수나 그룹 이름이 붙은 팩은 해당 가수가 부른 곡들로 구성된 유비트 플러스 만의 오리지널 라이센스 곡이다.[* 물론 차후 아케이드 버젼에 추가 될 가능성은 분명히 있다. iOS버전의 오리지널 팩중 선곡되어 차기작인 [[유비트 코피어스]]에 이식된 곡들도 있다.]
+
+iOS버전의 팩과는 완전히 다르므로 유의할것... 이었는데 1월 18일에 [iOS] 버전으로 이식 되었다!
+
+== 수록곡 팩 수 ==
+
+수록곡 팩 수 : 15개 (무료팩 1개+유료팩 14개) 
+수록곡 (무료곡 포함) : 59곡
+
+== 수록곡 양식 ==
+수록곡들을 정리와 구입을 돕는 차원에서 이와 같은 양식을 따르도록 하겠다.
+ * {{{#green ''' 음악 pack 이름 '''}}} - 출시일(년월일) <가격>
+  * 곡명1 - 아티스트
+  * 곡명2 - 아티스트
+  * 곡명3 - 아티스트
+  * 곡명4 - 아티스트
+
+유비트 플러스 수록곡들중에는 아티스트가 기록되어 있지 않은 곡들이 많다. 유비트 플러스에 따라 게임 수록곡에 아티스트가 명시되어 있지 않다면 {{{#red '''♪♪♪♪♪'''}}}[* 보컬 라이센스 곡에 아티스트 표기가 되어있는 않은 곡은 커버보컬인 케이스가 많다.] 기호로 대체한다. 자세한 수록곡의 아티스트 정보는 [[유비트 시리즈/수록곡]]을 참고
+
+=== 수록곡 리스트 ===
+ * {{{#green '''Default pack'''}}} - 출시 <무료 - 메인 어플리케이션>
+  * [[Jumping Boogie]] - [[Kozo Nakamura]]
+  * [[Special One]] - [[kors k]]
+  * [wiki:"천국과 지옥" 天国と地獄] - [[Mutsuhiko Izumi]]
+
+ * {{{#green ''' ClariS pack'''}}} (11/14/2012)
+  * irony / [[ClariS]]
+  * Wake Up / [[ClariS]]
+  * [[コネクト]] / [[ClariS]]
+  * ナイショの話 / [[ClariS]]
+
+ * {{{#green '''電気グルーヴ(전기 그루브) pack'''}}} (11/14/2012)
+  * Shangri-La (Y.Sunahara 2009 Remodel) / [[wiki:"전기 그루브" 電気グルーヴ]]
+  * SHAME / [[wiki:"전기 그루브" 電気グルーヴ]]
+  * SHAMEFUL / [[wiki:"전기 그루브" 電気グルーヴ]]
+  * 虹 (A DAY IN JAPAN ver) / [[wiki:"전기 그루브" 電気グルーヴ]]
+
+ * {{{#green '''加藤ミリヤ(미리야 카토) pack'''}}} (11/14/2012)
+  * BYE BYE / [[加藤ミリヤ]]
+  * HEART BEAT / [[加藤ミリヤ]]
+  * Love Forever / [[加藤ミリヤ]]
+  * SAYONARAベイベー / [[加藤ミリヤ]]
+
+ * {{{#green ''' Rake pack'''}}} (11/14/2012)
+  * 100万回の「I love you」 / [[Rake]]
+  * Fly away / [[Rake]]
+  * フタリヒトツ / [[Rake]]
+  * 素晴らしき世界[* [우주 형제]의 첫번째 엔딩곡] / [[Rake]]
+
+ * {{{#green ''' SCANDAL pack'''}}} (11/14/2012)
+  * HARUKAZE / [[SCANDAL]]
+  * 少女S / [[SCANDAL]]
+  * 瞬間センチメンタル / [[SCANDAL]]
+  * 太陽スキャンダラス / [[SCANDAL]]
+
+ * {{{#green ''' supercell pack'''}}} (11/14/2012)
+  * 星が瞬くこんな夜に / [[supercell]]
+  * [[君の知らない物語]] / [[supercell]]
+  * さよならメモリーズ / [[supercell]]
+  * うたかた花火 / [[supercell]]
+
+ * {{{#green '''ユニコーン(UNICORN) pack'''}}} (11/14/2012)
+  * SAMURAI 5 / [[wiki:"유니콘(밴드)" ユニコーン]]
+  * WAO! / [[wiki:"유니콘(밴드)" ユニコーン]]
+  * [[大迷惑]] / [[wiki:"유니콘(밴드)" ユニコーン]]
+  * キミトデカケタ / [[wiki:"유니콘(밴드)" ユニコーン]]
+
+ * {{{#green ''' UVERworld pack'''}}} (11/14/2012)
+  * CORE PRIDE / [[UVERworld]]
+  * GOLD / [[UVERworld]]
+  * Roots / [[UVERworld]]
+  * THE OVER / [[UVERworld]]
+
+ * {{{#green ''' saucer pack 01'''}}} (12/15/2012)
+  * [[Mother Ship]] / [[Sota Fujimori]]
+  * [[我が麗しのバレンシア]] / [[劇団レコード]] feat. Mile Face
+  * [[quaver♪]] / [[Risk Junk]]
+  * [[DIAVOLO]] / [[wiki:"L.E.D." 度胸]][[wiki:"wac" 兄弟]]
+
+ * {{{#green ''' saucer pack 02'''}}} (12/15/2012)
+  * [[フー ・フローツ]] / [[Nanako]]
+  * [[Dragontail Butterfly]] / Tom-H@ck feat.Nadia
+  * [[Baby Bleep March]] / [[seiya-murai]]
+  * [[Vermilion]] / [[Remo-con]]
+
+ * {{{#green ''' saucer pack 03'''}}} (12/15/2012)
+  * [[NIGHT FLIGHT]] / [[小野秀幸]]
+  * [[Amalgamation]] / [[Mystic Moon]]
+  * [[PRANA]] / [[TAG]]
+  * [[Beastie Starter]] / [[GUHROOVY]]
+
+ * {{{#green ''' saucer pack 04'''}}} (12/15/2012)
+  * [[アストライアの双皿]] / [[wiki:"wac" ZODIACSYNDICATE]]
+  * [[BLUE STRAGGLER]] / [[L.E.D.]]
+  * [[POINT ZERO]] / [[wiki:"猫叉Master" 猫叉Master+]]
+  * [[キラキラ☆ステーション]] / [[Tatsh]] feat. Prico
+
+ * {{{#green ''' saucer pack 05'''}}} (12/27/2012)
+  * [[Little Star]] / [[REDALiCE]] feat. Ayumi Nomiya
+  * [[LUV CAN SAVE U]] / HIDEKI NAGANUMA
+  * [[Twinkle Wonderland]] / [[Qrispy Joybox]] feat. Sana
+  * [[†渚の小悪魔ラヴリィ～レイディオ†]] / [[wiki:"모리나가 마유미" 夏色ビキニの]][[wiki:"L.E.D." Prim]]
+
+ * {{{#green ''' saucer pack 06'''}}} (12/27/2012)
+  * [[405nm(Ryu☆mix)]] / [[Another Infinity]]
+  * [[Holy Snow]] / [[Mutsuhiko Izumi]]
+  * [[milky ice bear]] / [[S-C-U]]
+  * [[SEED]] / [[DJ YOSHITAKA]]

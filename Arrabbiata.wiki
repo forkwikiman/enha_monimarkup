@@ -1,0 +1,56 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 아티스트 명의는 Reven-G改. 작곡은 [[NAOKI]].
+
+== [[팝픈뮤직]] ==
+{{{#!html
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm11684567"></script><noscript><a href="http://www.nicovideo.jp/watch/sm11684567">Niconico Pop'n music「サイバーアラビアンEX」手元＋画面【ポップン】</a></noscript>
+}}}
+
+[[http://www.youtube.com/watch?v=2a6046Ppd-E 유튜브 영상(~2:00까지)]]
+
+||<bgcolor=#E9ECEF>灼熱のごときアジアン・サウンドが炸裂する！めざせＮＥＸＴ　ＳＴＡＧＥ！　あなたに神のご加護があらんことを…。
+타오를 것 같은 아시안 사운드가 작렬한다! 노려라 NEXT STAGE! 당신에게 신의 가호가 있기를... ||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music[[br]]10 || CYBER ARABIAN[[br]]사이버 아라비안 || Arrabbiata || Reven-G改 || 2st[[br]]츠스트 ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 225 || 43단계 || {{{#blue 17}}} || {{{#green 21}}} || {{{#orange 28}}} || {{{#red 39}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 27}}} || {{{#orange 34}}} || {{{#red 45}}} ||
+|||| 노트수 || {{{#blue 349}}} || {{{#green 363}}} || {{{#orange 676}}} || {{{#red 907}}} ||
+
+팝픈뮤직 10의 점포 대항 이벤트 "별님에게 소원을(お星様にお願い)"에 해당곡. [[NAOKI]]의 민속음악 명의인 RevenG로 팝픈에도 신곡을 써달라는 팬들의 요청으로 수록.
+
+담당 캐릭터는 [[Miracle☆4]]의 츠스트. EX 채보는 상당한 좌우 흔들기 채보. 양손 모두 바쁘게 움직이는 패턴이 많다. 노트 수는 적지만 곡이 짧은 편이고 손을 자주 이동해야 하는 편이라 생각보다 힘든 곡이다.
+
+팝픈뮤직 11에서 EX 레벨이 40(현 46)에서 39로 내려갔다.
+
+=== 곡 코멘트 ===
+||아는 사람은 아는 DDR에서 태어난 Re-venG, 이번에는 Re-venG改로 개명해서
+아라비아 쪽으로 가, 수행을 거듭해 태어난 Arrabiata. 리벤지 소절이 넘치는 내용으로 됬습니다.
+덧붙여서『アラビアータ』라는 이름을 붙인 이유는 스파게티의『アラビアータ』를 좋아하기 때문인 것은 아닙니다.
+
+- Reven-G改||
+
+== [[댄스 댄스 레볼루션]] ==
+attachment:Arrabbiata_DDR.png
+
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/TQ1WmuWFvqU" frameborder="0" allowfullscreen></iframe>}}}
+
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/TNQp6-XqPJE" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 5}}} || {{{#orange 11}}} || {{{#red 13}}} || {{{#green 15}}} || {{{#purple --}}} ||
+||<|3><:> 225 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 12}}} || {{{#red 14}}} || {{{#green 16}}} || {{{#purple --}}} ||
+
+SuperNOVA2에 이식되었다. 팝픈뮤직에서 DDR로 이식된 곡중에선 고레벨에 속한다. 더블 익스퍼트 같은 경우 허리틀기가 까다로운 곡. 처음 수록되었을 때는 싱글/더블 모두 (10레벨 표기 기준) 9로 수록되어서 (특히 더블은) 상당한 [[불렙곡]]이였다.
+
+[[http://gall.dcinside.com/board/view/?id=rhythmgame&no=4288545 아케이드와 가정용의 채보가 다르다.]]

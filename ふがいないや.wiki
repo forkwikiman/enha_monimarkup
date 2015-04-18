@@ -1,0 +1,50 @@
+'''못난이'''
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/41WRSZHGZ8L._SL500_AA300_.jpg
+싱글음반 표지
+
+JUDY AND MARY라는 밴드의 보컬로 활약한 바 있는 YUKI의 14번째 싱글음반명이자 그 타이틀곡.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=4E481872F25E00183273FAD3B0761544292C&outKey=V1293468c78705ce8475c338657ee98c82b521405c589e7a72805338657ee98c82b52" frameborder="no" scrolling="no"></iframe>
+}}}
+PV 영상
+
+PV는 변함없이 YUKI 다운 연출을 보여준다. 자켓에서 YUKI가 의자에 앉아 있는 게 아니라 '''서 있다는 게''' 반전(...). 여러가지 면에서 독특한 곡.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=40E9CA6202BAF3CA62D162EE1B296CDDB4EC&outKey=V12825803af09aaf0573d0a6dd4ad13278429ab33f949aab796e40a6dd4ad13278429" frameborder="no" scrolling="no"></iframe>
+}}}
+
+[[허니와 클로버]] 2기 오프닝 테마로 사용된 바 있다.
+
+== 수록곡 목록 ==
+1. ふがいないや 
+2. 裸の太陽 
+3. 夏のヒーロー 
+
+== [[유비트 시리즈]]에 수록 ==
+http://img.i-revo.jp/jubeat/img/id1a05fd15c65e343e0c79b4df43eed85c.jpg
+
+||||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>2||<:>5||<:>7||
+||<#faca00><:>노트수||||<:>216||<:>429||<:>578||
+||<#faca00><:>BPM||||||||<:>159||
+||<#faca00><:>곡 이력||||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#f68a1f ADV}}}레벨 1 하락, {{{#e75050 EXT}}}레벨 1 하락[[BR]][[유비트 플러스]]에서 music pack 16에 수록[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+커버 보컬로 수록되었다. 다만 커버 보컬이라서 YUKI 특유의 창법을 들을 수 없다는 게 아쉽다.
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/iyImQyb-x4E" frameborder="0" allowFullScreen></iframe>
+}}}
+KYOUSUKE 플레이어의 [[엑설런트]] 영상
+
+'''사전지식이 없는 플레이어들을 위한 [[지뢰곡]]''', 이 한 문장으로 설명된다(...).
+동시치기가 많이 나오는데, 특히 세로 동시치기가 나오는 부분에서는 당황해서 손을 쫙 벌려서 누르려다가 미스나는 불상사(...)가 일어날 수 있으니 두 손으로 처리하는 게 안전하다. 그리고 절정은 예의 [[隅田川夏恋歌]] EXT 마지막 부분에 나오는 패턴이 '''빠른 속도로 나오는''' 부분인데, 처음 하는 사람들이 미스가 나기 쉬운 부분이다. 충분히 숙지하고 플레이하자.
+특별히 어려운 부분을 제외하면 무난한 난이도라서 그런지 [[유비트 리플즈]]에서는 ADV, EXT 난이도가 1 떨어졌다.

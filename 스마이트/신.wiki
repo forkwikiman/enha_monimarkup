@@ -1,0 +1,237 @@
+http://i.imgur.com/1qn8MPl.jpg
+스마이트에 등장하는 신을 정리해 놓은 페이지이다. 등장하는 신의 한국 명칭은 아직 정식 발매가 되지 않아 정해진 바가 없으므로, 현재 '''한국에서 통용되는 신의 이름'''을 사용하는 것으로 한다. 통용되는 명칭이 없으면 게임 상에서 사용되는 원어 발음을 사용하는 것을 원칙으로 한다. 찾아보기 쉽도록 기원 신화, 역할군, 그리고 출시일에 따라 정리해놓았으며, 기원 신화와 역할군은 가나다 순으로 정렬되어 있다.
+
+8월 19일 업데이트 된 1.0.2268.2 버전을 기준으로 신의 명칭이 영어 원음과 딴판이 된 사례는 따로 표기한다.
+ * 네 자 (Ne Zha) - [나타(스마이트)|나타]
+ * 뉴 와 (Nu Wa) - [여와(스마이트)|여와]
+ * 아오 쾅 (Ao Kuang) - [오광(스마이트)|오광]
+ * 종 쿼이 (Zhong Kui) - [종규(스마이트)|종규]
+ * 히 보 (He Bo) - [하백(스마이트)|하백]
+ * 바커스 (Bacchus) - [디오니소스(스마이트)|디오니소스][* 게임에서는 로마식 명칭을 사용하나, 여기서는 알아보기 편하도록 한국에서 흔히 사용하는 그리스식 명칭으로 표기하였다.]
+ * 머큐리 (Mercury) - [헤르메스(스마이트)|헤르메스][* 게임에서는 로마식 명칭을 사용하나, 여기서는 알아보기 편하도록 한국에서 흔히 사용하는 그리스식 명칭으로 표기하였다.]
+ * 샥 (Chacc) - [차크(스마이트)|차크]
+ * 불칸 (Vulcan) - [불카누스(스마이트)|불카누스]
+
+||새로운 스마이트 신 항목을 만들 경우, [[SMITETemplate]]의 양식에 따라 주세요.||
+
+[[목차]]
+
+== 기원 신화 ==
+=== 그리스 ===
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/0/03/T_Nemesis_Default_Icon.png/25px-T_Nemesis_Default_Icon.png?version=1c09745b244b97d6edc9797313cf1ddc ||[네메시스(스마이트)|네메시스] (Nemesis) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c3/T_Scylla_Default_Icon.png/25px-T_Scylla_Default_Icon.png?version=e392c728cbf0518da9a9f601a7fab42a ||[스킬라(스마이트)|스킬라] (Scylla) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/35/T_Ares_Default_Icon.png/25px-T_Ares_Default_Icon.png?version=00ee82965b023c696ed1ee38c8f13f01 ||[아레스(스마이트)|아레스] (Ares) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/41/T_Artemis_Default_Icon.png/25px-T_Artemis_Default_Icon.png?version=0e1f1cf508871007957985f24efbe5a4 ||[아르테미스(스마이트)|아르테미스] (Artemis) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f9/T_Arachne_Default_Icon.png/25px-T_Arachne_Default_Icon.png?version=e6d495d07a7acd4bedaaa48867649a1d ||[아라크네(스마이트)|아라크네] (Arachne) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/80/T_Athena_Default_Icon.png/25px-T_Athena_Default_Icon.png?version=17b66aebfb249d8b7ae24a0f6d88d603 ||[아테나(스마이트)|아테나] (Athena) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/16/T_Aphrodite_Default_Icon.png/25px-T_Aphrodite_Default_Icon.png?version=74df272014243f74f37d8364ac8f17da ||[아프로디테(스마이트)|아프로디테] (Aphrodite) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/d/dc/T_Apollo_Default_Icon.png/25px-T_Apollo_Default_Icon.png?version=277ffaf61e22b5e83cd8d14ef38fa2fd ||[아폴로(스마이트)|아폴로] (Apollo) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/96/T_Zeus_Default_Icon.png/25px-T_Zeus_Default_Icon.png?version=646df4c8393f863dfbd013b61d04c1c5 ||[제우스(스마이트)|제우스] (Zeus) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/88/T_Chronos_Default_Icon.png/25px-T_Chronos_Default_Icon.png?version=cec35e827845d393c077889bf3b5b61b ||[크로노스(스마이트)|크로노스] (Chronos) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/cd/T_Thanatos_Default_Icon.png/25px-T_Thanatos_Default_Icon.png?version=79e4781fd33e6dbcf840e5ec536fe9d7 ||[타나토스(스마이트)|타나토스] (Thanatos) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/a/a9/T_Poseidon_Default_Icon.png/25px-T_Poseidon_Default_Icon.png?version=525060644bf719558fac06630e4615d6 ||[포세이돈(스마이트)|포세이돈] (Poseidon) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/83/T_Hades_Default_Icon.png/25px-T_Hades_Default_Icon.png?version=48cfdce112b851a59484736929b0967c ||[하데스(스마이트)|하데스] (Hades) ||
+=== 이집트 ===
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/be/T_Geb_Default_Icon.png/25px-T_Geb_Default_Icon.png?version=75cb15cc7c7bf6192fa46731cc846bd1 ||[겝(스마이트)|겝] (Geb) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/fc/T_Neith_Default_Icon.png/25px-T_Neith_Default_Icon.png?version=fedd805f0092a37098254b5d7979b028 ||[네이트(스마이트)|네이트] (Neith) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/49/T_Ra_Default_Icon.png/25px-T_Ra_Default_Icon.png?version=c86a57b60f796f91603effed42d0a5df ||[라(스마이트)|라] (Ra) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/ee/T_Bastet_Default_Icon.png/25px-T_Bastet_Default_Icon.png?version=6fbf49e9c9086298957120928d5fa54b ||[바스테트(스마이트)|바스테트] (Bastet) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c0/T_Serqet_Default_Icon.png/25px-T_Serqet_Default_Icon.png?version=2c7291388a7dcfa82df66218315af594 ||[세르케트(스마이트)|세르케트] (Serqet) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/b1/T_Sobek_Default_Icon.png/25px-T_Sobek_Default_Icon.png?version=041a912eff87a029578931c36661747c ||[소베크(스마이트)|소베크] (Sobek) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/13/T_Anubis_Default_Icon.png/25px-T_Anubis_Default_Icon.png?version=86bbfdf1bcba3f6923e157106ed2ff2c ||[아누비스(스마이트)|아누비스] (Anubis) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/d/db/T_Anhur_Default_Icon.png/25px-T_Anhur_Default_Icon.png?version=f317269c945eb32aad1e2329934faa36 ||[안후르(스마이트)|안후르] (Anhur) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/39/T_Osiris_Default_Icon.png/25px-T_Osiris_Default_Icon.png?version=4b7b924a331be2848c8cc31ccf2dd034 ||[오시리스(스마이트)|오시리스] (Osiris) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/b2/T_Isis_Default_Icon.png/25px-T_Isis_Default_Icon.png?version=042b656453ef2b26718ff2ca91f2b3e5 ||[이시스(스마이트)|이시스] (Isis) ||
+=== 북유럽 ===
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c6/T_Loki_Default_Icon.png/25px-T_Loki_Default_Icon.png?version=78daad1d8d669da161715c22a8fa9c97 ||[로키(스마이트)|로키] (Loki) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/36/T_Odin_Default_Icon.png/25px-T_Odin_Default_Icon.png?version=b3382d232add49a63aa0b88f881d3a57 ||[오딘(스마이트)|오딘] (Odin) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/41/T_Ullr_Default_Icon.png/25px-T_Ullr_Default_Icon.png?version=e891ea85064de27092ee19a30cca4da5 ||[울르(스마이트)|울르] (Ullr) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f4/T_Ymir_Default_Icon.png/25px-T_Ymir_Default_Icon.png?version=5773760809c180297f6af21f224b0c7c ||[이미르(스마이트)|이미르] (Ymir) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/60/T_Thor_Default_Icon.png/25px-T_Thor_Default_Icon.png?version=4497e442fbeaee0523088c03efa61fc1 ||[토르(스마이트)|토르] (Thor) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/56/T_Tyr_Default_Icon.png/25px-T_Tyr_Default_Icon.png?version=e532679c4d9c7bfcedd49fd150324135 ||[티르(스마이트)|티르] (Tyr) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/93/T_Fenrir_Default_Icon.png/25px-T_Fenrir_Default_Icon.png?version=a95ef9b68d6f4884e8c7c8220fe1dd33 ||[펜리르(스마이트)|펜리르] (Fenrir) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/29/T_Freya_Default_Icon.png/25px-T_Freya_Default_Icon.png?version=414993f2897cb2bbedf9a3729d8e3244 ||[프레야(스마이트)|프레야] (Freya) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c6/T_Hel_Default_Icon.png/25px-T_Hel_Default_Icon.png?version=375b5bab1e3dbfff6f7a33fbb19757ee ||[헬(스마이트)|헬] (Hel) ||
+=== 중국 ===
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/e7/T_GuanYu_Default_Icon.png/25px-T_GuanYu_Default_Icon.png?version=85374e086e1cb0481ae893c97415372a ||[관우(스마이트)|관우] (Guan Yu) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/91/T_NeZha_Default_Icon.png/25px-T_NeZha_Default_Icon.png?version=4ffd4cb85cbfbe070420e9c00deb7e7d ||[나타(스마이트)|나타] (Ne Zha) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/88/T_NuWa_Default_Icon.png/25px-T_NuWa_Default_Icon.png?version=42456866e12d56e401abc8f87e8f54ba ||[여와(스마이트)|여와] (Nu Wa) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/33/T_AoKuang_Default_Icon.png/25px-T_AoKuang_Default_Icon.png?version=c9e167ea20f79540e521934a2a74ee61 ||~~[오광(스마이트)|오광] (Ao Kuang)~~[* 현재 없어지고 쿠쿨칸으로 대체됨] ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/9d/T_ChangE_Default_Icon.png/25px-T_ChangE_Default_Icon.png?version=939d9243bab04aec25dd4ce1f53c91f0 ||[상아(스마이트)|상아] (Chang'e) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/17/T_SunWukong_Default_Icon.png/25px-T_SunWukong_Default_Icon.png?version=84f701deda71258c1a545c28952f5494 ||[손오공(스마이트)|손오공] (Sun Wukong) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/59/T_ZhongKui_Default_Icon.png/25px-T_ZhongKui_Default_Icon.png?version=003df166392708c9e953c3f5a5fa66ac ||[종규(스마이트)|종규] (Zhong Kui) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/0/01/T_HeBo_Default_Icon.png/25px-T_HeBo_Default_Icon.png?version=2e560f0be99c87f14b9df887de6e6fbe ||[하백(스마이트)|하백] (He Bo) ||
+=== 힌두교 ===
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/eb/T_Ram_Default_Icon.png/25px-T_Ram_Default_Icon.png?version=20b6b7c7fdaf853c7a68fd7c3addb759 ||[라마(스마이트)|라마] (Rama) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/cb/T_Vamana_Default_Icon.png/25px-T_Vamana_Default_Icon.png?version=7f20979b36456240b555dfd98e90a8d9 ||[바마나(스마이트)|바마나] (Vamana) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/51/T_Bakasura_Default_Icon.png/25px-T_Bakasura_Default_Icon.png?version=52804b0578440ce8b4c8af1587b2fd6b ||[바카수라(스마이트)|바카수라] (Bakasura) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/90/T_Agni_Default_Icon.png/25px-T_Agni_Default_Icon.png?version=ff9ce6a604f0c20b37892ef56e06147a ||[아그니(스마이트)|아그니] (Agni) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/15/T_Kali_Default_Icon.png/25px-T_Kali_Default_Icon.png?version=e9f71b3ac5cb1e74efa6014285e6b3fb ||[칼리(스마이트)|칼리] (Kali) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/67/T_Kumbhakarna_Default_Icon.png/25px-T_Kumbhakarna_Default_Icon.png?version=b38085ac01db6f20fad601ee0fa0c5e2 ||[쿰바카르나(스마이트)|쿰바카르나] (Kumbhakarna) ||
+=== 로마 ===
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/ff/T_Bacchus_Default_Icon.png/25px-T_Bacchus_Default_Icon.png?version=c9400bb9f820afb0a5c4a4beb1e54c2d ||[디오니소스(스마이트)|디오니소스] (Bacchus) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/a/a6/T_Vulcan_Default_Icon.png/25px-T_Vulcan_Default_Icon.png?version=755f8558307be6f2a8ff5e3743379bd8 ||[불카누스(스마이트)|불카누스] (Vulcan) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/33/T_Janus_Default_Icon.png/25px-T_Janus_Default_Icon.png?version=f1fe0cea2e3f181f48c2cca34a02811e ||[야누스(스마이트)|야누스] (Janus) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/5d/T_Cupid_Default_Icon.png/25px-T_Cupid_Default_Icon.png?version=08de613532cedd53d6b01d9c65d0878f ||[큐피드(스마이트)|큐피드] (Cupid) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f0/T_Hercules_Default_Icon.png/25px-T_Hercules_Default_Icon.png?version=a2ebdb41859f5b70a60e9d9fde845f10 ||[헤라클레스(스마이트)|헤라클레스] (Hercules) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/6a/T_Mercury_Default_Icon.png/25px-T_Mercury_Default_Icon.png?version=26296796b13cbe3768ed2df0152e5759 ||[헤르메스(스마이트)|헤르메스] (Mercury) ||
+=== 마야 ===
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/5b/T_Xbalanque_Default_Icon.png/25px-T_Xbalanque_Default_Icon.png?version=c029e2758999bcac5614df0f7ecfe251 ||[스발랑케(스마이트)|스발랑케] (Xbalanque) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/99/T_AMC_Default_Icon.png/25px-T_AMC_Default_Icon.png?version=ff6b5a738fc10075c8f9b7a189d3803e ||[아 무젠 캅(스마이트)|아 무젠 캅] (Ah Muzen Cab) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/20/T_Chaac_Default_Icon.png/25px-T_Chaac_Default_Icon.png?version=5931c27fcc0b657b1a8250e264864617 ||[차크(스마이트)|차크] (Chacc) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/4a/T_Cabrakan_Default_Icon.png/25px-T_Cabrakan_Default_Icon.png?version=c3590d91af97a166d6d6698f082c4e68 ||[카브라칸(스마이트)|카브라칸] (Cabrakan) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/7/76/T_Kukulkan_Default_Icon.png/25px-T_Kukulkan_Default_Icon.png?version=47cc29b00b48d8122932a4027da49174 ||[쿠쿨칸(스마이트)|쿠쿨칸] (Kukulkan) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/20/T_HunBatz_Default_Icon.png/25px-T_HunBatz_Default_Icon.png?version=74613e54e5edf88814406ac79754f4dc ||[훈 바츠(스마이트)|훈 바츠] (Hun Batz) ||
+== 역할군 ==
+=== 마법사 (Mage) ===
+마법사 (Mage) 는 주문력 (Magical Power) 을 사용하며, 강력한 스킬로 적에게 데미지를 가하는 역할이다.
+
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/49/T_Ra_Default_Icon.png/25px-T_Ra_Default_Icon.png?version=c86a57b60f796f91603effed42d0a5df ||[라(스마이트)|라] (Ra) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/a/a6/T_Vulcan_Default_Icon.png/25px-T_Vulcan_Default_Icon.png?version=755f8558307be6f2a8ff5e3743379bd8 ||[불카누스(스마이트)|불카누스] (Vulcan) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/9d/T_ChangE_Default_Icon.png/25px-T_ChangE_Default_Icon.png?version=939d9243bab04aec25dd4ce1f53c91f0 ||[상아(스마이트)|상아] (Chang'e) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c3/T_Scylla_Default_Icon.png/25px-T_Scylla_Default_Icon.png?version=e392c728cbf0518da9a9f601a7fab42a ||[스킬라(스마이트)|스킬라] (Scylla) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/90/T_Agni_Default_Icon.png/25px-T_Agni_Default_Icon.png?version=ff9ce6a604f0c20b37892ef56e06147a ||[아그니(스마이트)|아그니] (Agni) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/13/T_Anubis_Default_Icon.png/25px-T_Anubis_Default_Icon.png?version=86bbfdf1bcba3f6923e157106ed2ff2c ||[아누비스(스마이트)|아누비스] (Anubis) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/16/T_Aphrodite_Default_Icon.png/25px-T_Aphrodite_Default_Icon.png?version=74df272014243f74f37d8364ac8f17da ||[아프로디테(스마이트)|아프로디테] (Aphrodite) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/33/T_Janus_Default_Icon.png/25px-T_Janus_Default_Icon.png?version=f1fe0cea2e3f181f48c2cca34a02811e ||[야누스(스마이트)|야누스] (Janus) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/88/T_NuWa_Default_Icon.png/25px-T_NuWa_Default_Icon.png?version=42456866e12d56e401abc8f87e8f54ba ||[여와(스마이트)|여와] (Nu Wa) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/33/T_AoKuang_Default_Icon.png/25px-T_AoKuang_Default_Icon.png?version=c9e167ea20f79540e521934a2a74ee61 ||~~[오광(스마이트)|오광] (Ao Kuang)~~ ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/b2/T_Isis_Default_Icon.png/25px-T_Isis_Default_Icon.png?version=042b656453ef2b26718ff2ca91f2b3e5 ||[이시스(스마이트)|이시스] (Isis) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/96/T_Zeus_Default_Icon.png/25px-T_Zeus_Default_Icon.png?version=646df4c8393f863dfbd013b61d04c1c5 ||[제우스(스마이트)|제우스] (Zeus) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/59/T_ZhongKui_Default_Icon.png/25px-T_ZhongKui_Default_Icon.png?version=003df166392708c9e953c3f5a5fa66ac ||[종규(스마이트)|종규] (Zhong Kui) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/7/76/T_Kukulkan_Default_Icon.png/25px-T_Kukulkan_Default_Icon.png?version=47cc29b00b48d8122932a4027da49174 ||[쿠쿨칸(스마이트)|쿠쿨칸] (Kukulkan) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/88/T_Chronos_Default_Icon.png/25px-T_Chronos_Default_Icon.png?version=cec35e827845d393c077889bf3b5b61b ||[크로노스(스마이트)|크로노스] (Chronos) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/a/a9/T_Poseidon_Default_Icon.png/25px-T_Poseidon_Default_Icon.png?version=525060644bf719558fac06630e4615d6 ||[포세이돈(스마이트)|포세이돈] (Poseidon) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/29/T_Freya_Default_Icon.png/25px-T_Freya_Default_Icon.png?version=414993f2897cb2bbedf9a3729d8e3244 ||[프레야(스마이트)|프레야] (Freya) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/0/01/T_HeBo_Default_Icon.png/25px-T_HeBo_Default_Icon.png?version=2e560f0be99c87f14b9df887de6e6fbe ||[하백(스마이트)|하백] (He Bo) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c6/T_Hel_Default_Icon.png/25px-T_Hel_Default_Icon.png?version=375b5bab1e3dbfff6f7a33fbb19757ee ||[헬(스마이트)|헬] (Hel) ||
+=== 암살자 (Assassin) ===
+암살자 (Assassin) 는 공격력 (Physical Power) 을 사용하며, 강력한 암살 능력으로 적의 주요 딜러를 차단하는 역할이다.
+
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/91/T_NeZha_Default_Icon.png/25px-T_NeZha_Default_Icon.png?version=4ffd4cb85cbfbe070420e9c00deb7e7d ||[나타(스마이트)|나타] (Ne Zha) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/0/03/T_Nemesis_Default_Icon.png/25px-T_Nemesis_Default_Icon.png?version=1c09745b244b97d6edc9797313cf1ddc ||[네메시스(스마이트)|네메시스] (Nemesis) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c6/T_Loki_Default_Icon.png/25px-T_Loki_Default_Icon.png?version=78daad1d8d669da161715c22a8fa9c97 ||[로키(스마이트)|로키] (Loki) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/ee/T_Bastet_Default_Icon.png/25px-T_Bastet_Default_Icon.png?version=6fbf49e9c9086298957120928d5fa54b ||[바스테트(스마이트)|바스테트] (Bastet) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/51/T_Bakasura_Default_Icon.png/25px-T_Bakasura_Default_Icon.png?version=52804b0578440ce8b4c8af1587b2fd6b ||[바카수라(스마이트)|바카수라] (Bakasura) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c0/T_Serqet_Default_Icon.png/25px-T_Serqet_Default_Icon.png?version=2c7291388a7dcfa82df66218315af594 ||[세르케트(스마이트)|세르케트] (Serqet) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f9/T_Arachne_Default_Icon.png/25px-T_Arachne_Default_Icon.png?version=e6d495d07a7acd4bedaaa48867649a1d ||[아라크네(스마이트)|아라크네] (Arachne) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/15/T_Kali_Default_Icon.png/25px-T_Kali_Default_Icon.png?version=e9f71b3ac5cb1e74efa6014285e6b3fb ||[칼리(스마이트)|칼리] (Kali) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/cd/T_Thanatos_Default_Icon.png/25px-T_Thanatos_Default_Icon.png?version=79e4781fd33e6dbcf840e5ec536fe9d7 ||[타나토스(스마이트)|타나토스] (Thanatos) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/60/T_Thor_Default_Icon.png/25px-T_Thor_Default_Icon.png?version=4497e442fbeaee0523088c03efa61fc1 ||[토르(스마이트)|토르] (Thor) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/93/T_Fenrir_Default_Icon.png/25px-T_Fenrir_Default_Icon.png?version=a95ef9b68d6f4884e8c7c8220fe1dd33 ||[펜리르(스마이트)|펜리르] (Fenrir) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/6a/T_Mercury_Default_Icon.png/25px-T_Mercury_Default_Icon.png?version=26296796b13cbe3768ed2df0152e5759 ||[헤르메스(스마이트)|헤르메스] (Mercury) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/20/T_HunBatz_Default_Icon.png/25px-T_HunBatz_Default_Icon.png?version=74613e54e5edf88814406ac79754f4dc ||[훈 바츠(스마이트)|훈 바츠] (Hun Batz) ||
+=== 사냥꾼 (Hunter) ===
+사냥꾼 (Hunter) 는 공격력 (Physical Power) 을 사용하며, 원거리에서 평타로 적에게 데미지를 가하는 역할이다.
+
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/fc/T_Neith_Default_Icon.png/25px-T_Neith_Default_Icon.png?version=fedd805f0092a37098254b5d7979b028 ||[네이트(스마이트)|네이트] (Neith) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/eb/T_Ram_Default_Icon.png/25px-T_Ram_Default_Icon.png?version=20b6b7c7fdaf853c7a68fd7c3addb759 ||[라마(스마이트)|라마] (Rama) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/5b/T_Xbalanque_Default_Icon.png/25px-T_Xbalanque_Default_Icon.png?version=c029e2758999bcac5614df0f7ecfe251 ||[스발랑케(스마이트)|스발랑케] (Xbalanque) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/41/T_Artemis_Default_Icon.png/25px-T_Artemis_Default_Icon.png?version=0e1f1cf508871007957985f24efbe5a4 ||[아르테미스(스마이트)|아르테미스] (Artemis) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/99/T_AMC_Default_Icon.png/25px-T_AMC_Default_Icon.png?version=ff6b5a738fc10075c8f9b7a189d3803e ||[아 무젠 캅(스마이트)|아 무젠 캅] (Ah Muzen Cab) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/d/dc/T_Apollo_Default_Icon.png/25px-T_Apollo_Default_Icon.png?version=277ffaf61e22b5e83cd8d14ef38fa2fd ||[아폴로(스마이트)|아폴로] (Apollo) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/d/db/T_Anhur_Default_Icon.png/25px-T_Anhur_Default_Icon.png?version=f317269c945eb32aad1e2329934faa36 ||[안후르(스마이트)|안후르] (Anhur) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/41/T_Ullr_Default_Icon.png/25px-T_Ullr_Default_Icon.png?version=e891ea85064de27092ee19a30cca4da5 ||[울르(스마이트)|울르] (Ullr) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/5d/T_Cupid_Default_Icon.png/25px-T_Cupid_Default_Icon.png?version=08de613532cedd53d6b01d9c65d0878f ||[큐피드(스마이트)|큐피드] (Cupid) ||
+=== 수호자 (Guardian) ===
+수호자 (Guardian) 는 주문력 (Magical Power) 을 사용하며, 아군 딜러를 대신하여 적의 데미지를 받아내거나 진영을 파괴하는 역할이다.
+
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/be/T_Geb_Default_Icon.png/25px-T_Geb_Default_Icon.png?version=75cb15cc7c7bf6192fa46731cc846bd1 ||[겝(스마이트)|겝] (Geb) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/ff/T_Bacchus_Default_Icon.png/25px-T_Bacchus_Default_Icon.png?version=c9400bb9f820afb0a5c4a4beb1e54c2d ||[디오니소스(스마이트)|디오니소스] (Bacchus) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/b1/T_Sobek_Default_Icon.png/25px-T_Sobek_Default_Icon.png?version=041a912eff87a029578931c36661747c ||[소베크(스마이트)|소베크] (Sobek) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/35/T_Ares_Default_Icon.png/25px-T_Ares_Default_Icon.png?version=00ee82965b023c696ed1ee38c8f13f01 ||[아레스(스마이트)|아레스] (Ares) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/80/T_Athena_Default_Icon.png/25px-T_Athena_Default_Icon.png?version=17b66aebfb249d8b7ae24a0f6d88d603 ||[아테나(스마이트)|아테나] (Athena) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f4/T_Ymir_Default_Icon.png/25px-T_Ymir_Default_Icon.png?version=5773760809c180297f6af21f224b0c7c ||[이미르(스마이트)|이미르] (Ymir) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/4a/T_Cabrakan_Default_Icon.png/25px-T_Cabrakan_Default_Icon.png?version=c3590d91af97a166d6d6698f082c4e68 ||[카브라칸(스마이트)|카브라칸] (Cabrakan) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/67/T_Kumbhakarna_Default_Icon.png/25px-T_Kumbhakarna_Default_Icon.png?version=b38085ac01db6f20fad601ee0fa0c5e2 ||[쿰바카르나(스마이트)|쿰바카르나] (Kumbhakarna) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/83/T_Hades_Default_Icon.png/25px-T_Hades_Default_Icon.png?version=48cfdce112b851a59484736929b0967c ||[하데스(스마이트)|하데스] (Hades) ||
+=== 전사 (Warrior) ===
+전사 (Warrior) 는 공격력 (Physical Power) 을 사용하며, 아군 딜러를 대신하여 적의 데미지를 받아내거나 진영을 파괴하는 역할이다.
+
+||<tablewidth=300px><width=50px> '''그림''' || '''이름''' ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/e7/T_GuanYu_Default_Icon.png/25px-T_GuanYu_Default_Icon.png?version=85374e086e1cb0481ae893c97415372a ||[관우(스마이트)|관우] (Guan Yu) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/cb/T_Vamana_Default_Icon.png/25px-T_Vamana_Default_Icon.png?version=7f20979b36456240b555dfd98e90a8d9 ||[바마나(스마이트)|바마나] (Vamana) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/17/T_SunWukong_Default_Icon.png/25px-T_SunWukong_Default_Icon.png?version=84f701deda71258c1a545c28952f5494 ||[손오공(스마이트)|손오공] (Sun Wukong) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/36/T_Odin_Default_Icon.png/25px-T_Odin_Default_Icon.png?version=b3382d232add49a63aa0b88f881d3a57 ||[오딘(스마이트)|오딘] (Odin) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/39/T_Osiris_Default_Icon.png/25px-T_Osiris_Default_Icon.png?version=4b7b924a331be2848c8cc31ccf2dd034 ||[오시리스(스마이트)|오시리스] (Osiris) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/20/T_Chaac_Default_Icon.png/25px-T_Chaac_Default_Icon.png?version=5931c27fcc0b657b1a8250e264864617 ||[차크(스마이트)|차크] (Chacc) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/56/T_Tyr_Default_Icon.png/25px-T_Tyr_Default_Icon.png?version=e532679c4d9c7bfcedd49fd150324135 ||[티르(스마이트)|티르] (Tyr) ||
+|| http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f0/T_Hercules_Default_Icon.png/25px-T_Hercules_Default_Icon.png?version=a2ebdb41859f5b70a60e9d9fde845f10 ||[헤라클레스(스마이트)|헤라클레스] (Hercules) ||
+
+== 출시일 ==
+출시일은 년/월/일로 쓴다. 동시에 출시된 신의 경우 순서를 정할 수 없으므로 순서는 '1~17' 처럼 표기하고, 동시에 출시된 신끼리는 가나다 순으로 정렬한다. 2014년 9월 21일 현재 동시에 여러 명의 신이 출시된 경우는 처음 17명 뿐이다.
+=== 2012년 ===
+||<tablewidth=360px><width=35px> '''순서''' ||<width=50px> '''그림''' || '''이름''' ||<width=75px> '''출시일''' ||
+||1~17 ||  http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/49/T_Ra_Default_Icon.png/25px-T_Ra_Default_Icon.png?version=c86a57b60f796f91603effed42d0a5df ||[라(스마이트)|라] (Ra) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/cb/T_Vamana_Default_Icon.png/25px-T_Vamana_Default_Icon.png?version=7f20979b36456240b555dfd98e90a8d9 ||[바마나(스마이트)|바마나] (Vamana) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/ee/T_Bastet_Default_Icon.png/25px-T_Bastet_Default_Icon.png?version=6fbf49e9c9086298957120928d5fa54b ||[바스테트(스마이트)|바스테트] (Bastet) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/b1/T_Sobek_Default_Icon.png/25px-T_Sobek_Default_Icon.png?version=041a912eff87a029578931c36661747c ||[소베크(스마이트)|소베크] (Sobek) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/90/T_Agni_Default_Icon.png/25px-T_Agni_Default_Icon.png?version=ff9ce6a604f0c20b37892ef56e06147a ||[아그니(스마이트)|아그니] (Agni) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/13/T_Anubis_Default_Icon.png/25px-T_Anubis_Default_Icon.png?version=86bbfdf1bcba3f6923e157106ed2ff2c ||[아누비스(스마이트)|아누비스] (Anubis) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f9/T_Arachne_Default_Icon.png/25px-T_Arachne_Default_Icon.png?version=e6d495d07a7acd4bedaaa48867649a1d ||[아라크네(스마이트)|아라크네] (Arachne) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/41/T_Artemis_Default_Icon.png/25px-T_Artemis_Default_Icon.png?version=0e1f1cf508871007957985f24efbe5a4 ||[아르테미스(스마이트)|아르테미스] (Artemis) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/33/T_AoKuang_Default_Icon.png/25px-T_AoKuang_Default_Icon.png?version=c9e167ea20f79540e521934a2a74ee61 ||~~[오광(스마이트)|오광] (Ao Kuang)~~ || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/36/T_Odin_Default_Icon.png/25px-T_Odin_Default_Icon.png?version=b3382d232add49a63aa0b88f881d3a57 ||[오딘(스마이트)|오딘] (Odin) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f4/T_Ymir_Default_Icon.png/25px-T_Ymir_Default_Icon.png?version=5773760809c180297f6af21f224b0c7c ||[이미르(스마이트)|이미르] (Ymir) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/96/T_Zeus_Default_Icon.png/25px-T_Zeus_Default_Icon.png?version=646df4c8393f863dfbd013b61d04c1c5 ||[제우스(스마이트)|제우스] (Zeus) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/15/T_Kali_Default_Icon.png/25px-T_Kali_Default_Icon.png?version=e9f71b3ac5cb1e74efa6014285e6b3fb ||[칼리(스마이트)|칼리] (Kali) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/83/T_Hades_Default_Icon.png/25px-T_Hades_Default_Icon.png?version=48cfdce112b851a59484736929b0967c ||[하데스(스마이트)|하데스] (Hades) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/0/01/T_HeBo_Default_Icon.png/25px-T_HeBo_Default_Icon.png?version=2e560f0be99c87f14b9df887de6e6fbe ||[하백(스마이트)|하백] (He Bo) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c6/T_Hel_Default_Icon.png/25px-T_Hel_Default_Icon.png?version=375b5bab1e3dbfff6f7a33fbb19757ee ||[헬(스마이트)|헬] (Hel) || 2012/05/31 ||
+||1~17 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/20/T_HunBatz_Default_Icon.png/25px-T_HunBatz_Default_Icon.png?version=74613e54e5edf88814406ac79754f4dc ||[훈 바츠(스마이트)|훈 바츠] (Hun Batz)[* 출시 당시에는 훈 바츠가 아니라 손오공이었다. 그러나 2013년 6월 20일에 원래 손오공의 스킬이 훈 바츠에게로 넘어갔고, 같은 해 10월 23일에 손오공이 전사 타입 신이 되어 돌아왔다.] || 2012/05/31 ||
+||18 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/e7/T_GuanYu_Default_Icon.png/25px-T_GuanYu_Default_Icon.png?version=85374e086e1cb0481ae893c97415372a ||[관우(스마이트)|관우] (Guan Yu) || 2012/06/29 ||
+||19 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/51/T_Bakasura_Default_Icon.png/25px-T_Bakasura_Default_Icon.png?version=52804b0578440ce8b4c8af1587b2fd6b ||[바카수라(스마이트)|바카수라] (Bakasura) || 2012/07/20 ||
+||20 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/d/db/T_Anhur_Default_Icon.png/25px-T_Anhur_Default_Icon.png?version=f317269c945eb32aad1e2329934faa36 ||[안후르(스마이트)|안후르] (Anhur) || 2012/08/03 ||
+||21 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/5d/T_Cupid_Default_Icon.png/25px-T_Cupid_Default_Icon.png?version=08de613532cedd53d6b01d9c65d0878f ||[큐피드(스마이트)|큐피드] (Cupid) || 2012/08/17 ||
+||22 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/60/T_Thor_Default_Icon.png/25px-T_Thor_Default_Icon.png?version=4497e442fbeaee0523088c03efa61fc1 ||[토르(스마이트)|토르] (Thor) || 2012/09/07 ||
+||23 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/35/T_Ares_Default_Icon.png/25px-T_Ares_Default_Icon.png?version=00ee82965b023c696ed1ee38c8f13f01 ||[아레스(스마이트)|아레스] (Ares) || 2012/10/04 ||
+||24 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/29/T_Freya_Default_Icon.png/25px-T_Freya_Default_Icon.png?version=414993f2897cb2bbedf9a3729d8e3244 ||[프레야(스마이트)|프레야] (Freya) || 2012/10/18 ||
+||25 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c6/T_Loki_Default_Icon.png/25px-T_Loki_Default_Icon.png?version=78daad1d8d669da161715c22a8fa9c97 ||[로키(스마이트)|로키] (Loki) || 2012/11/02 ||
+||26 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/ff/T_Bacchus_Default_Icon.png/25px-T_Bacchus_Default_Icon.png?version=c9400bb9f820afb0a5c4a4beb1e54c2d ||[디오니소스(스마이트)|디오니소스] (Bacchus) || 2012/11/19 ||
+||27 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/5b/T_Xbalanque_Default_Icon.png/25px-T_Xbalanque_Default_Icon.png?version=c029e2758999bcac5614df0f7ecfe251 ||[스발랑케(스마이트)|스발랑케] (Xbalanque) || [[2012년/지구멸망설|2012/12/21]] ||
+=== 2013년 ===
+||<tablewidth=360px><width=35px> '''순서''' ||<width=50px> '''그림''' || '''이름''' ||<width=75px> '''출시일''' ||
+||28 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/f0/T_Hercules_Default_Icon.png/25px-T_Hercules_Default_Icon.png?version=a2ebdb41859f5b70a60e9d9fde845f10 ||[헤라클레스(스마이트)|헤라클레스] (Hercules) || 2013/01/13 ||
+||29 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/a/a6/T_Vulcan_Default_Icon.png/25px-T_Vulcan_Default_Icon.png?version=755f8558307be6f2a8ff5e3743379bd8 ||[불카누스(스마이트)|불카누스] (Vulcan) || 2013/01/31 ||
+||30 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/f/fc/T_Neith_Default_Icon.png/25px-T_Neith_Default_Icon.png?version=fedd805f0092a37098254b5d7979b028 ||[네이트(스마이트)|네이트] (Neith) || 2013/02/13 ||
+||31 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/a/a9/T_Poseidon_Default_Icon.png/25px-T_Poseidon_Default_Icon.png?version=525060644bf719558fac06630e4615d6 ||[포세이돈(스마이트)|포세이돈] (Poseidon) || 2013/02/28 ||
+||32 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/16/T_Aphrodite_Default_Icon.png/25px-T_Aphrodite_Default_Icon.png?version=74df272014243f74f37d8364ac8f17da ||[아프로디테(스마이트)|아프로디테] (Aphrodite) || 2013/03/13 ||
+||33 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/d/dc/T_Apollo_Default_Icon.png/25px-T_Apollo_Default_Icon.png?version=277ffaf61e22b5e83cd8d14ef38fa2fd ||[아폴로(스마이트)|아폴로] (Apollo) || 2013/03/28 ||
+||34 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/91/T_NeZha_Default_Icon.png/25px-T_NeZha_Default_Icon.png?version=4ffd4cb85cbfbe070420e9c00deb7e7d ||[나타(스마이트)|나타] (Ne Zha) || 2013/04/17 ||
+||35 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/93/T_Fenrir_Default_Icon.png/25px-T_Fenrir_Default_Icon.png?version=a95ef9b68d6f4884e8c7c8220fe1dd33 ||[펜리르(스마이트)|펜리르] (Fenrir) || 2013/05/01 ||
+||36 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/b2/T_Isis_Default_Icon.png/25px-T_Isis_Default_Icon.png?version=042b656453ef2b26718ff2ca91f2b3e5 ||[이시스(스마이트)|이시스] (Isis) || 2013/05/15 ||
+||37 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/80/T_Athena_Default_Icon.png/25px-T_Athena_Default_Icon.png?version=17b66aebfb249d8b7ae24a0f6d88d603 ||[아테나(스마이트)|아테나] (Athena) || 2013/06/05 ||
+||38 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/88/T_Chronos_Default_Icon.png/25px-T_Chronos_Default_Icon.png?version=cec35e827845d393c077889bf3b5b61b ||[크로노스(스마이트)|크로노스] (Chronos) || 2013/07/10 ||
+||39 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/9d/T_ChangE_Default_Icon.png/25px-T_ChangE_Default_Icon.png?version=939d9243bab04aec25dd4ce1f53c91f0 ||[상아(스마이트)|상아] (Chang'e) || 2013/07/24 ||
+||40 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/56/T_Tyr_Default_Icon.png/25px-T_Tyr_Default_Icon.png?version=e532679c4d9c7bfcedd49fd150324135 ||[티르(스마이트)|티르] (Tyr) || 2013/08/07 ||
+||41 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/5/59/T_ZhongKui_Default_Icon.png/25px-T_ZhongKui_Default_Icon.png?version=003df166392708c9e953c3f5a5fa66ac ||[종규(스마이트)|종규] (Zhong Kui) || 2013/08/28 ||
+||42 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/cd/T_Thanatos_Default_Icon.png/25px-T_Thanatos_Default_Icon.png?version=79e4781fd33e6dbcf840e5ec536fe9d7 ||[타나토스(스마이트)|타나토스] (Thanatos) || 2013/09/18 ||
+||43 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/6a/T_Mercury_Default_Icon.png/25px-T_Mercury_Default_Icon.png?version=26296796b13cbe3768ed2df0152e5759 ||[헤르메스(스마이트)|헤르메스] (Mercury) || 2013/10/02 ||
+||~~1~17~~ 44 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/1/17/T_SunWukong_Default_Icon.png/25px-T_SunWukong_Default_Icon.png?version=84f701deda71258c1a545c28952f5494 ||[손오공(스마이트)|손오공] (Sun Wukong) || 2013/10/23 ||
+||45 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/9/99/T_AMC_Default_Icon.png/25px-T_AMC_Default_Icon.png?version=ff6b5a738fc10075c8f9b7a189d3803e ||[아 무젠 캅(스마이트)|아 무젠 캅] (Ah Muzen Cab) || 2013/11/07 ||
+||46 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/8/88/T_NuWa_Default_Icon.png/25px-T_NuWa_Default_Icon.png?version=42456866e12d56e401abc8f87e8f54ba ||[여와(스마이트)|여와] (Nu Wa) || 2013/12/05 ||
+||47 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/2/20/T_Chaac_Default_Icon.png/25px-T_Chaac_Default_Icon.png?version=5931c27fcc0b657b1a8250e264864617 ||[차크(스마이트)|차크] (Chacc) || 2013/12/18 ||
+=== 2014년 ===
+||<tablewidth=360px><width=35px> '''순서''' ||<width=50px> '''그림''' || '''이름''' ||<width=75px> '''출시일''' ||
+||48 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/b/be/T_Geb_Default_Icon.png/25px-T_Geb_Default_Icon.png?version=75cb15cc7c7bf6192fa46731cc846bd1 ||[겝(스마이트)|겝] (Geb) || 2014/01/16 ||
+||49 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/0/03/T_Nemesis_Default_Icon.png/25px-T_Nemesis_Default_Icon.png?version=1c09745b244b97d6edc9797313cf1ddc ||[네메시스(스마이트)|네메시스] (Nemesis) || 2014/02/06 ||
+||50 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c3/T_Scylla_Default_Icon.png/25px-T_Scylla_Default_Icon.png?version=e392c728cbf0518da9a9f601a7fab42a ||[스킬라(스마이트)|스킬라] (Scylla) || 2014/03/05 ||
+||51 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/41/T_Ullr_Default_Icon.png/25px-T_Ullr_Default_Icon.png?version=e891ea85064de27092ee19a30cca4da5 ||[울르(스마이트)|울르] (Ullr) || 2014/03/19 ||
+||52 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/6/67/T_Kumbhakarna_Default_Icon.png/25px-T_Kumbhakarna_Default_Icon.png?version=b38085ac01db6f20fad601ee0fa0c5e2 ||[쿰바카르나(스마이트)|쿰바카르나] (Kumbhakarna) || 2014/04/16 ||
+||53 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/39/T_Osiris_Default_Icon.png/25px-T_Osiris_Default_Icon.png?version=4b7b924a331be2848c8cc31ccf2dd034 ||[오시리스(스마이트)|오시리스] (Osiris) || 2014/05/06 ||
+||54 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/3/33/T_Janus_Default_Icon.png/25px-T_Janus_Default_Icon.png?version=f1fe0cea2e3f181f48c2cca34a02811e ||[야누스(스마이트)|야누스] (Janus) || 2014/05/28 ||
+||55 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/e/eb/T_Ram_Default_Icon.png/25px-T_Ram_Default_Icon.png?version=20b6b7c7fdaf853c7a68fd7c3addb759 ||[라마(스마이트)|라마] (Rama) || 2014/06/24 ||
+||56 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/c/c0/T_Serqet_Default_Icon.png/25px-T_Serqet_Default_Icon.png?version=2c7291388a7dcfa82df66218315af594 ||[세르케트(스마이트)|세르케트] (Serqet) || 2014/07/15 ||
+||57 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/4/4a/T_Cabrakan_Default_Icon.png/25px-T_Cabrakan_Default_Icon.png?version=c3590d91af97a166d6d6698f082c4e68 ||[카브라칸(스마이트)|카브라칸] (Cabrakan) || 2014/08/19 ||
+||58 || http://hydra-media.cursecdn.com/smite.gamepedia.com/thumb/7/76/T_Kukulkan_Default_Icon.png/25px-T_Kukulkan_Default_Icon.png?version=47cc29b00b48d8122932a4027da49174 ||[쿠쿨칸(스마이트)|쿠쿨칸] (Kukulkan) || 2014/09/10 ||

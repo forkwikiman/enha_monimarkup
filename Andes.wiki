@@ -1,0 +1,42 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| Fusion Rock ||
+|| 곡명 |||||||| Andes ||
+|| 작곡 |||||||| [[SHK]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ AEIC]] ||
+|| BPM |||||||| 140 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 3}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+== 개요 ==
+[[EZ2DJ AEIC]]의 신곡. 이후 [크레이지레인2]에서 [[EZ2DJ AEIC]] 카테고리에도 수록되었다. AE때는 제작자인 [[SHK]]가 홈페이지에 이 곡을 업로드 해놓아서 AE의 히든곡일 것이라는 예상이 있었지만 정작 AE 제품판에는 없었고 AEIC 확장판에 수록되었다. [[BGA]]도 범용이고 디스크도 너무 평범해서 큰 인기를 얻지는 못했지만 꽤 괜찮은 곡.
+
+곡명의 어원은 당연히 [[안데스 산맥]]이다.
+
+Lotze 명의로 공급한 여태까지의 곡들과는 차별되는 묵직하고 상쾌한 선율을 한껏 보여주고 있다. 중간중간 들릴듯 말듯한 브라스와 하드한 메인기타를 보조하는 벨 전자음이 매력적이다.
+== 패턴 ==
+=== 5 Street Mix ===
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/VnTO8cYy8GQ?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/VnTO8cYy8GQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EZ & NM & HD MIX
+
+EZ Lv.3 - NM Lv.6 - HD Lv.8로 이번 신작에 수록된 신곡들중에 전체적으로 통틀어 레벨이 낮다. HD는 일단은 Lv.8 이긴 하나, 후렴부의 중간 롱놋과 함께 나오는 스크 2연타는 박자를 맞추기 애매하고 키음도 잘 안 들려서 처리하기 껄끄럽다. 즉 [[후살]]성이 짙은 차트다.
+
+5 라디오채널 중 Ch. Embark의 1스테이지에 출현한다. 난이도는 NM정도.
+=== 7 Street Mix ===
+=== 10 Club Mix ===
+Lv.12의 HD 패턴이 꽤나 찰지다. 서로 다른 두 악기를 양손으로 연주하는 기분을 느껴보자. 체감레벨은 12 치고는 약간 쉬운 편.
+=== 14 Space Mix ===
+Lv.10짜리 패턴이 하나 있는데 롱노트가 제법 많아 체력회복하기에 좋다.
+=== EZ2 Catch ===
+=== Turntable ===

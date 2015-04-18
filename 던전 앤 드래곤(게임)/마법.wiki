@@ -1,0 +1,93 @@
+[[던전 앤 드래곤(게임)]]에 등장하는 마법을 설명하는 항목. 원작에 등장하는 마법은 [[던전 앤 드래곤 시리즈/마법]]을 참조.
+
+플레이어블 매직 유저의 주문을 기반으로 하고있으며, 적들만 시전하기에 레벨을 알 수 없는 마법은 일단 룰상의 주문 레벨로 기록한다.
+
+항목이 나뉘어지기전에는 [[턴 언데드]] 또한 마법 항목에 포함되어있었으나 턴 언데드의 경우 주문이 아닌 [[클레릭]]의 초자연적 능력이다.
+
+== 1레벨 ==
+ * [[매직 미사일]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_mm.png
+ * [[슬립]] : [[자이드]] 전용.
+
+== 2레벨 ==
+ * [[미러 이미지]]
+ * [[블레스]]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_b.png
+ * [[인비저블리티]]
+ http://www.arcadequartermaster.com/capcom/ddsom/elf_i.png
+ * [[홀드 퍼슨]]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_hp.png
+ 
+== 3레벨 ==
+ * [[라이트닝 볼트]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_lb.png
+ * [[스트라이킹]]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_s.png
+ * [[파이어 볼]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_fb.png
+ * [[헤이스트]]
+ http://www.arcadequartermaster.com/capcom/ddsom/elf_h.png
+ * 컨티뉴얼 라이트
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_cl.png
+ : 원작에서는 영원한 발광체를 생성하거나 다른 물체를 영원히 빛을 내도록 만드는 주문이었으나, 여기서는 닥치고 클레릭의 정면에 있는 적들에게 [[태양권]]을 갈기는 주문이 되었다. 원작에서는 적들의 눈에 이 주문을 걸면 영구히 실명하는 효과가 있었다.[* 단 역주문만 걸어줘도 풀리고, 이 주문을 적의 눈에 걸려면 직접 클레릭이 적에게 접촉해야 하기 때문에 일반적인 전투에서 그렇게 유용하진 않았다.]
+
+== 4레벨 ==
+ * [[아이스 스톰]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_is.png
+ * [[월 오브 파이어]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_wf.png
+ * [wiki:"큐어 라이트 운즈" 큐어 시리어스 운즈]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_csw.png
+ * 스틱 투 스네이크
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_ss.png
+ : 나뭇가지를 뱀으로 만들어 뿌린다. 뱀들은 일정시간동안 적들을 쫓아가서 신명나게 물어뜯는다. TOD에서는 공격 보조용으로 꽤 쓸만한 마법이었으나, SOM와서 큐어 시리어스 운즈와 사용횟수를 공유하는 바람에 버려진 마법.
+ * [[폴리모프]] 아더
+ http://www.arcadequartermaster.com/capcom/ddsom/elf_po.png
+
+== 5레벨 ==
+ * 컨주어 엘레멘탈(SOM)
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_ce.png
+ http://www.arcadequartermaster.com/capcom/ddsom/elf_ce.png
+ : 정령을 소환해 적 전체를 공격. 아이스 스톰과 성능이 거의 같다. 화면 왼쪽을 보고 있으면 이프리트, 실프가 오른쪽을 보고 있으면 리바이어선, 골렘이 나온다.
+ * [[곤충떼]]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_ip.png
+ * [[클라우드 킬]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_ck.png
+ * [wiki:"큐어 라이트 운즈" 큐어 크리티컬 운즈]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_ccw.png
+ * [[텔레포트]]
+ : [[데이모스]] 전용. 말그대로 순간이동한다. 사용중에는 완전무적. 
+ * [[애니메이트 데드]]
+ : [[데이모스]], [[자이드]], [[텔아린]] 전용.
+
+== 6레벨 ==
+ * [[프로젝트 이미지]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_pi.png
+ * 플래쉬 투 스톤
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_fs.png
+ : 손에서 [[석화]] 광선을 발사한다. 석화 광선에 맞은 졸개는 즉사, 졸개보다 큰 녀석들은 데미지를 입는다. 다만 이렇게 죽이면 아이템을 안주기 때문에 실용성은 별로. 프로젝트 이미지와 사용횟수가 겹치는것도 그렇고.
+
+== 7레벨 ==
+ * [[리버스 그래비티]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_rg.png
+ * [[홀리 워드]]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_hw.png
+ : 신성어를 발하면 하늘에서 빛의 기둥이 내려오더니 3~4마리의 적들이 데미지를 입고 쓰러진다. 원작에서는 신성어를 들은 악한 존재가 귀가 먹고 눈이 멀고 심지어 죽게 만드는 마법이었다.
+ * [[어스퀘이크]]
+ http://www.arcadequartermaster.com/capcom/ddsom/cleric_eq.png
+
+== 8레벨 ==
+새턴판 한정. 아케이드판은 8레벨 스크롤이 나오나 8레벨 마법은 존재하지 않는다. 그래서 아케이드판에서 8레벨 스크롤은 아무짝에도 쓸모없는 [[잉여]]였는데, 아마도 이건 제작자의 실수로 보인다.
+
+ * [[미티어 스웜]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_ms.png
+ * [[파워 워드 킬]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_pk.png
+
+== 9레벨 ==
+아케이드 한정. 유일하게 스크롤이 나오지 않는다. 응? 다만 [[버그]]를 [http://dndmania.net/bbs/freeboard/44160 쓰면 스크롤이 나오기는 한다.]
+
+ * [[미티어 스웜]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_ms.png
+ * [[파워 워드 킬]]
+ http://www.arcadequartermaster.com/capcom/ddsom/mage_pk.png

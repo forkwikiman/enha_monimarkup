@@ -1,0 +1,243 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ Platinum]] 관련 정보''' ||
+|| [[EZ2DJ Platinum/수록곡|수록곡]] || [[EZ2DJ Platinum/삭제곡|삭제곡]] || [[EZ2DJ Platinum/라디오채널|라디오채널]] || [[EZ2DJ Platinum/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ Platinum]]의 수록곡 목록.
+
+ * 이 항목은 [[EZ2DJ PT/수록곡]], [[EZ2DJ 5th/수록곡]]으로도 들어올 수 있다.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://blog.naver.com/ez2djhdmix/10148348866]
+
+||<|2><:> '''곡명''' ||<width=100px><-2><:> '''Ruby''' ||<width=100px><-2><:> '''5Street''' ||<width=50px><:> '''7Street'''||<width=50px><:> '''Club''' ||<width=100px><-2><:> '''Space''' ||<width=50px><:> '''Catch''' ||<width=50px><:> '''Turn''' ||
+|| {{{#orange NM}}} || {{{#red HD}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#orange NM}}} || {{{#orange NM}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#orange NM}}} || {{{#orange NM}}} ||
+||||||||||||||||||||||<#568EFD> '''The 1st Tracks''' ||
+||<|2>[[Baby Dance]]|| {{{#orange 4}}} || {{{#red 6}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Catch The Flow]]|| {{{#orange 4}}} || {{{#red 5}}} || {{{#orange 4}}} || {{{#red 5}}} || {{{#orange 6}}} || {{{#orange 5}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Confete]]|| {{{#orange 4}}} || {{{#red 5}}} || {{{#orange 2}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 3}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Dirty D]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 2}}} || {{{#red 5}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Envy Mask]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 7}}} || {{{#orange 8}}} || {{{#orange 8}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Funny Funky]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 3}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Get the beat]]|| {{{#orange 1}}} || {{{#red X}}} || {{{#orange 1}}} || {{{#red 7}}} || {{{#orange 3}}} || {{{#orange 2}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[I've Fallen]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 3}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[I Do Love You]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#red 5}}} || {{{#orange 3}}} || {{{#orange 5}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Look out ~Here comes my love~|Look Out]]|| {{{#orange 1}}} || {{{#red X}}} || {{{#orange 1}}} || {{{#red 5}}} || {{{#orange 5}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Minus 1]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 7}}} || {{{#orange 6}}} || {{{#orange 8}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Quake in Kyoto]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 10}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Southwest Cadillac]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#red 6}}} || {{{#orange 5}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Stay]]|| {{{#orange 5}}} || {{{#red 7}}} || {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 5}}} || {{{#orange 5}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[The Rhythm]]|| {{{#orange 3}}} || {{{#red 7}}} || {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[You love the life you live]]|| {{{#orange 1}}} || {{{#red X}}} || {{{#orange 1}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 3}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Yes Yes]]|| {{{#orange 1}}} || {{{#red X}}} || {{{#orange 1}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 3}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Ztar warZ]]|| {{{#orange 6}}} || {{{#red 8}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#orange 9}}} || {{{#orange 9}}} || {{{#orange 11}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||||||||||||||||||||||<#5B7DEB> '''The 1st Tracks Special Edition''' ||
+||<|2>[[Combination]]|| {{{#orange 2}}} || {{{#red 5}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[DIEOXIN]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[R.D.M. ~Rain Drops in My mind~|R.D.M.]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Red Hot]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Special K]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[The Future]]|| {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 5}}} || {{{#red 10}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Confete|Confete (Remix)]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Do you remember|Do You Remember? (Remix)]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Mystic Dream 9903 ~Horror Mix~|Mystic Dream 9903 (Horror Mix)]]|| {{{#orange 8}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Let it go(EZ2DJ)|Let It Go (Remix)]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Stay|Stay (Radio Edit)]][* 5스트릿에서는 독립된 곡으로 나오지는 않지만, Stay HD를 고르면 Stay Remix가 나온다.]|| {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[You love the life you live|You love the life you live (Remix)]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||||||||||||||||||||||<#F275E1> '''2nd TraX''' ||
+||<|2>[[Anytime]]|| {{{#orange 7}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 7}}} || {{{#orange 6}}} || {{{#orange 8}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Appeal]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Back For More]]|| {{{#orange 2}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Back to Bed]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Be My Baby]]|| {{{#orange 3}}} || {{{#red 5}}} || {{{#orange 3}}} || {{{#red 4}}} || {{{#orange 5}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Damnation]]|| {{{#orange 6}}} || {{{#red 7}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#orange 8}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Departure]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#orange 8}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Exist]]|| {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 3}}} || {{{#red 6}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Funky 5]]|| {{{#orange 1}}} || {{{#red 4}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Get It Up]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Hypnotize]]|| {{{#orange 8}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[I've got this feeling]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[It's My Secret]]|| {{{#orange 4}}} || {{{#red 6}}} || {{{#orange 4}}} || {{{#red 6}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[JAM(EZ2DJ)|JAM]]|| {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Minus 1 ~Space Mix~|Minus 1 (Space Mix)]]|| {{{#orange 7}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#orange 11}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Moving On]]|| {{{#orange 1}}} || {{{#red X}}} || {{{#orange 1}}} || {{{#red 5}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Red Ocean]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Say That U]]|| {{{#orange 3}}} || {{{#red 6}}} || {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Seize The Day]]|| {{{#orange 3}}} || {{{#red 6}}} || {{{#orange 2}}} || {{{#red 5}}} || {{{#orange 5}}} || {{{#orange 5}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Sentimental No! No!]]|| {{{#orange 3}}} || {{{#red 5}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 5}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Showdown]]|| {{{#orange 9}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 8}}} || {{{#orange 8}}} || {{{#orange 8}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[The Boy ~Here comes my baby~|The Boy]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 5}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Theme of EZ2DJ]]|| {{{#orange 3}}} || {{{#red 5}}} || {{{#orange 6}}} || {{{#red 7}}} || {{{#orange 9}}} || {{{#orange 9}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[We Luv Music]]|| {{{#orange 6}}} || {{{#red 7}}} || {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 6}}} || {{{#orange 9}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Where's My Girl]]|| {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#orange 4}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[With U Girl]]|| {{{#orange 5}}} || {{{#red 6}}} || {{{#orange 3}}} || {{{#red 4}}} || {{{#orange 4}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[You Are The One For Me]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red 6}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||||||||||||||||||||||<#79A46E> '''3rd TraX''' ||
+||<|2>[[2.14]]|| {{{#orange 2}}} || {{{#red 5}}} || {{{#orange 2}}} || {{{#red 3}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[20000000000]]|| {{{#orange 9}}} || {{{#red X}}} || {{{#orange 9}}} || {{{#red 12}}} || {{{#orange 11}}} || {{{#orange 12}}} || {{{#orange 12}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[2nd Jewel]]|| {{{#orange 3}}} || {{{#red 7}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#orange 7}}} || {{{#orange 6}}} || {{{#orange 11}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Anemia]]|| {{{#orange 2}}} || {{{#red 5}}} || {{{#orange 3}}} || {{{#red 5}}} || {{{#orange 6}}} || {{{#orange 4}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Black Market]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 8}}} || {{{#orange 8}}} || {{{#orange 10}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Cosmic Bird]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#orange 10}}} || {{{#orange 12}}} || {{{#orange 12}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Give it 2 me]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[In a Nutshell]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#orange 6}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Lie Lie]]|| {{{#orange 4}}} || {{{#red 7}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[M Police]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 8}}} || {{{#orange 8}}} || {{{#orange 7}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Minus 2]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#orange 10}}} || {{{#orange 11}}} || {{{#orange 11}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Night Watcher]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#orange 9}}} || {{{#orange 8}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[R.F.C.]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#orange 10}}} || {{{#orange 9}}} || {{{#orange 12}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Sand Storm]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#orange 10}}} || {{{#orange 11}}} || {{{#orange 11}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Shake]]|| {{{#orange 3}}} || {{{#red 5}}} || {{{#orange 4}}} || {{{#red 8}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Smash]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 8}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Sparrow]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#orange 6}}} || {{{#orange 10}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Substance]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#orange 7}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[The 3rd Place]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#orange 8}}} || {{{#orange 8}}} || {{{#orange X}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Y-Gate]]|| {{{#orange 8}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#orange 12}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||||||||||||||||||||||<#F0BF5B> '''4th TraX''' ||
+||<|2>[[Aquaris]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#orange 7}}} || {{{#orange 9}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[B.O.W. ~Battle of Wilderness has started|B.O.W.]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#orange 9}}} || {{{#orange 12}}} || {{{#orange 12}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Blue]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#orange 8}}} || {{{#orange 10}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Calling me Now]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Climax]]|| {{{#orange 7}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#orange 9}}} || {{{#orange 11}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Complex]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#orange 10}}} || {{{#orange 10}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Delight]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#orange 7}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Eye of Beholder]]|| {{{#orange 8}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Feel So Sad]]|| {{{#orange 7}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#orange 13}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Fire Storm]]|| {{{#orange 10}}} || {{{#red X}}} || {{{#orange 11}}} || {{{#red 12}}} || {{{#orange 11}}} || {{{#orange 12}}} || {{{#orange 13}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Futurist]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#orange 6}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Go!]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#orange 7}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[JMJ]]|| {{{#orange 7}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#orange 7}}} || {{{#orange 8}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Judgement]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red 6}}} || {{{#orange 6}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Lovely Day]]|| {{{#orange 2}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red 7}}} || {{{#orange 5}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Mad Robot]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#orange 7}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Metagalatic G - 1000]]|| {{{#orange 10}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#orange 11}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Ready to Yah]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Shout]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#orange 6}}} || {{{#orange 9}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Tokyo 9 P.M.]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red 7}}} || {{{#orange 5}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||||||||||||||||||||||<#B0B0B0> '''Platinum''' ||
+||<|2>[[느낌]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red 5}}} || {{{#orange 4}}} || {{{#orange 4}}} || {{{#orange 5}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Any way you want it]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Cellavue]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 3}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#orange 5}}} || {{{#orange 7}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Memories(EZ2DJ)|Memories]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Night Madness]]|| {{{#orange 5}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#orange 7}}} || {{{#orange 9}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Panic Strike]]|| {{{#orange 8}}} || {{{#red X}}} || {{{#orange 12}}} || {{{#red 13}}} || {{{#orange 13}}} || {{{#orange 13}}} || {{{#orange ?}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Q Factor]]|| {{{#orange 8}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 11}}} || {{{#orange 10}}} || {{{#orange 11}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Riff Guy]]|| {{{#orange 8}}} || {{{#red X}}} || {{{#orange 9}}} || {{{#red 11}}} || {{{#orange 10}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Spotlight]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#orange 7}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Unknown H2]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#orange 8}}} || {{{#orange 9}}} || {{{#orange 9}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Weird Wave]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#orange 10}}} || {{{#red ?}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Zeroize]]|| {{{#orange 9}}} || {{{#red X}}} || {{{#orange 8}}} || {{{#red 13}}} || {{{#orange 13}}} || {{{#orange 13}}} || {{{#orange ?}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange O}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[Aquaris]][[br]][[Aquaris|(Physical Inspiration Hyper Blue Mix)]]|| {{{#orange 7}}} || {{{#red X}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#orange 9}}} || {{{#orange 10}}} || {{{#orange 10}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[I've Fallen]][[br]][[I've Fallen|(Hot Dog Boogie Groove Mix)]]|| {{{#orange 3}}} || {{{#red X}}} || {{{#orange 4}}} || {{{#red X}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#orange 6}}} || {{{#red X}}} || {{{#orange O}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[I've got this feeling]][[br]][[I've got this feeling|(DJ.FE Restless Acid Soul Mix)]]|| {{{#orange 6}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#orange 7}}} || {{{#orange 9}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||
+||<|2>[[JMJ]][[br]][[JMJ|(DFC Space Gear Re-formation)]]|| {{{#orange 4}}} || {{{#red X}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#orange 7}}} || {{{#orange 7}}} || {{{#orange 8}}} || {{{#red X}}} || {{{#orange X}}} || {{{#orange X}}} ||
+|| {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} || {{{#orange }}} || {{{#red }}} || {{{#orange }}} || {{{#orange }}} ||

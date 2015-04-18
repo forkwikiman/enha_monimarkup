@@ -1,0 +1,49 @@
+ * 상위 항목 : [[런던 지하철]]
+
+||||||<#894e24> {{{#ffffff 베이컬루 선}}}[[br]]{{{#ffffff Bakerloo Line}}} ||
+||운영기관 ||||[[런던교통공사]] ||
+||영업거리 ||||23.2㎞ ||
+||궤간 ||||1,435mm ([[표준궤]]) ||
+||역수 ||25 ||
+||전기 ||||직류 630V 제4궤조 ||
+||신호 |||| ||
+||표정속도 |||| ||
+||차량기지 ||||런던 로드 차량기지[[br]]스톤브릿지 파크 차량기지[[br]]퀸즈 파크 차량기지 ||
+
+[[목차]]
+== 개요 ==
+[[런던 지하철]]의 노선. 노선색은 {{{#894e24 ●}}} 고동색.
+
+노선명은 [[베이커가 역]]과 [wiki:"런던 워털루 역" 워털루 역]을 지나간다고 해서 앞뒤로 따와 베이컬루라고 지었다. [[경부선]]과 같은 맥락의 네이밍.
+
+== 역 목록 ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/PBwlf2SVUB0" frameborder="0" allowfullscreen></iframe>
+}}}
+전구간 운행 영상(해로우 & 윌드스톤 - 엘리펀트 & 캐슬)
+|| 구역 || ㎞ || 역명 |||| 환승노선([[환승역]]) ||
+||<#e6e7e9> 5 || ||[[해로우 & 윌드스톤 역]][[br]]Harrow & Wealdstone ||attachment:/nationalrail-small.png [[내셔널 레일]][[br]]attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+||<#ffffff><|4> 4 || ||[[켄톤 역]][[br]]Kenton ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+|| ||[[사우스 켄싱턴 역]][[br]]South Kenton ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+|| ||[[노스 웸블리 역]][[br]]North Wembley ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+|| ||[[웸블리 센트럴 역]][[br]]Wembley Central ||attachment:/nationalrail-small.png [[내셔널 레일]][[br]]attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+||<#e6e7e9><|2> 3 || ||[[스톤브릿지 파크 역]][[br]]Stonebridge Park ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+|| ||[[할스덴 역]][[br]]Harlesden ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+||<#e6e7e9> 3/2 || ||[[윌레스텐 정션 역]][[br]]Wilesden Junction ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+||<#ffffff><|5> 2 || ||[[켄잘 그린 역]][[br]]Kensal Green ||attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+|| ||[[퀸즈 파크 역]][[br]]Queen's Park ||attachment:/nationalrail-small.png [[내셔널 레일]][[br]]attachment:/TfL-LO-roundel.png [[런던 오버그라운드]] ||
+|| ||[[킬번 파크 역]][[br]]Killburn Park || ||
+|| ||[[메이다 베일 역]][[br]]Maida Vale || ||
+|| ||[[워윅 애비뉴 역]][[br]]Warwick Avenue || ||
+||<#e6e7e9><|11> 1 || ||[wiki:"런던 패딩턴 역" 패딩턴 역][[br]]Paddington ||attachment:/TfL-LU-roundel.png [wiki:"디스트릭트 선" 디스트릭트], [wiki:"서클 선" 서클], [[해머스미스 앤 시티 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ([[개트윅 익스프레스]]) ||
+|| ||[wiki:"에드궤어 로드 역(베이컬루 선)" 에드궤어 로드 역][[br]]Edgware Road || ||
+|| ||[[메릴본 역]][[br]]Marylbone ||attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[베이커가 역]][[br]]Baker Street ||attachment:/TfL-LU-roundel.png [wiki:"서클 선" 서클], [wiki:"메트로폴리탄 선" 메트로폴리탄], [wiki:"주빌리 선" 주빌리], [[해머스미스 앤 시티 선]] ||
+|| ||[[리젠트 파크 역]][[br]]Regent's Park || ||
+|| ||[[옥스포드 서커스 역]][[br]]Oxford Circus ||attachment:/TfL-LU-roundel.png [wiki:"빅토리아 선" 빅토리아], [[센트럴 선]] ||
+|| ||[[피카딜리 서커스 역]][[br]]Piccadilly Circus ||attachment:/TfL-LU-roundel.png [[피카딜리 선]] ||
+|| ||[[차링 크로스 역]][[br]]Charling Cross ||attachment:/TfL-LU-roundel.png [[노던 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[임뱅크먼트 역]][[br]]Embankment ||attachment:/TfL-LU-roundel.png [wiki:"노던 선" 노던], [wiki:"디스트릭트 선" 디스트릭트], [[서클 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ([wiki:"차링 크로스 역" 차링 크로스]) ||
+|| ||[wiki:"런던 워털루 역" 워털루 역][[br]]Waterloo ||attachment:/TfL-LU-roundel.png [wiki:"노던 선" 노던], [wiki:"워털루 앤 시티 선" 워털루 앤 시티], [[주빌리 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||
+|| ||[[램베스 노스 역]][[br]]Lambeth North || ||
+||<#ffffff> 1/2 || ||[[엘리펀트 & 캐슬 역]][[br]]Elephant & Castle ||attachment:/TfL-LU-roundel.png [[노던 선]][[br]]attachment:/nationalrail-small.png [[내셔널 레일]] ||

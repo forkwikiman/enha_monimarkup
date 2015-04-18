@@ -1,0 +1,82 @@
+|| 장르 |||||||| Trance Pop ||
+|| 곡명 |||||||| Let me hear your voice --[[너목들]]--||
+|| 작곡 |||||||| [[Transin]] ||
+|| 작사/보컬 |||||||| RYU♥star ||
+|| 배경 |||||||| AC - [[RYUminus]], ON - [[Ratise]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 140 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 8}}}[* 5스트릿 이지와 동일] || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 4}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='1kgwHbh-2Xw$' width='600px' height='400px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=1kgwHbh-2Xw$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=1kgwHbh-2Xw$' width='600px' height='400px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+{{{#!HTML
+<iframe width="550" height="413" src="http://www.youtube.com/embed/Io1tFsoNA60" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[EZ2ON]] '''BGA'''
+
+EZ2DJ 7th TRAX의 오리지널 수록곡. 7th TRAX 초기 버전에는 곡명에 Let me '''here''' your voice라는 이상한 오타가 나있었다.
+
+[[EZ2DJ AE]]에서는 다른 7th 1.0 출신 곡들과 함께 판권 문제로 삭제되었다.
+
+7th의 수록곡들은 상당수가 유사한 신스음의 사용으로 비슷비슷해진 경향이 있는데 그중 이 곡도 포함된다. 물론 이 곡만의 고유한 특성이 없는 것은 절대로 아니며, 상당히 높은 보컬(류마님 [[만세]]!)과 더불어 에코 이펙트, 후반부의 피아노 음이 다소 슬픈 분위기를 자아낸다.
+
+참고로 가사는 한국어이다.
+
+난이도가 낮기 때문에 플레이 비율이 낮았고, 그나마 대체로 초/중수들이 찾았으며 고수가 이 곡을 플레이 하는 일은 거의 없다고 보면 된다.
+
+단 초/중수의 시각으로 보면 이 곡은 '''만족스럽게''' 플레이하기는 어려운 곡. 하드버전은 페달부분이 상당히 짜증나게 되어있어 툭하면 콤보가 끊긴다. 물론 못깨는 일은 거의 없으나 생각보다 점수가 나오지 않는 곡. 이 요인과 더불어 롱노트로 인해 상당히 기본점수선이 올라가버린 다른 7th의 곡들에 비해 그다지 점수가 올라가지 않아 재미없어서 자주 플레이가 되지 않는 듯 하다.
+
+1.01 버전에서 채보가 한 번 수정되었다. 그래서 초기 버전인 1.00과는 채보가 살짝 다르다. [* 7.00 초기판 패턴은 인터넷에 굴러다니는 Ez2DJ 7th 복돌이로 플레이 가능]
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/vNizsmfL8-g?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vNizsmfL8-g?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+▲ Ez2DJ 7th 1.00 초기판 Let Me Hear Your Voice HD 영상
+
+7.00 버전의 HD 채보는 Ez2DJ 역사상 가장 사기 난이도로 꼽히기도 한다.
+
+패치판이 아닌 7th 1.0x 계열 버전에서는 폭사했을 때의 효과음으로 이 곡의 후렴구 부분인 '울지 말아요'를 사용했다. 그래서 '울지 말아요'가 유행어가 되기도 했다.
+
+== 제작자 코멘트 ==
+{{|
+할말없다. 이런 분위기의 곡에는 도무지 어떤 BGA 를 달아야 되는지 아직도 모르겠다.
+마지막 부분엔 BGA 에 나오는 여자애가 자신의 핸드폰을 물끄러미 쳐다보는 장면으로 끝맺을라 그랬는데(제목이 "니목소릴 들려줘" 니까...)
+시간...
+이 홈페이지 대문 그림이 쓰였다. 뭐... 대문그림은 그림크기가 작으니...
+-RYUminus
+|}}
+
+== 가사 ==
+{{|
+가슴속에 모든 슬픔 들을 내게 감추려 하는 
+위태로운 내 가슴에 슬픔이 고이고 있어요 
+지금까지 웃게 했던 그 모습 
+다시 보여줘 봐요
+거짓의 꿈에 빠진채 한때뿐인 기억은
+이제는 다 잊어버려요
+밤새 녹은 눈처럼
+이제는 꼭 담아두어요
+추억하고 싶은 기억들만
+울지말아요 혼자서 고민하지마요
+솔직한 그 심정 내게 말해요
+변치않아요 이렇게 소중한 추억
+희망도 소망도 언제까지나
+울지말아요 혼자서 고민하지마요
+솔직한 그 심정 내게 말해요
+|}}

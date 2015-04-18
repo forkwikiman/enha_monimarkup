@@ -1,0 +1,62 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable Clazziquai Edition]] ||
+|| 장르 || Bossanova, [["House(리듬게임)" Latin House]](테크니카2) ||
+|| 작곡 || Ruby Tuseday ||
+|| 비주얼 || [wiki:"꾸엠" Kkuem](일러스트), Hwain, Jin(모션) ||
+|| [[BPM]] || 115 ||
+
+{{{#!HTML
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/Z8eYkaMA2m8&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Z8eYkaMA2m8&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+}}}
+
+DJMAX [[메트로 프로젝트]] 수록곡으로, [wiki:"DJMAX CE&BS" DJMAX Portable Clazziquai Edition]와 [[DJMAX TECHNIKA]]에 수록되었다.
+
+약칭은 '''모먼트''' 혹은 '''히인모'''.
+
+원래 처음 가동 당시에는 [[DJMAX TECHNIKA]]에 없었지만, 2009년 1월 13일 플래티넘 크루 서비스 정식 서비스와 함께 업데이트 된 곡이다. [[Ruby Tuesday]]가 [[EZ2DJ]] 수록곡인 [[Confete]]와 [[Sentimental No! No!]]의 후속곡으로 준비한 [[삼바]] 곡. 이미 [wiki:"DJMAX CE&BS" DJMAX Portable Clazziquai Edition]에서 상당한 호평을 받았었던 곡으로 Confete와는 사뭇 다른 분위기의 애절하고 따뜻한 느낌의 곡.
+
+테크니카에서의 난이도는 LP 3, PP 5, TP 5. TP는 원래 없었으나 8월 25일 에볼루션 EP 업데이트와 함께 업데이트되었다. PP와 TP의 난이도 표기가 같으나, [[Cotton Candy]]세트의 괴악한 난이도표기 탓이고, TP가 PP보다 확실하게 어렵다. PP의 경우는 상대적으로 엇박이 좀 많은 편이고 후반에는 엇박 쌍노트가 나오지만 그 외에는 딱히 곤란한 패턴은 그다지 보이지 않으며, 그 어려운 부분도 사실 초보자도 조금 헤메는 수준으로 끝나는 편이라 전체적으로 어렵지 않은 곡이다. 오랫동안 파퓰러 패턴 하나 뿐이었고, 그 외로는 플래티넘크루 미션 모드의 '이펙터 활용 2'에 한번 등장하는 정도였지만, 파퓰러 1스테이지에서 오픈곡중 가장 높은 레벨로 있기 때문에 곡의 선곡율은 대단히 높은 인기곡중 하나. 역시 등장위치부터 잘 잡고 볼 일이다. [[Sentimental No! No!]]와 비슷하게, 패턴이 단 하나뿐이지만 전자가 처참하게 묻힌 곡임에도 불구하고 이 곡은 당당히 인기곡의 반열에 올라 있고, 많은 사람들이 추가 TP와 SP패턴을 원하고 있기도 하다. 그래서인지 09년 8월 25일 Evolution EP 업데이트때 추가된 [[Cotton Candy]] 코스에 TP패턴이 드디어 추가되었다! 난이도는 PP와 같은 5이지만.. PP보단 확실하게 어려워졌다. 여러가지 잔분홍 노트가 추가되었고, 몇몇 [[키음]]이 바뀌면서 (후반 부분은 피아노음의 키음을 사용하는 듯) PP에 비해 상당히 박자 맞추기가 어려워졌다. TP는 업데이트 당일 맨 마지막 줄의 분홍노트가 쳐지지 않는 버그가 있었으나, 당일 패치로 인해 그 문제는 해결되었다.
+
+[[BGA]]는 동일 프로젝트에서 [[The Clear Blue Sky]]의 비주얼을 맏은 바 있는 KKuem의 작품. 눈동자에 별 모양을 넣은 그림체가 인상적이다. 보통 3D 비주얼 퀄리티의 최고봉을 [[Landscape]]로 친다면, 이 곡의 비주얼은 2D 비주얼 퀄리티의 결정판급. 아주 미려한 일러스트들과 생동감 넘치는 애니메이션, 화려하고 다채로운 모션 효과들이 큰 볼거리를 제공한다. 곡과 비주얼 상당한 호평을 받은 셈.
+
+[[DJMAX TECHNIKA 2]]에서도 수록되었는데 난이도는 --NM이 HD보다 낮아야한다는 강박관념덕분에-- NM 5 HD 6이다. 그리고 어째서인지 장르가 Latin House로 변경되었다.
+
+아래는 공식 설명이다.
+
+{{| Ruby Tuesday가 오랜만에 선보이는 보사노바 곡. 그의 여성 보컬 곡에 주로 기용하는 LEAH와의 환상적인 호흡으로 호소력 높은 곡이 완성됐다. 과거 Ruby Tuesday가 작곡한 Confete라는 곡의 리듬을 기억하는 사람에게는 추억의 선물이 될 것이다. |}}
+
+아래는 가사이다.
+
+I wanna spend my love on you
+그대에게 제 모든 사랑을 드리고 싶어요
+Do anything you want me too and
+또 그대가 내게 원하는 모든 걸 하고 싶어요
+I'll do it like no other girl
+다른 여자들과는 다르게요
+
+I'll give everything you need
+그대에게 필요한 모든 것을 드리겠어요
+full fill your every fantasy
+그대의 모든 바램을 이루어주기 위해
+I'll be a lover and be your friend
+난 그대의 연인이자 친구가 되려고 해요
+
+I'll crazy inside and there feeling can't hide in my heart anymore
+난 푹 빠져버리고, 내 마음을 더이상 숨길 수 없겠죠
+And nothing would matter as long as I'm living with you
+그대와 함께한다면, 더 이상 무엇도 필요하지 않을거에요
+Here in the moment
+바로 지금 여기 이 순간
+
+I'll make you see what you're mean to me
+그대가 저에게 어떤 의미인지 보여 줄래요
+hold you in my arms
+나의 두 손으로 그대를 안고요
+I'll bring you happiness that lasts forever with you
+그대에게 영원히 남을 행복을 드리겠어요
+and I'll ask that you give your heart to me
+그럼 그대도 그대 마음을 내게 주지 않겠어요
+
+[[각주]]
+

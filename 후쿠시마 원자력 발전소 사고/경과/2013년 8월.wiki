@@ -1,0 +1,429 @@
+ * 이 문서의 내용을 수정하실 때는 사실을 왜곡하지 않도록 링크된 기사를 참조하면서 작성해 주십시오.
+
+
+[[include(틀:후쿠시마 원자력 발전소 사고)]]
+
+8월 시점에서의 공식입장 : 후쿠시마 원전 사고로 100mSv 이상의 갑상선 피폭을 당한 근로자가 [http://asahikorean.com/article/newclear_disaster/AJ201307190097 2000명]인 것으로 확인되었다. 
+
+8월 시점에서의 실제 상황 : 
+ * 7월 시점의 입장을 번복(오염지역의 방사능 제거 작업은 한 번만 한다). 재작업 불허 방침을 철회했다.
+ * 원자로 1호기 : 노심용융. 핵연료 관련 정보 없음.
+ * 원자로 2호기 : 노심용융. 핵연료 관련 정보 없음.
+ * 원자로 3호기 : 노심용융. 내부 조사 불가. 핵연료 관련 정보 없음. 5층 중앙부에서 [http://www.yonhapnews.co.kr/international/2013/07/25/0602000000AKR20130725182400073.HTML 수증기로 추정되는 무언가]가 피어오른 적이 있음. 
+ * 원자로 4, 5, 6호기 : 내부에 핵연료 없음. 
+ * 1호기 사용후핵연료 저장수조 : 냉각수 공급중.
+ * 2호기 사용후핵연료 저장수조 : 관련 보도가 없어서 서술할 수 없음.
+ * 3호기 사용후핵연료 저장수조 : 냉각수 공급중
+ * 4호기 사용후핵연료 저장수조 : 냉각수 공급중. 지진 발생시 붕괴 위험 있음.
+ * 현재 지속적으로 방사능 물질이 누출되고 있음.
+
+[[목차]]
+= 사건발생 28개월차 =
+== 8월 1일 ==
+정홍원 국무총리가 최근 인터넷 등지에서 떠도는 '일본 방사능 괴담'과 관련,
+[http://www.yonhapnews.co.kr/international/2013/07/31/0602000000AKR20130731150300001.HTML "국민이 안심할 수 있도록 정부는 일본산 수입 수산물에 대한 철저한 검사와 정확한 정보제공을 하라"]고 지시했다.
+
+도쿄전력이 방사능 오염수의 누출원이 된 후쿠시마 원전 건물을 지하갱도로부터 차단하겠다고 2011년 4월에 발표했으면서도 [http://asahikorean.com/article/newclear_disaster/AJ201308010086 2년간 방치했다]고 아사히 신문이 보도했다. 도쿄전력의 해명에 따르면 [http://www.tepco.co.jp/news/2013/1229429_5311.html 누수지점을 차단하는 것은 기술적으로 어려웠으므로] 바다와 연결되는 갱도쪽을 차단했으며, 차단공사는 2011년 5월에 완료되었고 누수지점의 차단방법도 시험하고 있으며, 2013년 12월까지는 평가작업을 완료할 것이라 전했다. --결국 3년을 방치--
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229426_5117.html 트리튬 측정결과가 갱신되었다.] 많은 데이터가 갱신되어서 그런지 트리튬 측정값도 높아졌다. 
+
+31일에 고장이 났던 후쿠시마 원전 [http://www.tepco.co.jp/nu-news/2013/1229422_5304.html 제 2 세슘흡착장치]의 수리가 끝나고 재가동되었다. 이 링크에는 후쿠시마 원전 2호기의 지하 배수로와 3호기 지하 배수로에서 측정한 방사능 오염수의 농도도 나와있다. 2호기의 배수로(수심 3m)에서 채취한 시료는 [[세슘 134]] 1억 1천만 Bq/L, [[세슘 137]] 2억 3천만 Bq/L, [[전베타]](세슘 외의 다른 방사능 물질) 3억 3천만 Bq/L이며, 수심이 깊어질수록 그 값은 상승했다. 일본 원자력규제위원회의 다나카 슌이치 위원장이 [http://jpnews.kr/sub_read.html?uid=16623&section=sc1&section2=사회 "상황이 극히 심각하고 절박하다"]고 말한 것도 무리가 아니다. 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308010084 4화]가 나왔다. 원전으로 돌아가는 근로자의 심정이 나와있다. 
+
+
+== 8월 2일 (126주차) ==
+후쿠시마 원전 2호기 격납용기 내부의 [http://photo.tepco.co.jp/date/2013/201308-j/130802-01j.html 재조사가 실시되었다.] 
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229460_5117.html 트리튬 측정결과가 갱신되었다.] 후쿠시마 원전 지하 배수관의 측정값이 포함되었으므로 1억 Bq/L을 넘는 값이 자주 보이지만, 1일에 이미 나온 내용이므로 놀라지 말자. 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308020076 5화]가 나왔다. 
+
+
+== 8월 3일 ==
+후쿠시마 원전 인근 해변에서 [http://www.yonhapnews.co.kr/international/2013/08/03/0602000000AKR20130803059700073.HTML 정체불명의 방사능 물체가 발견되었다]고 아사히 신문이 보도했다. 후쿠시마 원전 남쪽 15km 지점의 나라하 마을 해변에서 방사선량이 높은 지점이 발견되었기에 땅을 파봤더니 표면 방사선 수치가 1mSv/hr에 달하는 물체가 나왔다는 것이다(아티팩트?). 그리고 이런 물체는 잇달아 나왔다(...)
+
+도쿄전력의 추산에 따르면, 후쿠시마 원전 사고로 2년 동안 유출된 트리튬의 양이 [http://www.yonhapnews.co.kr/international/2013/08/02/0602000000AKR20130802179000073.HTML 20조~40조 베크렐]에 달할 것이라고 한다. 
+
+
+== 8월 4일 ==
+오전 8시, 7월 24일부터 후쿠시마 원전 3호기 5층 중앙에서 피어오르던 [http://www.tepco.co.jp/cc/press/2013/1229467_5117.html 수증기와 비슷한 무언가]가 드디어 사라졌다. 방사능 수치도 이상이 없다. 
+
+오전 12시 29분, 일본 동북부 미야기현 앞바다에서 [http://www.yonhapnews.co.kr/international/2013/08/04/0602000000AKR20130804034251073.HTML 규모 6의 지진이 일어났다.] 지진해일은 발생하지 않았으며, 도쿄전력은 [http://enenews.com/ap-strong-m6-quake-shakes-northeast-japan-rated-upper-5-intensity-on-scale-of-7-tepco-says-no-problems-reported-at-fukushima-daiichi 후쿠시마 원전에는 문제가 없다]고 발표했다. 
+
+
+== 8월 5일 ==
+후쿠시마 원전의 운용 보조 공용 시설(공용 수조)에서 [http://www.tepco.co.jp/cc/press/2013/1229496_5117.html 화재 경보가 울렸지만] 오보로 판명되었다. 
+
+후쿠시마 원전 3호기의 5층 중앙부에서 [http://www.tepco.co.jp/cc/press/2013/1229483_5117.html 수증기로 추정되는 무언가]가 다시 발생했다. 오전 7시 30분부터 오후 12시 5분까지 관측되었다고 한다. 
+
+2011년 3월 11일부터 12월 말까지 9개월간 현장에서 일한 19,592명 중, [http://www.yonhapnews.co.kr/international/2013/08/05/0602000000AKR20130805151700073.HTML 9,640명에게서 5mSv 이상의 누적 피폭량이 측정되었다.] 5mSv가 기준인 이유는 1년에 5mSv 이상 피폭된 사람이 작업 개시일로부터 1년 이내에 백혈병에 걸릴 경우, 산업재해로 인정되기 때문이다. 
+
+일본 원자력 규제위원회가 후쿠시마 원전의 방사능 오염수 해결책을 [http://asahikorean.com/article/newclear_disaster/AJ201308050135 찾지 못하고 있다.] 오염수를 막기 위해 차수벽을 쌓아도 그 위로 넘어오고, 오염수를 지하에서 퍼올려도 보관할 정소가 없으며, 지하수가 원전에 공급되어 오염수가 되는 것도 막지 못하고 있다는 것이다. 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308050129 6화]가 나왔다. 오쿠마마치의 거의 전원이 원전에 찬성하는 상황이 나와있다. 
+
+
+== 8월 6일 ==
+오전 8시, 후쿠시마 원전 3호기 5층 중앙부 부근에서 [http://www.tepco.co.jp/cc/press/2013/1229509_5117.html 수증기로 추정되는 무언가]가 다시 관측되었다. [http://photo.tepco.co.jp/date/2013/201308-j/130806-01j.html 7월 23일], [http://photo.tepco.co.jp/date/2013/201308-j/130806-02j.html 7월 24일], [http://photo.tepco.co.jp/date/2013/201308-j/130806-03j.html 7월 25일], [http://photo.tepco.co.jp/date/2013/201308-j/130806-04j.html 7월 26일]의 관련 동영상도 새로 공개되었다. 
+
+후쿠시마 원전 사고 당시 원전 소장을 맡았던 요시다 마사오의 [http://www.tepco.co.jp/cc/press/2013/1229522_5117.html 고별모임]에 대한 안내가 나왔다. 
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229527_5117.html 트리튬 측정 결과가 개선되었다.] 일부만 나와 있으므로 자세한 내용은 [http://www.tepco.co.jp/nu-news/2013/1229526_5304.html 오늘의 후쿠시마] 링크 참조. 
+
+후쿠시마 현이 주최한 [http://www.tepco.co.jp/news/2013/1229528_5311.html 2013년 제 5회 후쿠시마 원전 폐로에 관한 안전 감시 협의회]가 열렸다. 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308060087 7화]가 나왔다. 오쿠마 마을에 살던 '도쿄전력의 덕을 보던 사람들'의 이야기다. 물론 사고 이전의 이야기다. 
+
+
+== 8월 7일 ==
+오전 9시, 후쿠시마 원전 3호기 5층 중앙부 부근에서 나오던 [http://www.tepco.co.jp/cc/press/2013/1229537_5117.html 수증기]가 관측되지 않는 것 같다. 
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229561_5117.html 트리튬 측정결과가 갱신되었다.]
+
+다핵종 제거설비 배치처리 탱크에서 누출 문제를 일으킨 B계통의 [http://photo.tepco.co.jp/date/2013/201308-j/130807-01j.html 정지 계획과 추가조사 결과]가 나왔다. 
+
+주일 한국대사관은 [http://www.yonhapnews.co.kr/international/2013/08/07/0602000000AKR20130807174700073.HTML 일본 전역의 공간 방사선량은 큰 변화가 없다]고 밝혔다. 방사능 괴담에 대한 대응책으로 대사관 홈페이지에서 관련 설명을 하기로 한 걸로 보인다. 
+
+후쿠시마 원전에서 하루에 방사능 오염수 [http://www.yonhapnews.co.kr/international/2013/08/07/0602000000AKR20130807195100073.HTML 300톤]이 바다로 새어나가고 있다고 일본 정부가 밝혔다. 그러나  하루 300톤 누수라는 연합뉴스의 보도와는 달리 뉴욕타임즈는 [http://enenews.com/nytimes-400-tons-of-highly-radioactive-water-empty-into-pacific-each-day-from-fukushima-plant-top-nuclear-regulator-this-is-a-crisis 하루 약 400톤]이라고 기사화했다. 어쨌든 뉴욕타임즈 말대로 [http://www.nytimes.com/2013/08/07/world/asia/leaks-into-pacific-persist-at-japan-nuclear-plant.html?pagewanted=all&_r=0 이것은 위기다.] [http://www.reuters.com/article/2013/08/05/japan-fukushima-panel-idUSL4N0G61UE20130805 로이터], [http://www.bbc.co.uk/news/world-europe-23584008 BBC]의 보도도 참고하자. 
+
+도쿄대 생산기술연구소 등의 조사에 따르면, 후쿠시마 원전 앞바다 해저에 [http://www.47news.jp/korean/environment/2013/08/071874.html 세슘 농도가 높은 웅덩이가 40개] 정도 발견되었다고 한다. 
+
+일본 정부가 후쿠시마 원전의 방사능 오염수 누출 방지에 [http://www.47news.jp/korean/environment/2013/08/071901.html 나랏돈을 투입할 것을 검토하고 있다]고 한다. 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308070083 8화]가 나왔다. 자민당 정무조사회장 다카이치 사나에가 "원전사고로 사망자가 발생하는 상황은 아니다"라고 발언할 때 (원전사고로) 죽어가는 사람들의 이야기다. 
+
+
+== 8월 8일 ==
+후쿠시마 원전에서 방사능 오염수가 계속 새고 있다는 7일자 뉴스보도 이후로 [http://news20.busan.com/controller/newsController.jsp?newsId=20130808000172 방사능 괴담이 계속 확산되고 있다.] 
+
+원전에서 하루에 방사능 오염수 300톤이 새고 있다는 일본 정부의 계산에 대해 [http://www.47news.jp/korean/environment/2013/08/071935.html 근거가 불충분한 데다가 방사능 물질의 함유량도 제대로 안 나왔다]는 비판이 제기되었다. 일본 정부의 계산에 따르면 도쿄전력이 하루에 100톤의 지하수를 퍼낼 우물을 만들 계획이고, 그런 우물이 3개 생길 예정이므로 ×3을 해서 300톤이라는 것이다(...) 이 보도가 사실이라면 '''실제로 유출되는 방사능 오염수의 양이 300톤만이라고 단정할 수 없게 된다.''' --이렇게 되면 일이 더 커지는데..-- --[[wiki:"판타스틱(폴아웃: 뉴베가스)" 이론적으로 핵물리학을 전공하였습니다.]]--
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308080090 9화]가 나왔다. 믿었던 도쿄전력에 발등을 찍히는 피난민의 이야기다. 
+
+
+== 8월 9일 (127주차) ==
+후쿠시마 원전 사고와 관련되어 업무상 과실치사 혐의로 고발당한 간 나오토 전 총리에 대해 일본 검찰이 [http://www.47news.jp/korean/politics_national/2013/08/072031.html 사고 발생 직후의 대응에 대해 해명을 요구한 것으로 드러났다.] 고발당한 사람은 시미즈 마사타카 전 사장, 가쓰마타 쓰네히사 전 회장 등 [http://jpnews.kr/sub_read.html?uid=16655&section=sc1&section2=사회 수십 명에 이르지만] 불기소처분될 가능성이 크다고 한다. 
+
+후쿠시마 원전 4호기의 압력용기와 사용후핵연료 저장수조 등의 [http://photo.tepco.co.jp/date/2013/201308-j/130809-01j.html 내부조사 결과가 나왔다.]
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308090087 10화]가 나왔다.
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229610_5117.html 트리튬 측정 결과가 갱신되었다.] 오늘은 [http://photo.tepco.co.jp/date/2013/201308-j/130809-02j.html 지하수와 바닷물 층의 방사능 물질 농도] 관련 추가자료도 있다. 
+
+도쿄전력이 후쿠시마 원전 지하에 있는 방사능 오염수를 [http://www.47news.jp/korean/environment/2013/08/072036.html 퍼올리기 시작했다.]
+
+일본의 모테기 도시미쓰 경제산업상이 [http://www.47news.jp/korean/environment/2013/08/071978.html 후쿠시마 원전 지하에서 퍼올린 지하수의 바다 방출을 포함한] 향후 대책의 진행방법에 대한 검토를 촉구했다. --언제나 느끼지만 일본 신문의 한국어는 참으로 알아듣기 힘들다--
+
+
+== 8월 10일 ==
+일본 농림수산성이 이와테 현을 비롯한 7개 현 농지의 방사성 세슘 농도 분포도를 발표했다. 후쿠시마현의 경우 [http://www.47news.jp/korean/environment/2013/08/072078.html 5000Bq/kg이 넘는 농지가 전년도에 비해 16% 감소했다]고 하며, 다른 6개 현에는 이런 농지가 존재하지 않는다고 한다. 참고로 '''이번 조사는 전번 조사보다 조사대상지역을 축소해서 실시되었다.''' 
+
+오후 2시 22분 무렵, 후쿠시마 원전 제 2세슘흡착장치에서 [http://www.tepco.co.jp/cc/press/2013/1229619_5117.html 부스터 펌프 정지/누설검지] 경보가 울렸다. 부스터 펌프에는 이상이 없었으나, 흡착탑 누설검지기 주변에 웅덩이가 발견되었다.
+
+후쿠시마 원전 터빈건물 동쪽에 위치한 지하수 관측구멍 No.1~8에서 측정된 [http://www.tepco.co.jp/cc/press/2013/1229617_5117.html 지하수위 측정결과]가 공개되었다. 수위가 2.8m 정도 상승한 것으로 보인다. 이것은 잠정치이며, 지상으로 흘러넘치기까지 몇 미터가 남았는지는 모른다는 의미로 해석할 수 있다.
+
+
+= 사건발생 29개월차 =
+== 8월 11일 ==
+후쿠시마 원전에서 방사능 오염수가 누출되는 것을 막기 위해 지하에 설치한 [http://www.yonhapnews.co.kr/international/2013/08/11/0602000000AKR20130811029700073.HTML 차단벽 위로 방사능 오염수가 넘쳐흐르고 있다]고 도쿄전력이 밝혔다. 기술적인 이유로 벽을 충분히 높이지 못한 게 화근이 되었다. 그리고 도쿄전력은 [http://enenews.com/tepco-weve-known-for-2-years-that-massive-amount-of-groundwater-under-was-flowing-under-fukushima-plant-official-unable-to-explain-why-it-was-kept-secret-video 방사능 오염수가 대량으로 새어나오는 것을 2년 전부터 알고 있었다]고 한다. 자세한 건 [http://www3.nhk.or.jp/nhkworld/english/news/20130810_99.html NHK 보도]를 참조하자. 
+
+후쿠시마 원전의 방사능 오염수를 저장하는 탱크를 놓을 자리가 부족하다고 한다. 지금까지는 여유가 있지만, 새로 탱크를 설치하려면 [http://www.47news.jp/korean/environment/2013/08/072098.html 숲을 베어내야 한다]는 거다. 
+
+환경운동연합 등 76개 시민단체와 민주당 장하나 의원실은 정부서울청사 앞에서 기자회견을 갖고 [http://www.yonhapnews.co.kr/bulletin/2013/08/11/0200000000AKR20130811025900004.HTML?input=1640m 후쿠시마 방사능 오염수 유출에 대한 정부의 적극적인 대책을 촉구했다.]
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229623_5117.html 트리튬 측정결과가 갱신되었다.]
+
+후쿠시마 원전 사고 피해를 수습하기 위해 복구예산을 지급받은 일본의 기초자치단체 12개 중 6개가 [http://www.47news.jp/korean/environment/2013/08/072114.html 주민들에게 배포한 방사선량계의 점검을 연기했다]고 한다. 표면적인 이유는 돈이 없어서..라긴 하지만 정확한 속내는 '''복구예산에 관련된 법규가 너무 복잡해서 바로 그 돈을 쓸 수 없었기 때문'''이라고 한다.
+
+
+== 8월 12일 ==
+후쿠시마 원전 2호기 원자로 격납용기 내부의 [http://photo.tepco.co.jp/date/2013/201308-j/130812-02j.html 재조사 결과가 나왔다.] 
+
+원전 부근의 '면진 중요동'에 설치되어 있던 [http://www.tepco.co.jp/cc/press/2013/1229675_5117.html 더스트 모니터에서 경보가 울렸다.] 이 건은 [http://www.tepco.co.jp/nu-news/2013/1229656_5304.html 오후 0시 33분]에 일어났으며, 0시 48분에는 원래대로라면 마스크를 쓰지 않아도 되는 구역에 있는 직원들에게까지 마스크 착용 지시가 전달되었다. 경보가 울린 지역 부근에서 버스를 기다리던 직원 10명을 검사한 결과, 이들의 얼굴에서 [http://www.yonhapnews.co.kr/international/2013/08/12/0602000000AKR20130812202100073.HTML 최대 10Bq/cm2의 방사능 물질이 발견되었다]고 하며, 열사병 방지를 위해 물을 분사하던 분무기가 원인일 수 있다고 지목되었다. 관련 사진과 문서는 [http://photo.tepco.co.jp/date/2013/201308-j/130812-01j.html 여기]를 참조하자. 
+
+
+== 8월 13일 ==
+12일 더스트 모니터 경보가 울린 건의 속보가 나왔다. 직원 10명의 오염 정도는 최대 10Bq/cm2가 아닌, [http://www.tepco.co.jp/cc/press/2013/1229680_5117.html 최대 19Bq/cm2]라고 하며, 10명의 직원들의 신체에는 이상이 발견되지 않았다고 한다. 자세한 건 [http://www.tepco.co.jp/nu-news/2013/1229692_5304.html 오늘의 후쿠시마]를 참조하자. 
+
+오후 3시 10분 경, 후쿠시마 원전에서 일하던 협력기업 직원 한 사람이 [http://www.tepco.co.jp/cc/press/2013/1229679_5117.html 컨디션 불량(두통과 구토)]을 호소했다. 이 직원은 병원에서 가벼운 탈수증이라는 진단을 받았고, 증세가 회복되면 귀가할 예정이었다고 한다. 그러나 바로 위에 링크된 '오늘의 후쿠시마'에서는 이 직원이 입원중이라고 나와 있다. 증세가 회복되지 않았기 때문이라고 한다. 
+
+도쿄전력이 가시와자키 카리와 원전을 재가동할 경우 [http://www.47news.jp/korean/economy/2013/08/072250.html 흑자를 낼 수 있다]는 보도가 나왔다. 한편 도쿄전력은 요미우리 신문이 보도한 [http://www.tepco.co.jp/news/2013/1229687_5311.html '가시와자키카리와 원전의 작동 중지가 계속되면, 2014년에 8.5%의 전기요금 인상이 불가결하다']라는 보도에 대해 "우리는 그런 내용을 공표하지 않았으며, 현재 시점에서는 결정된 것이 없다"고 발표했다.
+
+후쿠시마 원전의 다핵종 제거설비 배치처리 탱크의 부식 문제와 관련하여, [http://photo.tepco.co.jp/date/2013/201308-j/130813-01j.html 추가 조사 결과가 나왔다.] '오늘의 후쿠시마' 링크에도 언급되다시피, 순환탱크와 흡착탑에서 부식이 확인되었다. 
+
+후쿠시마 원전 3,4호기의 바다쪽 [http://photo.tepco.co.jp/date/2013/201308-j/130813-02j.html 유적발굴기 조사에 대한 문서와 사진이 공개되었다.]
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308120115 11화]와 [http://asahikorean.com/article/newclear_disaster/AJ201308130079 12화]가 나왔다. 원전에 의존해 살았던 사람과 그렇지 않았던 사람의 의견 차이를 볼 수 있다. 
+
+
+== 8월 14일 ==
+일본 원자력규제위원회가 후쿠시마 원전에 대해 원자로 폐쇄작업 안전대책을 마련한 [http://www.47news.jp/korean/environment/2013/08/072341.html 도쿄전력 실시계획]을 인가했다. 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308140083 13화]가 나왔다. 
+
+도쿄전력이 발표한 [http://www.tepco.co.jp/nu-news/2013/1229735_5304.html 오늘의 후쿠시마]에 12일의 면진 중요동 사건 관련 추가 소식이 게재되었다. 특별한 건 없고, 직원들의 얼굴을 닦아낸 후의 잔존 오염수치가 [http://www.tepco.co.jp/cc/press/2013/1229711_5117.html 6.9 Bq/cm2]라는 소식이 추가된 정도다.
+
+
+== 8월 15일 ==
+인공위성으로 조사한 결과, 후쿠시마 원전이 [http://www.yonhapnews.co.kr/international/2013/08/15/0602000000AKR20130815090900073.HTML 부동침하를 일으켰음이 확인되었다.] 70cm 이상의 지반침하가 일어나기는 했는데, 장소에 따라 침하깊이에 차이가 있다는 것이다. 
+
+도쿄전력이 후쿠시마 원전 지하의 방사능 오염수를 [http://www.47news.jp/korean/environment/2013/08/072421.html 퍼올리기 시작했다.] 18일에 철관 28개의 설치를 완료하면 하루 70톤의 오염수를 퍼낼 수 있을 것이라고 한다. --참고로 하루 유출량이 약 300톤 사실은 일단 잊자-- 도쿄전력의 발표에 따르면 [http://www.tepco.co.jp/cc/press/2013/1229752_5117.html 이송 중의 누설 같은 문제는 없다]고 하며, 관련 사진과 문서는 [http://photo.tepco.co.jp/date/2013/201308-j/130815-01j.html 여기]를 참조하자. 
+
+후쿠시마 원전 사고가 일어났을 때 일본 총리를 지냈던 [[간 나오토]]가 [http://www.47news.jp/korean/environment/2013/08/072352.html 사고 직후의 대응에 문제는 없었다]는 문서를 변호사를 통해 검찰당국에 제출했다. 
+
+도쿄전력이 발표한 [http://www.tepco.co.jp/nu-news/2013/1229755_5304.html 오늘의 후쿠시마]에 따르면, 12일에 탈수증으로 병원으로 이송된(이 사건일지에는 13일자에 기재) 협력기업 근로자가 오전 11시에 퇴원했다고 한다. 일단 탈수증은 아니고 지병 문제라고 하며, 후쿠시마 원전에서의 작업 때문은 아니라고 힘주어 주장했다. 
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229765_5117.html 트리튬 측정 결과가 갱신되었다.]
+
+후쿠시마 원전 2호기의 원자로 격납용기에 상설 감시계기가 설치되었다고 한다. [http://photo.tepco.co.jp/date/2013/201308-j/130815-02j.html 촬영은 8월 13일이지만] 15일에 업데이트되었으므로 15일자 사건일지에 기재한다. 
+
+2013년 11월부터 핵연료봉의 제거가 시작될 후쿠시마 원전 4호기의 핵연료 저장수조에 대한 우려를 표하는 기사가 계속 나오고 있다. [http://enenews.com/ex-fukushima-worker-high-risk-they-will-break-fuel-rods-in-unit-4-pool-gundersen-nuclear-chain-reaction-risk-if-assemblies-break-you-cant-stop-it-no-control-rods-to-control-it-consulta 핵연료를 꺼내다가 실수하면 통제불능]이라든가, [http://enenews.com/reuters-corrosion-from-salt-has-weakened-fukushima-no-4-fuel-pool-concern-quake-to-topple-building-14000-hiroshima-bombs-worth-of-cesium-137-inside 히로시마급 원폭의 14,000배에 달하는 [[세슘 137]]이 있다]는 기사 등이다. 
+
+
+== 8월 16일 (128주차) ==
+일본 자민당의 '후쿠시마 원전사고규명 소위원회'가 [http://www.yonhapnews.co.kr/international/2013/08/16/0602000000AKR20130816084800073.HTML 사용후핵연료의 최종처분방법이 마련될 때까지 원전 신규건설을 동결할 것]을 골자로 하는 보고서를 만들었다고 요미우리 신문이 보도했다. 이 보고서에는 후쿠시마 원전 사고의 원인에 대한 추가규명이 필요하다고 나왔다. 
+
+일본 환경성이 [http://www.47news.jp/korean/environment/2013/08/072469.html 후쿠시마 원전 사고가 아이들에게 미치는 영향을 조사하기 위해] 원전 사고의 영향이 없는 아오모리, 야마나시, 나가사키의 3개 현에서 갑상선 조사를 진행하기로 했다. 후쿠시마현과의 비교를 위해서인 것으로 보인다. 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308160087 14화]가 나왔다. 
+
+도쿄전력이 발표한 [http://www.tepco.co.jp/nu-news/2013/1229778_5304.html 오늘의 후쿠시마] 소식란에 원전 바닷물 배관 유적 발굴기립갱B의 방사선량 측정치가 추가되었다. 
+
+
+== 8월 17일 ==
+후쿠시마 원전 지하 저수조의 [http://www.tepco.co.jp/cc/press/2013/1229809_5117.html 샘플링 조사 결과가 새로 나왔다.] 이곳은 7월 1일 부로 방사능 오염수를 모두 제거한 후 (방사능 물질을 제거한) 여과수를 채워 넣었으며, 이번 측정치는 그 여과수의 것으로 보인다. 그 동안에는 별다른 변화가 없었으나, 최근 들어 수치가 상승하고 있다고 한다.   
+
+후쿠시마 원전 바닷물 배관 유적 발굴기립갱B의 [http://www.tepco.co.jp/cc/press/2013/1229810_5117.html 트리튬 측정 결과]가 추가되었다. 
+
+후쿠시마 원전 지하의 방사능 오염수 퍼올리기 작업이 조금 지연될 것으로 보인다. [http://www.tepco.co.jp/cc/press/2013/1229805_5117.html 굴착기가 단단한 암반과 부딪쳐서 고장이 났기 때문]이라고 하며, 19일 이후에 다른 굴착기로 대체할 예정이라고 한다. 
+
+
+== 8월 18일 ==
+후쿠시마 원전 지하의 방사능 오염수를 퍼내는 작업이 계속되고 있다. 현재는 [http://www.tepco.co.jp/cc/press/2013/1229814_5117.html 23개의 웰 포인트에서 방사능 오염수를 뽑아내는 중이며] 24개째의 웰 포인트는 새 굴착기가 준비되는 19일부터 뚫을 예정이다. 
+
+후쿠시마 원전에서 남쪽으로 22마일(35.2km) 정도 떨어진 해변에서 천진난만하게 노는 일본인들을 [http://enenews.com/cbs-children-at-beaches-far-too-close-to-fukushima-nuclear-plant-father-i-do-worry-about-radiation-but-data-says-its-safe-just-22-miles-of-leaking-reactors-video CBS가 취재했다.] 아이들의 부모가 "나도 방사능은 걱정되지만, 데이터가 안전하다고 나왔기에 여기에 왔다"고 대답하는 인터뷰도 첨부되었다. 
+
+
+== 8월 19일 ==
+[http://www.tepco.co.jp/nu-news/2013/1229836_5304.html 오늘의 후쿠시마]는 전혀 평온하지 않았다. 오전 9시 50분 경에 후쿠시마 원전 내 [http://www.tepco.co.jp/cc/press/2013/1229835_5117.html H4에리어에 있는 방사능 오염수 저장탱크에서 물이 샌 것이 발견되었다.] [http://www.47news.jp/korean/environment/2013/08/072670.html 교도통신에서는 10시 40분에 발견했다고 하나], 도쿄전력이 정정한 바에 따르면 [http://www.tepco.co.jp/cc/press/2013/1229845_5117.html 10시 40분이 아니라 9시 50분]이었다고 한다. 처음에 발견시간을 잘못 알린 것으로 보인다. 관련 자료는 [http://photo.tepco.co.jp/date/2013/201308-j/130819-02j.html 여기]를 참조하자,
+
+오전 10시 4분, 후쿠시마 원전 면진 중요동 앞에 설치되어 있던 [http://www.tepco.co.jp/cc/press/2013/1229832_5117.html 더스트 모니터에서 방사능 경보를 울렸다.]  10시 20분에는 2명의 피폭자가 발견되었으며, 내부피폭은 없었지만 얼굴 부분에 방사능 물질이 묻었기에 닦아냈다고 한다. [http://enenews.com/nhk-fukushima-workers-irradiated-radiation-alarm-sounds-no-immediate-signs-of-illness-video NHK 보도]는 [http://www3.nhk.or.jp/nhkworld/english/news/20130819_24.html 여기]를 참조하자. 
+
+후쿠시마 원전 사고 호안(護岸)을 둘러본 동영상이 도쿄전력에 의해 [http://photo.tepco.co.jp/date/2013/201308-j/130819-01j.html 공개되었다.]
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308190085 15화]가 나왔다. 
+
+
+== 8월 20일 ==
+후쿠시마 현 '주민 건강관리 조사' 검토위원회가 후쿠시마시에서 열렸다. 여기서 발표된 바에 따르면 현 내에 거주하는 주민 중 [http://www.47news.jp/korean/medical_science/2013/08/072755.html 갑상선암으로 확정된 어린이는 현재 18명]이라고 한다. 이는 6월보다 6명이 늘어난 수치이며, 갑상선암으로 의심되는 어린이는 25명이라고 한다. 조사를 담당한 후쿠시마현립의대 스즈키 신이치 교수는 [http://www.yonhapnews.co.kr/international/2013/08/20/0602000000AKR20130820186900073.HTML "암의 상태로 봐서 2~3년 이내에 발생한 것은 아니다"]고 발언함으로서, 후쿠시마 원전 사고가 암 발생에 미쳤을 영향을 부정했다. 
+
+도쿄전력이 후쿠시마 원전에 있는 물탱크에서 300톤에 달하는 방사능 오염수가 누출되었음을 [http://www.47news.jp/korean/environment/2013/08/072742.html 시인했다.] 이 쿨탱크를 조사한 결과 [http://www.yonhapnews.co.kr/international/2013/08/20/0602000000AKR20130820106500073.HTML 수위가 2.9m 낮아졌다]고 한다. 이 오염수의 50cm 위에서 공간선량을 측정해본 결과 [http://www.47news.jp/korean/environment/2013/08/072707.html 100mSv/hr]를 기록했으며, 일본 원자력 규제위원회는 이 사고를 '''[[원자력 사고]] 레벨 1'''으로 잠정 평가했다. 그리고 이 오염수는 대부분 땅속으로 스며들었으며, [http://asahikorean.com/article/newclear_disaster/AJ201308200088 아직도 누수되고 있다.]
+
+후쿠시마 원전 H4 에리어 물탱크에서 방사능 오염수가 누출된 건에 대해, 도쿄전력이 [http://www.tepco.co.jp/cc/press/2013/1229852_5117.html 속보]를 내보냈다. 일단 4톤으로 추정되는 양이 회수되었다고 한다.
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229882_5117.html 트리튬 측정 결과가 갱신되었다.]
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1229868_5304.html 오늘의 후쿠시마]에 대해 발표했다. 오늘의 기록은 매우 길고, 위에서 이미 다 설명했으므로 [[wiki:"더 이상의 자세한 설명은 생략한다" 더 적는 것은 지면 관계상 생략한다]]. 
+
+한국 정부가 후쿠시마 원전 오염수 유출과 관련된 세부 자료를 [http://www.yonhapnews.co.kr/international/2013/08/19/0602000000AKR20130819154900043.HTML 일본 정부에 요청했다.] --그냥 직접 가서 조사하는게 빠를 듯--
+
+후쿠시마현 주민들이 일본 정부에 소송을 제기할 예정이라고 한다. 소송 이유는 원전사고 피해자 지원법이 발효한지 1년이 지나도록 [http://www.yonhapnews.co.kr/international/2013/08/20/0602000000AKR20130820096300073.HTML 지원책을 담은 기본방침조차 마련하지 않았기 때문]이라고 한다. 덤으로 일본 정부가 아직도 기본방침을 마련하지 못한 이유는 "지원대상지역을 어디까지 해야 할지" 정하지 못해서라고 한다. --그냥 피해자 전원에게 지원하면 되잖아!--
+
+아시아나 항공이 10월에 예정되어 있었던 인천-후쿠시마간 전세기 운항을 [http://www.yonhapnews.co.kr/international/2013/08/20/0602000000AKR20130820185600073.HTML 취소했다.] 후쿠시마에서 나쁜 소식만 들려오는 바람에 예약 상황이 안 좋아서 취소하게 되었다고 한다.
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308200090 16화]가 나왔다. 이 사건일지가 작성되기 10년 전에 도쿄전력에게 "후쿠시마 원전의 비상전원을 지하가 아닌 더 높은 곳에 설치해야 한다"고 건의했던 주민의 이야기다. 물론 도쿄전력은 그 말을 듣지 않았고, 7년 후에 후쿠시마 원전 사고가 일어났으며 원전의 비상전원은 바닷물 속으로 사라졌다. 
+
+
+== 8월 21일 ==
+19일에 일어난 방사능 오염수 누출 사건에 대해, 일본 원자력규제위원회가 [http://www.yonhapnews.co.kr/international/2013/08/21/0602000000AKR20130821158800073.HTML 사고등급을 2단계 상향 조정했다.] 하루만에 '''[[원자력 사고]] 레벨 3'''이 된 것이다. 당연히 세계 각국 [http://asahikorean.com/article/newclear_disaster/AJ201308210078 언론도] [http://enenews.com/reuters-crisis-deepening-at-fukushima-nuclear-plant-now-a-level-3-serious-incident-represents-a-100-fold-increase-in-severity-of-a-radiological-release-tepco-says-leak-is-continuing-does 이에 대해 보도했다.] -- 폭풍 레벨업 중--
+
+도쿄전력이 19일에 방사능 오염수를 누출시킨 H4 에리어 탱크에 대한 조사를 계속하고 있다. [http://www.tepco.co.jp/cc/press/2013/1229920_5117.html 물탱크 동쪽 배수로]를 통해 방사능 오염수가 흘러갔을 가능성에 대해 조사중이라고 한다. 관련 사진과 문서는 [http://photo.tepco.co.jp/date/2013/201308-j/130821-02j.html 여기]를 참조하고, 대응상황에 대해서는 [http://photo.tepco.co.jp/date/2013/201308-j/130821-01.html 여기]를 참조하자. 
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1229908_5304.html 오늘의 후쿠시마]에 대해 발표했다. 위에 적은 소식 외에도 각종 샘플링 데이터와, 19일에 면진 중요동에서 방사능 경보가 울린 것에 대한 속보 등이 실려 있다. 
+
+후쿠시마 원전의 오염수 관리에 [http://www.yonhapnews.co.kr/international/2013/08/21/0602000000AKR20130821115200073.HTML 비상이 걸렸다.] [http://asahikorean.com/article/newclear_disaster/AJ201308210075 지하 저수조에서도 새고 지상 물탱크에서도 새니] 문자 그대로 [[답이 없다]]. 덤으로 이번에 오염수를 누출시킨 플랜지형 탱크는 1,000개의 지상 탱크중 무려 350개다(...)--초등학교 공작시간에 만든걸 사용하나...--
+
+도쿄전력이 후쿠시마 원전 [http://www.tepco.co.jp/cc/press/2013/1229904_5117.html 방사능 오염수의 처리 및 저장 설비의 설치에 대해] 일본 경제산업성 원자력 규제위원회에 보고했다.
+
+도쿄전력이 원자력 손해배상 지원기구로부터 [http://www.tepco.co.jp/cc/press/2013/1229893_5117.html 1762억 엔의 자금을 교부받았다.] 이 돈은 후쿠시마 원전 사고 피해자들에게 지급될 배상금으로 쓰일 예정이다. 
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1229925_5117.html 트리튬 측정 결과가 갱신되었다.] 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308210073 17화]가 나왔다. 
+
+
+== 8월 22일 ==
+'''오늘 뉴스가 너무 많다. 도쿄전력 없는 세상에서 살고 싶다!'''
+
+후쿠시마 원전 H4 에리어 물탱크에 대해 도쿄전력이 조사한 바에 따르면, [http://www.tepco.co.jp/cc/press/2013/1229948_5117.html 추가적인 누출은 없는 것으로 보인다.]
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1229950_5304.html 오늘의 후쿠시마] 소식을 발표했다. 7월 25일에 벌어진 원자로 냉각장치의 정지에 대한 원인이 첨부되어 있으니 참고 바람. 
+
+후쿠시마 원전 오염수 누출 사태에 대해 도쿄전력이 "방사능 오염수가 [http://www.yonhapnews.co.kr/international/2013/08/21/0602000000AKR20130821209351073.HTML '''외부 바다''']로 유출되었을 가능성을 [http://www.47news.jp/korean/environment/2013/08/072871.html 부정하지는 않겠다]"고 발표했다. 물론 이 바다에 대해 모든 언론이 '''[[태평양]]'''이라고 보도했으며, 물탱크에서 '외부 바다'까지는 [http://asahikorean.com/article/newclear_disaster/AJ201308220086 700m 정도 떨어져 있다.] 
+
+후쿠시마 원전 오염수 누출 사태에 대해 IAEA가 [http://www.47news.jp/korean/environment/2013/08/072858.html "상황을 심각하게 받아들이고 있다"]며 지원의사를 표명했다. 
+
+이번 원전 오염수 누출 사태가  [http://media.daum.net/issue/226/newsview?issueId=226&newsid=20130822202018179 차단보 밸브를] [http://www.yonhapnews.co.kr/international/2013/08/22/0602000000AKR20130822220900073.HTML 열어둔 탓]이라고 한다. 이 사건은 아마 후쿠시마 강제노역장의 공정 품질 관리가 한계에 다다른 듯 싶다는 것을 증명하는 것으로 보인다. 노동자들이 열심히 일 하는 것도 아니고, 이들의 사기를 올려줄 그 어떠한 방법도 존재하지 않는다. 아마 여기에서 일하는 사람 중에 작업의 전체적인 그림을 그리려는 그 어떠한 사람도 존재하지 않는다는 이야기일지도 모른다. [* 체르노빌 원자력발전소 사고는 최소한 사람들의 희생을 찬양하고, 훈장도 수여했고, 도와주려는 시도도 했다. 무리였지만.]
+
+도쿄전력이 2011년 5월의 오염수 누출 방지 공사 이후로 누출된 스트론튬과 세슘의 양이 [http://www.yonhapnews.co.kr/international/2013/08/22/0602000000AKR20130822030000073.HTML 최대 30조 베크렐(Bq)]이라고 발표했다.] 
+
+후쿠시마 현 소마 시 소마후타바 어업협동조합이 2012년 6월부터 실시하던 시험조업 실시를 [http://www.47news.jp/korean/environment/2013/08/072932.html 9월 1일부터 당분간 연기하기로 했다.] 이미 [http://www.yonhapnews.co.kr/international/2013/08/22/0602000000AKR20130822006300009.HTML 이와키 시가 시험조업을 중지했으므로], 이것으로 후쿠시마현의 어업활동은 모두 중단된다. 이유는 후쿠시마 원전의 방사능 오염수 누출이며, 재개시기는 원전 상황과 소비자의 반응 등을 보고 결정한다고 한다. 
+
+도쿄전력이 다핵종 제거설비 배치처리탱크 [http://photo.tepco.co.jp/date/2013/201308-j/130822-01j.html 누설 건에 대한 추가조사를 실시했다.]
+
+도쿄전력이 [http://photo.tepco.co.jp/date/2013/201308-j/130822-02j.html 탱크 점검을 실시했다.] 이번에 방사능 오염수 누출 문제를 일으킨 탱크가 강철용기를 볼트로 연결하고, 이음매에 고무패킹을 넣어서 누수를 막는 플랜지형 탱크이며, 이런 탱크가 후쿠시마 원전에 350개나 있으므로 안전을 확인하기 위해 점검을 실시한 것으로 보인다.  
+
+우주선(宇宙線)을 이용해 후쿠시마 원전을 조사하는 방법이 연구되고 있다고 [http://www.yonhapnews.co.kr/international/2013/08/22/0602000000AKR20130822058400009.HTML 라이브 사이언스닷컴이 보도했다.] 여기서 언급된 우주선은 [[우주왕복선]] 이 아니라, 우주에서 날아오는 고에너지 입자를 말한다. 
+
+후쿠시마 원전을 복구하려면 30~40년이 걸릴 것이라고 [http://www.yonhapnews.co.kr/international/2013/08/21/0602000000AKR20130821208000085.HTML BBC가 현장관계자의 말을 인용해서 보도했다.] 참고로 체르노빌 원전은 사고가 일어난지 30년 이상이 지난 현재까지도 복구가 되지 못했다.
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308220077 18화]가 나왔다. 
+
+
+== 8월 23일 (129주차) ==
+도쿄전력이 H4에리어의 방사능 오염수 누출 사건에 관한 [http://www.tepco.co.jp/cc/press/2013/1229959_5117.html 속보]를 내놓았다. 방사선량에 대한 자료가 추가되어 있다. 
+
+도쿄전력이 후쿠시마 원전의 방사능 오염수 저장용 물탱크 300개를 조사한 결과, [http://www.yonhapnews.co.kr/international/2013/08/23/0602000000AKR20130823044000073.HTML 2개의 물탱크 옆에서 강한 방사선량이 측정되었다.] 물탱크의 수위는 낮아지지 않았지만, 오염수 누출의 가능성을 배제할 수는 없다고 한다. '''쉽게 말해서, 물탱크 두 개가 더 샜다는 뜻이다.'''
+
+일본 원자력 규제위원회가 후쿠시마 원전 물탱크에 대한 [http://www.yonhapnews.co.kr/international/2013/08/23/0602000000AKR20130823105900073.HTML 현지조사]에 착수했다. 
+
+한국 외교부가 [http://www.yonhapnews.co.kr/international/2013/08/22/0602000000AKR20130822216800043.HTML 모든 관계부처와 긴밀히 협의하에 후쿠시마 원전 오염수 유출 사태에 대해 적극적으로 대처하겠다]고 발표했다. 
+
+19일에 있었던 면진 중요동에서의 더스트 모니터 경보에 대한 [http://www.tepco.co.jp/cc/press/2013/1229985_5117.html 속보]가 나왔다. 22일의 방사선량 측정치 등이 추가되어 있다. 
+
+도쿄전력이 [http://www.tepco.co.jp/cc/press/2013/1229962_5117.html 웰포인트 28개의 설치를 끝내고] [http://www.47news.jp/korean/environment/2013/08/072992.html 지하의 방사능 오염수를 퍼올리기 시작했다.]
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1229971_5304.html 오늘의 후쿠시마]에 대한 소식을 발표했다. 위에 보도된 내용에 방사선량 측정치가 추가되어 있으니 참조하자. 
+
+일본에서 수입되는 수산물에 대한 [http://www.yonhapnews.co.kr/international/2013/08/23/0602000000AKR20130823181600073.HTML 검사 기준]이 기사화되었다. 후쿠시마산은 닥치고 수입금지, 28개 현의 수산물은 100Bq/kg 이하라는 방사성 물질 검사서를 첨부하면 수입 가능, 그리고 18개 현의 수산물은 원산지 증명만 갖추면 방사성 물질 검사 없이 수입이 가능하다고 한다. 후쿠시마 원전과의 거리와 과거 방사성 물질 검출 전력이 없는 점을 감안한 것이라고 한다.
+
+(후쿠시마 원전 사고로 일어난) 끔찍한 일에 대해 [http://enenews.com/media-now-exposing-fukushima-cover-up-so-many-terrible-things-are-not-being-reported-official-radiation-figures-cannot-be-trusted-regulator-suspects-tepco-giving-govt-false-data-proble 보도되지 않는 경우가 너무 많다]는 기사가 나왔다. 전부 보도된다면 이 사건일지가 지금보다 몇 배나 길어질 것이라는 이야기다.
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308230074 19화]가 나왔다. 
+
+
+== 8월 24일 ==
+후쿠시마 원전 항만 내의 [[삼중수소]] 농도가 관측이래 최고점에 이르렀다. [[http://durl.me/5nvcgj 여기]] 보시오. [[http://www.tepco.co.jp/nu/fukushima-np/f1/index-j.html 도보시오]] --새로운 자살명소-- 좀 더 길게 설명하자면 후쿠시마 원전 항만에서 채취한 바닷물의 방사성 물질 농도가 [http://www.yonhapnews.co.kr/international/2013/08/24/0602000000AKR20130824024200073.HTML 1주일 사이에 8~18배 높아졌다]고 아사히 신문이 보도했다. 이 수치는 일본 정부가 정한 허용기준치를 넘는 수준은 아니라고 한다.
+
+방사능 오염수 누출 사고를 일으킨 후쿠시마 원전 H4 에리어에 대한 [http://photo.tepco.co.jp/date/2013/201308-j/130824-01j.html 조사 내용]이 추가로 나왔다. 
+
+우치보리 마사오 후쿠시마 현 부지사가 도쿄전력 부사장과 후쿠시마 본사 대표를 현청에 불러 [http://www.47news.jp/korean/environment/2013/08/073041.html 제대로 된 대책과 재발방지책을 요구했다.]
+
+IAEA가 [http://www.yonhapnews.co.kr/international/2013/08/24/0602000000AKR20130824045100009.HTML 지난 1년간 원전 안전 강화 작업에 상당한 진척이 있었다]고 평가했으나, 그린피스는 이에 대해 "말도 안 된다"고 반박했다. 이유는 이 사건일지를 보자. 
+
+후쿠시마 원전의 방사능 오염수 누출 사고를 다룬 기사가 [http://www.nytimes.com/2013/08/24/world/asia/nuclear-operator-raises-alarm-on-crisis.html?_r=1& 뉴욕타임즈에 (또) 나왔다.] [http://enenews.com/new-york-times-ultimate-worst-case-scenario-underway-at-fukushima-experts-suspect-extreme-contamination-flowing-from-below-melted-reactors-and-into-pacific-would-surpass-even-the-worst-radia 최악의 시나리오]라는 표현까지 나오는 중이다. 
+
+후쿠시마 원전 2호기의 원자로 [http://www.tepco.co.jp/cc/press/2013/1229994_5117.html 격납용기의 압력이 감소되었다.] 격납용기 가스 관리 시스템의 배기 유량도 감소되었다고 한다.   
+
+
+== 8월 25일 ==
+방사능 오염수 누출 사고를 일으킨 H4에리어의 물탱크는 [[http://www.tepco.co.jp/cc/press/2013/1230002_5117.html 원래 H1에리어에 설치된 것이지만,] 지반침하로 인해 [http://www.47news.jp/korean/environment/2013/08/073064.html 콘크리트 기초부위에 금이 가는 바람에] H4 에리어로 옮겨진 것이라고 한다. 도쿄전력은 이 당시에 탱크가 손상을 입은 것이 [http://www.yonhapnews.co.kr/international/2013/08/25/0602000000AKR20130825026900073.HTML 누수의 원인일 수도 있다]고 보고 있다. 그리고 문제의 방사능 물은 이미 다른 탱크로 이송했다고 한다. 
+
+후쿠시마 원전에서 작업 중에 [http://www.tepco.co.jp/cc/press/2013/1230005_5117.html 여과수가 누출되었다.]
+
+도쿄전력에서 [http://www.tepco.co.jp/nu-news/2013/1230004_5304.html 오늘의 후쿠시마] 관련 소식을 발표했다. 24일에 발생한 후쿠시마 원전 2호기의 원자로 격납용기의 압력감소 문제의 원인도 발표되었는데, 격납용기 안의 공기가 새어나갔다고 한다. 해당 부위를 막은 후에는 정상 수치로 돌아왔다고 한다. 
+
+후쿠시마 원전 앞바다에서 채취된 바닷물의 방사성 물질 농도가 크게 증가한 사건에 대해, 멜트다운을 일으킨 핵연료가 [http://enenews.com/experts-portion-of-fukushimas-molten-fuel-is-believed-to-have-moved-into-earth-groundwater-contacting-melted-cores-may-have-caused-recent-spike-in-radiation-levels 지하수층에 도달했다]는 주장이 나왔다. 
+
+
+== 8월 26일 ==
+경제산업장관이 [http://photo.tepco.co.jp/date/2013/201308-j/130826-03j.html 후쿠시마 원전을 시찰했다.]
+
+후쿠시마 원전 3호기 1층의 [http://photo.tepco.co.jp/date/2013/201308-j/130826-01j.html 잔해철거작업]에 대한 자료가 나왔다. 작업 자체는 (안전상의 이유로) 로봇에 의해 진행된 것으로 보인다. 
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1230014_5304.html 오늘의 후쿠시마] 관련 소식을 발표했다. 
+
+기시다 후미오 외무장관이 [http://www.yonhapnews.co.kr/international/2013/08/25/0602000000AKR20130825068000009.HTML 체르노빌을 방문했다.]
+
+일본 연립여당인 자민당과 공명당이 [http://www.yonhapnews.co.kr/international/2013/08/26/0602000000AKR20130826128900073.HTML 후쿠시마 원전 오염수 누출사태에 대응하기 위한 프로젝트팀 설치를 검토하기로 했다.] 또한 스가 요시히데 관방장관은 이번 오염수 누출 문제에 대해 "외무성을 통해 각국 대사관에 적절하게 정보를 제공하고 있다"고 말했다. 그러나 [http://news.tv.chosun.com/site/data/html_dir/2013/08/26/2013082690011.html?tvcsrel 14일에 한국 정부가 정보제공을 요구하자], 일본 정부는  '''신속한 자료제공이 어렵다'''며 26일까지도 자료제공을 거부하고 있다.
+
+
+== 8월 27일 ==
+도쿄전력이 이미 방사능 오염수가 유출된 것으로 확인된 지상탱크 구역의 [http://www.yonhapnews.co.kr/international/2013/08/27/0602000000AKR20130827047800073.HTML 반대편 쪽에 있는 배수밸브에서도 16 mSv의 방사선량이 측정되었다]고 밝혔다. 즉, 오염수가 유출된 탱크가 한 개가 아니라는 의미다.
+
+정부가 후쿠시마 원전 방사능 오염수 유출 사태에 대해 [http://www.yonhapnews.co.kr/international/2013/08/26/0602000000AKR20130826128951073.HTML 정부 예비비를 사용하는 방안을 검토하고 있다.] 다만 정부가 [http://asahikorean.com/article/newclear_disaster/AJ201308270094 일시적인 대책]만 내놓고 있으므로, 본격적으로 제대로 된 개입을 할지는 미지수이다. 
+
+후쿠시마 원전 방사능 오염수 유출 사태에 대한 간략한 정리기사를 [http://asahikorean.com/article/newclear_disaster/AJ201308260123 아시히 신문에서 냈다.] 원자로 주변의 방사능 오염수가 바다로 그대로 흘러간다는 문제가 지적되었다. 
+
+후쿠시마 원전에서의 방사능 오염수 누출건에 대해 [http://www.yonhapnews.co.kr/international/2013/08/27/0602000000AKR20130827151700043.HTML 가능한 정보부터 우선 제공하겠다]고 밝혔다. 한국 정부에서 자료요청을 한 것이 14일과 23일이라는 사실을 감안하면, 굉장히 빠른(?) 대답이다.
+
+국립수산과학원이 한국 원자력안전기술원과 함께 2011년부터 연근해의 바닷물을 수집하여 조사한 바에 따르면, [http://www.yonhapnews.co.kr/international/2013/08/27/0602000000AKR20130827070400051.HTML 대한민국의 바다는 방사능으로부터 안전하다]고 한다. 후쿠시마 원전에서 나온 방사능 오염수가 태평양을 한 바퀴 돌아서 한국 인근으로 오려면 5년 가량 걸리며, 그동안 희석되므로 큰 피해는 없을 거란다.
+
+한국에 수입되는 수산물과 후쿠시마 원전의 방사능 오염수에 대해 다룬 [http://news.chosun.com/site/data/html_dir/2013/08/27/2013082700237.html 기사가 나왔다.] 쿠로시오 해류의 흐름이 의심된다면 관련 자료를 직접 찾아보자. 
+
+일본 환경성이 중대한 방침을 발표했다. [http://www.47news.jp/korean/environment/2013/08/073212.html 산림지역의 방사능제거 대상지역도 확대되었으며], '''오염제거 작업 후 수치가 안 떨어지거나 다시 오염된 지역도 작업대상에 포함했다.''' [* 이런 당연한 소리를 강조하는 이유는, 7월까지만 해도 (비공식적이지만) 한 번 방사능 제거작업을 끝낸 지역은 다시 정화하지 않는다는 것이 기본 방침이었기 때문이다.] 
+
+아사히 신문의 후쿠시마 원전 사고 관련 기획 '프로메테우스의 덫' 원전 타운 [http://asahikorean.com/article/newclear_disaster/AJ201308260126 20화(완결편)]이 나왔다. 
+
+
+== 8월 28일 ==
+일본 원자력규제위원회가 후쿠시마 원전의 방사능 오염수 누출 사건을 [[원자력 사고]] [http://www.47news.jp/korean/environment/2013/08/073290.html 레벨 3]으로 평가하기로 결정했다. 이미 잠정적으로 레벨 3으로 평가하고 있었지만, 이번 결정은 IAEA에 문의한 결과를 반영한 것이므로 더 큰 사고가 발생하지 않는 한 영구적이다. 
+
+도쿄전력이 후쿠시마 원전의 방사능 오염수 누출사건에 대해 [http://www.47news.jp/korean/environment/2013/08/073270.html 7월 9일 전후에 누출이 시작되었을 가능성이 크다]고 밝혔다. 한 달 넘게 몰랐다는 이야기다. 
+
+도쿄전력이 발표한 [http://www.tepco.co.jp/nu-news/2013/1230085_5304.html 오늘의 후쿠시마] 소식에 따르면, 오전 10시 35분에 H4 에리어에서 방사능 오염수 이송작업에 참가하고 있던 협력업체 근로자 한 명이 방사능 물질에 오염되었다. 오염물질은 모두 닦아냈지만 머리부분에 약간의 오염이 확인되었으므로 추가적인 검사가 필요하다고 한다. 
+
+도쿄전력이 [http://www.tepco.co.jp/nu/fukushima-np/info/images/130826_01.pdf 후쿠시마 원전의 현 상황과 향후의 대응]에 대한 pdf 문서를 공개했다. 
+
+일본 환경성이 후쿠시마 원전 사고로 인한 방사능 제거작업 대상인 11개 지역의 [http://www.47news.jp/korean/environment/2013/08/073262.html 작업종료시기를 명확히 지정하지 않은 채 회의를 끝냈다.] 환경성에서는 방사능 제거작업을 더 하더라도 1년만 하자는 의견을 낸 반면에, 지자체에서는 2년 넘게 걸리더라도 확실히 오염을 제거해야 한다는 의견을 내놓는 바람에 조율이 되지 않았기 때문이라고 한다. 
+
+일본 환경성이 후쿠시마 원전 사고로 오염된 지역의 방사능 물질을 제거하기 위해 배정될 2014년도 오염제거예산을 [http://www.yonhapnews.co.kr/international/2013/08/28/0602000000AKR20130828194700073.HTML 3262억 엔] 요구하기로 했다. 이는 2013년도 예산보다 34.5% 줄어든 수준이다.
+
+후쿠시마 원전 4호기 원자로 건물의 안정성을 확인하기 위한 [http://photo.tepco.co.jp/date/2013/201308-j/130828-01j.html 정기 점검]이 실시되었다. 
+
+타이완 남부 가오슝 세관이 항구에 반입되는 화물의 [http://www.47news.jp/korean/environment/2013/08/073299.html 방사성 물질 오염여부를 측정하는 검사를 강화하기로 했다.] 이유는 후쿠시마 원전에서 방사능 오염수가 누출되었기 때문이며, 2011년부터 2013년(이 사건일지가 기재된 시점)까지 적발된 방사능 컨테이너는 [http://www.yonhapnews.co.kr/international/2013/08/28/0602000000AKR20130828162600103.HTML 226개이다.]  
+
+일본이 후쿠시마 원전 사고 관련 자료 일부를 [http://www.yonhapnews.co.kr/international/2013/08/28/0602000000AKR20130828138800073.HTML 한국측에 제공했다.] 14일부터 요청했으니까 '''2주일이 걸렸다. 게다가 전부 준 게 아니다. 일부다!'''
+
+
+== 8월 29일 ==
+후쿠시마의 반대편(남쪽 지역)에서 나오는 수산물에서도 방사성 세슘이 [[http://durl.me/5p8gt9 검출되었다고 한다.]]
+
+도쿄전력이 내보낸 [http://www.tepco.co.jp/cc/press/2013/1230121_5117.html 속보]에 따르면, 방사능 오염수를 유출시킨 후쿠시마 원전의 H4에리어 탱크에는 큰 이상이 없는 것으로 보인다. 
+
+28일에 일본 정부가 대한민국 정부에 보내온 [http://www.yonhapnews.co.kr/international/2013/08/29/0602000000AKR20130829166300043.HTML 후쿠시마 원전 사고 오염수 유출자료]에는 우리 정부가 문의한 24개 항목 중 15개 항목에 대한 답변이 실려있다고 외교부 고위 당국자가 밝혔다. 답변에 대해서는 관련 기관에서 분석할 예정이라고 한다.
+
+후쿠시마 원전의 방사능 오염수에 대한 경고 기사가 쏟아지고 있다. [http://enenews.com/underground-water-now-just-4-inches-from-surface-by-fukushima-reactor-tepco-data-shows-ap-groundwater-is-closer-to-surface-below-storage-tanks-than-reported-bytepco-say-officials 표면까지 4인치]라든가, [http://enenews.com/big-problem-groundwater-rising-rising-rising-fukushima-longer-be-stopped-getting-ocean-worse-buildings-mushy-land-audio 도쿄전력이 세운 벽 때문에 지하수의 수위가 올라가고 있다]는 기사 등이 그것이다.
+
+전국 어업협동조합 연합회가 도쿄전력에게 [http://www.47news.jp/korean/environment/2013/08/073351.html "이미 도쿄전력의 오염수 관리는 이미 끝장났다. 정부 주도 하에 하루라도 빨리 근본적인 대책을 세워라"]는 내용의 성명서를 전달했다. 
+
+[[아베 신조]]가 카타르에서 가진 기자회견에서 [http://www.yonhapnews.co.kr/international/2013/08/29/0602000000AKR20130829028600073.HTML 후쿠시마 원전 오염수 유출문제에 대해 정부가 책임을 지고 전력으로 대응하겠다]고 밝혔다.
+
+IAEA가 일본측에 "후쿠시마 원전에서 일어난 오염 상황을 좀 더 명확히 설명하고 [http://www.yonhapnews.co.kr/international/2013/08/28/0602000000AKR20130828228900009.HTML 사실에 근거한 정확한 정보를 공개하라]"고 요청했다. 
+
+일본 정부와 도쿄전력 등으로 구성된 원자로 폐쇄 대책추진회의가 [http://www.47news.jp/korean/environment/2013/08/073385.html 9월 중에 후쿠시마 원전 오염수 대책을 공표한다]고 한다. 
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1230118_5304.html 오늘의 후쿠시마] 소식을 발표했다. 28일에 방사능 물질을 뒤집어쓴 직원을 검사한 결과, 이상이 없음이 확인되었다고 한다. 
+
+도쿄전력이 긴자(銀座)에 위치한 지사건물과 토지를 [http://www.yonhapnews.co.kr/international/2013/08/28/0602000000AKR20130828219400073.HTML 요미우리 신문에 매각했다.] 매각 이유는 당연히 후쿠시마 원전 사고로 인한 경영난 해결을 위해서다. 
+
+
+== 8월 30일 (130주차) ==
+방사능 오염수 누출 문제에 대해 일본 정부가 적극적으로 대처하겠다고 했지만, [http://asahikorean.com/article/newclear_disaster/AJ201308300075 그렇다고 묘안이 있는 것도 아니다.]라는 기사가 나왔다. 그런데도 정부 차원에서 대책 마련에 나선 이유가 [http://www.yonhapnews.co.kr/international/2013/08/30/0602000000AKR20130830094300073.HTML 2020 도쿄 올림픽 유치를 위해서]라는 기사도 나왔다.
+
+2012년 12월에 후쿠시마에서 정체불명의 흰 반점이 찍힌 소와 마주친 마키고 세가와 기자가 다시 현지를 방문했는데, [http://enenews.com/tv-mysterious-white-spots-on-fukushima-cows-ignored-by-govt-officials-veterinarian-its-extremely-important-japan-has-to-think-of-what-to-do-with-this-problem-video 그 소가 사라졌다.] 이 소가 팔려나가 비프 스테이크가 되었을지도 모르지만 단언할 수는 없다.  
+
+후쿠시마가 체르노빌보다 심각하다고 주장하는 기사가 [http://enenews.com/fukushima-worst-nuclear-disaster-history-reveals-study-one-day-releases-japan-plant-100-quadrillion 또 나왔다.] 후쿠시마에서 대기 중으로 새어나간 세슘 137의 양이 체르노빌보다 많다는 것이다.
+
+후쿠시마 원전 근로자들에 대한 [http://www.tepco.co.jp/cc/press/2013/1230146_5117.html 피폭선량 평가가 나왔다.]
+
+후쿠시마 원전 항만의 [http://www.tepco.co.jp/cc/press/2013/1230126_5117.html 트리튬 측정 결과가 갱신되었다.]
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1230152_5304.html 오늘의 후쿠시마] 관련 소식을 발표했다. --양은 많은데 별로 특별한 건 없다--
+
+
+== 8월 31일 ==
+후쿠시마 원전에 있는 우물 4곳에서 퍼낸 지하수에서 [http://www.yonhapnews.co.kr/international/2013/08/31/0602000000AKR20130831035100073.HTML 최대 470Bq/L의 트리튬이 검출되었다]고 도쿄전력이 밝혔다. H4에리어의 탱크에서 새어나간 방사능 오염수가 지하수를 오염시켰을 가능성이 있다고 한다. 
+
+후쿠시마 원전에서 방사능 오염수가 유출된 사건으로 인해 일본에서 수입되는 수산물에 대한 [http://www.yonhapnews.co.kr/international/2013/08/30/0602000000AKR20130830162100051.HTML 방사능 물질 검사가 강화되고 있다.] 그러나 수입을 금지한다는 소식은 들려오지 않는다. 
+
+일본 국회가 후쿠시마 원전 방사능 오염수 유출 문제에 대한 심의를 국제올림픽위원회(IOC)의 총회가 끝난 이후인 [http://www.yonhapnews.co.kr/international/2013/08/31/0602000000AKR20130831017800073.HTML 9월 중순 이후로 늦추기로 했다.] '''이 문제가 세계에 알려지면 2020 도쿄올림픽 유치에 악영향을 미칠까봐''' 그렇다고 한다. --세계인이 호구로 보이냐?--
+
+후쿠시마 원전의 방사능 오염수 유출로 인해 [http://enenews.com/bbc-website-links-to-report-about-pacific-ocean-boiling-in-front-of-fukushima-daiichi-photos 바다가 끓고 있다.]는 주장이 나왔다. 일단 사진을 보고 판단하자(...)
+
+도쿄전력이 [http://www.tepco.co.jp/nu-news/2013/1230180_5304.html 오늘의 후쿠시마] 관련 소식을 발표했다. 후쿠시마 원전 3호기의 지붕에 있는 돌조각들을 치우자, 공기중 방사능 물질 농도가 높아졌다고 한다. 
+
+오전 9시 45분, 후쿠시마 원전 6호기 F랭크 에리어에서 드럼통 운반을 하던 협력기업 직원 한 명이 [http://www.tepco.co.jp/cc/press/2013/1230178_5117.html 컨디션 불량을 호소했다.] 이 직원은 구급차에 실려갔으며 오염은 없다고 한다. 
+
+후쿠시마 원전에서 방사능 오염수 유출을 일으킨 H4에리어 탱크 주변의 [http://www.tepco.co.jp/cc/press/2013/1230174_5117.html 방사능 농도 분석 결과가 추가로 나왔다.] 

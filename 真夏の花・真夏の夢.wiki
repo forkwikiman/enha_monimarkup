@@ -1,0 +1,32 @@
+'''한 여름의 꽃・한 여름의 꿈'''
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/e3kQunXJENg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+싱글 하이퍼 영상
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/3Q5EbdGCCeE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+싱글 어나더 영상
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 130 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 4}}} || {{{#blue 420}}} || {{{#orange 6}}} || {{{#orange 603}}} || {{{#red 9}}} || {{{#red 749}}} || {{{#blue 5}}} || {{{#blue 580}}} || {{{#orange 8}}} || {{{#orange 771}}} || {{{#red 10}}} || {{{#red 961}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 9th Style ~ 13 DistroteD , 18 Resort Anthem ~
+ * 가정용판 수록 : 9th Style
+ * [wiki:"롱노트" 차지 노트] 채용 : 어나더 보면 (싱글, 더블)
+
+작곡은 [[히라타 쇼이치로]], 보컬은 [[신타니 사나에]]로, 출전 명의는 Sana. 히라타 쇼이치로의 대표적 하우스 계열의 악곡.
+
+9th 수록 당시엔 신타니 사나에의 보컬 곡을 3스테이지 연속으로 하면 엑스트라 스테이지에 출현하는 은폐곡이었다. 곡의 분위기와 보컬이 제대로 어울러져서 명곡이라는 평이 꽤 있지만 난이도가 낮고 당시엔 어나더가 없어서(...) 그런지는 몰라도 14 GOLD에서 짤리는 운명을 겪는다.
+
+그렇게 잊혀지나 싶더니 18 Resort Anthem에서 원래 없던 어나더 채보까지 추가되면서 [[JAPAN TOUR]]의 해금곡으로 부활. [* 같이 부활한 곡으로는 [LOVE♡SHINE], [ヒマワリ], [Pink Rose], [Under the Sky].] 어나더 채보엔 차지노트가 적용되어 있다. 중반부의 차지노트 지대 때문에 하드 게이지 클리어가 좀 힘겨운 편. 노멀 게이지는 후반부에 회복이 가능하기 때문에 쉬운 축에 속한다.
+
+BGA는 [[THE SAFARI]], [[RISLIM]] 등에 쓰인 [범용 BGA].
+
+롱버전은 Sana-mode II 〜pop'n music & beatmania moments〜에 수록되어 있다.

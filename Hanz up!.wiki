@@ -1,0 +1,96 @@
+{{{#!html
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/t62zkUuV3CY?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX Portable 3]] ||
+|| 이후 수록 || [[DJMAX TECHNIKA 3]] ||
+|| 작곡 || [[Mr.Funky]] ||
+|| BGA || DumpingLife, Z_B ||
+|| 장르 || Hip House ||
+|| BPM || 130 ||
+
+
+[[DJMAX TECHNIKA 2]]에서는 리믹서로만 참가했던 Mr.Funky가 작곡한 힙합풍의 일렉트로 [[하우스]]. 비주얼은 Dumping Life, Z_B의 실사+CG 합성 비주얼이며,비주얼 중간에는 [Son of Sun]의 [wiki:"추장"추장님]과 [MASAI]의 실루엣 여성, [Say it from your heart]의 배경과 [wiki:"Out Law" Out Law : Reborn]의 배경 [[Get Out]]의 캐릭터들이 까메오로 등장한다. 더불어 영상 1분 30초대를 보면 [[wiki:"홍콩행 게이바" Gay Bar]]를 찾을 수 있다 (...) --I WANT TO TAKE YOU TO THE GAY BAR!!!-- 
+
+DJMAX Portable 3 마지막 PV에서 메인 스탭 3명 [[CROOVE]],[[BEXTER]],[[PlanetBoom]]이 출연한 패러디도 공개되었다.  아래는 패러디버전.
+
+{{{#!html
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/zLxCpTRLdic?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+오리지널에 비해 심하게 깬다(::::)
+
+== [[DJMAX Portable 3]] ==
+본디 이곡이 [[DJMAX Portable 3]]의 오프닝으로 사용될 예정이었고, 그덕분에 제작비도 가장 많이 들어가고 많은 공을 들인 BGA였기에 퀄러티도 아주 높았지만, 결국 [[어른의 사정]]상 [[Flash Finger]]로 오프닝이 교체되었다고 한다.
+
+크리에이터북에 따르면 배우들의 액팅이나 연출이 기대만큼 나와주지 않았다고 하는데... --제작진에 의하면 슬픈 전설이 있다고 한다.-- 결국 [DJMAX Portable 3]의 체험판으로 수록되면서 공개되었다.[* 일본 버전에선 ~~오덕송인~~ [[Cosmic Fantastic Lovesong]]으로 대체수록되었다. 하지만 미션모드에서 플레이 가능 3.2T] 그래서 그런지 BGA에 DMP3의 곡들이 나오고 표지와 오프닝에 나오는 여캐들이 저 영상에 나온 분들과 복장, 머리모양이 같다.
+
+리믹스 모드의 리믹스 샘플곡으로는 [[Fever GJ]]가 출현한다.
+
+=== 데모 버전 플레이 영상 [* 데모버전에 이곡의 4.2T 패턴이 나왔는데 현재의 패턴과는 약간 다르다....'''아니 좀 많이 다르다'''. 곡이 대체로 쉬워지고 패턴마다 리믹스 구간이 달랐는데 '''다른 모드까지 똑같게''' 만들어져서 꽤 심심해졌다. 안습.] ===
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/zA7oMuM5wSU?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+4T NM
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/n_LlirMjG_o?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+4.2T TS
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/nGbNt_TJdd8?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+4.2T SS
+
+=== 정식 버전 플레이 영상 ===
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/klD_cMveLZ4?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+6T 하드
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="560" height="345" src="http://www.youtube.com/embed/EYd79zXlx94?hd=1" frameborder="0" allowFullScreen></iframe>
+}}}
+4.2T SS
+
+{{{#!HTML
+<iframe width="480" height="274" src="http://www.youtube.com/embed/odV4E15Sjes" frameborder="0" allowfullscreen></iframe>
+}}}
+6.2T WS
+
+== [[DJMAX TECHNIKA 3]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vjBLJ2eJ-Ow" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ffgUaC0RVA8" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴. [Sound Lab Set] 업데이트 당일에 오류로 유출되었다.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 375 Max || 6 || || ||
+||<#FFFF00> Normal || C || 375 Max || 5 || 4박 스크롤 || [[Saturday Night Set]]셀렉곡 ||
+||<#0000FF> {{{#white Hard}}} || B || 1500 Max || 7 || 4박 스크롤 || [[Brutalizer Set]] 셀렉곡, [wiki:"Future Challenge" 미션 - R+V] 수록 ||
+||<#FF0000> Maximum || A || 3250 Max || 9 || 4박 스크롤 || [wiki:"Masterpiece(DJMAX)" 미션 - Mr. Funky Groove] 수록 ||
+
+테크니카 3 에도 이식이 되었다. 노말 패턴은 평범한 패턴이지만, 하드패턴은 상당히 트리키한 채보들이 쏟아져나오니 주의하자.
+3월 27일 일부 기기에 맥스포인트 샵 10차 업데이트에서 업데이트된 [Sound Lab Set]중 [Brandnew Days]MX패턴 대신 이 곡의 MX패턴이 업데이트되는 사고가 일어났다. 유출된 MX패턴은 보라노트의 활용량을 대폭 늘였으며, 4박 보라+연타+관절 등의 악랄한 패턴을 섞어놓거나 손꼬이는 2+3 보라노트 배치 등 도저히 버티기 힘든 채보로 구성되어 있다. 유출된 난이도인 8로 등장한다면 상당한 사기. 이 유출때문인지 11차 업데이트에 등장하였다. 난이도는 9로 수정되었다. 레벨 9치고도 보라노트 관광 형식의 패턴으로 까다로운 편에 속한다.
+
+== [[DJMAX TECHNIKA TUNE]] ==
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 6 || ||
+||<#FF0000> CLUB || 7 || [[Electro-Hip Set]] 셀렉곡 ||
+||<#B400FF> {{{#white EXTRA}}} || 9 || [[Sound Lab Set]] 셀렉곡 ||
+
+== [[TAP SONIC]] ==
+
+2013년 6월 27일에 업데이트되었다. 6라인 레전드 기준 8레벨로, 박자가 상당히 까다로운 곡이라 판정 난이도는 8레벨 최상위급에 속한다. 대신 클리어 난이도는 8레벨 선에서 적절하다. 동일 작곡가의 [[Break!]]보다는 당연히 어렵다.

@@ -1,0 +1,46 @@
+[[목차]]
+
+== Beatmania IIDX ==
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/rPODvcGIrxc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/rPODvcGIrxc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+하이퍼 플레이 영상
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 40-148 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 3}}} || {{{#blue 295}}} || {{{#orange 5}}} || {{{#orange 402}}} || {{{#red 7}}} || {{{#red 721}}} || {{{#blue 3}}} || {{{#blue 293}}} || {{{#orange 6}}} || {{{#orange 402}}} || {{{#red 7}}} || {{{#red 721}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 8th ~
+ * 가정용판 수록 : 8th, Happy SKY
+
+[[beatmania IIDX]] 8th Style의 곡. 작곡은[[Mr.T]]. 장르는 INSTRUMENTAL.
+
+음악이 여러모로 상큼한 편이지만, 난이도가 낮은편이라 선곡률은 낮은편.
+
+싱글 더블 모두 부분폭타로 이루어져 있는데, 간단한 노트만 나오다가 갑자기 노트가 우수수 쏟아진다. 난이도를 맞추기 위해 간단한 드럼비트만 노트로 내놓고 폭타를 넣어놨다는 느낌이 들만 할 정도로 몇 번 노트가 떨어진 뒤에 노트떼가 몰려오는데 [wiki: "후살" 최후반에는 곡 중 가장 밀도가 높은 폭타가 나온다.] 그리고 노트 몇 개가 감속하면서 나온 뒤 끝.
+싱글쪽은 어나더만 언급되지만 더블은 하이퍼 어나더 모두 지뢰. 최후반에는 도저히 레벨 6/7이라고 볼 수 없는 노트가 나온다.
+
+BPM은 40-148로 표기되어있지만 주BPM은 148. 최후반부에 40으로 끝나는 변속이 있다. 
+
+BGA는 [[VJ GYO]]가 제작했는데 BGA에 등장하는 소녀의 이름은 토모. Mr.T의 본명에서 따왔다고 한다.
+
+19 Lincle에서 하이퍼의 레벨이 5로 올랐다.
+
+== 팝픈뮤직 ==
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/yX0K-EVTMjs?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/yX0K-EVTMjs?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 10[[br]]([[ee'MALL]] 2nd avenue) || INSTRUMENTAL[[br]]인스트루멘탈  || Airflow || [[Mr.T]] || Poet[[br]][[포엣]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 70-148 || 43단계 || {{{#blue 10}}} || {{{#green 15}}} || {{{#orange 24}}} || {{{#red 32}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 21}}} || {{{#orange 30}}} || {{{#red 38}}} ||
+|||| 노트수 || {{{#blue 246}}} || {{{#green 284}}} || {{{#orange 402}}} || {{{#red 721}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+팝픈뮤직 10에 ee'MALL 전용곡으로 이식. 15 어드벤처에 통상해금되었다. 기본적으로는 IIDX의 패턴을 컨버팅한 것에 가깝지만, 덧붙여서 판정이 통상곡보다 약간 짜게 설정되어 있어 굿이 나기 쉽다.

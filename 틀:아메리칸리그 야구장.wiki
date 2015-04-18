@@ -1,0 +1,10 @@
+||<tablealign=center><-5><:><#ffffff> [wiki:"메이저리그" <span style="font-weight:bold;color:#ee0000">MLB</span>] [wiki:"아메리칸리그" <span style="font-weight:bold;color:#ee0000">아메리칸리그</span>] [wiki:"틀:아메리칸리그 야구장" <span style="font-weight:bold;color:#ee0000">소속 구단 홈구장</span>] ||
+||<-5><:><#ff0000> '''{{{#ffffff 동부지구 소속구단}}}''' ||
+||<rowbgcolor=#ffffff><width=12%><:> [뉴욕 양키즈|attachment:/yankees.png] ||<width=12%><:> [보스턴 레드삭스|attachment:/redsox.png] ||<width=12%><:> [템파베이 레이스|attachment:/rays.png] ||<width=12%><:> [토론토 블루제이스|attachment:/bluejays.png] ||<width=12%><:> [볼티모어 오리올스|attachment:/orioles2.png] ||
+||<:> [[양키 스타디움]] ||<:> [[펜웨이 파크]] ||<:> [[트로피카나 필드]] ||<:> 로저스 센터 ||<:> 오리올 파크 앳 캠든 야즈 ||
+||<-5><:><#ffea00> '''{{{#000000 중부지구 소속구단}}}''' ||
+||<rowbgcolor=#ffffff><:> [디트로이트 타이거즈|attachment:/Tigers.png] ||<:> [[미네소타 트윈스|attachment:/Twins.png]] ||<:> [[시카고 화이트삭스|attachment:/WhiteSox.png]] ||<:> [[클리블랜드 인디언스|attachment:/indians.png]] ||<:> [캔자스시티 로열스|attachment:/Royals.png] ||
+||<:> 코메리카 파크 ||<:> 타겟 필드 ||<:> U.S. 셀룰러 필드 ||<:> 프로그레시브 필드 ||<:> 카우프만 스타디움 ||
+||<-5><:><#ffba00> '''{{{#000000 서부지구 소속구단}}}''' ||
+||<rowbgcolor=#ffffff><:> [로스앤젤레스 에인절스 오브 애너하임|attachment:/Angels.png] ||<:> [[시애틀 매리너스|attachment:/Mariners.png]] ||<:> [[오클랜드 애슬레틱스|attachment:/Athletics.png]] ||<:> [텍사스 레인저스|attachment:/Rangers.png] ||<:> [휴스턴 애스트로스|attachment:/houston_se.png] ||
+||<:> [[에인절 스타디움 오브 애너하임]] ||<:> 세이프코 필드 ||<:> [[O.co 콜리세움]] ||<:> 글로브 라이프 파크 ||<:> 미닛 메이드 파크 ||

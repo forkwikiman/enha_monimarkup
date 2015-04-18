@@ -1,0 +1,60 @@
+'''레트로스펙티블리 메리고라운드'''(Retrospectively Merry-go-round)
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 はるなば(하루나바).
+
+== [사운드 볼텍스] ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/Wh2vFFVYg5A" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '하이텐션 four-on-the-floor 인스트로 오리지널 곡'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0061_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0061_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0061_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 07}}} || {{{#ff009f 12}}} ||
+|| 체인 수 || {{{#purple 0576}}} || {{{#orange 0908}}} || {{{#ff009f 1159}}} ||
+|| 일러스트 담당 || {{{#purple メルカトール}}} || {{{#orange メルカトール}}} || {{{#ff009f メルカトール}}} ||
+|| 이펙터 || {{{#purple DJ WILDPARTY}}} || {{{#orange DJ WILDPARTY}}} || {{{#ff009f DJ WILDPARTY}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} ||
+|| [[BPM]] |||||| 180 ||
+
+||<bgcolor=#E9ECEF>
+이번 '하이텐션 four-on-the-floor 인스트로 오리지널 악곡 컨테스트'에 수상하게 되어 매우 깊이 감사의 말씀을 올립니다.
+
+이번에 제가 제작한 곡의 테마는, SOUND VOLTEX의 기체를 보고 근미래적인 놀이기구를 예상했으므로, 회전목마에서 우주로 가는 레벨의 의미 깊고(의미불명) 하이텐션(위험인물)한 곡을 만들었습니다.
+
+의외로 어쿠스틱한 곡으로 완성되으므로, 샘플링 만재한 것에서 신시사이저가 울리는 모범적인 곡은 아니지만, 가까운 미래의 느낌과 레트로한 분위기를 가진 색다른 이 곡이 영입되는 일은 매우 기쁩니다.
+
+그리고 무엇보다도 여러분이 실기기에서 즐겁게 플레이해주시기를 진심으로 바랍니다.
+
+-당선자 코멘트-
+||
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/N4fa7NxoKKc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+초반 R노브와 FX롱노트+노트 원핸드부분을 주의.
+
+그리고 후반부부터 등장하는 노브꺾기 후 계속 이어지는 노브구간을 주의하면 무난한 12렙
+== [팝픈뮤직] ==
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/zT-f4cXQn_s?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/zT-f4cXQn_s?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[FLOOR INFECTION]]으로 이식되었다.
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 180 || 50단계 || {{{#blue 6}}} || {{{#green 25}}} || {{{#orange 36}}} || {{{#red 44}}} ||
+|||| 노트 수 || {{{#blue 150}}} || {{{#green 376}}} || {{{#orange 710}}} || {{{#red 1088}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+[[추가바람]]

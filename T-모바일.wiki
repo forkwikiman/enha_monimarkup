@@ -1,0 +1,39 @@
+ * 상위 항목 : [[통신회사]], [[도이체 텔레콤]]
+||<-5><tablealign="center"> 다국적 이동통신사 ||
+|| [[프랑스텔레콤]][[br]]Orange || '''도이체 텔레콤[[br]]T-모바일''' || [[보다폰]] || [[3]] || [[텔레포니카]][[br]]O2/Vivo/Movistar ||
+|| [[MTN]] || [[스마일]] || [[텔레노르]] || [[Etisalat]] || [[사우디텔레콤]] ||
+
+||<tablealign="right"><#ffdbff><:><-2> '''T-Mobile'''[[br]]T-모바일[* 미국에서는 보통 티모바일이 아닌 티모빌이라고 발음한다.] ||
+||||<:>attachment:logo.jpg?width=250 ||
+||기업 형태 ||주식회사 ||
+||국가 ||[[독일]] ||
+||본사 ||[[독일]] 본 ||
+||사업 지역 ||[[http://maps.mobileworldlive.com/network.php?cid=15&cname=Germany 독일]], [[http://maps.mobileworldlive.com/network.php?cid=28&cname=Netherlands 네덜란드]], [[http://maps.mobileworldlive.com/network.php?cid=47&cname=Macedonia 마케도니아]][[br]][[http://maps.mobileworldlive.com/network.php?cid=169&cname=United%20States 미국]], [[http://maps.mobileworldlive.com/network.php?cid=39&cname=United%20Kingdom 영국]], [[http://maps.mobileworldlive.com/network.php?cid=3&cname=Austria 오스트리아]], [[http://maps.mobileworldlive.com/network.php?cid=9&cname=Czech%20Republic 체코]][[br]][[http://maps.mobileworldlive.com/network.php?cid=7&cname=Croatia 크로아티아]], [[http://maps.mobileworldlive.com/network.php?cid=30&cname=Poland 폴란드]], [[http://maps.mobileworldlive.com/network.php?cid=18&cname=Hungary 헝가리]] ||
+||서비스[[br]]이동통신||2세대 [[GSM]], 3세대 [[WCDMA]] & [[CDMA2000]][[br]]4세대 [[LTE]]-FDD ||
+||슬로건 ||Life's For Sharing [[br]]Erleben, was verbindet [[br]]un-leash ||
+||공식 사이트 ||[[http://www.telekom.com/startseite]] [[br]] [[http://www.t-mobile.com]]||
+
+[[목차]]
+
+== 개요 ==
+T-모바일은 독일을 국적으로한 다국적 이동통신 사업자이자 [[도이체 텔레콤]]의 자회사이다.
+
+== 사업 ==
+=== 이동통신 ===
+독일을 비롯한 미국, 오스트리아, 체코 공화국, 네덜란드, 폴란드, 러시아, 영국, 헝가리, 크로아티아, 마케도니아 등지에서 이동통신사 사업을 벌이고 있다.
+
+주력 이동통신은 2세대는 [[GSM]], 3세대는 [[WCDMA]], 4세대는 [[LTE]]-FDD다.
+
+이후, 미국 법인인 T-모바일 US가 Metro PCS를 인수한 이후 미국 내에서는 3세대 이동통신인 [[CDMA2000]]도 서비스를 유지하고 있다. 다만, 신규 투자는 그다지 없기 때문에 Metro PCS로 출시되는 기기들도 T-모바일 US의 [[GSM]]과 [[WCDMA]]로 이동통신 서비스를 시행한다.
+
+=== 이동통신 외 ===
+미국 법인 기준으로, [[선불폰]] 사업을 벌이고 있다. 같은 미국 4대 이동통신사에서 경쟁사로는 [[AT&T]]의 [[선불폰]]이 있는데, 티모빌쪽이 요금제부터며 서비스며 [[가격 대 성능비]]까지 여러모로 낫다는 평을 받고 있다.
+
+이는 3G 요금제 뿐만이 아니라 4G 요금제도 마찬가지다. 옵션 종류 자체가 넘쳐나며 기본 제공량도 무난하게 주고 있다.
+
+선불 플랜 $30 무제한 요금제가 있는데 신규유저 한정으로 음성을 딱 100분(...) 주는 대신 문자 무제한, 3G 무제한, 4G 5GB를 주는 플랜이 있다. 전화를 안하거나 카톡/스카이프/구글 보이스 등등으로 때울수 있을 자신이 있다면 굉장한 가성비를 자랑하니 고려해 보자.
+== 기타 ==
+ * 미국 법인인 T-모바일 US를 [[스프린트]]가 인수한다는 떡밥이 지속적으로 흘러나오고 있다. 사실, [[스프린트]]는 [[소프트뱅크]]로 인수되어진지 얼마 되지 않았기 때문에 [[소프트뱅크]]가 직접 미국 진출을 위해 [[스프린트]]와 T-모바일 US를 인수하려는 것으로 보인다.
+ * 하지만 딜이 [[http://www.bizjournals.com/kansascity/news/2014/09/11/failed-tmobile-sprint-merger.html 틀어지면서]] 합병 이야기는 없던 일이 되어버렸다.
+ * 대리점 조명이 온통 분홍색이라 밤에 보면 어딘가 이상하다.~~[성 정체성을 깨달은 아이|가입할땐 마음대로지만 해지할땐 아니란다]~~ ~~[홍콩행 게이바|홍콩행 폰가게]~~
+ * 독일 프로축구 분데스리가의 [[FC 바이에른 뮌헨]]의 스폰서를 하고있다.

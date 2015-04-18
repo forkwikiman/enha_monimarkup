@@ -1,0 +1,237 @@
+ * 상위 항목: [항모], [헬기항모], [강습상륙함]
+ * [항모, 헬기항모, 강습상륙함/배수량-길이별 목록]
+ * [군함/배수량별 목록/현대]
+
+[[목차]]
+
+== 개요 ==
+이 항목은 1950년에서 현재까지 건조한 '''수평 갑판'''이 있는 [항모], [헬기항모], [강습상륙함]을 배수량과 길이 순으로 정리하는 문서이다. 단 강습상륙함의 경우 '''LPD 형태의 병기'''는 제외한다. 대표적인 제외 목록은 [중국]의 [유자오급 강습 상륙함]이다. 이것들처럼 '''갑판의 절반만 헬기모함의 갑판'''으로 사용하는 것들은 별도의 항목에 기술한다. 갑판의 절반만 항모의 용도로 사용하는 군함에는 [모스크바급 헬기 항공모함], [시라네급 헬기구축함], 유자오급 강습 상륙함 등이 있다. 이것들 이외에 진짜 [LPD]는 LPD 항목에 기술한다.
+
+비행갑판(Flight deck)은 갑판의 형태와 출현 시기에 따라 Early flight decks(초기 비행 갑판), Full length decks(함 전체 갑판)[* http://en.wikipedia.org/wiki/Flight_deck], Armoured flight deck(장갑 갑판)[* http://en.wikipedia.org/wiki/Armoured_flight_deck] 등으로 나뉜다.
+
+||||||||||||||||||||||||||||||||<#ACA6A6> [2013년], 국가별 함 전체 길이의 수평갑판을 보유한 [항모], [헬기항모], [강습상륙함]의 수량 ||
+||<#BFBFC3> 구분 ||<#60ACEA> [미국] ||<#6CCBC8> [프랑스] ||<#C9E1AF> [독일] ||<#9499DF> [이탈리아] ||<#9A879F> [일본] ||<#83B4CC> [영국] ||<#DE9480> [스페인] ||<#B46A77> [호주] ||<#E2C5B2> [태국] ||<#C96887> [한국] ||<#C9E7E9> [러시아] ||<#5A9A6E> [브라질] ||<#5C7C72> [인도] ||<#A7AB73> [중국] ||<#C9A570> [터키] ||
+|| 보유 수량 || {{{#ff00ff '''20척'''}}} || 4척 || 0척 || {{{#ff00ff '''5척'''}}} || {{{#ff00ff '''6척'''}}} || 2척 || 1척 || 0척 || 1척 || 1척 || 2척 || 1척 || 2척 || 1척 || 0척 ||
+|| 추가계획 || 9척 || 0척 || 0척 || 3척 || 1 ~ 2척 || 2척 || 0척 || 2척 || 0척 || 2척 || {{{#0000ff '''7척'''}}} || 0척 || {{{#0000ff '''6척'''}}} || {{{#0000ff '''2 ~ 5척'''}}} || 1척[* http://www.ssm.gov.tr/home/projects/naval/AmphibiousShip/Sayfalar/LPD.aspx] ||
+
+신흥국들, 특히 [브릭스]에서 [브라질]을 제외한 3개국들은 항모나 준 항모에 가까운 [LHD] 등을 급속하게 보충하는 중이다.
+
+||||||<#ACA6A6> [2013년], 미국 vs 세계[* 미국을 제외한 세계]: 함 전체 길이의 수평갑판을 보유한 [항모], [헬기항모], [강습상륙함]의 수량 ||
+||<#BFBFC3> 구분 ||<#60ACEA> [미국] ||<#C96887> 미국을 제외한 세계 ||
+|| 보유 수량 || 20척 || {{{#ff00ff '''26척'''}}} ||
+|| 추가계획 || 9척 || {{{#0000ff '''26척 ~ 30척'''}}} ||
+
+질에서는 미국이 압도적이지만 단순 숫자상으로는 미국을 제외한 세계의 규모가 더 크다. 특히 추가계획에서는 세계의 각국들이 상당량을 건조하는 중이다. 미래에는 세계 각국들의 항모, 준항모, 경항모 총합이 미국을 압도할 것으로 예측된다.
+
+||||||||||<#ACA6A6> [2013년], 지역별 함 전체 길이의 수평갑판을 보유한 [항모], [헬기항모], [강습상륙함]의 수량 ||
+||<#BFBFC3> 구분 ||<#60ACEA> [미국] ||<#C9E1AF> [유럽] ||<#C96887> [아시아] 및 [오세아니아] ||<#5A9A6E> [남미] ||
+|| 보유 수량 || {{{#ff00ff '''20척'''}}} || 14척 || 11척 || 1척 ||
+|| 추가계획 || 9척 || 12척 || {{{#0000ff '''14척 ~ 18척'''}}} || 0척 ||
+
+지역별로는 아시아의 추가 건조량 폭이 가장 크다.
+
+||||||||||||||||||||||||||||||||<#ACA6A6> [2013년], 국가별 함 전체 길이의 수평갑판을 보유한 [항모], [헬기항모], [강습상륙함]의 상세 ||
+||<#BFBFC3> 구분 ||<#60ACEA> [미국] ||<#6CCBC8> [프랑스] ||<#C9E1AF> [독일] ||<#9499DF> [이탈리아] ||<#9A879F> [일본] ||<#83B4CC> [영국] ||<#DE9480> [스페인] ||<#B46A77> [호주] ||<#E2C5B2> [태국] ||<#C96887> [한국] ||<#C9E7E9> [러시아] ||<#5A9A6E> [브라질] ||<#5C7C72> [인도] ||<#A7AB73> [중국] ||<#C9A570> [터키] ||
+|| 10만톤 이상 ~ 11만톤 미만 || 10척(+7척): [니미츠급 항공모함], [제럴드 R. 포드급 항공모함] || || || || || || || || || || || || || || ||
+|| 8만톤 이상 ~ 9만톤 미만 || || || || || || || || || || || (+6척): 러시아차기항모 || || || || ||
+|| 6만톤 이상 ~ 7만톤 미만 || || || || || || (+2척): [퀸 엘리자베스급 항공모함] || || || || || 1척: [어드미럴 쿠즈네초프급] || || (+1척): [비샬 항공모함] || 1척(+2~5척): [랴오닝급], 중국차기항모 || ||
+|| 4만톤 이상 ~ 5만톤 미만 || 9척(+2척): [와스프급 상륙모함], [아메리카급 강습상륙함] || 1척: [샤를 드 골급] || || || || || || || || || || || 1척(+1척): [비크라마디티야함], [비크란트급] || || ||
+|| 3만톤 이상 ~ 4만톤 미만 || 1척: [타라와급 강습상륙함] || || || 1척: [콘테 디 카보우르급] || || || || || || || || 1척: [상파울로급] || || || ||
+|| 2만5천톤 이상 ~ 3만톤 미만 || || || || || 1척(+1~2척): [이즈모급] || || 1척: [후안 카를로스 1세급] || (+2척): [캔버라급] || || || || || 1척: [센타우르급 항공모함] || || ||
+|| 2만톤 이상 ~ 2만5천톤 미만 || || 3척: [미스트랄급 강습상륙함] || || || || 2척: [인빈시블급], [오션급] || || || || || 1척(+1척): [미스트랄급 강습상륙함] || || || || ||
+|| 1만5천톤 이상 ~ 2만톤 미만 || || || || || 2척: [휴우가급] || || || || || 1척: [독도함] || || || || || ||
+|| 1만톤 이상 ~ 1만5천톤 미만 || || || || || 3척: [오오스미급 수송함] || || || || 1척: [차크리 나루에벳] || || || || || || ||
+|| 1만톤 미만 || || || || 3척: [산 조르조급 강습상륙함] || || || || || || || || || || || ||
+
+세부적인 내용을 살펴보면 질에서는 미국이 압도적이라는 것을 알 수 있다. 미국은 '''10척의 10만톤급 항모만 계산해도 100만톤'''에 이른다. 참고로 [대한민국 해군]의 모든 함정의 배수량을 더해도 19만여톤에 불과하다. 주변 해군들의 국가별 총 배수량합들도 미국의 10여척의 항공모함과 비교하면 엇비슷하거나 부족하다. [해상자위대]는 45만톤, [인민해방군 해군]은 135만톤, [러시아 해군]은 96만톤이기 때문이다. 미해군의 군함 총톤수는 [시퀘스터] 등의 경제적인 문제로 미래에 감소할 것으로 예상된다. [2010년] 기준의 자료에서는 미해군의 군함 총톤수가 320만톤이었다.[* 밀리터리 바란스 2010년12월호, http://www.iiss.org/]
+== Full length decks(함 전체 갑판)이 장착된 군함 ==
+=== 배수량별 목록: [1950년] ~ [현대] ===
+==== 10,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/8/89/ITS_San_Giusto.jpg
+{{| [2005년], [이탈리아]의 [산 조르조급] 강습상륙함 |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 경하 배수량 || 취역 시작 ||
+|| [이탈리아] || [산 조르조급] |||| 7,650톤 ~ 8,280톤 ||[1987년] ||
+
+==== 10,000톤 이상 ~ 15,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ITS_Giuseppe_Garibaldi_%28C_551%29.jpg/640px-ITS_Giuseppe_Garibaldi_%28C_551%29.jpg?width=600
+{{| [이탈리아]의 [주세페 가리발디급] |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/JS_Kunisaki_%28LST-4003%29_and_USNS_Mercy_%28T-AH-19%29_in_the_South_China_Sea%2C_-14_Jun._2010_a.jpg/640px-JS_Kunisaki_%28LST-4003%29_and_USNS_Mercy_%28T-AH-19%29_in_the_South_China_Sea%2C_-14_Jun._2010_a.jpg?width=600
+{{| [일본]의 [오오스미급 수송함] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 경하 배수량 || 취역 시작 ||
+|| [스페인]/[태국] || [차크리 나루에벳] || 11,486톤 || ||[1997년] [3월 27일] ||
+|| [이탈리아] || [주세페 가리발디급] || 13,850톤 || 10,100톤 ||[1998년] [3월 11일] ||
+|| [일본] || [오오스미급 수송함] || 14,000톤 || 8,900톤 ||[1998년] [3월 11일] ||
+
+==== 15,000톤 이상 ~ 20,000톤 미만 ====
+http://media.defenseindustrydaily.com/images/SHIP_LPH_ROKS_Dokdo_Profile_Docked_lg.jpg?width=600
+{{| [한국]의 [독도함] |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Helicopter_carrier_Hy%C5%ABga_%2816DDH%29.jpg/640px-Helicopter_carrier_Hy%C5%ABga_%2816DDH%29.jpg?width=600
+{{| [일본]의 [휴우가급] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [대한민국] || [독도함] || 18,850톤 || 14,340톤 ||[2007년] [7월 3일] ||
+|| [일본] || [휴우가급] || 19,000톤 || 13,950톤 ||[2009년] [3월 18일] ||
+
+==== 20,000톤 이상 ~ 25,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mistral_IMG_6856.JPG/640px-Mistral_IMG_6856.JPG?width=600
+{{| [프랑스]의 [미스트랄급] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [영국] || [인빈시블급] || 20,710톤 || 16,970톤 ||[1980년] [7월 11일] ||
+|| [프랑스]/[러시아] || [미스트랄급] || 21,300톤 || 16,500톤 ||[2006년] [2월] ||
+|| [영국] || [오션급] || 22,500톤 || ||[1998년] [9월 30일] ||
+
+==== 25,000톤 이상 ~ 30,000톤 미만 ====
+http://img689.imageshack.us/img689/6448/22ddh2.jpg?width=600
+{{| [일본]의 [이즈모급] |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LHD_Juan_Carlos_I_%28L-61%29-02.jpg/640px-LHD_Juan_Carlos_I_%28L-61%29-02.jpg?width=600
+{{| [스페인]의 [후안 카를로스 1세급] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [일본] || [이즈모급] || 27,000톤 || 19,000톤 ||[2015년] [3월] ||
+|| [스페인]/[호주] || [후안 카를로스 1세급]/[캔버라급] || 27,079톤 || ||[2009년] [9월 22일] ||
+|| [영국]/[인도] || [센타우르급 항공모함][* http://en.wikipedia.org/wiki/Centaur-class_aircraft_carrier] || 28,700톤 || 22,000톤 ||[1953년] [9월 1일] ||
+
+==== 30,000톤 이상 ~ 40,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cavour_%28550%29_-_Civitavecchia_harbour%2C_Italy_-_June_2011.jpg/640px-Cavour_%28550%29_-_Civitavecchia_harbour%2C_Italy_-_June_2011.jpg?width=600
+{{| [이탈리아]의 [콘테 디 카보우르급] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [이탈리아] || [콘테 디 카보우르급] || 30,000톤[* [http://en.wikipedia.org/wiki/Italian_aircraft_carrier_Cavour_(550) 콘테 디 카보우르급]] || ||[2008년] [3월 27일] ||
+|| [프랑스]/[브라질] || [상파울로급] || 32,800톤 || 24,200톤 ||[1961년] [11월 22일] ||
+
+==== 40,000톤 이상 ~ 50,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LHD8_Sea_Trial.jpg/640px-LHD8_Sea_Trial.jpg?width=600
+{{| [미국]의 [와스프급] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [인도] || [비크란트급] || 40,000톤 || ||[2018년] ||
+|| [미국] || [타라와급 강습상륙함] || 40,069톤 || ||[1976년] ~ [1980년] ||
+|| [프랑스] || [샤를 드 골급] || 40,600톤 || 38,000톤 ||[2001년] [5월] ||
+|| [미국] || [와스프급 상륙모함] || 41,182톤 || ||[1989년] ||
+|| [러시아]/[인도] || [비크라마디티야함][* http://en.wikipedia.org/wiki/INS_Vikramaditya] || 45,400톤 || ||[2013년] [11월] ||
+|| [미국] || [아메리카급 강습상륙함] || 45,700톤 || ||[2013년] ||
+
+==== 60,000톤 이상 ~ 70,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/INS_Vikrant_CGI.png/640px-INS_Vikrant_CGI.png
+{{| [2013년] [8월 21일], [인도]의 [비샬급] 갑판 디자인 |}}
+http://img32.imageshack.us/img32/221/wikimediaorg20130328112.jpg
+{{| [러시아 해군]의 항공모함 [어드미럴 쿠즈네초프급] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [인도] || [비샬급] || 65,000톤 || ||[2025년] ||
+|| [영국] || [wiki:"퀸 엘리자베스급 항공모함" 퀸 엘리자베스급][* http://en.wikipedia.org/wiki/Queen_Elizabeth_class_aircraft_carrier] || 65,500톤 || ||[2016년] ||
+|| [러시아]/[중국] || [어드미럴 쿠즈네초프급]/[랴오닝급] || 67,500톤 || 55,200톤 ||[1990년] ~ [2012년] ||
+
+==== 70,000톤 이상 ~ 80,000톤 미만 ====
+http://img407.imageshack.us/img407/7233/pa2conceptgiu200602.jpg?width=600
+{{| [프랑스]의 차기 항모, [PA2] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [프랑스] || [PA2][* http://en.wikipedia.org/wiki/Future_French_aircraft_carrier] || 75,000톤 || ||미정 ||
+
+==== 80,000톤 이상 ~ 90,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/USS_Constellation_%28CV-64%29_aerial_Battle_E.jpg/619px-USS_Constellation_%28CV-64%29_aerial_Battle_E.jpg
+{{| [1986년] [8월 1일], [미국]의 USS Constellation (CV-64)/[키티호크급 항공모함] |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Uss_john_f_kennedy_cv-67.jpg/640px-Uss_john_f_kennedy_cv-67.jpg
+{{| [2003년] [11월 11일], [미국]의 [케네디급 항공모함]/USS John F. Kennedy (CV-67) |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [미국] || [포레스탈급 항공모함] || 81,101톤 || 59,650톤 ||[1955년] [10월 1일] ||
+|| [미국] || [키티호크급 항공모함] || 81,780톤 || 경하 60,933톤 ||[1961년] [4월 21일] ||
+|| [미국] || [케네디급 항공모함][* [http://en.wikipedia.org/wiki/USS_John_F._Kennedy_(CV-67) 케네디급 항공모함]] || 82,655톤 || 경하 60,728톤 ||[1968년] [9월 7일] ||
+
+==== 90,000톤 이상 ~ 100,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/USS_Enterprise_%28CVN-65%29.jpg/640px-USS_Enterprise_%28CVN-65%29.jpg
+{{| [2004년] [6월 14일], [미해군]의 USS Enterprise (CVN-65)/[엔터프라이즈급 항공모함] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [미국] || [엔터프라이즈급 항공모함] || 94,781톤 || ||[1961년] [11월 25일] ||
+
+==== 100,000톤 이상 ~ 110,000톤 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/USS_Nimitz_in_Victoria_Canada_036.jpg/640px-USS_Nimitz_in_Victoria_Canada_036.jpg?width=600
+{{| [미국]의 [니미츠급 항공모함] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [미국] || [니미츠급 항공모함] || 100,000 ~ 106,300톤 || ||[1975년] ~ [2009년] ||
+|| [미국] || [제럴드 R. 포드급 항공모함] || 101,600톤 || ||[2016년] ||
+
+=== 길이별 목록: [1950년] ~ [현대] ===
+==== 150m 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/San_Giorgio_L9892.jpg/640px-San_Giorgio_L9892.jpg
+{{| [2003년], [이탈리아]의 [산 조르조급] |}}
+|| 제조 국가/운용국 || 이름/급 || 길이 || 취역 시작 ||
+|| [이탈리아] || [산 조르조급] ||133 m ||[1987년] ||
+
+==== 150m 이상 ~ 200m 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HMS_Illustrious_1.jpg/640px-HMS_Illustrious_1.jpg
+{{| [영국]의 [인빈시블급](HMS Illustrious) 경항모 |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BPC_Dixmude.jpg/640px-BPC_Dixmude.jpg
+{{| [2012년] [3월 17일], [프랑스]의 Le BPC Dixmude (L9015)/[미스트랄급] |}}
+|| 제조 국가/운용국 || 이름/급 || 길이 || 취역 시작 ||
+|| [일본] || [오오스미급 수송함][* http://en.wikipedia.org/wiki/%C5%8Csumi-class_tank_landing_ship] ||178 m ||[1998년] [3월 11일] ||
+|| [이탈리아] || [주세페 가리발디급][* [http://en.wikipedia.org/wiki/Italian_aircraft_carrier_Giuseppe_Garibaldi_(551) Italian aircraft carrier Giuseppe Garibaldi]] ||180.2 m ||[1998년] [3월 11일]  ||
+|| [스페인]/[태국] || [차크리 나루에벳][* http://en.wikipedia.org/wiki/HTMS_Chakri_Naruebet] ||182.65 m ||[1997년] [3월 27일] ||
+|| [영국] || [인빈시블급](HMS Illustrious)[* [http://en.wikipedia.org/wiki/HMS_Illustrious_(R06) HMS Illustrious]] ||194 m ||[1980년] [7월 11일] ||
+|| [일본] || [휴우가급][* http://en.wikipedia.org/wiki/Dokdo_class_amphibious_assault_ship] ||197 m ||[2009년] [3월 18일] ||
+|| [대한민국] || [독도함][* http://en.wikipedia.org/wiki/Dokdo_class_amphibious_assault_ship] ||199 m ||[2007년] [7월 3일] ||
+|| [프랑스]/[러시아] || [미스트랄급][* http://en.wikipedia.org/wiki/Mistral_class_amphibious_assault_ship] ||199 m ||[2006년] [2월] ||
+==== 200m 이상 ~ 250m 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Apache_Helicopter_Takes_off_from_HMS_Ocean_During_Operation_Ellamy_MOD_45153052.jpg/640px-Apache_Helicopter_Takes_off_from_HMS_Ocean_During_Operation_Ellamy_MOD_45153052.jpg
+{{| [2011년] [7월 29일], [영국]의 HMS Ocean([오션급]) |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/JS_Izumo_%28DDH-183%29_just_after_her_launch.jpg/800px-JS_Izumo_%28DDH-183%29_just_after_her_launch.jpg
+{{| [2013년] [8월 6일], JS Izumo (DDH-183)/[일본]의 [이즈모급] |}}
+|| 제조 국가/운용국 || 이름/급 || 길이 || 취역 시작 ||
+|| [영국] || [오션급][* [http://en.wikipedia.org/wiki/HMS_Ocean_(L12) 오션급]] ||203.4 m ||[1998년] [9월 30일] ||
+|| [영국]/[인도] || [센타우르급 항공모함] ||224.6 m ||[1953년] [9월 1일] ||
+|| [스페인]/[호주] || [캔버라급][* http://en.wikipedia.org/wiki/Canberra_class_Landing_Helicopter_Dock] ||230.82 m ||[2014년] ||
+|| [스페인] || [후안 카를로스 1세급][* [http://en.wikipedia.org/wiki/Spanish_ship_Juan_Carlos_I_(L61) 후안 카를로스 1세급]] ||230.82 m ||[2009년] [9월 22일] ||
+|| [이탈리아] || [콘테 디 카보우르급] ||244 m ||[2008년] [3월 27일] ||
+|| [일본] || [이즈모급][* http://en.wikipedia.org/wiki/Izumo-class_helicopter_destroyer] ||248.0 m ||[2015년] [3월] ||
+
+==== 250m 이상 ~ 300m 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Vikra.jpg/640px-Vikra.jpg
+{{| [2012년] [6월 8일], [인도 공화국]의 INS Vikramaditya([비크라마디티야함]) |}}
+|| 제조 국가/운용국 || 이름/급 || 길이 || 취역 시작 ||
+|| [미국] || [와스프급 상륙모함][* http://en.wikipedia.org/wiki/Wasp_class_amphibious_assault_ship] ||253.2 m ||[1989년] ||
+|| [미국] || [타라와급 강습상륙함][* http://en.wikipedia.org/wiki/Tarawa-class_amphibious_assault_ship] ||254 m ||[1976년] ||
+|| [미국] || [아메리카급 강습상륙함][* http://en.wikipedia.org/wiki/America-class_amphibious_assault_ship] ||257.3 m ||[2013년] ||
+|| [프랑스] || [샤를 드 골급] ||261.5 m ||[2001년] [5월] ||
+|| [인도] || [비크란트급][* [http://en.wikipedia.org/wiki/INS_Vikrant_(Vikrant_class) 비크란트급 정보]] ||262 m ||[2018년] ||
+|| [프랑스]/[브라질] || [상파울로급][* [http://en.wikipedia.org/wiki/Brazilian_aircraft_carrier_S%C3%A3o_Paulo_(A12) Brazilian aircraft carrier São Paulo]] ||265 m ||[1961년] [11월 22일] ||
+|| [영국] || [퀸 엘리자베스급] ||280 m ||[2016년] ||
+|| [프랑스] || [PA2] ||280 m ||미정 ||
+|| [러시아]/[인도] || [비크라마디티야함] ||283 m ||[2013년] [11월] ||
+
+==== 300m 이상 ~ 350m 미만 ====
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USNWC_Varyag01.jpg/640px-USNWC_Varyag01.jpg
+{{| [2005년] 이전, [중국]의 USNWC Varyag([랴오닝급]) |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CVN-78_Artist_Image.jpg/775px-CVN-78_Artist_Image.jpg
+{{| [미국]의 [제럴드 R. 포드급 항공모함]/CVN-78 |}}
+|| 제조 국가/운용국 || 이름/급 || 길이 || 취역 시작 ||
+|| [소련]/[중국] || [랴오닝급][* http://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Liaoning] ||304.5 m ||[2012년] [9월 25일] ||
+|| [소련]/[러시아] || [어드미럴 쿠즈네초프급] || 305 m ||[1991년] [1월 21일] ||
+|| [미국] || [케네디급 항공모함] ||321 m ||[1968년] [9월 7일] ||
+|| [미국] || [포레스탈급 항공모함] ||325 m ||[1955년] [10월 1일] ||
+|| [미국] || [키티호크급 항공모함] ||326 m ||[1961년] [4월 21일] ||
+|| [미국] || [제럴드 R. 포드급 항공모함][* http://en.wikipedia.org/wiki/Gerald_R._Ford_class_aircraft_carrier] ||332.8 m ||[2016년] ||
+|| [미국] || [니미츠급 항공모함] ||333 m ||[1975년] ||
+|| [미국] || [엔터프라이즈급 항공모함] ||342 m ||[1961년] [11월 25일] ||
+
+
+
+== 함 길이 중 절반만 갑판으로 사용하는 [헬기항모], 강습상륙함, [순양함], [구축함]  ==
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DoD-Leningrad-DN-ST-90-07636_50pct.jpg/800px-DoD-Leningrad-DN-ST-90-07636_50pct.jpg
+{{| [1988년], [소련]의 Leningrad([모스크바급 헬기 항공모함]) |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/JS_Kurama_in_the_Pacific_Ocean_02.jpg/640px-JS_Kurama_in_the_Pacific_Ocean_02.jpg
+{{| [2011년] [1월 9일], [일본]의 JS Kurama([시라네급 헬기구축함]) |}}
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/V.Veneto_1985.jpg/640px-V.Veneto_1985.jpg
+{{| [2009년] [12월 23일], [이탈리아]의 [비토리오 베네토급 헬기순양함] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [이탈리아] ||[안드레아 도리아급 헬기순양함][* http://en.wikipedia.org/wiki/Andrea_Doria_class_cruiser] ||6,500톤 ||기준 5,000톤 ||[1969년] [7월 12일] ||
+|| [일본] ||[시라네급 헬기구축함] ||7,620톤 ||기준 5,283톤 ||[1980년] [3월 17일] ||
+|| [이탈리아] ||[비토리오 베네토급 헬기순양함][* http://en.wikipedia.org/wiki/Italian_cruiser_Vittorio_Veneto_(550)] ||8,850톤 ||기준 7,500톤 ||[1969년] [7월 12일] ||
+|| [프랑스] ||[잔 다르크급] 헬기[순양함] ||12,365톤 ||기준 10,575톤 ||[1964년] ||
+|| [소련]/[러시아] ||[모스크바급 헬기 항공모함][* http://en.wikipedia.org/wiki/Moskva-class_helicopter_carrier] ||17,500톤 ||기준 14,950톤 ||[1967년] [12월 25일] ||
+|| [중국] ||[유자오급 강습 상륙함] ||28,000톤 || ||[2007년] [11월 13일] ||
+== 관련 문서 ==
+[http://en.wikipedia.org/wiki/Aircraft_carrier (영어 위키백과)Aircraft carrier]
+[http://en.wikipedia.org/wiki/Amphibious_assault_ship (영어 위키백과)Amphibious assault ship]
+[http://en.wikipedia.org/wiki/Helicopter_carrier (영어 위키백과)Helicopter carrier]
+[http://en.wikipedia.org/wiki/Light_aircraft_carrier (영어 위키백과)Light aircraft carrier]
+[http://en.wikipedia.org/wiki/List_of_aircraft_carriers_of_the_United_States_Navy (영어 위키백과)List of aircraft carriers of the United States Navy]
+[http://en.wikipedia.org/wiki/United_States_Navy_ships (영어 위키백과)http://en.wikipedia.org/wiki/United_States_Navy_ships]
+
+== 관련 항목 ==
+ * [해상 병기/현대전]
+ * [해상 병기/세계대전]

@@ -1,0 +1,34 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/pIoWAUE99G8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+Steel Chronicle VICTROOPERS Ver 3.5의 주제곡으로, 작곡은 Camellia 명의를 사용한 [[beatnation RHYZE]]의 [[かめりあ]]. 스틸 크로니클의 "새로운 적"을 이미지하여 쓰인 곡이다. 동 작곡가의 곡 중에서도 굉장히 하드코어한 편이지만 유저들 사이에서의 곡의 평가는 매우 좋다.
+
+제목의 뜻은 '''살충제'''. [스틸 크로니클] 시리즈가 벌레 형태의 외계인을 소탕하는 게임인 탓에 붙은 제목으로 보인다.
+
+[[POLICY BREAK]]로 [[사운드 볼텍스]]에 수록되었다.
+
+== [[사운드 볼텍스]] ==
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<:>[[사운드 볼텍스]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:/insecticide_nov.jpg?width=150 || attachment:/insecticide_adv.jpg?width=150 || attachment:/insecticide_exh.jpg?width=150 ||
+|| 난이도 || {{{#purple 06}}} || {{{#orange 12}}} || {{{#ff009f 15}}} ||
+|| 체인 수 || {{{#purple 0865}}} || {{{#orange 1170}}} || {{{#ff009f 1946}}} ||
+|| 일러스트 담당 || {{{#purple KING}}} || {{{#orange KING}}} || {{{#ff009f KING}}} ||
+|| 이펙터 |||||| [[PHQUASE]] ||
+|| 수록 시기 ||||||<#ffe20d><:>__[[wiki:"POLICY BREAK" <font color="black">POLICY BREAK</font>]]__ ||
+|| [[BPM]] |||||| 199 ||
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/7dJ8DcVSJ-Q?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 영상
+
+[[POLICY BREAK]]로 수록되었다. 대응 게임은 Steel Chronicle VICTROOPERS로 최초로 [[BEMANI 시리즈]] 이외의 게임이 대상인 사례. 한국에서는 대행을 받지 않는 이상 해금을 할 수 없기 때문에 수많은 해금 [[난민]]을 양성하고 있다.
+
+EXH 패턴은 15레벨 상위권~최상위권으로 평가받는다. 하드코어한 곡답게 연타 위주로 승부하는 패턴인데, 초반의 레이저 연타나 복합트릴, 후반의 겹노트 패턴 등 잔미스를 유발하는 패턴이 곡 전체에 다수 포진해 게이지 관리가 상당히 힘들다. 특히 최후반의 트릴 패턴에서 속도를 따라가지 못 하고 말리는 경우가 많아, 클리어든 스코어링이든 가장 난관이 되는 부분. 단 트릴 노트가 [croiX|겹친다거나] 하지는 않으므로 클리어만이 목적이라면 8비트로 뭉개버리는 극단적인 방법도 있기는 하다.

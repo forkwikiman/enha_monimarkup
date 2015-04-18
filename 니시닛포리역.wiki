@@ -1,0 +1,69 @@
+{{{+1 西日暮里駅 / Nishi-Nippori Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://farm8.staticflickr.com/7032/6611025553_e9db8287a4_z.jpg
+니시닛포리역의 한 출입구. (사진 저작자 : [[http://www.flickr.com/photos/hohbukuro/6611025553/|hohbukuro]])
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 아라카와구에 위치한 [[JR 히가시니혼]], [[도쿄 메트로]], [[도쿄 도 교통국]]의 역이다. 원래 JR(당시 국철)의 선상에는 역이 없었는데, 도쿄 메트로의 [[치요다선]]이 개업한 이후 환승역으로써 이 역이 개통되었다. 그 후 [[닛포리·토네리 라이너]] 개통으로 이용객이 더 늘어났다.
+
+JR의 경우 원래 없던 역을 추가한 것이라 그런지 앞뒤로 역간 거리가 0.5km, 0.8km밖에 되지 않는다. 그래서 그런지, [[게이힌토호쿠선]]과 [[야마노테선]]밖에 정차하지 않는다. 그리고 닛포리·토네리 라이너의 역을 지도상에서 보면, [[야마노테선]], [[도호쿠 본선]], [[죠반선]], 죠반선과 도호쿠 본선의 연결선, [[케이세이 본선]] 등에 둘러싸여 있다. 물론 JR과 도쿄 메트로의 역에서도 좀 멀다.
+
+닛포리역에서 500m밖에 안 떨어져 있어서 그런지 역세권이라 할 것은 별로 없다. 고작해야 중고등학교 하나 정도?
+
+여담으로 이 역의 가칭이 '''신닛포리'''(新日暮里)역이었다. [가치무치 팬티 레슬링]에 나오는 '''그 신닛포리 맞다.'''(...)
+
+[[20세기 소년]]에서는 지구멸망 이후 [wiki:"엔도 켄지"그 남자]가 에로임 에사임즈를 탈퇴한 데미안 요시다에게 [wiki:"밥 레논""좋은 걸"] 가르쳐 주는 곳으로 나온다. 정확히는 역 근처 사거리.
+
+[[니시닛포리의 춤]]과는 관계가 있...을지도 모른다.
+== 역 및 승강장 ==
+=== [[JR 히가시니혼]] 니시닛포리역 ===
+||||||||||<#3ea343> {{{#ffffff 도호쿠 본선}}} ||<#3ea343><|24>{{{#ffffff 운영주체 : 동일본 여객철도}}}[[br]]{{{#ffffff 개업일 : 1971년 4월 20일}}} ||
+||<width=100px> [wiki:"도쿄역" 도　쿄] 방면[[br]][wiki:"닛포리역" 닛포리] || {{{+1 ← }}} ||<width=100px> 니시닛포리 || {{{+1 → }}} ||<width=100px> [wiki:"모리오카역" 모리오카] 방면[[br]][wiki:"타바타역(도쿄)" 타바타] ||
+||||||||||<#00b2e5> {{{#ffffff 게이힌토호쿠선}}} ||
+||<width=100px> [wiki:"오미야역(사이타마현)" 오미야] 방면[[br]][wiki:"타바타역(도쿄)" 타바타] || {{{+1 ← }}} ||<width=100px> 니시닛포리 || {{{+1 → }}} ||<width=100px> [wiki:"오후나역" 오후나] 방면[[br]][wiki:"닛포리역" 닛포리] ||
+||||||||||<#80c241> {{{#ffffff 야마노테선}}} ||
+||<width=100px> 내선순환[[br]][wiki:"타바타역" 타바타] || {{{+1 ← }}} ||<width=100px> 니시닛포리 || {{{+1 → }}} ||<width=100px> 외선순환[[br]][wiki:"닛포리역" 닛포리] ||
+
+https://farm7.staticflickr.com/6004/5916379608_e13f25382d_z.jpg
+JR 히가시니혼 니시닛포리역의 3, 4번 승강장 모습. (사진 저작자 : [[https://www.flickr.com/photos/paultraf/5916379608/|Paul Trafford]])
+
+http://upload.wikimedia.org/wikipedia/commons/3/36/Nishi-Nippori_Station.jpg
+그 옆에서 본 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3ANishi-Nippori_Station.jpg|yamauchi]])
+
+http://farm7.staticflickr.com/6071/6066025278_09daf0874d_z.jpg
+JR 히가시니혼 니시닛포리역의 한 출입구. (사진 저작자 : [[http://www.flickr.com/photos/gabuken/6066025278/|gabuken]])
+
+http://farm6.staticflickr.com/5068/5630662297_cf5fda00b3.jpg
+JR 히가시니혼 니시닛포리역의 역명판. (사진 저작자 : [[http://www.flickr.com/photos/kenleewrites/5630662297/|kenleewrites]])
+
+쌍섬식 승강장으로, 바깥쪽에 게이힌토호쿠선, 안쪽에 야마노테선이 지난다.
+=== [[도쿄 메트로]] [[치요다선]] 니시닛포리역 ===
+||||||||||<#009944> {{{#ffffff 치요다선}}} ||<#009944><|6>{{{#ffffff 운영주체 : 도쿄 메트로}}}[[br]]{{{#ffffff 개업일 : 1969년 12월 20일}}} ||
+||<width=100px> [wiki:"요요기우에하라역" 요요기우에하라] 방면[[br]][wiki:"센다기역" 센다기][[br]](C-15) || {{{+1 ← }}} ||<width=100px> 니시닛포리[[br]](C-16) || {{{+1 → }}} ||<width=100px> [wiki:"아야세역" 아야세] 방면[[br]][wiki:"마치야역" 마치야][[br]](C-17) ||
+
+http://farm4.staticflickr.com/3189/3070622586_66afd11ddf_z.jpg
+도쿄 메트로 치요다선 니시닛포리역의 대합실 노선도. (사진 저작자 : [[http://www.flickr.com/photos/koichiwb/3070622586/|K.Suzuki]])
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TokyoMetro-C16-Nishi-nippori-station-platform-1.jpg/512px-TokyoMetro-C16-Nishi-nippori-station-platform-1.jpg
+http://farm9.staticflickr.com/8255/8621980344_1435ae50c0_z.jpg
+도쿄 메트로 치요다선 니시닛포리역의 지하 2층 요요기우에하라 방면 승강장의 역명판. (사진 저작자 : (위)[[http://commons.wikimedia.org/wiki/File:TokyoMetro-C16-Nishi-nippori-station-platform-1.jpg|LERK]], (아래)[[http://www.flickr.com/photos/tfujinami/8621980344/|藤浪剛士 / TFujinami]])
+
+2면 2선으로, 단선식 승강장이 복층으로 겹쳐진 형태이다. 지하 2층은 요요기우에하라, 지하 3층은 아야세 방면이다.
+
+=== [[도쿄 도 교통국]] [[닛포리·토네리 라이너]] 니시닛포리역 ===
+||||||||||<#ff69b4> {{{#ffffff 닛포리·토네리 라이너}}} ||<#ff69b4><|6>{{{#ffffff 운영주체 : 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일 : 2008년 3월 30일}}} ||
+||<width=100px> [wiki:"닛포리역" 닛포리] 방면[[br]][wiki:"닛포리역" 닛포리][[br]](01) || {{{+1 ← }}} ||<width=100px> 니시닛포리[[br]](02) || {{{+1 → }}} ||<width=100px> [wiki:"미누마다이 친수공원역" 미누마다이친수공원] 방면[[br]][wiki:"아카도소학교앞역" 아카도소학교앞][[br]](03) ||
+
+http://farm7.staticflickr.com/6209/6111907501_3d29f3990e_z.jpg
+닛포리·토네리 라이너 니시닛포리역의 한 출입구와 역사의 전경. (사진 저작자 : [[http://www.flickr.com/photos/27889738@N07/6111907501/|ykanazawa1999]])
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/NipporiToneri-Liner-02-Nishi-nippori-station-platform.jpg/600px-NipporiToneri-Liner-02-Nishi-nippori-station-platform.jpg
+닛포리·토네리 라이너 니시닛포리역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File:NipporiToneri-Liner-02-Nishi-nippori-station-platform.jpg|LERK]])
+
+http://farm7.staticflickr.com/6130/6008906282_38a03e5d04.jpg
+닛포리·토네리 라이너 니시닛포리역의 선로 밑 보도. (사진 저작자 : [[http://www.flickr.com/photos/27889738@N07/6008906282/|ykanazawa1999]])
+
+섬식 승강장의 고가역이다. 사진에서 볼 수 있듯이 선로 밑으로 약간이나마 보도가 있는 것이 특징.
+
+[[각주]]

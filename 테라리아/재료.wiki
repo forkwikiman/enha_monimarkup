@@ -1,0 +1,603 @@
+[[include(틀:테라리아/아이템)]]
+
+[[목차]]
+== 광물 ==
+[[테라리아]]에서 [테라리아/장비|장비]], [[테라리아/무기|무기]], [[테라리아/도구|도구]]를 만들기 위해 필수적으로 필요한 아이템이다. 지하에서 곡괭이로 채굴해 얻은 광석들을 일정 개수를 화로에서 녹여서 하나의 주괴를 만들 수 있다. 이 제련된 주괴로 각종 방어구와 무기를 모루에서 만들게 된다. 비제련 상태의 광석들은 벽돌이나 포션 등의 재료로 사용되기도 한다. 
+납이나 백금 등의 대체 광물은 PC 1.2에서 추가된 것으로, 한 월드에 비슷한 기능을 가진 광물 2개 중 하나가 나오는 것을 말한다(예: 금 대신 백금이 등장함). 대체로 대체 광물이 기존 광물보다 좋은 편이다. 하지만 메테오라이트와 헬스톤은 대체 광물이 없다.
+광석은 999개까지 스택할 수 있고 주괴는 99개까지 스택할 수 있다. 그런 고로 광석은 필요한 만큼만 주괴로 바꾸자. 또한 헬스톤을 제외한 주괴와 같은 비율의 광석은 가격이 같다.
+
+||<#D5D5D5><:>주괴||<#D5D5D5><:>광석 및 재료||<#D5D5D5><:>광석 채굴 도구||
+||attachment:/Copper_Bar.png 구리 주괴||attachment:/Copper_Ore.png 구리 광석 (3)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Tin_Bar.png 주석 주괴||attachment:/Tin_Ore.png 주석 광석 (3)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Iron_Bar.png 철 주괴||attachment:/Iron_Ore.png 철 광석 (3)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Lead_Bar.png 납 주괴||attachment:/Lead_Ore.png 납 광석 (3)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Silver_Bar.png 은 주괴||attachment:/Silver_Ore.png 은 광석 (4)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Tungsten_Bar.png 텅스텐 주괴||attachment:/Tungsten_Ore.png 텅스텐 광석 (4)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Gold_Bar.png 금 주괴||attachment:/Gold_Ore.png 금 광석 (4)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Platinum_Bar.png 백금 주괴||attachment:/Platinum_Ore.png 백금 광석 (4)||<:>attachment:/Copper_Pickaxe.png?width=25||
+||attachment:/Demonite_Bar.png 데모나이트 주괴||attachment:/Demonite_Ore.png 데모나이트 광석 (4)||<:>attachment:/Gold_Pickaxe.png?width=25 attachment:/Platinum_Pickaxe.png?width=25||
+||attachment:/Crimtane_Bar.png 크림테인 주괴||attachment:/Crimtane_Ore.png 크림테인 광석 (4)||<:>attachment:/Gold_Pickaxe.png?width=25 attachment:/Platinum_Pickaxe.png?width=25||
+||attachment:/Meteorite_Bar.png 운석 주괴||attachment:/Meteorite.png 운석 (3)||<:>attachment:/Tungsten_Pickaxe.png?width=25 attachment:/Gold_Pickaxe.png?width=25 attachment:/Platinum_Pickaxe.png?width=25||
+||attachment:/Hellstone_Bar.png 지옥석 주괴||attachment:/Hellstone.png 지옥석 (3)[[br]]attachment:/Obsidian.png 흑요석||<:>attachment:/Nightmare_Pickaxe.png?width=25 attachment:/Deathbringer_Pickaxe.png?width=25||
+||attachment:/Cobalt_Bar.png 코발트 주괴||attachment:/Cobalt_Ore.png 코발트 광석 (3)||<:>attachment:/Molten_Pickaxe.png?width=25 attachment:/Reaver_Shark.png?width=25||
+||attachment:/Palladium_Bar.png 팔라듐 주괴||attachment:/Palladium_Ore.png 팔라듐 광석 (3)||<:>attachment:/Molten_Pickaxe.png?width=25 attachment:/Reaver_Shark.png?width=25||
+||attachment:/Mythril_Bar.png 미스릴 주괴||attachment:/Mythril_Ore.png 미스릴 광석 (4)||<:>attachment:/Cobalt_Pickaxe.png?width=25 attachment:/Cobalt_Drill.png?width=28 attachment:/Palladium_Pickaxe.png?width=25 attachment:/Palladium_Drill.png?width=28||
+||attachment:/Orichalcum_Bar.png 오리칼쿰 주괴||attachment:/Orichalcum_Ore.png 오리칼쿰 광석 (4)||<:>attachment:/Cobalt_Pickaxe.png?width=25 attachment:/Cobalt_Drill.png?width=28 attachment:/Palladium_Pickaxe.png?width=25 attachment:/Palladium_Drill.png?width=28||
+||attachment:/Adamantite_Bar.png 아다만타이트 주괴||attachment:/Adamantite_Ore.png 아다만타이트 광석 (5)||<:>attachment:/Mythril_Pickaxe.png?width=25 attachment:/Mythril_Drill.png?width=28 attachment:/Orichalcum_Pickaxe.png?width=25 attachment:/Orichalcum_Drill.png?width=28||
+||attachment:/Titanium_Bar.png 티타늄 주괴||attachment:/Titanium_Ore.png 티타늄 광석 (5)||<:>attachment:/Mythril_Pickaxe.png?width=25 attachment:/Mythril_Drill.png?width=28 attachment:/Orichalcum_Pickaxe.png?width=25 attachment:/Orichalcum_Drill.png?width=28||
+||attachment:/Hallowed_Bar.png 신성한 주괴||없음 (쌍둥이, 파괴자, [[br]]스켈레트론 프라임 파괴)||<:>없음||
+||attachment:/Chlorophyte_Bar.png 클로로파이트 주괴||attachment:/Chlorophyte_Ore.png 클로로파이트 광석 (6)||<:>attachment:/Pickaxe_Axe.png?width=25 attachment:/Drax.png?width=28||
+||attachment:/Shroomite_Bar.png 쉬루마이트 주괴||attachment:/Chlorophyte_Bar.png 클로로파이트 주괴[[br]]attachment:/Glowing_Mushroom.png 발광 버섯 (15)||<:>없음||
+
+=== 일반 광물 ===
+지하 광맥에서 흔하게 찾아볼 수 있는 광석. 모든 곡괭이로 캐진다. 철과 납까지는 지상에도 많이 분포한다.
+
+ * attachment:/Copper_Ore.png 구리 광석(Copper Ore)
+ attachment:/Copper_Bar.png [[구리#s-1|구리]] 주괴(Copper Bar) 
+ 가장 가치가 낮은 광물로, 그만큼 쉽게 보이며 많이 뭉쳐있다. 화로에서 구리 광석 3개로 구리 주괴를 제작한다. 후반에는 은, 금 장비 도구 맞추고 나면 썩어 남아도는 수준으로 많아진다.
+ 하드모드 이후엔 쓰임이 전혀 없어서[* 1.1.2에서 기계 보스 소환 아이템의 재료로 쓰였던 시절도 있었다.] 대부분 창고나 상점행이다.
+ 　
+ * attachment:/Tin_Ore.png 주석 광석(Tin Ore) 
+ attachment:/Tin_Bar.png [[주석#s-2|주석]] 주괴(Tin Bar) 
+ 구리의 대체 광물이다. 광석 3개를 모아 주석 주괴로 제작할 수 있다. 일부 무기나 도구의 성능이 구리보다 약간 앞서는 특징을 보이나 어차피 후반엔 버려진다.
+ 　
+ * attachment:/Iron_Ore.png 철 광석(Iron Ore) 
+ attachment:/Iron_Bar.png [[철#s-1|철]] 주괴(Iron Bar) 
+ 구리와 주석 다음으로 가치가 있는 광물. 철 광석 3개를 화로에 가공해서 주괴를 제작한다. 집 가구 만드는 데 가장 많이 사용되어 집 꾸미고 있다면 남아도는게 없다. 하드모드 보스 몬스터를 만들 수 있는 기계 보스 소환 아이템을 만들 수 있으므로 하드모드 보스를 잡을 생각이라면 모아두도록 하자.
+ 광석은 철피부 포션을 만드는 데 사용하므로 광석으로도 모아둘 필요가 있다. 하지만 구리, 은, 금처럼 벽돌 블록은 만들 수 없다.
+ 　
+ * attachment:/Lead_Ore.png 납 광석(Lead Ore) 
+ attachment:/Lead_Bar.png [[납]] 주괴(Lead Bar) 
+ 철의 대체 광물이다. 광석 3개를 모아 납 주괴로 제작할 수 있다. 일부 무기나 도구의 성능이 철보다 약간 앞서는 특징을 보인다. ~~그런데 이걸로 솥도 만든다. 응?~~[* 당연하지만 납은 독성이 있는 중금속이다.]
+ 　
+ * attachment:/Silver_Ore.png 은 광석(Silver Ore) 
+ attachment:/Silver_Bar.png [[은#s-2|은]] 주괴(Silver Bar)
+ 철과 납 다음으로 가치가 있는 광물. 은 광석 4개를 화로에 가공해서 주괴를 제작한다. 초반 장비와 도구 제작으로 수요는 많으나, 하드모드가 되면 급격히 수요량이 낮아져 대부분 버려지거나 상점에 판다. 여담으로 원래 구리보다 못한 [[잉여]] 취급받는 광물이었으나 1.2 이후 은제 총알 조합법이 추가되면서 쓰임새가 약간 좋아진 편이다.
+ 　
+ * attachment:/Tungsten_Ore.png 텅스텐 광석(Tungsten Ore) 
+ attachment:/Tungsten_Bar.png [[텅스텐]] 주괴(Tungsten Bar) 
+ 은의 대체 광물이다. 광석 4개를 모아 텅스텐 주괴로 제작할 수 있다. 일부 무기나 도구의 성능이 은보다 약간 앞서는 특징을 보인다. 은과 머스킷 총알로 만들 수 있는 은제 총알은 이 텅스텐 주괴로는 못 만든다. 다만 이걸로 도구를 만들면 금과 같은 성능이기에 텅스텐과 금이 동시에 있으면 취향, 내지는 개수에 따라 갈리게 된다.
+ 　
+ * attachment:/Gold_Ore.png 금 광석(Gold Ore)
+ attachment:/Gold_Bar.png [[금#s-1|금]] 주괴(Gold Bar)
+ 은과 텅스텐 다음으로 가치가 있는 광물. 금 광석 4개를 화로에서 가공해서 주괴를 만들 수 있다. 일반 광물 중 최고로 높은 등급으로 금셋까지 맞췄다면 지상에서 동굴까지의 몹은 물론 크툴루의 눈과 세상을 먹는 자도 그다지 두려운 존재가 되지 않는다. [[테라리아/보스#s-4.1|왕 슬라임]]을 소환하기 위한 황금 왕관을 만드는 데에도 사용되며, 양초와 촛대, 왕좌를 만들 수 있어서 철과 함께 집 가구 만드는 데 많이 사용된다.
+ 광석은 동굴 탐험가의 포션을 만드는 데 사용하므로 광석으로도 모아둘 필요가 있다.
+ 　
+ * attachment:/Platinum_Ore.png 백금 광석(Platinum Ore) 
+ attachment:/Platinum_Bar.png [[백금]] 주괴(Platinum Bar) 
+ 금의 대체 광물. 광석 4개를 모아 백금 주괴로 제작할 수 있다. 일부 무기나 도구의 성능이 금보다 약간 앞서는 특징을 보인다. 일반 광물 중에서 가장 가치가 비싸고, 구하기가 어렵다. 월드 내에 은과 백금이 같이 생성된다면 구분하기 어려운 감이 없잖아 있다.
+ 역시나 동굴 탐험가의 포션을 만드는 데에 필요한 게 백금 광석이니 비제련 상태로도 모아둘 필요가 있다. --근데 이게 백금화보다 훨씬 싸다.--
+ 　
+=== 중상급 광물 ===
+지하 광맥에서 채굴하는 일반적인 방법으로는 구할 수 없는 광석. 대부분 보스를 사냥하거나 특정 이벤트가 나타나야 얻을 수 있으며, 일정 등급 이상의 곡괭이를 요구한다. 여기서부터 광석에 희소성이 붙기 시작한다.
+
+ * attachment:/Demonite_Ore.png 데모나이트 광석(Demonite Ore) 
+ attachment:/Demonite_Bar.png 데모나이트 주괴(Demonite Bar)
+ 커럽션이 존재하는 월드에서 크툴루의 눈이나 세상을 먹는 자를 잡으면 나오는 광물. 한번에 '''아주 많이''' 드롭하는 광물로 주로 노멀모드에서 돈벌이 수단으로 사용된다. 지하에서도 아주 희귀하게 찾을 수 있으며, 자체적으로 약한 푸른 빛을 내뿜어내므로 그 빛이 나는 광석을 찾아 데모나이트를 채취할 수 있다. 다만, 한덩어리에 3~5개가량 되므로 공급량은 그리 많지 않다. 게다가 지하에서 매우 희귀하게 발견할 수 있고, 채굴할 수 있는 도구가 하필 케이븐에 도달해서야 겨우 자주 찾아 볼수 있는 금이나 백금 곡괭이에다 데모나이트 주괴가 데모나이트 광석을 4개나 요구하므로 구하기가 매우 더럽게 까다로운데 비해 장비는 더더욱 더럽게 까다롭다. 그나마 커럽션 지하에는 좀 많이 뭉쳐있는 편이다.
+ 화로에서 데모나이트 광석 4개로 주괴 하나를 제작할 수 있다. 악마의 활(활), 밤의 전투도끼(도끼), 빛의 파멸(검)은 데모나이트 주괴 자체만으로도 제작이 가능하나, 곡괭이과 망치 그리고 갑옷은 세상을 먹는 자가 드롭하는 그림자 비늘이 있어야 한다.
+ 　
+ * attachment:/Crimtane_Ore.png 크림테인 광석(Crimtane Ore) 
+ attachment:/Crimtane_Bar.png 크림테인 주괴(Crimtane Bar) 
+ 크림슨이 존재하는 월드에서 크툴루의 눈이나 크툴루의 뇌를 잡으면 나오는 광물. 데모나이트 광석과 마찬가지로 돈벌이 수단으로 이용되고, 지하에서 약한 붉은 빛을 내뿜어내는 크림테인 광석을 희귀하게 소량을 찾을 수 있다. 데모나이트 광석과 달리 크림슨의 동굴에선 발견하기 힘들다.
+ 화로에서 크림테인 광석 4개로 주괴 하나를 제작할 수 있다. 힘줄의 활(활), 욕망의 핏덩어리(도끼), 피의 도살자(검)는 크림테인 주괴 자체만으로도 제작이 가능하나, 곡괭이과 망치 그리고 장비는 크툴루의 뇌가 드롭하는 조직 샘플이 있어야 한다.
+ 　
+ * attachment:/Meteorite.png [[운석]](Meteorite) 
+ attachment:/Meteorite_Bar.png 운석 주괴(Meteorite Bar)
+ 데모나이트와 크림테인보다 높은 등급의 광물. 운석을 얻으려면 커럽션의 그림자 구슬이나 크림슨의 악마의 심장을 부순 뒤, 매일 밤 12시마다 50% 확률로 "운석이 떨어졌다!"라는 문구와 함께 운석이 랜덤한 지형에 생긴다. 이곳을 운석 추락 지대라 하며, 이곳에는 운석 대가리라는 몬스터가 스폰하여 2% 확률로 운석을 드롭한다. 물 양초와 전투 포션을 조합해서 운석 대가리를 수없이 많게 스폰시켜서 사냥하는 것으로 운석을 모을수도 있지만 드랍 확률이 매우 낮은지라 그런 식으로 구하는 것은 그냥 포기하자. 운석을 다시 생성하려면 운석 추락 지대의 운석이 일정 개수 이하여야 한다.[* 소형 400개, 중형 600개, 대형 800개.]
+ 운석 3개를 화로에서 가공하여 주괴 하나를 만들 수 있다. 얻는 조건도 있어서 얻기가 힘들지만, 그래도 한번 얻으면 가치가 있는 것. 보석과 조합하여 페이즈블레이드를 만들 수 있으며, 우주 총, 유성 대포를 만들 수도 있으며 도끼와 망치의 역할을 동시에 하는 운석 햄액스를 만들 수 있다.
+ 　
+ * attachment:/Obsidian.png [[흑요석]](Obsidian) 
+ 물과 용암이 만나면 만들어지는 광석. 물이야 지상이나 지하나 흔하지만 용암은 동굴의 심층까지 내려가야 보이니 중반에야 구할수 있다. 20개로 화로에서 흑요석 두개골이라는 장신구를 제작 가능하며 지옥석 주괴를 만드는 데 필요하다.
+ 여담으로, 화염초와 함께 희소성이 {{{#blue 파랑}}}이 아님에도 불구하고 용암에 녹지 않는 아이템이다.{{{#!html
+ <iframe width="425" height="349" src="//www.youtube.com/embed/HMMXMGeBhl4?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>}}}
+ [[br]]흑요석 생산기를 직접 만들어 흑요석을 구하는 방법이 있다. 원리는 양동이를 이용하여 물과 용암이 증식되는 꼼수를 이용한 것이다.
+ [http://www.youtube.com/watch?v=cw9EVoOQJvQ 1.1 버전으로 업데이트 되면서 펌프 및 전기기구가 추가됨에 따라 물과 용암을 증식하는 방법이 매우 쉬워졌다.]
+ 　
+ * attachment:/Hellstone.png 지옥석(Hellstone)
+ attachment:/Hellstone_Bar.png 지옥석 주괴(Hellstone Bar) 
+ 이름처럼 지옥에 흔하게 볼 수 있는 광물이자, 하드모드 돌입 전까지 구할 수 있는 최고 등급의 광물. 악몽의 곡괭이나 사신의 곡괭이로만 채취할 수 있다. 임프와 서펜트의 방해 때문에 채굴 작업하기가 힘들다. 게다가 캐면 용암이 흘러나와서... [[더 이상의 자세한 설명은 생략한다.]] 따라서 흑요석 피부 포션을 먹고 채취하도록 하는 것이 좋다.[* 다만, 지옥 이외의 장소에서 채취할 경우 용암은 흐르지 않는다.] 
+ 지옥석 3개, 흑요석 1개를 지옥화로에서 가공하여 주괴 하나를 제작할 수 있다. 지옥석을 얻었다면 최강의 광물을 얻은 것을 축하하며, 지옥석으로 장비와 도구를 모두 갖췄다면 당신은 하드모드 돌입 전의 테라리아 세계를 정복한 셈이므로 다시 한번 축하한다. 물론, 그 말은 하드모드 돌입하면 다시 초심으로 돌아가는 셈이다. 누릴 수 있는 권한은 충분히 누리도록 하자.
+ 지옥석으로 만든 도구와 무기는 공격시 33.3% 확률로 화상 추가 피해를 준다. 또한 몰튼 퓨리로 발사하는 모든 화살은 불화살이 되며, 화상 추가 피해 확률은 똑같이 33.3%이다.
+ 　
+=== 하드모드 광물 ===
+하드모드에서만 생겨나는 광물이다. 악마의 제단을 승리의 망치(Pwnhammer) 이상 등급의 망치로 부수면 지하 광맥 사이에 생긴다.
+제련된 주괴로 제작한 도구는 곡괭이와 드릴, 도끼와 전기톱으로 나눠진다. 또한 모자 부분 장비는 총 3가지로 나뉘어져 입맛에 맞게 바꿀 수 있다.
+코발트와 팔라듐은 커럽션의 터널부터, 미스릴과 오리칼쿰은 동굴 깊이부터, 아다만타이트와 티타늄은 용암이 나타나는 깊이부터 생성된다. 간혹 하드모드에 진입한 초심자들이 하드모드 광물을 폭탄으로 부수려고 시도하기도 하는데 절대 부수어지지 않으니 주의.
+몇 가지 꼼수가 있는데, 광부 세트를 맞추고 악몽의 곡괭이로 한번씩 터치하면 가끔 깨진다. 또 모바일에서는 대체 광물이 생겨나지 않으므로, 이걸 이용해서 코발트 곡괭이로 바로 클로로파이트를 깨는 방법도 있으나, 모바일 버전에서만 가능하다.
+
+ * attachment:/Cobalt_Ore.png 코발트 광석(Cobalt Ore) {{{#red ⓗ}}}
+ attachment:/Cobalt_Bar.png [[코발트#s-1|코발트]] 주괴(Cobalt Bar) {{{#red ⓗ}}} 
+ 하드모드의 첫 번째 광물. 월 오브 플레시를 죽인 뒤에 얻은 승리의 망치로 악마의 제단을 부술 경우 1-4-7-10-... '3의 배수-2' 번째마다 화면 밖에 랜덤하게 생겨난다. 색상은 푸른색. 몰튼 곡괭이로 채굴할 수 있다.
+ 코발트 광석 3개를 화로에서 가공하여 주괴를 만들 수 있다. 무기 검과 창에 [[왜색]]이 깃들어있다. 창의 이름도 [[헤이안 시대]]의 [[장대무기]]인 [[나기나타]].
+ 　
+ * attachment:/Palladium_Ore.png 팔라듐 광석(Palladium Ore) {{{#red ⓗ}}} 
+ attachment:/Palladium_Bar.png [[팔라듐#s-1|팔라듐]] 주괴(Palladium Bar) {{{#red ⓗ}}} 
+ 코발트의 대체 광물. 월 오브 플레시를 죽인 뒤에 얻은 승리의 망치로 악마의 제단을 부술 경우 1-4-7-10-... '3의 배수-2' 번째마다 화면 밖에 랜덤하게 생겨난다. 몰튼 곡괭이로 채굴할 수 있다.
+ 팔라듐 광석 3개를 화로에서 가공하여 주괴를 만들 수 있다. 일부 무기나 도구의 성능이 코발트보다 약간 앞서는 특징을 보인다.
+ 　
+ * attachment:/Mythril_Ore.png 미스릴 광석(Mythril Ore) {{{#red ⓗ}}} 
+ attachment:/Mythril_Bar.png [[미스릴]] 주괴(Mythril Bar) {{{#red ⓗ}}} 
+ 하드모드의 두 번째 광물. 월 오브 플레시를 죽인 뒤에 얻은 승리의 망치로 악마의 제단을 부술 경우 2-5-8-11-... '3의 배수-1' 번째마다 화면 밖에 랜덤하게 생겨난다. 색상은 초록색. 코발트/팔라듐 곡괭이와 드릴로 채굴할 수 있다.
+ 미스릴 광석 4개를 화로에서 가공하여 주괴를 만들 수 있다. 코발트가 일본풍이면, 미스릴은 중세풍이 느껴진다. 창의 이름도 [[중세|중세시대]] [[폴암]] [[미늘창]].
+ 　
+ * attachment:/Orichalcum_Ore.png 오리칼쿰 광석(Orichalcum Ore) {{{#red ⓗ}}} 
+ attachment:/Orichalcum_Bar.png [[오리칼쿰]] 주괴(Orichalcum Bar) {{{#red ⓗ}}} 
+ 미스릴의 대체 광물. 월 오브 플레시를 죽인 뒤에 얻은 승리의 망치로 악마의 제단을 부술 경우 2-5-8-11-... '3의 배수-1' 번째마다 화면 밖에 랜덤하게 생겨난다. 코발트/팔라듐 곡괭이와 드릴로 채굴할 수 있다.
+ 오리칼쿰 광석 4개를 화로에서 가공하여 주괴를 만들 수 있다. 일부 무기나 도구의 성능이 미스릴보다 약간 앞서는 특징을 보인다. 특이한 점은, 무기나 장비를 제작할 때 미스릴보다 주괴 2~3개를 더 요구한다.
+ 　
+ * attachment:/Adamantite_Ore.png 아다만타이트 광석(Adamantite Ore) {{{#red ⓗ}}} 
+ attachment:/Adamantite_Bar.png [[아다만타이트]] 주괴(Adamantite Bar) {{{#red ⓗ}}} 
+ 하드모드의 세 번째 광물. 월 오브 플레시를 죽인 뒤에 얻은 승리의 망치로 악마의 제단을 부술 경우 3-6-9-12-... '3의 배수' 번째마다 화면 밖에 랜덤하게 생겨난다. 색상은 빨간색. 미스릴/오리칼쿰 곡괭이와 드릴로 채굴할 수 있다. 이 광석을 주괴로 만들기 위해서는 아다만타이트/티타늄 화로라는 특별한 스테이션이 필요하다.
+ 아다만타이트 광석 5개를 아다만타이트/티타늄 화로에서 가공하여 주괴를 만들 수 있다. 미스릴과는 달리 뭔가 미래적인 느낌이 든다.
+ 　
+ * attachment:/Titanium_Ore.png 티타늄 광석(Titanium Ore) {{{#red ⓗ}}}
+ attachment:/Titanium_Bar.png [[티타늄]] 주괴(Titanium Bar) {{{#red ⓗ}}} 
+ 아다만타이트의 대체 광물. 월 오브 플레시를 죽인 뒤에 얻은 승리의 망치로 악마의 제단을 부술 경우 3-6-9-12-... '3의 배수' 번째마다 화면 밖에 랜덤하게 생겨난다. 색깔이 돌과 구분하기 힘든 편이다. 미스릴/오리칼쿰 곡괭이와 드릴로 채굴할 수 있다. 이 광석을 주괴로 만들기 위해서는 아다만타이트/티타늄 화로라는 특별한 스테이션이 필요하다.
+ 티타늄 광석 5개를 아다만타이트/티타늄 화로에서 가공하여 주괴를 만들 수 있다. 일부 무기나 도구의 성능이 아다만타이트보다 약간 앞서는 특징을 보인다.
+ 　
+ * attachment:/Hallowed_Bar.png 신성한 주괴(Hallowed Bar) {{{#red ⓗ}}} 
+ 하드모드 기계화 보스 쌍둥이, 파괴자, 스켈레트론 프라임을 잡으면 나오는 광물. 주괴 중 유일하게 보스가 드롭하는 아이템이다.
+ 이전에는 신성한 장비와 도구를 만들기 위해선 영혼과 각각의 코발트, 미스릴, 아다만타이트 장비가 필요했으나 1.2 패치로 신성한 주괴가 추가되면서 만드는 방법이 한층 쉬워졌다.
+ 　
+ * attachment:/Chlorophyte_Ore.png 클로로파이트 광석(Chlorophyte Ore) {{{#red ⓗ}}} 
+ attachment:/Chlorophyte_Bar.png 클로로파이트 주괴(Chlorophyte Bar) {{{#red ⓗ}}} 
+ 하드모드 정글 500피트 아래에서 자연적으로 번식하고 자라나는(!)[* 주변의 진흙 블록과 정글 잔디 블록으로 퍼진다.] 광물. 한국에서는 녹조류 광석이라고도 불린다.[* Chlorophyte는 녹조류, 녹조식물이라는 뜻을 담고 있다.] 픽액스 액스와 드랙스로 채굴할 수 있다. 다른 하드모드 광물들이 제단을 부숴야 증식하는 반면 클로로파이트는 자체적으로 증식하기 때문에 정글 지하에서 광석 1개를 진흙 블록으로 둘러싸는 방식으로 광석을 양식할 수 있다. 이 점을 이용하여 클로로파이트 농장(?)을 만들 수 있다. 클로로파이트 농장은 지하 어느 곳에서나 만들 수 있고(지하에서 더 많이 양식이 가능하고 정글이 아니어도 된다)지하에서 만들 시 클로로파이트는 38칸 안에 최대 24개까지 생성되기 때문에 진흙으로 만든 5x5 정사각형 중앙에 클로로파이트를 심어두고 이 정사각형을 서로 38칸 떨어지게 하여 여러 개 만들면 된다.
+ 클로로파이트 광석 6개를 아다만타이트/티타늄 화로에서 가공하면 주괴가 제작된다.
+ 　
+ * attachment:/Shroomite_Bar.png 쉬루마이트 주괴(Shroomite Bar) {{{#red ⓗ}}} 
+ 가장 가치가 높은 주괴로, 플란테라 격파 이후 트러플 NPC가 판매하는 자동망치(Autohammer)에서 클로로파이트 주괴와 발광 버섯 15개를 가공하면 얻어진다. 이름의 유래는 [[버섯]]을 뜻하는 Mu'''shroom'''과 광물을 뜻하는 -'''ite'''의 합성어.
+ 날개 중 최상위 아이템에 속하는 호버보드와 레인저 전용 장비인 쉬루마이트 갑옷을 만들 때 사용된다. 쉬루마이트 땅파개 손톱이라는 전용 도구가 있다.
+ 　
+== 보석 ==
+보석은 지하의 돌 블록 사이에 끼여있거나 돌 블록에 붙어있는 상태로 발견되며, 채집 시 보석을 떨어뜨린다. 
+
+공동적으로는 주로 페이즈블레이드를 만들기 위해 사용되며, 횃불과 조합하여 색상을 가진 횃불을 만들 수 있다. 또한 보석 15개를 조합하여 대형 보석을 제작할 수 있다.
+1.2 업데이트로 보석의 쓰임새가 다양해졌다. 보석을 이용해 마법 무기인 지팡이를 만들거나, 일반 갈고리보다 길이가 긴 보석 갈고리를 만드는 데 사용할 수 있다. 보석 갈고리의 길이는 보석의 희귀도에 따라 달라진다. 또한, 치장 아이템인 로브와 보석 10개를 조합하면 마법 능력을 향상시켜 주는 장비가 된다. 갈고리를 만들 때, 몬스터들에게 얻는 훅(Hook)이 필요없어 빨리 갈고리를 만들 수 있으므로 처음 테라리아를 시작했으면 보석을 열심히 모아보자.
+
+보석은 깊이에 전혀 관여하지 않는다. 즉, 지하로 들어가자마자 다이아몬드를 채취할 수도 있으며, 계속 땅을 파도 겨우 자수정만 나올 수 있다. 물론 깊이 들어가면 들어갈수록 더욱 많은 보석을 찾을 수 있다. 그러나, 지옥 구간부터는 보석을 찾을 수 없다. 가끔 한 종류부터 여러 가지 종류까지 대량의 보석이 붙어있는 보석 광맥을 발견할 수 있다. 잘만 해서 초보자 때 [[http://rigvedawiki.net/r1/wiki.php/%ED%85%8C%EB%9D%BC%EB%A6%AC%EC%95%84/%EA%B4%91%EB%AC%BC?action=download&value=Diamond_Gemstone_Cave.png 다이아몬드 광맥]]을 발견하면 일확천금을 하는 셈.
+||attachment:128px_Diamond.png||attachment:128px_Ruby.png||attachment:128px_Emerald.png||attachment:128px_Sapphire.png||attachment:128px_Topaz.png||attachment:128px_Amethyst.png||
+||<:>다이아몬드 블록||<:>루비 블록||<:>에메랄드 블록||<:>사파이어 블록||<:>토파즈 블록||<:>자수정 블록||
+
+{{{+1 '''희귀도와 가치'''}}}
+----
+아래는 각 보석의 가격. 가격이 비싸면 비쌀수록 그 보석은 매우 희귀하다는 것을 의미한다.
+
+||<#D5D5D5> 보석 ||<#D5D5D5> 가격 ||
+||attachment:/Amber.png 호박||<)>30 attachment:/Silver_Coin.png||
+||attachment:/Diamond(1).png 다이아몬드||<)>30 attachment:/Silver_Coin.png||
+||attachment:/Ruby(1).png 루비||<)>22 attachment:/Silver_Coin.png 50 attachment:/Copper_Coin.png||
+||attachment:/Emerald(1).png 에메랄드||<)>15 attachment:/Silver_Coin.png||
+||attachment:/Sapphire(1).png 사파이어||<)>11 attachment:/Silver_Coin.png 25 attachment:/Copper_Coin.png||
+||attachment:/Topaz(1).png 토파즈||<)>7 attachment:/Silver_Coin.png 50 attachment:/Copper_Coin.png||
+||attachment:/Amethyst(1).png 자수정||<)>3 attachment:/Silver_Coin.png 75 attachment:/Copper_Coin.png||
+
+{{{+1 '''목록'''}}}
+----
+ * attachment:/Amethyst(1).png [[자수정#s-1|자수정]](Amethyst) 
+ 보라색 보석. 가치가 가장 낮으며, 블록 모양은 보라색 돌이 끼여있다.
+ 　
+ * attachment:/Topaz(1).png [[토파즈]](Topaz) 
+ 노란색 보석. 두 번째로 가치가 낮으며, 토파즈로 모래총을 만들 수 있어 총을 모으려는 사람에겐 더욱 귀중한 보석이다. 블록 모양은 노란색 돌이 끼여있다.
+ 　
+ * attachment:/Sapphire(1).png [[사파이어#s-1|사파이어]](Sapphire) 
+ 파란색 보석. 세 번째로 가치가 낮으며, 블록 모양은 파란색 돌이 끼여있다.
+ 　
+ * attachment:/Emerald(1).png [[에메랄드#s-1|에메랄드]](Emerald) 
+ 초록색 보석. 세 번째로 가치가 높으며, 블록 모양은 초록색 돌이 끼여있다.
+ 　
+ * attachment:/Ruby(1).png [[루비#s-1|루비]](Ruby) 
+ 빨간색 보석. 두 번째로 가치가 높으며, 다른 보석과는 달리 왕관 제작으로 쓰임새가 많다. 블록 모양은 빨간색 돌이 끼여있다.
+ 　
+ * attachment:/Diamond(1).png [[다이아몬드#s-1|다이아몬드]](Diamond) 
+ 밝은 파란색 보석. 가장 가치가 높은 보석이다. 블록 모양은 하늘색 돌이 끼여있다. 돌에 박힌 스프라이트와 블록에 붙어 있는 스프라이트의 색이 다르다.
+ 　
+ * attachment:/Amber.png [[호박#s-2|호박]](Amber) 
+ 주황색 보석. 지하에서 채굴할 수 없으며 추출기에서만 획득할 수 있다. PC 1.2 버전에 새로 추가돼서 그런지 쓰임새가 다른 보석보다 별로 없는 편.
+ 　
+== 전리품 ==
+ * attachment:Gel.png [[젤]](Gel) 
+ 슬라임을 잡으면 획득할 수 있는 아이템. 초반에 횃불을 만드는 재료이며 게임 전반에 걸쳐 중요하고 자주 사용되는 아이템이다. 하드모드에선 화염방사기의 탄약으로 사용된다.
+ 　
+ * attachment:Lens.png 수정체(Lens) 
+ 밤에 나타나는 악마의 눈이 1/3 확률로 떨어뜨리는 아이템. 다만 하드모드 버전인 방황하는 눈(Wandering Eye)은 떨어뜨리지 않으므로 후반부에 갈수록 찾기가 어려워진다. 대부분 크툴루의 눈 소환 아이템인 수상해 보이는 눈을 조합하는 데 사용되며 하드모드에서 기계화 눈의 재료에도 쓰이므로 하드모드 이전에 많이 모아두는 것이 좋다.
+ 　
+  * attachment:Black_Lens.png 검은 수정체(Black Lens) 
+  매우 낮은 확률(1/150)로 악마의 눈이 떨어뜨린다. 2개로 선글라스를 만들 수 있으며, 1개로 눈의 지팡이를 만들수 있다.
+  　
+ * attachment:Hook.png 갈고리(Hook) 
+ 스켈레톤과 피라냐가 낮은 확률(2.5~4%)로 떨어뜨리는 아이템. 등반 갈고리를 만드는 재료로 사용되지만 효율성이 좋은 보석 갈고리가 있어서 얻으면 대부분 상점행.
+ 　
+ * attachment:/Whoopie_Cushion.png 방귀 쿠션(Whoopie Cushion) 
+ 지하의 거대 지렁이가 낮은 확률(1%)로 떨어뜨리는 아이템. 땜장이의 작업장에서 구름병과 합쳐 방귀병을 제작할 수 있다. 
+ 사용하면 [[방귀]] 뀌는 것과 비슷한 효과음을 낸다. 이를 이용해 멀티플레이에서 상대방에게 짜증(...)을 유발하게 할 수 있다.
+ 　
+ * attachment:Rotten_Chunk.png 썩은 덩어리(Rotten Chunk) 
+ 커럽션에서 볼 수 있는 몬스터가 떨어뜨리는 아이템. 세상을 먹는 자 소환 아이템인 벌레 먹이를 악마의 제단에서 만들 수 있으며, 5개를 조합하면 가죽으로 만들 수 있다. 아이템 설명이 '맛있어 보인다!'(…)라고 적혀 있지만 식용 아이템은 아니다. ~~먹었다 무슨 꼴을 당하려고... 테라리아는 [[마인크래프트|모 샌드박스 게임]]처럼 허기가 있는 것도 아니다.~~
+ 　
+ * attachment:/Vertebrae.png 척추뼈(Vertebrae) 
+ 크림슨에서 볼 수 있는 몬스터가 떨어뜨리는 아이템. 크툴루의 뇌 소환 아이템인 피투성이 등뼈를 악마의 제단에서 만들 수 있으며, 기타 조합법은 가죽을 만들 수 없는 것 빼고 썩은 덩어리와 동일하다.
+ 　
+ * attachment:Worm_Tooth.png 벌레 이빨(Worm Tooth) 
+ 커럽션의 다관절 몬스터 디바우러가 떨어뜨리는 아이템이다. 나무 화살을 부정한 화살로 만드는 용도로 사용한다.
+ 　
+ * attachment:/Shadow_Scale.png 그림자 비늘(Shadow Scale) 
+ 커럽션의 보스 세상을 먹는 자가 떨어뜨린다. 데모나이트 주괴와 같이 조합하여 데모나이트 도구와 그림자 갑옷을 만드는 용도로 사용된다.
+ 　
+ * attachment:/Tissue_Sample.png 조직 샘플(Tissue Sample) 
+ 크림슨의 보스 크툴루의 뇌가 떨어뜨린다. 크림테인 주괴와 같이 조합하여 크림테인 도구와 크림슨 갑옷을 제작할 수 있다.
+ 　
+ * attachment:Feather.png 깃털(Feather) 
+ 하늘 높이 서식하는 하피의 전리품 아이템이다. 몇 가지 [[테라리아/소모품#s-2.2|버프 포션]]을 만드는 용도밖에 없으나 하드모드 이후 악마의 날개와 천사의 날개를 만드는 데도 쓰인다.
+ 　
+ * attachment:Tattered_Cloth.png 망가진 천(Tattered Cloth) 
+ 맵의 가장자리에서 나오는 고블린 정찰병이 떨어뜨리는 아이템이다. 고블린 부대를 소환하는 고블린 전투 휘장을 만들 수 있다.
+ 　
+ * attachment:Stinger.png 독침(Stinger) 
+ 정글 지하의 말벌이 떨어뜨리는 아이템이다. 정글 무기와 정글 셔츠, 그리고 탄약 아이템인 포이즌 다트의 제작에 사용된다.
+ 　
+ * attachment:Vine.png 덩굴(Vine) 
+ 정글 지하의 맨 이터가 1/3의 확률로 드롭한다. 넝쿨 채찍과 정글 바지 제작에 사용된다.
+ 　
+ * attachment:Antlion_Mandible.png 개미귀신 아래턱(Antlion Mandible) 
+ 1/7의 낮은 확률로 개미귀신이 떨어뜨리는 아이템이다. 모래총과 채굴 포션을 만드는 데 사용된다.
+ 　
+ * attachment:Shark_Fin.png 상어 지느러미(Shark Fin) 
+ 바다의 상어가 떨어뜨리는 아이템이다. 각종 포션의 재료로 사용되며, 하드모드에선 메가샤크와 넵튠의 조개의 재료로 쓰인다. 커럽션이나 크림슨에 지배된 바다에선 상어가 나타나지 않으므로 하드모드 이전에 많이 모아두자. ~~[[드라군 놀이|하지만 조각상이 출동한다면 어떨까? 조!각!상!]]~~
+ 　
+ * attachment:Bee_Wax.png 밀랍(Bee Wax) 
+ 정글의 보스 여왕벌이 100% 확률로 16~26개 떨어뜨린다. 1.2.4에서 추가된 서머너용 장비와 무기인 Bee Armor, Hornet Staff 제작에 쓰인다. 모루에서 조합할 수 있으며 각각 30개, 14개를 요구한다.
+ 　
+ * attachment:Pixie_Dust.png 요정 가루(Pixie Dust) {{{#red ⓗ}}} 
+ 할로우의 요정이 떨어뜨리는 하드모드 전용 제작 재료이다. 성수, 마법 무기, '''대형 치유 포션''' 등을 제작할 수 있다.
+ 　
+ * attachment:Unicorn_Horn.png 유니콘의 뿔(Unicorn Horn) {{{#red ⓗ}}} 
+ 할로우의 유니콘이 떨어뜨리는 하드모드 전용 제작 재료이다. 신성한 화살, 무지개 지팡이, 슈퍼 마나 포션의 재료로 들어간다.
+ 　
+ * attachment:Cursed_Flame.png 저주받은 불꽃(Cursed Flame) {{{#red ⓗ}}} 
+ 커럽션 지하의 월드 피더와 클링거가 떨어뜨리는 재료 아이템. 이 아이템으로 만든 횃불, 탄약, 무기는 물속에서도 불이 꺼지지 않는 특징을 보이며, 일정 시간 동안 화상보다 훨씬 강한 피해를 주는 저주불 디버프를 걸 수 있다.
+ 　
+ * attachment:/Ichor.png 이코르(Ichor) {{{#red ⓗ}}} 
+ 크림슨 지하의 이코르 스티커가 떨어뜨리는 재료 아이템. 이 아이템으로 만든 횃불, 탄약, 무기는 물속에서도 불이 꺼지지 않는 특징을 보이며, 방어력을 대폭 깎아먹는 이코르 디버프를 걸 수 있다. 이때 공격받은 몬스터는 노란색으로 물든다. 툴팁을 보면 '신의 피'라고 적혀있다. ~~왠지 [[팀 포트리스 2|모 FPS 게임]]의 [[스나이퍼(팀 포트리스 2)|모 클래스]]가 쓰는 [[스나이퍼(팀 포트리스 2)/무기 목록#s-2.3|무기]]가 생각난다면 기분 탓이다.~~ ~~본격 신의 오줌~~
+ 　
+ * attachment:/Dark_Shard.png 어둠의 조각(Dark Shard) {{{#red ⓗ}}} 
+ 커럽션이나 크림슨의 어두운 미라가 1/10의 확률로 떨어뜨리는 하드모드 전용 제작 재료이다. 빛의 조각과 함께 다오 오브 파우 제작에 사용된다.
+ 　
+ * attachment:/Light_Shard.png 빛의 조각(Light Shard) {{{#red ⓗ}}} 
+ 할로우의 빛의 미라가 1/10의 확률로 떨어뜨리는 하드모드 전용 제작 재료이다. 마찬가지로 다오 오브 파우 제작에 사용.
+ 　
+ * attachment:/Spider_Fang.png 거미의 독니(Spider Fang) {{{#red ⓗ}}} 
+ 거미굴의 블랙 레크루즈가 75% 확률로 떨어뜨린다. 1.2.4에서 추가된 서머너용 소환 장비와 무기 Spider Armor, Spider Staff, Queen Spider Staff 제작에 사용된다. 각각 36개, 16개, 24개를 요구한다. 
+ 　
+ * attachment:/Frost_Core.png 프로스트 코어(Frost Core) {{{#red ⓗ}}} 
+ 눈이 올 때 하드모드 설원에 나타나는 아이스 골렘을 잡으면 100% 떨어뜨리는 아이템. 서리의 갑옷 세트의 재료로 사용된다.
+ 　
+ * attachment:/Turtle_Shell.png 거북 등딱지(Turtle Shell) {{{#red ⓗ}}} 
+ 정글 지하의 거대 거북이가 낮은 확률(5.88%)로 떨어뜨리는 재료 아이템. 이 아이템을 클로로파이트 주괴와 함께 조합하여 거북 갑옷 세트를 제작할 수 있다.
+ 　
+ * attachment:/Beetle_Husk.png 딱정벌레 껍질(Beetle Husk) {{{#red ⓗ}}} 
+ 리자드 사원의 보스 골렘이 드롭하는 아이템. 한 번에 약 4~8개를 드롭한다. 거북 갑옷 세트와 함께 조합하여 딱정벌레 갑옷 세트를 제작할 수 있으며 딱정벌레 날개의 재료로 사용된다.
+ 　
+ * attachment:/Ectoplasm.png 엑토플라즘(Ectoplasm) {{{#red ⓗ}}} 
+ 하드모드 던전 몬스터를 잡을 시 6.67% 확률로 나오는 던전 스피릿에게서 얻을 수 있다. 소서러의 최상위 장비인 영혼의 갑옷 세트와, 범위가 +3 증가한 영혼의 도구를 만들기 위해 사용된다. 던전에서 조각상으로 던전 스피릿을 인위적으로 소환해 엑토플라즘 농장을 만들 수 있다.
+ 　
+ * attachment:/Dungeon_Key_Mold.gif 던전 열쇠 틀(Key Mold) {{{#red ⓗ}}} 
+ 던전 열쇠를 만들기 위한 재료로, 각 지역 안의 모든 몬스터가 1/2500의 낮은 확률로 떨어뜨린다. 예를 들어 얼어붙은 열쇠 틀을 얻고 싶으면 하드모드 설원 안의 모든 몬스터를 잡다보면 나온다. 운이 운인지라 수백마리를 넘게 잡아도 안 나올 수 있고 길가다 몬스터 한 마리만 잡아도 나올 수 있다. 빨리 얻고 싶으면 작업장을 설치하던가(정글, 설원, 할로우) 보스를 털어 보자(커럽션과 크림슨). 단시간에 얻을려면 원하는 지역으로 가서 해적 침략, 일식, 펌킨 문과 같은 몬스터의 스폰이 빠르고 수도 많은 이벤트를 이용해서 얻는 방법도 있다.  
+ 　
+ * attachment:/Broken_Hero_Sword.png 부서진 영웅의 검(Broken Hero Sword) {{{#red ⓗ}}} 
+ 일식 이벤트에서 매우 낮은 확률로 얻을 수 있다. 진정한 엑스칼리버/밤의 칼날과 테라 블레이드를 만드는 재료로, 줄여서 부영검으로 부르기도 한다. 테라 블레이드를 제작하려면 총 3개의 부서진 영웅의 검이 필요하다.
+ 　
+=== 영혼 ===
+영혼은 하드모드에서 갑옷과 장비를 제작할 수 있는 매우 중요한 재료로 사용되는 아이템이다. 하드모드 몬스터와 보스를 사냥하면 획득할 수 있다.
+테라리아 내에서 유일하게 중력의 영향을 받지 않는 아이템이므로, 몬스터가 죽은 지점의 공중에서 드롭한다. 따라서 보스나 와이번이 땅속에서 잡혔을 땐 일일히 뚫고 들어가서 먹어줘야 하며, 오프 스크린 영역에서 잡혔을 땐 먹을 수 없는 사태가 발생한다. 따라서 보스를 처치하는 지점은 가능한 지상과 하늘섬의 사이인 것이 좋다.
+각 영혼의 영문명은 모두 -ight로 끝나는 규칙이 있다.
+
+ * attachment:Soul_of_Flight.png 비행의 영혼(Soul of Flight) {{{#red ⓗ}}} 
+ 하늘의 와이번이 떨어뜨리는 영혼. 날개와 장신구를 제작할 수 있다.
+ 　
+ * attachment:Soul_of_Light.png 빛의 영혼(Soul of Light) {{{#red ⓗ}}} 
+ 할로우 '''지하'''[* BGM이 지상일 때와 미묘하게 달라졌다면 지하 구역에 들어왔다는 뜻이다.] 안의 몬스터가 떨어뜨리는 영혼. 할로우 지하에서만 소환되는 몬스터가 아니라 할로우 지하 안이면 모든 몬스터가 떨어뜨린다. 무기, 날개, 기계 보스 소환 아이템 등 하드모드에서 광범위하게 재료로 쓰인다.
+ 　
+ * attachment:Soul_of_Night.png 밤의 영혼(Soul of Night) {{{#red ⓗ}}} 
+ 커럽션 혹은 크림슨 '''지하''' 안의 몬스터가 떨어뜨리는 영혼. 빛의 영혼과 마찬가지로 커럽션·크림슨 지하 안이면 모든 몬스터가 떨어뜨린다. 무기, 날개, 기계 보스 소환 아이템 등 하드모드에서 광범위하게 재료로 쓰인다.
+ 　
+ * attachment:Soul_of_Sight.png 시야의 영혼(Soul of Sight) {{{#red ⓗ}}} 
+ 하드모드 기계 보스인 쌍둥이가 떨어뜨리는 영혼. 마법의 하프, 요정의 종, 무지개 지팡이 등을 제작할 수 있다. 또한 픽액스 액스와 드랙스를 만드는 재료로 다른 기계 보스가 떨어뜨리는 영혼과 함께 각각 1개씩 들어간다. 아마 기계 보스를 첫 격파하자마자 클로로파이트를 채굴하는 것을 미연에 방지하기 위해서인듯.
+ 　
+ * attachment:Soul_of_Might.png 힘의 영혼(Soul of Might) {{{#red ⓗ}}} 
+ 하드모드 기계 보스인 파괴자가 떨어뜨리는 영혼. 메가샤크, 빛의 원반 등을 제작할 수 있다.
+ 　
+ * attachment:Soul_of_Fright.png 공포의 영혼(Soul of Fright) {{{#red ⓗ}}} 
+ 하드모드 기계 보스인 스켈레트론 프라임이 떨어뜨리는 영혼. 화염방사기, 넵튠의 조개 등을 제작할 수 있다.
+ 　
+ * attachment:Soul_of_Blight.png 재앙의 영혼(Soul of Blight) attachment:/Console_only.png?width=16px {{{#red ⓗ}}} 
+ 모바일, 콘솔판에서 오크람이 한 번에 20개 정도 떨군다. 콘솔판 전용 무기인 티조나, 톤보리기, 드래곤 갑옷 등을 만드는 데 사용된다.
+ 　
+== 구매품 ==
+ * attachment:/Pink_Thread.png 분홍 실(Pink Thread) 
+ 옷장수가 판매하는 아이템. 작업대에서 에스키모 의상을 분홍색으로 바꿀 수 있다.
+ 　
+ * attachment:/Black_Thread.png 검정 실(Black Thread) 
+ 옷장수가 판매하는 아이템. 턱시도 제작 재료이다.
+ 　
+ * attachment:Illegal_Gun_Parts.png 불법 총기 부품(Illegal Gun Parts) 
+ 밤일 때 총포상에게 금화 25개로 구입할 수 있다. 모래총, 메가샤크, 화염방사기의 재료로 사용된다.
+ 　
+ * attachment:Spell_Tome.png 주문 마법서(Spell Tome) {{{#red ⓗ}}} 
+ 마법사에게 금화 5개로 구입할 수 있다. 하드모드의 마법서를 만드는 재료로 사용된다.
+ 　
+ * attachment:Bell.png 종(Bell) {{{#red ⓗ}}} 
+ 마법사에게 금화 1개로 구입할 수 있다. 요정의 종을 만드는 재료로 사용된다. 마우스로 클릭하면 종소리가 나는 특징을 가지고 있다.
+ 　
+ * attachment:Harp.png 하프(Harp) {{{#red ⓗ}}} 
+ 마법사에게 금화 1개로 구입할 수 있다. 마법의 하프를 만드는 재료로 사용된다. 마우스로 클릭하면 소리가 난다. 거리에 따라 달라지므로 연주가 가능하다.
+ 　
+ * attachment:/Empty_Bullet.png 빈 총알(Empty Bullet) {{{#red ⓗ}}} 
+ 월드가 하드모드가 될 경우 총포상이 판매한다. 다른 NPC들에게 구매할 수 있는 전용 재료와 함께 작업대에서 조합하여 각각 특성이 다른 6가지의 총알을 만들 수 있다.
+ 　
+ * attachment:/Cog.png 톱니(Cog) {{{#red ⓗ}}} 
+ 기계 보스를 파괴하면 오는 스팀펑커에게 개당 은화 7닢으로 구매할 수 있다. 빈 총알과 조합하여 고속 총알을 만들 수 있으며 스팀펑크 보일러에서 스팀펑크 가구들을 제작할 수 있다. 블록으로도 활용할 수 있다.
+ 　
+ * attachment:/Confetti.png 색종이 조각(Confetti) {{{#red ⓗ}}} 
+ 월드가 하드모드가 될 경우 파티 걸이 개당 은화 1닢에 판매한다.  빈 총알과 조합하여 파티용 총알을 만들 수 있으며 파티의 플라스크를 제작할 수 있다.
+ 　
+ * attachment:/Nanites.png 나나이트(Nanites) {{{#red ⓗ}}} 
+ 플랜테라를 잡으면 오는 사이보그에게 개당 은화 10닢으로 구매할 수 있다. 빈 총알과 조합하여 나노 총알을 만들 수 있으며 나나이트의 플라스크를 제작할 수 있다.
+ 　
+ * attachment:/Explosive_Powder.png 폭약(Explosive Powder) {{{#red ⓗ}}} 
+ 월드가 하드모드가 될 경우 폭파 전문가가 개당 은화 12닢에 판매한다. 빈 총알과 조합하여 폭발형 총알을 만들 수 있으며 다른 용도는 없다.
+ 　
+ * attachment:/Gold_Dust.png 금가루(Gold Dust) {{{#red ⓗ}}} 
+ 월드가 하드모드가 될 경우 상인이 개당 은화 17닢에 판매한다. 빈 총알과 조합하여 금빛 총알을 만들 수 있으며 금의 플라스크를 제작할 수 있다.
+ 　
+ * attachment:/Vial_of_Venom.png 맹독의 물약(Vial of Venom) {{{#red ⓗ}}} 
+ 플렌테라를 격파 후, 주술사가 개당 은화 10닢에 판매한다. 맹독 총알/화살과 맹독의 플라스크를 제작할 수 있다.
+ 　
+== 날개 제작 재료 ==
+장신구 종류 중 하나인 날개를 만들기 위한 재료이며, 미스릴/오리칼쿰 모루에서 비행의 영혼 20개와 합쳐 [[테라리아/장비#s-2.1.1|날개]]를 제작할 수 있다.
+
+ * attachment:/Giant_Harpy_Feather.png 거대한 하피의 깃털(Giant Harpy Feather) 
+ 하늘섬의 하피가 떨어뜨리는 재료. 하피의 날개를 제작할 수 있다.
+ 　
+ * attachment:/Ice_Feather.png 얼음 깃털(Ice Feather) {{{#red ⓗ}}} 
+ 눈이 올 때 하드모드 설원에서 나타는 아이스 골렘이 1/3 확률로 떨어뜨리는 재료. 얼어붙은 날개를 제작할 수 있다.
+ 　
+ * attachment:/Fire_Feather.png 화염 깃털(Fire Feather) {{{#red ⓗ}}} 
+ 하드모드 지옥의 붉은 악마가 1.33% 확률로 떨어뜨리는 재료. 화염의 날개를 제작할 수 있다.
+ 　
+ * attachment:/Bone_Feather.png 뼈 깃털(Bone Feather) {{{#red ⓗ}}} 
+ 하드모드 던전 몬스터가 0.22% 확률로 떨어뜨리는 재료. 뼈 날개를 제작할 수 있다.
+ 　
+ * attachment:/Tattered_Bee_Wing.png 망가진 벌의 날개(Tattered Bee Wing) {{{#red ⓗ}}} 
+ 하드모드 정글 지하의 이끼 말벌이 0.67% 확률로 떨어뜨리는 재료. 벌의 날개를 제작할 수 있다.
+ 　
+ * attachment:/Butterfly_Dust.png 나비의 가루(Butterfly Dust) {{{#red ⓗ}}} 
+ 하드모드 정글 지하의 레어 몬스터 나방이 절반의 확률로 떨어뜨리는 재료. 나비의 날개를 제작할 수 있다.
+ 　
+ * attachment:/Broken_Bat_Wing.png 부서진 박쥐의 날개(Broken Bat Wing) {{{#red ⓗ}}} 
+ 일식 이벤트 몬스터 흡혈귀가 2.5% 확률로 떨어뜨리는 재료. 박쥐의 날개를 제작할 수 있다.
+ 　
+ * attachment:/Spooky_Twig.png 으스스한 잔가지(Spooky Twig) {{{#red ⓗ}}} 
+ 펌킨 문 이벤트의 탄식하는 나무가 떨어뜨리는 재료. 으스스한 날개를 제작할 수 있다.
+ 　
+ * attachment:/Black_Fairy_Dust.png 흑요정의 가루(Black Fairy Dust) {{{#red ⓗ}}} 
+ 펌킨 문 이벤트의 펌킹이 떨어뜨리는 재료. 망가진 요정의 날개를 제작할 수 있다.
+ 　
+== 염료 제작 재료 ==
+장비 아이템인 염료를 만들기 위한 재료이다. 염료장에서 각 색깔에 맞는 염료를 제작할 수 있다. 채집해 얻는 재료라면 다시 설치할 수도 있다.
+
+ * attachment:/Red_Husk.png 빨간색 겉껍질(Red Husk) 
+ 동굴에서 가끔 나타나는 코치닐 딱정벌레에게서 획득할 수 있다. 빨간색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Orange_Bloodroot.png 주황 혈근초(Orange Bloodroot) 
+ attachment:OrangeBloodroot.png
+ 지하의 흙 천장에 위의 사진처럼 붙어있는 식물을 곡괭이로 채집하면 획득할 수 있다. 주황색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Yellow_Marigold.png 노란 홍황초(Yellow Marigold) 
+ attachment:YellowMarigold.png
+ 숲이나 할로우에서 위의 사진처럼 생긴 꽃을 곡괭이로 채집하면 획득할 수 있다. 노란색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Lime_Kelp.png 라임색 해초(Lime Kelp) 
+ attachment:LimeKelp(1).png
+ 설원 지하의 물속에서 자라나는 해초를 곡괭이로 채집하면 획득할 수 있다. 라임색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Green_Mushroom.png 초록 버섯(Green Mushroom) 
+ attachment:GreenMushroom.png
+ 동굴에서 발견되는 버섯을 곡괭이로 채집하면 획득할 수 있다. 초록색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Teal_Mushroom.png 암록색 버섯(Teal Mushroom) 
+ attachment:TealMushroom.png
+ 지하에서 위의 사진처럼 생긴 버섯을 곡괭이로 채집하면 획득할 수 있다. 암록색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Cyan_Husk.png 청록색 겉껍질(Cyan Husk) 
+ 설원 지하에서 가끔 나타나는 청록색 딱정벌레에게서 획득할 수 있다. 청록색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Sky_Blue_Flower.png 하늘색 꽃(Sky Blue Flower) 
+ attachment:SkyBlueFlower.png
+ 정글과 정글 지하에서 위의 사진처럼 생긴 꽃을 곡괭이로 채집하면 획득할 수 있다. 하늘색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Blue_Berries.png 블루베리(Blue Berries) 
+ attachment:BlueBerries.png
+ 숲과 정글에서 위의 사진처럼 생긴 식물을 곡괭이로 채집하면 획득할 수 있다. 파란색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Purple_Mucos.png 자주색 점액(Purple Mucos) 
+ 바다에서 가끔 나타나는 소라에게서 획득할 수 있다. 자주색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Violet_Husk.png 보라색 겉껍질(Violet Husk) 
+ 정글 지하에서 가끔 나타나는 락 딱정벌레에게서 획득할 수 있다. 청자색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Pink_Prickly_Pear.png 분홍 백년초(Pink Prickly Pear) 
+ attachment:PinkPricklyPear.png
+ 선인장의 윗부분에서 자라나는 식물이다. 분홍색 염료를 제작할 수 있다.
+ 　
+ * attachment:/Black_Ink.png 검은 잉크(Black Ink) 
+ 말 그대로 [[먹물]]. 바다에서 가끔 나타나는 오징어에게서 획득할 수 있다. 검은색 염료를 제작할 수 있다.
+ 　
+== 포션 제작 재료 ==
+ * attachment:Mushroom.png 버섯(Mushroom) 
+ 지면의 잔디에 무작위로 생성되며, 사용 시 체력을 15씩 회복한다. 연금술 작업대에서 소형 치유 포션을 만드는 중요한 재료이므로 초반에 유용하게 사용된다.
+ 　
+ * attachment:Bottle.png 유리병(Bottle) 
+ 화로에서 유리 1개로 만들어지는 아이템이다. 가구 위 혹은 플랫폼에 설치할 수 있으며 연금술 작업대가 된다. 물과 꿀에서 각각 물병, 꿀병을 제작할 수 있다.
+ 　
+ * attachment:Bottled_Water.png 물병(Bottled Water) 
+ 물 근처에서 유리병 1개로 만들 수 있다. 대부분 모든 [[테라리아/소모품#s-2.2|버프 포션]]의 재료로 들어간다.
+ 일반 유리병과 달리 장식으로 배치할 수 없으며, 사용 시 체력을 회복하나 유리병은 반환하지 않는다.
+ 　
+ * attachment:Bowl.png attachment:Dynasty_Bowl.png attachment:Glass_Bowl.png 그릇(Bowl) 
+ attachment:Fancy_Dishes.png 고급 접시(Fancy Dishes) 
+ 수프를 만드는 데 쓰이는 재료이다. 그릇은 화로에서 점토 혹은 유리 2개로 제작한다. 작업대에서 동양식 나무 2개로도 제작 가능.
+ 고급 접시는 떠돌이 상인이 랜덤으로 판매하는 아이템으로, 개당 은화 20닢에 구입할 수 있다.
+ 　
+ * attachment:Mug.png 머그잔(Mug) 
+ 맥주를 만드는 데 쓰이는 재료이다. 화로에서 유리 1개로 제작한다.
+ 　
+ * attachment:/Marshmallow_on_a_Stick.png 마시멜로 꼬챙이(Marshmallow on a Stick)
+ 손에서 마시멜로 1개, 나무 1개로 제작. 모닥불에 왼쪽 마우스로 올려놓고 일정 시간이 지나면 구워진 마시멜로를 획득할 수 있다.
+ 　
+  * attachment:/Marshmallow.png 마시멜로(Marshmallow) 
+  설원의 집에 거주하는 상인에게 구입할 수 있다. 마시멜로 꼬챙이를 만드는 재료로 사용된다. 
+  　
+=== 허브 ===
+[[허브#s-1|허브]]는 다양한 효과를 가진 [[테라리아/소모품#s-2.2|버프 포션]]을 만들기 위한 재료로 사용된다. 월드 전역에 걸쳐서 발견되며 모든 [[테라리아/무기|무기]] 및 [[테라리아/도구|도구]]로 휘두르면 쉽게 채취할 수 있다. 특정 요구 사항을 충족할 경우, 결과적으로 개화를 하며 이때 채취할 경우 1~3개의 허브 씨앗을 떨어뜨리며 이 씨앗으로 재배가 가능하다. 테라리아에서는 총 7개의 허브가 있다.
+
+허브를 키울 때 몇 가지의 주의사항이 있다.
+
+ * 되도록이면 토분 위에 재배할 것.
+ 토분이 아닌 [[테라리아/블록#s-2|토양]] 위에서 재배할 경우, 도구로 휘둘러서 수확하려 하면 그 도구의 범위만큼 '''허브를 모두 제거해버린다.''' 그러므로 토양 위에서 재배할 경우 무기, 도구를 휘두르지 말고 개화한 허브에 그냥 씨앗을 얹혀놓아야 한다.
+ 토분에 재배할 경우 허공에 휘둘러도 캐지지가 않게 되며, 또한 토양의 조건도 모두 무시하게 되므로 점토가 남아돈다면 토분을 만들어 재배하는 것이 좋다. 토분에 있는 허브는 오로지 [테라리아/도구#s-1.1|곡괭이]로, '''직접 갖다 대서 클릭해야 수확할 수 있다.'''
+ ||<:>attachment:SeedSoilFarm.png?width=220&height=180||<:>attachment:SeedPotFarm.png?width=220&height=180||
+ ||<:>토양을 이용한 허브 재배||<:>토분을 이용한 허브 재배||
+ 　
+ * 씨앗을 마구 심지 말 것.
+ 씨앗 위에 또 씨앗을 심게 되면 아까 씨앗은 파괴되고 새로운 씨앗이 심어지게 된다. 이는 즉, 허브 하나를 날려먹는 셈이 된다. 그러므로 칸을 잘 보고 심어져있는지 확인하고 심어야 한다.
+ 다만, 토분을 사용한다면 이 부분은 무시해도 된다.
+ 　
+ * 개화 조건을 지킬 것.
+ 반짝이꽃 외에는 개화 조건이 있다. 이 조건을 잘 만족해야만 허브가 개화를 하여 수확 시 씨앗도 함께 얻을 수 있다. 개화 조건은 아래 목록 참고. 
+ ||<rowbgcolor=#D5D5D5> 허브 || 자라는 장소 || 재배 가능 블록 || 개화 조건 ||
+ ||attachment:Blinkroot.png 반짝이꽃||지하||흙, 진흙||반짝일 때||
+ ||attachment:Daybloom.png 해맞이꽃||지상||잔디, 신성한 잔디||아침에||
+ ||attachment:Deathweed.png 사망초||커럽션[[br]]크림슨||칠흑석, 오염된 잔디[[br]]심홍석, 크림슨 잔디||블러드 문에||
+ ||attachment:Fireblossom.png 화염초||지옥||재||용암 속에||
+ ||attachment:Moonglow.png 달맞이꽃||정글, 정글 지하||정글 잔디||밤에||
+ ||attachment:Waterleaf.png 물방울잎||사막, 바다||모래||비가 올 때||
+ ||attachment:Shiverthorn.png Shiverthorn||설원, 설원 지하||눈, 얼음||긴 성장 시간||
+ 　
+{{{+1 '''목록'''}}}
+----
+ * attachment:Blinkroot.png 반짝이꽃(Blinkroot) 
+ attachment:Blinkroot_Seeds.png 반짝이꽃 씨앗(Blinkroot Seeds)
+ 회색의 줄기에 노란색 꽃을 피운 송이로, 지하의 잔디가 없는 흙 블록이나 진흙 블록에서 자연적으로 성장한다.
+ 개화 조건은 언제든지 개화하며, 이때 노란 작은 꽃이 피어나 약한 빛과 함께 반짝인다. 개화한 반짝이꽃을 수확하면 반짝이꽃 1개와 반짝이꽃 씨앗 1~3개를 떨어뜨린다. 허브 중 가장 빠른 성장 속도를 가져 많은 수확이 가능하다. ~~하지만 그만큼 쓸모가 없다.~~
+ 　
+ * attachment:Daybloom.png 해맞이꽃(Daybloom) 
+ attachment:Daybloom_Seeds.png 해맞이꽃 씨앗(Daybloom Seeds)
+ 직선 줄기를 가진 작은 노란 꽃으로 나타나며, 지상의 잔디에서 자연적으로 성장한다.
+ 개화 조건은 낮일 경우 개화하며, 이때 노란 꽃이 피어난다. 개화한 해맞이꽃을 수확하면 해맞이꽃 1개와 해맞이꽃 씨앗 1~3개를 떨어뜨린다. 아침에만 성장을 하는 허브이므로 유리로 농장을 만들어주면 진짜 빛을 받아 피는 것처럼 보인다.[* 사실 허브는 폐쇄된 공간에서도 조건만 갖춰준다면 아주 잘 자란다. 지하에 키워도 허브는 잘 자란다는 것.]
+ 　
+ * attachment:Deathweed.png 사망초(Deathweed) 
+ attachment:Deathweed_Seeds.png 사망초 씨앗(Deathweed Seeds)
+ 병약해보이는 보라색 줄기에 짧은 두 줄기로 나뉘어진 채 죽은 듯한 초록색 꽃이 피어있는 모습으로 나타나며, 커럽션에서 자연적으로 성장한다. 1.2 이후 크림슨에서도 자라나는데, 붉은색 계통의 크림슨 지형과 어울리지 않아서 조금 어색한 감이 있다.
+ 개화 조건은 블러드 문일 경우 개화하며, 이때 죽은 듯한 초록색 꽃이 피어난다. 개화한 사망초를 수확하면 사망초 1개와 사망초 씨앗 1~3개를 떨어뜨린다. 오로지 블러드 문에만 나타나므로, 성장 속도와는 관계없이 수확하는 날이 운에 좌우된다. 블러드 문은 그믐달 이외에 1/9 확률로 나타나는 이벤트이기 때문. 만약, 며칠이 지나도 블러드 문이 안 나타난다면 사망초 재배는 불가능해진다. 그나마 얻을 수 있는 방법이 하나 있는데 그 방법은 '''커럽션에 가서 직접 캐오는 것'''이다. 2단계까지 자라면 씨앗은 못 얻지만 허브는 얻을 수 있으므로 자연 성장을 이용한 재배가 가능하다.
+ 　
+ * attachment:Fireblossom.png 화염초(Fireblossom) 
+ attachment:Fireblossom_Seeds.png 화염초 씨앗(Fireblossom Seeds)
+ 크기가 작고 용암의 색상의 꽃으로 나타나며, 지옥의 재 블록에서 자연적으로 성장한다.
+ 개화 조건은 용암에 잠길 경우 개화하며, 이때 붉은 꽃이 피어난다. 개화한 화염초를 수확하면 화염초 1개와 화염초 씨앗 1~3개를 떨어뜨린다. 용암은 어느정도 내려가면 보이지만, 재는 오로지 언더월드에서만 얻을 수 있고 거기다가 개화의 조건이 용암 안에 있는 것이다. 용암은 들어가면 엄청난 피해와 화상을 입는다는걸 생각하면 재배하기가 매우 어려운 허브이다. 하지만 지옥석처럼 용암에 타버리지 않으므로 용암만 조심하면 크게 문제가 되지 않는다. 자연에서 씨앗을 얻으려면 일단 화염초의 좌우를 막은 뒤 헬스톤을 화염초 위에 설치했다가 화염초를 건드리지 않게 조심해서 다시 회수하면 된다.
+ 　
+ * attachment:Moonglow.png 달맞이꽃(Moonglow) 
+ attachment:Moonglow_Seeds.png 달맞이꽃 씨앗(Moonglow Seeds)
+ 늘어져 구부러진 줄기에 끝에 하늘색의 꽃이 나있는 모습으로 나타나며, 정글의 정글 잔디에서 자연적으로 성장한다.
+ 개화 조건은 밤일 경우 개화하며, 이때 하늘색 꽃망울이 피어난다. 개화한 달맞이꽃을 수확하면 달맞이꽃 1개와 달맞이꽃 씨앗 1~3개를 떨어뜨린다. 해맞이꽃와는 반대의 특성을 지닌 허브이다. 성장 속도가 해맞이꽃보다 약간 느리다.
+ 　
+ * attachment:Waterleaf.png 물방울잎(Waterleaf) 
+ attachment:Waterleaf_Seeds.png 물방울잎 씨앗(Waterleaf Seeds)
+ 아주 작고 아쿠아 색상의 새싹과 같이 나타나며, 모래·칠흑/심홍모래·진주모래[* 모래만 있으면 되는 조건이므로 지상, 지하 가리지 않고 자란다. 따라서 지옥에서도 인공적으로 재배가 가능하다.]에서 자연적으로 성장한다.
+ 개화 조건은 비가 올 때 개화하며[* 모바일과 콘솔판에서는 물에 잠길 경우 개화한다.], 이때 아쿠아색의 새싹이 피어난다. 개화한 물방울잎를 수확하면 물방울잎 1개와 물방울잎 씨앗 1~3개를 떨어뜨린다. 하지만 비가 오는 것도 복불복이므로 비가 안 오기 시작하면 계속 안 온다(...).
+ 　
+ * attachment:Shiverthorn.png Shiverthorn 
+ attachment:Shiverthorn_Seeds.png Shiverthorn Seeds
+ 전체적으로 파란 모습에 하얀 가지와 같이 나타나며, 설원의 눈 블록에서 자연적으로 성장한다. PC 1.2.4 버전에서 새로 추가되었다.
+ 패치 초창기에는 눈보라가 불거나 설원 안에서만 개화한다고 알려졌으나 이는 잘못된 정보이다. 허브들 중 개화하는데 가장 긴 시간이 필요하다. 다른 허브들은 2단계 성장 시 성장 조건을 맞춰주면 개화하나. Shiverthorn은 시간이 곧 개화 조건이므로 2→3단계 성장 시간이 가장 길다. 개화한 Shiverthorn을 수확하면 허브 1개와 씨앗 1~3개를 떨어뜨린다.
+ 　
+=== 물고기 ===
+[[테라리아/도구#s-7|낚싯대]]로 낚시하여 얻을 수 있는 아이템들. 지형별·고도별로 낚이는 물고기 종류가 달라진다.
+
+==== 일반 ====
+그냥 희소성 가치가 없는 일반 물고기들. 낚시할 때 쓰레기와 마찬가지로 많이 낚인다. 요리용 솥(요리 냄비)에서 3분짜리 버프 아이템인 익힌 생선을 만들 수 있으며 작업대에서 회로 뜰 수도 있다. 그 외의 용도는 없다.
+
+ * attachment:Bass.png [[배스]](Bass) 
+ 가장 주옥같이 많이 낚이는 생선. 아무 곳에서나 흔하게 발견된다.
+ 　
+ * attachment:Salmon.png [[연어]](Salmon) 
+ 바다에서 발견되는 생선. 아이템 색깔은 파란색이지만 용도는 여타 다른 일반 물고기와 동일.
+ 　
+ * attachment:Atlantic_Cod.png 대서양대구(Atlantic Cod) 
+ 설원에서 발견되는 생선이다.
+ 　
+ * attachment:Trout.png 송어(Trout) 
+ 바다에서 발견되는 흔한 생선이다.
+ 　
+ * attachment:Shrimp.png [[새우]](Shrimp) 
+ 바다에서 발견되는 새우다.
+ 　
+ * attachment:Tuna.png 참다랑어(Tuna) 
+ 바다에서 발견되는 생선이다.
+ 　
+ * attachment:Red_Snapper.png 붉돔(Red Snapper) 
+ 바다에서 발견되는 생선이다.
+ 　
+==== 버프 포션용 ====
+ * attachment:Stinkfish.png 스팅피쉬(Stinkfish) 
+ 지하에서 발견되는 생선이다. 고약함의 포션의 재료로 사용된다.
+ 　
+ * attachment:Armored_Cavefish.png 무장 동굴어(Armored Cavefish) 
+ 동굴에서 낚을 수 있는 생선이다. 인내력 포션의 재료로 사용된다.
+ 　
+ * attachment:Specular_Fish.png 반사 물고기(Specular Fish) 
+ 마찬가지로 동굴에서 발견된다. 귀환 포션의 재료로 사용된다.
+ 　
+ * attachment:Ebonkoi.png 칠흑잉어(Ebonkoi) 
+ 커럽션 전역에서 발견되는 생선이다. 진노(Wrath) 포션의 재료로 사용된다.
+ 　
+ * attachment:Hemopiranha.png 핏빛피라냐(Hemopiranha) 
+ 크림슨 전역에서 발견되는 생선이다. 분노(Rage) 포션의 재료로 사용된다.
+ 　
+ * attachment:Crimson_Tigerfish.png 크림슨 타이거피쉬(Crimson Tigerfish) 
+ 크림슨 전역에서 발견되는 생선이다. 하트 범위 포션의 재료로 사용된다.
+ 　
+ * attachment:Princess_Fish.png 공주 물고기(Princess Fish) {{{#red ⓗ}}} 
+ 할로우 전역에서 발견되는 생선이다. 사랑의 포션의 재료로 사용된다.
+ 　
+ * attachment:Prismite.png 프리즈마이트(Prismite) {{{#red ⓗ}}} 
+ 할로우 전역에서 발견되는 생선이다. 생명력 포션의 재료로 사용된다.
+ 　
+ * attachment:Chaos_Fish.png 혼돈 물고기(Chaos Fish) {{{#red ⓗ}}} 
+ 할로우 지하에서 발견되는 생선이다. 순간 이동 포션의 재료로 사용된다.
+ 　
+ * attachment:Frost_Minnow.png 서리 피라미(Frost Minnow) 
+ 설원 전역에서 발견되는 생선이다. 따뜻함의 포션의 재료로 사용된다.
+ 　
+ * attachment:Double_Cod.png 쌍 대구(Double Cod) 
+ 정글 전역에서 발견되는 생선이다. 탄약 반환 포션의 재료로 사용된다.
+ 　
+ * attachment:Variegated_Lardfish.png 꽃동멸(Variegated Lardfish) 
+ 정글 지하에서 발견되는 생선이다. 소환 포션의 재료로 사용된다.
+ 　
+ * attachment:Damselfish.png 자리돔(Damselfish) 
+ 일정 고도 이상에서 낚을 수 있는 생선. 하늘섬에 물웅덩이를 만들고 거기서 낚시하면 된다. 침착함의 포션의 재료로 사용된다.
+ 　
+ * attachment:Flarefin_Koi.png 화염지느러미 잉어(Flarefin Koi) {{{#red ⓗ}}} 
+ 낚시꾼의 이벤트를 25가지 완수하여 얻을 수 있는 Hotline Fishing Hook으로만 얻을 수 있는 전용 물고기. 용암에서만 낚아진다. 흑요어와 함께 화염 고리 포션의 재료로 사용된다.
+ 　
+ * attachment:Obsidifish.png 흑요어(Obsidifish) {{{#red ⓗ}}} 
+ 마찬가지로 Hotline Fishing Hook을 사용해서 용암에서 낚을 수 있는 물고기. 화염지느러미 잉어와 함께 화염 고리 포션의 재료로 사용된다.
+ 　
+==== 기타 ====
+여기 목록에도 없는 물고기는 퀘스트 전용 물고기이거나 [[테라리아/도구|도구]]나 [[테라리아/무기|무기]](...)로 사용되는 희귀한 물고기이다.
+
+ * attachment:Neon_Tetra.png 네온테트라(Neon Tetra)
+ 정글에서 낚을 수 있는 물고기. 그런데 제작자가 실수로 조합법을 빼먹은건지 용도가 전혀 없는 유일한 물고기이다. 다음 패치 때 추가될 가능성이 있을 수도 있으니 버리진 말아보자. 
+ 　
+ * attachment:Golden_Carp.png 황금 잉어(Golden Carp)
+ 지하에서 희귀하게 낚을 수 있는 물고기. 이걸 NPC에게 판매하면 금화 10닢을 얻을 수 

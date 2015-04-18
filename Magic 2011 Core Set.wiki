@@ -1,0 +1,34 @@
+||||||||||<table align=center>  '''< [[매직 더 개더링/블록|매직 더 개더링의 기본판]] >'''  ||
+||  2009-2010  || ||  2010-2011  || ||  2011-2012  ||
+||  [[Magic 2010 Core Set]]  || → ||  '''Magic 2011 Core Set'''  || → ||  [[매직 2012 코어세트]]  ||
+
+http://www.cardkingdom.com/media/upload/about/M11Logo.jpg
+[[목차]]
+== 개요 ==
+Magic 2011 Core Set
+
+[[매직 더 개더링]]의 12번째 기본판. 줄여서 M11, Magic 2011라고 한다. 
+
+== 특징 ==
+기본판에는 처음으로 항상 나오는 키워드가 아닌 특수한 판본에만 나오던 키워드를 하나씩 선별해서 기본판에 넣기로 결정한다. 이번 판에 선택된 키워드는 점술(Scry).
+
+플레인즈워커를 좀 더 잘 볼 수 있도록 언커먼에 플레인즈워커와 관련된 카드가 두 개씩 들어갔으며 거신 사이클이 처음으로 등장했다. 2 유색마나에 6발비인 미식레어들이며 모두 공통적으로 ETB와 공격시 능력을 발동한다. 여기에 해당하는 카드들은 [[서리 거신]], [[무덤 거신]], [[불바다 거신]], [[태초의 거신]], [[태양 거신]]
+== 룰 변경 ==
+치명타(Deathtouch)관련 룰이 변경된다. 
+
+ 기존 룰: Magic 2010에서 변경된 룰에 의하면 한 생물이 파괴될 정도의 피해를 입힌 다음에야 다른 생물에게 피해를 입힐 수 있었는데 이게 1점만 피해를 입혀도 파괴가 가능한 치명타에는 불리했기 때문에 치명타는 이걸 무시하고 생물들에게 피해 분배가 가능했다. 
+ 예를 들어 4/4 치명타 생물을 1/7, 1/6, 1/5, 1/3 생물 네 개로 막았을 시 일반 생물은 1/3 생물을 파괴할 수 있을 정도인 3점을 분배한 다음에야 1점을 다른 생물에게 분배할 수 있었지만 치명타는 이 룰을 무시하고 각 생물한테 1점씩 분배할 수 있었던 것.
+ (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+
+ 바뀐 룰: 치명타는 파괴를 할 정도의 피해를 주지 않아도 분배가 가능하단 룰이 사라진다. 대신에 '''치명타를 가진 원천은 1점의 피해를 입혀도 파괴하기 충분하다'''는 룰이 새로 생긴다. 
+ 즉, 위와 같은 예제의 경우 원래의 경우라면 관련 규칙을 치명타가 무시해서 분배가 가능했지만 이제는 1점만으로도 파괴가 가능하기에 1점만 주고 다른 생물로 넘어갈 수 있는 것. 또한 이 룰 변경으로 인해 치명타+돌진을 가진 생물은 방어자당 1점씩만 피해를 분배해도 본체에 나머지 피해를 입힐 수 있으므로 더 강력해졌다.
+ (Any amount of damage this deals to a creature is enough to destroy it.)
+|| http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189880&type=card?.png || http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207333&type=card?.png ||
+
+== 마케팅 ==
+[[마법사의 제자#s-2]]와 [[콜라보]]를 해서 부스터 안에 들어있는 광고카드 하나에는 이 영화의 광고가 실려있기도 했고 드레이크는 매직과 관련 있는 놈이라고 한다. 따로 플레인즈워커 [[http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/arcana/491 카드도 만들어줬을 정도]]
+http://media.wizards.com/images/magic/daily/arcana/491_ds5_jkvgpw3ent.jpg
+~~이딴데 [[플레인즈워커]] 슬롯 낭비하지 마~~
+== 트리비아 ==
+ * 박스 프로모는 [[낙원의 새]], 프리릴리즈 프로모는 [[태양 거신]]이었다.
+

@@ -1,0 +1,77 @@
+http://cevio.jp/wp-content/themes/CeVIO4/images/logo.png
+[[http://cevio.jp 공식 사이트]]
+[[https://twitter.com/CeVIO_st 공식 트위터]]
+
+[[목차]]
+== 개요 ==
+"CeVIO (체비오)"는 나고야공업대학의 학내 벤처기업 "테크노 스피치"가 UGC (User Generated Contents = 사용자 생성 콘텐츠)를 지원하기 위해 만들어진 새로운 프로젝트다.
+
+CeVIO는 Voice의 [[아나그램]]이다.
+
+2014년 4월 26일 60만 다운로드를 돌파했다.
+== CeVIO Vision ==
+2013년 [[1월 22일]]부터 [[애니메이트]] [[아키하바라]]점에서 운영하고 있는 전자 간판이다. 캐릭터 "사토 사사라"가 손님 과 감정을 섞어 대화하며 신상품등을 소개한다.
+== CeVIO Creative Studio ==
+http://cevio.jp/wp-content/uploads/2013/06/cvio-001.jpg
+CeVIO Vision의 대화기술을 사용하여 만든 음성합성 소프트웨어. 음성합성뿐만이 아니라 노래도 부르게 할 수 있다.
+
+[["소프토크" 다른]] [["VOICEROID" 음성합성]] 소프트웨어들에 비해 감정을 표현 하기가 매우 쉬워졌는데, 토크 트랙의 "활발", "분노", "슬픔"등의 감정을 나타내는 슬라이드바를 직접 움직여 쉽게 감정 표현을 만들수 있다. 하지만 송 트랙에서는 감정조절기능이 없다.
+
+정품은 2013년 [[9월 26일]]에 출시됐다. 토크 트랙의 캐릭터가 2명[* 남자 1명, 여자1명]추가 되어 토크 트랙은 여자 2명, 남자1명이 되고 송 트랙은 여자1명이 된다.
+=== CeVIO Creative Studio FREE ===
+CeVIO Creative Studio의 무료버전. 2013년 [[4월 26일]]에 음성합성기능(토크 트랙)만 있는 상태에서 무료 다운로드 배포 되었으며, 2013년 [[6월 13일]]에 송 트랙이 추가 되었다. [[http://cevio.jp/downloads/ 다운로드 링크]]
+== 토크 트랙 ==
+=== 사토 사사라 ===
+http://cevio.jp/images/chara/sato_sasara.jpg
+||<tablealign=right><#F5DEB3> 이름 || 사토 사사라 (さとうささら) ||
+||<#F5DEB3> 키 ||  160cm에 약간 못 미치는 정도 ||
+||<#F5DEB3> 나이 || 16세('''자칭''') ||
+||<#F5DEB3> 생일 || [[1월 22일]][* CeVIO Vision이 가동된 날이다.] ||
+||<#F5DEB3> 출신지 || [[도쿄]] ||
+||<#F5DEB3> 좋아하는 음식 || 몬자야키 ||
+모니터의 전원을 넣었더니 거기에 있었다, 매우 평범한 소녀.
+밝고 낙천적이지만 [["도지코" 덜렁거림이 멈추지 않는다.]][* 프로필 아래쪽의 문구]
+
+[[보이스로이드]]나 [[소프토크]]처럼 사사라를 이용한 실황이 --매우--조금씩 투고되고 있다.[[http://www.nicovideo.jp/watch/sm21411072 1]][[http://www.nicovideo.jp/watch/sm21007724 2]]
+==== 사사구레 ====
+[[HTML(<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm20713177"></script></object>)]]
+사사라의 파생 캐릭터. [[니코동]]에 개시된 영상에서 유래됐다. [[http://nico.ms/sm20955841 MMD모델도 있다!]]
+=== 스즈키 츠즈미 ===
+http://cevio.jp/images/chara/suzuki_tudumi.jpg
+||<tablealign=right><#6699CC> 이름 || 스즈키 츠즈미 (すずきつづみ) ||
+||<#6699CC> 키 ||  160cm정도 ||
+||<#6699CC> 나이 || 17세 ||
+||<#6699CC> 생일 || 비밀 ||
+||<#6699CC> 출신지 || [[가나가와]] ||
+||<#6699CC> 좋아하는 음식 || 중화만두, 구즈모찌 ||
+[[숏컷]]이 어울리는, 조금 점잖은 여자아이.
+차분하며 무엇이든지 실수 없이 처리하다.
+
+트위터에 의하면 소설읽기를 좋아하고 사사라의 친구인듯하다.
+
+[[니코동]]에서는 주로 사사라와 [[http://www.nicovideo.jp/watch/sm22357132 함께 실황을 하거나]] [["백합" 엮이거나한다.]]
+=== 타카하시 ===
+http://cevio.jp/images/chara/takahashi_profile1.jpg
+||<tablealign=right><#D3D3D3> 이름 || 타카하시 (タカハシ) ||
+||<#D3D3D3> 키 ||  182cm ||
+||<#D3D3D3> 나이 || 20세 ||
+||<#D3D3D3> 생일 || [[9월 26일]] ||
+||<#D3D3D3> 출신지 || [[사이타마]] ||
+||<#D3D3D3> 좋아하는 음식 || 라면, 소가센베이 ||
+사사라에게 있어서 동네 오빠같은 존재.
+곤란해하고 있으면 도와주거나, 과자를 주거나 한다.
+사이는 나쁘지 않지만, 아직 이름을 모른다.
+
+--CeVIO자체의 인지도도 낮은데 [[인남캐]]인 타카하시의 존재감은...--
+== 송 트랙 ==
+=== 사토 사사라 ===
+http://img2.wikia.nocookie.net/__cb20130801190706/vocaloid/images/thumb/6/6a/CeVIO_Song.png/626px-CeVIO_Song.png
+--[["VOCALOID" 이]] [["UTAU" 분야]]가 다 그렇긴 하지만-- 조교에따라 매우 자연스러운 목소리로 노래하게 하는 것이 가능하다.
+[[HTML(<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm22069149"></script></object>)]]
+[[http://www.nicovideo.jp/watch/sm22069149 니코동 링크]]
+== 관련 항목 ==
+ * [[UTAU]]
+ * [[VOCALOID]]
+ * [[VOICEROID]]
+ * [[소프토크]]
+ * [[보이스웨어]]

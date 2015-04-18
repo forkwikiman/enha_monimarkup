@@ -1,0 +1,5 @@
+||<tablealign=center><-4><#ffffff><:>[wiki:"메이저리그" <span style="font-weight:bold;color:#00004e">MLB</span>] [wiki:"내셔널리그" <span style="font-weight:bold;color:#00004e">내셔널리그</span>] ||
+||<-4><:><#0000cc> [[틀:내셔널리그 중부지구|<span style="font-weight:bold;color:#ffffff">◀</span>]] '''{{{#ffffff 동부지구 소속구단}}}''' ||
+||<width=12%><#ffffff><:> attachment:/Braves_1.png ||<width=21.3%><#DCDCDC><:> [[애틀랜타 브레이브스]] [[br]] (Atlanta Braves) ||<width=12%><#ffffff><:> attachment:/Marlins_1.png ||<width=21.3%><#DCDCDC><:> [[마이애미 말린스]] [[br]] (Miami Marlins) ||
+||<width=12%><#ffffff><:> attachment:/Mets_1.png ||<width=21.4%><:><#DCDCDC> [[뉴욕 메츠]] [[br]] (New York Mets) ||<#ffffff><:> attachment:/Nationals_1.png ||<#DCDCDC><:> [[워싱턴 내셔널스]] [[br]] (Washington Nationals) ||
+||<#ffffff><:> attachment:/Phillies_1.png  ||<#DCDCDC><:> [[필라델피아 필리스]] [[br]] (Philadelphia Phillies) ||||||

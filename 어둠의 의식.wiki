@@ -1,0 +1,53 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Dark Ritual''' ||<width=226px><|5>http://www.cardkingdom.com/media/images/products/standard/191100_1.jpg||
+|| '''한글판 명칭''' || '''어둠의 의식''' ||
+|| '''마나비용''' || {B} ||
+|| '''유형''' || 순간마법 ||
+||||<height=191px> {B}{B}{B}를 당신의 마나풀에 담는다. ||
+
+한때 [[테러]]와 함께 흑색을 대표했던 카드. 이것만 있으면 초반에도 강력한 생물을 소환하거나 중반에 고비용 생물을 소환하는것이 가능했다(첫 턴 [[최면 스펙터]]라든지). 거기다가 커먼이라서 구하기도 쉽다. "흑색이라면 닥치고 4장"이 가능했던 몇 안되는 카드중 하나.[* 그외로 강력한 희생 디나이얼인 [[극악한 칙명]]이라든가, 비생물 [[한데스]]인 [[구속]]이 있었다.] 
+
+여러가지로 [[흠좀무]]한 카드. 6th Edition부터 빠졌는데 이 때 흑색 유저들의 불평이 대단했다. 그래서인지 Mercadian Masques에서 다시 나왔다가 결국 이후로 정식 세트에선 절판되었다.
+다만 다행히도 '''재판금지 카드([[Reserved Cards]])에는 들어가지 않았기 때문에''' 특별 판본인 듀얼 덱이나 플레인체이스 세트를 통해 모던 사양으로 나올 수 있었으며, 덕분에 필요하다면 구하는 것 자체는 그리 어렵지 않다.
+
+심지어 한때 익스텐디드에서 금지카드였던 적도 있었다. 커먼인데도 금지먹은 몇안되는 카드중 하나. 한때 [[원턴 킬]]의 대표적인 원흉이 되었기 때문이 아닐까 한다.
+
+변형으로 Odyssey 블럭의 Torment에 나왔던 Cabal Ritual(이쪽은 1B로 BBB를 생산하지만 Threshold 능력이 있어서 자기 무덤에 7장 이상의 카드가 있을때는 1B로 BBBBB를 생산하게 된다)과, 적색버전인 [[Seething Song]], [[Geosurge]], [[Infernal Plunge]] 등이 있다. 이젠 이런 1턴용 마나뻥튀기는 적색의 상징으로 자리잡은 듯.
+
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Limited Edition(Alpha) || 코어세트 || 커먼 ||
+|| Limited Edition(Beta) || 코어세트 || 커먼 ||
+|| Unlimited Edition || 코어세트 || 커먼 ||
+|| Revised Edition || 코어세트 || 커먼 ||
+|| 4th Edition || 코어세트 || 커먼 ||
+|| Ice Age || Ice Age || 커먼 ||
+|| Mirage || Mirage || 커먼 ||
+|| 5th Edition || 코어세트 || 커먼 ||
+|| Tempest || Tempest || 커먼 ||
+|| Urza's Saga || Urza's || 커먼 ||
+|| Mercadian Masques || Masques || 커먼 ||
+|| Planechase || 없음 || 커먼 ||
+|| Dual Decks: Divine vs. Demonic || 없음 || 커먼 ||
+|| Dual Decks: Phyrexia vs. The Coalition || 없음 || 커먼 ||
+|| [[From the Vault: Twenty]] || 없음 || 미식레어 ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+||<|5><:> 블럭컨스 || Ice Age 블럭 || 사용가능 ||
+|| Mirage 블럭 || 사용가능 ||
+|| Tempest 블럭 || 사용가능 ||
+|| Urza's 블럭 || 사용가능 ||
+|| Masques 블럭 || 사용가능 ||
+|| 레가시 |||| 사용가능 ||
+|| 빈티지 |||| 사용가능 ||
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''배경담''' ||
+|| Ice Age || ''"Leshrac, my liege, grant me the power I am due." —Lim-Dûl, the Necromancer'' ||
+|| Mirage || ''"The ceremony ended with a voice from the shadows, a voice with vast, ominous power." —Kifimbo, Shadow Guildmage'' ||
+|| Tempest || ''"아무리 많아도 모자라지 않는 것이 바로 힘이라네." -볼라스'' ||
+|| Urza's Saga || ''[wiki:"빛이 있으라" "혼돈 속에서 피렉시아가 생겨났다. 존귀하신 야그모스, 모든 기계의 아버지께서 피렉시아의 형상을 보고 만족해 하셨다. 이로써 위대한 진화가 시작되었다."] -[wiki:"성경" 피렉시아의 경전]'' ||
+|| Mercadian Masques || ''"Eye of twilight, give us sight. Take our offer, give us might. Make our power tears of night."'' ||

@@ -1,0 +1,24 @@
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/K0MRIsrK_Wo&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/K0MRIsrK_Wo&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+3버전.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/dJnhP8bqvQM&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dJnhP8bqvQM&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+7&XX버전.
+
+[[메탈슬러그 시리즈]] 배경음악이며, 주로 [[알렌 오닐|알렌]] & [[모덴 원수|모덴]] VS 전에서 많이 나온다. [메탈슬러그 퍼스트 미션]와 [메탈슬러그 세컨드 미션|세컨드 미션]에서는 [슬러그 플라이어]로 진행하는 미션에 쓰인다. 음악 자체가 긴장감과 장렬한 분위기를 나타내며, [[Final Attack]]과 함께 [[메탈슬러그 시리즈]] 구작(3까지)에서 빠지지 않는 명곡이다. 7에서는 더욱 빠른 템포로 리메이크 되어 돌아와 속도감까지 더해주었다.
+
+이하 출현미션
+
+[[메탈슬러그]] : M2 보스전, M3, MF 후반 & 최종보스전
+[[메탈슬러그2]] : M3 보스전, MF 초반
+[[메탈슬러그X]] : M3 보스전, MF 초반
+[메탈슬러그 퍼스트 미션] : M0 슬러그 플라이어와 낙하 부분, M1, M10(보스전 제외)
+[[메탈슬러그3]] : M3 분기 오스트릿치 슬러그 루트, MF 중간보스전 [[하이도]]
+[메탈슬러그 세컨드 미션] : M1 슬러그 플라이어 부분, M2, M7, M21, M22, M35(보스전 제외)
+[[메탈슬러그7]] : M6 보스전
+[[메탈슬러그XX]] : M6 보스전
+[http://m.youtube.com/watch?v=WdhTucB_n6k 메탈슬러그 파이터즈] : M7와 MF를 제외한 모든 보스전
+[[메탈슬러그 어드밴스]] : 던전 미션(Dungeon Mission)

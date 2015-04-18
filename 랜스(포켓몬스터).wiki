@@ -1,0 +1,91 @@
+||<-5><#505050><tablealign=center> '''프로필''' ||
+||<|12> attachment:/HeartGold_SoulSilver_Proton.png?align=center&width=215 ||
+||<#505050> '''이름''' ||<#d2d2d2> 랜스 ||
+||<#505050> '''성별''' ||<#d2d2d2> [[남성]] ||
+||<#505050> '''눈 색깔''' ||<#d2d2d2> [wiki:"눈/회색" 청회색] ||
+||<#505050> '''머리 색깔''' ||<#d2d2d2> [wiki:"머리카락/녹색" 청록색] ||
+||<#505050> '''트레이너 계급''' ||<#d2d2d2> 로켓단 간부 ||
+||<#505050> '''지방''' ||<#d2d2d2> [[성도지방]] ||
+||<#505050> '''출신지''' ||<#d2d2d2> 불명 ||
+||<#505050> '''가족관계''' ||<#d2d2d2> 불명 ||
+||<#505050> '''데뷔작''' ||<#d2d2d2> [[포켓몬스터 금·은]] ||
+||<#505050> '''세대''' ||<#d2d2d2> 2, 4 ||
+||<#505050> '''등장 게임''' ||<#d2d2d2> [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/악의 조직)]]
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물.
+
+범죄조직 [[로켓단]]의 간부 4인 중 하나. 냉정해보이는 겉모습과는 다르게 부드러운 말투를 사용하는 녹발의 남성으로, 3년 전 [wiki:"레드(포켓몬스터)" 어떤 어린] [wiki:"리프(포켓몬스터)" 트레이너]에게 패배한 후 행방불명된 보스 [wiki:"비주기(포켓몬스터)" 비주기]를 대신하여 간부들과 함께 로켓단을 이끌고 있다. 로켓단 내부에선 인망이 좀 높은 편인지 그를 흠모하는 여성 단원이 존재한다.(반대쪽 유리창에서 계속 바라보고 있다)
+
+== 작중 행적 ==
+[[고동마을]] 야돈우물에서 처음 모습을 드러낸다. 로켓단 단원들을 이끌고 우물을 점거해 이곳에 서식 중인 [wiki:"야도란" 야돈]의 꼬리를 잘라 팔아 돈을 벌어들일 음모를 꾸미고 있었으나 주인공의 방해로 계획이 물거품이 되자 우물을 버리고 순순히 물러난다. 이후 어딘가에서 은거 중일 보스 비주기에게 로켓단의 완전 부활을 알리기 위한 수단으로 [[금빛시티]]의 라디오 타워를 습격하여 다른 간부들과 함께 계획을 진행하지만 이 마저도 주인공에 의해 틀어져 버렸고, 결국 라디오 타워 전망대에서 간부들의 대표격인 [wiki:"아폴로(포켓몬스터)" 아폴로]까지 주인공에게 패배하자 모습을 감춘다.
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed> * 로켓단의 테마
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile4.uf.tistory.com/media/2421D64F52177E892E14B1"></object>
+}}}
+
+ * 라디오탑 점거!
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile8.uf.tistory.com/media/241ED14B52815C6D251A2E"></object>
+}}}
+
+ * 전투! 로켓단
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile10.uf.tistory.com/media/2659E04F52177E8D17C172"></object>}}}||
+
+=== 기타 ===
+ * 본래 4세대 포켓몬스터 하트골드·소울실버에서 등장한 로켓단 간부 캐릭터 네 명의 원형은 [[포켓몬스터 금·은]]을 비롯한 2세대 시리즈에서 나온 바 있는 이름없는 양산형 로켓단 간부 NPC들이다. 하트골드·소울실버로 리메이크되며 금·은에서의 남성 간부 캐릭터의 역할을 랜스, 람다, 아폴로가 이어받고 여성 간부 캐릭터의 역할을 아테나가 이어받은 것.
+
+=== 삽화 ===
+||<-4><tablealign=center><#505050> {{{#ffffff 스프라이트}}} ||
+|| attachment:/Spr_GS_Rocket_Executive_M.png || attachment:/Spr_HGSS_Proton.png || attachment:/VSProton.png || attachment:/Proton_OD.png ||
+|| 트레이너[[br]](2세대) || 트레이너[[br]](4세대) || VS || 필드 ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#505050"><:> {{{#ffffff 언어}}} || {{{#ffffff 이름}}} || {{{#ffffff 유래}}} ||
+|| 일본어 || 란스 ランス || 미사일의 명칭인 [wiki:"랜스#s-3.1" MGM-52 랜스]. ||
+|| 한국어 || 랜스 || 일칭과 동일. ||
+|| 영어 || 프로톤 Proton ||  ||
+
+영어 명칭이 바뀔 수 밖에 없었던 이유가 있는데, Lance라는 이름이 '''[[목호|이미 다른 누군가의 이름]]'''으로 쓰였기 때문이다(...).
+= 소유 포켓몬 =
+== 1차전 ==
+||<tablealign=center><#993399> attachment:/Spr_4h_041_m.png ||<#993399> attachment:/Spr_4h_109.png ||
+||<rowbgcolor="#dcdcdc"><:> [wiki:"크로뱃" 주뱃] ♂[[br]](Lv.8) || [wiki:"또도가스" 또가스] ♂[[br]](Lv.14) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.8" attachment:/Pokemon_Type_Poison.png]][[wiki:"포켓몬스터/타입/설명#s-2.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.8" attachment:/Pokemon_Type_Poison.png]] ||
+|| __특성__ :[[br]]정신력 || __특성__ :[[br]]부유 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[흡혈]][[br]][[초음파]] || __기술배치__ :[[br]][[독가스]][[br]][[몸통박치기]][[br]][[스모그]][[br]][[연막]] ||
+
+== 2차전 ==
+||<tablealign=center><#993399> attachment:/Spr_4h_042_m.png ||<#993399> attachment:/Spr_4h_110.png ||
+||<rowbgcolor="#dcdcdc"><:> [wiki:"크로뱃" 골뱃] ♂[[br]](Lv.28) || [[또도가스]] ♂[[br]](Lv.33) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.8" attachment:/Pokemon_Type_Poison.png]][[wiki:"포켓몬스터/타입/설명#s-2.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.8" attachment:/Pokemon_Type_Poison.png]] ||
+|| __특성__ :[[br]]정신력 || __특성__ :[[br]]부유 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[이상한빛]][[br]][[날개치기]][[br]][[흡혈]][[br]][[물기]] || __기술배치__ :[[br]][[더블어택]][[br]][[오물공격]][[br]][[연막]][[br]][[스모그]] ||
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 SPECIAL]]에서 ==
+attachment:/Rocket_Executives_Adventures.png?width=300
+
+41권 하트골드·소울실버 편에서 다른 간부들과 함께 첫등장. 잔당들을 끌어모아 새 보스 자리에 오르려던 비주기 친위대의 일원 [[챠크라]]를 처단한다.

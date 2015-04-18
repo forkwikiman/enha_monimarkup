@@ -1,0 +1,54 @@
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Bacardi on the Beach ||
+|| 작곡 |||||||| [[Sonic A.P.E]] ||
+|| 배경 |||||||| [[Siho]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 6th]] ||
+|| BPM |||||||| 123 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}}[* 스트릿 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨]  || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 6}}} || {{{#purple 9}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple 11}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 14}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='d7OTAu7_gzU$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=d7OTAu7_gzU$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=d7OTAu7_gzU$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 6thTRAX ~Self Evolution~]] '''BGA'''
+
+[[EZ2DJ]]의 수록곡. 6th부터 수록되었다.
+
+일단 노래 자체는 좋다는 평이 많다. 시원한 바다를 떠올리게 하는 곡의 분위기와 발랄한 BGA가 주요 포인트.
+
+하지만 6th 수록곡의 단점인 '''재미없는 패턴'''때문에 곡까지 함께 묻혀버린 케이스 중 하나. 특히 슈퍼하드 패턴은 난이도 9에 맞지 않는 '''32비트 스크래치 13연타'''가 중간에 들어있어, 스크래치를 막 돌리지 않으면 게이지를 순식간에 깎고 지나간다. 거기에 후반에 나오는 롱노트 + 노트 + 3연타 페달 부분에서는 어지간한 실력으론 콤보를 끊기 쉬워서 올콤이 까다로운 곡이다.
+
+이는 ''턴테이블 모드에서도 그대로 나온다.'' 하드 및 노말패턴이 BE에 들어서 생겨나게 된다. 하드 패턴에서 --충실한 원작재현-- 역시 초반 32비트 스크래치 등장. 패턴은... --재미없다--
+
+초기 타이틀 화면에는 장르는 물론 작곡자나 BGA 담당까지 안 적혀있었다(...) 언제부턴가 약간의 편집을 거쳐 작곡가와 BGA 담당자는 적혀 있지만 장르는 여전히 표기되지 않고 있다.
+
+이 후 [[EZ2ON]]과 [[Sabin Sound Star]]에 이식.
+
+== 가사 ==
+{{|
+Tonight's the night together feelin' dry
+Wherever you go, whatever you do
+Tonight's the night together feelin' dry
+Will you ever see that my love is true?
+
+This is how I do maybe it's just you
+My mind is goin' lazy
+This is how I do maybe it's just you
+My mind is goin' lazy
+
+Tonight's the night together feelin' dry
+Wherever you go, whatever you do
+Tonight's the night together feelin' dry
+Will you ever see that my love is true?
+|}}

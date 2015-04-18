@@ -1,0 +1,69 @@
+[[목차]]
+[[EZ2AC]]의 수록곡이다.
+== 게임상의 정보 ==
+|| 장르 |||||||| Symphonic Dance ||
+|| 곡명 |||||||| if I couldn't see you again ||
+|| 작곡 |||||||| [[wiki:"KIEN" StaticSphere]] ||
+|| 배경 |||||||| Solm[* 아이캐치에 표시되어있지 않으나, EZ2DJ AE 공식 트위터의 비주얼 제작진 코멘터리에서 확인이 가능하다.] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ AE]] ||
+|| BPM |||||||| 136 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 3}}} || {{{#red 6}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/yO__GW-6vKA?list=PLM8IH5cSCv2wg5ZLBQj6Zm7qXv8ORWd5e" frameborder="0" allowfullscreen></iframe>
+}}}
+BGA
+== 기본 설명 ==
+[[EZ2DJ : AZURE EXPRESSION]]에 추가된 신곡. [[KIEN]]이 StaticSphere라는 명의로 만든 댄스곡이다. 약간 촌스러운 신디사이저 리드와 미디로 찍은 듯한 바이올린 음색이 어우러져서 마치 2000년대 초반 한국 댄스 가요를 듣는 듯한 착각을 불러일으킨다. 약간의 뽕짝끼가 감도는 주 선율도 그런 느낌을 더욱 증대시킨다.
+
+필드 테스트 당시 BGA 하나로 어마어마한 [[충격과 공포]]를 안겨준 곡으로 유명해졌다. [[Drive To You]]가 사용했던 BGA를 그대로 가져와서 썼는데, 문제는 Drive To You에는 그럭저럭 어울리지만 이 곡에는 전혀 안 어울린다는 것. 아이캐치 이미지와는 완벽하게 다른 BGA로 인해 몇 명은 멘탈이 붕괴되는 사태까지 가고 말았다. [http://www.youtube.com/watch?v=Dl7LnvS0nq8 같이 느껴보겠는가?] 다행히도 정식판에서는 작곡가인 KIEN의 요청으로 범용 BGA로 교체되었다.
+
+[[EZ2DJ AEIC]]에선 앨범 재킷에 나왔던 남성과 여성이 등장하는 전용 BGA가 추가되었다. 전쟁터에서 죽어가는 남성이 주마등처럼 여성을 떠올린다는 꽤나 슬픈 내용이다. --여자치고는 어깨가 너무 넓은데..--
+== 패턴 설명 ==
+7 Street mix를 제외하면 신곡 중에서 가장 표기 난이도가 낮은 곡이 이 곡이다. AE 오리지널 당시에는 5키와 7키에는 하드 믹스 채보조차도 없었다. 초보자를 위한 곡 답게 쉬운 채보에 체력 회복에 용이한 롱노트가 많이 배치된 패턴으로 초보자들의 적응을 배려한 채보로 보인다. AEIC에서는 5키에만 하드 믹스가 추가됐다.
+=== 5 Street mix ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/NFHo7_XqyII?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/NFHo7_XqyII?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/irKBmsx64x4" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX
+=== 7 Street mix ===
+=== 10 Club mix ===
+{{{#!HTML
+<embed src="http://www.youtube.com/v/2B3SXmpbcs8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+NM MIX
+=== 14 Space mix ===
+스페이스 믹스에서는 EZ와 HD패턴으로 나뉘어져 있는데 EZ는 Lv.4. 이로써 스페믹에 Lv.4가 2개가 되었다. 이후 EZ2AC : EC에서 [[Withered Heights]] 패턴에서 Lv.4가 하나 더 추가되어 현재로서는 Lv.4는 3개.
+
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/Cy6jWPot97A?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Cy6jWPot97A?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+HD MIX
+
+다만 문제는 Lv.9짜리 하드. 이펙터 롱노트가 계속 이어지는 와중에 1P 스크, 1번 키, 10번 키, 2P 스크가 쉴 새 없이 왔다 갔다 한다. 노트의 형태 자체는 매우 간단하지만 손이 안 따라줘서 못 치는 경우. 처음 하는 사람들에겐 정말 손이 베베꼬이는 장면을 연출할만한 패턴이다. 처음 하는 사람이라면 배속을 낮추고 하던가 위 영상을 미리 한번 보고 해보는 걸 권한다. --자막은 신경쓰지 말고--
+=== EZ2CATCH ===
+
+{{{#!HTML
+<iframe title='if i couldn't see you again' width='482px' height='390px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=v783fWk2KW27kW2Na2taInD&play_loc=undefined&alert=true' frameborder='0' scrolling='no' ></iframe>
+}}}
+NM MIX Lv.4
+
+AE에서 추가된 곡 중 난이도가 제일 낮은 곡으로[* AE IC에서도 4레벨 패턴이 추가되었다. 다만 신곡이 아닌 구곡 Mystic Dream 9903의 신규 패턴으로 등장했다.] 8박 노트가 1개씩만 떨어지고 그 마저도 계속이 아니라 메인 멜로디에 맞춰서 떨어지기 때문에 이것만 보면 4레벨도 무난하다는 느낌이 든다. 단, 중간중간 16박 기습 계단 롱노트 3개들은 조심해야 할 구간으로[* 한술 더 떠서 딱 한구간은 n-n+2-n+4로 떨어지는게 아니라 '''n-n+2-(n-2)'''로 떨어지기 때문에 이 구간에서 노미스가 깨지기도 하므로 주의하자.] 이 부분만 제외하자면 무난하게 플레이 할 수 있다.
+
+=== Turntable ===

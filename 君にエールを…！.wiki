@@ -1,0 +1,42 @@
+'''그대에게 응원을...!'''
+
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/0GFnDfFvu88" frameborder="0" allowfullscreen></iframe>
+}}}
+[[한게임]] 재팬 에서 서비스하는 온라인 게임 쵸콧토 랜드와 [[EXIT TUNES]]의 타이업 곡. 작사는 mitsu, 작곡은 alphacist, 보컬은 [[모리나가 마유미]]. NPC 아비게일의 캐릭터송이며, 모리나가 마유미가 이 NPC의 성우를 맡았다. 
+
+쵸콧토 랜드와 EXIT TUNES의 콜라보레이션 이벤트에서 원곡 君にエールを…！ (ORIGINAL MIX)와, DJ UTO가 리믹스한 君にエールを…！ DJ UTO REMIX의 벨소리를 증정하는 이벤트가 있었고, 君にエールを…！ DJ UTO REMIX는 "EXIT TUNES ACADEMY BEST" 앨범에도 실린다.
+
+참고로 [[카노 유이]]와 [[오노사카 마사야]]가 같이 부른 '君にエールを！'하고는 다른 곡이다. 이 곡은 느낌표 사이의 말줄임표가 없다.
+
+== [[사운드 볼텍스]]에 수록 (君にエールを…！ DJ UTO REMIX) ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/gpHDvgXkQ4A" frameborder="0" allowfullscreen></iframe>
+}}}
+
+사운드 볼텍스에서는 리믹스 버전인 君にエールを…！ DJ UTO REMIX가 수록되었다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0057_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0057_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0057_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 10}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0668}}} || {{{#orange 0951}}} || {{{#ff009f 1214}}} ||
+|| 일러스트 담당 || {{{#purple なぎみそ}}} || {{{#orange なぎみそ}}} || {{{#ff009f なぎみそ}}} ||
+|| 이펙터 || {{{#purple DJ UTO}}} || {{{#orange DJ UTO}}} || {{{#ff009f DJ UTO}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} ||
+|| [[BPM]] |||||| 180 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 07(2014.3.6 ~ 2014.4.4), Skill Level 06 C코스(2015.2.27 ~)
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/zxB6ewutvzg" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+숏 노트 및 롱 노트의 패턴은 다른 14레벨과 비교하면 쉬운 편이나, 노브 조작이 까다롭고 변칙적이다. 초반에 빠르게 꺾고 천천히 돌리기는 부분이라든가, --[[Tatsh]] 구간을 지나고 나서-- 오른쪽 노브 꺾기 + A 숏 노트 치는 부분등 독특한 패턴들이 많다. 특히 영상 기준 1분 41초 이후에서 [[후살|방심하면 순식간에 레이트가 줄어든다.]]

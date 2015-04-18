@@ -1,0 +1,18 @@
+[[include(틀:Warhammer 40k/PC 게임)]]
+
+attachment:/Warhammer40000_Chaos_Gate.jpg
+[[Warhammer 40,000]]을 배경으로 1998년에 만들어졌던 턴제 전략 시뮬레이션 게임.
+
+{{{#!html
+<object width="600" height="390"><param name="movie" value="http://www.youtube.com/v/-DlxqWk0dHs&hl=ko_KR&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/-DlxqWk0dHs&hl=ko_KR&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></embed></object>
+}}}
+Chaos Gate 인트로 영상,
+
+[[게임즈 워크숍]]이 만들어낸 [[Warhammer 40,000]]의 탄탄한 세계관에 입각하여 '''Strategic Simulations Inc(통칭 SSI)'''가 제작한 게임으로 발매 당시 북미에서 폭발적인 인기를 끌었다.
+
+카오스 게이트는 [[렐릭]]의 [wiki:"Warhammer 40,000 : Dawn of War" Dawn of War]가 아직 만들어지지 않았던 20세기 말 워해머 40k의 분대 단위 전투를 가장 잘 재현했던 작품으로 [[스페이스 마린]]의 [wiki:"울트라마린(Warhammer 40,000)" 울트라마린] 챕터와 [[카오스 스페이스 마린]]의 [[워드 베어러]] 군단 간의 전투를 기본소재로 하고 있다. 게이머는 캡틴(Captain)[* 워해머 40k의 스페이스 마린의 지휘관 중 하나로 원래는 [[포스 커맨더]]라고 불리웠는데, 이는 스페이스 마린 코덱스가 3판이던 시절 이야기로 이후로는 캡틴이라 불린다. 하지만 PC게임 [[Dawn of War 시리즈]]에선 어쩐 일인지 계속 포스 커맨더라고 불린다.] 크루거가 지휘하는 울트라마린을 이끌고 워드 베어러의 카오스 군단과 맞서 싸워야 한다. ~~그런데 영상의 워드 베어러는 왜 [[월드 이터]] 도색을 하고 있냐?~~
+
+이 게임에서는 최대 50명의 스페이스 마린을 이용하여 전투를 벌일 수 있는데 각 유닛들은 저마다 독특한 능력치를 가지고 있으며 워해머 40k에 등장하는 다양한 형태의 유닛들, 즉 일반적인 스페이스 마린부터 [[테크마린]], [[아포세카리]], [wiki:"라이브러리안(Warhammer 40,000)" 라이브러리안] 등을 비롯하여 워해머 40k 특유의 [wiki:"라이노(Warhammer 40,000)" 라이노], [wiki:"프레데터(Warhammer 40,000)" 프레데터], [wiki:"드레드노트(Warhammer 40,000)" 드레드노트] 등과 같은 워머신이 포함되어 있다.
+
+[[한국]]에도 정발되었지만 당시 한국에는 소수 [[매니아]]들만이 Warhammer 40,000을 즐기던 때라 구입한 이들이 드물었으며 또 워낙 오래된 게임이라 2010년 현재 정발판을 구하는 것은 거의 불가능에 가깝다. 
+[[각주]]

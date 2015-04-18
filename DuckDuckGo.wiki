@@ -1,0 +1,65 @@
+#title DuckDuckGo
+
+[[목차]]
+attachment:/DuckDuckGo-Log-200px.png
+
+~~덕덕고등학교가 아니다~~
+~~여차여차해도 아니다~~
+[http://duckduckgo.com DuckDuckGo]
+[https://duckduckgo.com DuckDuckGo (https 버전)]
+짧게 주소에 [http://ddg.gg]를 입력해도 된다.
+
+= 소개 =
+게이브리얼 와인버그(Gabriel Weinberg)가 2008년에 만든 미국의 [[검색 엔진]]이다. 자체 검색 [[봇]]의 이름은 DuckDuckBot이다. 검색 엔진은 [wiki:"펄(프로그래밍 언어)" 펄]로 작성했고, [[FreeBSD]]에 [[Nginx]] 상에서 돌아간다. 일부 코드는 [[오픈 소스]]로 공개되어있고, [[github]]에서 받을 수 있다. [https://github.com/duckduckgo] 참조.
+
+[[firefox|파이어폭스]] v 33.1 부터 기본 검색엔진 중 하나다.
+
+= 특징 =
+개인정보 보호를 매우 중요시 여기며, [[구글]]과 달리 검색어를 수집하지 않는다고 한다. [http://donttrack.us](영어), [http://dontbubble.us](영어). [[한국어]] 기사도 있다. [[http://www.bloter.net/archives/198441|덕덕고 CEO 검색엔진이 사용자 정보가 왜 필요해?]]
+
+또한, 상당히 많은 편의 기능이 들어가 있으며 그 중 일부는 소스코드도 제공 한다.
+
+= 기능 =
+DuckDuckGo의 여러가지 기능은 [https://duckduckgo.com/goodies.html]에서 볼 수 있다.
+
+== 계산 ==
+구글처럼 수식계산, 단위변환, 날짜계산등이 있다. 일부 계산은 [[울프럼알파]]를 이용하며, 이땐 "Computed by Wolfram|Alpha"라고 뜬다.
+
+== 고급 검색 ==
+[[구글]]의 고급검색용 구문 중 몇가지를 지원한다.
+ * 제외 단어 (-단어)
+ * 정확히 일치 ("단어")
+ * 또는(OR) (단어A|단어B)
+ * 사이트내 검색 (site:example.org 단어)
+ * 제목 검색 (intitle:단어)
+
+== 키보드 단축키 ==
+마우스를 쓰지 않고 키보드로도 검색 결과를 탐색할 수 있다.
+ * Enter 또는 l 또는 o - 선택한 항목으로 이동. 선택하지 않으면 첫번째 검색결과로 이동한다.
+ * Ctrl+Enter (맥에선 Cmd+Enter) - 새 창으로 열기.
+ * d - 선택한 도메인내에서 검색.
+ * ' 또는 v - 새 창으로 열기. (팝업차단을 해제해야 한다.)
+ * ↓ 또는 j - 다음 결과
+ * ↑ 또는 k - 이전 결과[* [[vi]]의 이동방식과 같다.]
+ * / 또는 h - 검색창으로 이동
+ * Esc - 검색창에서 나가기
+ * r - 관련 검색어
+ * s - 오타 링크로 가기
+ * t - 맨 위로
+ * m - 검색결과로 이동
+ * 1 또는 ! - !bang 드롭다운 메뉴 열기
+
+== !Bang ==
+! + 키워드의 조합으로 다른 검색엔진으로 이동할 수 있다, 현재 수백가지의 검색엔진이 등록되어 있으며, 전체 목록은 [http://duckduckgo.com/bang.html 여기][* 이 페이지는 !bang을 입력해도 들어 갈 수 있다.]에서 볼 수 있다.
+(리그베다 위키도 있다. 오오)
+
+== I'm Feeling Ducky ==
+[[구글]]의 I'm Feeling Lucky의 DuckDuckGo버전. \ + 검색어를 입력하면 된다.
+예) '''\rigvedawiki''' -> [[리그베다 위키]]로 이동
+
+== [wiki:"tor" Tor] 지원 ==
+Tor용 사이트도 제공한다. 주소는 [http://3g2upl4pq6kufc4m.onion/]
+
+= 기타 =
+개인정보 노출에 민감한 사람들에게 좋은 평가를 받는 검색 엔진이며 DuckDuckGo만 사용하는 계층도 형성되어 있다. 그래서 애플의 [[iOS]] 8에서 새로 업데이트된 [[사파리]]는 기본 검색 엔진 중 하나로 DuckDuckGo를 선택할 수 있게 된다.
+2014년 중반, 당연하게도 [[중국]]에서의 사용이 불가능하게 되었다.

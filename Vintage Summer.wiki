@@ -1,0 +1,45 @@
+[[목차]]
+|| 최초 수록 버전 || [[Sabin Sound Star]] ||
+|| 작곡 || [[Lotze]] ||
+|| 배경 || [[범용 BGA]] ||
+|| 장르 || Big Brass ||
+|| BPM || 136 ||
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/4AwpEubJmdo?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/4AwpEubJmdo?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+== 개요 ==
+[[Sabin Sound Star]]의 수록곡이다.
+
+[[SHK]]가 Lotze 명의로 작곡한 Big Brass(Big Band와 밀접한 장르) 악곡. 하와이안 기타의 음색이 인상적인 곡으로 60년대 분위기를 연출한다. [[Romance for Moon]]과 마찬가지로, 원래 전용 BGA가 제작되었으나 제작상의 문제로 인해 사용되지 못했다고 한다.
+
+== [[EZ2DJ]]에서의 Vintage Summer ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 9}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/356DeIbzpyU?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/356DeIbzpyU?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+
+5 Street의 HD 패턴은 난이도는 12인데 말이 12지 사실상 물렙 그 자체다. 12렙 입문곡 추천해주세요! 하면 [[Lucid]] 하드는 고전 이야기, [[MxMxM Star]] 하드는 옛날 이야기가 되어버렸다.[* BE rA 기준으로 Lucid HD는 이미 11로 하향되었고, MxMxM Star HD는 패턴이 꽤 난해하게 바뀌었다.] 결국 AE에서 10으로 깎였다. 하지만, 너무 많이 깎여버려서 문제가 되고 있다. 노트 처리력이 11 정도의 수준이 되어야 이 곡을 쉽게 잡을 수 있는 만큼, 10레벨에서는 불렙 포지션이다. EV에서 11로 상승되어 제자리를 찾았다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===

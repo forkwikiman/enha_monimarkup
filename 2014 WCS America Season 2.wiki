@@ -1,0 +1,338 @@
+ * 상위항목: [스타크래프트 2/대회], [세계 챔피언십 시리즈]
+
+[[목차]]
+= 개요 =
+||<tablealign=center><-6> '''세계 챔피언십 시리즈''' ||
+|| '''북미''' || [2014 WCS America Season 1] || → || '''2014 WCS America Season 2''' || → || [2014 WCS America Season 3] ||
+|| 한국 || [2014 WCS Korea Season 1] || → || [2014 WCS Korea Season 2] || → || [2014 WCS Korea Season 3] ||
+|| 유럽 || [2014 WCS Europe Season 1] || → || [2014 WCS Europe Season 2] || → || [2014 WCS Europe Season 3] ||
+
+ * 주최: [블리자드 엔터테인먼트], [Electronic Sports League]
+ * 주관: Electronic Sports League
+ * 리그 기간: 
+ * 사용 맵
+ * 개막전: 
+ * 결승전: 
+= 이모저모 =
+ESL의 미국 스튜디오가 캘리포니아 주(State of California) 로스 앤젤레스 군(Los Angeles County) 버뱅크 시(City of Burbank)에 개장했다.
+= 예선 =
+미국·캐나다, 라틴아메리카 예선과 래더 와일드 카드 선발전은 ESL이 주관하며, 나머지 세 지역 예선은 지난 시즌과 마찬가지로 각 지역의 경기조직들이 주관한다. 오세아니아, 동남아시아 예선에 자체 상금이 걸린 것도 변함없다. 아예 하나의 지역 대회로 자리매김한 듯.
+[한지원]이 [http://esports.dailygame.co.kr/view.php?ud=2014032612590460359 한국으로 회귀]하면서 래더 와일드 카드 한 장이 추가로 열렸다. [Prime]의 김기용과 [진에어 그린윙스] 로스터에서 빠진 [양희수], 한국에서 북미로 옮겨온 ["박진영(프로게이머)"박진영], 그리고 지난 시즌 한국 회귀를 선언했던 [김동원]이 래더 와일드 카드에 도전했다. 김기용은 아쉽게 16강전에서 탈락, 김동원은 4강전에서 양희수에게 덜미를 잡힌 뒤 마지막 3위 결정전에서 김민규에게 패배하고 말았다. 박진영과 양희수, 그리고 김민규가 통과하면서 래더 와일드 카드를 한국인이 싹쓸이하게 되었다. 특히 돌연 자취를 감췄던 양희수가 북미에서 어떤 활약을 보여줄 것인지 기대해보자.
+= 챌린저 리그 =
+== 출전자 ==
+||<tablealign=center><|2> ||<-3><#7CB9E8> attachment:Ticon_small.png ||<-3><#F4C2C2> attachment:Zicon_small.png ||<-3><#70F170> attachment:Picon_small.png ||
+|| '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' ||
+||<|6><#6CA0DC> 지난 시즌[[br]]프리미어 리그[[br]]1라운드 탈락 || ["ROOT Gaming"attachment:Rootlogo_std.png] || attachment:Ca.png || MaSa[[br]]마루 킴[[br]]Maru Kim || (무소속) || attachment:Kr.png || NesTea[[br]][임재덕] || (무소속) || attachment:Ca.png || desRow[[br]]마크-올리비에 프루[[br]]Marc-Olivier Proulx ||
+|| (무소속) || attachment:Kr.png || TheStC[[br]][최연식] || ["Team Acer"attachment:Acerlogo_std.png] || attachment:Ca.png || Scarlett[[br]]사샤 호스틴[[br]]Sasha Hostyn || ["yoe Flash Wolves"attachment:Flash_wolves_std.png] || attachment:Tw.png || Has[[br]]커위펑[[br]]柯昱夆 ||
+|| ["MVP(프로게임단)"attachment:mvplogo_std.png] || attachment:Kr.png || aLive[[br]][한이석] || ["Incredible Miracle"attachment:IMlogo_std.png] || attachment:Kr.png || --Byul[[br]]한지원-- || [attachment:Zoo_std.png][[br]]Zenith of Origin || attachment:Cn.png || Top[[br]]후타오[[br]]胡涛 ||
+|| (무소속) || attachment:Mx.png || MajOr[[br]][후안 로페즈][[br]]Juan Lopez || ["Evil Geniuses"attachment:Eglogo_std.png] || attachment:Kr.png || Jaedong[[br]][이제동] || ["Teamliquid"attachment:Liquidlogo_std.png] || attachment:Kr.png || HerO[[br]][송현덕] ||
+|| attachment:Rootlogo_std.png || attachment:Us.png || Illusion[[br]]크리스 리[[br]]Chris Lee || [attachment:Hka_std.png][[br]]Hong Kong Attitude || attachment:Tw.png || Sen[[br]][양지아정][[br]]楊嘉程 || attachment:Rootlogo_std.png || attachment:Us.png || Minigun[[br]]채드 존스[[br]]Chad Jones ||
+|| [attachment:Dignitaslogo_std.png][[br]][Team Dignitas] || attachment:Kr.png || SeleCT[[br]][류경현] ||
+||<|5><#FFFF00> 미국·캐나다, 라틴아메리카[[br]]예선 통과 || attachment:Eglogo_std.png || attachment:Us.png || Xenocider[[br]]리보 창[[br]]Libo Chang || (무소속) || attachment:Kr.png || viOLet[[br]]["김동환(프로게이머)"김동환] || (무소속) || attachment:Us.png || NonY[[br]]타일러 와시엘레스키[[br]]Tyler Wasieleski ||
+|| ["compLexity Gaming"attachment:Complexitylogo_std.png] || attachment:Us.png || qxc[[br]][케빈 라일리][[br]]Kevin Riley || [attachment:Deimos_std.png][[br]]Deimos Esports || attachment:Us.png || Guitarcheese[[br]]알렉스 타르코프[[br]]Alex Tarkoff ||
+|||||| || [attachment:Myinsanitylogo_std.png][[br]]mYinsanity || attachment:Ca.png || Kane[[br]]샘 모리셋[[br]]Sam Morrissette ||
+|||||| || attachment:Eglogo_std.png || attachment:Us.png || Suppy[[br]][코난 리우][[br]]Conan Liu ||
+|||||| || attachment:Complexitylogo_std.png || attachment:Ca.png || hendralisk[[br]]헨리 정[[br]]Henry Zheng ||
+||<#FFFF00> 중국 예선 통과 |||||| || attachment:Zoo_std.png || attachment:Cn.png || Courage[[br]]치앤잔치[[br]]钱赞企 
+|| ["Invictus Gaming/스타크래프트 2"attachment:IGlogo_std.png] || attachment:Cn.png || Jim[[br]]차오진후이[[br]]曹晋珲 ||
+||<#FFFF00> 오세아니아, 동남아시아[[br]]예선 통과 || attachment:Rootlogo_std.png || attachment:Au.png || iaguz[[br]]에단 주가이[[br]]Ethan Zugai || [attachment:Avantgardelogo_std.png][[br]]Avant Garde || attachment:Kr.png || KingKong[[br]]유충희 ||
+||<|2><#FFFF00> 대만·홍콩·마카오[[br]]예선 통과 |||||| || attachment:Flash_wolves_std.png || attachment:Tw.png || Slam[[br]]리우얀청[[br]]劉彥呈 ||
+|||||| || attachment:Flash_wolves_std.png || attachment:Tw.png || Ian[[br]]루지아홍[[br]]呂家宏 ||
+||<|2><#FFFF00> 래더 와일드 카드 |||||| || [attachment:Wayispiderlogo_std.png][[br]]Wayi Spider || attachment:Kr.png || Check[[br]]김민규 || attachment:Eglogo_std.png || attachment:Kr.png || JYP[[br]]박진영 ||
+|||||||||||| || (무소속) || attachment:Kr.png || Pigbaby[[br]]양희수 ||
+== 일정 ==
+||<tablealign=center><-7> '''1일차'''(4월 29일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]desRow || 1 || 3 ||<#FFD700> [attachment:Zicon_small.png]김동환 || 만발의 정원, 세종과학기지,[[br]]{{{#ff0000 회전목마}}}, 프로스트 ||
+|| 2경기 ||<#FFD700> [attachment:Ticon_small.png]Illusion || 3 || 0 || [attachment:Picon_small.png]박진영 || 만발의 정원, 프로스트, 해비테이션 스테이션 ||
+|| 3경기 || [attachment:Ticon_small.png]류경현 || 1 || 3 ||<#FFD700> [attachment:Picon_small.png]Jim || 해비테이션 스테이션, {{{#ff0000 프로스트}}},[[br]]회전목마, 기착지 ||
+|| 4경기 || [attachment:Ticon_small.png]최연식 || 0 || 3 ||<#FFD700> [attachment:Zicon_small.png]Courage || 회전목마, 프로스트, 해비테이션 스테이션 ||
+
+'''이번에는 지지 않는다!'''
+지난 시즌 챌린저 리그에 도전했다가 굴욕을 당했던 선수들이 모두 이겼다. 반면 박진영은 래더 와일드 카드로 올라왔더니 광탈을 당하며 체면을 구기고 말았다. 최연식은 이참에 은퇴하려는 모양(…)이다.
+
+||<tablealign=center><-7> '''2일차'''(4월 30일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]한이석 || 0 || 3 ||<#FFD700> [attachment:Zicon_small.png]Suppy || 알터짐 요새, 해비테이션 스테이션, 세종과학기지 ||
+|| 2경기 || [attachment:Zicon_small.png]Ian || 0 || 3 ||<#FFD700> [attachment:Zicon_small.png]김민규 || 세종과학기지, 만발의 정원, 회전목마 ||
+|| 3경기 ||<#FFD700> [attachment:Ticon_small.png]MaSa || 3 || 0 || [attachment:Zicon_small.png]Slam || 해비테이션 스테이션, 세종과학기지, 프로스트 ||
+|| 4경기 ||<#FFD700> [attachment:Ticon_small.png]MajOr || 3 || 0 || [attachment:Zicon_small.png]유충희 || 기착지, 회전목마, 세종과학기지 ||
+
+'''중국은 만세, 대만은 울상, 한국은 초조, 미주는 안도'''
+모든 경기가 3:0으로 끝났다. 뜻밖에도 한이석이 맥없이 떡을 먹었고, 김민규가 생애 최초로 프리미어 리그 진출에 성공했다. ["캡틴 아메리카"캡틴 라틴아메리카](…) 후안 로페즈도 다시 한 번 프리미어 리그에 나서게 되었다.
+
+||<tablealign=center><-7> '''3일차'''(5월 6일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Picon_small.png]송현덕 || 3 || 0 || [attachment:Ticon_small.png]Xenocider || 만발의 정원, 세종과학기지, 해비테이션 스테이션 ||
+|| --2경기-- || --[attachment:Picon_small.png]Minigun-- || - || - || --[attachment:Ticon_small.png]qxc-- || - ||
+|| 3경기 || [attachment:Zicon_small.png]Scarlett || 0 || 3 ||<#FFD700> [attachment:Zicon_small.png]hendralisk || 만발의 정원, 세종과학기지, 회전목마 ||
+|| 4경기 || [attachment:Picon_small.png]Has || 1 || 3 ||<#FFD700> [attachment:Picon_small.png]양희수 || {{{#ff0000 회전목마}}}, 해비테이션 스테이션,[[br]]만발의 정원, 프로스트 ||
+
+채드 존스가 건강 악화로 입원을 하여 2경기는 5월 12일 19시로 연기되었다. 쾌유를 기원한다.
+송현덕은 무난하게 통과했으나 사샤 호스틴이 탈락하는 이변이 일어났다. 그것도 [셧아웃]. 양희수는 옛 동료였던 이제동을 챌린저로 떨어내버린 커위펑을 예선으로 떨궜다. 
+
+||<tablealign=center><-7> '''4일차'''(5월 7일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Zicon_small.png]이제동 || 3 || 1 || [attachment:Picon_small.png]NonY || 해비테이션 스테이션, 만발의 정원,[[br]]{{{#ff0000 기착지}}}, 회전목마 ||
+|| 2경기 ||<#FFD700> [attachment:Picon_small.png]Top || 3 || 2 || [attachment:Zicon_small.png]Kane || {{{#ff0000 기착지}}}, 해비테이션 스테이션,[[br]]만발의 정원, {{{#ff0000 세종과학기지}}}, 프로스트 ||
+|| 3경기 ||<#FFD700> [attachment:Zicon_small.png]Sen || 3 || 2 || [attachment:Zicon_small.png]Guitarcheese || 프로스트, {{{#ff0000 해비테이션 스테이션}}},[[br]]{{{#ff0000 세종과학기지}}}, 만발의 정원, 회전목마 ||
+|| 4경기 ||<#FFD700> [attachment:Zicon_small.png]임재덕 || 3 || 2 || [attachment:Ticon_small.png]iaguz || {{{#ff0000 만발의 정원}}}, {{{#ff0000 해비테이션 스테이션}}},[[br]]프로스트, 세종과학기지, 기착지 ||
+
+이제동만 무난히 통과했을 뿐 나머지는 난리가 아니었다. 특히 4경기는 개싸움이 따로 없었으며, 임재덕은 벼랑 끝까지 몰렸다가 내리 세 세트를 따내며 간신히 살아났다. 임재덕은 이로서 프리미어 리그 5연속 진출을 달성했다.
+
+||<tablealign=center><-6> '''5일차'''(5월 12일 19시) ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| [attachment:Picon_small.png]Minigun || 실격 || 부전승 ||<#FFD700> [attachment:Ticon_small.png]qxc || - ||
+
+채드 존스와 연락이 닿지 않아 케빈 라일리가 부전승을 차지했다.
+며칠 뒤, [http://www.teamliquid.net/blogs/450513-my-absence-for-the-past-4-weeks-wcs-match 채드 존스가 그동안 무슨 일이 있었는지를 올렸다].
+== 결과 ==
+||<tablealign=center> '''결과''' || '''상금''' || '''포인트''' ||<-4> '''성명''' ||
+||<|4><#FFD700> 통과 ||||<|4> 프리미어 리그 성적에 따라 수령 || 김동환 || 크리스 리 || 차오진후이 || 치앤잔치 ||
+|| 코난 리우 || 김민규 || 마루 킴 || 후안 로페즈 ||
+|| 송현덕 || 헨리 정 || 양희수 || 이제동 ||
+|| 후타오 || 양지아정 || 임재덕 || 케빈 라일리 ||
+||<|4> 탈락 ||<|4> $600||<|4> 50점|| 마크-올리비에 프루 || 박진영 || 류경현 || 최연식 ||
+|| 한이석 || 루지아홍 || 리우얀청 || 유충희 ||
+|| 리보 창 || 사샤 호스틴 || 커위펑 || 타일러 와시엘레스키 ||
+|| 샘 모리셋 || 알렉스 타르코프 || 에단 주가이 || 채드 존스 ||
+= 프리미어 리그 =
+== 출전자 ==
+||<tablealign=center><|2> ||<-3><#7CB9E8> attachment:Ticon_small.png ||<-3><#F4C2C2> attachment:Zicon_small.png ||<-3><#70F170> attachment:Picon_small.png ||
+|| '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' || '''소속''' || '''국적''' || '''성명''' ||
+||<|7><#6CA0DC> 지난 시즌[[br]]프리미어 리그 2라운드 진출 || (무소속) || attachment:Kr.png || Bomber[[br]]["최지성(프로게이머)"최지성] || [attachment:Roccatlogo_std.png][[br]]Team ROCCAT || attachment:Kr.png ||<#FFD700> HyuN[[br]][고석현] || [attachment:Planetkey_std.png][[br]]Planetkey Dynamics || attachment:Kr.png ||<#C0C0C0> Oz[[br]][김학수] ||
+|| attachment:Liquidlogo_std.png || attachment:Kr.png || TaeJa[[br]][윤영서] || (무소속) || attachment:Kr.png ||<#8C7853> Revival[[br]]["김동현(스타크래프트 2)"김동현] || ["Axiom"attachment:Axiomlogo_std.png] || attachment:Kr.png ||<#8C7853> Alicia[[br]][양준식] ||
+|| (무소속) || attachment:Kr.png || Polt[[br]]["최성훈(프로게이머)"최성훈] || attachment:Zoo_std.png || attachment:Cn.png || TooDming[[br]]황후이밍[[br]]黃惠明 || [attachment:Team_Spectre_std.png][[br]]Team Spectre || attachment:Kr.png || Arthur[[br]]윤명혁 ||
+|| ["Fnatic"attachment:Fnaticlogo_std.png] || attachment:Us.png || Neeb[[br]]알렉스 선더하프트[[br]]Alex Sunderhaft || attachment:IGlogo_std.png || attachment:Cn.png || XiGua[[br]]왕레이[[br]]王磊 || [attachment:Ivd_std.png][[br]]IvDgaming || attachment:Us.png || puCK[[br]]브랜든 퀄[[br]]Brandon Qual ||
+|| attachment:Axiomlogo_std.png || attachment:Kr.png || Heart[[br]][김민혁] |||||| || attachment:Axiomlogo_std.png || attachment:Kr.png || CranK[[br]]["최재원#s-4"최재원] ||
+|||||||||||| || attachment:Eglogo_std.png || attachment:Ca.png || HuK[[br]][크리스 로랑줴][[br]]Chris Loranger ||
+|||||||||||| || attachment:IGlogo_std.png || attachment:Cn.png || MacSed[[br]][후 시앙][[br]]胡翔 ||
+||<|9><#FFFF00> 챌린저 리그 통과 || attachment:Rootlogo_std.png || attachment:Us.png || Illusion[[br]]크리스 리[[br]]Chris Lee || (무소속) || attachment:Kr.png || viOLet[[br]]김동환 || attachment:IGlogo_std.png || attachment:Cn.png || Jim[[br]]차오진후이[[br]]曹晋珲 ||
+|| attachment:Rootlogo_std.png || attachment:Ca.png || MaSa[[br]]마루 킴[[br]]Maru Kim || attachment:Zoo_std.png || attachment:Cn.png || Courage[[br]]치앤잔치[[br]]钱赞企 
+|| attachment:Liquidlogo_std.png || attachment:Kr.png || HerO[[br]]송현덕 ||
+|| (무소속) || attachment:Mx.png || MajOr[[br]]후안 로페즈[[br]]Juan Lopez || attachment:Eglogo_std.png || attachment:Us.png || Suppy[[br]]코난 리우[[br]]Conan Liu || (무소속) || attachment:Kr.png || Pigbaby[[br]]양희수 ||
+|| attachment:Complexitylogo_std.png || attachment:Us.png || qxc[[br]]케빈 라일리[[br]]Kevin Riley || attachment:Wayispiderlogo_std.png || attachment:Kr.png || Check[[br]]김민규 || attachment:Zoo_std.png || attachment:Cn.png || Top[[br]]후타오[[br]]胡涛 ||
+|||||| || attachment:Complexitylogo_std.png || attachment:Ca.png || hendralisk[[br]]헨리 정[[br]]Henry Zheng ||
+|||||| || attachment:Eglogo_std.png || attachment:Kr.png || Jaedong[[br]]이제동 ||
+|||||| || attachment:Hka_std.png || attachment:Tw.png || Sen[[br]]양지아정[[br]]楊嘉程 ||
+|||||| || (무소속) || attachment:Kr.png || NesTea[[br]]임재덕 ||
+== 일정 ==
+=== 1라운드 ===
+||<tablealign=center><-6> '''A조'''(5월 20일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]김동현 || 0 || 2 || [attachment:Picon_small.png]양희수 || 프로스트, 세종과학기지 ||
+|| 2경기 || [attachment:Picon_small.png]HuK || 2 || 1 || [attachment:Picon_small.png]송현덕 || {{{#ff0000 프로스트}}}, 만발의 정원, 세종과학기지 ||
+|| 승자전 ||<#FFD700> 양희수 || 2 || 1 || HuK || 회전목마, {{{#ff0000 만발의 정원}}}, 프로스트 ||
+|| 패자전 || 김동현 || 2 || 0 || 송현덕 || 세종과학기지, 프로스트 ||
+|| 최종전 || HuK || 0 || 2 ||<#FFD700> 김동현 || 세종과학기지, 프로스트 ||
+
+개막전부터 심상치가 않은데 ["2013 WCS America Season 1"첫 대회]의 ["송현덕"우승자]와 ["김동현(스타크래프트 2)"준우승자]가 들어있고, 여기에 북미의 강호 크리스 로랑줴와 한국에서 독수(毒手)를 갈고 닦은 양희수까지 편성되었다. 1라운드 최대의 격전을 예상한다.
+그리고 결국 양희수가 큰일을 냈다. 김동현에 이어 크리스 로랑줴까지 제압하며 가볍게 다음 시즌 프리미어 리그 출전을 확정했다. 송현덕은 이름값이 무색하게 이번에도 1라운드에서 고배를 마셨다.[* 크리스 로랑줴는 시즌 1에서도 송현덕을 꺾은 적이 있다. 그때는 승자전이었지만 이번에는 첫번째 세트라는 게 차이점.]
+
+||<tablealign=center><-6> '''B조'''(5월 21일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]최지성 || 2 || 1 || [attachment:Ticon_small.png]MaSa || 기착지, {{{#ff0000 프로스트}}}, 만발의 정원 ||
+|| 2경기 || [attachment:Picon_small.png]최재원 || 2 || 1 || [attachment:Zicon_small.png]임재덕 || 프로스트, {{{#ff0000 만발의 정원}}}, 회전목마 ||
+|| 승자전 ||<#FFD700> 최지성 || 2 || 0 || 최재원 || 만발의 정원, 프로스트 ||
+|| 패자전 || MaSa || 0 || 2 || 임재덕 || 해비테이션 스테이션, 프로스트 ||
+|| 최종전 || 최재원 || 0 || 2 ||<#FFD700> 임재덕 || 세종과학기지, 프로스트 ||
+
+'''숙명처럼 스쳐 지나가는 두 야인'''
+[StarTale]의 주장이었던 최지성과 [Incredible Miracle]의 주장이었던 임재덕이 서로 만나지 않고 사이좋게 통과하였다. 특히 최지성의 경우, 지난 시즌 16강에서 만났던 최재원에게 또 다시 승리를 거두고 상대전적을 8:1로 만들었다.
+
+지금까지 올라온 선수들은 죄다 무소속이다.[* CM Storm의 후원을 받는 김동현과 [레드불]의 후원을 받는 최지성이 있긴 한데 구단으로 보기엔 애매]
+
+||<tablealign=center><-6> '''C조'''(5월 26일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]김학수 || 1 || 2 || [attachment:Ticon_small.png]qxc || 만발의 정원, {{{#ff0000 프로스트}}}, 회전목마 ||
+|| 2경기 || [attachment:Picon_small.png]puCK || 1 || 2 || [attachment:Zicon_small.png]김동환 || {{{#ff0000 만발의 정원}}}, 세종과학기지, 해비테이션 스테이션 ||
+|| 승자전 || qxc || 1 || 2 ||<#FFD700> 김동환 || {{{#ff0000 회전목마}}}, 세종과학기지, 프로스트 ||
+|| 패자전 || 김학수 || 2 || 0 || puCK || 프로스트, 만발의 정원 ||
+|| 최종전 || qxc || 0 || 2 ||<#FFD700> 김학수 || 회전목마, 만발의 정원 ||
+
+'''강력한 대한민국 파워'''
+북미 시즌에서 안정적인 활동을 하고 있는 김동환과 전 시즌 준우승자인 김학수가 서로 만나지 않은 상태로 조 1위와 조 2위로 진출하게 되었다.
+
+||<tablealign=center><-6> '''D조'''(5월 27일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]윤영서 || 2 || 1 || [attachment:Picon_small.png]Top || 프로스트, {{{#ff0000 회전목마}}}, 해비테이션 스테이션 ||
+|| 2경기 || [attachment:Ticon_small.png]Neeb || 2 || 1 || [attachment:Zicon_small.png]김민규 || 세종과학기지, {{{#ff0000 만발의 정원}}}, 기착지 ||
+|| 승자전 ||<#FFD700> 윤영서 || 2 || 1 || Neeb || {{{#ff0000 회전목마}}}, 세종과학기지, 기착지 ||
+|| 패자전 || Top || 0 || 2 || 김민규 || 만발의 정원, 프로스트 ||
+|| 최종전 || Neeb || 0 || 2 ||<#FFD700> 김민규 || 기착지, 세종과학기지 ||
+
+'''어제와 같은 시나리오'''
+공교롭게도 대한민국 선수 2명이 올라갔다는 것과 서로 만나지 않았다는 것이 어제와 같은 시나리오였다.
+
+||<tablealign=center><-6> '''E조'''(5월 28일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]고석현 || 2 || 0 || [attachment:Picon_small.png]Jim || 프로스트, 해비테이션 스테이션 ||
+|| 2경기 || [attachment:Ticon_small.png]김민혁 || 2 || 1 || [attachment:Zicon_small.png]이제동 || 회전목마, {{{#ff0000 프로스트}}}, 세종과학기지 ||
+|| 승자전 ||<#FFD700> 고석현 || 2 || 1 || 김민혁 || {{{#ff0000 프로스트}}}, 만발의 정원, 해비테이션 스테이션 ||
+|| 패자전 || Jim || 2 || 0 || 이제동 || 알터짐 요새, 회전목마 ||
+|| 최종전 ||<#FFD700> 김민혁 || 2 || 1 || Jim || 만발의 정원, {{{#ff0000 프로스트}}}, 회전목마 ||
+
+'''이제동의 [운수 좋은 날] 시즌 2'''
+이번만큼은 했으나…1차전에서 김민혁에게 지고, 이번에도 '''중국계 선수'''인 차오진후이에게 패자전에서 완패, '''또''' 16강 진출에 실패한다. ~~영원히 고통받는 제동신~~ 2014년 [이영호]가 계속 [코드 A]에서 죽을 쑤는 것처럼 이제동도 프리미어 리그 1라운드를 통 넘지 못하고 있다. 한편 이제동을 꺾은 차오진후이는 최종전에서 김민혁에게 패배하며 한국의 벽을 넘지 못했다.
+
+현재 한국인 '''전원 진출'''.[* 송현덕·최재원·이제동이 탈락하긴 했으나, 이 세 사람이 속한 조는 한국인이 세 명 배치되어 어차피 한국인이 탈락할 수밖에 없으므로 논외] 그나마 남은 세 조는 한국인이 한 명뿐이라 16강 독식은 불가능하다.
+
+||<tablealign=center><-6> '''F조'''(6월 2일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]양준식 || 2 || 0 || [attachment:Zicon_small.png]hendralisk || 프로스트, 만발의 정원 ||
+|| 2경기 || [attachment:Zicon_small.png]TooDming || 2 || 0 || [attachment:Ticon_small.png]Illusion || 해비테이션 스테이션, 만발의 정원 ||
+|| 승자전 ||<#FFD700> 양준식 || 2 || 1 || TooDming || 해비테이션 스테이션, {{{#ff0000 만발의 정원}}}, 프로스트 ||
+|| 패자전 || hendralisk || 1 || 2 || Illusion || {{{#ff0000 기착지}}}, 프로스트, 세종과학기지 ||
+|| 최종전 || Illusion || 0 || 2 ||<#FFD700> TooDming || 해비테이션 스테이션, 프로스트 ||
+
+'''["일본은 없다"캐나다는 없다]'''
+양준식이 조 1위로 통과, 한국인 진출률 100%를 지켜냈다. 문제는 누가 2라운드에 진출한 첫번째 비한국인이 될 것인가였는데, 미국인도 캐나다 인도 아닌 중국인 황후이밍이 조 2위를 채가고 말았다.
+남은 8명 중 한국인이 2명, 중국인이 3명, 대만인이 1명이다. '''WCS 아메리카인데 아메리칸이 [다 죽게 생겼다. 이놈들아]'''(…)!
+
+||<tablealign=center><-6> '''G조'''(6월 3일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]최성훈 || 2 || 0 || [attachment:Zicon_small.png]Courage || 만발의 정원, 프로스트 ||
+|| 2경기 || [attachment:Picon_small.png]MacSed || 0 || 2 || [attachment:Ticon_small.png]MajOr || 만발의 정원, 기착지 ||
+|| 승자전 ||<#FFD700> 최성훈 || 2 || 0 || MajOr || 해비테이션 스테이션, 기착지 ||
+|| 패자전 || Courage || 2 || 1 || MacSed || {{{#ff0000 프로스트}}}, 만발의 정원, 회전목마 ||
+|| 최종전 ||<#FFD700> MajOr || 2 || 0 || Courage || 만발의 정원, 세종과학기지 ||
+
+'''["최성훈"캡틴] ["후안 로페즈"아메리카], 아메리카의 자존심을 지키다''' ~~왜 한국인이 있는지 물어보면 지는 거다~~
+윤영서가 없어지자, 마침내 후안 로페즈는 생애 최초로 2라운드에 진출하는데 성공했다. '''드디어 WCS 아메리카에 아메리칸 진출자가 나왔다'''(…). 눈 여겨볼 장면은 최종전 1세트 치앤잔치와의 만발의 정원 경기. 더블링 몰아치기를 무려 3번이나 막고 공2업 바이오닉을 완성시켜 저그를 미는 장면이 일품.
+
+||<tablealign=center><-6> '''H조'''(6월 4일 18시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]윤명혁 || 2 || 1 || [attachment:Zicon_small.png]Suppy || {{{#ff0000 만발의 정원}}}, 세종과학기지, 프로스트 ||
+|| 2경기 || [attachment:Zicon_small.png]XiGua || 2 || 1 || [attachment:Zicon_small.png]Sen || 만발의 정원, {{{#ff0000 세종과학기지}}}, 프로스트 ||
+|| 승자전 || 윤명혁 || 1 || 2 ||<#FFD700> XiGua || {{{#ff0000 만발의 정원}}}, 프로스트, 해비테이션 스테이션 ||
+|| 패자전 || Suppy || 2 || 0 || Sen || 프로스트, 만발의 정원 ||
+|| 최종전 ||<#FFD700> 윤명혁 || 2 || 0 || Suppy || 만발의 정원, 알터짐 요새 ||
+
+'''미국은 없다'''
+뜻밖에도 한국인이 아닌 왕레이가 윤명혁을 꺾고 조 1위로 통과했다. 외국인이 3명 통과할 상황이긴 하지만 조 1위까지 차지한 선수는 그가 유일하다. 윤명혁은 어떻게 되었냐고? [종특](…)을 살려 당연하다는 듯 통과(…).
+=== 2라운드 ===
+ESL의 북미 스튜디오가 개장하는 시기에 맞추기 위해 2라운드 일정이 많이 늦어졌다.
+무슨 연유인지 모르겠으나 처음 발표한 조 편성과 실제 조 편성이 약간 다르다.
+'''프랑스'''의 유안 메를루가 현장에서 중계를 맡았다.
+
+||<tablealign=center><-6> '''A조'''(6월 24일 15시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Picon_small.png]양희수 || 1 || 2 || [attachment:Ticon_small.png]김민혁 || 세종과학기지, {{{#ff0000 프로스트}}}, 만발의 정원 ||
+|| 2경기 || [attachment:Zicon_small.png]XiGua || 2 || 1 || [attachment:Picon_small.png]김학수 || {{{#ff0000 프로스트}}}, 해비테이션 스테이션, 만발의 정원 ||
+|| 패자전 || 양희수 || 2 || 1 || 김학수 || 만발의 정원, {{{#ff0000 세종과학기지}}}, 프로스트 ||
+|| 승자전 ||<#FFD700> 김민혁 || 2 || 0 || XiGua || 만발의 정원, 프로스트, --세종과학기지-- ||
+|| 최종전 ||<#FFD700> 양희수 || 2 || 0 || XiGua || 회전목마, 만발의 정원, --프로스트-- ||
+
+승자전 2세트에서 김민혁이 초반러시에 타격을 크게받으면서 차이가 엄청나게 벌어지고[* 러시이후 인구수 차이가 40가까이 벌어졌다. 또한 일꾼이 40기나 손실됐는데, 스타2 경기 특성상 초반부터 이런 차이가 나오면 사실상 패배한 셈이다.] 패배가 확실시 되는가 싶었지만 지게로봇으로 격차를 줄여나가기 시작한다. 교전에서 신컨을 보여주고[* 얼마나 대단한가하면 맹독충이 해병숫자와 거의 비슷했고 저글링은 120마리나 됐었다. 교전이 시작됐는데, 김민혁의 신적인 산개가 나오면서 맹독충과 저글링은 거의다 잡혔는데 교전시작때 55기였던 해병이 15기가 죽고 다 살아남았다] 지뢰가 맹독충을 대거잡는 대박을 치고, 피해를 입은 후 20분뒤에 인구수를 뒤집으면서 극적인 역전승을 거둔다. 여담으로 초반부터 뽑힌 밴시가 60킬을 달성했는데 밴시가 터지자 해설진들은 이 밴시를 MELINDA라고 부르면서 밴시의 죽음을 아쉬워했다.
+양희수가 2라운드를 통과하면서 자신의 최고 성적을 새로 썼다. 8강에 진출한 뒤 "지금 내 ID는 'Pigbaby'인데, 우승하고 멧돼지(Boar)로 바꾸겠다"(…)는 개드립을 날렸다. --[[그런데 그것이 실제로 일어났습니다|그런데 진짜로 우승해버렸다?]]--
+
+||<tablealign=center><-6> '''B조'''(6월 25일 15시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]고석현 || 2 || 0 || [attachment:Zicon_small.png]김동현 || 만발의 정원, 해비테이션 스테이션, --프로스트-- ||
+|| 2경기 || [attachment:Picon_small.png]양준식 || 2 || 0 || [attachment:Zicon_small.png]임재덕 || 만발의 정원, 세종과학기지, --해비테이션 스테이션-- ||
+|| 패자전 || 김동현 || 2 || 0 || 임재덕 || 해비테이션 스테이션, 프로스트, --회전목마-- ||
+|| 승자전 || 고석현 || 1 || 2 ||<#FFD700> 양준식 || {{{#ff0000 프로스트}}}, 만발의 정원, 회전목마 ||
+|| 최종전 || 김동현 || 0 || 2 ||<#FFD700> 고석현 || 세종과학기지, 프로스트, --만발의 정원-- ||
+
+'''동물의 살육제'''
+저번 대회 준우승자였던 김동현이 우승자였던 고석현에게 2번이나 덜미를 잡히면서 결선 라운드 진출에 실패하는 이변이 일어났다. 승자전을 제외하곤 모두 2대0의 스코어가 나왔다는 점도 의외다.
+
+||<tablealign=center><-6> '''C조'''(7월 1일 15시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]최지성 || 0 || 2 || [attachment:Zicon_small.png]TooDming || 알터짐 요새, 만발의 정원, --프로스트-- ||
+|| 2경기 || [attachment:Ticon_small.png]최성훈 || 2 || 0 || [attachment:Zicon_small.png]김민규 || 기착지, 프로스트, --세종과학기지-- ||
+|| 패자전 || 최지성 || 2 || 0 || 김민규 || 해비테이션 스테이션, 세종과학기지, --프로스트-- ||
+|| 승자전 || TooDming || 1 || 2 ||<#FFD700> 최성훈 || {{{#ff0000 회전목마}}}, 프로스트, 만발의 정원 ||
+|| 최종전 ||<#FFD700> 최지성 || 2 || 0 || TooDming || 회전목마, 프로스트, --만발의 정원-- ||
+
+'''테란이 쓰러지지 않아''' --최씨 최강설--
+저그와 테란의 대결로 압축 될 수 있는 C조는 최성훈과 최지성이 8강에 진출하면서 테란의 완승으로 끝났다. 특히 최종전 1세트에서의 황후이밍과의 대결에서 해병과 공성전차로 방어하면서 저그의 느린 업그레이드를 노린 33업 한 방 병력으로 저그를 끝내는 장면은 일품.
+
+||<tablealign=center><-6> '''D조'''(7월 2일 15시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]김동환 || 2 || 1 || [attachment:Ticon_small.png]MajOr || 만발의 정원, {{{#ff0000 해비테이션 스테이션}}}, 세종과학기지 ||
+|| 2경기 || [attachment:Ticon_small.png]윤영서 || 2 || 0 || [attachment:Picon_small.png]윤명혁 || 만발의 정원, 알터짐 요새, --회전목마-- ||
+|| 패자전 || MajOr || 2 || 0 || 윤명혁 || 만발의 정원, 세종과학기지, --회전목마-- ||
+|| 승자전 || 김동환 || 0 || 2 ||<#FFD700> 윤영서 || 세종과학기지, 기착지, --해비테이션 스테이션-- ||
+|| 최종전 || MajOr || 1 || 2 ||<#FFD700> 김동환 || 해비테이션 스테이션,{{{#ff0000 만발의 정원}}}, 세종과학기지 ||
+
+최종전 1세트가 게임시간 '''1시간 34분 48초'''라는 초장기전이 나왔다. 그 결과는 김동환이 먼저 포기하면서 무승부 판정. 사실 살모사를 뽑았다면 후안의 남은 병력들[* 당시 남은 병력은 밤까마귀 11기, 바이킹 5기였다. 김동환의 공중병력은 타락귀 12마리, 경기당시 김동환은 대군주와 타락귀를 동반해서 저 병력들을 잡으려고했지만 국지방어기 때문에 잡을 수 없었다. 잡으려고 시도하다가 오히려 대군주는 전멸당하고 타락귀는 2기만 남았었다. 맵에 있는 광물을 다 파먹은상황이라 유닛을 추가로 찍을 수도 없었다.]을 차근차근 없앨 수 있었겠지만, 김동환은 경기 후 인터뷰에서 생각나는 공중병력은 뮤탈이나 타락귀만이었으며, 살모사를 찍을생각을 못했다고 한다. 재경기때 후안은 전경기와는 다르게 바이오닉을 선택했지만 김동환의 바드라에 밀리면서 패배한다. 2경기에서는 후안의 의료선 다수로 역으로 울트라가 잡혀나갔고 지속적인 견제에 밀리면서 김동환의 패. 3경기에서 후안은 최지성이 16강 C조 최종전 1세트에서 했던 것 처럼 해병,공성전차 조합으로 버티려 했지만 김동환의 바드라 물량을 이기지 못하고 GG를 선언한다.
+이날 승자전 2세트에서 최성훈이 해설을 맡았다. 전체적으로 해설에 대한 평가가 상당히 좋은편, 또한 이날이 최성훈의 생일이어서 승자전 이후 생일 기념케이크를 받았다. 최성훈이 케익을 받은 뒤 청중들은 다같이 'Happy Birthday Polt!'
+최종전 이후 유안 메를루가 WCS 아메리카 지역 현장중계를 그만두게 됐다는 소식이 나왔다. 며칠 뒤 WCS 유럽에서 다시 중계를 하는 걸 보면 그냥 미국까지 이동하기가 힘들었던 모양.
+=== 결선 라운드 ===
+유안 메를루가 빠진 자리에 '''케빈 라일리'''가 들어왔다.
+
+||<tablealign=center><-6> '''8강전'''(7월 5일 15시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Ticon_small.png]김민혁 || 3 || 0 || [attachment:Zicon_small.png]김동환 || 세종과학기지, 프로스트,[[br]]해비테이션 스테이션, --만발의 정원--, --회전목마-- ||
+|| 2경기 || [attachment:Picon_small.png]양준식 || 2 || 3 ||<#FFD700> [attachment:Ticon_small.png]최지성 || {{{#ff0000 프로스트}}}, 만발의 정원,[[br]]해비테이션 스테이션, {{{#ff0000 알터짐 요새}}}, 회전목마 ||
+|| 3경기 || [attachment:Ticon_small.png]최성훈 || 0 || 3 ||<#FFD700> [attachment:Zicon_small.png]고석현 || 세종과학기지, 회전목마, 프로스트,[[br]]--만발의 정원--, --알터짐 요새-- ||
+|| 4경기 || [attachment:Ticon_small.png]윤영서 || 0 || 3 ||<#FFD700> [attachment:Picon_small.png]양희수 || 만발의 정원, 해비테이션 스테이션,[[br]]세종과학기지, --알터짐 요새--, --기착지-- ||
+
+'''[충격과 공포]'''
+먼저 김민혁이 사연 많은 김동환을 3:0으로 제압하는 파란을 일으켰다. 김민혁은 승자 인터뷰에서 "결승에 액시옴 선수를 한 명은 올려보내고 싶으니 양준식이 이겼으면 좋겠다"고 했으나, 최지성이 풀세트 접전 끝에 양준식을 제압하면서 그 꿈을 짓밟아버렸다. 이어진 챔피언과 챔피언의 맞대결에선 고석현이 승리하며 저그의 멸종을 막았는데…….
+4경기에서 폭탄이 터졌다! 생애 처음으로 프리미어 리그 8강에 오른 양희수는 1세트에서 기선을 내주었지만 꾸준한 업그레이드를 바탕으로 경기를 잡았고[* 이때까지 윤영서는 [http://esports.dailygame.co.kr/view.php?ud=2014070611512613170 공식전 26연승]이라는 무시무시한 기록을 써내려가고 있었다.] 2세트에서도 해병과 불곰 견제를 막아낸 뒤 착실히 강화한 거신 중심의 지상군으로 다시 한 번 승리를 따냈다. 3세트에선 초반 거신과 광전사로 해병과 불곰, 땅거미 지뢰 조이기를 풀어낸 뒤 한타싸움에서 대승을 거두며 이번 시즌 최대 이변을 만들어냈다. --[조명환]도 4강 올라갔는데 나라고 못 할 게 뭐야--[* 불과 몇 시간 전 [코드 S] 경력이 전무했던 조명환이 유럽에서 프리미어 리그 4강에 진출했다. 양희수는 그래도 코드 S를 한 번은 갔으니…….] 윤영서의 경기력이 평소같지 않긴 했지만 양희수의 플레이는 정말 준비를 많이 했다는 걸 느낄 수 있을 정도로 견고했다는 평. 프리미어 리그 우승만 없을 뿐 어지간한 타이틀은 다 휩쓸었던 윤영서까지 잡으며 양희수는 북미판 ["주성욱"킹슬레이어]로 주목받게 되었다.
+
+||<tablealign=center><-6> '''준결승전'''(7월 6일 15시) ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#8C7853> [attachment:Ticon_small.png]김민혁 || 1 || 3 ||<#FFD700> [attachment:Ticon_small.png]최지성 || 만발의 정원, 세종과학기지,[[br]]{{{#ff0000 해비테이션 스테이션}}}, 프로스트, --회전목마-- ||
+|| 2경기 ||<#8C7853> [attachment:Zicon_small.png]고석현 || 1 || 3 ||<#FFD700> [attachment:Picon_small.png]양희수 || {{{#ff0000 회전목마}}}, 해비테이션 스테이션,[[br]]기착지, 알터짐 요새, --프로스트-- ||
+
+'''[믿기지 않는 상황이 펼쳐졌습니다]'''
+여기서 승리하면 케스파 컵 출전권을 획득한다. 폼나게 한국에 돌아갈 기회가 생기는 셈. 팀 동료인 양준식을 떨어내고 올라온 최지성은 준결승전에서 김민혁까지 떨궈내며 무난히 출전권을 따냈다.
+그리고 --0회-- 우승자 윤영서를 제압한 양희수의 다음 상대는 프리미어 리그 우승자 고석현. "여기까지 올라오는 데 지루했을테니 빨리 쉬게 만들겠다"고 호기롭게 도발한 양희수는 1경기에서 보기 좋게 망신을 당하나 싶었으나 그 뒤로 내리 세 세트를 따내고 또 한 명의 거물을 찍어넘겼다. 어떻게 이런 선수가 GSL에서는 빛을 못 봤는지 의구심이 들 정도.
+
+||<tablealign=center><-5> '''결승전'''(7월 6일 18시) ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+||<#C0C0C0> [attachment:Ticon_small.png]최지성 || 3 || 4 ||<#FFD700> [attachment:Picon_small.png]양희수 || {{{#ff0000 기착지}}}, 회전목마, {{{#ff0000 만발의 정원}}},[[br]]{{{#ff0000 세종과학기지}}}, 프로스트,[[br]]알터짐 요새, 해비테이션 스테이션 ||
+
+'''양희수, 역사를 새로 쓰다'''
+프리미어 챔피언까지 쓰러뜨린 양희수의 다음 상대는 시즌 챔피언 최지성! 과연 최지성은 간단한 상대가 아니었다. 첫 세트를 내주고, 급히 한 세트를 만회했지만 3·4세트를 연이어 내주고 말았다. 모두가 '아, 양희수도 여기까지인가'라는 탄식을 내뱉었는데…….
+5세트에서 뜬금없이 예능이 터졌다. 양쪽이 엘리전에 들어가면서 경기가 묘하게 꼬인 상황. 서로 본진을 털어버리고 경기가 교착에 빠지자 다수의 일꾼을 살린 양희수가 5시 지역에 연결체를 건설해 자원 채취를 시작했다. 일꾼이 한 기도 남아있지 않았고, 남은 병력에서도 크게 밀리던 최지성은 양희수의 연결체를 테러하고 채팅으로 도발을 하는 호기를 부린다.
+>너 (광물) 400 있어?
+
+>아뇨(당시 양희수가 모은 광물은 340이었다)
+한 방 먹인 최지성은 사령부와 병영을 공중 빈 공간으로 띄워 무승부를 유도했다. 하지만 추적자의 입자 분열기는 아슬아슬하게 최지성의 사령부에 닿았고 결국 GG를 받아냈다. 관중들은 결승전에서 나온 이 촌극에 빵 터졌다.
+이어진 6세트에서 양희수의 사이오닉 폭풍이 최지성의 멘탈을 휩쓸고…결국 최종전이 시작됐다. 맵은 해비테이션 스테이션, 최지성은 테란…그렇다, ["강남테란"모두가 설마했던 그것]이 결국 '''결승전 마지막 세트'''에서 나왔다! 이를 확인한 양희수는 예언자로 일꾼털이를 한 뒤, 한 술 더 떠 '''함대 신호소'''를 올리는 기행을 벌인다. 양희수의 해답은 --우주모함--…이 아니고 폭풍함[* 우주모함을 예측한 사람이 많긴 했다.]! 광전사-폭풍함의 조합은 해병-불곰으로 구성된 최지성의 지상군을 못 살게 굴었고, 최지성은 폭풍함의 원거리 요격에 병력을 태운 의료선을 날려먹는 등 혼란에 빠지다가 양희수의 [로얄로더] 등극에 크게 기여하고 말았다.
+== 결과 ==
+||<tablealign=center> '''순위''' || '''상금''' || '''포인트''' |||| '''성명''' || 다음 시즌 ||
+||<#FFD700> 우승 || $25000|| 2000점|||| 양희수 ||<|9><#FFD700> 프리미어 리그 ||
+||<#C0C0C0> 준우승 || $15000|| 1000점|||| 최지성 ||
+||<#8C7853> 3위 || $7000|| 750점|| 김민혁 || 고석현 ||
+||<|2> 5위 ||<|2> $5000||<|2> 500점|| 김동환 || 양준식 ||
+|| 최성훈 || 윤영서 ||
+||<|2> 9위 ||<|4> $3000||<|2> 300점|| 왕레이 || 김동현 ||
+|| 황후이밍 || 후안 로페즈 ||
+||<|2> 13위 ||<|2> 250점|| 김학수 || 임재덕 ||
+|| 김민규 || 윤명혁 ||
+||<|4> 17위 ||<|8> $2000||<|4> 150점|| 크리스 로랑줴 || 최재원 ||<|8> 챌린저 리그 ||
+|| 케빈 라일리 || 알렉스 선더하프트 ||
+|| 차오진후이 || 크리스 리 ||
+|| 치앤잔치 || 코난 리우 ||
+||<|4> 25위 ||<|4> 100점|| 송현덕 || 마루 킴 ||
+|| 브랜든 퀄 || 후타오 ||
+|| 이제동 || 헨리 정 ||
+|| 후 시앙 || 양지아정 ||
+= 통계 =
+ * 종족별
+  * 챌린저 리그
+   * 출전: attachment:Ticon_small.png 6+3, attachment:Zicon_small.png 5+9, attachment:Picon_small.png 5+4
+   * 통과: attachment:Ticon_small.png 4, attachment:Zicon_small.png 8, attachment:Picon_small.png 4
+  * 프리미어 리그  
+   * 1라운드: attachment:Ticon_small.png 5+4, attachment:Zicon_small.png 4+8, attachment:Picon_small.png 7+4
+   * 2라운드: attachment:Ticon_small.png 5, attachment:Zicon_small.png 7, attachment:Picon_small.png 4
+   * 8강: attachment:Ticon_small.png 4, attachment:Zicon_small.png 2, attachment:Picon_small.png 2
+   * 4강: attachment:Ticon_small.png 2, attachment:Zicon_small.png 1, attachment:Picon_small.png 1
+ * 국적별
+  * 챌린저 리그
+   * 출전: attachment:Kr.png 6+5, attachment:Us.png 2+5, attachment:Ca.png 4+1, attachment:Tw.png 2+2, attachment:Cn.png 1+2, attachment:Mx.png 1, attachment:Au.png 0+1
+   * 통과: attachment:Kr.png 6, attachment:Us.png 3, attachment:Cn.png 3, attachment:Ca.png 2, attachment:Tw.png 1, attachment:Mx.png 1
+  * 프리미어 리그  
+   * 1라운드: attachment:Kr.png 10+6, attachment:Cn.png 3+3, attachment:Us.png 2+3, attachment:Ca.png 1+2, attachment:Mx.png 0+1, attachment:Tw.png 0+1 --한국 對 비한국 엄대엄 달성--
+   * 2라운드: attachment:Kr.png 13, attachment:Cn.png 2, attachment:Mx.png 1 --["1승만 하라고 스막 시발들아"도배 좀 그만 하라고 김치 시발들아]--
+   * 8강: [더 이상의 자세한 설명은 생략한다] --이거 그만 쓰고 싶어요 [현기증 난단 말이에요]--
+= 대회 정리 =
+'''설마가 사람 잡는다'''
+누구도 이제동이 또 1라운드에서 꼴사납게 탈락할 줄 몰랐고, 누구도 후안 로페즈가 2라운드에 진출할 줄 몰랐으며, 누구도 윤영서가 8강에서 좌절할 줄 몰랐다. 그리고, 누구도 양희수가 빅뉴스를 터뜨릴 줄 몰랐다.
+'''숱한 화제를 낳다'''
+온갖 날빌의 향연으로 팬들은 지루할 틈이 없었고, 양희수의 우승은 큰 감동을 불러왔다. 마치 [김경덕]이 우뚝 섰던 그 때 그 순간처럼.

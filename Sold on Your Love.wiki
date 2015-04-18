@@ -1,0 +1,29 @@
+[[목차]]
+== 개요 ==
+{{{#!html
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/y29L21WIAwA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || R&B ||
+|| 작곡 || [[Mellow Funk Sound]] ||
+|| 작사 || Kim JungHan ||
+|| 보컬 || Kim Yena ||
+|| BPM || 98 ||
+|| 타이틀 || RIMA ||
+
+[DJMAX 시리즈]에 수록된 [Mellow Funk Sound]의 신곡. 이 곡은 [[Play the Future]]에서 간접적으로나마 DJMAX 시리즈에 참가했던 Mellow Funk Sound가 처음으로 DJMAX 시리즈에 참가한 곡이다. 첫 수록은 [DJMAX RAY]이다. 해당 게임 내에선 Fusion 팩에서 챌린지 미션 8개를 모두 클리어하면 등장하는 히든곡으로 등장한다.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Fusion 팩 수록곡 ||
+|| [Super Lovely] || [Memoirs] || [Emblem] || [Showtime] || '''Sold on Your Love''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 2 || ||
+||<#0000FF> {{{#white HD}}} || 4 || ||
+||<#FF0000> MX || 7 || ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/0mip17roofc" frameborder="0" allowfullscreen></iframe>
+}}}
+[[Pray For You]]와 마찬가지로 느리고 잔잔한 곡의 분위기에 따라 패턴도 쉽게 나왔다.

@@ -1,0 +1,19 @@
+attachment:War_evasion.png?width=200
+
+|||||||||||||| [GITADORA] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 116 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 2.90}}} || {{{#orange 5.10}}} || {{{#red 7.40}}} || {{{#purple 8.70}}} ||
+|| 기타 베이스 || {{{#blue 3.10}}} || {{{#orange 4.60}}} || {{{#red 6.10}}} || {{{#purple 8.50}}} ||
+|| 드럼매니아 || {{{#blue 3.30}}} || {{{#orange 5.20}}} || {{{#red 6.60}}} || {{{#purple 8.10}}} ||
+
+[[GITADORA OverDrive]]의 수록곡. 작곡가는 전작에서 [[S.LAUNCHER]]을 냈었던 [http://www.strand-web.com/?page_id=381 STRAND]. Music Factory Vol.4의 해금곡으로 등장했다.
+
+노래의 박자는 5/8박자라고 한다.
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/Ohx7sYKXPfs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+드럼 MASTER 보면의 경우, 중반까지는 어느 정도 난이도값을 하는 노래지만, 중반의 휴식기간 뒤, '''15초 동안 32비트 투베이스 난타가''' 떨어진다. 이 구간에 할당된 노트수는 239개. 이를 16비트로 환산하면 BPM '''232'''로, [[MODEL DD10]]을 뛰어넘는 기록이다.
+그럼에도 이 MASTER 보면의 표기 난이도는 불과 '''8.10'''. 당연히 [[사기 난이도]] 확정.

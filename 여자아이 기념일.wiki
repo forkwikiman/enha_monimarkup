@@ -1,0 +1,43 @@
+[[목차]]
+
+== 개요 ==
+여자아이 기념일(おにゃのこ　きねんび)은 [[햐다인]]이 작곡한 곡이다. 부른 사람은 [[세키항]]. 여기서 세키항은 소녀의 목소리와 아버지를 동시에 소화해냈다. 여담으로 가사를 보면 알겠지만 아버지가 [[딸바보]]다.
+
+== 오리지널 영상 ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/UjsPM2qfICY" frameborder="0" allowfullscreen></iframe>
+}}}
+ * 오리지널 버전, 그린 사람은 [[집 뒤에 개복치가 죽어 있어P]]의 개복치 누나다.
+
+== [[사운드 볼텍스]]에 수록 ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/O75XglVeMzI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/06/j_05_01.png?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/06/j_05_01.png?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/06/j_05_01.png?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 09}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0574}}} || {{{#orange 0619}}} || {{{#ff009f 1448}}} ||
+|| 일러스트 담당 || {{{#purple カズアキ}}} || {{{#orange カズアキ}}} || {{{#ff009f カズアキ}}} ||
+|| 이펙터 || {{{#purple PHQUASE}}} || {{{#orange PHQUASE}}} || {{{#ff009f PHQUASE}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 06(2012.6.8)}}} ||
+|| [[BPM]] |||||| 180 ||
+
+자켓은 세키항의 세번째 앨범 'SEKIHAN the TRESSURE'의 자켓을 그대로 사용.
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/l_DzBiPTC48" frameborder="0" allowfullscreen></iframe>
+}}}
+ * EXH 패턴 PUC 영상
+
+[[PHQUASE]]패턴이 늘 그랬듯, 노브와 폭타+동시치기에 자신있으면 클리어 그렇치 않으면 트랙 크래쉬, 모든것이 전형적인 개인차인 곡. 초반 S!E!K!I!H!A!N!의 노트 4개동시치기와 직각노브관광(ex.ㄹ 패턴)+그후엔 동시치기의 노트+중반엔 노브와 롱노트, 숏노트 + 노트 + 노브 이리저리 돌려치기 → 중후반엔 노브관광과 더불어 노트치기가 전부.
+
+마지막은 더 압권으로, 유류세나이~후에 나오는 노브 돌리기가 이게 손이 꼬이게 만들어놓아서 헷갈릴 수 있으나 끝에선 동시에 딱 끊어진뒤 끝.
+
+[[코나미 아케이드 챔피언쉽/2012|KAC 2012]] 사볼 예선곡으로 채택되었다.
+
+[[사운드 볼텍스 III 그래비티 워즈]]에서 14에서 13으로 난이도가 조정되었다.
+

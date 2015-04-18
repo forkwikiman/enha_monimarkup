@@ -1,0 +1,44 @@
+[[목차]]
+== 미국의 일렉트로니카 뮤지션 [[DM Ashura]]의 곡 ==
+작곡자는 [[DM Ashura]]. 보컬은 [[버터플라이]]등으로 DDR 유저들에게 친숙한 SMiLE.dk의 Veronica Almqvist가 담당하였다.
+
+=== [[댄스 댄스 레볼루션]] ===
+{{{#!html
+<embed src="http://www.youtube.com/v/ejmWXafU0qw?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+익스퍼트 난이도의 플레이 동영상.
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 8}}} || {{{#purple 9}}} ||
+||<|3> 144|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+||  || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 8}}} || {{{#purple 9}}} ||
+ * 해당 작품의 10단계 난이도 기준..
+
+[[wiki:"댄스 댄스 레볼루션/시리즈" 댄스 댄스 레볼루션 UNIVERSE 3]]의 수록곡.
+
+채보의 난이도는 엇박이 많지만 무리없이 밟을 수 있는 수준. 단 익스퍼트나 챌린지난이도의 경우에는 허리를 트는 구간이 다수 있기 때문에 봉을 잡고 하면 허리가 꼬여서 밟는 것을 놓치거나, 의도치 않게 발을 끌게 되는 수가 종종 있다.
+
+=== [[펌프 잇 업]] ===
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/Pro 2" Pump It Up Pro 2]] ||
+|| 아티스트 |||| [[DM Ashura]] ||
+|| BPM |||| 127 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| World Music / Fiesta EX ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 2 / 5 / 9 / 15 ||
+||<#009900> Double || 11 / 17 ||
+||<#F77FBE> Single Performance || 3 ||
+||<#87CEEB> Double Performance || 4 ||
+
+[[youtube(rVXXiFlGFTA,width=560,height=315)]]
+@D17 영상
+
+이 곡의 특이점은 바로 '''[[펌프 잇 업]]에서의 수록'''. [wiki:"펌프 잇 업/Pro 2" PRO 2]에 먼저 실린 뒤에 [wiki:"펌프 잇 업/FIESTA EX" FIESTA EX]에 이식되어있는데, 라이센스의 경우 두 게임이 겹친 적이 몇번 있긴 하지만 '''"이게 어떻게 실렸지???"'''라는 의문을 가진 사람들이 많았다. 실은 이 곡도 두 작품 다 라이센스 형식으로 수록되었기 때문에 이러한 기묘한 수록이 가능한 것.
+
+전체적으로 중,저렙 채보 위주의 곡으로 그럭저럭 무난한 편. 싱글 15의 경우 후반부 허리틀기가 꽤 빡센 편이라 15중에서 상위권에 속한다.
+
+펌프 잇 업에서의 채보는 DDR에 비해 달리는 형식으로 채보가 구성되어 있다. 양 게임에서의 채보 제작의 방향성을 비교할 수도 있다.

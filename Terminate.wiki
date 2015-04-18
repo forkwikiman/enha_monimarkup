@@ -1,0 +1,37 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+||<tablewidth=100%> '''영어판 명칭''' || '''Terminate''' ||<width=223px><|5>attachment:/Terminate.jpg||
+|| '''한글판 명칭''' || — ||
+|| '''마나비용''' || {B}{R} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 순간마법 ||
+||||<height=190px> 생물 한 개를 목표로 정한다. 그 생물을 파괴한다. 그 생물은 재생할 수 없다. ||
+
+전환마나비용과 효과만 따지면 [[테러]], [[파멸의 칼날]], [[Go for the Throat]], [[살인]], [[밤의 피해자]], [[궁극의 대가]], 등등 순수 흑색의 온갖 목표지정형 단일 디나이얼들의 '''압도적 상위호환'''. 순수 흑색의 목표지정형 단일 디나이얼들은 대개 목표 지정에 제한이 있거나, 재생은 가능한 경우가 많은데, 이 카드는 그런거 없이 생물이면 닥치고 목표로 정할 수 있고 재생도 무조건 씹어버린다. 게다가 전환마나비용도 그 하위호환들 중에서도 저렴한 축에 속하는, '''겨우 2'''.
+
+게다가 그런 주제에 언커먼도 아니고 '''커먼''' 밖에 되지 않는다. 그야말로 '''최강의 단일 디나이얼'''. [wiki:"정당성의 입증" 다색이란 이유로 지나치게 강한 성능을 준 사례] 중 하나다. 때문에 활약하지 않은 적이 없으며, 특히 모던에선 [[Path to Exile]]과 함께 포맷 내의 강력한 디나이얼로 활약중.
+
+
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Planeshift || Invasion ||<|5><:>커먼||
+|| Alara Reborn || Alara ||
+|| Archenemy ||<|3><:>—||
+|| Commander ||
+|| Duel Decks: Sorin vs. Tibalt ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+|| 블럭컨스 |||| 사용가능 ||
+|| 모던 |||| 사용가능 ||
+|| 레가시 |||| 사용가능 ||
+|| 빈티지 |||| 사용가능 ||
+|| [[EDH]] |||| 사용가능 ||
+
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''[[wiki:"플레이버 텍스트"배경담]]''' ||
+|| Planeshift || ''Like his mother before him, Darigaaz gave his life defending Dominaria from the tyranny of self-styled "gods."'' ||
+|| Alara Reborn ||<|4>''"I've seen death before. My mother succumbing to illness, my comrades bleeding on the battlefield . . . But I'd never seen anything as dreadful as that."[[br]]—Taani, berserker of Etlan''||
+|| Archenemy ||
+|| Commander ||
+|| Duel Decks: Sorin vs. Tibalt ||

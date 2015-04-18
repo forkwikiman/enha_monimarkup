@@ -1,0 +1,9 @@
+||<tablealign=center><-6><#541b15><:> [[한국프로야구 퓨처스리그|<span style="font-weight:bold;color:white">한국프로야구 2군</span>]] [[틀:한국프로야구/2군구장|<span style="font-weight:bold;color:white">소속구단 홈구장</span>]] ||
+||<width=10%><|2><#ffdc00> '''{{{#000000 옐로우 }}}''' [[br]] '''{{{#000000 리그 }}}''' ||<width=10%><#ffdc00> '''{{{#000000 구단 }}}''' ||<width=20%><#ffffff><:> [[wiki:"롯데 자이언츠/2군" attachment:/lotte_giants_s.png]] ||<width=20%><#ffffff><:> [[wiki:"삼성 라이온즈/2군" attachment:/samsung_lions_s.png]] ||<width=20%><#ffffff><:> [[상무 피닉스 야구단|attachment:/sangmu_s.png]] ||<width=20%><#ffffff><:> [[wiki:"KIA 타이거즈/2군" attachment:/kia_tigers_s.png]] ||
+||<#ffdc00> '''{{{#000000 홈구장 }}}''' || [[상동 야구장]] || [[삼성 라이온즈 볼파크]] || [[문경 상무 야구장]] || [[기아 챌린저스 필드]] ||
+||<|2><#ff4500> '''{{{#ffffff 레드 }}}''' [[br]] '''{{{#ffffff 리그 }}}''' ||<#ff4500> '''{{{#ffffff 구단 }}}''' ||<#ffffff><:> [[wiki:"한화 이글스/2군" attachment:/hanwha_eagles_s.png]] ||<#ffffff><:> [[wiki:"화성 히어로즈" attachment:/hwaseong_heros_s.png]] ||<#ffffff><:>[[wiki:"고양 다이노스" attachment:/nc_dinos_s.png]] ||<#ffffff><:> [[wiki:"SK 와이번스/2군" attachment:/sk_wyverns_s.png]] ||
+||<#ff4500> '''{{{#ffffff 홈구장 }}}''' || [[서산 야구장]] || [[화성 히어로즈 베이스볼 파크|화성 베이스볼 파크]] || [[고양 국가대표 야구훈련장|고양 야구장]] || [[SK 퓨처스 파크]] ||
+||<|2><#055099> '''{{{#ffffff 블루 }}}''' [[br]] '''{{{#ffffff 리그 }}}''' ||<#055099> '''{{{#ffffff 구단 }}}''' ||<#ffffff><:> [[wiki:"경찰 야구단" attachment:/police_baseball_s_5.png]] ||<#ffffff><:> [[wiki:"두산 베어스/2군" attachment:/doosan_bears_s.png]] ||<#ffffff><:>  [[wiki:"KT 위즈/2군" attachment:/KT_Wiz_s.png]] ||<#ffffff><:>[[wiki:"LG 트윈스/2군" attachment:/lg_twins_s.png]] ||
+||<#055099> '''{{{#ffffff 홈구장 }}}''' || [[서울경찰수련장 야구장|벽제 야구장]] || [[베어스 파크]] || 여주 베이스볼 파크 [[br]] (가칭) || [[LG 챔피언스 파크]] ||
+||<|2><:><#808080> '''{{{#white 번외}}}''' ||<#808080> '''{{{#white 구단}}}''' ||<#ffffff><:>[[후쿠오카 소프트뱅크 호크스|attachment:/softbank_s_1.png]] ||
+||<#808080> '''{{{#white 홈구장}}}''' || 초청팀 자격으로 참가 ||

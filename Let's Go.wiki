@@ -1,0 +1,25 @@
+|||| [[BEATCRAFT CYCLON/수록곡|BEATCRAFT CYCLON 수록곡 목록]] ||
+|| 장르 || Idol Pop ||
+|| 작곡 || [[Rinat Arinos]] ||
+|| 보컬 || [[Rinat Arinos]] ||
+|| BPM || 135 ||
+|| 아이캐치 || WB Lee ||
+
+{{{#!html
+<iframe width="70%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/54549527&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+}}}
+
+비트크래프트 싸이클론을 통해 처음으로 이름을 알리는 영미권 뮤지션 Rinat Arinos의 곡으로, 전형적인 미국식 댄스 팝 스타일의 곡이다. 저난이도 패턴 위주의 초심자~중급자용 곡으로, 롱노트+일반 노트로 구성된 패턴이 많아 게이지를 채워 스코어링에 활용하기에 좋은 패턴으로 짜여져 있는 것이 특징이다.
+
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/RqzcEVcvh6s" frameborder="0" allowfullscreen></iframe>
+}}}
+HD 패턴
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/O-w-fgkMlwE" frameborder="0" allowfullscreen></iframe>
+}}}
+PR 패턴
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/KdE1Y_rFwNE" frameborder="0" allowfullscreen></iframe>
+}}}
+MX 패턴

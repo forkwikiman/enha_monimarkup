@@ -1,0 +1,23 @@
+attachment:skorge.jpg
+'''왼쪽이 [[마커스 페닉스]], 오른쪽이 [[스코지]]'''
+
+[[기어즈 오브 워 2]]에 등장하는 로커스트측 캐릭터
+
+무기는 듀얼 체인소 스태프로 전작의 [[라암]]을 대신하는 캐릭터. 키는 [[마커스 페닉스]]의 두배지만 멀티플레이에서 플레이할땐 크기가 줄어든다. 첫등장시 COG의 켄타우로스 전차를 체인소 스태프로 '''두동강'''내는 모습을 보였다. 엄청나게 임팩트있는 등장.
+
+장군이지만 여왕에 붙어다니며, 라암과 달리 병사를 지도하는 면이 없고, 말을 할수 없는 면으로 미뤄보아 여왕의 근위장군에 더 가깝다.
+
+고르곤 피스톨을 쓰거나, 가스 수류탄을 쓰며 티커들을 이끌기도 하는 모습을 보면 영락없는 칸투스다. 기어즈 오브 워 2편의 설정을 보면 칸투스들을 이끄는 칸투스들의 승려리더.
+모델링 자체도 '''[[라암]]'''이 전편에서 '''[[테론 가드]]'''를 기반으로 돼있었다면, 스코지는 '''칸투스'''를 기반으로 만들어진 캐릭터인듯 하다.
+
+[[include(틀:스포일러)]]
+
+이하 스코지 보스전과 그의 최후
+
+액트 4에서 [[로커스트 여왕]]을 호위하며 마커스와 싸운다. 티커들을 보내고 폭탄을 던지며 기둥을 잘라내다가 접근해서 전기톱 대결을 벌인다. 몇번 하다보면 히드라를 타고 도망가고, 액트 5 초반에 히드라를 탄 스코지와 싸워서 이기면 히드라와 함께 스코지는 죽게 된다.
+
+최종보스다운 무게감의 라암과는 달리 스코지는 독특한 캐릭터성과 이 게임의 '''핵심'''인 전기톱질로 상당한 재미를 준다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/jqCtTlX0Xn4&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jqCtTlX0Xn4&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}

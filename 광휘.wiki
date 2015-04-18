@@ -1,0 +1,166 @@
+ * 관련 항목 : [[주인공(포켓몬스터)]]
+
+||<-5><#6482ff><tablealign=center> '''프로필''' ||
+||<|15> attachment:/Platinum_Lucas.png?align=center&width=200 ||
+||<#6482FF> '''이름''' ||<#64AAFF> 광휘 ||
+||<#6482FF> '''성별''' ||<#64AAFF> [[남성]] ||
+||<#6482FF> '''눈 색깔''' ||<#64AAFF> [wiki:"눈/검은색" 흑색] ||
+||<#6482FF> '''머리 색깔''' ||<#64AAFF> [wiki:"머리카락/검은색" 흑색] ||
+||<#6482FF> '''트레이너 계급''' ||<#64AAFF> [[포켓몬 트레이너]] ||
+||<#6482FF> '''지방''' ||<#64AAFF> [[신오지방]] ||
+||<|2><#6482FF> '''출신지''' ||<#64AAFF> [[떡잎마을]] (주인공) ||
+||<#64AAFF> [[잔모래마을]] (NPC) ||
+||<|2><#6482FF> '''가족관계''' ||<#64AAFF> [[진희]]([[wiki:"주인공의 어머니(포켓몬스터)" 어머니]]), 아버지 [* 주인공 캐릭터로 등장할 시] ||
+||<#64AAFF> 아버지, 할아버지, 여동생[* NPC 캐릭터로 등장할 시] ||
+||<#6482FF> '''주된 타입''' ||<#64AAFF> 다양 ||
+||<#6482FF> '''데뷔작''' ||<#64AAFF> [[포켓몬스터 DP 디아루가·펄기아]] ||
+||<#6482FF> '''세대''' ||<#64AAFF> 4 ||
+||<#6482FF> '''등장 게임''' ||<#64AAFF> [wiki:"포켓몬스터 DP 디아루가·펄기아"DP 디아루가·펄기아][[br]][wiki:"포켓몬스터 Pt 기라티나"Pt 기라티나] ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/주인공)]]
+
+== 캐릭터 정보 ==
+--'''[자쿠와는 다르다 자쿠와는|광희와는 다르다, 광희와는!]'''--
+[[포켓몬스터]] 시리즈의 네번째 주인공.
+
+4세대 [[포켓몬스터 DP 디아루가·펄기아]] [[포켓몬스터 Pt 기라티나]]의 [wiki:"주인공(포켓몬스터)"남주인공]. 광휘라는 이름은 여주인공을 골랐을 때의 디폴트 네임이고 주인공으로 고를 때에는 플레이어가 원하는대로 이름을 지을 수 있다.
+
+=== 주인공으로 선택할 시 ===
+[[떡잎마을]] 출신으로, 라이벌이자 소꿉친구인 [wiki:"용식(포켓몬스터)" 용식]과 사고를 치다가 [[마박사]]에게 걸리지만 사과를 하고 두 사람의 진실된 마음을 안 마박사에게 [[스타팅 포켓몬]]과 [[포켓몬 도감]]을 받고 모험을 떠난다. 여행 중에 마주치는 범죄조직 [[갤럭시단]]과 싸워나가면서 그들로부터 신오지방을 지킬 것을 다짐한다. 체육관 배지를 얻어가면서 점점 성장해 나가고 결국 천관산에서 전설의 포켓몬을 이용해 신세계를 만들려는 갤럭시단의 보스 태홍의 야망을 완전히 저지하기까지 한다. 
+
+이후 8개의 체육관 배지를 모두 얻고 포켓몬 리그에 도착. 사천왕들과 챔피언 [[난천]]에게 승리하여 신오지방의 새로운 [[wiki:"챔피언(포켓몬스터)" 챔피언]]이 된다.
+
+=== 주인공으로 선택하지 않을 시 ===
+반대 성별인 [[wiki:"빛나(포켓몬스터)" 빛나]]를 주인공으로 고를 시엔 [[잔모래마을]] 포켓몬 연구소의 [[마박사]] 곁에서 조수로 일하는 NPC로 등장한다. 제작진이 플레이어의 분신인 캐릭터에게 쓸데없는 개성을 부여하기 싫었던 것인지 NPC 캐릭터일 땐 비중이 그렇게 크지 않은 편. 그래도 중간중간에 나타나 이것저것 알려주거나 아이템을 주는 등 상당히 친절하다. 하지만 도감을 완성해서 마박사 연구소에 찾아가면 NPC 광휘의 아버지인 연구자가 "그에 비하면 우리 광휘는……."이라면서 한숨 쉬는 걸 보아 실력은 주인공에 비해 초라한 것으로 보인다.
+
+확장판인 Pt 기라티나에서는 [[천관산]] 이벤트에서의 비중을 [[난천]]이 가져가버렸다. ~~안 그래도 비중 적어서 서러운데~~ 또, 리조트 에리어에서 얻을 수 있는 별장에 소파를 들여놓으면 NPC 광휘를 별장에서 볼 수 있다.
+
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed> * 광휘의 테마
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile3.uf.tistory.com/media/2737103851FBC69F2FB777"></object>}}}||
+
+=== 기타 ===
+ * [[포켓몬스터 DP]] 애니메이션에서 [[한지우(포켓몬스터 애니메이션 시리즈)|지우]]가 입었던 옷은 DP 디아루가/펄기아 버젼의 광휘의 옷과 똑같다.
+
+ * 5세대 작품군인 [[포켓몬스터 블랙·화이트]]에서 직접 등장하지는 않지만 [[난천]]한테서 '기라티나와 마주 대한 그 트레이너'로 언급된다.
+
+ * 여주인공인 [[wiki:"빛나(포켓몬스터)" 빛나]]나 라이벌인 [[wiki:"용식(포켓몬스터)" 용식]]에 비해 취급이 상당히 안 좋은데, [wiki:"포켓몬스터 DP" 애니메이션]에서 빛나는 메인 히로인으로, 용식은 [한지우]의 라이벌로 인기를 구가하는 반면 이쪽은 지우 때문에  [[그런 거 없다]]. 그리고 은근히 게임 주인공들 사이에서도 존재감이 낮다(...).
+
+ * 게임 중 [[포켓몬 도감]]에서 포켓몬과 주인공의 크기, 무게를 비교하는 기능을 사용하면 키가 145cm, 몸무게는 38kg인 것을 알 수 있다.~~어째 심향보다 체격이 더 작다(...)~~
+
+ * [[Twitch Plays Pokémon/시즌 5]]의 ~~[[영원히 고통받는]]~~ 주인공으로 등장. 이름은 nqpppnl이다. 별명은 [[나폴레옹]], [유두|Nipple](...)이다.
+
+=== 삽화 ===
+||<-2><tablealign=center><#6482ff> 일러스트 ||
+|| attachment:/Diamond_Pearl_Lucas.png?width=150 || attachment:/Lucas_anime_artwork.png?width=390 ||
+|| [wiki:"포켓몬스터 DP 디아루가·펄기아" DP 디아루가·펄기아]에서의 공식 일러스트 || 애니메이션 설정화 ||
+
+
+||<-5><#6482FF><tablealign=center> 스프라이트 ||
+|| attachment:/Spr_DP_Lucas.png || attachment:/DP_Lucas_Back.png || attachment:/DP_Lucas_Intro.png || attachment:/Lucaswalkdown.png || attachment:/LucasContestwalkdown.png ||
+|| 트레이너[[br]](디아루가·펄기아) || 뒷모습[[br]](디아루가·펄기아) || 인트로[[br]](디아루가·펄기아) || 필드[[br]](디아루가·펄기아) || 슈퍼 콘테스트 ||
+|| attachment:/Spr_Pt_Lucas.png || attachment:/Pt_Lucas_Back.png || attachment:/Pt_Lucas_Intro.png || attachment:/LucasPtwalkdown.png || attachment:/LucasChallenge.png ||
+|| 트레이너[[br]](기라티나) || 뒷모습[[br]](기라티나) || 인트로[[br]](기라티나) || 필드[[br]](기라티나) || VS ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#6482ff"><:> 언어 || 이름 || 유래 ||
+|| 일본어 || 코우키 コウキ || 환하고 아름답게 눈이 부심을 뜻하는 단어 광휘(光輝)의 일본어 발음. ||
+|| 한국어 || 광휘 || 광휘(光輝). 일칭의 유래와 동일. ||
+|| 영어 || 루카스 Lucas || [[라틴어]]로 빛을 뜻하는 lux-lucis에서. ||
+
+= 소유 포켓몬 =
+== 포획 튜토리얼 ==
+||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#6699ff> attachment:/Spr_b_4d_393.png ||
+||<#dcdcdc> [[팽도리]] ♂/♀[[br]](Lv.5) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] ||
+||<:> __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[막치기]][[br]][[울음소리]] ||
+
+||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#66cc66> attachment:/Spr_b_4d_387.png ||
+||<#dcdcdc> [wiki:"토대부기" 모부기] ♂/♀[[br]](Lv.5) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]] ||
+||<:> __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[몸통박치기]][[br]][[껍질에숨기]] ||
+
+||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#ff9933> attachment:/Spr_b_4d_390.png ||
+||<#dcdcdc> [wiki:"초염몽" 불꽃숭이] ♂/♀[[br]](Lv.5) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+||<:> __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[할퀴기]][[br]][[핥기]] ||
+
+== 주인공과의 협동 배틀 ==
+=== [[축복시티]]에서 ===
+||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#6699ff> attachment:/Spr_b_4d_393.png ||
+||<#dcdcdc> [[팽도리]] ♂/♀[[br]](Lv.13) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] ||
+||<:> __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[거품]][[br]][[막치기]] ||
+
+||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#66cc66> attachment:/Spr_b_4d_387.png ||
+||<#dcdcdc> [wiki:"토대부기" 모부기] ♂/♀[[br]](Lv.13) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]] ||
+||<:> __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[흡수]][[br]][[몸통박치기]] ||
+
+||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#ff9933> attachment:/Spr_b_4d_390.png ||
+||<#dcdcdc> [wiki:"초염몽" 불꽃숭이] ♂/♀[[br]](Lv.13) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+||<:> __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[불꽃세례]][[br]][[할퀴기]] ||
+
+=== [[장막시티]]에서 ===
+||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 모부기일 때'''}}} ||
+||<#999966> attachment:/Spr_b_4d_035.png ||<#ff6699> attachment:/Spr_b_4d_064_m.png ||<#6699ff> attachment:/Spr_b_4d_394.png ||
+||<#dcdcdc> [[삐삐]] ♀[[br]](Lv.25) ||<#dcdcdc> [wiki:"후딘" 윤겔라] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"엠페르트" 팽태자] ♂/♀[[br]](Lv.28) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]] ||
+|| __특성__ :[[br]]헤롱헤롱바디 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]급류 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[손가락흔들기]][[br]][[노래하기]][[br]][[중력]][[br]][[잠깨움뺨치기]] || __기술배치__ :[[br]][[환상빔]][[br]][[사이코커터]][[br]][[리플렉터]][[br]][[빛의장막]] || __기술배치__ :[[br]][[거품광선]][[br]][[쪼기]][[br]][[마구찌르기]][[br]][[메탈 크로우]] ||
+
+||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 불꽃숭이일 때'''}}} ||
+||<#999966> attachment:/Spr_b_4d_035.png ||<#ff6699> attachment:/Spr_b_4d_064_m.png ||<#66cc66> attachment:/Spr_b_4d_388.png ||
+||<#dcdcdc> [[삐삐]] ♀[[br]](Lv.25) ||<#dcdcdc> [wiki:"후딘" 윤겔라] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"토대부기" 수풀부기] ♂/♀[[br]](Lv.28) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.7" attachment:/Pokemon_Type_Grass.png]] ||
+|| __특성__ :[[br]]헤롱헤롱바디 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]심록 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[손가락흔들기]][[br]][[노래하기]][[br]][[중력]][[br]][[잠깨움뺨치기]] || __기술배치__ :[[br]][[환상빔]][[br]][[사이코커터]][[br]][[리플렉터]][[br]][[빛의장막]] || __기술배치__ :[[br]][[잎날가르기]][[br]][[메가드레인]][[br]][[물기]][[br]][[저주]] ||
+
+||||||<tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff '''주인공의 스타팅 포켓몬이 팽도리일 때'''}}} ||
+||<#999966> attachment:/Spr_b_4d_035.png ||<#ff6699> attachment:/Spr_b_4d_064_m.png ||<#ff9933> attachment:/Spr_b_4d_391.png ||
+||<#dcdcdc> [[삐삐]] ♀[[br]](Lv.25) ||<#dcdcdc> [wiki:"후딘" 윤겔라] ♂[[br]](Lv.25) ||<#dcdcdc> [wiki:"초염몽" 파이숭이] ♂/♀[[br]](Lv.28) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]헤롱헤롱바디 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]맹화 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[손가락흔들기]][[br]][[노래하기]][[br]][[중력]][[br]][[잠깨움뺨치기]] || __기술배치__ :[[br]][[환상빔]][[br]][[사이코커터]][[br]][[리플렉터]][[br]][[빛의장막]] || __기술배치__ :[[br]][[화염자동차]][[br]][[불꽃세례]][[br]][[마하펀치]][[br]][[마구할퀴기]] ||
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 SPECIAL]]에서 ==
+ * [[다이아몬드(포켓몬스터 SPECIAL)]]
+
+== [[포켓몬스터 애니메이션 시리즈]]에서 ==
+attachment:/Lucas_anime.png
+
+포켓몬스터 11기 극장판 기라티나와 얼음 하늘의 꽃다발 셰이미의 오프닝에서 3세대 작품군의 주인공 [[휘웅]]과 함께 대결하는 모습을 잠깐 볼 수 있다. --역시 은근슬쩍 끼어넣어서 불만 잠재우는 제작진-- 참고로 등장은 휘웅이 더 많다.~~3세대 인물인데 당연하지~~
+
+[[각주]]

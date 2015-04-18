@@ -1,0 +1,128 @@
+ * 상위 항목 : [서울특별시 시내버스]
+ * 참고한 사이트 : [http://newslibrary.naver.com/viewer/index.nhn?publishDate=1970-03-30&officeId=00020&pageNo=1 출처(동아일보, 1970. 3. 30, 8p)]
+
+[[목차]]
+
+= 개요 =
+1970년 4월 1일 대개편에 대하여 정리하는 페이지이다.
+
+= 변경 내용 =
+(좌 = 좌석, 입 = 입석, 급 = 급행)
+|| 새 번호 || 기존 번호 || 기점 || 종점 ||
+||<#dcdcdc>1 ||<#dcdcdc>71(좌) ||<#dcdcdc>정릉 ||<#dcdcdc>연희동 ||
+||<#dcdcdc>2 ||<#dcdcdc>72(좌) ||<#dcdcdc>정릉 ||<#dcdcdc>서강 ||
+||<#dcdcdc>3 ||<#dcdcdc>71(입) ||<#dcdcdc>정릉 ||<#dcdcdc>서강 ||
+||<#dcdcdc>7 ||<#dcdcdc>11(급) ||<#dcdcdc>수유리 ||<#dcdcdc>홍익대 ||
+||<#dcdcdc>8 ||<#dcdcdc>13(급) ||<#dcdcdc>수유리 ||<#dcdcdc>망원동 ||
+||<#dcdcdc>9 ||<#dcdcdc>13(입) ||<#dcdcdc>수유리 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>13 ||<#dcdcdc>12(급) ||<#dcdcdc>의정부 ||<#dcdcdc>의정부[*A 기사에서 기종점이 같은 곳으로 기재되어 있다.] ||
+||<#dcdcdc>14 ||<#dcdcdc>12(급) ||<#dcdcdc>의정부 ||<#dcdcdc>의정부[*A] ||
+||<#dcdcdc>15 ||<#dcdcdc>16(입) ||<#dcdcdc>도봉동 ||<#dcdcdc>종로5가 ||
+||<#dcdcdc>18 ||<#dcdcdc>12(입) ||<#dcdcdc>창동 ||<#dcdcdc>후암동 ||
+||<#dcdcdc>19 ||<#dcdcdc>11(좌) ||<#dcdcdc>쌍문동 ||<#dcdcdc>마포 ||
+||<#dcdcdc>20 ||<#dcdcdc>15(입) ||<#dcdcdc>쌍문동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>23 ||<#dcdcdc>13(좌) ||<#dcdcdc>삼양동 ||<#dcdcdc>용산동 ||
+||<#dcdcdc>24 ||<#dcdcdc>15(좌) ||<#dcdcdc>삼양동 ||<#dcdcdc>영등포 ||
+||<#dcdcdc>25 ||<#dcdcdc>17(좌) ||<#dcdcdc>미아국민학교 ||<#dcdcdc>효창동 ||
+||<#dcdcdc>26 ||<#dcdcdc>10(급) ||<#dcdcdc>삼양동 ||<#dcdcdc>안양 ||
+||<#dcdcdc>27 ||<#dcdcdc>17(입) ||<#dcdcdc>삼양동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>31 ||<#dcdcdc>10(좌) ||<#dcdcdc>장위동 ||<#dcdcdc>북아현동 ||
+||<#dcdcdc>32 ||<#dcdcdc>12(좌) ||<#dcdcdc>장위동 ||<#dcdcdc>후암동 ||
+||<#dcdcdc>33 ||<#dcdcdc>11(입) ||<#dcdcdc>장위동 ||<#dcdcdc>후암동 ||
+||<#dcdcdc>37 ||<#dcdcdc>23(좌) ||<#dcdcdc>이문동 ||<#dcdcdc>염리동 ||
+||<#dcdcdc>38 ||<#dcdcdc>23(입) ||<#dcdcdc>석관동 ||<#dcdcdc>원효로 ||
+||<#dcdcdc>39 ||<#dcdcdc>35(좌) ||<#dcdcdc>경희대 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>43 ||<#dcdcdc>25(좌) ||<#dcdcdc>상계동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>45 ||<#dcdcdc>24(좌) ||<#dcdcdc>불암동 ||<#dcdcdc>종로5가 ||
+||<#dcdcdc>48 ||<#dcdcdc>26(좌) ||<#dcdcdc>망우리 ||<#dcdcdc>응암동 ||
+||<#dcdcdc>49 ||<#dcdcdc>56(입) ||<#dcdcdc>중랑교 ||<#dcdcdc>문화촌[* 서대문구 홍제3동 일대에 있는 마을로, 인왕산 자락에 있는 산동네이다. 옛날에는 [제일여객] 등이 이 곳을 기점으로 하였다.] ||
+||<#dcdcdc>50 ||<#dcdcdc>22(급) ||<#dcdcdc>면목동 ||<#dcdcdc>연희동 ||
+||<#dcdcdc>51 ||<#dcdcdc>57(입) ||<#dcdcdc>면목동 ||<#dcdcdc>문화촌 ||
+||<#dcdcdc>54 ||<#dcdcdc>21(좌) ||<#dcdcdc>전농동 ||<#dcdcdc>마포 ||
+||<#dcdcdc>55 ||<#dcdcdc>22(좌) ||<#dcdcdc>답십리 ||<#dcdcdc>봉천동 ||
+||<#dcdcdc>56 ||<#dcdcdc>22(급) ||<#dcdcdc>답십리 ||<#dcdcdc>이촌동 ||
+||<#dcdcdc>57 ||<#dcdcdc>22(입) ||<#dcdcdc>답십리 ||<#dcdcdc>효창동 ||
+||<#dcdcdc>60 ||<#dcdcdc>91(입) ||<#dcdcdc>마장동 ||<#dcdcdc>구평동[* 현 [종로구] [평창동]] ||
+||<#dcdcdc>62 ||<#dcdcdc>33(좌) ||<#dcdcdc>성수동 ||<#dcdcdc>동교동 ||
+||<#dcdcdc>63 ||<#dcdcdc>36(좌) ||<#dcdcdc>경마장 ||<#dcdcdc>효자동 ||
+||<#dcdcdc>64 ||<#dcdcdc>37(급) ||<#dcdcdc>뚝섬 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>65 ||<#dcdcdc>36(입) ||<#dcdcdc>뚝섬 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>68 ||<#dcdcdc>31(좌) ||<#dcdcdc>천호동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>69 ||<#dcdcdc>37(좌) ||<#dcdcdc>천호동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>70 ||<#dcdcdc>31(급) ||<#dcdcdc>천호동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>71 ||<#dcdcdc>31(입) ||<#dcdcdc>천호동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>74 ||<#dcdcdc>56(좌) ||<#dcdcdc>옥수동 ||<#dcdcdc>홍은동 ||
+||<#dcdcdc>75 ||<#dcdcdc>57(좌) ||<#dcdcdc>옥수동 ||<#dcdcdc>갈현동 ||
+||<#dcdcdc>76 ||<#dcdcdc>45(급) ||<#dcdcdc>금호동 ||<#dcdcdc>신길동 ||
+||<#dcdcdc>78 ||<#dcdcdc>41(입) ||<#dcdcdc>한남동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>79 ||<#dcdcdc>38(좌) ||<#dcdcdc>금호동 ||<#dcdcdc>보광동 ||
+||<#dcdcdc>80 ||<#dcdcdc>42(입) ||<#dcdcdc>보광동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>81 ||<#dcdcdc>42(입) ||<#dcdcdc>보광동 ||<#dcdcdc>응봉동 ||
+||<#dcdcdc>84 ||<#dcdcdc>81(좌) ||<#dcdcdc>중앙대 ||<#dcdcdc>경동중 ||
+||<#dcdcdc>85 ||<#dcdcdc>82(좌) ||<#dcdcdc>동작동 ||<#dcdcdc>성북동 ||
+||<#dcdcdc>86 ||<#dcdcdc>82(급) ||<#dcdcdc>남성동 ||<#dcdcdc>홍릉 ||
+||<#dcdcdc>87 ||<#dcdcdc>81(급) ||<#dcdcdc>동작동 ||<#dcdcdc>중곡동 ||
+||<#dcdcdc>88 ||<#dcdcdc>83(급) ||<#dcdcdc>동작동 ||<#dcdcdc>중화동 ||
+||<#dcdcdc>89 ||<#dcdcdc>81(입) ||<#dcdcdc>남성동 ||<#dcdcdc>신흥사[* 유진상가 근처에 있는 사찰이다.] ||
+||<#dcdcdc>92 ||<#dcdcdc>62(좌) ||<#dcdcdc>상도동 ||<#dcdcdc>창신동 ||
+||<#dcdcdc>95 ||<#dcdcdc>42(좌) ||<#dcdcdc>신림동 ||<#dcdcdc>미아동 ||
+||<#dcdcdc>96 ||<#dcdcdc>65(입) ||<#dcdcdc>신림동 ||<#dcdcdc>[중앙청] ||
+||<#dcdcdc>98 ||<#dcdcdc>39(좌) ||<#dcdcdc>신길동 ||<#dcdcdc>마장동 ||
+||<#dcdcdc>99 ||<#dcdcdc>41(좌) ||<#dcdcdc>신길동 ||<#dcdcdc>농대앞 ||
+||<#dcdcdc>101 ||<#dcdcdc>91(좌) ||<#dcdcdc>대림동 ||<#dcdcdc>독립문 ||
+||<#dcdcdc>103 ||<#dcdcdc>89(급) ||<#dcdcdc>안양 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>104 ||<#dcdcdc>89(좌) ||<#dcdcdc>안양 ||<#dcdcdc>삼청동 ||
+||<#dcdcdc>107 ||<#dcdcdc>83(급) ||<#dcdcdc>동작동 ||<#dcdcdc>중화동 ||
+||<#dcdcdc>109 ||<#dcdcdc>80(좌) ||<#dcdcdc>영등포 ||<#dcdcdc>영등포 ||
+||<#dcdcdc>110 ||<#dcdcdc>87(좌) ||<#dcdcdc>양남동 ||<#dcdcdc>청계6가 ||
+||<#dcdcdc>111 ||<#dcdcdc>87(입) ||<#dcdcdc>양남동 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>112 ||<#dcdcdc>86(좌) ||<#dcdcdc>문래동 ||<#dcdcdc>을지로6가 ||
+||<#dcdcdc>113 ||<#dcdcdc>86(급) ||<#dcdcdc>문래동 ||<#dcdcdc>약수동 ||
+||<#dcdcdc>114 ||<#dcdcdc>86(입) ||<#dcdcdc>문래동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>118 ||<#dcdcdc>84(좌) ||<#dcdcdc>구로동 ||<#dcdcdc>을지로6가 ||
+||<#dcdcdc>119 ||<#dcdcdc>84(급) ||<#dcdcdc>구로동 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>120 ||<#dcdcdc>84(입) ||<#dcdcdc>구로동 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>123 ||<#dcdcdc>85(좌) ||<#dcdcdc>오류동 ||<#dcdcdc>청계6가 ||
+||<#dcdcdc>124 ||<#dcdcdc>85(급) ||<#dcdcdc>오류동 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>125 ||<#dcdcdc>85(입) ||<#dcdcdc>오류동 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>128 ||<#dcdcdc>80(급) ||<#dcdcdc>화곡동 ||<#dcdcdc>중곡동 ||
+||<#dcdcdc>129 ||<#dcdcdc>88(좌) ||<#dcdcdc>김  포 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>130 ||<#dcdcdc>88(급) ||<#dcdcdc>김  포 ||<#dcdcdc>중앙청 ||
+||<#dcdcdc>132 ||<#dcdcdc>20(입) ||<#dcdcdc>홍  릉 ||<#dcdcdc>합정동 ||
+||<#dcdcdc>133 ||<#dcdcdc>21(입) ||<#dcdcdc>노고산 ||<#dcdcdc>회기동 ||
+||<#dcdcdc>135 ||<#dcdcdc>78(입) ||<#dcdcdc>염리동 ||<#dcdcdc>구평동 ||
+||<#dcdcdc>136 ||<#dcdcdc>75(좌) ||<#dcdcdc>서  강 ||<#dcdcdc>쌍문동 ||
+||<#dcdcdc>137 ||<#dcdcdc>72(입) ||<#dcdcdc>서  강 ||<#dcdcdc>자유센터 ||
+||<#dcdcdc>139 ||<#dcdcdc>61(좌) ||<#dcdcdc>봉원동 ||<#dcdcdc>동대문 ||
+||<#dcdcdc>141 ||<#dcdcdc>61(급) ||<#dcdcdc>남가좌동 ||<#dcdcdc>마장동 ||
+||<#dcdcdc>142 ||<#dcdcdc>64(입) ||<#dcdcdc>남가좌동 ||<#dcdcdc>상도동 ||
+||<#dcdcdc>145 ||<#dcdcdc>53(좌) ||<#dcdcdc>화전리 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>146 ||<#dcdcdc>52(급) ||<#dcdcdc>수  색 ||<#dcdcdc>이문동 ||
+||<#dcdcdc>147 ||<#dcdcdc>53(입) ||<#dcdcdc>수  색 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>150 ||<#dcdcdc>55(좌) ||<#dcdcdc>북가좌동 ||<#dcdcdc>봉천동 ||
+||<#dcdcdc>152 ||<#dcdcdc>51(급) ||<#dcdcdc>역촌동 ||<#dcdcdc>역촌동[*A] ||
+||<#dcdcdc>155 ||<#dcdcdc>51(입) ||<#dcdcdc>갈현동 ||<#dcdcdc>옥수동 ||
+||<#dcdcdc>156 ||<#dcdcdc>52(입) ||<#dcdcdc>구파발 ||<#dcdcdc>구파발[*A] ||
+||<#dcdcdc>157 ||<#dcdcdc>51(급) ||<#dcdcdc>갈현동 ||<#dcdcdc>답십리 ||
+||<#dcdcdc>158 ||<#dcdcdc>51(급) ||<#dcdcdc>갈현동 ||<#dcdcdc>갈현동[*A] ||
+||<#dcdcdc>161 ||<#dcdcdc>56(급) ||<#dcdcdc>문화촌 ||<#dcdcdc>장위동 ||
+||<#dcdcdc>162 ||<#dcdcdc>57(급) ||<#dcdcdc>문화촌 ||<#dcdcdc>수유동 ||
+||<#dcdcdc>164 ||<#dcdcdc>26(입) ||<#dcdcdc>홍  릉 ||<#dcdcdc>장현리[* 현 남양주시 진접읍 장현리] ||
+||<#dcdcdc>165 ||<#dcdcdc>27(입) ||<#dcdcdc>홍  릉 ||<#dcdcdc>금곡리[* 현 남양주시 금곡동] ||
+
+이하는 서울시 시영버스 소속으로 새로이 이관된 노선이다.
+||<#dcdcdc>207 ||<#dcdcdc>103(입) ||<#dcdcdc>시  흥 ||<#dcdcdc>시  청 ||
+||<#dcdcdc>209 ||<#dcdcdc>115(입) ||<#dcdcdc>영등포구청 ||<#dcdcdc>한양대 ||
+||<#dcdcdc>215 ||<#dcdcdc>113(입, 좌) ||<#dcdcdc>도봉동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>228 ||<#dcdcdc>102(좌) ||<#dcdcdc>화곡동 ||<#dcdcdc>용두동 ||
+||<#dcdcdc>229 ||<#dcdcdc>102(입) ||<#dcdcdc>개화동 ||<#dcdcdc>영등포구청 ||
+||<#dcdcdc>233 ||<#dcdcdc>111(좌) ||<#dcdcdc>구평동 ||<#dcdcdc>공무원아파트[* 현재 위치 추가바람] ||
+||<#dcdcdc>243 ||<#dcdcdc>104(입, 좌) ||<#dcdcdc>상계동 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>271 ||<#dcdcdc>105(입) ||<#dcdcdc>거여동 ||<#dcdcdc>시  청 ||
+||<#dcdcdc>272 ||<#dcdcdc>108(입) ||<#dcdcdc>송  파 ||<#dcdcdc>서울역 ||
+||<#dcdcdc>273 ||<#dcdcdc>109(입) ||<#dcdcdc>신장리[* 현 하남시 신장동] ||<#dcdcdc>을지로5가 ||
+||<#dcdcdc>274 ||<#dcdcdc>110(입) ||<#dcdcdc>하일동[* 현 강동구 강일동] ||<#dcdcdc>서울역 ||
+||<#dcdcdc>275 ||<#dcdcdc>116(입) ||<#dcdcdc>수진리[* 현 성남시 수정구 수진동] ||<#dcdcdc>천호동 ||
+||<#dcdcdc>288 ||<#dcdcdc>106(입, 좌) ||<#dcdcdc>원지동 ||<#dcdcdc>시  청 ||
+= 관련 노선 =
+차후 추가 예정.

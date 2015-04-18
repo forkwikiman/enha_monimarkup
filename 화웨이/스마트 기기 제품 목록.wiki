@@ -1,0 +1,100 @@
+ * 상위 항목 : [[화웨이]]
+
+[[목차]]
+
+ * 이 항목은 [[화웨이]]의 스마트 기기 제품 목록을 정리한 페이지 입니다.
+ * [[스마트폰]], [[태블릿 컴퓨터]] 등 통칭, '''스마트 디바이스''' 및 '''모바일 기기'''들은 [[리그베다 위키 기본방침#s-2.24|리그베다 위키 기본방침]]에 따라 제조사 및 이동통신사 공식 채널에서 확인이 될 때 항목 개설이 가능합니다. 꼭, 공식 채널에서 확인이 될 때 항목 생성 바랍니다.
+
+== 안드로이드 OS ==
+=== Ascend 제품군 ===
+==== P 라인업 ====
+ * [[화웨이 어센드 P 시리즈#s-2.1|Ascend P1]]
+ * [[화웨이 어센드 P 시리즈#s-2.2|Ascend P2]]
+ * [[화웨이 어센드 P 시리즈#s-2.3|Ascend P6]]
+ * [[화웨이 어센드 P 시리즈#s-2.4|Ascend P7]]
+
+==== D 라인업 ====
+ * [[화웨이 어센드 D 시리즈#s-2.1|Ascend D1]]
+  * [[화웨이 어센드 D 시리즈#s-2.1.4|Ascend D1 Quad]]
+  * [[화웨이 어센드 D 시리즈#s-2.1.5|Ascend D1 Quad XL]]
+ * [[화웨이 어센드 D 시리즈#s-2.2|Ascend D2]]
+
+==== Y 라인업 ====
+ * Ascend Y220
+ * Ascend Y300
+ * Ascend Y200
+ * Ascend Y511
+ * Ascend Y320
+
+==== G 라인업 ====
+ * [http://consumer.huawei.com/en/mobile-phones/features/g700-en.htm Ascend G700]
+ * Ascend G510
+ * Ascend G600
+ * Ascend G300
+ * [http://consumer.huawei.com/en/mobile-phones/features/g6-u10-en.htm Ascecd G6]
+ * Ascend G6 4G
+==== 패블릿 ====
+ * [[화웨이 어센드 메이트|Ascend Mate]]
+ * [[화웨이 어센드 메이트 시리즈#s-2.2|Ascend Mate 2]]
+ * [[화웨이 어센드 메이트 시리즈#s-2.3|Ascend Mate 7]]
+=== G 제품군 ===
+ * G350
+ * G610
+ * G525
+ * G526
+
+=== Honor 제품군 ===
+ * [[화웨이 Honor 시리즈#s-2.1|Honor]]
+ * [[화웨이 Honor 시리즈#s-2.2|Honor Quad]]
+ * [[화웨이 Honor 시리즈#s-2.3|Honor 3]]
+ * [[화웨이 X3|Honor 6]]
+  * [[화웨이 X3#s-2.2|Honor 6 Plus]]
+
+=== Sonic 제품군 ===
+ * [wiki:"화웨이 Sonic"Sonic]
+
+=== Ideos 제품군 ===
+ * Ideos x3
+ * Ideos x5
+
+=== 태블릿 컴퓨터 ===
+ * MediaPad
+ * MediaPad 10 Link
+ * MediaPad 10 FHD
+ * MediaPad 7 Lite
+ * MediaPad 7 Youth
+ * MediaPad 7 Vogue
+
+=== 내수용 제품 ===
+==== 한국 출시 ====
+ * [[화웨이 X3]]
+==== 일본 출시 ====
+===== [NTT 도코모] =====
+ * Ascend HW-01E
+ * [[화웨이 어센드 D 시리즈#s-2.2|Ascend D2 HW -03E]]
+
+==== 미국 출시 ====
+ * Huawei Mecury ([[크리켓]] 와이어리스)
+ * Huawei M835
+  * Huawei M835 Tokidoki Special Edition
+ * Huawei M650
+ * Huawei U8652
+ * Huawei U8800-52
+ * Huawei Ascend II
+ * Huawei Talon
+ * Huawei Activa 4G
+ * [http://consumer.huawei.com/us/mobile-phones/features/fusion_us.htm Huawei Fusion 2]
+ * [http://consumer.huawei.com/us/mobile-phones/features/y301-a2-us.htm Huawei Vitria]
+ * Huawei Premia 4G
+ * Huawei Ascend Y (TF/U.S 셀룰러)
+ * Huawei Unite
+  * Huawei Unite Q
+ * Huawei Ascend Q
+ * [http://consumer.huawei.com/us/mobile-phones/features/u8686-us.htm T-Mobile Prism II]
+ * [http://consumer.huawei.com/us/mobile-phones/features/u8680-us.htm My Touch]
+ * [http://consumer.huawei.com/us/mobile-phones/features/u8730-us.htm My Touch Q]
+ * [http://consumer.huawei.com/us/mobile-phones/features/summit_us.htm Huawei Summit]
+ * [http://consumer.huawei.com/us/mobile-phones/features/y301-a1-us.htm Huawei Valiant]
+
+== [[Windows Phone]] OS ==
+ * Ascend W1

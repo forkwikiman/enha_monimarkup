@@ -1,0 +1,30 @@
+소니 컴퓨터 엔터테인먼트에서 개발한 [[플레이스테이션3]] 기반의 [[아케이드]]용 [[게임]][[기판]]. 2007년 [[철권 6]]에 사용되면서 데뷔했다. 
+
+실질적으로 그전부터 [[SCE]] 콘솔베이스의 기판을 자주 써온 [wiki:"남코" 반다이남코 게임즈]의 아케이드 주력 시스템 보드.
+
+위키피디아에 작성된 하드웨어 정보 [[http://en.wikipedia.org/wiki/Namco_System_357 ＃]]
+ 
+[[CPU]]: Cell Broadband Engine consisting of one 3.2GHz PowerPC-based Power Processing Element (PPE) and six Synergistic Processing Elements (SPEs).
+System memory: 256MB XDR DRAM
+Graphics: [[NVIDIA]] GeForce 7900-based RSX 'Reality Synthesizer' with 256MB GDDR3 RAM
+Media: internal [[HDD]] used for storage of games.
+
+'''UI: [[Sony]] [[XMB]]'''
+
+기반이 PS3다 보니 성능상으로 PS3와 매우 흡사하며, 그래픽 출력도 비슷. '''소니 XMB를 그대로 사용한다!''' [http://www.youtube.com/watch?v=_ss-MHvWDCk 유튜브]
+다른 점이라면 PS3에 있는 블루레이가 여기에는 없다는 것과 하드디스크가 다르다는 것인데, PS3의 경우 2.5인치 하드디스크 5400rpm을 사용하나, SYSTEM 357의 경우 3.5인치 하드디스크 7200rpm을 사용한다.
+
+아종 기판으로 네트워크의 강화와 시스템 처리를 강화한 SYSTEM 369가 있다. 첫 대응 게임은 당연하지만 [wiki:"철권 태그 토너먼트 2" 이 게임].
+
+
+== 이 기판이 사용된 게임 ==
+ <SYSTEM 357>
+ * [[철권 6]] (2007년)
+ * [[철권 6 BR]] (2008년)
+ * [[레이징 스톰]] (2009년)
+ * [[데드스톰 파이레츠]] (2010년)
+ * [[기동전사 건담 EXTREME VS]] (2010년)
+ * [[신 태고의 달인]] (2011년)
+
+ <SYSTEM 369>
+ * [[철권 태그 토너먼트 2]] (2011년)

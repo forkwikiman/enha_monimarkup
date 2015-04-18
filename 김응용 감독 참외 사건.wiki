@@ -1,0 +1,34 @@
+[[include(틀:사건사고)]]
+
+ * 상위항목
+  * [[야구 관련 기담]]
+  * [[KIA 타이거즈/사건사고]]
+
+--[http://www.nohitnorun.com/280 범인은 야왕이다!]--
+
+[[목차]]
+== 개요 ==
+[[해태 타이거즈]]의 또다른 [[흑역사]].
+1997년 6월 29일 [[LG 트윈스]]와의 잠실 원정경기에서 발생한 사건이다.
+
+== 전개 ==
+당시 전반기 막판 1, 2위를 다투고 있던 양팀이었던지라 경기 초반부터 다소 분위기가 과열되는 양상을 보였다. 3회초 [[장성호]]의 하프스윙을 심판이 삼진으로 판정하자 격분한 3루 관중석의 해태 팬들이 물병 등의 이물질을 그라운드에 투척했고, 경기가 4분간 중단되었다. 
+
+이어진 3회말, 1사 2루 상황에서 타자인 [[심재학]]이 타임요청과 함께 타석을 빠져나왔고, 투수이던 강태원(현, 삼성라이온즈 스카우터)이 공을 던지려다 엉거주춤 멈췄는데, 주심은 이를 [[보크]]로 판정했다. 이에 [[김응용]] 감독이 그라운드로 나와 심판과 옥신각신 하던 도중, 한 관중이 던진 [[참외]]가 김응용 감독의 뒷덜미를 직격하고 말았다.
+
+정확히 누가 왜 던졌는지는 알려진 바 없지만, 당시 해태 응원석에서 날아온 것만은 분명했고, 결국 보크 판정을 내린 심판에게 던지려다가 제구, 아니 ~~제[참외|참]~~ 제과(制瓜)가 잘 안되는 바람에(...) 김응용 감독에게 맞았다는 것이 정설로 굳어졌다. 단 동영상의 해설을 들으면 알겠지만 보크 판정은 옳은 판단이었다.
+
+어찌됐든 참외를 정통으로 뒷목에 얻어맞은 김응용 감독은 [wiki:"정줄놓" 정신줄을 분실한 상태에서] 더 이상 말을 잇지 못하고 코치들의 부축을 받으며 덕아웃으로 돌아가야 했다.
+
+{{{#!html 
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer10928' width='400' height='333'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=8AA6B707755A10206EA67E788E22A210D8B9&outKey=V12572380ec6c88828630343b1734c0a7d68a2641669fa32990ec343b1734c0a7d68a' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=8AA6B707755A10206EA67E788E22A210D8B9&outKey=V12572380ec6c88828630343b1734c0a7d68a2641669fa32990ec343b1734c0a7d68a' wmode='transparent' width='400' height='333' allowScriptAccess='always' name='NFPlayer10928' id='NFPlayer10928' allowFullScreen='true' type='application/x-shockwave-flash'/></object>}}}
+(위 동영상 45초 부분)
+
+당시 김응용 감독은 맥주병에 맞은 줄 알고 ''''~~[으앙 죽음]~~ 아 이제 끝이구나'''' 생각을 하다가 뒤통수를 강타한 것이 참외인걸 알고서는 '어휴 살았다'라며 안도의 한숨을 내쉬었다고 한다.[* 축축한 액체가 뒤통수로 흘러내리는게 느껴져서 피인줄 알았는데, 바로 참외의 단내가 나서 맥주병이 아니라 참외인걸 깨달았다고 한다...] 물론 정신을 차린 이후 다시 나와서 심판들에게 계속 항의를 했다고(...).
+
+[http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=107&oid=001&aid=0004250938 당시 신문기사로도 나왔었다.]
+
+== 기타 ==
+[[불암콩콩코믹스]]에서는 [http://sports.news.nate.com/view/20130404n04840?mid=s1004&isq=3969 선동열이 김응용을 공격하는 수단으로 참외를 쓴다]. --[[김주찬]] 어쩔거야!!!--
+
+[[김승우의 승승장구]]편에서도 이 사건이 소개되었다.

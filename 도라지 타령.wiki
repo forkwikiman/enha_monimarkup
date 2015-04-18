@@ -1,0 +1,31 @@
+== [[경기도]] 민요 ==
+
+도라지를 소재로 부른 타령. 도라지 타령도 여러 가지가 있으나 이 중 우리에게 가장 잘 알려진 도라지 타령은 조선 후기에 생긴 신민요로 가사는 아래와 같다. 
+
+||<bgcolor=#E9ECEF>도라지 도라지 백도라지
+심심산천에 백도라지
+한두 뿌리만 캐어도 
+대바구니 처얼처얼처얼 다 넘는다
+에헤요 에헤요 에헤요 에야라 난다 
+지화자 좋다 얼씨구 좋구나 내 사랑아||
+
+세마치 장단으로 흥겨운 느낌을 주는 경쾌한 노래.
+
+
+== [[알투비트]]의 곡 ==
+||||||||<tablewidth=500px><:>'''[[알투비트]] 곡 정보'''||
+|| '''곡명''' || 도라지타령 || '''작곡가''' || (SEED9) ||
+|||||||| '''난이도''' ||
+||<#FFFF99><:>별||<#CCE5FF><:>달||<#E5CCFF><:>보름달||<#FFCCCC><:>해||
+|| {{{#999900 X}}} || {{{#0066CC }}} || {{{#7F00FF X}}} || {{{#CC0000 16}}} ||
+
+
+난이도 16(별 8개)이며, [retropoktan]이나 [최후통첩]같이 노트가 답이 없게 나오지는 않지만, 난이도 16 중에서 중간층에 해당하는 곡이다.(도라지캐다가 100년근 산삼을 득한거같다.)
+
+노트 패턴은 불규칙적인 16비트로 이루어져 있다. 암기용 곡 중 하나.
+
+아래에 오토플레이 영상을 첨부한다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gdJAtTqjTow?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gdJAtTqjTow?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}

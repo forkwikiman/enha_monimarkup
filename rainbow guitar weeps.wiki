@@ -1,0 +1,35 @@
+[[목차]]
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/ENt7rkXPbLg?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+전용 BGA.
+
+== 설명 ==
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 156 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 492}}} || {{{#orange 9}}} || {{{#orange 951}}} || {{{#red 11}}} || {{{#red 1406}}} || {{{#blue 6}}} || {{{#blue 610}}} || {{{#orange 9}}} || {{{#orange 998}}} || {{{#red 12}}} || {{{#red 1683}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 21 SPADA|21 SPADA]] ~ 
+
+{{{#!html
+<iframe width="640" height="390" src="//www.youtube.com/embed/PJVE_8ZIrEM" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 플레이 어나더 정배치 영상.
+
+[[beatmania IIDX 21 SPADA]]의 기본곡으로 수록된 곡이다. 작곡은 [[dj TAKA]]이며, 표기 장르는 Brightness. 전체적으로 떠있고 기타와 신스로 따뜻한 분위기를 이어나가며 듣기에 편하다는게 특징이다. [[dj TAKA]]의 코멘트를 보면 [[rainbow flyer]]의 후속곡 격 곡으로 제작했다는 것을 알 수 있다. SPA의 경우 전체적으로 11 중급이지만 중반에 [[Colors]] SPA의 트릴구간을 축소한듯한 트릴국소발광이 있어서 잘못걸리면 EX-HARD 게이지의 경우 훅 날아갈수도 있다.
+
+DP 어나더는 레벨 12로 표기가 되있어서 2014년 2월 12일에 다른 레벨 12 어나더들과 함께 해금되었다.
+== 아티스트 코멘트 ==
+>Sound / dj TAKA
+>
+>[[猫叉Master]]씨로부터의 주문에 '[[rainbow flyer]]'를 방불케하는, 이라는 키워드가 있어서, 인트로로 방불케하면서도 점점 다른 곡으로 되어가는 스토리를 이미지했습니다.
+>기타의 하프 뮤트의 아르페지오는 저 자신이 정말 좋아하는 소리로 이런 장르에서 쓰는 사람은 별로 없을지도 모르지만, 밝은 신스 사운드와 교차하는 왠지 슬프게 들리는 이상한 사운드가 되었다고 생각합니다.
+
+>Movie / Minako Endo
+>
+>이 악곡의 영상을 만들때 문득 옛날 일이 생각나곤 했습니다.
+>가정용 4th style이 나온 시절 [[ABSOLUTE]]를 만나고 지금 이렇게 영상을 만들고 있습니다.
+>자신의 원점이 된 [[dj TAKA]]씨의 악곡을, 저번에 만든 『[[F]]』에 이어 다시 담당할 수 있어서 정말 행복하구나 라고 생각했습니다.
+[[각주]]

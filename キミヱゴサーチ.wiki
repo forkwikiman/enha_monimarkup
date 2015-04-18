@@ -1,0 +1,37 @@
+'''키미 에고 서치'''
+
+[[목차]]
+
+== 개요 ==
+[[include(틀:히나비타 악곡 일람)]]
+
+[[히나비타♪]]의 열다섯번째 곡. 실제 작곡은 [[sasakure.UK]]가 담당했다.
+
+2014년 9월 12일에 [[사운드 볼텍스 II]]에 수록되었다.
+
+== [[사운드 볼텍스]] ==
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<:>[[사운드 볼텍스]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || attachment:/kimie_sdvx.jpg?width=150 || attachment:/kimie_sdvx.jpg?width=150 || attachment:/kimie_sdvx.jpg?width=150 || attachment:/kimie_sdvx.jpg?width=150 ||
+|| 난이도 || {{{#purple 3}}} || {{{#orange 8}}} || {{{#ff009f 11}}} || {{{#448844 14}}} ||
+|| 체인 수 || {{{#purple 457}}} || {{{#orange 616}}} || {{{#ff009f 882}}} || {{{#448844 1382}}} ||
+|| 일러스트 담당 |||||||| [[CuteG|CUTEG]] ||
+|| 이펙터 || {{{#purple 浮世マシーン}}} || {{{#orange 浮世マシーン}}} || {{{#ff009f 浮世マシーン}}} || {{{#448844 浮世♣マシーン}}} ||
+|| 수록 시기 |||||||| {{{#ff00ec II 44(2014.9.12)}}} ||
+|| [[BPM]] |||||||| 120 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 02 C코스(2015.2.27 ~)
+
+9월 25일까지 INF 보면까지 TRACK INPUT 없이 플레이 가능했다.
+
+{{{#!HTML
+<iframe width="400" height="600" src="//www.youtube.com/embed/9p-Vw7FC5Rs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+INF 패턴 PUC 영상
+
+직각노브 + 동시치기가 주 패턴으로, 곳곳에 존재하는 낚시성 노브 때문에 초견 난이도가 더 올라간다. 120이라는 낮은 BPM으로 인해 저속 유저와 고속 유저들 간의 개인차가 갈리게 된다. 패턴은 전체적으로 코코나츠 전 곡인 [[ミライプリズム]]보다 더 어렵다.

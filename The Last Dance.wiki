@@ -1,0 +1,112 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [메트로 프로젝트] ||
+|| 작곡 || Urbatronic Chopsticks ||
+|| 보컬 || Esprit Lee ||
+|| 랩 || JJK ||
+|| 비주얼 || [SARA](일러스트), HooN(모션) ||
+|| 장르 || India Hip Hop ||
+|| [[BPM]] || 102 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/--PNXNf1flI?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+
+[[DJMAX TECHNIKA]]와 [DJMAX Portable Clazziquai Edition]에 한국어 버젼이 수록되었으며, [DJMAX Portable Black Square]에서는 영어 버전이 수록되었다. (위 동영상은 한국어 버젼이다.) 인디아 힙합이라는 장르답게 이국적인 느낌이 많이 나는 곡이다. 실제 작곡자도, '만약에 인도에 힙합 클럽이 있다면 어떤 느낌의 곡이 나올까' 라는 생각을 하며 작곡했다고 한다. 결과적으로 이국적이면서도 대중적인 느낌의 곡이 나오게 되었다.
+
+[[Melody]]와 보컬이 같은데(Esprit Lee), 두 곡을 차례대로 들어보면 같은 보컬이라는 티는 나지만 전혀 다른 목소리를 느낄 수 있는 곡이다(...) 이쪽이 오리지널이라고(멜로디는 전혀 안해보던 보컬 톤이라 신선했다고 한다).
+
+약칭은 '''라댄'''.
+
+BGA는 무난한 편. Sara의 작업 특징(벡터로 이미지 작업, 가사가 BGA에 흐른다)이 잘 나타나 있다. 곡과도 잘 어울린다는 평.
+
+여담이긴 하지만, [[SIN]], [[Colours of Sorrow]]와 함께 [[삼각함수]] 곡 드립이 적잖이 나오고 있다. 그도 그럴 것이 '''T'''he / L'''a'''st / Da'''n'''ce에서 줄여 '''Tan'''을 도출할 수 있기 때문. ~~게다가 순서대로 가로드립, 세로드립, 대각선드립이다.~~
+
+여담 하나를 더 말하자면 랩 피쳐링으로 참가한 JJK는 현재 3집까지 낸 전업가수. ADV 크루의 리더이기도 하며, 술제이, 허클베리피와 함께 '''한국 프리스타일 랩 3대 천왕'''이기도 하다.
+
+아래는 공식 설명이다.
+
+{{|인도풍 멜로디와 흑인 음악을 연상시키는 파워풀한 보컬이 이국적인 분위기를 자아내는 곡.
+다양한 스타일을 소화하는 Sara와 UC의 장점이 발휘되었다.|}}
+
+=== [DJMAX Portable Clazziquai Edition] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/DI3XSVUXpXI" frameborder="0" allowfullscreen></iframe>}}}
+
+여기서는 저난이도의 곡으로 등장하였다. [추가바람]
+
+=== [DJMAX Portable Black Square] ===
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/KREA2u0mOTA" frameborder="0" allowfullscreen></iframe>}}}
+
+CE 버전보다 약간 더 어렵긴 하지만, 그다지 어려운 난이도는 아니다.
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/hZX_otPz-wg" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴(테크니카 1 기준 SP)
+
+==== [wiki:"DJMAX TECHNIKA"DJMAX TECHNIKA 1] ====
+
+테크니카에서는 PP는 2스테이지에서, TP는 [wiki:"HeartBeat"HeartBeat Set]에서 플레이할 수 있다.
+노래를 모르고 처음 플레이할 땐 은근히 엇박이 있고 분홍 노트가 연달아 나오는 형식이 폭사하기 딱 좋아서(...) 어렵다고 느끼기기도 하는데, 막상 음악을 좀 귀에 익히고 나면 그다지 난이도가 높은 곡은 아니다. 분홍 노트가 연속으로 나오는 구간의 경우 동일한 박자로 나오기 때문에 위치만 기억하면 한손으로도 처리할 수 있고, 여차하면 긁어도 되니... PP와 TP 모두 난이도에 비해 쉽다고 평가되는 곡. TP도 PP와 그다지 난이도 차이가 나지 않아서, 그야말로 '''처음만 힘들다'''. 스페셜 패턴 16의 SP는 TP와 체감상 비슷한 난이도이긴 한데 허를 찌르는 패턴들이 곳곳에 산재해서 정신줄을 놓고 있으면 낚여서 죽기 쉬운 패턴이다.
+
+[wiki:"HeartBeat"HeartBeat Set]의 스코어 어택 루트 ([[Remember]]-[[Melody]]-[[BlythE]]-[[Colours of Sorrow]]) 에서 멜로디를 빼고 이 곡 TP로 교체해도 되긴 하는데... 클리어는 멜로디보다 훨씬 쉬운 편이지만, 사실 올 콤보는 만만치 않은 곡. 게다가 멜로디보다 노트수도 살짝 적기 때문에 사실 스코어어택 용으로 많이 쓰이지는 않는다. (점수 체계 변경 전에는, 오히려 이 곡이 멜로디보다 점수를 잘 줬다고 한다.)
+
+==== [DJMAX TECHNIKA 2] ====
+
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+|| Star || D || 300 MAX || 5 || 4박 스크롤 || ||
+|| NM || D || 400 MAX || 4 || 4박 스크롤 || ※[지뢰곡] ||
+|| HD || D || 500 MAX || 5 || 4박 스크롤 || [wiki:"HeartBeat"HeartBeat Set] 셀렉곡, ※[지뢰곡] ||
+|| MX || C || 600 MAX || 7 || 4박 스크롤 || ||
+
+[DJMAX TECHNIKA 2]에서는 두 패턴 모두 레벨이 2씩이나 하락해버렸다(…) 그로 인해 테크니카2에서는 약간 사기 난이도 삘.
+
+==== [DJMAX TECHNIKA 3] ====
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || 5 || 4박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 4 || 4박 스크롤 || [wiki:"New Beginning"미션 - CMP] 수록, ※[[지뢰곡]] ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 5 || 4박 스크롤 || [wiki:"HeartBeat"HeartBeat Set] 셀렉곡, ※[[지뢰곡]] ||
+||<#FF0000> Maximum || B || 200 Max || 7 || 4박 스크롤 || ||
+
+난이도 변경 없이 전작 그대로 이식되었다.
+
+=== [TAP SONIC] ===
+
+탭 소닉에서는 6키 레전드 기준 6레벨로, 6레벨 치곤 조금 어렵다.
+
+== 가사 (한국어 버전) ==
+
+Party People 덕분에 Club은 덥지
+다만 넌 질린 듯 벽 쪽으로 걷지
+You're not feeling music, you're feeling me
+늘 같은 Rhythm 뿐 이젠 지겹지
+I see what you're thinking, girl
+나도 Clubbing은 꽤나 지친걸
+비슷한 Beat에 비슷한 Motion. NO!
+Fresh한 Music을 원해. You know?
+
+너무 지쳐있었어
+매일 매일 똑같은 날들
+나는 지루해졌어
+다 비슷비슷한 음악들도
+
+I'll take you my lovely boy
+'Cause I wanna be your girl
+새로운 세상을 보여줘
+내가 숨쉴 수 있게
+
+I'll take you my lovely boy
+'Cause I wanna be your girl
+새로운 세상을 보여줘
+Feel me on this special night
+
+[[각주]]

@@ -1,0 +1,129 @@
+이 페이지는 [[ArmA3]]에 등장하는 아이템들을 설명하고 있습니다.
+* 상위항목:[[ArmA3]]
+[[목차]]
+
+== 소지품 ==
+인벤토리에 넣으면 캐릭터에 장착되는, 캐릭터가 평소 소지하고 다니는 아이템들이다. 특정 아이템들 빼면 군인은 전부 가지고 있는 편.
+=== 시계,나침반,라디오,지도 ===
+기본적으로 없을리가 없는 아이템들. 시계는 o키로 보고,나침반은 k, 라디오가 없으면 다이렉트 메세지를 제외한 메세지를 못 듣고 지도가 없으면 맵 표시가 안 된다.
+=== [[GPS]] ===
+컨트롤+M으로 작동 가능,미니맵의 형태로 오른쪽 아래에 띄울 수 있다. 지도에 플레이어 위치가 나오는 옵션이 꺼져있어도 자신의 위치가 나오는건 아니지만 좌표 표시는 된다.
+=== [[무인기]]단말기 ===
+https://community.bistudio.com/wikidata/images/4/43/Arma3_CfgWeapons_B_UavTerminal.jpg
+무인기를 통제할 수 있게 하는 장치. GPS와 지도 위치에 들어간다. 다만 자신의 팩션과 단말기의 팩션이 동일해야 작동한다.
+
+=== 지뢰탐지기 ===
+https://community.bistudio.com/wikidata/images/1/1f/Arma3_CfgWeapons_MineDetector.jpg
+생각보다 작아서 조끼에 들어가기도 한다. 근처 탐지하는 지뢰의 범위를 넓히고,차량 안에 넣어도 작동이 된다.
+=== 쌍안경,거리계,레이저유도기 ===
+https://community.bistudio.com/wikidata/images/b/b6/Arma3_CfgWeapons_Binocular.jpg
+https://community.bistudio.com/wikidata/images/d/d6/Arma3_CfgWeapons_Rangefinder.jpg
+쌍안경은 기본적으로 분대장 보직에게 주어진다. 배율은 생각보다 높은 편.
+거리계는 수색조장이나 저격수,감적수에게 주어진다. 레이저유도기는 표시지 전지를 넣어야 레이저 유도가 가능하며,항공기 레이더에 적으로 표시되 항공기의 항공폭탄 유도나 타겟 유도가 가능.
+=== [[야시경]] ===
+https://community.bistudio.com/wikidata/images/a/a3/Arma3_CfgWeapons_NVGoggles.jpg
+갈색,까만색,녹색 세가지 바리에이션이 있으며,착용시 시야가 상당히 좁아진다.
+
+== 휴대품 ==
+인벤토리에 장착하는게 아닌 들어가는 것들.
+
+=== FirstAidkit ===
+https://community.bistudio.com/wikidata/images/5/57/Arma3_CfgWeapons_FirstAidKit.jpg
+사진 상 팩처럼 싸여있는 걸 보아 분말지혈제로 보인다. 치료 시 하나씩 소비. 체력의 60%정도까지만 회복하며,일반적으로 한개씩 휴대한다. 남이 다치면 치료해주는것도 가능.
+=== 응급키트 ===
+https://community.bistudio.com/wikidata/images/c/c0/Arma3_CfgWeapons_Medikit.jpg
+유닛 바리에이션이 메딕일 때만 효과가 발휘된다.Firstaidkit과 같이 사용할 경우 체력을 100%까지 회복시킨다. 가방에만 넣어야 들어갈정도로 크다.
+=== 수리키트 ===
+https://community.bistudio.com/wikidata/images/c/cd/Arma3_CfgWeapons_ToolKit.jpg
+유닛 바리에이션이 공병,정비전문가,폭발물전문가일때만 효과가 발휘된다. 지뢰 제거,차량 수리 등이 가능. 보통 50%정도까지 수리가 된다. 응급키트와 비교하면 상당히 무거운 편.
+
+== 총기 부착물 ==
+총기에 장착 가능한 부착물. 조준경들은 총을 안 가리고 대부분 장착되는 편이나, 몇몇 총기는 아에 안붙거나,사이드 부착물이 안붙기만 한다.
+=== 조준경 ===
+==== [[소음기]] ====
+https://community.bistudio.com/wikidata/images/8/88/Arma3_CfgWeapons_muzzle_snds_H.jpg
+사진은 6.5mm의 소음기. 자피르,링스와 M320,SDAR과 45구경 리볼버를 제외하면 모든 총기에 장착 가능하다. 9mm부터 7.62mm
+까지 존재. 6.5mm는 경기관총용 소음기가 따로 있다.
+
+==== ARCO ====
+https://community.bistudio.com/wikidata/images/c/ca/Arma3_CfgWeapons_optic_Arco.jpg
+위에 저배율 도트사이트와 아래엔 10배율 조준경이 있다. 색은 초록. 300m가 넘는 교전에 적합하다. 영점은 300m로 고정.
+보통 분대장과 유탄사수가 장착하고 나온다.
+==== RCO ====
+https://community.bistudio.com/wikidata/images/5/5e/Arma3_CfgWeapons_optic_Hamr.jpg
+이것도 10배율이지만 빨간색이고,형태가 살짝 다르다. 영점은 300m로 고정. 보통 분대장들과 유탄사수가 장착하고 나온다.
+
+==== MRCO ====
+https://community.bistudio.com/wikidata/images/b/ba/Arma3_CfgWeapons_optic_MRCO.jpg
+6배율. 조준경이 하나지만 특이하게 조준경 변경 키로 확대가 가능하다. 배율이 높지도 않고 낮지도 않고 [[적절]]한 편.
+
+==== DMS ====
+https://community.bistudio.com/wikidata/images/8/88/Arma3_CfgWeapons_optic_DMS.jpg
+12배율 지정사수용 조준경.넘버패드의 +키로 확대가 가능. 위에 도트사이트가 달려있다. 800m 이상의 교전엔 적합하지 않다.
+
+==== SOS ====
+https://community.bistudio.com/wikidata/images/6/63/Arma3_CfgWeapons_optic_SOS.jpg
+Sniper Optical Sights.18~75배율. 위에 기계식 조준기가 달려있지만 상당히 대충 만든 듯. 최소 300m이상부터 영점이 잡힌다.
+
+==== LRPS ====
+https://community.bistudio.com/wikidata/images/5/5b/Arma3_CfgWeapons_optic_LRPS.jpg
+Long-Range Precision Scope. 마찬가지로 18~75배율. 이건 조준경만 있다.
+
+==== ACO ====
+https://community.bistudio.com/wikidata/images/4/43/Arma3_CfgWeapons_optic_Aco.jpg
+그냥 [[도트 사이트]].빨간색 원형을 겹친 형태와 녹색 ㅅ자 위에 점이 찍혀있는 형태가 있다. 영점이 200m 고정된 버전과 SMG용으로 100m 고정된 버전이 있다. 
+
+==== 홀로 사이트 ====
+https://community.bistudio.com/wikidata/images/4/4e/Arma3_CfgWeapons_optic_Holosight.jpg
+MK17 이라고 써져있는데 자주 보던 그 홀로사이트와 동일하다. 이것도 200m 고정된 버전과 100m인 SMG버전이 존재.
+공병들이 간간히 들고 다니는데 야시경 착용시 홀로사이트 조준점이 번지게 보인다.
+
+==== NVS ==== 
+https://community.bistudio.com/wikidata/images/0/0d/Arma3_CfgWeapons_optic_NVS.jpg
+10배율.적외선 투시경이다. 평이 좋지는 않은 편.
+
+==== 나이트스토커 ====
+https://community.bistudio.com/wikidata/images/a/ae/Arma3_CfgWeapons_optic_Nightstalker.jpg
+5배에서 25배율까지 조정이 가능하며 일반 관측과 야시계 그리고 열영상이 달려있으며 거리측정기까지 달려있다.
+ 다만 시야가 좁은 게 단점이라면 단점. 큰 덩어리 위에 조그만하게 홀로사이트같은게 달려있다.
+==== TWS ====
+https://community.bistudio.com/wikidata/images/5/52/Arma3_CfgWeapons_optic_tws.jpg
+이것도 열영상이 있다. 23배율과 경기관총용 27배율이 두 개 있다.
+
+==== MRD,Yorris ====
+https://community.bistudio.com/wikidata/images/0/05/Arma3_CfgWeapons_optic_Yorris.jpg
+https://community.bistudio.com/wikidata/images/3/3e/Arma3_CfgWeapons_optic_MRD.jpg
+각각 장교용 권총인 45.five와 주브르에 장착가능한 도트사이트.
+
+=== 사이드 부착물 ===
+총기 옆에 부착하는 것들이다.
+
+==== 적외선 유도기 ====
+https://community.bistudio.com/wikidata/images/7/75/Arma3_CfgWeapons_acc_pointer_IR.jpg
+L을 켜면 나온다. 야시경으로만 보이고,AI가 인식하지 못하는데 자꾸 사람들은 인식한다고만 한다(...)
+AI가 이것에 반응하진 않으며,플레이어끼리만 인식하므로 야간에 타겟지정을 할 때 유용.
+
+==== 전술조명 ====
+https://community.bistudio.com/wikidata/images/3/31/Arma3_CfgWeapons_acc_flashlight.jpg
+마찬가지로 L을 누르면 불빛이 나간다. [[배틀필드]] 시리즈처럼 눈뽕을 주지는 않고, 밝기도 약한 편.(야시경 착용자들에겐 전술조명이 비추는곳이 잘 안보인다) 이것도 역시나 AI가 인식 못한다. 다만 아주 멀리서도 잘 보인다.~~솔직히 말해서 동네 문방구에서 사와서 낀거같다.~~
+== 투척물 ==
+던지는 것들이다.
+
+=== 수류탄 ===
+파괴력이 센 RGO수류탄과 멀리 날아가는 미니수류탄이 있다. 대신 파괴력은 사람 잡지도 못하는 수준.
+
+=== [[챔라이트]] ===
+던져서 조명을 비춘다.초록,파랑,노랑,빨강 네가지 색이 있다. 노랑>>파랑>>초록>>빨강 순서로 밝은 편. 그다지 멀리 날아가진 않는다.
+
+=== 적외선 수류탄 ===
+각 진영에 따라 나뉘어 있으며, 야시경에도 반짝반짝 거리도 아군 항공기의 레이더에 인식되 공격 유도가 가능. AI의 경우 가차없이 항공폭탄을 떨궈버린다.
+
+
+
+
+
+
+
+
+
+

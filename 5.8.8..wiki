@@ -1,0 +1,17 @@
+[[비트매니아 IIDX]] 10th Style의 수록곡.
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ib2BUNEcYQM&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ib2BUNEcYQM&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 95 || {{{#blue 2}}} || {{{#blue 223}}} || {{{#orange 4}}} || {{{#orange 400}}} || {{{#red 5}}} || {{{#red 534}}} || {{{#blue 1}}} || {{{#blue 223}}} || {{{#orange 4}}} || {{{#orange 400}}} || {{{#red 5}}} || {{{#red 534}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 10th Style ~ 15 DJ TROOPERS
+ * 가정용판 수록 : 10th Style
+작곡가는 [[dj nagureo]]로, 초대 작품부터 자리를 지킨 [[5.1.1.]]의 후속곡으로서 발표되었다. 하지만 원곡의 위상에 비해서 약간은 초라한 느낌이 짙다. [청량리 588|한국 한정으로 느낌이 묘한 제목이다.] 물론 우연히 그렇게 되었다는 게 지배적인 해석이지만, 작곡자인 dj nagureo가 평소부터 한국 등 아시아 지역에 관심을 가져왔다는 것을 생각하면 의도였을 수도 있다.(...) 한 때 자신의 블로그에 '한국' 카테고리를 만들어놓고 프로필 사진에 한국 거리 사진을 넣었을 정도니까 말이 안 되는 것도 아니다. [http://djnagureo.exblog.jp/ nagureo가 옛날에 쓰던 블로그]. 프로필 사진이 한국 거리이다.
+
+[[BPM]]은 5.1.1.보다 낮지만 노멀 채보는 5.1.1.보다 어렵다. 더블 노멀 채보는 [[단위인정]] 5급의 마지막 자리를 여러번 지키기도 했다. 하지만 그 외의 채보들은 그다지 어렵지 않았다.
+
+[[BGA]]는 [[garden]]--, [[She is my wife]]-- 등이 사용한 [[범용 BGA]]를 사용했다. 이 범용 BGA는 10th부터 사용된 BGA인데, 자연물의 활용이 주를 이루고 있어 5.1.1.의 BGA와 비견되기도 하였다.
+
+dj nagureo의 곡들이 대량으로 썰린 [wiki:"비트매니아 IIDX 16 EMPRESS" EMPRESS]에서 삭제되었다.

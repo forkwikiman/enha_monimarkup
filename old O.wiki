@@ -1,0 +1,29 @@
+http://vjarmy.com/wiki/images/2/22/Ee2_EXPERIMENTRAP.png
+
+[[ee'MALL]]의 수록곡. 팝픈뮤직에만 수록되어 있다.
+
+'''원래 제목은 old "O"이나, 위키 시스템의 한계로 따옴표 링크가 불가능하므로 따옴표를 뺀 O를 쓴다.'''
+
+작곡가는 [mur.mur.kurotoh]로, 5건반 [비트매니아 시리즈]에서 익스피리멘털 뮤직[* taulanaewn, [S.F.M] 등]을 주로 만들었던 작곡가이기도 하다.
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/PezXlvJ1rN8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+ムルムルサウンド大炸裂！聞くほどにはまる叫びを聞け！！
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 10[[br]](ee'MALL 2nd avenue) || EXPERIMENTRAP[[br]]익스페리먼트랩 || old "O" || mur.mur.kurotoh || JACK[[br]][[잭(팝픈뮤직)|잭]] ||
+
+|| [[BPM]] || [wiki:"팝픈뮤직/난이도 체계"난이도] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 185 || 43단계 || {{{#blue 17}}} || {{{#green 19}}} || {{{#orange 33}}} || {{{#red 37}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 25}}} || {{{#orange 39}}} || {{{#red 43}}} ||
+|||| 노트수 || {{{#blue 487}}} || {{{#green 499}}} || {{{#orange 725}}} || {{{#red 872}}} ||
+
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+캐릭터 배경은 9의 수록곡인 禁じられた契約(장르명 다크니스 2)를 쓴다. 10에 첫 수록되었으며 15 어드벤처에서 통상 해금. EX 채보는 주로 동시치기와 좌우흔들기 위주이다. 43 중급.
+
+15 어드벤처엔 키음에 버그가 있었다. 차기작인 16 PARTY에서 수정.

@@ -1,0 +1,61 @@
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/xA7WeKL9Suo?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/xA7WeKL9Suo?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+오리지널 오프닝[* 대만판]
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/lTWBfikjR04?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/lTWBfikjR04?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+리벨리온 오프닝
+
+|||| attachment:/Baldrbulletrebellion.jpg ||
+||원제|| BALDR BULLET/バルドバレット  ||
+||발매|| 2000.10.27(오리지널) [[br]] 2006.09.26(리벨리온) ||
+||제작|| [[GIGA]] ||
+||원화|| 키쿠치 세이지(리벨리온) ||
+||플랫폼|| PC ||
+
+[[목차]]
+
+== 소개 ==
+[[wiki:"GIGA(에로게회사)" GIGA]]사가 제작한 [[에로게]] [[발드 시리즈]]의 세번째 작품. 일본어 표기때문에 발드 바렛이라고 부르는 사람들도 있다. 1:1대전 게임인 전작 [[장갑희 발피스]]와는 달리 적이 다수 등장한다.
+
+전작 장갑희 발피스의 실패를 거울삼아 전체적인 난이도와 밸런스를 조정하고 스토리를 정비한 작품. 제작 당시 예산이 부족했는지 성우 미지원, 매우 저렴한 원화 등이 안습요소로 꼽히지만 액션게임으로서의 높은 완성도와 서바이벌 모드의 대히트로 시리즈를 무사히 존속시키는데 일조했다.
+
+후속작인 [[발드 포스]]의 인기에 힘입어 '발드 뷸렛 리벨리온'이라는 리메이크작과 이것을 기반으로 한 '발드 뷸렛 이퀄리브리엄'이라는 전연령판[* 한정판엔 HAWS-MG의 피규어가 포함.]이 발매되었다. 하지만 거의 대부분의 요소를 전작 그대로 긁어오는 만행을 벌였다. 추가(?)요소는 변경된 원화[* 작화가 wiki:"시마다 후미카네" 와 비슷하다. 실제 원화가는 키쿠치 세이지.캐릭터 디자인은 일부 캐릭터는 완전히 일신했으나 일부는 원작 거의 그대로 반영하는등 제각각.], 음성 추가, 일종의 헬모드 비슷한 미션 모드의 추가뿐. 전투 파트는 '''도트 하나 바뀐게 없다'''. 담당 제작팀인 팀 발더헤드가 참여하지 않아 생긴 일.
+
+[[리메이크]]하기 전의 원판게임을 보면 [[장갑희 발피스]]에서 '대체 얼마나 날려먹었길래' 하는 착잡함을 느낄 수 있다. --2000년 게임이 뭐 이래-- 당장 위에 있는 오프닝들만 봐도...
+
+== 등장 캐릭터 ==
+ * [[세르게이 커크랜드]]
+ * [[레베카 프르시코]]
+ * [[페이 마리니나]]
+ * [[유영하]]
+ * [[아소 나츠메]]
+ * [[테레지아 아니시나]]
+ * [[카나 아비트볼]]
+ * [[듀라한 커닝검]]
+ * [[스테판 베르난데스]]
+ * [[소티아 윈디]]
+ * [[레나 붓티리스카야]]
+ * [[샤오 메리 맥나마라]]
+ * [[헤나 프라카슈]]
+ * [[세레나 제르디]]
+ * [[로자 오브라이언]]
+ * [[유우하 티제락]]
+ * [[흰토끼]]
+
+== 관련용어 ==
+ * [[발드 시스템]]
+ * [[발디스트]]
+ * [[反발디스트]]
+ * [[슈코아틀]]
+ * [[자하남 인더스트리]]
+ * [[케찰코아틀]]
+ * [[B.F.A]]
+ * [[BS-OSA]]
+ * [[GIGAS]]
+ * [[HAWS]]
+ * [[SERR14]]
+
+[[각주]]

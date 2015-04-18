@@ -1,0 +1,74 @@
+[[목차]]
+
+== 일본의 팝 유닛 [[globe]]의 노래 ==
+http://www.jpopasia.com/img/album-covers/2/14860-cantstopfallininlove-bmay.jpg?width=300
+
+일본의 팝 유닛 [[globe]]가 1996년 발표한 그들의 7번째 싱글로 앨범 [[FACES PLACES]]에 수록되었다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/4ctWvVAmQpo?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4ctWvVAmQpo?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+애절한 분위기의 사랑노래로 특히 보컬 야마다 케이코의 가창력이 한창 물오른 시절에 제작된 곡이었다. 싱글 판매량 130만 장에 곡이 수록된 앨범 FACES PLACES는 330만 장이나 팔려나가는 기록을 세웠다.
+
+그런데 가사가 보는 사람에 따라서는 불륜을 소재로 한 것으로 해석될 수도 있다. (반지를 끼운 당신을 바라보고 있다는 등...)
+
+== [[BEMANI 시리즈]]의 악곡. ==
+[[댄스 댄스 레볼루션]] 수록곡. 작곡은 [[NAOKI]]
+=== 원곡 ===
+{{{#!html
+<iframe width="420" height="345" src="http://www.youtube.com/embed/_EJtUCm00Vw" frameborder="0" allowfullscreen></iframe>
+}}}
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 6}}} || {{{#green 11}}} || {{{#purple -}}} ||
+||<|3> 155|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 6}}} || {{{#green 12}}} || {{{#purple -}}} ||
+
+6방향 발판을 채용한 스핀오프 작품 [[댄스 댄스 레볼루션 솔로]] 2000에서 처음 등장하였다. 정규 넘버링 시리즈에는 4th MIX에 수록되었다. 가정용으로는 [[플레이스테이션]]판 EXTRAMIX에 들어갔다.[* Solo BASS MIX나 Solo 2000이 원출처인 곡들은 [[플레이스테이션]]용 4th MIX에는 없고 플레이스테이션에서는 Extra MIX에 있다. 다른 예로는 [[PARANOiA]] Evolution.]
+
+NAOKI feat. Paula Terry HYPER EUROBEAT 시리즈의 시작으로, 이 곡 뒤에 [[댄스매니악스]] 수록곡 [[Broken My Heart]], DDR 4th MIX와 [[파라파라 파라다이스]] 수록곡 [[Love Again Tonight]], 그리고 DDR 5th MIX 수록곡 [[Still in my heart]]로 가사 내용이 이어진다. [* 이 4곡은 결국 DDR 시리즈와 비트매니아 IIDX 시리즈에 모두 수록된다.] (다만 이 곡에는 feat. Paula Terry라는 표시는 없고 NAOKI라고만 적혀 있다) HYPER EUROBEAT라는 장르명은 [[에이벡스]]의 [[유로비트]] [[컴필레이션 앨범]] 시리즈 이름인 [[SUPER EUROBEAT]]에서 따서 살짝 바꾼 것. 
+
+초반이랑 최후반에는 [[DYNAMITE RAVE]] 비슷하게 엇박이 나오지만 전반적으로는 정박 위주로 나가서 (SuperNova2까지 기준) 난이도 8짜리 곡에 익숙하다면 클리어에는 무리가 없는 채보.
+
+==== [[beatmania IIDX]] ====
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 154(3rd~5th)[[br]]155(7th~) |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 3}}} || {{{#blue 310}}} || {{{#orange 8}}} || {{{#orange 632}}} || {{{#red 없음}}} || {{{#red 없음}}} || {{{#blue 4}}} || {{{#blue 313}}} || {{{#orange 7}}} || {{{#orange 620}}} || {{{#red 없음}}} || {{{#red 없음}}} ||
+
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 3rd ~ 5th, 7th ~
+ * 가정용판 수록 : 3rd, 7th, 9th
+
+[[비트매니아 IIDX]]에는 3rd style에 수록되었는데, 레이어로 세리카가 나오는 첫 곡이었다. 다만 이 때의 세리카의 모습은 지금과 비교하면 아무래도 [[GOLI]]의 초창기 작풍이었던지라 지금과는 차이가 꽤 많이 난다. 노트는 그냥저냥 곡에 충실한 난이도 8. 크게 어렵지는 않다. 어나더가 없다는 게 특징이라면 특징. 6th에서 딱 한 번 삭제되고 바로 다음 작품에서 부활한 희한한 케이스다.
+
+=== Speed Mix ===
+{{{#!html
+<iframe width="420" height="345" src="http://www.youtube.com/embed/swl8Ny4A2oA" frameborder="0" allowfullscreen></iframe>
+}}}
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple -}}} ||
+||<|3> 170|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple -}}} ||
+DDR 5th MIX에서는 Speed Mix라는 하드코어 리믹스가 실렸는데, BPM이 빨라진데다가 후렴부분에 나오는 8비트 연타 때문에 제법 체력을 요구하는 곡으로 변모했다.  원곡은 코나미 오리지널 곡이지만 이 버전은 댄스매니아 SPEED 앨범에 실린 리믹스이기 때문에 게임 내에서는 수록 당시 판권곡으로 취급했다. SuperNOVA 이후로는 그냥 코나미 오리지널곡 취급.
+
+=== super euro version ===
+{{{#!html
+<iframe width="420" height="345" src="http://www.youtube.com/embed/9O2KaY-M05c" frameborder="0" allowfullscreen></iframe>
+}}}
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 8}}} || {{{#purple -}}} ||
+||<|3> 155|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 1}}} || {{{#red 5}}} || {{{#green 8}}} || {{{#purple -}}} ||
+
+[[파라파라 파라다이스]]에서는 [[Y&Co.]]가 슈퍼 유로비트 분위기로 리믹스한 super euro version이 수록되었다. 게임이 게임이니만큼 전용 파라파라 안무도 있지만, 프리스타일 모드에서는 이 버전이 아닌 원곡으로도 플레이가 가능하다.DDR 에서는 SuperNOVA에 이식되었다.
+
+[[각주]]

@@ -1,0 +1,27 @@
+|||| [DJMAX 시리즈/수록곡 목록] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Portable]] ||
+|| 장르 || Nu HnS ||
+|| 작사,작곡 || [[xxdbxx]] ||
+|| 보컬 || Silver Water ||
+|| BPM || 98 ||
+|| BGA || [Eyehead] ||
+
+{{{#!html
+<iframe title='DJMAX Online - 4. Fever GJ' width='560px' height='315px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=9S89BsgISv0$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+}}}
+BGA
+
+[[DJMAX 온라인]]의 클로즈 베타 테스트 시절부터 있었던 10여 곡 중 한 곡.
+
+BGA는 잡지를 컨셉으로 걸어다니는 사람의 실루엣이나 타이포그래피 같은 추상적인 영상을 넣었다. 미형 캐릭터 위주의 비주얼이 많던 DJMAX 온라인에서 추상적인 디자인을 넣은 흔치 않은 BGA였다.
+
+초기 수록곡 중 패턴이 난해하기로 악명이 높았던 곡. 3키 이상의 동시입력이 힘든 PC의 키보드 환경을 고려한 패턴을 짜서 넣었다고 하지만 동시입력이 아닌 슬라이드하듯이 입력하는 패턴이 많아서 정확한 판정을 내기 힘든데다가 배치가 왔다갔다하는 패턴이 많아 난이도에 비해 어렵다는 평을 많이 받았다.
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/nEnW2gkwMiw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+7키 하드 패턴은 Shift와 Space 양쪽의 이펙터 버튼이 많이 나오는 것이 특징으로, 쉽게 처리하기는 힘들지만 능숙해지면 Shift와 Space를 치는 7키 모드만의 맛을 가장 잘 느낄 수 있는 채보였다. B타입 일자배치로 하면 그런 거 없지만.
+
+[[DJMAX Portable]]에도 수록되었다. 하지만 해외 수출판인 DJMAX Portable international에서는 [[Dreadnought]]와 함께 곡이 아예 삭제되었다. 삭제의 정확한 이유는 알려지지 않았다.

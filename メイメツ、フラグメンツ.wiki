@@ -1,0 +1,73 @@
+[[목차]]
+
+Mei-Metsu, Fragments
+명멸(明滅)[* メイメツ는 명멸의 일본어 독음.]、프래그먼츠
+
+== beatmania IIDX ==
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/NR8a9Kaai8Y?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NR8a9Kaai8Y?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+||<|2><:> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 157 || {{{#blue 4}}} || {{{#blue 329}}} || {{{#orange 8}}} || {{{#orange 661}}} || {{{#red 10}}} || {{{#red 984}}} || {{{#blue 4}}} || {{{#blue 357}}} || {{{#orange 7}}} || {{{#orange 588}}} || {{{#red 11}}} || {{{#red 1059}}} ||
+
+ * [wiki:"beatmania IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : [wiki:"beatmania IIDX 20 tricoro" 20 tricoro] ~ 
+
+작곡가는 [[Elements Garden]] 소속의 아티스트인 나키야마 마사토(中山真斗). ~~이제 [[I've]]만 남았다.~~[* [[Elements Garden]]과 [[I've Sound]]는 서브컬쳐쪽 음악 제작회사로 유명하고 두 팀은 서로 사이가 좋다.][* 사실 라이센스곡에 있기는 하다. [[리플렉 비트]]에 수록된 [[七転八起☆至上主義！]]]보컬은 [캄피오네!] TVA 오프닝의 보컬이었던 [[사쿠라가와 메구]](桜川めぐ)로 이 전에도 Elements Garden의 노래에 보컬로 뛴 적이 있다. 덕분에 Elements Garden이 IIDX에 처음으로 투고한 곡이기도 한데, 같은 서브컬쳐에서 활동하는 음악 제작 그룹인 [[IOSYS]]가 작곡한 [突撃！ガラスのニーソ姫！]과는 다르게 곡 자체도 높은 퀄리티로 주목받았다. 곡의 채보 난이도도 그럭저럭 적절하게 배분된 편. 단 싱글 어나더의 경우 중반부의 나선계단때문에 난이도가 10치고는 강한 편이다.
+
+BGA는 전용 BGA에 [GOLI]가 그린 레이어가 대응되어 있긴 한데, 이 전용 BGA라는 게 그냥 스크류바 비스무리한 게 돌아가는 게 반복되는 게 전부. 레이어는 총 3종류가 있는데, 일본 전통 의상을 입은 여성이 등장하는 레이어와, 메카풍 레이어, 그리고 [[恋する☆宇宙戦争っ!!]]처럼 로고가 나타나는 미스 레이어가 있다.
+
+여담으로 이 곡의 싱글 어나더는 KAC 2012 예선에서 투덱 종목 예선곡으로 선정되기도 했다. 같이 선정된 곡은 [[GRADIUS 2012]], [[Black.by X-Cross Fade]].
+
+=== 아티스트 코멘트 ===
+||○Sound / 中山真斗（Elements Garden）
+
+여러분, 처음 뵙겠습니다. Elements Garden의 나키야마 마사토입니다!
+
+설마 저를 [[비마니 시리즈]]에 참가시켜 줄 수 있게 해줄거란 꿈에도 생각하지 못했습니다.
+방금 전까지 [[유비트]]로 [[concon]]하고 있었습니다...
+
+모든 것은 노래에 담았으므로 많이 말하지는 않습니다 (말할 수 없다)
+
+꼭, 우리 아이를 잘 부탁드립니다!
+
+○Anime / [[GOLI]]
+
+곡을 처음 들었을 때, 「떠, 떴다…진짜!」하고 감동한 곡입니다.
+
+이 곡도, 어느 정도 반복해서 들었을지는 모릅니다.
+단단한 중저음의 가킹가킹 악곡도 확실히 멋졌지만,
+경쾌하고 기분 좋은 상쾌감이 있는 악곡도 또 다른 의미로 멋지다고 생각합니다.
+
+보컬과 곡이 보기 좋게 스며들어간 곡, 무섭지만 좋아합니다.
+
+배경 영상은 [VJ GYO]에 「이런 나선이, 이렇게 빙빙 돌며 스케스케 반짝반짝!」
+하면서 부탁했더니 「OKOK! HAHAHA! 맡겨달라고!」라고 한 대답을 발휘해서 만든 3D 영상을 애니메이션용으로 가공했습니다.
+
+곡중의 타이틀의 화상이 은밀히 맘에 듭니다.
+
+어쨌든, 이 곡의 모든게 아주 좋습니다!
+
+||
+
+== 팝픈뮤직 ==
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/QDXpi1jVgaQ" frameborder="0" allowfullscreen></iframe>
+}}} 
+
+{{|
+妖しく艶やかなヴォーカルと硬質なリズムが生み出す重厚なハーモニー
+야릇하고 선명한 보컬과 단단한 리듬이 낳은 중후한 하모니
+|}}
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music [[br]]Sunny Park || CYBER SYMPHONIC POP[[BR]]사이버 심포닉 팝 || メイメツ、フラグメンツ [[BR]] 명멸, 프래그먼츠 || 中山真斗(Elements Garden) [[br]] feat. 桜川めぐ || SUMIRE[[BR]][[스미레]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 157 || 50단계 || {{{#blue 6(5버튼)}}} || {{{#green 26}}} || {{{#orange 34}}} || {{{#red 44}}} ||
+|||| 노트수 || {{{#blue 125}}} || {{{#green 320}}} || {{{#orange 604}}} || {{{#red 980}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]

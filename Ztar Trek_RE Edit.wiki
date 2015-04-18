@@ -1,0 +1,30 @@
+#title Ztar Trek_RE Edit
+{{|이 항목은 [[Ztar Treck]]으로 검색해도 들어올 수 있습니다.|}}
+[[목차]]
+== 개요 ==
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/sMzDZHs9YSs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || Progressive Core ||
+|| 작곡 || [[Electronic Boutique]] ||
+|| 편곡 || [Mr.Funky] ||
+|| BPM || 180 ||
+|| 타이틀 || [[D]] ||
+
+군 제대 이후 Electronic Boutique가 DJMAX 시리즈에 복귀하면서 참여한 신곡이다. [[EZ2DJ]]의 첫 보스곡이었던 [[Ztar warZ]]의 후속곡의 형식으로 만들어진 곡이다. 게임 내 음악은 Mr.Funky가 재편곡한 버전. RE Edit라고 쓰여져 있는 이유가 바로 이것이다. 앨범 커버를 그린 사람은 다름아닌 前 펜타비전 소속 비주얼레이터였던 D(!).
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Rapid Stream 팩 수록곡 ||
+|| [wiki:"D2(DJMAX)" D2] || [HAMSIN] || [Bamboo on Bamboo] || [[wiki:"FEAR(DJMAX)" FEAR]] || '''Ztar Trek_RE Edit''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 5 || ||
+||<#0000FF> {{{#white HD}}} || 8 || ||
+||<#FF0000> MX || 9 || ||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/YCQfkGTmtn8?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+MX 패턴의 경우 전체적으로 9레벨 치고 상당히 어렵다. 폭타의 밀도도 9레벨 중에서는 꽤 높은 편이고 중간중간 엇박 구간도 나오기 때문에 판정도 까다롭다. 10레벨 곡들과도 견줄 수 있는 곡. ~~물론 [wiki:"Nightmare"이][wiki:"SINister Evolution"런] [wiki:"Minus 3"애][wiki:"Xeus"들]한테는 밀리지만.~~

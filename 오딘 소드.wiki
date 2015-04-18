@@ -1,0 +1,29 @@
+■ 애니메이션 버전
+{{{#!html
+<embed src="http://www.youtube.com/v/UAo7imInyaM?fs=1&amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="365"></embed>
+}}}
+
+■ 게임 버전
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/veA6TVcFv-s?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/veA6TVcFv-s?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>}}}
+
+
+[[이나즈마 일레븐]]에 등장하는 슛 계통 필살기.
+
+||[[한국어]]표기||[[일본어]] 표기||[[영어]] 표기|| 
+||오딘 소드||オーディンソード||Odin Sword|| 
+
+||소모 TP||위력||속성||특성|| 
+||55||93||山||슛 체인||
+
+사용자는 [wiki:"오르페우스(이나즈마 일레븐)" 오르페우스]의 [[피디오 알데나]].[* [wiki:"한다 신이치" 라이몬판 피디오]도 레벨을 올리면 배운다.]
+
+검의 형태를 한 강렬한 슛을 날리는 기술. 이때 바닥에 [[룬 문자]]가 새겨진 마법진이 전개되는 연출이 있다.
+
+이름의 유래는 [[북유럽 신화]]의 최고신 오딘. 근데 신화에서 [[오딘]]은 '''검이 아닌 창'''인 [[궁니르]]를 사용하는데--…[참철검]?-- 사실 [[세인트 세이야]] 애니메이션 2기 아스가르드편에서 [wiki:"갓워리어#s-1.2" 신투사 지크프리트]의 필살기 이름으로 한 번 쓰였던 이름이다.
+
+하지만 오딘은 북유럽쪽인데 어째서 남유럽에 속한 [[이탈리아]]인 캐릭터 피디오가 이 기술을 사용하는지 의문.
+
+국내 팬들 사이에서의 애칭은 '''"오뎅 소드."'''
+
+[[각주]]

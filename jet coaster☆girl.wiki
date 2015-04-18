@@ -1,0 +1,74 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 명의는 [[TOMOSUKE]] feat. Three Berry Icecream.
+
+히나비타의 두번째 앨범인 Bitter Sweet Girls에 실린 멤버소개에서 [[야마가타 마리카]]가 이 노래를 불렀다. [[http://youtu.be/Zbaat2_OWSs?t=6m29s 링크]]
+
+== [[기타프릭스·드럼매니아]] ==
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/ybpkyGXeWts" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||| [[기타프릭스·드럼매니아 XG|XG 시리즈]] 난이도 체계 ||
+||<|5><:> 177 ||<|2><:> 기타 표준 || {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue NOV}}} || {{{#orange REG}}} || {{{#red EXP}}} ||
+|| {{{#green 50}}} || {{{#orange 68}}} || {{{#red 87}}} ||<|2><:> {{{#blue 4.00}}} ||<|2><:> {{{#orange 6.30}}} ||<|2><:> {{{#red 7.20}}} ||
+|| 기타 오픈픽 || {{{#green 48}}} || {{{#orange 66}}} || {{{#red 89}}} ||
+|| 기타 베이스 || {{{#green 50}}} || {{{#orange 68}}} || {{{#red 87}}} || {{{#blue 2.80}}} || {{{#orange 3.60}}} || {{{#red 7.20}}} || 
+|| 드럼매니아 || {{{#green 23}}} || {{{#orange 47}}} || {{{#red 67}}} || {{{#blue 2.25}}} || {{{#orange 4.35}}} || {{{#red 5.40}}} || 
+
+드럼에서의 채보는 치기 무난한 쉬운 채보 구성인 반면, 기타쪽은 어느정도 난이도가 있는 편이다. 다른 부분은 난이도에 비해 쉽지만 중간에 속주가 콤보, 게이지를 갉아먹는다. 이 부분을 버틸 수 있느냐 없느냐로 클리어가 갈린다. 그렇지만 XG 시리즈에선 난이도에 상향평준화 때문인진 몰라도 특별히 어려운곡은 아닌듯 하다.
+
+[[추가바람]].
+
+=== 곡 코멘트 ===
+||Three Berry Icecream씨와의 콜라보 제 1탄입니다.
+그런데, 아주 좋아하거든요 저. 제트 코스터 (웃음) 이 곡도 제트 코스터에 타고 있는 망상을 하면서 만들었습니다. 이런 곡은 사실은 MTR1대로 집에서 녹음하는 풍으로 녹음해 보았어요. 마이크는 장난감의 마이크를 쓰고 리듬도 옛날의 싼 키보드 따위로 짜고. 원래 그런 인디 팝 노선으로 만들었습니다. 후렴은 고속 회전하는 회전목자에 타고 있는 기분, 후렴의 뒤는 제트 코스터에서 급강하하는 기분으로. 이런 망상 플레이를 강하게 추천합니다 (웃음)
+
+- TOMOSUKE||
+
+== [[팝픈뮤직]] ==
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/iV3WsTd5g14" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| ee'MALL || JET COASTER POP[[BR]]제트 코스터 팝 || jet coaster☆girl || [[TOMOSUKE]] feat. Three Berry Icecream || YURI*chan[[BR]]유리*쨩 ||
+|||||||||||||| [[팝픈뮤직]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|4><:> 177 || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} || {{{#blue 5버튼}}} ||
+|| {{{#green 12}}} || {{{#orange 23}}} || {{{#red 33}}} || {{{#blue 8}}} ||
+
+팝픈뮤직에선 [[ee'MALL]]이벤트로 수록. 14 FEVER에서 통상해금되었다. ee'MALL 당시의 장르명은 제트 코스터였지만 통상해금 이후엔 지금의 장르명으로 변경.
+
+[[추가바람]].
+
+== [[사운드 볼텍스]] (jet coaster☆girl tRickStAr Remix) ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/TD8zeU6Cwqo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[VOCALOID 오리지널 곡]] 활동을 하고 있는 [[BMS]] 제작자 [[sasakure.UK]]가 리믹스를 하였다. 그의 스타일 중 하나인 느긋한 칩튠 팝 스타일로 리믹스되었다. 한국에선 동 작곡가가 작곡한 [[MxMxMstar]]와 비슷한 스타일로 보면 된다. ~~[[神威]] 같은 빠른 음악을 생각했다면 지는거다.~~
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0011_jetcoastergirl_3390uk_jacket_n.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0011_jetcoastergirl_3390uk_jacket_n.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0011_jetcoastergirl_3390uk_jacket_n.jpg?width=150 ||
+|| 난이도 || {{{#purple 01}}} || {{{#orange 05}}} || {{{#ff009f 09}}} ||
+|| 체인 수 || {{{#purple 0349}}} || {{{#orange 0490}}} || {{{#ff009f 0699}}} ||
+|| 일러스트 담당 || {{{#purple sasakure.UK feat. mirto}}} || {{{#orange sasakure.UK feat. mirto}}} || {{{#ff009f sasakure.UK feat. mirto}}} ||
+|| 이펙터 || {{{#purple Megacycle}}} || {{{#orange Megacycle}}} || {{{#ff009f Megycycle}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 02(2012.1.18)}}} ||
+|| [[BPM]] |||||| 120 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 03(2014.4.4 ~ 2014.5.1)
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/eyE186Dbz-s" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+EXH 패턴은 [[凛として咲く花の如く]]과 같이 초보자 대접용 채보라고 보면 된다. 그래서인지 플레이어가 적은 편.

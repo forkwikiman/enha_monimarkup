@@ -1,0 +1,301 @@
+ * 상위 항목 : [[포켓몬스터/등장인물]], ~~[[사망전대]]~~
+
+||<#dcdcdc>이 항목은 [[체육관장]]과 체육관 관장의 일칭과 영칭인 [[짐리더]]로 검색해도 들어올 수 있습니다.||
+
+[[include(틀:스포일러)]]
+
+[[목차]]
+
+= 개요 =
+'''각 지방마다 공인된 실력있는 트레이너들'''[* 이외에 공인된 실력자로는 [챔피언(포켓몬스터)|챔피언]이나 [사천왕(포켓몬스터)|사천왕], 혹은 [프런티어 브레인]이 있다.]
+
+게임 [[포켓몬스터]] 시리즈의 [[중간보스]]급 [[포켓몬 트레이너]]들. 일본에서 사용되는 본래 명칭은 짐리더(ジムリーダー, Gym Leader)이며 북미판도 --당연히-- 같다. 한국에선 체육관 관장이란 직설적인 명칭으로 [[현지화]]되었다.
+
+포켓몬스터 본가 게임의 스토리는 각 지방의 8개의 [[포켓몬 체육관]] 관장들을 이겨서 [[체육관 배지]]를 따고 이를 바탕으로 포켓몬 리그에서 [[사천왕(포켓몬스터)|사천왕]]과 [[챔피언(포켓몬스터)|챔피언]]에게 도전하는 것이다. 즉 '''[[도장 깨기]]'''를 해야 한다는 말이다. ~~직업이 [[전투력 측정기]]라니~~
+
+게임이나 애니메이션, 기타 매체를 통틀어 간간히 암시되는 사실이 있는데, 체육관 관장들은 보통 배지를 걸고 플레이어와 싸울 때 무조건 전력으로 이기려고 하지는 않는다. 체육관 관장의 배틀은 어디까지나 도전자의 역량을 시험하고, 때로는 가르침을 주기도 하는 것이 목적. 사용 포켓몬이 한 가지 타입에 집중되어있는 것도 이를 위한 의도적인 규칙인 듯 하다. [[체렌]]의 경우 1편에서 트레이너로서 여행할 땐 자신의 포켓몬으로 사천왕까지 격파할 정도의 역량을 보여줬는데, 2편에서 체육관 관장을 역임하게 되자 도전자 상대로는 그 동안 썼던 숙련된 포켓몬들 대신 노멀 타입 포켓몬만을 사용했다. 또 2세대에서 챔피언이 된 다음 도전할 수 있는 관동 지방의 관장들은 위치 불문하고 대부분 사천왕과 비슷한 레벨의 포켓몬을 사용한다.
+
+디 오리진에서는 이에 대한 묘사가 훨씬 구체적으로 나오는데, 첫번째 관장인 웅의 경우 레드에게 배지의 수를 물어본 뒤 하나도 없다는 답을 듣자 거치된 6개의 몬스터볼 중 2개만을 꺼내 사용했다. 반면 [[비주기(포켓몬스터)|마지막 관장]]의 경우 그에 대해 잘 모르는 그린을 상대할 땐 어디까지나 체육관 관장으로서 도전자의 역량을 시험하는 배틀을 펼치고 배지를 넘겨줬지만, [[로켓단|그의 정체]]를 잘 알며 두 번이나 맞부딪친 악연의 상대 레드가 올 때는 전력으로 박살내기 위해 자신의 최강 포켓몬들을 사용한다. 이것으로 보아 초반 관장들의 포켓몬 레벨이 낮은 것도 도전자의 수준에 어느 정도 맞춰준 것으로 보인다. 관장들의 실제 전력은 어느 정도 서로 비슷한 수준인 듯 하다. 물론 관동 최강의 관장이라 소개되는 비주기나 신오 최강의 관장으로 공인되는 전진 같은 경우도 있다. 거기에 어떤 관장은 [[독수(포켓몬스터)|사천왕]]이나 [[윤진|챔피언으로]] [[아이리스(포켓몬스터)|승진한 경우]]도 있어서 실은 만만치 않은 실력을 지니고 있으리라 생각된다.
+
+또한 애니메이션에서는 체육관장전에 한하여 특별한 룰이 존재하는데, '''도전자와 달리 관장에게는 포켓몬 교체를 허용하지 않는다.'''~~[[국화(포켓몬스터)|어떤 사천왕]]이 이 룰을 싫어합니다~~ 아마 교체 룰을 이용해 NPC 트레이너들을 쉽게 이길 수 있었던 게임판 스토리 진행을 모티프로 한 듯 한데, 이 때문에 관장 측에는 상당히 큰 페널티가 붙는다.[* 다만 관장들은 자신들이 항상 시합을 해왔던 전장에서 싸우기 때문에, 전장활용에 있어서는 도전자보다 월등할 수 밖에 없다. 나름의 밸런스 맞추기인듯. ~~물론 평지전장이라면 그런거 없다~~]
+
+체육관 관장과의 포켓몬 시합에서 이기면 그들에게 인정받았다는 증표인 배지를 건네주며 그와 동시에 [[기술머신]]도 하나 준다.
+
+5세대는 체육관 관장들의 포켓몬이 하나만 남았다면 통상 BGM과는 다른 '승리는 눈 앞에!'라는 BGM이 나오는데 [[주제가가 BGM인 전투|포켓몬의 메인 테마를 적절하게 리메이크한 흥겹고도 경쾌한 음악]]이다. 보통 한 마리만 남았기에 내 쪽을 대변하는 [[처형용 BGM]]이 되지만 [[알로에(포켓몬스터)|특수한]] [[보르그|상황]][[원수갚기|에서는]] 역으로 당해서 상대가 우리를 처형하는 상황이 될 수도 있다. 이 경우 이 흥겹고도 경쾌한 BGM 때문에 도리어 기분이 더 나빠지는 경우도 있다.
+
+체육관 관장은 보통 다른 직업을 겸하는 경우도 있다. 특히 하나지방의 관장들이 대표적. 심지어는 '''[[비주기(포켓몬스터)|한 범죄조직의 보스]]'''나 '''[[그린(포켓몬스터)|전 챔피언]]'''인 경우도 있다.
+
+'''따라서 이들은 본 실력을 내서 뱃지를 전수하는 게 아니라 트레이너의 역량을 확인함과 동시에 승리하면 주는 것이다.'''
+
+전 챔피언이였던 [[그린(포켓몬스터)|그린]]을 제외하면 관장들 모두의 포켓몬들은 한 가지 타입에 집중되어 있다. 하지만 대부분 자신의 대표 타입이 아닌 포켓몬이 하나씩은 있으며 대표 타입 포켓몬도 자기에게 강한 타입을 가진 포켓몬에 대한 견제기를 갖추고 있는 경우도 있으니 주의해야 한다.
+
+6세대까지를 기준으로 속성에 따른 관장들의 등장 횟수는 {{{#6699ff 물}}}(6회), {{{#ffcc33 전기}}}(5회), {{{#999966 노말}}}/{{{#cc9933 바위}}}/{{{#66cc66 풀}}}/{{{#cc3333 격투}}}/{{{#99cccc 얼음}}}(4회), {{{#ff9933 불꽃}}}/{{{#9999ff 비행}}}/{{{#6633ff 드래곤}}}/{{{#993399 독}}}/{{{#ff6699 에스퍼}}}/{{{#99cc33 벌레}}}(3회), {{{#cccc66 땅}}}/{{{#666699 고스트}}}/{{{#cccccc 강철}}}(2회), {{{#ff9999 페어리}}}(1회)로 집계된다. 그런데 이상하게도 {{{#666633 악}}} 타입을 쓰는 관장은 6세대에 이르는 동안 단 한번도 나오지 않았다. ~~[[웅(포켓몬스터)|물론 충분히]] [[이슬(포켓몬스터)|'''악'''하게 나온]] [[꼭두(포켓몬스터)|관장은 있었다]]~~
+
+여담으로 [[포켓몬스터 애니메이션 시리즈]]에서는 관장 출신의 캐릭터가 [[한지우(포켓몬스터 애니메이션 시리즈)|한지우]]의 여행 파트너로 꼭 등장하는 전통이 있다. 무인 ~ DP까지는 '''회색시티 관장 출신 웅'''(무인에서는 '''블루시티 관장 출신 이슬''' 추가), BW에는 '''성신시티 관장 3형제 중 1명인 덴트'''와 '''쌍용시티''' 관장(BW1 화이트버전 한정) 출신 '''아이리스''', XY에는 '''미르시티 체육관'''을 시트로이드에게 직무대행 형식으로 맡기고 여행하는 '''시트론'''이 있다.
+
+= 인물 목록 =
+== [[관동지방(포켓몬스터)|관동지방]] ==
+||<tablealign=center><rowbgcolor="#FF0000"><:>{{{#ffffff 인물}}}||<:>{{{#ffffff 타입}}}||<:>{{{#ffffff 배지}}}||<:>{{{#ffffff 스프라이트}}}||<:>{{{#ffffff 소재}}}||<-2><:>{{{#ffffff 히든카드}}}||
+||<#cc9933><:> attachment:/VStakeshi.png [[br]][[웅(포켓몬스터)|웅]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]] ||<#dcdcdc><:> attachment:/Boulder_Badge.png?width=30 [[br]] {{{#969696 회색배지}}} ||<#dcdcdc><:> attachment:/Brock_(Game)B2W2.gif ||<#dcdcdc><:> [[회색시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_095MS.png [[br]][[강철톤|롱스톤]] ||
+||<#6699ff><:> attachment:/VSkasumi.png [[br]][[이슬(포켓몬스터)|이슬]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<#dcdcdc><:> attachment:/Cascade_Badge.png?width=30 [[br]] {{{#0000cd 블루배지}}} ||<#dcdcdc><:> attachment:/MistyB2W2.gif ||<#dcdcdc><:> [[블루시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_121MS.png [[br]][[아쿠스타]] ||
+||<#ffcc33><:> attachment:/VSmatis.png [[br]][[마티스(포켓몬스터)|마티스]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<#dcdcdc><:> attachment:/Thunder_Badge.png?width=30 [[br]] {{{#ffb400 오렌지배지}}} ||<#dcdcdc><:> attachment:/Lt__SurgeB2W2.gif ||<#dcdcdc><:> [[갈색시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_026MS.png [[br]][[라이츄]] ||
+||<#66cc66><:> attachment:/VSErika.png [[br]][[민화(포켓몬스터)|민화]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]] ||<#dcdcdc><:> attachment:/Rainbow_Badge.png?width=30 [[br]]무지개배지 ||<#dcdcdc><:> attachment:/ErikaB2W2.gif ||<#dcdcdc><:> [[무지개시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_045MS.png [[br]][[라플레시아(포켓몬스터)|라플레시아]] ||
+||<#DA70D6><:> attachment:/VSKyou.png [[br]][[독수(포켓몬스터)|독수]] ||<#dcdcdc><|2><:> [[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] ||<|2><:><#dcdcdc> attachment:/Soul_Badge.png?width=30 [[br]] {{{#ff9e9b 핑크배지}}} ||<#dcdcdc><:> attachment:/pokemongifhgss07.gif ||<|2><:><#dcdcdc> [[연분홍시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_169MS.png [[br]][[크로뱃]] ||
+||<#DA70D6><:> attachment:/VSanzu.png [[br]][[도희(포켓몬스터)|도희]] ||<#dcdcdc><:> attachment:/Janine(B2W2)Sprite.gif ||<#dcdcdc><-2><:> attachment:/Pokemon_049MS.png [[br]][[도나리]] ||  
+||<#ff6699><:> attachment:/VSnatsume.png [[br]][[초련(포켓몬스터)|초련]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<#dcdcdc><:> attachment:/Marsh_Badge.png?width=30 [[br]] {{{#ffa500 골드배지}}} ||<#dcdcdc><:> attachment:/SabrinaB2W2.gif ||<#dcdcdc><:> [[노랑시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_065MS.png [[br]][[후딘]] ||
+||<#ff9933><:> attachment:/VSkatsura.png [[br]][[강연(포켓몬스터)|강연]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] ||<#dcdcdc><:> attachment:/Volcano_Badge.png?width=30 [[br]] {{{#cd0000 진홍색배지}}} ||<#dcdcdc><:> attachment:/BlaineB2W2.gif ||<#dcdcdc><:> [[홍련섬]][[br]]/[[쌍둥이섬]] ||<#dcdcdc><-2><:>attachment:/Pokemon_059MS.png [[br]][[윈디]] ||
+||<#cccc66><:> attachment:/VSsakaki.png [[br]][[비주기(포켓몬스터)|비주기]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<|2><#dcdcdc><:> attachment:/Earth_Badge.png?width=30 [[br]] {{{#228b22 그린배지}}} ||<#dcdcdc><:> attachment:/GiovanniB2W2.gif ||<|2><#dcdcdc><:> [[상록시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_464MS.png [[br]][[거대코뿌리]] ||
+||<#228b22><:> attachment:/VSgreen.png [[br]][[그린(포켓몬스터)|<span style="color:#000099">그린</span>]] ||<#dcdcdc><:> {{{#228b22 다양}}} ||<#dcdcdc><:> attachment:/BlueB2W2_1.gif ||<#dcdcdc><:> attachment:/Pokemon_018MS.png [[br]][[피죤투]] ||
+
+
+배틀 테마곡
+|| * 전투! 체육관 관장 (적·녹, 청, 피카츄)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile30.uf.tistory.com/media/2255013E51F7A7092AF3A6"></object>
+}}}
+
+ * 전투! 체육관 관장 (금·은, 크리스탈)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile23.uf.tistory.com/media/241ECE3F51F7ABAA2F67E7"></object>
+}}}
+
+ * 전투! 체육관 관장 (파이어레드·리프그린)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile2.uf.tistory.com/media/25443D3E51F7A72117C1D3"></object>
+}}}
+
+ * 전투! 체육관 관장 (하트골드·소울실버)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile26.uf.tistory.com/media/213F763E51F7A74A349859"></object>
+}}}
+
+ * 전투! 관동 체육관 관장 (블랙·화이트 2)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile21.uf.tistory.com/media/2556D23E51F7A72F2B5103"></object>}}}||
+
+흥미롭게도 후 체육관이 전 체육관보다 상성이 우세한 경우가 많다.
+
+실제 게임상의 모습 [http://www.youtube.com/watch?v=__YeN2CzUW0&feature=relmfu #]
+
+== [[성도지방]] ==
+||<tablealign=center><rowbgcolor="#ffd700"><:> {{{#ffffff 인물}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 배지}}} ||<:> {{{#ffffff 스프라이트}}} ||<:> {{{#ffffff 소재}}} ||<:> {{{#ffffff 히든카드}}} ||
+||<#9999ff><:> attachment:/VSFalkner.png [[br]][[비상(포켓몬스터)|비상]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<#dcdcdc><:> attachment:/Zephyrbadge.png?width=30 [[br]]윙배지 ||<#dcdcdc><:> attachment:/Falkner(B2W2)Sprite.gif ||<#dcdcdc><:> [[도라지시티]] ||<#dcdcdc><:> attachment:/Pokemon_018MS.png [[br]][[피죤투]] ||
+||<#99cc33><:> attachment:/VSBugsy.png [[br]][[호일]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]] ||<#dcdcdc><:> attachment:/Hivebadge.png?width=30 [[br]]인섹트배지 ||<#dcdcdc><:> attachment:/Bugsy(B2W2)Sprite.gif ||<#dcdcdc><:> [[고동마을]] ||<#dcdcdc><:> attachment:/Pokemon_212MS.png [[br]][[핫삼]] ||
+||<#999966><:> attachment:/VSWhitney.png [[br]][[꼭두(포켓몬스터)|꼭두]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<#dcdcdc><:> attachment:/Plainbadge.png?width=30 [[br]]레귤러배지 ||<#dcdcdc><:> attachment:/Akane_B2W2_Sprite.gif ||<#dcdcdc><:> [[금빛시티]] ||<#dcdcdc><:> attachment:/Pokemon_241MS.png [[br]][[밀탱크]] ||
+||<#666699><:> attachment:/VSMorty.png [[br]][[유빈(포켓몬스터)|유빈]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]] ||<#dcdcdc><:> attachment:/Fogbadge.png?width=30 [[br]]팬텀배지 ||<#dcdcdc><:> attachment:/Morty(B2W2)Sprite.gif ||<#dcdcdc><:> [[인주시티]] ||<#dcdcdc><:> attachment:/094MS.png [[br]][[팬텀(포켓몬스터)|팬텀]] ||
+||<#cc3333><:> attachment:/VSChuck.png [[br]][[사도(포켓몬스터)|사도]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<#dcdcdc><:> attachment:/Stormbadge.png?width=30 [[br]]쇼크배지 ||<#dcdcdc><:> attachment:/Chuck(B2W2)Sprite.gif ||<#dcdcdc><:> [[진청시티]] ||<#dcdcdc><:> attachment:/Pokemon_062MS.png [[br]][[강챙이]] ||
+||<#cccccc><:> attachment:/VSJasmine.png [[br]][[규리(포켓몬스터)|규리]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]] ||<#dcdcdc><:> attachment:/Mineralbadge.png?=width=30 [[br]]스틸배지 ||<#dcdcdc><:> attachment:/Jasmine(B2W2)Sprite.gif ||<#dcdcdc><:> [[담청시티]] ||<#dcdcdc><:> attachment:/Pokemon_208MS.png [[br]][[강철톤]] ||
+||<#99cccc><:> attachment:/VSPryce.png [[br]][[류옹]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<#dcdcdc><:> attachment:/Glacierbadge.png?=width=30 [[br]]아이스배지 ||<#dcdcdc><:> attachment:/Pryce(B2W2)Sprite.gif ||<#dcdcdc><:> [[황토마을]] ||<#dcdcdc><:> attachment:/Pokemon_473MS.png [[br]][[맘모꾸리]] ||
+||<#6633ff><:> attachment:/VSClair.png [[br]][[이향|<font color="#00008c">이향</font>]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]] ||<#dcdcdc><:> attachment:/Risingbadge.png?width=30 [[br]]라이징배지 ||<#dcdcdc><:> attachment:/Clair(B2W2)Sprite.gif ||<#dcdcdc><:> [[검은먹시티]] ||<#dcdcdc><:> attachment:/Pokemon_230MS.png [[br]][[킹드라]] ||
+
+
+배틀 테마곡
+|| * 전투! 체육관 관장 (금·은, 크리스탈)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile30.uf.tistory.com/media/2270423F51F7AB9B08D75E"></object>
+}}}
+
+ * 전투! 체육관 관장 (하트골드·소울실버)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile1.uf.tistory.com/media/24543C4351F7AA502A0A0C"></object>
+}}}
+
+ * 전투! 성도 체육관 관장 (블랙·화이트 2)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile3.uf.tistory.com/media/27337B4351F7AA6232F54E"></object>}}}||
+
+이번에는 관동과는 반대로 전 체육관이 후 체육관보다 상성이 우세한 경우가 많다.
+
+실제 게임상의 모습 [http://www.youtube.com/watch?v=H2l-2z_kp7o&feature=relmfu #]
+
+== [[호연지방]] ==
+||<tablealign=center><rowbgcolor="#CD1039"><:> {{{#ffffff 이름}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 배지}}} ||<:> {{{#ffffff 스프라이트}}} ||<:> {{{#ffffff 소재}}} ||<:><-2> {{{#ffffff 히든카드}}} ||
+||<#cc9933><:> attachment:VSRoxanne.png?width=150 [[br]][[원규]] ||<#dcdcdc> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]] ||<#dcdcdc><:> http://i.imgur.com/7zZdOfY.png [[br]]스톤배지 ||<#dcdcdc><:> attachment:/RoxanneB2W2sprite.gif ||<#dcdcdc><:> [[금탄도시]] ||<#dcdcdc><-2><:> attachment:/Pokemon_476MS.png [[br]][[대코파스]] ||
+||<#cc3333><:> attachment:VSBrawly.png?width=150 [[br]][[철구(포켓몬스터)|철구]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<#dcdcdc><:> http://i.imgur.com/cGmZ8hV.png [[br]]너클배지 ||<#dcdcdc><:> attachment:/BrawlyB2W2sprite.gif ||<#dcdcdc><:> [[무로마을]] ||<#dcdcdc><-2><:> attachment:/Pokemon_297MS.png [[br]][[하리뭉]] ||
+||<#ffcc33><:> attachment:VSWattson.png?width=150 [[br]][[암페어(포켓몬스터)|암페어]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<#dcdcdc><:> http://i.imgur.com/2xlJ80v.png [[br]]다이너모배지 ||<#dcdcdc><:> attachment:/WattsonB2W2sprite.gif ||<#dcdcdc><:> [[보라시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_310MS.png [[br]][[썬더볼트(포켓몬스터)|썬더볼트]] ||
+||<#ff9933><:> attachment:VSFlannery.png?width=150 [[br]][[민지(포켓몬스터)|민지]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] ||<#dcdcdc><:> http://i.imgur.com/WUpwFXT.png [[br]]히트배지 ||<#dcdcdc><:> attachment:/FlanneryB2W2sprite.gif ||<#dcdcdc><:> [[용암마을]] ||<#dcdcdc><-2><:> attachment:/Pokemon_324MS.png [[br]][[코터스]] ||
+||<#999966><:> attachment:VSNorman.png?width=150 [[br]][[종길]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<#dcdcdc><:> http://i.imgur.com/8LZmtTw.png [[br]]밸런스배지 ||<#dcdcdc><:> attachment:/NormanB2W2sprite.gif ||<#dcdcdc><:> [[등화도시]] ||<#dcdcdc><-2><:> attachment:/Pokemon_289MS.png [[br]][[게을킹]] ||
+||<#9999ff><:> attachment:VSWinona.png?width=150 [[br]][[은송]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<#dcdcdc><:> http://i.imgur.com/YhiqA6p.png [[br]]페더배지 ||<#dcdcdc><:> attachment:/WinonaB2W2sprite.gif ||<#dcdcdc><:> [[검방울시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_334MS.png [[br]][[파비코리]] ||
+||<#ff6699><:><|2> attachment:VSTateLiza.png?width=150 [[br]][[풍&란]] ||<#dcdcdc><:><|2> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<#dcdcdc><:><|2> http://i.imgur.com/Fw2rkpT.png [[br]]마인드배지 ||<#dcdcdc><:><|2> attachment:/TateB2W2sprite.gif attachment:/LizaB2W2sprite.gif ||<#dcdcdc><:><|2> [[이끼시티]] ||<#dcdcdc><:><-2> attachment:/Pokemon_338MS.png [[br]][[솔록]] ||
+||<#dcdcdc><:><-2> attachment:/Pokemon_337MS.png [[br]][[루나톤]] ||
+||<#6699ff><:> attachment:VSWallace.png?width=150 [[br]][[윤진]] ||<|2><#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<|2><#dcdcdc><:> http://i.imgur.com/xnEnZtZ.png [[br]]레인배지 ||<#dcdcdc><:> attachment:/WallaceB2W2.gif ||<|2><#dcdcdc><:> [[루네시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_350MS.png [[br]][[밀로틱]] ||
+||<#6699ff><:> [[아단(포켓몬스터)|아단]] ||<#dcdcdc><:> attachment:/JuanB2W2sprite.gif ||<#dcdcdc><-2><:> attachment:/Pokemon_230MS.png [[br]][[킹드라]] ||
+
+
+배틀 테마곡
+|| * 전투! 체육관 관장 (루비·사파이어, 에메랄드)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile26.uf.tistory.com/media/2163534351F7ACC331478E"></object>
+}}}
+
+ * 전투! 호연 체육관 관장 (블랙·화이트 2)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile7.uf.tistory.com/media/2265164351F7ACD132BB29"></object>}}}
+
+ * 전투! 체육관 관장 (오메가루비·알파사파이어)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile7.uf.tistory.com/media/2521D449548B9CB713B956"></object>
+}}}||
+
+실제 게임상의 모습(5세대 기준) [http://www.youtube.com/watch?v=b9QIAuuDppk&feature=endscreen&NR=1 #]
+
+== [[신오지방]] ==
+||<tablealign=center><rowbgcolor="#64AAFF"><:> {{{#ffffff 인물}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 배지}}} ||<:> {{{#ffffff 스프라이트}}} ||<:> {{{#ffffff 소재}}} ||<-2><:> {{{#ffffff 히든카드}}} ||
+||<#cc9933><:> attachment:/VSRoark.png [[br]] [[강석(포켓몬스터)|강석]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]] ||<#dcdcdc><:> attachment:/40px-Coal_Badge.png [[br]] 콜배지 ||<#dcdcdc><:> attachment:/RoarkB2W2Sprite.gif ||<#dcdcdc><:> [[무쇠시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_409MS.png [[br]][[램펄드]] ||
+||<#66cc66><:> attachment:/VSGardenia.png [[br]] [[유채(포켓몬스터)|유채]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]] ||<#dcdcdc><:> attachment:/40px-Forest_Badge.png [[br]] 포리스트배지 ||<#dcdcdc><:> attachment:/GardeniaB2W2.gif ||<#dcdcdc><:> [[영원시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_407MS.png [[br]][[로즈레이드]] ||
+||<#666699><:> attachment:/VSFantina.png [[br]] [[멜리사(포켓몬스터)|멜리사]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]] ||<#dcdcdc><:> attachment:/40px-Relic_Badge.png [[br]] 레릭배지 ||<#dcdcdc><:> attachment:/FantinaB2W2.gif ||<#dcdcdc><:> [[연고시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_429MS.png [[br]][[무우마직]] ||
+||<#cc3333><:> attachment:/VSMaylene.png [[br]] [[자두(포켓몬스터)|자두]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<#dcdcdc><:> attachment:/40px-Cobble_Badge.png [[br]] 코블배지 ||<#dcdcdc><:> attachment:/MayleneB2W2.gif ||<#dcdcdc><:> [[장막시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_448MS.png [[br]][[루카리오]] ||
+||<#6699ff><:> attachment:/VSCrasher_Wake.png [[br]] [[맥실러]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<#dcdcdc><:> attachment:/40px-Fen_Badge.png [[br]] 팬배지 ||<#dcdcdc><:> attachment:/Crasher_WakeB2W2.gif ||<#dcdcdc><:> [[들판시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_419MS.png [[br]][[플로젤]] ||
+||<#cccccc><:> attachment:/VSByron.png [[br]] [[동관(포켓몬스터)|동관]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]] ||<#dcdcdc><:> attachment:/40px-Mine_Badge.png [[br]] 마인배지 ||<#dcdcdc><:> attachment:/ByronB2W2.gif ||<#dcdcdc><:> [[운하시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_411MS.png [[br]][[바리톱스]] ||
+||<#99cccc><:> attachment:/VSCandice.png [[br]] [[무청(포켓몬스터)|무청]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<#dcdcdc><:> attachment:/40px-Icicle_Badge.png [[br]] 글레이셔배지 ||<#dcdcdc><:> attachment:/CandiceB2W2.gif ||<#dcdcdc><:> [[선단시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_478MS.png [[br]][[눈여아]] ||
+||<#ffcc33><:> attachment:/VSVolkner.png [[br]] [[전진(포켓몬스터)|전진]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<#dcdcdc><:> attachment:/40px-Beacon_Badge.png [[br]] 비컨배지 ||<#dcdcdc><:> attachment:/VolknerB2W2.gif ||<#dcdcdc><:> [[물가시티]] ||<#dcdcdc><-2><:> attachment:/Pokemon_466MS.png [[br]][[에레키블]] ||
+
+배틀 테마곡
+|| * 전투! 체육관 관장 (DP 디아루가·펄기아, Pt 기라티나)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile29.uf.tistory.com/media/2257044451F7AD9F1F0377"></object>}}}
+
+ * 전투! 신오 체육관 관장 (블랙·화이트 2)
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile3.uf.tistory.com/media/215C8E4451F7ADAF05FD02"></object>}}}||
+
+실제 게임상의 모습 [http://www.youtube.com/watch?v=4e1MVSlwBC0&feature=relmfu #]
+
+== [[하나지방]] ==
+=== 블랙·화이트 ===
+||<tablealign=center><rowbgcolor="#000000"><:> {{{#ffffff 인물}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 배지}}} ||<:> {{{#ffffff 스프라이트}}} ||<:> {{{#ffffff 소재}}} ||<:> {{{#ffffff 히든카드}}} ||
+||<#66cc66><:> attachment:/2_dt_bw.png [[br]] [[덴트(포켓몬스터)|덴트]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]] ||<|3><:><#dcdcdc>  attachment:/Trio_Badge.png [[br]]트라이배지 ||<#dcdcdc><:> attachment:/CilanBWsprite.gif ||<|3><:><#dcdcdc> [[성신시티]] ||<#dcdcdc><:> attachment:/Pokemon_512MS.png [[br]][[야나키]] ||
+||<#ff9933><:> attachment:/2_p_bw.png [[br]] [[팟(포켓몬스터)|팟]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] ||<#dcdcdc><:> attachment:/ChiliBWsprite.gif ||<#dcdcdc><:> attachment:/Pokemon_514MS.png [[br]][[바오키]] || 
+||<#6699ff><:> attachment:/2_pt_bw.png [[br]] [[콘(포켓몬스터)|콘]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<#dcdcdc><:> attachment:/CressBWsprite.gif ||<#dcdcdc><:> attachment:/Pokemon_516MS.png [[br]][[앗차키]] ||
+||<#999966><:> attachment:/2_ae_bw.png [[br]] [[알로에(포켓몬스터)|알로에]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<#dcdcdc><:> attachment:/Basic_Badge.png [[br]]베이직배지 ||<#dcdcdc><:> attachment:/LenoraBWsprite.gif ||<#dcdcdc><:> [[칠보시티]] ||<#dcdcdc><:> attachment:/Pokemon_505MS.png [[br]][[보르그]] ||
+||<#99cc33><:> attachment:/2__at_bw.png [[br]] [[아티(포켓몬스터)|아티]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]] ||<#dcdcdc><:> attachment:/Insect_Badge.png [[br]]비틀배지 ||<#dcdcdc><:> attachment:/BurghBWsprite.gif ||<#dcdcdc><:> [[구름시티]] ||<#dcdcdc><:> attachment:/Pokemon_542MS.png [[br]][[모아머]] ||
+||<#ffcc33><:> attachment:/VSElesa2.png [[br]] [[카밀레(포켓몬스터)|카밀레]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<#dcdcdc><:> attachment:/Bolt_Badge.png [[br]]볼트배지 ||<#dcdcdc><:> attachment:/1_ktr_bw.png ||<#dcdcdc><:> [[뇌문시티]] ||<#dcdcdc><:> attachment:/Pokemon_523MS.png [[br]][[제브라이카]] ||
+||<#cccc66><:> attachment:/2_yc_bw.png [[br]] [[야콘(포켓몬스터)|야콘]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<#dcdcdc><:> attachment:/Quake_Badge.png [[br]]퀘이크 배지 ||<#dcdcdc><:> attachment:/ClayBWsprite.gif ||<#dcdcdc><:> [[물풍경시티]] ||<#dcdcdc><:> attachment:/Pokemon_530MS.png [[br]][[몰드류]] ||
+||<#9999ff><:> attachment:/2_hr_bw.png [[br]] [[풍란(포켓몬스터)|풍란]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<#dcdcdc><:> attachment:/Jet_Badge.png [[br]]제트배지 ||<#dcdcdc><:> attachment:/SkylaBWsprite.gif ||<#dcdcdc><:> [[궐수시티]] ||<#dcdcdc><:> attachment:/Pokemon_581MS.png [[br]][[스완나]] ||
+||<#99cccc><:> attachment:/2_hk_bw.png [[br]] [[담죽(포켓몬스터)|담죽]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<#dcdcdc><:> attachment:/Freeze_Badge.png [[br]]아이시클배지 ||<#dcdcdc><:> attachment:/BrycenBWsprite.gif ||<#dcdcdc><:> [[설화시티]] ||<#dcdcdc><:> attachment:/Pokemon_614MS.png [[br]][[툰베어]] ||
+||<#6633ff><:> attachment:/2_sg_bw.png [[br]] [[사간|<font color="#00008c">사간</font>]] ||<|2><:><#dcdcdc> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]] ||<|2><:><#dcdcdc> attachment:/Legend_Badge.png [[br]]레전드배지 ||<#dcdcdc><:> attachment:/DraydenBWsprite.gif ||<|2><:><#dcdcdc> [[쌍용시티]] ||<|2><:><#dcdcdc> attachment:/Pokemon_612MS.png [[br]][[액스라이즈]] ||
+||<#6633ff><:> attachment:/2_iris_bw.png [[br]] [[아이리스(포켓몬스터)|<font color="#00008c">아이리스</font>]] ||<#dcdcdc><:> attachment:/1_iris_bw.png ||
+
+배틀 테마곡
+|| * 전투! 체육관 관장
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile1.uf.tistory.com/media/275E2F4B51F7AEA142D375"></object>}}}
+
+ * 승리는 눈 앞에!
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile10.uf.tistory.com/media/215E8B4B51F7AEB410753A"></object>}}}||
+
+실제 게임상의 모습 [http://www.youtube.com/watch?v=0PW0_PLqKQ0&feature=relmfu #]. 2편에서 체육관 관장으로 등장하지 않은 덴트, 팟, 콘, 알로에, 담죽을 제외한 2에서도 등장한 체육관 관장의 모습은 아래 2편의 링크에 있다.
+
+=== 블랙·화이트 2 ===
+||<tablealign=center><rowbgcolor="#000000"><:> {{{#ffffff 인물}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 배지}}} ||<:> {{{#ffffff 스프라이트}}} ||<:> {{{#ffffff 소재}}} ||<:> {{{#ffffff 히든카드}}} ||
+||<#999966><:> attachment:/2_cheren_b2w2.png [[br]] [[체렌]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<#dcdcdc><:> attachment:/Basicbadge.png [[br]]베이직배지 ||<#dcdcdc><:> attachment:/CherenB2W2sprite.gif ||<#dcdcdc><:> [[부채시티]] ||<#dcdcdc><:> attachment:/Pokemon_508MS.png [[br]][[바랜드]] ||
+||<#DA70D6><:> attachment:/2_hmk_b2w2.png [[br]] [[보미카]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] ||<#dcdcdc><:> attachment:/Toxicbadge.png [[br]]톡식배지 ||<#dcdcdc><:> attachment:/RoxieB2W2sprite.gif ||<#dcdcdc><:> [[모란만시티]] ||<#dcdcdc><:> attachment:/Pokemon_545MS.png [[br]][[펜드라]] ||
+||<#99cc33><:> attachment:/2__at_bw.png [[br]] [[아티(포켓몬스터)|아티]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]] ||<#dcdcdc><:> attachment:/Insectbadge.png [[br]]비틀배지 ||<#dcdcdc><:> attachment:/BurghBWsprite.gif ||<#dcdcdc><:> [[구름시티]] ||<#dcdcdc><:> attachment:/Pokemon_542MS.png [[br]][[모아머]] ||
+||<#ffcc33><:> attachment:/2_ktr_b2w2.png [[br]] [[카밀레(포켓몬스터)|카밀레]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<#dcdcdc><:> attachment:/Boltbadge.png [[br]]볼트배지 ||<#dcdcdc><:> attachment:/Elesa.gif ||<#dcdcdc><:> [[뇌문시티]] ||<#dcdcdc><:> attachment:/Pokemon_523MS.png [[br]][[제브라이카]] ||
+||<#cccc66><:> attachment:/2_yc_bw.png [[br]] [[야콘(포켓몬스터)|야콘]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<#dcdcdc><:> attachment:/Quakebadge.png [[br]]퀘이크배지 ||<#dcdcdc><:> attachment:/ClayBWsprite.gif ||<#dcdcdc><:> [[물풍경시티]] ||<#dcdcdc><:> attachment:/Pokemon_530MS.png [[br]][[몰드류]] ||
+||<#9999ff><:> attachment:/2_hr_bw.png [[br]] [[풍란(포켓몬스터)|풍란]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<#dcdcdc><:> attachment:/Jetbadge.png [[br]]제트배지 ||<#dcdcdc><:> attachment:/SkylaBWsprite.gif ||<#dcdcdc><:> [[궐수시티]] ||<#dcdcdc><:> attachment:/Pokemon_581MS.png [[br]][[스완나]] ||
+||<#6633ff><:> attachment:/2_sg_bw.png [[br]] [[사간|<font color="#00008c">사간</font>]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]] ||<#dcdcdc><:> attachment:/Legendbadge.png [[br]]레전드배지 ||<#dcdcdc><:> attachment:/DraydenBWsprite.gif ||<#dcdcdc><:> [[쌍용시티]] ||<#dcdcdc><:> attachment:/Pokemon_612MS.png [[br]][[액스라이즈]] ||
+||<#6699ff><:> attachment:/2_szi_b2w2.png [[br]] [[시즈(포켓몬스터)|시즈]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<#dcdcdc><:> attachment:/Wavebadge.png [[br]]웨이브배지 ||<#dcdcdc><:> attachment:/Marlon.gif ||<#dcdcdc><:> [[기하시티]] ||<#dcdcdc><:> attachment:/Pokemon_593MS.png [[br]][[탱탱겔]] ||
+
+
+배틀 테마곡
+|| * 전투! 체육관 관장
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile26.uf.tistory.com/media/2207565051F7AF90277B95"></object>}}}
+
+ * 승리는 눈 앞에!
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile3.uf.tistory.com/media/24130F5051F7AFA73D4DB6"></object>}}}||
+
+실제 게임상의 모습 [http://www.youtube.com/watch?v=MUj7sFMUddA&feature=relmfu #]
+
+모든 체육관 관장과 사천왕 등이 게임에서 실제로 움직이는걸 보려면 링크 참조 [http://www.youtube.com/watch?v=xWSH-K4zjGM&feature=related #]
+
+== [[칼로스지방]] ==
+||<tablealign=center><rowbgcolor="#5a5aff"><:> {{{#ffffff 인물}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 배지}}} ||<:> {{{#ffffff 필드}}} ||<:> {{{#ffffff 소재}}} ||<:> {{{#ffffff 히든카드}}} ||
+||<#99cc33><:> attachment:/150px-VSViola.png [[br]][[비올라(포켓몬스터)|비올라]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]] ||<#dcdcdc><:> attachment:/Bug_Badge.png?width=60 [[br]]버그배지 ||<#dcdcdc><:> attachment:/Viola_3D_m.PNG?height=126 ||<#dcdcdc><:> [[백단시티]] ||<#dcdcdc><:> attachment:/Pokemon_666MS.png [[br]][[비비용]] ||
+||<#cc9933><:> attachment:/150px-VSGrant.png [[br]][[자크로]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]] ||<#dcdcdc><:> attachment:/Cliff_Badge.png?width=60 [[br]]월배지 ||<#dcdcdc><:> attachment:/Zakuro_3D_m.PNG ||<#dcdcdc><:> [[삼채시티]] ||<#dcdcdc><:> attachment:/Pokemon_697MS.png [[br]][[견고라스]] ||
+||<#cc3333><:> attachment:/150px-VSKorrina.png [[br]][[코르니]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<#dcdcdc><:> attachment:/Rumble_Badge.png?width=60 [[br]]파이트배지 ||<#dcdcdc><:> attachment:/ciorni_3D_m.PNG ||<#dcdcdc><:> [[사라시티]] ||<#dcdcdc><:> attachment:/Pokemon_701MS.png [[br]][[루차불]] ||
+||<#66cc66><:> attachment:/150px-VSRamos.png [[br]][[후쿠지]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]] ||<#dcdcdc><:> attachment:/Plant_Badge.png?width=60 [[br]]플랜트배지 ||<#dcdcdc><:> attachment:/fukuji_3D_m.png ||<#dcdcdc><:> [[비익시티]] ||<#dcdcdc><:> attachment:/Pokemon_673MS.png [[br]][[고고트]] ||
+||<#ffcc33><:> attachment:/150px-VSClemont.png [[br]][[시트론(포켓몬스터)|시트론]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<#dcdcdc><:> attachment:/Voltage_Badge.png?width=60 [[br]]볼티지배지 ||<#dcdcdc><:> attachment:/citron_3D_m.PNG ||<#dcdcdc><:> [[미르시티]] ||<#dcdcdc><:> attachment:/Pokemon_695MS.png [[br]][[일레도리자드]] ||
+||<#ff82ff><:> attachment:/150px-VSValerie.png [[br]][[마슈(포켓몬스터)|마슈]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<#dcdcdc><:> attachment:/Fairy_Badge.png?width=60 [[br]]페어리배지 ||<#dcdcdc><:> attachment:/mache_3D_m.PNG?width=145 ||<#dcdcdc><:> [[후늬시티]] ||<#dcdcdc><:> attachment:/Pokemon_700MS.png [[br]][[님피아]] ||
+||<#ff6699><:> attachment:/150px-VSOlympia.png [[br]][[고지카]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<#dcdcdc><:> attachment:/Psychic_Badge.png?width=60 [[br]]사이킥배지 ||<#dcdcdc><:> attachment:/gojika_3D_m.png ||<#dcdcdc><:> [[향전시티]] ||<#dcdcdc><:> attachment:/Pokemon_678MS_F.png [[br]][[냐오닉스]] ||
+||<#99cccc><:> attachment:/150px-VSWulfric.png [[br]][[우르프(포켓몬스터)|우르프]] ||<#dcdcdc><:> [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<#dcdcdc><:> attachment:/Iceberg_Badge.png?width=60 [[br]]아이스버그배지 ||<#dcdcdc><:> attachment:/urup_3D_m.png ||<#dcdcdc><:> [[이설시티]] ||<#dcdcdc><:> attachment:/Pokemon_713MS.png [[br]][[크레베이스]] ||
+
+배틀 테마곡
+|| * 전투! 체육관 관장
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile2.uf.tistory.com/media/2447554A5284F70C1E1A5A"></object>}}}||

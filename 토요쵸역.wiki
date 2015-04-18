@@ -1,0 +1,29 @@
+{{{+1 東陽町駅 / Toyocho Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+
+||||||||||<#00a7db> {{{#ffffff 도자이선}}} ||<#00a7db><|6>{{{#ffffff 운영주체 : 도쿄 메트로}}}[[br]]{{{#ffffff 개업일 : 1967년 9월 14일}}} ||
+||<width=100px> [wiki:"나카노역(도쿄)" 나카노] 방면[[br]][wiki:"키바역" 키　바][[br]](T-13) || {{{+1 ← }}} ||<width=100px> 토요쵸[[br]](T-14) || {{{+1 → }}} ||<width=100px> [wiki:"니시후나바시역" 니시후나바시] 방면[[br]][wiki:"미나미스나마치역" 미나미스나마치][[br]](T-15) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TokyoMetro-toyocho-1-entrance.jpg/600px-TokyoMetro-toyocho-1-entrance.jpg
+토요쵸역의 한 출입구. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3ATokyoMetro-toyocho-1-entrance.jpg|LERK]])
+
+http://art63.photozou.jp/pub/816/164816/photo/128764957_624.jpg
+토요쵸역의 또다른 한 출입구와 주변 모습. (사진 저작자 : [[http://photozou.jp/photo/show/164816/128764957|えむ (Breakover)]])
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TokyoMetro-toyocho-platform.jpg/600px-TokyoMetro-toyocho-platform.jpg
+토요쵸역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3ATokyoMetro-toyocho-platform.jpg|LERK]])
+
+일본 [[도쿄]]도 코토구에 위치한 [[도쿄 메트로]] [[wiki:"도자이선(도쿄 메트로)" 도자이선]]의 역이다. 상대식 승강장의 지하역으로 후카가와 차량기지가 근처에 있기 때문에 당역시발 및 종착 열차가 설정되어 있다. 하루 이용객은 12만명을 넘으며 도쿄 메트로의 비환승역 중에는 가장 많다.
+
+역 주변에는 코토구청, 코토구립 토요도서관, 경시청 코토 운전면허시험장, 도쿄 이스트21(재개발지구), 다이에, 세이유 등이 있다.
+
+'''완급결합'''
+키바역 방면으로는 모두 각역정차한다.
+||||||<#ff0000> {{{#ffffff 쾌　　속}}}
+||<width=100px> [wiki:"키바역" 키　바] || {{{+1  ← }}} ||<width=100px> 토요쵸 || {{{+1  → }}} ||<width=100px> [wiki:"우라야스역(치바현)" 우라야스] ||
+||||||<#ffffff> {{{#00000 통근쾌속}}}
+||<width=100px> [wiki:"키바역" 키　바] || {{{+1  ← }}} ||<width=100px> 토요쵸 || {{{+1  → }}} ||<width=100px> [wiki:"미나미스나마치역" 미나미스나마치] ||
+||||||<#000000> {{{#ffffff 각역정차}}}
+||<width=100px> [wiki:"키바역" 키　바] || {{{+1  ← }}} ||<width=100px> 토요쵸 || {{{+1  → }}} ||<width=100px> [wiki:"미나미스나마치역" 미나미스나마치] ||
+
+[[각주]]

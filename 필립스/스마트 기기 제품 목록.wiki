@@ -1,0 +1,55 @@
+ * 상위 항목 : [[필립스]]
+
+[[목차]]
+
+ * 이 항목은 [[필립스]]의 스마트 기기 제품 목록을 정리한 페이지 입니다.
+ * [[스마트폰]], [[태블릿 컴퓨터]] 등 통칭, '''스마트 디바이스''' 및 '''모바일 기기'''들은 [[리그베다 위키 기본방침#s-2.24|리그베다 위키 기본방침]]에 따라 제조사 및 이동통신사 공식 채널에서 확인이 될 때 항목 개설이 가능합니다. 꼭, 공식 채널에서 확인이 될 때 항목 생성 바랍니다.
+
+= 스마트폰 =
+== [[필립스 Xenium 시리즈|Xenium 시리즈]][* Xenium 브랜드는 [[피쳐폰]]에서 사용되었다가 [[안드로이드]] [[스마트폰]]으로 계승한 브랜드이다.]  ==
+ * [필립스 Xenium 시리즈#s-2.1|Xenium W732]
+ * [필립스 Xenium 시리즈#s-2.2|Xenium W6618]
+ * [필립스 Xenium 시리즈#s-2.3|Xenium W8560]
+ * [필립스 Xenium 시리즈#s-2.4|Xenium W8510]
+ * [필립스 Xenium 시리즈#s-2.5|Xenium W8355]
+ * [필립스 Xenium 시리즈#s-2.6|Xenium W8568]
+ * [필립스 Xenium 시리즈#s-2.7|Xenium W736]
+ * [필립스 Xenium 시리즈#s-2.8|Xenium W832]
+ * [필립스 Xenium 시리즈#s-2.9|Xenium D833]
+ * [필립스 Xenium 시리즈#s-2.10|Xenium T8566]
+ * [필립스 Xenium 시리즈#s-2.11|Xenium W6500]
+ * [필립스 Xenium 시리즈#s-2.12|Xenium V8526]
+ * [필립스 Xenium 시리즈#s-2.13|Xenium W939 & T939]
+
+=== 중국 출시[* [[필립스]]의 안드로이드 디바이스 최대 공략 시장이 중국이다. 특이한 점으로는 여타 중국 내수용의 안드로이드 디바이스는 구글 컨텐츠가 삭제되고 검색창에 구글 단어가 사라지지만, 구글 컨텐츠는 삭제되어도, 일부 모델 한정으로 검색창의 구글 단어는 유지된다.] ===
+==== WCDMA 모델[* [[차이나유니콤]] 내수용인지 오픈 모델인지 확실하지가 않다. 자세한 내용 [[추가바람]].] ====
+===== W시리즈 =====
+ * [http://www.philips.com.cn/c/cell-phone/mobile-phone-ctw3550bk_40/prd/ W3550]
+ * [http://www.philips.com.cn/c/cell-phone/mobile-phone-ctw3509bk_40/prd/ W3509]
+ * [http://www.philips.com.cn/c/cell-phone/mobile-phone-ctw6350wh_40/prd/ W6350]
+ * [http://www.philips.com.cn/c/cell-phone/smartphone-ctw930blk_40/prd/ W930]
+===== 기타 =====
+ * [필립스 I908|I908]
+ * [http://www.philips.com.cn/c/cell-phone/smartphone-cts308gy_40/prd/ s308]
+ * [http://www.philips.com.cn/c/cell-phone/mobile-phone-ctd633wht_40/prd/ D633]
+==== [[차이나모바일]] ====
+ * [[필립스/차이나모바일]]
+  * T3500[* W3500과 같은 모델이다.]
+  * S399
+
+=== 글로벌 출시[* 필립스의 안드로이드 스마트폰은 주로 신흥국들을 공략하고 있다.] ===
+==== W시리즈 ====
+ * [http://m.philips.ua/m/cell-phone/xenium-smartphone-ctw6610ny_00/prd/ W6610]
+ * [http://m.philips.ua/m/cell-phone/xenium-smartphone-ctw3568bk_00/prd/ W3568]
+ * [[필립스 W3500|W3500]][* 차이나모바일로 출시된 T3500이 후에 글로벌 시장에 출시된 모델이다.]
+ * [http://m.philips.com.ar/m/telefonos-moviles/smartphone-ctw337blk_00/prd/ W337]
+ * [http://m.philips.com.ar/m/telefonos-moviles/smartphone-ctw3620wh_55/prd/ W3620]
+
+==== 기타 ====
+ * [http://m.philips.ua/m/cell-phone/smartphone-cts308bk_00/prd/ S308]
+ * [http://m.philips.co.in/m/cell-phone/smartphone-cts388bk_94/prd/ S388]
+ * [http://www.philips.com.cn/c/cell-phone/mobile-phone-cti928bk_40/prd/ I928]
+== [[태블릿 컴퓨터]] ==
+ * [http://www.philips.sk/c-m-so/tablety/zakladny-rad/latest#layout=12.subcategory.p-grid&filters= zakladny-rad]
+ * [http://www.philips.sk/c-m-so/tablety/rad-premium/latest#layout=12.subcategory.p-grid&filters= Rad premium]
+ * [http://www.philips.sk/c-m-so/tablety/rad-tabletov-3g-lte/latest#layout=12.subcategory.p-grid&filters= Rad-tabletov-3g/lte]

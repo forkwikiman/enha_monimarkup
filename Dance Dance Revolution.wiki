@@ -1,0 +1,99 @@
+ * 이 곡이 수록된 게임 시리즈에 대해서는 [[댄스 댄스 레볼루션]] 문서를 참고.
+
+attachment:dancesong.jpg [* 게임 로고가 아니고 실제 이 곡의 자켓이다.]
+
+{{{#!html
+<iframe width="640" height="510" src="//www.youtube.com/embed/M_8Vh_LWzdk" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 EXPERT
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/YTTsBWaTK2c" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 X-Special
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} || {{{#purple X-Special}}} ||
+|| {{{#blue 5}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple 12}}} || {{{#purple 13}}} ||
+||<|3> 150|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} || {{{#purple X-Special}}} ||
+|| || {{{#orange 6}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple 11}}} || {{{#purple 13}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<tablewidth=100%><#228b22><:> '''{{{#white Dance Dance Revolution EXTREME - EXTRA STAGE}}}''' ||
+|| EXTRA STAGE || [The legend of MAX] || One More EXTRA STAGE || '''Dance Dance Revolution''' ||
+
+||<bgcolor=#E9ECEF>
+그리운 오프닝 무비가 가득합니다. 오랫만에 백업을 꺼내서 4개 이어서보면, 조금 감개가 깊어졌습니다. 
+
+RICE.C (무비 제작자)
+||
+
+Dance Dance Revolution EXTREME의 '''ONE MORE EXTRA STAGE''' 전용곡. 작곡은 [[NAOKI]], 보컬은 폴라 테리.
+
+작곡은 [NAOKI]. EXTRA STAGE 전용곡인 The Legend of MAX를 AA랭크 이상으로 클리어하면 발동음과 함께 One More Extra Stage 출현 후 강제 선택.[* 완전 해금 후에도 가능하며 CS판에서는 EXTRA STAGE에서 MAX. (period)로도 출현 시킬 수 있다.]
+
+플레이시 난이도는 CHALLENGE 보면이 선택되 강제로 3배속 + REVERSE 옵션[* 판정선이 아래로 내려가는 것]이 걸리며 '''GOOD이하 판정 하나라도 뜨면 폭사해버리는'''시스템이 적용되었다. 
+
+EXTREME이 애초에 DDR 마지막 시리즈로 계획되었기 때문에, DDR이라는 게임을 기억하라는 의미로 작곡한 곡이라는 느낌이 강하다. bpm 150의 중간템포 [[유로비트]]-레이브이며 노래의 기본 골격은 2ndMIX~4thMIX의 오프닝 음악에서 가져왔다. 그래서 BGA는 초대 DDR부터 4thMIX의 오프닝을 적절히 섞은 것이다. 왜 4thMIX까지냐 하면 5thMIX부터는 오프닝 무비가 폐지됐었기 때문.
+
+CHALLENGE 보면은 곡과 어긋난다는 느낌을 받는데 이는 역대 나오키 곡의 스텝을 그대로 재현했기 때문이다. 그런 의미로 원모어 엑스트라 스테이지에서 강제 선택이 이쪽 보면이 강제 선택된다. 순서대로 [[BRILLIANT 2U]] (ORCHESTRA GROOVE)의 EXPERT 4소절 스텝 → [[DEAD END]]의 EXPERT 8소절 스텝 → [DYNAMITE RAVE]의 EXPERT 8소절 스텝 → [[AFRONOVA]]의 EXPERT의 4소절 스텝 → [[END OF THE CENTURY]]의 EXPERT 4소절 스텝 → [[AM-3P]]의 EXPERT 8소절 스텝 → CELEBRATE NITE의 EXPERT 8소절 스텝 → [[B4U]]의 EXPERT 8소절 스텝 → 오리지널이다.
+
+이 곡을 클리어시 수록곡 명만 올라오는 --밋밋한-- 기본 엔딩 대신 '[GRADUATION ~それぞれの明日~]'의 리믹스버전이 흐르는 스페셜 엔딩이 준비되있다. 이는 AC, CS동일 [http://www.youtube.com/watch?v=z_CSMkKHU4Q # 스텝롤 종료시 원곡에는 없는 忘れないで (잊지 말아줘)라는 대사를 한다]
+
+다음작인 SuperNOVA에서는 SuperNOVA의 신곡이 아님에도 불구하고 챌린지 코스 중 "SuperNOVA"코스의 첫판으로 등장한다. 마지막일뻔한 시리즈가 이어졌으니 그 기념으로 들어간 듯하다.
+
+X3까지 EXTREME의 저 BGA는 삭제되었었으나 DDR 2013에서 부활했다.
+
+== 가사 ==
+||<bgcolor=#E9ECEF>It's the nonstop!
+
+Dance, dance, dance, dance.
+
+Here we go (can you feel it),
+let's rule the rhyme
+feel the groove,
+and the electro glide.
+
+Can you feel the beat this way?
+so come on and let your body sway
+Front, back, side-to-side, the motion,
+and material and air force glide.
+
+When you can do it,
+and feel the light,
+so get here pump the bump
+Ee-Yah!!
+
+Move your body, m-m-move you body!
+Oooh (Yeah-Come on!!)
+Come on move your body,
+movin' groovin', yeah.
+
+(Everybody) This time can we get on the floor!?
+(Everyone comin on to the sides) Dance-dance-dance!!
+
+Move your feet, now come on!
+Wanna be the one to know, we can get down!
+
+Yeah-yeah can ya hear the sound? (Can your body?)
+we're one place down, so don't tire yet.
+Feel that? We're the highest of all. (Movin to the groovin)
+higher and higher till the break of dawn.
+
+At dawn, we may never come down,
+that's when ya feel and ya hear it now.
+Near the ground, rock anyway...
+let the party go on in the place today!
+
+Come on let's party, (n-n-n-n-n-never stop the groovin')
+Don't, don't stop the groove (Yeah, come-on)
+Ooh! Move your body, gotta move,
+Move your body (I know you can feel it)
+
+Move your body, (all over my body, I know) (Yeah come on, come on!) (Come on, come on, come on),
+Move you want to, you want to move your body. (let's dance all night to the...)
+
+'''Dance Dance Revolution!'''||

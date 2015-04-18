@@ -1,0 +1,108 @@
+||이 항목은 [[레오일]]로 검색해도 들어올 수 있습니다.||
+[[목차]]
+== 개요 ==
+{{{#!HTML
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/FDJNZmNaNrw?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+온라인 시절부터 트릴로지까지 쓰였던 BGA
+{{{#!HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/L1jABMfUYu8?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+TECHNIKA 2에서 새로 만들어진 BGA
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 장르 || [["유로댄스" Euro Dance]] ||
+|| 작곡 || [[ESTi]] ||
+|| BPM || 150 ||
+|| BGA || [[TARI]], ETER(온라인)[[br]] [[D(디자이너)|D]], [[KIMYS]](테크니카2) ||
+
+[[ESTi]]의 DJMAX 시리즈 첫 참여곡.
+곡에 대한 평가는 작곡가 답다는 호평이 많은 곡, 
+
+약칭은 '''레오일''' 혹은 '''[[일루미나티]]'''.~~Ray Of 1Luminati~~
+
+BGA의 경우 초기 업데이트에는 수록되지 않아서 초기형 [[범용 BGA]]를 사용했으나[[http://www.youtube.com/watch?v=qm-F9J-bGRg #]], 이후 TARI와 ETER가 제작한 자체 BGA가 추가로 업데이트. '''근데 대체적으로 다들 이 초기의 BGA가 이곡의 분위기와 가장 잘 맞다고들 한다.'''  아무래도 BGA의 분위기와 매치가 잘 맞아서 그런듯....~~범용 BGA의 재발견~~
+다만 뒷부분의 5초정도가 잘린다던가, 범용의 한계성덕분에 후자가 더 좋다는 사람들도 존재한다.
+
+후에 바뀐 BGA는 업데이트 초기에 보라색 머리 여주인공의 팔이 엄청나게 어색하게 움직이는 장면이 있었다. 가히 [충격과 공포]수준이었기 때문에, 해당 BGA 업로드때, 원래 범용 BGA를 돌려 달라는 항의가 빗발쳤다. 대략 이틀 정도 후 해당 여주인공의 팔이 그냥 움직이지 않도록 BGA가 수정되었다(...) (해당 장면에서 팔이 움직이는 동영상이 넷상에 남아 있는지는 제보바람) 사실 비주얼에 등장하는 캐릭터들의 눈이 무서울 정도로 '''맑은 호수'''같아서(...) 아직도 간간히 까이기도 한다. 또 [[바스트 모핑]]도 만들었지만 심의 문제로 짤렸다고 한다. 이때의 실패를 교훈삼아서 [[StarFish]]에서는 ~~바스트 모핑과 함께~~자연스러운 움직임을 보여준다.
+
+[http://www.joara.com/view/book/bookPartList.html?book_code=218031 이 BGA를 바탕으로 소설을 쓰신 분이 있다]
+== [[DJMAX 온라인]] ==
+Easy Style이나 Normal Style의 경우에는 패턴의 난이도가 무난하지만 Hard Style의 경우 계단배치를 약간 꼬아놓은 패턴이어어서 Normal Style까지 무난하게 플레이하던 사람이 갑자기 폭사하는 경우가 종종 발생했다. 
+
+이 곡은 [[SIN]]의 Limited Edition 버전을 꺼내는 코스로 사용되기도 한다. 랭킹모드에서 Long Vacation과 함께 플레이하여 두 곡 합산 46만점 이상이 나오면 출현하는 조건. 이후 SIN Limited Edition이 SIN SC가 되면서 이 조건은 사라졌다.
+
+{{{#!HTML
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/b-uEG8R34io?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/b-uEG8R34io?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+SC 채보는 [[CROOVE]]가 제작했다. 고난이도 채보지만 다른 SC채보와 달리 억지배치가 적고 치는맛도 좋아 트릴로지에도 안짤리고 수록되었다.
+== [[DJMAX TECHNIKA 시리즈]] ==
+=== [[DJMAX TECHNIKA 2]] ===
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+|| Star || D || 2,000 MAX || 5 || 4박 스크롤 || ||
+|| NM || B || 3,000 MAX || 5 || 4박 스크롤 || [[Electro Beat Set]] 선택곡 ||
+|| HD || A || 8,000 MAX || 7 || 4박 스크롤 || ||
+|| MX || S || 13,000 MAX || 8 || 4박 스크롤 || [[Maximum Set]] 선택곡, ※[물렙곡] ||
+
+[[DJMAX TECHNIKA 2]]에 추가되면서 BGA를 아예 새로 만들었다.~~하긴 저 [[먼지]]나는 BGA를 그냥 쓸 순 없지~~ D와 KIMYS에 의해 새롭게 제작되었는데 예전 BGA를 돌려 달라는 의견이 많다. ~~그래놓고 아주 예전 BGA로 돌려달라고 하겠지.~~ 피라미드가 움직이는 BGA인데 이 피라미드가 천년퍼즐을 연상시킨다고 현재 별명은 '''유희왕'''(원래 일루미나티의 상징이 피라미드인것도 있지만) 때문에 [wiki:"YOU JUST ACTIVATED MY TRAP CARD" 함정카드 드립]의 BGM과 많이 엮이기도 한다(...). 리듬게임 커뮤니티등에서는 [[wiki:"EZ2DJ" 이집트]]스러움을 이유로 [[wiki:"Y-Gate" 이 곡]]과 엮이는 경우가 많은 편.
+
+2분 1초밖에 안되는 곡을 군데군데 왕창 잘라먹었다. 그것도 1분 18초에서 30초 구간을. [wiki:"A.I(DJMAX)"A.I]나 [[WhiteBlue]]와 같이 3대 안습 커팅곡이 되어 대차게 까이는 중. --이게 다 [[wiki:"Ponglow"퐁퐁부인]]때문이다.--
+
+NM패턴은 노트가 나오는게 음악과 안맞는 구간이 있다. 때문에 5레벨치곤 퍼펙트 난이도가 좀 어려운편.
+HD패턴은 중간에 갑자기 곡과 어울리지 않게 [[Flea]] HD패턴의 3줄 보라드립이 튀어나온다. --레이 오브 벼룩--
+
+맥스샵 2차 업데이트 이후 Star와 NM패턴을, 3차 업데이트 때는 HD패턴을 구입할 수 있게 되었다.
+
+MX패턴은 6차 업데이트때 [[Maximum Set]]의 업데이트와 함께 공개되었는데, 생각보다 어렵지 않아서 '''이게 레벨 8이라고?'''라는 반응이 대부분.
+=== [[DJMAX TECHNIKA 3]] ===
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 || 5 || || ||
+||<#FFFF00> Normal || D || 150 || 5 || [[Electro Beat Set]] 셀렉곡 || ||
+||<#0000FF> {{{#white Hard}}} || C || 200 || 7 || [[Saturday Night Set]] 셀렉곡 || ||
+||<#FF0000> Maximum || B || 250 || 8 || [[Maximum Set]] 셀렉곡, [wiki:"Ragnarok(DJMAX)"미션 - 정신분열] 수록, ※[물렙곡] || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CyXQ2y3c_Pg" frameborder="0" allowfullscreen></iframe>
+}}}
+HD 패턴
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PkDMXtuAQKc" frameborder="0" allowfullscreen></iframe>
+}}}
+MX 패턴
+
+테크니카 3에서도 건재하며, 또한 테크니카 3에서 HD 패턴까지 [[Saturday Night Set]]에 수록됨에 따라 [[wiki:"DJMAX TECHNIKA 2"전작]]의 [[wiki:"Miles"얘]][[wiki:"Cypher Gate"네]][[wiki:"HEXAD"들]]과 마찬가지로 모든 패턴이 클럽 믹싱에 수록된 곡이 되었다.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Harmony 팩 수록곡 ||
+|| [[설레임 Part.2]] || [[Dream Again]] || [[Bye Bye Love]] || '''Ray of Illuminati''' || [[Pray For You]] ||
+
+|||||||||||| [[DJMAX RAY]] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 || ||
+||<#0000FF> {{{#white HD}}} || 6 || ||
+||<#FF0000> MX || 8 || ||
+
+DJMAX RAY에서는 MX 패턴이 8레벨로, 8레벨 중에서는 연타가 많이 나와 상위권에 속한다. 아이캐치는 테크니카2 버전을 사용한다.
+== [[TAP SONIC]] ==
+2013년 4월 11일, TAP SONIC에도 수록되었다! 6라인 레전드 기준으로 오랜만에 9레벨. 아이캐치는 온라인~트릴로지의 BGA를 차용했다. 패턴의 완성도도 높아 좋은 평을 받고 있다. 손꼬임과 멀티테스킹이 많아 판정난이도가 많이 높은 패턴.
+== [[DJMAX TECHNIKA Q]] ==
+|||||||||||||| [DJMAX TECHNIKA Q]의  기본 수록곡 ||
+|| [[In the Tdot]] || [[Raise me up]] || [[Lover]] || [[Oblivion]] || '''Ray of Illuminati''' || [wiki:"Eternal Fantasy ~유니의 꿈~"Eternal Fantasy (Miya Vocal Mix)] || [[모차르트 교향곡 40번 1악장]] ||
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|| 패턴 || 난이도 (2라인/3라인)|| 비고 ||
+||<#FFFF00> ORIGINAL || 3 / 4 || 
+||<#0000FF> {{{#white PREMIUM}}} || 5 / 6 ||
+||<#FF0000> SIGNATURE || 7 / 8 ||
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/5sq5-7F8FrE" frameborder="0" allowfullscreen></iframe>
+}}}
+3라인 SIGNTURE 플레이 영상
+
+친구 5명 초대시 해금된다.
+
+아케이드 버전과 다르게 컷팅 구간이 없고 온라인 판과 길이가 동일하다.
+
+출시 직후에 [뽁찡]이 났었다. 거의 무슨 노래인지 알아들을수도 없을정도로 키음이 씹혔다...

@@ -1,0 +1,35 @@
+[[include(틀:링크시 주의)]]
+||이 항목은 물음표를 포함하고 있어 일반적인 {{{[[Wanna Party?]]}}}로 링크를 걸면 '[[Wanna Party]]' 항목을 거쳐서 이 항목으로 오게되며, 리다이렉트를 통하지 않고 링크를 걸려면 {{{[[Wanna Party%3F|Wanna Party?]]}}}로 링크를 걸 수 있다.||
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[beatmania IIDX 15 DJ TROOPERS]]에 [[RAM(작곡가)|RAM]]이 투고한 악곡으로, 10th Style 이후로 자취를 감춘 그가 공백을 깨고 돌아와 평소에는 쓰지 않았던 하우스 장르의 곡을 발표하여 좋은 반응을 얻은 곡이다. 당시 RAM은 하우스 유닛인 'cargo'에서 활동하고 있었는데, 피아노 멜로디가 위주가 되는 하우스는 cargo의 주력 장르였다.
+
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| PIANO HOUSE[[BR]]피아노 하우스 || [[BPM]] |||| 128 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 386}}} || {{{#orange 7}}} || {{{#orange 599}}} || {{{#red 8}}} || {{{#red 762}}} ||
+|| [[더블 플레이]] || {{{#blue 3}}} || {{{#blue 329}}} || {{{#orange 6}}} || {{{#orange 616}}} || {{{#red 9}}} || {{{#red 910}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 15 DJ TROOPERS ~
+ * 가정용판 수록 : 15 DJ TROOPERS
+
+ * [[단위인정]] 수록
+  * 더블 어나더 : 7단(AC 16 EMPRESS ~)
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/ZRZz-tqi5Xc" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 어나더 영상
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/dx_JaFiGsN4" frameborder="0" allowfullscreen></iframe>
+}}}
+더블 어나더 영상
+
+전체적으로 차분한 곡 분위기에 맞게 배치도 크게 까다롭지 않은 채보이나, 더블 어나더는 상당히 매섭다. 스탠다드에서 클리어를 노리는 경우에는 1P 미러를 거는 것이 추천되곤 한다.
+
+차기작인 [[beatmania IIDX 16 EMPRESS]]부터 [[단위인정]] 더블 7단에 본 곡의 더블 어나더가 실리기 시작했는데, 문제는 중반부와 후반부에 등장하는 4번 노트를 축으로 한 원핸드 구간이 7단에 도전하는 대다수 유저들의 실력으로는 상당히 처리하기가 버겁다는 것. 그나마 단위인정에 첫 수록 된 시기에는 지금처럼 큰 존재감을 표출하진 못했으나, [[beatmania IIDX 18 Resort Anthem]]부터는 2스테이지에 있던게 '''1스테이지'''로 옮겨가면서 진정한 더블 7단의 [[1라운드 보스]]로 거듭나버렸다. 오죽하면 겨우겨우 1스테이지를 넘겼더니 일사천리로 더블 7단에 합격했다는 증언까지 나오기도.

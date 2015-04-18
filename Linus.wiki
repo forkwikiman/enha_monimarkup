@@ -1,0 +1,39 @@
+ * 등장인물을 찾는 분들은 [[라이너스]]를 참조해주세요.
+
+|||||||||| [[wac]]의 [[피너츠]] 시리즈 ||
+|| '''Linus'''[[BR]][wiki:"라이너스#s-2" 라이너스 반 펠트]  || → || [[Lucy]][[BR]]루시 반 펠트 || → || [[旅人リラン]][[BR]]리런 반 펠트 ||
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/j6mtLm16lvE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/j6mtLm16lvE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 168-176 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 489}}} || {{{#orange 9}}} || {{{#orange 789}}} || {{{#red 11}}} || {{{#red 1105}}} || {{{#blue 5}}} || {{{#blue 585}}} || {{{#orange 9}}} || {{{#orange 1007}}} || {{{#red 11}}} || {{{#red 1210}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 6th ~
+ * 가정용판 수록 : 6th, 9th
+
+[wiki:"라이너스" Linus]. 장르는 LOUNGE POP으로 아티스트 명의는 [wiki:"레고" LEGO] STUDIO 명의를 쓴 [[wac]]. 제목은 [[피너츠]]의 등장인물인 [wiki:"라이너스#s-2" 라이너스 반 펠트]에서 따왔다.
+
+wac이 전작에 냈던 [[Regulus]]와는 달리 이쪽은 빠른 템포에 밝은 분위기의 정박 곡이지만 [[계단]]을 사랑하는 wac 답게 이 곡에도 계단노트는 여전하다. 어나더의 [[최후반살인]]을 조심해야 하는 곡. [[변속]]이 곡 전반에 걸쳐 나타나는데, 변속의 폭이 그리 크지는 않으나 여러 차례 BPM이 변한다. ([[헐화]]도 비슷한 양상을 보인다.)
+
+BGA에는 팝픈뮤직 기계가 등장하는데, 실제로 나중에 나온 팝픈뮤직에 이식되었다.
+
+== 팝픈뮤직 ==
+{{|
+ビートマニアIIDXの人気曲がポップンで登場!!
+비트매니아 IIDX의 인기곡이 팝픈에 등장!!
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music[[br]]8 || LOUNGE POP[[br]]라운지 팝 || Linus[[br]]라이너스 || LEGO STUDIO || shiroro[[br]]시로로 ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 160-176 || 43단계 || {{{#blue 9}}} || {{{#green 23}}} || {{{#orange 37}}} || {{{#red --}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 29}}} || {{{#orange 43}}} || {{{#red --}}} ||
+|||| 노트수 || {{{#blue 244}}} || {{{#green 470}}} || {{{#orange 782}}} || {{{#red --}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+[[팝픈뮤직]] 8에 이식되었다.

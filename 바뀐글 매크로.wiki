@@ -1,0 +1,30 @@
+{{{[[RecentChanges(item=5,days=100,nonew|quick|showhost|simple|comment)]]}}}
+ * `item`: show `item`s.
+ * `days`: show recent entry from previous `days`.
+ * `daysago`: from `daysago`
+----
+{{{[[RecentChanges(item=5,quick)]]}}}
+
+[[RecentChanges(item=5,quick)]]
+----
+{{{[[RecentChanges(item=5,nonew)]]}}}
+
+[[RecentChanges(item=5,nonew)]]
+----
+{{{[[RecentChanges(item=5,comment)]]}}}
+
+[[RecentChanges(item=5,comment)]]
+----
+{{{[[RecentChanges(item=5,showhost,nonew)]]}}}
+
+[[RecentChanges(item=5,showhost,nonew)]]
+----
+{{{[[RecentChanges(item=5,comment,simple)]]}}}
+
+[[RecentChanges(item=3,comment,simple)]]
+----
+{{{[[RecentChanges(item=3,table)]]}}}
+
+[[RecentChanges(item=3,table)]]
+----
+바뀐글을 출력할 수 있는 매크로입니다.

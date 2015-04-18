@@ -1,0 +1,39 @@
+ * [[아이큐점프]]에 연재된 [[만화]]는 [[마이러브]] 항목을 참고할 것.
+
+[[목차]]
+
+== 개요 ==
+||http://ecx.images-amazon.com/images/I/51ufKis0eTL.jpg?width=250||http://ecx.images-amazon.com/images/I/51X7Qg%2BRFtL.jpg?width=250||http://ec2.images-amazon.com/images/I/51ZbUe3s%2B-L._SL500_AA300_.jpg?width=250||
+|| 초회한정반[[BR]](러브 웨건 스트랩 첨부) || 초회한정반 || 통상반 ||
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/hH5Qnzr8IsE?fs=1&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/hH5Qnzr8IsE?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+PV 영상
+
+2007년 --[[발렌타인 데이]]--2월 14일에 발매된, 카와시마 아이(川嶋あい)의 11번째 싱글명 및 그 표제곡. 싱글이 발매되기 전에 이 곡은 2006년에 [[후지 테레비]]에 방송된 '아이노리(あいのり)'의 주제가로 사용되었으며, 싱글은 발매 첫 주 오리콘 차트 5위를 기록했다.
+
+발랄한 분위기가 돋보이는 곡이다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>4||<:>6||
+||<#faca00><:>노트수||<:>176||<:>302||<:>391||
+||<#faca00><:>BPM||||||<:>140||
+||<#faca00><:>곡 이력||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#f68a1f ADV}}}레벨 1 하락[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임에서 자켓은 통상반 표지가 사용되었다.
+
+{{{#!HTML
+<iframe title="YouTube video player" width="640" height="480" src="http://www.youtube.com/embed/e0DIxfuc51I" frameborder="0" allowfullscreen></iframe>
+}}}
+NAT 플레이어의 엑설런트 영상 --그리고 광란의 도가니가 펼쳐지는데...--
+
+EXTREME은 '''6개 동시에 쳐야 하는 L자 노트'''가 나온다. T자와 L자가 잇달아 나온다. [[미키 마우스]] 모양(?)의 동시치기도 조심해야 할 부분이다.
+
+정말 어려운 부분은 알면서도 놓치기 쉽기 때문에 경우에 따라서 동시치기에 적응이 필요하다.[* 동시치기 채보를 숙지하는데 어느정도 도움을 줄 수 있는 형태에 패턴이다.]
+
+BASIC은 유비트를 처음 시작하는 사람에게 추천할 만한 곡이고, ADVANCED는 그럭저럭 칠 만한 난이도이다.

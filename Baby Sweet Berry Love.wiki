@@ -1,0 +1,38 @@
+[[목차]]
+
+=== 개요 ===
+||http://ecx.images-amazon.com/images/I/51UM9r2UCgL._SL500_AA300_.jpg||http://ecx.images-amazon.com/images/I/41b2Vmasl2L._SL500_AA300_.jpg||
+|| 초회한정반 자켓 || 통상반 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/4_GsN43-IX8" frameborder="0" allowfullscreen></iframe>
+}}}
+짧은 PV 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=326CA149CA600729A74F0E5F03FFB0DBC73A&outKey=V126d6c690db0f6625c8890483243a98bf7e24680b8c30c7fe55f90483243a98bf7e2" frameborder="no" scrolling="no"></iframe>
+}}}
+
+2013년 4월[[wiki:"애니메이션/2013년 4월" 부터 방영된 애니메이션]] [[변태왕자와 웃지 않는 고양이]]의 엔딩곡. 노래는 작중 등장인물 [[츠츠카쿠시 츠키코]] 역할을 담당했던, ~~그리고 주로 빛의 세계에서 활약 중인~~ [[일본]]의 [[성우]] [[오구라 유이]](小倉 唯)가 담당하였다. 2013년 5월 8일에 발매된 2번째 싱글음반은 오리콘 차트에서 일간 4위, 주간 6위까지 올랐다.
+
+싱글 발매 기념으로 2013년 4월 23일에 [[니코니코 동화]] 생방송 라디오 유이카지리(ゆいかじり) 특집편이 방송되기도 했다.
+[http://www.nicovideo.jp/watch/sm20682627 1편] [http://www.nicovideo.jp/watch/sm20682830 2편] (시청 시 니코니코 아이디 필요)
+
+=== [[유비트 시리즈]]에 수록 ===
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>9||
+||<#ffffff><:>노트수||<:>181||<:>339||<:>582||
+||<#ffffff><:>BPM||||||<:>170||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2013/8/1 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 대다수의 반응은 '''[[충격과 공포]]'''. ~~[[マジLOVE2000%]]과 함께 플레이어들의 [[항마력]]을 [[wiki:"뿌뿌뽕" 책임지고 있다]].~~ 게임 안에서 쓰는 자켓은 통상반 자켓.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/Tk3yRt-DOz0" frameborder="0" allowfullscreen></iframe>
+}}}
+PA 플레이어의 [[엑설런트]] 영상
+
+하트 모양의 동시치기가 총 3번 등장하고, 이 밖에도 후렴구에 U자 모양의 3개 분할 동시치기, 중반부의 4개짜리 동시치기의 구조 때문에 콤보가 깨지기 쉽다. 뿐만 아니라 중간중간에 16비트 노트가 나오기 때문에 판정 내기도 힘든 편. 하지만 도전 욕구를 불러일으키는 적당히 어려운 난이도와 곡(과 애니메이션)의 인기에 힘입어 선곡률은 높은 편이다.

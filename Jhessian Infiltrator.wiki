@@ -1,0 +1,19 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>  '''영어판 명칭''' || '''Jhessian Infiltrator''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/125821_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {G}{U} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 생물 — 인간 도적 ||
+||||<height=160px>Jhessian Infiltrator는 방어될 수 없다.
+
+''The Jhessian navy makes successful raids on Valeron's coastal towns thanks to their spies planted during peacetime.''||
+|| '''공격력/방어력''' || 2/2 ||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Shards of Alara || Shards of Alara ||
+
+반트 어그로 덱에서 주로 활약한 카드로 생물에 의해 저지되지 않기 때문에 디나이얼에 찍히지 않는 이상은 상대방에게 전투 데미지를 무조건 줄 수 있다. [[Rafiq of the Many]]와 콤보로 많이 사용한다. 리밋에서도 쓸만한 성능. 강화 인첸트 붙이고 닥돌했을시 디나이얼이 없다면 그대로 맞아 죽을 수밖에 없다.
+
+또한 녹+청이기 때문에 [[Shorecrasher Mimic]]과도 궁합이 상당히 좋다.
+
+도적이라는 특성상 Prowl을 터뜨릴 수도 있지만 Rogue덱하고는 색이 안맞아서(그동네는 흑색과 청색이 주류라서) Rogue덱에서는 안 쓴다.

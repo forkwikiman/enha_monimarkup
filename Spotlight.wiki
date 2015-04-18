@@ -1,0 +1,51 @@
+[[목차]]
+|| 장르 |||||||| Jazz Fusion ||
+|| 곡명 |||||||| Spotlight ||
+|| 작곡 |||||||| [[Forte Escape]] ||
+|| 배경 |||||||| Luty ||
+|| 최초 수록버전 |||||||| [[EZ2DJ PT]] ||
+|| BPM |||||||| 100 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple 11}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_F01qY09jnXs$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=F01qY09jnXs$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=F01qY09jnXs$&playLoc=undefined'></embed></object>
+}}}
+
+[[EZ2DJ Platinum]] '''BGA'''
+
+== 개요 ==
+원제는 <Drubpapa>. 본래 작곡자가 자신의 [[밀림닷컴]] 페이지에 올렸던 곡을 조금 편곡하여 게임용으로 내놓은 곡이다. 원곡은 몇 년 전까지만 해도 들을 수 있었지만 지금은 밀림이 망해서 들을 수 없게 되었다.
+
+중간중간에 나오는 남자 목소리는 샘플이 아니라 Forte Escape가 직접 녹음한 것이다.
+
+영상은 여러 실사 풍경 사진을 배경으로 3D 여성 인물이 이런저런 동작을 취하는 내용이다. 3D 캐릭터의 모델링이 무섭다는 평가도 있었다. 실사 배경으로는 유명한 [[도쿄]] 도청사 건물도 지나간다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+원핸드가 필수적으로 요구되는 곡으로, 새끼손가락으로 스크래치를 처리하기는 상당히 어렵다. 스크래치는 정박자이지만 일반 노트가 상당히 변태적이다. 이제 갓 난이도 6에 입문한 사람들이 생각없이 이걸 했다가 [[충공깽]]을 경험할 수 있다. 하지만 원핸드를 익히는 데 꽤 도움이 될 만한 곡이다. [[EZ2AC]]에서 5키 노멀 패턴의 난이도가 한 단계 상승했다. 하드 패턴은 7th 이후 추가된 구곡 추가 패턴이 다 그렇듯이 스크와 페달 박자가 다소 더럽다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+AE 이후로 라디오 채널에 종종 등장하는데, 주로 저레벨 채널에서 전용 패턴으로 등장한다. Lounge J 코스, Take One 코스에 각각 전용 패턴이 있다. 둘 다 노멀보다 난이도가 낮은데 Lounge J 패턴은 후반부 스크래치를 덜어냈고 Take One 패턴은 주 멜로디 건반부 계단을 일부 롱노트로 단순화시켰다.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+EV에서 하드가 새로 추가되었다.
+=== 14K MANIAC ===
+스페이스 믹스에선 상당한 사기곡이다. 7th 2.0때 난이도가 6에서 7로 올랐으나 여전히 지뢰라는 말이 많아, EV에서 8로 올랐다.
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== EZ2ON에서의 Spotlight ==
+[[EZ2ON]]의 8키 채보에서는 1번 라인의 노트가 단 한개도 나오지 않는다.

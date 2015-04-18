@@ -1,0 +1,87 @@
+||<-5><#505050><tablealign=center> '''프로필''' ||
+||<|12> attachment:/HeartGold_SoulSilver_Archer.png?width=150 ||
+||<#505050> '''이름''' ||<#d2d2d2> 아폴로 ||
+||<#505050> '''성별''' ||<#d2d2d2> [[남성]] ||
+||<#505050> '''눈 색깔''' ||<#d2d2d2> 청록색 ||
+||<#505050> '''머리 색깔''' ||<#d2d2d2> 청록색 ||
+||<#505050> '''트레이너 계급''' ||<#d2d2d2> 로켓단 간부 ||
+||<#505050> '''지방''' ||<#d2d2d2> [[성도지방]] ||
+||<#505050> '''출신지''' ||<#d2d2d2> 불명 ||
+||<#505050> '''가족관계''' ||<#d2d2d2> 불명 ||
+||<#505050> '''데뷔작''' ||<#d2d2d2> [[포켓몬스터 금·은]] ||
+||<#505050> '''세대''' ||<#d2d2d2> 2, 4 ||
+||<#505050> '''등장 게임''' ||<#d2d2d2> [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][[포켓몬스터 파이어레드·리프그린|파이어레드·리프그린]][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/악의 조직)]]
+== 캐릭터 정보 ==
+포켓몬스터 시리즈의 등장인물.
+
+범죄조직 로켓단의 간부 4인 중 하나. 그중에서도 리더격이다.
+
+== 작중 행적 ==
+[[포켓몬스터 파이어레드·리프그린]]에선 아폴로로 추정되는 로켓단 중 남성 간부가 로켓단이 해산되었음에도 불구하고 [[일곱섬]] 중 5섬의 창고에서 포켓몬을 강제로 진화시키는 전파에 대한 실험을 이끌고 있다. 하트골드·소울실버처럼 그 중에서도 리더격이고, 전투 능력도 가장 강한 걸 추측으로 아폴로와 동일인물이라고 추측하는 것이다. 다만 말투가 후세대인 하트골드·소울실버와는 달라져서 마냥 동일인물이라 보기엔 무리인 감도 있다. 대다수의 포켓몬 위키처럼 이 항목에서도 일단은 그 간부와는 동일인물이라 취급한다.
+
+2세대와 [[포켓몬스터 하트골드·소울실버]]에선 간부들 중 가장 늦게 등장하는데 [[금빛시티]]의 라디오탑에서 처음이자 마지막으로 등장한다. 아테나를 무찌르고 난뒤 엘리베이터를 타고 전망대로 올라가면 만날 수 있는데 주인공에게 여기까지 온 걸 보니 우수한 트레이너인 것 같다면서 자신들이 라디오탑을 점령하여 부활을 선언하면 어딘가에서 수행중인 [[비주기(포켓몬스터)|비주기]]가 돌아올 것이라고 말한다. 그런뒤 그와 함께 3년 전의 영광을 되찾을 것이며 주인공이 방해하도록 두지 않겠다며 승부를 걸어온다. 패배한뒤에는 모든 꿈이 끝나버렸다며 좌절하고 로켓단을 해산시킨뒤 자취를 감춘다.
+
+=== 관련 테마곡 ===
+||<#ededed> * 로켓단의 테마
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile4.uf.tistory.com/media/2421D64F52177E892E14B1"></object>
+}}}
+
+ * 라디오탑 점거!
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile8.uf.tistory.com/media/241ED14B52815C6D251A2E"></object>
+}}}
+
+ * 전투! 로켓단
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile10.uf.tistory.com/media/2659E04F52177E8D17C172"></object>}}}||
+
+=== 기타 ===
+ * 본래 4세대 포켓몬스터 하트골드·소울실버에서 등장한 로켓단 간부 캐릭터 네 명의 원형은 [[포켓몬스터 금·은]]을 비롯한 2세대 시리즈에서 나온 바 있는 이름없는 양산형 로켓단 간부 NPC들이다. 하트골드·소울실버로 리메이크되며 금·은에서의 남성 간부 캐릭터의 역할을 랜스, 람다, 아폴로가 이어받고 여성 간부 캐릭터의 역할을 아테나가 이어받은 것.
+
+ * 아폴로가 로켓단 4간부 중에서도 2세대의 남성 간부의 모습과 가장 많이 닮았다.
+
+ * 참고로 로켓단 간부들 중에서 제일 늦게 항목이 작성된 안습의 인물이다(...). ~~맨 나중에 한 번만 등장한 게 무슨 죄라고~~
+
+=== 삽화 ===
+||<-4><tablealign=center><#505050> {{{#ffffff 스프라이트}}} ||
+|| attachment:/Spr_GS_Rocket_Executive_M.png || attachment:/Spr_HGSS_Archer.png || attachment:/VSArcher.png || attachment:/Archer_OD.png ||
+|| 트레이너[[br]](2세대) || 트레이너[[br]](4세대) || VS || 필드 ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#505050"><:> {{{#ffffff 언어}}} || {{{#ffffff 이름}}} || {{{#ffffff 유래}}} ||
+|| 일본어 || 아폴로 アポロ || 미국 [아폴로 계획], 혹은 [그리스 신화]의 신 [아폴론]에서 따왔을 것으로 추정. ||
+|| 한국어 || 아폴로 || 일칭과 동일. ||
+|| 영어 || 아쳐 Archer || [러시아]의 미사일 '[A-11] Archer'에서의 Archer을 인용한 것으로 추정. [* 추가로 [아폴론]은 [궁수](Archer)인데 여기에서 따왔을 것으로도 추정 가능.] ||
+= 소유 포켓몬 =
+== [[포켓몬스터 파이어레드·리프그린]] ==
+== [[포켓몬스터 하트골드·소울실버]] ==
+||<tablealign=center><#6e6e6e> attachment:/spr_4h_228.png ||<#a83ca8> attachment:/spr_4h_109.png ||<#6e6e6e> attachment:/spr_4h_229.png ||
+||<#dcdcdc> [[헬가(포켓몬스터)|델빌]] ♂[[br]](Lv.35) ||<#dcdcdc> [[또도가스|또가스]] ♂[[br]](Lv.35) ||<#dcdcdc> [[헬가(포켓몬스터)|헬가]] ♂[[br]](Lv.38) ||
+|| __타입__ :[[br]][[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark.png]][[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark.png]][[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] ||
+||<:> __특성__ :[[br]]일찍기상 ||<:> __특성__ :[[br]]부유 ||<:> __특성__ :[[br]]일찍기상 ||
+||<:> __지닌 도구__ :[[br]]없음 ||<:> __지닌 도구__ :[[br]]없음 ||<:> __지닌 도구__ :[[br]]없음 ||
+||<:> __기술배치__ :[[br]][[울부짖기]][[br]][[물기]][[br]][[속여때리기]][[br]][[불꽃엄니]] ||<:> __기술배치__ :[[br]][[몸통박치기]][[br]][[연막]][[br]][[흑안개]][[br]][[오물공격]] ||<:> __기술배치__ :[[br]][[스모그]][[br]][[물기]][[br]][[속여때리기]][[br]][[불꽃엄니]] ||
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 SPECIAL]]에서의 모습 ==
+게임판과 마찬가지로 신 로켓단 4장관의 리더 격인 인물. 하지만 게임과 달리 현저하게 떨어지는 비쥬얼, 그나마 잘 생겨지나 싶으면 다음 컷에서 무참히 40대의 얼굴로 되돌아가 버린다.(…) 외모는 그렇다치고, 실력은 제대로 나온바 없지만 크리스를 관광시킨 아테나를 끽소리 못하게 할 정도면 상당한 듯 하다. 4장관으로서 맡은 역할은 아르세우스 찾기이다.
+
+[[각주]]

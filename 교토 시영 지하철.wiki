@@ -1,0 +1,35 @@
+{{{+1 京都市営地下鉄 / Kyoto Municipal Subway}}}
+ * [[일본 철도 정보]]
+
+[[include(틀:일본의 도시철도)]]
+[[include(틀:케이한신의 대중교통)]]
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kyoto_MTB_Logo.svg/200px-Kyoto_MTB_Logo.svg.png
+
+http://upload.wikimedia.org/wikipedia/ja/thumb/2/27/Kyoto_Subway.PNG/500px-Kyoto_Subway.PNG
+
+[[목차]]
+== 개요 ==
+[[교토 시 교통국]]에서 운영하는 [[교토]] 시와 우지 시를 운행 구역으로 하는 지하철 노선이다. 관광객에게는 같은 교통국에서 운영하는 시내 버스에 비해서 존재감이 별로 없는 편이다. 하지만 여행에 있어 아주 쓸모없지는 않다.
+여담으로, 전 노선~~그래봤자 2개~~이 타 노선과 직결운행을 실시하고 있다.
+
+[[2014년]] [[12월 24일]]부터 간사이 지역 사철 IC 카드인 [[PiTaPa]] 호환을 개시했다.
+
+1일 무제한 패스를 발급하고 있으며 가격은 600엔이다. 근데 [[스룻토 간사이 패스]]에 가려서 다들 잘 모르는 것 같다.  [[http://www.city.kyoto.jp/koho/kor/access/transport.html 교토시 교통안내 한국어 페이지]]에도 설명이 없고(...)
+{{{#!html
+<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/kikaku.j/photos/a.503466836426941.1073741827.502494283190863/640704072703216/?type=1" data-width="600"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/kikaku.j">太秦萌</a>님의 <a href="https://www.facebook.com/kikaku.j/photos/a.503466836426941.1073741827.502494283190863/640704072703216/?type=1">글</a></div></div></br>}}}
+[[철도무스메]]에 소속된 캐릭터가 없어서 억울했는지, 언제부터인가 교토 시영 지하철 [[모에]] [[모에]] 프로젝트를 진행 중이다.~~모에 캐릭터가 없으면 만들면 되지!~~ 시영 지하철 역에 관련 캐릭터 포스터를 붙여두고 있으며, 캐릭터 이름은 왼쪽부터 각각 오노 미사, 마츠가 사키, 우즈마사 모에이며, 교토에 있는 [[오노역(교토)]], [[마츠가사키역(교토)]], [[우즈마사역]]에서 따온 것으로 보인다. 참고로 위의 이미지는 캐릭터가 그려진 포스트잇이고 520엔에 교토시 교통안내소 등에서 살 수 있다.
+
+우즈마사 모에는 오후 9~10시에도 배차 시간이 짧단(10분) 점을 강조하고 있고, 마츠가 사키는 위에 설명한 1일 무제한 패스를 설명하고 있으며, 오노 마사는 환경과 인간에 친화적인 스마트 무브 캠페인을 강조하고 있다.
+== 노선 ==
+|| 노선명 || 노선 색상 || 구간 || 타노선 직통운전 ||
+|| [[카라스마선]] ||<#3cb371> {{{#3cb371 }}}||국제회관↔[wiki:"타케다역" 타케다]||[[킨테츠]] [[wiki:"교토선(킨키 일본 철도)" 교토선]], [[wiki:"나라선(킨키 일본 철도)" 나라선]](타케다↔신타나베/[wiki:"킨테츠나라역" 킨테츠나라])||
+|| [[wiki:"도자이선(교토 시영 지하철)" 도자이선]] ||<#ff4500> {{{#ff4500 }}}||로쿠지조↔우즈마사텐진가와||[[케이한]] [[케이신선]][* 일단 궤도법을 적용받는 노면전차이기는 한데 4량으로 다닌다. 일본 내에서 유일한 특례 적용 구간이다.]([wiki:"미사사기역" 미사사기]↔[wiki:"하마오츠역" 하마오츠])||
+
+== 주요 역 ==
+ * [[교토역]]
+ * [[wiki:"산죠역(교토)" 산죠케이한역]]
+ * [[카라스마오이케역]]
+
+[추가바람]

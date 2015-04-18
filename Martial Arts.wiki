@@ -1,0 +1,43 @@
+[[목차]]
+
+
+=== 덴마크의 메탈 밴드 로얄 헌트의 연주곡 ===
+덴마크의 메탈 밴드 [[로얄 헌트]]의 연주곡. ~~스타크래프트 유즈맵 RGB Bound 5th에 삽입된 bgm이다.~~첫번째 정규앨범인 Land of Broken Hearts에 처음 수록되었으며 작곡자인 앙드레 앤더슨이 은근히 자주 우려먹는 곡이다. 라이브 앨범에서 절대 빠지지 않고 연주되는 곡 중 하나.[* 아래에 서술하겠지만 레슬러의 테마곡으로 편곡해서 쓰기도 하고 솔로 앨범에선 피아노 버전으로 편곡하여 수록하기도 했다.] 
+
+{{{#!html
+<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/bJ-sbyVNBFE&hl=ko_KR&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/bJ-sbyVNBFE&hl=ko_KR&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></embed></object>
+}}}
+
+일본의 프로레슬러인 [[쵸노 마사히로]]의 등장 테마곡으로 쓰이기도 했다.[* [[무토 케이지]]에게도 곡을 줬는데 이쪽은 기존 곡이 아닌 신곡을 달라는 요청으로 인해 Triumph라는 곡을 새로 써서 줬다.] 쵸노 마사히로의 테마곡으로 쓰이는 버전은 원곡보다 조금 길며 이 버전은 Crash라는 이름으로 따로 구분하여 부를 때도 있다. 2002년에는 Hard Crush라는 이름으로 새롭게 편곡되기도 했으며 이 버전은 오리지널 버전을 --기계를 이용한 복붙으로-- 길게 손본 것에 가까운 크래쉬와 달리 아예 새로 녹음한 모양인지 키보드톤을 달리 잡는 것은 물론 원곡에는 없던 멜로디의 키보드 솔로를 중간에 따로 넣는 등 꽤 많이 변했다.[* 물론 기본적인 멜로디 자체는 동일하다.] 이 중에 Crash는 로얄 헌트의 2003년 정규앨범 Eye Witness 한정반에 보너스트랙으로 수록.
+
+==== 기타프릭스 & 드럼매니아 V8 / XG2에서의 Martial Arts ====
+||<-3><#C9D540><:>'''GuitarFreaks & DrumMania V8 & XG2 Extra Rush'''||
+|| V8 || XG2 || 해당 곡 ||
+||<-2><#FFA500><:> EXTRA 1 || '''[[Einherjar]]''' ||
+||<-2><#FFA500><:> EXTRA 2 || '''[[blue moon]]''' ||
+||<-2><#FFA500><:> EXTRA 3 / ENCORE 1 || '''[[Chinese Snowy Dance]]''' ||
+||<-2><#FFA500><:> EXTRA 4 / ENCORE 2 || '''Martial Arts''' ||
+||<-2><#FFA500><:> EXTRA 5 / ENCORE 3 || '''[[SIX DIMENSION]]''' ||
+||<-2><#FFA500><:> EXTRA 6 / ENCORE 4 || '''[[Illuminati ~光を求める者たち~]]''' ||
+||<-2><#FFA500><:> EXTRA 7 / ENCORE 5 || '''[[ゲームより愛を込めて]]''' ||
+||<#082567> {{{#white ENCORE 6}}} ||<#FFA500> EXTRA 8 / ENCORE 6 || '''[[幻想雷神記]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' ||<#082567> {{{#white ENCORE 7}}} || '''[[EXCELSIOR DIVE]]''' ||
+|| 해당 없음 ||<#800080> '''{{{#white CLIMAX}}}''' || '''[[Brown blizzard]]''' ||
+
+리듬게임에서는 [[기타프릭스]] & [[드럼매니아]] XG2/V8에 판권곡으로 수록되었는데, 엑스트라 러시 레벨2에서 앙코르 스테이지로 등장했다. 레벨4부터는 엑스트라 스테이지로 격하되고, 레벨9부터는 일반곡이 되었다.
+
+{{{#!html
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/w1JFkum6GCU?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+기타드럼 시리즈 역사상 판권곡이 엑스트라나 앙코르 스테이지로 쓰인 것은 '''역대 최초'''이고, 판권곡이 일반곡으로 나오지 않은 것도 [[서클 코스터]] 이래로 두번째다. 
+
+기타프릭스에서는 포풍같은 기타 반주를 플레이해야 하지만, 드럼매니아에서는 베이직이 13에 어드밴스드가 27이라서 엑스트라 스테이지에 있을 때 다른 앙코르의 어드밴스드 레벨을 꺼낼 제물이 되고 있다. 익스트림도 레벨이 72이긴 하지만 표기레벨에 비해서는 물렙이라는 평이 많다. 하지만 익스트림 후반부에 박자가 꼬이는 부분은 주의하자.
+
+위의 난이도는 V8 얘기고, XG2에서는 원곡대로 투베이스가 들어가서 나름대로 난이도가 있는 곡.
+
+{{{#!html
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm14168125"></script><noscript><a href="http://www.nicovideo.jp/watch/sm14168125">【ニコニコ動画】【Drum Mania XG2】MARTIAL ARTS 　Master譜面</a></noscript>
+}}}
+
+[[각주]]

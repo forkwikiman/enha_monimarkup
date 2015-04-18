@@ -1,0 +1,28 @@
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/-c9JdQW45RI?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/-c9JdQW45RI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+파워메탈 밴드 [[드래곤포스]]의 곡. 밴드의 보컬이 교체된 후 처음으로 나온 앨범 'The Power Within'에 수록된 곡이다.
+
+== 리듬게임에서 ==
+=== GITADORA ===
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 200 ||<|2><:> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 2.30}}} || {{{#orange 5.30}}} || {{{#red 8.65}}} ||
+|| 기타 베이스 || {{{#blue 2.30}}} || {{{#orange 5.15}}} || {{{#red 7.40}}} ||
+|| 드럼매니아 || {{{#blue 2.80}}} || {{{#orange 6.00}}} || {{{#red 9.50}}} ||
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/JQ-VLP-WUWU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/JQ-VLP-WUWU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+드럼 어드밴스/익스트림 보면 영상
+
+[[GITADORA]]에 라이센스곡으로 수록되었다. 라이센스와 관련된 문제가 있는지 일본판 기타도라에서만 플레이할 수 있다.[* 같은 시리즈에 수록된 신곡인 [[앙그라]]의 NOVA ERA도 마찬가지로 일본에서만 플레이할 수 있다.]
+
+이전의 [[Through the Fire and Flames]]가 그렇듯 이 곡 역시 상당한 체력곡으로 등장했는데, 드럼 익스트림의 노트수가 '''1824개'''로, 이전까지 최다 노트수를 보유하던 [[暗黒舞踏会]] 익스트림 보면의 1724개를 100개 차이로 갱신했다. 이후 [[TEAR OFF YOUR CHAIN]][* 총 노트수 1959개] 이 수록되기 전까지 최다 노트수 자리를 차지하고 있었다.
+
+드럼 EXTREME은 [[GITADORA OverDrive]] 기준으로 [[バンブーソード・ガール]] MASTER와 함께 판권곡 최고 난이도(2등은 9.45의 [[暗黒舞踏会]] EXTREME). 시종일관 나타나는 빠른 16비트 투베이스와 고속 필인으로 체력곡으로써는 최상위권의 난이도를 자랑한다.

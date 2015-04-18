@@ -1,0 +1,101 @@
+[[include(틀:SCP)]]
+||<tablewidth=70%><tablealign=center><-2><:> '''SCP 재단''' ||
+|| '''명칭''' || 케테르 SCP(Keter SCPs) ||
+|| '''원문''' || [[http://scp-wiki.wikidot.com/system:page-tags/tag/keter]] ||
+
+[[목차]]
+[[SCP 재단]]에서 보관하는 SCP들 중 분류법에 따라 '케테르(Keter)' 등급을 부여받은 SCP들의 목록이다.
+
+== 개요 ==
+SCP를 위험도별로 3단계로 분류한 등급 중 최상위에 속하는 SCP들로, 한 마디로 말해 '''살아 움직이는 핵폭탄들'''~~사실 진짜 핵폭탄도 있다!~~이라고 할 수 있다. 여기에서 '케테르'는 히브리어로 "왕관"을 뜻하며, [[세피로트의 나무]]에서 제1세피라의 이름이기도 하다.
+
+케테르 등급의 SCP는 천성적으로 살아있는 것들에 적대적이며 제어하는데 엄청난 어려움이 따른다.[* 위험하지 않은 경우라도 제어가 불가능하면 무조건 케테르급이다. [[SCP-609]], [[SCP-990]]과 [[SCP-777-J]]가 그 예시들.] 때문에 케테르 등급 물품에 대한 관리 및 실험은 재단 직원들이 아닌 D등급 인원들을 이용해서 이루어지게 된다. 이들은 크게 두 가지 범주로 나누어질 수 있는데, 통제할 수 있다면 엄청난 전략상의 가치를 지니고 있는 것과 물체의 특성에 의해 파괴하는 것이 거의 불가능한 것들이다. 케테르 등급 물체들은 본질적으로 위험하기 때문에 가능한 한 최고 수준의 보안 절차가 필요하다. 그 위험 정도는 적게는 주변에 있는 사람들을 싸그리 죽여버리는 것에서부터, 크게는 '''세계 멸망'''에 이르기까지 다양하지만 위험하다는 것은 매한가지이다. --[[코즈믹 호러]]--
+
+최고 위험도 클래스에 분류되는 만큼 메타적으로 평가도 기본적으론 엄격한 편이다. 그래서 처음 작성되기론 케테르였다가 '겨우 이 정도갖고 케테르라기엔 호들갑이죠'하는 지적을 듣고 [[SCP 재단/유클리드|유클리드 등급]]으로 다운그레이드되거나, 최악의 SCP를 만들려 하다보니 너무 [[메리 수]]스럽거나[* 파괴불능, 수준높은 정신오염 등. 이게 최악까지 치달아 폭풍까임을 받은 대표적인 퇴역 SCP로 [[SCP-151-D]]가 있다.] SCP 리스트 안에서도 많이 본 설정[* 일례로, 기생충 계열 내지는 세균류 SCP는 워낙 많이 퍼져서 격리는 힘든데 대량학살이 가능한 위험한 것들이라 어지간해선 케테르 등급이 된다. 그래서 미생물 SCP가 범람하는 데 싫증을 내는 평도 간혹 있다.]이라서 평가가 짠 항목이 많다. 이런 관계로 SCP 항목 전체에서 알찬 내용의 케테르급 SCP는 그리 많지가 않으며, 분포도도 안전 등급과 유클리드 등급 SCP들에 비할 바가 아니다.
+
+== 목록 ==
+ * [[SCP-016]]: "Sentinent Micro-Organism" (의식이 있는 미생물)
+ * [[SCP-017]]: "Shadow Person" (그림자 인간)
+ * [[SCP-019]]: "The Monster Pot" (괴물 항아리)
+ * [[SCP-020]]: "Unseen Mold" (보이지 않는 곰팡이)
+ * [[SCP-029]]: "Daughter of Shadows" (그림자의 딸)
+ * [[SCP-035]]: "Possessive Mask" (빙의 가면)
+ * [[SCP-047]]: "Microbial Mutagen" (미생물 돌연변이원)
+ * [[SCP-055]]: "unknown" ('''정체불명''')
+ * [[SCP-058]]: "Heart of Darkness" (어둠의 심장)
+ * [[SCP-059]]: "Radioactive Mineral" (방사성 광물)
+ * [[SCP-060]]: "Infernal Occult Skeleton" (불지옥 마법의 해골)
+ * [[SCP-061]]: "Auditory Mind Control" (청각적 마인드 컨트롤)
+ * [[SCP-076]]: "Able"[* 토론 게시판에서도 이름 철자관련으로 몇 번 이야기가 오갔으나 이제는 틀리든 말든 크게 신경 안 쓰는 분위기(...). 철자가 다르므로 성경의 아벨과 차별화된다고 말하는 이도 있다.] ([[아벨]])
+  * [[SCP-076/사건 기록]]
+ * [[SCP-090]]: "Apocorubik's Cube" (아포코[[루빅스 큐브]])
+ * [[SCP-094]]: "Miniature Event Horizon" (미니어처 사건의 지평선)
+ * [[SCP-106]]: "The Old Man" (늙은이)
+ * [[SCP-122]]: "No More Monsters" (더이상의 괴물은 안돼)
+ * [[SCP-140]]: "An Incomplete Chronicle" (미완성된 연대기)
+ * [[SCP-149]]: "The Blood Flies" (흡혈 비행곤충)
+ * [[SCP-165]]: "The Creeping, Hungry Sands of Tule" (굶주린 채 기어오는 툴의 모래들)
+ * [[SCP-169]]: "Leviathan" ([[레비아탄]])
+ * [[SCP-217]]: "The Clockwork Virus" (톱니바퀴 바이러스)
+ * [[SCP-231]]: "Special Personnel Requirements" (특수 인원 요구조건)
+ * [[SCP-238]]: "Building Complex" (건축물군)
+ * [[SCP-239]]: "The Witch Child" (어린 마녀)
+ * [[SCP-271]]: "The Inscribed Disk" (문자가 새겨진 원반)
+ * [[SCP-352]]: "Baba Yaga" ("[[바바 야가]]")
+ * [[SCP-353]]: "Vector" ("전염 매개체")
+ * [[SCP-354]]: "The Red Pool" (붉은 웅덩이)
+  * [[SCP-354/탐사 기록]]
+ * [[SCP-370]] : "A Key" ("열쇠")
+  * [[SCP-370/사건 기록]]
+ * [[SCP-409]]: "Contagious Crystal" (전염성 크리스털)
+ * [[SCP-469]]: "Many-Winged Angel" (수많은 날개의 천사)
+ * [[SCP-510]]: "Soft Death" (부드러운 죽음)
+ * [[SCP-579]]: '''［데이터 말소］'''
+ * [[SCP-609]]: "Dr. Wondertainment's Ontological 6-Balls®" (원더테인먼트 박사의 존재론적인 6번 당구공®)
+ * [[SCP-610]]: "The Flesh that Hates" (증오의 살점)
+ * [[SCP-616]]: "The Vessel and the Gate" (비행기와 문)
+  * [[SCP-616/면담 기록]]
+ * [[SCP-682]]: "Hard-to-Destroy Reptile" (죽일 수 없는 파충류)
+  * [[SCP-682/폐기 기록]]
+ * [[SCP-689]]: "Haunter in the Dark" (어둠 속의 유령)
+ * [[SCP-732]]: "The Fan-Fic Plague" (팬픽 전염병)
+ * [[SCP-738]]: "The Devil's Deal" (악마의 거래)
+ * [[SCP-743]]: "A Chocolate Fountain" (초콜릿 분수)
+ * [[SCP-752]]: "Altruistic Utopia" (이타적인 이상 사회)
+ * [[SCP-771]]: "Self-Repairing Biological AI (자가수리 생체인공지능)
+ * [[SCP-785]]: "A Chain Restaurant" (체인 음식점)
+ * [[SCP-804]]: "World Without Man" (인간이 없는 세계)
+ * [[SCP-835]]: "Expunged Data Released" (말소된 데이터 공개)
+ * [[SCP-871]]: "Self-Replacing Cake" (자체 충당 케이크)
+ * [[SCP-877]]: "University Microchips" (대학 마이크로칩)
+ * [[SCP-902]]: "Final Countdown" (마지막 초읽기)
+ * [[SCP-953]]: "Polymorphic Humanoid" (둔갑하는 인간형 개체)
+  * [[SCP-953/면담 기록]]
+ * [[SCP-990]]: "Dream Man" (꿈 속의 사내)
+ * [[SCP-1000]]: "Bigfoot" ([[빅풋]])
+ * [[SCP-1003]]: "Tapeworm Child" (촌충 어린이)
+ * [[SCP-1012]]: "Secret Chord" (신비로운 화음)
+ * [[SCP-1048]]: "Builder Bear" (건축가 곰)
+ * [[SCP-1055]]: "Bugsy" (벅시)
+ * [[SCP-1100]]: "Gaia's Blood" (가이아의 피)
+ * [[SCP-1234]]: "An Abandoned Bakery" (버려진 빵가게)
+ * [[SCP-1237]]: "Epsilon Wave" (엡실론파)
+ * [[SCP-1286]]: "Sad Man" (새드 맨)
+ * [[SCP-1295]]: "Meg's Diner" (메그의 식당)
+ * [[SCP-1322]]: "Glory Hole" (개구멍)
+ * [[SCP-1427]]: "Extinguishing Stele" (멸망의 기념비)
+ * [[SCP-1440]]: "The Old Man from Nowhere" (어디에서도 오지 않은 노인)
+ * [[SCP-1512]]: "Irrational Root" (무리근)
+ * [[SCP-1548]]: "The Hateful Star" (증오의 별)
+ * [[SCP-1616]]: "Nibbles" (갉작이)
+ * [[SCP-1887]]: "Quantum Mechanics" (양자 역학 수리공)
+ * [[SCP-1968]]: "Global Retrocausality Torus" (전지구적 역인과 원환체)
+  * [[SCP-1968/면담 A]]
+  * [[SCP-1968/면담 B]]
+ * [[SCP-1983]]: "Doorway to Nowhere" (어디와도 이어지지 않은 문)[* 사실상 무력화된 SCP이나 재단에서는 아직까지는 케테르 등급을 유지하고 있다.]
+ * [[SCP-1984]]: "Dead Hand" ([[상호확증파괴|죽음의 손]])
+ * [[SCP-2006]]: "Too Spooky" (너무 무시무시한)
+ * [[SCP-2030]]: "LA U GH IS F UN" (웃 음 은 즐 겁다)
+ * [[SCP-2112]]: "And the Meek Shall Inherit the Earth" (그리고 온유한 자가 땅을 받을 것임이요)
+ * [[SCP-2317]]: "A Door to Another World" (다른 세상으로 가는 문)
+ * [[SCP-2662]]: "cthulhu f'''UCK OFF!'''" ([[크툴루]]'''닥쳐!''')

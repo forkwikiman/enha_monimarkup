@@ -1,0 +1,47 @@
+[[목차]]
+== 개요 ==
+|| 장르 |||||||| HOUSE POP[* 작곡가 사운드클라우드 표기] ||
+|| 곡명 |||||||| Rendezvous City ||
+|| 작곡 |||||||| [[wigen]] ||
+|| 배경 |||||||| LB[* 작화 담당.] [[br]] [[FOX-B]][* 비주얼 편집 담당.] ||
+|| 최초 수록버전 |||||||| [[EZ2AC : EVOLVE]] ||
+|| BPM |||||||| 130 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EVOLVE]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 8 }}} || {{{#red 11 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#FF0000> 5K RUBY || {{{#orange 8 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 9 }}} || {{{#red 12 }}} || {{{#purple 14 }}} || {{{#blue - }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8}}} || {{{#red 14}}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 10 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7 }}} || {{{#red 14 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 10 }}} || {{{#red 13 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ffffff> TURNTABLE || {{{#orange 12 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+ * 코스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+{{{#!HTML
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/191714511&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+}}}
+[[EZ2AC EC|전작]]의 [[Rendezvous Coast]]의 속편 격인 곡으로, 역시 가벼운 분위기와 함께 [[미소녀]] 작화를 메인으로 내세웠다. BGA가 제작되었으나 원화가와의 계약 문제로 게임에는 수록되지 않았다.
+
+=== 패턴 ===
+==== 5K ONLY ====
+==== 5K RUBY ====
+==== 5K STANDARD ====
+
+[[youtube(q3PNt7VEg3A)]]
+HD LV.12
+하드 패턴은 전작과 같은 스크래치 폭타를 선사한다.
+==== 7K STANDARD ====
+==== 10K MANIAC ====
+
+1.5 업데이트로 난이도 14의 하드 패턴이 추가되었는데 그야말로 충격과 공포. 랑데뷰 코스트의 전례로 스크래치 도배일꺼라 어느정도 예상은 했지만 뚜껑을 열어보니 상상 그 이상의 스크래치 폭우가 쏟아진다. 양손 고스트 스크래치는 기본이고 한손에 32비트 스크래치를 처리하면서 반대편은 16비트 스크래치가 나오는 구간도 있고 한쪽을 롱노트 스크래치로 돌리면서 다른 한쪽은 16비트 스크래치로 처리해야 하는 구간까지 있다. 다만 레벨에 비하면 키노트는 상대적으로 별 볼일 없는 수준이지만 [A Site De La Rue]마냥 양쪽 무리 스크래치가 산개되어 나오며 경우에 따라서는 16비트로 막 비벼야하는 최악의 연주 방식을 낳고 있다.
+
+아직 양손 스크래치로 변형된지 얼마 안되서 유저들의 오른손 적응 문제를 감안하더라도 14라 보기엔 지나치게 어렵다.
+==== 14K MANIAC ====
+==== EZ2 Catch ====
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/O4O6M2KQNkc?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+LV.13 HD패턴
+==== Turntable ====

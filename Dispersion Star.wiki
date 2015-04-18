@@ -1,0 +1,73 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/KxcSIr60lbI" frameborder="0" allowfullscreen></iframe>
+}}}
+[스틸 크로니클] 빅트루퍼즈의 데모 루프 음악. 작곡은 [[ZUKI]].
+
+== [[BEMANI 시리즈]]에 수록 ==
+2014년 1월 23일 [[星屑のキロク]]과 함께 [[Dance Dance Revolution(2013)|댄스 댄스 레볼루션 2013]], [[유비트 소서]], [[리플렉 비트 콜레트]]에 동시수록되었다.
+
+=== [[리플렉 비트 시리즈]] ===
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/IEqQJ81XQtM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 180 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 94}}} || {{{#orange 210}}} || {{{#red 365}}} ||
+|| 수록버전 ||||||||<#ffffff> [[리플렉 비트 콜레트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 55 ||
+
+=== [[유비트 시리즈]] ===
+|||||||| [[유비트 시리즈|jubeat]] 난이도 체계 ||
+||<|2><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>6||<:>9||
+||<:>노트수||<:>137||<:>292||<:>528||
+||<:>BPM||||||<:>180||
+||||||||<#aaaaaa><:>아케이드 수록버전 및[[BR]]jubeat plus 수록 pack||
+||<:>아케이드 수록||||||<:><#ffffff>[[유비트 소서]] ~||
+||<:>iOS||||||<:>saucer fulfill pack 3||
+||<:>Android||||||<:>saucer fulfill pack 3||
+
+
+## jubeat plus Android 버전은 https://remywiki.com/Jubeat_plus_(Android) 을 참고.
+## (jubeat saucer 이후 수록곡중) Android 수록 여부를 모르는 경우에는 iOS와 동일하게 기재바람.
+## 이 주석을 제외한 채로 위의 표만 복사하지 말 것.
+## 이 주석은 2016년 2월 1일 이후로 일괄삭제함.
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * Dispersion '''Star'''[* 굵은 글씨는 칭호 파츠.] : 모든 보면 클리어
+  * 収束したら'''爆発'''しちゃう(수속하면 폭발해버린다) : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+2014년 1월 23일 지금만 악곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/EZjCPS0xGGU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+EXTREME의 경우, 초반에는 소소한 8비트 위주로 시작한다. 중간에 오른쪽 패널로 정박을 치는 분산형 패턴도 나온다. 분산형 패턴이 나온 후 본격적으로 16비트 난타가 나온다. 템포는 빠르지만 리듬은 정직한 편.
+
+=== [[댄스 댄스 레볼루션]] ===
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 9}}} || {{{#green 13}}} || {{{#purple --}}} ||
+||<|3><:> 180|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 9}}} || {{{#green 14}}} || {{{#purple --}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+곡 수록은 [[Dance Dance Revolution(2013)]]시절에 수록되었으나, 버전별 분류에서는 [[Dance Dance Revolution(2014)]]에 들어간다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/wBWa74GVYbI" frameborder="0" allowfullscreen></iframe>
+}}}
+ESP+DSP 영상

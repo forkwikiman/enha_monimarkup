@@ -1,0 +1,24 @@
+attachment:/36026_1.jpg 
+이미지 출처는 [[네이버]] 백과사전
+
+{{{#!html
+<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/26Eju9suYPQ?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/26Eju9suYPQ?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+생황으로 연주한 [wiki:"리베르탱고"리베르 탱고](Liber Tnago).
+<br>
+{{{#!html
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/k0tUs06U7Rc?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/k0tUs06U7Rc?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+생황과 [[단소]]로 병주한 [[수룡음]]
+
+笙簧
+
+[[한국]]과 [[중국]]의 전통 [[관악기]]. 본디 [[박]](바가지)으로 통을 만들었기 때문에 국악기 중 유일하게 포부(匏部)에 속한다.
+
+[[삼국시대]] 범종의 주악상에서도 보일 만큼 역사가 오래 되었지만 만드는 제작법이 워낙 까다롭고, 재료가 박이라 오랜 기간 사용하면 형태가 변형되고 내부가 부패하여 사용도 어렵다. 이 때문에 국내에서는 제작은 커녕 연주법도 크게 발달하지 못했다. 그래서 아직까지 생황은 중국에서 수입하거나 철제로 된 개량 생황을 이용한다.
+
+원래는 박통으로 만들었으나 현재는 나무를 박통 모양으로 깎아서 몸체로 삼는다[* [[악학궤범]]에도 박통 대신 나무를 쓴다는 언급이 있는 것으로 보아 이미 조선시대에도 나무를 사용했을 수 있다.]. 박통 모양의 한쪽 면 위에 돌아가며 구멍을 뚫고 거기에 길고 짧은 [[대나무]] 관을 꽂아서 만든다. 죽관의 개수는 본래 13개, 17개, 19개, 23개, 36개로 다양했고 관의 개수에 따라 이름도 생, 우, 황 등으로 다양했으나 오늘날 [[한국]]에서 쓰는 것은 17관짜리이고 이름도 생과 황을 합하여 '생황'으로 통일했다. 17관 중 한 관은 '윤관'이라고 해서 사용하지 않는다. 
+
+[[소리]]를 내는 원리가 [[하모니카]]와 같고 음색 또한 서로 많이 닮았다. 박통에 꽂힌 대나무관 위쪽에는 길쭉한 구멍을 뚫었고, 죽관 아래쪽 끝에는 지공을 뚫어 막으면 소리가 나고 열면 소리가 나지 않게 되어 있으며 그 안에 [[금속]][* 저음은 ?백동 고음은 ?황동]으로 만든 청을 달아 이것이 진동하면서 소리가 난다. [[하모니카]]와 마찬가지로 숨을 내쉬고 들이쉴 때 각각 소리가 나며 두세 지공을 한꺼번에 막으면 [[화성]]도 내는 것이 가능한 '''국악기 유일의 화음악기'''이다.[* 물론 wiki:"개량 가야금"25현금 이나 아악기인 ?슬 같은 경우는 양 손으로 뜯으면서 화음을 연주할 수 있다. 생황이 국악기 유일의 화음악기라는 말은 '현재까지 연주되는' '개량되지 않은' 악기로 한정해서인듯] 화음은 주로 3화음을 내는데, 2음은 옥타브 소리이며 1음은 4도 또는 5도 아래의 음을 낸다. 물론 구멍을 더 막으면 더 많은 음의 화음을 낼 수 있지만 그만큼 숨을 더 많이 불어넣어야 하기 때문에 화음을 많이 낼수록 힘들다. 음역은 黃(E플랫)부터 湳(C'')까지 16음을 낼 수 있다.
+
+[[자진한잎]] 등의 곡으로 [[단소]]와 병주를 많이 하는데 이를 '생소병주'라고 한다. 창작국악에서도 모양이나 음색이 특이해서 많이 사용된다는 듯. 특히 여러 구멍을 한꺼번에 막고 불면 의외로 [[오르간]]소리 비슷한 소리가 난다고 하며 숨의 강약을 조절해서 농음을 흉내내기도 한다. 생황 독주곡으로 '다문 손'이라는 작품이 있는데, 작곡노트를 보면 '생황의 형태는 손가락이 무지 많이 달린 기형적인 손 두 개가 마주 오무려 있는 것 같다'는 표현을 써 놓았다. ~~[[흠좀무]]~~
+
+[[각주]]

@@ -1,0 +1,39 @@
+ * 상위 항목: [[다연장로켓]]
+
+||{{{#!html
+<a href="http://www.desura.com/groups/artilleryloversgroup/images/jobaria-defense-systems-multiple-cradle-launcher" title="Jobaria Defense Systems multiple Cradle Launcher - Desura" target="_blank"><img src="http://media.desura.com/cache/images/groups/1/4/3039/thumb_620x2000/maxresdefault.jpg" alt="Jobaria Defense Systems multiple Cradle Launcher" width="560" /></a>}}}||
+
+||{{{#!html 
+<iframe width="640" height="360" src="//www.youtube.com/embed/QzC8NF9dIs0" frameborder="0" allowfullscreen></iframe>}}}||
+|| 아랍 에미리트 군 신형 자주식 다연장 로켓포 ||
+
+||{{{#!html 
+<iframe width="420" height="236" src="//www.youtube.com/embed/jXPSEuy4_uQ" frameborder="0" allowfullscreen></iframe>
+}}}||{{{#!html 
+<iframe width="420" height="236" src="//www.youtube.com/embed/pDW81UrKV1M" frameborder="0" allowfullscreen></iframe></iframe>}}}||
+||MCL 소개 영상 ||new Jobaria Defense System MCL Multiple Cradle 107/122mm Rocket Launcher at IDEX 2013 ||
+
+|||| MCL의 제원 ||
+||길이 || 29.0 m||
+||폭 || 4.0 m||
+||높이 || 3.8 m||
+||무게 || 완전무장시 105 톤||
+||항속 거리 || 450 km||
+||최대 속력 || 50 km||
+||무장 || 122 mm x 240기의 로켓 발사관||
+||승무원 || 3 명||
+
+[[목차]]
+== 개요 ==
+MCL(Multiple Cradle Launcher)은 [아랍 에미리트]와 [터키]가 공동으로 개발한 무기체계이다. 이것은 기존의 [[다연장로켓]] 4대를 한 기의 트럭에 탑재한 병기이다. 트럭은 6x6 트럭을 사용하며 로켓이 장착된 이동체계를 트럭이 견인하는 시스템이다. 이것은 사막에 특화된 체계로 보인다. MCL은 한번에 대량의 로켓을 투사함으로써 좁은 지역에 괴멸적인 피해를 줄것으로 예상된다. 유효 사정거리는 16km 정도이며 최대 사정거리는 37km이다. 한번에 240기의 로켓을 투사할 수 있다. 로켓은 직경 107mm, 122mm 및 300mm 크기의 3종을 발사할 수 있다.[* 터키군이 중국제 107mm 다연장로켓인 63식을 운용하니, 같은 탄약체계인 듯. 또한 122mm는 [BM-21]의 탄약이며, 터키군은 이 탄약을 사용하는 T-122라는 다연장로켓을 이미 운용하고 있다.]
+
+정확한 자료를 비교할 수 없지만 현존하는 병기 중 최대의 육상병기로 추정된다.
+
+== 참고 자료와 관련 문서 ==
+[http://en.wikipedia.org/wiki/Jobaria_Defense_Systems_Multiple_Cradle_Launcher Jobaria Defense Systems Multiple Cradle Launcher]
+[http://www.armyrecognition.com/united_arab_emirates_artillery_vehicles_systems_uk/jds_mcl_122mm_multiple_cradle_rocket_launcher_technical_data_sheet_specification_pictures_video.html Jobaria JDS MCL 122mm Multipe Cradle Rocket Launcher System]
+
+== 관련 항목 ==
+ * [[육군력]]
+ * [[아랍 에미리트군]]
+ * [[터키군]]

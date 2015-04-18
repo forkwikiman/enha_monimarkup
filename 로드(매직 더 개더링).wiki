@@ -1,0 +1,109 @@
+[[매직 더 개더링]]에 나오는 카드의 종류.
+
+자신과 같은 종족의 다른 생물의 능력을 올려주는 생물의 종류이다. 초창기는 피아를 가리지 않고 같은 종족이면 능력이 다 늘어났지만, 근래에 나온 Lord들은 상대 생물이 아닌 자신의 생물들만 능력이 늘어나게 되었다.
+
+과거에는 Lord라는 생물 타입으로 따로 존재하였으나, 10th Edition이 나온 뒤에 Lord라는 생물 타입은 없어지도록 [[에라타]]가 되었다.
+
+[[목차]]
+
+=== Bird ===
+ * [[Aven Brigadier]]
+ * [[Kangee, Aerie Keeper]]
+ * [[Soraya the Falconer]] [* 출시 당시에는 Falcon이라는 타입을 올려줬지만, 나중에 Bird로 통합되었다. 또한 자기 자신은 Bird가 아니다.]
+
+=== Elf ===
+ * [[Eladamri, Lord of Leaves]]
+ * [[Elvish Archdruid]]
+ * [[Elvish Champion]]
+ * [[Imperious Perfect]]
+
+=== Elemental ===
+ * [[Incandescent Soulstoke]]
+ * [[Master of Waves]] [* 자기 자신은 Elemental이 아니다.]
+
+=== Faerie ===
+ * [[Scion of Oona]]
+
+=== Goblin ===
+ * [[Dralnu's Crusade]]
+ * [[Goblin Chieftain]]
+ * [[Goblin King]]
+ * [[Goblin Warchief]]
+ * [[Mad Auntie]]
+
+=== Human ===
+ * [[Mayor of Avabruck]] / Howlpack Alpha [* 변신 전에는 Human을, 변신 후에는 Werewolf와 Wolf를 올려준다.]
+
+=== Illusion ===
+ * [[Lord of the Unreal]] [* 특이하게도 Illusion 종족의 로드이면서 자기 자신은 Illusion이 아니다.]
+
+=== Knight ===
+ * [[Auriok Steelshaper]] [* 자기 자신은 Knight는 아니고 Human Soldier이다.]
+ * [[Kinsbaile Cavalier]]
+ * [[Knight Exemplar]]
+
+=== Kithkin ===
+ * [[Wizened Cenn]]
+
+=== Kobold ===
+ * [[Kobold Drill Sergeant]]
+ * [[Kobold Overlord]]
+ * [[Kobold Taskmaster]]
+
+=== Merfolk ===
+ * [[Lord of Atlantis]]
+ * [[Merrow Reejerey]]
+ * [[Merfolk Soverign]]
+
+=== Minotaur ===
+ * [[Rageblood Shaman]]
+
+=== Rigger ===
+ * [[Steamflogger Boss]] [* 항목을 읽어보면 알겠지만 '''개그카드'''.]
+
+=== Skeleton ===
+ * [[Death Baron]] [* 자기 자신은 Skeleton은 아니다.]
+
+=== Sliver ===
+ * '''모든 [[Sliver]]들'''. Sliver들의 능력이 모두 '모든 Sliver는 ~을 얻는다'이다. 그 중 공방을 올려주는 Sliver로서는 Muscle Sliver와 Sinew Sliver가 있다.
+
+=== Soldier ===
+ * [[Auriok Steelshaper]]
+ * [[Aven Brigadier]]
+ * [[Captain of the Watch]]
+ * [[Daru Warchief]]
+ * [[Field Marshal]]
+ * [[Veteran Armorsmith]]
+ * [[Veteran Swordsmith]]
+
+=== Spirit ===
+ * [[Battleground Geist]]
+ * [[Briarknit Kami]]
+ * [[Drogskol Captain]]
+ * [[Gallows Warden]]
+
+=== Treefolk ===
+ * [[Timber Protector]]
+
+=== Vampire ===
+ * [[Bloodline Keeper]] / Lord of Lineage
+ * [[Bloodlord of Vaasgoth]]
+ * [[Captivating Vampire]]
+ * [[Stromkirk Captain]]
+ * [[Vampire Nocturnus]]
+
+=== Werewolf ===
+ * [[Immerwolf]] 
+ * [[Mayor of Avabruck]] / Howlpack Alpha [* 변신 전에는 Human을, 변신 후에는 Werewolf와 Wolf를 올려준다.]
+
+=== Zombie ===
+ * [[Cemetery Reaper]]
+ * [[Death Baron]]
+ * [[Diregraf Captain]]
+ * [[Lord of the Undead]]
+ * [[Undead Warchief]]
+ * [[Zombie Master]]
+
+=== 그 외 ===
+ * [[Adaptive Automaton]] [* 공방을 올릴 종족을 직접 하나 정한다.]
+ * [[Mikaeus, the Unhallowed]] [* Human이 아닌 종족만 능력을 올려준다.]

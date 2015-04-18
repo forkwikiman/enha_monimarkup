@@ -1,0 +1,82 @@
+[wiki:"../" '마작의 역'으로 돌아가기]
+
+||<tablebgcolor="#EDEDED">※ 이 문서는 국표마작의 역을 설명하고 있습니다.||
+
+역의 이름은 '표준 외래어 표기법에 따른 중국식 표현 (한자; 한국어 독음; 영문표기)'의 형태로 표기. 
+
+[[목차]]
+
+=== 이반가오(一般高; 일반고; Pure Double Chow) ===
+같은 종류의 똑같은 순쯔 2개. 일본 마작의 '일배구'에 해당된다.
+
+attachment:/1wan.gif attachment:/1wan.gif attachment:/2wan.gif attachment:/2wan.gif attachment:/3wan.gif attachment:/3wan.gif
+=== 시샹펑(喜相逢; 희상봉; Mixed Double Chow) ===
+다른 종류의 똑같은 순쯔 2개.
+
+attachment:/1wan.gif attachment:/2wan.gif attachment:/3wan.gif attachment:/1sou.gif attachment:/2sou.gif attachment:/3sou.gif
+=== 롄류(连六; 연륙; Short Straight) ===
+같은 종류의 숫자가 연속된 순쯔 2개.
+
+attachment:/1wan.gif attachment:/2wan.gif attachment:/3wan.gif attachment:/4wan.gif attachment:/5wan.gif attachment:/6wan.gif
+=== 라오사오푸(老少副; 노소부; Two Terminal Chows) ===
+같은 종류의 숫자가 각각 123, 789인 순쯔 2개.
+
+attachment:/1wan.gif attachment:/2wan.gif attachment:/3wan.gif attachment:/7wan.gif attachment:/8wan.gif attachment:/9wan.gif
+=== 야오주커(幺九刻; 요구각; Pung of Terminals or Honors) ===
+야오주패(1,9의 수패와 자패를 합쳐 이르는 말)의 커쯔.
+단 젠커, 취안펑커, 그리고 먼펑커와 겹칠 수는 없기 때문에, 삼원패와 장풍패, 자풍패는 여기에 해당되지 않는다.
+
+attachment:/9wan.gif attachment:/9wan.gif attachment:/9wan.gif
+이 경우 무조건 야오주커가 성립되나
+attachment:/sha.gif attachment:/sha.gif attachment:/sha.gif
+이 때가 서장(西場)이거나 자신이 서가(西家)인 경우 이 커쯔는 야오주커로 인정되지 않고, 취안펑커나 먼펑커로 취급된다. 어느 쪽에도 해당되지 않을 경우 야오주커 성립.
+=== 밍강(明杠; 명공; Melded Kong) ===
+말 그대로 [wiki:"마작의 룰#s-3.2" 밍깡]이 하나 있으면 된다.
+
+attachment:/3sou.gif attachment:/3sou.gif attachment:/3sou.gif attachment:/3souy.gif
+=== 췌이먼(缺一门; 결일문; One Voided Suit) ===
+한 종류만의 수패가 없는 역. 다시 말해 두 종류의 수패로 이루어진 역으로, 당연히 자패가 있어도 상관없다.
+
+attachment:/2pin.gif attachment:/2pin.gif attachment:/2pin.gif attachment:/3pin.gif attachment:/3pin.gif attachment:/7pin.gif attachment:/8pin.gif attachment:/9pin.gif attachment:/5sou.gif attachment:/6sou.gif attachment:/7sou.gif attachment:/ton.gif attachment:/ton.gif
+(보다시피 만수패가 없다.)
+=== 우쯔(无字; 무자; No honor) ===
+자패가 없는 역.
+
+attachment:/5wan.gif attachment:/5wan.gif attachment:/5wan.gif attachment:/3pin.gif attachment:/3pin.gif attachment:/7pin.gif attachment:/8pin.gif attachment:/5sou.gif attachment:/6sou.gif attachment:/6sou.gif attachment:/7sou.gif attachment:/7sou.gif attachment:/8sou.gif
+=== 볜장(边张; 변장; Edge Wait) ===
+미완성된 순쯔의 수패가 12나 89인 채로 팅, 3이나 7의 수패를 기다리는 대기를 '변장대기'라고 하는데, 국표마작에서는 변장대기로 날 경우 1점이 주어진다.
+
+attachment:/1wan.gif attachment:/2wan.gif
+대기 : attachment:/3wan.gif
+
+단, attachment:/1wan.gif attachment:/2wan.gif attachment:/2wan.gif attachment:/2wan.gif 같은 경우 [attachment:/1wan.gif]로도, [attachment:/3wan.gif]으로 역이 만들어지기 때문에 아무리 [attachment:/3wan.gif]으로 나도 이 점수를 적용할 수 없다.
+
+'''즉, 다중대기가 포함된 건 인정하지 않는다.'''
+=== 칸장(坎张; 감장; Closed Wait) ===
+미완성된 순쯔의 수패가 한 숫자 떨어져 있는 채로 팅, 그 사이의 숫자를 가진 수패를 기다리는 대기를 '감장대기'라고 하는데, 국표마작에서는 이 경우에도 1점이 주어진다.
+
+attachment:/1wan.gif attachment:/2wan.gif attachment:/2wan.gif attachment:/3wan.gif
+대기 : attachment:/2wan.gif
+위와 같은 경우, 22의 두이쯔가 존재한 상태에서 13의 미완성 순쯔를 완성하기 위한 감장대기나, 123의 순쯔는 이미 존재하는 걸로 치고 나머지 2로 뚜이쯔를 만들기 위한 단기대기로도 볼 수 있겠으나, 사실 이 경우에도 밑의 '단댜오장'이 성립해서 1점을 받으므로 어느 쪽이든 상관없다.
+
+단, attachment:/1wan.gif attachment:/3wan.gif attachment:/3wan.gif attachment:/3wan.gif 같이 [attachment:/1wan.gif]로도, [attachment:/2wan.gif]으로도 역이 만들어지는 다중대기가 포함된 역은 아무리 [attachment:/2wan.gif]으로 나도 이 점수를 적용할 수 없다.
+=== 단댜오장(单钓将; 단조장; Single Wait) ===
+두이쯔가 미완성된 상태로 팅, 이 두이쯔를 완성시켜줄 패를 기다리는 대기를 '단기대기'라고 하는데, 국표마작에서는 이를 '단댜오장'이라 부르며 이 상태에서 나도 1점을 준다.
+
+attachment:/1wan.gif attachment:/2wan.gif attachment:/2wan.gif attachment:/3wan.gif
+대기 : attachment:/2wan.gif
+이 경우 보는 각도에 따라 감장대기로도 볼 수 있지만 어느 경우에도 1점역이 성립되므로 상관없다.
+
+단, attachment:/1wan.gif attachment:/2wan.gif attachment:/3wan.gif attachment:/4wan.gif attachment:/5wan.gif attachment:/6wan.gif attachment:/7wan.gif 같이 [attachment:/1wan.gif]로도, [attachment:/4wan.gif]로도, [attachment:/7wan.gif]로도 역이 만들어지는 3중대기가 포함된 역은 저 세 패들 중 어느 패를 가져와도 두이쯔가 완성되는 형태지만 어느 쪽을 가져오든 이 점수가 적용되지 않는다.
+=== 쯔모(自摸; 자모; Self-drawn) ===
+국표마작에선 쯔모로 날 경우에도 1점이 추가된다.
+단, 이 역은 먼첸이 깨진 상태에서 쯔모로 날 경우에만 해당되며, 먼첸상태로 쯔모로 나면 이 역 대신 별도로 4점역 "부추런"이 추가된다. 
+=== 화파이(花牌; 화패; Flower Tiles) ===
+국표마작을 포함한 대부분의 중국 마작에서는
+attachment:/chun.png attachment:/ha.png attachment:/chu.png attachment:/tong.png attachment:/mae.png attachment:/nan.png attachment:/kuk.png attachment:/juk.png
+이 8개의 '화패'를 사용하는데, 이 화패의 용도는 다음과 같다.
+
+시작할 때 손패 안에 화패가 있거나 혹은 게임 도중 화패를 쯔모한 경우, '화(花)'를 선언하고 화패를 따로 분리시킨 뒤 다시 패산에서 쯔모를 한다.
+이후 그 플레이어가 8점을 채워서 나는데 성공하면 그 국에서 손패에 들어왔던 화패의 개수만큼 점수를 올리게 된다.
+
+ * 주의 : 화패의 점수는 어디까지나 부가 점수에 속하기 때문에 '''최소 和 점수인 8점을 채우는 데에 이용될 수 없다.''' 화패의 점수는 우선 그 역의 점수가 8점이 넘은게 확인된 후에 계산한다.

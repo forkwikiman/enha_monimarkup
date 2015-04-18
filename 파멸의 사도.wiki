@@ -1,0 +1,214 @@
+[[목차]]
+= [[도타 2]]의 [wiki:"도타 2/영웅" 영웅] 파멸의 사도 =
+||<tablewidth=268px>||||||<-100 bgcolor=#b9500b> http://hydra-images.cursecdn.com/dota2.gamepedia.com/3/3d/Doom_Bringer_icon.png [[br]] '''{{{#white 파멸의 사도}}}''' [[br]] '''{{{#white Doom}}}'''  ||
+||||||||<#000000>http://hydra-images.cursecdn.com/dota2.gamepedia.com/a/a9/Doom_Bringer.png||
+||||||||<#A83806>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/0/0e/Dire_icon.png/16px-Dire_icon.png '''{{{#white 다이어}}}'''  ||
+||||<width=33%><#282828>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/b/b0/Icon_Str_selected.png/32px-Icon_Str_selected.png  [[br]]'''{{{#white 26 + 3.2}}}'''  ||<width=33%><#282828>   http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/b/ba/Icon_Agi.png/32px-Icon_Agi.png  [[br]]'''{{{#white 11 + 0.9}}}'''  ||<width=33%><#282828>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/1/1f/Icon_Int.png/32px-Icon_Int.png  [[br]]'''{{{#white 13 + 2.1}}}'''  ||
+
+>[[wiki:"파멸의 사도/대사" '''파멸이 오리라!''']]
+
+||<tablewidth=268px>  '''레벨'''  ||  '''1'''  ||  '''16'''  ||  '''25'''  ||
+||<#dcdcdc>  '''체력'''  ||<#dcdcdc>  644  ||<#dcdcdc>  1594  ||<#dcdcdc>  2468  ||
+||  '''마나'''  ||  169  ||  598  ||  1079  ||
+||<#dcdcdc>  '''공격력'''  ||<#dcdcdc>  53-69  ||<#dcdcdc>  103-119  ||<#dcdcdc>  149-165  ||
+||  '''방어력'''  ||  0.54  ||  2.71  ||  6.36  ||
+||<#dcdcdc>  '''공격속도'''  ||<#dcdcdc>  0.65  ||<#dcdcdc>  0.74  ||<#dcdcdc>  0.89  ||
+||  '''이동 속도'''  ||<-100><:>  290  ||
+||<#dcdcdc>  '''회전 속도'''  ||<-100><#dcdcdc><:>  0.5  ||
+||  '''시야'''  ||<-100><:>  '''낮/밤'''[[br]]1800/800  ||
+||<#dcdcdc>  '''사정 거리'''  ||<-100><#dcdcdc>  150'''(근거리)'''  ||
+||  '''발사체 속도'''  ||<-100><:>  즉시  ||
+||<#dcdcdc>  '''공격 딜레이'''  ||<-100><:><#dcdcdc>  '''선+후'''[[br]]0.5+0.7  ||
+||  '''캐스팅 딜레이'''  ||<-100><:>  '''선+후'''[[br]]0.3+0.51  ||
+||<#dcdcdc>  '''기본 공격 속도'''  ||<-100><#dcdcdc>  1.7  ||
+
+||<tablebgcolor=#FFFFFF><-100><#dcdcdc><:> '''태그'''||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/d/d3/Pip_tank.png/24px-Pip_tank.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/5/52/Pip_carry.png/24px-Pip_carry.png ||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/0/04/Pip_ganker.png/24px-Pip_ganker.png ||
+||<#dcdcdc><:>'''생존력'''||<#dcdcdc><:>'''캐리'''||<#dcdcdc><:>'''누커'''||
+||<#dcdcdc><:>'''★★'''||<#dcdcdc><:>'''★★'''||<#dcdcdc><:>'''★'''||
+
+||<tablebgcolor=#FFFFFF><-100><#dcdcdc><:> '''성우'''||
+||http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png||<:> 존 패트릭 라우리 ||
+||http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png||<:> [[시영준]] ||
+
+|||||| 도타 2 출시 / 포팅 순서 ||
+||<:>[[고대 영혼]][[br]][[wiki:"악령(도타 2)" 악령]]||<:>'''파멸의 사도'''||<:>[[wiki:"첸(도타 2)" 첸]]||
+||||||<:>[http://dota2.gamepedia.com/June_24,_2011_Patch 업데이트가 신의 경지에 도달하였습니다 누가 좀 말려주세요][* 원본 스팀 패치로그 주소가 데드 링크가 되서 도타2위키로 대체]||
+== 배경 ==
+||불타고 있지만 타지 않는 파멸의 사도 루시퍼는 모든 것을 집어삼키면서도 절대 만족하는 일이 없으며, 살육을 탐하고 어떤 것에도 구속되지 않은 채 자신에 맞서는 자들에게 파멸을 선사한다. 그는 한때 빛 너머의 영역에서 유망한 장군이었으나 무릎을 꿇으라는 명령에 불복종한 죄로 추방당했고, 이제 불타는 칼끝으로 영혼들을 거두고 있다. 그의 이름은 바슌들의 거대한 종에 여섯 번이나 울려 퍼졌고, 그의 날개는 여섯 하고도 예순 번이나 불의 낙인이 찍혀 이제는 타버린 흔적만이 남아 있다. 루시퍼는 날개를 잃고 빛과 연결되어 있던 사슬에서 풀려나 비명을 지르며 지상으로 추락했다. 그가 떨어진 사막에는 구덩이만이 남았고, 이제 그에게 천국은 없었다. 그는 목적도 자비도 없이 적들을 공격하며, 어둠의 일곱 영역을 자유롭게 오갈 수 있는 살아 있는 유일한 존재가 되었다. 벗어날 수 없는 욕구에 채찍질당하며 상상도 할 수 없는 능력으로 뒤틀린 존재, 파멸의 사도가 나타나는 곳에서는 지옥이 펼쳐진다. 최후의 순간까지 복종을 거부했던 파멸의 사도는 결국 세상을 파멸로 이끌 것이다.||
+== 능력 ==
+=== 삼키기(Devour) Q/E ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/doom_bringer_devour_hp2.png||<width=30%><:>'''시전 대상'''[[br]]유닛||<width=30%><:>'''효과 대상'''[[br]]크립||||<width=20%><:>[http://www.youtube.com/v/hbJpllULcxo attachment:/avicon.png]||
+||<-100><|2>적이나 중립 크립을 흡수해 해당 유닛이 지니고 있는 특수 능력을 획득합니다.||
+||||
+||<-100>'''사정거리''' : 300[[br]]'''추가 골드량''' : 25 / 50 / 75 / 100||
+||http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 70/60/50/40||http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 60||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b7/Diffusal_Blade_tiny_dull_icon.png||
+||<-100>''루시퍼의 허기와 욕망은 결코 충족되지 않습니다.''||
+ * 파멸의 사도는 크립의 원래 현상금과 추가 골드량을 더한 양만큼의 골드를 얻습니다.
+ * 크립이 완전히 소화되기 전까지는 삼키기를 사용할 수 없습니다.
+ * 체력이 적은 유닛를 삼킬수록 빨리 소화시킵니다. 초당 체력 20을 소화시킵니다.
+ * 고대 크립, 기계, 공중 유닛을 삼킬 수 없습니다.
+ * 중립 크립을 대상으로 시전할 경우 이전 크립에게서 가져온 능력은 해당 크립의 능력으로 대체됩니다. '''능력이 없는 크립을 삼킨다면 이전 크립에게서 가져온 능력은 제거되지 않습니다.'''
+
+'''파멸의 사도가 사장이라 불리게 하는 능력.''' --[[회식]]겸 [[인수합병]]--
+
+마스터 시 40초마다 공짜 막타와 100 골드를 추가로 제공하므로, 사실상 미다스의 손을 능력로 가지고 있다고 봐도 된다. 여기에 진짜로 미다스까지 간 파멸의 사도를 20분 이상 파밍하게 내버려 뒀다면, 파멸의 사도가 중반부에 신광검, 타라스크의 심장, 돌격 흉갑처럼 겁나게 비싼 아이템으로 무장하고 나온다.
+
+이런 우월한 파밍 능력 덕분에 루시퍼는 도타의 4대 기업형 영웅 중 하나로 꼽힌다. 나머지 셋은 [wiki:"빛의 수호자" 빛회장], [wiki:"자연의 예언자" 퓨사장], [어비셜 언더로드|핏사장]이다.
+
+먹은 크립에 따라 능력을 추가하기 때문에, 파멸의 사도가 다양한 역할을 수행할 수 있게 해준다. 위에 굵게 표시해 놓았듯이, 능력을 보유하지 않은 크립을 삼키면 지금 갖고 있는 능력은 없어지지 않는다. 잃기는 아까운 능력을 보유했다면 약한 크립에게 쓰면 된다. 특정 크립을 노리고 있는 게 아니라먼 전선 크립에게도 바로바로 사용하여 최대한 골드 수급을 하는 게 좋다.
+==== 삼키기로 먹을만한 정글 크립과 크립이 가진 능력들 ====
+||<#282828><:>{{{#white --메뉴--크립 목록}}}||<#282828><:>{{{#white 크립이 가진 능력들}}}||<#282828><width=60%><:>{{{#white 설명}}}||
+||<:>사티로스 고문가||<:>사악한 오라[[br]]충격파||오라의 체력 회복은 초반에 매우 유용하며, 전선에 설 생각이라면 정글 한번 쓱 훑어보고 무조건 잡아먹는게 좋다. 체력 재생 4를 공짜로 얻는다. 충격파는 도망치는 상대를 잡을 수 있게 한다. 다만 충격파는 마나 소모가 높아 자주 쓸 수는 없다.||
+||<#dcdcdc><:>우두머리 늑대||<#dcdcdc><:>치명타[[br]]우두머리의 오라||<#dcdcdc>치명타는 파멸의 사도의 딜을 더 강하게 해주고, 오라는 공격력을 높여준다. 상승치가 워낙 좋아서 탱템만 둘러도 늑대를 먹으면 평타가 굉장히 아파진다. 파멸의 사도를 캐리로 운용한다면 중후반에 일반적으로 채택된다.||
+||<:>오거[[br]]얼음마법사||<:>얼음 갑옷||얼음 갑옷은 파멸의 사도의 없다시피한 방어력을 보완해준다. [[로샨]]을 잡을 때도 유용하다. 파멸의 사도로 캐리하지 못하게 되었다면 이걸 들고 아군을 지원해도 좋다.||
+||<#dcdcdc><:>고원 트롤 사제||<#dcdcdc><:>치유[[br]]마나 오라||<#dcdcdc>초반에 버틸 수 있게 하는 능력 구성이다. 힐은 마나 5를 소비해 체력 15을 회복시켜주고, 마나 오라는 삼키기와 불타는 대지를 쓸 마나를 충당해준다||
+||<:>코볼트 작업반장||<:>속도의 오라||이동속도 증가형 능력이 부족한 도타에서는 상황에 따라 요긴하게 사용된다.||
+||<#dcdcdc><:>켄타우로스 정복자||<#dcdcdc><:>전쟁의 발구르기||<#dcdcdc>전쟁의 발구르기는 범위에 2초 기절을 넣을 수 있다.  팀에 행동불능 능력이 부족할 때 먹고 점멸 단검을 사면 전투 개시를 할 수 있다.||
+||<:>어둠 트롤 소환사||<:>올가미[[br]]망자 일으키기||올가미는 1.5초동안 상대를 묶는 원거리 속박으로, 갱킹에 유용하다. 망자 일으키기로 소환되는 해골들은 너무 약해서 전투용으로는 불합격이고 정찰이나 정글링, 포탑 어그로를 받아주는 용도로 사용한다.||
+||<#dcdcdc><:>포악한 들새||<#dcdcdc><:>강인함의 오라[[br]]회오리||<#dcdcdc>강인함의 오라는 추가 방어력을 3 제공하고, 회오리는 정신집중을 유지하는 동안 40초 동안 초당 45씩 마법 피해를 주지만, 마나 소모량이 200이나 되고 정신집중을 하느라 아무것도 못하게 되므로 쓰지 않는 게 좋다. 회오리를 한가지 유용한 곳에 쓰는 방법이 있는데, 바로 강한 크립이 나오는 곳에 크립을 계속 중첩시키면서 레벨이 낮은 크립만 잡다가 웬만큼 중첩이 되면 멀~리서 회오리를 써서 한번에 다 쓸어담는 것이다!||
+||<:>지옥곰 분쇄자||<:>천둥발[[br]]신속의 오라||천둥발은 범위 내에 피해를 주고 이속과 공속을 감소시킨다. 공속 +15 오라도 좋다. 쓸모는 있지만 마나 소모가 100이므로 잘 생각하고 사용하자.||
+
+이렇게 수많은 크립의 능력들을 취향에 맞게 골라 쓸 수 있다. --골라 먹는 재미가 있다. 베스킨정글스 31 아니 [정글]이라더니 얘한텐 그냥 뷔페네.-- 자세한 건 [[도타 2/크립]] 항목을 참조하자.
+
+=== 불타는 대지(Scorched Earth) W/T ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/doom_bringer_scorched_earth_hp2.png||<width=20%><:>'''시전 대상'''[[br]]없음||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>'''피해 유형'''[[br]]마법||<width=10%><:>[http://www.youtube.com/v/Cma29C2JmqM attachment:/avicon.png]||
+||<-100><|2>주변의 지면을 화염으로 덮어 파멸의 사도의 체력 재생과 이동 속도를 증가시키며 적에게 피해를 입힙니다.||
+||||
+||<-100>'''효과반경''' : 600[[br]]'''지속시간''' : 10 / 12 / 14 / 16[[br]]'''초당 체력 재생/피해량''' : 12 / 18 / 24 / 30[[br]]'''이동속도 증가량''' : 16%||
+||||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 60/55/50/45||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 60/65/70/75||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/3/3e/Linken%27s_Sphere_tiny_dull_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b7/Diffusal_Blade_tiny_dull_icon.png||
+||<-100>''타락한 자가 지나가는 길마다 파멸을 흩뿌립니다. 불길은 그를 지탱해 주지만 다른 이들은 그곳에서 살아나갈 수 없습니다.''||
+ * 불길은 파멸의 사도의 현재 위치를 중심으로 일어납니다.
+ * 불타는 대지의 버프 효과는 파멸의 사도가 조종하는 다른 유닛에게도 영향을 미칩니다.
+ * 총 120 / 216 / 336 / 480만큼 체력을 회복하고 마법 피해를 입힙니다. 
+
+도주, 압박, 추격, 체력 유지에 좋은 능력이다. 마나 소모량도 적고 1레벨 회복량만 해도 목담과의 1.5배. 다만 쿨다운 시간이 꽤나 길다는 게 흠. 신광검과 궁합이 좋아서, 신광검을 사면 적의 체력을 초당 75씩 깎아먹을 수 있다. 초반 정글링에서 체력 회복 수단으로 사용할 수도 있고, 한타 때는 파멸의 사도의 매우 낮은 방어력을 보완하는 것도 가능하다.
+
+또한 파멸의 사도는 이동속도가 그리 빠르지 않은 편으로 위상변화 장화를 사용해도 파멸에 걸린 대상을 제대로 쫓아가지 못하기도 하는데 이러한 상황을 방지해준다. 다만 쿨다운 시간이 상당히 길어 대치 중에는 신중하게 사용해야 한다.
+=== 죽음의 레벨(LVL? Death) E/V ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/doom_bringer_lvl_death_hp2.png||<width=20%><:>'''시전 대상'''[[br]]유닛||<width=30%><:>'''효과 대상'''[[br]]적 영웅||<width=30%><:>'''피해 유형'''[[br]]마법||<width=10%><:>[http://www.youtube.com/v/dbLhai2msWU attachment:/avicon.png]||
+||<-100><|2>적 영웅의 영혼 일부를 소멸시켜 잠시 기절시키고 적의 레벨이 특정 숫자의 배수이거나 25라면 대상의 최대 체력의 20%에 해당하는 피해를 추가로 줍니다.||
+||||
+||<-100>'''사정거리''' : 600[[br]]'''피해량''' : 125 / 175 / 225 / 275 (+ 대상 최대 체력의 20%)[[br]]'''레벨 배수''' : 6 / 5 / 4 / 3 혹은 25||
+||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 8||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 110||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b9/Linken%27s_Sphere_tiny_icon.png||
+||<-100>''루시퍼가 그가 추방될 때 찍힌 불의 낙인을 나누어줍니다.''||
+
+--[[내리갈굼]]--
+
+상대의 레벨에 따라 피해량이 다르게 들어가는 특이한 능력이다. 레벨 배수에 따라 피해량이 달라지는데, 이 때문에 처음 찍으면 상대의 레벨이 6, 12, 18, 24일 때, 2레벨까지 올리면 상대 레벨이 5, 10, 15, 20, 25일 때 추가 피해를 준다. 그래서 파멸의 사도 유저는 이 능력을 2레벨까지 올리고 상대 레벨이 5일 때 죽음의 레벨을 빵빵 터뜨릴지, 아니면 정직하게 능력 레벨을 올릴지 한 번쯤 고민하게 된다. 
+
+과거에는 죽음의 레벨의 추가 피해량이 275이던 시절도 있었다. 이는 초중반을 박살낼 수 있는 무시무시한 누킹량이었고, 곧 최대 체력의 20%로 조정되었다.
+
+=== 파멸(Doom) R/D === 
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#F04010>http://media.steampowered.com/apps/dota2/images/abilities/doom_bringer_doom_hp2.png||<width=20%><:>'''시전 대상'''[[br]]유닛||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>'''피해 유형'''[[br]]순수,관통||<width=10%><:>[http://www.youtube.com/v/6fFIUnuh1r0 attachment:/avicon.png]||
+||<-100><|2>적 영웅에게 저주를 걸어 지속적인 피해를 주는 동시에 주문과 아이템을 사용하지 못하게 합니다. (지속효과 능력은 제거하지 않습니다.)||
+||||
+||<-100>'''사정거리''' : 550[[br]]'''지속시간''' : 15'''(16 / 파멸에 걸린 영웅이 거리 900 안에 있을 경우 무한대)'''[[br]]'''초당 피해량''' : 20 / 35 / 50'''(40 / 60 / 90)'''||
+||||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 100||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 150/200/250||
+||<-100>http://hydra-images.cursecdn.com/dota2.gamepedia.com/9/91/Black_King_Bar_tiny_partial_icon.png 피해와 효과 모두 주문 면역에 막히지 않지만 마법 보호막 효과에는 피해가 막힙니다.[[br]]http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/eb/Aghanim%27s_Scepter_small.png/16px-Aghanim%27s_Scepter_small.png 지속시간과 피해량이 증가하며, 파멸에 걸린 대상에게 파멸의 사도가 '''900''' 거리 안에 있을 경우 '''지속시간이 흘러가지 않습니다.''' 또한 지속 효과 능력도 봉쇄합니다.||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/9/91/Black_King_Bar_tiny_partial_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b9/Linken%27s_Sphere_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b7/Diffusal_Blade_tiny_dull_icon.png||
+||<-100>''바슌돌의 종에서 이름이 울려퍼지면, 파멸이 반드시 찾아옵니다.''||
+ * 파멸의 사도의 다른 능력보다 느린 0.5초의 발동 시간을 가집니다.
+ * 침묵과 달리 파멸은 대상의 아이템 효과를 봉쇄하며, 아가님으로 강화할 경우 지속 효과 능력도 봉쇄합니다.
+ * 파멸은 치명타나 회피, 오라 기반이 아닌 흡혈과 강타를 막습니다.
+ * 파멸에 걸린 유닛은 최대 체력의 25% 이하로 내려가면 아군에게 디나이될 수 있습니다.
+ * 총 450/750/1050 http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/eb/Aghanim%27s_Scepter_small.png/16px-Aghanim%27s_Scepter_small.png'''(800/1280/1760)'''의 피해를 입힙니다.
+
+'''YOU ARE --FIRED--DOOMED!''' 
+'''넌 --해고--파멸했다!!!'''
+
+이 짧고 굵은 대사를 듣는 순간 상대의 정신은 아득해진다.
+
+이 능력은 '''파멸의 사도를 픽하는 이유 그 자체다.''' 파멸의 사도의 상징이자 파멸의 사도가 모든 영웅의 카운터인 이유이다. 15초라는 긴 시간동안 상대 하나를 완전히 실업자로 만들어 버린다. 이거 하나로 파멸의 사도는 [[원소술사]], [[제우스(도타 2)|제우스]]처럼 능력으로 활약하는 영웅에게 파멸을 선고한다. 여기에 아가님의 홀을 사면 지속 효과 능력으로 먹고 사는 캐리에게도 파멸을 선사할 수 있다. [[유령 자객]]의 최후의 일격과 눈속임, [[얼굴없는 전사]]의 시간 가두기, 리키의 영구 투명화 등 대부분의 지속 효과들이 무력화되기 때문. 한타 때에 걸렸다면 4:5로 시작한다고 생각해도 된다. 운좋게 분신이 파멸했다면 모르지만. ~~[https://www.youtube.com/watch?v=Hgs6OVMPDd0 그런데 그것이 실제로 일어났습니다.]~~
+
+피해와 효과가 모두 마법 면역을 완벽하게 뚫고 들어가므로 '''칠흑왕의 지팡이도 소용이 없다'''. 모든 영웅에게 괴로운 능력이지만, 특히 능력으로 활약하는 영웅으로 신나게 싸우다가 파멸에 걸리면 키보드를 내다 던지고 싶어진다. ~~[[원소술사]]의 눈물~~
+
+이런 능력이 대부분 그렇듯이 한타 중반에 쓰면 낭비가 되는 경우가 있으니 꼭 한타 시작한다 싶으면 눈치껏 최우선 타겟을 [[고자]]로 만들어버리자. 궁극기를 한타 끝나고 딸피가 된 적을 마무리할 때 쓰는 경우가 잦은데, 이 능력은 피해량보다는 적을 무력화하는데 의의가 있으니 꼭 한타를 시작할 때 써야 한다. 한타 끝나고 도망가는 적 잡으려고 파멸 써봤자 어느 정도 실력이 되는 중수방 이상에서는 죽기 전에 디나이를 시전하는 경우가 대부분이다. 킬 욕심 부리지 말고 꼬박꼬박 써주자.
+
+또한 한타 시작하자마자 뒤에 있는 지원형 영웅이나, 전투개시자를 잡으려고 궁극기 쓰고 돌격하는 것도 금물이다. 이럴 경우 쫓아가서 그 서포터 잡는 동안 잘 성장한 하드캐리나, [[원소술사]]처럼 강력한 누커가 아군을 학살할게 뻔하기 때문이다. 그러니 돈이 된다면 재생의 구슬을 사서 [[훼이크다 이 병신들아]]!!를 외치면서 한 번 더 질려주자. 재생의 구슬은 무척 비싼 아이템이지만, 어차피 파멸의 사도는 돈을 무척 잘 버니 이 정도 [[돈지랄]]은 괜찮다. 당하는 입장에서는 죽을 맛일 것이다.
+
+아가님을 구입하면 적이 파멸의 사도 주위 900 범위 안에 있을 경우 '''지속시간이 줄어들지 않으며''' 지속 효과 능력까지 봉쇄하는, 진짜 정신나간 효과가 추가된다. 게임상에서는 파멸의 지속시간을 표시하는 초시계가 멈추는 것으로 표현된다. ~~[[스타 플라티나 더 월드|내가 타이머를 멈췄다...]]~~ 만약 한타에서 맨 앞에 나섰는데 아가님 파멸에 걸리면 그냥 [[생각하는 것을 그만두었다|살 생각을 그만두면]] 된다.
+
+린켄의 구슬에 파멸을 헛날리면 그대로 한타 내내 파멸의 사도는 큰 활약을 할 수 없으므로 상대의 템창을 잘 확인한 뒤 링켄의 구슬이 보이면 죽음의 레벨을 먼저 사용해주는 습관을 들이자.
+
+6.82 이전 버전에서는 아가님 없이도 지속 효과 능력을 무효화해버리는 씹는 사기 능력이었다. 따라서 한타를 말 그대로 4vs5로 만들어버릴 수 있었고, 덕분에 파멸의 사도는 도타 올스타즈의 금테라둠 시절부터 너프 직전인 2014년 중반까지도 악명이 높았다.
+== 추천 아이템 ==
+||<tablebgcolor=#000000>||||||||||<-6 bgcolor=#B75E5E>  '''{{{#white 추천 아이템}}}'''  ||
+||<#FFF0F0> '''시작 아이템''' ||http://media.steampowered.com/apps/dota2/images/items/branches_lg.png||http://media.steampowered.com/apps/dota2/images/items/tango_lg.png||http://media.steampowered.com/apps/dota2/images/items/flask_lg.png||http://media.steampowered.com/apps/dota2/images/items/flask_lg.png||http://media.steampowered.com/apps/dota2/images/items/stout_shield_lg.png||
+||<#FFF0F0> '''게임 초반''' ||http://media.steampowered.com/apps/dota2/images/items/ring_of_health_lg.png||http://media.steampowered.com/apps/dota2/images/items/magic_stick_lg.png||http://media.steampowered.com/apps/dota2/images/items/boots_lg.png||http://media.steampowered.com/apps/dota2/images/items/ring_of_basilius_lg.png||
+||<#FFF0F0> '''핵심 아이템''' ||http://media.steampowered.com/apps/dota2/images/items/magic_wand_lg.png||http://media.steampowered.com/apps/dota2/images/items/vanguard_lg.png||http://media.steampowered.com/apps/dota2/images/items/phase_boots_lg.png||
+||<#FFF0F0><|2>'''상황별 아이템'''||http://media.steampowered.com/apps/dota2/images/items/radiance_lg.png||http://media.steampowered.com/apps/dota2/images/items/heart_lg.png||http://media.steampowered.com/apps/dota2/images/items/assault_lg.png||http://media.steampowered.com/apps/dota2/images/items/shivas_guard_lg.png||http://media.steampowered.com/apps/dota2/images/items/ultimate_scepter_lg.png||
+||http://media.steampowered.com/apps/dota2/images/items/refresher_lg.png||http://media.steampowered.com/apps/dota2/images/items/heavens_halberd_lg.png||
+
+파멸의 사도에게는 딱히 핵심 아이템이라고 부를 게 없다. 뭘 먹느냐에 따라 캐리도, 누커도, 전투개시자도, 지원형 영웅도 될 수 있고, 우수한 파밍 능력으로 [wiki:"황금만능주의" 겁나게 비싼 아이템을 사서 뭐든지 할 수 있기] 때문이다. 상황에 따라 알맞은 아이템을 사자.
+
+ * '''점멸 단검''' : 파멸의 사도의 초중반 기여도를 높여주는 핵심 아이템으로 손꼽히는 아이템이다. 궁극기인 파멸의 사정거리가 애매한 것도 해결해주며, 발구르기로 전투개시를 할 수도 있다.
+ * '''돌격 흉갑''' : 파멸의 사도는 방어력이 매우 낮지만, 힘 상승치가 상당해서 체력이 많은 영웅이라 탱커로 운영해도 그리 문제될 것은 없다. 약점인 방어력과 부족한 공격속도마저 보완해주니 거의 후반 필수템으로 꼽히곤 한다.
+ * '''시바의 은총''' : 서둘러 뽑는 아이템은 아니지만 일단 뽑았다면 충분히 그 값을 하는 아이템. 준수한 한타용 능력 효과도 있고, 방어력도 우수하고, 부족한 마나도 해결해주기 때문이다.
+ * '''메칸즘''' : 파멸의 사도의 낮은 방어력을 보충해 줄 뿐다러 파멸의 사도는 메칸즘을 15분도 안되서 뽑을 수 있다. 오프레인/정글 파멸의 사도에게 인기있는 아이템이다.
+ * '''아가님의 홀''' : 궁극기를 무지막지하게 강화시켜 주지만, 공방이나 대회에서나 자주 갈 기회는 없다. 공방에선 파멸을 박으면 아군들이 그 적을 다굴해서 빨리 죽이기 때문에 궁극기의 지속 시간을 늘릴 이유가 없고, 대회에선 파멸의 사도 대비책으로 [첸(도타 2)|첸]을 골라 메칸즘->신의 손길로 파멸에 걸린 대상을 구하거나 멀리 도망친 다음에 디나이시키기 때문. 하지만 적 팀에 [[취권도사|단단하고]] [[파도사냥꾼|능력]] [[용기사(도타 2)|의존도가]] [[켄타우로스 전쟁용사|높은]] [[도끼전사|영웅]]이 있다면 가는 것도 나쁘지는 않을 것이다. 게다가 6.82 버전 부터는 파멸이 아가님이 없으면 지속 효과 능력을 막을 수 없는지라 더욱 중요도가 높아졌다.
+ * '''재생의 구슬''' : 쉽게 갈 아이템은 아니지만 가는데만 성공한다면 그야말로 [[대마왕]]이 된 기분일 것이다. 한타 때 2명에게 파멸을 선고할 수도 있고, 파멸의 쿨이 돌고 있을 때도 한타를 열 수 있기 때문이다.
+ * '''타라스크의 심장''' : 모든 힘 영웅의 친구. 그렇찮아도 탱키한 파멸의 사도를 그야말로 레이드 보스(...)로 만들어 준다.
+ * '''칠흑왕의 지팡이''' : 왠만한 마법 공격과 CC기를 막아주는 아이템으로, 상대가 광역스턴 및 무력화 능력이 많거나 후반으로 들어서면 가주도록 하자.
+== 운영 및 공략 ==
+attachment:/ceo_doom.jpeg
+~~도타 2 [[wiki:"빛의 수호자"파]][[wiki:"자연의 예언자"밍]] [[wiki:"어비셜 언더로드"4천왕]] 중 하나인 파멸의 사장의 위엄.~~ [[http://hsi274.blog.me/130169241226 출처]]
+
+파멸의 사도 운영법은 3가지 정도로 나뉜다. 
+
+첫번째는 돈을 잘 버는 캐리로 육성을 하는 것인데, 이전에는 이게 정석이었지만 지금은 한물 간 운영 방법이다. 파멸의 사도는 아이템 빨을 그렇게 잘 받는 영웅이 아니라서 결국 적을 템에서 앞질러야 캐리 역할을 할 수 있는데, 사실 이건 [[연금술사(도타 2)]]가 더 잘하기 때문이다. 궁극기를 발동한 연금술사가 템빨을 무척 잘 받는다는 걸 생각하면 더더욱 그렇다.
+
+두번째는 중부에 파밀이를 세워서, W의 체력 회복과 Q의 앵벌이 능력으로 전선에서 최대한 오래 버티면서 빠르게 템을 맞추고 레벨을 빨리 올린 뒤 파멸로 적의 누커나 캐리를 엿먹이는 안티 캐리이자 탱커로 활용하는 운용 방법이다. 파멸의 사도의 장점을 잘 살릴 수 있는 운용 방법이지만, 중부에서 [[허스카]]나 [[바이퍼(도타 2)]]처럼 악랄한 깡패가 나왔다면 적을 파멸시키기 전에 자기가 파멸할 수 있으니 주의하자. 
+
+현 시점에 공방에서 가장 인기있는 빌드는 바로 정글러다. 정확히는 정글을 도는 지원형 빌드로, [[수정의 여인]]이나 [[모래 제왕]]처럼 정글을 돌 수 있다는 점, 빠른 골드 수급 능력과 Q로 먹은 정글 크립의 능력을 사용할 수 있다는 점과 강력한 궁극기를 이용한 운용법이다. 정글을 꾸준히 돌면서 돈을 벌다가 자신과 아군의 마나 수급을 위해 신비의 장화를 먼저 뽑고, 이후 정글에 있는 켄타우로스 정복자를 먹어서 발구르기를 획득한 뒤, 궁극기와 발구르기를 이용해 갱킹으로 적을 압살하고 점멸 단검을 빨리 뽑은 뒤 갱킹과 전투개시, 탱킹을 주도하는 빌드다. 이후 Q의 골드 수급 능력을 살려, 메칸즘이나 파이프, 현시의 보석처럼 와딩이나 소모템을 사느라 항상 쪼들리는 서포터를 대신해 팀 전체에게 필요한 아이템을 사는 식으로 운영한다. 대회에서 파멸의 사도가 나오면 5명 모두 다 상대 정글에 칩입해 정글존에 와딩을 하러 총출동하는걸 보면, 정글을 도는 파멸의 사도가 얼마나 위협적인지 알 수 있다. 
+
+그러다가 요즘은 정글러보단 오프레이너로 사랑받고 있다. 아이템 빌드는 비슷하지만 삼키기로 멀리서도 돈을 수급할 수 있고, 불타는 대지로 생존을 보완할 수 있기 때문.
+
+== 치장 아이템 ==
+=== 무기 ===
+||<tablealign=center><:>'''오모즈의 눈
+'''Eye of Omoz||<:>'''용암의 파편
+'''Molten Fracture||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/4/40/Cosmetic_icon_Eye_of_Omoz.png/256px-Cosmetic_icon_Eye_of_Omoz.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/3/3f/Cosmetic_icon_Molten_Fracture.png/256px-Cosmetic_icon_Molten_Fracture.png||
+||<:>'''{{{#8847ff 신화(Mythical)}}}'''||<:>'''{{{#4b69ff 희귀(Rare)}}}'''||
+
+~~파멸의 사도답게 [wiki:"데스윙" 파괴자]가 드랍하는 [wiki:"굴타라크 - 심연의 목소리" 무기]도 있다~~
+
+||<tablealign=center><:>'''타락의 파편
+'''Corrupted Shard||<:>'''화염제조기
+'''Pyre||
+||<:>http://hydra-media.cursecdn.com/dota2.gamepedia.com/thumb/0/04/Cosmetic_icon_Corrupted_Shard.png/256px-Cosmetic_icon_Corrupted_Shard.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/f/f0/Cosmetic_icon_Pyre.png/256px-Cosmetic_icon_Pyre.png||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}'''||<:>'''{{{#4b69ff 희귀(Rare)}}}'''||
+=== 세트 아이템 ===
+||<tablealign=center><:>'''종말을 부르는 화염 세트
+'''The Apocalyptic Fire Set||<:>'''11가지 저주의 부담 세트
+'''The Burden of Eleven Curses Set||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/3/3f/Cosmetic_icon_The_Apocalyptic_Fire_Set.png/256px-Cosmetic_icon_The_Apocalyptic_Fire_Set.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/8/87/Cosmetic_icon_The_Burden_of_Eleven_Curses_Set.png/256px-Cosmetic_icon_The_Burden_of_Eleven_Curses_Set.png||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}''' 9.99$||<:>'''{{{#4b69ff 희귀(Rare)}}}''' 11.99$||
+
+||<tablealign=center><:>'''임박한 무질서의 세트
+'''Impending Transgressions Set||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/4/4b/Cosmetic_icon_Impending_Transgressions_Set.png/256px-Cosmetic_icon_Impending_Transgressions_Set.png||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}''' 10.99$||
+
+== 트리비아 ==
+ * TFT DotA에서 처음 나왔으며 [[도타 올스타즈]]에선 0.95 버전부터 등장했다. 이 당시 모델은 [[에레다르]]를 사용했다. 남아있는 능력 중 이 당시의 흔적이 남아있는 건 궁극기 파멸 하나 뿐이다. 구인수 버전을 거치면서 Neichus가 작업한 결과 삼키기[* 이 때의 삼키기는 래더의 [코도 비스트]와 동일한 능력이었다.]와 죽음의 레벨이 추가되었고, 얼개 버전으로 와서야 불타는 대지와 삼키기가 잡아먹은 크립의 능력을 가져오는 지금과 같은 능력 구성을 갖추게 되었다.
+ * 도타2가 처음 출시됬을 때부터 나온 46명의 최초의 영웅들 중 하나이다.
+ * [[그림자 악마]]와 [[그림자 마귀]]와 같이 악마어 [[오즈카보쉬]]를 구사하는 지옥의 군주급 악마이다. 상호간의 대사를 들어보면 오즈카부쉬의 악마 군주 중에선 계급이 가장 높은 듯 하다.
+ * 생긴 걸 보면 의외겠지만 중립 크립의 능력을 가져오는 삼키기와 레벨의 일정 배수를 만족하면 추가 피해량을 주는 [wiki:"레벨 5 데스" 죽음의 레벨]은 [[파이널 판타지 시리즈]]의 [[청마도사]] 패러디다. 파이널 판타지의 청마도사 또한 몬스터가 사용하는 능력을 배워서 사용하는 직업이다.
+ * 파멸의 사도의 이름은 당연히 [wiki:"루시퍼" 성서의 그 분]에서 유래했다.
+ * [[도타 2]]로 오면서 칭호가 Doom Bringer에서 Doom으로 변했다.[http://gall.dcinside.com/board/view/?id=dota2&no=40065&page= ~~사실 페덱스에서 짤려서 이름이 바뀐거라 카더라~~] 다만 한국어 번역명은 Doom Bringer에서 파생됐다. ~~그냥 파멸로 번역해도 멋있을 거 같은데~~
+ * [[폭풍령]]을 싫어하는 것 같다. 별다른 접점도 없으면서 폭풍령을 죽였을 때의 대사가 다섯 가지나 되고, 그 중에는 '''"좀 닥쳐라, 폭풍령!"'''이라는 대사도 있다. 재밌는 것은 둘의 영판 성우가 같다는 것.[* 설정 상으론 둘은 별 연관이 없지만, 게임 내에서는 파멸의 사도의 궁극기가 대표적인 폭풍령의 카운터로 꼽히기 때문. 어떻게 픽밴을 풀어나가도 스톰을 처리할 방법이 없을 것 같다는 느낌이 드는 순간 서포트 파멸의 사도가 뛰쳐나온다. 아가님+재생의 구슬+점멸 단검+염동력 지팡이 라는 극단적인 빌드를 들고...][http://www.nerfnow.com/comic/1060 짜증나는 파리를 응징하는 루시퍼].
+ * 죽음의 레벨 대사중에 '[wiki:"수학귀신" 악마는 숫자에 강하지]'라는 말이 있다.
+
+=== [[도타 올스타즈]] ===
+||<tablebgcolor=#000000>http://media.playdota.com/hero/37/icon.gif||<#dcdcdc><-100><:>'''둠 브링거'''''Doom Bringer''[[br]]루시퍼''Lucifer''||
+||<-100><#000000><:>http://media.playdota.com/hero/37/character.gif||
+||http://media.playdota.com/hero/37/skill-0.gif||http://media.playdota.com/hero/37/skill-1.gif||http://media.playdota.com/hero/37/skill-2.gif||http://media.playdota.com/hero/37/skill-3.gif||
+
+||루시퍼는 버닝 리젼의 첫 공습 때 어둠의 왕 사게라스의 둠 가드 친위부대장이었다. 사게라스가 죽고 난 뒤, 그는 스콜지에 합류하여 그가 섬기던 주인의 못다한 임무를 수행하고 있다. 지옥의 열화로 적의 영혼을 불태워버리며, 끝없는 욕심을 충족시키기 위해 약한 자들을 한번에 먹어치우기도 한다. 루시퍼는 단 한명의 생존자도 남기지 않으며, 자신의 분노에 감히 대항하는 자들은 고통스럽게 불타면서 천천히 찾아오는 파멸을 맞이할 수 있도록 배려해준다.||
+
+[[도타 올스타즈]] 시절의 모델은 [[둠 가드]]의 것을 썼다.

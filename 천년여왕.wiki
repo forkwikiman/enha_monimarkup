@@ -1,0 +1,35 @@
+attachment:queen_millennia.jpg
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/GkdceuMCqxc" frameborder="0" allowfullscreen></iframe>
+}}}
+원본 오프닝.
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|206182761/20090301200300705082901001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|206182761/20090301200300705082901001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>
+}}}
+방영 당시의 한국판 오프닝. [김국환]씨가 부르셨다. 나중에 [[투니버스]]의 [스튜디오 붐붐]에서 보여준거라 투니버스 로고가 달려 있다.
+{{{#!html
+<iframe src="//player.vimeo.com/video/26948379" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/26948379">Queen Millennia Movie Ending - Dara Sedaca "Angel queen"</a> from <a href="http://vimeo.com/user5083404">KEIN</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+}}}
+극장판 엔딩곡 
+
+
+新竹取物語1000年女王
+
+[[1981년]]작 [[일본 애니메이션]], 전 42화 완결.
+
+[[마츠모토 레이지]]의 레이지버스에 들어가는 작품. [[은하철도 999]], [[하록 선장]]에 시간적 배경은 모두 이 작품 뒤를 잇는다고한다. ~~사실은 끼워 맞추기임~~
+
+원작은 1981~1983년까지 [[산케이 신문]]과 [[니시닛폰 스포츠]][* 당시 산케이 신문은 [[큐슈]] 지역과 [[야마구치]] 현에선 발행되지 않았기 때문에, 해당 지역에선 볼 수가 없어서 여기에도 연재한 것이다.]에서 연재되었다. 특이한 점은 매주 월요일~금요일마다 1페이지씩 연재해 1000페이지로 완결을 냈다. 만화 제목이 '''1000년여왕''' 이란 걸 생각하면 꽤 기묘한 ~~드립~~특징.
+
+일본의 유명설화인 키구야 공주 이야기를 소재로 하여 지구에 근접한 별 라메탈에서 주기적으로 내려온 여자 아이가 지구 역사에 개입하게 되고[* 신공황후(!), 클레오파트라, 양귀비, 엘리자베스 1세등이 모두 라메탈에서 파견된 천년여왕이라고 한다. 세계대전등의 여러 사건도 라메탈의 음모였고] 1999년 멸망에 이르게 된 라메탈에서 지구를 점령하려는 음모에 맞서서 지구인들과 구 천년여왕[* 설정상 이전에 파견된 천년여왕이 죽거나 임무에 실패할 경우 라메탈에서 새로운 여왕이 파견되는 것이다. 극중 나오는 천년도둑도 구판 천년여왕이고 극이 진행되면서 새로운 여왕이 파견되는 일도 벌어진다], 그리고 새로운 여왕간의 애증을 다룬 작품.
+
+[[한국]]에서는 [[MBC]]를 통해 [[은하철도 999]]의 후속작으로[* 정확하게는 은하철도 999도 조기종영 후 명절 특선으로 꾸려나갔다.] 1983년 1월 23일에 방영을 시작했고 은철의 멤버들이 거의 전부 더빙에 참여하는 등[* 유일한 예외가 할머니나 천년도둑을 더빙한 할미넴 김영옥(!)]의욕적으로 방영되었고 처음에는 유니버셜 영화사가 제작한 '''미국 만화'''로 소개되었으나 신사에서 기모노 입고 다니는 장면이 그대로 방영되는 등의 문제와 알고보니 천년여왕이 [[타케토리모노가타리|일본의 신화]]에 근거했다는 여론에 따라 방송한지 두 달 만에 10화로 종영되었다. 하지만 완전히 종영된 것은 아니었고, 은하철도 999나 우주전함 야마토처럼 공휴일 또는 명절 특선만화 방영으로 편성이 바뀌어 1984년 현충일을 끝으로 최종 종영되었다.[* http://ko.wikipedia.org/wiki/%EC%B2%9C%EB%85%84%EC%97%AC%EC%99%95 에서 가져옴]
+
+[[DVD]]는 듀크필름이라는 [[듣보잡]] 업체가 2010년 말에 출시한 적이 있는데, 주로 고전영화를 출시하는 것으로 볼 때 [[무판권 DVD]] 발매 업체로 추정된다.
+
+원작에서는 천년여왕이 메텔짝퉁 얼굴을 하고 있으나 애니판에서는 지나치게 메텔의 인상을 준다는 이유로 지금의 얼굴로 바뀌었으며 이 얼굴이 더 인상적이라는 평도 있다 ~~그리고 벗지 않는다~~ 
+
+한국에서도 오상환이 동명의 만화를 새소년에 연재했으나 일본 연재가 끝나기 전에 먼저 연재를 끝내서 천년여왕이 지구인들을 데리고 우주로 이주하고 주인공만 생명체가 없는 지구에 홀로 남는 현시창인 결말로 마무리지었다.
+
+레이지버스와의 관계 문제인데 원작에서는 신화처럼 천년여왕이 라메탈로 돌아가지만 애니판에서는 자폭하게 된다. 이후 메텔의 엄마로 나오는 레이지버스의 이야기는 모두 원작을 기준으로 만든 것.

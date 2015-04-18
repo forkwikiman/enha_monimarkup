@@ -1,0 +1,36 @@
+[[목차]]
+
+== 개요 ==
+||http://ec5.images-amazon.com/images/I/61zApifzgqL._SL500_AA300_.jpg||http://ec2.images-amazon.com/images/I/518sXZIGuUL._SL500_AA300_.jpg||
+|| [[wiki:"가정교사 히트맨 REBORN!" REBORN]] 반 || GOING 반 ||
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='JBpWz_d0lXg$' width='640px' height='480px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=JBpWz_d0lXg$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=JBpWz_d0lXg$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+PV 영상
+
+일본의 락 밴드 'GOING UNDER GROUND'의 싱글음반 및 수록곡. 싱글음반은 2010년 5월 9일에 발매되었다. 오리콘 차트 일간 및 월간랭킹 최고순위는 각각 12위, 19위.
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='640' height='360' id='NFPlayer08423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E2F6CB40C3815201E83DBA35DA6FADBC9C45&outKey=V125f27f0d42374e8b654a26d7f39fd5efbc110abbde94a81583ba26d7f39fd5efbc1' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=E2F6CB40C3815201E83DBA35DA6FADBC9C45&outKey=V125f27f0d42374e8b654a26d7f39fd5efbc110abbde94a81583ba26d7f39fd5efbc1' wmode='window' width='640' height='360' allowScriptAccess='always' name='NFPlayer08423' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+[[가정교사 히트맨 REBORN!]]의 8번째 오프닝 테마로 수록되었다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>8||
+||<#ffffff><:>노트수||<:>212||<:>452||<:>664||
+||<#ffffff><:>BPM||||||<:>182||
+||<#ffffff><:>곡 이력||||||[[유비트 니트 어펜드]]에서 첫 수록[[BR]][[유비트 소서]]에서 2013/8/1 교체[[BR]][[유비트 소서]]에서 2014/1/1 재수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임 안에서 쓰는 자켓은 GOING반 자켓.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/DCcUZegX4hE" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면 영상
+
+박자를 파악하기에는 어려울 수 있지만 전체적으로 딱 레벨8 수준의 배치를 보여준다. 2-1-2-1... 식으로 나오는 노트에 조심하자.

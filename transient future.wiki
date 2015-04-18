@@ -1,0 +1,13 @@
+'''transient future'''
+
+{{{#!html
+<object id='egloosPlayer' name='egloosPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00' width='480' height='400'><param name='movie' value='http://v.egloos.com/v.sk/egloos/f0063295%7C1339788/20090131190100001131831701' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><param name='flashvars' value='useCodePage=0&enableJS=0' /><embed src='http://v.egloos.com/v.sk/egloos/f0063295%7C1339788/20090131190100001131831701' name='egloosPlayer' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' width='480' height='400' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' flashvars='useCodePage=0&enableJS=0' /></object>
+}}}
+[http://www.nicovideo.jp/watch/nm5991698 니코동 원본]
+
+2009년 1월 30일, [[메구리네 루카]]가 발매된 당일 업로드된 [[VOCALOID 오리지널 곡]]. 제작자는  [[otetsu]]. [[별들의 유토피아]]의 제작자이기도 하며 같은 날 별들의 유토피아를 업로드한지 몇 시간 지나지 않아 이 곡을 업로드한 것으로 화제가 되었다. 별들의 유토피아에 비해 동적인 분위기의 곡.
+
+메구리네 루카의 초기작으로서 많은 관심을 받으며 업로드된지 이틀 뒤인 2월 1일 [[VOCALOID]] 명예의 전당에 등극, 주간 VOCALOID 랭킹#70에서 3위를 차지했다. (당시 쟁쟁한 후보들이 많았는데, 1위가 유성P의 [[RIP=RELEASE]], 2위가 별들의 유토피아였다.)
+2010년 8월 현재 조회수 39만을 기록하고 있다.
+
+곡과는 별로 상관없지만 동영상의 코멘트가 "루카는 나의 신부"로 도배되어 '''일처다부제'''라는 태그가 붙어있다.(...) 초기 루카의 곡이란 점에서인지 루카 팬들의 순례가 이어졌기 때문.

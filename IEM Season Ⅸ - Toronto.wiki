@@ -1,0 +1,114 @@
+ * 상위 항목: [Intel Extreme Masters]
+
+attachment:IEM2014.PNG?width=350
+
+[[목차]]
+= 개요 =
+ * 메인 스폰서: [인텔]
+ * 주최: [Electronic Sports League]
+ * 리그 기간: 2014년 8월 28~31일
+ * 개최 장소: [캐나다] [토론토]
+ * 맵
+  * 폭스트롯 랩
+  * 까탈레나
+  * 님버스
+  * ["세종과학기지#s-2"세종과학기지]
+  * 만발의 정원
+  * ["회전목마#s-2"회전목마]
+  * 데드윙
+= 이모저모 =
+[[SPOTV GAMES]]가 [[IEM Season Ⅷ - World Championship]], [[IEM Season Ⅸ - Shenzhen]]에 이어 3연속으로 IEM 한국어 중계를 담당하게 되었다. [[채민준]] 캐스터와 [[고인규]], [[유대현]], [[안준영]] 해설이 중계진으로 참여했다.
+= 예선 =
+
+= 본선 =
+== 출전 선수 ==
+연청색에 해당하는 선수는 스테이지 2부터 출전한다. 초청받은 선수들은 16강 탈락 시 포인트를 받지 못한다.
+
+||<tablealign=center> ||<-4><#7CB9E8> attachment:Ticon_small.png ||<-4><#F4C2C2> attachment:Zicon_small.png ||<-4><#70F170> attachment:Picon_small_1.png ||
+|| || '''지역''' || '''소속''' || '''국적''' || '''성명''' || '''지역''' || '''소속''' || '''국적''' || '''성명''' || '''지역''' || '''소속''' || '''국적''' || '''성명''' ||
+||<|8><#FFFF00> 스테이지 1 출전 || Europe || ["Teamliquid"attachment:Liquidlogo_std.png] || attachment:Dk.png || || America || ["compLexity Gaming"attachment:Complexitylogo_std.png] || attachment:Ca.png || || America || [attachment:Ivd_std.png][[br]]IvDgaming || attachment:Ca.png || ||
+|| Korea || ["진에어 그린윙스"attachment:Green_Wings_std.png] || attachment:Kr.png || || America || ["Evil Geniuses"attachment:Eglogo_std.png] || attachment:Kr.png || || America || attachment:Eglogo_std.png || attachment:Ca.png || ||
+|| America || (무소속) || attachment:Ca.png || || America || ["mYinsanity"attachment:Myinsanitylogo_std.png] || attachment:Ca.png || || America || [attachment:Planetkey_std.png][[br]]Planetkey Dynamics || attachment:Kr.png || ||
+|||||||| || Korea || ["yoe Flash Wolves"attachment:Flash_wolves_std.png] || attachment:Kr.png || || America || attachment:Ivd_std.png || attachment:Us.png || ||
+|||||||| || America || (무소속) || attachment:Kr.png || || America || [attachment:Microgamerz_std.png][[br]]Micro GamerZ || attachment:Ca.png || ||
+|||||||| || America || ["ROOT Gaming"attachment:Rootlogo_std.png] || attachment:Us.png || || America || (무소속) || attachment:Ca.png || ||
+|||||||| || Europe || attachment:Liquidlogo_std.png || attachment:No.png || || Europe || attachment:Myinsanitylogo_std.png || attachment:Kr.png || ||
+|||||||| || Korea || ["StarTale"attachment:Startalelogo_std.png] || attachment:Kr.png || || Korea || ["CJ 엔투스"attachment:CJEntuslogo_std.png] || attachment:Kr.png || ||
+||<|2><#6CA0DC> 와일드카드 || America || attachment:Liquidlogo_std.png || attachment:Kr.png || || America || ["Team ROCCAT"attachment:Roccatlogo_std.png] || attachment:Kr.png || || Korea || attachment:Green_Wings_std.png || attachment:Kr.png || ||
+|||||||||||||||| || Europe || (무소속) || attachment:Kr.png || ||
+||<|2><#6CA0DC> 미주 예선 통과 || America || attachment:Rootlogo_std.png || attachment:Mx.png || || America || ["Team Acer"attachment:Acerlogo_std.png] || attachment:Ca.png || ||
+|| America || (무소속) || attachment:Kr.png || || America || (무소속) || attachment:Kr.png || ||
+||<#6CA0DC> 캐나다 예선 통과 || America || attachment:Rootlogo_std.png || attachment:Ca.png || ||
+||<#6CA0DC> 유럽 예선 통과 || Europe || [attachment:TCMGaminglogo_std.png][[br]]TCM-Gaming || attachment:Kr.png || |||||||| || Europe || attachment:TCMGaminglogo_std.png || attachment:Kr.png || ||
+||<#6CA0DC> 아시아 최종 예선 통과 || Korea || ["KT 롤스터"attachment:Rolsterlogo_std.png] || attachment:Kr.png || |||||||| || Korea || attachment:Rolsterlogo_std.png || attachment:Kr.png || ||
+== 일정 ==
+=== 스테이지 1 ===
+
+=== 스테이지 2 ===
+||<tablealign=center><-6> '''A조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]최성훈 || 0 || 2 || [attachment:Ticon_small.png]Bunny || 까탈레나, 만발의 정원 ||
+|| 2경기 || [attachment:Picon_small_1.png]주성욱 || 1 || 2 || [attachment:Ticon_small.png]윤영서 || {{{#ff0000 세종과학기지}}}, 회전목마, 폭스트롯 랩 ||
+|| 승자전 || Bunny || 0 || 2 ||<#FFD700> 윤영서 || 회전목마, 만발의 정원 ||
+|| 패자전 || 최성훈 || 1 || 2 || 주성욱 || 회전목마, {{{#ff0000 만발의 정원}}}, 폭스트롯 랩 ||
+|| 최종전 || Bunny || 0 || 2 ||<#FFD700>  주성욱 || 세종과학기지, 회전목마 ||
+
+||<tablealign=center><-6> '''B조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]김동환 || 1 || 2 || [attachment:Zicon_small.png]이동녕 || {{{#ff0000 만발의 정원}}}, 세종과학기지, 데드윙 ||
+|| 2경기 || [attachment:Ticon_small.png]최병현 || 2 || 1 || [attachment:Zicon_small.png]고석현 || {{{#ff0000 회전목마}}}, 세종과학기지, 폭스트롯 랩 ||
+|| 승자전 || 이동녕 || 1 || 2 ||<#FFD700> 최병현 || 세종과학기지, {{{#ff0000 회전목마}}}, 폭스트롯 랩 ||
+|| 패자전 || 김동환 || 2 || 1 || 고석현 || {{{#ff0000 만발의 정원}}}, 세종과학기지, 회전목마 ||
+|| 최종전 || 이동녕 || 1 || 2 ||<#FFD700> 김동환 || 만발의 정원, {{{#ff0000 세종과학기지}}}, 까탈레나 ||
+
+||<tablealign=center><-6> '''C조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Ticon_small.png]MaSa || 0 || 2 || [attachment:Zicon_small.png]Snute || 님버스, 폭스트롯 랩 ||
+|| 2경기 || [attachment:Picon_small_1.png]강현우 || 0 || 2 || [attachment:Picon_small_1.png]김유진 || 만발의 정원, 세종과학기지 ||
+|| 승자전 ||<#FFD700> Snute || 2 || 0 || 김유진 || 님버스, 세종과학기지 ||
+|| 패자전 || MaSa || 0 || 2 || 강현우 || 님버스, 만발의 정원 ||
+|| 최종전 ||<#FFD700> 강현우 || 2 || 0 || 김유진 || 만발의 정원, 세종과학기지 ||
+
+||<tablealign=center><-6> '''D조''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]Scarlett || 1 || 2 || [attachment:Zicon_small.png]이승현 || {{{#ff0000 님버스}}}, 만발의 정원, 세종과학기지 ||
+|| 2경기 || [attachment:Ticon_small.png]이영호 || 1 || 2 || [attachment:Picon_small_1.png]장민철 || 만발의 정원, {{{#ff0000 폭스트롯 랩}}}, 회전목마 ||
+|| 승자전 ||<#FFD700> 이승현 || 2 || 0 || 장민철 || 만발의 정원, 세종과학기지 ||
+|| 패자전 || Scarlett || 0 || 2 || 이영호 || 세종과학기지, 폭스트롯 랩 ||
+|| 최종전 || 장민철 || 0 || 2 ||<#FFD700> 이영호 || 회전목마, 만발의 정원 ||
+=== 결선 스테이지 ===
+||<tablealign=center><-6> '''8강전''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 ||<#FFD700> [attachment:Zicon_small.png]이승현 || 3 || 0 || [attachment:Picon_small_1.png]강현우 || 회전목마, 데드윙, 만발의 정원 ||
+|| 2경기 ||<#FFD700> [attachment:Picon_small_1.png]주성욱 || 3 || 0 || [attachment:Ticon_small.png]최병현 || 회전목마, 세종과학기지, 만발의 정원 ||
+|| 3경기 ||<#FFD700> [attachment:Ticon_small.png]윤영서 || 3 || 1 || [attachment:Zicon_small.png]김동환 || 님버스, 까탈레나,[[br]]{{{#ff0000 회전목마}}}, 세종과학기지 ||
+|| 4경기 ||<#FFD700> [attachment:Ticon_small.png]이영호 || 3 || 2 || [attachment:Zicon_small.png]Snute || {{{#ff0000 회전목마}}}, {{{#ff0000 데드윙}}}, 세종과학기지,[[br]]님버스, 폭스트롯 랩 ||
+
+||<tablealign=center><-6> '''준결승전''' ||
+|| || '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || [attachment:Zicon_small.png]이승현 || 1 || 3 ||<#FFD700> [attachment:Picon_small_1.png]주성욱 || {{{#ff0000 세종과학기지}}}, 회전목마,[[br]]데드윙, 만발의 정원 ||
+|| 2경기 || [attachment:Ticon_small.png]윤영서 || 1 || 3 ||<#FFD700> [attachment:Ticon_small.png]이영호 || {{{#ff0000 님버스}}}, 데드윙,[[br]]회전목마, 세종과학기지 ||
+
+||<tablealign=center><-5> '''결승전''' ||
+|| '''{{{#ff0000 선수}}}''' || {{{#ff0000 승점}}} || {{{#0000ff 승점}}} || '''{{{#0000ff 선수}}}''' || '''{{{#128d12 맵}}}''' ||
+||<#FFD700> [attachment:Ticon_small.png]이영호 || 4 || 1 || [attachment:Picon_small_1.png]주성욱 || 까탈레나, {{{#ff0000 세종과학기지}}},[[br]]회전목마, 데드윙, 님버스 ||
+= 결과 =
+||<tablealign=center> '''순위''' || '''상금''' || '''포인트''' ||<-6> '''성명''' ||
+||<#FFD700> 우승 || 10000달러|| 750점||<-6> 이영호 ||
+||<#C0C0C0> 준우승 || 4000달러|| 500점||<-6> 주성욱 ||
+||<#8C7853> 3위 || 2000달러|| 375점||<-3> 이승현 ||<-3> 윤영서 ||
+||<|2> 5위 ||<|2> 1000달러||<|2> 250점||<-3> 강현우 ||<-3> 최병현 ||
+||<-3> 김동환 ||<-3> 얀스 오스골드 ||
+||<|2> 9위 ||<|2> 400달러|| 125점||<-3> 패트릭 브릭스 ||<-3> 이동녕 ||
+|| 0점||<-3> 김유진 ||<-3> 장민철 ||
+||<|2> 13위 ||<|2> 350달러|| 125점|||| 최성훈 |||| 마루 킴 |||| 사샤 호스틴 ||
+|| 0점||<-6> 고석현 ||
+= 통계 =
+ * 종족별
+
+ * 국적별
+
+ * 지역별
+
+= 총평 =
+한 줄로 요약이 가능하다. '''[["갓라인" 신이 돌아오셨다.]]''' --하지만 iem에서 모든 힘을 쏟아 부은 이영호는 꿀조라고 자신있게 말한 gsl 16강 D조에서 거짓말같이 탈락하고 만다.-- --농담이 아니라 진짜로 단기포스 최강의 ["이신형"누군가]가 생각된다.--

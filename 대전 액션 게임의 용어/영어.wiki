@@ -1,0 +1,44 @@
+영미권에서의 [[대전 액션 게임]] 용어를 정리한 것
+
+
+[[가드 캔슬]], [[리버설]]등 외래어 가운데 영미권의 단어와 같은 용어는 기재하지 않음
+
+
+ * [[가드 데미지]] - Block damage, Chip
+ * [[가드 불능]] - Unblockable, 가드불능기는 Unblockable moves나 Unblockable attacks이라고 부른다.
+ * [[가드유지]] - Alternate guard
+ * [[강제연결]] - Links
+ * [[견제기]] - Pokes, '견제하다'는 단어는 Poking, [[리그 오브 레전드]]의 포킹을 생각하면 된다
+ * 공중낙법 - Air tech
+ * [[낙법]] - Recovery, Recovery roll, Ground tech 낙법불능은 Hard knockdown
+ * [[깔아두기]] - Meaty
+ * [[니가와]] - [[wiki:"거북" Turtling]]
+ * [[대공기]] - Anti-air, Uppercut, Dragon punch
+ * [[대시]] - 대시 가운데 레버를 유지하고 있으면 달리는 것을 Run이라고 한다.
+ * [딜레이캐치] - Punish
+ * [[무적시간]] - Invincible, Invincibility frame
+ * [[무한콤보]] - Infinity combo, 많이 반복해서 때릴 수는 있는데 분명 한계가 있는 콤보는 Loop combo라고 한다
+ * [[반격기]] - [wiki:"카운터" Counter], 보통 우리가 말하는 [카운터] 히트는 Counter hit로 표기한다.
+ * [[삑사리]] - Drop
+ * [[사기캐릭터]] - Top tier, Overpowered[* 흔히 롤에서 말하는 OP]
+ * [[스턴]] - Stun, Dizzy, Groggy (이 중 Stun은 [[세스(KOF)]]의 쌍장승양 등 큰 경직에 빠진 상태 등을 말하기도 한다)
+ * [[안전 점프]] - Safe jump
+ * [[약캐릭터]] - Bottom tier, Underpowered
+ * [[역가드]] - Cross-up, Xup
+ * [[이지선다]] - Mix ups, Mind games 
+ * 잡기 - 보통 Grab, Throw이고 KOF시리즈에서의 타격 잡기를 제외하고 종류에 따라 다음과 같은 수식어가 붙는다.
+  * [[기본잡기]] - 수식어 없음. 그냥  Grab, Throw
+  * [[공중 잡기]] - Air
+  * [[커맨드 잡기]]- Command
+   * [[대공 잡기]] - Anti-air
+   * KOF 시리즈 한정 [[타격 잡기]] - Proximity unblockable 
+   * [1프레임 잡기] - Instant(One Frame)
+   * [[무적 잡기]] - 무적이 있던 없던 느린 잡기는 Delayed
+ * [[잡기풀기]] - Tech throw, Tech grab
+ * [[장풍]] - Fireball, Projectile
+ * [[캔슬]] - Buffering, Cancel, XX
+ * [[크로스 카운터]] - Trade
+ * [[특수기]] - Command normals 
+ * [[파동승룡]] - Shoto[* 스파2 이전 류/켄의 유파가 '승도관 공수도'라는 설정이었었는데, 승도의 훈독인 쇼토가 [[풍림화산류]] 캐릭터를 의미하는 용어로 정착된듯 하다.]
+ * [[필살기]] - Special move, 참고로 초필살기는 각각 격투게임마다 다름, KOF시리즈에서는 Desperation move, 스트리트 파이터에서는 Super combo, Super arts등등. 보통은 Super라고 간단히 부른다.
+

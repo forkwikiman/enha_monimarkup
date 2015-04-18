@@ -1,0 +1,123 @@
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡가는 Dios/シグナルP(시그널P), 사용한 보컬로이드는 [[카가미네 린·렌|린&렌]].
+
+굉장히 신나는 일렉트로니카 계열곡으로, [[카가미네 린·렌|린&렌]]의 아버지(?) 라고 불리우는 시그널P 답게 곡과 가사와 보컬의 조화가 잘 이루어져있다.
+
+=== 가사 ===
+||<#eeeeee>
+一人きり座り込む
+혼자 주저앉아서
+
+聞こえる街のざわめき
+들려오는 거리의 웅성거리는 소리에
+
+孤独を感じるようで
+고독을 느끼는 것 같아서
+
+それがまた心地いい
+그게 또 기분 좋아
+
+一人きり寝転がる
+홀로 드러누워서
+
+全身布団かぶって
+온 몸에 이불을 뒤집어쓰고
+
+時間が過ぎ去るのをただ
+시간이 흘러가는 걸 단지
+
+じっと耐えているだけ
+그저 견뎌낼 뿐
+
+大人は何もわかってないし
+어른들은 아무것도 모르는 주제에
+
+やること全部邪魔する
+하고싶은 걸 전부 방해만 해
+
+大人は何もしてくれないのに
+어른들은 아무것도 해주지 않는 주제에
+
+やること全部押し付ける
+할 일을 전부 떠맡겨
+
+どれを信じて
+어느 걸 믿으며
+
+何をすればいいの？
+무얼 하면 돼?
+
+信じられるのは自分だけ
+믿을 수 있는 건 나 자신밖에 없어
+
+とても可愛い私です
+저는 매우 귀엽습니다
+
+ちゃんと話聞いてます
+제대로 얘기 듣고 있어요
+
+嫌いキライ大嫌い
+싫어 싫어 정말 싫어
+
+余計なお世話です
+쓸 데 없는 참견이에요
+
+放っておいてあっち行って
+내버려 두고 저 멀리 가서
+
+誰も当てにしてないから
+아무도 상대해주지 않으니
+
+みんなわかったフリする
+다들 잘 아는 척을 해
+
+近寄らないで！
+가까이 오지 마!
+||
+제목의 뜻인 '반항기'를 잘 나타내고 있으며, [[허세|공주병]] 같은 부분도 있다.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/udgBdFZs9Ng" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0012_rebellious_stage_dios_jacket_n.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0012_rebellious_stage_dios_jacket_a.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0012_rebellious_stage_dios_jacket_e.jpg?width=150 || attachment:rebellious_stage_dios_jacket_i.jpg?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 06}}} || {{{#ff009f 10}}} || {{{#448844 13}}} ||
+|| 체인 수 || {{{#purple 0295}}} || {{{#orange 0516}}} || {{{#ff009f 0745}}} || {{{#448844 1108}}} ||
+|| 일러스트 담당 || {{{#purple eimy♥}}} || {{{#orange ロアー}}} || {{{#ff009f KENKEN}}} || {{{#448844 eimy♥}}} ||
+|| 이펙터 || {{{#purple Megacycle}}} || {{{#orange Megacycle}}} || {{{#ff009f Megacycle}}} || {{{#448844 TEK-A-RHYTHM}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 02(2012.1.18)}}} || {{{#ff00ec II 05(2013.8.2)}}} ||
+|| [[BPM]] |||||| 160 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} ||<|3> 통상해금 ||<|3> 통상해금 ||
+|| {{{#orange ADVANCED}}} ||
+|| {{{#ff009f EXHAUST}}} ||
+|| {{{#448844 INFINITE}}} || 1200 || 이 곡의 EXHAUST 패턴을 AA 이상 클리어 또는 이 곡을 10회 플레이 ||
+
+변경점
+|| 2012/10/03 ||ADVANCED, EXHAUST 자켓 변경(SDVX FLOOR 공모전 당선작)||
+|| 2013/08/02 ||INFINITE 패턴 추가||
+
+자켓의 소녀는 [[사운드 볼텍스/캐릭터#코우키|코우키]]라고 하는데, [[미사카 미코토|전기를 발산하는 모 츤데레]]랑 많이 닮았다.
+
+EXH 자켓에는 몇몇 캐릭터들이 숨어있다. [[나나이로]]의 코우게- 시엘 나나, [[ヒマワリ]] MUZIK SERVANT Remix의 히마와리(陽真和里), [[moffing]]의 [[못피]], 츠마부키가 숨어있다. [https://twitter.com/kagome_kenken/status/253844036610306048 정답은 여기에.]
+
+{{{#!HTML
+<object width="450" height="600"><param name="movie" value="http://www.youtube.com/v/f4ksS0jtl10?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/f4ksS0jtl10?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="450" height="600" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 PUC 영상
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/LAMCT2c_uJM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/LAMCT2c_uJM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+INF 패턴 얼티밋 체인 영상
+
+난이도는 사운드 볼텍스 전체를 통틀어 봤을때 전부다 쉬운곡에 속한다. 처음 사운드 볼텍스를 접하는 사람은 ADVANCED에 도전해봐도 괜찮을정도다. ~~하지만 [[凛として咲く花の如く|대표 사골곡]] 때문에 안될꺼야 아마~~ 자켓 이미지를 봐도 [[미사카 미코토|모 츤데레]]가 있어서 선곡율이 좋을거 같은데, 의외로 선곡율이 적다.

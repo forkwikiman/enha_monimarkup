@@ -1,0 +1,56 @@
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡은 [[RoughSketch]]. 중간중간에 나오는 목소리의 정체는 DD"ナカタ"Metal. 2014년 발매된 하드코어 앨범 PUPPET NIGHTMARE에 Extended 버전이 실려있다. 다만 디지털 음원버전 앨범에는 수록되어있지 않고 실물 앨범에만 실려있는 곡이니 듣고 싶으면 참고하도록 하자.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/gw6vX8Tk_MQ?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '하이텐션 four-on-the-floor 인스트로 오리지널 곡'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/09/jk_001_0070_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/09/jk_001_0070_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/09/jk_001_0070_1.jpg?width=150 || attachment:/distortedfloor_inf.jpg?width=150 ||
+|| 난이도 || {{{#purple 06}}} || {{{#orange 11}}} || {{{#ff009f 14}}} || {{{#448844 15}}} ||
+|| 체인 수 || {{{#purple 0661}}} || {{{#orange 1121}}} || {{{#ff009f 1473}}} || {{{#448844 1948}}} ||
+|| 일러스트 담당 || {{{#purple Silly Gang}}} || {{{#orange Silly Gang}}} || {{{#ff009f Silly Gang}}} || {{{#448844 Silly Gang & P-MAN}}} ||
+|| 이펙터 |||||| [[MAD CHILD]] || {{{#448844 MAD CHILD Nightmare}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 09(2012.8.10)}}} || {{{#ff00ec II 39(2014.07.18)}}} ||
+|| [[BPM]] |||||| 95~180 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 07 C코스(2014.11.20 ~ 2014.12.26)
+
+||<bgcolor=#E9ECEF>
+처음 뵙겠습니다! 삿포로에서 Notebook Records라는 하드 코어 레이블을 운영하고 있습니다. RoughSketch(러프스케치)이라고 합니다.
+SOUND VOLTEX의 four-on-the-floor 인스트로 오리지널 곡 컨테스트[* 원문은 ４つ打ちインストコンテスト]수상, 감사합니다! 기쁩니다!
+음성 샘플을 협력해 주신 DD"나카타"Metal 씨도 기쁘다고 말 했었어요! 기쁘고 기쁘다!
+음악은 꽤 격렬해서, 묵직하고, 녹슨 GABBA, 하드 코어 테크노 계 트랙입니다.
+플레이 해 주실 수 있으면 더욱 기쁩니다!
+다음에는 플로어에서 만납시다!
+
+- 당선자 코멘트 -
+||
+
+자켓의 캐릭터는 [[사운드 볼텍스/캐릭터#미스_더블_디|미스 더블 디]]와 INF 한정 [[사운드 볼텍스/캐릭터#본키치|본키치]].
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/sx4e_pL2sXk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+BPM 변화는 130→127→110→95→180이며, 180에 맞춰두는 것이 편하다. 1분 28초부터 난이도가 올라간다. FX 롱 노트 두개를 누르면서 BT 숏 노트를 쳐야 하는 부분도 있고, [[세계는 고양이의 것]]에서 나온 노브 패턴에서 BT 노트 두개씩 쳐야 하는 부분을 특히 주의해야 한다. 그리고 곡이 끝날 때 즈음에는 [[PULSE LASER|레인이 한 바퀴 돌아갔다고 해서 방심하면 안된다]].
+
+{{{#!HTML
+<iframe width="360" height="640" src="//www.youtube.com/embed/YJs-ffWHPGU?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+INF 패턴 PUC 영상
+
+2014년 7월 18일, 모든 패턴을 제작했던 MAD CHILD의 INF 패턴이 추가되었다. MAD CHILD 뒤에 Nightmare를 붙인 명의로 EXH처럼 킥음 비트를 기반으로 변속 구간 직후의 노브 흔들기 + FX 숏노트 + 알약 패턴, 직각 노브 + 모든 버튼을 커버하는 원핸드 동시치기, [[BLACK or WHITE]]의 노브 + 롱노트 동시입력, FX 롱노트 + 트릴 등등 처음부터 끝까지 원핸드와 동시치기 위주의 패턴으로 이루어진 중상급-상급 패턴. EX클리어 도전 시에 주의해야 할 구간은 초반 변속 이후 나오는 뱀노브+번갈아치기 패턴과 후반부 클라이막스 돌입 직전에 나오는 [[BLACK or WHITE]]의 노브+롱노트 동시입력 구간이다. 이 부분에서 말리게 되면 바로 TRACK CRASH가 되어버리니 반드시 주의하면서 플레이할 것.
+
+[[각주]]

@@ -1,0 +1,45 @@
+[[목차]]
+
+== 팝픈뮤직 ==
+
+||||<tablealign=center> '''[[猫叉Master]]의 CONTEMPORARY NATION 시리즈''' ||
+|| CONTEMPORARY NATION[[br]][[BEYOND THE EARTH]][[br]]팝픈뮤직 10 CS || CONTEMPORARY NATION 2[[br]][[サヨナラ・ヘヴン]][[br]]팝픈뮤직 11 CS ||
+|| CONTEMPORARY NATION 3[[br]][[Echoes]][[br]]팝픈뮤직 16 PARTY♪ || CONTEMPORARY NATION 4[[br]][[Tree in Lake ~消えたチチカカの木~]][[br]]팝픈뮤직 17 THE MOVIE ||
+|| CONTEMPORARY NATION 5[[br]][[The Sky of Sadness]][[br]][[팝픈뮤직 19 TUNE STREET]] || CONTEMPORARY NATION 6[[br]]'''砂塵カゲロウ'''[[br]][[팝픈뮤직 Sunny Park]] ||
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/qQy5bIFuPO4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||砂塵の彼方に一筋の陽炎。ゆらめく魂は遥か遠くへ。
+모래먼지 저편에 한 줄기의 아지랑이. 흔들거리는 영혼은 아득히 먼 곳으로.||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music[[br]]Sunny Park || CONTEMPORARY NATION 6[[br]]컨템포러리 네이션 6 || 砂塵カゲロウ[[br]]모래먼지 아지랑이 || 猫叉Master[[br]]네코마타마스터 || Yima[[br]]이마 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 90 || 50단계 || {{{#blue -}}} || {{{#green 17}}} || {{{#orange 29}}} || {{{#red 40}}} ||
+|||| 노트 수 || {{{#blue -}}} || {{{#green 226}}} || {{{#orange 468}}} || {{{#red 860}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+작곡은 [[猫叉Master]]. 컨템포러리 네이션 시리즈의 6번째 작품이자 최신작이다. 4와 5에서 담당캐릭터가 되지 못했던 이마가 이번 곡에서 다시 담당캐릭터가 되었다. 난이도는 컨템포러리 네이션 시리즈 중 가장 쉽다.
+이 곡은 원래 猫叉Master의 3집 앨범 Crevice에 수록되어 있었지만 팝픈워커 이벤트로 이식되었다. 이식되면서 음정이 낮아진 것이 특징.[* 이와 완전히 반대의 경우로 [[CALL]]이 있다. [[wiki:"beatmania IIDX 19 Lincle"투덱 링클]]에서 최초 수록, 이후 음정을 높여서 앨범에 롱버전이 수록]
+
+== 아티스트 코멘트 ==
+
+||사막에 홀로 남겨져 쓰러질 수도 없는 절망 속에서,
+「아! 저거 오아시스 아냐!?」같은 희망을 가진 자가
+「삐삐- 아쉽지만 틀렸습니다. 아지랑이랍니다.」
+같은 기습을 받는 듯한 일은 이 세상에 너무도 많잖아요.
+흔히 말하는 엎친 데 덮친 격 이란 겁니다.
+그런 우울한 심정을 모래먼지에 떠오르는 아지랑이에 빗대 보았습니다.
+
+그런겁니다.
+그런 곡입니다. 이건.
+
+가끔은 의도적으로 깊게 침울해지도 싶을 때도 있잖아요.
+그럴 때는 부디 플레이 해주세요.
+여러분의 플레이 진심으로 기다리고 있겠사옵니다.
+
+
+- [[猫叉Master]]||

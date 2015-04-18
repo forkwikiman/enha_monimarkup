@@ -1,0 +1,63 @@
+||<-2><#DEB887><:>'''{{{#red GuitarFreaks V5 & DrumMania V5 Rock to Infinity Extra Rush}}}''' ||
+||<#FFA500> EXTRA 1 || '''[[一網打尽]]''' ||
+||<#FFA500> EXTRA 2 || '''[[Dynamis]]''' ||
+||<#FFA500> EXTRA 3 / ENCORE 1 || '''[[FORCE Interval Build]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 2 || '''[[VANESSA]] -転生編-''' ||
+||<#FFA500> EXTRA 5 / ENCORE 3 || '''TENGU''' ||
+||<#082567> {{{#white ENCORE 4}}} || '''[[Blue Forest]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' || '''[[A.DOGMA]]''' ||
+||<#4169e1> '''INFINITY''' || '''[[Rock to Infinity]]''' ||
+||<#ee82ee> '''ENDING''' || '''[[FOR THE FINAL]]''' ||
+
+attachment:tengu.jpg
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube.com/v/A_Bkf2hoMM0?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/A_Bkf2hoMM0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲드럼 익스트림 영상
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/fTHIM_Q1FFw?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fTHIM_Q1FFw?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲BGA
+
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 155 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 36}}} || {{{#orange 54}}} || {{{#red 76}}} ||
+|| 기타 오픈픽 || {{{#green 38}}} || {{{#orange 56}}} || {{{#red 79}}} ||
+|| 기타 베이스 || {{{#green 37}}} || {{{#orange 56}}} || {{{#red 77}}} ||
+|| 드럼매니아 || {{{#green 34}}} || {{{#orange 49}}} || {{{#red 88}}} ||
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"드럼매니아&기타프릭스/XG" XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 155 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} ||
+|| {{{#blue 3.00}}} || {{{#orange 6.00}}} || {{{#red 7.60}}} ||
+|| 기타 베이스 || {{{#blue 3.55}}} || {{{#orange 5.90}}} || {{{#red 6.70}}} ||
+|| 드럼매니아 || {{{#blue 2.50}}} || {{{#orange 4.40}}} || {{{#red 7.60}}} ||
+
+
+[[기타프릭스]] & [[드럼매니아]] V5 수록곡. 작곡은 [[Jimmy Weckl]]. 곡 제목 그대로 BGA에 텐구가 나오는 퓨전 재즈곡이다.
+
+2008년 8월 15일 Extra Level이 5가 되며 앙코르 스테이지에 등장. 
+이후 9월 12일 Extra Level 7부터 엑스트라 스테이지로 강등된 후 V5 가동 종료 시 까지 계속 엑스트라 스테이지에 남은 곡이었다. 
+
+어드밴스드 난이도는 상당히 판정내기 좋아서 [[A.DOGMA]] 어드밴스드를 꺼내는 꼼수곡이었던 반면 익스트림은 상당히 짜증나는 연타노트로 악명이 높은 곡.
+ 
+16비트 하이햇만 '''줄창''' 내려오는 패턴인데, 그것도 [[RIGHT ON TIME]]처럼 일정한 박자로 내려오는 게 '''아니라''' 한, 두박자씩 쉬어가며 불규칙한 스네어와 베이스까지 한번해 처리해야 하기 때문에 배치가 한번 꼬이면 순식간에 [wiki:"망했어요" 망]하기 쉽다.
+ 
+표기 난이도는 88이나 특유의 하이햇 패턴 덕에 숙련도에 따라 80 초반으로도, 90 초반으로도 느껴질 수 있는 개인차가 큰 곡이 되었다. 
+
+다음 시리즈인 V6에는 거의 같은 패턴이지'''만''' 한층 강화된 같은 작곡가의 [wiki:"Icicles" 이식곡]이 등장했다. 여러모로 닮아 있어 일부에서는 MODEL TG2라고도 한다(...).
+
+참고로 이 곡의 BGA에는 캐릭터가 가정용 기타프릭스 & 드럼매니아 컨트롤러를 사용하는 모습이 나온다. V6 퀘스트 중 V5 카테고리에서 '배경에 가정용 드럼매니아 컨트롤러가 나오는 곡'의 답이 이 곡이다.
+
+
+
+코멘트.
+
+>텐구 너무 좋아!
+
+
+(...)

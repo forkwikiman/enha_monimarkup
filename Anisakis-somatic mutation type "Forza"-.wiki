@@ -1,0 +1,112 @@
+[[include(틀:링크시 주의)]]
+
+||
+이 항목은 큰 따옴표와 공백을 같이 포함하고 있으므로 '{{{[[Anisakis-somatic mutation type "Forza"-]]}}}'로만 직접 링크가 가능하며, {{{[[wiki:]]}}} 용법으로는 링크를 만들 수 없습니다. wiki 용법을 사용해야 하거나 풀네임으로 링크하기 곤란한 경우에는 넘겨주기인 'Anisakis(비마니 시리즈)'나 '아니사키스(비마니 시리즈)'로 연결하여 주시기 바랍니다. 직접 링크를 해도 팝업 텍스트는 '{{{Anisakis-somatic mutation type}}}'만 노출됩니다.
+||
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[주작]](朱雀) 명의를 사용한 [[DJ YOSHITAKA]]의 곡으로, [[CONTRACT]], [[VANESSA]]에 이어 주작 명의를 사용한 세번째 곡이다. 참고로 Anisakis는 [[고래회충]], Forza는 이탈리아어로 Force(힘)를 의미한다.
+
+== [[beatmania IIDX]] ==
+|| 장르명 |||||||||| HARD RENAISSANCE[[BR]]하드 르네상스 |||||| [[BPM]] |||| 185 ||
+|| 전광판 표기 ||||||||||||||||||||<#454545> '''{{{#FF5A00 ANISAKIS -SOMATIC MUTATION TYPE"FORZA"-}}}''' ||
+|||||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#green 비기너}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#800000 흑 어나더}}} ||
+|| 싱글 플레이 || {{{#green 難}}} || {{{#green 256}}} || {{{#blue 6}}} || {{{#blue 631}}} || {{{#orange 10}}} || {{{#orange 1089}}} || {{{#red 11}}} || {{{#red 1443}}} || {{{#800000 12}}} || {{{#800000 1971}}} ||
+|| [[더블 플레이]] || {{{#green -}}} || {{{#green -}}} || {{{#blue 6}}} || {{{#blue 637}}} || {{{#orange 10}}} || {{{#orange 1291}}} || {{{#red 12}}} || {{{#red 1603}}} || {{{#800000 12}}} || {{{#800000 1956}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 15 DJ TROOPERS|15 DJ TROOPERS]] ~
+ * 가정용판 수록 : 15 DJ TROOPERS, 16 EMPRESS + PREMIUM BEST (PREMIUM BEST SIDE)
+
+주작 명의의 곡 중에서는 유일하게 엑스트라, 원 모어 엑스트라 악곡이 아니다. 장르 표기는 HARD RENAISSANCE.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/J9jy1Sau-dc&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/J9jy1Sau-dc&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+SPA, SP 흑어나더 영상
+
+전체적으로 [[계단]]과 [[데님]]이 주로 나오는 까다로운 채보다. 싱글 하이퍼는 원래 난이도가 9였으나 [[beatmania IIDX 20 tricoro|Tricoro]]에서 10으로 승격했다. 싱글 노멀 또한 원래는 5였다가 Lincle에서 6으로 승격했다. 어나더는 살짝 후반살인끼가 있기는 하지만 싱글 11레벨 중에서는 무난한 난이도로 11레벨 정복에 도전하는 사람의 실력증진에 좋다. 괜찮은 난이도와 채보로 재미있는 곡으로 꼽히기도 한다. 그래서 DJT 당시에는 EXPERT의 PLATINUM 코스에 속하는 등 신곡들 중 플레이 회수가 가장 높은 곡에 속하기도 했다.
+
+CS DJT에서 싱글, 더블 모두 흑 어나더가 추가되었는데, 싱글 흑어나더는 좌우대칭을 상당히 까다롭게 활용한 배치가 주 특징으로 이중계단 등 때문에 상당히 어려워 [[단위인정]] 개전에 수록되었다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/UcDpFVFjppg" frameborder="0" allowfullscreen></iframe>
+}}}
+DPA 영상
+
+더블 어나더 자체도 12렙인데 흑어나더까지 만들어서 [[단위인정]] 개전에 수록.
+
+BGA는 [[traces]], [[A(비마니 시리즈)|A]], [[革命]] 등에 사용된 [[범용 BGA]]에 [[XTC]]가 일러스트를 맡은 레이어가 대응된 형태. 레이어는 고통에 신음하는 백작님이 나오는데, 곡 제목(Anisakis)이 회충의 한 종류를 뜻하는거라 향간에선 회충에 감염돼서 고통받는 백작님이라고 하기도 한다. 물론 전란의 Verdet 이벤트로 회충따위가 아닌걸 알 수 있지만. 공식 홈페이지의 XTC의 코멘트에 따르면, 저 백작이 [[VANESSA]]에 나오는 그 백작이라고 한다. [* VANESSA와 이곡의 코멘트에 공통적으로 바넷사 백작의 생애가 언급되어있기도하다.]
+
+=== 미스레이어 문자 ===
+||HE SET a FOOT WRONG
+HOWEVER, IT NOTHING BUT SET a FOOT WRONG
+YOU SET a FOOT WRONG
+IT SET a FOOT WRONG SO LIKE HIM
+
+THE PERSON COMMITS an OFFENSE
+HOWEVER, DO NOT SET a FOOT WRONG||
+
+=== 아티스트 코멘트 ===
+||■Sound / 朱雀
+
+...[[CONTRACT]]
+ 
+...[[VANESSA]]
+ 
+그리고 관련이없는 점과 점을 선으로 Anisakis
+
+신디의 예리한 선율은 "백작"의 사상에 감염된 Forza의 역동을 보여 
+고귀하고 덧없는 피아노 프레이즈는 그 속에서 저항하는 "모랄"을 나타내는
+악곡이 진행됨에 따라 서서히 침식되는 백작의 사상
+이 후에 그가 몇만년을 보내고 생을 마감 했는가?
+그리고 이 이야기의 열쇠를 잡는 새로운 인물은..?
+[[리플렉%20비트%20콜레트/해금요소#s-4.5|그 모든 것은 다음 기회에 공개 될지도 모른다]][* 그리고 몆년 후, '''[[終焔のClaudia|CONTRACT와 VANESSA의 연관점을 만들어주는 곡]]이 정말로 등장하였다.''']
+ 
+는 무슨 말입니까 이거?||
+
+||■Anime / XTC
+
+''Vanessa de Verdet''
+
+''1794-1844''
+
+
+바네사 드 베르데 백작
+
+1838년, 권력과 지배의 상징 "붉은 참새"[* あけのすすめ로, 한자로 쓰면 朱の雀로 쓸수있다. 주작을 풀어서 쓴 것.]와의 협상 결렬후'Forza'에 감염되었다.
+감염에 의한 고통 속에 자아가 붕괴되어가는 모습을 그린 그림이다.
+이 후에 그가 몇 만년을 보내고 생을 마감할지는
+또한 기회가 있으면 말할 것이다.
+ 
+...아마도.||
+
+== [[리플렉 비트 시리즈]] ==
+attachment:anisakis.png
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/amq9A_YftK0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/jwYisBVh7QU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+SPECIAL 보면 96% 영상
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 185 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} || {{{#FF0090 S}}}{{{#FFAA08 P}}}{{{#08AFDB E}}}{{{#FF0090 C}}}{{{#08AFDB I}}}{{{#FFAA08 A}}}{{{#08AFDB L}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#08AFDB 10+}}} ||
+|| 오브젝트 || {{{#green 219}}} || {{{#orange 419}}} || {{{#red 679}}} || {{{#08AFDB '''961'''}}} ||
+|| 수록버전 ||||||||<#FF1AF8> [[리플렉 비트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 22 ||
+
+[[Lincle Link]] 이벤트의 일환으로 [[리플렉 비트]]에 이식되었다. 해금 조건은 [[beatmania IIDX 18 Resort Anthem]]에서 [[beatmania IIDX 15 DJ TROOPERS|DJ TROOPERS]] 카테고리의 곡을 '6레벨 이하의 곡들을 모두 클리어'였지만, 2013년 9월 18일에 [[콜레트]] 어텀이 업데이트되면서 통상 해금되었다.
+
+초반에는 8비트 정박에 16비트 3연타 [[트릴]]로 시작, 중반부터는 16비트 [[트릴]]에 종종 3TOP이 나오고, [[Bad Maniacs|16비트 4연타 트릴]]도 등장한다. 쉬어가는 구간엔 역시 8비트 정박으로 돌아오지만, 후에도 중반파트처럼 차차 다시 16비트 [[트릴]]에 종종 3TOP을 섞은 패턴이 나오고, 특히 [[후살|최후반 발광]]에 손이 꼬이기 쉬우니 주의.
+
+그루빈에서 스페셜 패턴이 추가되었는데, 기존 [Elemental Creation], [IX], [Zirkfied] (942개)를 공동 3위로 몰아내고 [Bad Maniacs] 스페셜 패턴에 이은 노트 수 2위(961)개의 곡이 되었다. 패턴 자체는 버티컬 오브젝트로 떨어지는 계단만 조심하면 되는 10+ 중급~중상급 정도.

@@ -1,0 +1,206 @@
+ * 상위항목 [[더 바인딩 오브 아이작: 리버스]]
+
+
+ * 아래 이미지 중 몇 가지는 사람에 따라 혐오스러울 수 있으니 주의할 것.
+ * 2인용 캐릭터(이하 코옵)는 키보드 이외의 컨트롤러가 있어야 사용이 가능하다. 참고할것.
+ * 스페셜 캐릭터의 경우 죽어야지 효과가 발동되는 경우가 몇몇 있다. 자세한건 아래 종류들을 참고할것.
+
+리버스에 추가된 로컬 멀티플레이 전용 캐릭터들이다. 이들은 Special 종류와 Normal 종류로 나뉘어져있다. 스페셜 종류는 2P플레이어가 죽을 때나 혹은 일정 확률로 특수효과가 발동된다. 노말은 [[그런거 없다]].[* 효과는 없지만 대신에 생김새가 다양하다. 외모가 바뀌는 아이템을 얻은 것 같은 외모도 있고 다른 게임의 캐릭터 모습으로 나오는 경우도 있다.]
+또한 2P가 참여하기 위해서는 키보드 이외의 컨트롤러가 있어야지 참여가 가능하며, 1P의 체력이 2칸 이상이여야지 참여가 가능하다. 만약 최대 체력이 1칸이거나 최대 체력에 비해 남은 체력이 1칸인경우, The Lost로 플레이 할 경우에는 2P가 참여를 할수 없게되므로 참고하자.  소환시 체력은 한칸이지만 1P가 소울하트나 블랙하트가 자동으로 채워지는 아이템(Ceremonial Robes, The Pact등)을 얻으면 증가시킬수있다.
+
+[[목차]]
+
+== Special ==
+
+||<width=15%> '''캐릭터 이미지''' 
+||<width=15%> '''이름''' 
+||<width=60%> '''설명''' 
+||<width=10%> '''여는 조건''' ||
+|| attachment:spiderbaby.png
+|| Spider Baby
+|| 공격시 가끔 거미를 생성한다
+|| - ||
+|| attachment:lovebaby.png
+|| Love Baby
+|| 죽을때 붉은 하트 1개를 드롭한다. 소울하트 1개를 드롭하는 경우도 있다.
+|| - ||
+|| attachment:bloatbaby.png
+|| Bloat Baby
+|| 파리 베리어를 달고 나온다.
+|| - ||
+|| attachment:waterbaby.png
+|| Water Baby
+|| 죽을시 눈물을 사방으로 퍼트린다.
+|| - ||
+|| attachment:psybaby.png
+|| Psy Baby
+|| 유도 눈물을 발사한다.
+|| - ||
+|| attachment:cursedbaby.png
+|| Cursed Baby
+|| 적과 적의 공격을 2P에게 유도하도록 한다.
+|| - ||
+|| attachment:trollbaby.png
+|| Troll Baby
+|| 트롤 폭탄을 랜덤하게 소환한다. 또한 죽을시에도 소환한다.
+|| - ||
+|| attachment:ybab.png
+|| Ybab
+|| 눈물을 발사하는 방향키를 뒤섞는다.
+|| - ||
+|| attachment:cockeyedbaby.png
+|| Cockeyed Baby
+|| 눈물을 대각선으로 발사한다. "R U A Wizard" 효과와 비슷하다.
+|| - ||
+|| attachment:hostbaby.png
+|| Host Baby
+|| 죽을시 1~3마리의 적대적인 거미를 소환한다.
+|| - ||
+|| attachment:lostbaby.png
+|| Lost Baby
+|| 이동할대마다 데미지를 주는 작은 붉은색 피 장판을 뿌린다. 죽으면 거대한 피 장판을 뿌린다.
+|| Isaac으로 하드모드의 엄마의 심장 격파 ||
+|| attachment:cutebaby.png
+|| Cute Baby
+|| 효과 없음 ~~왜죠?~~
+|| Magdalene으로 하드모드의 엄마의 심장 격파 ||
+|| attachment:crowbaby.png
+|| Crow Baby
+|| 적과 접촉시 적에게 데미지를 준다.
+|| Eve로 하드모드의 엄마의 심장 격파 ||
+|| attachment:shadowbaby.png
+|| Shadow Baby
+|| 다른 코옵보다 데미지가 센 핏빛 눈물을 발사한다.
+|| Judas로 하드모드의 엄마의 심장 격파 ||
+|| attachment:glassbaby.png
+|| Glass Baby
+|| 죽을시 랜덤한 픽업 아이템을 떨군다.
+|| Cain으로 하드모드의 엄마의 심장 격파 ||
+|| attachment:goldbaby.png
+|| Gold Baby
+|| 죽을시 1~3개의 코인을 떨군다.
+|| - ||
+|| attachment:cy_baby.png
+|| Cy-Baby
+|| 일정확률로 눈물 발사에 레이저가 추가된다. Tech.5와 비슷한 효과이다.
+|| - ||
+|| attachment:beanbaby.png
+|| Bean Baby
+|| 맞을때마다 방귀 즉,Black Bean 효과를 낸다.
+|| - ||
+|| attachment:magbaby.png
+|| Mag Baby
+|| 동전을 끌어당긴다. Broken Magnet과 같은 효과.
+|| - ||
+|| attachment:wrathbaby.png
+|| Wrath Baby
+|| 죽으면 픽업 폭탄을 하나 떨군다.
+|| - ||
+|| attachment:wrappedbaby.png
+|| Wrapped Baby
+|| 맞으면 폭발한다.
+|| Azazel로 하드모드의 엄마의 심장 격파 ||
+|| attachment:begottenbaby.png
+|| Begotten Baby
+|| 공포효과를 주는 크고 느린 눈물을 발사한다.
+|| Lazarus로 하드모드의 엄마의 심장 격파 ||
+|| attachment:deadbaby.png
+|| Dead Baby
+|| 적을 죽일때마다 일정확률로 자폭파리를 소환한다.
+|| ???로 하드모드의 엄마의 심장 격파 ||
+|| attachment:fightingbaby.png
+|| Fighting Baby
+|| - 
+|| Samson으로 하드모드의 엄마의 심장 격파  ||
+|| attachment:_0_baby.png
+|| -0- Baby
+|| 모든 공격으로부터 무적이다. 하지만 게임에서 나가면 다른 코옵으로 변경된다.
+|| The Lost로 하드모드의 엄마의 심장 격파 ||
+|| attachment:glitchbaby.png
+|| Glitch Baby
+|| 다음 층으로 넘어갈때마다 다른 코옵으로 랜덤으로 변경된다.
+|| Eden으로 하드모드의 엄마의 심장 격파 ||
+|| attachment:magnetbaby.png
+|| Magnet Baby
+|| 적을 당겨온다.
+|| - ||
+|| attachment:isaac2.png
+|| Isaac 2
+|| 공격은 불가능하지만 다른 코옵들이 하지 못하는 아이템줍기, 상자열기가 가능하다.
+|| - || 
+== Normal ==
+
+||<width=15%> '''캐릭터 이미지''' 
+||<width=15%> '''이름''' 
+||<width=60%> '''설명''' || 
+|| attachment:stevenbaby.png
+|| Steven Baby
+|| 제작자의 다른 플래시 게임인 Time Fcuk에 나오는 캐릭터. ||
+|| attachment:aetherbaby.png
+|| Aether Baby
+|| 제작자의 다른 플래시 게임인 Aether에 나오는 캐릭터. ||
+|| attachment:fezbaby.png
+|| Fez Baby
+|| [[FEZ]]에 나오는 캐릭터. ||
+|| attachment:smbbaby.png
+|| Meat Boy Baby
+|| [슈퍼미트보이]]에 나오는 캐릭터. ||
+|| attachment:browniebaby.png
+|| Brownie Baby
+|| [[슈퍼미트보이]]에 나오는 캐릭터. ||
+|| attachment:vvvvvvbaby.png
+|| VVVVVV Baby
+|| [[VVVVVV]]에 나오는 캐릭터. ||
+|| attachment:viridianbaby.png
+|| Viridian Baby
+|| [[VVVVVV]]에 나오는 캐릭터. ||
+|| attachment:alienhominidbaby.png
+|| Alien Hominid Baby
+|| [[에일리언 호미니드]]에 나오는 캐릭터. ||
+|| attachment:videobaby.png
+|| Video Baby
+|| [[BIT.TRIP]]에 나오는 캐릭터. ||
+|| attachment:screambaby.png
+|| Scream Baby
+|| 뭉크의 그림『절규』[* http://ko.wikipedia.org/wiki/%EC%A0%88%EA%B7%9C]를 본딴 캐릭터. --응?-- ||
+|| attachment:bossbaby.png
+|| Boss Baby
+|| [[뉴그라운즈]]의 Agnry Faic 이모티콘의 모양을 본딴 캐릭터. ||
+|| attachment:edbaby.png
+|| Ed Baby
+|| 제작자 자신인 Edmund McMillen이다. --여기서 뭐하세요-- ||
+|| attachment:dbaby.png
+|| D Baby
+|| 제작자의 아내인 Danielle를 본딴 캐릭터. ||
+|| attachment:electricsbaby.png
+|| Electrics Baby
+|| [[피카츄]]를 본딴 캐릭터. ||
+|| attachment:transformerbaby.png
+|| Transforming Baby
+|| [[트랜스포머]]의 [[옵티머스 프라임]]을 본딴 캐릭터. ||
+|| attachment:abanbaby.png
+|| Aban Baby
+|| 1001 spikes에서 나오는 캐릭터. ||
+
+
+|| attachment:skullbaby.png
+|| Skull baby
+|| - ||
+|| attachment:conjoinedbaby.png
+|| Conjoined Baby
+|| - ||
+|| attachment:skinnybaby.png
+|| Skinny Baby
+|| - ||
+|| attachment:monocolebaby.png
+|| Monocle Baby
+|| - ||
+|| attachment:belialbaby.png
+|| Belial Baby
+|| - ||
+|| attachment:monstrobaby.png
+|| Monstro Baby
+|| - ||
+|| attachment:cyberbaby.png
+|| Cyber Baby
+|| - ||

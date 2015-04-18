@@ -1,0 +1,28 @@
+ * 상위 문서 - [[리플렉 비트 라임라이트]]
+
+http://ecx.images-amazon.com/images/I/61gbN1cAa4L.jpg
+
+DVD반
+
+http://ecx.images-amazon.com/images/I/61SrswgvHyL.jpg
+CD반
+
+{{{#!html
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|207089403/20090426110400743629021001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|207089403/20090426110400743629021001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>}}}
+
+일본 가수 키무라 카에라가 [[2009년]] [[5월 8일]]에 발표한 14번째 싱글이자 타이틀곡.
+
+하다보면 은근 귓속에서 ~~반자히~ 반자이~~가 들리는 노래.
+
+리플렉 비트 라임라이트에 원곡으로 수록되었다. 수록한 표지는 CD반.
+
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 140 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 7}}} ||
+|| 오브젝트 || {{{#green 149}}} || {{{#orange 209}}} || {{{#red 338}}} ||
+|| 수록버전 ||||||||<#82eb5a> [리플렉 비트 라임라이트] ||
+
+http://video.excite.co.jp/player/?id=519ee65a869bf84c&title=%E3%80%90Reflecbeat+Limelight%E3%80%91BANZAI+HARD
+하드패턴영상

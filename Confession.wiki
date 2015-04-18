@@ -1,0 +1,60 @@
+[[목차]]
+
+== 일반적인 의미 ==
+Confession이라는 영어단어는 [[고백]]이라는 뜻을 가지고 있다.
+
+== [[BEMANI 시리즈]]의 수록곡 ==
+=== NAOKI의 곡 ===
+==== 개요 ====
+attachment:Confession_DDR.jpg
+
+아티스트 명의는 trance star. 작곡은 [[NAOKI]], 작사는 LIZA, 보컬은 Frances Maya.
+
+==== [[댄스 댄스 레볼루션]] ====
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 12}}} || {{{#purple 14}}} ||
+||<|3> 150|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 12}}} || {{{#purple 14}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+DDR HOTTEST PARTY에 수록되었다. 아케이드에는 [[Dance Dance Revolution(2013)|DDR 2013]]에 이식되었다. HOTTEST PARTY 수록곡이라서 더블 채보는 DDR 2013에서 새로 제작되었다. ENJOY LEVEL 30을 달성하면 해금되며 ENJOY LEVEL 80을 달성하면 새로 만들어진 CHALLENGE 채보가 해금된다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/d3gDA5M5Rf0" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 모든 보면 영상
+
+=== [[나가타니 타카오]]의 곡 ===
+==== 개요 ====
+작곡/작사는 [[나가타니 타카오]]. 보컬은 야마모토 나오코.
+
+롱버젼이 "GuitarFreaksXG & DrumManiaXG Original Soundtrack beginning edition"에 수록되었다.
+
+==== [[기타프릭스·드럼매니아]] ====
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/mjJUVgWrhVk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/xtMWQWolWMw" frameborder="0" allowfullscreen></iframe>}}}
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/BweWI2dajbM" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||||||| [[기타프릭스·드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||| [[기타프릭스·드럼매니아 XG|XG]]/[[GITADORA]] 난이도 체계 ||
+||<|5><:> 165 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#blue NOVICE}}}[[BR]]{{{#blue BASIC}}} || {{{#orange REGULAR}}}[[BR]]{{{#orange ADVANCED}}} || {{{#red EXPERT}}}[[BR]]{{{#red EXTREME}}} ||
+|| {{{#green 17}}} || {{{#orange 40}}} || {{{#red 53}}} ||<|2><:> {{{#blue 3.30}}} ||<|2><:> {{{#orange 4.95}}} ||<|2><:> {{{#red 6.10}}} ||
+|| 기타 오픈픽 || {{{#green 19}}} || {{{#orange 43}}} || {{{#red 56}}} ||
+|| 기타 베이스 || {{{#green 15}}} || {{{#orange 41}}} || {{{#red --}}} || {{{#blue 2.95}}} || {{{#orange 4.80}}} || {{{#red 5.30}}} || 
+|| 드럼매니아 || {{{#green 15}}} || {{{#orange 36}}} || {{{#red 72}}} || {{{#blue 2.25}}} || {{{#orange 3.85}}} || {{{#red 6.95}}} ||
+
+[[기타프릭스·드럼매니아 XG]]에 기본곡으로 수록되었고 [[기타프릭스·드럼매니아/시리즈 소개#s-2.7|기타도라 V7]]에도 수록되었다. 나가타니 타카오의 기타도라 첫 참여곡.
+
+드럼 같은 경우, 동 레벨대의 곡들과 비교하면 조금 쉬운 편이라 당시 스킬 쌓는데 도움받던 유저도 있었다. 노래 자체는 좋은 평가를 받아서 당시 플레이 하는 유저가 꽤 있었다.
+
+BGA는 전용 레이어 연출이 있다.

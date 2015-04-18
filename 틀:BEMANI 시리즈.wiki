@@ -1,0 +1,14 @@
+||||||||||<tablewidth=100%><#000000><:> '''[[wiki:"BEMANI 시리즈" <font color=#FFFFFF> BEMANI 시리즈]]''' ||
+||||||||||<#ffffff><:> '''현역 기종''' (★는 대한민국 정식 출시작) ||
+||<width=20%><#BDBDBD><:> [[beatmania IIDX]][[br]][[beatmania IIDX 22 PENDUAL|22 PENDUAL]] ★ ||<width=20%><#ffffff><:> [[팝픈뮤직]][[br]][[팝픈뮤직 라피스토리아|라피스토리아]] ★ ||<width=20%><#BDBDBD><:> [[댄스 댄스 레볼루션]][[br]][[Dance Dance Revolution(2014)|2014년 버전]] ★ ||<width=20%><#ffffff><:> [[GITADORA 시리즈|GITADORA]][[br]][[GITADORA OverDrive|OverDrive]] ||<width=20%><#BDBDBD><:> [[유비트 시리즈|유비트]][[br]][[유비트 프롭|프롭]] ★ ||
+||<#ffffff><:> [[리플렉 비트 시리즈|리플렉 비트]][[br]][[리플렉 비트 그루빈 어퍼|그루빈 어퍼]] ★ ||<#BDBDBD><:> [[댄스 에볼루션]][[br]][[댄스 에볼루션|아케이드]] ||<#ffffff><:> [[사운드 볼텍스]][[br]][[사운드 볼텍스 III 그래비티 워즈|III 그래비티 워즈]] ★ ||<#BDBDBD><:> [[미라이다갓키]][[br]]Ver.2 ||<#ffffff><:> [[BeatStream]] ||
+||||||||||<#000000><:> '''{{{#ffffff 단종/발매 취소 기종}}}''' ||
+||<#ffffff><:> [[비트매니아 시리즈|beatmania]] ||<#BDBDBD><:> [[기타프릭스·드럼매니아]] ||<#ffffff><:> [[팝픈스테이지]] ||<#BDBDBD><:> [[댄스 댄스 레볼루션 솔로]] ||<#ffffff><:> [[키보드매니아]] ||
+||<#BDBDBD><:> [[beatmania III]] ||<#ffffff><:> [[댄스매니악스]] ||<#BDBDBD><:> [[파라파라 파라다이스]] ||<#ffffff><:> [[맘보 아 고고]] ||<#BDBDBD><:> [[토이즈 마치]] ||
+||<#ffffff><:> [[댄스 86.4]] ||<#BDBDBD><:> [[기타프릭스·드럼매니아 XG]] ||<#ffffff><:> [[랩 프릭스]] ||<#BDBDBD><:>　  ||<#ffffff><:>　  ||
+||||||||||<#000000><:> '''{{{#ffffff 발매예정}}}''' ||
+||<#BDBDBD><:>[[GITADORA 시리즈|GITADORA]][[br]][[GITADORA Tri-Boost|Tri-Boost]]||<#ffffff><:>　 ||<#BDBDBD><:>　 ||<#ffffff><:>　 ||<#BDBDBD><:>　 ||
+
+||||||<tablewidth=100%><#000000><:> '''{{{#ffffff 같이 보기}}}''' ||
+||<width=33%><#BDBDBD><:> [[BEMANI 시리즈/아티스트|아티스트]] ||<width=33%><#ffffff><:> [[BEMANI 시리즈/연동 이벤트|연동 이벤트]] ||<width=33%><#BDBDBD><:> [[BEMANI 시리즈/음반|음반]] ||
+## 현역기종에 최신버전으로 교체 시 정보나 로케테스트만 진행된 기체/버전은 발매예정칸에, 발매 날짜가 정확하게 나온 경우 현역기종으로 수정

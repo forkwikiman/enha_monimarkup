@@ -1,0 +1,58 @@
+[[BEMANI 시리즈]]의 수록곡. 
+
+[[목차]]
+
+== [[beatmania IIDX]] ==
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/UY200S0gzDk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 155  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 471}}} || {{{#orange 6}}} || {{{#orange 629}}} || {{{#red 7}}} || {{{#red 746}}} || {{{#blue 5}}} || {{{#blue 480}}} || {{{#orange 6}}} || {{{#orange 620}}} || {{{#red 7}}} || {{{#red 703}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 5th ~ 7th, 9th ~ 
+ * 가정용판 수록 : 5th
+
+댄스 매니악스 2nd의 수록곡이었고, [[beatmania IIDX 5th Style]]에 이식되었다. 8th style에서 용량 문제로 잠깐 삭제되었다가 9th style에서 부활, 이 후 꾸준히 수록되고 있다. 이식시의 표기 장르는 J-EURO POP.
+
+작곡은 [[NAOKI]], 노래는 [[쿠니타케 미유키]]. 이 곡은 NAOKI가 일어보컬곡을 만들기 시작한(...) 시점이라서 명의가 NAOKI J-STYLE이라고 적혀 있다.
+
+NAOKI 특유의 [[유로비트]]를 계승하면서, 이 곡은 이전까지 비트매니아 IIDX에 수록된 NAOKI의 유로비트곡과는 달리(여태까지는 다 타 게임에서 이식된 곡이었지만) NAOKI가 일어보컬곡을 시작한 시점이라는 데에 의의가 있는 곡. 난이도도 NAOKI의 유로비트 계열 곡들 중에서는 비교적 쉬운 편이다.
+
+또한 [[쿠니타케 미유키]]가 [[BEMANI 시리즈]]에서 [[이즈미 무츠히코]]가 아닌 다른 작곡가의 곡에 참여한 둘뿐인 곡 중 하나. (다른 하나는 [[蒼い衝動]]) 이 곡에서는 MIU라는 명의를 사용했다.
+
+이 곡 BGA에도 NAOKI의 다른 유로비트곡들과 마찬가지로 [[VJ GYO]] 특유의 3D 미소녀 레이싱(...)이 등장. 후렴구부터 이 곡의 가사를 영어로 번역한(...) 영어문장이 BGA에 등장한다.
+
+== [[댄스 댄스 레볼루션]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/4ScwzKjPrsk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 3}}} || {{{#orange 3}}} || {{{#red 6}}} || {{{#green 10}}} ||
+||<|3> 155|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| - || {{{#orange 3}}} || {{{#red 6}}} || {{{#green 11}}} ||
+
+|||||||||||||||||| GROOVE RADAR 수치 ||
+|| 싱글 || {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| STREAM[[br]]全体密度 || {{{#blue 22}}} || {{{#orange 24}}} || {{{#red 40}}} || {{{#green 66}}} ||
+|| VOLTAGE[[br]]最大密度 || {{{#blue 19}}} || {{{#orange 19}}} || {{{#red 32}}} || {{{#green 51}}} ||
+|| AIR[[br]]ジャンプ度 || {{{#blue 5}}} || {{{#orange 3}}} || {{{#red 14}}} || {{{#green 32}}} ||
+|| FREEZE[[br]]踏みっぱ度 || {{{#blue 0}}} || {{{#orange 9}}} || {{{#red 28}}} || {{{#green 21}}} ||
+|| CHAOS[[br]]変則度 || {{{#blue 0}}} || {{{#orange 0}}} || {{{#red 38}}} || {{{#green 33}}} ||
+||<-2><:> 더블 || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+||<-2><:>  STREAM[[br]]全体密度 || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+||<-2><:>  VOLTAGE[[br]]最大密度 || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+||<-2><:>  AIR[[br]]ジャンプ度 || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+||<-2><:>  FREEZE[[br]]踏みっぱ度 || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+||<-2><:>  CHAOS[[br]]変則度 || {{{#orange ?}}} || {{{#red ?}}} || {{{#green ?}}} ||
+
+나중에 [[댄스 댄스 레볼루션]] EXTREME에도 수록되었다.

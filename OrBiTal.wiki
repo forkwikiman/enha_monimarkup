@@ -1,0 +1,60 @@
+#title OrBiTal
+[[목차]]
+== 개요 ==
+{{{#!html
+<iframe width="480" height="360" src="//www.youtube.com/embed/bH-c8cHzz4c" frameborder="0" allowfullscreen></iframe>
+}}}
+[[DJMAX TECHNIKA Q]] BGA
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || [[wiki:"덥스텝" Dub]][[wiki:"일렉트로니카" lec]] [[wiki:"트랜스(음악)" Trance]] ||
+|| 작곡 || [[Paul Bazooka]] ||
+|| 피처링 || 5han[* 초반 도입부와 후반부와 중간 중간 나오는~~잘생겼다~~ 목소리 녹음.] ||
+|| BPM || 130 ||
+|| 타이틀 || Ukyo(RAY) ||
+|| BGA || [[ECO]](DMTQ) ||
+
+~~[[wiki:"몬데그린" 잘.생.겼다 . 미.친.년아]]~~ '''사.생.결단 . 미.친.음악'''[* 이 곡의 가사이다.]
+
+[[The One]], [[The Rain Maker]], [[SigNalize]]을 제공했던 [[Paul Bazooka]]가 [[DJMAX RAY]]에 제공한 신곡. 전체적인 컨셉은 SigNalize를 잇고 있으면서도 좀 더 파격적인 구성을 보여준다. Paul Bazooka의 사운드 클라우드 태그에 테크니카가 써있는 것으로 봐서는 테크니카 4나 튠의 DLC가 나온다면 수록될 확률이 높다.~~그러나 나오라는 테크니카 4,테크니카 튠 DLC로 안나오고 테크니카Q에 수록되었지~~
+
+--아이캐치에 [[Xeus]]의 주연인 Ada가 나오는 것으로 보아, 타이틀 그림은 Xeus의 다음 이야기를 다루는것 같다. 게다가 아이캐치를 자세히 보면 Ada의 소속에 Xeus Bioscience라고 쓰여있다! 비주얼도 Xeus의 비주얼을 담당했던 Ukyo이기도 하고. 실제로 BGA가 나오게 된다면 Xeus의 후일담을 기대해도 좋을 듯...--했으나 [[DJMAX TECHNIKA Q]] 피쳐 영상에 이 곡의 BGA가 일부 공개됐는데 딱 봐도 [[ECO]]가 그린~~[[Cyriak|모 애니메이터 삘나는]]~~ 개그 BGA로 확정되고 말았다(...). BGA는 [[wiki:"MASAI(DJMAX)"MASAI]], [[Cherokee]], [[Gone Astray]], [[Kung-Fu Rider]]를 셀프 패러디했다.
+
+attachment:22.jpg
+[* 아래쪽부터 읽는다.]
+Paul Bazooka 본인이 밝힌 바에 따르면 상당히 심오한 의미를 담고 있다.
+~~[http://www.youtube.com/watch?v=Whhh83pt9jA 이런 모습인듯(...)]~~
+
+~~[https://pic.twitter.com/eu0dGxK3 본인도 몬데그린 드립을 쳤다.]~~
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Club Trance 팩 수록곡 ||
+|| [[White Blue]] || [[SigNalize]] || [[Minus 3]] || [[Seeker]] || '''OrBiTal''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 3 || ||
+||<#0000FF> {{{#white HD}}} || 5 || ||
+||<#FF0000> MX || 7 || ||
+
+{{{#!html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrzEB2TdVTc?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+6K MX
+
+Club Trance팩의 히든곡으로 수록되었다. 
+
+MX패턴은 전체적으로 평이하나 중반에 나오는 2-1-2-1-2-1-3-1패턴이 난해한편.
+== [[DJMAX TECHNIKA Q]] ==
+|||||||||| [DJMAX TECHNIKA Q]의  Q 뮤직팩5  수록곡 ||
+|| [[EGG]] || [[MonoXide]] || [[BlythE]] || '''OrBiTal''' ||
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|| 패턴 || 난이도 (2라인/3라인)|| 비고 ||
+||<#FFFF00> ORIGINAL || 5 / 5 ||
+||<#0000FF> {{{#white PREMIUM}}} || 6 / 7 ||
+||<#FF0000> SIGNATURE || 8 / 9 ||
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/UEOP62n7dGw" frameborder="0" allowfullscreen></iframe>
+}}}
+3라인 SIGNTURE 채보 영상

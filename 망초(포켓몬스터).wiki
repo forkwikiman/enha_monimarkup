@@ -1,0 +1,138 @@
+||<-5><#3c5087><tablealign=center> '''프로필''' ||
+||<|14> attachment:/Black_White_Shauntal.png?align=center ||
+||<#3c5087> '''이름''' ||<#666699> 망초 ||
+||<#3c5087> '''성별''' ||<#666699> [wiki:"여성"<font color="#00008c">여성</font>] ||
+||<#3c5087> '''눈 색깔''' ||<#666699> [wiki:"눈/검은색"<font color="#00008c">흑색</font>] ||
+||<#3c5087> '''머리 색깔''' ||<#666699> [wiki:"머리카락/보라색"<font color="#00008c">보라색</font>] ||
+||<#3c5087> '''트레이너 계급''' ||<#666699> [wiki:"사천왕(포켓몬스터)"<font color="#00008c">사천왕</font>] ||
+||<#3c5087> '''지방''' ||<#666699> [wiki:"하나지방"<font color="#00008c">하나지방</font>] ||
+||<#3c5087> '''출신지''' ||<#666699> 불명 ||
+||<#3c5087> '''가족관계''' ||<#666699> 불명 ||
+||<#3c5087> '''담당 지역''' ||<#666699> 포켓몬 리그 ||
+||<#3c5087> '''주된 타입''' ||<#666699> [[wiki:"포켓몬스터/타입/설명#s-2.14" attachment:/Pokemon_Type_Ghost.png]] ||
+||<#3c5087> '''데뷔작''' ||<#666699> [wiki:"포켓몬스터 블랙·화이트"<font color="#00008c">포켓몬스터 블랙·화이트</font>] ||
+||<#3c5087> '''세대''' ||<#666699> 5 ||
+||<#3c5087> '''등장 게임''' ||<#666699> [wiki:"포켓몬스터 블랙·화이트"<font color="#00008c">블랙·화이트</font>][[br]][wiki:"포켓몬스터 블랙·화이트 2"<font color="#00008c">블랙·화이트 2</font>] ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/사천왕)]]
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물.
+
+하나지방 포켓몬 리그 [wiki:"사천왕(포켓몬스터)"사천왕]. 고스트 타입 전문 [[포켓몬 트레이너]]로 보라색 단발머리에 어두운색 일색인 복장과 안경이 특징인 여성이다. 사천왕직과 함께 [[소설가]]를 겸하고 있어 항상 [[만년필]]과 [[공책]]을 지니고 있다. 펜을 쥔 손을 봐서는 [[왼손잡이]]인 듯.
+
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed> * 전투! 사천왕
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile21.uf.tistory.com/media/23771C3851FBBA7E138E4B"></object>}}}||
+
+=== 기타 ===
+ * 그녀가 집필한 소설 중엔 [wiki:"N(포켓몬스터)"N]이나 [wuki:"전진(포켓몬스터)"전진] 또는 [wiki:"핸섬(포켓몬스터)" 핸섬]이 등장하는 작품이 있다. 자신과 겨뤄본 적 있는 포켓몬 트레이너들을 주제로 글을 쓰고 있다고.
+
+ * 팬아트 같은 2차 창작물에선 [[샹델라]]와 함께 그려지는 경우가 많은데, 샹델라의 의인화를 살펴보면 [[망초]]랑 닮은게 많다.~~샹델라 본체~~ 또한 그녀가 쓰고있는 소설 대부분이 BL소설이라거나 관능소설이라는 팬들의 설정도 덧붙여져 반쯤 [[부녀자]]로 취급받고 있다. 커플링으론 [[블래리]]하고 엮이는게 메인이며,[[GL]]한정으론 [[카틀레야(포켓몬스터)|카틀레야]]하고도 엮이는 경우도 볼수 있다. 아마 둘 다 상성 때문에 그런듯.
+
+ * [[칼로스지방]] 14번 도로엔 망초가 쓴 소설의 애독자인 [wiki:"포켓몬스터/등장인물/트레이너" 메르헨소녀]가 있다.
+ 
+ * 하나지방 사천왕 중 유일하게 주인공에게 존댓말을 쓴다.
+
+=== 공략 ===
+==== [wiki:"포켓몬스터 블랙·화이트" 블랙·화이트] ====
+ * [[데스니칸]] : 낮은 HP를 가졌지만 방어145 특방105의 수치를 가지고있어 웬만한 물리공격에는 잘 죽지않으며 어정쩡한 비자속 특수공격으로도 안죽는경우가 많다. 접촉공격을 하면 자신의 특성을 잃게되는 '''미라'''특성([[악비아르]]의 경우 [[깨물어부수기]]로 죽여버리면 [wiki:"포켓몬의 특성" '''자기과신'''] 특성이 사라져서 공격력을 못 올린다)과 물리공격을 반으로 낮추는 도깨비불과 회복약의 콤보를 주의하자
+
+ * [[눈여아]] : 전체적인 능력치가 낮은편이지만 스피드가 빠르고 자속 눈보라를 사용한다. 상대할때는 이전 포켓몬에서 아이템으로 미리 스피드를 높여두는식으로 대비하자. 위력적이진 않지만 선공기 [[얼음뭉치]]도 사용하기때문에 HP도 어느정도는 채워두어야한다.
+
+ * [[탱탱겔]] : 높은 HP와 특방을 지니고 있는데다가 [wiki:"포켓몬의 특성" '''저주받은 바디'''] 특성때문에 30%확률로 사용기술이 봉인돼버리는 난감한일도 생긴다. 풀타입으로 상대하기는 약간 불리하고 되도록 전기타입으로 상대하는 것이 좋다.
+
+ * [[샹델라]] : 낮은 HP와 평균적인 방/특방을 가지고있으며 스피드가 낮아서 자속 기술로 약점을 찌르면 대개 한방에 보내버릴 수 있다. 다만 특공종족값이 145나 되기때문에 만약 스피드가 딸리거나 한방에 보내지 못한다면...
+
+ * [[둥실라이드]] : 높은 HP외에는 볼것이 없지만 접촉기로 쓰러트렸을때 [wiki:"포켓몬의 특성" '''유폭'''] 특성때문에 자신의 HP를 잃게되니 그것만 주의하면 된다.
+
+ * [[골루그]] : 상성을 따져서 공격하면 쉽게 잡을수 있지만 매턴 HP를 크게 줄이는 [[저주]]는 걸리면 골치아프다.
+
+여담으로 사용하는 포켓몬들이 주는 [[노력치]]가 종류별로 다 있다. 둥실라이드-HP 골루그-공격 데스니칸-방어 샹델라-특공 탱탱겔-특방 눈여아-속도(...)
+
+==== [wiki:"포켓몬스터 블랙·화이트 2" 블랙·화이트 2] ====
+스토리 진행이 길어진 관계로 레벨이 더욱 올라 있다. 전작과 큰 차이점은 없지만, 둥실라이드는 비행주얼과 특성 곡예를 조합해서 공격해 오니 주의해야 한다. 챌린지모드에서는 다크펫이 추가. 기술 변동이나 레벨 상승은 없지만, 그 대신 멤버들이 전원 아이템을 착용하고 있기 때문에 더 위험하다. 
+
+[wiki:"뿌뿌뽕" 팀의 몸빵을 책임지는] 데스니칸은 먹다남은음식을 들고 매턴마다 조금씩 회복하니 최대한 빨리 쓰러트리는 게 좋으며, 샹델라는 '''구애스카프'''를 장착하고 있으므로 진짜 위험하다. 멤버 중에 [[트집]] 기술을 쓸 수 있는 포켓몬이 있다면 이걸로 무력화시키는 것이 좋다.
+
+=== 삽화 ===
+||<-4><tablealign=center><#3c5087> 스프라이트 ||
+|| attachment:/Spr_BW_Shauntal.png || attachment:/Shauntal.gif || attachment:/VSShauntal.png || attachment:/Shauntal_OD.png ||
+|| 트레이너[[br]](블랙·화이트) || 트레이너[[br]](블랙·화이트 2) || VS || 필드 ||
+
+||<-3><tablealign=center><#3c5087> 하나리그 남서쪽 방 내부 ||
+|| http://img1.wikia.nocookie.net/__cb20130208083203/pokemon/ko/images/6/68/%EB%B8%94%ED%99%94_%EB%A7%9D%EC%B4%88%EC%9D%98_%EB%B0%A9.png || attachment:Pokémon_League(Unova)1.png ||    
+|| 블랙,화이트 || 블랙2,화이트2 ||
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#3c5087"><:> 언어 || 이름 || 유래 ||
+|| 일본어 || 시키미 シキミ || 붓순나무를 뜻하는 樒(しきみ/시키미). ||
+|| 한국어 || 망초 || 식물명인 [[망초]]에서 유래. ||
+|| 영어 || 숀털 Shauntal||  ||
+
+= 소유 포켓몬 =
+== [wiki:"포켓몬스터 블랙·화이트" 블랙·화이트] ==
+=== 1차전 ===
+||<tablealign=center><#666699> attachment:/bwspmmg_5_(7).gif ||<#6699ff> attachment:/bw1egsp5_(1).GIF ||<#cccc66> attachment:/bwsym5_(9).gif ||<#666699> attachment:/1bpsbws5_(4).GIF ||
+||<#dcdcdc> [[데스니칸]] ♀[[br]](Lv.48) ||<#dcdcdc> [[탱탱겔]] ♀[[br]](Lv.48) ||<#dcdcdc> [[골루그]][[br]](Lv.48) ||<#dcdcdc> [[샹델라]] ♀[[br]](Lv.50) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+|| __특성__ :[[br]]미라 || __특성__ :[[br]]저주받은바디 || __특성__ :[[br]]철주먹 || __특성__ :[[br]]불꽃몸 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[도깨비불]][[br]][[섀도볼]][[br]][[풀묶기]] || __기술배치__ :[[br]][[섀도볼]][[br]][[파도타기]][[br]][[에너지볼]][[br]][[소금물]] || __기술배치__ :[[br]][[저주]][[br]][[깨트리다]][[br]][[지진]][[br]][[섀도펀치]] || __기술배치__ :[[br]][[불대문자]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]][[br]][[보복]] ||
+
+=== 2차전 ===
+||<tablealign=center><#666699> attachment:/bwspmmg_5_(7).gif ||<#6699ff> attachment:/bw1egsp5_(1).GIF ||<#cccc66> attachment:/bwsym5_(9).gif ||<#99cccc> attachment:/bwspmmg_5_(6).gif ||<#666699> attachment:/bwfgp5_(5).gif ||<#666699> attachment:/1bpsbws5_(4).GIF ||
+||<#dcdcdc> [[데스니칸]] ♀[[br]](Lv.71) ||<#dcdcdc> [[탱탱겔]] ♀[[br]](Lv.71) ||<#dcdcdc> [[골루그]][[br]](Lv.71) ||<#dcdcdc> [[눈여아]] ♀[[br]](Lv.71) ||<#dcdcdc> [[둥실라이드]] ♀[[br]](Lv.71) ||<#dcdcdc> [[샹델라]] ♀[[br]](Lv.73) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.5" attachment:/Pokemon_Type_Water.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.6" attachment:/Pokemon_Type_Ice.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+|| __특성__ :[[br]]미라 || __특성__ :[[br]]저주받은바디 || __특성__ :[[br]]철주먹 || __특성__ :[[br]]눈숨기 || __특성__ :[[br]]유폭 || __특성__ :[[br]]불꽃몸 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[섀도볼]][[br]][[도깨비불]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[에너지볼]] || __기술배치__ :[[br]][[오물웨이브]][[br]][[하이드로펌프]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]] || __기술배치__ :[[br]][[암해머]][[br]][[지진]][[br]][[섀도펀치]][[br]][[저주]] || __기술배치__ :[[br]][[눈보라]][[br]][[얼음뭉치]][[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] || __기술배치__ :[[br]][[번개]][[br]][[섀도볼]][[br]][[애크러뱃]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] || __기술배치__ :[[br]][[불대문자]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]][[br]][[보복]] ||
+
+== [wiki:"포켓몬스터 블랙·화이트 2" 블랙·화이트 2] ==
+=== 노멀 모드 1차전 ===
+||<tablealign=center><#666699> attachment:/bwspmmg_5_(7).gif ||<#666699> attachment:/bwfgp5_(5).gif ||<#cccc66> attachment:/bwsym5_(9).gif ||<#666699> attachment:/1bpsbws5_(4).GIF ||
+||<#dcdcdc> [[데스니칸]] ♀[[br]](Lv.56) ||<#dcdcdc> [[둥실라이드]] ♀[[br]](Lv.56) ||<#dcdcdc> [[골루그]][[br]](Lv.56) ||<#dcdcdc> [[샹델라]] ♀[[br]](Lv.58) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+|| __특성__ :[[br]]미라 || __특성__ :[[br]]유폭 || __특성__ :[[br]]철주먹 || __특성__ :[[br]]불꽃몸 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] ||
+|| __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]][[br]][[도깨비불]][[br]][[풀묶기]] || __기술배치__ :[[br]][[애크러뱃]][[br]][[10만볼트]][[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] || __기술배치__ :[[br]][[지진]][[br]][[섀도펀치]][[br]][[헤비봄버]][[br]][[깨트리다]] || __기술배치__ :[[br]][[불대문자]][[br]][[에너지볼]][[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] ||
+
+=== 노멀 모드 2차전 ===
+||<tablealign=center><#666699> attachment:/bwspmmg_5_(7).gif ||<#666699> attachment:/bwspmmg_5_(1).gif ||<#99cccc> attachment:/bwspmmg_5_(6).gif ||<#666699> attachment:/bwfgp5_(5).gif ||<#cccc66> attachment:/bwsym5_(9).gif ||<#666699> attachment:/1bpsbws5_(4).GIF ||
+||<#dcdcdc> [[데스니칸]] ♀[[br]](Lv.72) ||<#dcdcdc> [[무우마직]] ♀[[br]](Lv.72) ||<#dcdcdc> [[눈여아]] ♀[[br]](Lv.72) ||<#dcdcdc> [[둥실라이드]] ♀[[br]](Lv.72) ||<#dcdcdc> [[골루그]][[br]](Lv.72) ||<#dcdcdc> [[샹델라]] ♀[[br]](Lv.74) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.6" attachment:/Pokemon_Type_Ice.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+|| __특성__ :[[br]]미라 || __특성__ :[[br]]부유 || __특성__ :[[br]]눈숨기 || __특성__ :[[br]]곡예 || __특성__ :[[br]]철주먹 || __특성__ :[[br]]불꽃몸 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.41.1"비행주얼] || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] ||
+|| __기술배치__ :[[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[도깨비불]][[br]][[에너지볼]] || __기술배치__ :[[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[파워젬]][[br]][[멸망의 노래]] || __기술배치__ :[[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[눈보라]][[br]][[얼음뭉치]] || __기술배치__ :[[br]][[번개]][[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[애크러뱃]] || __기술배치__ :[[br]][[섀도펀치]][[br]][[지진]][[br]][[암해머]][[br]][[스톤에지]] || __기술배치__ :[[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[불대문자]][[br]][[에너지볼]] ||
+
+=== 챌린지 모드 1차전 ===
+||<tablealign=center><#666699> attachment:/bwspmmg_5_(7).gif ||<#666699> attachment:/bwfgp5_(5).gif ||<#cccc66> attachment:/bwsym5_(9).gif ||<#666699> attachment:/bwspmmg_5_(4).gif ||<#666699> attachment:/1bpsbws5_(4).GIF ||
+||<#dcdcdc> [[데스니칸]] ♀[[br]](Lv.60) ||<#dcdcdc> [[둥실라이드]] ♀[[br]](Lv.60) ||<#dcdcdc> [[골루그]][[br]](Lv.60) ||<#dcdcdc> [[다크펫]] ♀[[br]](Lv.60) ||<#dcdcdc> [[샹델라]] ♀[[br]](Lv.62) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+|| __특성__ :[[br]]미라 || __특성__ :[[br]]곡예 || __특성__ :[[br]]철주먹 || __특성__ :[[br]]불면 || __특성__ :[[br]]불꽃몸 ||
+|| __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.3"먹다남은음식] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.41.1"비행주얼] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.21"달인의띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.23"힘의머리띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.39.3"구애스카프] ||
+|| __기술배치__ :[[br]][[풀묶기]][[br]][[섀도볼]][[br]][[도깨비불]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[10만볼트]][[br]][[섀도볼]][[br]][[애크러뱃]] || __기술배치__ :[[br]][[헤비봄버]][[br]][[지진]][[br]][[깨트리다]][[br]][[섀도펀치]] || __기술배치__ :[[br]][[섀도크루]][[br]][[도깨비불]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[기습]] || __기술배치__ :[[br]][[불대문자]][[br]][[에너지볼]][[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] ||
+
+=== 챌린지 모드 2차전 ===
+||<tablealign=center><#666699> attachment:/bwspmmg_5_(7).gif ||<#666699> attachment:/bwspmmg_5_(2).GIF ||<#99cccc> attachment:/bwspmmg_5_(6).gif ||<#666699> attachment:/bwfgp5_(5).gif ||<#cccc66> attachment:/bwsym5_(9).gif ||<#666699> attachment:/1bpsbws5_(4).GIF ||
+||<#dcdcdc> [[데스니칸]] ♀[[br]](Lv.77) ||<#dcdcdc> [wiki:"팬텀(포켓몬스터)"팬텀] ♀[[br]](Lv.77) ||<#dcdcdc> [[눈여아]] ♀[[br]](Lv.77)  ||<#dcdcdc> [[둥실라이드]] ♀[[br]](Lv.77) ||<#dcdcdc> [[골루그]][[br]](Lv.77) ||<#dcdcdc> [[샹델라]] ♀[[br]](Lv.79) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.16" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.6" attachment:/Pokemon_Type_Ice.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.13" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.17" attachment:/Pokemon_Type_Ghost.png]][[wiki:"포켓몬스터/타입#s-3.1" attachment:/Pokemon_Type_Fire.png]] ||
+|| __특성__ :[[br]]미라 || __특성__ :[[br]]부유 || __특성__ :[[br]]눈숨기 || __특성__ :[[br]]곡예 || __특성__ :[[br]]철주먹 || __특성__ :[[br]]불꽃몸 ||
+|| __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.3"먹다남은음식] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.21"달인의띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.22"박식안경] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.41.1"비행주얼] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.23"힘의머리띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.39.3"구애스카프] ||
+|| __기술배치__ :[[br]][[섀도볼]][[br]][[도깨비불]][[br]][[에너지볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] || __기술배치__ :[[br]][[섀도볼]][[br]][[기합구슬]][[br]][[오물폭탄]][[br]][[악의파동]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]][[br]][[눈보라]][[br]][[얼음뭉치]] || __기술배치__ :[[br]][[섀도볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[애크러뱃]][[br]][[번개]] || __기술배치__ :[[br]][[섀도펀치]][[br]][[지진]][[br]][[암해머]][[br]][[스톤에지]] || __기술배치__ :[[br]][[불대문자]][[br]][[섀도볼]][[br]][[에너지볼]][[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스] ||
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 SPECIAL]]에서 ==
+attachment:/Shauntal_Adventures.png?height=330
+
+[wiki:"화이트(포켓몬스터 SPECIAL)" 화이트]가 탔던 [[배틀서브웨이]]에 탑승해서 소설을 쓰고 있었는데, 중간에 [[토네로스]]와 [[볼트로스]]가 맞장을 뜨는 걸 비바람이 몰아치는 밖에서 지켜보았다. 이때 옷이 조금 젖어서 흐트러진다.--[[olleh]]!--
+
+[[각주]]

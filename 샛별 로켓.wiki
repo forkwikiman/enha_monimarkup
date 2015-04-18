@@ -1,0 +1,39 @@
+'''明星ロケット'''
+
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/wyhl7WW7L-4" frameborder="0" allowfullscreen></iframe>
+}}}
+Sound only
+
+[[동방 프로젝트]] 어레인지곡. 원곡은 동방문화첩 ~ 레트로스펙티브교토 어레인지곡으로, 작곡은 ZUN. [[키시다교단]]이 어레인지 한 곡이다.
+
+== [[사운드 볼텍스]]에 수록 ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/lbZ2VOserII" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/13/jk_001_0092_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/13/jk_001_0092_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/13/jk_001_0092_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 08}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0579}}} || {{{#orange 0775}}} || {{{#ff009f 1054}}} ||
+|| 일러스트 담당 || {{{#purple 蒲焼鰻}}} || {{{#orange 蒲焼鰻}}} || {{{#ff009f 蒲焼鰻}}} ||
+|| 이펙터 || {{{#purple 月刊ミズタニ}}} || {{{#orange 月刊ミズタニ}}} || {{{#ff009f 月刊ミズタニ}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 13(2012.9.21)}}} ||
+|| [[BPM]] |||||| 163 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 02(2013.9.5 ~ 2013.10.4, 2013.10.31 ~ 2013.12.6), Skill Level 02 B코스(2014.12.26 ~ 2015.2.27)
+  * EXHAUST : Skill Level 05(2014.7.4 ~ 2014.11.20)
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/DkJYIiVH8JU" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+영상 1분 43초 부분에 주목해야 한다. [[恋する☆宇宙戦争っ!!]] あばばばみっくす에서 처음 나온 [[PHQUASE]] 트랩의 변형판이 여기에서 처음 나왔는데, 각각의 노브들이 반대 방향으로 갔다가 건너편으로 가지 않는 함정이다. 여기에 대차게 낚이면 레이트가 뚝뚝 떨어지게 되며, 마지막에는 정상적으로 돌아가게 되니 노브를 집중해서 보지 않으면 [[폭사]]할 가능성이 크다.

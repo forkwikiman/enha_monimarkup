@@ -1,0 +1,65 @@
+ * 상위 항목: [[영국군]], [[제트전투기]]
+
+[[include(틀:제트전투기/유럽)]]
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Jav1.jpg/640px-Jav1.jpg
+http://upload.wikimedia.org/wikipedia/commons/e/ec/Gloster_Javelin_Flixton_Aviation_Museum_geograph.org.uk_1430596_42634de5-by-Ashley-Dace.jpg
+
+||영문 ||Gloster Javelin ||
+
+|||| 운용과 퇴역 ||
+||초도비행 ||[1951년] [11월 26일]  ||
+||도입 ||[1956년] [2월 29일] ||
+||퇴역 ||[1968년] [4월] ||
+||생산 ||422기 ||
+
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<iframe width="640" height="480" src="//www.youtube.com/embed/2l09cAjGZOs" frameborder="0" allowfullscreen></iframe>}}}
+
+|| The Gloster Jevelin. The First Delta All Weather Fighter Iterceptor. ||
+
+글로스터 자벨린은 영국이 [1950년대]에 운용한 야간 제트 전투기이다. 이것은 1950년대초에 영국공군에 납품되었다. 주 임무는 방공요격이었으며 주야간 전처후 전투기로 사용되었다. 모두 436대가 생산된 이 전투기는 2인용 복좌기이다. 2인승 좌석에는 조종사와 레이다조작사가 탑승한다. 레이다전문 조작사는 단거리 열추적미사일을 발사한다. 글로스터 자벨린의 항속거리는 F-86세이버의 반에 불과하다고 한다. 상승력 또한 많이 부족하여 [F-86]의 절반에 불과하다. 초도비행은 [1951년]도에 시작했으며 도입은 [1956년]에 결정되었다. [1951년]에 첫번째 프로토 타입이 완성되었고 [1953년]에 두번째 프로토타입(WD808)은 개량된 날개를 장착하였다. [1953년], 레이더 등의 운용 장비를 장착하고 세번째 프로토타입 (WT827)이 비행하였다. [1968년]에 모든 기체가 퇴역하였다.
+
+== 제원 ==
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Gloster_Javelin.svg/686px-Gloster_Javelin.svg.png
+
+|||| 글로스터 자벨린의 제원 ||
+||승무원 ||2 명 ||
+||길이 ||56 ft 9 in (17.15 m) ||
+||날개폭 ||52 ft (15.85 m) ||
+||높이 ||16 ft (4.88 m) ||
+||날개 넓이 ||927 ft² (86 m²) ||
+||비무장 중량 ||24,000 lb (10,886 kg) ||
+||무장 중량 ||31,580 lb (14,325 kg) ||
+||최대이륙 중량 ||43,165 lb (19,580 kg) ||
+||엔진 ||2 × 암스트롱 시들리 사파이어 7R 터보제트 엔진, 12,300 lbf (54 kN) ||
+
+== 파생형 ==
+ * FAW 1
+
+ * FAW 2
+
+ * T 3
+
+ * FAW 4
+
+ * FAW 5
+
+ * FAW 6
+
+ * FAW.7
+
+ * FAW 8
+
+ * FAW 9
+
+ * FAW 9R
+
+== 관련 문서 ==
+[http://en.wikipedia.org/wiki/Gloster_Javelin Gloster Javelin]
+
+== 관련 항목 ==
+ * [항공 병기]

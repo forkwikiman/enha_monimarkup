@@ -1,0 +1,32 @@
+초대 [[그라디우스]]의 첫 스테이지 배경음악.
+
+[[그라디우스 시리즈]]의 상징이라고도 할 수 있고 가끔 주인공 [[빅 바이퍼]]의 테마곡이라고도 할 수 있다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/3DFr_uznus4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3DFr_uznus4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+Challenger 1985의 발전사. 아케이드 버전과 [[패미컴]] 버전이 잘 알려져 있다.
+다른 기종 버전과 비교해가며 들어보는 것도 나쁘지 않다.
+
+가끔 [[그라디우스]]의 4번째 스테이지 배경음악 Free Flyer와도 분위기가 비슷하고 둘의 스테이지 테마까지 비슷한지라(화산-역화산) 어레인지될 때 같이 엮이는 경우도 있다.
+
+사례로 [[게임보이]]로 발매된 [[wiki:"네메시스(그라디우스 시리즈)" 네메시스]]의 첫 스테이지 배경음악으로 Free Flyer가 한번 나온뒤 Challenger 1985가 반복재생된다. 또 [[wiki:"오토메디우스" 오토메디우스 G]] 아노아 BGM 팩의 3스테이지 BGM도 명목상으로는 Challenger 1985의 리메이크지만, 실제로는 Free Flyer와 섞여 있다.
+
+PS2로 발매된 [[그라디우스 V]]의 오프닝 테마와 스테이지 2/스테이지 8 BGM BATTLESHIP의 도입부는 이 곡을 어레인지한 것이다. [http://www.youtube.com/watch?v=rgPwhLPHfKg 듣기] 또 네임 엔트리 곡 역시 이 곡의 첫 부분 소절이 섞여 있다.
+
+== 사용처 ==
+ * [[그라디우스]] - Challenger 1985 (처음에는 "1st Stage")
+ 첫 스테이지에서 등장. 기종마다 음악의 흐름이 약간 다를때가 있다.
+ * [[그라디우스 III]] - Challenger 1985
+ 보너스 스테이지에서 등장.
+ * [wiki:"네메시스(그라디우스 시리즈)" 네메시스(게임보이)]
+ 첫 스테이지에서 Free Flyer가 한번 나오고 난뒤 나온다.
+ * [[극상 파로디우스]]
+ 스페셜 스테이지 돌입할 때 처음에 잠깐 나온다.
+ * [[도키메키 메모리얼]]
+ 1학년 문화제 때 취주악부에 가거나, 취주악부 소속이면 들을 수 있다. Beginning of the History에 이어 연주되는 흐름으로, 오케스트라 편곡.
+ * [[섹시 파로디우스]]
+ 모든 미션 성공시 돌입하는 스페셜 스테이지에서 극상 파로디우스와 마찬가지로 처음에 잠깐 나온다.
+ * [[GRADIUS -FULL SPEED-]]. [[GRADIUS 2012]]
+ 둘 다 곡 초반부에 삽입되어 있다.

@@ -1,0 +1,10 @@
+[[include(틀:SI 접두어)]]
+
+Femto
+약칭: f
+
+10의 -15승을 지칭하는 용어로, [[피코]]의 1/1000이자 [[아토]]의 1000배이다. 1964년에 [[SI 접두어]]에 편입되었으며, 어원은 15를 나타내는 [[덴마크어]] 표현인 femten이다. 한자로는 '잠시, 순간'을 뜻하는 '수유(須臾)'.
+
+[[양성자]]의 지름이 대략 1.6~1.7 펨토미터가 된다.
+
+하드디스크 제조사인 히타치GST의 특허 중 펨토 슬라이더(femto slider), 펨토 웨이퍼(femto wafer) 등의 기술이 있다. [http://www.hitachigst.com/tech/techlib.nsf/techdocs/AE7AEDB327B2E21186256D330078799B/$file/Femto_white_paper_FINAL_082505.pdf 해당 자료의 기술문서를 참조하자.]

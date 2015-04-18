@@ -1,0 +1,23 @@
+http://popsci.hankooki.com/upload/news/2008/4073_161648_1.jpg
+
+http://popsci.hankooki.com/upload/news/2008/4073_161648_2.jpg
+
+http://www.joysf.com/files/attach/images/2044932/2110486/cormorant1.jpg
+--뭐야 이거 실루엣이 딱[[wiki:"망령(스타크래프트)" 레이스]]인데?-- --웃는 레이스--
+[[F-22]]와 [[F-35]]를 개발한 [[록히드 마틴]]에서 연구된 [[UAV]]. 코모란트라는 이름은 [[가마우지]]를 뜻하는 영어 단어(cormorant)에서 나왔다.
+
+[[프레데터]]나 [[리퍼]], [[글로벌 호크]]와 다르게 이 녀석은 [[오하이오급]] 잠수함의 미사일 발사관에서 발사되어 이함한다.
+
+이녀석의 운용방법을 보여주는 동영상
+{{{#!html
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/uNx28Xff5Yg&hl=ko"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/uNx28Xff5Yg&hl=ko" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+}}}
+
+수중에서 미사일 발사관에 넣어(2M정도 둘레)발사해야 하며, 수압에 버티면서도 가벼워야 했기에 티타늄 동체의 접이식 날개와, 별도의 도킹선으로 천천히 수면위로 부상한 다음 모선을 분리시킨 후 날아가는 방식으로 시스템을 설계했다. 갑자기 바닷속에서 전투기가 튀어나오는 모습을 본 상대는 위압감+공포심을 패키지로 받을 듯 하다. ㅎㄷㄷ
+
+지금은 DARPA의 예산삭감 때문에 추가 자금지원이 이루어지지 않으면서 중단된 상태이지만, 다시 재가동될 가능성이 일단 높다.
+그리고 록허드 마틴 주도로 만들어진 [[http://www.youtube.com/watch?v=clW0qecco-0&feature=youtu.be&t=1m44s 스컹크 웍스 70주년 기념 동영상]][* 1분 24초 쯤]에 얼굴을 내보이면서 아직 살아있음을 인증하였다.
+
+'''정면의 생겨먹은 모습이 입벌리고 헤헤 웃는 모습이라, JSF 후보 였던 [[X-32]]와 함께 주목받았다.'''
+
+만약 이게 실현된다면 [[풀 메탈 패닉]]의 [[투아하 데 다난]]과 비슷한 [[잠수 항모]]가 실현되는 것이다.

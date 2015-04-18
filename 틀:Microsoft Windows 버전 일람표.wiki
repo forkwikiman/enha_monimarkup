@@ -1,0 +1,15 @@
+||||||||<tablewidth=100%><#00BFFF> '''[[Microsoft Windows/버전|Microsoft Windows 버전 일람표]]''' ||
+||||||||<#81DAF5> '''DOS 병행 시절''' ||
+||<width=10%><rowbgcolor="#81DAF5"> '''DOS 계열''' ||<width=10%> '''[[Windows 9x|9x]] 계열''' ||||<width=10%> '''NT 계열''' ||
+|| [[Microsoft Windows/버전#s-1.1|Windows 1.x]] || [[Windows 95]] ||||<:> [[Windows NT#s-3.1.1|Windows NT 3.x]] ||
+||<|2> [[Microsoft Windows/버전#s-1.2|Windows 2.x]] || [[Windows 98]] ||||<|2> [[Windows NT 4.0]] ||
+|| [[Windows 98#s-2|Windows 98 Second Edition]] ||
+|| [[Windows 3.1]] || [[Windows Me]] |||| [[Windows 2000]] ||
+||||||||<#81DAF5> '''DOS 단종 이후''' ||
+||<rowbgcolor="#81DAF5"><:> '''서버용''' ||<width=5%> '''클라이언트용''' |||| '''휴대기기''' ||
+|| [[Windows Server 2003]] || [[Windows XP]] |||| [[Windows Embedded Compact]] (CE) ||
+|| [[Windows Server 2008]] || [[Windows Vista]] |||| [[Windows Mobile]] ||
+|| [[Windows Server 2008 R2]] || [[Windows 7]] |||| [[Windows Phone|Windows Phone 7]] ||
+|| [[Windows Server 2012]] || [[Windows 8]] || [[Windows 8|Windows RT]] || [[Windows Phone|Windows Phone 8]] ||
+|| [[Windows Server 2012 R2]] || [[Windows 8.1]] || [[Windows 8.1|Windows RT 8.1]] || [[Windows Phone|Windows Phone 8.1]] ||
+|| [[Windows 10 Server]] |||||| [[Windows 10]] ||

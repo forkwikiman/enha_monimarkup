@@ -1,0 +1,11 @@
+||<tablebgcolor=#ffeaea><tablewidth=100%><#ffcc33><-100> '''[[워크래프트 3]] [[오크 호드]]의 영웅, [[워크래프트 3/종족, 유닛, 건물|유닛, 건물들]]''' ||
+||<#ffcccc><|2><-3> '''[[알터 오브 스톰]]''' ||<-2> http://classic.battle.net/war3/images/orc/units/icons/blademaster.gif?width=20px ||<-2> http://classic.battle.net/war3/images/orc/units/icons/farseer.gif?width=20px ||<-3> http://classic.battle.net/war3/images/orc/units/icons/taurenchieftain.gif?width=20px ||<-2> http://classic.battle.net/war3/images/orc/units/icons/shadowhunter.gif?width=20px ||
+||<width=20%><-2> [[블레이드 마스터]] ||<width=20%><-2> [[파시어#s-1.2|파시어]] ||<width=20%><-3> [[타우렌 칩튼]] ||<width=20%><-2> [[쉐도우 헌터]] ||
+||<rowbgcolor=#ffcccc>　|| '''[[그레이트 홀]]''' ||<-2> '''[[배럭#s-3|배럭]]''' ||<-4> '''[[비스티어리]]''' ||<-3> '''[[스피릿 랏지]]''' || '''[[타우렌 토템]]''' ||
+||<#ffcccc><width=40px><|2> '''1티어''' || http://classic.battle.net/war3/images/orc/units/icons/peon.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/grunt.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/headhunter.gif?width=20px ||<-8><|2>　||
+|| [[피언]] || [[그런트(워크래프트)|그런트]] || [[트롤 헤드헌터]] ||
+||<#ffcccc><|2> '''2티어''' ||<|4>　||<-2> http://classic.battle.net/war3/images/orc/units/icons/demolisher.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/raider.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/kodobeast.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/wyvernrider.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/trollbatrider.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/shaman.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/witchdoctor.gif?width=20px || http://classic.battle.net/war3/images/orc/units/icons/spiritwalker.gif?width=20px ||<|2>　||
+||<-2> [[디몰리셔]] || [[레이더#s-2.1|레이더]] || [[코도 비스트]] || [[윈드라이더#s-2|윈드라이더]] || [[트롤 뱃라이더]] || [[샤먼(워크래프트 3)|샤먼]] || [[위치 닥터#s-2|트롤 위치 닥터]] || [[스피릿 워커]] ||
+||<#ffcccc><|2> '''3티어''' ||<-2> http://classic.battle.net/war3/images/orc/upgrades/berserker-small.gif?width=20px ||<-7><|2>　|| http://classic.battle.net/war3/images/orc/units/icons/tauren.gif?width=20px ||
+||<-2> [[트롤 헤드헌터|트롤 버서커]] || [[타우렌(워크래프트 3)|타우렌]] ||
+||<#ffcccc><-3> '''기타 건물들''' ||<-2> [[버로우#s-2.2|오크 버로우]] ||<-2> [[워 밀]] ||<-3> [[워치 타워#s-2|워치 타워]] ||<-2> [[부두 라운지]] ||

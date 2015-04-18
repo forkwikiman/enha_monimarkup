@@ -1,0 +1,57 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| Progressive Trance ||
+|| 곡명 |||||||| Dancing Light ||
+|| 작곡 |||||||| [wiki:"ATAS" ATAS] ||
+|| 배경 |||||||| BackMoSSi ||
+|| 최초 수록버전 |||||||| [wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] ||
+|| BPM |||||||| 135 ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/RD-wxjZG0o8" frameborder="0" allowfullscreen></iframe>
+}}}
+'''[http://www.youtube.com/user/EZ2Developer EZ2 ARCADE의 공식 유튜브 계정]'''에서 공개된 '''BGA'''[* '''16:9 비율로 공개된 최초의 공식 [[BGA]]다.''' 이전까지는 아케이드 해상도에 따른 4:3 비율로 공개되었다.]
+
+== 개요 ==
+[[ATAS]]가 작곡한 [wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC]의 신곡으로 선행 음원 프리뷰 때부터 공개된 곡이다. ATAS 특유의 슈팅게임 느낌이 나는 음색과 어느정도 진지한 분위기가 맞물린 곡. BPM은 보통 수준이고 패턴도 중저렙 정도 수준으로 등장한 편이라 인지도는 크게 높지 않은 편이나, 그 덕에 판정을 내기가 꽤 수월해서 판정 연습곡으로 적절한 곡. 
+
+전용 [[BGA]]가 존재하는데 완연히 슈팅게임과 전투기의 취향이 담긴 내용이다. WIND라는 전투기와 다른 전투기와의 배틀이 주된 내용으로 곡의 분위기와 싱크로가 일품이다.
+
+== 패턴 ==
+=== 5 Street mix ===
+{{{#!HTML
+<embed src="//www.youtube.com/v/pZFUlA1OSTs?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+NM MIX.
+
+{{{#!HTML
+<embed src="//www.youtube.com/v/t4B0vyhLhRU?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+NM & HD MIX.
+
+NM 패턴은 Lv.6, HD 패턴은 Lv.10으로 책정되어 있다.
+
+HD 패턴은 정박 페달과 주 멜로디를 2겹 노트 형태로 치는 패턴이 어느정도 나오며 가벼운 수준의 폭타가 곁들여진다. 중반부에 스네어 음이 교차돼서 여러번 나오는 구간에서 페달의 애매모호한 엇박과 스크래치 처리에 멘붕이 올 수 있으니 주의해서 플레이하자. 올콤을 노리는 유저에게 가장 까다로운 구간이 될 수 있다. 이후에는 복합적인 폭타가 몇번 나오면서 마무리된다.
+
+라디오 채널에서는 Ch. ENDLESS CIRCULATION, Ch. Flight Plan, Ch. ATAS에 수록되었으며 각각의 패턴은 스트릿과는 다른 특수한 패턴이다.
+=== EZ2 Catch ===
+{{{#!html
+<iframe width="560" height="360" src="//www.youtube.com/embed/nazcdE97brw" frameborder="0" allowfullscreen></iframe>
+}}}
+난이도에 비해 '''사기레벨'''이다. 정신나간 패턴이 부분적으로 나오기 때문에 어정쩡한 실력으로는 클리어에 많은 어려움을 겪게된다. 체감난이도는 11~12정도
+
+한때 이 곡이 ENDLESS 중 'E'의 해금을 해야되는 곡으로 나돌았었다.[* 그런데 현실은 1스테이지에서만 적용인데, 이 곡은 3스테이지곡이다.]
+=== Turntable ===
+노올송 시 3스테이지에 나오며 난이도는 10. 5 Street NM 패턴을 어느 정도 열화시킨 패턴인데, 후반 이전까지는 손만 이리저리 잘 움직여 주면 크게 어렵지 않은 패턴들이 나오다가 후반부에 갑자기 2연타 계단의 강화형태인 3연타를 기반으로 줄이 바뀔 때 이전 줄에 노트가 하나 남아 있는 구조의 3연타 계단 패턴이 나오고, 그 뒤로는 원래 단노트로 나오던 주멜로디들이 죄다 1번이나 5번 키를 고정시킨 상태에서 다른 노트의 위치가 바뀌는 식의 겹노트 패턴으로 바뀐다. 후반부의 이 패턴들이 상당히 위협적인 패턴이기 때문에 입문자들은 후반부를 조심할 것. 클리어 난이도는 10 중급 정도이다.
+[[각주]]

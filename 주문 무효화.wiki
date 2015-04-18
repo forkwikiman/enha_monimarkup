@@ -1,0 +1,49 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Counterspell''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/126212_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''주문 무효화''' ||
+|| '''마나비용''' || {U}{U} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 순간마법 ||
+||||<height=160px>주문을 목표로 정한다. 그 주문을 무효화한다.
+||
+
+주문이 스택에 있는 상태에서 무효화시키는, 청색을 대표하는 카드. 높은 효율로 청색덱을 쓰는 사람은 닥치고 덱에 4장씩 쑤셔 넣는 것이 관례였으나 너무 강하다고 판단되어 7th Edition을 끝으로 절판되었다. 이게 절판되고 8판부터 2마나 카운터는 [[마나 유실]], [[Remand]] 등 뭔가 약점이 하나씩 있는 주문들이 대신하게 되었다. 그래도 2마나 카운터의 강력함 때문에, 이런 하위호환 주문이라도 모던 포맷에 가서는 덱에 꼭꼭 투입된다.
+
+마나 지불을 하지 않아도 되는 유사품으로 [[Force of Will]]이 있고, 그 밖에도 수 많은 약화판을 양산했다. 단 '''완전한 상위호환'''으로는 [[Mana Drain]]이 있으며, 이쪽은 너무 강력한 나머지 레가시에서조차 금지를 당했다.
+현재 스탠다드에 있어서 가장 가까운 후손은 Time Spiral 에서 등장한 [[주문 취소]]. 1UU에 주문 무효화와 같은 능력을 지닌 이 카드가 10th Edition 이후로 계속 여러 기본판과 확장판에 연달아 등장하게 됨에 따라, 원조가 돌아올 확률은 낮다고 할 수 있다.
+
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Limited Edition Alpha ||<|5><:>코어세트||<|5><:>언커먼||
+|| Limited Edition Beta ||
+|| Unlimited Edition ||
+|| Revised Edition ||
+|| Fourth Edition ||
+|| Ice Age || Ice Age ||<|4><:>커먼||
+|| Fifth Edition || 코어세트 ||
+|| Tempest || Tempest ||
+|| Classic Sixth Edition || 코어세트 ||
+|| Starter 1999 || 없음 || 언커먼 ||
+|| Mercadian Masques || Masques ||<|6><:>커먼||
+|| Battle Royal Box Set ||<|3><:>없음||
+|| Starter 2000 ||
+|| Beatdown Box Set ||
+|| Seventh Edition || 코어세트 ||
+|| Duel Decks: Jace vs. Chandra || 없음 ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+||<|3><:>블럭컨스|| Ice Age 블럭 ||<|3><:>사용가능||
+|| Tempest 블럭 ||
+|| Masques 블럭 ||
+|| 레가시 ||||<|2><:>사용가능||
+|| 빈티지 ||
+
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''배경담''' ||
+|| Ice Age ||''"The duel was going badly for me, and Zur thought I was finished. He boasted that he would eat my soul—but all he ate were his words."[[br]]—Gustha Ebbasdotter,[[br]]Kjeldoran Royal Mage''||
+|| Tempest ||''"쳇! 별로 중요하지 않은 주문이었다고." -[[에르타이, 숙련 마법사]]''||
+|| Mercadian Masques ||''"Your attack has been rendered harmless. It is, however, quite pretty."[[br]]—Saprazzan vizier''||
+|| Duel Decks: Jace vs. Chandra ||''[wiki:"Chandra Nalaar" The pyromancer] summoned up her mightiest onslaught of fire and rage. [wiki:"Jace Beleren" Jace] feigned interest.''||

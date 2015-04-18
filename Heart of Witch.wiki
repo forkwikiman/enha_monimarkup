@@ -1,0 +1,101 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [wiki:"DJMAX Portable Black Square" DJMAX Portable Black Square] ||
+|| 작곡 || [wiki:"M2U" ReX] ||
+|| BGA || Tari ||
+|| [[BPM]] || 170 ||
+|| 장르 || [["트랜스" Classical Trance]] ||
+
+[M2U]가 ReX 명의로 작곡한 Classical Trance. 최초 수록은 블랙 스퀘어. [[DJMAX TECHNIKA 2]], [[DJMAX Trilogy]]에도 수록.
+BPM이 상당히 빠른 게 특징이다. 피아노 음과 어울려 나름대로 괜찮은 평을 받는 메트로 프로젝트의 곡.
+
+약칭은 '''하오위'''. 별칭은 제목을 직역하면 마녀의 심장이라는 의미이므로 '''마녀염통'''이라 불리기도(…).
+
+BGA는 [[DJMAX 온라인]]와 [[DJMAX Portable 2]] 시절에 수많은 BGA를 제작했던 [[TARI]]가 간만에 참가해서, ETER의 동반 참가 없이 혼자 만들었다.
+
+스토리가 없을 것 같지만, '''있다!''' 내용인 즉슨 수많은 메이드들을 데리고 사는 엘리자베스(적발 소녀)의 성에 갇히고 자폐증을 보이는 루이제(백발 소녀)를 구출하기 위해 그녀의 친구인 듯한 캐롤(흑발 소녀)가 잠입하고 루이제의 언니인 줄리안(금발 소녀)는 위장 취업(...)을 한다. 엘리자베스의 목욕 장면에 나오는 희생자들의 허우적대는 손이 그녀의 본성을 드러내기도. 후에 캐롤은 루이제를 구출하고픈 마음을 간직한 채 박제처럼 되어버리지만, 줄리안은 어찌어찌해서 구출하는 데 성공하는 것 같은데... 결말은 나오지 않는다. 참고로 이 스토리는 TARI 본인이 블로그를 통해 공개했다.
+
+모티브는 [[바토리 에르체베트]]라고 한다. 신기한 건 ReX도 TARI도 처음부터 바토리를 생각하고 만들었고 나중에서야 서로 같은 모티브를 생각했음을 알았다고 한다. ~~텔레파시라도 통한 건가 [wiki:"몰라 뭐야 그거 무서워"뭐야 이 두 사람 무서워]~~
+
+
+== DJMAX Portable Black Square ==
+{{{#!html
+<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/jH_xcJFBOTs?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+'''4버튼 MX'''
+
+중상위급의 난이도를 보여주며, 노트의 배치가 그렇게 까다롭지는 않지만 빈틈을 주지 않고 많은 수가 내려오기 때문에 체력을 요하는 곡이다. 특히나 피버가 늘면서 빨라지는 속도도 문제.
+
+BS의 앨범모드에서 동영상을 볼때 O버튼을 누르면 나오는 곡명이 '''Heart of which'''라고 잘못 나온다.
+
+== [wiki:"DJMAX TECHNIKA"DJMAX TECHNIKA 시리즈] ==
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/1k8QNPWUHS4" frameborder="0" allowfullscreen></iframe>}}}
+
+'''하드패턴 영상'''
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 100 Max || 5 || 4박 스크롤 || ||
+||<#FFFF00> Normal || D || 150 Max || 5 || 4박 스크롤 || [wiki:"A to Z"미션 - Magenta Mist] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 200 Max || 7 || 4박 스크롤 ||  [[Unplugged Set]] 하위 보스곡 ||
+||<#FF0000> Maximum || B || 250 Max || 8 || 4박 스크롤 || [wiki:"Raconteur"미션 - Marchen] 수록 ||
+
+
+노멀 패턴은 단순한 편이나, 5레벨 치고 스크롤이 꽤 빠른 편이기 때문에 초보자들은 어느정도 주의할 필요가 있다.
+
+[[Unplugged Set]]하위 보스곡으로 레벨 7의 HD패턴이 등장. 등장 당시에는 노말 퍼포먼스 보스곡 치곤 너무 어렵다는 의견이 많았다. [[피아노 협주곡 1번]]의 미친 난이도 때문에 묻히긴 했지만... 사실 노멀 퍼포먼스의 보스곡 치고는 어려운 곡이지만, 그래도 노트배치가 단순한 탓에 같은 7레벨 곡들에 비하면 어려운 편은 아니다. 게다가 [DJMAX TECHNIKA 3]에 와서는 [wiki:"Kung-Fu Rider"이보다] [wiki:"A Life With You"더 어려운] [wiki:"Right Back"보스곡들도] 많이 추가되어 상대적으로 평범한 노멀 퍼포먼스의 보스곡으로 변하였다.
+
+6차 맥스샵 업데이트때 등장한 8레벨의 MX패턴은 분홍노트 위주였던 NM, HD 패턴에 비해 관절이 대폭 추가되었다. NM,HD에서 뒤로 휙휙 지나가던 피아노 [[키음]]들을 빠짐없이 연결형 노트로 끄집어냈으니.. 그야말로 처음부터 끝까지 긁기의 향연. 그로 인해 긁기를 얼마나 잘 하느냐에 따라 개인차가 갈리는 패턴이다.
+
+가끔 키음이 싱크 안 맞는다고 까이는 일은 있다.
+
+== 기타 DJMAX 시리즈 ==
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='bl3A4ZKBPMo$' width='642px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=bl3A4ZKBPMo$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=bl3A4ZKBPMo$' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+트릴로지 6키 영상.
+
+
+4/28 업데이트와 함께 [DJMAX Trilogy]에 수록이 확정되었다. [[Cypher Gate]]와 [wiki:"Fate~運命~"Fate]가 비교적 평범한 출현 조건[* Cypher Gate : 프리스타일 모드 50000콤보 달성(Stage 3에 출현), Fate : 모드 상관없이 한 보면 --AA 랭크 이상 클리어로 추정-- 정확도 98%이상 클리어로 추정 (Stage 1에 출현)]을 가진데다가 그냥 스테이지 모드에서 플레이하면 바로 해금된다. [[루리웹]] 등지의 분석으로 인해 엑스트라 스테이지에서 소환시킬 조건은 스테이지 모드 모든 스테이지 A 이상이고, 해금을 위해서는 2011콤보를 달성하면 된다.[* 정확하게 말하자면, 2011콤보를 만든 다음에 브레이크를 내어서 끊어버리면 된다. 그 뒤론 상관없음] 그런데 정작 해금 했더니 싱크도 안맞고 음질도 맛이 간듯해서 [[탭 소닉]]버전보다도 못하다는 평이 있다.[* 그런데 2010년 6월 4일 패치로 추가수록된 [[Son of Sun]]도 같은 문제를 가지고 있었다.] 결국 5월 12일 업뎃을 통해 음질 문제가 수정되었다.
+위 영상은 엑스트라 스테이지에서 소환하여 찍힌 것이다.
+
+웃기게도 MV실에서 이 곡의 설명을 보면 [[Grave Consequence]]의 내용이 들어가 있다.(…)
+
+어쨌거나 트릴로지까지 이식되면서 인기곡 반열에 오르게 되었다. 패턴이 ~~[wiki:"찰지구나" 찰지기]~~괜찮기 때문. 이 곡의 최고 난이도 패턴은 8key SC. 레벨이 무려 17이다!
+
+[[TAP SONIC]]에서도 당연히 수록되었다. 특히 탭소닉에서 플레이되는 DJMAX 시리즈 곡 중 인기가 가장 높은 곡이다. 처음부터 끝까지 이어지는 폭타덕분에 치는 맛이 있는듯. 덕분에 6라인 레전드 9레벨 중에서도 레벨 값을 제대로 하고 있다. 참고로 TAP SONIC에서의 패턴이 기타 DJMAX 시리즈에서의 패턴들과 비교해서 '''가장 완성도가 높다!'''
+
+== [[DJMAX RAY]] ==
+
+|||||||||| [DJMAX RAY]의 DJMAX CLASSIC 7 팩 수록곡 ||
+|| [[wiki:"Elastic Star"Elastic Star Garage Remix]] || [[StarFish]] || [[Divine Service]] || [[Out Law]] || '''Heart of Witch''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 5 || ||
+||<#0000FF> {{{#white HD}}} || 7 || ||
+||<#FF0000> MX || 10 || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/DpLNIlYbTB0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+여기서는 DJMAX Classic 7의 해금곡으로 등장했다. MX 패턴의 난이도는 10. 탭소닉 패턴이 바이올린 폭타를 위주로 했다면 이 쪽은 기존 DJMAX에서처럼 피아노와 드럼 폭타를 이용했다. 탭소닉 패턴과 비교하면 처음은 더 쉽지만 갈수록 더 어려워진다. 이 덕분에, Enemy Storm MX를 제치고 Classic 뮤직 팩 보스곡으로 올라섰다. ~~그래도 [wiki:"Nightmare"얘][wiki:"SINister Evolution"네][wiki:"Minus 3"들]보다는 쉽다.~~
+== 여담 ==
+마녀의 심장이라는 테마이다 보니 [[괭이갈매기 울 적에]]의 애니 영상을 이용한 매드무비도 있다.
+
+이 곡이 공개되었을 때, 음색과 쓰인 악기 등이 여러모로 [[EZ2DJ]]의 [[The Prince of Darkness]]와 비슷하다는 의견이 많이 나왔었다. 그래서 이를 근거로 [[M2U]] = [[ReX]]설을 주장하는 사람들도 있었다.
+'''[[그런데 그것이 실제로 일어났습니다]]'''
+
+{{{#!html
+<iframe title="YouTube video player" width="425" height="349" src="http://www.youtube.com/embed/H1UAZABws4k?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+이뿐만 아니라, [[마법소녀 마도카 마기카]]를 이용한 [http://www.youtube.com/watch?v=WRrRbvjXJOw 매드무비]도 존재한다. 마녀 소재에다 어두운 색채 덕분에 상성이 좋아 퀄리티가 엄청 높다.
+
+[[BEATCRAFT CYCLON]]에 수록된 같은 작곡가의 [[H.O.W.Ling]]이 이 곡의 후속곡이라고 한다.
+
+[[각주]]

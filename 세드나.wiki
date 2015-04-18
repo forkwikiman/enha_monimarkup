@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>RigVeda Wiki: 위키 점검중입니다</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=640" />
+		<style type="text/css" media="screen">
+		html, body { height:100%; background-color: #ffffff;}
+		body { margin-top:20px; padding:0; overflow:hidden; text-align:center; font-size:12px }
+		</style>
+	</head>
+	<body>
+		<div style="width:497px;height:479px;margin:0 auto;background:url('/r1/imgs/mainternance.jpg')">
+			<object type="application/x-shockwave-flash" data="/r1/imgs/mainternance.swf" width="1" height="1">
+				<param name="allowScriptAccess" value="sameDomain"> 
+				<param name="movie" value="/r1/imgs/mainternance.swf"> 
+				<param name="quality" value="high"> 
+				<embed src="/r1/imgs/mainternance.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="Untitled-1" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"> 
+			</object> 
+		</div>
+		<div>
+			<p id="message">
+				<s>위키를 정지합니다</s> 위키 점검중입니다. 언제 끝날지는 저도 잘 모르겠습니다?
+			</p>
+			<a href="http://wikibbs.net/wikibbs" style="margin-right:100px">위키방으로</a>
+			<a href="http://wikibbs.net/dusttalk">잡담게시판으로</a>
+		</div>
+	</body>
+</html>

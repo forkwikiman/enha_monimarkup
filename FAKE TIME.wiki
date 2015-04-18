@@ -1,0 +1,42 @@
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/jPQo3iXA7wc" frameborder="0" allowfullscreen></iframe>
+}}}
+어나더 손배치 영상.
+
+{{{#!HTML
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/5PAq9flSn-Y?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/5PAq9flSn-Y?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+하이퍼 영상.
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 200 || {{{#blue 5}}} || {{{#blue 534}}} || {{{#orange 11}}} || {{{#orange 916}}} || {{{#red 12}}} || {{{#red 1231}}} || {{{#blue 7}}} || {{{#blue 534}}} || {{{#orange 12}}} || {{{#orange 879}}} || {{{#red 12}}} || {{{#red 1278}}} ||
+
+[[비트매니아 IIDX]] 11 IIDX RED의 악곡. 작곡은 [[Y&Co.]]유닛의 멤버인 [[DJ Remo-con]].
+
+장르는 HARD ROCK. 곡의 분위기도 장르에 맞게 락의 분위기다.
+
+BGA는 [[범용 BGA]]에 GOLI가 그린 [[ROOTS26]]캐릭터의 [[폭주족]](...)버전 레이어가 씌워져있다.[* 레이어에서 [[에레키]]가 주먹을 쥐고있는 그림은 사실 [wiki:"Fuck" 이런 뜻인데] 심의상 주먹으로 수정되었다.] 미스레이어는 레이어의 [[지르치]]의 얼굴이 줌인된 이미지인데 이미지가 엄청나게 압권이다. 이 레이어는 [[New Decade]]처럼 '''정발판 한정'''으로 삭제되었다.
+
+이 곡의 아이덴티티는 바로 후반부에 나오는 미묘한 박자의 트릴. 트릴 박자가 딱 나눠떨어지지 않고 미묘하게 엇갈린다. 곡 자체로는 4/4박자인데 한박자 안에 트릴 노트가 5개 나오기 때문에 20비트라고 간주하고 치는게 속편하다. 정확히는 5박에 트릴이 6회 들어간다.
+
+어나더 채보는 다른 12렙들보다 노트는 적지만 패턴이 제법 복잡해서 딱 12값을 하는 수준. 극후반부에 강렬한 트릴과 [[후살]]이 있으니 주의.
+
+하이퍼는 초-중반까지는 10레벨을 주기에도 조금 모자란 패턴이 나오지만, 후반부에서는 어나더와 마찬가지로 이 곡의 핵심인 애매한 트릴이 나와 게이지를 깎아먹고, 최후반에는 이중계단이 나오는 극단적인 후살곡. 11렙치곤 1000개도 안 되는 노트수임에도 불구하고 노멀게이지 클리어는 매우 어렵다. GOLD까진 레벨 12였다. 특히 더블 하이퍼는 '''노트수가 900개도 안되는데도''' 12난이도를 차지했다.
+
+특이한 점이라면 [[케츠이]]의 4면 필드곡인 [http://www.youtube.com/watch?v=CBh8rZUQXdI DEFENSIVE LINE - Lurk in the Darkness]와 상당히 유사한 음원을 가지고 있다.
+
+== 곡 코멘트 ==
+||오케이! 니놈들에게 뜨거운 록을 들려주지~!
+BPM도 초 빠르다고! 할 수 있나? 따라올 수 있나?
+쫄았냐? 쩔쩔매냐?
+그래도 말야, 기타 이외는 전부 처 넣었다고~. 페이크지만~.
+어떻냐~, 속았냐~? 꼴~좋다~!
+같은 곡입니다. 실례했습니다.
+
+Sound / dj REMO-CON
+
+순수하게 멋진. 오랜만에 록. 기타 불타고 있어요, 이 곡. 꽤 반복해서 들었습니다. 이번에는 폭주하는 청춘 군상이라는 또 하나의 테마로 그려봤습니다. 그리면서, 가장 재미있었습니다. 실은, 이 곡을 듣고서 +1인+바이크로 포스터의 배경에도 사용하는 계획이었던 그림입니다. 그렇지만, 각하되었기에, 영상에 잠복하는 모양으로 되었습니다. 곡을 듣고난 이미지는 불타는 빨강. RED.
+
+Movie / GOLI||

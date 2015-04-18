@@ -1,0 +1,107 @@
+ * [DJMAX 시리즈/수록곡 목록]
+
+|| 장르 || Colours POP ||
+|| 작곡 || [Tsukasa] ||
+|| 작사 || Yuine Mitsuki ||
+|| BGA || Shin Min-Kyung aka Kakoo(일러스트), Carrotjuice(모션)||
+|| 보컬 || Nomico ||
+|| BPM || 143 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/YtU_GNsLRdM?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+Tsukasa가 공급한 곡 중 하나이며, [DJMAX TECHNIKA]와 [DJMAX Portable Black Square]에 수록되었다. DMP BS보다는 테크니카에서의 비중이 절대적으로 높은 곡이다.
+
+별칭은 제목의 약자인 COS에서 유래된 ''''코사인''''. 거의 이 별칭으로 불린다.
+ 
+본래는 'Color of Sorrow'라는 이름으로 [[In My Heart]], [[The Clear Blue Sky]]와 함께 Tsukasa의 앨범에 수록되었던 곡을 가사를 영어로 바꿔 재편곡하였다. 전체적으로 곡의 BPM이 빨라지고 곡의 피치가 약간 높아졌으며, 여러가지 신스음들이 추가되었다. 덕분에 Colours Pop보단 [[The Clear Blue Sky]]의 장르명인 Artcore가 더 적절한 장르가 되었다. 원곡으로 결정한 듯.
+
+보컬은 BS 쪽은 Esprit Lee라고 표기되어있고, 테크니카 쪽에는 Nomico로 표기되어있는데, BS의 표기는 오기이고, 원곡을 불렀던 Nomico가 영어 버전을 재녹음 한 것이 맞다. 참고로 이 사람의 히트곡은 '''[[Bad Apple!! feat. nomico]]''' 되시겠다.
+
+Kakoo란 예명으로 유명한 신민경 분이 맡은 BGA가 매우 수려하며, 섬세한 일러스트들이 일품이다. 곡과의 매치도 매우 좋아 개념 [BGA]중 하나로 꼽힌다. 중독성 있는 비트와 멜로디가 호감을 사 인기곡의 위치에 올랐지만, 난이도가 꽤나 높은 관계로 파퓰러에서는 그다지 플레이되지 않는다.[* 사족으로 BGA의 남자가 [wiki:"코토미네 키레이" 모 마파신부]를 닮았다는 이야기가 있다]
+
+아래는 공식 설명.
+
+{{|'이별이 주는 다양한 슬픔에 대해 노래하는 곡. 피아노라인과 신스음이 절묘한 조화를 이루는 전형적인 Tsukasa 스타일의 곡이다.'|}}
+
+== [DJMAX Portable Black Square] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4vkxtbCLris" frameborder="0" allowfullscreen></iframe>}}}
+
+6B HD
+
+전반적으로 BS의 신곡 중 꽤 고레벨 곡으로 등장.
+
+== [wiki:"DJMAX TECHNIKA"DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/77XINsdZrEE" frameborder="0" allowfullscreen></iframe>}}}
+
+NM 패턴(테크니카 1 기준 PP)
+
+패턴들의 난이도는 BPM이 어정쩡하기 때문에 대체로 높은 편이나, 모든 패턴에 등장하는 후렴 부분의 보라 2연타와 함께 등장하는 노트 패턴만 수월하게 처리할수 있으면 나머지는 쉬운 편이다. 단 이부분은 박자를 놓치기 매우 쉬우니 타이밍 바를 잘 보고 쳐야 할 필요가 있다.
+
+ PP - 파퓰러의 3스테이지에서 등장한다.
+
+ TP - 하트비트 세트의 맥스 95% 미만 보스곡으로 출현 한다. 95% 이상 보스곡인 Area 7이 스코어를 매우 짜게 주기때문에 스코어 어택을 노리는 사람들은 일부러 정확도를 낮춰서([[굴리기]]) 이 곡을 띄우려고 노력한다. 혹은 플래티넘 믹싱에서 '츠카사 컬렉션' 미션의 보상으로 받을수 있다.
+전체적으로 보라노트가 여러곳에서 사용되어서 손이 꼬여 브레이크를 내는 경우를 자주 볼수 있다.[* 실제론 씹힐때 인식 오류가 나는 것이 아니라, 정신없이 노트를 치다 보니 노트가 아닌 엉뚱한 허공을 찍는 바람에 제대로 눌렸다고 생각했음에도 틀리는 경우가 많다. TP패턴의 주로 씹힌다고 생각되는 구간이 테크니카의 보라노트 인식한계인 3개가 될랑말랑 한데다 양쪽팔을 교차시키거나 왼손을 사용해야 하기때문에 그런것. 그러나 보라노트와 터치 포인터 문제에 의한 인식 오류에 의한 씹힘이 없는 것도 아니다] 
+
+ SP - 2009년 12월 스페셜 패턴의 2번째 곡으로 추가되었다. 난이도는 TP보다 크게 어렵지 않다. 기존 분홍노트를 보라노트로 바꾸거나 4박자 드럼소리를 정박 보라로 넣거나 하여서 TP보다 흥미있는(?) 패턴이 되었다. 신기하게도 TP의 고질적으로 씹히는 구간에 있던 분홍을 보라로 바꾼 부분에서는 분홍이 보라가 된 케이스 치고는 이례적으로 보라로 바꾼 쪽이 덜 씹힌다.
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || || || ||
+||<#FFFF00> Normal || D || 100 Max || 6 || 4박 스크롤 || [Golden Disc Set] 셀렉곡 ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 7 || 4박 스크롤 || [[wiki:"HeartBeat"HeartBeat Set]] 하위 보스곡, [wiki:"Raconteur"미션 - 낙화] 수록 ||
+||<#FF0000> Maximum || B || 200 Max || 8 || 4박 스크롤 || ||
+
+[DJMAX TECHNIKA 2] 이후로는 터치 인식시스템이 개선되어 허공을 치지 않는 이상 잘 씹히지 않는다.
+
+== 가사 ==
+
+A scene in your mind
+그대 마음속의 한 장면
+The place I Could find
+내가 찾을수 있던 그 장소
+Feeling Alone
+나 홀로 느껴지는
+The rest of my hearts has been gone
+이젠 떠나버린 내 마음의 안식처
+
+Unseeable view
+앞이 보이지 않아
+Can't walk beside you
+그댈 두고 갈 수는 없어
+Smile for me now
+날 위해 지금 웃어줘
+and don't let it down
+그리고 그 웃음을 잃지 말아줘
+
+See the colours of days
+하루하루의 색채를 보네
+I'll find in your face
+그대 모습에서 찾게 되겠지
+take my sight away
+내 눈 안에 멀어져만 가는
+a place for me to stay till the end
+마지막까지 남아줄 날 위한 장소
+
+In the darkness of pain
+고통스러운 어둠 속
+I'll cry in the rain
+어둠의 비 속에서 난 소리칠거야
+fading with you
+그대와 함께 빛 바래 가며
+dreaming of your memory
+그대와의 기억을 꿈꾸지
+eternity of love
+사랑의 영원함을
+
+
+참고로 영어 보컬은 상당히 알아듣기 힘들어서 그런지 나중에 플래티넘 크루 UCC게시판에 이를 이용한 [[몬데그린]] 동영상이 올라가서 화제가 되었다. [http://www.platinumcrew.co.kr/community/uccBoardRead.asp?idx=223&page=1]
+
+
+
+[[각주]]

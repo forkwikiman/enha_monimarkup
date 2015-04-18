@@ -1,0 +1,91 @@
+ * 본 문서는 [[EZ2AC]]의 수록곡 Nihilism을 다루고 있다. 사전적 의미인 니힐리즘([[허무주의]])은 해당 항목으로.
+[[목차]]
+
+|| 장르 |||||||| [[아트코어|Artcore]] ||
+|| 곡명 |||||||| Nihilism ||
+|| 작곡 |||||||| [[nato(작곡가)|nato]] ||
+|| 배경 |||||||| [[Flow.D]] vs [[WR8NG]]([[EZ2AC]]) [[br]] [[Lepusnette]]([[EZ2ON]]) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ AE]] ||
+|| BPM |||||||| 180 ||
+
+== [[EZ2AC]]의 수록곡 ==
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 5}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple 14}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 9}}} || {{{#orange 13}}} || {{{#red 15}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue 11}}} || {{{#orange 15}}} || {{{#red 16}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 16}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 8}}} || {{{#red }}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/IgzxBn2V6Ys" frameborder="0" allowfullscreen></iframe>
+}}}
+'''[http://www.youtube.com/user/EZ2Developer EZ2 ARCADE의 공식 유튜브 계정]'''에서 공개된 '''BGA'''
+=== 개요 ===
+[EZ2DJ : AZURE EXPRESSION]에 수록된 Nato의 신곡. [wiki:"EZ2DJ 7thTRAX BONUS EDITION" 전작]에 등장한 [[Skyward]]의 --덕스러움--충격이 강했던 나머지, 유저들로 하여금 "정말 같은 작곡가인가?" 하는 의문이 들게 만들었다. [* 사실 nato가 상용음악으로는 유로비트 위주로 밝은 분위기의 곡을 제공해서 그렇지 다른 장르도 종종 쓰는 편이다. 특히 이전에 발표했던 Ymir라는 아트코어 곡과 분위기가 비슷해서 이 곡을 알고 있던 사람들은 Nihilism이 발표되었을 때 "역시 나토" 라는 반응을 보이기도 했다.] AE에 nato가 제공한 다른 한 곡은 [[Rising In My Heart]]로써, 이 쪽은 스카이워드와 같이 밝고 발랄한 악곡.
+
+허무주의라는 제목답게 음울하고 삼엄한 분위기를 빠른 BPM으로 그려내었다. 초반의 절제된 베이스의 사용과 후반부의 피아노 폭타가 우수해서 곡에 대한 평가는 좋은 편. 곡이 끝나면 몽환적인 뒷맛이 남는다.
+
+[[BGA]]는 AE에서는 범용이었다가 AEIC로 넘어오면서 BGA가 추가되었다. 곡과 조화를 이루는 상당히 음울한 분위기와 빠른 템포의 BGA 또한 일품. 잘보면 'Team. [Square Pixels]' 라는 문구도 있다.
+=== 패턴 ===
+일단 속도가 빠르고 폭타를 만들기 좋은 구성이라 턴테이블을 제외하면 AE 신곡들 중 고난이도 TOP3에 들고 있다.[* 나머지는 [[Morgenglut 2012]], [[Taillight Phantom]].] [[Core]]나 [[The Ashtray]]도 동급의 난이도를 가지고 있지만 코어는 롱노트가 많고 재떨이는 BPM이 느려서 체감난이도는 이 곡이 높다.
+
+패턴들에 공통적으로 후반부에 강조된 스크래치가 들어가있다. 곡이 마무리될때 들리는 고동소리가 페달로 나오는 것도 특징.
+==== 5 Street mix ====
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/zDQI0W81mc4?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+EZ - NM - HD - SHD MIX
+
+11레벨인 HD 패턴은 초중반의 체감난이도는 10 수준으로 상당히 낮으나, 하이라이트로 돌입하면서부터 난이도가 확 올라간다. 이는 라디오 채널, 다른 모드들을 통틀어 모두 비슷한 맥락을 보여준다. 중반의 쉬어가는 구간에선 페달이 다소 변칙적인 박자로 나오기 때문에 주의해야 한다.
+
+14레벨인 SHD 패턴은 HD 패턴에선 중반에만 나오던 까다로운 페달이 초반부터 쉬지 않고 계속 쏟아진다. 하이라이트 구간에 접어들어 나오는 [[롱잡]] 폭타를 잘 받아내는 것이 클리어의 관건이다.
+
+5 라디오에선 AE 오리지널 보스 채널인 Abscondence 채널의 1스테이지에 등장한다. SHD 패턴에 살을 더 덧대어, 스크래치를 대량으로 추가하고 하이라이트 롱잡 이후 폭타 구간을 훨씬 더 강화시켰는데, 모든 노트가 2~3개의 겹노트로 쏟아진다. 체감 난이도는 15 가량.
+==== 7 Street mix ====
+==== 10 Club mix ====
+[<iframe width="560" height="315" src="//www.youtube.com/embed/4jES0xNm5a0" frameborder="0" allowfullscreen></iframe>[youtube(movieIdHere)]]
+EZ패턴. 난이도는 11.
+EZ패턴은 교대로 치는 구간을 제외하면 딱히 어려운 구간은 없다고 봐도 무방하다.
+
+클럽믹스 HD 패턴은 AE에서 추가된 많은 Lv.15 중에서 그나마 레벨 값을 하고 있다. AEIC에서 AE 오리지널의 HD는 NM으로 까이고 Lv.16짜리 HD가 새로 생겼다.
+
+EZ2AC 기준으로 NM, HD패턴 모두 각각의 레벨 패턴에서 쉬운 편에 속한다. NM패턴은 추가 당시만 해도 무리스크가 있어서 순간적으로 사망 위험이 있었으나 AEIC으로 넘어오면서 무리스크 패턴이 사라져 14수준으로 하락.
+HD패턴은 NM패턴에 살을 붙여 롱노트의 비중이 높아졌다. 까딱해서 롱노트를 잘못 누르면 폭사할 위험이 있고 최후반부 쌍계단은 16 난이도가 무색하지 않을 정도의 압박을 보여주지만, 게이지 보정도 후한 편이고 많은 롱놋으로 인해 체력 채우기도 쉽다. 결국 이 곡도 수많은 16레벨 중 물렙곡으로 등극.
+==== 14 Space mix ====
+스페이스믹스 패턴은 반복적인 트릴이 손꼬임을 심각하게 유발하여 레벨 16의 위엄을 적절히 보여주고 있다.
+==== EZ2 Catch ====
+캐치 HD 패턴은 Lv.15치고는 쉽다는 얘기가 많다. NM은 Lv.13에서 Lv.10으로 다운되었고 패턴은 그대로다. 기존 Lv.13은 HD로 대신했다.
+==== Turntable ====
+턴테이블 패턴은 중저레벨인 Lv.8에 위치하고 있으며, 신곡들 중 가장 적절한 레벨 표기로 평가받고 있다. 나머지 신곡 레벨들 보면 참 답이 안 나온다.
+== [[EZ2ON]]에서의 수록 ==
+||<|2> No. ||<|2> 곡명 ||<|2> 해금 조건 ||<|2> 라이센스 가격 |||||||| {{{#red RUBY MIX}}} |||||||| {{{#green STREET MIX}}} |||||||| {{{#blue CLUB MIX}}} ||
+|| {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple 8K}}} ||
+||<|2> 223 ||<|2> Nihilism ||<|2> EXR 18 취득[* SHD는 EXR 19 취득, 8키는 EXR 20 취득] ||<|2> 10000 COIN|| {{{#blue 10}}} || {{{#orange 15}}} || {{{#red 17}}} || {{{#purple 19}}} || {{{#blue 10}}} || {{{#orange 15}}} || {{{#red 17}}} || {{{#purple 19}}} || {{{#blue 14}}} || {{{#orange 15}}} || {{{#red 18}}} || {{{#purple 19}}} ||
+|| {{{#blue 1119}}} || {{{#orange 1790}}} || {{{#red 2232}}} || {{{#purple 2406}}} || {{{#blue 1119}}} || {{{#orange 1791}}} || {{{#red 2163}}} || {{{#purple 2425}}} || {{{#blue 1119}}} || {{{#orange 1791}}} || {{{#red 2751}}} || {{{#purple 2789}}} ||
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/y23jO3gOYNs" frameborder="0" allowfullscreen></iframe>
+}}}
+EZ2ON의 [[BGA]]
+
+뜬금없이 10월 2일 [[EZ2ON]] 홈페이지에서 10월 8일 업데이트 공지가 나왔다.[http://www.youtube.com/watch?v=wXy0GTAGa_k&feature=share&list=UUi4TgLw4fVwnSikP1dj5lkA #] 일전에 10월달에 [[yak_won]]의 곡이 업데이트 될 것이라고 하였기 때문에 아무도 생각지 못한 예고에 놀란 분위기.
+
+고퀄리티의 BGA는 [[Lepusnette]]가 제작하였다.[* Lepusnette 답게 토끼가 종종 등장한다. [https://twitter.com/lepusnette 참조] ] 부정적인 느낌의 이미지들이 빠른 속도로 지나가다가 영어로 쓰인 허무주의에 대한 설명이 나오고, 후반부 피아노 폭타 부분에서는 화려한 총천연색의 3D 그래픽이 펼쳐진다.
+
+PV내에 CAN YOU CLEAR THIS? 문구가 있는걸로 봐서는 보스패턴이 될 가능성이 매우 높다고 예상되었으며, 실제로 라디오 OBSESSION 채널의 4스테이지 보스곡으로 등장하게 되었다.[* 후에 밝힌 비화로는 원래 [[BMS]]로 제작된 Hadron Strike가 수록될 예정이었으나 키음 제한 255개에 걸려 수록되지 못했고 대신 니힐리즘이 어려워져 수록되었다고 한다. [https://twitter.com/kinato_/status/415817661121982464 참고.]]
+
+일반 채보는 10월 30일 업데이트로 추가되었다. 해금조건이 [[神威]]급으로 어렵다. 루비- EXR 18/19, 스트릿- EXR-18/19 클럽- Exr 18/20이라고 운영자가 ~~친절히~~ 공지사항에서 알려주었다. 슈하 패턴의 노트수가 어마어마하다.. 4키 슈하 패턴의 노트수는 2406개다![* 이 곡이 등장하기 전까지 노트 수가 1위인 [[Lucid]]슈하의 노트수는 2244개.] 그리고 8키는 무려 2789개나 된다!
+
+여담으로 이지투온의 페이스북에서는 '초기 EZ2ON에서 부터 활동한 전설을 다시 만날 수 있다'고 했는데, 이날, 같이 업데이트된 곡이 [[The Ashtray]]인 것으로 보아 [[r300k]]를 뜻한 것일지도 모른다. ~~현재 r300k가 경쟁사인 모모 직원이란걸 생각하면 신곡이 아님은 당연한 수순~~
+
+OBSESSION 채널 전용 패턴의 체감 난이도는 4키 19, 5키 18, 6키 19, 8키 20 정도. 아래 영상 참조(8키).
+
+{{{#!HTML
+<iframe width="600" height="337" src="//www.youtube.com/embed/fC5i82lZ97g" frameborder="0" allowfullscreen></iframe>
+}}}
+Ch. OBSESSION

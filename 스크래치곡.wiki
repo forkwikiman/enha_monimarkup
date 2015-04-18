@@ -1,0 +1,169 @@
+[[목차]]
+== 설명 ==
+[[wiki:"리듬게임" 음악 게임]] 용어
+
+악곡의 채보에서 스크래치 노트가 많거나 주가 되는 곡들을 일컫는 표현. 당연히 턴테이블이 있는 [[비트매니아]], [[비트매니아 IIDX]], [[EZ2DJ]]에서만 볼 수 있는 표현이다. [[크래킨 DJ]]와 [[DJ 히어로]]는 제외. 이쪽도 턴테이블이 있지만, 아예 스크래치 노트가 중심이고, 다른 노트는 보조적인 수준이기 때문.[* [[비트 스트림]], [[maimai]], [[그루브 코스터]]도 스크래치 노트 비슷한 것이 있으나, 기획 계획상으로는 디제잉 곡이 나오지 않을 것으로 보인다.]
+
+일본에서는 스크래치를 턴테이블부의 모양새에서 딴 皿(さら)로 부르고 있다.
+
+턴테이블 노트는 주로 심벌즈 등의 음이나 스크래치 소리, 보이스 샘플 등이 할당된다. 적절한 스크래치 배치는 연주감을 향상시키는데 큰 도움이 되지만, 곡의 난이도가 올라갈수록 연주감과는 상관없이 패턴을 어렵게 만들기 위해 우겨넣는 스크래치가 점점 늘어난다. 단적으로 [[EZ2DJ]]의 일부 곡들은 피아노나 바이올린 등의 주선율을 스크래치 파트에 롱노트로 배치하는 경우가 왕왕 있다. Sinus 5K HD 패턴, Legend ch.Ouroborous 패턴 등.
+
+비트매니아 시리즈 초기에는 주로 힙합이나 턴테이블리즘 등 곡 전개에 있어서 스크래치가 중심이 되는 곡이 스크래치곡이 되었지만, 시대가 진전되면서 [[bass 2 bass]], [[Plan 8]]처럼 보이스 샘플을 턴테이블에 할당시켜서 스크래치곡을 만드는 사례도 늘어나고 있다. 단, [[VOX UP]]같이 샘플링을 키음에 둔 경우는 예외.
+
+스크래치곡에 필수적인 테크닉은 당연하게도 [[고스트 스크래치]]라고 알려져 있었다. 하지만 상술한 것처럼 가면 갈수록 일반 노트보다 스크래치가 더 골때리는 수준의 곡들이 나오고, 아예 스크래치로 난이도를 폭등시켜놓은 뒤 일반 노트는 동시치기 등으로 땜빵하는 곡들까지 등장하면서 스크래치를 왼손바닥으로 돌리며 1, 2번 건반을 왼손 검지와 중지로 치는 운지도 등장했다. 단적인 예로 [[Red. by Full Metal Jacket]]의 [[DOLCE.]] 플레이 영상을 보면 알 수 있다.
+
+일본에서는 이런 곡들을 보통 카마보코(분홍빛의 [[어묵]]) 공장이라고 부른다. 스크래치의 노트가 빨간 게 이것을 연상시키기 때문. 더불어 [[BEMANI 시리즈]]의 아티스트인 [[DJ Mass]]는 작곡하는 곡마다 전부 스크래치곡이라는 점 때문에 어묵 공장장이라고 불리기도 한다.
+
+[[비트매니아 IIDX 18 Resort Anthem]]까지의 스크래치 곡 TOP 50을 모은 영상. [http://www.nicovideo.jp/watch/sm14892362 #] 보면 알겠지만 [[DJ Mass]]의 곡이 거의 상위권을 차지하고 있으며 탑 3는 전부 DJ Mass의 노래들이다.
+
+당연하겠지만 이러한 패턴들은 스크래치 오토를 걸면 기존곡들에 비해 난이도가 많이 하락한다.
+
+[[beatmania IIDX]]의 [[단위인정]]에서는 스크래치곡이 개인차가 심하게 난다는 특성상 잘 넣지 않는다. 다만 예외로 [[beatmania IIDX 19 Lincle]]부터는 8단 2스테이지에 레벨 10 스크래치곡이 들어가고 있다.(Lincle: [[灼熱Beach Side Bunny]], tricoro: [[Snake Stick]], SPADA: [[Black.by X-Cross Fade]]) 또한 SPADA의 개전에서는 2스테이지에 '''[[灼熱Beach Side Bunny]]'''가 배치되어, 점차 단위인정에도 스크래치곡이 들어오는 추세로 보인다.
+
+파생 개념으로 [[사운드 볼텍스]] 시리즈의 [[노브곡]]이 있다. 어원은 동일.
+
+[EZ2DJ]의 10K MANIAC과 [wiki:"EZ2AC/14K MANIAC" 14K MANIAC]에선 스크래치를 두 개를 사용하기 때문에 스크래치곡쪽에서 유독 찰진 패턴이 많이 나오는 편이다. [Revelation]같은 말도 안되는 패턴도 나오기는 하지만 스크래치가 두 개인 덕분에 엄청나게 다양한 스크래치 패턴을 만들 수 있다.
+== 유명한 스크래치곡 일람 ==
+스크래치 노트가 패턴의 중심이 되는 곡 뿐만 아니라 간간히 끼어드는 스크래치 비중이 많은 곡이나 특정 부분에서 스크래치 노트의 비중이 많아지는 곡도 일부 존재합니다.
+=== ["비트매니아"] ===
+ * '''[[DJ BATTLE]]'''[* 이 문서에서 유일하게 '''정말로 스크래치만 나오는 곡'''. 후에 CORE MIX에서 DJ BATTLE -JODLER MIX-라는 어레인지가 있지만 이 곡은 스크래치가 중심이 되는 곡은 아니다. [http://kani.ninpou.jp/bm/d/djb11.htm 채보]를 보자.]
+ * ALL PRO [* 실제로 턴테이블리즘 명인중 한명인 MIX MASTER MIKE가 곡을 제공했다. 물론 게임상에서는 당시 난이도를 감안하면 꽤나 순화되어서 나오지만 역시 턴테이블리즘 힙합답게 많은 스크래치를 보여준다.] 
+ * NOFIA
+ * FREAK OUT [* ASLETICS의 곡]
+ * BATTLE BREAKS[* DJ TAKAWO의 곡. 사족으로 [댄스 댄스 레볼루션] 가정용판에 이식까지 되었다.]
+ * How to Scratch Part.1[* 가정용 SOUND OF TOKYO!의 수록곡.]
+=== ["비트매니아 IIDX"] ===
+ * substream
+  * [[Macho Gang]] [* DPA의 경우 무리배치를 유발하는것에서 진가가 드러난다.]
+ * 4th Style
+  * [SWEET LAB]
+  * '''[[CHECKING YOU OUT]]'''
+  IIDX 스크래치곡의 효시.
+ * 6th Style
+  * Buffalo
+ * 7th Style
+  * [[Cheer Train]] [* 특히 DPA의 경우 스크래치가 난이도 급상승에 일조했다. 스크래치만 빼면 11이라는 평가가 있을정도.]
+  * Glorious Days
+  * [5.1.1.] SPA[* 곡 분위기와는 다르게 스크래치가 노트 수의 20%이다(...)]
+ * 8th Style
+  * Halfway of Promise
+  * [[PLEASE DON'T GO]]
+  * [[WAR GAME]]
+ * 9th Style
+  * ADVANCE
+  * [[one or eight]]
+  * Really Love
+  * SWEETEST SAVAGE
+  * 5PM ETERNAL (CS 9th)
+ * 10th Style
+  * Feedback
+  * [[雪月花]]
+ * 11 IIDX RED
+  * Close my Eyes for Me
+  * '''[Wonder Bullfighter]'''
+ * 12 HAPPY SKY
+  * [[SCREAM SQUAD]]
+  * オレはビートマニア！お前は何マニア？
+  * [ラクエン]
+  * [[BLUE MIRAGE]] (CS HS)
+  * [[Just a Little Smile]] (CS HS)
+ * 13 DistorteD
+  * VANISHING POINT (CS DD)
+ * 14 GOLD
+  * [[FIRE FIRE]]
+  * [KAMAITACHI] (흑채보, DPA 한정)
+  * [[Sense 2007]]
+  * '''[[Watch out!!]]'''
+ * 15 DJ TROOPERS
+  * [[Digitank System]]
+  * [[Time to Air]] (흑채보)
+  * [[VOX UP]] (CS DJT)
+  * [[TROOPERS]]
+  * '''[[BRAINSTORM]]''' (CS DJT, 중반부 한정)
+ * 16 EMPRESS
+  * [[Just a Little Smile]]
+  * [[3y3s]]
+  * [[naughty girl@Queen's Palace]]
+  * [[smooooch・∀・]] (흑채보)
+ * 17 SIRIUS
+  * '''[[Red. by Full Metal Jacket]]'''
+  * [[bass 2 bass]]
+ * 18 Resort Anthem
+  * [[Bounce Bounce Bounce]]
+  * [[Watch Out Pt.2]]
+  * [[sakura storm]]
+  * '''[wiki:"작열Beach Side Bunny" 灼熱Beach Side Bunny]'''
+ * 19 Lincle
+  * [[Round and Round]] [* 후반에서는 수월해지지만, 초반만 떼고 보면 명백한 스크래치곡.] 
+  * '''[[Black.by X-Cross Fade]]'''
+  * [[The Sampling Paradise]]
+  * '''[[Snake Stick]]'''
+ * 20 tricoro
+  * '''[[Plan 8]]'''
+  * [[S!ck]]
+  * [[カジノファイヤーことみちゃん]]
+  * [[GRADIUS 2012]] [* 스크래치 애드립이 있다.]
+ * 21 SPADA
+  * [[diagram]]
+  * [[Funny Shuffle]]
+  * [[m1dy Deluxe]]
+  * [[Insane Techniques]]
+  * '''[[INSOMNIA]]'''[* 전체적으로는 겹계단이 주가 되는 곡이지만, 초반부에 엄청난 양의 스크래치가 쏟아진다.]
+  * '''[[BLUE DRAGON]]'''(雷龍 Remix IIDX)
+ * 22 PENDUAL
+  * [[subtractive]]
+  * [[Hello Happiness]] (SPA 중반부 한정)
+  * '''[[FANTASTIC THREE]]'''
+  * '''[表裏一体！？怪盗いいんちょの悩み♥]''' (DPA 한정)
+  * '''[[Gravigazer]]''' (SPA 한정, 백스핀 스크래치 한정) [* 실재 스크래치수 자체는 많은 편이 아닌데 백스핀 스크래치가 총 20번 나오는 덕분에 현행 수록곡중 백스핀 스크래치 개수 1위의 곡이다.]
+  * '''[[とろぴかる倶楽部]]''' (전 보면 중반부 한정)
+  * [[Light My Fire]] (전 보면 후반부 한정)
+=== ["EZ2DJ"] ===
+ * The 1st TRACKS
+  * [[Quake in Kyoto]] [* 기존 보면들은 전형적인 [[롱잡]]보면이나 platinum에 추가된 HD보면에서는 롱스크래치가 주구장창 나와서 어떤의미로는 스크래치곡으로 분류 가능하다.]
+  * [[The Rhythm]]
+ * 1st TRACKS SE
+  * [[Love & Extasy]]
+ * 2nd TRAX
+  * [[Back to Bed]]
+  * [[Funky 5]]
+  * [[Exist]]
+ * 3rd TRAX
+  * [[Black Market]]
+  * [[Substance]]
+ * 4th TRAX
+  * [[Delight]]
+ * Platinum
+  * [[Night Madness]]
+  * '''[[Unknown H2]]'''
+  * [[Aquaris]] [* Remix 버젼.]
+ * 6th TRAX
+  * [[One Two Three Four]]
+ * 7th TRAX 1.01
+  * '''[[Black Flame]]'''
+  * '''[[Explode Engine]]'''
+  * '''[[Round 3]]'''
+  * [[Soul Destructor]]
+ * 7th TRAX 1.50
+  * [[Black Bird]]
+ * 7th TRAX VIOLET
+  * '''[[神威]]'''
+  * [[Doll's Garden]]
+ * BONUS EDITION
+  * [[A Final Dreaming]]
+  * '''[[Apollon]]'''
+  * [[Atomizer]][* 5 스트릿 SHD 보면의 경우 페달도 나오지 않으며 시종일관 스크래치만 등장한다.]
+  * [[Happiness]]
+  * [[Sensation of Stage]]
+  * [[Thrust Out]]
+ * AZURE EXPRESSION
+  * [[The Greatest Escape]]
+  * '''[[Morgenglut 2012]]'''[* EZ2DJ 시리즈 내 스크래치곡 계의 끝판왕임과 동시에, 해당 곡의 5K SHD 패턴은 모든 건반게임을 통틀어 스크래치가 가장 많이 등장하는 패턴이다.]
+ * [[EZ2AC : ENDLESS CIRCULATION]]
+  * [[A Site De La Rue]]
+  * [[Black tinted alley]][* Morgenglut보다 BPM은 상당히 느리지만, 처음부터 끝까지 쉴새없이 스크래치가 쏟아진다.]
+  * [[FUTURE NIGHT]]
+  * [[Push me again]]
+  * [[Rendezvous Coast]]
+
+[[각주]]

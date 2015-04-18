@@ -1,0 +1,104 @@
+'''Pane dhiria'''
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/SURpV8Vla5w?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SURpV8Vla5w?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+= 개요 =
+2010년 1월 19일 신성(新城)P가 [[니코니코 동화]]에 공개한 [[KAITO]] [wiki:"VOCALOID 오리지널 곡" 오리지널곡].
+빠른 템포의 민속조 곡으로, 곡 중간중간에 사용된 하나모게라 어[* 일본어를 마치 외국어인양 쓰는 것을 일반적으로 하나모게라 어라 칭한다.]와 서사시의 일부를 보는 것 같은 가사가 특징적이다. 보컬로이드인 KAITO의 목소리 조율도 잘 되어있어 "KAITO의 본심"[* 특정 보컬로이드-여기서는 KAITO-의 목소리 조율이 잘된 곡에 붙는 태그.]태그가 붙어있다.
+2010년 9월 현재 재생수는 약 24만
+
+[[천년의 독주가]]를 작곡한 yanagi가 이 곡을 어레인지한 버전이 있다. [http://youtu.be/trYp9fNRkRY #] 원곡이 4박자 계열인데 비해 이쪽은 3박자 계열이다.
+
+신성P의 음반 Unexplored에 수록된 [http://youtu.be/MVqROj_vYpQ Leap remix] 버전은 아래 가사와 약간 다르다.
+
+= 가사 =
+ * 가공언어 부분의 독음은 [http://www5.atwiki.jp/hmiku/?cmd=word&word=Pane%20dhiria&type=normal&page=Pane%20dhiria 일웹 하츠네 미쿠 위키 해당 항목]을 참고했다. (앞에 ^^f^^ 가 붙은 음절은 f발음)
+輝く星々の下に向かう人
+빛나는 별들 아래로 향하는 사람
+薄暗い光を駆け抜ける
+어둑어둑한 빛을 빠져나간다
+彷徨い螺旋階段を昇り行く
+헤메이며 나선계단을 올라간다
+天国への門の前に立つ
+천국으로 향하는 문 앞에 선다
+
+手をかけた扉は開かれた　包み込む光　導く一筋の矢
+손을 댄 문은 열렸다. 감싸는 빛, 길을 인도하는 한 줄기 화살
+少女に手を引かれた　舞台へ
+소녀에게 손을 이끌려 무대로
+
+Toerekunya en rai heya muhe.
+(투에레쿠냐엔 라이 헤야 무헤)
+Toya pahara para heya ryone. 
+(투야 파하라 파라 헤야 료헤)
+Para tyura 『Pane Pane』 ryotwurehe ryotsene beredore to raya to lu herajya. 
+(파라 튜라 파네 파네 료투레헤 료체네 베레도레 투 라야 투 루 헤라쟈)
+Para thuryoe parahamaha ryomasa. 
+(파라 튜료에 파라하마하 료마사)
+To rafajya thurye hedora ryoka topanehe. 
+(투 라^^f^^파쟈 튜례 헤도라 료카 투파네헤)
+Thie ryehe to mea meryo thue li 『Pane… jya. Pane, jya! Pane dhiria!!』 
+(티에 례헤 투 메아 메료 튜에 리 파네 쟈 파네 쟈 파네 디리아)
+
+
+天使の歌声神々しく届く
+천사의 노랫소리가 숭고하게 올려진다
+しかし神は怒り、地を荒らす
+하지만 신은 노하여, 땅을 어지럽힌다
+
+『我に今こそ美しい旋律を！』
+" 이 몸에게 바로 지금 아름다운 선율을!"
+私は竪琴に手をかけた
+나는 수금에 손을 올렸다
+
+『神よ、聞くがいい！貴方の享楽の為、弾こう！！』
+"신이여, 들으라! 당신의 향락을 위해, 연주하리라!!"
+運命決める舞台　細い指先研ぎ澄まさせ
+운명을 정하는 무대, 가느다란 손가락 끝에 집중하여
+
+Karyotse ne tera.
+(카료체 네 테라)
+Kakato la hera.
+(카카투 라 헤야)
+Para to jyathima kurufe tse kakado thiya.
+(파라 투 쟈티마 쿠루^^f^^페 체 카카도 티야)
+
+（哀れな貴方は知らない…）
+(가여운 당신은 알지 못해…)
+
+Karyotse ne tera.
+(카료체 네 테라)
+Kakato la hera.
+(카카투 라 헤야)
+Tsekuro fa neba nekuto ra fahetwu thia.
+(체쿠로 ^^f^^파 네바 네쿠토 라 ^^f^^파헤투 티아)
+
+（悲歎（ひたん）の声…）
+(비탄의 목소리…)
+
+ 
+
+銀河の星が手を取り合って　最後を迎える
+은하의 별일 서로 손을 맞잡고 마지막을 맞는
+音色に神は泣いた
+음색에 신은 울었다
+
+祝福された大地の揺りかご　眠りに沈み
+축복받은 대지의 요람은 잠에 가라앉고
+慰めの雨は止み　あるべき姿の
+위로의 비는 멎어 본래 모습의
+希望に満ち溢れた世に
+희망으로 가득찬 세계로
+
+包み込む闇夜の中で　語り継ぐ
+감싸는 어두운 밤 속에서 계속 이야기한다
+どこまでも続く万聖節
+어디까지나 이어지는 만성절[* 천주교의 절기 중 하나. 모든 성인(聖人)의 날로 11월 1일이다. 이 만성절의 전야제에서 유래한 것이 바로 [[할로윈]]이다.]
+
+Pane! Jya terathi herara.
+(파네 쟈 티라티 헤라라)
+Pane! Jya faryoma herye.
+(파네 쟈 ^^f^^파료마 헤례)
+Pane! Jya farero tseryone tore tsere hene... 
+(파네 쟈 ^^f^^파레로 체료네 투레 체네 헤네)

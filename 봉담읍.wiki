@@ -1,0 +1,53 @@
+[[include(틀:화성시의 읍면동)]]
+
+||||<tablealign=right><#3594D3><span style="color:white"> '''峰潭邑[[br]]봉담읍[[br]]BongDam-Eup''' ||
+||<#81F7D8> '''[광역자치단체|<span style="color:black">광역자치단체</span>]''' || [경기도] ||
+||<#81F7D8> '''[기초자치단체|<span style="color:black">기초자치단체</span>]''' || [화성시] ||
+||<#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025300 || 
+||<#81F7D8> '''[인구|<span style="color:black">인구</span>]''' || 67363명[* [2014년] [6월] 기준 주민등록인구] ||
+||<#81F7D8><span style="color:black"> '''면적''' || 42.71㎢ ||
+||<#81F7D8> '''[인구 밀도|<span style="color:black">인구밀도</span>]''' || 1,577.22명/㎢ ||
+||<#81F7D8> '''[리(행정구역)|<span style="color:black">법정리</span>]''' || 16리 ||
+||<|2><#81F7D8> '''[읍사무소|<span style="color:black">읍사무소</span>]''' || 상리 ||
+|| [http://www.hscity.net/town/index.jsp?HMCD=HM0850 봉담읍 홈페이지] ||
+[[목차]]
+== 개요 ==
+경기도 화성시 중부에 위치한 [읍(행정구역)|읍]. 동쪽으로는 정남면·기배동, 서쪽으로는 비봉면·팔탄면, 남쪽으로는 향남읍, 북쪽으로는 매송면과 [수원시] [권선구] 평동에 접해 있다.
+== 교통 ==
+[수원역]과 향남택지지구를 잇는 길목인 동시에 봉담택지지구를 끼고 있기 때문에, 출·퇴근시간대에 차량과 통학생이 몰려 [헬게이트]가 열린다는 것만 빼면 시내버스를 이용하는 데는 불편함이 없다. 향남택지지구를 넘어가면 [조암터미널]이나 안중공용버스터미널까지도 갈 수 있어, 이 두 터미널에서 수원종합버스터미널·서수원시외버스터미널로 가는 [경진여객]의 '''완행'''시외버스 노선도 절찬리에 영업 중. [과천봉담도시고속화도로]를 통해 [사당역]으로 갈 수도 있다. 다만 봉담택지지구로 들어가는 건 [수원 버스 7800|7800번]밖에 없고, 읍사무소 앞을 지나가는 건 시외버스이므로 주의.
+읍사무소-봉담택지지구와 별개로, [수원대학교] 앞에 버스차고지가 있어 [강남역]·[잠실역]으로 갈 수도 있다.
+== 관할 리 ==
+=== 상리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025321 || 
+=== 내리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025322 || 
+=== 수영리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025323 || 
+=== 동화리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025324 || 
+=== 와우리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025325 || 
+=== 수기리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025326 || 
+=== 분천리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025327 || 
+=== 왕림리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025328 || 
+=== 세곡리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025329 || 
+=== 당하리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025330 || 
+=== 마하리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025331 || 
+=== 유리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025332 || 
+=== 덕리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025333 || 
+=== 덕우리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025334 || 
+=== 하가등리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025335 || 
+=== 상기리 ===
+||<tablealign=center><#81F7D8><span style="color:black"> '''행정표준코드''' || 4159025336 || 
+== 역사 ==
+== 기타 ==

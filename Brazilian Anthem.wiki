@@ -1,0 +1,20 @@
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/GghXzoPfPzQ?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/GghXzoPfPzQ?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[기타프릭스]] 6th & [[드럼매니아]] 5th에 첫 등장하여 꾸준히 등장 중인 라틴 재즈풍의 곡.
+
+표면상 아티스트는 Berimbau '66으로 나와있는데 그냥 가상의 팀 이름으로 추정된다. 작곡에 후나키 토모스케([[TOMOSUKE]]), 스캣에 Geila. Z, 코러스에 [Jimmy Weckl]과 토모스케. 그리고 기타 연주에는 [이즈미 무츠히코].
+
+일반적인 정박 스네어의 개념을 뛰어넘은 괴상한 노트 배치와 수시로 튀어나오는 스네어 및 탐 연타로 인해 좀 당황스러운 난이도를 보여준다.
+
+그래도 정복할 사람들은 다 정복했는지라 처음에는 87로 표기됐던 익스트림 난이도가 현재는 80으로 하향된 상태.
+
+나중 10th에는 시부야케이 스타일로 리메이크된 롱버전이 등장했으며, 뭔가 스텝밟을만한 곡이 아닌 것 같음에도 불구하고 DDR 슈퍼노바에 등장.
+
+참고로 이 곡에서 사용된 명의인 Berimbau '66은 이후 [[팝픈뮤직]] 15 어드벤처에서도 사용되었다. 곡은 라틴REMIX로 팝픈뮤직 1의 수록곡의 리믹스.
+
+이 곡의 분위기를 나중에 [[Tizona d'El Cid]]에서 이어간다.
+
+== 곡 코멘트 ==
+||이런 라틴 재즈같은 곡의 구상은 실은 DM2nd때부터 있어서 그 때는 다른 곡과의 균형으로 채용되지 않고 대신에 MONDO STREET를 만들고, 그것이 채용이 되었습니다. 그러니까 MONDO와 똑같은 리듬이 있는 이유입니다. (아프로큐번 리듬)시퀀스는 이론 정연, 물리적으로 무리없이 만들었기에, 힘내면 이을 수 있을 터! 저는 전부 엄두가 나지 않지만…||

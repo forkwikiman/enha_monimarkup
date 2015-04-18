@@ -1,0 +1,101 @@
+[[목차]]
+
+
+=== 댄스 댄스 레볼루션 ===
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cfB3o5InutE" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} || {{{#purple X-Special}}} ||
+|| {{{#blue 5}}} || {{{#orange 9}}} || {{{#red 10}}} || {{{#green 12}}} || {{{#purple -}}} || {{{#purple 13}}} ||
+||<|3><:> 190 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} || {{{#purple X-Special}}} ||
+|| || {{{#orange 10}}} || {{{#red 12}}} || {{{#green 11}}} || {{{#purple -}}} || {{{#purple 13}}} ||
+
+DDR 2ndMIX에 첫 수록되었다. 리믹스는 190 명의를 사용한 [[NAOKI]]. PARANOiA 때 명의처럼 본 곡의 BPM에서 명의를 따왔다.
+
+싱글 EXPERT 난이도는 후반부 61콤보의 폭타에서 좌절한 사람이 많았는데, 실은 같은 작품의 라이센스곡인 GET UP'N MOVE의 채보를 가지고 왔다. 
+
+랜덤 셀렉트 시 이 곡이 걸리면 PARANOiA MAX (DIRTY MIX) in roulette라고 하여 곡은 더티믹스인데 채보는 그냥 PARANOiA가 나오는 숨겨진 요소가 있기도 했다. 일본에서는 가짜 맥스라고 부른다. Link Version에서 나온 ALL MUSIC모드에서는 그냥 선택이 가능하다. 2nd 때에만 나오고 그 뒤에는 플레이 불가능했지만, 시리즈 최신작인 X3 vs 2ndMIX에서 2ndMIX 사이드에서 플레이 가능하다. 출현법은 같다. 
+
+[[비트매니아 IIDX]] substream과 [[비트매니아]] 4thMIX에도 이식되었다.
+
+초대 DDR CS판에는 선행곡으로 들어갔는데 HARD모드 500번 클리어라는 극악의 해금조건이였다. 단, AC 2nd LINK Version에서 메모리카드를 낀 채로 한번만 플레이하면 CS에서 바로 해금되긴 했다.
+
+여담으로 [[KOF 시리즈]]의 캐릭터 [[바오(KOF)|바오]]의 [[바오%28KOF%29/커맨드%20리스트#s-1|초필사기]] 이름이 '사이코 볼 어택 '''MAX''''인데 다른 초필사기 이름이 '사이코 볼 크래쉬 '''[[TRIP%20MACHINE%20시리즈#s-2.2|SP]]'''', '사이코 볼 어택 '''[[IIDX]]''''인걸로 봐선 이 곡의 제목에서 영향을 받은 것으로 보인다. 바오가 등장했던 [[KOF 99]]부터가 한참 DDR이 떠오를 시기이기도 하고..
+
+DDR X에서 X-Special 채보가 추가되었으며, 원래 버전과 마찬가지로 랜덤에서 이 채보가 걸리면 그냥 PARANOiA의 X-Special 채보가 나온다.
+
+==== PARANOiA MAX ~DIRTY MIX~ (SMM-Special) ====
+{{{#!html
+<embed src="http://www.youtube.com/v/Y5K2Swov4sU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 18}}} ||
+||<|3><:> 90~380 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 18}}} ||
+
+PS2로 나온 가정용 DDR X에서만 등장하는 채보. X까지의 역대 PARANOiA 시리즈 채보들을 전부 모아놓았으며, 변속과 정지 기믹을 추가해놓았다. 난이도가 18이 된 까닭은 PARANOIA Survivor와 Survivor MAX 채보를 따온 구간이 BPM 380에 위치해있기 때문이다.
+
+=== [[beatmania]] ===
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/2fwyG1BU_JQ" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||||||||||||||| [[비트매니아]],[[비트매니아 III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 190 |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 2}}} || {{{#orange 144}}} || {{{#red 3}}} || {{{#red 150}}} || {{{#green 5}}} || {{{#green 333}}} || {{{#orange 2}}} || {{{#orange 198}}} || {{{#red 2}}} || {{{#red 200}}} || {{{#green 4}}} || {{{#green 333}}} ||
+
+ * [wiki:"비트매니아" 곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 4th mix,COMPLETE MIX 2,THE FINAL
+ * 가정용판 수록 : beatmania 4th Mix, beatmania BEST HITS, beatmania GOTTA MIX 2[* COMPLETE MIX 2의 어나더만 수록되었다.]
+
+[[beatmania]] 4thMIX에 이식되었다. 장르는 [[정글]]. 
+
+다만 발로 한 듯한 곡 컷팅과 김빠진 노트 구성때문에 당시에 상당히 까였다. PC판으로 발매된 타이핑 게임 비트매니아 打!에서는 롱버전인 PARANOiA MAX -DIRTY MIX- beatmania-da!! special version이 존재한다. 단 롱버전임에도 불구하고 기반은 위의 편집된버전이기 때문에 원곡의 클라이막스 부분이 나오지 않는다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/B1hKHSGx0tQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+이후에 Complete Mix 2에서 DEPROGRAM MAN이란 명의를 사용한 [[SLAKE]]가 어레인지 한 PARANOiA MAX -FUNKY BLEEP mix이 어나더 채보로 등장했다. 그나마 이 쪽은 키음을 재배열해서 그럭저럭 들을만하게 편곡해놓았다.
+
+콘솔판 BGA에는 갑자기 아프로의 얼굴이 튀어나오는 깜짝쇼가 있다.
+
+=== [[beatmania IIDX]] ===
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/UugsieVPfu0" frameborder="0" allowfullscreen></iframe>}}}
+IIDX BGA 영상. DDR에는 이식되지 않았다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/aLs7LuvDxPQ" frameborder="0" allowfullscreen></iframe>
+}}}
+SPH
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/b-PPGHDjDYw?start=630" frameborder="0" allowfullscreen></iframe>
+}}}
+SPA
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 190  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 280}}} || {{{#orange 6}}} || {{{#orange 376}}} || {{{#red 8}}} || {{{#red 562}}} || {{{#blue 3}}} || {{{#blue 280}}} || {{{#orange 6}}} || {{{#orange 406}}} || {{{#red 9}}} || {{{#red 581}}} ||
+
+  * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+  * [[아케이드]] 수록 : substream ~ 6th, 17 SIRIUS ~
+  * 가정용판 수록 : 3rd, 6th
+
+'''멀쩡한 곡도 끊어먹는 편집신공'''에 당한 비트매니아 쪽에 비해 IIDX쪽은 DDR 수록 원곡에 충실하게 수록이 되었다. 어나더는 [[키음]] 어레인지를 좀 해놓아서 조금 다른 곡이 되었는데, 자잘한 연타가 나와서 동렙 곡들에 비하면 속도와 잔연타 때문에 점수 내는게 꽤 까다로운 편이다. 여담으로 [[wac]]의 첫 채보 제작 작품이라고 한다 IIDX 20 tricoro OST vol.1 초회판 부록 책자 속 인터뷰에서 언급.
+
+BGA는 레이어로 해골이 나온다든가, 물안경 쓴 사람이 내내 클로즈업된다. 항간에는 이 물안경 쓴 사람이 [[GOLI]]라는 설도 있으나 확인된 건 없다. 다만 [[플레이스테이션2]]판 6th style에는 BGA의 퀄리티가 심하게 낮아져 있다.
+
+CS에도 두 번 수록되는 영광을 얻었었지만 7th Style에서 삭제되어 오랫동안 존재가 잊혀져 있다가 뜬금없이 [[비트매니아 IIDX 17 SIRIUS]]에서 부활곡 다섯 곡 중 하나로 선정되어 부활하였다.
+
+DDR과 연동한 Club Version에서는 이 곡을 선택시 DDR 측에서도 어나더 음원으로 나오며, 배치도 달라진다.
+

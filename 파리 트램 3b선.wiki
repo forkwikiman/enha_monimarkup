@@ -1,0 +1,43 @@
+{{{+1 Ligne 3b du tramway d'Île-de-France / Île-de-France tramway Line 3b}}}
+ * [[철도 관련 정보]]
+||<-5><table align=center><#ffffff> [wiki:"파리 트램" <span style="font-weight:bold;color:0000f9">파리 트램 운행 노선</span>] ||
+||<#dcdcdc> [[wiki:"파리 트램 1호선" 1호선]] ||<#dcdcdc> [[wiki:"파리 트램 2호선" 2호선]] ||<#dcdcdc> [[wiki:"파리 트램 3a선" 3a선]] ||<#ffffff> {{{#008b5a '''3b선''' }}} ||<#dcdcdc> [[wiki:"파리 트램 4호선" 4호선]] ||
+||<#dcdcdc> [[wiki:"파리 트램 5호선" 5호선]] ||<#dcdcdc> [[wiki:"파리 트램 6호선" 6호선]] ||<#dcdcdc> [[wiki:"파리 트램 7호선" 7호선]] ||<#dcdcdc> [[wiki:"파리 트램 8호선" 8호선]] ||<#dcdcdc> {{{#dcdcdc }}} ||
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#008b5a '''파리 트램 3b선'''}}} ||
+||운영기관 ||파리교통공사(RATP)||
+||영업거리 ||9.9km ||
+||궤간 ||1435㎜ ||
+||역수 ||18 ||
+||차량 ||Citadis 402 ||
+||전기 ||직류 1500V ||
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tramway-line-T3B-in-Paris-near-canal-de-l%27Ourcq-DSC_0048.jpg/800px-Tramway-line-T3B-in-Paris-near-canal-de-l%27Ourcq-DSC_0048.jpg?width=650
+attachment:Example.jpg
+[[파리 트램]]의 한 노선으로 파리 트램 3b선은 남북 방향의 노선이다. 남쪽의 포르트 드 뱅센느 (Porte de Vincennes) 역으로부터 북쪽의 포르트 드 라 샤펠(Porte de la Chapelle)역까지 운행한다. 이 노선은 [파리교통공사](RATP)가 운영한다.
+
+== 노선 ==
+attachment:/tram3b.jpg?width=650
+
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 포르트 드 뱅센느 || Porte de Vincennes || 1 || {{{#ffcd09 ●}}} [[파리 지하철 1호선]] [[br]] {{{#f68c59 ③a}}} [[파리 트램 3a선]] ||  ||
+|| 포르트 드 몽트뢰유 || Porte de Montreuil || 1 || {{{#cec82b ●}}} [[파리 지하철 9호선]] ||  ||
+|| 마리 드 미리벨 || Marie de Miribel || 1 ||  ||  ||
+|| 포르트 드 바뇰레 || Porte de Bagnolet || 1 || {{{#9b993a ●}}} [[파리 지하철 3호선]] || ||
+|| 세브린 || Séverine || 1 ||  ||  ||
+|| 아드리엔 볼랑 || Adrienne Bolland || 1 ||  ||  ||
+|| 포르트 데 릴라 || Porte des Lilas || 1 || {{{#89d3de ●}}} [[파리 지하철 3bis선]] [[br]] {{{#8d663a ●}}} [[파리 지하철 11호선]] ||  ||
+|| 로베르 드브레 병원 || Hôpital Robert-Debré || 1 ||  ||  ||
+|| 뷔트 뒤 샤포 루주 || Butte du Chapeau Rouge || 1 ||  || ||
+|| 포르트 드 팡탱 || Porte de Pantin || 1 || {{{#f68f4d ●}}} [[파리 지하철 5호선]] ||  ||
+|| 델핀 세릭 || Delphine Seyrig || 1 ||  ||  ||
+|| 엘라 피츠제럴드 || Ella Fitzgerald || 1 ||  ||  ||
+|| 포르트 드 라 빌레트 || Porte de la Villette || 1 || {{{#f59eb3 ●}}} [[파리 지하철 7호선]] ||  ||
+|| 카날 생 드니 || Canal Saint-Denis || 1 ||  ||  ||
+|| 로자 파크 || Rosa Parks || 1 ||  ||  ||
+|| 포르트 도베르비예르 || Porte d'Aubervilliers || 1 ||  || ||
+|| 콜레트 베송 || Colette Besson || 1 ||  || ||
+|| 포르트 드 라 샤펠 || Porte de la Chapelle || 1 || {{{#028d5b ●}}} [[파리 지하철 12호선]] || ||
+
+[[각주]]

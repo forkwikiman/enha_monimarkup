@@ -1,0 +1,17 @@
+[[include(틀:현악기)]]
+
+||<tablealign=center> http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dantranh_top02.jpg/800px-Dantranh_top02.jpg?Width=600 ||
+|| 사진출처: Wikimedia Commons ||
+
+[[베트남어]]: Đàn tranh (彈箏)
+
+중국의 [[쟁]]에서 파생된 베트남의 전통악기. 전통적으로 16현으로 되어 있었으나 1950년대에 17현으로 개량되면서 오늘날에는 주로 17현 단짜인이 사용된다. 이 이외에도 22현 개량 단짜인이 최근에 만들어졌다.
+
+쟁에서 파생된 다른 동아시아의 전통악기와 크게 다른 점은 줄 하나에 줄받침을 1개씩 다는 다른 악기들에 비해 단짜인은 줄받침을 2개씩 단다는 것.
+
+ * [[http://www.fotopedia.com/en/%C4%90%C3%A0n_tranh Fotopedia에서 단짜인 사진 보기]]
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/WanmLNGKDIw&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/WanmLNGKDIw&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+연주 동영상

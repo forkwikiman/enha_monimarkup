@@ -1,0 +1,84 @@
+ * 일반적인 [[네이처]]에 대한 것은 항목 참조.
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. [[이즈미 무츠히코]]의 세번째 앨범인 Third에 수록된 동명의 노래를 게임 사이즈로 편곡한 노래. 기타도라 버전과 유비트 버전이 따로나온 악곡으로 이런 점으론 [[OVERHEAT]]와 비슷하다.
+
+== [[GITADORA 시리즈]] (Nature ('''GITADORA Ver.''')) ==
+attachment:nature_gitadora_ver.png
+
+||<-2><#FF377F><:>'''[[GITADORA OverDrive]] ENCORE/PREMIUM ENCORE STAGE''' ||
+||<#FFB2D9> ENCORE 1 ||<#FFB2D9> '''[[SPRING BAZOOKA]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 1 / ENCORE 2 ||<#FFB2D9> '''[[Noli Me Tangere]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 2 / ENCORE 3 ||<#FFB2D9> '''Nature(GITADORA ver.)''' ||
+||<#FFB2D9> PREMIUM ENCORE 3 / ENCORE 4 ||<#FFB2D9> '''[[LEMON & SALT]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 4 / ENCORE 5 ||<#FFB2D9> '''[[Quarrel and Harmony]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 5 / ENCORE 6 ||<#FFB2D9> '''[[ジュピターガンズノベル]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 6 / ENCORE 7 ||<#FFB2D9> '''[[TOXIC VIBRATION]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 7 / ENCORE 8 ||<#FFB2D9> '''[[Pray to the Earth]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 8 / ENCORE 9 ||<#FFB2D9> '''[[童話回廊]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 9 / ENCORE 10 ||<#FFB2D9> '''[[heliodor]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 10 / ENCORE 11 ||<#FFB2D9> '''[[幽明異境]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 11 / ENCORE 12 ||<#FFB2D9> '''[[九尾狐夜行]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 12 / ENCORE 13 ||<#FFB2D9> '''[[Silver star]]''' ||
+||<#FFB2D9> PREMIUM ENCORE 13 ||<#FFB2D9> '''[[MODEL DD 시리즈|MODEL DD ULTIMATES]]''' ||
+||<#FFB2D9> PREMIUM ENCORE EX ||<#FFB2D9> '''[[The ULTIMATES -Brightness-]]''' ||
+
+[[youtube(xA6ZeIrbW2M, width=640, height=360)]]
+
+||<#eeeeee>
+솔로 앨범 「Third」용으로 만든 곡입니다만, GITADORA용으로 숏 버전으로서 다시 만들었습니다.
+오리지널은 실제 드럼을 사용했습니다만, 게임으로서 재밌어지도록 컴퓨터 음원 프로그레밍용(打ち込み) 드럼으로 바꾸어 새로 어레인지 했다고요. 
+끊임없는 고속 2베이스가 버겁겠네요. 하지만 분발해 봅시다!
+
+- [[이즈미 무츠히코]], [[기타도라 오버드라이브]] 사운드 트렉 코멘트
+||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 230 ||<|2><:> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 3.80}}} || {{{#orange 6.00}}} || {{{#red 8.30}}} || {{{#purple '''9.80'''}}} ||
+|| 기타 베이스 || {{{#blue 3.60}}} || {{{#orange 5.40}}} || {{{#red 8.50}}} || {{{#purple 9.20}}} ||
+|| 드럼매니아 || {{{#blue 3.60}}} || {{{#orange 6.00}}} || {{{#red 8.10}}} || {{{#purple 9.45}}} ||
+
+2014년 4월 9일, [[GITADORA OverDrive]]의 앙코르 레벨 2의 프리미엄 앙코르 악곡으로 수록. 레벨 3에서 앙코르 전용 스테이지로 격하되었으며, 레벨 6 기준으로 이 곡을 클리어하면 해금된다.
+
+BGA는 곡 제목 그대로 자연 풍경을 소재로 한 전용 BGA. 기타 MASTER 채보의 난이도가 '''9.80'''으로, OverDrive 신곡 중 독보적인 기타 보스곡이다.
+
+SPRING BAZOOKA와 Noli Me Tangere와 같이 BGA와 자켓에 PREMIUM ENCORE가 그대로 표기되어 있다.
+
+== [[유비트 시리즈]] (Nature '''(jubeat version)''') ==
+http://www.copmtg.net/picture/diary/2014/0507_2.jpg
+
+|||||||| [[유비트 시리즈|jubeat]] 난이도 체계 ||
+||<|2><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>5||<:>9||<:>10||
+||<:>노트수||<:>411||<:>590||<:>756||
+||<:>BPM||||||<:>230||
+||||||||<#aaaaaa><:>아케이드 수록버전 및[[BR]]jubeat plus 수록 pack||
+||<:>아케이드 수록||||||<:>[[유비트 소서 풀필]](2014.4.23) ~ ||
+||<:>iOS||||||<:>없음||
+||<:>Android||||||<:>없음||
+
+## jubeat plus Android 버전은 https://remywiki.com/Jubeat_plus_(Android) 을 참고.
+## (jubeat saucer 이후 수록곡중) Android 수록 여부를 모르는 경우에는 iOS와 동일하게 기재바람.
+## 이 주석을 제외한 채로 위의 표만 복사하지 말 것.
+## 이 주석은 2016년 2월 1일 이후로 일괄삭제함.
+관련 칭호
+ * [[유비트 소서 풀필]] ~
+  * Memorial Third : 모든 보면 클리어
+  * すべては'''自然'''[* 굵은 글씨는 칭호 파츠.]と同化していく(모든것은 자연과 동화해간다) : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+해금 방법은 코스모드 Lv 10인 The Memorial Third: assimilated all into Nature의 골드스톤 획득이다. 해금이 쉬워진 소서부터는 다소 [[충공깽]]스러운 해금 방법. 최초 해금자는 YAGICCHI로 4월 26일에 달성했다.
+
+이후 다행히도 '''상시 전도 가능'''이라는 정보가 밝혀졌다. 로컬을 하든 매칭을 하든 전도가 되니 노려보자. 다만 주의할 점은 랜덤 매칭에서 걸려도 상대편이 노멀 모드[* 노멀(3스테이지), 노멀 모어(5스테이지), 익스퍼트 노멀 모어(전 스테이지 - 매칭 OFF가 아닐 경우에 한함)]일 땐 가능하나 코스 모드에서는 아예 불가능하다.[* 특히 자신이 이즈미 코스 모드(노멀, 하드 코스 모두) 플레이 중에 매칭될 경우 상대나 본인은 아예 전도사 표기가 나오지 않으며, 자신이 노멀 모드라도 상대편이 전도사로 안 뜨면 상대편은 이미 코스 모드를 하고 있다는 것을 알 수 있다.][* 풀필 초기에 라이트로 로컬이나 랜덤 매칭을 하면 아예 전도가 되지 않았다. 그러나 지금은 코스 모드가 아닌 한 모든 모드에서 가능하게 되었단 얘기.] 이 점 유의할 것.
+
+[[youtube(pqAJ4KbHjr4, width=640, height=480)]]
+EXT EXC 영상
+
+난이도는 요약하자면 [[DRAGON KILLER]]의 강화판. 연타 파트가 12비트를 주로 이루는 것이 특징이다. 초반부와 동시치기가 조금 섞인 연타 파트를 얼마나 처리하느냐가 점수를 주로 결정하며, 88배치를 조금 깨야 하는 부분도 있다. 노트 수도 이즈미 곡 답게 꽤 적은 수이기 때문에 스코어링 난이도도 만만하지 않다. ADV 보면도 12비트 박자의 복잡한 가로슬라이드 채보가 많이 나와 판정을 내기가 꽤 어렵다. 대체적으로 개인차로 9레벨 중급~상급까지 갈릴 수 있는 난이도이다.
+
+그리고 모든 보면 공통으로 '''싱크가 곡 전체적으로 안 맞기 때문에''' 엑설런트 난이도는 패턴의 난이도에 비해 어렵다. 특히 극초반의 셔플리듬 부분은 확실히 싱크가 뒤로 밀려있는 것을 느낄 수 있다. 노래보다 약간 느리게 쳐야 퍼펙트가 잘 나니 참고할 것.

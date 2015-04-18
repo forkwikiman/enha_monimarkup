@@ -1,0 +1,344 @@
+ * 상위 항목 : [[필립스]]
+
+[[목차]]
+
+= 개요 =
+[[필립스]]의 [[안드로이드]] [[스마트폰]] 브랜드.
+
+필립스의 피쳐폰에서 사용되었던 브랜드가 스마트폰 시장으로 넘어오면서 [[안드로이드]] [[스마트폰]] 브랜드로 계승된 브랜드이며, 대부분의 모델이 중.보급형으로 출시되었다.
+
+이 시리즈 소속 [[스마트폰]]들이 글로벌 시장에 출시된 경우도 있지만, 본가인 네덜란드를 비롯하여 중국이나 인도 등을 비롯한 신흥국들 시장을 겨냥하여 출시되었다. 
+
+또한 전 제품군 액정보호필름 1매를 기본 제공한다.
+
+= 소속 기기 =
+ * Xenium W732
+ * Xenium W6618
+ * Xenium W8560
+ * Xenium W8510
+ * Xenium W8355
+ * Xenium W8568
+ * Xenium W736
+ * Xenium W832
+ * Xenium D833
+ * Xenium T8566
+ * Xenium W6500
+ * Xenium V8526
+ * Xenium W939(T939)
+
+== Xenium W732 ==
+ ||<tablealign="center"> attachment:w732.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-mobile-phone-ctw732gry_40/prd/ 중국 필립스 Xenium W732 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2012년 6월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6575 [[SoC]]. [[ARM Cortex-A9]] MP4 1 GHz [[CPU]], PowerVR SGX531 -- MHz [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 2 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 2400 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||126.4 x 67.3 x 12.3 mm, 168.9 g ||
+||색상||블랙, 화이트, 옐로우, 핑크, 스카이 ||
+||기타||듀얼심 지원 ||
+
+=== 상세 ===
+듀얼심을 지원하는 보급형 스마트폰이다. 
+
+중국 시장과 러시아 등을 비롯한 신흥국들 위주로 출시하였다.
+
+또한 교체형 케이스를 추가로 제공한다.
+[[각주]]
+
+== Xenium W6618 ==
+ ||<tablealign="center"> attachment:w6660.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctw6618ny_40/prd/ 중국 필립스 Xenium W6618 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 9월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6582 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]]. [[ARM Mali]]-400 500 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[4G|HSPA +]] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 30만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||'''내장형''' Li-lon '''5300''' mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||145.4 x 74.1 x 11.4 mm , 158 g ||
+||구성||듀얼심 모델 ||
+||기타||[[FM]] 라디오 지원 ||
+
+=== 상세 ===
+중급형 스마트폰이다. 
+
+이 녀석은 무려 5300mAh의 일반 스마트폰의 두 배에 달하는 깡패 수준의 대용량 배터리를 탑재해서 발매하였다. 
+
+대기시간은 1,604시간, 약 66일이며 연속통화 시간도 33시간에 달한다고 한다. 이는 [[갤럭시S5]]와 비교했을때 1.5배 이상 수준이다.
+
+카메라 렌즈 밑으로 유심카드와 Micro SD카드 슬롯이 있어서 이 부분에 열고 닫게 제작되었다.
+
+이 녀석은 중국 내에서만 판매되는 제품이기에 다른 국가에선 구매가 불가능하다. 사용하려면 중국에서 사오는 수밖에는 없다. 가격은 1699위안으로 한화기준 약 28만 원이다.
+[[각주]]
+
+== Xenium W8560 ==
+ ||<tablealign="center"> attachment:w8560.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctw8560bk_40/prd/ 중국 필립스 Xenium W8560 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 9월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6589 [[SoC]]. [[ARM Cortex-A7]] MP4 1.5 GHz [[CPU]], PowerVR SGX544 286 MHz [[GPU]] ||
+||[[메모리]]||2 GB LPDDR2 SDRAM, 32 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" FHD](1080 x 1920) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0, LE ||
+||[[카메라]]||전면 130만 화소, 후면 1300만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 3300 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||144 x 73 x 10 mm , 158 g ||
+||구성||싱글심 모델 / 듀얼심 모델 ||
+||기타||[[FM]] 라디오 지원 ||
+
+=== 상세 ===
+중급형 스마트폰이다. 
+
+이 녀석은 3300mAh 용량의 대용량 배터리를 탑재 하였으며, AP를 제외하고는 플래그쉽 수준에 가까운 사양이다.
+
+특이하게도 2013년 출시 기기임에도 불구하고 HSPA+를 지원하지 않는다.
+[[각주]]
+
+== Xenium W8510 ==
+ ||<tablealign="center"> attachment:w8510.jpeg?width=320 ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctw8510gy_40/prd/ 중국 필립스 Xenium V8510 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 10월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6589 [[SoC]]. [[ARM Cortex-A7]] MP4 1.2 GHz [[CPU]], PowerVR SGX544 286 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.7 인치 [wiki:"해상도/일람" HD](1280 x 720) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"WCDMA" HSDPA & HSUPA & UMTS]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 200만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 3300 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||138.5 x 69.7 x 10.4 mm , 173 g ||
+||기타|| ||
+
+=== 상세 ===
+이 녀석은 중급형 사양을 가진 녀석으로 배터리 괴물폰이다. 3,300 mAh 용량의 엄청난 배터리 덕분에, 3G를 통한 18 시간의 통화 시간, 와이파이로 14 시간의 웹 브라우징 시간, 그리고 35일의 대기시간을 버터낼 수 있다고 한다.
+
+특히 빠른 충전 기능을 가지고 있으며, 이 기능은 방전된 스마트폰을 단지 10분만 충전하고도 2시간의 통화 시간이나 20시간의 대기시간을 버터낼 수 있는 충분한 배터리가 충전된다고 한다.
+
+일본에 출시될 것이라는 루머가 있었으나 출시되지는 않았다.
+[[각주]]
+
+== Xenium W8355 ==
+ ||<tablealign="center"> attachment:w8355.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-mobile-phone-ctw8355bk_40/prd/ 중국 필립스 Xenium W8355 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 1월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 MSM8255 [[SoC]]. [[Qualcomm Scorpion]] MP1 1GHz [[CPU]]. 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.3 인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 IPS-LCD(208 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"WCDMA" HSDPA & HSUPA & UMTS]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 200만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 3000 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||147.6 x 10.6 x 70 mm , 224.5 g ||
+||기타|| ||
+
+=== 상세 ===
+중급형 [[패블릿]] 스마트폰이다. 여타 Xenium 시리즈와는 다르게 [[퀄컴 스냅드래곤]]의 AP를 사용한다.
+[[각주]]
+
+== Xenium W8568 ==
+||<tablealign="center"> attachment:w8568.jpeg?width=320 ||
+|| [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctw8568bk_40/prd/ 중국 필립스 Xenium W8568공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 10월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6589 [[SoC]]. [[ARM Cortex-A7]] MP4 1.2 GHz [[CPU]], PowerVR SGX544 286 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0 인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"WCDMA" HSDPA & HSUPA & UMTS]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 200만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 3100 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||123.5 x 63 x 18.8 mm , 214 g ||
+||기타||플립형 터치 ||
+
+=== 상세 ===
+플립형 터치를 지원하는 스마트폰이다.
+[[각주]]
+
+== Xenium W736 == 
+ ||<tablealign="center"> attachment:w736.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctw736pup_40/prd/ 중국 필립스 Xenium W736공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2012년 11월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6577 [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]], PowerVR SGX531 -- MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](800 x 480) RGB 서브픽셀 방식의 IPS-LCD(233 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"WCDMA" HSDPA & HSUPA & UMTS]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 2400 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||126.6 x 65.4 x 12.1 mm , 167.5 g ||
+||기타|| ||
+
+=== 상세 ===
+저사양 스마트폰이다.
+[[각주]]
+
+== Xenium W832 ==
+ ||<tablealign="center"> attachment:w832.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctw832slv_40/prd/ 중국 필립스 Xenium W832공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2012년 12월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6577 [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]], PowerVR SGX531 -- MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.3 인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"WCDMA" HSDPA & HSUPA & UMTS]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 2400 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||131 x 67.5 x 11 mm , 170.5 g ||
+||기타|| ||
+
+=== 상세 ===
+5.3 인치의 보급형 [[패블릿]] 스마트폰이다.
+[[각주]]
+
+== Xenium D833 ==
+ ||<tablealign="center"> attachment:D833.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctd833gry_40/prd/ 중국 필립스 Xenium D833공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 10월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||듀얼코어 1 GHz [[CPU]] 탑재 AP ||
+||[[메모리]]||768 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3 인치 [wiki:"해상도/일람" WVGA](800 x 480) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"GSM" GSM & EDGE]], [[CDMA2000|CDMA & EV-Do Rev.A]], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 2400 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||128 x 67.3 x 12.1 mm 163 g ||
+||기타|| ||
+
+=== 상세 ===
+[[차이나텔레콤]] 내수용의 저사양 스마트폰이다.
+[[각주]]
+
+== Xenium T8566 == 
+ ||<tablealign="center"> attachment:t8566.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctt8566bk_40/prd/ 중국 필립스 Xenium T8566공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 10월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||Diamond cut Cover 4Core 1.2 GHz [[CPU]] 탑재 AP ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0 인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[TD-SCDMA]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 2100 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||123.5 x 63 x 18.8 mm , 214 g ||
+||기타||플립형 터치, 듀얼심 지원 ||
+
+=== 상세 ===
+[[차이나모바일]] 내수용의 플립형 터치를 지원하는 스마트폰이다.
+[[각주]]
+
+== Xenium W6500 ==
+ ||<tablealign="center"> attachment:w6500.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctw6500yl_40/prd/ 중국 필립스 Xenium W6500 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 10월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6589 [[SoC]]. [[ARM Cortex-A7]] MP4 1.2 GHz [[CPU]], PowerVR SGX544 286 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 2 / 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.3 인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"WCDMA" HSDPA & HSUPA & UMTS]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 30만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-lon 2400 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||128.7 x 66 x 11.8 mm , 150.8 g ||
+||기타||[[FM]] 라디오 지원, 듀얼심 지원 ||
+
+=== 상세 ===
+보급형 스마트폰이다.
+[[각주]]
+
+== Xenium V8526 ==
+ ||<tablealign="center"> attachment:w8526.jpeg ||
+ || [http://www.philips.com.cn/c/cell-phone/xenium-smartphone-ctv8526bu_40/prd/ 중국 필립스 Xenium V8526 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 -월[* 월 추가바람.]에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6582 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]], [[ARM Mali]]-400 500 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[wiki:"WCDMA" HSDPA & HSUPA & UMTS]], [[TD-SCDMA]], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 200만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||'''탈착형'''Li-lon 2000 mAh X 2 Slot ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||144 x 73.1 x 14.1 mm , 216 g ||
+||기타||듀얼심 지원, 듀얼 배터리 슬롯 지원 ||
+
+=== 상세 ===
+무난한 사양을 가진 중급형 스마트폰이다. 한 기기안에 [[차이나유니콤]], [[차이나모바일]] 네트워크를 전부 지원한다.[* [[WCDMA]] 네트워크와 [[TD-SCDMA]] 네트워크 듀얼심 슬롯이 기본으로 탑재되어 있다.]
+
+또한 한국에 정식 발매가 되지 않았음에도 불구하고, 한국어가 기본으로 지원된다.
+
+배터리는 두개를 제공하는데, 이상하게도, 본체에 배터리 두개를 전부 장착해서 사용한다.
+attachment:33333.jpeg
+
+[[각주]]
+
+== Xenium W/T939 ==
+ ||<tablealign="center"> attachment:w939.jpeg ||
+ || [http://www.philips.com.cn/c-p/CTT939BLK_40/mobile-phone 중국 필립스 Xenium T939 공식 사이트] ||
+
+=== 개요 ===
+[[필립스]]가 2013년 9월에 출시한 [[안드로이드]] [[스마트폰]].
+
+=== 사양 ===
+||||[wiki:"SoC" 프로세서]||||싱글코어 1 GHz [[CPU]], 탑재 AP ||
+||||[[메모리]]||||512 MB LPDDR1 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||||3.2인치 [wiki:"해상도/일람" HVGA](800 x 480) RGB 서브픽셀 방식의 IPS-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||<|2>[[네트워크|네트]][[br]][[네트워크|워크]]||<:>'''{{{#green UMTS}}}'''|| [[wiki:"WCDMA" HSDPA & HSUPA & UMTS]] ||<|2>[wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||<#494a4c><:>'''[[차이나모바일|<span style="color:#ffffff">CM]]'''|| [[TD-SCDMA]] ||
+||||[[카메라]]||||후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||||[[배터리]]||||'''탈착형'''Li-lon 2000 mAh||
+||||[[운영체제]]||||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||||규격||||110 x57.8 x 22 mm , 239.5 g ||
+||||기타||||듀얼심 지원 ||
+
+=== 상세 ===
+중국에 출시된 저사양을 지원하는 폴더형 스마트폰으로, 기기명이 중국 내 출시 이동통신사에 따라서 기기명이 T와 W로 나뉜다.
+
+[[각주]]

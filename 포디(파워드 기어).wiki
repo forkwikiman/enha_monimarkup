@@ -1,0 +1,25 @@
+[[파워드 기어]]에 등장하는 기체. [[사이버 보츠]]는 [wiki:"포디(사이버 보츠)" 이쪽 참조].
+
+|| http://www.arcadequartermaster.com/capcom/armwar/mech-fordy.png?width=250 || http://www.arcadequartermaster.com/capcom/armwar/art_fordy.png?width=250 || http://www.arcadequartermaster.com/capcom/armwar/sprite_fordy.png?width=250 ||
+
+{{|'''코드No. : AEX-12J'''
+'''타입 : 쥬니어급'''
+'''높이 : 3825mm'''
+'''기체중량 : 6780kg'''
+'''최대(최소)장갑두께 : 22(18)mm'''
+'''순행(한계)주행속도 : 60(106)km/h'''
+'''최대출력 : 1798Hp'''
+'''기체성능 : 이동속도 5, 파괴력 3'''
+'''사정거리 4, 장탄수 4'''|}}
+개구리가 움크린듯한 생김새를 하고 있는 V.A. 색깔은 노란색. 다른 기체에 비해 사이즈가 작아서인지 피격 판정이 남들보다 좁다는 특전이 있다. 
+
+[wiki:"블로디아(파워드 기어)" 블로디아]에 비하면 방어력과 리치, 탄환수가 줄어들었지만, 이동속도가 빠르다. 일격이탈전 중시의 기체. 
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/43R89UTCHUI?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/HraQDmkM5kg?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+잘 다루는 암 파츠는 [[레이저 블레이드]]와 [[체인 스파크]], [[실드 캐논]].[* 다른 레그 파츠를 장착하지 않았을 경우 한정. 다른 [wiki:"파워드 기어/레그 파츠" 레그 파츠]를 먹으면 키가 커져 다운 공격이 안들어가기 때문에 약화된다.] 레이저 블레이드와 체인 스파크 둘 다 포디가 잡으면 특급의 성능을 발휘하며, 특히 레이저 블레이드의 경우 리치가 좀 짧지만, 빠른 공격속도와 [[걸딘]]에 버금가는 높은 공격력으로 그야말로 포디를 인간백정으로 만들어준다.[* 트레즈, [[터보 제트]]를 장착했을 경우, 리치가 길어져 그야말로 완전무결해진다.]
+
+어설픈 [wiki:"렙토스(파워드 기어)" 렙토스]에 비하면 아예 작정하고 특화가 되어있기 때문에 쓰기가 편한 기체.
+
+[[각주]]

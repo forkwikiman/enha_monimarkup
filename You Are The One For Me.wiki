@@ -1,0 +1,54 @@
+[[목차]]
+
+|| 장르 |||||||| Acid Fusion ||
+|| 곡명 |||||||| You Are The One For Me ||
+|| 작곡 |||||||| [[전준규]], Mario Bolden ||
+|| 작사/보컬 |||||||| [[Mario Bolden]], Jenny ||
+|| 랩 |||||||| [[Mario Bolden]] ||
+|| 배경 |||||||| [wiki:"Forte Escape" FE] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| BPM |||||||| 116 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 4}}} || {{{#red 6}}} || {{{#purple 8}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='Eg89C0oV3u4$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=Eg89C0oV3u4$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=Eg89C0oV3u4$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+== 개요 ==
+애시드 스타일의 곡으로, 소울풀한 가창이 인상적이다. 노래가사는 엄밀히 말하자면 없다. 그 이유는 이 노래를 녹음 할 당시 보컬이 '''애드리브'''로 부른 것. 
+
+[[Lie Lie]]가 작당하고 실사 BGA을 썼다면 이 곡은 실사, 3D 그래픽, 2D 그래픽, 타이포그래피가 섞여서 독특한 분위기를 연출한다. 실사 자료는 [[종로구]]와 [[종로3가역]]에서 촬영한 것으로 추정된다. FE의 센스가 돋보이는 작품. 이 BGA는 [[EZ2Dancer]]의 영국판에서 [[자미로콰이]]의 [[Virtual Insanity]] BGA로 사용되었다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+저렙곡임에도 불구하고 엄청난 인기곡이다. 그 이유는 스코어 어택. 이 곡을 얼마나 잘 치느냐에 따라 플레이어의 판정이 얼마나 되는지를 따지는 기준이 되는 곡이다. 후렴구의 엇박으로 나오는 스크래치 부분에 요주의.난이도는 노멀이 4, 하드가 6.
+
+EV에서 5키 슈하가 추가되었다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== EZ2ON에서의 You Are The One For Me ==
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer56743' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6797F94D8E03529045C4D9DA3DC67EB9F2D6&outKey=V125b73a06ab00240450562ee1b296cddb4eccb38d92580f2bddf62ee1b296cddb4ec' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=6797F94D8E03529045C4D9DA3DC67EB9F2D6&outKey=V125b73a06ab00240450562ee1b296cddb4eccb38d92580f2bddf62ee1b296cddb4ec' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer56743' id='NFPlayer56743' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+5키 SHD.

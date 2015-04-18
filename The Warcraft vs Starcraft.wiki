@@ -1,0 +1,19 @@
+http://media.moddb.com/cache/images/mods/1/17/16415/thumb_620x2000/screen-2.jpg
+
+ZanMgt 씨가 개발중인 [[워크래프트3]][[MOD]].
+
+이걸 쉽게 표현하면 [[워크래프트]]와 [[스타크래프트]] 시리즈에서 치고박던 녀석들이 [[Warhammer 40,000]] 마냥 한 공간에서 서로 치고 박고 싸우는 전개로 제작중에 있다. --근데 워해머의 영향인지 위화감이 별로 없다-- 사실 예시를 들려면 [[워해머 판타지]] vs [[워해머 40k]]가 더 적절할지도 모른다(...)[* 애초에 이쪽은 초기에 진지하게 세계관 통합을 고려하다가 포기했다는 이야기도 돌고 있다. 블리자드도 아제로스 행성이 코프룰루 구역 안에 있다는 얘기를 뿌린 적이 있지만, 이쪽은 그냥 '''만우절''' 용 떡밥이다.]
+
+하지만 양 게임의 자원 채취 방식이 각기 다른 관계로, 각 게임의 진영따라 채취 가능한 자원이 달라지는 방향으로 갈 듯 하다.[* 예컨데 저그나 테란들은 미네랄을 채취할 수 있지만, 금광이나 나무 등은 채취가 불가능하고 오크나 휴먼은 미네랄을 쓸 수 없는 식으로] 
+
+홈폐이지는 요기 [http://www.moddb.com/mods/warcraft-vs-starcraft #] 현재 [[베타]] 0.9.0까지 릴리즈됐다.
+
+게임 방식은 아마 아래와 같이 되지 않을까 한다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/-vJYYL--rs4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-vJYYL--rs4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+--[아제로스]에서 평화롭게(?) 살던 [wiki:"오크(Warhammer 40,000)"오크]를 외계 종족인 [타이라니드]가 물량으로 훈훈하게 처바른다.--
+
+여담으로 [[Alliance and Horde]] [[MOD]]는 이와 반대로 스타2를 워크래프트 스타일로 바꾼게 특징이다.

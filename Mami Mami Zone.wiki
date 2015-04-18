@@ -1,0 +1,40 @@
+[[목차]]
+
+== 개요 ==
+attachment:ghost_region.jpg
+음반 'Ghost Region'의 자켓
+
+[[동방 프로젝트]] 어레인지 곡. 원곡은 [[동방신령묘]]의 EXTRA 스테이지 보스 [[후타츠이와 마미조]]의 테마곡 '佐渡の二ッ岩(사도의 후타츠이와)'이며, 리믹서는 [[REDALiCE]], 보컬은 노미야 아유미.
+
+후반부에 '어기여차'[* 원문은 えいやっさ(에이얏사)] 하는 후렴구가 흥겨운 곡이라고 할 수 있다.
+
+2011년 12월 30일 C81에서 배포한 '고스트 레기온(Ghost Region)' 앨범 2번 트랙으로 수록되었다.
+
+== [[사운드 볼텍스]]에 수록 ==
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:mami.jpg?width=150 || attachment:mami.jpg?width=150 || attachment:mami.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 10}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0608}}} || {{{#orange 0933}}} || {{{#ff009f 1464}}} ||
+|| 일러스트 담당 || {{{#purple だいん}}} || {{{#orange だいん}}} || {{{#ff009f だいん}}} ||
+|| 이펙터 || {{{#purple PHQUASE}}} || {{{#orange PHQUASE}}} || {{{#ff009f PHQUASE}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 35(2014.05.30)}}} ||
+|| [[BPM]] |||||| 173 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 03 B코스(2014.12.26 ~ 2015.2.27)
+  * EXHAUST : Skill Level 08 A코스(2015.2.27 ~)
+
+자켓은 'Ghost Region'의 자켓을 그대로 쓴다.
+
+{{{#!HTML
+<iframe width="420" height="640" src="//www.youtube.com/embed/_zWaNcY3WQw" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+초견일 경우 약간 까다로운 패턴과 노브가 나와 좀 헤멜 수가 있다. 전체적으로 14 중상급.
+
+노브의 소리가 꽤나 크다.기계의 스피커 소리가 크다면 귀태러를 당할 수 있으니 주의할 것.

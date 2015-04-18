@@ -1,0 +1,15 @@
+[[기타프릭스]] 2nd MIX 수록곡. 작곡은 [[이즈미 무츠히코]].
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/NG-MYL-V1Wk?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NG-MYL-V1Wk?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+[[드럼매니아]]에서 정식으로 플레이가 가능해진 것은 2nd MIX부터지만 [[JET WORLD]]와 같이 원래는 세션 전용으로 1st에서부터 수록된 곡이었다. 그래서 한국판 1st에서는 플레이할 수 없던 곡.
+
+본래 기타드럼 시리즈 곡은 아니었고, 코나미에서 이전에 만든 제트스키 게임인 'JET WAVE'에 배경음악으로 나왔던 곡이었다. 상쾌한 느낌의, '여름 해변가'하면 생각나는 분위기를 잘 살린 곡. (그런데 [[BGA]]는 [[007]] 시리즈랑 비슷한 분위기)
+
+드럼매니아에서는 익스퍼트 리얼에는 없고 리얼까지만 있었는데(현재까지도 익스트림 채보는 없고 어드밴스드까지 있다) 그 리얼에 있던 난이도가 다른 곡들 익스퍼트 리얼 채보에 거의 맞먹는 난이도였다. [[Happy Man]]이 8비트 하이햇으로 왼팔을 혹사시킨다면 이 곡은 빠른 템포로 8비트 심벌을 꾸준히 쳐야 해서 오른팔을 혹사시키는 곡. 물론 체력이 되고 연타만 된다면 풀콤보는 어렵지 않지만, 이런 이유 때문에 드럼매니아 초창기에는 제법 난이도 있는 곡 중 하나로 취급받았다. ~~2nd MIX 리얼모드 졸업곡~~
+
+이후 기타프릭스 7th & 드럼매니아 6th때 곡 대량삭제로 삭제되었다가, 세월이 한참 지나서 V6에서야 배틀아이템으로 부활했다. V7에서는 일반곡.
+
+여담으로, 펌프 잇 업 시리즈의 극악곡중 하나인 [[Mr.Larpus]]의 멜로디가 수상하리만치 본 곡과 흡사해서 표절 의혹이 있었지만 사실 이런 장르의 곡들은 전부 비슷비슷하게 들린다는 의견이 대세, 그냥 넘어갔다.

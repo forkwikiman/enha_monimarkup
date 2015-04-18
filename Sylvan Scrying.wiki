@@ -1,0 +1,17 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Sylvan Scrying''' ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/123020_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {1}{G} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 집중마법 ||
+||||<height=190px>당신의 서고에서 대지 카드를 한 장 찾아와서 공개한 뒤에 당신의 손에 넣는다. 그런 다음 당신의 서고를 섞는다.
+
+''One glimpse of an elf's home lasts her weeks away in the wild.''||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Mirrodin || 언커먼 ||
+|||| 10th Edition || 언커먼 ||
+
+같은 마나의 [[Rampant Growth]]와는 달리 찾은 대지를 전장에 놓지는 않지만, 이걸로 찾는 대지는 '''종류를 가리지 않는다'''. 그래서 [[Eye of Ugin]]을 찾아서 [[크고 아름다운]] 엘드라지를 꺼낼 수 있고, [[우르자 삼신기]]를 완성시킬 수 있고, [[Cloudpost]]나 [[Vesuva]], [[Glimmerpost]] 를 찾아서 마나를 좀더 뽑을 수 있고, [[Academy Ruins]]를 찾아서 마법물체 돌려막기를 할 수 있고 기타 등등...
+
+비슷한 용도로 쓰이는 카드가 [[Crop Rotation]] 이쪽은 대지를 희생하는 대신에 전장에다가 바로 놓는다.

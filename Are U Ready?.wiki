@@ -1,0 +1,45 @@
+ * 이 항목은 'Are U Ready'로 들어올 수 있으며, 리다이렉트를 거치지 않는 링크를 걸려면 {{{[[wiki:"Are U Ready%3F" Are U Ready?]]}}} 또는 {{{[[Are U Ready%3F|Are U Ready?]]}}}로 걸 수 있다.
+
+[[목차]]
+
+== 개요 ==
+||http://ecx.images-amazon.com/images/I/51ro9TZTkDL.jpg?width=300||attachment:/areuready.jpg?width=300||
+|| DVD반 자켓 || CD반 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/5g1jZuttPyY" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+일본의 신인 가수 mini의 데뷔음반 및 수록곡. mini는 이 곡의 발매와 함께 데뷔했다. 장르는 디지털 록이 융합된 일렉트릭 사운드.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/K22TY92lmEI&color1=0xb1b1b1&color2=0xd0d0d0&hl=ja_JP&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/K22TY92lmEI&color1=0xb1b1b1&color2=0xd0d0d0&hl=ja_JP&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="480"></embed></object>
+}}}
+
+[[스즈키]] 시보레MW(미니 웨건)의 CF음악으로도 사용되었다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>8||
+||<#ffffff><:>노트수||<:>206||<:>436||<:>584||
+||<#ffffff><:>BPM||||||<:>130||
+||<#ffffff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제[[BR]]유비트 소서에서 2012/10/15 재수록[[BR]]유비트 소서에서 2013/1/1 교체[[BR]]유비트 소서에서 2013/3/1 재수록(...)[[BR]]유비트 소서에서 2013/6/1 '''삭제'''[* 2013년 9월부터 시행한 '마이 리퀘스트' 기능에서 고를 수 없다.]||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임 안에서 쓰는 자켓은 DVD반 자켓.
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/IKh4nIvGJXg" frameborder="0" allowFullScreen></iframe>
+}}}
+EXTREME 보면 영상
+
+EXTREME의 경우 박자에 맞춰 마커를 처리하면 무난하게 클리어를 노릴 수 있다. 영상을 보면서 연습하도록 하자.
+
+이 곡도 글자노트가 많은 편인데, 초반부의 'Ready?'에 맞춰서 나오는 r,d와 그 뒤에 이어지는 m,i,n,i, 'Are U Ready' 라고 나오는 부분에 맞춰서 나오는 A 및 'Don't think, Just Feeling'에 나오는 D,J,F, 'Startin''에 맞춰서 나오는 S와 t 등 가사에 맞춰서 다양한 형태의 글자노트가 나온다.
+
+유비트 소서에서 교체 및 재수록 이력이 화려하다. 비슷한 사례로 [[ちょうどいいとこにいたい]]도 있다.
+
+2013년 3월 1일까지는 ちょうどいいとこにいたい와 함께 교체→재수록→교체→재수록이라는 진기한 기록을 세운 유이한 곡이 되었다(...) ~~영원히 고통받는 Are U Ready?~~ 하지만 2013년 6월 1일 삭제 예정곡으로 찍히면서 부활과 삭제 사이의 간격은 이제 성립(?)하지 않게 되었다. --그럼 뭐해 벌써 삭제만 3번이 되겠는데-- --와우 삭제로 기네스-- 그것도 모자라서 2013/9/1부터 교체곡 정책의 일환으로 시행된 마이 리퀘스트 악곡 목록에도 '''이 곡이 없다.''' [[천본앵(흑토끼P)|천본앵]]처럼 논란이 있던 곡도 아니며, 라이선스 만료로 삭제한 것으로 추정된다.

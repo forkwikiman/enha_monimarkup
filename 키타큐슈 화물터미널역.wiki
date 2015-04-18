@@ -1,0 +1,12 @@
+{{{+1 北九州貨物ターミナル駅 / Kitakyūshū Kamotsu Terminal Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kitakyushu_Freight_Terminal.JPG/600px-Kitakyushu_Freight_Terminal.JPG
+
+||||||||||<#2d86bd> {{{#ffffff 가고시마 본선}}} ||<#2d86bd><|2>{{{#ffffff 운영주체 : 일본화물철도}}}[[br]]{{{#ffffff 개업일 : 2002년 3월 23일}}} ||
+||<width=100px> [wiki:"모지코역" 모지코] 방면[[br]][[wiki:"모지역" 모　지]] || {{{+1 ← }}} ||<width=100px> 키타큐슈[[br]]화물터미널 || {{{+1 → }}} ||<width=100px> [wiki:"야츠시로역" 야츠시로] 방면[[br]][wiki:"히가시코쿠라역" 히가시코쿠라] ||
+
+일본 [[후쿠오카]]현 [[키타큐슈]]시 모지구에 위치한 [[JR 화물]] [[가고시마 본선]]의 화물역이다. 정식 영업km수로는 모지역의 한 지점으로 여겨지기 때문에 [[산요 본선]]의 종점으로 취급된다. 지상역이며 컨테이너 홈 3면으로 구성되어 있다.
+
+취급하는 화물은 컨테이너, 임시 차급화물, 산업폐기물 등이 있다.
+
+[[각주]]

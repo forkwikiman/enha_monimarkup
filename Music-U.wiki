@@ -1,0 +1,96 @@
+[[목차]]
+== 개요 ==
+작곡은 [[Qrispy Joybox]], 보컬은 [mao].
+장르는 일렉트릭 댄스웨이브
+
+=== 가사 ===
+{{|
+ちょっと　何かドキドキしてる
+ほらカラフルに　Dress upして
+光の粒はラインストーン　爪の先までSo cute!
+On music!ねぇDJ!もっと聴かせて
+
+Stand up　もぅ　じっとしてられない
+Make up　は完璧　手は抜かない
+もっとHighにいこうよ　だって
+ずっと待ってた　weekend night
+そこのキミ!流行のGrazing boy!?
+退屈なら　もぅBye-bye
+どうせならrhythmにノって　派手にいこう!
+
+手を引いて　グッとリードして
+甘い言葉　囁いてね
+溶けていくの　この空間に
+good music　止めないでね
+
+ちょっと　何かドキドキしちゃう
+考えるより　感じて　Heart beat!
+光の粒はアイライン　ラメラメな瞳で
+wink-wink yeah
+
+All night!　終わらないで
+On music　揺らして　最高のflow
+今夜めぐり会えたのは偶然なんかじゃない
+朝が　きても　覚めない　Music-U
+|}}
+
+번역은 추가바람
+== [[팝픈뮤직]] ==
+{{{#!html
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm13120019"></script><noscript><a href="http://www.nicovideo.jp/watch/sm13120019">Niconico エレクトリックダンスウェーブEX</a></noscript>
+}}}
+
+{{|처음 뵙겠습니다. [Qrispy Joybox]입니다.
+이번 작품에서 처음으로 참가합니다!
+이번 곡은 사랑스럽고 신나는 댄스 넘버를 이미지하여 제작하여 보았습니다.
+청취 포인트는 mao 씨가 노래하고 있는 사랑스러운 가사와 노래일까!
+특히 개인적으로는 사랑스러운 가사가 너무 마음에 듭니다!
+가사, 아이 라인 이라든지, 라메라메 라든지 ♪
+꼭 가사도 함께 잘 들어주신다면 기쁘겠습니다!
+앞으로 많은 악곡을 제공하면 좋겠다고 생각하고 있기 때문에 응원 잘 부탁드립니다!
+- [Qrispy Joybox] 
+
+[http://www.konami.jp/bemani/popn/music19/mc/04/ele_dance.html]|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 19[[BR]]TUNE STREET || TELECTRIC DANCE WAVE[[BR]]일렉트릭 댄스 웨이브 || Music-U[[BR]]뮤직-유 || [[Qrispy Joybox]] feat.[mao]|| MOMOKO★SAN[[BR]]모모코씨 ||
+
+|||||||||||||| [[팝픈뮤직]] 난이도 체계 ||
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 152 || 43단계 || {{{#blue 12}}} || {{{#green 17}}} || {{{#orange 30}}} || {{{#red 34}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 23}}} || {{{#orange 36}}} || {{{#red 40}}} ||
+|||| 노트수 || {{{#blue 269}}} || {{{#green 336}}} || {{{#orange 703}}} || {{{#red 912}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+팝픈뮤직 19th 튠 스트릿에 수록된곡이다.
+
+== [[리플렉 비트 라임라이트]] ==
+
+ * [[wiki:"리플렉 비트 라임라이트/해금요소" 상위 항목으로 돌아가기]]
+
+attachment:musicu.png
+
+|||||| [wiki:"리플렉%20비트%20라임라이트/해금요소#s-3.1" LIME UP 시스템] ||
+||||||<#E7FFEA><:>'''limelight 2'''||
+||<:>2-1 글래스|| ||<:>2-2 글래스||
+||<:>[ツキミチヌ] (25)|| ||<:>[INTO YOUR HEART (Ruffage remix)] (25)||
+||<:>▼|| ||<:>▼||
+||<:>'''Music-U''' (35)|| ||<:>[[EURO-ROMANCE]] (35)||
+||||||<#E7FFEA><:>'''limelight 3'''||
+||<tablewidth=100%><width="33%"><:>3-1 글래스||<width="34%"><:>3-2 글래스||<width="33%"><:>3-3 글래스||
+||<:>[SHION] (43)||<:>[Sakura Sunrise] (43)||<:>[OVER THE LIMIT!] (43)||
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 152 || {{{#green BSC}}} || {{{#orange MID}}} || {{{#red HD}}} ||
+|| {{{#green 3}}} || {{{#orange 5}}} || {{{#red 7}}} ||
+|| 오브젝트 || {{{#green 122}}} || {{{#orange 274}}} || {{{#red 334}}} ||
+|| 수록버전 ||||||||<#82eb5a> [리플렉 비트 라임라이트] ||
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/CJYtBZDiG0w" frameborder="0" allowfullscreen></iframe>
+}}}
+
+98.9% FC 영상
+
+정박계이긴 하나 박자가 살짝 난감하고 동시치기만 헷갈리지 않으면 난이도 7치고는 무난하다. 전작의 [[カラフルミニッツ]]와 같은 포지션.

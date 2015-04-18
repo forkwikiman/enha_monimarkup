@@ -1,0 +1,100 @@
+[[목차]]
+
+== 개요 ==
+|||||||||| [[wiki:"미즈키 나나/음반 목록" 미즈키 나나의 싱글음반 목록]] ||
+|| 11. WILD EYES  ||→|| 12. '''ETERNAL BLAZE''' ||→|| 13. SUPER GENERATION  ||
+
+attachment:/img12_2.jpg
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='640' height='480' id='movie' align='middle'><param name='quality' value='high' /><param name='movie' value='http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=dezaki7080&prgid=6131821&countryChk=ko&skin=1' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='wmode' value='transparent' /><embed src='http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=dezaki7080&prgid=6131821&countryChk=ko&skin=1' type='application/x-shockwave-flash' wmode='transparent' allowScriptAccess='always' allowFullScreen='true' pluginspage='http://www.macromedia.com/go/getflashplayer' width='640' height='480' /></embed></object>
+}}}
+PV 영상
+
+[[미즈키 나나]]의 12번째 싱글음반이자 그 표제곡. 싱글음반은 2005년 10월 19일 발매되었다. 오리콘 위클리 싱글 차트 2위를 획득하며 당시 성우 개인 명의 싱글의 최고 순위를 갈아치운다.
+
+[[youtube(T-s4nvXBRwY)]]
+
+[[마법소녀 리리컬 나노하 A's]]의 오프닝 테마곡으로도 쓰인 표제곡 ETERNAL BLAZE는 아게마츠 노리야스의 곡으로 이 때부터 본격적으로 음악제작그룹 [[Elements Garden]]의 프로듀싱을 받게 된다. 가수인생 3막의 시작이자 전성기의 시작을 연 싱글이라 볼 수 있다. 
+
+이 곡을 커버한 대표적인 아티스트로는 [[엔도 마사아키]]와 성우인 [[이와오 준코]]가 있다.
+
+[http://www.mgoon.com/ch/ccomaman/v/4139822 9가지 라이브를 합쳐놓은 영상]
+== 수록곡 목록 ==
+|| '''트랙''' || '''곡명''' ||
+|| 1 || ETERNAL BLAZE ||
+|| 2 || RUSH＆DASH! ||
+|| 3 || Inside of mind ||
+
+== [[리듬게임]]에 수록 ==
+[[코나미]]사의 리듬게임인 [[기타프릭스 XG3 & 드럼매니아 XG3]]와 [[유비트 소서]], 그리고 [[반다이 남코 게임즈]]의 [[태고의 달인]]에 수록되었다. 곡의 인기와는 달리 수록이 늦은 편. 참고로 [[BEMANI 시리즈]]에서는 모두 커버보컬 수록으로, [[Trickster]] 이후 같은 가수 수록은 두 번째.
+
+=== [[기타프릭스&드럼매니아]] ===
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/dFouTiT--GU" frameborder="0" allowfullscreen></iframe>
+}}}
+EXPERT 플레이 영상
+--커버표지가 상당히 고풍스럽다. [wiki:"샤를롯(팝픈뮤직)" 모 인형소녀]를 연상케 할 정도.--
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"기타프릭스&드럼매니아 XG" XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 105-155 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} ||
+|| {{{#blue 1.30}}} || {{{#orange 3.70}}} || {{{#red 4.75}}} ||
+|| 기타 베이스 || {{{#blue 1.80}}} || {{{#orange 4.00}}} || {{{#red 5.30}}} ||
+|| 드럼매니아 || {{{#blue 1.40}}} || {{{#orange 4.40}}} || {{{#red 7.00}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 105-155 ||<|2><:> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 1.45}}} || {{{#orange 4.45}}} || {{{#red 5.40}}} ||
+|| 기타 베이스 || {{{#blue 2.75}}} || {{{#orange 4.70}}} || {{{#red 5.85}}} ||
+|| 드럼매니아 || {{{#blue 1.80}}} || {{{#orange 5.05}}} || {{{#red 7.35}}} ||
+
+[[기타프릭스 XG3 & 드럼매니아 XG3]]에 첫 수록되었다. 그런데 문제는 XG3가 보통 망한 게임이 아니라서(...) 인기곡인데도 빛을 발하지 못한 편이다. 물론 국내에는 --다행인지도 모르겠지만-- XG3가 정발되지 않았기 때문에 [[더 이상의 자세한 설명은 생략한다]]. XG 기기 자체가 일본에서도 그리 많지 않은 점도 한 몫하여 아는 사람들만 아는 곡이 되어갔다.
+
+'''그러나...'''
+
+=== [[유비트 시리즈]] ===
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>1||<:>6||<:>8||
+||<#ffffff><:>노트수||<:>133||<:>343||<:>484||
+||<#ffffff><:>BPM||||||<:>105 ~ 155||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2013/2/1 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+[[유비트 소서]]에서 2013년 2월 라이센스 곡으로 수록되었다. 당연히 반응은 [[충격과 공포]]. 기존에 커버보컬로 타 게임에 수록된적이 있어 한번에 파악했던 일본쪽과 다르게 한국에서는 아티스트 명의가 나와있지 않아 과연 그 곡이 맞냐는 반응도 있었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/5_CAMS5qsLk" frameborder="0" allowfullscreen></iframe>
+}}}
+SUKE-Y 플레이어의 [[엑설런트]] 영상
+
+전체적으로 노래 박자에 맞춘 16비트 위주의 패턴. 그런데 문제는 가사에 익숙해 있는 플레이어를 낚는 박자가 섞여 있다는 것. 대표적으로 '君の'''その'''笑顔'''だけ'''' 부분, 특히 굵은 글씨는 2음절인데도 '따다닥' 3연타(...)고, 후렴구에서 곡조가 바뀌기 전의 부분은 '딱/딱/따닥/딱/딱' 느낌으로 쳐야 한다. 그 밖에도 동시치기와 난타가 섞인 구조도 정확히 이해해야 점수를 잘 올릴 수 있다.
+
+베이직의 경우 [[WAVES; Q;indivi+WISE]] 이후의 오랜만의 레벨1이자, 소서 신곡 중 처음 등장한 레벨1이라는 점이 포인트.
+
+=== [[태고의 달인]] ===
+||||||||<:>NAC버전 기준||
+||||<:>난이도||||<:>노트 수||
+||{{{#red 간단}}}||{{{#red 3}}}||{{{#red 간단}}}||{{{#red 83}}}||
+||{{{#green 보통}}}||{{{#green 3}}}||{{{#green 보통}}}||{{{#green 114}}}||
+||{{{#002040 어려움}}}||{{{#002040 5}}}||{{{#002040 어려움}}}||{{{#002040 228}}}||
+||{{{#purple 오니}}}||{{{#purple 7}}}||{{{#purple 오니}}}||{{{#purple 320}}}||
+||||BPM||||105-155||
+||||수록버전||||NAC||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/YDNS7PDJ_tY" frameborder="0" allowfullscreen></iframe>
+}}}
+오니 보면 전량 영상
+
+2013년 3월 13일 소라이로 버전 업데이트로 수록되었다. 이 쪽은 '''원곡으로 수록되었다'''. 오오 반남 오오! 참고로 [[태고의 달인]]의 경우 12의 Shooting Star에 이은 동 아티스트 두 번째 수록.
+
+== 여담 ==
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/ArPU5Xx41_Q" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[길티기어 시리즈]]의 [[미토 안지]] 콤보 동영상 BGM이 이 곡이다. 참고로 이 동영상은 안지 활용법을 잘 이해한 유명한 동영상으로 알려져 있다.

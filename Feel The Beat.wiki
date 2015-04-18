@@ -1,0 +1,37 @@
+||<:> [[beatmania IIDX 21 SPADA]] 특수 엑스트라 폴더[[br]][[Spada†leggendaria]] ||
+||<:>[[Close the World feat.a☆ru]]||
+||<:>[[Sigmund]]||
+||<:>[[Ancient Scapes]]||
+||<:>[[invoker]]||
+||<:>'''Feel The Beat'''||
+||<:>[[疾風迅雷]]||
+||<:>[[Verflucht]]||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/y7XIR3y_1l8" frameborder="0" allowfullscreen></iframe>
+}}}
+SPA 영상
+
+[https://youtu.be/s_apISPsCpM?t=9m35s RAG의 †LEGGENDARIA패턴 풀콤보 영상]
+
+[http://www.nicozon.net/watch/sm23238607 DPA 영상]
+
+|| 장르명 |||||||| HARDCORE RAVE[[BR]]하드코어 레이브 |||| [[BPM]] |||| 175 ||
+|||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#pink †LEGGENDARIA}}} ||
+|| 싱글 플레이 || {{{#blue 7}}} || {{{#blue 689}}} || {{{#orange 10}}} || {{{#orange 1129}}} || {{{#red 12}}} || {{{#red 1830}}} || {{{#pink 12}}} || {{{#pink 2225}}} ||
+|| [[더블 플레이]] || {{{#blue 6}}} || {{{#blue 578}}} || {{{#orange 9}}} || {{{#orange 1049}}} || {{{#red 11}}} || {{{#red 1628}}} || {{{#pink 12}}} || {{{#pink 1876}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 21 SPADA ~ 
+
+'''Rock da House, WOW!'''[* 해당 샘플링은 하드코어 테크노 DJ인 Octane의 Rock Da House에서 따왔다. [[http://www.youtube.com/watch?v=Xq7Z5Xxz9Qw 링크]] ]
+
+2014년 4월 2일[* 실제로는 4월 1일이지만 웹상에는 하루 늦게 공개되었다.] [[Spada†leggendaria]]로 등장한 5번째 악곡. 조건대상곡은 DJ Shimamura의 Overload Frontier 단 한 개 뿐이며, 작곡가 명의는 [wiki:"펄션"Falsion]이지만 소환조건곡과 곡 분위기가 거의 흡사해 DJ Shimamura로 사실상 확정.
+
+싱글 어나더는 노트 물량과 스크래치 복합패턴이 어우러진 채보구성을 지녔다. 싱글 하이퍼 패턴은 그냥저냥 무난한 난타형 레벨 10. 주의할 구간도 딱히 없다.
+더블 어나더는 싱글보다 아랫 단계인 레벨 11이다. 중간중간 까다로운 스크래치 복합 패턴을 주력으로 삼기때문에 레벨 11 답다.
+
+2014년 9월 24일 업데이트를 통해 †LEGGENDARIA 채보가 추가되었다. †LEGGENDARIA 채보답게 싱글쪽은 약 2200개가 넘는 엄청난 물량으로[* 아케이드 기준 모든 †LEGGENDARIA 채보를 제외한 악곡 중 싱글 채보의 최다 노트수가 [[Elemental Creation]] 어나더의 2130개인것을 감안하면 가히 정신나간 물량이라 해도 과언이 아니다.] 시종일관 폭타로 몰아붙이는 흉악한 채보이지만, 하필 함께 업데이트 된 [[Verflucht]]와 [[疾風迅雷]]의 †LEGGENDARIA 채보가 최악의 난이도와 비정상적인 구성을 보여 모두의 이목을 끌면서 상대적으로 관심을 덜 받게 된 비운의 채보. 마치, 고물량과 발광등의 비슷한 구성으로 무장했지만 함께 업데이트 된 [[Sigmund]]†LEGGENDARIA에 의해 묻혀버린 [[Ancient Scapes]]†LEGGENDARIA를 떠올리게 한다.
+
+여담으로, 곡명을 보고 [[DJMAX 시리즈]] 수록곡인 [[Feel Ma Beat]]를 떠올리는 사람도 더러 있는듯.

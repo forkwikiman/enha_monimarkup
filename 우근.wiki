@@ -1,0 +1,92 @@
+||<-5><#b578b5><tablealign=center> '''프로필''' ||
+||<|15> attachment:/Emerald_Palace_Guardian_Ukon.png?width=200 ||
+||<#b578b5> '''이름''' ||<#dda0dd><-2> 우근 ||
+||<#b578b5> '''성별''' ||<#dda0dd><-2> [[남성]] ||
+||<#b578b5> '''트레이너 계급''' ||<#dda0dd><-2> 팰리스가디언 [[br]]([[프런티어 브레인]]) ||
+||<#b578b5> '''지방''' ||<#dda0dd><-2> [[호연지방]] ||
+||<#b578b5> '''출신지''' ||<#dda0dd><-2> 불명 ||
+||<#b578b5> '''가족관계''' ||<#dda0dd><-2> 불명 ||
+||<#b578b5> '''담당 지역''' ||<#dda0dd><-2> [[배틀 팰리스]] ||
+||<#b578b5> '''심볼''' ||<#dda0dd><-2> [[attachment:/Spiritssymbolsilver.png]][[attachment:/Spiritssymbol.png]][[br]] 스피리트 심볼 ||
+||<#b578b5> '''주된 타입''' ||<#dda0dd><-2> 다양 ||
+||<#b578b5> '''데뷔작''' ||<#dda0dd><-2> [[포켓몬스터 에메랄드]] ||
+||<#b578b5> '''세대''' ||<#dda0dd><-2> 3 ||
+||<#b578b5> '''등장 게임''' ||<#dda0dd><-2> [[포켓몬스터 에메랄드|에메랄드]] ||
+||<|2><#b578b5> '''성우''' ||<#dda0dd> 故 [[노자와 나치]] ||<#dda0dd> attachment:/20px-Japan_Flag.png ||
+||<#dda0dd><:> [[장광]] ||<#dda0dd> attachment:/20px-South_Korea_Flag.png ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/프런티어 브레인)]]
+
+== 캐릭터 정보 ==
+~~[소]의 [남근]~~[[포켓몬스터]] 시리즈의 등장인물. 
+
+호연 [[배틀프런티어(포켓몬스터)|배틀프런티어]]의 프런티어 브레인으로, 배틀 팰리스의 브레인을 담당하고 있는 노인이다. 직함은 '팰리스 가디언(パレスガーディアン).'
+
+포켓몬과 마음이 통하는 것을 강조하는 배틀 팰리스의 브레인답게, 배틀장에 입장할 때 [[루리리]]와 [[야느와르몽|미라몽]]이 한마리씩 그를 따라 들어오는 것이 특징이다. 시원하고 호탕한 성격으로 가끔 배틀 팰리스의 직원들도 그의 호탕한 태도에 당황하는 경우가 있다.
+
+배틀 팰리스 밖에는 '무척 강해보이고 무척 친절해 보이는 할아버지를 봤다'면서 우근의 존재를 암시하는 어린아이 NPC가 있다. 그 외에는 프런티어 브레인답게 역시 얼굴 한번 보기 힘들다.
+
+어째선지 옷이나 지팡이가 [[가이오가]]를 연상케한다.
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed> * 배틀 팰리스 BGM
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile6.uf.tistory.com/media/24529F4B539FAC2D1F4CFE"></object>}}}
+
+ * 전투! 프런티어 브레인
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile30.uf.tistory.com/media/263FF74352713B8608EB48"></object>}}}||
+
+=== 삽화 ===
+||<-2><#b578b5><tablealign=center> 스프라이트 ||
+|| attachment:/Spr_E_Spenser.png || attachment:/Spenser_OD.png ||
+|| 트레이너 || 필드 ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#b578b5"><:> 언어 || 이름 || 유래 ||
+|| 일본어 || 우콘 ウコン || [[카레]]의 원료로 쓰이는 식물 '[강황|울금]'에서. ||
+|| 한국어 || 우근 || 울금에서 변형. ||
+|| 영어 || 스펜서 Spenser || 정신을 뜻하는 spirit에서. ||
+
+= 소유 포켓몬 =
+== 은 심볼 ==
+||<tablealign=center><#da70d6> attachment:/Spr_3e_169.gif ||<#999966> attachment:/Spr_3e_289.gif ||<#6699ff> attachment:/Spr_3e_131.gif ||
+||<rowbgcolor="#dcdcdc"><:> [[크로뱃]] ♂/♀ || [[게을킹]] ♂/♀ || [[라프라스]] ♂/♀ ||
+|| __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||
+|| __특성__ :[[br]]정신력 || __특성__ :[[br]]게으름 || __특성__ :[[br]]저수[[br]]or 조가비갑옷 ||
+|| __지닌 도구__ :[[br]]반짝가루 || __지닌 도구__ :[[br]]초점렌즈 || __지닌 도구__ :[[br]]선제공격손톱 ||
+|| __기술배치__ :[[br]][[공중날기]][[br]][[이상한빛]][[br]][[맹독]][[br]][[그림자분신]] || __기술배치__ :[[br]][[지진]][[br]][[섀도볼]][[br]][[깨트리다]][[br]][[뽐내기]] || __기술배치__ :[[br]][[뿔드릴]][[br]][[냉동빔]][[br]][[이상한빛]][[br]][[방어]] ||
+
+== 금 심볼 ==
+||<tablealign=center><#ff9933> attachment:/Spr_3e_059.gif ||<#999966> attachment:/Spr_3e_289.gif ||<#6699ff> attachment:/Spr_3e_245.gif ||
+||<rowbgcolor="#dcdcdc"><:> [[윈디]] ♂/♀ || [[게을킹]] ♂/♀ || [[스이쿤]] ||
+|| __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||
+|| __특성__ :[[br]]타오르는불꽃[[br]]or 위협 || __특성__ :[[br]]게으름 || __특성__ :[[br]]프레셔 ||
+|| __지닌 도구__ :[[br]]하양허브 || __지닌 도구__ :[[br]]초점렌즈 || __지닌 도구__ :[[br]]왕의징표석 ||
+|| __기술배치__ :[[br]][[오버히트]][[br]][[신속]][[br]][[울부짖기]][[br]][[방어]] || __기술배치__ :[[br]][[파괴광선]][[br]][[섀도볼]][[br]][[지진]][[br]][[하품]] || __기술배치__ :[[br]][[파도타기]][[br]][[물기]][[br]][[눈보라]][[br]][[명상]] ||
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 애니메이션 시리즈]]에서 ==
+자연과 함께 살아가는 것을 중요하게 생각하며 정글의 은둔자 같은 생활을 보내고 있다. [[한지우]]와 [[나무킹]]이 행방불명되었을 때도 당황하지 않고, 시합 중에도 쉬면서 지우에게 나무 열매를 넘기는 등 초조함을 보이지 않는 성격. 날씨나 지형등을 이용한 시합 스타일로 지우를 압박하지만 실연 슬럼프에서 부활한 나무킹의 분투에 졌다. 참고로 의외로 무서우신 분... 분명 혼자 살텐데 '''정글에 함정이 넘쳐나고[* 로켓단이 이 함정에 전부 걸렸다.] 지우 바로 뒤에 있는 사실상 자신의 '''바로 정면에 있을 로켓단을 파괴광선으로 날려버리기도 한다.''' [* 물론 개그지만 진지하게 생각해보면 참...]
+
+ * 사용 포켓몬
+  * [[이상해꽃]]
+  * [[다탱구]]
+  * [[점토도리]]
+  * [[럭키]]
+
+== [[포켓몬스터 SPECIAL]]에서 ==
+옛날 [[가이오가]]를 지배하는 쪽빛구슬을 만진적이 있으며[* 왜인지는 몰라도 우근의 지팡이가 묘하게 가이오가를 연상시킨다] 그후 악몽에 시달렸다고. 그래서인지 [wiki:"사파이어(포켓몬스터 SPECIAL)" 사파이어]가 쪽빛구슬을 만졌다는걸 알아채고 가일도 쪽빛구슬의 힘에 매혹되었다는걸 알아챘다. 그 후 하인즈에게 진 에메랄드에게 포켓몬을 믿게 하는 계기를 만들어준다. 일단 스피리트 심벌은 따낸것 같다.
+
+사용 포켓몬은 [[게을킹]], [[라프라스]], [[크로뱃]]. 아마 [[꼬지모]](바위)->크로뱃(비행), [[나무킹]](풀)->라프라스(물), [wiki:"야느와르몽" 미라몽](고스트)->게을킹(노멀)이라 이기지 않았을까?

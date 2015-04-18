@@ -1,0 +1,25 @@
+|||||||||| [[Mr.T]]의 ELECTROSHOCK 시리즈 ||
+|| [[EXE]][[BR]]IIDX 10th style || → || '''vault of heaven'''[[BR]]IIDX 12 HAPPY SKY || →  || [[electro peaceful]][[BR]]유비트 코피어스  ||
+
+{{{#!html
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/dg-RMnUTJ2A?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/dg-RMnUTJ2A?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 160  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 4}}} || {{{#blue 401}}} || {{{#orange 8}}} || {{{#orange 728}}} || {{{#red 10}}} || {{{#red 1010}}} || {{{#blue 4}}} || {{{#blue 401}}} || {{{#orange 7}}} || {{{#orange 728}}} || {{{#red 9}}} || {{{#red 1020}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 12 HAPPY SKY ~ 
+ * 가정용판 수록 : 12 HAPPY SKY
+
+비트매니아 IIDX HAPPY SKY에 수록된 Mr.T의 4번째 일렉트로쇼크 악곡. 곡 제목의 뜻은 '''하늘'''. 타이틀의 테마에 맞는 곡제목이다.
+
+EXE와 비슷하게 피아노 연주가 큰 비중을 차지한다. 분위기는 이 쪽이 더 밝게 느껴진다.
+
+채보는 대체적으로 난타위주 구성으로, 하이퍼 이상에는 초중반부터 후반까지 쭈욱 난타가 이어진다. 
+
+BGA는 XTC가 제작한 전용BGA를 사용한다. 비트매니아의 일렉트로쇼크 시리즈 중에서는 유일한 전용BGA.
+
+더블 어나더 패턴이 9레벨 답지않게 매우 어려운 채보로 악명높다. 비공식 난이도 마저 ☆10.2를 받았을 정도. 당장 노트수만 확인해도 싱글 어나더 10레벨 짜리보다 노트가 10개나 더 많다(...)

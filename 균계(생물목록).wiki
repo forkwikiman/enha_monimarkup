@@ -1,0 +1,171 @@
+ * 상위 문서: [[진핵생물역(생물목록)]]
+ * 일반적인 내용은 [[균계]] 참고.
+
+[[목차]]
+
+균계(菌界, Fungi)는 세포벽이 [[키틴]]으로 되어있고 엽록소가 없어 광합성을 하지 못하는 생물을 포함한다.
+
+= 네오칼리마스트릭스균문(Neocallimastigomycota) =
+= 미포자충문(Microsporidia) =
+== 미오스포라강(Marinosporidia) ==
+=== 미오스포라목(Crustaceacida) ===
+== 미포자충강(Microsporea) ==
+ * 메트크니코벨라목(Metchnikovellida)
+ * 미포자충목(Microsporida)
+ * 스테인하우시아목(Minisporida)
+  * 아벨스포라목(Pleistophorida)
+= 블라스토클라디아균문(Blastocladiomycota) =
+= 접합균문(Zygomycota)[* 하등 균류라고도 불린다. 균사의 격벽이 아예 없거나, 불규칙, 또는 불완전하여 세포질이 다핵체 상태를 띄고 있다.] =
+== 곤충곰팡이아문(Entomophthoromycotina) ==
+== 키크셀라아문(Kickxellomycotina) ==
+== 털곰팡이아문(Mucoromycotina) ==
+  * 털곰팡이목(Mucorales)
+   * 털곰팡이과
+    * [빵곰팡이]
+    * [털곰팡이]
+== 포충균아문(Zoopagomycotina) ==
+= 취균문(Glomeromycota) =
+= 호상균문(Chytridiomycota) =
+= 쌍핵균아계(Dikarya) =
+== 불완전균문(Deuteromycota) ==
+== 자낭균문(Ascomycota) ==
+ * [효모]
+ * [[잿빛곰팡이균]](botrytis cinerea)
+ * C.트리코이디스(cladosporium trichoides)
+ * F.바신펙텀(fusarium vasinfectum)
+== 주발버섯아문(Pezizomycotina) ==
+  * 아르토니아강
+  * 입술버섯강
+  * 콩나물버섯강
+  * 라보울베니아강
+  * 레카노라강
+  * 두건버섯강
+  * 리키나균강
+  * 바퀴버섯강
+  * 주발버섯강
+  * 눈꽃동충하초강
+   * [푸른곰팡이]/[페니실린]
+  * 동충하초강
+   * 동충하초아강
+    * 동충하초목 
+     * [동충하초]
+     * [맥각병]
+     * [붉은곰팡이]
+   * 검뎅이침버섯아강 
+    * 흑단추버섯목 
+    * 검뎅이침버섯목
+    * 구멍공버섯목
+   * 콩꼬투리버섯아강
+    * 콩꼬투리버섯목
+ * 사카로미케스아문 (Saccharomycotina)
+  * 사카로미케스강
+ * 외자낭균아문
+  * 고생자낭균강
+  * 네올렉타강
+  * 폐포자충강
+  * 분열효모균강
+  * 외자낭균강
+== 담자균문(Basidiomycota) ==
+=== 녹균아문 ===
+  * 아가리코스틸붐강
+  * 아트락티엘라강
+  * 클라시쿨라강
+  * 크립토미코콜락스강
+  * 키스토바시디움강
+  * 수수깜부기강
+  * 믹시아강
+  * 녹균강
+   * 날개무늬병균목
+    * [날개무늬병]
+   * 고약병균목
+    * [고약병]
+   * [녹균병]
+=== 깜부기균아문 ===	
+  * 엔토르리자강
+  * 깜부기균강
+   * 줄기깜부기균목
+    * [줄기깜부기병]
+   * 깜부기균목
+    * [깜부기병]
+  * 떡병균강
+   * 떡병균목
+    * [떡병]
+=== 담자균아문 ===
+  * 흰목이강
+   * [흰목이]
+  * 붉은목이강
+   * [붉은목이]
+  * 담자균강
+   * 그물버섯목
+    * 알버섯과
+     * [송로버섯|알버섯](송로)
+   * 주름버섯목
+    * 소혀버섯과
+     * [소혀버섯]
+    * 광대버섯과
+     * [광대버섯]
+    * 송이과
+     * [송이버섯|송이]
+     * [양송이]
+     * [가지버섯]
+    * 느타리과
+     * [느타리]
+     * [새송이](큰느타리)
+     * [표고버섯|표고]
+    * 낙엽버섯과
+     * [팽이버섯]([팽나무]버섯)
+   * 목이목
+    * [목이]
+   * 구멍장이버섯목
+    * 구멍장이버섯과  
+     * [복령]/[백복령]
+     * [구름버섯](운지버섯)
+    * [불로초]과
+     * [영지]
+   * 민주름버섯목 
+    * 노루궁뎅이과
+     * [노루궁뎅이]
+   * 사마귀버섯목
+    * 능이과
+     * [능이버섯]
+
+= 분류 예정 =
+[[꿀벌백묵병균]](ascosphaera apis)
+[[알테르나리아 알테르나타]](alternaria alternata)
+[[흑효모]](aureobasidium pullulans)
+B.섭틸리스(bacillus subtilis)
+C.알비더스(cryptococcus albidus)
+C.레시네(cladosporium resinae[* 클라도스포리움 레시네. 그을음 균류 sooty moulds. 알루미늄을 부식시키는 대표적인 [[곰팡이]]. 아파트의 플라스틱 내장재와 도장 면에서 왕성하게 발육한다. 포자는 천식이나 알레르기 질환을 유발한다. 에어컨 내부와 가습기 안에서도 쉽게 발육한다. 흔히 보이는 집 곰팡이.])
+[[동충하초]](cordyceps sinensis)
+C.글로보섬(chaetomium globosum)
+C.마리티마(corollospora maritima)
+E.체발리에리 (eurotium chevalieri)
+F.로제움(fusarium roseum)
+G.에투니카툼(glomus etunicatum)
+H.메디오세티게라(halosphaeriopsis mediosetigera)
+I.오리엔탈리스(issatchenkia orientalis)
+K.서어모트레랜스(kluyveromyces thermotolerans)
+L.에도데스(lentinula edodes)
+M.푸르푸르(malassezia furfur)
+M.무세도(mucor mucedo)
+M.푸실루스(mucor Pusillus)
+M.카니스(microsporum canis)
+P.귈리어몬디(pichia guilliermondii)
+P.피키아멤브레인파시엔스 (pichia membranaefaciens)
+P.프레퀘탄스(penicillium frequentans)
+P.크리소게눔(penicillium chrysogenum)
+피자륨・폴리세팔륨(physarum polycephalum)
+R.글루티니스(rhodotorula glutinis)
+R.루브라(rhodotorula rubra)
+R.자파니쿠스(rhizopus japanicus)
+R.올리고스포루스(rhizopus oligosporus)
+[[효모]]
+T.아크라스포륨(tricocladium achrasporum)
+T.코닌기(trichoderma koningii)
+T.하지아눔(trichoderma harzianum)
+T.마츠타케(tricholoma matsutake)
+T.멘타그로파이트(trichophyton mentagrophytes)
+T.라디아타(torpedospora radiata)
+T.톤슈란스(trichophyton tonsurans)
+[[백선균]](Tricophyton rubrum)
+Z.바일리(zygosacchromyces Bailii)

@@ -1,0 +1,36 @@
+{{{+1 泉大津駅 / Izumiotsu Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/ja/thumb/3/36/Izumiotsu-Sta001.JPG/600px-Izumiotsu-Sta001.JPG
+
+||||||||||<#0065af> {{{#ffffff 난카이 본선}}} ||<#fe4d11><|4>{{{#ffffff 운영주체: 난카이 전기철도}}}[[br]]{{{#ffffff 개업일: 1897년 10월 1일}}} ||
+||<width=100px> [wiki:"난바역" 난　바] 방면[[br]][wiki:"마츠노하마역" 마츠노하마][[br]](NK-19) || {{{+1 ← }}} ||<width=100px> 이즈미오츠[[br]](NK-20) || {{{+1 → }}} ||<width=100px> [wiki:"와카야마시역" 와카야마시] 방면[[br]][wiki:"타다오카역" 타다오카][[br]](NK-21) ||
+
+일본 [[오사카]]부 이즈미오츠시에 위치한 [[난카이 전기철도]] [[wiki:"난카이 본선" 본선]]의 역이다. 대피설비가 갖추어진 쌍섬식 승강장의 고가역으로 특급을 제외한 전 등급이 정차한다. 하루 이용객 순위는 난카이 100개역 중 10위, 난카이 본선 41개역 중 5위이다.
+
+이즈미오츠시의 이름을 달고 있으니만큼 이즈미오츠시의 중심지이며 시청, 도서관, 시립 종합체육관, 시민회관 등의 공공시설 및 쇼핑몰 아루자 이즈미오츠가 있다. 근처에 난카이버스의 정류소가 있다.
+
+{{{#!html
+<blockquote class="twitter-tweet" lang="ko"><p>【実写版ガンツ？線路から人が消える】&#10;南海線・泉大津駅で11月16日、走ってきた電車に向かって線路へ飛び込んだ人が跡形もなく消える怪事件が起きました。　<a href="http://t.co/DwghUI3Je3">http://t.co/DwghUI3Je3</a>　不思議な人身事故…ガンツか？と話題。 <a href="http://t.co/DA36qXHogc">pic.twitter.com/DA36qXHogc</a></p>&mdash; ニュース速報Japan (@breakingnews_jp) <a href="https://twitter.com/breakingnews_jp/status/533920238161506304">2014년 11월 16일</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+}}}
+[[2014년]] [[11월 16일]] 이 역에서 한 여성이 들어오는 전동차를 향해 투신을 해서 열차가 멈췄다. 역무원도 기관사도 목격했는 데 열차 밑에서 시체는 커녕 혈흔조차 발견되지 않았다. [[간츠]] 아니냐는 이야기가 있을 정도. 
+
+{{{#!html
+<blockquote class="twitter-tweet" lang="ko"><p>[일본] 이즈미오오츠 역에서 투신한 여성 실종에 대해 진상이 밝혀진 듯. 난카이혼센南海本線 측에 의하면 열차 긴급 정지 후, 여성이 [열차 아래에서 기어나와] 승강장에 올라가 도주했다고. 현재 경찰이 해당 여성을 수색 중. 정말 기적적이군요(...)</p>&mdash; 히류 (@kugelcruor_RT) <a href="https://twitter.com/kugelcruor_RT/status/534192584256528384">2014년 11월 17일</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>}}}
+
+그런데 밝혀지길 여성이 긴급 정지된 열차 아래에서 기어나와 승강장에 올라가 도주했다고 한다. (...) ~~민첩만렙~~
+
+'''완급결합'''
+||||||<#ffa500> {{{#ffffff 급　　행}}}
+||<width=100px> [wiki:"하고로모역" 하고로모] || {{{+1  ← }}} ||<width=100px> 이즈미오츠 || {{{+1  → }}} ||<width=100px> [wiki:"키시와다역" 키시와다] ||
+||||||<#ffa500> {{{#ffffff 공항급행}}}
+||<width=100px> [wiki:"하고로모역" 하고로모] || {{{+1  ← }}} ||<width=100px> 이즈미오츠 || {{{+1  → }}} ||<width=100px> [wiki:"하루키역" 하루키] ||
+||||||<#009933> {{{#ffffff 구간급행}}}
+||<width=100px> [wiki:"하고로모역" 하고로모] || {{{+1  ← }}} ||<width=100px> 이즈미오츠 || {{{+1  → }}} ||<width=100px> [wiki:"하루키역" 하루키] ||
+||||||<#4169e1> {{{#ffffff 준　　급}}}
+||<width=100px> [wiki:"마츠노하마역" 마츠노하마] || {{{+1  ← }}} ||<width=100px> 이즈미오츠 || {{{+1  ← }}} ||<width=100px> [wiki:"타다오카역" 타다오카] ||
+||||||<#808080> {{{#ffffff 보　　통}}}
+||<width=100px> [wiki:"마츠노하마역" 마츠노하마] || {{{+1  ← }}} ||<width=100px> 이즈미오츠 || {{{+1  → }}} ||<width=100px> [wiki:"타다오카역" 타다오카] ||
+
+[[각주]]

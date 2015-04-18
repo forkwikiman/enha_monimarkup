@@ -1,0 +1,82 @@
+== [[DJMAX 시리즈/수록곡 목록]] ==
+
+|| 최초 수록 버전 || [DJMAX Portable Clazziquai Edition] ||
+|| 작사,작곡 || 김성훈(DJ CLAZZI) ||
+|| 보컬 || 알렉스, 호란  ||
+|| 배경  || [[SARA]](일러스트), [[Z_B]](모션) ||
+|| 장르 || [["일렉트로니카" Electro Pop]] ||
+|| BPM || 125 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Y-NLqmA-yZA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[클래지콰이]]의 데뷔 앨범인 'Instant Pig'와, [DJMAX Portable Clazziquai Edition], [[DJMAX TECHNIKA]]의 수록곡.
+
+클래지콰이 데뷔시, 내~게로 와~ 하는 인상적인 후렴구로 인기를 얻었던 곡이다.
+ 
+비주얼은 펜타비전 소속 아티스트인 Sara와 Z_B가 담당했다. 음악의 가사에 딱 맞추는 Sara의 비주얼처럼, 이 곡도 가사를 중심으로, 영역한 가사가 노래에 맞게 지나가며, 가사에 맟춘 남녀의 모습을 그렸다. 제작기간 8개월의 [[Landscape]]와는 대조적으로, 이 비주얼의 제작시간은 '4일'로 메트로 프로젝트 비주얼 중 가장 짧다고 한다. (퀄리티가 낮다는 이야기는 아니다.) 비주얼에서 '널 보고 있는데~' 란 가사가 있을 때, DMP CE는 이 부분의 BGA가 "I was waching you"로 오타가 나있었으나, 이는 DJMAX TECHNIKA에서 수정되었다.
+
+아래는 게임 버젼의 가사.
+
+{{|아까부터 널 보고 있는데
+혼자일텐데 뭘 그리 생각해
+짧은 머린 음악에 흔들려
+불안한 눈은 누굴 찾고 있는거야
+
+shooting star will lead my night to yours
+you gonna be so much cham
+shooting star will lead my night to yours
+just to make it throught your heart
+
+내게로 와 내게로 와 baby
+내게로 와 I am waiting for me the lucky chance
+
+I've been a fool|}}
+
+== [DJMAX Portable Clazziquai Edition] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/OXjAZfbgfqE" frameborder="0" allowfullscreen></iframe>}}}
+
+[추가바람]
+
+== [DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/f9FCx90fvkk" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴. 테크니카 1에서는 [wiki:"Core Sound"Core Sound Set]에서 플레이할 수 있다.
+
+=== [wiki:"DJMAX TECHNIKA"DJMAX TECHNIKA 1] ===
+
+[[DJMAX TECHNIKA]]에서는 두종류의 TP패턴이 존재하는데, 하나는 [wiki:"First Step"First Step Set] MAX 95% 이하일시 등장하는 TP패턴(편의상 TP1로 표기)이다.
+
+TP1패턴의 경우는 초보자를 대상으로하는 세트의 곡인 주제에 후렴부분 미묘한 엇박패턴이 들어가있다. 기존 리듬게임에 익숙하거나 박자감각이 있다면 쉽게 칠 수 있지만 초보자들은 물론 일부 중수들도 엇박을 굉장히 어려워한다.
+
+다른 하나는 [wiki:"Core Sound"Core Sound Set] MAX 95% 이상일시 등장하는 TP2패턴으로 미션 클리어를 통해 파퓰러에 해금되는 TP패턴은 이쪽이다. 파퓰러 기준으로 레벨이 8이고 레벨에 맞게 보라노트수가 2배로 증가되었다.
+
+=== [[DJMAX TECHNIKA 2]] ===
+
+테크니카 2에서는 [wiki:"First Step"First Step Set]의 TP패턴이 HD, [wiki:"Core Sound"Core Sound Set]의 TP패턴은 MX가 되었다.
+
+|| 패턴 || 난이도 || 등급 || 가격 || 스크롤 || 기타 ||
+|| Star || || D || 300 ||||||
+|| NM || 4 || D || 400 || 8박 스크롤 || ||
+|| HD || 6 || D || 500 || 8박 스크롤 || [wiki:"First Step"First Step Set] 하위 보스곡 ||
+|| MX || 8 || C || 600 || 8박 스크롤 || [wiki:"Conqueror"Conqueror Set] 셀렉곡 ||
+
+모두 팝믹싱 1스테이지에서 플레이할 수 있다.
+특이점은 전패턴이 모두 8박 스크롤이라는 점. [Sweet Shining Shooting Star]의 HD 패턴과 함께 8박 스크롤을 극한으로 사용한 곡으로 평가된다.
+
+=== [[DJMAX TECHNIKA 3]] ===
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || || || || || ||
+||<#FFFF00> Normal || D || 100 || 4 || 8박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 150 || 6 || 8박 스크롤 || [wiki:"First Step"First Step Set] 하위 보스곡 ||
+||<#FF0000> Maximum || B || 200 || 8 || 8박 스크롤 || [wiki:"Conqueror"Conqueror Set] 셀렉곡, [[wiki:"HyperTechnician"미션 - TapTapTap]] 수록 ||
+
+여전히 그대로 계승되어 모두 팝믹싱 1스테이지에 기본으로 해금되어있다.
+아직도 8박 스크롤의 위엄을 뽐내고 있으며, [[IF]] 맥시멈 패턴이 등장하긴 했지만, 개인차에 따라 이쪽을 더 어려워하는 유저도 있으니 8박 스크롤로 따지면 최강급 위치에 있다고 봐도 무관하다.

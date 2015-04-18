@@ -1,0 +1,51 @@
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡은 kanone. 초반에 [[Second Heaven]]등 여러 곡들에서 나오는 'Somebody's scream!!!' 샘플링이 인상적인 곡이다.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/ZagBERV-JdA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '하이텐션 four-on-the-floor 인스트로 오리지널 곡'의 당선곡이다.
+ 
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0064_2.jpg?width=150||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0064_2.jpg?width=150||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0064_2.jpg?width=150||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 09}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0478}}} || {{{#orange 0676}}} || {{{#ff009f 0957}}} ||
+|| 일러스트 담당 || {{{#purple I＞A＜T}}} || {{{#orange I＞A＜T}}} || {{{#ff009f I＞A＜T}}} ||
+|| 이펙터 || {{{#purple Megacycle}}} || {{{#orange Megacycle}}} || {{{#ff009f Megacycle}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} ||
+|| [[BPM]] |||||| 150 ||
+
+||<#eeeeee>
+여러분 처음 뵙겠습니다, kanone입니다!
+
+이번 대회의 수상은 말할 것도없이 기쁩니다! 너무 기뻐서 아직도 실감이 나지 않는 부분도 · · ·
+
+그런데,이 「SOUL EXPLOSION」은 러프 단계에서는 점잖은 곡이었지만, 샘플링, 이펙트 등을 더하면서 정신을 차려보니, 초하이 텐션곡이 되었습니다.
+제가 잘하는 것을 제멋대로 했어요.라는 느낌입니다.
+
+마지막으로, 이 곡을 플레이하고 즐길 수 있으시다면 다행입니다!
+
+- 당선자 코멘트 -
+||
+
+자켓에 나오는 인물은 [[사운드 볼텍스/캐릭터#세키시_소울|세키시 소울]].
+
+attachment:soulexploson.jpg
+
+참고로 이 곡도 자켓이 처음 공개되어 수록되었을 땐 [[KONMAI|I가 빠져서]] SOUL '''EXPLOSON'''이었다.[* 위 플레이 영상에서도 시작 부분에 확인 가능하다.] 이후 자켓이 수정되어서 위의 수정된 자켓을 자세히 보면 I와 양 옆의 알파벳 간의 간격이 좁고 I옆의 O의 크기가 어색한 게 눈에 보인다.
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/-IqvoU6wMKs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+이 곡은 [[INFINITY OVERDRIVE]]를 해금하기 위해서는 반드시 플레이해야 하는 곡이다. 이유는 그 곡을 해금하기 위해서는 각 작곡가의 곡을 각각 1, 2스테이지에 플레이해야 되는데, kanone 작곡의 곡은 14/05/05 기준 이 곡 하나밖에 없기 때문. 상대 작곡가인 nora2r의 곡도 [[VISION]] 밖에 없기 때문에,이 두 곡을 플레이해야 해금이 가능하다.[* '''게다가 둘다 [[사운드 볼텍스/캐릭터#세키시_소울|세키시 소울]]이 나온다!''']
+
+EXH 패턴은 롱노트를 잡으면서 잡노트를 주로 처리해야되는 패턴으로 구성되어있으며 첫번째 카운트다운과는 달리 두번째 카운트다운이후부턴 상당히 까다로운 손배치를 요구하는건 물론이요, 난이도가 이 부분부터 확 올라가기때문에 어버버해서 게이지를 깎아먹기 일쑤. 특히 두번째 카운트 다운 동안의 양 FX를 누르며 BC버튼을 처리하는 부분은 입문자들에게 스코어링에 있어서 꽤 애먹이는 구간이다. 주의하자.

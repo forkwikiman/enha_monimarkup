@@ -1,0 +1,24 @@
+[[목차]]
+== 개요 ==
+
+[[팝픈뮤직 20 fantasia]]의 곡. 하지만 곡 업데이트 시기상의 문제로 Sunny Park OST 1에 수록되어있다.
+[[팝픈뮤직 20 fantasia]]의 유저 참여 콘테스트 "모두가 만드는 20(みんなでつくって20)"의 "너도 나도 ★ 팝픈 아티스트! (ボクもワタシも★ポップンアーティスト!)" 부문에서 수상한 곡으로, 같은 부문에서 수상한 [Southern Cross]와 같이 업데이트 수록되었다.
+
+== 팝픈뮤직 ==
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cUFsO4xB6co" frameborder="0" allowfullscreen></iframe>}}}
+
+
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 20[[br]]FANATASIA || POP'N POP[[br]]팝픈 팝 || Like a pop'n music[[br]] || red glasses[[br]] || nonet[[br]][[노네트]] ||
+
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 176 || 43단계 || {{{#blue 11}}} || {{{#green 14}}} || {{{#orange 27}}} || {{{#red 36}}} ||
+|| 50단계 || {{{#blue 11}}} || {{{#green 20}}} || {{{#orange 33}}} || {{{#red 42}}}  ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+난이도에 따라 중반부의 피아노 부분의 연주가 달라진다. 담당 캐릭터인 노네트는 팝픈 기기를 소녀로 [[의인화]]시킨것. 참고로 노네트(nonet)는 9중주라는 뜻을 가지고 있다.
+
+EX 보면의 노트수는 1024개로, 아슬아슬하게 [[팝픈뮤직/난이도 체계#s-7.2|약간 짠 게이지]]를 피했다.

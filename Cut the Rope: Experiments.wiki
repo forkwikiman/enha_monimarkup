@@ -1,0 +1,21 @@
+ * 상위 항목 : [[모바일 게임]]
+ * 이 항목은 [[Cut the Rope Experiments]], [[컷더로프 실험]]으로 검색해도 들어올 수 있다.
+
+||||||||||||<table align=center><#00FF00> '''{{{#white 컷더로프 시리즈'''}}} ||
+||<:><|2><#8EFF8E>'''{{{#white 정규 시리즈'''}}}||<:>[[Cut the Rope]]||<:>'''[[Cut the Rope: Experiments]]'''||<:>[[Cut the Rope: Time Travel]]||<|2> → ||<|2><:>[[Cut the Rope 2]]||
+||||||||<:>[[Cut the Rope: Triple Treat]]||
+||<:><#8EFF8E>'''{{{#white 기타 작품'''}}}||||<:>[[Cut the Rope: Holiday Gift]]||||||<:>[[Om Nom: Candy Flick]]||
+
+
+||||<table align=right><#00C000> '''{{{#white Cut the Rope: Experiments'''}}} || 
+||||http://img4.wikia.nocookie.net/__cb20140404230258/cuttherope/images/thumb/a/a7/CuttheRopeExperimentsNewIcon.png/250px-CuttheRopeExperimentsNewIcon.png?width=240||
+|| '''개발''' ||[[ZeptoLab]]||
+|| '''플랫폼''' ||iOS, 안드로이드, 윈도우폰, 블랙베리||
+|| '''출시일''' ||2011년 8월 4일||
+|| '''장르''' ||[[퍼즐 게임]]||
+|| '''링크''' ||[http://www.cuttherope.net/]||
+[[목차]]
+
+[[ZeptoLab]]에서 개발한 퍼즐게임인 [[Cut the Rope]]의 후속작이다. 전작과는 다르게 iOS와 안드로이드 두 기종에서 동시에 공개되었다.
+
+자세한 내용 [[추가바람]]

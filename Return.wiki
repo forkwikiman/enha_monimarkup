@@ -1,0 +1,84 @@
+[[목차]]
+
+== [[프로그래밍 언어]]의 키워드 ==
+프로그램이 [[함수]] 또는 [[프로시저]]로 구성되는 형태의 [[프로그래밍 언어]]에서 현재 함수/프로시저를 끝내고 결과값을 돌려주기 위한 키워드.
+
+돌려주는 값이 없는 경우에는 프로시저의 중간에 임의의 조건을 만족했을 때 탈출하기 위해 사용하며, 돌려주는 값이 있는 함수의 경우 이 키워드를 사용하여 돌려줄 값을 명시하게 된다.
+
+예: 결과값으로 "[[42]]"를 반환하는 [[C(프로그래밍 언어)|C언어]] 함수.
+{{{
+int get_the_answer_to_life_universe_and_everyting()
+{
+    return 42;
+}
+}}}
+
+== [[EZ2DJ]] / [[EZ2ON]]의 음악 ==
+|| 장르 |||||||| Hard Trance [* 작곡가 언급 http://ask.fm/xxx2130] ||
+|| 곡명 |||||||| Return ||
+|| 작곡 |||||||| [[SpringHead]] ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 140 ||
+
+=== [[EZ2DJ]]에서의 Return ===
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}}[* 5스트릿 이지와 동일] || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 4}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 13}}}[* 1.2a Version 한정. 기존 BErA 추가 패턴은 8.] || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='wz7M-Vucy6I$' width='600px' height='400px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=wz7M-Vucy6I$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=wz7M-Vucy6I$' width='600px' height='400px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+BGA중 한 쪽 주머니에 손을 넣고 선글라스를 끼고 있는 간지청년이 등장하는데... 이건 BGA 제작자 류마이너스가 자신의 사진중 하나를 그대로 옮겨놓은 것이다.. wiki:"흠좀무"..
+이로 인해 류마이너스는 류간지라는 별명을 얻게 되었다.
+
+[[EZ2DJ AE]]에서는 다른 7th 1.0 출신 곡들과 함께 판권 문제로 삭제되었다.
+
+여담으로 역시 BGA 중반에는 울고 있는 여자 캐릭터의 모습이 지나가는데, 류마이너스는 "저 여자가 왜 울고 있는지는 나도 모르겠다." 라고 이야기하였다(?). (참고로 저 여자는 Transin의 'Angel Love'라는 Bms의 BGA에 등장한다.)  그리고 곡 초반에 잠깐 [[스타워즈]] [[R2D2]] 음성이 샘플링으로 쓰였다.
+
+5키에서는 EZ 난이도 4 NM 난이도 8 HD 난이도 9이다. 노말과 하드패턴은 중간중간 난이도에 맞지 않게 어려운 폭타만 잘 처리할 수 있다면 무난한 정도
+
+스페이스 믹스에서는 10의 단일패턴이 존재한다. 이게 [[느낌]]은 귀엽게 보일 정도의 극강 초불렙[* 하지만 실제로는 이 채보는 중간의 클럽믹스형 폭타부분이 개인차가 심하게 갈리는 것으로도 유명하다.]이어서 12나 13을 클리어하는 유저라고 하더라도 클리어 자체가 매우 힘든 것으로 유명하다. 그러나 이 패턴이 스페믹에서 한 손에 꼽을만 한 명패턴 중 하나라서 치는 맛도 좋고 처리력을 향상시키거나 시야를 넓히는 데에 크게 공헌하는 곡이다. 스페이스 믹스를 하고 있다면 실력을 키워서 꼭 한번 도전해보자.
+
+턴테이블 모드에서는 BErA에 들어서 레벨 8로 첫 등장했으나... 버그 채보로 플레이 시에는 '''스킵'''되어서 어떤 패턴이 나오는지 알 분간이 없었다. 신작에서 나아지겠거니 했더니.. '''라이센스 만료로 삭제곡이 되어버렸다.''' 지못미 ㅠㅠ[* 이때 턴테이블 모드에 생긴 스킵곡들은 총 3곡으로, Return, [[Damnation]], [[Mad Robot]]이다. --올송걸고 이 세곡을 고르면 돈날리는거다(...)--]
+
+이 후 별도로 출시된 BErA의 [[wiki:"EZ2DJ 7th BERA#s-8.1" 1.02a 패치판]]에서 스킵 버그가 해결되면서 플레이를 할 수 있게 됬다. 그런데 레벨이 '''13'''으로 엄청나게 올랐다!
+
+{{{#!HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZ6fwgrk8mA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+중반부에 돌입하기 직전까지는 정말 보잘 것 없는 패턴들이다. 16비트 어묵공장 돌입 직전에 박자가 난해한 노트뭉태기들이 떨어지긴 하지만 대충 뭉개고 바로 다음의 16비트 어묵공장 패턴으로 피를 채울 수 있다. 하지만 중후반부로 도입하면 거의 세미 [[Weird Wave]] HD급의 '''2따닥1홀놋 패턴'''이 무지막지하게 등장한다! 그나마 BPM이 낮다는 걸 위안으로 삼고 간접미스 나지 않게 잘 돌려주자.
+
+=== [[EZ2ON]]에서의 Return ===
+
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| [[추가바람]] ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) || 8 || 11 || 13 || 15 || - ||
+|| 스트릿(5키) || 8 || 11 || 13 || 15 || - ||
+|| 클럽(6키/8키) || 11 || 13 || 15 || - || 16 ||
+
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/SjMcSsyYyi8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+6키 HDMix 영상.
+
+중압적인 곡의 분위기와 다르게 물렙이다. 패턴도 초반부와 후반부가 김빠지게 시시한 수준.
+
+=== 제작자 코멘트 ===
+||RadioMix 7key Mode Select 화면에서도 사용된 3D 가 난무.
+그냥 곡제목이 리턴이니까. 간지날뻔 한 남자케릭터 하나. 우는여자 하나.
+왜 우는지는 나도 잘 모르겠다.
+-RYUminus||

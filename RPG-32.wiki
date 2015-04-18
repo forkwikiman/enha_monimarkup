@@ -1,0 +1,22 @@
+[[include(틀:현대전/러시아 보병장비)]]
+attachment:/rpg32-1_zzang1847.jpg?width=570
+
+||구경: 105 mm / 72 mm
+전체무게: 3 kg(탄두 미 탑재시) / 10 kg(105 mm 탑재시) / 6 kg(72 mm 탑재시)
+전체길이: 1200 mm(105 mm 탄두 탑재시) / 900 mm(72 mm 탄두 탑재시)
+유효사거리: ~ 200 m
+||
+
+{{{#!html 
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/fN2AYnzOUrI?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/fN2AYnzOUrI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+'''보라! 최신 [[대전차로켓]]의 위력을!'''
+
+== 개요 ==
+
+RPG-32 하심(Hashim)은 2005년부터 2007년까지 러시아의 FGUP [[Bazalt]]라는 곳에서 개발중인 대전차 화기로써, 2008년에 처음 프로토타입과 실전형 모델이 나왔다. 특이하게도 [[요르단]]과의 합작으로 탄생한 물건으로, 생산도 요르단에 위치한 JRESCO라는 회사가 맡고 있다. 2009년에 [[러시아군]]에 정식 채용되었다.
+
+전차와 같은 하드 타겟을 관통하기 위한 105mm 텐덤 탄두와 소프트 타겟을 날려버리기 좋은 72mm 탄두 중 하나를 선택해 발사할 수 있는데, 텐덤 탄두의 경우 처음 공개될 즈음엔 무려 '''RHA 1000mm까지 관통이 가능한''', 대전차 미사일인 코넷급의 파괴력을 가지고 있다는 소문이 돌아 'M1 에이브람스에게 최악의 위협'이니 '미국에서 이 무기를 예의주시'한다니 이런저런 얘기가 많이 나왔으나  스펙 과장이 있는 러시아 무기의 특성상 현재는 그 정도 관통력이 나오는 건 힘들고 대략 RHA 650mm까지 관통할 수 있다고 보고 있다. 물론, 대전차미사일이 아닌 로켓이면서 이 정도 수준이면 훌륭한거다. 무게도 [[판처파우스트 3]]보다는 약간 가벼운 편.
+
+== 대중매체에서의 등장 ==
+[[ArmA3]] 에서 대항군의 대전차로켓으로 등장한다. [[고폭탄]]과 [[대전차로켓]]의 두 종류 탄두가 있다.

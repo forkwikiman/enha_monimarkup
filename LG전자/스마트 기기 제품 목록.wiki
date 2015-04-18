@@ -1,0 +1,245 @@
+ * 상위 항목 : [[LG전자]], [[LG전자 플래그쉽 브랜드(G·Vu)]], [[LG 옵티머스]]
+
+ * LG전자가 '''플래그쉽 라인업'''에 한해서 옵티머스 브랜드를 포기함에 따라 항목을 좀 더 포괄적인 개념으로 변경했습니다.
+ * 목록은 출시일 순으로 등록 바랍니다.
+ * [[스마트폰]], [[태블릿 컴퓨터]] 등 통칭, '''스마트 디바이스''' 및 '''모바일 기기'''들은 [[리그베다 위키 기본방침#s-2.24|리그베다 위키 기본방침]]에 따라 제조사 및 이동통신사 공식 채널에서 확인될 때 항목 개설이 가능합니다. 꼭, 공식 채널에서 확인될 때 항목 생성 바랍니다.
+
+[[목차]]
+
+=== 스마트폰 ===
+==== 한국 출시 ====
+===== 옵티머스 브랜드 2013년 네이밍 전략 이전 =====
+ * 플래그쉽 모델
+  * [[옵티머스 2X]] - LG-SU660 <SKT>, 2011년 1월 27일.
+  * [[옵티머스 LTE]] - LG-SU640 <SKT> / LG-LU6200 <LG U+>, 2011년 10월 5일.
+  * [[옵티머스 LTE II]] - LG-F160S <SKT> / LG-F160K <KT> / LG-F160L, LG-F160LV [* 하드웨어 차이는 없고, VoLTE를 지원하는 변종 모델이다. 기존 F160L도 펌웨어 업데이트로 VoLTE가 가능하다. ~~이럴 거면 만들 필요가 없잖아~~] <LG U+>, 2012년 5월 21일.
+  * [[옵티머스 G]] - LG-F180S <SKT> / LG-F180K <KT> / LG-F180L <LG U+>, 2012년 9월 28일.
+
+ * 중급 모델[* 뭔가 특징이 없다거나, 플래그쉽이나 보급형이라는 언급이 없을 경우 여기에 분류.]
+  * [[옵티머스 Z]] - LG-SU950 <SKT> / LG-KU9500 <KT>, 2010년 7월 30일.
+  * [[옵티머스 마하]] - LG-LU3000 <LG U+>, 2010년 12월 28일.
+  * [[옵티머스 블랙]] - LG-KU5900 <KT>, 2011년 4월 30일.
+   * [[옵티머스 빅]][* 보급기로 언급한 기사가 있으나, 설계 기반이 되는 블랙의 분류를 따름.] - LG-LU6800 <LG U+>, 2011년 5월 1일.
+  * [[옵티머스 EX]] - LG-SU880 <SKT> / LG-KU8800 <에넥스텔레콤>[* KT 모델인데 KT에서 나오지 않았다.], 2011년 9월 26일.
+
+ * 보급형 모델
+  * [[옵티머스 원]] - LG-SU370 <SKT> / LG-KU3700 <KT> / LG-LU3700 <LG U+>, 2010년 10월 3일.
+   * [[옵티머스 시크]] - LG-LU3100 <LG U+>, 2010년 12월 14일.
+  * [[옵티머스 LTE TAG]] - LG-F120S <SKT> / LG-F120K <KT> / LG-F120L <LG U+>, 2012년 2월 28일.
+
+ * 쿼티 모델
+  * [[옵티머스 Q]] - LG-LU2300 <LG U+>, 2010년 6월 5일.
+  * [[옵티머스 Q2]] - LG-LU6500 <LG U+>, 2011년 9월 24일.
+
+ * 3D 모델
+  * [[옵티머스 3D]] - LG-SU760 <SKT>, 2011년 7월 7일.
+  * [[옵티머스 3D 큐브]] - LG-SU870 <SKT>, 2012년 3월 8일.
+
+ * 뷰 모델
+  * [[옵티머스 뷰]] - LG-F100S <SKT> / LG-F100L <LG U+>, 2012년 3월 5일.
+  * [[옵티머스 뷰 II]] - LG-F200S <SKT> / LG-F200K <KT> / LG-F200L <LG U+>, 2012년 9월 28일.
+
+===== 옵티머스 브랜드 2013년 네이밍 전략 및 브랜드 분리 이후 =====
+ * [[LG G 시리즈|'''G'''-Style]]
+  * G 시리즈
+   * [[LG G2]] - LG-F320S <SKT> / LG-F320K <KT> / LG-F320L <LG U+>, 2013년 8월 8일.
+   * [[LG G3]] - LG-F400S <SKT> / LG-F400K <KT> / LG-F400L <LG U+>, 2014년 5월 28일.
+    * [[LG G3 Beat]] - LG-F470S <SKT> / LG-F470K <KT> / LG-F470L <LG U+>, 2014년 7월 18일.
+    * [[LG G3 Cat.6]] - LG-F460S <SKT> / LG-F460K <KT> / LG-F460L <LG U+>, 2014년 7월 25일.
+    * [[LG G3 A]] - LG-F410S <SKT>, 2014년 8월 8일.
+    * [[LG Gx2]] - LG-F430L <LG U+>, 2014년 8월 28일.
+    * [[LG G3 Screen]] - LG-F490L <LG U+>, 2014년 10월 24일.
+   * [[LG G4]] - 출시 예정.
+  * G Pro 시리즈
+   * [[옵티머스 G Pro]] - LG-F240S <SKT> / LG-F240K <KT> / LG-F240L <LG U+>, 2013년 2월 20일.
+    * [[옵티머스 GK]][* 일본 [[NTT 도코모]] 내수용 [[옵티머스 G Pro]]다.] - LG-F220K <KT>, 2013년 4월 29일.
+   * [[LG G Pro 2]] - LG-F350S <SKT> / LG-F350K <KT> / LG-F350L <LG U+>, 2014년 2월 21일.
+  * G Flex 시리즈
+   * [[LG G Flex]] - LG-F340S <SKT> / LG-F340K <KT> / LG-F340L <LG U+>, 2013년 11월 12일.
+   * [[LG G Flex 2]] - LG-F510S <SKT> / LG-F510K <KT> / LG-F510L <LG U+>, 2015년 1월 30일.
+  * 기타
+   * [[LG Gx]] - LG-F310L <LG U+>, 2013년 12월 17일. / LG-F310LR <LG U+>, 2014년 4월 --일.[* [[CDMA]] 미지원 모델이다.(...) 기존 [[CDMA]] 지원 모델의 대체 모델로 보이며 출시일 자체가 공개되어 있지 않다. 다만, [[http://www.lgmobile.co.kr/lgmobile/front/product/smartPhoneList.dev LG모바일]]에서 [[LG L70]] 직전 위치에 제품 정보를 공개한 것으로 보아 [[LG L70]]과 비슷한 시기에 출시한 것으로 보인다.]
+
+ * [[LG F 시리즈|'''F'''-Style]]
+  * 옵티머스 F7 (=[[옵티머스 LTE III]])[* 한국 내수용에는 지상파 [[DMB]]와 VoLTE가 추가되었다.] - LG-F260S <SKT>, 2013년 3월 8일.
+  * [[LG F70]] - LG-F370S <SKT> / LG-F370K <KT> / LG-F370L <LG U+>, 2014년 5월 21일.
+
+ * [[LG L 시리즈|'''L'''-Style]]
+  * [wiki:"옵티머스 L(1세대)#s-2.3" 옵티머스 L7] - LG-T280 <자급제>, 2012년 9월 3일.
+  * [wiki:"옵티머스 L(1세대)#s-2.4" 옵티머스 L9] - LG-D700 <자급제>[* 사실, CJ헬로모바일 등 [[MVNO]] 통신사로 공급된 기기다. 하지만 [[LG전자]]에선 단순히 자급제로만 표기한다.], 2013년 2월 23일.
+  * [[LG L70]] - LG-D329 <자급제>[* [[KT]]가 언급되지 않은 이유는 기기 항목 참조.], 2014년 4월 26일.
+
+ * [wiki:"LG 뷰 시리즈" '''Vu''' 시리즈]
+  * [[LG Vu 3]] - LG-F300S <SKT> / LG-F300K <KT> / LG-F300L <LG U+>, 2013년 9월 27일.
+
+===== [wiki:"LG 옵티머스" 옵티머스 브랜드] 및 [wiki:"LG전자 플래그쉽 브랜드(G·Vu)" 플래그쉽 제품군] 미 포함 제품 =====
+ * [[인사이트]]
+ * [[레일라]]
+ * [[안드로-1]]
+ * [[프라다폰 3.0]]
+ * [[넥서스 4]]
+ * [[넥서스 5]]
+ * [[LG 와인 스마트]] - LG-F480S <SKT> / LG-F480K <KT> / LG-F480L <LG U+>, 2014년 9월 6일.
+ * [[LG AKA]] - LG-F520S <SKT> / LG-F520K <KT> / LG-F520L <LG U+>, 2014년 11월 12일.
+ * [[LG 아이스크림 스마트]] - LG-F440L <LG U+>, 2015년 1월 27일.
+ * [[LG Volt]] - LG-F540S <SKT> / LG-F540K <KT> / LG-F540L <LG U+>, 2015년 4월 17일 '''예정'''.
+
+==== 해외 출시 ====
+===== 네이밍 전략 이전 =====
+ * [[안드로-1|LG GW620]]
+ * [[LG 옵티머스#s-5|Optimus(GT540)]]
+ * [[LG전자/마이크로소프트 스마트폰#s-2.1|LG Fathom]]
+ * [[옵티머스 Q|LG Aloha]]
+ * [[옵티머스 원|Optimus One]]
+  * [[옵티머스 원/통신사 커스텀 모델#s-2.1.1|Optimus T]]
+  * [[옵티머스 원/통신사 커스텀 모델#s-2.1.2|Optimus M]]
+   * [[옵티머스 원/통신사 커스텀 모델#s-2.1.3|Optimus M+]]
+  * [[옵티머스 원/통신사 커스텀 모델#s-2.2.1|LG Phoenix]]
+  * [[옵티머스 원/통신사 커스텀 모델#s-2.2.2|LG Thrive]]
+  * [[옵티머스 원/통신사 커스텀 모델#s-2.3.1|Optimus S]]
+  * [[옵티머스 원/통신사 커스텀 모델#s-2.4.1|LG Vortex]]
+  * [[옵티머스 원#s-2.2|Optimus Chat]]
+  * [[옵티머스 원#s-2.3|Optimus Pro]]
+  * [[옵티머스 시크|Optimus Chic]]
+ * [[옵티머스 7|Optimus 7]]
+  * [[LG전자/마이크로소프트 스마트폰#s-2.3|Optimus 7Q & LG Quantum]]
+ * [[LG전자/US 셀룰러#s-2.1|LG Apex]] & Axis
+ * [[LG전자/버라이즌#s-2.1|LG Revolution]] & [[LG전자/T모바일%26Metro PCS#s-2.1|LG Esteem]]
+ * [[옵티머스 2X|Optimus 2X]]
+ * [[옵티머스 블랙|Optimus Black]]
+ * [[옵티머스 Me|Optimus Me]]
+ * [[옵티머스 3D|Optimus 3D]]
+  * LG Thrill 4G
+ * [[LG전자/US 셀룰러#s-2.2|LG Genesis]]
+ * [[LG전자/스프린트|LG Marquee]]
+ * [[LG전자/TranFone|Optimus Net]] & Optimus II
+ * [[옵티머스 Sol|Optimus Sol]]
+ * [[옵티머스 Hub|Optimus Hub]]
+ * [[옵티머스 LTE|Optimus LTE]]
+  * LG Nitro HD
+  * LG Spectrum
+  * Optimus True HD LTE
+  * Optimus 4G LTE
+ * [[옵티머스 EX|Optimus X]]
+ * [[LG전자/버라이즌#s-2.3|LG Enlighten]] & Optimus Slider
+ * [[LG전자/T모바일%26Metro PCS#s-2.2|LG Double Play]]
+ * [[프라다폰 3.0|LG Prada 3.0]]
+ * [[LG전자/스프린트|LG Viper]]
+ * [[LG전자/T모바일%26Metro PCS#s-2.3|LG Connect 4G]]
+ * [[LG전자/버라이즌#s-2.4|LG Lucid]]
+  * [[LG전자/버라이즌#s-2.4.2.2|Optimus Exceed]]
+ * [[옵티머스 3D 큐브|Optimus 3D MAX]]
+ * [[옵티머스 4X HD|Optimus 4X HD]]
+  * [[옵티머스 LTE II|LG Spectrum II]]
+ * [[LG전자/NTT 도코모#s-2.1|Optimus it L-05D]]
+ * [[LG전자/NTT 도코모#s-2.2|Optimus Life L-02E]]
+ * [[LG전자/스프린트|LG Elite]]
+ * [[LG전자/TranFone|Optimus Zip]]
+ * [[LG전자/T모바일%26Metro PCS#s-2.4|LG Motion 4G]] & Optimus Regard
+ * [[LG Escape]]
+ * [[옵티머스 L7|LG Splendor]]
+ * [[옵티머스 뷰|LG Intuition]]
+ * [[LG전자/스프린트|LG Mach]]
+ * [[넥서스 4|LG Nexus 4]]
+ * [[LG전자/버라이즌#s-2.7|LG Lucid2]]
+ * [[LG전자/T모바일%26Metro PCS#s-2.5|LG Spirit 4G]]
+ * [[옵티머스 L3|Optimus Zone]]
+ * [[LG전자/NTT 도코모#s-2.3|Optimus it L-05E]]
+ * [[LG전자/버라이즌#s-2.9|LG Enact]]
+
+===== 네이밍 전략 이후 및 브랜드 분리 이후 =====
+ * [wiki:"LG G 시리즈" '''G'''-Style]
+  * G 시리즈
+   * [[옵티머스 G|Optimus G]]
+   * [[LG G2]]
+    * [[LG G2 mini]]
+   * [[LG G3]]
+    * [[LG G3 Beat]] / G3 Vigor & G3S
+    * [[LG G Vista]]
+    * [[LG G3 Stylus]]
+  * G Pro 시리즈
+   * [[옵티머스 G Pro|Optimus G Pro&LG G Pro]]
+    * [[옵티머스 GK|Optimus G Pro NTT DoCoMo]]
+    * [[LG G Pro Lite]]
+   * [[LG G Pro 2]]
+  * G Flex 시리즈
+   * [[LG G Flex]]
+   * [[LG G Flex 2]]
+
+ * [wiki:"LG F 시리즈" '''F'''-Style]
+  * F7 시리즈
+   * [wiki:"옵티머스 LTE III" Optimus F7] 
+   * [[LG F70]]
+  * F6 시리즈
+   * [wiki:"옵티머스 F(1세대)#s-2.3" Optimus F6]
+  * F5 시리즈
+   * [wiki:"옵티머스 F(1세대)#s-2.2" Optimus F5]
+  * F3 시리즈
+   * [wiki:"옵티머스 F(1세대)#s-2.1" Optimus F3]
+
+ * [[LG L 시리즈|'''L'''-Style]]
+  * L9 시리즈
+   * [wiki:"옵티머스 L(1세대)#s-2.4" Optimus L9]
+   * [[옵티머스 L(2세대)#s-2.7|Optimus L9 II]]
+   * [[LG L 시리즈/3세대#s-2.4|LG L90]]
+  * L7 시리즈
+   * [wiki:"옵티머스 L(1세대)#s-2.3" Optimus L7]
+   * [[옵티머스 L(2세대)#s-2.6|Optimus L7 II & Optimus L7X]]
+   * [[LG L70]]
+  * L6 시리즈
+   * [[LG L 시리즈/3세대#s-2.2|LG L65]]
+  * L5 시리즈
+   * [wiki:"옵티머스 L(1세대)#s-2.2" Optimus L5]
+   * [[옵티머스 L(2세대)#s-2.5|Optimus L5 II & Optimus L5X]]
+  * L4 시리즈
+   * [[옵티머스 L(2세대)#s-2.4|Optimus L4 II & Optimus L4X]]
+   * [[LG L 시리즈/3세대#s-2.1|LG L40]]
+  * L3 시리즈
+   * [wiki:"옵티머스 L(1세대)#s-2.1" Optimus L3]
+   * [[옵티머스 L(2세대)#s-2.3|Optimus L3 II & Optimus L3X]]
+  * L2 시리즈
+   * [[옵티머스 L(2세대)#s-2.2|Optimus L2 II]]
+  * L1 시리즈
+   * [[옵티머스 L(2세대)#s-2.1|Optimus L1 II & Optimus L1X]]
+
+ * [wiki:"LG 뷰 시리즈" '''Vu''' 시리즈][* 한국에서는 네이밍 법칙이 확립되기 이 전에 [[옵티머스 뷰]]가 출시되었지만, 글로벌 시장에는 확립된 이후에 출시되었다. 게다가 한국 시장에는 LG전자의 네이밍 법칙이 글로벌 시장보다 약 반년 늦게 적용되었다.]
+  * [wiki:"옵티머스 뷰" Optimus Vu]
+
+===== 네이밍 전략 이후 및 브랜드 분리 이후 해외 출시 모델 =====
+ * [[LG KDDI isai]] - [[LG G2]]의 일본 [[KDDI]] 요청 파생 모델.
+ * [[넥서스 5|LG Nexus 5]]
+ * [[LG Fireweb]] - [[Firefox OS]] [[스마트폰]].
+ * [[LG F 시리즈/2세대#s-2.2|LG Lucid 3 & LG Volt]]
+ * [[LG L70|Optimus Exceed 2]]
+ * [[LG KDDI isai 시리즈#s-2.2|LG KDDI isai FL]]
+ * [[LG전자/Firefox OS 기기#s-2.2|LG Fx0]]
+ * [[LG 와인 스마트|LG Wine Smart]]
+ * [[LG Spray]]
+ * [[LG전자/MWC#s-2.1|LG Magna]]
+ * [[LG Spirit]]
+ * [[LG전자/MWC#s-2.3|LG Leon]]
+ * [[LG전자/MWC#s-2.4|LG Joy]]
+
+== 태블릿 컴퓨터 ==
+
+ * 2011년
+  * [[옵티머스 패드 3D]] - '''국내 미 출시'''
+
+ * 2012년
+  * [[옵티머스 패드 LTE]] - LG-LU8300 <LG U+>, 2012년 1월 27일.
+
+ * 2013년
+  * [[LG G Pad 8.3]] - LG-V500 <Wi-Fi>, 2013년 10월 14일.
+
+ * 2014년
+   * [[LG G Pad 7.0]] - LG-V400 <Wi-Fi>, 2014년 7월 3일.
+   * [[LG G Pad 8.0]] - LG-V480 <Wi-Fi>, 2014년 7월 7일. / LG-P490L <LG U+>, 2014년 -월 -일.
+   * [[LG G Pad 10.1]] - LG-V700N <Wi-Fi>, 2014년 7월 3일.
+
+== 스마트 워치 ==
+ * 2014년
+  * [[LG G Watch]] - LG-W100 <자급제>, 2014년 6월 25일.
+  * [[LG G Watch R]] - LG-W110 <자급제>, 2014년 10월 14일.
+
+ * 2015년
+  * [[LG Watch Urbane]] - '''출시 예정'''.

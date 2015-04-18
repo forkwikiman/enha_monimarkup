@@ -1,0 +1,61 @@
+[[목차]]
+== [[비트매니아 IIDX]] ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/cL0DgVEjlJ4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/f9K7QZl2Lzg" frameborder="0" allowfullscreen></iframe>}}}
+
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 170 || {{{#blue 5}}} || {{{#blue 574}}} || {{{#orange 9}}} || {{{#orange 1012}}} || {{{#red 10}}} || {{{#red 1094}}} || {{{#blue 5}}} || {{{#blue 574}}} || {{{#orange 10}}} || {{{#orange 1009}}} || {{{#red 11}}} || {{{#red 1280}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 13 DistorteD
+ * [[단위인정]] 수록
+  * SPN : 2급 (13 DistorteD), 3급 (19 Lincle)
+  * SPH : 7단 (18 Resort Anthem ~ 21 SPADA)
+  * DPN : 1급 (14 GOLD)
+
+[[악마성 시리즈]]의 OST 명곡 중 하나인 [[Bloody Tears]]를 [[비트매니아 IIDX 13 DistorteD]]에서 부제 (IIDX EDITION)을 붙여 [[DJ YOSHITAKA]]가 리메이크한 버전이 수록되었다. 장르는 HARD RENAISSANCE. 원곡의 오르간 반주를 살리면서 YOSHITAKA식 트랜스 코어로 잘 편곡되었다는 평.
+
+싱글 하이퍼의 경우엔 노트수가 1000이 조금 넘어가 레벨9 중에서도 상당히 체력곡에 난이도도 9 상급에 속하는 편. 싱글 어나더는 싱글 하이퍼에 좀 더 살을 붙인 형태.
+
+[[BGA]]는 [[악마성 드라큘라 어둠의 저주]]의 장면들을 사용했는데, 중간중간에 실제 게임 플레이 영상을 넣었다.
+=== 아티스트 코멘트 ===
+>[[DJ YOSHITAKA]] / Sound
+>
+>말하지않아도 아는 코나미 전설의 명곡 「[[Bloody Tears]]」.
+>SPRING RAIN때와는 달리 「듣는다」보다는 「두드린다」를 서두로 제작했습니다.
+>멜로디를 잘게 끊어보기도하고 강제로 곡조를 바꿔보거나 완전히 오리지널 프레이즈를 넣어본다던가 마음껏 해보고 싶은 대모험이였습니다만 게임센터라는 특별한 장소에서 진정한 힘을 발휘하는 리믹스로 완성되었다고 생각합니다.
+>
+>이런 애송이의 대모험을 즐겁게 지켜봐주신 [[IGA]]씨(악마성 시리즈 프로듀서)께 이 자리를 빌려 진심으로 감사드립니다!
+--------------------------------------------
+>[[MAYA]] / Movie
+>
+>어쨌든 멋있어!!
+>이런 멋진 소재로 무비를 편집했다는데에 신나서 혀를 깨물어버렸습니다.
+>이것도 써보고싶어! 여기도 꼭 써보고싶어~!라고 갈등에 쫓기게 되었습니다.
+>드라큘라 팬이라면 꼭 풀어보는거야 이 기쁨!
+>뭉개넣는 것도 황송스럽기에 소재 그대로의 무비로 보내드렸습니다.
+>
+>소재 제공을 쾌히 허락해주신 IGA씨, 그 외에도 이 악곡으로 신세 진 분들, 정말로 감사했습니다!
+>덕분에 IIDX의 역사에 남을 스페셜한 악곡이 되었습니다.
+
+== [[댄스 댄스 레볼루션]] ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/ueVpOmzsghQ" frameborder="0" allowfullscreen></iframe>}}}
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/9QHZddQmO78" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 6}}} || {{{#green 10}}} || {{{#purple -}}} ||
+||<|3> 170|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 11}}} || {{{#purple -}}} ||
+
+[[댄스 댄스 레볼루션]] SuperNOVA2에 통상곡으로 이식되었다. 참고로 부제는 IIDX EDITION 그대로이며, 인트로 일부가 살짝 편집된 형태로 수록되었다. BGA는 실제 게임 영상 파트가 삭제되고 무비 부분만 나온다.

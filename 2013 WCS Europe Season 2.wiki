@@ -1,0 +1,325 @@
+ * 상위항목: [스타크래프트 2/대회], [세계 챔피언십 시리즈]
+ * 발음·길이 문제로 인해, 해외 선수들은 모두 ID로 표기한다.
+ * 이 항목은 상위 32명이 출전하는 프리미어 리그에 대해서만 다루고, [wiki:"2013 WCS Europe Season 2/Challenger League"챌린저 리그]는 하위 항목으로 분리한다.
+[[목차]]
+= 개요 =
+||<tablealign=center>|||||||||| [[세계 챔피언십 시리즈]] 유럽 디비전 ||
+|| [[2013 WCS Europe Season 1]] || → || '''2013 WCS Europe Season 2''' || → || [[2013 WCS Europe Season 3]] ||
+|||||||||| 다른 지역 보기 : [[2013 WCS Korea Season 2]], [[2013 WCS America Season 2]] ||
+ * 주최: [[블리자드 엔터테인먼트]], [[Electronic Sports League]]
+ * 리그 기간: 6월 25일 ~ 8월 11일
+ * 개막전: [정종현] vs Elfi
+ * 결승전 장소: 쾰른 ESL 스튜디오
+ * 우승자: [[김경덕]]
+ * 준우승자: [[장민철]]
+ * 공동 3위: [[문성원]],[[Grubby]]
+ * 특이 사항
+  * WCS Europe의 두번째 시즌
+  * Premier League 16강부터 [독일] [쾰른]에 위치한 ESL TV 스튜디오에서 오프라인 무대 경기를 방송한다.
+= 이모저모 =
+= 대회 사용 맵 =
+ * 밸시르 잔재
+ * 네오 플래닛 S
+ * 뉴커크 지구 TE
+ * 붉은 도시
+ * 우주 정거장
+ * 돌개바람
+ * 외로운 파수꾼
+= 출전 선수 =
+ * 엔하위키에 항목이 존재하는 팀은 로고를 클릭하면 해당 팀의 항목으로 이동할 수 있다. 엔하위키에 항목이 존재하지 않는 팀은 로고 아래에 팀명을 따로 표기했다.
+ * 소속이 괄호로 표시된 경우는 팀이 아니라 주 스폰서에 해당한다.
+||<tablealign=center>||||<rowbgcolor="#70F170"><:>attachment:Picon_small.png 프로토스||||||<#7CB9E8> attachment:Ticon_small.png 테란 ||||||<#F4C2C2> attachment:Zicon_small.png 저그 ||
+|| '''국적''' || '''성명'''('''ID''') || '''소속 ''' || '''국적''' || '''성명'''('''ID''') || '''소속 ''' || '''국적''' || '''성명'''('''ID''') || '''소속 ''' ||
+||||||||||||||||||<rowbgcolor="#FFFF00"><:>[wiki:"2013 WCS Europe Season 1"Season 1] Premier League 8강||
+|| attachment:Dk.png || BabyKnight || [attachment:Navilogo_std.png][[br]]Natus Vincere || attachment:Kr.png || 정종현 || [wiki:"Incredible Miracle"attachment:IMlogo_std.png] || attachment:Ua.png || [DIMAGA] || [attachment:Roccatlogo_std.png][[br]](ROCCAT) ||
+|| || || || attachment:Kr.png || [박지수] || [wiki:"Millenium"attachment:Milllogo_std.png] || attachment:De.png || [TLO] || [wiki:"Teamliquid"attachment:Liquidlogo_std.png] ||
+|| || || || attachment:Es.png || [LucifroN] || [wiki:"mousesports"attachment:Mouzlogo_std.png] || attachment:Fr.png || [Stephano] || [wiki:"Evil Geniuses"attachment:Eglogo_std.png] ||
+|| || || || attachment:Ru.png || [Happy] || [wiki:"Team Empire"attachment:Empirelogo_std.png] ||
+||||||||||||||||||<rowbgcolor="#FFFF00"><:>Season 1 Challenger League Bracket Stage 통과(8명)||
+|| attachment:Fr.png || ToD || [attachment:XMG_std.png][[br]]XMG || attachment:Kr.png || [문성원] || [wiki:"Team Acer"attachment:Acerlogo_std.png] || attachment:Pl.png || Tefel || [attachment:Dignitaslogo_std.png][[br]][Team Dignitas][* 항목이 있긴 있지만, [리그 오브 레전드] 팀에 대한 내용밖에 없다.] ||
+|| attachment:Nl.png || [Grubby] || [attachment:Grubbylogo_std.png][[br]](Team Grubby) || attachment:Kr.png || [wiki:"최성진#s-1"최성진] || [attachment:TeamPartClarity.png][[br]]Clarity Gaming || attachment:Nl.png || [Ret] || attachment:Liquidlogo_std.png ||
+|| || || || attachment:Fr.png || Dayshi || attachment:Milllogo_std.png || attachment:Ua.png || Bly || attachment:Acerlogo_std.png ||
+||||||||||||||||||<rowbgcolor="#FFFF00"><:>Season 1 Challenger League Group Stage 통과(16명)||
+|| attachment:Kr.png || [wiki:"김원형(프로게이머)"김원형] || [wiki:"MVP(프로게임단)"attachment:MVPlogo_std.png] || attachment:Rs.png || Beastyqt || attachment:Empirelogo_std.png || attachment:Es.png || [VortiX] || attachment:Mouzlogo_std.png ||
+|| attachment:Pi.png || elfi || [attachment:Encelogo_std.png][[br]]Ence || attachment:Dk.png || Bunny || [attachment:Copenhagenwolveslogo_std.png][[br]]Copenhagen Wolves || attachment:Se.png || SortOf || [wiki:"Western Wolves"attachment:WesternWolvesLogo_std.png] ||
+|| attachment:De.png || HasuObs || attachment:Mouzlogo_std.png || attachment:Se.png || [ThorZaIN] || attachment:Eglogo_std.png || attachment:Ru.png || sLivko || [attachment:Virtuslogo_std.png][[br]]Virtus.pro ||
+|| attachment:Se.png || [NaNiwa] || [attachment:Alliancelogo_std.png][[br]]Alliance || || || || attachment:Pl.png || uzer || (무소속) ||
+|| attachment:Ru.png || TitaN || [attachment:Roxicon_std.png][[br]]RoX ||
+|| attachment:Kr.png || [김경덕] || attachment:MVPlogo_std.png ||
+|| attachment:Pl.png || [MaNa] || attachment:Mouzlogo_std.png ||
+|| attachment:Kr.png || [장민철] || [wiki:"SK Gaming"attachment:Sklogo_std.png] ||
+|| attachment:Pi.png || Welmu || [attachment:Nrslogo_std.png][[br]]NewRoSoft ||
+= 대회 결과 =
+||<tablealign=center> '''순위''' || '''상금''' || '''포인트''' || 성명('''ID''') ||
+||<rowbgcolor="#FFBF00"><:>우승 || $20000 || 1500점 || 김경덕 ||
+||<rowbgcolor="#BEBEBE"><:>준우승 || $12000 || 1000점 || 장민철 ||
+||<|2><:>3위||<|2><:>$7000||<|2><:>750점|| 문성원 ||
+|| Grubby ||
+||<|2><:>5위||<|4><:>$3500||<|4><:>500점|| Welmu ||
+|| NaNiwa ||
+||<|2><:>7위|| HasuObs ||
+|| VortiX ||
+||<|4><:>9위||<|8><:>$2000||<|4><:>300점|| 정종현 ||
+|| LucifroN ||
+|| Happy ||
+|| TitaN ||
+||<|4><:>13위||<|4><:>200점|| Ret ||
+|| Stephano ||
+|| Tefel ||
+|| MaNa ||
+||<|8><:>17위||<|16><:>$1500||<|8><:>150점|| elfi ||
+|| sLivko ||
+|| TLO ||
+|| DIMAGA ||
+|| BabyKnight ||
+|| uzer ||
+|| 박지수 ||
+|| SortOf ||
+||<|8><:>25위||<|8><:>100점|| Beastyqt ||
+|| 최성진 ||
+|| 김원형 ||
+|| Dayshi ||
+|| ThorZaIN ||
+|| Bly ||
+|| Bunny ||
+|| ToD ||
+= 통계 =
+ * 종족별
+  * 1라운드: attachment:Ticon_small.png 10,  attachment:Zicon_small.png 10, attachment:Picon_small.png 12
+  * 2라운드: attachment:Ticon_small.png 4, attachment:Zicon_small.png 4, attachment:Picon_small.png 8
+  * 8강: attachment:Ticon_small.png 1, attachment:Zicon_small.png 1, attachment:Picon_small.png 6
+  * 4강: attachment:Ticon_small.png 1, attachment:Picon_small.png 3
+ * 국적별
+  * 1라운드: attachment:Kr.png 7, attachment:Pl.png 3, attachment:Ru.png 3, attachment:Fr.png 3, attachment:Se.png 3, attachment:Nl.png 2, attachment:Es.png 2, attachment:De.png 2, attachment:Pi.png 2, attachment:Dk.png 2, attachment:Ua.png 2, attachment:Rs.png 1
+  * 2라운드: attachment:Kr.png 4, attachment:Pl.png 2, attachment:Ru.png 2, attachment:Nl.png 2, attachment:Es.png 2, attachment:Fr.png 1, attachment:Se.png 1, attachment:De.png 1, attachment:Pi.png 1
+  * 8강: attachment:Kr.png 3, attachment:Nl.png 1, attachment:Es.png 1, attachment:Se.png 1, attachment:De.png 1, attachment:Pi.png 1
+  * 4강: attachment:Kr.png 3, attachment:Nl.png 1
+= 리그의 진행 =
+시간은 중앙 유럽 '''여름''' 시각(CE'''S'''T) 기준이다. 7시간을 더하면 한국 표준 시각(KST)이 나온다. 모두 오후 6시에 시작됐으므로, 한국 시간으로는 다음날 '''새벽 1시'''.
+== 1라운드 ==
+||<tablealign=center><-6><:>A조(6월 25일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Ticon_small.png '''정종현''' || 2 || attachment:Picon_small.png elfi || 0 || 돌개바람, 네오 플래닛 S ||
+|| 2경기 || attachment:Ticon_small.png Beastyqt || 0 || attachment:Zicon_small.png '''Tefel''' || 2 || 밸시르 잔재, 네오 플래닛 S ||
+|| 승자전 || '''정종현''' || 2 || Tefel || 1 || 네오 플래닛 S, {{{#ff0000 뉴커크 지구 TE}}}, 외로운 파수꾼 ||
+|| 패자전 || '''elfi''' || 2 || Beastyqt || 1 || {{{#ff0000 돌개바람}}}, 외로운 파수꾼, 밸시르 잔재 ||
+|| 최종전 || '''Tefel''' || 2 || elfi || 1 || {{{#ff0000 돌개바람}}}, 네오 플래닛 S, 밸시르 잔재 ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Ticon_small.png 정종현 || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Zicon_small.png Tefel || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Picon_small.png elfi || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Ticon_small.png Beastyqt || 2패 ||
+
+[온풍신] 유럽 진출!
+결과보다도 첫날부터 속출한 각종 사고들이 문제였다. 경기 자체는 아무 지장이 없었으나, 트위치 중계가 1~2분씩 끊어지는[* 방송이 없는 상황이며, 따라서 이 시간에는 경기를 볼 수 없었다.] 상황이 발생하더니, 기어코 패자전에서는 경기 시작부터 약 10분 동안 화면만 나오고 아무 소리도 안 들리는 사태까지 발생하였다. 
+
+||<tablealign=center><-6><:>B조(6월 26일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Zicon_small.png '''Stephano''' || 2 || attachment:Zicon_small.png SLivko || 1 || {{{#ff0000 우주 정거장}}}, 외로운 파수꾼, 벨시르 잔재 ||
+|| 2경기 || attachment:Ticon_small.png 최성진 || 1 || attachment:Picon_small.png '''장민철''' || 2 || {{{#ff0000 붉은 도시}}}, 돌개바람, 네오 플래닛S ||
+|| 승자전 || '''Stephano''' || 2 || 장민철 || 0 || 벨시르 잔재, 네오 플래닛S ||
+|| 패자전 || '''sLivko''' || 2 || 최성진 || 1 || {{{#ff0000 벨시르 잔재}}}, 뉴커크 지구 TE, 우주 정거장 ||
+|| 최종전 || '''장민철''' || 2 || sLivko || 0 || 뉴커크 지구 TE, 벨시르 잔재 ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Zicon_small.png Stephano || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Picon_small.png 장민철 || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Zicon_small.png sLivko || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Ticon_small.png 최성진 || 2패 ||
+
+||<tablealign=center><-6><:>C조(7월 2일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Zicon_small.png '''TLO''' || 2 || attachment:Picon_small.png MaNa || 0 || 돌개바람, 우주 정거장 ||
+|| 2경기 || attachment:Ticon_small.png '''문성원''' || 2 || attachment:Picon_small.png 김원형 || 1 || 네오 플래닛S, {{{#ff0000 뉴커크 지구 TE}}}, 벨시르 잔재 ||
+|| 승자전 || TLO || 0 || '''문성원''' || 2 || 뉴커크 지구 TE, 돌개바람 ||
+|| 패자전 || '''MaNa''' || 2 || 김원형 || 1 || 뉴커크 지구 TE, {{{#ff0000 벨시르 잔재}}}, 우주 정거장 ||
+|| 최종전 || TLO || 1 || '''MaNa''' || 2 || {{{#ff0000 뉴커크 지구 TE}}}, 돌개바람 네오 플래닛S ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Ticon_small.png 문성원 || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Picon_small.png MaNa || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Zicon_small.png TLO || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Picon_small.png 김원형 || 2패 ||
+
+
+||<tablealign=center><-6><:>D조(7월 3일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Zicon_small.png '''DIMAGA''' || 2 || attachment:Picon_small.png 김경덕 || 0 || 벨시르 잔재, 우주 정거장 ||
+|| 2경기 || attachment:Ticon_small.png Dayshi || 0 || attachment:Picon_small.png '''HasuObs''' || 2 || 벨시르 잔재, 돌개바람 ||
+|| 승자전 || DIMAGA || 1 || '''HasuObs''' || 2 || {{{#ff0000 벨시르 잔재}}}, 외로운 파수꾼, 뉴커크 지구 TE ||
+|| 패자전 || '''김경덕''' || 2 || Dayshi || 1 || {{{#ff0000 벨시르 잔재}}}, 붉은 도시, 돌개바람 ||
+|| 최종전 || DIMAGA || 1 || '''김경덕''' || 2 || {{{#ff0000 벨시르 잔재}}}, 외로운 파수꾼, 뉴커크 지구 TE ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Picon_small.png HasuObs || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Picon_small.png 김경덕 || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Zicon_small.png DIMAGA || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Ticon_small.png Dayshi || 2패 ||
+
+||<tablealign=center><-6><:>E조(7월 9일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Picon_small.png BabyKnight || 0 || attachment:Picon_small.png '''Welmu''' || 2 || 외로운 파수꾼, 벨시르 잔재 ||
+|| 2경기 || attachment:Zicon_small.png '''Ret''' || 2 || attachment:Ticon_small.png ThorZaIN || 0 || 돌개바람, 우주 정거장 ||
+|| 승자전 || '''Welmu''' || 2 || Ret || 1 || {{{#ff0000 벨시르 잔재}}}, 우주 정거장, 돌개바람 ||
+|| 패자전 || '''BabyKnight''' || 2 || ThorZaIN || 0 || 외로운 파수꾼, 우주 정거장 ||
+|| 최종전 || '''Ret''' || 2 || BabyKnight || 1 || 네오 플래닛S, {{{#ff0000 벨시르 잔재}}}, 우주 정거장 ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Picon_small.png Welmu || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Zicon_small.png Ret || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Picon_small.png BabyKnight || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Ticon_small.png ThorZaIN || 2패 ||
+
+||<tablealign=center><-6><:>F조(7월 10일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Ticon_small.png LucifroN || 1 || attachment:Picon_small.png '''NaNiwa''' || 2 || {{{#ff0000 뉴커크 지구 TE}}}, 벨시르 잔재, 돌개바람 ||
+|| 2경기 || attachment:Zicon_small.png Bly || 0 || attachment:Zicon_small.png '''uzer''' || 2 || 우주 정거장, 벨시르 잔재 ||
+|| 승자전 || '''NaNiwa''' || 2 || uzer || 0 || 네오 플래닛S, 벨시르 잔재 ||
+|| 패자전 || '''LucifroN''' || 2 || Bly || 0 || 벨시르 잔재, 우주 정거장 ||
+|| 최종전 || uzer || 0 || '''LucifroN''' || 2 || 벨시르 잔재, 우주 정거장 ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Picon_small.png NaNiwa || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Ticon_small.png LucifroN || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Zicon_small.png uzer || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Zicon_small.png Bly || 2패 ||
+
+||<tablealign=center><-6><:>G조(7월 16일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Ticon_small.png 박지수 || 1 || attachment:Zicon_small.png VortiX || 2 || ||
+|| 2경기 || attachment:Picon_small.png Grubby || 2 || attachment:Ticon_small.png Bunny || 1 || ||
+|| 승자전 || attachment:Zicon_small.png VortiX || 2 || attachment:Picon_small.png Grubby || 1 || ||
+|| 패자전 || attachment:Ticon_small.png 박지수 || 2 || attachment:Ticon_small.png Bunny || 0 || ||
+|| 최종전 || attachment:Picon_small.png Grubby || 2 || attachment:Ticon_small.png 박지수 || 1 || ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Zicon_small.png VortiX || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Picon_small.png Grubby || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Ticon_small.png 박지수 || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Ticon_small.png Bunny || 2패 ||
+
+정ㅋ벅ㅋ자, 정ㅋ벅ㅋ당하다.
+
+한국에서 원이삭·이영호·황강호가 8강 진출에 실패하고 북미에서 챔피언 송현덕이 물을 먹은 가운데, 유럽에서는 정종현도 장민철도 건재하여 한국인의 기세가 여전한가 싶었더니, 엉뚱한 박지수가 일격을 당했다.
+
+||<tablealign=center><-6><:>H조(7월 17일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Ticon_small.png Happy || 1 || attachment:Picon_small.png TitaN || 2 || ||
+|| 2경기 || attachment:Picon_small.png ToD || 0 || attachment:Zicon_small.png SortOf || 2 || ||
+|| 승자전 || attachment:Picon_small.png TitaN || 2 || attachment:Zicon_small.png SortOf || 1 || ||
+|| 패자전 || attachment:Ticon_small.png Happy || 2 || attachment:Picon_small.png ToD || 1 || ||
+|| 최종전 || attachment:Ticon_small.png Happy || 2 || attachment:Zicon_small.png SortOf || 0 || ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || attachment:Picon_small.png TitaN || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || attachment:Ticon_small.png Happy || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || attachment:Zicon_small.png SortOf || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || attachment:Picon_small.png ToD || 2패 ||
+== 2라운드 ==
+각 조에 한국 선수가 1명씩 들어가게 되었다. --시즌 파이널에 한국인만 들어찰 일은 없겠군-- --시즌 파이널에 외국인이 두 명만 진출하는 거 아냐?--
+
+||<tablealign=center><-6><:>A조(8월 5일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Ticon_small.png 정종현 || 2 || attachment:Zicon_small.png Ret || 0 || 우주 정거장, 뉴커크 재개발 지구, --붉은 도시-- ||
+|| 2경기 || attachment:Picon_small.png HasuObs || 2 || attachment:Picon_small.png Grubby || 1 || {{{#ff0000 돌개바람}}}, 벨시르 잔재, 붉은 도시 ||
+|| 승자전 || 정종현 || 1 || HasuObs || 2 || 외로운 파수꾼, {{{#ff0000 우주 정거장}}}, 벨시르 잔재 ||
+|| 패자전 || Ret || 1 || Grubby || 2 || {{{#ff0000 벨시르 잔재}}}, 뉴커크 재개발 지구, 네오 플래닛 S ||
+|| 최종전 || 정종현 || 1 || Grubby || 2 || {{{#ff0000 뉴커크 재개발 지구}}}, 네오 플래닛 S, 돌개바람 ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || HasuObs || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || Grubby || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || 정종현 || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || Ret || 2패 ||
+
+'''왕이 쓰러졌다.'''
+1경기는 정종현이 Ret을 2:0으로 이기면서 가뿐히 승자전에 진출했다. 하지만 잘 생각해보니 승자전에서 만나게 된 선수는 1라운드에서 DIMAGA에게 일격을 가했던 HasuObs. 결국 최종전까지 가게 됐더니 이번에는 박지수를 물먹였던 Grubby가 나타났다. 어익후야…….
+
+||<tablealign=center><-6><:>B조(8월 6일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Zicon_small.png Stephano || 0 || attachment:Picon_small.png 김경덕 || 2 || 벨시르 잔재, 뉴커크 재개발 지구, --우주 정거장-- ||
+|| 2경기 || attachment:Picon_small.png Welmu || 2 || attachment:Ticon_small.png LucifroN || 1 || {{{#ff0000 벨시르 잔재}}}, 외로운 파수꾼, 돌개바람 ||
+|| 승자전 || 김경덕 || 1 || Welmu || 2 || {{{#ff0000 돌개바람}}}, 벨시르 잔재, 뉴커크 재개발 지구 ||
+|| 패자전 || Stephano || 0 || LucifroN || 2 || 우주 정거장, 벨시르 잔재, --외로운 파수꾼-- ||
+|| 최종전 || 김경덕 || 2 || LucifroN || 1 || 벨시르 잔재, {{{#ff0000 우주 정거장}}}, 돌개바람 ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || Welmu || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || 김경덕 || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || LucifroN || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || Stephano || 2패 ||
+
+'''유럽은 플토가 강세?'''
+기존의 유럽 강자로 알려졌던 Stephano와 LucifroN이 프로토스의 기세에 밀려 16강에서 탈락하였다. A조와 과정은 다르지만 결과는 일단 프로토스 2명 진출이라는 것은 같다.
+스테파노가 8월 15일부로 은퇴를 한다고 선언했으니, 아마 이 경기가 그의 마지막 경기가 될 것이다.
+
+[[html(<iframe width="560" height="315" src="//www.youtube.com/embed/KRjvzh9zyZA" frameborder="0" allowfullscreen></iframe>)]]
+탈락이 확정된 뒤 그를 위해 ESL이 마련한 인터뷰 영상.
+지금도 최강의 비한국인 게이머인 그의 은퇴를 많은 팬들이 아쉬워하고 있다.
+그가 남긴 업적들은 이제 역사의 한 장으로 남게 되었다. 학생으로 돌아갈 그에게 밝은 미래가 있길 바란다.
+
+{{{+5 '''Adieu, Stephano!'''}}}
+
+||<tablealign=center><-6><:>C조(8월 7일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Picon_small.png NaNiwa || 2 || attachment:Zicon_small.png Tefel || 1 || {{{#ff0000 뉴커크 재개발 지구}}}, 네오 플래닛 S, 벨시르 잔재 ||
+|| 2경기 || attachment:Ticon_small.png 문성원 || 2 || attachment:Ticon_small.png Happy || 0 || 뉴커크 재개발 지구, 벨시르 잔재, --돌개바람-- ||
+|| 승자전 || NaNiwa || 2 || 문성원 || 0 || 벨시르 잔재, 뉴커크 재개발 지구, --우주 정거장-- ||
+|| 패자전 || Tefel || 0 || Happy || 2 || 벨시르 잔재, 뉴커크 재개발 지구, --돌개바람-- ||
+|| 최종전 || 문성원 || 2 || Happy || 0 || 뉴커크 재개발 지구, 네오 플래닛 S, --벨시르 잔재-- ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || NaNiwa || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || 문성원 || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || Happy || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || Tefel || 2패 ||
+
+드디어 테란이 8강에 진출했지만, 어차피 C조에는 프로토스가 NaNiwa 한 명밖에 없었으므로 타종족이 한 명은 진출할 상황이었다. 그리고 NaNiwa 역시 8강에 진출하면서 프로토스의 초강세를 확인할 수 있었다.
+
+그리고 D조에는 프로토스가 3명! 과연 저그는 살아남을 수 있을까?
+
+||<tablealign=center><-6><:>D조(8월 8일 18시)||
+|| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+|| 1경기 || attachment:Picon_small.png TitaN || 0 || attachment:Picon_small.png 장민철 || 2 || 벨시르 잔재, 뉴커크 재개발 지구, --네오 플래닛 S-- ||
+|| 2경기 || attachment:Zicon_small.png VortiX || 2 || attachment:Picon_small.png MaNa || 0 || 우주 정거장, 돌개바람, --벨시르 잔재-- ||
+|| 승자전 || 장민철 || 0 || VortiX || 2 || 돌개바람, 우주 정거장,  --벨시르 잔재-- ||
+|| 패자전 || TitaN || 2 || MaNa || 1 || 벨시르 잔재, {{{#ff0000 돌개바람}}}, 뉴커크 재개발 지구 ||
+|| 최종전 || 장민철 || 2 || TitaN || 1 || {{{#ff0000 돌개바람}}}, 뉴커크 재개발 지구, 벨시르 잔재 ||
+
+||<tablealign=center><-4><:>결과||
+||<#dbcc3e> {{{#ffffff 1위}}} || VortiX || 2승 ||
+||<#dbcc3e> {{{#ffffff 2위}}} || 장민철 || 2승 1패 ||
+||<#c0c0c0> {{{#000000 3위}}} || TitaN || 1승 2패 ||
+||<#c0c0c0> {{{#000000 4위}}} || MaNa || 2패 ||
+
+'''살아남았다, 저그!'''
+VortiX는 달랐다. 그냥 살아남은 것도 아니고 1세트도 잃지 않으면서 전승으로 조 1위를 차지했다! 이로 인해 문성원과 더불어 비 플토 종족의 희망으로 떠오른다.
+== 결선 라운드 ==
+유럽·북미 지역의 경우 8강부터 결승까지의 '''모든''' 일정이 이틀 안에 진행이 되며 그 이벤트가 끝나면 6명의 리그 파이널 진출자와 그 사이에서 1명의 우승자가 배출된다. 따라서 8강부터의 과정은 따로 분류하지 않고 결선 라운드로 통합해서 기재한다.
+
+||<tablealign=center><-7><:>결선 라운드 1일차(8월 10일 14:00)||
+|||| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+||<|4><:> 8강전 || 1경기 || attachment:Picon_small.png HasuObs || 1 || attachment:Ticon_small.png 문성원 || 3 || 우주 정거장, 벨시르 잔재, {{{#ff0000 외로운 파수꾼}}},[[br]]돌개바람, --뉴커크 재개발 지구-- ||
+|| 2경기 || attachment:Picon_small.png Welmu || 0 || attachment:Picon_small.png 장민철 || 3 || 벨시르 잔재, 우주 정거장,[[br]]뉴커크 재개발 지구, --네오 플래닛 S--, --붉은 도시-- ||
+|| 3경기 || attachment:Picon_small.png NaNiwa || 1 || attachment:Picon_small.png 김경덕 || 3 || 외로운 파수꾼, {{{#ff0000 벨시르 잔재}}},[[br]]뉴커크 재개발 지구, 우주 정거장, --돌개바람-- ||
+|| 4경기 || attachment:Zicon_small.png VortiX || 1 || attachment:Picon_small.png Grubby || 3 || {{{#ff0000 돌개바람}}}, 뉴커크 재개발 지구,[[br]]우주 정거장, 네오 플래닛 S, --벨시르 잔재-- ||
+
+무슨 조화인지는 모르겠지만 조 1위로 올라온 선수들이 다 졌다! --[wiki:"러시아식 유머"WCS 유럽에서는 2위가 1위보다 강합니다!!]--
+
+||<tablealign=center><-7><:>결선 라운드 2일차(8월 11일 12:00)||
+|||| || '''{{{#ff0000 선수}}}''' || 승점 || '''{{{#0000ff 선수}}}''' || 승점 || '''{{{#128d12 맵}}}''' ||
+||<|2><:>5·6위 결정전[* 시즌 파이널을 개최하기 때문에 6위까지 출전권이 주어진다.]|| 1경기 || attachment:Picon_small.png HasuObs || 1 || attachment:Picon_small.png Welmu || 3 || 뉴커크 재개발 지구, 돌개바람,[[br]]{{{#ff0000 벨시르 잔재}}}, 외로운 파수꾼, --붉은 도시-- ||
+|| 2경기 || attachment:Picon_small.png NaNiwa || 3 || attachment:Zicon_small.png VortiX || 1 || 벨시르 잔재, {{{#ff0000 우주 정거장}}}, 외로운 파수꾼,[[br]]뉴커크 재개발 지구, --네오 플래닛 S-- ||
+||<|2><:>준결승전|| 1경기 || attachment:Ticon_small.png 문성원 || 1 || attachment:Picon_small.png 장민철 || 3 || {{{#ff0000 돌개바람}}}, 외로운 파수꾼, 뉴커크 재개발 지구,[[br]]네오 플래닛 S, --벨시르 잔재-- ||
+|| 2경기 || attachment:Picon_small.png 김경덕 || 3 || attachment:Picon_small.png Grubby || 2 || {{{#ff0000 돌개바람}}}, 네오 플래닛 S,[[br]]우주 정거장, {{{#ff0000 붉은 도시}}}, 벨시르 잔재 ||
+|||| 결승전 || 장민철 || 3 || 김경덕 || 4 || {{{#ff0000 돌개바람}}}, 벨시르 잔재, {{{#ff0000 우주 정거장}}}, 뉴커크 재개발 지구,[[br]]붉은 도시, {{{#ff0000 외로운 파수꾼}}}, 네오 플래닛 S ||
+
+5·6위 결정전 도중 캐스터 Paul 'ReDeYe' Chaloner가 군단의 심장 한정판을 들어보이다가 뒷부분의 접착면이 떨어지면서 내용물을 떨어뜨려 큰 웃음을 줬다.
+[[html(<iframe width="560" height="315" src="//www.youtube.com/embed/O282bJPWjGw" frameborder="0" allowfullscreen></iframe>)]]
+1시간 11분 14초부터 보면 된다.
+= 대회 정리 =
+attachment:749615_1376278210.jpg?align=center
+'''사연 많은 김경덕, 눈물의 우승으로 새 역사를 쓰다!'''
+
+경력도 일천했던 김경덕의 우승을 예상한 사람은 아마 아무도 없었을 것이다. 해외 팀도 아닌 MVP 소속으로 유럽 대회에 출전하니 어색함만 넘쳐났을 정도. 그러나 잘 생각해보자. 1라운드에서 디마가를 떨어뜨리고, 2라운드에서 스테파노와 루시프론에게 좌절을 안겼으며, 8강전에서 나니와를, 준결승전에서 (비록 워3이기는 하지만) 전설 그루비를 격파했다. 결승전에서 꺾은 상대도 '프통령' 장민철! 이쯤 되면 가히 [충격과 공포]라 할 만하다. 그동안 실력보다 [wiki:"웨라클랜 성추행 사건"다른 이유]로 유명했던 김경덕은, 이번 대회에서 '자이언트 킬러'로 각성하여 신성(新星)으로 우뚝 섰다.

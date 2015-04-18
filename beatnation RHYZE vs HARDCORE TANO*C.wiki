@@ -1,0 +1,42 @@
+||||<table align=right><#262728> '''{{{#DE3D38 beatnation RHYZE}}} {{{#white vs}}} {{{#5AADD5 HARDCORE TANO*C}}}''' ||
+|||| attachment:RHYZEvsTANOC.jpg ||
+||<#262728> {{{#white 아티스트}}} ||<#262728> [[beatnation RHYZE|<span style="color:#DE3D38">beatnation RHYZE]][[BR]][[HARDCORE TANO*C|<span style="color:#5AADD5">HARDCORE TANO*C]] ||
+||<#262728> {{{#white 발매일}}} ||<#262728> {{{#white 2014년 8월 27일}}} ||
+||<#262728> {{{#white 구성}}} ||<#262728> {{{#white 1CD, 14곡}}} ||
+[[목차]]
+
+ * 관련 항목
+  * [[BEMANI 시리즈]]
+  * [[BEMANI 시리즈/아티스트]]
+  * [[BEMANI 시리즈/음반]]
+  * [[beatnation RHYZE]]
+  * [[HARDCORE TANO*C]]
+
+
+
+
+
+== 개요 ==
+[[BEMANI 시리즈]] 외주 작곡의 중심에 있는 두 레이블 [[beatnation RHYZE]]와 [[HARDCORE TANO*C]]의 합작 컴필레이션 앨범. beatnation RHYZE의 첫 음반이자 HARDCORE TANO*C의 이름을 걸고 발표한 첫 번째 메이저 앨범이다. 앨범 타이틀에서 알 수 있다시피 beatnation RHYZE의 멤버와 HARDCORE TANO*C 멤버의 대결 컨셉으로, 두 사람씩 태그를 이뤄 곡을 번갈아 수록한다.
+
+beatnation RHYZE 측에서는 멤버 전원이 참가하였다. HARDCORE TANO*C 측의 참가 인물은 [[REDALiCE]], USAO, DJ Genki, DJ Noriken, 源屋, DJ Myosuke, Noizenecio의 7명으로, 源屋를 제외한 전원이 [[beatmania IIDX]]에 곡을 투고한 전적이 있다는 공통점이 있다. 이외에 [[P*Light]]와 [[RoughSketch]]는 beatnation RHYZE 측으로 참가했으나 HARDCORE TANO*C의 구성원이기도 하다. 
+
+수록곡은 참가한 작곡가들이 기존에 게임에 투고한 곡들의 익스텐디드 버전을 중심으로 [[beatnation Records]] 멤버의 곡 리믹스와 신곡으로 이루어져 있다.
+
+[http://gall.dcinside.com/board/view/?id=rhythmgame&no=5393330 북클릿 코멘트 번역]
+== 수록곡 ==
+||<tablealign=center><#262728> {{{#ffffff 트랙}}} ||<#262728> {{{#ffffff 제목}}} ||<#262728> {{{#ffffff 아티스트}}} ||<#262728> {{{#ffffff 수록 시리즈}}}[* 리믹스 곡의 경우 원곡 수록 시리즈.] ||
+||<#262728> '''{{{#DE3D38 01}}}''' || [[Adularia]] || [[DJ TOTTO]] || [[beatmania IIDX 21 SPADA]] ||
+||<#262728> '''{{{#5AADD5 02}}}''' || [[Hollywood Galaxy]](DJ NAGAI Remix) || [[REDALiCE|DJ NAGAI]] || [[리플렉 비트]][[BR]][[beatmania IIDX 22 PENDUAL]]에 이식 ||
+||<#262728> '''{{{#DE3D38 03}}}''' || [[Devilz Sacrifice -贖罪の羊-]] (long ver.) || [[OSTER project]] || [[beatmania IIDX 21 SPADA]] ||
+||<#262728> '''{{{#5AADD5 04}}}''' || [[Miracle 5ympho X]](Extended Mix) || [[USAO]] || [[beatmania IIDX 21 SPADA]] ||
+||<#262728> '''{{{#DE3D38 05}}}''' || [[We're so Happy]] (P*Light Remix)  || [[P*Light]] || [[유비트 소서]][[BR]][[beatmania IIDX 22 PENDUAL]]에 이식 ||
+||<#262728> '''{{{#5AADD5 06}}}''' || [[Lisa-RICCIA]](DJ Genki Remix) || DJ Genki || [[유비트 소서]][[BR]][[리플렉 비트 콜레트]] ||
+||<#262728> '''{{{#DE3D38 07}}}''' || [[Mother Ship]] (Camellia's "KABOOOOOOOM!!" Remix) || [[かめりあ]] || [[유비트 소서]] ||
+||<#262728> '''{{{#5AADD5 08}}}''' || [[Elektrick U-Phoria]](Extended Mix) || DJ Noriken || [[beatmania IIDX 21 SPADA]]  ||
+||<#262728> '''{{{#DE3D38 09}}}''' || [[The Sky of Sadness]] -vastitude remix- || [[PHQUASE]] || [[팝픈뮤직 19 TUNE STREET]] ||
+||<#262728> '''{{{#5AADD5 10}}}''' || 華恋月 || 源屋 with Kuroa* || 신곡 ||
+||<#262728> '''{{{#DE3D38 11}}}''' || [[Phoenix]] (Extended) || [[Hommarju]] || [[beatmania IIDX 19 Lincle]] ||
+||<#262728> '''{{{#5AADD5 12}}}''' || [[THE DEEP STRIKER]] (DJ Myosuke Remix) || DJ Myosuke ||  [[beatmania IIDX]] 15 DJ TROOPERS ||
+||<#262728> '''{{{#DE3D38 13}}}''' || [[THE DETONATOR]] (RoughSketch BPM200 Remix) || [[RoughSketch]] || [[beatmania IIDX]] 14 GOLD CS ||
+||<#262728> '''{{{#5AADD5 14}}}''' || Re-Play || Noizenecio || 신곡 ||

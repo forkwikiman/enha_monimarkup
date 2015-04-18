@@ -1,0 +1,64 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Portable 2]], [[DJMAX Trilogy]] ||
+|| 장르 || Fantasy Pop ||
+|| [[BPM]] || 115 ||
+|| 작곡 || [[M2U]] ||
+|| 보컬 || [[M2U]] ||
+|| BGA || Choi, Eter ||
+
+{{{#!html
+<iframe width="550" height="413" src="http://www.youtube.com/embed/fvuB6a26j40" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX 시리즈]]의 수록곡으로, [[M2U]]가 작곡한 동양풍의 판타지 팝 곡이다. 이 곡은 특히, [[M2U]]가 직접 보컬을 맡았다는 점이 주목할 부분이다.
+
+BGA는 수배 중인 귀신을 만난 남자가 그 귀신과 정을 쌓는다는 내용을 담고 있다.
+
+115BPM답게, 게임 내에서의 난이도도 초~중반 정도이다.
+
+
+가사
+||지친 내 영혼 하늘에 이끌어 높이 올리면
+Blue Sky 푸른 하늘에 푹 빠져 헤쳐나오질 못하고
+
+잊고 싶은 시간들 깊이 묻어두고 싶어
+숨조차 쉬지 않아도 세상을 안을 수 있으니
+
+For blue sky 아직 먼 곳에 있어도
+언젠가 갈 수 있겠지 the sky
+작은 꿈을 갖어 높은 하늘 바라보며
+언젠간 이뤄지길
+
+Let it fly let it go
+내 몸이 높이 날도록
+Live my life 자유롭게
+
+Let me fine let me fine
+언젠가 높은 하늘이 된다면
+I want you know
+
+Let it fly let it go
+내 꿈은 작지 않아
+Still my life 내 삶인걸
+
+Let me fine let me fine
+높은 하늘에서는 그 날에 바라볼게||
+
+
+=== DJMAX Portable 2에서의 난이도 체계 ===
+
+|||||||| [[DJMAX Portable 2]] ||
+|| Tunes || NM || HD || MX ||
+|| 4B Tunes || || || ||
+|| 5B Tunes || || || ||
+|| 6B Tunes || || || ||
+|| 8B Tunes || || || ||
+
+=== DJMAX Trilogy에서의 난이도 체계 ===
+|||||||||||| [[DJMAX Trilogy]] ||
+|| 난이도 || 4K || 5K || 6K || 7K || 8K ||
+|| NM || || || || || ||
+|| HD || || || || || ||
+|| MX || || || || || ||
+|| SC || || || || || ||

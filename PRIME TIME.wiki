@@ -1,0 +1,100 @@
+[[목차]]
+
+== 개요 ==
+http://ecx.images-amazon.com/images/I/41e6h0PzaXL.jpg
+이 곡이 실린 앨범 'WORLD OF FANTASY'의 자켓
+
+[[capsule]]의 12번째 정규 앨범 'WORLD OF FANTASY'의 수록곡이다. 9번 트랙에 실려있으니 한 번쯤 사서 들어보자.
+
+attachment:/Prime_Time.jpg
+
+원래 이 곡이 실려 있던 앨범 이름은 'KILLER WAVE'였지만 하필이면 앨범 발매 예정 시기에 진짜 "[[wiki:"도호쿠 대지진" KILLER WAVE]]" 가 덮쳐서 앨범명을 WORLD OF FANTASY로 바꾼 후 발매했다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/ExVUNwfzYOM" frameborder="0" allowfullscreen></iframe>
+}}}
+VANTAN 디자인 연구소의 CM송으로도 쓰였다.
+
+== 가사 ==
+{{|
+I wanna fly away, I know you love me baby X 4
+ 
+prime time
+
+I wanna fly away, I know you love me baby X 4
+You can take a peek at me on a Friday,
+only everything﻿ you need boy, for you.
+Even dance with me on a Saturday,
+when I close my eyes, there is nobody.
+
+You can take a peek at me on a Friday,
+only everything you need boy, kiss me.
+You'll be finding love on a Saturday,
+everybody come to my house party
+
+prime time
+
+I wanna fly away, I know you love me baby X 4
+
+You can take a peek at me on a Friday,
+only everything﻿ you need boy, for you.
+Even dance with me on a Saturday,
+when I close my eyes, there is nobody.
+
+You can take a peek at me on a Friday,
+only everything you need boy, kiss me.
+You'll be finding love on a Saturday,
+everybody come to my house party
+ 
+prime time
+You can take a peek at me on a Friday,
+only everything﻿ you need boy, for you.
+Even dance with me on a Saturday,
+when I close my eyes, there is nobody.
+
+You can take a peek at me on a Friday,
+only everything you need boy, kiss me.
+You'll be finding love on a Saturday,
+everybody come to my house party
+ 
+prime time
+
+I wanna fly away, I know you love me baby X 4
+
+I wanna fly away, I know you love me baby
+I wanna fly away, I know you love me baby
+I wanna fly away, I know you love me baby
+|}}
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>9||
+||<#ffffff><:>노트수||<:>244||<:>631||<:>901||
+||<#ffffff><:>BPM||||||<:>128||
+||<#ffffff><:>곡 이력||||||[[유비트 코피어스]]에서 첫 수록[[BR]][[유비트 소서]]에서 2013/2/1 교체[[BR]][[유비트 소서]]에서 2013/4/1 재수록[[BR]][[유비트 소서]]에서 2013/9/1 교체[[BR]][[유비트 플러스]]에서 [[capsule]] pack에 수록[[BR]][[유비트 소서]]에서 2014/1/1 재수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 유비트 시리즈에서 [[more more more]]에 이은 [[capsule]]의 두 번째 수록곡이다.
+
+{{{#!HTML
+<embed src="http://www.youtube.com/v/KyFKS5fjbSc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+익스트림 플레이 영상
+
+유비트 9레벨 라이센스 곡 중에서 노트 수가 --[[wiki:"うさぎDASH" 갑툭튀한 곡]]이 노트수 6이 더 많은 관계로-- 두 번째로 많은 곡이기도 하다. 
+주로 동시치기 위주 곡이며, 9레벨 곡 중에 체감난이도는 중~상위권. 따닥-딱하는 식같은 꽤 어려운 박자들이 있어서 무턱대고 정박으로 칠 시에는 뮤직바가 파랗거나 어두워지는 꼴을 볼 수도 있으니 주의하자.
+그리고 마지막에 prime time 할 때의 패턴만큼은 꼭 기억해두자.
+
+□□■□
+□□□■
+□■□□
+□□■□
+(prime)
+↓
+□■□□
+■□□□
+□□■□
+□■□□
+(time)

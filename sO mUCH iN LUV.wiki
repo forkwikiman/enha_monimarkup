@@ -1,0 +1,21 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 작사, 작곡 || [[3rd Coast]] ||
+|| 보컬 || [[So Fly]] ||
+|| 비주얼 || [[Us]] ||
+|| 장르 || Astro Pop ||
+
+{{{#!HTML
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/JS4YboOciVA&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JS4YboOciVA&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+약칭은 '''소머치'''.
+
+[[DJMAX Portable 2]]부터 수록된 곡. 밝은 분위기의 가벼운 팝 스타일의 곡으로, 전체적으로 저난이도를 지향하는 곡이다. 곡과 잘 어울리는 수채화풍의 비주얼도 인상적. --학교를 땡땡이치는 모습도 인상적이다.--
+
+장르는 Astro pop 으로 표기상만으로는 알기 힘드나, 가벼운 라이트 팝 계열인듯. 동일 작곡가의 곡인 [[Luv Flow]]와 [[Closer]]의 중간선상에 위치하는 곡이다.
+
+원곡의 보컬의 코러스는 하나가 아닌 두 개의 코러스를 가지고 있는 곡이다. 게임 버젼에서는 첫 번째 코러스만 나온다. DMP2 내에 수록된 [[OST]] 모드에서 한국어 버젼 롱 버젼에, 이 곡에 쓰인 두 가지 코러스의 멜로디를 모두 들어볼 수 있다.
+
+[[탭소닉 링스타]]에는 튜토리얼 곡으로 수록되었으며, 이후 프리미엄 팩으로 정식으로 등장한다.

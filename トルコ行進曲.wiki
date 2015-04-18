@@ -1,0 +1,93 @@
+'''터키 행진곡'''
+
+ * 상위 항목 : [[터키 행진곡]]
+ * 이 항목은 '터키 행진곡(BEMANI 시리즈)'로 들어올 수 있다.
+
+[[유비트 시리즈]]의 수록곡. 리믹스는 [[wiki:"이즈미 무츠히코" T.M Orchestra]].
+
+attachment:6_copious_turkish.png
+
+||정식 제목은 "[[피아노]] [[소나타]] 11번 다장조 3악장"입니다만, [[모짜르트]]가 작곡한 터키 행진곡이라고 두루 알고 계시지요.
+원곡에서는 멜로디 자체에서 [[터키]] 음악의 영향은 거의 느낄 수가 없습니다만, 왼손 연주의 리듬이 터키 군악대 전통 타악기의 영향을 받은 것입니다.
+그러나 이번 저의 어레인지에서, [[신시사이저]]가 메인인 일렉트로닉 느낌이 되어 버렸기 때문에, 현대적인 4박자 리듬이 되어 터키 음악적인 요소가 더욱 희박해지고 말았습니다.
+게다가 원곡에는 없는 전자풍 인트로도 붙여 보았습니다. 자꾸 갈수록 터키로부터 멀어져만 가 버리네요.
+
+모짜르트님, 죄송합니다.
+
+-[[이즈미 무츠히코]], [[유비트 코피어스]] OST 코멘트||
+
+||【채보】맛스루
+클래식 시리즈 담당자가 따로 있었습니다만... 천국과 지옥, 윌리엄 텔까지, 백조의 호수도 만들어서 어느새 클래식 시리즈 담당과 견줄만한 수가 되었습니다. 멜로디가 친숙해서 멜로디를 살리면서 이즈미 씨의 어레인지를 어떻게 표현할까를 의식했습니다. 첫번째 해금곡이여서 좀 더 간단하게 될거라고 상상했는데, 기세로 만들었던게 어렵게... 하지만 재밌으니까 결국 LEVEL 10인 채로 수록하는 걸로.
+
+【자켓】nyt..
+친숙한 악곡이네요.
+지역도 춤도 다르지만, 홀론・에게・호라의 무희에게 터키 행진곡을 추게했습니다.
+
+
+
+이런 느낌입니다.
+그러고보니 [[陽炎]]는 [[beatmania IIDX]]의 무비도 이 자켓을 의식해 만들었어요.
+그쪽도 중요히 체크해주세요.
+
+- [[유비트 코피어스]] 스태프 블로그||
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>10||
+||<#000000><:>{{{#white 노트수}}}||<:>330||<:>528||<:>827||
+||<#000000><:>{{{#white BPM}}}||||||<:>150-199||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#5a5aff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 코피어스]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>copious pack 01||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+
+관련 칭호
+ * [[유비트 코피어스]] ~
+  * Good Turkish : 모든 보면 클리어
+  * Good Good '''Turkish'''[* 굵은 글씨는 칭호 파츠.] : 모든 보면에서 풀 콤보[* [[이즈미 무츠히코]]의 [[Red Goose]]와 획득칭호가 매우 비슷하다.(...) 근데 칭호파츠 위치가 반대니 이걸 조합하면 '''Good Good Good Good'''(...)이라는 칭호 조합이 된다.]
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+[[유비트 코피어스]]에서 가장 처음 해금할 수 있는 곡으로, [[wiki:"유비트 코피어스/Copious Travel"Copious Travel]]을 이용한 해금곡 중에서는 유일하게 난이도 순서 상관 '''없이''' 해금이 가능하다. [유비트 프롭]에서는 통상해금곡으로 전환되었다. '''카드 없이도 플레이 가능하다.''' 오리지널 곡중 통상해금곡은 [Scars of FAUNA]와 함께 단 둘뿐이다.
+
+[[wiki:"천국과 지옥"클래식]] [[wiki:"윌리엄 텔 서곡"리믹스]] [[wiki:"백조의 호수" 네번째]] 시리즈로, 시리즈 중에서는 처음으로 익스트림이 '''10'''레벨인 곡이 되었다.
+
+[wiki:"Russian Snowy Dance"Dance 시리즈 1탄]과 비슷한 패턴이다. 긁기, 동시치기와 16분 연타가 많이 등장한다. BPM은 다른 시리즈와 마찬가지로 후반부에 상승한다.
+
+{{{#!html
+<object width="600" height="437"><param name="movie" value="http://www.youtube.com/v/P-Pe5JJh2lk?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P-Pe5JJh2lk?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="437" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲익스트림 + 셔터
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/pfS7zZxZr38?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pfS7zZxZr38?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+▲익스트림 + 플라워 + 핸드클랩
+
+전체적으로 다음 패턴의 부분에서 점수 차이가 발생할 가능성이 높다.
+
+||● ● ● ③
+● ② ● ●
+⑦ ⑥ ⑤ ④
+① ● ● ●||
+
+▲총 2번 등장. ①부터 ⑦까지 24비트이다.
+
+||● ⑧ ● ⑥
+⑦ ● ⑤ ●
+● ④ ● ②
+③ ● ① ●||||→||||⑧ ⑧ ⑥ ⑥
+● ⑦ ⑤ ●
+④ ④ ② ②
+● ③ ① ●||
+
+▲각각 4번씩 등장
+
+특히 두번째 패턴은 얼핏보면 동시치기처럼 보이지만 '''동시치기가 아니다!''' 핸드클랩을 들어보면 알겠지만 '''32비트 간격의 따닥'''이므로 동시치기마냥 쾅 누르기보다는 손을 약간 굴리듯이 하면서 누르는 게 판정상 좋다.
+
+'''어드밴스드''' 패턴에서도 딱 하나 주의할 점이 있다. 맨 마지막 부분에 튀어나와 방심하다가는 풀 콤보 놓치기 딱 좋은 [[wiki:"나츠마츠리"이미 본 적 있는]] 동시치기가 등장.
+
+||① ● ① ●
+● ● ● ●
+● ● ● ●
+● ① ● ①||

@@ -1,0 +1,23 @@
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Station_Rotterdam_Centraal.jpg/600px-Station_Rotterdam_Centraal.jpg?width=400&align=right
+
+|||| Station Rotterdam Centraal[[br]]Rotterdam Central station ||
+|| 개업 || 1847년 ||
+|| 역코드 || Rtd ||
+|| 관리 || [wiki:"NS" Nederlandse Spoorwegen] ||
+|| 소유 || [[NS]] ||
+
+[[목차]]
+
+ * [[NS]]
+ * [[역 관련 정보]]
+
+== 개요 ==
+[[네덜란드]] 중서부 [[로테르담]]에 위치한 철도역.
+
+== 경유 노선 ==
+=== 국제 노선/장거리 열차 ===
+||||||||||<#8c022d> {{{#ffffff 고속선}}} ||
+|| '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]][wiki:"암스테르담 스키폴 국제공항" 스키폴][[br]]Schiphol || ← || Fyra 900  || → || '''브레다 방면'''[[br]]naar Breda[[br]]''시종착역'' ||
+|| '''[[브뤼셀 남역]] 방면'''[[br]]naar Brussel-Zuid[[br]][[안트베르펀]] 중앙역[[br]]Antwerpen-Centraal || ← || Fyra 9200 || → || '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]][wiki:"암스테르담 스키폴 국제공항" 스키폴][[br]]Schiphol ||
+||||||||||<#8c022d> {{{#ffffff 탈리스}}} ||
+|| '''[[파리 북역]] 방면'''[[br]]naar Paris Gare du Nord[[br]][[안트베르펀]] 중앙역[[br]]Antwerpen-Centraal || ← || [wiki:"탈리스" Thalys] Intercity 9300 || - || '''[wiki:"암스테르담 중앙역" 암스테르담] 방면'''[[br]]naar Amsterdam Centraal[[br]][wiki:"암스테르담 스키폴 국제공항" 스키폴][[br]]Schiphol ||

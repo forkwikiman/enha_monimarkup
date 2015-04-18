@@ -1,0 +1,70 @@
+||<-2><#DEB887><:>'''{{{#red GuitarFreaks V5 & DrumMania V5 Rock to Infinity Extra Rush}}}''' ||
+||<#FFA500> EXTRA 1 || '''[[一網打尽]]''' ||
+||<#FFA500> EXTRA 2 || '''Dynamis''' ||
+||<#FFA500> EXTRA 3 / ENCORE 1 || '''[[FORCE Interval Build]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 2 || '''[[VANESSA]] -転生編-''' ||
+||<#FFA500> EXTRA 5 / ENCORE 3 || '''[[TENGU]]''' ||
+||<#082567> {{{#white ENCORE 4}}} || '''[[Blue Forest]]''' ||
+||<#FF0000> '''PREMIUM ENCORE''' || '''[[A.DOGMA]]''' ||
+||<#4169e1> '''INFINITY''' || '''[[Rock to Infinity]]''' ||
+||<#ee82ee> '''ENDING''' || '''[[FOR THE FINAL]]''' ||
+
+[[기타프릭스]] & [[드럼매니아]] V5 수록곡
+
+attachment:gfdmdynamis.png
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 154 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 46}}} || {{{#orange 64}}} || {{{#red 91}}} ||
+|| 기타 오픈픽 || {{{#green 48}}} || {{{#orange 65}}} || {{{#red 92}}} ||
+|| 기타 베이스 || {{{#green 41}}} || {{{#orange 64}}} || {{{#red 74}}} ||
+|| 드럼매니아 || {{{#green 42}}} || {{{#orange 68}}} || {{{#red 85}}} ||
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"드럼매니아&기타프릭스/XG" XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 154 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 4.40}}} || {{{#orange 5.80}}} || {{{#red 7.10}}} || {{{#purple 8.20}}} ||
+|| 기타 베이스 || {{{#blue 3.30}}} || {{{#orange 5.20}}} || {{{#red 6.60}}} || {{{#purple 7.10}}} ||
+|| 드럼매니아 || {{{#blue 4.30}}} || {{{#orange 6.00}}} || {{{#red 7.40}}} || {{{#purple 8.60}}} ||
+
+Dynamis. [[AXIS]]에 이은 [[센본마츠 진]]의 하드락 시리즈 악곡이다. V5 가동과 동시에 Extra Level 1에서 엑스트라 스테이지에 등장. 2008년 8월 15일 Extra Level 5에서 통상곡으로 완전 해금되었다.
+
+{{{#!html
+<object width="600" height="450"><param name="movie" value="http://www.youtube.com/v/J_6LEdOWVY8?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/J_6LEdOWVY8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="450" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 클래식 드럼 익스퍼트 영상.
+
+대놓고 본인도 AXIS와 닮은 점이 있는 후속곡이라고 한 만큼 유사한 패턴이 일부 등장한다. 비슷하게 우주로 간 것도 물론 있다(...)
+
+{{{#!html
+<object width="600" height="450"><param name="movie" value="http://www.youtube.com/v/GCvlIKvxTZs?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GCvlIKvxTZs?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="450" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 클래식 기타 표준 익스퍼트 영상.
+
+{{{#!html
+<object width="600" height="450"><param name="movie" value="http://www.youtube.com/v/wn3RvmRMhEo?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wn3RvmRMhEo?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="450" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ XG 기타 표준 마스터 영상.
+
+
+난이도 자체는 Dynamis가 AXIS보다는 높다. 드럼 익스퍼트는 시작하자마자 튀어나오는 3-3연타와 후반부의 정체를 알 수 없는 변속 스네어 연타가 골칫거리. 기타는 중반부까지는 그럭저럭 난이도에 맞는 패턴이나 후반부 20초가량에 거의 '''99'''레벨 곡에 상응하는 수준의 발광 지점이 존재해 난관으로 꼽힌다.
+
+XG에서는 드럼 일부 구간에서 노트가 추가되어 난이도가 살짝 올라갔다.
+
+
+
+코멘트.
+
+>AXIS를 이어받아 계승하는 곡...그런 컨셉을 바탕으로 작곡했습니다.
+>영상과 합하면 뭐라고 말할 수 없는 분위기가 감도네요.
+>
+>중반에는 잡음이 섞이면서도 종반에서는 키보드와 함께 한
+>고속 기타 솔로 등...(그리고 AXIS의 일부분을 넣어버리거나...)
+>
+>듣기로나, 즐기는 것으로나, 풍성하게 완성했다고 생각합니다.
+>그런「Dynamis」를 마음껏 즐겨 주세요!
+>
+>
+>제작 후반까지 곡명이
+>「AXIS2(임시)」였던 것은 저만의 비밀. (웃음)

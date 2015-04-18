@@ -1,0 +1,75 @@
+[[목차]]
+[[커맨드 앤 컨커 시리즈]]의 등장 유닛이며 [[타이베리움]] 시리즈에서만 등장하였다.
+== [[커맨드 앤 컨커 타이베리안 던]] ==
+숨겨진 티저 영상에서 처음으로 등장하였다. [타이베리안 선]에 나온 것과 외형이 다른데, [[프로토타입]]인 듯하다. ~~[wiki:"오벨리스크#s-2" 오벨리스크]를 쏘다니 [wiki:"건담(기동전사 건담)" GDI 과학 기술은 괴물이란 말인가!]~~
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/PfGG-YqpFWA" frameborder="0" allowfullscreen></iframe>
+}}}
+== [[커맨드 앤 컨커 타이베리안 선]] ==
+
+{{{+1 ''' Powered Assault Armor 'Wolverin' ''' }}}
+
+http://images2.wikia.nocookie.net/__cb20101218015114/cnc/images/thumb/a/ac/Wolverine_CC2_Rend1_HiQuality.gif/1000px-Wolverine_CC2_Rend1_HiQuality.gif?width=600
+
+[[GDI]]의 기갑 유닛으로, [[체인건]] 2정을 가지고 있는 소형/경량 워커다. 가격은 500원. 
+작고 빠른 유닛으로 [Nod]의 [버기]와 마찬가지로 보병에 대한 공격력이 우수하지만, 장갑이 얆아서 [[로켓 보병]]한테는 1:1로도 승리를 장담할 수는 없다. 
+심지어는 [wiki:"사이보그#s-1.2" 사이보그]한테도 지기 때문에 보병에게 약한 [wiki:"타이탄(커맨드 앤 컨커 시리즈)"타이탄]을 보조하는 역할을 한다.
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4SLybWIQ87Q" frameborder="0" allowfullscreen></iframe>
+}}}
+
+게임 CG 동영상에서 [Nod]의 [레이저] 타워의 공격을 받아 박살나는 [[굴욕]]을 선보이기도 했다(...)
+== [[커맨드 앤 컨커3 케인의 분노]] ==
+http://static4.wikia.nocookie.net/__cb20110612075309/cnc/images/c/c8/CNCKW_Wolverine_Cameo.png
+http://static3.wikia.nocookie.net/__cb20131129100210/cnc/images/b/b8/CNCKW_Wolverine.jpg
+
+울버린 MK II
+
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/0SNQheVAagI?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/0SNQheVAagI?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
+}}}
+
+대사집
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/s5ZLU4FT6fo" frameborder="0" allowfullscreen></iframe>}}}
+
+360도 모습
+
+|| 가격 : 900원 ||
+|| 생산시간 : 9초 ||
+|| 요구사항 : 군수공장 ||
+|| 상성 : 보병에 강함 ||
+|| 주무기 : 어설트 슈트 캐논 ||
+|| 업그레이드 : [철갑탄](지휘소) ||
+|| [스틸 탤론] 전용 유닛 ||
+
+성우는 다르지만 대사 중 [[wiki:"타이탄(커맨드 앤 컨커 시리즈)#s-2" 타이탄 MK II]]와 같은 것이 많다.
+
+[GDI]의 하위 부대인 [스틸 탤론]에서 Mk.II로 버전업이 돼서 나오며 모습이 다르게 나온다. 가격은 [APC]보다 '''무려 200원 비싼''' 900원이다.
+
+공격력은 [APC]의 2배로 화력만으로 볼 땐 뛰어난 수준이나, 체력이 [APC]보다 조금 낮다는 단점이 있다. 지금은 할 수 없지만 한 때 [wiki:"타이탄(커맨드 앤 컨커 시리즈)"타이탄] 구려서 MBT 역할로써 [철갑탄] 장착시 적 차량을 녹여버렸다. 현재도 중반 대전차 화력만큼은 조금 냅둘시 기총치곤 꽤나 아픈 수준이다.
+
+[파편 워커]와 비교하면 노업 시 [파편 워커]가 우수하나 [철갑탄]을 장착하는 순간 보병 살상능력을 뛰어넘지만 [파편 워커]가 블루 타이베리움 업그레이드하면 다시 우세를 넘겨준다.
+
+사정거리가 [APC]보다 긴 것을 이용해 멀리서지만보병서포트 역할을 한다. 기본 사정거리가 [프레데터 탱크]와 동일한 수준이다.
+
+단점이라면 [APC]보다 체력이 낮아 중반 이후부턴 잘 죽는 주제에 APC보다도 200원 더 비싼데다가 '''대공 능력까지 없다!''' 뭔가 체력이 없으면 차라리 [[wiki:"이동 수리 차량"MRT]]에 [[라이플맨 분대]] 태우는 편이 이롭다. 200원 올라간 것이 왠지 서럽다.(...) 올라간 화력이 대보병이 아닌 대차량에 좀 더 치우쳐져 있다. 그래도 이 약한 몸빵을 커버할 공격력 덕분에 비슷한 숫자의 [[스콜피온 탱크]]와의 싸움에선 크게 꿀리지가 않지만, '''상대는 800원이다.''' 보병용인 주제에 전차와 필적하는 것은 좋지만, 같은 가격이라면 모를까, 좀 비싸다. 하지만 [사이보그]인 [wiki:"각성자#s-2" 각성자]는 이긴다. ~~복수~~
+
+이 외에 무빙샷을 못하며 오로지 적 공격 지정시 그 적이 후퇴하면 따라가면서 쏘니 다루기 어렵다.[* [APC]와는 달리 [프레데터 탱크]와 같은 사거리로 타이탄이 돌진하면 상대방은 [wiki:"타이탄(커맨드 앤 컨커 시리즈)"타이탄]에게 화력을 집중하면서 후퇴하기에 이때 울버린으로 갈구자.] 보병위주로 나오면 땡 울버린 보단 [슬링샷]의 뺑소니나 [미사일 분대], [민병대 로켓 분대], [분쇄기]가 많을시 땡 [라이플맨 분대]와 함께 노리자.
+
+[wiki:"타이탄(커맨드 앤 컨커 시리즈)"타이탄]과 같이 [코만도] 데트팩 공격대상이나 [wiki:"블랙 핸드(진영)"블랙 핸드]의 [코만도]라면 모를까, 시도하러 달려오는 [코만도]에게 웃으며 [철갑탄] 벌집으로 만들자. ~~하지만 2대여야 이기고 1대뿐이면 공중제비~~
+
+가끔 몸을 혼자서 흔들거리며 춤추는 애니메이션을 보여준다.
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/TVkc7uhAu_s" frameborder="0" allowfullscreen></iframe>
+}}}
+
+C&C 아레나의 영상에선 상체와 하체가 분리되어 움직일 수 있는데 케인의 분노에선 거의 일치하고 있다. ~~아레나같이 할것이지~~ 이 때문에 자신의 옆으로 빠르게 움직이는 보병을 잘 못쏘는 경향이 있다. APC같이 한 분대 중 한 명만 공격하는 형식이라서 운이 나쁘면 몸 자체를 돌리는데 시간이 걸려 보병을 잡지 못한다.
+
+영상내에선 [어택 바이크]의 미사일 2방에 터지나 어택 바이크는 개틀링 건 몇 문 맞고 쓰러져 터져버리는 등 거의 실사를 기반으로 두고 있으니 피장파장이나 결론은 현실에선 워커는 [[망했어요]]. 이후 [wiki:"타이탄(커맨드 앤 컨커 시리즈)#s-2" 타이탄 MK II]와 [wiki:"아바타(커맨드 앤 컨커 시리즈)" 아바타]와의 조우에서 땅에 쓰러져 있는 울버린을 아바타가 짓밟아버리면서 등장하여 굴욕을 당한다.
+
+4에선 크롤러를 잡을 절단 레이저를 장착할 유닛을 모색 중에 달아주었으나 이후 [wiki:"타이탄(커맨드 앤 컨커 시리즈)#s-2" 타이탄 MK II]에게 넘겨주었다. 결국 찬밥신세

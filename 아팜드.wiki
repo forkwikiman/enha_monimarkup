@@ -1,0 +1,50 @@
+MBV-09-C アファームド/APHARMD
+http://www.ne.jp/asahi/harn/city77/vo/omg/omg-gazo/apha.jpg
+http://www.ne.jp/asahi/harn/city77/vo/omg/omg-gazo/cg-apha.jpg
+[[전뇌전기 버추얼 온]]에 등장하는 주전투용 VR. 
+
+형식번호 : MBV-09-C
+전장 : 15.5미터
+중량 : 8.82톤
+무기 장비 시 중량 : 23.5톤 
+출력 : 5800Kw
+무장 : 톤파(Dynamic Tongfer ver.Ex), 샷건(R-11 Gun Launcher), 봄
+스테이지 : Space Dock(제8플랜트 [[플래시 리포]])
+{{{#!html
+<object width="480" height="395"><param name="movie" value="//www.youtube.com/v/UIjqRkGu_Sw?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/UIjqRkGu_Sw?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="480" height="395" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[배경음악]] : Earth Light([[아팜드 더 커맨더]] 배경음악과 동일)
+
+디자인은 근육 마초맨을 베이스로 하고 있다.(베레모도 인상적)
+
+=== 설정 ===
+
+근거리와 원거리 커버가 가능한 [[템진]]과는 달리 접근전이 주를 이룬다. 템진이 [[DNA]]의 주력이자 상징이라면 아팜드는 [[RNA]]의 주력이자 상징. [[특수기동부대 MARZ]]에서 사용되는 [[아팜드 더 해터]]를 포함, 다양하고 무수한 바리에이션을 낳았다.
+
+[[버추어로이드]]의 상업성에 대해서 DN사의 내부 보고서에는 '''근접전을 메인으로 하는 기체를 개발할 필요가 있다.'''라는 의견을 피력했고, 이 프로젝트는 신입 사원들이 모인 제2플랜트 '트랜스 발'(후에 [[도드레이]]도 제작한 플랜트)에 맡겨졌다. 처음에는 젊은 혈기에 들떴던 제2공장은 "[[XMU프로젝트]] 따윈 필요없음. 우리가 알아서 잘 해낼 거임."하고 자신만만했지만... [[현실은 시궁창]]. 결국 거듭되는 삽질을 보다못한 모기업에서 "삽질 그만하고 선행기종 프레임이나 갖다쓰지?"라고 압력을 넣었다. 결국 울며 겨자먹기로 [[템진]]의 뼈대를 갖다쓰기로 했는데... 불난 집에 기름 붓기에 엎친 데 바위 깔린 격이라 했던가. 이마저도 기술력 부족으로 완전히 카피하지는 못했고, 결국 원본에 비해 군바리마냥 대단히 뻑뻑한 기체가 되어버렸다. 그런데 이 점이 의외로 야전에서 큰 호평을 받았는데, 구성과 골격이 복잡해 야전에 부적합한 템진에 비해 정비하기가 매우 편하고 손도 덜 간다는 이유였다. 게다가 단순해진 만큼 기체 내구력도 올라가서 어지간한 충격에는 끄떡도 하지 않는 안정감을 가져다주었다. 
+또한 순식간에 적기에 달려들어서 톤파로 큰 데미지를 입히는 전법은 파일럿들이나 관중들 모두한테 큰 호평을 받았다.
+
+다만 전체적인 무기의 사정거리가 짦다는 문제점이 있었지만, 애초에 HBV-10 [[돌카스]]와 같이 운용될 것을 전제로 설계되었기에 큰 문제가 되지는 않았다. 그러나, [[오퍼레이션 문 게이트]] 때 제어불능에 빠진 '''아팜드/돌카스 혼성 1개 사단'''이 SHBVD가 주축이 된 '''1개 중대'''에 털려버리자, DN사 상층부는 아팜드의 생산을 중단한다. 그리고 그 다음으로 고른 게 하필이면 [[벨그도르]]. 게다가 나중에는 벨그도르마저 주력기체에서 도태되고 텐 에이티가 나서지만 여전히 열세. 이후 중단된 아팜드의 자료는 RNA에 넘어가버리고 RNA의 주력기체가 된다.
+
+2세대형 아팜드는 2개의 부류로 나뉜다. 최초의 2세대형 VR인 [[아팜드 더 어택커]]를 베이스로 하나는 화력 중심의 [[아팜드 더 디스럽터]], 또 하나는 접근전 지향의 [[아팜드 더 리벤저]]이다.(이중 리벤저는 2세대형은 아니지만 톤파라는 무장의 가치를 중점으로 두고있다.) 두 기체의 단점은 디스럽터는 무장이 너무 많아 밸런스가 깨진다는 것이었고 리벤저는 풀튜닝을 하긴 했지만 구식인 1세대형이라는 것이다.  이들 둘은 후에 각각 [[아팜드 더 스트라이커]],[[아팜드 더 배틀러]], [[아팜드 더 커맨더]]로 계승된다.
+
+=== 게임 상 성능 ===
+{{{#!html
+<embed src="http://www.youtube.com/v/M9TTezDt_oY&color1=0xb1b1b1&color2=0xcfcfcf&hl=ko&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></embed>
+}}}
+고수용
+
+대쉬가 빠르고 접근전 특화로 이루어져 있다.
+
+우 트리거인 샷건은 약한편은 아니나. 지대로 맞추기가 힘들다. 산탄형이다 보니 자주 삐익 소리가 들려오는게 단점......
+
+중 트리거인 돈파를 제대로 사용만 하면 쉽게 이길 수 있다. 돈파의 락온 거리는 150이지만. 250에서도 때려 박을 수 있다. (어짜피 박히는건 한방. 그런데 대쉬까지 먹어 들어가기 때문에 박히기도 쉽지않다.)
+
+좌 트리거인 폭탄은 테무진과 같지만. 이쪽은 불발이 더 많다 (그런데 불발이 더 쎄다?)
+
+근접형이다 보니. 원거리 쪽에서는 뭔가 많이 밀린다. (그렇다고 해도 표준형에서는 방어력이 높은편이다)
+
+=== 배경음악 ===
+OT - Burning Inside (Striker), Bloody Sorrow (Battler)
+FORCE - Fit so Fight, Tiger! Tiger!, 515 Hours
+MARZ - Burning Muscle - Ichiban*boshi (APHARMD the HATTER)

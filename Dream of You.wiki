@@ -1,0 +1,38 @@
+[[목차]]
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Portable 2]] [[br]] [[DJMAX Trilogy]] ||
+|| 장르 || Sweet Jazz ||
+|| [[BPM]] || '''192''' ||
+|| 작곡 || [[makou]] ||
+|| 일러스트 || Eyehead ||
+
+[[youtube(t4hO6mOZjQE)]]
+
+
+[[makou]]가 초창기에 공급한 재즈곡이다. 애니메이션 효과 없이 단순히 이미지를 보여주는 단순한 BGA지만, 도시의 야경을 배경으로 한 그림들이 재즈풍의곡의 느낌과 잘 어울린다. 다만 192라는 고BPM에 무시무시한 엇박의 향연으로. 판정이 정말정말 안나오기로 유명하다는것도 특징이라면 특징. ~~[[makou]] 엇박전설의 시작~~
+
+== [[DJMAX Portable 2]] ==
+
+|||||||| [[DJMAX Portable 2]] ||
+|| Tunes || NM || HD || MX ||
+|| 4B Tunes || 7 || || ||
+|| 5B Tunes || 5 || || ||
+|| 6B Tunes || 6 || '''11''' || ||
+|| 8B Tunes || 6 || || ||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/twlxy2BqOD4" frameborder="0" allowfullscreen></iframe>
+}}}
+6B HD패턴 영상
+
+DMP2에서는 중간정도의 난이도로 등장.
+
+== [[DJMAX Trilogy]] ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/KeXGaoZdfVA?list=PLVOEWfhIg7oIe6uzzR5_3TRSFEqLJgGG-" frameborder="0" allowfullscreen></iframe>
+}}}
+6Key HD패턴 영상
+
+
+[[DJMAX Trilogy]]에도 이식되었다. 다만 3번째 미션인 Daydream에 이곡 4키 노말패턴이 나오는데 안그래도 더러운박자+고BPM의 짠 판정 때문에 초보들이 깨지를 못하고 좌절하는 첫번째 걸림돌로 악명높다. 

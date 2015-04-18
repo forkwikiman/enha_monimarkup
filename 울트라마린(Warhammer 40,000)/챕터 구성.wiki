@@ -1,0 +1,111 @@
+ * 상위 문서 : [[Warhammer 40,000]], [[울트라마린(Warhammer 40,000)]]
+
+이 도표는 약 999.M41년에 조사된 울트라마린 챕터의 구성도를 담고있다. 일반적으로 전투에 투입되는 분대(Squad)하나의 병력은 10명의 마린들로 구성되어 있으나,전투 손실을 감안해 적절히 증원된 인원으로 전투에 참여하는 경우도 있다. 수송차량이나 특수병기(바이크나 랜드스피더)는 임무 난이도 여하에 따라 사용되는 수가 다르기에 기록되지 않았다.
+
+[[목차]]
+
+== CHAPTER COMMAND (챕터 지휘부) ==
+ * [[마니우스 칼가]] Marneus Calgar - 마크라지의 군주, 울트라마린의 [[챕터 마스터]]
+ * 27명의 [[아너 가드]]
+ * 1700명의 시종과 [[서비터]]
+ * [[랜드 레이더]] 막시무스(Maximus) - 칼가전용차량
+
+== CHAPLAINCY (수도부) ==
+ * [[오르탄 카시우스]] Ortan Cassius - Master of Sanctity
+ * 12명의 [wiki:"채플린(Warhammer 40,000)"채플린]
+
+== ARMOURY(무기고) ==
+ * 피니어스 맥심 Fennias Maxim - Master of the Forge
+ * 27명의 [[테크마린]]
+ * 95명의 테크서비터
+ * 25대의 [wiki:"프레데터(Warhammer 40,000)"프레데터]
+ * 8대의 [wiki:"빈디케이터(Warhammer 40,000)"빈디케이터]
+ * 9대의 [wiki:"훨윈드(Warhammer 40,000)"훨윈드]
+ * 12대의 [랜드 레이더]
+
+== APOTHECARION(의무실) ==
+ * 코르푸스 헬릭스 Corpus Helix - Chief Apothecary
+ * 12명의 [[아포세카리]]
+== LIBRARIUS(도서관) ==
+ * [[바로 티그리우스]] Varro Tigurius - Chief Librarian
+ * 24명의 [wiki:"라이브러리안(Warhammer 40,000)"라이브러리안]
+  * 5명의 에피스톨러리
+  * 9명의 코딕시어
+  * 10명의 렉시카니움
+== FLEET COMMAND(함대 사령부) ==
+ * 라지오 티베리우스 Lazio Tiberius - 함대 제독
+ * 3기의 [[배틀 바지]]
+  * 배틀바지 옥타비우스(Octavius)
+  * 배틀바지 카이사르(Caesar)
+  * 배틀바지 세베리안(Severian)
+ * 8기의 [[타격순양함]]
+ * 12기의 속공선
+ * 31기의 [[썬더호크]] 건쉽
+== 1st COMPANY (1중대) ==
+베테랑 컴퍼니(Veteran Company), 문장색(Heraldic Colour)[* 스페이스 마린 어깨갑옷의 틀 부분 색깔] - 흰색/은색 
+ * 캡틴 아가멤논 Captain Agemman - 울트라마의 섭정
+ * 97명의 [wiki:"스턴가드 베테랑"베테랑] [wiki:"뱅가드 베테랑"마린]
+ * 3기의 [wiki:"드레드노트(Warhammer 40,000)"드레드노트]
+== 2nd COMPANY (2중대) ==
+전투중대(Battle Company), 문장색 - 노란색/금색
+ * 캡틴 [wiki:"카토 시카리우스"시카리우스] Captain Sicarius - Master of the Watch
+ * 6개의 [[택티컬 스쿼드]]
+ * 2개의 [[어썰트 스쿼드]]
+ * 2개의 [[데바스테이터 스쿼드]]
+ * 2기의 드레드노트
+
+=== 울트라마린 2중대 구성원들 ===
+[wiki:"울트라마린 2중대 구성원들"항목] 참조
+
+== 3rd COMPANY (3중대) ==
+전투중대, 문장색 - 붉은색/핏빛
+ * 캡틴 파비안 Captain Fabian - Master of the Arsenal
+ * 6개의 택티컬 스쿼드
+ * 2개의 어썰트 스쿼드
+ * 2개의 데바스테이터 스쿼드
+ * 2기의 드레드노트
+
+== 4th COMPANY (4중대) ==
+전투중대, 문장색 - 초록색
+ * 캡틴 아이데우스 Captain Idaeus - Master of the Fleet
+ * 캡틴 [wiki:"우리엘 벤트리스"벤트리스] Captain ventris - Battle Captain
+ * 6개의 택티컬 스쿼드
+ * 2개의 어썰트 스쿼드
+ * 2개의 데바스테이터 스쿼드
+ * 4기의 드레드노트
+
+== 5th COMPANY (5중대) ==
+전투중대, 문장색 - 검은색
+ * 캡틴 갈레누스 Captain Galenus - Master of the Marches
+ * 6개의 택티컬 스쿼드
+ * 2개의 어썰트 스쿼드
+ * 2개의 데바스테이터 스쿼드
+ * 1기의 드레드노트
+
+== 6th COMPANY (6중대) ==
+예비병력(Reserve), 전략중대(Tactical Company), 문장색 - 주황색
+ * 캡틴 에파투스 Captain Epathus - Master of the Rites
+ * 10개의 택티컬 스쿼드
+ * 4기의 드레드노트
+
+== 7th COMPANY (7중대) ==
+예비병력, 전략중대, 문장색 - 연보라색
+ * 캡틴 익시온 Captain Ixion - Chief Virtualler [* 병참을 담당하는 것으로 보인다]
+ * 10개의 택티컬 스쿼드
+ * 3기의 드레드노트
+
+== 8th COMPANY (8중대) ==
+예비병력, 강습중대(Assault Company), 문장색 - 회색
+ * 캡틴 누미토르 Captain Numitor
+ * 10개의 어썰트 스쿼드
+
+== 9th COMPANY (9중대) ==
+예비병력, 데바스테이터 중대(Devastator Company), 문장색 - 파란색/울트라마린
+ * 캡틴 사이논 Captain Sinon
+ * 10개의 데바스테이터 스쿼드
+ * 7기의 드레드노트
+
+== 10th COMPANY (10중대) ==
+스카웃 중대, 문장색 없음
+ * 캡틴 안틸로쿠스 Captain Antilochus - Master of the Recruits
+ * [wiki:"스카웃 스쿼드"신병들] 다수 [* 계속 징집이 되는관계로 정확한 수치는 표기되지 않음]

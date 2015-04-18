@@ -1,0 +1,6 @@
+{{{#!html
+<div class="wikiRedirect"><span>넘겨주기 문서</span><p><a href="./%EC%B8%84%EC%98%A4%20%EB%B3%B8%EC%84%A0?action=show#chuotosen" rel="nofollow"><span>츄오 본선</span></a></p></div>
+<!-- #redirect http://www.rigvedawiki.net/r1/wiki.php/%EC%B8%84%EC%98%A4%20%EB%B3%B8%EC%84%A0?action=show&redirect=%EC%B8%84%EC%98%A4%ED%86%A0%EC%84%A0#chuotosen -->
+
+<!-- 문단 넘겨주기 기능에 무언가 문제가 있는 것 같으므로 임시로 자바스크립트로 대체해둡니다. 해결법을 아시는 분은 이 부분을 지우고 자체 넘겨주기 기능으로 바꿔 주시기 바랍니다. -->
+<script language="javascript">if(window.location.search==='') document.location.replace('./%EC%B8%84%EC%98%A4%20%EB%B3%B8%EC%84%A0?action=show&redirect=%EC%B8%84%EC%98%A4%ED%86%A0%EC%84%A0#chuotosen');</script>}}}

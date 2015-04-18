@@ -1,0 +1,57 @@
+Panasonic Youth
+
+미국의 매스코어 밴드 [[딜린저 이스케이프 플랜]]의 곡.
+
+~~모 가전제품 회사와는 관계 없다!~~
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZncEPhWUDsw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/x-eVaudKtG4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+드럼매니아 클래식 EXT 영상
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/wwJcOC1BJ7c" frameborder="0" allowfullscreen></iframe>
+}}}
+
+XG 드럼매니아 EXT 영상
+
+|||||||||||||| [[기타프릭스]]&[[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5><:> 191 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 22}}} || {{{#orange 63}}} || {{{#red 80}}} ||
+|| 기타 오픈픽 || {{{#green 23}}} || {{{#orange 66}}} || {{{#red 85}}} ||
+|| 기타 베이스 || {{{#green 20}}} || {{{#orange 62}}} || {{{#red -}}} ||
+|| 드럼매니아 || {{{#green 29}}} || {{{#orange 45}}} || {{{#red 89}}} ||
+
+|||||||||||||| 기타프릭스 & 드럼매니아 XG 시리즈 난이도 체계[* GITADORA 난이도 명칭 이전에 삭제되어 난이도 명칭은 XG3의 명칭을 따른다.] ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 191 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULER}}} || {{{#red EXPERT}}} ||
+|| {{{#blue 3.00}}} || {{{#orange 4.55}}} || {{{#red 7.75}}} ||
+|| 기타 베이스 || {{{#blue 2.80}}} || {{{#orange 4.55}}} || {{{#red 6.90}}} ||
+|| 드럼매니아 || {{{#blue 2.70}}} || {{{#orange 4.40}}} || {{{#red 7.50}}} ||
+
+리듬게임에는 [[기타프릭스]] & [[드럼매니아]] V에 판권곡으로 수록되었는데, 이 곡은 일단 패턴 분석은 둘째치고 '음악성' 에 있어 굉장히 논란이 많았다.
+
+정확히 이 곡의 장르는 [[매스코어]] 라는 장르인데, 워낙 독특하고 윗 동영상처럼 충격적이여서 동양권으로 들어온지 얼마 안된 때는 그저 충격과 공포였다.
+
+그저 고함만 빽빽 지르고 멜로디는 전혀 친근하지 않다며, 이게 음악이냐? 라고 말하는 사람도 많았다. 그도 그럴 것이, 매스코어 류에 대한 이런 비난은 '빡센' 음악을 좋아하는 [[메탈]], [[하드코어]] 향유층에서도 종종 나오는 편이다.
+
+드럼 익스트림 보면의 패턴은 초반에는 도무지 알 수 없는 음악 박자로 수많은 베이스와 스네어, 심벌이 연속적으로 나오는것을 제대로 박자를 못 익히고 잘 못치는 경우가 많으며 중반에는 스네어, 베이스, 탐이 불규칙적으로 쏟아져 나온다. 이것은 후반에도 비슷하다.
+
+BGA는 뮤직비디오를 그대로 실어넣었다. 당시 V시리즈가 기판을 시스템 573(PS1 기반)에서 Python 2(PS2 기반)로 갈았는데 그 기판의 성능을 보여준 대표 사례.(이 전에는 판권곡은 기판의 한계로 자체적으로 BGA를 만들어서 넣었다. 대표적으로 [[서클 코스터]]나 ROLLING1000tOON)
+
+꽤 오랫동안 생존한 판권곡 중 하나로 XG 시리즈까지 생존했다가 [[GITADORA]]에서 삭제되었다.
+
+아래는 V에 수록될 당시의 곡 코멘트.
+
+{{|
+Being big fans of Konami games, we are extremely happy to be a part of the newest versions of GUITARFREAKS and DRUMMANIA. We can remember our first trip to Japan and having the pleasure of playing earlier versions of these games in the Arcade. These Games are not only fun but a great way for young people to start looking at music in a more intricate and educational way.
+Thanks Konami !
+
+Ben and Chris (The Dillinger Escape Plan)
+|}}

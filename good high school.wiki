@@ -1,0 +1,57 @@
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡은 [[baker]]. 장르는 [[하드코어 테크노#s-3.13|슈란츠]]. 별칭은 명문고(…)
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/JrOE6waUQgg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[Absurd Gaff]]가 사운드 볼텍스에 수록되기 '''한참전에도 있었던''' 사운드 볼텍스의 슈란츠 곡인데, 문제의 곡 코멘트에서 'SDVX에 있을 것 같으면서 없었던 Schranz'라 못을 박은 탓에 졸지에 [[투명드립|있을 것 같으면서 없었던 곡]]이 되어버렸다.(…) 사실 Absurd Gaff는 2008년에 공개됐고, good high school의 공개는 그보다는 늦었으니 납득은 된다. ~~선곡도 안습이고~~
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0002_good_high_school_baker_jacket_n.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0002_good_high_school_baker_jacket_a.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0002_good_high_school_baker_jacket_e.jpg?width=150 || attachment:goodhighschool_inf.jpg?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 05}}} || {{{#ff009f 08}}} || {{{#448844 15}}} ||
+|| 체인 수 || {{{#purple 0580}}} || {{{#orange 0730}}} || {{{#ff009f 0920}}} |||| {{{#448844 1664}}} ||
+|| 일러스트 담당 || {{{#purple もとこ}}} || {{{#orange さきイカPX}}} || {{{#ff009f 蒼弐}}} |||| {{{#448844 ともこ}}} ||
+|| 이펙터 || {{{#purple 逆球レジェンド}}} || {{{#orange BING-WANG-FX}}} || {{{#ff009f 逆球レジェンド}}} || {{{#448844 MAD CHILD & Hirayasu Matsudo}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 01(2011.7.16)}}} || {{{#ff00ec II 10(2013.9.5)}}} ||
+|| [[BPM]] |||||||| 150 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} ||<|3> 통상해금 ||<|3> 통상해금 ||
+|| {{{#orange ADVANCED}}} ||
+|| {{{#ff009f EXHAUST}}} ||
+|| {{{#448844 INFINITE}}} || 2000 || 이 곡의 EXHAUST 패턴을 ULTIMATE CHAIN 달성 또는 10회 플레이 ||
+
+변경점
+|| 2013/09/05 ||INFINITE 패턴 추가||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 02(2013.12.6 ~ 2014.2.6), 무우주(武宇主) 순한맛, The 4th KAC 엔조이♪고릴라 코스 C
+  * INFINITE : Skill Level 10(2013.12.6 ~ 2014.1.10), Skill Level 10 C코스(2014.12.26 ~ 2015.2.27), The 4th KAC 챌린지★고릴라 코스 C(2015.1.5 ~ 2015.1.12)
+
+자켓의 [[소녀]]의 이름은 [[사운드 볼텍스/캐릭터#쿠레하|쿠레하(紅刃)]]라고 한다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/NkzKEIMuPzc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+EXH 패턴은 [[로케 테스트]] 당시 유일한 8레벨 이었다.[* 그 이후의 업데이트로 [[U&M]]이 두번째 EXHAUST 난이도 8가 되었고, [[봄빛 포트레이트]]는 EXHAUST 유일한 난이도 7로 정착.] 아날로그 디바이스가 중간중간 가끔씩 나와 빠른 조작을 요구한다. 초반부터 갑자기 8비트의 속도로 양 쪽이 동시에 나오거나 지그재그 형태로 빠르게 돌려야 하는 등 아날로그 디바이스 조작을 잘 못 하는 유저라면 점수가 저조하게 나오기 일쑤이다.
+
+{{{#!HTML
+<object width="450" height="600"><param name="movie" value="//www.youtube.com/v/e_4rcht-sUg?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/e_4rcht-sUg?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="450" height="600" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+INF 패턴 PERFECT 영상
+
+INF 패턴은 EXH 채보의 난이도와는 비교도 안될 수준의 15레벨의 채보로 등장했는데, 그야말로 저레벨과 비인기곡의 설움을 이겨낸 화려한 복귀...지만 같은 날 업데이트 된 [[Booths of Fighters]]와 [[Quietus Ray]]의 포스가 너무 강력해서 묻히는 감이 없지 않아 있다(...)
+
+하지만 이 채보 역시 만만치 않은 난이도를 자랑하는데, 중간부터 시작되는 번개 노브부터 후반의 뱀 노브와 마지막의 배배 꼬인 노브까지 탈선을 유발하는 노브 패턴이 잔뜩 산재해있다. 잘못 말리면 고득점 달성 실패는 물론 후살 직행이니 노브에 집중하며 플레이를 해야한다.
+
+직각 노브가 아닌 모든 16비트 노브 패턴은 대부분 조작을 하지 않아도 알아서 처리가 되는데, 이 곡도 1분 20초부터 나오는 돌리다 16비트로 휙 꺾어야 하는 부분에서는 꺾지 않아도 처리가 된다.

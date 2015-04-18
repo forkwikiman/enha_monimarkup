@@ -1,0 +1,85 @@
+ * [[다의어]]
+
+[[목차]]
+Nature
+== [[자연]] ==
+해당 항목 참고.
+
+== 과학 저널 ==
+ * 상위 항목 : [[자연과학 관련 정보]], [[잡지]]
+
+세계에서 가장 오래되었으며 저명하고 권위 있는 [[과학]] 저널이다. 1869년 [[영국]]에서 창간되었다. 원래는 다윈의 열렬한 지지자인 토머스 헉슬리[* [[디스토피아]] 소설 [[멋진 신세계]]을 집필한 [[올더스 헉슬리]]의 할아버지다.]가 1864년에 '자연사 리뷰'를 창간했는데, 재정 문제로 폐간된 뒤에 '리더'라는 평론지를 만들었다가 또 폐간되었다. 그러고나서 편집자 중 한명이던 노먼 로키어가 1869년 다시 창간하게 되었으며, 헉슬리는 창간호의 권두문을 쓰고 로키어는 50년간 편집장을 지냈다. 
+
+현재 발행부수는 대략 5~6만이지만 그 영향력은 막강하다. 게재되는 논문의 80%는 [[생명과학]] 분야이고 나머지 20%는 [[물리]], [[화학]], [[지구과학]], [[천문학]] 등의 분야이다.
+
+[[미국]]에서 창간된 [[사이언스]]와는 오랜 경쟁관계이며, 종종 서로 밀어주는 과학자나 논문을 [[디스]]하는 일이 벌어진다. 사이언스에 기고한 [[황우석]] [[박사]]의 논문조작 의혹을 네이처가 처음으로 제기한 것이 하나의 예이다. 다만 최근에는 네이처가 약간 우위에 있다는게 중론.
+
+Nature Publishing Group에서는 네이처 외에도 많은 자매지를 발간하고 있는데, 2000년대 들어 그 확장세는 무서울 정도이다. 그리고 그 자매지들에 실리는 논문들 역시 높은 피인용지수를 자랑하고 있다. 네이처 본지의 2012 IF는 38.6이다.사실 이러한 자매지의 증가 추세는 네이처 본지만으로는 한계가 있기 때문이다. 네이처는 제출된 논문 들 중 10% 정도만 받고 나머지는 다 짤라버리는데, 한 권에 받을 수 있는 양은 한정되어 있기 때문에 몇몇 아까운 것에 대해서도 --눈물을 머금고-- 어쩔 수 없이 자를 수 밖에 없는 경우가 많다.
+
+2014년 12월 2일, [http://www.nature.com/news/nature-makes-all-articles-free-to-view-1.16460 본지의 모든 기사를 무료로 열람 가능하도록 공개했다.]
+=== 주요 연구 논문들 ===
+네이처에 나온 수많은 논문 결과들은 오늘날 수많은 교과서와 대학 전공 서적에 나오는 중요한 이론 및 연구의 원천이 되었다. 아래는 그 중에서도 특히 유명한 논문들. (차례대로 volume, page) 원문 링크도 있지만 학교 밖에서 누르면 [[wiki:"현질" 돈을 내라고 하니]] 웬만하면 네이처를 구독하는 대학도서관에서 보자.
+
+ * 데이비슨-거머의 물질의 [[이중성]] 확인 실험 
+ "The scattering of electrons by a single crystal of nickel". Nature 119, 558–560. doi:[http://dx.doi.org/10.1038/119558a0 10.1038/119558a0]
+ * 채드윅의 [[중성자]] 발견 실험
+ "Possible existence of a neutron". Nature 129, 312.
+ * [[핵분열]] 실험
+ "Disintegration of uranium by neutrons: a new type of nuclear reaction". Nature 143, 239–240. doi:[http://dx.doi.org/10.1038/143239a0 10.1038/143239a0]
+ * 제임스 듀이 왓슨과 프랜시스 크릭의 [[DNA]] 이중 나선 구조에 대한 연구
+ "Molecular structure of Nucleic Acids: A structure for deoxyribose nucleic acid". Nature 171, 737–738. doi:[http://dx.doi.org/10.1038/171737a0 10.1038/171737a0]
+ * [[단백질]]의 분자 구조 규명 연구
+ "A three-dimensional model of the myoglobin molecule obtained by X-ray analysis". Nature 181, 662–666. doi:[http://dx.doi.org/10.1038/181662a0 10.1038/181662a0]
+ * 판 구조론
+ "Did the Atlantic close and then re-open?". Nature 211, 676–681. doi:[http://dx.doi.org/10.1038/211676a0 10.1038/211676a0]
+ * [[펄서]]에 관한 연구
+ "Observation of a Rapidly Pulsating Radio Source". Nature 217, 709–713. doi:[http://dx.doi.org/10.1038/217709a0 10.1038/217709a0]
+ * [[오존층]]에 생긴 구멍에 대한 분석
+ "Large losses of total ozone in Antarctica reveal seasonal ClOx/NOx interaction". Nature 315, 207–210. doi:[http://dx.doi.org/10.1038/315207a0 10.1038/315207a0]
+ * 복제양 [[돌리]] 실험
+ "Viable offspring derived from fetal and adult mammalian cells". Nature 385, 810–813. doi:[http://dx.doi.org/10.1038/385810a0 10.1038/385810a0]
+ * 인간 게놈 프로젝트
+ "Initial sequencing and analysis of the human genome". Nature 409 (6822): 860–921. doi:[http://dx.doi.org/10.1038/35057062 10.1038/35057062]
+=== 흑역사가 된 것들 ===
+ * 90년대 후반부터 2000년대 초반까지 얀 헨드릭 쇤이라는 물리학자는 [[트랜지스터#s-2.2|전계효과 트랜지스터]](FET), [[초전도체]]에 대한 논문을 네이처, 사이언스 급 저널에 20여개 가량 투고를 했다. 하지만 논문 결과가 너무 --좋은게 샘이 나서--이상하다고 느낀 관계자들이 조사를 했고, 결국 조작으로 판명나면서 네이처는 2003년 모든 논문들을 거두었다.
+ * [[엔리코 페르미]]의 '''베타 붕괴에 대한 논문을 거부'''했다. 사유는 '''너무 말도 안된다고.''' 후에 그의 연구가 인정받고 나서야 네이처는 그의 이후 논문들을 --굽신거리면서-- 받아주기 시작했다. --뭐 그거 하나 없다고 네이처 위상이 떨어지는건 아니지만 좀 아쉽잖아--[* 하지만 딱히 뭐라 할 수도 없는게, 원래 피어 리뷰라는 것 자체가 원채 까다롭게 들어가는 것이기 때문에 조금이라도 설명을 못하거나 할 경우에는 가차없이 까이면서 리젝(reject)되는게 일상다반사다.]
+ * 폴 러터버와 피터 맨스필드(2003 [[wiki:"노벨생리학·의학상" 노벨 생리의학상]] 수상자)의 논문을 거부했다. 하지만 러터버가 --빡친 나머지 ㅅㅂㄻ들아 다시 읽어봐라 뭐가 잘못됐는데--다시 투고해서 1973년에 네이처가 받아주었다. [[스티븐 호킹]]의 [[블랙홀]] 복사 이론도 처음에는 거부되었다. 하지만 호킹의 경우에는 어찌어찌해서 다시 받아주었다.
+ * [[만능세포 연구논문 조작 사건]] -- 그야말로 일본판 [[황우석]] 사건. 이 엉터리 조작 논문을 싣어준 네이처도 개망신당하게 되었다...
+
+=== 자매지 목록 ===
+==== 공통(연구분야) ====
+ * Nature Communication
+ * Nature Methods
+ * Nature Protocols
+
+==== [[물리|물리과학]](연구분야) ====
+ * Nature Chemistry
+ * Nature Climate Change
+ * Nature Geoscience
+ * Nature Materials
+ * Nature Nanotechnology
+ * Nature Photonics
+ * Nature Physics
+
+==== [[생명과학|생물과학]](연구분야) ====
+ * Nature Biotechnology
+ * Nature Cell Biology
+ * Nature Clinical Practice 계열
+ * Nature Chemical Biology
+ * Nature Digest
+ * Nature Genetics
+ * Nature Immunology
+ * Nature Medicine
+ * Nature Neuroscience
+ * Nature Structural & Molecular Biology
+
+==== 리뷰분야 ====
+ * Nature Reviews Cancer
+ * Nature Reviews Genetics
+ * Nature Reviews Immunology
+ * Nature Reviews Microbiology
+ * Nature Reviews Molecular Cell Biology
+ * Nature Reviews Neuroscience
+
+== [[BEMANI 시리즈]]의 수록곡 [[Nature]] ==
+항목 참조.

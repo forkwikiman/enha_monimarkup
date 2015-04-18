@@ -1,0 +1,135 @@
+[[목차]]
+
+== 개요 ==
+[[Dance Dance Revolution(2014)]]의 해금 이벤트. DDR X2의 [[Replicant D-action]] 이후로 오랜만에 등장하는 보스 폴더이다. [[리플렉 비트 그루빈]]의 [[MYSTICAL STRIKE]]처럼 특정 조건을 반복하도록 되어 있다. 이식된 곡들이 각 기종에서 어느정도 난이도가 높은 곡들이어서 이 이벤트는 이름값을 했으나, [[Replicant D-ignition]]이 시작되면서 [[페이크 최종 보스&진 최종 보스|페이크 최종보스]]로 전락했다(...).
+
+== 해금 방식 ==
+ * 각 조건에 해당하는 곡을 플레이하게 되면 메달을 1개씩 획득한다.
+ * 일정수의 메달을 모으면 선곡화면에 'BOSS ON PARADE' 폴더가 등장, 폴더안에 해당곡을 플레이 할 수 있다.
+  * 프리미엄 플레이를 하면 폴더는 어느 스테이지에서나 뜨며, 노멀 플레이는 파이널 스테이지에서만 뜬다.
+ * 완전히 해금되기 전까지는 강제로 LIFE 4 게이지로 플레이해야 한다.
+  * 노멀 플레이라도 LIFE 4 게이지로 플레이한다.
+ * 메달을 모아서 플레이 했다면 보석 2개를, VERSUS 플레이로 보스곡을 플레이 했다면 클리어 여부에 관계없이 메달 1개를 얻는다.
+ * 보석이 모인 만큼 다음 소환을 위한 필요 메달수가 감소한다. 연출 상으로는 모인 보석이 메달 슬롯에 고정된다. 1회 플레이 후라면 필요 메달은 8개.
+ * 보석 개수가 10개가 되면 해당 곡을 완전히 해금하게 된다.
+
+2015년 2월 16일에 해금 방식이 완화되었다.
+
+ * 조건에 해당하는 곡을 반복해서 플레이해도 메달을 획득할 수 있다.
+ * 대상곡에 풍선 마크가 떠서 대상곡인지 아닌지 곡을 선택할 때 알 수 있다.
+ * 조건에 해당하지 않는 곡을 플레이하면 메달의 조각을 얻는다. 조각 4개가 모이면 하나의 메달이 된다. 메달의 조각을 다 모아서 메달을 완성하면 메달의 조각을 얻는 우선조건을 다시 계산한다.
+  * 메달의 조각이 쌓이는 우선조건은 다음과 같다.
+   1. 보석이 적은 곡
+   2. 메달이 많이 모인 곡
+   3. 메달 UI에서 위의 곡
+
+Truare!를 돌파하면 다음 이벤트인 [[Replicant D-ignition]]으로 진행된다. 항목 참조.
+
+== 해금곡 ==
+|| 제목 || 아티스트 || 출전 || BPM ||
+|| [[海神]] || [[DJ TOTTO|兎々]] || [[리플렉 비트 콜레트]] Summer || 159 ||
+|| [[クリムゾンゲイト]] || 工藤吉三(ベイシスケイプ) || [[GITADORA]] || 198 ||
+|| [[Plan 8]] || [[Ryu☆]] || [[beatmania IIDX 20 tricoro]] || 212 ||
+|| [[Remain]] || [[wac|ZERO]]+[[kors k|ZIBA]] || [[팝픈뮤직 19 TUNE STREET]] || 75-300[* 150-75-150-75-300] ||
+|| [[FUNKY SUMMER BEACH]] || [[P*Light]] || [[유비트 소서 풀필]] || 88-175 ||
+## 메달 UI 순서대로 맞춰주세요
+|| '''[[Truare!]]'''[* 위 5곡을 상주시키면 EXTRA STAGE 한정으로 보스 폴더에 출현] || [[Akhuta]] || [[Dance Dance Revolution(2014)|DDR 2014]] || 183 ||
+
+== 조건 대상곡 ==
+ * 우선순위는 아래 목차의 순서대로이다.
+ * 모든 일반보스 곡은 자기자신의 조건곡이다. 이는 아직 해금하지 못한 사람과 플레이할 때 메달을 주기 위해서이다.
+ * {{{#FFCCCC ■}}} 핑크색 배경은 [[EXTRA ATTACK]] 해금곡, {{{#F7EBC9 ■}}} 황색 배경은 [[발견! 되살아난 BEMANI 유적]] 해금곡.
+
+=== [[海神]] ===
+ * 조건 : 리플렉 비트 시리즈에서 HARD 난이도의 레벨이 10+인 곡(연동곡 제외)
+
+|| 버전 || 제목 || 아티스트 ||
+|| EXT || [[The Least 100sec]] || [[사사키 히로후미|Hirofumi Sasaki]] ||
+|| X2 || [[FIRE FIRE]] || [[kors k|StripE]] ||
+|| X3 || [[FLOWER]] || [[DJ YOSHITAKA]] ||
+|| 2013 || [[Chinese Snowy Dance]] || [[이즈미 무츠히코|Mutsuhiko Izumi]] ||
+|| 2014 ||<#FFCCCC> [[True Blue]] || [[dj TAKA]] feat.AiMEE ||
+|| 2014 ||<#FFCCCC> [[Daily Lunch Special]] || [[DJ YOSHITAKA|Lucky Vacuum]] ||
+|| 2014 ||<#FFCCCC> [[ÆTHER]] || [[TAG]] underground ||
+|| 2014 ||<#F7EBC9> [[Nostalgia Is Lost]] || [[U1-ASAMi|U1 overground]] ||
+|| 2014 ||<#F7EBC9> [[JOMANDA]] || [[DJ YOSHITAKA]] ||
+|| 2014 ||<#FFCCCC> [[灼熱Beach Side Bunny]] || [[DJ Mass MAD Izm*]] ||
+|| 2014 || [[海神]] || [[DJ TOTTO|兎々]] ||
+
+FIRE FIRE, 灼熱Beach Side Bunny(クリムゾンゲイト의 조건과 맞음)와 JOMANDA, True Blue(FUNKY SUMMER BEACH의 조건과 맞음)는 이 조건에 먼저 들어간다.
+
+=== [[クリムゾンゲイト]] ===
+ * 조건 : 제목에 '붉은색'을 연상시키는 단어[* 「FIRE」「RED」「BURN」「紅」「Phoenix」「クリムゾン」]가 들어가는 곡.
+
+|| 버전 || 제목 || 아티스트 ||
+|| 2nd || [[BOOM BOOM DOLLAR|Boom Boom Dollar ('''Red''' Monster Mix)]] || King Kong & D. Jungle Girls ||
+|| 4th || '''BURN'''IN' THE FLOOR || [[NAOKI]] ||
+|| MAX2 || '''BURN'''IN' THE FLOOR (BLUE '''FIRE''' mix) || NAOKI ||
+|| MAX2 || '''Burn'''ing Heat! (3 Option Mix) || [[Mr.T]] with [[후루카와 모토아키|Motoaki.F]] ||
+|| SN || [[RED ZONE|'''RED''' ZONE]] || [[Tatsh]] & NAOKI ||
+|| SN2 || '''[[FIRE]]''' || [[이즈미 무츠히코|泉 陸奥彦]] ||
+|| SN2 || [[TRIP MACHINE PhoeniX|TRIP MACHINE '''PhoeniX''']] || [[NAOKI|DE-SIRE改]] ||
+|| X || Flight of the '''Phoenix''' || Jena Rose ||
+|| X || Taj He Spitz (Tommie Sunshine's Brooklyn '''Fire''' Re-Touch) || DKC Crew ||
+|| X3 || [[紅焔|'''紅'''焔]] || [[PON]] ||
+|| 2014 ||<#FFCCCC> Party Lights (Tommie Sunshine's Brooklyn '''Fire''' Remix) || Tommie Sunshine ||
+|| 2014 || [[クリムゾンゲイト|'''クリムゾン'''ゲイト]]] || 工藤吉三(ベイシスケイプ) ||
+
+=== [[Plan 8]] ===
+ * 조건 : beatmania IIDX에서 장르명에 "HAPPY"가 들어가는 곡
+
+|| 버전 || 제목 || 아티스트 || 장르명 ||
+|| 4th || Don't Stop!～AMD 2nd MIX～ || Dr.VIBE feat. JP Miles || '''HAPPY''' HANDBAG ||
+|| MAX2 || Sweet Sweet ♥ Magic || [[jun]] || '''HAPPY''' HARDCORE ||
+|| EXT || [[LOVE♥SHINE]] || [[코사카 리유|小坂りゆ]] || J-'''HAPPY''' HARDCORE ||
+|| SN || [[ヒマワリ]] || RIYU from [[BeForU]] || J-'''HAPPY''' HARDCORE ||
+|| SN || HAPPY☆ANGEL || jun with TAHIRIH || '''HAPPY''' HARDCORE ||
+|| SN || [[rainbow rainbow]] || [[Ryu☆]] || '''HAPPY''' HARDCORE ||
+|| X2 || [[I'm so Happy]] || Ryu☆ || '''HAPPY''' HARDCORE ||
+|| X2 || [[sakura storm]] || Ryu☆ || '''HAPPY''' HARDCORE ||
+|| X3 || [[ビューティフル レシート]] || [[DJ YOSHITAKA|Lucky Vacuum]] || '''HAPPY''' HARDCORE ||
+|| 2014 ||<#FFCCCC> [[Engraved Mark]] || Ryu☆ ∞ [[Des-ROW]] || '''HAPPY''' SAD CORE ||
+|| 2014 ||<#FFCCCC> [[starmine]] || Ryu☆ || '''HAPPY''' HARDCORE ||
+|| 2014 || [[Plan 8]] || Ryu☆ || '''HAPPY''' GABBA ||
+
+I'm so Happy(FUNKY SUMMER BEACH의 조건과 맞음)는 이 조건에 먼저 들어간다.
+
+=== [[Remain]] ===
+ * 조건 : 팝픈뮤직 폴더에 있는 곡 중 [[wac]]이나 [[kors k]]가 관여한 곡
+
+|| 버전 || 제목 || 아티스트 ||
+|| SN || [[怒れる大きな白い馬]] || '''[[wac|Morning Blue Dragon]]''' ||
+|| SN || [[murmur twins]] || [[토키와 유우|yu_tokiwa]].'''[[wac|djw]]''' ||
+|| SN2 || [[Votum stellarum]] -forest #25 DDR RMX- || '''iconoclasm'''[*† [[dj TAKA]], '''[[wac]]'''] ||
+|| X2 || [[smooooch・∀・]] || '''kors k''' ||
+|| X3 || 繚乱ヒットチャート || '''[[wac|ギラギラメガネ団]]''' ||
+|| X3 || [[SigSig]] || '''kors k''' ||
+|| 2013 || [[創世ノート]] || [[PON]]+'''wac''' ||
+|| 2013 || [[The Wind of Gold]] || '''kors k''' ||
+|| 2014 ||<#FFCCCC> [[轟け！恋のビーンボール！！]] || '''ダイナミック野球兄弟'''[* [[L.E.D.]], '''[[wac]]'''] v.s. クロスファイヤー[[Prim]] ||
+|| 2014 ||<#FFCCCC> [[Idola]] || '''iconoclasm'''[*†] feat.GUMI ||
+|| 2014 ||<#F7EBC9> [[KHAMEN BREAK]] || '''くふおー'''[*  [[이즈미 무츠히코|泉 陸奥彦]], '''[[wac]]''', [[DJ TOTTO]], [[TAG]], [[Hommarju]], [[Cody]]] ||
+|| 2014 || [[Go↓Go↑Girls&Boys!]] || [[마츠시타(우타이테)|松下]]feat.[[후지모리 소타|Sota]] & '''[[wac]]''' ||
+|| 2014 || [[Remain]] || '''[[wac|ZERO]]'''+'''[[kors k|ZIBA]]''' ||
+
+The Wind of Gold(FUNKY SUMMER BEACH의 조건과 맞음)는 이 조건에 먼저 들어간다.
+
+=== [[FUNKY SUMMER BEACH]] ===
+ * 조건 : 유비트 시리즈에서 처음 수록된 곡 (연동곡 제외) (단 댄스 댄스 레볼루션 및 유비트 동시 수록곡은 포함한다.)
+
+|| 버전 || 제목 || 아티스트 || 유비트 시리즈 첫 출전 ||
+|| X || [[Chance and Dice]] || 日本少年 || [[유비트]] ||
+|| X2 || [[Theory of Eternity]] || [[TAG]] || [[유비트 니트 어펜드]] & DDR X2 ||
+|| X3 || [[アルストロメリア]] (walk with you remix) || TAG || [[유비트 코피어스]] ||
+|| X3 || [[隅田川夏恋歌]] || [[무라이 세이야|seiya-murai]] feat.[[ALT]] || [[유비트 리플즈]] ||
+|| X3 || [[TWINKLE♡HEART]] || [[jun]] || [[유비트 코피어스 어펜드]] & DDR X3 ||
+|| 2013 || [[Sweet Rain]] || [[Y&Co.]] feat. Karin || [[유비트 니트]] ||
+|| 2013 || [[Magnetic]] || [[후지모리 소타|Sota Fujimori]] || [[유비트 소서]] ||
+|| 2013 || [[フー ・フローツ]] || Nanako || 유비트 소서 ||
+|| 2013 || [[PRANA]] || TAG || 유비트 소서 ||
+|| 2013 || [[†渚の小悪魔ラヴリィ～レイディオ†]] || 夏色ビキニの[[Prim]] || 유비트 소서 ||
+|| 2014 || [[Romancing Layer]] || TAG || 유비트 소서 ||
+|| 2014 || [[FUNKY SUMMER BEACH]] || [[P*Light]] || [[유비트 소서 풀필]] ||
+
+== 여담 ==
+[[DJ TECHNORCH]]의 앨범 중에 BOSS ON PARADE라는 제목의 앨범이 있긴 한데, 이 이벤트와는 무관하다.

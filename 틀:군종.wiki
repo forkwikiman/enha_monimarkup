@@ -1,0 +1,10 @@
+||<#FFFFFF><tablealign=center><tablewidth=60%><-6> '''[[군종|<span style="color:DarkGoldenrod">군종(軍種)</span>]] [[br]] ([[준군사조직|<span style="color:DarkSlateGray">준군사조직 포함</span>]])''' ||
+||<-6><#800080> '''{{{#FFFFFF 일반 편성}}}''' ||
+||<#F0F8FF><-2> '''[[육군|<span style="color:DarkGreen">육군</span>]]''' ||<#F0F8FF><-2> '''[[해군|<span style="color:Navy">해군</span>]]''' ||<#F0F8FF><-2> '''[[공군|<span style="color:DodgerBlue">공군</span>]]''' ||
+||<#4B0082><-6> '''{{{#FFFFFF 특수 편성}}}''' ||
+||<#E6E6FA><-2> [[연방공공보건서비스부대|공공보건서비스부대]] ||<#E6E6FA> [[공공부대]] ||<#E6E6FA> [[공수부대]] ||<#E6E6FA> [[의무군]] ||<#E6E6FA> [[국가 헌병대]] ||
+||<#E6E6FA> [[국경경비대]] ||<#E6E6FA> [[내무군]] ||<#E6E6FA> [[민병대]] ||<#E6E6FA> [[방공군]] ||<#E6E6FA> [[사이버군]] ||<#E6E6FA> [[연합군]] ||
+||<#E6E6FA> [[우주군]] ||<#E6E6FA> [[전략로켓군]] ||<#E6E6FA> [[군수군]] ||<#E6E6FA> [[친위대]] ||<#E6E6FA> [[통합군]] ||<#E6E6FA> [[특수부대|특수작전군]] ||
+||<#E6E6FA> [[합동군]] ||<#E6E6FA> [[연방해양대기청|NOAA 파견부대]] ||<#E6E6FA> [[예비군]] ||<#E6E6FA> [[해안 경비대]] ||<#E6E6FA> [[해병대]] ||<#E6E6FA>　||
+||<-6><#663399> '''[[방위병|<span style="color:RebeccaPurple">　　　방위병　　　</span>]]''' ||
+

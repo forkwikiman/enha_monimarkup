@@ -1,0 +1,64 @@
+ * 상위 항목: [[포켓몬스터/지역]]
+
+'''マダツボミのとう''' ''Sprout Tower''
+
+||<tablealign=center><-2> attachment:/Sprout_Tower_HGSS.png ||
+||<#dcdcdc><-2> '''지도 설명''' ||
+||<-2> ''포켓몬과 함께 지내기를 기원하며 수행에 힘쓰는 탑'' ||
+||<#dcdcdc><-2> '''위치''' ||
+||<-2> attachment:/Johto_Sprout_Tower_Map.png ||
+||<#dcdcdc><-2> '''인접 지역''' ||
+|| [[도라지시티]] ||
+
+[[목차]]
+
+== 개요 ==
+--모다피 덕후들이 사는 탑--
+[[성도지방]]의 [[도라지시티]]에 위치한 탑이다. 탑 중앙의 흔들리는 기둥은 거대한 모다피의 몸이라고 전해지고 있어서 이런 이름이 붙었다.
+
+이 탑을 지키는 승려들과 싸울 수 있으며[* 승려들은 모두 [[우츠보트|모다피]]와 [[야부엉|부우부]]로 구성된 파티를 사용한다.], 장로를 이기면 '[[플래시(포켓몬스터)|플래시]]'를 받을 수 있다.[* [[플래시(포켓몬스터)|플래시]]는 2세대에서는 비전 기술이었으며, 4세대 이후로는 일반 기술이다.]
+
+2세대에서는 지나쳐도 되는 부분이지만, 4세대에서는 모다피의탑을 클리어하지 않으면 체육관전을 할 수 없다.
+
+== 모습 ==
+||<tablealign=center><#dcdcdc><:><-4> 외부 ||
+||<rowbgcolor="#dcdcdc"><:> 2세대 || 4세대 ||
+|| attachment:/Sprout_Tower_GSC.png?width=190 || attachment:/Sprout_Tower_HGSS.png?width=190 ||
+
+||<tablealign=center><#dcdcdc><:><-4> 내부 ||
+||<rowbgcolor="#dcdcdc"><:> 1층 || 2층 || 3층 ||
+|| attachment:/Sprout_Tower_1F_GSC.png?width=190 || attachment:/Sprout_Tower_2F_GSC.png?width=190 || attachment:/Sprout_Tower_3F_GSC.png?width=190 ||
+
+== 습득 가능 아이템 ==
+||<tablealign=center><rowbgcolor="#dcdcdc"><:><-2> 아이템 || 습득 방법 || 게임 ||
+|| attachment:/Parlyz_Heal_Sprite.png || 마비치료제 || 1층 || [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+|| attachment:/X_Defend_Sprite.png || 디펜드업 || 2층 || [wiki:"포켓몬스터 금·은" 금·은] ||
+|| attachment:/X_Accuracy_Sprite.png || 잘-맞히기 || 2층 || [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+|| attachment:/Potion_Sprite.png || 상처약 || 3층 || [wiki:"포켓몬스터 금·은" 금·은][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+|| attachment:/Escape_Rope_Sprite.png || 동굴탈출로프 || 3층 || [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+|| attachment:/HM_Normal_Sprite.png || [[비전머신]]05 [[플래시(포켓몬스터)|플래시]] || 장로를 이기면 받는다. || [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈] ||
+|| attachment:/TM_Normal_Sprite.png || [[기술머신]]70 [[플래시(포켓몬스터)|플래시]] || 장로를 이기면 받는다. || [wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+
+== 야생 포켓몬 ==
+||<tablealign=center><rowbgcolor="#dcdcdc"><:><-2> 포켓몬 || 타입 || 게임 ||
+|| attachment:/Pokemon_icon_019.png || [[꼬렛]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+|| attachment:/Pokemon_icon_092.png || [[고오스]] || [[wiki:"포켓몬스터/타입/설명#s-2.14"attachment:/Pokemon_Type_Ghost.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+||||||||<tablealign=center><rowbgcolor="#65CF65"><:> 호연 사운드 ||
+|| attachment:/Pokemon_icon_263.png || [[직구리|지그제구리]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+|| attachment:/Pokemon_icon_327.png || [[얼루기]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+||||||||<tablealign=center><rowbgcolor="#9f9982"><:> 신오 사운드 ||
+|| attachment:/Pokemon_icon_307.png || [[요가랑]] || [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || [wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+|| attachment:/Pokemon_icon_441.png || [[페라페]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || [wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+
+== 트레이너 ==
+ * 수행자 '진연', '묵연', '[[영창]]'
+  * [[우츠보트|모다피]] ♂ Lv.3(3마리)
+ * 수행자 '상연', '가연'
+  * 모다피 ♂ Lv.6
+ * 수행자 '명연'
+  * 모다피 ♂ Lv.7
+  * [[야부엉|부우부]] ♂ Lv.7
+ * 장로 '청성'
+  * 모다피 ♂ Lv.7(2마리)
+  * 부우부 ♂ Lv.10  
+ 

@@ -1,0 +1,41 @@
+attachment:gs.png
+##자켓이 저화질이니 고화질 자켓을 구하면 수정해주세요.
+
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/YjopYfPFZyU" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||<#eeeeee>
+발소리 한 걸음 한 걸음이 거칠어서, 땅울림을 일으킬 것 같은 거인의 이미지를
+Hardstyle(하드스타일) 이라는 장르로 표현해 보았습니다!
+이 곡을 만든 시간 전체를「10」이라고 했을 때
+킥(베이스 드럼)음을 만드는 시간만으로「5」는 썼다고 생각합니다!
+커다람! 거대함으로 압도하는 사운드! 그대는 쓰러트릴 수 있을까!? 전 도망갑니다! [[난보쿠선(삿포로 시영 지하철)|난보쿠선]][* 난보쿠선은 [[삿포로]]의 지하철 노선으로, 작곡가인 RoughSketch의 거주지가 삿포로.]으로 도망갑니다.
+
+- [[RoughSketch]], [[리플렉 비트 그루빈]] OST 코멘트
+||
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[beatnation RHYZE]]의 [[RoughSketch]]. 그리스 신화에 등장하는 외눈 거인 [[사이클롭스]]를 테마로 한 [[하드스타일]] 악곡이다.
+
+== [[리플렉 비트 시리즈]] ==
+[[include(틀:MYSTICAL STRIKE)]]
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/TigB1ueKaiI" frameborder="0" allowfullscreen></iframe>
+}}}
+HARD 99.6% FC 영상. 플레이어는 N.C.H.T.
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 152 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4 }}} || {{{#orange 7 }}} || {{{#red 10 }}} ||
+|| 오브젝트 || {{{#green 152}}} || {{{#orange 294}}} || {{{#red 622}}} ||
+|| 수록버전 ||||||||<#f6ec01> [리플렉 비트 그루빈] ||
+
+2014년 9월 12일 [[MYSTICAL STRIKE]] 해금곡으로 수록되었다. 환수 사이클롭스를 격파하면 해금할 수 있다.
+
+하드패턴은 동시치기 + 롱노트 위주인 패턴.
+특별히 어려운 구간이 있는건 아니지만, 박자가 조금 꼬여있어 한두번 해보기전에는 스코어링에 애로가 꽃필수도 있다.

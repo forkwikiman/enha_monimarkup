@@ -1,0 +1,28 @@
+attachment:MAXX%20Unlimited/MAXX_UNLIMITED.png
+
+{{{#!html
+<embed src="//www.youtube.com/v/pyq9Dsc4Nz4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/XTidyRaG-Ao" frameborder="0" allowfullscreen></iframe>}}}
+
+[[댄스 댄스 레볼루션]]의 정규 7번째 작품인 DDRMAX2 수록곡. 작곡은 Z 명의를 사용한 [[NAOKI]].
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple X-SPECIAL}}} ||
+|| {{{#blue 5}}} || {{{#orange 10}}} || {{{#red 13}}} || {{{#green 16}}} || {{{#purple 18}}} ||
+||<|3> 140~320|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple X-SPECIAL}}} ||
+|| || {{{#orange 7}}} || {{{#red 12}}} || {{{#green 15}}} || {{{#purple 18}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+[[MAX 300]]에 이은 [[NAOKI]]의 2번째 MAX 시리즈.[* [[MAX.(period)]]같은 리믹스 곡은 제외.] 출현 당시에는 DDRMAX2의 엑스트라 스테이지 전용 곡으로 존재했으며, 1.5배속+REVERSE 옵션이 강제로 걸려있었다. 이 곡을 AA 랭크 이상으로 클리어하면 출현하는 곡이 [[革命]].
+
+EXPERT 채보의 경우, DDR X에서 새롭게 등장한 20레벨 난이도 체계에서는 15를 부여받았으나, X3 vs 2nd MIX에서 16으로 상승했다.
+
+DDR X에서 X-SPECIAL이란 이름으로 신규 채보가 추가되었다. 싱글은 18중 약체 취급을 받는 편이지만 더블 챌린지의 경우 18중에서도 상급 위치의 채보다. DDR X 당시에는 [[Trigger]]의 더블 챌린지가 해당 작품의 보스곡 포지션이였지만 이 곡의 더블 X-SPECIAL이 더 어렵다는 의견도 꽤 많다. 첫 수록 당시엔 17로 수록되어서 상당히 [[불렙곡]]이였지만, 다음작인 X2에서 18로 상승했다.
+
+[[桜(비마니 시리즈)|桜]]의 베이스가 된 곡이 바로 이 곡이다.

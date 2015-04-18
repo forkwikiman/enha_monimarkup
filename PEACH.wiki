@@ -1,0 +1,38 @@
+[[목차]]
+
+== 개요 ==
+http://otsukaai.up.seesaa.net/image/peach.jpg?width=250
+이 곡이 실린 싱글음반 PEACH/HEART의 자켓
+
+http://ecx.images-amazon.com/images/I/31C1JjokZ5L.jpg
+오오츠카 아이의 4집 LOVE PiECE의 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/KoRt3TNHY8U" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+[[오오츠카 아이]]의 노래. 싱글음반 'PEACH/HEART'에 먼저 수록되고 나서 오오츠카 아이의 네번째 정규음반 'LOVE PiECE'에 수록되었다. 
+
+== [[리듬게임]]에 수록 ==
+=== [[태고의 달인]] ===
+[[태고의 달인]]에서는 DS2와 AC 12에서 등장한 바 있다. [[추가바람]]
+
+=== [[유비트 시리즈]] ===
+http://img.i-revo.jp/jubeat/img/ida78397f8188536a9a60bba3f31555b8e.jpg
+
+||||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>2||<:>4||<:>6||
+||<#faca00><:>노트수||||<:>163||<:>293||<:>383||
+||<#faca00><:>BPM||||||||<:>146||
+||<#faca00><:>곡 이력||||||||[[유비트]]에서 첫 수록[[BR]][[유비트 플러스]]에서 music pack 17에 수록[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+커버 보컬로 수록되었다.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/sh04SBocEtg?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sh04SBocEtg?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+EXTREME 영상

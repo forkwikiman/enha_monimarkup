@@ -1,0 +1,6 @@
+||<tablealign=center><-7> attachment:/germany4.gif?width=30 &nbsp;&nbsp;&nbsp; '''[[독일]]과 [[오스트리아]]의 [wiki:"열차의 등급" 열차 등급]''' &nbsp;&nbsp;&nbsp; attachment:/aus.png?width=30 ||
+||<|2><#ffffff> '''장거리 열차''' ||<-2><#ff0000> {{{#ffffff 고속열차 }}} || [wiki:"인터시티익스프레스" Intercity-Express] || [[Railjet]] || [wiki:"탈리스" Thalys] ||
+||<-2><#ffffff> {{{#ff0000 특급열차 }}} || [wiki:"인터시티" Intercity / EuroCity] || [wiki:"유로나이트" EuroNight / City Night Line] || [wiki:"D" Durchgangszug] ||
+||<|3><#eeeeee> '''중단거리 열차''' ||<-2><#ff0000> {{{#ffffff 급행열차 }}} ||<-3> [wiki:"RE" Regional-Express / Interregio-Express] ||
+||<-2><#0000ff> {{{#ffffff 보통열차 }}} ||<-3> Regionalbahn ||
+||<-2><#018243> {{{#ffffff 광역철도 }}} ||<-3> [wiki:"S반" S-Bahn] ||

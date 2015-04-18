@@ -1,0 +1,97 @@
+||<-5><#505050><tablealign=center> '''프로필''' ||
+||<|12> attachment:/265px-HeartGold_SoulSilver_Petrel.png?align=center&width=180 ||
+||<#505050> '''이름''' ||<#d2d2d2> 람다 ||
+||<#505050> '''성별''' ||<#d2d2d2> [[남성]] ||
+||<#505050> '''눈 색깔''' ||<#d2d2d2> [wiki:"눈/검은색" 흑색] ||
+||<#505050> '''머리 색깔''' ||<#d2d2d2> [wiki:"머리카락/보라색" 보라색] ||
+||<#505050> '''트레이너 계급''' ||<#d2d2d2> 로켓단 간부 ||
+||<#505050> '''지방''' ||<#d2d2d2> [[성도지방]] ||
+||<#505050> '''출신지''' ||<#d2d2d2> 불명 ||
+||<#505050> '''가족관계''' ||<#d2d2d2> 불명 ||
+||<#505050> '''데뷔작''' ||<#d2d2d2> [[포켓몬스터 금·은]] ||
+||<#505050> '''세대''' ||<#d2d2d2> 2, 4 ||
+||<#505050> '''등장 게임''' ||<#d2d2d2> [wiki:"포켓몬스터 금·은" 금·은] / [wiki:"포켓몬스터 크리스탈 버전" 크리스탈][[br]][wiki:"포켓몬스터 하트골드·소울실버" 하트골드·소울실버] ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/악의 조직)]]
+
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물.
+
+행방불명된 보스 [wiki:"비주기(포켓몬스터)" 비주기] 대신 조직을 이끌고 있는 [[로켓단]]의 간부 4인 중 한 명. 타인으로 감쪽같이 위장할 수 있는 변장술이 특기인 변장의 달인으로 작중에선 비주기 등의 타인으로 손쉽게 변장하는 모습을 보여준다.
+
+== 작중 행적 ==
+[[황토마을]]에 들어서면 [[분노의호수]]에 갑작스레 [[갸라도스]]가 부쩍 늘어나 난동을 부리고 있다는 사실을 마을주민에게서 들을 수 있다. 이는 로켓단이 퍼트린 괴전파의 영향 때문에 호수에 서식하는 [[잉어킹]]들이 인위적으로 갸라도스로 진화해버린 것. 로켓단은 이 갸라도스들을 포획하여 무력 수단으로 쓰려는 음모를 꾸미고 있었다. 이 계획을 막기 위해 전파의 근원지인 로켓단 아지트에 숨겨진 전파장치방의 패스워드를 알아내기 위하여 아지트 내부를 탐색해야 하는데, 아지트 깊숙한 곳으로 향하다보면 비주기로 변장 한 채 숨어있는 람다를 발견할 수 있으며 람다에게 승리할 시 패스워드를 해제할 수단을 얻게 된다.
+
+로켓단의 [[금빛시티]] 라디오타워 점거 사건 때도 라디오타워 국장으로 변장해 국장 행세를 하고 있었다. 여기서 람다를 쓰러트리면 진짜 국장이 갇혀 있는 지하통로 열쇠를 순순히 넘겨받을 수 있다. 그리고 갇혀있던 국장을 구출해주면 로켓단이 라디오 타워를 이용하여 이상한 전파를 수신해 포켓몬을 조종하려고 할 지도 모른다는 사실을 들을 수 있는데, 분노의 호수의 전파 소동은 이를 위한 예비 실험이기도 한 것으로 추측된다. 이후 간부 중 대표격이었던 아폴로가 주인공에게 패배한 뒤엔 해산된 로켓단과 함께 자취를 감춰 행방불명된다.
+
+== 기타 ==
+=== 관련 테마곡 ===
+||<#ededed> * 로켓단의 테마
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile4.uf.tistory.com/media/2421D64F52177E892E14B1"></object>
+}}}
+
+ * 라디오탑 점거!
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile8.uf.tistory.com/media/241ED14B52815C6D251A2E"></object>
+}}}
+
+ * 전투! 로켓단
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile10.uf.tistory.com/media/2659E04F52177E8D17C172"></object>}}}||
+
+=== 기타 ===
+ * 본래 4세대 포켓몬스터 하트골드·소울실버에서 등장한 로켓단 간부 캐릭터 네 명의 원형은 [[포켓몬스터 금·은]]을 비롯한 2세대 시리즈에서 나온 바 있는 이름없는 양산형 로켓단 간부 NPC들이다. 하트골드·소울실버로 리메이크되며 금·은에서의 남성 간부 캐릭터의 역할을 랜스, 람다, 아폴로가 이어받고 여성 간부 캐릭터의 역할을 아테나가 이어받은 것.
+
+=== 삽화 ===
+||<-4><tablealign=center><#505050> {{{#ffffff 스프라이트}}} ||
+|| attachment:/Spr_GS_Rocket_Executive_M.png || attachment:/Spr_HGSS_Petrel.png || attachment:/VSPetrel.png || attachment:/Petrel_OD.png ||
+|| 트레이너[[br]](2세대) || 트레이너[[br]](4세대) || VS || 필드 ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#505050"><:> {{{#ffffff 언어}}} || {{{#ffffff 이름}}} || {{{#ffffff 유래}}} ||
+|| 일본어 || 라무다 ラムダ || 일본의 [[로켓]] 이름인 '람다'에서. ||
+|| 한국어 || 람다 || 일칭과 동일. ||
+|| 영어 || 페트릴 Petrel ||  ||
+
+= 소유 포켓몬 =
+== 1차전 ==
+||<tablealign=center><#993399> attachment:/Spr_4h_041_m.png ||<#993399> attachment:/Spr_4h_109.png ||<#999966> attachment:/Spr_4h_020_m.png ||
+||<rowbgcolor="#dcdcdc"><:> [wiki:"크로뱃" 주뱃] ♂[[br]](Lv.22) || [wiki:"또도가스" 또가스] ♂[[br]](Lv.22) || [[레트라]] ♂[[br]](Lv.24) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.8" attachment:/Pokemon_Type_Poison.png]][[wiki:"포켓몬스터/타입/설명#s-2.10" attachment:/Pokemon_Type_Flying.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.8" attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.1" attachment:/Pokemon_Type_Normal_2.png]] ||
+|| __특성__ :[[br]]정신력 || __특성__ :[[br]]부유 || __특성__ :[[br]]근성 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[놀래키기]][[br]][[물기]][[br]][[날개치기]][[br]][[이상한빛]] || __기술배치__ :[[br]][[스모그]][[br]][[연막]][[br]][[승부굳히기]][[br]][[자폭]] || __기술배치__ :[[br]][[필살앞니]][[br]][[기습]][[br]][[겁나는얼굴]][[br]][[깨물어부수기]] ||
+
+
+== 2차전 ==
+||<tablealign=center><#993399> attachment:/Spr_4h_109.png ||<#993399> attachment:/Spr_4h_109.png ||<#993399> attachment:/Spr_4h_109.png ||<#993399> attachment:/Spr_4h_109.png ||<#993399> attachment:/Spr_4h_109.png ||<#993399> attachment:/Spr_4h_110.png ||
+|| 또가스 ♂[[br]](Lv.30) || 또가스 ♂[[br]](Lv.30) || 또가스 ♂[[br]](Lv.30) || 또가스 ♂[[br]](Lv.30) || 또가스 ♂[[br]](Lv.30) || [[또도가스]] ♂[[br]](Lv.32) ||
+|| __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] || __타입__ :[[br]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] ||
+|| __특성__ :[[br]]부유 || __특성__ :[[br]]부유 || __특성__ :[[br]]부유 || __특성__ :[[br]]부유 || __특성__ :[[br]]부유 || __특성__ :[[br]]부유 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 ||
+|| __기술배치__ :[[br]][[몸통박치기]][[br]][[연막]][[br]][[오물공격]][[br]][[자폭(포켓몬스터)|자폭]] || __기술배치__ :[[br]][[몸통박치기]][[br]][[연막]][[br]][[오물공격]][[br]][[자폭(포켓몬스터)|자폭]] || __기술배치__ :[[br]][[몸통박치기]][[br]][[연막]][[br]][[오물공격]][[br]][[자폭(포켓몬스터)|자폭]] || __기술배치__ :[[br]][[몸통박치기]][[br]][[연막]][[br]][[오물공격]][[br]][[자폭(포켓몬스터)|자폭]] || __기술배치__ :[[br]][[몸통박치기]][[br]][[연막]][[br]][[오물공격]][[br]][[자폭(포켓몬스터)|자폭]] || __기술배치__ :[[br]][[몸통박치기]][[br]][[연막]][[br]][[오물공격]][[br]][[대폭발]] ||
+
+~~하나같이 짜증나는 기술들이다~~
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 SPECIAL]]에서 ==
+attachment:/Rocket_Executives_Adventures.png?width=300
+
+제9장 하트골드·소울실버 편에서 부활한 신 로켓단의 4장군 중 한 명. 게임과 마찬가지로 변장이 특기지만 오히려 게임보다 훨씬 더 높은 퀄리티의 변장 기술을 펼쳐 [[wiki:"실버(포켓몬스터 SPECIAL)" 실버]]를 눈 앞에서 농락한다. 4장군마다 각기 다른 역할 담당을 맡고 있었는데 람다의 경우 모든 플레이트를 찾는 것이었다.
+우연히 실버가 비주기의 아들이란 사실을 알게 된 후, 실버를 회유해 자신이 실버를 돕는 대신 다른 4장군들을 내치고 자신을 비주기의 오른팔로 만들어달라고 한다. 물론 씨도 안 먹혔다.

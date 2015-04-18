@@ -1,0 +1,74 @@
+ * [[포켓몬스터/등장인물/트레이너]]
+
+||<tablealign=center> attachment:/VS_Occult_Maniac_XY_artwork.png?width=530 ||
+||<#dcdcdc> 6세대의 오컬트마니아 ||
+
+[[목차]]
+
+= 개요 =
+[[포켓몬스터]] 시리즈의 트레이너 계급.
+
+3세대 시리즈에서 첫등장한 [[포켓몬 트레이너]]의 한 종류로 고스트 타입과 에스퍼 타입의 포켓몬을 주로 사용한다. 3세대 당시의 외관은 마녀를 연상 시키는 복장에 동그란 안경을 쓴 모습이었지만 6세대에선 단정하지 않은 검은 장발과 맛이 간듯한 눈을 지닌 음침한 분위기의 캐릭터가 되었다.
+
+[[칼로스지방]]에서는 미르시티에서 '''한 귀신'''과 호텔에 있는 엘레베이터 소리를 들으려는(...) NPC를 미리 만날 수 있다. 트레이너로서는 페어를 이루는 메르헨소녀와 같이 본격적으로 14번도로부터 출연한다. 아마 [[후늬시티|그 근처 도시]] 분위기상 그런듯하다.[* 그런데 저 귀신 이벤트를 노린것일수도 있다는(...) 의견도 있다.] 미르시티 이전까지는 코빼기도 안보이다가 14번도로 이후부터는 꽤 자주 볼 수 있는 NPC다.
+
+[[버들비마을]]에서 튼튼밀크를 파는 NPC도 오컬트마니아 모델링을 사용하며 그 덕분에 [[밀탱크]] 취급당하기도 하는데, 이러한 [[네타 캐릭터]] 요소 덕분에 6세대의 NPC 캐릭터 중에선 앵간한 칼로스 [[체육관 관장]] 보다 높은 인기도를 자랑한다. 오컬트마니아와 맞먹는 인기를 누리는 NPC 캐릭터는 [[기모노드레스]] 뿐이다. 다만 [[미르시티]]에 있는 호러 스팟에서 나오는 귀신의 모델링으로도 사용된 탓에 이 캐릭터 자체에 트라우마를 느끼는 사람도 적지않게 있는 듯하다.[* 특히나 미르시티의 호텔의 오컬트마니아를 먼저 보거나 무시하고 14번도로로 가지 않는 이상 그 귀신이 첫번째 오컬트마니아 때문에 더더욱 그런 공포심을 느낄 수 있다.] 인기가 많아서인지 이후 3세대 리메이크인 오메가루비·알파사파이어에서도 X·Y에서의 모습으로 등장한다.
+
+== 그외 ==
+=== 기타 ===
+ * 6세대에선 더블배틀시에 메르헨소녀하고만 팀을 맺는다. 이때의 트레이너 계급은 '이상한 자매'.
+
+ * 6세대 오컬트마니아는 생긴게 어째 [[내가 인기 없는 건 아무리 생각해도 너희들 탓이야!]]의 주인공 [[쿠로키 토모코]]를 닮았다는 평이 많다. ~~내가 레귤러가 되지 못한건 아무리 생각해도 [[게임 프리크]] 탓이야!~~[* 뿐만 아니라 [후늬시티]엔 "포켓몬을 교환해주는 친구들이 있는 거야!?" 같은 대사를 하는 오컬트 마니아도 있는지라 정말로 모티브로 삼은게 아닌가 싶을정도.]
+
+ * [http://www.pokemon.jp/special/kowapoke/horrorspot/ 포켓몬스터 공식 사이트의 2014년 할로윈 특설 페이지]에서 해설 역으로 히토미라는 오컬트마니아가 나온다.
+
+=== 모습 ===
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> 루비·사파이어/에메랄드 || 6세대 ||
+|| attachment:/Occult_Maniac_RSE.png || attachment:/Occult_Maniac_XY.png ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> 언어 || 명칭 ||
+|| 일본어 || 오컬트마니아 オカルトマニア ||
+|| 한국어 || 오컬트마니아 ||
+|| 영어 || 마법마니아 Hex Maniac ||
+
+= 트레이너 목록 =
+|| * 이하 트레이너 목록의 트레이너명은 일본판을 기준으로 작성되었습니다. ||
+
+== [[wiki:"포켓몬스터 루비·사파이어" 루비·사파이어]] ==
+||<tablealign=center><rowbgcolor="#cd1039"><:> {{{#ffffff 출현 장소}}} || {{{#ffffff 이름}}} || {{{#ffffff 대결 횟수}}} || {{{#ffffff 상금}}} ||<-6> {{{#ffffff 소유 포켓몬}}} ||
+||<rowbgcolor="#dcdcdc"><:> [[호연 121번도로]] || 오컬트마니아 미코토 || 1차전 || 720원 || [[wiki:"랄토스" attachment:/Pokemon_icon_280.png]][[br]]Lv.30 || [[wiki:"해골몽" attachment:/Pokemon_icon_355.png]][[br]]Lv.30 || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} ||
+||<rowbgcolor="#dcdcdc"><:> [[호연 123번도로]] || 오컬트마니아 사치코 || 1차전 || 744원 || [[wiki:"해골몽" attachment:/Pokemon_icon_355.png]][[br]]Lv.31 || [[wiki:"어둠대신" attachment:/Pokemon_icon_353.png]][[br]]Lv.31 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> [[수수께끼 저택]] || 오컬트마니아 코토네 || 1차전 || 1008원 || [[wiki:"다크펫" attachment:/Pokemon_icon_354.png]][[br]]Lv.42 || [[wiki:"루나톤" attachment:/Pokemon_icon_337.png]][[br]]Lv.41 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:><|6> [[송화산]] ||<|5> 오컬트마니아 호노카 || 1차전 || 768원 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.32 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 2차전 || 840원 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.35 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 3차전 || 888원 || [[wiki:"피그점프" attachment:/Pokemon_icon_325.png]][[br]]Lv.37 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.37 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 4차전 || 960원 || [[wiki:"피그점프" attachment:/Pokemon_icon_325.png]][[br]]Lv.40 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.40 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 5차전 || 1008원 || [[wiki:"해골몽" attachment:/Pokemon_icon_355.png]][[br]]Lv.42 || [[wiki:"피그킹" attachment:/Pokemon_icon_326.png]][[br]]Lv.42 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.42 ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 오컬트마니아 호타루 || 1차전 || 744원 || [[wiki:"어둠대신" attachment:/Pokemon_icon_353.png]][[br]]Lv.31 || [[wiki:"윤겔라" attachment:/Pokemon_icon_064.png]][[br]]Lv.31 ||  ||  ||  ||  ||
+
+== [[wiki:"포켓몬스터 에메랄드" 에메랄드]] ==
+||<tablealign=center><rowbgcolor="#5fee9e"><:> {{{#ffffff 출현 장소}}} || {{{#ffffff 이름}}} || {{{#ffffff 대결 횟수}}} || {{{#ffffff 상금}}} ||<-6> {{{#ffffff 소유 포켓몬}}} ||
+||<rowbgcolor="#dcdcdc"><:> [[호연 121번도로]] || 오컬트마니아 미코토 || 1차전 || 696원 || [[wiki:"해골몽" attachment:/Pokemon_icon_355.png]][[br]]Lv.29 || [[wiki:"어둠대신" attachment:/Pokemon_icon_353.png]][[br]]Lv.29 || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} ||
+||<rowbgcolor="#dcdcdc"><:> [[호연 123번도로]] || 오컬트마니아 사치코 || 1차전 || 720원 || [[wiki:"해골몽" attachment:/Pokemon_icon_355.png]][[br]]Lv.30 || [[wiki:"어둠대신" attachment:/Pokemon_icon_353.png]][[br]]Lv.30 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:><|7> [[송화산]] ||<|5> 오컬트마니아 호노카 || 1차전 || 768원 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.32 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 2차전 || 744원 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.31 || [[wiki:"피그점프" attachment:/Pokemon_icon_325.png]][[br]]Lv.31 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 3차전 || 840원 || [[wiki:"피그점프" attachment:/Pokemon_icon_325.png]][[br]]Lv.35 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.35 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 4차전 || 960원 || [[wiki:"피그점프" attachment:/Pokemon_icon_325.png]][[br]]Lv.40 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.40 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 5차전 || 1008원 || [[wiki:"해골몽" attachment:/Pokemon_icon_355.png]][[br]]Lv.42 || [[wiki:"피그킹" attachment:/Pokemon_icon_326.png]][[br]]Lv.42 || [[wiki:"깜까미" attachment:/Pokemon_icon_302.png]][[br]]Lv.42 ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 오컬트마니아 호타루 || 1차전 || 768원 || [[wiki:"어둠대신" attachment:/Pokemon_icon_353.png]][[br]]Lv.32 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 오컬트마니아 에미 || 1차전 || 744원 || [[wiki:"피그점프" attachment:/Pokemon_icon_325.png]][[br]]Lv.31 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:><|2> [[이끼체육관]] || 오컬트마니아 아사요 || 1차전 || 864원 || [[wiki:"요가랑" attachment:/Pokemon_icon_307.png]][[br]]Lv.36 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"> 오컬트마니아 유키요 || 1차전 || 864원 || [[wiki:"윤겔라" attachment:/Pokemon_icon_064.png]][[br]]Lv.36 ||  ||  ||  ||  ||  ||
+
+== [[wiki:"포켓몬스터 X·Y" X·Y]] ==
+||<tablealign=center><rowbgcolor="#5a5aff"><:> {{{#ffffff 출현 장소}}} || {{{#ffffff 이름}}} || {{{#ffffff 대결 횟수}}} || {{{#ffffff 상금}}} ||<-6> {{{#ffffff 소유 포켓몬}}} ||
+||<rowbgcolor="#dcdcdc"><:> [[칼로스 14번도로]] || 오컬트마니아 이노리 || 1차전 || 1088원 || [[불켜미|attachment:/Pokemon_icon_607.png]][[br]]Lv.34 || [[고우스트|attachment:/Pokemon_icon_093.png]][[br]]Lv.34 || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} || {{{#dcdcdc *******}}} ||
+||<rowbgcolor="#dcdcdc"><:><|2> [[칼로스 15번도로]] || 오컬트마니아 클레르 || 1차전 || 1280원 || [[치렁|attachment:/Pokemon_icon_358.png]][[br]]Lv.40 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 오컬트마니아 사이코 || 1차전 || 1216원 || [[불켜미|attachment:/Pokemon_icon_607.png]][[br]]Lv.38 || [[듀란|attachment:/Pokemon_icon_578.png]][[br]]Lv.38 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> [[칼로스 16번도로]] || 오컬트마니아 노조미 || 1차전 || 1280원 || [[호바귀|attachment:/Pokemon_icon_710.png]][[br]]Lv.40 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> [[칼로스 19번도로]] || 오컬트마니아 조세트 || 1차전 || 1600원 || [[호바귀|attachment:/Pokemon_icon_710.png]][[br]]Lv.50 || [[호바귀|attachment:/Pokemon_icon_710.png]][[br]]Lv.50 ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> [[칼로스 20번도로]] || 오컬트마니아 아가토 || 1차전 || 1728원 || [[대로트|attachment:/Pokemon_icon_709.png]][[br]]Lv.54 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:><|2> [[향전체육관]] || 오컬트마니아 코렛트 || 1차전 || 1472원 || [[가디안|attachment:/Pokemon_icon_282.png]][[br]]Lv.46 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> 오컬트마니아 키리코 || 1차전 || 1472원 || [[루주라|attachment:/Pokemon_icon_124.png]][[br]]Lv.46 ||  ||  ||  ||  ||  ||
+||<rowbgcolor="#dcdcdc"><:> [[챔피언로드#s-5|챔피언로드]] || 오컬트마니아 히미코 || 1차전 || 1856원 || [[펌킨인|attachment:/Pokemon_icon_711.png]][[br]]Lv.58 ||  ||  ||  ||  ||  ||

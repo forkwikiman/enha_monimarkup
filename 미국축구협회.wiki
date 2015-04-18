@@ -1,0 +1,106 @@
+ * 상위항목 : [[축구]], [[협회]]
+||||||||||||||||||||||||<table width=100%><table align=center><:><#12183a> '''[wiki:"북중미카리브 축구 연맹" <span style="font-weight:bold;color:#ffffff">북중미카리브 축구 연맹(CONCACAF) 산하 축구협회]''' ||
+||<:> attachment:/GUY_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"가이아나축구협회" 가이아나] [[br]] (Guyana) 
+||<:> attachment:/GPE_FA.jpg?width=35 
+||<:><width=15%><#DCDCDC> [wiki:"과들루프축구협회" 과들루프] [[br]] (Guadeloupe)  
+||<:> attachment:/GUA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"과테말라축구협회" 과테말라] [[br]] (Guatemala) 
+||<:> attachment:/GRN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"그레나다축구협회" 그레나다] [[br]] (Grenada) || 
+||<:> attachment:/NCA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"니카라과축구협회" 니카라과] [[br]] (Nicaragua)  
+||<:> attachment:/DOM_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"도미니카공화국축구협회" 도미니카공화국] [[br]] (Dominican Republic) 
+||<:> attachment:/DMA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"도미니카연방축구협회" 도미니카연방] [[br]] (Dominica)  
+||<:> attachment:/MTQ_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"마르티니크축구협회" 마르티니크] [[br]] (Martinique) || 
+||<:> attachment:/MEX_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"멕시코축구협회" 멕시코] [[br]] (Mexico) 
+||<:> attachment:/MSR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"몬트세랫축구협회" 몬트세랫] [[br]] (Montserrat)  
+||<:> attachment:/USA_FA.jpg?width=45 
+||<:><width=15%><#DCDCDC> [wiki:"미국축구협회" 미국] [[br]] (United States) 
+||<:> attachment:/VIR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"미국령버진아일랜드축구협회" 미국령버진아일랜드] [[br]] (U.S. Virgin Islands) || 
+||<:> attachment:/BAR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"바베이도스축구협회" 바베이도스] [[br]] (Barbados)  
+||<:> attachment:/BAH_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"바하마축구협회" 바하마] [[br]] (Bahamas) 
+||<:> attachment:/BER_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"버뮤다축구협회" 버뮤다] [[br]] (Bermuda)  
+||<:> attachment:/BLZ_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"벨리즈축구협회" 벨리즈] [[br]] (Belize) || 
+||<:> attachment:/BON_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"보네르축구협회" 보네르] [[br]] (Bonaire) 
+||<:> attachment:/MAF_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"생마르탱축구협회" 생마르탱] [[br]] (Saint Martin) 
+||<:> attachment:/LCA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"세인트루시아축구협회" 세인트루시아] [[br]] (Saint Lucia)  
+||<:> attachment:/SVG_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"세인트빈센트그레나딘축구협회" 세인트빈센트그레나딘] [[br]] (Saint Vincent and the Grenadines) || 
+||<:> attachment:/SKN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"세인트키츠네비스축구협회" 세인트키츠네비스] [[br]] (Saint Kitts and Nevis) 
+||<:> attachment:/SUR_FA.jpg?width=45 
+||<:><width=15%><#DCDCDC> [wiki:"수리남축구협회" 수리남] [[br]] (Suriname)  
+||<:> attachment:/SXM_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"신트마르턴축구협회" 신트마르턴] [[br]] (Sint Maarten) 
+||<:> attachment:/ARU_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"아루바축구협회" 아루바] [[br]] (Aruba) || 
+||<:> attachment:/HAI_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"아이티축구협회" 아이티] [[br]] (Haiti) 
+||<:> attachment:/ATG_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"앤티가바부다축구협회" 앤티가바부다] [[br]] (Antigua and Barbuda) 
+||<:> attachment:/AIA_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"앵귈라축구협회" 앵귈라] [[br]] (Anguilla)  
+||<:> attachment:/SLV_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"엘살바도르축구협회" 엘살바도르] [[br]] (El Salvador) || 
+||<:> attachment:/VGB_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"영국령 버진아일랜드축구협회" 영국령버진아일랜드] [[br]] (British Virgin Islands) 
+||<:> attachment:/HON_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"온두라스축구협회" 온두라스] [[br]] (Honduras)  
+||<:> attachment:/JAM_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"자메이카축구협회" 자메이카] [[br]] (Jamaica) 
+||<:> attachment:/CAN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"캐나다축구협회" 캐나다] [[br]] (Canada) || 
+||<:> attachment:/CAY_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"케이맨제도축구협회" 케이맨제도] [[br]] (Cayman Islands) 
+||<:> attachment:/CRC_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"코스타리카축구협회" 코스타리카] [[br]] (Costa Rica)  
+||<:> attachment:/CUB_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"쿠바축구협회" 쿠바] [[br]] (Cuba) 
+||<:> attachment:/CUW_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"퀴라소축구협회" 퀴라소] [[br]] (Curaçao) || 
+||<:> attachment:/TCA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"터크스케이커스제도축구협회" 터크스케이커스제도] [[br]] (Turks and Caicos Islands) 
+||<:> attachment:/TRI_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"트리니다드토바고축구협회" 트리니다드토바고] [[br]] (Trinidad and Tobago)  
+||<:> attachment:/PAN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"파나마축구협회" 파나마] [[br]] (Panama) 
+||<:> attachment:/PUR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"푸에르토리코축구협회" 푸에르토리코] [[br]] (Puerto Rico) || 
+||<:> attachment:/GYF_FA.jpg?width=45 
+||<:><width=15%><#DCDCDC> [wiki:"프랑스령기아나축구협회" 프랑스령기아나] [[br]] (French Guiana) || 
+
+||||<table align=center><:> http://upload.wikimedia.org/wikipedia/en/thumb/4/47/US_Soccer_Federation.svg/500px-US_Soccer_Federation.svg.png?width=200 ||
+||||<:><#ffffff> '''{{{#cc003e 미국축구협회}}}'''||
+||||<:><#ffffff> '''{{{#0d4e94 United States Soccer Federation}}}'''||
+||<:> '''정식명칭''' || United States Soccer Federation[* 영어] ||
+||<:> '''약칭''' || USSF ||
+||<:> '''설립''' || 1913년 ||
+||<:> '''본부''' || [[일리노이]] 주 [[시카고]](Chicago) ||
+||<:> '''[[FIFA]] 가입''' || 1914년 ||
+||<:> '''[[CONCACAF]] 가입''' || 1961년 ||
+|| '''회장''' || 수닐 굴라티 (Sunil Gulati) ||
+|| '''웹사이트''' || [[http://www.ussoccer.com]] ||
+
+[[목차]]
+== 개요 ==
+미국축구협회(United States Soccer Federation, USSF)는 [[미국]]의 축구 행정을 총괄하는 경기단체이다. 1913년 4월 5일 미국축구협회(United States Football Association)라는 이름으로 처음 설립되었다. 1945년 Football을 Soccer로 개칭하였고, 1974년 우리가 알고 있는 United States Soccer Federation으로 변경되었다. 협회 본부는 [[일리노이]] 주 [[시카고]](Chicago) 지역에 위치하고 있다.
+
+== 주관 ==
+이 경기단체는 미국의 컵대회를 주관하고 있다. 
+ * 컵대회 : 라마헌트 US 오픈컵
+
+이 경기단체는 [[미국 축구 국가대표팀]](남자, 여자, 청소년)과 미국 [[풋살]], 비치사커 국가대표팀을 산하에 두고 관리하고 있다.

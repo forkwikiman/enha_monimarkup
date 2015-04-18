@@ -1,0 +1,75 @@
+ * 이 항목은 [라쿠엔]으로도 들어올 수 있다.
+
+[[목차]]
+== 원곡 ==
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/3zW0pwNqFjQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 장르명 |||||| REGGAE[[BR]]레게 || [[BPM]] |||| 99-198 ||
+|| 전광판 표기 ||||||||||||||<#454545> '''{{{#FF5A00 RAKUEN}}}''' ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 369}}} || {{{#orange 6}}} || {{{#orange 498}}} || {{{#red 11}}} || {{{#red 1034}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 368}}} || {{{#orange 9}}} || {{{#orange 723}}} || {{{#red 11}}} || {{{#red 1033}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 12 HAPPY SKY ~
+ * 가정용판 수록 : 12 HAPPY SKY
+
+[beatmania IIDX 12 HAPPY SKY]의 수록곡으로, 작곡가 명의는 Chonan Chiharu로 되어있지만 이것은 보컬 명의이며 실제 작곡가는 [kors k]. 투덱에 존재하는 몇 안되는 레게 장르의 악곡 중 하나지만 정통 레게가 아니라 댄스홀레게다. 이후 괌투덱의 바운스 바운스 바운스로 이어진다.
+
+곡 길이가 2분 10초로 상당히 긴 반면에 노트수는 그에 비해 적지만, '''거기에 속으면 안 된다.''' 저런 노트수를 가지고 최대한의 효율을 끌어내는 채보의 형태인데, 바로 [스크래치곡|저속구간 내내 쏟아지는 스크래치 견제세례] 때문이다. 느린 BPM 때문에 HI-SPEED 5를 걸어도 600을 넘지 못하는데, 이 때문에 스크래치 연사와 잡노트들이 상대적으로 뭉쳐보이게 되어 처리가 힘들어진다. 또한 중반에 BPM이 198로 올라가는 부분은 스크래치는 나오지 않지만, 익숙해져 있지 않다면 하드 게이지 폭사하기에 딱 좋은 구성.
+
+99라는 느린 BPM에 대해서는 당작에 새로 추가된 요소인 SUDDEN+를 거는 것이 권장되어진다. 그리고 중반의 변속 때문에 하드 게이지 클리어가 약간 더 어려운 편. 물론 저 스크래치 연사는 후반부에도 나오기 때문에 노멀 게이지 클리어가 쉽다는 말도 아니다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/exe2h7kS7Zc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+18 Resort Anthem에서 더블 어나더가 추가되었다. 비공식 난이도로는 10.7을 부여받을 정도로 노멀 게이지 상으로는 쉬운 편이나, 문제는 역시 스크래치+변속. 때문에 하드 게이지 클리어로는 11 중에서도 상당히 힘든 편이다.
+
+[BGA]는 [HES]가 제작한 전용 BGA를 사용한다. BGA에 나오는 로봇은 [PLEASE DON'T GO]에서도 등장한 바 있는 DJ Robo라는 캐릭터.
+
+=== 곡 코멘트 ===
+||레코딩은 첫 경험이라서, 두근두근거렸습니디만
+즐겁고 평화로운 공간을 만들어 주신 스태프분들 덕분에 릴랙스해서 불렀습니다!
+이 노래를 들어주신 분, 관계자 분, 모두에 감사★☆★
+또 기회가 있다면 하고 싶어!!입니다!!
+LOVE SMILE PEACE!!
+
+Vocal / 長南千晴
+
+치유되는 보컬, 뜨거운 스크래칭, 중간의 BPM이 올라가는 부분에서 코믹한 움직임을 시키고 싶다라는 것으로 DJ 로보 부활에 이르렀습니다.
+이번 타이틀「HAPPY SKY」를 의식해서 만든 상쾌함? 클립입니다.
+DJ로보도 어쨌든 레게 사양에 라이트 튠.
+래스터 컬러의 머리띠+수영복+튜브 턴 테이블. 그리고 B파츠(발)장착.
+
+저번 클럽 이벤트에서 톱 DJ의 반열에 들어갔던 DJ로보.
+거기서 크게 번 돈을 바탕으로 30년 론으로 산 자신에 낙원...
+라는 어떤 날의 이야기.
+
+Movie / HES||
+
+== ラクエン Feat.Chiharu Chonan -JAKA respect for K.S.K. Remix ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/IWnUuX_SoII" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 장르명 |||||| TECHY FREEFORM[[BR]]테키 프리폼 || [[BPM]] |||| 88-175 ||
+|| 전광판 표기 ||||||||||||||<#454545> '''{{{#FF5A00 RAKUEN FEAT.CHIHARU CHONAN -JAKA RESPECT FOR K.S.K REMIX}}}''' ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 6}}} || {{{#blue 577}}} || {{{#orange 8}}} || {{{#orange 864}}} || {{{#red 10}}} || {{{#red 1307}}} ||
+|| [[더블 플레이]] || {{{#blue 6}}} || {{{#blue 616}}} || {{{#orange 8}}} || {{{#orange 942}}} || {{{#red 11}}} || {{{#red 1327}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 18 Resort Anthem ~ 21 SPADA
+
+이후, [kors k]의 앨범 Ways For Liberation에 [http://youtu.be/OGiq8dFzImo JAKAZiD가 리믹스한 곡이 수록되는데], 이를 게임용으로 편집한 것이 18 Resort Anthem에 수록되었다.
+
+변속의 폭이 줄었으며, BPM도 원곡보다는 살짝 느려진 편. 다만 원곡에 존재하는 그 스크래치 난사(...)는 '''가속 이후에 튀어나오는 곳이 있으며''' 전체적으로 16비트 스크래치 난사가 많아 10레벨 [사기 난이도]의 위치에 당당히 위치해 있다. [트리코로] 가동 당시 클리어 레이트 46%.
+
+그러다가 22 PENDUAL에서 갑자기 삭제(...) 리믹스명인 JAKA respect for K.S.K.는 [dj TAKA]가 [No.13], [Ubertreffen]을 작곡하는 데 사용했던 TAKA respect for J.S.B.에서 따온 것이다.
+
+[BGA]도 원곡과 달리 Fukutomi WAVE[* [The Sampling Paradise]의 레이어를 만들었던 '''여자''' 그래픽 디자이너. 그 외에 [VEGA]나 [Pharaoh] 같은 [마모니스] 레이어는 대부분 그녀의 작품이라고 생각하면 편하다. 물론 [Mermaid Girl]이나 [planarian]같은 레이어도 있긴 하지만. 데뷔는 16 EMPRESS의 [BRIDAL FESTIVAL!!!]의 전용 BGA.] 제작의 Resort Anthem 신규 [범용 BGA]. 

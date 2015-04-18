@@ -1,0 +1,103 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX TECHNIKA 3]] ||
+|| 추가 수록 버전 || [[DJMAX TECHNIKA TUNE]] ||
+|| 장르 || Junkno ||
+|| [[BPM]] || 140 ||
+|| 작곡 || [[CROOVE]] ||
+|| 비주얼 || [[KIMYS]] ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/oM1HeZwfG3A" frameborder="0" allowfullscreen></iframe>
+}}}
+> 너무나도 쉬운 상상이겠지만 미래에는 빨래, 청소, 취사 등의 가사 일은 로보트가 알아서 해 주고 사람들은 좀 더 자기 자신, 가족, 일에 시간을 할애하는 삶을 누리게 될 것입니다. 인공지능이 어느 정도 있는 컴퓨터는 생각 만으로도 제어가 가능하게 되고 서로의 의사소통은 장소에 상관없이 서로 언제 어디서나 대화를 할 수 있게 될 것입니다. 자동차, 전기 등에 사용되는 에너지는 현재와는 다른 환경친화적이면서도 고효율적인 것으로 바뀌고, 지구온난화 문제는 이미 해결되어있고 아열대지방은 다시 정글로 무성지게 될 것입니다. 이러한 미래의 이노베이션에 대한 추상적인 느낌을 곡으로 전개해 보았습니다.
+
+--그런데 호흡이 안 맞아 전쟁물로 변해버렸다.--
+
+[[목차]]
+== 설명 ==
+테크니카 3에서 추가된 신곡으로, 프리뷰 영상에서 공개되었다.
+
+Croove가 2011년 유학을 간 이후로 외주로 공급한 듯한 이 곡은 프리뷰만 들어봐도 초기의 전형적인 Croove 스타일에 가깝게 돌아간 것을 알 수 있다. 장르가 [[20000000000]]과 같은 Junkno인 게 그 증거.
+
+~~메카덕~~ KIMYS가 만든 BGA와의 상성도 괜찮은 편인데, BGA의 내용은 곡 제목에서 볼 수 있듯이, 서기 2222년을 배경으로 한 행성간 전쟁으로 추정. 이 BGA는 ~~[[메카닉]] [[폭발 엔딩]] 덕분인지~~ [[SigNalize]] 등과 함께 [[DMT3]] 최고의 BGA 중 하나로 손꼽히고 있다. 그런데 BGA 중간중간에 우려먹은 부분이 있는거 같다. 포탑 발사장면 같은거라든지...
+
+제목 때문인지 팬들 사이에서는 이미 '[wiki:"콩드립" AD콩콩콩콩]', '[wiki:"EE#s-2" AD EE! EE!]' 등으로 불리고 있다.(…) ~~이것도 [[홍진호]] 은퇴에 바치는 것일지 [wiki:"이말년씨리즈" 모른다].~~
+
+가장 흔히 쓰는 별칭은 '''앋콩[* AD = 앋, 2222 = [wiki:"홍진호" 콩]]'''
+
+여담으로 아들에게 곡 이름을 [[ADHD]]2222로 바꾸고 싶다는 말을 하시기도 하였다.[[https://twitter.com/croove_hwiman/status/119284536201850880 #]]
+
+같은 DMT3 신곡인 [[SigNalize]]와 닮은 구석이 은근히 많이 있다. 곡의 평가도 상당히 좋을 뿐더러 BGA와의 상성 및 BGA 자체의 퀄리티도 상당히 높은 것, NM 패턴이 6레벨인 것, 신곡들 중 MX 패턴이 10레벨이면서 물렙(...)인 것, 그리고 클럽 믹싱에서도 [wiki:"Brutalizer Set"사기급 세트]에 속해있는 것까지 똑같다!
+
+== [[DJMAX TECHNIKA 3]] ==
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/OpKYk84Kp-M" frameborder="0" allowfullscreen></iframe>}}}
+
+NM 패턴
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/nXyRFrq3N4g" frameborder="0" allowfullscreen>
+</iframe>}}}
+
+HD 패턴
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/iwHgKHd1B-8" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 스크롤 || 비고 ||
+||<#FFB0B0> Star || C || 375 Max || 7 || 4박 스크롤 || ||
+||<#FFFF00> Normal || B || 375 Max || 6 || 4박 스크롤 || [[wiki:"New Beginning"미션 - Triple Ace]] 수록, [[Brutalizer Set]] 선택곡 ||
+||<#0000FF> {{{#white Hard}}} || A || 1500 Max || 7 || 4박 스크롤 || ||
+||<#FF0000> Maximum || S || 3500 Max || 10 || 4박 스크롤 || [[Fatality Set]] 셀렉곡, ※[[물렙곡]] || 
+
+노말패턴은 전체적으로 무난하지만 후반에 엇박보라가 튀어나오는데 4박 보라로 착각 할 수 있기 때문에 주의할 필요가 있다.
+
+하드패턴은 노말패턴에 살을 덧댄 형태로, 단순해보이지만 치는맛이 좋아서 평가가 좋다.
+
+이후 [[Fatality Set]] 업데이트로 MX패턴이 등장. 세트 내에서 5번 셀렉트곡에 위치해 있다. [[Xeus]] MX패턴을 소환하기 위해선 반드시 거쳐가야 하는 패턴이지만, 10렙중에서는 [[Leave me alone]]보다 더한 물렙 신세다. 립미얼론은 스코어링이라도 어렵지, 이곡은 스코어링과 클리어 모두 10레벨치고 매우 쉽다. ~~[wiki:"Xeus"째우스]를 좀 더 쉽게 뽑으라는 펜타비전의 두번째 [wiki:"Victim of Love"자비]라 생각하자~~
+
+
+==== AD2222 Extended ver ====
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> Normal || 7 || ※수정 전 [[지뢰곡]] ||
+||<#0000FF> {{{#white Hard}}} || 9 || ||
+||<#FF0000> Maximum || 11 || ||
+
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/y1fCNZYBdpY" frameborder="0" allowfullscreen></iframe>}}}
+
+NM 패턴 영상
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/yDgc0pHfqrE" frameborder="0" allowfullscreen></iframe>
+</iframe>}}}
+
+HD 패턴 영상
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qALLSjkFd4M" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴 영상
+
+[[wiki:"EGG(DJMAX)"기]][[wiki:"Son of Sun"존]][[wiki:"Thor"의]] [[wiki:"두부소닉"곡]][[wiki:"Y"들]] 익텐이 몇몇 장면을 돌려썼지만, 다행히도 이 곡 풀버전은 돌려쓰지 않았다. 다만 위의 영상을 보면 알겠지만 초반에 [[Landscape]]와 [[Dream of Winds]]의 [[BGA]]을 재활용 한 흔적이 있다. 그냥 [[KIMYS]] [[wiki:"Landscape"3D]] [[wiki:"Dream of Winds"BGA]] [[wiki:wiki:"ZET"연작]][[wiki:"Drum Town"시리즈]] 라고 생각하고 받아들이자.
+
+유저들은 허전한 팝믹싱 패턴때문에 상대적으로 쉽게나올까 걱정했었지만 업데이트되면서 그 걱정은 바로 끝났다. 노말은 그나마 할만한 패턴이지만.[* 물론 표기난이도 5는 영락없는 지뢰, 6~7정도] HD랑 MX패턴은 상당히 무서운 난이도를 보여주고있다. [[DMT3]] 익텐 곡들 중 가장 어려운 난이도를 보이고 있어서, [wiki:"DJMAX TECHNIKA 2"전작]의 [wiki:"Son of Sun"Son of Sun : Extended Mix]의 포지션을 잇고 있는 듯하다. ~~물론 추장님보다는 쉬운 편~~
+
+언제 수정된 건지는 모르겠지만 잠수함 패치로 인해 '''노멀이 5에서 7로 상향되었다.'''
+--난이도도 정확히 2 증가했네--
+=== [[DJMAX TECHNIKA TUNE]] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 5 || ||
+||<#FF0000> CLUB || 7 || [[Dark Abyss Set]] 셀렉곡 ||
+
+유튜브에 BGA가 풀렸는데, DMT3 BGA를 일부 컷팅하고 복붙한 흔적도 보여서 기존의 BGA보다 조금 어색하다.

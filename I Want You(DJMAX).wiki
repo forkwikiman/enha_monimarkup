@@ -1,0 +1,129 @@
+{{{#!HTML
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/AfyZ_t1czXA&hl=ko&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/AfyZ_t1czXA&hl=ko&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+}}}
+[[목차]]
+== 소개 ==
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [DJMAX Portable Clazziquai Edition] ||
+|| 장르 || [["Ani Pop" House Dance]] ||
+|| 작사,작곡 || [[Lin-G]] ||
+|| 보컬 || Jay (≠비주얼 아티스트 Jay (=Jaywave)) ||
+|| BPM || 140 ||
+|| BGA || H2SO4(일러스트), Latte(모션), [[KIMYS]](모션, 곡 타이틀엔 미기재) ||
+|| RD || [[XeoN]] ||
+
+디제이맥스 메트로 프로젝트의 수록곡. 약/별칭으론 흔히 '''아벙츄''' 로 불린다. [[오타체]]의 일종인듯?
+
+Lin-G가 작곡과 작사를 한 곡으로, 매우 밝고 경쾌한 분위기의 댄스 곡. 보컬은 Jay가 불렀다. 이는 DJMAX에서 [[Enemy Storm]], [[Rolling On the Duck]] 등의 비주얼을 맡았던 Jay와는 다른 사람이다. 특히 [[황산]]이 그린 귀여운 그림체의 BGA가 인기를 끈 곡. [[메트로 프로젝트]] 수록곡 중 단연 가장 큰 인기를 얻은 곡으로, [[DJMAX Portable 3]]을 제외한 메트로 프로젝트 이후의 모든 [[DJMAX 시리즈]], 즉 [[DJMAX TECHNIKA Q]]에까지 빠짐 없이 이식된 유이한 곡 중 하나이다. (나머지 한 곡은 [[Y]].)
+
+아래는 공식 설명이다.
+
+||'Lin-G의 참신한 멜로디와 귀여우면서도 상큼한 보컬 Jay의 만남. 두 아티스트 모두 DJMAX 시리즈에 최초로 참여했다.'||
+
+== [DJMAX Portable Clazziquai Edition & Black Square] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/nG9LJj1dUUc" frameborder="0" allowfullscreen></iframe>}}}
+
+6B HD
+
+노래에 걸맞게 중저 난이도로 등장. BS의 클럽투어를 깨다보면 RD패턴을 할수있는데 음악이 더욱 신나게 바뀐다. 
+또한 CE와 링크디스크를 할 시에도 RD패턴이 나오지만 이때는 BS와는 다르게 4B 에서 RD패턴이 나오니 참고.
+
+
+== [[DJMAX TECHNIKA 시리즈]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ocF3jaefcag" frameborder="0" allowfullscreen></iframe>}}}
+
+NM 패턴(테크니카 1 기준 PP)
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/6q_WQMfVqWU" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴(테크니카 1 기준 SP). RD Style이 적용되었다.
+
+=== [wiki:"DJMAX TECHNIKA"DJMAX TECHNIKA 1] ===
+
+DJMAX 테크니카에의 난이도는, LP 3, PP 3, TP 5, SP 6. 특이점이라면 SP패턴의 경우는 DMP BS에도 수록된 RD패턴의 음악을 사용했다는것이다.
+DJMAX 테크니카에서는 [wiki:"First Step"First Step Set]의 스코어 어택용으로 주로 플레이 되고 있으며, [wiki:"Conqueror"Conqueror Set]을 얻기 위한 미션인 '뇌신'에 포함되어 있는 곡이기 때문에 해당 미션에서도 주로 플레이되며, 11월 24일 업데이트된 [wiki:"Futurist"Futurist Set]에서도 스코어 어택 곡으로 등장. 게다가, DJMAX Portable Black Square의 6B HD 패턴이 게임 내에서 매우 인기있는 패턴이기도 해서, 인기곡의 범주안에 들어가는 곡.[* 하지만 [wiki:"First Step"First Step Set]셋의 스코어곡이기도 하며, [wiki:"Futurist"Futurist Set]에서 스코어 어택 곡으로 등장하자 퀀커러 셋을 얻기 위해 퍼스트스텝과 뇌신 미션을 죽도록 플레이한 고수들이 이번에는 스코어 어택을 위해서 또 해야하니 지겹다라는 의견이 많다.]
+
+테크니카 내에서, 파퓰러 패턴은 2스테이지에서 맨 처음에 있기도 하고, 레벨 3치고 쉽지도 어렵지도 않은 딱 '레벨 3'의 느낌이라, 무난하다고 할 수 있다. 하지만, 레벨 5의 테크니컬 패턴은 리듬게임 전체의 대표적인 [[사기 난이도]] 곡중 하나로 꼽힌다. 특히, 이 패턴이 등장하는 위치 상, 파퓰러 모드 대부분의 곡을 어느정도 클리어 한 상태에서, 처음으로 테크니컬 모드를 고른 후, 퍼스트 스텝 디스크셋을 선택후 '''레벨 5라는 표기만 보고 이 곡을 선택한 사람은 거의 100% 이 곡에서 폭사'''하게 된다. 클리어가 쉬워져도, 올 콤보로 가는것 역시 상당히 까다롭다. 여러모로 악명이 높은 패턴.
+(사실, 같은 레벨 5 중에서는 'Your own Miracle'의 TP 패턴도 만만치 않게 어려운 패턴이긴 하지만, 사실 이 곡은 거의 플레이하는 사람이  없다시피 하는 패턴이기 때문에 묻혀버렸다.... 또한 당황스런 패턴이긴 하지만 익숙해지면 진짜 레벨 5 수준으로 쉬워진다는 말도 있다)
+
+=== [DJMAX TECHNIKA 2] ===
+
+[[DJMAX TECHNIKA 2]]
+|| 패턴 || 난이도 || 등급 || 가격 || 기타 ||
+|| Star || 3 || D || 300 || ||
+|| NM || 4 || D || 400 || [[Idol Set]] 셀렉곡 ||
+|| HD || 6 || D || 500 ||  ||
+|| MX || 7 || C || 600 || ※[[물렙곡]] ||
+
+전체적으로 난이도가 상향 조정 되었으나.. 다른 구곡들의 레벨이 대체적으로 하향조정되면서, 아이러니하게도 테크니카2에서는 손꼽히는 물렙곡이 되었다(...) 그리고 수록되었었던 모든 세트[* [wiki:"First Step"First Step Set]와 [wiki:"Futurist"Futurist Set]]에서 빠졌다. [[안습]]. 대신에 노멀 패턴이 신 세트인 [[Idol Set]]에 들어갔다.
+
+테크니카 2에서 MX패턴을 고르면 곡이 RD Style로 바뀌기 때문에(전작의 SP) 킥의 박자 등이 약간씩 달라진다. 이것은 1 시절의 스페셜 패턴때에도 그랬다.[* CE/BS의 RD패턴을 쓰는곡은 이 곡과 [[Coastal Tempo]], [[Shoreline]]이 있었고, 맥스샵 6차 업데이트에서 공개된 [[Cypher Gate]] MX패턴도 RD Style 차용으로 총 네 곡이 되었다. [[PDM]] MX(구 SP)는 테크니카 오리지널 RD인 것으로 추정된다.]
+
+=== [DJMAX TECHNIKA 3] ===
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || 3 || 8박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 4 || 8박 스크롤 || [[Idol Set]] 셀렉곡 ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 6 || 4박 스크롤 || [wiki:"Metronom"미션 - Allegro] 수록 ||
+||<#FF0000> Maximum || B || 200 Max || 7 || 4박 스크롤 || [[wiki:"Labyrinth(DJMAX)"미션 - Rain Drop]] 수록, ※ [[물렙곡]] ||
+
+테크니카 3에 와서도 MX패턴의 레벨이 조정될 기미가 보이지않아. 최고의 물렙난이도 곡으로 찍혀버린 상태. 문제는, 전체적인 난이도 상향으로 HD패턴을 5로 내려도 문제가 되지 않는다는 것이다.[* [[Someday]] MX 패턴은 원래 7이였지만 3으로 이식되면서 6으로 내려왔는데도 큰 이야기가 없는것이 그 증거이다.] 
+
+=== [[DJMAX TECHNIKA TUNE]] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 2 || ||
+||<#0000FF> {{{#white POP}}} || 4 || ||
+||<#FF0000> CLUB || 6 || [[Vital Dance Set]] 셀렉곡 ||
+
+== [[TAP SONIC]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/9YtYIDBVuzE" frameborder="0" allowfullscreen></iframe>}}}
+
+상당히 무서운 난이도를 보여주는 6Key Legend.
+
+[[TAP SONIC]]에도 수록되었는데, --덕후층을 의식해서인지-- 상당한 고난이도 곡으로 수록이 되었다. 사실상 연주곡을 제외한 보컬 곡 중에서는 2012년 2월 20일 업데이트된 [[Rage Of Demon]]이 등장하기 전까지는 '''보컬곡 보스곡'''이었다.
+보통 탭 소닉의 라이센스 곡이나 DJMAX쪽에 옮겨온 POP 쪽의 경우 보통 노트배치는 보컬음이나 배경음 둘 중 하나를 따라가지만, 탭소닉에서의 이 곡은 보컬음과 뒤 배경 [[키음]]을 초중반부부터 끝까지 동시에 빠짐없이 노트로 구현되었기 때문에...[* 사실 레전드 난이도 한정이지만, 챌린지를 끝까지 정주행할 유저들이라면 대개 레전드만 파기 때문에....] 6키 레전드 패턴의 레벨은 9로 측정되어 있으나 9 중에서도 상급이며, 사실상 9레벨 곡 중에서도 [[BEE-U-TIFUL]]같은 극악곡을 제외한다면 가장 어려운 패턴중 하나. 레전드가 아닌 난이도에서는 배경음이 빠졌기 때문에 난이도가 떨어지는 것을 체감할 수 있다.
+
+== 가사 ==
+
+아래는 곡의 가사이다.
+
+|| 너무 많은 시간이 흘렀잖아 나도 모르게 너를 찾고 있어
+ 수많은 사람중에 보석같은 네 모습만 보여
+
+ 너도 알잖아 내 눈을 보면 I know you are feeling higher
+ 눈 앞에 비친 나의 하얀 미소 너무 환하게 눈부셔
+ 
+ 그렇게 웃지마 바라만봐도 자꾸 떨려
+ 아닌 척 태연하게 보지 마 이미 나도 네 맘 다 알고 있어
+
+ I want you 내 곁에 있어줘
+ You're all I need 저 푸른 바다처럼
+ 끝없이 높아지는 하늘을 나와 함께
+ Come feel my little world
+
+ I want you 내 곁에 있어줘
+ You're all I need 저 푸른 바다처럼
+ 끝없이 높아지는 하늘을 나와 함께
+ Come on Baby
+
+ I want you||
+
+
+== 여담 ==
+
+필드테스트 당시에는 [[범용 BGA]][* 테크니카 구작에선 [[Access]], [[Thor]], [[Beyond the Future]]에 쓰였으며, 테크니카2로 넘어오면서 Thor와 Beyond the Future에 전용 BGA가 추가되면서 Access 한 곡의 전용 BGA화되었다.]를 쓴 곡이었기 때문에 큰 주목을 받지 못했으나, DMP CE와 테크니카 발매후 귀여운 [[BGA]]가 많은 인기를 끌었다. DJMAX 메트로 프로젝트의 비주얼 중에서는 [[Son of Sun]]의 비주얼과 함께 가장 많은 사랑을 받은 비주얼중 하나로 꼽는다. 비주얼의 내용은 섬에 사는 소녀가 이상형의 남자를 발견한 후 서로 눈이 맞고, 춤을 추며 즐거운 시간을 보낸다는 내용으로 보인다...만, 비주얼의 한 컷 중, 등장하는 소녀가 [[http://pds16.egloos.com/pds/201001/08/48/d0071548_4b4716fce341a.jpg 허리를 숙이고 위를 향하여 미소를 짓는 약간 묘한 포즈]]의 신이 있는데[* 참고로 디시인사이드나 루리웹 등에서 이 자세를 따라해본 유저들에 의하면, 이 자세를 실제로 취하기가 어렵다. 설사 취한다 하더라도 자세를 유지하기가 상당히 힘들다고. 사실 그 해당 일러스트 자체가 어찌보면 [[작붕]]에 가깝기 때문에 그런걸지도 모르지만..] 디시인사이드 [[리듬게임 갤러리]]의 한 갤러가 이 비주얼을 '섬에 사는 여자애가 남자애를 훔쳐보다가 들킴. 남자 반응 괜찮음. 그러자 여자애 바로 ([[검열삭제]])자세 취함' 이라는 해석을 올렸고, 이것이 어느정도 파장을 일으켜 해당 컷신의 그림에 ([[검열삭제]])행위를 하는 합성물들이 나왔고, 이 사실을 알게 된 비주얼 제작자가 자신의 그림을 수정하지 말아달라는 호소를 블로그에 올린 해프닝이 벌어지기도 하였다.
+
+비주얼에 등장하는 소녀의 이름은 '[[스이]]', 소년의 이름은 '테오' 사실 스이는 평범한 소녀가 아닌 섬의 수호신중 막내로, 자신이 원하는 사람 외의 눈에 보이지 않게 하는 능력이 있다는 설정이 있다. 이 '스이' 캐릭터는 '엘'이나 '다나' 등등의 DJMAX 간판 마담 캐릭터를 제치고 디맥 BGA 등장 캐릭터 중 [wiki:"셜리 하우스" 이 캐릭터]와 함께 최고의 인기를 누리고 있다. ~~일단 두 캐릭터의 취급이 다르다.~~ 자세한 사항은 [[스이]]항목 참조.
+
+[[http://gall.dcinside.com/composition_dc/171068 이 좋은 노래가 하필이면... ]]
+[[http://makip.egloos.com/4012701 그리고...]]

@@ -1,0 +1,7 @@
+||<tablewidth=100%><#ff0000><-5><:> '''[[부산광역시|<span style="color:white">부산</span>]]{{{#white -}}}[[김해시|<span style="color:white">김해</span>]] [[시내버스|<span style="color:white">급행버스</span>]]''' ||
+||<-5> [[부산 버스 1004|1004]] ||
+||<tablewidth=100%><#ff4500><-5><:> '''[[부산광역시|<span style="color:white">부산</span>]]{{{#white -}}}[[김해시|<span style="color:white">김해</span>]] [[시내버스|<span style="color:white">좌석버스</span>]]''' ||
+|| [[김해 버스 73|73]] || ~~[[김해 버스 207|207]]~~ || [[김해 버스 220|220]] || [[부산 버스 221|221]] ||
+||<tablewidth=100%><#3594D3><-4><:> '''[[부산광역시|<span style="color:white">부산</span>]]{{{#white -}}}[[김해시|<span style="color:white">김해</span>]] [[시내버스|<span style="color:white">시내버스</span>]]''' ||
+|| [[김해 버스 8|8]] || [[김해 버스 8-1|8-1]] || [[부산 버스 123|123]]  || [[부산 버스 125|125]] ||
+|| [[부산 버스 127|127]] || ~~128~~ || [[부산 버스 128-1|128-1]] || [[부산 버스 130|130]] ||

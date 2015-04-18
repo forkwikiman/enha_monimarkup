@@ -1,0 +1,138 @@
+attachment:/1272127813_Y-gate.jpg
+
+[[목차]]
+|| 장르 |||||||| [wiki:"테크노" TECHNO] ||
+|| 곡명 |||||||| Y-Gate ||
+|| 작곡 |||||||| 이종필 ||
+|| 작사 |||||||| [[Mario Bolden]] ||
+|| 보컬 |||||||| [[Mario Bolden]], Jenny ||
+|| 배경 |||||||| [[Airborn]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 3rd]] ||
+|| BPM |||||||| 144 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* AEIC까지의 루비 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨. EC 이후에 존재하는 루비 패턴들과는 다르다.] || {{{#orange 8}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 11}}} || {{{#orange 12}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}}[* 여담으로 7th 1.5에서도 9 였으나 '''클럽패턴을 그대로 가져온 패턴'''이라 실질적인 난이도는 그 이상이다] || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/pVsMT_NG4nY?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/pVsMT_NG4nY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~]] '''BGA'''
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_sDVdXG6Givc$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=sDVdXG6Givc$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=sDVdXG6Givc$&playLoc=undefined'></embed></object>
+}}}
+[[EZ2DJ 4thTRAX ~Over Mind~]]부터의 '''BGA'''[* 본래 [[EZ2Dancer]]의 '너' BGA였다.]
+
+== 개요 ==
+본래 이 곡은 EZ2DJ 2nd에 수록될 예정인 곡이었다. Mario Bolden 및 광화문사단 계열 곡들은 원래 2nd가 마지막 참여였다. 하지만 어떤 사정에 의해 2nd에는 실리지 못하고 뒤늦게 3rd에 들어갔는데, [[CROOVE]]의 말에 따르면 노래가 워낙 별로라(…) 미사용곡으로 남겨두었다가 난이도라도 어렵게 해서 내보자는 생각으로 3rd에 수록했다고 한다.
+
+== BGA ==
+이 곡이 처음 나왔을 때 [[BGA]] 내용에 대한 논란이 상당했다가, 결국 다음 작품인 4th부터는 BGA가 완전히 바뀌었고, 3rd때의 BGA는 그 뒤로 절대 돌아오지 못했다. 4th에서 대체된 BGA는 EZ2Dancer의 [[이정현]]의 너라는 곡에 실렸던 이집트 분위기 BGA로, [[EZ2ON]]과 [[Sabin Sound Star]]에서도 사용되었다.
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='61gWOpyiyOo$' width='600px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=61gWOpyiyOo$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=61gWOpyiyOo$' width='600px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+...가 [[EZ2DJ 7thTRAX BONUS EDITION revision A]]에서는 7키 라디오의 Sound Addict 채널 한정으로 3rd때의 BGA가 나온다! ~~심의는?~~
+
+이 곡의 제목도 여성의 성기에서 유래했다는 설이 있다. 실제로 Y Gate의 뜻이 그것을 뜻하는 은어이다. 또한 서드 BGA 중반에 나오는 단어, amatory, spout out은 각각 성욕의, 밖으로 내뿜다 라는 뜻이다. 
+
+== 패러디 ==
+후반부의 '왜 일케 나 힘이 쎄~ 빠~레~' 하는 가사가 매우 흥겹다.('Now fellas, can I hear you say, "Par~ty!"'의 [[몬데그린]]이지만) 결국 [[리듬게임 갤러리]]에선 [[빌리 헤링턴]]과 합성시켜 [[http://cfs8.tistory.com/upload_control/download.blog?fhandle=YmxvZzE5NTM3NUBmczgudGlzdG9yeS5jb206L2F0dGFjaC8wLzA4MDAwMDAwMDAwMC5zd2Y%3D Y-gay]]라는 희대의 괴작을 탄생시켰다. 이 플짤을 바탕으로 [[http://pds21.egloos.com/pds/201102/20/61/rhydhmgaybar.swf 이런 플래시 게임도 만들어졌다...]] 이런 게 나오기 이전에도 이 곡에서 마치 '[[포르노]]'처럼 들리는 몬데그린을 바탕으로 오락실에서 '포르노'만 수십 번 [[떼창]]하는 --민폐행위-- MP3도 올라온 적이 있다.[http://www.toez2dj.net/zeroboard/zboard.php?id=e_humor&no=3271 링크. 단 파일은 짤렸다.] 하여튼 제목부터 시작해서 엄한 요소와 많이 얽히는 곡이다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+당시 기준으로는 노트수가 상당히 많은 곡이라서 스코어어택을 위해서 이 곡을 파는 사람들이 상당했다.
+
+3rd 당시부터 6th까진 난이도 11짜리 곡이 거의 없던 시절이었던지라 클리어하면 중수 취급 받는 기준점(?)이 되었었다. 3rd TraX 기준으로 한 곡에 30만점을 넘길 수 있는 곡이 단 두곡 뿐이었기 때문이기도 하다. 당시에는 30만점이 마의 벽이었기 때문에(...) 노트가 많고 그러면서도 판정도 괜찮고 올콤보도 용이한 Y-Gate가 상당히 대세였다. 3rd 시절의 또 다른 이론상 30만 돌파 가능 곡은 3rd 당시에는 [[20000000000]] 하드였는데 이쪽은 당시엔 [[충격과 공포]]의 난도였기 때문에 클리어부터 고역이었다.
+
+게다가 난이도 11에서 12로 넘어가는게 꽤 오래 걸리는 편이기 때문에. 6th까지만 해도 난이도 12라고하면 200억 하드, 파이어 스톰 하드, 위어드 웨이브 하드, 패닉 스트라이크, 다이옥신 하드 뿐이었다. 현재의 난이도 12[* 비교하는 것 조차 무색하지만, 예를 들어 [[Please Please Me]] EX]와는 비교를 거부하는 카리스마를 보인달까. 7th 이후의 이지투는, 난이도 책정에 여러모로 문제가 있다고 일컬어지기 때문에 더욱 그렇다.
+=== 7K STANDARD ==
+4th 7키 스트릿에서는 어째서인지 올송커맨드를 입력하면 플레이할 수 없는 버그가 있다. 
+
+노멀 채보는 12로, 6th 까지 2번째로 어려운 곡이었다. 이후 7th에서 13레벨짜리 하드 패턴, BERA에서 11레벨짜리 이지 패턴이 생겼다. 이지 패턴은 노멀 패턴과 거의 같지만 뒷부분이 쉬워졌고, 하드 패턴은 전체적으로 더 어려워진 패턴이 특징.
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+노멀은 레벨 8.
+
+하드는 레벨 12로, 5키 하드 기반 패턴인데 마지막 스크의 박자가 다르므로 주의
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+{{{#!HTML
+<iframe title='y gate' width='509px' height='399px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=m-1D7w0YHF4$&play_loc=undefined&alert=true' frameborder='0' scrolling='no' ></iframe>
+}}}
+NM MIX Lv.9
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/2qUMXhoeH-c?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+1.5 패턴 Lv.9(???) 
+
+현 노말 패턴은 처음에 16박 5칸 이내 트릴->24박 3칸 트릴이후 8박 좌우이동 패턴이 나오고 이후 좁은 지역 내에서 16박으로 떨어지는 노트들을 받아야 한다. 중간 중간 조심하다가 2+4+6+8/4+6+8+10 같은 환상적인 노트들이 떨어지니 잘 긁어내야 한다. 이후 초반부터 나온 패턴을 한번 더 반복한 뒤에 맨 처음 트릴을 거치고 중심받기를 잘 활용해야 하는 구간, 1-3-1-3/2-4-2-4 등 16박 트릴들이 나온다. 마지막의 4+6+8+10+12/2+4+6+8 8박 동시노트들을 받아내면 끝난다. 9레벨에서는 컨트롤이 요구되어서 어려운 편[* 사족으로 [wiki:"The Greatest Escape" 중간 16박만 주의하면 무난한 곡]이랑 동레벨이다(...?)]이므로 8박 긁기를 연습해서 도전을 해보는것이 좋다.
+
+7th 1.5에서만 해볼 수 있는 패턴은 '''[wiki:"EZ2CATCH 4대 천왕" 클럽믹스 패턴을 거의 그대로 따온 패턴]'''으로 클럽 난이도가 9라 캐치 난이도도 9로 책정했고 당연히 이걸 믿고 하면 폭사한다. 패턴을 설명하자면 6칸 이내 16박 트릴과 8박 긁기 패턴의 향연으로 실제 난이도를 매기자면 14~15정도로 봐야 한다. ~~당연히 [wiki:"Gray Hunter" 어떤] [wiki:"Legend of Moonlight" 희망도] [wiki:"The Prince of Darkness" 없는] [wiki:"Hyper Magic" 패턴들] 보다는 쉽다.~~ 물론 1.5 한정 패턴이므로 없는 패턴이라고 보면 된다.
+=== TURNTABLE ===
+턴테이블 모드에서 레벨 '''11'''의 강력한 패턴으로 중무장해서 나왔는데, 턴테이블 특유의 간접미스의 효과를 톡톡히 보는 곡 중 하나라서 클리어하는데 어려움이 많이 있다.. [* 어떻게 보면 [[Riff Guy]]보다도 어렵다. 리프 가이는 뭉개도 체력이 어느정도 차는 편이지만 와이 게이트는..] 초반구간의 트릴때문에, 올콤하기가 어려우며, 중반의 왜일케나 힘이쎄 빠레~ 부분에서는 3연타다음에 바로 2연타로 계단을 타는 패턴이 꽤나 까다로운 패턴이다. 특히 마지막의 '''1번노트에 16비트로 짜자자자잔 짜자자자자자잔 과 함께 2,3,4,5번 노트를 8비트로 번갈아치는 구간'''은 최강의 후살 구간이다. 적응이 되지 않으면 확실한 불렙. 
+
+== Sabin Sound Star에서의 Y-Gate ==
+{{{#!HTML
+<iframe width="600" height="337" src="//www.youtube.com/embed/jCr_NBPOO-k" frameborder="0" allowfullscreen></iframe>
+}}}
+
+Sabin Sound Star 에서는 1차 패치 이후로 EZ2DJ의 구곡들이 이식되기 시작하였다. 5차 패치때에는 Y-Gate가 이식이 되었는데, '''두 개의 BGA'''가 있다는 점에서 약간의 이슈가 되었다. 3S에는 기존에도 두 개의 BGA를 가진 UnderFlow가 있었지만, Y-Gate는 삭제된 3rd TRAX의 BGA가 이식되었기 때문에 이슈가 되었었다. 단, 심의에 적합하지 않았던 부분은 모두 삭제되어 있었으며, 기본적으로 4th TRAX의 BGA가 등장하고, 랜덤으로 3rd의 BGA가 등장한다.
+
+== 가사 ==
+||I am in alone 
+I am in alone
+singing alone
+singing alone
+moving alone
+moving alone
+grooving alone
+grooving alone
+
+medly whispers softly in my ears
+I can't stop this fuzzy feeling
+Got me singing all night long
+I can't stop here
+when the song got me dancing on the table
+try to stop but i am not able
+goop has got me in the trance
+making me just want the dance!
+
+I keep heaing hearing the song.
+just keep ringing ringing the song.
+
+I am in alone
+I am in alone
+singing alone
+singing alone
+moving alone
+moving alone
+grooving alone
+grooving alone
+
+'''Now fellas, can I hear you say, "party!"'''
+'''Ladies, can I hear you say, "party!"'''
+'''fellas, can I hear you say, "party!"'''
+'''ladies, let me hear you say, "pa, pa, party!"'''
+
+I am in alone
+I am in alone
+singing alone
+singing alone
+moving alone
+moving alone
+grooving alone
+grooving alone ||

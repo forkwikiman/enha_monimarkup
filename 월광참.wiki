@@ -1,0 +1,16 @@
+ * 상위항목 : [[창세기전 시리즈/기술]]
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='500' height='408' id='NFPlayer05445' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=199DD325693AA47587B3F0C98BD1C9AFD844&outKey=V12280c779234e9a0acac4f3d181e67d1bf1eb132425dd6e619314f3d181e67d1bf1e' /><param name='wmode' value='transparent' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=199DD325693AA47587B3F0C98BD1C9AFD844&outKey=V12280c779234e9a0acac4f3d181e67d1bf1eb132425dd6e619314f3d181e67d1bf1e' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer05445' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+▲ 10초부터 보면 된다.[* 출처 : http://cafe.naver.com/sharnhoiste]
+
+[[창세기전 시리즈]]의 [[초필살기]]로, [[창세기전 외전 템페스트]]에서만 등장한 기술이다.
+
+[[에밀리오]]로 [[성기사단]]을 제압하는 전투에서 처음 사용할 수 있으며, 이 때 에밀리오의 무기인 [[월광검]]을 빼서 [[엘리자베스 팬드래건]]에게 끼워줄 수 있다.
+
+물론 엘리자베스가 당장 사용할 순 없지만, 스킬 관련 능력치가 8레벨에 다다르면 에밀리오의 월광참을 사용할 수 있다. [[바리사다]]로 사용하는 [[설화난영참]]이 9레벨에서 사용 가능하고 사용하는 SP 게이지도 한칸 더 많은데, 어차피 졸개 처리용으로는 어떤 걸 써도 상관없다. 또한 템페스트 특성상 맘먹고 초필살기를 보려고 기를 모으는게 아니라면 초필살기를 써보기도 전에 게임이 끝나기 때문에(...), 일단은 조금이라도 쓸 가능성이 더 높은 초필살기라 할 수 있다.
+
+작중 묘사는 캐릭터가 공중에 떠오른 뒤, 달빛의 용을 만들어 지면의 적을 공격한다.
+
+~~그런데 사실, 에밀리오의 기술이라면 月光斬이 아니라 [[wiki:"비스바덴" 日光斬이 되어야 한다.]]~~

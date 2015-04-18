@@ -1,0 +1,30 @@
+{{{+2 Wolfram Alpha}}}
+'''[[구글]]신이 검색하는 동안 알파신은 계산하신다.'''
+~~진짜 [[정준하|전자두뇌]]~~ ~~숙제셔틀~~ ~~수학 과제의 8할~~
+[http://www.wolframalpha.com/ 홈페이지]
+[http://www.ted.com/talks/lang/ko/stephen_wolfram_computing_a_theory_of_everything.html TED강연]
+
+attachment:울프럼알파.png
+
+[[울프럼 리서치]]에서 "세계의 모든 체계화된 [[지식]]을 즉시 [[계산]]하고 접근할 수 있도록 한다!"라는 거창한 목표를 가지고 개발중인 검색엔진. 
+
+[[매스매티카]] 기반으로 만들었다. 자연어 검색도 가능하지만 매스매티카의 문법이 그대로 먹히며 따라서 웹브라우저가 있고 인터넷만 되면 다차연립방정식부터 [[미분]], [[적분]], [[극한]], 점화식 찾기, 수열, 그래프 그리기 등 웬만한 공대수학을 풀 수있다.  그야말로 공대생에겐 꿀같은 존재. 더구나 수학뿐만 아니라 물리, 화학 등 웬만한 학문에 대한 자료들도 쉽게 검색할 수 있다. [[아이폰]]과 [[안드로이드(OS)|안드로이드]]용 어플리케이션도 있는데 2달러라서 선뜻 구입하기엔 망설여지지만 있으면 편하긴 하다. 수능 잘 보고 싶으면 [[고딩]]까지는 스스로 풀자. [* 그래도 미적분과 미분방정식 등은 풀이과정을 보여주니 공부할 때에도 편하기는 하다.]
+
+뿐만 아니고 온갖 잡다한 지식까지 전부 계산해서 보여준다. 온라인 [[백과사전]]과 연산엔진을 통합한 셈이다. [[리그베다 위키]]의 일부 [[도시]] 문서에 있는 "서울과의 거리와 시간" 항목은 울프럼알파를 이용해서 ~~검색~~계산한 것이다.
+
+풀이법(step by step solution)은 로그인시 하루 2번밖에 안보여주다가 이제는 무료로 '''안''' 보여준다. 물론 어플리케이션에서는 무제한으로 보여준다.
+
+울프럼알파로는 이런 것도 할 수 있다. 전체 목록은 [http://www.wolframalpha.com/examples/ 여기#]
+ * 일반적인 실시간 정보 검색 : [http://www.wolframalpha.com/input/?i=youporn+vs+fuq.com 예시#] ~~왜 [[야동|이걸]] 예시로 들었는지는 논외로 하자~~
+ * 단위 변환 : [http://www.wolframalpha.com/input/?i=300+mile+to+km 예시#] [http://m.wolframalpha.com/input/?i=1+%E5%B0%BA+to+m&x=-348&y=-71 이것도된다#]
+ * 미분과 적분 :[http://www.wolframalpha.com/examples/Calculus.html #]
+ * [[강남스타일]] : [http://www.wolframalpha.com/input/?i=PSY+curve 농담이 아니다].--앱에서는 식이 나오질 않는다-- --돈주고 샀는데-- --[http://www.wolframalpha.com/input/?i=Miku%E2%80%90like+curve 미쿠도 된다] [[카더라]].--
+ * [[피카츄]] : [http://www.wolframalpha.com/input/?i=Pikachu 도감 전체가 검색 가능하다].
+ *-- 가장 좋아하는 색 : [[24번 신에 나오는 노인|파란색... 아니 노란 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH]]--[http://www.wolframalpha.com/input/?i=what+is+your+favorite+color%3F #]
+ * 손글씨체 : 검색어 앞에 'handwritten style'를 입력하면 검색/계산결과가 손글씨체로 나온다. 글자뿐만 아니라 [http://www.wolframalpha.com/input/?i=handwritten+style+table+d^n%2Fds^n+%28%281%2Fs-cot^%28-1%29%284%2Fs%29%29%29+for+n+%3D+1+...+4 표, 그래프까지(...) 손글씨 스타일]이다. [http://www.wolframalpha.com/input/?i=handwritten+style+Teemo-like+curve 위의 캐릭터 곡선과 섞어보자.(...)]
+ * 기타 인물 정보 : 대표적으로 '''[빌리 헤링턴]'''을 치면 생년월일이 나온다. 활동정보가 안나오는 이유는 울프럼알파가 자료를 취합하는 출처 중에 포르노 배우를 다룰 만한 곳은 별로 없어서...
+외에도 어느 웹 사이트의 규모같은 정보를 알렉사(Alexa)에서 가져온다.
+
+[[마이크로소프트]]와 제휴한 이후로는 [[bing]]에서도 울프럼알파의 엔진을 사용할 수 있으며, [[애플(기업)|애플]]의 [[iOS]] 기기에 내장된 [[Siri]]는 셈 질문을 하면 울프램알파의 엔진을 사용하여 사용자에게 답을 보여준다고 한다.
+
+최근 3D분자모형, 데이터 다운로드등의 부가 기능을 추가한 울프럼알파 프로를 내놓았는데, 연간 66달러(학생은 연간 45달러), 월간 7달러다.

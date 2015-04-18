@@ -1,0 +1,95 @@
+'''전인, 새벽에 쓰러지다.'''
+
+ * 이 항목은 [[전인 새벽에 쓰러지다]]로 접근이 가능하다.
+
+[[목차]]
+
+== 電人、暁に斃れる ==
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/l4ALHs6VzGM" frameborder="0" allowfullscreen></iframe>
+}}}
+SPA 정배치
+
+|||||||| IIDX GOLD [[VIP ROOM]] ||
+|| SILVER ROOM || [[GOLD RUSH]] ||<|3> BLACK ROOM (ONE MORE EXTRA) ||<|3> [[Sense 2007]] ||
+|| GOLD ROOM || [[Candy Galy]] ||
+|| PLATINUM ROOM || '''電人、暁に斃れる。''' ||
+
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 165 || {{{#blue 7}}} || {{{#blue 785}}} || {{{#orange 10}}} || {{{#orange 1255}}} || {{{#red 12}}} || {{{#red 1728}}} || {{{#blue 7}}} || {{{#blue 775}}} || {{{#orange 11}}} || {{{#orange 1207}}} || {{{#red 12}}} || {{{#red 1732}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 14 GOLD ~
+ * 가정용판 수록 : 14 GOLD
+
+[[비트매니아 IIDX 14 GOLD]]의 엑스트라 폴더 [[VIP ROOM]] 중 PLATINUM ROOM의 일원. 작곡은 [L.E.D.]로 L.E.D.-G 명의로 출전했다. VIP ROOM 엑스트라 스테이지 악곡의 작곡가들이 자신의 명의 뒤에 -G 접미사를 붙였는데 유일하게 그만 유일하게 이전부터 계속 붙여왔다[* -G 접미사가 붙은 명의의 악곡들은 주로 하드코어 테크노 계열 장르의 악곡들이다.]. 그에 따라 장르명은 NU-NRG. 
+
+GOLD 가동 당시 LED 전광판에는 『FATAL ATTACK』으로 표기되었다. 제목의 뜻은 '전인, 새벽에 쓰러지다'(덴진, 아카츠키니 타오레루)으로, 이전부터 NRG, 하드스타일 계열 노선으로 작곡해오던 전인 시리즈로서 간만에 나온 작품이었다. CS 9th 수록곡인 炸裂！イェーガー電光チョップ！！의 영문 제목이 'JAEGER '''FINAL''' ATTACK'이었기에 더더욱 의외의 악곡이었다.
+
+난이도는 원모어를 제외한 VIP ROOM 가운데 가장 어려우며, 싱글 어나더는 비교적 밀도가 낮아보이지만 끊임없이 끼여드는 연타는 판정도 못내게하고, 하드게이지에도 걸림돌이 될수있다. 12렙중에서는 중하위권.
+
+BGA는 kototoi가 제작한 전용 BGA.
+
+=== 아티스트 코멘트 ===
+||■Sound / L.E.D.-G
+
+이번의 서브 타이틀이 「GOLD」라고 들었을 때, 다른 작곡가 팀 여러분들 입장에서도
+이번에는 구체적인 공통된 이미지를 갖기 쉽지 않을까, 라고 생각해 전 굳이 그쪽 계통은
+빼겠다고 생각했지만 「GOLD」의 제작도 후반에 접어들면서
+「아~ 역시 한 곡 정도는 해둘걸 그랬나」하고 왠지 모르게 생각하게 되었습니다.
+라고 말해도 이번의 「GOLD」의 컨셉의 한 가지에 「[1980년대 일본 거품경제|버블 시대]의 화려한 이미지」
+라는게 있어서 버블 시대의 때로 말하자면 세계적으로 여태까지의 테크노 팝과는 다른
+(라고 말해도 당연히 영향은 받고 있었지만) 클럽 뮤직으로서의 테크노가 유행하기 시작해,
+저도 그 뜨거움을 받고 있던 시대였습니다. 그런 그 후의 제 음악적인 방향성을
+결정을 짓는 시대가 컨셉의 한 가지에 포함되어 있는 타이틀이라면 역시 그쪽 계통을
+만들어야하지 않겠냐고 생각하던 차에 민완 사운드 디렉터 DJ Yoshitaka군으로부터
+트랙 제작의 의뢰가.. 좋아, 그럼 해볼까! 라고 생각하고 제작을 시작했는데......
+저에게는 완성한 트랙이 초기 이미지에서 어긋나는 건 언제나의 일이였지만
+이번에도 뭐 그런 느낌입니다. 아, 그래도 이번에는 미묘하게 초기 이미지는 남아있는 느낌이
+없는 것도 아니라 조금은 나으려나....
+
+■Movie / kototoi
+
+여태까지의 전인 무비와는 한참 동떨어지고 말았습니다. 죄송합니다.
+솔직히 이번에 제일로 생각에 빠지게 한 작품입니다.
+어떻게 이 곡조에 전인을 연관지을지 끝없이 고민을 이어가던 결과, 이런 느낌으로 완성되었습니다. 어떠셨나요.||
+
+== DENJIN AKATSUKINI TAORERU -SF PureAnalogSynth Mix- ==
+||||||||<tablewidth=100%> [[PARALLEL ROTATION]] ||
+||<|4><:> IIDX RED || [spiral galaxy][[BR]][wiki:"spiral galaxy" -L.E.D. STYLE SPREADING][[BR]][wiki:"spiral galaxy" PARTICLE BEAM MIX-] ||<|20> PARARELL ROTATION[[BR]]One More EXTRA ||<|20> [Almagest] ||
+|| [[eRAseRmOToRpHAntOM]] ||
+|| [[水上の提督(Short mix from "幻想水滸伝V")]] ||
+|| [[ワルツ第17番 ト短調 大犬のワルツ]] ||
+||<|4><:> HAPPY SKY || [wiki:"SPARK!" SPARK! -essential RMX-] ||
+|| [DAWN -THE NEXT ENDEAVOUR-] ||
+|| [[サヨナラ・ヘヴン]] ||
+|| [[EXUSIA]] ||
+||<|4><:> DistorteD || [wiki:"CaptivAte 〜裁き〜" CaptivAte 〜裁き〜][[BR]] [wiki:"CaptivAte 〜裁き〜" (SUBLIME TECHNO MIX)] ||
+|| [[SOLID STATE SQUAD]] ||
+|| [[quell -the seventh slave-]] ||
+|| [[G59]] ||
+||<|4><:> GOLD || '''DENJIN AKATSUKINI TAORERU[[BR]]-SF PureAnalogSynth Mix-''' ||
+|| [The Story Begins] ||
+|| [[GOLDEN CROSS]] ||
+|| [[mosaic]] ||
+||<|4><:>DJ TROOPERS || [[wiki:"Dazzlin' Darlin" Dazzlin' Darlin -秋葉工房 mix-]] ||
+|| [BEAUTIFUL ANGEL] ||
+|| [[THE LAST STRIKER]] ||
+|| [[D]] ||
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/_A8_R3XyRRU&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_A8_R3XyRRU&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 165 || {{{#blue 6}}} || {{{#blue 532}}} || {{{#orange 8}}} || {{{#orange 826}}} || {{{#red 9}}} || {{{#red 1336}}} || {{{#blue 6}}} || {{{#blue 527}}} || {{{#orange 7}}} || {{{#orange 819}}} || {{{#red 10}}} || {{{#red 1222}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 17 SIRIUS ~ 18 Resort Anthem
+
+[[Sota Fujimori]]가 리믹스한 버전이 17 SIRIUS의 엑스트라 폴더인 [[PARALLEL ROTATION]] GOLD 폴더에 수록되었다. 장르는 PSYCHE TRANCE. 그리 오래가지 못하고 19 Lincle에서 짤렸다. BGA은 PARALLEL ROTATION 범용 BGA가 대응.
+
+채보의 난이도는 원곡과는 달리 대체로 중저렙 수준. 하지만 싱글 어나더는 난이도 9 주제에 노트수는 자그마치 1336개나 되는 엄청난 노트수를 자랑, [[사기 난이도]]의 문서의 예에 명단을 당당하게 올렸다.
+
+L.E.D.의 電人K에 풀 버전이 수록되어 있다. 앨범 제목에도 들어간 '電人'이건만 이 앨범에서 전인 시리즈와 관련이 있는 곡은 이 리믹스가 유일했다(……).

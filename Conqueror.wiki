@@ -1,0 +1,69 @@
+[[목차]]
+
+== [DJMAX TECHNIKA] 시리즈의 세트 ==
+세트 이미지에 표기된 난이도는 MANIAC Performance
+=== [DJMAX TECHNIKA] ===
+[[DJMAX TECHNIKA]]의 플레이 모드 중 하나인 Technical 모드에서 고를 수 있는 세트 중 하나로, [8월 25일] Evolution EP 업데이트와 함께 업데이트되었다. 해금을 필요로 하는 세트로, '''Platinum Crew''' 비대응 게임 센터에서 플레이하거나, 테크니카 IC 카드가 없다면 이 세트를 플레이할 수 없다.
+
+Conqueror Set 글자 및에 More than Nightmare라고 써져있는데, [wiki:"Nightmare"설마...]
+
+==== 수록곡 일람 ====
+
+||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||6||Electro House||[[Electronics]]||[wiki:"클래지콰이" Clazziquai]||128||TP||[wiki:"DJMAX TECHNIKA/Electro EP" Electro EP] 보스곡||
+||8||Electro pop||[[내게로 와]]||[wiki:"클래지콰이" Clazziquai]||125||MX||[[Core Sound]] 보스곡||
+||8||Colour pop||[[Colours of Sorrow]]||[[Tsukasa]]||143||TP||[wiki:"DJMAX TECHNIKA/Heartbeat" Heartbeat] 보스곡||
+||9||Drum'n Bass||[[SIN]]||[[ESTi]]||190||TP||[wiki:"DJMAX TECHNIKA/Customizer" Customizer] 보스곡||
+||9||Gabber||[[Son of Sun]]||[wiki:"호소에 신지" Hosoe Shinji]||200||TP||[wiki:"DJMAX TECHNIKA/Customizer" Customizer] 보스곡||
+||9||Techno pop||[[End of the Moonlight]]||[[Forte Escape]]||155||TP||[wiki:"DJMAX TECHNIKA/Challenger" Challenger] 보스곡, ※[[지뢰곡]]||
+||9||Psycheledic Trance||[[Fermion]]||[[makou]]||156||PP||[wiki:"DJMAX TECHNIKA/Challenger" Challenger] 보스곡||
+||?||Melodic Trance||[[Landscape]]||[[Tsukasa]]||140||MX||1~3 스테이지 평균MAX 95% 미만||
+||?||Synth DnB||[[BlythE]]||[[M2U]]||180||TP||1~3 스테이지 평균MAX 95% 이상||
+||?||Melodic Trance||[[Thor]]||[[XeoN]]||150||TP||특정 조건 만족시 4스테이지 출현(조건불명)||
+==== 설명 ====
+PLATINUM MIXING의 36번 미션인 '뇌신'을 클리어하면 3회씩 플레이카운트가 추가된다. 미션에 도전하면 4000MAX가 차감되므로 한번 플레이시 1333.333... 의 MAX를 소모하는 셈. 뇌신의 클리어 조건은 Blink[* 판정선이 깜빡깜빡거리는 이펙트.]를 걸고서 [[SuperSonic]] TP - [[Melody]] TP - [[I want You]] SP 세 곡을 연속으로 플레이하며 400콤보를 넘어야한다. 세 곡으로, 400콤보를 노리려면 첫 곡인 [[SuperSonic]]에서 초반에 바로 400콤보를 쌓을 수 있도록 하자. 중간에 끊기더라도 [[Melody]]의 후반 구간 전까지만 이어주면 400콤보를 달성할 수 있다. 하지만, Melody까지 400콤보를 넘지 못했다면 마지막 곡인 [[I want You]]의 경우 올콤 방지구간이 꽤 산재해 있어서 400콤보를 내기 상당히 힘드니 가능한 한 초반에 뽕을 뽑는것이 좋다. 사실, 컨커러 셋을 도전하러 POP DJ까지 찍었을 정도면 SuperSonic은 무난히 400콤보까지 이을 수 있을 것이다.
+
+[[Electronics]] TP부터 [[Fermion]] PP까지 전부 테크니컬 셋의 보스곡에서 데려온 곡들이며 하나같이 주옥같은 난이도를 자랑한다. 참고로 '[[내게로 와]]'는 [First Step]의 패턴이 아닌 [[Core Sound]]의 패턴이다. TP로 표기하면 [wiki:"DJMAX TECHNIKA/First Step" First Step] 패턴과 혼동되므로 가장 보편적으로 일컬어지는 MX로 표기하였다. 더불어 [[Landscape]]도 아직 스페셜 패턴이 나오지 않았지만 TP패턴은 이미 [[Core Sound]]에 존재하므로 MX로 표기하였다.
+
+히든 보스곡인 [[Thor]] TP패턴은 나오는 조건이 참으로 애매하다. 해당항목 참조
+
+지뢰곡이고 뭐고 할 것 없이 죄다 어렵고, 특히 쉬워 보이는 곡들이 오히려 감춰진 복병이다. [[Electronics]]의 마지막 연타에서 게이지를 말아먹어서 빨피가 되거나 클리어하여도 게이지가 많이 줄어들어 다음 곡 진행에 애로사항이 꽃피는 경우, [wiki:"내게로 와" 내게이로와]에서 보라떡칠에 의한 씹힘 현상, [wiki:"Colours of Sorrow" 코사인]의 전형적인 씹힘 등이 있다.
+또한 [[End of the Moonlight]]의 경우 게이지 회복이 수월한 1스테이지에 넣는 것을 적극 권장한다. [* 실제 랭킹페이지에서도 매우 많은 유저들이 엔오문을 1스테이지에 넣는다.]
+
+첫클리어에는 [[Electronics]] / [[내게로 와]](또는 [[Son of Sun]]) / [[Colours of Sorrow]] / [[Landscape]]
+스코어코스로는 [[Son of Sun]] / [[End of the Moonlight]] / [[Fermion]] / [[Thor]] 를 플레이하면 되기는 하는데, [[Fermion]]의 경우 올콤시 [[Colours of Sorrow]]에 비해 4000점 정도밖에 더 나오지 않는데 올콤 난이도는 더 어렵기 때문에 [[Fermion]] 대신 [[Colours of Sorrow]]를 넣는 경우가 많다. 또한 Thor가 그렇게 쉽게 나오는 곡이 아니라서 보통 다른 보스곡이 들어가게된다.
+=== [DJMAX TECHNIKA 2] ===
+[[DJMAX TECHNIKA 2]]의 플레이 모드 중 하나인 Club Mixing에서 고를 수 있는 세트 중 하나.
+==== 수록곡 일람 ====
+
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||1||6||Electro House||[[Electronics]]||[Clazziquai]||130||NM|| ||
+||2||8||Electro pop||[내게로 와]||[Clazziquai]||125||MX|| ||
+||3||8||Drum'n Bass||[SIN]||[ESTi]||190||HD||||
+||4||8||Gabber||[Son of Sun]||[wiki:"호소에 신지" Hosoe Shinji]||200||HD|| ||
+||5||8||Techno pop||[End of the Moonlight]||[Forte Escape]||155||MX||※[[지뢰곡]]||
+||6||8||Psychedelic Trance||[[Fermion]]||[makou]||156||NM|| ||
+||B1||9||Synth DnB||[BlythE]||[M2U]||180||HD||선택곡 3곡 번호 합<14||
+||B2||10||Melodic Trance||[Thor]||[XeoN]||150||HD||선택곡 3곡 번호 합≥14||
+
+==== 설명 ====
+전작과 비교하여 셀렉곡에서 [Colours of Sorrow], 보스곡에서 [Landscape]가 빠졌고[* 덕분에 남아있는 [HeartBeat] set의 보스곡은 없고 잘려나간 [Core Sound] set의 보스곡은 남아있는 부조리함이 생겼다.], 전작에서 출현 조건 불명이었던 [Thor]가 상위 보스곡이 되었으며, [BlythE]가 하위 보스곡으로 내려갔다.
+
+=== [DJMAX TECHNIKA 3] ===
+==== 수록곡 일람 ====
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고||
+||1||6||Electro House||[[Electronics]]||[Clazziquai]||130||NM|| ||
+||2||8||Electro pop||[내게로 와]||[Clazziquai]||125||MX|| ||
+||3||8||Drum'n Bass||[SIN]||[ESTi]||190||HD||||
+||4||8||Gabber||[Son of Sun]||[wiki:"호소에 신지" Hosoe Shinji]||200||HD|| ||
+||5||8||Techno pop||[End of the Moonlight]||[Forte Escape]||155||MX||※[[지뢰곡]], 상위 루트 필수선택||
+||6||8||Psychedelic Trance||[[Fermion]]||[makou]||156||NM||상위 루트 필수선택 ||
+||B1||9||Synth DnB||[BlythE]||[M2U]||180||HD||선택곡 3곡 번호 합<14||
+||B2||10||Melodic Trance||[Thor]||[XeoN]||150||HD||선택곡 3곡 번호 합≥14||
+
+==== 설명 ====
+다른 구 세트들과 같이 그대로 이어졌다. [Thor] Exetended mix의 HD 패턴이 Thor의 HD패턴과 비슷하면서도 더욱 어렵운데 레벨이 9인 것을 생각해보면 난이도가 묘하게 이상하다. 하지만 클럽믹싱 4스테이지의 게이지가 데미지가 크고 체력이 잘 안차는 점을 고려하면 클리어 난이도는 비슷...한가?
+=== 관련 항목 ===
+ * [wiki:"DJMAX TECHNIKA#s-2.5" DJMAX TECHNIKA]
+ * [DJMAX TECHNIKA 2/데이터]
+ * [DJMAX TECHNIKA 3/데이터]

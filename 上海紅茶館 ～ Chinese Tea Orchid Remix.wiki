@@ -1,0 +1,70 @@
+'''상해홍차관 ～ Chinese Tea Orchid Remix'''
+
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 원곡은 [[동방홍마향]] 3스테이지의 테마곡인 '上海紅茶館 ~ Chinese Tea'이며, 리믹서는 Yooh.
+[[하쿠레이 신사 예대제]]에서 발표된 사볼 동방홍마향 리믹스 앨범에 이 곡의 롱버전이 수록되었다.
+
+{{{#!HTML
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/Sbezd2WJjKE?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Sbezd2WJjKE?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+롱버전
+
+== [[사운드 볼텍스]] ==
+[[사운드 볼텍스 플로어]] '[[동방홍마향]] 리믹스곡 컨테스트'의 上海紅茶館 ~ Chinese Tea 부문 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://sdvx.info/img/jacket2/shanghaikouchakanchineseteaorchidremix_exh.jpg?width=150 || http://sdvx.info/img/jacket2/shanghaikouchakanchineseteaorchidremix_exh.jpg?width=150 || http://sdvx.info/img/jacket2/shanghaikouchakanchineseteaorchidremix_exh.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 10}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0551}}} || {{{#orange 0901}}} || {{{#ff009f 1588}}} ||
+|| 일러스트 담당 || {{{#purple アサヤ}}} || {{{#orange アサヤ}}} || {{{#ff009f アサヤ}}} ||
+|| 이펙터 || {{{#purple MAD CHILD}}} || {{{#orange MAD CHILD}}} || {{{#ff009f MAD CHILD}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 22(2014.1.10)}}} ||
+|| [[BPM]] |||||| 188 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 08(2014.3.6 ~ 2014.4.4), Skill Level 08 C코스(2014.12.26 ~ 2015.2.27)
+
+||<#eeeeee>
+채용 감사합니다!! Yooh입니다!! (요오후도 요오호도 아니에요!)
+이번에도 SOUND VOLTEX다운 질주감을 소중히 하며, 조금 화려한 느낌으로 어레인지 해봤습니다!
+원곡다움은 남기면서 어떻게 멜로디를 무너뜨려갈지 등 여러가지로 고생했지만, 아주 즐겁게 제작했습니다!
+스피드감 넘치는 상해홍차관, 꼭 실기기로 체감해보세요!!
+
+그리고 이번에는 놀랍놀랍게도 어필카드 채용자인 아사야씨에게서 자켓을 그려주셨습니다!!
+매우 멋진 자켓 데이터를 받았을 때에는 정말로 감동했습니다...!!
+아사야씨 대단하십니다!!
+
+악곡 쪽도 자켓쪽도 정말 멋진 작품으로 완성되었다고 생각합니다!!
+'상해홍차관 ～ Chinese Tea Orchid Remix' 잘 부탁드립니다!!
+
+-당선자 Yooh 코멘트-
+||
+
+||<#eeeeee>
+http://p.eagate.573.jp/game/sdvx/sv/p/floor/image/floor_result/remix/04/05.png
+※이 작품은 자켓도 함께 채용되었습니다
+일러스트레이터명： アサヤ
+안녕하세요, 안녕하세요 아사야입니다.
+
+이번에 자켓을 그렸습니다. 이런 기회를 주신 Yooh씨께 정말 감사합니다.
+자킷은 나름대로 곡의 이미지를 부딛쳐봐서 실제로 플레이하시고 뭔가 느끼실 수 있다면 다행입니다.
+
+덧붙여서 노래 제목 'orchid'는 둘이서 생각한 어떤 꽃의 의미가 담겨있습니다.
+직역하면 '난'입니다만, 그것과는 다른 어느 꽃에서 따왔습니다. 그 꽃의 이름은... 거기에 담겨 있는 의미는?
+
+밝지만 어딘가 애절한, 그런 멋진 악곡, 꼭 플레이해 보세요!
+
+-당선자 アサヤ 코멘트-
+||
+
+{{{#!HTML
+<iframe width="420" height="640" src="//www.youtube.com/embed/OjC30WnC95s" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 퍼펙트 영상
+
+업데이트 후 곡의 평가도 좋고 채보의 평가도 좋아 당당히 인기곡 반열에 올랐다. EXH 패턴은 동시치기 위주의 패턴이다. 중간 부분의 FX,BT원핸드 부분에서 에러가 날 수 있으니 조심하자.

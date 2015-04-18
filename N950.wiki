@@ -1,0 +1,21 @@
+http://upload.wikimedia.org/wikipedia/en/thumb/0/06/Nokia_N950.jpg/400px-Nokia_N950.jpg
+
+[[목차]]
+== 개요 ==
+
+[[노키아]]에서 출시한 [[미고]](MeeGo) 운영체제 기반 개발자 전용장치인 [[스마트폰]].
+
+== 사양 ==
+||[wiki:"CPU" 프로세서]||TI [[OMAP]] 3630 SoC. ARM Cortex-A8 1 GHz CPU, PowerVR SGX530 GPU ||
+||[[메모리]]||1 GB mobile DDR 16 GB / 64 GB 내장메모리 ||
+||[[디스플레이]]||4인치 480 x 854 TFT LCD, 멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[wiki:"3G" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11a/b/g/n, 블루투스 2.1+EDR ||
+||[[카메라]]||1200만 화소(후면)||
+||[[배터리]]||Li-lon 1450 mAh혹은 Li-lon 1250 mAh ||
+||[[운영체제]]||[[미고]] 1.2 'Harmattan' ||
+
+== 소개 ==
+코드명 Dali로, 원래는 N9-00으로 출시할 기기였다.
+하지만 출시직전 뒤떨어진다는 판단으로 출시가 취소되었고,
+이미 92000여대가 만들어졌기 때문에 N9출시에 맞춰서 개발자 전용장치인 N950으로 출시하게 되었다.
+구입할수는 없으나 노키아에서 개발자에게 대여하여 주었다.

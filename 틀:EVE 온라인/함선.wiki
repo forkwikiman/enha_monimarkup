@@ -1,0 +1,26 @@
+||<-6><tablewidth=100%><tablebgcolor=#131d27><table bordercolor="#394a56"><rowbgcolor=#030404> '''[[EVE 온라인|<font color=white>EVE 온라인]]{{{#ffffff 의 팩션별 함선 목록}}}''' ||
+||<:>attachment:"EVE 온라인/함선/amarr2.png"
+||<:>attachment:"EVE 온라인/함선/caldari2.png"
+||<:>attachment:"EVE 온라인/함선/gallente2.png"
+||<:>attachment:"EVE 온라인/함선/minmatar2.png"
+||<:>attachment:"EVE 온라인/함선/ore2.png"
+||<:>attachment:"EVE 온라인/함선/guristas2.png"||
+||<:><rowbgcolor=#0d131a>  [[EVE 온라인/함선/아마르|<font color="#c0e5fa">아마르]]  
+|| [[EVE 온라인/함선/칼다리|<font color="#c0e5fa">칼다리]] 
+|| [[EVE 온라인/함선/갈란테|<font color="#c0e5fa">갈렌테]] 
+|| [[EVE 온라인/함선/민마타|<font color="#c0e5fa">민마타]] 
+|| [[EVE 온라인/함선/ORE|<font color="#c0e5fa">ORE]] 
+|| [[EVE 온라인/함선/구리스타|<font color="#c0e5fa">구리스타]] ||
+||<:>attachment:"EVE 온라인/함선/sansha2.png"
+||<:>attachment:"EVE 온라인/함선/bloodraiders2.png"
+||<:>attachment:"EVE 온라인/함선/angel2.png"
+||<:>attachment:"EVE 온라인/함선/serpentis2.png"
+||<:>attachment:"EVE 온라인/함선/soe2.png"
+||<:>attachment:"EVE 온라인/함선/mordus2.png"||
+||<:><rowbgcolor=#0d131a> [[EVE 온라인/함선/산샤|<font color="#c0e5fa">산샤]] 
+|| [[EVE 온라인/함선/블러드 레이더|<font color="#c0e5fa">블러드]] 
+|| [[EVE 온라인/함선/엔젤|<font color="#c0e5fa">엔젤]] 
+|| [[EVE 온라인/함선/서펜티스|<font color="#c0e5fa">서펜티스]] 
+|| [[EVE 온라인/함선/시스터 오브 이브|<font color="#c0e5fa">시스터]] 
+|| [[EVE 온라인/함선/모르두스 레기온|<font color="#c0e5fa">모르두스]] ||
+||<-6> [[EVE 온라인/함선/기타|<font color="#c0e5fa">기타 이벤트 함선]] ||

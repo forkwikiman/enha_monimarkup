@@ -1,0 +1,30 @@
+http://img32.imageshack.us/img32/6185/eliwureposter2.jpg
+
+[[매드 무비]] 작품의 하나. Kain-x-spirits(KxS)가
+러시아 계열 해외 [[매드 무비]]사이트 [http://amvnews.ru/ AMV News]가 주최한 [http://amvnews.ru/index.php?go=Files&in=cat&id=24 Big Contest 2009]에 출품한 작품. 2009년 4월 26일 투고되었다.
+제작 소프트웨어 : Virtual Dub, Sony Vegas, After Effect 
+삽입곡은 Ayane의 '''Complex Image'''
+
+원래 투고된 사이트에서 [[니코니코 동화]]에 전파되었고, 한국에는 블로거 엘라이스가 니코동에서 가져와 소개한 것으로 퍼졌다.
+영상 소스가 '''106개 작품'''이라 작품 하나 하나 찾아가면서 보는것도 하나의 감상포인트이며 특이하게 남정네가 손에 꼽을 정도로 등장한다.
+
+두가지 버전이 존재하는데 하나는 콘서트 출품용으로 제작한 버전과(4분 3초)
+
+{{{#!html
+<embed src="http://amvnews.ru/Video/player.swf" allowscriptaccess="always" allowfullscreen="true" flashvars="height=275&amp;width=480&amp;file=http%3A%2F%2Famvnews.ru%2Findex.php%3Fgo%3DFiles%26file%3Dse%26id%3D1431&amp;searchbar=false&amp;smoothing=true&amp;backcolor=CCFFFF&amp;frontcolor=000000" height="275" width="480">
+}}}
+(엘라이스 공개 버전), [http://amvnews.ru/index.php?go=Files&in=view&id=1431 출처]
+
+또 하나는 그것에 약간 수정을 하고 분량을 늘린 버전이 있다.(5분 39초)
+
+{{{#!html
+<embed src="http://www.youtube.com/v/N6jHdhqHuqc?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed>
+}}}
+[http://www.animemusicvideos.org/members/members_videoinfo.php?v=172254 출처]
+
+참고로 유투브에서 해당 작품을 감상할 때에는 반드시 '''480p'''로 감상해야 '''그나마'''제대로 된 음질과 영상을 볼수있다. 유투브 영상 변환의 한계상 원본과 미묘하게 싱크가 어긋난다. 약 1초.
+가장 좋은 방법은 원출처에서 다운로드 하는 것. 해당 출처에서 다운로드 방법은 회원 가입이 필요없는 Direct와 회원 가입을 해야하는 Local이 있는데 Direct가 현재 막힌 관계로 회원가입이 필요한 Local만 가능하다.
+
+
+
+제작자의 코멘트 : '''Enjoy !'''

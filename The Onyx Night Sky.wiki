@@ -1,0 +1,60 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| [[트랜스(음악)|Trance]] ||
+|| 곡명 |||||||| The Onyx Night Sky ||
+|| 작곡 |||||||| [[MAX]] ||
+|| 배경 |||||||| [[범용 BGA]] ([[EZ2AC]]) [[br]] ~~[[SMIN]] ([[EZ2ON]])~~[* 수록이 취소되었다.] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ AE]] ||
+|| BPM |||||||| 140 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 3}}} || {{{#red 5}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 4}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!html
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F39297777&show_artwork=true"></iframe>
+}}}
+== 개요 ==
+과거 [BLEED]를 작곡했던 MAX가 새로이 EZ2DJ에 투고한 곡, 이전 곡이 주는 경쾌하고 들뜬 사운드가 아닌 보다 감미로운 멜로디가 인상적이다.
+== 패턴 ==
+=== 5 Street Mix ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/WVRVpUEpF8A?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/WVRVpUEpF8A?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EZ & NM & HD MIX
+
+AE 오리지널 당시에는 5스트릿 기준 NM Lv.7 - HD Lv.11 이었으나, 심각한 수준의 [물렙곡]이었다. 그탓에 패치판인 AEIC에서는 Lv.10으로 격하. 이후론 그럭저럭 타당한 Lv.10 수준이라고 평가받는다.
+
+5키 라디오에선 Ch. Mutant에서 전용 패턴이 등장하는데, 체감 난이도는 HD와 비슷하며 중간의 트릴부분이 약화된 대신에 후반부에 멜로디 스크가 삽입되어 보다 더 어려워졌다.
+
+그 외에, Ch. AZURE EXPRESSION의 첫 번째 판에 스트릿의 HD 패턴이 등장한다.
+=== 7 Street Mix ===
+7키 라디오의 경우는 Ch. water-flame 1 스테이지에 등장한다.
+=== 10 Club Mix ===
+첫 번째 판에서 바로 선택가능. 정말 쉽다. HD 없음.
+=== 14 Space Mix ===
+Lv.11. 올송을 걸지 않을경우 1 스테이지에 출현한다. 난이도에 걸맞게 적당히 손맛있는 치기좋은 패턴으로 무장하고 있어서 중수 유저들에게 매우 추천할 만한 곡.
+노래 자체도 좋고 패턴도 재미있어서 인기가 많아야 정상이지만 의외로 하는 사람은 적은듯.
+=== EZ2 Catch ===
+NM만 있으며 Lv.9. 그리 어려운 패턴은 아니지만 중간부분에 살짝 비비는 구간만 넘기면 올콤하는 데에 어려움은 없다.
+=== Turntable ===
+역시 캐치와 마찬가지로 AE 오리지널 당시에는 NM만 있었으며 Lv.7, 특별한 점은 없이 매우 평범한 레벨 땜빵용 채보이다. 패치판인 [[EZ2DJ AEIC]]에서 Lv.10짜리 HD 패턴도 생성.
+= [[EZ2ON]]에서의 수록? =
+attachment:/toez2dj_13883910501.png?width=560
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/fy1Q_NhJTDg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[EZ2ON]]에서 고퀄리티 BGA가 만들어져 수록될 예정이었으나, EZ2ON이 서비스를 종료하는 바람에 취소되었다.
+이미 고퀄리티의 BGA가 존재하는 Rising in My Heart와 달리 아예 BGA가 없는 곡이기 때문에 매우 아쉬운 부분이다.
+
+이지투온이 망한 지 약 두 달 이후, 제작자가 BGA를 완성하여 공개하였다.
+
+실제 게임에 수록되었다면, 아마 무난한 보통 난이도의 채보가 뽑혀나왔을 것이다. [[http://waff.tistory.com/98 참고 포스트]]

@@ -1,0 +1,28 @@
+ * 상위 항목 : [[ZTE]]
+[[목차]]
+
+||<tablealign="center"> http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/c/r/cricket_engage_1.png ||
+|| [http://wwwen.zte.com.cn/endata/magazine/mobileworld/2012/3/articles/201206/t20120625_314104.html ZTE Nova 4 공식 보도자료] ||
+
+== 개요 ==
+[[ZTE]]가 2013년 3월 미국 지역 통신사 [[크리켓]]과 캐나다를 통해 출시한 [[안드로이드]] [[스마트폰]]. 기기명은 V8000.
+
+== 사양 ==
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655T [[SoC]]. [[Qualcomm Scorpion]] 1.4 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 30만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1900 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||61 x 122 x 13 mm, 153 g ||
+||기타|| ||
+
+== 상세 ==
+무난한 수준의 중저사양의 스마트폰이다.
+
+미국 지역 통신사 크리켓으로는 ENGAGE라는 펫 네임으로 출시가 되었다. 당초 크리켓 항목에 포함되어 있었으나, ZTE 공식 홈페이지에서 보도자료가 확인되어 정식 발매명인 Nova 4로 항목을 분리하였다.
+
+[[CDMA]] 단독 지원 기기에는 '''쓸데없는 SIM 카드 슬롯'''[* R-UIM 카드라는 CDMA용 SIM 카드를 사용하는 사업자로는 대표적으로 중국 차이나텔레콤과 일본 KDDI가 있기는 하다.]이 존재한다고 한다.[* 출처는 [http://youtu.be/BMFUkkHoUkw 크리켓 유저 포럼의 개봉기]로 말 그대로 유저들 포럼이지 '''회사 공식 채널이 아니다'''.] 이 때문에 [[CDMA]] 뿐만이 아니라 [[GSM]] 혹은 [[WCDMA]] 지원 의혹도 있는 상황이다. 하지만, [http://www.zteusa.com/phones/cricket-engage.html ZTE USA 공식 홈페이지], [http://www.mycricket.com/cell-phones/details/zte-engage-v8000 크리켓 와이어리스 공식 홈페이지]에는 CDMA만 기재되어있다.[* [http://www.mycricket.com/cell-phones/details/zte-engage-v8000 크리켓 와이어리스 공식 홈페이지]에는 '''3G 지원'''이라는 단어가 언급되어 있는데, [[CDMA]] 서비스 통신사 태반이 EV-DO Rev. A도 3G 취급한다. 속이는 것이 아니라 ITU에서도 3G로 인정을 받긴 했기 때문에 소비자 입장에서는 찜찜하지만 현실인 것도 사실이다.]
+
+캐나다에도 출시가 되었는데, 정식 발매명 없이 그냥 V8000이라는 이름으로 출시하였다.

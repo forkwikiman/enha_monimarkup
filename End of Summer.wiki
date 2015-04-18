@@ -1,0 +1,59 @@
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| End of Summer ||
+|| 작곡 |||||||| Mhz ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 120 ||
+
+== [[EZ2DJ]]에서의 End of Summer ==
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 5}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange -}}}[* 레벨 8 패턴이 있었으나 CV에서 삭제.] || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange -}}}[* 레벨 7 패턴이 있었으나 삭제됨.] || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='zKuITT1I8fw$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=zKuITT1I8fw$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=zKuITT1I8fw$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+Mhz가 이지투디제이를 통해 공개한 유일한 곡으로 퓨전 재즈 곡이다. 잔잔한 곡 분위기에 쉬운 난이도로 트랜스 일색이었던 7th에서 돋보이는 곡이었으나 인기는 없었다. 난이도는 이지 5, 노멀 6. 하드나 슈퍼하드 채보는 없다.
+
+작곡자인 Mhz는 후일 이름을 ALTiTUNE으로 바꾼 후 [[EZ2ON]]에 여러 곡을 발표하였고, 이 곡 또한 EZ2ON에 이식되었다.
+
+1.0 당시에는 강변 풍경을 담은 사진 두 장 가지고 돌리는 단촐한 BGA를 사용하였다. 1.5에서는 [[범용 BGA]]로 바뀌었다.
+
+이 곡은 한 번도 라디오 채널에 들어간 적이 없다.[* 최근작인 BE에서 떼거지로 이식된 [[Sabin Sound Star]]의 곡들을 빼면 라디오에 한 번도 못 들어간 곡들은 [[Freedom]], [[With U Girl]], [[Up and down]], End of Summer, [[The back of beyond]] 다섯 곡이 전부다.] AE에서 판권 문제로 삭제되었고, 이 판권 문제가 해결될 기약이 없는 만큼 영원히 라디오 미수록곡으로 남을 것으로 보인다.
+
+== [[EZ2ON]]에서의 End of Summer ==
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='JZlKkPEpXbI$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=JZlKkPEpXbI$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=JZlKkPEpXbI$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+--남자 둘이 데이트 나가는--'''BGA'''
+
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| [[추가바람]] ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) || 3 || 7 || 10 || - || - ||
+|| 스트릿(5키) || 3 || 7 || 11 || 13 || - ||
+|| 클럽(6키/8키) || 7 || 11 || 13 || - || 13 ||
+
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/TTqS_Neelck" frameborder="0" allowfullscreen></iframe>
+}}}
+
+6키 HDMix 영상.
+
+저난이도곡을 지향하던 원작과는 달리 제법 어려운 HDMix와 SHDMix가 추가되어 있다.
+
+
+== 동명의 [동방췌몽상] 엔딩곡 ==
+
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/9Y7o-DYsrQE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9Y7o-DYsrQE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+당연히 제목만 같다. 

@@ -1,0 +1,43 @@
+'''히토이로''' 뜻은 '한가지 색'
+
+[[목차]]
+
+== 개요 ==
+http://ec3.images-amazon.com/images/I/51DVn7CcGvL._SL500_AA300_.jpg
+싱글 자켓
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer16423' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=9B472879BBC30603A21C021DC9E8493B2099&outKey=V126b6f9601b1a075094cba6b3d1a471007295e1d3aa0a4ab6914ba6b3d1a47100729' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=9B472879BBC30603A21C021DC9E8493B2099&outKey=V126b6f9601b1a075094cba6b3d1a471007295e1d3aa0a4ab6914ba6b3d1a47100729' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer16423' id='NFPlayer16423' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+PV 영상
+
+[[나카시마 미카]]의 20번째 싱글음반 및 그 표제곡. 2006년 11월 29일에 발매되었다. [[wiki:"나나(만화)" 동명의 만화]]를 원작으로 한 영화 [[wiki:"나나(영화)" NANA2]]의 주제가로 쓰였고, 나카시마 미카 본인이 주연을 맡아서 그런지 ''''NANA starring MIKA NAKASHIMA'''' 명의로 되어 있다.
+
+싱글은 오리콘 차트 5위까지 올랐다.
+
+== 수록곡 목록 ==
+1. 一色 
+2. 一色 (Instrumental)
+3. EYES FOR THE MOON 
+4. EYES FOR THE MOON (Instrumental)
+
+== [[유비트 시리즈]] ==
+http://img.i-revo.jp/jubeat/img/id08c50ac0d61402b80d298a1c6211d66e.jpg
+
+||||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>2||<:>4||<:>7||
+||<#faca00><:>노트수||||<:>156||<:>316||<:>459||
+||<#faca00><:>BPM||||||||<:>108||
+||<#faca00><:>곡 이력||||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#27a449 BSC}}}레벨 1 하락, {{{#e75050 EXT}}}레벨 1 하락[[BR]][[유비트 플러스]]에서 music pack 23에 수록[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+커버 보컬로 수록되었다.
+
+{{{#!HTML
+<iframe title="YouTube video player" width="640" height="480" src="http://www.youtube.com/embed/DLyDGejUwzQ" frameborder="0" allowfullscreen></iframe>
+}}}
+NAT 플레이어의 [[엑설런트]] 영상
+
+위아래 구석에서 동시에 나오는 노트는 무리하게 손을 벌려서(...) 치면 미스나기 쉬우니 두 손으로 치는 것이 안전. 후렴구에 돌입하기 전의 기습난타 및 대칭으로 지나면서 미묘하게 속도가 다른 노트를 조심하자.

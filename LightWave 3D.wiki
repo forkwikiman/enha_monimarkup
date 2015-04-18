@@ -1,0 +1,25 @@
+[[include(틀:그래픽 툴)]]
+||이 항목은 [라이트웨이브]로 검색해도 들어올 수 있다.||
+
+||<table align=right><tablewidth=35%>|| http://logonoid.com/images/lightwave-logo.png?width=60% ||
+||<width=40%> 정식명칭 || LightWave 3D (라이트웨이브 3D) ||
+|| 개발 || [[NewTek]] ||
+|| 라이센스 || 상업소프트웨어 ||  
+|| 용도 || 모델링, 렌더링 ||
+|| 운영체제 || [[Windows]], [[OSX]] ||
+|| 사이트 || [https://www.lightwave3d.com/|홈페이지] ||
+http://www.rap-ing.si/modules/uploader/uploads/s_product/pics/lightwave_11.jpg?width=60%
+[[목차]]
+
+== 개요 ==
+NewTek 사에서 개발한 [[3D]] 그래픽 툴이다.
+상업적 소프트웨어이지만, [https://www.lightwave3d.com/try_lightwave/|30일간 무료로 체험할 수 있는 데모 버전이 있다.] (만약 구매할 의사가 있으면 [https://www.lightwave3d.com/buy-lightwave/|#참고])
+
+1990년에 [아미가]용으로 첫버전이 나왔다. 나름 [3ds max|이분]처럼 오래된 역사를 가지고있긴하다.
+
+일반인들에게는 [3ds max|3D Max]보다 인지가 낮아서 아마 위키러들은 여기서 처음봤을지도 모른다. 하지만 [쥬라기 공원], [타이타닉], [아이언맨], [어메이징 스파이더맨], [다크나이트] 등[* 해당 출처는 [[http://en.wikipedia.org/wiki/LightWave_3D#Movies_that_used_LightWave|영문 위키피디아]]이다.]나름 이름있는 영화계에서는 많이 사용되어졌던 프로그램이다.
+
+프로그램 자체가 가볍고[* 실행하면 스플래쉬 이미지가 안뜨고 바로 프로그램이 실행된다], 모델링하는것도 타프로그램에 비해 쉽기때문에 초보자들이 하기에는 좋은 프로그램이지만, 국내 인지도가 ~~씨망~~낮기때문에 인터넷에 검색을 해도 강좌같은게 보기힘들다.
+
+== 모델링 ==
+설치를 해보면 두가지의 실행파일이 나뉘어지는데, Modeler는 [3ds max|3D Max]에서 사용되는 [폴리곤] 방식을 이용하는것이고, Layout은 [[Maya(3D 그래픽 툴)|마야]]에서 사용되는 넙스 방식으로 이용하는것이다.~~네가 뭘 좋아 하는지 몰라서 둘다 넣어봤어~~

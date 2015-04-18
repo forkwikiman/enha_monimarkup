@@ -1,0 +1,66 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+DJMAX CE. DJMAX TECHNIKA 수록곡.
+
+|| 최초 수록 || [[DJMAX Portable Clazziquai Edition]] ||
+|| 장르 || Electro house ||
+|| 작곡 || 클래지콰이 ||
+|| 비주얼 || Dumping Life ||
+|| BPM || 128 ||
+|| 보컬 ||  Alex [* CE에서는 크리스티나로 잘못표기됨] ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/N8ajK6IoenE?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+참고로 2008년 ETPFEST에 클래지콰이 프로젝트가 참여했을 때 이걸 부르면서 저걸 틀어줬었다고 한다.
+
+별칭은 제목을 그대로 해석한 '''전자공학'''.
+
+== [DJMAX Portable Clazziquai Edition] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/D7tNj-ONpcw" frameborder="0" allowfullscreen></iframe>}}}
+
+(4B MX)
+
+저난이도 중심 타이틀이라는 [DJMAX Portable Clazziquai Edition]에서 노래 특성상 고난이도의 위치를 차지하고 있다.
+
+== [DJMAX TECHNIKA 시리즈] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/kC9jH7VgyRY" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(테크니카 1 기준 SP). 중반과 최후반의 보라연타 향연이 일품이다.
+
+=== [wiki:"DJMAX TECHNIKA"DJMAX TECNIKA 1] ===
+
+테크니카에서는 TP와 SP 두개의 패턴만 존재하였다.
+
+TP : 난이도 6. 테크니컬 믹싱에서 [wiki:"Electro EP"Electro EP Set]에서 앞의 세곡의 정확도가 95% 이상일때 등장한다. 또한 [wiki:"Conqueror"Conqueror Set]에서도 수록되어있다.
+
+SP : 난이도 8. 플래티넘 믹싱에서 4월 스페셜패턴으로 등장. 세번째곡으로 등장하는데 앞의 [[처음만 힘들지]]와 [[HEXAD]]처럼 평이한 패턴으로 가다가 마지막 16비트 32연타에서 사람들을 낚아버렸다. [wiki:"Specialist(DJMAX)"Specialist Set]에서도 선택곡으로 등장한다.
+
+=== [DJMAX TECHNIKA 2] ===
+
+|| 패턴 || 난이도 || 가격 || 설명 || 기타 ||
+|| Star || 6 || 300 Max || 4박 스크롤 || ※[지뢰곡] ||
+|| NM || 6 || 400 Max || 4박 스크롤 || [wiki:"Electro EP"Electro EP Set] 상위 보스곡, [wiki:"Conqueror"Conqueror Set] 셀렉곡 ||
+|| HD || 8 || 500 Max || 4박 스크롤 || [wiki:"Specialist(DJMAX)"Specialist Set] 셀렉곡 || 
+
+전작의 TP와 SP가 NM과 HD로 하향당했다.
+
+참고로 Star패턴은 [Fermion]과 같이 사기난이도를 자랑한다. 왜냐하면 보통 칼질을 하는 다른 패턴과는 다르게 Star패턴은 팝믹싱의 NM패턴을 거의 복붙한 수준으로 나오기때문이다. 심지어 연타부분도 있다 ~~뭐야 이거 무서워~~
+
+=== [DJMAX TECHNIKA 3] ===
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || 6 || 4박 스크롤 || ※[지뢰곡] ||
+||<#FFFF00> Normal || D || 100 Max || 6 || 4박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 8 || 4박 스크롤 || [wiki:"Labyrinth(DJMAX)" 미션 - Chain Saw] 수록 ||
+
+전작 그대로 이식되었다.
+
+
+[[각주]]

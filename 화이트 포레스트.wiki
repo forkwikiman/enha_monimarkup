@@ -1,0 +1,113 @@
+[[목차]]
+
+== [[하프 라이프2]]의 등장지역 ==
+attachment:hl2e2wf.jpg
+[[17번 지구]]와 다소 멀리 떨어진 숲으로, 버려진 로켓 발사 실험장이 있는 곳이다.
+로켓 실험장은 [[일라이 밴스]]와 [[아이작 클라이너]], [[어니 매그너슨]]이 [[콤바인]]의 대형 포탈을 중화시키기 위한 로켓을 만들고 있다. 잦은 콤바인 침공에 대비해 강력한 반시민 방공망이 설치되어있고, [[스트라이더]]나 [[건쉽]] 1대쯤은 최전방에서 문제없이 격파 가능할 정도.~~고든이 지금까지 부숴온게 몇대인데?~~ ~~전투력 [[시망]]~~ 사실상 내부는 안전지역이라고 보면 된다. 하지만 가장 중요한 로켓 발사구를 닫지 않아 내부로 콤바인이 쳐들어오기도. 다행히 [[고든 프리맨]]이 있던 상황이라 막아냈다.
+
+[[콤바인]] 침공 전까지는 휴양림으로 유명한 지역인듯. 상록수와 물,바위가 곳곳에 있고 군데군데 오두막과 산장이 있으나 내부는 텅 비어 콤바인이 [[고든 프리맨]]과 [[알릭스 밴스]]를 붙잡기 위해 활용되었다. 물론 실패.
+
+[[하프라이프2]] 에피소드 2의 무대는 화이트 포레스트까지 가는 길과 화이트 포레스트. 이전까지의 사투가 도시, 지하에서 이루어져 다소 칙칙한 느낌이라면 숲에서의 전투는 매우 이색적. 
+
+에피소드 2 후반엔 [[스트라이더]]와 콤바인 헌터 부대가 로켓 발사를 막기 위해 잔뜩 쳐들어온다. 프리맨과 반시민군과 사투를 벌이고 전부 저지되었다.
+
+== [[포켓몬스터]] [[포켓몬스터 블랙·화이트|화이트]] 버전의 [[포켓몬스터/지역|지역]] ==
+'''ホワイトフォレスト''' ''White Forest''
+
+||<tablealign=center><-2> attachment:/Black_City_and_White_Forest.png ||
+||<#dcdcdc><-2> '''지도 설명''' ||
+||<-2> ''풍요로운 자연을 동경하는 사람이 각지에서 모이는 장소'' ||
+||<#dcdcdc><-2> '''표어''' ||
+||<-2> ''다른 말로는 하얀 숲'' ||
+||<#dcdcdc><-2> '''위치''' ||
+||<-2> attachment:/Unova_Black_City_White_Forest_Black_Tower_White_Treehollow_Map.png ||
+||<#dcdcdc><-2> '''인접 지역''' ||
+||<#ededed> 북쪽 ↑ || [[하나 14번도로]] ||
+||<#ededed> 서쪽 ← || [[하나 15번도로]] ||
+
+한글명칭은 화이트 포'''레'''스트가 아니다 포'''리'''스트다.
+
+블랙 버전의 [[블랙시티]]와 대비되는 포켓몬 사상 최초의 버전 고유 지역. 하일링크 시스템의 활용도에 따라 등장하는 NPC와 야생 포켓몬의 분포, 거기에 지형지물마저 바뀐다. 출현하는 포켓몬은 5세대 이전의 3단 진화 포켓몬들의 기본형. (물 위 출현인 우파, 가재군, 그리고 비구술은 예외) 5세대 이외의 버전이 없다면 전국도감을 채우는 데에 도움을 주지만, 포켓시프터의 존재로 [[블랙시티]]에 비해서는 가치가 낮다. 다만 출현하는 모든 포켓몬의 레벨이 5이고 원하는 포켓몬만을 출현시킬 수 있다는 점에서 노력치 작업에 유용하다. 참고로 복안+통찰의 조합으로 핑복에게서 무한 행복의알 뺏기가 가능하다. 오오 핑복님 오오
+
+[[포켓몬스터 블랙·화이트 2|화이트 2]]에도 나온다. 여기선 더 이상 NPC 관리를 위해 들려줘야 할 필요가 없다. 대신 [[하나의 난관]] 중 백의수동이라는 하드코어한 던전이 생겼다. 여기서 맨 아래층인 에리어 10에서 [[노간주]]의 손자 [[구아버]]를 쓰러뜨리고 나면 과거 화이트포리스트엔 없던 상점이 열리는데, 매일 왕의징표석, 용의비늘, 심해의이빨, 심해의비늘, 물의돌, 리프의돌, 그리고 빛의돌 중 4개를 구매할 수 있다.
+
+=== 습득 가능 아이템 ===
+||<tablealign=center><rowbgcolor="#dcdcdc"><:><-2> 아이템 || 대응 주민 ||
+|| attachment:/Stardust_Sprite.png || 별의모래 || 채수 ||
+|| attachment:/Dive_Ball_Sprite.png || 다이브볼 || 지관 ||
+|| attachment:/Thunder_Stone_Sprite.png || 천둥의돌 || 캔 ||
+|| attachment:/Heart_Scale_Sprite.png || [[하트비늘]] || 민서 ||
+|| attachment:/Yellow_Shard_Sprite.png || 노랑조각 || 유식 ||
+|| attachment:/Quick_Ball_Sprite.png || 퀵볼 || 대웅 ||
+|| attachment:/Nest_Ball_Sprite.png || 네스트볼 || 유민 ||
+|| attachment:/Green_Shard_Sprite.png || 초록조각 || 이삭 ||
+|| attachment:/TinyMushroom_Sprite.png || 작은버섯 || 세형 ||
+|| attachment:/Net_Ball_Sprite.png || 넷트볼 || 준재 ||
+|| attachment:/Dusk_Stone_Sprite.png || 어둠의돌 || 홍명 ||
+|| attachment:/Repeat_Ball_Sprite.png || 리피드볼 || 미키 ||
+|| attachment:/monster_ball_Sprite.png || [[몬스터볼]] || 다인[[br]]고현 ||
+|| attachment:/Rare_Bone_Sprite.png || 귀중한뼈 || 서연 ||
+|| attachment:/Great_Ball_Sprite.png || 수퍼볼 || 제민 ||
+|| attachment:/Fire_Stone_Sprite.png || 불꽃의돌 || 순호 ||
+|| attachment:/Water_Stone_Sprite.png || 물의돌 || 조연 ||
+|| attachment:/Ultra_Ball_Sprite.png || 하이퍼볼 || 미호 ||
+|| attachment:/Sun_Stone_Sprite.png || 태양의돌 || 레나 ||
+|| attachment:/Leaf_Stone_Sprite.png || 리프의돌 || 카렌 ||
+|| attachment:/Moon_Stone_Sprite.png || 달의돌 || 로자 ||
+|| attachment:/Shiny_Stone_Sprite.png || 빛의돌 || 로미 ||
+|| attachment:/Big_Mushroom_Sprite.png || 큰버섯 || 학도 ||
+|| attachment:/Blue_Shard_Sprite.png || 파랑조각 || 엘리자 ||
+|| attachment:/Dawn_Stone_Sprite.png || 각성의돌 || 그레이스 ||
+|| attachment:/Oval_Stone_Sprite.png || 동글동글돌 || 카를로스 ||
+|| attachment:/Red_Shard_Sprite.png || 빨강조각 || 효유 ||
+|| attachment:/Honey_Sprite.png || 달콤한꿀 || 석원 ||
+|| attachment:/Timer_Ball_Sprite.png || 타이마볼 || 혜미 ||
+
+=== [[포켓몬스터/목록|등장할 수 있는 모든 야생 포켓몬]] ===
+||<tablealign=center><rowbgcolor="#dcdcdc"><:><-2> 포켓몬 || 타입 || 대응 주민 ||  
+||||||||<tablealign=center><rowbgcolor="#A2E0A3"><:> 풀숲 ||
+|| attachment:/Pokemon_icon_016.png || [[피죤투|구구]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 학원 끝난 아이(남) '채수' ||
+|| attachment:/Pokemon_icon_029.png || [[니드퀸|니드런♀]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 연구원(남) '지관' ||
+|| attachment:/Pokemon_icon_032.png || [[니드킹|니드런♂]] || [[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 베테랑 트레이너(남) '캔' ||
+|| attachment:/Pokemon_icon_043.png || [[라플레시아(포켓몬스터)|뚜벅]][[아르코|쵸]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 아기씨 '민서' ||
+|| attachment:/Pokemon_icon_063.png || [[후딘|캐이시]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || 비지니스맨 '유식' ||
+|| attachment:/Pokemon_icon_066.png || [[괴력몬|알통몬]] || [[wiki:"포켓몬스터/타입/설명#s-2.7"attachment:/Pokemon_Type_Fighting.png]] || 태권왕 '대웅' ||
+|| attachment:/Pokemon_icon_069.png || [[우츠보트|모다피]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 여사원 '유민' ||
+|| attachment:/Pokemon_icon_081.png || [[코일]] || [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-3.2"attachment:/Pokemon_Type_Steel.png]] || 연구원(여) '이삭' ||
+|| attachment:/Pokemon_icon_092.png || [[팬텀(포켓몬스터)|고오스]] || [[wiki:"포켓몬스터/타입/설명#s-2.14"attachment:/Pokemon_Type_Ghost.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 빡빡이 '세형' ||
+|| attachment:/Pokemon_icon_111.png || [[거대코뿌리|뿔카노]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || 학원 끝난 아이(남) '준재' ||
+|| attachment:/Pokemon_icon_137.png || [[폴리곤(포켓몬스터)|폴리곤]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 백팩커(남) '홍명' ||
+|| attachment:/Pokemon_icon_175.png || [[토게피]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || [[짧은 치마]] '미키' ||
+|| attachment:/Pokemon_icon_179.png || [[전룡|메리프]] || [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || 도련님 '다인' ||
+|| attachment:/Pokemon_icon_187.png || [[솜솜코|통통코]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 여사원 '서연' ||
+|| attachment:/Pokemon_icon_239.png || [[에레키블|에레키드]] || [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || 반바지 꼬마 '제민' ||
+|| attachment:/Pokemon_icon_240.png || [[마그마번|마그비]] || [[wiki:"포켓몬스터/타입/설명#s-2.2"attachment:/Pokemon_Type_Fire.png]] || [[엘리트 트레이너]](남) '순호' ||
+|| attachment:/Pokemon_icon_265.png || [[뷰티플라이|개무]][[독케일|소]] || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]] || 학원 끝난 아이(여) '고현' ||
+|| attachment:/Pokemon_icon_270.png || [[로파파|연꽃몬]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || [[포켓몬 레인저]](남) '조현' ||
+|| attachment:/Pokemon_icon_273.png || [[다탱구|도토링]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || 보육사 '미호' ||
+|| attachment:/Pokemon_icon_280.png || [[가디안|랄토]][[엘레이드|스]] || [[wiki:"포켓몬스터/타입/설명#s-2.11"attachment:/Pokemon_Type_Psychic.png]] || [[엘리트 트레이너]](여) '레나' ||
+|| http://cdn.bulbagarden.net/upload/6/62/287MS.png || [[게을킹|게을로]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 배틀걸 '카렌' ||
+|| attachment:/Pokemon_icon_293.png || [[폭음룡|소곤룡]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 베테랑 트레이너(여) '로자' ||
+|| attachment:/Pokemon_icon_298.png || [[루리리]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 백팩커(여) '로미' ||
+|| attachment:/Pokemon_icon_304.png || [[보스로라|가보리]] || [[wiki:"포켓몬스터/타입/설명#s-3.2"attachment:/Pokemon_Type_Steel.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.13"attachment:/Pokemon_Type_Rock.png]] || 등산가 '학도' ||
+|| attachment:/Pokemon_icon_328.png || [[톱치]] || [[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || [[포켓몬 레인저]](여) '엘리자' ||
+|| attachment:/Pokemon_icon_371.png || [[보만다|아공이]] || [[wiki:"포켓몬스터/타입/설명#s-2.15"attachment:/Pokemon_Type_Dragon.png]] || 마담 '그레이스' ||
+|| http://cdn.bulbagarden.net/upload/1/16/396MS.png || [[찌르호크|찌르꼬]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.10"attachment:/Pokemon_Type_Flying.png]] || 백팩커(남) '카를로스' ||
+|| http://cdn.bulbagarden.net/upload/a/a0/403MS.png || [[렌트라|꼬링크]] || [[wiki:"포켓몬스터/타입/설명#s-2.5"attachment:/Pokemon_Type_Electric.png]] || 비지니스맨 '효유' ||
+|| http://cdn.bulbagarden.net/upload/e/ef/406MS.png || [[로즈레이드|꼬몽울]] || [[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.8"attachment:/Pokemon_Type_Poison.png]] || 신사 '석원' ||
+|| http://cdn.bulbagarden.net/upload/8/8e/440MS.png || [[해피너스|핑복]] || [[wiki:"포켓몬스터/타입/설명#s-2.1"attachment:/Pokemon_Type_Normal.png]] || 백팩커(여) '혜미' ||
+||||||||<tablealign=center><rowbgcolor="#85D4DE"><:> 파도타기 ||
+|| attachment:/Pokemon_icon_194.png || [[우파#s-6|우파]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.9"attachment:/Pokemon_Type_Ground.png]] || 그레이스, 레나, 석원, 홍명 ||
+|| attachment:/Pokemon_icon_270.png || [[로파파|연꽃몬]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.4"attachment:/Pokemon_Type_Grass.png]] || 대웅, 로미, 로자,[[br]]엘리자, 유식, 이삭,[[br]]지관, 카렌, 효유 ||
+|| attachment:/Pokemon_icon_283.png || [[비나방|비구술]] || [[wiki:"포켓몬스터/타입/설명#s-2.12"attachment:/Pokemon_Type_Bug.png]][[br]][[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 고현, 다인, 미키,[[br]]미호, 민서, 서연,[[br]]세형, 유민, 제민,[[br]]조현, 준재, 채수, 학도 ||
+|| attachment:/Pokemon_icon_341.png || [[가재장군|가재군]] || [[wiki:"포켓몬스터/타입/설명#s-2.3"attachment:/Pokemon_Type_Water.png]] || 순호, 카를로스, 캔, 혜미 ||
+
+=== 트레이너 ===
+ * 학원 끝난 아이(남) '진철'
+  * [[곤율거니]] ♂ Lv.65
+  * [[데스니칸]] ♂ Lv.65
+  * [[란쿨루스]] ♂ Lv.65
+ * 보육사 '보라'
+  * [[샹델라]] ♀ Lv.65
+  * [[치라치노]] ♀ Lv.65
+  * [[배바닐라]] ♀ Lv.65  

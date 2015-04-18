@@ -1,0 +1,58 @@
+[[목차]]
+== 개요 ==
+[[비트매니아 IIDX]] 6th style의 수록곡. 장르는 ROTTERDAM TECHNO로 샘플링이 특징적인 테크노의 하부장르이며 [[개버]](GABBA)의 원류이기도 하다. 작곡은 sampling masters MEGA([[호소에 신지]])
+
+== [[비트매니아 IIDX]] ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/DlXKUF96Cdo&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DlXKUF96Cdo&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+원 음원+BGA
+
+{{{#!html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nD7Y3mGZvXI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/XwkRLPZXdB8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/nHp6sdmX63g" frameborder="0" allowfullscreen></iframe>
+}}}
+위에서부터 SPA 영상, SPH 영상, SPN 영상. 참고로 아래 두 영상의 화면이 좀 치직거리는 미스레이어는 9th style 이후 사라졌다. SPA 영상과 비교해서 보자.
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 200 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 417}}} || {{{#orange 8}}} || {{{#orange 692}}} || {{{#red 10}}} || {{{#red 936}}} || {{{#blue 5}}} || {{{#blue 418}}} || {{{#orange 8}}} || {{{#orange 693}}} || {{{#red 없음}}} || {{{#red 없음}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 6th ~
+ * 가정용판 수록 : 6th, 10th
+
+비트매니아 IIDX에서는 5th style부터 참여한 [[호소에 신지]]의 인지도를 리듬게임 플레이어들에게 확 끌어올려준 장본인. 
+
+'''[[BGA]]가 모든 걸 말해준다.''' 아스트랄한 곡 분위기와 제대로 맞물린 생쇼 BGA 덕분에 상당히 잘 알려졌던 곡. 같은 작곡가가 한참 나중에 만든 곡인 [[Son of Sun]]의 그 '추장' 인지도가 결코 하루 아침에 나온 것이 아님을 보여준다.
+
+BGA의 압박에 걸맞게 난이도면에서는 싱글 어나더가 스크래치 + 일반노트 조합으로 10렙에서는 좀 괴로운 편이다. 하이퍼도 8레벨 치고는 약간 어려운 편.
+
+후속곡으로 IIDX 9th style에 실린 [[rottel-the-Mercury]]가 있고, 아리카의 게임인 테크닉틱스에도 roteen da moon이라는 자매곡(?)이 실렸다. 그리고 생쇼 컨셉 BGA는 한참 나중에 나온 비트매니아 IIDX 12 HAPPY SKY의 [[Twelfth Style]]이라는 곡으로 이어진다(...)
+
+== [[팝픈뮤직]] ==
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/RkUe03Tb3rA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{|
+ガンガン突っ走って、イケ行けガバだよ、早い曲が好きな人にはおすすめだよ
+적극적으로 달리고, 잘 나가는 개버야. 빠른 곡을 좋아하는 사람에게 추천이야.
+|}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 10[[br]](ee'MALL 2nd avenue) || ROTTERDAM TECHNO || rottel-da-sun || [[호소에 신지|sampling masters MEGA]] || Machuchu[[br]]마츄츄 ||
+
+|| [[BPM]] || [wiki:"팝픈뮤직/난이도 체계"난이도] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 199 || 43단계 || {{{#blue 14}}} || {{{#green 17}}} || {{{#orange 34}}} || {{{#red 39}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 23}}} || {{{#orange 40}}} || {{{#red 45}}} ||
+|||| 노트수 || {{{#blue 322}}} || {{{#green 338}}} || {{{#orange 692}}} || {{{#red 935}}} ||
+
+팝픈뮤직 10에 ee'MALL 2nd를 통해 이식되었고 15 어드벤처에 통상곡으로 해금되었다. 

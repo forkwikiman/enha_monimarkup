@@ -1,0 +1,75 @@
+'''히어로'''
+
+ * 이 항목은 '히어로(음악)' 항목으로 들어올 수 있다.
+
+[[목차]]
+
+== 일본의 힙합그룹  FUNKY MONKEY BABYS의 곡 ==
+=== 개요 ===
+http://image.music.news.livedoor.com/cd/c/9/7/4109081497.jpg?width=400
+이 곡이 수록된 싱글음반 'ヒーロー／明日へ'의 자켓
+
+{{{#!HTML
+<embed src="http://japanesejunction.com/flvplayer.swf" quality="high" width="640" height="360" name="VideoPlayer" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" FlashVars="file=oixtpfwxf5d9x5gxif5.flv&streamer=rtmp://ums2.linuxvilla.net:1935/streaming/streaming&width=590&height=367&plugins=ltas,drelated-1&ltas.cc=mqauoqpqbvvrpli&fullscreen=true&displaywidth=590&displayheight=367&stretching=exactfit&autostart=false&showfsbutton=false&image=http://jvideo.info/uploads/thumbs/oixtpfwxf5d9x5gxif5.jpg&logo=http://jvideo.info/image_s/playerlogo.png&link=http://jvideo.info/videos/4368/&linktarget=_blank&backcolor=0xFFFFFF&skin=http://jvideo.info/templates/blueratio.zip&drelated.dxmlpath=http://jvideo.info/recommand_list.php?vid=4368&drelated_target=_parent" wmode="transparent" allowscriptaccess="always" border="0"></embed>
+}}}
+PV 영상
+
+싱글음반은 2009년 11월 18일 발매되었다.
+
+자켓과 PV에 나오는 사람은 일본 니혼테레비 하토리 아나운서씨다.
+
+=== [[리플렉 비트 시리즈]]에 수록 ===
+리플렉 비트 라임라이트에 수록되었으며 사용된표지는 2010년 2월 10일날 발매된 베스트앨범 자켓을 사용한다. 
+
+http://1.bp.blogspot.com/_64RFnoHhWvE/S28BauHFMFI/AAAAAAAAHdU/dO93Zvt6k_E/s400/funky+best+1.jpg
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 121 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 7}}} ||
+|| 오브젝트 || {{{#green 49}}} || {{{#orange 180}}} || {{{#red 248}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]] ||
+
+하드패턴영상은 [[http://ceron.jp/url/www.nicovideo.jp/watch/sm16653706 여기]]로
+
+== [[유비트 시리즈]]의 수록곡 ==
+=== 개요 ===
+attachment:hero.png
+
+보컬 및 작곡은 스즈키 유리에(鈴木友里絵). [[GITADORA]]의 수록곡 君と同じ季節の下 이후의 2번째 [[BEMANI 시리즈]] 참여곡이다. 여담으로 [[サブリナ]]와 비슷한멜로디부분이 있다. 
+
+=== [[유비트 시리즈]] ===
+||||||||<#ffffff><:>jubeat saucer기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>9||
+||<#ffffff><:>노트수||<:>257||<:>498||<:>646||
+||<#ffffff><:>BPM||||||<:>155||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2013/4/1 첫 수록[[BR]][[유비트 플러스]]에서 saucer pack 13에 수록[[BR]][[유비트 소서]]에서 2013/11/1 교체[[BR]][[유비트 소서]]에서 2014/2/1 시즌곡으로 재수록||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * 傷だらけ'''ヒーロー'''[* 굵은 글씨는 칭호 파츠.](상처투성이 히어로) : 모든 보면 클리어
+  * '''君'''のスーパーヒーロー(그대의 슈퍼 히어로) : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+2013년 4월 [[bistro saucer]]로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/acTu4Safdqc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT 채보 영상
+
+동시치기 위주의 채보에 박자가 정직해서 스코어링은 쉬우나 가사부분 이외의 부분에서 슬라이드 패턴을 포함한 약간 난해한 박자의 패턴에 주의해야 한다.
+
+EXT패턴에서는 가사 'ヒーロー'에 맞춰 아래와 같은 패턴이 자주 나오며
+① ① □ □
+□ □ □ □
+① ① ② ②
+□ □ ② ②
+
+채보 영상의 35초 쯤에 가사 'スーパーマン([슈퍼맨])'에 맞춰 다음과 같은 동시치기가 나오므로 주의.
+① ① ② ②
+① □ ② ②
+□ ① ② □
+① ① ② □

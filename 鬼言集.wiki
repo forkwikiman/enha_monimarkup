@@ -1,0 +1,182 @@
+[[목차]]
+ * 이 문서는 '''귀언집''' 혹은 '''마호로바교''' 혹은 '''まほろば教'''로도 연결됩니다.
+attachment:/kigonsyu.jpg
+attachment:/KIGON.jpg
+
+== [[비트매니아 IIDX]] (鬼言集) ==
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_X8Vjg2zQ_gE$' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=X8Vjg2zQ_gE$&playLoc=undefined&alert=true' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=X8Vjg2zQ_gE$&playLoc=undefined&alert=true'></embed></object>
+}}}
+
+|||| 장르명 |||||| INDUSTRIAL REVIEW[[BR]]인터스트리얼 리뷰 |||| [[BPM]] |||| 250 ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 KIGONSHU}}}''' ||
+|||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#green 비기너}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#green 難}}} || {{{#green 316}}} || {{{#blue 6}}} || {{{#blue 599}}} || {{{#orange 8}}} || {{{#orange 792}}} || {{{#red 10}}} || {{{#red 1037}}} ||
+|| [[더블 플레이]] || {{{#green -}}} || {{{#green -}}} || {{{#blue 6}}} || {{{#blue 584}}} || {{{#orange 7}}} || {{{#orange 748}}} || {{{#red 10}}} || {{{#red 996}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : [[비트매니아 IIDX 14 GOLD]] ~ [[비트매니아 IIDX 19 Lincle]]
+ * 가정용 수록 : 14 GOLD
+ * 타 비마니 수록 : [[리플렉 비트 콜레트]][* 정확히는 まほろば教로써 IIDX버전과는 다르다.]
+
+[[비트매니아 IIDX 14 GOLD]]의 '''괴이한''' 수록곡. 작곡가는 [[아사키]], 장르는 [wiki:"인더스트리얼" INDUSTRIAL] REVIEW. [[BGA]] 담당은 tQy[* 본명은 코바야시 타쿠야로, 대표작은 [Concertino in Blue](합작), [Destiny lovers](합작), [万華鏡], [[Timepiece phase II]](합작), [極東史記], [RЁVOLUTIΦN], [Sonne] 등.]. 
+
+'''괴이한''' 곡, '''괴이한''' 패턴, '''괴이한''' 분위기, '''괴이한''' 가사, '''괴이한''' 난이도... 여러모로 '''괴이한''' 곡으로 여러 리듬게임 커뮤니티에서 두고두고 회자되는 곡이다. 그 '''괴이한''' 특징 때문에 매드 무비도 수두룩하게 만들어졌다. 물론, 그 결과물도 '''괴이해지기는 마찬가지.''' 아래 영상들에 그 '''괴이함이 잘 나타나 있으니 보기 전에 심호흡 하고 보기 바란다'''.
+
+[[BGA]] 역시 곡 못지않게 '''괴이한데''', 기본적으로는 클레이 [[애니메이션]]에 몇몇 영상을 덧붙인 것이긴 한데, 그게 하필 기타프릭스 & 드럼매니아 V3 수록곡인 [[虧兎に告ぐ]]마냥 흑백영상으로 처리돼 '''괴이함'''을 더해주는 데다가, 그 클레이들의 몰골도 하나같이 '''괴이하다'''. 전체적인 구성을 따지자면 특정 이야기를 전달하는 스토리텔링 BGA, [[wiki:"Dark Envy" 이 곡]] 또는 [[wiki:"Rage Of Demon" 이 곡]]과 비슷하다.
+
+싱글 어나더는 250이라는 빠른 [[BPM]]에 잔[[트릴]]이 꽤나 많이 있기 때문에 10 치고는 상급에 속하며, 스코어링 역시 10치고 꽤 성가신 축에 속한다.
+
+=== 아티스트 코멘트 ===
+>■Sound / [[あさき]]
+>
+>2DX한 여러분들 거의 처음 뵙겠습니다. [[아사키]]입니다.
+>
+>영상도 음악도 어느쪽이든, 2DX 기체&스피커가 아니면 표현할 수 없을듯한 것을 여기다 하고 잔뜩 넣고 있었습니다.
+>[wiki:"DJ YOSHITAKA" 요시큥]이 음의 조정을 하는데 수고해 줘서 메소(メソ)하고 있는 것이 재밌었습니다.
+>
+>아, 일 잘하는 사운드 디렉터 DJ Yoshitaka군으로부터의 주문은 일단은 'OO처럼. 알기 쉽게 멜로디어스하고 질주감 MAX의 아사키씨의 보컬같은 느낌으로 잘 부탁드립니다!' 였습니다!
+>
+>'조아!'
+>
+>라고 하면서 만든 것이 이것이었습니다. '''하나도 지켜지지 않았습니다.''' 인생이란 건 뭘까.
+
+>■Movie / tQy
+>
+>꿀꺽꿀꺽한 몸입니다만, 왠지 모르게 평판이 좋았던 「虧兎に告ぐ」에, 『밧훙!』하고 돌연 기분을 좋게 만들어 가락을 타고 한 개 더 찍어본「아사키 무비 제②탄!!」
+>질리지도않고 아직도 흑백필름 같다는 걸로, 전처럼 덮어씌우는건 어떤 염려도 뭐냐 그거.
+>전혀 신경쓰지 않고 만들었습니다. (발표가 며칠 차이날지도라고 했을땐 서둘렀지만) 
+>그렇게 만들어져 비교해 명확하게 차이가 나서 안심. 잘됐다 잘됐어. 결과 올 라잇.
+>
+>종종 영화 메이킹 중에 1초에도 못 미치는 컷을 위해서 '''괴이하게''' 수고를 들였던 에피소드가 있습니다만, 이번엔 스스로 찍어보고 이러한 일의 소중함을 조금이나마 알게된듯한 기분입니다. 『그렇구나, 헤엣』한 느낌.
+>새삼스럽네요.
+>
+>1년전에 IIDX용으로 리메이크한 무비의 완성이 되지 않았는데도 이걸로 조금은 설욕을 푼듯한 기분. 1년으론 빠르다고요.
+=== 가사와 번역 ===
+그 가사 때문에 아래의 내용은 원문 - 번역 - (필요에 따라) 해설 순으로 서술하였다. 해설은 사람에 따라 정확하지 않을 수 있으니 [[수정바람]]
+
+>"Cuiusvis hominis est errare; nullius nisi insipientis perseverare in errore."
+>누구나 실수를 저지를 수는 있다. (하지만) 어리석은 자는 이를 반복한다.([[라틴어]])
+>- BGA의 맨 앞부분에 나온 어구, 키케로 'Philippicae' 12권에서 인용되었다.
+>
+>「まほらがあるらしい」
+>"마호라가 있다더라"
+>- '마호라'는 [[마호로바]]와 같은 말이다. 항목 참조.
+>
+>凝視!
+>巍々と鎮座
+>응시하라! 
+>저 높고 큰 진좌를!!
+>- 진좌는 '신령이 지내는 자리'를 뜻하지만, '단단히 박힌 듯한 것'을 비하하는 의미로도 쓰인다. 해녀들이 좋은 제단자리를 발견했다는 의미도 되고, 덩치만 큰 게 짱박혀서 마호라를 망치고 있다는 의미도 된다. 참고로 외외(巍巍)는 크고 높다는 뜻을 지닌 한자어.
+>
+>海女たち
+>「誇らしげであるー！」
+>해녀들 :「자랑스러워 보이는구나!」
+>
+>海霧の底で　へばりつくのだが　何も無い
+>1.해무(바다 안개)의 밑바닥에 달라붙는다만 아무 것도 없구나
+>2.바닷속 밑바닥까지 살펴보았지만 아무 것도 없구나
+>
+>海女たち
+>「おいそれとは見えぬ」
+>해녀들 :「쉽사리 보이지 않는구나」
+>
+>おだやかな夜だ
+>평온한 밤이다
+>
+>海女たち
+>「磯が伸びるー！」
+>해녀들 :「물가가 늘어난다!」
+>- 시간이 흘러 밤이 되자 바닷물이 차오르기 시작했다.
+>
+>星の法典を作ってみたがどうか!?
+>별의 법전을 만들었는데 어떠한가!
+>
+>海女たち
+>「干珠で伸びるー!!」
+>해녀들 :「간주로 늘어난다!」
+>- 간주(干珠)는 간조를 일으켜 바닷물을 물러나게 한다는 신화 속의 구슬이다. 
+>
+>海神様(の様であるが)
+>「誇らしげであーるー!!」
+>해신님(같다만) :「자랑스러워 보이는구나!」
+>- 멧돼지 귀신이 신령으로 위장하여 등장한 듯하다.
+>
+>海神様(いや、鬼の類であった!)
+>「引きずりこむー！」
+>해신님(아니, 귀신의 일종이었다!) :「(바다로) 끌어 당겨주마!」
+>- 사실 마호라는 멧돼지 귀신의 함정이었다. 멧돼지 귀신이 본색을 드러낸 것.
+>
+>豁然とある宝全にて　深海を産み　昂然と反るのさ
+>활연한 보물 전체에 심해를 낳고 보란듯 자랑스러워한다
+>- 멧돼지 귀신이 함정에 빠진 해녀들을 보며 즐거워하고 있다. 참고로 反る는 허리를 뒤로젖히고 하하하 웃으며 자랑스러워하는 모습이라는 뜻도 있다.
+>
+>海女たちが歌う
+>「ひゅるひゅるひゅるひゅる」
+>해녀들이 노래한다 「휴루휴루휴루휴루」
+>
+>悲愁の流人　波濤に爪立つ
+>슬픔에 잠긴 여행자가 직접 나선다
+>
+>彼
+>｢灼熱の虹でいけるか！？｣ 
+>그 : ｢작열의 무지개로 갈 수 있겠나！？｣ 
+>
+>海坂歪み　燃える
+>우나사카가 뒤틀리며 불탄다
+>- 우나사카는 일본 신화에 등장하는 나라의 경계. 우나사카를 사이에 두고 '해신'과 '인간'의 나라가 서로 갈라져있다고 믿었다.
+>
+>手　伸びる　手
+>鬼　喰らう　鬼
+>손 뻗어나는 손
+>귀신(을) 먹는 귀신
+>- 해녀들이 손을 뻗으며 그(여행자)의 도움을 요청한 것. BGA에서도 여러개의 손이 뻗는 식으로 묘사되어 있다.
+>
+>天心に！一閃が！海界に！
+>하늘의 중심에! 한 줄기의 빛이! 해계(우나사카)로!
+>
+>まほらなど無かった
+>마호라 따윈 없었다
+>- 멧돼지 귀신이 죽으면서 마호라(로 보였던 환영)가 사라진 것, 더불어 해녀들은 익사한 것으로 보인다.
+>
+>鬼の子が歌う
+>「ぴゅっぴゅっぴゅ～ら、ら、ら～」
+>귀신의 자식이 노래한다 「퓻퓻퓨~ 라, 라, 라~」
+>- 멧돼지 귀신의 죽음으로 자식이 비통에 빠져 노래한다.
+>
+>彼は　今も　祭祀している
+>그는 지금도 제사를 지낸다
+== [[리플렉 비트 시리즈]] (まほろば教) ==
+http://cdn44.atwikiimg.com/reflec_beat/?cmd=upload&act=open&page=%E3%81%BE%E3%81%BB%E3%82%8D%E3%81%B0%E6%95%99&file=mahoroba.JPG
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cFmfK3R_6Hk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 253 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 8}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 175}}} || {{{#orange 401}}} || {{{#red 615}}} ||
+|| 수록버전 ||||||||<#8e8eff> [리플렉 비트 콜레트] ||
+||||||||||<#ffffff>{{{#orange MEDIUM}}} : 난이도 1 증가 (콜레트 Autumn)
+天庭 pack 수록||
+
+[[비트매니아 IIDX]]에서는 19 Lincle까지 잔존하다가 20 tricoro에서 삭제되었는데, [[리플렉 비트 콜레트]] 1월 30일 아사키 2집 [[천정]] 발매기념으로 '''まほろば教'''로써 수록되었다. 모종의 이유로 앨범에선 곡명이 바뀌었고 그 바뀐 곡명으로 수록되었다고 한다.
+
+2013년 1월 30일 아사키 2집 천정 발매기념으로 수록되었다. 이식이라기에는 IIDX판 귀언집하고 곡 진행은 비슷하긴 하지만, [[天庭]]의 음원을 커트한 버전이라서 그런지 다른 곡 취급을 받는다. 해금 조건은 [[つばめ]] 포함 콜레트 기준 아사키 명의의 곡을 각각 1회씩 플레이하면 특수 해금되는 형식이였으나 콜레트 스프링 시즌에서부턴 기본곡으로 전환되었다. 특유의 빠른 따닥 체인과 [[전력소년]]과 [[DRAGON KILLER]]에서도 보인 3줄 체인이 압박스럽게 쏟아지는 중 10중에서 개인차가 있는 편. 회수컷 또한 10렙 최상급인데, 100%가 회수점이다.
+
+미디엄도 레벨 7치고 상당히 어렵다는 평이 많다. 가을 버전에서 난이도가 1단계 올라갔다.
+
+== 같이보기 ==
+=== 영상 모음 ===
+{{{#!html
+<object type='application/x-shockwave-flash' id='4WOSLBAOLTk$' width='542px' height='290px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=4WOSLBAOLTk$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=4WOSLBAOLTk$' width='542px' height='290px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+본래 BGA 영상
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/rONUTGDOYQQ" frameborder="0" allowfullscreen></iframe>
+}}}
+텍스트 추리 어드벤처 게임인 流行り神(하야리가미,유행하는 신)의 PV와 결합한 매드무비. 이래저래 귀언집과 관련된 영상이면 뭐든지 '''괴이하게''' 변한다.

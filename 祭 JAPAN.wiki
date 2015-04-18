@@ -1,0 +1,80 @@
+'''마츠리 JAPAN'''
+
+[[BEMANI 시리즈]]의 악곡.  [[AFRONOVA]]와 [[ORION.78]]에 이어서 [[NAOKI]]가 민속음악 컨셉 명의인 REVEN-GE계 명의(REVEN-GE, RE-VENGE, RevenG 등 바리에이션이 꽤 많다)를 사용한 세번째 곡. 여기에서는 RE-VENGE를 사용했다. 이 곡은 전작들 AFRONOVA의 아프리카 분위기와, ORION.78의 [[오키나와]] 민요 분위기와는 달리 일본의 아와오도리(阿波踊り)를 테마로 잡았다.
+
+DDR에서는 원곡 및 부가 리믹스가 X 난이도 개편 이전에 전부 삭제되어서, 최종 수록작인 SuperNOVA2의 표기 난이도를 따른다.[* 좀 더 정확히는 DDR X 로케테스트엔 살아있어서 20레벨 난이도 개편이 적용되었지만, 정식판에서 삭제되었다.]
+
+[[목차]]
+
+== 댄스 댄스 레볼루션 ==
+
+{{{#!html
+<iframe width="420" height="345" src="http://www.youtube.com/embed/TnKeOLTb6JI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 4}}} || {{{#red 5}}} || {{{#green 9}}} || {{{#purple -}}} ||
+||<|3> 180|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 8}}} || {{{#purple -}}} ||
+
+매니악(현재의 EXPERT) 난이도는 AFRONOVA와 같은 9지만, 스텝 성향은 AFRONOVA와는 완전히 극과 극으로 AFRONOVA가 빠른 BPM의 체력소모 위주의 채보였다면, 이 곡의 경우는 AFRONOVA보다는 느리지만 엇박 위주의 채보. DDR 3rd MIX 시절의 In the navy '99의 강화판이라고 보면 된다.
+
+처음에 수록된 DDR 5th MIX에서는 배속이 없기 때문에 플레이에 애를 먹기 쉽지만 DDRMAX2 이후로는 배속 때문에 플레이하기가 수월한 편.
+
+이 곡도 구곡이 완전히 사라진 DDRMAX에서 증발했다가 DDRMAX2에 부활한다. 그러나 사용된 샘플링 문제때문인지 DDR X에서 삭제되었다.
+
+팝픈뮤직 10의 수록곡인 [[DDR MEGAMIX]]에서도 메들리로 수록되었다.
+
+=== 祭 JAPAN (from NONSTOP MEGAMIX) ===
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/6xJ2jXiZ1rE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue -}}} || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 7}}} ||
+||<|3> 180|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange -}}} || {{{#red -}}} || {{{#green -}}} || {{{#purple 8}}} ||
+
+OST에서 실린 정식 부제는 K.O.G REMIX. NONSTOP MEGAMIX에 실린 버전을 편집한 버전으로, AC DDRMAX2엔 LOVE RevenG 코스에, PS2판엔 ULTRA12 코스에 챌린지 채보로 수록. 그래서 이 노래는 챌린지 채보밖에 없다. 이 역시 X에 삭제되었다.
+
+=== 祭(J-SUMMER MIX) ===
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/CRUomWIvs9M" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 4}}} || {{{#red 5}}} || {{{#green 9}}} || {{{#purple -}}} ||
+||<|3> 180|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 6}}} || {{{#green 9}}} || {{{#purple -}}} ||
+
+댄스 매니악스 2ndMIX에 수록된 버전으로, 사실 이게 祭 JAPAN 시리즈 중 가장 먼저 수록되었다.[* Dance ManiaX 2ndMIX는 2000년 12월 5일 가동, DanceDanceRevolution 5thMIX는 2001년 3월 27일 가동.] DDR 1기 시리즈에서 원곡에 댄스 매니악스 이식 표시가 나온 것도 이 때문. DDR 시리즈엔 CS FESTIVAL, AC SuperNOVA에 이식되었다. 이 역시 X에서 삭제.
+
+== 팝픈뮤직 ==
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/aivux6KAJ7w" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| DDR 5th MIXから登場だよ、日本のお祭り気分きっと楽しめるよ
+DDR 5th MIX에서 등장이야, 일본의 축제 기분을 꼭 즐길 수 있어 ||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 10[[br]](ee'MALL 2nd avenue) || MATSURI[[br]]마츠리 || 祭 JAPAN[[br]]마츠리 JAPAN || [[NAOKI|RE-VENGE]] || Pop'n All Stars[* 팝픈뮤직 6의 수록곡인 ポップン音頭(장르명 ONDO, 17 THE MOVIE에서 삭제됨)의 캐릭터로, 선택 불가능 캐릭터.] ||
+
+|| [[BPM]] || [wiki:"팝픈뮤직/난이도 체계"난이도] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 180 || 43단계 || {{{#blue 12}}} || {{{#green 22}}} || {{{#orange 31}}} || {{{#red 37}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 28}}} || {{{#orange 37}}} || {{{#red 43}}} ||
+|||| 노트수 || {{{#blue 322}}} || {{{#green 434}}} || {{{#orange 598}}} || {{{#red 764}}} ||
+
+[[ee'MALL]] 2nd를 통해 [[팝픈뮤직]] 10에 이식되었다. 15 어드벤처에 통상해금. EX는 첫 수록 당시 38이었으나 16 PARTY♪에서 37로 하락. DDR과는 달리 이 버전은 샘플링을 제거한 채 수록되었기 때문에 샘플링 문제 없이 계속 생존 중. 그래서인지 DDR 버전에 비해 곡이 약간 심심해졌다는 평이 있다.
+
+EX 보면은 살짝 엇갈리는 동시치기와 난타 위주의 채보. 짠 판정이 걸려있어서 스코어링은 생각보다 어렵다.

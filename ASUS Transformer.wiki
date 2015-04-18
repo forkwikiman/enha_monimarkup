@@ -1,0 +1,126 @@
+ * 상위항목 : [[ASUS]]
+
+[[목차]]
+
+== 개요 ==
+[[ASUS]]의 [[wiki:"안드로이드(OS)" 안드로이드]] [[태블릿 컴퓨터]] 브랜드. ~~[[LG전자]]와 합병하면 [[옵티머스 프라임]]!!~~
+
+[wiki:"애플(기업)" 애플]의 [[아이패드]] 시리즈나 [[삼성전자]]의 [[갤럭시 탭]] 시리즈와는 조금 차이가 있다. ASUS의 Transformer 시리즈는 운영체제만 안드로이드를 사용한 '''준 PC 급'''전략으로 대응하고 있다. 확장 기능이 있는 각종 액세서리는 물론 전용 키보드독까지 갖추는 등 기존에 [[태블릿 컴퓨터]]하면 떠오르는 이미지 대신에 PC나 노트북을 떠올리게 한다.
+
+ASUS에서도 다양한 제품을 출시하는 등 많은 푸시를 해주고 있다.
+
+== 소속 기기 ==
+ * Eee Pad Transformer TF101
+ * Eee Pad Transformer Prime TF201
+ * Transformer Pad TF300T
+ * Transformer Pad Infinity 700
+ * Transformer Pad TF701T
+=== ASUS Eee Pad Transformer ===
+attachment:/asus-transformer-1.jpg
+==== 개요 ====
+[[ASUS]]가 2011년 1월에 공개하고 동년 4월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[태블릿 컴퓨터]].
+
+==== 사양 ====
+||||[wiki:"SoC" 프로세서]||||[[nVIDIA Tegra]] 2 T20 [[SoC]]. [[ARM]] Cortex-A9 1 GHz MP2 [[CPU]], ULP GeForce 333 MHz [[GPU]] ||
+||||[[메모리]]||||1 GB LPDDR2 SDRAM, 16 / 32 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||||[[디스플레이]]||||10.1인치 [wiki:"해상도/일람" WXGA](1280 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD (149 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||<|2>[wiki:"네트워크" 네트][[br]][wiki:"네트워크" 워크]||'''국제'''||[wiki:"4G" HSPA+] 21Mbps, [wiki:"3G" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE]||<|2>[wiki:"와이파이" Wi-Fi] 802.11b/g/n[[br]][[블루투스]] 2.1+EDR ||
+||'''{{{#red 일본}}}'''||[[Mobile WiMAX]] ||
+||||[[카메라]]||||전면 120만 화소, 후면 500만 화소 [[AF]] ||
+||||[[배터리]]||||내장형 Li-Polymer 배터리 24.4Wh ||
+||||[[운영체제]]||||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 3.2 (Honeycomb) → 4.0 (Icecream Sandwich) ||
+||||규격||||176.8 x 271 x 12.98 mm, 695 g (WCDMA/GSM 모델) / 680 g (Wi-Fi 모델) ||
+||||기타||||전용 키보드독 제공, WCDMA 대응 모델 출시 ||
+
+==== 상세 ====
+3.x 초기 허니콤 탑재 태블릿 컴퓨터인 [[Xoom]]과 [[갤럭시 탭 10.1]]과 마찬가지로 [[nVIDIA Tegra]] 2를 탑재했다. 그 외에도 이 둘과 차이점을 찾기 힘들정도로 사양이 비슷비슷하다.
+
+일본에는 '''[[Mobile WiMAX]] 지원 모델'''이 출시되었다. 하지만 [[olleh 와이브로]]와 [[T 와이브로]]와는 주파수가 호환되지 않는다고 한다.
+
+국내에는 출시되지 않았다.
+
+[[각주]]
+=== ASUS Eee Pad Transformer Prime ===
+attachment:/asus-eee-pad-transformer-prime.jpg
+==== 개요 ====
+[[ASUS]]가 2011년 10월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[태블릿 컴퓨터]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[nVIDIA Tegra]] 3 T30 [[SoC]]. [[ARM]] Cortex-A9 MP4 1.3 GHz [[CPU]], ULP Geforce 520 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 32 / 64 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||10.1인치 [wiki:"해상도/일람" WXGA](1280 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD (149 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]], 고릴라 글래스 2 ||
+||[[네트워크]]||[wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 120만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||내장형 Li-Polymer 배터리 25Wh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 3.2 (Honeycomb) → 4.0 (Icecream Sandwich) ||
+||규격||180.8 x 263 x 8.3 mm, 586 g ||
+||기타||전용 키보드독 제공 ||
+
+==== 상세 ====
+'''Eee Pad'''라 네이밍된 마지막 Transformer 제품이다.
+
+전작이 [[nVIDIA Tegra]] 2를 사용했다면 이 제품은 [[nVIDIA Tegra]] 3를 사용했다. 여담으로 3.x 허니콤을 탑재한 태블릿 컴퓨터 중 유일한 [[nVIDIA Tegra]] 3 탑재 모델이다. 2012년 1월 12일자로 안드로이드 4.0 업그레이드가 예정되어 있다.
+
+카메라가 업그레이드 되었다. 특히 후면 카메라에 [[LED]] [wiki:"플래시(카메라)" 플래시]가 탑재되었다.
+
+그 외에는 전작과 별 차이가 없으나, 전작에 존재했던 WCDMA 대응 모델이 없다. 오로지 Wi-Fi 모델로만 존재한다.
+
+Wifi와 GPS 수신감도가 고자인 문제점이 발생하고 있다. 원인으로 지목되고 있는 것은 금속 재질로 처리한 뒷판. 결국 무료로 GPS 동글을 배포하게 되었다. [http://www.theverge.com/2012/4/26/2975958/asus-shipping-transformer-prime-gps-dongle]
+
+이 쯤에서 [[해즈브로]]에 [[트랜스포머]]라는 명칭을 사용한 것으로 고소를 당했다. '''하필 이 시기에 해즈브로가 [[트랜스포머 프라임]]을 밀고 있었던 지라'''... 모토로라가 [[드로이드]] 발매 때 고소 당한것과 비슷한 상황. 진짜 몇 글자밖에 차이가 안난다. (해즈브로의 라인업은 "Transformer'''s:''' Prime", 아수스 제품은 "Eee Pad Transformer Prime")
+
+[[각주]]
+
+=== ASUS Transformer Pad ===
+http://pdadb.net/img/asus_transformer_pad_300_3.jpg?width=500
+
+==== 개요 ====
+[[ASUS]]가 2012년 4월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[태블릿 컴퓨터]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[nVIDIA Tegra]] 3 T30L [[SoC]]. [[ARM]] Cortex-A9 MP4 1.2 GHz [[CPU]], ULP Geforce 520 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR3 SDRAM, 16 / 32 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||10.1인치 [wiki:"해상도/일람" WXGA](1280 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD (149 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[LTE]], [wiki:"4G" HSPA+] 21Mbps, [wiki:"3G" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0+EDR ||
+||[[카메라]]||전면 120만 화소, 후면 800만 화소 [[AF]] ||
+||[[배터리]]||내장형 Li-Polymer 배터리 용량 [[추가바람]]. (22Wh) ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) → 4.1 → 4.2 (Jelly Bean) ||
+||규격||180.8 x 263 x 9.9 mm, 635 g ||
+||기타||전용 키보드독 제공, LTE&WCDMA 대응 모델 출시 ||
+
+==== 상세 ====
+전작이 Wi-Fi 모델만 존재하는 것에 비해, '''[[LTE]] 지원 모델'''이 존재한다. 그 외에는 전작에 생겼던 [[LED]] [wiki:"플래시(카메라)" 플래시]가 다시 삭제되었다.
+
+여담으로 상당히 빠르게 4.1을 거쳐서 '''4.2 젤리빈'''까지 업그레이드 되었다. 아마 ASUS가 [[넥서스 7]]의 제조사인 만큼 소스를 빠르게 얻고 바로 작업한 것으로 보인다. 거기에 ASUS의 UI는 순정 커스텀이기 때문에 업그레이드가 빠르게 진행될 수 있는 여건을 갖추고 있다.
+
+[[각주]]
+
+=== ASUS Transformer Pad Infinity 700 ===
+http://pdadb.net/img/asus_transformer_pad_infinity.jpg?width=500
+
+==== 개요 ====
+[[ASUS]]가 2012년 4월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[태블릿 컴퓨터]].
+
+==== 사양 ====
+||<|2>[wiki:"SoC" 프로][[br]][wiki:"SoC" 세서]||'''기본'''||||[[nVIDIA Tegra]] 3 T33 [[SoC]]. [[ARM]] Cortex-A9 MP4 1.6 GHz [[CPU]], ULP Geforce 520 MHz [[GPU]] ||
+||'''{{{#orange LTE}}}'''||||[[퀄컴 스냅드래곤]] S4 Plus MSM8960 [[SoC]]. Krait MP2 1.5 GHz [[CPU]], 퀄컴 Adreno 225 [[GPU]] ||
+||||[[메모리]]||||1 GB LPDDR3 SDRAM, 32 / 64 GB 내장메모리, micro SDHC (최대 32 GB 지원) ||
+||||[[디스플레이]]||||10.1인치 [wiki:"해상도/일람" WUXGA](1920 x 1200) RGB 서브픽셀 방식의 Super IPS+ LCD (224 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||<|2>[wiki:"네트워크" 네트][[br]][wiki:"네트워크" 워크]||'''기본'''|| '''지원 안함''' ||<|2>[wiki:"와이파이" Wi-Fi] 802.11b/g/n[[br]][[블루투스]] 3.0+EDR ||
+||'''{{{#orange LTE}}}'''||[[LTE]], [wiki:"4G" HSPA+] 21Mbps, [wiki:"3G" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE] ||
+||||[[카메라]]||||전면 200만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||||[[배터리]]||||내장형 Li-Polymer 배터리 용량 [[추가바람]]. (25Wh) ||
+||||[[운영체제]]||||[[wiki:"안드로이드(OS)/역대 버전 일람"안드로이드]] 4.0 (Icecream Sandwich) → 4.1 → 4.2 (Jelly Bean) ||
+||||규격||||180.8 x 262.9 x 8.4 mm, 598 g ||
+||||기타||||전용 키보드독 제공, LTE&WCDMA 및 WCDMA 단독 대응 모델 출시 ||
+
+==== 상세 ====
+시기를 보면 Transformer Pad와 비슷한 시기에 출시되었다. 사양은 어느정도 이쪽이 더 높다.
+
+해상도가 기존 WXGA 800p에서 WUXGA로 업그레이드 되었다. 화면크기는 그대로 유지되기 때문에 픽셀밀도 또한 높아졌다.
+TF200의 무선수신율 문제를 기기 상단 부분을 플라스틱으로 대체하여 해결했다.
+기본 Wi-Fi 모델은 [[nVIDIA Tegra]] 3 T33을 사용하지만 LTE 및 WCDMA 대응 모델은 [[퀄컴 스냅드래곤]] S4 Plus MSM8960을 사용한다. 그 외의 사양은 비슷하다.
+
+역시 4.0으로 출시되었지만 4.2 업그레이드까지 노리는 무서운 태블릿이다(...)
+
+[[각주]]

@@ -1,0 +1,521 @@
+||<-5><tablewidth=100%><:>'''[[코나미 아케이드 챔피언쉽]][[BR]]{{{#990014 KONAMI}}} Arcade Championship'''||
+||<:>[[코나미 아케이드 챔피언쉽/2012|KAC 2012]]||<:>▷||<:>KAC 2013||<:>▷||<:>[[코나미 아케이드 챔피언쉽/The 4th|The 4th KAC]]||
+
+이 문서는 [[KAC 2013]]으로도 들어오실 수 있습니다.
+
+[[목차]]
+
+== 개요 ==
+[http://p.eagate.573.jp/game/kac2013/p/index.html 공식 홈페이지]
+[http://www.konami-asia.com/am/game/kac/2013/index.php 아시아 홈페이지]
+[http://www.konami-korea.kr/arcade/kac2013/index.html 한국 홈페이지]
+2013년 개최한 [코나미 아케이드 챔피언쉽] 2013의 대회 관련 항목. 예년에 비해 약 2개월 늦게 시작이 되었다.
+
+|||| 일정 ||
+|| 9월 13일 || 티저 사이트 공개 ||
+|| 9월 26일 || 공식 사이트 공개 ||
+|| 9월 30일 || 아시아 공식 사이트 공개 ||
+|| 10월 11일 || 한국 공식 사이트 공개 ||
+|| 10월 16일~11월 13일 || 예선 접수 ||
+|| 10월 31일~11월 25일 || 예선 라운드 ||
+|| 12월 21일, 12월 22일 || 결승 라운드, 시상식 ||
+
+주의할 점은 참가 신청한 지역 내 플레이만 인정된다는 것. 단, 아시아와 일본만 구분하므로 한국 유저의 경우 홍콩이나 마카오에서 플레이해도 괜찮다.
+
+=== 특징 ===
+ * 아시아 지역의 발매 게임 증가, 그리고 신규지역인 말레이시아의 추가로 아시아 지역에서도 꽤 참가할 수 있는 범위가 늘어났다. 자세한 사항은 아래 항목 참조
+ * 메달 게임과 경마게임의 본격적인 정식 종목 채택. 특히 메달게임의 경우 종목을 2개로 나누어[* 게임 방식의 차이가 있어, 메달을 밀어 게임을 진행하는 푸셔부문과 파치슬롯과 같이 크레딧이 들어가는 크레딧부분으로 분리된다.] 진행되며, 두 종목 모두 종합형태로 대응 게임 전체에서의 포인트가 집계되는 형태로 진행된다.
+ * BEMANI 시리즈의 경우 지난 대회들이 지역별로 대표를 뽑다보니 랭커들이 몰려있는 지역이 매우 불리한 점이 있었다. 이러한 문제점을 개선하기 위해 2013에서는 지역별 대표를 폐지하고, 예선을 다섯 그룹으로 나누어서 치르게 된다. 그룹마다 예선 지정곡이 다르며, 한 게임당 한 그룹에만 참가 가능하다. 각 그룹별로 '''상위 3명'''이 결선에 진출 가능하다. 대신 지역대표 선출전이 없다 보니 변별력을 높이기 위해 작년에 비해 예선곡의 난이도가 올라갔다. 특히 DDR 쪽이 심한 편. [[댄스 에볼루션]] 한정으로 상위 2명이 진출한다. 이는 결승전이 퍼포먼스를 심사하기 때문에 경기 시간이 오래 걸린다는 점을 감안해서이다.
+ * 아시아 지역은 일본과 예선곡이 다르며, 그룹이 없이 단일 지정곡으로 치른다. 각 종목당 '''1등 __단 1명__'''만이 결선에 진출 가능하다.~~그러니까 일본을 제외한 나머지 나라와 국가대항전에서 이겨야 결선에 간다는 얘기다...~~
+ * '시범 종목'이 최초로 추가되었다. [미라이다갓키]나 몬스터열전 오레카배틀과 같이 아직 입지도가 높지 않거나 [위닝일레븐] 아케이드 챔피언쉽 2014처럼 처음 종목에 채택된 게임이 추가되었다. 특히 위닝일레븐 아케이드 챔피언쉽 2014의 경우 버전명에 맞춰 2014년 초에 발매될 예정이기 때문에 이때가 로케테스트를 제외한 최초공개.
+ * 그동안 별도로 개최했던 그랜드 피날레를 개최하지 않는 대신, 아예 결선 장소를 롯본기로 잡았다.
+ * [beatmania IIDX]의 경우 대회 예선 중간에 버전업으로 [beatmania IIDX 20 tricoro]에서 [beatmania IIDX 21 SPADA]로 변경된다. 차기 버전의 기록 인계는 안되지만 KAC 기록 자체는 남는다.
+
+=== 아시아 지역의 국가별 참가 가능 종목 ===
+|| ||한국||대만||마카오||홍콩||싱가포르||말레이시아||
+||[beatmania IIDX 20 tricoro][[br]][beatmania IIDX 21 SPADA]||○||○||○||○||○||×||
+||[댄스 댄스 레볼루션]||×||○||○||○||○||×||
+||[댄스 에볼루션] 아케이드||×||○||○||○||○||○||
+||[기타도라|기타프릭스]||×||○||○||○||○||×||
+||[기타도라|드럼매니아]||×||○||○||○||○||×||
+||[유비트 소서]||○||○||○||○||○||○||
+||[팝픈뮤직 Sunny Park]||○||○||○||○||×||×||
+||[리플렉 비트 콜레트] ||○||○||○||○||×||×||
+||[사운드 볼텍스 II -인피니트 인펙션-] ||○||○||○||○||○||×||
+||마작 파이트 클럽 NEXT||×||×||×||○||×||×||
+||[퀴즈 매직 아카데미] 현자의 문 Season 2||×||○||×||○||×||×||
+
+ * 참가 가능 국가 추가 / 말레이시아([유비트 소서], [댄스 에볼루션] 아케이드)
+ * 대응 게임 추가
+  * 공통 / [팝픈뮤직 Sunny Park](아시아지역은 [팝픈뮤직 18 전국열전], 한국은 [팝픈뮤직] 초대작 이후에 재발매), [댄스 에볼루션] ARCADE(한국 제외/정식 발매 불발로 종목 제외), [사운드 볼텍스 II -인피니트 인펙션-](한국 제외/이미 [코나미 아케이드 챔피언쉽/2012|KAC 2012]때부터 정식종목)
+  * 한국 / [beatmania IIDX 20 tricoro]->[beatmania IIDX 21 SPADA]
+  * 홍콩, 대만 / [퀴즈 매직 아카데미] 현자의 문 Season 2 (단 문제가 현지화되어있기 때문에 예선 및 결선은 일본과 별도로 치른다.)
+
+== 예선 ==
+=== BEMANI 시리즈 ===
+==== [beatmania IIDX 20 tricoro]/[beatmania IIDX 21 SPADA] ====
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''BPM''' || '''난이도''' ||
+||<|3><:>A그룹[[BR]]아시아 그룹||[I'm so Happy] || 181 || {{{#red SP ANOTHER  11 }}} ||
+||[SHADE] || 151 || {{{#red SP ANOTHER 11 }}} ||
+||[quasar] || 155 || {{{#red SP ANOTHER 11 }}} ||
+||<|3><:>B그룹 ||[[naughty girl@Queen's Palace]] || 145 || {{{#red SP ANOTHER 11 }}} ||
+||[Wonder Bullfighter] || 126 || {{{#red SP ANOTHER 11 }}} ||
+||[quasar] || 155 || {{{#red SP ANOTHER 11 }}} ||
+||<|3><:>C그룹 ||[MIRACLE MEETS] || 160 || {{{#red SP ANOTHER 11 }}} ||
+||[Kailua] || 146 || {{{#red SP ANOTHER 11 }}} ||
+||[quasar] || 155 || {{{#red SP ANOTHER 11 }}} ||
+||<|3><:>D그룹 ||[Blame] || 155 || {{{#red SP ANOTHER 11 }}} ||
+||[G2] || 170 || {{{#red SP ANOTHER 11 }}} ||
+||[quasar] || 155 || {{{#red SP ANOTHER 11 }}} ||
+||<|3><:>E그룹 ||[SABER WING] || 37 - 444 || {{{#red SP ANOTHER 11 }}} ||
+||[New Castle Legions] || 120 - 180 || {{{#red SP ANOTHER 11 }}} ||
+||[quasar] || 155 || {{{#red SP ANOTHER 11 }}} ||
+
+==== [팝픈뮤직 Sunny Park] ====
+||<tablewidth=100%> '''그룹''' || '''장르명''' || '''곡명''' || '''버전''' || '''BPM''' || '''난이도''' ||
+||<|5><:>A그룹||ハイスピード幻想チューン ||[SHION] || 19 || 179 || {{{#red EX 45 }}} ||
+||胸キュン☆マレット ||[キセキはじまり☆] || 19 || 168 || {{{#red EX 43 }}} ||
+||ポップミュージック ||[うた] || SP || 220 || {{{#red EX 47 }}} ||
+||わんわんコア ||[ポチコの幸せな日常] || SP || 192 || {{{#red EX 45 }}} ||
+||リグレッツフィーリング ||[スマイル・リプレイ] || SP || 175 || {{{#red EX 42 }}} ||
+||<|5><:>B그룹||撫子メタル ||[黒髪乱れし修羅となりて] || 18 || 150 || {{{#red EX 46 }}} ||
+||忍者メタル ||[背水之陣] || 17 || 164 || {{{#orange HYPER 43}}} ||
+||ポップミュージック ||[うた] || SP || 220 || {{{#red EX 47 }}} ||
+||わんわんコア ||[ポチコの幸せな日常] || SP || 192 || {{{#red EX 45 }}} ||
+||リグレッツフィーリング ||[スマイル・リプレイ] || SP || 175 || {{{#red EX 42 }}} ||
+||<|5><:>C그룹||ファッシネイション ||[朧] || 20  || 149 || {{{#red EX 45 }}} ||
+||バブリーディスコ ||[Bubbly Time] || 20 || 138 || {{{#red EX 41 }}} ||
+||ポップミュージック ||[うた] || SP || 220 || {{{#red EX 47 }}} ||
+||わんわんコア ||[ポチコの幸せな日常] || SP || 192 || {{{#red EX 45 }}} ||
+||リグレッツフィーリング ||[スマイル・リプレイ] || SP || 175 || {{{#red EX 42 }}} ||
+||<|5><:>D그룹||アフロパーカッションパーティー ||[Earth Beat] || 20 || 190 || {{{#red EX 46 }}} ||
+||チャイニーズマインド ||[悠久神話録 -遥かなる山脈に流れる大河の畔にて- ] || SP || 100 - 182 || {{{#red EX 42 }}} ||
+||ポップミュージック ||[うた] || SP || 220 || {{{#red EX 47 }}} ||
+||わんわんコア ||[ポチコの幸せな日常] || SP || 192 || {{{#red EX 45 }}} ||
+||リグレッツフィーリング ||[スマイル・リプレイ] || SP || 175 || {{{#red EX 42 }}} ||
+||<|5><:>E그룹||メカニカルジャズ ||[Apple Butter] || 19 || 170 || {{{#red EX 45 }}} ||
+||亜空間ジャズ ||[Ergosphere] || 16 || 170 || {{{#orange HYPER 42}}} ||
+||ポップミュージック ||[うた] || SP || 220 || {{{#red EX 47 }}} ||
+||わんわんコア ||[ポチコの幸せな日常] || SP || 192 || {{{#red EX 45 }}} ||
+||リグレッツフィーリング ||[スマイル・リプレイ] || SP || 175 || {{{#red EX 42 }}} ||
+||<|5><:>아시아 그룹||ファッシネイション ||[朧] || 20  || 149 || {{{#red EX 45 }}} ||
+||亜空間ジャズ ||[Ergosphere] || 16 || 170 || {{{#orange HYPER 42}}} ||
+||ポップミュージック ||[うた] || SP || 220 || {{{#red EX 47 }}} ||
+||わんわんコア ||[ポチコの幸せな日常] || SP || 192 || {{{#red EX 45 }}} ||
+||リグレッツフィーリング ||[スマイル・リプレイ] || SP || 175 || {{{#red EX 42 }}} ||
+
+==== [[유비트 소서]] ====
+한 크레딧 내에 세 곡을 모두 플레이하여야 한다. 순서는 상관없다. 각 그룹마다 특징이 있는데 그건 각 그룹에 딸린 각주를 참고.
+
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''BPM''' || '''난이도''' ||
+||<|3><:>A그룹[[BR]]Ryu☆ 곡 모음||[532nm] || 177 || {{{#red EXTREME 10 }}} ||
+||[I'm so Happy] || 181 || {{{#red EXTREME 10 }}} ||
+||[We're so Happy] || 185 || {{{#red EXTREME 10 }}} ||
+||<|3><:>B그룹[[BR]][bistro saucer][[BR]]최종해금곡 모음||[アストライアの双皿] || 173 || {{{#red EXTREME 10 }}} ||
+||[†渚の小悪魔ラヴリィ～レイディオ†] || 190 || {{{#red EXTREME 10 }}} ||
+||[True Blue] || 164 || {{{#red EXTREME 10 }}} ||
+||<|3><:>C그룹[[BR]]TAG 곡 모음||[Riot of Color] || 150 || {{{#red EXTREME 10 }}} ||
+||[PRANA] || 188 || {{{#red EXTREME 10 }}} ||
+||[Romancing Layer] || 150 || {{{#red EXTREME 10 }}} ||
+||<|3><:>D그룹[[BR]]아시아 그룹[[BR]]GUHROOVY 곡 모음||[AIR RAID FROM THA UNDAGROUND] || 180 || {{{#red EXTREME 10 }}} ||
+||[Beastie Starter] || 190 || {{{#red EXTREME 10 }}} ||
+||[Stand Alone Beat Masta] || 200 || {{{#red EXTREME 10 }}} ||
+||<|3><:>E그룹[[BR]]kors k 곡 모음||[The Wind of Gold] || 170 || {{{#red EXTREME 10 }}} ||
+||[Our Faith] || 175 || {{{#red EXTREME 10 }}} ||
+||[Gimme a Big Beat] || 138 || {{{#red EXTREME 10 }}}  ||
+
+==== [[리플렉 비트 콜레트]] ====
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''BPM''' || '''난이도''' ||
+||<|5><:>A그룹[[BR]]아시아 그룹||[7 Colors] || 156 || {{{#red HARD 9 }}} ||
+||[愛は不死鳥の様に] || 192 || {{{#red HARD 10 }}} ||
+||[Daily Lunch Special] || 205 || {{{#red HARD 10+ }}} ||
+||[祟竜ヤマタノオロチのテーマ]|| || {{{#red HARD 10 }}} ||
+||[VALLIS-NERIA]|| 185 || {{{#red HARD 10+ }}} ||
+||<|5><:>B그룹||[7 Colors] || 156 || {{{#red HARD 9 }}} ||
+||[Windy Fairy] || 180 || {{{#red HARD 10 }}} ||
+||[Daily Lunch Special] || 205 || {{{#red HARD 10+ }}} ||
+||[祟竜ヤマタノオロチのテーマ]|| || {{{#red HARD 10 }}} ||
+||[VALLIS-NERIA]|| 185 || {{{#red HARD 10+ }}} ||
+||<|5><:>C그룹||[ロボット☆ライフ] || 177 || {{{#red HARD 9 }}} ||
+||[examination leave] || 180 || {{{#red HARD 10 }}} ||
+||[EMPEROR OF THE AVALON] || 90 - 180 || {{{#red HARD 10+ }}} ||
+||[祟竜ヤマタノオロチのテーマ]|| || {{{#red HARD 10 }}} ||
+||[VALLIS-NERIA]|| 185 || {{{#red HARD 10+ }}} ||
+||<|5><:>D그룹||[ロボット☆ライフ] || 177 || {{{#red HARD 9 }}} ||
+||[Windy Fairy] || 180 || {{{#red HARD 10 }}} ||
+||[Playing With Fire] || 160 || {{{#red HARD 10+ }}} ||
+||[祟竜ヤマタノオロチのテーマ]|| || {{{#red HARD 10 }}} ||
+||[VALLIS-NERIA]|| 185 || {{{#red HARD 10+ }}} ||
+||<|5><:>E그룹||[Wow Wow VENUS] || 157 || {{{#red HARD 9 }}} ||
+||[examination leave] || 180 || {{{#red HARD 10 }}} ||
+||[Playing With Fire] || 160 || {{{#red HARD 10+ }}} ||
+||[祟竜ヤマタノオロチのテーマ]|| || {{{#red HARD 10 }}} ||
+||[VALLIS-NERIA]|| 185 || {{{#red HARD 10+ }}} ||
+
+==== [[사운드 볼텍스 II -인피니트 인펙션-]] ====
+「SKILL ANALYZER 」모드에서 플레이하여야 한다.
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''카테고리''' || '''BPM''' || '''난이도''' ||
+||<|3><:>A그룹[[BR]]아시아 그룹||[육조년과 하룻밤 이야기|六兆年と一夜物語] || EXIT || 186 || {{{#ff009f EXHAUST 14 }}} ||
+||[Strawberry Crisis] || 동방 || 198 || {{{#ff009f EXHAUST 14 }}} ||
+||[BUBBLE RAVER] || FLOOR || 174 || {{{#ff009f EXHAUST 14 }}} ||
+||<|3><:>B그룹||[썩은 외도와 초콜릿|腐れ外道とチョコレゐト] || EXIT || 260 || {{{#ff009f EXHAUST 14 }}} ||
+||[굉장한 기세로 케이네가 굉장한 노래|物凄い勢いでけーねが物凄いうた] || 동방 || 180 || {{{#ff009f EXHAUST 14 }}} ||
+||[- dirty rouge -] || FLOOR || 254 || {{{#ff009f EXHAUST 14 }}} ||
+||<|3><:>C그룹||[イカサマライフゲイム] || EXIT || 200 || {{{#ff009f EXHAUST 14 }}} ||
+||[Venona] || 동방 FLOOR || 178 || {{{#ff009f EXHAUST 14 }}} ||
+||[LEMON SUMMER] || FLOOR || 180 || {{{#ff009f EXHAUST 14 }}} ||
+||<|3><:>D그룹||[나이트 오브 나이츠|ナイトオブナイツ] || 동방 || 180 || {{{#ff009f EXHAUST 14 }}} ||
+||[GEROL] || FLOOR || 175 || {{{#ff009f EXHAUST 14 }}} ||
+||[Paradoxy] || FLOOR || 145 || {{{#ff009f EXHAUST 14 }}} ||
+||<|3><:>E그룹||[セツナトリップ] || EXIT || 145 || {{{#ff009f EXHAUST 14 }}} ||
+||[Goodbye-bye Planet] || FLOOR || 185 || {{{#ff009f EXHAUST 14 }}} ||
+||[Rings of Rainbow] || FLOOR || 215 || {{{#ff009f EXHAUST 14 }}} ||
+attachment:keieisi.jpg
+[[스킬 애널라이저]] 모드에서 플레이하므로 타 스킬레벨처럼 클리어 시 스킬마크를 얻을 수 있다. '케이에이시'라고 읽을 수 있다.
+
+==== [[댄스 댄스 레볼루션]] ====
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''BPM''' || '''난이도''' ||
+||<|4><:> A그룹 [[BR]] MAX 시리즈 ||[MAX 300] || 300 || {{{#green SP EXPERT 15 }}} ||
+||[MAXX UNLIMITED] || 140-320 || {{{#green SP EXPERT 16 }}} ||
+||[MAX 300 (Super-Max-Me Mix)] || 140-320 || {{{#purple SP CHALLENGE 16 }}} ||
+||[Fascination MAXX] || 100-400 || {{{#green SP EXPERT 17 }}} ||
+||<|4><:> B그룹 [[BR]] [[사립 BEMANI 학원]] ||[STULTI] || 90-182 || {{{#green SP EXPERT 15 }}} ||
+||[오코메탈|お米の美味しい炊き方、そしてお米を食べることによるその効果] || 190 || {{{#green SP EXPERT 16 }}} ||
+||[GAIA] || 180 || {{{#green SP EXPERT 16 }}} ||
+||[Elemental Creation] || 106-424 || {{{#green SP EXPERT 17 }}} ||
+||<|4><:> C그룹 [[BR]] [[EVOLVED 시리즈]] ||[EVOLVED 시리즈|roppongi EVOLVED] ver.C || (170) || {{{#green SP EXPERT 15 }}} ||
+||[EVOLVED 시리즈|New York EVOLVED] (Type A) || 48-380 || {{{#green SP EXPERT 16 }}} ||
+||[EVOLVED 시리즈|tokyoEVOLVED] (TYPE1) || 70-280 || {{{#green SP EXPERT 16 }}} ||
+||[London EVOLVED] ver.C || (170) || {{{#purple SP CHALLENGE 17 }}} ||
+||<|4><:> D그룹 [[BR]] TAG 곡 모음 ||[Another Phase] || 160 || {{{#green SP EXPERT 15 }}} ||
+||[REVOLUTIONARY ADDICT] || 174-696 || {{{#purple SP CHALLENGE 16 }}} ||
+||[PRANA] || 188 || {{{#purple SP CHALLENGE 16 }}} ||
+||[POSSESSION] || 185-370 || {{{#green SP EXPERT 17 }}} ||
+||<|4><:>E그룹 [[BR]] 변속곡 모음 ||[SABER WING] (Akira Ishihara Headshot mix) || 79-316 || {{{#green SP EXPERT 15 }}} ||
+||[CHAOS] || 170 || {{{#purple SP CHALLENGE 16 }}} ||
+||[Pluto] || 50-220 || {{{#purple SP CHALLENGE 16 }}} ||
+||[Pluto|Pluto The First] || 50-440 || {{{#green SP EXPERT 17 }}} ||
+||<|4><:>아시아 그룹 [[BR]] 폭타 위주 구성 ||[KIMONO♥PRINCESS] || 95~190 || {{{#green SP EXPERT 15 }}} ||
+||[Trigger] || 100-400 || {{{#green SP EXPERT 16 }}} ||
+||[Trim] || 85-340  || {{{#green SP EXPERT 16 }}} ||
+||[New Decade] || 100-400 || {{{#green SP EXPERT 17 }}} ||
+
+==== [[GITADORA]] GuitarFreaks ====
+기타 난이도만 참가 가능하며, 베이스는 포함되지 않는다.
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''BPM''' || '''난이도''' ||
+||<|5><:>A그룹||[キケンな果実] || 174 || {{{#red EXTREME 7.70 }}} ||
+||[去る金合戦] || 156 || {{{#red EXTREME 7.00 }}} ||
+||[ボンビースキップ!!] || 120-164 || {{{#red EXTREME 8.40 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.75 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.70 }}} ||
+||<|5><:>B그룹||[Jasper] || 220 || {{{#red EXTREME 7.55 }}} ||
+||[ガラス越し→バイなう] || 166 || {{{#red EXTREME 6.80 }}} ||
+||[戦場のタクトシュトック] || 187 || {{{#red EXTREME 8.30 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.75 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.70 }}} ||
+||<|5><:>C그룹||[虹色の花] || 170 || {{{#red EXTREME 7.70 }}} ||
+||[Screaming Your Faith!!!] || 162 || {{{#red EXTREME 7.20 }}} ||
+||[Metallic] || 176 || {{{#red EXTREME 8.80 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.75 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.70 }}} ||
+||<|5><:>D그룹||[Mighty Wind] || 190 || {{{#red EXTREME 7.60 }}} ||
+||[Speeders] || 175 || {{{#red EXTREME 6.00 }}} ||
+||[ROCKET MAN] || 220 || {{{#red EXTREME 7.35 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.75 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.70 }}} ||
+||<|5><:>E그룹||[三毛猫ロックンロール] || 264 || {{{#red EXTREME 6.45 }}} ||
+||[BLUE BOOTS] || 125 || {{{#red EXTREME 8.00 }}} ||
+||[Grapes] || 240 || {{{#red EXTREME 7.75 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.75 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.70 }}} ||
+||<|5><:>아시아 그룹||[去る金合戦] || 156 || {{{#red EXTREME 7.00 }}} ||
+||[Mighty Wind] || 190 || {{{#red EXTREME 7.60 }}} ||
+||[三毛猫ロックンロール] || 264 || {{{#red EXTREME 6.45 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.75 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.70 }}} ||
+
+==== [[GITADORA]] DrumMania ====
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''BPM''' ||  '''난이도''' ||
+||<|5><:>A그룹||[キケンな果実] || 120-164 || {{{#red EXTREME 8.00 }}} ||
+||[Return of the throne] || 218 || {{{#red EXTREME 6.85 }}} ||
+||[Arena Sexarboris] || 189 || {{{#red EXTREME 8.15 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.90 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.00 }}} ||
+||<|5><:>B그룹||[Link up] || 170 || {{{#red EXTREME 6.90 }}} ||
+||[めうめうぺったんたん！！] || 185 || {{{#red EXTREME 6.80 }}} ||
+||[8 -eight-] || 230 || {{{#red EXTREME 8.10 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.90 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.00 }}} ||
+||<|5><:>C그룹||[solitude] || 144 || {{{#red EXTREME 7.75 }}} ||
+||[振動デザイア] || 200 || {{{#red EXTREME 7.50 }}} ||
+||[フレッフレー♪熱血チアガール] || 195 || {{{#red EXTREME 8.55 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.90 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.00 }}} ||
+||<|5><:>D그룹||[ROCKET MAN] || 220 || {{{#red EXTREME 7.10 }}} ||
+||[TRICK] || 185 || {{{#red EXTREME 7.00 }}} ||
+||[もぎたてANGEL] || 147 || {{{#red EXTREME 5.80 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.90 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.00 }}} ||
+||<|5><:>E그룹||[三毛猫ロックンロール] || 264 || {{{#red EXTREME 8.00 }}} ||
+||[BLUE BOOTS] || 125 || {{{#red EXTREME 8.20 }}} ||
+||[Grapes] || 240 || {{{#red EXTREME 7.70 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.90 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.00 }}} ||
+||<|5><:>아시아 그룹||[Arena Sexarboris] || 189 || {{{#red EXTREME 8.15 }}} ||
+||[めうめうぺったんたん！！] || 185 || {{{#red EXTREME 6.80 }}} ||
+||[BLUE BOOTS] || 125 || {{{#red EXTREME 8.20 }}} ||
+||[[アルストロメリア]] (GITADORA Ver.)|| 144 || {{{#red EXTREME 7.90 }}} ||
+||[[Evans]] -TLION69 Remix-|| 185 || {{{#red EXTREME 8.00 }}} ||
+
+==== [[댄스 에볼루션]] 아케이드 ====
+||<tablewidth=100%> '''그룹''' || '''곡명''' || '''BPM''' || '''난이도''' ||
+||<|3><:> A그룹 [[BR]] 방과후★댄에보 부 ||[[Wow Wow VENUS]] || 157 || 3 ||
+||[[Do The Evolution]] || 148 || 3 ||
+||[[Daisuke]]|| 157 || 4 ||
+||<|3><:> B그룹 [[BR]] 애니메이션 주제곡 ||[[マジLOVE1000%]] || 129 || 3 ||
+||[[恋愛サーキュレーション]] || 120 || 3 ||
+||[[マジLOVE2000%]] || 141 || 3 ||
+||<|3><:> C그룹 [[BR]] J-POP ||[[女々しくて]] || 143 || 4 ||
+||[[行くぜっ！怪盗少女]] -Zver.- || 160 || 4 ||
+||[[恋するフォーチュンクッキー]] || 122 || 1 ||
+||<|3><:> D그룹 [[BR]] 파라파라 ||[[CAN'T STOP FALLIN' IN LOVE]] -super euro version- || 155 || 2 ||
+||[[My Only Shining Star]] || 155 || 2 ||
+||[[NIGHT OF FIRE]] || 155 || 3 ||
+||<|3><:> E그룹 [[BR]] '춤춰보았다' 특집 ||[[サイバーサンダーサイダー]] || 145 || 3 ||
+||[[Gravity=Reality]] || 172 || 3 ||
+||[[メグメグ☆ファイアーエンドレスナイト]] || 162 || 4 ||
+||<|3><:> 아시아 그룹 [[BR]] 최신 추가곡 ||[[メグメグ☆ファイアーエンドレスナイト]] || 162 || 4 ||
+||[[Daisuke]] || 157 || 4 ||
+||[[恋するフォーチュンクッキー]] || 122 || 1 ||
+A조 결승 진출자 2명이 시스템 상 2인 플레이시 스코어가 조금 더 가중된다는 것을 이용해 진출하여 논란이 되었다. '''1인플레이로 열심히 한 사람은 뭐가 되느냐'''와 '''대회 규칙상 금지된 것이 아니니 문제 없다'''는 입장이 대립했다. 이는 룰을 세세히 정하지 않은 코나미 측의 실수라고 보는게 맞다. 이후 다음 대회에서는 2인 플레이시 과제곡 폴더가 뜨지 않도록 하였다.
+
+== 결선 경기 규칙, 과제곡 및 영상 ==
+=== [[BEMANI 시리즈]] ===
+==== [[beatmania IIDX 21 SPADA]] ====
+ * [http://www.youtube.com/watch?v=iUWq2RegQNo 경기 영상]
+ * 경기 규칙
+  * 준결승 : 16명 전원이 당일 발표되는 과제곡 2곡을 플레이, 2곡의 스코어 합계 상위 4명이 결승 진출
+  * 결승 : 지정곡 중에서 4명이 1곡 씩 고른 후 플레이, 4곡의 스코어 합계 1위가 우승. 과제곡을 중복해서 고를 수 없다. (단 곡이 같아도 난이도가 다르면 허용)
+
+ * 준결승 과제곡
+  * [[AA(비마니 시리즈)|AA]] 어나더, [[Devilz Staircase]] 어나더
+
+ * 결승 과제곡
+  * [[3y3s]] 어나더, [[DIAVOLO]] 어나더, [[DAY DREAM]] 어나더, [[작열Beach Side Bunny]] 어나더
+
+==== [[팝픈뮤직 Sunny Park]] ====
+ * [http://www.youtube.com/watch?v=QChxYBtfKfY 경기 영상]
+ * 경기 규칙
+  * 준결승 : 16명을 5/5/6명의 3조로 나눈 후, 조별로 과제곡 2곡을 추첨해 플레이한다. 2곡의 합계 스코어가 가장 높은 사람이 우승
+  * 결승 : 결승 진출자 3명이 각자 1곡씩 원하는 곡을 선곡 후 동시에 플레이. 3곡의 합계 스코어가 가장 높은 사람이 우승한다
+  * 4위 결정전 : 각 조별 2등이 과제곡 2명을 추첨해 플레이한다. 2곡의 합계 스코어가 가장 높은 사람이 4위.
+
+ * 준결승 과제곡
+  * A조
+   * 쇼와 느와르/[[誰がために陽はのぼる]], 힙락5/一激必翔
+
+  * B조
+   * 레이싱/[[Violently Car]], 다크오페라REMIX/Der Wald(kors k Remix)
+
+  * C조
+   * 그런지데스/[[ULTRA BUTTERFLY（坤剛力）]], 클래식7/[[The tyro’s reverie]]
+
+ * 4위 결정전 과제곡
+  * 아야카시록/[[情操ディストピア]], 포레스트스노우2/白夜幻燈
+
+ * 결승 과제곡
+  * 포레스트스노우2/白夜幻燈, 클래식11/[[想い出をありがとう]], 피버로보/[[踊るフィーバーロボ]]
+
+==== [[유비트 소서]] ====
+ * [http://www.youtube.com/watch?v=M18FBZ9fKUk 경기 영상]
+ * 경기 규칙
+  * 준결승 : 16명을 1조 4명씩 4조로 분류해, 조별로 과제곡 2곡을 추첨해 플레이한다. 합계 스코어가 가장 높은 사람이 결승 진출
+  * 결승 : 결승에 진출한 4명이 과제곡 3곡을 추첨후 동시에 플레이한다. 합계 스코어가 가장 높은 사람이 우승
+
+ * 준결승 과제곡
+  * A 그룹
+   * [[Romancing Layer]], [[PRANA]]
+
+  * B 그룹
+   * [[Evans]], [[TSAR BOMBA]]
+
+  * C 그룹
+   * [[Stand Alone Beat Masta]], [[AIR RAID FROM THA UNDAGROUND]]
+
+  * D 그룹
+   * [[†渚の小悪魔ラヴリィ～レイディオ†]], [[JOMANDA]]
+
+ * 결승 과제곡
+  * [[True Blue]], [[DIAVOLO]], [[Daily Lunch Special]]
+
+==== [[리플렉 비트 콜레트]] ====
+ * [http://www.youtube.com/watch?v=tM7gMHBjDsM 경기 영상]
+ * 경기 규칙
+  * 16명 전원 토너먼트로 진행하며, 지정곡중 1곡을 서로 선곡해 대결하며 스코어가 높은 사람이 다음 라운드로 진출. 
+  * 단 결승전까지 자신이 한번 고른 곡은 다시 선택이 불가능하다.
+  * 준결승전까지는 난이도 10 이상의 HARD 곡을, 결승전에서는 난이도 10+의 HARD 곡을 선정.
+  * 만일 2명이 같은 곡을 고른 경우, 과제곡 중에서 추첨으로 2곡을 고른다.
+  * 2곡 합계 스코어가 동점일 경우, 과제곡 중 1곡을 추첨해 재대결을 하며, 재대결에서도 동점일 경우 '''[[가위바위보]]'''로 [[BEMANI MASTER KOREA|승부를 결정한다.]]
+
+ * 제1회전 과제곡(순서대로 1~8시합)
+  * [[December Breeze]], [[Vairocana]]
+  * [[太陽の子]], [[黒点]]
+  * [[LISA-RICCIA]], [[海神]]
+  * [[Daily Lunch Special]], 黒点
+  * [[Zirkfied]], [[DOUBLE IMPACT]]
+  * [[Liberation]], [[双璧のVANESSA]]
+  * [[fallen leaves]], [[Lisa-RICCIA]]
+  * [[Red Goose]], [[終焔のClaudia]]
+
+ * 제2회전 과제곡(순서대로 1~4시합)
+  * Lisa-RICCIA, 黒点
+  * Zirkfied, Lisa-RICCIA
+  * DOUBLE IMPACT, 終焔のClaudia
+  * Zirkfied, [[Valanga]]
+
+ * 준결승전 과제곡
+  * Zirkfied, Liberation
+  * [[ZZ(비마니 시리즈)|ZZ]], 海神
+
+ * 결승전 과제곡
+  * [[Arcanos]], ZZ
+
+==== [[사운드 볼텍스 II -인피니트 인펙션-]] ====
+ * [http://www.youtube.com/watch?v=wKU5HQkelFA 경기 영상]
+ * 경기 규칙
+  * 16명 전원 로컬 매칭을 통한 토너먼트로 진행하며, 지정곡중 1곡을 서로 선곡해 대결하며, 2곡의 합계 스코어가 높은 사람이 다음 라운드로 진출한다.
+  * 단 결승전까지 자신이 한번 고른 곡은 다시 선택이 불가능하다.
+  * 결승전은 로컬매칭 2곡 + 당일 발표되는 KAC2013 오리지널 악곡 컨테스트 최우수악곡으로[* '''1곡이라 한 적 없다'''. 총 2개의 신곡이 발표. 그래서 결승은 4곡 토탈 점수 승부가 되었다.] 대결해 전 곡의 합계 스코어가 높은 사람이 우승.
+  * 합계 스코어가 동점일 경우, 과제곡 중 1곡을 추첨해 재대결을 하며, 재대결에서도 동점일 경우 '''[[가위바위보]]'''로 [[BEMANI MASTER KOREA|승부를 결정한다.]]
+
+ * 제1회전 과제곡(순서대로 1~8시합)
+  * [[Joyeuse]] EXH, [[BabeL 시리즈#s-3.3|BabeL ～Next Story～]] EXH
+  * [[ラクガキスト]] EXH, [[Lunartic Dial]] EXH
+  * [[Quietus Ray]] EXH, [[金縛りの逢を]] EXH
+  * [[good high school]] INF, [[용골귀전 테마곡#s-2|「月風魔伝」龍骨鬼戦 yks Remix]] INF
+  * [[croiX]] EXH, [[Gott]] EXH
+  * [[U.N.オーエンは彼女なのか？(TO-HOlic mix)]] EXH, BabeL ～Next Story～ EXH
+  * Joyeuse EXH, good high school INF
+  * [[音楽#s-2.3.2|音楽 -resolve-]], [[VALLIS-NERIA]] EXH
+
+ * 준준결승전 과제곡(순서대로 1~4시합)
+  * [[Starlight Express]] EXH, 金縛りの逢を EXH
+  * VALLIS-NERIA EXH, [[大宇宙ステージ]] EXH
+  * [[HAELEQUIN]] EXH, Quietus Ray EXH
+  * [[C18H27NO3]] EXH, [[DEADLOCK#s-3|DEADLOCK XXX]]
+
+ * 준결승전 과제곡
+  * Joyeuse EXH, 「月風魔伝」龍骨鬼戦 yks Remix INF
+  * [[XROSS INFECTION]] EXH, Quietus Ray EXH
+
+ * 결승전 과제곡
+  * VALLIS-NERIA EXH, [[Ganymede#s-3|Ganymede kamome mix]] EXH, '''[[Bangin' Burst]] EXH''', '''[[For UltraPlayers]] EXH'''
+
+==== [[댄스 댄스 레볼루션]] ====
+ * 경기 규칙
+  * 2013년 출하된 흰색 기체로 진행
+  * 준결승 : 16명 전원이 당일 발표되는 과제곡 2곡을 플레이, 2곡의 EX스코어 합계 상위 4명이 결승 진출
+  * 결승 : 지정곡 중에서 4명이 1곡 씩 고른 후 플레이, 4곡의 EX스코어 합계 1위가 우승. 과제곡을 중복해서 고를 수 없다. (단 곡이 같아도 난이도가 다르면 허용)
+  * DDR의 EX스코어는 [[beatmania IIDX]] 시리즈와 유사하다. 숨겨진 옵션이며 싱글 / 더블 선택 화면에서 키패드를 0→5→7→3 순서대로 누르면 스코어 표시가 바뀐다.
+   * Marvelous, OK(프리즈 노트를 끝까지 밟았거나 쇼크 애로우를 피할 경우 생기는 판정) : 3점
+   * Perfect : 2점
+   * Great : 1점
+   * 나머지 점수 없음
+
+ * 준결승 과제곡(순서대로 1곡째 2곡째)
+ * GO FOR THE TOP challenge
+ * Triple Journey -TAG EDITION- challenge
+
+ * 결승 과제곡(순서대로 1곡 2곡 3곡 4곡쨰)
+ * Healing-D-Vision challenge
+ * DEAD END -"GROOVE RADAR" Special- challenge
+ * MAXX UNLIMITED(X-Special)[* X-Special은 첼린지 체보만 존재한다.]
+ * [[888]] challenge
+ 
+==== [[GITADORA]] GuitarFreaks ====
+ * 경기 규칙
+  * GITADORA 흰색 기체로 진행
+  * 16명 전원 토너먼트로 진행하며, 각각 2곡을 플레이해 점수가 높은 사람이 다음 경기로 진행한다.
+  * 과제곡은 매번 추첨으로 결정한다.
+  * 오토 / 랜덤 옵션 / 넥버튼(2~4) 옵션 사용 금지
+
+==== [[GITADORA]] DrumMania ====
+ * 경기 규칙
+  * GITADORA 흰색 기체로 진행
+  * 16명 전원 토너먼트로 진행하며, 각각 2곡을 플레이해 점수가 높은 사람이 다음 경기로 진행한다.
+  * 과제곡은 매 승부 시작전에 추첨으로 2곡을 결정한다. 단, 결승전에 한해서 1곡씩 추첨하면서 진행한다.
+  * 오토 / 미러 옵션 사용 금지
+
+ * 1회전(16강) 과제곡(순서대로 1~8시합)
+  * [[百鬼夜行]] EXT, [[Mighty Wind]] EXT
+  * [[Illuminati ~光を求める者たち~]] MAS, [[Limitless Possibility]] MAS
+  * [[Excavation Damage]] MAS, [[Crazy blooms]] MAS
+  * [sola(비마니 시리즈)#s-3|sola GITADORA ver.] EXT, [[戦場のタクトシュトック]] EXT
+  * [[Hard distance]] MAS, [[Jasper]] EXT
+  * [[三毛猫JIVE&ジャイブ]] MAS, [[Shake and Shout!!]] MAS
+  * [[Red haze]] MAS, [晴天Bon Voyage#s-5|晴天Bon Voyage] EXT
+  * [[虹色の花]] EXT, [[SCREW DRIVER]] MAS
+
+ * 준준결승(8강) 과제곡(순서대로 1~4시합)
+  * [[Rosetta Stone]] MAS, [[クリムゾンゲイト]] MAS
+  * [[ラキラキ#s-6|ラキラキ(GITADORA Ver.)]] EXT, [[Cosmic Hurricane#s-4|Cosmic Hurricane (GFDM ver.)]] MAS
+  * [[KAISER PHOENIX]] MAS, [[幻想雷神記]] MAS
+  * [[元禄花吹雪]] MAS, [天庭#s-2|天庭 おとこのこ編] MAS
+
+ * 준결승 과제곡
+  * [[白虎転生録]] MAS, [お米の美味しい炊き方#s-2|お米の美味しい炊き方、そしてお米を食べることによるその効果。] EXT
+  * [[Fly with me]] MAS, [[Mother Tree]] MAS
+
+ * 결승전 과제곡
+  * [[Last Song]] MAS, [[memento mori -intro-]] MAS
+
+==== [[댄스 에볼루션]] 아케이드 ====
+ * 경기 규칙
+  * 준결승 : 11명 전원이 하고 싶은 곡 1곡을 EXTREME 난이도로 퍼포먼스 플레이, 심사위원의 평가가 가장 높은 4명이 결승 진출
+  * 결승 : 4명 전원이 하고 싶은 곡 1곡을 EXTREME 난이도로 퍼포먼스 플레이, 심사위원의 평가가 가장 높은 사람이 우승
+  * 센서가 반응하지 않거나 오작동을 일으킬 수 있는 분장에 대해서는 스태프가 관여하지 않는다. (자기 책임)
+  * 퍼포먼스에서 아래에 해당하는 물건은 지참 불가능하다.
+   * 어떤 것이든 길이 1m 이상의 물건
+   * 총, 칼등의 무기
+   * 주변에 피해를 끼칠 우려가 있는 물건
+   * 기타 스태프가 위험하다 판단되는 물건
+
+=== 시범종목 ===
+==== [[미라이다갓키]] ====
+ * 경기 규칙
+  * 결승 당일날 오전반 / 오후반으로 예선을 치른 후, 각 반의 1위 2명이 결승전을 진행
+  * 예선 : 당일 발표되는 지정곡을 플레이해 반별로 가장 스코어가 높은 사람이 결승 진출
+  * 결선 : 당일 발표되는 지정곡을 플레이해 스코어가 높은 사람이 우승
+
+=== 코나미 아케이드 게임 ===
+
+==== 마작 파이트 클럽 NEXT ====
+[http://www.youtube.com/watch?v=1tBPeN6T3Ws 경기영상]
+1회전
+동풍전으로 4인1조 각조 상위 2인이 준결승 진출
+
+준결승
+동풍전으로 4인1조 각조 상위 2인이 결승 진출
+
+결승전
+반장전으로 1등이 최종우승
+
+==== GI-MASTER ====
+사용기종:GI-GranDesire
+예선
+전반 11레이스 후반10레이스 총 21레이스의 획득 상금합계 상위 4명이 결승진출
+
+결승
+아리마 기념 경주[* 경기당일 실제로 개최되었던 경주였다.]에 출주해 최상위 순위 플레이어가 최종우승
+
+==== 메달 마스터 결정전 ====
+사용기종
+푸셔:비너스 파운틴
+크레딧:에니마 롯타 2
+
+푸셔는 메달 2000개/크레딧은 메달 10000개로 스타트
+각각 전반 1시간 후반 1시간 동안 푸셔는 토탈 WIN 메달수 1위가,크레딧은 최종획득 메달수 1위가 최종우승
+
+==== [BASEBALL HEROES] 2013 ====
+8인의 토너먼트 전으로 진행
+

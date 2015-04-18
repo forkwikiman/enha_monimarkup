@@ -1,0 +1,37 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[猫叉Master+]]. 전작의 [[Funny Shuffle]]처럼 +명의에서 두드러지게 나타나는 특유의 독특한 느낌을 주는 곡이다. BGA도 곡의 분위기와 잘 어우러지는 영상을 보여주고 있어 곡과 BGA 양면으로 호평을 받고 있다.
+[[beatmania IIDX 22 PENDUAL]] ORIGINAL SOUNDTRACK에 풀버전이 수록되었다.
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| AFRO SAMBA[[BR]]아프로 삼바 || [[BPM]] |||| 145 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 5}}} || {{{#blue 496}}} || {{{#orange 8}}} || {{{#orange 917}}} || {{{#red 11}}} || {{{#red 1226}}} ||
+|| [[더블 플레이]] || {{{#blue 5}}} || {{{#blue 446}}} || {{{#orange 9}}} || {{{#orange 920}}} || {{{#red 11}}} || {{{#red 1320}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 22 PENDUAL|22 PENDUAL]] ~
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/20qtd3J06L8" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 어나더 영상
+
+=== 곡 코멘트 ===
+||여름이다! 삼바다! 리우데자네이루!
+튀어 날아가는 아프리카.
+아프로에 얽힌 벌레들.
+뜨겁고 더워서 구부러지기 쉬운 여름의 졸음을
+날려 주세요.
+
+판데이로(パンディエロ)를 한손에 모두 미쳐 날뛴다.
+이예!
+
+Sound / 猫叉Master+
+
+벡터감 강화의 추상으로 했습니다.
+단순한 원이나 삼각형이 귀엽게 보인다면 좋겠네-라고 생각하며 만들었습니다!
+팝&큐트!
+
+Movie / Koji Aramaki||

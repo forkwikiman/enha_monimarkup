@@ -1,0 +1,18 @@
+[[include(틀:사고위험행위)]]
+{{{#!html
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/h6FykfwXz6E?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/h6FykfwXz6E?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+상위 문서 : [[프로레슬링/기술]]
+
+[파워 밤]의 변형 기술로 상대의 등뒤에서 겨드랑이를 잡고 어깨 뒤로 들어올려 바닥에 내치는 파워밤이다. 상대가 코너위에 올라가는 걸 뒤에서 덮쳐서 쓰는 경우도 있지만 주로 파워 밤 준비 자세에서 그대로 들어올려 등 뒤로 넘기기 때문에 꽤 힘이 좋아야하는 기술.
+
+[[스캇 홀]]의 레이저스(아웃사이더즈) 엣지나 [[셰이머스]]의 하이 크로스[* 기술 명칭이 꽤 많이 바뀌었다. 처음에는 [제리 롤러]가 켈틱 크로스로 불렀지만, 당시 [핀레이]가 멀쩡히 뛰고 있었기 때문에 원 명칭인 크루시픽스 파워 밤으로 불렀다. 그러다 2010년 페일 저스티스로 명칭을 바꿨지만 악역인 셰이머스에게 안 어울린다고 판단했는지 하이 크로스로 명칭을 바꾸었다. 후에 핀레이가 은퇴하면서 다시 켈틱 크로스로 명칭을 바꿨지만, 2012년 핀레이의 진짜 [wiki:"파일 드라이버#s-2.2.6"켈틱 크로스]를 화이트 노이즈란 이름으로 피니쉬로 쓰면서 아예 쓰지 않게 되었다.] 등이 유명. [[TNA]]의 헤르난데스도 이 기술을 응용한 보더 토스라는 피니시를 사용하는데, 이 쪽은 말그대로 던져버린다. WCW시절 故 마이크 어썸도 어썸 밤이라는 이름으로 썼었다.[* [[wiki:"어썸 콩"이 --형씨--사람]]의 어썸 밤이랑 이름만 똑같지 완전히 다른 기술이다. 사실 마이크 어썸은 사용하는 파워밤 계열 기술을 다 어썸 밤이라고 이름붙여서... 그냥 어썸 밤이라고 하면 애매하다.]
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/FuurtP3IU6I?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/FuurtP3IU6I?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+이 기술이 보더 토스. 피폭자가 휙휙 날아다닌다.
+
+http://pds18.egloos.com/pmf/201008/30/47/b0098447_4c7b241d1aa01.gif
+던지는 타이밍을 실패하면 그대로 땅에 박아버린다. 위력은 더 크지만 낙법이 거의 불가능하기때문에 타점이 제멋대로라 위험한 기술이다. [레슬링 특집 WM7]에서도 길이 노홍철 상대로 사용하려다 너무 위험한 기술이라 실패했다.

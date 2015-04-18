@@ -1,0 +1,672 @@
+||||||||<tablewidth=100%> '''[wiki:"Sabin Sound Star"] 관련 정보''' ||
+|| '''[[wiki:"Sabin Sound Star/Extra Quest" EXTRA QUEST 목록]]''' || [[wiki:"Sabin Sound Star/퀘스트 목록" 퀘스트 목록으로 돌아가기]] ||
+[[목차]]
+== 소개 ==
+빠른 색인을 위해서 난이도 {{{#green Easy}}}, {{{#orange  Normal}}}, {{{#red Hard}}}를 각각 '''{{{#green EZ}}}''', '''{{{#orange  NM}}}''', '''{{{#red HD}}}'''로 변경하여 표기하며, 퀘스트 전용 패턴은 {{{#hotpink Special}}}의 약자인 '''{{{#hotpink SP}}}'''로 표기하도록 한다.
+
+{{{#!HTML
+<embed src="//www.youtube.com/v/PZtAo7tsMoE?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+세이빈 사운드 스타의 Normal Quest 개수는 총 35개이며, Extra Quest도 마찬가지로 35개이다. 총 70개의 퀘스트.
+=== 1번 ~ 10번 ===
+ * 1 - NEW START
+{{{#!HTML
+<embed src="//www.youtube.com/v/awF439tBsHY?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Sunshine]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[주문을 외워봐]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[없잖아]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Sensation of Stage]]||<:>{{{#green EZ}}}||
+
+소모 포인트 : 300
+특수 조건 : X
+달성 목표 : 클리어
+
+||||<#BDBDBD><:>클리어 보상||
+||<#FFB2F5><:>포인트||<:>150||
+
+ * 2 - Erratic Rhythm
+{{{#!HTML
+<embed src="//www.youtube.com/v/peuNiT4eYx0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Please Please Me]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Luv Message]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[하나뿐인 당신에게]]||<:>{{{#green EZ}}}||
+||<#ED0000><:>Professional||<:>[[Cosmos]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 300
+특수 조건: X
+달성 목표: 15만점 이상으로 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[BLEED]]||<:>{{{#red HD}}}||
+
+ * 3 - Warming-Up
+{{{#!HTML
+<embed src="//www.youtube.com/v/wPgz8KEoeiw?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Uranus]]||<:>{{{#green EZ}}}||
+||<#00B700><:>Percussion||<:>[[Sunshine]]||<:>{{{#green EZ}}}||
+||<#00B700><:>Percussion||<:>[[주문을 외워봐]]||<:>{{{#green EZ}}}||
+||<#ED0000><:>Professional||<:>[[Drive To You]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 400
+특수 조건: X
+달성 목표﻿: 300 Combo 이상
+
+||||<#BDBDBD><:>클리어 보상||
+||<#FFB2F5><:>포인트||<:>150||
+
+ * 4 - PRETENSE
+{{{#!HTML
+<embed src="//www.youtube.com/v/5JoIg00-4Dw?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Return to Universe]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[BLEED]]||<:>{{{#green EZ}}}||
+||<:><#00B700><:>Percussion||<:>[[Uranus]]||<:>{{{#green EZ}}}||
+||<#ED0000><:>Professional||<:>[[Sensation of Stage]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 300
+특수 조건: X
+달성 목표: FAIL 100개 이하 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[Doll's Garden]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#00B700><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+
+ * 5 - ROMANTIC DRAMA
+{{{#!HTML
+<embed src="//www.youtube.com/v/w7a89SA1gwY?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Romance for Moon]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Dreamy Days]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[주문을 외워봐]]||<:>{{{#orange  NM}}}||
+||<#368AFF><:>Arcade||<:>[[Luv Message]]||<:>{{{#orange  NM}}}||
+
+소모 포인트: 300
+특수 조건: X
+달성 목표: 22만2222점 이상으로 클리어
+
+||||<#BDBDBD><:>클리어 보상||
+||<#FFBB00><:>옵션||<:>'''SUPER RANDOM 사용 가능'''||
+
+ * 6 - The Stage
+{{{#!HTML
+<embed src="//www.youtube.com/v/vjzeP4o_Czk?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[없잖아]]||<:>{{{#orange  NM}}}||
+||<#368AFF><:>Arcade||<:>[[Please Please Me]]||<:>{{{#orange  NM}}}||
+||<#368AFF><:>Arcade||<:>[[Underflow]]||<:>{{{#green EZ}}}||
+||<#00B700><:>Percussion||<:>[[Skyward]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 300
+특수 조건: ﻿'''Random''' (3S의 여러 옵션들 중에서 하나가 랜덤하게 적용된다.)
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Underflow]]||<:>{{{#red HD}}}||
+
+ * 7 - Two-HANDS
+{{{#!HTML
+<embed src="//www.youtube.com/v/GAcmW_exKmM?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Sunshine]]||<:>{{{#orange  NM}}}||
+||<#ED0000><:>Professional||<:>[[Doll's Garden]]||<:>{{{#green EZ}}}||
+||<#ED0000><:>Professional||<:>[[하나뿐인 당신에게]]||<:>{{{#green EZ}}}||
+||<#ED0000><:>Professional||<:>[[Underflow]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 300
+특수 조건: X
+달성 목표: 클리어﻿
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[BLEED]]||<:>{{{#red HD}}}||
+
+ * 8 - New Concept
+{{{#!HTML
+<embed src="//www.youtube.com/v/HgoxuVGKZv4?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#00B700><:>Percussion||<:>[[Luv Message]]||<:>{{{#green EZ}}}||
+||<#00B700><:>Percussion||<:>[[Cosmos]]||<:>{{{#green EZ}}}||
+||<#00B700><:>Percussion||<:>[[없잖아]]||<:>{{{#green EZ}}}||
+||<#00B700><:>Percussion||<:>[[BLEED]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 300
+특수 조건: X
+달성 목표: ﻿GOOD 80개 이하
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[LOKI]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#00B700><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+
+ * 9 - The World Sounds
+{{{#!HTML
+<embed src="//www.youtube.com/v/COiZFOa_mu4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Sensation of Stage]]||<:>{{{#orange  NM}}}||
+||<#00B700><:>Percussion||<:>[[하나뿐인 당신에게]]||<:>{{{#orange  NM}}}||
+||<#ED0000><:>Professional||<:>[[Uranus]]||<:>{{{#orange  NM}}}||
+||<#368AFF><:>Arcade||<:>[[MxMxMstar]]||<:>{{{#orange  NM}}}||
+
+소모 포인트: 300
+특수 조건: X
+달성 목표: 500 Combo 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[MxMxMstar]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange  NM}}} {{{#red }}}||
+||<#00B700><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange  NM}}} {{{#red }}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange  NM}}} {{{#red }}}||
+
+ * 10 - Multi Player
+{{{#!HTML
+<embed src="//www.youtube.com/v/6RGQ8DBEDpQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Brilliant Stars]]||<:>{{{#green EZ}}}||
+||<#ED0000><:>Professional||<:>[[Return to Universe]]||<:>{{{#green EZ}}}||
+||<#00B700><:>Percussion||<:>[[Good Speed]]||<:>{{{#green EZ}}}||
+||<#368AFF><:>Arcade||<:>[[Dreamy Days]]||<:>{{{#orange  NM}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: 클리어﻿
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Dreamy Days]]||<:>{{{#red HD}}}||
+
+=== 11번 ~ 20번 ===
+ * 11 - Stimulant
+{{{#!HTML
+<embed src="//www.youtube.com/v/tFdphwIjJec?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Uranus]]||<:>{{{#orange  NM}}}||
+||<#368AFF><:>Arcade||<:>[[Espresso]]||<:>{{{#orange  NM}}}||
+||<#ED0000><:>Professional||<:>[[Skyward]]||<:>{{{#orange  NM}}}||
+||<#00B700><:>Percussion||<:>[[BLEED]]||<:>{{{#orange  NM}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: FAIL 50개 이하 
+﻿
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Skyward]]||<:>{{{#red HD}}}||
+
+ * 12 - Zero Special
+{{{#!HTML
+<embed src="//www.youtube.com/v/L2xyMyt-l60?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Drive To You]]||<:>{{{#orange NM}}}||
+||<#00B700><:>Percussion||<:>[[Espresso]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Good Speed]]||<:>{{{#orange NM}}}||
+||<#00B700><:>Percussion||<:>[[Cosmos]]||<:>{{{#orange NM}}}||
+
+소모 포인트: 500
+특수 조건: '''SPEED 1.0x 고정''' (배속이 1배속으로 고정되며 변경이 불가능하다.)
+달성 목표: 클리어
+﻿
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Good Speed]]||<:>{{{#red HD}}}||
+
+ * 13 - Keep The Faith
+{{{#!HTML
+<embed src="//www.youtube.com/v/feT3X915gac?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Drive To You]]||<:>{{{#orange NM}}}||
+||<#ED0000><:>Professional||<:>[[Sensation of Stage]]||<:>{{{#orange NM}}}||
+||<#ED0000><:>Professional||<:>[[BLEED]]||<:>{{{#orange NM}}}||
+||<#ED0000><:>Professional||<:>[[Brilliant Stars]]||<:>{{{#orange NM}}}||
+
+소모 포인트: 500
+특수 조건: '''Colorize'''
+달성 목표: 300 Combo 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Sensation of Stage]]||<:>{{{#red HD}}}||
+
+ * 14 - Variable Speed
+{{{#!HTML
+<embed src="//www.youtube.com/v/87kxJS_DRWo?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Sunshine]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Please Please Me]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Happiness]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Thrust Out]]||<:>{{{#green EZ}}}||
+
+소모 포인트: 500
+특수 조건: K Mirror﻿ (버튼끼리만 Mirror 옵션이 걸린다.)
+달성 목표: 50만점 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Thrust Out]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||<:>[[Thrust Out]]||<:>{{{#red HD}}}||
+
+ * 15 - Feel The Breeze
+{{{#!HTML
+<embed src="//www.youtube.com/v/KgKP6OJXTc8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Sunshine]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Uranus]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[Skyward]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Luv Message]]||<:>{{{#red HD}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: ﻿KOOL 1500개 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Sensation of Stage]]||<:>{{{#red HD}}}||
+
+ * 16 - have no choice ~I'm afraid we have no choice...~
+{{{#!HTML
+<embed src="//www.youtube.com/v/qhvo0-bt9G8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Latino]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Vintage Summer]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[Brilliant Stars]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Romance for Moon]]||<:>{{{#orange NM}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: 500 Combo 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Vintage Summer]]||<:>{{{#red HD}}}||
+
+ * 17번 - Trance Wave
+{{{#!HTML
+<embed src="//www.youtube.com/v/qiuOaclljEQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Irregular Liner]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[Tempus Praeterita]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[Return to Universe]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[Uranus]]||<:>{{{#red HD}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: 점수 40만 이상﻿
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[Tempus Praeterita]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+
+ * 18 - Deviate
+{{{#!HTML
+<embed src="//www.youtube.com/v/QbFgrGYpyE0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Skyward]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[하나뿐인 당신에게]]||<:>{{{#orange NM}}}||
+||<#ED0000><:>Professional||<:>[[Luv Message]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Thrust Out]]||<:>{{{#orange NM}}}||
+
+소모 포인트: 500
+특수 조건: X
+달성 목표: FAIL 100개 이하
+
+||||<#BDBDBD><:>클리어 보상||
+||<#FFBB00><:>옵션||<:>'''PANIC RANDOM''', '''HYPER RANDOM''' '''사용 가능'''||
+
+ * 19번 - Dead End
+{{{#!HTML
+<embed src="http://www.youtube.com/v/WMfuTuclw7E?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Irregular Liner]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Brilliant Stars]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[BLEED]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Romance for Moon]]||<:>{{{#red HD}}}||
+
+소모 포인트: 700
+특수 조건: '''Deadly'''[* Miss나 Fail등으로 소모된 게이지가 다시 회복되지 않게되는 옵션으로, 3S의 휴식없이 진행되는 퀘스트의 특성상, 다시 게이지가 회복되지 않는다.](후에 이 Deadly는 '''Extra Quest 30번'''에서 더욱 강화된다.)
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Brilliant Stars]], [[Romance for Moon]]||<:>{{{#red HD}}}||
+
+ * 20 - RYUminus
+{{{#!HTML
+<embed src="//www.youtube.com/v/rvbwnAyNW3U?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Thrust Out]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Cosmos]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[Latino]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Return to Universe]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[Eraser Rain for GAIA]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+
+=== 21번 ~ 30번 ===
+ * 21 - The Innocent Knows The Truth
+{{{#!HTML
+<embed src="http://www.youtube.com/v/iST43zH9oig?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[주문을 외워봐]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Sensation of Stage]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Skyward]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Dreamy Days]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: '''Score ???점 이상으로 클리어''' (111만1111점이다.)
+
+||||<#BDBDBD><:>클리어 보상||
+||<#FFB2F5><:>포인트||<:>'''-2000''', 0, +1000 중 랜덤으로 적용||
+||<#000000><:>{{{#White QUEST 오픈}}}||<:>{{{#red'''EXTRA QUEST 등장'''}}}||
+
+ * 22 - memme
+{{{#!HTML
+<embed src="//www.youtube.com/v/xAgYyGINMK4?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[하나뿐인 당신에게]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Return to Universe]]||<:>{{{#orange NM}}}||
+||<#2FED28><:>Percussion||<:>[[Doll's Garden]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Uranus]]||<:>{{{#red HD}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: Score 800000점 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Return to Universe]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||<:>[[Uranus]]||<:>{{{#red HD}}}||
+
+ * 23 - KIEN
+{{{#!HTML
+<embed src="//www.youtube.com/v/ok2KfJryFY0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Irregular Liner]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Tempus Praeterita]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Eraser Rain for GAIA]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[La Grand Bleu]]||<:>{{{#red HD}}}||
+
+소모 포인트: 700
+특수 조건: X
+달성 목표: '''1000 Combo''' 이상
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[La Grand Bleu]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#royalblue EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#royalblue EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#royalblue EZ}}} {{{#orange NM}}} {{{#red }}}||
+
+ * 24 - Lotze
+{{{#!HTML
+<embed src="//www.youtube.com/v/hHOzzpgr1RQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Please Please Me]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Vintage Summer]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[LOKI]]||<:>{{{#orange NM}}}||
+||<#368AFF><:>Arcade||<:>[[赤月愛]]||<:>{{{#red HD}}}||
+
+소모 포인트: 700
+특수 조건: '''Hard Gauge'''
+달성 목표: 곡당 20 FAIL 이하 (하드게이지 때문에 달성할 필요가 없는 목표이다.)
+
+||<#BDBDBD><:>클리어 보상||||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||||<:>'''[[赤月愛]]'''||
+||||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#royalblue EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#royalblue EZ}}} {{{#orange NM}}} {{{#red }}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#royalblue EZ}}} {{{#orange NM}}} {{{#red }}}||
+||<#CFCFCF><:>추가 패턴||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[LOKI]]||<:>{{{#red HD}}}||
+
+ * 25 - Arcade Random
+{{{#!HTML
+<embed src="//www.youtube.com/v/bXuJIJ2OWvk?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+||<#368AFF><:>Arcade||<:>Random||<:>{{{#gray ??}}}||
+
+포인트: 1000
+특수 조건: X
+달성 목표: '''곡당 FAIL 25개''' 이하
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Happiness]]||<:>{{{#red HD}}}||
+
+ * 26 - Professional Random
+{{{#!HTML
+<embed src="//www.youtube.com/v/TWH8WIv7gyU?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+||<#ED0000><:>Professional||<:>Random||<:>{{{#gray ??}}}||
+
+소모 포인트: 1000
+특수 조건: X
+달성 목표: '''곡당 FAIL 25개''' 이하
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Underflow]], [[Tempus Praeterita]]||<:>{{{#red HD}}}||
+
+ * 27 - Percussion Random
+{{{#!HTML
+<embed src="//www.youtube.com/v/ol6wx4KBtx4?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="600" height="337" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+||<#2FED28><:>Percussion||<:>Random||<:>{{{#gray ??}}}||
+
+소모 포인트: 1000
+특수 조건: X
+달성 목표: '''곡당 FAIL 25개''' 이하
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Underflow]], [[LOKI]]||<:>{{{#red HD}}}||
+
+ * 28 - All Random
+{{{#!HTML
+<embed src="http://www.youtube.com/v/HR6845YxkQQ?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+||<#778899><:>Random||<:>Random||<:>{{{#gray ??}}}||
+
+소모 포인트: 1000
+특수 조건 : '''All Mode Random''', '''Effect Random'''(말 그대로 모드도 랜덤, 적용되는 이펙터들도 랜덤이다.) 
+달성 목표 : '''2곡 이상 All Combo'''
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[Rosen Vampir]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+
+ * 29 - Cherry Blossom
+{{{#!HTML
+<embed src="http://www.youtube.com/v/Ee77wc2pogo?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>[[MxMxMstar]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Apollon]]||<:>{{{#hotpink SP}}}||
+||<#ED0000><:>Professional||<:>[[LOKI]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Underflow]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 1000
+특수 조건: X
+달성 목표: '''Score 1200000점 이상'''
+
+||<#BDBDBD><:>클리어 보상||||<:>첫 번째 곡||두 번째 곡||
+||<#000000><:>{{{#White 출현 곡}}}||||<:>'''[[Apollon]]'''||<:>'''[[Finite]]'''||
+||||||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#CFCFCF><:>추가 패턴||||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||||<:>[[MxMxMstar]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>[[MxMxMstar]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||||<:>[[MxMxMstar]]||<:>{{{#red HD}}}||
+
+ * 30 - ohcodus ~alway dreams next~
+{{{#!HTML
+<embed height="375" type="application/x-shockwave-flash" width="500" src="http://www.youtube.com/v/fGMtTv_hOBk?version=3&amp;hl=ko_KR" invokeurls="false" allowscriptaccess="always" allownetworking="all" enablehtmlaccess="true" allowhtmlpopupwindow="true" allowfullscreen="true"> 
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Thrust Out]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Blood Castle]] ~Remix~||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Rosen Vampir]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Apollon]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 1000
+특수 조건: X
+달성 목표: '''Score 1500000 이상'''
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[Blood Castle]] ~Remix~'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+
+=== 31번 ~ 35번 ===
+ * 31번 Rondo of Death
+{{{#!HTML
+<embed src="http://www.youtube.com/v/ftBdD2mi-As?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[Finite]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Return to Universe]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[La Grand Bleu]]||<:>{{{#hotpink SP}}}||
+||<#368AFF><:>Arcade||<:>[[Rosen Vampir]]||<:>{{{#hotpink SP}}}||
+
+소모 포인트: 1500
+특수 조건 : X
+달성 목표 : '''Score 1700000점 이상'''
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade 패턴||<:>[[Rosen Vampir]]||<:>{{{#red HD}}}||
+
+ * 32 - A Panic Attack
+{{{#!HTML
+<embed height="375" type="application/x-shockwave-flash" width="500" src="http://www.youtube.com/v/ILnF3H_Nk6M?version=3&amp;hl=ko_KR" invokeurls="false" allowscriptaccess="always" allownetworking="all" enablehtmlaccess="true" allowhtmlpopupwindow="true" allowfullscreen="true"> 
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>[[Thrust Out]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Eraser Rain for GAIA]]||<:>{{{#hotpink SP}}}||
+||<#2FED28><:>Percussion||<:>[[Return to Universe]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[神威]]||<:>{{{#red HD}}}||
+
+소모 포인트: 1500
+특수 조건: X
+달성 목표: '''곡당 FAIL 50개''' 이하
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion 패턴||<:>[[Return to Universe]], [[Thrust Out]]||<:>{{{#red HD}}}||
+
+ * 33 - Final Gateway
+{{{#!HTML
+<embed src="http://www.youtube.com/v/MY4IjgsTk-A?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional||<:>[[Tempus Praeterita]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Finite]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[Return to Universe]]||<:>{{{#red HD}}}||
+||<#ED0000><:>Professional||<:>[[La Grand Bleu]]||<:>{{{#red HD}}}||
+
+소모 포인트: 1500
+특수 조건 : '''3 Stage까지 Zombie''' ('''Zombie'''옵션은 체력이 아예 닳지 않는 옵션이다.)
+달성 목표 : 클리어
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||<:>난이도||
+||<#ED0000><:>Professional 패턴||<:>[[Finite]], [[La Grand Bleu]]||<:>{{{#red HD}}}||
+
+ * {{{#red '''34''' - '''The Fourth Dimension'''}}}
+{{{#!HTML
+<embed src="http://www.youtube.com/v/5aLO0sj8LZ4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+
+{{{#!HTML
+<embed src="http://www.youtube.com/v/lkr0dCU7c-8?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="500" height="375" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#2FED28><:>Percussion||<:>[[Finite]]||<:>'''{{{#hotpink SP}}}'''||
+||<#2FED28><:>Percussion||<:>[[Return to Universe]]||<:>'''{{{#hotpink SP}}}'''||
+||<#ED0000><:>Professional||<:>[[Rosen Vampir]]||<:>'''{{{#hotpink SP}}}'''||
+||<#2FED28><:>Percussion||<:>[[神威]]||<:>'''{{{#hotpink SP}}}'''||
+
+{{{#red '''3S의 NORMAL QUEST 중에서 가장 어렵다.'''}}}
+
+소모 포인트: 2000
+특수 조건 : '''Zombie'''
+달성 목표 : '''Score 1500000 이상'''
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[神威]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+
+
+ * 35 - The 3S ~Shim's Special Edition~
+{{{#!HTML
+<embed height="375" type="application/x-shockwave-flash" width="500" src="http://www.youtube.com/v/NthpGqLwd8w?version=3&amp;hl=ko_KR" invokeurls="false" allowscriptaccess="always" allownetworking="all" enablehtmlaccess="true" allowhtmlpopupwindow="true" allowfullscreen="true"> 
+}}}
+||<#E1E1E1><:>모드||<:>곡명||<:>난이도||
+||<#368AFF><:>Arcade||<:>[[하나뿐인 당신에게]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[MxMxMstar]]||<:>{{{#red HD}}}||
+||<#2FED28><:>Percussion||<:>[[Underflow]]||<:>{{{#red HD}}}||
+||<#368AFF><:>Arcade||<:>[[Pair Creation]]||<:>{{{#red HD}}}||
+
+소모 포인트: 3000
+특수 조건 : X
+달성 목표 : ??? (확인된 조건은 '''전곡 All Combo''')
+
+||<#BDBDBD><:>클리어 보상||<:>곡명||
+||<#000000><:>{{{#White 출현 곡}}}||<:>'''[[Pair Creation]]'''||
+||||<#E1E1E1><:>출현 난이도||
+||<#368AFF><:>Arcade 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red HD}}}||
+||<#2FED28><:>Percussion 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||
+||<#ED0000><:>Professional 패턴||||<:>{{{#green EZ}}} {{{#orange NM}}} {{{#red }}}||

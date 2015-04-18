@@ -1,0 +1,20 @@
+[[목차]]
+
+== 개요 ==
+PSP판 팝픈뮤직인 팝픈뮤직 portable2에 나온 신곡 4개 중에 하나이다. 작곡가는 PAXA 명의를 쓴 [[TOMOSUKE]]
+
+== [[팝픈뮤직]] ==
+||||<#aaaaaa> 출전 ||||||<#aaaaaa> 장르명 ||||||||||<#aaaaaa> 곡명 ||
+|||| pop'n music [[BR]]portable 2 |||||| SPACE POP |||||||||| μ9 ||
+||||||||||||<#aaaaaa> 작곡가 명의 ||||||||<#aaaaaa> 담당 캐릭터 ||
+|||||||||||| [[TOMOSUKE|PAXA]] |||||||| PARABO ||
+||<#aaaaaa> 배너 |||||||||||| https://remywiki.com/images/2/2b/CSp2_SPACE_POP.png  ||<#aaaaaa> [[BPM]] |||| 180 ||
+||||||||||||||||||||<#ffff00> [[팝픈뮤직]] 난이도 체계 ||
+|||| |||| {{{#blue 5버튼 / EASY (버튼수)}}} |||| {{{#green NORMAL}}} |||| {{{#orange HYPER}}} |||| {{{#red EX}}} ||
+||<|2> 노멀모드 || 43단계 || {{{#blue 25}}} || {{{#blue 543}}} || {{{#green 23}}} || {{{#green 400}}} || {{{#orange 33}}} || {{{#orange 849}}} || {{{#red 41}}} || {{{#red 1287}}} ||
+|| 50단계 || {{{#blue -)}}} || {{{#blue -}}} || {{{#green 29}}} || {{{#green 400}}} || {{{#orange 38}}} || {{{#orange 849}}} || {{{#red 46}}} || {{{#red 1287}}} ||
+
+[[youtube(HAJsBc99y-U)]]
+EX 패턴 풀콤보 영상
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]

@@ -1,0 +1,67 @@
+|| 장르 |||||||| Acid House ||
+|| 곡명 |||||||| Shot Time ||
+|| 작곡 |||||||| [[wiki:"M2U" Star Light]] ||
+|| 배경 |||||||| S[* I've got this feeling 의 BGA를 유용하였다.] (1.5~) [[br]] [[NOA]] (ON) ||
+|| 타이틀 |||||||| [[Ryunan]] (1.5~2.0) [[br]] CA Studio (3.0~BErA) [[br]] NOA (ON) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.5]] ||
+|| BPM |||||||| 128 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='hzoi1ackEbo$' width='642px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=hzoi1ackEbo$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=hzoi1ackEbo$' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+7 Street HD Mix
+
+{{{#!html
+<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/XHEw2aSp6CY&hl=ko_KR&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/XHEw2aSp6CY&hl=ko_KR&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></embed></object>
+}}}
+
+10 Club NM Mix
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='0-C4wr20WUM$' width='642px' height='390px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=0-C4wr20WUM$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=0-C4wr20WUM$' width='642px' height='390px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+14 Space NM Mix
+
+[[EZ2DJ 7thTRAX Ver 1.5]]에서 추가된 신곡. 장르는 [[White Rose]], [[Give it 2 me]] 와 같은 애시드 하우스로 물 흐르는 듯한 발랄한 재즈음이 돋보이는 M2U의 숨겨진 명곡.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/cwRZ-Q84__0" frameborder="0" allowfullscreen></iframe>
+}}}
+BGA는 [[I've got this feeling]]의 일부 컷에, 새로 제작한 도로 주행 영상을 레이어로 덧붙인 것. 이 도로 주행 레이어는 이 곡에만 쓰였다. 1.5 당시 다른 곡들은 [[범용 BGA]]를 쓰거나 기존 수록곡의 BGA를 그대로 갖다 쓴 것에 비해 이 곡에만 이런 연출을 넣었으니 나름대로 공을 들인 것.
+
+2.0까지는 Ryunan의 아이캐치가 쓰였지만 모종의 이유로 CV에서 잘리고 CA Studio에서 만든 아이캐치로 변경.
+
+EZ2DJ AE에서는 판권 문제로 삭제되었다.
+
+== [[EZ2ON]]에서의 Shot Time ==
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/o_9CD_08d5g?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/o_9CD_08d5g?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+[[EZ2ON]]의 [[BGA]]
+
+[EZ2ON]에서 새로 만든 [BGA]에서는 마술사가 4명 등장하는데 이름까지는 나와있지 않다.. 오히려 Shot 보다는 Show time 의 느낌이랄까 ?
+
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| [[추가바람]] ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) || 2 || 6 || 10 || 13 || - ||
+|| 스트릿(5키) || 6 || 10 || 13 || 14 || - ||
+|| 클럽(6키/8키) || 10 || 13 || 14 || - || 14 ||
+
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/2sV7xPrn1nM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+6키 HDMix 영상.

@@ -1,0 +1,81 @@
+[[목차]]
+
+== [[DJMAX 시리즈]]의 수록곡 ==
+
+|| 최초 수록 버전 || [[DJMAX TECHNIKA TUNE]] ||
+|| 추가 수록 버전 || [[DJMAX RAY]], [[DJMAX TECHNIKA Q]] ||
+|| 장르 || Melodic Trance ||
+|| 작곡 || [[XeoN]] ||
+|| BPM || 144 ||
+|| BGA || Wony, ENTIA J ||
+
+{{{#!HTML
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/FrmEYtzMnzc?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+BGA
+
+{{|항상 작업을 진행하고 나면 아쉬움이 남습니다.
+간단한 악기구성으로 단순하지만 멜로디컬한 음악을 만들어 보고 싶었습니다. 모쪼록 즐겁게 플레이해주시길 바랍니다.
+감사합니다.
+
+-[[XeoN]], [[DJMAX TECHNIKA TUNE]] OST 코멘트|}}
+
+[[DJMAX TECHNIKA TUNE]]의 오리지널 신곡이자 [[XeoN]]의 신곡으로, 6월 26일 테크니카 튠의 오프닝을 비롯한 본격적인 정보 공개로 존재가 확인된 곡. [[Thor]], [[Dream of Winds]], [[Xeus]]에 이은, XeoN의 주력장르(?)라고 볼 수 있는 멜로딕 트랜스 곡이다.
+
+테크니카 시리즈마다 빠지지 않고 한 곡 씩 나오는 XeoN표 트랜스 곡인 만큼, 기본적인 곡의 색깔도 위에 열거한 곡들의 색을 이어가는 곡으로, Thor나 Xeus보다는 Dream of Winds의 후속곡 정도의 느낌의 곡이다. 다만, 곡의 전개 방식은 Thor와 유사하다.
+
+비주얼은 테크니카3에서 [[Bamboo on Bamboo]]의 비주얼을 맡은 바 있는 wony가 참여하였고, 8월 27일 [[루리웹]] 프리뷰를 통해 곡과 BGA가 공개되었다.
+
+여담으로 레벨 97을 달성했을 경우 DJ 아이콘([wiki:"사기 캐릭터"경험치 +50% 보너스])이 해금된다. ~~만렙의 고지가 얼마 남지 않았다! 만렙을 향헤 조금만 더 노력해보자!~~
+
+참고로, 후반부를 들어보면 [[DJMAX Portable 3]]의 [[트레일러 음악]]과 같다. 그래서 그런지 트레일러 음악을 기반으로 손을 봐서 오리지널 곡으로 새롭게 탄생되었다는 설명이 나와있다.[http://web.ruliweb.daum.net/djmaxtt/renovation.htm #]
+
+어째서인지 [[Seeker]]처럼 [[Love is Eternity]] SF Remix의 한 구간(0:55 ~ 1:20)과 이 곡의 초중반부 신스음 구간이 약간 비슷하다. 그래도 음 배치 자체가 아예 똑같진 않으니 표절이라고 보기는 조금 애매하다.
+=== DJMAX TECHNIKA TUNE ===
+
+{{{#!HTML
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/TCUYyYR_oqo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+EX 패턴
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 4 || ||
+||<#0000FF> {{{#white POP}}} || 6 || ||
+||<#FF0000> CLUB || 8 || [[Sound Lab Set]] 셀렉곡 ||
+||<#B400FF> {{{#white EXTRA}}} || ? || [[Dark Abyss Set]] 상위보스곡 ||
+
+XeoN표 멜로딕 트랜스 곡들이 공통적으로 매우 고난이도의 곡들이었던 만큼, TECHNIKA TUNE에서 [[진 최종 보스]]곡 자리를 차지하고 있다. ~~[wiki:"Xeus"얘]가 쉬워서 [[페이크 최종 보스]]라 불리는 덕~~
+
+레노베이션EX 패턴은 테크니카 튠 내 최악의 패턴인데 난이도는 Xeus MX<Light House, Feel Ma Beat, Signalize Ex<<<<<<<넘사벽<<<<<<<Renovation Ex이다. ~~하지만 뭉개기가 등장한다면 어떨까?~~
+
+=== [[DJMAX RAY]] ===
+
+|||||||||| [DJMAX RAY]의 DJMAX CLASSIC 8 팩 수록곡 ||
+|| [[Dear my Lady]] || [[Airwave]] || [[BEE-U-TIFUL]] || [[Thor]] || '''Renovation''' ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 2 || ||
+||<#0000FF> {{{#white HD}}} || 5 || ||
+||<#FF0000> MX || 9 || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/uAVMB3Xmt_M" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX RAY]]의 DJMAX CLASSIC 8팩의 해금곡으로 등장하였다. 테크니카 튠 신곡중에서 가장 처음으로 수록된 것이다.~~벌써 클래식 취급~~
+
+=== DJMAX TECHNIKA Q ===
+
+|||||||||| [DJMAX TECHNIKA Q]의  Q 뮤직팩6  수록곡 ||
+|| [[My Heart, My Soul]] || [[Now a New Day]] || [[Leave me alone]] || '''Renovation''' ||
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|| 패턴 || 난이도 (2라인/3라인)|| 비고 ||
+||<#FFFF00> ORIGINAL || 4 / 5 ||
+||<#0000FF> {{{#white PREMIUM}}} || 6 / 7 ||
+||<#FF0000> SIGNATURE || '''9''' / '''10''' ||
+
+다른 10레벨보다 상대적으로 쉬운편이다.~~10레벨 클리어미션하려고 이곡을 구입한 유저들도 있다.~~ ~~하지만 처음부터[D2]를 구입한다면 어떨까?
+

@@ -1,0 +1,41 @@
+{{{+1 Ligne 7 du tramway d'Île-de-France / Île-de-France tramway Line 7}}}
+ * [[철도 관련 정보]]
+||<-5><table align=center><#ffffff> [wiki:"파리 트램" <span style="font-weight:bold;color:0000f9">파리 트램 운행 노선</span>] ||
+||<#dcdcdc> [[wiki:"파리 트램 1호선" 1호선]] ||<#dcdcdc> [[wiki:"파리 트램 2호선" 2호선]] ||<#dcdcdc> [[wiki:"파리 트램 3a선" 3a선]] ||<#dcdcdc> [[wiki:"파리 트램 3b선" 3b선]] ||<#dcdcdc> [[wiki:"파리 트램 4호선" 4호선]] ||
+||<#dcdcdc> [[wiki:"파리 트램 5호선" 5호선]] ||<#dcdcdc> [[wiki:"파리 트램 6호선" 6호선]] ||<#ffffff> '''{{{#b98b59 7호선 }}}''' ||<#dcdcdc> [[wiki:"파리 트램 8호선" 8호선]] ||<#dcdcdc> {{{#dcdcdc }}} ||
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#b98b59 '''파리 트램 7호선'''}}} ||
+||운영기관 ||파리교통공사(RATP)||
+||영업거리 ||11.2km ||
+||궤간 ||1435㎜ ||
+||역수 ||18 ||
+||차량 ||Citadis 302 ||
+||전기 ||직류 1500V ||
+
+[[파리 트램]]의 한 노선으로 파리 트램 7호선은 남북 방향의 노선이다. 북쪽의 빌쥐프 – 루이 아라공 (Villejuif - Louis Aragon) 역으로부터 남쪽의 포르트 드 레손(Porte de l'Essonne)역까지 운행한다. 이 노선은 [파리교통공사](RATP)가 운영한다. 2013년 11월 16일에 개통한 노선이다.
+
+== 노선 ==
+attachment:/tram7.jpg?width=650
+
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 빌쥐프 – 루이 아라공 || Villejuif - Louis Aragon || 3 || {{{#f59eb3 ●}}} [[파리 지하철 7호선]] ||  ||
+|| 라마르틴 || Lamartine || 3 ||  ||  ||
+|| 도멘 셰리우 || Domaine Chérioux || 3 ||  ||  ||
+|| 물랑 베르 || Moulin Vert || 3 ||  || ||
+|| 브르타뉴 || Bretagne || 3 ||  ||  ||
+|| 오귀스트 페레 || Auguste Perret || 3 ||  ||  ||
+|| 포르트 드 티에 || Porte de Thiais || 3 ||  ||  ||
+|| 라 벨르 에핀 || La Belle Épine || 3 ||  ||  ||
+|| 플라스 드 라 로지스티크 || Place de la Logistique || 3 ||  || ||
+|| 포르트 드 렁지스 || Porte de Rungis || 3 ||  ||  ||
+|| 사리넨 || Saarinen || 3 ||  ||  ||
+|| 로베르 슈만 || Robert Schuman || 4 ||  ||  ||
+|| 라 프라테넬 || La Fraternelle || 4 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 헬렌 부쉬 || Hélène Bouche || 4 ||  ||  ||
+|| 카롤린 에글 || Caroline Aigle || 4 ||  ||  ||
+|| 쾨르 도를리 || Cœur d'Orly || 4 ||  || ||
+|| 오를리 공항 || Aéroport d'Orly || 4 || {{{#787878 ●}}} [wiki:"Orlyval" 오를리발] ||  ||
+|| 포르트 드 레손 || Porte de l'Essonne || 4 ||  ||  ||
+
+[[각주]]

@@ -1,0 +1,24 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX 온라인]] ||
+|| 장르 || Trance ||
+|| 작사,작곡 || [[SHIKI]] ||
+|| [[BPM]] || 146 ||
+|| 비주얼 || [[KIMYS]], [[NG]] ||
+
+[[DJMAX 시리즈]]의 BMS 라이센스곡.
+[[SEPIA]]로 유명한 SHIKI의 곡(원래 제목은 Angelic Layer)을 라이센스하여 업데이트하였다. [[BGA]]는 KIMYS와 [[ECO]]가 재작업.
+[[BMS]] 시뮬레이터를 통해 SHIKI의 곡을 제법 플레이해본 경험이 있는 사람이라면 뭔가 비슷한 곡을 해봤던 느낌을 받을텐데, 이 곡은 원래 SEPIA 2라는 제목으로 작곡되고 있다가 제목이 바뀌었다고 한다. 중반 이후의 전개가 SEPIA와 흡사한 이유가 이것에 근거.
+
+BMS나 DJMAX판은 2분정도의 짧은 플레이타임을 가지고 있지만 4분이 넘는 원곡이 존재한다.
+
+
+{{{#!html
+<iframe title='[DJMax] Angelic Tears HD' width='600px' height='360px' src='http://videofarm.daum.net/controller/video/viewer/Video.html?vid=vCHb4FnjC40$&play_loc=undefined' frameborder='0' scrolling='no' ></iframe>
+}}}
+5K 하드 패턴
+
+난이도는 10이고, 피아노와 베이스 부분을 위주로 패턴이 짜여져 있으며
+10레벨 치고는 무난한 편.
+
+그런데 BGA에 나오는 캐릭터가 배경하고 안 맞다. 왜 넣었는지 이해불가.

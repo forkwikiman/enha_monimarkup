@@ -1,0 +1,65 @@
+[[목차]]
+
+== [[TCG]] [[매직 더 개더링]]에 나오는 카드. ==
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+||<tablewidth=100%> '''영어판 명칭''' ||'''Hail Storm'''||<width=230px><|5>http://www.cardkingdom.com/media/images/products/standard/121092_1.jpg?width=230||
+|| '''한글판 명칭''' ||'''-'''||
+|| '''마나비용''' || {1}{G}{G} ||
+|| '''유형''' || 순간마법 ||
+||||<height=216px>Hail Storm은 공격중인 생물들에 피해 2점을 입히고 당신과 당신이 조종하는 생물들에 1점의 피해를 입힌다.||
+
+[[Pyroclasm]]의 변형(?) 다만 녹색에서 (비행이 아닌 생물을 타겟으로 한) 매스번이 있으리라는 생각을 사람들이 하지 않기 때문에 허를 찌르긴 좋다. 물론 원래 이런 카드는 녹색의 특성이 아니기 때문에 '공격중인' 생물들 한정으로만 먹히지만.
+
+물론 [[Soltari Priest]]나 [[Paladin en-Vec]]한테도 먹힌다는건 덤. 아. 당연히 [[Mirran Crusader]]한테는 안먹힌다.
+
+
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Alliances || Ice Age || 언커먼 ||
+|| Time Spiral(Timeshifted) || Time Spiral || [[Timeshifted]] ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+||<|2><:>블럭컨스 || Ice Age 블럭 || 사용가능 ||
+|| Time Spiral 블럭 || 사용가능 ||
+|| 모던 |||| 사용가능 ||
+|| 레가시 |||| 사용가능 ||
+|| 빈티지 |||| 사용가능 ||
+
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''배경담''' ||
+|| Alliances || ''"If they can't take the hail, they'd better stay home." —Arna Kennerüd, skycaptain'' ||
+
+== [[동방프로젝트]] 어레인지 곡 ==
+=== 개요 ===
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/8d-QacrFLgE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+작곡은 FELT. 원곡은 동방홍마향 치르노의 테마곡 "말괄량이 연량의 모험". 2013년 5월 26일날 [[하쿠레이 신사 예대제]]에서 배포한 앨범 'Icicle fall'에 수록되었다.
+
+=== [[사운드 볼텍스]] ===
+[[Runway Drive]]에 이은 FELT의 2번째 수록곡 이다.
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://feltmusic.net/FELT010/i/jacket.png?width=150 || http://feltmusic.net/FELT010/i/jacket.png?width=150 || http://feltmusic.net/FELT010/i/jacket.png?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 07}}} || {{{#ff009f 12}}} ||
+|| 체인 수 || {{{#purple 0363}}} || {{{#orange 0710}}} || {{{#ff009f 0832}}} ||
+|| 일러스트 담당 || {{{#purple AO}}} || {{{#orange AO}}} || {{{#ff009f AO}}} ||
+|| 이펙터 || {{{#purple DJ WILDPARTY}}} || {{{#orange DJ WILDPARTY}}} || {{{#ff009f DJ WILDPARTY}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 13(2013.10.4)}}} ||
+|| [[BPM]] |||||| 134 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 01 A코스(2014.11.20 ~ 2014.12.26)
+
+자켓은 'Icicle fall'의 앨범자켓을 사용했다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/BbrTz1mYcm4" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상

@@ -1,0 +1,155 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 2ndTRAX ~It rules once again~]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2DJ 2ndTRAX ~It rules once again~/삭제곡|삭제곡]] || [[EZ2DJ 2ndTRAX ~It rules once again~/라디오채널|라디오채널]] || [[EZ2DJ 2ndTRAX ~It rules once again~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2DJ 2nd/라디오채널]]로도 들어올 수 있다.
+ * 각 채널에 대한 설명은 [[EZ2DJ/라디오채널 일람]]의 하위 문서를 참고.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=d_clearguide&no=369]
+
+[[목차]]
+== 개관 ==
+2nd부터 라디오믹스의 키 수가 5키에서 7키로 바뀌었으며, 스테이지 수는 하나 감소해 4스테이지가 되었다. 채널 선택 화면에서 수록곡 장르와 수록곡 이름, 패턴 정보를 보여주기 시작했고[http://toez2dj.net/zeroboard/zboard.php?id=e_freegallery&no=5374 #], 히든 채널이라는 개념이 처음 등장한 버전이기도 하다. 또한 2nd는 6th 이전의 구버전 중에서는 채널 수가 오픈과 히든을 합쳐 26개에 달하는 최대 분량을 자랑하기도 했다.
+
+2nd의 라디오 믹스에서는 3배속 커맨드가 없었다. 때문에 유저들은 2배속과 4배속 중에 어떤 배속을 할지 상당히 많은 고민을 해야 했다. 보통의 고수 유저들은 밀집도가 높지만 판정이 좀 더 나은 2배속을 택했던 편. 3rd가 되어서야 3배속이 추가되었다.
+또한 2nd부터 도입된 기어 변경 옵션이 라디오에도 도입되었는데, 기어 변경 옵션은 [[EZ2DJ 4th]]에서 잠시 삭제된 뒤, [[EZ2DJ 7th 1.0]]에 가서야 부활하게 된다.
+
+아래 목록의 패턴 종류 표기는 2nd 당시의 것을 따른 것이다. 현행 7K STANDARD의 해당 패턴과 다른 경우가 많다.
+
+== 기본 채널 ==
+||||<tablewidth=600px> '''Cool Korean Pop''' |||| Lv.5 ||
+|| 1 ||[[For 3 Weeks]]|| || 237 ||
+|| 2 ||[[Combination]]|| || 342 ||
+|| 3 ||[[Bob]]|| || 415 ||
+|| 4 ||[[My Honey]]|| || 389 ||
+|||| '''Hip-Hop Connection''' |||| Lv.6 ||
+|| 1 ||[[Funky 5]]|| || 348 ||
+|| 2 ||[[Special K]]|| || 268 ||
+|| 3 ||[[Dirty D]]|| || 319 ||
+|| 4 ||[[Southwest Cadillac]]|| HD || 488 || 
+|||| '''Pop Pie''' |||| Lv.5 ||
+|| 1 ||[[I've Fallen]]|| || 280 ||
+|| 2 ||[[The Boy ~Here comes my baby~|The Boy]]|| || 256 ||
+|| 3 ||[[Back For More]]|| || 418 ||
+|| 4 ||[[Where's My Girl]]|| || 341 ||
+|||| '''R&B Primer''' |||| Lv.5 ||
+|| 1 ||[[I've got this feeling]]|| || 307 ||
+|| 2 ||[[I Do Love You]]|| || 187 ||
+|| 3 ||[[It's My Secret]]|| || 370 ||
+|| 4 ||[[You Are The One For Me]]|| || 405 ||
+|||| '''House Nation''' |||| Lv.6 ||
+|| 1 ||[[Get It Up]]|| || 390 ||
+|| 2 ||[[Stay]]|| || 404 ||
+|| 3 ||[[We Luv Music]]|| || 526 ||
+|| 4 ||[[Departure]]|| || 380 ||
+|||| '''Soft Music Net''' |||| Lv.6 ||
+|| 1 ||[[Sentimental No! No!]]|| || 293 ||
+|| 2 ||[[Confete]]|| || 370 ||
+|| 3 ||[[Appeal]]|| || 452 ||
+|| 4 ||[[R.D.M. ~Rain Drops in My mind~|R.D.M.]]|| || 336 ||
+|||| '''Techno Revolution''' |||| Lv.7 ||
+|| 1 ||[[The Future]]|| || 426 ||
+|| 2 ||[[Hypnotize]]|| || 420 ||
+|| 3 ||[[Minus 1 ~Space Mix~]]|| || 608 ||
+|| 4 ||[[Love & Extasy]]|| || 468 ||
+|||| '''Future Sounds''' |||| Lv.9 ||
+|| 1 ||[[Anytime]]|| || 461 ||
+|| 2 ||[[Quake in Kyoto]]|| || 399 ||
+|| 3 ||[[Back to Bed]]|| || 496 ||
+|| 4 ||[[Ztar warZ]]|| || 422 ||
+|||| '''Rocky Underground''' |||| Lv.8 ||
+|| 1 ||[[Red Hot]]|| || 393 ||
+|| 2 ||[[Envy Mask]]|| || 459 ||
+|| 3 ||[[Red Ocean]]|| || 501 ||
+|| 4 ||[[DIEOXIN]]|| || 489 ||
+|||| '''Ruby Tuesday Collection''' |||| Lv.7 ||
+|| 1 ||[[Seize The Day]]|| || 457 ||
+|| 2 ||[[Look out ~Here comes my love~|Look Out]]|| || 419 ||
+|| 3 ||[[Say That U]]|| || 385 ||
+|| 4 ||[[Damnation]]|| || 553 ||
+|||| '''Mario Bolden''' |||| Lv.8 ||
+|| 1 ||[[Stay]]|| || 404 ||
+|| 2 ||[[Exist]]|| || 555 ||
+|| 3 ||[[It's My Secret]]|| HD || 497 ||
+|| 4 ||[[We Luv Music]]|| HD || 589 ||
+|||| '''Creatune Collection''' |||| Lv.8 ||
+|| 1 ||[[Catch The Flow]]|| || 176 ||
+|| 2 ||[[The Rhythm]]|| || 425 ||
+|| 3 ||[[Minus 1 ~Space Mix~]]|| HD || 668 ||
+|| 4 ||[[Ztar warZ]]|| || 422 ||
+|||| '''Gracoa Collection''' |||| Lv.8 ||
+|| 1 ||[[Theme of EZ2DJ]]|| || 466 ||
+|| 2 ||[[Appeal]]|| HD || 495 ||
+|| 3 ||[[R.D.M. ~Rain Drops in My mind~|R.D.M.]]|| HD || 352 ||
+|| 4 ||[[Showdown]]|| || 553 ||
+
+== 히든 채널 ==
+||||<tablewidth=600px> '''DJ Kentauji''' |||| Lv.9 ||
+|| 1 ||[[Back For More]]|| KEN || 459 ||
+|| 2 ||[[Appeal]]|| KEN || 542 ||
+|| 3 ||[[Stay]]|| KEN || 659 ||
+|| 4 ||[[You Are The One For Me]]|| KEN || 509 ||
+|| ||||||시리즈 초기 작품의 테스터이자 채보 제작자였던 kentauji의 이름을 딴 채널이다. 그의 이름이 들어간 채보는 페달을 많이 밟아야 하는 구성으로 짜여있다. 3rd kentauji 채널은 이름만 kentauji를 빌렸고 실제 보면을 작성한사람은 오민환(MINAN=NANOU4)이었다고 kentauji 본인이 증언한 바 있다.||
+|||| '''DJ Tomato's Groovin Channel''' |||| Lv.8 ||
+|| 1 ||[[Combination]]|| HD || 282 ||
+|| 2 ||[[Get It Up]]|| HD || 395 ||
+|| 3 ||[[Theme of EZ2DJ]]|| HD || 601 ||
+|| 4 ||[[Where's My Girl]]|| HD || 335 ||
+|||| '''DJ Sopepos''' |||| Lv.8 ||
+|| 1 ||[[Seize The Day]]|| || 457 ||
+|| 2 ||[[For 3 Weeks]]|| HD || 399 ||
+|| 3 ||[[Hypnotize]]|| HD || 424 ||
+|| 4 ||[[R.D.M. ~Rain Drops in My mind~|R.D.M.]]|| HD || 352 ||
+|||| '''DJ Lassoft's Underarrest Channel''' |||| Lv.7 ||
+|| 1 ||[[Be My Baby]]|| || 381 ||
+|| 2 ||[[Confete]]|| HD || 293 ||
+|| 3 ||[[Stay]]|| HD || 561 ||
+|| 4 ||[[Baby Dance]]|| || 417 ||
+|||| '''DJ xxdbxx Club the Bondage''' |||| Lv.8 ||
+|| 1 ||[[Red Ocean]]|| HD || 501 ||
+|| 2 ||[[Quake in Kyoto]]|| HD || 461 ||
+|| 3 ||[[Red Hot]]|| HD || 455 ||
+|| 4 ||[[DIEOXIN]]|| HD || 489 ||
+|||| '''never knows best - DJ Ache''' |||| Lv.7 ||
+|| 1 ||[[Bob]]|| HD || 439 ||
+|| 2 ||[[Say That U]]|| HD || 398 ||
+|| 3 ||[[It's My Secret]]|| HD || 497 ||
+|| 4 ||[[JAM(EZ2DJ)|JAM]]|| || 406 ||
+|||| '''EZZ VJ FE's recommended MIX''' |||| Lv.9 ||
+|| 1 ||[[We Luv Music]]|| HD || 589 ||
+|| 2 ||[[Look out ~Here comes my love~|Look Out]]|| HD || 472 ||
+|| 3 ||[[The Rhythm]]|| HD || 602 ||
+|| 4 ||[[Catch The Flow]]|| HD || 437 ||
+|||| '''DJ Kann''' |||| Lv.9 ||
+|| 1 ||[[Dirty D]]|| HD || 338 ||
+|| 2 ||[[The Future]]|| HD || 494 ||
+|| 3 ||[[Love & Extasy]]|| HD || 704 ||
+|| 4 ||[[Departure]]|| HD || 403 ||
+|||| '''DJ Ibarad''' |||| Lv.9 ||
+|| 1 ||[[Funny Funky]]|| || 211 ||
+|| 2 ||[[Let It Go]]|| HD || 451 ||
+|| 3 ||[[Damnation]]|| HD || 563 ||
+|| 4 ||[[Do You Remember]]|| || 558 ||
+|||| '''DJ Sting Whirlpool''' |||| Lv.8 ||
+|| 1 ||[[Special K]]|| || 268 ||
+|| 2 ||[[Moving On]]|| HD || 385 ||
+|| 3 ||[[Envy Mask]]|| HD || 593 ||
+|| 4 ||[[Exist]]|| HD || 568 ||
+|||| '''K&S's -Thick as the Bricks-''' |||| Lv.9 ||
+|| 1 ||[[Southwest Cadillac]]|| HD || 488 ||
+|| 2 ||[[Back to Bed]]|| HD || 598 ||
+|| 3 ||[[Showdown]]|| HD || 643 ||
+|| 4 ||[[Anytime]]|| HD || 450 ||
+|| ||||||2nd 라디오의 보스채널. 표기난이도는 9지만, Show Down과 Anytime 때문에 체감난이도는 이를 훨씬 상회한다.||
+|||| '''DJ Ponglow''' |||| Lv.10 ||
+|| 1 ||[[The Future]]|| HD || 494 ||
+|| 2 ||[[Envy Mask]]|| HD || 593 ||
+|| 3 ||[[Ztar warZ]]|| HD || 648 ||
+|| 4 ||[[Red Ocean]]|| HD || 501 ||
+|| ||||||표기 난이도는 2nd 최강이나, 몇 가지 이유로 K&S 채널에 밀린다. K&S와는 달리, 가장 어려운 패턴인 Ztar warZ는 원래 속도가 빠른 곡이라 2배속으로 해도 무난하게 보이는 곡이다. 또 Ztar warZ HD를 제외한 다른 패턴들은 다른 채널에서도 등장하는 것들이라 여기까지 올라온 유저들에게는 충분히 익숙한 패턴들이며, 따라서 Ztar warZ를 감안하여 2배속으로 해도 적응이 가능하다.||
+|||| '''Airborn''' |||| Lv.9 ||
+|| 1 ||[[I've Fallen]]|| || 280 ||
+|| 2 ||[[Hypnotize]]|| HD || 424 ||
+|| 3 ||[[The Rhythm]]|| HD || 602 ||
+|| 4 ||[[DIEOXIN]]|| HD || 489 ||

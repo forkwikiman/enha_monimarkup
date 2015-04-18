@@ -1,0 +1,17 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>  '''영어판 명칭''' || '''Frogmite''' ||<width=223px><|6>||
+|| '''한글판 명칭''' || '''개구리진드기'''[* [[DotP 2015]] 번역] ||
+|| '''마나비용''' || {4} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 마법물체 생물 — 개구리 ||
+||||<height=160px>Affinity for artifacts (당신이 조종하는 마법물체 1개당 발동비용 1이 줄어든다)
+
+''At first, vedalken observers thought blinkmoths naturally avoided certain places. Then they realized those places were frogmite feeding grounds.''||
+|| '''공격력/방어력''' || 2/2 ||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Mirrodin || 커먼 ||
+|||| Modern Masters || 커먼 ||
+|||| Duel Decks: Elspeth Vs. Tezzeret || 커먼 ||
+
+어피니티 덱의 중요한 축을 이루는 카드. [[아티팩트 랜드]]라든가, [[Ornithopter]]같은 0~1발비 마법물체들을 초반에 꺼내다 보면 이게 첫 턴에도 나오고, 못해도 두번째 턴에는 등장해서 상대를 압박시킬 수 있다. 계속 달리다가 막히면 [[Arcbound Ravager]]로 씹어먹고 [[Disciple of the Vault]]로 상대 생명점을 줄인다던가... 하는게 어피니티의 일반적인 패턴. [[Myr Enforcer]]로 가는 중간단계이기도 하다.

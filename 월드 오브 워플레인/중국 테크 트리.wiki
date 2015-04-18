@@ -1,0 +1,69 @@
+[[include(틀:월드 오브 워플레인)]]
+
+[[목차]]
+
+== 개요 ==
+1.1 기준으로 Hawk III 가 추가된 시점부터 정규등록은 되었지만 현재로써는 어떤 정규트리가 없는 국가이며 과거 월오탱의 중국트리가 그랬듯이 조금씩 추가될 전망이다. 예상대로라면 각국에서 가져온 기체들로 트리가 도배될 심산이며 아직 정확한 국가적 특성은 알 수 없다. 다만 100 옥탄 가솔린이나 추축국이 쓰는장비를 사용하는 것으로 볼때 잡종 기체가 주류를 이루다가 끝내는 소련트리처럼 나갈 공산이크다. 데이터에는 없지만 중국제 모스키토나 토마호크II가 존재하며 잘하면 이들도 언젠가는 풀릴것이다. 1.5패치로 3,4티어 프리미엄 기체가 등장하였다.
+
+== 프리미엄 기체 ==
+=== Curtiss Hawk III - 2티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/hawk-3.png|| 커티스 BF2C-1의 수출용 버전. 총 137대의 항공기가 중국, 아르헨티나, 터키, 태국 공군용으로 제작되었다. 중국의 면허생산형이다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Wright R-1820-F53 || 770 마력 || 540 kg || 공랭식 || 4 티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 7.62mm M1919 2정 (S) || 31 || 540 || 7.62 || 850 || 24 || 1티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30  ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||<#00BFFF> 요구 경험치 ||<#00BFFF> 가격 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 || 0 || 0 ||
+|| 100파운드 폭탄 2개 || 1,800 || 70 || 45 || 2티어 || 최종 || 220 || 125 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Hawk III || 95 || 1,370 || 4티어 || 최종 ||
+
+정식서비스 이후 새해이벤트로 지급된 이벤트 기체이다.
+
+=== Breda Ba.27 Metallico - 3티어 ===
+||<tablewidth=100%> attachment:Ba27.jpg || 이탈리아 공군의 고속 단엽기 계획으로 개발되었으며 중국에서 사용했다. ||
+가격 : 775 골드
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| AR Mercurius || 540 마력 || 385 kg || 공랭식 || 3 티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 12.7mm Breda SAFATS 2정 (S) || 66 || 540 || 12.7 || 850 || 44 || 3티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Ba.27 Matellico || 100 || 1,376 || 3티어 || 최종 ||
+
+1.5패치로 정규트리에 등록되었으며 이탈리아 기체라는 것 외엔 알려진 게 없다.
+
+=== Nakajima Ki-43-Ic - 4티어 ===
+||<tablewidth=100%> attachment:ki43ic.jpg || 중국 공산당군이 국민당과 태평양전쟁에서 패전한 일본으로부터 노획하였고 국공내전에서 사용되었다. ||
+가격 : 1.100 골드
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Ha-25 || 980 마력 || 590 kg || 공랭식 || 4티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 12.7mm Ho-103(s) 2정 (S) || 62 || 600 || 12.7 || 780 || 44 || 4티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Ki-43-I || 130 || 1,412 || 4티어 || 최종 ||
+
+역시 위와 마찬가지로 1.5패치로 같이 출시되었다.
+
+제로센과 더불어 일본의 안습전설을 알린 육공기. Ki-27이후 플라잉타이거즈에게도 털린 그 기체다.
+
+=== Curtiss Tomahawk IIb - 5티어 ===
+
+현재 알려진 정보는 그다지 없다.
+
+=== De Haviland 98 Mosquito FB 26 - 6티어 ===
+
+마찬가지로 정보없음. 2014년 11월 중순에 서비스 개시 1주년 기념 이벤트로 기프트샵에 풀렸다.
+--3티어 Ba-27은 덤--
+
+
+=== North American P-51K Mustang - 7티어 ===
+
+역시 정보가없는 기체이나 연말 크리스마스 기념 이벤트를 통해 2015년 1월 11일까지 기프트샵에 풀린다.

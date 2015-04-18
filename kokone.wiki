@@ -1,0 +1,42 @@
+||<bgcolor=#E9ECEF>이 항목은 [[코코네]]로 검색해도 들어올 수 있습니다.||
+
+[[include(틀:VOCALOID)]]
+attachment:kokone_box.jpg?width=200
+
+[[목차]]
+
+== 개요 ==
+kokone(心響, 코코네)는 [[인터넷(기업)|인터넷]] 사가 개발한 [[VOCALOID|VOCALOID3]] 음원이자 캐릭터다. 일러스트레이터는 앗키진(あっきー人). 성우는 밝혀지지 않았다. [[2014년]] [[2월 14일]]에 발매되었다.
+
+== 인터넷의 소개 ==
+|| * 권장 음역: D2 ~ D5
+ * 권장 템포: 60 ~ 175 BPM
+
+마음을 울리는 목소리의 정통 여성 보컬리스트.
+당사의 VOCALOID 라이브러리 중 가장 넓은 음역을 가지고 있습니다.
+kokone는 저음에서부터 고음까지 폭 넓은 범위를 부를 수 있는 라이브러리입니다.
+장르에 얽매이지 않고 솔직하고 확고한 저음과 요염하고 투명감 있는 믹스 보이스, [[팔세토]](Falsetto)에 가까운 고음역의 음색을 사용하여 마음을 울리는 표현력으로 노래합니다.||
+
+== 상세 ==
+원래 인터넷 사가 [[GUMI]]에게 따로 [[가성]](假聲) 음원을 주려고 했지만 만드는 데 차질이 많이 생겨 아예 따로 [[진성]](眞聲)과 [[가성]](假聲) 모두 쓸 수 있는 VOCALOID를 만들게 되었다고 한다. 그리고 그 VOCALOID가 바로 kokone인 것.
+
+
+== 데모 곡 ==
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/atXnW1qBuN4?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/atXnW1qBuN4?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+ * kokone 공식 오리지널 데모 곡 - 상가백경(想歌百景)
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/ywWtCNWmfbc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/ywWtCNWmfbc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+ * kokone 공식 오리지널 데모 곡 - Nervous
+
+
+== [[VOCALOID 오리지널 곡#s-2.6|kokone 오리지널 곡]] ==
+[[VOCALOID 오리지널 곡#s-2.6|VOCALOID 오리지널 곡]] 항목 참고.
+
+== 바깥 고리 ==
+ * [[http://www.ssw.co.jp/products/vocal3/kokone/ 인터넷 측 kokone 페이지]]
+ * [[https://www.facebook.com/kokone.jp kokone 공식 페이스북]]
+

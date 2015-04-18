@@ -1,0 +1,60 @@
+[[목차]]
+
+== 개요 ==
+|||||||||| [[이즈미 무츠히코]]의 거위 시리즈 ||
+|| [[Snow Goose]][[BR]][[유비트]] || → || [[Red Goose]][[BR]][[유비트 코피어스]] || → || '''Blue Goose'''[[BR]][[유비트 소서 풀필]] ||
+
+attachment:bluegoose.jpg
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[이즈미 무츠히코]]. [[Snow Goose]], [[Red Goose]]를 잇는 거위 시리즈 3탄이다.
+
+http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140722_1.jpg
+첫 정보는 2014년 7월 19일 토요일 유비트 소서 풀필 공식 홈페이지에 갑작스레 the next is... 라는 떡밥이 올라오며 공개되었다. 이후 하루에 한 번씩 이미지를 갱신하며 BPM, 재생시간, 레벨, 노트수 등의 정보를 차례차례 공개. 처음에는 BPM 200과 재생시간 119초라는 이유로 [[Go Beyond!!]] 혹은 [[uən]]가 이식된다는 추측이 많았지만, 22일자 이미지로 신곡이라는 추측이 대세가 되고 같은 날 저녁 곡의 정체가 공개되었다.[* [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140719_0.jpg 19일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140720_0.jpg 20일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140721_0.jpg 21일]] [[http://p.eagate.573.jp/game/jubeat/saucer/common/images/news/ofn_140722_0.jpg 22일]]]
+
+== [유비트 시리즈] ==
+||<tablealign=center><#FF9900> '''[[유비트 소서 풀필]]의 [[유비트 소서 풀필/BONUS TUNE|보너스 튠]] 전용곡''' ||
+|| '''Blue Goose'''[[BR]][[이즈미 무츠히코|Mutsuhiko Izumi]][[BR]]2014/07/24 ||
+|| '''[[星宿る空の下で 枝に結ぶ願い|枝に結ぶ願い]]'''[[BR]][[Akhuta]][[BR]]2014/08/21 ||
+
+|||||||| [[유비트 시리즈|jubeat]] 난이도 체계 ||
+||<|2><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>5||<:>8||<:>10||
+||<:>노트수||<:>342||<:>631||<:>871||
+||<:>BPM||||||<:>200||
+||||||||<#aaaaaa><:>아케이드 수록버전 및[[BR]]jubeat plus 수록 pack||
+||<:>아케이드 수록||||||<:><#000000>[[유비트 소서 풀필|<span style="color:white">유비트 소서 풀필</span>]]{{{#white (2014.7.24) ~}}} ||
+||<:>iOS||||||<:>saucer fulfill pack 5||
+||<:>Android||||||<:>saucer fulfill pack 5||
+
+## jubeat plus Android 버전은 https://remywiki.com/Jubeat_plus_(Android) 을 참고.
+## (jubeat saucer 이후 수록곡중) Android 수록 여부를 모르는 경우에는 iOS와 동일하게 기재바람.
+## 이 주석을 제외한 채로 위의 표만 복사하지 말 것.
+## 이 주석은 2016년 2월 1일 이후로 일괄삭제함.
+관련 칭호
+ * [[유비트 소서 풀필]] ~
+  * Blue-Muu-Master : 모든 보면 클리어
+  * Blue-Muu-King : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+[[유비트 소서 풀필]]의 첫 [[유비트 소서 풀필/BONUS TUNE|BONUS TUNE]] 전용곡으로 공개되었다.
+
+[[youtube(442QOMZuBbw, width=640, height=360)]]
+EXT 채보 영상
+
+[[youtube(46MnwZdRtEA, width=640, height=360)]]
+EXT EXC 영상. 플레이어는 GGD.
+
+EXT 보면은 10레벨에 맞는 적절한 난이도로 등장했다. 16비트 발광이 어렵던 다른 Goose 시리즈에 비해 조금 쉬운 배치로 등장했다. 다만 곡 중간중간에 박자가 살짝 끊기는 부분에서 잔그렛이 나기 쉽다. 그렇다 하더라도 실질적인 난이도는 10레벨 중하위~중위 수준.
+또한 곡의 최후반에 나오는 부분에서 동시치기 이후 부분은 16비트로 나오므로 오인하여 잔그렛이 나지 않도록 할 것. 막상 여기서 잘못 쳐서 미스 나면 셔터가 조금 닫혀 10만점 보너스를 받지 못할 수도.
+
+여담으로 [[유비트 플러스]]에는 [[Red Goose]]와 같은 BPM이라는 점을 이용해 해당 곡의 유비트 랩에 채보가 올라와 있다. 싱크는 알아서 맞춰야겠지만..
+
+=== 곡 코멘트 ===
+||Blue Goose라는 단어는 정식명은 아니지만, 몸통이 담청재색의 청색형이라는 흰색 기러기(스노구스)를 말합니다.
+Snow goose, Red Goose의 속편으로서 만들었습니다.
+전작과 같이, 템포 빠른 리듬에 신디 사이저의 멜로디를 엮어서 질주감을 내봤습니다.
+또 멜로디의 부분마다 바리에이션을 가지게 해, 게임으로서 재밌게 되도록 궁리해 봤습니다.
+여러분, Blue Goose잘 부탁해.
+
+- 泉 陸奥彦||

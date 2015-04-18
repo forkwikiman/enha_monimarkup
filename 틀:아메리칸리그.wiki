@@ -1,0 +1,10 @@
+||<tablealign=center><-6><#ffffff><:> [[메이저리그|<span style="font-weight:bold;color:#ee0000">MLB</span>]] [[아메리칸리그|<span style="font-weight:bold;color:#ee0000">아메리칸리그</span>]] ||
+||<-6><:><#ff0000> '''{{{#ffffff 동부 지구 소속 구단}}}''' ||
+||<width=12%><:> attachment:/yankees.png ||<width=21.3%><#DCDCDC><:> [[뉴욕 양키스]] [[br]] (New York Yankees) ||<width=12%><:> attachment:/redsox.png ||<width=21.3%><#DCDCDC><:> [[보스턴 레드삭스]] [[br]] (Boston Red Sox) ||<width=12%><:> attachment:/rays.png ||<width=21.4%><#DCDCDC><:> [[탬파베이 레이스]] [[br]] (Tampa Bay Rays) ||
+||<:> attachment:/bluejays.png ||<:><#DCDCDC> [[토론토 블루제이스]] [[br]] (Toronto Blue Jays) ||<:> attachment:/orioles2.png  ||<:><#DCDCDC> [[볼티모어 오리올스]] [[br]] (Baltimore Orioles) || 
+||<-6><:><#ffea00> '''{{{#000000 중부 지구 소속 구단}}}''' ||
+||<width=12%><:> attachment:/Tigers.png ||<width=21.3%><:><#DCDCDC> [[디트로이트 타이거스]] [[br]] (Detroit Tigers) ||<width=12%><:> attachment:/cle.png?width=35 ||<width=21.3%><#DCDCDC><:> [[클리블랜드 인디언스]] [[br]] (Cleveland Indians) ||<width=12%><:> attachment:/Royals.png ||<width=21.4%><#DCDCDC><:> [[캔자스시티 로열스]] [[br]] (Kansas City Royals) ||
+||<:> attachment:/Twins.png ||<#DCDCDC><:> [[미네소타 트윈스]] [[br]] (Minnesota Twins) ||<:> attachment:/WhiteSox.png ||<#DCDCDC><:> [[시카고 화이트삭스]] [[br]] (Chicago White Sox) || 
+||<-6><:><#ffba00> '''{{{#000000 서부 지구 소속 구단}}}''' ||
+||<width=12%><:> attachment:/Mariners.png ||<width=21.3%><#DCDCDC><:> [[시애틀 매리너스]][[br]](Seattle Mariners) ||<width=12%><:> attachment:/Angels.png ||<width=21.3%><#DCDCDC><:> [[로스앤젤레스 에인절스 오브 애너하임|LA 에인절스 오브 애너하임]][[br]](LA Angels of Anaheim) ||<width=12%><:> attachment:/Athletics.png ||<width=21.4%><#DCDCDC><:> [[오클랜드 애슬레틱스]][[br]](Oakland Athletics) ||
+||<:> attachment:/Rangers.png ||<#DCDCDC><:> [[텍사스 레인저스]][[br]](Texas Rangers) ||<:>attachment:/houston_se.png ||<#DCDCDC><:> [[휴스턴 애스트로스]][[br]](Houston Astros) ||

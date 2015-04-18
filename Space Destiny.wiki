@@ -1,0 +1,56 @@
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Space Destiny ||
+|| 작곡 |||||||| [[M2U]] ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 170 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 7}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='_YIosYYNKa4$' width='600px' height='400px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=_YIosYYNKa4$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=_YIosYYNKa4$' width='600px' height='400px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 7thTRAX ~Resistance~]] '''BGA'''
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='SLy2I6IjiWk$' width='600px' height='400px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=SLy2I6IjiWk$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=SLy2I6IjiWk$' width='600px' height='400px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2ON]] '''BGA'''
+
+[[M2U]] 특유의 현악기 샘플을 사용한 한국적인 소리로 주 멜로디를 이룬다.
+
+[[EZ2DJ AE]]에서는 다른 7th 1.0 출신 곡들과 함께 판권 문제로 삭제되었다.
+
+[[EZ2ON]]으로 옮겨오면서 비쥬얼이 새로 생겼다. 시대 배경은 2014년. 2013년이었던 [Black Industry]의 후속작으로 보인다. 지구로 다가오는 수많은 운석들을 우주함선으로 격추시키려 하는내용. 딸랑 포대 3개로 막으려 하는데 조준을 어디에다 하는지 제대로 못맞춰서 하나 둘 왕장창 지구에 충돌해 지구가 [[개발살]]날 위험에 처하는 이야기. 왠지 [[Panic Strike]]와 겹치는 느낌이다. 영상 끝자락에 To be contunue가 써있어 많은 추측이 난무하고 있는데 아무래도 RYUminus의 말로는 후속 비주얼이 나올 것 같다. [[Sabin Sound Star]]에 수록된 곡인 [[Return to Universe]]로 스토리가 이어지는듯.
+[[EZ2ON]]에서는 초반 연타와 후반 연속 롱놋 행진으로 8key 난이도가 18이 되는 고렙곡이 되어 많은 유저들에게 인기를 얻었다고...
+
+턴테이블 모드에서는 8렙 치고는 믿을수가 없는 빠른 BPM과 동시치기로 원핸드 유저들을 --완전-- 빡시게 만들어 놓았다. 8렙 졸업을 하기위하여 [[R.E.D.]]와 양대 산맥으로 불렙곡으로 꼽힌다. 그렇지만 12렙쯤 클리어하는 사람들은 다 친다(..)
+
+아래 영상은 EZ2ON 버젼 Space Destiny 8k 영상
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/93piugRv--8?list=PL303U8cU90C0igdvt86jb1txNd22zV2tO" frameborder="0" allowfullscreen></iframe>
+}}}
+
+아래 영상은 EZ2DJ 버젼 5key street space destiny hd 영상
+
+{{{#!HTML
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xPhXf059xgY&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/xPhXf059xgY&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+== BGA제작자 코멘트 ==
+{{|
+1시간의 신화. 근데 시간으로 인해 구성이 허접해서 그렇지 곡분위기랑 엄청 잘 맞는 색감이 나온거 같다.
+-RYUminus
+|}}

@@ -1,0 +1,188 @@
+[[목차]]
+= [[요술]]을 부리는 사람 =
+영어로는 일반적으로 마법사, 마술사까지 포함해서 부르는 Brujo를 뜻한다.
+= [[호빗]]의 특정 인물을 가리키는 "[[네크로맨서]]"에 대한 오역(?) =
+옛날 황금가지판에서 쓰였던 번역.
+
+그 정체는 다름아닌 '''[[사우론]]'''이다.
+= [[도타 2]]의 [wiki:"도타 2/영웅" 영웅] 요술사 =
+
+||<bgcolor=#E9ECEF>이 항목은 영웅 이름인 [아이우시타]로 검색해도 들어올 수 있다.||
+
+||<tablewidth=268px>||||||<-100 bgcolor=#257dae> http://hydra-images.cursecdn.com/dota2.gamepedia.com/4/41/Enchantress_icon.png [[br]] '''{{{#white 요술사}}}''' [[br]] '''{{{#white Enchantress}}}''' ||
+||||||||<#000000>http://hydra-images.cursecdn.com/dota2.gamepedia.com/9/99/Enchantress.png||
+||||||||<#598307>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/2/2a/Radiant_icon.png/16px-Radiant_icon.png '''{{{#white 래디언트}}}'''  ||
+||||<width=33%><#282828>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/f/f9/Icon_Str.png/32px-Icon_Str.png  [[br]]'''{{{#white 16 + 1}}}'''  ||<width=33%><#282828>   http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/b/ba/Icon_Agi.png/32px-Icon_Agi.png  [[br]]'''{{{#white 19 + 1.8}}}'''  ||<width=33%><#282828>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/f/f0/Icon_Int_selected.png/32px-Icon_Int_selected.png  [[br]]'''{{{#white 16 + 2.8}}}'''  ||
+
+>'''꽃처럼 상큼하게 돌아왔어!'''
+
+||<tablewidth=268px>  '''레벨'''  ||  '''1'''  ||  '''16'''  ||  '''25'''  ||
+||<#dcdcdc>  '''체력'''  ||<#dcdcdc>  454  ||<#dcdcdc>  777  ||<#dcdcdc>  1290  ||
+||  '''마나'''  ||  208  ||  780  ||  1339  ||
+||<#dcdcdc>  '''공격력'''  ||<#dcdcdc>  47-57  ||<#dcdcdc>  91-101  ||<#dcdcdc>  134-144  ||
+||  '''방어력'''  ||  0.66 ||  4.72  ||  9.51  ||
+||<#dcdcdc>  '''공격속도'''  ||<#dcdcdc>  0.7  ||<#dcdcdc>  0.87  ||<#dcdcdc>  1.07  ||
+||  '''이동 속도'''  ||<-100><:>  '''{{{#red 335}}}'''  ||
+||<#dcdcdc>  '''회전 속도'''  ||<-100><#dcdcdc><:>  0.4  ||
+||  '''시야'''  ||<-100><:>  '''낮/밤'''[[br]]1800/800  ||
+||<#dcdcdc>  '''사정 거리'''  ||<-100><#dcdcdc>  550'''(원거리)'''[* 아가님의 홀 구입시 740]  ||
+||  '''발사체 속도'''  ||<-100><:>  900  ||
+||<#dcdcdc>  '''공격 딜레이'''  ||<-100><:><#dcdcdc>  '''선+후'''[[br]]0.3+0.7  ||
+||  '''캐스팅 딜레이'''  ||<-100><:>  '''선+후'''[[br]]0.3+0.51  ||
+||<#dcdcdc>  '''기본 공격 속도'''  ||<-100><#dcdcdc>  1.7  ||
+
+||<tablebgcolor=#FFFFFF><-100><#dcdcdc><:> '''역할'''||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/0/01/Pip_roamer.png/24px-Pip_roamer.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/1/1e/Pip_pusher.png/24px-Pip_pusher.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/d/d3/Pip_tank.png/24px-Pip_tank.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/d/d4/Pip_jungler.png/24px-Pip_jungler.png||
+||<#dcdcdc><:>'''지원'''||<#dcdcdc><:>'''압박'''||<#dcdcdc><:>'''생존력'''||<#dcdcdc><:>'''정글러'''||
+||<#dcdcdc><:>'''★★'''||<#dcdcdc><:>'''★★'''||<#dcdcdc><:>'''★'''||<#dcdcdc><:>'''★'''||
+
+||<tablebgcolor=#FFFFFF><-100><#dcdcdc><:> '''성우'''||
+||http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png||<:>진 해먼드||
+||http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png||<:>[[조경이]]||
+
+||||||<tablewidth=300px> 도타 2 출시 / 포팅 순서 ||
+||<:>[[퍼그나]][[br]][[야수지배자]]||<:>[[그림자 마귀]][[br]]'''요술사'''[[br]][[레슈락]]||<:>[[wiki:"땜장이#s-2" 땜장이]]||
+== 배경 ==
+||<bgcolor=#E9ECEF>아이우시타는 낙천적이고 순수한 숲의 동물이다. 그렇지만 그것만이 다가 아니다. 아이우시타는 자연 세계에 일어나는 고통에 대해 잘 알고 있다. 그녀는 밝은 숲은 물론 으스스한 곳도 마다하지 않고 아주 멀리까지 여행을 다녔다. 날씨와 계절도 가리지 않으며 곳곳에서 친구를 모으고 소식을 전하며 웃음과 위로를 전하곤 했다. 세상에 전쟁이 닥치자, 군함 및 공성 병기의 수요가 늘었고 숲은 황폐해졌다. 사실 평시에도 집을 지을 재료나 수많은 난로를 지필 장작이 필요했기에 숲에는 나무가 남아나지 않을 때가 많았다. 아이우시타는 생존을 위해 숲의 그늘과 그늘을 만들어줄 나뭇잎이 필요했던 작은 동물들의 애원을 들을 수 있었다. 그녀는 들어줄 사람이 없는 이들에게도 귀를 기울였다. 이제 그녀는 숲의 이야기를 모아 세상으로 나왔다. 그녀는 자신이 행하는 응원과 격려 또한 일종의 즐거움이며, 신록이 우거진 미래를 맞이할 수 있으리라고 믿는다.||
+== 스킬 ==
+=== 불가촉(Untouchable) Q/U ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/enchantress_untouchable_hp2.png||<width=20%><:>'''패시브'''||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/Bg3FV8n5HjI attachment:/avicon.png]||
+||<-100><|2>적들을 현혹하여 요술사를 공격한 대상의 공격 속도를 늦춥니다.||
+||||
+||<-100>'''지속시간''' : 4[[br]]'''공격속도 감소량''' : 30 / 60 / 90 / 120||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/3/3e/Linken%27s_Sphere_tiny_dull_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b1/Diffusal_Blade_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Manta_Style_tiny_icon.png||
+||<-100>''아이우시타를 공격한 대부분의 적들은 자연의 아름다운 존재를 공격했다는 죄책감에 사로잡힙니다.''||
+ * 요술사에게 직접 공격이나 대상 지정형 기술을 시전한 적들에게 공격속도 감소 효과를 줍니다. 범위 공격에는 효과가 없습니다.
+ * 요술사에게 피해를 주기 전의 공격 인식에 반응합니다.
+
+~~요술사가 헐벗고 다니는 이유. [[불가촉천민]]이라서 그렇다 카더라~~ ~~[[닉스 암살자]]와 [[곤다르]]가 이 스킬을 싫어합니다~~
+
+허약하기 그지없는 요술사에게 생존력 태그가 붙은 이유. 이 패시브 때문에 도타 2 영웅 중에서 가장 낮은 체력을 지닌 아이우시타는 평타로 자기를 공격하려는 적을 엿먹이고 w와 e로 유유히 빠져나가는 경우가 많다. 강력한 행동불능기나 누킹 기술이 없다면 평타만으로 잡는 건 포기하는 게 좋다.
+
+로샨 잡기가 굉장히 편해지는 스킬. 로샨은 대부분 평타만으로 공격하는 데다가 패시브 스킬이라는 특정상 로샨의 주문 방어에 영향을 받지 않는다.
+
+=== 매혹(Enchant) W/C ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/enchantress_enchant_hp2.png||<width=20%><:>'''시전 대상'''[[br]]유닛||<width=30%><:>'''효과 대상'''[[br]]중립, 적||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/FEb9-pLBPXY attachment:/avicon.png]||
+||<-100><|2>요술사가 적들을 매혹시킵니다. 대상이 크립일 경우 해당 크립을 지배하며, 대상이 영웅일 경우 이동 속도를 감소시킵니다.||
+||||
+||<-100>'''사정거리''' : 700[[br]]'''영웅 지속시간''' : 5.5[[br]]'''크립 지속시간''' : 80[[br]]'''이동속도 감소량''' : 20 / 30 / 40 / 50%||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 30/25/20/15||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 65||
+||<-2>||<-2>http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b1/Diffusal_Blade_tiny_icon.png 영웅에게 시전 시 둔화 효과를 해제할 수 있습니다.||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b9/Linken%27s_Sphere_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b1/Diffusal_Blade_tiny_icon.png||
+||<-100>''숲의 진정한 청지기인 아이우시타는 초라한 트롤부터 강력한 켄타우로스에 이르기까지 모든 숲 생명체와 친분을 맺고 있습니다.''||
+ * 적이 생성한 분신을 지배할 수 있습니다.
+ * 적 영웅이 조종하는 크립도 지배할 수 있지만, [[취권도사]]의 원시의 분리로 인해 소환된 원소의 전사들은 지배할 수 없습니다.
+
+쿨타임도 꽤 짧고 마나 소모량도 적어 요술사가 정글을 돌 수 있게 하는 스킬. [[첸(도타 2)|첸]]의 성스러운 설득과는 반대로 지배할 수 있는 크립 수의 제한은 없지만 지속 시간은 있다. 쓸 만한 중립 크립은 [[도타 2/크립]] 항목을 참조하자.
+
+켄타우로스 정복자를 지배해 광역 기절을 쓸 수도 있고, 고원 트롤 사제를 지배해 치료와 마나 오라로 안정적으로 정글을 돌 수도 있으며, 어둠 트롤 소환사를 지배해 올가미로 갱킹을 할 수도 있는 등 선택지는 많다. 초반에 켄타우로스 두 마리를 지배하고 갱킹을 가면 상대는 쫄아붙게 된다. 
+
+적 영웅에게 쓰면 이동속도 감소 디버프를 건다. 여기에 불가촉까지 가세해 공격 속도까지 줄어들면 적은 도저히 요술사를 공격할 수 없게 된다. 궁극기인 추진력과의 궁합도 좋다.
+
+=== 자연의 수행자(Nature's Attendants) E/R ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/enchantress_natures_attendants_hp2.png||<width=20%><:>'''시전 대상'''[[br]]없음||<width=30%><:>'''효과 대상'''[[br]]아군||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/VCRqaqKZ4OY attachment:/avicon.png]||
+||<-100><|2>위습 무리가 요술사와 주위 아군 유닛을 치료합니다.||
+||||
+||<-100>'''위습당 초당 회복량''' : 10[[br]]'''효과반경''' : 275[[br]]'''지속시간''' : 10[[br]]'''위습의 수''' : 3 / 5 / 7 / 9||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 45||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 125/140/155/170||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b7/Diffusal_Blade_tiny_dull_icon.png||
+||<-100>''숲의 변덕스러운 정령들이 가진 치유의 힘은 미미하지만 다수가 모이면 강해집니다.''||
+ * 체력이 가득 찬 유닛을 대상으로 지정할 수 없습니다.
+ * 마법 면역 상태의 유닛에게도 효과가 적용됩니다.
+ * 총 300 / 500 / 700 / 900의 체력을 회복합니다.
+
+허약한 요술사를 죽지 않게 하는 스킬. 불가촉으로 공격 속도를 깎고, 매혹으로 이동 속도를 깎아 적이 도저히 자신을 공격할 수 없게 한 뒤, 이걸 쓰고 유유히 체력을 회복하면서 깡총깡총 도망가면 상대는 혈압이 절로 오르게 된다. 지속형 힐이라 누킹에는 취약하지만 초~중반엔 이것만 믿고 활동해도 된다. 주위의 아군도 회복시키므로 한타 싸움에서 잘 사용하면 아군의 생존률도 조금이나마 상승한다. 지속형 힐이라서 그렇지 총 회복량만 따지면 [[첸(도타 2)|첸]]의 신의 손길보다 높다.
+
+=== 추진력(Impetus) R/T ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#F04010>http://media.steampowered.com/apps/dota2/images/abilities/enchantress_impetus_hp2.png||<width=20%><:>'''시전 대상'''[[br]]자동 시전||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>'''데미지 타입'''[[br]]순수||<width=10%><:>[http://www.youtube.com/v/FUkzdGUG_L8 attachment:/avicon.png]||
+||<-100><|2>일반 공격 시 마법을 부여하여 대상과의 거리에 따라 추가 피해를 입힙니다. 대상이 멀리 떨어져 있을수록 더 큰 피해를 줍니다.||
+||||
+||<-100>'''사정거리''' : 550'''(740)'''[[br]]'''거리에 비례한 추가 데미지''' : 15 / 20 / 25%[[br]]'''데미지 한계치''' : 375 / 500 / 625||
+||<-3><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 55/60/65||
+||<-2>||<-3>http://hydra-images.cursecdn.com/dota2.gamepedia.com/9/91/Black_King_Bar_tiny_partial_icon.png 마법 면역 유닛을 대상으로 지정할 수 있으나 피해는 주지 않습니다.[[br]]http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/eb/Aghanim%27s_Scepter_small.png/16px-Aghanim%27s_Scepter_small.png 요술사의 공격 사정거리와 추진력의 시전거리를 증가시킵니다.||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d7/Orb_of_Venom_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/9/91/Black_King_Bar_tiny_partial_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/3/3e/Linken%27s_Sphere_tiny_dull_icon.png||
+||<-100>''아이우시타는 평화적인 방법을 선호하지만 때에 따라서는 주위 생명체들의 힘을 창끝에 모음으로써 먼 거리에서 강력한 마법 공격을 행할 수 있습니다.''||
+ * 피해 한계치에 도달하는 거리는 2500입니다.
+ * 아가님의 홀을 착용 시, 포탑의 공격 사정거리인 700을 넘게 됩니다.
+ * 대상 유닛이 창에 맞았을 때 피해량이 계산되므로, 창을 던진 후 거리가 벌어지면 더욱 큰 피해를 입습니다.
+
+~~[[내가 무릎을 꿇었던 건 추진력을 얻기 위함이었다|바보야! 내가 거리를 벌린건 추진력을...]]~~
+요술사의 유일한 딜링 기술. 얼핏 보면 궁극기 치곤 별 것 아닌 것처럼 보이지만 거리를 벌리면 이 스킬에 추가 피해를 입고, 가까이 붙자니 요술사가 거는 둔화 때문에 도저히 붙을 수 없으므로, 아이우시타를 상대하는 적의 혈압을 끝까지 높히는 기술이다. 매혹을 쓰고 창을 계속 날리면 적에게 마법 면역 기술이 없는 이상 죽게 된다. ~~망할 놈의 [[흡혈마]]만 빼고~~
+
+이 스킬 때문에 점멸로 도주하려고 하면 최대 데미지를 입고 죽을 수도 있으므로, 이동 기술은 요술사에게 붙을 때에만 쓰는 게 좋다.
+
+피해 한계치가 없던 때에는 순간이동을 하는 적에게 창을 날렸는데 본진(...)까지 창이 날아와 꽂히면서 사망한 적도 있었다.
+== 추천 아이템 ==
+||<tablebgcolor=#000000>||||||||||<-6 bgcolor=#B75E5E>  '''{{{#white 추천 아이템}}}'''  ||
+||<#FFF0F0><|2><:> '''스타팅''' ||http://media.steampowered.com/apps/dota2/images/items/tango_lg.png||http://media.steampowered.com/apps/dota2/images/items/gauntlets_lg.png||http://media.steampowered.com/apps/dota2/images/items/gauntlets_lg.png||http://media.steampowered.com/apps/dota2/images/items/flask_lg.png||http://media.steampowered.com/apps/dota2/images/items/branches_lg.png||
+||http://media.steampowered.com/apps/dota2/images/items/branches_lg.png||
+||<#FFF0F0><:> '''초반''' ||http://media.steampowered.com/apps/dota2/images/items/magic_stick_lg.png||http://media.steampowered.com/apps/dota2/images/items/boots_lg.png||
+||<#FFF0F0><:> '''코어''' ||http://media.steampowered.com/apps/dota2/images/items/magic_wand_lg.png||http://media.steampowered.com/apps/dota2/images/items/power_treads_lg.png||http://media.steampowered.com/apps/dota2/images/items/urn_of_shadows_lg.png||http://media.steampowered.com/apps/dota2/images/items/ultimate_scepter_lg.png||http://media.steampowered.com/apps/dota2/images/items/ward_observer_lg.png||
+||<#FFF0F0><|2><:>'''시츄에이셔널'''||http://media.steampowered.com/apps/dota2/images/items/bloodstone_lg.png||http://media.steampowered.com/apps/dota2/images/items/shivas_guard_lg.png||http://media.steampowered.com/apps/dota2/images/items/sheepstick_lg.png||http://media.steampowered.com/apps/dota2/images/items/orchid_lg.png||http://media.steampowered.com/apps/dota2/images/items/heart_lg.png||
+||http://media.steampowered.com/apps/dota2/images/items/assault_lg.png||http://media.steampowered.com/apps/dota2/images/items/force_staff_lg.png||
+=== 초반 ===
+ * '''능력의 장화''' : DPS를 올려주고, 요술사의 빈약한 스탯을 올려주는 아이템.
+ * '''혼의 항아리''': 마나 회복, 힘, 체력 회복 수단을 제공하는 아이템. 정글을 돌면서 자주 갱킹을 가는 요술사는 스택을 쌓기도 용이하고 갱킹의 성공률을 높히기 위해서도 고려할만한 아이템. 후반에도 자연의 수행자와 함께 혼의 항아리를 사용한다면 한타가 끝난뒤에도 우물로 복귀하지 않고 계속 전선에 남아있을수 있게 된다.
+ * '''미다스의 손''' : 요술사의 정글링을 극대화해주는 아이템. 물론 요술사는 기본적으로 서포터기 때문에 초반에 갱킹이 성공하지 못했을때는 가지 않는 것이 좋다. 하지만 갱킹이 성공해 성장이 잘 됐을때 가면 빠른 속도로 코어 아이템을 뽑아줄 수 있다.
+=== 중반 ===
+ * '''지구력의 북''' : 성장이 안 됐을때 싼값에 스탯을 많이 올려줘 고려해 볼만한 아이템. 다만 요술사는 다른 코어아이템이 중요하기 때문에 가지 않는 경우가 많다.
+ * '''메칸즘''' : 모든 능력치를 5씩 올려주고, 방어력과 체력 재생, 체력 회복 수단을 제공하는 아이템으로 몸이 약한 요술사가 생존용으로 고려해볼만한 아이템. 대부분의 서포터 영웅이 사는 아이템이다. 주변 아군의 체력을 회복시키고, 방어력을 올려주기 때문에 한타때 도움이 된다. 
+ * '''염동력 지팡이''' : 유틸성 최강템. 요술사의 생존력을 강화시키고 궁극기를 맞고있는 적을 밀어내면 상당한 딜링을 낼 수 있다. 상대편에 [[태엽장이]]가 있을때 대부분 첫번째 코어템으로 가는 편인데, 강화 톱니 안에 있는 아군을 꺼내줄 수 있기 때문.
+ * '''아가님의 홀''' : 요술사의 딜링 능력을 강화시키고 체력과 힘을 통해 생존력도 약간이나마 보완해 줄 수 있는 아이템. 아이템에 붙은 능력치도 무난하고 아가님의 강화효과도 무난해서 정말 무난한 상황에서 갈만한 아이템.
+ * '''네크로노미콘''' : 매혹과 함께 푸시에 중점을 둔 조합에서 가는 아이템. 푸싱과 딜링이 엄청나진다.
+ * '''증오의 꽃가지''' : 공격속도와 공격력 지능에다 마나회복량까지 요술사에게는 버릴게 없는 능력치만 붙은데에다 평타에는 강하지만 능력 사용에 취약한 요술사에게 침묵도 선사해주는 멋진 아이템
+ * '''칠흑왕의 지팡이''' : 요술사의 생존용/딜링용 아이템. 요술사의 단점인 누킹에 순식간에 녹아버리는것을 막아준다. 때문에 궁극기로 딜을 더 넣을 수 있는건 덤.
+=== 후반 ===
+ * '''바이스의 낫''' : 모든 지능형 서포터 영웅의 친구. 바이스의 낫이 빨리 나오고 성장이 잘 됐다면 솔로킬까지 쉽게 가능하다.
+ * '''시바의 은총''' : 불가촉과 함께 상대 캐리의 DPS를 엄청나게 감소시킬 수 있다. 또 요술사에게 가장 필요한 지능과 방어력을 올려준다.
+ * '''혈석''' : 체력과 마나, 리젠을 주는 아이템. 하지만 요술사는 혈석이 있든 없든 쉽게 녹아버리는 영웅이고 다른 유틸 아이템이 전반적으로 더 낫다.
+ * '''광기의 가면''' : 말도 안되는 아이템같지만 칠흑왕의 지팡이와 함께라면 불가촉때문에 누킹을 제외하면 쉽게 죽지 않는 요술사가 궁극기로 엄청난 딜을 넣을 수 있다. 실제로 프로게임에서도 가끔 볼 수 있다.
+
+== 운영 및 공략 ==
+요술사는 레벨 1부터 정글을 돌 수 있는 영웅 중 하나이므로 라인을 탈 수도 있고 정글을 돌며 아군 영웅에게 솔로라인을 주면서 빠르게 레벨 6을 찍게끔 할 수도 있다. 정글을 돌땐 풀링이나 갱킹을 틈틈이 해주면서 라인에 있는 아군들이 망하지 않게 해야 한다. 요술사는 초반부터 2마리의 크립으로 갱킹을 갈 수 있어 1~3레벨 타이밍에 매우 강한 갱커다. 지옥곰과 켄타우로스등이 2마리 나오면 바로 연막물약을 사용해 갱킹을 가주는것이 좋다. 
+
+스킬은 자연의 수행자를 먼저 마스터 하고, 불가촉을 찍는다. 매혹도 좋은 스킬이지만 레벨을 올려도 슬로우만 증가하기때문에 프로게임에서는 1레벨 이상 찍지 않는 경우도 많다. 
+
+의외로 미드 퍼지를 상대하기도 좋은 캐릭터 중에 하나, 퍼지가 고기갈코리로 미드 영웅을 빠르게 킬해서 랩업을 하는 초반을 훌륭하게 막아설 수 있다. 방법은 적 원거리 캐릭터를 매혹으로 아군으로 만든 다음에 퍼지와 요술사 사이에 위치시켜서 고기 갈고리를 막는 법. 미드라인엔 빠르게 크립들이 모이기 때문에 퍼지의 킬각이 나오기가 힘들어 퍼지가 뻔한 위치에서 고기갈코리를 던지는 것이 대부분이기 때문, 근처에 온다면, 매혹으로 만든 크립과 함께 공격하면 된다. 이렇게 하면, 퍼지의 성장을 쉽게 방해할 수 있다. 만일 고기갈코리에 당하더라도, 힐이 가능한 자연의 수호자를 키고 달려나오면 잘 죽지 않는다.
+
+갱킹으로 이득을 봤다면 미다스의 손을 가거나, 신속의 장화와 혼의 항아리를 맞춰준다. 그 후 코어템은 아가님의 홀이나 때에따라 증오의 꽃가지, 바이스의 낫같은 공격적인 아이템, 칠흑왕의 지팡이와 염동력 지팡이같은 수비적인 아이템 사이에서 선택하는 편이고, 성장이 어려울 때 가는 지구력의 북, 푸시 중심의 네크로노미콘을 가는 빌드도 있다. 하지만 요술사는 기본적으로 궁극기로 딜을 넣는 영웅이기 때문에, 아가님의 홀이 가장 보편적이고 좋은 아이템이다. 또한 불가촉때문에 평타에는 강하지만 체력이 매우 낮아 누킹에 약한 영웅이라 칠흑왕의 지팡이도 매우 좋다.
+
+어떤 트리를 가던지 후반에는 보통 바이스의 낫이나 시바의 은총을 맞춘다. 바이스의 낫을 잘 이용해 상대를 묶으면 아군이 기뻐하며 적을 두들겨 팰 수 있고, 시바의 은총을 불가촉과 같이 써서 적 캐리의 DPS를 엄청나게 감소시킬 수 있으며, 주변의 적에게 피해를 주면서 더 느리게 할 수 있다. 시바의 은총과 레벨 4 불가촉을 같이 쓰면 평타로 활약하는 모든 영웅이 다 잉여가 된다.
+
+운영 시에 고민해야되는 점은 초중반까지는 쓸만하지만, 아이템에서 뒤쳐지게 되면, 딜링도 전혀 못넣고 누킹 한방에 녹아버리는 영웅이 되어버린다. 항시 상대보다 높은 레벨과 아이템으로 무장해야되기 때문에, 바쁜 운영이 필요하다. 그렇다고 레벨이 높다고 방심을 하지도 못한다. 칠흑왕의 지팡이가 없다면 [[리치]]의 궁극기 한방에 절명할 수 있는 영웅이기 때문이다. 
+
+과거에는 워크 시절에는 불가촉이 궁극기였고 추진력이 일반기여서 초반부터 임페투스를 날려대면서 견제하는 미드  라인전의 악마였다. 이후 패치 끝에 궁과 불가촉의 위치변화, 힘상승량 너프와 초기 체력 너프, 자연의 수행자 너프등으로 인해서 안타깝게도 정글로 자리를 옮기게 되었다. 당시에 별명은 바퀴년이었는데, [[아바돈]]과 함께 때려도 때려도 안죽는 영웅으로 유명했다. 
+
+== 치장 아이템 ==
+=== 세트 아이템 ===
+||<tablealign=center><:>'''야생 조류의 축복 세트
+'''Blessings of the Wildwing set||<:>'''여름의 형상 세트
+'''Aspects of Summer Set||
+||<:>http://hydra-media.cursecdn.com/dota2.gamepedia.com/thumb/0/09/Cosmetic_icon_Blessings_of_the_Wildwing.png/256px-Cosmetic_icon_Blessings_of_the_Wildwing.png?version=0b3a969cf9797f4f8c42ee9f5c0254ad||<:>http://hydra-media.cursecdn.com/dota2.gamepedia.com/thumb/5/57/Cosmetic_icon_Aspects_of_Summer.png/256px-Cosmetic_icon_Aspects_of_Summer.png?version=7a1b62d69b8ffdba6e1e48d1dee18b1b||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}''' 6.99$||<:>'''{{{#4b69ff 희귀(Rare)}}}''' 11.99$||
+||<tablealign=center><:>'''아라케애의 공물 세트
+'''Araceae's Tribute Set||<:>'''호박빛 의복 세트
+'''Amberlight Raiment Set||
+||<:>http://hydra-media.cursecdn.com/dota2.gamepedia.com/thumb/7/7e/Cosmetic_icon_Araceae%27s_Tribute_Set.png/256px-Cosmetic_icon_Araceae%27s_Tribute_Set.png?version=8f3b50b50e87426022f1b9395de8fd90||<:>http://hydra-media.cursecdn.com/dota2.gamepedia.com/thumb/c/cd/Cosmetic_icon_Amberlight_Raiment.png/256px-Cosmetic_icon_Amberlight_Raiment.png?version=292124d30f96098e696926f271a15fc4||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}''' 3.99$||<:>'''{{{#4b69ff 희귀(Rare)}}}'''||
+
+=== 와드 ===
+||<tablealign=center><:>'''마력 깃든 눈빛
+'''Enchanted Vision||
+||<:>http://hydra-media.cursecdn.com/dota2.gamepedia.com/thumb/8/8e/Cosmetic_icon_Enchanted_Vision.png/256px-Cosmetic_icon_Enchanted_Vision.png?version=4b74f59c0d4696fe6cc96eca1fe8673f||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}'''||
+== 트리비아 ==
+ * [[도타 올스타즈]] 6.0버전부터 등장. Neichus가 디자인하였다. 이 당시엔 추진력이 일반기술이었고 불가촉이 궁극기였는데 패치 과정에서 약간의 수치 조정을 받고 자리를 바꿨다.
+ * 도타2가 처음 출시됐을 때부터 나온 46명의 최초의 영웅들 중 하나이다.
+ * 배경에도 나와있듯이 굉장히 밝고 낙천적인 성격의 영웅이다. 대사만 들어봐도 천진함이 느껴질 정도. 짓궂은 유저들은 마법 면역인 머드 골렘은 차별하냐고 한다던가 만물을 사랑한다며 꼬신 크립들을 죽으라고 내보내냐며 종종 비꼰다. 사족으로 첸은 이제 머드 골렘도 조종 할 수 있게 됐다.
+ * 자기처럼 중립 크립을 부리는 영웅 [[첸(도타 2)]]과 라이벌이다. 첸을 처치하면 크립이 자길 더 좋아하는 모양이라고 한다.그런데 이제는 상황이 반대가 되버렸다.
+=== [[도타 올스타즈]] ===
+||<tablebgcolor=#000000>http://media.playdota.com/hero/21/icon.JPG||<#dcdcdc><-100><:>'''인챈트리스'''''Enchantress''[[br]]아이우쉬타''Aiushtha''||
+||<-100><#000000><:>http://media.playdota.com/hero/21/character.gif||
+||http://media.playdota.com/hero/21/skill-0.JPG||http://media.playdota.com/hero/21/skill-1.jpg||http://media.playdota.com/hero/21/skill-2.jpg||http://media.playdota.com/hero/21/skill-3.jpg||
+
+||<bgcolor=#E9ECEF>한 [[드라이어드]]가 몇 마리 위습에 둘러싸인 채로 적장의 정수리에 힘찬 투창을 내리꽃고, 그녀를 죽이려 오는 자들을 우습게 비켜나가며, 적들을 분노케 한다. 아이유쉬타, 바로 [[세나리우스]]의 첫째 딸이자 드라이어드 족의 수장이다. 세나리우스의 총애를 받은 그녀는 [[위습]]을 조종하는 법을 배워 이들로 하여금 아군의 회복을 돕게할 수 있다. 장거리 전투를 선호하는 그녀는 투척 거리가 증가할수록 치명적인 창을 개발해냈고, 그녀에게 추격 당하며 창을 맞는 자들의 심정을 묘사하기엔 절망이란 단어조차 충분하지 않다.||
+모델은 [[워크래프트 3]]의 [[드라이어드]].
+
+= [[디아블로 3]] [wiki:"디아블로 3/추종자"추종자] [wiki:"에이레나" 요술사] =
+추종자 이름은 [[에이레나]].

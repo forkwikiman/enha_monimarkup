@@ -1,0 +1,33 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Wall of Blossoms''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/191114_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''꽃의 벽''' ||
+|| '''마나비용''' || {1}{G} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 생물 — 식물 벽 ||
+||||<height=160px>수비태세 ''(이 생물은 공격할 수 없다.)''[[br]][[br]]꽃의 벽이 전장에 들어올 때, 카드를 한 장 뽑는다.
+
+''모두 같은 꽃이 피며, 모든 잎사귀들 역시 기분 나쁘게 똑같이 생겼습니다.''||
+|| '''공격력/방어력''' || 0/4 ||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Stronghold || 언커먼 ||
+|||| Planechase 2012 || 언커먼 ||
+|||| [[From the Vault: Twenty]] || 미식레어 ||
+
+보통 '벽' 종류 카드는 그렇게 많이 쓰이지 않았지만, 들어오면서 카드를 드로우하기 때문에 그럭저럭 쓸만했던 카드 중 하나.
+
+Mirage-Tempest 시절에는 [[Stampeding Wildebeests]]와 함께 콤보로 쓰여, 스톰피덱의 핸드를 채워주는 역할을 하기도 했다.[* 들락날락 하는 것이 나쁘게 생각될 수도 있으나, 생각해보면 마나 두장에 카드 한장을 드로우하게 해 주면서 Stampeding Wildebeests의 페널티도 없애는 셈이다.]
+
+나~중에 Rise of the Eldrazi에서 Wall of Omens라는 변형이 등장했는데, 이쪽은 능력은 같고 발비가 1W. 그래서 덕분에 백색이 들어간 컨트롤 덱에서 당시 애용했다(...)
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Wall of Omens''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/130722_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {1}{W} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 생물 — 벽 ||
+||||<height=160px>수비태세[[br]][[br]]Wall of Omens가 전장에 들어올 때, 카드를 한 장 뽑는다.
+
+''"I search for a vision of Zendikar that does not include the Eldrazi."[[br]]—Expedition journal entry''||
+|| '''공격력/방어력''' || 0/4 ||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Rise of the Eldrazi || 언커먼 ||
+

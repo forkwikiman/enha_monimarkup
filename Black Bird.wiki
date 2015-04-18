@@ -1,0 +1,60 @@
+[[목차]]
+
+== [[EZ2DJ]]의 수록곡 ==
+
+|| 장르 |||||||| Big Beat ||
+|| 곡명 |||||||| Black Bird ||
+|| 작곡 |||||||| [[wiki:"M2U" Infinity Poly]] ||
+|| 배경 |||||||| 범용 BGA (1.5) [[br]] [[SHK]] (2.0~) ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.5]] ||
+|| BPM |||||||| 115 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 3}}} || {{{#red 4}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 4}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple 11}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 7}}} || {{{#orange 9}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/rriF7WrCP8k?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/rriF7WrCP8k?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+EZ2DJ Black 시리즈 3번째 곡
+
+EZ2DJ 7th 1.5의 수록곡. 장르가 Big Beat인 것도 그렇고 전체적인 음악의 분위기가 BGA와 어울리는 편이다. 다만 1.5때는 범용 컷과 Ez2Dancer의 수록곡인 촛불하나의 BGA 일부를 짜깁기한 BGA가 쓰였으며, 흑백이 바탕인 BGA는 2.0때 만들어진 것.
+
+난이도는 이지 4, 노멀 6, 하드 8, 슈퍼하드 11. 1.5 당시엔 노멀이 이지, 하드가 노멀, 슈퍼하드가 하드였지만 2.0때 현재 패턴으로 변경.
+
+노멀은 처음하는 사람들에게는 익숙치 않으며, Black 시리즈가 다 그렇듯이 전체적으로      스크래치가 빡빡하고 난이도에 따라 노트도 추가되어 있다. 다만 SHD나 7key 399M의 전용패턴에는 이 특정부분에서 스크래치 대신 빽빽한 노트로 나온다.
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/zcESUESRmPE?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/zcESUESRmPE?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+'''[Ez2Dj] Black Bird SHD'''
+
+
+== [[유희왕]] 5D's에 등장하는 기계 ==
+
+[[크로우 호건]]이 사용하는 [[라이딩 듀얼]]용 D-휠. 
+
+뒷바퀴 양쪽에 날개가 달려있으며, 이걸로 단거리 활공이 가능하다.
+
+실은 자기것이 아니고, 3년 전에 [[피어슨]]이 사고로 죽기전에 [[블랙 페더]]와 함께 크로우에게 맡긴 것이다. 그리고 이 [[D휠]]의 중심부에는 [[블랙 페더 드래곤]]이 봉인되어있다.
+
+별 상관은 없지만,위의 설정을 반영해서[유희왕 월드 챔피언십] 시리즈에서는 블랙 버드에 숨겨진 옵션으로 "점프 높이와 거리 증가"가 있다. 터보 칩에 오버 부스트까지 써서 점프대에 돌격하면 플라잉 듀얼을 체감할수 있다.~~믿으면 골룸~~
+
+== 록히드 마틴사에서 제작한 고고도 초음속 정찰기의 이명 ==
+
+제식명 [[SR-71]]로, 현존하는 항공기 중 가장 빠른 속도를 낼 수 있다.(실험기 제외)
+최고속도 마하 3.3이 현재 기록중인 최고비행속도기록.
+
+== 콜 오브 듀티 블랙 옵스의 OST중 한 곡 ==
+
+ 원래는 Blackbird로 붙어있다(...)
+ 쿠바 미션에서 느리게 움직이는 C-130의 터렛에서 엄호사격할때 나오는 부분이(1:30) 적군이 기관총에 사살당하는 상황과 처절하게 어울린다.

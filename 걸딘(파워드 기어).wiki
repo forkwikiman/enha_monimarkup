@@ -1,0 +1,28 @@
+[[파워드 기어]]에 등장하는 기체. [[사이버 보츠]]는 [wiki:"걸딘(사이버 보츠)" 이쪽 참조].
+
+|| http://www.arcadequartermaster.com/capcom/armwar/mech-guldin.png?width=250 || http://www.arcadequartermaster.com/capcom/armwar/art_guldin.png?width=250 || http://www.arcadequartermaster.com/capcom/armwar/sprite_guldin.png?width=250 ||
+{{|'''코드NO. : AEX-10H'''
+'''타입 : 헤비급'''
+'''높이 : 4250mm'''
+'''기체중량 : 9754kg'''
+'''최대(최소)장갑두께 : 32(25)mm'''
+'''순행(한계)주행속도 : 45(75)km/h'''
+'''최대출력 : 3504Hp'''
+'''기체성능 : 이동속도 2, 파괴력 6'''
+'''사정거리 2, 장탄수 6'''|}}
+초창기형 VA지만 튼튼한 장갑과 화력으로 아직도 운용되는 기체. 도색은 녹색.
+
+[wiki:"블로디아(파워드 기어)" 블로디아]에 비해 이동속도와 공격속도가 굼뱅이급으로 느려졌지만, 그것을 '''화끈한 공격력과 튼튼한 몸빵, 넉넉한 장탄수'''로 커버한다.
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/BTzdbW2eISI?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/tYAejIVdZMs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+잘 다루는 암 파츠는 [[포스 크로]]. 공격 속도가 느린게 흠이지만, [[데스 드릴]]도 다운 공격이 수월하게 들어가기 때문에 의외로 좋다.[* 레그 파츠를 먹지 않았을 경우 한정.]
+
+서브 웨폰의 장탄수를 크게 늘리고 싶다면 고려해볼만한 기체. 높은 공격력 덕분에 어지간한 적은 순식간에 녹는다. 특히 [wiki:"파워드 기어/레그 파츠" 트레즈]를 장착했을 때의 대쉬 공격의 파워는 상상을 초월하는 수준. 거기다가 '''유일하게 트레즈를 장착해도 이동 속도가 저하되지 않는다.'''
+
+하지만 공격 속도와 이동 속도가 느리기 때문에 움직임이 빠른 적에게는 약하다. [wiki:"파워드 기어/서브 웨폰" 서브 웨폰]을 사용해 적을 경직시키고, 공격해 들어가는 지혜가 필요.
+
+다만 적게 공격해 많은 데미지를 뽑아내는 파워형 기체라서 그런지, [[스코어링]]에서는 가장 약한 모습을 보여준다.[* 이는 플레이어의 역량 차이라고 볼 수 있겠지만, 모든 기체의 [wiki:"전일"]을 전부 '''かぷこまー''' 혼자서 먹고 있는걸 봐서는 플레이어간의 실력의 차이가 아니라, 해당 기체의 스코어링 능력 차이라고 보는게 타당할듯]
+
+[[각주]]

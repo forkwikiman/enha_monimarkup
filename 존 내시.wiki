@@ -1,0 +1,38 @@
+ * 상위 항목 : [[수학 관련 정보]], [[과학사 관련 정보]]
+
+~~[[내가 고자라니|내가 내시라니]]~~[* 이는 인명에 Nash가 들어가는 사람 모두 해당된다(...). [[내쉬]] 항목 참조.]
+~~수학계의 [[심영(야인시대)|심영]]~~
+
+||<table align=right>|| http://2.bp.blogspot.com/-x4fvqG5xUEE/T6lQwy-4NvI/AAAAAAAACqg/PXqfYdXgD-o/s1600/jon_nash.jpg?width=250 ||
+|| '''이름''' ||John F. Nash||
+|| '''본명''' ||John Forbes Nash Jr.||
+|| '''출생''' ||[[1928년]] 6월 13일 
+[[미국]] [[웨스트 버지니아 주]] 블루필드||
+|| '''국적''' ||[[미국]]||
+|| '''학력''' ||[[카네기 공과 대학]](카네기 멜론 대학교) 수학 학사·석사,
+[[프린스턴 대학교]] 수학 박사||
+|| '''직업''' ||[[수학자]], [[대학]][[교수]]||
+[[목차]]
+== 개요 ==
+[[미국]]의 [[수학자]].
+내쉬 균형이라는 [[게임 이론]]의 초안을 낸 인물로, 이것으로 [[노벨경제학상]]을 받은 바 있다.
+[[밀레니엄 문제]] 중 하나인 [[리만 가설]]을 풀다가 '''[[조현병]]'''을 앓게 된 것은 유명한 일화이며, 이를 토대로 만든 [[전기]] [[영화]]로 [[러셀 크로우]]가 주연을 맡은 [[뷰티풀 마인드]](Beautiful Mind, 2001)가 있다.
+
+== [[리만 가설]]에 도전하다 ==
+{{{#!html
+<object type='application/x-shockwave-flash' id='o5iC3WLz-Us$' width='502px' height='311px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=o5iC3WLz-Us$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=o5iC3WLz-Us$' width='502px' height='311px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+바쁘신 분은 24:40부터 보기를 권한다.
+
+이런저런 이론으로 [[경제학]]에 크게 기여를 했지만, 이와는 별개로 [[리만 가설]]에 대해 연구했었다고 한다. 수학자 본연의 [[정수론]]적 [[떡밥]]인 [[소수]]의 성질과 관련한 문제였기에, 내시는 이를 지나칠 수가 없었다.
+[[그러나 이 사진이|실제로 내시의 연구는 소기의 성과를 낸 듯했고, 강연에서 리만 가설의 증명을 발표하려 했으나...]]
+
+== [[의사양반|선생은 앞으로 수학을 하실 수 없습니다]] ==
+그 동안 내시가 파고 있었던 리만 가설은 정신 상태를 [[개판 5분 전]]으로 만들었고, 결국 내시는 강연장에서 말을 더듬고 [[비정상회담|정상인듯 정상 아닌 정상 같은 것 같은]] 모습을 보였다. 결국 강연은 취소되었고 내시는 충격적인 사실을 접하게 된다.
+
+'''[wiki:"내가 고자라니" 아니, 내가 수학을 못한다고? 내가 조현병이라니!]'''
+
+조현병 발병으로 인해 내시는 수학 관련으로 리타이어해야 했고, 이에 충격을 먹은 뭇 수학자들은 한동안 [[리만 가설]]의 ㄹ자도 꺼내지 못했다고 한다.
+
+== 기타 ==
+네이버 인명사전에서는 존 내쉬로 표기되며, 본 항목도 [[존 내쉬]]로 들어올 수 있다. 다만 이 이름의 어감이 묘하기 때문에 [[존나세|존 나세]]와 엮여서 이름을 [언어유희|말장난]식으로 쓰기도 한다. 존 내쉬의 존내 쉬운 수학(…)이라던가... ~~F*ckin' easy~~

@@ -1,0 +1,142 @@
+[[목차]]
+
+= BB.Colorado 1945 =
+||attachment:네이비필드2/Colorado1945.jpg||
+
+>원래 14" 3연장 함포를 사용할 예정이었으나 Nagato급 전함에 대항하기 위해 16" 함포를 사용하게된 전함으로 미국 전함중에서 연장포탑을 사용한 마지막 함급입니다. 2차대전에서는 주로 상륙작전을 지원하는 임무에서 활약하였습니다. 1944년 개장을 통해 대공방어력이 강화되었습니다.
+
+||<tablewidth=90%><tablealign=center><|4><table align=center><#CCCCCC>기본 정보||||||<#DCDCDC>티어||||<#DCDCDC>7||
+||||||가격||||120,620 --2,991,000--||
+||||||<#DCDCDC>함체 연구 경험치||||<#DCDCDC>122,580 --2,230,000--||
+||||||이전 함선부터 연구 경험치||||139,080 --2,530,000--||
+||<|10><table align=center><#CCCCCC>장비||<|6><table align=center><#BBBBBB>함선 정보||||<#DCDCDC>내구력||||<#DCDCDC>73,235||
+||||속도||||25.8노트||
+||||<#DCDCDC>급 가속 준비시간||||<#DCDCDC>12.0초||
+||||급 가속 유지시간||||2.6초||
+||||<#DCDCDC>전투 수리량||||<#DCDCDC>0.0DP/초||
+||||최대 대공기관총 명중률||||38.5%||
+||<|4><table align=center><#BBBBBB>장갑||||<#DCDCDC>상면||||<#DCDCDC>0||
+||||측면||||0||
+||||<#DCDCDC>방뢰||||<#DCDCDC>0||
+||||방어등급||||6||
+||<|35><table align=center><#CCCCCC>무장||<|11|><table align=center><#BBBBBB>주포||||<#DCDCDC>종류||||<#DCDCDC>16"/45 Mark 1||
+||||구성||||2연장 4기||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>13.7초||
+||||정확도||||D||
+||||<#DCDCDC>최대 사거리||||<#DCDCDC>2,562||
+||||최대 발사각||||30도||
+||||<#DCDCDC>탄약량||||<#DCDCDC>240 (각 함포당 30회 사격분)||
+||<|4><table align=center><#AAAAAA>공격력||탄종||HE||AP||
+||<#DCDCDC>폭발||<#DCDCDC>5,341||<#DCDCDC>1,602||
+||관통||1,602||6,409||
+||<#DCDCDC>대지||<#DCDCDC>2,670||<#DCDCDC>1,068||
+||<|11><table align=center><#BBBBBB>부포1||||종류||||5"/51 Mark 7||
+||||<#DCDCDC>구성||||<#DCDCDC>1연장 8기[* 좌우현 각각 4기씩 배치되어 있다.]||
+||||재장전 시간||||3.6초||
+||||<#DCDCDC>정확도||||<#DCDCDC>C||
+||||최대 사거리||||1,728||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>30도||
+||||탄약량||||640 (각 함포당 80회 사격분)||
+||<|4><table align=center><#AAAAAA>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||499||150||
+||<#DCDCDC>관통||<#DCDCDC>150||<#DCDCDC>599||
+||대지||250||100||
+||<|11><table align=center><#BBBBBB>부포2||||<#DCDCDC>종류||||<#DCDCDC>5"/38 Mark 12||
+||||구성||||1연장 8기[* 좌우현 각각 4기씩 배치되어 있다.]||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>3.6초||
+||||정확도||||C||
+||||<#DCDCDC>최대 사거리||||<#DCDCDC>1,728||
+||||최대 발사각||||85도||
+||||<#DCDCDC>탄약량||||<#DCDCDC>640 (각 함포당 80회 사격분)||
+||<|4><table align=center><#AAAAAA>공격력||탄종||AA||-||
+||<#DCDCDC>폭발||<#DCDCDC>494||<#DCDCDC>-||
+||관통||148||-||
+||<#DCDCDC>대지||<#DCDCDC>247||<#DCDCDC>-||
+||<|2><table align=center><#BBBBBB>거점점령||||부대수||||222||
+||||<#DCDCDC>공격력||||<#DCDCDC>1,020||
+||<|4><table align=center><#CCCCCC>항공기||||||총 적재량||||52||
+||||||<#DCDCDC>동시 이륙가능 수||||<#DCDCDC>1||
+||||||가능한 편대||||1||
+||||||<#DCDCDC>탑재 가능 항공기||||<#DCDCDC>정찰기||
+
+[[각주]]
+
+= 함선 연구 =
+== 주포 ==
+다음 전함인 뉴 멕시코 1945를 연구하기 위해서 반드시 연구해야 하는 항목.
+=== 16인치 2연장 I ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>16"/45 Mark 5 2×4 (HE: 5,341)||
+||||필요 경험치||||120,000||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>180,000||
+||<|11|><table align=center><#CCCCCC>세부 정보||||종류||||16"/45 Mark 5||
+||||<#DCDCDC>구성||||<#DCDCDC>2연장 4기||
+||||재장전 시간||||?초||
+||||<#DCDCDC>정확도||||<#DCDCDC>?||
+||||최대 사거리||||?||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>?도||
+||||탄약량||||?||
+||<|4><table align=center><#BBBBBB>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||5,341||?||
+||<#DCDCDC>관통||<#DCDCDC>?||<#DCDCDC>?||
+||대지||?||?||
+
+=== 16인치 2연장 II ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>16"/45 Mark 5 2×4 (HE: 6,635)||
+||||필요 경험치||||152,670 --160,000--||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>84,680 --2,100,000--||
+||<|11|><table align=center><#CCCCCC>세부 정보||||종류||||16"/45 Mark 5||
+||||<#DCDCDC>구성||||<#DCDCDC>2연장 4기||
+||||재장전 시간||||'''{{{#GREEN 12.47 초}}}'''||
+||||<#DCDCDC>정확도||||<#DCDCDC>'''{{{#RED D}}}'''||
+||||최대 사거리||||2,562 M||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>30도||
+||||탄약량||||240||
+||<|4><table align=center><#BBBBBB>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||'''{{{#GREEN 6,635}}}''' --5,608--||'''{{{#GREEN 1,991}}}''' --1,682--||
+||<#DCDCDC>관통||<#DCDCDC>'''{{{#GREEN 1,991}}}''' --1,682--||<#DCDCDC>'''{{{#GREEN 7,962}}}''' --6,729--||
+||대지||'''{{{#GREEN 3,318}}}''' --2,804--||'''{{{#GREEN 1,327}}}''' --1,122--||
+
+== 부포 ==
+=== 5인치 단장 I ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>5"/38 Mark 12 1×8 (AA: 148)||
+||||필요 경험치||||320,000||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>336,000||
+||<|11|><table align=center><#CCCCCC>세부 정보||||종류||||5"/38 Mark 12||
+||||<#DCDCDC>구성||||<#DCDCDC>1연장 8기||
+||||재장전 시간||||?초||
+||||<#DCDCDC>정확도||||<#DCDCDC>?||
+||||최대 사거리||||?||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>?도||
+||||탄약량||||?||
+||<|4><table align=center><#BBBBBB>공격력||<#DCDCDC>탄종||<#DCDCDC>AA||<#DCDCDC>-||
+||폭발||?||-||
+||<#DCDCDC>관통||<#DCDCDC>?||<#DCDCDC>-||
+||대지||?||-||
+
+== 보일러 ==
+=== 전함 보일러 강화 I ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>함선 급가속 시간: 105%||
+||||필요 경험치||||190,000||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>199,500||
+
+=== 전함 보일러 강화 II ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>함선 급가속 시간: 110%||
+||||필요 경험치||||250,000||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>262,500||
+
+== 엔진 출력 ==
+=== 전함 엔진 출력 증가 I ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>함선 속도: 105%||
+||||필요 경험치||||200,000||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>210,000||
+
+=== 전함 엔진 출력 증가 II ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>함선 속도: 110%||
+||||필요 경험치||||300,000||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>315,000||
+
+== 주포 탄약고 ==
+=== 전함 주포 탄약고 확장 II ===
+||<tablewidth=90%><tablealign=center><|3><table align=center><#CCCCCC>기본 정보||||<#DCDCDC>연구 내용||||<#DCDCDC>함선 주포 포탄 수: +80||
+||||필요 경험치||||300,000||
+||||<#DCDCDC>필요 크레딧||||<#DCDCDC>315,000||

@@ -1,0 +1,58 @@
+[[목차]]
+
+== 개요 ==
+||http://ec2.images-amazon.com/images/I/51BguQbcShL._SL500_AA300_.jpg?width=300||http://ecx.images-amazon.com/images/I/61vl7BXOz%2BL._SL500_AA300_.jpg?width=300||
+|| [[wiki:"나노(우타이테)" ナノ(nano)]] 버전 자켓 || 애니메이션 버전 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/RqOv01WIVXc" frameborder="0" allowfullscreen></iframe>
+}}}
+짧은 PV 영상
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_ve86bmBO44RBVmsoOB44RRV' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=ve86bmBO44RBVmsoOB44RRV&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=ve86bmBO44RBVmsoOB44RRV&playLoc=undefined'></embed></object>
+}}}
+
+[[wiki:"애니메이션/2012년 10월" 애니메이션]] [[BTOOOM!]]의 오프닝 테마곡. 노래는 --[[nano.RIPE]]와는 관계없는-- [[wiki:"나노(우타이테)" ナノ(nano)]]가 불렀다. 두번째 싱글음반으로서 2012년 10월 10일에 발매된 싱글은 오리콘 차트 최고 순위가 11위이다. 니코동에서 유명한 작곡가인 [[kemu]]가 츠카모토 케무라는 명의로 작곡한 프로앨범이기도 하다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>8||
+||<#ffffff><:>노트수||<:>194||<:>432||<:>478||
+||<#ffffff><:>BPM||||||<:>190||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2013/3/1 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임 안에서 쓰는 자켓은 나노 버전 자켓.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/Q0QYbxzpuCE" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+고수들에게는 단순한 8렙이지만 8렙 곡을 위주로 플레이를 하는 사람들이라면 생각보다 힘든 곡이 될 수도 있다. BPM도 190이라 생각보다 빠르다. 특히 주의해야 할 것은 계속해서 나오는 동시치기. 동시치기에 강한 사람은 금방 S 랭크를 찍는 사람이 있는가 하면 동시치기에 약한 사람들은 랭크를 올리기 상당히 어려워한다. 간주 부분에서도 단타와 동시치기가 섞여 나오며, 기습적인 16비트 후에도 동시치기가 나오는 부분이 있어 [[엑설런트]]를 노리기가 생각보다 쉽지만은 않다.
+
+조심해야 할 부분은 45초 경에 나오는 
+
+⑧⑤①口 |①－②－|
+口口⑤④ |③－④－|
+②⑤⑦口 |⑤－⑥－|
+口③⑤⑥ |⑦－⑧－|
+
+④②①④ |－－①－|
+①④④② |－－②－|
+②③③① |－－③－|
+③①②③ |－－④－|
+
+8비트이지만 잘못 하다가는 그대로 콤보가 끊기기 쉽고, 1분 6초 경의
+
+⑧口①口 |－－①－|
+口口⑦⑧ |②③④⑤|
+⑧②③口 |⑥－⑦－|
+⑥④⑤⑦ |－－⑧－|
+
+이 부분에서 16비트 후에 바로 동시치기가 나온다.
+
+저 두 부분이 물론 동시치기는 8비트이지만 BPM이 190이라 생각보다 넘어가는게 빠르다. 주의하자.

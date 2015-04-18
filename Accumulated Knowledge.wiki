@@ -1,0 +1,17 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Accumulated Knowledge''' ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/38025_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {1}{U} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 순간마법 ||
+||||<height=190px>카드 한 장을 뽑은 다음, 무덤에 있는 Accumulated Knowledge의 장수만큼 카드를 뽑는다. 
+
+''"I have seen and heard much here. There are secrets within secrets. Let me show you."
+—Takara, to Eladamri''||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| [[Nemesis]] || 커먼 ||
+
+[[템페스트 블록]]에 나온 [[Kindle]]의 드로우 버전. 쉽게 말해서, 처음 쓰면 한 장 드로, 두 번째 쓰면 두 장 드로, 세 번째를 쓰면 3장 드로, 네 번째를 쓰면 '''4장 드로'''(!)다. 그것도 겨우 2마나에.
+
+[[Intuition]]으로 이거 세 장을 가져오면, 말그대로 컨트롤 덱에서는 핸드가 줄지를 않는다. [[Jace's Ingenuity]]와 똑같은 효과라고 깔 수도 있겠지만, 드로만 해주는 카드 두 장이 서고에서 빠져나가면서 다른 효과를 지닌 카드를 드로할 가능성이 커진다는 건 간과하지 말자. 스탠다드 뿐만이 아니라 익스텐디드에 존재할 때도 꾸준히 활약을 한 카드.

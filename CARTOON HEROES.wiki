@@ -1,0 +1,73 @@
+[[목차]]
+
+== 설명 ==
+http://ecx.images-amazon.com/images/I/41WTMFARRRL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/NBK2BY2uiDI" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+스칸디나비아 출신의 [[가수]] [[wiki:"아쿠아(가수)" AQUA]]의 싱글음반 및 수록곡. 싱글음반은 2000년 2월 1일에 발매되었다. 이 곡은 'Barbie Girl'와 함께 AQUA의 히트에 크게 공헌한 인기곡으로, 이전에 발표했던 'Barbie Girl'만큼은 아니었지만 유럽의 모든 차트를 휩쓸었음은 물론이고 미국을 포함한 전 세계적으로도 큰 인기를 누렸다.
+
+가사는 주로 만화나 애니메이션 속의 영웅을 묘사하였는데, 실제로 유명한 히어로물인 [[슈퍼맨]]과 [[스파이더맨]]이 가사에 등장한다.[* Here comes '''Spiderman''', arachnophobian / Welcome to the toon town party / Here comes '''Superman''', from never-neverland / Welcome to the toon town party] --본 노래에는 [[간접광고]]가 포함되어 있습니다.-- 또한 가사 중 후반부에 'What we do is what you just can`t do'를 포함한 내용에서는 현실과 가상 세계를 혼동하지 말라는 작은 경고도 담겨있다. 아마도 [[초딩]]들이 슈퍼맨 망토를 사 입어서 하늘을 날려고 뛰어내린 걸 의식한 듯.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/3Pae-_6YmXQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+2006년 [[9월 6일]]에 [[대한민국]]의 3인조 그룹 VASIA가 'Love Story'라는 곡으로 번안했는데, 내용은 위의 곡와 많이 다르다. 인지도는... --잠깐 눈물 좀 닦고...-- [[더 이상의 자세한 설명은 생략한다]].(...) 영상은 번안곡이 수록된 [[오디션]]에서의 플레이 영상이다.
+
+== [[BEMANI 시리즈]]에 수록 ==
+=== [[댄스 댄스 레볼루션]] ===
+{{{#!html
+<iframe width="640" height="480" src="//www.youtube.com/embed/nXU42L7DyOA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+댄스 댄스 레볼루션 EXTREME 버전에 판권곡으로 수록되었다. 커버한 아티스트는 Barbie Young. SPEEDY MIX라는 부제가 붙어 있다. 부제 그대로 원곡보다 빨라졌으며, 헤비(=익스퍼트) 난이도가 9라서 당시 DDR에 수록된 판권곡 중에서는 가장 난이도가 높았다. (DDRMAX의 [http://www.youtube.com/watch?v=lqsIXMMk-1Q SO DEEP (PERFECT SPHERE REMIX)]와 함께 EXTREME에 수록된 판권곡 투탑)
+
+EXTREME 이후 버전에서는 삭제되었다.
+
+=== [[유비트 시리즈]] ===
+attachment:6_copious_cartoonheroes.png
+
+
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>6||<:>7||
+||<#000000><:>{{{#white 노트수}}}||<:>136||<:>369||<:>391||
+||<#000000><:>{{{#white BPM}}}||||||<:>128||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#5a5aff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 코피어스]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>copious pack 05||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+커버 보컬 버전으로 수록되었다. 커버한 아티스트 중 여성은 --'''츤데레포 트로트판'''-- [[팝픈뮤직]]의 [[only my railgun]]을 불렀던 사람이다! ([[Sweet Rain]]의 Karin과 동일인물인지는 [[추가바람]])
+
+원곡에서 원래 가사가 'We are the color symphony'인 부분이 여기에서는 'We are the cartoon symphony'로 들린다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/Ka9NVoOWMEk" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면 영상
+
+전체적으로는 레벨7다운 패턴을 보여주고 있는데 기습패턴이 약간 보인다. 가사 중 ''''W'''hat we do is '''w'''hat you '''w'''ish to do' 부분에는...
+
+□□□□
+□□□■
+□□■■
+□■■□
+
+이런 식으로 '''[[W]]'''를 45도 돌린 듯한 노트가 3번씩 나온다. 손배치를 익히지 않으면 콤보를 깨버리니 주의.
+
+마지막 부분에서는 어째서인지...
+
+□■■□
+□■□□
+□■■□
+□■□□
+
+'''[[F]]'''가 등장한다. --그런데 유비트는 [[E]]가 최저잖아?--

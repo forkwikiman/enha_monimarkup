@@ -1,0 +1,221 @@
+ * [[워크래프트]] 시리즈의 빛의 수호자는 [[빛의 수호자 우서]] 항목으로.
+
+|| 이 항목은 영웅의 이름인 [에잘로르]로 검색해도 들어올 수 있다. ||
+
+[[목차]]
+= [[도타 2]]의 [wiki:"도타 2/영웅" 영웅] 빛의 수호자 =
+||<tablewidth=268px>||||||<-100 bgcolor=#257dae> http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b9/Keeper_of_the_Light_icon.png [[br]] '''{{{#white 빛의 수호자}}}''' [[br]] '''{{{#white Keeper of the Light}}}''' ||
+||||||||<#000000>http://hydra-images.cursecdn.com/dota2.gamepedia.com/5/5c/Keeper_of_the_Light.png||
+||||||||<#598307>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/2/2a/Radiant_icon.png/16px-Radiant_icon.png '''{{{#white 래디언트}}}'''  ||
+||||<width=33%><#282828>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/f/f9/Icon_Str.png/32px-Icon_Str.png  [[br]]'''{{{#white 14 + 1.8}}}'''  ||<width=33%><#282828>   http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/b/ba/Icon_Agi.png/32px-Icon_Agi.png  [[br]]'''{{{#white 15 + 1.6}}}'''  ||<width=33%><#282828>  http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/f/f0/Icon_Int_selected.png/32px-Icon_Int_selected.png  [[br]]'''{{{#white 22 + 2.8}}}'''  ||
+
+>[[wiki:"빛의 수호자/대사" '''눈부신 빛이 함께한다!''']]
+
+||<tablewidth=268px>  '''레벨'''  ||  '''1'''  ||  '''16'''  ||  '''25'''  ||
+||<#dcdcdc>  '''체력'''  ||<#dcdcdc>  416  ||<#dcdcdc>  967  ||<#dcdcdc>  1613  ||
+||  '''마나'''  ||  286  ||  858  ||  1417  ||
+||<#dcdcdc>  '''공격력'''  ||<#dcdcdc>  40-54  ||<#dcdcdc>  84-98  ||<#dcdcdc>  127-141  ||
+||  '''방어력'''  ||  1.1  ||  4.74  ||  9.28  ||
+||<#dcdcdc>  '''공격속도'''  ||<#dcdcdc>  0.67  ||<#dcdcdc>  0.82  ||<#dcdcdc>  1.01  ||
+||  '''이동 속도'''  ||<-100><:>  315  ||
+||<#dcdcdc>  '''회전 속도'''  ||<-100><#dcdcdc><:>  0.5  ||
+||  '''시야'''  ||<-100><:>  '''낮/밤'''[[br]]1800/800  ||
+||<#dcdcdc>  '''사정 거리'''  ||<-100><#dcdcdc>  600'''(원거리)'''  ||
+||  '''발사체 속도'''  ||<-100><:>  900  ||
+||<#dcdcdc>  '''공격 딜레이'''  ||<-100><:><#dcdcdc>  '''선+후'''[[br]]0.3+0.85  ||
+||  '''캐스팅 딜레이'''  ||<-100><:>  '''선+후'''[[br]]0.3+2.4  ||
+||<#dcdcdc>  '''기본 공격 속도'''  ||<-100><#dcdcdc>  1.7  ||
+
+||<tablebgcolor=#FFFFFF><-100><#dcdcdc><:> '''역할'''||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/0/01/Pip_roamer.png/24px-Pip_roamer.png ||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/e1/Pip_babysitter.png/24px-Pip_babysitter.png ||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/0/04/Pip_ganker.png/24px-Pip_ganker.png ||
+||<#dcdcdc><:>'''지원'''||<#dcdcdc><:>'''전선 지원'''||<#dcdcdc><:>'''누커'''||
+||<#dcdcdc><:>'''★★'''||<#dcdcdc><:>'''★★'''||<#dcdcdc><:>'''★★'''||
+
+||<tablebgcolor=#FFFFFF><-100><#dcdcdc><:> '''성우'''||
+||http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png||<:> 놀란 노스 ||
+||http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png||<:> [[기영도]][* EBS 1기 성우] ||
+
+||||||||||<tablewidth:50%> 도타 2 출시 / 포팅 순서 ||
+||<:><width=20%>[[미포]] ~~[[미포]] [[미포]] [[미포]] [[미포]]~~||<width=5%> {{{+1 ←}}} ||<:><width=20%>[[닉스 암살자]][[br]]'''빛의 수호자'''[[br]][[비사지]]||<width=5%> {{{+1 → }}} ||<:><width=20%>[[wiki:"나가 사이렌#s-2" 나가 세이렌]]||
+||||||||||<:>[http://blog.dota2.com/2012/07/and-then-there-were-18/ 그리고 거기엔 18명이 있었다(And then there were 18)]||
+== 배경 ==
+||빛의 수호자 에잘로르는 새하얀 말을 타고 영원한 태양의 빛을 발산하며 나타난다. 에잘로르는 아주 오래전, 위대한 태고의 조화로 묶여 있었던 다른 고대의 힘에서 분리되어, 근본의 차원을 빠져나왔다. 그는 우주의 여명 속에서 자아를 형성하여 성장한 힘으로, 눈부시게 빛나는 지팡이에 온 재능을 담고서 [혼돈 기사|자신을 쫓는 혼돈]보다 빠르게 모든 차원을 넘나든다. 에잘로르는 안장에 제대로 앉아 있기도 힘들어 보이는 외모로 본모습을 숨기고 있으나, 혼돈이나 어두운 힘의 위협에 맞닥뜨렸을 때는 태고의 빛을 내뿜으며 온전한 힘을 드러낸다. 그럴 때면 감히 누구도 무시할 수 없는 존재로 탈바꿈한다.||
+
+== 능력 ==
+=== 천상의 빛(Illuminate) Q/T ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_illuminate_hp2.png||<width=20%><:>'''시전 대상'''[[br]]채널링, 지점||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>'''피해 유형'''[[br]]마법||<width=10%><:>[http://www.youtube.com/v/NjozLByuQgU attachment:/avicon.png]||
+||<-100><|2>집중된 빛의 에너지를 내뿜습니다. 집중 시간이 길수록 더 강력한 힘을 모을 수 있습니다. 방출된 빛은 직선상의 적에게 피해를 주며 주위의 시야를 밝힙니다. 시전 시간이 길수록 더 많은 피해를 입힙니다.||
+||||
+||<-100>'''사정거리''' : 1600[[br]]'''효과반경''' : 350(시작) / 1200(이동거리) / 350(종료)[[br]]'''최대 피해량''' : 200 / 300 / 400 / 500||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 10||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 150/160/170/180||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/3/3e/Linken%27s_Sphere_tiny_dull_icon.png||
+||<-100>''에잘로르의 숨은 빛은 놀라운 방식으로 드러납니다.''||
+||<#333333><tablewidth=100%><tablebgcolor="#EFEFEF"><-100><:> '''{{{#White 천상의 빛(영혼 형상)}}}''' ||
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_spirit_form_illuminate_hp2.png||<width=20%><:>'''시전 대상'''[[br]]채널링, 지점||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>'''피해 유형'''[[br]]마법||<width=10%>||
+||<-100><|2>집중된 빛의 에너지를 내뿜습니다. 집중 시간이 길수록 더 강력한 힘을 모을 수 있습니다. 방출된 빛은 직선상의 적에게 피해를 주며 주위의 시야를 밝힙니다. 시전 시간이 길수록 더 많은 피해를 입힙니다.||
+||||
+||<-100>'''사정거리''' : 1600[[br]]'''효과반경''' : 350(시작) / 1200(이동거리) / 350(종료)[[br]]'''최대 피해량''' : 200 / 300 / 400 / 500||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 10||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 150/160/170/180||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/3/3e/Linken%27s_Sphere_tiny_dull_icon.png||
+||<#333333><tablewidth=100%><tablebgcolor="#EFEFEF"><-100><:> '''{{{#White 천상의 빛 발동}}}''' ||
+||<width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_illuminate_end_hp2.png||<width=20%><:>'''시전 대상'''[[br]]없음||<width=30%><:>||<width=30%><:>||<width=10%>||
+||<-100>정신 집중을 일찍 끝냅니다.||
+ * 천상의 빛은 정신 집중하는 동안 목표 지점의 시야를 제공합니다.
+ * 2 / 3 / 4 / 5 초 동안 정신 집중할 수 있으며 매 초당 100의 마법 피해가 추가됩니다.
+ * 공성용 크립에게도 피해를 줄 수 있습니다.
+ * 1900 거리에 있는 적을 맞출 수 있습니다.
+
+~~장풍 도사~~
+
+빛의 수호자가 회장님이라 불리는 이유. 데미지도 좋지만 최대 사거리 역시 죽여주기 때문에 견제를 거의 받지 않고 막타를 챙길 수 있다. 4레벨 능력을 최대 파워로 발사한 뒤, 근접 크립과 공성 크립을 각각 평타 한 대씩이면 쓸어담을 수 있다. 이 때문에 에잘로르의 푸시력은 정말 상상을 초월한다. 무지막지한 화력 덕분에 어설프게 막타를 먹거나 디나이하는 상대의 간담을 서늘하게 해줄 수 있다.
+
+보이지 않는 곳에 숨어있다가 상대를 목표로 발사해 견제할 수도 있지만, 정신 집중을 해야한다는 점을 간과하면 안된다. 한타 때 끝까지 채널링해서 능력을 사용하는 유저들을 많이 볼 수 있는데 아무리 정신이 없어도 5초 동안 가만히 있는 상대를 그냥 내버려 둘 가능성도 없고, 그걸 그냥 맞아줄 가능성도 없으니 적당한 때에 끊자. --[http://www.youtube.com/watch?v=GTTaVropygw&list=PLF50cvv4MhVqiC52WK7AzXOCoq8Kn1vno&index=71 그런데 대놓고 맞아주는 경우가 있다.]-- 채널링 중에 상대방이 공격 범위를 벗어나기 직전에 끊는 게 제일 좋다. 아니면 궁 쓰고 쓰던지.
+
+영혼 형상을 사용하고 천상의 빛을 시전 시 환상이 대신 시전하므로 천상의 빛이 적의 방해로 끊기지 않게 되며, 쓴 후 다른 행동을 할 수 있다.
+단, 환상이 천상의 빛을 시전중일 때 영혼 형상의 지속시간이 끝나면 천상의 빛이 즉시 발사되고 쿨다운도 돌아간다. 남은 시간을 잘 계산하지 않으면 그나마도 쓰기 힘든 공격기술을 허투루 날려버릴 수 있으니 주의.
+
+궁극기를 쓰기 전의 천상의 빛과 쓴 후의 천상의 빛은 별개의 능력으로 취급된다. 그래서 루빅이 변신 상태의 빛의 수호자에게서 천상의 빛을 훔치면 능력이 사라질 때까지 루빅의 분신에게 그것을 시전하도록 할 수 있다. ~~왜 루빅 팁이 여기에~~
+
+아군 라인 상황이 괜찮아 보인다면 잠시 자리를 비워서 정글 쪽을 꾸준히 스택해두면 이걸로 한방에 쓸어담을 수 있다. 물론 제일 좋은건 이것도 캐리한테 먹여주는거지만... 마땅히 할게 없으면 같이 라인에 서서 경험치나 나눠 먹거나 견제하다 막타 뺏어먹는 것보다는 이렇게 분담하는게 효율적이다.
+=== 마나 방출(Mana Leak) W/E ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_mana_leak_hp2.png||<width=20%><:>'''시전 대상'''[[br]]유닛||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/MjZIqs9cQks attachment:/avicon.png]||
+||<-100><|2>적의 마법의 정수를 약화시켜 이동 시 마나를 잃게 합니다. 적이 마나를 모두 잃으면 기절합니다.||
+||||
+||<-100>'''사정거리''' : 550 / 700 / 850 / 1000[[br]]'''지속시간''' : 5 / 6 / 7 / 8[[br]]'''이동거리 100당 감소하는 마나량''' : 최대 마나의 5%[[br]]'''기절 지속시간''' : 1.5 / 2 / 2.5 / 3||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 16||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 75||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b9/Linken%27s_Sphere_tiny_icon.png||
+||<-100>''태초의 조화를 방해하여 나약한 적들에게서 마법의 에너지를 뺏어옵니다.''||
+ * 0.1초 안에 300 거리 이상 이동했을 경우 마나가 소모되지 않습니다.
+ * 마나가 꽉 찬 상태의 적이 마나를 전부 소비하려면 2000의 거리를 이동해야 합니다.
+
+염동력 지팡이로 강제로 이동시키면 상대의 마나가 증발하게 된다. 추노 상황에서 상대 반격 수단을 봉쇄하거나, 라인전에서 상대 마나를 찔끔찔끔 빼놓을 때 쓴다. 마나가 적은 영웅들에게 쓰면 효과적이다. 어차피 백분율 단위로 깎이므로 마나가 꽉 찬 영웅에게도 걸고 보자. 점멸 단검이나 블링크 기반 기술을 가진 영웅에게는 통하지 않으므로 주의할 것.
+
+시전 대사 중 [http://hydra-images.cursecdn.com/dota2.gamepedia.com/e/eb/Keep_manaleak_05.mp3 '''YOU SHALL NOT CAST!''']가 있다. 당연히 [[간달프]]의 '''YOU SHALL NOT PASS!'''의 패러디.
+=== 차크라 마법(Chakra Magic) E/C ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_chakra_magic_hp2.png||<width=20%><:>'''시전 대상'''[[br]]유닛||<width=30%><:>'''효과 대상'''[[br]]아군||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/dSrcNmI_zBM attachment:/avicon.png]||
+||<-100><|2>대상 유닛의 마나를 회복시킵니다.||
+||||
+||<-100>'''시전거리''' : 900[[br]]'''마나 회복량''' : 75 / 150 / 225 / 300||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 19/18/17/16||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 25/35/45/55||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/5/5d/Black_King_Bar_tiny_dull_icon.png||
+||<-100>''한편 에잘로르는 다른 이들에게 조화로운 힘을 부여하기도 합니다.''||
+
+심플하고 강력한 기술. 자신에게든 아군에게든 그야말로 마나를 퍼준다. 마나 관리가 다소 빡빡한 도타2에서 초중반 어마어마한 효율을 보여준다. 쿨은 다소 긴 편이지만 마나 회복량이 장난이 아니라서 빛의 수호자가 사기 소리를 듣게 하는 1등 공신. [[wiki:"벌목꾼"강]][[wiki:"타이니"력]][[wiki:"가면무사"한]] [[wiki:"스벤"능]][[wiki:"오거 마법사"력]]을 가졌지만 마나 때문에 견제와 파밍이 어려웠던 영웅이 에잘로르와 같은 전선에 서면 '''그 전선은 박살난다'''.
+
+다만 마나 관리를 미리해두고 한타를 하는 후반으로 갈 수록 존재감이 없어지는 기술이라는게 흠.
+--사실 천상의 빛도 그렇다.--
+=== 영혼 형상(Spirit Form) R/F ===
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#F04010>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_spirit_form_hp2.png||<width=20%><:>'''시전 대상'''[[br]]없음||<width=30%><:>'''효과 대상'''[[br]]자신||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/g7HXFJSWG98 attachment:/avicon.png]||
+||<-100><|2>에잘로르가 현재 자신의 몸을 광휘로 물들여 다양한 능력을 얻습니다. 천상의 빛은 이제 분리된 영혼이 시전하며 눈부신 빛과 소환 주문을 습득합니다.||
+||||
+||<-100>'''지속시간''' : 40||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 80/70/60||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 100||
+||<-2>||<-2>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/eb/Aghanim%27s_Scepter_small.png/16px-Aghanim%27s_Scepter_small.png 영혼 형상이 영구히 유지되며, 낮일 경우 공중 시야를 갖게 되고, 천상의 빛 피해량의 75%만큼 아군을 회복시킵니다.||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/b/b7/Diffusal_Blade_tiny_dull_icon.png||
+||<-100>''에잘로르는 순식간에 자신의 실체를 드러낼 수 있습니다.''||
+
+지속 시간동안 새로운 능력을 추가해주고 천상의 빛 활용도를 높여주는 궁극기. 사용하면 몸에서 빛이 난다.
+
+아가님을 사면 낮에는 [[발라나|공중 시야가 생기고]], 피해량의 75%만큼 아군에게 힐을준다. 후반에 힘이 쭉 빠지는 에잘로르가 후반에 힐러 역할을 할 수 있다. 또한 궁극기는 영구지속이 되어 아군 소환 셔틀이 가능하다. 그래서 '낮의 추격자', '낮추'라는 별명도 붙었다. ~~하지만 [[밤의 추격자|밤추]]가 궁을 쓴다면 어떨까? [드라군놀이|밤!추!궁!]~~
+==== 소환(Recall) D/R ====
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_recall_hp2.png||<width=20%><:>'''시전 대상'''[[br]]유닛||<width=30%><:>'''효과 대상'''[[br]]아군 영웅||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/gF0ZfzJJKn0 attachment:/avicon.png]||
+||<-100><|2>짧은 시간 후에 아군 영웅을 자신의 위치로 순간이동시킵니다. 만약 그 동안 아군 영웅이 상대 영웅에게 피해를 받으면, 주문이 무효화됩니다.||
+||||
+||<-100>'''시전거리''' : 전역[[br]]'''순간이동 지연시간''' : 5 / 4 / 3||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 15||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 100||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/5/5d/Black_King_Bar_tiny_dull_icon.png||
+||<-100>''빛을 향한 걸음''||
+ * 정신 집중 기술을 방해합니다.
+ * 미니맵에 시전이 가능합니다. 이 때는 해당 지점에서 가장 가까이에 있는 아군에게 적용됩니다.
+ * 방해받을 경우 마나와 쿨다운을 돌려받을 수 없습니다.
+ * 무적 상태의 아군(세이렌의 노래 효과를 받고 있는 아군 등)을 지정할 수 있습니다.
+
+6렙 찍은 빛의 수호자에게 어설프게 갱오면 망하는 이유. 누커가 로밍와서 순식간에 찢기지만 않는다면 역관광을 보여줄 수 있다. [[자연의 예언자]]나 [[악령(도타 2)|악령]] 같은 영웅이 한 팀이라면 1:다수 상황을 순식간에 4:다수로 바꿀 수 있다.
+
+==== 눈부신 빛(Blinding Light) F/B ====
+||<tablewidth=100%><tablebgcolor=#EFEFEF><width=10%><|2><#000000>http://media.steampowered.com/apps/dota2/images/abilities/keeper_of_the_light_blinding_light_hp2.png||<width=20%><:>'''시전 대상'''[[br]]지점||<width=30%><:>'''효과 대상'''[[br]]적||<width=30%><:>||<width=10%><:>[http://www.youtube.com/v/fWCofI864ho attachment:/avicon.png]||
+||<-100><|2>눈부신 빛으로 대상 지역을 밝혀 효과 범위 내에 있는 유닛들을 밀쳐내고 공격이 빗나가게 만듭니다.||
+||||
+||<-100>'''시전거리''' : 900[[br]]'''효과반경''' : 675[[br]]'''빗나갈 확률''' : 80%[[br]]'''지속시간''' : 3 / 4 / 5||
+||<-2><(>||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/d/d5/Cooldown_icon.png 20/16/12||<(>http://hydra-images.cursecdn.com/dota2.gamepedia.com/8/8b/Mana_icon.png 50||
+||<-100><)>http://hydra-images.cursecdn.com/dota2.gamepedia.com/7/79/Black_King_Bar_tiny_icon.png http://hydra-images.cursecdn.com/dota2.gamepedia.com/3/3e/Linken%27s_Sphere_tiny_dull_icon.png||
+||<-100>''원시의 빛이 에잘로르와 그의 동료를 위해 전세를 뒤집습니다.''||
+ * 400의 거리를 0.4초동안 밀쳐냅니다.
+ * 밀쳐진 유닛이 나무와 충돌하면 나무는 파괴됩니다.
+ * 정신 집중 기술을 방해하지 않습니다. [* 포탈이나 저주술사의 궁극기같은 능력을 방해할 수 없다는 뜻.]
+
+상대를 밀어내기에 적의 도주를 막거나 마나 방출을 건 후 강제로 마나를 빼낼 수 있다. 허나 어설프게 쓰면 적을 방생하고 만다. 또한 정신집중 능력을 끊을 수 없다. 밀어내는 거리는 나쁘진 않아 점멸 단검으로 들어오는 어지간한 장판 전투 개시자들을 막을 수 있지만, [[파도사냥꾼]]의 재해는 워낙 범위가 넓어서(...) 막을 수 없다.
+6.83 패치 이후 범위가 상향됬는데 아군을 지키기에 굉장히 용이해졌다. 넓은 범위를 밀어내고 실명 효과도 붙어있어서 특히 블킹 없는 페보를 막기가 굉장히 수월하다. ~~여의봉과 블킹바를 [강요받고 있는 거다!]~~ 근데 이게 무시할 효과가 아닌게 회피율과 '''정확하게 중첩'''되기 때문에, 가령 눈속임이 4렙인 유령자객이 눈부신 빛을 맞은 ~~그러니까 눈갱당한~~ 적에게 맞고 있는다면 (0.2) * (0.5) = 0.1 즉 '''10%의 확률로 평타에 맞는다.''' 가끔 운좋은 빛수는 이 기술때문에 죽을걸 살기도 하고, 살것을 죽기도 한다. 최대한 많이 맞추려고 노력해보자. 팀 전체에게 공짜 나비검을 5초동안 부여하는것과 다름없다.
+== 추천 아이템 ==
+||<tablebgcolor=#000000>||||||||||<-6 bgcolor=#B75E5E>  '''{{{#white 추천 아이템}}}'''  ||
+||<#FFF0F0><:> '''시작''' ||http://media.steampowered.com/apps/dota2/images/items/tango_lg.png||http://media.steampowered.com/apps/dota2/images/items/flask_lg.png||http://media.steampowered.com/apps/dota2/images/items/gauntlets_lg.png||http://media.steampowered.com/apps/dota2/images/items/branches_lg.png||http://media.steampowered.com/apps/dota2/images/items/courier_lg.png||
+||<#FFF0F0><:> '''초반''' ||http://media.steampowered.com/apps/dota2/images/items/boots_lg.png||http://media.steampowered.com/apps/dota2/images/items/magic_stick_lg.png||http://media.steampowered.com/apps/dota2/images/items/bracer_lg.png||http://media.steampowered.com/apps/dota2/images/items/ward_observer_lg.png||
+||<#FFF0F0><:> '''핵심''' ||http://media.steampowered.com/apps/dota2/images/items/tranquil_boots_lg.png||http://media.steampowered.com/apps/dota2/images/items/magic_wand_lg.png||http://media.steampowered.com/apps/dota2/images/items/mekansm_lg.png||http://media.steampowered.com/apps/dota2/images/items/ward_observer_lg.png||
+||<#FFF0F0><|2><:>'''상황별'''||http://media.steampowered.com/apps/dota2/images/items/travel_boots_lg.png||http://media.steampowered.com/apps/dota2/images/items/shivas_guard_lg.png||http://media.steampowered.com/apps/dota2/images/items/rod_of_atos_lg.png||http://media.steampowered.com/apps/dota2/images/items/sheepstick_lg.png||http://media.steampowered.com/apps/dota2/images/items/pipe_lg.png||
+||http://media.steampowered.com/apps/dota2/images/items/cyclone_lg.png||http://media.steampowered.com/apps/dota2/images/items/force_staff_lg.png||http://media.steampowered.com/apps/dota2/images/items/necronomicon_lg.png||http://media.steampowered.com/apps/dota2/images/items/veil_of_discord_lg.png||
+ * '''메칸즘''' : 마나를 채워 줄 수 있는 에잘로르가 체력까지 채울 수 있게 해주는 아이템. 신발 이후에 선템으로 좋다.
+ * '''평온의 장화''' : 보통 지능 서포터들은 신비의 장화를 가는게 일반적 이지만 마나회복 수단이 있고, 피통이 적은 빛의 수호자에게 더 어울리는 아이템. ~~우리 회장님은 똥신에서 바로 여행의 장화 살 수 있지만...~~
+ * '''여행의 장화''' : 아군 소환 능력을 최대한 활용할 때도 유용하며 푸시력이 좋은 빛의 수호자가 공간 창출을 할 때도 필요하다. 어차피 게임 후반이 되면 다들 순간이동 주문서 넣을 자리가 없어서 이걸로 바꿔 치울 운명이다.
+ * '''아가님의 홀''' : 공중 시야로 적보다 시야적 우위를 가지며, 75%의 체력회복, 소환과 눈부신 빛을 자유롭게 사용하고, 천상의 빛 또한 안정적으로 사용 할 수 있게 해준다.
+ * '''네크로노미콘''' : 아군 소환 능력을 가진 빛의 수호자는 혼자서 다른 라인을 전담해서 푸시하는 역할을 많이 맡는데 상대 건물을 철거할 때 매우 유용하다. 그리고 천상의 빛이 워낙 한타 와중에 제대로 맞추기 어려운 기술이라 이 소환수가 빛의 수호자보다 더 잘 싸운다. 3단계까지 올리는데 비용이 많이들지만 다행히 빛회장님은 돈을 잘 번다.
+ * '''바이스의 낫''' : 풍부한 지능 상승량과 3.5초의 매즈를 사용할 수 있게하는 럭셔리 아이템. 보통 서포터들은 여기까지 돈을 모으기 부담스럽지만, 파밍력에서는 도타에서 손꼽히는 회장님에겐 별 무리없이 구할 수 있는 아이템. 다만 이거 뽑겠다고 와드도 안사고 캐리가 먹을 크립까지 싹 긁어먹었다간 욕먹을 각오를 하는 것이 좋다.
+
+== 운영 및 공략 ==
+정글을 뺀 어느 라인에 가도 괜찮고 솔로를 서도 부족함이 없지만, 다른 영웅에게 차크라 마법을 쓸 경우 그 라인에 있는 상대를 못살게 만들 수 있어 서포터로 많이 쓴다. [[환영 창기사]]와 함께 있다면 마나 걱정 없이 영혼의 창을 난사하는 아즈레스와 에잘로르의 천상의 빛 때문에 적이 견디지 못하고 말라 죽게 된다. --[[질병 주식회사]]-- 팀원과의 호흡이 맞는다면 이만한 서포트 영웅도 없을 것이다.
+
+차크라 마법 자체가 마나를 풍부하게 공급하기 때문에 전선을 밀어버릴 때 유리하며, 천상의 빛 자체의 푸쉬 능력도 좋아 전선을 밀어야 할 때 자주 쓰인다.
+
+능력은 천상의 빛과 차크라 마법 위주로 찍지만 천상의 빛은 만렙을 안찍어도 충분히 강력하기에 주로 차크라 마법을 선마하고 그 다음 마나 방출을 찍는다.
+
+초반 레인에서는 아군의 마나를 채워주고 뒤에서 천상의 빛을 장전하여 적을 견제하는 식으로 지원도 가능하고, 천상의 빛으로 돈을 벌었다면 와드를 살 수도 있다. 뿐만 아니라, 상하부 전선에서는 나무 뒤에서 천상의 빛을 장전하여 스스로도 굉장한 화력을 뿜어낼 수 있다.--저격수보다 저격을 잘한다.-- 즉, 전선 장악력이 굉장히 뛰어나다. 하지만 라인에서 닉스 암살자를 만난다면? 닉스의 반사피해에 의해 천상의 빛은 자해용 능력이 되어버린다. 거기에 마나번 때문에 서로의 마나까지 말라버린다. 웬만하면 라인스왑을 하거나 다른 영웅을 픽하는게 낫다.
+
+멍하니 파밍하던 아군 캐리를 소환할 수 있는 리콜까지 보유하고 있어서 천상의 빛만 없으면 완벽한 지원형 영웅인데 천상의 빛 덕에 [[자본주의의 돼지]]로 전락한 영웅. 다행히(??) 다른 기업형 영웅과 다르게 돈을 마구 모아 성장해도 그리 강력하지 않다. 
+
+공방에서 인기가 없고 잘 다루는 사람도 보기 힘들다. 그 이유는 궁극기인 영웅 소환 능력이 너무 사용하기 까다롭기 때문. 어찌보면 이오보다 더 사기 일수 있는 기술이지만 합이 안 맞는 공방에서는 1+1을 유발하는 준트롤링 스킬이 된다. 한번 캐리를 소환했다가 별 이득도 못봐서 캐리가 툴툴대면 누구든지 리콜을 선뜻 쓰기가 꺼려지는건 사실. ~~그냥 공짜tp셔틀이 속편하다~~
+
+다만 라인전과 달리 후반 한타에서는 힘이 쭉 빠지는게 단점. 딜링 기술이 천상의 빛 하나밖에 없다고 해도 과언이 아닌데 이게 빗나가면 빛의 수호자는 말그대로 마나 셔틀과 진형을 잠시 붕괴시키는 것밖에 못하는 잉여가 된다. 궁극기와 연계해서 천상의 빛이 최대한 맞을 수 있도록 조절해야 한다. 그러나 후반에는 천상의 빛도 초반만큼 아주 위협적인 딜링 기술이 되지 못하기에 이래저래 한타 운용이 어려운 편 ~~그러니 천상의 저격으로 상대를 초반에 말려 죽이자.~~
+
+기술 특징상 라인을 크게 밀어버리고 캐리가 먹을 파밍을 방해하기 쉬워서 트라이 레인이 아니라면 시터로서의 역할은 마나 포션 정도 밖에 안 된다. 때문에 프로들은 빛의 수호자를 오프레인으로 보내는 편이다.
+== 치장 아이템 ==
+=== 갑옷 ===
+||<tablealign=center><:>'''아이템 이름
+'''The One Horn||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/e4/Cosmetic_icon_The_One_Horn.png/256px-Cosmetic_icon_The_One_Horn.png||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}'''||
+=== 무기 ===
+||<tablealign=center><:>'''고대의 신비로운 지팡이
+'''Arcane Staff of the Ancients||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/3/3f/Cosmetic_icon_Arcane_Staff_of_the_Ancients.png/256px-Cosmetic_icon_Arcane_Staff_of_the_Ancients.png||
+||<:>'''{{{#d32ce6 전설(Legendary)}}}}'''||
+
+ * 고대의 신비로운 지팡이는 '''일반 공격'''의 그래픽 효과를 변경합니다.[* 원래의 단순한 빛의 구슬이 아닌 구슬이 지나간 자리에 다른 작은 구슬들이 뒤따라가며 날아간다.]
+=== 세트 아이템 ===
+||<tablealign=center><:>'''예언의 상징 세트
+'''Attributes of the Foretold Set||<:>'''신의 권능 예복 세트
+'''Empowered Vestments of the Gods Set||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/6/68/Cosmetic_icon_Attributes_of_the_Foretold_Set.png/256px-Cosmetic_icon_Attributes_of_the_Foretold_Set.png||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/f/f3/Cosmetic_icon_Empowered_Vestments_of_the_Gods_Set.png/256px-Cosmetic_icon_Empowered_Vestments_of_the_Gods_Set.png||
+||<:>'''{{{#8847ff 신화(Mythical)}}}''' 17.99$||<:>'''{{{#8847ff 신화(Mythical)}}}''' 13.99$||
+
+||<tablealign=center><:>'''여명의 빛 세트
+'''Dressings of the First Light Set||
+||<:>http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/e7/Cosmetic_icon_Dressings_of_the_First_Light_Set.png/256px-Cosmetic_icon_Dressings_of_the_First_Light_Set.png||
+||<:>'''{{{#4b69ff 희귀(Rare)}}}''' $||
+== 트리비아 ==
+ * [[도타 올스타즈]] 5.76 버전에 처음 등장. Neichus가 디자인했다. 이후 얼개가 몇몇 사항을 조절했다.
+ * 도타2에 2012년 7월 26일에 [[닉스 암살자]],[[비사지]]와 함께 88,89,90번째로 출시된 영웅이다.
+ * 인간은 아니지만 노인의 모습을 하고 있어서 그런지 노망끼를 종종 보인다. 주문을 외우다가 자기가 뭘 하던 건지 잊어버리던가 자기가 왜 여기 있는지를 잊어버리던가 --치매?!--
+ * [[도타 2]]에서 거의 모든 '''여성체'''를 아군으로 조우할 때 추파를 던진다. 일반적인 여캐는 물론, 흉측한 외모로 변질된 [[메두사(도타 2)|메두사]], 인간 비슷한 존재조차 아닌 [[악령(도타 2)|악령]], 심지어 절지동물인 '''[[거미여왕]]'''에게도 수작을 부린다! ~~이런 변태 영감~~ 그런데 어째서인지 [[죽음의 예언자]]에게만은 추파를 던지지 않는다. ~~허리 아래로 아무것도 없다고 그런 거냐!~~  그리고 군단 사령관은 아예 여자로 쳐주지도 않나보다 ~~내게 도전해라!!~~그리고 [[바람순찰자]]는 영칭이 윈드러너에서 윈드레인저로 바뀌면서 키회장의 조우 대사가 삭제되었다.
+ [http://www.dota2wiki.com/wiki/Keeper_of_the_Light_responses#Meeting_an_Ally 회장님의 아군 조우 대사들]
+ * 이런저런 [[간달프]] 패러디가 많이 들어가 있는 영웅이다. [[도타 올스타즈]] 때에는 펀 네임이 [[간달프]]였다.
+ * 겉보기에는 그냥 인간 마법사처럼 생겼지만 [[혼돈 기사]], [[이오(도타 2)|이오]], [[에니그마(도타 2)|에니그마]]와 함께 4개의 '근본체'(Fundamental)라는 우주급 존재 중 하나이다. 구체적인 내용 자체는 아직 밝혀지지 않았지만, 아마 현대 물리학에서 거론되는 4가지 힘 중 전자기력에 해당되는 것으로 추측된다. 혼돈 기사의 배경 이야기를 보면 빛의 수호자가 멋대로 뛰쳐나가 혼돈 기사가 열심히 찾고 있는 모양. ~~서폿을 하던 에잘로르가 천상의 빛으로 막타를 혼자 다 먹어서 빡친 모양이다~~ 이 네명이 한 팀에 모이면 에니그마가 특수 대사를 말하는데 실제로도 저 넷이 다 모이면 서로의 약점을 전부 보완해줄 수 있어서 꽤 괜찮은 조합이다.  
+ * [[도타 2]]의 튜토리얼에선 [[용기사(도타 2)|용기사]]의 마나를 채워주는 역할로 나온다. ~~다비온과 빛회장의 모험~~
+ * ~~[[에네르기파]]와 [[태양권]]을 쓸 수 있다고 한다. [http://www.youtube.com/watch?v=A7VoYTkCLfc 깁! 미! 마나!]~~
+
+=== [[도타 올스타즈]] ===
+||<tablebgcolor=#000000>http://media.playdota.com/hero/121/icon.JPG||<#dcdcdc><-100><:>'''키퍼 오브 더 라이트'''''Keeper of the Light''[[br]]이젤러''Ezalor''||
+||<-100><#000000><:>http://media.playdota.com/hero/121/character.gif||
+||http://media.playdota.com/hero/121/skill-0.JPG||http://media.playdota.com/hero/121/skill-1.JPG||http://media.playdota.com/hero/121/skill-2.JPG||http://media.playdota.com/hero/121/skill-3.JPG||http://media.playdota.com/hero/121/skill-4.JPG||http://media.playdota.com/hero/121/skill-5.JPG||
+
+||빛과 마나를 다루는 데에 통달한 이젤러는 많은 자들의 좋은 조언자이자 학자였다. 그러나 그는 마법사 전쟁에서 아군을 배신하였고 결국 영혼계로 영원히 추방받는 처벌을 받게 되었다. 후에 스콜지의 학살을 보고만 있을 수 없던 센티널은 결국 이젤러의 힘을 전쟁에 이용하기 위해 그에게 물질계의 육체를 선사했다. 그리하여 이젤러는 그의 비열한 과거를 뒤로 하고 용맹하게 자신의 아군들을 지원하며 자신의 임무를 수행하게 되었다.||
+
+모델은 [[워크래프트]]의 [[아크메이지]]. 변신 시의 모델은 [[안토니다스]]다.

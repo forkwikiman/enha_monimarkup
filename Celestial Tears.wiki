@@ -1,0 +1,29 @@
+||<bgcolor=#E9ECEF>이 항목은 [[셀레스]]로 검색해도 들어올 수 있습니다.||
+[[목차]]
+== 개요 ==
+{{{#!html
+<iframe width="550" height="413" src="http://www.youtube.com/embed/Axfk4iGEfAk" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 || [[DJMAX 온라인]] ||
+|| 장르 || Piano Trance ||
+|| 작곡 || [[Tsukasa]] ||
+|| BPM || 165 ||
+|| BGA || RB ||
+
+약칭은 '''셀레스'''.
+[[DJMAX 온라인]] 서비스 후기에 추가된 Tsukasa의 곡.
+[[Chain of Gravity]]와 같은 멜로딕 트랜스 장르의 곡으로, 피아노 소리를 곡 내내 강조하는 형태의 빠른 곡이다. 시종일관 들판을 질주하는 늑대와 풍차로 압축할 수 있는 BGA가 특징이다.
+== [[DJMAX Trilogy]] ==
+이후 [[DJMAX Trilogy]]에도 수록. 난이도는 곡의 빠르기와 음의 밀도에 비해 높지 않은 편.
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 Wrath 팩 수록곡 ||
+|| [[Xeus]] || '''Celestial Tears''' || [[SQUEEZE]] || [wiki:"For the Ikarus" IKARUS] || [[Right Back]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 || ||
+||<#0000FF> {{{#white HD}}} || 6 || ||
+||<#FF0000> MX || 9 || ||
+
+[[DJMAX RAY]]에도 등장, 아이캐치도 새로 들고 나왔다! MX 패턴이 9레벨이며, 9레벨에서도 상위에 속한다.

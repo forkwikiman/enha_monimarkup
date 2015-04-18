@@ -1,0 +1,70 @@
+||<-5><#b578b5><tablealign=center> '''프로필''' ||
+||<|17> attachment:/Emerald_Factory_Head_Datsura.png?width=180 ||
+||<#b578b5> '''이름''' ||<#dda0dd><-2> 다투라 ||
+||<#b578b5> '''성별''' ||<#dda0dd><-2> [[남성]] ||
+||<#b578b5> '''눈 색깔''' ||<#dda0dd><-2> [[눈/회색|회색]] ||
+||<#b578b5> '''머리 색깔''' ||<#dda0dd><-2> [[머리카락/갈색|갈색]] ||
+||<#b578b5> '''트레이너 계급''' ||<#dda0dd><-2> 팩토리헤드 [[br]]([[프런티어 브레인]]) ||
+||<#b578b5> '''지방''' ||<#dda0dd><-2> [[호연지방]] ||
+||<#b578b5> '''출신지''' ||<#dda0dd><-2> 불명 ||
+||<#b578b5> '''가족관계''' ||<#dda0dd><-2> 불명 ||
+||<#b578b5> '''담당 지역''' ||<#dda0dd><-2> [[배틀 팩토리]] ||
+||<#b578b5> '''심볼''' ||<#dda0dd><-2> [[attachment:/Knowledgesymbolsilver.png]][[attachment:/Knowledgesymbol.png]][[br]] 널릿지 심볼 ||
+||<#b578b5> '''주된 타입''' ||<#dda0dd><-2> 다양 ||
+||<#b578b5> '''데뷔작''' ||<#dda0dd><-2> [[포켓몬스터 에메랄드]] ||
+||<#b578b5> '''세대''' ||<#dda0dd><-2> 3 ||
+||<#b578b5> '''등장 게임''' ||<#dda0dd><-2> [[포켓몬스터 에메랄드|에메랄드]] ||
+||<|2><#b578b5> '''성우''' ||<#dda0dd> [[히야마 노부유키]] ||<#dda0dd> attachment:/20px-Japan_Flag.png ||
+||<#dda0dd><:> [[양석정]] ||<#dda0dd> attachment:/20px-South_Korea_Flag.png ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/프런티어 브레인)]]
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물.
+
+호연 [[배틀프런티어(포켓몬스터)|배틀프런티어]]의 프런티어 브레인으로, 배틀 팩토리의 브레인을 맡고 있다. 직함은 '팩토리 헤드(ファクトリーヘッド)'. 이 팩토리 헤드는 [[수철]]과 같은 직함인데, 정발판에서 수철의 직함이 팩토리 책임자로 번역되었다.
+
+주인공이 일정 수 이상의 승수를 올리면 주인공을 안내해주고 있던 직원에게 긴급 연락을 하고는 다짜고짜 찾아와 배틀을 한다. 이때의 모습은 정말로 직원을 갈구는 공장장 같은 느낌. 지식을 강조하는 배틀 팩토리의 책임자지만, 단순한 탁상 지식만으로는 안된다는 점을 강조하는 대사를 한다.
+
+딱히 사용하는 포켓몬조차 정해져있지 않고, 정말로 렌탈 포켓몬 리스트에서 랜덤으로 뽑아 배틀을 하기 때문에 안그래도 출연이 적은 프런티어 브레인 중에서도 특히 개성을 내기가 어려운 면이 있다.
+
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed> * 배틀 팩토리 BGM
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile8.uf.tistory.com/media/2741054C539F85BA258E40"></object>}}}
+
+ * 전투! 프런티어 브레인
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile30.uf.tistory.com/media/263FF74352713B8608EB48"></object>}}}||
+
+=== 삽화 ===
+||<-2><#b578b5><tablealign=center> 스프라이트 ||
+|| attachment:/Spr_E_Noland.png || attachment:/Noland_OD.png ||
+|| 트레이너 || 필드 ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#b578b5"><:> 언어 || 이름 || 유래 ||
+|| 일본어 || 다츠라 ダツラ || 식물의 일종인 다투라(Datura)에서. ||
+|| 한국어 || 다투라 || 일본과 동일. ||
+|| 영어 || 놀런드 Noland || 지식이라는 뜻의 knowledge에서. ||
+
+= 소유 포켓몬 =
+ * 소유 멤버는 정해진 구성 없이 랜덤으로 결정.
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 애니메이션 시리즈]]에서 ==
+attachment:/Datsura_anime.jpg
+
+[[포켓몬스터 AG]] 135화에 등장. [[프리져]]를 사용해 [[한지우]]의 [[리자몽]]과 대결을 펼쳐 리자몽의 날개를 얼려 격추직전으로 몰아가는 등의 활약을 펼쳤으나 리자몽의 뒤늦은 각성으로 인해 패배한다.

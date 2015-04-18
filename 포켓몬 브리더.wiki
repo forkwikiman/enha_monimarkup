@@ -1,0 +1,39 @@
+ * [[포켓몬스터/등장인물/트레이너]]
+
+||<tablealign=center> http://i.imgur.com/sTOszYy.png || http://i.imgur.com/xBnI8Xk.png ||
+||<#dcdcdc><-2> 포켓몬스터 오메가루비·알파사파이어의 남녀 포켓몬 브리더 ||
+
+[[목차]]
+
+= 개요 =
+[[포켓몬스터]] 시리즈의 트레이너 계급.
+
+3세대 시리즈부터 등장하기 시작한 [[포켓몬 트레이너]]의 일종. 어린 포켓몬을 키워주는 직업이다. 약한 포켓몬을 전문적으로 다루고 있고 그래서인지 소지한 포켓몬의 머릿수도 많은 편이다. 주로 [[키우미집]] 근처에서 만날 수 있으며 6세대 포켓몬스터 X·Y에선 이들이 직접 키우미집의 운영을 담당하고 있다. 한편 애니메이션에서도 자주 볼 수 있는 포켓몬 트레이너이기도 하다. [[wiki:"웅(포켓몬스터)/애니메이션" 웅]]이나 [[진철]]의 형인 진환이 바로 이들 중 하나. 한국판 애니메이션에서는 포켓몬 매니저라고 불린다.
+
+== 그외 ==
+=== 기타 ===
+ * 3세대 시리즈 중 루비·사파이어, 에메랄드에선 남녀 모두 등장하지만 파이어레드·리프그린에선 여성만 등장한다.
+
+ * 에메랄드에선 [[wiki:"배틀프런티어(포켓몬스터)" 배틀프런티어]]에 있는 포켓몬 브리더가 [[개체치]]를 판정해주고 있다. 다만 예전에 많은 포켓몬을 키웠다는 것이고 지금은 브리더의 모습이 아닌 늙은 할아버지의 모습을 하고 있다.
+
+ * 블랙·화이트 2에선 모든 브리더들이 '강하게 키우려면 싸워서 훈련시키는게 최고'라고 주장하며 한번 승부를 한 뒤에도 또 눈이 마주치면 무한정으로 재대결이 가능하다. 재대결할 때마다 경험치도 주고 돈도 적은 양이나마 꼬박꼬박 주기 때문에 노가다에 이용할 수도 있긴 하지만, 말을 걸어서 재대결이 아니라 처음 싸울때처럼 강제 대결이라 하이링크 미션 진행중에 만나거나 노력치 노가다 하려고 이동하는 중에 마주치게 되면 욕이 절로 튀어나온다. 이로 인한 유저들의 스트레스를 막기위해 모두 시야가 좁아서 길 구석으로 이동하면 플레이어를 인식하지 않는다.~~어쨌든 생각없이 걸으면 마주친다는게 문제~~
+
+ * X·Y에서는 [[체육관 관장]] [[코르니]]를 이긴 후 [[칼로스지방]] 12번도로로 가면 그곳에 있는 포켓몬 브리더로부터 [[라프라스]]를 받을 수 있다.
+
+ * 칼로스지방 [[땅이음의 동굴]]에는 트레이너가 단 한명 밖에 없는데, [[피카츄]]를 사용하는 [[wiki:"오오타니 이쿠에" 이쿠에]]라는 이름의  [http://blog.naver.com/dukincn/140204126406 여성 포켓몬 브리더가 있다. (일본판의 경우)]
+
+=== 모습 ===
+==== 남성 ====
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> 루비·사파이어/에메랄드 || DP 디아루가·펄기아/Pt 기라티나 || 블랙·화이트 || 블랙·화이트 2 || X·Y || 오메가루비·알파사파이어 ||
+|| attachment:/Pokemon_Breeder_RSE_m.png || attachment:/Pokemon_Breeder_DPP_m.png || attachment:/Pokemon_Breeder_BW_m.png || attachment:/Pokemon_Breeder_BW2_m.gif || attachment:/Pokemon_Breeder_XY_m.png?width=150 || http://i.imgur.com/sTOszYy.png?width=150 ||
+
+==== 여성 ====
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> 루비·사파이어/에메랄드 || 파이어레드·리프그린 || DP 디아루가·펄기아/Pt 기라티나 || 블랙·화이트 || 블랙·화이트 2 || X·Y || 오메가루비·알파사파이어 ||
+|| attachment:/Pokemon_Breeder_RSE_f.png || attachment:/Pokemon_Breeder_FRLG.png || attachment:/Pokemon_Breeder_DPP_f.png || attachment:/Pokemon_Breeder_BW_f.png || attachment:/Pokemon_Breeder_BW2_f.gif || attachment:/Pokemon_Breeder_XY_f.png?width=150 || http://i.imgur.com/xBnI8Xk.png?width=150 ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> 언어 || 명칭 ||
+|| 일본어 || 포켓몬 브리더 ポケモンブリーダー ||
+|| 한국어 || 포켓몬 브리더 ||
+|| 영어 || 포켓몬 브리더 Pokémon Breeder ||
+

@@ -1,0 +1,91 @@
+|||||||||| [[Minus 시리즈]] ||
+||<:>[[Minus 1]] [[BR]] ([[EZ2DJ 1st]])  ||<:>[[Minus 1 ~Space Mix~]] [[BR]] ([[EZ2Dancer]] 1st) ||<:>'''Minus 2''' [[BR]] ([[EZ2DJ 3rd]]) ||<:>[[Minus 3]] ([[DMP2]]) ||<:>[[Minus 4]] ([[C9]]) ||
+
+[[목차]]
+|| 장르 |||||||| Death Techno ||
+|| 곡명 |||||||| Minus 2 ||
+|| 작곡 |||||||| [[CROOVE]] ||
+|| 배경 |||||||| [wiki:"Lassoft" LASSOFT] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 3rd]] ||
+|| BPM |||||||| 157 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 12}}} || {{{#purple 15}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red 15}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 15}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+ *라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ *[wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='6FuhJikf5A0$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=6FuhJikf5A0$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=6FuhJikf5A0$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~]] '''BGA'''
+
+== 개요 ==
+[[Minus 1]]의 정식 후속곡. 3rd부터 등장했다. [[Minus 시리즈]]의 EZ2DJ 내에서 마지막 곡이다.
+
+이 곡의 BGA는 EZ2DJ의 BGA 중에서 최고 명작으로 일컬어 지기도 하는데, 속도감이 일품이다. 
+
+== 패턴 ==
+3rd에서 이 곡을 대표하는 것은 8비트 발판으로, 새로은 발판 압박의 길을 제시했다. 5키의 하드, 클럽믹스에서 볼수 있는데, 발판을 고장내는 주범으로 당시 오락실 주인들이 싫어했다.[* 물론 요즘에는 이보다 더한 곡도 많아서 딱히 이곡만 가지고 발판 고장이 나는 것은 아니다.] 그리고 8비트 페달 이후에 나오는 1자 연타도 이 곡의 특징이라 할 수 있다. 처음엔 일정한 리듬으로 전개되다가 나중엔 리듬이 불규칙해져 정신을 차리지 않으면 대량 미스, 페일이 나기 쉽다.
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+EV에서 5키 NM, HD의 난이도가 각각 1단계씩 상승하여, 현재는 NM 9 - HD 10이 되었다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+7th 1.5 라디오 믹스에서 Trick&Trap채널, Ryunan2008 채널에서 새로운 패턴이 등장했다.
+
+만약 5키 Trick & Trap 채널에서 스크래치 오토 옵션을 걸고 플레이했다면, 화장실이 급하면 2스테이지 마투차례에서 잠시 다녀와도 좋다. 스크래치만 나오는 패턴으로, 버튼과 페달은 '''단 한 개도''' 나오지 않는다.
+
+4th 하드랜덤 채널에선 이 곡의 판정이 지나치게 좋아지는 버그가 있었다.
+=== 7K COURSE ===
+7키 Track&Trap에선 왠지 5키 하드 패턴이 들어가있고, 클리어 퍼센테이지도 기묘했다. 결국 2.0 버전에선 [[Mystic Dream 9903]]이 그 자리를 뺏어버렸다.
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+캐치 모드에서는 레벨 15로, 그야말로 과일 폭탄. 5개가 넘는 노트가 동시에 묶여서 떨어진다. 당황해서 마구 비비다보면 폭사하기 쉽지만, 멜로디에 맞춰서 좌우로 딱딱 비비기만 하면 다 받아지는지라...물렙으로 평가되는 경우가 많다. 다만 최후반구간은 닥비비기 패턴이니 주의하자.
+=== TURNTABLE ===
+턴테이블 모드에서는 레벨 10으로, 최후반의 간접미스를 유발시키는 패턴이 산재해있기때문에 그부분만 넘기면 클리어가 가능하다. 웬만하면 그전까지 풀피를 만들어놓는 것이 좋다.
+
+== 패러디 ==
+2003년 당시 유행하던 [[달러 멘디]]의 [[Tunak Tunak Tun]]과의 [[매시업]]이 있었다. 제작자는 훗날 EZ2DJ 시리즈에 [[A Final Dreaming]]이라는 곡을 발표한 [[creent]]. 지금은 원본이 짤려서 듣기 힘들다.
+
+누군가가 플래시영상으로도 제작했었다. 다만 출처나 매시업 제작자에 따른 잡음이 좀 있었다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/6zjuIpG9uOA?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/6zjuIpG9uOA?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[http://cfile30.uf.tistory.com/media/2543DF4B542D61B22848CE #원본]
+
+== [[EZ2ON]]에서 ==
+EZ2DJ보다 더 어려운 난이도로 조정되었는데, 7key 슈퍼하드를 바탕으로 슈퍼하드 채보를 제작해 4key SHD 16,5key SHD 17,6key HD 및 8Key 18의 극악곡이 되었다.
+
+|| 해금 레벨[* 숫자는 곡 자체/SHD(8키)] |||||||||| 21/23 ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) ||  ||  ||  || 16 || - ||
+|| 스트릿(5키) ||  ||  ||  || 17 || - ||
+|| 클럽(6키/8키) || 13? || 16 || 18 || - || 18 ||
+
+== 제작자들의 코멘트 ==
+3rd 당시 운영되었던 공식 홈페이지에 있었던 제작자들의 곡 소개이다.
+
+||곡: CROOVE
+전작의 Minus1은 만들었던 제목과는 다른 분위기로 제작 하였고, 이번에는 제목의 뜻 대로 제작을 해 보고자 한 곡입니다. 
+제목의 뜻은 지옥 2층이란 뜻으로 Ez2dj 2nd Trax 개발 때에 느꼈던 지옥 같은 상황의 느낌을 표현 해 보았습니다. 
+Minus 1의 후속작으로 같은 분위기를 기대하셨던 분에게는 아쉬운 곡일지도 모르겠습니다.
+
+영상: LASSOFT
+이전 곡인 'Minus 1'이 바이러스 침투를 묘사한 것을 참고로 해서, 비록 음악의 분위기가 다르지만 비슷한 소재를 넣어보았습니다. 
+네트워크 세상에서 탄생한 디지털 생물체 중 최고의 범죄 집단인 'virtual chaos'가 움직인다! 이런 식의 이야기입니다. 
+남녀 주인공은 virtual chaos의 두 멤버인 'Jet the Thunder Gate'와 'Tina the Sexy Bomber'로 개인적인 취향에 따라 그려넣었습니다.
+
+채보: CROOVE
+패턴도 되도록 이면 지옥을 표현하려고 했지만 200억의 아성에는 미치지 못했습니다. 
+[* Ez2Dj 시리즈에서는 그랬으나, EZ2On에서는 전반적으로 200억보다는 어려운 편이다.] 그것의 아성을 뛰어넘었다면 Ez2dj 3rd Trax는 누구나 무서워하는 괴물 게임이 되고 말았을지도 모릅니다.||

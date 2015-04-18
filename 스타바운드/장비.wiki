@@ -1,0 +1,1038 @@
+*상위 항목 : [스타바운드]
+*관련 항목 : [스타바운드/패션]
+
+[[목차]]
+
+== 개요 ==
+[스타바운드]의 장비를 서술하는 항목. 패션에 대해선 [스타바운드/패션|해당 항목]참고.
+
+||<table align=right>||http://starbounder.org/mediawiki/images/2/2c/Inventory_Armor.pngwidth=220||
+장비는 헬멧,상의 하의,가방 4부분으로 구분되며 각 파츠의 능력은 다음과 같이 분류된다.
+
+ *헬멧 : 에너지 용량, 방어력, 체온유지력
+ *상의 : 체력, 방어력, 체온유지력
+ *하의 : 에너지재생력, 방어력, 체온유지력
+ *가방 : 장비에 따른 약간의 능력
+
+방어구의 능력치는 다음과 같다.
+||http://starbounder.org/mediawiki/images/4/44/Health_Icon.png||체력 : 총 체력이 증가한다.||
+||http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png||방어력 : 받는 데미지를 줄인다.||
+||http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png||체온유지력 : 이 수치가 높으면 추운 행성에서 체온잃는 속도를 늦추거나 유지되도록 할 수 있다.||
+||http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png||에너지재생력 : 에너지가 재생되는 속도가 증가한다.||
+||http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png||에너지용량 : 총 에너지가 증가한다.||
+
+인벤토리창의 장비착용슬롯 옆 눈 모양의 착용슬롯은 
+장비의 외형만 반영하는 공간으로 능력치는 적용되지 않는다.[* 단, 외형에 의해 이펙트가 발생하는 일부 가방류 방어구는 외형칸에 넣어도 그 이펙트가 나온다.]
+
+
+== 공용 갑옷 ==
+
+=== 세트 장비 ===
+어느 종족이든 만들 수 있는 갑옷으로 모습도 똑같다.
+구리와 은, 금, 백금 갑옷은 티어 4 까지의 종족 갑옷을 만들때 필요로 하기때문에 일반적인 플레이라면 금이나 백금갑옷 정도는 만들어둘 필요가 있다.
+
+ * 설원 보병 장비(Snow Infantry Set)
+||<|2>http://starbounder.org/mediawiki/images/0/07/Snow_Infantry_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png ||  http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 10
+하의 0||헬멧 1
+상의 2
+하의 2||헬멧 29
+상의 48
+하의 19||헬멧 0
+상의 0
+하의 0||헬멧 5
+상의 0
+하의 0||
+ '''방직기(Yarn Spinner)'''에서 '''가죽(Leather)'''으로 만드는 갑옷으로 초기때는 웬만한 갑옷보다 더 튼튼한 방어력으로 스타바운드 유저들의 필수 장비였으나 현재는 방어력이 일반옷 보다 조금 높은 수준으로 크게 하향당했다. 체온유지수치를 크게 높여주고 에너지 재생력도 가장 높기때문에 [* 화난 코알라 버전 기준으로 설원 보병 장비보다 에너지 재생력이 높은 장비는 '''없다'''.] 추운 행성에 대비해 상위를 만들어 초반에 입는것이 보통이였지만 지금은 활자체의 효율도 크게 떨어져서 그냥 추운 행성에 안가는게 보통이다.(...) [[스타워즈]]에 등장하는 [[호스]]행성의 [[저항 연합|반란군]]복장의 패러디이다.
+
+
+ * 구리 갑옷(Copper Armor)
+||<|2>http://starbounder.org/mediawiki/images/d/d0/Copper_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 8
+하의 0||헬멧 2
+상의 4
+하의 2||헬멧 1
+상의 1
+하의 1||헬멧 0
+상의 0
+하의 0||헬멧 8
+상의 0
+하의 0||
+ '''철 모루(Iron Anvil)'''에서 '''구리 주괴(copper Bar)'''로 만드는 갑옷.
+ 처음부터 청사진이 언락되어있다. 티어 1 종족 갑옷 제작에 필요하다.
+
+ * 은 갑옷(Silver Armor)
+||<|2>http://static4.wikia.nocookie.net/__cb20131208185320/starboundgame/images/thumb/9/9d/Avian-Male-Silver-Armor.png/44px-Avian-Male-Silver-Armor.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 25
+하의  0||헬멧 7
+상의 11
+하의 5||헬멧 1
+상의 3
+하의 1||헬멧 0
+상의 0
+하의 0||헬멧 25
+상의 0
+하의 0||
+ '''금속작업대(Metalwork Station)''' 에서 '''은 주괴(Silver Bar)'''로 만드는 갑옷.
+ 티어 2를 언락하면 청사진이 언락된다. 티어 2 종족 갑옷 제작에 필요하다.
+
+ * 금 갑옷(Gold Armor)
+||<|2>http://static2.wikia.nocookie.net/__cb20131208185260/starboundgame/images/thumb/a/a4/Avian-Male-Gold-Armor.png/44px-Avian-Male-Gold-Armor.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 53
+하의 0||헬멧 13
+상의 21
+하의 9||헬멧 1
+상의 1
+하의 1||헬멧 0
+상의 0
+하의 1||헬멧 53
+상의 0
+하의 0||
+
+ '''금속작업대(Metalwork Station)''' 에서 '''금 주괴(Gold Bar)'''로 만드는 갑옷.
+ 티어 3를 언락하면 청사진이 언락된다. 티어 3 종족 갑옷 제작에 필요하다.
+
+ * 임시변통 갑옷(Makeshift Set)
+||<|2>http://starbounder.org/mediawiki/images/b/b3/Makeshift_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 85
+하의  0||헬멧 21.25
+상의 36.25
+하의 14.5||헬멧 1
+상의 1
+하의 1||헬멧 0
+상의 0
+하의 0||헬멧 30
+상의 0
+하의 0||
+
+ '''금속작업대(Metalwork Station)'''에서 '''강철 주괴(Steel Bar)'''와 '''물질 블럭(Matter Block)'''을 이용해 만들 수 있다.
+ 티어 4에 청사진이 언락되는 갑옷인데 안그래도 백금갑옷이 티어4에서 티어5로 상승됫는데다가 물질 블럭이 글리치 연구소에 위치한 이를 만들어내는 기구[* 작동시 1회한정으로 만 만든다. 거기다 만들어지는 양도 얼마안되서 몇군데를 더 찾아야된다. 물론 찾는다고 해서 이기구가 반드시 존재하는것도 아니다.]를 통해서면 구할 수 있기때문에 스팩 상승의 텀이 생긴다. 난이도를 높이는 주요 원인중 하나. 그래도 만들면 든든하다.
+
+ * 백금 갑옷(Platinum Armor)
+||<|2>http://starbounder.org/mediawiki/images/2/2e/Platinum_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 118
+하의 0||헬멧 33
+상의 55
+하의 22||헬멧 1
+상의 1
+하의 1||헬멧 0
+상의 0
+하의 1||헬멧 118
+상의 0
+하의 0||
+
+ '''금속작업대(Metalwork Station)''' 에서 '''백금 주괴(Platinum Bar)'''로 만드는 갑옷.
+ 티어 5에서 언락되며 그만큼의 성능을 자랑하는 갑옷
+
+=== 개별 장비 ===
+
+== 종족 갑옷 ==
+종족별로 만들 수 있는 갑옷이 다르며 티어마다 하나씩 존재한다.
+현재는 구현되어있지 않지만 종족별 주요 특성은 갑옷 세트 효과로 흡수될 것이라고 한다.
+다른 종족의 방어구는 청사진을 구입해 제작할 수 있으며 착용에 제한이 없지만, 청사진의 상점등록 여부가 무작위라서 구하기가 어렵다.
+~~근데 종족마다 갑옷 능력치가 다 똑같은거같은데..~~
+=== Human ===
+ * 티어 1 Scavenger 세트
+||<|2>http://starbounder.org/mediawiki/images/f/fa/Scavenger_Set.png || http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 15
+하의 0||헬멧 4.5
+상의 7.5
+하의 3||헬멧 1
+상의 2.5
+하의 1||헬멧 0
+상의 0
+하의 0.15||헬멧 15
+상의 0
+하의 0||
+
+ * 티어 2 Scout 세트
+||<|2>http://starbounder.org/mediawiki/images/5/51/Scout_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 35
+하의 0||헬멧 9
+상의 15
+하의 6||헬멧 4.5
+상의 7.5
+하의 3||헬멧 0
+상의 0
+하의 0.35||헬멧 35
+상의 0
+하의 0||
+
+ * 티어 3 Pioneer 세트
+||<|2>http://starbounder.org/mediawiki/images/8/86/Pioneer_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 75
+하의 0||헬멧 16.5
+상의 27.5
+하의 11||헬멧 7.5
+상의 12.5
+하의 5||헬멧 0
+상의 0
+하의 0.7||헬멧 70
+상의 0
+하의 0||
+ 
+ * 티어 4 Outrider 세트
+||<|2>http://starbounder.org/mediawiki/images/2/23/Outrider_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 100
+하의 0||헬멧 27
+상의 45
+하의 18||헬멧 10.5
+상의 17.5
+하의 7||헬멧 0
+상의 0
+하의 1||헬멧 100
+상의 0
+하의 0||
+~~밀덕세트1~~ Furious Koala 업데이트 후 USCM 병사들은 이 장비가 아닌 별도의 현대식 군장을 착용한다.
+ * 티어 5 Vanguard 세트
+||<|2>http://starbounder.org/mediawiki/images/f/f8/Vanguard_Armor.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 135
+하의 0||헬멧 37
+상의 65
+하의 26||헬멧 13.5
+상의 22.5
+하의 9||헬멧 0
+상의 0
+하의 1.35||헬멧 135
+상의 0
+하의 0||
+~~밀덕세트2~~
+ * 티어 6 Seeker 세트
+||<|2>http://starbounder.org/mediawiki/images/d/db/Seeker_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 175
+하의 0||헬멧 54
+상의 90
+하의 36||헬멧 16.5
+상의 27.5
+하의 11||헬멧 0
+상의 0
+하의 1.75||헬멧 175
+상의 0
+하의 0||
+
+ * 티어 7 Wanderer 세트
+||<|2>http://starbounder.org/mediawiki/images/a/ab/Wanderer_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 220
+하의 0||헬멧 72
+상의 120
+하의 48||헬멧 19.5
+상의 32.5
+하의 13||헬멧 0
+상의 0
+하의 2.2||헬멧 220
+상의 0
+하의 0||
+
+ * 티어 8 Adventurer 세트
+||<|2>http://starbounder.org/mediawiki/images/4/4b/Adventurer_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 270
+하의 0||헬멧 96
+상의 160
+하의 64||헬멧 22.5
+상의 37.5
+하의 15||헬멧 0
+상의 0
+하의 2.7||헬멧 270
+상의 0
+하의 0||
+
+ * 티어 9 Trailblazer 세트
+||<|2>http://starbounder.org/mediawiki/images/8/89/Trailbrazer_Armor.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 330
+하의 0||헬멧 120
+상의 200
+하의 80||헬멧 22.5
+상의 42.5
+하의 17||헬멧 0
+상의 0
+하의 3.3||헬멧 330
+상의 0
+하의 0||
+
+ * 티어 10 Universalist 세트
+||<|2>http://starbounder.org/mediawiki/images/4/43/Universalist_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 400
+하의 0||헬멧 150
+상의 250
+하의 100||헬멧 28.5
+상의 47.5
+하의 19||헬멧 0
+상의 0
+하의 4||헬멧 400
+상의 0
+하의 0||
+ ~~묘하게 [[RIG]]가 생각난다.~~
+=== Avian ===
+ * 티어 1 Hatchling 세트
+||<|2>http://starbounder.org/mediawiki/images/4/4a/Hatchling%27s_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 2 Sparrow 세트
+||<|2>http://starbounder.org/mediawiki/images/a/ae/Sparrow_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 3 Quail 세트
+||<|2>http://starbounder.org/mediawiki/images/a/af/Quail_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 4 Owl 세트
+||<|2>http://starbounder.org/mediawiki/images/d/d6/Owl_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 5 Toucan 세트
+||<|2>http://starbounder.org/mediawiki/images/e/e6/Toucan_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 6 Macaw 세트
+||<|2>http://starbounder.org/mediawiki/images/0/07/Macaw_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 7 Peacock 세트
+||<|2>http://starbounder.org/mediawiki/images/b/b9/Peacock_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 8 Flamingo 세트
+||<|2>http://starbounder.org/mediawiki/images/9/96/Flamingo_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 9 Pheonix 세트
+||<|2>http://starbounder.org/mediawiki/images/a/ac/Phoenix_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 10 Raven 세트
+||<|2>http://starbounder.org/mediawiki/images/3/30/Raven%27s_Set.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+=== Floran ===
+ * 티어 1 Sprout 세트
+||<|2>http://starbounder.org/mediawiki/images/3/33/Sprout%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 2 Bonesmith 세트
+||<|2>http://starbounder.org/mediawiki/images/9/92/Bonesmith%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 3 Nomad 세트
+||<|2>http://starbounder.org/mediawiki/images/b/b7/Nomad%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 70
+하의 0||헬멧 17
+상의 28
+하의 11||헬멧 8
+상의 13
+하의 5||헬멧 0
+상의 0
+하의 1||헬멧 70
+상의 0
+하의 0||
+
+ * 티어 4 Hunter 세트
+||<|2>http://starbounder.org/mediawiki/images/8/85/Hunter%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 100
+하의 0||헬멧 27
+상의45
+하의 18||헬멧 11
+상의 18
+하의 7||헬멧 0
+상의 0
+하의 1||헬멧 100
+상의 0
+하의 0||
+
+ * 티어 5 Cannibal 세트
+||<|2>http://starbounder.org/mediawiki/images/d/d8/Cannibals_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 135
+하의 0||헬멧 39
+상의 65
+하의 26||헬멧 14
+상의 23
+하의 9||헬멧 0
+상의 0
+하의 1||헬멧 135
+상의 0
+하의 0||
+
+ * 티어 6 Wiseman 세트
+||<|2>http://starbounder.org/mediawiki/images/0/02/Wiseman%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 7 Gatherer 세트
+||<|2>http://starbounder.org/mediawiki/images/1/1a/Gatherer%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 8 Sentinel 세트
+||<|2>http://starbounder.org/mediawiki/images/d/d3/Sentinel%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 9 Shaman 세트
+||<|2>http://starbounder.org/mediawiki/images/9/93/Shaman%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 10 Synthesizer 세트
+||<|2>http://starbounder.org/mediawiki/images/2/2d/Synthesizer%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 400
+하의 0||헬멧 150
+상의 250
+하의 100||헬멧 29
+상의 48
+하의 19||헬멧 0
+상의 0
+하의 4||헬멧 400
+상의 0
+하의 0||
+
+=== Apex ===
+ * 티어 1 Defector 세트
+||<|2>http://starbounder.org/mediawiki/images/2/28/Defector_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 2 Rebel 세트
+||<|2>http://starbounder.org/mediawiki/images/3/37/Rebel_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 3 Insurgent 세트
+||<|2>http://starbounder.org/mediawiki/images/f/f1/Insurgent_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 4 Revolutionary 세트
+||<|2>http://starbounder.org/mediawiki/images/5/5a/Revolutionary_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 5 Rogue 세트
+||<|2>http://starbounder.org/mediawiki/images/a/a4/Rogue_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 6 Spy 세트
+||<|2>http://starbounder.org/mediawiki/images/e/e4/Spy_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 7 Assassin 세트
+||<|2>http://starbounder.org/mediawiki/images/9/98/Assassin_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 8 Frontliner 세트
+||<|2>http://starbounder.org/mediawiki/images/7/7a/Frontliner_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 9 Infiltrator 세트
+||<|2>http://starbounder.org/mediawiki/images/d/d7/Infiltrator_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 10 Usurper 세트
+||<|2>http://starbounder.org/mediawiki/images/9/9a/Usurper_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+=== Hylotl ===
+ * 티어 1 Puddle 세트
+||<|2>http://starbounder.org/mediawiki/images/0/00/Puddle_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 15
+하의 0||헬멧 5
+상의 8
+하의 3||헬멧 1
+상의 3
+하의 1||헬멧 0
+상의 0
+하의 0||헬멧 15
+상의 0
+하의 0||
+
+ * 티어 2 Pond 세트
+||<|2>http://starbounder.org/mediawiki/images/8/80/Pond_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 35
+하의 0||헬멧 9
+상의 15
+하의 15||헬멧 5
+상의 8
+하의 3||헬멧 0
+상의 0
+하의 0||헬멧 35
+상의 0
+하의 0||
+
+ * 티어 3 River 세트
+||<|2>http://starbounder.org/mediawiki/images/c/cc/River_set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 70
+하의 0||헬멧 17
+상의 28
+하의 11||헬멧 8
+상의 13
+하의 5||헬멧 0
+상의 0
+하의 1||헬멧 70
+상의 0
+하의 0||
+
+ * 티어 4 Lake 세트
+||<|2>http://starbounder.org/mediawiki/images/f/fe/Lake_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 100
+하의 0||헬멧 27
+상의 45
+하의 18||헬멧 11
+상의 18
+하의 7||헬멧 0
+상의 0
+하의 1||헬멧 100
+상의 0
+하의 0||
+
+ * 티어 5 Reef 세트
+||<|2>http://starbounder.org/mediawiki/images/2/22/Reef_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 135
+하의 0||헬멧 39
+상의 65
+하의 26||헬멧 14
+상의 23
+하의 9||헬멧 0
+상의 0
+하의 1||헬멧 135
+상의 0
+하의 0||
+
+ * 티어 6 Sea 세트
+||<|2>http://starbounder.org/mediawiki/images/d/d5/Sea_set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 175
+하의 0||헬멧 54
+상의 90
+하의 36||헬멧 17
+상의 28
+하의 11||헬멧 0
+상의 0
+하의 2||헬멧 175
+상의 0
+하의 0||
+
+ * 티어 7 Ocean 세트
+||<|2>http://starbounder.org/mediawiki/images/d/dc/Ocean_Set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 220
+하의 0||헬멧 72
+상의 120
+하의 48||헬멧 20
+상의 33
+하의 13||헬멧 0
+상의 0
+하의 2||헬멧 220
+상의 0
+하의 0||
+
+ * 티어 8 Euphotic 세트
+||<|2>http://starbounder.org/mediawiki/images/d/d0/Euphotic_set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 270
+하의 0||헬멧 96
+상의 160
+하의 64||헬멧 23
+상의 38
+하의 15||헬멧 0
+상의 0
+하의 3||헬멧 270
+상의 0
+하의 0||
+
+ * 티어 9 Disphotic 세트
+||<|2>http://starbounder.org/mediawiki/images/e/ee/Disphotic_set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 330
+하의 0||헬멧 120
+상의 200
+하의 80||헬멧 26
+상의 43
+하의 17||헬멧 0
+상의 0
+하의 3||헬멧 330
+상의 0
+하의 0||
+
+ * 티어 10 Aphotic 세트
+||<|2>http://starbounder.org/mediawiki/images/f/fd/Aphotic_set.png|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png || 
+||헬멧 0
+상의 400
+하의 0||헬멧 150
+상의 250
+하의 100||헬멧 29
+상의 48
+하의 19||헬멧 0
+상의 0
+하의 4||헬멧 400
+상의 0
+하의 0||
+~~[[마스터 이]]?~~
+~~[[스플린터 셀]]이잖아 이거~~
+=== Glitch ===
+ * 티어 1 Knave 세트
+||<|2>http://starbounder.org/mediawiki/images/d/d9/Knave%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 15
+하의 0||헬멧 5
+상의 8
+하의 3||헬멧 1
+상의 3
+하의 1||헬멧 15
+상의 0
+하의 0||헬멧 0
+상의 0
+하의 0||
+
+ * 티어 2 Soldier 세트
+||<|2>http://starbounder.org/mediawiki/images/4/4d/Soldier%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 35
+하의 0||헬멧 9
+상의 15
+하의 6||헬멧 5
+상의 8
+하의 3||헬멧 35
+상의 0
+하의 0||헬멧 0
+상의 0
+하의 0||
+
+ * 티어 3 Knight 세트
+||<|2>http://starbounder.org/mediawiki/images/f/fa/Knight%27s_Armor.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧 0
+상의 70
+하의 0||헬멧 17
+상의 28
+하의 11||헬멧 8
+상의 13
+하의 5||헬멧 70
+상의 0
+하의 0||헬멧 0
+상의 0
+하의 1||
+
+ * 티어 4 Dark Knight 세트
+||<|2>http://starbounder.org/mediawiki/images/2/2c/Dark_Knight%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 5 Lancer 세트
+||<|2>http://starbounder.org/mediawiki/images/2/2e/Lancer%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 6 Crusader 세트
+||<|2>http://starbounder.org/mediawiki/images/a/a9/Crusader%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 7 Paladin 세트
+||<|2>http://starbounder.org/mediawiki/images/5/5d/Paladin%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 8 Templar 세트
+||<|2>http://starbounder.org/mediawiki/images/d/da/Glitch_Templar_Armor.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 9 Legionnaire 세트
+||<|2>http://starbounder.org/mediawiki/images/e/e2/Legionnaire%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+
+ * 티어 10 Doom Lord 세트
+||<|2>http://starbounder.org/mediawiki/images/f/f7/Doom_Lord%27s_Set.png
+|| http://starbounder.org/mediawiki/images/4/44/Health_Icon.png || http://starbounder.org/mediawiki/images/c/c8/Armor_Icon.png || http://starbounder.org/mediawiki/images/2/28/Warmth_Icon.png || http://starbounder.org/mediawiki/images/6/63/Energy_Regen_Icon.png || http://starbounder.org/mediawiki/images/4/48/Energy_Increase_Icon.png ||
+||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||헬멧
+상의
+하의||
+=== Novakid ===
+
+== 가방 ==
+제작으로 만들 수 있는 가방장비
+
+ * 생명유지장치(Survival System)
+||http://starbounder.org/mediawiki/images/b/b5/Survival_System.png||This backpack creates a breathable field of oxygen around the wearer.||
+'''기계 장치 제작 탁자(Robotic Crafting Table)'''에서 '''듀라스틸 주괴(Durasteel Bar)'''  20개, '''픽셀''' 1000로 만들 수 있다.
+
+청사진은 일찍 언락되지만 재료때문에 티어 4까지는 올라가야 비로소 제작이 가능하다.
+착용하면 위성이나 소행성, 혹은 물속에서 산소게이지가 줄지 않게 되어서 위성과 소행성 탐사를 위해 필수적인 장비.
+특히 소행성지대는 온갖 광물의 보고이기 때문에 만들 수 있게 되면 바로 만들어주는게 좋다.
+
+ * 등불 막대(Lantern Stick)
+||http://starbounder.org/mediawiki/images/1/14/Lantern_Stick.png||A lantern on a stick.
+It's bright. Wear it on your back!||
+'''나무 제작 탁자(Wooden Crafting Table)'''에서 '''픽셀''' 50, '''미가공 나무(Unrefined Wood)''' 10개, '''철 주괴(Iron Bar)''' 5로 만들 수 있다.
+
+주변을 밝히는 광원효과를 가진 가방형 장비. 등에 메는 아이템 중에서는 비교적 초반에 쉽게 제작 가능한데다가 굳이 채광하다 손전등으로 바꿀 필요도 없기 때문에 공기가 없는 곳이 아니고서야 후반까지도 많이 쓰게 될 물건. 다만 횃불이나 손전등보다 덜 밝은게 흠.
+
+
+
+

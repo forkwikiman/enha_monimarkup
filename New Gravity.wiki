@@ -1,0 +1,71 @@
+[[목차]]
+
+== 개요 ==
+attachment:new_gravity.jpg
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[Starving Trancer]].
+
+이전까지 주로 합작([[Ryu☆]]의 합작인 [[Another Infinity]] 명의나 [[L.E.D.]], [[모리나가 마유미]]와의 합작)을 통해 BEMANI 시리즈에 곡을 제공한 것과는 다르게, 이 곡에서 단독명의로 오리지널 곡을 제공하였다.
+
+익스텐드 버전은 Xceon 명의의 앨범 1집인 '[[罪と罰]]'에 수록되었다.
+
+== [[댄스 댄스 레볼루션]] ==
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple 14}}} ||
+||<|3> 154 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 6}}} || {{{#red 9}}} || {{{#green 12}}} || {{{#purple 14}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+||<#eeeeee>
+처음 뵙겠습니다. Starving Trancer(줄여서 스타트라)입니다.
+여러분들께는 지금까지, Another Infinity, HHH×MM×ST같은 이름으로 만난 적이 있을지도 모르겠네요. ＾－＾－＾－＾－＾
+이번 곡 New Gravity='새로운 중력'이라는 의미의 타이틀입니다만, 플레이어 여러분을 끌어당기는 듯한 'New Gravity'가 된다면 굉장히 기쁩니다.
+'스타트라'라고 하는 트위터도 하고 있기에 부디 감상을 들려주세요. ＾－＾－＾－＾
+
+(Starving Trancer)
+||
+
+[[Dance Dance Revolution(2013)]]에 첫 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/ac8rQmDV4MM" frameborder="0" allowfullscreen></iframe>
+}}}
+ESP+DSP+BSP 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/xxLQqg1p6KE" frameborder="0" allowfullscreen></iframe>
+}}}
+CSP+CDP 영상
+
+2013년 10월 31일부터 11월 25일까지 [[코나미 아케이드 챔피언쉽/2013|KAC 2013]]에 등록한 플레이어에게 CHALLENGE 보면이 해금되었다.
+
+== [[유비트 시리즈]] ==
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>9||
+||<#000000><:>{{{#white 노트수}}}||<:>247||<:>507||<:>555||
+||<#000000><:>{{{#white BPM}}}||||||<:>154||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>saucer pack 18||
+||<#002040><:>{{{#white Android}}}||||||<:>saucer pack 18||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * キミを引き込むボクの'''魅力'''[* 굵은 글씨는 칭호 파츠.](그대를 끌어들이는 나의 매력) : 모든 보면 클리어
+  * 超新感覚刺激的'''浮遊'''体験(초 신감각 자극적 부유체험) : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+[[Triple Journey]] 이벤트로 이식수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/pL7QzGptFLk" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+EXT 패턴의 난이도가 꽤 만만치 않다. 9렙인데도 555개 밖에 안되는 적은 노트가 스코어링에 압박을 주고 패턴 조차도 상하가 자주 나오거나 특히 갑작스럽게 나오는 폭타들이 몇군데 있어서 아차하는 순간 점수가 훅 깎여나가기 쉽다.

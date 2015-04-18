@@ -1,0 +1,117 @@
+ * 이 항목은 'REVOLUTION'으로 들어올 수 있다.
+
+[[목차]]
+== [[TЁЯRA]]의 앨범 ==
+=== 개요 ===
+||||<#330000><:>{{{#white '''RЁVOLUTIΦN'''}}} ||
+|||| http://www.konami.jp/products/bemani_lc1364/images/lc1364.jpg ||
+|| 아티스트 || [[TЁЯRA]] ||
+|| 발매일 || 2005년 3월 11일 ||
+|| 구성 || 2CD, 15(14+1)곡 ||
+
+2005년도에 나온 TЁЯRA의 첫 앨범. 다만 동명의 곡은 수록되어 있지 않고, 발매 당시의 TЁЯRA의 곡 중 몇몇 곡을 수록한 앨범이다. [[NAOKI]]나 [[jun]]의 곡 중에서 TЁЯRA 명의로 나오지 않은 곡도 셀프 커버가 되었다. (예를 들어 [[BeForU]]의 곡인 ever snow라든가)
+
+=== 트랙 리스트 ===
+||<table align=center><#330000><:>{{{#white '''트랙'''}}} ||<#330000><:>{{{#white '''제목'''}}}||<#330000><:>{{{#white '''비고'''}}} ||
+|||||| 1 CD ||
+|| 01 || WE ARE[[BR]](Album version) || [[기타프릭스·드럼매니아]] 수록곡 ||
+|| 02 || [[ever snow]] || [[댄스 댄스 레볼루션]] 수록곡[[BR]][[BeForU]]의 멤버 코마츠 요마가 부른 곡을 jun이 커버[[BR]]DDR HOTTEST PARTY 4에 수록, 아케이드엔 X3 vs 2ndMix에 이식 ||
+|| 03 || STARS☆☆☆ || [[팝픈뮤직]] 수록곡 ||
+|| 04 || 夢幻ノ光 || [[팝픈뮤직]] 수록곡 ||
+|| 05 || ULTiMΛTE || [[beatmania IIDX]] 수록곡 ||
+|| 06 || 『termination』 || [[기타프릭스·드럼매니아]] 수록곡[[BR]]원곡은 '今井優子 with NM' 명의이며, 이마이 유코가 부른 곡을 jun이 커버 ||
+|| 07 || [[蒼い衝動]][[BR]]～SF cyborg TRANCE MIX～[[BR]]Remixed by [[후지모리 소타|Sota Fujimori]] || [[beatmania IIDX]] 수록곡[[BR]][[쿠니타케 미유키]]가 부른 곡을 jun이 커버 ||
+|| 08 || RaspberryHeart || [[팝픈뮤직]] 수록곡[[BR]]jun명의 ||
+|| 09 || 1/6billionth || [[ee'MALL]] 곡 ||
+|| 10 || North Wind || [[팝픈뮤직]] 수록곡 ||
+|| 11 || BABY,BABY GIMME YOUR LOVE[[BR]](Cyber Electronica R＋B Mix) || [[beatmania]] 수록곡[[BR]]NAOKI 명의 ||
+|| 12 || DoLL || [[beatmania IIDX]] 수록곡 ||
+|| 13 || 聖なる鐘が、鳴り響く街 || ||
+|| 14 || ESCAPE TO THE SKY★彡[[BR]](Album version) || [[기타프릭스·드럼매니아]] 수록곡 ||
+|||||| 2 CD ||
+|| 01 || Dance Dance Revolution feat. TЁЯRA NON STOP MEGAMIX || 1 CD의 수록곡들을 [[댄스 댄스 레볼루션]] OST의 논스탑 메가믹스처럼 리믹스 한 트랙 ||
+
+== [[BEMANI 시리즈]]의 수록곡 ==
+=== 개요 ===
+attachment:revolution_song_jacket.png
+
+[[TЁЯRA]]의 곡이다. [[소몰이창법]]으로도 유명한 곡. (워~워~워~워~) 다만 한국의 [[SG워너비]] 스타일 소몰이창법은 아니다(...)
+
+동명의 앨범이 나온 뒤에 나온 곡이라서, RЁVOLUTIΦN 앨범 수록곡은 아니고, 먼 훗날 나온 [[ЁVOLUTIΦN]] 앨범에 풀버전이 수록되었다.
+
+==== [[BGA]] ====
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/ru7a_cJh4wo" frameborder="0" allowfullscreen></iframe>
+}}}
+전용 BGA 영상
+
+BGA는 [[beatmania IIDX 1st style|기판도 바꾸고 했으니 실사 BGA]]를 채용. [[레고]]로 만든 스톱모션 애니메이션이다.
+
+=== [[기타프릭스·드럼매니아]] ===
+||<-2><#FF5050><:>'''{{{#yellow GuitarFreaks V4 & DrumMania V4 Rock×Rock Extra Rush}}}''' ||
+||<#FFA500> EXTRA 1 || '''[[MODEL FT2 Miracle Version]]''' ||
+||<#FFA500> EXTRA 2 || '''RЁVOLUTIΦN''' ||
+||<#FFA500> EXTRA 3 || '''[[Zigzag Life]]''' ||
+||<#FFA500> EXTRA 4 / ENCORE 1 || '''[[極東史記]]''' ||
+||<#FFA500> EXTRA 5 / ENCORE 2 || '''[[Slang]]''' ||
+||<#FFA500> EXTRA 6 / ENCORE 3 || '''[[PRIME LIGHT]]''' ||
+||<#082567> {{{#white ENCORE 4 / PREMIUM ENCORE 1}}} || '''[[MODEL DD 시리즈#s-8|MODEL DD8]]''' ||
+||<#FF0000> '''PREMIUM ENCORE 2''' || '''[[一網打尽]]''' ||
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 202 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 39}}} || {{{#orange 57}}} || {{{#red 76}}} ||
+|| 기타 오픈픽 || {{{#green 40}}} || {{{#orange 58}}} || {{{#red 78}}} ||
+|| 기타 베이스 || {{{#green 24}}} || {{{#orange 42}}} || {{{#red 50}}} ||
+|| 드럼매니아 || {{{#green 30}}} || {{{#orange 61}}} || {{{#red 78}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 202 ||<|2><:> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 4.90}}} || {{{#orange 6.20}}} || {{{#red 7.10}}} ||
+|| 기타 베이스 || {{{#blue 3.20}}} || {{{#orange 5.40}}} || {{{#red 6.80}}} ||
+|| 드럼매니아 || {{{#blue 3.85}}} || {{{#orange 5.40}}} || {{{#red 7.45}}} ||
+
+기타드럼 시리즈에 수록된 TЁЯRA 곡 중에서 '''유일하게''' 엑스트라 스테이지(V4 엑스트라 레벨 1)가 된 곡. 
+
+드럼매니아에서는 특별한 엇박이 나오지는 않지만, 중간중간에 섞여나오는 연타라든가 후반부에 [[Funky sonic World]] 비슷하게 나오는 부분 때문에 제법 체력을 요구하는 곡 중 하나다. 다만 어드밴스드까지는 완전 정박곡이기 때문에 어드밴스드 한정으로 앙코르 스테이지 소환 제물이 된 곡. V4 당시에 엑스트라 스테이지에 있었던 것과 맞물려서 V4때 부동의 히트차트 1위였다.
+참고로 한국에서는 기타와 드럼 모두 다 [[엑설런트]]가 나오지 않은 곡이기도 하다. 기타 베이스쪽에선 1그레이트가 2명.
+
+==== 코멘트 ====
+>이 곡은 처음부터 끝까지 클라이막스다~!! 그런 느낌으로, V4의 부제목이 ROCK×ROCK 인 것도 있어, 내 안에 있는 락의 느낌을 이 곡으로 제법 발휘했습니다.
+>처음부터 끝까지 클라이막스이니까, 부디 재미있게 즐겨 주세요.
+
+=== [[댄스 댄스 레볼루션]] ===
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#green 14}}} || {{{#purple 17}}} ||
+||<|3><:> 202|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 7}}} || {{{#red 11}}} || {{{#green 14}}} || {{{#purple 17}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+2013년 8월 18일 [[Triple Journey]] 이벤트로 이식되었다. 이 곡을 해금한 후 [[Dance Dance Revolution]]을 플레이하면 DDR EXTREME 시절의 BGA가 부활한다. 그런데, 가끔 가다가 BGA가 중간부터 다른 곡으로 바뀌는 버그가 있다고 알려져 있다. [[http://www.nicovideo.jp/watch/sm21676705 버그 영상]][* 1:53부터 [[女々しくて]] → [[only my railgun]] → [[ΔMAX]] 순으로 바뀐다. 마지막에 풀 콤보 이펙트와 함께 573이라는 숫자가 대문짝만하게 화면에 나오는 장면은 필견(...). 싱글 EXPERT로 버그가 걸렸다면 후술하듯이 완벽한 싱크로를 자랑한다.]
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/yMjZCszVfOk" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 플레이 영상(CHALLENGE 제외)
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/gBqBagT3xxo" frameborder="0" allowfullscreen></iframe>
+}}}
+더블 플레이 영상(CHALLENGE 제외)
+
+싱글 EXPERT는 노트가 573개로 14레벨에서 노트가 많은 편이며, 달리는 패턴이 많아서 체력이 많이 필요한 곡이다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/WwMcttofKmA" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글, 더블 CHALLENGE 영상
+
+2013년 10월 1일부로 챌린지 난이도가 추가되었는데 싱글 더블 모두 DDR 보컬곡 최고 난이도를 갱신했다.
+
+[[각주]]

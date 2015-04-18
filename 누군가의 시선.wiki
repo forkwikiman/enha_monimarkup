@@ -1,0 +1,24 @@
+{{{#!html
+<P style="TEXT-ALIGN: center"><span class="imageblock" style="display:inline-block;width:750px;;height:auto"><span dir="http://cfile5.uf.tistory.com/original/2137ED3A52720F9604B890" rel="lightbox" target="_blank"><img src="http://cfile5.uf.tistory.com/image/2137ED3A52720F9604B890"  height="418" width="750"/></span></span></P>
+}}}
+[[목차]]
+
+= 소개 =
+노무라 부동산의 홍보물로 제작된 신카이 마코토의 [[단편영화]]. 퀄리티가 높아 일본에서 [언어의 정원]을 상영할 때 동시에 상영되기도 했다. 고양이 미상의 입장에서 딸과 아버지가 자라가면서 겪는 마음상태의 변화를 자연스럽게 그렸으며, 신카이 마코토 작품 특유의 따뜻한 분위기로 전체적인 내용을 아름답게 묘사하여 호평을 얻었다.
+
+= 출연진 = 
+미상(내레이션) : [[히라노 후미]]
+오카무라 아야 : [[하나무라 사토미]]
+오카무라 히로시 : [[오가와 신지]]
+각본, 감독 : [[신카이 마코토]]
+
+= 작품 보기 =
+원본영상 (작품의 앞뒤에 노무라 부동산의 홍보 영상이 재생된다.)
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/zX3DP33ynBA" frameborder="0" allowfullscreen></iframe>
+}}}
+
+자막영상
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/AOMBPyOlFSE" frameborder="0" allowfullscreen></iframe>
+}}}

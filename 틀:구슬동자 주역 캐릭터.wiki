@@ -1,0 +1,3 @@
+Describe ["틀:구슬동자 주역 캐릭터"] here
+||<-5><tablealign=center> '''[[구슬동자]]의 주역 캐릭터''' ||
+||<:><#FFFFFF>[[화이트봉]]||<:><#0000FF>[[블루봉| <font color=white> 블루봉]]||<:><#FF0000>[[레드봉| <font color=white> 레드봉]]||<:><#FFFF00>[[옐로우봉| <font color=black> 옐로우봉]]||<:><#000000>[[블랙봉| <font color=white> 블랙봉]]||

@@ -1,0 +1,58 @@
+ * 상위 항목 : [[아메리카]], [[카리브]], [[군사력]] , [[군사]], [[군사 관련 정보]]
+ * 참고 항목 : [[북아메리카]], [[중앙아메리카]], [[남아메리카]]
+
+||||||||<tablealign="center"><#018EA7> '''[[카리브]]해 지역의 군대''' ||
+||||||||<tablealign="center"><#68D4DA> '''대(大)앤틸리스 제도''' ||
+||<#C8E9EF> [[도미니카 공화국군]] ||<#C8E9EF> [[아이티군]] ||<#C8E9EF> [[자메이카군]] ||<#C8E9EF> [[쿠바군]] ||
+||||<#C8E9EF> 케이맨 제도([영국군]) ||||<#C8E9EF> 푸에르토 리코([미군]) ||
+
+http://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Jamaicadefenceforce.jpg/200px-Jamaicadefenceforce.jpg
+Jamaica Defence Force. JDF. [자메이카]의 군대이다.
+
+[[목차]]
+== 역사 ==
+[영국군] 소속이었던 서인도연대에서 기원한다. 서인도연대의 1대대는 [제2차 세계대전] 당시에 자메이카 연대로 분리되었고 2대대는 1대대가 되었다가 [트리니다드 토바고군]의 육군이 된다. 1795년부터 1926년까지 서인도연대는 [영국]의 경찰력을 지원하기도 했다.
+
+2007년 기준으로 상비군은 2,830명이며 예비군은 953명 수준이다. 2007년 기준으로 예산은 3100만 달러 수준을 [GDP 대비 국방비]는 0.7% 수준이었다.
+== 수뇌부 ==
+영국의 국왕이 [국가원수]이지만 실제로 군에서 의미는 없고 국방장관[* 사실상 총리가 겸직] 과 국방참모총장(Chief of Defence Staff)이 주된 수뇌부이다. 섬나라이지만 1962년부터 2007년까지 있던 참모총장 9명 중 2명을 빼면 육군 출신이었고 2008년 생긴 국방참모총장은 2명 다 육군 소장이 맡고 있다.
+
+|| 국방장관 || 국방참모총장 ||
+|| http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Portia_Miller_Shoot.Jpeg/220px-Portia_Miller_Shoot.Jpeg || http://www.jdfmil.org/info/bios/officer/images/maj_anderson.jpg ||
+|| 포르티아 심슨밀러 총리 || 앤소니 앤더슨 소장 ||
+
+군 규모가 작은 관계로 [장관급 장교]는 국방참모총장인 소장과 국방참모차장인 준장이 전부이다. 중령급 지휘관까지 [http://www.jdfmil.org/info/bios/officer/bio_officer_home.php 홈페이지]에서 소개하고 있다.
+== 군종 ==
+보병연대(육군)와 비행단, 해안경비대로 구성되며 예비군과 지원기술대가 있다.
+=== 육군 ===
+보병연대는 3개 대대로 구성되는데 3대대는 예비군이다. 개인화기는 [M16]을 쓴다.
+
+http://i.imgur.com/sQcuQan.jpg
+전투복이 바뀌기 전 [한국군]과 비슷하다.
+
+http://i.imgur.com/WL3uoFh.jpg
+부대경연대회 같은 데 뭔가 이상하다.
+=== 비행단 ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jamaican_Defence_Force_roundel.svg/220px-Jamaican_Defence_Force_roundel.svg.png
+비행대와 훈련대, 지원대와 예비군 비행단으로 구성된다. [세스나] 한 기와 [BN-2] 한 기, [DA-40] 4기, 헬기로 [Bell] 일곱 기 등을 운용하고 있다. 인원은 140명 수준.
+=== 해안경비대 ===
+해양근무대와 지원대로 나뉜다. [앤티가 바부다군]이 해안경비대를 운용할 때 소령급을 앤티가 바부다군 해안경비대 사령관으로 파견하기도 했다. 인원은 190명 수준. 그런데 [소장]을 배출했다.
+== 계급 ==
+|| 계급 || 해안경비대 || 해안경비대 외 ||
+|| 소장 || Rear Admiral || Major General ||
+|| 준장 || Commodore || Brigadier ||
+|| 대령 || Captain(N) || Colonel ||
+|| 중령 || Commander || Lieutenant Colonel ||
+|| 소령 || Lieutenant Commander || Major ||
+|| 대위 || Lieutenant(sg) || Captain ||
+|| 중위 || Lieutenant(jg) || Lieutenant ||
+|| 소위 || Sub Lieutenant || 2nd Lieutenant ||
+|| 원사|| Master Chief Petty Officer 1 || Warrant Officer 1 ||
+|| 상사 || Master Chief Petty Officer 2 || Warrant Officer Class 2 ||
+|| 중사 || Chief Petty Officer || Colour Sergeant/Staff Sergeant ||
+|| 하사 || Petty Officer || Sergeant ||
+|| 병장 || Leading Seaman || Corporal ||
+|| 상병 || Able Seaman || Lance Corporal ||
+|| 일병 || Ordinary Seaman || Private ||
+
+Warrant Officer지만 [준위]가 아니라 부사관이다. 영국계의 특성이다. [장교]의 경우 [영국]이나 [캐나다]에서 훈련하며 부사관이 진급할 때도 영국이나 캐나다에 보내 교육시킨다.

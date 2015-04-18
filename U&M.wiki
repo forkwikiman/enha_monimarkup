@@ -1,0 +1,52 @@
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡가는 emon.
+
+== 가사 ==
+||<#eeeeee>
+君の手がいつも　温かいのはなぜ 
+だけどどうして　心は震えてるの
+
+携帯取り出して　しばらくソワソワして 
+何もなかったような　素振りだけが 
+わかんないよ
+
+曖昧にしないでよ　ボクの目をちゃんと見て 
+好き　好き　って抱きしめて 
+さあ　抱きしめて
+
+ボクと君のメロディ　奏でるこの空の下 
+明日も晴れるかな
+
+晴れたらいいな
+||
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/6pEm-qA6qUw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/03_02_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/03_02_2.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/03_02_3.jpg?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 05}}} || {{{#ff009f 08}}} ||
+|| 체인 수 || '''{{{#purple 0431}}}''' || '''{{{#orange 0397}}}''' || {{{#ff009f 0695}}} ||
+|| 일러스트 담당 || {{{#purple まかろに}}} || {{{#orange まかろに}}} || {{{#ff009f まかろに}}} ||
+|| 이펙터 || {{{#purple 逆球レジェンド}}} || {{{#orange 逆球レジェンド}}} || {{{#ff009f 逆球レジェンド}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 04(2012.3.28)}}} ||
+|| [[BPM]] |||||| 128 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 02(2014.3.6 ~ 2014.5.1)
+
+자켓은 NOV - ADV - EXH 순으로 이야기가 이어진다. 참고로 식자된 텍스트를 이으면 'Hello! and... Smile!!'이 된다. 
+
+{{{#!html
+<object width="450" height="600"><param name="movie" value="http://www.youtube.com/v/9UvTlTFQtxE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/9UvTlTFQtxE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="450" height="600" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 PUC 영상
+
+노래는 나쁘지 않지만 ~~너무 쉬운 탓에~~ 많이 묻힌 편. 난이도도 [[good high school]]과 판박이. 패턴은 크게 어렵지 않은 수준으로 구성되어 있다. NOV 패턴과 ADV 패턴 모두 별다른 특징이 없는 평범한 패턴. 다만 EXH 패턴은 [[니시닛포리의 춤|평행 노브 조작]], [[突撃！ガラスのニーソ姫！|연속 노브 조작]] 등의 종합적인 조작능력을 요구하는 패턴이라 얼티밋 체인을 노리기는 쉽지 않다.

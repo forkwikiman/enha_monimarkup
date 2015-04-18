@@ -1,0 +1,56 @@
+ジュン&シンゴ
+[[팝픈뮤직]]의 캐릭터.
+[[목차]]
+=== 공식설정 ===
+출신 : 일본
+취미 : 노래하는 것
+좋아하는 것 : 음악
+싫어하는 것 : 쥰→룰을 지키지 않는 스트리트 뮤지션  싱고→시비 걸어오는 취객...? 
+생일 : 쥰→9월 14일 싱고→8월 14일
+
+=== 캐릭터 설정 ===
+4에서 첫 출연한 2인조 스트리트 뮤지션.
+모자를 쓰고 서있는 쪽이 쥰, 앉아있는 주황색 머리가 싱고.
+같은 학교의 클래스메이트로 기타숍에서 우연히 만난 것을 계기로 같이 노래하고 있다고 한다.
+
+4와 CS 6 이후로는 담당곡이 없었고 그나마 있던 곡도 18에서 삭제 당해버렸다.
+그러던 와중 발표된 19 튠 '''스트리트'''의 부제를 보고 스트리트 뮤지션이자 스트리트라는 장르를 가지고 있던 쥰과 싱고가 재등장하지 않을까 하는 기대를 받았고 적중했다.
+새로 받은 담당곡의 장르는 스트리트 튠으로 튠 스트리트의 메인 테마 어레인지 버젼이다. ~~19에선 니들이 주인공[* 노래 제목은 탐험노트. 참고로 [["냐미" 모 팝픈 주인공]]의 담당곡과 제목이 같다. 아니, 메인 테마를 [["PON" 같은 작곡가]]가 두번 어레인지 한 거. --[["미미(팝픈뮤직)" 졸지에 주인공 자리에 밀린 모 암컷 토끼]]한테는 애도를.--]~~ 
+
+모션 동작 자체는 예전과 별로 변한게 없지만 간만에 새로 그려진 모션인지라 기뻐하는 팬들이 많다.
+예전보다 훨씬 학생다운 외형과 복장으로 변하였고 더불어 싱고의 기타가 어쿠스틱에서 일렉으로 바뀌었다.
+
+그룹명은 쥰과 싱고의 이름에서 한 글자씩 따와서 「純真」
+싱고가 지었는데 단어가 단어인지라 쥰은 질색했지만 싱고가 밀어붙여서 결국 쓰는 듯.
+
+튠스트리트에서 쥰과 싱고를 써서 넷대전을 플레이하면 칭호『LOVE&PEACE!』를 얻는다.
+
+==== 원작에서 출현한 대사 ====
+
+ * NET 대전 모드 시 대사
+
+ATTACK - 가라-!
+DAMAGE - 우왓!
+WIN - 좋았어-
+LOSE - 지지않아-
+GOOD - 나이스!
+BAD - 위험해
+
+ * pop'n music 19 TUNE STREET TOWN 모드에서 대사
+
+-그-럼, 다음의 곡은...
+-뭘로 할까?
+-에? 같이 하자고?
+-좋아. 알았어. 준비는 됐니?
+
+=== 담당곡 ===
+ * AC2
+TEEN FOLK/時代を変えてくTeenage/馬場一嘉
+{{{#!html
+<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/OADyRxY1C3U&hl=ko_KR&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/OADyRxY1C3U&hl=ko_KR&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></embed></object>}}}
+ * CS6
+STREET/Flapper/SASEBO BROTHERS
+ * AC19 튠 스트리트
+STREET TUNE/探検ノート(Street style)/[[PON]]
+{{{#!html
+<iframe width="480" height="360" src="http://www.youtube.com/embed/YyynfchQTJc?rel=0" frameborder="0" allowfullscreen></iframe>}}}

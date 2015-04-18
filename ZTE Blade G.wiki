@@ -1,0 +1,82 @@
+ * 상위 항목 : [[ZTE Blade]]
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]의 [[안드로이드(OS)|안드로이드]] [[스마트폰]] 시리즈인 [[ZTE Blade|Blade 시리즈]]의 하위 시리즈.~~정식 발매명만 보면 본격 [[옵티머스 G|요놈]]을 따라한거 같아보인다.~~
+
+[[ZTE Blade|Blade 시리즈]] 자체가 중급형 혹은 저사양 [[스마트폰]]으로 구성되어 있기 때문에 Blade G 역시 그렇게 높은 사양을 가지고 있지않다.
+
+== 소속 기기 ==
+ * Blade G
+  * Blade G Pro
+ * Blade G2
+
+[[각주]]
+
+=== ZTE Blade G ===
+||<tablealign="center"> http://pdadb.net/img/zte_blade_g_v880g.jpg ||
+|| [[http://www.ztedevices.com/product/smart_phone/677eeb83-f0ed-4ab4-8841-928e94bf3967.html 글로벌 ZTE Blade G 공식 사이트]] ||
+
+==== 개요 ====
+[[ZTE]]가 2013년 4월에 공개한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]]. 기기명은 V880G.
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Play MSM8225 [[SoC]]. [[ARM Cortex-A5]] MP2 1.2 GHz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||63.5 x 122 x 9.9 mm, 120 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+AP를 [[ARM]] Cortex-A5 듀얼코어 CPU를 탑재한 [[퀄컴 스냅드래곤]] S4 Play MSM8225을 사용한다. 단적으로 말하면 기존 Blade 시리즈가 주로 사용한 [[퀄컴 스냅드래곤]] S1 MSM7227A의 CPU를 그대로 듀얼코어화 시킨 AP를 사용한 것이라 볼 수 있다. 또한 나머지 사양들 역시 무난하기 때문에 균형있게 잡혀있다. 거기에 배터리 용량이 2000 mAh나 되기 때문에 스마트폰 자체를 옛 피쳐폰 처럼 사용하는 사람들에게 있어서는 괜찮은 사양을 가지고 있다.
+
+==== ZTE Blade G Pro ====
+||<tablealign="center"> attachment:gpro.jpg ||
+|| [[http://www.ztedevices.com/product/smart_phone/73410789-d9d2-4901-84d7-4d6a1f4a90be.html 글로벌 ZTE Blade G Pro 공식 홈페이지]] ||
+
+===== 개요 =====
+[[ZTE]]가 2013년 4월에 공개한 Blade G의 파생 모델로, 2013년 12월에 공개한 [[안드로이드(OS)|안드로이드]] [[스마트폰]]. 기기명은 V829.
+
+===== 사양 =====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6572 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]], [[ARM Mali]]-400 500 MHz [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) || 
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0+EDR ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1650 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||68 x 135.5 x 10.2 mm, 153 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+
+===== 상세 =====
+Blade G의 파생 모델로, 무난한 사양의 중급형 기기이다. AP가 미디어텍 AP로 변경되었으며, 배터리는 1650mAh로 전작에 비해 줄었다.
+
+[[각주]]
+
+=== ZTE Blade G2 ===
+||<tablealign="center"> attachment:g2.png ||
+|| [[http://www.ztedevice.in/specification.php?for=specificatrion&type=ZTE-BLADE-G2 인도 ZTE Blade G2 공식 사이트]] ||
+
+==== 개요 ====
+[[ZTE]]가 2013년 7월에 공개한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6589 [[SoC]]. [[ARM Cortex-A5]] MP4 1.2 GHz [[CPU]], PowerVR SGX544 286 MHz [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 IPS TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[4G|HSPA+]] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||66 x 133 x 9.9 mm, 145 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+
+==== 상세 ====
+Blade G의 후속작이다. 하지만 전작과 크게 차이나지는 않는다. 한가지 특징이라면, [[퀄컴 스냅드래곤]] S4 Play MSM8225를 사용하던 전작과 달리 미디어텍의 MT6589를 사용한다.[* 인도 ZTE에서 'MT6589/MT6167'라 표기했다고 두 종류의 AP로 출시되었다는 내용으로 원래 서술되어 있었지만, 진짜 AP는 전자고 후자는 AP가 아닌 트렌지스터다. ~~미디어텍 AP 탑재 단말기를 보기 힘든 한국에서도 네이버에 검색만 해도 알 수 있다.~~] [[CPU]] 아키텍쳐는 동일하지만 듀얼코어 구성이 아닌 쿼드코어 구성으로 되어있다.
+
+[[각주]]

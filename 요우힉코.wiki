@@ -1,0 +1,29 @@
+[[include(틀:현악기)]]
+
+||<tablealign=center> http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Chadwickjouhikko.jpg/800px-Chadwickjouhikko.jpg?width=570 ||
+|| 초기형 ||
+
+Jouhikko
+
+[[핀란드]]의 전통 [[현악기]]. 활로 문지르는 오래된 형태의 찰현악기로 줄의 형태는 두줄, 세줄이고 네줄짜리가 만들어지기도 한다.
+
+[[피들]]로 명명되는 토속 민중 현악기인지라 그 형태는 모르는 사람이 본다면 문자 그대로 현을 단 구멍난 나무판자 혹은 가구상자에 줄달아서 [[바이올린]] 흉내내는 그런 모습으로 보인다. 형태가 말해주듯 구조도 지극히 간단하고 현을 제외하고는 거의 [[나무]]로만 구성되는 수준이라서 전문적인 제작소가 아니라 그냥 [[가구]] 만드는 민간 공방이나 개인 단위에서도 [[DIY]]로 막 만들어 쓰는 수준. 핸드메이드 악기라는 걸 강조하는 물건이라 다른 현악기와 다르게 전혀 정형화되지 않은 거친 형태로 만든다. 때문에 그 형태도 천차만별.
+
+주법은 악기 현 수, 현 조절부의 구멍 형태나 연주자에 따라 달라지지만 기본적으론 한 손으로 한쪽 기둥을 잡고 손가락으로 현 하나나 둘을 손가락으로 건드려가며 켜는 식이고, 때론 그 현을 튕기기도 한다.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/Mf8wgDTgLoA?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Mf8wgDTgLoA?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+초기형 2현
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/nujsMpLhiRM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nujsMpLhiRM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+가장 보편적인 3현
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/ujHukVRDgas?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ujHukVRDgas?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+4현
+
+날카롭고 구슬픈 음색을 자랑하며 토속풍 음악이나 중세풍 음악을 추구하는 뮤지션들이 현대에 와서도 사용한다. 물론 유쾌하게 연주하려면 얼마든지 가능하다. [[메탈]] [[밴드]] 중에도 사용하는 자들이 있는데 [[보드카]] 송으로 유명한 전설적인 농촌 메탈 밴드 [[코르피클라니]]... 바이올린 담당 약코 힛타바이넨 렘메튀가 연주한다.

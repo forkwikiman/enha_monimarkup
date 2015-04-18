@@ -1,0 +1,297 @@
+[[include(틀:워게임: 레드 드래곤/진영)]]
+
+[[목차]]
+
+상위항목 : [wiki:"워게임: 레드 드래곤" 워게임 : 레드 드래곤]
+
+[[WRD]]의 [[캐나다군]]항목.
+
+기존 유닛 정보는 [[워게임 : 에어랜드 배틀/캐나다]]를 참조바람.
+
+유겐이 기본적으로 모든 유닛의 원어 로마자화 표기를 고수하고 있기에 공식명칭 뒤에 번역명을 기재함.
+
+= [[캐나다]] 전투단 =
+WRD에 들어오면서 기존에 부족했던 부분들을 많이 보강하게 된 국가. 공격헬기, IFV, 지상방공, SEAD기등 완벽하진 않지만 다방면에서 충실한 전력보강이 이루어졌다. 그래도 여전히 뭔가 아쉬워보이는 인상은 있지만 전작에 비해서 좀 더 균형잡힌 국가로 탄생했다고 볼 수 있다.
+
+세부적으로 볼 때 120포인트로 내려온 키메라와 고폭탄두를 쏴대는 에릭스, AP로켓을 쏴대는 헬기등, 전작 이상의 괴이함을 아낌없이 보여준다. 역시 [[인류제국]]다운 면모.
+== LOG ==
+=== 지휘 ===
+ * 보병
+ attachment:COMMAND_SQUAD.jpg
+  * '''{{{#Brown Command Squad}}}'''
+
+ * 차량화 지휘차량
+ attachment:M38A1_CP.jpg
+  * '''{{{#Brown M38A1 CP}}}'''
+ attachment:ILTIS_CP.jpg 
+  * '''{{{#Green ILTIS CP}}}'''
+ attachment:GRIZZLY_CP.jpg
+  * '''{{{#Brown Grizzley CP}}}'''
+
+ * 기계화 지휘차량 
+ attachment:M577.jpg
+  * '''{{{#Brown M577 CPC}}}'''
+ attachment:CMD_LEOPARD_C1.jpg
+  * '''{{{#Brown CMD Leopard C1}}}'''
+
+=== 보급 ===
+attachment:FOB.jpg
+ * '''{{{#Brown FOB}}}'''
+
+ * [[트럭]]
+ attachment:M35_CARGO.jpg
+  * '''{{{#Brown M35 Cargo}}}'''
+ attachment:HLVW.jpg
+  * '''HLVW''' - '''프로토타입'''
+  시속90km짜리 보급트럭. 가격이 M35의 3배지만 보급량이 1700L로 오히려 효율은 더 좋다. 유폭에 주의.
+
+ * [[헬기]]
+ attachment:CH-147_CARGO.jpg 
+  * '''{{{#Brown CH-147}}}'''
+
+== INF ==
+ * 소총분대
+ attachment:CANADIAN_RIFLES.jpg
+  * '''{{{#Brown Canadian Rifles}}}'''(캐나다 소총부대) - 정규보병
+ attachment:CANADIAN_RIFLES_85.jpg
+  * '''{{{#Green Canadian Rifles '85}}}''' - 정규보병
+ attachment:CANADIAN_AIRBORNE.jpg
+  * '''{{{#Brown Canadian Airborne}}}'''(캐나다 공수부대) - 충격보병
+ attachment:CANADIAN_AIRBORNE_85.jpg
+  * '''{{{#Green Canadian Airborne '85}}}''' - 충격보병
+ ANZAC의 코만도스90과 동일한 스펙으로 충격보병 중 최상급의 대보병 능력을 자랑하나 5포짜리 APC를 탈 수 없다는 단점이 있다. [[WALB]]의 반두를 대체한다. 
+
+ * 경보병
+ attachment:HIGHLANDERS.jpg
+  * '''{{{#Brown Highlanders}}}''' ([[하이랜더]]) - 정규보병
+ attachment:HIGHLANDERS_90.jpg
+  * '''Highlanders '90''' - 정규보병
+  하이랜더는 평범한 경보병 분대이지만 90년대 현대화를 걸면 전작이상의 충공깽 하이랜더의 등장을 볼 수 있다. 에릭스 상향의 덕을 본 유닛 중 하나. 본작에서 경보병으로 재분류되었다.
+
+ * 공병
+ attachment:PIONEERS.png
+  * '''{{{#Brown Pioneers}}}'''(개척공병)
+
+ * 화력지원반
+ attachment:MAW.png
+  * '''{{{#Brown MAW}}}''' - 정규보병
+  서독의 화력지원반처럼 칼구스타프로 고폭탄을 운용한다.
+ attachment:ERYX.jpg
+  * '''Eryx''' - 정규보병
+  v43패치로 화력지원반으로 이사왔다. 에릭스의 버프로 MAW의 상위호환이라 할 수 있게 되었다. 에릭스로 고폭탄두를 쏘다니...정말 괴악하다. 최소사거리가 매우 짧아 CQC에서도 쏴제끼는 괴랄함을 보여준다. 캐나다가 비주류 국가라 부각이 안되서 그렇지 이거 좀 오버파워가 아닌가 하는 생각이 들 정도.
+
+ * 대공 특기병
+ attachment:BLOWPIPE.jpg 
+  * '''{{{#Brown Blowpipe}}}'''([[블로우파이프]]) - 정규보병
+  블로우파이프의 안습한 방공능력에 대해선 설명하지 않도록 하겠다.
+ attachment:JAVELIN_GL.jpg 
+  * '''Javelin G/L'''([[재블린]]) - 정규보병
+  
+== SUP ==
+=== [[포병]] ===
+
+ * [[자주박격포]]
+  * 차량화 포병 트리
+  attachment:BISON_BIMM.png
+   * '''Bison 81mm'''
+
+  * 기계화 포병 트리
+  attachment:M125.png
+   * '''{{{#Brown M125}}}'''
+  * 155mm급 [[자주포]]
+  attachment:M109_RCHA.png
+   * '''{{{#Brown M109 RCHA}}}'''
+  attachment:M109A2_RCHA.png
+   * '''{{{#Green M109A2 RCHA}}}'''
+
+=== 방공 ===
+ * 방공기관포
+  * 레이더
+  attachment:CENTURION_MARKSMAN.png
+   * '''Centurion Marksman''' - '''프로토타입'''
+  영국의 --신사력--위엄쩌는 주력전차 대공포와 달리 이쪽은 센츄리온 차체라 방어력면에서 좀 딸린다. 하지만 전작 캐나다의 사정을 생각해보면 이것도 감지덕지. 하든드로 8대나 뽑힌다는 점도 괜찮다.
+
+ * 방공미사일
+  * IR - 고정식
+  attachment:WOLVERINE.png
+   * '''Wolverine'''
+   계획상으로만 존재했던 재블린 맨패즈 탑재 방공차량. Bison에 3연장 발사기를 얹어놓은 물건이다. DLC#2에서 추가되었다. 
+  * 대공/대전차 복합
+  attachment:M113_ADATS.png
+   * '''M113 ADATS'''
+   명중률 45%, AP 25, HE 7로 대헬기 대전차 모두 강력하지만 항공기 상대로는 효율이 떨어진다. 전작에 한팩만 더 있었으면 하고 캐나다유저들을 아쉽게 만들었지만 프로토타입이 풀려 WRD에선 2팩이다. 그래도 귀한 몸인건 변함없지만.
+
+== TNK ==
+새로운 전차들이 여럿 추가되었지만, 여전히 부실한 기갑전력이다. 뭐 어차피 캐나다의 주력 전차는 키메라이고, 이놈들은 키메라의 사각을 보호하는 게 주임무니 별 상관없다(?).
+
+ * [[센츄리온]] 트리
+ attachment:CENTURION_Mk.5.png
+  * '''{{{#Brown Centurion Mk.5}}}'''
+ attachment:CENTURION_Mk.6.png
+  * '''{{{#Brown Centurion Mk.6}}}'''
+ attachment:CENTURION_Mk.11.png
+  * '''{{{#Brown Centurion Mk.11}}}'''
+
+ * 센츄리온 미사일 전차 트리
+ attachment:CENTURION_Mk.SAT.JPG
+  * '''{{{#Brown Centurion Mk.5AT}}}'''
+ 센츄리온에 화력강화를 위해 라케텐야트크판처의 SS-11을 단 버젼. ~~그래봤자 그원본이 어디 가겠나만은...~~
+
+ *[[레오파르트1]] 트리
+ 전반적으로 맷집과 관통은 부족한 편이지만 포의 명중률만큼은 타국의 하이엔드 전차수준인 것이 특징.
+ attachment:LEDPARD_C1.png
+  * '''{{{#Green Leopard C1}}}'''
+ attachment:LEDPARD_C2.png
+  * '''Leopard C2''' - '''프로토타입'''
+ 105mm주제에 최대사거리인 2275m를 찍는다. 장갑은 그냥 흔한 동포인트대 2세대차량이지만 주포는 제법 괜찮다.
+ attachment:LEDPARD_C2_MEXAS.png
+  * '''Leopard C2 MEXAS'''([레오파르트1]) - '''프로토타입'''
+ 1994년부터 2000년까지 기존 레오파르트C1을 대체하기 위해 도입된 전차. MEXAS의 뜻은 Modular Expandable Armor System이며, 제작자들은 새 세라믹 복합장갑이 닌자거북이 같다고 개드립을 쳤다(...). 증가장갑을 새로 둘러도 2세대급의 한계는 벗지 못하지만[* 그래도 2세대급에선 좋은 축에 속한다.], 미들급으로써는 탁월한 가성비를 가지고 있다. 
+== REC ==
+ * 보병
+  * 수색분대
+  attachment:RECCE.png
+   * '''Recce'''([[수색대]]) - 충격보병, '''프로토타입'''
+  무장이 (맥밀란 [Tac-50]) 대물저격총이다. 처음에는 저격총의 AP가 무려 2여서 잘만 다룬다면 장갑차고 보병이고 다 쓰러트리고 다닐 수 있었다. 결국 너무 심하다고 느꼈던 건지 AP가 1로 줄어들어버렸다. 대신 KE속성이 붙어 350m씩 가까워질때마다 위력은 오히려 상승. 때문에 멀리서는 보병을 저격하다가 장갑차가 가까이 오면 때려잡을 수 있다.
+  * 특수부대
+  attachment:PATHFINDERS.png
+   * '''{{{#Brown Pathfinders}}}'''([[패스파인더]]) - 정예보병
+   정찰형 특수부대. .
+ 
+ * 지프
+ attachment:ITIS_SCOUT.png
+  * '''ILTIS Scout'''
+  M2브라우닝 기관총을 장착한 평범한 정찰지프....같은데 야지속도가 '''110km'''
+
+ * 장갑차
+  * [[장륜 장갑차]]
+  attachment:FERRET_Mk.1.png
+   * '''{{{#Brown Ferret Mk.1}}}'''
+  attachment:COUGAR_RECON.png
+   * '''{{{#Brown Cougar Recon}}}'''
+  attachment:COYOTE.png 
+   * '''Coyote''' - '''프로토타입'''
+  * APC
+  attachment:M113_CR_LYNX.png
+   * '''{{{#Brown M113 C&R Lynx}}}'''
+
+ * 헬기
+  * 무장형
+  attachment:CH-136.png
+   * '''{{{#Brown CH-136}}}'''
+
+== VHC ==
+=== 수송차량 ===
+ * 트럭/장륜 장갑차
+ attachment:M35.png
+  * '''{{{#Brown M35}}}'''
+  v21패치로 트럭이 지휘보병 전용탈것으로 돌아왔다. 5포인트.
+ attachment:CRIZZLY.png
+  * '''{{{#Brown Grizzley}}}'''
+ attachment:BISON.png
+  * '''Bison'''
+
+ * APC
+ attachment:M113A1.png
+  * '''{{{#Brown M113A1}}}'''
+
+ * IFV
+ attachment:TH-495.png
+  * '''TH-495''' - '''프로토타입'''
+  독일에서 개발한 보병전투차. 오토멜라라 25mm 체인건으로 무장하고 있다. ADATS도 이것의 변형. 캐나다는 드디어 M113을 주력 IFV로 쓰는 현실에서 탈출할 수 있게 되었다...
+
+=== [wiki:"대전차자주포" 대전차차량] ===
+ * 차량화 대전차포/ATGM 트리
+ attachment:M38A1_106mm.png
+  * '''{{{#Brown M38A1 106mm}}}'''
+ attachment:M151A2_TOW.png
+  * '''{{{#Green M151A2 TOW}}}'''
+ attachment:ILTIS_TOW-2.png
+  * '''{{{#Green ILTIS TOW-2}}}'''
+  둘다 무장은 TOW2로 같다. 경악스럽게도 TOW 지프조차도 198'''1'''년에 도입되어서 전작에서도 카테고리 A였고 이번에도 C로 가지 못했다.
+ attachment:LAV-III_TUA.png
+  * '''LAV-III TUA''' - '''프로토타입'''
+  프로토타입인대신 TOW2 탑재량이 12발에 달한다. M113 TUA보다도 4발이 더 많다.
+
+ * 기계화 대전차포/ATGM 트리
+ attachment:M113_106mm_M40.png
+  * '''{{{#Brown M113 106mm M40}}}'''
+ attachment:M150_TOW.png
+  * '''{{{#Brown M150 TOW}}}'''
+ attachment:M150_I-TOW.png
+  * '''{{{#Brown M150 I-TOW}}}'''
+ attachment:M113_TUA.png
+  * '''M113 TUA'''
+  기계화덱이거나 TOW2 장갑차의 수량이 부족하다고 느껴지면 넣어볼만 하다. 가성비상으론 LAV형보다 나을 게 없다.
+
+ * '''[구축전차]'''
+ attachment:CHIMERA.png
+  * '''Chimera'''([[키메라]]) - '''프로토타입'''
+  --[섀도우소드]--
+  사실 키메라에는 슬픈 전설이 하나 있다. 유겐에서 우연히도 키메라에 관련된 --[STC]--자료를 발굴하였고, 이를 게임에 넣은 뒤, 수소문해서 해당 설계의 원작자를 찾았는데, 원작자는 원래 이 차량을 캐나다가 아닌 '''영국에 '야크트치프틴'이라는 이름으로 납품하려 했다고...'''(...)--역시 모든 기괴한 물건은 다 영국에서 나온다더니.--  WRD에서 하이엔드 전차들의 대량 추가로 좀 빛이 바래는가 싶었지만 100포인트로 파격할인혜택을 받아서 캐나다의 주력MBT(...)로 등극하였다. 전작에선 다소 비싼 가격으로 쓰기 망설여졌던 키메라가 WRD에선 최대 8대까지 찍혀나오며 캐나다의 기갑의 취약함을 한방에 해결해버렸다. 목이 돌아가는 비슷한 성능대의 주력전차가 최소 150~160포인트대를 찍는다는 걸 생각해보면 그저 충격과 공포. 100포인트는 아무리 그래도 심했기 때문에 가격이 찔끔찔끔 계속 올라 125포인트까지 올라갔다. 그래도 키메라 없인 캐나다 기갑이 성립하지 않는다. 비록 연사는 느리지만 하이엔드급의 장갑과 관통력을 가진 전차가 차량탭에서 나오는 건 큰 이점이다. 기계화덱에서 경험치 먹고 튀어나오는 것은 물론이며 심지어 지원덱에서도 쓸 수 있다.
+
+=== 화력지원차 ===
+
+ * 경전차
+ attachment:COUGAR.png
+  * '''{{{#Green Cougar}}}'''
+  어느새 화력지원차로 밀려났다.
+
+== HEL ==
+=== 수송헬기 ===
+
+ * [휴이] 트리
+ attachment:CH-118.png
+  * '''{{{#Brown CH-118}}}'''
+ attachment:CH-135.png
+  * '''{{{#Brown CH-135}}}'''
+ * [치누크]
+ attachment:CH-147.png 
+  * '''{{{#Brown CH-147}}}'''
+  캐나다 에어본과 하이랜더 전용으로 등장하는 치누크모델.
+
+=== 공격헬기 ===
+
+ * 로켓
+ attachment:CH-135_GUNSHIP.png
+  * '''{{{#Brown CH-135 Gunship}}}''' - '''프로토타입'''
+  기관총도 없이 70mm로켓만 달랑 들고 있다. CH-118은 미니건이 달려있지만 이녀석은 대신 로켓탄수가 많다. 
+ attachment:CH-118_GUNSHIP.png
+  * '''{{{#Brown CH-118 Gunship}}}''' - '''프로토타입'''
+  CH-118은 미니건이 달려있어 근접화력 지원에 유용하지만 135는 속도가 빨라 히트앤런에 적합하다. 선택은 취향차이.
+
+ * ATGM
+ attachment:CH-118_SS-11.png
+  * '''{{{#Brown CH-118 SS-11}}}''' - '''프로토타입'''
+  공격헬기가 없던 캐나다에 추가된 새 공격헬기인데 무장이 라케텐야크트판처의 SS-11이다.
+ 
+== AIR ==
+ * 제공전투기
+  * IR
+  attachment:CF-101B_Voodoo.png
+   * '''{{{#Brown CF-101B Voodoo}}}'''
+   캐나다의 단거리 요격기. 미사일 성능이 좀 후줄근하지만 엘리트로 3대나 뽑히는 게 자랑.
+  * SemAct+IR
+  attachment:CF-18_HORNET.png
+   * '''{{{#Green CF-18 Hornet}}}'''([[F/A-18]])
+   미사일 트럭인 한국공군 수준으로 사이드 와인더를 싣고 있다. 무장량과 교환해 ECM이 30%로 가격대비 제값을 못하는 게 아쉬운 점.
+
+ * 멀티롤
+  * 로켓+IR
+  attachment:CF014_STARFIGHTER.png
+   * '''{{{#Brown CF-104 Starfighter}}}'''([[F-104]])
+  * 집속탄+IR
+  attachment:CF-188_HORNET.png 
+   * '''{{{#Green CF-188 Hornet}}}''' 
+   한번에 8발의 집속탄을 투하한다. ECM은 30%로 그럭저럭 붙어 있지만 원래 폭격기가 IR방공망 사정거리만 겨우 벗어나는 정도에서 폭격하다보니 체감생환율이 낮아보인다.
+
+ * 지상공격기
+  * 고폭탄
+  attachment:CF-116_FREEDOM_FIGHTER.png
+   * '''{{{#Brown CF-116 Freedom Fighter}}}'''
+
+ * 방공제압기
+  * SEAD
+  attachment:EF-10B_Electrlc_Voodoo.png
+   * '''{{{#Green EF-101B Electric Voodoo}}}''' - '''프로토타입'''
+   이젠 캐나다에도 전자전기가 생겼다. ECM 50%, 스텔스 미디움 등 좋은 스펙을 갖췄지만 자위무장을 몽땅 포기해서인지 80포인트밖에 안된다. 대신 미사일의 사정거리도 4200m밖에 안하니 뭐...무엇보다 국가덱으로 돌리면 베테랑으로 3대나 쏟아져 나온다. 영국의 시드용 해리어의 속도가 좀 애매하기 때문에 사실상 영연합덱의 주력전자전기로 쓰인다.  

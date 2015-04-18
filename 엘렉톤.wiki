@@ -1,0 +1,47 @@
+{{{+2 Electone}}}
+
+http://www.electone.co.kr/bbs/data/electone/1170105231/10_3141a.jpg
+
+[[일본]]의 [[야마하]]에서 개발한 [[전자악기]]. 악기 모양과 연주 방식은 [[파이프오르간]]에서 따왔고, 마찬가지로 위아래의 2단식 키보드와 발로 누르는 페달 키보드를 이용해서 폭넓은 음역과 기교의 연주가 가능하다. [[피아노]]를 배운 사람이라면 의외로 쉽게 배울 수 있다고 한다. ~~하지만 [[발컨]]도 능숙해야 하기 때문에 발놀림이 둔하면 낭패~~
+
+일본에서 개발된 만큼, 거기서는 피아노 만큼 대중적인 악기다. 공간이 협소한 소극장 등에서 열리는 저예산 [[오페라]] 공연 때 3~4대의 엘렉톤이 [[관현악단]]을 대신해 반주를 맡기도 하고, 심지어 [wiki:"안톤 브루크너" 브루크너]의 [[교향곡]] 같은 정통 클래식 대작도 같은 방식으로 편곡해 연주하기도 한다. [wiki:"대한민국" 한국]에서는 보기 힘들지만, 2011년 9월 3일 방영된 [[놀라운 대회 스타킹]]에서 엘렉톤 연주자가 나온 이후 일반인들에게 많이 알려졌다. 게다가 전국 각지에서 운영하고 있는 야마하 음악교실에서 엘렉톤을 강의를 받을 수 있기 때문에 국내에서도 엘렉톤을 배울 수도 있다. 
+~~대신 야마하 음악교실이 서울, 수도권 외에는 지방엔 대도시에 하나씩 밖에 없고, 교육 받아도 가격 때문에 집에 들여놓기가 힘들 뿐...~~
+
+6~7세 정도의 꼬마가 엘렉톤을 연주하는 동영상도 있다. 약간 쉬운 곡이지만...연주는 기본적인 손놀림과 발놀림을 익혔다면 어렵지 않지만, 음악의 흐름에 따라 적절한 악기 음원을 고르고 배치하는 작업이 어렵다고 한다. 파이프오르가니스트들이 음색 변환을 위해 연주 중에 스톱 장치를 조정하는 것과 같은 방식. 이 때문에 최신식 파이프오르간과 마찬가지로 미리 원하는 음원들을 입력해 놓고 연주 중에 스위치의 간단한 조작으로 바꿀 수 있는 프로그램도 내장되어 있다.
+
+'''[[디즈니랜드]] 테마곡'''
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/C6mSOHKmao0&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/C6mSOHKmao0&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+이건 시작에 불과하다. MARU라는 굇수의 동영상을 보자.
+
+MARU씨는 [[니코니코 동화]]에 엘렉톤 연주 동영상을 올리는 엘렉톤 전문 연주자다. 유명한 영화 OST를 연주하기도 하지만 [[에어맨이 쓰러지지 않아]], [[추억은 억천만]]등등을 연주해서 더욱 인기를 끌기도 했다. 국내에서도 꽤 팬이 많은 듯. 
+평상복을 입고 연주했더니 여성 연주자인지라 ~~일본 답게~~ 가슴이 어쩌구 몸매가 어쩌구 하는 댓글이 폭발해 몸매가 드러나지 않는 공룡옷을 입고 연주한다. [[버블보블]]에 나오는 [[공룡]] 비슷하다.
+
+'''[[인디아나 존스]]의 테마곡을 연주해봤다.'''
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/6dQnREIh3Uw&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6dQnREIh3Uw&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+'''[[스타워즈]]의 테마곡을 연주해봤다.'''
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/16oaGSltUPE&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/16oaGSltUPE&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+'''[[드래곤 퀘스트]]의 테마곡을 연주해봤다.'''
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/-ueMCJ3fsu0&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-ueMCJ3fsu0&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/f_5lYvdwgwg&color1=0xb1b1b1&color2=0xcfcfcf&hl=ko&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/f_5lYvdwgwg&color1=0xb1b1b1&color2=0xcfcfcf&hl=ko&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></embed></object>
+}}}
+
+'''이것 저것 리믹스'''
+참고로 "뒤돌아서" 연주한 것.
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/68SVqpykpo0&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/68SVqpykpo0&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+들리는 모든 사운드가 전부 '''하나의 악기'''로 연주한 것이다.

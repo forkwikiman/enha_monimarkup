@@ -1,0 +1,226 @@
+{{|본 항목은 [[레밍즈]]의 하위 항목입니다.|}}
+{{|본 항목은 [wiki:"레밍즈/스테이지 일람" 레밍즈의 공식 스테이지] 중 이식판에 따로 있는 스테이지에 관한 정보가 있는 항목입니다.|}}
+
+[[목차]]
+
+== 패미컴/게임보이 ==
+== 슈퍼패미컴 ==
+슈퍼패미컴판은 Tricky 21을 제외하고는 완전히 같거나 거의 같다.
+
+ * '''Ohayo Lemming san!''' (Tricky 21)
+ 오리지널의 All the 6's ........ 대신 나오는 스테이지. 맵 기본 구조나 패턴은 그 스테이지와 대동소이하지만 다른 점들이라면 지형이 666 대신 'おはよう!'라고 적힌 지형이며 출발지점은 お의 막힌 부분에, 출구는 う의 아래쪽에 있다. 80마리 중 60마리 구출, 배출률 50, 각 아이템 20개씩, 제한 시간 5분.
+
+또한, 120개 스테이지 외에도 SUNSOFT라는 이름의 단계로 다섯 개의 스테이지를 더 집어 넣었다. 이 스테이지는 메가드라이브판에도 존재한다.
+ 1. '''SUNSOFT SPECIAL 1'''
+ 1분안에 자폭 타이밍 맞춰서 깨야 하는 스테이지. 4마리가 나오는데 3마리는 자폭시키고 1마리만 내려 보내는 게 목표다.
+ 1. '''SUNSOFT SPECIAL 2'''
+ 완전 노가다성 스테이지. 오른쪽에 나오는 레밍들을 이용해 왼쪽에 나오는 레밍들을 살려줘야 하는 구조로 되어 있는데, 지속적인 컨트롤이 필요해 한 번이라도 [[삑사리]]나면 [wiki:"좆망" X망]한다. 게다가 제한 시간 2분의 압박. 이걸 아는지 나중에 나온 MD판에서는 이 스테이지가 한참 뒤에 배치되어 있다.
+ 놀랍게도 이 스테이지에서 구출률 100%를 찍는 도전과제가 있다. 얼핏 보면 불가능할 것 같지만 실제로 가능하다. 물론 매우 어렵다.
+ 1. '''SUNSOFT SPECIAL 3'''
+ 크리스탈 맵으로 된 스테이지인데 레밍들이 처음 밟게 되는 누운 기둥 밑을 보면 네모칸을 줄지어 붙여 놓은 지형이 있다. 그걸 활용하도록 되어 있는 구조인 듯 하다.
+ 1. '''SUNSOFT SPECIAL 4'''
+ 출발지점 바로 위에 출구가 있는데 양쪽의 화염 때문에 대뜸 사다리 쌓고 올라가지는 못한다. 밑에 보이는 바닥을 활용하자.
+ 1. '''SUNSOFT SPECIAL 5'''
+ Tricky 27에서 본 것처럼 크고 아름다운 한 방향 벽을 볼 수 있는 스테이지. 단 4개로 한정된 Builder를 잘 활용해서 모든 레밍을 구해야 하는 꽤 까다로운 스테이지이다. 3개의 Climber와 각 1개의 Basher와 Digger, 그리고 2개의 Miner도 주니 잘 활용할 것.
+
+== 메가드라이브 ==
+메가드라이브판은 맵 크기가 오리지널의 1/3 정도로 줄어들었다는 한계로 인해 일부 스테이지가 삭제되고 그 자리를 다른 스테이지로 메웠다. 개중에는 ONML의 스테이지를 지형 바꿔서 넣은 것도 있다.
+
+따로 제목을 적어놓지 않은 스테이지는 오리지널 스테이지와 같은 스테이지다.
+
+=== Fun ===
+ 1.#14 '''Room with no exit'''
+ 초반에 빙빙 도는 레밍들을 Basher로 다 빼내는 스테이지. 해법이 Fun 5와 비슷하다.
+ 1. '''Tea time in the ball country'''
+ 초반에 보이는 낙사지대만 조심하면 어려울 것이 전혀 없는 스테이지. 그 낙사지대도 Miner로 파 주면 간단하다.
+ 1. '''Take a little rest.'''
+ 웬 동굴 속에서 진행되는 스테이지. 처음에 보이는 큰 뼈다귀를 뚫고 가든지 아니면 위에 보이는 작은 통나무같은 걸 이용해 천장으로 가든지 해서 깰 수 있다. 참고로, 처음에 보이는 뼈다귀는 Climber를 쓰건 말건 간에 중간까지는 기어올라간다.
+ 1.#19 '''Catch more floaters.'''
+ 높은 곳에서 10마리의 레밍들이 떨어져 내려와 오른쪽 멀리 보이는 출구로 들어가는 스테이지인데 딱 봐도 떨어지면 바로 죽을 높이. 딱 10개 주어지는 Floater를 모두 써서 살리고 역시 딱 10개 주어지는 Climber를 모두 써서 출구로 보내는 구조이다. 물론 길은 막혀 있으니 한 마리를 먼저 내보내고 각 1개씩 주어지는 나머지 6개의 아이템을 활용해서 뚫어야 한다.
+ 1.#21 '''Lemmings in the attic'''
+ Tricky 6(오리지널에서는 Tricky 11)과는 제목만 같고 전혀 다른 스테이지이다. Basher 4개가 있는데 정상적인 공략법에 의하면 딱 맞는 숫자라 한 번만 실수해도 [[망했어요]].
+ 1.#23 '''Under construction'''
+ 1.#29 '''Dark dawn'''
+
+=== Tricky ===
+1과 2는 오리지널의 2와 3이다.
+3부터 5까지는 오리지널의 6부터 8까지이다.
+6부터 8까지는 오리지널의 11부터 13까지이다.
+ 1.#9 '''Where do you see Lemmings?'''
+ 1. '''Keep Step'''
+ 1. '''Let's go to the moon!'''
+ 1. '''Go out for a walk?'''
+ 1. '''Salvage boat'''
+ 1.#21 '''Don't leave any Lemmings'''
+ 1.#27 '''Everyone turn left'''
+ 1.#29 '''Konnichiwa Lemming san'''
+ 1. '''Don't follow me.'''
+
+=== Taxing ===
+ 1. '''The bridge is breaking down.'''
+ 1. '''Temporary peace'''
+ 1. '''No choice but to follow them'''
+ 1.#7 '''Jump down!'''
+ 1. '''Lemmings search for treasure.'''
+ 1.#13 '''Walk through here but cautiously'''
+ ONML의 Crazy 1을 이식한 스테이지이다.
+ 1. '''Value each moment'''
+ ONML의 Crazy 3을 이식한 스테이지이다.
+ 1.#17 '''Lunch time'''
+ ONML의 Crazy 14를 이식한 스테이지이다.
+ 1.#20 '''Fall and no life.'''
+ 1.#24 '''Keep all enemies out.'''
+ ONML의 Crazy 6을 이식한 스테이지이다.
+ 1. '''Watch right and left!'''
+ ONML의 Crazy 10을 이식한 스테이지이다.
+ 1.#27 '''Watch your fingertip!'''
+ 1. '''Watch right or left!'''
+
+=== Mayhem ===
+ 1. '''Let's get together.'''
+ 두 군데서 레밍들이 나오는데 위에 나오는 레밍들을 밑으로 가둬서 밑의 레밍들과 섞고 한 마리만 보내 출구까지 다리를 놓는 스테이지. 그런데 문제는 맨 처음 Digger를 쓰는 레밍이 매우 정확한 픽셀에서 Digger를 사용해야 레밍이 떨어져 죽거나 갇히지 않으며, 길을 만들기 위해서는 그 Digger를 쓰는 레밍이 왼쪽을 보고 있었어야 한다. 그리고 길을 모두 만든 후 마지막으로 가둔 레밍들 풀어줄 때는 남은 Basher가 하나 뿐이라 왼쪽으로 뚫어야 하는데 레밍이 바글바글해 컨트롤하기 어렵다 보니 오른쪽으로 망치질을 해서 [[망했어요]]가 되는 경우가 많다. 스테이지 난이도(해법을 생각하는 차원에서)도 높은 주제에 대놓고 복불복인 스테이지.
+ 1.#6 '''Over the wall'''
+ 1.#9 '''Twins'''
+ 레밍이 두 마리 나오는 스테이지. 앞의 레밍이 길을 만드는 동안 뒤의 레밍도 Builder를 적절히 사용해주면서 시간을 끌면 된다.
+ 1. '''Dangerous balcony'''
+ ONML의 Crazy 2를 이식한 스테이지이다.
+ 1.#14 '''Climb and fall. Fall and climb.'''
+ 작은 지형을 딛을 수 있는 세 개의 절벽으로 이루어진 MD판 오리지널 스테이지. 세 절벽 모두 같은 방법을 쓸 수 없으니, 어떤 절벽에서 어느 도구를 어느 타이밍에 써야 하는지 고민이 필요하다. 
+ 1. '''Two ponds'''
+ 양쪽 레밍을 동시에 컨트롤하는 멀티태스킹 스테이지. 도구 자체는 넉넉한 편이니 PAUSE를 적극 활용하자.
+ 1.#18 '''Two different worlds'''
+ 1.#23 '''A group of entrances'''
+ 양쪽으로 레밍이 나뉘어 있다. 왼쪽 레밍은 쉽게 출구로 갈 수 있지만 물론 그냥 출구로 들어가면 오른쪽 레밍들이 구출될 수가 없으므로, 오른쪽 레밍들이 출구로 들어갈 수 있도록 작업을 해 줘야한다.
+ 1.#26 '''Lemming eater'''
+ 1.#28 '''Leftovers are not always a waste'''
+ ONML의 Crazy 15를 이식한 스테이지이다.
+ 1. '''No hurry. Relax.'''
+ 제목과는 달리 최대한 서둘러 최단 루트를 찾아야 한다. 가장 이상적인 루트를 찾아 공략할 경우, 구출 요구량인 83%가 딱 맞는다.
+ 1. '''Lemmings' Ark'''
+ SFC판의 SUNSOFT SPECIAL 5와 같다.
+
+=== Present ===
+MD판만의 추가 단계로, 난이도가 쉬운 것도 있고 어려운 것도 있고 막 섞여 있다.
+ 1. '''Natural life'''
+ 1. '''Don't leave my Lemmings.'''
+ 1. '''Let me get out of here!'''
+ 1. '''Lemmings standing on the earth'''
+ 1. '''Darkness of the royal family'''
+ 1. '''No time for a detour'''
+ 1. '''Everyone turn Left!'''
+ Blocker 하나만 나오는 스테이지. [[더 이상의 자세한 설명은 생략한다]]
+ 1. '''Libra (Part two)'''
+ 1. '''Fix the road, quick!'''
+ 1. '''Where are you heading?'''
+ 1. '''Field athletics'''
+ ONML의 Crazy 5를 이식한 스테이지이다.
+ 1. '''Balance beam'''
+ 1. '''Watch your step'''
+ 1. '''Like an overflowing wave'''
+ 1. '''Evil whisper'''
+ 1. '''A Trap is a trap.'''
+ 1. '''Electric circuit'''
+ 100마리의 레밍들이 [wiki:"호롤롤로" 개미떼맨끼로 몰려와 막 역싸는게 호롤롤롤로] 한다. 제목처럼 가만 놔두면 제자리에서 빙빙 돌기 때문에 길을 만들어야 한다. 100마리 다 살려야 하기 때문에 Bomber는 절대로 쓰지 말 것.
+ 1. '''King of Lemmings'''
+ 1. '''Acrophobia'''
+ 1. '''Lemmings-preying iron plate'''
+ 1. '''Use your brain better.'''
+ 1. '''None title'''
+ 1. '''Precarious oasis'''
+ 1. '''Everyone's a hard nut.'''
+ 1. '''Underground city'''
+ 1. '''Pitfall'''
+ 1. '''Try anything once.'''
+ 1. '''Which one are you trying to get?'''
+ 1. '''Private room available'''
+ SFC판의 SUNSOFT SPECIAL 3과 같다.
+ 1. '''Final impediment'''
+ SFC판의 SUNSOFT SPECIAL 4와 같다.
+
+=== SUNSOFT ===
+이것도 MD판만의 추가 단계로, 거의 ONML의 Havoc 수준으로 어렵다. MD판의 마지막 단계.
+ 1. '''Rules to Fall'''
+ 맨 처음 레밍이 Digger 하나 쓰면 클리어되는, 어이없을 정도로 쉬운 스테이지.
+ 1. '''Inside the bone'''
+ Builder를 절묘한 위치에서 계속 사용해서 레밍이 뼈 안으로 들어가지 않게 하는 스테이지. 도구 자체는 넉넉히 준다.
+ 1. '''Anxiety'''
+ 이 스테이지부터 난이도가 크게 올라간다. SUNSOFT의 진가가 발휘되기 시작하는 스테이지. 레밍 한 마리를 빼냄과 동시에 다른 레밍들을 묶어야 하는데, 적절한 타이밍에 주어진 Builder과 Miner를 사용해야 한다.
+ 1. '''Train your body'''
+ 지형을 잘 살펴보면 어렵지 않은 스테이지. 다만 무작정 플레이한다면 답이 보이지 않을 수도 있다.
+ 1. '''Watch your step'''
+ 타이밍형 레벨. 여기까지 진행한 플레이어라면 대충 Bomber와 Basher를 어떻게 쓰는 지는 쉽게 알 수 있을것이다.
+ 1. '''Libra'''
+ 친절하게 Bomber 수만큼 Blocker를 주는 레벨. 쉬어가는 레벨이 가깝다.
+ 1. '''Everyone turn left (Part two)'''
+ 컨트롤형 스테이지. Pause를 잘 활용하자.
+ 1. '''Is this a circus?'''
+ 일반적인 방법으로 출구까지 길을 만드려면 Builder 하나가 필연히 부족하게 된다. 이 Builder를 어디서 아낄 수 있는가를 생각해봐야 하는 레벨.
+ 1. '''Evacuating a coal mine'''
+ 상당히 까다로운 스테이지 중 하나. 출구까지 직접 계단을 쌓을 수 없는건 분명하지만 Builder가 딱 봐도 매우 부족해 보이는데...
+ 1. '''Spiral staircase'''
+ 1. '''Turn around and look.'''
+ 1. '''Water processing plant'''
+ 1. '''Doomsday'''
+ 1. '''No world without you'''
+ 1. '''Exodus!'''
+ ONML의 Crazy 7을 이식한 스테이지이다.
+ 1. '''Here is Mr.Lemming's house'''
+ 1. '''Cave quest'''
+ 1. '''SUNSOFT Special'''
+ 특수 배경 스테이지이다. 오리지널 레밍즈를 이 버전으로 이식한 선소프트에서 만든 '헤베레케'라는 게임의 캐릭터가 거대화된 게 지형으로 나오고 BGM도 그 게임의 BGM으로 나온다. 하지만 특수 배경 스테이지의 특성상 복잡한 건 없다. 그냥 보여주기용 스테이지.
+ 1. '''Let's go camping.'''
+ 1. '''Haunted botanical garden'''
+ 1. '''Be sure to be a builder.'''
+ 1. '''Watch right or left (Part two)'''
+ 1. '''Move on in two seperate groups.'''
+ 1. '''Out, away from the tune'''
+ 1. '''Stray sheep'''
+ 1. '''Just a minute (Part Three)'''
+ 1. '''Two heads are better...'''
+ SFC판의 SUNSOFT SPECIAL 1과 같다.
+ 1. '''No gate trap Lemmings.'''
+ 1. '''I am A.T.'''
+ SFC판의 SUNSOFT SPECIAL 2와 같다.
+ 1. '''Fall and no life (Part Two)'''
+
+== 세가 마스터 시스템 ==
+SMS판은 몇 개의 스테이지를 제외하고 기본적으로 오리지널과 같다. 오리지널에 있던 특수 배경 스테이지는 삭제된 대신 저 앞의 특수 배경 스테이지가 없는 버전에서의 대체 스테이지로 메웠다. (다만, 난이도는 원래 그 스테이지에서 조금 하향되었다.)
+
+또한, 일반 스테이지 중 일부가 삭제되고 그 자리를 일종의 특수 배경 스테이지와 비슷한 SEGA 시리즈로 메웠다는 것도 특징.
+
+따로 제목을 적어놓지 않은 스테이지는 오리지널 스테이지와 같은 스테이지다. '''{{{#blue 파랑색}}}'''은 SEGA 시리즈, '''{{{#green 녹색}}}'''은 오리지널과 해법이 다른 스테이지이다.
+
+=== Fun ===
+ 1.#20 '''{{{#blue SEGA One}}}'''
+ 1.#22 '''{{{#green Go for it}}}'''
+ Builder가 8개에서 무려 33개로 늘어나고 Basher도 4개가 되어 난이도가 급격히 낮아졌다.
+ 1.#26 '''{{{#blue SEGA Two}}}''' (SEGA AGES)
+ 1. '''{{{#green Let's be careful out there}}}'''
+ 맵 이식이 잘못되어 [[충격과 공포]]스럽게도 손쉽게 깨는 방법이 존재한다. 물론 오리지널에선 죽었다 깨어나도 절대로 불가능한 방법.
+
+=== Tricky ===
+ 1.#14 '''{{{#green MENACING}}}'''
+ 제목과는 달리 'Lemming Lament'와 같은 지형의 스테이지. Digger가 있기 때문에 오리지널의 그 스테이지처럼 대량 자폭을 시킬 필요는 없다.
+ 1.#25 '''{{{#blue SEGA Three}}}''' (SEGA SEAS)
+
+=== Taxing ===
+ 1.#4 '''{{{#green Lend a helping hand}}}'''
+ 오리지널의 그 스테이지를 옮긴 건 맞는데 트랩이 없어졌다. 뭥미?
+ 1.#15 '''{{{#green What an AWESOME level}}}'''
+ Tricky 14와 마찬가지 케이스. 원래 스테이지는 엄청나게 어려운데 8가지 아이템을 전체 레밍 수와 같은 20개씩으로 늘려 버리는 바람에 난이도가 대폭 낮아지다 못해 잉여 스테이지로 전락하고 말았다. 모든 레밍에게 Floater 해주고 한 마리만 먼저 Climber로 올려 보내서 Builder로 다리를 놓은 뒤 나머지 19마리도 Climber를 해 주면 장땡이니까.
+ 1.#21 '''{{{#blue SEGA Four}}}'''
+ 1. '''{{{#green Come on over to my place}}}'''
+ Fun 27과 마찬가지.
+ 1.#24 '''{{{#green Take a running jump}}}'''
+ 처음 보이는 낭떠러지를 건너고 그냥 내려오면 오리지널에선 살지만 여기선 낙사한다. 그리고 출구로 가는 길이 막혀 있다. 그 대신 Basher 1개와 Digger 2개를 주니 잘 활용할 것.
+ 1.#30 '''{{{#blue SEGA Five}}}'''
+
+=== Mayhem ===
+17스테이지는 삭제되고 그 자리는 원래 21스테이지에 있어야 할 스테이지가 옮겨왔다. 또한 21스테이지는 Taxing 21에 있던 게 옮겨진 것이다.
+
+여기에 있는 SEGA 스테이지들은 앞에 나온 5개의 SEGA 스테이지들을 재탕한 스테이지들이다. 물론 조건은 더 까다로워졌다.
+ 1.#09 '''{{{#blue SEGA One}}}'''
+ 1.#12 '''{{{#blue SEGA Two}}}'''
+ 1. '''{{{#blue SEGA Three}}}'''
+ 1.#18 '''{{{#blue SEGA Four}}}'''
+ 1.#29 '''{{{#blue SEGA Five}}}'''

@@ -1,0 +1,93 @@
+[[목차]]
+|| 장르 |||||||| Black Disco ||
+|| 곡명 |||||||| Seize The Day ||
+|| 작곡 |||||||| [[Ruby Tuesday]] ||
+|| 작사/보컬 |||||||| J.D Williams ||
+|| 배경 |||||||| [[MAZZYSTAR]] ||
+|| 최초 수록버전 |||||||| [EZ2DJ 2nd][[BR]][wiki:"EZ2Dancer" EZ2Dancer The 1stMOVE] ||
+|| BPM |||||||| 120.1 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 2}}} || {{{#red 5}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 5}}} || {{{#red 9}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='u8tzngQxqOY$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=u8tzngQxqOY$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=u8tzngQxqOY$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+== 개요 ==
+[[EZ2Dancer]] 1st에서 첫 등장한 [[Ruby Tuesday]]의 정통적 스타일의 [[디스코]]곡. [[어스 윈드 앤 파이어]]의 디스코 곡들을 연상시키는 밝으면서도 차분한 분위기의 디스코이다. 제목은 '오늘을 즐겨라'(카르페 디엠)이라는 뜻.
+
+이지투댄서 1st에서는 저난이도의 초보 유입용 곡으로 등장했었으며, EZ2DJ 2nd에선 데모플레이에 등장하면서 비중이 더욱 높아졌다. 다만 리듬게임이라는 장르의 특성상 난이도가 낮은 곡은 점점 유저들의 손길이 끊기기 마련인지라, 점점 이 곡을 직접 골라 플레이하는 사람을 찾기가 하늘의 별 따기 수준이 되었고, 결국 비인기 구곡의 대거 칼질이 이루어진 7th CV때 삭제되었었다. 물론 최신작 [[BE rA]]에선 다시 부활.
+
+이 곡의 비주얼은, 후 7th 1.5의 [[Gray Hunter]]에 재사용되었다.
+
+참고로 [[1박 2일]]에서 5대어선 특집 때 [[Stay]]와 함께 쓰인적이 있다 [http://m.youtube.com/watch?v=hzjhVPYz2Qo 첫 부분을 유심히 들어볼 것.]
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+난이도는 노멀이 2, 하드가 5. 2nd 당시에는 4였으나, 4 치고 어렵다는 의견이 많아 3rd부터 5로 상향되었다. 4th에서는 놀랍게도 이지가 난이도가 3이다! 이지가 노멀의 난이도를 뛰어넘는 괴곡(?). 그 이후로 이지 믹스는 삭제되었다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== [[EZ2ON]]에서의 Seize The Day ==
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| 기본곡 ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체]||
+|| 루비(4키) || 1 || 4 || 7 || 10 || - ||
+|| 스트릿(5키) || 4 || 7 || 10 || 13 || - ||
+|| 클럽(6키/8키) || 7 || 10 || 13 || - || 13 ||
+
+{{{#!HTML
+<iframe width="550" height="309" src="//www.youtube.com/embed/bM3QXhtzPqs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+6키 HDMix 영상.
+
+== 가사 ==
+||Seize the day, do it today
+Right away, Stand up Stand up
+And be counted
+
+You've been spending your life hiding
+From all your dreams and hopes
+Those are inside of your mind
+If you don't start living right now
+You'll find out that time is running out
+
+So get a move on
+Cause you're only fooling youself
+Start believing cause you're not like anyone else
+You can do most anything your mind can think of
+Live your life cause it's the only life
+You'll ever own
+
+The hands of time
+They move in one directon
+Gather all your rosebuds
+While you can today
+If you listen you can heart them saying
+Carpe diem... Seize the day
+
+Seize the day, do it today
+Right away, Stand up
+And be counted
+Seize the day, do it today
+Right away
+Seize the day!||

@@ -1,0 +1,65 @@
+[[목차]]
+
+== 개요 ==
+還擊
+직역하면 '되돌려치기'
+
+[[바둑]]에서 상대의 돌을 잡고자 할 때 자신의 돌 하나를 일부러 잡히게 만들어서 상대방이 그 돌을 잡으면 바로 다음에 돌이 잡힌 자리에 다시 둬서 여러개의 돌을 한번에 잡는 방법이다. [[축]]·[[장문]]과 함께 돌 잡는 방법의 기본에 속한다.
+
+[[패]]와는 전혀 다르니 주의. 패는 돌 하나씩 잡고 되잡기를 반복하는 모양이고, 환격은 돌 하나 잡혀주고 여럿 되잡는 모양이다.
+
+== 예시 ==
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├┼┼●○┼┼
+●●●╋┼○○
+●○○<span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span><span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span>○●
+○┼○○○●●
+└●○┴●┴┴ </div>}}}
+백의 차례. 좌하귀의 백은 죽기 일보직전이다. 하지만 흑 ㅿ를 잡을 수만 있다면 숨통이 트이는데.
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├┼┼●○┼┼
+●●●<span style="color:white; background:black;">②</span>①○○
+●○○<span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span><span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span>○●
+○┼○○○●●
+└●○┴●┴┴ </div>}}}
+이 수는 잘못된 수이다. 흑돌이 완전히 이어져 [wiki:"에어맨을 쓰러뜨릴 수 없어"잡을 수가 없다].
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├┼┼●○┼┼
+●●●①<span style="color:white; background:black;">②</span>○○
+●○○<span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span><span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span>○●
+○┼○○○●●
+└●○┴●┴┴ </div>}}}
+이렇게 [[호구]]에 넣어서 단수를 침이 옳다. 흑 2로 백 1을 잡아도, 잡자마자 흑돌이 단수다.
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├┼┼●○┼┼
+●●●③<span style="color:white; background:black;">②</span>○○
+●○○<span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span><span style="letter-spacing:-16px;">●</span><span style="color:white;">ㅿ</span>○●
+○┼○○○●●
+└●○┴●┴┴ </div>}}}
+이렇게 백 3으로 흑돌 3점을 다시 잡으니,
+
+{{{#!html
+<div style="font-family:굴림체; line-height:1; letter-spacing:0; color:black; background:white; font-size:16px;">
+├┼┼┼┼┼┼
+├┼┼●┼┼┼
+├┼┼●○┼┼
+●●●③┼○○
+●○○┼┼○●
+○┼○○○●●
+└●○┴●┴┴ </div>}}}
+죽기 직전에 몰렸던 백이 두 집을 내고 살았다.

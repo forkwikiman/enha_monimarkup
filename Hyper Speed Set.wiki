@@ -1,0 +1,31 @@
+== [DJMAX TECHNIKA] 시리즈의 세트 ==
+
+attachment:Hyperspeed.png
+
+[[DJMAX TECHNIKA 3]]에서 추가된 디스크셋 중 하나
+난이도는 Maniac Perfomance
+=== [DJMAX TECHNIKA 3] ===
+==== 수록곡 일람 ====
+||#||Lv||장르||곡명||아티스트||BPM||패턴||비고/출현조건||
+||1||8||Rave||[[Supernova]]||[[cranky]]||165||HD|| ||
+||2||8||Euro Dance||[wiki:"Angel(DJMAX)" Angel]||Lawrent Newfield & Ravenant||170||HD|| ||
+||3||8||Modern Rock||[[Just For Today]]||J Minus||180||MX||※지뢰곡||
+||4||8||Light pop||[wiki:"EGG(DJMAX)" EGG]||[[Nauts]]||176||MX|| ||
+||5||9||Electric Pop||[[Now a New Day]]||sui.jay||158||MX||상위 루트 필수선택 ||
+||6||10||UK Hardcore||[[Right Back]]||TANUKI||175||MX||※지뢰곡, 상위 루트 필수선택||
+||B1||11||Ani pop||[wiki:"Over The Rainbow(DJMAX)" Over the Rainbow] ||[[Tsukasa]]||190||MX||선택곡 3곡 번호합 < 14 ||
+||B2||12||Gabber||[[Bamboo on Bamboo]]||[wiki:"호소에 신지" Sampling Masters MEGA]||200||MX||선택곡 3곡 번호합 ≥ 14 ||
+
+==== 설명 ====
+[[DJMAX TECHNIKA 3]] 맥스 포인트 샵 14차 업데이트에서 공개된 디스크 셋.
+[wiki:"DJMAX TECHNIKA 2" 전작]의 [[Super Speed Set]]의 후속격이라 할 수 있는 셋으로, 이름 그대로 고BPM의 곡들을 모아 놓은 세트이다. --[[Super Speed Set]]에는 [[wiki:"D2(DJMAX)"D2]]가 있어서 이쪽은 포스가 좀 떨어져 보인다.--
+
+공개 전에는 Very Hard Perfomance라는 소문이 돌았으나, 5월 18일 테크니카3 공식 트위터를 통해 Maniac Perfomance라는 사실이 밝혀졌다.
+
+셀렉곡들과 보스곡들 모두 무지막지한 난이도를 보여주고 있다. ~~그냥 이제는 [wiki:"Fatality Set" 이게 매니악이다 하고] 받아들이는 게 속 편하다~~
+
+일단 셀렉트 곡 중 [Just For Today]는 롱노트와 긁기의 압박이 상당히 심하고 잘 씹히며 손 꼬이는 드래그 패턴 배치+보분 노트로 상당히 까다로우며 [Now a New Day]는 HD 패턴에서 더욱 강화된 롱노트의 압박과 후반부 뜬금없는 키음을 이용한 보+분 연타 배티와 뒤이은 정박 보+분 노트 후살 구간을 가지고 있다. 그리고 [Right Back]은 [Fatality Set]의 6번 수록곡 [Angel] MX패턴의 등장으로 인해 밀리긴 했지만 [Maximum Set]의 [Dream of Winds]와 함께 클럽믹싱 셀렉트곡중에선 당연히 최상위권 난이도를 자랑다. 기본적으로 빠른 BPM에 하드 패턴의 압살적인 구간들을 모두 보라노트로 변형시키고 강화해 놓아 손 꼬이고 박자를 놓치기 쉬운 답이 없는 패턴이다.
+
+하위 보스곡인 [wiki:"Over The Rainbow(DJMAX)" Over the Rainbow]는 기본적으로 하드패턴에 보라돌이를 추가해놓고 중간에 [Son of Sun] MX패턴의 압살적인 쪼쪼구간과 같은 형식의 패턴은 압권. [Bamboo on Bamboo]는 기본적인 고속의 BPM에 처음부터 끝까지 무지막지한 노트폭타로 패턴을 눈으로 따라가는 것 자체가 힘들 지경이다.
+
+첫 클리어를 노린다면 --그나마-- 쉬운 [[Supernova]], --역시 그나마-- 쉽고 익텐패턴과 유사한 [[wiki:"EGG(DJMAX)"EGG]], 미션 등으로 익숙한 [wiki:"Angel(DJMAX)" Angel]을 넣고 [[wiki:"Over The Rainbow(DJMAX)"Over The Rainbow]]를 소환해보자. 나머지 패턴들은 일단 클리어 자체부터 상당한 실력을 요구한다. 그나마 할만한 패턴은 [[Now a New Day]]를 1스테이지에 넣어보자. 후반부의 패턴이 익숙해지면 게이지가 절반정도 깎여있어도 어떻게 회복이 가능하다. 또한 거의 모든 패턴들이 고속의 BPM에 보+분 조합을 많이 가지고 있어 힘들다면 팝 믹싱이나 클럽 믹싱의 비슷한 패턴들로 미리 연습하는 것이 필요하다.

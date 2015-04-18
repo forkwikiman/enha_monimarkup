@@ -1,0 +1,9 @@
+ * 상위항목: [[자연과학 관련 정보]] - [[화학 관련 정보]], [[염기]]
+
+Superbase
+超塩基 혹은 超強塩基(초강염기)
+
+[[초강산]]에 대응하는 [[염기]]. 1850년대부터 superbase라는 용어를 사용했음이 확인되었다. [[용해액|수용액]]에서는 [http://en.wikipedia.org/wiki/Leveling_effect 수평화 효과(Leveling effect)][* 일정 이상 산이나 염기성을 띨 경우 일부 이온이 물에 의해 반대의 성질로 바뀌는 것] 때문에 염기성에 한계가 있지만, 비수 용매 중에서는 엄청나게 강한 염기를 만들 수 있다.  유기 [[리튬]], [http://en.wikipedia.org/wiki/Grignard_reaction 그리나르 시약], 수소화 [[소듐]](Na^^+^^ H^^-^^), 수소화 [[포타슘]](K^^+^^ H^^-^^) 등이 있다.
+
+초강산의 경우처럼 [http://en.wikipedia.org/wiki/Hammett_acidity_function Hammett 산도함수]를 사용해서 그 강도를 구한다.
+

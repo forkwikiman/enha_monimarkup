@@ -1,0 +1,43 @@
+[[목차]]
+== TRIBAL CHAIR의 곡 ==
+attachment:/909.jpg
+본 곡이 수록된 앨범 From the bottom of this town의 자켓
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/78-9WC17E1E" frameborder="0" allowfullscreen></iframe>}}}
+PV 영상
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer80602' width='500' height='383'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=F15F835609431CD698D08166FF3BD9BCEC2F&outKey=V123e303b3b4822c90eaab9822d7ae024021c571ce982676dcbddb9822d7ae024021c' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=F15F835609431CD698D08166FF3BD9BCEC2F&outKey=V123e303b3b4822c90eaab9822d7ae024021c571ce982676dcbddb9822d7ae024021c' wmode='transparent' width='500' height='383' allowScriptAccess='always' name='NFPlayer80602' id='NFPlayer80602' allowFullScreen='true' type='application/x-shockwave-flash' /></object>}}}
+[[창천항로]] OP 영상 ~~가사는 나오지도 않고 스크리밍만 하다가 끝난다~~
+
+[[일본]]의 5인조 실력파 인디밴드 TRIBAL CHAIR의 곡으로, 앨범 From the bottom of this town의 1번째 트랙 수록곡이다. 또한 [[창천항로]] 애니판 OP으로도 쓰였다.~~50초 밖에 안 되지만~~
+
+== [[유비트]]에서의 909 ==
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CkbcfU92WOc" frameborder="0" allowfullscreen></iframe>}}}
+익스트림 보면 영상
+
+||||||||||<#2828a0><:>jubeat Plus 기준||
+||<|2><#2828a0><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>4||<:>6||<:>8||
+||<#2828a0><:>노트수||||<:>198||<:>301||<:>699||
+||<#2828a0><:>BPM||||||||<:>[[추가바람]]||
+
+[[유비트 플러스]]에 2012년 3월 22일 공개된 TRIBAL CHAIR pack의 수록곡이다.
+레벨8인데 불구하고 무성한 노트바를 보고 [[사기 난이도]] 아니냐는 얘기가 나올 수도 있겠지만, 거의 다 정박위주라서 판정내기는 쉬운 편이다.
+그나마 주의해야 할 점이라면 초반,후반부에 총 2회 나오는 
+
+□□⑥⑤
+⑦□④⑥
+①③□□
+②□⑦□
+
+이러한 패턴과, 가사 중 909(나인-오-나인)이 나올때의
+
+①①③③
+□①□③
+□②②□
+□②②□
+
+909를 본뜬듯한 패턴 외에는 무난하게 칠 수있는 패턴들뿐이다.

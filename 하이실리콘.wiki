@@ -1,0 +1,35 @@
+attachment:logo.jpg
+
+[[http://www.hisilicon.com/ 공식 사이트]]
+
+[[목차]]
+
+== 개요 ==
+중국의 IT 기업인 [[화웨이]]의 자회사로, 모바일 AP나 네트워크 반도체를 전문적으로 설계하는 회사다. 다만, 자체 팹은 보유하지 않은 팹 리스 업체이다.
+
+대표적으로, [[화웨이]]의 [[스마트폰]]에 탑재되는 자체 AP인 Kirin 시리즈를 설계한다.
+
+== AP 라인업 ==
+=== K3V2 ===
+==== Hi3620 ====
+||<tablealign="center"><width=5%><:>[[CPU]]||<width=40%> [[ARM Cortex-A9]] MP4 1.5 GHz ||
+||<:>[[GPU]]|| Vivante GC4000 480 MHz ||
+||<:>생산 공정|| [[TSMC]] 40nm ||
+||<:>주요[[br]]사용 기기|| [[화웨이 어센드 P 시리즈#s-2.2|Ascend P2]], [[화웨이 어센드 메이트 시리즈#s-2.1|Ascend Mate]] ||
+
+=== Kirin ===
+==== 910 ====
+||<tablealign="center"><width=5%><:>[[CPU]]||<width=20%> [[ARM Cortex-A9]] MP4 1.6 GHz ||<width=20%> [[ARM Cortex-A9]] MP4 1.8 GHz ||
+||<:>[[GPU]]|| [[ARM Mali]]-450 MP4 533 MHz || [[ARM Mali]]-450 MP4 700 MHz ||
+||<:>생산 공정|||| [[TSMC]] 28nm HPm ||
+||<:>주요[[br]]사용 기기|| MediaPad X1 || [[화웨이 어센드 P 시리즈#s-2.4|Ascend P7]] ||
+
+Kirin 라인업 첫 번째 제품이다. 이 때부터 통신 모뎀이 AP에 통합되기 시작했으며, [[LTE]] Cat.4를 만족하는 통합 모뎀이 내장되어 있다.
+
+==== 920 ====
+||<tablealign="center"><width=5%><:>[[CPU]]||<width=20%> [[ARM Cortex-A15]] MP4 1.7 GHz ~ 2 GHz[[br]][[ARM Cortex-A7]] MP4 1.2 GHz ~ 1.6 GHz ||<width=20%> [[ARM Cortex-A15]] MP4 1.8 GHz[[br]][[ARM Cortex-A7]] MP4 1.3 GHz ||
+||<:>[[GPU]]|| [[ARM Mali]]-T624 MP4 533 MHz || [[ARM Mali]]-624 MP4 -- MHz ||
+||<:>생산 공정|||| [[TSMC]] 28nm HPm ||
+||<:>주요[[br]]사용 기기|| [[화웨이 X3|Honor 6]] || [[화웨이 X3#s-2.2|Honor 6 Plus]]] ||
+
+Kirin 라인업 두 번째 제품이자, [[ARM big.LITTLE 솔루션]]이 적용된 최초의 하이실리콘의 AP이다. 내장된 통신 모뎀은 [[LTE]] Cat.6를 만족하는 통합 모뎀이며, 이 정도 수준의 통신 모뎀을 내장한 세계 최초의 모바일 AP이다.[* 퀄컴의 경우 [[퀄컴 스냅드래곤|스냅드래곤]] 805 APQ8084에 모뎀이 통합되어있지 않다. [[LTE]] Cat.6 모뎀을 보유하고 있는 퀄컴 이외의 기업인 삼성과 인텔의 경우, 아직까지 AP에 통신 모뎀을 통합하고 있지 않다.]

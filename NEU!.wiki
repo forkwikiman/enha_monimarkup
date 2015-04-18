@@ -1,0 +1,44 @@
+ * [[BEMANI 시리즈]] 수록곡을 찾는다면 [[neu]] 항목으로, 독일의 2인조 신스팝 / 크라우트록 밴드는 [[노이!]] 항목을 참조.
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/61u7vWqfmQL._SL500_AA300_.jpg
+곡이 수록된 앨범 'coton'의 자켓 --귀엽다--
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/KWwNiQ4GiGw?fs=1&amp;hl=ko_KR&amp;color1=0x3a3a3a&amp;color2=0x999999"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KWwNiQ4GiGw?fs=1&amp;hl=ko_KR&amp;color1=0x3a3a3a&amp;color2=0x999999" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="360"></embed></object>
+}}}
+PV 영상
+
+일본의 테크노 밴드 √thumm("루트 썸"이라고 읽는다.)과 Antenna의 합작곡. 제목은 아무래도 [[노이!]]에서 따온듯. 2009년 12월 2일에 발매된 √thumm의 첫 앨범 'coton'에 수록된 곡이다. [[신디사이저]] 연주에 맞추어 여성 보컬이 노래하는 곡. 비디오와 앨범 자켓에 등장하는 동물은 팀의 마스코트로, 이름은 '''재피'''라고 한다. 원래는 Antenna 쪽의 마스코트였던 듯. 
+
+== 가사 ==
+{{|
+more love!! 
+secret fantastic song 4 after 18:05
+how long? I'm fun! last and you! 
+for lost night! ready 5(ご) round!
+|}}
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>7||<:>8||
+||<#5a5aff><:>노트수||<:>238||<:>524||<:>717||
+||<#5a5aff><:>BPM||||||<:>133||
+||<#5a5aff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. --[[wiki:"neu" 니엔ㅌ... 아무것도 아니에요]]--[* [[그런데 그것이 실제로 일어났습니다]]. 2013년 6월 3일에 neu가 진짜 수록되었다. --으악--]
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/3soIMGidlWA" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME 보면 영상
+
+보컬 부분에서 '''버튼 3개로 만들 수 있는 거의 모든 모양이 동시치기로 등장'''한다. 처음 플레이하면 노트가 나올 때마다 뜨끔뜨끔하면서 [[포풍]] [[간접미스]]가 나게 된다. (...)
+게다가 중간의 트릴과 16비트짜리 ∞ 모양 노트는 익숙해지지 않으면 해결하기 어렵다. 다만 동시치기와 16비트에 익숙해졌다면 판정만 잘 맞추면 되므로 난이도가 급 하락하는 곡이기도 하다. 덧붙여 [[유비트 니트]] 추가곡 중 가장 [[엑설런트]]가 늦게 뜬 곡이지만, 레벨 8 중에서 엑설런트 달성자 수는 중위권 정도이다[* 2011년 1월 24일 기준으로 엑설런트 달성자가 가장 많은 8렙 곡은 [[そらとぶひかり]]].
+
+[[각주]]

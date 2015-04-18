@@ -1,0 +1,42 @@
+{{{+1 Ligne 5 du tramway d'Île-de-France / Île-de-France tramway Line 5}}}
+ * [[철도 관련 정보]]
+||<-5><table align=center><#ffffff> [wiki:"파리 트램" <span style="font-weight:bold;color:0000f9">파리 트램 운행 노선</span>] ||
+||<#dcdcdc> [[wiki:"파리 트램 1호선" 1호선]] ||<#dcdcdc> [[wiki:"파리 트램 2호선" 2호선]] ||<#dcdcdc> [[wiki:"파리 트램 3a선" 3a선]] ||<#dcdcdc> [[wiki:"파리 트램 3b선" 3b선]] ||<#dcdcdc> [[wiki:"파리 트램 4호선" 4호선]] ||
+||<#ffffff> '''{{{#b156a1 5호선 }}}''' ||<#dcdcdc> [[wiki:"파리 트램 6호선" 6호선]] ||<#dcdcdc> [[wiki:"파리 트램 7호선" 7호선]] ||<#dcdcdc> [[wiki:"파리 트램 8호선" 8호선]] ||<#dcdcdc> {{{#dcdcdc }}} ||
+
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#b156a1 '''파리 트램 5호선'''}}} ||
+||운영기관 ||파리교통공사(RATP)||
+||영업거리 ||6.6km ||
+||궤간 ||1435㎜ ||
+||역수 ||16 ||
+||차량 ||Translohr STE3 ||
+||전기 ||직류 1500V ||
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/T5_Station_March%C3%A9_de_Saint-Denis_1.JPG/800px-T5_Station_March%C3%A9_de_Saint-Denis_1.JPG?width=650
+
+[[파리 트램]]의 한 노선으로 파리 트램 5호선은 남북 방향의 노선이다. 북쪽의 가르주 - 사르셀 (Garges - Sarcelles) 역으로부터 남쪽의 마르셰 드 생 드니(Marché de Saint-Denis)역까지 운행한다. 이 노선은 [파리교통공사](RATP)가 운영한다. 2013년 7월 29일에 개통한 노선이다.
+
+== 노선 ==
+attachment:/노선도.jpg?width=650
+
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 마르셰 드 생 드니 || Marché de Saint-Denis || 3 || {{{#006cb8 ①}}} [[파리 트램 1호선]] ||  ||
+|| 보들레르 || Baudelaire || 3 ||  ||  ||
+|| 로제 세마 || Roger Sémat || 3 ||  ||  ||
+|| 귀느메르 || Guynemer || 3 ||  || ||
+|| 프티 피에르피트 || Petit Pierrefitte || 3 ||  ||  ||
+|| 종쉬롤 || Joncherolles || 3 ||  ||  ||
+|| 수잔 발라동 || Suzanne Valadon || 3 ||  ||  ||
+|| 메리 드 피에르피트 || Mairie de Pierrefitte || 3 ||  ||  ||
+|| 알시드 도르비니 || Alcide d'Orbigny || 3 ||  || ||
+|| 자크 프레베르 || Jacques Prévert || 3 ||  ||  ||
+|| 뷔트 팽송 || Butte Pinson || 3 ||  ||  ||
+|| 레 솔레트 || Les Cholettes || 4 ||  ||  ||
+|| 레 플라나데 || Les Flanades || 4 ||  ||  ||
+|| 폴 발레리 || Paul Valéry || 4 ||  ||  ||
+|| 로셰르 || Lochères || 4 ||  ||  ||
+|| 가르주 - 사르셀 || Garges - Sarcelles || 4 || {{{#18964c Ⓓ}}} [[RER D선]] || ||
+
+[[각주]]

@@ -1,0 +1,101 @@
+[[목차]]
+== extravaganza ==
+'''광시문(狂詩文)''', '''광사곡(狂想曲)''' 등을 뜻하는 말. '화려하다' 혹은 '사치스럽다'는 뜻의 [[이탈리아어]] 'stravaganza(스트라바간차)'에서 왔으며, [[영어]] 발음을 [[외래어 표기법]]에 맞게 적으면 ''''엑스트래버갠저''''이다. 일정한 형식에 구속되지 않고 자유로운 요소가 강한 기악곡을 뜻하는 '[[카프리치오]](capriccio)'와 동일어이다.
+
+19세기 후반 미국에서 널리 상연된 스펙터클성을 강조한 대중연극을 가리키는 말이기도 하다. 일반적으로는 호화찬란하고 화려한 쇼나 괴상망측하고 기괴한 이야기 혹은 연극을 가리킨다.
+
+== 리듬게임 ==
+=== [[펌프 잇 업]]에 나왔던 초기 고난이도 곡 ===
+ * 상위 항목: [[펌프 잇 업/수록곡 일람]]
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/2nd" Pump It Up The 2nd Dance Floor]] ||
+|| 아티스트 |||| BanYa ||
+|| BPM |||| 195 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| Original Tunes / 1st ~ Perf ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/PRIME" Prime] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 4[* FIESTA EX 新채보] / 7[* FIESTA 新채보] / 9 / 11 / 16 / 21 ||
+||<#009900> Double || 12 / 17 / 19 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+||<|3> Short Cut ||<#ff8c00> Single || 14 ||
+||<#009900> Double || 14 / 21 ||
+||<#F77FBE> Single Performance || 15 ||
+
+{{{#!HTML
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/Q_86lc6beNc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Q_86lc6beNc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 2nd 시절 영상
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/FYi5kn7flw0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+▲ 3rd시절 영상
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/38I-nT87NGU?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/38I-nT87NGU?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+△Fiesta 시절 영상
+
+[[펌프 잇 업/2nd]]의 히든곡으로 처음 등장.
+
+이 곡은 [[다프트 펑크]]의 Burnin'이라는 곡을 빠르게 돌린 후에 편곡한 것이다. 당시의 반야 관행을 살펴보면[* Iginition Starts도 무단으로 샘플 음원을 사용했다. 그래서 외국에도 수출하게 된 이후에는 샘플 저작권 문제 때문에 영원히 부활시키지 못하였으나 프라임에 부활 시켰다.] 이것도 무단 샘플링일 가능성이 높다. ([http://www.youtube.com/watch?v=44I-C8I1wPE 직접 들어보기])
+
+여담으로 게다가 워낙 이 곡은 BGA가 세번이나 바뀐 특이한 곡이기도 하다.
+
+더한 고난이도 곡들이 많이 나온 뒤로는 명성이 많이 퇴색한 상태지만, 어나더 모드에서 추가된 채보는 상당히 많이 파워업되었다. 그래도 보스곡군에 밀리는 형편이지만 기존 크레이지 채보에 비해서는 상당히 파워업된 것으로 기존의 크레이지 채보보다 5레벨 이상의 격차다...
+
+3rd에서는 노트가 전체적으로 바뀌어 나오는데, 하드모드에서 서론쯤 지나서 나오는 채보에는 엉덩이를 씰룩씰룩하게 만드는 채보가 등장하여 웃지 못할 상황이 많이 연출되었다. 특히 쫄바지를 입고 플레이하는 사람들의 경우 더 리얼하다.~~한 어떤 여성 유저의 경우 이곡을 하다가 엉덩이 씰룩씰룩 채보에서 바지가 터져서 팬티와 [[생리대]]가 보여 민망해 도망갔다는 전설도 존재..~~
+
+업그레이드된 채보의 내용은 초반 상당한 난이도의 허리틀기(이어밟기)후에 1롱놋 + 2키 패턴, bpm 195의 허리틀키 4틱 노트, 그리고 마지막에는 롱놋으로만 구성된, 제작자의 의도대로 밟으면 사람을 빙글빙글 돌면서 밟게 만드는 채보로 구성되어 있다. 레벨은 21.
+
+== 채보 구성 ==
+=== 싱글 ===
+Lv.4 - [[추가바람]]
+
+Lv.7 - [[추가바람]]
+
+Lv.9 - [[추가바람]]
+
+Lv.11 - [[추가바람]]
+
+Lv.16 - [[추가바람]]
+
+Lv.21 - [[추가바람]]
+
+=== 더블 ===
+Lv.12 - [[추가바람]]
+
+Lv.17 - [[추가바람]]
+
+Lv.19 - [[추가바람]]
+
+==== Extravaganza Reborn ====
+ * 상위항목: [[펌프 잇 업/수록곡 일람]]
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/Infinity" Pump It Up Infinity]] ||
+|| 아티스트 |||| BanYa Remixed By Wavelength ||
+|| BPM |||| 95~190 ||
+|| 비주얼 |||| YSJ ||
+|||||||||| 모드별 레벨 데이터 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 5 / 8 / 12 / 17 /  20 ||
+||<#009900> Double || 14 / 18 / 21 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || - ||
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/6ut1YJrm-zs?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6ut1YJrm-zs?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ D21 채보 영상
+
+펌프 잇 업 인피니티에 Wavelength가 리믹스한 버전이 수록되었다. 안타깝게도 비슷한 시기에 출시된 피에스타 2에서는 수록되지 않았다.
+
+근데 들어보면 엑스트라바간자 원판소리가 잘 안들린다. 귀 쫑긋 세우고...
+
+=== [[아스트로레인저]] ===
+위 항목의 동일한 노래를 가지고 왔다. 난이도는 이지는 6 노말은 8 하드는 12로 일반인이 플레이할 수 있는 최고난이도 곡.
+
+자세한 영상이 나오면 [[추가바람]].
+
+== [[Black Cyc]]사의 [[에로게]] ==
+[[EXTRAVAGANZA～벌레를 사랑한 소녀～]] 항목 참조.

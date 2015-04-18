@@ -1,0 +1,171 @@
+ * 상위 항목 : [[ZTE]], [[차이나유니콤]]
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 중국 통신사인 [[차이나유니콤]]을 통해 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 목록. 전 제품군 [[차이나유니콤]] 통신망 사정에 따라 [[WCDMA]]를 지원한다.
+
+현재 ZTE 중국 공식 홈페이지에서는 제품의 등록 날짜를 확인할수 없어 출시일을 가늠하기 힘든 상황이다. 각 기기 출시일 [[추가바람]].
+
+기기 모델명은 고유의 세자리에서 네자리수 앞에 '''V'''가 접두된다. 다만, [[차이나유니콤]]이 [[WCDMA]]를 서비스하는 관계로, 일반 글로벌 모델들도 이러한 형태를 취하는 경우가 많다. 때문에 실제로는 출시되지 않았지만, '''V'''가 접두되었다고 항목에 게시된 경우가 있을수 있다.
+
+한국 출시가 되지 않아도 한국어를 지원하는 경우가 있다. ~~조선족도 한국어 쓰잖아.~~ 이는 [[wiki:"안드로이드(OS)" 안드로이드]] 자체가 한국어를 지원하기 때문에 ZTE가 [[wiki:"안드로이드(OS)" 안드로이드]] 커스텀 과정에서 한국어를 제외하지 않은 경우에 해당한다. 놀라지 말고 그냥 쓰자.(...) 그런데 이 중에서도 [[ZTE ME|한국 출시 모델]]도 존재한다.
+
+== 소속 기기[* 기기명 번호 순. 현재 중국 모델들을 한국에서 출시순으로 알기가 쉽지 않은 상황이다.] ==
+ * ZTE V790
+ * ZTE V807
+ * ZTE V818
+ * ZTE V879
+ * ZTE V887
+ * ZTE V889D
+ * ZTE V889F
+ * ZTE V889M
+ * ZTE V889S
+ * ZTE V955
+ * ZTE V956 
+ * ZTE V965
+ * ZTE V967S
+ * ZTE V970
+ * ZTE V975
+ * ZTE V9815
+ * ZTE V983
+ * ZTE V985
+
+=== ZTE V790 ===
+[[ZTE/차이나텔레콤|ZTE N790]] 항목 참조.
+
+=== ZTE V807 ===
+[[ZTE Blade#s-2.6|Blade C]] 항목 참조. 해당 모델의 통신사 변종 모델이다.
+
+=== ZTE V818 ===
+ || attachment:818.jpg ||
+ || [http://www.ztedevice.com.cn/product/smart_phone/43375e0e-0dd4-40a9-8955-ece1a6532dc8.html 중국 ZTE V818 공식 사이트] ||
+
+==== 개요 ====
+[[ZTE]]가 2013년 7월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6572 [[SoC]]. [[ARM Cortex-A7]] MP2 1 GHz [[CPU]], [[ARM Mali]]-400 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[4G|HSPA+]] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 2.1 ||
+||[[카메라]]||[[추가바람]] ||
+||[[배터리]]||Li-lon 1500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||67.5 x 134.5 x 9.2 mm, 142 g ||
+||기타|| ||
+
+==== 상세 ====
+자세한 내용 [[추가바람]].
+
+=== ZTE V879 ===
+ || http://pdadb.net/img/zte_v879.jpg ||
+ || [http://www.ztedevice.com.cn/product/smart_phone/aaf4faaa-6841-4cac-8a18-347e15d1f3d5.html 중국 ZTE V879 공식 사이트] ||
+
+==== 개요 ====
+[[ZTE]]가 2013년 9월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6572 [[SoC]]. [[ARM Cortex-A7]] MP2 1.3 GHz [[CPU]], [[ARM Mali]]-400 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[4G|HSPA+]] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE][[br]][wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 2000 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.2 (Jelly Bean) ||
+||규격||72.8 x 136.5 x 8.6 mm, 142 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+V818의 마이너 업그레이드정도의 사양을 가진 중급형 스마트폰이다.
+
+=== ZTE V887 ===
+[[ZTE Blade#s-2.4|Blade L]] 항목 참조. 해당 모델의 통신사 변종 모델이다.
+
+=== ZTE V889D ===
+[MOMODESIGN MD Droid] 항목 참조. 해당 모델의 통신사 내수 모델이다.
+
+=== ZTE V889F ===
+[[ZTE 제트폰|Blade III Pro]] 항목 참조. 해당 모델의 통신사 커스텀 모델이다.
+
+=== ZTE V889M ===
+[[Blade III#s-2.3|Blade III V889M]] 항목 참조. 해당 모델의 통신사 커스텀 모델이다.
+
+=== ZTE V889S ===
+ || attachment:889s.jpg ||
+ || [http://www.ztedevice.com.cn/product/smart_phone/73a2bf08-0f19-4302-ba2c-2cefe9cb85ab.html 중국 ZTE V889S 공식 사이트] || 
+
+==== 개요 ====
+ZTE가 201X년 --[* 월 추가바람]월 출시한 [[안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6577 [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]], PowerVR SGX531 MP2 -- MHz [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB eMMC 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1600 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||64 x 11.9 x 124 mm, 130 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+무난한 사양의 중급형 기기이다.
+
+=== ZTE V955 ===
+ || attachment:955.jpg ||
+ || [http://www.ztedevice.com.cn/product/smart_phone/effc462b-d7ea-4125-a8c6-87923922871c.html 중국ZTE V955 공식 사이트] ||
+==== 개요 ====
+[[ZTE]]가 2011년 --월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Play MSM8225 [[SoC]]. [[ARM Cortex-A5]] MP2 1 GHz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC 지원 (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 IPS TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[네트워크]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||67 x 133 x 9.8 mm., 130 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+무난한 중급형 스마트폰이다.
+
+=== ZTE V956 ===
+ || attachment:956.jpg ||
+ || [http://www.ztedevice.com.cn/product/smart_phone/ab88924d-8f8e-4c2d-a086-246722141ddc.html 중국ZTE V956 공식 사이트] ||
+==== 개요 ====
+[[ZTE]]가 2013년 3월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] 200 MSM8225Q [[SoC]]. [[ARM Cortex-A5]] MP4 1.2 GHz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC 지원 (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" FWVGA](480 x 854) RGB 서브픽셀 방식의 IPS TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[네트워크]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [[플래시(카메라)|플래시]] ||
+||[[배터리]]||Li-Ion 1600 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||66 x 133 x 10.9 mm, -- g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+무난한 중하급 스마트폰이다.
+
+=== ZTE V967S ===
+[[ZTE ME]] 참조. 해당 모델의 통신사 내수 모델이다.
+
+=== ZTE V970 ===
+[[ZTE 그랜드#s-2.1.2|그랜드 X 3G]] 항목 참조. 해당 모델의 통신사 커스텀 모델이다.
+
+=== ZTE V975 ===
+[[ZTE Geek]] 항목 참조. 해당 모델의 통신사 커스텀 모델이다.
+
+=== ZTE V9815 ===
+[[그랜드 메모]] 항목 참조. 해당 모델의 통신사 커스텀 모델이다.
+
+=== ZTE V983 ===
+[[ZTE 그랜드#s-2.1.6|그랜드 X Pro]] 항목 참조. 해당 모델의 통신사 커스텀 모델이다.
+
+=== ZTE V985 ===
+[[그랜드 에라]] 항목 참조. 해당 모델의 통신사 커스텀 모델이다.

@@ -1,0 +1,358 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~/삭제곡|삭제곡]] || [[EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~/라디오채널|라디오채널]] || [[EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 7thTRAX CLASS R ~CODENAME:VIOLET~]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2DJ 7th CV/라디오채널]], [[EZ2DJ CV/라디오채널]], [[EZ2DJ 7th 3.0/라디오채널]]로도 들어올 수 있다.
+ * 다음의 자료를 참고하여 작성하였다.
+  * 5키: [http://www.youtube.com/watch?v=sJNFF58Te3s]
+  * 7키: [http://www.youtube.com/watch?v=ivOa8oOBts0]
+
+[[목차]]
+== 개관 ==
+7th와 7th 2.0에서 대거 부활했던 6th 이전의 채널들이 모두 쓸려나가고 7th 이후 채널들만 남았다. 그나마도 최초 출하판인 3.0 버전에는 신규 채널들밖에 없었지만, 3.01 패치를 통해 7th 계열의 채널들이 재수록되었다.[* http://toez2dj.net/zeroboard/zboard.php?id=c_ez2dj2&no=156105]
+
+CV의 라디오믹스는 모든 채널에 롱노트 콤보가 적용된다. 이때문에 클리어 난이도가 약간 달라진 채널들도 있는데, 대표적으로 7 라디오 믹스의 PPET 채널의 그것이다.
+== 범례 ==
+||<#F275E1>　|| 2nd ||<#79A46E>　|| 3rd ||<#F0BF5B>　|| 4th ||<#B0B0B0>　|| PT ||<#EE83A3>　|| 6th ||<#FD975B>　|| 7th ||<#E1812D>　|| 1.5 ||<#CB744F>　|| 2.0 ||<#D777EF>　|| CV ||
+
+== 5Radio Mix ==
+=== 기본 채널 ===
+||<tablewidth=600px><#D777EF>　|| '''Tapper'''[[br]]Make your own way |||| Lv.7 ||
+|| 1 ||[[For The Top]]|| || ||
+|| 2 ||[[Dragon Hunter%3F|Dragon Hunter?]]|| || ||
+|| 3 ||[[You were the one]]|| || ||
+|| 4 ||[[Go!]]|| || ||
+||<#D777EF>　|| '''H.P.B'''[[br]]Hyper Purple-cube Broadcasting |||| Lv.10 ||
+|| 1 ||[[Zeroize]]|| NM || ||
+|| 2 ||[[Metagalatic G - 1000]]|| HD || ||
+|| 3 ||[[Soul Destructor]]|| NM || ||
+|| 4 ||[[The Future]]|| HD || ||
+||<#D777EF>　|| '''2√2'''[[br]]The sorrow letter from her |||| Lv.5 ||
+|| 1 ||[[느낌]]|| || ||
+|| 2 ||[[The Boy]]|| || ||
+|| 3 ||[[You Are The One For Me]]|| || ||
+|| 4 ||[[Doll's Garden]]|| || ||
+||<#D777EF>　|| '''E4'''[[br]]Easy for Flower |||| Lv.6 ||
+|| 1 ||[[It's My Secret]]|| HD || ||
+|| 2 ||[[느낌]]|| HD || ||
+|| 3 ||[[Memories(EZ2DJ)|Memories]]|| HD || ||
+|| 4 ||[[Sparrow]]|| HD || ||
+|| ||||||채널 명칭은 [[F4]]에서 따왔다. 1스테이지에서 3스테이지까지는 잘 생긴 남자 캐릭터가 BGA에 등장하는 곡들인데 뜬금없이 마지막 스테이지에는 후줄근한 아저씨가 나오는 Sparrow. 채널 선택 화면에서도 4스테이지만 물음표로 표시되어 있는 걸 보면 낚시 채널로 만든 것 같다.||
+||<#E1812D>　|| '''La Resistance'''[[br]]EZ2DJ 7.5 Trax Official Channel |||| Lv.10 ||
+|| 1 ||[[Shot Time]]|| HD || 838 ||
+|| 2 ||[[Legend of Moonlight]]|| HD || 1348 ||
+|| 3 ||[[Black Bird]]|| NM || 819 ||
+|| 4 ||[[The Prince of Darkness]]|| NM || 1279 ||
+||<#CB744F>　|| '''La Resistance 2'''[[br]]EZ2DJ 7.5 Trax Official Channel Vol.2 |||| Lv.9 ||
+|| 1 ||[[Gray Hunter]]|| HD || 1165 ||
+|| 2 ||[[Holic]]|| HD || 1266 ||
+|| 3 ||[[Never Feel This Way]]|| HD || 1341 ||
+|| 4 ||[[Lucid]]|| NM || 1639 ||
+|| ||||||1차 해금을 통해 공개되는 채널이다.||
+||<#E1812D>　|| '''Ryunan2008'''[[br]]Disc D-signer Channel |||| Lv.11 ||
+|| 1 ||[[Minus 2]]|| Ryunan2008 || 1157 ||
+|| 2 ||[[Fire Storm]]|| Ryunan2008 || 1184 ||
+|| 3 ||[[Night Madness]]|| Ryunan2008 || 855 ||
+|| 4 ||[[Frantic]]|| HD || 669 ||
+||<#E1812D>　|| '''Freyja'''[[br]]Goddess of attraction, beauty, richness |||| Lv.12 ||
+|| 1 ||[[Black Flame]]|| HD || 1637 ||
+|| 2 ||[[Minus 1 ~ space mix]]|| HD || 873 ||
+|| 3 ||[[Complex]]|| SHD || 1138 ||
+|| 4 ||[[Cosmic Bird]]|| SHD || 1276 ||
+||<#E1812D>　|| '''Escape'''[[br]]Run to esc beyond darkness |||| Lv.13 ||
+|| 1 ||[[B.O.W]]|| SHD || 1291 ||
+|| 2 ||[[Climax]]|| Escape || 1393 ||
+|| 3 ||[[Weird Wave]]|| HD || 1223 ||
+|| 4 ||[[Soul Destructor]]|| Escape || 1768 ||
+||<#E1812D>　|| '''Sarah & Scarlett'''[[br]]Pattern Developer |||| Lv.13 ||
+|| 1 ||[[Smash]]|| S&S || 1049 ||
+|| 2 ||[[Fell Hound 3]]|| HD || 1414 ||
+|| 3 ||[[Round 3]]|| S&S || 1572 ||
+|| 4 ||[[Zeroize]]|| HD || 1090 ||
+||<#E1812D>　|| '''znpfg'''[[br]]Special Random Channel |||| Lv.? ||
+|| 1 ||<|4>특수 패턴 랜덤 선곡[[br]]자세한 목록은 [[EZ2DJ/Znpfg]] 참고|| ? || ? ||
+|| 2 || ? || ? ||
+|| 3 || ? || ? ||
+|| 4 || ? || ? ||
+|| ||||||일부 구곡이 삭제됨에 따라 znpfg 채널의 패턴 수도 줄어들었다.||
+||<#CB744F>　|| '''Trick BPM'''[[br]]Unforseeable Circumstances |||| Lv.! ||
+|| 1 ||[[The Rhythm]]|| TrB || ||
+|| 2 ||[[Black Bird]]|| TrB || ||
+|| 3 ||[[Panic Strike]]|| TrB || ||
+|| 4 ||[[Fire Storm]]|| TrB || ||
+||<#CB744F>　|| '''YammyYammy'''[[br]]Special Another Channel |||| Lv.9 ||
+|| 1 ||[[Y-Gate]]|| YY || 949 ||
+|| 2 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| YY || 769 ||
+|| 3 ||[[Toy War]]|| YY || 1579 ||
+|| 4 ||[[The Prince of Darkness]]|| YY || 1237 ||
+||<#CB744F>　|| '''SHK'''[[br]]Composer and Pattern Designer |||| Lv.8 ||
+|| 1 ||[[Frantic]]|| || ||
+|| 2 ||[[Night Madness]]|| || ||
+|| 3 ||[[R.F.C.]]|| || ||
+|| 4 ||[[Holic]]|| || ||
+||<#CB744F>　|| '''IBIS'''[[br]]The Special Radio Station |||| Lv.9 ||
+|| 1 ||[[Calling me Now]]|| || ||
+|| 2 ||[[It's My Secret]]|| IBIS || ||
+|| 3 ||[[White Rose]]|| IBIS || ||
+|| 4 ||[[天地開闢]]|| IBIS || ||
+||<#CB744F>　|| '''sjhdeux'''[[br]]Main Developer |||| Lv.? ||
+|| 1 ||[[2nd Life]]|| || ||
+|| 2 ||[[Don't Say Anything]]|| || ||
+|| 3 ||[[Aura]]|| || ||
+|| 4 ||[[Sinus - Secret Heart]]|| || ||
+|| ||||||[[R-decision]]이 삭제된 대신 Don't Say Anything이 들어갔다.||
+||<#E1812D>　|| '''D'''[[br]]Ch. Despair |||| Lv.15 ||
+|| 1 ||[[Legend of Moonlight]]|| D || 1732 ||
+|| 2 ||[[The Prince of Darkness]]|| D || 1891 ||
+|| 3 ||[[Lucid]]|| D || 2543 ||
+|| 4 ||[[Hyper Magic]]|| D || 1725 ||
+||<#E1812D>　|| '''399M'''[[br]]Pattern D-signer |||| Lv.14 ||
+|| 1 ||[[Blue]]|| 399M || 1149 ||
+|| 2 ||[[The Prince of Darkness]]|| 399M || 1621 ||
+|| 3 ||[[Metagalatic G - 1000]]|| 399M || 1413 ||
+|| 4 ||[[Hyper Magic]]|| 399M || 2048 ||
+||<#E1812D>　|| '''Nemesis'''[[br]]Punished by Heaven |||| Lv.15 ||
+|| 1 ||[[Fire Storm]]|| Nemesis || 1802 ||
+|| 2 ||[[Sand Storm]]|| Nemesis || 1210 ||
+|| 3 ||[[Revelation]]|| Nemesis || 2200 ||
+|| 4 ||[[Round 3]]|| Nemesis || 2183 ||
+||<#E1812D>　|| '''Hell Destructor'''[[br]]Beat The Unlimited Hell Fire |||| Lv.? ||
+|| 1 ||[[Hyper Magic]]|| D || 1725 ||
+|| 2 ||[[The Prince of Darkness]]|| SHD || 1809 ||
+|| 3 ||[[Revelation]]|| RYUminus || 1923 ||
+|| 4 ||[[Soul Destructor]]|| Hell || 2089 ||
+||<#FD975B>　|| '''Team K2yaa'''[[br]]VJ's Choice |||| Lv.8 ||
+|| 1 ||[[Space Destiny]]|| NM || 1080 ||
+|| 2 ||[[Sweet Heart]]|| EZ || 789 ||
+|| 3 ||[[Explode Engine]]|| NM || 785 ||
+|| 4 ||[[Gray Street]]|| EZ || 1204 ||
+||<#FD975B>　|| '''r300k'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[The World]]|| r300k || 865 ||
+|| 2 ||[[Energy Flower]]|| r300k || 1156 ||
+|| 3 ||[[Round 3]]|| r300k || 1092 ||
+|| 4 ||[[Sunlight]]|| HD || 1077 ||
+||<#FD975B>　|| '''Praya'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Let me hear your voice]]|| HD || 1155 ||
+|| 2 ||[[Forget]]|| Praya || 1025 ||
+|| 3 ||[[빛바랜 영혼]]|| HD || 729 ||
+|| 4 ||[[Mage Girl Story]]|| HD || 1322 ||
+||<#FD975B>　|| '''M2U'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Toy War]]|| HD || 1557 ||
+|| 2 ||[[White Rose]]|| HD || 1106 ||
+|| 3 ||[[Paradise]]|| NM || 1243 ||
+|| 4 ||[[天地開闢]]|| HD || 1349 ||
+||<#FD975B>　|| '''Team Curium'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Silver Ocean]]|| HD || 657 ||
+|| 2 ||[[G.O.A]]|| Curium || 1453 ||
+|| 3 ||[[Unrequited love 2]]|| HD || 1069 ||
+|| 4 ||[[Legacy of Hatred]] (live)|| Curium || 1234 ||
+||<#FD975B>　|| '''RYU♥star'''[[br]]Vocal's Collection |||| Lv.11 ||
+|| 1 ||[[빛바랜 영혼]]|| RYU♥star || 939 ||
+|| 2 ||[[Sunlight]]|| RYU♥star || 1409 ||
+|| 3 ||[[Let me hear your voice]]|| Praya || 1155 ||
+|| 4 ||[[To My Love]]|| RYU♥star || 297 ||
+|| ||||||1.5에서는 채널 타이틀 이미지에 '진실을 알고 있는 불쌍한 영혼들아'라는 문구가 들어갔다. [[Ryunan]]의 작품.||
+||<#FD975B>　|| '''Spring Head'''[[br]]Musician's Collection |||| Lv.12 ||
+|| 1 ||[[Return]]|| SpringHead || 1476 ||
+|| 2 ||[[Soul Eater]]|| SpringHead || 1239 ||
+|| 3 ||[[Fallen Angel]]|| SpringHead || 1622 ||
+|| 4 ||[[Revelation]]|| Ruby || 1292 ||
+||<#FD975B>　|| '''Transin'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Dreamy Flight]]|| HD || 1179 ||
+|| 2 ||[[Soul Destructor]]|| Transin || 1523 ||
+|| 3 ||[[Black Flame]]|| HD || 1637 ||
+|| 4 ||[[Explode Engine]]|| Transin || 1104 ||
+||<#FD975B>　|| '''RYUminus'''[[br]]Mania Zone Developer |||| Lv.14 ||
+|| 1 ||[[Fell Hound 3]]|| RYUminus || 1537 ||
+|| 2 ||[[Round 3]]|| HD || 1678 ||
+|| 3 ||[[Toy War]]|| RYUminus || 1668 ||
+|| 4 ||[[Revelation]]|| RYUminus || 1923 ||
+||<#D777EF>　|| '''Random'''[[br]]Permission : normal |||| Lv.? ||
+|| 1 ||<|4>노멀 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#D777EF>　|| '''Hard Random'''[[br]]Permission : hard |||| Lv.? ||
+|| 1 ||<|4>하드 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#D777EF>　|| '''Super Hard Random'''[[br]]Permission : super hard |||| Lv.? ||
+|| 1 ||<|4>슈퍼하드 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 히든 채널 ===
+||<tablewidth=600px><#D777EF>　|| '''Zap Network'''[[br]]ZN - The Hyper Terminal |||| Lv.11 ||
+|| 1 ||[[Stay]] (TAK Remix)|| ZN || 1485 ||
+|| 2 ||[[Eye of Beholder]]|| HD || 1019 ||
+|| 3 ||[[Y-Gate]]|| HD || 1073 ||
+|| 4 ||[[Panic Strike]]|| NM || 865 ||
+|| ||||||1스테이지의 Stay 리믹스는 CV 당시에는 이 채널에서만 즐길 수 있었다. 이후 BE rA에서 다른 모드로 해금되었다. 5키 스트릿의 패턴은 ZN 채널의 패턴을 그대로 이식한 것이 아니라 일부 수정을 한 패턴이다.||
+||<#D777EF>　|| '''Never Ending War'''[[br]]Can't stop catch the bug |||| Lv.3 ||
+|| 1 ||[[R.D.M.]]|| || ||
+|| 2 ||[[Shout]]|| || ||
+|| 3 ||[[Dreamy Flight]]|| || ||
+|| 4 ||[[Complex]]|| SHD || ||
+|| ||||||컨셉이 '버그'인 채널. 채널 난이도에 비해 표기 난이도가 지나치게 낮은 것은 버그라는 컨셉에 맞춘 것으로 보인다. 초기판에서는 2스테이지 Shout가 스킵되었는데 이것도 컨셉이었다고 여겨진다. 이후 BE rA에서는 레벨 9로 조정되었다.||
+||<#D777EF>　|| '''Violet'''[[br]]The system of class R |||| Lv.? ||
+|| 1 ||[[Tempus Praeterita]]|| Violet || 1695 ||
+|| 2 ||[[Blood Castle]] (Remix)|| Violet || 1727 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| Violet || 1868 ||
+|| 4 ||[[神威]]|| Violet || 3333 ||
+|| ||||||CV의 보스 채널. Blood Castle을 제외한 나머지 곡은 슈퍼하드 채보가 없기 때문에, 편의상 이 채널의 채보를 SHD라고 부르기도 한다. BE rA에서 16으로 책정되었다. [http://www.youtube.com/watch?feature=player_embedded&v=IZAMgWgQEuA 오토플레이 영상]||
+
+== 7Radio Mix ==
+=== 기본 채널 ===
+||<tablewidth=600px><#D777EF>　|| '''Netiline'''[[br]]Subcontract Composer |||| Lv.12 ||
+|| 1 ||[[For The Top]]|| HD || ||
+|| 2 ||[[Step in the Dayz]]|| HD || ||
+|| 3 ||[[Dragon Hunter%3F|Dragon Hunter?]]|| HD || ||
+|| 4 ||[[Akasha]]|| HD || ||
+||<#D777EF>　|| '''Memme'''[[br]]Composer |||| Lv.9 ||
+|| 1 ||[[An Old Story]]|| HD || ||
+|| 2 ||[[Legend of Moonlight]]|| NM || ||
+|| 3 ||[[Doll's Garden]]|| HD || ||
+|| 4 ||[[Hyper Magic]]|| NM || ||
+||<#D777EF>　|| '''Tuna'''[[br]]Visual Artist |||| Lv.6 ||
+|| 1 ||[[느낌]]|| || ||
+|| 2 ||[[Substance]]|| || ||
+|| 3 ||[[Dragon Hunter%3F|Dragon Hunter?]]|| || ||
+|| 4 ||[[Akasha]]|| || ||
+||<#D777EF>　|| '''Kebuka'''[[br]]Director |||| Lv.11 ||
+|| 1 ||[[Stay]]|| SHD || || ||
+|| 2 ||[[Sinus - Secret Heart]]|| NM || ||
+|| 3 ||[[Wars of the Roses 1455]]|| Kebuka || ||
+|| 4 ||[[Aquaris]]|| PPET || ||
+||<#E1812D>　|| '''La Resistance'''[[br]]EZ2DJ 7.5 Trax Official Channel |||| Lv.10 ||
+|| 1 ||[[Shot Time]]|| HD || 1017 ||
+|| 2 ||[[Legend of Moonlight]]|| NM || 1089 ||
+|| 3 ||[[Black Bird]]|| NM || 923 ||
+|| 4 ||[[The Prince of Darkness]]|| NM || 1255 ||
+||<#E1812D>　|| '''znpfg'''[[br]]EZ2DJ 7.5 Trax Official Channel |||| Lv.11 ||
+|| 1 ||[[Gray Hunter]]|| HD || 1102 ||
+|| 2 ||[[An Old Story]]|| HD || 739 ||
+|| 3 ||[[天地開闢]]|| HD || 1308 ||
+|| 4 ||[[Holic]]|| HD || 1091 ||
+||<#E1812D>　|| '''Ryunan2008'''[[br]]Disc D-signer Channel |||| Lv.12 ||
+|| 1 ||[[Minus 2]]|| Ryunan2008 || 1327 ||
+|| 2 ||[[Fire Storm]]|| Ryunan2008 || 1104 ||
+|| 3 ||[[Night Madness]]|| Ryunan2008 || 1018 ||
+|| 4 ||[[Frantic]]|| Ryunan2008 || 855 ||
+||<#E1812D>　|| '''WeE'''[[br]]We Luv Ez2Dj |||| Lv.9 ||
+|| 1 ||[[The Future]]|| WeE || 686 ||
+|| 2 ||[[We Luv Music]]|| WeE || 688 ||
+|| 3 ||[[Theme of EZ2DJ]]|| HD || 694 ||
+|| 4 ||[[Theme of EZ2DJ 2]]|| WeE || 854 ||
+||<#CB744F>　|| '''YammyYammy'''[[br]]Special Another Channel |||| Lv.9 ||
+|| 1 ||[[Y-Gate]]|| YY || 944 ||
+|| 2 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix) || YY || 921 ||
+|| 3 ||[[Toy War]]|| NM || 1293 ||
+|| 4 ||[[The Prince of Darkness]]|| YY || 1080 ||
+||<#CB744F>　|| '''Hamence'''[[br]]Bug & Error Tester |||| Lv.10 ||
+|| 1 ||[[Holic]]|| Hamence || 1160 ||
+|| 2 ||[[R.E.D.]] ~Red Evil of Death~|| Hamence || 1221 ||
+|| 3 ||[[Never Feel This Way]]|| Hamence || 1565 ||
+|| 4 ||[[Legend of Moonlight]]|| Hamence || 1620 ||
+||<#CB744F>　|| '''Trick BPM'''[[br]]Unforseeable Circumstances |||| Lv.! ||
+|| 1 ||[[The Rhythm]]|| TrB || 761 ||
+|| 2 ||[[Black Bird]]|| TrB || 737 ||
+|| 3 ||[[Panic Strike]]|| TrB || 817 ||
+|| 4 ||[[Fire Storm]]|| TrB || 1029 ||
+||<#CB744F>　|| '''Exercise'''[[br]]Easy to DJ, You can't miss it |||| Lv.9 ||
+|| 1 ||[[Look Out]] (OST Edit)|| Exercise || 755 ||
+|| 2 ||[[We Luv Music]]|| Exercise || 880 ||
+|| 3 ||[[Back For More]] (OST Edit)|| Exercise || 1003 ||
+|| 4 ||[[Say That U]]|| Exercise || 918 ||
+||<#CB744F>　|| '''Piano Groove'''[[br]]Ez2Dj Piano Concerto Op.1 |||| Lv.11 ||
+|| 1 ||[[Legend of Moonlight]]|| PG || 1189 ||
+|| 2 ||[[Toy War]]|| PG || 1536 ||
+|| 3 ||[[The Prince of Darkness]]|| HD || 1366 ||
+|| 4 ||[[Lucid]]|| PG || 1700 ||
+||<#CB744F>　|| '''PPET'''[[br]]VJ's Choice |||| Lv.13 ||
+|| 1 ||[[Never Feel This Way]]|| PPET || 1808 ||
+|| 2 ||[[Aquaris]]|| PPET || 1368 ||
+|| 3 ||[[Lucid]]|| PPET || 2387 ||
+|| 4 ||[[JMJ]]|| SHD || 1479 ||
+||<#CB744F>　|| '''KIEN'''[[br]]Composer and Pattern Designer |||| Lv.10 ||
+|| 1 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| KIEN || ||
+|| 2 ||[[Space Destiny]]|| KIEN || ||
+|| 3 ||[[Soul Destructor]]|| KIEN || ||
+|| 4 ||[[R.E.D.]] ~Red Evil of Death~|| KIEN || ||
+||<#CB744F>　|| '''sjhdeux'''[[br]]Main Developer |||| Lv.? ||
+|| 1 ||[[2nd Life]]|| || ||
+|| 2 ||[[Don't Say Anything]]|| || ||
+|| 3 ||[[Aura]]|| || ||
+|| 4 ||[[Sinus - Secret Heart]]|| || ||
+|| ||||||R-decision이 Don't Say Anything으로 교체되었다.||
+||<#CB744F>　|| '''Redemption'''[[br]]Hard Beat Music for Mania |||| Lv.15 ||
+|| 1 ||[[DIEOXIN]]|| Redemption || ||
+|| 2 ||[[Q Factor]]|| HD || ||
+|| 3 ||[[R.F.C.]]|| HD || ||
+|| 4 ||[[Be-at Feedback]]|| SHD || ||
+|| ||||||5차 해금을 통해 공개되는 채널이다.||
+||<#E1812D>　|| '''D'''[[br]]Ch.Despair |||| Lv.15 ||
+|| 1 ||[[Legend of Moonlight]]|| D || 1584 ||
+|| 2 ||[[The Prince of Darkness]]|| D || 2114 ||
+|| 3 ||[[Lucid]]|| D || 2215 ||
+|| 4 ||[[Hyper Magic]]|| D || 1804 ||
+|| ||||||요구되는 퍼센트는 각각 5-10-15-20으로 퍼센트만 보면 조금만 채우면 될 것 같지만, 채보 난이도도 그렇고 퍼센트가 정말 안 오른다. 7th 2.0까지 7키 보스를 차지하고 있던 채널.||
+||<#FD975B>　|| '''r300k'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[The World]]|| r300k || 848 ||
+|| 2 ||[[Energy Flower]]|| r300k || 1235 ||
+|| 3 ||[[Round 3]]|| r300k || 1171 ||
+|| 4 ||[[Sunlight]]|| r300k || 1141 ||
+||<#FD975B>　|| '''DJ.Praya'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Let me hear your voice]]|| Praya || 1061 ||
+|| 2 ||[[Forget]]|| Praya || 976 ||
+|| 3 ||[[빛바랜 영혼]]|| HD || 962 ||
+|| 4 ||[[Mage Girl Story]]|| HD || 1124 ||
+||<#FD975B>　|| '''M2U'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Toy War]]|| NM || 1293 ||
+|| 2 ||[[White Rose]]|| NM || 986 ||
+|| 3 ||[[Paradise]]|| NM || 1265 ||
+|| 4 ||[[天地開闢]]|| NM || 869 ||
+||<#FD975B>　|| '''Team Curium'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Silver Ocean]]|| NM || 640 ||
+|| 2 ||[[G.O.A]]|| Curium || 1234 ||
+|| 3 ||[[Unrequited love 2]]|| NM || 921 ||
+|| 4 ||[[Legacy of Hatred]] (live)|| Curium || 1201 ||
+||<#FD975B>　|| '''RYU♥star'''[[br]]Vocal's Collection |||| Lv.11 ||
+|| 1 ||[[빛바랜 영혼]]|| HD || 962 ||
+|| 2 ||[[Sunlight]]|| RYU♥star || 1157 ||
+|| 3 ||[[Let me hear your voice]]|| Praya || 1061 ||
+|| 4 ||[[To My Love]]|| RYU♥star || 394 ||
+||<#FD975B>　|| '''Spring Head'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Return]]|| HD || 1340 ||
+|| 2 ||[[Soul Eater]]|| HD || 1010 ||
+|| 3 ||[[Fallen Angel]]|| SpringHead || 1395 ||
+|| 4 ||[[Revelation]]|| NM || 1756 ||
+||<#FD975B>　|| '''Transin'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Dreamy Flight]]|| Transin || 1154 ||
+|| 2 ||[[Soul Destructor]]|| HD || 1128 ||
+|| 3 ||[[Black Flame]]|| Transin || 1178 ||
+|| 4 ||[[Explode Engine]]|| Transin || 1014 ||
+||<#FD975B>　|| '''RYUminus'''[[br]]Mania Zone Developer |||| Lv.14 ||
+|| 1 ||[[Fell Hound 3]]|| RYUminus || 1299 ||
+|| 2 ||[[Round 3]]|| RYUminus || 1565 ||
+|| 3 ||[[Toy War]]|| RYUminus || 1666 ||
+|| 4 ||[[Revelation]]|| RYUminus || 1994 ||
+=== 히든 채널 ===
+||<tablewidth=600px><#D777EF>　|| '''Ira'''[[br]]Composer |||| Lv.11 ||
+|| 1 ||[[The Prince of Darkness]]|| Ira || ||
+|| 2 ||[[Eraser Rain for GAIA]]|| Ira || ||
+|| 3 ||[[Tempus Praeterita]]|| Ira || ||
+|| 4 ||[[Space Destiny]]|| Ira || ||
+||<#D777EF>　|| '''World atom-o-sphere'''[[br]]Composer |||| Lv.? ||
+|| 1 ||[[Doll's Garden]]|| World || 1215 ||
+|| 2 ||[[Blood Castle]] (Remix)|| World || 1354 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| World || 1435 ||
+|| 4 ||[[神威]]|| World || 2416 ||
+|| ||||||약칭 대기권 채널. 앞의 3곡은 무난하나 神威는 16비트 트릴이 무섭다. 7키 라디오가 만약 5키처럼 게이지 시스템이었다면 극악 채널이 됐을 것이다. BE rA에서 14로 책정되었다.||
+||<#D777EF>　|| '''Violet'''[[br]]The system of class R |||| Lv.? ||
+|| 1 ||[[Tempus Praeterita]]|| Violet || 1775 ||
+|| 2 ||[[Blood Castle]] (Remix)|| Violet || 1708 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| Violet || 1896 ||
+|| 4 ||[[神威]]|| Violet || 3439 ||
+|| ||||||CV의 보스 채널. 퍼센테이지는 10%→20%→30%→40%. 3.0, 3.01 당시엔 퍼센테이지가 굉장히 짜게 차서 클리어자가 거의 없다시피 했으나, 3.1 패치에서 퍼센테이지 증가량을 후하게 해놔서 현재는 클리어자가 늘어났다. BE rA에서 16으로 책정되었다.||

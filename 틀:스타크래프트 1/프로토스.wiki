@@ -1,0 +1,11 @@
+||<tablewidth=100%><#0000FF><-100> '''[[스타크래프트 |<span style="color:white">스타크래프트 1]] [[프로토스|<span style="color:white">프로토스]]{{{#ffffff 의 유닛, 건물}}}''' ||
+||<|2><#6699CC> '''[[연결체#s-2|넥서스]]''' || attachment:probe.jpg?width=40px || || || || || ||
+|| [[탐사정#s-2.1|프로브]] || || || || || ||
+||<|2><#6699CC> '''[[관문#s-2.1|게이트웨이]]''' || attachment:zealot.jpg?width=40px || attachment:dragoon.jpg?width=40px || attachment:hightemplar.jpg?width=40px || attachment:darktemplar.jpg?width=40px || attachment:archon.jpg?width=40px || attachment:darkarchon.jpg?width=40px || 
+|| [[광전사(스타크래프트)#s-2|질럿]] || [[용기병(스타크래프트)|드라군]] || [고위 기사#s-2|하이 템플러] || [암흑 기사#s-3|다크 템플러] || [[집정관(스타크래프트)#s-2|아콘]] || [[암흑 집정관|다크 아콘]] ||
+||<|2><#6699CC> '''[[로봇공학 시설#s-2|로보틱스 퍼실리티]]''' || attachment:shuttle.jpg?width=40px || attachment:reaver.jpg?width=40px || attachment:observer.jpg?width=40px || || || ||
+|| [[왕복선|셔틀]] || [[파괴자|리버]] || [[관측선#s-1|옵저버]] || || || ||
+||<|2><#6699CC> '''[[우주관문#s-1.1|스타게이트]]''' || attachment:scout.jpg?width=40px || attachment:carrier.jpg?width=40px || attachment:arbiter.jpg?width=40px || attachment:corsair.jpg?width=40px || || ||
+|| [[정찰기(스타크래프트)|스카웃]] || [[우주모함#s-2|캐리어]] || [[중재자|아비터]] || [[해적선(스타크래프트)|커세어]] || || ||
+||<|2><#6699CC> '''{{{#ffffff 기타 건물들}}}''' || [[수정탑#s-2|파일런]] || [[융화소|어시밀레이터]] || [[제련소#s-2.1|포지]] || [[광자포#s-1.1|포톤 캐논]] || [[인공제어소#s-2|사이버네틱스 코어]] || [[실드 배터리]] ||
+|| [[아둔의 성지|시타델 오브 아둔]] || [[로봇공학 지원소#s-2|로보틱스 서포트 베이]] || [[함대 신호소#s-2|플릿 비콘]] || [[기사단 기록보관소#s-1|템플러 아카이브]] || [[옵저버토리]] || [[아비터 트리뷰널]] ||

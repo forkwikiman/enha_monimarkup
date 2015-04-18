@@ -1,0 +1,70 @@
+[[목차]]
+
+== 개요 ==
+attachment:MANDARA.jpg?width=360
+
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 さたな. 제목은 [[만다라]](Mandala)에서 가져온 듯 하다.
+
+게임에 수록되기 전에 [[니코니코 동화]]에서 원곡이 올라온 적이 있다.
+{{{#!HTML
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm18813735"></script><noscript><a href="http://www.nicovideo.jp/watch/sm18813735">【ニコニコ動画】【GUMI】MANDARA【オリジナル曲】</a></noscript>}}}
+
+== [[사운드 볼텍스]] ==
+[[사운드 볼텍스 플로어]] '[[MEGPOID|GUMI]] 오리지널곡 모집!'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:MANDARA.jpg?width=150 || attachment:MANDARA.jpg?width=150 || attachment:MANDARA.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 10}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0495}}} || {{{#orange 0627}}} || {{{#ff009f 0969}}} ||
+|| 일러스트 담당 || {{{#purple Emmy}}} || {{{#orange Emmy}}} || {{{#ff009f Emmy}}} ||
+|| 이펙터 |||||| [[PHQUASE]] ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 24(2013.1.31)}}} ||
+|| [[BPM]] |||||| 216 ||
+
+||<bgcolor=#E9ECEF>
+사타나라고 합니다.
+제 악곡을 수록해 준 것을 기쁘게 생각합니다.
+축제 같은 왁자지껄한[* 원문은 どんちゃんした] 느낌의 악곡이 됬으므로 신나게 놀아 주시면 다행입니다.
+마지막으로 이 곡 외에 [[니코니코 동화]]에 몇가지 악곡을 올리고 있으므로, 가능하면 그쪽도 잘 부탁 드립니다.
+
+-당선자 코멘트-
+||
+
+||<bgcolor=#E9ECEF>
+http://p.eagate.573.jp/game/sdvx/sv/p/floor/image/floor_result/jacket/05/01.jpg
+※이 작품은 자켓도 함께 채용되었습니다!
+일러스트레이터명：Emmy
+
+이번에 GUMI악곡 콘테스트에서 첫눈에 반한 아니 일청 반한 "MANDARA"에 사랑을 받기 위해 그린 일러스트를 채용해 주셔서 정말 감사합니다!
+너무 기뻐서, 채용 메일을 확인한 순간에 의자에서 미끄러졌습니다.
+분명 현실이 30도 정도 기울어 진 거라고 생각합니다(·3·)
+[[하이텐션]]이고 힘찬 곡조인데 나른한 가사… 멋져요.
+곡을 들었을 때의 충격을 밝은 색채에 둘러싸이면서도 눈을 감고 외계를 차단하는 GUMI에 담았습니다.
+이 자켓으로 악곡의 멋진 분위기가 조금이라도 전해지면 다행입니다!
+
+-당선자 Emmy 코멘트-
+||
+
+{{{#!HTML
+<iframe width="480" height="360" src="//www.youtube.com/embed/lKxEIq5NByE" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+EXH 패턴의 특징이라면 216 BPM이라는 빠른 속도의 트릴이다. 트릴 처리력에 따라 다르겠지만 적은 체인 수와 니어가 나기 쉬운 트릴 패턴 때문에 스코어링 난이도는 꽤 높다.
+
+== [[GITADORA 시리즈]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/4z--7TooG0o" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 216 ||<|2><:> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 2.20}}} || {{{#orange 4.85}}} || {{{#red 6.40}}} ||
+|| 기타 베이스 || {{{#blue 3.30}}} || {{{#orange 5.70}}} || {{{#red 7.05}}} ||
+|| 드럼매니아 || {{{#blue 2.20}}} || {{{#orange 4.30}}} || {{{#red 7.85}}} ||	
+
+[[FLOOR INFECTION]] 기타도라 편에서 레벨 3을 달성하면 해금.

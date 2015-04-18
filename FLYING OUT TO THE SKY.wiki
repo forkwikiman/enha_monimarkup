@@ -1,0 +1,47 @@
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡은 [[かめりあ]], 사용한 [[VOCALOID]]는 [[ZOLA PROJECT]].
+
+== [[사운드 볼텍스]] == 
+[[사운드 볼텍스 플로어]] '[[ZOLA PROJECT]] 오리지널 악곡 컨테스트'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:fosnov.jpg?width=150 || attachment:fosadv.jpg?width=150 || attachment:fosexh.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 10}}} || {{{#ff009f 15}}} ||
+|| 체인 수 || {{{#purple 0844}}} || {{{#orange 1227}}} || {{{#ff009f 1885}}} ||
+|| 일러스트 담당 || {{{#purple マニュアル通りな}}}[[蒼弐]] || {{{#orange 炎を燃やすよ蒼弐}}} || {{{#ff009f 全て壊して掴み取る蒼弐　-そして鞭打ち-}}} ||
+|| 이펙터 |||||| [[PHQUASE]] ||
+|| 수록 시기 |||||| {{{#ff00ec II 28(2014.03.14)}}} ||
+|| [[BPM]] |||||| 244 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 10(2014.4.4 ~ 2014.5.1)
+
+||<#eeeeee>
+카메리아입니다. 채용 감사합니다!
+  
+남성 VOCALOID 'ZOLA PROJECT'컨테스트라는 걸로, 어떤 음악으로 할까 여러가지 고민 했습니다만, 모처럼의 남성 보컬이라는 걸로 기타 띵가띵가, 베이스 드럼 뚱뚱 장르를 선택했습니다.
+  
+본격적인 사운드를 만들고 싶다는 걸로, 기타에 불을 붙이고, 목에 채찍질하고, [[Sign of the horns|멜로익사인]] 연습, 심지어 장비를 파괴하는 등 대단한 택록[* 집에서 녹음함.]이었지만, 무사악곡이 되어 안심하고 있습니다.
+  
+그럼 즐기실 수 있으면 다행입니다.
+
+-당선자 코멘트-
+||
+
+{{{#!html
+<object width="420" height="640"><param name="movie" value="//www.youtube.com/v/hbUb73Dk-EE?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/hbUb73Dk-EE?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="640" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 클리어 영상
+
+[http://www.youtube.com/watch?v=FCo69iFVr9M EXH 패턴 PERPECT 영상]
+
+동 작곡가의 [[Bangin' Burst]]보다 10이나 더 빠른 BPM을 기본으로 하는 체력곡. 거기에 최후반부에는 그 BPM으로 FX 혼합 16비트 [[폭타]]가 내려온다.
+
+패턴의 특이사항이라면 FX버튼을 정박으로 치면서 양 노브를 처리하는 패턴이 있는데, 여기서 당황해 니어가 생길수 있으니 주의.
+
+2014년 4월 4일 [[스킬 애널라이저]] 10레벨의 보스곡으로 올라왔다.

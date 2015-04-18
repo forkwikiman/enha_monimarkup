@@ -1,0 +1,58 @@
+[[목차]]
+
+|| 장르 |||||||| [wiki:"드럼 앤 베이스" Drum N Bass] ||
+|| 곡명 |||||||| Eraser Rain for GAIA ||
+|| 작곡 |||||||| [wiki:"KIEN" IRA] ||
+|| 배경 |||||||| [wiki:"Lepusnette" glide] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ CV]] ||
+|| BPM |||||||| 175 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 13}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red 14}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 14}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red 14}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 14}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<iframe width="525" height="333" src="http://www.youtube.com/embed/eCJgjbqwxA8" frameborder="0" allowfullscreen></iframe>
+}}}
+
+== 개요 ==
+EZ2DJ 7th CV의 수록곡. [[Tempus Praeterita]]와 마찬가지로 KIEN이 Ira 명의로 제공하였다.
+
+약칭은 '가이아'로, 곡을 들어보든 BGA를 보든 간에 분위기가 상당히 어둡다. Lepusnette가 제작한 BGA는 단색조에 2D, 3D 그래픽을 조합한 완성도 높은 비주얼로 호평을 받았다.
+
+== 패턴 ==
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/eQmpWCQYJNQ?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/eQmpWCQYJNQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM & HD MIX
+노멀 패턴의 난이도는 9로, 초~중반부의 애매한 따닥이 노트와 엇박 페달 때문에 다소 짙은 불렙곡 취급을 받는다. 다만 이 구간만 넘기면 사실상 클리어라고 보면 된다.
+
+하드 패턴의 난이도는 13인데, 특유의 엇박 페달이 전 구간에 걸쳐 쏟아져 보다 까다롭다. 그 뿐만이 아니라, 초~중반부의 따닥이가 대폭 강화되어 나오는데, 랜덤 상태에서 배치가 꼬일 경우 난이도가 아주 아름답게 수직상승한다. 
+
+바이올렛 전용 채보가 EV에서 5키 SHD패턴으로 들어오게 되었으며 난이도는 14이다. 기존 하드패턴보다 폭타가 좀더 강화되었으며 특히 롱노트가 나오는 지점에 대해서 하드패턴은 전과 별차이가 없었으나 Violet 채널의 패턴은 무시무시한 롱노트+동시치기를 보여준다. 14치곤 꽤 어렵다는말이 많으며 기존 14렙의 구곡 3형제나 팬텀 등이 15로 올라갔기에 EV에선 [[Return to Universe]] 하드패턴과 함께 14렙 보스포지션을 맡고 있다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+5키 라디오에선 CV의 보스 채널인 Violet 채널의 3스테이지에 등장하는데, 전 스테이지의 [[Blood Castle]]과 함께 다음 스테이지인 [[神威]]로 넘어가려 하는 플레이어를 막는 수문장 노릇을 한다. EV에서 5키 슈하로 채택.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+{{{#!HTML
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4ld9SmC9Pzc" frameborder="0" allowfullscreen></iframe>
+}}}
+레벨 14로 과일이 2~4개씩 동시에 떨어지는 겹노트 패턴이 주를 이룬다. 비비기 패턴에 해당하는 구간이 전혀 없는 처음부터 끝까지 겹노트로 밀어붙인다. 캐릭터를 정확하게 움직여 겹노트를 받아내야하는 고도의 테크닉을 요구한다. 패턴을 모른다고 해서 막 비비도록 하지는 말자. BPM이 빠르기 때문에 막 비벼서 처리하는 방식은 오히려 게이지를 더 빠르게 깎아먹는 요인이 된다. 이 패턴은 이후 [[BEATRICE]]와 [[A Site De La Rue]] 등으로 이어진다.
+=== TURNTABLE ===
+턴테이블 패턴은 레벨 12로써, 간접미스가 날 수밖에 없는 괴랄한 패턴들이 산재해 있다.
+
+== Sabin Sound Star에서의 Eraser Rain for GAIA ==
+[[Sabin Sound Star]]에도 카드 해금곡으로 등장했는데, 레벨 10을 달성하거나 노멀 퀘스트 20번 '''[[RYUMinus]]'''를 클리어하면 해금된다.

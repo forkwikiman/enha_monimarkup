@@ -1,0 +1,47 @@
+[[목차]]
+
+== ERASER ENGINE ==
+
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/FN1VsJIQmYs?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FN1VsJIQmYs?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>
+}}}
+기타프릭스판 오리지널 채보. 이것이 이 곡의 첫 등장판이다.
+
+[[기타프릭스]] 시리즈에 수록된 곡으로, 작곡은 [[L.E.D.]]
+
+첫 수록은 [[플레이스테이션]]용 기타프릭스 append 2nd MIX로, 아케이드로는 다음 시리즈인 기타프릭스 3rd MIX부터 수록되었다. L.E.D.의 평소 성향에 맞게 당시에 기타드럼 시리즈에서는 보기 꽤 드물었던 강렬한 하드코어 락.
+
+기타프릭스 3rd MIX OST에 이 곡의 리믹스가 수록되었는데, 정식 명칭은 [http://www.nicozon.net/watch/sm2613915 ERASER ENGINE (eraser motor mix)]. 이 후 이곡은 [[비트매니아 IIDX]] 4th Style CS판에 게임 사이즈로 잘려 [[ErAseRmoTor maXimUM]]란 명칭으로 수록되었다.
+
+=== [[현기증 난단 말이에요|빨리 드럼매니아로 이식해 주세요 현기증 난단 말이에요]] ===
+
+[[드럼매니아]]에서는 [[플레이스테이션2]]로 나왔던 1st 이식판에 수록되어 있었지만, 기타프릭스에서와는 달리 드럼매니아 버전은 아케이드 진출을 하지 못했고, '''지금까지도''' 아케이드에서는 기타프릭스에서만 플레이할 수 있는 곡으로 남아있다. [http://www.nicozon.net/watch/sm21237596 가정용 드럼매니아 1st에서만 플레이할 수 있는 드럼매니아 버전 ERASER ENGINE 동영상.] '''오른쪽이 Expert Real 채보이다.'''
+
+[http://www.nicozon.net/watch/sm18438696 Expert Real 채보를 DTX마니아로 재현한 모습]
+
+=== 가사 ===
+
+'''추가바람'''
+
+* 영어로 되어있는 것 같다.
+
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/watch?v=2sDHjeZxuJ8?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/watch?v=2sDHjeZxuJ8?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="390"></embed></object>
+}}}
+
+--그나저나 [[가사가 시궁창|가사가 얼마나 시궁창]]이길래 [[검열삭제]]가 많냐--
+
+
+== ERaSeR EnGinE DistorteD ==
+{{{#!html
+<iframe width="560" height="349" src="http://www.youtube.com/embed/GpOq8oJ9Ueg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 177 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 446}}} || {{{#orange 10}}} || {{{#orange 1098}}} || {{{#red 11}}} || {{{#red 1384}}} || {{{#blue 6}}} || {{{#blue 666}}} || {{{#orange 10}}} || {{{#orange 1152}}} || {{{#red 12}}} || {{{#red 1625}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 미수록
+ * 가정용판 수록 : 16 EMPRESS + PREMIUM BEST (PREMIUM BEST Disc)
+
+그 후 L.E.D.의 앨범 '電人 K'에 리메이크판의 'ERaSeR EnGinE DistorteD'이 수록, PS2판 [[비트매니아 IIDX 16 EMPRESS]]에는 게임 사이즈판이 해금 곡으로서 수록되었다.

@@ -1,0 +1,48 @@
+http://vjarmy.com/wiki/images/5/57/Erosion_Mark.PNG
+
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/gN7IbH5xaMs" frameborder="0" allowfullscreen></iframe>}}}
+
+[[BEMANI 시리즈]]의 수록곡. [[팝픈 리즈밍]]의 [[kors k]] 팩 1을 통해 출시하였다. 아티스트 명의는 [[kors k]] REASM [[Des-ROW]]. 명의의 REASM은 '재구축'이라는 뜻의 영단어 '''reassemble'''의 약자이다. [[Ground Shake]]에서 보여 준 [[인더스트리얼]]풍의 드럼비트와 [[Des-ROW]] 특유의 멜로디가 이끄는 곡이다.
+
+역시 [[Des-ROW]]가 참여했던 [[열투! BEMANI 스타디움]] 해금곡 [[Engraved Mark]]와 비슷한 제목을 갖고 있고, [[팝픈 리즈밍]]을 통해 선행공개되었다는 공통점이 있다. 이후 [[beatmania IIDX 22 PENDUAL]]에 이식 수록되었다.
+
+== [[팝픈뮤직]] ==
+=== [[팝픈 리즈밍]] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/JrFlhCsHgwM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||| {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|||| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 노트 수 || {{{#green 225}}} || {{{#orange 310}}} || {{{#red 481}}} ||
+
+EX 트리플["난민#s-3" 난민](...) 플레이 영상.
+
+박자가 피아노와 신디 멜로디, 보컬을 따라가다 중반부에는 드럼 사운드에 맞춰진다. 후반에는 중반부 이전의 채보가 더 꼬아 놓은데다가 [灼熱Beach Side Bunny]의 EX채보처럼 박자가 엇갈리는 부분이 있으니 플레이 전에 채보를 보는 것도 좋다.
+
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| FALLEN APART CORE[[BR]]폴른 아파트 코어 || [[BPM]] |||| 192 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 407}}} || {{{#orange 8}}} || {{{#orange 788}}} || {{{#red 11}}} || {{{#red 1096}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 433}}} || {{{#orange 8}}} || {{{#orange 798}}} || {{{#red 11}}} || {{{#red 1186}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 22 PENDUAL|22 PENDUAL]] ~
+
+[[BGA]]는 22 PENDUAL 신규 범용 BGA를 사용한다.
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/CWxxPFyp7ME" frameborder="0" allowfullscreen></iframe>}}}
+싱글 어나더 영상
+
+Des-ROW에게는 IIDX에 [London Affairs Beckoned With Money Loved By Yellow Papers.] 이후에 5작품만에 투고한 작품이다.
+
+싱글 어나더는 축연타 위주의 채보로, 11레벨 치고는 상당히 쉬운 패턴이라는 평이 많다.
+
+싱글 하이퍼와 더블 하이퍼는 로케테스트 당시는 둘 다 9였다가 정식가동하면서 8로 강등되었다. 다만 [[후살]] 패턴이 있으므로 조심하자.

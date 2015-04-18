@@ -1,0 +1,80 @@
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 || [[DJMAX TECHNIKA 3]] ||
+|| 장르 || Rock Band ||
+|| [[BPM]] || 148 ||
+|| 작곡 || [[PlanetBoom]]([[SuperSonic]] 원곡) ||
+|| 편곡 || Pentavision Sound LAB[[br]][[PlanetBoom]], [[XeoN]], [[AstroKid]], [[Cuve]] ||
+|| [[기타]] || [[PlanetBoom]] ||
+|| [[드럼]] || [[XeoN]] ||
+|| [[베이스]] || [[AstroKid]], [[XeoN]] ||
+|| [[키보드]] || [[Cuve]] ||
+|| 보컬 || Pentavision Sound LAB ||
+|| 랩 || [[Mike Blunck]] ||
+|| 출연 || Pentavision Sound LAB ||
+
+~~본격 펜타비전 사운드 팀이 다 해먹는 곡~~
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cG11znbfOao" frameborder="0" allowfullscreen></iframe>
+}}}
+
+동영상에서 보이는 순서대로 [[AstroKid]], [[XeoN]], [[Cuve]], [[PlanetBoom]]
+--[[XeoN]]님 살찌셨네--[* [[Dark Envy]]때의 BGA를 참조하자. 엔비레드가 [[XeoN]]][* http://img.ruliweb.daum.net/data/news14/10m/08/multi/ruliweb_q_31.jpg 왼쪽이 Xeon]
+[[펜타비전]] 사운드 팀에서 공개한 메이킹 + 곡 영상
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CiB4pp0zONo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+곡 부분만 커팅한 영상 ~~무지 깬다.~~
+
+약칭은 '''슈소2011'''.
+
+원곡은 항목에서도 볼 수 있듯이 DJMAX 수록곡인 '''Supersonic'''으로, '''2011'''년 5월 10일에 돌연 음원과 함께 메이킹 동영상이 공개되었으며, [[소리바다]]에서 음원을 받을 수 있었다. 그래서 이름도 '''Supersonic 2011'''. 곡의 전체적인 분위기로 따지자면, 처음엔 카우보이풍으로 나간다 싶더니 갑자기 본격적인 락 성향으로 ~~막 나~~가는 곡. ~~무엇보다도 후렴구 영어 발음이 압박이다.~~[* 문제의 후렴구는 XeoN, AstroKid, Cuve가 불렀다. [[충격과 공포]]]
+
+http://img3.platinumcrew.co.kr/icon/disc/110/super2011_1.png
+
+[[DJMAX TECHNIKA 3]]에는 스페셜 트랙으로 스타믹싱 게임오버 음악인 Wanna be your STAR 바로 뒤의 히든 트랙으로 수록되었으며, 플레이 가능한 신곡으로 수록되었다. BGA는 위의 뮤직비디오(?)[* 보시다시피 구 [[네오위즈]] 사옥 옥상에서 촬영.]를 그대로 편집하였다.
+
+== [[DJMAX TECHNIKA 3]] ==
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/9LLDHVwZ5lY" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴. 이게 현재로선 Supersonic 2011의 플레이 가능한 유일한 패턴이다.
+
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FF0000> Maximum || - || - || 9[* [[https://twitter.com/#!/DJMaxTechnika/status/201853288658911232 테크니카 트위터에서 밝혔다.]] ] ||[[Sound Lab Set]] 상위보스||'''클럽믹싱 전용'''||
+
+10차 업데이트와 공개된 [[Sound Lab Set]] 상위 보스곡으로 MX패턴이 먼저 공개되었다. 그리고 이게 현재로선 '''유일한 패턴'''이 되었는데 그 이유는 아래 단락에 서술한다.
+
+초반부와 후반부의 트릴부분이 괴랄하여 콤보를 잇는건 고사하고 박자 잡기도 꽤 힘들다. 특히 초반부의 관절은 박자가 16비트와 24비트를 적절하지 않게 조합하여 퍼펙이 거의 불가능하도록 만들어놓았다. 중반부가 그나마 할만하니 중반부에서 체력을 채우고 후반을 도전해보자. ~~아니 근데 이걸 퍼펙친 사람은 대체 뭐야~~
+
+마지막 분홍노트 도배는 2011을 노트로 그려놓은 듯 하다.
+
+'''팝 믹싱에 풀 계획이 없다고 밝혔다.''' [[Orientalism Set]] 전용  [[In My Heart]], [[The Clear Blue Sky]]와 비슷하게[* 보컬이 일본어 버전이다. 자세한 내용은 해당 디스크 셋 참조.], 이 곡도 '''해당 디스크 셋 전용 수록곡'''이라고. 즉, NM이랑 HD 패턴 없이 오직 MX패턴만 존재하는 유일한 경우가 되었다. ~~유저들 [wiki:"현기증 난단 말이에요" 현기증 유발하는] 테크니카3 엔딩곡~~ [[https://twitter.com/#!/DJMaxTechnika/status/196789630920691713 #]]
+또한 트위터에서 난이도가 9로 설정되어 있다고 밝혔다. 반응은 '적절하다'와 '응?!'으로 나뉘는 듯. [[http://twitter.com/#!/DJMaxTechnika/status/201853288658911232 #]]
+
+[wiki:"Summer Special Mission (DJMAX)" Summer Special Mission]의 마지막 미션 Maximum 미션의 첫 수록곡이 되었다. 이벤트 기간이 지난 현재로선 클럽 믹싱 세트 외에서 플레이할 수 있는 방법은 없다.
+
+
+
+== [[DJMAX TECHNIKA Q]] ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/qJf1jMrE6KU" frameborder="0" allowfullscreen></iframe>
+}}}
+3라인 SIGNATURE 패턴 플레이 영상
+
+|||||||| DJMAX TECHNIKA Q의 Q 뮤직팩 20 음원 ||
+|| '''Supersonic 2011''' || [STOP] || [Desperado] || [별빛정원] ||
+
+|||||||||||| [DJMAX TECHNIKA Q] 난이도 체계 ||
+|||| 2라인 |||| 3라인 ||
+|| 패턴 || 난이도 || 패턴 || 난이도 ||
+||<#FFFF00> Original || 3 ||<#FFFF00> Original || 4 ||
+||<#0000FF> {{{#white Premium}}} || 5 ||<#0000FF> {{{#white Premium}}} || 6 ||
+||<#FF0000> Signature || 7 ||<#FF0000> Signature || 8 ||
+
+기존 테크니카 특유의 4박자 보라노트가 나오며, 기타 속주에 맞춰 스크래치가 나온다. 무난한 8렙

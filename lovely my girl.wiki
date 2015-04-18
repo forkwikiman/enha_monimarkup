@@ -1,0 +1,32 @@
+[[목차]]
+
+== 개요 ==
+http://ec5.images-amazon.com/images/I/41UIinkR1iL._SL500_AA300_.jpg
+곡이 수록된 앨범 'Bon Voyage'의 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/2jP5BNs_p_k" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+[[일본]]의 2인조 혼성 팝 유닛인 슈크렛(シュクレット)의 노래. 2009년 5월 20일에 발매된 2번째 앨범 'Bon Voyage'에서 2번 트랙에 수록된 곡으로, 부드러우면서도 산뜻한 느낌의 멜로디가 인상적인 곡이다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>7||<:>8||
+||<#5a5aff><:>노트수||<:>180||<:>388||<:>555||
+||<#5a5aff><:>BPM||||||<:>177||
+||<#5a5aff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/ZKAsGx20rmY" frameborder="0" allowfullscreen></iframe>
+}}}
+BLUE3Y3S의 [[엑설런트]] 영상
+
+''''곡 분위기에 비해 노트 배치가 무자비한 곡' 중 하나'''(...)
+주로 초반과 후렴구 주변이 집중적으로 난이도가 높은데, --[[wiki:"Icicles" 듣도]] [[wiki:"Good-bye Chalon" 보도]] [[wiki:"Far east nightbird" 못한]]-- 위 아래 방향으로 나가는 긁기, 곳곳에 퍼져 있는 16비트 노트와 난해한 박자 때문에 점수를 뽑아내기 쉽지 않다.

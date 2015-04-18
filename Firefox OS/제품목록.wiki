@@ -1,0 +1,112 @@
+[[Firefox OS|파이어폭스 OS]]가 탑재된 제품 리스트입니다.
+자세한 정보가 없는 제품들은 2014년 [[MWC]] 발표를 기반으로 작성하였으며 공식 출처는 모질라 블로그 입니다. [[http://www.mozilla.or.kr/community/blog/1338 기기 로드맵]] [[http://www.mozilla.or.kr/community/blog/1328 태블릿]] [[http://www.mozilla.or.kr/community/blog/1324 2014년 스마트폰]] [[http://www.mozilla.or.kr/community/blog/1321 25달러 프로토 타입]] [[http://www.mozilla.or.kr/community/blog/1335 레퍼런스 폰 플레임]]
+
+[[목차]]
+
+== 스마트폰 ==
+
+=== [[ZTE]] ===
+ * [[ZTE Open]]
+ * ZTE Open C -4-inch, 800×480 디스플레이, 듀얼 코어 1.2GHz Qualcomm Snapdragon 200 프로세서, 3G 망 지원, 1,400mAh 배터리, 512MB RAM, 2GB 플래시 스토리지, 3MP 카메라, 이베이에서 출시되었다. 상세한 설명은 [[https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/ZTE_OPEN_C 여기에]]
+ * ZTE Open II
+
+=== 알카텔 ===
+==== 알카텔 원터치 파이어 ====
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] MSM7227A [[SoC]], [[ARM Cortex-A5]] MP1  1.0 GHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||[[메모리]]||256 MB RAM, 512 MB 내장 메모리, microSD (최대 32 GB 지원)  ||
+||[[디스플레이]]||3.5인치(320 x 480) TFT-LCD(165 ppi)[[br]]멀티터치 정전식 터치스크린 미지원 ||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11 b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 300만 화소 ||
+||[[배터리]]||Li-Ion 1400 mAh ||
+||[[운영체제]]||[[Firefox OS]] ||
+||규격||115 x 62.3 x 12.2 mm, 108 g ||
+||색상||파이어폭스 오렌지, 애플 그린, 화이트 ||
+||기타|| ||
+
+==== 기타 ====
+ * 알카텔 원터치 파이어 S - 4.5-inch 960×540 IPS 스크린, 쿼드 코어 1.2GHz 프로세서, 8MP 전면 카메라 및 2MP 후면 카메라, 4G LTE 및 NFC 지원 (USD 239 예상)
+ * 알카텔 원터치 파이어 E - 4.5-inch 960×540 IPS 스크린 screen,듀얼 코어 1.2GHz 프로세서, 5MP 전면 카메라 및 0.3MP 후면 카메라 (USD 180 예상)
+ * 알카텔 원터치 파이어 C 
+
+=== [[LG전자]] ===
+[[LG Fireweb]]
+
+=== [[화웨이]] ===
+Huawei Y 300 - 4-inch 800×480 WVGA 디스플레이, 듀얼코어 1GHz Snapdragon 8225 프로세서, 512MB RAM, 4GB 스토리지, 5MP 카메라
+
+=== 레퍼런스 ===
+https://mdn.mozillademos.org/files/7697/Firefox-OS-Flame-Reference-Device-small.png
+
+Firefox OS Flame의 사양 [[http://www.everbuying.com/product549652.html 출처]]
+
+||[[SoC|프로세서]]||[[퀄컴 스냅드래곤]] 200 MSM8210 [[SoC]], [[ARM Cortex-A7]] MP2 1.2 Ghz [[CPU]], 퀄컴 Adreno 302 [[GPU]]||
+||[[메모리]]||256MB~1GB RAM[* 개발자가 조정 가능], 8 GB 내장 메모리, Micro SDHC (최대 32GB 까지 지원)||
+||[[디스플레이]]||4.5인치(854x480) [[FWVGA]] TFT-LCD[[br]]멀티터치 지원 정전식 터치 스크린  ||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11 b/g/n, [[블루투스]] -.-, [[NFC]] ||
+||[[카메라]]||전면 200만 화소, 후면 500만 화소 ||
+||[[배터리]]||Li-ion 1,800 mAh ||
+||[[운영체제]]||[[Firefox OS]] ||
+||규격||132 x 68 x 10 mm, 120g ||
+||색상||블랙 ||
+||기타||[[FM]][[라디오]]지원, 조도센서, 가속센서 ||
+
+특징 : Flame은 T2Mobile에서 만든 것으로 Firefox OS의 신규 기능이나 앱을 실제 RAM용량을 1GB에서 256MB로 변경해 가면서 다양한 메모리 용량으로 테스트할 수 있습니다. 따라서, 각 스펙의 휴대폰에서 어떤 성능을 나타내는지 확인 가능합니다. 뿐만 아니라, 실제 모바일 네트워크 환경에서 가속계, NFC, 카메라 등의 하드웨어를 이용한 테스트도 가능합니다.
+
+Flame은 Firefox OS의 Nightly 빌드를 사용함으로서 최신 개발 버전을 이용하며, B2G 프로젝트 개발 전반에 공헌할 수 있습니다.
+
+5월 28일부터 170달러에 사전예약 주문이 시작되었다. [[http://www.zdnet.com/meet-flame-mozillas-170-firefox-os-phone-for-devs-7000029928/ 관련기사]] [[http://www.everbuying.com/product549652.html 판매페이지]]
+상세한 내용은 [[https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/Flame 여기에]]
+
+=== 기타 ===
+25달러 저사양 프로토 타입 [[http://www.mozilla.or.kr/community/blog/1321 출처]]
+
+||[[SoC|프로세서]]||Spreadtrum SC8621 [[SoC]], [[ARM Cortex-A5#s-2.1.1|ARM Cortex-A5]] 1 GHz [[CPU]], --[GPU]] ||
+||[[메모리]]||1GB LPDDR1 SDRAM, 2 GB 내장 메모리, Micro SDHC (최대 32 GB 지원)||
+||[[디스플레이]]||2.6 to 3.5 인치, HVGA(PDA) or QVGA[[br]]멀티터치 지원 정전식 터치 스크린||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 801 b/g/n, [[블루투스]] -.- ||
+||[[카메라]]||후면 200만 화소 ||
+||[[배터리]]||  ||
+||[[운영체제]]||[[Firefox OS]] ||
+||규격||  ||
+||색상||  ||
+||기타||[[FM]] 라디오 지원 ||
+
+==== Geeksphone ====
+개발자 레퍼런스폰 취급받은 최소의 Firefox OS 탑재 기기[* 진짜 레퍼런스 플레임과 비교하면 개발부분에서 상당한 차이가 난다.] 긱스폰은 휴대폰 제조사의 이름이다.
+
+attachment:Firefox%20OS/firefox_os_phone.jpg?align=center
+(왼쪽이 저가형인 Keon, 오른쪽이 고가형인 Peak)
+
+  * Keon 사양
+||[wiki:"CPU" 프로세서]||[퀄컴 스냅드래곤]S1 QSD8250 [[SoC]], [[Qualcomm Scorpion]] 1Ghz [[CPU]], 퀄컴 Adreno 200 [[GPU]]||
+||[[메모리]]||512MB RAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원)||
+||[[디스플레이]]||3.5인치 (320 x 480) [[HVGA]] LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11b/g/n||
+||[[카메라]]||후면 300만 화소||
+||[[배터리]]||Li-lon 1580 mAh||
+||규격 ||불명||
+||기타||Light & Prox. Sensor||
+
+  * Peak 사양
+||[wiki:"CPU" 프로세서]||[퀄컴 스냅드래곤] S4 Play MSM8225 [[SoC]], [[ARM Cortex-A5]] MP2 1.2 Ghz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||[[메모리]]||512MB RAM, 4GB 내장 메모리, micro SDHC(최대 32 GB 지원)||
+||[[디스플레이]]||4.3인치 (960 x 540) qHD LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]]||
+||[[네트워크]]||[[WCDMA|HSDPA & HSUPA & UMTS]], [[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11b/g/n||
+||[[카메라]]||전면 200만 화소, 후면 800만 화소, [[AF]] 및 [[LED]] 플래시||
+||[[배터리]]||Li-lon 1800 mAh||
+||규격||불명||
+||기타||Light & Prox. Sensor, G Sensor||
+
+== 태블릿 ==
+[[http://www.mozilla.or.kr/community/blog/1328 출처]]
+ * 알카텔 원터치 파이어 7 - 285g의 9.9mm 두께의 슬림한 태블릿으로 한 손에 잡을 수 있는 크기입니다. 7인치 qHD (960×540 픽섹) 디스플레이에 1.2GHz 듀얼 코어 칩을 내장하고 있고 2GB RAM과 4GB의 스토리지를 장착하고 있으며 79유로(USD 108)에 판매 예정이다.
+
+ * Foxconn Infocus 모델은 A31(ARM) 1.0 Ghz듀얼 코어에 2GB RAM, 16GB의 스토리지를 가지고 있으며 10.1인치 1280x 800의 멀티 터치 스크린으로 듀얼카메라 및 7000mAh의 배터리를 장착하고 있다.
+
+ * VIA Vixen 모델은 WM8880(ARM) 1.2Ghz 듀얼 코어 프로세스로 1GB 랩과 8GB 스토리지에 7인치 1024×600 화면을 가지고 있으며 4000mAh의 배터리를 장착한다.
+
+== 기타 ==
+
+=== [[스마트 TV]] ===
+[[http://www.mozilla.or.kr/community/blog/1338 기기 로드맵]]
+ * [[파나소닉]]

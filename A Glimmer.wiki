@@ -1,0 +1,72 @@
+[[목차]]
+= [[EZ2AC]]의 수록곡 =
+|| 장르 |||||||| Epic Trance ||
+|| 곡명 |||||||| A Glimmer ||
+|| 작곡 |||||||| [[KIEN|Rammage]] ||
+|| 배경 |||||||| [[범용 BGA]] ||
+|| 최초 수록버전 |||||||| [wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] ||
+|| BPM |||||||| 138 ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"EZ2AC : ENDLESS CIRCULATION" EZ2AC : EC] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 12}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange }}} || {{{#red }}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+== 개요 ==
+== 패턴 ==
+=== 5 Street mix ===
+{{{#!HTML
+<embed src="//www.youtube.com/v/-9rNlJDck6U?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+NM MIX.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/aZ42pFJKcWc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/aZ42pFJKcWc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+
+곡은 BPM 130정도로 비교적 느리며, 뭔가 전체적으로 슬프다. 패턴은 전체적으로 입문자용으로 무난하며, 스트릿에 입문한지 한두달정도면 올콤도 노려볼만 한 곡. 다만, 하드는 중반 부분의 짤막한 2단 트릴과 8비트 페달구간이 두번 나오므로 주의.  
+=== 7 Street mix ===
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/_JjlBSg_NtM" frameborder="0" allowfullscreen></iframe><param name="allowFullScreen" value="true
+}}}
+
+HD MIX.
+
+최후반 이펙터 + 노트키 계단 부분을 제외한다면 죄다 쉬운 패턴이다. 12로 보기에는 물렙이 너무 짙다.
+
+
+=== Club mix ===
+
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/Psnvi_jg4QA" frameborder="0" allowfullscreen></iframe></iframe><param name="allowFullScreen" value="true
+}}}
+
+NM MIX. 
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/m7W0WW-JWJE" frameborder="0" allowfullscreen></iframe><param name="allowFullScreen" value="true
+}}}
+
+
+HD MIX.
+
+
+=== Space mix ===
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/3wRdkWt-rUA" frameborder="0" allowfullscreen></iframe></iframe><param name="allowFullScreen" value="true
+}}}
+
+=== EZ2 Catch ===
+{{{#!HTML
+}}}
+=== Turntable ===
+{{{#!HTML
+}}}
+[[각주]]

@@ -1,0 +1,41 @@
+>시리즈의 전반적인 사항은 [[beatmania 시리즈]]를 참고할 것.
+
+ * 상위 항목 : [[비트매니아 시리즈/역사]]
+
+http://www.konami.jp/am/bm/1st/1stlogo.gif
+http://www.hardcoregaming101.net/beatmania/beatmania-machine.jpg
+'''게임의 고동에 약동하는 비트를 느껴라'''
+ * 가동시작일 : 1997년 12월 10일
+
+'''전설의 시작.'''
+
+[[비트매니아 시리즈]] 최초의 작품이자, [[BEMANI 시리즈]]의 첫 작품[* BEMANI라는 브랜드 자체는 비트매니아 3rdMIX에서 처음 사용했다.]. 수록곡은 첫 작품인 만큼 [[DJ BATTLE]]을 포함해 9곡(그나마도 1P/2P가 각자 다르게 나오는 곡까지 감안해도 13곡이다)밖에 없다. 또한 비트매니아 시리즈 중 유일하게 1P와 2P/DP 플레이에서 곡이 바뀌는 시스템으로 유명한데, 이후 작품에서도 시스템 자체는 유지되었지만 신곡에 이 시스템이 이후 어떤 시리즈에도 도입되지는 않았다[* 후일 IIDX 시리즈에 SP/DP에 따라 곡이 바뀌는 [[큰개의 왈츠]]나 [[仮想空間の旅人たち]] 같은 곡이 이런 시스템을 계승했다.].
+
+[[대한민국]]은 이 작품이 정식 발매된 적은 없고, 그 후속작인 2ndMIX가 '비트스테이지'라는 명칭으로 정식발매되었다. 자세한 시리즈 관련 명칭 일화는 상위 항목인 [비트매니아 시리즈/역사]를 참조
+
+자체적으로 스토리 모드를 갖고 있어[* 대강의 스토리라인이 CLUB SAGAWA에서 DJing을 해 돈(=점수)을 많이 벌자!~~[wiki:"GOLD RUSH" Make it! Make money!]~~라고 한다. 그래서 랭킹에서 $표시가 나온다.][[비트매니아 IIDX 17 SIRIUS]]의 파티 모드가 나오기 전까지는 아케이드용 BEMANI 게임 중 유일하게 스토리가 있는 게임이었다.
+
+모드는 NORMAL과 EXPERT 두 개 뿐. NORMAL은 4판을 플레이할 수 있다. EXPERT는 7곡을 모두 플레이할 수 있지만 게이지 회복이 안 되는 초고수 전용 모드였다.
+
+타이틀 화면에서 버튼을 전부 누르면서 시작하면 수록곡 7곡[* DJ BATTLE은 제외하고, greed eater과 2 gorgeous 4 U는 1P냐 2P냐에 따라 한 쪽만 나온다.] [* 또한 딥스위치 설정에서 EXPERT 설정을 ON으로 바꿔야 했다. ]을 전부 돌 수 있는 익스퍼트 모드를 고를 수 있다. 이것은 이후 THE FINAL의 THE FIRST 코스로 재현된다.
+
+초기 FREE ZONE 에서는 절대로 GREAT가 나올 수 없었다. 그래서 공식 홈페이지에서는 FREE ZONE이 있는 곡의 만점을 따로 표기했다. 이 문제는 이후 FREE ZONE 내부에 스크래치 노트를 넣고, 이 노트를 맞추면 GREAT가 뜨는 방식으로 해결하였다.
+
+|||||||| '''수록곡 일람''' ||
+|||||||| '''1스테이지&2스테이지''' ||
+|| '''장르명''' || '''곡명''' || '''아티스트''' || '''비고''' ||
+|| [[힙합|HIPHOP]] || [[u gotta groove]] || [[dj nagureo|DJ nagureo]] || ||
+|| [[레게|RAGGAE]] || jam jam reggae || [[dj nagureo|Jam Mastar'73]] || ||
+|| [[테크노|TECHNO]] || OVERDOSER(romo mix) || [[타케야스 히로시|MIRAK]] || 1P 전용 ||
+|| [[테크노|TECHNO]] || OVERDOSER(ambient mix) || [[타케야스 히로시|MIRAK]] || 2P 전용 ||
+|||||||| '''DJ BATTLE'''[* 2스테이지를 클리어하면 플레이 가능하며 스크래치만을 사용한다. DJ BATTLE 곡의 작곡은 [[dj nagureo]].] [* 딥스위치로 나타나지 않게 할수도 있다.] ||
+|||||||| '''3스테이지&4스테이지''' ||
+|| '''장르명''' || '''곡명''' || '''아티스트''' ||
+|| [[브레이크비트|BREAK-BTS]] || 2 gorgeous 4 U || [[타케야스 히로시|prophet-31]] || 1P 전용 ||
+|| [[브레이크비트|BREAK-BTS]] || greed eater || [[타케야스 히로시|The Dust Fathers]] || 2P 전용 ||
+|| [[소울|SOUL]] || LOVE SO GROOVY || [[타케야스 히로시|Lovemints]] || 1P 전용 ||
+|| [[소울|SOUL]] || LOVE SO GROOVY(12inch version) || [[타케야스 히로시|Lovemints]] || 2P 전용 ||
+|| [[하우스|HOUSE]] || [[20,november|20, november(single mix)]] || [[dj nagureo|n.a.r.d]] || 1P 전용 ||
+|| [[하우스|HOUSE]] || [[20,november|20, november(radio edit)]] || [[dj nagureo|n.a.r.d]] || 2P 전용 ||
+|| [[레이브|RAVE]] || [[e-motion]] || E.O.S || 히든곡[* DJ BATTLE을 그루브 게이지 100%로 클리어 시 출현.] ||
+ 

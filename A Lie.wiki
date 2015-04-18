@@ -1,0 +1,58 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+{{{#!html
+<embed src="http://www.youtube.com/v/SC2CNsYP8bE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+BGA
+
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 추가 수록 버전 || [[DJMAX RAY]] ||
+|| 작곡 || [[makou]] ||
+|| 보컬 || Lin ||
+|| 비주얼 || Ache(Portable 2) cho2e(RAY) ||
+|| 장르 || R&B(Portable 2) NU R&B(RAY) ||
+
+makou가 DMP2에 제공한 악곡으로, 다소 어두운 분위기의 R&B 곡.
+도시, 풍경 등을 촬영한 사진을 가지고 연출한 BGA와 함께 가라앉은 분위기가 가득한 곡으로, 전체적으로 라이트 유저들을 위해 패턴은 전부 저난이도 지향적이다. 때문에 모드별로 하이스코어를 노리는 유저들은 그냥 프리스타일 해금용으로 한번 플레이하고 지나가는 곡 중 하나가 되었다.
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/XVmuq_VHb4c" frameborder="0" allowfullscreen></iframe>
+}}}
+
+출시 당시 BGA가 몬도 그로소가 작곡하고 [[BoA]]가 피처링한 'Everything Needs Love'의 뮤직비디오를 표절했다는 의혹이 일었다. 다양한 색조의 사진을 바탕으로 가사를 띄우는 형식이 판박이라는 것. 물론 이런 식의 타이포그래피는 다른 작품에서도 지겹도록 쓰이는 스타일이기는 하지만, 두 영상은 가사의 폰트 하며 가사를 띄우는 스타일까지 노골적으로 영향을 받았다는 것이 보인다. Ache는 이에 대해 별 다른 반응을 보이진 않았지만, 다른 곡에서의 BGA 표절 논란에서 '''[[오마쥬]]'''라고 답한 것을 보면...
+
+[http://www.youtube.com/watch?v=DyHcHa383Qk O2라는 비주얼레이터가 만든 2차 창작 BGA]도 있다. Ache의 공식 BGA 못지않게 퀄리티가 상당히 높은 편.
+
+=== [[DJMAX RAY]] ===
+
+|||||||||| [DJMAX RAY]의 DJMAX CLASSIC 3 팩 수록곡 ||
+|| [[Put'Em Up]] || [[wiki:"RED(DJMAX)"Red]] || '''A Lie''' || [[Never Say]] || [[One the Love]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 5 || ||
+||<#0000FF> {{{#white HD}}} || 7 || ||
+||<#FF0000> MX || 9 || ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/2qj-3e8MoqY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[추가바람]]
+
+=== A Lie -Deep Inside Mix- ===
+
+{{{#!html
+<embed src="http://www.youtube.com/v/geMQTWSRlo4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+
+|| 최초 수록 버전 || [[DJMAX Trilogy]] ||
+|| 작곡 || makou ||
+|| 리믹스 || Electronic Boutique ||
+|| 보컬 || Rin ||
+|| 비주얼 || Ache ||
+|| 장르 || R&B ||
+
+[[DJMAX Trilogy]]에서는 원곡 대신에 [[Electronic Boutique]]가 리믹스한 A Lie -Deep Inside Mix-가 수록되었으며, 패턴도 저난이도 중심의 원곡과는 달리 어느정도 중상위 난이도로 구성되어 조금 더 유저층을 폭넓게 커버하였다.
+BGA는 전체적인 소스는 원곡을 유지하고 있으나 Ache의 로고는 도용 문제로 빠져있다.
+왜인지는 몰라도 보컬 명의가 Lin에서 Rin으로 바뀌어있다.

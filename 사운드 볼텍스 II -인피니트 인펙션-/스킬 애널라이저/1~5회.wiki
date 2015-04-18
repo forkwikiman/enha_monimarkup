@@ -1,0 +1,352 @@
+<<include(틀:스킬 애널라이저)>>
+
+[[목차]]
+== 2013년 7월 3일 ==
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[凛として咲く花の如く]][[BR]]スプーキィテルミィンミックス || マチゲリータ || 163 || {{{#orange ADV}}} || 6 ||
+|| '''2''' || [[Bad Apple!! feat. nomico]] || Masayoshi Minoshima || 138 || {{{#orange ADV}}} || 7 ||
+|| '''3''' || [[FLOWER]][[BR]]REDALiCE Remix || REDALiCE || 180 || {{{#purple NOV}}} || 6 ||
+
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[버터플라이 캣|バタフライキャット]] || daniwell || 167 || {{{#orange ADV}}} || 7 ||
+|| '''2''' || [[ヒマワリ]][[BR]]MUZIK SERVANT Remix || MUZIK SERVANT || 175 || {{{#orange ADV}}} || 8 ||
+|| '''3''' || [[ヤサイマシ☆ニンニクアブラオオメ]] || azuma feat. ななひら || 180 || {{{#orange ADV}}} || 8 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[달에 구름 꽃에 바람|月に叢雲華に風]] || 幽閉サテライト feat. Senya || 160 || {{{#orange ADV}}} || 9 ||
+|| '''2''' || [[사기 라이프 게임|イカサマライフゲイム]] || kemu feat.GUMI || 200 || {{{#orange ADV}}} || 10 ||
+|| '''3''' || [[凛として咲く花の如く]][[BR]]スプーキィテルミィンミックス || マチゲリータ || 163 || {{{#ff009f EXH}}} || 9 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[FLOWER]][[BR]]REDALiCE Remix || REDALiCE || 180 || {{{#orange ADV}}} || 11 ||
+|| '''2''' || [[cloud]] || EZFG || 143 || {{{#ff009f EXH}}} || 12 ||
+|| '''3''' || [[고릴라가 있다|ごりらがいるんだ]] || ピノキオP || 160 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Bad Apple!! feat. nomico]] || Masayoshi Minoshima || 138 || {{{#ff009f EXH}}} || 12 ||
+|| '''2''' || [[caramel ribbon]] || P*Light || 175 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[.59]][[BR]]-BOOTH BOOST REMIX- || IDEA+RHYTHM || 145 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[ALBIDA]][[BR]]Powerless Mix || 無力P || 156 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[Nyan Cat]] || daniwellP feat. 桃音モモ || 142 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[Space Diver Tama]] || 黒魔 || 170 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[TRIGGER★HAPPY]] || P*Light || 185 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[freaky freak]] || kamome sano || 145 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[신의 태엽|カミサマネジマキ]] || kemu feat. GUMI || 284 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[TYCOON]] || SOUND HOLIC feat. Nana Takahashi || 170 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[Xepher]][[BR]]Light and Darkness Dragon Remix || デッドボールP || 180 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[고독한 파수꾼|孤独の番人]] || SCL Project（natsuP）feat. MAYU || 190 || {{{#ff009f EXH}}} || 14 ||
+
+보통은 마지막 곡인 고독한 파수꾼이 제일 어렵다고 평가받으나, 폭타에 약하다면 2번째 트랙인 Xepher가 걸림돌.
+
+== 2013년 8월 2일 ==
+1~6, 8레벨의 변화는 없으며, 9, 10레벨이 추가되었다.
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[TRIGGER★HAPPY]] || P*Light || 185 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[freaky freak]] || kamome sano || 145 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[Sakura Reflection]][[BR]](P*Light Slayer Remix) || P*Light || 188 || {{{#ff009f EXH}}} || 14 ||
+
+신의 태엽이 284라는 빠른 BPM과 까다로운 배치 때문에 7레벨에 넣기에는 좀 어려운 감이 있지만, 재투표로 교체된 사쿠라 리플렉션이 너무 쉬워서 되려 위닝런이 돼버렸다.
+
+=== Skill Level 09 마기사(魔騎士) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_09.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[冥]][[BR]]Rockin' SWING REMIX || 164 || 200 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[大宇宙ステージ]] || 黒魔 || 202 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[FLOWER]][[BR]]REDALiCE Remix || REDALiCE || 180 || {{{#ff009f EXH}}} || 15 ||
+
+2번째 트랙에 15레벨 중에서도 가장 개인차가 큰 대우주 스테이지가 배치되었다. 1번째와 3번째 곡인 명, 플라워도 지속노브가 특징이기 때문에 노브가 탈선한다든가 해서 게이지가 광탈하는 경우도 빈번했다.
+
+=== Skill Level 10 강력라(剛力羅) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_10.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Ganymede]][[BR]]kamome mix || kamome sano || 200 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[가위눌린 만남을|金縛りの逢を]] || はるなば || 200 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Max Burning!!]] || BlackY || 190 || {{{#ff009f EXH}}} || 15 ||
+
+딱 보는 순간 눈에 들어오겠지만 '''[[사운드 볼텍스 부스]] 시절 3대 보스곡을 그대로 박아놓았다.'''(...) ~~대상곡이 모두 난민 양산곡~~ 특히 Max Burning!!같은 경우 59%라는 압도적인 지지율을 보여 화제가 되었다.
+
+== 2013년 9월 5일 ==
+레벨 1부터 레벨 8까지 곡들이 레벨 7의 Sakura Reflection (P*Light Slayer Remix)를 제외하고 모두 교체되었다. 레벨 9와 레벨 10은 그대로.
+
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[恋する☆宇宙戦争っ!!]][[BR]]あばばばみっくす || ARM(IOSYS) || 200 || {{{#purple NOV}}} || 6 ||
+|| '''2''' || [[honey trap]] || そよもぎ || 172 || {{{#orange ADV}}} || 7 ||
+|| '''3''' || [[십면상|十面相]][[BR]](フリーダムver.) || YM feat.__(アンダーバー) || 173 || {{{#orange ADV}}} || 7 ||
+
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[샛별 로켓|明星ロケット]] || 岸田教団＆THE明星ロケッツ || 163 || {{{#orange ADV}}} || 8 ||
+|| '''2''' || [[사이버 선더 사이다|サイバーサンダーサイダー]] || EZFG || 145 || {{{#orange ADV}}} || 8 ||
+|| '''3''' || [[Iterator]] || yanagi || 130 || {{{#orange ADV}}} || 7 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[천성의 약함|天ノ弱]] || 164 feat. GUMI || 200-205 || {{{#orange ADV}}} || 9 ||
+|| '''2''' || [[썩은 외도와 초콜릿|腐れ外道とチョコレゐト]] || ピノキオP || 260 || {{{#orange ADV}}} || 10 ||
+|| '''3''' || [[사이코패스 커뮤니케이션|サイコパスコミュニケーション]] || ゆちゃP || 204 || {{{#ff009f EXH}}} || 10 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[노심융해|炉心融解]] || iroha || 165 || {{{#ff009f EXH}}} || 12 ||
+|| '''2''' || [[カラルの月]][[BR]]Verdammt Remix || Verdammt || 135 || {{{#ff009f EXH}}} || 12 ||
+|| '''3''' || [[버터플라이 캣|バタフライキャット]] || daniwellP || 167 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Ray]] || 源屋 || 175 || {{{#ff009f EXH}}} || 12 ||
+|| '''2''' || [[Ha・lle・lu・jah]] || SOUND HOLIC feat. Nana Takahashi || 150 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[gentle stress]][[BR]]wobble rmx || fu_mou || 175 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[육조년과 하룻밤 이야기|六兆年と一夜物語]] || kemu feat. IA || 186 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[치르노의 퍼펙트 산수교실|チルノのパーフェクトさんすう教室]] || ARM(IOSYS) || 175 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[Daily Lunch Special]][[BR]]tpz Overcute Remix || t+pazolite || 120-240 || {{{#ff009f EXH}}} || 13 ||
+
+3번째 보스곡은 변속이 있지만 도전자에게 그리 큰 위협이 되지않는 정도다. 그러나 최고 변속을 감안해서 배속을 조정하지 않을시 한순간에 판정과 게이지가 망가질 가능성이 크다.
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Sakura Reflection]][[BR]](P*Light Slayer Remix)]] || P*Light || 188 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[나이트 오브 나이츠|ナイト・オブ・ナイツ]] || ビートまりお (COOL&CREATE) || 180 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[She is my wife]][[BR]]すーぱーアイドル☆ミツル子Remixちゃん || 高井さんとuno(IOSYS) || 85-370 || {{{#ff009f EXH}}} || 14 ||
+
+1, 2번째 트랙은 무난한 레벨 7급의 곡이나, 3번째 곡의 변속이 플레이어를 두 번 엿먹이는 곡이라 [* 초반부의 저속 구간에 배속을 맞췄다가 본 BPM에서 너무 빨라서 못 치는 경우도 허다하고, 마지막의 370BPM짜리 깜짝 패턴에서도 대비를 못해서 게이지가 뭉텅 깎여 폭사하는 사람들이 많다.] 보스곡으로 군림했다.
+
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[恋する☆宇宙戦争っ!!]][[BR]]あばばばみっくす || ARM(IOSYS) || 200 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[ませまてぃっく♥ま+ま=まじっく！]] || かめりあ feat. ななひら || 192 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[Cirno Break]] || さわわ || 196 || {{{#ff009f EXH}}} || 14 ||
+
+많은 난민을 양산한 [[고독한 파수꾼]]이 내려왔으나, 14레벨중에서 어려운 곡중 하나인 [[Cirno Break]]가 그 자리를 차지해버렸다.
+
+== 2013년 10월 4일 ==
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[凛として咲く花の如く]][[BR]]スプーキィテルミィンミックス || マチゲリータ || 163 || {{{#orange ADV}}} || 6 ||
+|| '''2''' || [[Bad Apple!! feat. nomico]] || Masayoshi Minoshima || 138 || {{{#orange ADV}}} || 7 ||
+|| '''3''' || [[Ha・lle・lu・jah]] || SOUND HOLIC feat. Nana Takahashi || 150 || {{{#orange ADV}}} || 7 ||
+
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[사이버 선더 사이다|サイバーサンダーサイダー]] || EZFG || 145 || {{{#orange ADV}}} || 8 ||
+|| '''2''' || [[ヒマワリ]][[br]]MUZIK SERVANT Remix || MUZIK SERVANT || 175 || {{{#orange ADV}}} || 8 ||
+|| '''3''' || [[ヤサイマシ☆ニンニクアブラオオメ]] || azuma feat. ななひら || 180 || {{{#orange ADV}}} || 8 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[천성의 약함|天ノ弱]] || 164 feat. GUMI || 200-205 || {{{#orange ADV}}} || 9 ||
+|| '''2''' || [[月に叢雲華に風]] || 幽閉サテライト feat. Senya || 160 || {{{#orange ADV}}} || 9 ||
+|| '''3''' || [[MAX 300]][[br]]takamatt MIN REMIX || takamatt || 136 || {{{#ff009f EXH}}} || 10 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[FLOWER]][[br]]REDALiCE Remix || REDALiCE || 180 || {{{#orange ADV}}} || 11 ||
+|| '''2''' || [[隅田川夏恋歌]][[br]](I/O Angel mix) || Daisuke Ohnuma(大福P) || 178 || {{{#ff009f EXH}}} || 12 ||
+|| '''3''' || [[버터플라이 캣|バタフライキャット]] || daniwell || 167 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Ha・lle・lu・jah]] || SOUND HOLIC feat. Nana Takahashi || 150 || {{{#ff009f EXH}}} || 13 ||
+|| '''2''' || [[caramel ribbon]] || P*Light || 175 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[.59]][[br]]-BOOTH BOOST REMIX- || IDEA+RHYTHM || 145 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[華陽炎-Hana Kagerou-]] || 源屋 feat.Kuroa* || 85-195 || {{{#ff009f EXH}}} || 13 ||
+|| '''2''' || [[텐구가 떨어트린 수첩|天狗の落とし文]][[br]]feat. ytr || 魂音泉 || 160 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[마리사는 엄청난 것을 훔쳐갔습니다|魔理沙は大変なものを盗んでいきました]] || ARM(IOSYS) || 170 || {{{#ff009f EXH}}} || 13 ||
+
+2번 트랙에 배정된 [[텐구가 떨어트린 수첩|天狗の落とし文]]이 하필 13레벨 극단적인 노브곡인 바람에 노브에 약한 플레이어들이 애를 먹었다.
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[OVERDRIVERS]] || P*Light feat. mow*2 || 177 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[순간 트립|セツナトリップ]] || Last Note. feat. GUMI || 145 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[freaky freak]] || kamome sano || 145 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[恋する☆宇宙戦争っ!!]][[br]]あばばばみっくす || ARM(IOSYS) || 200 || {{{#448844 INF}}} || 14 ||
+|| '''2''' || [[굉장한 기세로 케이네가 굉장한 노래|物凄い勢いでけーねが物凄いうた]] || Halozy || 180 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[고독한 파수꾼|孤独の番人]] || SCL Project（natsuP）feat. MAYU || 190 || {{{#ff009f EXH}}} || 14 ||
+
+파수꾼의 대타 역할을 하던 [[Cirno Break]]가 내려오고 다시 고독한 파수꾼이 보스곡 위치에 등극해 레벨 8 난민 양성곡으로 재군림하고 있다.
+
+스킬 애널라이저 역사상 처음으로 INF 패턴이 수록되었다.
+
+=== Skill Level 09 마기사(魔騎士) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_09.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[홍콩 쿵후 대선풍|香港功夫大旋風]] || Daisuke Ohnuma || 178 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[디스트로이 마치|デストロイマーチ]] || 桜華 || 155 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Lunartic Dial]] || Shiron || 162 || {{{#ff009f EXH}}} || 15 ||
+
+그동안 심각한 개인차로 악명을 떨쳤던 [[大宇宙ステージ]]가 레벨 9에서 내려왔다. 대신 같은 자리에 FX 숏 노트를 적극 활용으로 악명을 떨치는 디스트로이 마치가 뽑혔다. 덧붙여 말그대로 넘어가는 스테이지였던 [冥]이 홍콩 쿵후 대선풍으로 변경되면서 체감난이도는 훨씬 올라갔다. 보스곡인 Lunartic Dial 또한 이전의 [[FLOWER]]와 체감난이도는 비슷한 편. 다만 플라워와는 또다른 테크닉을 보여주는 곡이기 때문에 --대우주 스테이지를 지독하게 못하지 않는 이상-- 체감난이도는 상당히 상승한편.
+
+=== Skill Level 10 강력라(剛力羅) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_10.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[snow storm]][[br]]-euphoria- || Yooh || 89-180 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[Booths of Fighters]] || RoughSketch + DD"ナカタ"Metal || 155-225 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Quietus Ray]] || xi || 200 || {{{#ff009f EXH}}} || 15 ||
+
+그동안 레벨 10을 맡은 [[Ganymede|부스]] [[가위눌린 만남을|시절]] [[Max Burning!!|3대장들]]이 내려왔지만, 더 강한 곡들이 와버렸다. 예외적으로 snow storm은 이전 레벨 10과 비슷하다는 평을 받지만, 이마저도 지속노브곡이라 노브 한번 삐끗나면 게이지 관리에 치명적이다.
+
+== 2013년 10월 31일 ==
+=== Skill Level 01 악상(岳翔) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_01.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[凛として咲く花の如く]][[BR]]スプーキィテルミィンミックス || マチゲリータ || 163 || {{{#orange ADV}}} || 6 ||
+|| '''2''' || [[니시닛포리의 춤|西日暮里の踊り]] || 家の裏でマンボウが死んでるP || 140 || {{{#orange ADV}}} || 7 ||
+|| '''3''' || [[Ha・lle・lu・jah]] || SOUND HOLIC feat. Nana Takahashi || 150 || {{{#orange ADV}}} || 7 ||
+
+=== Skill Level 02 유성(流星) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_02.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[샛별 로켓|明星ロケット]] || 岸田教団＆THE明星ロケッツ || 163 || {{{#orange ADV}}} || 8 ||
+|| '''2''' || [[지구 최후의 고백을|地球最後の告白を]] || kemu feat. GUMI || 140-190 || {{{#orange ADV}}} || 8 ||
+|| '''3''' || [[ヤサイマシ☆ニンニクアブラオオメ]] || azuma feat. ななひら || 180 || {{{#orange ADV}}} || 8 ||
+
+=== Skill Level 03 월충(月衝) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_03.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[凛として咲く花の如く]][[br]]スプーキィテルミィンミックス || マチゲリータ || 163 || {{{#ff009f EXH}}} || 9 ||
+|| '''2''' || [[TYCOON]] || SOUND HOLIC feat. Nana Takahashi || 170 || {{{#orange ADV}}} || 10 ||
+|| '''3''' || [[MAX 300]][[BR]]takamatt MIN REMIX || takamatt || 136 || {{{#ff009f EXH}}} || 10 ||
+
+=== Skill Level 04 순광(瞬光) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_04.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[ふしぎなくすり]][[BR]] いっきのみっくす || ゆうゆ || 162 || {{{#ff009f EXH}}} || 11 ||
+|| '''2''' || [[隅田川夏恋歌]][[BR]](I/O Angel mix) || Daisuke Ohnuma(大福P) || 178 || {{{#ff009f EXH}}} || 12 ||
+|| '''3''' || [[Darkness Pleasure]] || Hull feat.℃iel || 136 || {{{#ff009f EXH}}} || 12 ||
+
+=== Skill Level 05 천극(天極) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_05.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Max Burning!!]] || BlackY || 190 || {{{#orange ADV}}} || 12 ||
+|| '''2''' || [[여기는, 행복안심위원회입니다.#s-9|こちら、幸福安心委員会です。]] || うたたＰ || 128 || {{{#orange ADV}}} || 12 ||
+|| '''3''' || [[.59]][[BR]]-BOOTH BOOST REMIX- || IDEA+RHYTHM || 145 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 06 열풍(烈風) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_06.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[텐구가 떨어트린 수첩|天狗の落とし文]][[br]]feat. ytr || 魂音泉 || 160 || {{{#ff009f EXH}}} || 13 ||
+|| '''2''' || [[華陽炎-Hana Kagerou-]] || 源屋 feat.Kuroa* || 85-195 || {{{#ff009f EXH}}} || 13 ||
+|| '''3''' || [[Space Diver Tama]] || 黒魔 || 170 || {{{#ff009f EXH}}} || 13 ||
+
+=== Skill Level 07 뇌전(雷電) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_07.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[TRIGGER★HAPPY]] || P*Light || 185 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[순간 트립|セツナトリップ]] || Last Note. feat. GUMI || 145 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[우블 마법 도서관|ワヴル魔法図書館]] || wobble magic library || 180 || {{{#ff009f EXH}}} || 14 ||
+
+=== Skill Level 08 여화(麗華) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_08.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[獣性オーバーフロウ]] || PROCYON KNIGHTS PROJECT || 168 || {{{#ff009f EXH}}} || 14 ||
+|| '''2''' || [[Cirno Break]] || さわわ || 196 || {{{#ff009f EXH}}} || 14 ||
+|| '''3''' || [[고독한 파수꾼|孤独の番人]] || SCL Project（natsuP）feat. MAYU || 190 || {{{#ff009f EXH}}} || 14 ||
+
+'''레벨 8 난민을 양산하던 양대 보스곡이 함께 들어왔다!'''
+
+=== Skill Level 09 마기사(魔騎士) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_09.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[冥]][[br]]Rockin' SWING REMIX || 164 || 200 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[FLOWER]][[br]]REDALiCE Remix || REDALiCE || 180 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[The world of sound]] || Music by Ryuwitty[[BR]]Vocal by Kuroa* || 210 || {{{#ff009f EXH}}} || 15 ||
+
+초기 레벨9에서 [[大宇宙ステージ]]가 빠지고 The world of sound가 들어왔다.
+
+=== Skill Level 10 강력라(剛力羅) ===
+http://p.eagate.573.jp/game/sdvx/ii/p/images/skill_vote/skill_10.gif
+
+|| '''트랙''' || '''곡명''' || '''아티스트''' || '''BPM''' || '''난이도''' || '''레벨''' ||
+|| '''1''' || [[Ganymede]][[BR]]kamome mix || kamome sano || 200 || {{{#ff009f EXH}}} || 15 ||
+|| '''2''' || [[Booths of Fighters]] || RoughSketch + DD"ナカタ"Metal || 155-225 || {{{#ff009f EXH}}} || 15 ||
+|| '''3''' || [[Quietus Ray]] || xi || 200 || {{{#ff009f EXH}}} || 15 ||
+
+이전 레벨10에서 [[snow storm#s-3|snow storm -euphoria-]]가 Ganymede kamome mix로 교체되었다. 3곡 모두 2000체인이 넘어가는 무식한 물량은 좀 완화되었으나, 난이도는 오히려 더 올라가버렸다.

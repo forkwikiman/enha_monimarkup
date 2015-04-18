@@ -1,0 +1,547 @@
+[[include(틀:테라리아/아이템)]]
+
+[[목차]]
+
+|| 테마 || 재료 || 스테이션 || 획득 지역 ||
+|| 나무 가구 || 나무 || 작업대, 재제소 || 지하의 나무집 ||
+|| 아한대나무 가구 || 아한대나무 || 작업대, 재제소 || 획득 불가 ||
+|| 야자나무 가구 || 야자나무 || 작업대, 재제소 || 획득 불가 ||
+|| 진한 마호가니 가구 || 진한 마호가니 || 작업대, 재제소 || 획득 불가 ||
+|| 칠흑나무 가구 || 칠흑나무 || 작업대, 재제소 || 획득 불가 ||
+|| 그늘나무 가구 || 그늘나무 || 작업대, 재제소 || 획득 불가 ||
+|| 진주나무 가구 || 진주나무 || 작업대, 재제소 || 획득 불가 ||
+|| 왕조시대 가구[* 라고는 하지만 그냥 일본식 가구이다.] || 왕조시대의 나무 || 작업대, 재제소 || 획득 불가 ||
+|| 으스스한 가구 || 으스스한 나무 || 작업대, 재제소 || 획득 불가 ||
+|| 소나무 가구 || 소나무 블록 || 작업대 || 획득 불가 ||
+|| 선인장 가구 || 선인장 || 작업대, 재제소 || 획득 불가 ||
+|| 호박 가구 || 호박 || 작업대, 재제소 || 획득 불가 ||
+|| 버섯 가구 || 발광 버섯 || 작업대, 재제소 || 획득 불가 ||
+|| 생나무 가구 || 나무 || 생나무 베틀 || 생나무 지하의 방 ||
+|| 유리 가구 || 유리 || 유리 가마 || 획득 불가 ||
+|| 스팀펑크 가구 || 톱니바퀴 || 스팀펑크 보일러 || 획득 불가 ||
+|| 스카이웨어 가구 || 선플레이트 블록 || 스카이 밀 || 하늘섬 ||
+|| 얼어붙은 가구 || 얼음 블록 || 제빙기 || 획득 불가 ||
+|| 꿀 가구 || 꿀 블록 || 꿀 디스펜서 || 획득 불가 ||
+|| 슬라임 가구 || 슬라임 블록 || 응고기 || 획득 불가 ||
+|| 뼈 가구 || 뼈 || 뼈 용접기 || 획득 불가 ||
+|| 살덩이 가구 || 살덩이 블록 || 살덩이 복제기 || 획득 불가 ||
+|| 리자드 가구 || 리자드 블록 || 리자드 용광로 || 리자드 사원 ||
+|| 고딕 가구 |||| 제작 불가 || 던전 ||
+|| 파란 던전 가구 |||| 제작 불가 || 파란 던전 벽돌로 구성된 던전 ||
+|| 녹색 던전 가구 |||| 제작 불가 || 녹색 던전 벽돌로 구성된 던전 ||
+|| 분홍 던전 가구 |||| 제작 불가 || 분홍 던전 벽돌로 구성된 던전 ||
+|| 황금 가구 |||| 제작 불가 || 해적 침략 이벤트에서 드랍 ||
+
+== 조합에 필요한 장치 ==
+말 그대로 조합에 필요한 장치. 스테이션(Station)이라고 부른다. 스테이션 주변에서 Esc를 눌러 아이템들을 조합할 수 있다.
+
+ * attachment:/Work_Bench.png 작업대(Work Bench)
+ 초반에 1순위로 제작해야 할 가구로 다른 가구들을 생산하는데 필요한 기본적인 가구이다. 기본적으로 손에서 나무 10개로 제작한다. 나무 등 주 재료의 종류에 따른 총 27가지의 바리에이션이 있다. 모양은 다르지만, 크기와 기능은 같다.
+ 　
+ * attachment:/Wooden_Chair.png 의자(Chair)
+ 기본적으로 작업대에서 나무 4개로 제작한다. 작업대와 함께 놔두면 고글과 선글라스를, 탁자와 함께 놔두면 시계를 제작할 수 있다. 그 외에도 NPC가 거주하기 위해 집 하나에 하나씩 필요하다. 총 29개의 바리에이션이 있다.
+ 　
+ * attachment:/Wooden_Table.png 탁자(Table)
+ 기본적으로 작업대에서 나무 8개로 제작한다. 의자와 함께 놔두면 시계를 제작할 수 있다. 그 외에도 NPC가 거주하기 위해 집 하나에 하나씩 필요하다. 총 29개의 바리에이션이 있다.
+ 　
+ * attachment:/Alchemy_Station.png 연금술 작업대(Alchemy Station)
+ 탁자나 작업대 위에 유리병을 올려놓으면 된다. [[테라리아/소모품#s-2|포션]] 종류를 만들 때 필요하다. 사실 굳이 탁자 위에 병을 놓아둘 것 없이 그냥 아무데나 병만 놔둬도 포션 조합이 가능한데 어디서 '연금술 작업대'라는 개념이 나온건지는 의문. 가이드도 포션 조합에 필요한 설비가 병(Bottle)이라고만 말한다. 참고로 병만 되는것이 아니고, 분홍 꽃병 등의 아이템도 올려 놓으면 된다.
+ 　
+ * attachment:/Sawmill.png 제재소(Sawmill)
+ 작업대에서 나무 10개, 철괴 또는 납괴 2개, 사슬 1개로 제작하는 도구로 고급 가구를 만드는 데 반드시 필요하다. 특히 침대 같은 아이템.
+ 　
+ * attachment:/Iron_Anvil.png 철 모루(Iron Anvil)
+ attachment:/Lead_Anvil.png 납 모루(Lead Anvil)
+ 작업대에서 철괴 또는 납괴 5개로 제작한다. 금속제 아이템을 만들 때 필요하다. 참고로 철로 만들었을 때와 납으로 만들었을 때의 모습과 채색이 다르다.
+ 　
+  * attachment:/Mythril_Anvil.png 미스릴 모루(Mythril Anvil) {{{#red ⓗ}}}
+  attachment:/Orichalcum_Anvil.png 오리칼쿰 모루(Orichalcum Anvil) {{{#red ⓗ}}}
+  미스릴 주괴 10개 또는 오리칼쿰 주괴 12개로 철/납 모루에서 제작한다. 미스릴 또는 오리칼쿰 재질 이상의 장비를 제작하는 데 필요하다. 또한, 철/납 모루의 기능도 동시에 가진다. 철/납 모루처럼 미스릴 주괴로 만들었을 때와 오리칼쿰 주괴로 만들었을 때의 채색과 모습이 다르다.
+  　
+ * attachment:/Furnace.png 화로(Furnace)
+ 작업대에서 돌 20개, 나무 4개, 횃불 3개로 제작한다. 각종 광석을 녹여서 주괴로 만든다. 또한 [[테라리아/블록#s-1.4|벽돌]] 아이템을 만들 수 있으며, 유리와 점토 제련에 필요하다.
+ 　
+  * attachment:/Hellforge.png 지옥화로(Hellforge) 
+  월드의 맨 아래층 지옥(이하 언더월드) 구간에서부터 발견된다. 데모나이트와 크림테인으로 만드는 곡괭이 이상으로 부셔서 떼어내거나 지옥화로 아래의 블록을 부수는 것으로 습득 가능. 지옥석은 지옥화로와 아래의 아다만타이트/티타늄 화로로만 녹일 수 있으며 일반 화로의 기능도 동시에 가진다. 여건이 있다면 최대한 많이 떼어오는 게 좋다.
+  　
+  *  attachment:/Adamantite_Forge.png 아다만타이트 화로(Adamantite Forge) {{{#red ⓗ}}}
+  attachment:/Titanium_Forge.png 티타늄 화로(Titanium Forge) {{{#red ⓗ}}}
+  아다만타이트 또는 티타늄 '''광석'''(절대 주괴가 아니다!) 30개와 지옥화로 1개로 미스릴/오리칼쿰 모루에서 제작한다. 아다만타이트와 티타늄, 클로로파이트를 녹일 수 있는 유일한 도구로, 지옥화로와 일반 화로의 기능도 가진다. 화로의 최종 버전으로 미스릴/오리칼쿰 모루와 더불어 후반부에는 여기까지 오게 된다. 운이 안 좋으면 아다만타이트 광석이나 티타늄 광석을 구하기가 어려울수 있기 때문에 제작에 애를 먹을 수도 있다.
+  　
+ * attachment:/Tinkerers_Workshop.png 땜장이의 작업장(Tinkerer's Workshop)
+ 고블린 땜장이에게 금화 10닢을 주고 살 수 있다. 장신구(이하 액세서리) 두 개 이상을 조합해 하나의 장신구로 만든다. 후반에 가면 남아도는 장신구 수에 불구하고 착용 슬롯은 오직 5칸이라서 꼭 구하는 게 좋다. 몇몇은 조합한 것끼리 또 조합해서 굉장한 능력을 자랑하게 할 수 있게 하거나 새로운 능력을 가지게 할 수도 있다.[* 예를 들어서, 재생의 밴드와 별의 밴드를 조합해서 만든 마나 재생 밴드와 족쇄를 한번 더 조합하면, 새로운 능력으로 피해를 받으면 마나가 회복되는 효과가 새로 생긴다.]
+ 　
+ * attachment:/Heavy_Work_Bench.png 고중량 작업대(Heavy Work Bench)
+ 모루에서 나무 12개, 철괴 또는 납괴 8개로 제작한다. 여기서 석판과 사암 석판, 구리 도금판을 제작한다.
+ 　
+ * attachment:/Cooking_Pot.png 요리 냄비(Cooking Pot), attachment:Cauldron.png 가마솥(Cauldron)
+ 솥이라고도 부른다. 모루에서 철괴 또는 납괴[*응? [[납]]은 유독성을 띄고 있는 중금속이라 [[현실은 시궁창|현실에서 납으로 솥을 만들었다간 그 솥을 이용하여 만든 요리가 모두 독요리가 된다.]] ~~어차피 금이 철보다 강하다는 것부터 이미 현실을 초월했다.~~] 10개와 나무 2개로 제작한다. 소비 아이템인 수프(Bowl of Soup) 혹은 생선 요리를 만든다. 이 기능 하나로 끝이다...만 수프의 능력이 너무 사기적이라 꼭 만들게 된다. 할로윈 기간에는 주술사에게 Cauldron이라는 바리에이션 아이템을 금화 1.5닢으로 구입할 수 있다.
+ 　
+ * attachment:/Loom.png 베틀(Loom)
+ 제재소에서 나무 12개로 제작한다. 비단을 포함한 일부 의류를 만드는 곳이다. 고블린 부대를 소환하는 아이템도 여기서 만들어진다. 덤으로 세이브 포인트의 역할을 하는 침대의 재료도 이 베틀에서 만드는 비단을 사용한다.(그렇지만 이 비단을 가지고 침대를 만드는 곳은 제재소다.)
+ 　
+ * attachment:/Keg.png 술통(Keg)
+ 제재소에서 나무 14개로 제작한다. 화로에서 유리 1개로 만든 머그잔을 여기로 가져오면 맥주(Ale)를 만들 수 있다. 이걸 마시면 일정 시간 동안 근접 공격력이 올라가나 방어력은 하락된다.
+ 　
+ * attachment:/Dye_Vat.png 염료통(Dye Vat)
+ 염료상에게 금화 5닢을 주고 살 수 있다. 페인트 두 개 이상을 조합해 진한 페인트를 제작하고, 캐릭터 의상의 색깔을 변경해주는 염료(Dye)를 제작 및 조합한다.
+ 　
+ * attachment:/Imbuing_Station.png 주입기(Imbuing Station)
+ 주술사에게 금화 7닢을 주고 살 수 있다. 근접 공격에 특수 효과를 넣어주는 [[테라리아/소모품#s-2.4|플라스크]]를 만들 때 쓰인다.
+ 　
+ * attachment:/Bookcase.png 책장(Bookcase)
+ 기본적으로 제재소에서 나무 20개와 책 10개로 제작한다. 원래는 그냥 장식용이나, 하드모드에서는 마법서를 조합하는 용도로 사용. 집을 만들 때 테이블 대신 놔둬도 된다. 총 28개의 바리에이션이 있다.
+ 　
+ * attachment:/Crystal_Ball.png 수정 구슬(Crystal Ball) {{{#red ⓗ}}}
+ 하드모드에서 나오는 마법사 NPC에게 금화 10닢을 주고 살 수 있다. 설치 후 오른쪽 클릭을 하면 10분 동안 마법 능력이 상승하는 버프가 걸린다.[* 최대 마나량 +20, 마법 공격력 +2%, 마법 치명타율 +2%, 마나 소모량 감소.]
+ 이것만 본다면 단순한 기능용 가구이지만 1.2.3 패치 이후 스테이션으로도 활용된다. 물과 용암 웅덩이 근처에 설치한 뒤 유리를 조합하여 폭포 블록과 용암폭포 블록을 각각 제작할 수 있다. 
+ 　
+ * attachment:/Meat_Grinder.png 고기 분쇄기(Meat Grinder) {{{#red ⓗ}}}
+ 하드모드 크림슨지대의 몬스터에게서 낮은 확률(0.5%)로 얻을 수 있다. 따라서 커럽션이 있는 월드에선 획득이 불가능하다. 크림슨을 이루고 있는 돌 블록 2개를 고기 블록으로 변환해준다.
+ 　
+ * attachment:/Solidifier.png 응고기(Solidifier) {{{#red ⓗ}}}
+ 낮일 때 스팀펑거에게 금화 10닢을 주고 살 수 있다. 슬라임 블록과 얼어붙은 슬라임 블록 제작에 쓰인다.
+ 　
+ * attachment:/Blend-O-Matic.png 혼합기(Blend-O-Matic) {{{#red ⓗ}}}
+ 밤일 때 스팀펑커에게 금화 10닢을 주고 살 수 있다. 플레이어의 속도를 높여주는 아스팔트 블록 제작에 쓰인다.
+ 이전 버전에서는 지옥의 몬스터들이 매우 낮은 확률로 떨군 적도 있었다. 그것도 하드모드 이전에!
+ 　
+ * attachment:/Autohammer.png 자동망치(Autohammer) {{{#red ⓗ}}}
+ [[테라리아/보스#s-4.11|플란테라]]를 처치한 이후 트러플에게 백금화 1닢을 주고 살 수 있다. 클로로파이트를 발광 버섯과 합쳐 쉬루마이트로 바꾸는 데 사용한다.
+ 　
+=== 특수 제작용 가구 ===
+꿀 가구, 유리 가구 등 특정 가구들을 제작하기 위해 필요한 스테이션들이다.
+
+ * attachment:/Glass_Kiln.png 유리 가마(Glass Kiln)
+ 모루에서 철괴 또는 납괴 18개, 횃불 8개로 제작한다. 유리로 유리 가구들을 제작하는 용도로 사용된다.
+ 　
+ * attachment:/Living_Loom.png 살아있는 베틀(Living Loom)
+ 맵에서 가끔 생성되는 거대한 나무 지하방의 상자( attachment:/Living_Wood_Chest.png?width=16 ) 에서 얻을 수 있다. 숲의 나무로 생나무 가구들을 제작하는 용도로 사용된다.
+ 　
+ * attachment:/Ice_Machine.png 제빙기(Ice Machine)
+ 설원 지하의 얼음 상자에서 얻을 수 있다. 얼음 블록으로 얼어붙은 가구들을 제작할 수 있다.
+ 　
+ * attachment:/Honey_Dispenser.png 꿀 디스펜서(Honey Dispenser)
+ 정글의 넝쿨 상자에서 얻을 수 있다. 꿀 블록으로 꿀 가구들을 제작할 수 있다.
+ 　
+ * attachment:/Sky_Mill.png 스카이 밀(Sky Mill)
+ 하늘섬의 상자에서 얻을 수 있다. 태양판 블록으로 스카이웨어 가구들을 제작할 수 있다.
+ 　
+ * attachment:/Bone_Welder.png 뼈 용접기(Bone Welder)
+ 던전의 상자에서 얻을 수 있다. 뼈다귀로 뼈다귀 가구들을 제작할 수 있다.
+ 　
+ * attachment:/Steampunk_Boiler.png 스팀펑크 보일러(Steampunk Boiler) {{{#red ⓗ}}}
+ 밤일 때 스팀펑커에게 금화 10닢을 주고 살 수 있다. 톱니로 스팀펑크 가구들을 제작할 수 있다.
+ 　
+ * attachment:/Flesh_Cloning_Vaat.png 살덩이 복제기(Flesh Cloning Vat) {{{#red ⓗ}}}
+ 밤일 때 스팀펑커에게 금화 10닢을 주고 살 수 있다. 단 크림슨이 있는 월드에서만 구입이 가능하므로 커럽션이 있는 월드에선 구입할 수 없다. 살덩이 블록으로 살덩이 가구들을 제작할 수 있다.
+ 　
+ * attachment:/Lihzahrd_Furnace.png 리자드 용광로(Lihzahrd Furnace) {{{#red ⓗ}}}
+ 리자드 사원에서 얻을 수 있다. 리자드 벽돌로 리자드 가구들을 제작할 수 있다.
+ 　
+== 기능용 가구 ==
+ * attachment:/Wood_Platform.png 플랫폼(Platform)
+ 기본적으로 나무 1개로 제작한다. 계단처럼 오르락내리락 할 수 있는 도구로, 아래에서 점프하면 위로 올라가고 위에서 아래쪽 방향키를 누르면 내려가진다. 주로 보스 아레나 건설, 건축 등에 사용된다. 망치를 이용해 계단 형태로 바꿀 수 있다. 총 26개의 바리에이션이 있다.
+ 　
+ * attachment:/Rope.png 밧줄(Rope)
+ 주로 지상의 상자에서 입수하며 상인에게 구입해도 된다. 상하 방향키로 오르락내리락 할 수 있다. 횃불과 함께 초반 동굴 탐사의 필수 아이템. 가만히 앉아서 클릭만 해도 저절로 내려가므로 상당히 편리하고, 위쪽으로 설치해나가면서 올라가도 된다. 헬레베이터, 하늘섬 찾기, 동굴 탐사 등 광범위하게 사용되는 아이템. --그리고 누구나 날개를 가지고 있는 극후반에 가면 보기 흉해서 치우게 된다.--
+ 　
+  * attachment:/Rope_Coil.png 밧줄 고리(Rope Coil)
+  밧줄 10개로 제작. 플레이어가 직접 원하는 위치에 투척할 수 있다. 그 이외엔 밧줄 10개를 늘어뜨린 것과 별다른 게 없다. 어차피 ~~중력의 법칙을 무시하면서~~ 밧줄을 머리 위로 설치하면서 올라갈 수 있기 때문에, 초반에 호기심에 한두개 만들어서 던져보고 버리게 된다. 커럽션의 협곡 같은 곳을 건널 때 사용해도 되겠지만 차라리 나무 플랫폼을 설치하는 것이 훨씬 낫다. 묘하게 던졌을 때 설치되는 밧줄이 10개보다 적을 때가 많다.
+  　
+ * attachment:/Wooden_Door.png 문(Door)
+ 기본적으로 작업대에서 나무 6개로 제작한다. 오른쪽 클릭으로 열었다 닫았다 할 수 있다. 1.1에서 추가된 전기장치를 이용해서도 문을 열 수 있다. 바로 옆에 가구를 놔두면 그 방향으로는 열리지 않는다. 플레이어가 보고 있는 방향으로 문을 열기 때문에 플레이어가 방안에서 문을 등지고서 문을 열면 뒤쪽으로 문을 열수 있다. 총 36개의 바리에이션이 있다.
+ 　
+ * attachment:/Chest.png 상자(Chest)
+ 아이템을 보관할 수 있는 창고용 가구. 원래 20칸짜리 보관함이였으나 1.2 이후 40칸으로 늘어나면서 제법 넉넉해졌다. 일반적으로 지상만 돌아다녀도 5~10개 정도는 획득할 수 있기 때문에 직접 제작(작업대에서 나무 8개, 철괴 혹은 납괴 2개)하는 일은 드물다. 총 32개의 바리에이션이 있다.
+ 　
+  * attachment:/Trash_Can.png 쓰레기통(Trash Can)
+  attachment:/Barrel.png 통(Barrel)
+  상자와 마찬가지로 40칸짜리 보관함이다. 통은 제재소에서 나무 9개와 철괴 또는 납괴 1개로, 쓰레기통은 모루에서 철괴 또는 납괴 8개로 제작한다.
+  　
+ * attachment:/Piggy_Bank.png 돼지 [[저금통]](Piggy Bank)
+ attachment:/Safe.png 금고(Safe)
+ 상자 계열 아이템과 비슷한 창고용 아이템이지만, 맵상에 아이템이 저장되는 상자와는 달리 이건 캐릭터 정보에 아이템이 저장되며, 저금통과 금고는 각각 한 개씩 단일한 저장 공간으로 취급된다. 즉, 저금통에 아이템을 넣어두면 다른 장소의 또 다른 저금통이나 심지어 다른 월드의 저금통에서 같은 내용물을 볼 수 있다. 따라서 저금통을 잃어버렸다 하더라도 새로 저금통을 사서 열어보면 잃어버린 저금통의 아이템이 그대로 있다. 반면 자신의 다른 캐릭터로 저금통을 열면 원래의 캐릭터가 넣어둔 아이템은 나타나지 않는다. 같은 이유로 멀티에서 남이 죽어서 흘린 저금통을 얻어도 내용물은 뺏을 수 없다.
+ 또 다른 중요한 특징으로는 내용물이 들어 있어도 놓여진 상태에서 제거하여 들고다니는 것이 자유롭다는 점이다. 따라서 아이템을 넣어놓은 저금통과 금고를 가지고 다니면서 인벤토리를 확장하는 식으로 쓸 수 있다. 이런 식으로 총 80칸의 추가 인벤토리를 사용할 수 있다. 
+ 저금통은 플랫폼이나 가구 위에만 설치할 수 있는 반면 금고는 어디든 설치가 가능하다. 돼지 저금통과 금고는 제작할 수 없고, 상인 NPC에게 각각 금화 1닢과 20닢으로 구입한다.
+ 　
+ * attachment:/Bed.png 침대(Bed)
+ 기본적으로 제재소에서 나무 15개와 비단 5개로 제작한다. 비단을 포함한 일부 의류를 만드는 곳이다. 리스폰 포인트를 설정하며, 아무데나 두면 안되고 사방이 벽으로 막혀 있는 곳에서만 설정되기 때문에 제대로 된 집을 짓고 안에다가 설치해야 작동한다. 집을 만들 때 의자 대신 놔둬도 된다. 총 27개의 바리에이션이 있다.
+ 　
+ * attachment:/Dresser.png 드레서(Dresser)
+ 기본적으로 제재소에서 나무 16개로 제작한다. 오른쪽 클릭을 하면 캐릭터의 기본 옷 색깔을 변경할 수 있다. 총 24개의 바리에이션이 있다. 
+ 　
+ * attachment:/Grandfather_Clock.png 괘종시계(Grandfather Clock)
+ 기본적으로 제재소에서 철괴 또는 납괴 3개, 유리 6개, 나무 10개로 제작한다. 오른쪽 클릭을 하면 현재 시간을 알려준다. 총 25개의 바리에이션이 있다.
+
+ * attachment:/Mannequin.png 마네킹(Mannequin)
+ attachment:/Womannequin.png 여자 마네킹(Womannequin)
+ 제재소에서 나무 20개로 제작한다. [테라리아/장비#s-1|갑옷]과 의류 아이템을 오른쪽 마우스로 씌워놀 수 있다. 여자 마네킹은 갑옷과 의상을 여자 버전으로 전시할 수 있도록 해준다.
+ 　
+ * attachment:/Clay_Pot.png 토분(Clay Pot)
+ 화로에서 점토 6개로 제작한다. 그냥 장식물이 아니라 씨앗을 심어서 허브를 재배할 수 있다. 가만히 놔두면 잡초가 자란다. 용암에 닿아도 해체되지 않기 때문에 화염초도 재배가 가능하다.
+ 　
+ * attachment:/Pink_Vase.png 분홍 꽃병(Pink Vase)
+ 화로에서 점토 4개로 제작한다. 가만히 놔두면 꽃이 자라난다. 또한 플랫폼이나 가구 위 등 아무 데나 세트해 두면 연금술 작업대로 사용이 가능하다.
+ 　
+ * attachment:Dynasty_Cup.png attachment:Honey_Cup.png attachment:Wine_Glass.png 컵(Cup)
+ attachment:Chalice.png 성배(Chalice)
+ 작업대에서 왕조시대 나무 2개, 꿀 디스펜서에서 끌 블록 1개, 화로에서 유리 1개로 제작한다. 떠돌이 상인에게는 동일한 기능을 가진 아이템인 성배를 구입할 수 있다. 꽃병과 마찬가지로 연금술 작업대로 사용 가능. 그 외에는 장식품이다.
+ 　
+ * attachment:Sunflower.png 해바라기(Sunflower)[* 일단 유형은 가구형 아이템으로 분류된다.]
+ attachment:6_Sunflowers.png
+ 하드모드가 되기 전에 커럽션이나 크림슨의 지배력을 막아주는 용도로 사용된다. 노란 꽃의 형태로 자연에 생성되며, 해바라기가 심어진 잔디를 곡괭이로 파괴하면 획득이 가능하다. 하드모드 이후엔 커럽션/크림슨의 지배력이 강해져 실용적인 면은 없어지므로 대부분 버려지게 된다.
+ 　
+ * attachment:/Sign.png 표지판(Sign)
+ 작업대에서 나무 6개로 제작한다. 글씨를 새길 수 있다. 글씨를 새길 때는 마인크래프트처럼 설치하고 나서 일회용으로 글씨를 새기는 것이 아니라 붙인후 표지판에 오른쪽 클릭을 한 후에 Edit을 눌러서 글씨를 새기는 것이다. 마인크래프트는 표지판을 설치하면 눈으로 바로 볼수 있는것에 비해서 화면과 표지판의 크기 비율 때문에 일단은 새긴 글씨를 볼려면 표지판에 오른쪽 클릭을 해야 볼 수 있다. 천장이나 블록 측면에도 세트할 수 있다.
+ 　
+ * attachment:/Tombstone.png attachment:/Gravestone.png attachment:/Obelisk.png attachment:/Headstone.png attachment:/Cross_Grave_Marker.png attachment:/Grave_Marker.png 묘비
+ 말 그대로 플레이어가 죽은 위치에 자동으로 설치되는 가구. ~~종류가 쓸데없이 다양하다.~~ 나중에 죽은 장소에 와서 보면 플레이어가 어떻게 죽었는지 세세히 적혀 있다. 표지판처럼 글씨를 직접 새길 수 있다.
+ 　
+ * attachment:/Extractinator.png 추출기(Extractinator)
+ 지하의 황금 상자나 설원 지하의 얼음 상자에서 낮은 확률로 찾을 수 있다. 여기에 실트와 진창눈 블록을 오른쪽 마우스로 소비하여 동전, 광석, [[테라리아/재료#s-2|보석]] 등을 얻을 수 있다.
+ 또한 매우 낮은 확률(0.02%)로 펫 아이템 모기 호박이 나올 수도 있으니 창고에 실트가 1000여개 정도 쌓여있다면 한번 시도해보자. 확률 상 5000개를 넣으면 1개가 나온다(...)
+ 　
+ * attachment:/Ammo_Box.png 탄약 상자(Ammo Box)
+ 떠돌이 상인이 랜덤으로 판매하는 아이템으로, 금화 15닢을 주고 구입한다. 설치 후 오른쪽 클릭을 하면 10분 동안 탄약을 소모하지 않을 확률 20%가 생긴다.
+ 　
+ * attachment:/Campfire.png 모닥불(Campfire)
+ 나무 20개와 횃불 5개로 만든다. 모닥불 주변(이라고 하지만 생각보다 넓다)에 있으면 체력 재생 버프를 받아서 빠른 속도로 체력이 회복되는데, 이 회복하는 효과가 보스전과 포션은 없는데 체력은 빈사 상태에 있을때에 정말로 효과가 좋아서 이거 하나면 보스전에서 체력 문제 때문에 골치를 아프게 한 것을 어느정도 없앨 수 있다. 체력 재생 속도는 그냥 가만히 서 있으면 모닥불 없이 체력이 재생되는 속도의 두 배 이상의 회복 효과를 보인다. 이 효과는 NPC들에겐 효과가 없는 것으로 보인다. ~~모닥불이 있는데 왜 체력 회복을 못하니~~ 참고로 이 모닥불은 구워진 마시멜로를 만드는데에 필요한 스테이션의 역할도 한다. 만드는 방법이 특이하긴 하지만.[* 마시멜로 꼬챙이를 든채로 마시멜로가 모닥불 위쪽으로 가게 두고 잠시 기다리면 구워진 마시멜로가 만들어진다.]
+ 　
+ * attachment:/Heart_Lantern.png 하트 랜턴(Heart Lantern)
+ 사슬 4개와 생명 수정 1개로 만든다. 모닥불과 마찬가지로 버프를 받아서 빠른 속도로 체력을 회복한다. 모닥불의 버프와 중첩이 가능하다! 모닥불+하트 랜턴+꿀 웅덩이 조합은 아레나 및 보스전에서 매우 유용하게 쓰인다. 여기에 체력재생포션까지 복용하면 금상첨화
+ 　
+ * attachment:/Water_Candle.png 물 양초(Water Candle)
+ 던전에서 획득할 수 있는 파란색 양초. 플레이어가 들고 있거나 설치하면 주변의 몬스터 스폰률이 증가한다. 파밍할때 자주 쓰이는 아이템이므로 보이는 족족 챙겨주자.
+ 　
+ * attachment:/Music_Box(1).png 뮤직 박스(Music Box) {{{#red ⓗ}}}
+ 하드모드에서 나오는 마법사 NPC에게 금화 10닢을 주고 살 수 있다. 음악을 녹음하고 싶은 지형에 가서 Accessories 슬롯에 장착하면 녹음을 할 수 있다. 운이 없다면 한참동안 녹음이 안될 수 있다.
+ 　
+  * attachment:/Music_Box_(Overworld_Day)(1).png attachment:/Music_Box_(Eerie)(1).png attachment:/Music_Box_(Night)(1).png 녹음된 뮤직 박스 {{{#red ⓗ}}}
+  특정 지형에서 녹음하면 획득할 수 있는 아이템. Accessories 칸에 장착하여 음악을 들을 수 있다. 직접 설치를 하면 일정 범위 내에서 음악이 흘러나오며, 오른쪽 클릭이나 전기장치로 껏다 킬 수 있다.
+  뮤직 박스 중 타이틀 음악은 1.2 이전 뮤직 박스 12개[* Overworld Day(숲), Eerie(지옥, 운석 추락지대, 블러드 문), Night(밤), Underground(지하, 동굴), Boss 1(크툴루의 눈 음악), Boss 2(월 오브 플레시 음악), Boss 3(파괴자 음악), Jungle(정글), Corruption(커럽션), Underground Corruption(커럽션 지하), The Hallow(할로우), Underground Hallow(할로우 지하)]를 조합하면 된다.
+  　
+ * attachment:/Pure_Water_Fountain.png attachment:/Desert_Water_Fountain.png attachment:/Jungle_Water_Fountain.png 물 분수(Water Fountain) {{{#red ⓗ}}}
+ 플랜테라를 처치한 뒤 주술사에게 공짜로 구입할 수 있는 아이템으로, 일반·사막·정글·설원·커럽션·크림슨·할로우·블러드 문 총 8가지 종류가 있다. 물 근처에 설치하면 해당되는 지형의 물 색깔로 바뀐다. 오른쪽 클릭이나 전기장치로 껐다 킬 수 있다.
+ 　
+=== 조명 기구 ===
+ * attachment:/Torch.png 횃불(Torch) 
+ 젤 1개, 나무 1개로 제작한다. 어두운 곳을 비춰주는 아이템으로, 지하와 동굴을 탐험할 때 필수품. [[테라리아/블록|블록]] 위와 양옆, [[테라리아/블록#s-2|벽면]]에 설치할 수 있으며, 물속에는 설치가 안된다. 오른쪽 마우스로 회수한다. 게임 전반에 걸쳐 가장 많이 이용되니 젤과 나무를 많이 모아두는 것이 좋다.
+ 　
+  * attachment:/Ice_Torch.png 얼음 횃불(Ice Torch) 
+  횃불 3개, 얼음 블록 1개로 제작한다. 엷은 파란색을 띄며 서리불 화살의 재료로 사용된다.
+  　
+  * attachment:/Purple_Torch.png attachment:/Yellow_Torch.png attachment:/Blue_Torch.png attachment:/Green_Torch.png attachment:/Red_Torch.png attachment:/White_Torch.png attachment:/Orange_Torch.png 보석 횃불
+  유색 횃불. 자주색, 노란색, 파란색, 녹색, 빨간색, 흰색, 주황색 총 7가지 종류가 있으며, 횃불과 보석을 조합해서 얻을 수 있다. 각 보석 색깔에 맞는 유색 빛을 띈다. 
+  　
+  * attachment:/Ultrabright_Torch.png 엄청나게 밝은 횃불(Ultrabright Torch)
+  떠돌이 상인이 랜덤으로 판매하는 아이템으로 개당 은화 3닢에 구입 가능. 횃불 2배 정도의 매우 밝은 빛을 낸다.
+  　
+  * attachment:/Demon_Torch.png 악마 횃불(Demon Torch) 
+  지옥의 폐허 건물에서 획득할 수 있는 횃불. 붉은색, 자주색, 푸른색으로 빛이 서서히 바뀐다.
+  　
+  * attachment:/Cursed_Torch.png 저주받은 횃불(Cursed Torch)
+  attachment:/Ichor_Torch.png 이코르 횃불(Ichor Torch)
+  하드모드 전용 횃불. 횃불 33개와 저주받은 불꽃 또는 이코르 1개로 제작한다. 물에는 설치가 안되는 기존의 횃불과 달리 물과 용암, 꿀에 설치할 수 있다. 밝기도 엄청나게 밝은 횃불과 비슷한 수준으로 매우 밝다. --하지만 저주받은 불꽃은 몰라도 이코르는 많이 아깝다.--
+  　
+ * attachment:/Tiki_Torch.png 횃불 장대(Tiki Torch)
+ 1x3 크기의 조명 기구. 작업대에서 횃불 1개, 나무 3개로 제작한다. 아무데나 설치할 수 있다.
+ 　
+ * attachment:/Candle.gif 양초(Candle)
+ 1x1 크기의 조명 기구. 기본적으로 작업대에서 금괴 또는 백금괴 1개, 횃불 1개로 제작한다. 플랫폼, 작업대, 탁자에 설치할 수 있다. 
+ 　
+ * attachment:/Candelabra.gif 촛대(Candelabra)
+ 2x2 크기의 조명 기구. 기본적으로 작업대에서 금괴 또는 백금괴 5개, 횃불 3개로 제작하며, 플랫폼, 작업대, 탁자에 설치할 수 있다. 28개의 바리에이션이 있다
+ 　
+ * attachment:/Jack_O_Lantern.png 호박등(Jack 'O Lantern)
+ 2x2 크기의 조명 기구. 작업대에서 호박 6개와 횃불 1개로 제작한다.
+ 　
+ * attachment:/Chandelier.gif 샹들리에(Chandelier)
+ 3x3 크기의 조명 기구. 기본적으로 작업대에서 철과 납을 제외한 [[테라리아/재료#s-1.1|일반 광물]] 4개, 횃불 4개, 사슬 1개로 제작한다. 광물 대신 마호가니, 야자나무 등의 나무를 넣어도 된다. 총 33개의 바리에이션이 있다.
+ 　
+ * attachment:/Lamp_Post.png 가로등(Lamp Post)
+ 1x6 크기의 조명 기구. 모루에서 철괴 또는 납괴 3개, 유리 2개, 횃불 1개로 제작한다. 아무데나 설치할 수 있다. 집의 광원으로 사용되지 않으니 주의.
+ 　
+ * attachment:/Skull_Lantern.png 두개골 랜턴(Skull Lantern)
+ 2x2 크기의 조명 기구. 작업대에서 횃불 1개, 뼈다귀 10개로 제작한다. 아무데나 설치할 수 있다. 다른 조명 기구와 다르게 전기장치로 토글할 수 없다.
+ 　
+ * attachment:/Chinese_Lantern.png 연등(Chinese Lantern)
+ 2x2 크기의 조명 기구. 작업대에서 횃불 1개, 비단 5개로 제작한다. 천장에 설치할 수 있다.
+ 　
+ * attachment:/Star_in_a_Bottle.png 별병(Star in a Bottle)
+ attachment:/Firefly_in_a_Bottle.png 개똥벌레병(Firefly in a Bottle)
+ attachment:/Lightning_Bug_in_a_Bottle.png 반딧불이병(Lightning Bug in a Bottle)
+ 1x2 크기의 조명 기구. 유리병 1개와 별똥별/개똥벌레/반딧불이 1개로 제작한다. 천장에 설치할 수 있다.
+ 　
+ * attachment:/Rich_Mahogany_Lantern.png 랜턴(Lantern)
+ 1x2 크기의 조명 기구. 기본적으로 작업대에서 기본 나무를 제외한 나무 6개, 횃불 1개로 제작한다.[* 일반 나무 버전은 없으며 대신 Living Loom에서 생나무 버전으로 제작할 수 있다.] 천장에 설치할 수 있다. 총 31개의 바리에이션이 있다.
+ 　
+ * attachment:Rich_Mahogany_Lamp.png 램프(Lamp)
+ 1x2 크기의 조명 기구. 기본적으로 작업대에서 기본 나무를 제외한 나무 3개, 횟불 1개로 제작한다. 지상에 설치하며 물에 닿으면 떨어진다. 총 26개의 바리에이션이 있다.
+ 　
+ * attachment:/Blue_Light.png attachment:/Red_Light.png attachment:/Green_Light.png 크리스마스 등불
+ 1x1 크기의 조명 기구. 크리스마스 기간에만 오는 산타에게 개당 은화 5닢으로 구입한다. 천장에 설치할 수 있다.
+ 　
+ * attachment:/Disco_Ball.png 디스코 볼(Disco Ball) {{{#red ⓗ}}}
+ 2x2 크기의 조명 기구. 하드모드의 상인에게 금화 1닢으로 구입한다. 천장에 설치할 수 있다. 무지개 벽돌처럼 여러가지 색으로 바뀐다. 가로등과 마찬가지로 집의 광원으로 사용되지 않는다.
+ 　
+== 장식용 가구 ==
+ * attachment:/Piano.png 피아노(Piano)
+ 기본적으로 제재소에서 뼈 4개, 나무 15개, 책 1개로 제작한다. 집을 만들 때 탁자 대신 놔둬도 된다. 나무 등 주 재료의 종류에 따른 총 26개의 바리에이션이 있다. 
+ 　
+ * attachment:/Bench.png 벤치(Bench)
+ 기본적으로 제재소에서 나무 8개로 제작한다. 집을 만들 때 의자 대신 놔둬도 된다. 3개의 바리에이션밖에 없다.
+ 　
+ * attachment:Sofa.png 소파(Sofa)
+ 기본적으로 제재소에서 나무 5개와 비단 2개로 제작한다. 집을 만들 때 의자 대신 나둬도 된다. 26개의 바리에이션이 있다.
+ 　
+ * attachment:/Bar_Stool.png 바스툴(Bar Stool)
+ 제재소에서 나무 4개로 제작한다.
+ 　
+ * attachment:/Banquet_Table.png 연회용 탁자(Banquet Table)
+ 제재소에서 나무 8개로 제작한다.
+ 　
+ * attachment:/Bar.png 카운터(Bar)
+ 제재소에서 나무 14개로 제작한다.
+ 　
+ * attachment:/Terrarium.png 테라리움(Terrarium) 
+ attachment:/Bunny_Cage.png attachment:/Squirrel_Cage.png attachment:/Penguin_Cage.png 케이지(Cage)
+ 테라리움은 화로에서 유리 16개로 제작하는 아이템으로, 잠자리채로 아이템화된 [[테라리아/몬스터#s-1|생물]]들과 조합하여 케이지를 제작할 수 있다. 이 케이지는 [[디스플레이]]로 설치할 수 있다.
+ 　
+ * attachment:/Monarch_Butterfly_Jar.png attachment:/Purple_Emperor_Butterfly_Jar.png attachment:/Red_Admiral_Butterfly_Jar.png 나비 병(Butterfly Jar)
+ 유리병 1개, 잠자리채로 아이템화된 나비 1개로 제작 가능. 총 8가지 종류가 있다.
+ 　
+ * attachment:/Toilet.png 변기(Toilet)
+ 모루에서 철괴 또는 납괴 6개로 제작한다. 집을 만들 때 의자 대신 놔둬도 된다.
+ 　
+ * attachment:/Bathtub.png 욕조(Bathtub)
+ 일반적으로 모루에서 철괴 또는 납괴 14개로 제작한다. 집을 만들 때 테이블 대신 놔둬도 된다.
+ 　
+ * attachment:/Red_Banner.png attachment:/Green_Banner.png attachment:/Blue_Banner.png attachment:/Yellow_Banner.png 배너(Banner)
+ 일반적으로 베틀에서 비단 3개로 제작한다. 제작할 수 있는 배너는 파란색, 초록색, 빨간색, 노란색으로 만들수 있기 때문에 멀티에서 팀을 나눌때 쓰인다. 다른 배너는 하늘섬, 던전, 지옥, 피라미드에서 찾을수 있다.
+ 　
+  * attachment:/Slime_Banner.png attachment:/Zombie_Banner.png attachment:/Demon_Eye_Banner.png 몬스터 배너
+  테라리아 내의 모든 [[테라리아/몬스터|몬스터]]가 0.5% 확률로 드롭하며 각자 고유한 배너가 '''대부분''' 존재한다. 즉, 종류가 백여 가지는 훨씬 뛰어넘는다는 말(...). 모든 배너의 종류는[[http://terraria.gamepedia.com/Monster_Banner 여기]]서 볼 수 있다. 수집광이라면 몬스터 배너를 전부 모으는 것으로 시간을 보내도 나쁘진 않을 듯.--할거다하면 다음 업데이트 이전까지 이걸 모으게 된다--
+  　
+ * attachment:/Eye_of_Cthulhu_Trophy.png attachment:/Eater_of_Worlds_Trophy.png attachment:/Skeletron_Trophy.png 트로피(Trophy)
+ 보스가 10% 확률[* 단, 웨이브 전용 보스는 웨이브 단계에 따라 확률이 유동적으로 변한다.]로 드롭하는 전리품. 몬스터 배너의 보스판이라고 보면 될 듯. 노멀 트로피 7종+하드모드 트로피 7종+이벤트 트로피 5종으로 총 19가지의 트로피가 있다. 콘솔판에는 오크람 전용 트로피가 추가되었다.
+ 　
+  * attachment:Sharkteeth_Trophy.png attachment:Goldfish_Trophy.png attachment:Bunnyfish_Trophy.png attachment:Swordfish_Trophy.png 물고기 트로피
+  낚시꾼에게 퀘스트를 완수받으면 보상으로 받을 수 있다. 총 4가지 종류가 있다.
+  　
+ * attachment:Wooden_Fence.png 울타리(Fence) 
+ 작업대에서 각각의 나무 1개 혹은 철이나 납으로 제작한다. 울타리 4개로 원래 재료로 돌려놀수 있다.
+ 　
+ * attachment:Wooden_Beam.png 나무 기둥(Wooden Beam)
+ 제재소에서 나무 1개로 2개를 제작한다. 나무 기둥은 블럭처럼 보이며, 기둥 양 옆으로 횃불을 설치할 수도 있다. 하지만 블럭과 달리 가구기 때문에 앞으로 지나갈 수 있다는 점이 다르다. 당연히 기둥 앞에는 가구를 놓을 수 없으니 주의.
+ 　
+ * attachment:Throne.png 왕좌(Throne)
+ 모루에서 비단 20개, 금괴 또는 백금괴 30개로 제작한다. 집을 만들 때 의자 대신 놔둬도 된다. 비단 20개, 금괴 30개를 요구하므로 가구치고는 가격이 최악이지만, 이걸로 집을 장식할 때면 금과 비단은 창고에 수십 개가 박혀있을테니 상관 없다.
+ 　
+ * attachment:/Good_Morning.png 그림
+ 화가에게서 구입하거나 지하의 유적, 던전 등에서 주로 발견되는 아이템으로 종류는 약 70여 가지가 있다. 모든 그림의 종류는[[http://terraria.gamepedia.com/Painting 여기]]서 볼 수 있다.
+ 　
+ * attachment:Blue_Dungeon_Vase.png attachment:Green_Dungeon_Vase.png attachment:Pink_Dungeon_Vase.png attachment:Obsidian_Vase.png 꽃병(Vase)
+ 던전이나 지옥에서 찾아볼 수 있다. 총 4가지 종류가 있다.
+ 　
+ * attachment:Hanging_Skeleton.png 매달린 해골(Hanging Skeleton)
+ attachment:Wall_Skeleton.png 벽걸이 해골(Wall Skeleton)
+ 던전에서 입수 가능. 벽면에 거는 장식품이다.
+ 　
+ * attachment:Starfish.png 불가사리(Starfish)
+ attachment:Seashell.png 조가비(Seashell)
+ 바다에서 얻을 수 있는 아이템들. 재료로 쓰이지 않으며 인테리어용이다.
+ 　
+ * attachment:Bubble_Machine.png 거품 기계(Bubble Machine)
+ 파티 걸에게 금화 4닢으로 구입 가능. 설치하면 방울들이 계속 나온다. 전기장치로 끄고 킬 수 있다.
+ 　
+ * attachment:Fireworks_Fountain.png 폭죽 분수(Fireworks Fountain)
+ 파티 걸에게 금화 3닢으로 구입 가능. 오른쪽 클릭하거나 전기장치로 작동시키면 불꽃이 분수처럼 뿜어져 나온다. 대미지는 없음.
+ 　
+ * attachment:Fireworks_Box.png 폭죽 상자(Fireworks Box)
+ 파티 걸에게 금화 5닢으로 구입 가능. 오른쪽 클릭하거나 전기장치로 작동시키면 폭죽을 무한대로 날릴 수 있다. 애석하게도 이 폭죽은 대미지가 없다. --파괴자가 좋아합니다.--
+ 　
+ * attachment:Christmas_Tree.png 크리스마스 트리(Christmas Tree) {{{#red ⓗ}}}
+ 크리스마스 이벤트 기간에 오는 산타클로스가 판매하는 아이템으로, 장식품을 함께 구입하여 크리스마스 트리를 직접 꾸밀 수 있다. 장식의 종류에 대해선 [http://terraria.gamepedia.com/Christmas_Tree 여기]를 참조.
+ 　
+=== 장식용 조각상 ===
+주로 지하 동굴에서 발견되는 아무 기능이 없는 장식용 조각상. 리자드 조각상은 리자드 사원에서 발견된다. 그림과 이름만 적어놓는다.
+여기에 분류되지 않았다면 전기장치로 활용할 수 있는 기능용 조각상을 의미한다.
+
+ * attachment:A_Statue.png attachment:1_Statue.png 문자 석상 - 고중량 작업대에서 돌 50개로 제작하는 석상. 라틴 문자 A~Z와 숫자 0~9를 제작할 수 있다.
+ * attachment:Angel_Statue.png 천사 동상(Angel Statue)
+ * attachment:Anvil_Statue.png 모루 동상(Anvil Statue)
+ * attachment:Armor_Statue.png 갑옷 동상(Armorl Statue) - 동굴에서도 발견되지만 제작이 가능한 조각상. 작업장에서 돌 블록 50개로 만들 수 있다. 여담으로 그냥 돌 50개를 판매하기보다 조각상으로 만들어 파는 것이 더 비싸다. --수고비인가--
+ * attachment:Axe_Statue.png 도끼 동상(Axe Statue)
+ * attachment:Boomerang_Statue.png 부메랑 동상(Boomerang Statue)
+ * attachment:Boot_Statue.png 신발 동상(Boot Statue)
+ * attachment:Bow_Statue.png 활 동상(Bow Statue)
+ * attachment:Corrupt_Statue.png 타락 동상(Corrupt Statue)
+ * attachment:Cross_Statue.png 십자가 동상(Cross Statue)
+ * attachment:Eyeball_Statue.png 눈알 동상(Eyeball Statue)
+ * attachment:Gargoyle_Statue.png 가고일 동상(Gargoyle Statue)
+ * attachment:Gloom_Statue.png 어둠 동상(Gloom Statue)
+ * attachment:Goblin_Statue.png 고블린 동상(Goblin Statue)
+ * attachment:Hammer_Statue.png 망치 동상(Hammer Statue)
+ * attachment:Hornet_Statue.png 말벌 동상(Hornet Statue)
+ * attachment:Imp_Statue.png 임프 동상(Imp Statue)
+ * attachment:Mushroom_Statue.png 버섯 동상(Mushroom Statue)
+ * attachment:Pickaxe_Statue.png 곡괭이 동상(Pickaxe Statue)
+ * attachment:Pillar_Statue.png 기둥 동상(Pillar Statue)
+ * attachment:Pot_Statue.png 항아리 동상(Pot Statue)
+ * attachment:Potion_Statue.png 포션 동상(Potion Statue)
+ * attachment:Reaper_Statue.png 사신 동상(Reaper Statue)
+ * attachment:Shield_Statue.png 방패 동상(Shield Statue)
+ * attachment:Spear_Statue.png 창 동상(Spear Statue)
+ * attachment:Sunflower_Statue.png 해바라기 동상(Sunflower Statue)
+ * attachment:Sword_Statue.png 검 동상(Sword Statue)
+ * attachment:Tree_Statue.png 나무 동상(Tree Statue)
+ * attachment:Woman_Statue.png 여성 동상(Woman Statue)
+ * attachment:Lihzahrd_Statue.png 리자드 동상(Lihzahrd Statue) {{{#red ⓗ}}}
+ * attachment:Lihzahrd_Guardian_Statue.png 리자드 가디언 동상(Lihzahrd Guardian Statue) {{{#red ⓗ}}}
+ * attachment:Lihzahrd_Watcher_Statue.png 리자드 감시꾼 동상(Lihzahrd Watcher Statue) {{{#red ⓗ}}}
+ 　
+== 전기장치(Mechanism) ==
+대부분 기계공 NPC에게서 구매할 수 있는 아이템들. 전선으로 연결한 뒤 트리거로 신호를 보내 전기기구를 토글한다.
+
+ * attachment:/Wire.png 전선(Wire) 
+ 기계공으로부터 개당 은화 5닢에 구입 가능. 전기장치의 기본이 되는 아이템으로, 각종 전기장치를 이어주는 역할을 한다. 평소에는 보이지 않지만 전기장치 계통의 아이템을 들고 있으면 보이게 된다. 전선은 전용 아이템인 렌치/전선 절단기가 있어야 각각 설치/제거가 가능하다. 전선의 길이 제한은 없으므로 맵 끝에서 끝까지 텔레포터를 전선으로 연결해도 작동된다(!).[* 1.1 버전에는 1000개 제한, 1.2 버전에서 2000개로 증가하고 1.2.3에서 무제한이 되었다. --프로그래밍의 발전--]
+ 　 
+ * attachment:/Wrench.png attachment:/Blue_Wrench.png attachment:/Green_Wrench.png 렌치(Wrench)
+ 기계공으로부터 금화 2닢에 구입 가능. 전선을 설치하는 도구. 들고 빈 공간을 클릭하면 전선이 설치된다. 1.2 버전으로 오면서 파란색, 초록색 렌치가 추가되면서 서로 다른 색의 전선을 중첩 설치할 수 있다. 기존 빨간색 전선으로 신호를 보내면 가끔 전선이 꼬일때가 존재해 상당히 곤란할 때가 존재하지만, 다른 색 전선을 설치해서 이젠 전선이 서로 꼬일 일이 적어졌다.
+ 　
+ * attachment:/Wire_Cutter.png 전선 절단기(Wire Cutter)
+ 기계공으로부터 금화 2닢에 구입 가능. 전선과 작동기를 제거하는 도구. 들고 전선이나 작동기를 클릭하면 제거된다.
+ 　
+ * attachment:/Actuator.png 작동기(Actuator)
+ 기계공에게 개당 은화 10닢에 구입 가능. [[테라리아/블록|블록]]이나 가구 등에 전선과 같이 배선하여 외벽으로 비활성화하고 다시 활성화할 수 있도록 토글해주는 장치이다. 
+ 　
+=== 트리거 ===
+ * attachment:/Switch.png 스위치(Switch)
+ 기계공으로부터 개당 은화 20닢에 구입 가능. 작동시킬 때마다 신호를 보낸다.
+ 　
+ * attachment:/Lever.png 레버(Lever)
+ 기계공으로부터 개당 은화 30닢에 구입 가능. 성능은 스위치와 동일하다. 땅에 설치한다는 게 차이점.
+ 　
+ * attachment:/Gray_Pressure_Plate.png attachment:/Red_Pressure_Plate.png attachment:/Yellow_Pressure_Plate.png 압력판(Pressure Plate)
+ 기계공으로부터 개당 은화 50닢에 구입 가능. 플레이어나 몬스터, 돌덩이 등에 의해 눌리면 신호를 보낸다. 지하에서 함정용으로 설치된 것을 간혹 볼 수 있다. 전기공이 없어도 이걸 캐내놓고 들어보면 설치된 전선이 보이기 때문에 함정을 피하기 매우 쉬워진다.
+ 압력판의 유형에 따라 반응하는 대상이 달라진다. 표로 나눠보면 다음과 같다.
+ ||<#D5D5D5>  압력판  ||<#D5D5D5>  반응하는 대상  ||
+ ||attachment:/Gray_Pressure_Plate.png 회색 압력판[[br]]attachment:/Brown_Pressure_Plate.png 갈색 압력판[[br]]attachment:/Blue_Pressure_Plate.png 파란색 압력판[[br]]attachment:/Lihzahrd_Pressure_Plate.png 리자드 압력판||플레이어만 반응||
+ ||attachment:/Red_Pressure_Plate.png 빨간색 압력판[[br]]attachment:/Green_Pressure_Plate.png 초록색 압력판||플레이어, NPC, 몬스터만 반응||
+ ||attachment:/Yellow_Pressure_Plate.png 노란색 압력판||NPC, 몬스터만 반응||
+ 　
+ * attachment:/1_Second_Timer.png attachment:/3_Second_Timer.png attachment:/5_Second_Timer.png 타이머(Timer)
+ 작동 시 각각 1, 3, 5초마다 신호를 반복해서 보내는 블록이다. 철 또는 납 모루에서 제작하며, 공통적으로 3개 다 전선 1개가 필요하고, 5초 타이머는 구리 또는 주석 시계, 3초 타이머는 은 또는 텅스텐 시계, 1초 타이머는 금 또는 백금 시계가 추가로 재료로서 필요하다.(여담으로, 모바일에서는 기계공이 판매한다.물론 만들 수도 있다.)
+ 　
+=== 전기기구 ===
+여기에 나와있는 아이템 이외에도 전선과 연결하면 문과 조명 기구, 뮤직 박스, 물 분수대 등을 동작시킬 수 있다.
+
+ * attachment:/Active_Stone_Block.png 활성된 돌 블록(Active Stone Block)
+ attachment:/Inactive_Stone_Block.png 비활성된 돌 블록(Inactive Stone Block)
+ 각각 돌 블록과 돌 벽, 그리고 전선 1개를 손에서 조합해 제작한다. 돌 벽이든 돌 블록이든 뭘로 조합해도 이득은 없다. 돌 벽은 4개가 필요하기 때문.
+ 신호를 줌에 따라 사라졌다가 나타나는 블록이다. 벽이나 바닥이 있다가 사라지게 할 수 있으므로 함정이나 도개교, 비밀 계단같은 여러 가지 장치들을 만들어볼 수 있다.
+ 　
+ * attachment:/Inlet_Pump.png attachment:/Outlet_Pump.png 펌프(Pump)
+ 인렛 펌프와 아웃렛 펌프가 있다. 둘 다 철/납 주괴 10개와 전선 3개로 조합한다. 두 펌프를 전선으로 연결한 후 신호를 줄때마다 인렛 펌프에 위치한 액체를 아웃렛 펌프쪽으로 한번에 최대 4블록만큼씩 전송한다. ~~전선이 수도관인가~~ 아웃렛 펌프가 액체에 완전히 잠기면 펌프질이 중단된다. 인렛 펌프가 펌프질 시작시 액체에 완전히 잠겨 있었을 경우 나오는 액체가 조금 늘어나는 버그가 있어서 이를 활용해 물/용암/꿀 생성기를 만들 수 있다.
+ 　
+ * attachment:/Teleporter.png 텔레포터(Teleporter) {{{#red ⓗ}}}
+ 스팀펑커에게 개당 금화 2.5닢으로 구입한다. 일반적으로 텔레포터 2개를 전선으로 연결하여 쓸 수 있다. 전선의 중첩 연결이 가능하므로 한 텔레포터에 최대 6개의 텔레포터를 연결할 수 있다.[http://cloud-3.steampowered.com/ugc/490059415399021492/2A9602F2CC23079DE4B7BA5BB9AE318B7586FA60/ #] 전선 설치에는 노가다가 걸리겠지만 일단 완성해놓으면 매우 편리하다.
+ 　
+==== 조각상 ==== 
+||<tablealign=right> attachment:Statuefarm.png?width=200 ||
+기능이 있는 조각상들로 전선으로 연결해 전류를 넣어 조각상의 기능을 활성화할 수 있다. 모든 조각상은 지하에서 자연적으로 발견할 수 있으며 곡괭이 도구로 회수하거나 조각상 바로 밑의 지반을 제거해서 얻을 수 있다.
+조각상을 이용하여 아이템이나 몬스터 등을 생성하는 데에는 아래와 같은 조건이 존재한다.
+ * 300픽셀(37.5 블록) 안에서는 최대 3개까지 생성할 수 있다.
+ * 800픽셀(100 블록) 안에서는 최대 6개까지 생성할 수 있다.
+ * 거리 상관없이 맵 상에서 최대 10개까지 생성할 수 있다.
+ 　
+다시 생성하기 위해서는, 그 생성된 아이템을 얻거나 몬스터를 잡아서 생성 조건을 다시 갖추면 된다.
+
+===== 아이템 생성 =====
+아이템을 소환하는 동상으로 대기 시간은 10초이다.
+
+ * attachment:/Bomb_Statue.png 폭탄 동상(Bomb Statue)
+ 아이템 폭탄을 소환한다. ~~폭탄 자판기~~ 이 폭탄은 일반 폭탄의 효과를 100% 가진다.
+ 　
+ * attachment:/Heart_Statue.png 하트 동상(Heart Statue)
+ 즉시 체력을 20만큼 회복하는 하트를 소환한다.
+ 　
+ * attachment:/Star_Statue.png 별 동상(Star Statue)
+ 즉시 마나를 100만큼 회복하는 별을 소환한다.
+ 　
+===== 몬스터 생성 =====
+몬스터를 소환하는 동상으로 돈은 절대로 주지 않으나, 모두 기본적으로 배너를 드롭하고, 일부 아이템을 드랍한다.
+
+ * attachment:/Bat_Statue.png 박쥐 동상(Bat Statue)
+ 박쥐를 소환한다. 전리품은 깊이 측정기와 나이프, 박쥐 현수막.
+ 　
+ * attachment:/Bird_Statue.png 새 동상(Bird Statue)
+ 새를 소환한다. 전리품은 새 현수막.
+ 이걸 동력원(...)으로 이용해서 만든 [https://www.youtube.com/watch?v=0KNjVhOhh6w 버드 엔진](Bird Engine)이라는 장치도 존재하는데, 1초 타이머보다 매우 빠른 속도로 전기를 반복해서 보낸다.
+ 　
+ * attachment:/Bunny_Statue.png 토끼 동상(Bunny Statue)
+ 토끼를 소환한다. 전리품은 토끼 현수막.
+ 블러드 문일 때 이 조각상으로 소환한 토끼가 오염된 토끼로 변하게 되는데 전용 배너와 치장품 토끼 후드를 드랍한다.
+ 　
+ * attachment:/Chest_Statue.png 상자 동상(Chest Statue)
+ 미믹을 소환한다. 전리품은 미믹 현수막. --당연하게도--아쉽게도 장신구는 드랍하지 않는다.[* 자연 발생하는 미믹은 처치시 장신구를 무조건 하나 드랍한다.]
+
+ * attachment:/Crab_Statue.png 게 동상(Crab Statue)
+ 게를 소환한다. 전리품은 게 현수막.
+ 역시 새 동상과 마찬가지로 이것도 [https://www.youtube.com/watch?v=OQlSQSa84s4 크랩 엔진]이라는 장치가 존재한다. 버드 엔진보단 관리하기도 까다롭고 속도도 느려서 잘 안 쓰이는 느낌.
+ 　
+ * attachment:/Fish_Statue.png 금붕어 동상(Fish Statue)
+ 금붕어를 소환한다. 전리품은 금붕어 현수막. 
+ 토끼와 마찬가지로 블러드 문때는 감염된 금붕어로 바뀌기 때문에 무한으로 금붕어 소환이 가능하다. 1.2.3 패치 이후로 아이템화된 금붕어는 잠자리채로만 구할 수 있다. 또한 금붕어가 너프 먹어서 상점가가 0이니 참고할 것. 대신 금붕어와 물병을 조합해서 어항을 만들면 은화 20닢을 벌 수 있다.
+ 　
+ * attachment:/Jellyfish_Statue.png 해파리 동상(Jellyfish Statue)
+ 해파리를 소환한다. 전리품은 형광봉. 1.2 버전에서부터는 해파리 목걸이도 드롭하는데 이게 한 개당 금화 1닢이라서 돈을 많이 벌 수 있는 석상이기도 하다. --다만 장신구의 특성상 겹쳐지지 않아서 매우 귀찮다.--
+ 　
+ * attachment:/Piranha_Statue.png 피라냐 동상(Piranha Statue)
+ 피라냐를 소환한다. 전리품은 갈고리(Hook), 배너, 로봇 모자. 로봇 모자가 피라냐를 잡으면 0.2%의 확률로 드랍하기 때문에 피라냐 동상을 얻으면 로봇 모자를 얻는 난이도가 확 줄어든다.
+ 　
+ * attachment:/Skeleton_Statue.png 스켈레톤 동상(Skeleton Statue)
+ 해골을 소환한다. 전리품은 갈고리. 골제 검, 고대의 철 헬멧, 고대의 금 헬멧과 배너를 드롭한다. ~~하지만 전기장치 돌릴 때쯤이면 던전을 갔다왔다는 거고 그때쯤이면 이런 것들은 다 상점행이다.~~ [http://www.youtube.com/watch?v=WYUBfe9DXGU 스켈레톤과 텔레포트를 이용한 엔진도 있다].
+ 　
+ * attachment:/Slime_Statue.png 슬라임 동상(Slime Statue)
+ 파랑 슬라임을 소환한다. 전리품은 젤. 이 젤을 무한으로 드롭하기 때문에 용암 등을 이용해 젤 공장을 만들어서 화염방사기의 탄약으로 안정적으로 수급할 수 있다.
+ 또한 0.2%의 극악한 확률로 슬라임 스태프를 드롭한다. ~~하지만 이런 것을 만들 때쯤이면 이미 쓸모가 없잖아?~~
+ 　
+ * attachment:Shark_Statue.png 상어 동상(Shark Statue)
+ PC 1.2.4에서 추가된 동상. 바다의 상어를 소환한다. 전리품은 상어 지느러미와 잠수 헬멧 및 상어 배너. 다른 동상과 달리 설치 지점에 넓이 6 높이 4 이상의 공간이 확보되어야 상어가 소환되니 유의할 것.
+ 　
+===== NPC 소환 =====
+NPC를 소환하는 동상이다. 물론 스폰시키지는 않는다. ~~스폰한다면 왕 동상은 초록 모자 공장이 되었지~~
+
+ * attachment:/King_Statue.png 왕 동상(King Statue)
+ 남성 NPC중 한명을 랜덤하게 소환한다.
+ 　
+ * attachment:/Queen_Statue.png 여왕 동상(Queen Statue)
+ 여성 NPC중 한명을 랜덤하게 소환한다.
+ 　
+==== 트랩 ====
+ * attachment:/Boulder.png 바위(Boulder)
+ 동굴에서 버튼 밟으면 떨어지는 그것. 땜장이의 작업장에서 돌 6개로 제작하며 한번 설치하면 다시 회수할 수 없다. 곡괭이로 건드리는 등 작동시키면 왼쪽으로 구르며[* 왼쪽으로 구를 수 없을 때 오른쪽으로 구른다.] 방어력과 무관한 큰 피해량(60~150)을 입힌다. 초반 지하 탐험의 가장 큰 적이며, 하드코어 유저를 멘붕시키는 주범 중 하나이다. 반응속도가 빠르다면 재빨리 오른쪽으로 피할 수 있다. 기본적으로 입력판을 밟지않으면 작동하지 않으므로, 바닥을 유심히 들여다보며 탐험하는 것이 좋다. 다트 함정이나 입력판 등 전기장치를 손에들면 전선이 보이는 것을 이용하여 어느정도 방지할수있다.--하지만 지하 탐험 시에는 기본적으로 횃불 드느라 그럴 여유가 없다--
+ 　
+ * attachment:/Explosives.png 폭발물(Explosives) attachment:After_explosion.png?align=right&width=120
+ 폭발물 통틀어서 가장 강력한 위력을 가진 폭발물. 이름부터 '''폭발물'''이다. 다이너마이트 3개와 전선 1개로 제작 가능. 폭발 반경이 10블록가량 되므로 설치 시에는 주의가 필요하며, 오로직 전력을 넣어서만 작동을 하므로 기계공을 구해야만 만들 수 있다.[* 기계공이 오기 전에도 지하 함정을 통해 볼 수 있긴 하다. --물론 그 전에 그 함정으로 [[끔살]]당할 확률이 더 높다.--]
+ 직접 설치한 뒤 전선으로 연결하는 방식으로, 주의해야할 점은 이 폭발물은 전력을 받으면 '''곧바로 터져버린다.''' [[마인크래프트|어떤 네모난 게임]]처럼 [[TNT|불타고 점차 커지면서 펑!]] 하는것도 없다. 누르는 순간 터지므로 최대한 폭발물로부터 멀찌감치 떨어져야 한다.
+ 지하에서 함정으로 간혹 존재한다. 그러므로 자연으로 설치된 버튼은 함부로 누르지 말도록. 다트 트랩보다는 보기가 정말 힘들지만, 그놈의 폭발 대미지[* 500이다. 하드모드에서 최대 HP를 갖추고 풀피 상태일 때에나 살아남을 수 있다.]가 문제 되는지라 설치가 잘 돼 있는 폭발물 함정을 밟는 순간 --잠깐 어리둥절하다가 상황 파악을 한 뒤-- 입에서 욕이 나올 수가 있다.
+ 　
+ * attachment:/Dart_Trap.png 다트 트랩(Dart Trap)
+ 동굴에서 입수 가능. 신호를 받으면 독다트를 발사한다. 함정 중에서 가장 흔히 볼 수 있는 유형이다. 사거리는 무한대(!)이지만 화면 바깥에서는 맞지 않는다. 3초의 쿨타임이 있다. 위력이 약하기는 하지만 독도 걸고 관통이 되는지라 야간 방어나 고블린 침공때 쏠쏠히 써먹을 수 있다. NPC에게서 구입할 수 없고 직접 지하에서 캐야만 한다. 
+ 　
+ * attachment:/Super_Dart_Trap.png 슈퍼 다트 트랩(Super Dart Trap) {{{#red ⓗ}}}
+ 리자드 사원에서 입수 가능. 다트 트랩보다 훨씬 강력한 독다트를 발사한다. 대미지는 40.
+ 　
+ * attachment:/Spear_Trap.png 창 트랩(Spear Trap) {{{#red ⓗ}}}
+ 리자드 사원에서 입수 가능. 위에서 아래로 긴 창이 뻗어나온다. 대미지는 130.
+ 　
+ * attachment:/Spiky_Ball_Trap.png 가시 공 트랩(Spiky Ball Trap) {{{#red ⓗ}}}
+ 리자드 사원에서 입수 가능. 위에서 아래로 가시 공을 떨어뜨린다. 대미지는 90으로 꽤 높다. 떨어지면 계속 튀어오르는데 꽤 오랫동안 남아있으며, 당연히 적 관통이 된다. 이 때문에 작업장이나 아레나를 만들때의 [[필수요소]]이다. 보이는 족족 캐주자.
+ 　
+ * attachment:/Flame_Trap.png 화염 트랩(Flame Trap) {{{#red ⓗ}}}
+ 리자드 사원에서 입수 가능. 옆으로 약 20블록 넓이의 화염을 3초동안 발사한다. 다른 세 함정에 비해 잘 생성되지 않는다. 대략 라지 맵에서 2~4개 정도 생성된다.
+ 　
+[[각주]]

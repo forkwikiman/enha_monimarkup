@@ -1,0 +1,39 @@
+[[include(틀:월드 오브 워쉽)]]
+
+[[월드 오브 워쉽]]에 등장하는 미국 전함 일람
+
+[[목차]]
+
+== 개요 ==
+== 선박 ==
+=== 미시간급 전함 - 3티어 ===
+||<tablewidth=100%><width=30%> http://wiki.gcdn.co/images/1/17/USS_Michigan_icon.png ||<width=70%> 함선 설명 ||
+
+원래 2티어였으나 전함 트리가 3티어부터 시작하게 됨으로써 한 단계 위로 올라왔다. 개발자 Q&A에 따르면 원래 3티어로 예정되었던 플로리다급/와이오밍급 전함은 프리미엄 함선이 될 확률이 높다고.
+
+=== 아칸소급 전함 - 4티어 ===
+
+=== 뉴욕급 전함 - 5티어 ===
+
+=== [[뉴멕시코급 전함]] - 6티어 ===
+||<tablewidth=100%><width=30%> http://wiki.gcdn.co/images/0/06/USS_New_Mexico_icon.png ||<width=70%> 함선 설명 ||
+
+=== [[콜로라도급 전함]] - 7티어 ===
+||<tablewidth=100%><width=30%> http://wiki.gcdn.co/images/1/12/USS_Colorado_icon.png ||<width=70%> 함선 설명 ||
+
+=== [[노스캐롤라이나급 전함]] - 8티어 ===
+||<tablewidth=100%><width=30%> http://wiki.gcdn.co/images/f/fe/USS_North_Carolina_icon.png ||<width=70%> 함선 설명 ||
+
+=== [[아이오와급 전함]] - 9티어 ===
+||<tablewidth=100%><width=30%> http://wiki.gcdn.co/images/1/1b/USS_Iowa_icon.png ||<width=70%> 함선 설명 ||
+
+=== 아이오와급 프로토타입 IV - 9티어 ===
+아이오와급이 계획되던 시기 제시되었던 프로토타입 중 하나. 사진 하나 딸랑 나오고 끝이라 아이오와급에 통합되어 나오는 것인지 아니면 아이오와급과 별도로 나오는 것인지에 대해서는 정보가 부족한 상황이다.
+
+당장 찾을 수 있는 정보론 [https://books.google.co.kr/books?id=Y41Ha_3HsrYC&printsec=frontcover&dq=Battleships&hl=ko&sa=X&ei=RluaVPTAJMbCmwX3zICYAQ&ved=0CCQQ6AEwAQ#v=onepage&q=Battleships&f=false U.S. Battleships: An Illustrated Design History]에서 볼 수 있는 아이오와급 4번째 설계 시안을 구현한 것 같다. 16인치45구경 9문, 5인치38구경 20문, 230,000마력, 33노트, 길이 253.59미터 기준 44,540톤, 만재 55,620톤 대응방어는 16인치45구경에 18,000~30,000 야드 16인치50구경에는 21,800~32,100 야드였다.
+=== [[몬태나급 전함]] - 10티어 ===
+http://upload.wikimedia.org/wikipedia/commons/5/57/Montana_Class.png
+BB-67 Montana
+
+미국 10티어전함으로 예정되어있는 페이퍼플렌쉽이다. 16인치 3연장 4문을 장비한 형태이며, 정확한 제원은 파악 되지 않았지만 건조 중인 일본의 신형전함에 대응하기 위해 해군 군축조약의 Escalator Clause가 발동함에 따라 받은 4만5천톤 기준배수량을 가지고 설계한 [[아이오와급]]을 넘어선 6만톤급인 진정한 의미의 탈조약형 전함이다.
+

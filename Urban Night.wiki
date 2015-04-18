@@ -1,0 +1,41 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+[[DJMAX 시리즈]]의 수록곡들.
+제목만 같고 내용물은 전혀 다른 '''동명이곡'''이 시리즈 내에 동시에 존재하는 매우 특이한 케이스이다.[* 같은 경우가 또 생겼다. [[wiki:"Angel(DJMAX)"Angel]], [[Right Back]]][* [[BEMANI 시리즈]]에서도 비슷한 케이스가 존재한다. [[wiki:"Vermillion"Vermil'''l'''ion]]과 [[Vermilion]]. ] 
+
+때문에 두 곡을 같은 문서에 동시에 작성한다.
+
+== [[Electronic Boutique]]의 곡 ==
+
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Trilogy]] ||
+|| 작곡 || [[Electronic Boutique]] ||
+|| 장르 || Urban House ||
+|| BGA || [[Tina]] ||
+|| BPM || 124 ||
+
+{{{#!html
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/radRvV3qKdA?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+BGA
+
+[[DJMAX 온라인]]의 곡. 수록된 곡. [[Miles]]로 좋은 반응을 얻었던 Electronic Boutique가 DJMAX에 제공한 두 번째 곡이다. 잔잔한 멜로디로 miles에 버금가는 인기를 얻었지만 [[DJMAX Portable 2]]에는 못 들어가서 비운의 곡이 되었다. 결국 온라인 서비스 종료 후 발매된 [[DJMAX Trilogy]]에 수록되었다.
+
+채보는 불규칙한 박자의 트릴이 시종일관 나와서 표기 난이도에 비해 올콤 난이도가 높았다. 온라인판 7키 하드 난이도가 10이었는데 올콤 난이도는 어지간한 12짜리 곡들 못지 않았다.
+
+== [[Soulman & Minos]]의 곡 ==
+
+|| 최초 수록 버전 || [[DJMAX Portable Clazziquai Edition]] ||
+|| 작곡 || [[hYO]] ||
+|| 보컬 || [[Soulman]] ||
+|| 랩 || [[Minos]] ||
+|| 장르 || Urban R&B ||
+|| 일러스트 || [[Saram]] ||
+|| 모션 || [[79c]] ||
+|| BPM || 93 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/078iWOSzOCI?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+BGA
+
+DJMAX CE에 수록된 곡. 소울맨과 마이노스가 참여한 프로젝트 앨범 'Soulman & Minos : Coffee Calls For A Cigarette'에 수록된 곡으로, [[Tell Me]]와 함께 라이센스 수록된 곡이다. 원래 제목은 Urban Nite인데, 디제이맥스에 수록되면서 Urban Night로 개명되었다. 덕분에 많은 사람들이 낚였었다. 그렇기 때문에 이 곡을 언급할 때는 원래 제목으로 지칭한다. 여담으로 같은 시기에 라이센스 수록된 [[무투]]처럼 커팅하면서 [[마이노스|한 사람]]의 분량이 거의 다 짤려 나갔다.

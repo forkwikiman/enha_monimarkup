@@ -1,0 +1,106 @@
+'''뷰티풀 레시트'''(Beautiful Receipt), '''아름다운 영수증'''
+
+[[목차]]
+
+== 개요 ==
+attachment:beautiful_receipt.png
+
+[[BEMANI 시리즈]]의 수록곡. 작곡자는 Lucky Vacuum 명의를 쓴 [[DJ YOSHITAKA]]. 제목 덕분에 한국에서는 영수증이란 별칭으로 불린다.
+
+== [[리플렉 비트 시리즈]] ==
+ * 상위 항목: [[리플렉 비트/수록곡]]
+
+||<#eeeeee>
+인생에서 운이란 중요한 거야!
+그러니까 777엔의 영수증에 민감하게 반응해 버리는 거야!
+그게, 원래 BPM 145로 데모를 내놓았지만, 상황을 봐서 BPM을 올리는 거지!
+결과적으로 BPM을 올려서 좋았다는 느낌! 응, 인생은 포지티브하게!
+
+- [[Lucky Vacuum]], 리플렉 비트 라임라이트 OST 코멘트
+||
+
+||||||<:>'''[[리플렉 비트 라임라이트/해금요소#s-3.1|LIME UP 시스템]]'''||
+||||||<#E7FFEA><:>'''limelight 3'''||
+||<tablewidth=100%><width="33%"><:>3-1 글래스||<width="34%"><:>3-2 글래스||<width="33%"><:>3-3 글래스||
+||<:>[[SHION]] (45)||<:>[[Sakura Sunrise]] (50)||<:>[[OVER THE LIMIT!]] (50)||
+||||||<:>▼||
+||<:>[[空色コンチェルト]] (60)||<:>[[Last Hometown]] (55)||<:> '''ビューティフル レシート''' (55)||
+||||||<:>▼||
+||||||<#E7FFEA><:>'''limelight 4'''||
+||<:>4-1 글래스||<:>4-2 글래스||<:>4-3 글래스||
+||<:>[[記憶の欠片]] (85)||<:>[[QUIZ MAGIC ACADEMY VIII ～決勝戦より～]] (85)||<:>[[L'amour dans le lycee(High School Love Bossa -Arr.-)]] (80)||
+
+|||||||||||||| [[REFLEC BEAT]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 196 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 210}}} || {{{#orange 301}}} || {{{#red 512}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]] ||
+
+[[리플렉 비트 라임라이트]]의 라임 업 해금곡으로 출현하는 신곡 최초의 10레벨 악곡으로, 라임라이트 글래스 3-3의 후반부에 해금된다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/m9ZOhJL-nSQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+처음 롱노트 패턴이 끝난 뒤에 내려오는 단타형 노트들과, 8비트 중간중간 [[Sakura Reflection]]을 연상케 하는 3TOP 포함의 16비트 연타를 주의해야 한다. 2TOP단타 -> 1TOP단타 + 1TOP롱놋 -> 롱놋이 끝남과 같은 박자에 1TOP의 패턴도 적응 안되면 롱놋을 놓치기 십상이다. 곡 중간에 '따따따따딱-' 하는 부분은 정줄 놓고 치면 롱놋도 단타로 쳐서 미스가 나버릴 우려가 있기도. 그래도 3TOP 16비트는 초반부의 그 소절 이후로는 나오지 않고, 단타 후 롱노트로 훼이크를 거는 부분도 곡에 익숙해지면 할만해진다.
+
+[[キラキラ☆ステーション]], [[Flip Flap]]과 함께 [[코나미 아케이드 챔피언쉽/2012|KAC 2012]] 예선 과제곡으로 선정되었다.[* 셋 다 하드.] 그리고 [[리플렉 비트 그루빈]]에서는 [[리플렉 도장]] 6단 3라운드를 지키는 보스곡이 되었다.
+
+== [[댄스 댄스 레볼루션]] == 
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 8}}} || {{{#red 10}}} || {{{#green 13}}} || {{{#purple -}}} ||
+||<|3> 196|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 7}}} || {{{#red 10}}} || {{{#green 13}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+[[리플렉 비트 라임라이트]]와 같은 날에 발매된 [[댄스 댄스 레볼루션]] X3 vs 2ndMIX에도 동시수록되었는데, 리플렉과 다르게 통상 해금곡이다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/zPYg2zG3aHo" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 모든 보면 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube-nocookie.com/embed/kfLDy3fPIEY" frameborder="0" allowfullscreen></iframe>
+}}}
+더블 모든 보면 영상
+
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| HAPPY HARDCORE[[BR]]해피 하드코어 || [[BPM]] |||| 196 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 3}}} || {{{#blue 259}}} || {{{#orange 8}}} || {{{#orange 621}}} || {{{#red 10}}} || {{{#red 978}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 311}}} || {{{#orange 9}}} || {{{#orange 814}}} || {{{#red 11}}} || {{{#red 1151}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 19 Lincle|19 Lincle]] ~ 
+
+[[Lincle Link]] 이벤트로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/XMTK9BLTcig" frameborder="0" allowfullscreen></iframe>
+}}}
+SPA 영상
+
+== [[유비트 플러스]] ==
+||||||||<#002040><:>{{{#white jubeat plus 기준}}}||
+||<|2><#002040><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>9||
+||<#002040><:>{{{#white 노트수}}}||<:>249||<:>435||<:>778||
+||<#002040><:>{{{#white BPM}}}||||||<:>196||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#002040><:>{{{#white 아케이드 수록}}}||||||<:>없음||
+||<#002040><:>{{{#white iOS}}}||||||<:>[[리플렉 비트 시리즈|REFLEC BEAT]] pack 2||
+||<#002040><:>{{{#white Android}}}||||||<:>[[리플렉 비트 시리즈|REFLEC BEAT]] pack 2||
+
+[[IMAGE-MATERIAL-]], [[UNLIMITED FIRE]], [[Starry☆night]]과 마찬가지로 이곡도 [[유비트 플러스]]의 뮤직팩 중 하나인 REFLEC BEAT pack 2 팩에 수록되었다. 유비트 플러스2주년을 기념해서 나와서 그런지 리플렉비트 팩1과 2를 할인판매했었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/ZkHX1xayPLI" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상

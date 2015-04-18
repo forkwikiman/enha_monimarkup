@@ -1,0 +1,30 @@
+ * 상위 항목: [[EZ2ON]]
+
+|| 장르 |||||||| 2Step Light ||
+|| 곡명 |||||||| 비온뒤 맑음 ||
+|| 작곡 |||||||| [[ALTiTUNE]] ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| BPM |||||||| 추가바람 ||
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||| -/4 ||
+|||||||||| 모드별 레벨 데이터 (이지투온 기준) ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD (8K)}}} ||
+||<#FF0000> Ruby Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#00ff00> Street Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple ?}}} ||
+||<#0000ff> Club Mix || {{{#blue 10}}} || {{{#orange 13}}} || {{{#red 16}}} || {{{#purple 16}}} ||
+
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/A9hK4CDsj-A?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/A9hK4CDsj-A?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+[[목차]]
+== 개요 ==
+EZ2ON의 오리지널 곡. BGA는 이지투온 최초로 실사를 도입했다. 2D 캐릭터와 3D 모션그래픽과는 다른 맛을 보여준 BGA. 곡과의 싱크로율도 높은 편이여서 BGA 자체는 꽤 개념작으로 평가되고 있다. BGA에 류마이너스의 신세 한탄 글("날씨가 좋다, BGA 만들기 싫다")이 나오는 것이 유저들 사이에서 화제가 되었다.
+
+EZ2ON이 또 망하면서 같이 사라졌다.
+
+== 패턴 ==
+[[HTML(<embed src="//www.youtube.com/v/VcAJuEz8d70?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>)]]
+
+6K HD.
+
+패턴은 롱노트의 비중이 높아서 [[You Keep Me Waiting]]처럼 스코어링을 하는 용도로 쓰이기도 했다. EXR 제도가 나온 뒤 공개된 SHD 패턴이 표기레벨에 비해 쉬운 편이여서 EXR 셔틀이 되기도 하는 수모를 겪었다. 하지만 진정한 EXR 셔틀은 [[wiki:"Legend of Moonlight" 따로 있었으니...]]

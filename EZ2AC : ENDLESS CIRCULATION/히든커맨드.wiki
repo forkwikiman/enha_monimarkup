@@ -1,0 +1,53 @@
+||||||||<tablewidth=100%> '''[[EZ2AC : ENDLESS CIRCULATION]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2AC : ENDLESS CIRCULATION/삭제곡|삭제곡]] || [[EZ2AC : ENDLESS CIRCULATION/라디오채널|라디오채널]] || [[EZ2AC : ENDLESS CIRCULATION/히든커맨드|히든커맨드]] || 
+
+아케이드 리듬게임 [[EZ2AC : ENDLESS CIRCULATION]]의 히든커맨드 목록.
+
+ * 이 항목은 [[EZ2AC EC/히든커맨드]]로도 들어올 수 있다.
+
+[[목차]]
+== 범례 ==
+ * 버튼: 1-2-3-4-5-6-7-8-9-0
+ * 이펙터: E1-E2-E3-E4
+ * 페달: P1-P2
+
+== 히든 커맨드 ==
+ * 버전별 올송
+ 모드 선택 화면에서 해당 모드에 커서를 맞추고 스타트 버튼을 누른 채로 입력한다.
+  * 1st ~ 3rd: E1 - E1 - 1
+  * 4th ~ 6th: E1 - E1 - 2
+  * 7th 1.5 ~ 7th BE: E1 - E1 - 3
+  * AEIC ~ EC: E1 - E1 - 4
+ 
+ * 전체 올송
+ 모드 선택 화면에서 해당 모드에 커서를 맞추고 스타트 버튼을 누른 채로 입력한다.
+ E1 - E1 - E4
+ 7th 이후 6년만에 올송 커맨드가 바뀌었다. 
+== 해금 ==
+|| 회 || 알파벳 || 힌트 || 해금 방법[* 일부 해금은 올송 또는 부분올송을 걸지 말고 플레이해야만 인정된다.] || 해금 곡 || 해금 라디오 채널 ||
+|| PRACTICE || E || [[http://www.ez2ac.co.kr/page/images/hgc/start.jpg 8비트 하트로 써져있는 750]][* 이 힌트는 트위터가 아닌 EZ2AC 홈페이지에서 공개되었다.] || EZ2Catch 모드에서 KOOL 750개 이상 800개 미만으로 클리어 || [[Aniart]] || Houseplan Inc.(5/7키 공통) ||
+|| 1 || N || [https://twitter.com/ez2ac/status/333008951773917184/photo/1 별 35개] || 루비 믹스 35크레딧 플레이[* 폭사나 2인플레이도 1크레딧으로 인정] || [[True]] || Springhead(5키)[[br]]Club Morden Waves(7키) ||
+|| 2 || D || 행복은 '''성적'''순이 아[* 이 글자의 ㅇ에는 클럽 믹스 타이틀에 그려진 미러볼이 들어가 있다.]니잖아요'''XD''' || 클럽 믹스의 토탈 리절트에서 D랭크 달성 || [[Shove it]] || Ethereal Voices(5키)[[br]]Day After Day(7키) ||
+|| 2 || L || 이렇게 된거 마지막인데 장난 한번 해볼까? (ㅁ_ㅁ)[* 문장 전체가 아래 방향으로 갈수록 흐려지는 그라데이션이 더해져 있다.] || 7키 스트릿 믹스에서 3스테이지를 페이드 인으로 클리어 || [[Starlight Factory]] || Swallow Tail(5/7키 공통) ||
+|| 2 || E || Breaking the {{{#teal Habit}}} || 5키 스트릿 믹스 엑스트라 스테이지에서 BGA ON으로 클리어 || [[Again(EZ2AC)|Again]] || Team Indigo Wolves(5키)[[br]]Hyperactivity(7키) ||
+|| 2 || S || [https://twitter.com/ez2ac/status/333869272008896512/photo/1 <·)ε+3ε→(] [* 글자를 돌리고 뒤집어서 힌트를 만든 것으로 추정. [[데스노트]]의 제목을 이용한 것으로 보인다. →를 왼쪽 90도로 기울여 읽으면 T(표기를 대체할 기호가 화살표밖에 없어서 이렇게 표기한 것이지 사실 T를 오른쪽 90도로 기울인 것), 3ε는 33, +는 문자 그대로 十(10)을 의미하는것일수도 있지만 합하다는 의미와 중의적으로 넣었을 가능성이 있다. ε 단독은 3을 의미, 그리고 맨 앞의 <·는 A로 읽을수 있는듯 하다. 그리고 괄호들을 좌우로 뒤집어서 보면 A(3 十 33T)라고 해석할 수 있다.] || 턴테이블 모드에서 스테이지 난이도 합계 33 이상, 3스테이지의 곡 난이도가 10 이상일 때, 스테이지 리절트에서 A랭크 이상 달성 || [[Push me again]] || Steel Heart(5/7키 공통) ||
+|| 3 || S || [https://twitter.com/ez2ac/status/336255514319126529/photo/1 (13)+(40)+1'''_'''+10] [* 13은 1크(3과 ヨ、크는 [가짜동족어|동형이의자]로 보일수 있다. ヨ는 이해를 돕기 위해 덧붙임.), 그러니까 1크레딧의 의미로 추정됨. 40은 2P 입력부의 약칭인 6~10을 더한 값. 1_는 1P 페달(_가 굵게 표시되어 있다). 10은 16진수로 A. 이펙트 1번을 의미한다.] || 1크레딧 상태로 타이틀창에서 6,7,8,9,0(2피 건반 5개)을 누르고, 누른 상태에서 1P 페달을 밟고, 그 상태에서 A(이펙터1)을 누르면 된다.[* 조건이 알려지기 전 ENDLESS해금에서 남은 모드가 라디오와 스페이스 믹스였기에 스페이스 믹스와 관련되었다고 추정해서 여러 사람이 낚였다. 안습] || [[FUTURE NIGHT]] || (null)(5키)[[br]]Diegel Eater(7키) ||
+|| 4 || C || T1Ger || Turntable 모드 1STAGE에서 Game Over를 합니다. || [[Fallback]] || Around The World(5키)[[br]]sun3(7키) ||
+|| 5 || I || 남자 : 비밀번호는 이게 맞을텐데...'''[[br]](1000)[[br]]'''{{{#blue 좀 더 생각해볼까?}}}[[br]]여자 : 응! [* 주변에는 자주색으로 반짝이는 것이 있다.][* 이 캐릭터들은 모두 Magic Square의 BGA에서 나온다.] || 7키 스트릿 믹스 3스테이지 곡 선택시 E1을 누른 채로 시간이 끝날 때 까지 기다린 후, 선택한 곡 클리어 || [[Magic Square]] || fromsmk(5키)[[br]]HAHYEON(7키) ||
+|| 6 || R || [https://twitter.com/ez2ac/status/343202829432942592/photo/1/large 드림워커 용사가 하트노트를 안 받음][* 캐릭터랑 과일 스킨은 EZ2CATCH에 새로 추가된 것들이다. 참고로 용사는 '''단 1개의 하트도 안 받았다'''는걸 보면 답은 이미 나왔다고 보면 된다.] || EZ2CATCH 모드에서 ALL FAIL로 스테이지를 클리어[* 캐치모드의 모든 패턴을 통틀어 다 놓쳐도 죽지 않는 곡은 노트수 50개의 Hey Barbie 노멀 뿐이다.] || [[Rendezvous Coast]] || On the beach(5/7키 공통) ||
+|| 7 || C || [https://twitter.com/ez2ac/status/345722860813303810/photo/1/large 별 3개가 있고 510원의 동전 위에 스포트라이트가 비침.]|| 루비 믹스 스테이지 3에서 맥스콤보를 500~510으로 맞춘 후 맥스 콤보를 넘기지 말고 클리어 || [[Hesitate]] || 24/7(5키)[[br]]Badny(7키) ||
+|| 9 || U || [https://twitter.com/ez2ac/status/350786996261756928/photo/1 Airwave 여주인공이 엽기표정을 짓고 왼쪽에 CD가 있음. 페이드아웃 적용.] || TURNTABLE 모드에서 Airwave를 FADE OUT으로 클리어 || [[UniT(EZ2AC)|UniT]] || Flow.D 채널(5키)[[br]]Art of Turntablism 채널(7키) ||
+|| 8 || L || [https://twitter.com/ez2ac/status/348283636489015297/photo/1 이번에는 힌트를 드리지 않습니다. 안녕! -Verdictine] [* 힌트를 안 준다고는 하지만 줬다. 힌트 이미지 왼쪽 위의 Square Pixels 로고가 뒤집혀있다. [http://toez2dj.net/zeroboard/zboard.php?id=c_ez2dj2&no=280312 글]] || STREET MIX 5 MODE 3스테이지[* 처음에 추측되어 졌을때에는 3스테이지 전부 다 해야하는것으로 알려졌었다.]에서 REVERSE이펙트를 사용하여 클리어. || [[WHEEL OF FIRE]] || Team Progressive(5/7키 공통) ||
+|| 9 || A || [https://twitter.com/ez2ac/status/350786996261756928/photo/1 마지막에 기립박수를 받을 정도로 당신의 예술적인 턴테이블 실력을 보여주세요.] || RADIO MIX 7 모드에서 Art of Turntablism 채널을 S 랭크로 클리어[* 턴테이블 또는 페달 오토 플레이 시에는 해금되지 않는다. 또한 해당 채널이 U 해금 후에 등장하기 때문에 U를 해금해야 이 조건을 달성할 수 있다.] || [[Black tinted alley]] || Ghetto Box(5키)[[br]]From Dusk Till Dawn(7키) ||
+|| 9 || T || [https://twitter.com/ez2ac/status/350786996261756928/photo/1 1. Trickster 사전적 의미/2. 비 사전적 의미] || RADIO MIX 5 모드에서 Trickster 채널의 4 STAGE를 B랭크로 클리어 || [[Total Eclipse]] || ATAS(5키)[[br]]studio PSYCLOID(5키) ||
+|| 9 || I || [https://twitter.com/ez2ac/status/350786996261756928/photo/1 宇宙 三十五 千五百] || SPACE MIX 모드에서 플레이한 3곡의 난이도 합계가 35 이상, 1500 COMBO 이상을 달성한 후 클리어 || [[Planet X]] || Outerspace(5/7키 공통) ||
+|| 10 || O || [https://twitter.com/ez2ac/status/350840011161231360 STREME REVERIE / A Site De La Rue] || (I까지의 모든 조건을 달성한 상태에서)[[br]]CLUB MIX 모드 TOTAL RANKING에서 DJ NAME을 ASDLR로 입력 || [[A Site De La Rue]] || Sprouts of Rebellion(5키)[[br]]Shooting Star(7키) ||
+|| 11 || N || [https://twitter.com/ez2ac/status/353197409045716992 SYNCHRONIZE][* 단어 양 옆에 턴테이블 아이콘이 있다.] || (O까지의 모든 조건을 달성한 상태에서)[[br]]TURNTABLE 모드의 BATTLE PLAY에서 DRAW를 달성 || [[Break of Dawn]][[br]][[Legend]] || END ~the End~, PEENA, HFS+, [[EZ2DJ/Mutant|Mutant]](5키)[[br]]Ouroboros ~Serpent of Destruction~[* [Rock to Infinity|난이도가 진짜 무한대 기호로 박혀 있다!]](5/7키 공통)[[br]]KIEN, water-flame, Vilkas*(7키) ||
+== 엑스트라 스테이지 ==
+5Street, 7Street에서 세 판을 모두 S 랭크로 클리어하면 엑스트라 스테이지가 등장한다.
+
+이번 시리즈의 엑스트라 스테이지는 곡이 정해진 것이 아니라 곡을 자유롭게 고를 수 있는 스테이지이다. 2nd부터 AEIC까지의 곡은 인기곡 위주로 편성했고, EC의 곡은 거의 다 고를 수 있다. 1st와 1st SE는 단 한 곡도 들어가지 않았다. 그리고 해금을 하면 [[northpole]]을 고를 수 있다.
+
+S 랭크(A+ 랭크)의 기준이 많이 완화되었기 때문에 엑스트라 스테이지를 출현시키기도 쉬워졌다. 하지만 엑스트라 스테이지를 띄우는 것보다 올송을 걸고 원하는 곡을 플레이하는 것이 더 낫기 때문에, 엑스트라 스테이지를 띄우는 사람은 많지 않다.
+
+곡 목록은 [[EZ2AC : ENDLESS CIRCULATION/엑스트라 스테이지]] 항목 참고.

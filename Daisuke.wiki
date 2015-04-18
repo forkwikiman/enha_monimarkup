@@ -1,0 +1,121 @@
+[[목차]]
+== [[beatmania IIDX]] ==
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/x3gQOsARBBA" frameborder="0" allowfullscreen></iframe>}}}
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2><:> 157  |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 6}}} || {{{#blue 613}}} || {{{#orange 8}}} || {{{#orange 850}}} || {{{#red 10}}} || {{{#red 1205}}} || {{{#blue 5}}} || {{{#blue 660}}} || {{{#orange 8}}} || {{{#orange 858}}} || {{{#red 11}}} || {{{#red 1208}}} ||
+
+  * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+  * [[아케이드]] 수록 : 10th style ~
+  * 가정용판 수록 : 10th, 16 EMPRESS(PREMIUM BEST SIDE)
+  * 타 [[BEMANI 시리즈]] 이식 : [[댄스 에볼루션]]
+
+작곡은 [[Y&Co.]], 장르는 [[유로비트]]. [[BGA]] 담당은 [[VJ GYO]], 안무 및 댄스 담당은 [[So Fabulous !!]], [[Dazzlin' Darlin]] 등 [[BGA]]에서 ~~육감~~댄스를 선보인 Dai.(DAISUKE). 보컬은 KAHORI.
+
+준수하고 꽤 진지한 느낌의 곡 퀄리티에 비해 어울리지않게 [[BGA]]에서 현란하게 파라파라 댄스를 추는 Dai.와 곡 중간의 다이스케~하는 기묘한 파트 때문에 [[니코니코 동화]] 및 등지에서 [[네타]]곡으로 많이 사용되는 편(...) 
+
+채보는 초반의 인트로와 후반의 멜로디에 까다로운 폭타 때문에 초살 및 [[후살]] 당하기 딱 쉬우며, 초반-후반 채보는 상당히 비슷하지만 후반이 좀 더 고밀도로 들어가기 때문에 주의해야하며, 또 중간중간 동시치기에 [[계단]]이 조금씩 섞여나오는 형태이기 때문에 ☆10 중에서도 까다로울 수 있다. 이러한 까다로운 폭타 패턴 때문에 클리어 및 하드게이지 도전엔 정규배치보단 랜덤쪽이 좀 더 수월한 편이다.
+
+== [[댄스 에볼루션]] ==
+{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/dD1qp0PDL_0" frameborder="0" allowfullscreen></iframe>}}}
+
+Daisuke의 단에보 외부출력영상. 
+
+|||||||||||||| [[댄스 에볼루션]] 난이도 체계 ||
+|| BPM || 난이도 |||||||| 노트수 || 소비 칼로리 ||
+||<|2> 157 ||<|2> 4 || {{{#green LIGHT}}} || {{{#blue STANDARD}}} || {{{#red EXTREME}}} || {{{#orange MASTER}}} ||<|2> 16.60kcal ||
+|| {{{#green 76}}} || {{{#blue 124}}} || {{{#red 178}}} || {{{#orange 208}}} ||
+
+2013년 4월 24일부로 [[댄스 에볼루션]] 아케이드 버전에 이식되었다. 중반까지는 BGA에서의 안무를 재현하는 정도지만 중반을 넘어가면서부터는 오리지널 안무가 가미되며 꽤 어려워진 편.
+
+잘 보면 원래 BGA와 ~~당연하게~~ 다르다...게다가 Dai의 안무대로 한지라 [[Follow Tomorrow]]마냥 어렵다. 그리고 뒤에 큰 전신거울이 있지 않는 오락실이 아닌 이상 뒤돌아서 하는 부분은 알아서 잘 외워서 해야 판정이 잘 나온다. 
+
+== 같이보기 ==
+=== 아티스트 코멘트 ===
+==== [[비트매니아 IIDX]] ====
+||[[Y&Co.]] / SOUND
+
+처음엔 가사의 내용도 타이틀도 전혀 달랐습니다.
+그게 왠지 다이스케한테 (웃음)
+♪다이스케~
+하는 부분엔 여러가지 패턴으로 불러봤습니다.
+「다이스케라는 녀석을 엄청 좋아해서 생각하면서 불러봤어-」라든가,「중학생 시절로 돌아가 청춘적인 느낌으로」라든가, 잘 모르겠을 주문만 요구해 정직하게 미안하고＆Special thanks "KAHO"！[* Daisuke 보컬 담당.]
+
+DAISUKE / CHOREOGRAPHY & DANCE
+
+12월 어느날, GYO씨로부터 「이번에 DAISUKE라는 곡이 있는데 또 춤춰주실 수 있으신가요~」라는 전화가 와서「좋아요~」라고 가볍게 끌려서 받아버려 이런 일이 가능했습니다.
+
+덧붙여서 제 이름도 「다이스케」입니다만, 한자로 적는다면 「大○」이기도 합니다.
+자 그럼, 안무에 대해서라면 간주에 파라파라로 다른건 재즈댄스로 미묘하게 바꿔 만들어졌습니다. 결정 포즈(決めポーズ)가 중요하므로「Daisuke!」부분엔 키를 두드리지 않고 용기를 내서 똑같이 포즈를 취한다면 은폐곡 같은건 나올리가 없겠네요! 그럼.
+
+VJ GYO / MOVIE
+
+이 무비에 대해서 말하자면,
+
+{{{+2 「Dai쨩 고마웟!」}}}
+
+이라고 한마디 더합니다.||
+
+==== [[댄스 에볼루션]] ====
+||[wiki:"SUPER STAR 満-MITSURU-" 기 다 리 게 했 군 !]
+
+아, 이거 [wiki:"TAG" 다른 사람]의 떡밥이었지요.
+
+그런 이유로 댄스 에볼루션에 Daisuke가 왔습니다.
+
+가동 당시부터 여러 곳에서 "아직입니까?"라는 말을 들을때마다 이리저리 답을 피했습니다만, 이번에 많은 리퀘스트를 받아 수록이 되었습니다.
+
+전에 수록된 [[Follow Tomorrow]]와 같이 IIDX의 무비 안무에 댄스 에볼루션용의 오리지널 안무를 가한, 스페셜버전으로 보내드립니다.
+
+꽤 업템포적인 곡이므로, 곡에 뒤처지지 않게 쿨하게 춤춰주세요!
+
+-Dai.-||
+
+=== 가사 ===
+I’m a country girl, 
+but you’re a super cityboy. 
+I’m a natural girl, 
+but you’re prince for me. 
+
+Everyday wondering how I become your girl. 
+Everynight, I’m feeling your body in my dreams. 
+I can’t sleep at all, hello, Morning sun. 
+My love, my crush, (I) wanna tell you my feeling. 
+
+Please tell me now, how do you feel me? 
+Please show me now. 
+I wanna dance with you more. 
+Right now, I want you’re one for you. 
+Everytime, everywhere, 
+I will surely get your honest love. 
+Daisuke... 
+
+Please tell me now, how do you feel me? 
+Please show me now. 
+I wanna dance with you more. 
+Right now, I want you’re one for you. 
+Everytime, (everynight,) everywhere, (everywhere,) 
+I will surely get your honest love. 
+Daisuke...
+
+=== 관련 영상 ===
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/B1zcDeYD_Io" frameborder="0" allowfullscreen></iframe>}}}
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/JCwDEvlOWN0" frameborder="0" allowfullscreen></iframe>}}}
+
+[[MMD]]로 안무 재현. [[니코니코 동화]]에 【MMD☆Daisuke選手権】라고 검색하면 각종 MMD 재현 영상들을 볼 수 있다.
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/CeSgChYqgj0" frameborder="0" allowfullscreen></iframe>}}}
+
+피아노 연주 영상
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/z3O9r1vYO18?list=UU_aFdQXLAB8C6_TCu1m1zBw" frameborder="0" allowfullscreen></iframe>}}}
+
+플레이어 DJ JON의 불러보았다 및 춤춰보았다 영상(...)

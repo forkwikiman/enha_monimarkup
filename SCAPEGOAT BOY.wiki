@@ -1,0 +1,73 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/qVJ-wzSlr2M?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/qVJ-wzSlr2M?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[동방 프로젝트]] 어레인지 곡. 원곡은 [[동방홍마향]]의 "죽은 왕녀를 위한 세프텟트", [[SOUND HOLIC]]이 어레인지 한 곡이다. 보컬은 Nana Takehashi.
+
+http://www.sound-holic.com/image/sdhc_rei_201302.jpg
+2013년 5월 26일 [[하쿠레이 신사 예대제]]에서 배포한 앨범 '환상 아라 모드 II'에 수록되었다.
+
+=== 가사 ===
+{{|
+"Welcome to the Scarlet Mansion. 
+There is no turning back now. 
+Make your choice, live or die..."
+
+There is a secret attraction Everyone get the addiction People who've ever seen, 
+they're not here anymore Oh, sorry, 
+won't you forget what I have just said?
+
+How many times have you come here? 
+Is it first time? 
+Yes, I know it Everyone is the one, who comes only one time Oh, baby, never ask me why!
+
+(※1) Everywhere is the haunted mansion Enter this scarlet faction Wheels of your cart, they close to the end Get a, Get a, Getaway! Hurry, Hurry, Hurry up! Welcome to the abyss on a roundabout
+
+(※2) Dance away, Show up tonight ♪ Crazy Parade of bloody love ♡ My fang aim for you, You're the game of my fang Aha, Good-night ☾ GOod-night ☾ Good-bye ☾ The end of your life ☠
+
+Play away, Party tonight ♪ Eerie Parade.. The whole world nightmare jus' sparks ☆ Why are you frightened so much? C'mon. Good boy. Good boy. Scapegoat boy I love you so...
+
+How do you feel this attraction? Have you got a cool sensation? People who've ever seen, maybe they feel like dance Oh sorry, I can't make sure how they felt the time
+
+While ago, why d'you be quiet? I want you just to enjoy here You know you are the one "the only 1-time guest"? Oh, Baby, don't be scared so much
+
+Repeat (※1) Repeat (※2)
+
+"Hurry back. Hurry back. I hope you decide to join us. We've been dying to have you..."
+
+Repeat (※2)
+
+My scapegoat boy, for bloody love, my scapegoat boy... My scapegoat boy, for bloody love, my scapegoat boy... 
+|}}
+
+== [[사운드 볼텍스]] ==
+사볼에서는 가사가 앞부분만 살짝 바뀌었다.
+{{|
+Welcome to the Scarlet Mansion →Welcome to Sound Voltex
+live or die→Come to me to crush!
+|}}
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||attachment:Example.jpg  ||attachment:Example.jpg  ||attachment:Example.jpg  ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 08}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0441}}} || {{{#orange 0784}}} || {{{#ff009f 1115}}} ||
+|| 일러스트 담당 || {{{#purple 月見堂}}} || {{{#orange 月見堂}}} || {{{#ff009f 月見堂}}} ||
+|| 이펙터 || {{{#purple ユカリ☆chan}}} || {{{#orange ユカリ☆chan}}} || {{{#ff009f ユカリ☆chan}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 01(2013.6.5)}}} ||
+|| [[BPM]] |||||| 165 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 02 A코스(2014.11.20 ~ 2014.12.26)
+  * EXHAUST : Skill Level 07 A코스(2014.12.26 ~ 2015.2.27)
+
+자켓은 '환상 아라 모드 II'의 자켓에서 약간 수정한 것을 쓴다.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/qYH0r8Ama9A?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/qYH0r8Ama9A?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 클리어 영상

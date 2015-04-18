@@ -1,0 +1,152 @@
+ * 상위 항목 : [[레노버 idea Phone S시리즈]]
+
+[[목차]]
+
+== 개요 ==
+중국의 [[스마트폰]] 제조사인 [[레노버]]의 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 브랜드인 [[레노버 idea Phone S시리즈|idea Phone S시리즈]]의 800번대 제품 목록.
+
+== 소속 기기[* [[http://appserver.lenovo.com.cn/Lenovo_Mobile_Series_List.aspx?CategoryCode=A25B02 레노버 공식 홈페이지]]의 오래된 순.] ==
+ * S880
+  * S800i
+ * S899t
+ * S890
+ * S870e
+ * S868t
+ * S820
+
+[[각주]]
+
+=== 레노버 S880 ===
+http://pdadb.net/img/lenovo_s880.jpg
+
+==== 개요 ====
+[[레노버]]가 2011년 -월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6577 [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]], PowerVR SGX531 522 MHz [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 2250 mAh ||
+||[[운영체제]]||[wiki:"안드로이드(OS)/버전" 안드로이드] 4.0 (Icecream Sandwich)[[br]]레노버 LeOS UI ||
+||규격||78 x 142 x 9.9 mm, 196 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+
+==== 상세 ====
+5.0인치에 WVGA 해상도를 탑재한 흔한 눈 테러(...) [[스마트폰]]이다.
+
+==== 레노버 S880i ====
+색상이 다양화된 파생 모델이다. 사양은 동일한 수준이다.
+
+[[각주]]
+
+=== 레노버 S899t ===
+http://pdadb.net/img/lenovo_lephone_s899t.jpg
+
+==== 개요 ====
+[[레노버]]가 2011년 -월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||ST에릭슨 NoveThor U8500 [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]], [[ARM Mali]]-400 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[TD-SCDMA]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[wiki:"안드로이드(OS)/버전" 안드로이드] 4.0 (Icecream Sandwich)[[br]]레노버 LeOS UI ||
+||규격||68.8 x 133 x 9.9 mm, 150 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+[[차이나모바일]] 내수용 모델이다.
+
+[[각주]]
+
+=== 레노버 S890 ===
+http://pdadb.net/img/lenovo_lephone_s890.jpg
+
+==== 개요 ====
+[[레노버]]가 2011년 -월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6577 [[SoC]]. [[ARM Cortex-A9]] MP2 1 GHz [[CPU]], PowerVR SGX531 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 2250 mAh ||
+||[[운영체제]]||[wiki:"안드로이드(OS)/버전" 안드로이드] 4.0 (Icecream Sandwich)[[br]]레노버 LeOS UI ||
+||규격||74.2 x 143 x 9.3 mm, 176 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+
+==== 상세 ====
+평범한 [[패블릿]] 스마트폰이다.
+
+[[각주]]
+
+=== 레노버 S870e ===
+http://appserver.lenovo.com.cn/goodspic/A25B02/A2500018938-1-1.jpg
+
+==== 개요 ====
+[[레노버]]가 2011년 -월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Play MSM8625 [[SoC]]. [[ARM Cortex-A5]] MP4 1.2 GHz [[CPU]], 퀄컴 Adreno 203 [[GPU]] ||
+||[[메모리]]||768 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"GSM" GSM & EDGE], [wiki:"CDMA2000" CDMA & EV-DO Rev.A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[wiki:"안드로이드(OS)/버전" 안드로이드] 4.0 (Icecream Sandwich)[[br]]레노버 LeOS UI ||
+||규격||68.4 x 132.4 x 9.9 mm, 155 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+
+==== 상세 ====
+[[차이나텔레콤]] 내수용 모델이다.
+
+[[각주]]
+
+=== 레노버 S868t ===
+http://appserver.lenovo.com.cn/GoodsPic/A25B02/A2500019245-1-7008-1.jpg
+
+==== 개요 ====
+[[레노버]]가 2011년 -월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||--[[SoC]], 1.2 GHz [[CPU]],  LC1810 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||5.0인치 [wiki:"해상도/일람" qHD](960 x 540) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[TD-SCDMA]], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 30만 화소, 후면 800만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[wiki:"안드로이드(OS)/버전" 안드로이드] 4.0 (Icecream Sandwich)[[br]]레노버 LeOS UI ||
+||규격||76.9 x 144.5 x 9.9 mm, 160 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+
+==== 상세 ====
+[[차이나모바일]] 내수용 모델인 평범한 [[패블릿]] 스마트폰이다. 이 모델은 듣도보지도 못한 LC1810이라는 GPU를 사용했다고 한다.
+
+[[각주]]
+
+=== 레노버 S820 ===
+http://pdadb.net/img/lenovo_lephone_s820.jpg
+
+==== 개요 ====
+[[레노버]]가 2011년 -월에 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[wiki:"SoC" 프로세서]||[[MediaTek]] MT6589 [[SoC]]. [[ARM Cortex-A7]] MP4 1.2 GHz [[CPU]], PowerVR SGX544 357 MHz [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.66인치 [wiki:"해상도/일람" HD](1280 x 720) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||전면 130만 화소, 후면 1,300만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-Ion 2000 mAh ||
+||[[운영체제]]||[wiki:"안드로이드(OS)/버전" 안드로이드] 4.2 (Jelly Bean)[[br]]레노버 LeOS UI ||
+||규격||69.5 x 139.5 x 8.9 mm, -- g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+==== 상세 ====
+1,300만 화소 후면 카메라를 탑재한 스마트폰이다.
+
+[[각주]]

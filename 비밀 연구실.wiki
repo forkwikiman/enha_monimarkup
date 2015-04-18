@@ -1,0 +1,20 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Arcane Laboratory''' ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/49059_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''비밀 연구실''' ||
+|| '''마나비용''' || {2}{U} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 부여마법 ||
+||||<height=190px>각 플레이어는 매 턴 한 개를 초과해서 주문을 발동할 수 없다.
+
+''Too many wizards spoil the spell, but too many spells spoil the wizard.
+—Sign on entry to arcane lab''||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| [[Urza's Saga]] || 언커먼 ||
+|||| 7th Edition || 언커먼 ||
+
+카운터 덱의 주요 락킹 카드. 위니고 뭐고 이거 한장이면 이 카드 부수기 전까지는 카운터 덱과의 상대에서 제대로 전투하기 힘들다. 자기 턴에 한장 꺼낸 카드를 카운터로 무효화 시켜버리면 아무것도 못하고 미리 꺼내둔 카드의 활성화능력을 이용하면 모를까 상대에게 턴을 넘겨주게 된다는 점에 주목해 많은 사람들이 [[Isochron Scepter]] + [[Counterspell]], [[Forbid]] 등과의 조합도 자주 시도되었으나 그 정도 까지의 가치는 없다. 
+
+차라리 [[Fact or Fiction]]이나 [[Stroke of Genius]] 등으로 카드수의 우위를 접하는 쪽이 이득. 오히려 스톰 콤보 견제용으로 사용되고는 했는데, 3cc라는 비싼 가격과 청색에는 이보다 더 효율적이 답이 있다는 것 때문에 잊혀진 카드가 되었다.
+
+이후 [[Mirrodin]]에는 [[Rule of Law]]가 [[테로스]]에서는 [[웅변의 에이돌론]]이 같은 능력을 가지고 나왔다. 

@@ -1,0 +1,105 @@
+[[목차]]
+
+[[include(틀:스타크래프트 2/테란)]]
+
+attachment:/TaurenMarine_SC2_Art1.jpg [* 우측 어깨 상단에 쓰여진 USDA는 United States Department of Agriculture, 즉 미 농림부다. 그 밑에 Mad Cow는 알다시피... 그리고 총에 적힌 udder는 소나 염소의 [wiki:"유방" 젖통]을 말한다.]
+
+== 개요 ==
+구 [[테란 연방]]에선, 해병들은 강제적으로 재사회화를 받은 범죄자나 반란분자들로 구성되었다. 이전에 가지고 있던 충성심이나 사상 따위는 모두 잊어버린 이 병사들은 목숨바쳐 연방을 지켰지만 때로 경범죄, [wiki:"반달리즘" 기물 파괴]를 일으키고 , 심지어 식인행위까지 보이기도 했다. 연방 당국은 계속해서 이런 방식으로 신뢰할 만한 병사들을 징발할 수 없었다.
+
+외딴 행성 [[아제로스]]는 많은 인간, 돌연변이, 이종족등이 끊임없이 대립하는 곳이었다. 그 중 가장 눈에 띄는 자들은 초인적인 체력, 압도적인 전투 능력, 특이한 약초학 지식을 지닌 소 유전자형의 이종족 [[타우렌]]이었다.
+
+대부분의 타우렌들이 그들의 농업문화와 원시사회에 만족하고 있었지만, 연방은 모험과 위험을 미끼로 많은 젊은 타우렌들을 미지의 우주로 끌어내는데 성공했다. 타우렌들은 이런 모험자들을 '미친 소들'이라고 부르며 타우렌 사회에서 소외시켰다. 타우렌 해병들은 [[멀고어]]에서 기습 부대로 훈련됐다. 이리하여 새로 창설된 타우렌 해병대는 연방군에 없어서는 안될 병력이 되었으며, 전통적으로 [wiki:"화염방사병(스타크래프트)" 화염방사병(Fire-Bat)]들을 비롯한 다른 보병들이 하던 자리를 대체했다.
+
+가끔 타우렌 해병들은 [[멀록]]이라고 불리는 작은 생명체와 함께 있는게 목격된다. 멀록들이 용병인지 아니면 마스코트인지는 알 수 없다. 멀록들이 총을 들고 있는 것으로 보아 용병쪽에 가깝지 않을까 추측된다. 
+
+[[youtube(LFaT2lzbv6o)]]
+타우렌 해병들은 소수로도 순식간에 적들을 고기덩이로 갈아버릴 정도로 강력하다.
+
+
+...사실은 [[블리자드]]의 사내 밴드 [[L70ETC]]의 앨범 <Terran up the Night>의 커버 그림에서 출발한 [[만우절]] 기념용 유닛이었지만, 스타크래프트2에도 등장한다.[* 블리자드는 [[워크래프트3]]에서도 [[히드라리스크]]를 등장시킨 적이 있다.] 스타2 테란 3번째 미션 "0시를 향하여" 에서 11시방향 저그기지 오른쪽 상단에 "80레벨 타우렌 해병"이 한마리 등장한다. 그런데 가까이 가면 무적상태인 타우렌 화장실로 들어가서 3초 카운트 다운 후 날아가 버린다.
+
+이후 공허의 나락미션중 그 화장실이 날아다니는게 보인다. 미션 종료후 히페리온 창 밖에도 날아다닌다. 또한 비밀 미션도중 수족관인지 바이오 리엑터인지 알수없는것들을 잘 살펴보면 표본으로 보존되어 존재한다. 비밀 미션인 '장막을 뚫고'나 비밀작전 임무 두번째에 해당하는 '정글의 법칙' 8시 부근의 수풀림에서는 멀록 해병이 등장한다. 그리고 장막을 뚫고 에서도 화장실이 날아다닌다.
+
+군단의 심장에선 나루드 박사의 연구소를 털다보면 디아블로와 함께 사이좋게 붙잡혀있다.
+
+사족이지만 RTS에 나오는 그 작은 타우렌 해병의 렌더링이 RPG인 월드 오브 워크래프트 본편에 나오는 타우렌 PC의 렌더링보다 질이 좋다(…). 타우렌의 렌더링은 오리지널 때나온 종족들(오크, 인간, 드워프 등) 중에서도 유난히 구리다는 평을 듣기 때문에 플레이어 캐릭터 모델링을 개선해 달라는 목소리를 한층 크게 만들었다.
+== 유닛대사 ==
+{{{#!html
+<embed src="http://www.youtube.com/v/qArdx9Iy4PY?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+
+{{{#!html
+<embed src="http://www.youtube.com/v/XSh29WRSwmk?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+||"Here's the beef."
+"This ain't no bull. I'm in trouble!"[* Bull=거짓말]
+"Got zerg on the left flank.[* flank는 군사용어로는 "측면", 일반적으로는 "옆구리"를 의미한다.]"
+"Milked up and good to go."[* 해병의 Checked up and good to go.]
+"Are you gonna give me udders?[* udder=소젖 해병 버전은 Are you gonna give me orders? 명령을 내리실 겁니까?]"
+"This cod piece gives me tender-loins."
+"Name's T-bone. Chuck T-bone."[* 제임스 본드의 명대사 "The Name's Bond. James Bond."를 패러디. Chuck은 Charles의 줄인 표현이기도 하지만, 쇠고기의 경우 부채살을 뜻한다.]
+"You will call me sir....loin.[* 군대에서 상관들이 항상 Sir를 붙이라고 한다. 하지만 Sirloin은 '''등심''']"
+"Nice rack. Ate it.[* 갈비]"
+"Call me leather neck."[* 레더넥은 미해병이나 영국 해병의 별칭이다.]
+"What's up beef jerky."
+"Beefy."
+"I'll hoof it from here."
+"'''Don't have a cow, man.'''[* 화내지 말라는 뜻의 영어 숙어. [[바트 심슨]]의 초반 말버릇이기도 했다.]"
+"Give me something to chew.[* 해병은 Give me something to shoot.라고 말한다.]"
+"Don't prod me boy.[* Prod는 찌르다라는 뜻이다.]"
+"Steer me this way."
+"You are the matador."
+"'''Mooooo'''ve."
+"Stop staring at me like I'm some piece of meat."
+"Head 'em up, move 'em out."
+"Moooove out."
+"[wiki:"코와붕가" '''Cow-a-bunga'''.]"
+"Bull's eye."
+"For the....wait. Go! Go! Go!"
+"Stampede!"
+"He called my mama the '''cow'''."
+"You mess with the bull you get the horns."
+"So my astrologer says that I'm stubborn, undependable, and blessed with (pun intended) steadiness."
+"She also said my lottery numbers were 4-29-19-78. I haven't won yet."
+"My favorite band? Level 80 Elite Horn Chieftain and the Jonas Brothers of course."
+"You want a piece of me boy?"
+"You want a piece of meat boy?"
+"Well good. I've got '''flank, shank, rib-eye, brisket'''. Take your pick."
+"It's been a long time since I've had good milking.[* 숫소란걸 잊지말자.]"
+"How do I get out of this bullsh*Moo* outfit."||
+
+||- 등장 : "[wiki:"아제로스"행성]에서 왔소[* 듣다보면 '''[wiki:"몬데그린"횡성]'''에서 왔소로 들린다 --[[횡성]] 한우?--]."
+
+- 선택
+"'''우유 준비 완료!'''"[* 위 이미지의 [[고간]]부위 표기(...)와 연관지어 생각해보면 몹시 불건전하다. ~~[[부왘]]~~] / "한 번 쥐어짜 볼까요?" / "제가 왔으니 '''안심'''입니다!"
+"예! 제 이름은 [wiki:"T본" 티본] ["스테이크"스텍]입니다!" / "소씨라고 불러주십쇼." / "'''살집 죽이죠?'''"
+"[wiki:"차돌박이" 차돌]처럼 단단합니다!" / "네, 소두목님."[* Tauren Chieftain, 즉, 와우에서의 타우렌 족장[[타우렌 칩튼]]을 의미하는 대사인듯 싶다. 하지만 이것에 해당되는 영어 대사는 '''What's up beef jerky?'''이다. 로컬라이징을 하면서 바꾼듯.] / "튼실합니다." / "네, [[wiki:"소도구" 소도굽]]니다."
+
+- 이동
+"코를 꿰주겠습니다." / "제 '''귀에 경 읽지''' 마십쇼." / "뭔가 '''되새길''' 건 없습니까?" / "자꾸 몰아대지 마십쇼."
+"'''소몰이 창법'''으로 해주십시요." / "대단한 투'''牛'''사로군요." / "음메에에~ 커흠, 갑시다."
+"'''저 보고 입맛 다시지 마십쇼!'''" / "가자~ [wiki:"소몰이창법" 워우워어어]" / "우우우~ㅁ 직여~"[* 디아블로 3에서 젖소왕의 대사로 셀프패러디 되었다. '''우우ㅜㅜ~~~~ㅁ 직여라.''' 이는 영어에선 소의 울음소리를 Moo~ 라고 표현하기 때문에 Mooooo~ve 라고 하는것을 초월번역한것.]
+
+- 공격
+'''"牛랏차차!"''' / "내가 '''[[소]]'''겠소!" / "호드를 위하… 아니지, 자, 자 빨리빨리!"[* 본래 영어 대사는 '''For the- Wait... GO GO GO!''' 물론 이 go, go, go는 스타크래프트1에서부터 유명한 그 대사. 2편에서도 그대로 나왔고 한국판에서는 "자 빨리빨리!"로 번역되었다. 타우렌 해병도 그대로 계승.]
+"'''쿵 쿵 따!'''[* 워크래프트3의 타우렌 유닛의 특수능력 "펄버라이즈"와 [[타우렌 칩튼]]의 특수능력 "워 스톰프(와우에서는 전투 발구르기라 번역함)"를 유저들이 쿵쿵따라고 불렀다. ~~코프룰루를 분쇄하는 공포의 쿵쿵따~~]" / "저놈이 나보고 '''소자식'''이랬소!"
+
+- 반복 선택
+"황소를 화나게 하면 뿔에 받히기 마련이죠!"[* 월드 오브 워크래프트의 타우렌 남캐 /농담의 셀프 패러디.]
+"점쟁이가 그러는데 제가 '''홍두깨'''같은 소리를 가끔하고 좀 '''우둔'''하긴 해도 '''황소고집'''이라서 뚝심 하나는 끝내준다더군요! 행운의 숫자는 4-29-19-78이라는데 아직 그걸로 덕 본 적은 없습니다.[* 미드 [[LOST]]에 나오는 유명한 떡밥의 패러디.]"
+"제일 좋아하는 음악가요? 당연히 [wiki:"L70ETC" 80레벨 정예 타우렌 족장]이랑 '''[wiki:"사울팽" 소울팽]'''이죠!"
+"한 판 붙어볼까, 애송이?"[* [wiki:"해병(스타크래프트)" 해병]의 대사와 같다.] / "맛좀 볼래? 엉!?"[* "한판 붙어볼까, 애송이?", "맛좀 볼래? 엉!?"은 둘다 [wiki:"해병(스타크래프트)" 해병]의 대사를 패러디 한 것이지만, 이 패러디의 의미는 본래 영어 대사에서 자세하게 알 수 있다. 이 둘의 본래 대사는 '''"한판 붙어볼까, 애송이?" = "You want a piece of me boy?, "맛좀 볼래? 엉!?" = "You want a piece of meat boy?"'''이다. 스타1 당시 마린의 생산 대사가 '''me이냐 meat이냐''' 논란이 많았었고, 그 패러디와 함께 진짜로 '''Piece of Meat'''(소고기니까;;)를 원하냐는 대사로 패러디한 것이다. 이렇게 생각해보면 "맛좀 볼래? 엉!?"은 그 맛이 아니라. 진짜 고기'''맛'''을 뜻함을 알 수 있다.] / "그럼 좋다, '''채끝, 꽃등심, 살치살, 안창살'''이 있다. 골라라!"
+"'''짤테면 짜봐!'''" / "아유~ 전투복 뜨거워! --솥뚜껑--소뚜껑 열리겠네!"[* 본래 해당되는 영어 대사는 "How do I get out of this bullsh*Moo*t outfit?". 스타1에서 마린의 반복대사중 하나인 "How do I get out of this chicken*Beep*(shit) outfit?"= "이 개같은 옷을 어떻게 벗지?"를 패러디한 대사이다. Chicken*Beep* 부분이 bull*Moo*(bullshit과 Beep를 울음소리인 Moo)로 적절히 패러디 하고 있다.]
+
+- 교전 : "'''사태'''가 좋지 않습니다!"[* 한국어 더빙판 레이너의 대사 패러디로 추측. 레이너는 '''상황이 좋지 않군.'''이라 한다. 그와 동시에 소고기 부위중 하나인 '사태'를 의미하기도 하는 이중적인 말장난.] / '''"["러시아식 유머" 저그가 제 갈비를 뜯습니다!]"'''
+
+- 사망 :  "이제 푸줏간으로 가겠군." / "내가....'''젖소...".'''||
+
+성우는 [[한상덕]], 당연하지만 [[월드 오브 워크래프트]]의 [[타우렌]]과 성우가 같다. 클릭시 대사가 상당히 재미있다. 온갖 언어유희가 들어가 있는데 한국판도 초월더빙… 아니 아예 알아서 대사를 창조했기 때문에 대사 하나하나가 빵 터지는 물건이다. 
+또한 감염충의 신경 기생충 기술로 조종당할 경우, 다른 유닛은 '군단을 위하여(For the Swarm)'라는 대사를 하는데 타우렌 해병만 '[[호드]]를 위하...아니, 군단을 위하여!'라고 말한다.
+
+자매품(?)으로 [[나이트 엘프]] [[밴시]]와 [[디아블로]] 해병이 있다.[http://www.warhammerkorea.com/zbxe/files/attach/images/1689/850/700/549212_2.jpg 링크]
+
+
+[[각주]]

@@ -1,0 +1,23 @@
+ * 이 문서는 [[의정부 경전철]]의 하위문서이다. 파란 칸은 지상역임을 표시하는 것.
+ * 송산역, 어룡역은 '''[[북한]]'''에 동명이역(…)이 있다.
+ * 116번 역이 빠진 이유는 1호선과의 환승역 신설 문제 때문이라고 한다. [http://cafe.daum.net/kicha/ANo/21826 참조]
+ * [[탑석역]]은 [[서울 지하철 7호선]] 연장구간과 환승 계획 논의중.
+
+||<|2> 역번 ||<|2> ㎞ ||||<|2> 역명 |||| 승강장 ||<|2> 환승노선 ||<|2> 소재지 ||
+|| 형태 || 횡단 ||
+||<#ccffff>U110 ||<#ccffff>0.0 ||<#ccffff>[wiki:"발곡역" 발　곡] ||<#ccffff>鉢　谷 ||<#ccffff> {{{#c0c0c0 ■│}}}│■ ||<#ccffff>○ ||<#ccffff>　||<|16>의정부시 ||
+||<#ccffff>U111 ||<#ccffff>0.8 ||<#ccffff>[wiki:"회룡역" 회　룡] ||<#ccffff>回　龍 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>{{{#0d3692 ●}}} [wiki:"서울 지하철 1호선" 1호선] ||
+||<#ccffff>U112 ||<#ccffff>1.4 ||<#ccffff>[wiki:"범골역" 범　골] ||<#ccffff>　||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U113 ||<#ccffff>2.4 ||<#ccffff>[wiki:"경전철의정부역" 의정부] ||<#ccffff>輕電鐵議政府 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U114 ||<#ccffff>3.3 ||<#ccffff>[wiki:"의정부시청역" 시　청] ||<#ccffff>議政府市廳 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U115 ||<#ccffff>3.9 ||<#ccffff>[wiki:"흥선역" 흥　선] ||<#ccffff>興　宣 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U117 ||<#ccffff>5.1 ||<#ccffff>[wiki:"의정부중앙역" 중　앙] ||<#ccffff>議政府中央 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U118 ||<#ccffff>5.8 ||<#ccffff>[wiki:"동오역" 동　오] ||<#ccffff>東　梧 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U119 ||<#ccffff>6.5 ||<#ccffff>[wiki:"새말역" 새　말] ||<#ccffff>　||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U120 ||<#ccffff>7.2 ||<#ccffff>[wiki:"경기도청북부청사역" 경기도청북부청사] ||<#ccffff>京畿道廳北部廳舍 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U121 ||<#ccffff>7.8 ||<#ccffff>[wiki:"효자역(의정부경전철)" 효　자] ||<#ccffff>孝　子 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U122 ||<#ccffff>8.6 ||<#ccffff>[wiki:"곤제역" 곤　제] ||<#ccffff>昆　弟 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U123 ||<#ccffff>9.5 ||<#ccffff>[wiki:"어룡역(의정부경전철)" 어　룡] ||<#ccffff>漁　龍 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U124 ||<#ccffff>10.1 ||<#ccffff>[wiki:"송산역(의정부경전철)" 송　산] ||<#ccffff>松　山 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+||<#ccffff>U125 ||<#ccffff>10.6 ||<#ccffff>[wiki:"탑석역" 탑　석] ||<#ccffff>塔　石 ||<#ccffff> ■││■ ||<#ccffff>○ ||<#ccffff>　||
+

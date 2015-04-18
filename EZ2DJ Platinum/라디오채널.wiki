@@ -1,0 +1,137 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ Platinum]] 관련 정보''' ||
+|| [[EZ2DJ Platinum/수록곡|수록곡]] || [[EZ2DJ Platinum/삭제곡|삭제곡]] || [[EZ2DJ Platinum/라디오채널|라디오채널]] || [[EZ2DJ Platinum/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ Platinum]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2DJ PT/라디오채널]], [[EZ2DJ 5th/라디오채널]]로도 들어올 수 있다.
+ * 각 채널에 대한 설명은 [[EZ2DJ/라디오채널 일람]]의 하위 문서를 참고.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=d_clearguide&no=369]
+  * [http://web.archive.org/web/20050126072101/http://bb100.nalove.org/ez2dj/5th/channel.html]
+
+[[목차]]
+== 5Radio Mix ==
+=== 기본 채널 ===
+||||<tablewidth=600px> '''Dance Pop Highlights''' |||| Lv.5 ||
+|| 1 ||[[Stay]]|| NM || 403 ||
+|| 2 ||[[I've Fallen]]|| NM || 365 ||
+|| 3 ||[[Night Madness]]|| NM || 631 ||
+|| 4 ||[[We Luv Music]]|| HD || 572 ||
+|| ||||||BERA에서 6으로 상향되었다.||
+|||| '''Acid Groove Channel''' |||| Lv.6 ||
+|| 1 ||[[Cellavue]]|| NM || 240 ||
+|| 2 ||[[Any way you want it]]|| NM || 445 ||
+|| 3 ||[[I've got this feeling]] (DJ.FE Restless Acid Soul Mix)|| NM || 537 ||
+|| 4 ||[[Sparrow]]|| HD || 694 ||
+|||| '''M.D.B.T.''' |||| Lv.7 ||
+|| 1 ||[[Exist]]|| HD || 559 ||
+|| 2 ||[[Blue]]|| HD || 696 ||
+|| 3 ||[[Unknown H2]]|| HD || 563 ||
+|| 4 ||[[Special K]]|| NM || 213 ||
+|||| '''Hard Beat Underground''' |||| Lv.9 ||
+|| 1 ||[[R.F.C.]]|| NM || 817 ||
+|| 2 ||[[Riff Guy]]|| NM || 703 ||
+|| 3 ||[[Q Factor]]|| NM || 613 ||
+|| 4 ||[[Climax]]|| NM || 1050 ||
+|||| '''Digital Sound Trip''' |||| Lv.11 ||
+|| 1 ||[[JMJ]] (DFC Space Gear Re-formation)|| HD || 806 ||
+|| 2 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| HD || 972 ||
+|| 3 ||[[Panic Strike]]|| NM || 865 ||
+|| 4 ||[[Back to Bed]]|| NM || 600 ||
+|||| '''T3 - Techno Trance Terminal''' |||| Lv.13 ||
+|| 1 ||[[Night Madness]]|| HD || 742 ||
+|| 2 ||[[Weird Wave]]|| NM || 679 ||
+|| 3 ||[[Zeroize]]|| HD || 1090 ||
+|| 4 ||[[Minus 1 ~Space Mix~]]|| HD || 873 ||
+|| ||||||BERA에서 12로 하향되었다.||
+|||| '''Random Channel''' |||| Lv.? ||
+|| 1 ||<|4>노멀 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 1차 히든 채널 ===
+||||<tablewidth=600px> '''Remix Channel''' |||| Lv.? ||
+|| 1 ||[[I've got this feeling]] (DJ.FE Restless Acid Soul Mix)|| HD || 769 ||
+|| 2 ||[[JMJ]] (DFC Space Gear Re-formation)|| HD || 806 ||
+|| 3 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| || ||
+|| 4 ||[[I've Fallen]] (Hot Dog Boogie Groove Mix)|| || ||
+|| ||||||BERA에서 9로 책정되었다.||
+|||| '''Hard Random''' |||| Lv.? ||
+|| 1 ||<|4>하드 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 2차 히든 채널 ===
+||||<tablewidth=600px> '''Platinum Channel''' |||| Lv.? ||
+|| 1 ||[[Stay]]|| 3rd HD || ||
+|| 2 ||[[Say That U]]|| HD || ||
+|| 3 ||[[Black Market]]|| HD || ||
+|| 4 ||[[Lovely Day]]|| HD || ||
+|| ||||||플래티넘에서는 Stay 하드를 고르면 Stay (Radio Edit)이 뜨기 때문에, 3rd에서 추가되었던 엇박페달 Stay 하드를 플레이할 수 있는 곳은 이 채널이 유일하다. 게이지가 잘 오르지 않고, 잘 깎인다. 더불어 굿 판정이 넓은편. BERA에서 8로 책정되었다.||
+|||| '''12+ - Twelve Plus''' |||| Lv.? ||
+|| 1 ||[[20000000000]]|| HD || 1156 ||
+|| 2 ||[[Panic Strike]]|| HD || 1060 ||
+|| 3 ||[[Zeroize]]|| SHD || 1252 ||
+|| 4 ||[[Fire Storm]]|| SHD || 1338 ||
+|| ||||||플래티넘의 보스채널. 채널 명칭은 플래티넘 당시 난이도가 12 이상인 곡들만 모아둔 것에서 유래하였다. 7th에서 14로 책정되었다.||
+
+== 7Radio Mix ==
+=== 기본 채널 ===
+||||<tablewidth=600px> '''VJ-Shukei''' |||| Lv.5 ||
+|| 1 ||[[Lovely Day]]|| HD || 502 ||
+|| 2 ||[[Memories(EZ2DJ)|Memories]]|| EZ || 576 ||
+|| 3 ||[[Delight]]|| EZ || 640 ||
+|| 4 ||[[Look Out]]|| HD || 472 ||
+|||| '''VJ-S.R.''' |||| Lv.6 ||
+|| 1 ||[[느낌]]|| NM || 449 ||
+|| 2 ||[[2nd Jewel]]|| NM || 569 ||
+|| 3 ||[[Lie Lie]]|| HD || 733 ||
+|| 4 ||[[Judgement]]|| HD || 540 ||
+|||| '''DJ-Eridanus''' |||| Lv.7 ||
+|| 1 ||[[느낌]]|| NM || 449 ||
+|| 2 ||[[Any way you want it]]|| NM || 488 ||
+|| 3 ||[[Riff Guy]]|| EZ || 581 ||
+|| 4 ||[[Cellavue]]|| NM || 334 ||
+|||| '''DJ-FE''' |||| Lv.8 ||
+|| 1 ||[[Spotlight]]|| NM || 533 ||
+|| 2 ||[[I've got this feeling]] (DJ.FE Restless Acid Soul Mix)|| NM || 648 ||
+|| 3 ||[[Memories(EZ2DJ)|Memories]]|| NM || 643 ||
+|| 4 ||[[JMJ]] (DFC Space Gear Re-formation)|| NM || 793 ||
+|||| '''DJ-Joyrock&Bigduck''' |||| Lv.9 ||
+|| 1 ||[[Unknown H2]]|| EZ || 530 ||
+|| 2 ||[[Night Madness]]|| EZ || 647 ||
+|| 3 ||[[Weird Wave]]|| NM || 677 ||
+|| 4 ||[[I've Fallen]] (Hot Dog Boogie Groove Mix)|| NM || 355 ||
+|||| '''VJ-imp17''' |||| Lv.10 ||
+|| 1 ||[[Aquaris]]|| NM || 856 ||
+|| 2 ||[[JMJ]] (DFC Space Gear Re-formation)|| HD || 807 ||
+|| 3 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| NM || 851 ||
+|| 4 ||[[Delight]]|| EZ || 640 ||
+|||| '''VJ-Necobus''' |||| Lv.11 ||
+|| 1 ||[[Mad Robot]]|| HD || 918 ||
+|| 2 ||[[Q Factor]]|| NM || 677 ||
+|| 3 ||[[Climax]]|| HD || 1173 ||
+|| 4 ||[[Panic Strike]]|| EZ || 803 ||
+=== 1차 히든 채널 ===
+||||<tablewidth=600px> '''DJ-Forte Escape''' |||| Lv.? ||
+|| 1 ||[[Aquaris]] (Physical Inspiration Hyper Blue Mix)|| HD || 893 ||
+|| 2 ||[[Q Factor]]|| NM || 677 ||
+|| 3 ||[[Panic Strike]]|| EZ || 803 ||
+|| 4 ||[[Zeroize]]|| EZ || 871 ||
+|||| '''VJ-Kkashi''' |||| Lv.? ||
+|| 1 ||[[Riff Guy]]|| NM || 733 ||
+|| 2 ||[[Eye of Beholder]]|| HD || 945 ||
+|| 3 ||[[Metagalatic G - 1000]]|| HD || 966 ||
+|| 4 ||[[2nd Jewel]]|| RD || 569 ||
+=== 2차 히든 채널 ===
+||||<tablewidth=600px> '''VJ-Ache''' |||| Lv.? ||
+|| 1 ||[[Unknown H2]]|| HD || 572 ||
+|| 2 ||[[Black Market]]|| OM || 873 ||
+|| 3 ||[[Zeroize]]|| SEZ || 696 ||
+|| 4 ||[[Complex]]|| SHD || 1054 ||
+|||| '''Professional-Minan''' |||| Lv.? ||
+|| 1 ||[[Fire Storm]]|| SHD || 1123 ||
+|| 2 ||[[Zeroize]]|| HD || 1128 ||
+|| 3 ||[[Panic Strike]]|| HD || 1078 ||
+|| 4 ||[[20000000000]]|| SHD || 1118 ||
+|| ||||||7키 라디오의 보스채널. 곡의 순서는 12+와는 정 반대이다.이후 재수록될때는 난이도가 14로 책정되었다.||

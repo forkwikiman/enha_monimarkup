@@ -1,0 +1,56 @@
+|||||||||||||| HIP ROCK 시리즈 ||
+|| 1 || 2 || 3 || 4 || 5 || 3.5 || 6 ||
+|| [[大見解]] || [[男々道]] || [[雪上断火]] || [[路男]] || [[一激必翔]] || '''差無来!!''' || [[火風陸空]] ||
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[Des-ROW]]. 제목은 [[사무라이]]와 발음이 같은 것을 이용한 말장난이다.
+
+[[목차]]
+
+== 기타프릭스 & 드럼매니아 ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/pOoQ23jSnXY&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/pOoQ23jSnXY&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||| [GITADORA] 난이도 체계 ||
+||<|5><:> 168-210 ||<|2><:> 기타 표준 || {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} ||
+|| {{{#green 24}}} || {{{#orange 47}}} || {{{#red 73}}} ||<|2><:> {{{#blue 4.60}}} ||<|2><:> {{{#orange 5.45}}} ||<|2><:> {{{#red 7.50}}} ||
+|| 기타 오픈픽 || {{{#green 27}}} || {{{#orange 48}}} || {{{#red 77}}} ||
+|| 기타 베이스 || {{{#green 21}}} || {{{#orange 45}}} || {{{#red -}}} || {{{#blue 3.95}}} || {{{#orange 5.80}}} || {{{#red 6.95}}} || 
+|| 드럼매니아 || {{{#green 28}}} || {{{#orange 63}}} || {{{#red 92}}} || {{{#blue 4.90}}} || {{{#orange 6.30}}} || {{{#red 8.10}}} || 
+
+첫 수록은 V3의 대회 해금곡.
+
+[[大見解]]를 시작으로 한 Des-ROW식 힙락 중 하나인데, 다른 힙락들이 [[팝픈뮤직]]에 먼저 나온 것에 비해서 이 곡은 기타드럼 시리즈에 첫 등장. 물론 누가 Des-ROW 곡 아니랄까봐 채보가 더러운건 이 곡도 여전하다.(...)
+
+드럼매니아에서 [[최후반살인]]을 경험할 수 있는 몇 안되는 곡 중 하나.
+
+기타프릭스 & 드럼매니아 [[XG3]]에서는 Pleasure Box 해금곡으로 등장했는데, 후살에서 베이스 하나로만 처리하던게 더블 베이스로 바뀌어서 처리하기 더 애매해졌다. 어찌보면 [[REALIZE]]의 열화판 수준. 그럼에도 난이도는 '''7.80.''' 이 후 GITADORA에서 8.10으로 올랐지만 그래도 사기 난이도라는 평.
+
+BGA는 코노 마사노리(幸野正典), 일러스트는 [[浮舟]]의 BGA를 그렸던 テリヤキ(大阪土壽田頭照焼) 담당. BGA엔 사무라이가 나온다.
+
+== [[팝픈뮤직]] ==
+
+|||||||||||||| [[팝픈뮤직]] 악곡 정보 ||
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 18[[br]]전국열전 || HIP ROCK 3.5[[br]]힙락 3.5 || 差無来!! || [[wiki:"Des-ROW"Des-ROW・組]] || 六[[br]]로쿠 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> '''168-210''' || 43단계 || {{{#blue 16}}} || {{{#green 20}}} || {{{#orange 34}}} || {{{#red 41}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 26}}} || {{{#orange 40}}} || {{{#red 47}}} ||
+|||| 노트수 || {{{#blue 370}}} || {{{#green 409}}} || {{{#orange 773}}} || {{{#red 1203}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/yljsS19cP2c" frameborder="0" allowfullscreen></iframe>
+}}}
+정배치 영상
+
+{{{#!html
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm10910244"></script><noscript><a href="http://www.nicovideo.jp/watch/sm10910244">｢ポップン｣ヒップロック３．５　S－乱クリア</a></noscript>
+</object>}}}
+'''슈퍼랜덤''' 클리어 영상
+
+
+팝픈뮤직 18 전국열전으로 이식되었다. 팝픈뮤직에서의 장르는 HIP ROCK 3.5. 숫자가 3.5인 이유는 최초로 수록된 기타드럼 V3이 팝픈뮤직 15의 힙락4 보다 먼저 나왔기 때문.
+EX 보면은 앞부분은 크게 어렵지 않지만 BPM 210 구간에서 서서히 난이도가 높아지더니 마지막에 [[DUE TOMORROW]]를 연상시키는 트릴 [[후살]]로 끝을 맺는다. 이 후살의 순간 밀도는 '''초당 35타'''로, [[팝픈뮤직 라피스토리아]]까지의 모든 수록곡 중 [[音楽]] EX와 [[wiki:"헐화" ピアノ協奏曲第１番 "蠍火"']] EX에 이은 순간 노트밀도 3위. 이 후살 때문에 47레벨 내에서 개인차가 극도로 갈리는 곡 중 하나이다. 이 후살 패턴이 S-RANDOM을 걸 경우 헬 오브 지옥이 돼 버리는 탓에 일본 유저들이 매긴 [wiki:"팝픈뮤직/슈퍼랜덤 난이도표"S-RANDOM 난이도]에서도 최고 난이도에 해당하는 Lv17[* 난이도 50 + 差無来!!의 6곡. 2015년 3월 시점까지 [[音楽]] EX는 클리어 보고가 없다.]에 위치하고 있다.

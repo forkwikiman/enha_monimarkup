@@ -1,0 +1,38 @@
+[[include(틀:현악기)]]
+[[목차]]
+== 개요 ==
+http://upload.wikimedia.org/wikipedia/commons/7/7e/Louvet_Drehleier.JPG&width=600?align=center
+Drehleier
+
+[[유럽]]의 [[현악기]]의 일종. 영미권에서는 Hurdy Gurdy라고 부른다. [[화음]]을 연주하는 현악기.
+
+피들 계통의 악기는 주로 [[활]]을 이용해서 연주하는데, 이 악기의 경우 바퀴를 돌려서 연주하므로 Wheel Fiddle이라고 불리기도 한다. 근음을 연주하는 고정된 음높이의 현과, 멜로디를 연주하는 옥타브 간격으로 배치된 현을 가지고 있으며, 멜로디를 연주하는 부분은 키를 이용하여 현을 눌러서 연주하게끔 되어 있다. 국가나 제조사에 따라서 화음을 연주하는 현 개수와 멜로디를 연주하는 현 개수, 전체적인 크기나 모양이 다르지만, 기본적으로 바퀴를 돌려 연주하는 것은 같다. 주로 바이올린과 비슷한 모양으로 된 것이 많으나, 직사각형의 상자형태를 하고 있는 모델도 있다.
+
+중세 유럽에서 쓰이던 악기인 [[피들]]에서 기원한 것으로, 10세기경 [[독일]] 지역에서 오르가니스트룸이라는 이름으로 처음 등장하였다. 이후 전 유럽으로 퍼져나갔으며, 특히 [[헝가리]]와 [[프랑스]]의 민속 음악에서 즐겨 사용되었다. 근현대에 들어서는 [[아일랜드]] 민속 음악에 많이 사용되었으며, 거기에서 영향받은 아일랜드 [[포크]] [[록밴드]]들이 사용하여 대중화되었다.
+
+특히 아일랜드 포크 록에서 느낄 수 있는 애수어린 음색이 특징으로, 구조적인 이유로 독특한 화음이 나온다.
+
+[[스위스]] 출신 포크 메탈 밴드인 Eluveitie의 여성 보컬인 Anna Murphy가 [https://www.youtube.com/watch?v=nT89FrGpMLI 연주한다].
+
+[[대한민국]]에서는 [[나는 가수다]]에서 [[박정현]]의 공연에서 하림이 들고 나와 연주하여 유명해졌다.
+
+== 연주 동영상 ==
+{{{#!html
+<iframe width="600" height="480" src="http://www.youtube.com/embed/rKrMLw-4T9E" frameborder="0" allowfullscreen></iframe>
+}}}
+독주
+
+{{{#!html
+<iframe width="600" height="371" src="http://www.youtube.com/embed/mipMOrHVp3c" frameborder="0" allowfullscreen></iframe>
+}}}
+반주악기로 사용하는 모습. [[프란츠 페터 슈베르트]]의 ''Winterreise''(겨울나그네) 중 ''Der Lindenbaum''(보리수)
+
+{{{#!html
+<iframe width="604" height="340" src="http://www.youtube.com/embed/M48K0Cnzssc" frameborder="0" allowfullscreen></iframe>
+}}}
+한국에서 드렐라이어에 대한 관심을 환기시킨 영상. ([[박정현]]이 부른 [wiki:"부활(밴드)" 부활]의 [[소나기]]. 드렐라이어 연주자는 [[하림]])
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/P3zZszdvOGY?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+같은 건반 형식이면서 활로 연주하는 물건도 있는데, [[스웨덴]]의 전통악기인 니켈하르파(Nyckelharpa)이다.

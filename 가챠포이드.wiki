@@ -1,0 +1,35 @@
+||<bgcolor=#E9ECEF>이 항목은 [[류토]]로 검색해도 들어올 수 있습니다.||
+
+[[include(틀:VOCALOID)]]
+||<#ffffff> attachment:/gachapoid.jpg?width=280 ||<#ffffff> attachment:11061114182.jpg?width=200 ||
+|| 가챠포이드 일러스트 || 가챠포이드 패키지 박스 ||
+
+[[목차]]
+
+== 개요 ==
+가챠포이드(ガチャッポイド, GACHAPOID)는 [[인터넷(기업)|인터넷]] 사가 개발한 [[VOCALOID|VOCALOID2]] 음원이다. [[일본]]에서 인기있는 공룡 인형 가챠핀(ガチャピン)의 목소리를 따 만들었다. 발매일은 [[2010년]] [[10월 8일]].
+
+Gachapoid의 이미지 캐릭터의 이름은 류토(リュウト). 그런데 어째서인지 대부분 '가챠포이드'라고 부르고 있다.
+
+== 상세 ==
+가챠핀을 지나치게 완벽하게 재현했다는 것이 장점이자 단점으로 먹혔다. 헬로 키티의 [[네코무라 이로하]]와 같이 설정만 가져다 사용해도 되었을 것을 가챠핀을 너무 뛰어나게 재현해버린터라. 한국에서의 인기는 아는 사람이 거의 없을 정도지만 일본에서는 인터넷 사의 가족으로 그나마 제법 알려져 있다.
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/AN7ZBptGjgY?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/AN7ZBptGjgY?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[니코니코 동화]]나 [[유튜브]]에서는 종종 [[카가미네 렌]]과 [[우타타네 피코]], [[OLIVER]]와 함께 듀엣을 부르거나 MMD로 활동하고 있다. 위의 동영상을 보면 위화감이 엄청나다. 키 큰 형들 다리 사이를 뽈뽈 기어다니는 초 땅꼬마 같은 느낌.
+
+
+== 가챠포이드 V3 ==
+|| attachment:K-278.png ||
+|| 가챠포이드 V3 일러스트 ||
+
+2014년 8월 19일, [[인터넷(기업)|인터넷]]이 가챠포이드의 [[VOCALOID|VOCALOID3]] 엔진 버전을 만들기 시작했다고 밝혔다. 이유는 후지TV의 가챠핀 방송 40주년을 기념하기 위해서라고 한다. [[http://39mikustream.blogspot.co.uk/2014/08/v3.html (기사)]] 그리고 [[2014년]] [[9월 17일]]에 가챠포이드의 [[VOCALOID|VOCALOID3]] 버전인 '가챠포이드 V3'가 다운로드판으로 발매되었다. 가챠포이드 V3의 권장 음역은 F2 ~ A3, 권장 템포는 90 ~ 150 BPM. 참고로 가챠포이드 V3는 패키지 없이 오직 다운로드의 형태로만 판매되고 있다.
+
+[[Windows]]용 다운로드와 함께 [[매킨토시]]([[Mac OS]], [[OS X]])용 다운로드도 따로 지원한다. 단, 매킨토시용 다운로드는 VOCALOID NEO라는 에디터와 [[큐베이스]]를 함께 사용해야 한다.
+
+
+== 바깥 고리 ==
+ * [[http://www.ssw.co.jp/products/vocal/gachapoid/index.html 인터넷 측 가챠포이드 페이지]]
+ * [[http://www.ssw.co.jp/products/vocal3/gachapoid/index.html 인터넷 측 가챠포이드 V3 페이지]]

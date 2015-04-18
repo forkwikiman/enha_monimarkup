@@ -1,0 +1,65 @@
+'''사랑을 되찾아라!!'''
+
+ * [[처형용 BGM]]을 찾는다면 [[떼렛-떼-]] 항목으로 갈것.
+
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/dRo0FbDxyQ0" frameborder="0" allowfullscreen></iframe>
+}}}
+
+1984년 [[후지 테레비]]에서 제작한 [[북두의 권]] 애니메이션판의 1기 오프닝. 크리스탈 킹의 노래로 'YOU는 shock!!'로도 굉장히 유명하다.(일본어로는 유와쇼크(You are shock) 발음이 되기 때문에 일종의 언어유희)
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/TRwTqAardEQ" frameborder="0" allowfullscreen></iframe>
+}}}
+[[wiki:"북두의 권 -심판의 쌍창성 권호열전-" 세기말 게임]]의 데모화면
+
+북두의 권 -심판의 쌍창성 권호열전-의 데모화면에서도 이 오프닝이 쓰일 정도로 이제는 북두의 권의 아이콘이 된 명곡. 일본에서는 핸드폰 벨소리가 나온지 한 달만에 100만 다운로드를 기록할 정도로 대중적인 지지도를 가지고 있다.
+
+[DD북두의 권]에서는 [햐다인]이 원곡을 개그풍으로 편곡한 '쉬프트와 급료와, 하는 김에 사랑을 되찾아라!!(シフトと時給と、ついでに愛をとりもどせ!!)'가 주제가로 쓰였다. [http://www.youtube.com/watch?v=ZAzYID7ws5E #]
+
+일본의 누군가가 예전 니코니코동화도 없던 시절에 음료수 [[쿠]]의 파란색 마스코트를 켄시로, 주변 인물들을 (어째서인지) 닌텐도 캐릭터로 바꾼 붘두의 권(ホQoo斗の拳)이라는 플래시 괴작도 있었다.
+
+[[은혼]] 인기투표편에서는 이 노래를 패러디한 [http://www.youtube.com/watch?v=mTUbZqrdJEw I am shock!!] 라는 코러스의 BGM이 나온다. 해당 BGM을 소재로 한 [http://www.youtube.com/watch?v=ohcIYaaEb2k 오프닝 영상 패러디]도 존재한다.
+
+[[종합격투기]] 선수 [[조쉬 바넷]]이 [[PRIDE]] 2006 무차별급 그랑프리에서 입장곡으로 쓴 적이 있다. 
+
+== [[BEMANI 시리즈]]에 수록 ==
+팝픈뮤직/유비트판 커버 보컬은 스와 히데오.
+
+=== [[팝픈뮤직]] ===
+[[팝픈뮤직]] 15 어드벤처에서 첫 수록되었다. [[추가바람]]
+
+=== [[유비트 시리즈]]] ===
+==== 커버 보컬 버전 ====
+attachment:/2_ripples_aiwotorimodose.png
+
+||||||||<#5a5aff><:>jubeat copious append 기준||
+||<|2><#5a5aff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>5||<:>7||
+||<#5a5aff><:>노트수||<:>183||<:>354||<:>498||
+||<#5a5aff><:>BPM||||||<:>141 ~ 158||
+||<#5a5aff><:>곡 이력||||||[[유비트 리플즈]]에서 첫 수록[[BR]][[유비트 플러스]]에서 music pack 05에 수록[[BR]][[유비트 소서]]에서 출시 전 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/1OLPSdG9310?fs=1&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1OLPSdG9310?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+
+보면은 전체적으로 7다운 난이도. 박자도 노래에 잘 맞춰져 있으며, 패턴도 전혀 어렵지 않지만 '''[[후살]]'''성이 강하다. 극후반의 16비트 연타와 마지막에 북두칠성을 표현한 패턴(7개 동시치기는 아니고 8비트 간격으로 2-2-1-2)이 나오니 풀콤을 노리는 유저라면 충분히 숙지해두자. 그리고 이부분에서 판정 말아먹는경우도 부지기수.
+
+게다가 저 부분에 들어가기 전에 가사가 모두 끝날 시점에 나오는 애매한 박자도 올 옐로우를 막는 결정적 한타가 된다.
+
+==== 원곡 버전 ====
+||||||||<#2828a0><:>{{{#white jubeat Plus 기준}}}||
+||<|2><#2828a0><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>8||
+||<#2828a0><:>{{{#white 노트수}}}||<:>148||<:>311||<:>610||
+||<#2828a0><:>{{{#white BPM}}}||||||<:>142 ~ 158||
+||<#2828a0><:>{{{#white 곡 이력}}}||||||[[유비트 플러스]]에서 [[wiki:"북두의 권" 北斗の拳]] pack에 첫 수록||
+
+=== [[리플렉 비트 플러스]] ===
+[[추가바람]]

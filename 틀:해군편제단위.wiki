@@ -1,0 +1,5 @@
+||<-11><#FFFFFF><tablealign=center><tablewidth=80%> '''[[대한민국 국군|<span style="color:Black">대한민국 국군 편제단위</span>]]''' ||
+||<-3><#F0FFF0> '''[[틀:육군편제단위|<span style="color:DarkGreen">육군</span>]]''' ||<-2><#F5FFFA> '''[[틀:해군편제단위|<span style="color:DarkBlue">해군</span>]]''' ||<-2><#F5F5F5> '''[[틀:공군편제단위|<span style="color:DimGray">공군</span>]]''' ||
+||<-9><#00008B> '''[[대한민국 해군|<span style="color:white">대한민국 해군 편제단위</span>]]''' ||
+||<#FFFFF0> '''규모''' ||<#F5FFFA> [[군함|2급 함정]] ||<#F5FFFA> [[군함|1급 함정]] ||<#F5FFFA> [[전대#s-1.1|전대]] ||<#F5FFFA> [[전단#s-2|전단]] ||<#F5FFFA> [[함대]] ||<#F5FFFA> [[작전사령부]] ||
+||<#FFFFF0> '''지휘관''' ||<#F5FFFA> [[정장#s-2|정장]] ||<#F5FFFA> [[함장]] ||<#F5FFFA> [[전대장#s-2.1|전대장]] ||<#F5FFFA> [[전단장]] ||<#F5FFFA> [[함대사령관]] ||<#F5FFFA> [[작전사령관|해군작전사령관]] ||

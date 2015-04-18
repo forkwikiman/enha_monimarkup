@@ -1,0 +1,62 @@
+|| 장르 |||||||| New Jack Swing ||
+|| 곡명 |||||||| Shake ||
+|| 작곡 |||||||| [wiki:"ND Lee" Andy Lee] ||
+|| 작사 |||||||| 조미옥 ||
+|| 보컬 |||||||| 김법진 ||
+|| 배경 |||||||| [[Dong-Hun]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 3rd]] ||
+|| BPM |||||||| 120 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 3}}} || {{{#red -}}}[* EC에서 삭제됨] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 10}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_Q0c_tvvOn10$' width='500px' height='375px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=Q0c_tvvOn10$&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=Q0c_tvvOn10$&playLoc=undefined'></embed></object>
+}}}
+
+[[EZ2DJ 3rdTRAX ~Absolute Pitch~]] '''BGA'''
+
+[[목차]]
+== 개요 ==
+Andy Lee의 곡으로, 90년대 유행했던 '뉴 잭 스윙'이라는 장르를 시도한 곡이다. 뉴 잭 스윙은 [[테디 라일리]][* 최근에는 손녀시대 3집 타이틀곡 The Boys를 이 사람이 만들었다.]가 구축한 장르인데, 한국 가요 중에서 대표적으로 이 장르를 시도한 음악가는 [[듀스]]가 있다.
+
+잘 안 알려져 있지만, 원곡이 존재한다. 1997년 발표된 나일론이라는 그룹의 '너에 대한 충고'. 참고로 같은 작곡가의 [[Futurist]]도 같은 그룹인 나일론의 다른 곡이 원곡이다.
+
+== 패턴 ==
+전반적인 패턴은 롱노트에 잔노트가 섞여나오는 그당시엔 흔치않은 패턴이었다. 
+
+롱노트 곡이다 보니, 7th 하드랜덤 채널에 나오면 점수가 엄청나게 뻥 튀겨진다. 
+
+이 곡과 [[The 3rd Place]]의 스페이스믹스 패턴은 3rd에서만 볼 수 있었지만(두 곡 다 4th에서 삭제되었다가 Platinum에서 부활했는데, 빼먹은 건지 고의인지 이 때 스페이스에는 부활을 안 했고 그게 이후 버전에도 계속 이어진 것.), 이후 BErA에서 모두 부활한다. 참고로 4th에서 삭제되었던 곡 중 2nd 수록곡인 [[Departure]]도 Platinum 스페믹에서 안 돌아왔는데 그래도 Departure는 7th 2.0에서 부활했다.
+
+턴테이블 모드에서는 BErA때 첫등장. 레벨 10으로, 패턴이 전체적으로 개념에다가 찰지다. 레벨은 10인만큼 만만하진 않은 편이다. 중간중간 나오는 홀노트 및 겹노트를 잘 처리하는 능력을 길러야 한다.
+
+EV에서 5키 슈하가 추가되었다.
+== 가사 ==
+||Shake shake your body. 
+Can you feel the rhythm. 
+A play your body. 
+Can you feel the music with me. 
+Shake shake your body. 
+Can you feel the rhythm. 
+A play your body. 
+Can you feel the music with me. 
+
+TELL ME YOUR THE MASTER AND PLEASE PUSE THE BUTTON FORGET ABOUT
+THE PAST AND 
+THERE WILL BE NO PROBLEM JUST LET THE MUSIC TAKE YOUR BODY AND 
+YOU WILL FEEL 
+FREE TAKE YOU HIGH ABOVE LIKE 99 DEGREE.. 
+
+Feel on a music oh! shake your body. 
+Push the button oh! play music with me. 
+Feel on a music oh! shake your body. 
+Push the button oh! play music with me. ||

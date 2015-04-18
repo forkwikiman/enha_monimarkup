@@ -1,0 +1,54 @@
+'''토오쿠''' 뜻은 '먼 곳'이다.
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 팝픈뮤직 가정용판에 곡을 많이 낸 우시로다 신지(後田信二). 작사/보컬은 [[MAKI]].
+
+풀 버젼이 팝픈뮤직 AC15&CS14 OST에 수록되었다.
+
+== [[팝픈뮤직]] ==
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/T2TzpDJXY0w" frameborder="0" allowfullscreen></iframe>
+}}}
+EX 패턴 영상
+
+||<#eeeeee>
+「ＫＯＮＡＭＩ♪ＭＵＳＩＣフル」オリジナル配信曲が、ポップンで遊べるよ！
+「코나미♪뮤직풀」의 오리지널 배송곡을, 팝픈으로 놀 수 있어!
+||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 캐릭터 ||
+|| CS pop'n music 14[[BR]]FEVER! || HONKY TONK[[BR]]홍키 통크 || 遠く[[BR]]토오쿠 || [[MAKI]] || Hanako[[BR]]하나코 ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 141 || 43단계 || {{{#blue 11}}} || {{{#green 21}}} || {{{#orange 28}}} || {{{#red 33}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 27}}} || {{{#orange 34}}} || {{{#red 39}}} ||
+|||| 노트수 || {{{#blue 174}}} || {{{#green 473}}} || {{{#orange 649}}} || {{{#red 831}}} ||
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+EX채보는 8비트 동시치기에 계단이 섞인 중렙곡. 아케이드에선 팝픈뮤직 20 판타지아에 이식되었다.
+
+== [[사운드 볼텍스]] (遠く Dexholic Mix) ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/dr4X0YpXNcQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+리믹서는 Dixie Flatline, 보컬은 祭屋(사이야).
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/jk_001_0029_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/jk_001_0029_2.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/jk_001_0029_3.jpg?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 06}}} || {{{#ff009f 11}}} ||
+|| 체인 수 || {{{#purple 0386}}} || {{{#orange 0520}}} || {{{#ff009f 0857}}} ||
+|| 일러스트 담당 || {{{#purple -AoniS-}}} || {{{#orange -AoniS-}}} || {{{#ff009f -AoniS-}}} ||
+|| 이펙터 || {{{#purple レッドホットスクリューズ}}} || {{{#orange レッドホットスクリューズ}}} || {{{#ff009f レッドホットスクリューズ}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 03(2012.3.12)}}} ||
+|| [[BPM]] |||||| 128 ||
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/MXS4P19kVyI" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상

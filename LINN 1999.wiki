@@ -1,0 +1,42 @@
+http://vjarmy.com/wiki/images/5/54/Ee2_HARENTI_TECHNO.png
+
+[[BEMANI 시리즈]]의 악곡. 작곡가는 [[dj nagureo]]. 장르가 특이한데, HARENTI TECHNO. HARENTI를 일본어로 풀이하면 ハレンチ(破廉恥), 즉 '''파렴치 테크노'''이다(...) 한국판 비트스테이지 5th MIX에서는 장르명이 TECHNO POP으로 변경되었다.
+
+[[목차]]
+
+== [[비트매니아 시리즈]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/MqODKGUDFGk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아]],[[비트매니아 III]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 136 |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} |||| {{{#orange 노멀}}} |||| {{{#red 하드}}} |||| {{{#green 어나더}}} ||
+|| {{{#orange 4}}} || {{{#orange 257}}} || {{{#red 6}}} || {{{#red 342}}} || {{{#green -}}} || {{{#green -}}} || {{{#orange 4}}} || {{{#orange 247}}} || {{{#red 5}}} || {{{#red 343}}} || {{{#green -}}} || {{{#green -}}} ||
+ * 아케이드 수록: 5th, Complete Mix 2, THE FINAL
+ * 가정용 수록: 5th
+
+첫 수록은 5th mix. 첫 수록 당시엔 은폐곡이었는데, 해금 커맨드를 입력한 뒤 마지막 스테이지에서 랜덤을 고르면 출현했다. 당시 커맨드는 1P 2번치로 [[모스 부호]]로 LINN을 입력해야 되는 방식이었다고.
+
+BGA에 [wiki:"마리오(닌텐도)" 모 수염아저씨]를 연상시키는 캐릭터가 나오는 것으로도 화제가 되었다. 그리고 BGA 중에 나오는 졸라맨이 사다리 타고 오르내리는 장면과 사장으로 추정되는 인물이 생각하는 장면도 유명.
+
+== [[팝픈뮤직]] ==
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/IvfBRgQXM8k" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| あのdj　nagureoの曲だよ、ゲームサウンドっぽいドラムの音がかっこいいよ
+그 dj nagureo의 곡이야, 게임 사운드 같은 드럼 소리가 멋져 ||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 10[[br]]([[ee'MALL]]) || HARENTI TECHNO[[br]]파렴치 테크노 || LINN 1999 || dj nagureo || KINOKO BOY[[br]][[키노코보이]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 136 || 43단계 || {{{#blue 9}}} || {{{#green 15}}} || {{{#orange 25}}} || {{{#red -}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 20}}} || {{{#orange 31}}} || {{{#red -}}} ||
+|||| 노트 수 || {{{#blue 191}}} || {{{#green 224}}} || {{{#orange 342}}} || {{{#red -}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+[[ee'MALL]]을 통해 10에 이식되었다. 15 어드벤처에 통상해금. dj nagureo의 구곡이 싹 쓸린 17 THE MOVIE 이후에도 생존하였다.

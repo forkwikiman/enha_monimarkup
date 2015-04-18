@@ -1,0 +1,16 @@
+{{{+1 玉村駅 / Tamamura Station }}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kanto-railway-Tamamura-station-platform.jpg/640px-Kanto-railway-Tamamura-station-platform.jpg
+
+||||||||||<#0033ff> {{{#ffffff 조소선}}} ||<#0033ff><|2>{{{#ffffff 운영주체 : 칸토 철도}}}[[br]]{{{#ffffff 개업일 : 1931년 11월 5일}}} ||
+||<width=100px> [wiki:"토리데역" 토리데] 방면[[br]][wiki:"이시게역" 이시게] || {{{+1 ← }}} ||<width=100px> 타마무라 || {{{+1 → }}} ||<width=100px> [wiki:"시모다테역" 시모다테] 방면[[br]][wiki:"소도역(일본)" 소　도] ||
+
+일본 [[이바라키]]현 [[조소]]시에 위치한 [[칸토 철도]] [[조소선]]의 역이다. 단선식 승강장의 지상역으로 무인역이며 역사는 없고 간이맞이방이 있다. 하루 이용객은 '''79명'''이다.
+
+역 주변은 논밭으로 둘러싸여 있으며, 중요한 건 아니지만 역 근처의 동네 이름이 '''[[하라주쿠]]'''(...)다.
+
+'''완급결합'''
+||||||<#808080> {{{#ffffff 보　　통}}}
+||<width=100px> [wiki:"이시게역" 이시게] || {{{+1 ← }}} ||<width=100px> 타마무라 || {{{+1 → }}} ||<width=100px> [wiki:"소도역(일본)" 소　도] ||
+
+[[각주]]

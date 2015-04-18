@@ -1,0 +1,39 @@
+[[목차]]
+== Healing Vision ==
+attachment:/Healing_Vision-jacket.png
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/ehTV3PLMVcE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZCAiYQ2RcL8?list=UUq8w3RWswGCXKIO4Wj7g_gA" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple X-Special}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 11}}} || {{{#purple 14}}} ||
+||<|3> 49-196|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple X-Special}}} ||
+|| || {{{#orange 4}}} || {{{#red 8}}} || {{{#green 13}}} || {{{#purple 14}}} ||
+
+DDR 5thMIX의 수록곡. 작곡은 DE-SIRE 명의를 쓴 [[NAOKI]]로, NAOKI가 [[TRIP MACHINE 시리즈]] 이외에서 처음으로 DE-SIRE 명의를 쓴 사례가 되는 곡이다. 중반부분의 심장박동 샘플링이 격해지는 부분에서 저속이 일어나는 게 특징. 
+
+== Healing Vision ~Angelic mix~ ==
+attachment:/2MBhealing.jpg
+
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/5Hu1j1kcK30" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 5}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#green 13}}} || {{{#purple -}}} ||
+||<|3> 46-196[* 표기 BPM은 이러하지만 실질적인 BPM은 원곡과 동일하게 49-196.]|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 8}}} || {{{#red 10}}} || {{{#green 14}}} || {{{#purple -}}} ||
+
+DDR 5thMIX CS에서 [[U1-ASAMi]]가 2MB 명의로 ~Angelic mix~라는 부제를 붙여 리믹스를 했다. 아케이드에는 DDR MAX에서 수록. 원곡이 중반에서 46으로 급격히 저속하는 패턴이 있었다면 리믹스에서는 극초반에 아무 노트도 나오지 않을 때 잠시 저속파트가 있고 중반에 딱 한 번 순간멈춤 패턴이 있다.
+
+== [[Healing-D-Vision]] ==
+Healing Vision의 속편격이 되는 곡. NAOKI가 DE-SIRE 명의가 아닌 DE-STRAD 명의를 사용했다. 항목 참고.

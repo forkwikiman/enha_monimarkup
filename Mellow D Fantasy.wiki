@@ -1,0 +1,99 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+[[목차]]
+== [DJMAX 시리즈]의 수록곡 ==
+|| 최초 수록 || [[DJMAX Portable 3]] ||
+|| 장르 || [[K-POP]] ||
+|| 작곡, 편곡 || [[NieN]] ||
+|| 비주얼 || KUDA, [[Z_B]]  ||
+|| 보컬 || [[sanch]] ||
+|| [[BPM]] || 132 ||
+
+{{{#!html
+<iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/aV4pbkO2bCI" frameborder="0" allowfullscreen></iframe>
+}}}
+(BGA)
+
+약칭은 '''멜판'''.
+
+[[DJMAX 온라인]]부터 지속적으로 참여를 해왔던 NieN의 [[DJMAX Portable 3]] 신곡. 전작의 [[Someday]]와 [[Trip]]의 계보를 잇는 K-POP 곡이다. 또한 [[DJMAX 시리즈]] 간판 보컬 중 하나인 Sanch의 4년만의 컴백곡으로서 의미가 있는 곡이기도 하다. DJMAX Anipop Tunes의 수록곡 중 하나다.
+
+K-POP이라지만 멜로디나 편곡은 전형적인 90년대 J-POP에 가깝다.[* 차라리 제목이나 곡 분위기나 BGA를 고려해서 [[wiki:"바람에게 부탁해"Fantasy Pop으로]] [[wiki:"Eternal Memory ~소녀의 꿈~"했으면]] [[wiki:"Eternal Fantasy ~유니의 꿈~"얼마나 좋아]]].
+
+후에 일본판으로 나올 땐 [[Raise me up]]과 함께 가사가 일본어로 바뀌었다.
+
+여담이지만, BGA의 일러스트를 맡은 KUDA는 '''과거 [[NB Ranger]]의 그린이었던 Z_B의 연인'''이다.[* 그래서 bga의 간지남 모델이 Z_B라고(…)] --[[Dark Envy]] 속편 제작이 시급합니다-- 주인공의 복장과 전체적으로 푸른색 전뇌를 주안점으로 하는 BGA가 모바일게임 [[하이브리드]]를 연상시킨다는 의견도 있다.
+
+풀버젼은 2분 14초로, 가사 몇소절이 더 들어가 있다.
+
+== DJMAX Portable 3 ==
+
+[[DJMAX Portable 3]]에서의 [[난이도]]는 저레벨 유저들을 위한 구성인데, [[롱노트]]가 매우 많기 나오기 때문에 '''난이도에 비해 점수가 굉장히 잘 뽑힌다.''' 특히 6T [[패턴]]은 ~~레벨 5짜리 패턴 주제에~~ [[풀]]피버까지 되므로 상당히 인기있는 패턴이다. 단 (7 피버 기준)피버를 끊기지 않으려면 피버 게이지 증가 아이템을 장착하거나 "살며시 들려요" 부분까지 모든 노트를 100% 판정을 내야 아슬아슬하게 피버를 유지할수 있기 때문에 풀피버 난이도는 살짝 높다. 안그러면 해당 부분에서 게이지 부족으로 피버가 끊긴다.
+
+여담으로 [[BGA]]에 등장하는 사이먼이라는 캐릭터로도 유명한 곡. 사이먼이라는 캐릭터에는 유일하게 Fever +2라는 옵션이 붙어있으므로 7 피버 플레이를 하기 위해선 필수로 장착해야 한다.  ~~근데 정작 특유의 얼굴로 외국에서는 [[게이]]취급을 받는다. 외국과 우리나라와의 일명 게이페이스의 기준이 다르긴 하지만. 지못미 Z_B~~
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/hJrAFH3Tc1w" frameborder="0" allowfullscreen></iframe>
+}}}
+6T NM 영상
+
+{{{#!HTML
+<iframe width="560" height="349" src="http://www.youtube.com/embed/y_mmZ-NSgGs" frameborder="0" allowfullscreen></iframe>
+}}}
+3.2T WS
+
+== DJMAX TECHNIKA 3 ==
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || B || 250 Max || ? || 8박 스크롤 || ||
+||<#FFFF00> Normal || B || 250 Max || 3 || 8박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || A || 1000 Max || 5 || 4박 스크롤 || [wiki:"Masterpiece(DJMAX)"미션 - NieN Blow] 수록 ||
+||<#FF0000> Maximum || S || 3000 Max || 7 || 4박 스크롤 ||  [[wiki:"HyperTechnician"미션 - Dual Core]] 수록 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/IRTKi_-CNb8" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XJrEbhs-MRo" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+이후 DJMAX TECHNIKA 3에서는 5차 업데이트로 수록되었는데, 커팅은 DMP3의 것과 같으나 앞부분의 패턴이 원곡과 맞지 않는다. [[PDM]] MX패턴은 맞지 않는대로 자연스러우니 괜찮긴 하지만, 이 곡의 경우 일부 [[키음]]이 정확히 한 소절 앞에 있어 어색한 느낌이 있다. NM 패턴은 무난한 8박 스크롤, 하드 패턴은 역시 5다운 4박 스크롤이며, MX 패턴은 [HyperTechnician] 미션에서 선 공개되었다. 공개된 MX패턴은 적절히 어려우면서도 [wiki:"찰지구나"찰진] 개념 패턴으로 재밌다는 반응이 많이 나오고 있다.
+
+== [[TAP SONIC]] ==
+{{{#!html
+<iframe width="720" height="438" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=C9D9B8D8257DE6E9AE88D1C95DDA1113FBA8&outKey=V122b08ba0646147a583010a85c6cda01eae4dc16887da67e07fc10a85c6cda01eae4" frameborder="no" scrolling="no"></iframe>
+}}}
+6라인 LEGEND 패턴
+
+2013년 7월 25일 수록되었다. 6라인 레전드 기준 난이도는 8. 전체적으로 8레벨 치고는 무난한 패턴이라는 평이다.
+
+이 곡 이후 한동안 탭소닉에 디맥곡이 안 나왔다가 6개월만에 [wiki:"SigNalize"드디어 하나 나왔다.] 그후 [Ventilator]까지 한동안 디맥곡이 수록되었다.
+
+== 가사 ==
+
+> 차갑던 손길이 안쓰러워
+> 늘 잡아주던 웃어준 기억들이
+> 이렇게도 아쉬워서
+> 늘 또 간직해요
+> 기다림에
+> 견디긴 어렵겠죠
+
+> 살며시 들려요 매일 속삭이던 그 멜로디
+> 기억해요 작은 고백 수줍던 나 뿐이죠
+> I will 약속해요 철없는 내 맘속 그 한마디
+> 함께했던 추억 그댈 지켜요
+> 영원한 마법으로
+
+> 들리지 않나요 그대를 향한 멜로디
+> 멈춰봐요 작은 선물 한번 뿐인 고백을
+
+> Feel you 나를 봐요 그런 슬픈 얼굴은 말아요
+> 아득히 먼 절망속에 그대 혼자라 해도
+
+>I will 약속해요 철없던 내 맘속 그 한마디
+>기적같던 이 세계 한순간은
+>언제나 기억해요

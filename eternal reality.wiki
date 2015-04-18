@@ -1,0 +1,59 @@
+[[목차]]
+== 개요 ==
+||attachment:/eternal_reality_anime.png?width=300||attachment:/eternal_reality_normal.jpg?width=300||
+|| 초회 한정 애니메이션반 자켓 || 초회한정반 & 통상반 자켓 ||
+
+||||||||||<width=400px> '''애니메이션 [[wiki:"어떤 과학의 초전자포/애니메이션" 어떤 과학의 초전자포]] 오프닝 테마''' ||
+|| [[sister’s noise]][[BR]](TVA 2기 1쿨) || → || '''eternal reality'''[[BR]](TVA 2기 2쿨) || → || 미정 ||
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_ve2bczBbOcebj66Qs5MOe50' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=ve2bczBbOcebj66Qs5MOe50&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=ve2bczBbOcebj66Qs5MOe50&playLoc=undefined'></embed></object>
+}}}
+
+애니메이션 [[어떤 과학의 초전자포 S]](초전자포 2기)의 2쿨 오프닝 테마. 노래는 [[fripSide]]가 담당하였다. 동명의 싱글음반 발매일은 2013년 8월 21일.
+
+싱글은 이전까지와는 달리 통상반, 초회한정반, 초회한정 애니메이션반의 세 가지 사양으로 출시되었으며, 애니메이션반과 통상반의 수록곡이 다르다. 초회 한정 특전 DVD도 마찬가지인데 애니메이션반에는 TVA 오프닝이, 초회한정반에는 뮤직비디오가 수록되었다. 여기에 애니메이션반·초회한정반 공통으로 2013년 3월 22일 시부야 O-EAST에서 열린 《리스아니! CIRCUIT Vol. 3》에서의 sister's noise 라이브 영상이 수록되어 있다.
+
+뮤직비디오는 fripSide답지 않게 상당히 정상적(...).  여기에 유명 프로듀서 [[코무로 테츠야]]가 특별 출연하였다. 자세한 내용은 [[wiki:"fripSide/뮤직비디오#s-2.10" 해당 항목]] 참조.
+
+== 수록곡 목록 ==
+||||<#DDDDDD> '''싱글 트랙 리스트''' ||
+|||| '''애니메이션반''' ||
+|| 트랙 || 제목 ||
+|| 1 ||'''eternal reality'''||
+|| 2 ||waiting for the moment||
+|| 3 ||eternal reality -TV size-||
+|| 4 ||eternal reality -instrumental-||
+
+|||| '''통상반 & 초회한정반''' ||
+|| 트랙 || 제목 ||
+|| 1 ||'''eternal reality'''||
+|| 2 ||scorching heart||
+|| 3 ||eternal reality -instrumental- ||
+|| 4 ||scorching heart -instrumental- ||
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>8||
+||<#ffffff><:>노트수||<:>182||<:>364||<:>493||
+||<#ffffff><:>BPM||||||<:>145||
+||<#ffffff><:>곡 이력||||||<:>[[유비트 소서]]에 2013/11/13 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+[[カタルシスの月]]와 같이 동시 수록되었다. 원곡으로 수록되었으며 게임 안에서 쓰는 자켓은 초회한정반&통상반 자켓. 이로써 [[BEMANI 시리즈]]의 초전자포 오프닝 개근은 계속 이어지고 있다. ~~도대체 비마니 제작진 중 누가 츤데레포 빠냔 말이다~~
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/oq9mz9UWaPk" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT 채보 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/u5V4qDmoTWQ" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+동시치기 위주의 곡이라 첫 플레이에서는 8렙에서 한번도 볼 수 없던 직각삼각형 모양의 타를 보고 흠칫할 수도 있지만, 동시치기가 어느정도 되는 유저는 쉽게 S랭크까지 노릴 수 있다. 
+
+골때리는 구간은 후반부. [[에반스]]마냥 살을 붙여놓아서 초반의 단타 처리 구간이 갑자기 4동시타가 된다(...) ~~개근하는데 일조한 사람이 누군지 감이 잡힌다~~ 이 구간'''도 포함'''하면 정직한 동시치기 위주라 쉽게 풀콤보나 엑설런트도 노릴 수 있다.

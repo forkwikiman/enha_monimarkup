@@ -1,0 +1,58 @@
+[[목차]]
+
+|||||||||||||||| [[WORLD TOUR]] ||
+|| [Breaking the ground] || '''LIFE SCROLLING''' || [Hardcore Mania] || [Kailua] ||
+|| [THE BLACK KNIGHT] || [Let The Track Flow] || [PARADISE LOST] || [perditus†paradisus] ||
+
+== 설명 ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/tLHLmA4g0fw" frameborder="0" allowfullscreen></iframe>
+}}}
+원곡
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/I9CSiK2HMKU" frameborder="0" allowfullscreen></iframe>
+}}}
+싱글 어나더
+
+[[youtube(6SqCVBUvuiY)]]
+싱글 하이퍼
+
+[[youtube(tDPrsDhJbE4)]]
+더블 하이퍼
+
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|2> 134 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 4}}} || {{{#blue 444}}} || {{{#orange 8}}} || {{{#orange 824}}} || {{{#red 10}}} || {{{#red 1126}}} || {{{#blue 4}}} || {{{#blue 473}}} || {{{#orange 8}}} || {{{#orange 773}}} || {{{#red 10}}} || {{{#red 1102}}} ||
+
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 18 Resort Anthem ~
+
+[[비트매니아 IIDX 18 Resort Anthem]]의 WORLD TOUR시스템에서 해금되는 두번째 악곡. 월드 투어의 컨셉이 세계의 (전자)음악을 모은 것이었기 때문에 이 곡은 초기 테크노의 원류인 [[미국]]의 [[디트로이트]]를 컨셉으로 잡았다. 그래서 장르는 [[디트로이트|DETROIT]] TECHNO이다.
+
+작곡가는 놀랍게도 '''[[와타나베 히로시]]'''. beatmania IIDX 3rd, beatmania CORE REMIX의 악곡제공 이래로, '''10년 만에''' BEMANI 시리즈에 참여하였다. 5건비트와 IIDX시리즈에서 Quadra나 DJ FX등의 예명을 사용해온 것과 달리, 이번에는 HIROSHI WATANABE라는 본명을 그대로 사용하였다.
+
+하드코어 악곡이 다수였던 JAPAN TOUR/WORLD TOUR 중에서, 하드코어 색깔을 띄지 않는 악곡이기도 했고, 진짜 오랜만에 와타나베 히로시가 BEMANI시리즈에 참여한 곡이기에 나름 주목을 받았던 곡. 채보도 정박에 맞춰서 떨어지기 때문에 비교적 정직하고(어나더 채보는 후반부에 살짝 골치아픈 구조긴 하지만), 플레이 하기도 편한 악곡이기도 하다.
+
+구 BEMANI 시리즈의 악곡과 비교해서, 비교적 밝아진 악곡이 특징이다. 악곡의 스타일은 DJ FX+kaito의 느낌에 가까운 편. DJ FX 특유의 리드미컬한 느낌과 kaito 특유의 멜로디라인이 적당히 섞인 느낌이다.
+
+제목인 LIFE SCROLLING은 어떻게 보면, 이전에 와타나베 히로시가 작곡하였던 LIFE 시리즈와 연계된다고 볼 수 있다. (beatmania 2nd의 beginning of life, beatmania 3rd의 life goes on, kaito명의로 발표한 음반 Hundred Million Light Years 8번 트랙으로 수록된 Life Goes On.) 혹자는 beginning 과 goes on이 나왔으니 그 다음 LIFE 시리즈가 나온다면 종결을 암시하는 제목으로 나올수도 있었지만, 이 곡이 SCROLLING이라는 제목으로 나온것은 삶에 대한 긍정에 대한 메세지를 담은것은 아닐까... 라고 [[카더라]].
+
+하단의 코멘트는 작곡가 와타나베 히로시를 대신해서 L.E.D.가 코멘트를 작성했다.
+
+== 아티스트 코멘트 ==
+||<bgcolor=#E9ECEF>● Sound / Commented by [[L.E.D.]]
+
+미국의 공업도시, 디트로이트를 발상지로 한 디트로이트 테크노.
+80년대 중기에 한번 소멸했다고 생각한 '테크노팝 무브먼트'가 지금의 댄스뮤직에 있어서
+메이저 필드의 일각을 짊어진 '테크노'로 뭉친 장르. (라고 저는 생각합니다.)
+
+WORLD TOUR에 있어서 AMERICA 담당은 IIDX에 오래간만에 등장하신 HIROSHI WATANABE씨 입니다.
+견고한 이미지의 비트와 연속성을 가지면서도 그저 멜랑콜리한 신디사이저 사운드,
+아름답게 흘러가는 스트링이 어우러져, 매우 쿨한 디트로이트 테크노로 완성되어있습니다.
+
+● Anime / [[HES]]
+
+LIFE 「생명, 인생이라든가」
+살아가는데 있어서 빠트릴수 없는 '물'을 모티브로 제작.
+돌아감과 튕김의 반복이 이어지고 있습니다. 영원히.||

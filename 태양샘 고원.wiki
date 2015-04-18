@@ -1,0 +1,79 @@
+[[include(틀:월드 오브 워크래프트/인스턴스 던전)]]
+
+[[목차]]
+=== 개요 및 설명 ===
+|| http://kr.battle.net/wow/static/images/wiki/zone/screenshots/the-sunwell.jpg?width=600 ||
+||수천 년간 [[태양샘]]이라 알려진 신비로운 마력샘은 추방당한 모든 [[하이 엘프(워크래프트)|하이 엘프]]에게 강력한 마력을 주입해 줬다. 하지만, 이제 [[불타는 군단]]이 마지막 남은 이 고대 샘을 노리고 있다. 태양샘의 마력으로 사령관인 [[킬제덴]]을 소환하려는 것이다.
+
+[[샤트라스]]의 영웅들은 무너진 태양 공격대의 깃발 아래 모여, 돌이킬 수 없는 사태가 벌어지기 전에 불타는 군단의 침략을 봉쇄하려고 전력을 다하고 있다. 매일 이 공격대에 더 많은 용사가 참여하고 있지만, 불타는 군단의 힘은 쉽게 제압할 수 없다. 태양샘 고원을 수호하는 험악한 악마의 하수인들은 그들의 일을 방해하는 자를 모두 공격하고 있다. 킬제덴이 소환될 때가 다가오고 있으니, 이제 [[아제로스]]의 영웅들에게는 세계를 끔찍한 파괴로부터 구해낼 마지막 기회만이 남았다.||
+
+{{{#!html
+<div align="center"><object width="640" height="360"><param name="movie" value="//www.youtube.com/v/OQEoG8uwZao?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/OQEoG8uwZao?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object></div> }}}
+  * [http://www.youtube.com/watch?v=KE1TGCw2k6g&feature=related 태양샘의 분노(영어판)]
+
+||<width=50%>그것은 태양샘이라 불렸다! 
+
+신비한 마력이 담긴 성스러운 샘이었지. 태양샘은 우리를 따스히 감싸주었고, 그 온기 덕분에 우리는 번영했다. 죽음의 그림자가 우리를 덮치기 전까진. 
+
+태양샘이 파괴되고 나서야 깨달았다. 우리가 얼마나 그 마력에 의존해왔는지, 얼마나 목말라했는지. 참혹한 그날을 곱씹으며 우리에게 새 이름을 붙였다. 신도레이, 블러드 엘프라고. 내 백성에게는 구원이 필요했다. 나는 약속했다. 기묘하게도 우리는 악마에게 구원을 청했다. 일리단에게. 일리단은 비전 마법의 새로운 원천을 제공했지. 나는 아웃랜드에서 일리단과 손을 잡았다. 내 백성의 영광을 위해! 
+
+하지만 일리단은 멀리 보지 못했다. 나는 조급해졌다. 남몰래 나는 마력을 모으기 시작했다. 잠깐은 맛보았지, 진정한 힘을.
+ 
+그리고는 빼았겼다. 하지만 전부 잃지는 않았다. 태양샘의 정수는 남아있었다. 그것을 지키려는 자들이 숨겨놓았지. 이제 나는 돌아왔다. 타고난 우리 권리를 되찾으려면 희생이 불가피하다는 걸 깨닫고서. 난 새로운 동맹을 맺었지. 곧 축복받은 태양샘의 광채가 다시 퍼져나가리라. 그리고 인도하리라. 우리 모두를 해방할 이를. ||It was called the Sunwell!
+
+A sacred fount of untold power it saturated every fibre of our being in the warmth of its glow we thrived, until the shadow of death fell upon us.
+
+Only after the Sunwell's destruction did we realise how dependant we had become on its magic how much we needed to feed. In the wake of our devastation I named our people Sin'Dorei, Blood Elves, my people turned to me for answers. I promised them a cure, strangely we found deliverance in the demon Illidan. Illidan offered new sources of arcane power and so I joined him in Outland pledging to return one day to lead our people to glory!
+
+But Illidan's agenda was short sighted, I grew impatient. In secret I began harvesting what energies I could. I had a brief taste of true power before it was taken from me.
+
+But all is not lost the Sunwell's essence endured kept hidden by those who sought to protect it. Now I have returned with the knowledge that sacrifices must be made before we can reclaim our birthright. I have forged a new alliance. Soon the blessed rays of the Sunwell will shine once again, and usher into this world the one who will deliver us all.||
+Sunwell Plateau. [[월드 오브 워크래프트]] [[불타는 성전]] 최후의 [[공격대]] [[인스턴스 던전]].
+
+오리지널~불타는 성전의 모든 네임드들 중에서 가장 다양한 패턴과 강력한 공격력으로 많은 플레이어들을 좌절시켰으며, [[검은 사원]]까지 쉽게 공략해 온 많은 공격대들을 [[떡실신]]시키는 던전이었다. [[쿤겐]]을 비롯한 많은 레이드 유저들에게 [[불타는 성전]] 최고의 난이도라는 찬사를 받기도 했다. 특히 지금도 '''최강최흉의 [[공대파괴자]]'''로 평가받는 [[므우루]]같은 경우, 세계 최상위 공격대가 절정의 딜, 힐과 무빙을 해도 며칠 동안이나 헤딩했을 정도로 엄청난 난이도를 자랑한다.
+
+오리지널 [[낙스라마스]]나 [[검은 사원]] 등의 다른 레이드 인던에 비해 일반몹의 숫자가 상당히 적었고, 태양샘 고원에서만 적용되는 괜찮은 버프가 있었기에 공략하기에는 상당히 좋은 조건이었지만, 그렇게 좋은 환경에서도 공략에 어려움이 많았다.
+
+엄청난 시너지가 요구되었기 때문에, 당시 최고의 시너지 힐러였던 복원 [[주술사(월드 오브 워크래프트)|주술사]]가 각광받았던 던전이기도 하다. 복원술사의 숫자로 네임드의 난이도가 달라질 정도. 이외에도 이전엔 무시와 멸시의 대상이던 조화 [[드루이드(월드 오브 워크래프트)|드루이드]]와 [[성기사(월드 오브 워크래프트)/징벌|징벌 기사]] 등이 주목받기도 했다. 반면 [[마법사(월드 오브 워크래프트)|마법사]]는 [[흑마법사(월드 오브 워크래프트)|흑마법사]]에 비해 [[악제파흑|딜이 낮다는 이유]]로 [[물빵]]을 뽑거나 킬제덴 용조종용으로 1명만 데려가거나 아예 안 데려가기도 했다.
+
+한가지 특이한 점이라면 태양샘 고원을 공개할때 마지막 네임드까지 한번에 열어놓지 않고 일종의 장벽 비슷한 것을 만들어서 네임드들을 끊어서 배치한 뒤 순차적으로 공개해서 네임드를 잡고 쉴 시간을 주었다는 것.
+
+2008년 5월 20일(지역 별로 다르다. 북미 20일, 유럽 21일, 한국 22일) 마지막 네임드인 킬제덴으로 가는 태양샘 최종 관문이 오픈되었고, 5월 25일 SK-Gaming(슈로엣 코만도)이 월드 퍼스트 킬을 달성했다. 27일에 킬제덴을 눕힌 [[메소드|Method]]와 Nihilum이 각각 2, 3위를 기록했다. (태양샘 종료 후 SK Gaming과 Nihilum은 합병하여 [[Ensidia]]가 된다)
+
+한국은 6월 2일 Team Evolution, 6월 3일 Abyss N Cool Empire가 킬제덴을 눕혔다.
+
+높은 난이도 때문에 [[파멸의 메아리]] 패치(2008년 10월 24일에 이루어진 [[리치 왕의 분노]] 프리 패치) 이전에 킬제덴 얼굴도 못 본 정공들도 꽤 많았으며, 하위 정공은 [[브루탈루스]], 중하위 정공은 [[에레다르 쌍둥이 자매|에레다르 쌍둥이]] 정도에서 브레이크가 걸렸다. 막공 유저들은 태양샘 공략 기회 자체가 거의 없었으며, 막공이 발달했던 일부 서버(굴단, 알렉스트라자, 노르간논 등)는 막공으로 에레다르 쌍둥이까지는 공략에 성공했지만, 파멸의 메아리 이전 므우루를 잡은 막공은 없다.
+
+일반몹이 낮은 확률로 에픽 아이템과 전문기술 도안, 보석류를 드랍했는데, 이를 노리고 입구 앞의 수호병 + 링크 몹 2무리까지만 잡은 후 인던을 나와 리셋하고 다시 잡기를 반복하는 막공들도 있었다. '앵벌팟' 또는 '리셋팟'이라고 불리는 이런 막공은 지겨움만 참으면 골드 벌이가 꽤 되기 때문에 많은 인기를 끌기도 했다. 
+
+=== 배경 및 설정 ===
+[[폭풍우 요새]]에서 패한 [[캘타스 선스트라이더]] 왕자는 [[킬제덴]]을 소환하기 위해 [[태양샘]]의 정수를 가진 [[안비나 티그]]와 [[실버문]]에서 혈기사들에게 힘을 공급하던 나루 므우루를 납치하고 태양샘에서 킬제덴을 소환하는 의식을 시작한다. 이 때 끝까지 캘타스를 따라간 일부 블러드 엘프들은 악마의 피를 섭취하고 강력한 [[지옥피 엘프]]가 된다.
+
+푸른용군단의 [[칼렉고스]]와 그 친구인 마드리고사가 안비나를 구출하기 위해 태양샘 고원에 쳐들어가지만 오히려 [[역관광]]당하고 만다. [[칼렉고스]]는 악마에게 정신을 빼앗겨 버렸으며, 마드리고사는 브루탈루스에게 패하고 만다. 게다가 마드리고사는 브루탈루스의 피로 인해 [[지옥안개]]로 되살아나 모험가들을 막기까지 한다. 여담으로 이때 칼렉고스와 마드리고사의 삽질은 두고두고 까이면서 [[푸른용군단 안습전설|푸른용군단은 멍청하다]]는 인식을 가지게 하는데 일조했다.
+
+결국 25인의 ~~무자비한~~용사(모험가)들이 태양샘에 도착하고, 다행히도 킬제덴을 소환하는 의식이 아직 완전히 끝나지 않아 킬제덴의 상반신만 아제로스에 강림한다. 정신줄을 다시 잡은 칼렉고스가 태양샘의 정수 안비나를 각성시켜 플레이어들은 킬제덴을 [[뒤틀린 황천]]으로 추방하는데 성공한다.
+
+킬제덴을 추방한 뒤, [[혈기사|혈기사단]] [[여군주 리아드린]]과 [[드레나이]]의 수장 [[벨렌]]이 나타나 므우루의 심장을 통해 [[태양샘]]을 정화하며 [[불타는 성전]]의 종결을 선언한다. ~~그리고 둘 다 공기화~~[* 리아드린의 경우엔 [[드레노어의 전쟁군주]]로 와서 꽤 활약이 늘었다. 벨렌의 경우에도 자신을 희생하여 검은 별을 정화하고 카라보르 사원을 지켜냈지만 이건 평행세계의 벨렌이니...]
+
+=== 불타는 성전 이후 ===
+킬제덴의 아제로스 강림 계획이 실패하고 불타는 성전이 끝나면서 블러드 엘프는 태양샘을 공식적으로 되찾았다. [[쿠엘델라]] 퀘스트를 하면서 태양샘 고원에 들어가 볼 수 있는데, 킬제덴이 있었던 태양샘의 중심부는 정화되어 태양샘 수호병들이 좍 깔렸고, 태양샘을 보기 위해 방문하는 블러드 엘프 순례자들이 줄을 서고 있는 모습을 볼 수 있다. 근데 막상 플레이어가 가보려고 하면 입구에서 순찰대 사령관 [[할두런 브라이트윙]]이 "태양샘이 무슨 관광지인줄 아느냐" 라면서 못 들어가게 막는다(...).
+
+== 던전 지도 ==
+http://kr.media.blizzard.com/wow/media/artwork/dungeon-maps/ko-kr/the-sunwell/the-sunwell1-large.jpg?width=600
+http://kr.media.blizzard.com/wow/media/artwork/dungeon-maps/ko-kr/the-sunwell/the-sunwell2-large.jpg?width=600
+
+=== 등장 우두머리 ===
+http://images4.wikia.nocookie.net/__cb20100102192141/wowwiki/images/thumb/3/3e/Sunwell_Plateau_bosses.jpg/1193px-Sunwell_Plateau_bosses.jpg?width=600
+
+ * [[칼렉고스]]
+ * [[브루탈루스]]
+ * [[지옥안개]]
+ * [[에레다르 쌍둥이 자매]]
+ * [[므우루]]
+ * [[킬제덴]]
+
+=== 드랍 아이템 ===
+ * [[소리달 - 별의 분노]]
+
+=== 기타 ===
+ * [[태양샘의 광휘]]

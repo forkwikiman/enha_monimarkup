@@ -1,0 +1,24 @@
+||||||||||||||||||<table align=center> '''[[워해머 판타지]] 게임 목록''' ||
+|| '''1991년''' ||<|2> → || '''1995년''' ||<|2> → || '''1996년''' ||<|2> → || '''1998년''' ||<|2> → || '''2006년''' ||
+|| [[HeroQuest]] || [wiki:"Warhammer : Blood Bowl" Blood Bowl] || [wiki:"Warhammer : Shadow of the Horned Rat" Shadow of the Horned Rat] || [[Dark Omen]] || [wiki:"Warhammer : Battle for Atluma" Battle For Atluma] ||
+|| '''2006년''' ||<|2> → || '''2008년''' ||<|2> → || '''2008년''' ||<|2> → || '''개발 취소''' ||
+|| [wiki:"Warhammer : Mark of Chaos" Mark of Chaos] || '''Battle March''' || [wiki:"Warhammer Online : Age of Reckoning" Age of Reckoning] || [wiki:"Warhammer Online : Wrath of Heroes" Wrath of Heroes] ||
+
+attachment:/battle_march.jpg
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/86Xd5LrRBeI?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+배틀 마치 인트로 영상. ~~오, 오크 짜응~~
+
+2008년 발매된 [[Warhammer : Mark of Chaos]]의 [[확장팩]]. 이전과 같이 Black Hole Entertainment가 개발하고 [[반다이 남코 게임스]]에서 유통하였다. Mark of Chaos의 합본 형식으로 발매되었다.[* 엑스박스 360의 경우는 스탠드 얼론 형식인데 PC버전은 원본인 마크 오브 카오스가 필요하다고 하지만 패치를 설치해주거나 레지스트리를 조금만 수정해주면 스탠드얼론으로 변해버린다.]
+
+기존의 4종족 [[스케이븐]], 카오스, 제국, [wiki:"하이 엘프(워해머 판타지)" 하이엘프] 외에 Dark Elves([[다크엘프]]) 캠페인이 추가되었고, 싱글플레이에서만 적으로 등장했던 Orcs & Goblins([[오크]] and [[고블린]])이 플레이 가능 종족이 되었다.
+
+이전작과 마찬가지로 [[분대]]로 이루어진 진영과 영웅이 있으며 자원채취 개념 또한 없다. 그리고 각 영웅들마다 스킬트리가 있어 점차 강하게 육성할 수 있다. 스킬트리의 경우 크게 3가지 테크로 나뉘어진다.
+
+역시나 전투를 벌여 상대 분대를 전멸시키거나 지역을 점령하여 골드를 벌수 있으며, 이 골드로 업그레이드를 하거나 아님 영웅 아이템(장비나 포션 등)을 사거나, 부대 보충을 할 수 있다. 업그레이드는 3레벨까지 존재하며 이전작과 마찬가지로 골드로 이루어진다. ~~끝나지 않는 [[황금만능주의]]~~
+
+여기까지 말하면 "어? 그럼 전작과 다른 점은 뭐야?"라고 물을 수 있는데 이게 다다. 고로 전작이랑 다른 거 거의 없다. 그냥 종족 캠페인 하나 추가하고 유닛 한 두개 추가하고 끝이다. 2년이나 기다려서 나온 확장팩이 이모양이라니! 
+
+개발사인 Black Hole Entertainment는 그래픽이 [[업그레이드]]됐다고 주장했는데, 실제 플레이하면서 아무리 줌해보고 쌩난리를 쳐봐도 이전작보다 그래픽이 나아졌다는 사실이 실감나진 않을 것이다. 왜냐하면 HDR과 쉐이더를 보강했으나 별로 시각적으로 효과는 안 주고 사양만 높여버린 전형적인 [[옆그레이드]]. 결국 전작의 뒤를 따라 화려하게 [[시망]]했다.

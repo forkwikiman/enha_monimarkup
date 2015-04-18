@@ -1,0 +1,245 @@
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/MGkHMGkdO4Y?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+||<:> attachment:Blaziken_MegaEvo.png?width=100%||<:> attachment:megaevolpokemon.jpg?width=100%||
+|| 번치코의 메가진화 || 오메가루비·알파사파이어에서 등장하는 메가진화한 포켓몬 ||
+
+[[목차]]
+== 개요 ==
+포켓몬스터의 [[포켓몬스터 X·Y|6세대]]부터 새로 등장하는 진화의 방식. 시대 변화에 따른 새로운 시스템이다.
+
+'''진화를 뛰어넘은 진화.''' 포켓몬 최대의 수수께끼라고도 한다. ~~[[아크로마]]가 이걸 알았다면 플라스마단 따위는 대번 집어치웠을 거다~~[* 취소선이 있지만 사실일 수도 있다. 아크로마가 추구하는 건 포켓몬의 힘을 끌어내는 것이고, B2W2 스토리 마지막 쯤에는 메가진화에 필요한 유대감에 대해서도 언급했다. 덕분에 지가르데를 메인으로 한 작품에서 나올 확률이 있다.]
+
+지금까지 포켓몬이 진화할 수 있는 횟수는 포켓몬에 따라 정해진 한도가 있었다. 그러나 메가진화는 그 '''진화의 한도를 초월한''' 새로운 진화이다. 메가진화란 '''[[리미터 해제|숨겨진 힘을 일시적으로 개방하여]], [[버스트 모드|일반적인 진화로는 있을 수 없는 힘을 발휘하는 것이다.]]''' 그리고, 한 포켓몬이 두 종류의 메가진화를 갖기도 한다. [[뮤츠]]와 [[리자몽]]이 그 예. 닌텐도 드림 2013년 11월호의 마스다 준이치 & 모리모토 시게키 인터뷰에 의하면 메가진화한 포켓몬은 '''[[전설의 포켓몬]] 수준으로 강해'''진다고.전설의 포켓몬의 메가진화는 아르세우스를 뛰어넘는다~~전설의 포켓몬도 진화하던데?? 파워인플레~~
+
+메가진화는 일반적인 진화와 달리, 배틀 중에만 발생한다. 메가진화에는 '''도구''' 아이템인 메가스톤이 필요하다. X, Y버전에선 메가스톤은 3000년 전 칼로스의 왕 [[AZ(포켓몬스터)|AZ]]가 [[레쿠쟈]]의 메가진화에 대한 메커니즘을 본 뒤, 어느날 분노에 차 발동시킨 최종병기에 사용된 제르네아스(X)·이벨타르(Y)의 생명 에너지가 칼로스 전역을 강타한 뒤 돌들에 깃들어서 생겨난 것란 설정이다. 이 때문에 메가스톤이 발견되지 않는 타지방에서는 칼로스 지방에서 메가스톤을 직접 공수해 와야 한다. 예를 들어 [[포켓몬스터 THE ORIGIN]]에서 레드는 등나무 할아버지가 칼로스지방에서 선물받은 메가스톤을 받아 메가진화 하였다. 하지만 오메가루비·알파사파이어에서 호연지방 전역에 메가스톤이 떨어져 있는 걸 보아 호연지방에도 메가스톤이 발견되는 것일지도 모른다. 여담으로, 칼로스지방에선 최초의 메가진화를 한 포켓몬이 루카리오라고 한다. 그 사람의 후손이 사라시티의 코르니와 그녀의 할아버지 콘콤부르다.
+
+이 메가스톤은 OOO나이트[* ○○○는 진화할 포켓몬의 이름 : 예를 들면 번치코는 번치코나이트, 루카리오는 루카리오나이트.]라는 이름을 가지고 있고, 이를 장비한 포켓몬을 내보내고 기술 선택창에서 메가진화 버튼을 선택하면 진화하게 된다. ~~[[디지몬 시리즈|뮤츠! 메가진화!! 메가뮤츠!!]] 트레이너가 메가링에 메가스톤을 장착하고 팔을 드는 장면이 압권이다.~~ 메가스톤의 획득 방법에 대해서는 아래 메가스톤을 구하는 방법 문단 참조.
+
+또, '''키스톤''' 역시 필요하다. 이 키스톤은 여러가지 형태로 가공해 트레이너가 장비하며 이 키스톤과 포켓몬에 장비한 메가스톤이 공명해서 메가진화를 하게 되는 것이다.[* 단 메가진화 자체는 아래의 도구없이 메가스톤, 키스톤만 있어도 사용이 가능하다 휴대성, 패션용도로 이렇게 가공해서 사용하는것.] 하지만 사실 이렇게 트레이너와의 유대가 중요한 요소임에도 불구하고 친밀도를 안 쌓아도 메가진화는 할 수 있다.
+
+게임 내에서 키스톤을 장비하고 있는 트레이너와 그들의 도구는 다음과 같다.
+ * [[칼름]]/[[세레나(포켓몬스터)|세레나]] - 메가링
+ * [[코르니]] - 메가글러브
+ * [[플라드리]] - 메가링[* 칼름과 세레나의 메가링과는 이름만 같지 반지 형태의 도구다. 물론 ring이 반지라는 뜻도 있으니 문제될건 없다.]
+ * [[카르네(포켓몬스터)|카르네]] - 메가참
+ * [[휘웅]]/[[봄이]] - 메가뱅글
+ * [[민진]] - 메가펜던트
+ * [[루티아(포켓몬스터)|루티아]] - 메가티아라
+ * [[마적(포켓몬스터)|마적]] - 메가글라스
+ * [[아강]] - 메가앵커
+ * [[성호(포켓몬스터)|성호]] - 메가라펠핀
+ * [[피아나(포켓몬스터)|피아나]] - 메가앵클릿
+
+배틀 중에는 메가진화한 포켓몬은 진화 상태가 유지되며 배틀이 끝나면 진화 전으로 돌아간다. 또한 '''1번의 배틀에서 메가진화할 수 있는 포켓몬은 자신의 소유 포켓몬 6마리 중 1마리 뿐이다.''' 이 제한은 게임 밸런스를 위해 정한 것이라고 한다. 참고로 메가진화 포켓몬이 쓰러지면 원래 모습으로 돌아오며, 스토리 진행 중 기력의 조각 등으로 깨워도 해당 전투에서 다시 메가진화할 수는 없다.
+
+메가진화한 포켓몬은 이름 앞에 '메가'를 붙여 부르며(예를 들면 뮤츠가 메가진화하면 메가뮤츠가 된다.[* 때문에 본명에 이미 '메가'가 들어있는 [[메가니움]]이나 [[메가자리]], 그리고 메가보다 더 큰 접두사인 '기가'가 붙어 있는 [[기가이어스]]가 화제가 되었다.]), 메가진화한 포켓몬은 모습이 바뀌고 [종족치]가 올라가며, [[포켓몬스터/타입|타입]]이나 [[포켓몬의 특성|특성]]이 변화하거나 한다. 이는 메가진화한 포켓몬에 따라 다양하다. 공통점으로, 종족치 총합이 90 증가한 [후딘]을 제외한 거의 모든 포켓몬이 '''종족치 총합이 +100 증가'''했다. 여기에 대부분의 메가진화 포켓몬은 화력을 더욱 올려주는 특성을 가지고 있어서 실제 운용에서는 적힌 종족치 이상의 밥값을 한다. 단, 메가진화한 턴에는 메가진화로 인하여 변경된 일부 특성은 반영되지 않는다. 
+
+스피드 종족값의 경우 메가진화로 상승한 수치 자체는 적용되나, 행동 우선순위는 바뀌지 않으므로 스피드 종족값 85의 최속 쁘사이저가 메가진화해서 종족값 105가 되어 빨라졌다고 하더라도, 그 턴에는 종족값 102의 최속 한카리아스보다 먼저 공격할 수 없고, 다크펫이 메가진화를 하여 특성이 짓궃은마음으로 변경되었더라고 하더라도 우선도 +1의 보조기를 사용하지 못한다. 이것은 버그가 아니라 근본적인 대전 시스템상의 문제로, 행동 우선순위는 기술창에서 기술을 선택하는 시점, 더 정확히는 선제공격발톱 발동여부가 결정되고 우선도에 0.5가 더해진 후에 적용되는 것이기 때문이다.
+
+행동 우선순위에 대한 원리는 더블배틀을 생각하면 더 쉽게 알 수 있는데, 한쪽은 [[쥬피썬더]]과 [[에레키블]]을, 다른 쪽은 한카리아스와 [[갸라도스]]를 필드에 내보냈다고 가정할 경우 아이템과 노력치 보정이 없다면 스핏 실능은 쥬피썬더 - 한카리아스 - 에레키블 - 갸라도스 순이다. 이 턴 쥬피썬더가 가장 먼저 전기자석파를 에레키블에게 사용해 전기엔진 특성을 발동시키면 에레키블의 스피드 실능이 1랭크 상승해 한카리아스보다 높아지지만 상대의 한카리아스보다 먼저 냉동펀치를 날리지 못하고 쥬피썬더와 함께 지진에 얻어터져 필드가 쓸려버리는 상황이 연출된다. 왜냐하면 우선순위는 기술을 선택하는 시점에서 __이미__ 결정되었기 때문이다. 따라서 가장 늦게 행동하는 갸라도스에게 [[일렉트릭볼]]을 더욱 강력한 위력으로 날릴 수는 있어도 더 빨리 행동하는 한카리아스에게 냉동펀치를 날릴 수는 없다. 메가진화도 같은 이치라 생각하면 된다.
+
+[[포켓몬스터 오메가루비·알파사파이어]]에서는 [[포켓몬 콘테스트]]에서도 메가진화를 사용할 수 있다. 결정적 순간에 클라이맥스 무대를 장식하는 용도. 
+
+참고로 메가진화하는 포켓몬을 선택한 기준은 외모, 인기, 게임 밸런스 세 가지라고 한다.
+
+진화방식이 방식인지라 디지몬과 약간 겹치는 면이 생겼다. 임시적인 진화라거나, 특정 도구를 이용하여 트레이너와 공명이라거나. ~~디자인이라거나~~
+
+한 번 이상 진화한 포켓몬들이 많은데, 이들은 나올 당시에 최종진화형, 즉 완성형으로 디자인되었다는 뜻이다. 그런데 이런 포켓몬들을 한단계 더 진화시켜야 하니 ~~[[X진화|X항체]] 마냥~~ 이질적이거나 투박하게 ~~덕지덕지~~ 느껴지는 면도 더러 있는 것 같다. ~~늘 그랬듯이 보다보면 정든다.~~ 기존의 ~~쌔끈~~둥근 몸체가 각지게 변하는 경우가 많은 편. 거기에 [[울음소리]]도 살짝 손을대서 진화하면 특히 1~2세대 포켓몬들의 울음소리가 진화 전보다 기계음 느낌이 덜해지며, 모든 포켓몬의 울음소리에 메아리 효과가 들어가서 시간이 상당히 길어진다.
+
+여담으로 현재까지 공개된 그 어느 포켓몬도 메가진화시 HP [[종족치]]는 바뀌지 않는다. 배틀 중에 HP 최대값이 바뀔 경우 어떻게 계산해야할지에 대한 논란이 아예 생기지 않도록 HP는 손대지 않으려는 듯.~~다시말해 만약 메가[[껍질몬]]이 나온다 해도 원킬당하는건 확실하다는 거다.~~
+
+사실 메가진화에도 단점이 있는데, 다름아닌 '''진화의 한도를 초월한 진화'''라는 설정때문에 일단 메가진화가 있는 포켓몬은 절대로 그 이상의 진화체가 나올수 없다. 물론 뮤츠나 리자몽같이 더이상 진화체가 존재하지 않을 전설의 포켓몬, 3단 진화체라면 상관없는 이야기지만, 진화 전, 후가 아예없는 입치트같은 포켓몬한테는 의외로 치명적으로 다가올 수 있다. 다만 [야도킹], [왕구리]처럼 기존의 진화루트에서 벗어나 완전히 별개의 방향으로 진화하는 형태라면 불가능한 것은 아니다. 가능성은 낮은 편이지만...
+
+== 메가진화하는 포켓몬 일람 ==
+||<-3><tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff 메가진화 전}}} ||<|2><:> {{{#ffffff 메가스톤}}} ||<-3><:> {{{#ffffff 메가진화 후}}} ||
+||<rowbgcolor="#ff0000"><:> {{{#ffffff 포켓몬}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 특성}}} ||<:> {{{#ffffff 포켓몬}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 특성}}} ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/003_Isanghaekkot.png [[br]][[이상해꽃]] ||<:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] ||<:> 심록 ||<:> attachment:/003_Isanghaekkot_stone.png [[br]]이상해꽃나이트 ||<:> attachment:/003_Isanghaekkot_mega.png [[br]]메가이상해꽃 ||<:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] ||<:> 두꺼운지방 ||
+||<|2><rowbgcolor="#dcdcdc"><:> attachment:/006_Rijamong.png [[br]][[리자몽]] ||<|2><:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<|2><:> 맹화 ||<:> attachment:/006_Rijamong_stone_X.png [[br]]리자몽나이트 X ||<:> attachment:/006_Rijamong_mega_X.png [[br]]메가리자몽 X ||<:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]] ||<:> 단단한발톱 ||
+||<:> attachment:/006_Rijamong_stone_Y.png [[br]]리자몽나이트 Y ||<rowbgcolor="#dcdcdc"><:> attachment:/006_Rijamong_mega_Y.png [[br]]메가리자몽 Y ||<:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 가뭄 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/009_Geobukwang.png [[br]][[거북왕]] ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<:> 급류 ||<:> attachment:/009_Geobukwang_stone.png [[br]]거북왕나이트 ||<:> attachment:/009_Geobukwang_maga.png [[br]]메가거북왕 ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<:> 메가런처 ||
+||<rowbgcolor="#dcdcdc"><:> 
+http://www.serebii.net/art/th/15.png [[br]][[독침붕]] ||<:>[[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Poison.png]]||<:> 벌레의알림 ||<:> attachment:015_Dokchimbung_stone.png [[br]]독침붕나이트 ||<:> http://www.serebii.net/art/th/15-m.png [[br]]메가독침붕 ||<:>[[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Poison.png]]||<:> 적응력 ||
+||<rowbgcolor="#dcdcdc"><:> http://www.serebii.net/art/th/18.png [[br]][[피죤투]] ||<:>[[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Flying.png]] ||<:> 날카로운눈/갈기자걸음 ||<:> attachment:019_Pigeot_stone.png [[br]]피죤투나이트 ||<:>http://www.serebii.net/art/th/18-m.png [[br]]메가피죤투 ||<:>[[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]][[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Flying.png]] ||<:> 노가드 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/065_Foodin.png [[br]][[후딘]] ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 싱크로 / 정신력 ||<:> attachment:/065_Foodin_stone.png [[br]]후디나이트 ||<:> attachment:/065_Foodin_mega.png [[br]]메가후딘 ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 트레이스 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/080_Yadoran_4.png [[br]][[야도란]] ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 둔감 / 마이페이스 ||<:> attachment:080_Yadoran_stone.png [[br]] 야도란나이트 ||<:> attachment:/080_Yadoran_mega.png [[br]]메가야도란 ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 조가비갑옷 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/094_Paenteom.png [[br]][[팬텀(포켓몬스터)|팬텀]] ||<:> [[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] ||<:> 부유 ||<:> attachment:/094_Paenteom_stone.png [[br]]팬텀나이트 ||<:> attachment:/094_Paenteom_mega.png [[br]]메가팬텀 ||<:> [[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]][[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] ||<:> 그림자밟기 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/115_Kaengka.png [[br]][[캥카]] ||<:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<:> 배짱 / 일찍기상 ||<:> attachment:/115_Kaengka_stone.png [[br]]캥카나이트 ||<:> attachment:/115_Kaengka_mega.png [[br]]메가캥카 ||<:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<:> 부자유친 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/127_Ppeusaijeo.png [[br]][[쁘사이저]] ||<:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]] ||<:> 괴력집게 / 틀깨기 ||<:> attachment:/127_Ppeusaijeo_stone.png [[br]]쁘사이저나이트 ||<:> attachment:/127_Ppeusaijeo_mega.png [[br]]메가쁘사이저 ||<:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 스카이스킨 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/130_Gyarados.png [[br]][[갸라도스]] ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 위협 ||<:> attachment:/130_Gyarados_stone.png [[br]]갸라도스나이트 || attachment:/130_Gyarados_mega.png [[br]]메가갸라도스 ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]] ||<:> 틀깨기 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/142_Ptera.png [[br]][[프테라]] ||<:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 프레셔 / 돌머리 ||<:> attachment:/142_Ptera_stone.png [[br]]프테라나이트 ||<:> attachment:/142_Ptera_mega.png [[br]][혹등고래|메가프테라] ||<:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 단단한발톱 ||
+||<|2><rowbgcolor="#dcdcdc"><:> attachment:/150_Mewtwo.png [[br]][[뮤츠]] ||<|2><:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<|2><:> 프레셔 ||<:> attachment:/150_Mewtwo_stone_X.png [[br]]뮤츠나이트 X ||<:> attachment:/150_Mewtwo_mega_X.png [[br]]메가뮤츠 X ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 불굴의마음 ||
+||<:> attachment:/150_Mewtwo_stone_Y.png [[br]]뮤츠나이트 Y ||<rowbgcolor="#dcdcdc"><:> attachment:/150_Mewtwo_mega_Y.png [[br]]메가뮤츠 Y ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 불면 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/181_Jeonryong.png [[br]][[전룡]] ||<:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<:> 정전기 ||<:> attachment:/181_Jeonryong_stone.png [[br]]전룡나이트 ||<:> attachment:/181_Jeonryong_mega.png [[br]]메가전룡 ||<:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]] ||<:> 틀깨기 ||
+||<rowbgcolor="#dcdcdc"><:> http://www.serebii.net/art/th/208.png [[br]][[강철톤]] ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 옹골참 / 돌머리 ||<:> attachment:208_Gangchurton_stone.png [[br]]강철톤나이트 ||<:> http://www.serebii.net/art/th/208-m.png [[br]]메가강철톤 ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 모래의힘 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/212_Hassam.png [[br]][[핫삼]] ||<:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]][[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]] ||<:> 벌레의알림 / 테크니션 ||<:> attachment:/212_Hassam_stone.png [[br]]핫삼나이트 ||<:> attachment:/212_Hassam_mega.png [[br]]메가핫삼 ||<:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]][[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]] ||<:> 테크니션 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/214_Heracros.png [[br]][[헤라크로스]] ||<:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 벌레의알림 / 근성 ||<:> attachment:/214_Heracros_stone.png [[br]]헤라크로스나이트 ||<:> attachment:/214_Heracros_mega.png [[br]]메가헤라크로스 ||<:> [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 스킬링크 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/229_Hellgar.png [[br]][[헬가(포켓몬스터)|헬가]] ||<:> [[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]][[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] ||<:> 일찍기상 / 타오르는불꽃 ||<:> attachment:/229_Hellgar_stone.png [[br]]헬가나이트 ||<:> attachment:/229_Hellgar_mega.png [[br]]메가헬가 ||<:> [[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]][[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] ||<:> 선파워 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/248_Magiraseu.png [[br]][[마기라스]] ||<:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]][[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]] ||<:> 모래날림 ||<:> attachment:/248_Magiraseu_stone.png [[br]]마기라스나이트 ||<:> attachment:/248_Magiraseu_mega.png [[br]]메가마기라스 ||<:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]][[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]] ||<:> 모래날림 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/254_Namuking.png [[br]][[나무킹]] ||<:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]] ||<:> 심록 ||<:> attachment:254_Namuking_stone.png [[br]]나무킹나이트 ||<:> attachment:/254_Namuking_mega.png [[br]]메가나무킹 ||<:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]][[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]] ||<:>  피뢰침 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/257_Beonchiko.png [[br]][[번치코]] ||<:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 맹화 ||<:> attachment:/257_Beonchiko_stone.png [[br]]번치코나이트 ||<:> attachment:/257_Beonchiko_mega.png [[br]]메가번치코 ||<:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 가속 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/260_Daejjang-i.png [[br]][[대짱이]] ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 급류 ||<:> attachment:260_Daejjang-i_stone.png [[br]] 대짱이나이트 ||<:> attachment:/260_Daejjang-i_mega.png [[br]]메가대짱이 ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 쓱쓱 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/282_Guardian.png [[br]][[가디안]] ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 트레이스 / 싱크로 ||<:> attachment:/282_Guardian_stone.png [[br]]가디안나이트 ||<:> attachment:/282_Guardian_mega.png [[br]]메가가디안 ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 페어리스킨 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/302_Kkamkkami.png [[br]][[깜까미]] ||<:> [[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]][[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]] ||<:> 날카로운눈 / 시간벌기 ||<:> attachment:302_Kkamkkami_stone.png [[br]]깜까미나이트 ||<:> attachment:/302_Kkamkkami_mega.png [[br]]메가깜까미 ||<:> [[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]][[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]] ||<:> 매직미러 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/303_Ipcheat.png [[br]][[입치트]] ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 괴력집게 / 위협 ||<:> attachment:/303_Ipcheat_stone.png [[br]]입치트나이트 ||<:> attachment:/303_Ipcheat_mega.png [[br]]메가입치트 ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 천하장사 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/306_Boseurora.png [[br]][[보스로라]] ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]][[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]] ||<:> 옹골참 / 돌머리 ||<:> attachment:/306_Boseurora_stone.png [[br]]보스로라나이트 ||<:> attachment:/306_Boseurora_mega.png [[br]]메가보스로라 ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]] ||<:> 필터 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/308_Yogarem.png [[br]][[요가램]] ||<:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]][[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 순수한힘 ||<:> attachment:/308_Yogarem_stone.png [[br]]요가램나이트 ||<:> attachment:/308_Yogarem_mega.png [[br]]메가요가램 ||<:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]][[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 순수한힘 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/310_thunderbolt.png [[br]][[썬더볼트(포켓몬스터)|썬더볼트]] ||<:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<:> 정전기 / 피뢰침 ||<:> attachment:/310_thunderbolt_stone.png [[br]]썬더볼트나이트 ||<:> attachment:/310_thunderbolt_mega.png [[br]]메가썬더볼트 ||<:> [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||<:> 위협 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/319_Sharknia.png [[br]][[샤크니아]] ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]] ||<:> 까칠한피부 ||<:> attachment:319_Sharknia_stone.png [[br]]샤크니아나이트 ||<:> attachment:/319_Sharknia_mega.png [[br]]메가샤크니아 ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]][[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]] ||<:> 옹골찬턱 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/323_Pokta.png [[br]][[폭타]] ||<:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 마그마의무장 / 하드록 ||<:> attachment:323_Pokta_stone.png [[br]]폭타나이트 ||<:> attachment:/323_Pokta_mega.png [[br]]메가폭타 ||<:> [[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 우격다짐 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/334_Pabikori.png [[br]][[파비코리]] ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 자연회복 ||<:> attachment:334_Pabikori_stone.png [[br]]파비코리나이트 ||<:> attachment:/334_Pabikori_mega.png [[br]]메가파비코리 ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 페어리스킨 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/354_darkpet.png [[br]][[다크펫]] ||<:> [[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]] ||<:> 불면 / 통찰 ||<:> attachment:/354_darkpet_stone.png [[br]]다크펫나이트 ||<:> attachment:/354_darkpet_mega.png [[br]]메가다크펫 || [[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]] ||<:> 짓궂은마음 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/359_Absol.png [[br]][[앱솔]] ||<:> [[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]] ||<:> 프레셔 / 대운 ||<:> attachment:/359_Absol_stone.png [[br]]앱솔나이트 ||<:> attachment:/359_Absol_mega.png [[br]]메가앱솔 ||<:> [[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark_2.png]] ||<:> 매직미러 ||
+||<rowbgcolor="#dcdcdc"><:> http://www.serebii.net/art/th/362.png [[br]][[얼음귀신]] ||<:> [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<:> 정신력 / 아이스바디 ||<:> attachment:362_Eoleurngwishin_stone.png [[br]]얼음귀신나이트 ||<:> http://www.serebii.net/art/th/362-m.png [[br]]메가얼음귀신 ||<:> [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<:> 프리즈스킨 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/373_Bomanda.png [[br]][[보만다]] ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 위협 ||<:> attachment:373_Bomanda_stone.png [[br]]보만다나이트 ||<:> attachment:/373_Bomanda_maga.png [[br]]메가보만다 ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 스카이스킨 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/376_Metagross.png [[br]][[메타그로스]] ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]][[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 클리어바디  ||<:> attachment:376_Metagross_stone.png [[br]]메타그로스나이트 ||<:> attachment:/376_Metagross_mega.png [[br]]메가메타그로스 ||<:> [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]][[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||<:> 단단한발톱 ||
+||<rowbgcolor="#dcdcdc"><:> http://www.serebii.net/art/th/380.png [[br]][[라티아스]] ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Psychic.png]] ||<:> 부유 ||<:> attachment:380_Latias_stone.png [[br]]라티아스나이트 || http://www.serebii.net/art/th/380-m.png [[br]]메가라티아스 ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Psychic.png]] ||<:> 부유 ||
+||<rowbgcolor="#dcdcdc"><:>http://www.serebii.net/art/th/381.png [[br]][[라티오스]] ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Psychic.png]] ||<:> 부유 ||<:> attachment:381_Latios_stone.png [[br]]라티오스나이트 || http://www.serebii.net/art/th/381-m.png [[br]]메가라티오스 ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Psychic.png]] ||<:> 부유 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/384_Rekujya.png [[br]][[레쿠쟈]] ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 에어록 ||<:> 없음[* [[화룡점정]]을 익히고 있으면 메가진화 할 수 있다.] || http://www.serebii.net/art/th/384-m.png [[br]]메가레쿠쟈 ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||<:> 델타스트림 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/428_Earlop.png [[br]][[이어롭]] ||<:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<:> 헤롱헤롱바디 / 서투름 ||<:> attachment:428_Earlop_stone.png [[br]] 이어롭나이트 ||<:> attachment:/428_Earlop_mega.png [[br]]메가이어롭 ||<:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 배짱 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/445_Hankariaseu.png [[br]][[한카리아스]] ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 모래숨기 ||<:> attachment:/445_Hankariaseu_stone.png [[br]]한카리아스나이트 ||<:> attachment:/445_Hankariaseu_mega.png [[br]]메가한카리아스 ||<:> [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon_2.png]][[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 모래의힘 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/448_Lucario.png [[br]][[루카리오]] ||<:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]][[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]] ||<:> 불굴의마음 / 정신력 ||<:> attachment:/448_Lucario_stone.png [[br]]루카리오나이트 ||<:> attachment:/448_Lucario_mega.png [[br]]메가루카리오 ||<:> [[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]][[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel_2.png]] ||<:> 적응력 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/460_Nunseolwang.png [[br]][[눈설왕]] ||<:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]][[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<:> 눈퍼트리기 ||<:> attachment:/460_Nunseolwang_stone.png [[br]]눈설왕나이트 ||<:> attachment:/460_Nunseolwang_mega.png [[br]]메가눈설왕 ||<:> [[포켓몬스터/타입/설명#s-2.4|attachment:/Pokemon_Type_Grass.png]][[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||<:> 눈퍼트리기 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/475_Ellade.png [[br]][[엘레이드]] ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 불굴의마음 ||<:> attachment:475_Ellade_stone.png [[br]]엘레이드나이트 ||<:> attachment:/475_Ellade_mega.png [[br]]메가엘레이드 ||<:> [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]][[포켓몬스터/타입/설명#s-2.7|attachment:/Pokemon_Type_Fighting.png]] ||<:> 정신력 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/531_Dabuni_1.png [[br]][[다부니]] ||<:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]] ||<:> 치유의마음 / 재생력 ||<:> attachment:531_Dabuni_stone.png [[br]]다부니나이트 ||<:> attachment:/531_Dabuni_mega.png [[br]]메가다부니 ||<:> [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal_2.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 치유의마음 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/719_Diancie.png [[br]][[디안시]] ||<:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 클리어바디 ||<:> attachment:719_Diancie_stone.png [[br]]디안시나이트 ||<:> attachment:/719_Diancie_mega.png [[br]]메가디안시 ||<:> [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock_2.png]][[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||<:> 매직미러 ||
+
+== 메가스톤을 구하는 방법 ==
+=== [[포켓몬스터 X·Y]] ===
+보통 메가링 업그레이드 전/후로 나뉜다. 메가링 업그레이드는 전국도감 업그레이드를 하고 [[기남시티]]의 배틀하우스에서 배틀을 한 뒤, 라이벌과의 배틀을 하고 나서 앱솔나이트를 받고 [[향전시티]]에 있는 플라타느박사에게 받아야 한다.
+
+따라서 메가링 업그레이드 후 구할 수 있는 모든 메가스톤은 게임 내에선 엔딩 이후에 얻을 수 있다.
+
+==== 메가링 업그레이드 없이 구할 수 있는 메가스톤 ====
+ * 이상해꽃나이트 : 이상해씨를 고르면 [[플라타느박사|박사]]에게 선물받으며, 스톤 숍에서도 판다.
+ * 리자몽나이트 X : X에서 파이리를 고르면 박사에게 선물받으며, 스톤 숍에서도 판다.
+ * 리자몽나이트 Y : Y에서 파이리를 고르면 박사에게 선물받으며, 스톤 숍에서도 판다.
+ * 거북왕나이트 : 꼬부기를 고르면 박사에게 선물받으며, 스톤 숍에서도 판다.
+ * 프테라나이트 : 반짝임의 동굴에서의 스토리를 끝낸 후, 화석 연구소에 있는 연구원에게 말을 건다.
+ * 루카리오나이트 : [[코르니]]가 주는 루카리오가 가지고 있다.
+ * 전룡나이트 : 아쥐르 만의 노인이 준다. [[파도타기]]가 필요하다.
+ * 팬텀나이트 : [[후늬시티]]의 포켓몬애호가 집 앞에 있는 오컬트매니아가 준다. 단 필드에서 팬텀 계열을 만난 적이 있어야 한다. GTS에서 고우스트를 얻어서 해결 할 수 있다. (고우스트는 교환을 통해 팬텀으로 진화)
+ * 눈설왕나이트 : 프로스트케이브에서 플레어단을 이기고 난 후 NPC 눈설왕이 준다.
+ * 뮤츠나이트 X : X에서 전당등록 후 이름없는 동굴에서 잡은 뮤츠가 가지고 있다.
+ * 뮤츠나이트 Y : Y에서 전당등록 후 이름없는 동굴에서 잡은 뮤츠가 가지고 있다.
+ * 가디안나이트 : 전당등록 후 미르시티의 [[카르네(포켓몬스터)|카르네]]가 주는 랄토스가 가지고 있다.
+ * 앱솔나이트 : 전당등록 후 [[기남시티]]에서 라이벌과의 대결에서 승리. 배틀하우스에서 최소 한 번 이상 배틀을 진행해야 라이벌이 나타난다.
+
+==== 메가링 업그레이드 후 구할 수 있는 메가스톤 ====
+전당등록 후 기남시티에서 라이벌을 이기고, 앱솔나이트를 받으면 플라타느박사가 [[향전시티]]로 부르는데, 이 때 메가링을 업그레이드 할 수 있다. 이하 메가스톤은 모두 오후 8~9시 사이에만 입수가 가능하다.
+
+ * 쁘사이저나이트 : X에서 백단 숲의 입구 앞부분에서 얻을 수 있다.
+ * 헤라크로스나이트 : Y에서 백단 숲의 입구 앞부분에서 얻을 수 있다.
+ * 다크펫나이트 : 공허의 방에서 얻을 수 있다.
+ * 입치트나이트 : 침울한 성 2층에서 얻을 수 있다.
+ * 캥카나이트 : 반짝임의 동굴에서 얻을 수 있다.
+ * 마기라스나이트 : X에서 [[삼채시티|삼채체육관]]에서 얻을 수 있다.
+ * 보스로라나이트 : Y에서 삼채체육관에서 얻을 수 있다.
+ * 후디나이트 : [[비춤의 동굴]] 지하 2층에서 얻을 수 있다.
+ * 요가램나이트 : 후늬시티의 우물 앞에서 얻을 수 있다.
+ * 썬더볼트나이트 : X에서 16번 도로에 있는 롤러스케이터거 돌고 있는 트랙에서 얻을 수 있다.
+ * 헬가나이트 : Y에서 16번 도로에 있는 롤러스케이터거 돌고 있는 트랙에서 얻을 수 있다.
+ * 핫삼나이트 : 프로스트케이브에 있는 눈설왕 뒤에서 얻을 수 있다.
+ * 갸라도스나이트 : [[배롱마을]]의 폭포 근처에서 얻을 수 있다.
+ * 한카리아스나이트 : [[챔피언로드]]에서 오컬트매니아가 있는 곳으로부터 서쪽. [[바위깨기]]가 필요하다.
+
+==== 그 외 ====
+ * 번치코나이트 : 이벤트 배포용 포켓몬인 아차모가 가지고 있다. 현재는 획득 불가능. 오메가루비/알파사파이어에서 재등장 했다.
+
+=== [[포켓몬스터 오메가루비·알파사파이어]] ===
+ORAS에서 추가된 메가진화 포켓몬의 메가스톤 뿐 아니라 X·Y에서 등장한 메가진화 포켓몬의 메가스톤도 획득할 수 있다. 이 중 일부는 초고대포켓몬 사건 해결 이후에 얻을 수 있다. X·Y에도 존재하는 메가스톤이라면 교환을 통해 오메가루비·알파사파이어에도 옮겨올 수 있다. 버전에 따라 얻을 수 있는 메가스톤이 나뉘지는 않지만, 한카리아스나이트같이 입수 조건이 괴랄한 메가스톤이 있다.
+
+ * 이상해꽃나이트 : 119번 도로에 있는 체력을 회복시켜주는 민가 근처에서 얻을 수 있다.
+ * 리자몽나이트 X : 불꽃샛길 괴력 바위 너머에서 얻을 수 있다.
+ * 리자몽나이트 Y : 가뭄의 암굴 지하 2층에서 얻을 수 있다.
+ * 거북왕나이트: 잿빛도시 ↔ 해안시티 배 갑판에서 얻을 수 있다.
+ * 독침붕나이트: 씨보라의 지하창고에서 얻을 수 있다.
+ * 피죤투나이트: 잔디마을 여자아이의 버섯꼬를 찾아준 뒤에, 대단할 듯한 돌을 나발명에게 보여준다. 버섯꼬는 꼬마의 말처럼 마을 중앙의 간판에 말을 걸면 간판 뒤에서 나온다.
+ * 후디나이트: 잿빛도시 시장의 길바닥에서 얻을 수 있다.
+ * 야도란나이트: 여울의 동굴에서 소금과 껍질을 4개씩 모아 동굴 안의 NPC에게 준다.
+ * 팬텀나이트: 도핑약이 깔린 배틀리조트의 민가에서 얻을 수 있다.
+ * 캥카나이트: 황금마을의 포켓몬센터 옆에서 얻을 수 있다.
+ * 쁘사이저나이트: 124번 수로 다이빙 가능한 장소 구석에서 얻을 수 있다.
+ * 갸라도스나이트: 123번 도로에 있는 낚시 하우스의 포차냐에게 말을 걸면 받을 수 있다.
+ * 프테라나이트: 유성폭포 아공이가 나오는 최심부로 떨어지는 절벽 사이에서 얻을 수 있다.
+ * 뮤츠나이트 X: 미로마을 털보박사 연구소 옆에서 얻을 수 있다.
+ * 뮤츠나이트 Y: 포켓몬리그 입구 옆에서 얻을 수 있다.
+ * 전룡나이트: 뉴보라 메인컴퓨터 근처에서 얻을 수 있다.
+ * 강철톤나이트: 바위 동굴 3층에서 얻을 수 있다. 또한 체험판에서 받은 강철톤이 가지고 있다.
+ * 핫삼나이트: 등화숲에서 풀베기로 갈 수 있는 곳에 있다.
+ * 헤라크로스나이트: 127번 수로 우측 낚시꾼 근처에서 얻을 수 있다.
+ * 헬가나이트 : 용암마을의 온천 근처에서 얻을 수 있다.
+ * 마기라스나이트: 울퉁불퉁산길 하단부에서 얻을 수 있다.
+ * 나무킹나이트: 스타팅일 경우 켈리몬 이벤트 직후 성호에게 받는다. 스타팅으로 고르지 않았다면 114번 도로에서 구입할 수 있다.
+ * 번치코나이트: 스타팅일 경우 켈리몬 이벤트 직후 성호에게 받는다. 스타팅으로 고르지 않았다면 114번 도로에서 구입할 수 있다.
+ * 대짱이나이트: 스타팅일 경우 켈리몬 이벤트 직후 성호에게 받는다. 스타팅으로 고르지 않았다면 114번 도로에서 구입할 수 있다.
+ * 가디안나이트: 잔디마을에 있는 민진의 사촌누나에게 받을 수 있다.
+ * 깜까미나이트: 각성의 사당 근처에서 얻을 수 있다.
+ * 입치트나이트: 117번도로 꽃밭 쪽 샛길에서 얻을 수 있다.
+ * 보스로라나이트: 금잔터널에서 바위깨기를 기억하고 있는 포켓몬을 들고 바위를 깨주면 사례로 받는다.
+ * 요가램나이트: 송화산 3층에서 얻을 수 있다.
+ * 썬더볼트나이트: 사이클링로드 보라시티 쪽 입구에서 우측방향 자전거를 타지 않은 여성 트레이너 옆에서 얻을 수 있다.
+ * 샤크니아나이트: 오메가루비라면 배틀리조트에서 아강이 준다. 알파사파이어라면 에피소드 델타 중 아쿠아단 기지에서 얻을 수 있다.
+ * 폭타나이트: 오메가루비라면 에피소드 델타 중 마그마단 기지에서 얻을 수 있다. 알파사파이어라면 배틀리조트에서 마적이 준다.
+ * 파비코리나이트: 해안시티의 수집가에게 파비코리를 보여준다.
+ * 다크펫나이트: 송화산 정상 오른쪽 샛길에서 얻을 수 있다.
+ * 앱솔나이트: 사파리존의 더트자전거로 갈 수 있는 곳에서 얻을 수 있다.
+ * 얼음귀신나이트: 썰물 시간대에 갈 수 있는 여울의 동굴 얼음의 방에서 얻들 수 있다. 또한 체험판에서 받은 얼음귀신이 가지고 있다.
+ * 보만다나이트: 유성폭포에 있는 피아나의 할머니에게 받을 수 있다.
+ * 메타그로스나이트: 성호와의 재대결 후 성호에게 받을 수 있다. 또한 배포받은 메탕이 가지고 있다.
+ * 라티아스나이트: 오메가루비라면 에피소드 델타 이후 어머니께 받을 수 있고, 알파사파이어라면 남쪽의 외딴섬에서 얻을 수 있는 라티아스와 함께 얻을 수 있다.
+ * 라티오스나이트: 오메가루비라면 남쪽의 외딴섬에서 얻을 수 있는 라티오스와 함께 얻을 수 있고, 알파사파이어라면 에피소드 델타 이후 어머니에게 받을 수 있다.
+ * 이어롭나이트: 보라시티의 정장을 입은 남자에게 받을 수 있다.
+ * 한카리아스나이트 : 비밀기지 플래그를 '''1000개''' 모은 후 검방울시티의 성한이 준다.--X·Y에서 옮겨오자.--
+ * 루카리오나이트 : 콘테스트 마스터 랭크에서 루티아를 이기면 만성이 준다.
+ * 눈설왕나이트: 123번도로의 나무를 키울 수 있는 곳에서 얻을 수 있다.
+ * 엘레이드나이트: 에피소드 델타 클리어 후, 단풍마을의 과학자에게 받을 수 있다.
+ * 다부니나이트: 배틀리조트의 핸섬에게 받을 수 있다.
+ * 디안시나이트: 디안시를 보유한 상태에서 포켓몬센터를 방문한다.
+
+== 원시회귀 ==
+||<-3><tablealign=center><rowbgcolor="#ff0000"><:> {{{#ffffff 원시회귀 전}}} ||<|2><:> {{{#ffffff 진화도구}}} ||<-3><:> {{{#ffffff 원시회귀 후}}} ||
+||<rowbgcolor="#ff0000"><:> {{{#ffffff 포켓몬}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 특성}}} ||<:> {{{#ffffff 포켓몬}}} ||<:> {{{#ffffff 타입}}} ||<:> {{{#ffffff 특성}}} ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/382_Gaioga.png [[br]][[가이오가]] ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<:> 잔비 ||<:> attachment:메가진화/ORAS_Blue_Orb.png [[br]]쪽빛구슬 ||<:> attachment:/382_Gaioga_Primal.png [[br]]원시가이오가 ||<:> [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||<:> 시작의바다 ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/383_Groundon.png [[br]][[그란돈]] ||<:> [[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||<:> 가뭄 ||<:> attachment:메가진화/ORAS_Red_Orb.png [[br]]주홍구슬 ||<:> attachment:/383_Groundon_Primal.png [[br]]원시그란돈 ||<:> [[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]][[포켓몬스터/타입/설명#s-2.2|attachment:/Pokemon_Type_Fire.png]] ||<:> 끝의대지 ||
+
+'''원시회귀'''라는 이름으로 신 형태가 드러난 3세대 전설 초고대 포켓몬. 연출은 메가진화와 유사하지만, 메가진화와 어떤 관련성을 가지는지는 의문투성이이다. 오로지 그란돈과 가이오가만 할 수 있어서 진화 방법으로서는 단절되어버렸다고. ~~태초의 원래 힘을 되찾았다는 설정에서 최초의 원시회귀는 [[프테라]]라는 설이 있다~~[* 프테라는 메가진화가 옛날 원래모습이라 주장하는 연구자가 있을 뿐 정말 프테라의 최초의 모습인지는 알 수 없다.] 특별체험판 1회차에서 성호가 하는 말에 따르면, 초 고대에 잃어버린 진화라고 한다. ~~[[원시의힘]]과 관계가 있...을 지도?~~
+
+메가진화는 한 파티에 한 포켓몬만 진화가 가능하지만, 원시회귀는 이것에 구애받지 않는다고 한다. 심지어 두마리 동시에 원시회귀하는 것도 가능하다. 원시회귀는 메가진화처럼 발동하는게 아닌 볼에서 나오면 자동발동이므로 메가진화라기보단 일종의 [폼 체인지]에 가깝다. --그냥 폼 체인지로 하지--
+
+참고로 주홍구슬은 오메가루비일 경우엔 그란돈 이벤트 후 마적으로부터, 알파사파이어일 경우엔 송화산 정상에서 얻을 수 있으며 쪽빛구슬은 오메가루비일엔 경우 송화산 정상에서, 알파사파이어일 경우엔 가이오가 이벤트 후 아강으로부터 얻을 수 있다.
+
+== [[포켓몬스터 TCG]]에서의 메가진화 ==
+포켓몬EX에서 진화하는 진화 포켓몬의 형태로 등장. 여기서는 M진화라 쓰고 메가진화라고 읽으며, M진화 포켓몬의 이름 앞엔 M이 붙는다. 당연히 진화 전 포켓몬과는 다른 이름으로 취급하여, 각각 4장씩 덱에 넣을 수 있다.
+
+M진화 포켓몬만의 룰로, M진화 포켓몬으로 진화한 즉시 '''턴을 종료한다.''' 또한 M진화 포켓몬 또한 포켓몬EX이므로 기절하면 프라이즈를 2장 내주게 된다.
+ 
+XY2 시점에서의 취급은 [[우주쓰레기]]. 턴제 게임에서 한 턴을 그대로 날려먹는다는 건 상상을 초월하는 페널티인데, 그에 반해 M진화 포켓몬들의 스펙은 그저 그런 수준이다. 체력은 220~230으로 엄청나게 높긴 하지만, 대체로 기술의 발비가 높으면서 발비 대비 효율은 떨어지기 때문에 쓸 가치가 없다.
+
+원작에서의 메가진화의 메커니즘 자체가 DP 시리즈의 LV.X 포켓몬과 유사했기 때문에, LV.X를 리메이크해서 내지 않을까 하는 추측이 대세였으나 [[현실은 시궁창]]. 원작 파괴급의 페널티를 달고 나와서 도저히 써먹을 수가 없는 수준이 되었다. 거기다 M진화 룰 텍스트가 기술 칸 하나를 잡아먹고 있는지라 기술이 하나밖에 없다. 어차피 빨리 띄우기도 여러 체 띄우기도 힘들기 때문에 저발비 기술이 필요치는 않지만, 기술 칸이 하나밖에 없단 소리는 '''특성을 가질 수 없다'''는 소리이므로 앞으로도 페널티를 감수하고 쓸만한 M진화가 나올 가능성은 낮다. --분명 유희왕에도 이거 [[버스터 모드|비슷한 게]] 있지 않았나?--
+
+M진화 포켓몬의 실전 효용성을 떠나서, '''굳이 포켓몬EX로부터 진화하게 했어야 했나'''는 점도 의문. 단순히 비EX로부터 진화하게 했으면 EX 중심의 환경의 변화도 꾀할 수 있으며, 턴 종료 같은 무식한 페널티를 붙여서 낼 필요도 없었다.
+
+== 기타 ==
+초기 공개 당시에는 반응은 반반했다. 일단 포켓몬을 한단계 진화시킨다는 점과 전투 도중에 진화한다는 점때문에 "포켓몬이 [디지몬] 따라가냐?" 하는 우스갯 소리도 없지 않았다. 사실상 의도는 좋으나 당시에는 [충공깽]같은 상황. 호응하는 유저는 하향된 포켓몬을 살리는 느낌이라 좋다라는 것과 좋은 디자인 및 새로운 전투 변수라는 점때문에 좋아하는 유저도 있다. --그래서 사기포켓몬이 더 생긴건 비밀--
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/gLY062owp8M?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+메가진화를 하는 장면을 모은 영상이다. ~~메가진화를 하는 것보다 저 근성에 넋을 잃고 보게 되는 영상이다~~ [특별한 색] 포켓몬의 메가진화는 [http://m.youtube.com/watch?v=Iu_uGLEw7NY 이쪽]
+
+라티아스와 라티오스는 X·Y 페이지에서 환상의 포켓몬을 까발렸던 프랑스의 3DS 해커인 Smealum이 올린 정보를 통해 먼저 메가진화 한다는 소식이 [http://pokejungle.net/2013/11/01/two-new-mega-pokemon-revealed/ 밝혀졌다.] 이후 오메가루비·알파사파이어에서 정식 공개되었다.
+
+또한 해커들에 의하면 램 값을 통해 확인한 롬 데이터 내에 메가스톤이 30종 정도 있어야한다. 즉 X·Y 내에 지금까지 나온 28종의 메가스톤을 제외한 2개의 메가스톤이 있어야한다는 이야기. 그리고 프랑스 해커가 위에 밝혀진 라티 남매가 각각의 전용 메가스톤으로 메가진화한다고 함으로써 일단 롬 데이터 내에 들어있는 30종 메가스톤이 전부 밝혀졌다. 하지만, X·Y부터는 패치가 가능하고 컨텐츠를 추가할 수 있기 때문에 롬 데이터에 들어있는 것이 전부라고는 할 수 없다. 라티남매의 메가스톤과 메가진화 형태가 롬에 들어있기 때문인지, OR/AS에서 X/Y로 메가스톤과 함께 라티남매를 통신교환으로 넘기는것도 가능하다.
+
+한 때 [[테오키스]]/[[게노세크트]] 등 전설의 포켓몬들이 메가진화를 한다던가 [[보만다]]/[[다크라이]]가 R·S[* R과 S는 각각 루비, 사파이어를 뜻한다.] 메가진화를 한다는 등 루머가 퍼져 3세대 리메이크가 오나 하고 많은 이들이 설레이는 동시에~~[[포켓몬스터 오메가루비·알파사파이어|'''그런데 보만다 쪽은 실제로 일어났다''']]~~ 밸런스는 어디다 팔아먹었냐는 우려를 하는 이들도 있었으나 출처가 한국인데다 라티남매와는 달리 스크린샷도 전혀 없었다. 관련 루머가 적혀있는 해외 사이트가 딱 한곳 있었는데, 출처가 한국 웹이라고 표시해 놓은 것. 결정적으로 특성 영칭조차 틀렸다. 비영어권 사람이 낚시를 위해 만든 루머란 확실한 증거. 결국 조작으로 드러났으나 이미 해외로도 퍼져버렸기에 전세계의 사람들이 골고루 낚여버렸다….
+
+[[포켓몬 불가사의 던전 빨강 구조대/파랑 구조대]]에 나오는 후딘 팀[* [[후딘]], [[리자몽]], [[마기라스]]로 구성된 구조대.]의 멤버들과 [[포켓몬 불가사의 던전 시간의 탐험대/어둠의 탐험대]]에 나오는 차밍 팀[* [[이어롭]], [[가디안]], [[요가램]]으로 구성된 탐험대.] 멤버들은 전부 메가진화를 할 수 있는 포켓몬들이다. 이들은 작중 강력한 구조대/탐험대인 걸 생각하면 노린 것일지도 모른다. 게다가 후딘 팀의 후딘이 스토리 이후에 언급하는 루카리오도 메가진화가 가능하고, 구조대 스토리의 메인 캐릭터인 팬텀 역시 메가진화가 가능하다. 또한 차밍 팀과 더불어 강력한 탐험대이자 탐험대 스토리 마지막에 등장해 [[맥거핀|아무 일도 하지 않는]] 레이더스 팀의 일원인 [[엘레이드]]가 메가진화를 얻게 되었는데, 나머지 [[로즈레이드]]와 [[거대코뿌리]]는 어떨지...
+
+XY 애니메이션에서는 [[포켓몬스터 XY -최강 메가진화-]]라는 특별편을 만들었다. 항목 참고.
+
+메가진화한 포켓몬의 작명은 본래 포켓몬의 이름 앞에 '메가-'라는 말이 붙는데, 이것 때문에 몇몇 유저들은 [[메가니움]], [[메가자리]], [[기가이어스]]등의 메가진화 폼이 존재한다면 메가진화한 상태에서의 작명이 어떻게 이루어질지 주목을 끌고 있다(...).[* 참고로 저들의 해외 명칭을 알려주자면 메가니움은 일단 독일을 제외하면 '''전 세계 공통 명칭'''인데다 독일마저도 '''''Meganie'''다. 메가자리는 일칭이 '''メガ'''ヤンマ, 그 외의 국가에선 Yan'''mega'''다. 기가이어스의 경우, 일칭은 한칭과 같으니 넘어가고, Brockoloss인 독일명을 제외하면 전부 이름 앞에 '''기가'''('''Giga'''lith/프랑스에선 '''Giga'''lithe)가 들어간다.] ~~메가메가니움~~ ~~메가메가자리~~ ~~아니면 메가퇴화를 하자 니움과 자리~~ ~~긍정적인 의미에서 기가니움이나 기가자리, 테라이어스로 바꾸는 것도 괜찮은 것 같기도 하고...~~ ~~그럼 [[테라키온]]은? [[페타]]리온?~~ ~~[[고만해 미친놈들아]]~~
+
+[[대난투 스매시 브라더스 for Nintendo 3DS / Wii U]]에도 포켓몬 신요소로서 삽입되었다. [[루카리오]]와 [[리자몽]]이 등장해 메가진화한다. 
+
+[[각주]]

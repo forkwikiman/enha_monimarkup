@@ -1,0 +1,164 @@
+[[DJMAX 시리즈]]의 요소 중 하나.
+
+초창기 온라인 때부터 등장한 시스템 중 하나. [[BGA]]에 나오는 캐릭터를 모태로 삼아 아이콘 형태로 나온 것으로, 일종의 장식용 아이템이다. 그러나 [[DJMAX Portable 2]]에서는 [[기어]], [[노트]]와 함께 보정 시스템이 붙어버리는 바람에,게임 진행에 유리한 특정 캐릭터만 고르게 되는 일이 비일비재하였다.
+
+그 뒤의 후속작인 [[DJMAX CE&BS]]에서는 장식용으로 회귀하였으나, [[DJMAX Portable 3]]과 [[DJMAX TECHNIKA TUNE]]에서 다시 보정 옵션이 붙게 되어 캐릭터 편향이 다시 심해진 추세.
+
+기재시에는 [[DJMAX 시리즈]]나 [[탭소닉 링스타]] 등의 관련작품 내에서 이름이 직접 등장하는 경우, 또는 원작자가 직접 밝혔을 경우에만 기재할 것. 특히 DJMAX 외의 것에서 공개된 경우는 그 사실도 함께 기재하는 것을 권장한다. 
+
+당연하지만 '''동인설정 등 임의로 이름이 붙은 것은 위 조건에 해당하지 않는다.'''
+
+[[목차]]
+== 작품별 캐릭터 목록 ==
+=== [DJMAX Portable 2] ===
+|| 캐릭터 || 출연작품 || 성능 || 해금 조건 ||
+||나래||[[Right Now]]||Auto+1||[[XC 미션]] [[First Step]] 클리어||
+||모키||[[Lost'n Found]]||Tech+3%||XC 미션 [[Day Dream]] 클리어||
+||라이라||[[Bye Bye Love]]||Gold+3%||XC 미션 [[Love Extreme]] 클리어||
+||환||[[Get on Top]]||Exp+3%||XC 미션 [[The Robots]] 클리어||
+||아미||[[Stay With Me]]||Fever+5%||XC 미션 [[SweetCute]] 클리어||
+||루트||[[Syriana]]||Auto+2||XC 미션 [[Funkfest]] 클리어||
+||스텔라||[[Mess it Up]]||Gold+5%||XC 미션 [[Fever Time]] 클리어||
+||무시로||[[Yo Creo Que Si]]||Tech+2%||XC 미션 [[Breaking The Law]] 클리어||
+||캐서린||[[Starfish]]||Gold+10%||XC 미션 [[Rock'n Night]] 클리어||
+||남우||[[Negative Nature]]||DefUP+10%, Auto+1||XC 미션 [[Natural Life]] 클리어||
+||카야||[[Nightmare]]||Fever+10%||XC 미션 [[Angelic Eyes]] 클리어||
+||안젤라||[[Divine Service]]||Tech+10%||XC 미션 [[Deadly Poison]] 클리어 [[br]] 또는, 플카 2272||
+||미미 ||[[Yellowberry ~AJ MIx~]]||Exp+5%, Auto+1||XC 미션 [[Deep Mist]] 클리어 [[br]] 또는, 플카 2274||
+||반||[[Divine Service]]||Fever+10%||XC 미션 [[Emotion Pulse]] 클리어 [[br]] 또는, 플카 2276||
+||레미||[[Sunset Rider]]||Gold+8%, Auto+2||XC 미션 [[Lite House]] 클리어 [[br]] 또는, 플카 2278||
+||세하||[[Ladymade Star]]||DefUP+10%, Auto+1||XC 미션 [[Rave 2 Wave]] 클리어 [[br]] 또는, 플카 2284 [[br]] 또는, 네트워크 5승||
+||엔비레인저||[[NB Ranger 시리즈]]||Gold+8%, Tech+8%||XC 미션 [[Return of the Dragon]] 클리어 [[br]] 또는, 플카 2288||
+||라이온||[[Brave it Out]]||Exp+10%||XC 미션 [[Russian Rulette]] 클리어 [[br]] 또는, 플카 2292||
+||아미엘||[[Fallen Angel]]||Auto+3||XC 미션 [[Penalty Area]] 클리어 [[br]] 또는, 플카 2296||
+||헐리||[[Blythe]]||Tech+10%, Fever+10%||XC 미션 [[Memory of the Past]] 클리어 [[br]] 또는, 플카 2300||
+||TE-1116||[[Negative Nature]]||Gold+10%, Fever+5%||XC 미션 [[Boutique Rules]] 클리어 [[br]] 또는, 플카 2304||
+||딘||[[Nightmare]]||Fever+15%||XC 미션 [[Friday Nightmare]] 클리어 [[br]] 또는, 플카 2308||
+||지나||[[Stalker]]||DefUP+15%||XC 미션 [[Femme Fatale]] 클리어 [[br]] 또는, 플카 2312||
+||핑키 ||[[Hello Pinky]]||Auto+4||XC 미션 [[NieNova]] 클리어 [[br]] 또는, 플카 2316||
+||[[프레이야]]||[[OblivioN]]||Auto+1, Fever+15%||XC 미션 [[Style Mixture]] 클리어 [[br]] 또는, 플카 2320||
+||피노||[[My Alias]]||Exp+12%||XC 미션 [[Panaxism]] 클리어 [[br]] 또는, 플카 2324||
+||제레미||[[Outlaw]]||DefUP+15%, Tech+10%||XC 미션 [[Black & White]] 클리어 [[br]] 또는, 플카 2328||
+||태권부리||[[태권부리]]||Auto+2, Fever+10%||XC 미션 [[Animal Crew]] 클리어 [[br]] 또는, 플카 2332||
+||아그네스||[[Fentanest]]||Gold+12%||XC 미션 [[TARlta]] 클리어 [[br]] 또는, 플카 2336||
+||에르||[wiki:"DJMAX Portable 2" DMP2] 보컬리스트||Tech+10%, Fever+15%||XC 미션 [[Ruby 2uesday]] 클리어 [[br]] 또는, 플카 2530||
+||민서||DMP2 기타리스트||Gold+10%, Auto+2||XC 미션 [[Ache's Visual La]] 클리어 [[br]] 또는, 플카 2540||
+||마르스||[[Minus 3]]||Fever+20%||XC 미션 [[Croove Clover]] 클리어 [[br]] 또는, 플카 2550||
+||리타||[[Brandnew Days]]||Auto+5||XC 미션 [[Planetboom Track]] 클리어 [[br]] 또는, 플카 2560||
+||닌자 콰이단||[[Rocka-a-doodle-doo]]||Exp+10%, Auto+3||XC 미션 [[Makou Syndrome]] 클리어 [[br]] 또는, 플카 2570||
+||에르시||[[Another Day]]||DefUP+20%||XC 미션 [[FE Factory]] 클리어 [[br]] 또는, 플카 2625||
+||베키||[[Get Out]]||Exp+15%||XC 미션 [[Beat Generation]] 클리어 [[br]] 또는, 플카 2650||
+||지수||[[Midnight Blood]]||Auto+6||XC 미션 [[M2U's Tranceform]] 클리어 [[br]] 또는, 플카 2660||
+||몹||[[Lost'n Found]]||Gold+15%||XC 미션 [[Global Sensation]] 클리어 [[br]] 또는, 플카 2670||
+||헤치박사||[[My Alias]]||DefUP+20%, Fever+20%||XC 미션 [[Head Spin]] 클리어 [[br]] 또는, 플카 2680||
+||에디||DMP2 기타리스트||DefUP+30%||XC 미션 [[Electronic Licence]] 클리어 [[br]] 또는, 플카 2690||
+||에르키||[[Another Day]]||Auto+7||XC 미션 [[CRooFE]] 클리어 [[br]] 또는, 플카 2710||
+||정혜||[[설레임]]||Auto+3, Tech+15%||XC 미션 [[ND Lee]] 클리어 [[br]] 또는, 플카 2720||
+||NB 마스크||[[NB POWER]]||Fever+25%||XC 미션 [[NB VS Envy]] 클리어 [[br]] 또는, 플카 2750||
+||멜로디||DMP2 키보드||Exp+20%, Auto+2||XC 미션 [[She is Miya]] 클리어 [[br]] 또는, 플카 2770||
+||사돌이||[[Showtime]]||Gold+20%, Fever+15%||XC 미션 [[JUST 1%]] 클리어 [[br]] 또는, 플카 2790||
+||닥터 스톰||[[Brain Storm]]||Auto+8||XC 미션 [[Brain Survival]] 클리어 [[br]] 또는, 플카 2810||
+||아리||[wiki:"DJMAX Portable" DMP] 키보드||Exp+10%, Auto+2||링크 디스크로 1곡 플레이||
+||레나||DMP 기타리스트||Exp+10%, Gold+10%||링크 디스크로 4곡 플레이||
+||[엘]||DMP 보컬리스트||Fever+30%||링크 디스크로 18곡 플레이||
+ 
+=== [[메트로 프로젝트]] ===
+
+||곡명||캐릭터||
+||[[고백,꽃,늑대]]||해(등장 소년), 원(등장 소녀)||
+||[[고백,꽃,늑대 part.2]]||펜릴(해에게 죽는 늑대)||
+||[[너에게]]||이포림(등장 소녀)||
+||[[무투(武鬪)]]||무식이(타이틀 등장 대머리 남성)||
+||[[영원]]||제시(등장 남성)||
+||[[처음만 힘들지]]||우키(녹색 콩), 무우(황토색 콩)||
+||[[Coastal Tempo]]||동네형(등장 남성)||
+||[[Colours of Sorrow]]||세리아(등장 여성), 러즈(등장 남성)||
+||[[Desperado]]||크롤러(주인공 남성)[* DMP3에서는 에릭으로 개명됐다.], 후드(후드를 쓴 남성)||
+||[[Fate]]||성환(등장 남성), 혜인(등장 여성)||
+||[[Fermion]]||데스티니(등장 여성)||
+||[[Flea]]||알렉스(의자에 앉은 남성), 호란(메두사 여성)||
+||[[First Kiss]]||가나, 나나, 다나, 하나(순서대로 CE족자 1,2,3,4번)||
+||[[Freedom]]||앨리캣(긴 포니테일 여성), 퍼프(단발 여성)||
+||[[Get Down]]||다나(등장 소녀)||
+||[[Grave Consequence]]||이브(등장 여성), 가츄(등장 어른 남성)||
+||[[Heart of Witch]]||스텔라(등장 여성)||
+||[[Here in the Moment]]||륜(짧은 주황머리 소녀)||
+||[[Honeymoon]]||토궁이(토끼)||
+||[[In my Dream]]||레제르바(긴머리 여성), 바젤(붉은 눈 소녀)||
+||[[In My Heart]]||[[셜리]](탐정 소녀), 루핀(도둑 소녀)||
+||[[I want You]]||[[스이]](등장 소녀), 테오(등장 소년)||
+||[[Keys to the World]]||도로시(등장 소녀), 요한(등장 금발 소년), 조커(토끼가면 총잡이)||
+||[[Love Mode]]||알렉스(등장 남성), 호란(등장 여성)||
+||[[Lover]]||에그빈(등장 여성), 빌리(등장 아기천사)||
+||[[Melody]]||김유나(등장 소녀)[* [[김연아]]의 영문 표기에서 따온 이름이라고 한다.], 윤진(등장 소년)||
+||[[Ruti'n]]||마크(짧은 흰머리 남성), 토스(선글라스 흑인 남성), 정마담(마담 여성)||
+||[[Secret World]]||민성(등장 농구소년), 히(등장 소녀)||
+||[[Shoreline]]||스위티(등장 여성)||
+||[[Son of Sun]]||[wiki:"추장" 에오스](추장)||
+||[[Sweet Shining Shooting Star]]||호시노 카호(星野夏穂 ; 헤드셋 착용한 소녀)[* [wiki:"황산" H2SO4]가 ask.fm에서 밝힌 바 있다. Star = 星인 걸 감안하면 묘하게 센스 있는 작명. [http://ask.fm/H2SO4kr 출처]] ||
+||[[The Clear Blue Sky]]||하늘(등장 분홍머리 소녀)||
+||[[The Last Dance]]||라비(타이틀 등장 선글라스 여성)||
+||[[Thor]]||토르(등장 전사)||
+||[[Y]]||플로라(등장 여성)||
+
+
+=== [[DJMAX Trilogy]] ===
+
+||[[바람의 기억]] ||에일리(하얀 머리 소녀), 찰스(노랑 머리 소년)[* 둘 다 탭소닉 링스타에서 이름이 공개되었다.] ||
+||[[Catch You]] ||레온(등장 여성)||
+||[[Cosmic Elevator]] ||선미(등장 여성),몽(작은 파란색 캐릭터)[* 디맥 온라인의 곡이지만 BGA와 캐릭터는 트릴로지에서 추가.]||
+||[[Mind Control]] ||모르간,지성(등장 남성) ||
+||[[My Jealousy]] ||마린(등장 천사)[* Auto 3, Tech 3, Fever 5를 자랑한다. 물론, 이 캐릭터를 얻으려면 [[the boss]]를 클리어해야 한다.] ||
+||[[NB Girls]] ||엔비핑키(등장 여성) ||
+||[[Talk! Talk!]] ||정아(등장 여성) ||
+||[[ZET]] ||아이머(등장 여성) ||
+=== [DJMAX TECHNIKA 2] ===
+
+테크니카 시리즈에서는 BGA에만 출연하기 때문에 보정효과는 아예 없으며, 특히 일부 곡에서는 프로필을 대놓고 제공하기까지 한다.(…) ~~[pixiv]에서 떡밥 물어갈 기세~~
+
+|| 곡명 || 캐릭터 ||
+||[[BEE-U-TIFUL]] ||헐리(블라이스 인형), 혼꾸냥이(고양이)[* 곡의 BGA를 맡은 [[wiki:"D(디자이너)"D]]의 실제 애완동물이라고.] ||
+||[[Burn it Down]] ||레스(검은 피부 학생), 페인(안경쓴 학생), 팬텀(은발 선생님) ||
+||[[Cosmic Fantastic Lovesong]] ||아이린(분홍머리 소녀), 경훈(보라머리 소년)[* 탭소닉 링스타를 통해 이름이 공개되었다. ~~그전에는 코판놈으로 불렸지만~~] || 
+||[[Dual Strikers]] ||[[청룡]], [[백호]][* BGA가 아닌, 맥스샵의 DJ 아이콘을 통해 이름이 공개되어 있다.], 타이거(Tiger ; 백호 조종사), 드래곤(Dragon ; 청룡 조종사)[* 테크니카2→3 보상 이벤트의 DJ 아이콘으로 이름이 공개]||
+||[[Eternal Fantasy ~유니의 꿈~]] ||유니(등장 소녀) ||
+||[[Love is Beautiful]] ||큐트걸(긴 갈색머리 여성) ||
+||[wiki:"Out Law" Out Law : Reborn] ||제레미(주인공 도박사), 갬블러(딜러), 매(긴 검은머리 여성), 난(짧은 검은머리 여성), 국(웨이브진 흰머리 여성), 죽(길고 흰 머리 여성) ||
+||[[Put'Em Up]] ||서정현(등장 여성 ; 실사)[* Dumping Life의 선배] ||
+||[[Rage Of Demon]] ||더 타워(개 형태 악마), 저거너트(덩치가 큰 악마) ||
+||[[Sweet Dream]] ||세나(붉은 단발머리 소녀), 루미(파란 포니테일 소녀) ||
+||[[Supersonic ~Mr.Funky Remix~]] ||펑키박스(정사각형 모양 디제잉 박스) ||
+||[[The Guilty]] ||레스(금발 머리 소년), 페인(안경쓴 남성), 팬텀(은발 남성)||
+||[[Trip]] ||셀피(등장 여성) ||
+||[[XLASHER]] ||데몬로즈(붉은색 악마 복장) ||
+
+=== [[DJMAX Portable 3]], [[DJMAX TECHNIKA 3]], [[DJMAX TECHNIKA TUNE]], [[DJMAX TECHNIKA Q]] ===
+
+||[[설레임 Part.2]] ||현지(등장 여성) ||
+||[wiki:"유령(DJMAX)" 유령] ||시아(등장 소녀), 에루안(등장 소년) ||
+||[[wiki:"Angel(DJMAX)" Angel]]||엔젤(등장 천사)||
+||[[A Song of Sixpence]]||테드디비어스(파랑새)[* 프로레슬러 밀리언 달러맨 [[테드 디비아시]]와 관련이 있는지는 불명(?)] 장착하면 [[wiki:"사기 캐릭터"경험치 40% 보너스]]가 붙는다.||
+||[[Black Swan]]||흑조(갈색머리 여성)||
+||[[Break!]] ||유소미(아이돌 소녀), 이정아(학생 소녀) ||
+||[[IF]] ||성휘, 건 ||
+||[[Dream Again]] ||앤(등장 소녀)||
+||[wiki:"EGG(DJMAX)" EGG] ||유미란(등장 소녀) ||
+||[[Emblem]] ||써니(등장 소녀), 바이올린 (바이올린 토끼)[* 경훈과 마찬가지로 탭소닉 링스타를 통해 이름이 공개되었다.] ||
+||[[Everything]] ||코만도(수컷 여우), 챔피언(암컷 여우) ||
+||[[Fallin'in LUV]] ||캔디(등장 소녀), 스테이(등장 소년) ||
+||[[Funky People]] ||빌리 후드(마른 남성)[* 풀 네임은 탭소닉 링스타를 통해 공개되었다.], 척(근육질 남성) ||
+||[[Gone Astray]] ||플라네타(등장 인물)[* 행성(Planet)을 뜻하는 스페인 말이다.] ||
+||[[In the Tdot]]||지미(등장 남성)||
+||[[Kung-Fu Rider]] ||[[AstroKid]](얻어맞는 남자), [http://blog.naver.com/sbblog 쥬킹](오토바이 타는 남자)[* 테크니카2의 패턴 디자이너, Silent Clarity의 등장인물 '김대익'은 이 분의 본명에서 따왔다.]싱싱이(눈에서 빔 남자)[* 탭소닉 링스타에서는 그림체가 바뀌었다. 거기에 설명도 '이 시대에 마지막 남은 간지남' ~~어디가?~~] ||
+||[[Mellow D Fantasy]] ||사이먼(남성 전사)[* DMP3에서는 Fever+2] ||
+||[[My Heart, My Soul]] ||사각머리(붉은 사각머리 생명체) ||
+||[[Now a New Day]] ||린(등장 소녀), 코기(등장 동물) ||
+||~~[[Renovation]]~~||~~[[DJMAX TECHNIKA TUNE]]에서 처음 등장. 착용하면 '''[[wiki:"사기 캐릭터"경험치 50% 보너스]]'''가 붙는다.~~||
+||[[Retention]]||기사단원||
+||[[Shining My Boy]] ||로시(등장 소녀) [[DJMAX TECHNIKA TUNE]] 만렙을 달성할 때 해금되며, 장착 시 '''[[wiki:"사기 캐릭터"피버 50% 보너스]]'''가 붙는다, 벤(등장 소년) ||
+||[[Silent Clarity]] ||오성식(검은머리 남성), 김대익(노란 염색머리 남성)[* Juking님의 본명], 이은미(교복 소녀)[* [[DJMAX TECHNIKA 2]], [[DJMAX TECHNIKA TUNE]] 인터페이스 디자인 담당.][* 등장인물들의 교복 명찰에 적혀있는 이 이름들은 모두 탭소닉 링스타 스탭진의 이름에서 따왔다.]||
+||[[The Rain Maker]]||버밀리온(등장 인물) ||
+||[[VORTEX]]||지나데이비스(여기사)||
+||[[You & Me]]||유미(등장 소녀) ||
+||[[You should get over me]]||헬레나(등장 여성) ||
+||[[Xeus]] ||에이다(금발 여성), 레베카(만두머리 여성), 존(등장 남성)[* 이 남성이 제우스라는 추측도 있다.] ||

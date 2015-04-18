@@ -1,0 +1,99 @@
+{{{+1 Ligne H du Transilien / ligne H}}}
+ * [[철도 관련 정보]]
+||<-4><table align=center><#5bad27> [wiki:"트랑지리엥" <span style="font-weight:bold;color:white">Transilien</span>] ||
+||<#ffffff> {{{#a15256 '''H선''' }}} ||<#dcdcdc> [[wiki:"트랑지리엥 J선" J선]] ||<#dcdcdc> [[wiki:"트랑지리엥 K선" K선]] ||<#dcdcdc> [[wiki:"트랑지리엥 L선" L선]] ||
+||<#dcdcdc> [[wiki:"트랑지리엥 N선" N선]] ||<#dcdcdc> [[wiki:"트랑지리엥 P선" P선]] ||<#dcdcdc> [[wiki:"트랑지리엥 R선" R선]] ||<#dcdcdc> [[wiki:"트랑지리엥 U선" U선]] ||
+
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#a15256 '''트랑지리엥 H선''' }}} ||
+||운영기관 ||[프랑스국철](SNCF)||
+||영업거리 ||138km ||
+||궤간 ||1435㎜ ||
+||역수 ||46 ||
+||전기 ||교류 25000V ||
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gare_de_La_Barre_-_Ormesson_18.jpg/800px-Gare_de_La_Barre_-_Ormesson_18.jpg?width=650
+
+[[트랑지리엥]]의 한 노선으로 트랑지리엥 H선은 남북 방향의 노선이다. 남쪽의 [파리 북역]을 기준으로 총 5방면의 노선이 나뉜다. 에피네 – 빌타뇌즈(Épinay – Villetaneuse)를 기점으로 페르상 – 보몽(Persan – Beaumont) 방면과 다시 몽술트 - 마플리에르(Montsoult – Maffliers) 분기에서 뤼자르슈(Luzarches) 방면으로 나뉜다. 에르몽 오본느(Ermont-Eaubonne)를 기점으로 페르상 – 보몽(Persan – Beaumont) 방면과 퐁투아즈(Pontoise) 방면을 나뉜다. 지선으로 퐁투아즈에서 크레이유(Creil) 방면 노선이 있다. 노선은 [프랑스국철](SNCF)이 운영한다. 
+
+== 노선 ==
+attachment:/tranH.jpg?width=650
+
+=== 몽술트 – 마플리에르 분기(뤼자르슈 방면) ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| [파리 북역] || Paris-Nord || 1 || {{{#0c6eb7 ●}}} [wiki:"파리 지하철 2호선" 2호선] [[br]] {{{#bb4b9c ●}}} [wiki:"파리 지하철 4호선" 4호선] [[br]] {{{#f68f4d ●}}} [wiki:"파리 지하철 5호선" 5호선] [[br]] {{{#537db9 Ⓑ}}} [[RER B선]] [[br]] {{{#18964c Ⓓ}}} [[RER D선]] [[br]] {{{#c760ad Ⓔ}}} [[RER E선]] [[br]] {{{#c3a500 Ⓚ}}} [[트랑지리엥 K선]] [[br]] [TER] 피카르디 [[br]] [[TGV]] [[br]] [[유로스타]] [[br]] [[탈리스]] ||  ||
+|| 생 드니 || Saint-Denis || 3 || {{{#18964c Ⓓ}}} [[RER D선]] [[br]] {{{#006cb8 ①}}} [[파리 트램 1호선]] [[br]] {{{#b1a245 ⑧}}} [[파리 트램 8호선]] || ||
+|| 에피네 – 빌타뇌즈 || Épinay - Villetaneuse || 3 ||  || 분기 ||
+|| 되이 - 몽마니 || Deuil - Montmagny || 4 ||  ||  ||
+|| 그로슬레 || Groslay || 4 ||  ||  ||
+|| 사르셀레스 –생 브리 || Sarcelles - Saint-Brice || 4 ||  ||  ||
+|| 에쿠엥 - 에잔빌 || Écouen - Ézanville || 4 ||  || ||
+|| 도몽 || Domont || 4 ||  ||  ||
+|| 뷔페몽 - 무아셀 || Bouffémont - Moisselles || 5 ||  ||  ||
+|| 몽술트 - 마플리에르 || Montsoult - Maffliers || 5 ||  || 분기 ||
+|| 빌렌느 || Villaines || 5 ||  ||  ||
+|| 벨루아 - 생마르탱 || Belloy - Saint-Martin || 5 ||  || ||
+|| 비아름 || Viarmes || 5 ||  ||  ||
+|| 소지 || Seugy || 5 ||  ||  ||
+|| 뤼자르슈 || Luzarches || 5 ||  ||  ||
+
+=== 몽술트 – 마플리에르 분기(페르상 – 보몽 방면) ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| (몽술트 – 마플리에르) || Versailles-Rive-Droite ||  ||  ||  ||
+|| 프레슬 - 쿠르셀레스 || Presles - Courcelles || 5 ||  ||  || 
+|| 누앙텔 - 무르 || Nointel - Mours || 5 ||  || ||
+|| 페르상 보몽 || Persan - Beaumont || 5 || [TER] 피카르디 ||  ||
+
+=== 에피네 – 빌타뇌즈 분기 (페르상 – 보몽 방면) ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| (에피네 – 빌타뇌즈) || Épinay - Villetaneuse || ||  ||  ||
+|| 라 바르 - 오르메송 || La Barre - Ormesson || 4 ||  ||  || ||
+|| 앙기엔 뢰 방 || Enghien-les-Bains || 4 ||  || ||
+|| 샹 드 쿠르세 당기엔 || Champ de courses d'Enghien || 4 ||  ||  ||
+|| 에르몽 - 오본느 || Ermont - Eaubonne || 4 || {{{#e8ce10 Ⓒ}}} [[RER C선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] || 분기 ||
+|| 에르몽 알트 || Ermont-Halte || 4 ||  ||  ||
+|| 그로 누아예 – 생 프리 || Gros Noyer - Saint-Prix || 4 ||  ||  ||
+|| 생 로 라 포레 || Saint-Leu-la-Forêt || 4 ||  ||  ||
+|| 보셀르 || Vaucelles || 4 ||  ||  ||
+|| 타베르니 || Taverny || 4 ||  ||  ||
+|| 베상쿠르 || Bessancourt || 5 ||  || ||
+|| 프레피용 || Frépillon || 5 ||  ||  ||
+|| 베리 쉬르 우아즈 || Méry-sur-Oise || 5 ||  || ||
+|| 메리엘 || Mériel || 5 ||  ||  ||
+|| 발몽두아 || Valmondois || 5 ||  ||  ||
+|| 릴라당 팔망 || L'Isle-Adam - Parmain || 5 ||  ||  ||
+|| 샹파뉴 쉬르 우아즈 || Champagne-sur-Oise || 5 ||  ||  ||
+|| 페르상 보몽 || Persan - Beaumont || 5 || [TER] 피카르디 ||  ||
+
+=== 에르몽 – 오본느 분기 (퐁투아즈 방면) ===
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| (에르몽 - 오본느) || Ermont - Eaubonne || ||  ||  ||
+|| 세르네 || Cernay || 4 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  || ||
+|| 프랑콩빌 – 르 플레시스 부샤르 || Franconville - Le Plessis-Bouchard || 4 || {{{#e8ce10 Ⓒ}}} [[RER C선]] || ||
+|| 몽티니 - 보샹 || Montigny - Beauchamp || 4 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 피에르레 || Pierrelaye || 5 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 생투앙 로몽 리스 || Saint-Ouen-l'Aumône-Liesse || 5 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 생투앙 로몽 || Saint-Ouen-l'Aumône || 5 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 퐁투아즈 || Pontoise || 5 || {{{#e8ce10 Ⓒ}}} [[RER C선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] || 지선 ||
+
+==== 퐁투아즈 지선 ====
+|| 한국어 명 || 프랑스어 명 || 존(Zone) || 환승노선 || 비고 ||
+|| 퐁투아즈 || Pontoise || 5 || {{{#e8ce10 Ⓒ}}} [[RER C선]] [[br]] {{{#cdde10 Ⓙ}}} [[트랑지리엥 J선]] ||  ||
+|| 생투앙 로몽 || Saint-Ouen-l'Aumône || 5 || {{{#e8ce10 Ⓒ}}} [[RER C선]] ||  ||
+|| 에플리쉬 || Épluches || 5 ||  ||  || ||
+|| 퐁 프티 || Pont-Petit || 5 ||  || ||
+|| 샤퐁발 || Chaponval || 5 ||  ||  ||
+|| 오베르 쉬르 우아즈 || Auvers-sur-Oise || 5 ||  ||  || ||
+|| 발몽두아 || Valmondois || 5 ||  || ||
+|| 릴라당 팔망 || L'Isle-Adam - Parmain || 5 ||  ||  ||
+|| 샹파뉴 쉬르 우아즈 || Champagne-sur-Oise || 5 ||  ||  ||
+|| 페르상 보몽 || Persan - Beaumont || 5 || [TER] 피카르디 ||  ||
+|| 브뤼에르 쉬르 우아즈 || Bruyères-sur-Oise || 제외 ||  ||  ||
+|| 보랑 쉬르 우아즈 || Boran-sur-Oise || 제외 ||  ||  ||
+|| 프레시 쉬르 우아즈 || Précy-sur-Oise || 제외 ||  ||  ||
+|| 생 로 데세랑 || Saint-Leu-d'Esserent || 제외 ||  ||  ||
+|| 크레이유 || Creil || 제외 || {{{#18964c Ⓓ}}} [[RER D선]] [[br]] [TER] 피카르디 ||  ||
+
+
+[[각주]]

@@ -1,0 +1,60 @@
+||<:><rowbgcolor=#FFFFFF>
+http://goto2020.cdn1.cafe24.com/img/game/tw/icon/gdi/unit/missile_squad.png?width=200 ||<:> http://goto2020.cdn1.cafe24.com/img/game/tw/ingame/gdi/unit/missile_squad.jpg ||
+||<:><bgcolor=#FFFF00> '''유닛 아이콘''' ||<:><bgcolor=#FFFF00> '''게임 내 텍스처''' ||
+
+|| 가격 || 400원 ||
+|| 생산시간 || 4초 ||
+|| 요구사항 || 막사 ||
+|| 상성 || 차량, 항공기에 강함 ||
+|| 주무기 || FGM-90 미사일 발사기 ||
+
+[[목차]]
+= 개요 =
+[[커맨드 앤 컨커3 타이베리움 워]]에 등장하는 [[GDI]]의 대전차 보병
+
+기본적으로 [[미사일]]을 발사하며 차량에겐 100% 명중한다. 미사일의 특성상 이동 중인 보병에 대한 명중률이 형편없지만 다수가 모여서 쏘면 오차가 오히려 정확해져서 [[라이플맨 분대]]도 상대가 가능하며 이를 이용한 땡미분으로 승리하는 것도 가능하다.
+
+대전차 유닛인 만큼 차량 공격력은 좋다. 하지만 보병은 보병이니 차량에 깔리기 때문에 주의하면서 운용해야 한다.
+
+[[Nod]]의 [[민병대 로켓 분대]]와 비교되는데 기본적인 가격이 같으면서 민병대 로켓 분대는 업그레이드가 2개이고 미사일 분대는 업그레이드가 1개이다. 즉 '''후반엔 [[가성비]]가 밀린다.''' --그래봤자 [[스틸 탤론]]은 업그레이드조차 없지만--
+
+그래도 [[스틸 탤론]]의 [[wiki:"중장갑 하베스터"중장갑 하베스터]]에 자주 들어가는 유닛 중 하나인데 그 이유는 많이 모이면 [[어택 바이크]]나 [핏불], [wiki:"오르카(커맨드 앤 컨커 시리즈)" 오르카], [시커]의 [기습]을 그나마 잘 막아내는 것이 가능하기 때문이다. 게다가 [ZOCOM]의 [[로켓 하베스터]]와는 공격력부터 다르다.
+
+[줄임말]로는 [미분]이라 불린다.(...) --[[수학]]의 [[미분]]이 아니다--
+
+= 업그레이드 =
+== [[커맨드 앤 컨커3 타이베리움 워]] ==
+|| http://goto2020.cdn1.cafe24.com/img/game/tw/ingame/gdi/unit/missile_squad_upg.jpg ||
+||<:><bgcolor=#FFFF00> '''합성 장갑''' ||
+
+=== 합성 장갑 ===
+||||<:>http://goto2020.cdn1.cafe24.com/img/game/tw/icon/gdi/upgrade/composite_armor.jpg ||
+||||<:><bgcolor=#FFFF00> '''합성 장갑''' ||
+||<:>가격 ||<:>2000원 ||
+||<:>요구사항 ||<:>병기고 ||
+||<:>생산시간 ||<:>30초 ||
+
+== [[커맨드 앤 컨커3 케인의 분노]] ==
+||<:> http://goto2020.cdn1.cafe24.com/img/game/tw/ingame/gdi/unit/missile_squad_upg.jpg ||
+||<:><bgcolor=#FFFF00> '''합성 장갑''' ||
+
+||<:> http://goto2020.cdn1.cafe24.com/img/game/tw/kw/ingame/gdi/unit/missile_squad_upg.jpg ||
+||<:><bgcolor=#FFFF00> '''타이베리움 방호복''' ||
+
+=== 합성 장갑 ===
+|||| http://goto2020.cdn1.cafe24.com/img/game/tw/icon/gdi/upgrade/composite_armor.jpg ||
+||||<:><bgcolor=#FFFF00> '''합성 장갑''' ||
+||<:>가격 ||<:>1500원 ||
+||<:>요구사항 ||<:>병기고 ||
+||<:>생산시간 ||<:>45초 ||
+||<-2> [[GDI]] 전용 ||
+
+=== 타이베리움 방호복 ===
+|||| http://goto2020.cdn1.cafe24.com/img/game/tw/kw/icon/gdi/upgrade/tibrium_field_suits.jpg ||
+||||<:><bgcolor=#FFFF00> '''타이베리움 방호복''' ||
+||<:>가격 ||<:>1000원 ||
+||<:>요구사항 ||<:>병기고 ||
+||<:>생산시간 ||<:>30초 ||
+||<-2> [[ZOCOM]] 전용 ||
+
+[[각주]]

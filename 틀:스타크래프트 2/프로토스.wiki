@@ -1,0 +1,13 @@
+||<tablewidth=100%><#0000FF><-100> '''[[스타크래프트 2|<span style="color:white">스타크래프트 2]] [[프로토스|<span style="color:white">프로토스]]{{{#ffffff 의 유닛, 건물}}}''' ||
+||<width=10%><|2><#6699CC> '''[[연결체#s-3|연결체]]''' ||<width=15%> attachment:probe.jpg?width=40px ||<width=15%> attachment:mothershipcore.jpg?width=50px || → || attachment:mothership.jpg?width=40px ||
+|| [[탐사정#s-2.2|탐사정]] || [[모선핵]] || || [[모선(스타크래프트 2)|모선]] ||
+||<|2><#6699CC> '''[[관문#s-2.2|관문]]'''[[br]]'''[[차원 관문#s-2|차원 관문]]''' ||<width=15%> attachment:zealot.jpg?width=40px ||<width=15%> attachment:stalker.jpg?width=40px ||<width=15%> attachment:sentry.jpg?width=40px ||<width=15%> attachment:hightempler.jpg?width=40px ||<width=15%> attachment:darktempler1.jpg?width=40px attachment:darktempler2.jpg?width=40px ||<width=15%> attachment:archon.jpg?width=40px ||
+|| [[광전사(스타크래프트)#s-3|광전사]] || [[추적자(스타크래프트 2)|추적자]] || [[파수기]] || [고위 기사#s-3|고위 기사] || [암흑 기사#s-4|암흑 기사] || [[집정관(스타크래프트)#s-3|집정관]] ||
+||<|2><#6699CC> '''[[로봇공학 시설#s-3|로봇공학 시설]]''' || attachment:observer.png?width=40px || attachment:warpprism.jpg?width=40px ||<width=15%> attachment:immortal.jpg?width=40px ||<width=15%> attachment:colossus.jpg?width=40px || || ||
+|| [[관측선#s-2|관측선]] || [[차원 분광기]] || [[불멸자(스타크래프트 2)|불멸자]] || [[거신#s-2|거신]] || || ||
+||<|2><#6699CC> '''[[우주관문#s-1.2|우주관문]]''' || attachment:phoenix.jpg?width=40px || attachment:voldray.jpg?width=40px || attachment:oracle.jpg?width=40px || attachment:carrior.jpg?width=40px || attachment:tempest.jpg?width=50px || ||
+|| [[불사조(스타크래프트 2)|불사조]] || [[공허 포격기]] || [[예언자(스타크래프트 2)|예언자]] || [[우주모함#s-3|우주모함]] || [[폭풍함]] || ||
+||<|2><#6699CC> '''{{{#ffffff 기타 건물들}}}''' || [[수정탑#s-3|수정탑]] || [[융화소]] || [[제련소#s-2.2|제련소]] || [[인공제어소#s-3|인공제어소]] || [[광자포#s-1.2|광자포]] || [[황혼 의회]] ||
+|| [[로봇공학 지원소#s-3|로봇공학 지원소]] || [[함대 신호소#s-3|함대 신호소]] || [[기사단 기록보관소#s-2|기사단 기록보관소]] || [[암흑 성소]] ||
+||<|2><#6699CC> '''{{{#ffffff 캠페인, 기타 유닛 및 건물}}}''' || [[정찰기(스타크래프트)|정찰기]] || [[공허의 구도자]] || [[왕복선]] || [[광전사 석상]] || [[계승자]] || [[정화 모선]] ||
+|| [[탈다림 모선]] || [[방첨탑]] || [[분열장 생성기]] || [[투명 수정탑|젤나가 수정탑]] ||

@@ -1,0 +1,78 @@
+ * 리다이렉트 : [[STARS(비마니 시리즈)]]
+
+[[BEMANI 시리즈]]의 수록곡. [[NAOKI]]와 [[jun]]의 유닛인 [[TЁЯRA]]의 데뷔곡이자, HYPER J-POP 시리즈의 시작.
+
+롱버전은 TЁЯRA의 앨범 [[RЁVOLUTIφN]]에 수록.
+
+[[목차]]
+
+== 원곡 ==
+[[youtube(96ZvEhxKT7w)]]
+
+||<#aaaaaa> 출전 ||<#aaaaaa> 장르명 ||||||||||||||||<#aaaaaa> 곡명 ||
+|| pop'n music 8 || HYPER J-POP[[br]]하이퍼 J-POP |||||||||||||||| STARS★★★ ||
+||||||||||||<#aaaaaa> 작곡가 명의 ||||||||<#aaaaaa> 담당 캐릭터 ||
+|||||||||||| TËЯRA |||||||| JUDY[[br]]주디 ||
+||<#aaaaaa> 배너 |||||||||||| https://remywiki.com/images/e/e6/8_HYPER_J-POP.png ||<#aaaaaa> [[BPM]] |||| 140 ||
+||<#aaaaaa> 수록 || 8 ~ ||
+||<#aaaaaa> 가정용 수록 || CS 8, CS 11 ||
+
+||||||||||||||||||||<#ffff00> [[팝픈뮤직]] 난이도 체계 ||
+|||| |||| {{{#blue EASY (버튼수)}}} |||| {{{#green NORMAL}}} |||| {{{#orange HYPER}}} |||| {{{#red EX}}} ||
+||<|2><:> 노멀모드 || 43단계 || {{{#blue 6}}} || {{{#blue 170}}} || {{{#green 14}}} ||<|2><:> {{{#green 332}}} || {{{#orange 26}}} ||<|2><:> {{{#orange 584}}} || {{{#red 33}}} ||<|2><:> {{{#red 825}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#blue -}}} || {{{#green 20}}} || {{{#orange 32}}} || {{{#red 39}}} ||
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+[[NAOKI]]와 [[jun]]의 팝픈뮤직의 첫 참여작. EX 채보는 첫 수록 당시엔 없었다가 팝픈뮤직 11에 추가.
+
+토이스 마치 2에도 이식.
+
+== 리믹스 ==
+
+=== STARS★★★ (2nd NAOKI's style) ===
+[[youtube(xu7Vt_hiZE8)]]
+
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 3}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#green 9}}} ||
+||<|3> 140|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 6}}} || {{{#red 8}}} || {{{#green 11}}} ||
+
+pop'n music Vocal Best 5에 수록된 FROM329 version을 게임 사이즈로 자른 버전. [[댄스 댄스 레볼루션]] 가정용 작품 Party Collection에 첫 수록. 아케이드엔 SuperNOVA에 이식되었다.
+
+=== STARS☆☆☆ (Re-tuned by HΛL) ===
+
+원곡을 HΛL이 어레인지한 버전. 리믹스 자체는 두가지 버전이 있는데, 곡 길이에 차이가 있다.
+
+BGA는 IIDX와 DDR 공히 전용 BGA를 사용한다. 제작자는 ao.taka.
+
+==== [[beatmania IIDX]] (IIDX EDITION) ====
+[[youtube(EHAe1agpgJs)]]
+
+|| 장르명 |||||||||| HYPER J-POP+[[BR]]하이퍼 J-POP+ || [[BPM]] |||| 146 ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 }}}''' ||
+|||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#green 비기너}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#green 易}}} || {{{#green 96}}} || {{{#blue 5}}} || {{{#blue 554}}} || {{{#orange 8}}} || {{{#orange 874}}} || {{{#red 9}}} || {{{#red 1081}}} ||
+|| [[더블 플레이]] || {{{#green -}}} || {{{#green -}}} || {{{#blue 5}}} || {{{#blue 554}}} || {{{#orange 7}}} || {{{#orange 875}}} || {{{#red 없음}}} || {{{#red 없음}}} ||
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 14 GOLD|14 GOLD]] ~
+ * 가정용 수록 : 14 GOLD
+
+==== [[댄스 댄스 레볼루션]] (DDR EDITION) ====
+https://remywiki.com/images/a/af/STARS_%28Re-tuned_by_HAL%29_-DDR_EDITION-.png
+[[youtube(Rgdqq6yYu1E)]]
+
+|||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red '''10'''}}} || {{{#green '''9'''}}} ||
+||<|3> 146|||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} ||
+|| || {{{#orange 3}}} || {{{#red 6}}} || {{{#green 7}}} ||
+
+SuperNOVA2에 수록. IIDX EDITION에 비해 강조하는 악기가 다르고 길이가 조금 짧다. IIDX 버전의 가사가 1절이라면 DDR 버전의 가사는 2절. 어떻게 보면 이 곡도 [[테열거병]]의 범주로 넣을 수 있는데, '''X 이후의 싱글 난이도 기준으로 DIFFICULT가 EXPERT보다 어렵다.'''
+
+컷팅이 다르기 때문에 BGA도 IIDX의 BGA와는 차이가 있다.

@@ -1,0 +1,155 @@
+상위 항목 : [[드래곤케이브/용 종류]]
+
+※ 이벤트 한정 드래곤들은 출시 년도 순으로 정렬한다.
+※ 모든 드래곤의 출시 일 및 변경 사항은 기본적으로 '''미국 동부 표준시(EST)'''[* 한국시간 기준에서 -14시간([[서머타임]]일 시 -13시간)]를 기반으로 합니다.
+
+특정한 이벤트 기간에만 모든 구역에서 풀리는 드래곤으로, 모든 할로윈 드래곤을 제외한 대부분은 성별이 고정되어 있다. 당해년도의 신규 이벤트 드래곤을 제외한 드래곤들은 특정 이벤트 기간에만 브리드로 번식할 수 있으며, 그 외에는 이벤트 드래곤을 제외한 다른 알만 낳게 된다. 보통은 할로윈 드래곤을 제외하면 스크롤 당 한 종류에 2마리까지 수용할 수 있었고 [http://dragcave.net/help/limits Breed Limits] 목록에도 떴었지만, 2013년부터 당해년도에 풀리는 신규 밸런타인 데이, 크리스마스 이벤트 드래곤을 제외한 기존 이벤트 드래곤들의 마릿 수 제한이 없어졌다. 뱀파이어, 홀리, 그리고 블랙 매로우를 제외한 모든 이벤트 드래곤들은 스프라이트 담당자 [특전] 알트(Spriter's Alt)가 존재한다.
+
+[[목차]]
+=== [[밸런타인 데이]] ===
+밸런타인 데이에 이벤트로 나오는 드래곤으로 홀수년도는 암컷만, 짝수년도는 수컷만 존재한다. 
+
+||<:>알||<-3><:>일반||<-3><:2>특전 알트||<:>기존 스프라이트||
+||attachment:/091.gif||attachment:/092.gif||attachment:/093.gif||attachment:/094_1.gif||X||attachment:/093a.gif||attachment:/094a.png||attachment:/094O.gif||
+ * 밸런타인 드래곤(Valentine Dragon)
+ 스프라이트 담당자 : Marrionetta(해츨링, 성룡), Sif(성룡), Komodo Gallant(알)
+ 2009년 밸런타인 데이에 처음 출현했던, '''암컷'''만 존재하는 드래곤으로 흔하게 불리는 명칭은 '''09발렌'''. 미국 동부 표준시 기준으로 2010년 3월 26일에 적용된 스프라이트 업데이트 이후로 날씬한 몸체에서 뚱뚱하게 바뀌어 유저들에게 [[충공깽]]을 선사해주었다. 어느 드케 유저는 '밤에 라면을 대체 몇 박스나 먹었길래 이렇게 불었냐….'라며 한탄하기도 했다.
+
+||<:>알||<-4><:>일반||<-3><:>알트||
+||<|3>attachment:/101.gif||||attachment:/102.gif||attachment:/103.gif||attachment:/104.gif||attachment:/102a.gif||attachment:/103a.gif||attachment:/104a.gif||
+||<-4><:>특전 알트(Kila)||<-3><:>특전 알트(Nepherim)||
+||||attachment:/102-.gif||attachment:/103-.gif||attachment:/104-.gif||attachment:/102aa.gif||attachment:/103aa.gif||attachment:/104aa.gif||
+ * 스위틀링(Sweetling)
+ 스프라이트 담당자 : Kila, Nepherim
+ 2010년 밸런타인 데이에 처음 출현했던, '''수컷'''만 존재하는 종으로 흔하게 불리는 명칭은 '''10발렌'''. 몸 색이 온통 '''핑크색'''이기 때문에 성별이 남성 고정으로 밝혀졌을 때 사람들을 충공깽으로 몰고 갔다. ~~[[여자 그려놓고 남자라고 우기기|암컷 그려놓고 수컷이라고 우기기]]~~ 몸 색이 검은색과 빨간색의 깃털을 가진 알트종이 존재하며, 이 알트종은 드케 메인 출현 당시에 데려왔던 스위틀링 알이 사라져버린 사람들에게 지급된 것.
+
+||<:>알||<-3><:>일반||<-3><:>특전 알트(Dolphinsong)||<-3><:>특전 알트(Nakase)||
+||attachment:/111.gif||attachment:/112.gif||attachment:/113.gif||attachment:/114.gif||attachment:/112a.png||attachment:/113a.png||attachment:/114a.png||attachment:/112b.gif||attachment:/113b.gif||attachment:/114b.gif||
+ * 로즈버드 드래곤(Rosebud Dragon)
+ 스프라이트 담당자 : Dolphinsong(성룡), Nakase(해츨링, 성룡)
+ 2011년 밸런타인 데이에 처음 출현했던, 09발렌과 마찬가지로 '''암컷'''만 존재하는 종으로 흔하게 불리는 명칭은 11발렌.
+
+||<-4><:>일반||<-4><:>특전 알트(LadyLyzar)||
+||attachment:/121.gif||attachment:/122.gif||attachment:/123_11.png||attachment:/124_2.png||attachment:/121a.gif||attachment:/122a.gif||attachment:/123a.png||attachment:/124a.png||
+ * 하트시커 드래곤(Heartseeker Dragon)
+ 스프라이트 담당자 : LadyLyzar
+ 2012년 밸런타인 데이에 처음 출현했던, 스위틀링과 마찬가지로 '''수컷'''만 존재하는 종으로 흔하게 불리는 명칭은 12발렌. 
+
+||<:>알||<-3><:>일반||<-3><:>특전 알트(Corteo)||<-3><:>특전 알트(Walker[* 밑의 스프라이트 담당자에는 없지만 아르사니 드래곤의 컨셉 아티스트로 기여했기 때문이다.])||
+||attachment:/131.gif||attachment:/132.gif||attachment:/133.gif||attachment:/134.png||attachment:/132a.gif||attachment:/133a.gif||attachment:/134a.png||attachment:/132b.gif||attachment:/133b.gif||attachment:/134b.png||
+ * 아르사니 드래곤(Arsani Dragon)
+ 스프라이트 담당자 : Corteo
+ 2013년 밸런타인 데이에 처음 출현했던, '''암컷'''만 존재하는 종으로 흔하게 불리는 명칭은 13발렌. 
+
+||<:>알||<-3><:>일반||<-4><:>특전 알트(Birdzgoboom)||<-4><:>특전 알트(Infinis)||
+||attachment:/141.png||attachment:/142.png||attachment:/143.png||attachment:/144.png||attachment:/141a.png||attachment:/142a.png||attachment:/143a.png||attachment:/144a.png||attachment:/141b.png||attachment:/142b.png||attachment:/143b.png||attachment:/144b.png||
+ * 래디언트 앤젤 드래곤(Radiant Angel Dragon)
+ 스프라이트 담당자 : Birdzgoboom, Infinis
+ 2014년 밸런타인 데이 기념으로 풀린, '''수컷'''만 존재하는 종이다.
+
+||<:>알||<-3><:>일반||
+||attachment:/Heartstealingegg.png||attachment:/Heartstealingh1.gif||attachment:/Heartstealingh2.png||attachment:/Heartstealingadult.png||
+ * 하트스틸링 드래곤(Heartstealing Dragon)
+ 스프라이트 담당자 : Aangs-sister
+ 2015년 밸런타인 데이 기념으로 풀린, '''암컷'''만 존재하는 종이다.
+=== [[할로윈]] ===
+모든 할로윈 드래곤들은 처음 풀렸을 때부터 마릿 수 제한이 없다.
+
+||<|3>attachment:/New_vamp_egg.gif||<|3>attachment:/Vampirehatch1.gif||♀||attachment:/Vampirehatchling.gif||attachment:/Vamp3f.gif||
+||♂||attachment:/Vamp_hatchie_male.png||attachment:/Vamp3m.gif||
+ * 뱀파이어 드래곤(Vampire Dragon)
+ 스프라이트 담당자 : Komodo Gallant, Kuraianubis
+ 2008년 할로윈 때 처음 출현한, 암수마다 모습이 다른 드래곤으로, 다른 드래곤의 알을 감염시켜 번식한다는 특징을 가지고 있기 때문에 교배는 불가능하다. 2009년 할로윈 이벤트 때 추가된 Bite 특수 능력으로 다른 드래곤의 알을 뱀파이어 알로 바꿀 수 있으며, 뱀파이어 알이 되어 계정에 남거나 혹은 어밴던으로 내팽겨지거나, 혹은 --잘못 물어서-- 알이 깨져서 죽을 수 있다[* 각각 50%,25%,25% 확률이라고 하지만, 확정은 아니라고 TJ09가 표명했다.]. 처음 풀렸을 때는 개체 수가 별로 없어서 레어 취급이었지만 Bite로 개체 수가 늘어나면서 어밴던에서 종종 볼 수 있게 되었다. 그리고 인큐베이터[* 자신의 스크롤에 있는 모든 드래곤 중 일부를 서명 등에 달 수 있는 이미지로 변환된 것을 말한다.]를 만들 때 뱀파이어는 거울에 비춰지지 않는 설정이 있어서 보이지 않는다. [[안습]]….
+
+||<:>알||<-3><:>일반||<-3><:>특전 알트(Marrionetta)||
+||attachment:/H091.gif||attachment:/H092.gif||attachment:/H093.gif||attachment:/H094.gif||<:>X||attachment:/H093a.gif||attachment:/H094a.png||
+ * 펌프킨 드래곤(Pumpkin Dragon)
+ 스프라이트 담당자 : Marrionetta(해츨링,성룡), Dovealove(성룡)
+ 2009년 할로윈 때 풀린 '''피그미'''로, 덕분에 피그미 계열끼리만 교배할 수 있다.
+
+||<|2>attachment:/H101.gif||<|2>attachment:/H102.gif||<|2>attachment:/H103.gif||♀||attachment:/H104F.png||
+||♂||attachment:/H104M.gif||
+ * 블랙 매로우(Black Marrow)
+ 스프라이트 담당자 : Dovealove, Seiss
+ 2010년 할로윈에 풀린 드래곤으로, 이름의 Marrow에는 (뼈의) 골, 골수라는 의미도 있지만 길쭉하게 생긴 호박이라는 의미도 있다. 설정으로는 성장하면서 해골과 척추가 피부 밑에서 밖으로 밀려나온다고 하며, 그들의 가죽이 어두운 색이기 때문에 블랙 매로우라는 이름이 붙었다고 한다 모습과는 달리,부모나 배우자에게 매우 헌신적이라고 한다. 교배가 불가능한 뱀파이어 드래곤이나 같은 피그미 계열끼리만 교배할 수 있는 펌프킨 드래곤과는 다르게 일반용과 교배할 수 있다.
+
+||<:>알||<-3><:>일반||<-3><:>특전 알트(Fiona BlueFire)||<-3><:>특전 알트(Nakase)||
+||attachment:/H111.gif||attachment:/H112.png||attachment:/H113.png||http://s20.postimg.org/rjqmb1gzt/Shadow_Walker_adult.png||attachment:/H112a.png||attachment:/H113a.png||attachment:/H114a.png||attachment:/H112b.png||attachment:/H113b.png||attachment:/H114b.png||
+ * 쉐도우 워커(Shadow Walker)
+ 스프라이트 담당자 : Fiona BlueFire, Nakase
+ 2011년 할로윈에 풀린 드래곤으로, 일반용과 교배할 수 있다. 그림자 속으로 숨을 수 있으며, 실체를 없애서 차원을 넘나드는 것도 가능하다는 설정이 있다.
+
+||<:>알||<-4><:>일반||<:>특전 알트(JOTB)||
+||<|2>attachment:/H121.gif||<|2>attachment:/H122.gif||<|2>attachment:/H123.png||♀||attachment:/H124F.png||attachment:/H124Fa.png||
+||♂||attachment:/H124M.png||attachment:/H124Ma.png||
+ * 캐번 러커 드래곤(Cavern Lurker Dragon)
+ 스프라이트 담당자 : JOTB
+ 2012년 할로윈에 풀린 드래곤으로, 설정상으로 몸집은 작지만 매우 공격적이며 자신보다 작은 것은 무엇이 되었건 공격하는 습성이 있다고 한다. 사냥감을 둥지로 끌고가 사냥하고 햇빛을 싫어한다고 한다.
+
+||<-5><:>일반||<-5><:>특전 알트(Aangs-sister)||
+||<|2>attachment:/H131.png||<|2>attachment:/H132.gif||<|2>attachment:/H133.png||♀||attachment:/H134.png||<|2>attachment:/H131a.gif||<|2>attachment:/H132a.gif||<|2>attachment:/H133a.gif||♀||attachment:/H134a.gif||
+||♂||attachment:/H134M.png||♂||attachment:/H134Ma.gif||
+ * 그레이브 드래곤(Grave Dragon)
+ 스프라이트 담당자 : Aangs-sister
+ 2013년 할로윈에 풀린 드래곤이다. 이름이 묘지인 건 단순히 표정이 묘지에서 짓는 표정마냥 심각하게 생겨서(…). 재와 석탄만을 먹기 때문에 사냥을 하지않고 아무거나 태워서 먹는다고 하며, 날개 문양은 그레이브 드래곤에게 죽임을 당한 자들의 얼굴이 새겨진 것이라고 전해진다고 한다. 해츨링 때도 주인의 일거수일투족을 [[감시|빤히 바라보고 있다]]고 나오는 둥 섬뜩한 설정을 가지고 있다.
+
+||<:>알||<-4><:>일반||<-3><:>특전 알트(Birdzgoboom)||<-3><:>특전 알트(PieMaster)||
+||<|3>http://s20.postimg.org/dc0xme4ax/Desipis_egg.png||<|3>http://s20.postimg.org/tj782gbbd/Desipis_hatchling.png||♀||http://s20.postimg.org/uwyuxrakp/Desipis_female_hatchling.gif||http://s20.postimg.org/fqst6tkjt/Desipis_female.png||<|3>http://s20.postimg.org/jnen76oy1/Desipis_Birdzgoboom_alt_hatchling.png||http://s20.postimg.org/a5ew7539l/Desipis_Birdzgoboom_alt_female_hatchling.png||http://s20.postimg.org/77hxdfvm1/Desipis_Birdzgoboom_alt_female.png||<|3>http://s20.postimg.org/sq7prye2x/Desipis_Pie_Master_alt_hatchling.png||http://s20.postimg.org/tebyx5nex/Desipis_Pie_Master_alt_female_hatchling.png||http://s20.postimg.org/mzcy0hgp5/Desipis_Pie_Master_alt_female.png||
+||♂||http://s20.postimg.org/mvamfurt5/Desipis_male_hatchling.png||http://s20.postimg.org/6f6r9v809/Desipis_male.png||http://s20.postimg.org/e0ia9pmfd/Desipis_Birdzgoboom_alt_male_hatchling.png||http://s20.postimg.org/7clon42x5/Desipis_Birdzgoboom_alt_male.png||http://s20.postimg.org/6fjurzgsp/Desipis_Pie_Master_alt_male_hatchling.png||http://s20.postimg.org/5rb091i2x/Desipis_Pie_Master_alt_male.png||
+ * 데시피스 드래곤(Desipis Dragon)
+ 스프라이트 담당자 : Birdzgoboom, PieMaster
+ 2014년 할로윈에 풀린 드래곤이다. 육중한 덩치가 주는 이미지와는 달리 주특기는 정신조작 및 파괴와 마나흡수를 통한 황폐화라는, 육체적 힘과는 관련이 없어보이는 설정을 가지고 있다. 이름의 유래는 미치광이라는 뜻의 라틴어로 상대하는 건 미친 짓이라는 의미이다. 이처럼 무시무시한 드래곤이지만 생명활동 자체를 마법에 크게 의존하기 때문에 까사레 드래곤의 마나 무력장 안에 들어가면 맥을 못 춘다고 한다.
+=== [[크리스마스]] === 
+
+||attachment:/X071.png||attachment:/X072.gif||attachment:/X073.gif||attachment:/X074.gif||
+ * 홀리 드래곤(Holly Dragon)
+ 스프라이트 담당자 : Silvanon
+ 2007년 크리스마스에 풀린 '''최초의 이벤트 용'''으로, 암, 수 모두 존재한다. 2007년 당시에 가입한 드케 유저가 굉장히 적었었고, 게다가 그중 소수의 유저들만이 (미스테리산) 홀리 드래곤을 가지고 있었기 때문에, 가장 희귀한 미골과 교환될 정도로 그 후손들(특히 2대)은 굉장히 '''희귀종'''으로 취급되었었지만, 그 후손의 후손들이 많이 퍼진 덕에 --잡세대 한정으로-- 어밴던에서 종종 볼 수 있게 되었다. 그래도 저 아이덴티티 때문에 경쟁률이 상대적으로 매우 높은건 변함없다. 참고로 해츨링이 레드 드래곤 해츨링과 색만 다르다.~~[[팔레트스왑]]~~
+
+||<-4><:>일반||<-2><:>특전 알트(Marrionetta)||
+||attachment:/X081.gif||attachment:/X082.gif||attachment:/X083.gif||attachment:/X084.gif||attachment:/X083a.png||attachment:/X084a.png||
+ * 율벅(Yulebuck)
+ 스프라이트 담당자 : Komodo Gallant(해츨링, 성룡), Kuraianubis(해츨링, 성룡), Marrionetta(해츨링, 성룡)
+ 2008년 크리스마스 기간에 풀린, '''수컷'''만 있는 종이다.
+
+||<-3><:>일반||<:>White Tipped||<:>Full Gold||<:>Tri Colored||<:>특전 알트(Dis, JaziandCo,TheAntimonyElement)||
+||attachment:/X091.gif||attachment:/X092.gif||attachment:/X093.gif||attachment:/X094w.gif||attachment:/X094.gif||attachment:/X094c.gif||<:>attachment:/X094a.png||
+ * 스노우 엔젤 드래곤(Snow Angel Dragon)
+ 스프라이트 담당자 : Dis(해츨링, 성룡), JaziandCo(해츨링, 성룡), TheAntimonyElement(성룡)
+ 2009년 12월 25일부터 28일까지 풀렸던, '''암컷'''만 있는 종이다. 성룡의 날개 색이 총 3종류로, 각 구역으로 나뉘기 전의 동굴에서 주운 알에 한해 각 스크롤마다 특정한 색 하나가 고정되었었다. 예를 들어 어떤 계정에 금색 날개가 나왔다면 나머지 한 마리도 무조건 금색 날개가 되는 식. 크리스마스 용의 마릿 수 제한이 있었을 당시에는 2마리 밖에 기르지 못해서 이론적으로 특전 알트를 제외한 위 3종류를 동시에 기를 수 없었으나, 이후 크리스마스 용들의 마릿 수 제한이 없어지면서 사실상 세 종류의 바리에이션을 한 스크롤 안에 기를 수 있게 되었다.[* 참고로 자식들은 어머니 쪽의 날개를 유전받는다.]
+
+||<-4><:>일반||<-4><:>특전 알트(LadyLyzar)||
+||attachment:/X101.png||attachment:/X102.png||attachment:/X103.png||attachment:/X104.png||attachment:/X101a.gif||attachment:/X102a.gif||attachment:/X103a.png||attachment:/X104a.png||
+ * 리본 댄서(Ribbon Dancer)
+ 스프라이트 담당자 : LadyLyzar
+ 2010년 12월 25일부터 28일 자정까지 풀렸던, '''암컷'''만 있는 종이다.
+
+||<:>알||<-3><:>일반||<-3><:>특전 알트(Earthgirl)||
+||attachment:/X111.gif||attachment:/X112.png||attachment:/X113.png||attachment:/X114.png||attachment:/X112a.png||attachment:/X113a.png||attachment:/X114a.png||
+ * 윈터 마기 드래곤(Winter Magi Dragon)
+ 스프라이트 담당자 : Earthgirl
+ 2011년 12월 25일부터 28일 자정까지 풀렸던, '''수컷'''만 있는 종이다. 설정상 겨울철 날씨를 조종할 수 있는 능력을 가졌다고 한다.
+
+||<-4><:>일반||<-4><:>특전 알트(Aangs-sister)||
+||attachment:/X121.gif||attachment:/X122.png||attachment:/X123.png||attachment:/X124.png||attachment:/X121a.gif||attachment:/X122a.png||attachment:/X123a.png||attachment:/X124a.png||
+ * 래핑윙 드래곤(Wrapping-Wing Dragon)
+ 스프라이트 담당자 : Aangs-sister
+ 2012년 12월 25일부터 28일 자정까지 풀렸던, '''수컷'''만 있는 종이다. 포장지라는 컨셉으로, 기념일 동안 주위를 꾸민다는 설정을 갖고있다.
+
+||<:>알||<-4><:>일반||<-3><:>특전 알트(Odeen, JaziandCo)||
+||<|2>attachment:/X131.gif||<|2>attachment:/X132.png||<|2>attachment:/X133.png||밤(18:00 EST~5:59 EST)||attachment:/X134.png||<|2>attachment:/X132a.gif||<|2>attachment:/X133a.gif||<|2>attachment:/X134a.png||
+||낮(6:00 EST~17:59 EST)||attachment:/X134c.png||
+ * 솔스티스 드래곤 (Solstice Dragon)
+ 스프라이트 담당자 : Odeen(전체), JaziandCo(해츨링)
+ 2013년 크리스마스에 풀렸던, '''암컷'''만 있는 종이다. 컨셉은 동지, 우리나라에서 팥죽 먹는 날로 흔히 생각되는 그 동지이다. 날개는 차가운 겨울하늘과 추위를, 뿔 부분의 빛구슬은 다가올 온기와 희망을 뜻한다는 매혹적인 설정을 가지고 있다.
+ 하지만, 바로 그 설정과 관련하여 문제가 발생했는데, 컨셉 디자이너이자 스프라이터인 Odeen이 출시 당시의 노을빛 날개에서 본래 디자인했던 파란 날개로 바꾸기를 원해 2014년생 솔스티스 드래곤의 날개가 모두 교체되었다. 대부분의 유저들이 미리 날개가 교체된 사실을 알지 못하고 해츨링이 성룡이 된 뒤에야 발견하게 되었고, 예전 디자인에 비해 너무 수수해 박탈감을 느낀다는 의견과 함께 미스테리산 드래곤을 얻지 못한 유저들은 노을 날개를 얻을 수 없다는 것에 대한 불만이 속출했다.
+ 논란이 일자 모든 사람이 노을빛 날개와 파란 날개를 얻을 수 있게 하기 위한 방법을 모색했는데, 해결책으로 글로리 드레이크처럼 알이 태어난 시간에 따라 밤에 태어난 개체는 노을빛 날개를, 낮에 태어난 개체는 파란 날개를 가지게 되는 것으로 바뀌었다. 대체로 이 방법 자체에 대한 포럼 내 반응은 우호적인 편이지만, 이미 유저들이 파란 날개의 개체로 리니지를 디자인한 상태에서 2014년생 드래곤들에게도 이 방법을 일괄 적용하면서 불만이 발생했다. 결정은 운영진 몫이지만 미리 의견을 물어보지 않고 그대로 적용해버린 것에 문제가 있다는 입장.
+ 또한 현재는 성룡의 날개만 두 가지 종류이고 해츨링의 날개는 모두 파란색이지만, 후에 해츨링의 날개도 차이가 있게 업데이트할 가능성도 있다고 한다. 확정난 것은 아니고 그러면 괜찮을 것 같다 정도의 느낌으로 한 말이지만 만약 실현된다면 그것대로 좋은 일.
+
+||<:>알||<-3><:>일반||<-4><:>특전 알트(PieMaster)||<-4><:>특전 알트(Tikigurl91)||
+||attachment:/mistegg.png||attachment:/misth1.png||attachment:/misth2.png||attachment:/mista.png||attachment:/mistegga1.png||attachment:/misth1a1.png||attachment:/misth2a1.png||attachment:/mistaa1.png||attachment:/mistegga2.png||attachment:/misth1a2.png||attachment:/misth2a2.png||attachment:/mistaa2.png||
+ * 미슬토 드래곤 (Mistletoe Dragon)
+ 스프라이트 담당자 : PieMaster, Tikigurl91
+ 2014년 크리스마스에 풀렸던, '''암컷'''만 있는 종이다. 이름처럼 컨셉은 겨우살이(Mistleto)이다. 영화 등에서 커플끼리 입맞춤하는 그 나뭇가지 맞다. 기온을 조절하는 능력을 가지고 있으며 꼬리에는 이 능력으로 만들어진 녹지 않는 얼음덩이가 마치 하얀 겨우살이 열매처럼 열린다고 한다. 식성은 생긴 것 답게 초식.
+
+[[각주]]

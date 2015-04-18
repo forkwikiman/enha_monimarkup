@@ -1,0 +1,51 @@
+[[목차]]
+
+== 기본 정보 ==
+|| attachment:네이비필드2/영국%20함선/BB.Hood.png || attachment:네이비필드2/영국%20함선/BB.Hood_Field.png ||
+>독일 해군의 Mackensen Class 순양전함에 대응해 건조된 영국 해군의 순양전함입니다. 근대화 개장을 거치지 못한 채 2차 세계대전이 발발하였고, 1941년 5월 전함 Prince of Wales와 함께 Bismarck 요격 작전에 참여하게 됩니다.
+
+||<tablewidth=90%><tablealign=center><|4><table align=center><#CCCCCC>기본 정보||||||<#DCDCDC>티어||||<#DCDCDC>8||
+||||||가격||||210,500||
+||||||<#DCDCDC>함체 연구 경험치||||<#DCDCDC>55,730||
+||||||이전 함선부터 연구 경험치||||322,900||
+||<|11><table align=center><#CCCCCC>장비||<|7><table align=center><#BBBBBB>함선 정보||||<#DCDCDC>내구력||||<#DCDCDC>80,850||
+||||속도||||27.4노트||
+||||<#DCDCDC>급 가속 준비시간||||<#DCDCDC>12.0초||
+||||급 가속 유지시간||||2.6초||
+||||<#DCDCDC>전투 수리량||||<#DCDCDC>0.0DP/초||
+||||최대 대공기관총 명중률||||38.5%||
+||||<#DCDCDC>대공기관총 공격력||||<#DCDCDC>?||
+||<|4><table align=center><#BBBBBB>장갑||||상면||||0||
+||||<#DCDCDC>측면||||<#DCDCDC>0||
+||||방뢰||||0||
+||||<#DCDCDC>방어등급||||<#DCDCDC>7||
+||<|24><table align=center><#CCCCCC>무장||<|11|><table align=center><#BBBBBB>주포||||종류||||15"/42 Mark I||
+||||<#DCDCDC>구성||||<#DCDCDC>2연장 4기||
+||||재장전 시간||||13.2초||
+||||<#DCDCDC>정확도||||<#DCDCDC>D||
+||||최대 사거리||||2,430||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>30도||
+||||탄약량||||280 (각 함포당 35회 사격분)||
+||<|4><table align=center><#AAAAAA>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||5,082||1,524||
+||<#DCDCDC>관통||<#DCDCDC>1,524||<#DCDCDC>6,098||
+||대지||2,541||1,016||
+||<|11><table align=center><#BBBBBB>부포1||||<#DCDCDC>종류||||<#DCDCDC>4"/45 QF Mark XVI||
+||||구성||||2연장 7기[* 좌우현 각각 3기씩 배치되어 있으며, 1기는 좌우로 모두 발포할 수 있다.]||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>3.4초||
+||||정확도||||B||
+||||<#DCDCDC>최대 사거리||||<#DCDCDC>1,710||
+||||최대 발사각||||85도||
+||||<#DCDCDC>탄약량||||<#DCDCDC>? (각 함포당 ?회 사격분)||
+||<|4><table align=center><#AAAAAA>공격력||탄종||-||AA||
+||<#DCDCDC>폭발||<#DCDCDC>-||<#DCDCDC>387||
+||관통||-||116||
+||<#DCDCDC>대지||<#DCDCDC>-||<#DCDCDC>193||
+||<|2><table align=center><#BBBBBB>거점점령||||부대수||||222||
+||||<#DCDCDC>공격력||||<#DCDCDC>928||
+||<|4><table align=center><#CCCCCC>항공기||||||총 적재량||||52||
+||||||<#DCDCDC>동시 이륙가능 수||||<#DCDCDC>1||
+||||||가능한 편대||||1||
+||||||<#DCDCDC>탑재 가능 항공기||||<#DCDCDC>정찰기||
+
+[[각주]]

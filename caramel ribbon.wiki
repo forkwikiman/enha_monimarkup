@@ -1,0 +1,122 @@
+ * 리다이렉트 : [[카라멜 리본]]
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[P*Light]].
+
+P*Light는 [[사운드 볼텍스 플로어]] '하이텐션 four-on-the-floor 인스트로 오리지널 곡' 컨테스트의 마감시간을 착각해서 [[벼락치기|마감시간 5시간 전부터 급하게 만들었다고 한다.]] 그런데도 당선이 되고 인기곡이 되었다. --제작도 하이텐션으로 해서 그런가보다--
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/Q87_ZIDXv6E" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '하이텐션 four-on-the-floor 인스트로 오리지널 곡'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0059_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0059_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0059_1.jpg?width=150 || attachment:CF.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 09}}} || {{{#ff009f 13}}} || {{{#448844 14}}} ||
+|| 체인 수 || {{{#purple 0527}}} || {{{#orange 0869}}} || {{{#ff009f 1246}}} || {{{#448844 1424}}} ||
+|| 일러스트 담당 || {{{#purple もとこ}}} || {{{#orange もとこ}}} || {{{#ff009f もとこ}}} || {{{#448844 MoToKo & ToMoKo}}} ||
+|| 이펙터 || {{{#purple SCバイオメトリクス}}} || {{{#orange SCバイオメトリクス}}} || {{{#ff009f SCバイオメトリクス}}} || {{{#448844 MaKoTo}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} || {{{#ff00ec II 29(2014.3.20)}}} ||
+|| [[BPM]] |||||||| 170 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} || 통상해금 || 통상해금 ||
+|| {{{#orange ADVANCED}}} || 50 || 없음 ||
+|| {{{#ff009f EXHAUST}}} || 160 || 없음 ||
+|| {{{#448844 INFINITE}}} || - || [[INFINITE BLASTER]] ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 05(2013.7.3 ~ 2013.9.5, 2013.10.4 ~ 2013.10.31, 2013.12.6 ~ 2014.1.10), Skill Level 05 C코스(2014.11.20 ~ 2014.12.26)
+
+||<#eeeeee>
+처음뵙겠습니다! P*Light입니다!
+평소에는 서클 [[HARDCORE TANO*C]]나 electro planet에서 활동하고 있습니다!
+저는 밝고 팝 같이 빠른 곡을 좋아해서, 이제 이건 할 수 밖에 없는 그런 느낌으로 해봤습니다!
+채용해주셔서 정말로 기뻤습니다! 저 자신에게 '콩글레츄레이션'이라고 해주고 싶어!
+어쨌든 곡은 한없이 행복하게 현실감 있는 것을 목표로 했습니다!
+어려운 일 없이, 어쨌든 즐긴다면 저도 최고로 기쁩니다!
+잘 부탁드립니다! ></
+
+-당선자 코멘트-
+||
+
+자켓의 여자아이의 이름은 '[[사운드 볼텍스/캐릭터#리본|리본]]', 강아지의 이름은 '[[사운드 볼텍스/캐릭터#와타가시|와타가시]]'라고 한다.
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/XH4R6RuV9Oo" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+13레벨 중에서는 클리어 난이도는 낮은 편에 속하지만 랩 샘플링 파트의 꽤나 처리하기 까다로운 노브 발광 패턴과 후반부의 직각노브 활용 패턴 때문에 스코어링은 꽤나 어려운 편. 특히 중반 랩 파트의 노브 발광을 어떻게 처리하느냐가 스코어링의 관건이 된다. 
+
+{{{#!HTML
+<object width="360" height="640"><param name="movie" value="//www.youtube.com/v/fcObFwKUNkI?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/fcObFwKUNkI?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="360" height="640" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+INF 패턴 얼티밋 체인 영상
+
+후에 [[INFINITE BLASTER]] 업데이트로 INF 패턴이 추가되었다. 전체적으로 꼬물거리는 노브가 많고 FX노트와 BT노트의 혼합률이 높아 14레벨 중에서도 상위권에 속한다. 다만 EXH에서의 노브발광 부분은 직각노브를 활용한 패턴으로 바뀌어 상태적으로 쉬워진 편이다.
+
+난이도에 비해 클리어레이트가 높은 편인데, 이는 이 곡의 EXH패턴을 블래스터 게이지로 안정적으로 클리어할 수 있는 사람들이 해금해 플레이했기 때문이다.
+
+== [[유비트 시리즈]] ==
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>9||<:>10||
+||<#000000><:>{{{#white 노트수}}}||<:>289||<:>655||<:>777||
+||<#000000><:>{{{#white BPM}}}||||||<:>175||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>없음||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * '''紙'''[* 굵은 글씨는 칭호 파츠.]がベトベト (종이가 찐득찐득) : 모든 보면 클리어
+  * キャラメルが歯につきました (카라멜이 이에 붙었습니다) : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+2013년 7월 22일 [[FLOOR INFECTION]] 4탄의 레벨 1 해금곡으로 이식 수록되었다.
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/1EPw7D_1xgw?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/1EPw7D_1xgw?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+전체적으로 [[Synergy For Angels]]의 짝수번째 정박 패턴이 강화되어서 산재해있으며, 중간중간 상하 패턴이 기습적으로 나와 미스나 그렛을 유발한다. 특히 정박 패턴 처리 중 아래와 같은 당황스런 패턴도 튀어나온다.
+
+||⑤①②⑤　
+□③□□
+⑥□③⑥
+④②①④||①－－－
+②－－－
+③－－④
+⑤－⑥－||
+
+||□②⑤⑤
+②④①③
+□①④□
+□③⑤⑤||①－－②
+③－④－
+－－－－
+⑤－－－||
+
+
+또한 시작부분부터 등장하는 아래와 같은 패턴도 곳곳에 배치되어 있으므로 주의를 요한다.
+
+||②①⑩⑩
+④③□⑨
+⑥⑤□⑨
+⑧⑦⑩⑩||①②③④
+⑤⑥⑦⑧
+⑨－－－
+⑩－－－||
+
+하지만 이 곡의 백미는 '''중반부의 랩 부분의 폭타 발광'''. BPM도 빠른 편인데다가 촉수가 어지럽게 섞여있어서 상당히 더럽다. 심지어 같은 이벤트 최종 해금곡인 [[Dynasty]]보다 [[創世ノート|더 어렵다고 하는 사람도 존재한다.]] 다만 일반적으로 이 쪽이 다이내스티보다 스코어링은 쉽다고 평가받는다. 다만 클리어라면 한 쪽에 몰려나오는 패턴과 상하패턴이 굉장히 많이 존재하다보니 클리어쪽으론 이 쪽이 더 어려운 편이라 개인차가 어느정도 있는 곡.

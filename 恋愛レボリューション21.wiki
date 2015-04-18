@@ -1,0 +1,74 @@
+'''연애 레볼루션 21, 연애혁명 21'''
+
+[[목차]]
+
+== 개요 ==
+
+attachment:Example.jpg
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/D_xkQAxyf-o?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/D_xkQAxyf-o?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[모닝구 무스메]]가 2000년 12월 13일에 발매한 싱글. 작사, 작곡은 [[층쿠]]가 맡았으며, 편곡은 [[LOVEマシーン|러브머신]], 더 피스 등 모닝구 무스메의 히트곡에서 편곡을 맡았던 댄스☆맨[* [[개구리 중사 케로로]]의 몇몇 에피소드에서 우정출연(?)한 적이 있다.]. [[나카자와 유코]]의 마지막 싱글 참여이기도 하다. 100만장에 가까운 대히트를 친 싱글으로 (판매량: 98.6만장) 러브머신, 사랑의 댄스사이트(恋のダンスサイト)의 뒤를 이어 모닝구 무스메의 전성기를 장식하였다. 100만 장이나 팔았지만 순위는 [[하마사키 아유미]]의 [[M(하마사키 아유미)|M]]에 밀려 2위다.
+
+[[youtube(hgzfu3W4qEs)]]
+~~정겨운 오렌지색 활동복.~~
+2003년 무렵에 한국에서 군인들이 이 곡의 뮤직비디오를 패러디해서 인터넷에 올린 적이 있다. 아직 UCC라는 용어조차 없었던 시절에 공개된 이 영상은 '군바리 무스메'라는 이름으로 불리며 많은 화제를 불러일으켰다. 위의 유튜브 영상은 제작자 중 한 명이 직접 올린 것으로 그의 말에 따르면 전역 기념으로 동기들끼리 모여서 찍었다고. 항간에는 영상을 찍은 군인들이 [[영창]]에 갔다는 등의 소문이 무성했지만 자세히 알려진 바는 없고, 제작자도 '여러 사람들이 힘든 시간을 보냈다'라고만 밝히고 있다.
+
+[[코나미]]의 [[리듬게임]] [[댄스 에볼루션]]과 [[미라이다갓키]]에도 수록되었다.
+
+한국에선 [[현영]]이 2007년에 이 곡을 리메이크한 연애혁명이란 노래를 내놓았고 한때 엽기 코드와 맞물려서 잠깐 유행했다. 가사가 재미있는데 일본어 가사의 발음을 살렸다. '초초초 이이칸지'(존나게 기분 좋아)를 '척척척 이쁜 척'이라고 한다든지, '코이모시떼'(사랑도 하고)를 '고이 모실게'라고 하는 등…….
+
+== [[리듬게임]]에 수록 ==
+=== [[beatmania IIDX]] (恋愛レボリューション21 -秋葉工房mix-) ===
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/JbznMPN2dUo?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JbznMPN2dUo?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+||<|2> [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 158 || {{{#blue 4}}} || {{{#blue 321}}} || {{{#orange 7}}} || {{{#orange 721}}} || {{{#red 9}}} || {{{#red 1021}}} || {{{#blue 4}}} || {{{#blue 421}}} || {{{#orange 7}}} || {{{#orange 721}}} || {{{#red 10}}} || {{{#red 1221}}} ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : [[wiki:"비트매니아 IIDX 18 Resort Anthem" 18 Resort Anthem]] ~ [[wiki:"비트매니아 IIDX 19 Lincle" 19 Lincle]]
+ * OST에 롱 버전 수록
+
+|| ● Sound / DJ Command
+
+안녕하세요!!!
+전작에 이어서, 이번 작에서도 참가하게 되었습니다!
+또 간섭해 오는 거다!!!
+
+노래는, 열대성[* 원문은 TROPICAL.]인 분위기로 하기 위해, 오래간만에 디스토션 기타를 사용하지 않고, 커틴 기타나 약간의 베이스를 이용한 리믹스로 완성했습니다.
+
+게다가 우사 & 토모민씨의 콤비가 노래했으므로, 즐거운 노래가 되었다고 생각합니다. 가득 즐겨주셨으면 좋겠습니다! 유로비트 너무 좋아!! ||
+
+[[DJ Command]]가 [유로비트]로 리믹스한 버전이 Resort Anthem에 수록되었다. BGA는 Resort Anthem 신규 [범용 BGA]가 대응되었다. 보컬은 [우사](うさ), 토모민(ともみん)으로, 둘 다 [니코니코 동화]에서 활동하던 [우타이테]이다.
+
+난이도는 싱글이나 더블이나 그리 어렵지 않은 편. 여담으로 싱글이나 더블이나 모든 패턴의 노트수 두자리가 모두 '''21'''로 맞춰져 있다.
+
+[wiki:"비트매니아 IIDX 20 tricoro" tricoro]에서 판권 만료로 인해 삭제되었다.
+
+=== [[댄스 에볼루션]] ===
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/2fqX6GmByqQ" frameborder="0" allowfullscreen></iframe>
+
+}}}
+|||||||||||||| [[댄스 에볼루션]] 난이도 체계 ||
+|| BPM || 난이도 |||||||| 노트수 || 소비 칼로리 ||
+||<|2> 133 ||<|2> 3 || {{{#green LIGHT}}} || {{{#blue STANDARD}}} || {{{#red EXTREME}}} || {{{#orange MASTER}}} ||<|2> 일반 : 10.45kcal[[br]]초보자용 : 9.95kcal ||
+|| {{{#green 44}}} || {{{#blue 61}}} || {{{#red 80}}} || {{{#orange 84}}} ||
+
+[[댄스 에볼루션 아케이드]] 비공개 로케테스트에서 추가된 곡으로, 커버 보컬로 수록되었다.
+
+[[irony]], [[ヘビーローテーション]]과 함께 별도의 초보자용 안무가 존재하는 곡이었으나, 2014년 3월 25일 판권 만료로 인해 삭제되었다. 
+
+=== [[미라이다갓키]] ===
+|||||||| [[미라이다갓키]] 난이도 체계 ||
+|| BPM || {{{#green 베이직}}} || {{{#orange 슈퍼}}} || {{{#red 울트라}}} ||
+|| 133 || {{{#green 3}}} || {{{#orange 5}}} || {{{#red 7}}} ||
+||||<|2><:>키넥트 가면[[BR]]적용 여부|| 1P || X ||
+|| 2P || X ||
+
+커버 보컬곡으로 수록되었다.

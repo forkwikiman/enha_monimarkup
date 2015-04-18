@@ -1,0 +1,22 @@
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/lruuz1Zqodg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[팝픈뮤직]] 악곡 정보 ||
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music 14[[br]]FEVER! || KENKA DRUMS[[br]]켄카 드럼 || BBLLAASSTT!! || [[wiki:"무라이 세이야"Five Sticks]] || DOOOOOM ||
+
+|||||||| HELL 14 ||
+|| CYBER FLAMENCO || '''KENKA DRUMS''' || ENZETSU || PROGRESSIVE BAROQUE ||
+|| [hora de verdad] || '''BBLLAASSTT!!''' || [猿の経] || [[Übertreffen]] ||
+
+|| [[BPM]] || [[팝픈뮤직/난이도 체계|난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 320 || 43단계 || {{{#blue 10}}} || {{{#green 26}}} || {{{#orange 35}}} || {{{#red 41}}} ||
+|| 50단계 || {{{#blue --}}} || {{{#green 32}}} || {{{#orange 41}}} || {{{#red 47}}} ||
+|||| 노트수 || {{{#blue 282}}} || {{{#green 548}}} || {{{#orange 811}}} || {{{#red 1235}}} ||
+
+ * [[팝픈뮤직/수록곡|곡 목록으로 돌아가기]]
+
+[팝픈뮤직] 14 FEVER!의 수록곡. Five Sticks 명의로 되어있으며, 정체는 [무라이 세이야]. 5대의 드럼으로 연주했다고 한 것도 그렇고 여러모로 [fffff]의 후속작 느낌이 물씬 나는 느낌.
+
+EX는 첫 수록 당시에는 42이었으나, 18 전국열전에서 41로 강등. 그리고 서니파크에서도 구 41에 해당하는 47로 수록되었다. 현재 47 중에서는 중상위권을 마크하고 있으며, BPM 320의 압박과 드럼으로 연주한 노래답게 연타, 동시치기가 많으며, [후살]도 역시 조심해야 한다.

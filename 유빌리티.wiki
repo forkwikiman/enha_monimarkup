@@ -1,0 +1,167 @@
+ * 상위 항목: [[유비트 시리즈]]
+
+[[목차]]
+
+== 개요 ==
+[[영어]]: jubility
+[[일본어]]: ユビリティ
+
+[[유비트 시리즈]]에서 플레이어의 실력을 0.00에서 10.00까지 수치로 나타내는 척도로, [[유비트 니트]] 때부터 도입되었다. 유빌리티라는 이름은 '''ju'''beat + a'''bility'''의 합성어.
+
+1.00 단위로 그림이 바뀌고[* 단, 10.00은 9.xx대의 그림이 더 화려해진 형태를 사용한다.] 같은 대역 안에서는 0.20마다 레벨이 오르면서 그림이 조금씩 채워지는 방식이다. 신작이 나오면 구작의 유빌리티는 계승되지 않고 0.00부터 다시 시작한다.
+
+한 유저에 의해 유빌리티 산출공식이 해명되었다. [http://yosh52.web.fc2.com/jubeat/jubility_matome.html 니트 (일본어)] [http://yosh52.web.fc2.com/jubeat/jubility_copious/matome.html 코피어스 ~ 소서 (일본어)]
+
+[[유비트 소서]] 기준 내용 번역문은 아래와 같다.
+
+== 증감 법칙 ==
+
+jubility는 1튠(곡)을 할 때마다 변합니다.
+
+1튠 플레이를 할 때마다 그 튠 결과에서 "안정 값"이 계산됩니다.
+
+산출된 안정 값이 현재 jubility보다 높을 경우, 안정 값과 jubility의 차이의 20%가 증가합니다. 
+
+산출된 안정 값이 현재 jubility보다 낮은 때는 그 튠 점수가 980000점 미만인 경우, 또는 그 튠에서 플레이한 곡 레벨이 10일 경우 안정 값과 jubility의 차이의 2%가 감소합니다. 그렇지 않으면 (980000점 이상이고 레벨 9 이하의 경우)에는 jubility는 변화하지 않습니다.
+
+ * 증감의 구체적인 예
+
+구체적인 예로, jubility가 5.73 인 플레이어가 1크레딧 (4튠)에서 다음과 같은 결과를 냈다고 합시다.
+
+|| 1st tune || [[천국과 지옥#s-1.1.2|천국과 지옥]] EXT (Lv.9) || 950000 ||
+|| 2nd tune || [[Theory of Eternity]] ADV (Lv.8) || 990000 ||
+|| 3rd tune || [[Evans]] EXT (Lv.10) || 800000 ||
+|| final tune || [[トルコ行進曲|터키 행진곡]] BSC (Lv.4) || 985000 ||
+
+이때 jubility는 아래의 그림과 같이 변화합니다(안정 값이 1튠 결과에서 어떻게 계산되는지는 나중에 설명합니다). 또한 1튠이 끝날 때마다 jubility 값은 소수 둘째 자리까지 버림됩니다. [* 10.00를 초과하는 경우에 수치가 10.00으로 버림되는 시기에 대해서는 불명] 다음은 안정 값이 1튠 결과에서 어떻게 계산되는지를 설명합니다.
+
+attachment:Example.jpg
+
+"안정 값"은​​ 다음과 같이 계산됩니다.
+
+attachment:Example2.jpg
+
+안정 값은 튠에서 낸 점수와 플레이한 곡의 레벨에서만 결정됩니다. 위 표를 보세요. 이 "안정 값 표"에 따라 레벨과 점수에서 안정 값이 결정됩니다. 그러나 이 표에 나와있는 것은 점수가 0, 700000, 750000, 800000, 850000, 900000, 950000, 980000, 1000000일 경우입니다. 그 사이 점수에서 안정 값은 직선적으로 변합니다. (즉, 점수사이의 안정 값은 선 모양으로 변합니다.) 예를 들어 레벨 8에서 점수가 990000 인 경우 안정 값은 (7.35 + 8.6) / 2 = 7.975이 됩니다. 또한 이 표에는 규칙성이 있습니다. 편의상 0, 700000, 750000, 800000, 850000, 900000, 950000, 980000, 1000000 점을 각각 "등급 0, 1, 2, 3, 4, 5, 6, 7, 8 "라고 가정합니다. 레벨 L에서 등급 R을 냈을 때의 안정 값은 'LR / 8 + R (R-5) / 40' 과 같습니다.
+
+attachment:/example3.png
+
+꺾은선 그래프로도 보면 다음과 같습니다. 가로축은 점수, 세로축이 안정입니다. 10 개의 그래프가 각각 레벨 1 ~ 10에 해당합니다. 95만점 이상과 98만점 이상에서 경사가 심해지는 것이 특징입니다. 이 표는 70만점 이상만 표시합니다. 70만점 미만에서는 "0점에서의 안정값 0"으로 직선적으로 향합니다. 니트의 jubility 시스템을 아는 사람을 위해 추가로 말하자면, 니트의 jubility 시스템과 거의 동일합니다. 변경된 점은 다음 두 가지 뿐입니다. 
+· 98만점 이상을 기록한 튠에서는 jubility가 감소하지 않는다. (레벨 10 제외)
+· 소수 셋째자리에서의 버림이 1tune마다 시행된다.
+
+이제 jubility 증감 규칙을 모두 설명했습니다. 다음은 이 증감 법칙에서 알 수 있는"jubility의 성질"입니다.
+
+ * 알고 있으면 좋은 다양한 성질이나 트리비아들
+
+계속해서 동일한 점수를 낼 경우, jubility는 안정 값에 점점 다가갑니다.
+
+예를 들어 jubility가 5.73인 사람이 [wiki:"나츠마츠리#s-2.2.2.2"나츠마츠리] EXT (Lv.8)를 계속 플레이하고 있고, 매회 995000점을 기록했다고 합시다. 
+
+attachment:/example4.png
+
+이 경우, 이 사람의 jubility는 다음 표와 같이 변하고 있습니다. 8.2875는 (Lv.8, 995000)의 안정 값입니다. 이처럼 '일정한 안정 값'을 계속해서 플레이하면 jubility는 안정 값에 점점 다가가고, 마지막에는 말 그대로 "안정"해 버립니다(안정 값이라는 말의 유래입니다).
+
+ * 오르기 쉽고, 떨어지기 어렵다
+
+즉, 1튠 당 "안정 값"에 가까워지며 jubility는 변화합니다. 
+
+그러나 오를 때 올라가는 힘 (20%)와 내릴 때 내려가는 힘 (2%)이 다르기에 낮은 난이도를 어느 정도의 회수 해도 고난이도를 한 번 하면 바로 jubility를 되돌릴 수 있는 일이 일어납니다. 코피어스부터 '왠지 베이직 악보를 채우고 있어도, 예전처럼 jubility가 떨어지지 않는구나' 라고 느끼는 사람도 많을 것으로 보입니다. 이것은 확실히 그대로입니다.
+ * 레벨 10 이외의 곡에서 SSS 를 기록하는 한 유빌리티는 떨어지지 않는다!
+
+레벨 10 이외의 곡에서 SSS 이상을 기록하면, jubility가 감소하는 경우는 없는 것을 증감 법칙에서 알 수 있습니다. 따라서 낮은 난이도를 하는 경우 980000점 이상을 계속 기록하도록 주의하고 있으면 아무리 낮은 난이도 곡을 하더라도 jubility는 전혀 내려가지 않습니다! 
+
+"레벨 10 이외"라는 조건이 있지만, 레벨 10에서 SSS 이상을 내면서 안정 값이 현재 jubility를 밑도는 경우는 jubility가 원래 9.1 이상일 때 뿐입니다. 즉 jubility가 9.1 이하인 사람에게는 "레벨에 관계없이 SSS 이상을 기록하는 한 jubility은 감소하지 않는다"는 전제가 성립합니다.
+
+ * 10.00에 도달하려면?
+
+안정 값이 10.04 이상인 플레이를 할 수 있는 사람이라면 누구나 10.00에 도달 할 수 있습니다.
+
+이번 작품에서는 1튠마다 jubility 값을 버리기 때문에 안정 값 10.00을 정확히 받는 플레이는 미묘하게 jubility 10.00이 되지 않습니다. 안정 값이 10.04 이상인 경우는, 레벨 10에서 992534점 이상의 점수를 받은 때입니다.(표에서 계산할 수 있습니다.) 즉, 어떤 한 곡이라도 레벨 10에서 992534점 이상을 때때로 낼 수 있는 사람이라면 그 곡을 계속해서 플레이하는 것으로, jubility를 10.00으로 할 수 있습니다. 
+
+좀 더 구체적으로 쓰면 예를 들어, 레벨 10의 곡으로 다음과 같은 플레이를 유지할 경우 10.00이 됩니다.
+
+· 매회 990000점 이상, 그러나 평균 4회에 1회 이상 992534점 이상
+· 매회 986000점 이상, 그러나 평균 2회에 1회 이상 992534점 이상
+· 매회 980000점 이상, 그러나 평균 3회에 2회 이상 992534점 이상
+
+ * jubility를 올리고 싶은데...
+
+구체적으로 목표가 있다면(여기에서는 "7 이상"이라고 합니다), "안정 값 표"를 보고, 안정 값이 7.00보다 높고, 게다가 자신이 무리없이 할 수 있는 레벨과 점수 쌍을 찾아주고, 그것을 실현할 것 같은 곡을 중심으로 플레이하면 목표를 달성할 수 있을 것입니다.
+
+구체적인 목표는 없고, 단순히 jubility를 가능한 한 많이, 빠르게 올리고 싶다는면 "최고 점수를 냈을 때의 안정 값"이 높을수록 곡을 플레이하는 것이 좋습니다.
+
+ * "안정 값 표"를 기억할 수 없다면
+
+다음 사항만이라도 기억해두면 유용합니다.
+
+· [[엑설런트]]시 안정 값:(레벨) + 0.6
+· 90만 점(S)에서 안정 값:(레벨) * 5 / 8
+· 85만 점(A)에서 안정 값:(레벨) / 2
+· 레벨 10에서 95만 점을 기록하는 것과 레벨 7을 엑설런트 하는 것은 거의 동일한 수준
+
+== [[유비트 니트]] ==
+주제는 '동식물'...인데 8부터는 해당이 안된다(...) [http://www.pixiv.net/member_illust.php?mode=medium&illust_id=18091616 모든 아이콘 내려받기]
+
+|| || Lv. 1[[br]].00 - .19 || Lv. 2[[br]].20 - .39 || Lv. 3[[br]].40 - .59 || Lv. 4[[br]].60 - .79 || Lv. 5[[br]].80 - .99 ||
+|| 0.xx[[br]][wiki:"레몬" LEMON] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_1_1_pt9z.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_1_2_ppzaag.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_1_3_rreter.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_1_4_7uz7aga.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_1_5_hialz.gif?width=100 ||
+|| 1.xx[[br]][wiki:"파인애플" PINEAPPLE] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_2_1_9z8a.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_2_2_hjkga.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_2_3_gifgif.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_2_4_monmon.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_2_5_8azxf.gif?width=100 ||
+|| 2.xx[[br]][wiki:"해바라기" SUNFLOWER] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_3_1_6q4t.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_3_2_63aga.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_3_3_73ahhh.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_3_4_ttrafz.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_3_5_iiiszag.gif?width=100 ||
+|| 3.xx[[br]][wiki:"꿀벌" HONEYBEE] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_4_1_ezag.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_4_2_ppaza.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_4_3_77tazg.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_4_4_2w2w2a.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_4_5_qqwjg.gif?width=100 ||
+|| 4.xx[[br]][wiki:"호랑나비" SWALLOWTAIL] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_5_1_zmgh.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_5_2_ugjaza.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_5_3_7uzgx[.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_5_4_jjjhmk.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_5_5_gz666g.gif?width=100 ||
+|| 5.xx[[br]][wiki:"오리" DUCK] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_6_1_py0xs.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_6_2_mmuza8.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_6_3_ttozak.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_6_4_5tzfa.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_6_5_yytyyt.gif?width=100 ||
+|| 6.xx[[br]][wiki:"기린" GIRRAFE] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_7_1_9zhsg.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_7_2_chrkva.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_7_3_89g98g.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_7_4_5tttfza.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_7_5_mvkvms.gif?width=100 ||
+|| 7.xx[[br]][wiki:"사자" LION] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_8_1_ppsaz.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_8_2_yyuuccd.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_8_3_tetaww.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_8_4_6yzagk.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_8_5_0oz9jk.gif?width=100 ||
+|| 8.xx[[br]][wiki:"보름달" FULL MOON] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_9_1_zohha.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_9_2_hhkgaz.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_9_3_77za77.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_9_4_0o0o0a.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_9_5_ikzag8.gif?width=100 ||
+|| 9.xx[[br]][wiki:"왕관" CROWN] || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_10_1_z8tra.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_10_2_jazkla.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_10_3_wwwkg.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_10_4_tthzav.gif?width=100 || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_10_5mmmmg.gif?width=100 ||
+|| 10.00[[br]]CROWN || https://www.ea-pass.konami.net/contents/jubeat/knit/images/jubility_icon_10_6_iazagagif.gif?width=100 || || || || ||
+
+== [[유비트 코피어스]] ==
+주제는 '외계인'. 각 단계마다 이름 뒤에 붙는 sei-jin은 성인(星人)의 일본어 발음이다.
+
+|| || Lv. 1[[br]].00 - .19 || Lv. 2[[br]].20 - .39 || Lv. 3[[br]].40 - .59 || Lv. 4[[br]].60 - .79 || Lv. 5[[br]].80 - .99 ||
+|| 0.xx[[br]]coil[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious0.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious0.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious0.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious0.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious0.8.png?width=100 ||
+|| 1.xx[[br]]amoeba[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious1.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious1.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious1.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious1.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious1.8.png?width=100 ||
+|| 2.xx[[br]]flipper[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious2.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious2.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious2.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious2.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious2.8.png?width=100 ||
+|| 3.xx[[br]]mesh[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious3.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious3.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious3.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious3.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious3.8.png?width=100 ||
+|| 4.xx[[br]]roller[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious4.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious4.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious4.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious4.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious4.8.png?width=100 ||
+|| 5.xx[[br]]sympa[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious5.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious5.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious5.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious5.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious5.8.png?width=100 ||
+|| 6.xx[[br]]sharp[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious6.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious6.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious6.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious6.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious6.8.png?width=100 ||
+|| 7.xx[[br]]gentle[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious7.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious7.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious7.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious7.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious7.8.png?width=100 ||
+|| 8.xx[[br]]copious[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious8.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious8.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious8.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious8.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious8.8.png?width=100 ||
+|| 9.xx[[br]]jubeat[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious9.0.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious9.2.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious9.4.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious9.6.png?width=100 ||<#0e1530> http://j.ubeat.info/images/jubility/copious9.8.png?width=100 ||
+|| 10.00[[br]]jubeat[[br]]sei-jin ||<#0e1530> http://j.ubeat.info/images/jubility/copious10.0.png?width=100 || || || || ||
+
+== [[유비트 소서]] ==
+전작들과 달리 주제는 딱히 없는 듯. 10.00 아이콘 배색이 금색에서 무지개빛으로 바뀌었다.
+
+|| || Lv. 1[[br]].00 - .19 || Lv. 2[[br]].20 - .39 || Lv. 3[[br]].40 - .59 || Lv. 4[[br]].60 - .79 || Lv. 5[[br]].80 - .99 ||
+|| 0.xx[[br]][wiki:"돌" stone][* [[스타크래프트|모 게임]]에 등장하는 [[광물]]처럼 생겼다.] || attachment:/jubility-0_0.png?width=100 || attachment:/jubility-0_1.png?width=100 || attachment:/jubility-0_2.png?width=100 || attachment:/jubility-0_3.png?width=100 || attachment:/jubility-0_4.png?width=100 ||
+|| 1.xx[[br]][wiki:"비눗방울" soap bubble] || attachment:/jubility-1_0.png?width=100 || attachment:/jubility-1_1.png?width=100 || attachment:/jubility-1_2.png?width=100 || attachment:/jubility-1_3.png?width=100 || attachment:/jubility-1_4.png?width=100 ||
+|| 2.xx[[br]][wiki:"연필" pencil] || attachment:/jubility-2_0.png?width=100 || attachment:/jubility-2_1.png?width=100 || attachment:/jubility-2_2.png?width=100 || attachment:/jubility-2_3.png?width=100 || attachment:/jubility-2_4.png?width=100 ||
+|| 3.xx[[br]][wiki:"마카롱" macaron] || attachment:/jubility-3_0.png?width=100 || attachment:/jubility-3_1.png?width=100 || attachment:/jubility-3_2.png?width=100 || attachment:/jubility-3_3.png?width=100 || attachment:/jubility-3_4.png?width=100 ||
+|| 4.xx[[br]][wiki:"연꽃" lotus] || attachment:/jubility-4_0.png?width=100 || attachment:/jubility-4_1.png?width=100 || attachment:/jubility-4_2.png?width=100 || attachment:/jubility-4_3.png?width=100 || attachment:/jubility-4_4.png?width=100 ||
+|| 5.xx[[br]][wiki:"딱정벌레" beetle] || attachment:/jubility-5_0.png?width=100 || attachment:/jubility-5_1.png?width=100 || attachment:/jubility-5_2.png?width=100 || attachment:/jubility-5_3.png?width=100 || attachment:/jubility-5_4.png?width=100 ||
+|| 6.xx[[br]][wiki:"해파리" jellyfish] || attachment:/jubility-6_0.png?width=100 || attachment:/jubility-6_1.png?width=100 || attachment:/jubility-6_2.png?width=100 || attachment:/jubility-6_3.png?width=100 || attachment:/jubility-6_4.png?width=100 ||
+|| 7.xx[[br]][wiki:"벌새" hummingbird] || attachment:/jubility-7_0.png?width=100 || attachment:/jubility-7_1.png?width=100 || attachment:/jubility-7_2.png?width=100 || attachment:/jubility-7_3.png?width=100 || attachment:/jubility-7_4.png?width=100 ||
+|| 8.xx[[br]][wiki:"만화경" kaleidoscope] || attachment:/jubility-8_0.png?width=100 || attachment:/jubility-8_1.png?width=100 || attachment:/jubility-8_2.png?width=100 || attachment:/jubility-8_3.png?width=100 || attachment:/jubility-8_4.png?width=100 ||
+|| 9.xx[[br]][wiki:"프리즘" prism] || attachment:/jubility-9_0.png?width=100 || attachment:/jubility-9_1.png?width=100 || attachment:/jubility-9_2.png?width=100 || attachment:/jubility-9_3.png?width=100 || attachment:/jubility-9_4.png?width=100 ||
+|| 10_00[[br]]prism || attachment:/jubility-10_0.png?width=100 || || || || ||
+
+== [[유비트 소서 풀필]] ==
+소서와 색만 변하고 나머지는 동일하다...~~풀필이라서 그런가...사실 색도 그냥 조금 진한정도밖에 안되는거같다.귀차니즘~~
+
+|| || Lv. 1[[br]].00 - .19 || Lv. 2[[br]].20 - .39 || Lv. 3[[br]].40 - .59 || Lv. 4[[br]].60 - .79 || Lv. 5[[br]].80 - .99 ||
+|| 0.xx[[br]][wiki:"돌" stone]|| https://ubit.info/@images/jubility/0_0?.png?width=100 || https://ubit.info/@images/jubility/0_1?.png?width=100 || https://ubit.info/@images/jubility/0_2?.png?width=100 || https://ubit.info/@images/jubility/0_3?.png?width=100 || https://ubit.info/@images/jubility/0_4?.png?width=100 ||
+|| 1.xx[[br]][wiki:"비눗방울" soap bubble] || https://ubit.info/@images/jubility/1_0?.png?width=100 || https://ubit.info/@images/jubility/1_1?.png?width=100 || https://ubit.info/@images/jubility/1_2?.png?width=100 || https://ubit.info/@images/jubility/1_3?.png?width=100 || https://ubit.info/@images/jubility/1_4?.png?width=100 ||
+|| 2.xx[[br]][wiki:"연필" pencil] || https://ubit.info/@images/jubility/2_0?.png?width=100 || https://ubit.info/@images/jubility/2_1?.png?width=100 || https://ubit.info/@images/jubility/2_2?.png?width=100 || https://ubit.info/@images/jubility/2_3?.png?width=100 || https://ubit.info/@images/jubility/2_4?.png?width=100 ||
+|| 3.xx[[br]][wiki:"마카롱" macaron] || https://ubit.info/@images/jubility/3_0?.png?width=100 || https://ubit.info/@images/jubility/3_1?.png?width=100 || https://ubit.info/@images/jubility/3_2?.png?width=100 || https://ubit.info/@images/jubility/3_3?.png?width=100 || https://ubit.info/@images/jubility/3_4?.png?width=100 ||
+|| 4.xx[[br]][wiki:"연꽃" lotus] || https://ubit.info/@images/jubility/4_0?.png?width=100 || https://ubit.info/@images/jubility/4_1?.png?width=100 || https://ubit.info/@images/jubility/4_2?.png?width=100 || https://ubit.info/@images/jubility/4_3?.png?width=100 || https://ubit.info/@images/jubility/4_4?.png?width=100 ||
+|| 5.xx[[br]][wiki:"딱정벌레" beetle] || https://ubit.info/@images/jubility/5_0?.png?width=100 || https://ubit.info/@images/jubility/5_1?.png?width=100 || https://ubit.info/@images/jubility/5_2?.png?width=100 || https://ubit.info/@images/jubility/5_3?.png?width=100 || https://ubit.info/@images/jubility/5_4?.png?width=100 ||
+|| 6.xx[[br]][wiki:"해파리" jellyfish] || https://ubit.info/@images/jubility/6_0?.png?width=100 || https://ubit.info/@images/jubility/6_1?.png?width=100 || https://ubit.info/@images/jubility/6_2?.png?width=100 || https://ubit.info/@images/jubility/6_3?.png?width=100 || https://ubit.info/@images/jubility/6_4?.png?width=100 ||
+|| 7.xx[[br]][wiki:"벌새" hummingbird] || https://ubit.info/@images/jubility/7_0?.png?width=100 || https://ubit.info/@images/jubility/7_1?.png?width=100 || https://ubit.info/@images/jubility/7_2?.png?width=100 || https://ubit.info/@images/jubility/7_3?.png?width=100 || https://ubit.info/@images/jubility/7_4?.png?width=100 ||
+|| 8.xx[[br]][wiki:"만화경" kaleidoscope] || https://ubit.info/@images/jubility/8_0?.png?width=100 || https://ubit.info/@images/jubility/8_1?.png?width=100 || https://ubit.info/@images/jubility/8_2?.png?width=100 || https://ubit.info/@images/jubility/8_3?.png?width=100 || https://ubit.info/@images/jubility/8_4?.png?width=100 ||
+|| 9.xx[[br]][wiki:"프리즘" prism] || https://ubit.info/@images/jubility/9_0?.png?width=100 || https://ubit.info/@images/jubility/9_1?.png?width=100 || https://ubit.info/@images/jubility/9_2?.png?width=100 || https://ubit.info/@images/jubility/9_3?.png?width=100 || https://ubit.info/@images/jubility/9_4?.png?width=100 ||
+|| 10_00[[br]]prism || https://ubit.info/@images/jubility/10_0?.png?width=100 || || || || ||
+
+ == [[유비트 프롭]] ==
+프롭 가동과 함께 [[그런거 없다|삭제]]. 엠블렘과 스텝 시스템으로 대체되며 매칭 화면에는 엠블렘이 표시된다.

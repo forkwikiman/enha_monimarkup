@@ -1,0 +1,5 @@
+||<tablewidth=65%><tablealign=center><-4><#ffffff><:>[wiki:"NBA" <span style="font-weight:bold;color:#00004d">NBA</span>] '''{{{#00004d 동부 컨퍼런스 }}}''' ||
+||<-4><#000081><:> '''{{{#ffffff 애틀랜틱 디비전}}}''' [[틀:NBA 동부 컨퍼런스 센트럴 디비전|<span style="font-weight:bold;color:#ffffff">▶</span>]]||
+||<width=10%><:>http://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Boston_Celtics.svg/300px-Boston_Celtics.svg.png?width=50 ||<width=21%><:><#dcdcdc> [[보스턴 셀틱스]][[br]](Boston Celtics) ||<width=10%><:> http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/200px-Brooklyn_Nets_newlogo.svg.png?width=50||<width=21%><:><#dcdcdc> [[브루클린 네츠]][[br]](Brooklyn Nets)||
+||<width=10%><:>http://upload.wikimedia.org/wikipedia/en/thumb/d/d8/NewYorkKnicks.PNG/200px-NewYorkKnicks.PNG?width=50 ||<width=21%><:><#dcdcdc>[[뉴욕 닉스]][[br]](New York Knicks)||<:>http://upload.wikimedia.org/wikipedia/en/e/e5/76ersPartial.png?width=45||<:><#dcdcdc>[[필라델피아 세븐티식서스]][[br]](Philadelphia 76ers)||
+||<:>http://upload.wikimedia.org/wikipedia/en/thumb/7/75/Toronto_Raptors.svg/200px-Toronto_Raptors.svg.png?width=55 ||<:><#dcdcdc>[토론토 랩터스][[br]](Toronto Raptors)|| ||<#dcdcdc> ­||

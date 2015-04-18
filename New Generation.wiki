@@ -1,0 +1,50 @@
+ * [[beatmania IIDX]]의 수록곡 [[NEW GENERATION -もう、お前しか見えない-]]은 해당 항목 참조.
+ * [[아이돌 마스터 신데렐라 걸즈]]의 유닛 [[뉴 제네레이션]]은 해당 항목 참조.
+
+[[목차]]
+
+== 개요 ==
+http://p.eagate.573.jp/game/ddr/ac/p/images/music/jk_newg.jpg
+
+[[댄스 댄스 레볼루션]]의 수록곡. 작곡가는 SuperNOVA2에서 [[NGO]]를 작곡했었던 나베시마 케이이치(鍋嶋圭一). 기타와 드럼음이 주를 이루는 노래로, 전작의 NGO와 비슷하게 DDR에 하나도 안 어울리는 노래라는 평이 많다. [[GITADORA 시리즈]]에 어울린다는 평이 대세.
+
+== [[댄스 댄스 레볼루션]] ==
+||<tablewidth=100%><-7><#0064FF><:> '''{{{#white Dance Dance Revolution 2013 EXTRA STAGE}}}''' ||
+||<:> [[Monkey Business]] ||<:> [[Another Phase]] ||<:> [[Air Heroes]] ||<:> [[Spanish Snowy Dance]] ||<:> '''New Generation''' ||<:> [[Blew My Mind]] ||
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#green 14}}} || {{{#purple 17}}} ||
+||<|3> 190 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 7}}} || {{{#red 10}}} || {{{#green 14}}} || {{{#purple 17}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+||<#eeeeee>
+락×댄스가 어우러진 극상의 하모니.
+하이텐션한 무지하게 뜨거운 기타 사운드에 도취되다!
+（TAG）
+||
+
+[[Dance Dance Revolution(2013)]]의 다섯번째 엑스트라 전용곡으로 수록되었다. 2013년 12월 4일부터는 통상 해금곡으로 변경.
+
+이전의 [[NGO]]와 달리 변속은 없다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/6Xv6VVYtrhk" frameborder="0" allowfullscreen></iframe>
+}}}
+ESP+EDP 영상
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/KulsiJ10e4E" frameborder="0" allowfullscreen></iframe>
+}}}
+CSP 스텝매니아 재현 영상
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/MGja-grUA_o" frameborder="0" allowfullscreen></iframe>
+}}}
+CDP 스텝매니아 재현 영상
+
+챌린지 채보같은 경우 앞부분은 비교적 어렵지 않은 대신 마지막에 [[폭타]]가 내려오는 [[후살]] 패턴.

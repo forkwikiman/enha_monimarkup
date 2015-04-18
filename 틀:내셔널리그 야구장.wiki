@@ -1,0 +1,10 @@
+||<tablealign=center><-5><:><#ffffff> [wiki:"메이저리그" <span style="font-weight:bold;color:#00004e">MLB</span>]   [wiki:"내셔널리그" <span style="font-weight:bold;color:#00004e">내셔널리그</span>] [wiki:"틀:내셔널리그 야구장" <span style="font-weight:bold;color:#00004e">소속 구단 홈구장</span>] ||
+||<-5><:><#0000cc> '''{{{#ffffff 동부지구 소속구단}}}''' ||
+||<rowbgcolor=#ffffff><width=12%><:> [[애틀랜타 브레이브스|attachment:/Braves_1.png]] ||<width=12%><:> [[마이애미 말린스|attachment:/Marlins_1.png]] ||<width=12%><:> [[뉴욕 메츠|attachment:/Mets_1.png]] ||<width=12%><:> [[워싱턴 내셔널스|attachment:/Nationals_1.png]] ||<width=12%><:> [[필라델피아 필리스|attachment:/Phillies_1.png]] ||
+||<:> [[터너 필드]] ||<:> 말린스 파크 ||<:> [[시티 필드]] ||<:> 내셔널스 파크 ||<:> 시티즌스 뱅크 파크 ||
+||<-5><:><#670067> '''{{{#ffffff 중부지구 소속구단}}}''' ||
+||<rowbgcolor=#ffffff><:> [[세인트루이스 카디널스|attachment:/Cardinals_1.png]] ||<:> [[밀워키 브루어스|attachment:/BrewersLogo.png]] ||<:> [[시카고 컵스|attachment:/cubs222.jpg]] ||<:> [[신시내티 레즈|attachment:/Reds_1.png]] ||<:> [[피츠버그 파이리츠|attachment:/Pirates_2.png]] ||
+||<:> [[부시 스타디움]] ||<:> 밀러 파크 ||<:> [[리글리 필드]]||<:> 그레이트 아메리칸 볼파크  ||<:> PNC파크 ||
+||<-5><:><#037d14> '''{{{#ffffff 서부지구 소속구단}}}''' ||
+||<rowbgcolor=#ffffff><:> [애리조나 다이아몬드백스|attachment:/Diamondbacks.png] ||<:> [[LA 다저스|attachment:/Dodgers.png]] ||<:> [[샌프란시스코 자이언츠|attachment:/Giants.png]] ||<:> [[샌디에이고 파드리스|attachment:/Padres.jpg]] ||<:> [[콜로라도 로키스|attachment:/Rockies.png]] ||
+||<:> [[체이스 필드]] ||<:> [[다저 스타디움]] ||<:> [[AT&T 파크]] ||<:> [[펫코 파크]] ||<:> [[쿠어스 필드]] ||

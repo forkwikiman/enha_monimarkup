@@ -1,0 +1,115 @@
+attachment:/SAKURA-bg.png?align=right
+[[목차]]
+
+=== 개요 ===
+{{{#!html
+<iframe width="480" height="360" src="http://www.youtube.com/embed/oo5SmiuUCw4?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+DDR EXTREME에서의 루프형식 BGA
+
+{{{#!html
+<embed src="http://www.youtube.com/v/PM2WH7PUToM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+북미판 PS2용 EXTREME 2에서 추가된 풀 동영상 BGA
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 Reven-G라는 명의를 사용한 [[NAOKI]]. [* 약간의 명의에 변형은 있으나 주로 이 곡을 비롯해 토속적인 느낌이 나는 악곡계열을 작곡하는 명의이다.대표적으로는 [[AFRONOVA]]가 있다.] 장르는 SPIRITUAL. 동 작곡가의 [[MAXX UNLIMITED]]라는 악곡을 베이스로 일본의 고전 가요인 [[사쿠라사쿠라]]의 멜로디를 넣어 현대의 전자음악과 일본의 전통악기를 잘 조화시킨 악곡이다. BPM은 13~320. 처음에는 300BPM으로 시작하다가 중반에 점점 BPM이 내려가면서 13까지 내려간다. 13 이후 다시 150으로 증가, 그리고 320으로 갑자기 상승하면서 맹렬한 노트세례가 맞이한다. 그러다 종반에는 다시 BPM이 감소한다.
+
+작곡가의 주력 참가 기종과 곡의 특성 때문에 처음 수록된 기종이 [[댄스 댄스 레볼루션]]인 것으로 착각하기 대단히 쉽다.
+
+=== [[beatmania IIDX]] ===
+||||||||<tablewidth=100%>  [[비트매니아 IIDX 8th style]] 통상 엑스트라 시스템 ||
+|| EXTRA STAGE || '''桜''' || One More EXTRA STAGE || [xenon] ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/vww-KCbv9gk" frameborder="0" allowfullscreen></iframe>
+}}}
+어나더 AAA 영상. AC 8th style에서 이 플레이를 달성했을 시 원 모어 엑스트라인 [xenon]을 플레이할 수 있었다.
+
+|| 장르명 |||||| SPIRITUAL[[BR]]스피리추얼 |||| || [[BPM]] |||| 13~320 ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 SAKURA}}}''' ||
+|||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#green 비기너}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#green 難}}} || {{{#green 302}}} || {{{#blue 7}}} || {{{#blue 541}}} || {{{#orange 10}}} || {{{#orange 819}}} || {{{#red 12}}} || {{{#red 1123}}} ||
+|| [[더블 플레이]] || {{{#green -}}} || {{{#green -}}} || {{{#blue 8}}} || {{{#blue 605}}} || {{{#orange 10}}} || {{{#orange 819}}} || {{{#red 12}}} || {{{#red 1047}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 8th ~
+ * 가정용판 수록 : 8th, 13 DistorteD, 16 EMPRESS (PREMIUM BEST SIDE)
+
+8th Style의 EXTRA STAGE 악곡이다. 이 곡을 꺼내는데 성공하면 나오는 엑스트라 스테이지에서의 연출이 굉장히 아름답기로 유명하다.[http://youtu.be/pmMiTOjqqHA #] [http://www.nicovideo.jp/watch/sm395248 #니코니코동화 계정 필요] 
+
+난이도 면에서는 고BPM과 저BPM을 넘나드는 잦고 폭이 큰[[변속]]과 그에 맞춰 어려운 노트배치 덕에 상위 난이도의 악곡이다. 해금 전 [[제논]]을 꺼내기 위해서는 이 곡의 어나더를 정규배치로 하드게이지를 걸고 AAA랭크로 클리어해야 했는데, 이 때문에 해금전 제논을 꺼낸 사람은 2명밖에 없었다는 전설이 있다. 한명이 유명 [[탑랭커]] [[실버]].
+
+일반적으로 엑스트라 악곡보다 원모어 엑스트라 악곡이 더 어려운 편이지만, 8th Style만은 엑스트라 악곡인 이 곡이 원 모어 엑스트라 악곡인 [[제논]]보다 더 어렵다. [* 다만, 당시는 플레이 도중 배속변경이 불가여서 사쿠라의 고 BPM에 맞춰 배속설정을 해 놓으면 (두 곡의 BPM차는 거의 두배) 사쿠라를 깨고 나서의 저배속의 xenon은 너무 느리다.]
+
+숨겨진 [[이스터 에그]]인지는 불명이지만 3스테이지 곡을 플레이시 사쿠라 출현조건을 만족한 채로 폭사하면 나오는 컨티뉴 화면에서 컨티뉴 카운트가 5이하 남았을때 '''bpm이 400으로 빨라진 사쿠라'''가 잠깐 들리는데 이게 좀 소름끼친다. 어쩌면 BPM 400의 Fascination MAXX가 나온 아이디어는 여기에서? [* CS판 기준으로 3스테이지에서 7禁난이도의 어나더를(오토스크래치 불가) A랭크 이상 클리어하면 사쿠라 출현조건이 만족되는데, 그 3번째 스테이지 곡에서 후반까지 A랭크 이상의 점수를 쌓을정도로 연주를 하였지만 폭사(즉 폭사 리절트 화면의 리절트가 A이상으로 표시)후 컨티뉴화면에서 저 문제의 400bpm 사쿠라가 컨티뉴화면에서 들린다. AC판에서도 동일사양인지는 확인/수정바람.]
+
+19 Lincle까지는 계속 범용 BGA로 유지되다가 20 tricoro에서 DDR의 BGA가 이식되었다.
+
+==== 곡 코멘트 ====
+||「벚꽃」은 일본인 마음의 꽃.
+이 선율을 들으면 신기하게 향수가 솟아나 일본인의 유전자를 각성시키는 것이 있다.
+리듬의 모체는, 작위적으로 MAXX UNLIMITED의 리듬을 베이스로 하고는 있지만, 전체에 걸쳐 리파인과 커스터마이즈를 하고 있다.
+어레인지적으로는 전통 악기를 마음껏 도입해 현재의 신디사이저 기술과의 융합을 시도했다.
+
+최근, 일본인으로서 일본의 전통이나 고전 음악을 테마로 한 곡을 발표했지만, 드디어 Reven-G명의의 곡은 일본으로부터 여행을 떠나 [bag|유럽 쪽으로 향할 준비를 하고 있다].
+
+Sound /Reven-G
+
+쓰여진 악기나 그 선율에 따라 어느 나라의 음악, 이라고 확실히 알 수 있는 곡은 잘 생각 해보면 대단한 일이죠. 이외로 없는 것 같은 기분이 듭니다.
+확산되면서 진화해 가는 음악. 그것은 댄스 뮤직의 매력 중 하나라고 생각합니다.
+한편, 심화시키는 것으로 진화를 촉진해 새로 피어나는 음악도 있구나,라는 것을 깨닫게 해준 곡입니다.
+
+무국적인 디자인의 다양한 코스튬을 몸에 걸친 사람들로 넘치는 댄스 플로어 안, 극채색으로 물들며 흐르는 것 같은 모양이 장식 된 호화찬란한 기모노(남성이라면 대개 진우직?)를 독신이 걸쳐서 대 주목! 받고 있는 것 같은 기분.
+
+Movie / VJ GYO||
+
+=== [[댄스 댄스 레볼루션]] ===
+attachment:/SAKURA.png
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/3WcNHlGCDvQ" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 5}}} || {{{#orange 7}}} || {{{#red 11}}} || {{{#green 13}}} || {{{#purple 11}}} ||
+||<|3> 20~320|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 7}}} || {{{#red 11}}} || {{{#green 13}}} || {{{#purple 11}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+특징적으로 CHALLENGE가 EXPERT보다 약간 쉬운 형태를 띄고 있다.
+느려지는 구간에서 BPM 150으로 넘어갈때의 타이밍이 조금 애매한데, 동영상 BGA에서 장면이 바뀔때 밟아주면 된다.
+
+처음 나온 EXTREME에서는 루프형식 BGA가 생겼으며, 북미판 가정용 DDR에 실린 EXTREME에서 풀 동영상으로 바뀌었다.BGA에 등장하는 캐릭터는 DDR 캐릭터중 한명인 앨리스.
+
+=== [[댄스 에볼루션]] ===
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/-RQkYowFjwg" frameborder="0" allowfullscreen></iframe>}}}
+
+|||||||||||||| [[댄스 에볼루션]] 난이도 체계 ||
+|| BPM || 난이도 |||||||| 노트수 || 소비 칼로리 ||
+||<|2> 320 ||<|2> 4 || {{{#green LIGHT}}} || {{{#blue STANDARD}}} || {{{#red EXTREME}}} || {{{#orange MASTER}}} ||<|2> 8.20kcal ||
+|| {{{#green 57}}} || {{{#blue 93}}} || {{{#red 142}}} || {{{#orange 177}}} ||
+
+=== [리플렉 비트 시리즈] ===
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> '''13'''-'''320''' || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 84}}} || {{{#orange 316}}} || {{{#red 584}}} ||
+|| 수록버전 ||||||||<#ff1493> [[리플렉 비트 콜레트]] ||
+
+||||||||<#ff1493> [리플렉 비트 콜레트] FINAL 전용 곡 / Spring ||
+|| [Sakura Luminance] ||
+|| '''桜''' ||
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/E4EIGI_v2Vo?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+4월 24일 콜레트 스프링 시즌의 두번쩨 파이널 해금곡으로 등장했다.
+[London EVOLVED]보다 더한 극과 극의 BPM이 인상적인 곡.
+다만 박자가 적응하기 쉽고, 저속구간도 16비트 트릴로 다닥다닥 붙어서 나오는 London EVOLVED와는 달리 노트가 좀 떨어져서 나오기 때문에 비교적 여유있게 넘길 수 있다.

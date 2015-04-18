@@ -1,0 +1,98 @@
+'''환상[[뇌신]]기'''
+
+[[목차]]
+
+== 개요 ==
+attachment:Gensou_Raijinki.png
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[96]] + [[코에즈카 요시히코|02]]의 합동명의인 98. V6에서의 [[風神雲龍伝]] (풍신운룡전) 이후 두번째 곡 제공이다.
+
+후속곡으로 [[GITADORA]]의 [[白虎転生録]](백호전생록)이 있다.
+
+== [[기타프릭스·드럼매니아]] ==
+||<-3><#C9D540><:>'''GuitarFreaks & DrumMania V8 & XG2 Extra Rush'''||
+|| V8 || XG2 || 해당 곡 ||
+||<-2><#FFA500><:> EXTRA 1 || '''[[Einherjar]]''' ||
+||<-2><#FFA500><:> EXTRA 2 || '''[[blue moon]]''' ||
+||<-2><#FFA500><:> EXTRA 3 / ENCORE 1 || '''[[Chinese Snowy Dance]]''' ||
+||<-2><#FFA500><:> EXTRA 4 / ENCORE 2 || '''[[Martial Arts]]''' ||
+||<-2><#FFA500><:> EXTRA 5 / ENCORE 3 || '''[[SIX DIMENSION]]''' ||
+||<-2><#FFA500><:> EXTRA 6 / ENCORE 4 || '''[[Illuminati ~光を求める者たち~]]''' ||
+||<-2><#FFA500><:> EXTRA 7 / ENCORE 5 || '''[[ゲームより愛を込めて]]''' ||
+||<#082567> {{{#white ENCORE 6}}} ||<#FFA500> EXTRA 8 / ENCORE 6 || '''幻想雷神記''' ||
+||<#FF0000> '''PREMIUM ENCORE''' ||<#082567> {{{#white ENCORE 7}}} || '''[[EXCELSIOR DIVE]]''' ||
+|| 해당 없음 ||<#800080> '''{{{#white CLIMAX}}}''' || '''[[Brown blizzard]]''' ||
+
+{{{#!html
+<object width="550" height="413"><param name="movie" value="http://www.youtube.com/v/TONHpIscAo8?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TONHpIscAo8?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="550" height="413" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 클래식 드럼 익스퍼트.
+--화면에 비치는 XG2의 로고가 슬퍼진다--
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 268 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 23}}} || {{{#orange 53}}} || {{{#red 95}}} ||
+|| 기타 오픈픽 || {{{#green 25}}} || {{{#orange 54}}} || {{{#red 97}}} ||
+|| 기타 베이스 || {{{#green 26}}} || {{{#orange 49}}} || {{{#red 80}}} ||
+|| 드럼매니아 || {{{#green 24}}} || {{{#orange 60}}} || {{{#red 76}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 268 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#blue 4.60}}} || {{{#orange 6.30}}} || {{{#red 7.15}}} || {{{#purple 8.20}}} ||
+|| 기타 베이스 || {{{#blue 3.95}}} || {{{#orange 6.00}}} || {{{#red 7.10}}} || {{{#purple 7.40}}} ||
+|| 드럼매니아 || {{{#blue 3.20}}} || {{{#orange 5.95}}} || {{{#red 8.05}}} || {{{#purple 8.90}}} ||
+
+2011년 8월 12일 Extra level이 10으로 올라가며 앙코르 스테이지에 등장한 곡이다. 9월 9일 Extra level 12에서 엑스트라 스테이지 전용 곡으로 강등되었지만, 이건 XG2에서만. V8은 V7때와 마찬가지로 최종 앙코르로 남았다. ~~안습~~
+
+신 드립(...)시리즈의 두번째 곡으로, 전형적인 '패턴형'곡이다. 다시 말해 개인차가 있는 노래라고 볼 수 있다. 탐돌리기와 한손으로 심벌 3연타를 처리해야 하는 부분에서 뜬금없이 튀어나오는 4연타에서 콤보를 끊기 쉽다. 
+
+익숙해질 경우 클래식 기준 익스퍼트 난이도 표기가 76인 것에 비하면 낮게 느껴질 수 있다. 그리고 표기 BPM은 268이지만, 도입부는 BPM 약 200 정도로 시작하며, 이후 감속을 통해 268이 된다.
+
+{{{#!html
+<object width="550" height="413"><param name="movie" value="http://www.youtube.com/v/egmBQiDGGZI?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/egmBQiDGGZI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="550" height="413" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 클래식 기타 오픈 익스퍼트.
+
+클래식 기타 표준/오픈의 난이도가 각각 무려 '''95, 97'''을 찍었으나 뚜껑을 열어보니 [[물렙곡|'''80대 초, 중반의 곡들'''과 비교해도 딱히 어려울 게 없는 패턴]]이라는 평. 코에즈카 요시히코 곡 특유의 3연 리듬과 중간중간 튀어나오는 3+1 속주가 특징이며 전체적으로는 코드 변환 위주의 곡이다.
+
+=== 코멘트 ===
+>98입니다. 쿠파에요! '[[풍신운룡전]]'에 이어 두번째 작품이 됩니다.
+>전작에서, 98의 노래는 아시안적인 느낌을 도입한다..라는 느낌으로 시작했습니다만
+>2번째 곡에서 빨리도 망해버리고 말았습니다. (특별히 아시안적인 요소는 없습니다.)
+>
+>그래도 괜찮습니다.
+>96짱의 기타가 끝내주게 멋있으니 괜찮다고 생각합니다.
+
+== [[리플렉 비트 시리즈]] ==
+||||||<:>'''PASTEL ADVENTURE'''||
+||||||<#8e8eff><:>'''[[리플렉 비트 콜레트|colette]] 산맥 제1'''||
+||||||<:>[[Clumsy thoughts]]||
+||||||<:>[[Blind Justice 〜Torn souls, Hurt Faiths〜]]||
+||||||<:>[[Round!]]||
+||||||<:>[[Almace -HI SPEED EDITION-]]||
+||||||<:>[[guerre à outrance]]||
+||||||<:>[[MANA]]||
+||||||<:>[[It's my Miracle]]||
+||||||<:>'''幻想雷神記'''||
+||||||<:>[[Aerial Skydive]]||
+||||||<:>[[Our Faith]]||
+||||||<:>[[Ignited Night]]||
+||||||<:>[[愛は不死鳥の様に]]||
+||||||<:>[[GLITTER(비마니 시리즈)|GLITTER]]||
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 200-268 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 121}}} || {{{#orange 240}}} || {{{#red 473}}} ||
+|| 수록버전 ||||||||<#8e8eff> [[리플렉 비트 콜레트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 35 ||
+
+ * [[리플렉 비트 콜레트/해금요소]]로 바로가기
+
+{{{#!html
+<iframe width="640" height="360" src="http://www.youtube.com/embed/KdsG0e2semo" frameborder="0" allowfullscreen></iframe>}}}
+
+[[리플렉 비트 콜레트]]에 이식되었다. 역시 난해한 박자와 체인 트릴이 많아 9렙에서 까다로운 편에 속한다.

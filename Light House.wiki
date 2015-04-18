@@ -1,0 +1,52 @@
+|||| [[DJMAX 시리즈/수록곡 목록]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Portable]], [[DJMAX Trilogy]],[[br]] [[DJMAX TECHNIKA TUNE]], [[탭소닉]] ||
+|| 장르 || Happy Core ||
+|| 작곡 || [[xxdbxx]] ||
+|| BGA || [[ECO]] ||
+|| BPM || 162 ||
+
+{{{#!HTML
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/cNMUi2hRCRE?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+[[DJMAX 온라인]]부터 [[DJMAX Trilogy]]까지 쓰였던 BGA
+
+{{{#!HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/K2SVoJqKW-A?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+[[DJMAX TECHNIKA TUNE]]에서 리메이크된 BGA
+
+{{{#!html
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/mpcVjx2hsyc?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+트릴로지 5K MX패턴
+
+[[DJMAX 온라인]]의 정식 오픈베타서비스와 함께 추가된 곡. 당시만 해도 흔하지 않던 [[해피]] 장르를 선보인 곡으로, 말 그대로 듣는 사람을 즐겁게 만드는 곡. 다만 곡 자체는 킥드럼이 약한 등 [[해피 하드코어]]의 특성은 약하고, 버블검 [[유로댄스]]에 가깝다.
+
+후속곡으로 [[태권부리]]와 [[Talk! Talk!]]가 있다.
+
+연주하는 내내 ~~[[개소리]]~~동물들의 울음소리가 끊이지 않는다(…) 동물들의 세계일주를 그린 [[BGA]] 역시 재미있다. ~~[[브레멘 음악대]]~~
+
+오픈베타 시절에 모든 곡에 Hard Style이 없었을 때, 이 곡의 Normal Style이 가장 어려운 곡이었다. 지금이야 우습지만 당시에는 제대로 클리어하는 사람 보기 힘들었다.
+
+덤으로, [wiki:"월리를 찾아라" Hard Style의 타이틀 이미지를 보면...]
+
+[[TAP SONIC]]에서는 처음에는 9레벨로 등장했는데, 9레벨 물렙 대표주자였다. 결국 2012년 5월 14일 8레벨로 강등. ~~그래도 패턴 상향먹고 레벨 하향된 [wiki:"La Campanella : Nu Rave" 얘]보다는 [[200억]]배 낫다. 어 [wiki:"STOP" 나는?]~~
+그러나 여전히 8레벨 중에서도 S랭크를 따기 쉬운곡으로 물렙 취급 받는일도 자주 있지만, 클리어는 8레벨답다는 평. 
+
+=== [[DJMAX TECHNIKA TUNE]] ===
+
+|||||||||||| [[DJMAX TECHNIKA TUNE]] ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> STAR || 3 || ||
+||<#0000FF> {{{#white POP}}} || 4 || ||
+||<#FF0000> CLUB || 7 || [[Nostalgia Set]] 셀렉곡 ||
+||<#B400FF> {{{#white EXTRA}}} || ? || [[Freaky Garden Set]] 상위보스곡 ||
+
+{{{#!HTML
+ <iframe width="560" height="315" src="http://www.youtube.com/embed/T2r8JJVTegs?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+DJMAX TECHNIKA TUNE Club 믹싱 패턴
+
+[[DJMAX TECHNIKA TUNE]]에 수록되었는데, BGA가 리메이크 되었다. 사이버 프론트 유출본에서 BGA에 돼지만 나왔기에 단조로워 졌다고 사람들이 많은 실망을 하였으나, 9월 6일 공개된 풀버전 BGA에서 그 우려를 어느정도 불식 시켰다. 이번에도 ECO답게 BGA 후반부에서 [[마즈피플]]이 나오는등 [wiki:"약빨다" 약빤 모습]을 보여주었다. ~~근데 허락은? [팩맨], [갤러그], [랠리X], [핀볼], [알카노이드], [몬스터볼], 슈퍼마리오 동전박스 등이 나오는 [SigNalize|전례]도 있었으니 넘어가자~~ 잘 보면 알겠지만, [[태권부리]]의 기지는 물론 [[Son of Sun]]의 이동식(?) 집도 등장. ~~[wiki:"무슨 마약하시길래 이런생각을 했어요" 무슨 마약하시길래 이런 BGA 만드셨어요?]~~
+

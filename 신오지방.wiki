@@ -1,0 +1,83 @@
+[[include(틀:포켓몬스터/지방)]]
+
+[[목차]]
+
+= 소개 =
+||<tablealign=center> attachment:/Pt_Sinnoh.png?width=500 ||
+|| 신오지방 지도 ||
+|| http://fc06.deviantart.net/fs71/f/2013/305/5/f/blackfire__map_of_sinnoh_by_carminadelic-d6sl5fj.png?width=500 ||
+|| 흑백으로 되어 있는 신오지방 지도(영문, [[http://carminadelic.deviantart.com/art/BlackFire-Map-of-Sinnoh-410813119 원본]]) ||
+
+[[포켓몬스터]] 시리즈의 4세대 작품군 [[포켓몬스터 DP 디아루가·펄기아]], [[포켓몬스터 Pt 기라티나]]의 주무대가 되는 지역.
+
+모델은 일본열도의 [[홋카이도]]. 지리적으로 [[자연]]이 풍부하고 눈이 자주 내리는 한랭 기후가 특징인 곳이다. 날씨가 춥다는 것을 반증하듯 두터운 복장을 갖춰입은 NPC들을 자주 볼 수 있으며 신오지방 중앙 천관산의 정상 및 신오의 북부에는 항상 눈이 쌓여 있다.
+
+전 지방들 중 유일하게 모든 지역이 낮과 밤에 따라 BGM이 다르다.
+
+== 세계관 ==
+||<tablealign=center> attachment:/Dialga&Palkia&Giratina.jpg?width=370 ||
+|| 천관산 정상 [[창기둥]]의 펄기아, 기라티나, 디아루가 ||
+
+시간을 다스리는 [[디아루가]], 공간을 지배하는 [[펄기아]], 그리고 포켓몬 세계의 이면에 존재하는 [[기라티나]] 등의 [[전설의 포켓몬]]에 의한 창조신화가 전해져 내려오는 신오지방엔 고대 포켓몬과 관련된 유적지나 명소가 많다. 이러한 전설의 포켓몬과 깊은 관련이 있는 마을이나 유적은 디아루가와 펄기아의 힘을 이용해 세계를 자신들의 것으로 하려는 [[갤럭시단]]이 호시탐탐 노리고 있기도 하다.~~하지만 포켓몬 유저가 뺏어갔다~~
+
+또한 신오지방은 관동이나 성도, 호연 같은 다른 지방에 비해 지형이 험하다는 특색이 있는데, 신오지방의 중심부엔 신오의 상징과도 같은 거대한 산맥 [[천관산(포켓몬스터)|천관산]]이 신오지방의 땅을 동서로 나누고 있다. 천관산을 기준으로 서부 지역은 [[침엽수]], 동부 지역은 [[활엽수]] 같은 나무들이 자라고 있는 것도 환경상의 특징 중 하나이며 이런 지리적 특성에 영향을 받아 두 종으로 나뉘어진 [[트리토돈|깝질무]] 같은 포켓몬도 존재한다. 
+
+== 지리 ==
+=== 도시 및 마을 ===
+||<tablealign=center><rowbgcolor="#64AAFF"><:> {{{#ffffff '''모습'''}}} || {{{#ffffff '''도시/마을'''}}} || {{{#ffffff '''표어'''}}} ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Twinleaf_Town_Pt.png?width=190 || [[떡잎마을]] || '어린잎이 숨 쉬는 장소' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Sandgem_Town_Pt.png?width=190 || [[잔모래마을]] || '바다와 이어지는 모래의 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Jubilife_City_DP.png?width=190 || [[축복시티]] || '사람이 모여드는 행복한 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Oreburgh_City_DPPt.png?width=190 || [[무쇠시티]] || '에너지가 넘쳐흐르는 곳' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Floaroma_Town_DP.png?width=190 || [[꽃향기마을]] || '산뜻한 꽃내음의 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Eterna_City_DP.png?width=190 || [[영원시티]] || '옛날을 현재와 잇는 도시' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Hearthome_City_Pt.png?width=190 || [[연고시티]] || '마음이 서로 통하는 장소' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Solaceon_Town_Pt.png?width=190 || [[신수마을]] || '느긋하게 살 수 있는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Veilstone_City_DP.png?width=190 || [[장막시티]] || '돌에 둘러싸인 공간' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Pastoria_City_DP.png?width=190 || [[들판시티]] || '대습초원과 사는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Celestic_Town_DPPt.png?width=190 || [[봉신마을]] || '옛날을 전하는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Canalave_City_Pt.png?width=190 || [[운하시티]] || '수면이 비치는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Snowpoint_City_map.png?width=190 || [[선단시티]] || '얼음이 반짝이는 눈의 도시' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Sunyshore_City_DP.png?width=190 || [[물가시티]] || '태양이 비추는 마을' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Pokemon_League_Sinnoh.png?width=190 || [[포켓몬리그]] || '여기는 포켓몬 트레이너의 최고봉 포켓몬리그' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Fight_Area_Pt.png?width=190 || [[파이트에리어]] || '포켓몬 승부의 장소' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Survival_Area_Pt.png?width=190 || [[서바이벌에리어]] || '수행 준비의 장' ||
+||<rowbgcolor="#dcdcdc"><:> attachment:/Resort_Area_Pt.png?width=190 || [[리조트에리어]] || '누군가에게 필요한 마을' ||
+
+=== 시설 및 던전 ===
+ * [[진실호수]]
+ * [[무쇠탄갱]]
+ * [[영원의숲]]
+ * [[미혹의동굴]]
+ * [wiki:"천관산(포켓몬스터)" 천관산]
+ * [[입지호수]]
+ * [[강철섬]]
+ * [[예지호수]]
+ * [[챔피언로드]]
+ * [[하드마운틴]]
+
+ * [[골짜기발전소]]
+ * [[골풀무제철소]]
+ * [[숲의양옥집]]
+ * [[갤럭시단빌딩]]
+ * [[상호교류광장]]
+ * [[로스트타워]]
+ * [[신수유적]]
+ * [[포켓몬저택]]
+ * [wiki:"사파리존" 대습초원]
+ * [[팔파크]]
+ * [[배틀타워]](DP) / [[배틀프런티어(포켓몬스터)|배틀프런티어]] (Pt)
+
+ * [지하통로]
+ * [[선단신전]]
+ * [[송별의샘]]
+ * [[귀혼동굴]]
+ * [[만월섬]]
+ * [[바위산의유적]]
+ * [[빙산의유적]]
+ * [[무쇠의유적]]
+ * [[신월섬]]
+ * [[갈라진바닷길]]
+ * [[꽃의낙원]]
+ * [[시작의방]]
+

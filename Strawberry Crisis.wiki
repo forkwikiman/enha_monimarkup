@@ -1,0 +1,39 @@
+[[목차]]
+
+== 개요 ==
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/IytFA_-FaBw?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/IytFA_-FaBw?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[동방 프로젝트]]의 어레인지 곡. CROW'SCLAW 서클이 제작했으며, 원곡은 [[동방몽시공]] [[오카자키 유메미]]의 테마곡 Strawberry Crisis!!으로 락계열로 어레인지했다.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/Mi-sCPUrKlo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://www.crowsclaw.info/img/paeg0016.jpg?width=150 || http://www.crowsclaw.info/img/paeg0016.jpg?width=150 || http://www.crowsclaw.info/img/paeg0016.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 10}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0690}}} || {{{#orange 1182}}} || {{{#ff009f 1669}}} ||
+|| 일러스트 담당 || {{{#purple 乾ぬい}}} || {{{#orange 乾ぬい}}} || {{{#ff009f 乾ぬい}}} ||
+|| 이펙터 || {{{#purple Hermit♣club}}} || {{{#orange Hermit♣club}}} || {{{#ff009f Hermit♣club}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 28(2013.4.24)}}} ||
+|| [[BPM]] |||||| 198 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : KAC 2013 A코스
+
+자켓은 [[하쿠레이 신사 예대제]] 9에서 배포된 'Lightning Discharge'의 자켓을 사용했다.
+
+{{{#!HTML
+<object width="450" height="600"><param name="movie" value="//www.youtube.com/v/lOIzTNCsaTI?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/lOIzTNCsaTI?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="450" height="600" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 PUC 영상
+
+##여기에 이 패턴이 어떻게 어렵다는 걸 적고 이 주석 삭제바람.
+
+[[wiki:"코나미 아케이드 챔피언쉽/2013" KAC 2013]] 사운드 볼텍스 부분 A조(아시아 그룹도 여기에 포함된다.)에 두번째 스테이지 곡으로 선정되었다. 스킬 애널라이저 KAC 2013부분 A코스를 플레이 하다보면, [[육조년과 하룻밤 이야기]]와 이곡까지 클리어해야 [[BUBBLE RAVER]]를 폭사해도 EXH 패턴을 블럭으로 살 수 있다. 하지만 2스테이지인 이곡에서 클리어를 못해서 폭사하는 경우가 부지기수.

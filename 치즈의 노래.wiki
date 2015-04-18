@@ -1,0 +1,43 @@
+{{{#!html 
+<iframe width="640" height="390" src="https://www.youtube.com/embed/dy7J9q-eWmE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+
+{{{#!html
+<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/k3OMjs4Y7a8&hl=ko_KR&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/k3OMjs4Y7a8&hl=ko_KR&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></embed></object>
+}}}
+~~[[아 씨바 할말을 잃었습니다]]~~[* 영상에 사용된 곡은 [[러키☆스타]]의 BGM인 <Fun Fun Fun Dayo>]
+
+[[죠죠의 기묘한 모험]] 제7부 [[스틸 볼 런]]의 등장인물 [[자이로 체펠리]]가 작사, 작곡한 노래.
+
+||가사[* 아래쪽 영상 기준.]
+
+피자 모짜 렐↗라↘
+피자 모짜 렐↗라↘
+렐라 렐라 렐라 렐라 렐라 렐라 레
+
+피자 모짜 렐↗라↘
+피자 모짜 렐↗라↘
+렐라 렐라 렐라 렐라 렐라 렐라 레
+
+피자 모짜 렐→라↗
+피자 모짜 렐→라↗
+렐라 렐라 렐라 렐라 렐라
+
+고르곤→ 졸↗라↘
+고르곤→ 졸↗라↘
+졸라 졸라 졸라 졸라 졸라 졸라 조
+
+고르곤→ 졸↗라↘
+고르곤→ 졸↗라↘
+졸라 졸라 졸라 졸라 졸라 졸라 조
+
+고르곤→ 졸→↗라↘[* [[모차렐라 치즈]]와 [[블루 치즈#s-2.1|고르곤졸라 치즈]] 모두 [[치즈]]의 일종이며 [[피자]] 치즈로 쓰이기도 한다. 모짜렐라 치즈는 가장 대중적인 피자 치즈이다.]||
+
+[[죠니 죠스타]]는 이 노래를 듣고 ~~매우 언짢은 얼굴로~~ "감동이다", "렐라렐라 하는 게 귀에 딱 붙는다", "버릇 되겠다", "유럽이라면 분명히 대히트다"라고 평했다. ~~애쓴다.~~ 자이로는 악보도 만들 생각을 하고 있는 듯하다.~~그리고 죠니는 깨알 같이 "밴드 만들까?"라고 중얼거렸다.~~
+
+어쩌면 자이로는 [[스틸 볼 런 레이스]] 이후에 <치즈의 노래>의 작곡/작사가로서 널리 이름을 떨칠지도 몰랐다. 그러나 그럴 수 없게 되었으니 안 될 거야 아마……. ~~[wiki:"죠니 죠스타" 같이 부른 그룹원(?)]도 별세하시면서 후세에 전할 수 없게 되었다~~
+ 
+[[죠죠의 기묘한 모험 All Star Battle]]에서는 자이로의 도발대사로 나온다. 또한 PV에서는 [[카쿄인 노리아키]]의 레로레로랑 같이 나오기도 했다(...).
+
+~~[http://bbs2.ruliweb.daum.net/gaia/do/ruliweb/family/217/read?articleId=17824744&objCate1=&bbsId=G005&searchKey=userid&itemGroupId=&searchName=%EB%8D%B0%EC%8A%A4%EC%BC%88&itemId=64&searchValue=-3YqvkHlcnQ0&platformId=&pageIndex=1 라면의 노래도 있다(....)]~~

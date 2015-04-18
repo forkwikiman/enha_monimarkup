@@ -1,0 +1,80 @@
+attachment:Title.png
+
+||<tablewidth=350px><:> 이 항목은 [[오버래피드]]로도 리다이렉트 됩니다.||
+
+||<tablewidth=600px><:> 이 항목은 테스트 버전을 기준으로 작성되었습니다. 정식판 출시 후 변경 된 내용이 있으면 수정해주세요.||
+
+{{{#!HTML
+<object width="425" height="240"><param name="movie" value="//www.youtube-nocookie.com/v/FIofKA_gjOk?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube-nocookie.com/v/FIofKA_gjOk?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="425" height="240" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+티저영상
+
+[[https://www.facebook.com/teamarcstar 페이스북 아크스타 페이지]]
+[[https://twitter.com/team_arcstar 트위터 아크스타 계정]]
+[[https://twitter.com/overrapid_bot 트위터 오버래피드 관리 계정]]
+[[https://soundcloud.com/overrapid 사운드클라우드]]
+[[http://www.youtube.com/channel/UCF7CFSgo0UooGzpmY__owpw 유튜브 채널]]
+
+[[목차]]
+
+== 개요 ==
+ArcStar에서 개발한 모바일 [[리듬게임]]. [[안드로이드]]로 개발되고 있으며, 추후 [[iOS]]로도 나올 계획이라고 한다. 전용 [[컨트롤러]]나 [[아케이드]]용 발매도 어느정도 염두에 두고 있다고 한다. [[https://tumblbug.com/ko/overrapid 펀딩]]
+
+== 특징 ==
+기존의 모바일 리듬게임에서는 볼 수 없었던 '''스크래치 노트'''와 '''V자형 플레이화면'''이 차용되었다. 스크래치 노트는 3번, 4번 노트와 같은 라인에서 내려오며, 입력 방법에 따라 스크래치와 일반 건반의 입력이 구분된다. 스크래치의 용도는 [[beatmania IIDX]]나 [[ez2dj]]의 턴테이블과 비슷하다. 자세한 것은 아래에서 후술. V자형 화면은 엄지로 플레이할 때 엄지가 이동하는 방향에 따라 버튼이 배치되어 있어서 호평을 받고 있다.
+
+=== 게임 모드 ===
+ * FREE MODE : 모든 곡을 자유롭게 즐길 수 있는 모드.
+ * SEASON MODE : 테스트판에서는 공개되지 않았다. [[해금]]과 관련된 모드로 추측된다.
+ * ACCOUNT : 테스트판에서는 공개되지 않았다. [[랭킹]]이나 곡 구매 관련 메뉴로 추측된다.
+ * SETTINGS : 플레이 옵션을 설정할 수 있는 메뉴. 저사양 모드~~이걸쓰면 싸이온에서 나온 국내최초 안드로이드폰에서도 구동이 가능하다~~, 진동 설정[* 게임 플레이 중에 PAUSE에서도 설정 가능하다.], [[싱크]] 밀림 해결, 스크래치 감도 설정 등을 설정할 수 있다. ~~근데 어차피 스크래치 감도는 다들 최상으로 놓고 쓴다.~~
+
+=== 플레이 방법 ===
+attachment:play.png
+테스트 버전에서의 튜토리얼 화면.
+
+기본적으로는 다른 건반 리듬게임처럼 떨어지는 노트를 박자에 맞춰 누르면 된다. 다만 3,4번 라인에서 나오는 붉은 색 노트인 '''스크래치 노트'''는 중앙의 턴테이블처럼 생긴 버튼을 슬라이드 하여 입력한다. '''스크래치 롱노트'''의 경우에는 슬라이드 한 상태에서 유지하고 있다가 롱노트가 끝나는 타이밍에 놓으면 된다.
+[[게이지]]는 없으며, [[유비트 시리즈]]처럼 점수에 따라 클리어 여부가 결정된다. 클리어 보더는 70만점으로 추측된다. 자세히 아시는 분이 [[추가바람]].
+
+=== 점수 체계 ===
+100만점 만점제를 사용하고 있으며, 높은 판정을 낼 수록 높은 점수를 받으며, 점수에 따라 [[랭크]]가 결정된다. 랭크 획득 조건은 아래와 같다.
+ * '''[[wiki:"엑설런트" MAXX]]''' : 100만점. 즉, '''전부 EXCELLENT 판정을 내야 한다.'''
+ * '''S+랭크''' : 95만점 이상 ~ 100만점 미만.
+ * '''S랭크''' : 90만점 이상 ~ 95만점 미만.
+ * '''A랭크''' : 85만점 이상 ~ 95만점 미만.
+ * '''B랭크''' : 80만점 이상 ~ 85만점 미만.
+ * '''C랭크''' : 70만점 이상 ~ 80만점 미만.
+ * '''F랭크''' : 70만점 미만. 해당 [[스테이지]]를 실패한 것으로 간주한다.
+콤보로 얻는 추가 점수는 없는 순수 판정 기준으로 점수를 매기는 듯 하다.
+
+=== 판정 체계 ===
+5가지의 [[판정]] 체계가 있다.
+
+ * EXCELLENT : 노트를 정확한 타이밍에 누른다. 획득하는 점수가 가장 높으며, [[콤보]]가 오른다. ~~다른 리듬게임과는 다르게 노트 하나만 잘 쳐도 엑설런트를 준다.~~
+ * GREAT : 노트를 EXCELLENT 판정보다 더 느리거나 빠르게 누른다. EXCELLENT 판정보다 낮은 점수를 획득하며, 콤보가 오른다.
+ * SAVE : 노트를 GREAT 판정보다 더 느리거나 빠르게 누른다. GREAT 판정보다 낮은 점수를 획득하며, 콤보가 오른다.
+ * BAD : 노트를 SAVE 판정보다 더 느리거나 빠르게 누른다. SAVE 판정보다 낮은 점수를 획득하며, 콤보가 끊긴다.
+ * MISS : 노트를 BAD 판정보다 더 느리거나 빠르게 누르거나 노트를 놓친다. 점수를 획득하지 않으며, 콤보가 끊긴다.
+
+=== 난이도 체계 ===
+레벨 1 ~ 레벨 10까지의 10레벨 체계이며, 한 곡당 ELEMENTRY, EXPERT, PROFESSIONAL 세가지 난이도의 보면이 있다.
+테스트 판에서는 3개 이상의 동시노트가 있었지만 모바일 게임임을 고려하여 동시치기 갯수를 최대 2개로 수정한다고 한다. 그렇지만 레벨 7 이상의 보면에서는 엄지만으로는 처리할 수 없는 배치가 나온다. ~~책상에 올려두고 하자.~~
+
+== 인컴 테스트 ==
+=== 클로즈 베타 ===
+2014년 8월 14일 ~ 8월 31일까지 약 15일간 진행되었다. [[리갤]], [[트위터]], [[페이스북]] 리듬게이 그룹 등을 통해 테스터를 모집했으며, [[구글플러스]] 그룹에서 오류 및 개선사항에 대해 피드백을 받았다. 피드백 수렴 속도는 꽤 빠른 편이었다. ~~[[wiki:"공밀레" 프로그래머 갈리는 소리가 들린다.]]~~~~프로그래머는 한명이라던데???~~
+
+=== 오픈 베타 ===
+2015년 1월 20일~27일까지 8일간 사당 모펀에서 진행되었다.
+
+== 수록곡 ==
+클로즈 베타 당시 공개된 곡은 총 5곡이다.
+
+([[작곡가]] - 곡명 / [[장르]] / [[BPM]] (난이도) 순서입니다.)
+
+ * Zekk - Bliss / [[wiki:"트랜스" Trance]] / 143 (EL 5 / EX 7 / PR 9)[* 클로즈베타 마지막 날 공개되었다.]
+ * OptiU - Cancer / [[wiki:"트랜스" Trance]] / 138 (EL 3 / EX 7 / PR 8) [[http://www.youtube.com/watch?v=oqwcfVwJb74&list=UUF7CFSgo0UooGzpmY__owpw #]]
+ * Zekk - NEXT TO THE WORLD / [[wiki:"하드코어 테크노" UK HARDCORE]] (EL 3 / EX 6 / PR 8[* 테스트 기간 동안 PR채보가 한 번 수정되었다. 난이도는 높아졌으나 더 재밌어졌다는 평.]) [[http://www.youtube.com/watch?v=iDGirVmOqME&list=UUF7CFSgo0UooGzpmY__owpw #]]
+ * litmus* - Outer Space / [[wiki:"트랜스" Hard Trance]] / 144 (EL 5 / EX 7 / PR 9) [[http://www.youtube.com/watch?v=GnvbMoEs_9I&list=UUF7CFSgo0UooGzpmY__owpw #]]
+ * Bakamin - Unfactual Factory / Jumping Core[* 실제로 존재하지는 않는 장르명이다. [[해피 하드코어]]와 비슷한 분위기이다.] / 192 (EL 2 / EX 6 / PR 8)

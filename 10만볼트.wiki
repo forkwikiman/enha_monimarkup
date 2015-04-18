@@ -1,0 +1,55 @@
+[[목차]]
+= 개요 =
+[[포켓몬스터]]의 [[포켓몬스터/기술|기술]]. 3세대 이후 [[기술머신]] 24번.
+
+= 성능 =
+||||||||||||||||<:>http://cdn.bulbagarden.net/upload/b/bd/Thunderbolt_V.png||
+||||||<:>__기술 이름__||<:>[[포켓몬스터/타입|타입]]||<:>분류||<:>위력||<:>명중||<:>PP||
+||<:>한국어||<:>일본어||<:>영어||<|2><:>전기||<|2><:>특수||<|2><)>90||<|2><)>100||<|2><)>15||
+||<:>10만볼트||<:>１０まんボルト||<:>Thunderbolt||
+||||||<:>__기술 효과__||||<:>특수 분류||||<:>부가 효과||<:>확률||
+|||||| - |||| - ||||<:>마비||<)>10||
+
+'''[[단언컨대]], 10만볼트는 가장 완벽한 전기 타입 기술입니다.'''
+~~[[니콜라 테슬라]]의 평생 연구 산물~~
+
+[[적절]]한 위력에 명중률 100%라는 안정성을 갖춘 최고의 전기 타입 기술 중 하나. [[화염방사]]와 [[냉동빔]]과 기술 타입과 부가 효과를 제외하고 성능이 완전히 동일하다. 국내에서는 저 세 기술을 "원소기"라고 부른다. 5세대까지는 위력이 95였으나, 6세대로 오면서 90으로 너프당했다.
+
+견제폭을 넓히는 데 큰 도움이 되기 때문에 배울 수 있는 특수계 포켓몬들은 거의 대부분이 채용하는 편. 전기 타입 최강기라고 볼 수 있는 [[번개(포켓몬스터)|번개]], [[전자포]]는 명중률이 현저하게 낮기 때문에 마비 확률 보정을 받은 [[방전]]이나 비팟이나 복안 [전툴라]의 번개를 제외하고는 사실상 '''전기 타입 최고의 기술'''로 취급받는다. 자력으로 배우는 포켓몬은 [[피카츄]] [[피츄|일]][[라이츄|족]][* 피카츄 버전부터. 적·녹·청 당시엔 해당 레벨에 [[스피드스타]]를 배웠다.], [[에레키블]], [[저리더프|저리릴]][* 비진화인 저리어, 최종진화인 저리더프 상태에선 자력으로 배울 수 없다.], [[메더]], [[제크로무]] 뿐이나, 기술머신이 있기 때문에 범용성도 굉장히 높다.
+
+10만볼트를 저항하거나 효과를 무시하는 드래곤, 풀, 땅 타입에게 2배 대미지를 주는 냉동빔과 상성이 매우 좋다. 이 두 기술을 조합하면 거의 대부분의 멀티타입 포켓몬에게 '''최소 1배 이상의 대미지'''를 줄 수 있다![* 둘 모두를 반감하는 건 반감이 제일 많은 포켓몬으로도 유명한 [자포코일]과 상성조합이 매우 특이한 히트[로토무]와 프로스트로토무 뿐이다.] 그러다 보니 이 두 기술을 다 배울 수 있는 특공계 포켓몬들은 대부분 메이저 대우를 받는다. 대표적인 녀석들은 [[아쿠스타]]나 [[라프라스]]. 특히 [[미국]]에선 아예 이 두 기술을 '''Boltbeam'''이라고 한 데 묶어서 부른다.
+
+== 10만볼트 & [[냉동빔]]을 둘 다 주력으로 쓸 수 있는 포켓몬 ==
+※ 둘 다 배우면서 특공이 100 이상인 동시에 특공이 공격 이상이거나, 둘 중 하나라도 자속일 경우 기재한다.
+
+||<tablealign=center><rowbgcolor="#dcdcdc"><:> No. ||<-2> 포켓몬 ||<-2> 타입 ||
+|| 034 || attachment:/Pokemon_icon_034.png || [[니드킹]][* 특공은 낮지만 둘다 특성 우격다짐의 효과를 받아 절륜한 대미지를 낸다.] || [[포켓몬스터/타입/설명#s-2.8|attachment:/Pokemon_Type_Poison.png]] || [[포켓몬스터/타입/설명#s-2.9|attachment:/Pokemon_Type_Ground.png]] ||
+|| 036 || attachment:/Pokemon_icon_036.png || [[픽시(포켓몬스터)|픽시]] |||| [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||
+|| 040 || attachment:/Pokemon_icon_040.png || [[푸크린]] || [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal.png]] || [[포켓몬스터/타입/설명#s-3.3|attachment:/Pokemon_Type_Fairy.png]] ||
+|| 121 || attachment:/Pokemon_icon_121.png || [[아쿠스타]] || [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] || [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||
+|| 131 || attachment:/Pokemon_icon_131.png || [[라프라스]] || [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] || [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||
+|| 150 || attachment:/Pokemon_icon_150.png || [[뮤츠]] |||| [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||
+|| 151 || attachment:/Pokemon_icon_151.png || [[뮤(포켓몬스터)|뮤]] |||| [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||
+|| 171 || attachment:/Pokemon_icon_171.png || [[랜턴#s-2|랜턴]] || [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] || [[포켓몬스터/타입/설명#s-2.5|attachment:/Pokemon_Type_Electric.png]] ||
+|| 242 || attachment:/Pokemon_icon_242.png || [[해피너스]] |||| [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal.png]] ||
+|| 249 || attachment:/Pokemon_icon_249.png || [[루기아]] || [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] || [[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||
+|| 351 || attachment:/Pokemon_icon_351.png || [[캐스퐁]] |||| [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal.png]] ||
+|| 378 || attachment:/Pokemon_icon_378.png || [[레지아이스]] |||| [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||
+|| 380 || attachment:/Pokemon_icon_380.png || [[라티아스]] || [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||
+|| 381 || attachment:/Pokemon_icon_381.png || [[라티오스]] || [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||
+|| 382 || attachment:/Pokemon_icon_382.png || [[가이오가]] |||| [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] ||
+|| 384 || attachment:/Pokemon_icon_384.png || [[레쿠쟈]] || [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] || [[포켓몬스터/타입/설명#s-2.10|attachment:/Pokemon_Type_Flying.png]] ||
+|| 386 || attachment:/Pokemon_icon_386.png || [[테오키스]] |||| [[포켓몬스터/타입/설명#s-2.11|attachment:/Pokemon_Type_Psychic.png]] ||
+|| 474 || attachment:/Pokemon_icon_474.png || [[폴리곤Z]] |||| [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal.png]] ||
+|| 478 || attachment:/Pokemon_icon_478.png || [[눈여아]] || [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] || [[포켓몬스터/타입/설명#s-2.14|attachment:/Pokemon_Type_Ghost.png]] ||
+|| 483 || attachment:/Pokemon_icon_483.png || [[디아루가]] || [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel.png]] || [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] ||
+|| 484 || attachment:/Pokemon_icon_484.png || [[펄기아]] || [[포켓몬스터/타입/설명#s-2.3|attachment:/Pokemon_Type_Water.png]] || [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] ||
+|| 491 || attachment:/Pokemon_icon_491.png || [[다크라이]] |||| [[포켓몬스터/타입/설명#s-3.1|attachment:/Pokemon_Type_Dark.png]] ||
+|| 493 || attachment:/Pokemon_icon_493.png || [[아르세우스]] |||| [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal.png]] ||
+|| 531 || attachment:/Pokemon_icon_531.png || [[다부니]] |||| [[포켓몬스터/타입/설명#s-2.1|attachment:/Pokemon_Type_Normal.png]] ||
+|| 649 || attachment:/Pokemon_icon_649.png || [[게노세크트]] || [[포켓몬스터/타입/설명#s-2.12|attachment:/Pokemon_Type_Bug.png]] || [[포켓몬스터/타입/설명#s-3.2|attachment:/Pokemon_Type_Steel.png]] ||
+|| 699 || attachment:/Pokemon_icon_699.png || [[아마루르가]] || [[포켓몬스터/타입/설명#s-2.13|attachment:/Pokemon_Type_Rock.png]] || [[포켓몬스터/타입/설명#s-2.6|attachment:/Pokemon_Type_Ice.png]] ||
+|| 706 || attachment:/Pokemon_icon_706.png || [[미끄래곤]] |||| [[포켓몬스터/타입/설명#s-2.15|attachment:/Pokemon_Type_Dragon.png]] ||
+
+= 애니메이션 =
+여담으로 TV 애니메이션 한국 더빙판에선 어째서인지 10배로 강화된 '''[[100만 볼트]]'''라는 이름으로 나온다.~~[wiki:"믿고 쓰는 ○○산" 믿고 쓰는 국내산]~~ 가장 유력한 설은 [[씹|발음]] 때문으로 추정되었으나, [[포켓몬스터 THE ORIGIN]] 국내 더빙 때는 10만볼트라고 제대로 번역돼서 나왔으므로 결론은 원인 불명.(...) 환율에 의해 10배로 뻥튀기된 것이 아닌가하는 [[카더라]]도 있다.~~[[짐바브웨]]에서는 [[짐바브웨 달러|우주를 멸망시킬 수 있는 기술]]이 된다 [[카더라]]~~ 게임에서도 제대로 10만볼트로 번역되어 등장하고 있으니, 결국 한국 TV판의 [[로켓단]]들만 '''10년 넘도록 10배 위력의 고유기를 얻어맞고 있는 게 된다'''. 로켓단 [[지못미]](…).

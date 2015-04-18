@@ -1,0 +1,133 @@
+[[목차]]
+[[도타 2]]의 [[wiki:"도타 2/영웅" 영웅]] [[wiki:"아무개" 아무개]]의 대사를 다루는 항목입니다. 영문판 대사는 [[http://dota2.gamepedia.com/Dota_2_Wiki 이쪽으로.]]
+도타 2 위키에서 영웅의 대사 주소를 붙여 넣어주십시오.
+
+ * 상위 항목 : [[wiki:"아무개" 아무개]]
+
+== 소환 ==
+ * _spawn
+
+== 전투 시작 ==
+ * _battlebegins
+
+== 선취점 ==
+ * _firstblood
+
+== 이동 ==
+ * _move
+
+알겠다
+
+== 공격 ==
+ * _attack
+
+== 공격 받는 중 ==
+ * _underattack
+
+== 주문 사용 ==
+ * _cast
+
+=== 기술 이름 ===
+ * 기술 시전 대사를 작성할 때는 Q, W, E, R순으로 문단을 만들어주시기 바랍니다.
+ * 만약 해당하는 기술의 대사가 없다면, 굳이 그 기술에 해당하는 문단을 만들 필요는 없습니다.
+
+==== 특별한 상황 or 부속 기술 ====
+ * 특별한 상황(ex. 퍼지의 고기 갈고리가 크립에 맞았을 때)이나 부속 기술(ex. 원소술사의 원소 조합 후 기술)을 사용했을 시의 대사를 작성해 주십시오.
+ * 특별한 상황일 경우에는 그 상황을 문단 제목으로 써 주시기 바랍니다.
+
+== 쿨타임 ==
+ * _notyet
+
+== 마나 부족 ==
+ * _nomana
+
+== 막타 먹기 ==
+ * _lasthit
+
+== 디나이 ==
+ * _deny
+
+== 레인 비었음 ==
+ * _missing_lane
+
+== 레벨업 ==
+ * _level
+
+== 아이템 구입 ==
+ * _purch
+
+=== 점멸 단검 구입 ===
+ * _blink
+
+=== 아가님의 홀 구입 ===
+ * _sceptor
+
+=== 특정 아이템 구입 ===
+ * _item
+
+=== 불멸의 아이기스 습득 ===
+ * _immort
+
+== 물병에 룬 담기 ==
+ * _bottle
+
+== 룬 활성화 ==
+http://hydra-media.cursecdn.com/dota2.gamepedia.com/thumb/1/17/Rune_of_Double_Damage_icon.png/96px-Rune_of_Double_Damage_icon.png
+ * 더블 대미지!
+
+http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/e/ea/Rune_of_Haste_icon.png/96px-Rune_of_Haste_icon.png
+ * 신속화!
+
+http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/0/02/Rune_of_Illusion_icon.png/96px-Rune_of_Illusion_icon.png
+ * 환영화!
+
+http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/a/a2/Rune_of_Invisibility_icon.png/96px-Rune_of_Invisibility_icon.png
+ * 투명화!
+
+http://hydra-images.cursecdn.com/dota2.gamepedia.com/thumb/f/ff/Rune_of_Regeneration_icon.png/96px-Rune_of_Regeneration_icon.png
+ * 재생화!
+
+== 영웅 처치 성공 ==
+ * _kill
+
+=== 라이벌 처치 ===
+ * _rival
+ * [[wiki:"라이벌 영웅" 해당하는 영웅의 아이콘을 찾아 입력해주십시오.]] : 
+ * 영웅의 아이콘은 엔하위키 페이지나 도타 2 위키에서 찾을 수 있습니다.
+
+== 영웅 처치 실패 ==
+ * _ablilty_failure
+
+== 아군 대면 ==
+ * _ally
+
+== 사망 ==
+ * _death
+
+=== 라이벌에게 사망 ===
+ * 라이벌 처치와 같은 형식으로 작성해 주십시오.
+
+== 부활 ==
+ * _respawn
+
+=== 빠르게 부활 ===
+ * _fastres
+
+== 승리 ==
+ * _win
+
+== 패배 ==
+ * _lose
+
+== 기타 ==
+기타
+ * 만약 상기한 문단에 맞는 대사가 없다면 그 문단을 삭제해 주시기 바랍니다.
+ * 위 항목에 나와있지 않은 대사를 여기에 적어주십시오.
+ * 대사 항목 작성이 끝나면 [[도타 2/영웅]] 항목의 영웅 대사 부분에 링크를 걸어주시기 바랍니다.
+ * 이 설명을 안 지우고 그대로 쓰시진 않으시겠죠?
+
+형편없는 마법사
+ * 이런 식으로 문단을 나누지 않고 적습니다.
+
+덜떨어진 마법사
+ * 정말 여담이지만 형편없는 마법사는 도타 2의 버그에 책임이 있는 사람입니다.

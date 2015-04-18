@@ -1,0 +1,57 @@
+ * 상위항목 : [[ZTE]]
+
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 미국 지역통신사인 버진 모바일을 통해 출시한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]] 목록.
+
+각 기기정보가 전부 토막글 수준이며 주요 모델의 커스텀 모델도 아닌 별개의 모델들이다.
+
+== ZTE Virgin Mobile Reef ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/f/r/front_scuba.png
+
+2013년 6월에 출시되었다. 기기명은 N810.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655 [[SoC]]. [[Qualcomm Scorpion]] 1 GHz [[CPU]], 퀄컴 Adereno 205 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g, [[블루투스]] 2.1 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1650 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||64.8 x 127 x 11.2 mm, 127.6 g ||
+||기타|| ||
+
+=== 상세 ===
+ZTE의 첫 버진 모바일 출시 스마트폰이다. 사양은 낮으나, 4.1 젤리빈을 탑재했다.
+
+[[각주]]
+
+== ZTE Virgin Mobile Awe ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/f/r/front_16.png
+
+20--년 -월에 출시되었다. 기기명은 N800.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Plus MSM8930 [[SoC]]. [[Qualcomm Krait]] MP2 1.2 GHz [[CPU]], 퀄컴 Adereno 305 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 IPS TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||전면 30만 화소, 후면 500만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1650 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 4.1 (Jelly Bean) ||
+||규격||65.3 x 126 x 10.7 mm, 124.9 g ||
+||기타||IPX7 등급 방수 지원 ||
+
+=== 상세 ===
+무난한 사양을 가진 중급형 기기다. 또한 방수를 지원한다. 방진 기능은 [[추가바람]].
+
+[[각주]]
+
+== ZTE Virgin Mobile Supreme ==
+[[ZTE 바이탈]] 항목 참조. 해당 모델의 통신사 내수 모델이다.
+
+
+[[각주]]

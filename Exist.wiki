@@ -1,0 +1,64 @@
+|| 장르 |||||||| Gang Hip ||
+|| 곡명 |||||||| Exist ||
+|| 작곡 |||||||| 김승현 ||
+|| 랩 |||||||| [[Mario Bolden]] ||
+|| 배경 |||||||| [[3rdBASS]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| BPM |||||||| 114 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}}[* 스트릿 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}}[* 루비 노멀 패턴과 동일한 패턴이 있었으나 EC에서 삭제됨] || {{{#orange 3}}} || {{{#red 6}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue 5}}} || {{{#orange 6}}} || {{{#red 9}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} ||
+ *라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ *[wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+[[목차]]
+== 개요 ==
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='SAgyt6oQ4iM$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=SAgyt6oQ4iM$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=SAgyt6oQ4iM$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+--철컥. 탕!탕! 으아아아아아아아!--
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+갱스터 힙합 장르. 2nd부터 등장했다. 난이도는 5키 기준 이지 2, 노멀 3, 하드 6. 하드 채보가 이지/노멀에 비해 1초 정도 길다. 그래서 BGA 싱크가 안 맞는 구간도 있다.
+
+OST는 좀 더 길고, 약간 다른 부분이 있다. 전체적으로 보면 OST 버전이 훨씬 낫다. 꼭 한번 들어보길.
+
+초딩들은 어쩐지 '''노마뻬'''라는 식으로 부른다. (저게 정확한 발음인지도 모르겠다.) 아무튼 후렴구에서 따온 듯한 이명. 후렴구의 가사는 ' What cha know "bout that(this)?" ' 이다. 참고로 행여 구어체라 못 알아 듣는 사람을 위해 설명하자면 What you know about that? 이다.
+
+== 패턴 ==
+=== 5K STANDARD ===
+EV에서 5키 슈하가 추가되었다. 동시에 기존 하드의 난이도가 6에서 7로 상향되었다.
+=== EZ2CATCH ===
+{{{#!HTML
+<iframe width="560" height="350" src="//www.youtube.com/embed/vpvdXd2fzpk" frameborder="0" allowfullscreen></iframe>
+}}}
+
+EZ2CATCH에서는 레벨 6으로 나왔는데...클럽 믹스 패턴을 그대로 때려박았다. 한개의 오차도 없이 배치 및 패턴이 100% 일치한다. 덕분에 표기레벨을 가볍게 웃도는 [[EZ2DJ/난이도 표기 문제|대형 지뢰곡]] 탄생. 초심자가 절대 건들면 안되는 곡 1순위이다.
+
+AEIC까지만 볼 수 있는 패턴이다.
+{{{#!html
+<iframe width="560" height="350" src="//www.youtube.com/embed/p_m5yVc35-o" frameborder="0" allowfullscreen></iframe>
+}}}
+그리고 EC로 넘어오면서 난이도가 9로 상향조정되고 패턴이 새로 생겼는데, 더 쉬워졌다(...) 특히 중간의 비비기 부분의 간격을 봤을때..
+이걸 보면 원래 패턴이 얼마나 불렙이었는지를 알 수 있게 해 준다..
+
+== 가사 ==
+||Gangsta~ wild world~ gangsta~
+While you walk, claim in a peace, swing in a peace, something rose
+Something that you cannot see so you're hanging around
+wanna be down I ain't try to clime with you feel wild
+We just try to flow. Oh, we made got dope
+I'll be catching the plane while you walking in the rain, catching the train, feeling the stain
+It don't even matter if you don't know my name
+Pick a rap song while I said more bros
+Breaking now mic check one two
+Kicking mouth when you say my name
+
+What cha know 'bout this?
+What cha know 'bout this?
+What cha know 'bout this?||

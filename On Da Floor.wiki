@@ -1,0 +1,28 @@
+||이 항목은 [[온다플]]로 검색해도 들어올 수 있습니다.||
+[[목차]]
+== 개요 ==
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Oxyo-EOBJgQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX RAY]] ||
+|| 장르 || Electro House ||
+|| 작곡 || [[Mr.Funky]] ||
+|| BPM || 130 ||
+|| 타이틀 || [[SARA]] ||
+
+약칭은 '''온다플'''.
+[[DJMAX RAY]]에 수록된 [[Mr.Funky]]의 오리지널 신곡으로, [[Supersonic ~Mr.Funky Remix~]], [[Hanz up!]], [[RockSTAR]]의 계보를 잇는 Mr.Funky표 130BPM 하우스 곡. 전체적인 느낌도 상기 열거했던 곡들의 후속 느낌이 강한 Mr.Funky의 주력 장르 곡이다.
+
+가사도, 타이틀 그림도 있는 곡이지만, 아이캐치에 보컬이나 타이틀 디자이너에 대한 정보가 없다. 그도 그럴것이, 저 아이캐치는 [[펜타비전]]에서 만든 것이 아닌, Mr.Funky가 리믹스로 참여한 [[뉴튼]]의 앨범 "Discovery Remixes"의 앨범 자켓 이미지에 곡명과 작곡가명을 써 놓은 것이기 때문. 후에 BGA가 있는 다른 [[DJMAX 시리즈]]에 이식된다면 새로운 아이캐치와 BGA가 생길 것으로 보인다.[* 기존 뉴튼 앨범의 디자인은 Sara가 맡았다.]
+== [[DJMAX RAY]] ==
+|||||||||| [DJMAX RAY]의 SledgeHammer 팩 수록곡 ||
+|| [[Nightmare]] || [[Syriana]] || [[Higher]] || '''On Da Floor''' || [[SINister Evolution]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 || ||
+||<#0000FF> {{{#white HD}}} || 5 || ||
+||<#FF0000> MX || 7 || ||
+
+

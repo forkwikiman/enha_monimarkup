@@ -1,0 +1,36 @@
+attachment:TheLemonSquash2.jpg?width=600
+
+|||| [[BEATCRAFT CYCLON/수록곡|BEATCRAFT CYCLON 수록곡 목록]] ||
+|| 장르 || Lemonade Funk ||
+|| 작곡 || Takahiro Eguchi ||
+|| BPM || 190 ||
+|| 아이캐치 || ColdVelvet ||
+
+[[BEATCRAFT CYCLON]]의 수록곡. 작곡가는 한국 리듬게임에 처음 참여하는 Takahiro Eguchi(aka eoll). 190BPM의 속도감을 최대한 살리면서도 밝고 감성적인 분위기를 이어가는 리퀴드 펑크 곡이다. [[KITTY FROM HELL]]과 함께 사이클론 정발 초기인 2014년 8월 중순 기준으로 역시 가장 인기있는 곡들 중 하나이다.
+
+인컴 테스트버전때는 다소 칙칙하고 성의없어 보이는(...) 아이캐치 그림을 가지고 있었으나, 정식 버전에서 아이캐치가 화사하게 바뀌었다.
+
+|||||||||||||||| 패턴 난이도 ||
+|| {{{#green EZ}}} || {{{#blue NM}}} || {{{#red HD}}} || {{{#purple PR}}} || {{{#orange MX}}} || {{{#silver S1}}} || {{{#silver S2}}} ||
+|| {{{#green  }}} || {{{#blue 5}}} || {{{#red 8}}} || {{{#purple 10}}} || {{{#orange 11}}} || {{{#silver 12}}} || {{{#silver }}} ||
+
+|||||||||||||||| 스테이지별 선곡 가능 여부 ||
+|| 스테이지 || {{{#green EZ}}} || {{{#blue NM}}} || {{{#red HD}}} || {{{#purple PR}}} || {{{#orange MX}}} || {{{#silver S1}}} || {{{#silver S2}}} ||
+|| 1 || {{{#green }}} || {{{#blue  }}} || {{{#red  }}} || {{{#purple  }}} || {{{#orange  }}} || {{{#silver }}} || {{{#silver }}} ||
+|| 2 || {{{#green  }}} || {{{#blue √}}} || {{{#red √}}} || {{{#purple √}}} ||{{{#orange  }}} ||{{{#silver }}} || {{{#silver }}} ||
+|| 3 || {{{#green  }}} || {{{#blue  }}} || {{{#red √}}} || {{{#purple √}}} ||{{{#orange √}}} || {{{#silver }}} || {{{#silver }}} ||
+|||||||||||||||| 비고 ||
+||||||||||||||||  BEAT TURBULENCE (HARD){{{#orange (MX)}}} 
+ CLUB TOUR 미션6-3 2번곡{{{#silver (S1)}}} ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/Oj7Qc1TO_jo?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+MX 패턴.
+
+{{{#!html
+ <iframe width="560" height="315" src="//www.youtube.com/embed/-43BfYBfXF4?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+S1 패턴.
+
+[[추가바람]]

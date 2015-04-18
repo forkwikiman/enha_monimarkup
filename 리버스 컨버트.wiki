@@ -1,0 +1,11 @@
+[[전뇌전기 버추얼 온 시리즈]]에 등장하는 가공의 기술.
+
+[[버추어로이드]]의 본체는 콕핏트와 [[V컨버터]]로 이루어져있는 「C.I.S.(전뇌허수공간)돌입정(艇)」이며, 이것의 설계 데이터를 기초로 V컨버터가 버추어 로이드를 '''구현화''' 시키는데, 바로 이 현상을 '''리버스 컨버트'''라고 한다. 한마디로 VR은 일일이 조립하는 게 아닌 통짜로 찍어내는 식이라고 보면 된다. 이 리버스 컨버트는 드림캐스트용 [[전뇌전기 버추얼 온 오라토리오 탱그램]]의 오프닝에서 볼 수 있다. 또한 임의의 장소에 있는 물체를 다른 임의의 장소에 리버스 컨버터로 구현화하는것을 정위(定位) 리버스 컨버트라고 하며 원 맨 레스큐 마지막 챕터에서 [wiki : "SHBVD의 대원#s-3.6" 피에조 바이몰프]가 정위 리버스 컨버트를 이용해 [[2세대형 라이덴]]을 탑승하고 등장하여 그 성능을 한껏 어필하였다.
+
+.....VR의 프라모델화도 리버스 컨버트라고 하는듯 하다.
+
+아래는 오라토리오 탱그램 오프닝
+
+{{{#!html
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/KVIy3OrIPrk&hl=ko"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/KVIy3OrIPrk&hl=ko" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+}}}

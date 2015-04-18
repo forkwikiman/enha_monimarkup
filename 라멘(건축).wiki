@@ -1,0 +1,13 @@
+ * [[건축 관련 정보]]
+
+Rahmen.(Rhamen이 아니다. Ramen은 더더욱 아니다! 독일어에서 유래하였다.)
+
+골조구조의 절점(節點)이 고정되어 있는 구조형식인데 일반적으로 기둥과 보가 강성(剛性)으로 접합되어 연속적으로 이루어진 골조를 말하며, 부정정(不靜定) 라멘이라고 한다. 이 외에 부재가 분할핀으로 접합되어 있을 때는 ΣX＝0, ΣＹ＝0, ΣH＝0인 힘의 평형조건식으로 반력 및 [[응력]]을 구할 수 있는 구조물을 특히 정정(靜定) 라멘이라고 한다. 평면계획상 자유스러운 배치가 가능하고, 넓은 개구부 및 공간을 얻을 수 있어 근대 고층건축에 널리 채택되고 있다.
+
+[[교량]] 시공법 중에도 라멘 공법이 존재하는데, 쉽게 말하면 교각과 상판을 합쳐서 통짜로 제작하는 것이다.
+
+{{{#!html
+<object id='egloosPlayer' name='egloosPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00' width='480' height='400'><param name='movie' value='http://v.egloos.com/v.sk/egloos/c0019785%7C5042352/20090816170800002354971701' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><param name='flashvars' value='useCodePage=0&enableJS=0' /><embed src='http://v.egloos.com/v.sk/egloos/c0019785%7C5042352/20090816170800002354971701' name='egloosPlayer' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' width='480' height='400' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' flashvars='useCodePage=0&enableJS=0' /></object>
+}}}
+
+음식 [[라멘]]과의 관계를 이용한 일본 건축회사 지역광고가 있다.

@@ -1,0 +1,93 @@
+카고노토리. 곡의 뜻은 새장에 갇힌 새(カゴノ鳥; 籠中鳥).
+
+[[목차]]
+
+== 소개 ==
+[[BEMANI 시리즈]]의 수록곡. 아티스트 명의는 橙色特別室. 작곡은 [[TOMOSUKE]]에 보컬은 토쿠오 시즈에. [[장르]]명은 IIDX에서는 '화식전자음악(和式電子音楽;일본식 전자 음악)'.
+
+TOMOSUKE가 이전에 드럼매니아 2nd에 냈던 [[IMPLANTATION]]의 분위기를 이어가는 곡.
+
+TOMOSUKE가 토쿠오 시즈에와 곡을 만들 때는 Orange Lounge라는 유닛명을 썼지만(그 유닛으로 나온 대표곡이 [[Mobo★Moga]]), 기존 Orange Lounge 곡들과는 달리 가사를 비롯해 일본식 분위기가 강해 명의를 일본식으로 의역(橙色: 오렌지색/ 特別室:특별실-라운지)하여 내걸고 낸 곡이 이 곡이다.
+
+[[beatmania IIDX 20 tricoro]] 신곡인 [[トリカゴノ鳳凰]]과는 관련 없다.
+== [[기타프릭스]] & [[드럼매니아]] ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/An2iOhHKvNs&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/An2iOhHKvNs&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+{{{#!html
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/F9vOfP8NEZE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/F9vOfP8NEZE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 160 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 22}}} || {{{#orange 37}}} || {{{#red 68}}} ||
+|| 기타 오픈픽 || {{{#green 23}}} || {{{#orange 41}}} || {{{#red 69}}} ||
+|| 기타 베이스 || {{{#green 29}}} || {{{#orange 53}}} || {{{#red -}}} ||
+|| 드럼매니아 || {{{#green 27}}} || {{{#orange 53}}} || {{{#red 83}}} ||
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"드럼매니아&기타프릭스/XG" XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 160 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} ||
+|| {{{#blue 3.00}}} || {{{#orange 4.25}}} || {{{#red 6.7}}} ||
+|| 기타 베이스 || {{{#blue 2.80}}} || {{{#orange 4.30}}} || {{{#red 6.40}}} ||
+|| 드럼매니아 || {{{#blue 2.40}}} || {{{#orange 5.20}}} || {{{#red 7.00}}} ||
+
+[[기타프릭스]] 10th MIX & [[드럼매니아]] 9th MIX 수록곡.
+
+기타드럼 시리즈에서 보기 힘든 트랜스곡 중 하나. 드럼매니아에서는 난이도가 제법 높고 풀콤하기가 80대 곡 중에서도 대단히 까다로운 곡이다.
+
+[[BGA]] 제작은 nono.
+
+=== 곡 코멘트 ===
+||테마는 사람이 가진 슬픈 진리입니다.
+
+대개 사람이라는 것은, 자신에게 없는 방면이나 생각에 조우했을 때
+받아들이지 않고 부정하고 싶어집니다.
+
+비록 그것이 사람이라는 것의 본질이라고 해도, 입니다.
+그것을 인정해 버리면 슬프게 되어버려, 즉 약한 마음을 가진 만큼 효과를 발휘하는군요.
+그런 슬픈 인간의 본질은 세상의 시스템을 벗어난 특수한 환경에서만 출현합니다.
+
+도덕적으로 세뇌된 머리로는 "악"이라 삼고 배제하는
+인간의 마음 속에 있는 행동 심리.
+세상에는 이들의 일은 전부 금기로서 무시되고 있습니다.
+꽤 의미심장한 소녀의 클립이지만, 아는 사람은 알아 줄라나.
+
+빈말은 이 정도로 하고, 이 곡은 아사키의 기타가
+더욱더 그 금기의 감정을 잘 표현해 주고 있습니다.
+
+또한, 주황색 특별실이라는 유닛명은 Orange Lounge의 2명으로
+실험적인 것을 할 때 쓸려고 생각합니다.
+
+- TOMOSUKE||
+
+== [[비트매니아 IIDX]] (カゴノトリ ~弐式~) ==
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/iJerVdkMJ8Q&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iJerVdkMJ8Q&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+싱글 어나더 영상
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/Y7E2sbfzsEw" frameborder="0" allowfullscreen></iframe>
+}}}
+
+더블 어나더 영상
+
+|| 장르명 |||||| 和式電子音楽[[BR]]화식전자음악 |||| || [[BPM]] |||| 140 ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 KAGONOTORI}}}''' ||
+|||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#green 비기너}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#green 普}}} || {{{#green 232}}} || {{{#blue 6}}} || {{{#blue 581}}} || {{{#orange 9}}} || {{{#orange 944}}} || {{{#red 12}}} || {{{#red 1325}}} ||
+|| [[더블 플레이]] || {{{#green -}}} || {{{#green -}}} || {{{#blue 6}}} || {{{#blue 581}}} || {{{#orange 9}}} || {{{#orange 978}}} || {{{#red 12}}} || {{{#red 1586}}}[* [[BEMANIWiki]]에는 어째서인지 1560개로 잘못 표기되어 있다.] ||
+
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 13 DistorteD ~
+ * 가정용판 수록 : 13 DistorteD
+[[비트매니아 IIDX]] 13 DistorteD에 이식되었는데, ~弐式~(이식. 그러니까 투덱 스타일...)이라는 부제가 붙었다. 몇몇 다른 게임에서 이식된 곡에는 IIDX EDITION이라는 부제가 붙는 경우가 있는데(예 : [[Bloody Tears]]), 여기서는 이 표기마저 일본풍으로 바꿔 한문으로 표기하였다. 이식되면서 곡도 조금 바뀌고 BGA도 리뉴얼 되었다.
+
+처음 수록되었을 때는 싱글 어나더의 난이도가 11이었으나, 11치고는 상당히 어렵다는 평이 많아 다음 작품에서 12레벨로 승격하였다. 전반-중반의 난타에 [[계단]]을 섞은 듯한 배치도 배치거니와, 중후반에 잠깐의 공백 후 몇 소절에 걸쳐 내려오는 폭타가 상당히 골치아프다. 이 구간에서 보컬의 '쵸우쵸우탄탄(寵鳥眈々)'이라는 가사가 [[몬데그린]]에 의해 '''초(超)초 간단'''(超超簡單;[[일본어]] 독음으로는 쵸-쵸-간단. --[[참 쉽죠]]?--)으로 들리는 경우가 많아 들리는 것과 실제 난이도의 괴리를 느낄 수 있기도 하다. [[야! 신난다~]]
+
+더블 어나더 측은 싱글보다 노트수도 더 많고 더 어렵다. 특기할 점이라면 후반 발광의 종지부를 찍는 소절의 오른편이 스크래치 없는 [[wiki:"Innocent Walls" 흰벽]] 배치가 되어 있다.
+
+전작(?)인 IMPLANTATION이 5키 [[비트매니아]] THE FINAL에 보스곡으로 실린 적이 있어서 그걸 이어서 이 곡이 IIDX에서 난이도 12를 찍고야 말았다.

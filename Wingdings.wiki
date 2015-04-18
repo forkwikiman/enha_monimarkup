@@ -1,0 +1,12 @@
+attachment:wingdings.png?width=550
+맨 위부터 2줄씩 Wingdings, Wingdings 2, Wingdings 3, Webdings.
+내용은 똑같이 [["팬그램" THE QUICK BROWN FOX JUMPS OVER A LAZY DOG / the quick brown fox jumps over a lazy dog]]이다.
+
+[[Microsoft Windows]]에 꼭 있는 딩뱃 [[폰트]].
+
+사무용품, [[종교]]적 상징, [[화살표]] 등 여러 가지 그림을 말 그대로 그림문자로 만들어 놓은 글꼴이다. 예전에는 하나만 존재했으나 지금은 오리지널(?) Wingdings와 함께 다른 버전으로 Wingdings 2~3, Webdings도 존재한다. 그리고 대체적으로 예쁜 자형으로 인해 [[포토샵]]에서도 널리 쓰인다고도 한다.
+
+여담으로, [[9.11 테러]] 사건 이후 퍼진 'Q33NY [[괴담]]'에 사용된 폰트가 바로 이 폰트이다. [[워드프로세서]]에서 대문자로 정확히 Q33NY라고 쓴 다음 글자 크기를 크게 하고 이 폰트로 바꿔보면 비행기가 쌍둥이빌딩에 박으려고 하는 모습과 그 옆에는 해골과 다윗의 별이 놓여 있는 그림이 나온다. (물론 나중에 Q33NY 괴담은 거짓으로 판명되었다)
+
+
+~~[[DTD]]를 증명하기도 한다~~[* Wingdings 2로 LG를 쓰면...]

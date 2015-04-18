@@ -1,0 +1,6 @@
+[[include(틀:SCP)]]
+||<tablewidth=70%><tablealign=center><-2><:> '''[[SCP 재단]]''' ||
+|| '''일련번호''' || SCP-1050 ||
+|| '''별명''' || 경고의 [[흑요석]] [[오벨리스크]](Obsidian Obelisk of Warning) ||
+|| '''등급''' || 안전(Safe) ||
+|| '''원문''' || [[http://www.scp-wiki.net/scp-1050]] ||

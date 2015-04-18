@@ -1,0 +1,41 @@
+'''딱 적당한 곳에 살고 싶어'''
+
+[[목차]]
+
+== 개요 ==
+http://ec2.images-amazon.com/images/I/419vvTBQz8L._SL500_AA300_.jpg
+싱글음반 자켓 이미지
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer4449' width='640' height='480'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=8F8A1111B9AEA2FECCAE5E7ECB0443016FAF&outKey=V12844ad03a0642b46dacdfe8d9cc5a53e44bcd258171b982dc1adfe8d9cc5a53e44b' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=8F8A1111B9AEA2FECCAE5E7ECB0443016FAF&outKey=V12844ad03a0642b46dacdfe8d9cc5a53e44bcd258171b982dc1adfe8d9cc5a53e44b' wmode='transparent' width='640' height='480' allowScriptAccess='always' name='NFPlayer4449' id='NFPlayer4449' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+PV 영상 ~~[[아시발꿈]]~~
+
+[[일본]]의 [[싱어송라이터]] たむらぱん(타무라빵)의 노래로 [[2009년]] [[3월 18일]]에 발매된 3번째 싱글인 'ちゃりんこ/ちょうどいいとこにいたい'의 2번 트랙 수록곡이다.
+
+Lion사의 데오도란트 파우더 스프레이인 'Ban' CM송으로도 쓰였다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>6||<:>9||
+||<#000000><:>{{{#white 노트수}}}||<:>193||<:>386||<:>713||
+||<#000000><:>{{{#white BPM}}}||||||<:>179||
+||<#000000><:>{{{#white 곡 이력}}}||||||[[유비트 리플즈]]에서 첫 수록[[BR]][[유비트 소서]]에서 출시 전 삭제[[BR]][[유비트 소서]]에서 2012/10/15 재수록[[BR]][[유비트 소서]]에서 2013/1/1 '''교체'''(...)[[BR]][[유비트 소서]]에서 2013/3/1 '''재수록'''(...)[[BR]][[유비트 소서]]에서 2013/5/1 '''교체'''(...)[[BR]][[유비트 소서]]에서 2013/11/1 재수록[[BR]][[유비트 소서 풀필]]에서 2014/6/24 '''삭제'''(...)||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/AyYk0f-GxKA" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+중간중간에 엇박이 많이 들어가 있어서 전체적으로 박자를 따라가기가 힘든 편이다. 후렴구 직전에는 트릴이 등장하니 주의. 가사에서 '라~라~'하는 부분부터는 반복 패턴이니 '보험이구나' 싶어도 기습 연타가 나와서 반복 패턴에 넋나가 있던(…) 플레이어를 당황하게 만든다. 그래도 난이도 9중에서는 중하위권 수준. 기습만 익혀놓으면 손쉽게 점수를 따낼 수 있다.
+
+마지막은 특히 압권으로 '''저 드럼 치는 부분이 단 1타도 빠지지 않고 그대로 12비트 연타로 나온다.''' 여러모로 처음부터 끝까지 방심할 수 없게 하는 패턴이 곳곳에 산재해 있다.
+
+이 곡은 위의 곡 이력에서 나와있듯 유비트 소서에서 교체이력이 화려한 곡이다. 비슷한 사례로 [[wiki:"Are U Ready" Are U Ready?]]도 있'''었'''다. 2013 5월에 다시 교체되면서 '''유일무이하게 3번이나 교체된 곡'''이 되었고, --소울메이트였던-- Are U Ready?는 살아남았'''었'''다.
+
+하지만 2013년 6월에 Are U Ready?는 '''삭제'''되었다. [* 2013년 9월부터 시행한 '마이 리퀘스트'에서 Are U Ready?는 고를 수 없다.] 그리고 이 곡은 2013년 11월에 재수록되면서 참으로 파란만장한 이력을 지니게 되었...으나 2014년 6월 24일 오전 5시 기점으로 소서 풀필에서 결국 '''삭제'''되었다. --뭐야 이거...--

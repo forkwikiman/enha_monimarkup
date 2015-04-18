@@ -1,0 +1,56 @@
+[[목차]]
+{{{#!html
+ <iframe width="420" height="315" src="//www.youtube.com/embed/ZpiaLVPO0CA" frameborder="0" allowfullscreen></iframe>
+}}}
+플레이 영상.
+
+== 곡 정보 ==
+||<bgcolor=#E9ECEF>混沌とした世界にも、朝が来ない夜はない！答えを求めて暗中模索。音の迷路を駆け抜けろ！
+||
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 17[[br]]THE MOVIE || MIDNIGHT DnB[[br]]미드나잇 디엔비 || Searching...[[br]]서칭... || Tia || ELENOA[[br]]엘레노아 ||
+
+|| [[BPM]] || [wiki:"팝픈뮤직/난이도 체계"난이도] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2><:> 170 || 43단계 || {{{#blue 17}}} || {{{#green 22}}} || {{{#orange 32}}} || {{{#red 38}}} ||
+|| 50단계 || {{{#blue -}}} || {{{#green 28}}} || {{{#orange 38}}} || {{{#red 44}}} ||
+|||| 노트수 || {{{#blue 425}}} || {{{#green 435}}} || {{{#orange 805}}} || {{{#red 1026}}} ||
+ * [wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]
+
+팝픈뮤직 17 무비 수록곡. 팝픈 영화제 4주차 해금곡 중 3번째 해금곡이다.
+
+아티스트 명의는 Tia로 표기되어 있지만 이건 보컬 명의이다. 작곡가는 주로 가정용 투덱 시리즈에서 곡을 낸 [[wiki:"kobo" 코보리 슈이치]]. 이 곡이 팝픈 첫 출전이다.
+
+EX의 난이도는 44로, 전체적으로 [[moffing]]같이 손이동을 크게 요구하는 난타가 주로 나와서 좀 까다롭다.
+
+담당 캐릭터 엘레노아는 코멘트에 따르면 [[wiki:"기계의 반란" 로봇에 지배당하는 미래 사회]]에서 투쟁해 나가는 여성인  듯. --그리고 팝픈에서 보기 드문 [[거유]] 캐릭터이다.--
+== 가사 ==
+
+||<bgcolor=#E9ECEF>Sometimes I﻿ wonder if I can ever see the light
+Can somebody talk to me?
+I am all alone
+
+Where is my place? There is no place
+Somebody talk to me?
+But ain't nobody's there
+In this crazy maze
+
+Sometimes I wonder if I could ever fly away
+Can somebody take me there?
+'Cos I'm going down
+
+Fly away to far and free,
+like the way I used to do
+Take me all the way,
+take me to the place for free
+
+Searching for my way...
+There's something much more than I'll ever know
+
+Chasing for your way...
+Trust in﻿ me, things will never be the same again
+
+Searching for my way...
+Chasing for your way...
+
+(In this crazy maze...)||

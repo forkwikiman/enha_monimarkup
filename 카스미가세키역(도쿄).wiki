@@ -1,0 +1,40 @@
+{{{+1 霞ケ関駅 / Kasumigaseki Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://farm4.staticflickr.com/3155/2312118767_cd6196fafa_z.jpg
+카스미가세키역의 B1번 출입구 모습. (사진 저작자 : [[http://www.flickr.com/photos/kusaker/2312118767/|eidantoei]])
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 [[치요다]]구에 위치한 [[도쿄 메트로]]의 역이다. [[마루노우치선]], [[히비야선]], [[치요다선]]의 환승역으로, 이름있는 노선들이 지나니만큼 혼잡도도 그에 준한다. 이용객 순위로는 도쿄 메트로 중 19위를 차지하였다.
+
+역 주변은 [[카스미가세키]] 관청가로, --세금을 축내는--일본을 움직이는 주요 정부 부서들이 모여 있는 곳이다. 여기 있는 주요 기관만 해도 --말썽꾸러기--[[외무성]], [재무성], [경제산업성], [농림수산성], [총무성], [국토교통성], [후생노동성], [환경성], [법무성], [문부과학성], [내각부], [최고검찰청], [[경시청]] 등 최고 기관들은 거의 모두 모여 있다. 그 외에도 카스미가세키 빌딩 및 히비야 공원이 있으며 이러한 정치적 중요성으로 인해 [[도쿄 지하철 사린가스 살포사건]]에서도 이 카스미가세키 역이 주 목표가 되었다.
+
+== 역 및 승강장 ==
+http://www.tokyometro.jp/station/kasumigaseki/yardmap/images/yardmap.gif
+역 입체도
+
+||||||||||<#e60012> {{{#ffffff 마루노우치선}}} ||<#808080><|8>{{{#ffffff 운영주체: 도쿄 메트로}}}[[br]]{{{#ffffff 개업일: 1958년 10월 15일}}} ||
+||<width=100px> [wiki:"오기쿠보역" 오기쿠보] 방면[[br]][wiki:"국회의사당앞역" 국회의사당앞][[br]](M-14) || {{{+1 ← }}} ||<width=100px> 카스미가세키[[br]](M-15) || {{{+1 → }}} ||<width=100px> [wiki:"이케부쿠로역" 이케부쿠로] 방면[[br]][wiki:"긴자역" 긴　자][[br]](M-16) ||
+||||||||||<#8ba2ae> {{{#ffffff 히비야선}}} || 
+||<width=100px> [wiki:"나카메구로역" 나카메구로] 방면[[br]][wiki:"카미야초역" 카미야초][[br]](H-05) || {{{+1 ← }}} ||<width=100px> 카스미가세키[[br]](H-06) || {{{+1 → }}} ||<width=100px> [wiki:"키타센쥬역" 키타센쥬] 방면[[br]][wiki:"히비야역" 히비야][[br]](H-07) ||
+||||||||||<#009944> {{{#ffffff 치요다선}}} || 
+||<width=100px> [wiki:"요요기우에하라역" 요요기우에하라] 방면[[br]][wiki:"국회의사당앞역" 국회의사당앞][[br]](C-07) || {{{+1 ← }}} ||<width=100px> 카스미가세키[[br]](C-08) || {{{+1 → }}} ||<width=100px> [wiki:"아야세역" 아야세] 방면[[br]][wiki:"히비야역" 히비야][[br]](C-09) ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TokyoMetro-kasumigaseki-platform-marunouchi-line.jpg/600px-TokyoMetro-kasumigaseki-platform-marunouchi-line.jpg
+마루노우치선 카스미가세키역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File:TokyoMetro-kasumigaseki-platform-marunouchi-line.jpg|LERK]])
+[[http://www.flickr.com/photos/boxcha/7181977688/|(사진) 다른 시점에서의 마루노우치선 카스미가세키역의 승강장 전경]].
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TokyoMetro-kasumigaseki-platform-hibiya-line.jpg/600px-TokyoMetro-kasumigaseki-platform-hibiya-line.jpg
+히비야선 카스미가세키역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3ATokyoMetro-kasumigaseki-platform-hibiya-line.jpg|LERK]])
+[[http://www.flickr.com/photos/minchai/5390469524/|(사진) 히비야선 카스미가세키역의 역명판]].
+
+http://farm6.staticflickr.com/5547/10394468936_9f3dfcf36b_z.jpg
+http://farm2.staticflickr.com/1173/1304452034_6dcde23b05_z.jpg
+치요다선 카스미가세키역의 승강장 모습. (사진 저작자 : (위)[[http://www.flickr.com/photos/ecserin/10394468936/|Ecserin]], (아래)[[http://www.flickr.com/photos/naoyafujii/1304452034/|naoyafujii]])
+
+http://farm4.staticflickr.com/3267/2312052945_b666cfecab_z.jpg
+치요다선 카스미가세키역의 역명판. (사진 저작자 : [[http://www.flickr.com/photos/kusaker/2312052945/|eidantoei]])
+
+마루노우치선은 2면 2선식 승강장으로 대략 구조가 [[외대앞역]]과 비슷하다. 히비야선과 치요다선은 섬식 승강장이다.
+
+[[각주]]

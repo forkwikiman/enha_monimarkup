@@ -1,0 +1,120 @@
+||<-5><#aaaaaa><tablealign=center> '''프로필''' ||
+||<|19>  attachment:/Diamond_Pearl_Byron.png?align=center&width=200 [[br]]''강철바디의 사나이'' ||
+||<#aaaaaa> '''이름''' ||<#cccccc><-2> 동관 ||
+||<#aaaaaa> '''성별''' ||<#cccccc><-2> [[남성]] ||
+||<#aaaaaa> '''눈 색깔''' ||<#cccccc><-2> [wiki:"눈/검은색" 흑색] ||
+||<#aaaaaa> '''머리 색깔''' ||<#cccccc><-2> [wiki:"머리카락/갈색" 적갈색] ||
+||<|2><#aaaaaa> '''트레이너 계급''' ||<#cccccc><-2> [[체육관 관장]] ||
+||<#cccccc><-2><:> [[포켓몬 트레이너]] ||
+||<#aaaaaa> '''지방''' ||<#cccccc><-2> [[신오지방]] ||
+||<|2><#aaaaaa> '''출신지''' ||<#cccccc><-2> [[운하시티]] (게임) ||
+||<#cccccc><-2><:> [[무쇠시티]] (애니메이션) ||
+||<#aaaaaa> '''가족관계''' ||<#cccccc><-2> [[wiki:"강석(포켓몬스터)" 강석]] (아들)[[br]]지하아저씨 (친척) ||
+||<#aaaaaa> '''담당 지역''' ||<#cccccc><-2> [[운하체육관]] ||
+||<#aaaaaa> '''배지''' ||<#cccccc><-2> [[wiki:"체육관 배지#s-2.4" attachment:/40px-Mine_Badge.png]] [[br]] 마인배지 ||
+||<#aaaaaa> '''주된 타입''' ||<#cccccc><-2> [[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] ||
+||<#aaaaaa> '''데뷔작''' ||<#cccccc><-2> [[포켓몬스터 DP 디아루가·펄기아]] ||
+||<#aaaaaa> '''세대''' ||<#cccccc><-2> 4, 5 ||
+||<#aaaaaa> '''등장 게임''' ||<#cccccc><-2> [wiki:"포켓몬스터 DP 디아루가·펄기아" DP 디아루가·펄기아][[br]][wiki:"포켓몬스터 Pt 기라티나" Pt 기라티나][[br]][wiki:"포켓몬스터 블랙·화이트 2"블랙·화이트 2] ||
+||<|2><#aaaaaa> '''성우''' ||<#cccccc> [[야오 카즈키]] ||<#cccccc> attachment:/20px-Japan_Flag.png ||
+||<#cccccc><:> [[신용우]] ||<#cccccc> attachment:/20px-South_Korea_Flag.png ||
+
+>'''젊은 트레이너여! 바로 나, 동관. 젊은이들이 넘어야 할 벽으로서 상대해주겠다!'''
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/신오지방의 체육관 관장)]]
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물.
+
+[[운하시티]]의 [[체육관 관장]]으로 주로 강철타입 포켓몬을 사용한다. [[무쇠시티]]의 체육관 관장인 [wiki:"강석(포켓몬스터)"강석]의 아버지이기도 하며 아들 강석을 아직 미숙한 햇병아리 트레이너 정도로 생각하고 있는 듯.
+
+주인공에게 패배한 후엔 주인공과 자신의 아들 같은 젊은 트레이너가 만들어내는 포켓몬 세계의 밝은 미래에 희망을 품고 있다는 말과 함께 자기 자신 또한 더욱 강해지기 위해 단련하겠다는 말을 덧붙이며 주인공을 격려해준다.
+
+== 그외 ==
+=== 기타 ===
+ * 주인공에게 [wiki:"루카리오"리오르]의 알을 선물해준 [wiki:"현(포켓몬스터)" 현]과 아는 사이이며 현에게 체육관 관장 자리를 추천한 적이 있었다고 한다.
+
+ * 지하통로에서 화석 등의 아이템을 캘 때 필요한 탐험세트를 주는 [[영원시티]]의 지하아저씨와 친척 관계이기도 하다.
+
+=== 공략 ===
+강철포켓몬 자체가 특방이 약한 포켓몬들이 많고, 뭣보다 불공격에는 대책없이 쓰러지기 때문에 불포켓몬만 있다면 어렵지 않다. 방패톱스의 진화형인 [[바리톱스]]를 사용하는데 바리톱스도 특방이 그나마 낮은 편이기 때문에 파도타기 등으로 약점을 노려 공략하면 무난하게 이길 수 있는 편. 아니면 아예 격투기술로 골로 보내거나.
+
+=== 삽화 ===
+||<tablealign=center><#aaaaaa><-2> 운하체육관 내부 ||
+|| attachment:/Canalave_Gym_1F_DPPt.png?width=193 || attachment:/Canalave_Gym_2F_DPPt.png?width=206 ||
+|| 1층 || 2층 ||
+|| attachment:/Canalave_Gym_3F_DPPt.png?width=207 || attachment:/Canalave_Gym_4F_DPPt.png?width=208 ||
+|| 3층 || 4층 ||
+
+||<-6><tablealign=center><#aaaaaa> 스프라이트 ||
+|| attachment:/Spr_DP_Byron.png || attachment:/Spr_Pt_Byron.gif || attachment:/ByronB2W2.gif || attachment:/Byron_IV_OD.png || attachment:/Byron_OD.png || attachment:/VSByron.png ||
+|| 트레이너[[br]](DP) || 트레이너[[br]](Pt) || 트레이너[[br]](블랙·화이트 2) || 필드[[br]](DP/Pt) || 필드[[br]](블랙·화이트 2) || VS ||
+
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#aaaaaa"><:> 언어 || 이름 || 유래 ||
+|| 일본어 || 토우간 トウガン || 식물명인 [[동과]](冬瓜)에서 유래. ||
+|| 한국어 || 동관 || 일본과 동일. ||
+|| 영어 || 바이런 Byron || Iron에서 변형. ||
+
+= 소유 포켓몬 =
+== [wiki:"포켓몬스터 DP 디아루가·펄기아"DP 디아루가·펄기아] ==
+||<tablealign=center><#cccccc> attachment:/Spr_4d_436.png ||<#cccccc> attachment:/Spr_4d_208_m.png ||<#cc9933> attachment:/Spr_4d_411.png ||
+||<#dcdcdc> [wiki:"동탁군" 동미러][[br]](Lv.36) ||<#dcdcdc> [[강철톤]] ♂[[br]](Lv.36) ||<#dcdcdc> [[바리톱스]] ♂[[br]](Lv.39) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.11" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.9" attachment:/Pokemon_Type_Ground.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]부유 || __특성__ :[[br]]옹골참 || __특성__ :[[br]]옹골참 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"유루열매] ||
+|| __기술배치__ :[[br]][[러스터캐논]][[br]][[신통력]][[br]][[이상한빛]][[br]][[최면술]] || __기술배치__ :[[br]][[자이로볼]][[br]][[얼음엄니]][[br]][[용의 숨결]][[br]][[모래바람]] || __기술배치__ :[[br]][[러스터캐논]][[br]][[원시의힘]][[br]][[철벽]][[br]][[잠자기]] ||
+
+== [wiki:"포켓몬스터 Pt 기라티나"Pt 기라티나] ==
+=== 1차전 ===
+||<tablealign=center><#ffcc33> attachment:/Spr_4p_082.png ||<#cccccc> attachment:/Spr_4p_208_m.png ||<#cc9933> attachment:/Spr_4p_411.png ||
+||<#dcdcdc> [[레어코일]][[br]](Lv.37) ||<#dcdcdc> [[강철톤]] ♂[[br]](Lv.38) ||<#dcdcdc> [[바리톱스]] ♂[[br]](Lv.41) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.5" attachment:/Pokemon_Type_Electric.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.9" attachment:/Pokemon_Type_Ground.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]자력 || __특성__ :[[br]]돌머리 || __특성__ :[[br]]옹골참 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] ||
+|| __기술배치__ :[[br]][[러스터캐논]][[br]][[10만볼트]][[br]][[트라이어택]][[br]][[금속음]] || __기술배치__ :[[br]][[러스터캐논]][[br]][[지진]][[br]][[얼음엄니]][[br]][[모래바람]] || __기술배치__ :[[br]][[메탈버스트]][[br]][[스톤에지]][[br]][[철벽]][[br]][[도발]] ||
+
+=== 재대결 ===
+||<tablealign=center><#cccccc> attachment:/Spr_4d_227.png ||<#cccccc> attachment:/Spr_4p_208_m.png ||<#ffcc33> attachment:/Spr_4p_462.png ||<#cc9933> attachment:/Spr_4p_411.png ||<#cccccc> attachment:/Spr_4d_306.png ||
+||<#dcdcdc> [[무장조]] ♂[[br]](Lv.61) ||<#dcdcdc> [[강철톤]] ♂[[br]](Lv.61) ||<#dcdcdc> [[자포코일]][[br]](Lv.62) ||<#dcdcdc> [[바리톱스]] ♂[[br]](Lv.63) ||<#dcdcdc> [[보스로라]] ♂[[br]](Lv.65) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.10" attachment:/Pokemon_Type_Flying.png]]|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.9" attachment:/Pokemon_Type_Ground.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.5" attachment:/Pokemon_Type_Electric.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]] ||
+|| __특성__ :[[br]]날카로운눈 || __특성__ :[[br]]돌머리 || __특성__ :[[br]]자력 || __특성__ :[[br]]옹골참 || __특성__ :[[br]]옹골참 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] ||
+|| __기술배치__ :[[br]][[회전부리]][[br]][[깜짝베기]][[br]][[암석봉인]][[br]][[스텔스록]] || __기술배치__ :[[br]][[자이로볼]][[br]][[얼음엄니]][[br]][[용의 숨결]][[br]][[모래바람]] || __기술배치__ :[[br]][[10만볼트]][[br]][[러스터캐논]][[br]][[전기자석파]][[br]][[초음파]] || __기술배치__ :[[br]][[메탈버스트]][[br]][[원시의힘]][[br]][[철벽]][[br]][[잠자기]] || __기술배치__ :[[br]][[메탈버스트]][[br]][[스톤에지]][[br]][[지진]][[br]][[눈사태]] ||
+
+== [wiki:"포켓몬스터 블랙·화이트 2"블랙·화이트 2] ==
+=== [[포켓몬 월드 토너먼트]] ===
+==== 신오 리더스 토너먼트 ====
+||<tablealign=center><#cc9933> attachment:/Spr_5b_411.gif ||<#cccccc> attachment:/bwsms5_(1).gif ||<#cccccc> attachment:/1bwkpse5_(2).gif ||<#ffcc33> attachment:/bwsms5_(5).gif ||<#cccccc> attachment:/bwsips5_(1).gif ||<#99cc33> attachment:/forretress_bw.gif ||
+||<#dcdcdc> [[바리톱스]] ♂/♀[[br]](Lv.50) ||<#dcdcdc> [[강철톤]] ♂/♀[[br]](Lv.50) ||<#dcdcdc> [[동탁군]][[br]](Lv.50) ||<#dcdcdc> [[자포코일]][[br]](Lv.50) ||<#dcdcdc> [[보스로라]] ♂/♀[[br]](Lv.50) ||<#dcdcdc> [[쏘콘]] ♂/♀[[br]](Lv.50) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.9" attachment:/Pokemon_Type_Ground.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.11" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.5" attachment:/Pokemon_Type_Electric.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.12" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]옹골참 || __특성__ :[[br]]돌머리[[br]]or 옹골참 || __특성__ :[[br]]부유[[br]]or 내열 || __특성__ :[[br]]자력[[br]]or 옹골참 || __특성__ :[[br]]옹골참[[br]]or 돌머리 || __특성__ :[[br]]옹골참 ||
+|| __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"슈캐열매] || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"꼬시개열매] || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"자뭉열매] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.29"풍선] || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"로플열매] || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"오카열매] ||
+|| __기술배치__ :[[br]][[메탈버스트]][[br]][[불대문자]][[br]][[철벽]][[br]][[스텔스록]] || __기술배치__ :[[br]][[자이로볼]][[br]][[드래곤테일]][[br]][[저주]][[br]][[스텔스록]] || __기술배치__ :[[br]][[자이로볼]][[br]][[사념의박치기]][[br]][[최면술]][[br]][[트릭룸]] || __기술배치__ :[[br]][[러스터캐논]][[br]][[차지빔]][[br]][[배리어]][[br]][[빛의장막]] || __기술배치__ :[[br]][[아이언헤드]][[br]][[바디퍼지]][[br]][[스톤샤워]][[br]][[역린]] || __기술배치__ :[[br]][[자이로볼]][[br]][[철벽]][[br]][[빛의장막]][[br]][[압정뿌리기]] ||
+
+==== 월드 리더스 토너먼트 / 타입 엑스퍼트 ====
+||<tablealign=center><#cc9933> attachment:/Spr_5b_411.gif ||<#cccc66> attachment:/bwsms5_(6).gif ||<#cccccc> attachment:/1bwkpse5_(2).gif ||<#ffcc33> attachment:/bwsms5_(5).gif ||<#cccccc> attachment:/bwsips5_(1).gif ||<#99cc33> attachment:/forretress_bw.gif ||
+||<#dcdcdc> [[바리톱스]] ♂/♀[[br]](Lv.50) ||<#dcdcdc> [[몰드류]] ♂/♀[[br]](Lv.50) ||<#dcdcdc> [[동탁군]][[br]](Lv.50) ||<#dcdcdc> [[자포코일]][[br]](Lv.50) ||<#dcdcdc> [[보스로라]] ♂/♀[[br]](Lv.50) ||<#dcdcdc> [[쏘콘]] ♂/♀[[br]](Lv.50) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.9" attachment:/Pokemon_Type_Ground.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.11" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.5" attachment:/Pokemon_Type_Electric.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입/설명#s-2.13" attachment:/Pokemon_Type_Rock_2.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입/설명#s-2.12" attachment:/Pokemon_Type_Bug.png]][[wiki:"포켓몬스터/타입/설명#s-3.2" attachment:/Pokemon_Type_Steel_2.png]] ||
+|| __특성__ :[[br]]옹골참 || __특성__ :[[br]]모래헤치기[[br]]or 모래의힘 || __특성__ :[[br]]부유[[br]]or 내열 || __특성__ :[[br]]자력[[br]]or 옹골참 || __특성__ :[[br]]옹골참[[br]]or 돌머리 || __특성__ :[[br]]옹골참 ||
+|| __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.29"풍선] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.10"생명의구슬] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.34"검은철구] || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)"슈캐열매] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.39.1"구애머리띠] || __지닌 도구__ :[[br]][wiki:"포켓몬스터/아이템#s-6.40.3"빛의점토] ||
+|| __기술배치__ :[[br]][[메탈버스트]][[br]][[불대문자]][[br]][[철벽]][[br]][[스텔스록]] || __기술배치__ :[[br]][[시저크로스]][[br]][[지진]][[br]][[지옥의바퀴]][[br]][[스톤샤워]] || __기술배치__ :[[br]][[자이로볼]][[br]][[사념의박치기]][[br]][[지진]][[br]][[트릭룸]] || __기술배치__ :[[br]][[러스터캐논]][[br]][[차지빔]][[br]][[배리어]][[br]][[빛의장막]] || __기술배치__ :[[br]][[아이언헤드]][[br]][[불꽃펀치]][[br]][[양날박치기]][[br]][[드래곤다이브]] || __기술배치__ :[[br]][[자이로볼]][[br]][[지진]][[br]][[리플렉터]][[br]][[스텔스록]] ||
+
+= 다른 매체에서의 모습 =
+== [[포켓몬스터 SPECIAL]]에서 ==
+attachment:/Fantina_Byron_Adventures.png?height=400
+
+아들인 [wiki:"강석(포켓몬스터)" 강석]의 말에 의하면 만사를 대충 생각하지만 야성적인 감이 있다고. 아들과는 대조적인 성격으로 그 탓에 오해가 잦아서 [wiki:"다이아몬드(포켓몬스터 SPECIAL)" 다이아] 일행을 적으로 생각하고 공격하는 등 많이 망가진다. 이 때문에 아들에게 자주 혼나거자 주의를 받는일이 있는 모양.
+
+[[갤럭시단]]에게 납치되었던 베를리츠씨를 지키고 있었으나, 난입해온 다이아 일행을 적으로 생각하고 싸우지만 그 후 오해를 풀고 다이아를 훈련시키기 위해 강철섬으로 데려다준다. 참고로 자신의 포켓몬중 한마리인 방패톱스는 어찌된일인지 무슨 수를 써도 말을 안들었지만 기묘하게도 다이아몬드를 잘따랐고 그래서 방패톱스를 다이아에게 주었다.
+
+잠깐이지만 그림체가 '''[[도박묵시록 카이지]]스럽게 나온 적이 있다(...).''' 굉장히 강렬한 임팩트를 자랑한다.
+== [[포켓몬스터 애니메이션 시리즈]]에서 ==
+attachment:/Byron_anime.png
+
+아들과 마찬가지로 [[화석]]덕후이며, 처음부터 아들내미하고 '''자기가 더 화석을 좋아한다는 것으로 다투다가''' 어부지리한 [[로켓단]]에게 화석을 몽땅 빼앗겨버렸다.[* 근데 여기서 나오는 동관의 대사가 개그다. 화석이 사라진 것을 자각 못하고 '''"나는 이 구멍이 좋다! 이렇게 구멍을 잘 파는 사람은 나쁜 사람이 아냐."'''라는 개그 대사를 해 주신다. 어이가 빠진 강석이 영문을 모르고 있는 동관에게 다시 한 번 주의를 환기시켜 주자, 동관은 그제서야 놀라는 듯 싶더니 알고 보니까 '''옆에 로켓단이 기계로 파둔 구멍을 보고 "이 구멍은 기계로 팠군. 예상보다 형편없어!" 라고 불평하는 거였다(...).''' 그 와중에 강석과 지우, 빛나, 웅이 넷 모두 꽈당쇼를 시전했다.] 어찌어찌하여 화석을 다시 되찾고, 아들이 처음으로 캔 화석을 보관해두고 있었던 것을 계기로 화해하고 [[한지우]]와 포켓몬 시합을 하게 된다. 그리고 체육관 관장의 숙명답게 발리고 [[한지우]]에게 뱃지를 조공하였다.
+
+그리고 애니 방영 이후 화석덕후기믹이 붇어서 개그캐릭터 이미지가 강해졌다(...)

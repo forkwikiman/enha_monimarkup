@@ -1,0 +1,85 @@
+ * 상위항목 : [[ZTE]]
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 미국의 지역 통신사인 Cricket Wireless(=크리켓 와이어리스)를 통해 출시한 [[wiki:"안드로이드(운영체제)" 안드로이드]] [[스마트폰]] 목록.
+
+각 기기정보가 전부 토막글 수준이며 주요 모델의 커스텀 모델도 아닌 별개의 모델들이다.
+
+전 제품군 모두 크리켓 와이어리스의 통신망 사정에 따라 [wiki:"CDMA2000" CDMA EV-DO Rev. A]를 지원한다.
+
+또한, 음악재생에 특화된 프리미엄 뮤직폰을 표방하고 있으며 MP3 전용 어플인 Muve Music을 기본 탑재하고 있다.
+
+[[각주]]
+
+== ZTE Score ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/c/r/cricket_score_3.png
+
+2011년 9월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 MSM7627 [[SoC]]. [[ARM]]11 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 512 MB 내장 메모리[* 시스템, 캐시, 어플설치공간으로 할당되어 FAT32로 포맷된 사용자 공간이 없다.], micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||후면 320만 화소 [[AF]] ||
+||[[배터리]]||Li-lon 1200 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 2.3 (Gingerbread) ||
+||규격||61.4 x 112 x 12.5 mm, 122 g ||
+||기타|| ||
+
+=== 상세 ===
+ZTE의 첫 크리켓 와이어리스 출시 스마트폰으로 철저한 저사양 스마트폰이다.
+
+[[각주]]
+
+== ZTE Engage ==
+[[ZTE Nova 4]] 항목 참조. 해당 모델의 통신사 내수 모델이다.
+
+[[각주]]
+
+== ZTE Groove ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/g/r/groove_2.png
+
+2012년 11월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 MSM7627 [[SoC]]. [[ARM]]11 800 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR1 SDRAM, 1 GB 내장 메모리[* 시스템, 캐시, 어플설치공간으로 할당되어 FAT32로 포맷된 사용자 공간이 없다.], micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" HVGA](480 x 320) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 30만 화소, 후면 320만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 2.3 (Gingerbread) ||
+||규격||62.5 x 118.6 x 13.9 mm, 127.6 g ||
+||기타|| ||
+
+=== 상세 ===
+Score의 후속작으로, 거의 비슷한 사양을 가졌다. 차이점으로는 내장 메모리 용량의 증가, AP의 오버클럭, 배터리 용량 증가 등이 있다.
+
+[[각주]]
+
+== ZTE Engage LT ==
+http://www.zteusa.com/media/catalog/product/cache/1/image/350x415/9df78eab33525d08d6e5fb8d27136e95/e/n/engage_lt_front_1.png
+
+2013년 3월에 출시되었다.
+
+=== 사양 ===
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S2 MSM8655 [[SoC]]. [[Qualcomm Scorpion]] 1 GHz [[CPU]], 퀄컴 Adreno 205 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"CDMA2000" CDMA & EV-DO Rev. A], [[Wi-Fi]] 802.11b/g/n, [[블루투스]] 2.1+EDR ||
+||[[카메라]]||전면 30만 화소, 후면 320만 화소 [[AF]] 및 [[LED]] [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||Li-lon 1900 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 4.0 (Icecream Sandwich) ||
+||규격||64 x 121 x 11 mm, 144 g ||
+||기타|| ||
+
+=== 상세 ===
+Engage의 후속작. 하지만 사양은 별 차이 없고 오히려 너프된 내용도 있다. ~~Engage LT의 LT는 '''L'''i'''t'''e?~~
+
+[[각주]]
+
+== ZTE Grand X MAX ==
+[[그랜드 메모 시리즈|그랜드 메모 2]] 참조.

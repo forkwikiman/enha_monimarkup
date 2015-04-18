@@ -1,0 +1,34 @@
+http://pds10.egloos.com/pds/200904/16/64/e0040264_49e601181be23.jpg?width=570
+ORION design에서 2005년 7월에 출시한 게임.
+[겔포스] 혹은 '''지옥의 포스가 느껴지는 게임'''으로 불리기도 한다.
+
+http://www.gamemeca.com/game_data/sshot/1372/big/10%20copy.jpg
+그래픽적인 면에서는 그래도 평이하다.
+
+하지만..
+
+http://pds13.egloos.com/pds/200904/16/64/e0040264_49e601139c876.jpg?width=570
+공중부양 등 수많은 버그, 그리고 최적화까지도 엉망이다.
+2005년 게임인데도 2기가 램에 지포스 9500 그래픽 카드에서도 느린 로딩과 같이
+강제종료같은 에러도 자주 나온다.
+
+http://pds15.egloos.com/pds/200904/16/64/e0040264_49e60118862c3.jpg?width=570
+오로지 직진만 가능한 [엑스 오퍼레이션] 수준의 적 인공지능.
+
+동굴에서 녹음 한 듯한 괴하게 울리는 음성/효과음들과 [MID] 음악이 낫다고 평할만큼의 [BGM]
+
+그리고 가장 치명적인 '''타격감 제로'''.
+
+쏴도 총기 발사음 개떡에 적 반응 없음, 반동 제로.
+반응 없는 대신 적이 파괴되는 효과는 있는데 마치 '''찰흙인형 쏴 부수는 괴한 느낌.'''
+
+조작감도 개판이여서 점프라도 할라치면 마치 '''발로 아따따뚜겐 콤보를 넣는듯한 괴한 느낌'''을 받을 수 있다.
+
+그래픽만 멋진 [쿠소게] 되시겠다.
+
+플레이 영상들.
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/_EV91Ft4ZWg&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_EV91Ft4ZWg&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/H6ICm93Hocg&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/H6ICm93Hocg&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/po1UyOsXIDU&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/po1UyOsXIDU&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/5j-WJjLnz6E&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5j-WJjLnz6E&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>}}}

@@ -1,0 +1,23 @@
+http://vjarmy.com/wiki/images/thumb/9/97/Souhan_opportunity.png/180px-Souhan_opportunity.png
+
+'''상반 오퍼튜니티'''
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HasnszI4u0M" frameborder="0" allowfullscreen></iframe>
+}}}
+기타 EXT 플레이 영상
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/HIa7KK-yn1Y" frameborder="0" allowfullscreen></iframe>
+}}}
+드럼 EXT 플레이 영상
+
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 155 ||<|2><:> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 3.20}}} || {{{#orange 4.80}}} || {{{#red 6.30}}} ||
+|| 기타 베이스 || {{{#blue 2.60}}} || {{{#orange 4.90}}} || {{{#red 6.80}}} ||
+|| 드럼매니아 || {{{#blue 2.80}}} || {{{#orange 5.70}}} || {{{#red 7.85}}} ||
+
+[[GITADORA OverDrive]]의 수록곡, 작곡가 명의는 [[Fat snail]]과 동일한 [[猫叉Master|NECOMATA MODIFY SALVATION]] feat.シシドヒナタ이다.

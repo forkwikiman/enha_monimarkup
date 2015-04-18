@@ -1,0 +1,38 @@
+[[국악]]곡의 하나로 정악에 속한다. 한문으로는 삭대엽(數大葉)이라고 쓴다.[* 자진(잦은)=數, 한(큰)=大, 잎=葉으로, 數는 number의 뜻이 아니라 '잦다, 빠르다'의 뜻이기 때문에 수가 아닌 '삭'으로 읽어야 한다. [[가곡]]의 편수대엽, 이수대엽 같은 경우도 잘못된 독법으로 편삭대엽, 이삭대엽으로 읽는 것이 정확하다.] 이름의 뜻은 '빠른 곡조'. 향[[피리]] 중심의 관악곡이라는 의미로 '사관풍류'라고도 한다.[* 이 명칭의 '사관'은 향피리를 가리킨다. [[피리]] 항목 참조]
+
+정악에 속하는 [[성악]]곡인 [[가곡]]의 반주 음악을 독립시켜 [[피리]], [[대금]], [[해금]], [[소금(악기)]], [[장구]]만으로 연주하는 관악 합주곡으로 편곡한 음악이다. [[가곡]]반주를 할 때는 노랫소리를 부각시키기 위해 [[피리]]는 향피리 대신 세피리를 쓰고, [[대금]]도 저취를 주로 쓴다. 하지만 자진한잎에서는 노래가 없기 때문에 [[대금]]은 옥타브를 올려 역취로 불고 [wiki:"소금(악기)"소금]을 함께 편성하며, [[피리]]도 세피리 대신 향피리를 쓰고 [[해금]]은 원산을 복판으로 내리고 음량이 작은 [[거문고]]와 [[가야금]]을 제외시킨다.
+
+하지만 [[가곡]] 전곡을 이렇게 연주하는 것은 아니고, 평조두거·변조두거·계면두거·평롱·계락·편수대엽 여섯 곡을 자진한잎에 포함시킨다. 또 악곡을 끝까지 연주하지는 않고 대여음을 빼고 연주하는 것도 특징.
+
+아명은 '경풍년(慶豊年)'이라고 하는데, 다시 세분하면 평조두거와 변조두거는 경풍년, 계면두거를 염양춘(艶陽春), 평롱 계락 편수대엽을 수룡음(水龍吟)이라고 한다. 궁중 연회때 사용되었다고 하며, 특히 임금님께 잔칫상을 올릴 때 연주하였다고 하여 '거상악(擧床樂)'이라고도 했다.
+
+평조두거(경풍년)은 특히 [[대금]] 독주곡이 유명하며([[대금]]항목 참고), 염양춘이나 수룡음은 [[단소]]독주나 생소병주([[단소]]와 [[생황]]의 이중주)가 들을 만 하다.
+
+[[대금]]/[[소금]]연주자인 한충은은 이 곡을 [[소금]]과 [[바이올린]], [[첼로]] 세 악기로 편성하여 연주한 바 있는데, 㵉 이상 올라가는 음에서 [[소금]]이 한 옥타브 내리는 원곡과 달리 㵜까지 역취로 불어제끼시는 위엄을 보여주셨다. [* 하기사 이 양반은 Morning이란 곡에서 wiki:"소금(악기)"소금 의 음역을 뛰어넘는 ~~초음파~~고음을 보여준 사람이니…]
+
+평조두거(경풍년) 4장에서는 관악기가 무려 12정간만큼 쉬지 않고 㳞음을 불어야 하는 부분이 나온다. 참고로 평조두거는 박속이 1분 30정간으로 1정간이 2초정도 된다. 말하자면 24초가량 쉬지 않고 일정한 세기의 숨을 내쉬어야 한다는 것(…) 합주할 땐 편법으로 한 사람이 숨이 차면 다른 사람이 이어 주면서 슬쩍 번갈아 연주하기도 하지만 [[대금]]독주는 얄짤없다(…)
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/k0tUs06U7Rc&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/k0tUs06U7Rc&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+수룡음, [[생황]]과 [[단소]] 이중주(생소병주)
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/Ng3xn3zMRco&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Ng3xn3zMRco&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+경풍년 [[대금]] 독주
+
+[[각주]]
+
+== 청성자진한잎 ==
+{{{#!html
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/0f70VFpQhHc&amp;hl=ko_KR&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0f70VFpQhHc&amp;hl=ko_KR&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+}}}
+[[자진한잎]]에 포함되는 음악은 아니지만, 자진한잎과 마찬가지로 가곡에서 파생된 기악곡으로 '청성자진한잎'이라는 곡이 있다. 
+한문으로는 청성곡(淸聲曲)이라고 쓰고, 아명은 요천순일지곡(堯天舜日之曲)이라고 한다.
+
+청성곡은 [[가곡]]의 마지막 곡인 [[태평가]]의 반주음악을 변주하여 [[대금]]이나 [[단소]]로 연주하는 독주곡을 말한다. '청성(淸聲)'이라는 말은 원래 높은 음역을 뜻하는 말로, 이 곡이 전체적으로 고음역에서 연주되기 때문에 붙은 이름이다.
+
+기본 멜로디는 같으나 연주하는 사람마다 제각기 장식음이나 끄는 음의 길이를 달리하여 연주하는 자유분방한 곡이다. [[대금]]정악의 최고봉으로 꼽히는 곡으로, 이 곡을 들음으로서 [[대금]]주자들의 기량을 파악할 수 있는 곡이다. [[단소]]나 [[대금]]등 순취악기 특유의 시김새와 길게 뻗어주는 음이 시원시원한, [[국악]]의 명곡으로 꼽히는 음악 중 하나이다.
+
+[[각주]]

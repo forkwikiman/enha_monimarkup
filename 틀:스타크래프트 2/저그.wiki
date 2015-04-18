@@ -1,0 +1,13 @@
+||<tablewidth=100%><#9F00C5><-100> '''[[스타크래프트 2|<span style="color:white">스타크래프트 2]] [[저그|<span style="color:white">저그]]{{{#ffffff 의 유닛, 건물}}}''' ||
+||<width=9%><|2><#DDA0DD> '''[[부화장#s-1.2|부화장]]''' ||<width=13%> attachment:larva.jpg?width=40px ||<width=13%> attachment:drone.jpg?width=40px ||<width=13%> attachment:overload.jpg?width=40px ||<width=13%> attachment:zergling.jpg?width=40px ||<width=13%> attachment:queen.jpg?width=40px ||<width=13%> attachment:roach.JPEG?width=40px ||<width=13%> attachment:baneling.jpg?width=40px ||
+|| [[애벌레(스타크래프트)|애벌레]] || [[일벌레(스타크래프트)|일벌레]] || [[대군주#s-2.3|대군주]] || [저글링(스타크래프트)#s-3|저글링] || [여왕(스타크래프트)#s-3|여왕] || [[바퀴(스타크래프트 2)|바퀴]] || [[맹독충]] ||
+||<|2><#DDA0DD> '''[[번식지#s-1.2|번식지]]''' || attachment:overseer.jpg?width=40px || attachment:hydralisk.jpg?width=40px || attachment:mutalisk.png?width=40px || attachment:corruptor.jpg?width=40px || attachment:infestor.png?width=40px  || attachment:swarmhost.jpg?width=40px ||||
+|| [[감시 군주]] || [[히드라리스크#s-3|히드라리스크]] || [[뮤탈리스크#s-3|뮤탈리스크]] || [[타락귀]] || [[감염충]] || [[군단 숙주]] ||||
+||<|2><#DDA0DD> '''[[군락#s-2.2|군락]]''' || attachment:viper.jpg?width=40px || attachment:broodload.jpg?width=40px || attachment:ultralisk.jpg?width=40px ||||||||
+|| [[살모사(스타크래프트 2)|살모사]] || [[무리 군주]] || [[울트라리스크#s-3|울트라리스크]] ||||||||
+||<|2><#DDA0DD> '''{{{#ffffff 소환 유닛}}}''' || attachment:broodling.jpg?width=40px || attachment:changeling.jpg?width=40px || attachment:infestedterran.jpg?width=40px || attachment:locast.jpg?width=40px ||
+|| [[공생충(스타크래프트)#s-2|공생충]] || [[변신수]] || [[감염된 테란#s-3.1|감염된 테란]] || [[식충]] ||
+||<|2><#DDA0DD> '''{{{#ffffff 기타 건물들}}}''' || [[추출장#s-1.2|추출장]] || [[산란못#s-1.2|산란못]] || [[진화장#s-1.2|진화장]] || [[바퀴 소굴]] || [[맹독충 둥지]] || [[가시 촉수]] || [[포자 촉수]] ||
+|| [[둥지탑#s-1.2|둥지탑]] || [[히드라리스크 굴#s-1.2|히드라리스크 굴]] || [[감염 구덩이]] || [[땅굴망]] || [[땅굴벌레]] || [[거대 둥지탑#s-1.2|거대 둥지탑]] || [[울트라리스크 동굴#s-1.2|울트라리스크 동굴]] ||
+||<|2><#DDA0DD> '''{{{#ffffff 캠페인, 기타 유닛 및 건물}}}''' || [[갈귀]] || [[무리 수호군주]] || [[거대괴수(스타크래프트 2)|거대괴수]] || [[수호군주]] || [[포식귀]] || [[가시지옥]] || [[오메가리스크]] ||
+|| [[브루탈리스크]] || [[피갈리스크]] || [[변형체]] || [[추적 도살자]] || [[파멸충]] || [[바이로파지]] || [[점막 군체#s-1.2.1|관통 군체]] ||

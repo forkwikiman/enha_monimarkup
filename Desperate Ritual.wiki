@@ -1,0 +1,19 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>   '''영어판 명칭'''   ||   '''Desperate Ritual'''   ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/190120_1.jpg?width=230px||
+||  '''한글판 명칭'''  ||  '''-'''  ||
+||  '''마나비용'''  ||  {1}{R}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  순간마법 - Arcane  ||
+||||<height=190px>
+Splice onto Arcane {1}{R} ''(당신이 Arcane 주문을 발동하면서, 당신은 당신의 손에서 이 카드를 공개하고 splice 비용을 지불할 수 있다. 그렇게 한다면, 이 카드의 능력을 그 주문에 더한다.)''
+
+당신의 마나 풀에 {R}{R}{R}을 더한다.
+||
+||||  '''[[매직 더 개더링/블록|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Champions of Kamigawa  ||  커먼  ||
+||||  Modern Masters  ||  언커먼  ||
+
+적색판 [[Dark Ritual]]이라고 할 수 있는 주문. Dark Ritual과 비교해서 1이 더 나가지만 이쪽은 Arcane 하나를 쓸 때 살포시 섞여들어가서 역시 마나뻥을 하나 더 시켜준다. 하지만 이후에는 Splice onto Arcane으로는 거의 안 쓰고, 주로 스톰피류 덱에 [[Seething Song]], [[Rite of Flame]] 등과 함께 사용한다.
+
+Magic 2011에서는 그냥 1R에 RRR을 더하는 Pyretic Ritual이라는 카드가 나왔다. 물론 카미가와 블럭 고유의 능력인 Arcane 속성과 Splice onto Arcane은 빠졌다.

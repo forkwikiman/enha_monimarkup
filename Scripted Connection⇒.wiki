@@ -1,0 +1,98 @@
+[[목차]]
+
+||이 문서는 [[Scripted Connection]]로도 들어올 수 있다.||
+
+[[비트매니아 IIDX]] 12 HAPPY SKY에 수록된 악곡.
+{{{#!html
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/Jre6Bbn1lqk&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Jre6Bbn1lqk&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+}}}
+(N mix, H mix, A mix를 하나로 연결한 영상)
+
+== 난이도, 노트 수 일람 ==
+※ 동일 노트 수의 굵은글씨는 동일채보
+
+|| 장르명 |||||| TECHNO[[BR]]테크노 || [[BPM]] |||| 151 ||
+|||||||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|||||||||||||||||||| 분화 이전 (12 HS ~ 13 DD) ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 SCRIPTED CONNECTION->}}}''' ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#800000 흑 어나더}}} ||
+|| 싱글 플레이 || {{{#blue '''6'''}}} || {{{#blue '''674'''}}} || {{{#orange '''10'''}}} || {{{#orange '''1059'''}}} || {{{#red '''12'''}}} || {{{#red '''1575'''}}} || {{{#800000 -}}} || {{{#800000 -}}} ||
+|| [[더블 플레이]] || {{{#blue '''6'''}}} || {{{#blue '''661'''}}} || {{{#orange '''11'''}}} || {{{#orange '''1005'''}}} || {{{#red '''11'''}}} || {{{#red '''1382'''}}} || {{{#800000 -}}} || {{{#800000 -}}} ||
+|||||||||||||||||||| N mix ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 SCRIPTED CONNECTION-> N MIX}}}''' ||
+|| 싱글 플레이 || {{{#blue '''6'''}}} || {{{#blue '''674'''}}} || {{{#orange 8}}} || {{{#orange 858}}} || {{{#red 10}}} || {{{#red 1073}}} || {{{#800000 11}}} || {{{#800000 1247}}} ||
+|| [[더블 플레이]] || {{{#blue '''6'''}}} || {{{#blue '''661'''}}} || {{{#orange 9}}} || {{{#orange 909}}} || {{{#red 10}}} || {{{#red 1179}}} || {{{#800000 -}}} || {{{#800000 -}}} ||
+|||||||||||||||||||| H mix ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 SCRIPTED CONNECTION-> H MIX}}}''' ||
+|| 싱글 플레이 || {{{#blue 7}}} || {{{#blue 875}}} || {{{#orange '''10'''}}} || {{{#orange '''1059'''}}} || {{{#red 11}}} || {{{#red 1275}}} || {{{#800000 11}}} || {{{#800000 1466}}} ||
+|| [[더블 플레이]] || {{{#blue 8}}} || {{{#blue 879}}} || {{{#orange '''10'''}}} || {{{#orange '''1005'''}}} || {{{#red 11}}} || {{{#red 1366}}} || {{{#800000 -}}} || {{{#800000 -}}} ||
+|||||||||||||||||||| A mix ||
+|| 전광판 표기 ||||||||||||||||<#454545> '''{{{#FF5A00 SCRIPTED CONNECTION-> A MIX}}}''' ||
+|| 싱글 플레이 || {{{#blue 7}}} || {{{#blue 865}}} || {{{#orange 10}}} || {{{#orange 1155}}} || {{{#red '''12'''}}} || {{{#red '''1575'''}}} || {{{#800000 12}}} || {{{#800000 1749}}} ||
+|| [[더블 플레이]] || {{{#blue 8}}} || {{{#blue 1079}}} || {{{#orange 10}}} || {{{#orange 1269}}} || {{{#red '''11'''}}} || {{{#red '''1382'''}}} || {{{#800000 -}}} || {{{#800000 -}}} ||
+|||||||||||||||||||| Long mix ||
+|| 싱글 플레이 || - || - || {{{#orange 12}}} || {{{#orange 4459}}} || - || - || - || - ||
+
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 (분화이전) : 12 HAPPY SKY ~ 13 DistorteD
+ * [[아케이드]] 수록 (분화이후) : 14 GOLD ~
+ * 가정용판 수록 (모두 분화이후): 12 HAPPY SKY, 16 EMPRESS + PREMIUM BEST (PREMIUM BEST SIDE)
+ * [[단위인정]] 수록
+  * A mix SPA : '''10단''' (13 DistorteD, 15 DJ TROOPERS ~ 17 SIRIUS)
+
+== 소개 ==
+작곡은 DJ MURASAME. IIDX 베스트 앨범인 beatmania IIDX -SUPER BEST BOX- 에 특전수록되는 엔딩곡 정보를 통해 [[Tatsh]]로 밝혀졌다. 장르는 테크노이고, 모니터 아래의 전광판에는 제목의 ⇒가 ->으로 나온다.
+
+이 곡은 특이한 형태를 보이고 있는데, 바로 노멀,하이퍼,어나더의 악곡이 모두 다르다. 원래 Scripted Connection⇒이란 원곡을 약 2분씩으로 나누어서 초반부를 노멀, 중반부를 하이퍼, 그리고 종반부를 어나더에 배정한 파격적인 구성의 악곡. 그래서 각 난이도의 악곡은 모두 다르지만, 노멀-하이퍼-어나더 순으로 플레이하면 하나의 완성된 악곡으로 들린다. 그리고 이러한 구성은 한참후 Tatsh가 복귀한 IIDX Resort Anthem의 [[ANTHEM LANDING]](DJ ムラサメ명의), Lincle의 [[SHADE]], tricoro의 [[仮想空間の旅人たち]][* 이 쪽은 SP와 DP를 합치면 하나의 완성된 악곡으로 들리는 케이스.]에서 다시 등장하였다.
+
+처음에는 게임상에 Scripted Connection⇒으로만 수록이 되어 있었으나, 가정용 IIDX 12 Happy Sky에서 초반부,중반부,종반부가 각각 N mix, H mix, A mix로 독립하였다. (분화되기 이전의 채보는, 노멀 채보는 N mix의 노멀로, 하이퍼 채보는 H mix의 하이퍼로, 어나더 채보는 A mix의 어나더로 이동) 후에 아케이드에서도 IIDX GOLD부터 위처럼 독립하였다.
+
+특히 A mix의 어나더는 [wiki:"The Dirty of Loudness" 쾅쾅쾅]이나 [[GENOCIDE]]처럼 치기 거슬리는 배치도 적은 편이고, 종합적인 실력을 필요로 하는 보면이라 10단에 자주 실렸다(13 DD와 15 DJT~17 Sirius). 주로 첫번째 스테이지에 배정되어 있는 경우가 많다. 물론 10단에 속해있는 만큼 후반 5연타 구간은 랭커들도 판정이 와르르 무너지는 대참사가 나올만큼 쉽지 않다. 중반의 고속 좌우대칭 채보도 특징.
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="http://www.youtube.com/v/d_oj4qrT82Y&hl=ko_KR&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/d_oj4qrT82Y&hl=ko_KR&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></embed></object>
+}}}
+[[DOLCE.]] 플레이 영상. '''MAX-29'''에 올 그레이트 클리어.
+
+[[BGA]]는 [[rainbow rainbow]], [[Distress]], [[天空脳番長危機十六連打]] 등이 사용한 [[범용 BGA]]이고, [[GOLI]]가 그린 레이어 몇장이 추가되어 있다. 미스레이어(BAD나 POOR를 냈을 때 나오는 레이어)로는 가운데에 '斬(벨 참)'자가 씌여 있다.
+
+== Long mix ==
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/aCEL__H9678?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aCEL__H9678?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[nicovideo(sm8335502)]]
+Long Mix를 직접 플레이하여 클리어 하는 영상 ~~뒤에 [冥] 어나더 [폭사]는 무시하자~~
+
+별도로 가정용 Happy Sky에서는 long mix라 하여 아예 N mix,H mix,A mix의 악곡을 모두 이어서 게임화한 버젼이 있다. 이는 [[비트매니아 IIDX]]에서 단 둘뿐인 사례(또 하나는 2nd Style 수록곡인 Junglist King)로, 이 롱버전은 일반적인 플레이 방법(스탠다드 모드, 프리 모드)으로는 플레이 할 수 없고, [[단위인정]]에서 7급에 커서를 놓고 스크래치를 아래쪽으로 계속 돌리다 보면 'Connection'이란 음성이 나온다. 음성이 나왔을 때 7급을 선택하면 첫 곡으로 long mix가 나온다. long mix는 싱글 하이퍼로만 나오는 단일 채보이며, 약 6분의 길이와 4459개라는 [[막장]]스런 노트수를 자랑한다(…). 그리고 난이도도 정말 어렵다. 곡의 구성은, H Mix의 후살로 게이지를 신나게 깎은 뒤 A Mix 중반발광으로 게이지를 없애버리며, 넘어간 유저들은 A Mix [후살]로 확인사살시키는 구성. 비공식 난이도 기준으로는 7기 입문급 정도로 추측된다. N Mix 부분은 11 최상급, H Mix[* 여담으로 H Mix 부분이 CS 16 EMPRESS에 수록되었을 때 난이도가 '''11'''(...)이라는 말도 안되는 난이도로 책정되어 큰 논란이 되었다. 저게 만약 11로 그대로 나오면 [V2(BEMANI 시리즈)|V2], [SABER WING], [four pieces of heaven], [Critical Crystal] '''따위'''는 그냥 10렙 줘도 할 말이 없을 수준(...) 후살이 11 노멀게 최강인 [perditus†paradisus] 하이퍼 이상으로 어렵다.]는 노멀게 12 3~4기, 하드게 12 2기, A Mix는 비공식 난이도 기준 5~6기 정도의 난이도. 여담으로, 이 long mix를 클리어 하면 다음 곡은 '''[[冥]] 어나더'''이다(……). 그래서 플레이어들에게는 '사실상 개전'으로 인식되는 경향이 있기도 하다. 이 채보는 16 EMPRESS+PREMIUM DISC 이식판에서 세 곡의 흑 어나더로 분화되어 등장했다.
+
+HAPPY SKY의 [[OST]]에는 1cd의 마지막 트랙으로 original extended 버젼이 수록되었는데, 게임판의 long mix보다 더 길다. (6분 47초)
+
+== 아티스트 코멘트 ==
+||DJ MURASAME / Sound
+
+과거는 현재로, 현재는 미래로 이어져있다.
+시간의 흐름 속에서 당신은 무엇을 느껴줄 것인가...?
+
+모든 진실은 미리 정해져있다.
+모든 진실은 connect 되어있는 것처럼 나도 또한 당신과 connect 되어있다
+
+부디 IIDX가 2대 이상 놓여져 있는 게임센터에선 1대로는 Normal 보면을 선택해 곡을 플레이하고 곡이 끝날 듯한 때에 다른 한 대의 기체로 Hyper 보면을 선택해 그 후에 Another 보면을 플레이 해주세요.
+그러면 5분 30초의 테크노 트랙을 즐길 수 있습니다.
+그야말로 DJ 시뮬레이션 게임, 여기에 있다!!
+
+
+[[GOLI]] / Anime
+
+⇒⇒⇒
+
+설마 레벨에 맞춰서 변할줄은...
+좀 하는데.
+빡빡한 양질의 소리. 그림도 맞춰서 빡빡한 느낌의 흑갈색 터치로.
+곡에 올라타면 이미지하는게 빠릅니다.
+
+이번에는 JPOP계가 많은 인상이 붙어있지만, 잊어선 안 될 이 곡도.
+서서히 대음량으로 다크하게 부딪혀라.
+
+⇒⇒⇒||

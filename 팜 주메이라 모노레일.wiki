@@ -1,0 +1,48 @@
+ * [[모노레일]], [[경전철]]
+
+[[목차]]
+
+Palm Jumeira Monorail
+
+http://dubaimetro.eu/wp-content/uploads/2010/06/5.jpg
+
+|||| 팜 주메이라 모노레일 ||
+||운영기관 ||Serco Group plc ||
+||영업거리 ||5.45㎞ ||
+||궤간 ||모노레일 ||
+||역수 ||4 ||
+||전기 ||직류 1,500V ||
+||신호 ||[[ATP]]/[[ATO]] ||
+||표정속도 ||35㎞/h ||
+||지상구간 ||전구간 [[지상]]||
+||개통연혁 ||[[2009년]] [[4월 30일]] ||
+
+== 개요 ==
+[[아랍에미리트]] [[두바이]]의 팜 주메이라 섬의 남북을 관통하는 [[모노레일]] 노선. 2009년 개통하였다.
+
+차량은 [[히타치]]가 제작하였으며, 기관사 없이 자동으로 운행하고 있다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/B2RWU2K843w" frameborder="0" allowfullscreen></iframe>}}}
+
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/RMtSre1wcLI" frameborder="0" allowfullscreen></iframe>}}}
+
+
+▲ 전 구간 주행 영상 --[wiki:"대구도시철도공사 3000호대 전동차"잠깐, 이거 어디서 많이 본 열차인데?]--[* 대구도시철도 공사 3000호대 전동차와 팜 주메이라에서 운행중인 전동차는 동일한 모델이다.]
+
+현재 두바이의 다른 도시철도 노선과 연결되어 있지 않고 있음에도 일평균 4만 명의 승객이 이용하고 있다. 이용객의 대다수는 관광객인 듯하다. 추후 레드 라인과 연결되어 환승이 이뤄질 예정이다.
+
+== 역 목록 ==
+http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Palm_Monorail_Map4copy.png/751px-Palm_Monorail_Map4copy.png
+
+전 구간이 지상이며, 중간의 역 두 곳은 영업하지 않고 있다. --[wiki:"설렁탕을 사왔는데 왜 먹지를 못하니"역을 지었는데 왜 영업을 못하니]--
+
+||<|2> 역번호||<|2> ㎞ ||<|2> 역명 |||| 승강장 ||<|2> 환승노선 ||
+|| 형태 || 횡단 ||
+|| || 0 || Atlantis Aquaventure || │■│ || ? || ||
+|| ||  || --Palm Mall-- || │■│ || ? || ||
+|| ||  || --Trump Tower-- || │■│ || ? || ||
+|| || 5.45 || Gateway || ■││■ || ? || ||
+|| || || --Dubai Internet City-- || ? || ○ ||--{{{#red ●}}} 두바이 메트로 레드 라인-- ||

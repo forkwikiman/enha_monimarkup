@@ -1,0 +1,65 @@
+[[목차]]
+|| 장르 |||||||| Funky Hiphop ||
+|| 곡명 |||||||| Funky 5 ||
+|| 작곡 |||||||| 김승현 ||
+|| 랩 |||||||| [[Mario Bolden]], Terrence ||
+|| 배경 |||||||| [[3rdBASS]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 2nd]] ||
+|| BPM |||||||| 114 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 2}}} || {{{#red 4}}} || {{{#purple 7}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 4}}} || {{{#red 9}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 4}}} || {{{#red 7}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='Misg_-AQjJs$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=Misg_-AQjJs$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=Misg_-AQjJs$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]] '''BGA'''
+
+== 개요 ==
+2nd부터 등장한 곡. 작곡자가 비슷해서 그런지 [[Exist]]와 노래 느낌이 굉장히 비슷하다.
+
+이 곡은 의외로 인지도가 높은데 그 이유는 오랫 동안 루비믹스에서 가장 목록의 앞에 있었기 때문이다. 표기 난이도가 제일 낮아서. 물론'''인지도'''가 높은것이지 '''인기'''가 높은게 절대 아니다. 또한 2nd에서도 스트리트 믹스 1스테이지 첫곡이기도 했다.
+
+노래 자체는 좋다. BGA도 예쁘고. 다만 너무나도 저난이도인게 문제. 결국 7th CV에선 삭제되었고 BERA에서 부활했다.
+
+== 패턴 ==
+곡 패턴 자체도 너무 쉬워서 따로 얘기할 만한건 없다. 다만 노래가 다 끝난 뒤에 노트가 하나 나오는데 노래가 끝난줄 알고 안치게 되는 경우가 있어서 조심해야 한다.
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+객관적으로 봤을 때는 노말이 4, 하드가 6으로 쉬워 보이지만 실은 하드가 스크곡이라서 쉬운 것과는 별개로 올콤은 꽤 힘들다.
+
+BE rev A에서 돌아왔을 때, 하드믹스가 추가되었다. 난이도는 '''6'''. 하드믹스에서는 스크래치가 상당히 많아졌는데, '''시작부터''' 상당한 스크폭타가 등장하고 도중에 나오는 가사 'I'm right here'[* 다른 가사도 있다. 이는 [[추가바람]]] 이 후반부에서 스크래치로 바뀌었다.
+
+EV에서 SHD가 추가되었다. 난이도는 7.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== 가사 ==
+||How may MCs can pull like this?
+Take the track and dub we give
+Make it heated, make it hot in Korea. All we pay, now do.
+We just can't lose.
+Wrong cast, walk along ours to mask.
+Internationally my tragedy can't be mass for a model.
+If you care that we stop. Roll with that if it track and lock.
+Then another crew did it.
+As you don't stop
+Make your doby rock.
+As you don't stop
+Till your body rock.||

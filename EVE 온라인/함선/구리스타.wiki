@@ -1,0 +1,49 @@
+[[include(틀:EVE 온라인/함선)]]
+ * 상위 항목 : [[EVE 온라인/함선]]
+
+[[목차]]
+
+attachment:"EVE 온라인/함선/guristas2.png"
+구리스타 (Guristas)
+칼다리 해군 출신 두명이 결성한 해적단으로 사용가능한 드론 갯수가 적고, 드론 데미지와 체력이 엄청나게 쎈 컨셉을 가지고 있다. 
+정리하면 히어로 드론 함선.
+
+== 프리깃 (Frigate) ==
+=== 웜 (Worm) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Worm'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Worm1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_small.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_missiles.png" attachment:"EVE 온라인/함선/isis_shields.png" attachment:"EVE 온라인/함선/isis_drones.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''3 High''' ||<width=25%><:> '''4 Medium''' ||<width=25%><:>'''3 Low'''||<width=25%><:> '''3 Launcher''' ||
+||<-4><:> '''10 드론 밴드위스 / 25 드론베이 / 320 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Caldari Frigate III, Gallente Frigate III ||
+||<-4>'''롤 보너스''' 
+　스몰 드론 데미지, 체력 300% 증가[[br]]'''Caldari Frigate 레벨당'''[[br]]　실드 저항 4% 증가[[br]]'''Gallente Frigate 레벨당'''[[br]]　키네틱, 써멀 미사일 데미지 10% 증가||
+라이트 드론 두대만 사용 가능하지만 300% 보너스가 붙어있어 거의 분신 수준의 강력한 드론을 사용한다. 
+
+== 크루저 (Cruiser) ==
+=== 길라 (Gila) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Gila'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Gila1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_medium.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_missiles.png" attachment:"EVE 온라인/함선/isis_shields.png" attachment:"EVE 온라인/함선/isis_drones.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''5 High''' ||<width=25%><:> '''6 Medium''' ||<width=25%><:>'''4 Low'''||<width=25%><:> '''4 Launcher''' ||
+||<-4><:> '''20 드론 밴드위스 / 100 드론베이 / 195 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Caldari Cruiser II, Gallente Cruiser II ||
+||<-4>'''롤 보너스''' 
+　미디엄 드론 데미지, 체력 500% 증가[[br]]'''Caldari Cruiser 레벨당'''[[br]]　실드 저항 4% 증가[[br]]'''Gallente Cruiser 레벨당'''[[br]]　키네틱, 써멀 미사일 데미지 10% 증가||
+마찬가지로 미디엄 드론 두대만 사용 가능하지만 무려 500% 보너스가 붙어있다(...) 길라랑 싸우게 된다면 드론을 조심하자
+원래 이름의 어원상 발음은 '''힐라'''가 맞지만 한국인이고 외국인이고 아무도 그렇게 안부른다(...)
+
+== 배틀쉽 (Battleship) ==
+=== 래틀스네이크 (Rattlesnake) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Rattlesnake'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Rattlesnake1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_large.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_missiles.png" attachment:"EVE 온라인/함선/isis_shields.png" attachment:"EVE 온라인/함선/isis_drones.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''6 High''' ||<width=25%><:> '''7 Medium''' ||<width=25%><:>'''6 Low'''||<width=25%><:> '''5 Launcher''' ||
+||<-4><:> '''50 드론 밴드위스 / 175 드론베이 / 94 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Caldari Battleship I, Gallente Battleship I ||
+||<-4>'''롤 보너스''' 
+　헤비 드론 데미지, 체력 275% 증가[[br]]　센트리 드론 데미지, 체력 275% 증가[[br]]'''Caldari Battleship 레벨당'''[[br]]　실드 저항 4% 증가[[br]]'''Gallente Battleship 레벨당'''[[br]]　키네틱, 써멀 미사일 데미지 10% 증가||
+
+마찬가지로 헤비,센트리드론을 두대만 사용 가능하지만 보너스로 인해 5.5대 분의 효율을 낸다. 또한 실드 저항이 붙어 있기 때문에 EHP를 뻥튀기 가능하여 ALL 80% 이상의 저항도 충분히 맞출수 있다.
+2009년 이전에는 쓸만한 미사일 배였다가 갑자기 드론 함선으로 변경되어 큰 충격을 가져왔었다. 도미닉스보다 더 단단한 라면 함선 취급을 받았으나, 라면 트리 자체가 멸종하였다. 
+

@@ -1,0 +1,63 @@
+ * 상위 항목: [호위항공모함]
+ * [군함/배수량별 목록]
+
+[[목차]]
+
+== 개요 ==
+이 항목은 호위항공모함을 배수량별, 길이별로 기입하고 시기순으로 나열하는 문서이다.
+
+== 배수량별 목록: 제1차세계대전(1914년) ~ 1949년 ==
+=== 10,000톤 미만 ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/HMS_Avenger_2_edit.jpg/511px-HMS_Avenger_2_edit.jpg
+{{| [1942년], HMS Avenger (D14) (ex-mercantile Rio Hudson)/[어벤져급 호위항공모함] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [영국] || [어벤져급 호위항공모함][* http://en.wikipedia.org/wiki/Avenger_class_escort_carrier] || 9,100톤 || 8,300톤 ||[1942년] [3월 2일] ||
+
+=== 10,000톤 이상 ~ 15,000톤 미만 ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HMS_Puncher.jpg/628px-HMS_Puncher.jpg
+{{| [1945년] [4월], HMS Puncher([룰러급 호위항공모함]) |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [영국] || [어택커급 호위항공모함][* http://en.wikipedia.org/wiki/Attacker_class_escort_carrier] || 11,600톤 || ||[1942년] [10월 10일] ||
+|| [영국] || [오데시티급 호위항공모함][* [http://en.wikipedia.org/wiki/HMS_Audacity_(D10) 오데시티급 호위항공모함]][* [독일]의 Hannover 무역선을 나포하여 호위항공모함으로 개조함.] |||| 12,000톤 ||[1941년] [6월 20일] ||
+|| [영국] || [룰러급 호위항공모함][* http://en.wikipedia.org/wiki/Ruler_class_escort_carrier] |||| 7,800톤 ~ 14,400톤 ||[1942년] [7월 20일] ||
+
+=== 15,000톤 이상 ~ 20,000톤 미만 ===
+http://upload.wikimedia.org/wikipedia/commons/c/ca/Cve1a.jpg
+{{| [1944년] [6월 10일], [미국]의 USS Long Island (CVE-1)/[롱아일랜드급 호위항공모함] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [미국]/[영국] || [롱아일랜드급 호위항공모함][* [http://en.wikipedia.org/wiki/HMS_Archer_(D78) 롱아일랜드급 호위항공모함]] || 15,700톤 || 기준 9,000톤 ||[1941년] [11월 17일] ||
+
+
+=== 20,000톤 이상 ~ 25,000톤 미만 ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/USS_Palau_CVE-122_1950.jpg/640px-USS_Palau_CVE-122_1950.jpg
+{{| [1950년] [5월 10일], USS Palau CVE-122/[커먼스먼트 베이급 호위항공모함] |}}
+|| 제조 국가/운용국 || 이름/급 || 만재 배수량 || 기준/경하 배수량 || 취역 시작 ||
+|| [미국] || [커먼스먼트 베이급 호위항공모함][* http://en.wikipedia.org/wiki/Commencement_Bay_class_escort_carrier] || 24,500톤 || 기준 11,100톤 ||[1944년] [11월 27일] ||
+|| [미국] || [상가먼급 호위항공모함][* http://en.wikipedia.org/wiki/Sangamon_class_escort_carrier] || 24,665톤 || 기준 11,583톤 ||[1940년] ||
+
+== 길이별 목록: 제1차세계대전(1914년) ~ 1949년 ==
+=== 150m 미만 ===
+|| 제조 국가/운용국 || 이름/급 || 길이 || 취역 시작 ||
+|| [독일]/[영국] || [오데시티급 호위항공모함] ||142.42 m ||[1941년] [6월 20일] ||
+|| [영국] || [롱아일랜드급 호위항공모함] ||140.54 m ~ 142.75 m ||[1941년] [11월 17일] ||
+
+=== 150m 이상 ~ 200m 미만 ===
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/USS_Santee_%28CVE-29%29_at_anchor_1942.jpg/640px-USS_Santee_%28CVE-29%29_at_anchor_1942.jpg
+{{| [1942년] [10월 16일], USS Santee (CVE-29)/[상가먼급 호위항공모함] |}}
+|| 제조 국가/운용국 || 이름/급 || 길이 || 취역 시작 ||
+|| [영국] || [어택커급 호위항공모함] ||150 m ||[1942년] [10월 10일]  ||
+|| [영국] || [어벤져급 호위항공모함] ||150.04 m ||[1942년] [3월 2일] ||
+|| [영국]/[미국]/[그리스]/[중화민국] || [룰러급 호위항공모함] ||149.81 m ~ 151 m ||[1942년] [7월 20일] ||
+|| [미국] || [상가먼급 호위항공모함] ||169m ||[1940년] ||
+|| [미국] || [커먼스먼트 베이급 호위항공모함] ||170m ||[1944년] [11월 27일] ||
+
+=== 200m 이상 ~ 250m 미만 ===
+
+== 관련 문서 ==
+[http://en.wikipedia.org/wiki/Escort_carrier (영어 위키백과)Escort carrier]
+[http://en.wikipedia.org/wiki/List_of_escort_carriers_by_country (영어 위키백과)List of escort carriers by country]
+
+== 관련 항목 ==
+ * [헬기항모]
+ * [해상 병기/세계대전]
+ * [해상 병기/현대전]

@@ -1,0 +1,55 @@
+|| 장르 |||||||| [[트랜스(음악)#s-2.4|Uplifting Trance]] ||
+|| 곡명 |||||||| Energy Flower ||
+|| 작곡 |||||||| [[r300k]] ||
+|| 배경 |||||||| [[RYUminus]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 7th 1.0]] ||
+|| BPM |||||||| 133 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2DJ BERA]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 8}}}[* 5스트릿 이지와 동일] || {{{#red 11}}}[* 5스트릿 노멀과 동일] || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue 5}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#0000ff> Club Mix || {{{#blue -}}} || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 8}}} || {{{#red -}}} || {{{#purple -}}} ||
+ * 라디오믹스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2DJ/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='gPUswDLRj2M$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=gPUswDLRj2M$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=gPUswDLRj2M$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+--이게 그 유명한 야한 BGA--
+[[EZ2DJ 7thTRAX ~Resistance~]] '''[[BGA]]'''
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='AxTM1Aw8Dvw$' width='600px' height='450px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=AxTM1Aw8Dvw$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='opaque' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=AxTM1Aw8Dvw$' width='600px' height='450px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+([[EZ2ON]]에선 Energy Flower 3007로 리메이크 돼서 똑같은 곡은 아님)
+[[EZ2ON]] '''[[BGA]]'''
+
+[[목차]]
+== 개요 ==
+EZ2DJ 7th의 수록곡으로 [[r300k]]가 작곡했다. 별명은 '정력꽃'(...).[* 참고로 [[정력꽃]]이라고 검색하면 이 항목으로 리다이렉트된다(...).]
+
+노래가 중간에 한번 끝나는듯 하다가 안 끝난다. 처음 하는 사람들은 방심했다가 폭사당하는 경우도.
+
+[[EZ2DJ AE]]에서는 다른 7th 1.0 출신 곡들과 함께 판권 문제로 삭제되었다.
+
+== BGA ==
+후반부에 갑자기 수영복 차림의 춤추는 소녀가 나온다. 본래 [[EZ2Dancer]]에 수록된 [[핑클]]의 '내 남자친구에게'라는 곡의 BGA에 나오는 소녀인데, 물론 이지투댄서가 가동되던 당시에도 너무 야하다고 말이 많았다. 춤추는 동작이 18 프레임으로 구성되어 있기 때문에 '18 프레임 소녀'라고도 불리는 이 소녀를 대체 왜 이 곡의 BGA에 넣었는지는 그 누구도 모른다. RYUminus의 말에 따르면 r300k가 좋아해서 넣었다고 한다.
+
+뒤에서 구경하는 사람들을 신경 쓰는 유저들은 BGA를 끌 수 밖에 없다. [http://www.youtube.com/watch?v=2-i8cVyEXb0 반면 보기 위해 플레이하는 용자도 존재.] BGA On/Off 기능은 이 곡 때문에 생겼다는 얘기도 있다. 물론 실제 BGA On/Off 기능이 생겨난 이유는 Ez2DJ 사양이 받쳐주지 못해서 생겨난 것이긴 하지만.
+
+2013년에 나온 후속작 [[EZ2AC : ENDLESS CIRCULATION]]의 신곡 [[WHEEL OF FIRE]]에서 문제의 18프레임 댄스가 패러디되었다.[* 이것을 따라한 bga의 주인공은 '''남캐'''다(...)]
+
+== 이지투온 ==
+[[EZ2ON]]에서 Energy Flower 3007 이라는 이름으로 리메이크 되었다. 중반 브레이크 다운 이후의 연타패턴이 인상적. 그리고, 이쪽은 진짜로 '''노래가 중간에 한번 끝나는듯 하다가 안끝난다.''' [* 사실 최초 공개된 베타테스트 시절엔 [http://www.youtube.com/watch?v=Jf-LeDYDHs4 끝나는 듯 하는 부분에서 정말로 끝이 났다](!).]
+
+BGA에 수영복 소녀가 삭제된 이유가 심의때문에 삭제됐다는 이야기가 돌아다니고 있지만,[* 만일 심의 때문에 삭제가 되었다면 "White Rose"나 "Fallen Angel"등의 BGA도 걸릴 게 뻔할지도 모른다] 사실 BGA 제작자인 [[RyuMINUS]]에 의하면 Energy Flower라는 제목이 수영복 소녀와 연관되어 "정력꽃"이라는 오해 때문에, Energy Flower 3007의 설정은 3007년에 상용화될 에너지 꽃이라 하여 제목을 그렇게 바꾸었다고 한다.
+
+== 제작자 코멘트 ==
+||음... 그냥 무난한 3D 에 나코오빠님의 춤추는 여자애 애니메이션.
+참고로 이 곡 작곡하신 분이 춤추는 여자애를 좋아함.
+절대 제가 좋아서 넣은것 아님.
+그렇다고 안좋다는것은 또 아님.||

@@ -1,0 +1,543 @@
+ * 상위 항목 : [[배틀필드 4]]
+
+[[목차]]
+
+= 개요 =
+전작과는 다르게 위장은 물론 총기와 장비의 도색도 가능하게 되어서 자신의 취향대로 꾸밀수 있게 되었다. 하지만 본격적으로 하드코어 모드를 하게되면 자기 취향대로 꾸미는건 노멀모드 에서나 가능하다는걸 알수 있게될것이다. 노멀모드에서는 암만 잘입어도 스팟찍히면 그냥 끝인데 비해, 하드모드 에선 위장복만 잘 입으면 말그대로 상대방한테 보이지도 않는다. 게임끝날때까지 0데스 달성할수 있다. --사실 이 말은 좀 과장이다.-- 다만 --시력안좋은 유저에 한해서-- 안보이는건 사실이다(...)
+
+따로 획득방법이 설명 안된 위장/도색은 배틀팩으로 얻을 수 있는 것이다.
+
+10월 20일에 프리미엄유저를 대상으로 낙하산커스텀마이징이추가되었고 색상은 총기도색과동일하다
+= 위장 =
+전작과 달리 국가별로 별도의 전용 위장들이 생겼다. 따라서 배틀팩으로 위장을 얻었는데 찾을수없다면 버그가 아니고 다른진영의 위장인것이다.
+'''하지만 베테랑 유저에게 지급되는 스플린터 위장은 전 진영에 있다. 단 무늬만 같고 색은 다 다르다.'''
+대체로 미군같은 경우에는 모든 전장을 어올리는 위장들이 하나씩 있고 러시아 같은경우에는 수상한 지역이나 구우린 봉우리 같이 나무가 많은지역에 유리한 위장들이 많고 중국군은 상하이봉쇄맵 같이 도시지역에 어올리는 위장들이 대체로 많은편이다
+== 미국 ==
+=== 기본 === 
+http://img1.wikia.nocookie.net/__cb20140113212605/battlefield/images/4/41/BF4_US_Default_Camo.png
+ * 미국 국방성(DOD)이 아프가니스탄에서 활동하는 미 해병대와 다른 국제안보지원군을 위해 생산한 표준 위장입니다.
+
+실제 모델은 그 유명한 [멀티캠].
+=== MARPAT 데저트 ===
+http://img3.wikia.nocookie.net/__cb20140113212641/battlefield/images/5/5e/BF4_MARPAT_Desert_Camo.png
+ * 유기적 디자인으로 더 효과적인 혼합을 위해 컴퓨터가 설계한 해병대 패턴 디지털 위장입니다. 이것은 사막 버전입니다.
+=== 초콜릿 칩 ===
+http://img1.wikia.nocookie.net/__cb20140113212706/battlefield/images/3/3a/BF4_Chocolate_Chip_Camo.png
+ * 미국의 인기 쿠키에서 별명을 딴 이 위장은 페르시아 만에서 대활약했습니다.
+=== UCP ===
+http://img4.wikia.nocookie.net/__cb20140113212726/battlefield/images/d/d3/BF4_UCP_Camo.png
+ * 미 해병대가 먼저 사용한 후 미 육군이 채택한 디지털 위장입니다. 본질적으로는 모든 환경에서 활약하는 다양한 색상의 MARPAT입니다.
+
+실제 모델은 미 육군에서 사용하는 [wiki:"ACU" UCP]이다.
+=== ERDL ===
+http://img2.wikia.nocookie.net/__cb20140113212752/battlefield/images/9/92/BF4_ERDL_Camo.png
+
+ * 미 육군 공병연구 개발실험실이 명명한 이 삼림 위장은 세계에서 가장 널리 사용되는 패턴일 것입니다.
+   프리미엄 배틀팩에서 획득 가능.
+=== 스플린터 ===
+http://img1.wikia.nocookie.net/__cb20140113212817/battlefield/images/a/a1/BF4_US_Splinter_Camo.png
+
+ * 정예 대원을 위한 다시 채색된 현대적인 스웨덴식 스플린터 위장 패턴입니다.
+   베테랑 배틀팩에서 획득 가능.
+=== DICE ===
+http://img1.wikia.nocookie.net/__cb20140113211528/battlefield/images/d/db/BF4_DICE_Camo.png
+
+ * 배틀필드 4 개발자 전용.
+
+말 그대로 개발자 전용이며 보통 유저들이 설치한 게임 파일엔 들어있지도 않다. 모든 아이템을 푸는 핵을 쓰는 유저가 이 위장을 낄 경우 투명인간으로 보인다.
+=== 파이어 스타터 ===
+http://img3.wikia.nocookie.net/__cb20140202000352/battlefield/images/1/12/BF4_US_Fire_Starter_Camo.png
+
+ * 내면의 방화광 기질을 표출하십시오.
+   세컨드 어썰트 DLC의 파이어 스타터 도전 과제를 달성하면 얻을 수 있다.
+
+=== 바인 리프 ===
+http://img4.wikia.nocookie.net/__cb20140202072554/battlefield/images/9/97/BF4_Vine_Leaf_Camo.png
+
+=== 트리컬러 데저트 ===
+http://img2.wikia.nocookie.net/__cb20140113212934/battlefield/images/5/57/BF4_Tricolor_Desert_Camo.png
+
+=== MARPAT 우드랜드 ===
+http://img2.wikia.nocookie.net/__cb20140328222527/battlefield/images/d/d7/BF4_MARPAT_Camo.png
+
+=== 타이거 스트라이프 ===
+http://img1.wikia.nocookie.net/__cb20140328222522/battlefield/images/b/bb/BF4_Tiger_Stripe_Camo.png
+=== 팬텀 ===
+http://vignette3.wikia.nocookie.net/battlefield/images/9/95/Phantom_US.png/revision/latest?cb=20141211123753
+== 러시아 ==
+=== 기본 ===
+ * 러시아의 환경과 전투준비에 적합한 색상으로 출력된 유명한 ERDL 패턴이 적용되었습니다.
+ 기본 위장, 실제 모델은 현용 러시아군 위장무늬인 디지털 플로라 패턴 이전에 채용했던 플로라 패턴.
+http://img3.wikia.nocookie.net/__cb20140113211116/battlefield/images/a/ab/BF4_RU_Default_Camo.png
+=== 이즐롬 ===
+http://img4.wikia.nocookie.net/__cb20140113211151/battlefield/images/0/06/BF4_Izlom_Camo.png
+ * 독일식 플렉탄 위장 패턴의 디지털 버전입니다. 이 단어는 러시아어로 균열 또는 굴절이라는 뜻입니다. [* 사실 이 위장패턴은 현용 러시아군 위장무늬인 디지털 플로라 패턴이다. 이즐롬 패턴은 다른 위장패턴으로 고증오류인 셈.]
+=== 베레즈카 ===
+http://img3.wikia.nocookie.net/__cb20140113211331/battlefield/images/d/da/BF4_Berezka_Camo.png
+ * 일부 MVD와 FSB 부대가 사용하는 전통적인 러시아식 KLMK 위장 패턴을 현대식으로 다시 채색화한 것입니다.
+
+=== VDV 플렉탄 ===
+http://img2.wikia.nocookie.net/__cb20140202072717/battlefield/images/f/f7/BF4_VDV_Flectarn_Camo.png
+=== 파르티잔 ===
+http://img1.wikia.nocookie.net/__cb20140113211356/battlefield/images/b/b1/BF4_Partizan_Camo.png
+ * 독일식 위장 패턴에 강하게 영향받은 또 다른 러시아식 디자인인, 이 떡갈나무 잎 버전은 알파 부대에서 인기가 높습니다.
+배틀팩에서 획득 가능
+=== 예거 ===
+http://img1.wikia.nocookie.net/__cb20140113211421/battlefield/images/1/16/BF4_Yeger_Camo.png
+
+ * 현대 핀란드식 위장 디자인인 "사냥꾼" 패턴에 영향을 받았고, 최근의 그루지아 전쟁에서 최초로 목격되었습니다.
+ 프리미엄 배틀팩에서 획득 가능.
+
+=== 스플린터 ===
+http://img3.wikia.nocookie.net/__cb20140113211502/battlefield/images/b/bb/BF4_RU_Splinter_Camo.png
+
+ * 정예 대원을 위해 다시 채색된 현대적인 스웨덴식 스플린터 위장 패턴입니다.
+ 베테랑 배틀팩에서 획득 가능.
+
+=== DICE ===
+http://img1.wikia.nocookie.net/__cb20140113211528/battlefield/images/d/db/BF4_DICE_Camo.png
+ 개발자 전용 위장.
+
+=== 파이어 스타터 ===
+http://img4.wikia.nocookie.net/__cb20140202000412/battlefield/images/a/a1/BF4_RU_Fire_Starter_Camo.png
+
+ * 내면의 방화광 기질을 표출하십시오.
+   세컨드 어썰트 DLC의 파이어 스타터 도전 과제를 달성하면 얻을 수 있다.
+
+=== 스페츠나츠 정글 ===
+http://img1.wikia.nocookie.net/__cb20140329071804/battlefield/images/e/ed/BF4_Spetsnaz_Jungle_Camo.png
+
+=== Rastr ===
+http://img4.wikia.nocookie.net/__cb20140329071807/battlefield/images/4/45/BF4_Rastr_Camo.png
+
+=== KLMK ===
+http://img1.wikia.nocookie.net/__cb20140329071814/battlefield/images/6/64/BF4_KLMK_Camo.png
+== 중국 ==
+=== 기본 ===
+ * 콘크리트와 철이 혼합된 곳에 적합한, 어두운 파랑과 회색으로 구성된 표준 지급 중국제 시가전 제복입니다.
+ 기본 위장.
+http://img1.wikia.nocookie.net/__cb20140113214014/battlefield/images/e/ec/BF4_CN_Default_Camo.png
+=== 어번 에어본 ===
+http://img2.wikia.nocookie.net/__cb20140113214059/battlefield/images/8/8c/BF4_Urban_Airborne_Camo.png
+ * 중국 공수부대가 사용하는 대형 패턴의 어번 ERDL 패턴 위장입니다.
+=== 오세아닉 그린 ===
+http://img1.wikia.nocookie.net/__cb20140113214137/battlefield/images/c/cd/BF4_Oceanic_Green_Camo.png
+ * 중국 해병대가 사용하는 밝은 바탕에 바다 녹색과 파란색이 혼합된 패턴입니다.
+=== PLA 데저트 ===
+http://img3.wikia.nocookie.net/__cb20140113214155/battlefield/images/e/ec/BF4_PLA_Desert_Camo.png
+ * 사막과 건조한 환경용으로 개발된 중국제 07식 디지털 픽셀 패턴입니다.
+=== 어번 타이거 ===
+http://img2.wikia.nocookie.net/__cb20140113214245/battlefield/images/3/31/BF4_Urban_Tiger_Camo.png
+ * 도시와 해상 환경용으로 중국식 현대화된 호랑이 줄무늬 위장 패턴입니다.
+ 프리미엄 배틀팩에서 획득 가능.
+
+=== 스플린터 ===
+http://img1.wikia.nocookie.net/__cb20140113214332/battlefield/images/0/01/BF4_CN_Splinter_Camo.png
+
+ * 정예 대원을 위해 다시 채색된 현대적인 스웨덴식 스플린터 위장 패턴입니다.
+ 베테랑 배틀팩에서 획득 가능.
+=== DICE ===
+http://img1.wikia.nocookie.net/__cb20140113211528/battlefield/images/d/db/BF4_DICE_Camo.png
+개발자 전용 위장.
+=== 덴스 어번 ===
+http://img1.wikia.nocookie.net/__cb20140113214223/battlefield/images/f/f8/BF4_Dense_Urban_Camo.png
+ * 도시 환경에서 사용되는 빽빽하게 혼합된 ERDL 패턴입니다. 이 패턴의 뚜렷한 흰색은 설원 지역에서도 유용합니다.
+=== 오세아닉 블루 ===
+http://img4.wikia.nocookie.net/__cb20140113214310/battlefield/images/4/46/BF4_Oceanic_Blue_Camo.png
+ * 바다 녹색과 파란색이 주를 이루는 이 ERDL 패턴은 바다 환경에 더 잘 어울립니다.
+ 프리미엄 배틀팩에서 획득 가능.
+
+=== 파이어 스타터 ===
+http://img2.wikia.nocookie.net/__cb20140202000258/battlefield/images/b/ba/BF4_CN_Fire_Starter_Camo.png
+
+ * 내면의 방화광 기질을 표출하십시오.
+   세컨드 어썰트 DLC의 파이어 스타터 도전 과제를 달성하면 얻을 수 있다.
+= 도색 =
+도색은 총기와 장비에 적용할 수 있으며 총기용 따로 장비용 따로 나뉜것이 아닌 공용으로 쓴다. 몇가지 카테고리로 나뉘어있으며 전장 적응형이라고 환경에따라 달리 적용되는 도색도 있다.
+
+== 기타 ==
+다른 카테고리에 들어가지 않는 독특한 패턴의 색들로 구성된 카테고리.
+=== 기본 ===
+http://img2.wikia.nocookie.net/__cb20140202115044/battlefield/images/7/7b/BF4_Default_Paint.png
+=== 크림슨 우드랜드 ===
+http://img2.wikia.nocookie.net/__cb20140202115205/battlefield/images/f/f2/BF4_Crimson_Woodland_Paint.png
+도전과제 '돌격병 베테랑' 달성시 획득 가능.
+=== 더 퀴드 ===
+http://img1.wikia.nocookie.net/__cb20140202115237/battlefield/images/0/0a/BF4_Duckweed_Paint.png
+도전과제 '정찰병 베테랑' 달성시 획득 가능.
+=== 그린 언더브러시 ===
+http://img2.wikia.nocookie.net/__cb20140202115300/battlefield/images/3/32/BF4_Green_Underbrush_Paint.png
+도전과제 '보급병 베테랑' 달성시 획득 가능.
+=== TTsKO 블루 ===
+http://img3.wikia.nocookie.net/__cb20140202115410/battlefield/images/c/c9/BF4_TTsKO_Blue_Paint.png
+도전과제 '공병 베테랑' 달성시 획득 가능.
+=== 블루 타이거 ===
+http://img2.wikia.nocookie.net/__cb20140202115430/battlefield/images/b/bd/BF4_Blue_Tiger_Paint.png
+도전과제 '샷건 베테랑' 달성시 획득 가능.
+=== 플랭커 ===
+http://img1.wikia.nocookie.net/__cb20140202115449/battlefield/images/5/57/BF4_Flanker_Paint.png
+도전과제 '공중 장비 베테랑' 달성시 획득 가능.
+=== 블루 스카이 ===
+http://img1.wikia.nocookie.net/__cb20140202115508/battlefield/images/b/b2/BF4_Blue_Sky_Paint.png
+도전과제 '해상 장비 베테랑' 달성시 획득 가능.
+=== 블랙 샤크 ===
+http://img3.wikia.nocookie.net/__cb20140202115529/battlefield/images/4/41/BF4_Black_Shark_Paint.png
+도전과제 '지상 장비 베테랑' 달성시 획득 가능.
+=== 리플 ===
+http://img1.wikia.nocookie.net/__cb20140202115559/battlefield/images/d/d3/BF4_Ripple_Paint.png
+도전과제 '카빈 베테랑' 달성시 획득 가능.
+=== 잉크 얼룩 ===
+http://img1.wikia.nocookie.net/__cb20140202115618/battlefield/images/6/6c/BF4_Ink_Blotch_Paint.png
+도전과제 'PDW 베테랑' 달성시 획득 가능.
+=== DICE ===
+http://img1.wikia.nocookie.net/__cb20140113211528/battlefield/images/d/db/BF4_DICE_Camo.png
+개발자 전용 도색.
+=== 베오 갬 ===
+http://img4.wikia.nocookie.net/__cb20140202115657/battlefield/images/f/f5/BF4_BEO_GAM_Paint.png
+프리미엄 배틀팩에서 획득 가능.
+=== 렐리시 ===
+http://img2.wikia.nocookie.net/__cb20140202115722/battlefield/images/1/1a/BF4_Relish_Paint.png
+프리미엄 배틀팩에서 획득 가능.
+=== KLMK ===
+http://img1.wikia.nocookie.net/__cb20140202115800/battlefield/images/3/38/BF4_KLMK_Paint.png
+프리미엄 배틀팩에서 획득 가능.
+=== 하복 ===
+http://img1.wikia.nocookie.net/__cb20140202120723/battlefield/images/c/c8/BF4_Havoc_Paint.png
+=== DPM6 ===
+http://img4.wikia.nocookie.net/__cb20140212225041/battlefield/images/8/8c/BF4_DPM6_Paint.png
+세컨드 어썰트 DLC의 에어 메일 도전 과제를 달성하면 얻을 수 있다.
+=== 팬텀  ===
+http://img1.wikia.nocookie.net/__cb20140311214520/battlefield/images/f/fe/BF4_Phantom_Paint.png
+
+배틀로그 순위표 왼쪽 밑에 있는 해골문양을 눌러서 epic dream worlds를 입력한 다음, 팬텀 훈련병 도전과제를 완수하면 팬텀 도색을 획득할 수 있다. 여기서 주의할 점은 자신이 프리미엄 유저이어야 하고 팬텀 프로스펙트 비밀번호를 아직 풀지 않았다면 bumpinthenight를 먼저 입력해야 한다.
+=== 퀵 리스폰스 ===
+http://img3.wikia.nocookie.net/__cb20140311102021/battlefield/images/4/40/BF4_Quick_Response_Paint.png
+배틀팩에서 획득 가능
+=== 크림슨 타이거 ===
+http://img3.wikia.nocookie.net/__cb20140202115853/battlefield/images/8/87/BF4_Crimson_Tiger_Paint.png
+=== 파이어파이터 ===
+http://img3.wikia.nocookie.net/__cb20140202115910/battlefield/images/1/1d/BF4_Fire_Fighter_Paint.png
+=== 헌터 ===
+http://img3.wikia.nocookie.net/__cb20140202115936/battlefield/images/f/fe/BF4_Hunter_Paint.png
+
+=== PLA 디지털 ===
+http://img2.wikia.nocookie.net/__cb20140202115955/battlefield/images/d/d8/BF4_PLA_Digital_Paint.png
+
+=== 유로 플렉탄 ===
+http://img1.wikia.nocookie.net/__cb20140202120013/battlefield/images/6/6d/BF4_Euro_Flecktarn_Paint.png
+
+=== 이스턴 터틀 ===
+http://img1.wikia.nocookie.net/__cb20140202120030/battlefield/images/2/26/BF4_Eastern_Turtle_Paint.png
+
+=== 폴란드 ===
+http://img1.wikia.nocookie.net/__cb20140202120048/battlefield/images/7/79/BF4_Poland_Paint.png
+
+=== 아토믹 투톤 ===
+http://img3.wikia.nocookie.net/__cb20140202120103/battlefield/images/8/87/BF4_Atomic_Two_Tone_Paint.png
+
+=== M84 ===
+http://img1.wikia.nocookie.net/__cb20140202120206/battlefield/images/3/33/BF4_M84_Paint.png
+=== M84 데저트 ===
+http://img4.wikia.nocookie.net/__cb20140202120238/battlefield/images/5/53/BF4_M84_Desert_Paint.png
+
+=== 이지언 ===
+http://img1.wikia.nocookie.net/__cb20140202120255/battlefield/images/2/29/BF4_Aegean_Paint.png
+
+영문으로 "에게헤"를 뜻한다. ~~무슨 상관인지는 모르겠다.~~
+
+=== Tigrillo ===
+http://img3.wikia.nocookie.net/__cb20140202120311/battlefield/images/9/97/BF4_Tigrillo_Paint.png
+
+"Tigrillo" 가 스페인어로 살쾡이를 뜻하긴 한다. ~~정작 해당 동물을 보면 무늬가 틀리다.~~
+
+정확한 정보가 나오면 [[수정바람]]
+== 전장 적응형 ==
+전장에 따라 적용되는 색이 달라지는 도색.
+그러나, 다이스가 제정신인가 싶을정도로 환경적응적이지 않을때도 있다.
+=== 아토믹 어댑티브 ===
+http://img4.wikia.nocookie.net/__cb20140202094300/battlefield/images/1/18/BF4_Atomic_Adaptive_Paint.png
+=== 도트 어댑티브 ===
+http://img3.wikia.nocookie.net/__cb20140202094322/battlefield/images/6/6b/BF4_Dot_Adaptive_Paint.png
+=== ERDL 어댑티브 ===
+http://img4.wikia.nocookie.net/__cb20140202094342/battlefield/images/b/b9/BF4_ERDL_Adaptive_Paint.png
+=== 플랫 어댑티브 ===
+http://img2.wikia.nocookie.net/__cb20140202094404/battlefield/images/b/b1/BF4_Flat_Adaptive_Paint.png
+=== 플렉탄 어댑티브 ===
+http://img3.wikia.nocookie.net/__cb20140202094422/battlefield/images/c/c9/BF4_Flecktarn_Adaptive_Paint.png
+=== 헥사곤 어댑티브 ===
+http://img3.wikia.nocookie.net/__cb20140202094439/battlefield/images/b/b8/BF4_Hexagon_Adaptive_Paint.png
+배틀필드 4에선 헥사곤 도색이 굉장히 이쁜 편인데
+그 중에서 헥사곤 어댑티브는 가장 인기있는 도색중 
+하나이다.
+
+=== 스플린터 어댑티브 ===
+http://img2.wikia.nocookie.net/__cb20140202094453/battlefield/images/b/be/BF4_Splinter_Adaptive_Paint.png
+=== 스프레이 어댑티브 ===
+http://img2.wikia.nocookie.net/__cb20140202094511/battlefield/images/a/a9/BF4_Spray_Adaptive_Paint.png
+=== 스타버스트 어댑티브 ===
+http://img2.wikia.nocookie.net/__cb20140202095058/battlefield/images/0/0c/BF4_Starburst_Adaptive_Paint.png
+이 위장도 인기가많은편이다
+=== 타이거 어댑티브 ===
+http://img4.wikia.nocookie.net/__cb20140202095125/battlefield/images/2/2b/BF4_Tiger_Adaptive_Paint.png
+=== 리드 어댑티브 ===
+
+http://img1.wikia.nocookie.net/__cb20140202095141/battlefield/images/5/5e/BF4_Reed_Adaptive_Paint.png
+
+=== 웜 어댑티브 ===
+http://img4.wikia.nocookie.net/__cb20140202095203/battlefield/images/f/f4/BF4_Worm_Adaptive_Paint.png
+
+=== 디지털 어댑티브 ===
+http://img2.wikia.nocookie.net/__cb20140202095217/battlefield/images/8/88/BF4_Digital_Adaptive_Paint.png
+
+=== 그래스 어댑티브 ===
+http://img1.wikia.nocookie.net/__cb20140202095231/battlefield/images/8/8c/BF4_Grass_Adaptive_Paint.png
+
+=== 터틀 어댑티브 ===
+http://img3.wikia.nocookie.net/__cb20140202095300/battlefield/images/e/ea/BF4_Turtle_Adaptive_Paint.png
+
+=== 팜 어댑티브 ===
+http://img1.wikia.nocookie.net/__cb20140202095247/battlefield/images/f/f8/BF4_Palm_Adaptive_Paint.png
+== 가을 ==
+=== 아토믹 어텀 ===
+http://img2.wikia.nocookie.net/__cb20140202095647/battlefield/images/8/88/BF4_Atomic_Autumn_Paint.png
+=== 도트 어텀 ===
+http://img1.wikia.nocookie.net/__cb20140202095702/battlefield/images/4/47/BF4_Dot_Autumn_Paint.png
+=== ERDL 어텀 ===
+http://img2.wikia.nocookie.net/__cb20140202095719/battlefield/images/6/6e/BF4_ERDL_Autumn_Paint.png
+=== 플랫 어텀 ===
+http://img4.wikia.nocookie.net/__cb20140202095732/battlefield/images/d/d2/BF4_Flat_Autumn_Paint.png
+=== 플렉탄 어텀 ===
+http://img1.wikia.nocookie.net/__cb20140202095746/battlefield/images/7/75/BF4_Flecktarn_Autumn_Paint.png
+=== 헥사곤 어텀 ===
+http://img2.wikia.nocookie.net/__cb20140202095758/battlefield/images/3/35/BF4_Hexagon_Autumn_Paint.png
+=== 스플린터 어텀 ===
+http://img1.wikia.nocookie.net/__cb20140202095808/battlefield/images/5/50/BF4_Splinter_Autumn_Paint.png
+=== 스프레이 어텀 ===
+http://img2.wikia.nocookie.net/__cb20140202095822/battlefield/images/b/b2/BF4_Spray_Autumn_Paint.png
+=== 스타버스트 어텀 ===
+http://img4.wikia.nocookie.net/__cb20140202100144/battlefield/images/b/bd/BF4_Starburst_Autumn_Paint.png
+=== 타이거 어텀 ===
+http://img2.wikia.nocookie.net/__cb20140202100200/battlefield/images/8/8b/BF4_Tiger_Autumn_Paint.png
+=== 리드 어텀 ===
+http://img4.wikia.nocookie.net/__cb20140202100212/battlefield/images/9/90/BF4_Reed_Autumn_Paint.png
+
+=== 웜 어텀 ===
+http://img2.wikia.nocookie.net/__cb20140202100226/battlefield/images/0/0b/BF4_Worm_Autumn_Paint.png
+
+
+=== 디지털 어텀 ===
+http://img3.wikia.nocookie.net/__cb20140202100241/battlefield/images/7/77/BF4_Digital_Autumn_Paint.png
+
+=== 그래스 어텀 ===
+http://img1.wikia.nocookie.net/__cb20140202100256/battlefield/images/7/7b/BF4_Grass_Autumn_Paint.png
+
+=== 터틀 어텀 ===
+http://img2.wikia.nocookie.net/__cb20140202100333/battlefield/images/3/39/BF4_Turtle_Autumn_Paint.png
+
+=== 팜 어텀 ===
+http://img3.wikia.nocookie.net/__cb20140202100320/battlefield/images/6/64/BF4_Palm_Autumn_Paint.png
+== 사막 ==
+=== 아토믹 데저트 ===
+http://img2.wikia.nocookie.net/__cb20140202100454/battlefield/images/f/fd/BF4_Atomic_Desert_Paint.png
+=== 도트 데저트 ===
+http://img2.wikia.nocookie.net/__cb20140202100514/battlefield/images/4/40/BF4_Dot_Desert_Paint.png
+=== ERDL 데저트 ===
+http://img2.wikia.nocookie.net/__cb20140202100541/battlefield/images/7/79/BF4_ERDL_Desert_Paint.png
+=== 플랫 데저트 ===
+http://img4.wikia.nocookie.net/__cb20140202100602/battlefield/images/c/c4/BF4_Flat_Desert_Paint.png
+=== 플렉탄 데저트 ===
+http://img2.wikia.nocookie.net/__cb20140202100622/battlefield/images/f/fb/BF4_Flecktarn_Desert_Paint.png
+=== 헥사곤 데저트 ===
+http://img4.wikia.nocookie.net/__cb20140202100648/battlefield/images/9/93/BF4_Hexagon_Desert_Paint.png
+=== 스플린터 데저트 ===
+http://img2.wikia.nocookie.net/__cb20140202100710/battlefield/images/9/9c/BF4_Splinter_Desert_Paint.png
+=== 스프레이 데저트 ===
+http://img3.wikia.nocookie.net/__cb20140202100731/battlefield/images/1/17/BF4_Spray_Desert_Paint.png
+=== 스타버스트 데저트 ===
+http://img4.wikia.nocookie.net/__cb20140202100911/battlefield/images/7/79/BF4_Starburst_Desert_Paint.png
+=== 타이거 데저트 ===
+http://img1.wikia.nocookie.net/__cb20140202100938/battlefield/images/f/f1/BF4_Tiger_Desert_Paint.png
+=== 리드 데저트 ===
+http://img2.wikia.nocookie.net/__cb20140202101003/battlefield/images/b/bb/BF4_Reed_Desert_Paint.png
+
+=== 웜 데저트 ===
+http://img1.wikia.nocookie.net/__cb20140202101023/battlefield/images/b/bb/BF4_Worm_Desert_Paint.png
+
+=== 디지털 데저트 ===
+http://img4.wikia.nocookie.net/__cb20140202101053/battlefield/images/0/0d/BF4_Digital_Desert_Paint.png
+
+=== 그래스 데저트 ===
+http://img4.wikia.nocookie.net/__cb20140202101115/battlefield/images/b/b5/BF4_Grass_Desert_Paint.png
+
+=== 터틀 데저트 ===
+http://img3.wikia.nocookie.net/__cb20140202101155/battlefield/images/f/f6/BF4_Turtle_Desert_Paint.png
+
+=== 팜 데저트 ===
+http://img3.wikia.nocookie.net/__cb20140202101132/battlefield/images/6/62/BF4_Palm_Desert_Paint.png
+== 해상 ==
+=== 아토믹 네이벌 ===
+http://img2.wikia.nocookie.net/__cb20140202101459/battlefield/images/a/a4/BF4_Atomic_Naval_Paint.png
+=== 도트 네이벌 ===
+http://img1.wikia.nocookie.net/__cb20140202101522/battlefield/images/7/70/BF4_Dot_Naval_Paint.png
+=== ERDL 네이벌 ===
+http://img4.wikia.nocookie.net/__cb20140202101547/battlefield/images/d/dd/BF4_ERDL_Naval_Paint.png
+=== 플랫 네이벌 ===
+http://img2.wikia.nocookie.net/__cb20140202101604/battlefield/images/c/c4/BF4_Flat_Naval_Paint.png
+=== 플렉탄 네이벌 ===
+http://img2.wikia.nocookie.net/__cb20140202101631/battlefield/images/9/9e/BF4_Flecktarn_Naval_Paint.png
+=== 헥사곤 네이벌 ===
+http://img1.wikia.nocookie.net/__cb20140202101744/battlefield/images/c/ce/BF4_Hexagon_Naval_Paint.png
+=== 스플린터 네이벌 ===
+http://img3.wikia.nocookie.net/__cb20140202101807/battlefield/images/5/56/BF4_Splinter_Naval_Paint.png
+
+~~묘하게 SU-35의 데칼과 비슷하다.~~
+=== 스프레이 네이벌 ===
+http://img3.wikia.nocookie.net/__cb20140202101831/battlefield/images/a/a2/BF4_Spray_Naval_Paint.png
+=== 스타버스트 네이벌 ===
+http://img3.wikia.nocookie.net/__cb20140202101907/battlefield/images/9/97/BF4_Starburst_Naval_Paint.png
+=== 타이거 네이벌 ===
+http://img3.wikia.nocookie.net/__cb20140202101915/battlefield/images/d/d8/BF4_Tiger_Naval_Paint.png
+=== 리드 네이벌 ===
+http://img1.wikia.nocookie.net/__cb20140202101938/battlefield/images/7/75/BF4_Reed_Naval_Paint.png
+
+=== 웜 네이벌 ===
+http://img2.wikia.nocookie.net/__cb20140202101957/battlefield/images/d/d9/BF4_Worm_Naval_Paint.png
+
+=== 디지털 네이벌 ===
+http://img1.wikia.nocookie.net/__cb20140202102015/battlefield/images/d/da/BF4_Digital_Naval_Paint.png
+
+=== 그래스 네이벌 ===
+http://img4.wikia.nocookie.net/__cb20140202102035/battlefield/images/2/29/BF4_Grass_Naval_Paint.png
+
+=== 터틀 네이벌 === 
+http://img3.wikia.nocookie.net/__cb20140202102115/battlefield/images/6/67/BF4_Turtle_Naval_Paint.png
+
+=== 팜 네이벌 ===
+http://img4.wikia.nocookie.net/__cb20140202102053/battlefield/images/1/19/BF4_Palm_Naval_Paint.png
+== 설원 ==
+=== 아토믹 스노우 ===
+http://img2.wikia.nocookie.net/__cb20140202102235/battlefield/images/5/50/BF4_Atomic_Snow_Paint.png
+=== 도트 스노우 ===
+http://img3.wikia.nocookie.net/__cb20140202102313/battlefield/images/a/a1/BF4_Dot_Snow_Paint.png
+=== ERDL 스노우 ===
+http://img1.wikia.nocookie.net/__cb20140202102339/battlefield/images/c/c9/BF4_ERDL_Snow_Paint.png
+=== 플랫 스노우 ===
+http://img2.wikia.nocookie.net/__cb20140202102358/battlefield/images/7/7c/BF4_Flat_Snow_Paint.png
+아무 색상 없이 그냥 순백색의 도색이다 
+
+이 도색을 끼고 UN글자가 달린엠블럼을 달면 UN군이 될 수 있다고 한다.
+=== 플렉탄 스노우 ===
+http://img2.wikia.nocookie.net/__cb20140202102415/battlefield/images/f/fc/BF4_Flecktarn_Snow_Paint.png
+=== 헥사곤 스노우 ===
+http://img1.wikia.nocookie.net/__cb20140202102441/battlefield/images/3/32/BF4_Hexagon_Snow_Paint.png
+크라이시스2를 해봤다면 익숙할만한 도색. CELL엠블럼까지 달면 금상첨화다. 
+=== 스플린터 스노우 ===
+http://img1.wikia.nocookie.net/__cb20140202102511/battlefield/images/9/9a/BF4_Splinter_Snow_Paint.png
+
+=== 스프레이 스노우 ===
+http://img3.wikia.nocookie.net/__cb20140202102535/battlefield/images/1/1d/BF4_Spray_Snow_Paint.png
+=== 스타버스트 스노우 ===
+http://img3.wikia.nocookie.net/__cb20140202102552/battlefield/images/8/89/BF4_Starburst_Snow_Paint.png
+=== 타이거 스노우 ===
+http://img2.wikia.nocookie.net/__cb20140202102609/battlefield/images/2/28/BF4_Tiger_Snow_Paint.png
+=== 리드 스노우 ===
+http://img1.wikia.nocookie.net/__cb20140202102649/battlefield/images/0/0e/BF4_Reed_Snow_Paint.png
+
+=== 웜 스노우 ===
+http://img3.wikia.nocookie.net/__cb20140202102708/battlefield/images/4/4e/BF4_Worm_Snow_Paint.png
+
+=== 디지털 스노우 ===
+http://img4.wikia.nocookie.net/__cb20140202102734/battlefield/images/0/0c/BF4_Digital_Snow_Paint.png
+
+=== 그래스 스노우 === 
+http://img3.wikia.nocookie.net/__cb20140202102757/battlefield/images/e/e1/BF4_Grass_Snow_Paint.png
+
+=== 터틀 스노우 === 
+http://img2.wikia.nocookie.net/__cb20140202102834/battlefield/images/a/a5/BF4_Turtle_Snow_Paint.png
+
+=== 팜 스노우 === 
+http://img3.wikia.nocookie.net/__cb20140202102815/battlefield/images/0/05/BF4_Palm_Snow_Paint.png
+== 도시 ==
+=== 아토믹 어번 ===
+http://img4.wikia.nocookie.net/__cb20140202102951/battlefield/images/c/cf/BF4_Atomic_Urban_Paint.png
+=== 도트 어번 ===
+http://img2.wikia.nocookie.net/__cb20140202103010/battlefield/images/e/eb/BF4_Dot_Urban_Paint.png
+=== ERDL 어번 ===
+http://img2.wikia.nocookie.net/__cb20140202103028/battlefield/images/a/a9/BF4_ERDL_Urban_Paint.png
+=== 플랫 어번 ===
+http://img3.wikia.nocookie.net/__cb20140202103045/battlefield/images/b/bd/BF4_Flat_Urban_Paint.png
+아무 색상없이 어두운 회색의 도색이다 장비종류에 따라 어두운 회색~검은색깔을 낸다
+흰색 엠블럼을 달면 엠블럼이 눈에 잘띔
+=== 플렉탄 어번 ===
+http://img2.wikia.nocookie.net/__cb20140202103103/battlefield/images/1/18/BF4_Flecktarn_Urban_Paint.png
+=== 헥사곤 어번 ===
+http://img1.wikia.nocookie.net/__cb20140202103125/battlefield/images/c/c4/BF4_Hexagon_Urban_Paint.png
+=== 스플린터 어번 ===
+http://img2.wikia.nocookie.net/__cb20140202103149/battlefield/images/c/c1/BF4_Splinter_Urban_Paint.png
+스플린터 종류가 다 그렇듯 문양 자체는 다각형 도배식이라 별 거 없지만
+백색 > 흑색 계열로 이루어진 어번 색 배열이 현대전 느낌을 물씬 나게 한다.
+--SU-50에 달면 SU-35가 될수있다!--
+=== 스프레이 어번 ===
+http://img3.wikia.nocookie.net/__cb20140202103208/battlefield/images/9/90/BF4_Spray_Urban_Paint.png
+이 도색을 칠한 장비로 그림자 밑에 숨어있으면 하드코어에서는 얻어맞을 일이 별로 없을것이다. --도색은 그렇다 쳐도 위장은?--
+=== 스타버스트 어번 ===
+http://img4.wikia.nocookie.net/__cb20140202103232/battlefield/images/0/08/BF4_Starburst_Urban_Paint.png
+=== 타이거 어번 ===
+
+http://img4.wikia.nocookie.net/__cb20140202103300/battlefield/images/d/dd/BF4_Tiger_Urban_Paint.png
+=== 리드 어번 ===
+http://img1.wikia.nocookie.net/__cb20140202103320/battlefield/images/f/f8/BF4_Reed_Urban_Paint.png
+
+=== 웜 어번 === 
+http://img2.wikia.nocookie.net/__cb20140202103355/battlefield/images/f/fa/BF4_Worm_Urban_Paint.png
+
+=== 디지털 어번 === 
+http://img2.wikia.nocookie.net/__cb20140202103414/battlefield/images/a/a6/BF4_Digital_Urban_Paint.png
+
+=== 그래스 어번 === 
+http://img4.wikia.nocookie.net/__cb20140202103434/battlefield/images/5/5d/BF4_Grass_Urban_Paint.png
+
+=== 터틀 어번 === 
+http://img4.wikia.nocookie.net/__cb20140202103510/battlefield/images/9/98/BF4_Turtle_Urban_Paint.png
+
+=== 팜 어번 === 
+http://img4.wikia.nocookie.net/__cb20140202103453/battlefield/images/6/61/BF4_Palm_Urban_Paint.png
+== 삼림 ==
+=== 아토믹 우드랜드 ===
+http://img2.wikia.nocookie.net/__cb20140202103636/battlefield/images/a/a0/BF4_Atomic_Woodland_Paint.png
+=== 도트 우드랜드 ===
+http://img2.wikia.nocookie.net/__cb20140202103701/battlefield/images/4/46/BF4_Dot_Woodland_Paint.png
+=== ERDL 우드랜드 ===
+http://img3.wikia.nocookie.net/__cb20140202103727/battlefield/images/3/39/BF4_ERDL_Woodland_Paint.png
+=== 플랫 우드랜드 ===
+http://img1.wikia.nocookie.net/__cb20140202103744/battlefield/images/3/39/BF4_Flat_Woodland_Paint.png
+=== 플렉탄 우드랜드 ===
+http://img3.wikia.nocookie.net/__cb20140202103805/battlefield/images/2/2e/BF4_Flecktarn_Woodland_Paint.png
+=== 헥사곤 우드랜드 ===
+http://img1.wikia.nocookie.net/__cb20140202103828/battlefield/images/9/95/BF4_Hexagon_Woodland_Paint.png
+=== 스플린터 우드랜드 ===
+http://img3.wikia.nocookie.net/__cb20140202103858/battlefield/images/8/81/BF4_Splinter_Woodland_Paint.png
+=== 스프레이 우드랜드 ===
+http://img3.wikia.nocookie.net/__cb20140202103929/battlefield/images/e/ee/BF4_Spray_Woodland_Paint.png
+=== 스타버스트 우드랜드 ===
+http://img1.wikia.nocookie.net/__cb20140202103953/battlefield/images/0/05/BF4_Starburst_Woodland_Paint.png
+=== 타이거 우드랜드 ===
+http://img2.wikia.nocookie.net/__cb20140202104013/battlefield/images/5/5e/BF4_Tiger_Woodland_Paint.png
+=== 리드 우드랜드 ===
+http://img3.wikia.nocookie.net/__cb20140202104032/battlefield/images/c/cc/BF4_Reed_Woodland_Paint.png
+
+=== 웜 우드랜드 === 
+
+http://img4.wikia.nocookie.net/__cb20140202104049/battlefield/images/0/0d/BF4_Worm_Woodland_Paint.png
+
+=== 디지털 우드랜드 ===
+http://img3.wikia.nocookie.net/__cb20140202104115/battlefield/images/6/6f/BF4_Digital_Woodland_Paint.png
+
+=== 그래스 우드랜드 ===
+http://img1.wikia.nocookie.net/__cb20140202104138/battlefield/images/d/d9/BF4_Grass_Woodland_Paint.png
+
+=== 터틀 우드랜드 ===
+http://img2.wikia.nocookie.net/__cb20140202104219/battlefield/images/b/b0/BF4_Turtle_Woodland_Paint.png
+
+=== 팜 우드랜드 ===
+http://img2.wikia.nocookie.net/__cb20140202104154/battlefield/images/6/6e/BF4_Palm_Woodland_Paint.png

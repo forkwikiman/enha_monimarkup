@@ -1,0 +1,22 @@
+{{{+1 西青山駅 / Nishi-Aoyama Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/KINTETSU_NISHI-AOYAMA_Station_01.JPG/640px-KINTETSU_NISHI-AOYAMA_Station_01.JPG
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/KINTETSU_NISHI-AOYAMA_Station_03.JPG/640px-KINTETSU_NISHI-AOYAMA_Station_03.JPG
+
+||||||||||<#4169ff> {{{#ffffff 오사카선}}} ||<#cc0033><|6>{{{#ffffff 운영주체 : 킨키 일본 철도}}}[[br]]{{{#ffffff 개업일 : 1930년 12월 20일}}} ||
+||<width=100px> [wiki:"오사카우에혼마치역" 오사카우에혼마치] 방면[[br]][wiki:"이가코즈역" 이가코즈] || {{{+1 ← }}} ||<width=100px> 니시아오야마 || {{{+1 → }}} ||<width=100px> [wiki:"이세나카가와역" 이세나카가와] 방면[[br]][wiki:"히가시아오야마역" 히가시아오야마] ||
+
+일본 [[미에]]현 [[이가]]시에 위치한 [[킨키 일본 철도]] [wiki:"오사카선(킨키 일본 철도)" 오사카선]의 역이다. 상대식 승강장의 고가역으로 승강장 길이는 6량 길이이다. 통상적으로는 무인역으로 운용된다.
+
+하루 이용객은 '''13명'''으로 킨테츠의 모든 역 중에 가장 적다.
+
+역 주변에는 국도 165호선밖에 없고 산으로 둘러싸여 있다. 그래서 그런지 비경역으로도 알려져 있어 이 역을 찾는 동호인도 있다.
+
+'''완급결합'''
+||||||<#ff6600> {{{#ffffff 급　　행}}}
+||<width=100px> [wiki:"이가코즈역" 이가코즈] || {{{+1  ← }}} ||<width=100px> 니시아오야마 || {{{+1  → }}} ||<width=100px> [wiki:"히가시아오야마역" 히가시아오야마] ||
+||||||<#0033ff> {{{#ffffff 각역정차}}}
+||<width=100px> [wiki:"이가코즈역" 이가코즈] || {{{+1  ← }}} ||<width=100px> 니시아오야마 || {{{+1  → }}} ||<width=100px> [wiki:"히가시아오야마역" 히가시아오야마] ||
+
+[[각주]]

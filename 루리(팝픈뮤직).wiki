@@ -1,0 +1,42 @@
+Ruri/ルリ
+[[팝픈뮤직]]의 캐릭터.
+[[목차]]
+==== 캐릭터 공식 설정 ====
+출신: 영국
+취미: 네잎 클로버를 찾는 것
+좋아하는 것: 쵸코 파르페
+싫어하는 것: 무당벌레
+
+마음에 드는 비옷을 입고 지내는 비 내리는 주말.
+빗소리는 아름다워.상냥한 기분이 될 수 있으니까...
+
+
+
+==== 캐릭터 설명 ====
+팝픈뮤직 CS8,9에 등장했던 캐릭터.우산을 돌리면서 걸어가는 모션이 인상적이다.
+카페가 주제였던 팝픈8이니만큼 승리/패배 모션도 카페에 관련된 게 많다.
+
+==== 팝픈뮤직에서 담당했던 곡들 ====
+ * 팝픈뮤직 CS 8
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/fxfDXTd7rh8&hl=ko_KR&fs=1&color1=0xcc2550&color2=0xe87a9f"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fxfDXTd7rh8&hl=ko_KR&fs=1&color1=0xcc2550&color2=0xe87a9f" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+ レイニー(Rainy)/ Rings On The Water /　PEACH　TREES
+ 난이도는 AC16 기준으로 노멀 8 하이퍼 22.EX레벨은 없다.
+ CS8의 저렙곡.아케이드판으로 이식됐어도 쉬운건 변함없다.
+노래도 꽤나 느린 편이라 초보자들이 무난하게 플레이하기 좋은 곡.
+
+ * 팝픈뮤직 CS 9
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/WITbWIYvET8?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/WITbWIYvET8?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+ラヴァーズポップ(Lovers Pop) /いいひと(좋은사람) / 오카 메구미 (岡めぐみ)
+
+CS에만 있는 루리의 두번째 담당곡. 겨울 느낌이 물씬 풍긴다.
+
+
+
+[[각주]]

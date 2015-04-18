@@ -1,0 +1,41 @@
+[[목차]]
+== [[DJMAX 시리즈]]의 수록 곡 중 하나 ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/HtgRC-sfDUg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || [[DJMAX Portable]] ||
+|| 장르 || Alternative Rock ||
+|| [[BPM]] || 145 ||
+|| 작곡 || [[Forte Escape]] ||
+|| 일러스트 || [[Armcho|Arms]] ||
+
+[[Forte Escape]]가 [[DJMAX 온라인]]에 제공한 락 장르의 곡으로, 하늘을 나는 듯한 느낌을 준다. 게임 내에서는 쉬운 패턴으로 나온다.
+
+BGA 또한 슈팅 게임을 모티브로 만든 듯하다. BGA를 담당한 Arms는 후에 [[EZ2DJ]] 6th TRAX 수록곡 [[Stay with me]]의 BGA를 그렸다고 한다. 원래 다른 노래의 BGA로 들어갈 것이었다고 하며, 작곡가는 BGA에 만족하지 못 하였다.
+
+[[DJMAX Portable]]에 수록된 이후로는 차기작 이식이 없지만, 후속곡으로 [[Catch You]]가 나와 [[DJMAX Trilogy]]에 이식되었다.
+
+== [[동방신기]] 6집 타이틀 곡 ==
+[[Catch Me(앨범)]] 항목 참조
+== [[비트매니아 IIDX]]의 수록곡 ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/CeLUn_pxnME?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/CeLUn_pxnME?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4><:> 115 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 405}}} || {{{#orange 8}}} || {{{#orange 678}}} || {{{#red 10}}} || {{{#red 925}}} || {{{#blue 4}}} || {{{#blue 403}}} || {{{#orange 9}}} || {{{#orange 685}}} || {{{#red 10}}} || {{{#red 922}}} ||
+
+ * [[wiki:"비트매니아 IIDX/수록곡" 곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 12 HAPPY SKY ~
+ * 가정용판 수록 : 12 HAPPY SKY
+
+작곡/작사는 [[DJ YOSHITAKA]]. 보컬은 [[MANA]]등을 부른적이 있는 ERi. 일러스트는 [[GOLI]].
+
+어나더 난이도는 처음 수록될 당시에는 9. 13 DistorteD에서 10으로 상향.
+
+어레인지 되어서 14 GOLD의 엔딩 테마로 쓰였다.

@@ -1,0 +1,132 @@
+ * 상위 항목 : [[리듬게임]]
+
+||||||||||<tablealign=center><#000000><:>'''[[wiki:"오투잼" <font color="white"> 오투잼 시리즈]]'''||
+||<:>[[오투잼 아날로그]]||<:>[[오투잼 U]]||<:>[[오투잼 S]]||<:>'''오투잼 Pop'''||<:>[[박자왕]]|| 
+
+||||<:><tablealign=right><tablewidth=200px><#f5deb3>'''오투잼 Pop'''||
+||||attachment:pop.jpg||
+||<:><width=21%>'''발매'''||[[2013년]] [[4월 17일]] - 구글 Play 스토어
+[[2013년]] [[11월 7일]] - 애플 앱스토어||
+||<:>'''제작'''||MONSTER SMILE INC.||
+||<:>'''유통'''||[[모모(게임 제작사)|(주)모모]]||
+||<:>'''플랫폼'''||[[iOS]], [[안드로이드]]||
+||<:>'''장르'''||[[리듬게임]]||
+
+[[목차]]
+
+MONSTER SMILE INC.에서 제작하고 (주) 모모에서 서비스하는 [[리듬게임]]. 페이스북 연동의 SNG 게임이다. 현재는 '''서비스종료'''되어 받을 수 없다.
+
+
+== 출시전 정보 ==
+많은 인터넷 기사를 통해 오투잼 Pop에 대해 언급이 많이 되었다. 가칭은 오투잼 One.
+
+출시되기 전 '카톡 연동으로 출시 될 것이다'라는 설이 돌았었다.
+
+
+2013년 4월 11일 오투잼 Pop 관련 영상이 최초로 공개되었다.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="http://www.youtube-nocookie.com/v/o7tv24tn21M?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/o7tv24tn21M?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+동영상에 나오는 인물은 [[Gentle Stick]]이다.
+
+4월 12일 플레이 영상 공개
+
+{{{#!Html
+<object width="640" height="360"><param name="movie" value="http://www.youtube-nocookie.com/v/PI8A4V3JG_s?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/PI8A4V3JG_s?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+~~마치 [[wiki:"일 더하기 일은 귀요미" 이 곡]]이 떠오르게 한다~~
+
+4월 15일 페이스북 연동으로 출시 될 것이란 동영상이 공개되었다.
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="http://www.youtube-nocookie.com/v/fwfdHsVUnK0?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/fwfdHsVUnK0?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+== 게임 방법 ==
+밑에서 위로 올라오는 노트를 타이밍에 맞게 터치하는 방식이다. 노트를 누를 때는 해당 라인의 터치스크린 아무데나 터치해도 된다.
+
+=== 노트 종류 ===
+attachment:1.jpg
+기본노트. 터치하면 된다.
+
+attachment:2.jpg
+슬라이드 노트. 슬라이드하면 된다.
+
+attachment:3.jpg
+홀드 노트. 꾹 누르고 있으면 된다. 단, 누르고 꼭 떼야 한다.
+
+attachment:4.jpg
+지그재그 노트. [[탭소닉]]의 슬라이드 노트랑 처리방법이 비슷하다.
+
+== 난이도 ==
+오투잼 Pop은 모모가 서비스해왔던 [[오투잼 아날로그]], [[오투잼 U]]와 달리 라이트 유저를 겨냥해 출시했기 때문에 매우 쉬운 편. ~~그러나 판정이 더 짜다.~~ 
+
+== 판정 및 점수체계 ==
+점수체계는 아직 공식적으로 공개된 자료가 없다. [[수정바람]]
+
+== 피버 ==
+[[오투잼 아날로그]], [[오투잼 U]]에선 '잼 콤보'라고 표기를 해왔으나, 오투잼 Pop에서만큼은 '피버'라는 용어를 채택. '잼 콤보'와는 발동 방식이 다르다. 
+
+1배에서 5배까지는 게이지가 다 차면 1배씩 올라가는 방식이지만, 5배에서 게이지가 다 차면 바로 7배로 올라가고, 7배부터 노트수 하나당 1배씩 올라간다. ~~∞배까지 있다.~~
+
+== 상점 ==
+attachment:5.jpg
+
+상점에서 노트 업그레이드, 아이템 구매를 할 수 있다.
+
+== 수록곡 ==
+|| 곡명 || 아티스트 ||
+|| 귀요미송 || [[하리]] ||
+|| 아시나요 || [[S.I.D-Sound]] ||
+|| 애인을 내려주세요 || Warak ||
+|| 올챙이와 개구리 || Various Artist ||
+|| Invitation || Zeron ||
+|| 사랑의 배터리 || [[홍진영]] ||
+|| 샤이닝 || Warak ||
+|| 오빠는 풍각쟁이 || 박준면 ||
+|| 얄미운 사람 || [[S.I.D-Sound]] ||
+|| Revival On || Warak ||
+|| 커피한잔 || [[S.I.D-Sound]] ||
+|| Gangsta Boy || [[유키스]] ||
+|| 사랑은 창밖에 빗물 같아요 || [[S.I.D-Sound]] ||
+|| Nostalgia || Warak ||
+|| 만만하니 || [[유키스]] ||
+|| V3 || BeautifulDay ||
+|| Hide & Seek || [[S.I.D-Sound]] ||
+|| 바람아 멈추어다오 || Warak ||
+|| Only You || 신익주 ||
+|| 도레미  || Ray  ||
+|| Instant World || Warak || 
+|| 숨기지마 || Warak || 
+|| First Love || 신익주 || 
+|| Hawaian Couple || [[허밍 어반 스테레오]] || 
+|| 사랑할꺼야[* [맞춤법]에 맞게 쓰면 '사랑할 거야'가 된다.] || 박혜경 || 
+|| Sx3 (심심송) || Ti7 || 
+|| BooBoo || Triment Factory || 
+|| Pink Gold || [[S.I.D-Sound]] ||
+|| The Power Of Light || [[wiki:"MAX#s-2" MAX]] ||  
+|| 마우스의 꿈 || Warak || 
+|| 행방불명 || Warak || 
+|| Come With Me || Triment Factory || 
+|| Polaris || HiTaZ || 
+|| 내리는 비가 그칠 수 있게 || Warak || 
+|| 캉캉 || Mikel || 
+|| 은월애 || [[SHK]] || 
+|| 러빙유 || Pory || 
+|| 휘파람 || Warak || 
+|| Rage Of Fire || [[wiki:"MAX#s-2" MAX]] ||
+|| 어떤 좋은 날 || Melon Coaster ||
+|| 너하고 || [[S.I.D-Sound]] ||
+|| 언제나 그대의 천사 || Studio Doma || 
+|| Present || Warak ||  
+|| Show Me The Love || Ti7 || 
+|| 이제부터 진검승부 || ampstyle || 
+|| 일상탈출 || [[wiki:"MAX#s-2" MAX]] || 
+|| 외로운 공주 || Ti7 || 
+|| Drawing In My Heart || [[S.I.D-Sound]] || 
+|| Feel This Love || Ti7 || 
+|| 하늬바람 높새바람 || [[S.I.D-Sound]] || 
+|| 마녀 || Studio Doma || 
+|| Visual Dream Ⅱ (In Fiction) || [[S.I.D-Sound]] || 
+|| Gonna B Alright || 신익주 || 
+|| Sunshine Love || [[wiki:"MAX#s-2" MAX]] || 
+|| 여름은 두근두근 || nao.paradigm || 
+|| Jump to Summer || [[M2U]] || 

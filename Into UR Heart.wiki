@@ -1,0 +1,50 @@
+||<#EEEEEE>혹시 [[NAOKI]]가 작곡한 [[INTO YOUR HEART (Ruffage remix)]]를 찾으시나요?||
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[후지모리 소타]]. 보컬은 팝픈뮤직에서 together 4ever을 부른적이 있는 yoshiko.
+
+== [[팝픈뮤직]] ==
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/iGVHpKJakYY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+||EDMを取り入れたクールなサウンドは世界レベルでダンサブル！
+EDM을 도입한 멋진 사운드는 세계 수준으로 댄서블!||
+
+|| 출전 || 장르명 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music[[BR]]Sunny Park || [[EDM]][[BR]]일렉트로닉 댄스 뮤직 || Into UR Heart || [[Sota Fujimori]] feat.yoshiko || JUDY[[BR]]쥬디 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 140 || 50단계 || {{{#blue 5}}} || {{{#green 23}}} || {{{#orange 33}}} || {{{#red 43}}} ||
+|||| 노트수 || {{{#blue 141}}} || {{{#green 322}}} || {{{#orange 683}}} || {{{#red 1101}}} ||
+
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+팝픈 뮤직 Sunny Park 에 등장한 악곡. 담당 캐릭터는 쥬디[* 미미냐미나 MZD같은 캐릭터를 제외하면 이번 작품에 세번이나 나온 캐릭터. connect, Smiling에 이어서 출연.](SP 신규 2-1P). 개인 해금 이벤트 '와글 와글 팝픈 동물원'에서 등장한 곡. 오른쪽 파란 동물원의 첫번째 해금곡인 [[流]]를 해금하면 해금 가능한 곡이다.
+
+EX채보는 계단, 동시치기 위주의 패턴.
+
+=== 아티스트 코멘트 ===
+||어느 날 PON군에게서 "또 하우스 스타일의 악곡을 부탁드립니다!!"라고 들어서 우연히 생각났습니다만, 하우스적인 팝은 EDM이었을 겁니다. 이러한 요소를 내 나름대로 융합해서 완성한 것이 이번 Into UR Heart입니다. 알고 계실 EDM은 미국, 유럽을 시작해서 현재 대유행하고 있는 장르입니다만, 제 나름대로 게임의 어울리는 팝 요소를 보면에 넣어봤습니다.
+보컬은 Spring Comes Around와 together 4 ever에서 몹시 신세를 졌던 yoshiko씨에게 부탁했습니다.
+꼭 들어봐주세요.
+
+- [[후지모리 소타]]||
+
+== [[리플렉 비트 시리즈]] ==
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 140 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 142}}} || {{{#orange 303}}} || {{{#red 521}}} ||
+|| 수록버전 ||||||||<#F6EC01> [리플렉 비트 그루빈] ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/maP_5ZPQE8o" frameborder="0" allowfullscreen></iframe>
+}}}
+Hard 패턴 영상
+
+팝픈 뮤직에 수록된 버전과 비교했을 때, 초반 전주부분 한소절이 줄어들었다. 후지모리 장단이 거의 없는 멜로디를 따라가는 평범한 패턴이지만 중반부 간주부분에서 노트밀도가 높아지니 당황하지 않는것이 중요하다.

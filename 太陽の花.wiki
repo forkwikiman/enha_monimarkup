@@ -1,0 +1,30 @@
+'''[[태양의 꽃]]'''
+
+|| https://remywiki.com/images/9/9f/Taiyou_no_hana.png?width=220 || https://remywiki.com/images/f/f0/Taiyou_no_hana_new.jpg?width=220 ||
+|| XG ~ XG3까지의 자켓 || [[GITADORA]]부터의 자켓 ||
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] 클래식 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|5> 186 ||<|2> 기타 표준|| {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#green 15}}} || {{{#orange 33}}} || {{{#red 52}}} ||
+|| 기타 오픈픽 || {{{#green 16}}} || {{{#orange 36}}} || {{{#red 54}}} ||
+|| 기타 베이스 || {{{#green 15}}} || {{{#orange 35}}} || {{{#red -}}} ||
+|| 드럼매니아 || {{{#green 15}}} || {{{#orange 33}}} || {{{#red 66}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 186 ||<|2> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 2.95}}} || {{{#orange 4.30}}} || {{{#red 5.35}}} ||
+|| 기타 베이스 || {{{#blue 3.10}}} || {{{#orange 4.30}}} || {{{#red 5.55}}} ||
+|| 드럼매니아 || {{{#blue 2.15}}} || {{{#orange 3.45}}} || {{{#red 6.25}}} ||
+
+{{{#!HTML
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/yVXe1tg_na4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/yVXe1tg_na4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+기타프릭스 & 드럼매니아 XG  / V7의 수록곡. 작곡가는 후속작 XG2에서 [[イバラノミチ]]를 작곡했던 [[DAIHEI]]. 보컬은 YUKALI.HIULA. DAIHEI의 [[BEMANI 시리즈]] 데뷔작이다.
+
+BGA는 전용 BGA로, 애니메이션 풍이 물씬 풍기는 BGA. 하지만 정작 가동 당시엔 [[Last Train]], [[KAISER PHOENIX]] 등에 포스도 패턴의 극악스러움도 밀려 현시창 대접을 받았다(...) 
+
+기타 난이도는 마지막에 폭주 부분만 제외하면 전체적으로 물렙 취급받고, 베이스는 난이도에 비해 어렵다는 평. 드럼 난이도는 66치고 쉬운편이지만 애매하게 끊기는 스네어 때문에 실수하기 쉽다.
+
+[[니코니코동화]]에서는 "俺の嫁"로 대접받고 있다.

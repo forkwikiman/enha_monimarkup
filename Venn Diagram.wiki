@@ -1,0 +1,57 @@
+[[목차]]
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Venn Diagram ||
+|| 작곡 |||||||| cznych ||
+|| 배경 |||||||| (불명) ||
+|| 최초 수록버전 |||||||| [[EZ2AC : EVOLVE]] ||
+|| BPM |||||||| 130 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EVOLVE]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 9 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#FF0000> 5K RUBY || {{{#orange 7 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 5 }}} || {{{#red 10 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 6 }}} || {{{#red 10 }}} || {{{#purple 12 }}} || {{{#blue - }}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 12 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 12 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 11 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ffffff> TURNTABLE || {{{#orange 9 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+ * 코스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2AC/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+== 개요 ==
+||||Cradle Edge 2집 앨범 목록||
+||트랙||타이틀||
+||01||Minimalism Color ||
+||02||[[Flat Shoes]] ||
+||03||[[May%20I%20Come%20In%3F|May I Come In?]] ||
+||04||'''Venn diagram -interlude-''' ||
+||05||[[Mello Mello|mello mello]] ||
+||06||[[Bluesy]] ||
+
+Cradle Edge 2집 May I come in?의 4번째 수록곡. 다른 Cradle Edge의 곡들과는 다르게 보컬이 없다는 차별점이 있다.
+
+BGA는 전용이지만 레이어에 가까운 연출.
+== 패턴 ==
+=== 5K ONLY ===
+1.0 버전에서는 표기 난이도 5였는데, 1.2a 버전에서 9로 4단계 상승했다.
+
+=== 5K RUBY ===
+
+=== 5K STANDARD ===
+[[youtube(e4AnFbl2mnM)]]
+HD MIX
+
+하드 패턴은 속주 구간에서 상위 레벨에서나 나올법한 스크래치가 마구 쏟아져 나오는데, 도저히 8레벨이라고는 볼 수 없을 정도의 심각한 사기 난이도이다. 결국 1.5버전에서 레벨 10으로 상승하였다.
+
+=== 7K STANDARD ===
+
+=== 10K MANIAC ===
+
+=== 14K MANIAC ===
+
+[<iframe width="720" height="615" src="//www.youtube.com/embed/IAh_JrhKz8o" frameborder="0" allowfullscreen></iframe>[youtube(movieIdHere)]]
+
+HD MIX.
+=== EZ2CATCH ===
+
+=== TURNTABLE ===

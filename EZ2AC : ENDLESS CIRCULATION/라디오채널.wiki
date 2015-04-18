@@ -1,0 +1,565 @@
+||||||||<tablewidth=100%> '''[[EZ2AC : ENDLESS CIRCULATION]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2AC : ENDLESS CIRCULATION/삭제곡|삭제곡]] || [[EZ2AC : ENDLESS CIRCULATION/라디오채널|라디오채널]] || [[EZ2AC : ENDLESS CIRCULATION/히든커맨드|히든커맨드]] || 
+
+[[EZ2AC : ENDLESS CIRCULATION]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2AC EC/라디오채널]]로도 들어올 수 있다.
+ * 5키 라디오의 경우 다음의 자료를 참고하여 작성하였다.
+  * [http://toez2dj.net/zeroboard/zboard.php?id=d_clearguide&no=1091]
+
+[[목차]]
+== 개관 ==
+신곡은 [[Hey Barbie]]를 제외하고 모두 라디오채널에 수록되었다. 이번 작품에서 새로 등장한 라디오 채널은 거의 모든[* 5키 ENDLESS CIRCULATION 채널은 Dancing Light, Distopia 두 곡만 전용 채보이다.] 채보가 스트릿 믹스와는 다른 전용 채보로 구성되어 있다. 심지어 신곡이 아닌 구곡까지도 스트릿 믹스에서 볼 수 없고, 또한 다른 라디오 믹스의 채널과도 겹치지 않는 완전한 해당 채널만의 오리지널 채보들로 구성되어 있다는 것이 큰 특징. 다만 아주 다른 채보는 아니고 채널 난이도를 조정하기 위해 스트릿 채보를 미세하게 변경한 정도이다.
+
+이번 작품부터 채널 난이도에 따라 이하의 등급을 표기하게 되었다.
+ *레벨 5 이하 : EASY
+ *레벨 6~9  : NORMAL
+ *레벨 10~13 : HARD
+ *레벨 14~17 : EXPERT
+ *그외 표기(?, !?, ∞ 등) : UNKNOWN
+== 범례 ==
+||<#F275E1>　|| 2nd ||<#79A46E>　|| 3rd ||<#F0BF5B>　|| 4th ||<#B0B0B0>　|| PT ||<#EE83A3>　|| 6th ||<#FD975B>　|| 7th ||<#E1812D>　|| 1.5 ||<#CB744F>　|| 2.0 ||<#D777EF>　|| CV ||<#FD313F>　|| BE ||<#C5011B>　|| rA ||<#3CB2F6>　|| AE ||<#2CA4E9>　|| IC ||<#81FCDB>　|| EC ||
+
+== 5Radio Mix ==
+=== 기본 채널 ===
+||<tablewidth=600px><#81FCDB>　|| '''ENDLESS CIRCULATION'''[[br]]Infinity Permanent Way |||| Lv.10 ||
+|| 1 ||[[Nothing Else]]|| HD || 1265 ||
+|| 2 ||[[Distopia]]|| ENDLESS || 1503 ||
+|| 3 ||[[Dancing Light]]|| ENDLESS || 811 ||
+|| 4 ||[[Tension]]|| HD || 1111 ||
+|| 참고 ||||||이번 작품의 시그니처 채널. 부제에 오타가 나있는 사소한 실수가 있다.||
+||<#81FCDB>　|| '''Cradle Edge'''[[br]]Brand New Sounds |||| Lv.9 ||
+|| 1 ||[[First Fantasy]]|| Cradle || 899 ||
+|| 2 ||[[On My Way]]|| Cradle || 1578 ||
+|| 3 ||[[Cosmical Rhythm]]|| Cradle || 1245 ||
+|| 4 ||[[M!rror]]|| Cradle || 978 ||
+||<#81FCDB>　|| '''House Nuts'''[[br]]Oldies But Goodies |||| Lv.7 ||
+|| 1 ||[[Give it 2 me]]|| Nuts || 688 ||
+|| 2 ||[[Lie Lie]]|| Nuts || 712 ||
+|| 3 ||[[I've got this feeling|I've got this feeling (Extended Ver.)]]|| Nuts || 476 ||
+|| 4 ||[[I've Fallen]]|| Nuts || 690 ||
+|| 참고 ||||||Give it 2 me에는 변속이 있다.||
+||<#81FCDB>　|| '''Teardrop'''[[br]]Lover's Tragedy |||| Lv.7 ||
+|| 1 ||[[if I couldn't see you again]]|| Teardrop || 1231 ||
+|| 2 ||[[Southwest Cadillac]]|| Teardrop || 651 ||
+|| 3 ||[[One Two Three Four]]|| Teardrop || 540 ||
+|| 4 ||[[Judgement]]|| Teardrop || 604 ||
+||<#81FCDB>　|| '''Fairytales'''[[br]]True Story from Wonderland |||| Lv.9 ||
+|| 1 ||[[Night Madness]]|| Fairytales || 680 ||
+|| 2 ||[[Doll's Garden]]|| Fairytales || 684 ||
+|| 3 ||[[Memories(EZ2DJ)|Memories]]|| ARIXID || 1074 ||
+|| 4 ||[[Orphan Children]]|| Fairytales || 1421 ||
+|| 참고 ||||||Memories는 BE/AE에 등장한 ARIXID 채널의 패턴과 동일하나 롱노트 콤보가 적용되었고, ARIXID 채널에서와는 달리 게이지 증감량이 다른 곡과 동일한 수준이다.||
+||<#81FCDB>　|| '''Flight Plan'''[[br]]Ready to Aviate |||| Lv.9 ||
+|| 1 ||[[Futurist]]|| Flight || 941 ||
+|| 2 ||[[Phat Trash]]|| Flight || 1244 ||
+|| 3 ||[[Cosmic Bird]]|| Flight || 957 ||
+|| 4 ||[[Dancing Light]]|| Flight || 796 ||
+||<#81FCDB>　|| '''virtuoso'''[[br]]concerto no.6 |||| Lv.9 ||
+|| 1 ||[[Withered Heights]]|| virtuoso || 653 ||
+|| 2 ||[[A Glimmer]]|| virtuoso || 1025 ||
+|| 3 ||[[Stranger]]|| virtuoso || 903 ||
+|| 4 ||[[Orphan Children]]|| virtuoso || 1136 ||
+||<#81FCDB>　|| '''Game World'''[[br]]PRESS ANY KEY BUTTON TO START |||| Lv.10 ||
+|| 1 ||[[Delight]]|| Game || 868 ||
+|| 2 ||[[B.O.W.]]|| Game || 925 ||
+|| 3 ||[[Minus 2]]|| Game || 1131 ||
+|| 4 ||[[Dream Walker]]|| Game || 961 ||
+||<#81FCDB>　|| '''Trickster'''[[br]]The Hand is Quicker than The Eye |||| Lv.!? ||
+|| 1 ||[[You love the life you live|You love the life you live (Remix)]]|| Trickster || 353 ||
+|| 2 ||[[Red Ocean]]|| Trickster || 897 ||
+|| 3 ||[[Mystic Dream 9903 ~Horror Mix~|Mystic Dream 9903 (Horror Mix)]]|| Trickster || 513 ||
+|| 4 ||[[Be Mine!]]|| Trickster || 685 ||
+|| 참고 ||||||변속 채널이다. 채보 자체는 별로 어렵지는 않지만, 1, 2, 3, 4 스테이지 모두다 변속이 다짜고짜 등장해서 엄청나게 짜지는 판정과 잘못하면 우루루 깎여나가는 게이지를 구경할수도 있고, 변속 덕에 패턴에 익숙해지기가 힘들어 진다.||
+||<#81FCDB>　|| '''FUSE'''[[br]]FUSED OUT |||| Lv.15 ||
+|| 1 ||[[Dream Walker]]|| FUSE || 2981 ||
+|| 2 ||[[Orphan Children]]|| FUSE || 2118 ||
+|| 3 ||[[Shine Through]]|| FUSE || 2066 ||
+|| 4 ||[[BEATRICE]]|| FUSE || 1982 ||
+|| 참고 ||||||레벨은 15로 표기되어있지만, [EZ2DJ 5대 채널|구 5대 채널]을 포함한 15레벨 채널 치고는 난이도는 상당히 낮은 편. 전체적으로 스트릿 하드(슈하)패턴의 강화판 패턴들로 이루어져 있다. 1스테이지 Dream Walker은 중반의 동시치기가 강화되고, 하드패턴에서는 단순 겹롱놋 구간이 겹롱놋+잡놋 형태로 바뀌었으며, 2스테이지 Orphan Children은 전체적으로 하드 패턴에 살이 붙은 형태. 3스테이지 Shine Through는 하드 패턴과 비교하여 스크래치가 좀 더 밀도있고 까다롭게 떨어지며, 중반과 후반에 한 번씩 떨어지는 뭉터기 폭타가 하드에 비해 훨씬 강화되었다. 4스테이지 BEATRICE는 14레벨 최약체로 평가되는 SHD패턴과 비교하면, 이쪽이 좀 더 14레벨답다는 평으로, SHD 패턴의 강화형태이며 14레벨 상급 정도의 체감 난이도를 보여준다.||
+||<#81FCDB>　|| '''Nervous Breakdown'''[[br]]Neurasthenia || Lv.17 ||
+|| 1 ||[[Zeroize]]|| Nervous || 1281 ||
+|| 2 ||[[Messier 333]]|| Nervous || 2885 ||
+|| 3 ||[[神威]]|| Nervous || 3415 ||
+|| 4 ||[[Return to Universe]]|| Nervous || 2081 ||
+|| 참고 ||||||부제는 Neurasthenia[* 신경 쇠약이라는 뜻.] [http://www.toez2dj.net/zeroboard/zboard.php?id=d_playmovie&no=16005 플레이 영상][[br]]버전업이 되면서 이 채널의 난이도가 안드로메다로 치솟았다. AEIC 널버스채널 곡들 중에서 그나마 쉬웠던 메시어가 그야말로 발광 패턴으로 바뀌었다. 이번 버젼에서 앞 3곡은 어렵게 되고 리턴투만 패턴이 SHD보다 약간 쉬워졌는데, 리턴투의 체감난이도는 대략 15~16.[[br]]1스테이지의 Zeroize는 전체적으로는 SHD와 비슷하지만 초반에 롱스크가 나오고 중반에 하드패턴으로 바뀌었다. 후반에는 정박스크가 나오는데 이전 패턴에서는 키만 치면 됐었는데 이젠 스크까지 돌려야한다. SHD로 나왔을 시절에도 어렵던 곡이었는데 채널이 리뉴얼되면서 더 어려워졌다.[[br]]체감난이도는 대략 15~16 정도. 노트는 분명 Zeroize SHD보다도 쉬워졌지만, 제일 마지막 일명 키기깁 부분에선, 스크 정박+키기깁에 가끔 나오는 페달 정박 2개의 형태이기 때문에, 키기깁과 스크를 동시에 커버해야하므로, 좀더 까다로운 채보라고 할 수 있다.[[br]]2스테이지의 Messier 333은 중반 이전까지는 론도 패턴과 차이가 없다. 하지만 중반 이후부터는 2겹폭타가 쉴새없이 쏟아지고, 거기에 모자라서 사이사이에 연타까지 껴있다. 빅장 전 부분에는 6초 동안 일자연타가 쏟아지고, 빅장후 바로 1/8박 폭타가 우르르 쏟아진다! 일명 발광 패턴. 순수 노트 채보만으로는 거의 우로보로스의 Legend나 데라루에 필적한다. 그놈의 빅장 부분 때문에...[[br]]3스테이지의 神威는 특징적으로 3S 유튜브 채널에서 공개한 BGA의 음악과 비슷하게 전개되도록 바뀌었으며, 패턴은 만만한 구간이 없을 정도로 어려워졌다. 단적인 예가 잽잽잽 구간인데 전 패턴에서는 스크만 돌리고 키패턴도 단순했던 부분이 EZ2ON이나 클럽, 스페이스, 캐치 패턴에서 주로 쓰던 사운드를 활용한 16비트 트릴로 바뀌었다. 그래서 한 눈 팔면 판정이 날아가거나 폭사하는 경우가 생긴다. 이 트릴 부분이 말이 쉬워서 트릴부분이지 직접 해 보면 얼마나 충격과 공포인지 깨닫게 된다. 트릴 사이에 롱놋이 나오면서 스크 잽잽부분...[[br]]사실 이 트릴노트가 중간에 16비트 스크+트릴에 나오는 2노트 부분과 같은 밀도이기 때문에 생각보다 많이 까다롭다. 그리고 중간에 16비트 계단부분도 기존의 카무이 하드와 달리 노트의 밀도를 거의 2배로 뻥튀기시켜서 노트를 적당히 비비더라도 게이지가 기본적으로 1/3이 닳을 정도로 매우 어려워졌다.[[br]]단 후반부에는 페달 간격이 2배로 줄어들어서 빠른 정박페달이 나오고, 카무이 하드나 바이올렛 카무이의 꽃이라 부를 수 있는 16비트 스크+롱잡놋이 빠지고, 정박 페달+롱잡놋+스크 뜨문뜨문이기 때문에, 최후반부 만큼은 기존의 카무이 하드보다도 매우 쉬워졌다. 하지만 앞부분이 워낙 헬이라서 바카와 동급이면 동급이지, 더 쉬운 곡이라고 하기엔 난감한 곡이 됬다.[[br]]4스테이지의 Return to Universe는 하드와 슈하를 섞어 놓은 듯 한 패턴이다. 초반부분과 중반부분의 일자연타를 제외하면 거의 슈하와 비슷하다. 의외로 난이도가 슈하보다도 쉬워진 느낌이라서 사실상 임팩트는 거의 없다. 2스테이지의 Messier 333과 3스테이지의 神威를 넘기면 거의 99% 클리어 확정이므로, 길게 설명할 부분도 크게 없는 비운의 곡... 다만 여전히 함부로 볼 순 없는 게, 곡이 절정부에 달하는 부분은 SHD보다 더 어렵다. 스크래치는 아무런 변화가 없는데 페달이나 건반부가 평소 때처럼 겹폭타로 나와서 더 어려워지고, 발광 직전에는 1자연타, 발광 때는 16비트로 스크래치까지 마구잡이로 쏟아내는 게 무시무시하다.||
+||<#B0B0B0>　|| '''12+'''[[br]]Platinum |||| Lv.14 ||
+|| 1 ||[[20000000000]]|| HD || 1156 ||
+|| 2 ||[[Panic Strike]]|| HD || 2008 ||
+|| 3 ||[[Zeroize]]|| SHD || 1252 ||
+|| 4 ||[[Fire Storm]]|| SHD || 1338 ||
+||<#D777EF>　|| '''Violet'''[[br]]CODENAME : Violet |||| Lv.16 ||
+|| 1 ||[[Tempus Praeterita]]|| Violet || 1695 ||
+|| 2 ||[[Blood Castle]] (Remix)|| Violet || 1727 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| Violet || 1868 ||
+|| 4 ||[[神威]]|| Violet || 3333 ||
+||<#FD313F>　|| '''AYA'''[[br]]BONUS EDITION revision A |||| Lv.10 ||
+|| 1 ||[[주문을 외워봐]]|| AYA || 890 ||
+|| 2 ||[[Sensation of Stage]]|| AYA || 1204 ||
+|| 3 ||[[Skyward]]|| AYA || 1070 ||
+|| 4 ||[[Dreamy Days]]|| AYA || 1583 ||
+||<#FD313F>　|| '''ohcodus'''[[br]]BONUS EDITION revision A |||| Lv.14 ||
+|| 1 ||[[Thrust Out]]|| ohcodus || 1474 ||
+|| 2 ||[[Blood Castle]] (Remix)|| ohcodus || 1459 ||
+|| 3 ||[[Rosen Vampir]]|| ohcodus || 1963 ||
+|| 4 ||[[Apollon]]|| ohcodus || 2212 ||
+||<#2C7BC0>　|| '''Lounge J'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.5 ||
+|| 1 ||[[Spotlight]]|| Lounge || 409 ||
+|| 2 ||[[Catch The Flow]]|| Lounge || 378 ||
+|| 3 ||[[R.D.M.]]|| Lounge || 904 ||
+|| 4 ||[[Funny Funky]]|| Lounge || 524 ||
+||<#3CB2F6>　|| '''Heart-String'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.8 ||
+|| 1 ||[[Anemia]]|| Heart || 676 ||
+|| 2 ||[[Special K]]|| Heart || 827 ||
+|| 3 ||[[Sign Mellow]]|| Heart || 2063 ||
+|| 4 ||[[Yes Yes]]|| Heart || 1033 ||
+||<#2C7BC0>　|| '''European Express'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.9 ||
+|| 1 ||[[Say That U]]|| European || 834 ||
+|| 2 ||[[Skyward]]|| European || 909 ||
+|| 3 ||[[Rising In My Heart]]|| European || 1305 ||
+|| 4 ||[[BLEED]]|| European || 1164 ||
+||<#3CB2F6>　|| '''Retro-Respect-Revisited'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.10 ||
+|| 1 ||[[Let It Go]]|| RRR || 870 ||
+|| 2 ||[[Say That U]]|| RRR || 864 ||
+|| 3 ||[[Showdown]]|| RRR || 963 ||
+|| 4 ||[[Happiness]]|| RRR || 2187 ||
+||<#3CB2F6>　|| '''Decadance'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.15 ||
+|| 1 ||[[Sand Storm]]|| Nemesis || 1210 ||
+|| 2 ||[[Fire Storm]]|| Nemesis || 1802 ||
+|| 3 ||[[Lucid]]|| D || 2543 ||
+|| 4 ||[[The Ashtray]]|| Decadance || 2167 ||
+||<#3CB2F6>　|| '''Abscondence'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.16 ||
+|| 1 ||[[Nihilism]]|| Abscondence || 2475 ||
+|| 2 ||[[Morgenglut 2012]]|| Abscondence || 2072 ||
+|| 3 ||[[The Ashtray]]|| Abscondence || 2160 ||
+|| 4 ||[[Taillight Phantom]]|| Abscondence || 2227 ||
+||<#2C7BC0>　|| '''Total Mayhem'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.16 ||
+|| 1 ||[[AXIS]]|| TM || 1759 ||
+|| 2 ||[[Nachthexen]]|| TM || 2315 ||
+|| 3 ||[[Morgenglut 2012]]|| TM || 2430 ||
+|| 4 ||[[Crisp]]|| TM || 3008 ||
+|| ||||||난이도 16으로 책정되었다.||
+||<#E1812D>　|| '''znpfg'''[[br]]Special Pattern Collection |||| Lv.? ||
+|| 1 ||<|4>특수 패턴 랜덤 선곡[[br]]자세한 목록은 [[EZ2AC/Znpfg]] 참고|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#81FCDB>　|| '''RANDOM'''[[br]]EZ2AC RANDOM CHANNEL |||| Lv.? ||
+|| 1 ||<|4>노멀 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+||<#81FCDB>　|| '''HARD RANDOM'''[[br]]EZ2AC HARD RANDOM CHANNEL |||| Lv.? ||
+|| 1 ||<|4>하드 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 해금 채널 ===
+||<tablewidth=600px><#81FCDB>　　|| '''Houseplan Inc.'''[[br]]Tonight is the night we dance |||| Lv.8 ||
+|| 1 ||[[Get It Up]]|| Houseplan || 701 ||
+|| 2 ||[[True]]|| Houseplan || 803 ||
+|| 3 ||[[Departure]]|| Houseplan || 602 ||
+|| 4 ||[[FUTURE NIGHT]]|| Houseplan || 1076 ||
+|| ||||||'''E'''{{{#grey NDLESS CIRCULATION}}}||
+||<#81FCDB>　　|| '''SpringHead'''[[br]]Musician's Collection |||| Lv.11 ||
+|| 1 ||[[Sensation of Stage]]|| SpringHead || 1184 ||
+|| 2 ||[[Again(EZ2AC)|Again]]|| SpringHead || 867 ||
+|| 3 ||[[1950]]|| SpringHead || 1149 ||
+|| 4 ||[[Tension]]|| SpringHead || 1080 ||
+|| ||||||{{{#grey E}}}'''N'''{{{#grey DLESS CIRCULATION}}}||
+||<#81FCDB>　　|| '''Ethereal Voices'''[[br]]DIVE 2 deep voices |||| Lv.8 ||
+|| 1 ||[[Rising In My Heart]]|| Ethereal || 946 ||
+|| 2 ||[[Luv Message]]|| Ethereal || 949 ||
+|| 3 ||[[Again(EZ2AC)|Again]]|| Ethereal || 726 ||
+|| 4 ||[[On My Way]]|| Ethereal || 1501 ||
+|| ||||||{{{#grey EN}}}'''D'''{{{#grey LESS CIRCULATION}}}||
+||<#81FCDB>　　|| '''Swallow Tail'''[[br]]Stylish Music Collaboration |||| Lv.12 ||
+|| 1 ||[[Again(EZ2AC)|Again]]|| Swallow || 926 ||
+|| 2 ||[[Shove it]]|| Swallow || 1939 ||
+|| 3 ||[[Push me again]]|| Swallow || 1152 ||
+|| 4 ||[[FUTURE NIGHT]]|| Swallow || 1397 ||
+|| ||||||{{{#grey END}}}'''L'''{{{#grey ESS CIRCULATION}}}||
+||<#81FCDB>　　|| '''Team Indigo Wolves'''[[br]]Pattern Designer's Alliance |||| Lv.12 ||
+|| 1 ||[[Distopia]]|| Indigo || 1815 ||
+|| 2 ||[[Stranger]]|| Indigo || 1170 ||
+|| 3 ||[[Shove it]]|| Indigo || 1654 ||
+|| 4 ||[[FUTURE NIGHT]]|| Indigo || 1536 ||
+|| ||||||{{{#grey ENDL}}}'''E'''{{{#grey SS CIRCULATION}}}||
+||<#81FCDB>　　|| '''Steel Heart'''[[br]]Cold Blooded |||| Lv.10 ||
+|| 1 ||[[Q Factor]]|| SteelHeart || 933 ||
+|| 2 ||[[Riff Guy]]|| SteelHeart || 799 ||
+|| 3 ||[[Be-at Feedback]]|| SteelHeart || 875 ||
+|| 4 ||[[UniT]]|| SteelHeart || 1265 ||
+|| ||||||{{{#grey ENDLE}}}'''S'''{{{#grey S CIRCULATION}}}||
+||<#81FCDB>　　|| '''［null］'''[[br]]null |||| Lv.13 ||
+|| 1 ||[[Fallback]]|| null || 1368 ||
+|| 2 ||[[Hesitate]]|| null || 1649 ||
+|| 3 ||[[Tron]]|| null || 1851 ||
+|| 4 ||[[Indistinction]]|| null || 1925 ||
+|| ||||||{{{#grey ENDLES}}}'''S '''{{{#grey CIRCULATION}}}||
+||<#81FCDB>　　|| '''Around The World'''[[br]]From Toledo to Nairobi |||| Lv.8 ||
+|| 1 ||[[Todos Los DIas]]|| Around || 829 ||
+|| 2 ||[[Stranger]]|| Around || 1018 ||
+|| 3 ||[[The 3rd Place]]|| Around || 736 ||
+|| 4 ||[[Magic Square]]|| Around || 847 ||
+|| ||||||{{{#grey ENDLESS }}}'''C'''{{{#grey IRCULATION}}}||
+||<#81FCDB>　　|| '''fromsmk'''[[br]]Musician's Collection |||| Lv.10 ||
+|| 1 ||[[Romance for Moon]]|| fromsmk || 1054 ||
+|| 2 ||[[Sigma]]|| fromsmk || 864 ||
+|| 3 ||[[Frozen Eyes]]|| fromsmk || 1322 ||
+|| 4 ||[[Magic Square]]|| fromsmk || 1258 ||
+|| ||||||{{{#grey ENDLESS C}}}'''I'''{{{#grey RCULATION}}}||
+||<#81FCDB>　　|| '''on the beach'''[[br]]Memories of That Summer |||| Lv.8 ||
+|| 1 ||[[Vintage Summer]]|| beach || 834 ||
+|| 2 ||[[In a Nutshell]]|| beach || 678 ||
+|| 3 ||[[Sentimental No! No!]]|| beach || 556 ||
+|| 4 ||[[Rendezvous Coast]]|| beach || 659 ||
+|| ||||||{{{#grey ENDLESS CI}}}'''R'''{{{#grey CULATION}}}||
+||<#81FCDB>　　|| '''24/7'''[[br]]24 hours at day and 7 days at week |||| Lv.8 ||
+|| 1 ||[[Aniart]]|| 24/7 || 501 ||
+|| 2 ||[[Todos Los Dias]]|| 24/7 || 900 ||
+|| 3 ||[[Break of Dawn]]|| 24/7 || 1308 ||
+|| 4 ||[[The Onyx Night Sky]]|| 24/7 || 849 ||
+|| ||||||{{{#grey ENDLESS CIR}}}'''C'''{{{#grey ULATION}}}||
+||<#81FCDB>　　|| '''Flow.D'''[[br]]Flow Down |||| Lv.11 ||
+|| 1 ||[[Entire]]|| Flow.D || 1143 ||
+|| 2 ||[[BEATRICE]]|| Flow.D || 1265 ||
+|| 3 ||[[Total Eclipse]]|| Flow.D || 1413 ||
+|| 4 ||[[Break of Dawn]]|| Flow.D || 1476 ||
+|| ||||||{{{#grey ENDLESS CIRC}}}'''U'''{{{#grey LATION}}}||
+||<#81FCDB>　　|| '''Team Progressive'''[[br]]Team Progressive Sound Set |||| Lv.10 ||
+|| 1 ||[[Airwave]]|| TPRO || 1304 ||
+|| 2 ||[[Rendezvous Coast]]|| TPRO || 914 ||
+|| 3 ||[[BEATRICE]]|| TPRO || 1193 ||
+|| 4 ||[[QUADCORE]]|| TPRO || 911 ||
+|| ||||||{{{#grey ENDLESS CIRCU}}}'''L'''{{{#grey ATION}}}||
+||<#81FCDB>　　|| '''Ghetto Box'''[[br]]Rhyme and Poetry |||| Lv.8 ||
+|| 1 ||[[Get the beat|Get The Beat (Nimble Mix)]]|| Ghetto || 453 ||
+|| 2 ||[[Your Style]]|| Ghetto || 768 ||
+|| 3 ||[[Unknown H2]]|| Ghetto || 469 ||
+|| 4 ||[[Black tinted alley]]|| Ghetto || 639 ||
+|| ||||||{{{#grey ENDLESS CIRCUL}}}'''A'''{{{#grey TION}}}||
+||<#81FCDB>　　|| '''ATAS'''[[br]]Planet of Trance System |||| Lv.12 ||
+|| 1 ||[[Dancing Light]]|| ATAS || 1019 ||
+|| 2 ||[[AXIS]]|| ATAS || 1182 ||
+|| 3 ||[[Starlight Factory]]|| ATAS || 1172 ||
+|| 4 ||[[Total Eclipse]]|| ATAS || 1294 ||
+|| ||||||{{{#grey ENDLESS CIRCULA}}}'''T'''{{{#grey ION}}}||
+||<#81FCDB>　　|| '''Outerspace'''[[br]]Beyond The Atmosphere |||| Lv.11 ||
+|| 1 ||[[Actias Artemis]]|| Outerspace || 949 ||
+|| 2 ||[[Planet X]]|| Outerspace || 988 ||
+|| 3 ||[[Sigma]]|| Outerspace || 1257 ||
+|| 4 ||[[Starlight Factory]]|| Outerspace || 1131 ||
+|| ||||||{{{#grey ENDLESS CIRCULAT}}}'''I'''{{{#grey ON}}}||
+||<#81FCDB>　　|| '''Sprouts of Rebellion'''[[br]]Prepare For Next Step |||| Lv.10 ||
+|| 1 ||[[WHEEL OF FIRE]]|| SoR || 974 ||
+|| 2 ||[[Push me again]]|| SoR || 732 ||
+|| 3 ||[[Shine Through]]|| SoR || 1204 ||
+|| 4 ||[[A Site De La Rue]]|| SoR || 1051 ||
+|| ||||||{{{#grey ENDLESS CIRCULATI}}}'''O'''{{{#grey N}}}||
+||<#81FCDB>　　|| '''PEENA'''[[br]]I Will Remember You Forever : EC |||| Lv.9 ||
+|| 1 ||[[Magic Square]]|| PEENA || 808 ||
+|| 2 ||[[Phat Trash]]|| PEENA || 1203 ||
+|| 3 ||[[Actias Artemis]]|| PEENA || 1013 ||
+|| 4 ||[[northpole]]|| PEENA || 1132 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''||
+||<#81FCDB>　　|| '''HFS+'''[[br]]VJ COLLECTION |||| Lv.11 ||
+|| 1 ||[[Rendezvous Coast]]|| HFS+ || 694 ||
+|| 2 ||[[Dream Walker]]|| HFS+ || 1821 ||
+|| 3 ||[[UniT]]|| HFS+ || 1243 ||
+|| 4 ||[[Legend]]|| HFS+ || 1780 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''||
+||<#81FCDB>　　|| '''Mutant'''[[br]]Extraordinary Pattern Selection |||| Lv.? ||
+|| 1 ||<|4>특수 패턴 랜덤 선곡[[br]]자세한 목록은 [[EZ2AC/Mutant]] 참고|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+|| ||||||{{{#grey ENDLESS   CIRCULATIO}}}'''N''' 
+AE, AEIC때부터 있었던 채널. 그러나 EC신규곡들이 추가되면서 EC신규채널로 취급되었다.||
+||<#81FCDB>　　|| '''END'''[[br]]The END |||| Lv.16 ||
+|| 1 ||[[WHEEL OF FIRE]]|| END || 2317 ||
+|| 2 ||[[Push me again]]|| END || 2096 ||
+|| 3 ||[[Orphan Children]]|| END || 2708 ||
+|| 4 ||[[Total Eclipse]]|| END || 2384 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''[[br]]EC의 최종 해금 채널중 하나로, 신 5대 채널들에 맞먹는 고난이도 채널이지만 함께 등장한 최종보스채널 Ouroboros에 묻힌 면이 적잖이 있는 채널. 애석하게도 물렙소리를 매우 많이 듣는 채널이기도 한데, 기존의 라디오채널의 16채널과 비교해보면 왜 물렙소리를 듣는지는 쉽게 알 수 있다. 아무래도 라디오채널 특성상 보통 끝의 4스테이지에 엄청 어려운 곡을 배치해서 클리어를 어렵게하거나, 좀 예외적으로 토탈메이햄이나 널버스처럼 3스테이지에 해당 스테이지의 보스곡을 두는 경우도 있어서, 쉽게 죽곤 하는데, 앤드채널은 비교적 난이도가 고르게 분포되어 있어서 특정곡이 매우 쉬운 느낌도 비교적 적고, 특정곡이 매우 어려워서 클리어조차도 어렵게 되는 경우는 잘 없기 때문이다. 디채널의 하매, 토탈메이햄의 모겐, 바이올렛의 카무이를 떠올려보자. 1스테이지 Wheel Of Fire는 슈퍼하드에서 강화된 패턴으로 트릴이 더욱 많아졌다. 특히 스크와 연타를 연달아 쳐야하기 때문에 더 어렵다. 페달 박자가 좀 불규치적인 느낌이라 매우 짜증나는 곡....이지만 2스테이지의 Push Me Again비하면... 2스테이지 Push Me Again 역시 폭타와 스크가 더욱 강화되어서 나왔다. 곡이 끝이 날 듯 안 날 듯하면서 심심하면 쏟아지는 소나기 스크래치에, 결코 만만치 않은 고밀도의 건반부 폭타가 겹쳐서 어렵기도 어렵지만 까다로운 느낌이 강하게 드는 패턴. 3스테이지 Orphan Children은 이 채널의 최대 고비라 할 정도로 어렵다. 특히 겹계단 처리와 롱놋과 잡놋 처리는 이 채널의 하이라이트다. 5키의 모든 Orphan Children중에선 가장 어렵다. 앤드>퓨즈>하드 순서. 롱잡놋이 주 패턴이기에, 마지막 클라이스막스 부분의 정박 페달+정박 스크+고밀도의 롱잡놋 부분만 잘 넘기는 것이 관건이다. 4스테이지 Total Eclipse는 키음을 모두 뽑아온 듯한 패턴으로 무장했다. 연타와 롱놋속의 잡놋 처리가 관건. 3스테이지의 칠드런이 워낙 막강한 탓에 마지막 스테이지치고는 크게 위압감이 떨어지는 곡. 대부분 앤드채널의 보스곡은 2스테이지나 3스테이지에 몰표다(...).||
+||<#81FCDB>　　|| '''Ouroboros'''[[br]]Serpent of Destruction |||| Lv.∞ ||
+|| 1 ||[[Dream Walker]]|| Ouroboros || 2361 ||
+|| 2 ||[[Starlight Factory]]|| Ouroboros || 2151 ||
+|| 3 ||[[Legend]]|| Ouroboros || 3283 ||
+|| 4 ||[[A Site De La Rue]]|| Ouroboros || 3276 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''[[br]]그리스 신화에 등장하는, 자신의 꼬리를 물고 있는 [[우로보로스]]를 컨셉으로 한 채널이다. 작품의 부제부터 보스 채널 이름까지 '끝나지 않음'을 강조한 것. EC의 최종보스채널. 난이도가 무한대(∞)로 표시되어 있으며, 총 노트수가 11,071개에 달하는 무지막지한 채널이다.[[br]]처음 나왔을 때 '과연 이게 클리어가 가능할까?' 라고 많은 이들이 생각했지만, 하루만에 LRON라는 유저가 클리어했다.[[br]]1스테이지 Dream Walker는 작곡가인 HiRO가 직접 만든 패턴으로 기존의 5스트릿의 롱놋이 사라지고 연타로 바뀌었는데, 빠른 BPM으로 인해 더 어렵게 느껴진다.
+체감난이도는 사람들마다 의견이 분분하다. 평균적으로는 15 상위급. 동시치기가 약한사람에겐 16이상급의 난이도라 여겨진다. 또한 난이도와는 별개로, 5키 그 어느곡들보다도 체력소모가 엄청난 패턴이기도 하다. 같은 우로보로스 채널의 2.3.4스테이지 곡들을 치기전에 진을 빼는 패턴이기에 우로보로스의 전체적인 체감난이도를 올리는 발판 역할을 맡았다.[[br]]2스테이지 Starlight Factory는 폭타의 밀도가 더 높아져 조밀조밀하게 나와 매우 복잡해진 패턴으로 바뀌었다. 체감난이도는 대략적으로 16~17. 주로 비교되는 대상은 스트릿에 있는 17난이도의 리턴투 슈하. 둘다 폭타라는 비슷한 성격의 곡이고 난이도도 실제로 비슷한 단계라서 곧 잘 비교되곤 한다. 리턴투는 메시어의 폭타에 스크 페달이 강화된 패턴+디하매 트릴이지만, 우로보로스의 Starlight Factory는 특유의 겹노트 폭타로 인해서 개인차가 심한 영역.[[br]]3스테이지 Legend는 Legacy Of Hatred를 연상시키는 고밀도 폭타에 빠른 BPM으로 중무장해, 대부분의 플레이어들이 3스테이지에서 죽을 정도로 매우 어렵다. 체감난이도는 적어도 18이상 급의 패턴. 5키 스트릿에서 공식적인 18이라는 난이도의 패턴이 존재하지 않아서 체감 난이도로밖에 이야기를 못 하지만, 실제 숫자표기로 나오더라도 18이라고 해도 납득이 갈 정도로 어려운 곡이다. 특히나 스트릿 하드 패턴과 마찬가지로 후살성이 짙은데, 그 수준이 천하의 파톰 슈하마저도 능가하는 후살의 끝판왕이라도 불러도 될 정도. 그놈의 압살적인 후살 때문에 우로보로스의 보스는 4스테이지가 아닌 3스테이지라고 하는 유저들도 다수이다.[[br]]4스테이지 A Site De La Rue는 그야말로 종합선물세트. 빅장과 폭풍스크래치, 그리고 고밀도 폭타의 조화로 플레이하는 플레이어들을 멘붕시키는데, 특히 폭풍스크래치와 고밀도 폭타를 동시에 소화해야하는 처리력이 관건. 우로보로스 채널의 제일 마지막 패턴이자 ez2dj 5키에 한해서 최종보스곡으로 평가받는 패턴이다. 체감난이도는 물론 18급. 3스테이지의 Legend와 거의 동급수준으로 쳐준다. 다만 4스테이지에 있다는 특성상, 이전 3스테이지에서 체력을 소진할 대로 소진한 경우가 대다수이기에 실제 클리어 난이도는 레전드를 능가한다.||
+== 7Radio Mix ==
+=== 기본 채널 ===
+||<tablewidth=600px><#81FCDB>　|| '''Cradle Edge'''[[br]]Brand New Sounds |||| Lv.9 ||
+|| 1 ||[[First Fantasy]]|| Cradle || 916 ||
+|| 2 ||[[On My Way]]|| Cradle || 1023 ||
+|| 3 ||[[Cosmical Rhythm]]|| Cradle || 1124 ||
+|| 4 ||[[M!rror]]|| Cradle || 956 ||
+|| ||||||요구 달성률 : 10-17-26-35[[br]]패턴들은 노멀을 강화한 수준으로 난이도 자체로 보면 표기 난이도에 맞으나, 퍼센트가 잘 차지 않아서 표기 난이도에 비해 어려운 채널.||
+||<#81FCDB>　|| '''HoR'''[[br]]Hysteric of Rhythm |||| Lv.7 ||
+|| 1 ||[[Withered Heights]]|| HoR || 518 ||
+|| 2 ||[[A Glimmer]]|| HoR || 550 ||
+|| 3 ||[[Tron]]|| HoR || 959 ||
+|| 4 ||[[Stranger]]|| HoR || 762 ||
+|| ||||||요구 달성률 : 8-16-24-32||
+||<#81FCDB>　|| '''House Nuts'''[[br]]Oldies But Goodies |||| Lv.7 ||
+|| 1 ||[[Give it 2 me]]|| Nuts || 688 ||
+|| 2 ||[[Lie Lie]]|| Nuts || 712 ||
+|| 3 ||[[I've got this feeling|I've got this feeling (Extended Ver.)]]|| Nuts || 476 ||
+|| 4 ||[[I've Fallen]]|| Nuts || 690 ||
+|| ||||||요구 달성률 : 10-17-26-35[[br]]5라디오와 마찬가지로 Give it 2 me에는 변속이 있다.||
+||<#81FCDB>　|| '''Flight Plan'''[[br]]Ready to Aviate |||| Lv.8 ||
+|| 1 ||[[Futurist]]|| Flight || 812 ||
+|| 2 ||[[Phat Trash]]|| Flight || 1056 ||
+|| 3 ||[[Cosmic Bird]]|| Flight || 796 ||
+|| 4 ||[[Dancing Light]]|| Flight || 720 ||
+|| ||||||요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Love Affair'''[[br]]An affair to Remember |||| Lv.8 ||
+|| 1 ||[[Lovely Day]]|| Affair || 841 ||
+|| 2 ||[[느낌]]|| Affair || 667 ||
+|| 3 ||[[Stay with me]]|| Affair || 934 ||
+|| 4 ||[[Frozen Eyes]]|| Affair || 512 ||
+|| ||||||요구 달성률 : 10-17-26-35[[br]]Frozen Eyes의 패턴은 EZ 패턴과 유사하다.||
+||<#81FCDB>　|| '''Teardrop'''[[br]]Love's Tragedy |||| Lv.8 ||
+|| 1 ||[[if I couldn't see you again]]|| Theater AE || 1288 ||
+|| 2 ||[[Southwest Cadillac]]|| Teardrop || 656 ||
+|| 3 ||[[One Two Three Four]]|| Teardrop || 557 ||
+|| 4 ||[[Judgement]]|| Teardrop || 628 ||
+|| ||||||요구 달성률 : 11-18-26-35[[br]]if I couldn't see you again의 패턴은 AEIC 채널 Theater AE 전용 패턴을 재활용했다.[[br]]AEIC 당시 존재했던 노트 겹침 버그는 해결되었다.||
+||<#81FCDB>　|| '''virtuoso'''[[br]]Concerto no.6 |||| Lv.9 ||
+|| 1 ||[[Withered Heights]]|| virtuoso || 626 ||
+|| 2 ||[[Atomizer]]|| virtuoso || 1425 ||
+|| 3 ||[[Stranger]]|| virtuoso || 981 ||
+|| 4 ||[[Orphan Children]]|| virtuoso || 1371 ||
+|| ||||||요구 달성률 : 10-19-26-35||
+||<#81FCDB>　|| '''Subliminal Effect'''[[br]]Neurofeedback control |||| Lv.11 ||
+|| 1 ||[[Indistinction]]|| Subliminal || 1136 ||
+|| 2 ||[[Tron]]|| Subliminal || 1393 ||
+|| 3 ||[[Entire]]|| Subliminal || 1020 ||
+|| 4 ||[[A Glimmer]]|| Subliminal || 850 ||
+|| ||||||요구 달성률 : 10-18-25-35||
+||<#81FCDB>　|| '''Trickster'''[[br]]The Hand is Quicker than The Eye |||| Lv.!? ||
+|| 1 ||[[You love the life you live|You love the life you live (Remix)]]|| Trickster || 366 ||
+|| 2 ||[[Red Ocean]]|| Trickster || 927 ||
+|| 3 ||[[Mystic Dream 9903 ~Horror Mix~|Mystic Dream 9903 (Horror Mix)]]|| Trickster || 536 ||
+|| 4 ||[[Be Mine!]]|| Trickster || 692 ||
+|| ||||||요구 달성률 : 11-22.2-33-44[[br]]변속 채널이며, 변속 형태는 5키와 동일하다.||
+||<#81FCDB>　|| '''FUSE'''[[br]]FUSED OUT |||| Lv.15 ||
+|| 1 ||[[Dream Walker]]|| FUSE || 2566 ||
+|| 2 ||[[Orphan Children]]|| FUSE || 2002 ||
+|| 3 ||[[Shine Through]]|| FUSE || 1683 ||
+|| 4 ||[[BEATRICE]]|| FUSE || 1596 ||
+|| ||||||요구 달성률 : 10-17-26-35||
+||<#79A46E>　|| '''Kentauji'''[[br]]3rd TraX ~Absolute Pitch~ |||| Lv.11 ||
+|| 1 ||[[Lie Lie]]|| HD || 822 ||
+|| 2 ||[[Shake]]|| NM || 906 ||
+|| 3 ||[[Y-Gate]]|| EZ || 994 ||
+|| 4 ||[[Give it 2 me]]|| HD || 778 ||
+|| ||||||요구 달성률 : 11-19-27-36||
+||<#B0B0B0>　|| '''VJ. Necobus'''[[br]]Platinum |||| Lv.12 ||
+|| 1 ||[[Mad Robot]]|| HD || 918 ||
+|| 2 ||[[Q Factor]]|| NM || 944 ||
+|| 3 ||[[Climax]]|| HD || 1219 ||
+|| 4 ||[[Panic Strike]]|| EZ || 1747 ||
+|| ||||||요구 달성률 : 10-17-26-35||
+||<#B0B0B0>　|| '''Minan'''[[br]]Platinum |||| Lv.14 ||
+|| 1 ||[[Fire Storm]]|| SHD || 1123 ||
+|| 2 ||[[Zeroize]]|| HD || 1128 ||
+|| 3 ||[[Panic Strike]]|| HD || 2026 ||
+|| 4 ||[[20000000000]]|| SHD || 1118 ||
+|| ||||||요구 달성률 : 11-19-27-36[[br]]롱노트 콤보 일괄적용이 되었음에도 불구하고 '''청취율 보정이 전혀 되어있지 않다.'''[[br]]때문에 패닉 스트라이크의 체감난이도가 급하락.||
+||<#EE83A3>　|| '''SRS(●)'''[[br]]6th TraX ~Self Evolution~ |||| Lv.12 ||
+|| 1 ||[[Go!]]|| SRS || 1005 ||
+|| 2 ||[[Quake in Kyoto]]|| SRS || 1097 ||
+|| 3 ||[[Night Madness]]|| SRS || 995 ||
+|| 4 ||[[20000000000]]|| SRS || 1121 ||
+|| ||||||요구 달성률 : 10-19-27-36[[br]]흔히 퍼진 일반 6th 패턴이 아닌, 일부 게임장에만 존재했던 6th 1.3ver 패턴이다.||
+||<#CB744F>　|| '''Sound Addict'''[[br]]7th TraX ~Resistance~ |||| Lv.13 ||
+|| 1 ||[[Hypnotize]]|| SHD || 1131 ||
+|| 2 ||[[Feel So Sad]]|| HD || 1171 ||
+|| 3 ||[[Weird Wave]]|| HD || 1083 ||
+|| 4 ||[[Y-Gate]]|| HD || 1335 ||
+|| ||||||요구 달성률 : 11-18-27-36||
+||<#CB744F>　|| '''Redemption'''[[br]]7th TraX ~Resistance~ |||| Lv.15 ||
+|| 1 ||[[DIEOXIN]]|| Redemption || 1522 ||
+|| 2 ||[[Q Factor]]|| HD || 1240 ||
+|| 3 ||[[R.F.C.]]|| HD || 1159 ||
+|| 4 ||[[Be-at Feedback]]|| SHD || 1464 ||
+|| ||||||요구 달성률 : 11-18-27-36||
+||<#D777EF>　|| '''Violet'''[[br]]CODENAME : Violet |||| Lv.16 ||
+|| 1 ||[[Tempus Praeterita]]|| Violet || 1775 ||
+|| 2 ||[Blood Castle|Blood Castle ~Remix~]|| Violet || 1708 ||
+|| 3 ||[[Eraser Rain for GAIA]]|| Violet || 1896 ||
+|| 4 ||[[神威]]|| Violet || 3439 ||
+|| ||||||요구 달성률 : 10-20-30-40||
+||<#C5011B>　|| '''VAi2'''[[br]]BONUS EDITION revision A |||| Lv.6 ||
+|| 1 ||[[I've got this feeling]]|| VAi2 || 307 ||
+|| 2 ||[[Appeal]]|| VAi2 || 444 ||
+|| 3 ||[[It's My Secret]]|| VAi2 || 524 ||
+|| 4 ||[[You Are The One For Me]]|| VAi2 || 587 ||
+|| ||||||요구 달성률 : 11-18-27-36||
+||<#3CB2F6>　|| '''zest:rave'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.9 ||
+|| 1 ||[[The Onyx Night Sky]]||  || 736 ||
+|| 2 ||[[Rising In My Heart]]||  || 879 ||
+|| 3 ||[[The Ashtray]]||  || 1135 ||
+|| 4 ||[[Nihilism]]||  || 1059 ||
+|| ||||||요구 달성률 : 10-17-26-35||
+||<#2CA4E9>　|| '''Lotze'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.12 ||
+|| 1 ||[[적월애]]||  || 1002 ||
+|| 2 ||[[Andes]]||  || 1707 ||
+|| 3 ||[[Illusion]]||  || 1362 ||
+|| 4 ||[[weep Irish]] : RE||  || 1535 ||
+|| ||||||요구 달성률 : 10-17-26-35||
+||<#3CB2F6>　|| '''wr8ng q:'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.13 ||
+|| 1 ||[[Red Ocean]] ~Vermillion Surf Edit~ || wr8ng || 952 ||
+|| 2 ||[[Envy Mask]] ~Thousand Scars Edit~ || wr8ng || 851 ||
+|| 3 ||[[Climax]] ~Panic Disorder Edit~ || wr8ng || 1549 ||
+|| 4 ||[[Red Hot]] ~Chili Peppers Edit~ || wr8ng || 732 ||
+|| ||||||요구 달성률 : 10-17-26-35[[br]]Red Hot 리믹스 부제에서 Peppers가 Pepers로 오타가 나 있다.||
+||<#2CA4E9>　|| '''yak_won'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.13 ||
+|| 1 ||[[Extra Wave]]|| yak_won || 1282 ||
+|| 2 ||[[Out of the Blue]]|| yak_won || 1706 ||
+|| 3 ||[[Wind Tales]]|| yak_won || 1871 ||
+|| 4 ||[[Crisp]]|| yak_won || 1920 ||
+|| ||||||요구 달성률 : 14-24-34-44||
+||<#3CB2F6>　|| '''Abscondence'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.16 ||
+|| 1 ||[[Nihilism]]|| Abscondence || 2313 ||
+|| 2 ||[[The Ashtray]]|| Abscondence || 1655 ||
+|| 3 ||[[Morgenglut 2012]]|| Abscondence || 2302 ||
+|| 4 ||[[Taillight Phantom]]|| Abscondence || 1954 ||
+|| ||||||요구 달성률 : 11-19-27-40||
+||<#2CA4E9>　|| '''Total Mayhem'''[[br]]AZURE EXPRESSION ~INTEGRAL COMPOSITION~ |||| Lv.16 ||
+|| 1 ||[[AXIS]]|| TM || 1505 ||
+|| 2 ||[[Intuition]]|| TM || 1908 ||
+|| 3 ||[[Nachthexen]]|| TM || 1974 ||
+|| 4 ||[[Crisp]]|| TM || 2805 ||
+|| ||||||요구 달성률 : 10-17-24-31||
+=== 해금 채널 ===
+||<tablewidth=600px><#81FCDB>　|| '''Houseplan Inc.'''[[br]]Tonight is the night we dance |||| Lv.8 ||
+|| 1 ||[[Get It Up]]||  || 672 ||
+|| 2 ||[[True]]||  || 810 ||
+|| 3 ||[[Departure]]||  || 597 ||
+|| 4 ||[[FUTURE NIGHT]]||  || 792 ||
+|| ||||||'''E'''{{{#grey NDLESS CIRCULATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Club Modern Waves'''[[br]]Futuristic Sound Waves |||| Lv.11 ||
+|| 1 ||[[Airwave]]||  || 1521 ||
+|| 2 ||[[True]]||  || 1157 ||
+|| 3 ||[[Thrust Out]]||  || 971 ||
+|| 4 ||[[The Ashtray]]||  || 1082 ||
+|| ||||||{{{#grey E}}}'''N'''{{{#grey DLESS CIRCULATION}}}[[br]]요구 달성률 : 11-20-29-38||
+||<#81FCDB>　|| '''Day After Day'''[[br]]Every Day, Every Night |||| Lv.9 ||
+|| 1 ||[[Cellavue]]||  || 480 ||
+|| 2 ||[[Aniart]]||  || 556 ||
+|| 3 ||[[Any way you want it]]||  || 637 ||
+|| 4 ||[[Todos Los Dias]]||  || 781 ||
+|| ||||||{{{#grey EN}}}'''D'''{{{#grey LESS CIRCULATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Swallow Tail'''[[br]]Stylish Music Collaboration |||| Lv.11 ||
+|| 1 ||[[Again]]||  || 749 ||
+|| 2 ||[[Shove It]]||  || 1396 ||
+|| 3 ||[[Push me again]]||  || 1069 ||
+|| 4 ||[[FUTURE NIGHT]]||  || 1284 ||
+|| ||||||{{{#grey END}}}'''L'''{{{#grey ESS CIRCULATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Hyperactivity'''[[br]]Trance Music Compilation |||| Lv.11 ||
+|| 1 ||[[Hypnotize]]||  || 658 ||
+|| 2 ||[[Metagalatic G - 1000]]||  || 997 ||
+|| 3 ||[[Fallback]]||  || 875 ||
+|| 4 ||[[Shove It]]||  || 1384 ||
+|| ||||||{{{#grey ENDL}}}'''E'''{{{#grey SS CIRCULATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Steel Heart'''[[br]]Cold Blooded |||| Lv.10 ||
+|| 1 ||[[Q Factor]]||  || 934 ||
+|| 2 ||[[Riff Guy]]||  || 792 ||
+|| 3 ||[[Be-at Feedback]]||  || 828 ||
+|| 4 ||[[UniT]]||  || 1079 ||
+|| ||||||{{{#grey ENDLE}}}'''S'''{{{#grey S CIRCULATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Diesel Eater'''[[br]]Genius Meets Prodigy |||| Lv.13 ||
+|| 1 ||[[Nothing Else]]||  || 838 ||
+|| 2 ||[[satellite 61]]||  || 1244 ||
+|| 3 ||[[Taillight Phantom]]||  || 1560 ||
+|| 4 ||[[Push me again]]||  || 1199 ||
+|| ||||||{{{#grey ENDLES}}}'''S'''{{{#grey  CIRCULATION}}}[[br]]요구 달성률 : 9-18-27-36||
+||<#81FCDB>　|| '''sun3'''[[br]]sun3 FielD |||| Lv.14 ||
+|| 1 ||[[Apollon]]||  || 1594 ||
+|| 2 ||[[Messier 333]]||  || 1448 ||
+|| 3 ||[[Morgenglut 2012]]||  || 1722 ||
+|| 4 ||[[FUTURE NIGHT]]||  || 1396 ||
+|| ||||||{{{#grey ENDLESS}}} '''C'''{{{#grey IRCULATION}}}[[br]]요구 달성률 : 10-20-30-40||
+||<#81FCDB>　|| '''HAHYEON'''[[br]]Piece of Artwork |||| Lv.7 ||
+|| 1 ||[[Planet X]]||  || 578 ||
+|| 2 ||[[Magic Square]]||  || 671 ||
+|| 3 ||[[Frozen Eyes]]||  || 499 ||
+|| 4 ||[[Stranger]]||  || 878 ||
+|| ||||||{{{#grey ENDLESS C}}}'''I'''{{{#grey RCULATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''on the beach'''[[br]]Memories of That Summer |||| Lv.8 ||
+|| 1 ||[[Vintage Summer]]||  || 834 ||
+|| 2 ||[[In a Nutshell]]||  || 681 ||
+|| 3 ||[[Sentimental No! No!]]||  || 538 ||
+|| 4 ||[[Rendezvous Coast]]||  || 670 ||
+|| ||||||{{{#grey ENDLESS CI}}}'''R'''{{{#grey CULATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Badny'''[[br]]Artist's Collection |||| Lv.11 ||
+|| 1 ||[[Aniart]]||  || 852 ||
+|| 2 ||[[Todos Los Dias]]||  || 929 ||
+|| 3 ||[[Rising In My Heart]]||  || 939 ||
+|| 4 ||[[BEATRICE]]||  || 1132 ||
+|| ||||||{{{#grey ENDLESS CIR}}}'''C'''{{{#grey ULATION}}}[[br]]요구 달성률 : 10-20-30-40||
+||<#81FCDB>　|| '''Art of Turntablism'''[[br]]DJ Battle on Turntable |||| Lv.10 ||
+|| 1 ||[[Exist]]||  || 761 ||
+|| 2 ||[[Unknown H2]]||  || 583 ||
+|| 3 ||[[Rendezvous Coast]]||  || 879 ||
+|| 4 ||[[Black tinted alley]]||  || 744 ||
+|| ||||||{{{#grey ENDLESS CIRC}}}'''U'''{{{#grey LATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Team Progressive'''[[br]]Team Progressive Sound Set |||| Lv.9 ||
+|| 1 ||[[DISTOPIA]]||  || 1321 ||
+|| 2 ||[[True]]||  || 1044 ||
+|| 3 ||[[WHEEL OF FIRE]]||  || 1187 ||
+|| 4 ||[[QUADCORE]]||  || 1033 ||
+|| ||||||{{{#grey ENDLESS CIRCU}}}'''L'''{{{#grey ATION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''From Dusk Till Dawn'''[[br]]Midnight Blues |||| Lv.13 ||
+|| 1 ||[[Nachthexen]]||  || 1381 ||
+|| 2 ||[[The Onyx Night Sky]]||  || 1069 ||
+|| 3 ||[[Shine Through]]||  || 925 ||
+|| 4 ||[[Break of Dawn]]||  || 1614 ||
+|| ||||||{{{#grey ENDLESS CIRCUL}}}'''A'''{{{#grey TION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''studio PSYCLOID'''[[br]]Insane Quartet |||| Lv.12 ||
+|| 1 ||[[The Greatest Escape]]||  || 1020 ||
+|| 2 ||[[satellite 61]]||  || 1231 ||
+|| 3 ||[[Nothing Else]]||  || 892 ||
+|| 4 ||[[WHEEL OF FIRE]]||  || 1188 ||
+|| ||||||{{{#grey ENDLESS CIRCULA}}}'''T'''{{{#grey ION}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Outerspace'''[[br]]Beyond The Atmosphere |||| Lv.11 ||
+|| 1 ||[[Actias Artemis]]||  || 934 ||
+|| 2 ||[[Planet X]]||  || 904 ||
+|| 3 ||[[Sigma]]||  || 905 ||
+|| 4 ||[[Starlight Factory]]||  || 942 ||
+|| ||||||{{{#grey ENDLESS CIRCULAT}}}'''I'''{{{#grey ON}}}[[br]]요구 달성률 : 10-17-26-35||
+||<#81FCDB>　|| '''Shooting Star'''[[br]]Turbocharger ON |||| Lv.13 ||
+|| 1 ||[[BLEED]]||  || 1141 ||
+|| 2 ||[[Starlight Factory]]||  || 1102 ||
+|| 3 ||[[Taillight Phantom]]||  || 1485 ||
+|| 4 ||[[A Site De La Rue]]||  || 1577 ||
+|| ||||||{{{#grey ENDLESS CIRCULATI}}}'''O'''{{{#grey N}}}[[br]]요구 달성률 : 10-19-28-37[[br]]~~소위 참모총장 채널로 불리며~~, 상당히 재미있어서 중레벨 유저들에게 인기가 좋다.||
+||<#81FCDB>　|| '''KIEN'''[[br]]Musician's Collection |||| Lv.13 ||
+|| 1 ||[[Atomizer]]||  || 1598 ||
+|| 2 ||[[Nothing Else]]||  || 1296 ||
+|| 3 ||[[Entire]]||  || 1077 ||
+|| 4 ||[[Break of Dawn]]||  || 1702 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''[[br]]요구 달성률 : 11-19-27-36||
+||<#81FCDB>　|| '''Vilkas'''[[br]]ENDLESS CIRCULATION : Producer |||| Lv.13 ||
+|| 1 ||[[Fallback]]||  || 1114 ||
+|| 2 ||[[Total Eclipse]]||  || 1151 ||
+|| 3 ||[[Legend]]||  || 2123 ||
+|| 4 ||[[northpole]]||  || 1330 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''[[br]]요구 달성률 : 11-19-27-36||
+||<#81FCDB>　|| '''water-flame'''[[br]]Pattern Designer |||| Lv.? ||
+|| 1 ||[[M!rror]]|| WF || 1226 ||
+|| 2 ||[[Magic Square]]|| WF || 1392 ||
+|| 3 ||[[Todos Los Dias]]|| WF || 1668 ||
+|| 4 ||[[WHEEL OF FIRE]]|| WF || 1809 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''[[br]]요구 달성률 : 6-6-6-6[[br]]AE 때의 동명의 채널과 마찬가지로 퍼센트의 증가율이 매우 낮기 때문에 거의 올쿨에 가깝게 쳐야 요구 달성률을 겨우 만족할 정도다.[[br]]스테이지 2까지 넘기면 그 이후로는 무난하다는 평가.||
+||<#81FCDB>　|| '''Ouroboros'''[[br]]Serpent of Destruction |||| Lv.∞ ||
+|| 1 ||[[Sigma]]|| Ouroboros || 1616 ||
+|| 2 ||[[Starlight Factory]]|| Ouroboros || 1484 ||
+|| 3 ||[[A Site De La Rue]]|| Ouroboros || 2121 ||
+|| 4 ||[[Legend]]|| Ouroboros || 2268 ||
+|| ||||||{{{#grey ENDLESS CIRCULATIO}}}'''N'''[[br]]요구 달성률 : 10-20-40-80[[br]]5라디오와 마찬가지로 7라디오에서도 EZ2AC 신규 채널 중 보스 포지션으로 등장.[[br]]유저들의 평가에 따르면 기존 보스급 채널인 Violet, Abscondence, Total Mayhem 등과 비교했을 때 비슷하거나 조금 쉬운 수준.[[br]]
+여담이지만 제작진 중에서 한명이 7라디오의 오로보로스의 원래이름을 요르문간드로 하려 했지만 기획상으로 바뀌었다 라고 말한적이 있다.||

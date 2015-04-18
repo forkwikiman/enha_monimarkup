@@ -1,0 +1,136 @@
+{{{#!html
+<div style="border: 3px solid Purple;padding:10px;margin-bottom:0px"><b style="font-size:18px">주의. 기술적인 문제로 인해 본 문서로 오는 링크를 만들 때 주의를 요합니다.</b>
+
+기술적인 문제로 인해 다른 문서에서 이 문서로 오는 링크를 만들 때 [[문서명]]을 사용할 수 없거나, 특별한 처리를 필요로 합니다. <b style="font-size:14px">[[문서명|]]</b> 또는 <b style="font-size:14px">[[|문서명]]</b>을 이용해주세요. 단, 제목에 특수문자가 들어가는 문서의 경우 그 자리에 아스키 코드값을 넣어야 할 수 있습니다.(예: [[C%23|C#]]) 기술적인 문제가 해결되면 이 틀을 제거해 주세요.</div>}}} 
+
+[[목차]]
+== Cradle Edge의 2집 앨범 ==
+{{{#!HTML
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/135625658&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+}}}
+
+||||Cradle Edge 2집 앨범 목록||
+||트랙||타이틀||
+||01||Minimalism Color ||
+||02||[[Flat Shoes|flat shoes]] ||
+||03||'''May I come in?''' ||
+||04||[[Venn Diagram|Venn diagram -interlude-]] ||
+||05||[[mello mello]] ||
+||06||[Bluesy] ||
+
+2014년 3월 2일에 발매한 Cradle Edge의 정규 음반. 게스트 작곡가로 cznych가 참여하였으며, [[시드 사운드]]를 탈퇴한 banami를 대신하여 그 동안 지속적으로 시드 사운드의 주요 작사가로 활동하였던 률이 iLee라는 명의로 본 앨범의 전담 보컬을 맡았다.
+
+== May I Come In?의 타이틀 곡 ==
+|| 장르 |||||||| Electronic House[* 서클링크 쪽의 표기.] ||
+|| 곡명 |||||||| May I Come In? ||
+|| 작곡 |||||||| cznych ||
+|| 작사, 보컬 |||||||| iLee ||
+|| 배경 |||||||| (불명) ||
+|| 최초 수록버전 |||||||| [[EZ2AC : EVOLVE]] ||
+|| BPM |||||||| 130 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EVOLVE]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 5 }}} || {{{#red 8 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 7 }}} || {{{#red 10 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8 }}} || {{{#red 10 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7 }}} || {{{#red 11 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 12 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ffffff> TURNTABLE || {{{#orange 7 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+ * 코스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2AC/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+=== 개요 ===
+Cradle Edge 2집 May I come in?의 타이틀 곡이다. 중반의 덥스텝 구간, 풋풋함이 느껴지는 가사 등등 전작의 [[M!rror]]와 곡의 분위기가 꽤나 비슷하다.
+
+=== 패턴 ===
+==== 5K ONLY ====
+[<iframe width="640" height="360" src="//www.youtube.com/embed/TiERbDmkLjs" frameborder="0" allowfullscreen></iframe>[youtube(movieIdHere)]]
+LV.9 HD 패턴
+==== 5K RUBY ====
+
+==== 5K STANDARD ====
+[[youtube(yzGD5PzzkEc)]]
+HD MIX
+==== 7K STANDARD ====
+
+[<iframe width="640" height="360" src="//www.youtube.com/embed/_QZ9e2jtPDE" frameborder="0" allowfullscreen></iframe>[youtube(movieIdHere)]]
+
+LV.10 HD패턴
+2014년 11월 30일, 제작진이 직접 플레이해 공개한 영상중 하나다
+==== 10K MANIAC ====
+
+==== 14K MANIAC ====
+
+
+[<iframe width="640" height="360" src="//www.youtube.com/embed/sKXKF6IjeeE" frameborder="0" allowfullscreen></iframe>[youtube(movieIdHere)]]
+LV.11 HD 패턴
+==== EZ2CATCH ====
+
+==== TURNTABLE ====
+
+[<iframe width="640" height="360" src="//www.youtube.com/embed/9bRCGY9j5PU" frameborder="0" allowfullscreen></iframe>[youtube(movieIdHere)]]
+
+LV.7 NM 패턴
+=== 가사 ===
+||이거 봐 왜 이래 너 뭐가 두려워
+기껏 넌 no way
+따분한 척 하지만
+
+가슴이 뛰네 두근거려 baby boy
+걱정은 나중에 안될 건 또 뭐야
+
+곁눈질 하지 마 똑바로 쳐다봐
+이 손을 잡아 기회는 한 번 뿐이야
+
+Beat를 쪼갠 music sound is feel so high
+자 들어간다 Honey, May I come in?
+
+You can't control me any more come in come in
+You just calling me now & you hear me now
+
+날 따라오게 만들어 step in step in
+저기 저 stage에 I'm a dancing Queen
+
+
+이미 난 Countdown
+내가 뭘 말할까 눈칠 보듯이
+쭈뼛쭈뼛 Spooky boy
+
+이 멋진 Music 설명이 더 필요해
+눈앞에 보이는 그대로를 믿어
+
+
+곁눈질 하지 마 똑바로 쳐다봐
+이 손을 잡아 기회는 한 번 뿐이야
+
+날 향한 Spotlight 숨이 가빠 오르면
+Set up! The count- uno, due, tre, quattro!
+
+You can't control me any more come in come in
+You just calling me now & you hear me now
+
+날 따라오게 만들어 step in step in
+저기 저 stage에 I'm a dancing Queen
+this night
+
+시선은 더 뜨겁게 hurry hurry
+Open the gate tonight over me you'll fight
+
+온 몸이 주는 강렬함 자유롭게 즐겨
+이 stage에 I'm a dancing Queen
+
+
+You can't control me any more come in come in
+You just calling me now Do you hear me now
+
+The music music in the night
+party party over the punky night
+oh my stary night, come in?
+
+모든 것을 던지고 이 음악을 느껴봐
+Close your eyes You just feel it now
+
+온 몸이 주는 강렬함 자유롭게 즐겨
+이 stage에 I'm a dancing Queen||

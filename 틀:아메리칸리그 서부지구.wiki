@@ -1,0 +1,6 @@
+||<tablewidth=80%><tablealign=center><-4><#ffffff><:> [[메이저리그|<span style="font-weight:bold;color:#ee0000">MLB</span>]] [[아메리칸리그|<span style="font-weight:bold;color:#ee0000">아메리칸리그</span>]] ||
+||<-4><:><#ffba00> '''{{{#000000 서부지구 소속구단}}}''' [[틀:아메리칸리그 중부지구|<span style="font-weight:bold;color:#000000">▶</span>]] ||
+||<width=12%><#ffffff><:> attachment:/Mariners.png ||<width=21.3%><#DCDCDC><:> [[시애틀 매리너스]][[br]](Seattle Mariners) ||<width=12%><#ffffff><:> attachment:/Angels.png ||<width=21.3%><#DCDCDC><:> [[로스앤젤레스 에인절스 오브 애너하임]][[br]](Los Angeles Angels of Anaheim) ||
+||<width=12%><#ffffff><:> attachment:/Athletics.png ||<width=21.4%><#DCDCDC><:> [[오클랜드 애슬레틱스]][[br]](Oakland Athletics)
+||<#ffffff><:> attachment:/Rangers.png ||<#DCDCDC><:> [[텍사스 레인저스]][[br]](Texas Rangers) ||
+||<#ffffff><:> attachment:/houston_se.png ||<#DCDCDC><:> [[휴스턴 애스트로스]][[br]](Houston Astros) ||

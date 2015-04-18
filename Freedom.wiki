@@ -1,0 +1,276 @@
+ * 다른 뜻은 [[프리덤]] 항목을 참조.
+
+[[목차]]
+== [[레스톨 특수구조대]]의 엔딩곡 == 
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/2ohsL8NjGSM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+일본 방영판에선 Butterfly로 변경되었지만, 프리덤이 더 좋은 평을 받는다. 노래방에도 수록되어 있다. 오프닝도 없는데. (태진 기준)
+
+== [[BEMANI 시리즈]]의 수록곡 ==
+=== [[BeForU]]의 곡 ===
+attachment:Freedom.png
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/3nGWZH9k3Eo" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3><:> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 3}}} || {{{#orange 5}}} || {{{#red 7}}} || {{{#green 11}}} || {{{#purple -}}} ||
+||<|3><:> 148 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 11}}} || {{{#purple -}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+가정용 DDR Party Collection에 처음 수록. 곡 6개 플레이로 해금 할 수 있었다.
+
+아케이드엔 SuperNOVA에 이식되었다. DDR X에서 삭제되었지만 X2에서 부활. 엔조이 레벨 78을 달성하면 해금되었다. X3부터 통상 해금.
+
+롱버젼은 앨범 'BeForU II'에 수록.
+
+=== [[VENUS(아티스트)|VENUS]]의 곡 ===
+attachment:Freedom_venus.png
+
+[[리플렉 비트 콜레트]] 올시즌 디폴트곡으로 수록되었다.
+
+{{{#!HTML
+<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/0VwBSLR5m6U?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/0VwBSLR5m6U?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+[[DJ TOTTO]]의 플레이 영상
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 170 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 99}}} || {{{#orange 243}}} || {{{#red 449}}} ||
+|| 수록버전 ||||||||<#ffffff>  [[리플렉 비트 콜레트]] ||
+
+여타 다른 비니스곡처럼 LV9의 곡으로 등장하였다. 하지만 다른 비너스 곡과는 다르게 '''후살''' 같은게 있으니 끝부분을 조심하자.
+
+비너스 오리지널 곡 중 6번째에 속하지만 정작 [[팝픈뮤직]]에서 6번은 [[Squeeze]]가 가져가 버렸다.
+
+== [[EZ2AC]]의 수록곡 ==
+|| 장르 |||||||| Kool Funk ||
+|| 곡명 |||||||| Freedom ||
+|| 작곡 |||||||| [[Ruby Tuesday]] ||
+|| 작사 |||||||| Tom White ||
+|| 보컬 |||||||| Tom White, Jimmy G ||
+|| 배경 |||||||| [[ibarad]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 1st]] ||
+|| BPM |||||||| 93 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 1}}} || {{{#red 3}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 1}}} || {{{#red 2}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 3}}} || {{{#red 7}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 3}}} || {{{#red 4}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 1}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 3}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<embed src='http://flvs.daum.net/flvPlayer.swf?vid=0e5uWQhTXwA$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+[[EZ2DJ The 1st TRACKS]] '''BGA'''
+
+리듬게임에서 흔치 않은 재즈 스타일의 곡으로 왠지 듣고 나면 후렴구 가사인 "'''Change~'''", "Everybody needs a '''change''' (the world)"가 계속 맴도는 곡.
+
+=== 파란만장한 역사 ===
+EZ2DJ를 즐기는 유저들 중에서도 이 곡을 아는 사람은 많지 않다. [[EZ2DJ 2ndTRAX ~It rules once again~|2nd]]에서 삭제된 후 [[EZ2DJ 7thTRAX Ver 2.0|7th 2.0]] 이전까지는 부활을 못 했기 때문이다. 사실 2nd에서 삭제되고 그 이후 부활을 못 했던 곡이 이 곡 한 곡만은 아니지만, 다른 곡들은 원곡이나 리믹스 중 어느 한 쪽은 살아남은 것에 비해 이 곡은 리믹스도 없었기 때문에, 이런 곡이 있다는 사실 자체를 모르는 사람이 많았다.
+
+1st 당시에는 1스테이지에서 나오는 곡이었는데 레벨 1로 가장 쉬운 곡인데다가 곡이 잔잔하고 패턴도 간단해서 크게 인기를 끌진 못했다. 게다가 같은 스테이지에 EZ2DJ 불후의 인기곡인 '''[[Look out ~Here comes my love~|Look Out]]'''과 '''[[You love the life you live]]'''가 있었기 때문에 더욱 묻혔다.
+
+패턴이 간단해서 인기가 없었다는 판단에서인지 [[EZ2DJ The 1st TRACKS Special Edition|SE]]에서 4D 믹스를 추가했다. 그런데 다른 곡들은 노멀과 4D 믹스가 같이 있었던 것에 비해 [[Mystic Dream 9903]]과 이 곡은 4D 믹스로만 수록해놓았고, 가뜩이나 비인기곡이었는데 4D가 걸려나오는지라 더 인기가 없었다. 그나마 Mystic Dream 9903은 리믹스인 [[Mystic Dream 9903 ~Horror Mix~]]가 미칠듯한 존재감을 자랑했지만 저난이도+비인기곡+4D라는 삼위일체를 갖춘 Freedom은 그냥 나락에 빠졌다.
+
+2nd에서 삭제된 이후에는 올드 유저나 [[EZ2DJ 6thTRAX ~Self Evolution~|6th]]의 Remember 1st? 모드를 해본 유저들 이외에는 이런 곡이 있다는 사실조차도 모르는 사람이 많을 정도가 되었다.
+
+거의 모든 곡이 부활했던 [[EZ2DJ Platinum]]에서마저 부활하지 않았던 것을 두고 여러 가지 루머가 돌았다. [[Ruby Tuesday]]쪽에서 쓰지 말라고 해서 수록을 안 했다는 루머, 'Everybody needs change'라는 가사가 사회불안을 조장하기 때문에 문제가 되어서 수록을 못 한다는 얘기(...), BGA 이식이 불가능해서[* 7th 2.0에서 곡은 이식되었지만, 범용 BGA로 이식되었다. EZ2DJ는 7th TRAX 2.0이 되기 전까지는 범용 BGA라는 개념이 없었다.] 등등 갖가지 이야기가 돌았다.
+
+가장 설득력 있는 설명은 '''BGA 시스템의 차이'''로 인해 수록을 못했다는 것이다. EZ2DJ의 BGA 시스템은 SE까지 쓰이던 형태와 2nd 이후로 쓰이는 형태로 나뉜다.[* 1st 당시에는 [[BGA]]의 밑그림을 재생시키고 판정에 따른 레이어를 올리는 시스템이었다. 이 시스템이 2nd로 와서 판정에 상관없이 독립적으로 재생되게끔 바뀐 것이다.] 2nd에 수록된 1st와 SE의 수록곡들은 2nd에 수록되면서 새 시스템에 맞게 BGA 전면 재편집을 거쳤다. 그런데 2nd에서 삭제되었던 [[Do you remember]], [[Let It Go]], Freedom, [[Mystic Dream 9903]], [[Get the beat]] (Nimble Mix), [[Quake in Kyoto]] (Mega Mix) 등은 모두 2nd에서 삭제된 곡들이기 때문에 BGA 재편집을 거치지 않았다. 이 곡들을 부활시키려면 BGA를 재편집해야 했지만, Platinum 제작진들은 작업량을 줄이기 위해 이 곡들의 부활을 포기했던 것으로 보인다.
+
+이 7곡은 [[EZ2DJ 7thTRAX Ver 2.0]]에서 부활했으나 BGA는 범용으로 바뀌었다. 그나마도 CV에서 삭제되었다가 결국 총집편 버전인 [[EZ2DJ 7thTRAX BONUS EDITION revision A]]에서 '''BGA까지 완벽하게 부활'''했다. 다만 100% 완전한 형태의 부활은 아니고 위와같은 판정별 레이어 출력이 삭제된 이유로 인해 밑그림만 재생이 된다. 이는 다른 부활된 1st 곡이나 일부 라디오 채널을 통해 부활된 1st [[BGA]] 에서 똑같이 적용되었다.
+
+이제는 [[EZ2DJ AEIC|AEIC]]나 [[EZ2AC EC]]에서 올송 커맨드를 사용할 경우 모드 진입시 프리뷰가 전 곡중에 가장 앞에 있는 Freedom으로 뜨기 때문에 거의 대부분은 일정 부분만 듣고도 다 알아맞힐 수 있는 곡이 되었다. 그러나 [[EZ2AC EV]]에서는 올송 커맨드를 안 넣어도 기본으로 올송이 걸리게 바뀌었고, 맨 처음에 오는 곡이 Look Out으로 바뀌었다.
+
+사실 Freedom보다 더 불쌍한 사례로 [[Get the beat]] (Nimble Mix)가 있다. 2nd에서 삭제된 후 BE rA에 가서야 부활했다. 2.0에서 부활하기는 했는데 라디오 랜덤채널에서만 간혹 나온다고.
+
+=== 패턴 ===
+참고로 말하자면 거의 모든 모드에서 '''초저렙곡''' 포지션. 7스트릿 HD를 제외하면 전부다 난이도가 최하위권이다. EZ2AC 전체를 통틀어서 HD가 난이도가 2인 유일한 곡.[* 덧붙이자면, 그나마도 없었다가 부활할 때 덤으로 추가된 패턴이다.]
+~~하드가 2라니요 패턴 제작자양반 장난하십니까??~~
+
+==== 5K ONLY ====
+EV 1.3c 버전까지는 패턴이 없었다가 1.5버전 이후로 노멀 lv.1, 하드 lv.3의 패턴이 생겨났다. 노멀 패턴은 약간의 롱노트가 추가된 것을 제외하면 STANDARD NM와 유사하다.
+==== 5K RUBY ====
+2nd에서 삭제되었기 때문에 이 곡은 루비믹스 패턴이 존재한 적이 없었다.
+EV에서 노멀이 난이도 책정이 되지 않은 상태로 새로 생겼지만 정작 고를 경우 스킵되었다(...) 버그 패턴이었는지 이 패턴은 1.5버전에서 삭제되었다.
+==== 5K STANDARD ====
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/oN6KcTx4PCQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+[[EZ2DJ The 1st TRACKS Special Edition]]의 '''플레이 영상'''
+==== 7K STANDARD ====
+{{{#!HTML
+<embed src="http://www.youtube.com/v/jslpUm434FM?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed>
+}}}
+7th 2.0에서 7키 채보가 추가되었는데 [[키음]]을 있는 대로 다 빼왔다.~~[[Let it go(EZ2DJ)|어떤 친구]]는 키음 다 빼서 고난이도곡이 됐는데 얘는 있는 키음 없는 키음 다 빼도 7. 후새드~~
+==== 5K COURSE ====
+이 곡은 5키, 7키 통틀어 한 번도 라디오 채널에 들어간 적이 없다. 1st에서는 라디오 채널은 4개인데 수록곡이 22개라 [[I've Fallen]]과 함께 라디오 채널에 들어가지 못하는 수모를 겪었다. 그나마 I've Fallen은 SE에서 구제를 받았지만 이 곡은 SE에서도 라디오에 못 들어갔다. 7th 2.0에서 부활했지만 너무 난이도가 낮아서 그런지 못 들어가고 있다.
+==== 7K COURSE ====
+==== 10K MANIAC ====
+노멀 난이도는 3, 하드 난이도는 4이다. 둘다 표기 표기레벨에 비해 약간 쉬운 편이며 초심자들이 입문하기에 적절하다. 여담으로 노멀은 후반부 구간이 짧게 커팅되었는데 이는 1st SE까지는 클럽 믹스 한정으로 곡을 짧게 편집했기 때문.
+==== 14K MANIAC ====
+14 Key Maniac에 Get the beat NM, Look Out NM, Mystic Dream 9903 NM, Moving on NM과 함께 14Key 역사상 처음으로(전신 Space Mix 포함) 레벨 1로 등장하였다. 매우 무난한 수준의 입문곡. 처음 하는 사람도 시야만 된다면 클리어를 못할 리가 없다.
+==== EZ2CATCH ====
+[[youtube(eiuj7Gj6FsU)]]
+NM MIX
+
+BErA 부터 3레벨로 등장. 한칸 간격으로 떨어진 과일이 4박간격으로 나오는 패턴이 있어서 중심받기를 천천히 연습해 볼 수 있다.
+==== TURNTABLE ====
+EC에서 드디어 턴테이블 패턴이 추가되었다.
+3레벨로 입문하기에 적절한 패턴. 1레벨 You love the life you live나 2레벨 Look out, Get the beat보다 쉽거나 비슷하다.
+
+=== 가사 ===
+||What we want is unity
+우리가 원하는건 통일이야
+A place where all mankind is free
+모든 인류가 자유로운 장소
+What we want is unity
+우리가 원하는건 통일이야
+Freedom, Freedom
+자유, 자유
+What we want is unity
+우리가 원하는건 통일이야
+A place where all mankind is free
+모든 인류가 자유로운 장소
+What we want is unity
+우리가 원하는건 통일이야
+Freedom, Freedom
+자유, 자유
+
+Change Change Change
+변화 변화 변화
+
+Everybody needs a change
+모두에게 변화가 필요해
+Change to Change the world
+세계를 바꾸기 위한 변화
+It seems we've only just begun
+우리가 막 시작한 것 같은 것은
+is freedom what we want
+우리가 원하는 자유야
+is freedom what we need
+우리가 필요한 자유야
+to make it a better place for you and me
+너와 나를 위한 더 좋은 장소를 만들기 위한
+
+Everybody needs a change
+모두에게 변화가 필요해
+Everybody needs a change
+모두에게 변화가 필요해
+Everybody needs a change (the world)
+모두에게 변화가 필요해 (세계를)
+Everybody needs a change
+모두에게 변화가 필요해
+Everybody needs a change
+모두에게 변화가 필요해
+Everybody needs a change (the world)
+모두에게 변화가 필요해 (세계를)||
+
+=== [[EZ2ON]]에서의 수록 ===
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||||| [[추가바람]] ||
+|| 모드 || EZ || NM || HD || SHD[* 루비나 스트릿] || 8키[* 클럽 믹스에서 SHD를 대체] ||
+|| 루비(4키) || 1 || 6 || 10 || 12 || - ||
+|| 스트릿(5키) || 6 || 10 || 12 || 13 || - ||
+|| 클럽(6키/8키) || 6 || 10 || 12 || - || 13 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/JYrvb4kGHFs" frameborder="0" allowfullscreen></iframe>
+}}}
+6키 HD Mix 영상.
+
+다소 저레벨 포지션이었던 원작과는 다르게 제법 난이도 있는 채보를 보유하고 있다.
+
+[[각주]]
+
+== 클래지콰이의 곡 ==
+대한민국의 가요 그룹 [[클래지콰이]]의 곡. 리믹스 앨범인 <ROBOTICA>에 수록되었다. 클래지콰이의 전 멤버 크리스티나가 보컬을 맡은 곡이다.
+
+||Say your name look at me
+Relax your body and mind
+There's something you want to
+get away right now
+I feel this is how
+You'll learn to let it go
+You'll feel like someone new
+
+Do you see in the dark
+Who's the boy 
+there by the river
+It is you is it me
+The little boy seems
+very eerie
+Why why why why why
+
+Going under feel the freedom
+Going under feel the freedom
+
+(This is when I touch you)
+Say your name look at me
+Relax your body and mind
+There's something you want to
+Get away right now
+
+(This is when I touch you)
+I feel this is how
+You'll learn to let it go
+You'll feel like someone new||
+=== DJMAX 시리즈에서의 Freedom ===
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+디제이맥스 메트로 프로젝트를 통해 디제이맥스 시리즈에 수록되었다. [[DJMAX Portable Clazziquai Edition|DJMAX CE]], [[DJMAX TECHNIKA]]에서 사용되었다. 게임성을 강화하기 위해 신디사이저 음을 보강하는 등 편곡이 이루어졌다. 
+
+|| 최초 수록 || [[DJMAX Portable Clazziquai Edition]] ||
+|| 작곡 || [[클래지콰이]] ||
+|| 보컬 || 크리스티나 ||
+|| 비주얼 || [[SARA]](일러스트), Carrotjuice(모션), Purplelemon(모션) ||
+|| 장르 || [["일렉트로니카" Electronica]] ||
+|| BPM || 126 ||
+
+{{{#!HTML
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/XEJx5MI7ACE&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/XEJx5MI7ACE&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+
+비주얼은 펜타비젼 소속 아티스트인 Sara의 작품. 두 여성 캐릭터의 추격전을 그리고 있다. 히로인의 이름은 '퍼프 더 셰리프', 도둑의 이름은 '앨리 캣'. Sara의 여러 BGA들과 같이 음악의 가사에 싱크를 맞춘 비주얼이 특징인데, 두 캐릭터의 추격전 비주얼에 절묘한 싱크로를 이루어 비주얼 보는 재미를 더했다.
+
+다음은 Freedom의 공식 설명이다.
+
+||클래지콰이의 초기 멤버, 크리스타나가 보컬을 맡은 곡. 시원시원한 그녀만의 창법과 추격전을 벌이는 듯한 SARA의 BGA가 속도감을 더한다.||
+
+==== [[DJMAX Portable Clazziquai Edition]] ====
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/h9qHtX4_zgQ" frameborder="0" allowfullscreen></iframe>}}}
+
+==== [[DJMAX TECHNIKA 시리즈]] ====
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/r4kmO3KjyGE" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴(테크니카 1 기준 SP)
+
+테크니카에서의 난이도는 LP 2, PP 4, TP 5. 모두 레벨 표기에 맞게 무난한 난이도를 보여준다. 전체적으로 어렵지 않은 곡에 속하는 곡. TP의 경우 [[Electro EP]] Set에서 스코어링 루트(([[SuperSonic]], [[Cherokee]], [[Freedom]], [[Electronics]])에 쓰이며, 또한 파퓰러 2스테이지에서도 초보자들이 많이 선택하는 편으로, 저난이도 곡이지만 비인기곡의 범주에 들어가지는 않는다.
+SP는 2월 9일 업데이트 된 스페셜 패턴 14의 3스테이지에서 등장한다. 초반의 분홍-관절-짧은 롱노트 드립이나 후반에 대폭 추가된 정박 보라의 위력으로 그동안의 쉬운곡/Electro EP의 물렙곡 이미지를 타파 중.  
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 || || || ||
+||<#FFFF00> Normal || D || 100 || 5 || 8박 스크롤 || ||
+||<#0000FF> {{{#white Hard}}} || C || 150 || 6 || 4박 스크롤 || [[Electro EP|Electro EP Set]] 셀렉곡, [[Raconteur|미션 - 백야]] 수록 ||
+||<#FF0000> Maximum || B || 200 || 7 || 4박 스크롤 || ||
+
+이후 그대로 이식되었다.

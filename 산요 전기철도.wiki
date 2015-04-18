@@ -1,0 +1,41 @@
+||<table align=center><-3><:> 일본의 [[준대형 사철]] ||
+||<#7e2355><:>[[wiki:"키타오사카 급행전철" <span style="color:white">키타오사카 급행전철</span>]]||<#0000ff><:>[[wiki:"고베 고속철도" <span style="color:white">고베 고속철도</span>]]||<#fa2b08><:>{{{#ffffff '''산요 전기철도'''}}} ||
+||<#EF59A1><:>[[wiki:"신케이세이 전철" <span style="color:white">신케이세이 전철</span>]]||<#007fff><:>[[wiki:"센보쿠 고속철도" <span style="color:white">센보쿠 고속철도</span>]]||||
+{{{+1 山陽電気鉄道 / Sanyo Electric Railway}}}
+ * [[일본 철도 정보]]
+||||<table align=right><#fa2b08><:>{{{#ffffff '''산요 전기철도''' }}} [[br]] {{{#ffffff 山陽電気鉄道 }}} ||
+|||| http://www.sanyo-railway.co.jp/company/img/symbol-02.gif?width=150px ||
+|| 설립 년도 ||1907년 ||
+|| 영업 지역 ||[[일본]] [[효고]]현 ||
+|| 보유 선로 ||63.2km ||
+|||| [http://www.sanyo-railway.co.jp/] ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sanyo_Railways_Local_Train.jpg/500px-Sanyo_Railways_Local_Train.jpg
+--드리프트--
+[[목차]]
+=== 개요 ===
+약칭 산요. 단, 건전지 만드는 걸로 유명한 산요와는 다른 회사이다.
+
+일본의 [[준대형 사철]] 중 하나로, [[효고]]현 [[고베]]와 [[히메지]]를 주 영업 구역으로 한다. 1907년 효고 전기 궤도가 설립되었으며 1927년 우지강전기가 효고 전기궤도를 합병했고, 이곳의 철도부가 독립해 산요 전기철도가 성립되었다. 1936년에는 버스 사업을 개시하였으며 1968년에는 [[고베 고속철도]]를 통해 [[한큐]] 및 [[한신]]과 상호 직결운행을 개시하였다. 현재 주요 주주 중 하나는 [[한신 전기철도]]이며 자회사로 산요 백화점, 산요 택시, 오사카 산요 택시, 고베 산요 버스 등이 있다. 버스 사업부는 분사하지 않고 자동차 영업본부의 관할이다.
+
+준대형사철중에선 영업거리가 가장 길다. 본선 54.7km에 아보시선 8.5km을 합치면 63.5km로 '''대형사철 취급인 [[소테츠]]나 [[한신]]보다 영업거리가 길다'''. 하지만 운행하는 도시권이 대도시라고 하기엔 애매한 고베-히메지 구간이라 준대형사철 취급. 
+
+특급의 경우 위의 고베고속 노선을 경유해서 한신본선 우메다역까지 직통운행을 하고 있다. 물론 산요본선 구간만 운행하는 특급도 있으며, 구별하기 위해 한신쪽으로 들어가는 특급엔 "직통특급"이라는 이름이 붙어 있다.
+
+2014년 4월 1일부터 역번호를 사용하는데, 이니셜은 SY를 사용하며, [[니시다이역]]부터 차례대로 매긴다.
+
+=== 노선 ===
+http://upload.wikimedia.org/wikipedia/ja/thumb/c/ce/SANYO-ROSEN.gif/1280px-SANYO-ROSEN.gif?width=550
+[[파이어폭스]]나 [[구글 크롬]]의 경우 새 탭에서 이미지 열기 하면 크게 볼 수 있다. 이미지 클릭 후 그대로 드래그해도 보기 가능. [[인터넷 익스플로러]]라면 속성의 이미지주소를 북붙하거나, 저장하고 이미지뷰어로 볼 수 밖에…
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sanyo_Electric_Railway_Linemap.svg/2362px-Sanyo_Electric_Railway_Linemap.svg.png?width=1000px
+
+ * 보유 노선
+  * [[wiki:"산요 전기철도 본선" 본선]]
+  * 아보시선
+
+ * 직결 운행 구간
+  * [[고베 고속철도]] 도자이선
+  * [[한신 전기철도]] [[wiki:"한신 본선" 본선]]
+
+[[각주]]

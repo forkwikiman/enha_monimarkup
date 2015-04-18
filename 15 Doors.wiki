@@ -1,0 +1,51 @@
+[[목차]]
+
+== 개요 ==
+||http://ec2.images-amazon.com/images/I/41YeiiOgmIL._SL500_AA300_.jpg?width=250||http://ec2.images-amazon.com/images/I/416K2l-su9L._SS500_.jpg?width=250||http://ecx.images-amazon.com/images/I/41ZnpvEWa0L.jpg?width=250||
+|| DVD반 (자켓A 버전) || DVD반 (자켓B 버전) || 통상반 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/tjpuqVEox7s" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+[[일본]]의 2인조 혼성 유닛 [[moumoon]]의 두번째 정규앨범이자 타이틀곡. 앨범은 2011년 3월 2일에 발매되었다. moumoon 앨범 발매이후 2년만에 내놓는 앨범이며, [[Sunshine Girl#s-2|Sunshine Girl]]도 포함되어있다
+
+수록곡은 댄스같긴 한데 휘파람 샘플링은 어째 [[Sunshine Girl#s-2|Sunshine Girl]]과 비슷하다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>8||
+||<#ffffff><:>노트수||<:>192||<:>362||<:>510||
+||<#ffffff><:>BPM||||||<:>163||
+||<#ffffff><:>곡 이력||||||[[유비트 코피어스]]에서 2011/12/26 첫 수록[* 발매 당시에는 누락되었다가, 업데이트로 수록되었다.][[BR]][[유비트 소서]]에서 출시 전 삭제[[BR]][[유비트 소서]]에서 2012/12/1 재수록[[BR]][[유비트 소서]]에서 2013/3/1 교체[[BR]][[유비트 소서]]에서 2013/9/1 재수록[[BR]][[유비트 소서]]에서 2013/12/1 교체[[BR]][[유비트 소서]]에서 2014/2/1 재수록||
+  
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임 안에서 쓰는 자켓은 DVD반 자켓A 버전의 자켓. moumoon의 곡이 수록되는 것은 [[Sunshine Girl#s-2|Sunshine Girl]]에 이어 두번째.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/uiXNUk2p9k4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/uiXNUk2p9k4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+익스트림 [[엑설런트]] 영상
+
+[[Sunshine Girl#s-2|Sunshine Girl]]이 빠른 동시치기로 유저를 난감하게 만드는 반면, 이 곡은 특정 부분을 제외하면 간단한 패턴으로 이루어져 있다. 처음의 2개 동시치기와 5, 10, 15 부분을 주의하면 [[엑설런트]]도 쉽게 노릴 수 있는 곡. 유비트 코피어스 전체 8레벨 곡 중 가장 쉽다는 평을 듣고 있다.
+
+아래는 주의해야할 패턴들. 가사에 맞추어 5, 10, 15의 모양으로 패턴이 나온다.  [[I'm so Happy|어디선가]] 본 것만 같은 15는 총 3번 나오며, 마지막 2번은 3개 동시치기가 이어서 나온다.
+
+□①①□
+□①□□
+□□①□
+□①①□
+
+□□□□
+①□①①
+①□①①
+□□□□
+
+
+①□②②　□③□□
+①□②□　□□□③
+①□□②　□□□□
+①□②②　□③□□

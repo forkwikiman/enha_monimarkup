@@ -1,0 +1,130 @@
+[[목차]]
+
+= [[BEMANI 시리즈]]의 수록곡 =
+== [[이즈미 무츠히코]]의 악곡 ==
+=== [[기타프릭스]] & [[드럼매니아]] ===
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/clgG7_ilDwY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+기타 익스트림 영상
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||| [GITADORA] 난이도 체계 ||
+||<|5><:> 184 ||<|2><:> 기타 표준 || {{{#green BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} || {{{#blue BSC}}} || {{{#orange ADV}}} || {{{#red EXT}}} ||
+|| {{{#green 34}}} || {{{#orange 37}}} || {{{#red 51}}} || {{{#blue 2.80}}} || {{{#orange 4.70}}} || {{{#red 6.90}}} ||
+|| 드럼매니아 || {{{#green 29}}} || {{{#orange 37}}} || {{{#red 54}}} || {{{#blue 2.65}}} || {{{#orange 4.85}}} || {{{#red 6.05}}} ||
+
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 161 ||<|2> 기타 표준 || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 2.80}}} || {{{#orange 4.70}}} || {{{#red 6.90}}} ||
+|| 드럼매니아 || {{{#blue 2.65}}} || {{{#orange 4.85}}} || {{{#red 6.05}}} || 
+
+[[기타프릭스]] 1st 수록곡. 작곡은 [[이즈미 무츠히코]]. 말 그대로 '불타오르는' 분위기의 화끈한 연주곡으로, 크게 어렵지는 않은데다 후반부의 16비트 노트가 은근히 멋있어서 당시에 인기곡이었다.
+
+기타프릭스 3rd에서 보너스 트랙 개념이 생기면서 롱버전이 생겼으며, 이 롱버전은 [[드럼매니아]] 4th에도 등장하게 되는데, 드럼매니아에서는 정박의 반복적인 채보이긴 하지만 역시 보너스 트랙 곡 중에서는 인기가 많은 편이었다. 더불어 탐돌리기 때문에 풀콤보 난이도는 좀 있는 편.
+
+기타프릭스 7th에서 구곡이 대량 삭제될때 같이 삭제되었으며[* 롱버전은 기타프릭스 9th/드럼매니아 8th에서 삭제. 이후 V3에서 부활했다.] 기타프릭스 V에서 이 FIRE 숏버전이 부활할 때 드럼매니아에서도 FIRE 숏버전이 등장했다. 하지만 이쪽은 롱버전에 비해서는 드럼매니아에서의 평은 별로 좋지 않았다.
+
+그리고 넘버링 시리즈에 있었을 때는 2인 동시 플레이시 1P와 2P의 채보가 달랐는데 V에서 부활하고 나서는 구 시리즈의 2P채보는 삭제된 채로[* 게다가 1st곡이라서 베이스/오픈픽 모드도 없다.][* 2인 플레이시 채보가 각각 달라지는 시스템은 FIRE가 삭제되었었던 7th에서 삭제되었다.] 등장해서 플레이어들에게 실망을 안겨주기도 했다.
+
+=== [[댄스 댄스 레볼루션]] ===
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/KpWBqrElOBs" frameborder="0" allowfullscreen></iframe>}}}
+
+싱글 익스퍼트 영상
+
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 4}}} || {{{#orange 5}}} || {{{#red 8}}} || {{{#green 11}}} || {{{#purple -}}} ||
+||<|3> 161|||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 8}}} || {{{#green 12}}} || {{{#purple -}}} ||
+
+[[댄스 댄스 레볼루션]] SuperNOVA2에 이식 수록되었다.
+
+=== [[리플렉 비트 시리즈]] (FIRE (REFLEC Version)) ===
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 184 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 9}}} ||
+|| 오브젝트 || {{{#green 136}}} || {{{#orange 241}}} || {{{#red 461}}} ||
+|| 수록버전 ||||||||<#ffffff> [[리플렉 비트 콜레트]] ||
+
+이즈미 무츠히코의 3집 앨범인 Third 발매 기념으로 [[리플렉 비트 콜레트]]에 2014년 3월 26일 이식되었다.[* KAC 2013이나 JAEPO 2014 코나미 부스등 각종 BEMANI 관련 라이브 이벤트에서 FIRE를 라이브 연주하는 일이 잦았는데, 이를 위한 포석이었을 가능성이 크다.]
+
+[[추가바람]]
+
+== [[PINK PONG]]의 악곡  ==
+=== [[beatmania]] ===
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/Ui4PtYL7psQ" frameborder="0" allowfullscreen></iframe>}}}
+
+비트매니아 6th MIX의 수록곡. 작곡은 [[PINK PONG]]. PINK PONG의 ~dream 시리즈와 다른 댄스플로어에 가까운 느낌의 트랜스. 이후 일부 시리즈에서 이 아티스트는 DREAM시리즈로 대표되는 멜로딕 트랜스와 댄스플로어에 가까운 트랜스 악곡 각각 하나씩을 투고하는게 전통처럼 되어버린다.
+
+= [[유희왕]] 극장판 [[빛의 피라미드]]의 주제곡 =
+
+{{{#!html
+<embed src="http://www.youtube.com/v/l_nXGHt3LGs&hl=ja_JP&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed>
+}}}
+
+= 그룹 [[스쿠터]]의 노래 =
+
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/r32LcBqiv7I?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/r32LcBqiv7I?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+잔잔하게 chili bo chili bo chili bo 하다가 {{{+1 '''"뽜이야!!!"'''}}}하고 외치는 것이 매우 인상적인 노래, 불꽃 관련 이미지에 BGM으로 자주 들어가는 일렉트로니카 곡이다. 
+
+= [[카사비안]]의 노래 =
+
+[[EPL]]의 인트로 테마곡으로 유명하며, [[몬데그린]]인 암온퐈와 아몬드빵 역시 유명하다(...)
+
+= [[디지몬 프론티어]]의 오프닝곡 =
+||||||||||<width=400px> '''[디지몬 시리즈|디지몬 애니메이션 시리즈] 오프닝 테마''' ||
+|| [[The Biggest Dreamer]][[br]]([[디지몬 테이머즈]]) || → || '''FIRE!!'''[[br]]([[디지몬 프론티어]]) || → || 强ing! Going! My soul! [[br]]([[디지몬 세이버즈]] 1st OP) ||
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0' width='512' height='321' id='NFPlayer01041' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=B3E2F711D258B4FD2EF05BFFD6A752A398B0&outKey=V1210369c29d615d30eed84e49b65315d787c04fbf5e5fff1217784e49b65315d787c' /><param name='wmode' value='window' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=B3E2F711D258B4FD2EF05BFFD6A752A398B0&outKey=V1210369c29d615d30eed84e49b65315d787c04fbf5e5fff1217784e49b65315d787c' wmode='window' width='512' height='321' allowScriptAccess='always' name='NFPlayer01041' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+일본판 TV size.
+
+{{{#!html
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/81A9ksT1zCc?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/81A9ksT1zCc?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+극장판 엔딩에 사용된 한국판. 노래는 [[Butter-Fly]]를 부른 [[전영호]]가 불렀다.
+
+[[와다 코지]]가 노래를 담당한 디지몬 프론티어의 오프닝곡. 원제는 FIRE!!
+
+가사 중 '쓰레기통을 뛰어넘은 그 앞에 있는 미래'라는 파트는 데뷔하기 이전에 퇴짜 받고 돌아온 데모 녹음본 테이프를 쓰레기통에 버려야 했던 고난의 시기를 넘고 일어선 보컬 와다 코지를 위해 작사가가 직접 넣어준 부분이라고 한다.
+
+== 일본판 ==
+
+
+== 한국판 ==
+|| 가슴을 열고서 뜨거워진 마음을 채우자
+지평선 너머로 끝없이 가야 하니까
+
+어둠에 잠겨도 조금 힘들어도 달려가자
+세상과 맞닿은 또다른 세상으로
+
+준비됐어! 우리는!
+거친 세상으로 뛰어들 거야
+
+지켜봐! 보여줄게!
+지금 폭발하는 우리 힘을 Burn up'n go
+
+단 한 걸음도 멈추지 않아 미래를 볼 때까지
+불꽃에 마음을 담아 Get a fire power
+
+어떤 일에도 꺾이지 않아 타오르는 눈빛은
+모두의 용기를 모아 Get a fire power
+
+미래를 맞으러 가자
+경계를 넘어서
+
+뜨거운 영혼을 찾아
+미지의 세계로
+||

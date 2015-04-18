@@ -1,0 +1,73 @@
+ * 상위항목 : [[왁푸 온라인]]
+
+{{{+1 '''Sacrier's Blood'''}}}
+
+attachment:Sacrier_wakfu_era.png
+
+[[목차]]
+== 개요 ==
+불어명은 '''Le sang de Sacrieur'''
+
+[[왁푸 온라인]]의 클래스. 
+사크라이어 여신을 추종하는 종족. 이름의 유래는 '''sacrifice'''와 '''crier'''의 합성어.
+== 불 속성 스펠 ==
+=== 피의 쇄도(Blood Rush) ===
+=== 피의 감옥(Cage of Blood) ===
+=== 갈망의 분노(Bloodthirsty Fury) ===
+=== 불타는 피(Burning Blood) ===
+=== 처벌(Punishment) ===
+== 바람 속성 스펠 ==
+=== 거부의 각인(Rejecttattoo) ===
+=== 사크라이어의 주먹(Sacraier's Fist) ===
+=== 어썰트(Assault) ===
+=== 울렁증(Motion Sickness) ===
+=== 빛의 속도(Light Speed) ===
+== 땅 속성 스펠 ==
+=== 바위로된 발(Rocky Foot) ===
+=== 파석권(Crackrock Blow) ===
+=== 바위던지기(Lethal Slingshot) ===
+=== 열주격(Colonnades) ===
+=== 파괴자(Smasher) ===
+== 서포트 스펠 ==
+=== 액티브 스펠 ===
+==== 이끌림(Attraction) ====
+AP소모량 4(0), MP소모량 2, 사거리 3(8)
+사크라이어가 대상을 2(7)만클 당겨오고 대상에게 -Dodge 2(25)를 부여
+ * 직선으로만 사용가능
+==== 자리바꾸기(Transposition) ====
+AP소모량 5(3), 사거리 2(7)
+사크라이어가 대상과 위치를 바꾸고 +Dodge 5(50)을 얻는 스킬
+ * 스펠 레벨이 5이상일 경우 적에게도 사용가능
+==== 희생(Sacrifice) ====
+AP소모량 6(2), 사거리 1(5)
+사크라이어가 아군에게 버프를 걸어 아군이 공격당할때 아군의 데미지를 대신 받고 위치를 바꾸는 스펠
+==== 생명 전송(Life Transfer) ====
+사거리 1(6)
+대상의 HP를 사크라이어 레벨의 1(2)배 만큼 사크라이어의 HP를 소모해 채워주는 스펠
+ * 삶의 집착(Clinging to Life)이 발동된 후에는 쓸수없음
+ * 대상이 반드시 아군일것
+ * 한 대상에게 한번만 사용가능
+==== 핏빛 갑주(Sanguine Armor) ====
+AP소모량 3(0), WP소모량 1
+Lock +6(60)
+현재 Coagulation에 1.5(2)를 곱함
+한 턴에 한번만 사용가능
+=== 패시브 스펠 ===
+==== 분노(Angrrr) ====
+체력이 깍일때마다 분노효과를 얻고 공격력이 %로 증가함
+ * 10 Angrr당 +Damege 0(10)%[* 체력이 0.9%깍일때마다 Angrr가 1증가한다. 증가분이 더 많으므로 손해는 아닌셈]
+==== 피의 약속(Blood Pact) ====
+최대 체력 +0(20)%
+ * 아군 한명마다 +0(8)%
+ * 아군이 KO될때마다 -0(12)%
+==== 모리번드(Moribund) ====
+사크라이어의 HP가 줄어들수록 사크라이어의 Lock을 고정수치로, Damage를 %로 올려주는 스펠
+ * 40%~20%구간 +Damege 0(20)%, +Lock 0(20), Multi-Arm
+ * 20%~1%구간 +Damage 0(40)%, +Lock 0(40), Multi-Arm
+ * '''HP 1'''일때 +Damage 0(80)%, +Lock 0(80), Multi-Arm[* 본인에게는 팔이 두쌍 추가되는 이펙트가 보이나 다른이에겐 보이지 않는다]
+==== 삶의 집착(Clinging to Life) ====
+죽음에 다다르면 0(100%)확률로 Impending Death(죽음 임박)상태가 되고 자신의 턴을 스킵한 후 다음 한 턴동안 무적이됨
+MP -2
+Lock 할 수 없음
+==== 각인된 피(Tattooed Blood) ====
+Lock +0(30), Coagulation이 활성화될때 중첩 +0(2)Lv

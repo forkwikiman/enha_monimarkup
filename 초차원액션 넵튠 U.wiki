@@ -1,0 +1,139 @@
+||||||||||||<#DCDCDC><table align=center> '''[[초차원게임 넵튠 시리즈]]''' ||
+||||||||||||<#DCDCDC><table align=center> '''번외편''' ||
+||<table align=center> [[신차원아이돌 넵튠 PP]] ||
+||<table align=center> [[초여신신앙 느와르 격신블랙하트]] ||
+||<table align=center> '''초차원액션 넵튠 U''' ||
+
+http://www.compileheart.com/neptune/u/img/top/logo.png?width=600&align=center
+
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_v0497VpxSSmaOmOguSSmpCa' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=v0497VpxSSmaOmOguSSmpCa&playLoc=undefined&alert=true' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=v0497VpxSSmaOmOguSSmpCa&playLoc=undefined&alert=true'></embed></object>}}}
+ * OP 테마 : 비너스의 하르모니아(ヴィーナスのハルモニア) - [[이마이 아사미|이마이 아사미(今井麻美)]]
+{{{#!html
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_vad16YAKEEBYeL7eBuF7uAF' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=vad16YAKEEBYeL7eBuF7uAF&playLoc=undefined&alert=true' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=vad16YAKEEBYeL7eBuF7uAF&playLoc=undefined&alert=true'></embed></object>}}}
+ * ED 테마 : UNITE - [[marina]]
+ * 오프닝, 엔딩 앨범에 대한 자세한 정보를 알고싶다면 [초차원게임 넵튠 시리즈/관련 앨범] 항목 참조
+
+||<-3><tablewidth=320px><tablealign=right><tablealign=right><#2DA3FF> '''{{{#white 超次元アクション ネプテューヌＵ'''}}} ||
+||<-3><tablewidth=320px><tablealign=right><tablealign=right><#2DA3FF> '''{{{#white 초차원액션 넵튠 U'''}}} ||
+||<-3><:> attachment:1.jpg ||
+||<-3><#DCDCDC> 개발 ||
+||<-3><:> [[컴파일 하트]] ||
+||<-3><:> 탐소프트 ||
+||<-3><#DCDCDC> 발매 / 유통 ||
+|| 일본 ||<-2><:> [[컴파일 하트]] ||
+|| 한국 ||<-2><:> [[CFK]] ||
+|| 북미 ||<-2><:> [[아이디어 팩토리|IFI]] ||
+||<-3><#DCDCDC> 등급 ||
+|| 일본 ||<-2><#FF9900><:>[[wiki:"CERO"<span style="color:white">CERO D (17세 이용가)]] ||
+|| 한국 ||<-2><#FF0000><:>{{{#white 청소년 이용불가}}}[* 넵튠 시리즈 최초로 당당하게 18세 이용가를 받았다.] ||
+||<:>북미 ||<#0066FF><:>[[ESRB|<span style="color:white"> ESRB]] {{{#white T}}}||
+||<-3><#DCDCDC> 장르 ||
+||<-2><:>[[액션 게임|네푸네푸 액션]] ||
+||<-3><#DCDCDC> 플랫폼 ||
+||<-2><:>[[PS VITA]], [[PC]][* [[스팀(플랫폼)|스팀]] 인증 필수]  ||
+||<-3><#DCDCDC> 발매 ||
+|| 일본 ||<-2><:> [[2014년]] [[8월 28일]] ||
+|| 한국 ||<-2><:> [[2014년]] [[12월 23일]] ||
+|| 북미 ||<-2><:> 미정 ||
+||<-3><#DCDCDC> 시리즈 ||
+||<-2><:>[[초차원게임 넵튠 시리즈]] ||
+||<-3><#DCDCDC> [http://www.compileheart.com/neptune/u/  공식 홈페이지] ||
+
+[[목차]]
+超次元アクション ネプテューヌＵ
+
+== 개요 ==
+[PS VITA]]로 나온 5번째 [wiki:"초차원게임 넵튠 시리즈" 넵튠 시리즈]로 이번에는 넵튠 시리즈로써는 완전히 새로운 장르인 액션 게임이다. 제작은 [[섬란 카구라 SHINOVI VERSUS -소녀들의 증명-]]와 [[신차원아이돌 넵튠 PP]]를 맡았던 탐소프트. ~~어찌 불안한데.~~
+
+참가 인원은 여신 4명+후보생 4명과 새로운 캐릭터인 '덴게키코' 와 '패미통' 이 공개되어 있다.
+
+그리고 역시나 [[CFK]]는 '''한글화''' 정발을 [[http://ruliweb.daum.net/news/view/64277.daum 발표했다]]. 10월 17일 청소년 이용불가로 심의를 통과했다. [[초여신신앙 느와르 격신블랙하트]] 한글판과 함께 [[G-STAR]] 2014에 출품 예정.
+
+한글판 발매일이 12월 23일로 확정되었다. 예약판매는 12월 17일 오후 3시부터 선착순.  [[http://www.cyberfront.co.kr/nbbs/bbs/board.php?bo_table=bbs_news&wr_id=1023 참고]] 온라인 예약 특전으로는 ~~코스튬 브레이크가 봉인되는~~여신, 여신 후보생들의 수영복 세트를, 오프라인 예약 특전으로는 [[MAGES.(신차원게임 넵튠 V)|MAGES.]]로부터의 선물 코드를, 한정판 특전으로는 OST CD와 덴게키코, 패미통의 수영복 세트, 초차원 네푸네푸 쿠션 담요가 동봉된다. ~~그렇게 [[느와르(초차원게임 넵튠)|느와르]]는 진짜로 쿠션이 되었다.~~
+
+== 스토리 ==
+――게임업계
+
+4여신과 여신 후보생의 가호 아래
+지켜지고 있는 세계
+
+어떤 세계라도 악의 싹은 사라지지 않는 법
+허나 흉악한 적과 광폭한 몬스터가
+나타나면 4여신과 여신 후보생이
+힘을 합쳐 금새 쓰러뜨려 버리는 까닭에
+여신은 물론 게임업계의 사람들까지도
+지루해하는 나날이 계속되고 있었다.
+
+그러던 어느 날, 여신들에게
+흥미로운 제안이 들어왔다……
+
+== 전투 시스템 ==
+=== 듀얼 시스템 ===
+http://www.compileheart.com/neptune/u/img/system/dual_1.jpg
+ * 간단히 말하면 태그 시스템. 기존 넵튠 시리즈와 달리 2인 1조가 되어 싸우게 된다. 당연히 HP 게이지는 공유하지 않는다. 그러므로 죽기 직전의 위기에 처했거나 상성에 불리한 몬스터를 만났을때는 바로 교대해주는것이 유리하다. 캐릭터의 단점을 보완하거나 장점을 극대화 시킬 수도 있으며 추가로 대화같은것도 볼 수 있다.
+
+=== 코스튬 브레이크 ===
+http://www.compileheart.com/neptune/u/img/system/cos_1.jpg
+ * 모든 의상에는 내구도가 존재하며 적의 공격을 받을때나 특정 행동을 할 때 내구도가 감소한다. 내구도가 일정 수준 이하로 떨어지게 되면 '''옷이 찢어지며(!)''' 이를 코스튬 브레이크라고 한다. ~~괜히 CERO D가 아니다. 이로서 [[섬란 카구라 SHINOVI VERSUS -소녀들의 증명-]], [[아키바스트립2]]를 잇는 신사의 게임이 나왔다 역시 신사들의 게임기 [[PS Vita]]!~~ 참고로 예약 특전인 수영복은 찢어지지 않는다. ~~어째서!~~ ~~선행컷 보니까 수영복 급의 노출도인 그린 하트님도 코스튬 브레이크 되던데?!~~ 코스튬 브레이크 상태에선 방어력이 감소하는 대신 크리티컬 확률과 EXE 드라이브 게이지가 증가한다.~~인터뷰에서는 의문의빛줄기 어쩌고헸으면서 저이상찢어지질않는다 칫~~
+
+=== 변신 ===
+http://www.compileheart.com/neptune/u/img/system/change.jpg
+ * 말 그대로 변신한다. 기존 넵튠 시리즈처럼 변신하면 모든 스텟이 비약적으로 상승한다. 하지만 변신 방법이 다른데 SP가 아닌 EXE 드라이브 게이지를 소비하게 된다. 전투를 통해 얻는 EXE 드라이브 게이지가 일정량이 되면 변신이 가능하며 변신후엔 EXE 드라이브 게이지가 지속적으로 감소하게 된다. 당연히 0이되면 변신이 풀린다.
+
+=== 스킬 ===
+ * 특정 게이지를 소비하여 강력한 공격을 할 수 있다. SP 스킬과 EXE 드라이브로 나뉜다.
+
+http://www.compileheart.com/neptune/u/img/system/skill_1.jpg
+ * SP 스킬 : 변신전에도 사용이 가능하며 스킬마다 정해진 양의 SP를 소모한다. SP 스킬은 설정에서 교체가 가능하다. 사진에 나온 스킬은 [[넵튠(초차원게임 넵튠)|넵튠]]의 32식 엑스 블레이드 β.
+
+http://www.compileheart.com/neptune/u/img/system/skill_2.jpg
+ * EXE 드라이브 : 변신후에만 사용할 수 있는 필살기이며 굉장히 강력하지만 모든 EXE 드라이브 게이지를 소모하게 되니 주의하자. 사진에 나온 스킬은 [[느와르(초차원게임 넵튠)|느와르]]의 인피니트 슬래시.
+
+=== 릴리 스페셜 ===
+http://www.compileheart.com/neptune/u/img/system/lillysp_1.jpg
+ * EXE 드라이브 게이지의 50%를 소모하여 두 사람이 협동으로 펼치는, EXE 드라이브 이상의 필살기. 스토리 후반에 습득하게 되고 게임 클리어에 열쇠가 되는 중요한 요소이다. 변신 전후 모두 사용 가능하고 캐릭터의 조합에 따라 대사의 내용이 변하게 된다.
+
+== 등장인물 ==
+=== 수호여신 ===
+ * [wiki:"넵튠(초차원게임 넵튠)" 넵튠 (퍼플 하트)] - CV: [[타나카 리에]]
+ * [wiki:"느와르(초차원게임 넵튠)" 느와르 (블랙 하트)] - CV: [[이마이 아사미]]
+ * [wiki:"블랑(초차원게임 넵튠)" 블랑 (화이트 하트)] - CV: [[아스미 카나]]
+ * [wiki:"벨(초차원게임 넵튠)" 벨 (그린 하트)] - CV: [[사토 리나]]
+
+=== 여신 후보생 ===
+ * [wiki:"네프기어" 네프기어 (퍼플 시스터)] - CV: [[호리에 유이]]
+ * [wiki:"유니(초차원게임 넵튠 MK2)" 유니 (블랙 시스터)] - CV: [[키타무라 에리]]
+ * [wiki:"롬 & 람" 롬 & 람 (화이트 시스터즈) ] - CV: [[오구라 유이]], [[이시하라 카오리]]
+
+=== 신 캐릭터 ===
+특이하게도 이번엔 게임회사나 게임을 의인화한게 아니라, 게임 잡지를 의인화했다.
+덴게키코는 전작들에서도 트위톡 등에 등장한바 있다.
+
+ * 덴게키코 - CV: [[히로하시 료]]
+[[wiki:"아스키 미디어 웍스" 전격 계열 게임잡지]](전격 플레이스테이션 등)
+http://img3.wikia.nocookie.net/__cb20140610103258/hyperdimensionneptunia/images/thumb/e/ec/Dengekiko.png/250px-Dengekiko.png
+ 사용 스킬이 [[미사카 미코토|모 레벨 5]]의 패러디다.아쉽게도 성우장난은 없지만.
+
+ * 패미통 - CV: [[하라 유미]]
+[[패미통]]
+http://img4.wikia.nocookie.net/__cb20140610103231/hyperdimensionneptunia/images/thumb/e/e7/Famitsu.png/250px-Famitsu.png
+
+== 여담 ==
+[[G-STAR|G-STAR 2014]]에 [[초여신신앙 느와르 격신블랙하트]]와 함께 [[소니 컴퓨터 엔터테인먼트 코리아]] 부스에 참여했다. 참고로 넵튠U는 18세 이용가인데 어째선지 따로 구분되어있는 18세 전용 공간이 아닌 일반 공간에 있었다. 아마 코스튬 브레이크의 존재를 몰라서 그런듯. ~~하긴 일부러 얻어맞지 않는이상 확인하기 힘들긴 하다.~~
+~~얻어맞지 않는 이상 확인이 불가능하기도 하고 애초에 1인당 시연시간이 5분이라 확인도 불가능했다. 지스타 알바가 5분 지나고나면 초기화 시켰기 때문에...~~
+
+북미 PC판의 심의가 통과되었다. [http://www.esrb.org/ratings/synopsis.jsp?Certificate=33829&Title=Hyperdimension%20Neptunia%20U%3A%20Action%20Unleashed&searchkeyword=u 참조]
+
+== 평가 ==
+게임 자체는 그냥저냥 할만 하지만, 컴파일 하트 특유의 우려먹기가 극에 달한 작품.[* 대표적으로 배경과 일부 몹들, BGM] 이 때문에 기존 팬들 중에서도 이 타이틀을 마지막으로 넵튠 시리즈에 손도 안 대겠다고 하는 유저들도 존재한다[[카더라]].
+
+무쌍류 게임으로는 그냥저냥. 제작사의 전작 섬란카구라 시리즈와 비슷한 감각으로 할 수 있고, 커플 캐릭터의 귀여운 칭찬도 들어줄만 하다.
+
+다만 시나리오 종료 후에 갑자기 집중력이 떨어지는 난이도 구성과 야리코미 시스템, 그리고 캐릭터간 성능 차이가 꽤 심한건 단점.
+넵튠과 네프기어 여신모드가 쓰기 쉽고, 유니같은 경우에는 상대적으로 손이 많이 가는편.
+
+이것저것 클리어후 사용가능해지는 컨피그의 치트 코드는 이때까지의 노가다가 허무해질 정도로 게임성이 변해버린다.
+
+
+[[각주]]

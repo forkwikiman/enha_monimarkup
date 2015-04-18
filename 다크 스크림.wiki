@@ -1,0 +1,13 @@
+ * 상위항목: [[창세기전 시리즈/기술]]
+
+{{{#!html
+<object id='mgoonPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='500' height='423' align='middle'><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='movie' value='http://play.mgoon.com/Video/V704848@0' /><param name='quality' value='high' /><param name='bgcolor' value='#000000' /><embed src='http://play.mgoon.com/Video/V704848@0' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' quality='high' bgcolor='#000000' width='500' height='423' name='mgoonPlayer' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+>'''영원히 어둠 속에 잠재워주지.'''
+　
+[[창세기전 3: 파트 2]]의 필살기. [[마리아 카진스키]] 전용이지만, 세이브 연동으로 꺼낸 [[나야트레이]]도 사용할 수 있다. 
+
+보통의 전체화면 공격보단 약간 좁은 범위지만, 일정 범위 내의 적들을 어둠속에서 '''2번''' 덮친다. 그 덕에 첫타로 안 죽은 적들도 2번째 공격에서는 100% 보낼 수 있다. 특히 난이도가 낮은 1.005버전에서는 마리아를 조금만 키워줘도 1방만 맞으면 적들이 죄다 죽어나가기 때문에, 범위 내의 졸개를 높은 확률로 죄다 지워버릴 수 있다. 다만 이것은 난이도가 높은 1.002버전에서는 역으로 작용해서 2방을 모두 맞아야 적이 죽었기 때문에, 적에게 소울만 헌납하는 경우도 생길 수 있다는 것이 문제. 물론 일단 한 대 맞으면 HP의 반 이상이 날아가니 다른 캐릭터로 잡아주면 되기 때문에 별로 대단할 것 없는 문제기는 하다. ~~다만 한대 맞고 살아남은 [[아델룬]] 총병이 2기 이상이라면 [[wiki:"대니얼 대 김" 마리아는 죽게 되게찌...]]~~
+
+에피소드 4의 필살기 중에서는 [[wiki:"살라딘(창세기전 3)" 살라딘]]의 주옥같은 필살기들 다음으로 성능 최강이다. 게다가 사용하는 2명 모두 '''기본으로 가지고 있다.'''

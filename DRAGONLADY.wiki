@@ -1,0 +1,51 @@
+[[목차]]
+== 개요 ==
+
+||<tablealign=center>||||||||<:>'''< [[BOF]]2009 개인전 스코어 우승곡 >''' ||
+|| 2008 - [[Lapis]] || → || '''DRAGONLADY''' || → || 2010 - [[Halcyon]] ||
+
+Nankumo가 제작한 [[BMS OF FIGHTERS]] 2009 참가곡.
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/NZ5MgV8BIXM&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/NZ5MgV8BIXM&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+|||||| [[발광 BMS]] 난이도 체계 ||
+|| 차분명 || 발광 난이도 || 참고 ||
+|| 7keyEX  || ★4 ||  ||
+|| 7key（・３・) || ★14 || ||
+
+[[테크노]] 계통의 곡을 주로 만들던 Nankumo(=knot)의 곡으로 BOF2009 개인 총점 '''1위'''를 차지한 곡이다.[* 다만 평균 점수 랭킹 1위는 [[cranky]]가 투고한 JULIAN이 차지했다.]
+
+재기발랄한(?) 적절한 음성 샘플과 함께 곡의 리듬에 잘 맞는 동물들이 등장하거나 [[리젠트]] 가발(?)이 늘어나는 등의 코믹한 BGA가 특징인 곡. 특히 곡 중간의 '파이어 파이어 파파파파 파이어' 부분이 유명하다.
+
+그리고 2009년 12월 웹 앨범인 Groundbreaking에서 SUPER FIRE PROWREST REMIX라는 부제를 붙이고 TECHNO 사이드 6번 트랙에 실렸다. [http://gdbg.nekokan.dyndns.info/2009/techno.html 받아서 들으려면 여기로.]
+
+2011년 시점에서 이 곡에 붙은 대표적인 [[발광 BMS]]차분은 ★4와 ★14짜리가 있다. 연타가 굉장히 많이 늘어났으며, ★4는 회복구간이 중반빼고는 전무한데다 Total(게이지 증감량)이 짜게 책정되었기 때문에 ★4치고는 제법 어려운 난이도를 보여준다. ★14는 ★4의 연타구간이 스크로 가면서 난이도가 상승했으며 전체적인 난타와 연타의 강화, 그래놓고선 전혀 늘지 않은 Total값으로 꽤나 악명이 높다.
+
+BGA에 [[첸(동방프로젝트)|고양이]], [[카와시로 니토리|캇파]], [[레이센 우동게인 이나바|토끼]]가 나오는 탓인지 [[동방프로젝트]] 캐릭터를 이용한 [[매드 무비]]도 [http://www.youtube.com/watch?v=_s5yQa6kGkk 나와][http://www.youtube.com/watch?v=k3UpYe7H-OQ 있다]. 은근히 고퀄리티다(..)
+그리고 특유의 리듬감 때문인지 [[합성 갤러리]]에서 얼마 안되게 쓰이는 BMS음원이기도 하다. 이 곡을 음원으로 쓴 합성작이 힛갤에 올라간 바가 있다.[http://gall.dcinside.com/list.php?id=composition_dc&no=162481 #] 
+
+BGA 마지막에 나오는 비행기 실루엣으로 볼때 제목은 [[U-2]] Dragon Lady에서 따온 듯 하다.
+
+== [[maimai]] ==
+
+|||||||||||| maimai 난이도 체계 ||
+|| {{{#blue EASY}}} || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXPERT}}} || {{{#8324ff MASTER}}} ||
+|| {{{#blue 2}}} || {{{#green 5}}} || {{{#orange 7}}} || {{{#red 10}}} || '''{{{#8324ff 12}}}''' ||
+|||| BPM |||||||| 173 ||
+|||| 녹화 가능 여부 |||||||| O ||
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/L3C4AV8Dxc4" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[2014년]] 세가의 ~~세탁기~~ 리듬게임 maimai GreeN에 이식되었다. BGA까지 통째로 이식되었다!
+
+[[maimai GreeN]]부터 추가된 새로운 슬라이드 패턴을 적극 활용했다. 패턴에서 볼 수 있는 슬라이드 노트가 보통은 끝에서 끝으로 이동하는 경향이 많았는데 이 곡만큼은 슬라이드 노트가 '''유턴을 시전'''한다. 외에는 반복적인 슬라이드 노트로 [[게슈탈트 붕괴]]를 일으키게 한다.
+
+{{{#!HTML
+<iframe width="420" height="315" src="//www.youtube.com/embed/HYh0yP6SQRg" frameborder="0" allowfullscreen></iframe>
+}}}
+
+마스터 보면은 익스퍼트와는 다르게 중구난방 섞여나오는 트릴과 세로연타덕에 정신이 없어진다. 아무래도 익스퍼트의 그것이 최대한 자제(...)한 패턴인 모양. 중간 부분의 Z자로 꺾이는 슬라이드 노트도 꽤나 인상깊다.

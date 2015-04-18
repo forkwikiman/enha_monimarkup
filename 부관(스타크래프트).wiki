@@ -1,0 +1,31 @@
+{{{#!html
+<iframe width="200" height="210" src="//www.youtube.com/embed/zvPaBnsStGs" frameborder="0" allowfullscreen></iframe>
+}}}
+{{{#!html
+<embed src="http://www.youtube.com/v/YEaY8One1zg?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344">}}}
+{{{#!html
+<embed src="http://www.youtube.com/v/G6muwS9eLNc?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="360">}}}
+
+http://kr.media.blizzard.com/sc2/media/artwork/portrait_adjutant-large.jpg?width=180
+
+Adjutant[* 한글화된 [[스타크래프트 2]]가 나오기 전까지는 오퍼레이터라는 잘못된 명칭이 널리 퍼져 있었으나, 출시 이후에는 훨씬 익숙하고 발음하기 편한 명칭인 [[부관]]으로 자리 잡았다.]
+
+|| '''등장 작품''' || '''원판 성우''' || '''더빙판 성우''' ||
+|| [[스타크래프트]] || Tiffany Hayes(영) [http://www.imdb.com/character/ch0043183/?ref_=nm_flmg_act_4 출처] || 미상(일) ||
+|| [[스타크래프트 2]] || Julianne Buescher(부관)[* [[발연기]]라고 까인다. 목소리 울림 빼고는 기계음 같지도 않고 말투가 적이 쳐들어왔는데 경고음이 무슨 즐거운 말투라서 '''깬다'''는 불평이 많다. 문제는 이건 예전에 비해서 나아진 것으로, 2009년경 동영상이 공개되었을 때에는 완전 아줌마 목소리였다.] [[BR]] Anna Vocino(연합 부관) || [[하미경]](한, 부관)[* 기계이면서 비서라는 직책(?)을 잘 소화해냈다.] [[BR]] [[한채언]](한, 연합 부관) ||
+
+[[테란]]에서 널리 쓰이는 인공지능. 기지의 관리나 주요 시스템 관리를 담당한다.
+
+http://images4.wikia.nocookie.net/__cb20080821022456/starcraft/images/8/81/Adjutant_SC1_Head1.png?align=left 1편에서는 인간처럼 살색이었지만 이번 2편에서는 잿빛 로봇. 1편부터 부관이 단순한 인공지능 시스템이다, 사이보그다, 안드로이드다 등 추측이 많이 있었는데… 2011년 3월 블리자드 인터뷰에서 [[스타크래프트|1차 대전쟁]] 시절의 부관은 생체기관이 있는 [[사이보그]]여서 저그 감염에 취약했으나[* 군단의 심장에서 [[이즈샤]]도 본래 부관으로 설정되어 있었다. 지금은 초능력 있던 어느 의무관으로 변경.], 자유의 날개에 들어서면서 인공적으로 조립된 [[안드로이드|전면 기계 모델]]이 쓰인다는 언급이 있었다. 그런데 [[레이너 특공대]]가 대열차 강도 임무에서 노획한 구 [[테란 연합]] 부관을 보면 구형인데도 사지가 인공지능 로봇처럼 보인다. [[http://kr.media.blizzard.com/sc2/media/artwork/portrait_confederateadjutant-large.jpg #]]~~무섭다~~
+
+여담으로 테란 연합 부관이 타소니스의 도청내용을 재생할 때 목소리에 따라 눈동자의 색이 바뀐다. [[에드먼드 듀크]]일 때는 {{{#yellow 노란색}}}, [[사라 케리건]]일 때는 {{{#purple 보라색}}}, [[짐 레이너]]일 때는 {{{#green 초록색}}}, [[아크튜러스 멩스크]]일 때는 {{{#red 빨간색}}}.
+
+음성이나 외형을 보면 여성형으로 의외로 [[거유|볼륨]]이 있다. 3D 초상화를 보면 가끔 얼굴가죽(…)을 들어올려 내부를 보여주기도 한다.[* 영어 동영상 마지막 부분 참고.]
+
+2편의 부관이 무서워졌다는 말이 많은데 사실 [[불쾌한 골짜기|1편의 부관이 몇 배는 섬뜩하다는 평이 지배적이다.]] 그도 그럴 것이 저게 사람인지 아닌지 구분도 안 되는데 [wiki:"로보캅"이상한 기계에 연결되어 있으며] 목소리도 왠지 너무 친절해서 무섭다.
+
+사족으로 2편 초기 기획 당시에는 '''머리만 기계 틀에 붙은''' 섬뜩한 모습이었다. 그 잔재를 구판 스타크래프트 2 홈페이지의 스크린샷에서 확인할 수 있다.
+
+[[http://tvpot.daum.net/clip/ClipView.do?clipid=26395509 게임 배우기 메뉴에서 아무것도 누르지 않고 몇 분 정도 기다리면 "나도 사령관 하고 싶다. 다리 좀 달아줘."라고 말한다.]]
+
+블리즈컨 2011의 코스프레 대회에서 하와이 출신의 팬이 부관 코스프레로 우승을 하였다. 블리즈컨 공식 홈페이지에 올라올 정도로 상당한 퀄리티. [[http://us.battle.net/blizzcon/en/blog/4132436 #]]

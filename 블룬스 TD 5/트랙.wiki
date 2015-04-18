@@ -1,0 +1,261 @@
+ * 상위 항목 : [[블룬스 TD 5]]
+
+[[블룬스 TD 5]]에서 나오는 트랙을 5단계 난이도로 분류. 모바일 버전을 기준으로 작성됨.
+
+[[목차]]
+
+== 참고 ==
+ * 이름의 번역은 원칙적으로 모바일 버전의 한글화 번역을 그대로 준용하되, 다만 지나치게 직역되어 본래의 의미에 혼동이 될만한 이름은 융통성 있게 변경
+ * 트랙의 이미지는 모바일 버전의 그것을 캡처한 이미지
+ * 트랙에서의 풍선의 진행 방향은 '''정방향을 기준으로''' 붉은 화살표가 지시하고 있음
+ * 트랙의 이름은 사진(이미지) 위에 기재되어 있음
+
+
+== Beginner (초보) ==
+첫 클리어 시 Medium 난이도 기준으로 몽키 머니 100을 받는다.
+모든 맵은 반드시 하나의 입구와 출구만을 가진다는 특징이 있다.
+
+=== Monkey Lane (원숭이 도로) ===
+attachment:01.jpg
+
+
+=== Skull Peak (해골 봉우) ===
+attachment:02.jpg
+
+
+=== Lobby (로비) ===
+attachment:03.jpg
+
+
+=== 3 Times Around (3번 돌기) ===
+attachment:04.jpg
+
+
+=== North Pole (북극) ===
+attachment:05.jpg
+
+
+=== Patch (조각) ===
+attachment:06.jpg
+
+
+=== Maze (미로) ===
+attachment:07.jpg
+
+
+=== Fireworks (불꽃놀이) ===
+attachment:08.jpg
+
+
+=== Brick Wall (벽돌담) ===
+attachment:09.jpg
+
+
+=== Z Factor (Z 요인) ===
+attachment:10.jpg
+
+
+=== Park Path (공원로) ===
+attachment:11.jpg
+
+
+=== The Rink (링크) ===
+attachment:12.jpg
+
+
+=== Roswell (로즈웰) ===
+attachment:13.jpg
+
+
+=== Space Truckin (우주 거래) ===
+attachment:14.jpg
+
+
+
+== Intermediate (중급) ==
+첫 클리어 시 몽키 머니 200을 받는다.
+일부 트랙은 입구나 출구가 2개 이상인 트랙이 있다.
+매 라운드마다 입구가 달라지는 트랙도 등장한다.[* Country Road]
+
+=== Dune Sea (모래 바다) ===
+attachment:15.jpg
+
+
+=== Lava Fields (용암원) ===
+attachment:16.jpg
+
+
+=== Ice Flow (빙류) ===
+attachment:17.jpg
+
+
+=== Country Road (시골길)[* 1라운드를 서쪽 방향에서 시작하고, 그 다음 매 라운드마다 반시계 방향으로 입구가 바뀐다.] ===
+attachment:18.jpg
+
+
+=== Jungle (정글) ===
+attachment:19.jpg
+
+
+=== Workshop (작업장) ===
+attachment:20.jpg
+
+
+=== Bloon of Clubs (클로버 풍) ===
+attachment:21.jpg
+
+
+=== Archipelago (군도) ===
+attachment:22.jpg
+
+
+=== Bloon Circles (블룬 서클) ===
+attachment:23.jpg
+
+
+=== Slalom (활강) ===
+attachment:24.jpg
+
+
+=== Snake River (스네이크 강) ===
+attachment:25.jpg
+
+
+=== Dockside (부둣가) ===
+attachment:26.jpg
+
+
+
+== Advanced (고급) ==
+첫 클리어 시 Medium 난이도 기준으로 몽키 머니 300을 받는다.
+총 길이가 짧거나 두 가지 이상의 분리된 경로가 서로 이격되어있다는 특징이 있다.
+
+14년 10월 22일에 추가된 Crypt keeper는 expert로 올려도 손색이 없는데
+경로 자체가 Down The Drain 보다 짧은 데다가, 돌길 내에서만 처리하려고 하는 경우
+death valley보다 한참 어려워 지는 것이 특징.
+
+=== Long Range ===
+attachment:longrange.png
+
+=== Water Hazard (물 웅덩이) ===
+attachment:27.jpg
+
+
+=== Rink Revenge (아이스링크 복수) ===
+attachment:28.jpg
+
+
+=== Challenger Deep (챌린저 해연) ===
+attachment:29.jpg
+
+
+=== Scorched Earth (뜨거운 대지) ===
+attachment:30.jpg
+
+
+=== U-Turn (유턴) ===
+attachment:31.jpg
+
+
+=== The Great Divide (대 분열) ===
+attachment:32.jpg
+
+
+=== The Eye (안구) ===
+attachment:33.jpg
+
+
+=== Phase Portals (단계 포털)[* 입구에서 진행하는 풍선이 포털에 닿으면 같은 모양의 다른 포털로 이동하는 식의 이동 양태를 보인다.] ===
+attachment:34.jpg
+
+
+=== Lightning Scar (번개 자국) ===
+attachment:35.jpg
+
+
+=== Switch (스위치) ===
+attachment:36.jpg
+
+
+=== Mount Magma (마그마 산)[* 중심에서 풍선이 등장하여 원형으로 회전하며 밖으로 나와, 네 갈래로 흩어지며 출구로 빠져나간다.] ===
+attachment:37.jpg
+
+=== Crypt keeper (무덤지기)[* 돌길 아랫부분에서 등장을 해서, 윗쪽의 사원으로 빠져나간다.] ===
+포럼에서는 down the drain보다 어렵다는 이야기까지 나오곤 하지만, 사실 그건 너무 과하다. 
+객관적으로 평가하자면, 정방향은, death valley보다 꽤 많이 어려운 수준.
+그 정도면, expert로 올려놓아도, 어려운 축에 속한다는 것.
+
+왜 이런 반응이 나왔는지를 생각해 보면.
+(1) 돌길을 넘어서는 순간 5갈래로 갈라지므로, 처리하기가 굉장히 까다로워진다.
+(2) 그 돌길의 경로가 매우 많이 짧다. 실제로 death valley의 아랫쪽 경로보다 매우 많이 짧다.
+
+그래서, 사실 내가 정방향을 깰 때에는 큰 돌길만을 path로 봤다. 이게 key point.
+(1) 처음에 spike factory (1,0) + dart monkey (2,3) + sniper (1,0)
+(2) 그 후에, glue gunner (2,0) + boomerang (2,3)
+특히 boomerang은 무조건 길 입구에 둔 다음 CLOSE로 SETTING 하자.
+(3) ice monkey (3,2) + village (2,3) (MIB)
+이것으로 49까지 버틴다.
+(4) 그리고, 슬슬 spike factory (1,3)을 4기 올린다.
+이것은 MOAB에게 4배의 데미지를 주기 위함이다. 하지만, 그것과 함께 해야 할 일은 bomb tower를 입구에 2기 정도 세우면서, 60탄 전까지 검은 상어로 만드는 것. (혹은 Shard 역시 좋다고 한다.)
+(5) 64탄 전까지 ninja (0,4) 짜리를 하나 올려서 Sabotage를 쓴다. 64/66/68/70/71/73/75에서 굉장히 어려워지기 때문에, 중간 중간 ninja (0,4)짜리를 올려라. - 이건 진짜 필수.
+(6) 마지막에 super monkey (2,3)짜리 2기 올려라. 자. 그 전에, 84탄에서 Sabotage를 2번/85에서 1번 쓰도록 하자.
+
+좋은 공략 있으면 추가 부탁.
+
+역방향은 그에 비해 매우 쉬운데, 그냥 출구만 강하게 막는 식으로 가면 무난하기 때문. 
+그냥 DownStream 역방향 운용하듯 하면 알아서 클리어 된다.
+== Expert (전문) ==
+첫 클리어 시 Medium 난이도 기준으로 몽키 머니 400을 받는다.
+
+=== Double Double Cross (더블 더블 크로스) ===
+attachment:38.jpg
+
+
+=== Tunnels (터널) ===
+attachment:39.jpg
+
+
+=== Castle (캐슬) ===
+attachment:40.jpg
+
+
+=== Clock (시계) ===
+attachment:41.jpg
+
+
+=== Drag Strip (드래그 스트립) ===
+attachment:42.jpg
+
+
+=== Death Valley (죽음의 계곡)[* 아래쪽 루트의 입구부터 출구까지의 길이가 게임 전체 트랙 가운데 가장 짧다. 46라운드/60라운드의 MOAB/BFB는 각각 아래쪽 루트에서 나온다.] ===
+attachment:43.jpg
+
+
+=== Treetop (트리탑) ===
+attachment:44.jpg
+
+
+=== Runway (도주로) ===
+attachment:45.jpg
+
+
+=== Down The Drain (하수도 아래로)[* '헛수고'라는 뜻의 영어 관용구로 많이 쓰인다. 하지만 이 트랙에서는 중앙에 물이 배치되어 있고 4개의 경로로 물이 내려가는 것을 형상화했으므로 직역.] ===
+attachment:46.jpg
+
+
+
+== Extreme (극한) ==
+클리어 시 Medium 난이도 기준으로 경험치를 100,000을 준다.[* PC 버전은 세이브가 불가능하다.] 시도마다 50 몽키 머니를 소모한다.[* 모바일 한정으로 Play > Quick Play(오른쪽 아래의 풍선)을 통해서 들어올 때에는 소모하지 않는다. 여기서 클리어해도 인정된다.] 첫 클리어 시 난이도 순서대로 각각 50,000 / 100,000 / 150,000 / 200,000의 경험치를 준다.[* 모바일 기준]
+=== Main Street (중심가) ===
+attachment:47.jpg
+
+
+=== Bloontonium Lab (블룬토니움 실험실) ===
+attachment:48.jpg
+
+=== Tar Pits (타르 갱) ===
+이미지 [추가바람]
+
+크리스마스 시즌에 추가된 트랙으로 BTD5 트랙중 '''가장 어려운 트랙'''으로 손꼽힌다.
+
+[[각주]]

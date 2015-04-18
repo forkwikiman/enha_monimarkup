@@ -1,0 +1,51 @@
+[[목차]]
+|| 최초 수록 버전 || [[Sabin Sound Star]] ||
+|| 작곡 || fromsmk ||
+|| 배경 || [[범용 BGA]] ||
+|| 장르 || (미표기) ||
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/qRitSL_I0os?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/qRitSL_I0os?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+== 개요 ==
+[[Sabin Sound Star]]와 [[EZ2DJ 7thTRAX BONUS EDITION]]의 수록곡. 드럼 앤 베이스 리듬 위에 애수 띈 신디사이저 멜로디를 얹은 곡이다. 곡은 몽환적인 분위기를 뿜어내서 좋은 평을 듣고 있긴 한데 BGA가 범용이라 아쉬워하는 사람들이 많았다. 사실은 이 곡에 맞게 제작했던 그림이 쓰일 예정이었다고 하나, 제작진과의 의견조율이 잘 안 돼서 결국 미사용.[http://blog.naver.com/dparans?Redirect=Log&logNo=110104137366 #]
+
+곡이 좋아서 그런지, 3S 팩토리의 공식 유튜브 계정에서 조회수로는 10위권 안에 든다. 전용 BGA가 없는 곡인 것을 감안하면 높은 조회수.
+
+여담으로 이 곡이 마음에 드는 사람이라면 [[에이펙스 트윈]]의 '4'라는 곡도 취향에 맞을 것이다.
+
+노멀이 불렙 7이라고 한다. 같은 7곡인 [[Tempus Praeterita]]와 현저히 차이가 날 정도. 다만 개인차가 있는 듯하다.
+
+== [[EZ2DJ]]에서의 Romance for Moon ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 8}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 11}}} || {{{#red 13}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 10}}} || {{{#red 13}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 13}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange -}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!html
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/PIIKjgyIfOY?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/PIIKjgyIfOY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM - HD MIX
+
+난이도는 노멀 10, 하드 13이었으나 산재했던 물렙 중 하나여서 무척 까였다. 결국 BE rA에서 새 패턴으로 교체되고 하드 난이도도 12로 하향. 노멀 역시 EZ2AC EC에서 표기 난이도가 2단계 떨어졌다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+EV에서 11레벨짜리 노멀이 새로 추가되고, 기존 노멀은 하드로 이동했다. EV 1.53 현재 하드를 고르면 스킵되는 버그가 있다.
+=== 14K MANIAC ===
+EV에서 노멀과 하드 두 패턴으로 처음 등장했다.
+=== EZ2CATCH ===
+EV에서 13으로 상향되었다.
+=== TURNTABLE ===

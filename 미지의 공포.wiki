@@ -1,0 +1,19 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Hidden Horror''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/122867_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''미지의 공포''' ||
+|| '''마나비용''' || {1}{B}{B} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 생물 — 괴수 ||
+||||<height=160px>미지의 공포가 전장에 들어올 때, 생물 카드 한 장을 버린다. 그렇게 하지 않는다면 미지의 공포를 희생한다.
+
+''If the presence of evil were obvious, it wouldn't be nearly as dangerous.''||
+|| '''공격력/방어력''' || 4/4 ||
+|||| '''[[매직 더 개더링/블럭|수록세트]]''' || '''희귀도''' ||
+|||| Weatherlight || 언커먼 ||
+|||| 6th Edition || 언커먼 ||
+|||| 10th Edition || 언커먼 ||
+
+3발비에 4/4라는 고효율인 대신 생물을 하나 버려야 한다는 페널티가 있다. 하지만 이 페널티는 오히려 리애니덱에서는 장점으로 승화되는데, 일부러 발비 큰 생물을 버렸다가 [[Animate Dead]]나 [[Zombify]], 또는 [[Makeshift Mannequin]]같은 종류의 '무덤 속의 생물을 플레이에 들여놓는' 주문으로 줏어올 수 있는 것이다. 이런 용도를 인정받아  Premium Deck Series: Graveborn에도 수록되었다.
+
+과거에 [[Dark Ritual]]이 있던 시절에는 첫턴에 쓰는 것이 가능했지만 Dark Ritual이 짤린 10th edition이 현역이었던 시점에서는 옛날 이야기. 

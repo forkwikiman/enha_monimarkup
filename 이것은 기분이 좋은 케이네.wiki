@@ -1,0 +1,12 @@
+これはキモちのいいけーね
+
+{{{#!html
+<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/Svbzb9Ay2j4&hl=en_US&feature=player_embedded&version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/Svbzb9Ay2j4&hl=en_US&feature=player_embedded&version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></embed></object>}}}
+
+2007년 12월 31일날 발매된 [[IOSYS]]의 어레인지 앨범, 동방하상구창치의 3번 트랙이다.
+
+영상화된 다른 곡들이 플래시 형식으로 영상화 된 것과는 다르게, '''플레이어 형식'''이다.
+
+[["카미시라사와 케이네/백택" 백택 케이네]]의 별명중 '기분나쁜 케이네(キモけーね)'에서 모티브를 따왔다.
+
+영상 자체의 인기는 저조한 듯.

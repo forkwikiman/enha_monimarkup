@@ -1,0 +1,25 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>   '''영어판 명칭'''   ||   '''Seismic Assault'''   ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/122946_1.jpg?width=230px||
+||  '''한글판 명칭'''  ||  '''지진 강타'''  ||
+||  '''마나비용'''  ||  {R}{R}{R}  ||
+||  '''[[매직 더 개더링/카드의 타입|유형]]'''  ||  부여마법  ||
+||||<height=190px>대지 카드 한 장을 버린다: 생물이나 플레이어를 목표로 정한다. 지진 강타는 그 목표에 피해 2점을 입힌다. ||
+||||  '''[[매직 더 개더링/블럭|수록세트]]'''  ||  '''희귀도'''  ||
+||||  Exodus  ||  레어  ||
+||||  8th Edition  ||  레어  ||
+||||  9th Edition  ||  레어  ||
+||||  10th Edition  ||  레어  ||
+
+게임 플레이가 중반 넘어가서 대지가 쓸데없이 손에 많이 잡혀도 그 대지들을 번으로 승화시켜주는 카드. [[Crucible of Worlds]]나 [[Life from the Loam]]과의 조합이 절륜하다. (하지만 Life from the Loam과는 T2에서 만나지 못했다) 나중에 [[Swans of Bryn Argoll]]로 콤보로 쓰기도 했던 카드.
+
+다만 상대가 [[연수에 꽂는 바늘]]을 깔면 OTL.
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%>  '''세트'''  ||  '''[[wiki:"플레이버 텍스트"배경담]]'''  ||
+||  Exodus  ||  ''순간, 그 유동석의 물결에 그레벤의 분노가 담긴 듯 했다 - 그리고 유동석은, 야수처럼 웨더라이트호를 향해 달려 들었다.''  ||
+||  8th Edition  ||<|3><:>  ''Earth arms itself with fire.''  ||
+||  9th Edition  ||
+||  10th Edition  ||

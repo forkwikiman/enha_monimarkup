@@ -1,0 +1,46 @@
+'''잘 지내고 있는 거야?'''
+
+[[목차]]
+
+== 개요 ==
+attachment:/genkideyatterunokai.jpg?width=200
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/OYz9Go09psw?fs=1&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OYz9Go09psw?fs=1&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+PV 영상
+
+イルリメ(ILLREME)가 부른 곡. 가사는 대략 즐거웠던 추억을 그리는 평범한(?) 내용이지만 발랄한(...) 멜로디와 센스가 [[안드로메다]]로 날아가는 PV 연출이 일품인 곡이다. 사실은 죽은 친구를 위해 만들어진 곡이라고....
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>8||<:>9||
+||<#ffffff><:>노트수||<:>266||<:>678||<:>855||
+||<#ffffff><:>BPM||||||<:>165||
+||<#ffffff><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 소서]]에서 2012/12/1 교체[[BR]]유비트 소서에서 2013/1/1 재수록[[BR]][[유비트 소서]]에서 2013/4/1 교체[[BR]][[유비트 소서]]에서 2013/9/1 재수록[[BR]][[유비트 소서]]에서 2014/1/1 교체[[BR]][[유비트 소서]]에서 2014/2/1 재수록||
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 
+
+http://ec2.images-amazon.com/images/I/51xl0GOSemL._SL500_AA280_.jpg
+게임 안에서 쓰는 자켓은 앨범 'イルリメ・ア・ゴーゴー'의 자켓이다.
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/OCQsw9RUiSw" frameborder="0" allowFullScreen></iframe>
+}}}
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/ZdXm7LHcOoU" frameborder="0" allowFullScreen></iframe>
+}}}
+[[Y.S-Y]]의 엑설런트 영상
+
+EXTREME 보면 영상을 보면 알겠지만 이 곡은 유비트에서 '''[[바카 서바이버]]의 계보를 잇는(?), 기본곡 주제에 괴랄한 [[사기 난이도]]'''를 지닌 곡이다. 분명 레벨 '''9'''인데 체감 난이도는 저 최초의 레벨 10 라이센스곡이라는 [[Kick It Out]]보다 더 심할 정도(...).[* 물론 킥잇아웃이 10레벨치곤 약하다는 평가가 많기는 하다.]
+
+전주 부분은 그럭저럭 칠 만하지만, 랩 부분에 들어서면서부터는 그야말로 '''[[막장]]'''의 향연. 좌우 번갈아 치기가 이어지다가 갑자기 대회전이 나오고, 다이아몬드 모양의 번갈아 치기에 이어서 긁어서 처리해야 할 정도로 빠른 동시치기가 나오는 등... 각각 다른 곡들에서 처리하기 어렵다는 패턴들이 이 곡에서 '''한꺼번에''' 등장해 주신다(...). 
+BPM도 빨라서 뭐가 16비트 연타고 뭐가 동시치기인지 도저히 구별할 수 없으며, 번갈아 칠 때 좌우를 헷갈리거나 손이 꼬일 수도 있다. 보통 다른 곡들에서 포션 역할을 한다는 후렴구도 비교적 짧고, 후반부에 나오는 동시치기도 배치가 참으로 요상해서 외우지 않으면 [[간접미스]]가 나기 십상이다. 사전에 보면을 안 보고 플레이하면 그야말로 [[답이 없다]].
+
+정말 다행스러운 건 [[바카 서바이버]]에 비하면 박자가 정직하기 때문에, [[엑설런트]] 난이도는 비교적 쉽긴 하지만 어디까지나 그 곡에 비교해서 그나마 낮은 것일 뿐이지 익숙해지려면 많은 연습이 필요하다.
+
+[[유비트 코피어스]]의 삭제 예정곡 리스트에 이 곡이 있다는 소문이 있었지만, 유비트 스텝 블로그에서 잔존 예정곡이 공개되면서 코피어스에서도 이 --막장--곡을 플레이할 수 있게 되었다. 소서 풀필까지도 잘만 살아있는 곡이다.

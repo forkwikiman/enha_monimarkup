@@ -1,0 +1,28 @@
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡으로, 작곡은 [[beatnation RHYZE]]의 [[PHQUASE]]. 해당 작곡가의 첫 IIDX 오리지널 참여곡이다. 곡명인 cinder는 신더로 읽으며, '''타고 남은 재'''를 뜻하는 영단어.[* 여기다가 여성형인 -ella를 붙여 '재투성이 아가씨'라는 의미를 붙인 것이 바로 유명한 서양 동화 [[신데렐라]]다. 항목 참조.]
+
+== [[beatmania IIDX]] ==
+||||<tablealign=center> [[beatmania IIDX 22 PENDUAL]] / Chrono Chaser ||
+||<#E1DDD0> '''cinder'''[[BR]][[PHQUASE]] ||<#D5CDED> [[Gravigazer]][[BR]][[DJ TOTTO]] ||
+
+|| 장르명 |||||| MAELSTROM[[BR]]마엘스트롬 || [[BPM]] |||| 216 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 5}}} || {{{#blue 432}}} || {{{#orange 9}}} || {{{#orange 1037}}} || {{{#red 12}}} || {{{#red 1601}}} ||
+|| 더블 플레이 || {{{#blue 5}}} || {{{#blue 573}}} || {{{#orange 9}}} || {{{#orange 1139}}} || {{{#red 12}}} || {{{#red 1762}}} ||
+
+ * [[롱노트|차지 노트 & 백스핀 스크래치 채용]] : 전 보면
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [[beatmania IIDX 22 PENDUAL|22 PENDUAL]] ~
+
+[[Gravigazer]]와 함께 [[beatmania IIDX 22 PENDUAL]]의 통상 원 모어 스테이지 전용곡으로 등장하였다. 현대 테마에서 문을 소환했을 시 출현하며, 초기의 극악한 출현 조건 탓에 업데이트 후 약 3주가 흐른 10월 12일이 되어서야 존재가 알려졌다. 자세한 출현 방법은 [[beatmania IIDX/엑스트라#s-3.3|항목]]을 참조.
+
+[[youtube(OJ8l_pMrrQg)]]
+SPA 영상
+
+[[youtube(EduhQsNO99Q)]]
+SPH 영상 (2:57~)
+
+BGA는 PENDUAL 현대 범용 BGA에 전용 레이어가 할당되는 형태. 중후반의 곡이 멈추는 구간이나 미스레이어에서 BGA 전체에 '''許''' 한 글자가 클로즈업되는데, 이는 작곡가인 [[PHQUASE]]에 대한 유행어 [[Max Burning!!|후카세 절대로 용서 못 해]](フカセ絶対'''許'''さない)의 셀프 패러디로 추정된다.

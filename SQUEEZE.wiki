@@ -1,0 +1,47 @@
+ * [BEMANI 시리즈]의 악곡을 찾으시려면 [Squeeze] 항목으로.
+
+[[목차]]
+== 개요 ==
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/wWXbkHSQVMg?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wWXbkHSQVMg?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX Portable 2]] ||
+|| 장르 || Eurobeat ||
+|| 작곡 || Oriental ST8 ||
+|| 보컬 || YU-HI ||
+|| BPM || 147 ||
+|| BGA || [[Tari]], [[Kimys]], [[Eyehead]] ||
+
+[[DJMAX Portable 2]]에서 처음 선보였으며 신나는 유로비트 댄스곡. 참고로 일본어 버전도 있다.
+=== [[DJMAX Portable 2]] ===
+4버튼과 5버튼, 6버튼에서는 중급의 난이도로 익숙해지면 그럭저럭 무난하게 클리어 할 수 있지만...
+
+믹스 튠 위주의 [[XC 미션]]에서는 8버튼 하드버전이 가끔 마지막이나 중반부쯤에 등장해서 [[충격과 공포]]를 심어주었다.
+=== [[TAP SONIC]] ===
+[[TAP SONIC]]에서는 6라인 레전드 기준 7레벨인데 심심찮게 나오는 폭타 덕에 [wiki:"A.I(DJMAX)"A.I], [[Feel]], [[Ready Now]] 등과 함께 7레벨 상급에 속한다.
+=== [[DJMAX RAY]] ===
+|||||||||| [DJMAX RAY]의 Wrath 팩 수록곡 ||
+|| [[Xeus]] || [[Celestial Tears]] || '''SQUEEZE''' || [wiki:"For the Ikarus" IKARUS] || [[Right Back]] ||
+
+|||||||||||| [DJMAX RAY] 난이도 체계 ||
+|| 패턴 || 난이도 || 비고 ||
+||<#FFFF00> NM || 4 || ||
+||<#0000FF> {{{#white HD}}} || 7 || ||
+||<#FF0000> MX || 9 || ||
+
+의외로 9레벨의 난이도. 판정이 까다로운 편.
+== SQUEEZE ~Megatonic Mix~ ==
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/yGqRc-4c2YU" frameborder="0" allowfullscreen></iframe>
+}}}
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX Trilogy]] ||
+|| 장르 || Eurobeat(Magatonic) ||
+|| 작곡 || Oriental ST8 ||
+|| 보컬 || YU-HI ||
+|| BPM || 176 ||
+|| BGA || [[Tari]], [[Kimys]], [[Eyehead]] ||
+
+이곡의 리믹스버전인 SQUEEZE (Megatonic Mix) 버전이 존재하는데, 평가는 '''그냥 원곡 1.5배''
+~~근데 다른 Megatonic Mix를 들어보면 정말 1.5배로 리믹스가 맞는것 같다. [[흠좀무]]~~

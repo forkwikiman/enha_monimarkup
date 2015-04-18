@@ -1,0 +1,43 @@
+ * 상위 항목: [[상륙함]]
+
+|||||||||||||||||||||||| 현대의 항공모함, 상륙함 종류 ||
+||<|2> [[항공모함]] ||<|2> [[헬리콥터 모함]] ||<|2> [[수상기 모함]] |||||| [[강습상륙함]] |||| 도크형 상륙함 |||||||| 기타 상륙정, 상륙함 ||
+|| [[LPH]] || [[LHD]] || [[LHA]] || [[wiki: "LSD(군사 용어)" LSD]] || '''LPD''' || [[LST]] || [[LSM]] || [[LCU]]/[[LC]] || [[공기부양정]] ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/HMS_Bulwark.jpg/640px-HMS_Bulwark.jpg?width=580
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/San_Antonio_class_rendering.jpg/640px-San_Antonio_class_rendering.jpg?width=550
+
+[[목차]]
+
+== 개요 ==
+http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/USSEssexLCAC.JPG/640px-USSEssexLCAC.JPG?width=550
+
+웰도크(Well Dock)를 갖춘 멀티플래폼 형태의 상륙함을 LPD라 부룬다. 한국어로 보통 도크형 수송양륙함이라 부른다. 전차양륙함인 [[LST]](Tank Landing Ship)와 도크형 양륙함인 [[LSD]](Dock Landing Ship)에서 발전한 개념이다. LST 등과의 대표적인 차이점은 웰도크이다. 여기서 웰도크란 물이 차오르는 갑판을 말한다. 이곳에서 소형 상륙정이나 상륙용 공기부양정, 전차상륙단정([[LCM]])을 발진시킬 수 있다.
+
+== 역사 ==
+미국은 [[1941년]]에 기존의 상륙함인 LST와 다른 체계의 상륙함에 대해 연구했다. 그 결과로 탄생한 것인 LSD이다. LST는 직접 해안에 접안하여 상륙시키는 상륙함이다. 이런 종류의 상륙 방식은 병력의 많은 손실을 유발했다. 하지만 LSD(Landing Ship, Dock: 도크 장비 상륙함)는 내륙에서 조금 떨어진 곳에서 상륙이 가능했으며 도크에서 발진한 상륙정이 전차 등을 탑재하여 상륙하는 방식이어서 보다 안전하게 상륙이 가능했다. 크레인 등으로 상부에 탑재되어 있던 상륙정을 하차시키는 것이 아니어서 신속하고 안전한 상륙이 가능한 것이 LSD다. 후방 도크에서 문을 열어 LCM이나 LCU 같은 대형 상륙정도 직접 발진이 가능했다. 이 LSD는 2차 대전이 끝나면서 대형화 되었다. 배수량도 1만톤으로 늘어나고 각종 중형, 대형의 장비들이 탑재되면서 LPD(Landing Platform Dock)라 불리게 된다. 현대의 LPD와 [[2차대전]] 이전의 LSD의 차이점은 [[LCAC]]의 운용이다. 현대의 LPD는 LCAC를 운용함으로써 좀 더 원활한 상륙작전이 가능해졌다. 사실 LPD와 LSD의 기본적 용도와 형태는 비슷하다. 현대에 와서 새로 건조되는 LSD와 LPD의 구별이 어려운 것도 이러한 이유 때문이다.[* 현대 LSD와 LPD의 차이는 ~~라고 하고 미군의 LPD, LSD구분이라 부른다~~ 종합적인 강습상륙 능력의 유무로 볼 수 있다. 특히 샌 안토니오와 유럽의 LPD의 경우 종합적인 상륙지휘능력을 갖춘 것도 주요 차이점.] 하지만 2차대전이 끝나고 후기에 탄생한 LPD는 뜻과는 상관없이 [[고유명사]]화 되었다.보통 LPD는 2대 이상의 헬기가 탑재 가능하다. 헬기 격납고는 없는 형태도 있고 있는 것도 있다. 경우에 따라서는 4 ~ 6대의 헬기를 탑재하는 LPD도 있다.
+
+== 국가별 LPD ==
+|| 국가 || 이름 |||| 배수량 ||
+||[[대한민국]] ||[천왕봉급] ||경하: 4,500톤 ||만재: 7,000톤 ||
+||<|3>[[미국]] ||[샌 안토니오급] || ||만재: 25,298톤 ||
+||[클리브랜드급][* [http://www.nvr.navy.mil/nvrships/details/LPD7.htm (LPD 7)]] ||경하: 9,734톤 ||만재: 17,326톤 ||
+||[오스틴급][* [http://en.wikipedia.org/wiki/Cleveland_class_amphibious_transport_dock#Cleveland_class (오스틴급)]][* [http://www.nvr.navy.mil/nvrships/details/LPD4.htm (LPD 4)]] ||경하: 9,201톤 ||만재: 16,914톤 ||
+||[[중화인민공화국]] ||[유자오급 강습 상륙함] || ||만재: 20,000톤[* [http://en.wikipedia.org/wiki/Type_071_amphibious_transport_dock Type 071 amphibious transport dock]] ||
+||[[인도 공화국]] ||INS Jalashva[* [http://en.wikipedia.org/wiki/INS_Jalashva INS Jalashwa (L41)]] ||경하: 8,894톤 ||만재: 16,590톤 ||
+||<|2>[[인도네시아]] ||Tanjung Dalpele급[* [http://en.wikipedia.org/wiki/KRI_Tanjung_Dalpele KRI Tanjung Dalpele]] ||기본: 11,300톤 ||만재: 16,000톤 ||
+||Makassar급[* [http://en.wikipedia.org/wiki/Makassar_class_landing_platform_dock Makassar class landing platform dock]] ||기본: 7,300톤 ||만재: 11,394톤 ||
+||[[싱가포르]] ||Endurance급[* [http://en.wikipedia.org/wiki/Endurance_class_landing_platform_dock_ship Endurance class landing platform dock ship]] ||기본: 6,500톤 ||만재: 8,500톤 ||
+||[[태국]] ||Endurance급[* [http://en.wikipedia.org/wiki/Endurance_class_landing_platform_dock_ship Endurance class landing platform dock ship]] ||기본: 6,500톤 ||만재: 8,500톤 ||
+||[[스페인]] ||Galicia급[* [http://en.wikipedia.org/wiki/Galicia_class_landing_platform_dock Galicia class landing platform dock]] || ||만재: 13,000톤 ||
+||<|2>[[영국]] ||[[알비온급]][* [http://en.wikipedia.org/wiki/Albion_class_landing_platform_dock Albion class landing platform dock]] || ||만재: 19,560톤 ||
+||Bay급[* [http://en.wikipedia.org/wiki/Bay_class_landing_ship_dock Bay class landing ship]] || ||만재: 16,160톤 ||
+||[[프랑스]] ||Foudre급[* [http://en.wikipedia.org/wiki/Foudre_class_landing_platform_dock Foudre class landing platform dock]] ||기본: 11,300톤 ||만재: 12,000톤 ||
+||[[이탈리아]] ||[[산 조르지오급 강습상륙함]][* [http://en.wikipedia.org/wiki/San_Giorgio_class_amphibious_transport_dock San Giorgio class amphibious transport dock]] ||||7,650 ~ 7,980톤 ||
+||<|2>[[네덜란드]][* [http://en.wikipedia.org/wiki/Rotterdam_class_amphibious_transport_dock Rotterdam class amphibious transport dock]] ||Rotterdam 양륙함 ||||12,750톤 ||
+||Johan de Witt 양륙함 ||||16,800톤 ||
+
+== 관련 항목 ==
+ * [[해군력]]
+ * [[해상 병기/현대전]]

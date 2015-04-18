@@ -1,0 +1,88 @@
+ * 상위 항목 : [[폴아웃 택틱스]]
+[[목차]]
+== 개요 ==
+[[폴아웃 택틱스]]의 격투 무기를 설명하는 페이지.
+
+격투 무기는 공격에 AP3을 소모하고 일반적으로 힘 요구치가 낮으며 탄환을 요구하지 않지만. 몇몇 특수한 무기의 경우 탄환을 요구하며 일반적으로 이러한 특수한 무기의 경우 성능이 굉장히 뛰어난 편이다.
+
+== 무기 일람 ==
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/6/6a/Tactics_knuckles.png?version=a440ed18cc50825eb06e6c9c62bfe761
+ * 브래스 넉클의 스펙
+>> 손마디에 끼는 강철제의 금속 조각이다. 맨손 전투시 착용자의 손을 보호하고 데미지를 늘려준다.
+ 공격력 2 - 5 /  사거리 1 / 요구 힘 1 / 무게 1 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/8/80/Tactics_shredders.png?version=0c31a8bfa84e83e173b5e03e55bb6f06
+ * 슈레더의 스펙
+>> 손가락 부분에 짧은 발톱이 달린 장갑이다.
+ 공격력 3 - 6 / 사거리 1 / 요구 힘 1 / 무게 1 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/3/32/Tactics_tiger_claws.png?version=10bed75d0536a8b87ff75883d704af04
+ * 호랑이 발톱의 스펙
+>> 손바닥 부분에 짧은 발톱이 달린 장갑이다.
+ 공격력 4 - 6 / 사거리 1 / 요구 힘 1 / 무게 1 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/1/19/Tactics_sappers.png?version=0a05a9061e678cc1ccfccfda2a4fde47
+ * 새퍼의 스펙
+>> 납을 넣은 장갑으로, 적을 분쇄하는 데 이상적이다.
+ 공격력 4 - 6 / 사거리 1 / 요구 힘 1 / 무게 2 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/6/60/Tactics_impact_gloves.png?version=17245fb6ac288a06597a68ef4d2fe70d
+ * 충격 장갑의 스펙
+>> 추가적인 데미지를 위해 피스톤이 내장된 장갑이다.
+ 공격력 4 - 8 / 사거리 1 / 요구 힘 1 / 무게 4 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/2/21/Tactics_mace_glove.png?version=98ef5e59c05474a2952c95226613ec5d
+ * 철퇴 장갑의 스펙
+>> 무게를 일부러 늘린, 가시로 뒤덮인 장갑이다.
+ 공격력 6 - 10 / 사거리 1 / 요구 힘 1 / 무게 4 pounds
+ 특이 사항 : AP 소모가 1 많음
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/a/ab/Tactics_lacerators.png?version=340e424a71d370690555735dd750dc21
+ * 난도자의 스펙
+>> 손등에 날카로운 칼날들이 부착된 장갑이다.
+ 공격력 5 - 10 / 사거리 1 / 요구 힘 1 / 무게 3 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/c/c0/Tactics_punch_dagger.png?version=cc11f435515cb247fcc4e8c068d66505
+ * 펀치 대거의 스펙
+>> 손등에 부착하는 뾰족한 무기로, 주먹의 관통력을 향상시킨다.
+ 공격력 5 - 14 / 사거리 1 / 요구 힘 1 / 무게 1 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/d/da/Tactics_punch_gun.png?version=6c58cea55c7ce687cae29784a4f1e58e
+ * 펀치 건의 스펙
+>> 탄환을 발사하는 단발식의 한손용 권총.~~대놓고 총이라네~~
+ 공격력 10 - 20 / 사거리 1 / 요구 힘 1 / 무게 6 pounds
+ 사용 탄환과 장탄수 : 3 x 12ga 산탄
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/thumb/b/b8/Tactics_razor_claws.png/120px-Tactics_razor_claws.png?version=8cbeed88726db5eb71557668b716b5de
+ * 칼날 장갑의 스펙 ~~[wiki:"탄도 주먹" 단도 주먹]~~
+>> 손등에 들어갔다 나오는 칼날들이 부착된 장갑이다.
+ 공격력 6 - 24 / 사거리 1 / 요구 힘 1 / 무게 2 pounds
+
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/6/6d/PowerFistTactics.png?version=b406522f277f10677b084ffb3b3daa8b
+ * 파워 피스트
+>> 비트코 제의 파워 피스트. 사람들은 이것을 궁극의 맨손 전투용 무기로 생각하며, 소형 에너지 전지로 가동된다.
+ 공격력 12 - 24 / 사거리 1 / 요구 힘 1 / 무게 7 pounds
+ 사용 탄환과 장탄수 : 25 x Small Energy Cell
+
+
+슈레더 설정화
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/thumb/7/79/Finger_Nail_Claws.jpg/800px-Finger_Nail_Claws.jpg?version=50aba320df35b2b6b0bcfc7d1c84effa
+
+새퍼 설정화
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/9/9c/Sap_Glove.jpg?version=e0039bc7476286a3c75aa4dee6f98741
+
+난도자 설정화
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/thumb/e/e8/Razor_Glove.jpg/725px-Razor_Glove.jpg?version=f70368fe9f47f92c89171340a2487803
+
+펀치 대거 설정화
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/thumb/e/e1/Punch_Dagger.jpg/603px-Punch_Dagger.jpg?version=9c106d1da6806c63ad7168429e6a742f
+
+철퇴 장갑 설정화
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/thumb/d/dc/Mace_Glove.jpg/800px-Mace_Glove.jpg?version=cf5c7a352765995aaea59d8173fbf5c2
+
+칼날 장갑 설정화
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/thumb/e/e9/Adamantium_Claws.jpg/800px-Adamantium_Claws.jpg?version=0a0ac7cbeff7bc1b99cf4880d2a34ab1
+
+호라이 발톱 설정화
+http://hydra-media.cursecdn.com/fallout.gamepedia.com/7/79/Tiger_Claw.jpg?version=ea92c2799aed115bb243d64ccfeef083

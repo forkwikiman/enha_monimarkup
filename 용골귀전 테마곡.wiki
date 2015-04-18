@@ -1,0 +1,69 @@
+[[목차]]
+
+== 개요 ==
+[[월풍마전]]의 [[최종보스]]인 [[용골귀]]와의 전투에서 나오는 테마곡이다.
+{{{#!HTML
+<iframe width="640" height="390" src="//www.youtube.com/embed/Eg1qBXMV5iI" frameborder="0" allowfullscreen></iframe>
+}}}
+원곡.
+
+2007년 4월 15일에 [[니코니코 동화]]에 --[[유키스]]-- yuukiss라는 유저[* 2008년부터는 보컬로이드 프로듀서가 된다.]가 이 테마곡을 리믹스해서 투고한다.
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/Zi2JqeYgB7w" frameborder="0" allowfullscreen></iframe>
+}}}
+
+그러다가 2008년 12월 27일에 이 곡을 연주해본 사람이 등장했다!
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/gy4ybN8hpyY" frameborder="0" allowfullscreen></iframe>
+}}}
+연주자는 町屋(마치야라고 부른다.). 기타실력이 매우 뛰어나고, 게다가 장발에 [[노#s-6|노]]가면을 쓰고 있어서, 마치야가 [[FACT]]의 멤버같다고 했지만, 마치야 본인은 아니라고 한다. 마치야가 [[나이트 오브 나이츠]]를 연주할 때처럼 이 영상은 랭킹 1위를 달성할 정도로 큰 인기를 얻었다.
+
+== [[사운드 볼텍스]] (「月風魔伝」龍骨鬼戦 yks Remix) ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/kU4Rig2cSNQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0012_geppumaden_yuukiss_jacket_n.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0012_geppumaden_yuukiss_jacket_a.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0012_geppumaden_yuukiss_jacket_e.jpg?width=150 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1r0012_geppumaden_yuukiss_jacket_e.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 08}}} || {{{#ff009f 13}}} || {{{#448844 '''15'''}}} ||
+|| 체인 수 || {{{#purple 0367}}} || {{{#orange 0624}}} || {{{#ff009f 1043}}} |||| {{{#448844 '''2220'''}}} ||
+|| 일러스트 담당 || {{{#purple リトルバッファー}}} || {{{#orange リトルバッファー}}} || {{{#ff009f リトルバッファー}}} |||| {{{#448844 リトルバッファー}}} ||
+|| 이펙터 || {{{#purple Megacycle}}} || {{{#orange Megacycle}}} || {{{#ff009f Megacycle}}} || {{{#448844 ねちっこく堂}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 02(2012.1.18)}}} || {{{#ff00ec II 05(2013.8.2)}}} ||
+|| [[BPM]] |||||||| 150 ||
+
+||<-4><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 |||| 필요 블록 |||| 조건 ||
+|| {{{#purple NOVICE}}} ||||<|3> 통상해금 ||||<|3> 통상해금 ||
+|| {{{#orange ADVANCED}}} ||
+|| {{{#ff009f EXHAUST}}} ||
+|| {{{#448844 INFINITE}}} |||| 2000 |||| [[니시닛포리의 춤]] INF 패턴 클리어 ||
+
+변경점
+|| 2013/08/02 ||INFINITE 패턴 추가||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * INFINITE : Skill Level 10(2014.2.6 ~ 2014.3.6), Skill Level 10 A코스(2014.12.26 ~ 2015.2.27)
+
+재킷은 [[월풍마전]]의 엔딩에서 나오는 장면들이다. [[http://netyhobby.egloos.com/4477011 여기를 참조.]]
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/vOz1572-khk" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+EXH 패턴은 중반부터 난이도가 조금씩 올라가기 시작한다. [[계단]]식 노트가 나오고 나서 롱 노트+노브 방향 전환후 꺾기, 이 보다 한 단계 높은 [[Broken]] 8cmix에서 나오는 노브 + 롱 노트 조작 등도 나오며, 중간 부분에 [[폭타]]부분도 조심해야 할 부분이다. 다만 양쪽 노브가 같이 나오는 후반부는 어느정도 쉽게 나오기에 클리어 레이트는 높은 편이다.
+
+{{{#!HTML
+<iframe width="450" height="800" src="http://www.youtube.com/embed/n_ry6pU5UUw" frameborder="0" allowfullscreen></iframe>
+}}}
+INF 패턴 PERFECT 영상 --초반에 [[미미냐미·코타로의 플라잉 캐치!|꽃게]]는 무시하자--
+
+INF 패턴은 '''사운드 볼텍스 15레벨 최초의 노브곡'''. 채보의 8할 이상이 노브에 배정되어 있으며, 체인 수 또한 '''2220'''으로, 수록 시점의 [[冥]] EXH를 뛰어 넘어 [[VALLIS-NERIA]] 다음의 2위를 기록했고, 2014년 5월 1일에 와서야 16레벨과 2200 체인대 신곡이 대거 추가되면서 [[사운드 볼텍스/기네스|10위권에서 겨우 내려갔을 정도]]. 위 영상 기준으로 31초쯤부터 나오는 꽈베기형 노브는, 일직선노브는 움직여도 위치 보정이 되는 점을 이용해 두개를 같이 돌려도 노브가 맞는다.
+
+2014년 2월 [[스킬 애널라이저]]의 첫 곡으로 추가되었으며, [[good high school]] INF에 이어서 10단에서는 두번째 INF 패턴 수록이 되었다. 뒤에 있는 [[Decretum]]이나 [[U.N.オーエンは彼女なのか？haru_naba Remix]]도 한 개성 하긴 하지만 노브로 떡칠되어있는 패턴의 특성상 첫 스테이지부터 [[폭사]]를 하기 십상이다. 노브 처리력이 충분히 되는데 클리어를 방치하고 있던 게 아닌 이상 미리 플레이 후 10단에 도전하는 것이 좋다.
+
+그리고 이 곡의 INF패턴 제작자는 후에 엄청난 ~~욕을 먹는~~ 채보를 제작하게 되는데 그 곡이 [[HYENA|바로...]]

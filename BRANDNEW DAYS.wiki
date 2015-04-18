@@ -1,0 +1,44 @@
+ * [[DJMAX 시리즈]]의 수록곡은 [[Brandnew Days]] 항목을 참조.
+
+[[목차]]
+
+== 개요 ==
+http://ecx.images-amazon.com/images/I/517RCwX0WxL._SL500_AA300_.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/oQr8b5kpXHQ" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+일본의 J-pop 그룹 Purple Days의 5번째 싱글음반이자 그 표제곡. 2010년 2월 17일 발매. 활기찬 분위기의 멜로디가 곁들여진 곡. 이 Purple Days라는 그룹은 [[코무로 테츠야]]의 90년대 J-POP에 영향을 많이 받았는데, 그래서인지 이 곡도 90년대 스타일이 느껴진다.
+
+오리콘 주간 차트 첫 등장 '''193위'''라는 성적을 기록하였다.
+
+== 수록곡 목록 ==
+1. BRANDNEW DAYS   
+2. 桜木
+3. BRANDNEW DAYS (Instrumental)  
+4. 桜木 (Instrumental)
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#faca00><:>jubeat knit append 기준||
+||<|2><#faca00><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>2||<:>6||<:>8||
+||<#faca00><:>노트수||<:>202||<:>407||<:>701||
+||<#faca00><:>BPM||||||<:>132||
+||<#faca00><:>곡 이력||||||[[유비트 니트]]에서 첫 수록[[BR]][[유비트 코피어스]]에서 삭제||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다.
+
+http://ec2.images-amazon.com/images/I/51sSxD78bwL._SL500_AA300_.jpg
+게임 안에서 쓰는 자켓은 2010년 3월 17일에 발매된 첫 앨범 'SERENDIPITY'의 초회한정판 자켓.
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="http://www.youtube.com/v/sI_H51Ftp7A?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sI_H51Ftp7A?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="480"></embed></object>
+}}}
+ZEUS의 [[엑설런트]] 영상
+
+동시치기가 많이 나오는 배치. 랩 부분이 점수 내기가 비교적 까다롭겠지만 [[하루 하루]]에 비하면 '''박자가 매우 정직하므로''' 크게 걱정할 것은 없다. 중반부에 후렴 부분이 들어가기 전에 '따닥' 치는 느낌으로 나오는 노트 및 동시치기 배치를 잘 공략하면 무난히 S랭크 이상을 노릴 만하다.

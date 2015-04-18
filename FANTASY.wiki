@@ -1,0 +1,17 @@
+Earth, Wind & Fire의 곡.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/mjxdmsXzwmQ&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/mjxdmsXzwmQ&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+이후에 DANCE EXPRESS Hi-Speed라는 논스톱 댄스 리믹스 앨범에 ULTIMATE DUB이 리믹스한 버전으로 실렸는데, 이 버전은 [[비트매니아 IIDX]]에도 판권곡으로 수록된다.
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/JCoaP1edAoA&hl=ko_KR&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JCoaP1edAoA&hl=ko_KR&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+이 곡의 어나더 버전이 당시 노트수 1000개가 넘는 곡들이 모인 보스곡 코스였던 MILLENNIUM 코스를 구성하는 곡 중 하나였으며, 판권곡이라는 한계로 7th style 이후로 삭제되었지만, 일본에서 부활 요청이 상당히 많았는지 판권곡으로는 이례적으로 [[JIVE INTO THE NIGHT]]와 함께 9th style에서 '''부활했다.''' 이후엔 11 IIDX RED에서 다시 삭제.
+
+노트는 정박 위주의 빠른 노트배치에 가끔 [[계단]]이 나오는 구조. 심지어 드럼 연타도 계단으로 처리되어 있다. 참고로 이 곡 노트 제작자는 [[wac]].
+
+BGA는 [[VJ GYO]]가 만든 3D 레이싱 소녀 [[범용 BGA]]를 사용.

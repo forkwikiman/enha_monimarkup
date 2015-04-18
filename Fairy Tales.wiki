@@ -1,0 +1,29 @@
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/goqWkyPiJaw?fs=1&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/goqWkyPiJaw?fs=1&amp;hl=ko_KR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+|||||||||||||||||| [[기타프릭스]] & [[드럼매니아]] 난이도 체계 ||
+|| [[BPM]] |||||||| 클래식 시리즈 난이도 체계 |||||||| [wiki:"기타프릭스%26드럼매니아 XG" XG]/[[wiki:"기타도라"GITADORA]] 난이도 체계 ||
+||<|5><:> 155 ||<|2> 기타 표준 || {{{#green BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} || {{{#purple MASTER}}} ||
+|| {{{#green 42}}} || {{{#orange 56}}} || {{{#red 62}}} ||<|2><:> {{{#blue 2.90}}} ||<|2><:> {{{#orange 5.40}}} ||<|2><:> {{{#red 6.85}}} ||<|2><:> {{{#purple 7.65}}} ||
+|| 기타 오픈픽 || {{{#green 45}}} || {{{#orange 60}}} || {{{#red 67}}} ||
+|| 기타 베이스 || {{{#green 44}}} || {{{#orange 47}}} || {{{#red 50}}} || {{{#blue 3.25}}} || {{{#orange 5.25}}} || {{{#red 6.55}}} || {{{#purple 8.10}}} ||
+|| 드럼매니아 || {{{#green 39}}} || {{{#orange 58}}} || {{{#red 79}}} || {{{#blue 3.15}}} || {{{#orange 5.75}}} || {{{#red 7.05}}} || {{{#purple 7.95}}} ||
+
+[[기타프릭스]] & [[드럼매니아]] V 앙코르 스테이지곡. 작곡은 [[이즈미 무츠히코]]. 밝은 분위기와 [[BGA]]로 그럭저럭 인기를 끌었던 곡이다. 
+
+드럼매니아의 경우 익스트림의 난이도가 V 당시 86이었으나 V3에서 79로 강등되었는데 79치고는 쉽다.
+
+후속곡으로 [[MODEL FT2]]가 있다.
+
+{{{#!html
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/AvPhSnH6DBE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/AvPhSnH6DBE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+후속곡인 MODEL FT2로 이어지는 라이브 연주 영상. 두번째 기타에 96이 참여했고, 드럼은 일본 최고의 세션 드러머 스가누마 코조가 담당하였다.스가누마 코조는 이 곡을 이때 처음 연주한 것인데 도저히 처음 연주했다고 믿겨지지 않을 졍도. 
+
+== 곡 코멘트 ==
+||「어두운 곡은 싫어~! 밝은 곡을 만들고 싶~어!」라고, 떼를 썼습니다.
+라는 것으로, 어둡고 난해한 사운드가 호평이면서 싫어하는 사람도 있는「MODEL DD시리즈」, 이번에는 쉽니다. 그 대신에(?) 만든 것이,「심야의 빛의 요정들」가 테마인 이 곡. 클래식같은 풍미를 넣으면서도 하드하고 경쾌한 곡으로 되었습니다.
+게임 클립에서 등장하는 요정들, 귀여워서 좋네요~, 엄청 좋아합니다. 떼를 쓴 보람이 있네요!?
+
+- 泉 陸奥彦||

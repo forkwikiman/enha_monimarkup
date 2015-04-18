@@ -1,0 +1,65 @@
+[[목차]]
+
+== '창작자', '제작자'를 의미하는 영단어 ==
+
+== [[DJMAX]] 수록곡 ==
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 버전 || [DJMAX Portable Clazziquai Edition] ||
+|| 작곡 || DJ CLAZZI ||
+|| 작사, 보컬 || 이승열 ||
+|| 배경 || SINBARU(일러스트), HooN(모션) ||
+|| 장르 || [["일렉트로니카" Electronica]] ||
+|| BPM || 117 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/RmDW-iE9rkY?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[DJMAX]] 메트로 프로젝트의 수록곡.
+스페셜 앨범 형식으로 CLAZZIQUAI EDITION과 동시 발매한 앨범 'METROTRONICS'에 수록된 곡이다.
+
+기존의 클래지콰이 곡에서는 전례가 없었던 부드럽고 밝은 분위기의 곡으로, 이전에도 객원보컬로서 'Be my love'를 불렀던 뮤지션 이승열이 부른 곡이다. 이승열의 매력적인 보컬과 함께 화려하고 밝은 분위기의 배경이 잘 어울리는 곡으로, 곡의 보컬 뒤에 낮게 울리는 음들과 화려한 아르페지오 음들이 환상적인 분위기를 연출한다. 곡 제목 그대로, 창작의 즐거움을 노래한 곡이라고.
+
+비주얼은 [[Fate]]의 일러스트를 맡은 Sinbaru의 작품. 화려한 분위기의 곡에 맞게, 두 인물을 중심으로 화려한 효과들이 펼쳐진다. 매우 미려한 그림체도 일품. 한때 둘 다 남자라는 BL 떡밥 때문에 '''크리게이터'''라는 별명이 붙었다.[* 그런데 BGA 제작자가 한 명은 중성이라고 직접 밝혔다. 흠좀무]
+
+=== [DJMAX Portable Clazziquai Edition] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/yGahlmkxYqE" frameborder="0" allowfullscreen></iframe>}}}
+
+(4BFX HD)
+
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/SjlBlN5ehhA" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(테크니카 1 기준 SP)
+
+==== [wiki:"DJMAX TECHNIKA"DJMAX TECHNIKA 1] ====
+
+[[DJMAX TECHNIKA]]에 수록된 곡으로, PP와 SP 패턴이 있다. PP패턴의 난이도는 6. 파퓰러 3스테이지 셀렉트곡이고, [wiki:"Electro EP"Electro EP Set] 셀렉곡. 초중반은 비슷한 박자 위에 홀드 노트와 일반 노트가 조합돼 있어 익숙해지기 쉽지만, 후반은 드래그 노트가 2개씩 끊어져서 연속으로 나오는데, 나오는 모양들이 비슷하여 클리어는 쉬우나, 이게 비비다 보면 속도를 못 맞추거나 인식 오류가 나기 쉬워서 올콤이나 퍼펙트 플레이를 하기 무지 힘들다. 전형적인 클리어는 쉽고 판정내기 빡센 곡. 2009년 9월 10일까지 집계된 퍼펙트 플레이어는 단 13명.
+
+9월 스페셜 패턴도 추가되었다. 기존 PP 패턴에서 빠진 [[키음]]들을 보강하고, 후반 아르페지오 구간의 연결노트 구간의 배치가 좀더 다양하게 바뀌었다. 
+
+==== [DJMAX TECHNIKA 2] ====
+
+[[DJMAX TECHNIKA 2]]
+|| 패턴 || 난이도 || 등급 || 가격 || 기타 ||
+|| Star || ? || D || 300 Max || ||
+|| NM || 6 || D || 400 Max || [wiki:"Electro EP"Electro EP Set] 셀렉곡 ||
+|| HD || 7 || C || 500 Max || ||
+
+[[DJMAX TECHNIKA 2]]에서는 기존의 SP가 HD로 하향되었다.
+
+==== [DJMAX TECHNIKA 3] ====
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || || || ||
+||<#FFFF00> Normal || D || 100 Max || 6 || 4박 스크롤 || [wiki:"Electro EP"Electro EP Set] 셀렉곡, [wiki:"TechniColor" 미션 - Crystalberg] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 7 || 4박 스크롤 || [wiki:"Labyrinth(DJMAX)"미션 - HAN-D-SOME] 수록 ||
+
+[[DJMAX TECHNIKA 3]] 런칭 후 잠시동안 버그로 인해 MX패턴이 있었지만 더미패턴임이 밝혀졌고, 곧바로 수정되었다. ~~구곡 신패턴의 등장은 꿈도 희망도 없어졌다.~~

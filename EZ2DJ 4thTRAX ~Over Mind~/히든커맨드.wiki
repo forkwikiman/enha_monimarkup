@@ -1,0 +1,116 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 4thTRAX ~Over Mind~]] 관련 정보''' ||
+|| [[EZ2DJ 4thTRAX ~Over Mind~/수록곡|수록곡]] || [[EZ2DJ 4thTRAX ~Over Mind~/삭제곡|삭제곡]] || [[EZ2DJ 4thTRAX ~Over Mind~/라디오채널|라디오채널]] || [[EZ2DJ 4thTRAX ~Over Mind~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 4thTRAX ~Over Mind~]]의 히든커맨드 목록.
+
+ * 이 항목은 [[EZ2DJ 4th/히든커맨드]]로도 들어올 수 있다.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://web.archive.org/web/20030610005926/http://bb100.nalove.org/ez2dj/4hidden.html]
+  * [https://docs.google.com/spreadsheet/ccc?key=0AguAt1s3MJirdDlIeWlLY0hXcnJGLXB5UU5NR2xjVXc#gid=1]
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=f_cat&no=581]
+
+[[목차]]
+== 범례 ==
+ * 버튼: 1-2-3-4-5-6-7-8-9-0
+ * 이펙터: E1-E2-E3-E4
+ * 페달: P1-P2
+
+== 히든 커맨드 ==
+4th의 모든 커맨드는 스타트 버튼만 가지고 입력한다는 특징이 있다. Radio (1)이면 라디오 믹스에 커서를 맞추고 스타트를 한 번 누르라는 뜻이다. 스타트 버튼 연타로 입력하다보니 당시 오락실에서 스타트 버튼이 고장나는 경우가 많았다.
+
+ * 올송
+ 모드 선택 화면에서 입력한다. 4th의 올송은 스트릿 믹스에만 걸린다. 올송을 걸어도 숨겨진 하드믹스 채보들은 안 뜬다.
+ 순서를 거꾸로 외워서 스트릿-라디오-스트릿-라디오 순으로 입력하면 도중에 슬라이드(스트릿 6 - 라디오 1)가 걸리기 때문에 주의해야 한다.
+ Radio (1) - Street (1) - Radio (7) - Street (4) - Radio (7) - Street (1) - Radio (1)
+
+ * 리버스 모드
+ 기어 스킨이 상하로 뒤집힌다.
+ Street (1) - Radio (3) - Street (1) - Radio (4) - Street (1) - Radio (2)
+ 
+ * 스캔 모드
+ 판정선이 상하로 계속 움직인다.
+ Street (3) - Radio (3) - Street (7) - Radio (3) - Street (3) - Radio (4)
+
+ * 슬라이드 모드
+ 기어 스킨이 좌우로 계속 움직인다.
+ Street (6) - Radio (1)
+
+ * EZ2Catch
+ 여전히 미니 게임 모드 신세다.
+ 타이틀 화면에서 1P 페달을 밟은 채 1P 턴테이블을 시계 방향으로 3초간 돌려준다. 한 번 더 입력하면 일반 모드로 돌아갈 수 있다.
+
+ * Turntable
+ 4th에서 처음 등장한 턴테이블 모드. 캐치와 마찬가지로 미니 게임 모드로 다른 모드와 분리되어 있다.
+ 타이틀 화면에서 1P, 2P 페달을 모두 밟은 채로 2P 턴테이블을 반시계 방향으로 3초간 돌려준다. 한 번 더 입력하면 일반 모드로 돌아갈 수 있다.
+
+== 히든 곡/채널 ==
+ * 5Street Mix 하드믹스 해금
+   * Climax HD
+   Street (5) - Radio (4)
+   * 20000000000 HD
+   Street (1) - Radio (3) - Street (2) - Radio (7)
+   * Fire Storm HD
+   Radio (4) - Street (1) - Radio (9)
+
+ * 5Radio 히든 채널
+   * NF Special, EZ2DJ Totally Hits, Hard Random
+   Random (1) - Techno (1) - Digital Reality (1) - K pop (1) - Random (1)
+   * Grotesque, Supreme Collection
+   Hard Random (1) - Random (1) - Hard Random (1) - EZ2DJ Totally Hits (1) - NF Special (1)
+
+ * 7Radio 히든 채널
+   * Dizzy, Tomato, Rehpic
+   Ponglow (1) - Airborn (1) - Lassoft (1) - Andy Lee (1) - FE (1)
+   * O-Minan, 광
+   Rehpic (1) - Tomato (1) - Rehpic (1) - Tomato (1) - Croove (1) - Tomato (1) - Ponglow (1) - imp17 (1) - Tomato (1) - imp17 (1) - Ponglow (1) - Tomato (1)
+
+ * Space Mix 3스테이지 곡 공식
+ (1스테이지 곡 번호+2스테이지 곡 번호)/3의 나머지가 0이면 [[Fire Storm]] HD, 1이면 [[Complex]] HD HD, 2면 [[Metagalatic G - 1000]] HD가 나온다. 물론 2스테이지까지 콤보 게이지를 다 채워야 나온다.
+|| 곡 번호 || 1스테이지 || 2스테이지 ||
+|| 1 || [[Lovely Day]] || [[Ready to Yah]] ||
+|| 2 || [[Judgement]] || [[Shout]] ||
+|| 3 || [[Complex]] || [[Climax]] ||
+|| 4 || [[Aquaris]] || [[Go!]] ||
+|| 5 || [[Futurist]] || [[Tokyo 9 P.M.]] ||
+|| 6 || [[Blue]] || [[Delight]] ||
+|| 7 || [[Eye of Beholder]] || [[Mad Robot]] ||
+|| 8 || [[Calling Me Now]] || [[B.O.W.]] ||
+|| 9 || [[JMJ]] || [[Feel So Sad]] ||
+|| 10 || [[Metagalatic G - 1000]] || [[Fire Storm]] ||
+|| 11 || [[Ztar warZ]] || [[20000000000]] ||
+|| 12 || [[Sand Storm]] || [[Cosmic Bird]] ||
+|| 13 || [[M Police]] || [[R.F.C.]] ||
+|| 14 || [[Y-Gate]] || [[Minus 1 ~Space Mix~]] ||
+|| 15 || [[Lie Lie]] || [[2nd Jewel]] ||
+|| 16 || [[Red Ocean]] || [[Minus 2]] ||
+|| 17 || [[Black Market]] || [[Night Watcher]] ||
+|| 18 || [[Anytime]] || [[DIEOXIN]] ||
+|| 19 || [[Sparrow]] || [[Smash]] ||
+|| 20 || [[We Luv Music]] || [[Substance]] ||
+|| 21 || [[Stay|Stay (Radio Edit)]] || [[Damnation]] ||
+|| 22 || [[Envy Mask]] || [[Showdown]] ||
+|| 23 || [[The Future]] || [[The Rhythm]] ||
+|| 24 || [[Say That U]] || - ||
+|| 25 || [[Anemia]] || - ||
+
+ * EZ2Catch 곡 공식
+|| || ||[[Be My Baby]]|| ||[[Lovely Day]]|| ||[[Delight]]|| || ||
+|| ||[[You Are The One For Me]]||[[The Boy ~Here comes my baby~|The Boy]]||[[Confete]]||[[JAM(EZ2DJ)|JAM]]||[[In a Nutshell]]||[[Back For More]]||[[Go!]]|| ||
+||[[Ready to Yah]]||[[Stay]]||[[Seize The Day]]||[[We Luv Music]]||[[The Rhythm]]||[[Say That U]]||[[Futurist]]||[[B.O.W.]]||[[Fire Storm]]||
+
+ 남아있는 게이지의 양과 색깔에 따라 다음 스테이지의 곡이 결정된다.
+ * 청록색: 두 칸 오른쪽 아래의 곡. 단 Delight에서는 Go!가 나오고 Go!에서는 Fire Storm이 나온다.
+ * 초록색: 한 칸 오른쪽 아래의 곡. 단 Delight에서는 Back For More가 나오고 Go!에서는 B.O.W.가 나온다.
+ * 노랑색: 바로 아래의 곡.
+ * 주황색: 한 칸 왼쪽 아래의 곡.
+ * 빨강색: 두 칸 오른쪽 아래의 곡. 단 Be My Baby에서는 You Are The One For Me가 나오고 You Are The One For Me에서는 Ready to YAH가 나온다.
+
+ * Turntable 곡 공식
+||[[Lovely Day]]|| ||[[Exist]]|| ||[[Black Market]]|| || || || ||
+||[[The Boy ~Here comes my baby~|The Boy]]||[[Delight]]||[[Appeal]]||[[We Luv Music]]||[[Say That U]]||[[Cosmic Bird]]||[[R.F.C.]]|| || ||
+||[[You Are The One For Me]]||[[JAM(EZ2DJ)|JAM]]||[[Give it 2 me]]||[[Lie Lie]]||[[Aquaris]]||[[Go!]]||[[Futurist]]||[[Minus 2]]||[[Metagalatic G - 1000]]||
+
+ 맥스 콤보의 일의 자리 숫자에 따라 다음 스테이지의 곡이 결정된다.
+ * 0, 3, 6, 9: 바로 아래의 곡.
+ * 1, 4, 7: 한 칸 오른쪽 아래의 곡.
+ * 2, 5, 8: 두 칸 오른쪽 아래의 곡.

@@ -1,0 +1,22 @@
+[[include(틀:Microsoft Windows 버전 일람표)]]
+ * [[운영체제]], [[Microsoft Windows]], [wiki:"Microsoft Windows/버전" /버전]
+||||<tablealign=right> attachment:logo.png?height=50 ||
+|||| {{{+1 '''Windows Server 2012 R2'''}}} ||
+|| 출시일 || [[2013년]] [[10월 18일]] ||
+|| 서비스팩 || [[Windows 8.1|Codename Update 1]][* 6번 참고] ||
+|| 지원종료 || [[2018년]] [[1월 9일]](일반지원)[[br]]2023년 [[1월 10일]](연장지원)[[br]]'''현재 일반지원 중''' ||
+|| 특이사항 || [[Windows Server 2012|윈도우 서버 2012]]의 업그레이드 판. ||
+http://www.kanzleirechner.de/downloads/flyer/WinSrv12R2_01_MetroStart_mit_LawFirm.png?width=480
+[[목차]]
+== 개요 ==
+[[윈도우 8.1]]의 서버판이다. 윈도우 서버 2012의 업그레이드 판이기도 하다.
+== 주요 개선점 ==
+ * 시작버튼 추가됨
+ * 작업폴더 추가됨
+ * 원하는 상태 환경설정 쉬워짐
+ * 스토리지 티어링 추가됨
+ * 스토리지 피닝 추가됨
+ * 라이트 백 캐시 추가됨
+== 기타 ==
+업그레이드는 2012 에서는 다 된다 그 외는 2012하고 같다. ~~당연하지만~~ 에디션도 그냥 업그레이드판이나 다를 바 없다.
+

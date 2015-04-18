@@ -1,0 +1,41 @@
+[[TCG]] [[매직 더 개더링]]에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%><tablealign=center><-5><:>Alara Reborn의 전설적 생물||
+||<width=20%><:>나야||<width=20%><:>반트||<width=20%><:>준드||<width=20%><:>에스퍼||<width=20%><:>그릭시스||
+||<:>'''Uril, the Miststalker'''||<:>[[Jenara, Asura of War]]||<:>[[Karrthus, Tyrant of Jund]]||<:>[[Sen Triplets]]||<:>[[Thraximundar]]||
+
+||<tablewidth=100%> '''영어판 명칭''' ||'''Uril, the Miststalker'''||<width=230px><|6>http://www.cardkingdom.com/media/images/products/standard/126754_1.jpg?width=230||
+|| '''한글판 명칭''' ||'''-'''||
+|| '''마나비용''' || {2}{R}{G}{W} ||
+|| '''유형''' || 전설적 생물 ─ 야수 ||
+||||<height=188px>방호 ''(이 생물은 상대가 조종하는 주문이나 능력의 목표가 되지 않는다.)'' 
+Uril, the Miststalker는 장착된 마법진의 개수만큼 +2/+2를 얻는다.||
+|| '''공격력/방어력''' || 5/5 ||
+
+마법진을 쓰게 된다면 이거 자신이 상대가 조종하는 주문이나 능력에 맞지 않는 만큼 이쪽에 오만가지를 다 붙여서 달릴 수 있었다.
+
+하지만 문제는 마법진을 T2에서 안 쓸 뿐이고... [[Eldrazi Conscription]] 같은 극소수를 제외하고.
+
+[[EDH]]에서 깡패 커맨더로 통하는 카드 중 하나. 그쪽에서 부여마법을 찾을 수단은 무궁무진하니(...). [[Jhoira of the Ghitu]], [[Zur the Enchanter]]와 마찬가지로 커맨더로 쓰는 플레이어는 다른 플레이어들에게 [[공공의 적]]으로서 견제 0순위가 된다. 여기다 [[Shield of the Oversoul]]을 박으면 +4/+4에 파괴불가에 비행, [[Rancor]]를 박으면 +4/+2에 돌진이 되어버리고 그외에는 [[이하생략]]. ~~생각해보니 그거나 이거나 둘다 부여마법 관련이잖아~~
+
+기본적으로 방호능력이 있기 때문에 [[Lightning Greaves]]가 필요 없다!
+
+Theros에 대거 추가된 권능 능력이 붙은 '부여마법 생물'들이 이 커맨더와 궁합이 좋다.
+
+
+'''수록세트 및 사용가능 포맷 일람'''
+
+||<tablewidth=100%><width=33%> '''세트''' || '''[[wiki:"매직 더 개더링/블럭"블럭]]''' || '''희귀도''' ||
+|| Alara Reborn || Alara || 미식레어 ||
+|| '''포맷''' |||| '''[[wiki:"매직 더 개더링/금지 제한 카드"사용가능 여부]]''' ||
+|| 블럭컨스 || Alara 블럭 || 사용가능 ||
+|| 모던 |||| 사용가능 ||
+|| 레가시 |||| 사용가능 ||
+|| 빈티지 |||| 사용가능 ||
+
+
+'''카드 배경담'''
+
+||<tablewidth=100%><width=20%> '''세트''' || '''[[wiki:"플레이버 텍스트"배경담]]''' ||
+|| Alara Reborn || ''It strides through the whitecover, mists in which even gargantuans can hide.'' ||

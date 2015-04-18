@@ -1,0 +1,18 @@
+||<tablewidth=100%><#FF0000><-100> '''[[스타크래프트 2|<span style="color:white">스타크래프트 2]] [[테란|<span style="color:white">테란]]{{{#ffffff 의 유닛, 건물}}}''' ||
+||<width=10%><|2><#fe2e2e> '''[[사령부#s-2.3|사령부]]''' ||<width=15%> attachment:scv.jpg?width=40px ||<width=15%> attachment:mule.jpg?width=40px ||
+|| [[건설로봇#s-3|건설로봇]] || [[지게로봇]] ||
+|| ||<-3><#fe2e2e> '''[[반응로]] {{{#ffffff 대응}}}''' ||<-3><#fe2e2e> '''[[기술실]] {{{#ffffff 필요}}}''' ||
+||<|2><#fe2e2e> '''[[병영#s-2.2|병영]]''' ||<width=15%> attachment:marine.jpg?width=40px ||<width=15%> attachment:reaper.jpg?width=40px || || attachment:marauder.jpg?width=40px || attachment:ghost.jpg?width=40px || ||
+|| [[해병(스타크래프트)#s-4|해병]] || [[사신(스타크래프트 2)|사신]] || || [불곰(스타크래프트 2)|불곰] || [유령(스타크래프트)#s-3|유령] || ||
+||<|2><#fe2e2e> '''[[군수공장#s-1.2|군수공장]]''' || attachment:hellion.jpg?width=40px || attachment:widowmine.png?width=40px ||<width=15%> attachment:Hellbat.jpg?width=40px ||<width=15%> attachment:siegetank-tank.jpg?width=40px attachment:siegetank-siege.jpg?width=40px || attachment:thor.jpg?width=40px || ||
+|| [[화염차]] || [[땅거미 지뢰]] || [[화염기갑병]] || [[크루시오 공성 전차|공성 전차]] || [[토르(스타크래프트 2)|토르]] || ||
+||<|2><#fe2e2e> '''[[우주공항#s-2|우주공항]]''' || attachment:viking-air.jpg?width=40px attachment:viking-ground.jpg?width=40px || attachment:medivac.jpg?width=40px || || attachment:banshee.jpg?width=40px || attachment:raven.jpg?width=40px || attachment:battlecruiser.jpg?width=40px ||
+|| [[바이킹(스타크래프트 2)|바이킹]] || [[의료선]] || || [[밴시(스타크래프트 2)|밴시]] || [[밤까마귀]] ||<width=15%> [[전투순양함#s-3|전투순양함]] ||
+||<|2><#fe2e2e> '''{{{#ffffff 기타 건물들}}}''' || [[사령부#s-2.3.1| 궤도 사령부]] || [[사령부#s-2.3.2|행성 요새]] || [[보급고]] || [[정제소]] || [[공학 연구소]] || [[미사일 포탑]] ||
+|| [[벙커(스타크래프트)|벙커]] || [[무기고]] || [[감지탑]] || [[유령 사관학교]] || [[융합로]] ||
+||<|6><#fe2e2e> '''{{{#ffffff 캠페인, 기타 유닛 및 건물}}}''' || [[화염방사병(스타크래프트)|화염방사병]] || [[의무관]] || [[약탈자(스타크래프트 2)|약탈자]] || [[악령(스타크래프트 2)|악령]] || [[시체매]] || [[골리앗(스타크래프트)|골리앗]] ||
+|| [[코브라(스타크래프트 2)|코브라]] || [[망령]] || [[과학선]] || [[헤라클레스 수송선]] || [[발키리(스타크래프트)|발키리]] || [[투견(스타크래프트 2)|투견]] ||
+|| [[오딘(스타크래프트 2)|오딘]] || [[로키(스타크래프트 2)|로키]] || [[특수전 수송선]] || [[히페리온(스타크래프트)|히페리온]] || [[A.R.E.S.]] || [[고르곤급 전투순양함]] ||
+|| [[대천사(스타크래프트 2)|대천사]] || [[그리핀]] || [[타우렌 해병]] || [[스타크래프트2/용병]] || [[테라트론]] || [[드라켄 레이저 천공기]] ||
+|| [[기술 반응로]] || [[자동 정제소]] || [[지옥 포탑]] || [[군체의식 모방기]] || [[사이오닉 분열기]] || [[용병 집결소]] ||
+|| [[과학 시설]] || [[핵 격납고]] ||

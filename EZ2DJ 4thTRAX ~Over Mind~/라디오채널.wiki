@@ -1,0 +1,184 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 4thTRAX ~Over Mind~]] 관련 정보''' ||
+|| [[EZ2DJ 4thTRAX ~Over Mind~/수록곡|수록곡]] || [[EZ2DJ 4thTRAX ~Over Mind~/삭제곡|삭제곡]] || [[EZ2DJ 4thTRAX ~Over Mind~/라디오채널|라디오채널]] || [[EZ2DJ 4thTRAX ~Over Mind~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 4thTRAX ~Over Mind~]]의 라디오채널 목록.
+
+ * 이 항목은 [[EZ2DJ 4th/라디오채널]]로도 들어올 수 있다.
+ * 각 채널에 대한 설명은 [[EZ2DJ/라디오채널 일람]]의 하위 문서를 참고.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://www.toez2dj.net/zeroboard/zboard.php?id=d_clearguide&no=369]
+  * [http://cafe.daum.net/sbez/H1Z3/55?docid=FoQAH1Z35520040425220638]
+
+[[목차]]
+== 5Radio Mix ==
+=== 기본 채널 ===
+||||<tablewidth=600px> '''Hip Hop Connection''' |||| Lv.4 ||
+|| 1 ||[[Get the beat]]|| NM || 151 ||
+|| 2 ||[[Ready to Yah]]|| NM || 521 ||
+|| 3 ||[[Blue]]|| 전용 || 520 ||
+|| 4 ||[[Southwest Cadillac]]|| NM || 242 ||
+|| ||||||Blue는 노멀 채보와 비슷하지만 약간 다른 라디오 전용 채보이다.||
+|||| '''K-Vocal Channel''' |||| Lv.5 ||
+|| 1 ||[[For 3 Weeks]]|| HD || 476 ||
+|| 2 ||[[2nd Jewel]]|| NM || 399 ||
+|| 3 ||[[Lie Lie]]|| NM || 487 ||
+|| 4 ||[[Judgement]]|| HD || 470 ||
+|||| '''Pops Soft Channel''' |||| Lv.6 ||
+|| 1 ||[[Lovely Day]]|| 전용 || 513 ||
+|| 2 ||[[Be My Baby]]|| NM || 250 ||
+|| 3 ||[[Delight]]|| NM || 674 ||
+|| 4 ||[[JAM(EZ2DJ)|JAM]]|| NM || 342 ||
+|||| '''Dancing Infinity Channel''' |||| Lv.7 ||
+|| 1 ||[[Say That U]]|| NM || 360 ||
+|| 2 ||[[We Luv Music]]|| NM || 489 ||
+|| 3 ||[[JMJ]] || NM || 664 ||
+|| 4 ||[[Feel So Sad]]|| NM || 821 ||
+|||| '''Acid Groove Channel''' |||| Lv.7 ||
+|| 1 ||[[Calling me Now]]|| NM || 732 ||
+|| 2 ||[[Appeal]]|| 전용 || 533 ||
+|| 3 ||[[Sparrow]]|| HD || 694 ||
+|| 4 ||[[You Are The One For Me]]|| HD || 501 ||
+|| ||||||Appeal은 레벨 6 노멀판 기준이나 후반부에 다량의 페달노트가 추가되어 있다.||
+|||| '''Hard Beat Stage''' |||| Lv.8 ||
+|| 1 ||[[Shout]]|| HD || 892 ||
+|| 2 ||[[Go!]]|| 전용 || 818 ||
+|| 3 ||[[Climax]]|| NM || 1050 ||
+|| 4 ||[[R.F.C.]]|| NM || 817 ||
+|||| '''Channel NF''' |||| Lv.8 ||
+|| 1 ||[[Eye of Beholder]]|| NM || 837 ||
+|| 2 ||[[Futurist]]|| HD || 727 ||
+|| 3 ||[[B.O.W.]]|| NM || 874 ||
+|| 4 ||[[Tokyo 9 P.M.]]|| HD || 550 ||
+|||| '''Digital Reality''' |||| Lv.9 ||
+|| 1 ||[[Complex]]|| NM || 859 ||
+|| 2 ||[[JMJ]]|| HD || 738 ||
+|| 3 ||[[Aquaris]]|| HD || 917 ||
+|| 4 ||[[Eye of Beholder]]|| HD || 1019 ||
+|||| '''Techno Sound Labs''' |||| Lv.10 ||
+|| 1 ||[[Mad Robot]]|| HD || 932 ||
+|| 2 ||[[Metagalatic G - 1000]]|| HD || 928 ||
+|| 3 ||[[Fire Storm]]|| 전용 || 913 ||
+|| 4 ||[[20000000000]]|| NM || 832 ||
+|| ||||||이 채널의 Fire Storm은 인컴 테스트판 노멀 채보이다. 12131415의 패턴이 특징. 이 채보는 이후 [[EZ2DJ BERA]]에 이르러 루비 하드믹스로 들어갔다.||
+|||| '''Random''' |||| Lv.? ||
+|| 1 ||<|4>노멀 패턴 랜덤 선곡|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 1차 히든 채널 ===
+||||<tablewidth=600px> '''NF-Special''' |||| Lv.? ||
+|| 1 ||[[B.O.W.]]|| HD || 1026 ||
+|| 2 ||[[JMJ]]|| SHD || 993 ||
+|| 3 ||[[Mad Robot]]|| SHD || 1013 ||
+|| 4 ||[[Aquaris]]|| SHD || 1088 ||
+|| ||||||BERA에서 11로 책정되었다.||
+|||| '''EZ2DJ Totally Hits''' |||| Lv.? ||
+|| 1 ||[[Sand Storm]]|| HD || 855 ||
+|| 2 ||[[Showdown]]|| HD || 647 ||
+|| 3 ||[[The Future]]|| HD || 848 ||
+|| 4 ||[[Stay]]|| HD || 851 ||
+|| ||||||이 채널은 7키 라디오 히든채널인 Tomato채널과 곡구성이 똑같고 순서는 반대다. BERA에서 10으로 책정되었다.||
+|||| '''Hard Random''' |||| Lv.? ||
+|| 1 ||<|4>하드 패턴 랜덤 선곡[[br]][[Minus 1 ~ space mix]] HD 제외[[br]][[Climax]] 인컴판 HD 출현|| ?? || ?? ||
+|| 2 || ?? || ?? ||
+|| 3 || ?? || ?? ||
+|| 4 || ?? || ?? ||
+=== 2차 히든 채널 ===
+||||<tablewidth=600px> '''Grotesque''' |||| Lv.? ||
+|| 1 ||[[Complex]]|| SHD || 1138 ||
+|| 2 ||[[Minus 1 ~Space Mix~]]|| HD || 873 ||
+|| 3 ||[[Fire Storm]]|| SHD || 1338 ||
+|| 4 ||[[Theme of EZ2DJ]]|| Gro || 692 ||
+|| ||||||4th의 보스채널. Fire Storm 슈퍼하드 패턴이 유일하게 여기에 수록되어 있으며 속칭 그로테스크 찬가도 이 채널에서만 즐길 수 있다. 패턴은 S/E찬가와 비슷하지만 약간 변경되었으며 게이지 증가량이 높아 S/E찬가에 비하면 '''상대적으로''' 쉽게 클리어 할 수 있는 수준. 1스테이지에 노트 겹침 버그가 있어, 7th 2.0에서 재수록되면서 수정되었다. 2스테이지는 원래 이 채널 전용 패턴이었는데 개발 중 혼선으로 스트릿 믹스에 그대로 풀렸다. 7th에서 13으로 책정되었고, BERA에서 14로 상향되었다.||
+|||| '''Supreme Collection''' |||| Lv.? ||
+|| 1 ||[[Ztar warZ]]|| NM || 382 ||
+|| 2 ||[[DIEOXIN]]|| NM || 490 ||
+|| 3 ||[[Showdown]]|| NM || 532 ||
+|| 4 ||[[20000000000]]|| NM || 832 ||
+|| ||||||3rd까지의 극악곡만 모아둔 채널. 게이지가 잘 빠지고 잘 차지 않는다. BERA에서 10으로 책정되었다.||
+
+== 7Radio Mix ==
+=== 기본 채널 ===
+||||<tablewidth=600px> '''imp17''' |||| Lv.6 ||
+|| 1 ||[[Lovely Day]]|| NM || 374 ||
+|| 2 ||[[In a Nutshell]]|| NM || 454 ||
+|| 3 ||[[Aquaris]]|| EZ || 696 ||
+|| 4 ||[[Feel So Sad]]|| IMP || 665 ||
+|||| '''Lassoft''' |||| Lv.7 ||
+|| 1 ||[[Blue]]|| EZ || 623 ||
+|| 2 ||[[Lovely Day]]|| NM || 374 ||
+|| 3 ||[[JMJ]]|| NM || 743 ||
+|| 4 ||[[Delight]]|| EZ || 640 ||
+|||| '''Necobus''' |||| Lv.8 ||
+|| 1 ||[[Calling me Now]]|| NM || 658 ||
+|| 2 ||[[Tokyo 9 P.M.]]|| NM || 454 ||
+|| 3 ||[[Climax]]|| NM || 1051 ||
+|| 4 ||[[Judgement]]|| HD || 540 ||
+|||| '''Andy Lee''' |||| Lv.8 ||
+|| 1 ||[[Judgement]]|| NM || 486 ||
+|| 2 ||[[Futurist]]|| HD || 685 ||
+|| 3 ||[[Climax]]|| NM || 1051 ||
+|| 4 ||[[Go!]]|| NM || 783 ||
+|||| '''Croove''' |||| Lv.9 ||
+|| 1 ||[[Aquaris]]|| NM || 856 ||
+|| 2 ||[[Shout]]|| HD || 864 ||
+|| 3 ||[[B.O.W.]]|| NM || 874 ||
+|| 4 ||[[Mad Robot]]|| HD || 918 ||
+|| ||||||4th 7라디오 최고 개념채널로 추앙받고 있다. 후속작에 부활채널로 꼬박꼬박 출연중. 2스테이지의 Shout에는 노트겹침 버그가 존재.||
+|||| '''xxdbxx''' |||| Lv.9 ||
+|| 1 ||[[Ready to Yah]]|| NM || 569 ||
+|| 2 ||[[Calling me Now]]|| HD || 828 ||
+|| 3 ||[[Metagalatic G - 1000]]|| NM || 853 ||
+|| 4 ||[[Eye of Beholder]]|| NM || 916 ||
+|||| '''KimYS''' |||| Lv.10 ||
+|| 1 ||[[Shout]]|| HD || 864 ||
+|| 2 ||[[Eye of Beholder]] || HD || 945 ||
+|| 3 ||[[Fire Storm]]|| NM || 903 ||
+|| 4 ||[[Feel So Sad]]|| NM || 807 ||
+|||| '''Airborn''' |||| Lv.10 ||
+|| 1 ||[[Stay]]|| KEN || 659 ||
+|| 2 ||[[Sparrow]]|| OM || 688 ||
+|| 3 ||[[Complex]]|| [* Airborn 전용 패턴. HD(Dizzy)와 SHD(Minan) 사이의 어중간한 난이도라 7스트릿에 수록되지 못했다.] || 1005 ||
+|| 4 ||[[Go!]]|| HD || 869 ||
+|| ||||||Complex는 Dizzy 패턴과 Minan 패턴이 섞인 듯한 형태의 채보로 여기서밖에 플레이할수 없다. 이후 7Street에 HD, SHD 기능이 추가되었을 때 HD로는 Dizzy 채널의 채보가, SHD로는 Minan 채널의 채보가 들어갔다. 이 채보는 난이도가 어중간해서 전용 패턴으로 남은 듯.||
+|||| '''FE''' |||| Lv.11 ||
+|| 1 ||[[Give it 2 me]]|| KEN || 754 ||
+|| 2 ||[[Cosmic Bird]]|| HD || 938 ||
+|| 3 ||[[B.O.W.]]|| HD || 892 ||
+|| 4 ||[[Metagalatic G - 1000]]|| HD || 966 ||
+|||| '''Ponglow''' |||| Lv.12 ||
+|| 1 ||[[Mad Robot]]|| HD || 918 ||
+|| 2 ||[[Climax]]|| Pong || 1173 ||
+|| 3 ||[[Fire Storm]]|| HD || 946 ||
+|| 4 ||[[Aquaris]]|| HD || 874 ||
+|| ||||||Climax가 현재 HD와는 약간 다르다. 이쪽이 더 어렵다.||
+=== 1차 히든 채널 ===
+||||<tablewidth=600px> '''Dizzy''' |||| Lv.? ||
+|| 1 ||[[Tokyo 9 P.M.]]|| HD || 579 ||
+|| 2 ||[[Black Market]]|| HD || 873 ||
+|| 3 ||[[Complex]]|| HD || 973 ||
+|| 4 ||[[JMJ]]|| HD || 841 ||
+|||| '''DJ.Tomato''' |||| Lv.? ||
+|| 1 ||[[Stay]]|| CR || 759 ||
+|| 2 ||[[The Future]]|| HD || 828 ||
+|| 3 ||[[Showdown]]|| HD || 643 ||
+|| 4 ||[[Sand Storm]]|| HD || 902 ||
+|| ||||||5키의 EZ2DJ Totaliy Hits 채널에서 순서만 반대인 채널. Showdown에서 청취율이 잘 오르지 않는다.||
+|||| '''Rehpic''' |||| Lv.9 ||
+|| 1 ||[[Futurist]]|| NM || 585 ||
+|| 2 ||[[It's My Secret]]|| HD || 497 ||
+|| 3 ||[[JMJ]]|| HD || 841 ||
+|| 4 ||[[R.D.M.]]|| HD || 366 ||
+=== 2차 히든 채널 ===
+||||<tablewidth=600px> '''光''' |||| Lv.? ||
+|| 1 ||[[The Boy]]|| NM || 256 ||
+|| 2 ||[[JAM(EZ2DJ)|JAM]]|| NM || 406 ||
+|| 3 ||[[Back For More]]|| NM || 418 ||
+|| 4 ||[[Look out ~Here comes my love~|Look Out]]|| NM || 419 ||
+|| ||||||최초의 퍼센테이지 장난질 채널. 최종클리어를 위해선 50%가 되어야 한다. 하지만 곡들이 전부 쉬운데다가 이후 시리즈에서 등장한 퍼센테이지 장난질 채널들에 비하면 크게 무리는 없는 수준이다.||
+|||| '''Minan''' |||| Lv.? ||
+|| 1 ||[[Complex]]|| SHD || 1054 ||
+|| 2 ||[[B.O.W.]]|| SHD || 892 ||
+|| 3 ||[[Fire Storm]]|| MN || 1129 ||
+|| 4 ||[[20000000000]]|| SHD || 1118 ||
+|| ||||||4th 7라디오 최고 난이도 채널. Fire Storm은 사실 현재의 SHD(PT Ominan 채보)와는 살짝 다르다.||

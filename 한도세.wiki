@@ -1,0 +1,25 @@
+ * [[야구 관련 기담]]
+
+'''한이닝 [[도루]] 3번'''의 줄임말.
+
+보통 한이닝에 할 수 있는 최대 도루는 이론적으로 '''무한대'''지만 안타가 펑펑 터져서 타자일순을 하지 않는 이상 이닝이 끝나기 전에 다음 타석이 돌아올 수 없기 때문에 한 선수가 출루하여 아웃당하지 않고 연속으로 2루 도루, 3루 도루, [[홈스틸]]을 할 때인 '''한이닝 사이클링 도루'''가 가장 일반적인 한도세라 볼 수 있겠다. 일반적으로 '''한 선수'''가 한 이닝에 기록했을때 말한다. 3명이 동시에 도루하는 경우는 트리플 스틸 혹은 삼중도루라 말한다.
+
+한국프로야구에서는 [[삼성 라이온즈]]의 [[신동주]]가  1999년 6월24일 대구구장에서 열린 [[LG 트윈스]]와의 더블헤더 2차전에서 2회초 1아웃 상태에서 볼넷으로 걸어나간 뒤, 2루, 3루, 홈을 연속으로 도루에 성공하여 위와 같은 진기록을 수립하였다. 참고로 그 경기 당시 [[포수]]가 프로 2년차의 준 [[신인]]이었던 [[조인성]]이었다.
+
+[[메이저리그]]에서는 총 49명이 위 기록을 수립하였지만, [[제2차 세계대전]]이 한창이던 1942년 이후로는 단 '''9명'''만이 이 대기록을 작성하였다. 가장 최근의 기록은 아래 동영상을 참조할 것.
+
+{{{#!html
+<object type='application/x-shockwave-flash' width='502px' height='399px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0'><param name='movie' value='http://flvs.daum.net/flvPlayer.swf?vid=sxLCCEOk5Ec$' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><embed src='http://flvs.daum.net/flvPlayer.swf?vid=sxLCCEOk5Ec$' width='502px' height='399px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed></object>
+}}}
+
+아래는 [[필라델피아 필리스]]의 [[제이슨 워스]]가 2009년 5월13일 [[LA 다저스]]전 7회말에 기록한 한이닝 도루 3번.
+이 경기에서 [[박찬호]]는 2009 시즌 들어 처음으로 승리[[투수]]가 되었다.
+
+이 외에 만화에서도 나온 적이 있다. [아다치 미츠루]의 야구만화 나인에서는 주인공 니이미가 번트로 출루-도루-도루-홈스틸로 선취점을 만든다. [ONE OUTS]에서는 아예 [wiki:"ONE OUTS#s-6.3" 한도세만 노리는 선수]도 나온다.(...)
+
+야구 만화는 아니지만 [[심슨]](...)에서도 나왔는데, [[wiki:"리사 심슨" 리사]]가 [[세이버메트릭스]]를 앞세워 팀을 결승까지 이끌었는데 [[wiki:"바트 심슨" 바트]]가 1점차 뒤지고 있는 9회 2사 1루에서 [[한도세]]를 하려다 홈에서 아웃당했다(...)--충암고 [[김주찬]]이 9회 2사에서 홈스틸하다 아웃당하고 있다.--
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/LYcNbBnicm4?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/LYcNbBnicm4?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+미국 대학야구에서 나온 트리플 스틸. 일명 한플레이 도루 세명 성공. 우리나라에는 [[705 대첩]]에서 트리플 스틸이 있었다.

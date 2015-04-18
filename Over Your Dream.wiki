@@ -1,0 +1,12 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX Trilogy]] ||
+|| 장르 || Rock ||
+|| 작사,작곡 || [[xxdbxx]] ||
+|| 보컬 || 신소희 ||
+
+ {{{#!html
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/HciwvCrltPY&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/HciwvCrltPY&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+}}}
+
+[[DJMAX Trilogy]]의 오프닝곡으로, 본래 오프닝과 엔딩 영상 작업을 한 뒤 곡을 입힐 계획에 있던 곡이었으나 이른바 [[어른의 사정]]으로 인해 [[OST]]에만 수록된 곡.(이후 이 곡을 이용해 만든 DJMAX Trilogy의 오프닝 영상이 뒤늦게 공개되었다.) 게임 본편에서도 OST모드를 통해 들을수만 있을 뿐 플레이는 할 수 없다. [[바람에게 부탁해 Live Mix]]를 생각나게 하는 밝고 경쾌한 곡으로, 작곡자인 xxdbxx 본인도 무척이나 신경써서 작업한 곡이나, 게임 본편에 사용되지도 못한데다 트릴로지 프로젝트 자체가 사내에서 묻힌 듯한 작품이 되어버린지라 이후 다른 [[DJMAX 시리즈]]에 수록될지는 불투명하다.

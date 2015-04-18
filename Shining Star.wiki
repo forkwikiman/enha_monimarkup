@@ -1,0 +1,49 @@
+[[목차]]
+== [[유비트 시리즈]]의 수록곡 == 
+작곡은 [[후지모리 소타]]. 전체적인 곡조는 당 작곡가가 [[비트매니아 IIDX]] 10th style에 제공한 Back Into The Light와 비슷한 느낌. 그의 곡 답게 보코더를 활용한 보컬과 현란한 신디사이저 연주가 특징이다. 2010년 1월에 발매된 작곡가의 앨범 'SYNTHESIZED 2'에 익스텐디드 버전이 수록되었다.
+
+attachment:2_ripples_shiningstar.png
+
+||||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>4||<:>6||<:>8||
+||<#ffffff><:>노트수||||<:>279||<:>406||<:>602||
+||<#ffffff><:>BPM||||||||<:>140||
+||<#ffffff><:>곡 이력||||||||[[유비트 리플즈]]에서 첫 수록[[BR]][[유비트 플러스]]에서 music pack 09에 수록[[BR]][[유비트 소서]]에서 출시 전 삭제[[BR]][[유비트 소서]]에서 2013/1/1 시즌곡으로 재수록[[BR]][[유비트 소서]]에서 2013/4/1 교체[[BR]][유비트 소서]에서 2013/12/1 시즌곡으로 재수록||
+
+관련 칭호
+ * [[유비트 리플즈]] ~
+  * Synth Junkie : 모든 보면 클리어
+  * '''SYNTHESIZER''' [* 굵은 글씨는 칭호 파츠.] EXPERT : 모든 보면에서 풀 콤보
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+[[유비트 리플즈]]에선 골드 래빗(금토끼)그레이드에서 해금된다.
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/LyactjDhMRw" frameborder="0" allowFullScreen></iframe>
+}}}
+[[Y.S-Y]]의 엑설런트 영상
+
+익스트림 난이도는 초반의 교차 지그재그 치기와 후반의 신디사이저 음에 맞춘 빠른 긁기 기습이 난점. 특히 후반은 32비트 구간이 약간 불규칙하게 끼어드는 편이라 박자 파악이 중요한 편.
+
+[[각주]]
+
+== [[보컬로이드]] [[wiki:"SeeU" 시유]]의 세번째 데모곡 ==
+[[Shining Star(시유)]] 항목 참조 .
+
+== [[라라의 스타일기]](키라링☆레볼루션)의 2기 오프닝 곡 ==
+2기의 시작 당시엔 1기의 곡에 영상만 바꾼 상태였지만 어느정도 지나고 나서 이 곡으로 교체하였다. [[사랑☆일까]]와 분위기가 비슷한 활기찬 느낌의 곡이다.
+
+상위 링크 - [[키라링☆레볼루션]]
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer43500' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=EB5A499A055CDF123CEB793001CF91CAC604&outKey=V12348088f5bf73f8cea35d241b37b14007b5c39e543c09765fd35d241b37b14007b5' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=EB5A499A055CDF123CEB793001CF91CAC604&outKey=V12348088f5bf73f8cea35d241b37b14007b5c39e543c09765fd35d241b37b14007b5' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer43500' id='NFPlayer43500' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+== shining★star [[시스터 프린세스]] [[플레이스테이션]]판 게임의 엔딩곡 ==
+등장 히로인 12명의 1집 싱글 'MELODY/shining★star'의 수록곡 중 하나이며, 게임 OST에도 수록되어 있는 귀여운 느낌의 곡. 사족으로 MELODY는 오프닝곡이다.
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="480" src="http://www.youtube.com/embed/PxOheGEL0Uo" frameborder="0" allowFullScreen></iframe>
+}}}

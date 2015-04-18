@@ -1,0 +1,75 @@
+ * [[NS]]
+ * [[역 관련 정보]]
+
+http://upload.wikimedia.org/wikipedia/commons/f/fc/Centraal.jpg?width=300&align=right
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Hal_CS_Amsterdam.jpg/320px-Hal_CS_Amsterdam.jpg?width=300&align=right
+
+|||| Station Amsterdam Centraal[[br]]Amsterdam Central station ||
+|| 개업 || 1889년 ||
+|| 역 코드 || Asd ||
+|| 관리 || [wiki:"NS" Nederlandse Spoorwegen] ||
+|| 소유 || [[NS]] ||
+
+[[목차]]
+
+== 개요 ==
+[[네덜란드]] 최대 규모의 철도역. 순수하게 규모로만 따지면 [[위트레흐트 중앙역]]에 밀리지만 승객 숫자로 보면 [[넘사벽]]이다. 수도 [[암스테르담]]에 위치하며 하루에 무려 25만 명이 이용하는 [[크고 아름다운]] 역이다. 이 숫자도 환승 승객을 뺀 숫자. [[쾰른 중앙역]]처럼 승강장도 많고, 승강장 한 면을 쪼개서 반대 방향의 두 열차를 취급할 수 있을 정도로 하나 하나가 모두 길고 아름답다. [[도쿄역]]의 모티브가 된 건물이다.
+
+네덜란드 각지로 열차가 쉴 새 없이 출발하고, 각지에서 열차가 쉴 새 없이 도착한다. 뿐만 아니라 [[독일]]과 [[프랑스]]로 가는 국제 열차도 취급하고 있어서 정말 미어터질 지경이다. 심지어는 [[프라하]]나 [[바르샤바]], [[코펜하겐]]으로 가는 장거리 야간 열차도 취급한다. [[흠좀무]]...
+
+11면 15선의 거대한 규모를 자랑한다.
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Amsterdam_centraal_side.jpg/320px-Amsterdam_centraal_side.jpg
+
+역 동편에서 바라본 모습. 엄청나다...
+
+2012년 7월 기준으로 역 확장 공사가 진행 중으로, 뒤쪽(운하 방면)에 신역사가 들어서고 있으며, 앞쪽의 광장 쪽도 지하를 파고 있는 등... 대대적인 교통 정리 작업에 착수하고 있다.
+
+== 경유 노선 ==
+=== 국제 노선/장거리 열차 ===
+|||||||||| attachment:/DBbahn-small.png '''[wiki:"독일철도" Deutsche Bahn Fernverkehr]''' ||
+||||||||||<#ff0000> {{{#ffffff ICE 100}}} ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 암스테르담  || → ||<width=200px> '''바젤 방면'''[[br]]naar Basel SBB[[br]][[위트레흐트 중앙역]][[br]]Utrecht Centraal ||
+||||||||||<#ff0000> {{{#ffffff ICE 120}}} ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 암스테르담 || → ||<width=200px> '''[wiki:"프랑크푸르트 중앙역" 프랑크푸르트] 방면'''[[br]]naar Frankfurt Hbf[[br]][[위트레흐트 중앙역]][[br]]Utrecht Centraal ||
+||||||||||<#ff0000> {{{#ffffff IC 140}}} ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 암스테르담  || → ||<width=200px> '''[[베를린 동역]] 방면'''[[br]]naar Berlin Ostbahnhof[[br]]힐베르숨[[br]]Hilversum ||
+|||||||||| attachment:/DBbahn-small.png '''[wiki:"독일철도" Deutsche Bahn Nachtzug]''' ||
+||||||||||<#ff0000> {{{#ffffff City Night Line 419}}} ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 암스테르담  || → ||<width=200px> '''[[뮌헨]]/[[취리히]] 방면'''[[br]]naar München Hbf/Zürich HB[[br]][[위트레흐트 중앙역]][[br]]Utrecht Centraal ||
+||||||||||<#ff0000> {{{#ffffff City Night Line 457}}} ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 암스테르담  || → ||<width=200px> '''[[프라하]] 방면'''[[br]]naar Praha[[br]][[위트레흐트 중앙역]][[br]]Utrecht Centraal ||
+|||||||||| attachment:/Thalys-small.png  '''[wiki:"탈리스" Thalys]''' ||
+||||||||||<#8c022d> {{{#ffffff Thalys 9300}}} ||
+||<width=200px> '''[[파리 북역]] 방면'''[[br]]naar Paris Gare du Nord[[br]][wiki:"암스테르담 스키폴 국제공항" 스키폴][[br]]Schiphol || ← ||<width=150px> 암스테르담 || - ||<width=200px> ''시종착역'' ||
+|||||||||| attachment:/NS-small.png  '''[wiki:"NS" Nederlandse Spoorwegen]''' ||
+||||||||||<#8c022d> {{{#ffffff Fyra 900}}} ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 암스테르담 || → ||<width=200px> '''브레다 방면'''[[br]]naar Breda[[br]][wiki:"암스테르담 스키폴 국제공항" 스키폴][[br]]Schiphol ||
+||||||||||<#8c022d> {{{#ffffff Fyra 9200}}} ||
+||<width=200px> '''[[브뤼셀 남역]] 방면'''[[br]]naar Brussel-Zuid[[br]][wiki:"암스테르담 스키폴 국제공항" 스키폴][[br]]Schiphol || ← ||<width=150px> 암스테르담 || - ||<width=200px> ''시종착역'' ||
+||||||||||<#8c022d> {{{#ffffff EuroNight 447}}} ||
+||<width=200px> ''시종착역'' || - ||<width=150px> 암스테르담 || → ||<width=200px> '''[[바르샤바]]/[[코펜하겐]] 방면'''[[br]]naar Warsaw/Copenhagen[[br]][[위트레흐트 중앙역]][[br]]Utrecht Centraal ||
+
+=== 일반선 ===
+|||||||||| attachment:/NS-small.png  '''[wiki:"NS" Nederlandse Spoorwegen]''' ||
+||||||||||<#0000CD> {{{#ffffff 인터시티}}} ||
+||<width=200px> '''스하헨 방면'''[[br]]naar Schagen[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Intercity 800 || → ||<width=200px> '''마스트리흐트/헤를렌 방면'''[[br]]naar Maastricht/Heerlen[[br]]암스테르담 암스텔[[br]]Amsterdam Amstel ||
+||<width=200px> '''로테르담 중앙역 방면'''[[br]]nach Rotterdam Centraal[[br]][wiki:"암스테르담 스키폴 국제공항" 스키폴][[br]]Schiphol || ← || [[NS]] Nachtnet 1400[* 자정~새벽 6시 사이에 운행하는 심야 열차. Intercity 600의 연장선이다.] || → ||<width=200px> '''[[위트레흐트 중앙역]] 방면'''[[br]]''시종착역'' ||
+|| '''엔크하위젠 방면'''[[br]]naar Enkhuizen[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Intercity 1500 || → || '''아메르스포르트 방면'''[[br]]naar Amersfoort [[br]]힐베르숨[[br]]Hilversum ||
+||<width=200px> '''[[덴 하흐]] 중앙역 방면'''[[br]]naar Den Haag Centraal[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Intercity 2100 || - ||<width=200px> ''시종착역'' ||
+||<width=200px> '''로테르담 중앙역 방면'''[[br]]naar Rotterdam Centraal[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Intercity 2200 || - ||<width=200px> ''시종착역'' ||
+||<width=200px> '''플리싱헨 방면'''[[br]]naar Vlissingen[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Intercity 2600 || → ||<width=200px> '''렐리스타트 중앙역 방면'''[[br]]naar Lelystad Centrum[[br]]알메르 중앙역[[br]]Almere Centrum ||
+||<width=200px> '''덴 헬더 방면'''[[br]]naar Den Helder[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Intercity 3000 || → ||<width=200px> '''네이메헨 방면'''[[br]]naar Nijmegen[[br]]암스테르담 암스텔[[br]]Amsterdam Amstel ||
+||<width=200px> '''엔크하위젠 방면'''[[br]]naar Enkhuizen[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Intercity 14500 || - ||<width=200px> ''시종착역'' ||
+||||||||||<#FFD700> {{{#000000 스프린터}}} ||
+||<width=200px> '''아위트헤스트 방면'''[[br]]naar Uitgeest[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Sprinter 4000 || → ||<width=200px> '''로테르담 중앙역 방면'''[[br]]naar Rotterdam Centraal[[br]]암스테르담 마위더포르트[[br]]Amsterdam Muiderpoort ||
+||<width=200px> ''시종착역'' || - || [[NS]] Sprinter 4600 || → ||<width=200px> '''츠볼레 방면'''[[br]]naar Zwolle[[br]]암스테르담 마위더포르트[[br]]Amsterdam Muiderpoort ||
+||<width=200px> '''아위트헤스트 방면'''[[br]]naar Uitgeest[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Sprinter 4700 || - ||<width=200px> ''시종착역'' ||
+||<width=200px> '''아위트헤스트 방면'''[[br]]naar Uitgeest[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Sprinter 4800 || - ||<width=200px> ''시종착역'' ||
+||<width=200px> '''잔트포르트 방면'''[[br]]naar Zandvoord[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Stoptrein 5400 || - ||<width=200px> ''시종착역'' ||
+||<width=200px> '''호프트도르프 방면'''[[br]]naar Hoofddorp[[br]]암스테르담 슬로터다이크[[br]]Amsterdam Sloterdijk || ← || [[NS]] Sprinter 5800 || → ||<width=200px> '''아메르스포르트 파트호르스트 방면'''[[br]]naar Amersfoort Vathorst[[br]]암스테르담 마위더포르트[[br]]Amsterdam Muiderpoort ||
+||<width=200px> ''시종착역'' || - || [[NS]] Sprinter 7400 || → ||<width=200px> '''레넨 방면'''[[br]]naar Rhenen[[br]]암스테르담 마위더포르트[[br]]Amsterdam Muiderpoort ||
+
+== 관련 항목 ==
+ * [암스테르담]

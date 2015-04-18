@@ -1,0 +1,29 @@
+#title Reflection(Mirror Night)
+
+
+ * 상위 항목 : [Deemo]
+||||||||<table align=right> '''Reflection(Mirror Night)''' ||
+||||||||  attachment:reflection.png?width=240  ||
+||<:>작곡||||||||<:>V.K||
+||<:>BPM||||||||<:>85||
+|| ||<:>Easy||<:>Normal||<:>Hard||
+||<:>레벨||<:>1||<:>4||<:>8||
+||<:>노트수||<:>206||<:>376||<:>643||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/dwC8CY-86yI" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/FMFcPPe1x2Y" frameborder="0" allowfullscreen></iframe>
+}}}
+하드 패턴 플레이 영상
+
+||<bgcolor=#E9ECEF>'''마지막으로 밤하늘을 본 지도 꽤 오래 되었네...'''
+'''너와 함께 누워서 아름다운 밤하늘을 올려다보고 싶어.''' [* 해당 곡을 플레이 할 경우 SNS 상에서 결과와 함께 출력되는 멘트]
+'''夜空を最後に見てからとても長く時間がたった…'''
+(마지막으로 밤하늘을 본 건 꽤 오래 전 일이었어...)[* 일본어판일 경우 출력되는 멘트.]||
+
+Deemo의 수록곡으로, 원곡은 V.K 본인의 앨범인 鏡夜(Reflection) 수록곡 [https://soundcloud.com/vkstyle/reflection 鏡夜](Mirror Night). 처음 게임 실행 시 제공되며, iOS 로 출시 할 당시에는 '''Mirror Night''' 였다가 추후 안드로이드 버전 출시 할 때 앨범에 수록된 곡명인 '''Reflection''' 과 병행하여 지금과 같이 표기하게 되었다.
+
+피아노 선율을 중점으로 하는 Deemo의 특성상 [[wiki:"Dream"난이도가 완전히 같은 다른 튜토리얼 곡]]보다 노트 수가 더 많다. 같은 튜토리얼곡이고 하드 8렙으로서, Dream이 빡빡한 노트 간격과 엇박으로 인한 차밍 미스 등으로 성가시다면, Reflection은 노트의 물량과 중간의 슬라이드-단타 조합으로 승부하는 타입. 체감 난이도는 이쪽이 쉬운 편이다.

@@ -1,0 +1,52 @@
+{{{+1 東京都交通局上野懸垂線 / Ueno Zoo Monarail }}}
+ * [[일본 철도 정보/노선 관련 정보]], [[wiki:"일본 철도 정보/역 관련 정보" 역 관련 정보]]
+
+http://farm4.staticflickr.com/3377/3425896699_c5bd205613_z.jpg
+우에노 현수선의 주행 중인 차량 모습. (사진 저작자 : [[http://www.flickr.com/photos/27889738@N07/3425896699/|ykanazawa1999]])
+[[http://www.kotsu.metro.tokyo.jp/other/monorail/index.html|홈페이지]]
+
+[[목차]]
+== 개요 ==
+ * 영업 거리 : 331.42m(0.3km)
+ * 방식 : 현수식
+ * 역수 : 2
+ * 전력공급 : 직류 600V
+ * 최고속도 : 20km/h
+
+일본 [[도쿄]]도 다이토구의 [[우에노 동물원]] 내에 있는 [[도쿄 도 교통국]]에서 운영하는 [[모노레일]] 노선이다. 통칭으로는 '도영 모노레일', '우에노 모노레일', '우에노 동물원 모노레일' 등이 있다. 일본의 철도 노선 중 가장 짧은 노선으로, 동물원에 있다고 무시하면 안 된다.
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Higashien_sta.JPG/512px-Higashien_sta.JPG
+http://farm9.staticflickr.com/8110/8554114803_8880262de4_z.jpg
+이래봐도 최소한 있을 건 다 갖추어져 있는 엄연한 철도사업법의 적용을 받는 노선이다. (사진 저작자 : (위)[[http://commons.wikimedia.org/wiki/File%3AHigashien_sta.JPG|星組背番号10]], (아래)[[http://www.flickr.com/photos/kzaral/8554114803/|Kzaral]])
+
+1957년 개업하였으며, 차량정비나 설비갱신 등으로 운행을 휴지한 일이 여러 번 있었다. 최근에 [[동일본 대지진]]이 일어났을 때에도 휴지되었다.
+
+차량은 2량 편성 1대가 운행중이다. 소요시간은 1분 30초이며 7분 간격으로 운행된다.
+
+여담으로 문서 최초 작성과 동시에 모든 역 문서가 작성된 철도 노선이기도 하다.(...)
+
+== 역 목록 ==
+=== 우에노 동물원 동원역 ===
+{{{+1 上野動物園東園駅 / Higashien Station }}}
+
+||||||||||<#808080> {{{#ffffff 우에노 현수선}}} ||<#808080><|2>{{{#ffffff 운영주체 : 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일 : 1957년 12월 17일}}} ||
+||<width=120px> 시종착역 || {{{#ffffff :← }}} ||<width=100px> 우에노 동물원[[br]]동원 || {{{+1 → }}} ||<width=120px> 우에노 동물원 서원[[br]]방면[[br]]우에노 동물원 서원 ||
+
+http://farm6.staticflickr.com/5515/9254101348_6334dc08dd_z.jpg
+http://farm9.staticflickr.com/8088/8555224330_c67d81b00a_z.jpg
+우에노 동물원 동원역의 출입구와 역명판 및 승강장 모습. (사진 저작자 : (위)[[http://www.flickr.com/photos/o_0/9254101348/|*_*]], (아래)[[http://www.flickr.com/photos/kzaral/8555224330/|Kzaral]])
+
+단선 승강장으로 역사 입구에 '모노레일 동원역'이라고 쓰여 있으며 동원 쪽에 위치한다.
+
+=== 우에노 동물원 서원역 ===
+{{{+1 上野動物園西園駅 / Nishien Station }}}
+
+||||||||||<#808080> {{{#ffffff 우에노 현수선}}} ||<#808080><|2>{{{#ffffff 운영주체 : 도쿄 도 교통국}}}[[br]]{{{#ffffff 개업일 : 1957년 12월 17일}}} ||
+||<width=120px> 우에노 동물원 동원[[br]]방면[[br]]우에노 동물원 동원 || {{{+1 ← }}} ||<width=100px> 우에노 동물원[[br]]서원 || {{{#ffffff →: }}} ||<width=120px> 시종착역 ||
+
+http://farm9.staticflickr.com/8518/8554119367_e114f11508_z.jpg
+우에노 동물원 서원역의 역사. (사진 저작자 : [[http://www.flickr.com/photos/kzaral/8554119367/|Kzaral]])
+
+단선 승강장의 고가역으로 2층에 모노레일이 발착한다.
+
+[[각주]]

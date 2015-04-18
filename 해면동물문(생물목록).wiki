@@ -1,0 +1,58 @@
+ * 상위항목 : [[동물계(생물목록)]]
+ * 일반적인 내용은 [[해면]] 참고.
+
+[[목차]]
+
+해면동물문(海綿動物門, Porifera)은 가장 간단한 형태의 동물로, 주로 단순한 구조의 생물이 집단을 구성하여 생활한다.
+
+= 석회해면강(Calcarea) =
+== 무화과해면목(Leucosolenida) ==
+=== 둥글해면과(Grantiidae) ===
+ * 흰나팔해면(''Leucandra mitsukurii'' Hozawa, 1929)
+
+
+= 육방해면강(Hexactinellida) =
+ * 해로동굴해면(''Euplectella marshalli'' Ijima,1895)
+
+
+= 동골해면강(Homoscleromorpha) =
+== 동골해면목(Homosclerophorida) ==
+=== 판해면과(Plankinidae) ===
+
+=== 풀해면과(Oscarellidae) ===
+ * 거품오스카해면(''Oscarella lobularis'' Schmidt, 1862)
+
+
+= 보통해면강(Demospongiae) =
+== 별해면목(Astrophorida) ==
+=== 별해면과(Stelletidae) ===
+   * 카미너스해면(''Caminus awashimensis'' Tanita, 1969)
+
+== 경해면목(Hadromerida) ==
+=== 코르크해면과(Suberitidae) ===
+   * 코르크해면(''Suberites excellens'' (Thiele, 1898))
+=== 호박해면과(Clionidae) ===
+   * 호박해면(''Cliona celata'' Grant, 1826)
+
+== 축해면목(Axinellida) ==
+=== 딸기해면과(Tethyidae) ===
+   * 오렌지둥굴해면(''Tethya aurantium'' (Pallas, 1766)) 
+== 다골해면목(Poecilosclerida) ==
+=== 발톱해면과(Esperiopsidae) ===
+   * 진도발톱해면(''Esperiopsis chindoensis'' Sim, 1995)
+
+== 단골해면목(Haplosclerida) ==
+=== 보라해면과(Haliclonidae) ===
+   * 보라해면(''Haliclona permollisimilis'' Hoshino, 1981)
+=== 예쁜이해면과(Callyspongiidae) ===
+   * 보라예쁜이해면(''Callyspongia confoederata'' (sensu Ridley, 1884))
+   * 예쁜이해면(''Callyspongia elegans'' (Lendenfeld, 1887))
+
+== 해변해면목(Halichondrida) ==
+=== 해변해면과(Halichondriidae) ===
+   * 보어밴키해변해면(''Halichondria bowerbanki'' Bruton, 1930)
+   * 검정해변해면(''Halichondria okadai'' (Kadota, 1922)) 
+   * 황록해변해면(''Halichondria oshoro'' Tanita,1961) 
+   * 회색해변해면(''Halichondria panicea'' (Pallas, 1766)) 
+=== 주황해변해면과(Hymeniacidonidae) ===
+   * 주황해변해면(''Hymeniacidon sinapium'' De Laubenfels, 1930)

@@ -1,0 +1,143 @@
+ * 상위 항목: [체코군]
+
+|||||||| [전차] ||
+|| 이름 || 제조 || 수량 || 종류 ||
+|| [T-72M4CZ] || [체코] || 30 ||[MBT] ||
+|| [T-72] || [소련] || 93 ||[MBT] ||
+
+|||||||| [장갑차] ||
+|| 이름 || 제조 || 수량 || 종류 ||
+|| [wiki:"BMP-1" BVP-1] || [소련] || 168 || [IFV] ||
+|| [wiki:"BMP-2" BVP-2] || [소련] || 174 || [IFV] ||
+|| [BPzV] || [체코슬로바키아] || 34 || [정찰 장갑차] ||
+|| [BPzV SNĔŽKA] || [체코슬로바키아] || 8 || [정찰 장갑차] ||
+|| [LOS] || [체코슬로바키아] || 10 || [정찰 장갑차] ||
+|| [wiki:"BRDM-2" BRDM-2rch] || [소련] || 30 || [정찰 장갑차] ||
+|| [[OT-64]] || [체코슬로바키아]/[폴란드] || 17 || [APC] ||
+|| [wiki:"BMP-1" OT-90] || [체코슬로바키아] || 17 || [APC] ||
+|| Pandur II || [오스트리아] || 107 || [IFV]/[APC] ||
+
+|||||||| [포병] ||
+|| 이름 || 제조 || 수량 || 종류 ||
+|| [ShKH vz.77 Dana] || [체코슬로바키아] || 89 || [자주포] ||
+||[ShM vz.85 PRÁM-S] || [체코슬로바키아] || 8 || [자주박격포] ||
+|| vz.82 || [체코슬로바키아] || 85 || [박격포] ||
+
+|||||||| 수송 트럭 ||
+|| 이름 || 제조 || 수량 || 종류 ||
+|| [T-810] || [체코] || 586 || [트럭] ||
+|| [T-815] || [체코슬로바키아] || 2,700 || [트럭] ||
+|| [wiki:"T-815" T-815 SOT] || [체코] || 2 || [장갑차] ||
+
+|||||||| IMV ||
+|| 이름 || 제조 || 수량 || 종류 ||
+|| Defender 110 || [영국] || ? || [오프로드] ||
+|| Defender 130 || [영국] || 79 || [오프로드] ||
+|| Dingo 2 || [독일] || 19 || [IMV] ||
+|| LMV || [이탈리아] || 84 || [IMV] ||
+
+Lan Forces Command (Praha)
+사령관 : Jan Grunik
+부사령관 : Ladislav Jung
+ 
+제41 신속전개 여단
+여단장 : Miroslav Hlavac
+부여단장 : Antonin Genser
+참모장 : Roman Nahoncik
+선임준위 : Milos Prasil
+주둔지 : Zatec
+
+- 제41 기계화 대대 (Zatec)
+- 제42 기계화 대대 (Camp)
+- 제43 공수기계화 대대 (Chrudim)
+- 제44 경기동 대대 (Henry Hradec)
+
+
+제7 기계화 여단
+여단장 : Josef Kopecky
+부여단장 : Pevel Lipka
+참모장 : Ctirad Gazda
+선임준위 : Vladimir Blazek
+주둔지 : Boundaries
+
+- 제71 기계화 대대 (Boundaries)
+- 제72 기계화 대대 (Praslavice)
+- 제73 전차 대대 (Praslavice)
+- 제74 경기동 대대 (Bucovice)
+ 
+ 
+제13 포병 여단
+여단장 : Jan Trinacty
+부여단장 : 없음
+참모장 : Stefan Rosko
+선임준위 : Robert Plzak
+주둔지 : Jince
+
+- 제131 포병 (Jince)
+- 제132 포병 (Jince)
+
+
+제15 공병 여단
+여단장 : Robert Bieleny
+부여단장 : Jiri Trso
+참모장 : 미상
+선임준의 : 미상
+주둔지 : Bechyne
+
+- 제151 공병 대대 (Bechyne)
+- 제152 공병 대대 (Townsville)
+- 제153 공병대대 (Olomouc)
+
+
+제31 화생방 방호 여단
+여단장 : Radek Cerny
+부여단장 : Ondrej  Havel
+참모장 : Karel Navratil
+선임준위 : Martin Gajanec
+주둔지 : Liberec
+
+- 제311 화생방 방호 대대 (Liberec)
+- 제312 화생방 방호 대대 (Liberec)
+- 제314 대량살상무기 경보센터 (Hostivice-Brve)
+ 
+ 
+제53 정찰전자전 여단
+여단장 : Josef Havlik
+부여단장 : 미상
+참모장 : 미상
+선임준위 : 미상
+주둔지 : Opava
+
+- 제532 전자전 여단 (Opava)
+- 제102 전자전 여단 (Prostejov)
+
+
+제14 물류수송 여단
+여단장 : 미상
+부여단장 : 미상
+참모장 : 미상
+선임준위 : 미상
+주둔지 : Pardubice
+
+- 제141 보급대대 (Pardubice)
+- 제142 수리대대 (Klatovy)
+
+
+제103 CIMIC / PSYOPS
+여단장 : 미상
+부여단장 : 미상
+참모장 : 미상
+선임준위 : 미상
+주둔지 : Lipnik
+
+
+제104 보안 대대 
+여단장 : 미상
+부여단장 : 미상
+참모장 : 미상
+선임준위 : 미상
+주둔지 : Olomouc
+
+출처 : 출처 : http://www.acr.army.cz/struktura/generalni-stab/velitelstvi-pozemnich-sil-86865/
+
+작성중

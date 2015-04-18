@@ -1,0 +1,16 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+|| 최초 수록 || [[DJMAX 온라인]] ||
+|| 장르 || Spanish R&B ||
+|| 작사,작곡 || [[CROOVE]] ||
+|| 보컬 || [[3rd Coast]](So Fly) ||
+|| [[BPM]] || 140 ||
+|| 비주얼 || [[TARI]] ||
+
+{{{#!html
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/nDXB7rR5MuM&hl=ko_KR&fs=1&hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nDXB7rR5MuM&hl=ko_KR&fs=1&hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+}}}
+
+상용화버전인 Emotional Sense VOL.1 시기에 업데이트된 곡. 프리미엄 유저 전용 곡(유료곡)으로 업데이트되었다. 
+
+본래 게임상에서의 장르 표기는 R&B로 되어있지만, 작곡가 본인이 블로그에서 밝혔던 곡 내용상의 장르표기는 Spanish R&B, BGA의 내용을 봐도 작곡가의 의도가 충분히 반영된 곡으로, 기존의 CROOVE가 작곡했던 곡들과의 스타일과는 상당히 다른 곡이다.

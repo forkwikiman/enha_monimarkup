@@ -1,0 +1,111 @@
+[[목차]]
+
+|| 장르 |||||||| R&B ||
+|| 곡명 |||||||| I Do Love You ||
+|| 작곡 |||||||| [[전준규]], [[CROOVE]] ||
+|| 작사/보컬 |||||||| [[Mario Bolden]] ||
+|| 배경 |||||||| [[ibarad]] ||
+|| 최초 수록버전 |||||||| [[EZ2DJ 1st]] ||
+|| BPM |||||||| 100 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 2}}} || {{{#red 4}}} || {{{#purple 6}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 3}}} || {{{#red 5}}} || {{{#purple 7}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 3}}} || {{{#red 7}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 5}}} || {{{#red 7}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 2}}} || {{{#red 8}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 6}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<embed src='http://flvs.daum.net/flvPlayer.swf?vid=bLqgAE4lwV4$' width='640px' height='480px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' ></embed>
+}}}
+[[EZ2DJ The 1st TRACKS]] '''BGA'''
+
+== 개요 ==
+비트매니아의 [[Do you love me?]]를 강하게 의식한 듯한 곡. 실제로 초기 EZ2DJ에는 비트매니아 시리즈의 영향을 받은 요소가 많았다[* BGA의 판정별 레이어 출력 시스템, 1st의 수록곡 장르 안배, 리절트 화면에서 곡명이 아닌 장르명이 표시되는 점 등].
+
+당시 공식 홈페이지에서 'Ez2dj Sound Team에서 작곡을 먼저 하고 이것을 가요계에서 전문적인 활동을 하고 있는 프로 편곡자에게 편곡을 의뢰를 했다'라고 한 걸 보면 곡은 CROOVE가 쓰고 편곡을 전준규가 한 것으로 추정된다.
+
+== 패턴 ==
+=== 5K ONLY ===
+5K Only에서 SHD가 레벨이 불과 6으로 SHD가 있는 곡 중에서는 난이도가 가장 낮다. 
+=== 5K RUBY ===
+루비 믹스가 처음으로 생긴 2nd에서 생긴 패턴이 있었으나 이후 버전에서 삭제되고 EV에서 다른 패턴이 새로 생겼다.
+=== 5K STANDARD ===
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/HNUVC30wECg?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+[[EZ2DJ The 1st TRACKS Special Edition]]의 HD MIX (현재의 하드 패턴과는 다르다.)
+
+1st부터 존재한 장수곡이었지만, EZ2DJ 7th TRAX VIOLET에서는 삭제곡이 되었다. 그후 총집편 버전인 [[EZ2DJ 7thTRAX BONUS EDITION revision A]]에서 부활하였다. 이 과정에서 1ST SE의 270개짜리 패턴이 변경되어 살이 더 붙은 채로 등장하였다. 노트수는 342개.
+
+그 후 오랫동안 기존 패턴만으로 버텨오다 드디어 EV에서 7짜리 SHD가 생겼다. 다만 패턴 자체는 하드에 살 좀 붙인 별 특징 없는 패턴. 대체적인 의견은 물렙곡이다. (애초에 하드와 노트수가 50개도 차이나지 않는다.) 6레벨이 적당하다고 보면 될 것이다.
+=== 7K STANDARD ===
+7th 2.0에선 7키 HD 패턴이 등장하였다.
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+14 Key에 NM, HD 패턴이 추가되었는데, NM 2, HD 8이다.
+=== EZ2CATCH ===
+=== TURNTABLE ===
+턴테이블 모드에도 4레벨의 NM 패턴이 EC에서 추가되었다.
+
+== I Do Love You ~Insida Club Remix~ ==
+|| 리믹스 수록버전 |||||||| [[EZ2DJ AE]] ||
+|| BPM |||||||| 120 ||
+|||||||||| 모드별 레벨 데이터 (리믹스) ※[[EZ2DJ AEIC]] 기준 ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} ||
+||<#FF0000> Ruby Mix || {{{#blue -}}} || {{{#orange 4}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#00ff00> 5 Street Mix || {{{#blue -}}} || {{{#orange 6}}} || {{{#red 8}}} || {{{#purple -}}} ||
+||<#ff8c00> 7 Street Mix || {{{#blue -}}} || {{{#orange 7}}} || {{{#red 10}}} || {{{#purple -}}} ||
+||<#c0c0c0> Space Mix || {{{#blue -}}} || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} ||
+||<#ff99ff> Ez2Catch || {{{#blue }}} || {{{#orange }}} || {{{#red }}} || {{{#purple }}} ||
+||<#ffffff> TurnTable || {{{#blue -}}} || {{{#orange 7}}} || {{{#red -}}} || {{{#purple -}}} ||
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/YEZFWEpJeAs" frameborder="0" allowfullscreen></iframe>
+}}}
+HD MIX
+
+AE에서는 리믹스 버전인 'I Do Love You ~Insida Club Remix~'가 추가되었다가 바로 다음 버전인 [[EZ2AC : ENDLESS CIRCULATION]]에서 라이센스 만료로 삭제되었다. EV 1.51에서 부활했다. 
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+=== 7K STANDARD ===
+=== 5K COURSE ===
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+=== TURNTABLE ===
+
+== 가사 ==
+||My mind is a steel trap - what the deal black
+On attack for the loot stack whth the jack
+You got fat selling dat - let me kick the fact
+You reap what you sew so come right and exact
+Now I ain't trying to get yu upset off of that
+I'm simply trying to ask you where your mind is at
+What goes around comes around no escape - in that
+On everything you act there is a react
+Who can make the rhythm complete he be jiggy
+The brother Ri be, from the shores of P.C. to D.C.
+And ridin' with me - the brother Stithy
+He be ridin the track - like the base rides the beat
+
+'''Bridge'''
+Now you said that your love would always be true
+I knew that my love was just for you
+
+It's just another part of you, the simple things you do
+That keep me running back to you - I do love you
+You're a special part of me, you are my fantasy
+That's why I'm so into you, I do love you||
+
+[[각주]]

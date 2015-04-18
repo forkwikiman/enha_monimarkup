@@ -1,0 +1,74 @@
+ * [[동음이의어·다의어]] 문서: [[Hello world]]
+
+ * 이 항목은 [[BEMANI 시리즈]]에 수록된 곡을 설명하고 있습니다.
+
+[[목차]]
+= 개요 =
+[[BEMANI 시리즈]]의 수록곡. 작곡자는 源屋(미나모토야), 보컬은 SOPHY이다.
+
+= [[사운드 볼텍스]] =
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/7F8KPT-tqGU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/7F8KPT-tqGU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+[[사운드 볼텍스 플로어]] '사운드 볼텍스 × DTM 매거진 콜라보레이션 컨테스트'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/27/s187_jk_001_0165_1.jpg?width=150|| http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/27/s187_jk_001_0165_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/27/s187_jk_001_0165_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 10}}} || {{{#ff009f 13}}} ||
+|| 체인 수 || {{{#purple 0446}}} || {{{#orange 0908}}} || {{{#ff009f 1128}}} ||
+|| 일러스트 담당 || {{{#purple ちっひ}}} || {{{#orange ちっひ}}} || {{{#ff009f ちっひ}}} ||
+|| 이펙터 || {{{#purple Antonio Guccini }}} || {{{#orange Antonio Guccini }}} || {{{#ff009f Antonio Guccini }}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 27(2013.4.4)}}} ||
+|| [[BPM]] |||||| 175 ||
+
+{{|
+'''■ 작곡가 코멘트'''
+콜라보레이션 컨테스트! 라는 걸로, 도대체 어느 보컬 분이 불러주실까 하고 많은 상상에 에워싸여 만들어봤습니다!
+오로지 밝고 귀엽고 적극적으로 즐겁게 하이텐션한 걸즈 팝을 목표로 했으며, 부디 플레이 하셔서 즐겨주세요!
+
+미나모토야였습니다!!!
+
+'''■ 보컬리스트 코멘트'''
+처음뵙겠습니다, 평소에는 간호사 일을 하고 있는 SOPHY라고 합니다.
+이번 보컬 부문 채용, 정말로 감사드립니다.
+작곡하신 미나모토야씨에게도 이 자리를 빌려 깊이 감사드립니다.
+이번에 불러본 'Hello world!'는 사볼을 통해 새로운 세계에 뛰어 들 수 있는 제 기분을 마음껏 부딛쳐보고, 저답게 부를 수 있었을까 하고 생각해봅니다.
+
+플레이해주신 여러분들이 행복한 기분이 된다면 몹시 기쁩니다!
+그리고, 오락실에서 PUC 100회 달성할 기세로 마음껏 즐겨주세요!
+
+-당선자 코멘트-
+|}}
+
+{{{#!HTML
+<iframe width="450" height="600" src="//www.youtube.com/embed/yCeRQ4ba6jg" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상
+
+평범한 13렙 곡이지만, 계단식 폭타와 원핸드가 주가 되는 패턴이기에 이쪽에 약한 플레이어들에겐 힘들 수도 있다.~~13렙 핵지뢰곡인[마리사는 엄청난 것을 훔쳐갔습니다|마리사]나 [치르노의 퍼펙트 산수교실|치르노]보다 어렵다는 사람도 있다 [카더라]~~
+= [[유비트 시리즈]] =
+||||||||||<#ffffff><:>jubeat saucer기준||
+||<|2><#ffffff><:>레벨||||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||||<:>2||<:>6||<:>9||
+||<#ffffff><:>노트수||||<:>158||<:>393||<:>591||
+||<#ffffff><:>BPM||||||||<:>170||
+||<#ffffff><:>곡 이력||||||||[[사운드 볼텍스 부스]]에서 [[유비트 소서]]에 2013/7/22 이식 수록||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * Hello '''world!'''[* 굵은 글씨는 칭호 파츠.]  : 모든 보면 클리어
+  * '''第一章'''に書いてある  (제1장에 써 있는) : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/ubVCok_UNPM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/ubVCok_UNPM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+패턴 영상
+
+EXT 패턴은 멜로디를 따라가는 초/후반의 패턴이 어려운 편이다. 9레벨 중에서는 노트수도 매우 적은 편이라 이 부분을 어떻게 치느냐에 따라 스코어링이 결정된다.
+다만 중반은 초/후반에 비하면 확실히 쉬운편. 가사를 그대로 따라간다.

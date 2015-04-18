@@ -1,0 +1,54 @@
+||||||||<tablewidth=100%> '''[[EZ2DJ 2ndTRAX ~It rules once again~]] 관련 정보''' ||
+|| [[EZ2DJ/수록곡 일람|수록곡]] || [[EZ2DJ 2ndTRAX ~It rules once again~/삭제곡|삭제곡]] || [[EZ2DJ 2ndTRAX ~It rules once again~/라디오채널|라디오채널]] || [[EZ2DJ 2ndTRAX ~It rules once again~/히든커맨드|히든커맨드]] || 
+
+[[EZ2DJ 2ndTRAX ~It rules once again~]]의 히든커맨드 목록.
+
+ * 이 항목은 [[EZ2DJ 2nd/히든커맨드]]로도 들어올 수 있다.
+ * 아래의 자료를 참고하여 작성하였다.
+  * [http://web.archive.org/web/20050126074809/http://bb100.nalove.org/ez2dj/2nd/hidden.html]
+  * [https://docs.google.com/spreadsheet/ccc?key=0AguAt1s3MJirdDlIeWlLY0hXcnJGLXB5UU5NR2xjVXc#gid=1]
+
+[[목차]]
+== 범례 ==
+ * 버튼: 1-2-3-4-5-6-7-8-9-0
+ * 이펙터: E1-E2-E3-E4
+ * 페달: P1-P2
+
+== 히든 커맨드 ==
+ * Space Mix
+ 2nd때 처음 등장한 스페이스 믹스. 당시에는 히든 모드였지만, 모드 선택 화면에서 클럽 믹스 아래쪽이 텅 비어있도록 만들어서 대놓고 힌트를 줬기 때문에 누구나 쉽게 커맨드를 유추할 수 있었다.
+ 모드 선택 화면에서 클럽 믹스 아래로 계속 턴테이블을 돌려준다.
+
+== 히든 곡/채널 ==
+ * Street Mix 하드믹스 해금
+ 플레이한 곡의 난이도에 1.5를 더한 값이 노멀 레벨보다 높은 곡들은 다음 스테이지에서 하드 믹스가 출현한다.
+ 예를 들어 3스테이지에서 [[Ztar warZ]] 하드를 플레이하려면 Ztar warZ 노멀이 7이므로 2스테이지에서 난이도 5.5 이상의 곡을 플레이해야 한다.
+
+ * Radio Mix 히든 채널 해금
+ 채널 선택 화면에서 턴테이블을 시계 방향으로 계속 회전하면 아래 13개의 채널이 해금된다.
+  * DJ Lassoft's Underarrest Channel
+  * Never knows best - DJ Ache
+  * DJ Tomato's Groovin' Channel
+  * DJ Sopepos
+  * DJ xxdbxx Club the Bondage
+  * DJ Sting Whirlpool
+  * DJ Kann
+  * DJ ibarad
+  * Airborn
+  * K&S's -Thick as the Bricks
+  * ［EZZ］VJ FE's recommended MIX
+  * DJ Kentauji
+  * DJ Ponglow 
+
+ * Space Mix 3스테이지 곡 공식
+ (1스테이지 곡 번호+2스테이지 곡 번호)/3의 나머지가 0이면 [[Ztar warZ]], 1이면 [[Minus 1 ~Space Mix~]] HD, 2면 [[DIEOXIN]]가 나온다. 물론 2스테이지까지 콤보 게이지를 다 채워야 나온다.
+|| 곡 번호 || 1스테이지 || 2스테이지 ||
+|| 0 || [[Departure]] || [[Red Ocean]] ||
+|| 1 || [[Envy Mask]] || [[Damnation]] ||
+|| 2 || [[Love & Extasy]] || [[Minus 1 ~Space Mix~]] ||
+|| 3 || [[The Future]] || [[Back to Bed]] ||
+|| 4 || [[Do you remember|Do You Remember? (Remix)]] || [[Red Hot]] ||
+|| 5 || [[Hypnotize]] || [[The Rhythm]] ||
+|| 6 || [[Say That U]] || [[Anytime]] ||
+|| 7 || [[Stay|Stay (Radio Edit)]] || [[Showdown]] ||
+|| 8 || [[We Luv Music]] || [[Quake in Kyoto]] ||

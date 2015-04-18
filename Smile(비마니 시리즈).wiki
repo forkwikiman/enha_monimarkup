@@ -1,0 +1,157 @@
+ * 이곳은 [[BEMANI 시리즈]]에 수록된 Smile을 소개하고 있습니다. 다른 항목의 Smile은 [[스마일]]을 참조하여 주시기 바랍니다.
+
+[[목차]]
+
+== wac의 곡 smile ==
+=== [[beatmania IIDX]] ===
+{{{#!html
+<iframe width="420" height="315" src="//www.youtube.com/embed/LnxTBd8Ob58" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/dqM5cPfB7go" frameborder="0" allowfullscreen></iframe>
+}}}
+
+|| 장르명 |||||| ELE POP [[BR]] 엘레 팝 || [[BPM]] |||| 189 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 7}}} || {{{#blue 744}}} || {{{#orange 9}}} || {{{#orange 1107}}} || {{{#red 11}}} || {{{#red 1464}}} ||
+|| 더블 플레이 || {{{#blue 7}}} || {{{#blue 766}}} || {{{#orange 9}}} || {{{#orange 1145}}} || {{{#red 12}}} || {{{#red 1628}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : [wiki:"beatmania IIDX 14 GOLD" 14 GOLD]~
+
+명의는 miru_maki.gjw로, 보컬 miru_maki와 작곡 [[wac]](gjw)으로 구성된 일회성 유닛 명의다. [[BGA]] 담당은 ackermann.
+
+==== 곡 코멘트 ====
+||네네 wac입니다. IIDX도 14th인가요.
+저도 예상 외로 IIDX용으로 곡을 만들기 시작한 후로 10번째 작품이기에 개인적인 기념일이네요.
+그 즈음은 한번 추억이나 만들자고 생각했었는데 결국 긴 이야기가 되었습니다.
+
+그런 기념비적인 IIDX이기에, 이번에는 언제나 보다 힘이 넘치네요.
+이거나 저거나 힘드니까 곡 쓰는거 패스! 라고 세번정도 거절해 봤는데
+민완 사운드 디렉터 DJ Yoshitaka으로부터의 추격은 따돌리지 못했습니다.
+그 녀석은 노린 사냥감을 놓치지 않는 사냥꾼이라고. 조심하도록 아기 고양이들.
+
+그런 DJ Yoshitaka군의 의뢰는, 툭 털어서, murmur twins2, 였습니다. 머머트윈즈2.
+압박감이라든가 대단하니까 그런거 추천하지 않아요, 라든지 팝픈의 디렉션으로 말했는데 나에게 그런 때가 왔어 어쩌지.
+뭐, 만들거지만.
+그리고 최근 두드러지게 밝은 곡이라든가 귀여운 곡이라든가 만들 기분이 아닌데.
+아니, 만들거지만.
+
+그런 이유로 아주 투덜투덜 궁시렁대면서 고민하고 배우고, murmur의 흐름을 이으면서도, 쌍둥이와는 다른 세계관에서 이 smile이 만들어졌습니다.
+미묘하게 정통 속편과는 달라졌달까. 미안해 Yoshitaka군.
+왜 smile이라고 말하면, 이 곡을 만들 즈음, 웃는다, 라는 것이 잘할 수 없게 되는 기분이 됬거든요 저.
+
+여러분은, 어때?
+최근, 웃고 있습니까?
+진심으로 기분 좋게 웃고 잇나요?
+억지 웃음만 짓는게 아니라?
+누군가를 비웃으며 웃는게 아니라?
+웃음에도 여러가지 있지만
+「또 감추었다(웃음)」라든가.
+아니 그건 별로 관계 없나.
+
+웃음이 가지는 의미도 받아들이는 쪽도 사람에 따라 변하기 때문에, 그런 걸 생각하면, 꽤 웃어넘길수 없네, 라고.
+
+제 안에서는 그런 느낌으로 조금 애매모호한 테마로 되어 있는 것을
+ELE BLOCK의 윗사람이 뭔가 좀 좋은 이야기잖아? 같은 포지티브한 가사로 반영해 주셨습니다. 고맙네요.
+
+그리고, 보컬인 miru_maki씨는 ELE BLOCK의 윗사람에게 소개받은 청순한 아가씨로, 아저씨는 매우 두근두근거렸습니다.
+miru_maki씨의 정보이지만 유토리 교육 세대의 사람도「이러니까 유토리 세대는!」라고 하면 꽤 상처 받는 것 같기에 그만두죠.
+
+곡을 만드는 것은 항상 언제나 힘들고 지치지만
+이 정도로 만드는 것이 힘들었던 곡도 오랜만입니다.
+그런 이유로, 이번에 정말로 노력했기에 g가 붙어서 gjw입니다.
+좀더 슈퍼하게 힘냈다면 miru_maki.sgjw이었겠네요.
+
+이번에 smile이 붙은 곡이 많네요. 좋은 일입니다. 모두 웃어라 웃어라.
+웃는다는 것은, 사람을 믿는 것이라고 생각합니다.
+모두가 이 곡을 즐기면서
+큭큭(かぷかぷ) 웃어 준다면 기쁩니다.
+
+Sound / wac
+
+아케이드에 여러분은 처음 뵙겠습니다. 가정용 쪽에서 온 ackermann입니다.
+가정용 Happy Sky의 이식이 일단락되고, 조금 손이 놀고 있을 때에
+뭔가 도울 일 있나요? 라고 물었던 때에 반짝 빛나던 아케이드 팀 분들의 하이에나 같은 눈.
+지금도 가끔 꿈에서 봅니다.
+
+그런 저에게 도착한 곡이, 이 얼마나 깔끔한 팝송!
+이건 보통 VJ식 영상으로 했다가는 분명히 엉망이겠지. 할거면 확실히 PV를 만들자라는 것으로 만든 것이 이 영상입니다.
+그래도 PV라고 해도 실사는 준비할 수 없기에, PC에서 다 만들어 지지 않고, 어~!?
+그런 이유로, 거의 6년 만에 3D CG툴을 가동해서…어, 포고링? 아, 폴리곤? 이거 뿐? 뭐지 3D녀석.
+라고…책상 끝까지 이동했던 마우스를 좀 더 움직였던 때에는 어떻게하면 좋을까 생각하면서, 만들었습니다.
+
+결과, 저의 지금까지의 일을 아는 사람에게서「이런 상쾌한 영상을 만들다니 어떻게 된거야? 감기?」라고까지 불릴 만큼 
+상쾌한 영상이 만들어졌습니다. 올해는 이 노선으로 인기가 있었으면라고 생각합니다.
+
+Movie / ackermann||
+
+== Hommarju의 곡 ==
+attachment:smile_nov.jpg attachment:smile_adv.jpg attachment:smile_exh.jpg
+
+[[BEMANI 시리즈]]의 수록곡. 작곡은 [[Hommarju]], 보컬은 [[미타니 나나]].
+
+자켓에 [[사운드 볼텍스]]의 선남선녀 캐릭터들이 다 모였다. NOV자켓 왼쪽부터 [[레이시스]], 츠마부키 레후토, 츠마부키 라이토, 코우키, 후리츠 히이로, 세키시 소울, 아오사메 레인, 쿠레하, 츠바키, 후쿠류 순서이다. 캐릭터들의 설정은 [[사운드 볼텍스/캐릭터]]를 참조.
+
+=== [[사운드 볼텍스]] ===
+[[사운드 볼텍스 플로어]] '[[사운드 볼텍스 II -인피니트 인펙션-]] 제작결정기념 오리지널곡 컨테스트'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || attachment:smile_nov.jpg?width=150 || attachment:smile_adv.jpg?width=150 || attachment:smile_exh.jpg?width=150 ||
+|| 난이도 || {{{#purple 03}}} || {{{#orange 07}}} || {{{#ff009f 12}}} ||
+|| 체인 수 || {{{#purple 0422}}} || {{{#orange 0584}}} || {{{#ff009f 0918}}} ||
+|| 일러스트 담당 || {{{#purple もとこ}}} || {{{#orange もとこ}}} || {{{#ff009f もとこ}}} ||
+|| 이펙터 || {{{#purple DJ WILDPARTY}}} || {{{#orange DJ WILDPARTY}}} || {{{#ff009f DJ WILDPARTY}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 08(2013.8.23)}}} ||
+|| [[BPM]] |||||| 185 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 01(2013.12.6 ~ 2014.2.6, 2014.6.5 ~ 2014.7.4)
+
+||<#eeeeee>
+SOUND VOLTEX에서 어떻게든 유로비트 곡을 넣고 싶어서 만든 곡!
+
+또한 이 유로비트를 노래할 사람은 이 사람 밖에 없을 것!라는 걸로
+보컬에는 미타니 나나짱을 초대했습니다! 해냈어!
+
+새로운 것에는 콩닥콩닥 하거나 두근두근 하고, 좀 불안하고 처음의 한걸음을 내딛는건 꽤 용기가 필요하지만,
+
+그 앞에 있는 기쁨과 즐거움을
+새로운 SOUND VOLTEX와 함께 모두들 느껴준다면 기뻐!
+
+Hommarju였습니다! (Hommarju)
+
+와아~이★
+
+좋아하는 Hommarju씨의 곡을 불러 행복해~!!!
+
+흥겨운 곡과 용기가 솟아나는 가사로 즐기면서 마음을 담아 불러드렸습니다.
+
+많은 사람들이 들어 줄 수 있으면 기쁩니다!! (미타니 나나)
+
+-당선자 코멘트-
+||
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/8uPXIY9oeyQ?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/8uPXIY9oeyQ?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+=== [[리플렉 비트 시리즈]] ===
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/2hPfTKDOEOQ?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/2hPfTKDOEOQ?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> BPM 값 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 3}}} || {{{#orange 6}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 125}}} || {{{#orange 215}}} || {{{#red 446}}} ||
+|| 수록버전 ||||||||<#81e3ff> [리플렉 비트 콜레트] ||
+
+[[FLOOR INFECTION]] 제6탄의 대상곡으로 레벨 1을 달성시 해금된다.

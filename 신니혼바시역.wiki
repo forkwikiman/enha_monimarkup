@@ -1,0 +1,53 @@
+{{{+1 新日本橋駅 / Shin-Nihombashi Station}}}
+ * [[일본 철도 정보/역 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Shinnihombashi-Sta-1.JPG/600px-Shinnihombashi-Sta-1.JPG
+JR 히가시니혼 신니혼바시역의 한 출입구. (사진 저작자 : [[http://commons.wikimedia.org/wiki/File%3AShinnihombashi-Sta-1.JPG|Nyao148]])
+
+[[목차]]
+== 개요 ==
+일본 [[도쿄]]도 츄오구에 위치한 [[JR 히가시니혼]]의 역이다. [[소부 본선]](소부 쾌속선)상에 위치해 있다. 환승이 가능한 [[도쿄 메트로]] [[긴자선]]과 [[한조몬선]]의 역인 미츠코시마에역도 이 문서에서 함께 설명한다.
+
+양쪽 모두 역명에 복잡한 사연을 띠고 있는데, 원래 건설 당시에 신니혼바시역의 역명은 혼마치역이었다. 당시 국철은 역명에 사기업의 이름이 들어가서는 안 된다는 방침에 따라, 가까운 '신니혼바시'에서 따서 지금의 역명으로 정했다. 미츠코시마에역의 경우, 긴자선의 역을 지은 도쿄 고속철도가 자금난 때문에 건설에 난항이 있었는데, 미츠코시백화점이 자금을 지원해 주었다. 물론 그냥 지원한 건 아니고, 역명에 '미츠코시'를 넣는다는 조건 하에서였다.
+
+역 주변에 미츠코시 본점이 위치하며, 미츠이 본관, 니혼바시 미츠이타워, 일본은행 본점 등 각종 기업과 은행이 있다.
+
+== 역 및 승강장 ==
+=== [[JR 히가시니혼]] 신니혼바시역 ===
+||||||||||<#ffd400> {{{#000000 소부 본선}}} ||<#3ea343><|24>{{{#ffffff 운영주체 : 동일본 여객철도}}}[[br]]{{{#ffffff 개업일 : 1972년 7월 15일}}} ||
+||<width=100px> [wiki:"도쿄역" 도　쿄] 방면[[br]][wiki:"도쿄역" 도　쿄] || {{{+1 ← }}} ||<width=100px> 신니혼바시 || {{{+1 → }}} ||<width=100px> [wiki:"쵸시역" 쵸　시] 방면[[br]][wiki:"바쿠로쵸역" 바쿠로쵸] ||
+||||||||||<#000080> {{{#ffffff 소부 쾌속선·요코스카선}}} ||
+||<width=100px> [wiki:"치바역" 치　바] 방면[[br]][wiki:"바쿠로쵸역" 바쿠로쵸] || {{{+1 ← }}} ||<width=100px> 신니혼바시 || {{{+1 → }}} ||<width=100px> [wiki:"쿠리하마역" 쿠리하마] 방면[[br]][wiki:"도쿄역" 도　쿄] ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/JREast-Shin-nihombashi-station-platform.jpg/600px-JREast-Shin-nihombashi-station-platform.jpg
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Shinnihombashi-Sta-Platform.JPG/550px-Shinnihombashi-Sta-Platform.JPG
+JR 히가시니혼 신니혼바시역의 승강장 모습들. (사진 저작자 : (위)[[http://commons.wikimedia.org/wiki/File%3AJREast-Shin-nihombashi-station-platform.jpg|LERK]], (아래)[[http://commons.wikimedia.org/wiki/File%3AShinnihombashi-Sta-Platform.JPG|Nyao148]])
+
+[[http://www.flickr.com/photos/45442959@N06/4172745513/|(사진) JR 히가시니혼 신니혼바시역의 역명판 (1)]].
+[[http://www.flickr.com/photos/seaki/1407879357/|(사진) JR 히가시니혼 신니혼바시역의 역명판 (2)]].
+
+섬식 승강장이다.
+=== [[도쿄 메트로]] 미츠코시마에역 ===
+||||||||||<#f39700> {{{#ffffff 긴자선}}} ||<#808080><|6>{{{#ffffff 운영주체 : 도쿄 메트로}}}[[br]]{{{#ffffff 개업일 : 1932년 4월 29일}}} ||
+||<width=100px> [wiki:"시부야역" 시부야] 방면[[br]][wiki:"니혼바시역" 니혼바시][[br]](G-11) || {{{+1 ← }}} ||<width=100px> 미츠코시마에[[br]](G-12) || {{{+1 → }}} ||<width=100px> [wiki:"아사쿠사역" 아사쿠사] 방면[[br]][wiki:"칸다역(도쿄)" 칸　다][[br]](G-13) ||
+||||||||||<#9b7cb6> {{{#ffffff 한조몬선}}} || 
+||<width=100px> [wiki:"시부야역" 시부야] 방면[[br]][wiki:"오테마치역(도쿄)" 오테마치][[br]](Z-08) || {{{+1 ← }}} ||<width=100px> 미츠코시마에[[br]](Z-09) || {{{+1 → }}} ||<width=100px> [wiki:"오시아게역" 오시아게] 방면[[br]][wiki:"스이텐구마에역" 스이텐구마에][[br]](Z-10) ||
+
+http://farm8.staticflickr.com/7440/9477076227_e5afd253ba_z.jpg
+도쿄메트로 미츠코시마에역의 출입구 및 주변의 사거리 모습. (사진 저작자 : [[http://www.flickr.com/photos/o_0/9477076227/|*_*]])
+
+http://farm9.staticflickr.com/8350/8271305768_ea8825edea_z.jpg
+도쿄메트로 미츠코시마에역의 대합실 모습. (사진 저작자 : [[http://www.flickr.com/photos/58881263@N02/8271305768/|mila-sera]])
+
+http://farm8.staticflickr.com/7122/7035193291_cda9224016_z.jpg
+긴자선 미츠코시마에역의 역명판. (사진 저작자 : [[http://www.flickr.com/photos/tirol28/7035193291/|tirol28]])
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TokyoMetro-mitsukoshimae-platform-ginza-line.jpg/550px-TokyoMetro-mitsukoshimae-platform-ginza-line.jpg
+긴자선 미츠코시마에역의 승강장 모습. (사진 저작자 : [[http://commons.wikimedia.org/wiki/Image:TokyoMetro-mitsukoshimae-platform-ginza-line.jpg|LERK]])
+
+http://farm1.staticflickr.com/132/351679041_b11c742e62_z.jpg
+http://farm9.staticflickr.com/8502/8304325831_6c4a6ed397_z.jpg
+한조몬선 미츠코시마에역의 승강장 모습들. (사진 저작자 : (위)[[http://www.flickr.com/photos/rainboweyes/351679041/|hiroohi]], (아래)[[http://www.flickr.com/photos/66321334@N00/8304325831/|Sberlazza]])
+
+긴자선, 한조몬선 모두 섬식 승강장이다.
+
+[[각주]]

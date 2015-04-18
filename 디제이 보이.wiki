@@ -1,0 +1,32 @@
+attachment:djboy.png?width=400
+
+{{{#!html
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/fc1moSRbQ5A?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/fc1moSRbQ5A?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
+}}}
+
+[[목차]]
+
+= 개요 =
+[[카네코]] 회사에서 1989년도에 만든 [[아케이드]] [[게임]]
+장르는 [[벨트스크롤 액션게임]]이다.
+영어이름은 DJ BOY
+
+= 상세 =
+== 아케이드 버전의 경우 ==
+어려운 게임이라서 초보자들의 코인을 앗아갔다. 우선 주인공 캐릭터가 적에게 공격을 맞는 실수를 할 경우 잔기를 잃어버릴 예정이라는 내용의 잔기 커서가 깜박깜박거린다. 그리고 주인공 캐릭터가 넘어지면 [[잔기]]을 1목숨을 잃게 되는 시스템을 가지고 있어서 게다가 업주들은 잔기를 3개 정도로 보너스 잔기 설정을 0으로 해놓기 때문에 3번 실수하면 잔기 없음으로 게임이 끝나기 때문에 초보자들은 1스테이지 보스도 클리어 못하고 죽어나갔다. 다만 별 보너스 점수는 예외다.
+
+게임 시작 줄거리는 카세트를 잃어버린 주인공이 카세트를 되찾기 위해서 여행을 떠난다는 줄거리이다.
+참고로 인트로 데모에 나오는 드라큘라[* 아무리 봐도, 일본의 록 밴드 [[세이키마츠]]의 보컬 데몬 코구레 각하다.]의 음성이 다른데 내수판에서는 음흉한 웃음소리를 낸다.
+
+그래도 당시 원코인하는 사람들이 있긴 했었다. 하단 공략 링크를 참조해서 보면 Y축을 좀 비틀어 공격하고, 판정좋은 날아차기나 돌려차기 등 특정 기술들을 사용하면 그나마 좀 깰만은 하지만... 극악한 난이도는 부인할 수 없다. 등장하는 적 캐릭터들은 모두 개성적이고, 1스테이지 전철서 폭탄던지는 여성의 팬티가 보인다든지 2스테이지 보스가 게이 모양새가 좀 난다든지 하는 부분들도 있다.~~[[성 정체성을 깨달은 아이]]의  주인공을 닯았다.~~
+
+ * 원코인 공략동영상 - http://www.youtube.com/watch?v=0u2kmoChkR4
+
+== 콘솔 ==
+http://images4.wikia.nocookie.net/__cb20130402221144/gamegrumps/images/e/e8/DJ_Boy_BA.jpg?width=350 http://i2.listal.com/image/513427/600full-dj-boy-cover.jpg?width=350
+
+== 기타 ==
+
+후속작으로 [[비 랩 보이즈]]라는 작품이 있다. 전작보다 훨씬 극악의 난이도를 자랑해서 오락실에서 동전먹는 괴물로 유명했다.[http://youtu.be/JAWnYNONhGM #] 이상하게도 당시 북미권 트렌드 때문인지 일본에서 만든 게임임에도 불구하고 적들이 죄다 일본 관련한 악당들이 나온다. 쉽게 말하면 일본에서 만든 게임이지만 [[반일]]코드가 곳곳에 숨어있다.
+
+[[각주]]

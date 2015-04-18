@@ -1,0 +1,15 @@
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/7tRJxFzR-4A&hl=ko&fs=1&rel=0&color1=0x234900&color2=0x4e9e00"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7tRJxFzR-4A&hl=ko&fs=1&rel=0&color1=0x234900&color2=0x4e9e00" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>}}}
+
+[[1991년]] 다우정보시스템에서 제작해 [[MSX]]와 삼성겜보이([[세가 마스터 시스템]])으로 발매한 [[아기공룡 둘리]]의 두번째 게임.[* 1988년 [[애플 II]] 용으로 나온 "우주전사 둘리"라는 게임이 있다. [http://www.hardcoregaming101.net/korea/part1/company-aproman.htm 게임 소개]]
+
+횡스크롤 액션 슈팅 게임으로 그냥저냥 할만한 정도이며, 라이프가 거덜나면 그 자리에서 터지지 않고 [[잔기]] 하나가 없어지면서 라이프가 꽉 차는 방식이라 게임 템포가 끊기지 않는다. 즉 잔기=라이프 5개라고 생각하면 된다.
+열쇠 3개를 먹어야 보스한테 갈 수 있으며, 3번째의 열쇠는 고길동과 가위바위보를 해서 이겨야만 획득할 수 있으나 지면 얄짤없이 쫓겨나고 고길동을 다시 만날 때까지 스테이지를 한번 더 루프해야 한다.(…) 총 4스테이지.
+
+참고로 MSX판과 SMS판의 구성이 조금 다르다.
+
+[[1993년]]에는 제작사에서 어떤 듣보잡 회사를 통해 미국 등지에서 북미판을 판매하었는데... 서포트 캐릭터인 도우너 등의 캐릭터가 웬 듣보잡 공룡으로 바뀌어있고, 스테이지 BGM이 [[치타맨]]과 [[그란히스토리아]] 수준의 초음파로 화했으며[* 잘 들어보면 이 노래... 너바나의 명곡 Smells like teen spirit을 교묘하게 편곡했다!! 이외에도 Soup Dragons의 Divine Thing, Spin Doctor의 Two Princes, Ugly Kid Joe의 Everything About You도 있는데 개발진에서 미국 발매 전에 미국 수입사측에 전화를 해서 '요즘 거긴 어떤 곡이 흥하냐'고 물어봤댄다. 그래서 몇 개 녹음해서 테잎을 보내줬더니 이런 짓을 해서 미국으로 보냈다고... 그리고 마지막 20초는... Schubert의 Erlkönig!!(슈베르트의 마왕)], 이것도 모자라 스테이지 클리어 시 나오는 둘리 일당의 그림이 '''너 누구냐 수준을 벗어나서 끔찍하다 못해 꿈에 튀어나오고 [[트라우마]]가 남을 정도의 정신나간 그림으로 변화'''해 있다. 
+[[wiki:"북미판" 북미 수출용이라서]] 바꿨다지만 [[wiki:"양키센스" 이건 좀 심하다]]는 생각이 들 정도다.
+[http://blog.naver.com/idd7?Redirect=Log&logNo=50016628929 문제의 괴룡도 나오므로 안구테러주의]
+
+이 일련의 진상을 모르고 본 게임의 북미판에 트라우마가 생긴 분들에게 애도를...[[http://gomdol1012.egloos.com/4552525 그 최초의 피해자]]

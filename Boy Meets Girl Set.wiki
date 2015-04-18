@@ -1,0 +1,21 @@
+[[목차]]
+== [[DJMAX TECHNIKA]] 시리즈의 세트 ==
+[[DJMAX TECHNIKA 3]]에서 추가된 디스크셋 중 하나
+난이도는 Easy Performance
+=== [[DJMAX TECHNIKA 3]] ===
+==== 수록곡 일람 ====
+||#||Lv||장르||곡명||작곡자||BPM||패턴||비고/출현조건||
+||1||4||Cute Pop||[설레임 Part.2]||[[ND Lee]]||156||NM|| ||
+||2||4||Pop Rock||[[Raise me up]]||[[PlanetBoom]]||130||HD|| ||
+||3||5||Electric Pop||[[Now a NEW Day]]||Sui.Jay||158||NM|| ||
+||4||5||K-Pop||[[STEP]]||[[wiki:"스윗튠" Sweetune]]||123||HD||[[wiki:"카라(아이돌)" 카라]]의 곡을 라이선싱||
+||5||6||K-Pop||[[Pretty Girl]]||[[wiki:"스윗튠" Sweetune]]||134||HD||[[wiki:"카라(아이돌)" 카라]]의 곡을 라이선싱||
+||6||6||K-Pop||[[Mister]]||[[wiki:"스윗튠" Sweetune]]||126||HD||[[wiki:"카라(아이돌)" 카라]]의 곡을 라이선싱||
+||B1||5||Ani Pop||[[Dream Again]]||[[DINY]]||140||HD||선택곡 3곡 번호합 < 11||
+||B2||6||Synth pop rock||[[Break!]]||[[Mr.Funky]]||167||HD ||선택곡 3곡 번호합 ≥ 11||
+==== 설명 ====
+--[[wiki:"Kamilia" 카덕]]이 [[wiki:"카라(아이돌)" 카라]]를 만난다는-- [[wiki:"Boy meets Girl" 남자가 여자를 만난다]]는 세트 제목처럼, 모두 여성보컬의 노래로 채워져있다. --[[wiki:"Idol Set" 아이돌 셋]] 보고있냐?-- 특히나 전작들에서 [[클래지콰이]]가 대부분을 차지했던 [[wiki:"DJMAX TECHNIKA 2/Electro EP" Electro EP Set]]과 비슷하게 이번엔 카라의 곡이 3곡 들어가 있다. 세트 이름과는 다르게 실제로 남녀가 만나는 BGA를 가진 곡은 [[wiki:"설레임 Part.2" 세]] [[wiki:"Raise me up" 곡]] [[wiki:"Mister" 밖에]] 없는게 아이러니.--수컷도 포함한다고 하면 [[wiki:"Dream Again" 이 곡]]도 포함되지만--
+
+사실상 세트의 셀렉트곡간의 난이도가 큰 차이가 없다. 유저에 따라서는 마지막 셀렉트곡인 Mister보다 첫 번째 셀렉트곡인 설레임 Part.2가 더 어렵게 느껴질수도 있다. 보스곡 2곡의 난이도 차이도 별로 없으므로[* 오히려 설레임 part.2와 Now a New Day의 경우 8박 스크롤에 애매한 박자의 노트들이 다수 포진해있는 편], 첫 클리어를 위해서는 오히려 귀에 친숙할 카라의 곡 3곡을 넣고 Break!를 소환하는것이 유리할지도 모른다.
+=== 관련 항목 ===
+ * [[DJMAX TECHNIKA 3/데이터]]

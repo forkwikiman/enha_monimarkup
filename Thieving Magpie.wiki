@@ -1,0 +1,20 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%>  '''영어판 명칭''' || '''Thieving Magpie''' ||<width=223px><|6>http://www.cardkingdom.com/media/images/products/standard/122833_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {2}{U}{U} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 생물 — 조류 ||
+||||<height=160px>비행 (이 생물은 비행이나 대공을 가진 생물에게만 방어될 수 있다.)
+
+Thieving Magpie가 상대에게 전투 피해를 입힐 때마다, 카드 한 장을 뽑는다.
+
+''Other birds collect twigs for their nests. Magpies collect jewels for theirs.''||
+|| '''공격력/방어력''' || 1/3 ||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Urza's Destiny || 언커먼 ||
+|||| 7th~10th Edition || 언커먼 ||
+
+Urza's Destiny에 나온 이후 기본판에까지 진출한 생물. [[Ophidian]]이 날아다니면 이렇게 된다. 다만 4발비에 공격력이 1밖에 안 돼서 원조보다는 부르는 데 부담이 되었지만, 그럭저럭 준수한 생물. 하지만 이후에 [[Ohran Viper]]라든가 [[Shadowmage Infiltrator]]같은 3마나짜리 변종이 나오고 나서... [[지못미]].
+
+Portal Three Kingdoms에 나오는 [[육손]]이 이 카드에서 비행을 Horsemanship으로 대체한 능력이다. ([[매직 더 개더링의 삼국지 장수들]] 참고) ~~그러니까 육손의 전투력은 [[까치]] 수준이다 이 말입니다~~ ~~애초에 까치가 1/1 병사 1명을 가지고 논다는 것부터가~~

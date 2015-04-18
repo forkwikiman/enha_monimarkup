@@ -1,0 +1,48 @@
+[[목차]]
+
+== 개요 ==
+||http://ec2.images-amazon.com/images/I/61uDgMyzvVL._SL500_AA300_.jpg?width=250||http://ec2.images-amazon.com/images/I/61xULCpcX3L._SL500_AA300_.jpg?width=250||http://ec2.images-amazon.com/images/I/61gxbm393NL._SL500_AA300_.jpg?width=250||
+|| 초회한정반 자켓 || 애니메이션반 자켓 || 통상반 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/-5BXWqQMWSo" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+[[일본]]의 [[비주얼계]] [[락]] [[밴드]] [[SuG]]의 3번째 싱글음반이자 그 표제곡. 2010년 9월 1일에 싱글이 발매되었으며, 오리콘 차트 최고순위는 14위.
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/_avm84P0X-U" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[FAIRY TAIL]] 4기 오프닝으로 수록되었다.
+
+== [[유비트 시리즈]]에 수록 ==
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>9||
+||<#ffffff><:>노트수||<:>318||<:>543||<:>869||
+||<#ffffff><:>BPM||||||<:>205||
+||<#ffffff><:>곡 이력||||||[[유비트 플러스]]에서 [[SuG]] pack에 첫 수록[[BR]][[유비트 니트 어펜드]]에 수록[[BR]][[유비트 소서]]에서 2013/12/1 교체[[BR]][[유비트 소서]]에서 2014/2/1 재수록||
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+원곡으로 수록되었다. 게임 안에서 쓰는 자켓은 통상반 자켓.
+
+이후 유비트 코피어스에 FAIRY TAIL 7기 오프닝 Evidence의 커플링곡인 [[방위본뇌]]까지 수록된다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/lp10kIeb19I" frameborder="0" allowfullscreen></iframe>
+}}}
+JUMEAT-Y 플레이어의 [[엑설런트]] 영상
+
+익스트림의 경우 레벨 9 니트 곡들 중에서 [[Shine On Me]] 다음으로 노트 수가 가장 많았다. ([[유비트 코피어스]] 이후에는 [[PRIME TIME]]이 901개로 2위 자리를 가져갔다.) 악랄하기로 알려진 [[元気でやってるのかい%3F|元気でやってるのかい?]]보다 많지만 동시치기 노트 수가 많기 때문으로, 패턴은 익숙해지는데 어렵지 않다. --정확히는 비교대상이 되지 못한다.--
+
+다만 전주 부분이나 후렴구 끝나는 부분에서 좌우로 번갈아 치는 부분은 박자를 헷갈리기 쉬우니 주의하자. 그리고 중간 부분에 돌입하기 전의 패턴인...
+
+□④④□
+□①②②
+⑤①③⑤
+⑤□③⑤
+
+이 부분에는 손이 꼬이지 않도록 조심. 이 외에도 v, H 등의 문자노트도 나오니 참고하자.

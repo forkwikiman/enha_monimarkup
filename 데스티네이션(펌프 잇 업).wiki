@@ -1,0 +1,33 @@
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/AW2WKIoBCQ0?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/AW2WKIoBCQ0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+BGA
+
+|| 최초 수록 버전 |||| [[wiki:"펌프 잇 업/FIESTA" Pump it up 2010 FIESTA]] ||
+|| 아티스트 |||| [[SHK]] ||
+|| BPM |||| 150 ||
+|| 비주얼 |||| 미상 ||
+|| 채널 |||| ORIGINAL TUNES / FIESTA ||
+|||||||||| 모드별 레벨 데이터 ※[wiki:"펌프 잇 업/FIESTA 2" FIESTA 2] 기준 ||
+|| 모드 |||| 레벨 ||
+||<|4> Arcade ||<#ff8c00> Single || 4 / 7 / 11 / 16 / 18 / 19 ||
+||<#009900> Double || 13 / 20 ||
+||<#F77FBE> Single Performance || - ||
+||<#87CEEB> Double Performance || 5 ||
+
+[[wiki:"펌프 잇 업/FIESTA" 펌프 잇 업 FIESTA]]에 수록된 곡으로 펌프 잇 업 시리즈에 처음으로 수록된 [[SHK]]의 곡.
+
+
+{{{#!HTML
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|220741116/20120612030601564232491001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|220741116/20120612030601564232491001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>}}}
+싱글 19 채보 동영상
+
+{{{#!HTML
+<object id='skplayer' name='skplayer' width='480' height='384' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00'><param name='movie' value='http://v.nate.com/v.sk/movie/0|220179739/20120412030401548962091001' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><embed src='http://v.nate.com/v.sk/movie/0|220179739/20120412030401548962091001' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' name='skplayer' width='480' height='384' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' /></object>}}}
+위의 싱글 19보다 어렵다는 평을 듣고 있는 싱글 18 채보 동영상. 비교하면서 보자.
+
+전체적으로 중,저레벨 채보 위주이며 대부분의 채보가 각 레벨에서도 상위권에 속한다. 싱글 11은 많이 어렵지 않고 적당한 난이도의 허리틀기 채보로 초보자들이 꼭 해봐야 할 채보중 하나로 꼽힌다. 싱글 16 역시 허리틀기 채보로 16레벨에선 흔히 볼 수 없는 비교적 높은 BPM의 허리틀기로 16레벨중에서 상위권.
+
+문제는 싱글 18,19 채보로 두 채보 모두 상당한 난이도를 보여주나, 싱글 18 채보는 시작하자마자 16비트 폭타가 나오며 다른 18레벨 채보들과 비교가 안되는 고난이도 허리틀기가 끊임없이 이어지는 곡으로 같은곡 19레벨 채보보다 어렵다는 평을 듣는다. 그렇다고 싱글 19도 결코 쉬운 편은 아니다. 중간중간 섞여있는 32비트 노트와 만만하지 않은 허리틀기로 올콤보 난이도는 상당한 편.
+
+일부 싱글 스텝에서 페이크 부분이 있는데 '''중간에서 스텝들이 화면 아래로 내려가더니 음악이 다시 시작될때 한꺼번에 다시 올라온다!'''(이 부분은 테이크 아웃에서 응용된다.) 실제로 채보를 보면 다시 올라온다기보다는 '''화면 상에 갑자기 순간이동'''하는 채보다. 낚시 구간 직전까지는 평범하게 짜여진 노트처럼 보인다. 그런데 어느 순간 시퀀스 존[* 노트를 맞추는 부분] 바로 앞에서 뜬금없이 노트가 화면 아래로 내려가더니 거북이 삶아먹은 듯한 속도로 압박스럽게 올라오는 진풍경이 펼쳐진다. 이 때의 노트를 보면 맨 윗 노트를 제외하면 모두 ~~[[wiki:"이종범" 종범]]~~ 사라져 있는데, 사라진 노트들이 맨 윗 노트가 시퀀스존에 도달하는 순간 갑자기 화면 상에 갑툭튀하기 때문에 빠른 반응속도가 필요하다. 숙련자들은 이 구간에서 물을 마신다거나 주저앉아서 체력을 보충하는 경우가 많다. ~~그리고 몇몇 잉여들은 이 구간에서 개그를 친다. 팔굽혀펴기를 한다거나~~

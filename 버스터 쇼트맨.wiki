@@ -1,0 +1,24 @@
+[[유희왕]]에 등장하는 카드.
+
+http://www.ka-nabell.com/img/card/card73715586_1.jpg
+||<tablewidth=100%><width=20%> 한글판 명칭 ||||||||'''버스터 쇼트맨'''||
+|| 일어판 명칭 ||||||||'''バスター・ショットマン'''||
+|| 영어판 명칭 ||||||||'''Buster Blaster'''||
+|||||||||| 유니온 몬스터 ||
+|| 레벨 || 속성 || 종족 || 공격력 || 수비력 ||
+|| 1 || [[wiki:"유희왕/속성" 땅]] || [[기계족]] || 0 || 0 ||
+||||||||||1턴에 1번, 자신의 메인 페이즈시에 장착 카드 취급으로서 자신 필드 위의 몬스터에게 장착, 또는 장착을 해제해 앞면 공격 표시로 특수 소환할 수 있다. 이 효과로 장착 카드 취급이 되어 있는 경우에만, 장착 몬스터의 공격력 / 수비력은 500포인트 내린다. 장착 몬스터가 전투에 의해서 상대 몬스터를 파괴했을 경우, 필드 위에 앞면 표시로 존재하는, 파괴한 몬스터와 같은 종족의 몬스터를 모두 파괴한다.(1장의 몬스터가 장착할 수 있는 유니온은 1장까지. 장착 몬스터가 파괴되는 경우, 대신에 이 카드를 파괴한다.)||
+
+[[익스트림 빅토리]]에서 등장한 카드.
+
+다른 몬스터에게 장착 카드 취급으로 장착될수 있는 유니온 몬스터로, 장착되면 장비 몬스터의 공격력은 떨어지지만, 한번 전투로 몬스터를 파괴하면 파괴한 몬스터와 같은 종족의 몬스터를 전부 쓸어버릴수 있는 강력한 효과를 부여한다. 
+
+대부분의 몬스터가 똑같은 종족인 [[블랙 페더]], [[육무중]]덱을 상대할 때 안티카드로 쓰면 좋을 듯. 공격력이 떨어진다는 점 때문에 장착 대상은 주로 공격력이 우수한 상급~최상급 몬스터가 될듯 하다.
+
+{{{#!html
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer74908' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=648CA9555E4CA84785DA04CC676647DAE467&outKey=V126140cd0f8ff0e70d4b0a0d75bddbbc262a5166f8460c2488800a0d75bddbbc262a' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=648CA9555E4CA84785DA04CC676647DAE467&outKey=V126140cd0f8ff0e70d4b0a0d75bddbbc262a5166f8460c2488800a0d75bddbbc262a' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer74908' id='NFPlayer74908' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+
+(합체 장면은 2분 37초 부터 나온다.)
+
+사용자는 [wiki:"브루노(유희왕)"복면의 라이더]로, [wiki:"TG 블레이드 건맨" TG 블레이드 건너]에 장비되어 효과로 [[고스트]]들의 [wiki:"A.O.J" A 봄]들을 전부 날려버렸다. 근데 이때 블레이드 건너에게 장비되는 장면이 묘하게 [wiki:"용자 시리즈" 용자물]을 연상시키는 덕분에 니코동 등에서는 합체 장면에서 '''이거 카드게임 애니메이션 아니였어?'''라는 주석이 달리기도 했다. 

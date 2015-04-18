@@ -1,0 +1,10 @@
+||<-4><tablewidth=80%><#151b54> {{{#ffffff 뉴욕시의 대중교통}}} ||
+||<-4><#fff380> [wiki:"메트로카드" MTA MetroCard] / PATH SmartLink ||
+||<-2> attachment:MTA/NYCMTA_small.png [[뉴욕 지하철]] ||<-2> attachment:MTA/NYCMTA_small.png [[뉴욕 버스]] ||
+|| attachment:MTA/NYCMTA_small.png [[롱아일랜드 철도]] || attachment:MTA/NYCMTA_small.png [[메트로 노스 철도]] || attachment:MTA/NYCMTA_small.png [[스태튼 아일랜드 철도]] || NICE Bus ||
+||<-2> [[PATH|Port Authority Trans-Hudson]] || [[NJ Transit]] || [[에어트레인|AirTrain JFK/Newark]] ||
+||<-2> [[스태튼 아일랜드 페리|NYCDoT 스태튼 아일랜드 페리]] || NY Waterway || SeaStreak ||
+|| '''주요 역''' ||<-3> [[펜실베이니아 역(뉴욕)|펜실베이니아]] / [[그랜드 센트럴 역|그랜드 센트럴]] ||
+|| '''버스 터미널''' ||<-3> 포트 오소리티 버스 터미널 ||
+|| '''공항''' ||<-3> [[존 F. 케네디 국제공항|JFK]] / [[뉴어크 국제공항|뉴어크 리버티]] / [[라과디아 공항|라과디아]][[br]]롱아일랜드 / 스튜어트 / 트렌턴-머서 / 웨스트체스터 카운티 ||
+

@@ -1,0 +1,50 @@
+[[include(틀:SCP)]]
+##주의. 자작 항목은 작성 금지되어있습니다. 자작 항목을 작성하여 적발될 시에는 아이디 회수 및 위키 접속이 차단될 수 있습니다.
+||<tablewidth=70%><tablealign=center><-2><:> '''[[SCP 재단]]''' ||
+|| '''일련번호''' || SCP-1O1 ||
+##SCP 대상과 관련된 문서가 아닌 경우 기록하지 않습니다.
+##SCP 대상의 하위 항목일 경우(예: SCP-OOOO/실험 기록) 해당 SCP 항목으로 가는 링크를 달아주세요.
+|| '''별명''' || 배고픈 가방(Hungry Bag) ||
+##SCP 대상을 직접 서술한 문서를 번역한 것이 아닌 경우에 원문 제목을 넣어주세요.
+|| '''등급''' || 유클리드(Euclid) ||
+##번역할 SCP 대상에 맞는 등급을 지정해주세요.
+|| '''원문''' || [[http://www.scp-wiki.net/scp-101]] ||
+##SCP-OOOO에 해당번호를 적어주세요. SCP 대상이 아니라면 주소를 다 지우고 원문 링크를 넣어주세요.
+
+||<tablewidth=30%><tablealign=right>http://scp-wiki.wdfiles.com/local--files/scp-101/SCP-101.gif ||
+|| '''최초 발견 당시의 SCP-101의 모습''' ||
+##그림이 없으면 표 전체를 지워주시면 됩니다.
+
+[[목차]]
+== 특수 격리 절차 ==
+현재 SCP-101은 19번 기지 O-2 지하층의 표준 방화 처리된 문서 보관함에 저장되어 강화 콘크리트로 된 표준 사이즈 시설의 한 방에 보관되어 있다. 이 시설은 외부적으로는 표준 이중 공기 밀폐처리되어 있으며, 내부적으로는 생물탐지 장치 같은 적절한 안전장치가 준비되어야 한다.
+
+레벨3 이상의 허가된 인원만 SCP-101이 격리된 방에 들어갈 수 있다. 레벨2나 더 낮은 단계의 인원이 SCP-101과 접촉하기 위해서는 레벨3 혹은 더 높은 레벨의 인원으로 동행하거나 혹은 허가가 있어야 한다.
+SCP-101을 격리하기 위한 공기 밀폐 처리는 표준 10분간의 사이클로 처리되며, 처리 중에는 생물학적 재해와 환경 재해 탐지를 위한 스캔이 있다. SCP-101은 0600 - 2000 사이의 시간에만 사용이 허가되어 있다. SCP-101 격리실의 이중 공기 밀폐실 바깥에는 두명의 레벨2 요원이 교차 근무로 항시 관찰하고 있다.
+== 설명 ==
+SCP-101 appears as a satchel or bag of intermittent size, with observations ranging from an opening of fifteen (15) centimeters in diameter, to seventy (70) centimeters in diameter. The depth of the container has varied with no standard mean of equality to the relative diameter.
+
+The primary feature of SCP-101 is what appears to be a semi-humanoid mouth contained within the opening of the bag, with a mean standard of thirty one (31) centimeters of depth into the container, without more than two (2) standard deviations of variance regardless of the apparent external depth of the container. The mouth consists of thirty-two (32) teeth of an off-white hue, all of equal shape and size consisting solely of incisors of approximately ten (10) centimeters in length. It has been observed, albeit not measured with accuracy, that within the mouth there is a tongue of indeterminate length, with observations ranging from fifty (50) centimeters to three point five (3.5) meters.
+
+The mouth appears wet and spongy, however, all attempts at removal of possible fluids have resulted in failure with damage to the instruments and harm to the personnel. The current decision is that SCP-101 may be a part of a larger entity of extra-dimensional origin. SCP-101 is not externally mobile; however, internal movements within the container can effect minor movements of the exterior of the container that consists of SCP-101's covering.
+
+It is understood that due to the nature of the size improbabilities of the container and object within, the object is of extra-dimensional interaction if not origin.
+
+SCP-101 has exhibited polymorphic abilities, as well as a low level of sentience. The photo on file depicts the item as it was discovered in 1979 in a remote area of the Cascade Mountains in the Pacific Northwest of the United States. Found along with SCP-101 was the decayed remains of a human, clad in a weathered black suit, seated upon an also-weathered parachute, missing the right arm up to the joint of the shoulder, which appeared to have bite marks through the remaining bones, assumed to have been inflicted by SCP-101. Speculation as to the identity of this deceased individual has led researchers to the conclusion that this was one D. B. Cooper, remains removed for the purposes of concealing the existence of SCP-101.
+
+SCP-101 has since changed appearance and shape with the apparent end of enticing a subject into reaching within the container. These appearances have ranged from money satchels, to deli boxes, to Krispy Kreme containers, to candy bags, all of which have an external appearance that is indistinguishable from that of the real containers. It has been proposed by Dr. █████████ that SCP-101 is semi-sentient in its attempts to lure subjects in.
+
+At the recommendation of [DATA EXPUNGED], SCP-101 is currently in use as a means of refuse disposal for Site-19. SCP-101 has not shown adverse reaction to having foreign matter introduced to it, including, but not limited to: paper product, sewage, cafeteria refuse, metals, polymers, oils, and other products which are not consumable by any known biological entity.
+
+
+== 부록1 ==
+So far, SCP-101 has not exhibited any abnormal behaviors from the standards observed, nor has SCP-101 emitted any substances, either foreign, extra-dimensional, or abnormal. However, it is the concern of Dr.█████████ that SCP-101 may produce an emission in the future.
+
+== 부록2 ==
+Further examination under the direction of Dr.█████ has determined that SCP-101 is ideal for the disposal of hazardous wastes and by-products of other SCP related projects. Dr. █████████ is noted as being opposed to this measure, however O5-█ has given authorization for the project to continue.
+
+== 해석 ==
+SCP 재단에서 쓰레기통 대용으로 쓰는 SCP, 수정바람
+
+
+[[각주]]

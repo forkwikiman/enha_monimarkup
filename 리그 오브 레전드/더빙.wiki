@@ -1,0 +1,266 @@
+ * 상위 항목 : [[리그 오브 레전드]]
+ * 본 항목은 [[롤 성우진]]으로도 들어올 수 있다.
+
+[[목차]]
+
+== 개요 ==
+[[리그 오브 레전드]]는 한국에서의 뜨거운 반응에 힘입어, 라이엇게임즈가 대한민국의 현지화를 위해 모든 인터페이스와 음성을 한글, 한국어화 하였다. 특히나 100명이 되는 챔피언 모두를 전부 더빙하였고 더빙 퀄리티가 매우 준수하여 처음 하는 사람들에게도 무리없이 다가가게 되었다.
+
+하지만 중복 더빙이 꽤 많고 현재 인터넷에 돌아다니는 추측성 정보 절반 이상이 틀린 정보이므로 이 페이지의 정보도 절대 맹신하지 말 것. 또한 현재까지, 라이엇코리아에서는 [[그라나도 에스파다|공식적으로 한글 더빙을 담당한 성우진 구성원을 밝힌 적이 없으며]] 그나마 신빙성 있는 정보는 대부분 그 챔피언을 직접 연기한 성우의 트위터 및 개인 홈피에서나 발견할 수 있는 수준.
+
+'''해당 문서의 정확성을 위하여 성우가 확인된 챔피언의 경우 관련링크 첨부 바람. 또한 이 항목의 성우정보는 챔피언의 기본 스킨 목소리 정보를 바탕으로 써진다는 점 주의.'''[* 예를 들어 신사 스킨과 기본 스킨이 성우가 다른 초가스는 클래식쪽 성우를 이 항목에 기입한다.]
+
+라이엇 코리아에서는 출연 성우 목록은 일종의 개인정보이기 때문에 외부로 알려줄 수 없다고 한다. 즉 성우 본인이 알리거나, 매스컴 등으로 알려진 경우를 제외하곤 알 수 없다는 것. 특히 제라스나 우르곳처럼 목소리 변조가 심한 챔피언들은 성우가 누구인지 알기 더 힘들기 때문에 성덕들은 답답하다 [[카더라]].
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/EhcETGCfFhs?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/EhcETGCfFhs?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+각 챔피언들의 선택시 대사. ABC순으로 정렬되 있으며, 가장 최근 올라온 음성 모음집으로 [신드라]까지만 나와 있다.[* 비주얼 업데이트나 패치 이후의 일부 챔피언들의 재더빙의 목소리는 포함되어 있지 않다.]
+
+[http://webdornald.megaplug.kr/champions.swf 플래시 파일.] [[리그 오브 레전드/챔피언|챔피언 소개항목]]에도 있는 플래시인데, 모든 캐릭터의 픽대사를 들을 수 있다.
+
+영문판 성우진은 [http://m.youtube.com/watch?v=kO0aB9jiPoc 이] [http://m.youtube.com/watch?v=WgAEJP5TqDQ 영][http://m.youtube.com/watch?v=_HQ1Lf6Crag 상][http://m.youtube.com/watch?v=OrXUOJkJ5DU 들][http://m.youtube.com/watch?v=ti38W3qLXDI 을] 참조
+
+== 챔피언&성우 목록(ㄱ~ㅎ 순서) ==
+  * 나레이션은 [[김상현(성우)|김상현]]이 맡았다.
+||<#Y20K10>　||<#DDDDDD>'''챔피언'''||<#Y20K10>　'''성우'''||
+||<|2><#000000>attachment:/gr325.jpg?width=80||<#Y20K10>　데마시아의 힘 [[가렌]]||<|2><#dcdcdc>　[[엄상현]]||
+||<#Y20K10>　'''Garen''', the Might of Demacia||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/4/40/GalioSquare.png?width=80||<#Y20K10>　파수꾼의 슬픔 [[갈리오]]||<|2><#dcdcdc>　[[서원석]]||
+||<#Y20K10>　'''Galio''', the Sentinel's Sorrow||
+||<|2><#000000>attachment:/Gangplank1.jpg?width=80||<#Y20K10>　바다의 무법자 [[갱플랭크]]||<|2><#dcdcdc>　[[김영찬]]||
+||<#Y20K10>　'''Gangplank''', the Saltwater Scourge||
+||<|2><#000000>attachment:/gr364.jpg?width=80||<#Y20K10>　술취한 난동꾼 [[그라가스]]||<|2><#dcdcdc>　[[이장원]][* [http://www.fomos.kr/board/board.php?mode=read&keyno=132336&db=issue&cate=&page=1&field=&kwrd= 여기]에서 확인 가능. 우디르의 성우 역시 이장원인 것을 확인 할 수 있다.]||
+||<#Y20K10>　'''Gragas''', the Rabblerouser||
+||<|2><#000000>attachment:/gr437.jpg?width=80||<#Y20K10>　무법자 [[그레이브즈(리그 오브 레전드)|그레이브즈]]||<|2><#dcdcdc>　[[이광수(성우)|이광수]]||
+||<#Y20K10>　'''Graves''', the Outlaw||
+||<|2><#000000>http://img836.imageshack.us/img836/4213/namisquare.png?width=80&height=80||파도 소환사 [[나미(리그 오브 레전드)|나미]]||<|2><#dcdcdc>　[[이지영(성우)|이지영]]||
+||<#Y20K10>　'''Nami''', the Tidecaller||
+||<|2><#000000>attachment:/na35.jpg||<#Y20K10>　사막의 관리자 [[나서스]]||<|2><#dcdcdc>　[[김영찬]]||
+||<#Y20K10>　'''Nasus''', the Curator of the Sands||
+||<|2><#000000>attachment:/no658.jpg||<#Y20K10>　심해의 타이탄 [[노틸러스(리그 오브 레전드)|노틸러스]]||<|2><#dcdcdc>　[[최석필]]||
+||<#Y20K10>　'''Nautilus''', the Titan of the Depths||
+||<|2><#000000>attachment:/no5684.jpg||<#Y20K10>　영원한 악몽 [[녹턴(리그 오브 레전드)|녹턴]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Nocturne''', the Eternal Nightmare||
+||<|2><#000000>attachment:/NunuSquare.png||<#Y20K10>　설인 기수 [[누누]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Nunu''', the Yeti Rider||
+||<|2><#000000>attachment:/NidaleeSquare.png||<#Y20K10>　야성의 사냥꾼 [[니달리]]||<|2><#dcdcdc>　[[김묘경]][* http://www.inven.co.kr/board/powerbbs.php?come_idx=2744&l=592 성우 김현심 인터뷰 니달리/베인/카시오페아/카르마 를 맡았던 것을 확인할 수 있다.]||
+||<#Y20K10>　'''Nidalee''', the Bestial Huntress||
+||<|2><#000000>http://images3.wikia.nocookie.net/__cb20120519073338/leagueoflegends/images/5/54/DariusSquare.png?width=80||<#Y20K10>　녹서스의 실력자 [[다리우스(리그 오브 레전드)|다리우스]]||<|2><#dcdcdc>　[[성완경]]||
+||<#Y20K10>　'''Darius''', the Hand of Noxus||
+||<|2><#000000>http://images4.wikia.nocookie.net/__cb57088/leagueoflegends/images/thumb/9/90/DianaSquare.png/100px-2,144,0,141-DianaSquare.png?width=80||<#Y20K10>　차가운 달의 분노 [[다이애나(리그 오브 레전드)|다이애나]]||<|2><#dcdcdc>　[[정유미(성우)|정유미]]||
+||<#Y20K10>　'''Diana''', Scorn of the Moon||
+||<|2><#000000>http://images2.wikia.nocookie.net/__cb20120602063341/leagueoflegends/images/d/d7/DravenSquare.png?width=80||<#Y20K10>　화려한 처형자 [[드레이븐]]||<|2><#dcdcdc>　[[박조호]]||
+||<#Y20K10>　'''Draven''', the Glorious Executioner ||
+||<|2><#000000>attachment:/r235.jpg||<#Y20K10>　방랑 마법사 [[라이즈]]||<|2><#dcdcdc>　[[장민혁]][* [http://www.gamemeca.com/news/news_view.html?seq=10&ymd=20110906&page=1&point_ck=&search_ym=&sort_type=&search_text=&send=&mission_num=&mission_seq= 여기]에서 확인 가능, 이 링크에 따르면 오공은 확정. 또한 [[김광국]]이 잭스/신 짜오도 담당한 것과 김상현이 나레이션을 했다는 것을 확인할 수 있다.]||
+||<#Y20K10>　'''Ryze''', the Rogue Mage||
+||<|2><#000000>attachment:/r426.jpg||<#Y20K10>　중무장 아르마딜로 [[람머스]]||<|2><#dcdcdc>　[[엄상현]][* [http://www.inven.co.kr/webzine/news/?site=dota2&news=56643 여기]에서 확인 가능.]||
+||<#Y20K10>　'''Rammus''', the Armordillo||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/0/01/LuxSquare.png?width=80||<#Y20K10>　광명의 소녀 [[wiki:"럭스(리그 오브 레전드)" 럭스]]||<|2><#dcdcdc>　[[김새해]]||
+||<#Y20K10>　'''Lux''', the Lady of Luminosity||
+||<|2><#000000><#000000>attachment:/r457.jpg||<#Y20K10>　기계 악동 [[wiki:"럼블(리그 오브 레전드)" 럼블]]||<|2><#dcdcdc>　[[박서진]]||
+||<#Y20K10>　'''Rumble''', the Mechanized Menace||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/f/fc/RenektonSquare.png?width=80||<#Y20K10>　사막의 도살자 [[레넥톤]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Renekton''', the Butcher of the Sands||
+||<|2><#000000>attachment:/l547.jpg||<#Y20K10>　여명의 빛 [[wiki:"레오나(리그 오브 레전드)" 레오나]]||<|2><#dcdcdc>　[[김영은]][* [http://guestbook.blog.naver.com/noumena?searchText=ko112431 여기]에서 레오나와 케이틀린을 맡았다는것을 확인 할 수 있다.]||
+||<#Y20K10>　'''Leona''', the Radiant Dawn||
+||<|2><#000000>http://images1.wikia.nocookie.net/__cb20120810054405/leagueoflegends/images/f/f1/RengarSquare.png?width=80||<#Y20K10>　추적하는 사자 [[렝가]]||<|2><#dcdcdc>　[[최석필]]||
+||<#Y20K10>　'''Rengar''', the Pridestalker||
+||<|2><#000000>attachment:/l57.jpg||<#Y20K10>　요정 마법사 [[wiki:"룰루(리그 오브 레전드)" 룰루]]||<|2><#dcdcdc>　[[이명희]][* [http://blog.naver.com/swoonae/155804258 여기]서 확인할 수 있다.]||
+||<#Y20K10>　'''Lulu''', the Fae Sorceress||
+||<|2><#000000>attachment:LucianSquare.jpg?width=80||<#Y20K10>　정화의 사도 [[루시안(리그 오브 레전드)|루시안]]||<|2><#dcdcdc>　[[성완경]]||
+||<#Y20K10>　'''Lucian''', the Purifier||
+||<|2><#000000>attachment:/LeBlancSquare.png||<#Y20K10>　환술사 [wiki:"르블랑(리그 오브 레전드)" 르블랑]||<|2><#dcdcdc>　[[정혜옥]]||
+||<#Y20K10>　'''LeBlanc''', the Deceiver||
+||<|2><#000000>attachment:/LissandraSquare.png||<#Y20K10>　얼음 마녀 [리산드라]||<|2><#dcdcdc>　[wiki:"소연(성우)" 소연]||
+||<#Y20K10>　'''Lissandra''', the Ice Witch||
+||<|2><#000000>attachment:/l659.jpg||<#Y20K10>　눈먼 수도승 [[리 신]]||<|2><#dcdcdc>　[[서윤선]]||
+||<#Y20K10>　'''Lee Sin''', the Blind Monk||
+||<|2><#000000>attachment:/RivenSquare.png?width=80||<#Y20K10>　추방자 [[wiki:"리븐(리그 오브 레전드)" 리븐]]||<|2><#dcdcdc>　[[조현정]]||
+||<#Y20K10>　'''Riven''', the Exile||
+||<|2><#000000>attachment:/MasterYiSquare.png?width=80||<#Y20K10>　우주 검사 [[마스터 이]]||<|2><#dcdcdc>　[[최낙윤]][* 성우 본인의 블로그에서 확인 가능. [http://blog.naver.com/pilst/30129114855 #]]||
+||<#Y20K10>　'''Master Yi''', the Wuju Bladesman||
+||<|2><#000000>attachment:/m798.jpg||<#Y20K10>　뒤틀린 나무 정령 [[마오카이]]||<|2><#dcdcdc>　[[안장혁]]||
+||<#Y20K10>　'''Maokai''', the Twisted Treant||
+||<|2><#000000>attachment:/m498.jpg?width=80||<#Y20K10>　공허의 예언자 [[말자하]]||<|2><#dcdcdc>　[[김영찬]]||
+||<#Y20K10>　'''Malzahar''', Prophet of the Void||
+||<|2><#000000>attachment:/m1894.jpg||<#Y20K10>　거석의 파편 [[말파이트]]||<|2><#dcdcdc>　[[김기흥]]||
+||<#Y20K10>　'''Malphite''', Shard of the Monolith||
+||<|2><#000000>attachment:/MordekaiserSquare.png||<#Y20K10>　금속의 주인 [[모데카이저]]||<|2><#dcdcdc>　[[김영찬]]||
+||<#Y20K10>　'''Mordekaiser''', the Master of Metal||
+||<|2><#000000>http://images4.wikia.nocookie.net/__cb20120107043452/leagueoflegends/images/d/d8/MorganaSquare.png?width=80px||<#Y20K10>　타락한 천사 [wiki:"모르가나(리그 오브 레전드)" 모르가나]||<|2><#dcdcdc>　[[김새해]]||
+||<#Y20K10>　'''Morgana''', Fallen Angel||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/b/b0/DrMundoSquare.png?width=80||<#Y20K10>　자운의 광인 [[문도 박사]]||<|2><#dcdcdc>　[[김태영]]||
+||<#Y20K10>　'''Dr. Mundo''', the Madman of Zaun||
+||<|2><#000000>http://images3.wikia.nocookie.net/__cb20120912044339/leagueoflegends/images/9/9d/MissFortuneSquare.png?width=80px||<#Y20K10>　현상금 사냥꾼 [[wiki:"미스 포츈(리그 오브 레전드)" 미스 포츈]]||<|2><#dcdcdc>　[[정혜원]]||
+||<#Y20K10>　'''Miss Fortune''', the Bounty Hunter||
+||<|2><#000000>http://images4.wikia.nocookie.net/__cb20120407043131/leagueoflegends/images/c/c2/VarusSquare.png?width=80px||응징의 화살 [[wiki:"바루스(리그 오브 레전드)" 바루스]]||<|2><#dcdcdc>　[[표영재]][* 출처 : [^http://blog.naver.com/36635118?Redirect=Log&logNo=191203501 #]]||
+||<#Y20K10>　'''Varus''', the Arrow of Retribution||
+||<|2><#000000>attachment:/ViSquare.png?width=80px||필트오버의 집행자 [wiki:"바이(리그 오브 레전드)" 바이]||<|2><#dcdcdc>　[여민정]||
+||<#Y20K10>　'''Vi''', the Piltover Enforcer||
+||<|2><#000000>attachment:/v46.jpg||<#Y20K10>　악의 작은 지배자 [[베이가]]||<|2><#dcdcdc>　[[최낙윤]]||
+||<#Y20K10>　'''Veigar''', the Tiny Master of Evil||
+||<|2><#000000>attachment:/v68.jpg||<#Y20K10>　어둠 사냥꾼 [[wiki:"베인(리그 오브 레전드)" 베인]]||<|2><#dcdcdc>　[[김묘경]]||
+||<#Y20K10>　'''Vayne''', the Night Hunter||
+||<|2><#000000>http://rigvedawiki.net/r1/wiki.php/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C/%EC%B1%94%ED%94%BC%EC%96%B8?action=download&value=Velk.png||<#Y20K10>　공허의 눈 [[wiki:"벨코즈" 벨코즈]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Vel'Koz''', Eye of the Void||
+||<|2><#000000>attachment:/v235.jpg||<#Y20K10>　울부짖는 천둥 [[볼리베어]]||<|2><#dcdcdc>　[[시영준]]||
+||<#Y20K10>　'''Volibear''', the Thunder's Roar||
+||<|2><#000000>http://img1.wikia.nocookie.net/__cb20140516142014/leagueoflegends/images/b/b6/BraumSquare.png?width=80||<#Y20K10>　프렐요드의 심장 [[브라움]]||<|2><#dcdcdc>　[[이재범]]||
+||<#Y20K10>　'''Braum''', the Heart of the Freljord||
+||<|2><#000000>attachment:/BrandSquare.png||<#Y20K10>　타오르는 복수 [["브랜드(리그 오브 레전드)" 브랜드]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Brand''', the Burning Vengeance||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/7/75/VladimirSquare.png?width=80px||<#Y20K10>　진홍빛 사신 [["블라디미르(리그 오브 레전드)" 블라디미르]]||<|2><#dcdcdc>　[[정재헌]]||
+||<#Y20K10>　'''Vladimir''', the Crimson Reaper||
+||<|2><#000000>attachment:/bl3790.jpg||<#Y20K10>　거대 증기 골렘 [[블리츠크랭크]]||<|2><#dcdcdc>　[[김영찬]]||
+||<#Y20K10>　'''Blitzcrank''', the Great Steam Golem||
+||<|2><#000000>attachment:/v576.jpg||<#Y20K10>　기계화의 전령관 [wiki:"빅토르(리그 오브 레전드)" 빅토르]||<|2><#dcdcdc>　[[wiki:"이광수(성우)" 이광수]]||
+||<#Y20K10>　'''Viktor''', the Machine Herald||
+||<|2><#000000>attachment:/p68267.jpg||<#Y20K10>　강철의 외교관 [[뽀삐]]||<|2><#dcdcdc>　[[이현주]]||
+||<#Y20K10>　'''Poppy''', the Iron Ambassador||
+||<|2><#000000>attachment:/s436.jpg||<#Y20K10>　언데드 학살병기 [[사이온]]||<|2><#dcdcdc>　[[송준석]]||
+||<#Y20K10>　'''Sion''', the Undead Champion||
+||<|2><#000000>attachment:/sh3457.jpg||<#Y20K10>　악마 어릿광대 [[wiki:"샤코(리그 오브 레전드)" 샤코]]||<|2><#dcdcdc>　[[서원석]]||
+||<#Y20K10>　'''Shaco''', the Demon Jester||
+||<|2><#000000>attachment:/SejuaniSquare.png||<#Y20K10>　혹한의 서릿발 [[세주아니]]||<|2><#dcdcdc>　[[정유미]]||
+||<#Y20K10>　'''Sejuani''', the Winter's Wrath||
+||<|2><#000000>attachment:/SonaSquare.png?width=80||<#Y20K10>　현의 명인 [[wiki:"소나(리그 오브 레전드)"소나]]||<|2><#dcdcdc>　[[전영수]]||
+||<#Y20K10>　'''Sona''', the Maven of the Strings||
+||<|2><#000000>http://images4.wikia.nocookie.net/__cb20120927050406/leagueoflegends/images/8/8d/SorakaSquare.png?width=80||<#Y20K10>　별의 아이 [[소라카]]||<|2><#dcdcdc>　[[정혜원]]||
+||<#Y20K10>　'''Soraka''', the starchild||
+||<|2><#000000>attachment:/sh436.jpg||<#Y20K10>　황혼의 눈 [[쉔]]||<|2><#dcdcdc>　[[심정민]]||
+||<#Y20K10>　'''Shen''', the Eye of Twilight||
+||<|2><#000000>attachment:/sh769.jpg||<#Y20K10>　하프 드래곤 [[쉬바나]]||<|2><#dcdcdc>　[[wiki:"이소영(EBS 성우)" 이소영]]||
+||<#Y20K10>　'''Shyvana''', the Half-Dragon||
+||<|2><#000000>attachment:/sw46.jpg||<#Y20K10>　전략의 대가 [wiki:"스웨인(리그 오브 레전드)"스웨인]||<|2><#dcdcdc>　[[장민혁]]||
+||<#Y20K10>　'''Swain''', the Master Tactician||
+||<|2><#000000>attachment:/sk2346.jpg||<#Y20K10>　수정 선봉장 [[스카너]]||<|2><#dcdcdc>　[[안장혁]]||
+||<#Y20K10>　'''Skarner''', the Crystal Vanguard||
+||<|2><#000000>attachment:/SivirSquare.png||<#Y20K10>　전장의 여제 [[시비르]]||<|2><#dcdcdc>　[[이명희]][* 리메이크 이전 성우는[[서유리]]]||
+||<#Y20K10>　'''Sivir''', the Battle Mistress||
+||<|2><#000000>http://images4.wikia.nocookie.net/__cb20120828063440/leagueoflegends/images/6/65/SyndraSquare.png?width=80||<#Y20K10>　어둠의 여제 [[신드라]]||<|2><#dcdcdc>　[[김보영]]||
+||<#Y20K10>　'''Syndra''', the Dark Sovereign||
+||<|2><#000000>attachment:/xi568.jpg||<#Y20K10>　데마시아의 호위무사 [[신 짜오]]||<|2><#dcdcdc>　[[김광국]]||
+||<#Y20K10>　'''Xin'Zhao''', the Seneschal of Demacia||
+||<|2><#000000>attachment:/si42376.jpg||<#Y20K10>　미친 화학자 [[신지드]]||<|2><#dcdcdc>　[[서원석]]||
+||<#Y20K10>　'''Singed''', the Mad Chemist||
+||<|2><#000000>attachment:/35432456.png||<#Y20K10>　지옥의 간수  [[쓰레쉬]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Thresh''', The Chain Warden||
+||<|2><#000000>attachment:/a358.jpg||<#Y20K10>　구미호 [[wiki:"아리(리그 오브 레전드)" 아리]]||<|2><#dcdcdc>　[[이용신]][* 플포에서 확인 가능. [http://lol.playforum.net/news/lolhot/id/1051033 여기] 본인의 SNS에서도 이 사실을 언급했었다.]||
+||<#Y20K10>　'''Ahri''', the Nine-Tailed Fox ||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/2/26/AmumuSquare.png?width=80||<#Y20K10>　슬픈 미라 [[아무무]]||<|2><#dcdcdc>　[[정혜옥]]||
+||<#Y20K10>　'''Amumu''', the Sad Mummy||
+||<|2><#000000><no boarder>attachment:/a357.jpg||<#Y20K10>　그림자의 권 [[아칼리]]||<|2><#dcdcdc>　[[wiki:"소연(성우)"소연]]||
+||<#Y20K10>　'''Akali''', the Fist of Shadow||
+||<|2><#000000>attachment:/AatroxSquare.png?width=80||<#Y20K10>　다르킨의 검  [[아트록스(리그 오브 레전드)|아트록스]]||<|2><#dcdcdc>　[[정재헌]]||
+||<#Y20K10>　'''Aatrox''' the Darkin Blade||
+||<|2><#000000>attachment:/a437.jpg||<#Y20K10>　미노타우로스 [[알리스타]]||<|2><#dcdcdc>　[[김영찬]]||
+||<#Y20K10>　'''Alistar''', the Minotaur||
+||<|2><#000000>attachment:/AnnieSquare.png?width=80||<#Y20K10>　어둠의 아이 [[wiki:"애니(리그 오브 레전드)" 애니]]||<|2><#dcdcdc>　[[wiki:"양정화(성우)" 양정화]]||
+||<#Y20K10>　'''Annie''', the Dark Child||
+||<|2><#000000>attachment:/a325.jpg||<#Y20K10>　얼음불사조 [[애니비아]]||<|2><#dcdcdc>　[[김보영]][* 프렐요드 패치 이전 버전은 [[김상현(성우)|김상현]]]||
+||<#Y20K10>　'''Anivia''', the Cryophoenix||
+||<|2><#000000>http://images2.wikia.nocookie.net/__cb20120519052511/leagueoflegends/images/4/4a/AsheSquare.png?width=80||<#Y20K10>　서리 궁수 [wiki:"애쉬(리그 오브 레전드)" 애쉬]||<|2><#dcdcdc>　[[서유리]]||
+||<#Y20K10>　'''Ashe''', the Frost Archer||
+||<|2><#000000>http://rigvedawiki.net/r1/pds/YasuoSquare.png?width=80||<#Y20K10>　용서받지 못한 자 [wiki:"야스오(리그 오브 레전드)" 야스오]||<|2><#dcdcdc>　[[엄상현]]||
+||<#Y20K10>　'''Yasuo''', the Unforgiven||
+||<|2><#000000>http://images2.wikia.nocookie.net/__cb20121023030133/leagueoflegends/images/9/91/EliseSquare.png?width=80||<#Y20K10>　거미 여왕 [[wiki:"엘리스(리그 오브 레전드)" 엘리스]]||<|2><#dcdcdc>　[[이소영]]||
+||<#Y20K10>　'''Elise''', the Spider Queen||
+||<|2><#000000>attachment:/w436.jpg||<#Y20K10>　원숭이 왕 [[오공]]||<|2><#dcdcdc>　[[장민혁]]||
+||<#Y20K10>　'''Wukong''', the Monkey King||
+||<|2><#000000>attachment:/o547.jpg||<#Y20K10>　시계태엽 소녀 [[wiki:"오리아나(리그 오브 레전드)" 오리아나]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Orianna''', the Lady of Clockwork||
+||<|2><#000000>attachment:/OlafSquare.jpg?width=80||<#Y20K10>　광전사 [[wiki:"올라프(리그 오브 레전드)" 올라프]]||<|2><#dcdcdc>　[[심정민]]||
+||<#Y20K10>　'''Olaf''', the Berserker||
+||<|2><#000000>attachment:/y5468.jpg||<#Y20K10>　무덤지기 [[wiki:"요릭(리그 오브 레전드)" 요릭]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Yorick''', the Gravedigger||
+||<|2><#000000>attachment:/u5487.jpg||<#Y20K10>　야수의 혼 [[우디르]]||<|2><#dcdcdc>　[[이장원]]||
+||<#Y20K10>　'''Udyr''', the Animal Spirit||
+||<|2><#000000>attachment:/u698.jpg||<#Y20K10>　처형인의 긍지 [[우르곳]]||<|2><#dcdcdc>　[[이광수(성우)|이광수]]||
+||<#Y20K10>　'''Urgot''', the Headsman's Pride||
+||<|2><#000000>attachment:/w3252.jpg||<#Y20K10>　피의 사냥꾼 [[워윅]]||<|2><#dcdcdc>　[[심정민]]||
+||<#Y20K10>　'''Warwick''', the Blood Hunter||
+||<|2><#000000>attachment:/i3457.jpg||<#Y20K10>　칼날의 의지 [[이렐리아]]||<|2><#dcdcdc>　[[조현정]]||
+||<#Y20K10>　'''Irelia''', the Will of the Blades||
+||<|2><#000000>attachment:/e315.jpg||<#Y20K10>　학살자 [wiki:"이블린(리그 오브 레전드)" 이블린]||<|2><#dcdcdc>　[[김묘경]]||
+||<#Y20K10>　'''Evelynn''', the Widowmaker||
+||<|2><#000000>attachment:/e3256.jpg||<#Y20K10>　방탕한 탐험가 [[이즈리얼]]||<|2><#dcdcdc>　[[서원석]]||
+||<#Y20K10>　'''Ezreal''', the Prodigal Explorer||
+||<|2><#000000>attachment:/j2436.jpg||<#Y20K10>　데마시아의 귀감 [[자르반 4세]]||<|2><#dcdcdc>　[[김태영]]||
+||<#Y20K10>　'''Jarvan IV''', the Exemplar of Demacia||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/1/1a/ZyraSquare.png?width=80px||<#Y20K10>　가시덩굴의 복수 [[자이라]]||<|2><#dcdcdc>　[[김보영]]||
+||<#Y20K10>　'''Zyra''', the Rise of the Thorn||
+||<|2><#000000>attachment:/ZacSquare.png||<#Y20K10>　비밀 병기 [자크]||<|2><#dcdcdc>　[[박만영]]||
+||<#Y20K10>　'''Zac''', the Secret Weapon||
+||<|2><#000000>attachment:/j58987.jpg||<#Y20K10>　폭풍의 분노 [[잔나]]||<|2><#dcdcdc>　[[서유리]]||
+||<#Y20K10>　'''Janna''', the Storm's Fury||
+||<|2><#000000>http://images4.wikia.nocookie.net/leagueoflegends/images/0/0f/JaxSquare.png?width=80px||<#Y20K10>　무기의 달인 [[잭스(리그 오브 레전드)|잭스]]||<|2><#dcdcdc>　[[김광국]]||
+||<#Y20K10>　'''Jax''', Grandmaster at Arms||
+||<|2><#000000>http://images4.wikia.nocookie.net/__cb20121102025351/leagueoflegends/images/b/bb/ZedSquare.png?width=80px||<Y20K10>그림자의 주인 [wiki:"제드(리그 오브 레전드)" 제드]||<|2><#dcdcdc>　[[최한]]||
+||<#Y20K10>　'''Zed''', the Master of Shadow||
+||<|2><#000000>attachment:/x346.jpg||<#Y20K10>　초월한 마법사 [[wiki:"제라스(리그 오브 레전드)"제라스]]||<|2><#dcdcdc>　[[안장혁]]||
+||<#Y20K10>　'''Xerath''', the Magus Ascendant||
+||<|2><#000000>http://images3.wikia.nocookie.net/__cb20120703050141/leagueoflegends/images/a/aa/JayceSquare.png?width=80||<#Y20K10>　미래의 수호자 [wiki:"제이스(리그 오브 레전드)" 제이스]||<|2><#dcdcdc>　[[남도형]]||
+||<#Y20K10>　'''Jayce''', the Defender of Tomorrow||
+||<|2><#000000>attachment:/z547.jpg?width=80||<#Y20K10>　마법공학 폭파병 [[직스]]||<|2><#dcdcdc>　[[안장혁]]||
+||<#Y20K10>　'''Ziggs''', the Hexplosives Expert||
+||<|2><#000000>attachment:/z4376.jpg||<#Y20K10>　시간의 수호자 [[wiki:"질리언(리그 오브 레전드)" 질리언]]||<|2><#dcdcdc>　[[소정환]]||
+||<#Y20K10>　'''Zilean''', Chronokeeper||
+||<|2><#000000>attachment:/JinxSquare.png?width=80||<#Y20K10>　난폭한 말괄량이  [[wiki:"징크스(리그 오브 레전드)" 징크스]]||<|2><#dcdcdc>　[[한채언]]||
+||<#Y20K10>　'''Jinx''', the loose cannon||
+||<|2><#000000>attachment:/ChoGathSquare.png?width=80||<#Y20K10>　공허의 공포 [[초가스]]||<|2><#dcdcdc>　[[안장혁]]||
+||<#Y20K10>　'''Cho'gath''', the Terror of the Void||
+||<|2><#000000>attachment:/KarmaSquare.png||<#Y20K10>　깨우친 자 [[wiki:"카르마(리그 오브 레전드)" 카르마]]||<|2><#dcdcdc>　[[김묘경]]||
+||<#Y20K10>　'''Karma''', the Enlightened One||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/5/57/KassadinSquare.png?width=80px||<#Y20K10>　공허의 방랑자 [[카사딘]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Kassadin''', the Void Walker||
+||<|2><#000000>attachment:/k570.jpg||<#Y20K10>　죽음을 노래하는 자 [[wiki:"카서스(리그 오브 레전드)" 카서스]]||<|2><#dcdcdc>　[[박성태]]||
+||<#Y20K10>　'''Karthus''', the Deathsinger||
+||<|2><#000000>attachment:/c3125.jpg||<#Y20K10>　독사의 포옹 [[wiki:"카시오페아(리그 오브 레전드)"카시오페아]]||<|2><#dcdcdc>　[[김묘경]]||
+||<#Y20K10>　'''Cassiopeia''', the Serpent’s Embrace||
+||<|2><#000000>attachment:/k4367.png?width=80px||<#Y20K10>　공허의 약탈자 [[카직스]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Kha’Zix''', the Voidreaver||
+||<|2><#000000>attachment:/k5347.jpg||<#Y20K10>　사악한 칼날 [[wiki:"카타리나(리그 오브 레전드)"카타리나]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Katarina''', the Sinister Blade||
+||<|2><#000000>attachment:/k4262.jpg||<#Y20K10>　폭풍의 심장 [[케넨]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Kennen''', the Heart of the Tempest||
+||<|2><#000000>attachment:/c315.jpg||<#Y20K10>　필트오버의 보안관 [[케이틀린]]||<|2><#dcdcdc>　[[김영은]]||
+||<#Y20K10>　'''Caitlyn''', the Sheriff of Piltover||
+||<|2><#000000>attachment:/k2135.jpg||<#Y20K10>　심판자 [wiki:"케일(리그 오브 레전드)" 케일]||<|2><#dcdcdc>　[[이소영]]||
+||<#Y20K10>　'''Kayle''', the Judicator||
+||<|2><#000000>attachment:/k426.jpg||<#Y20K10>　심연의 아귀 [[코그모]]||<|2><#dcdcdc>　[[최낙윤]]||
+||<#Y20K10>　'''Kog'Maw''', the Mouth of the Abyss||
+||<|2><#000000>http://images2.wikia.nocookie.net/leagueoflegends/images/3/3d/CorkiSquare.png?width=80||<#Y20K10>　대담한 폭격수 [[코르키]]||<|2><#dcdcdc>　[[유동균]][* [http://www.gamemeca.com/news/view.php?gid=273623 여기]에서 확인할 수 있다.]||
+||<#Y20K10>　'''Corki''', the Daring Bombardier||
+||<|2><#000000>attachment:/QuinnSquare.png?width=80||<#Y20K10>　데마시아의 날개 [[퀸(리그 오브 레전드)|퀸]]||<|2><#dcdcdc>　[[조현정]]||
+||<#Y20K10>　'''Quinn and Valor''' Demacia's Wings||
+||<|2><#000000>attachment:/t235.jpg||<#Y20K10>　보석 기사 [[타릭]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Taric''', the Gem Knight||
+||<|2><#000000>attachment:/t46.jpg||<#Y20K10>　검의 그림자 [[wiki:"탈론(리그 오브 레전드)" 탈론]]||<|2><#dcdcdc>　[[정재헌]]||
+||<#Y20K10>　'''Talon''', the Blade's Shadow||
+||<|2><#000000>attachment:/TrundleSquare.png||<#Y20K10>　트롤 왕 [[트런들]]||<|2><#dcdcdc>　||
+||<#Y20K10>　'''Trundle''', the  Troll King||
+||<|2><#000000>attachment:/t325.jpg||<#Y20K10>　메글링 여단 사수 [[트리스타나]]||<|2><#dcdcdc>　[[정혜원]]||
+||<#Y20K10>　'''Tristana''', the Megling Gunner||
+||<|2><#000000>http://images2.wikia.nocookie.net/leagueoflegends/images/5/5f/TryndamereSquare.png?width=80||<#Y20K10>　야만전사 왕 [[트린다미어]]||<|2><#dcdcdc>　[[박성태]]||
+||<#Y20K10>　'''Tryndamere''', the Barbarian King||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/1/1f/TwistedFateSquare.png?width=80||<#Y20K10>　카드의 달인 [[트위스티드 페이트]]||<|2><#dcdcdc>　[[최낙윤]]||
+||<#Y20K10>　'''Twisted fate''', the Card Master||
+||<|2><#000000>attachment:/t31553.jpg||<#Y20K10>　역병 쥐 [[wiki:"트위치(리그 오브 레전드)" 트위치]]||<|2><#dcdcdc>　[[박서진]]||
+||<#Y20K10>　'''Twitch''', the Plague Rat||
+||<|2><#000000>http://images.wikia.com/leagueoflegends/images/0/04/TeemoSquare.png?width=80||<#Y20K10>　날쌘 정찰병 [[티모]]||<|2><#dcdcdc>　[[한채언]]||
+||<#Y20K10>　'''Teemo''', the Swift Scout||
+||<|2><#000000>attachment:/p325.jpg||<#Y20K10>　전쟁의 장인 [[wiki:"판테온(리그 오브 레전드)" 판테온]]||<|2><#dcdcdc>　[[박성태]]||
+||<#Y20K10>　'''Pantheon''', the Artisan of War||
+||<|2><#000000>attachment:/f325.jpg||<#Y20K10>　종말의 전조 [[피들스틱]]||<|2><#dcdcdc>　[[최낙윤]]||
+||<#Y20K10>　'''Fiddlesticks''', the Harbinger of Doom||
+||<|2><#000000>attachment:/f3157.jpg?width=80px||<#Y20K10>　결투의 대가 [[wiki:"피오라(리그 오브 레전드)" 피오라]]||<|2><#dcdcdc>　[[여민정]]||
+||<#Y20K10>　'''Fiora''', the Grand Duelist||
+||<|2><#000000>attachment:/f58748.jpg||<#Y20K10>　대양의 말썽꾸러기 [[피즈]]||<|2><#dcdcdc>　[[wiki:"양정화(성우)" 양정화]]||
+||<#Y20K10>　'''Fizz''', the Tidal Trickster||
+||<|2><#000000>attachment:/h351.jpg||<#Y20K10>　위대한 발명가 [[하이머딩거]]||<|2><#dcdcdc>　[[김광국]]||
+||<#Y20K10>　'''Heimerdinger''', the Revered Inventor||
+||<|2><#000000>http://images1.wikia.nocookie.net/__cb20120407044204/leagueoflegends/images/4/4c/HecarimSquare.png?width=80px||전쟁의 전조 [[헤카림]]||<|2><#dcdcdc>　[[박만영]]||
+||<#Y20K10>　'''Hecarim''', the Shadow of War||
+
+[[각주]]

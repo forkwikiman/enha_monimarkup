@@ -1,0 +1,220 @@
+ * 상위 항목: [[번역]]
+ * 참조 항목: [[발번역]]
+
+[[목차]]
+
+== 개요 ==
+원문의 느낌, 어감을 더 자극적으로(초월해서) 바꿨다고 평가받는 [[번역]].
+
+크게 두 가지로 나뉘는데, 하나는 의미가 원문에서 벗어났지만 결과물의 어감이 강렬해서 임팩트가 큰 경우이고 다른 하나는 뜻 자체는 원문과 똑같지만 단어선정, 표현 등이 매우 적절하여 원판보다도 직설적이고 강렬해지는 경우이다.[* '''의미'''가 다르더라도 '''의도'''는 같은 경우도 포함. 주로 위트있는 문구나 해당 국가의 문화적 이해가 필요한 유머가 포함된 것을 번역하는 국가의 문화에 맞는 문장으로 대체하는 경우가 여기에 포함된다.] 이 중 전자는 [[애드리브]]에 가까우므로 엄밀히 말하면 잘 된 번역이라기보단 [[오역]]의 범주에 들어가지만 후자의 경우는 상당히 긍정적인 평을 받는 번역이 된다.
+
+~~일부 유명한 초월번역들은 [[검열]]을 피하기 위해 돌려서 표현한게 뭔가 말할 수 없을 정도로 적절해서 유명해지기도 한다.~~[* 이런건 엄밀히는 그 번역이 화제가 되는 거지 초월번역이라 보긴 힘들다. 위에도 있듯 오역 그것도 의도적인 오역의 범주에 들어가니까.] ~~등짝 등짝을 보자~~
+
+이런 초월번역이 발생하는 근본적인 이유는 각 언어와 표현이 해당 지역의 문화에 밀접한 연관을 가지고 있고 각 언어의 특징적인 단어들이 다른 언어의 단어와 완벽하게 1:1 대응관계를 가지고 있지 않는데 현실에서 사용할 때 아무리 상황에 한정을 짓더라도 단어의 의미가 아주 좁게 결정되진 않기 때문이다. 게다가 특정 언어에만 존재하고 다른 언어에는 존재하지 않는 단어도 있다. 그렇기에 이러한 단어를 현지화 하기 위해서는 번역자의 센스가 가미되어 적절하게 변화시킬 필요가 생기고 그것이 성공하면 초월번역이 되는 것이다.
+
+== [[리그베다 위키]]에서 독립 항목을 가진 예 ==
+위키에서 독립 항목으로 작성된 초월번역 내지 미묘한 의역으로는 다음 항목이 있다. 가나다순이며 항목화되지 않은 경우는 난립 방지를 위해 예시를 들지 말 것.
+
+=== 대사 ===
+ * '''[[wiki:"햄릿" 죽느냐 사느냐 그것이 문제로다]]'''
+ 아마도 [대한민국]에서 가장 유명한 초월번역. 원문은 "To be, or not to be, that is the question". 일단 죽느냐 사느냐의 어순이 뒤바뀌어 있고, 원문의 to be는 함축적인 한국어로 옮기기에 참 애로가 꽃피는 부분이기도 하다.
+ * '''[[wiki:"스칼렛 오하라" 내일은 내일의 태양이 뜰거야]]'''
+ ~~두 번째로 유명한~~ 대단한 초월번역. 원문은 "Tomorrow is another day." '희망찬 내일'을 표현하기 위해 원문에도 없는 태양을 집어넣은 걸로 보인다. "오늘만 날인 건 아니잖아." 혹은 "내일은 오늘보다 나을 거야." 와 같이 번역할 수 있다.
+ * '''[[wiki:"카사블랑카" 당신의 눈동자에 건배]]'''
+ ~~세 번째로 유명한~~ 대단한 초월번역. 원문은 "Here's looking at you, kid." 해당 상황은 [[히로인]]인 일자가 떠나려 하지 않자 릭이 떠나게끔 격려하는 장면이다. 적절한 해석은 해당 항목에 적힌 것처럼 "이렇게 지켜보고 있는걸."이 적당하다. 참고로 이 대사는 작중에서 두 번 나온다.
+ * ~~[[wiki:"간다#s-3" 가... 가버렷!]]~~-~~네 번째로 유명한 초월번역~~
+ * '''[wiki:"앨런 아이버슨" 농구는 신장으로 하는 것이 아니라, 심장으로 하는 것이다]'''
+ ~~루저의 희망~~ ~~하지만 아이버슨은 183 위너~~  원문은 "Everybody was saying we couldn't win because of our size. But it's not about the size on paper, it's about the size of your heart."로 직역에 가깝게 번역하면 "다들 우리가 작아서 이길 수 없었다고들 하죠. 하지만 중요한건 서류상의 신장이 아니라 심장(마음)의 크기입니다."라는 뜻이다. 하지만 신장과 심장이라는~~[wiki:"콩팥"이 신장]이랑 착각하면 곤란하다~~ [[언어유희]]를 이용한 덕분에 임팩트 넘치는 문장으로 탈바꿈하였다.
+ * '''[wiki:"조지 버나드 쇼" 우물쭈물하다가 내 이럴 줄 알았지]'''
+ 조지 버나드 쇼의 위트있는 묘비명으로 잘 알려진 문장. 행동력을 강조하는 상황에서 흔히 인용되지만 실제론 "오역"으로 인한 초월번역이라 보는 것이 타당하다. 원문은 "I knew if I stayed around long enough, something like this would happen." 이며, 올바른 해석은 "오래 살다보면 내 이런 일(죽음)이 생길 줄 알았지." 라고 해야한다. 'stayed around long enough'를 '우물쭈물하다'라고 오역을 했지만 결과적으로 원문에는 본래 없던 교훈적인 의미가 깃들면서 기가 막힌 문장이 됐다.  [* http://yangjaetic.egloos.com/3222333]
+
+ * [[나는 그것만을 위해 존재합니다]]
+ * [[난 살아 있다구, 이 니기미 씨부랄것들아!]]
+ * [[티리엘#s-4|누가 나를 심판하는가!]][* 원문은 평범하게 "You cannot judge me(날 심판할 순 없다)!"이나 문장을 적절하게 다듬어 임팩트가 굉장히 강해졌다.]
+ * [[등짝을 보자]]
+ * [[무슨 마약하시길래 이런생각을 했어요]]
+ * [[뿅가죽네]]
+ * [[신파극은 끝이다]]
+ * [[씁 어쩔 수 없지]]
+ * [[아니, 좋지 않은가]]
+ * [[아주 좆되는거야]]
+ * ~~[[왈도체]]~~
+ * [[애니메이션 캐릭터에 꼴린다면 정신병원에 가보세요]]
+ * [[영웅은 공부 따원 안 한다네]]
+ * [[으하하, 굿바이, 아듀, 사요나라다!!]]
+ * [[이 지옥 같은 행성]]
+ * [[자비롭게 죽여주마]]
+ * [[존나좋군?]]
+ * [[좋은 XX는 죽은 XX]]
+ * [[충격과 공포다 그지 깽깽이들아]]
+ * [[크고 아름다운]]
+ * [[타우렌 해병]]의 거의 모든 대사들
+ * ~~[[트위터는 인생의 낭비]]~~
+ * [[현실은 시궁창]]
+ * [[희생된 거다]]
+ * ~~[[아서스 메네실#s-2.1.1|누구, 저요??]]~~
+ * [[왕위를 계승하는 중입니다.]]
+
+=== 표제 ===
+ * [[소년들은 무엇을 하고 있을까|10th Dimention Boys]]
+ * [[19곰 테드]][* 비슷한 시기 개봉한 테드라는 애니와 헷갈리지 않도록 19금을 19곰으로 바꿔넣은뒤 국내개봉. 제목이 영화 내용을 제대로 간추렸다는 평을 듣는다.]
+ * [40살까지 못해본 남자][* 본래 제목은 40살까지 총각인데 한국에서는 좀 더 직설적으로 영화 제목을 바꿔서 본래 영어 제목보다도 와닿는다. 영화 내용은 겉으로는 성적 내용을 담은 코미디지만 40살 남자의 인격적 성장을 담은 이야기.]
+ * [[가을의 전설]]
+ * [[강철군화]]
+ * [[남자는 불끈불끈]]
+ * [[내일을 향해 쏴라]]
+ * '''[wiki:"레 미제라블" 너 참 불쌍타]''' - 육당 최남선 선생 회심의 명번역(?)
+ * [[드래곤 드림]]
+ * [[무기여 잘있거라]]
+ * [박물관이 살아있다] - 원제는 박물관에서의 밤(Night at the Museum)이다.
+ * [[벤자민 버튼의 시간은 거꾸로 간다]]
+ * [[사랑과 영혼]]
+ * [[노르웨이의 숲(소설)|상실의 시대]] - 원제는 노르웨이의 숲(ノルウェイの森). 책 제목을 바꾸고 대히트했다.
+ * [[브라질(영화)|여인의 음모]] - 원제는 브라질(Brazil). ~~브라질과는 상관없고, 여인의 음모도 나오지 않는 영화다~~
+ * [[우리에게 내일은 없다]]
+ * [[월터의 상상은 현실이 된다]]
+ * [[진격(군가)]]
+ * [[진정남 나폴레옹]]
+ * [[하야미 라센진의 육해공 대작전]]
+ * [[허공에의 질주]] - 원제는 Running on Empty
+ * [[X사건 미녀 탐정]]
+ * [[asdf]][* [[ㅁㄴㅇㄹ]] 참조]
+ * [[it's over 9000]]
+ * [[아저씨(영화)|The Man From Nowhere]][* 난데없이 나타난 사나이, 온 곳도 갈 곳도 없는 사나이라는 두 가지 뜻으로 해석할 수 있는 제목. [[차태식]]과 아주 잘 어울리는 제목이다. 사실 미국에 수출되는 동양권 영화들은 대다수가 원제와는 전혀 다른 제목으로 수정되곤 하는데 그 중에 초월번역이 상당히 많다. 예를 들어 [[센과 치히로의 행방불명]]은 '유괴당하다'라는 뜻의 Spirited Away로 초월번역되었다.]
+
+ * [[적과의 동침]]
+
+=== 명칭 ===
+ * [[CNo.102 다크 라이트닝 노블 데몬]][* 원래는 광천사라 쓰고 [[홀리 라이트닝]]이라 읽어야하는데 이 카드는 광'''타'''천사라 쓰고 언홀리 라이트닝이라고 잀는지라 관련 서포트를 받지 못하기 때문에 국내 이름 번역을 달리 해야했는데, 언홀리-라이트닝 등의 예상을 뛰어넘는 간지나는 이름으로 호평을 받고 있다.(…)]
+ * [엑시즈 소환|Xyz][* 북미판 한정]
+ * '''[[100만 볼트]]'''
+  * [[1000만 볼트]]
+ * ~~[[가오가이거]] - [[용자왕 가오가이가]]~~
+ * [wiki:"겟타 토마호크" 겟타 돌도끼]
+ * [[키쿄우(이누야샤)|금강]]
+ * [[코시가야 코마리|꼬마짱]] - [[논논비요리]]([[애니플러스]])
+ * [[난 누군가 또 여긴 어딘가]]
+ * [["오토코노코"낭자애]] - [[아웃브레이크 컴퍼니]]([[애니플러스]])
+ * [[다크시니]]
+ * [[wiki:"네비" 닭둘기]]
+ * [[대격변]]
+ * [[독타맨]]
+ * ~~'''[[등짝을 보자]] - [[베르세르크]]([[학산문화사]])'''~~
+ * [[떡]] - 한국어 번역 [[성경]][* 사실 원문은 빵이지만 포르투갈어->중국어 과정에서 빵(pao)이 떡을 뜻하는 병(餠,pao)로 바뀌었고 이게 조선으로 넘어오면서 그대로 떡이 되어버렸다. 기독교 전래 초기의 조선에는 빵이라는 게 잘 알려져있지 않았기 때문에 나름대로 현지화 및 초월번역으로 볼 수 있다.]
+ * [[똘똘이]] - [[동쪽의 에덴]]([[투니버스]])
+ * [[불곰(스타크래프트 2)|불곰]]
+ * [[빛나래]]
+ * [[뽀록나]]
+ * [[살생님]]
+ * '''[[서리한]]'''
+ * [[수레기]]
+ * [[예리도]]
+ * ~~'''[[용의 콧물]] - [[디지몬 어드벤처]]([[KBS]])'''~~
+ * [[우주방어]]
+ * [[원소술사]][* 원문은 Invoker로 무언가를 '불러내는' 사람이라는 뜻이다. 여기서 불러낸다는 것은 원소의 힘을 말하는 것으로, 여러가지 원소를 조합하는 캐릭터 특성을 잘 살린 번역.]
+ * [wiki:"넵튠(초차원게임 넵튠)"잉여신][* [[신차원게임 넵튠 V]]에서 나온 대사로, 원판에서는 여신을 뜻하는 めがみ(메가미)와 형편없음을 뜻하는 だめ와 결합시켜서 ダメガイ(다메가미)라고 하였다. 이를 [[CFK]]에서 '''정식으로''' 번역한 것이 [[잉여]]와 [[여신]]을 결합한 '''잉여신'''이다.]
+ * [wiki:"힘의 반지" 절대반지]
+ * [[니와 다이스케|조이 플뤼겔]][* 작중 등장하는 캐릭터인 위즈는 말이 서툴어서 '다이스케'를 '다이스키(좋아)'라고 한 적이 있는데, 한국판에서는 다이스케를 조이로 개명하여 '조이 - 조아'로 발음하게 만들었다.]
+ * [[지구타이거]]
+ * [[잔약신부]]
+ * [[즐겨찾기]]
+ * [[조혈모세포 기증|조혈모세포]][* 의학용어로서 초월번역의 범주에 부합하는 보기드문 사례. 영어로는 hematopoietic stem cells...라는 [[외계어]]가 [[중국어]]나 [[일본어]]에서는 직역에 가까운 한자어 번역을 했지만 한국어로는 어떤 ~~시대를 앞서간~~ [[의사양반]]이 조혈'''母'''세포(뜻풀이를 하자면 '''피를 만드는 어머니 세포''')라는 말을 썼고, 그 결과 의학에 무지한 일반인들도 한자어 풀이만으로도 이 세포의 역할에 대해 보다 쉽게 이해할 수 있게 되었다. ]
+ * --[[초월체]]--
+ * [[하늘감개 새끼용]]
+ * [[혼종]]
+=== 기타 ===
+ * --[[메가톤맨]] [메가톤맨/짤방모음|'''전체''']--
+ * [[금정]]의 번역물 상당수. 자세한 것은 해당 항목 참조.
+ * [[왕랑전]]의 국내 해적판 - 원판에서 일본을 침략하는 부분에서 그 이유가 '''일본으로 돌아가기 위해서'''인데, 국내판에서는 '''[wiki:"일본을 공격한다" 일본을 멸망시키기 위해서]'''라고 바꿨다... --애국 초월번역+한국인이 좋아할 만한 그럴싸한 스토리 초월번역--
+ * ~~[쓸데없이 고퀄리티|쓸모없이 수준 높은] [[자막테러]]~~
+ * [[코만도(영화)]] - 일본어 더빙판(아사히 TV 방영)이 점점 재방영되면서 원판과는 다른 대사가 주목을 받으며, 인터넷 상에서 높은 인기를 끌었다. 지금도 재방송때마다 트위터로 실황을 할 정도로 인기가 그치지 않으며, 일본 20세기 폭스에서 삭제된 부분을 추가더빙한 [http://video.foxjapan.com/library/fukikae_series/commando/ 일본어더빙 완전판]이 발매되었다. [[http://video.foxjapan.com/library/fukikae/interview14.html 번역가의 인터뷰]]에 의하면 "더빙판은 최대한 재밌게 해보자"는 연출가의 의도로 너무 내용과 동떨어지지 않게, 일본인이 듣기 재밌는 대사를 써달라고 해서 나왔다고 한다. (당시에는 원판에 충실한 번역을 요구하지 않은것도 한 몫 했다.) [http://toppoi.blog54.fc2.com/blog-entry-620.html 원판과 번역의 비교.]
+ * --'''[[동무 려권내라우]]'''--[* 대한민국의 [표준어]가 아닌 [문화어]로 번역하였다. 게다가 항목을 살펴보면 알겠지만 게임을 완전히 뜯어고쳐 [[DLC]] 수준의 정신나간 번역을 선보였다. --아니 이쯤되면 아예 현지화를 넘어 게임을 새로 만든게 아닌가. 아무리 봐도 번역의 수준이 아니다...--]
+
+==== '할멈과 도야지' ====
+[[영어]] 시를 운율과 줄거리까지 모두 살려 번역한 명번역이다. 1937년에 국내에 처음 소개된듯하다.
+
+ * 번역본 '할멈과 도야지'
+> 할멈이 집 안 치다 돈 한 푼을 얻어서, 장에 가서 도야지를 사 가지고 오는데,
+> 문 앞까지 다 와서는 문지방을 안 넘어, 할멈 혼자 쩔쩔매다 강아지를 만났네.
+> 
+> "강아지야, 강아지야, 도야지를 물어라."
+> 강아지가 할멈 말을 들은 체도 아니 해, 얼마를 걸어가다 지팡이를 만났네.
+> "지팡이야, 지팡이야, 강아지를 때려 줘라."
+> 지팡이가 할멈 말을 들은 체도 아니 해, 다시 또 걸어가다 모닥불을 만났네.
+> "모닥불아, 모닥불아, 지팡이를 태워라."
+> 모닥불이 할멈 말을 들은 체도 아니 해, 다시 또 걸어가다 도랑물을 만났네.
+> "도랑물아, 도랑물아, 모닥불을 꺼 버려라."
+> 도랑물이 할멈 말을 들은 체도 아니 해, 다시 또 걸어가다 송아지를 만났네.
+> "송아지야, 송아지야, 도랑물을 들이켜라."
+> 송아지가 할멈 말을 들은 체도 아니 해, 다시 또 걸어가다 영감님을 만났네.
+> "소 잡는 영감님 송아지를 잡으슈."
+> 영감님이 할멈 말을 들은 체도 아니 해, 다시 또 걸어가다 동아줄을 만났네.
+> "동아줄아, 동아줄아, 영감님을 묶어라."
+> 동아줄이 할멈 말을 들은 체도 아니 해, 다시 또 걸어가다 새앙쥐를 만났네.
+> "새앙쥐야, 새앙쥐야. 동아줄을 쏠아라"
+> 새앙쥐가 할멈 말을 들은 체도 아니 해, 다시 또 걸어가다 고양이를 만났네.
+> "고양이야, 고양이야. 새앙쥐를 잡아 먹어."
+>
+> 고양이가 돌아서며 할멈더러 하는 말이, "쇠젖을 짜다 주면 새앙쥐를 잡아 먹지."
+> 그 길로 할멈은 암소한테 달려가서, "암소야, 암소야 네 젖 한 통 다고."
+> 암소가 돌아서며 할멈더러 하는 말이, "짚 한 단만 갖다 주면 이 젖 한 통 드리지요."
+> 그 길로 할멈은 농부한테 달려가서, "여보 여보 김첨지, 짚 한 단만 인내슈."[* 원문에는 농부 이야기가 없다.]
+> 김첨지가 돌아서며 할멈더러 하는 말이, "물 한 통만 길어 주면 짚 한 단을 드리지요."
+> 그 길로 할멈은 개천으로 달려가서 구멍 뚫린 물통에다 자갈돌을 깔고서
+> 물 한 통을 길어다가 김첨지를 주었더니, "수고했소, 수고했소. 옜소, 옜소, 짚 한 단."
+> 암소가 넓죽넓죽 짚 한 단을 다 먹고, "잘 먹었소, 잘 먹었소, 인제 젖을 짜 가시오."
+> 할멈이 젖을 짜서 그릇에다 담아서, "옜다 옜다 고양이야, 식기 전에 먹어라."
+> 고양이가 날름날름 맛나게 다 먹고,
+> 
+> 앙! 하고 새앙쥐를 잡으려고 덤볐네.
+> 새앙쥐가 동아줄을 쏠려고 덤볐네.
+> 동아줄이 영감님을 묶으려고 덤볐네.
+> 영감님이 송아지를 잡으려고 덤볐네.
+> 송아지가 도랑물을 켜려고 덤볐네.
+> 도랑물이 모닥불을 끄려고 덤볐네.
+> 모닥불이 지팡이를 태우려고 덤볐네.
+> 지팡이가 강아지를 때리려고 덤볐네.
+> 강아지가 도야지를 물려고 덤볐네.
+> 도야지가 문지방을 껑충 뛰어넘었네.
+> 할멈은 들어가서 다리 뻗고 잘 잤네.
+> 
+
+ * 원문 ' The Old Woman and Her Pig' - [[마더 구스]]
+> An old woman was sweeping her house, and she found a little crooked sixpence. “What,” said she, “shall I do with this little sixpence? I will go to market, and buy a little pig.”
+>
+> As she was coming home, she came to a stile: but the piggy wouldn’t go over the stile.
+>
+> She went a little further, and she met a dog. So she said to the dog: “Dog! bite pig; piggy won’t go over the stile; and I shan’t get home to-night.” But the dog wouldn’t.
+>
+> She went a little further, and she met a stick. So she said: “Stick! stick! beat dog! dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the stick wouldn’t.
+>
+> She went a little further, and she met a fire. So she said: “Fire! fire! burn stick; stick won’t beat dog; dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the fire wouldn’t.
+>
+> She went a little further, and she met some water. So she said: “Water, water! quench fire; fire won’t burn stick; stick won’t beat dog; dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the water wouldn’t.
+>
+> She went a little further, and she met an ox. So she said: “Ox! ox! drink water; water won’t quench fire; fire won’t burn stick; stick won’t beat dog; dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the ox wouldn’t.
+>
+> She went a little further, and she met a butcher. So she said: “Butcher! butcher! kill ox; ox won’t drink water; water won’t quench fire; fire won’t burn stick; stick won’t beat dog; dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the butcher wouldn’t.
+>
+> She went a little further, and she met a rope. So she said: “Rope! rope! hang butcher; butcher won’t kill ox; ox won’t drink water; water won’t quench fire; fire won’t burn stick; stick won’t beat dog; dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the rope wouldn’t.
+>
+> She went a little further, and she met a rat. So she said: “Rat! rat! gnaw rope; rope won’t hang butcher; butcher won’t kill ox; ox won’t drink water; water won’t quench fire; fire won’t burn stick; stick won’t beat dog; dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the rat wouldn’t.
+>
+> She went a little further, and she met a cat. So she said: “Cat! cat! kill rat; rat won’t gnaw rope; rope won’t hang butcher; butcher won’t kill ox; ox won’t drink water; water won’t quench fire; fire won’t burn stick; stick won’t beat dog; dog won’t bite pig; piggy won’t get over the stile; and I shan’t get home to-night.” But the cat said to her, “If you will go to yonder cow, and fetch me a saucer of milk, I will kill the rat.” So away went the old woman to the cow.
+>
+> But the cow said to her: “If you will go to yonder hay-stack, and fetch me a handful of hay, I’ll give you the milk.” So away went the old woman to the haystack and she brought the hay to the cow.
+>
+> As soon as the cow had eaten the hay, she gave the old woman the milk; and away she went with it in a saucer to the cat.
+>
+> As soon as the cat had lapped up the milk, the cat began to kill the rat; the rat began to gnaw the rope; the rope began to hang the butcher; the butcher began to kill the ox; the ox began to drink the water; the water began to quench the fire; the fire began to burn the stick; the stick began to beat the dog; the dog began to bite the pig; the little pig in a fright jumped over the stile, and so the old woman got home that night.
+
+== 기준의 모호함 ==
+딱히 구체적인 조건이나 기준이 없이 사람들 평가하기 나름이기 때문에 어떤 것을 초월번역으로 인정할지 말지는 상당한 논쟁거리가 되고 있다. 같은 항목을 놓고도, 어떤 사람들은 이를 초월번역이라고 하여 가치를 두는 경우가 있는가 반면, 어떤 이들은 그저 '오역'으로 보고 부정적으로 평가하며 수정되어야 하는 사항으로 보기도 한다.
+
+결국 관점에 따라 달라질 수 있는 개념이므로, __구체적인 사례는 각자가 판단할 몫이다.__ 애초에 언어란게 또 다른 언어와 의미가 1대 1로 대응되는 것이 아니란걸 참고하자. 모든 단어에는 고유한 느낌, 즉 어감이 있기 때문에 번역시 의미를 살릴 것인가 어감을 강조할 것인가가 각기 다르다. 
+
+실제로 초월번역으로 일컫는 사례들과 [[발번역]]은 정말 한끗 차이다. 발번역 중에도 일부는 문법과 어휘 선정이 개판일 뿐 센스와 창의성 면에서는 높게 평가되는 의역들이 많은데, 따져보면 결국 개념이 본 항목 초월번역과 별반 다르지 않음을 알 수 있다.
+
+표의문자인 [[중국어]]는 [[가차]]를 할때 초월번역을 염두해주는 경우가 많다. [[코카콜라]]를 크어코우크어러(可口可樂, 가구가락)이라고 한다든지.
+
+[[각주]]

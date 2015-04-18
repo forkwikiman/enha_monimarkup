@@ -1,0 +1,34 @@
+ * 상위 문서: [[음악 관련 정보]], [[민요]]
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/vQhqikWnQCU?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vQhqikWnQCU?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+부른사람은 요들의왕 이라 불리우는 "Franzl Lang"
+
+[[영어]]: Yodel
+[[독일어]]: Jodel
+
+[[음악]]의 한 장르.
+
+[[스위스]]와 [[오스트리아]]의 알프스 지방의 주민들 사이에서 불리는 전통 민요 가운데 한 장르이다. 창법이 상당히 독특해서, 일반인은 부르기 힘들다. 진지하게 요들송을 부르려 해도 개그송으로 전락해버리는 마력을 지닌 노래. 원래는 산에서 가축을 방목할 때 불렀다고 한다. 이 가축들을 통제하기 위해 “어오어오... 홈싸사사...”라고 했던 것이 발전하여 노래가 되고, 요들송으로 완성되었다.~~소몰이 창법~~ 산중에서 멀리 있는 사람들과 의사소통을 하기 위해 부르는 것이 노래로 발전되었다는 설도 있다.
+
+요들송은 흉성과 높은 [[가성]]이 엄청나게 자주, 빨리 교체되는 창법이 특징이다. 요들송의 구성은 대개 가사는 단순한 내용을 담고 있는 도입부와, 거의 즉흥적으로 이어 부르는 후렴구로 이어져 있다. 후렴구는 “요를레이히~” 등으로 단순하게 구성된다.
+
+요들송을 전문적으로 부르는 가수는 ‘요들러’라고 따로 부른다. [[한국]]에서는 아래의 ‹아름다운 스위스 아가씨›를 부른 김홍철--[[노홍철]]--이 유일하다고. [[자우림]]의 보컬 [[김윤아]]도 어렸을적 요들송을 배웠다고 하며, 요들송이 자신의 창법에 도움을 주었다고 한다.
+
+한글로 요들송의 가사를 거의 완벽히 표현해낼 수 있다(...)고는 하지만 세간에 떠도는 말일 뿐이고, 그냥 한국인의 귀에 들리는 대로 받아적을 수 있을 뿐이다. 그렇게 따지면 요들송의 가사를 완벽히 표현할 수 없는 언어는 세계 어디에도 없다. [[한글로 표기할 수 없는 발음]] 문서도 같이 참고. 
+
+유명 요들송 [[Sy Leer My Om Te Jodel]](번안명: 아름다운 스위스 아가씨)의 가사를 한글로 표현한 것이 인터넷상에서 인기를 끌기도 했다. 해당 항목 참조.
+
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/LmMmjuCP47U?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/LmMmjuCP47U?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+위의 동영상은 정말 엄청나게 요들송을 잘하는 거다. 괜히 11세 천재 요들러가 아니다. 보통 요들송은 저 정도까지 빠르진 않다. 더 놀라운 것은 '''녹음 테이프와 교본만으로 익혔다는 것.'''~~와 소름돋음 ㄷㄷㄷㄷㄷ~~
+
+게임 [[철권 6]]에는 무작위로만 골라지는 맵이 있는데, 그 맵 배경음이 요들송이다. (제목은 ‹Yodeling in meadow hill›이다.) 이미 배경부터가 알프스를 연상케 하는 양들의 초원.
+
+~~[[길]]도 요들송을 불렀다.~~ [[http://gall.dcinside.com/list.php?id=hit&no=9351 #]] 믿으면 [[골룸]].
+
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=BC1A67BFC180BF606C535508428F425CE66C&outKey=V12109cf8e4272aa6d4bd67ddd80aac3f750a35b697e5d992999867ddd80aac3f750a' wmode='transparent' width='425' height='344' allowScriptAccess='always' name='NFPlayer17346' id='NFPlayer17346' allowFullScreen='true' type='application/x-shockwave-flash' />
+}}}
+[[심영(야인시대)|심영]]선생도 불렀다. 믿으면 [[골룸]].

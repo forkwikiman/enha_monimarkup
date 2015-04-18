@@ -1,0 +1,68 @@
+[[include(틀:워크래프트 3/언데드 스콜지)]]
+
+ * 상위 항목: [[워크래프트 3/종족, 유닛, 건물]]
+
+http://classic.battle.net/war3/images/undead/buildings/hauntedgoldmine.gif
+
+건설비용 : 금 255 나무 220
+건설시간 : 100초
+체력 : 800
+아머 : 건물(5)
+기능 : [[애콜라이트#s-3|애콜라이트]]가 금을 캘 수 있게 하는 건물
+
+[[목차]]
+== 설명 ==
+Haunted Gold Mine. Hunted가 아니다. 직역하자면 '귀신들린 금광' 정도로 가능.
+
+'''[[야언좆]]의 원흉.'''
+
+일단 가격이 미칠듯이 비싸다. [[오크 호드|오크]]의 [[그레이트 홀]]이 금 385, 나무 185이고 다른 건물도 마찬가지인데, 본진 역할을 하는 건물보다 딱히 싸지 않다. 물론 금이 덜 들어가지만 나무를 더 내야 한다. 그래놓고는 포탈 지원을 해주지 않는다. 포탈에 쓰일 [[네크로폴리스(워크래프트 3)|네크로폴리스]]까지 지으면 '''금 510'''이 증발하는 셈이다. 거기다 언데드는 [[지구라트#s-2.2|타워마저도 전 종족중 제일 비싸다.]]
+
+[[나이트 엘프 센티널|나이트 엘프]]와 비슷하게 일꾼이 그 자리에서 금을 캐는 방식라서 비교당할 수밖에 없는데 나이트 엘프는 본진 건물을 지으면 거기서 인탱글드 골드 마인을 '''공짜로''' 만들어서 쓴다. 아니, 아예 광맥이 고갈된 본진건물을 옮기면 '''본진 건물을 새로 지을 필요도 없다'''. 그렇게 돈은 돈대로 바쳐놓고 나이트 엘프의 [[위습#s-2.1|위습]]은 [[인탱글드 골드 마인]] 이라는 건물안에 들어가서 금을 캐므로 위습이 테러당할 일이 없지만 [[언데드 스콜지|언데드]]는 '''얄짤없이 노출되어 있어''' 그냥 털린다. 이것 때문에 [[블레이드 마스터]], [[워든#s-3.1|워든]] 에게 항상 털린다. 언오전 밸런스 붕괴의 1등 공신. 오죽 했으면 애콜라이트가 돌아가면서 금을 캐는 [[회전목마]] 방식이 나왔겠는가. 
+
+실제로 대다수의 사람들이 건설비용 중 금 비용만 낮춰주면 언데드가 멀티를 수월하게 할 수 있어 더 전략이 다채로워짐으로서 언데드가 약체에서 벗어날수 있다고하는데 사실 현재 언데드는 오크전에서만 유난히 약할 뿐, 나엘전은 수월한 편이며 [[휴먼 얼라이언스|휴먼]]과는 밸런스가 잘 맞는다. 사실 금을 캐는 일꾼에게 방호기능만 제공해줘도 언데드는 약체에서 벗어날 수 있다. ~~물론 오크를 게임에서 삭제해도 밸런스가 맞긴 맞는다. 사오난~~
+
+여담으로 자원을 다 캐면 자동으로 언서먼되고 자원도 들어온다.
+
+== 프로게이머들의 해결책 ==
+이런 문제점 때문에 언데드는 멀티를 할때는 1)몰래하거나, 2)주도권을 쥐고 상대방을 흔들어 소극적으로 만든다음에 가져가는데 두 경우 전부 변칙을 쓰거나 상대방보다 실력이 높아야 해서 어렵다. [* http://www.youtube.com/watch?v=eUvBtAVroSU&feature=c4-overview-vl&list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H 이쪽은 작정하고 준비한 예외적인 부류. --졌지만--] 보통 멀티를 하기보다는 한 방 크게 모아서 한 타 싸움으로 끝내려고 하는 경우가 대다수.
+
+전자의 경기 예시는 
+[http://tvpot.daum.net/clip/ClipView.do?clipid=37735808&rtes=y&startDuration=2.08 WTL2 올스타전 결승전_ReprisaL(H) vs Believe(U) 1경기]
+[http://tvpot.daum.net/clip/ClipView.do?clipid=41581960&rtes=y&startDuration=111.81 AWL1 34위_Believe(U) vs Chobo(O) 3경기]
+[http://www.youtube.com/watch?v=p_8aWYbR7X0 Nicker vs Lucifer]
+Shadow League 1차시즌 Trophy of Legend Infi VS Fov [http://www.youtube.com/watch?v=Baf8RJlivE4 1] [http://www.youtube.com/watch?v=18Jufm9_4hs 2] [http://www.youtube.com/watch?v=5iZz8wYYyuE 3] [http://www.youtube.com/watch?v=JMy5KrZ-vWY 4]
+[http://www.youtube.com/watch?v=poGjghVvq6k Focus vs Rain]
+[http://www.youtube.com/watch?v=SkSFDFTg5dM MYM Lucifer vs mouz.ToD]
+[https://www.youtube.com/watch?v=wefNzl210hA ESL 2010 mouz.Hasu vs n/faculty/sokol 5set]
+[http://www.youtube.com/watch?v=M9b7VpYmwtc&feature=c4-overview&list=UUam2aB0vAwcC8UnTm8SJu7A WGT 2013 4강 패자조 Infi VS TeD 3경기]
+[http://afbbs.afreeca.com:8080/app/read_ucc_bbs.cgi?szBjId=zizizi1986&nStationNo=157520&nBbsNo=11703217&nTitleNo=3712811&nRowNum=15&szSkin=&nPageNo=1 슈퍼스타 A1 시즌1_3R_2차전_ZeaL(N) vs Lordo(U) 3경기] [http://www.youtube.com/watch?v=JHIFh9DPGdc&list=PLRCz2RLYlhRO7jkC4bYF6Uf4nvB8voivy&index=36 youtube]
+[http://v.youku.com/v_show/id_XMTIyOTIxNzQ4.html Shadow League Trophy of Legend (传奇杯) Moon VS Fov 1경기]
+[https://www.youtube.com/watch?v=U96Q1jkuI9g Zotac Cup Round of 4 Believe(aRi) vs TyLoo_Th000 3set]
+[http://www.youtube.com/watch?v=ykiK4wPq42Y&list=PLRCz2RLYlhRN2BpNkhidnt5aZRc5i7ttb&index=34 130822 WEL2013 시즌2 패자조 2R 1차전 wfz(U) vs TH000 1경기]
+
+후자의 경기 예시는
+[http://www.youtube.com/watch?v=3dbIMVRlQSU The War Cast - Lucifer (UD) vs Infi (HU) - G3 - WC3 #65]
+[http://www.youtube.com/watch?v=eYIIXLflI9E The War Cast - Lucifer (UD) vs Infi (HU) - G1 - WC3 #63]
+[http://www.youtube.com/watch?v=Ct_K88E82Js&list=PLieVkhlnaOgJDHtVG7827Cu_pTUJx5paO Lucifer.M.Zero vs apeX.ReprisaL]
+[http://www.soku.com/search_video/q_AWL%E8%81%94%E8%B5%9B%E5%8D%8A%E5%86%B3%E8%B5%9BLucifer%E5%A4%A7%E6%88%98%E6%9A%B4%E9%A3%8E%E4%BA%BA%E6%97%8FStoRm AWL Lucifer vs StoRm 3,4,5]
+[http://tvpot.daum.net/clip/ClipView.do?clipid=41582192&rtes=y&startDuration=22 AWL1 34위_Believe(U) vs Chobo(O) 5경기]
+[http://www.youtube.com/watch?v=x2iGJVOnNnI Warcraft - Lucifer vs Nova]
+[http://kr.gomtv.net/bygomtv/vod/11363 HoT vs Fov 2경기] [* http://www.gomtv.net/gwi/vod/800 영어]
+[http://kr.gomtv.net/bygomtv/vod/11368 Fov VS TeD 3경기][http://www.gomtv.net/gwi/vod/842 영어]
+[http://my.mgoon.com/s/moonyoomin/4374000 (2011.02.24) 노재욱(Iwanttobegosu) vs Im_BlaCkSheep #2]
+[http://jupanda.tistory.com/397 ecl2010 결승 3경기]
+[http://ytube.com.ua/watch/x2iGJVOnNnI/day7-warcraft-lucifer-vs-nova.html Day7 - Warcraft - Lucifer vs Nova]
+[http://tvpot.daum.net/clip/ClipView.do?clipid=46374849&rtes=y&startDuration=11.64 MainBlock AWC 16강 Yumiko VS Belive 3경기]
+[http://www.youtube.com/watch?v=qVAyF_WhLrY WEG 2005 Moon VS Lucifer]
+[http://www.youtube.com/watch?v=CVQXmKqK6x0 Zotac Cup 269회 4강 th000 VS passion 1경기]
+[http://www.youtube.com/watch?v=UCcU3XY5hUk Lucifer vs Hawk]
+[http://www.56.com/u30/v_MzY0ODA5NDc.html ICE 2007 Lucifer VS Moon]
+[http://www.youtube.com/watch?v=MNuZIFqKU_0 ZOTAC Cup 290회 TH000 VS TeD]
+[http://www.youtube.com/watch?v=hS5JIVi_npc Zotac Cup 256회 Lucifer -vs- TH000 결승 2경기]
+[http://www.youtube.com/watch?v=v-GIN2JWJuE Lucifer vs DongGuierJin]
+[http://www.youtube.com/watch?v=63-rGgFhzzw&list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H&index=5 130910 AWC3 예선B조2경기 Nari vs Hayato]
+
+
+[[노재욱]]이 [[World Cyber Games|WCG]] 2013 예선에서 미리 대기시킨 제플린으로 일꾼을 피난시켜 언데 금광의 약점을 보완했다. [http://tvpot.daum.net/clip/ClipView.do?clipid=53720794&rtes=y&startDuration=1786.4232857142852 #] --kia~ 노재욱에 취한다--
+그냥 멀티 가져가는 경우 : [http://www.youtube.com/channel/UCG7F-M8M5wwlZfEEPZJ39Mw #]

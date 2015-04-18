@@ -1,0 +1,422 @@
+ * 상위 항목 : [[beatmania IIDX]]
+ * 관련 항목 : [[beatmania IIDX/싱글 비공식 난이도표/레벨 11]], [beatmania IIDX/난이도 체계], [beatmania IIDX/난이도 표기 문제]
+[[목차]]
+
+== 개요 ==
+출처: [[http://zasa.sakura.ne.jp/]]
+이 항목은 [beatmania IIDX]에서 모든 레벨 11의 더블 비공식 난이도를 정리해 두었다. '''노말 게이지 기준'''이며, 최신작인 [beatmania IIDX 22 PENDUAL]를 기준으로 작성한다. '''흑채보는 제외하며 가정판 전용 수록곡과 삭제곡도 포함되어 있다.'''
+본 문항은 일본의 더블 비공식 난이도표를 참고하였다.
+해당 난이도 표의 기준은 노멀게이지 기준이므로 유의바람. 또한 너무 난이도표를 맹신하지 말 것.
+
+== 비공식 난이도 9.6 ==
+일단 여기에 해당하는 곡은 단 한 곡 뿐이다. 그러나 그 한 곡이 하드게 지뢰로 평가받는 곡이라 일반적으로는 논외로 본다.
+
+||곡명||장르명||아티스트||수록작||기타||
+||[Real]||DRUM'N'BASS||Aya||6th Style||||
+
+== 비공식 난이도 10.0~10.7 ==
+일반적으로 더블 레벨 11 물렙이라고 하면 이 구간을 말한다. 하지만 이 중에서도 [CHECKING YOU OUT]같은 하드게 함정은 주의. 단위인정이라면 8단 쯔음에 들어갈 듯한 난이도.
+
+||곡명||장르명||아티스트||수록작||기타||비공식 난이도||
+||[KHAMEN BREAK]||PROGRESSIVE GOSPEL||くふおー ||21 SPADA||[발견! 되살아난 BEMANI 유적] 해금곡||10.0||
+||[Broadbanded]||TRANCE||SADA||13 DistorteD|| ||10.5||
+||Why did you go away||LOVERS EUROBEAT||[jun] with TAHIRIH||13 DistorteD|| ||10.5||
+||[캡티베이트 시리즈|CaptivAte～誓い～]||NOSTALISH REQUIEM||[DJ YOSHITAKA|A/I]||14 GOLD|| ||10.5||
+||[op.31 叙情]||PIANO CONCERTO||akkiko||14 GOLD||하이퍼 보면[[br]]18 Resort Anthem에서 삭제||10.5||
+||[Dazzlin' Darlin]||HANDZ UP||[Ryu☆|HHH]||15 DJ TROOPERS|| ||10.5||
+||[G59]||EXPERIMENTAL MUSIC||[dj TAKA|怒れる金の獅子]||17 SIRIUS||하이퍼 보면||10.5||
+||[CHECKING YOU OUT]||HIP HOP||[good-cool] feat. JP Miles||4th Style||어나더 보면[[br]]보면은 9th Style에서 추가||10.7||
+||VIRTUAL MIND||HIP HOP||Brian Morris feat.Thomas||5th Style||7th Style에서 삭제.[[br]]14 GOLD에 부활 후 16 EMPRESS에서 재삭제||10.7||
+||Sweet Sweet♥Magic||HAPPY HARDCORE||[jun]||9th Style|| ||10.7||
+||[冥]||HUMAN SEQUENCER||[wiki:"dj TAKA"Amuro] vs [wiki:"Tatsh"Killer]||12 Happy Sky||하이퍼 보면||10.7||
+||[SigSig]||MAKINA||[kors k]||12 Happy Sky|| ||10.7||
+||[ラクエン]||REGGAE||Chonan Chiharu||12 Happy Sky|| ||10.7||
+||[LASER CRUSTER]||NU-SKOOL BREAKS||[L.E.D.]||14 GOLD||하이퍼 보면||10.7||
+||[CaptivAte～裁き～]||NOSTALISH REQUIEM||[DJ YOSHITAKA] feat.A/I||14 GOLD||[기타프릭스] & [드럼매니아] V2에서 이식||10.7||
+||[the shadow]||SCHARNZ||[kors k]||14 GOLD|| ||10.7||
+||[evergreen]||PROG||[kors k]||15 DJ TROOPERS|| ||10.7||
+||[LOVELY STORM]||HAPPY HARDCORE||[L.E.D.]-G||CS 12 Happy Sky||15 DJ TROOPERS에 이식||10.7||
+||[Time to Air]||DANCE SPEED||[wiki:"Ryu☆"青龍]||15 DJ TROOPERS|| ||10.7||
+||[B4U](BEMANI FOR YOU MIX)||RECKLESS RAVE||Remixed by [DJ YOSHITAKA] with [Michael a la mode]||16 EMPRESS|| ||10.7||
+||[BLUE DRAGON](雷龍RemixIIDX)||RAVERS DANCE SPEED||[Ryu☆|雷龍]||21 SPADA|| ||10.7||
+||[Hypersonik]||DRUM & BASS||[kors k|Eagle]||21 SPADA|| ||10.7||
+||[牧神笛吹きて]||ZODIAC ORACLE X||[wac|楽士ゾディアック]||21 SPADA|| ||10.7||
+||[Amnolys]||ART CORE||[onoken]||22 PENDUAL|| ||10.7||
+||[Erosion Mark]||FALLIN APART CORE||[kors k] REASM [Des-ROW]||22 PENDUAL||[팝픈 리즈민] 선행수록||10.7||
+||[ベィスドロップ・フリークス]||A-STYLE DRUMSTEP||[かめりあ] feat. [ななひら]||22 PENDUAL|| ||10.7||
+||[もっと！モット！ときめき] feat. [松下]||きらめきコア||[wac|シャイニング][L.E.D.|度胸兄弟]||22 PENDUAL|| ||10.7||
+||[紅牡丹]||J-CORE||[DJ NAGAI] feat.a☆ru||22 PENDUAL||'''[물렙곡|레벨 12]'''||10.7||
+
+== 비공식 난이도 11.0 ==
+11레벨 최하~하위권들이 몰려있는 곳이며, 일부 10렙 사기곡들도 같이 표기한다.
+
+||곡명||장르명||아티스트||수록작||기타||
+||[ABSOLUTE]||EPIC TRANCE||[dj TAKA]||4th Style||||
+||Deadline||TRANCE||Dutch Force||5th Style||10th Style에서 삭제||
+||[sync]||TRANCE||[TaQ|Out][dj TAKA|Phase]||5th Style||||
+||[NEMESIS]||TECHNO||[[dj TAKA|D.J.SETUP]]||6th style||하이퍼 보면[[br]][사기 난이도|레벨 10][[br]]무리 스크래치곡||
+||[route 80s]||NOISY||[wiki:"호소에 신지"Sampling masters MEGA]||6th Style||하이퍼 보면[[br]]무리 스크래치곡||
+||Y31||RAVE||[dj nagureo|tiger YAMATO]||6th Style||16 EMPRESS에서 삭제||
+||LAB||RAVE||[RAM]||8th Style||||
+||[PLEASE DON'T GO]||DISCO||[ASLETICS]||8th Style||[사기 난이도|레벨 10]||
+||Red Nikita||LATIN SWING||[쿠보타 오사무|Osamu Kubota]||8th Style||14 GOLD에서 삭제||
+||[Distress]||MIXTURE||[dj TAKA] Remixed by [TaQ]||9th Style||하이퍼 보면||
+||[Karma]||DRUM'N'BASS||[TaQ]||9th Style||하이퍼 보면||
+||[moon_child]||POST ROCK||[wiki:"wac"少年ラジオ]||9th Style||하이퍼 보면||
+||[[quasar]]||TRANCE||OutPhase||9th Style||하이퍼 보면||
+||[u gotta groove] -extend joy style-||EPIC HOUSE||[dj nagureo] / Remixed by [Mr.T]||9th Style||[사기 난이도|레벨 10][[BR]]15 DJ TROOPERS에서 삭제||
+||[Innocent Walls]]||TECHNO||[TaQ]||10th style||하이퍼 보면[[br]][사기 난이도|레벨 10]||
+||Back Into the light||2STEP POP TRANCE||[Sota Fujimori]||10th Style||[사기 난이도|레벨 10]||
+||[GRADIUS -FULL SPEED-]||GAME MUSIC||[Mr.T]||10th Style||||
+||[LOW]||RAVE||[RAM]||10th Style||[사기 난이도|레벨 10]||
+||SHOOTING STAR||J-POP||小坂りゆ||10th Style||||
+||EVO66||TECHNO||Wall5||11 RED||14 GOLD에서 삭제||
+||SPEEDY CAT||EUROBEAT||[Y&Co.]||11 RED||[사기 난이도|레벨 10]||
+||bluemoon||LATIN HORNS GROOVE||[小野秀幸]||13 DistorteD||||
+||Crazy K.I.N.O.||MIXTURE||[히라타 쇼이치로|Shoichiro Hirata]||13 DistorteD||||
+||Harmony and Lovely||PROGRESSIVE HOUSE||[Ryu☆]||13 DistorteD||||
+||with you…||FUNK´N JAZZ HOUSE||[Sota Fujimori]||13 DistorteD||||
+||[VANESSA]||DECEPTIVE GABBA||[DJ YOSHITAKA|朱雀]||14 GOLD||하이퍼 보면||
+||Welcome||HARDCORE||Uraken||CS 14 GOLD||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[HELL SCAPER] -Last Escape Remix-||GABBAH||Remixed by [DJ TECHNORCH] fw. [GUHROOVY]||CS 15 DJ TROOPERS||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||madrugada||PROGRESSIVE HOUSE||[PINK PONG]||15 DJ TROOPERS||21 SPADA에서 삭제||
+||REMINISCENCE||TRI EURO FANTASIA||[jun] with Alison||15 DJ TROOPERS||||
+||Sidechained Threats||ELECTRO||sanodg||CS 15 DJ TROOPERS||[사기 난이도|레벨 10][[br]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||WHAT'S NEXT?||NU JAZZ||[SLAKE] feat. DAINA NORMAN||CS 15 DJ TROOPERS||[사기 난이도|레벨 10][[br]]beatmania 7th MIX에서 이식[[br]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[ALL MY TURN -このターンに、オレの全てを賭ける-]||ONLY ONE EURO BEAT||[SUPER STAR 満-MITSURU-]||16 EMPRESS||||
+||[Jack]||MIXTURE||[Des-ROW|Des][TaQ|Q]||16 EMPRESS||[팝픈뮤직] 10에서 이식||
+||JEWELLERY STORM||HARDCORE||[L.E.D.]-G fw. Eriko Tanzawa||16 EMPRESS||21 SPADA에서 삭제||
+||[Cube 시리즈|ToyCube Pf (RX Ver.S.P.L)]||NEW AGE||高田雅史||CS 16 EMPRESS||[사기 난이도|레벨 10][[br]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[SOLID STATE SQUAD]||HARDSTYLE||[kors k] VS [L.E.D.]||CS 13 DistorteD||하이퍼 보면[[BR]]17 SIRIUS에 이식||
+||[THE LAST STRIKER]||DRUM & BASS||[L.E.D.]||CS 15 DJ TROOPERS||[사기 난이도|레벨 10][[BR]]17 SIRIUS에 이식||
+||Believe In Me||HARDCORE||Uraken feat. Calyn Tsukishima||18 Resort Anthem||||
+||[[QUANTUM TELEPORTATION]]||TECHNO||[[L.E.D.]]||CS 13 DistorteD||하이퍼 보면[[br]][사기 난이도|레벨 10][[br]]19 Lincle에 이식||
+||[YAKSHA]||TERROR CORE||[wiki:"L.E.D."Neulakyussra]||19 Lincle||하이퍼 보면||
+||[子供の落書き帳]||PROGRESSIVE||[사사키 히로후미|佐々木博史]||CS 15 DJ TROOPERS||하이퍼 보면[[br]][사기 난이도|레벨 10][[br]][기타프릭스] 6th & [드럼매니아] 5th에서 이식[[br]]19 Lincle에 이식||
+||Phoenix||HARD NRG||Hommarju||19 Lincle||||
+||[Star Trail]||TRANCE||[Nhato]||19 Lincle||[사기 난이도|레벨 10]||
+||[Timepiece phase II] (CN Ver.)||PROGRESSIVE ROCK||[사사키 히로후미]||20 tricoro||하이퍼 보면[[br]][LIMIT BURST] 대응곡[[br]][기타프릭스]10th & [드럼매니아]9th에서 이식||
+||[405nm (Ryu☆mix)]||HARDCORE||[Another Infinity]||20 tricoro||||
+||[GRADIUS 2012]||KONAMI REMIX||[Sota Fujimori]||20 tricoro||||
+||[KAISER PHOENIX]||HEAVY METAL||[96]||21 SPADA||하이퍼 보면[[br]][사기 난이도|레벨 10][[br]][기타프릭스] & [드럼매니아] XG&V7에서 이식[[br]][열투! BEMANI 스타디움] 해금곡||
+||[Sigmund]||REQUIEM PSY||Gram||21 SPADA||하이퍼 보면[[br]][사기 난이도|레벨 10]||
+||refractive index||PSYCHEDELIC TRANCE||[Sota Fujimori]||21 SPADA||||
+||Overload Frontier||HARDCORE RAVE||DJ Shimamura||21 SPADA||||
+||[ÆTHER]||ASTRAL HARDCORE||[TAG] underground||21 SPADA||[리플렉 비트 콜레트]에서 이식[[br]][Dance Dance Revolution(2013)]동시수록||
+||[幻想系世界修復少女]||J-POP||[Last Note.]||21 SPADA||[GUMI 5th Anniversary party Presented by BEMANI] 동시 수록곡||
+||[AFRO KNUCKLE]||AFRO-SAMBA||[猫叉Master]+||22 PENDUAL||||
+||[Line 4 Ruin]||ELECTRO TECH||[Ryu☆]||22 PENDUAL||||
+
+== 비공식 난이도 11.2 ==
+11 중에서 중하급~중급 정도의 난이도를 보이고 있다. 21 SPADA 당시에는 10레벨의 두 곡도 있었으나 지금은 모두 승격.
+
+||곡명||장르명||아티스트||수록작||기타||
+||[Radical Faith]||BIG BEAT||[TaQ]||5th Style||||
+||[Last Message]||EUROBEAT||[good-cool] feat. Meg||7th Style||||
+||OUTER LIMITS ALTERNATIVE||HARDCORE/NU STYLE GABBA||[L.E.D.]-G||CS 8th Style||OUTER LIMITS의 어나더[[BR]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK)||HARDSTYLE||[L.E.D.]||CS 9th Style||하이퍼 보면[[BR]][사기 난이도|레벨 10][[BR]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||Golden Horn||TURKISH PIANO'N'BASS||[쿠보타 오사무|Osamu Kubota]||9th Style||||
+||[rottel-the-Mercury]||GABBA||[호소에 신지|sampling masters MEGA]||9th Style||||
+||[wiki:"satellite020712 from CODED ARMS"satellite020712 from "CODED ARMS"]||HARD HOUSE||[猫叉Master]||CS 10th Style||하이퍼 보면[[br]]15 DJ TROOPERS에 이식.[[br]]아케이드에 이식되지 않은 CS판 전용채보.||
+||BABY LOVE||ITALO POP||[Noria]||10th Style||||
+||[Narcissus At Oasis]||ARTCORE||[Ryu☆]||10th Style||||
+||[rainbow rainbow]||HAPPY HARDCORE||[Ryu☆]||10th Style||||
+||Rise'n Beauty||TRANCE||[후지모리 소타|Sota] feat. Cyborg Akemi||10th Style||||
+||[ANDROMEDA]||PSYCHEDELIC GOA TRANCE||[Sota Fujimori]||11 RED||||
+||Close my Eyes for Me||AMERICA||[Des-ROW|D-crew] feat.DENNIS GUNN ([DJ Yoshitaka] SCRATCHING)||11 RED||||
+||[KEY]||BEAT ROCK||[dj TAKA|colors]||11 RED||||
+||KING OF GROOVE||TECHNO||DJ 19||11 RED||14 GOLD에서 삭제||||
+||[Votum stellarum]||ANTHEM TRANCE||[dj TAKA|icono][wac|clasm]||12 Happy Sky||하이퍼 보면[[br]][팝픈뮤직] 10에서 이식||||
+||[캡티베이트 시리즈|CaptivAte～浄化～]||NOSTALISH REQUIEM||[DJ YOSHITAKA|A/I]||12 Happy Sky||||
+||LESSON 5||HAPPY EXTREME||[Risk Junk] feat.Erika Mochizuki||12 Happy Sky||||
+||POODLE||EUROBEAT||[Y&Co.]||12 Happy Sky||||
+||[rage against usual]||DIGI ROCK||[dj TAKA] Feat.Gt.Shintaro||12 Happy Sky||||
+||[Scripted Connection⇒] A Mix||TECHNO||[Tatsh|DJ MURASAME]||12 Happy Sky||||
+||[Ganymede]||ESOTERIC SLOWCORE||[wiki:"wac"玄武]||13 DistorteD||하이퍼 보면||
+||[Bloody Tears](IIDX EDTION)||HARD RENAISSANCE||[DJ YOSHITAKA]||13 DistorteD||||
+||[EURO-ROMANCE]||80´s TECHNO||K-MASERA||13 DistorteD||||
+||[So Fabulous !!]||BUCHIAGE TRANCE||[Ryu☆|HHH]||13 DistorteD||||
+||[Zenius -I- Vanisher]||CYBER OPUS||[Tatsh]||13 DistorteD||||
+||[FIRE FIRE]||BUCHIAGE TRANCE||[kors k|StripE]||14 GOLD||||
+||GUILTY||TECHNO||[D.J.SETUP]||CS 15 DJ TROOPERS||beatmania CORE REMIX에서 이식[[br]]22 PENDUAL에 이식||
+||REPLAY||TECHNO||[SLAKE]||CS 15 DJ TROOPERS||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||Back Into The Light -Feeling Won't Fade Vocal Mix-||TRANCE||[Sota Fujimori]||CS 16 EMPRESS||[사기 난이도|레벨 10][[br]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[Bahram Attack -猫叉Master Remix-]||HOUSE||[猫叉Master] feat.JUNE||16 EMPRESS||||
+||[히페리온|HYPERION]||MORNING FULL ON||[L.E.D.]||16 EMPRESS||||
+||[Just a Little Smile]||NU SKOOL BREAKS||[Sota Fujimori]||16 EMPRESS||||
+||MY FUTURE||TRANCE||[PINK PONG]||16 EMPRESS||||
+||SOLITON BEAM||TECHNO||[L.E.D.]||CS 11 RED||16 Empress에 이식.||
+||Tori-no-kimochi||WORLD/ELECTRONICA||[猫叉Master]+||CS 16 EMPRESS||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[Y&Co. is dead or alive]||90's RAVE||[Y&Co.]||16 EMPRESS||18 Resort Anthem에서 삭제||
+||[D(비마니 시리즈)|D]||NEXT SKOOL BREAKBEATS HARDCORE||[kors k|Eagle]||17 SIRIUS||||
+||DROP||WHITE SEQUENCE||[dj TAKA] feat.[호시노 카나코|Kanako Hoshino]||17 SIRIUS||||
+||[Elisha]||TRANCE CORE||[DJ YOSHITAKA]||17 SIRIUS||||
+||[Sorrows]||EMO||Asako Yoshihiro||17 SIRIUS||||
+||The Story Begins||EPIC TRANCE||SADA & [후지모리 소타|Sota]||CS 14 GOLD||17 SIRIUS에 이식||
+||[Bounce Bounce Bounce]||DANCEHALL||[kors k] feat. Kanata Okajima＆楽天斎||18 Resort Anthem||||
+||[passionate fate]||HANDZ UP||[Ryu☆]||18 Resort Anthem||||
+||[THE DOOR INTO RAINBOW]||TRANCE||[L.E.D.]||18 Resort Anthem||||
+||[THE FALLEN]||GOTH NU-STYLE GABBA||[L.E.D.]-G||18 Resort Anthem||[리플렉 비트]에서 이식||
+||Change the World||SPEED POP||[Tatsh] feat.小田ユウ||19 Lincle||||
+||[TITANS RETURN]||DRUMSTEP||[L.E.D.]||19 Lincle||[리플렉 비트 라임라이트]에서 이식||
+||[Timepiece phase II]||PROGRESSIVE ROCK||[사사키 히로후미]||20 tricoro||하이퍼 보면[[br]][LIMIT BURST] 대응곡[[br]][기타프릭스]10th & [드럼매니아]9th에서 이식||
+||[CONCEPTUAL]||HARD REVOLUTION||[Sota Fujimori] 2nd Season||20 tricoro||||
+||[Empathetic]||DRUMSTEP||[후지모리 소타|Sota]÷[Des-ROW|Des]||20 tricoro||[사립 BEMANI 학원] 팝픈뮤직/DDR 해금곡||
+||Neonlights||TECH DANCE||DJ Noriken||20 tricoro||||
+||[Präludium]||CLASSICAL PIANO||Yuko Takahashi||20 tricoro||||
+||[Time To Empress]||TRANCE||[dj TAKA] feat.[wac] & secret K||CS 16 EMPRESS||20 tricoro에 이식||||
+||[メイメツ、フラグメンツ]||CYBER SYMPHONIC POP||中山真斗([Elements Garden]) feat. 桜川めぐ||20 tricoro||||
+||[創世ノート]||CREATOR||[PON]+[wac]||20 tricoro||[사립 BEMANI 학원] 팝픈뮤직 해금곡||
+||[IX]||BLOOD METAL||[dj TAKA] VS [DJ TOTTO] feat. 監||21 SPADA||하이퍼 보면[[br]][열투! BEMANI 스타디움] 최종 해금곡||
+||BRAVE OUT||ELECTRANCE||nomico / DOWNFORCE||21 SPADA||||
+||[Engraved Mark]||HAPPY SAD CORE||[Ryu☆] ∞ [Des-ROW]||21 SPADA||[열투! BEMANI 스타디움] 해금곡[[br]][유비트 플러스]&[리플렉 비트 플러스]&[팝픈 리즈민]에서 이식||
+||M.D.Injection||PIECED DOWNBEAT||[Project B-]||21 SPADA||||
+||[SCHWARZSCHILD FIELD]||FULL ON||[L.E.D.]||21 SPADA||[발견! 되살아난 BEMANI 유적] 해금곡[[br]][리플렉 비트 그루빈]에서 이식||
+||[Valgus]||MAINSTREAM HARDCORE||DJ Myosuke feat. yukacco||21 SPADA||||
+||[超!!遠距離らぶ♡メ〜ル]||乙女EDM||[ななひら]||21 SPADA||||
+||[BEYOND THE EARTH]||WORLD/ELECTRONICA||[猫叉Master]||CS 9th Style||[사기 난이도|레벨 10][[BR]]CS [팝픈뮤직] 10에서 이식[[br]]22 PENDUAL에 이식||
+||[Hello Happiness]||HAPPY HARDCORE||[P*Light] feat. mow*2||22 PENDUAL||||
+||[illuminate]||SYNTHETIC EDM||[Sota Fujimori]||22 PENDUAL||현대 전용곡||
+||IXION||PSYCHEDELIC TRANCE||[L.E.D.]||CS 10th Style||22 PENDUAL에 이식||
+||[フェイクアウト]||ROCK||[Last Note.] feat.mirin||22 PENDUAL||||
+
+== 비공식 난이도 11.4 ==
+단위인정 9단 평균 수준의 난이도. 다만 Macho Gang H보면 같은 하드게 지뢰들은 주의.
+
+||곡명||장르명||아티스트||수록작||기타||
+||[Macho Gang]||TRIBAL HOUSE||[우에노 케이이치|Anal Spyder]||substream||하이퍼 보면[[br]]무리 스크래치곡||
+||S.O.S.||INDIE EURO,EURO/DANCE||DR.BOMBAY||2nd Style||4th Style에서 삭제||
+||[Schlagwerk]||BIG BEAT||[TaQ]||3rd Style||하이퍼 보면||
+||[empathy]||DRUM'N'BASS||[TaQ]||4th Style||하이퍼 보면[[br]]무리 스크래치곡||
+||[thunder(beatmania IIDX)|thunder]||HOUSE||[dj TAKA|Lion MUSASHI]||8th Style||||
+||[pandora]||TRANCE||[dj TAKA] feat.Tomomi||10th Style||||
+||[[Go Berzerk]]||HARDCORE||Scott Brown||CS 11 RED||하이퍼 보면[[br]]아케이드 미수록곡으로, 아케이드에 이식되었을 때의 추정 레벨.[[br]][[GUHROOVY]]의 리믹스 악곡||
+||[RESONATE 1794]||HARD SONATA||KOHTA||11 RED||하이퍼 보면||
+||Be quiet||HARD DANCE||Ryu☆||11 RED||||
+||NEBULA GRASPER||PSYCHEDELIC TRANCE||[L.E.D.]||11 RED||||
+||[Agnus Dei]||GOTHIC METAL||[あさき]||12 Happy Sky||[기타프릭스] 10th & [드럼매니아] 9th에서 이식||
+||[Aurora]||TRANCE CORE||[Ryu☆]||12 Happy Sky||||
+||[BLUE MIRAGE]||NU STYLE GABBA||[GUHROOVY|DJ CHUCKY]||CS 12 Happy Sky||22 PENDUAL에 이식||
+||合体せよ!ストロングイェーガー!!(Ryu☆ remix)||HARD DANCE||[L.E.D.] / Remixed by [Ryu☆]||12 Happy Sky||||
+||[Little Little Princess]||PUNK OPERA||SHRINE 418||12 Happy Sky||||
+||[Apocalypse 〜dirge of swans〜]||ORATORIO||[Zektbach]||13 DistorteD||||
+||Bleeding Luv ～Immorality act～||PROVIDENCE R||Xephia ([Tatsh]+Yuta)||CS 13 DistorteD||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||CALDERA||HARDCORE BREAKBEATS||[SLAKE|CALF]||CS 13 DistorteD||beatmania 7th MIX에서 이식.[[BR]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[DRUNK MONKY]||MINIMAL||[와타나베 히로시|DJ ODDBALL]||CS 13 DistorteD||beatmania 4th MIX에서 이식[[br]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||Sun Field||HAPPY POP||mh sequence||13 DistorteD||||
+||[waxing and wanding]||DANCE SPEED||[wiki:"Ryu☆"青龍]||13 DistorteD||||
+||[Chain of pain]||FULL ON||[kors k] VS [猫叉Master]+||CS 14 GOLD||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[데님|DENIM](ELECTRO MIX)||TECHNO||[SLAKE|SLAKE (another mixed by DEPROGRAM MAN)]||CS 14 GOLD||beatmania 5thMIX에서 이식[[br]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||Make Me Your Own||HOUSE||[good-cool] ft. Raj Ramayya||14 GOLD||||
+||[IMPLANTATION]||GOA TRANCE||[TOMOSUKE]||CS 15 DJ TROOPERS||드럼매니아] 2ndmix에서 이식[[BR]]22 PENDUAL에 이식||
+||Now and Forever||ENERGETIC TRANCE||[kors k|StripE vs MUNETICA feat.ARISA]||15 DJ TROOPERS||22 PENDUAL에서 삭제||
+||[switch]||ULTIMATE J-POP||DAISUKE ASAKURA ex.[TЁЯRA]||15 DJ TROOPERS||[댄스 댄스 레볼루션] SuperNOVA2 에서 이식||
+||Electrorgasm||ELECTRO||[Sota Fujimori]||CS 16 EMPRESS||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||FLAG OF PEACE||DRUM'N'BASS||[GUHROOVY] fw. NO+CHIN||CS 16 EMPRESS||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[Kung-fu Empire]||ASIAN JANGLE||[猫叉Master|飛燕流舞]||16 EMPRESS||||
+||Monkey Dance'09||EUROBEAT||[Y&Co.] Feat. DOMINO||16 EMPRESS||||
+||[まほろば]||J-DANCE POP||[Ryu☆|HHH]+[호시노 카나코|H]||16 EMPRESS||||
+||[AIR RAID FROM THA UNDAGROUND]||SPEEDCORE||[GUHROOVY]||17 SIRIUS||[유비트 리플즈 어펜드] 동시수록||
+||[Dazzlin' Darlin]-秋葉工房mix-||EUROBEAT||Remixed by [DJ Command]||17 SIRIUS||||
+||Light Shine||BUBBLEGUM DANCE||[Ryu☆]||17 SIRIUS||||
+||[mosaic]||TECHNO POP SPEED||[Ryu☆|Auridy]||17 SIRIUS||||
+||NEW SENSATION -もう、あなたしか見えない-]||ONLY ONE IDOL SONG||[SUPER STAR 満-MITSURU-|SUPER HEROINE 彩香-AYAKA-||17 SIRIUS||||
+||[reunion]||CYBER WALTZ||[Tatsh]||18 Resort Anthem||하이퍼 보면||
+||[ANTHEM LANDING]||LATIN TEK||[Tatsh|DJ ムラサメ]||18 Resort Anthem||||
+||Destiny Sword||ELECTRIC STEP||[TAG|CAPACITY GATE]||18 Resort Anthem||||
+||DM STAR～関西 energy style～||SPEED RAVE||[NAOKI]||18 Resort Anthem||||
+||Let The Track Flow||UK HARDCORE||Brisk & Ham||18 Resort Anthem||||
+||Raise your hands||OKINAWA ANTHEM||[우에노 케이이치|Keiichi Ueno] feat. RIISA||18 Resort Anthem||||
+||Space Time||ENERGETIC TRANCE||NISH||18 Resort Anthem||||
+||Tropical April||VACATION DANCE||[Risk Junk]||18 Resort Anthem||||
+||[STELLAR WIND]||HARD DANCE||[L.E.D.]||18 Resort Anthem||[유비트 니트 어펜드] 동시수록||
+||[天空の夜明け]||ANTHEM||[[dj TAKA|Cuvelia]]||19 Lincle||하이퍼 보면||
+||[SHADE]||TECHNO||[Tatsh|DJ MURASAME vs dj Killer]||19 Lincle||||
+||[Thunderbolt]||RAVERS DANCE SPEED||[Ryu☆|雷龍]||18 Resort Anthem||[리플렉 비트]에서 이식||
+||[Beastie Starter]||SPEEDCORE||[GUHROOVY]||20 tricoro||[Café de Tran] 해금곡 [[br]][유비트 소서]에서 이식||
+||Breaking Dawn feat. NO+CHIN, AYANO||J-CORE||[GUHROOVY]||20 tricoro||||
+||[examination leave]||VACATION DANCE||[dj TAKA|dj razzle dazzle]||20 tricoro||[쿠프로·미미냐미·파스텔군의 다함께 우주전쟁!!] 해금곡[[br]][리플렉 비트 콜레트]에서 이식||
+||Fly you to the star||HANDZ UP||[Another Infinity] feat. [모리나가 마유미|Mayumi Morinaga||20 tricoro||
+||[planarian]||ELECTRIC POP||[S-C-U]||20 tricoro||||
+||[wiki:"ReGENERATION"Re:GENERATION]||EMOTIONAL SENTENCE||[TAG] feat. ERi||20 tricoro||||
+||[SHION]||HI-SPEED FANTASY TUNE||[DJ YOSHITAKA]||20 tricoro||[쿠프로·미미냐미·파스텔군의 다함께 우주전쟁!!] 해금곡[[br]][팝픈뮤직] 19 TUNE STREET에서 이식||
+||[仮想空間の旅人たち]||TECHNO||[Tatsh|DJ MURASAME]||20 tricoro||||
+||[Synergy For Angels]||ORBITALIC REVOLUTION||[TAG]×[U1-ASAMi]||20 tricoro||[사립 BEMANI 학원] DDR 해금곡||
+||[虹色の花]||LIGHT-VISUAL POP||[Akhuta] y [코에즈카 요시히코|OJ]||20 tricoro||[사립 BEMANI 학원] GITADORA 해금곡||
+||[VOX UP]||ROTTERDAM TECHNO||[호소에 신지|sampling masters MEGA] vs [Ryu☆|青龍]||CS 15 DJ TROOPERS||하이퍼 보면||
+||[Dark Fall]||MASSIVE DANCE SPEED||[Ryu☆|黒龍]||21 SPADA||||
+||[Devilz Sacrifice -贖罪の羊-]||SYMPHONIC BREAK BEATS||[OSTER project]||21 SPADA||||
+||[Feel The Beat]||HARDCORE RAVE||Falsion||21 SPADA||||
+||LA FESTA LA VITA!!||DRUM'N'BASS||[GUHROOVY]||21 SPADA||||
+||Lighting Shower||TRANCE POP||[TAG]||21 SPADA||||
+||[m1dy Deluxe]||TOKYO STYLE SPEEDCORE||[m1dy]||21 SPADA||||
+||[Miracle 5ympho X]||FRENCHCORE||[USAO]||21 SPADA||||
+||[Squeeze]||WITHOUT YOU TONIGHT -VI-||[VENUS(아티스트)|VENUS] feat. [Mutsuhiko Izumi]||21 SPADA||[열투! BEMANI 스타디움] 후반전 해금곡||
+||[WOBBLE IMPACT]||DUB STEP||[Sota Fujimori]||21 SPADA||||
+||[死神自爆中二妹アイドルももかりん(1歳)]||電波METAL||[이오시스|山本椛]||21 SPADA||||
+||Blaze it UP!||HARDCORE RAVE||DJ Shimamura||22 PENDUAL||||
+||[Monopole.]||ARTCORE ROCK||[cosMo＠暴走P]||22 PENDUAL||||
+||時空トラベローグ||TIME TRIP JAZZ||[SOUND HOLIC|SWING HOLIC feat. A～YA]||22 PENDUAL||||
+
+== 비공식 난이도 11.6 ==
+11레벨 중위권~중상위권으로, 주로 단위인정 9단은 이 난이도에서 많이 나온다. 일부 12 물렙들도 같이 서술한다.
+
+||곡명||장르명||아티스트||수록작||기타||
+||[Macho Gang]||TRIBAL HOUSE||[우에노 케이이치|Anal Spyder]||substream||어나더 보면[[br]]무리 스크래치곡||
+||[Schlagwerk]||BIG BEAT||[TaQ]||3rd Style||어나더 보면||
+||[CHECKING YOU OUT]||HIP HOP||[good-cool] feat. JP Miles||4th Style||하이퍼 보면||
+||[Voltage](feat. Hidemaru)||BIG BEAT||[TaQ]||4th Style||하이퍼 보면[[br]]무리 스크래치곡||
+||[Regulus]||INSTRUMENTAL||[wac|DJ.W]||5th Style||||
+||STILL IN MY HEART||HYPER EUROBEAT||[NAOKI]||5th Style||무리 스크래치곡||
+||THE CUBE||DRUM'N'BASS||[우에노 케이이치|DJ SUWAMI]||5th Style||무리 스크래치곡||
+||[V(비마니 시리즈)|V]||PROGRESSIVE||[dj TAKA]||5th Style||보면은 19 Lincle에서 추가||
+||SOMETHING WONDERFUL||EPIC TRANCE||[L.E.D.]||CS 5th Style||하이퍼 보면[[br]]6th Style에 이식[[br]]8th Style에서 삭제||
+||Take It Easy||INSTRUMENTAL||Aya||6th Style||하이퍼 보면[[br]]무리 스크래치곡||
+||Fly Away(Instrumental)||TRANCE||Vincent de Moor||6th Style||12 Happy Sky에서 삭제||
+||[wiki:"A(비마니 시리즈)"A]||RENAISSANCE||[wiki:"dj TAKA"D.J.Amuro]||7th Style||하이퍼 보면||
+||foreplay||PROGRESSIVE JAZZ||[쿠보타 오사무|Osamu Kubota]||7th Style||||
+||[Tomorrow Perfume]||TRANCE||[dj TAKA]||7th Style||||
+||[Memories]||BEAT ROCK||[dj TAKA|TAKA]||8th Style||||
+||paramnesia||CLUB JAZZ||Shinji Ushiroda||CS 9th Style||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[Daisuke]||EUROBEAT||[Y&Co.]||10th Style||||
+||Debtty Daddy||ETHNO HARDCORE||sampling masters AYA||10th Style||||
+||Rise'n Beauty||TRANCE||[후지모리 소타|Sota] feat. Cyborg Akemi||CS 15 DJ TROOPERS||아케이드에 이식되지 않은 CS판 전용채보.||
+||[SPACE FIGHT]||戦艦テクノ||[AKIRA YAMAOKA]||10th Style||||
+||[RED ZONE]||SPEED RAVE||[Tatsh]&[NAOKI]||11 RED||||
+||[Scripted Connection⇒] H mix||TECHNO||[Tatsh|DJ MURASAME]||12 Happy Sky||||
+||[Xepher]||MEDIEVAL CHOIR||[Tatsh]||12 Happy Sky||||
+||[嘆きの樹]||CONTEMPORARY||[dj TAKA|金獅子]||13 DistorteD||하이퍼 보면||
+||[D.C.fish]||TECHNO||[Tatsh|DJ MURASAME]||13 DistorteD||||
+||Electrified||ELECTRO||[후지모리 소타|SySF.]||CS 14 GOLD||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[Fascination MAXX]||SUPERNOVA BEAT||[wiki:"NAOKI"100-200-400]||14 GOLD||[물렙곡|레벨 12][[br]][댄스 댄스 레볼루션]에서 이식||
+||[PHOTONGENIC]||DRUM & BASS||[L.E.D.] fw.堀澤麻衣子||CS 9th Style||14 GOLD에 이식||
+||SHOX||DRUM'N'BASS||[RAM]||CS 14 GOLD||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[PARANOiA ~HADES~]||SUPERNOVA2 BEAT #1||[jun|αTYPE-300]||15 DJ TROOPERS||댄스 댄스 레볼루션 SuperNOVA2에서 이식[[br]]하이퍼 보면||
+||[Around The Galaxy]||UPLIFTING TRANCE||NISH||CS 15 DJ TROOPERS||'''[사기 난이도|레벨 10]'''[[br]]아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||end of world||FRENZY HOUSE||[猫叉Master]+||15 DJ TROOPERS||||
+||in the Sky||HAPPY HARDCORE||[Ryu☆]||15 DJ TROOPERS||||
+||[MENTAL MELTDOWN]||HARD HOP||[GUHROOVY] fw. [DJ TECHNORCH]||15 DJ TROOPERS||||
+||[THE DEEP STRIKER]||NU STYLE GABBA||[L.E.D.]-G||15 DJ TROOPERS||||
+||[Übertreffen]||PROGRESSIVE BAROQUE||[dj TAKA|TAKA] respect for J.S.B.||15 DJ TROOPERS||[팝픈뮤직] 14 FEVER!에서 이식||
+||[卑弥呼]||ESOTERIC SPEEDCORE||[DJ YOSHITAKA|朱雀] VS [wac|玄武]||16 EMPRESS||하이퍼 보면||
+||Arabian Rave Night||ARABIC HARDCORE||[후지모리 소타|dj MAX STEROID]||16 EMPRESS||||
+||[BITTER CHOCOLATE STRIKER]||JUMPSTYLE||[L.E.D.]-G||16 EMPRESS||||
+||[캡티베이트 시리즈|CaptivAte2～覚醒～]||NOSTALISH REQUIEM||[DJ YOSHITAKA|e-lma]||16 EMPRESS||||
+||Troposphere||DRUM'N'BASS||kobo||CS 16 EMPRESS||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[V2(BEMANI 시리즈)|V2]||PROGRESSIVE||[dj TAKA|TAKA]||16 EMPRESS||||
+||[天空脳番長危機十六連打]||RAGE AGAINST EMPRESS||[D.J.SETUP]||16 EMPRESS||||
+||[Almagest]||AKASHIC RECORDS||[DJ YOSHITAKA|Gald][TOMOSUKE|era]||17 SIRIUS||하이퍼 보면||
+||[bloomin' feeling]||HAPPY HARDCORE||[Ryu☆]||17 SIRIUS||||
+||Empire State Glory||CYBERPUNK||[Dirty Androids]||17 SIRIUS||||
+||[Keep It -秋葉工房mix-]||EUROBEAT||[DJ Command] feat. NAGISA||17 SIRIUS||||
+||Mysterious Time||EUROBEAT||[Y&Co.]||17 SIRIUS||19 Lincle에서 삭제||
+||BROKEN EDEN||SYMPHONIC-TEK||MYTHOLOGIA by MLREC.||18 Resort Anthem||무리 스크래치곡||
+||Energy Drive||HARDCORE||kevin energy||18 Resort Anthem||||
+||Never Fade Away||IIDX HANDZ UP!!||[Sota Fujimori] feat. dj MAX STEROID||18 Resort Anthem||||
+||Programmed Life||PSY TRANCE(FULL ON)||[kors k]||18 Resort Anthem||||
+||[Sakura Reflection]||HAPPY HARDCORE||[Ryu☆]||18 Resort Anthem||[리플렉 비트]에서 이식||
+||WE LOVE SHONAN||SURF＆DUB||Studio Bongo Mango feat. Likkle Mai||18 Resort Anthem||||
+||[Wuv U]||CANDY RAVE||[kors k]||18 Resort Anthem||[리플렉 비트]에서 이식||
+||[ラクエン|ラクエン Feat.Chiharu Chonan -JAKA respect for K.S.K. Remix]||TECHY FREEFORM||Remixed by JAKAZiD||18 Resort Anthem||22 PENDUAL에서 삭제||
+||[夕焼け ~Fading Day~]||AURAL ADRENALINE||JAKAZiD||18 Resort Anthem||21 SPADA에서 삭제||
+||24th Century BOY||EURO RAVE||[Tatsh]||19 Lincle||||
+||[In the Blackest Den]||PROGRESSIVE ROCK||[96|Bulluvegola]||19 Lincle||||
+||Quick Silver||RAVE FUSION||[Mystic Moon]||19 Lincle||||
+||[Scharfrichter]||HARD ROCK||[아사키|Ashemu]||19 Lincle||||
+||[Snow Goose]||ELECTRIC POMP||[Mutsuhiko Izumi]||19 Lincle||[유비트]에서 이식||
+||[ビューティフル レシート]||HAPPY HARDCORE||[DJ YOSHITAKA|Lucky Vacuum]||19 Lincle||[댄스 댄스 레볼루션] X2&[리플렉 비트 라임라이트]에서 이식||
+||ユミル||SYMPHONIC-TEK||MYTHOLOGIA by MLREC.||19 Lincle||||
+||[蛇神]||ORIENTAL MYTHOLOGY||[Zektbach]||19 Lincle||[팝픈뮤직] 18 전국열전에서 이식||
+||[Ascalon]||ELECTRO POP||[Qrispy Joybox]||20 tricoro||||
+||[Cookie Bouquets]||BREAK CORE||[L.E.D.] vs [Dormir|TOMOSUKE fw.crimm]||CS 15 DJ TROOPERS||20 tricoro에 이식||
+||Deceive Your Insight||PIECED ROCK||[Project B-]||20 tricoro||||
+||[Liberation]||TRANCE||[dj TAKA]||20 tricoro||[물렙곡|레벨 12]||
+||[New Decade] IIDX Edition||SPEED DANCE CORE||[후지모리 소타|Sota F.]||20 tricoro||[댄스 댄스 레볼루션] X2에서 이식[[br]][LIMIT BURST] 대응곡||
+||[VEGA]||UNIVERSAL J-CORE||[REDALiCE]||20 tricoro||||
+||[Saturn]||PROGRESSIVE TRIBAL||[wac|Mr.Saturn]||CS 15 DJ TROOPERS||[댄스 댄스 레볼루션] SuperNOVA2에서 이식[[BR]]20 tricoro에서 이식||
+||[ZED]||DUB STEP||[USAO]||20 tricoro||||
+||[龍と少女とデコヒーレンス]||EPIC TECHNO||[TOMOSUKE|黒猫ダンジョン]||20 tricoro||||
+||[ALBA -黎明-]||HYPER GOTHIC BEAT||[SOUND HOLIC] feat. Nana Takahashi||21 SPADA||||
+||[Cleopatrysm]||PHARAO BEAM STEP||ピラミッ℃||21 SPADA||[발견! 되살아난 BEMANI 유적] 해금곡||
+||[Critical Crystal]||DANCE SPEED||[Ryu☆|青龍]||21 SPADA||||
+||diagram||GLITCH HOP||[Expander]||21 SPADA||||
+||MAGIC & LOVE||HAPPY CORE||DJ Genki feat. Yukacco||21 SPADA||||
+||[NEMESIS] -gratitude remix- IIDX Edition||DRUM & BASS||Remixed by [PHQUASE]||21 SPADA||||
+||[Smug Face -どうだ、オレの生き様は-](ONLY ONE EDITION)||ONLY ONE ACT||[SUPER STAR 満-MITSURU-]||21 SPADA||[리플렉 비트]에서 이식||
+||[デッドボヲルdeホームラン]||ELECTRIC MANOUSH SWING||[猫叉Master]β2||21 SPADA||[열투! BEMANI 스타디움] 후반전 해금곡||
+||[御千手メディテーション]||ニューエイジ合掌コア(뉴에이지 합장 코어)||昇天家族 [* [L.E.D.]-G, [코에즈카 요시히코], [아사키], [Qrispy Joybox], [PON], [RoughSketch]의 합작명의다.]||21 SPADA||[물렙곡|레벨 12][[br]][발견! 되살아난 BEMANI 유적] 해금곡||
+||[[%23The_Relentless|#The_Relentless]]||DUBCORE||DJ Noriken||22 PENDUAL||||
+||[CHRONO DIVER -NORNIR-]||CYBER DRUM & BASS||[L.E.D.]||22 PENDUAL||미래 전용곡||
+||[Vulkan]||GYPSYCORE||[Hommarju]||22 PENDUAL||||
+
+== 비공식 난이도 11.8 ==
+11레벨에서 상급~최상급을 차지하는 곡들이 많으며, 일부 물렙 12도 이 곳에 밀집해 있다. 레벨 12도 같이 작성.
+
+||곡명||장르명||아티스트||수록작||기타||
+||LUV TO ME (disco mix)||EUROBEAT||[dj nagureo|tiger YAMATO]||1st Style||보면은 6th Style에서 추가.[[br]]16 EMPRESS에서 삭제||
+||LUV TO ME (disco mix)||EUROBEAT||[dj nagureo|tiger YAMATO]||1st Style||CS 3rd 전용 채보||
+||[R5]||RAVE||[dj nagureo|tiger YAMATO with ultrabeatbox]||3rd Style||||
+||[JIVE INTO THE NIGHT]||DANCE EXPRESS Hi-speed||CYDNEY||4th Style||14 GOLD 최종 부활 후 16 EMPRESS에서 삭제||
+||[Colors](Radio Edit.)||TRANCE||[dj TAKA]||6th Style||[물렙곡|레벨 12]||
+||[Linus]||LOUNGE POP||[wac|LEGO STUDIO]||6th Style||||
+||[route 80s]||NOISY||[wiki:"호소에 신지"Sampling masters MEGA]||6th Style||무리 스크래치곡[[br]][물렙곡|레벨 12]||
+||[[こっちを向いてよ]]||SOUL||[vivi]||6th Style||||
+||[Spica]||HOUSE||[wiki:"wac"D.JW]||7th Style||[물렙곡|레벨 12]||
+||[Giudecca]||PSYCHEDELIC TECHNO||[D.J.SETUP]||8th Style||무리 스크래치곡||
+||[rainbow flyer]||TRANCE||[dj TAKA]||8th Style||||
+||[Silvia Drive]||HAPPY HANDBAG||[dj TAKA] feat.[Noria]||9th Style||무리 스크래치곡||
+||[泰東ノ翠霞]||JAPANESE POPS||bermei.inazawa/feat. [시모츠키 하루카|霜月はるか]||CS 10th Style||[물렙곡|레벨 12][[br]]아케이드 미수록 곡으로, 이식시 추정 레벨.||
+||[FAKE TIME]||HARD ROCK||[DJ Remo-con]||11 RED||[물렙곡|레벨 12][[br]]하이퍼 보면||
+||[GAMBOL]||BIG BEAT||[SLAKE]||CS 11 RED||[물렙곡|레벨 12][[br]]아케이드에 이식되지 않은 CS판 전용채보.||
+||[100% minimoo-G]||SYNTHETIC PROGRESSIVE ROCK||[Sota Fujimori]||12 Happy Sky||||
+||[민트|MINT]||ELECTRONICA||[SLAKE]||13 DistorteD||[물렙곡|레벨 12]||
+||Shoot'Em All||DETROIT TECHNO||Manabu Namiki||CS 13 DistorteD||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[The Hope of Tomorrow]||CYBORG TRANCE||[Sota Fujimori]||CS 13 DistorteD||아케이드에 이식되지 않은 CS판 전용채보.||
+||[Candy Galy]||HAPPY||[wiki:"dj TAKA"Risk Junk-G.]||14 GOLD||[물렙곡|레벨 12]||
+||[Second Heaven]||HANDZ UP||[Ryu☆]||14 GOLD||||
+||[Pluto]||SUPERNOVA2 BEAT EX||[NAOKI|Black∞Hole]||CS 15 DJ TROOPERS||아케이드 미수록 곡으로, 이식시 추정 난이도.[[BR]][댄스 댄스 레볼루션] SuperNOVA2에서 이식[[BR]]하이퍼 보면||
+||[NEW GENERATION -もう、お前しか見えない-]||ONLY ONE EURO BEAT||[SUPER STAR 満-MITSURU-]||15 DJ TROOPERS||||
+||[oratio]||HYMNUS||[wiki:"wac"蓑舞衆]||15 DJ TROOPERS||[물렙곡|레벨 12]||
+||[STEEL NEEDLE]||BREAKCORE||[L.E.D.|Scorpion]||15 DJ TROOPERS||||
+||[Go Beyond!!]||TRANCE CORE||[Ryu☆] Vs. [wiki:"후지모리 소타"Sota]||CS 13 DistorteD||16 EMPRESS에 이식[[br]]레벨 12||
+||[Programmed World]||PSY TRANCE(FULL ON)||[kors k] as StripE||16 EMPRESS||||
+||[Secrets]||TECH-PARA||[good-cool] ft. CHiCO||16 EMPRESS||||
+||You'll say "Now!"||ONLY ONE TECHNO||BLACK STAR 幸広-YUKIHIRO-||16 EMPRESS||||
+||[Session 1 -Genesis-]||ELECTRIC FUSION||[PRASTIK DANCEFLOOR]||17 SIRIUS||||
+||[perditus†paradisus]||ANTHEM CORE||[dj TAKA|icono][wac|clasm]||18 Resort Anthem||하이퍼 보면||
+||[Kailua]||ENERGETIC HAWAIIAN TRANCE||[kors k]||18 Resort Anthem||[물렙곡|레벨 12]||
+||[Watch Out Pt.2]||TECH-BREAKBEATS||[DJ Mass] Mad Izm* vs. [DJ YOSHITAKA]||18 Resort Anthem||||
+||[532nm]||HARDCORE||[Ryu☆]||19 Lincle||[유비트 코피어스 어펜드] 동시수록||
+||[Almace]||TECHNO||[Qrispy Joybox]||19 Lincle||||
+||[prompt]||NU PROGRESSIVE||[wac|w]×[후지모리 소타|s] ft.*spiLa*||19 Lincle||||
+||[SA.YO.NA.RA. SUPER STAR]||ONLY ONE FINALE||[SUPER STAR 満-MITSURU-]||19 Lincle||||
+||[Yellow Sunrise]||DRUM'N'BASS||xac||19 Lincle||||
+||[Sol Cosine Job 2]||FREEFORM HARDCORE||[DJ TECHNORCH]||20 tricoro||하이퍼 보면[[br]][LIMIT BURST] 대응곡||
+||[rumrum triplets]||LOUNGECORE||[wiki:"토키와 유우"yu_tokiwa][wiki:"wac".djw]||20 tricoro||[물렙곡|레벨 12]||
+||[S!ck]||DRUMSTEP||[kors k|Eagle]||20 tricoro||||
+||Take My Life||EUROBEAT||[Y&Co.]||20 tricoro||||
+||[BRAINSTORM]||TRANCECORE MEETS GABBA||Hardcore United Tokyo ([teranoid] & [DJ TECHNORCH])||CS 15 DJ TROOPERS||[물렙곡|레벨 12][[br]]21 SPADA에 이식||
+||[HYENA]||BIG BEAT||[Hommarju]||21 SPADA||[열투! BEMANI 스타디움] 전반전 해금곡||
+||[KAISER PHOENIX]||HEAVY METAL||[96]||21 SPADA||어나더 보면[[br]][[br]][기타프릭스] & [드럼매니아] XG&V7에서 이식[[br]][열투! BEMANI 스타디움] 해금곡||
+||[NEO GENERATOR SEVEN]||MAINSTREAM HARDCORE||[L.E.D.]-G||22 PENDUAL||||
+||とろぴかる倶楽部||TROPICAL||HALFBY||22 PENDUAL||||
+
+== 비공식 난이도 12.0~ ==
+11레벨에서 내로라하는 최강급 난이도 내지 11레벨 사기곡들이 모여 있는 레벨. 12로 치면 최하급~하급 수준이지만, 12 내에서도 충분히 레벨 값을 하는 수준.
+
+||곡명||장르명||아티스트||수록작||기타||
+||[SWEET LAB]||LOUNGE HOUSE||[DJ SIMON]||4th Style||비공식 난이도 추정치 12.3[[br]]7th Style에서 삭제[[br]]11 RED에서 부활후 13 DistorteD에서 재삭제||
+||[xenon]||ELECTROSHOCK||[Mr.T]||8th Style||||
+||[Do it!! Do it!!]||N-BEAT||[Ryu☆|Kraken]||AC 15 DJ TROOPERS||비공식 난이도 추정치 '''12.4'''[[br]]AC DJ TROOPERS 당시의 채보로, 추정 난이도||
+||Battle Train -IIDX Edition-||HARD DANCE||[Sota Fujimori]||CS 15 DJ TROOPERS||아케이드 미수록 곡으로, 이식시 추정 난이도.||
+||[Marie Antoinette]||宮廷円舞曲||[TOMOSUKE|Marguerite du Pré]||16 Empress||||
+||[不沈艦CANDY]||HARDCORE||[Risk Junk]||16 Empress||||
+||[ALBIDA]||HARD RENAISSANCE||[DJ YOSHITAKA]||18 Resort||[유비트 리플즈 어펜드]에서 이식||
+||[Castle on the Moon]||DANCE SPEED||[Ryu☆|青龍]||19 Lincle||[Lincle Link] 연동곡[[br]][리플렉 비트 라임라이트]에서 이식||
+||[I'm so Happy]||HAPPY HARDCORE||[Ryu☆]||19 Lincle||[유비트 니트]에서 이식||
+||Light and Cyber...||HAPPY HARDCORE||Tatsh||20 tricoro||||
+||[VALLIS-NERIA]||TRANCE CORE||[DJ YOSHITAKA]||20 tricoro||[쿠프로·미미냐미·파스텔군의 다함께 우주전쟁!!] 해금곡[[br]][리플렉 비트 라임라이트]에서 이식||
+||[Illegal Function Call]||ORBITALIC CORE||[U1-ASAMi]||20 tricoro||||
+||[AtröpΦs]||NEUTRONIKA||[sasakure.UK]||21 SPADA||||
+||[Funny Shuffle]||JAG GLITCH||[猫叉Master]+||21 SPADA||||
+||[Symmetry]||EPIC ELECTRONICA||[猫叉Master]||22 PENDUAL||||

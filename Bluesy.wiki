@@ -1,0 +1,101 @@
+http://109.imagebam.com/download/C1lXi4n0WBesAto-SHIh7Q/39160/391594449/Bl-nm.jpg
+
+[[목차]]
+|| 장르 |||||||| (미표기) ||
+|| 곡명 |||||||| Bluesy ||
+|| 작곡 |||||||| cznych ||
+|| 배경 |||||||| [[FOX-B]] ||
+|| 최초 수록버전 |||||||| [[EZ2AC : EVOLVE]] ||
+|| BPM |||||||| 110 ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC : EVOLVE]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 9 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#FF0000> 5K RUBY || {{{#orange 6 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 8 }}} || {{{#red 12 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 8 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 9 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 8 }}} || {{{#red 13 }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 12 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+||<#ffffff> TURNTABLE || {{{#orange 10 }}} || {{{#red - }}} || {{{#purple - }}} || {{{#blue - }}} ||
+ * 코스 수록은 [[EZ2DJ/라디오채널 일람]]을 참고.
+ * [wiki:"EZ2AC/수록곡 일람" 수록곡 목록으로 돌아가기]
+
+== 개요 ==
+{{{#!HTML
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/192029588&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+}}}
+||||Cradle Edge 2집 앨범 목록||
+||트랙||타이틀||
+||01||Minimalism Color ||
+||02||[[flat shoes]] ||
+||03||[[May%20I%20Come%20In%3F|May I Come In?]] ||
+||04||[[Venn diagram -interlude-]] ||
+||05||[[mello mello]] ||
+||06||'''Bluesy''' ||
+
+Cradle Edge 2집 May I come in?의 마지막 수록곡. 차분하고 애수어린 곡조와 보컬이 포인트로 해당 앨범의 숨겨진 명곡이다. 백미는 곡 중반부의 피아노 연주구간으로 다양한 모드에서 잘 구현되어 있다.
+
+다른 동시수록곡과는 달리 이곡은 어째서인지 NM과 HD의 아이캐치가 완전 동일하다.
+
+BGA는 도심의 밤 풍경을 담은 실사 영상이다.
+== 패턴 ==
+=== 5K ONLY ===
+[[html(<iframe width="640" height="480" src="https://www.youtube.com/embed/2miXwDha0EI" frameborder="0" allowfullscreen></iframe>)]]
+NM - 9
+스탠더드의 8렙의 키파트 채보와는 방향성이 꽤나 다른 채보를 보여주고 있다. 다른 9렙 채보에 비하면 하급.
+=== 5K RUBY ===
+
+=== 5K STANDARD ===
+
+=== 7K STANDARD ===
+
+=== 10K MANIAC ===
+
+=== 14K MANIAC ===
+=== EZ2CATCH ===
+
+=== TURNTABLE ===
+
+== 가사 ==
+||흔들흔들 촛점이 흐려져
+어둡게 불을 꺼줘
+들려오는 Blues rhythm
+dum du-rum du-ru 문을 닫아
+
+눈부신 다리 위의 조명
+어지럽게 흩어진 공기
+한 잔의 와인에 취한 이 밤은
+
+터널 속을 걸어가고 있었지
+깨져버릴 것 같아
+엉킨 머리 속을 헤집어 보다
+I feel alive while you're dying
+
+
+어디부터 잘못됐던 걸까
+무엇을 쫓던거야
+한 번쯤 돌아가고 싶다면 이게 주정일까
+
+화려한 도시의 뒷 면에
+겹겹이 쌓아 올린 욕망
+다 가진 줄로만 착각 했었어
+
+터널 속을 걸어가고 있었지
+깨져버릴 것 같아
+엉킨 머리 속을 헤집어 보다
+I feel alive while you just go away
+
+
+후회는 자연스런 표현
+부끄러운 줄 알아야지
+잠시만 이대로 음악에 취해
+
+터널 속을 걸어가고 있었지
+깨져버릴 것 같아
+엉킨 머리 속을 헤집어 보다
+I feel alive while you just fade out
+
+터널 속을 걸어가고 있었지
+답을 찾고 싶어서
+이미 알고 있었는 지도 몰라
+I feel alive while you just go away||

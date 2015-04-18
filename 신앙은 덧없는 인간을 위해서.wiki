@@ -1,0 +1,52 @@
+'''信仰は儚き人間の為に'''
+
+[[목차]]
+
+== 개요 ==
+[[동방 프로젝트]]의 등장인물 [[코치야 사나에]]의 테마곡이다.
+
+[[동방풍신록]]에서
+{{{#!HTML
+<audio controls><source src="http://ksmetalslug.tistory.com/attachment/cfile23.uf@212074475113182D2BA020.ogg" type="audio/ogg"><source src="http://cfile1.uf.tistory.com/media/211AB147511318293443C4" type="audio/mpeg"><object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf" width="200" height="20" id="dewplayer" name="dewplayer"><param name="wmode" value="transparent" /><param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf" /><param name="flashvars" value="mp3=http://pds27.egloos.com/pds/201301/20/75/th10_11.mp3" /></object></audio>
+}}}
+
+[[동방비상천칙]]에서
+{{{#!HTML
+<audio controls><source src="http://ksmetalslug.tistory.com/attachment/cfile28.uf@210FAE41511A431C098C9C.ogg" type="audio/ogg"><source src="http://cfile28.uf.tistory.com/media/26076C41511A431A135ED2" type="audio/mpeg"><object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf" width="200" height="20" id="dewplayer" name="dewplayer"><param name="wmode" value="transparent" /><param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf" /><param name="flashvars" value="mp3=http://pds27.egloos.com/pds/201302/06/75/th123_07.mp3" /></object></audio>
+}}}
+
+== 리믹스 ==
+attachment:/demetori_c73.jpg
+
+{{{#!HTML
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/4XsTCPD6Zhc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/4XsTCPD6Zhc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+SOUND ONLY
+
+[[Demetori]]가 2007년 12월 31일 C73에서 배포한 앨범 'Il Mondo dove e finito il tempo'[* 라틴어로 시간이 끝나버린 세계]에 '信仰は儚き人間の為に　～ Jehovah's YaHVeH(제호버즈 야베, 여호와의 야훼)'가 수록되었다.
+
+다른 리믹스에 대해서는 항목 생성이나 여기에 [[추가바람]]
+
+== [[사운드 볼텍스]]에 수록 (信仰は儚き人間の為に ～ Arr.Demetori) ==
+[[Demetori]]의 信仰は儚き人間の為に ～ Jehovah's YaHVeH가 종교적 문제인지 부제가 'Arr.Demetori'로 바뀌어 수록되었다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://sdvx.info/img/jacket2/shinkouhahakanakiningennotameni_exh.jpg?width=150 || http://sdvx.info/img/jacket2/shinkouhahakanakiningennotameni_exh.jpg?width=150 || http://sdvx.info/img/jacket2/shinkouhahakanakiningennotameni_exh.jpg?width=150 ||
+|| 난이도 || {{{#purple 05}}} || {{{#orange 11}}} || {{{#ff009f 15}}} ||
+|| 체인 수 || {{{#purple 0617}}} || {{{#orange 1154}}} || {{{#ff009f 2019}}} ||
+|| 일러스트 담당 || {{{#purple 結城えいし}}} || {{{#orange 結城えいし}}} || {{{#ff009f 結城えいし}}} ||
+|| 이펙터 || {{{#purple 逆球レジェンド}}} || {{{#orange 逆球レジェンド}}} || {{{#ff009f 逆球レジェンド}}} ||
+|| 수록 시기 |||||| {{{#ff00ec II 34(2014.05.16)}}} ||
+|| [[BPM]] |||||| 220 ||
+
+자켓은 앨범 'Il Mondo dove e finito il tempo'의 것을 그대로 사용.
+
+{{{#!HTML
+<object width="420" height="640"><param name="movie" value="//www.youtube.com/v/GAphC2gu0iI?version=3&amp;hl=ko_KR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/GAphC2gu0iI?version=3&amp;hl=ko_KR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="640" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXH 패턴 클리어 영상
+
+사운드 볼텍스 역사상 8번째 15레벨 동방곡이다. FX와 BT가 혼합된 폭타와 [* FX와 BT가 혼합된 폭타가 220bpm이라는 빠른 속도에 몰려나오기때문에 이 폭타를 정확하게 처리할수 있는 유저는 얼마 되지 않는다.] [[Dignity(비마니 시리즈)|양 노브를]] [[BLACK or WHITE%3F|한손으로 처리하는 패턴]]이 주를 이룬다. 대부분의 유저들의 평은 [[BLACK or WHITE%3F|블화]] 열화판. 전체적으로 봤을땐 중상위권 정도이다.

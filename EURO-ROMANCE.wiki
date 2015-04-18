@@ -1,0 +1,89 @@
+[[목차]]
+
+== 개요 ==
+attachment:EURO-ROMANCE.png
+
+[[BEMANI 시리즈]]의 곡. 작곡은 K-MASERA. K-MASERA는 당시 사운드 프로듀서였던 [[Tatsh]]의 인맥으로 참가하게 되었다. Tatsh의 스승 중 한 명. 이후 동인씬 등지에서 활동을 지속중이며 C80에 발매된 Tatsh의 개인 앨범 EVER GREEN의 수록곡 홀로그램 로맨스를 같이 작곡하기도 했다. 특이 사항이라면 이 곡은 비트매니아 IIDX Lincle에 수록된 Drive me Crazy의 보컬이기도 한 후루카와 미린(古川未鈴)이 보컬을 맡았다.
+
+장르는 80s TECHNO. 통통 튀는 느낌의 테크노팝이다. [[프랑스어]]로 된 가사가 있다. 자세한 가사는 하위 항목을 참조바람.
+
+== [[비트매니아 IIDX]] ==
+{{{#!HTML
+<iframe width="480" height="360" src="//www.youtube.com/embed/vSfmjMyJtJU" frameborder="0" allowfullscreen></iframe>}}}
+어나더 채보 영상
+
+{{{#!HTML
+<iframe width="480" height="360" src="//www.youtube.com/embed/xtKh1c2Jzqs" frameborder="0" allowfullscreen></iframe>}}}
+[[BGA]] 영상
+
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 161 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 497}}} || {{{#orange 8}}} || {{{#orange 933}}} || {{{#red 10}}} || {{{#red 1056}}} || {{{#blue 5}}} || {{{#blue 494}}} || {{{#orange 8}}} || {{{#orange 893}}} || {{{#red 11}}} || {{{#red 1363}}} ||
+
+ * [[비트매니아 IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 13 DistorteD~
+ * 가정용판 수록 : 13 DistorteD
+
+SP어나더는 약한 동시치기가 메인이 되는 채보. 10짜리 치고는 스코어링도 쉽고, 중급 유저들이 치기 좋은 곡이었다.
+
+BGA 레이어 제작은 [[MAYA]].
+
+== [[리플렉 비트 시리즈]] ==
+|||||| [[리플렉%20비트%20라임라이트/해금요소#s-3.1|LIME UP 시스템]] ||
+||||||<#E7FFEA><:>'''limelight 2'''||
+||<:>2-1 글래스|| ||<:>2-2 글래스||
+||<:>[ツキミチヌ] (25)|| ||<:>[INTO YOUR HEART (Ruffage remix)] (25)||
+||<:>▼|| ||<:>▼||
+||<:>[Music-U] (35)|| ||<:>'''EURO-ROMANCE''' (35)||
+||||||<#E7FFEA><:>'''limelight 3'''||
+||<tablewidth=100%><width="33%"><:>3-1 글래스||<width="34%"><:>3-2 글래스||<width="33%"><:>3-3 글래스||
+||<:>[SHION] (43)||<:>[Sakura Sunrise] (43)||<:>[OVER THE LIMIT!] (43)||
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 161 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 6}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 212}}} || {{{#orange 256}}} || {{{#red 394}}} ||
+|| 수록버전 ||||||||<#82eb5a> [[리플렉 비트 라임라이트]] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 29 ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/GN9m6kzn0RU" frameborder="0" allowfullscreen></iframe>}}}
+
+리플렉 비트 라임라이트에 이식.
+
+패턴은 어렵지 않으나, 사람에 따라서 QMA8 결승전보다 더 어려울 수도 있는 악곡. 특히 [[회수]] 난이도가 상당히 높기 때문에 레벨8 '''보스곡'''에 속한다. 다만 인기가 있는 곡은 아니라서 선곡률이 지극히 낮다. 해금 순서도 상당히 초반이기도 하고.
+
+이 곡은 패턴보다는 박자가 문제. 비트매니아 IIDX의 패턴과 비슷한 편이라 원래 수록된 버전을 플레이 해 본 사람들은 비교적 수월하긴 하나 리플렉비트로 처음 접하는 사람들에게는 상당히 박자가 난해하다.
+
+레벨 8 최상급의 패턴을 보류했지만 곡의 인기가 저조했던지라 결국 [[리플렉 비트 그루빈]]에서 삭제되었다.
+
+== 같이보기 ==
+=== 가사 ===
+||<bgcolor=#E9ECEF>Je dois partir
+난 가야만 해요
+
+Je resterais bien encore un peu mais…
+좀 더 머무르고 싶지만...
+
+N'oublie pas de m'écrire
+나에게 편지를 쓰는 걸 잊지 마세요
+
+N'oublie pas de m'écrire
+나에게 편지를 쓰는 걸 잊지 말아요
+
+Tu vas me manquer
+당신이 그리울 거에요
+
+Je resterais bien encore un peu mais…
+좀 더 머무르고 싶지만...
+
+Je dois partir
+난 가야만 해요
+
+J'espère vous revoir très bientôt
+금방 또 만날 수 있길 바래요
+
+Bon voyage
+즐거운 여행 되기를.||

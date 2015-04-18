@@ -1,0 +1,51 @@
+{{{+2 '''恋スルラジオ''' }}}
+
+http://pds10.egloos.com/pds/200808/14/01/f0042301_48a3c4cd3f356.jpg
+
+[[니코니코 동화]]의 시리즈 중 하나.
+[[하츠네 미쿠]]를 이용하여 진행하는 웹 [[라디오]]이며, 제작자는 초기 미쿠의 대표곡 중 하나인 <恋スルVOC@LOID>를 작곡한 [[OSTER project]]. 라디오명 자체가 저기에서 따 온 것이다. 2008년 7월에 제 5화까지 갱신.
+
+하츠네 미쿠와 OSTER 자신을 대변하는 캐릭터인 [[시나몬]][* 라디오 내에서는 보통 'うｐ主'라고 통칭된다. 업로더 라는 뜻이고 딱히 이 시리즈 외에도 니코동 전체에서 쓰인다.]을 통해 진행하고 있으며, 일반적인 웹 라디오의 구성을 그대로 따르고 있다.
+
+부정기 업데이트인 탓에 고정 코너는 없지만, 3화부터 추가된 사연 소개 코너만은 반드시 포함된다. 그 외 중간중간 들어가는 광고 등에 네타를 포함시키는 구성이 청취자들에게 좋은 반응을 얻고 있다.
+
+오프닝 BGM은 OSTER의 '미라클 페인트'(의 마지막 부분)이며, 가끔 나오는 방송중단시의 BGM은 'おやすみのうた'. 엔딩은 그때그때 다르다. 2화의 경우 'Dreaming leaf -ユメミルコトノハ'가 사용되었다.
+
+[http://fuwafuwacinnamon.sakura.ne.jp/]에서 대본을 확인할 수 있다.
+
+[[각주]]
+=== 라디오 TV 하츠네 미쿠의 사랑하는 라디오 ===
+OSTER의 '사랑하는 라디오'에 영상을 붙인 버전. 라디오 공개 녹음이 컨셉이다. 제작자는 ヲフ(Worf). 원작을 120% 살리는 아기자기한 영상을 통해 사랑하는 라디오를 널리 퍼트리는 데에 지대한 공헌을 했다. 2008년 12월에 제 4화분 갱신.
+
+현재는 하츠네 미쿠 오리지날 곡인 <フライングスタート>의 PV를 제작하고 있기에 라디오 TV의 갱신은 여전히 미정으로 남아 있다.
+
+=== 영상 ===
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/D4SzK7coOVc&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/D4SzK7coOVc&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+제 1화 (라디오 TV 버전)
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/VtrBzJTnTvY&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VtrBzJTnTvY&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+제 2화 (라디오 TV 버전)
+
+{{{#!html
+<object id='egloosPlayer' name='egloosPlayer' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9.0.115.00' width='480' height='400'><param name='movie' value='http://v.egloos.com/v.sk/egloos/f0042301|933936/20081009221000000703011701' /><param name='allowFullscreen' value='true' /><param name='allowScriptAccess' value='always' /><param name='wmode' value='transparent' /><param name='flashvars' value='useCodePage=0&enableJS=0' /><embed src='http://v.egloos.com/v.sk/egloos/f0042301|933936/20081009221000000703011701' name='egloosPlayer' wmode='transparent' allowScriptAccess='always' allowFullscreen='true' width='480' height='400' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' flashvars='useCodePage=0&enableJS=0' /></object>
+}}}
+제 3화
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/s2jh6Lv_5XA&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/s2jh6Lv_5XA&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+제 4화 (라디오 TV 버전)
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/-W8g7Ob4Vj4&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-W8g7Ob4Vj4&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+제 5화 (게스트 : [[카가미네 린·렌]])
+
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/OMiqFibeDiM&hl=ko&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OMiqFibeDiM&hl=ko&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+사랑하는 라디오 미니 (게스트 : [[도날드 맥도날드]])

@@ -1,0 +1,75 @@
+[[목차]]
+|| 최초 수록 버전 || [[Sabin Sound Star]] ||
+|| 작곡 || [[SpringHead]] ||
+|| 보컬 || [[wiki:"밤푸딩" Kuripurin]] ||
+|| 배경 || [[L.Y.S]] ||
+|| 장르 || Electro Pop[* 작곡가 언급 http://ask.fm/xxx2130] ||
+|| BPM || 123 ||
+{{{#!HTML
+<object style="height: 390px; width: 600px"><param name="movie" value="http://www.youtube.com/v/nxRm5O8-bYw?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/nxRm5O8-bYw?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="600" height="390"></object>
+}}}
+'''[[Sabin Sound Star]] BGA (Instrumental version)'''
+== 개요 ==
+{{{#!HTML
+<iframe width="500" height="315" src="http://www.youtube.com/embed/8WZ2GhFG5a0" frameborder="0" allowfullscreen></iframe>
+}}}
+'''3S Arcade HD패턴'''
+
+[[Sabin Sound Star]]의 수록곡. 한국인 여성 보컬인 밤푸딩이 보컬을 불렀는데, 정작 3S가 유투브에 공개한 영상은 보컬이 없는 Instrumental version이다.
+
+여담으로 "화려한 조명과" 부분이 [[몬데그린]] 현상으로 화려한 조명'''빨'''(..)이라고 들리기도 한다.
+
+== [[EZ2DJ]]에서의 Sensation of Stage ==
+|| 최초 수록버전 |||||||| [[EZ2DJ BE]] ||
+|||||||||| 모드별 레벨 데이터 ※[[EZ2AC EV]] 기준 ||
+|| 모드/레벨 || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD}}} || {{{#blue EX}}} ||
+||<#ffffff> 5K ONLY || {{{#orange 7}}} || {{{#red 9}}} || {{{#purple 11}}} || {{{#blue -}}} ||
+||<#FF0000> 5K RUBY || {{{#orange 5}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#00ff00> 5K STANDARD || {{{#orange 6}}} || {{{#red 9}}} || {{{#purple 11}}} || {{{#blue -}}} ||
+||<#ff8c00> 7K STANDARD || {{{#orange 10}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#0000ff> 10K MANIAC || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#c0c0c0> 14K MANIAC || {{{#orange 7}}} || {{{#red 12}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ff99ff> EZ2CATCH || {{{#orange 11}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+||<#ffffff> TURNTABLE || {{{#orange 9}}} || {{{#red -}}} || {{{#purple -}}} || {{{#blue -}}} ||
+ * 코스 수록은 [[EZ2AC/라디오채널과 코스]]를 참고.
+ * [[EZ2AC/수록곡 일람|수록곡 목록으로 돌아가기]]
+
+[[wiki:"EZ2DJ 7thTRAX BONUS EDITION" EZ2DJ BE]]에도 수록되었는데, [wiki:"Thrust Out" 3S의 패턴을 그대로 들고 와서] 초반과 후반에 [[wiki:"스크래치곡" 스크래치가 마구잡이로 쏟아져 나오는 패턴]]이 많다. 또한 이 곡을 EZ2DJ에서 선곡할 때 보면 선곡 화면에 SpringHead Mix feat.Kuripurin이라고 하는 부제가 붙어 있다.
+
+EZ2AC EV 1.5 업데이트 이후로 기존까지 쓰던 범용 BGA 대신 3S에서 볼 수 있었던 BGA를 볼 수 있게 되었다.
+
+=== 5K ONLY ===
+=== 5K RUBY ===
+=== 5K STANDARD ===
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/LhAXjpIrPWU?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/LhAXjpIrPWU?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+NM & HD MIX
+
+난이도는 EZ2DJ 스트릿 기준 노멀 6, 하드 9. BE 때에는 이것보다 1 높은 표기난이도를 가졌으나 BE rA 패치 후 현재의 난이도로 되었다. 하드 패턴은 스크래치 연습에 좋다. [Black Flame] NM 패턴 같은 형태의 스크래치가 나오면서 노트 부분은 상당히 쉽다.
+
+[[EZ2AC EV]]에서 Lv.11의 슈퍼 하드 패턴이 새로 만들어졌다. 하드의 스크래치 패턴에 건반부 롱잡을 채용한 패턴으로, 손이 상당히 꼬이기 쉬운 패턴. 대략 중상급 포지션을 맡을 수 있을 정도이고, 스크래치와 노트, 페달의 조화가 상당히 잘 되어 있는 패턴으로 손꼽힌다.
+=== 7K STANDARD ===
+=== 5K COURSE ===
+[wiki:"EZ2AC/Znpfg" Ch.znpfg] 채널에 있는 전용 채보는 슈퍼 하드 채보보다 더 심하게 손을 묶어 놓는, 체감 Lv.11 수준의 롱잡+스크 패턴이다. 중간중간에 [[Le Grand Bleu]] SHD 같은 데에서 잠깐 나오는 1/4박 페달이나, 최후반부에 스크연사+건반롱잡+1자연타가 나오는 등, 올콤하기 곤란한 채보를 만들어 놨다.
+=== 7K COURSE ===
+=== 10K MANIAC ===
+=== 14K MANIAC ===
+EV 1.3c까지 있었던 Lv.12짜리 패턴은 EV 1.5 이후의 HD 패턴이다.
+EV 1.5에서 Lv.7의 NM 패턴이 만들어졌는데, 등장하자마자 바로 직전 버전이었던 1.3c까지 최고 불렙으로 평가받던 [[Lucid]] NM의 뒤를 잇는 사기 패턴으로 등극하였다. 초심자들에게 거의 무리 수준으로 인식되는 스크래치 패턴이 최고로 난감하며, 특히 초심자의 유서 깊은 무덤으로 악명 높던 [[느낌]]보다 더 심각한 봉산탈춤 구간은 그야말로 초심자 입장에서는 지옥.
+=== TURNTABLE ===
+턴테이블 모드에서는 레벨 9로 등장하였는데, [wiki:"Irregular Liner" 하드 패턴을 거의 그대로 갔다 박은 패턴]을 들고 왔다. 곡 중반까지, "퍼져가는 음악에" 보컬이 시작되는 부분 전까지, 패턴이 대체적으로 찰지지만, 그 이후로부터는 구간들이 대체로 심심한 것이 단점. 물론 마지막 구간되면 후살의 기운이 넘쳐흐르는 노트들이(..) 떡칠되어 쏟아져 내려오곤 한다. 그러니 마지막 구간만 주의한다면 9레벨 치고는 크게 문제될 건 없는 곡.
+
+== 가사 ==
+||화려한 조명과 흔들리는 그림자
+뜨거운 무대위 소리치는 관중들
+나를 바라보는 시선 미칠 듯 소리치는 환호성
+나를 두드리는 베이스 드럼 터질 듯 뛰어데는 내 심장
+
+퍼져가는 음악에 리듬에 너와 내가 하나가 되어 숨을 쉬고
+쌓여버린 짜증은 이 순간에 모두 이 자리에 버려둬
+너와 함께한 지금 이 순간 숨어 있지 말고 가슴을 펼쳐봐
+손을 하늘로 높게 뛰어봐 있는 힘껏 소리쳐봐
+
+우리 함께한 오늘 이 시간 자신을 가지고 더 크게 외쳐봐
+저 하늘 높이 날아 올라봐 있는 힘껏 흔들어봐 Dance With Me||

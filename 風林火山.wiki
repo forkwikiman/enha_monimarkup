@@ -1,0 +1,22 @@
+||<bgcolor=#E9ECEF>사자성어의 뜻을 찾아오셨다면 [[풍림화산]] 항목을 참고하세요.||
+
+== [[팝픈뮤직]]의 수록곡 ==
+{{{#!html
+<object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/2LZbPFBoXyM?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2LZbPFBoXyM?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>}}}
+
+|| 출전 || 장르명 || 곡명 || 작곡가 명의 || 담당 캐릭터 ||
+|| pop'n music 18[[br]]전국열전 || 陣旗プログレッシブ[[br]]진기 프로그레시브 || 風林火山[[br]]풍림화산 || [[96]] || SHISHITUGU[[br]]시시츠구 ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue 5버튼 / EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+||<|2> 92~162 || 43단계 || {{{#blue 13}}} || {{{#green 22}}} || {{{#orange 36}}} || {{{#red 41}}} || 
+|| 50단계 || {{{#blue --}}} || {{{#green 28}}} || {{{#orange 42}}} || {{{#red 48}}} ||
+
+[[팝픈뮤직]] 18 전국열전의 수록곡으로 [[96]]의 3번째 팝픈뮤직 참전곡.
+시리즈의 컨셉이 전국시대이기도 하고, 장르명이 "진기"[* 진영의 깃발] 프로그레시브인 걸로 보아 [[풍림화산]] 항목의 다케다 신겐이 사용했다는 풍림화산 군기를 모티브로 한 곡으로 보인다. 96의 개인앨범인 BLACK ALBUM에 롱버젼이 수록되었다.
+
+"바람처럼 빠르게, 숲처럼 고요하게, 불처럼 맹렬하게, 산처럼 묵직하게" 를 곡과 채보를 통해 표현했다. 덕분에 기승전결이 뚜렷한 곡으로 채보 또한 각 부분의 특징을 잘 살린 패턴이 특징.
+
+그러나 문제는 최후반의 '''산처럼 묵직하게''' 부분에 저속 [[변속]]이 존재하는데 41레벨짜리 EX채보의 경우 이 부분의 노트 밀집도가 장난이 아니기 때문에 '''[[후살]]곡이다.''' [[wiki:"蛇神" 카가치]] EX패턴의 후살구간을 방불케 하는 계단 + 동시치기 패턴... 이 저속으로 떨어진다. 그래서 초중반부까지는 쉽고 노트수도 적은데도 불구하고 사신 EX와 맞먹는 수준의 41레벨 상급곡으로 자리잡고 있다. 하지만 저속 처리에 자신있는 플레이어라면 쉽게 클리어할 수도 있는 개인차 곡이기도 하다.
+36레벨의 하이퍼 채보도 EX 채보만큼은 아니지만 약간 후살끼가 있어 쉽지 않은 곡.
+
+EX채보는 [[서니파크]]에서 구 42에 해당하는 48로 상향되었다.

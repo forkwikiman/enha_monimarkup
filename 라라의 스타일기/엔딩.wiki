@@ -1,0 +1,21 @@
+상위 링크 - [[키라링☆레볼루션]]
+
+{{{#!HTML
+<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0'  id='NFPlayer19935' width='500' height='408'><param name='movie' value='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=EE4D23E55042A5DDA20DABF4D7CB80C86D57&outKey=V1231100fce8065deb3e6bb9ead3d6b3a7a4ab46f02a9d3c6f7c9bb9ead3d6b3a7a4a' /><param name='wmode' value='transparent' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=EE4D23E55042A5DDA20DABF4D7CB80C86D57&outKey=V1231100fce8065deb3e6bb9ead3d6b3a7a4ab46f02a9d3c6f7c9bb9ead3d6b3a7a4a' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer19935' id='NFPlayer19935' allowFullScreen='true' type='application/x-shockwave-flash' /></object>
+}}}
+1기 엔딩 'Never Say Goodbye'
+
+[[라라의 스타일기]](키라링☆레볼루션)에 쓰인 1기 엔딩곡이다. 떠나가는 연인을 부르며 다시 돌아오라고 애원하는 분위기의 곡으로 유일하게 비극적인 분위기를 풍기는 암울한 곡이다.[* 분위기가 그나마 암울한 부류에 속하는 [[뫼비우스]]도 신비스럽거나 조용하게 암울한 분위기지 이 곡처럼 비극적인 분위기는 아니다.] 실제로 들어보면 이 만화의 분위기와는 180도 다른 음악과 가사가 특징인 곡이다. 이런 분위기의 곡은 작중에 나오는 다른 곡에서는 찾아볼 수 없다.
+
+이 곡도 2기 초반에 잠깐 쓰인적이 있지만 [[Baby]]와는 달리 영상은 달라지지 않았다.
+
+가수는 한국판 1기 오프닝인 Baby와 동일한 황연경이며[* 사실 이 곡은 황연경이 소속된 [[베이비복스]]리브의 곡이다.다만 다른멤버의 파트를 황연경이 다시 부른것.홍보차에서 쓰인것으로 보인다.]다음사용된 영상은 일본판 1기 엔딩인 [[SUGAO-flavor]].
+
+{{{#!HTML
+<iframe width="500" height="408" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=EAED0B978D60271F29E78A81D0EEFCC4156E&outKey=V125fa3f0ed8330f5d7093c63ddc4c2f68cc9fe7d78ecb039a41f3c63ddc4c2f68cc9" frameborder="no" scrolling="no"></iframe>
+}}}
+2기 엔딩 '꿈을 향해'
+
+[[라라의 스타일기]](키라링☆레볼루션)에 쓰인 2기 엔딩곡이다. 1기에서의 암울한 분위기와는 달리 많이 밝아진 분위기의 엔딩곡이다.
+
+가수는 한국판 2기 오프닝인 [[Shining Star]]의 가수이기도 한 미셸 퍼플이며 사용된 영상은 일본판 9기 엔딩인 [[Olala]].

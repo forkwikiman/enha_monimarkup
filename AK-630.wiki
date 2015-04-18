@@ -1,0 +1,75 @@
+ * 상위 항목: [CIWS]
+
+||||||||||||||||<tablealign="center"> 세계 각국의 CIWS ||
+|||||||| [서방]권 |||||||||| [동구]권 ||
+|| [미국] || [네덜란드] || [독일]-미국 || [프랑스] |||||||||| [러시아] ||
+|| [팰렁스] || [SGE-30 골키퍼] || [RIM-116 RAM] || [wiki:"미스트랄" 사드랄] || [AK-630] || [AK-630M1-2] || [카쉬탄] || [Palma/Palash] || [판치르-ME] ||
+
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/AK-630_30_mm_naval_CIWS_gun.JPEG/640px-AK-630_30_mm_naval_CIWS_gun.JPEG?width=600
+
+http://img19.imageshack.us/img19/8529/eglooscom20120309031923.jpg
+
+http://img703.imageshack.us/img703/1364/eglooscom20120309031611.jpg
+
+
+||||나토명 ||ADMG-630 ||
+||||개발 시기 ||[1969년] ||
+||||배치 시기 ||[1970년] ||
+||||총열수 ||6열 [개틀링] ||
+||||구경장 ||65구경 1950mm) ||
+||||초속 ||880m/s ||
+||||구경 ||30mm ||
+||||최전각도 ||360°(좌우로 180°) ||
+||||포탑 회전속도 ||70º/s ||
+||||포탑 부앙속도 ||50º/s ||
+||||포구초속 ||890 m/s ||
+||||중량 ||3718 kg ||
+||||사속 ||5,000발/분 ||
+||<|2>사정거리 ||전기광학 관제||5,000m ||
+||레이더 관제 ||4,000m ||
+||||유효 사거리 ||3,000m ||
+||||최소 사거리 ||400m ||
+||||발사속도 ||4,000~5,000발/분 ||
+||||발사시 반동 ||13mm ||
+||||탄휴대량 ||2,000발 ||
+||||조작 병력 ||1명 (외부에서 조작) ||
+
+[[목차]]
+
+== 개요 ==
+{{{#!html
+<iframe width="580" height="423" src="http://www.youtube.com/embed/t3w5NFMddXw" frameborder="0" allowfullscreen></iframe>}}}
+
+
+AK-630은 러시아 해군의 구형 CIWS이다. 이 CIWS라는 무계체계의 초기형이라고 할 수 있다. 거의 모든 러시아 구형함에 장비된 대공방어 체계다. [카쉬탄]의 등장하기 이전에는 러시아군의 주력 CIWS였다. 카쉬탄이나 [팔마]가 개발된 이유도 서방권의 자동화된 CIWS가 AK-630의 성능을 압도하면서다. 서방권의 [팰렁스], [골키퍼] 등 새로 등장한 서방권의 CIWS는 독립적인 레이더에 의하여 독자적으로 화력관제가 된다. 이에 비해 AK-630은 전투함의 중앙통제로 연동되는 방식으로 성능이 떨어진다. 게다가 광학식 사격을 위해서는 별도의 병력이 외부에서 수동 조작을 해야 된다. 
+
+어떤 때는 해적도 상대한다. 아래 영상 참고. 
+
+
+{{{#!html
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="500" height="402" id="movie" align="middle"> <param name="quality" value="high" /> <param name="movie" value="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=pr9471&prgid=41004830&countryChk=ko&skin=1" /> <param name="allowScriptAccess" value="always" /> <param name="allowFullScreen" value="true" /> <param name="wmode" value="transparent" /> <embed src="http://flvr.pandora.tv/flv2pan/flvmovie.dll/userid=pr9471&prgid=41004830&countryChk=ko&skin=1" type="application/x-shockwave-flash" wmode="transparent" allowScriptAccess="always" allowFullScreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" width="500" height="402" /></embed> </object></iframe>}}}
+
+
+의외로 한국도 이 무기의 운용국 중 하나인데, 그 이유는 [[무레나급]] [[공기부양정]]을 러시아에서 도입할 때 이놈을 떼버리지 않고 그대로 들여왔기 때문이다. 지금도 러시아제 공기부양정들에 달려 있이므로 차후 한국군이 또 러시아 공기부양정을 도입한다면 이놈도 또다시 들여올 가능성이 있다.
+
+[북한 해군]은 예산이 부족하고 수입선이 없는 관계로 AK-630을 도입하진 못했고 대신에 AK-230의 포탑에 30mm개틀링포를 탑재한듯한 변종을 사용중이다.
+== 여러가지 버전 ==
+ * [AK-630M1-2]
+
+== AK-630을 장착한 해상 병기 ==
+|| 이름 || 종류 || 만재 배수량 || AK-630 장착 수량 ||
+|| [무레나급] || [공기부양정] || 149 톤 || AK-630 x 2 ||
+|| [주브르급] || [공기부양정] || 555 톤 || AK-630 x 2 ||
+|| [타란툴급]-1 || [미사일 고속함] || 540 톤 || AK-630 x 2 ||
+|| [나누추카급] III/IV || [미사일 고속함] || 660톤 || AK-630 x 1 ||
+|| [파르킴급](Project 1331m) || [대잠] [초계함] || 950톤 || AK-630 x 1 ||
+|| [게파르트급] 3.9(11661E) || [호위함], [초계함] || 1,930 톤 || AK-630 x 2 ||
+|| [우달로이급] II || [구축함] || 7,900톤 || AK-630 x 4 ||
+|| [소브레멘니급] II || [구축함] || 7,940톤 || AK-630 x 4 ||
+|| [카라급] || [순양함] || 9,700톤 || AK-630 x 4 ||
+|| [슬라바급] || [순양함] || 11,200 ~ 12,500톤 || AK-630 x 6 ||
+|| [키로프급] - 1번함 어드미럴 우샤코프(키로프) 2번함 어드미럴 라자레프(프룬제) || [원자력] [순양함] || 28,000 톤 || AK-630 x 8 ||
+
+== 관련 항목 ==
+ * [러시아 해군]
+ * [해상 병기/현대전]

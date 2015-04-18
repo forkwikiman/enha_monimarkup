@@ -1,0 +1,76 @@
+ * 상위 항목: [스테레구시급]
+
+
+[[목차]]
+
+== 개요 ==
+이 항목은 스테레구시급의 파생형을 기록하는 문서이다.
+
+== 종류 ==
+=== Project 2038.0 ===
+||http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/%D0%A1%D1%82%D0%B5%D1%80%D0%B5%D0%B3%D1%83%D1%89%D0%B8%D0%B9.JPG/640px-%D0%A1%D1%82%D0%B5%D1%80%D0%B5%D0%B3%D1%83%D1%89%D0%B8%D0%B9.JPG ||
+|| [2010년] [7월 25일], Steregushchiy(Стерегущий) ||
+||{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/XnEPWCTU3vo" frameborder="0" allowfullscreen></iframe>}}}||
+
+|||||| Project 2038.0의 무기체계  ||
+|| 수량 || 이름 || 종류 ||
+|| 1 ||[카쉬탄]-M ||대공 방어체계 ||
+|| 8 ||[KH-35]E 우란 ||대함 미사일 || 
+|| 8 ||Paket-NK ||[어뢰] ||
+
+|||||| Project 20380의 제원  ||
+||길이 || 93.9m ||
+||폭 || 13m ||
+||흘수 || 7.8m ||
+||배수량 || 1,900톤 ||
+||속도 || 27노트 ||
+||항속거리 || 4,000nm ||
+||가격 || 약 3,000억 원 ||
+||인원 || 90명 ||
+
+2007년 11월 14일에 스테레구시함이 취역했다.
+
+=== Project 2038.1 ===
+||http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bojkij_-_2013-07-26_12-25-52.JPG/800px-Bojkij_-_2013-07-26_12-25-52.JPG||
+|| [2013년] [7월 26일], Bojkij (Бойкий) ||
+||{{{#!html
+<iframe width="640" height="360" src="//www.youtube.com/embed/KZgqVs9wwh4" frameborder="0" allowfullscreen></iframe>}}}||
+|| НОВЫЙ КОРАБЛЬ "БОЙКИЙ" ||
+
+|||||||| Project 2038.1의 무기체계  ||
+|||| 수량 || 이름 || 종류 ||
+|| 8셀(x4;쿼드팩) || 총: 32기[* [http://en.wikipedia.org/wiki/Russian_corvette_Soobrazitelnyy Russian corvette Soobrazitelnyy]] ||Redut([9M96E/M](S-400) or [9M100]) ||대공 VLS 체계 ||
+||<|2>선택 사항 || 8 ||[KH-35]E 우란 ||대함 미사일 ||
+|| 6 ||[3M-54 클럽] ||대함 미사일 ||
+|||| 8 ||Paket-NK ||어뢰 ||
+
+|||||| Project 20381의 제원  ||
+||길이 || 104.5m ||
+||폭 || 13m ||
+||흘수 || 7.95m ||
+||배수량 || 2,220톤 ||
+||속도 || 27노트 ||
+||항속거리 || 4,000nm ||
+||가격 || 3,289억 원 ||
+||인원 || 99명 ||
+
+[2011년] ~ [2013년], 소브라지텔니(Soobrazitelny)함, 보이키(Boiky)함, 소베르셴니(Sovershenny)함등이 취역했거나 취역중이다. 
+=== Project 2038.2 ===
+ [알제리 해군] 수출용.
+
+=== Project 2038.5: 그레미야쉬치급 ===
+||http://i.imgur.com/pgcPZ6u.jpg||
+|| 그레미야쉬치급 초계함 ||
+
+|||||| Project 2038.5의 무기체계[* [http://en.wikipedia.org/wiki/Gremyashchy_class_corvette Gremyashchy class corvette]]  ||
+|| 수량 || 이름 || 종류 ||
+|| 8 ||[UKSK] ||수직 발사체계 ||
+|| 8 ||Paket-NK ||어뢰 ||
+|| 16(x4;쿼드팩): 총 64기 ||Redut([9M96E/M](S-400) or [9M100]) ||대공 VLS 체계  ||
+
+|||||| Project 20381의 제원  ||
+||배수량 || 2,500톤 ||
+
+== 관련 항목 ==
+ * [러시아 해군]

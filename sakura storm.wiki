@@ -1,0 +1,64 @@
+[[목차]]
+
+== 개요 ==
+||||||||||||||||||<#FFF6FA><table align=center> [[Ryu☆]]의 Sakura 시리즈 ||
+||<#FFFFFF><:> '''sakura storm'''[[BR]][[댄스 댄스 레볼루션/역사#s-3.6.1|DDR Universe]] ||<#FFFFFF><:> → ||<#FFFFFF><:> '''[[Sakura Sunrise]]'''[[BR]][[댄스 댄스 레볼루션/역사##s-1.14|DDR X2]] ||<#FFFFFF><:> → ||<#FFFFFF><:> '''[[Sakura Reflection]]'''[[br]][[리플렉 비트]] ||<#FFFFFF><:> → ||<#FFFFFF><:> '''[[Sakura Luminance]]'''[[BR]][[리플렉 비트 콜레트]] ||<#FFFFFF><:> →  ||<#FFFFFF><:> '''[[Sakura Mirage]]'''[[BR]][[리플렉 비트 그루빈]] ||
+
+attachment:sakura_storm.jpg?width=300
+
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 [[Ryu☆]].
+
+=== [[BGA]] ===
+[[youtube(iesarBCsDO0, width=640, height=480)]]
+DDR II에서의 BGA
+
+[[beatmania IIDX 18 Resort Anthem]]에 이식 수록될 당시엔 [[범용 BGA]]였으나, [[beatmania IIDX 20 tricoro]]에서 이 전용 BGA가 이식되었다.
+
+== [[댄스 댄스 레볼루션]] ==
+|||||||||||||| [[댄스 댄스 레볼루션]] 난이도 체계 ||
+||<|3> [[BPM]] |||||||||||||||| 싱글 플레이 ||
+|| {{{#blue BEGINNER}}} || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| {{{#blue 2}}} || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 10}}} || {{{#purple 13}}} ||
+||<|3> 184 |||||||||||||| [[더블 플레이]] ||
+|| || {{{#orange BASIC}}} || {{{#red DIFFICULT}}} || {{{#green EXPERT}}} || {{{#purple CHALLENGE}}} ||
+|| || {{{#orange 4}}} || {{{#red 7}}} || {{{#green 10}}} || {{{#purple 14}}} ||
+
+ * [[댄스 댄스 레볼루션/수록곡|곡 목록으로 돌아가기]]
+
+가정용 DDR Universe 3에 첫 수록되었으며, 아케이드엔 DDR X2에 이식수록되었다.
+
+[[youtube(g8duIyNP5wo, width=640, height=360)]]
+ESP 영상
+
+== [[beatmania IIDX]] ==
+|| 장르명 |||||| HAPPY HARDCORE[[BR]]해피 하드코어 || [[BPM]] |||| 184 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 5}}} || {{{#blue 529}}} || {{{#orange 8}}} || {{{#orange 675}}} || {{{#red 12}}} || {{{#red 1225}}} ||
+|| [[더블 플레이]] || {{{#blue 6}}} || {{{#blue 550}}} || {{{#orange 10}}} || {{{#orange 913}}} || {{{#red 12}}} || {{{#red 1498}}} ||
+
+ * [[롱노트|차지 노트]] 대응곡
+ * [[아케이드]] 수록 : [[beatmania IIDX 18 Resort Anthem|18 Resort Anthem]] ~
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+
+[[beatmania IIDX 18 Resort Anthem]]에 이식되었다. beat#2 해금곡으로, 이 당시 같이 해금된 곡 중에서 [[댄스 댄스 레볼루션|같은곳]]으로부터의 이식곡인 [[SABER WING]]이 있었다.
+
+[[youtube(PrQS9BUxCSg, width=640, height=360)]]
+SPA 영상
+
+Ryu☆곡의 고난이도 채보가 대개 그렇듯이 [[최후반살인]] 속성을 보유하여 싱글 어나더가 레벨 12를 부여받았으나 최후반살인을 감안해도 12레벨 치곤 밀도낮은 폭타와 쉬운배치로 12입문곡이라는 평을 듣는다. 오히려 이 곡보다 동 작품의 이식곡인 [[SABER WING]]이 레벨 11임에도 불구하고 훨씬 어렵다. 
+
+다만 DP의 경우에는 상당한 원핸드력과 동시치기 실력을 요구 하기 때문에 12레벨 적당선. 사람에 따라서 FLIP 옵션을 걸면 약간 더 쉬워지기도 한다.
+
+== [[리플렉 비트 시리즈]] ==
+[[youtube(056lvaHoRUc, width=640, height=360)]]
+
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2><:> 184 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 152}}} || {{{#orange 296}}} || {{{#red 468}}} ||
+|| 수록버전 |||||||| [[리플렉 비트 콜레트]] ||
+
+2014년 2월 3일 [[열투! BEMANI 스타디움]]으로 이식되었다. 이로서 Ryu☆의 Sakura 시리즈가 전부 수록된 최초의 기종이 되었다.
+난이도는 Reflection과 마찬가지로 10렙 물렙곡이라는 평가가 대세. 중반과 후반 두번의 동시치기 폭타만 조심하면 풀콤보에 어려움은 없을 듯하다.

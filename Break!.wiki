@@ -1,0 +1,99 @@
+ * [[DJMAX 시리즈/수록곡 목록]]
+
+== 개요 ==
+
+|| 최초 수록 버전 || [[DJMAX Portable 3]] ||
+|| 작곡 || Mr. Funky ||
+|| 보컬 || Garden (Ruby Star) ||
+|| 비주얼 || JUNA, EntiaJ ||
+|| 장르 || [wiki:"Pop(리듬게임)" Synth Pop Rock] ||
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="480" height="385" src="http://www.youtube.com/embed/dKtiBOTYzVI" frameborder="0" allowFullScreen></iframe>
+}}}
+(BGA와 음악)
+
+약칭은 '''브렠'''.
+
+[[DJMAX Portable 3]]에 수록된 Mr.Funky의 곡. ~~[wiki:"Hanz up!"이런 곡을] [wiki:"Supersonic ~Mr.Funky Remix~" 작곡한 사람이] [wiki:"Out Law" 이런 덕곡을 작곡했다니] [wiki:"ZET" 믿을 수가 없다.]~~[* 어쩐지 [[CROOVE]]의 [[Sunny Side]]와 [[Sweet Shining Shooting Star]]와 경우가 비슷하다. 이 두 곡 역시 노래 자체는 덕곡과는 거리가 멀지만, BGA가...]
+
+그런데 어째, 따지고 본다면 노래 자체는 덕곡과는 거리가 상당히 먼 무난한 대중 가요 느낌이 나는 팝 록 삘인데,  덕곡으로 만든건 BGA의 역할이 더 큰 듯. 가사 자체의 내용은 '''답답한 너의 모습을 부숴버려라'''[* 근데 노래 가사는 '부'''셔'''버려'라고 나오는지라 [[맞춤법]]을 조금 아는 사람은 여기가 자꾸 신경쓰이게 된다. '부시다'는 '씻다'와 같은 의미이기 때문. ~~더러운 너 자신을 씻어서 뽐내라는건가?~~] BGA도 이러한 곡의 내용에 따라, 평범한 고등학생인 이정아가 유명한 아이돌가수인 유소미를 만나 새로운 자신을 발견하게되는 이야기이다. --[[송삼동]]?--
+
+[[DJMAX Portable 3]] 한정판에 포함된 크리에이터 북에 의하면 초기 설정에서 유소미의 이름은 ''''[[고소미]]''''였다고 한다. --표절이라도 했나?--
+
+참고로 노래 중간의 간주 부분에 사용된 남성 나레이션은 Mr.Funky가 소속된 [[RRM]]의 곡 The Message의 극초반부에 삽입된 소리이다. ~~얼른 일어나서 정신차리라구.~~
+
+아래는 Break!의 가사.
+
+{{|시끌시끌 말썽 많은 세상,
+잠깐만 조용히 좀 해, 쉿! Oh! 모두 다 지겨워!
+
+답답하게 너를 가둔 갑옷 따윈 벗어 버리고
+거울속의 너를 부셔! Come On, Come On, Come On!
+I wanna Break It Out!
+
+Now! (Break! Break!)
+Don't Wanna Give It Up!
+(Break! Break!)
+Come Out and Bring it On!
+(Break! Break!)
+And Get your (own) way!
+
+누구보다 빛날 자신 있다면
+네 자신이 소중하다고 느끼면
+다시 힘차게 시작해!
+
+(Oh~ Yeah!)
+
+답답하게 너를 가둔 갑옷 따윈 벗어버리고
+거울 속의 너를 부셔! Come On, Come On, Come On!
+I Wanna Break It Out!
+
+몰개성의 너를 만든 참고서는 찢어버리고
+네 맘 속의 룰을 부셔! Come On, Come On, Come On!
+I wanna Break It Out!
+
+Now! (Break! Break!)
+Don't Wanna Give It Up!
+(Break! Break!)
+Come Out and Bring it On!
+(Break! Break!)
+And Get your (own) way! (Oh~ Yeah!)|}}
+
+== [[DJMAX Portable 3]] ==
+레벨 40대에 [[The Rain Maker]]와 같이 해금.
+곡의 난이도는 그리 높지 않다. 누가 들어도 무난한 곡이니 패턴도 쉽게 짠듯. 다만 3.2T WS 패턴은 레벨 7 치고는 노트 배치가 상당히 까다롭고 헷갈리므로 주의할 필요가 있다.
+
+리믹스 샘플 곡은 [[NB Girls]]. 어쩐지 잘 들어 보면 보컬도 NB Girls의 그것과 비슷하다.
+
+=== 게임 플레이 ===
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="480" height="385" src="http://www.youtube.com/embed/gVylHn_9H7I" frameborder="0" allowFullScreen></iframe>
+}}}
+(4.2T SS 영상)
+
+{{{#!HTML
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="480" height="385" src="http://www.youtube.com/embed/RDFHr1J3BHM" frameborder="0" allowFullScreen></iframe>
+}}}
+(4T NM 영상}
+
+== [[DJMAX TECHNIKA 3]] ==
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || C || 375 Max || 4 || || ||
+||<#FFFF00> Normal || C || 375 Max || 4 || 8박 스크롤 || [wiki:"A to Z"미션 - Flight] 수록 ||
+||<#0000FF> {{{#white Hard}}} || B || 1250 Max || 6 || 4박 스크롤 || [[Boy Meets Girl Set]] 상위 보스곡 ||
+||<#FF0000> Maximum || A || 3250 Max || 8 || 4박 스크롤 || [[Sound Lab Set]] 선택곡, [wiki:"Masterpiece(DJMAX)" 미션 - Mr.Funky Groove] 수록 ||
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/a7_FaPB4DEc" frameborder="0" allowfullscreen></iframe>}}}
+
+MX 패턴
+
+이후 테크니카 3로도 이식되었다. 노멀과 하드 모두 무난한 패턴이지만, 하드 패턴은 갑자기 빨라진 스크롤 속도로 인해 당황할 수 있으니 주의하자. 엠엑 패턴은 다른 부분은 무난한 편이지만 중간 3단 보라돌이가 손이 짧으면 절대로 [[Break!]]나는 구성으로 되어 있다. ~~[wiki:"다리따위는 장식입니다" 노트 배치 따위는 장식입니다. 높으신 분들은 그걸 몰라요.]~~
+
+== [[TAP SONIC]] ==
+
+2013년 6월 13일, [[TAP SONIC]]에 수록되었다! 1주 간격으로 디맥곡 -> 가요곡 -> 디맥곡 순으로 업데이트되던 현재 탭소닉 신곡 업데이트의 클리셰를 깨고 [wiki:"유령(DJMAX)"유령]이 수록된 지 1주 만에 디맥곡 -> 디맥곡 업데이트가 된 것이다. DMP3 곡으로는 [[Everything]], [[Leave me alone]]에 이어 3번째로, 6라인 레전드의 난이도는 8. 요즘 나오는 패턴들 처럼 노트 수와 노트 밀도가 비교적 높으며 가사의 break! 부분에 쫙쫙 긁는 3칸짜리  슬라이드 노트가 나오므로 쫙쫙 긁는걸 못하면 break 판정이 나오기 쉽다. ~~가사랑 판정이랑 맞추려고 했나보다.~~ 중간에 [[MonoXide]]를 연상시키는 패턴이 나온다. 나름 8레벨중에서도 중상위인듯.

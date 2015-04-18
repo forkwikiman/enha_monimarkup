@@ -1,0 +1,57 @@
+ * 상위 항목: [[EZ2ON]]
+
+{{{#!HTML
+<iframe src="//player.vimeo.com/video/78252375" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+}}}
+
+[[BGA]]
+
+|| 장르 |||||||| [[트랜스(음악)#s2-7|Psychedelic Trance]] ||
+|| 곡명 |||||||| Digital Labyrinth ||
+|| 작곡 |||||||| [[nato(작곡가)|nato]] ||
+|| 배경 |||||||| [[UMBACITY]] (원화)[[br]][[Lepusnette]](모션그래픽) ||
+|| BPM |||||||| 추가바람 ||
+|| 해금 레벨[* 앞 숫자는 노래 자체, 뒷 숫자는 SHD나 8키 해금 레벨] |||||||| 20 ||
+|||||||||| 모드별 레벨 데이터 (이지투온 기준) ||
+|| 모드/레벨 || {{{#blue EZ}}} || {{{#orange NM}}} || {{{#red HD}}} || {{{#purple SHD (8K)}}} ||
+||<#FF0000> Ruby Mix || {{{#blue 8}}} || {{{#orange 13}}} || {{{#red 16}}} || {{{#purple 17}}} ||
+||<#00ff00> Street Mix || {{{#blue ?}}} || {{{#orange ?}}} || {{{#red ?}}} || {{{#purple 17}}} ||
+||<#0000ff> Club Mix || {{{#blue ?}}} || {{{#orange 16}}} || {{{#red 17}}} || {{{#purple 17}}} ||
+
+[[목차]]
+== 개요 ==
+2013년 10월 30일 패치로 추가된 곡이다. 본래 10월 중에는 작곡가[[yak_won]]의 곡이 업데이트될 예정이었지만, 아직 준비되지 않았는지 업데이트 공지사항에 현재 진행 상황을 알리는 글이 함께 올라왔다.[http://ez.halgame.com/Notice/Views/178 #]
+
+하지만, 이것이 '''이지투온의 마지막 오리지널곡이 되었다.'''
+== 패턴 ==
+{{{#!HTML
+<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/M7c-2ydlTFc?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/M7c-2ydlTFc?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+RUBY MIX - SHD MIX
+처음에 이 곡을 플레이 하면 이게 왜 17? 이라는 생각이 든다. 하지만 후반부 올콤 방지 구간 때문에 올콤하기가 까다롭다.
+올콤 방지 구간이 없었다면 구이지온 시절의 [[Legend of Moonlight]], 4키 [[The Prince of Darkness]][* 리부트 때 4키 shd가 레벨 17로 책정, EXR 17을 양산했다. 후에 업데이트로 16으로 강등]처럼 물랩 으로 까였겠지만, 올콤방지 구간 덕분에 물랩은 면한듯. 클리어 난이도만 보면 17곡 중에 쉬운 편.
+== BGA ==
+그냥 아무 생각 없이 보면 ~~Be-at Feedback이 생각나는~~ 적당히 간지나는 SF풍 만화 닌자물(...) 정도로 보이지만, 깨알같은 대사가 압권.
+
+주인공과 A, B, C, D가 마주친다.
+
+A : May I take your order?
+주인공 : One cheese burger combo please.
+(칼싸움)
+(A 허리가 잘려 사망)
+B 등장
+(칼싸움)
+(B 허리가 잘려 사망)
+C 등장
+(칼싸움)
+(C 반토막)
+
+D 등장
+D : Will that be all?
+D :  Drink?
+(D와 주인공, 시공간을 초월하는 칼싸움을 함)
+(D 왼팔이 잘린다)
+D : Here or to go?
+주인공 : To go.
+(폭발)
+햄버거 시키는 얘기를 칼싸움으로 승화시켰다.(...)

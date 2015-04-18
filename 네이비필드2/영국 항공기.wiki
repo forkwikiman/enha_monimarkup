@@ -1,0 +1,142 @@
+[[목차]]
+
+= 정찰기 =
+== Fairey IIIF ==
+Fairey III 시리즈의 최종버전으로 1930년대까지 영국해군(Fleet Air Arm으로 번역)의 정찰기로 사용되었습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>1||
+||||가격||40||
+||||<#DCDCDC>내구도||<#DCDCDC>88||
+||||속도||77.4노트||
+||||<#DCDCDC>적재량||<#DCDCDC>10||
+||공격력||AA||10||
+
+== Blackburn Shark Mk II[* 7월 9일 패치에도 이름에 오타가 있다... Blackbrun이라니...] ==
+1933년에 뇌격기로 개발된 항공기로 2차 세계대전에서는 정찰기의 용도로 사용되었습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>60||
+||||가격||40||
+||||<#DCDCDC>내구도||<#DCDCDC>121||
+||||속도||86노트||
+||||<#DCDCDC>적재량||<#DCDCDC>10||
+||공격력||AA||10||
+
+== Fairey Seafox Mk I ==
+1930년대에 정찰용으로 개발된 수상기입니다.
+2차 세계대전 초반의 순양함에 탑재되어 활약하였습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>80||
+||||가격||40||
+||||<#DCDCDC>내구도||<#DCDCDC>164||
+||||속도||94.6노트||
+||||<#DCDCDC>적재량||<#DCDCDC>10||
+||공격력||AA||11||
+
+= 전투기 =
+== Gloster Sea Gladiator Mk II ==
+Gloster Gladiator의 해군 버전으로 항공모함에서 사용하기 위하여 arrest hook과 catapult point가 추가되었습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>40||
+||||가격||1,575||
+||||<#DCDCDC>내구도||<#DCDCDC>?||
+||||속도||?노트||
+||||<#DCDCDC>적재량||<#DCDCDC>?||
+||공격력||AA||?||
+
+== Hawker Nimrod Mk II ==
+1930년대에 개발된 영국의 함상전투기입니다.
+여러가지 개량을 통하여 1939년까지 활약하였습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>60||
+||||가격||1,996||
+||||<#DCDCDC>내구도||<#DCDCDC>?||
+||||속도||?노트||
+||||<#DCDCDC>적재량||<#DCDCDC>?||
+||공격력||AA||?||
+
+== Blackburn Roc Mk I ==
+Blackburn Roc은 후방[* 2014년 7월 9일 패치로 후방 기총을 삭제하면서 설명이 바뀌었다. [[BR]] 원래는 이랬다.[[BR]]Blackburn Roc은 후방 기총을 사용하여 적기를 상대하는 독특한 구조를 가진 전투기입니다.]지원을 위한 전투기입니다.
+Roc란 이름은 아라비안 나이트에 나오는 괴조의 이름에서 유례하였습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>80||
+||||가격||2,526||
+||||<#DCDCDC>내구도||<#DCDCDC>?||
+||||속도||?노트||
+||||<#DCDCDC>적재량||<#DCDCDC>?||
+||공격력||AA||?||
+
+= 뇌격기 =
+== Fairey Albacore Mk I ==
+Fairey Albacore는 1939년에서 1943년 사이에 영국해군에서 사용된 뇌격기 입니다.
+||||<#DCDCDC>레벨||||<#DCDCDC>40||
+||||종류||Dmg||Spd||
+||||<#DCDCDC>가격||||<#DCDCDC>1,243||
+||||내구도||?||?||
+||||<#DCDCDC>속도||<#DCDCDC>?노트||<#DCDCDC>?노트||
+||||적재량||||?||
+||<|2><table align=center><#CCCCCC>공격력||<#DCDCDC>AA||||<#DCDCDC>?||
+||폭발 공격력||?||?||
+||||<#DCDCDC>폭탄 수량||||<#DCDCDC>1||
+
+== Fairey Swordfish ==
+1936년부터 배치된 영국의 뇌격기입니다.
+타란토 해전과 비스마르크 추격전에서 활약한 것으로 유명합니다.
+||||<#DCDCDC>레벨||||<#DCDCDC>60||
+||||종류||Dmg||Spd||
+||||<#DCDCDC>가격||||<#DCDCDC>1,507||
+||||내구도||||?||
+||||<#DCDCDC>속도||<#DCDCDC>?노트||<#DCDCDC>?노트||
+||||적재량||||?||
+||<|2><table align=center><#CCCCCC>공격력||<#DCDCDC>AA||||<#DCDCDC>?||
+||폭발 공격력||?||?||
+||||<#DCDCDC>폭탄 수량||||<#DCDCDC>1||
+
+= 급강하 폭격기 =
+== Fairey Battle Mk I ==
+Fairey Battle은 Hawker Harte등의 구형 폭격기를 대체하기 위하여 개발된 폭격기입니다.
+||||<#DCDCDC>레벨||||<#DCDCDC>40||
+||||종류||HE||AP||
+||||<#DCDCDC>가격||||<#DCDCDC>1,052||
+||||내구도||?||?||
+||||<#DCDCDC>속도||||<#DCDCDC>?노트||
+||||적재량||||?||
+||<|4><table align=center><#CCCCCC>공격력||<#DCDCDC>AA||||<#DCDCDC>?||
+||폭발 공격력||?||?||
+||<#DCDCDC>관통 공격력||<#DCDCDC>?||<#DCDCDC>?||
+||거점 공격력||?||?||
+||||<#DCDCDC>폭탄 수량||||<#DCDCDC>1||
+
+== Blackburn Skua Mk II ==
+1930년대에 개발된 영국의 급강하 폭격기입니다.
+2차 세계대전에서 영국군 최초의 격추 성과를 올린 것으로도 유명합니다.
+||||<#DCDCDC>레벨||||<#DCDCDC>60||
+||||종류||HE||AP||
+||||<#DCDCDC>가격||||<#DCDCDC>1,385||
+||||내구도||||?||
+||||<#DCDCDC>속도||||<#DCDCDC>?노트||
+||||적재량||||?||
+||<|4><table align=center><#CCCCCC>공격력||<#DCDCDC>AA||||<#DCDCDC>?||
+||폭발 공격력||?||?||
+||<#DCDCDC>관통 공격력||<#DCDCDC>?||<#DCDCDC>?||
+||거점 공격력||?||?||
+||||<#DCDCDC>폭탄 수량||||<#DCDCDC>1||
+
+= 수송기 =
+== Airspeed 6 Envoy ==
+영국의 경량 수송기로 공수부대를 사용하여 적의 거점을 점령할 수 있습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>60||
+||||가격||1,799||
+||||<#DCDCDC>내구도||<#DCDCDC>?||
+||||속도||?노트||
+||||<#DCDCDC>적재량||<#DCDCDC>?||
+||<|2><table align=center><#CCCCCC>공격력||AA||?||
+||<#DCDCDC>거점 공격력||<#DCDCDC>?||
+||||폭탄 수량||||?||
+
+= 중형 폭격기 =
+== Handley Page Hampden ==
+Air Ministry Specification B.9/32에 따라 개발된 중형 폭격기로 야간 폭격 임무에 주로 투입되었습니다.
+||||<#DCDCDC>레벨||<#DCDCDC>60||
+||||가격||2,607||
+||||<#DCDCDC>내구도||<#DCDCDC>?||
+||||속도||?노트||
+||||<#DCDCDC>적재량||<#DCDCDC>?||
+||<|4><table align=center><#CCCCCC>공격력||AA||?||
+||<#DCDCDC>폭발 공격력||<#DCDCDC>?||
+||관통 공격력||?||
+||<#DCDCDC>거점 공격력||<#DCDCDC>?||
+||||폭탄 수량||||?||

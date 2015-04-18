@@ -1,0 +1,60 @@
+'''ナツノメイロ'''
+
+[[목차]]
+
+== 개요 ==
+[[사운드 볼텍스]]의 수록곡. 작곡자는 stereoberry.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/BWEqAa4CdAc" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '[[wiki:"MEGPOID" GUMI]] 오리지널곡 모집!'의 당선곡이다.
+
+ * [[wiki:"사운드 볼텍스/수록곡" 곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 ||http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/23/s187_jk_001_0146_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/23/s187_jk_001_0146_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/23/s187_jk_001_0146_1.jpg?width=150 ||
+|| 난이도 || {{{#purple 04}}} || {{{#orange 11}}} || {{{#ff009f 14}}} ||
+|| 체인 수 || {{{#purple 0525}}} || {{{#orange 0769}}} || {{{#ff009f 1183}}} ||
+|| 일러스트 담당 || {{{#purple 斉藤アキ}}} || {{{#orange 斉藤アキ}}} || {{{#ff009f 斉藤アキ}}} ||
+|| 이펙터 || {{{#purple レッドホットスクリューズ  }}} || {{{#orange レッドホットスクリューズ}}} || {{{#ff009f レッドホットスクリューズ }}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 23(2013.1.18)}}} ||
+|| [[BPM]] |||||| 148 ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * EXHAUST : Skill Level 07 C코스(2015.2.27 ~)
+
+{{|
+처음 뵙겠습니다, stereoberry라고 합니다.
+평소에는 electro planet이라 하는 [[리얼충]]서클(이렇게 써서 멤버에 들었습니다)에서, 나가노현[* 원문에는 信州라고 썼다.]에서 들새를 관찰하거나, 동인음악을 제작하고 있습니다.
+저의 곡이 BEMANI 시리즈에 수록되는 꿈이 현실화되고, 글로는 다 할 수 없는 기쁨을 깨물어보고 있습니다. 감사합니다.
+기쁜 나머지 집에서 마루 롤링을 정하는 나날입니다.[* 원문이 '嬉しさのあまり自宅で床ローリングをキメる日々です。'인데 매끄러운 번역으로 수정바람.]
+여름 바다에서 떠들썩하게 노는 GUMI의 모습을 마음 속에 그려서 만들어 봤습니다. 수영복 GUMI 귀여워!
+계절이 돌고 곧 겨울이 찾아오지만, 여러분들께서도 여름의 공기를 떠올리고 플레이해주시면 감사하겠습니다.
+
+-당선자 stereoberry 코멘트-
+|}}
+
+{{|
+http://p.eagate.573.jp/game/sdvx/sv/p/floor/image/floor_result/original/04/02.jpg
+※ 이 작품은 자켓도 같이 채용되었습니다!
+
+일러스트레이터 이름 : 斉藤アキ
+
+여러분 처음 뵙겠습니다! 사이토 아키라고 합니다.
+이번에 stereoberry씨와 같이 채용해주셔서, 무척 영광으로 생각하고 있습니다.
+여름같은 분위기의 곡에 맞춰서, 바다! 파도! 청춘!스러운 GUMI를 그려봤습니다.
+작업하다가, 이게 만약에 채용되면 계절은 한창 한겨울일텐데... 하고 생각했습니다만, 
+'다음 여름에는 바다에 가서 꺄꺄우후후하면서, 저녁노을이 지는 바다를 보며 외쳐보고 싶다아'
+라고 느껴주시면 저는 정말로 감사의 말씀을 올리겠습니다.
+
+-당선자 斉藤アキ 코멘트-
+|}}
+
+{{{#!HTML
+<iframe width="354" height="480" src="//www.youtube.com/embed/-VIYzjmKDZw" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 PUC 영상

@@ -1,0 +1,9 @@
+{{{#!html
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/JWwyebYWQlg?rel=0" frameborder="0" allowfullscreen></iframe>}}}
+
+{{{#!html
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/bCUdZaU9oM4?rel=0" frameborder="0" allowfullscreen></iframe>}}}
+
+Great Swordsman. [[타이토]]에서 개발한 [[검]]으로 하는 [[대전격투게임]].
+
+구성은 [[펜싱]](에페이) [[스테이지]], [[검도]] 스테이지, 그리고 [[로마]] [[검투사]] 스테이지로 되어있다. 기본적인 조작은 이동과 상단, 중단, 하단 공격. 검으로 상대의 검을 방어하고 상대의 리치나 딜레이등을 이용해서 공격해서 득점을 얻는다. 펜싱은 5점, 검도는 2점, 로마 검투는 [[서든 데스]]이다. 간단하지만 해보면 심플하면서 오묘한 게임.

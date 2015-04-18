@@ -1,0 +1,19 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+
+||<tablewidth=100%> '''영어판 명칭''' || '''Thopter Foundry''' ||<width=223px><|5>http://www.cardkingdom.com/media/images/products/standard/126863_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {W/B}{U} ||
+|| '''[[매직 더 개더링/카드의 타입|유형]]''' || 마법물체 ||
+||||<height=190px>{1}, 토큰이 아닌 마법물체 하나를 희생한다: 1/1의 비행 능력이 있는 청색 날틀 마법생물 토큰을 전장에 놓는다. 당신은 생명점 1점을 얻는다.
+
+''"Etherium is limited. Innovation is not."—Tezzeret''||
+|||| '''[[매직 더 개더링/블록|수록세트]]''' || '''희귀도''' ||
+|||| Alara Reborn || 언커먼 ||
+|||| Commander 2013 || 언커먼 ||
+
+마법물체를 씹어먹어서 그걸 생물이랑 생명점으로 승화시키는 카드. 타입2에서는 별로 쓰이지 않았던 카드이지만, 익스텐디드에서는 [[Sword of the Meek]]와 콤보가 되는데, Sword of the Meek를 씹어먹으면 - 1/1 마법생물이 나오고 - 그것이 무덤에 있는 Sword of the Meek를 불러서 끼워지고 - 마나가 있으면 또 씹어먹고 - 또 1/1이 나오고 - 또 씹어먹고 - ... 이 짓을 마나가 허락하는 한 계속해서 할 수 있는 콤보덱의 구성요소가 된 적이 있었다.
+
+어떤 콤보덱이든 [[Meddling Mage]]라든가 [[Pithing Needle]]은 절대 조심하자. 저렇게 막히는 것을 막기 위해 당시에 [[Dark Depths]]와 함께 Thopter/Depths 덱으로 구성했다.
+
+그리고 결국 이 콤보는 레거시에서도 이어진다. [[Transmute Artifact]]나 [[Tezzeret, Agent of Bolas]] 같은 온갖 서치 수단과 [[Jace, the Mind Sculptor]] 같은 고속 드로 수단을 총동원해서 이 파츠들을 찾아올 수 있다.

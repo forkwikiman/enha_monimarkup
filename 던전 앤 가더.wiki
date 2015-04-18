@@ -1,0 +1,13 @@
+{{{#!html
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/O0pJJmp1xN4&hl=ko&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/O0pJJmp1xN4&hl=ko&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+}}}
+
+
+[[GP32]]로 발매된 4인용까지 가능한 멀티플레이 액션게임.
+[[던전 앤 드래곤]]의 모방 게임을 만들려고 만들었다는건 알 수 있지만, 동영상만 봐도 [[킹 오브 드래곤즈]]정도, 혹은 그 이상으로 기본적인 액션에서의 감각이 떨어진다는걸 알 수 있다.
+
+게임은 '''모바일 게임이라고 생각해버리면''' 평균수준의 액션게임으로 뇌를 비우고 그냥저냥 즐길 수 있는 수준. 하지만 GBA수준의 게임들이라도 경쟁 대상이 돼버리면 그 가치가 한없이 낮아진다.
+
+이 게임은 발매시최대 4인용이라는 것으로 사람들에게 홍보했지만, 4인용 플레이를 하기 위해서는 RF 무선 어댑터를 따로 구입하여야 하기에 실제 멀티플레이 사용자 수는 극도로 적었다. RF 무선 어댑터의 이름은 GP-Link 였는데, 35000원이라는 가격과 대롱대롱 매달아 써야 하는 구조덕분에 거의 팔리지 않았다. [http://game.donga.com/13922/ GP-Link 정보]
+
+GP32 유저 중 이 게임의 존재를 알고 있지 못한 사람들도 많아 이래저래 불쌍한 소프트웨어.

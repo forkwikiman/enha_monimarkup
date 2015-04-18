@@ -1,0 +1,16 @@
+## IIDX 정보 (흑어나더 난이도 없을 때)
+## 표에 채울 내용을 알아보는 데는 RemyWiki(vjarmy.com/wiki/index.php)나 [[BEMANIWiki]](bemaniwiki.com/)가 적절합니다.
+## 버전별 삭제·수록 여부를 확인하고 싶다면 [http://littleprayer.net/]를 참고.
+|| 장르명 |||||| J-HOUSE[[BR]]J-하우스 || [[BPM]] |||| 135 ||
+|||||||||||||||| [[beatmania IIDX]] 난이도 체계 ||
+|| |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| 싱글 플레이 || {{{#blue 4}}} || {{{#blue 366}}} || {{{#orange 6}}} || {{{#orange 597}}} || {{{#red 8}}} || {{{#red 788}}} ||
+|| [[더블 플레이]] || {{{#blue 4}}} || {{{#blue 362}}} || {{{#orange 7}}} || {{{#orange 616}}} || {{{#red 8}}} || {{{#red 786}}} ||
+
+ * [[beatmania IIDX/수록곡|곡 목록으로 돌아가기]]
+ * [[아케이드]] 수록 : 14 GOLD ~
+ * 가정용판 수록 : 14 GOLD
+ * [[단위인정]] 수록
+  * SPH : 1급 (15 DJ TROOPERS ~ )
+
+작곡 명의는 Shoichiro Hirata plus Junko Hirata. 싱글 하이퍼는 [beatmania IIDX 15 DJ TROOPERS|DJ TROOPERS]이후 단위인정 1급에 수록되었다.

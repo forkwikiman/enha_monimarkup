@@ -1,0 +1,241 @@
+ * 리다이렉트: 펜듀얼 단위인정
+ * 상위 항목 : [[beatmania IIDX 22 PENDUAL]],[[단위인정]]
+
+미래 테마인 상태에서 단위인정 플레이 시 전 채보에 '''MIRROR'''[* DP는 FLIP + 1P/2P MIRROR] '''옵션이 걸린다.''' 이 상태에서 단위인정을 합격해도 '''합격으로 인정해 준다.''' 그리고 'MIRROR x급/단 합격' 메달을 지급한다. 정배치가 어렵다면 미래 테마인 날에 미러배치로 도전하는 것도 방법이 될 수 있다.
+
+[[beatmania IIDX 21 SPADA|전작]]과 마찬가지로 이번 작품 역시 신곡과 전작 이벤트 해금곡 및 연동 이벤트 해금곡은 단위인정에 수록되지 않았다. 뿐만 아니라 tricoro 이벤트 해금곡 중 [[LEGEND CROSS]] 악곡을 제외한 다른 이벤트 해금곡 또한 단위인정에 수록되지 않았다. [[beatmania IIDX 20 tricoro]]까지만 해도 신곡과 이벤트 해금곡을 단위인정에 수록시키곤 했는데, 이제 신곡을 제외한 기본곡으로만 단위인정을 구성하려는 모양이다.
+전작 해금이벤트 QprogueDX 및 전작에서 이벤트가 종료된 이후 통상해금이 이루어진 Lincle Link 악곡은 이번 작품에서 카드 없이도 플레이가 가능함에 따라 차기작에서 단위인정 수록 가능성이 있을 것으로 보인다.
+
+2014년 11월 20일에 9, 10단이, 2015년 1월 21일에 개전이 공개되었다.
+
+'''[[beatmania IIDX 21 SPADA|전작]]과 구성이 동일한 단위'''
+ 싱글 플레이 : 2급, 1급, 2단, 3단, 개전
+ 더블 플레이 : 5급, 4급, 1급, 초단, 3단, 4단, 6단, 10단
+
+
+[[목차]]
+== 싱글 플레이 ==
+=== 급 ===
+==== 7급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Liquid Crystal Girl feat. echo]]||kmp||{{{#blue NORMAL}}}||{{{#blue 2}}}||||
+||'''2'''||[[中華急行]]||[[Ryu☆]]||{{{#blue NORMAL}}}||{{{#blue 2}}}||||
+||'''3'''||[[Eternal Tears]]||ツガル||{{{#blue NORMAL}}}||{{{#blue 2}}}||||
+||'''4'''||[[CALL]]||[[猫叉Master]]||{{{#blue NORMAL}}}||{{{#blue 2}}}||||
+
+[[earth scape]]가 [[CALL]]로 교체됐다.
+
+==== 6급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[I'm so Happy]]||[[Ryu☆]]||{{{#blue NORMAL}}}||||||
+||'''2'''||[[かずあそび]]||CULTVOICE by S.S.D.PRODUCTS||{{{#blue NORMAL}}}||||||
+||'''3'''||[[diagram]]||Expander||{{{#blue NORMAL}}}||||||
+||'''4'''||[[We are Disっ娘よっつ打ち命]]||DANCE☆MAN feat. Disっ娘||{{{#blue NORMAL}}}||||||
+==== 5급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[突撃!ガラスのニーソ姫!]]||山本椛 (monotone)||{{{#blue NORMAL}}}||||||
+||'''2'''||[[NoN-Fiction Story!]]||Creative Life||{{{#blue NORMAL}}}||||||
+||'''3'''||[[avant-guerre]]||[[Osamu Kubota]]||{{{#blue NORMAL}}}||||||
+||'''4'''||[[バビロニア]]||劇団レコード||{{{#blue NORMAL}}}||||||
+==== 4급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Fly you to the star]]||[[Another Infinity]] feat. Mayumi Morinaga||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 393}}}||
+||'''2'''||[[サヨナラ・ヘヴン]]||[[猫叉Master]]||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 476}}}||
+||'''3'''||[[fffff]]||[[wiki:"무라이 세이야" Five Hammer]]||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 431}}}||
+||'''4'''||[[She is my wife]]||[[SUPER STAR 満-MITSURU-]]||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 358}}}||
+==== 3급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[405nm(Ryu☆mix)]]|| [[Another Infinity]] ||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 467}}}||
+||'''2'''||[[alla turca con passione]]|| Twin AmadeuS ||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 409}}}||
+||'''3'''||[[SigSig]]|| [[kors k]] ||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 548}}}||
+||'''4'''||[[REINCARNATION]]|| [[dj TAKA]] ||{{{#orange HYPER}}}||{{{#orange 5}}}||{{{#orange 525}}}||
+==== 2급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[sync]]|| OutPhase ([TaQ]/[dj TAKA]) ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 549}}}||
+||'''2'''||[[satfinal]]|| [[RAM]] ||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 548}}}||
+||'''3'''||[[合体せよ！ストロングイェーガー！！ (Ryu☆ remix)]]|| [L.E.D.]/Remixed by [Ryu☆] ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 811}}}||
+||'''4'''||[[ライオン好き]]|| [[wiki:"야마오카 아키라"AKIRA YAMAOKA]] ||{{{#orange HYPER}}}||{{{#orange 5}}}||{{{#orange 600}}}||
+==== 1급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[BREATH]]|| SPARKER ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 469}}}||
+||'''2'''||[[quasar]]|| OutPhase ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 591}}}||
+||'''3'''||[[MENDES]]|| Humanoid ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 573}}}||
+||'''4'''||[[With your Smile]]|| Shoichiro Hirata plus Junko Hirata ||{{{#orange HYPER}}}||{{{#orange 6}}}||{{{#orange 597}}}||
+=== 단 ===
+==== 초단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Blind Justice 〜Torn souls, Hurt Faiths〜]]|| [[Zektbach]] ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 679}}}||
+||'''2'''||[[Funny Shuffle]]|| [猫叉Master]+ ||{{{#orange HYPER}}}||{{{#orange 6}}}||{{{#orange 590}}}||
+||'''3'''||[[GOLD RUSH]]|| [[DJ YOSHITAKA]]-G[[br]]feat.[Michael a la mode] ||{{{#blue NORMAL}}}||{{{#blue 7}}}||{{{#blue 608}}}||
+||'''4'''||[[I Was The One]] (80's EUROBEAT STYLE)|| [good-cool][[br]]Remixed by [NAOKI] ||{{{#orange HYPER}}}||{{{#orange 6}}}||{{{#orange 685}}}||
+
+2스테이지가 [[SPADA]] 신곡인 [[Funny Shuffle]]로 바뀌었다.
+==== 2단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Monkey Dance]]|| [[Y&Co.]] ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 690}}}||
+||'''2'''||[[Zenius -I- Vanisher]]|| [[Tatsh]] ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 790}}}||
+||'''3'''||[[Drive Me Crazy]]|| [[kors k]] feat.古川未鈴 ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 704}}}||
+||'''4'''||[[Abyss]]|| [[dj TAKA]] ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 817}}}||
+==== 3단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[かげぬい～Ver.BENIBOTAN～]]|| CULTVOICE by [wiki:"S.S.D.FANTASICA" S.S.D.PRODUCTS] ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 718}}}||
+||'''2'''||[[Presto]]|| [wiki:"쿠보타 오사무" Osamu Kubota] ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 498}}}||
+||'''3'''||[[BRIDAL FESTIVAL!!!]]|| [wiki:"S.S.D.FANTASICA" S.S.D.] with ななっち ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 764}}}||
+||'''4'''||[[CaptivAte 〜裁き〜]]|| [[DJ YOSHITAKA]] ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 663}}}||
+==== 4단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[wiki:"era" era(nostalmix)]]|| [[TaQ]] ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 555}}}||
+||'''2'''||[[虹色]]|| [[DJ YOSHITAKA]] feat G.S.C license ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 792}}}||
+||'''3'''||[[BEAUTIFUL ANGEL]]|| [[DJ SWAN]] ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 921}}}||
+||'''4'''||[[R5]]|| [[wiki:"dj nagureo"tiger YAMATO]] with ultrabeatbox ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 588}}}||
+
+[[thunder]]가 빠지고 [[BEAUTIFUL ANGEL]]이 들어갔다.
+==== 5단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[smooooch・∀・]]|| kors k ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 830}}}||
+||'''2'''||[[Infinite Cave]]|| 猫叉Master+ ||{{{#orange HYPER}}}||{{{#orange 9}}}||{{{#orange 786}}}||
+||'''3'''||[[Mermaid girl]]|| Cream puff ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 856}}}||
+||'''4'''||[[wiki:"NEW GENERATION -もう、お前しか見えない-" NEW GENERATION]] [[br]] [[wiki:"NEW GENERATION -もう、お前しか見えない-" -もう、お前しか見えない-]]|| [[SUPER STAR 満-MITSURU-]] ||{{{#orange HYPER}}}||{{{#orange 9}}}||{{{#orange 1011}}}||
+
+[[華爛漫 -Flowers-]]가 [[Mermaid girl]]로 교체되었다.
+==== 6단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Devilz Sacrifice -贖罪の羊-]]|| [[OSTER project]] ||{{{#orange HYPER}}}||{{{#orange 9}}}||{{{#orange 927}}}||
+||'''2'''||[[黒髪乱れし修羅となりて]]|| [[wiki:"TOMOSUKE"村正クオリア]] ||{{{#orange HYPER}}}||{{{#orange 9}}}||{{{#orange 1077}}}||
+||'''3'''||[[Frozen Ray]](original mix)|| [[dj TAKA]] ||{{{#orange HYPER}}}||{{{#orange 9}}}||{{{#orange 897}}}||
+||'''4'''||[[bloomin'feeling]]|| [[Ryu☆]] ||{{{#orange HYPER}}}||{{{#orange 9}}}||{{{#orange 980}}}||
+
+[[FLOWER]]가 한 작품만에 빠지고 전작의 [[Devilz Sacrifice -贖罪の羊-]]이 들어왔다.
+==== 7단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Todestrieb]]|| [[wiki:"TOMOSUKE"Rche]] ||{{{#orange HYPER}}}||{{{#orange 9}}}||{{{#orange 979}}}||
+||'''2'''||[[ΕΛΠΙΣ]]|| [[dj TAKA]] ||{{{#orange HYPER}}}||{{{#orange 10}}}||{{{#orange 1075}}}||
+||'''3'''||[[Übertreffen]]|| [[wiki:"dj TAKA"TAKA]] respect for [[wiki:"요한 제바스티안 바흐"J.S.B.]] ||{{{#orange HYPER}}}||{{{#orange 10}}}||{{{#orange 1019}}}||
+||'''4'''||[[THE SAFARI]]|| [[wiki:"dj TAKA"Lion Musashi]] ||{{{#orange HYPER}}}||{{{#orange 10}}}||{{{#orange 900}}}||
+
+[http://blog.naver.com/onlyliv/120188986508 사파리 공략 영상]
+2, 3스테이지가 [[dj TAKA]]의 곡으로 바뀌면서 1스테이지만 제외하면 모두 dj TAKA의 곡이 되었다.(...) 동시치기 위주였던 [[Bloody Tears(IIDX EDITION)|Bloody Tears]]가 계단곡인 [[ΕΛΠΙΣ]]로, 스크+계단 복합 패턴의 [[FIRE FIRE]]가 역시 계단곡인 [[Übertreffen]]으로 바뀌었다. 결과 16비트 계단에 취약한 유저들에게는 체감 난이도가 매우 올라간 반면, 계단 처리력이 좋으나 스크 복합 패턴에 무너졌던 유저들에게는 오히려 체감 난이도가 크게 내려가는 양상을 보인다. ~~이러나 저러나 100% 남겨와도 [[THE SAFARI|사파리]]에서 죽으면 의미없다.~~
+==== 8단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Präludium]]|| Yuko Takahashi ||{{{#red ANOTHER}}}||{{{#red 10}}}||{{{#red 1164}}}||
+||'''2'''||[[KAMIKAZE]]|| [[dj nagureo]] ||{{{#red ANOTHER}}}||{{{#red 10}}}||{{{#red 1157}}}||
+||'''3'''||[[Miracle 5ympho X]]|| [[USAO]] ||{{{#red ANOTHER}}}||{{{#red 10}}}||{{{#red 1325}}}||
+||'''4'''||[[gigadelic]]|| teranoid feat.MC Natsack ||{{{#orange HYPER}}}||{{{#orange 12}}}||{{{#orange 1116}}}||
+
+[[Präludium]]은 계단이 주가 되는 패턴이다. 2스테이지의 경우 [[灼熱Beach Side Bunny]] - [[Snake Stick]] - [[Black.by X-Cross Fade]]로 이어지던 스크래치곡 라인이 빠지고 동시치기 곡인 [[KAMIKAZE]]가 들어갔다. 괴상한 동시치기에 약하다면 요주의. [[garden]]은 한 작품만에 다시 빠지고 전작 10레벨 불렙곡인 [[Miracle 5ympho X]]가 수록되었다. garden의 괴랄한 후살은 사라졌지만 지속적으로 체력을 깎아먹던 [[V2(BEMANI 시리즈)|V2]]와 비슷한 물량 난타 구성이 돌아왔다. 이래저래 8단 중에서는 제법 어려운 편이지만 [[스크래치곡]]에 약한 플레이어에게는 환영받는 중. 여담으로 보스곡 [[gigadelic]]이 들어온 이후로 1스테이지부터 3스테이지가 전부 어나더화 된 건 이번이 처음이다. ~~그리고 차기작에서 [[gigadelic]]마저 어나더화...~~
+==== 9단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[Holic]|| [TaQ] ||{{{#red ANOTHER}}}||{{{#red 11}}}||{{{#red 880}}}||
+||'''2'''||[Just a Little Smile]|| [Sota Fujimori] ||{{{#red ANOTHER}}}||{{{#red 11}}}||{{{#red 1272}}}||
+||'''3'''||[rumrum triplets]|| [토키와 유우|yu_tokiwa][wac|.djw] ||{{{#red ANOTHER}}}||{{{#red 11}}}||{{{#red 1541}}}||
+||'''4'''||[The Sampling Paradise]|| [kors k|Mamonis] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1545}}}||
+2스테이지를 차지하던 [Bounce Bounce Bounce]가 비슷한 성질의 채보 [Just a Little Smile]로 교체되었고, tricoro부터 9단에 꾸준히 들어가던 [旅人リラン]이 두 작품만에 빠지고 동일 작곡가의 곡 [rumrum triplets]로 대체되었다.
+보통 도전자들은 홀릭 후살과 리틀스마일 스크래치에서 게이지를 까먹고 럼럼을 버틴다고 해도 어느새 9단 보스의 상징이 된 마모니스에서 넉다운되는 구성.
+==== 10단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[Adularia]|| [DJ TOTTO] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1449}}}||
+||'''2'''||[wiki:"ワルツ第17番 ト短調 大犬のワルツ"ワルツ第17番 ト短調"大犬のワルツ"]|| [wac|Virkato] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1684}}}||
+||'''3'''||[不沈艦CANDY]|| [Risk Junk] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1682}}}|| 
+||'''4'''||[The Limbo]|| [Tatsh|STN] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1701}}}|| 
+아케이드 수록 이후 10단에 고정적으로 들어가던 [[Colorful Cookie]]가 '''끝내 제외되었다'''.~~[[야 신난다]]!~~ Tricoro에서 10단에 돌아왔던 스크래치곡 [[Sense 2007]]도 2작만에 빠졌다. 대신 그 빈자리는 다른 과자곡인 [[不沈艦CANDY]]가 5시즌 만에 돌아오면서 바통을 이어받았으며 [[Adularia]]와 [[The Limbo]]는 단위인정 10단에 첫 수록되는 곡들. Sense 2007과 Colorful Cookie가 빠진 영향이 컸는지 유저들 사이에선 쉬운 편이라는 반응이 많다.
+=== 개전 ===
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[嘆きの樹]]|| [wiki:"dj TAKA" 金獅子] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 2000}}}||
+||'''2'''||[[灼熱Beach Side Bunny]]||  [DJ Mass MAD Izm*] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1719}}}||
+||'''3'''||[[卑弥呼]]|| [wiki:"DJ YOSHITAKA" 朱雀] VS [wiki:"wac" 玄武] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 2119}}}||
+||'''4'''||[[冥]]|| [wiki:"dj TAKA" Amuro] VS [wiki:"Tatsh" Killer] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 2000}}}||
+
+단위인정에 개전이 출연한 이후로 싱글개전이 '''[[beatmania IIDX 21 SPADA|전작]]과 동일한 구성'''을 갖게 된 것은 이번이 처음이다.
+
+== 더블 플레이 ==
+=== 급 ===
+==== 5급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[GAMBOL]]|| [[SLAKE]] ||{{{#blue NORMAL}}}||{{{#blue 1}}}||{{{#blue 137}}}||
+||'''2'''||[[5.1.1.]]|| [[dj nagureo]] ||{{{#blue NORMAL}}}||{{{#blue 1}}}||{{{#blue 99}}}||
+||'''3'''||[[I Was The One]]|| [[good-cool]] ||{{{#blue NORMAL}}}||{{{#blue 1}}}||{{{#blue 205}}}||
+==== 4급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Dr.LOVE]]|| baby weapon feat.Asuka.M ||{{{#blue NORMAL}}}||{{{#blue 3}}}||{{{#blue 259}}}||
+||'''2'''||[[LUV CAN SAVE U]]|| HIDEKI NAGANUMA ||{{{#blue NORMAL}}}||{{{#blue 3}}}||{{{#blue 300}}}||
+||'''3'''||[[airflow]]|| [[Mr.T]] ||{{{#blue NORMAL}}}||{{{#blue 3}}}||{{{#blue 293}}}||
+==== 3급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Stay my side]]||[[wiki:"DJ YOSHITAKA"DJ Yoshitaka]] feat.RINA||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 301}}}||
+||'''2'''||[[Almace]]||[[Qrispy Joybox]]||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 431}}}||
+||'''3'''||[[World Wide Love]]||[[wiki:"Des-ROW"MTO]]||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 454}}}||
+==== 2급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Medicine of love]]||イロハ＆リリナ||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 328}}}||
+||'''2'''||[[One of A Kind]]||Crystal Begley||{{{#blue NORMAL}}}||{{{#blue 4}}}||{{{#blue 464}}}||
+||'''3'''||[[D.A.N.C.E.!]]||[[wiki:"DJ YOSHITAKA"DJ Yoshitaka]] feat.[[星野奏子]]||{{{#orange HYPER}}}||{{{#orange 5}}}||{{{#orange 425}}}||
+==== 1급 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[I'm Screaming LOVE]]||[[wiki:"DJ YOSHITAKA"Creative Life]]||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 456}}}||
+||'''2'''||[[Everlasting Resort]]||[[SUPER STAR 満-MITSURU-]]||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 472}}}||
+||'''3'''||[[Voltage]] (feat. Hidemaru)|| [[TaQ]] ||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 480}}}||
+=== 단 ===
+==== 초단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Ascalon]]|| [[Qrispy Joybox]] ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 569}}}||
+||'''2'''||[[19,November]]|| [[good-cool]] ||{{{#blue NORMAL}}}||{{{#blue 5}}}||{{{#blue 589}}}||
+||'''3'''||[[.59]]|| [[dj TAKA]] ||{{{#orange HYPER}}}||{{{#orange 6}}}||{{{#orange 515}}}||
+==== 2단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Cheer Train]]||Fuzita Blender||{{{#orange HYPER}}}||{{{#orange 6}}}||{{{#orange 623}}}||
+||'''2'''||[[Under the Sky]]||南さやか([[BeForU]]) with platoniX||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 670}}}||
+||'''3'''||[[DXY!]]||[[TaQ]]||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 781}}}||
+==== 3단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Regulus]]|| [[wiki:"wac"DJ.W]] ||{{{#blue NORMAL}}}||{{{#blue 6}}}||{{{#blue 545}}}||
+||'''2'''||[[虹色]]|| [[DJ YOSHITAKA]] feat G.S.C license ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 793}}}||
+||'''3'''||[[Abyss]]|| [[dj TAKA]] ||{{{#blue NORMAL}}}||{{{#blue 7}}}||{{{#blue 771}}}||
+==== 4단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[KAMIKAZE]]|| [[dj nagureo]] ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 745}}}||
+||'''2'''||[[Kick Out 仮面]]|| 上野圭市（aka. Babyweapon,DJ SWAMI)[[br]]feat.[wiki:"호시노 카나코"星野奏子] ||{{{#orange HYPER}}}||{{{#orange 7}}}||{{{#orange 842}}}||
+||'''3'''||[[BRIDAL FESTIVAL!!!]]|| [wiki:"S.S.D.FANTASICA"S.S.D.] with ななっち ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 820}}}||
+==== 5단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Zenius -I- Vanisher]]|| [[Tatsh]] ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 776}}}||
+||'''2'''||[[B4U]]|| NAOKI ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 815}}}||
+||'''3'''||[[EURO-ROMANCE]]|| K-MASERA ||{{{#orange HYPER}}}||{{{#orange 8}}}||{{{#orange 893}}}||
+
+전작 첫 스테이지에서 변속으로 사람잡던 [[Pink Rose]]가 한 작품 만에 빠지고, 이번 작품에서 [[Zenius -I- vanisher]]로 변경되었다.
+==== 6단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[KAMAITACHI]]|| [DJ TECHNORCH] fw. [GUHROOVY] ||{{{#blue NORMAL}}}||{{{#blue 8}}}||{{{#blue 1005}}}||
+||'''2'''||[[サヨナラ・ヘヴン]]|| [猫叉Master] ||{{{#red ANOTHER}}}||{{{#red 8}}}||{{{#red 957}}}||
+||'''3'''||[[CELEBRATE NITE]]|| N.M.R ||{{{#red ANOTHER}}}||{{{#red 8}}}||{{{#red 731}}}||
+==== 7단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Wanna Party?]]|| [[RAM]] ||{{{#red ANOTHER}}}||{{{#red 9}}}||{{{#red 910}}}||
+||'''2'''||[[Summer Vacation (CU mix)]]|| OutPhase ||{{{#blue NORMAL}}}||{{{#blue 9}}}||{{{#blue 984}}}||
+||'''3'''||satellite020712 from "CODED ARMS"|| 猫叉Master+ ||{{{#orange HYPER}}}||{{{#orange 10}}}||{{{#orange 1199}}}||
+[[Neonlights]]가 보스곡으로서의 위엄을 보여주지 못해 [[Wanna Party?]]만 넘기면 위닝런이라는 말까지 나왔던 전작과 다르게, 3스테이지가 까다로운 [[satellite020712 from CODED ARMS]]로 교체되면서 난민들이 속출하고 있다.
+==== 8단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[GOLD RUSH]]|| [[DJ YOSHITAKA]]-G ||{{{#red ANOHTER}}}||{{{#red 10}}}||{{{#red 1186}}}||
+||'''2'''||[[突撃！ガラスのニーソ姫！]]|| 山本椛 (monotone) ||{{{#red ANOTHER}}}||{{{#red 10}}}||{{{#red 1144}}}||
+||'''3'''||[[Wonder Girl feat. Kanae Asaba]]|| [[Y&Co.]] ||{{{#red ANOTHER}}}||{{{#red 10}}}||{{{#red 1457}}}||
+1스테이지였던 [[突撃！ガラスのニーソ姫！]]가 2스테이지로 옮겨가고, 아케이드 수록 이후로 계속 더블 8단의 보스곡 자리를 지켜오던 [[THE LAST STRIKER]]가 [[Wonder Girl feat. Kanae Asaba]]에게 자리를 물려주게 되었다. 덤으로 전체 체감 난이도까지 줄어든 편. 세곡 순서대로 비공식 난이도 상으로는 10.5, 10.7, 10.7. 
+==== 9단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[Make Me Your Own]|| [good-cool] ft. Raj Ramayya ||{{{#red ANOTHER}}}||{{{#red 11}}}||{{{#red 1115}}}||
+||'''2'''||[ALBA -黎明-]|| [SOUND HOLIC] feat. Nana Takahashi ||{{{#red ANOTHER}}}||{{{#red 11}}}||{{{#red 1600}}}||
+||'''3'''||[Schlagwerk]|| [TaQ] ||{{{#red ANOTHER}}}||{{{#red 11}}}||{{{#red 1090}}}||
+보스곡을 제외한 다른 스테이지의 악곡이 전부 교체되었다. --독일어 컨셉은 버렸지만 정작 바뀌어야 할 곡은 안바뀌었다.-- 2스테이지에서 [Scharfrichter]을 대신해 들어온 [ALBA -黎明-]은 패턴이 전반적으로 상당히 좋기 때문에 굳이 단위인정이 아니더라도 연습을 할 필요가 있다.
+==== 10단 ====
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[[Black.by X-Cross Fade]]|| [[wiki:"DJ Mass" DJ Mass MAD Izm*]] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1761}}}||
+||'''2'''||[[EXUSIA]]|| [[wiki:"L.E.D." L.E.D.-G]] ||{{{#red ANOHTER}}}||{{{#red 12}}}||{{{#red 1980}}}||
+||'''3'''||[[Raison d'être～交差する宿命～]]|| [[Zektbach]] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1836}}}||
+
+역대 10단 중 가장 어렵다는 평을 들었던 전작의 10단과 곡배치가 동일하다.
+=== 개전 ===
+||'''순차'''||'''곡명'''|| '''아티스트''' ||'''채보'''||'''레벨'''||'''노트 수'''||
+||'''1'''||[Bad Maniacs]|| [[kors k]] as teranoid ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1606}}}||
+||'''2'''||[[天空の夜明け]]|| [wiki:"dj TAKA" Cuvelia] ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 2261}}}||
+||'''3'''||[[quasar]]|| OutPhase ([TaQ]/dj TAKA) ||{{{#red ANOTHER}}}||{{{#red 12}}}||{{{#red 1562}}}||
+
+GOLD부터 계속 쓰이던 [wiki:"헐화" ピアノ協奏曲第1番"蠍火"]가 빠지고 Bad Maniacs가 들어갔다.

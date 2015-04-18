@@ -1,0 +1,114 @@
+ * 상위 항목: [[넷핵]]
+
+[[로그라이크]] 게임 넷핵의 신 이름은 자기가 선택한 직업에 따라서 갈라진다. 물론 그 직업에서 선택가능한 성향의 신만 섬길 수 있다. [[리그베다 위키]]에 항목이 있는 신은 그쪽을 참고할 것. [[던전 크롤]]이나 [[ELONA]]와는 달리 신을 골라 섬길 수는 없고 신의 특색도 없다.
+
+[[목차]]
+
+== 오리지널 넷핵의 직업 ==
+
+=== 고고학자 ===
+[[아즈텍]] 신화에서 따왔다.
+ * Lawful (선택가능) - Quetzalcoatl ([[케찰코아틀]])
+ * Neutral (선택가능) - Camaxtli (카막스틀리) - 아즈텍 신화의 운명과 불과 사냥의 신.
+ * Chaotic - Huhetotl (우에우에테오틀) - 아즈텍 신화의 불의 신. 보통 표기를 Huehuetoetl이라고 하는데 넷핵에서는 Huhetotl이라고 되어 있다.
+
+=== 바바리안 ===
+[[코난]] 사가의 [[하이보리아]]에서 따왔다.
+ * Lawful - Mitra (미트라) - 아킬로니아인의 주신. 그런데 이 미트라라는 이름의 출처는 아무리 봐도 중동지역의 신 [[미트라]]...
+ * Neutral (선택가능) - Crom ([[크롬]])
+ * Chaotic (선택가능) - Set (세트) - [[세트(이집트 신화)]] 아니다. 코난 세계관 내의 독사의 신.
+
+=== 원시인 ===
+[[수메르 신화]]에서 따왔다.
+ * Lawful (선택가능) - Anu ([[안]])
+ * Neutral (선택가능) - Ishtar ([[이슈타르]])
+ * Chaotic - Anshar (안샤르) - 아카드 신화의 천신.
+
+=== 의사 ===
+[[그리스 신화]]에서 따왔다.
+ * Lawful - Athena ([[아테나]])
+ * Neutral (선택가능) - Hermes ([[헤르메스]])
+ * Chaotic - Poseidon ([[포세이돈]])
+
+=== 기사 ===
+[[켈트 신화]]에서 따왔다.
+ * Lawful (선택가능) - Lugh ([[루(켈트 신화)]])
+ * Neutral - Brigit ([[브리지트]])
+ * Chaotic - Manannan Mac Lir ([[마나난 막 리르]])
+
+=== 수도사 ===
+[[중국 신화]]에서 따왔다.
+ * Lawful (선택가능) - Shan Lai Ching ([[산해경]]) - 이건 신 이름이 아니라 신화집인데 이 게임이 서양에서 나온 게임이기 때문에 제작자가 착각한듯
+ * Neutral (선택가능) - Chih Sung-tzu ([[적송자]])
+ * Chaotic (선택가능) - Huan Ti ([[황제(중국 신화)]])
+
+=== 성직자 ===
+자기 성향에 따라 모든 직업의 신 중에서 랜덤하게 선택된다. 성직자는 모든 성향이 선택 가능하므로 당연히 원래 직업이 섬기지 못하는 신도 섬길 수 있다.
+
+=== 레인저 ===
+[[로마 신화]]에서 따왔다.
+ * Lawful - Mercury ([[머큐리]])
+ * Neutral (선택가능) - Venus ([[비너스]])
+ * Chaotic (선택가능) - Mars ([[마르스]])
+
+=== 로그 ===
+미국 소설가 [[프리츠 라이버]]의 판타지 세계관인 Nehwon(네원)에서 따왔다.
+ * Lawful - Iseek
+ * Neutral - Mog
+ * Chaotic (선택가능) - Kos
+
+=== 사무라이 ===
+당연히 [[일본 신화]]가 출처.
+ * Lawful (선택가능) - Amaterasu Omikami ([[아마테라스]] 오오미카미)
+ * Neutral - Raijin ([[뇌신]])
+ * Chaotic - Susanowo ([[스사노오]])
+
+=== 관광객 ===
+[[디스크월드]]의 세계관에서 따왔다.
+ * Lawful - Blind Io
+ * Neutral (선택가능) - The Lady
+ * Chaotic - Offler
+
+=== 발키리 ===
+[[북유럽 신화]]에서 따왔다.
+ * Lawful (선택가능) - Tyr ([[티르]])
+ * Neutral (선택가능) - Odin ([[오딘]])
+ * Chaotic - Loki ([[로키]])
+
+=== 마법사 ===
+[[이집트 신화]]에서 따왔다.
+ * Lawful - Ptah (프타) - 우주신
+ * Neutral (선택가능) - Thoth ([[토트]])
+ * Chaotic (선택가능) - Anhur (안후르) - 전사와 사냥꾼의 신
+
+== [[슬래시엠]]의 추가직업 ==
+
+=== 불마법사 ===
+자연에서 따왔다.
+ * Lawful (선택가능) - Earth (땅)
+ * Neutral (선택가능) - Fire (불)
+ * Chaotic (선택가능) - Ash (재)
+
+=== 얼음마법사 ===
+역시 자연에서 따왔다.
+ * Lawful (선택가능) - Air (공기)
+ * Neutral (선택가능) - Frost (서리)
+ * Chaotic (선택가능) - Smoke (연기)
+
+=== 네크로맨서 ===
+[[크툴루 신화]]에서 따왔다.
+ * Lawful - Nharlotep ([[니알라토텝]])
+ * Neutral - Zuggothobal
+ * Chaotic (선택가능) - Gothuulbe
+
+=== 퇴마사 ===
+ * Lawful (선택가능) - Seeker
+ * Neutral (선택가능) - Osiris ([[오시리스]])
+ * Chaotic (선택가능) - Seth ([[세스]])
+
+=== 요우맨 ===
+호칭에서 따왔다.
+ 
+ * Lawful (선택가능) - His Majesty ([[폐하]]. 국왕의 높임표현)
+ * Neutral - His Holiness (성하. 종교 지도자([[교황]] 등)의 높임표현)
+ * Chaotic - The Commons (대중)

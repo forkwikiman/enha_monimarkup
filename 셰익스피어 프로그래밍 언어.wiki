@@ -1,0 +1,125 @@
+Shakespeare Programming Language
+
+[난해한 프로그래밍 언어]. 이런 종류의 [[프로그래밍 언어]] 중에서는 정말 정점을 달리는 '''독보적인 변태성'''을 자랑한다. ~~그래서인지 [[신사]]의 나라 [[영국]]의 극작가를 끌어오고 있다~~ 약자는 SPL.
+
+존 아이슬런드와 카를 하셀슈트룀이라는 사람이 만들었으며 [쉐프 프로그래밍 언어]를 좀 더 난해하게 꼬아놓은 타입이다. 이름이 [셰익스피어] 프로그래밍 언어인 이유는 '''소스 코드가 셰익스피어의 연극 대본같기 때문이다.'''
+
+ * 구성
+ * 타이틀
+ * 등장인물
+  * 이름, 명령으로 구성되며 먼저 이름을 쓴 다음 뒤에 명령을 입력한다. 명령어가 전부 대화문 형식으로 되어 있다.
+ * 액트, 씬
+  * 다른 프로그래밍 언어로 치면 wiki:"GOTO" 같은 명령어로, 갈 수 있는 지점을 지정하는 것이다.
+ * 입장, 퇴장, 단체퇴장
+  * 입장은 루틴 정의. 퇴장은 루틴을 종료할때 쓰인다. 단체퇴장은 프로그램 종료.
+
+
+== 예문 ==
+ * 셰익스피어로 쓰여진 [[Hello, world!]]
+||Romeo, a young man with a remarkable patience.
+Juliet, a likewise young woman of remarkable grace.
+Ophelia, a remarkable woman much in dispute with Hamlet.
+Hamlet, the flatterer of Andersen Insulting A/S.
+Act I: Hamlet's insults and flattery.
+Scene I: The insulting of Romeo.
+[Enter Hamlet and Romeo]
+Hamlet: You lying stupid fatherless big smelly half-witted coward! You are as stupid as the difference between a handsome rich brave hero and thyself! Speak your mind!You are as brave as the sum of your fat little stuffed misused dusty old rotten codpiece and a beautiful fair warm peaceful sunny summer's day. You are as healthy as the difference between the sum of the sweetest reddest rose and my father and yourself! Speak your mind!You are as cowardly as the sum of yourself and the difference
+between a big mighty proud kingdom and a horse. Speak your mind.Speak your mind!
+[Exit Romeo]
+Scene II: The praising of Juliet.
+[Enter Juliet]
+Hamlet: Thou art as sweet as the sum of the sum of Romeo and his horse and his black cat! Speak thy mind!
+[Exit Juliet]
+Scene III: The praising of Ophelia.
+[Enter Ophelia]
+Hamlet: Thou art as lovely as the product of a large rural town and my amazing bottomless embroidered purse. Speak thy mind!Thou art as loving as the product of the bluest clearest sweetest sky and the sum of a squirrel and a white horse. Thou art as beautiful as the difference between Juliet and thyself. Speak thy mind!
+[Exeunt Ophelia and Hamlet]
+
+Act II: Behind Hamlet's back.
+Scene I: Romeo and Juliet's conversation.
+[Enter Romeo and Juliet]
+Romeo: Speak your mind. You are as worried as the sum of yourself and the difference between my small smooth hamster and my nose. Speak your mind!
+Juliet: Speak YOUR mind! You are as bad as Hamlet! You are as small as the
+difference between the square of the difference between my little pony and your big hairy hound and the cube of your sorry little codpiece. Speak your mind!
+[Exit Romeo]
+Scene II: Juliet and Ophelia's conversation.
+[Enter Ophelia]
+Juliet: Thou art as good as the quotient between Romeo and the sum of a small furry animal and a leech. Speak your mind!
+Ophelia: Thou art as disgusting as the quotient between Romeo and twice the
+difference between a mistletoe and an oozing infected blister! Speak your mind!
+[Exeunt]||
+
+== 해석(?) ==
+프로그래밍 언어로써 씌어진 글이기 때문에 당연히 글이 담고 있는 언어적 의미는 전혀 말이 되지 않는다.
+
+||[[로미오]], 인상적인 인내심을 가진 젊은이.
+[[줄리엣]], 마찬가지로 인상적인 품위를 가진 젊은이.
+[[오필리어]], 종종 햄릿과 다투는 인상적인 여인.
+[[햄릿]], A/S를 모욕하는 [[안데르센]]에게 아첨하는 아첨꾼.
+제 1막: 햄릿의 모욕과 아첨.
+제 1장: 로미오에 대한 모욕.
+［햄릿과 로미오 입장］
+햄릿: 거짓말만 하고 멍청하고 아비 없고 냄새나고 얼빠진 겁쟁아! 너는 멋지고 부유하고 용감한 영웅과 너 자신의 차이만큼이나 어리석구나! 네 생각을 말해 봐라! 너는 네 뚱뚱하고 작고 배불뚝이에 쓸모없고 먼지투성이에 낡고 썩은 코드피스와 아름답고 매우 따뜻하고 평화롭고 화창한 여름날을 합친 것만큼이나 용감하다. 너는 가장 아름답고 붉은 장미의 합과 나의 아버지와 너의 차이만큼이나 건강하구나! 네 생각을 말해 봐라! 너는 너 자신과 크고 강하고 자랑스러운 왕국과 말의 차이의 합만큼 겁이 많군. 네 생각을 말해 봐라. 네 생각을 말해 봐라!
+［로미오 퇴장］--[[지못미]] 로미오--
+제 2장: 줄리엣에 대한 칭찬.
+［줄리엣 입장］
+햄릿: 그대는 로미오와 그의 말과 그의 검은 고양이의 합의 합만큼 달콤하구나! 내 생각을 말하리라!
+［줄리엣 퇴장］
+제 3장: 오필리어에 대한 칭찬.
+［오필리어 입장］
+햄릿: 그대는 큰 지방도시와 나의 놀랍고 밑 빠지고 수놓인 지갑의 곱만큼 사랑스럽다. 내 생각을 말하리라! 그대는 가장 파랗고 맑고 달콤한 하늘과 다람쥐와 백마의 합의 곱만큼 다정하다. 그대는 줄리엣과 너 자신의 차이만큼 아름답다. 내 생각을 말하리라! 
+［오필리어와 햄릿 퇴장］
+
+제 2막: 햄릿의 등 뒤에서.
+제 1장: 로미오와 줄리엣의 대화.
+［로미오와 줄리엣 입장］
+로미오: 네 생각을 말해 봐라. 너는 너와 나의 작고 부드러운 햄스터와 내 코의 차의 합만큼 걱정되어 보이는구나. 네 생각을 말해 봐라!
+줄리엣: '''네''' 생각을 말해 봐라! 너는 햄릿만큼이나 저열하구나! 너는 [[wiki:"마이 리틀 포니"나의 작은 조랑말]]과 너의 커다란 털북숭이 사냥개의 차의 제곱과 너의 안쓰러운 작은 코드피스의 세제곱의 차만큼 작구나. 네 생각을 말해 봐라!
+［로미오 퇴장］ --삐친 로미오--
+제 2장: 줄리엣과 오필리어의 대화.
+［오필리어 입장］
+줄리엣: 그대는 로미오를 작은 털북숭이 동물과 거머리의 합만큼 나눈 몫만큼 좋다. 네 생각을 말해 봐라!
+오필리어: 그대는 로미오에서 겨우살이와 끈적거리는 오염된 물집의 차의 2배를 나눈 몫만큼 역겹구나! 네 생각을 말해 봐라!
+［전원 퇴장］||
+
+== 프로그래밍 언어로서의 해석 ==
+각각의 명사는 의미가 긍정적이거나 중립이면 1, 부정적이면 -1의 값을 가지고, 명사 앞에 형용사가 올 때마다 명사의 값은 2배가 된다. Yourself나 thyself는 상대방에 해당하는 값이다. 따라서 첫 문장인 "You lying stupid fatherless big smelly half-witted coward!"는 명사가 부정적이고 형용사가 6개이므로 Romeo = -64가 된다. 그 다음 문장인 "You are as stupid as the difference between a handsome rich brave hero and thyself!"는 Romeo가 handsome rich brave hero에서 Romeo를 뺀 값인 72가 된다. 다음 문장인 "Speak your mind!"에서는 Romeo의 값에 해당하는 [[아스키 코드]] 문자인 "H"를 출력한다.
+
+||1막
+1장
+Romeo = -64
+Romeo = 8 - Romeo
+Romeo (H) 출력
+Romeo = -128 + 32
+Romeo = 5 - Romeo
+Romeo (e) 출력
+Romeo = Romeo + 8 - 1
+Romeo (l) 출력
+Romeo (l) 출력
+
+2장
+Juliet = Romeo + 1 + 2
+Juliet (o) 출력
+
+3장
+Ophelia = 4 * 8
+Ophelia (띄어쓰기) 출력
+Ophelia = 8 * (1 + 2)
+Ophelia = Juliet - Ophelia
+Ophelia (W) 출력
+
+2막
+1장
+Juliet (o) 출력
+Juliet = Juliet + 4 - 1
+Juliet (r) 출력
+Romeo (l) 출력
+Romeo = 0
+Romeo = (2 - (-4))^2^ - (-4)^3^ 
+Romeo (d) 출력
+
+2장
+Ophelia = Romeo / (4 + 1)
+Ophelia (!) 출력
+Juliet = Romeo / (2 * (1 - (-4)))
+Juliet (줄바꿈) 출력||

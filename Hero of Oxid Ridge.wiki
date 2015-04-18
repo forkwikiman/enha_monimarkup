@@ -1,0 +1,19 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+||<tablewidth=100%> '''영어판 명칭''' ||'''Hero of Oxid Ridge'''||<width=230px><|6>http://www.cardkingdom.com/media/images/products/standard/137128_1.jpg?width=230px||
+|| '''한글판 명칭''' ||'''-'''||
+|| '''마나비용''' || {2}{R}{R} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 생물 - 인간 기사 ||
+||||<height=188px>신속
+Battle Cry''(이 생물이 공격할 때마다, 공격하는 다른 생물은 턴의 끝까지 +1/+0을 얻는다)''
+
+Hero of Oxid Ridge가 공격할 때, 공격력 1 이하의 생물은 이번 턴에 방어할 수 없다.||
+|| '''공격력/방어력''' || 4/2 ||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Mirrodin Besieged || 미식레어 ||
+
+[[Hero of Bladehold]]와 짝을 이루는 카드. 레드덱의 희망 중 하나. T2에 있었을 때 [[Koth of the Hammer]]와 함께 모노레드의 4발비를 양분했다. 
+
+적절한 발비인데다가 생물을 하나하나 꺼낸 상태에서 Battle Cry 상태로 달리면 상대한테 약한 생물밖에 없을 때는 막을 수 없다. [[Birds of Paradise]]도 [[Llanowar Elves]]도 [[Spellskite]]도 [[Timely Reinforcements]]로 나온 [[토큰]]도. [[Stormblood Berserker]]랑 궁합이 상당히 좋다.
+
+특히 이 당시 게임판은 "카우 고"라 불린 UW덱이 절대적으로 강했던 시절이었고 이 카우 고의 '''미친 새때'''라 불렸던 [[Squadron Hawk]]를 무시하고 공격할 수 있다는 장점이 있어서 특히 고평가됐다. 

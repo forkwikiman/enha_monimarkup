@@ -1,0 +1,57 @@
+||<-4><#333333><table align=center><:>[wiki:"나고야 시영 지하철" <span style="font-weight:bold;color:white">나고야 시영 지하철 운행 노선</span>] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg/40px-Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg.png||<#eeeeee> [[히가시야마선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg/40px-Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg.png||<#eeeeee> [[츠루마이선]] ||
+||<|2><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg/40px-Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg.png||<#eeeeee> [[메이죠선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg/40px-Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg.png||<#fb1800> '''{{{#ffffff 사쿠라도오리선 }}}''' ||
+||<#eeeeee> [[메이코선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg/40px-Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg.png||<#eeeeee> [[카미이이다선]] ||
+
+||<table align=left><#fb1800><:>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nagoya-subway1.svg/60px-Nagoya-subway1.svg.png ||
+|| {{{+1 桜通線 / '''S'''akura-dōri Line}}} ||
+ * [[일본 철도 정보/노선 관련 정보]]
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NagoyaCitySubwaySeries6050%40Nakamurakuyakusyo.JPG/600px-NagoyaCitySubwaySeries6050%40Nakamurakuyakusyo.JPG
+--아저씨들 뭐하세요--
+[[목차]]
+== 개요 ==
+||||<#fb1800> {{{#ffffff 6호선 사쿠라도오리선}}} ||
+||운영기관 ||나고야 시 교통국 ||
+||영업거리 ||19.1km ||
+||궤간 ||1435mm ||
+||역수 ||21 ||
+||전기 ||직류 1500V 가공전차선 방식 ||
+||편성 ||5량 ||
+||신호방식 ||CS-ATC||
+||영업최고속도 ||75km/h ||
+||차량기지 ||토쿠시게 차고 ||
+||지상구간 ||없음 ||
+
+[[나고야 시 교통국]]이 운영하는 [[나고야 시영 지하철]]의 노선 중 하나로, 노선 색상은 빨간색이다. 항상 붐비는 [[히가시야마선]]의 나고야-이마이케 구간의 바이패스 역할을 해 주고 있는 노선이다.
+
+1989년 나고야-이마이케 구간이 처음 개통하였으며, 가장 최근에 개통한 구간이 노나미-토쿠시게 구간으로 2011년에 개통하였다.
+
+노선도를 보면 알겠지만 모든 역이 섬식이다.~~대구 1호선의 섬식 버전인가?~~
+
+== 노선 ==
+2012년 12월 20일 모든 역의 문서가 작성되었다.
+
+|| 번호 || 역명 || 승강장 || 환승노선 ||
+|| S-01 || [wiki:"나카무라구청역" 나카무라구청][[br]]中村区役所 || 섬식 || ||
+|| S-02 || [[wiki:"나고야역" 나고야]][[br]]名古屋 || 섬식 ||¶[[나고야 시영 지하철]] [[히가시야마선]](H-08)[[br]]¶[[JR 토카이]] [[토카이도 신칸센]], [[토카이도 본선]], [[츄오 본선]], [[칸사이 본선]][[br]]¶[[나고야 임해고속철도]] 니시나고야코선[[br]]¶[[나고야 철도]] [[wiki:"메이테츠 나고야 본선" 나고야 본선]][[br]]¶[[킨키 일본 철도]] [[wiki:"나고야선(킨키 일본 철도)" 나고야선]]||
+|| S-03 || [wiki:"국제센터역" 국제센터][[br]]国際センター || 섬식 || ||
+|| S-04 || [wiki:"마루노우치역(나고야 시영 지하철)" 마루노우치][[br]]丸の内 || 섬식 ||¶[[나고야 시영 지하철]] [[츠루마이선]](T-06)||
+|| S-05 || [wiki:"히사야오도오리역" 히사야오도오리][[br]]久屋大通 || 섬식 ||¶[[나고야 시영 지하철]] [[메이죠선]](M-06)||
+|| S-06 || [wiki:"타카오카역(나고야)" 타카오카][[br]]高岳 || 섬식 || ||
+|| S-07 || [wiki:"쿠루마미치역" 쿠루마미치][[br]]車道 || 섬식 || ||
+|| S-08 || [wiki:"이마이케역(나고야)" 이마이케][[br]]今池 || 섬식 ||¶[[나고야 시영 지하철]] [[히가시야마선]](H-13)||
+|| S-09 || [wiki:"후키아게역(나고야)" 후키아게][[br]]吹上 || 섬식 || ||
+|| S-10 || [wiki:"고키소역" 고키소][[br]]御器所 || 섬식 ||¶[[나고야 시영 지하철]] [[츠루마이선]](T-12)||
+|| S-11 || [wiki:"사쿠라야마역" 사쿠라야마][[br]]桜山 || 섬식 || ||
+|| S-12 || [wiki:"미즈호구청역" 미즈호구청][[br]]瑞穂区役所 || 섬식 || ||
+|| S-13 || [wiki:"미즈호운동장 니시역" 미즈호운동장 니시][[br]]瑞穂運動場西 || 섬식 || ||
+|| S-14 || [wiki:"아라타마바시역" 아라타마바시][[br]]新瑞橋 || 섬식 ||¶[[나고야 시영 지하철]] [[메이죠선]](M-23)||
+|| S-15 || [wiki:"사쿠라혼마치역" 사쿠라혼마치][[br]]桜本町 || 섬식 || ||
+|| S-16 || [wiki:"츠루사토역" 츠루사토][[br]]鶴里 || 섬식 || ||
+|| S-17 || [wiki:"노나미역" 노나미][[br]]野並 || 섬식 || ||
+|| S-18 || [wiki:"나루코키타역" 나루코키타][[br]]鳴子北 || 섬식 || ||
+|| S-19 || [wiki:"아이오이야마역" 아이오이야마][[br]]相生山 || 섬식 || ||
+|| S-20 || [wiki:"카미사와역(나고야)" 카미사와][[br]]神沢 || 섬식 || ||
+|| S-21 || [wiki:"토쿠시게역" 토쿠시게][[br]]徳重 || 섬식 || ||
+
+[[footnote]]

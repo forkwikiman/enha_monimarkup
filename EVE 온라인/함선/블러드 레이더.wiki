@@ -1,0 +1,48 @@
+[[include(틀:EVE 온라인/함선)]]
+ * 상위 항목 : [[EVE 온라인/함선]]
+
+[[목차]]
+attachment:"EVE 온라인/함선/bloodraiders2.png"
+블러드 레이더 (Blood Raider)
+아마르에서 떨어져나온 사이비 종교로써 함선에 피칠을 하고 다닌다. 일단 설정상 진짜 피다
+무기는 에너지 터렛을 사용하고, 뉴트럴라이저[* 상대의 캡을 중화시킨다(없앤다)]와 노스페라투(뱀파이어)[* 상대의 캡을 뺏어먹는다.], 그리고 스테이시스 웹에 보너스를 받는 함선들로 구성되어 있다.
+또한 독특한 보너스를 가지고 있다. 노스페라투(뱀파이어)는 원래 상대의 캡이 내 캡보다 적으면 더이상 작동이 안되는데, 블러드레이더의 함선을 그 조건을 무시하고 무조건 작동한다.
+스킬 요구는 아마르(에너지 보너스) + 민마타(웹 보너스)
+
+== 프리깃 (Frigate) ==
+=== 크루어 (Cruor) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Cruor'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Cruor1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_small.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_disruption.png" attachment:"EVE 온라인/함선/isis_energyTurrets.png" attachment:"EVE 온라인/함선/isis_armor.png" attachment:"EVE 온라인/함선/isis_energyDestabilization.png" attachment:"EVE 온라인/함선/isis_stasisWebifying.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''4 High''' ||<width=25%><:> '''3 Medium''' ||<width=25%><:>'''4 Low'''||<width=25%><:> '''2 Turret''' ||
+||<-4><:> '''5 드론 밴드위스 / 5 드론베이 / 330 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Amarr Frigate I, Minmatar Frigate I ||
+||<-4>'''롤 보너스''' 
+　 스몰 에너지 터렛 데미지 100% 증가 [[br]]　 에너지 뱀파이어(노스페라투) 사용시 상대의 캡 잔량에 관계없이 항상 작동 [[br]]'''Amarr Frigate 레벨당'''[[br]]　에너지 뱀파이어(노스페라투) 효과 15% 증가[[br]]　에너지 뉴트럴라이저 효과 15% 증가[[br]]'''Minmatar Frigate 레벨당'''[[br]]　스테이시스 웹 옵티멀 20% 증가||
+
+
+== 크루저 (Cruiser) ==
+=== 아시무 (Ashimmu) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Ashimmu'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Ashimmu1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_medium.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_disruption.png" attachment:"EVE 온라인/함선/isis_energyTurrets.png" attachment:"EVE 온라인/함선/isis_armor.png" attachment:"EVE 온라인/함선/isis_energyDestabilization.png" attachment:"EVE 온라인/함선/isis_stasisWebifying.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''5 High''' ||<width=25%><:> '''4 Medium''' ||<width=25%><:>'''6 Low'''||<width=25%><:> '''3 Turret''' ||
+||<-4><:> '''40 드론 밴드위스 / 40 드론베이 / 208 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Amarr Cruiser I, Minmatar Cruiser I ||
+||<-4>'''롤 보너스''' 
+　 미디엄 에너지 터렛 데미지 100% 증가 [[br]]　 에너지 뱀파이어(노스페라투) 사용시 상대의 캡 잔량에 관계없이 항상 작동 [[br]]'''Amarr Cruiser 레벨당'''[[br]]　에너지 뱀파이어(노스페라투) 효과 15% 증가[[br]]　에너지 뉴트럴라이저 효과 15% 증가[[br]]'''Minmatar Cruiser 레벨당'''[[br]]　스테이시스 웹 옵티멀 20% 증가||
+
+
+== 배틀쉽 (Battleship) ==
+=== 발곤 (Bhaalgorn) ===
+||<:><-4><table bordercolor="#394a56"><#131d27> attachment:"EVE 온라인/함선/팩션.png" {{{#ffffff '''Bhaalgorn'''}}}||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/Bhaalgorn1.jpg?width=100%" ||
+||<:><-4><#131d27> attachment:"EVE 온라인/함선/isis_large.png" attachment:"EVE 온라인/함선/isis_combat.png" attachment:"EVE 온라인/함선/isis_disruption.png" attachment:"EVE 온라인/함선/isis_energyTurrets.png" attachment:"EVE 온라인/함선/isis_armor.png" attachment:"EVE 온라인/함선/isis_energyDestabilization.png" attachment:"EVE 온라인/함선/isis_stasisWebifying.png" ||
+||<rowbgcolor=#cccccc><width=25%><:> '''7 High''' ||<width=25%><:> '''5 Medium''' ||<width=25%><:>'''7 Low'''||<width=25%><:> '''4 Turret''' ||
+||<-4><:> '''100 드론 밴드위스 / 150 드론베이 / 101 속도''' ||
+||<-4><#cccccc>{{{#000000 '''운용 스킬 :'''}}} Amarr Battleship I, Minmatar Battleship I ||
+||<-4>'''롤 보너스''' 
+　 라지 에너지 터렛 데미지 100% 증가 [[br]]　 에너지 뱀파이어(노스페라투) 사용시 상대의 캡 잔량에 관계없이 항상 작동 [[br]]'''Amarr Battleship 레벨당'''[[br]]　에너지 뱀파이어(노스페라투) 효과 15% 증가[[br]]　에너지 뉴트럴라이저 효과 15% 증가[[br]]'''Minmatar Battleship 레벨당'''[[br]]　스테이시스 웹 옵티멀 20% 증가||
+
+적의 속도를 늦추는 웹 사정거리 보너스와 뉴트/노스의 캡 삭제량 증가 보너스로 상대의 발을 묶고, 캡을 모조리 증발시켜버리는 무시무시한 함선.
+여담으로 Rooks & Kings라는 콥은 이 녀석의 뉴트 사이클 시간을 줄이는 임플란트까지 써서 자신들의 홍보 비디오에 출연시키는 등 매우 사랑한다.

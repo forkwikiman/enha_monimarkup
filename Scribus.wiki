@@ -1,0 +1,24 @@
+[[include(틀:그래픽 툴)]]
+
+||<table align=right><tablewidth=35%>|| http://www.scribus.net/wiki/skins/scribus/scribus-logo-web.png?width=60% ||
+||<width=40%> 정식명칭 || Scribus (스크라이버스) ||
+|| 개발 || The Scribus Team ||
+|| 라이센스 || [[오픈소스]] ||  
+|| 용도 || [[DTP]] ||
+|| 운영체제 || [[Windows]], [[OSX]], [[Linux]], [[FreeBSD]], OS/2 Warp 4 and eComStation, NetBSD, OpenBSD, PC-BSD, Solaris and OpenIndiana ||
+|| 사이트 || [http://www.scribus.net/|홈페이지] ||
+http://screenshots.ubuntu.com/screenshot-with-version/scribus-ng/1.4.0.dfsg+r17300-1.png?width=60%
+
+[[목차]]
+
+== 설명 ==
+스크라이버스 또는 스크리버스 정도로 읽는다.("Skry - bus",  "Scribe" + "us"). 
+본래 라틴어에서 온 이름이므로 외래어 표기법을 따르면 "스크리부스"가 된다.
+
+[[어도비]]의 탁상 출판 (DTP, desktop publishing) 프로그램인 페이지 메이커[* 인디자인 이전에 어도비에서 판매하던 DTP 프로그램. 쿽익스프레스에 대책없이 밀리고 있었으므로, 때려치고 새로 인디자인을 만들었다.]를 벤치마킹해 만든 오픈소스 [DTP] 프로그램. 실상 [리눅스]에서 쓸 수 있는 유일한 출판용 편집 프로그램이며, [[윈도우]] 및 [[맥]] 역시 지원한다. 단지 현재까지도 인터페이스가 페이지메이커와 비슷하기 때문에 유저 친화성은 [[QuarkXPress]]나 [[인디자인]]에 비해 약간 떨어지는 편이나 비용적으로 가장 쓰기 편한 출판용 프로그램임을 부정할 수는 없다.
+
+[[오픈오피스]]나 [[리버오피스]] 및 [[크리타]] 같은 그래픽 프로그램들과 연계해서 쓰면 좋다. 단지 색을 쓸 경우에는 [[CMYK]] 등의 색 지식에 대해 잘 숙지한 상태여야 제대로 쓸 수 있다.
+
+== 기타 ==
+원래 한글입력에 문제가 있었으나 1.4.0으로 버전업되면서 완전히 사라졌다. 하지만 리눅스의 경우 한글 입력시 특유의 버그[* 이쪽은 Scribus만의 문제라기보다는 입력기와 프로그램간에 관련된 문제]가 있으므로 이 부분을 유념하자.
+

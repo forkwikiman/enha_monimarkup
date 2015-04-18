@@ -1,0 +1,61 @@
+[[목차]]
+
+= 기본 정보 =
+|| attachment:네이비필드2/BB.Scharnhorst.jpg || attachment:네이비필드2/BB.Scharnhorst_Field.jpg ||
+>1939년에 취역한 독일의 전투순양함으로 2차 세계대전 동안 대서양에서 영국 해군의 상선을 공격하는 통상파괴작전으로 활약하였습니다. 세계 해전사에서 유일한 포격으로 항공모함(HMS Glorious)을 격침한 전투함이며, 그 전투에서 최장거리 명중 포격을 기록하였습니다.
+
+||<tablewidth=90%><tablealign=center><|4><table align=center><#CCCCCC>기본 정보||||||<#DCDCDC>티어||||<#DCDCDC>7||
+||||||가격||||120,620||
+||||||<#DCDCDC>함체 연구 경험치||||<#DCDCDC>122,580||
+||||||이전 함선부터 연구 경험치||||139,080||
+||<|10><table align=center><#CCCCCC>장비||<|6><table align=center><#BBBBBB>함선 정보||||<#DCDCDC>내구력||||<#DCDCDC>73,235||
+||||속도||||28.5노트||
+||||<#DCDCDC>급 가속 준비시간||||<#DCDCDC>12.0초||
+||||급 가속 유지시간||||2.6초||
+||||<#DCDCDC>전투 수리량||||<#DCDCDC>0.0DP/초||
+||||최대 대공기관총 명중률||||38.5%||
+||<|4><table align=center><#BBBBBB>장갑||||<#DCDCDC>상면||||<#DCDCDC>0||
+||||측면||||0||
+||||<#DCDCDC>방뢰||||<#DCDCDC>0||
+||||방어등급||||6||
+||<|35><table align=center><#CCCCCC>무장||<|11|><table align=center><#BBBBBB>주포||||<#DCDCDC>종류||||<#DCDCDC>11"/54 SK C/34||
+||||구성||||3연장 3기||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>10.8초||
+||||정확도||||D||
+||||<#DCDCDC>최대 사거리||||<#DCDCDC>2,370||
+||||최대 발사각||||40도||
+||||<#DCDCDC>탄약량||||<#DCDCDC>360 (40회)||
+||<|4><table align=center><#AAAAAA>공격력||탄종||HE||AP||
+||<#DCDCDC>폭발||<#DCDCDC>2,786||<#DCDCDC>836||
+||관통||836||3,344||
+||<#DCDCDC>대지||<#DCDCDC>1,393||<#DCDCDC>557||
+||<|11><table align=center><#BBBBBB>부포1||||종류||||5.9"/60 SK C/28||
+||||<#DCDCDC>구성||||<#DCDCDC>2연장 4기, 1연장 4기||
+||||재장전 시간||||4.6초||
+||||<#DCDCDC>정확도||||<#DCDCDC>C||
+||||최대 사거리||||1,830||
+||||<#DCDCDC>최대 발사각||||<#DCDCDC>40도||
+||||탄약량||||?||
+||<|4><table align=center><#AAAAAA>공격력||<#DCDCDC>탄종||<#DCDCDC>HE||<#DCDCDC>AP||
+||폭발||705||211||
+||<#DCDCDC>관통||<#DCDCDC>211||<#DCDCDC>846||
+||대지||352||141||
+||<|11><table align=center><#BBBBBB>부포2||||<#DCDCDC>종류||||<#DCDCDC>4.1"/65 SK C/33||
+||||구성||||2연장 7기||
+||||<#DCDCDC>재장전 시간||||<#DCDCDC>3.1초||
+||||정확도||||B||
+||||<#DCDCDC>최대 사거리||||<#DCDCDC>1,710||
+||||최대 발사각||||85도||
+||||<#DCDCDC>탄약량||||<#DCDCDC>?||
+||<|4><table align=center><#AAAAAA>공격력||탄종||AA||-||
+||<#DCDCDC>폭발||<#DCDCDC>375||<#DCDCDC>-||
+||관통||113||-||
+||<#DCDCDC>대지||<#DCDCDC>188||<#DCDCDC>-||
+||<|2><table align=center><#BBBBBB>거점점령||||부대수||||222||
+||||<#DCDCDC>공격력||||<#DCDCDC>928||
+||<|4><table align=center><#CCCCCC>항공기||||||총 적재량||||52||
+||||||<#DCDCDC>동시 이륙가능 수||||<#DCDCDC>1||
+||||||가능한 편대||||1||
+||||||<#DCDCDC>탑재 가능 항공기||||<#DCDCDC>정찰기||
+
+= 함선 연구 =

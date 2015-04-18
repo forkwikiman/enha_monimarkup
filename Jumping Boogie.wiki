@@ -1,0 +1,43 @@
+attachment:1_jubeat_jumpingboogie.png
+
+[[유비트 시리즈]]의 수록곡. 작곡은 [[나카무라 코조]]. 
+
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>5||<:>'''7'''||<:>8||
+||<#ffffff><:>노트수||<:>328||<:>477||<:>632||
+||<#ffffff><:>BPM||||||<:>198||
+||<#ffffff><:>곡 이력||||||[[유비트]]에서 첫 수록[[BR]][[유비트 리플즈]]에서 {{{#27a449 BSC}}}레벨 1 상승, {{{#e75050 EXT}}}레벨 1 하락[[BR]][[유비트 플러스]]에서 music pack 01에 수록[[BR]][[유비트 소서]]에서 출시전 삭제[[BR]][[유비트 소서]]에서 2013/1/1 재수록[[BR]][[유비트 소서]]에서 2013/4/1 교체[[BR]][[유비트 소서]]에서 2014/2/1 시즌곡으로 재수록||
+
+관련 칭호
+ * [[유비트]]
+  * Kozo検定準1級合格者(Kozo검정 준1급 합격자) : 모든 보면 클리어
+ * [[유비트 리플즈]] ~ [[유비트 리플즈 어펜드]]
+  * Kozo検定準1級合格者(Kozo검정 준1급 합격자) : 명의가 "Kozo Nakamura"인 곡(Jumping Boogie, [[Slang]])의 모든 보면을 클리어 
+  * Kozo検定1級合格者(Kozo검정 1급 합격자) : 명의가 "Kozo Nakamura"인 곡(Jumping Boogie, [[Slang]])의 모든 보면에서 풀 콤보 
+ * [[유비트 니트]] ~
+  * Jumping Master : 모든 보면 클리어
+  * Jumping Master '''GT'''[* 굵은 글씨는 칭호 파츠.] : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+[[유비트]] C클래스 해금곡으로 C클래스의 레벨업 특성상 상당히 빠르게 해금이 되는 곡이다. White계열 해금조건이 상당히 완화된 [[유비트 리플즈]]에서는 White C2로 고정이 되었지만 가볍게 3코인만에 해금이 가능한 곡이다.
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/wxu0VjeXfQ0" frameborder="0" allowfullscreen></iframe>
+}}}
+익스트림 채보 영상
+
+{{{#!HTML
+<iframe title="YouTube video player" width="640" height="480" src="http://www.youtube.com/embed/FGzjLw3HA4k" frameborder="0" allowfullscreen></iframe>
+}}}
+'''문제의 ADVANCED''' 엑설런트 영상. --그의 코멘트도 들어보자.--
+
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/nHzyAqlNgxk" frameborder="0" allowfullscreen></iframe>
+}}}
+ADVANCED 패턴의 어느 한 구간.
+
+이 곡의 특징은 판정을 종잡기 힘들다는 점. 거기에 연타 위주로 나오기 때문에 더더욱 어렵게 느껴지는 곡으로, 대개 C클래스에서 해금해놓고 어려워서 잊고있다가 스코어링을 위해 다시 건드리는 경우가 대부분이다. 
+
+곡 진행 내내 셔플리듬 반복에 애매한 리듬과 엇박이 많이 나오기 때문에 스코어링 및 [[엑설런트]]가 꽤나 어려운 편이며, 그나마 EXT의 경우 곡의 리듬과 잘 맞아서 곡을 많이 듣다 보면 어떻게 쳐야 할지 대충 감이 오는데, ADV의 경우는 EXT의 박자에 일부분이 없는 상태에 중간중간 페이크 박자까지 들어있는 바람에 [[Chance and Dice]]와는 달리 이건 '''어긋나는 박자에 대해 뭐라고 할 만한 규칙'''도 없다. 그래서인지 어드밴스드는 7레벨 중에서도 [[엑설런트]] 난이도가 '''최상급'''에 속하며, '''익스트림보다도 엑설런트 하기 어려운 어드밴스드'''라는 평까지 나올 정도.

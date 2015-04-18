@@ -1,0 +1,25 @@
+* 상위 항목 : [[ZTE]]
+
+||<tablealign="center"> http://pdadb.net/img/zte_libra.jpg ||
+|| [[http://www.ztedevices.com/search.html?keyword=Libra ZTE 글로벌 Libra 고객지원 검색결과]] ||
+
+[[목차]]
+
+== 개요 ==
+[[ZTE]]가 2011년 2월, [[MWC]] 2011에서 공개한 [[wiki:"안드로이드(OS)" 안드로이드]] [[스마트폰]]. 
+
+== 사양 ==
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S1 MSM7227 [[SoC]]. [[ARM]]11 600 MHz [[CPU]], 퀄컴 Adreno 200 [[GPU]] ||
+||[[메모리]]||256 MB LPDDR1 SDRAM, 512 MB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||3.5인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD [[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE], [[Wi-Fi]] 802.11b/g, [[블루투스]] 2.1 ||
+||[[카메라]]||후면 500만 화소 [[AF]] ||
+||[[배터리]]||Li-Ion 1250 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(OS)/버전" 안드로이드]] 2.2 (Froyo) ||
+||규격||57 x 115 x 12.6 mm, 115 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원 ||
+
+== 상세 ==
+저사양의 [[스마트폰]]이며, 별 다른 특징은 없다.
+
+2011년 2월에 공개되었을 당시에는 2.1 이클레어로 공개되었으나, 동년 9월 [[http://wwwen.zte.com.cn/en/press_center/press_clipping/201110/t20111006_353848.html 영국 출시]] 당시에는 2.2 프로요로 출시되었다.[* 9월 이전에 출시된 기록은 ZTE 공식 홈페이지에서 확인이 불가능하다.]

@@ -1,0 +1,594 @@
+[[include(틀:워게임: 레드 드래곤/진영)]]
+
+[[목차]]
+
+
+상위항목 : [wiki:"워게임: 레드 드래곤" 워게임: 레드 드래곤]
+
+기존 유닛들 정보는 [[워게임 : 에어랜드 배틀/노르웨이]] 참조.
+
+[[WRD]]의 [[노르웨이군]]항목. 유진 시스템즈가 한글화 방침중에 유닛명과 무기의 명칭은 번역 금지를 원칙으로 삼아 기존의 번역은 파기함.
+
+당장의 스칸디나비아군은 유닛 추가가 없어 RD항목에 맞추고 카테고리만 정리함.
+
+카테고리C는 갈색 볼드, 카테고리B는 녹색 볼드, 카테고리A는 검은색 볼드 처리되었다.
+
+= [[노르웨이]] 왕국 전투단 =
+
+전작까진 미국 이외에 1000kg 폭탄을 가지고 있던 유일한 진영. 다만 레드 드래곤에선 ANZAC의 F-111이 8발이나 들고 나와서 조금 의미가 죽었다. 그래도 6대까진 굴릴 수 있다.
+
+요약하면 '''화력 지원''' 국가. 특출난 것도 없고 뛰어난 유닛이 보병말고는 없기 때문에 이 진영으로 1v1을 하는건 패배를 각오해야 한다. 쓸거면 연합전용으로 쓰는 게 낫다. 특이점이라면 85년도부터 수송차량에 20mm를 달고 있기 때문에 1.5km 내에서 헬리콥터에 대한 대공사격이 가능하다. 공격이라기보다는 무조건 방어적인 태세를 유지하는게 좋다. F-5A가 너프폭탄을 듬뿍 먹어 평범한 로켓 공격기가 되었기 때문에 전작처럼 대공포 저격질이 가능할지 어떨지...
+
+덴마크와 마찬가지로 스칸디나비아 연합의 비빔재료격인 국가. Fallskjermjeger와 NOAH, F-16A 정도만 챙겨가면 된다. 아직 레드 드래곤에서 별도의 유닛 추가가 이루어지지 않고 겨우 지휘 보병 하나, 민수 수송 헬기 하나 넣어 놓고 LAV-M를 빼서 에어랜드 배틀에 비해 유닛 수가 거의 변하지 않았다. 그래서 단독으로 쓰기엔 유닛 수가 너무 적은데 그래서 모든 유닛을 채워넣어도 칸 9개를 채워넣을 수 없는 병종[* VHC, AIR]도 있다.
+
+DLC3# 이후로는 에릭스로 무장한 정예 보병들, 2세대 개조 전차, 방공, 제공전투기 등이 추가되어 전반적으로 허리가 튼실한 국가가 되었다. 이전에는 단독덱으로 운용하기 어려웠으나, 현재는 어찌저찌 단독 덱으로 쓸 수는 있는 수준이 되었다. 그러나 역시 3세대 전차에 대한 대응능력이 에릭스나 토우2를 제외하면 부족하고, 전투 헬기가 아예 없는데다 결정적으로 적의 헬기를 상대할 만한 기동성 있는 야전방공유닛(맨패즈 트럭이나 방공기관포)들이 죄다 경탄스러울 정도로 저성능이라 공세작전시 고난의 길을 걸어야 한다. 단독덱으로 굴리기는 여러모로 어려운 국가.
+
+== LOG ==
+
+=== 지휘 ===
+
+ * 보병
+
+ attachment:/K.O.jpg 
+  * '''{{{#Brown K.0.}}}''' 
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Battle Rifle,, ||<width=100px> ,,LMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+||||<|2> ,,NAME,, || || ,,STAT,, ||  || ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,AG-3,, || ,,MG3,, ||  || ,,BACK,, || {{{#firebrick 0 }}} ||
+||||<|2> ,,AMMO,, || ,,7.62mm rounds,, || ,,7.62mm rounds,, ||  || ,,TOP,, || {{{#firebrick 0 }}} ||
+|| ,,x,, 800 || ,,x,, 1000 ||  ||||<width=75px> ,,STRENGTH,, || {{{#lightgreen 5 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 595 ,,m,, }}} || {{{#skyblue 980 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#skyblue Very small }}},, ||
+|| ,,HELICOPTERS,, || {{{#skyblue 595 ,,m,, }}} || {{{#skyblue 595 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#firebrick 20 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 40,,%,, }}} || {{{#lightgreen 30,,%,, }}} ||  |||| ,,TRAINING,, ||<width=75px> ,,{{{#sandybrown Regular }}},, ||
+|||| ,,STABILIZER,, || {{{#firebrick 10,,%,, }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,STEALTH,, || ,,{{{#lightgreen Good }}},, ||
+|||| ,,AP POWER,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,HE POWER,, || {{{#skyblue 1 }}} || {{{#skyblue 0.5 }}} ||  |||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,SUPRESSION,, || {{{#skyblue 55 }}} || {{{#skyblue 55 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#firebrick 120 ,,r/m,, }}} || {{{#skyblue 474 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1975 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ,,{{{#royalblue Ai }}},, ||
+
+ * 차량화 지휘차량
+
+ attachment:rover_kpv.jpg 
+  * '''{{{#Brown Rover KPV}}}'''
+||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+|| ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,BACK,, || {{{#firebrick 0 }}} ||
+|| ,,TOP,, || {{{#firebrick 0 }}} ||
+||||<width=75px> ,,STRENGTH,, || {{{#lightgreen 5 }}} ||
+|||| ,,SIZE,, || ,,{{{#lightgreen Small }}},, ||
+|||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|||| ,,SPEED,, || {{{#skyblue 95 ,,km/h,, }}} ||
+|||| ,,ROAD SPEED,, || {{{#skyblue 150 ,,km/h,, }}} ||
+|||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,FUEL,, || {{{#skyblue 75 ,,L,, }}} ||
+|||| ,,AUTONOMY,, || {{{#lightgreen 500 ,,km,, }}} ||
+|||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,YEAR,, || 1971 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ,,{{{#royalblue Ai }}},, ||
+
+ 
+  * '''XA-186NO KPV''' '''{{{#Red (DLC)}}}'''
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 3 }}} ||
+||||<|2> ,,NAME,, || || || || ,,SIDE,, || {{{#firebrick 3 }}} ||
+|| ,,M2 Browning,, || ||  || ,,BACK,, || {{{#firebrick 1 }}} ||
+||||<|2> ,,AMMO,, || ,,12.7mm rounds,, || ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 900 || ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#lightgreen 1050 ,,m,, }}} || ||  |||| ,,SIZE,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,HELICOPTERS,, || {{{#lightgreen 875 ,,m,, }}} || ||  |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ||  |||| ,,SPEED,, || {{{#skyblue 100 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 15,,%,, }}} || || |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 150 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || {{{#firebrick 5,,%,, }}} || || |||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,AP POWER,, || ,,{{{#dimgray N/A }}},, || || |||| ,,FUEL,, || {{{#skyblue 290 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#skyblue 0.75 }}} || || |||| ,,AUTONOMY,, || {{{#skyblue 800 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#skyblue 90 }}} || || |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#firebrick 500 ,,r/m,,}}} || ||  |||| ,,YEAR,, || 1988 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#lightskyblue Ma }}},, ||
+
+ * 기계화 지휘차량
+
+ attachment:M577KPV.jpg
+  * '''{{{#Brown M577 KPV}}}''' 
+||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 2 }}} ||
+|| ,,SIDE,, || {{{#firebrick 2 }}} ||
+|| ,,BACK,, || {{{#firebrick 1 }}} ||
+|| ,,TOP,, || {{{#firebrick 1 }}} ||
+||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+|||| ,,SIZE,, || ,,{{{#sandybrown Medium }}},, ||
+|||| ,,OPTICS,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,SPEED,, || {{{#lightgreen 60 ,,km/h,, }}} ||
+|||| ,,ROAD SPEED,, || {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,FUEL,, || {{{#skyblue 350,,L,, }}} ||
+|||| ,,AUTONOMY,, || {{{#lightgreen 500 ,,km,, }}} ||
+|||| ,,AMPHIBIOUS,, || {{{#firebrick 30 ,,km/h,, }}} ||
+|||| ,,YEAR,, || 1964 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},,  ,,{{{#olive Me }}},, ||
+
+ * 지휘전차
+
+ attachment:NM48.jpg
+  * '''{{{#Brown KoVogn M48A5}}}''' 
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 5 }}} ||
+||||<|2> ,,NAME,, || ,,KE,, ,,STAT,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 3 }}} ||
+|| ,,M68,, || ,,M2 Browning,, ||  || ,,BACK,, || {{{#firebrick 1 }}} ||
+||||<|2> ,,AMMO,, || ,,105mm rounds,, || ,,12.7mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 37 || ,,x,, 900 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 1925 ,,m,, }}} || {{{#lightgreen 1050 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#firebrick Big }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 875 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#firebrick 50 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 35,,%,, }}} || {{{#lightgreen 15,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || ,,{{{#dimgray N/A }}},, || {{{#firebrick 5,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,AP POWER,, || {{{#sandybrown 11 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#skyblue 760 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#sandybrown 3 }}} || {{{#skyblue 0.75 }}} ||  |||| ,,AUTONOMY,, || {{{#sandybrown 460 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#sandybrown 121 }}} || {{{#skyblue 90 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#sandybrown 8 ,,r/m,, }}} || {{{#firebrick 500 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1979 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ||
+
+ * 지휘헬기
+
+=== 보급 ===
+
+ attachment:NFOB_1.jpg
+  * '''{{{#Brown FOB}}}''' 
+||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+|| ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,BACK,, || {{{#firebrick 0 }}} ||
+|| ,,TOP,, || {{{#firebrick 0 }}} ||
+||||<width=75px> ,,STRENGTH,, || {{{#skyblue 20 }}} ||
+|||| ,,SIZE,, || ,,{{{#firebrick Very big }}},, ||
+|||| ,,OPTICS,, || ,,{{{#firebrick Bad }}},, ||
+|||| ,,SPEED,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,ROAD SPEED,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,SUPPLY,, || {{{#skyblue 16000 ,,L,, }}} ||
+|||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,YEAR,, || 0 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ,,{{{#royalblue Ai }}},, ||
+
+ * [[트럭]]
+
+ attachment:M621_LOGK.jpg 
+  * '''{{{#Brown M621 Logk}}}''' 
+||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+|| ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,BACK,, || {{{#firebrick 0 }}} ||
+|| ,,TOP,, || {{{#firebrick 0 }}} ||
+||||<width=75px> ,,STRENGTH,, || {{{#lightgreen 5 }}} ||
+|||| ,,SIZE,, || ,,{{{#sandybrown Medium }}},, ||
+|||| ,,OPTICS,, || ,,{{{#firebrick Bad }}},, ||
+|||| ,,SPEED,, || {{{#sandybrown 50 ,,km/h,, }}} ||
+|||| ,,ROAD SPEED,, || {{{#skyblue 150 ,,km/h,, }}}  ||
+|||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,SUPPLY,, || {{{#sandybrown 500 ,,L,, }}} ||
+|||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,YEAR,, || 1968 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#olive Me }}},, ||
+
+평범한 10 포인트 짜리 보급 트럭인데, 문제는 DLC가 나올 때까지 이게 노르웨이군의 유일한 보급 수단이라는 것이다.
+
+  * '''{{{#FORSYNINGS JUPITER}}}''' 
+패치로 추가된 보급트럭. 보급량 1100.
+
+
+ * 보급헬기
+
+ http://i.imgur.com/As1xNC8.png
+  * '''AS.332''' '''{{{#Red (DLC)}}}'''
+  도색을 보아하니 병원헬기로 보인다(...) 보급량 1500.
+
+== INF ==
+
+ * 소총분대
+
+ attachment:/LHV.jpg
+  * '''{{{#Brown LHV}}}'''  (x1) (예비군) - '''프로토타입'''
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Battle Rifle,, ||<width=100px> ,,LAW,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+||||<|2> ,,NAME,, || || ,,HEAT,, ,,STAT,, ||  || ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,Krag-Jorgensen,, || ,,M72 LAW,, ||  || ,,BACK,, || {{{#firebrick 0 }}} ||
+||||<|2> ,,AMMO,, || ,,7.62mm rounds,, || ,,66mm HEAT rockets,, ||  || ,,TOP,, || {{{#firebrick 0 }}} ||
+|| ,,x,, 1800 || ,,x,, 6 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 15 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 595 ,,m,, }}} || {{{#sandybrown 525 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#skyblue Very small }}},, ||
+|| ,,HELICOPTERS,, || {{{#skyblue 595 ,,m,, }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#firebrick 15 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 40,,%,, }}} || {{{#lightgreen 30,,%,, }}} ||  |||| ,,TRAINING,, ||<width=75px> ,,{{{#firebrick Militia }}},, ||
+|||| ,,STABILIZER,, || {{{#firebrick 5,,%,, }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,STEALTH,, || ,,{{{#lightgreen Good }}},, ||
+|||| ,,AP POWER,, || ,,{{{#dimgray N/A }}},, || {{{#sandybrown 13 }}} ||  |||| ,,FUEL,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,HE POWER,, || {{{#skyblue 1 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,SUPRESSION,, || {{{#skyblue 55 }}} || {{{#lightgreen 264 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#firebrick 64 ,,r/m,, }}} || {{{#skyblue 20 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1975 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#olive Me }}},, ||
+
+  노르웨이 민병. 충격스럽게도 무장이 '''1905'''년산 크래그-요르겐센 라이플이다(...) 대전차무기도 M72를 사용하기 때문에 예비군 중에서는 최고의 가성비를 보여준다. 시가지에 몸빵으로 앞세우고 자주포로 뎀딜해도 좋고 여기저기 뿌려서 지나가는 차량을 노려도 좋다. 패치를 통해 10인분대로 너프되었다.
+
+||<width=100px>  ,,탑승 차량 및 가용량,, ||<width=50px> ,,ROOKIE,, ||<width=50px> ,,TRAINED,, ||<width=50px> ,,HARDENED,, ||<width=50px> ,,VETERAN,, ||<width=50px> ,,ELITE,, ||
+|| ,,NM113 (+5),, || 0 || 32 || 24 || 0 || 0 ||
+
+ attachment:/GEVERMENN.jpg
+  * '''{{{#Brown Geværmenn}}}'''  (x3) (소총병) - 전열보병
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Battle Rifle,, ||<width=100px> ,,LAW,, ||<width=100px> ,,LMG,, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+||||<|2> ,,NAME,, || || ,,HEAT STAT,, || ,,STAT,, || ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,AG-3,, || ,,M72 LAW,, || ,,MG3,, || ,,BACK,, || {{{#firebrick 0 }}} ||
+||||<|2> ,,AMMO,, || ,,7.62mm rounds,, || ,,66mm HEAT rockets,, || ,,7.62mm rounds,, || ,,TOP,, || {{{#firebrick 0 }}} ||
+|| ,,x,, 1600 || ,,x,, 6 || ,,x,, 2500 ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 595 ,,m,, }}} || {{{#sandybrown 525 ,,m,, }}} || {{{#skyblue 980 ,,m,, }}} |||| ,,SIZE,, || ,,{{{#skyblue Very small }}},, ||
+|| ,,HELICOPTERS,, || {{{#skyblue 595 ,,m,, }}} || ,,{{{#dimgray N/A }}},, || {{{#skyblue 595 ,,m,, }}} |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, |||| ,,SPEED,, || {{{#firebrick 20 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 40,,%,, }}} || {{{#sandybrown 30,,%,, }}} || {{{#lightgreen 30,,%,, }}} |||| ,,TRAINING,, ||<width=75px> ,,{{{#sandybrown Regular }}},, ||
+|||| ,,STABILIZER,, || {{{#firebrick 10,,%,, }}} || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, |||| ,,STEALTH,, || ,,{{{#lightgreen Good }}},, ||
+|||| ,,AP POWER,, || ,,{{{#dimgray N/A }}},, || {{{#sandybrown 13 }}} || ,,{{{#dimgray N/A }}},, |||| ,,FUEL,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,HE POWER,, || {{{#skyblue 1 }}} || ,,{{{#dimgray N/A }}},, || {{{#skyblue 0.5 }}} |||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,SUPRESSION,, || {{{#skyblue 55 }}} || {{{#lightgreen 264 }}} || {{{#skyblue 55 }}} |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#firebrick 120 ,,r/m,, }}} || {{{#skyblue 20 ,,r/m,, }}} || {{{#skyblue 474 ,,r/m,,}}} |||| ,,YEAR,, || 1975 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ||
+
+  일반적인 소총부대. 미국의 라이플맨이 7.62mm 전투 소총을 쓰고 [["MG3" 기관총을 2배 빠르게 쏘고 다닌다고]] 생각하면 편하다.
+
+||<width=100px>  ,,탑승 차량 및 가용량,, ||<width=50px> ,,ROOKIE,, ||<width=50px> ,,TRAINED,, ||<width=50px> ,,HARDENED,, ||<width=50px> ,,VETERAN,, ||<width=50px> ,,ELITE,, ||
+|| ,,NM113 (+5),, || 0 || 20 || 16 || 0 || 0 ||
+|| ,,NM135 (+15),, || 0 || 16 || 12 || 0 || 0 ||
+|| ,,SISU XA-180 (+15),, || 0 || 20 || 16 || 0 || 0 ||
+|| ,,UH-1B (+15),, || 0 || 16 || 12 || 0 || 0 ||
+
+  * '''Geværmenn 90'''
+ 소총 보병 90년대 타입. 패치로 10원으로 가격이 하락하였다. AP16.
+
+
+ attachment:/STORMER.jpg
+  * '''{{{#Brown Stormer}}}'''  (x3) (돌격대) - 충격보병
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Battle Rifle,, ||<width=100px> ,,LAW,, ||<width=100px> ,,SAW,, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+||||<|2> ,,NAME,, || || ,,HEAT STAT,, || ,,CQC,, || ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,AG-3,, || ,,Carl Gustav M2,, || ,,I.MG3,, || ,,BACK,, || {{{#firebrick 0 }}} ||
+||||<|2> ,,AMMO,, || ,,7.62mm rounds,, || ,,84mm HEAT rockets,, || ,,7.62mm rounds,, || ,,TOP,, || {{{#firebrick 0 }}} ||
+|| ,,x,, 2400 || ,,x,, 6 || ,,x,, 2500 ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 595 ,,m,, }}} || {{{#sandybrown 525 ,,m,, }}} || {{{#skyblue 875 ,,m,, }}} |||| ,,SIZE,, || ,,{{{#skyblue Very small }}},, ||
+|| ,,HELICOPTERS,, || {{{#skyblue 595 ,,m,, }}} || ,,{{{#dimgray N/A }}},, || {{{#skyblue 595 ,,m,, }}} |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, |||| ,,SPEED,, || {{{#firebrick 25 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#skyblue 60,,%,, }}} || {{{#skyblue 60,,%,, }}} || {{{#lightgreen 40,,%,, }}} |||| ,,TRAINING,, ||<width=75px> ,,{{{#lightgreen Shock }}},, ||
+|||| ,,STABILIZER,, || {{{#firebrick 15,,%,, }}} || ,,{{{#dimgray N/A }}},, || {{{#firebrick 20,,%,, }}} |||| ,,STEALTH,, || ,,{{{#lightgreen Good }}},, ||
+|||| ,,AP POWER,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 18 }}} || ,,{{{#dimgray N/A }}},, |||| ,,FUEL,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,HE POWER,, || {{{#skyblue 1 }}} || ,,{{{#dimgray N/A }}},, || {{{#skyblue 0.5 }}} |||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,SUPRESSION,, || {{{#skyblue 55 }}} || {{{#skyblue 336 }}} || {{{#skyblue 55 }}} |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#sandybrown 171 ,,r/m,, }}} || {{{#lightgreen 10 ,,r/m,, }}} || {{{#skyblue 474 ,,r/m,,}}} |||| ,,YEAR,, || 1975 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#olive Me }}},, ,,{{{#royalblue Ai }}},, ||
+
+  같은 충격보병인 덴마크의 Livgarden과 비교해 이쪽이 지원화기가 CQC속성이라 좀 더 낫다. 사실 덴마크 충격보병이 이상한 거지만.
+
+||<width=100px>  ,,탑승 차량 및 가용량,, ||<width=50px> ,,ROOKIE,, ||<width=50px> ,,TRAINED,, ||<width=50px> ,,HARDENED,, ||<width=50px> ,,VETERAN,, ||<width=50px> ,,ELITE,, ||
+|| ,,NM113 (+5),, || 0 || 0 || 12 || 8 || 0 ||
+|| ,,NM135 (+15),, || 0 || 0 || 12 || 8 || 0 ||
+|| ,,SISU XA-180 (+15),, || 0 || 0 || 12 || 8 || 0 ||
+|| ,,UH-1B (+15),, || 0 || 0 || 12 || 8 || 0 ||
+
+ * 경보병
+  * '''{{{#Brown Fallskjermjeger}}}'''(강하엽병) -  충격보병
+  * '''Fallskjermjeger'90''' - 프로토타입
+  DLC#3들어 특수부대의 자리는 FSK에게 내주고 15인 경보병으로(!) 이동했다. 특히 90년대판은 패치전 기척도 울고갈 에릭스 12발에 MG3을 휘두르는 충격과 공포의 전투력.
+
+ * 특수부대
+  * '''FSK'''
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Battle Rifle,, ||<width=100px> ,,ATGM,, ||<width=100px> ,,SAW,, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+||||<|2> ,,NAME,, || || ,,GUID,, || ,,CQC,, || ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,AG-3,, || ,,Eryx,, || ,,I.MG3,, || ,,BACK,, || {{{#firebrick 0 }}} ||
+||||<|2> ,,AMMO,, || ,,7.62mm rounds,, || ,,SACLOS missiles,, || ,,7.62mm rounds,, || ,,TOP,, || {{{#firebrick 0 }}} ||
+|| ,,x,, 3200 || ,,x,, 8 || ,,x,, 2500 ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 595 ,,m,, }}} || {{{#sandybrown 1050 ,,m,, }}} || {{{#skyblue 875 ,,m,, }}} |||| ,,SIZE,, || ,,{{{#skyblue Very small }}},, ||
+|| ,,HELICOPTERS,, || {{{#skyblue 595 ,,m,, }}} || ,,{{{#dimgray N/A }}},, || {{{#skyblue 595 ,,m,, }}} |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, |||| ,,SPEED,, || {{{#firebrick 30 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#skyblue 80,,%,, }}} || {{{#skyblue 60,,%,, }}} || {{{#lightgreen 40,,%,, }}} |||| ,,TRAINING,, ||<width=75px> ,,{{{#skyblue Elite }}},, ||
+|||| ,,STABILIZER,, || {{{#firebrick 20,,%,, }}} || ,,{{{#dimgray N/A }}},, || {{{#firebrick 20,,%,, }}} |||| ,,STEALTH,, || ,,{{{#lightgreen Good }}},, ||
+|||| ,,AP POWER,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 25 }}} || ,,{{{#dimgray N/A }}},, |||| ,,FUEL,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,HE POWER,, || {{{#skyblue 1 }}} || ,,{{{#dimgray N/A }}},, || {{{#skyblue 0.5 }}} |||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,SUPRESSION,, || {{{#skyblue 55 }}} || {{{#sandybrown 150 }}} || {{{#skyblue 55 }}} |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#lightgreen 266 ,,r/m,, }}} || {{{#lightgreen 12 ,,r/m,, }}} || {{{#skyblue 474 ,,r/m,,}}} |||| ,,YEAR,, || 1992 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ,,{{{#royalblue Ai }}},, ||
+
+  노르웨이판 하이랜더. I.MG3를 들고 나온데다 헬파이어급의 위력인 프랑스제 Eryx의 버프로, 가성비가 쩔어주는 특수부대가 되었다. 인원수로는 스웨덴에 밀리지만, 종합적인 전투력을 따진다면 스칸디나비아연합에서 단연 탑급유닛이다.
+
+||<width=100px>  ,,탑승 차량 및 가용량,, ||<width=50px> ,,ROOKIE,, ||<width=50px> ,,TRAINED,, ||<width=50px> ,,HARDENED,, ||<width=50px> ,,VETERAN,, ||<width=50px> ,,ELITE,, ||
+|| ,,SISU XA-180 (+15),, || 0 || 0 || 0 || 8 || 6 ||
+|| ,,UH-1B (+15),, || 0 || 0 || 0 || 8 || 6 ||
+|| ,,BELL 204 (+15),, || 0 || 0 || 0 || 8 || 6 ||
+
+ * 화력 지원반
+ attachment:obm2oZZ.jpg
+  * '''Stormingeniører''' '''{{{#Red (DLC)}}}'''
+  이름은 공병인데 포트레잇이 화력지원반. 방독면도 착실히 쓰고나왔다. 
+  75년도 유닛은 [[칼 구스타프]]를 들고 나오는데 사거리 상향을 받아서 쓸만하다.
+  
+  * '''Stormingeniører 90''' 
+  90년도 근대화 보병은 [[Eryx]](!)를 들고 나온다. 물론 둘 다 고폭탄을 쓸 수 있다.
+
+ * 대공 특기병
+
+ attachment:/NRBS70.jpg
+  * '''{{{#Brown RBS 70}}}'''  (x2)
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Battle Rifle,, ||<width=100px> ,,SAM,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 0 }}} ||
+||||<|2> ,,NAME,, || || ,,AoE GUID,, || || ,,SIDE,, || {{{#firebrick 0 }}} ||
+|| ,,AG-3,, || ,,RBS-70,, || || ,,BACK,, || {{{#firebrick 0 }}} ||
+||||<|2> ,,AMMO,, || ,,7.62mm rounds,, || ,,SACLOS missiles,, || || ,,TOP,, || {{{#firebrick 0 }}} ||
+|| ,,x,, 800 || ,,x,, 8 || ||||<width=75px> ,,STRENGTH,, || {{{#lightgreen 5 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 595 ,,m,, }}} || ,,{{{#dimgray N/A }}},, || |||| ,,SIZE,, || ,,{{{#skyblue Very small }}},, ||
+|| ,,HELICOPTERS,, || {{{#skyblue 595 ,,m,, }}} || {{{#skyblue 2625 ,,m,, }}} || |||| ,,OPTICS,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || {{{#sandybrown 2100 ,,m,, }}} || |||| ,,SPEED,, || {{{#firebrick 15 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 40,,%,, }}} || {{{#lightgreen 45,,%,, }}} || |||| ,,TRAINING,, ||<width=75px> ,,{{{#sandybrown Regular }}},, ||
+|||| ,,STABILIZER,, || {{{#firebrick 10,,%,, }}} || ,,{{{#dimgray N/A }}},, || |||| ,,STEALTH,, || ,,{{{#lightgreen Very good }}},, ||
+|||| ,,AP POWER,, || ,,{{{#dimgray N/A }}},, || {{{#sandybrown 4 }}} ||  |||| ,,FUEL,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,HE POWER,, || {{{#skyblue 1 }}} || ,,{{{#dimgray N/A }}},, || |||| ,,AUTONOMY,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,SUPRESSION,, || {{{#skyblue 55 }}} || {{{#lightgreen 160 }}} || |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#firebrick 120 ,,r/m,, }}} || {{{#lightgreen 12 ,,r/m,, }}} || |||| ,,YEAR,, || 1980 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ,,{{{#royalblue Ai }}},, ||
+  * '''RBS 70 Mk.2'''
+
+||<width=100px>  ,,탑승 차량 및 가용량,, ||<width=50px> ,,ROOKIE,, ||<width=50px> ,,TRAINED,, ||<width=50px> ,,HARDENED,, ||<width=50px> ,,VETERAN,, ||<width=50px> ,,ELITE,, ||
+|| ,,NM113 (+5),, || 0 || 8 || 6 || 0 || 0 ||
+|| ,,SISU XA-180 (+15),, || 0 || 8 || 6 || 0 || 0 ||
+|| ,,UH-1B (+15),, || 0 || 8 || 6 || 0 || 0 ||
+유도식 대공미사일이지만 사거리가 길다. 같은 가격의 RBS 90의 하위호환격이다. 보통은 DLC3의 스팅어를 쓰는 편.
+
+== SUP ==
+
+=== [[포병]] ===
+
+ * [[자주박격포]]
+ attachment:NM125.jpg
+  * '''{{{#Brown NM125}}}''' 
+ attachment:NM106.jpg
+  * '''{{{#Brown NM106}}}''' 
+평범한 박격포들이다.
+
+ * 155mm급 [[자주포]]
+ attachment:NM109.jpg 
+  * '''{{{#Brown NM109}}}''' 
+  * '''NM 109AGN'''
+
+ * MRL
+  * '''M270''' - 프로토타입
+원래는 고폭탄을 쓰는 타입이었지만 DLC3 다음에 나온 추가 패치에서 클러스터로 변경되었다.
+
+=== 방공 ===
+
+ *자주 대공포
+  * 기관포 
+  http://i.imgur.com/trytNhm.png
+   * '''NM45''' {{{#Red (DLC)}}}
+   트럭에 기관포를 달아놓은 빈곤한 방공테크니컬. 주로 헬기 급습에 쓰인다. --그냥 안쓰인다-- --덴마크의 승공포(GMC M45D)보단 낫다--
+
+ * 방공미사일
+  * IR - 고정식
+  attachment:NM195.jpg 
+   * '''{{{#Green NM195}}}''' 
+   M113에다가 맨패즈를 달아놓은 안습한 방공유닛. 사정거리는 타국의 방공기관포만한데 기관포만큼 제압을 잘 하는 것도 아니라서 헬기 잡으라고 보내면[* 얘하고 RBS-70 빼면 헬기 잡으려 보낼 게 없다!] 헬기한테 터지는 게 현실. 무엇보다 북유럽 연합을 고르면 스웨덴이 완전 동일한 스펙인데도 미사일 12발을 달고 온다(...) 이건 6발. 다만 스웨덴 대공장갑차는 항속거리가 반토막이다.
+
+  * 레이더
+  attachment:NOAH.jpg 
+   * '''NOAH''' 
+   노르웨이판 호크. 뭔 마개조를 거친건지 PIPIII에 비견될 정도의 성능. 하지만 카테고리 A에 속하게 되어 물량공세는 불가능. 보통 스칸디나비아연합에서 레이더 방공용으로 들고오는 용도. 3국의 레이더 방공망(그래봤자 거진 호크지만) 중에서 가장 좋기 때문에 거의 무조건이라 해도 좋을 정도로 들어간다.
+  http://i.imgur.com/3qFtW40.png
+    * '''NASAM'''  ([[AIM-120|암람]]){{{#Red (DLC)}}}
+    암람을 쏜다(!) 그리고 FnF 이다. --으아니-- DLC#3 베타에서 성능이 공개되었는데, 85포인트, 대헬기 2800m, 대항공기 3500m, 명중률 60%이다. 연사가 매우 빨라서 범위 내로 들어오는 항공기는 살아남기 어렵다. 다만 대항공기 사거리가 짧아서 시드기의 밥이니 평소에는 꺼놨다가 기습적으로 켜서 쏴야 한다.
+== TNK ==
+
+ * 1세대급 주력전차
+ attachment:m48a1.jpg
+  * '''{{{#Brown M48A1}}}'''  ([[M48 패튼]])
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 5 }}} ||
+||||<|2> ,,NAME,, || ,,KE,, ,,STAT,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 3 }}} ||
+|| ,,M41,, || ,,M2 Browning,, ||  || ,,BACK,, || {{{#firebrick 1 }}} ||
+||||<|2> ,,AMMO,, || ,,90mm rounds,, || ,,12.7mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 40 || ,,x,, 900 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 1750 ,,m,, }}} || {{{#lightgreen 1050 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#firebrick Big }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 875 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#firebrick Poor }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#sandybrown 50 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#sandybrown 30,,%,, }}} || {{{#lightgreen 15,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || ,,{{{#dimgray N/A }}},, || {{{#firebrick 5,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,AP POWER,, || {{{#firebrick 8 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#skyblue 760 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#sandybrown 3 }}} || {{{#skyblue 0.75 }}} ||  |||| ,,AUTONOMY,, || {{{#sandybrown 460 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#firebrick 104 }}} || {{{#skyblue 90 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#sandybrown 8 ,,r/m,, }}} || {{{#firebrick 500 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1955 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ||
+
+ attachment:M48A5.jpg
+  * '''{{{#Brown M48A5}}}''' 
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 5 }}} ||
+||||<|2> ,,NAME,, || ,,KE,, ,,STAT,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 3 }}} ||
+|| ,,M68,, || ,,M2 Browning,, ||  || ,,BACK,, || {{{#firebrick 1 }}} ||
+||||<|2> ,,AMMO,, || ,,105mm rounds,, || ,,12.7mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 37 || ,,x,, 900 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 1925 ,,m,, }}} || {{{#lightgreen 1050 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#firebrick Big }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 875 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#firebrick Poor }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#sandybrown 50 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 35,,%,, }}} || {{{#lightgreen 15,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || ,,{{{#dimgray N/A }}},, || {{{#firebrick 5,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,AP POWER,, || {{{#sandybrown 11 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#skyblue 760 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#sandybrown 3 }}} || {{{#skyblue 0.75 }}} ||  |||| ,,AUTONOMY,, || {{{#sandybrown 460 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#sandybrown 121 }}} || {{{#skyblue 90 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#sandybrown 8 ,,r/m,, }}} || {{{#firebrick 500 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1979 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#lightskyblue Ma }}},, ,,{{{#olive Me }}},, ||
+
+ * 2세대급 주력전차
+ attachment:LEPARD1NO.jpg
+  * '''{{{#Brown Leopard 1NO}}}'''  ([["레오파르트1" 레오파르트 1]])
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 5 }}} ||
+||||<|2> ,,NAME,, || ,,KE,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 2 }}} ||
+|| ,,L7A3,, || ,,MG3,, ||  || ,,BACK,, || {{{#firebrick 2 }}} ||
+||||<|2> ,,AMMO,, || ,,105mm rounds,, || ,,7.62mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 37 || ,,x,, 5200 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 1925 ,,m,, }}} || {{{#sandybrown 875 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#sandybrown 525 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#firebrick Poor }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#lightgreen 65 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 35,,%,, }}} || {{{#skyblue 30,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || {{{#sandybrown 30,,%,, }}} || {{{#firebrick 20,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,AP POWER,, || {{{#sandybrown 9 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#skyblue 1000 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#sandybrown 3 }}} || {{{#lightgreen 0.5 }}} ||  |||| ,,AUTONOMY,, || {{{#lightgreen 600 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#sandybrown 121 }}} || {{{#lightgreen 55 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#sandybrown 10 ,,r/m,, }}} || {{{#firebrick 1090 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1978 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#olive Me }}},, ||
+
+ attachment:LEPARD1ANO.jpg 
+  * '''{{{#Green Leopard 1A1NO}}}''' 
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 8 }}} ||
+||||<|2> ,,NAME,, || ,,KE,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 2 }}} ||
+|| ,,L7A3,, || ,,MG3,, ||  || ,,BACK,, || {{{#firebrick 2 }}} ||
+||||<|2> ,,AMMO,, || ,,105mm rounds,, || ,,7.62mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 37 || ,,x,, 5200 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 2100 ,,m,, }}} || {{{#sandybrown 875 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#sandybrown 525 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#firebrick Poor }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#lightgreen 65 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 35,,%,, }}} || {{{#skyblue 30,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || {{{#sandybrown 30,,%,, }}} || {{{#firebrick 20,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,AP POWER,, || {{{#lightgreen 15 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#skyblue 1000 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#sandybrown 3 }}} || {{{#lightgreen 0.5 }}} ||  |||| ,,AUTONOMY,, || {{{#lightgreen 600 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#sandybrown 121 }}} || {{{#lightgreen 55 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#sandybrown 10 ,,r/m,, }}} || {{{#firebrick 1090 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1982 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#olive Me }}},, ||
+  서독 레오파르트A4의 장갑과 A5의 포를 적절히 섞어놓은 느낌. 현 노르웨이 최강 전차(...)인데, 동포인트의 T-72에 비해 AP만 2 높고 정측면 장갑이 골고루 부실해서 이걸로 3세대 전차와 정면 대결을 하긴 힘들다.
+attachment:C1Wsbad.jpg
+  * '''Leopard 1A5NO''' '''{{{#red (DLC)}}}(뒤)'''
+  * '''Leopard 1A5NO2''' '''{{{#red (DLC)}}}(앞)'''
+  NO 와 NO2의 차이는 10포인트, 정면장갑 이랑 AP조금뿐이다.
+
+ * 경전차
+ attachment:M24.jpg 
+  * '''{{{#Brown M24}}}'''  ([M24 채피])
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 2 }}} ||
+||||<|2> ,,NAME,, || ,,KE,, ,,STAT,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 1 }}} ||
+|| ,,M6,, || ,,M2 Browning,, ||  || ,,BACK,, || {{{#firebrick 1 }}} ||
+||||<|2> ,,AMMO,, || ,,75mm rounds,, || ,,12.7mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 25 || ,,x,, 900 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#lightgreen 1575 ,,m,, }}} || {{{#lightgreen 1050 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#lightgreen Small }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 875 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#firebrick Poor }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#sandybrown 55 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#sandybrown 30,,%,, }}} || {{{#lightgreen 15,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || ,,{{{#dimgray N/A }}},, || {{{#firebrick 5,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#firebrick Poor }}},, ||
+|||| ,,AP POWER,, || {{{#firebrick 4 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#lightgreen 450 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#firebrick 2 }}} || {{{#skyblue 0.75 }}} ||  |||| ,,AUTONOMY,, || {{{#firebrick 200 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#firebrick 87 }}} || {{{#skyblue 90 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#firebrick 6 ,,r/m,, }}} || {{{#firebrick 500 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1943 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#olive Me }}},, ||
+
+  만약 --그럴리는 없지만-- 노르웨이 단독 덱을 했다면 가용량 50% 버프를 받아 48대라는 끔직하게 많은 가용량을 자랑한다. --전차에 예비군을 태워 놓냐.-- 2팩을 넣을 수 있으니 총 96대. 딱히 넣을 게 없다면 2팩 넣어놓고 16대 씩 뽑아서 핼켓마냥 스팸러시나 해보자. 제대로 연막치고 들어닥쳐서 쏘기 시작하면 일단 포인트로 손해 보는 일은 없을거다.(...) 다만 항속거리가 200km이니 기름 보급에 주의를 요한다.
+  여담으로 방어력도 포달린 M113A3급으로 허접한 이런 물건이 어째서 전차 카테고리에 있는지는 의문. --전작엔 정찰덱에 넣어놨으면서--
+
+== REC ==
+ * 보병
+  * 수색분대
+  attachment:/OPPK.jpg
+   * '''{{{#Brown Oppklaring}}}''' 
+
+  * 특수부대
+  attachment:/MARINJEGER.jpg
+   * '''{{{#Brown MarineJeger}}}'''(Marinejegerkommandoen)
+   저격수 분대. 의외로 몇 안되는 [[길리슈트]] 위장을 입고 다니는 유닛.
+
+ * 지프
+ attachment:ROVER_REKV.jpg
+  * '''{{{#Brown Rover RekV}}}''' 
+
+ * 경전차
+ attachment:M8_PANSERBIL.jpg 
+  * '''{{{#Brown M8 PANSERBIL}}}'''  ([[M8 그레이하운드]])
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 1 }}} ||
+||||<|2> ,,NAME,, || ,,KE,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 1 }}} ||
+|| ,,M6,, || ,,M2 Browning,, ||  || ,,BACK,, || {{{#firebrick 1 }}} ||
+||||<|2> ,,AMMO,, || ,,37mm rounds,, || ,,12.7mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 60 || ,,x,, 1600 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#lightgreen 1575 ,,m,, }}} || {{{#lightgreen 1050 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#sandybrown Medium }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 875 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#lightgreen Good }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#skyblue 95 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#sandybrown 30,,%,, }}} || {{{#lightgreen 15,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 150 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || {{{#firebrick 5,,%,, }}} || {{{#firebrick 5,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#sandybrown Medium }}},, ||
+|||| ,,AP POWER,, || {{{#firebrick 2 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#skyblue 210 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#firebrick 2 }}} || {{{#skyblue 0.75 }}} ||  |||| ,,AUTONOMY,, || {{{#lightgreen 560 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#firebrick 84 }}} || {{{#skyblue 90 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#skyblue 21 ,,r/m,, }}} || {{{#firebrick 500 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1951 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#Red Su }}},, ,,{{{#olive Me }}},, ||
+  개발시기가 시기인지라 포 위력이 안습이지만...화력지원반급 화력인 h2짜리를 분당 21발씩 쏴대기 때문에 보병 화력지원차로 굴려먹을 수 있다. 속도도 빠르다.
+
+ attachment:NM116.jpg
+  * '''{{{#Brown NM116}}}'''  ([[M24 채피]])
+||||<width=100px> ,,TYPE,, ||<width=100px> ,,Main Gun,, ||<width=100px> ,,MMG,, ||<width=100px> ,,{{{#dimgray N/A }}},, ||<|4> ,,ARMOR,, || ,,FRONT,, ||<width=75px> {{{#firebrick 2 }}} ||
+||||<|2> ,,NAME,, || ,,HEAT,, ,,STAT,, ,,AoE,, || ||  || ,,SIDE,, || {{{#firebrick 1 }}} ||
+|| ,,D/925,, || ,,M2 Browning,, ||  || ,,BACK,, || {{{#firebrick 1 }}} ||
+||||<|2> ,,AMMO,, || ,,90mm rounds,, || ,,12.7mm rounds,, ||  || ,,TOP,, || {{{#firebrick 1 }}} ||
+|| ,,x,, 25 || ,,x,, 900 ||  ||||<width=75px> ,,STRENGTH,, || {{{#skyblue 10 }}} ||
+||<|3> ,,RANGE,, || ,,GROUND,, || {{{#skyblue 1925 ,,m,, }}} || {{{#lightgreen 1050 ,,m,, }}} ||  |||| ,,SIZE,, || ,,{{{#lightgreen Small }}},, ||
+|| ,,HELICOPTERS,, || ,,{{{#dimgray N/A }}},, || {{{#lightgreen 875 ,,m,, }}} ||  |||| ,,OPTICS,, || ,,{{{#lightgreen Very good }}},, ||
+|| ,,AIRPLANES,, || ,,{{{#dimgray N/A }}},, || ,,{{{#dimgray N/A }}},, ||  |||| ,,SPEED,, || {{{#sandybrown 55 ,,km/h,, }}} ||
+|||| ,,ACCURACY,, || {{{#lightgreen 40,,%,, }}} || {{{#lightgreen 15,,%,, }}} ||  |||| ,,ROAD SPEED,, ||<width=75px> {{{#skyblue 110 ,,km/h,, }}} ||
+|||| ,,STABILIZER,, || ,,{{{#dimgray N/A }}},, || {{{#firebrick 5,,%,, }}} ||  |||| ,,STEALTH,, || ,,{{{#sandybrown Medium }}},, ||
+|||| ,,AP POWER,, || {{{#sandybrown 10 }}} || ,,{{{#dimgray N/A }}},, ||  |||| ,,FUEL,, || {{{#skyblue 450 ,,L,, }}} ||
+|||| ,,HE POWER,, || {{{#sandybrown 3 }}} || {{{#skyblue 0.75 }}} ||  |||| ,,AUTONOMY,, || {{{#sandybrown 400 ,,km,, }}} ||
+|||| ,,SUPRESSION,, || {{{#firebrick 104 }}} || {{{#skyblue 90 }}} ||  |||| ,,AMPHIBIOUS,, || ,,{{{#dimgray N/A }}},, ||
+|||| ,,RATE OF FIRE,, || {{{#sandybrown 7 ,,r/m,, }}} || {{{#firebrick 500 ,,r/m,,}}} ||  |||| ,,YEAR,, || 1975 ||<width=75px> ,,TYPE,, ||<width=75px> ,,{{{#purple Mo }}},, ,,{{{#forestgreen Ar }}},, ,,{{{#Red Su }}},, ,,{{{#olive Me }}},, ||
+  정찰용 전차로써는 드물게 의외로 시야가 VERY GOOD을 찍는다. 광학장비로 떡칠한 미국의 쉐리던과 동급의 시야. 어차피 정찰 전차는 경전차형, 주력전차형 포함해 다 전투력이 고만고만하므로 이점 하나로도 고평가를 받을만 하다. 덤으로 크기도 Small이다. 당장 같은 소속인 M8만 해도 분명히 모델링 사이즈는 더 작지만 Medium이다(...).
+ 
+ *  헬기
+ http://i.imgur.com/N6Y0rFv.png
+  * '''AS350'''([[AS350/355]]) '''{{{#red (DLC)}}}'''
+  민간 헬기를 전시징발했다는 컨셉으로 나온다고 한다. 도색을 봐선 방송국 헬기를 끌어온 듯.
+== VHC ==
+=== 수송차량 ===
+ 
+ * 트럭/장륜 장갑차
+ attachment:M621.jpg 
+  * '''{{{#Brown M621}}}''' 
+  v21패치로 트럭이 지휘보병 전용탈것으로 돌아왔다.
+ attachment:sisuxa180.jpg 
+  * '''{{{#Green SISU XA-180}}}''' 
+ http://i.imgur.com/kMTjcmd.png
+  * '''XA-186NO''' '''{{{#red (DLC)}}}'''
+  APC하고 지휘차량 두종류로 나왔다. 그런데 정면장갑이 LVTP-7과 동급인 3이다!
+
+ * APC
+ attachment:NM113.jpg
+  * '''{{{#Brown NM113}}}''' 
+  --평범한 깡통이다. [wiki:"M113" 틴 캔][* 깡통. 미군들이 알루미늄 차체의 [M113]을 놀릴때 주로 쓰는 별명이다.]에게 뭘 기대하는가!-- WRD에선 최저가 수송차량역할을 담당한다.
+
+ * IFV
+ attachment:NM135.jpg 
+  * '''{{{#Brown NM135}}}''' 
+  깡통에 20mm 기관포를 달아놓았다만 15%(...)라는 처참한 명중률을 자랑한다. 동가의 KAFV 25와 비교해도 우울한 성능. 대신 MG3을 싣고 다님으로써 만회한다.
+  * '''CV9030N''''''{{{#red (DLC)}}}'''
+  노르웨이도 드디어 IFV다운 IFV를 굴리게 되었다.
+=== [wiki:"대전차자주포" Tank Destroyer] ===
+
+ * 대전차포/[[구축전차]]
+ attachment:NM113RFK.jpg 
+  * '''{{{#Brown NM113 RFK}}}''' 
+
+ * ATGM 장갑차
+ attachment:NM113_RAKPV.jpg 
+  * '''{{{#Green NM113 RAKPV}}}''' 
+ attachment:NM142.jpg 
+  * '''NM142'''
+  스칸디나비아연합 내에서 덴마크의 토우2 M113보다 장갑이 1씩 더 높으므로 연합을 짠다면 이쪽을 쓰자.
+== HEL ==
+
+=== 수송헬기 ===
+attachment:UH1B.jpg
+ * '''{{{#Brown UH-1B Huey}}}''' 
+attachment:BELL204.jpg 
+ * '''{{{#Brown Bell 204}}}''' 
+ WRD에서 수송유닛의 배치수량제한이 생기면서 추가된 UH-1B의 민수형.
+
+=== 공격헬기 ===
+
+'''그런거 없다.'''
+
+== AIR ==
+ 
+ * 공대공
+  *레이더+IR
+   http://i.imgur.com/LZwA9x3.png
+    * '''F-16AM'''  {{{#Red (DLC)}}}
+  DLC3에서 추가된 하이급 방공기. 스웨덴의 그리펜과 비슷한 성능이나 발칸이 달려 있어서 근접전 능력은 더 좋다. 그래도 사이드와인더가 2발인데다 성능도 별로이기 때문에 적 방공기와 근접전을 벌이는 것은 피하는 것이 좋다.--어째서 AIM-9M 이 아니라 L형인거야--
+
+ * 멀티롤
+  * 집속탄+IR
+  attachment:F5A.jpg
+   * '''{{{#Brown F-104G Starfighter}}}''' 
+
+  * 고폭탄+IR
+  attachment:F16A.jpg 
+   * '''{{{#Brown F-16A Fighting Falcon}}}''' 
+  '''1000kg'''을 2발을 떨어트린다. 스칸디나비아 연합의 핵심 폭격기. 원래 6대까지 굴릴 수 있었지만, 항공기 가용량 패치이후 3대로 싹뚝. 유닛 자체는 여전히 폭격용으로 쓸만하다.
+
+ * 지상공격기
+  * 로켓
+  attachment:F5A.jpg 
+   * '''{{{#Brown F-5A Freedom Fighter}}}''' 
+   '''1회용 전자전기'''. 방공유닛들이 한층 강력해진 WRD에선 1회용이나 될 수 있을지 의심스럽다만...이젠 기껏해야 루키 8대가 한계다.
+  * 네이팜
+    * '''{{{#Brown CF-104}}}'''{{{#Red (DLC)}}}
+
+ * 방공제압기
+  * SEAD+IR
+   * '''{{{#Brown F-5A PUFF}}}'''{{{#Red (DLC)}}}
+   쉬라이크를 운용하는 스칸디나비아 유일의 시드기. 하지만 ECM이 30%에 불과해 뭔가 좀 굴리기 불안하다. 성능에 비례해 70포인트란 저가에 4대나 뽑혀나오는 건 장점. 스팸 폭격기들의 웨이브속에 섞어서 BUK이나 퉁구스카를 잡는다면 나름 이득이다.--그전에 이녀석도 스팸전자전기 아닌가--
+
+[[각주]]

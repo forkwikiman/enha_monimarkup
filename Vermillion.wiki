@@ -1,0 +1,30 @@
+ * [[dj REMO-CON]] 작곡의 [[유비트 시리즈]] 및 [[리플렉 비트 시리즈]]의 수록곡은 [[Vermilion]](소문자 엘이 1개) 항목을 참조.
+
+{{{#!HTML
+<iframe width="420" height="315" src="http://www.youtube.com/embed/7cox7CR9ZfM" frameborder="0" allowfullscreen></iframe>
+}}}
+[[비트매니아 IIDX 17 SIRIUS]] 엔딩 시 영상
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/pwCj9KPaFqs" frameborder="0" allowfullscreen></iframe>
+}}}
+
+전용 [[BGA]]
+
+{{{#!HTML
+<iframe width="560" height="315" src="//www.youtube.com/embed/6TVV-g0E-vQ" frameborder="0" allowfullscreen></iframe>
+}}}
+|||||||||||||||||||||||||| [[비트매니아 IIDX]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 싱글 플레이 |||||||||||| [[더블 플레이]] ||
+||<|4> 152 |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} ||
+|| {{{#blue 5}}} || {{{#blue 272}}} || {{{#orange 7}}} || {{{#orange 598}}} || {{{#red 10}}} || {{{#red 1045}}} || {{{#blue 5}}} || {{{#blue 276}}} || {{{#orange 8}}} || {{{#orange 743}}} || {{{#red 10}}} || {{{#red 1091}}} ||
+ * [wiki:"롱노트" 차지 노트] 채용
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [[아케이드]] 수록 : 18 Resort Anthem ~
+
+[[비트매니아 IIDX 17 SIRIUS]]의 엔딩곡이며 작곡가는 [[Mystic Moon]], 장르명은 Psyche Fusion. 
+
+본 작품의 [[OST]]에는 수록되지 않았었으나, beatmaniaIIDX -SUPER BEST BOX-의 합본특전으로 제공된 보너스 CD에 수록되었었다. 그리고 [[비트매니아 IIDX 18 Resort Anthem]]에서 플레이 가능한 곡으로 공개되었다. 전작의 엔딩곡이라는 보정 덕분인지 [[BGA]]는 [[HES]]가 만든 전용 BGA를 사용한다. [[비트매니아 IIDX 18 Resort Anthem]]과 다음 작품인 [[비트매니아 IIDX 19 Lincle]]까지는 선곡 후 곡 타이틀 표기 창에서 전용 폰트로 곡의 제목을 표시했으나, [[비트매니아 IIDX 20 tricoro]]부터는 일반 폰트로 표시되고 있다. 중간 중간 작곡가 로고와 달과 함께 전작 IIDX 17의 사이버틱한 우주공간과 로고, 그리고 중반부의 엔딩 스탭롤이 스쳐가는 등 [[비트매니아 IIDX 16 EMPRESS]]의 엔딩곡이였던 [[THANK YOU FOR PLAYING]]의 BGA가 중간에 [wiki:"SUPER STAR 満-MITSURU-"누군가]가 번쩍 하는 것을 제외하면 엔딩 스탭롤 그대로였다는 것과는 확연하게 큰 차이를 보여준다.
+
+IIDX 17의 엔딩곡 답게 [wiki:"롱노트" 차지 노트]가 나오기는 하지만 정작 어나더에는 [wiki:"롱노트" 차지 노트]가 한 번도 안 나온다. 거기에 노멀은 [wiki:"롱노트" 차지 노트]가 있다는 이유로 레벨이 5이지 실제로 플레이해보면 [wiki:"물렙곡"레벨 5보다 확연히 더 쉬워보인다]는 느낌을 받을 수 있다. 노멀 노트수도 동 레벨들의 노트수가 400대를 넘어가는데 거기에 비해 훨씬 낮은 200대인 것만 봐도 확연히 물렙곡 확정.
+어나더의 경우엔 [wiki:"롱노트" 차지 노트]가 없는 대신에 동시치기가 잔뜩 섞인 패턴이 많이 나오며 중반부엔 3개짜리 동시치기와 함께 노트들이 섞여 나오니 주의하자.

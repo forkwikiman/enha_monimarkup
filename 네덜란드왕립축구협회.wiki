@@ -1,0 +1,138 @@
+ * 상위항목 : [[축구]], [[협회]]
+||||||||||||||||||||||||<table width=100%><table align=center><:><#12183a> '''[wiki:"유럽 축구 연맹" <span style="font-weight:bold;color:#ffffff">유럽 축구 연맹(UEFA) 산하 축구협회]''' ||
+||<:> attachment:/GRE_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"그리스축구협회" 그리스] [[br]] (Greece) 
+||<:> attachment:/NED_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"네덜란드왕립축구협회" 네덜란드] [[br]] (Netherlands)  
+||<:> attachment:/NOR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"노르웨이축구협회" 노르웨이] [[br]] (Norway) 
+||<:> attachment:/DEN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"덴마크축구협회" 덴마크] [[br]] (Denmark) || 
+||<:> attachment:/GER_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"독일축구협회" 독일] [[br]] (Germany)  
+||<:> attachment:/LVA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"라트비아축구협회" 라트비아] [[br]] (Latvia) 
+||<:> attachment:/RUS_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"러시아축구협회" 러시아] [[br]] (Russia)  
+||<:> attachment:/ROU_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"루마니아축구협회" 루마니아] [[br]] (Romania) || 
+||<:> attachment:/LUX_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"룩셈부르크축구협회" 룩셈부르크] [[br]] (Luxembourg) 
+||<:> attachment:/LTU_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"리투아니아축구협회" 리투아니아] [[br]] (Lithuania)  
+||<:> attachment:/LIE_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"리히텐슈타인축구협회" 리히텐슈타인] [[br]] (Liechtenstein) 
+||<:> attachment:/MKD_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"마케도니아축구협회" 마케도니아] [[br]] (FYR Macedonia) || 
+||<:> attachment:/MNE_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"몬테네그로축구협회" 몬테네그로] [[br]] (Montenegro)  
+||<:> attachment:/MDA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"몰도바축구협회" 몰도바] [[br]] (Moldova) 
+||<:> attachment:/MLT_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"몰타축구협회" 몰타] [[br]] (Malta)  
+||<:> attachment:/BEL_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"벨기에왕립축구협회" 벨기에] [[br]] (Belgium) || 
+||<:> attachment:/BLR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"벨라루스축구협회" 벨라루스] [[br]] (Belarus) 
+||<:> attachment:/BIH_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"보스니아헤르체고비나축구협회" 보스니아 헤르체고비나] [[br]] (Bosnia and Herzegovina)  
+||<:> attachment:/BUL_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"불가리아축구협회" 불가리아] [[br]] (Bulgaria) 
+||<:> attachment:/NIR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"아일랜드축구협회" 북아일랜드] [[br]] (Northern Ireland) || 
+||<:> attachment:/SMR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"산마리노축구협회" 산마리노] [[br]] (San Marino)  
+||<:> attachment:/SRB_FA.jpg?width=35 
+||<:><width=15%><#DCDCDC> [wiki:"세르비아축구협회" 세르비아] [[br]] (Serbia) 
+||<:> attachment:/SUI_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"스위스축구협회" 스위스] [[br]] (Switzerland)  
+||<:> attachment:/SWE_FA.jpg?width=35 
+||<:><width=15%><#DCDCDC> [wiki:"스웨덴축구협회" 스웨덴] [[br]] (Sweden) || 
+||<:> attachment:/SCO_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"스코틀랜드축구협회" 스코틀랜드] [[br]] (Scotland) 
+||<:> attachment:/ESP_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"스페인왕립축구협회" 스페인] [[br]] (Spain)  
+||<:> attachment:/SVK_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"슬로바키아축구협회" 슬로바키아] [[br]] (Slovakia) 
+||<:> attachment:/SVN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"슬로베니아축구협회" 슬로베니아] [[br]] (Slovenia) || 
+||<:> attachment:/ISL_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"아이슬란드축구협회" 아이슬란드] [[br]] (Iceland)  
+||<:> attachment:/IRL_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"아일랜드공화국축구협회" 아일랜드] [[br]] (Republic of Ireland) 
+||<:> attachment:/ARM_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"아르메니아축구협회" 아르메니아] [[br]] (Armenia)  
+||<:> attachment:/AZE_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"아제르바이잔축구협회" 아제르바이잔] [[br]] (Azerbaijan) || 
+||<:> attachment:/AND_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"안도라축구협회" 안도라] [[br]] (Andorra)  
+||<:> attachment:/ALB_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"알바니아축구협회" 알바니아] [[br]] (Albania) 
+||<:> attachment:/EST_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"에스토니아축구협회" 에스토니아] [[br]] (Estonia)  
+||<:> attachment:/AUT_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"오스트리아축구협회" 오스트리아] [[br]] (Austria) || 
+||<:> attachment:/UKR_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"우크라이나축구협회" 우크라이나] [[br]] (Ukraine)  
+||<:> attachment:/WAL_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"웨일스축구협회" 웨일스] [[br]] (Wales) 
+||<:> attachment:/ISR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"이스라엘축구협회" 이스라엘] [[br]] (Israel)  
+||<:> attachment:/ITA_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"이탈리아축구협회" 이탈리아] [[br]] (Italy) || 
+||<:> attachment:/ENG_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"축구협회" 잉글랜드] [[br]] (England)  
+||<:> attachment:/GEO_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"조지아축구협회" 조지아] [[br]] (Georgia) 
+||<:> attachment:/GIB_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"지브롤터축구협회" 지브롤터] [[br]] (Gibraltar)  
+||<:> attachment:/CZE_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"체코축구협회" 체코] [[br]] (Czech Republic) || 
+||<:> attachment:/KAZ_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"카자흐스탄축구협회" 카자흐스탄] [[br]] (Kazakhstan) 
+||<:> attachment:/CRO_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"크로아티아축구협회" 크로아티아] [[br]] (Croatia) 
+||<:> attachment:/CYP_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"키프로스축구협회" 키프로스] [[br]] (Cyprus) 
+||<:> attachment:/TUR_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"터키축구협회" 터키] [[br]] (Turkey) || 
+||<:> attachment:/FRO_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"페로제도축구협회" 페로제도] [[br]] (Faroe Islands) 
+||<:> attachment:/POR_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"포르투갈축구협회" 포르투갈] [[br]] (Portugal) 
+||<:> attachment:/POL_FA.jpg?width=40 
+||<:><width=15%><#DCDCDC> [wiki:"폴란드축구협회" 폴란드] [[br]] (Poland) 
+||<:> attachment:/FRA_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"프랑스축구협회" 프랑스] [[br]] (France) || 
+||<:> attachment:/FIN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"핀란드축구협회" 핀란드] [[br]] (Finland) 
+||<:> attachment:/HUN_FA.jpg?width=50 
+||<:><width=15%><#DCDCDC> [wiki:"헝가리축구협회" 헝가리] [[br]] (Hungary) || 
+
+||||<table align=center><:> http://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Royal_Netherlands_Football_Association_Logo.svg/300px-Royal_Netherlands_Football_Association_Logo.svg.png?width=200 ||
+||||<:><#f68b32> '''{{{#000000 네덜란드왕립축구협회}}}'''||
+||||<:><#000000> '''{{{#f68b32 Koninklijke Nederlandse Voetbalbond}}}'''||
+||<:> '''정식명칭''' || Koninklijke Nederlandse Voetbalbond[* 네덜란드어] ||
+||<:> '''약칭''' || KNVB ||
+||<:> '''설립''' || 1889년 ||
+||<:> '''본부''' || 자이스트 (Zeist) ||
+||<:> '''[[FIFA]] 가입''' || 1904년 ||
+||<:> '''[[UEFA]] 가입''' || 1954년 ||
+|| '''회장''' || 마이클 판 프라그 (Michael van Praag) ||
+|| '''웹사이트''' || [[http://www.knvb.nl]] ||
+
+
+[[목차]]
+
+== 개요 ==
+네덜란드왕립축구협회(Koninklijke Nederlandse Voetbalbond, KNVB)는 [네덜란드]]의 축구 행정을 총괄하는 경기단체이다. 1889년 12월 8일 네덜란드왕립축구협회(Koninklijke Nederlandse Voetbalbond)라는 이름으로 설립하였다. 협회 본부는 위트레흐트 주의 자이스트 (Zeist) 지역에 위치하고 있다. 
+
+== 주관 ==
+이 경기단체는 네덜란드의 남자 경기, 여자 경기, 청소년 경기들을 주관하고 있다. 
+ * 컵대회 : KNVB컵
+ * 남자 경기 : [[에레디비지]], 에이르스터 디비지 이하 리그
+ * 여자 경기 : 여자축구 리그
+ * 청소년 경기 : 청소년 리그
+
+이 경기단체는 [[네덜란드 축구 국가대표팀]](남자, 여자, 청소년)과 [[풋살]] 국가대표팀을 산하에 두고 관리하고 있다.
+

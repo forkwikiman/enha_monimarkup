@@ -1,0 +1,91 @@
+[[include(틀:월드 오브 워플레인)]]
+
+[[목차]]
+
+== 전투기 ==
+=== Kawasaki Ki-5 - 2티어 ===
+
+||<tablewidth=100%> attachment:Ki5.jpg || 독일 전문가의 지도로 일본에서 개발되었다. 총 4대의 시제기체가 1934년에 시운전을 하였다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Ha-9 || 850 마력 || 520 kg || 수랭식 || 3티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 7.7mm Type-89 (s) 2정 || 33 || 670 || 7.7 || 747 || 40 || 2티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Ki-5 || 80 || 1240 || 2티어 || 최종 ||
+
+아직 풀린적 없는 기체이다.
+
+=== Mitsubishi Ki-18 - 3티어 ===
+
+데이터상으로만 등록 되어있다.
+
+=== Mitsubishi Ki-33 - 3티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/ki-33.png || 일본육군이 1936년에 시험운행을 거친 새 전투기였으며 2대의 시제기만 만들어졌다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Kotobuki 5 || 380 마력 || 600 kg || 공랭식 || 2티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 7.7mm Type-97 model 1 (s) 2정 || 42 || 800 || 7.7 || 750 || 25 || 2티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Ki-33 || 60 || 1150 || 3티어 || 최종 ||
+
+현재까지 나온적은 없다가 2014년 9월 4주 주말 이벤트를 통해 Ki-88과 골드세트로 풀렸다.
+
+=== Kawasaki Ki-88 - 6티어 ===
+||<tablewidth=100%> http://worldofwarplanes.com/dcont/encyclopedia/planopedia/vehicle/large/ki-88.png|| 일본 육군항공대가 개발한 중무장 국지전투기이나 시제과정에서 더 이상 개발되지 않았다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 마력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| HA - 140 || 1500 || 740 kg || 수랭식 || 6티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 엔진 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 37mm H0-203 (H) 1정 || 150 || 120 || 37 || 570 || 180 || 6티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 20mm Ho-5 (S) 2정 || 90 || 450 || 20 || 750 || 35 || 6티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| Ki-88 || 220 || 2020 || 6티어 || 최종 ||
+
+가격 : 3.500 골드
+
+1.4패치를 통하여 정규판매가 예정된 프리미엄기체이나 2014년 5월 월간 이벤트인 'Summer Wind'이벤트를 통하여 무료 릴리즈를한 두 기체중 하나이다. 이 이벤트는 각국의 4~8티어 기체들로 국가당 경험치 10만을 채우는것을 전부 달성하는 것으로 주어진다. 아마 이것을 얻어보려고 원치않는 국가들을 타 본 사람이 꽤나 많을것이다. 
+
+태평양 전쟁 중 미국의 폭격기를 요격할 새로운 국지전투기 개발의 일원으로 P-39와 비슷하게 개발된 기체였으나 물 건너 옆동네의 P-39가 영 좋지 못한 성능을 보여준데다가 수뇌부의 상황악화로 개발이 취소된 기체이다.
+
+37mm 한 문에 20mm 2문으로 소련의 P-39Q-15와 무장이 비슷하다.~~둘 다 애시당초 자매품이니~~ 단, 이쪽은 전부 기관포이다. 화력은 좋으나 선회력은 떨어지는 편. 즉, 붐앤줌으로 나가야 하지만 두 기체가 속도는 거기서 거기라 고티어를 상대로는 어중간함의 그 자체. 무장이 전부 기관포인 탓에 상당한 예측 사격이 절실하다.
+
+1.5와 1.6을 아우르며 상당한 버프를 받았다. 속도는 변화없지만 기동성이 300대로 증가하여 탄속이 나쁜것만 뺴면 그런 즉 쓸만한 기체로 변화하였다. 
+
+여지껏 일본트리가 정식서비스 이후 단 한 번도 프리미엄기체가 풀린일이 없었는데 이번 1.4패치를 통하여 일본트리 첫 정규 프리미엄 기체가 되었다. 무려 6티어로...
+
+== 다목적 전투기 ==
+=== Mitsubishi J4M Senden - 7티어 ===
+||<tablewidth=100%> attachment:J4M.jpg || 고속 요격기로 계획되었으나 개발이 지연되었으며 일본해군측이 J7W1에 호의를 보여 개발계획이 중단되었다. ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-engine.png?height=30 ||<#00BFFF> 출력 ||<#00BFFF> 무게 ||<#00BFFF> 엔진형식 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| MK9D || 2,300 || 1080 || 공랭식 || 7티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포 1 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 30mm Type 2(c) 1정 || 230 || 400 || 30 || 700 || 100 || 8티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 동체 장착 주포 2 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-gun.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 연사력(rounds/m) ||<#00BFFF> 구경 ||<#00BFFF> 탄속(m/s) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 20mm Type 99-2 Model 5(c) 2정 || 120 || 650 || 20 || 750 || 75 || 7티어 || 최종 ||
+
+||<tablewidth=100%><#00BFFF> 외부 장착 무기 http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-bomb.png?height=30 ||<#00BFFF> 공격력 ||<#00BFFF> 스플레시 대미지 반경(m) ||<#00BFFF> 무게(kg) ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| 없음 || 0 || 0 || 0 ||  || 스톡 ||
+|| 250Kg 폭탄 1개 || 4400 || 100 || 250 || 6티어 ||  ||
+
+||<tablewidth=100%><#00BFFF> http://worldofwarplanes.com/static/1.4.0.1/common/img/encyclopedia/planopedia/ico-construction.png?height=30  ||<#00BFFF> 기체내구도 ||<#00BFFF> 무게 ||<#00BFFF> 티어 ||<#00BFFF> 비고 ||
+|| J4M1 || 300 || 2.010 || 7티어 || 최종 ||
+
+가격 : 6.300 골드
+
+원래는 정규 트리 7티어 함재기였으나 0.5.3 패치로 삭제되었다. 이 기체가 정규 트리에 존재했을 당시 그야말로 '핵'지뢰였다. 구제불능 성능때문인지 결국엔 A7M이 7티어로 올라와서 그 자리를 대신하고 있다.
+
+그 동안 감감 무소식이었다가 최근 1.6패치를 통하여 정규가 아닌 프리미엄 기체로 복귀가 확정되었으며 다목적 전투기로 변경되었다. 이를 기다리는 유저들도 다수 있는 모양이다.
+

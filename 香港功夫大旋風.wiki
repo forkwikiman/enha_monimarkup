@@ -1,0 +1,85 @@
+'''홍콩 쿵후 대선풍'''
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 Daisuke Ohnuma[* 大福P, D.F.K.Soundsystem 이라는 명의도 사용한다.].
+
+이곡은 원곡이 따로 있다. 大福P 명의로 낸 Kung-fu Girl이라는 곡으로, 원래 [[Project DIVA Arcade]]에 응모한 곡이었다.
+
+{{{#!HTML
+<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm12354430?w=600&h=408"></script><a href="http://www.nicovideo.jp/watch/sm12354430"></a>
+}}}
+
+그러나, 이 곡은 결국 실리지 않았고, 편곡해서 만든 홍콩 쿵후 대선풍이 [[사운드 볼텍스]]에 응모해서 당선되었다. 大福P도 --[[협화어]]로-- [https://twitter.com/dfk_ohnuma/statuses/227696894795726848 "원곡이라고 말한다면 Kung-fu Girl이다해."] 라고 트위터에 썼었다.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/ap2A-iuBanQ" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[사운드 볼텍스 플로어]] '하이텐션 four-on-the-floor 인스트로 오리지널 곡'의 당선곡이다.
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0060_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0060_1.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/08/jk_001_0060_3.jpg?width=150 ||
+|| 난이도 || {{{#purple 06}}} || {{{#orange 11}}} || '''{{{#ff009f 15}}}''' ||
+|| 체인 수 || {{{#purple 0837}}} || {{{#orange 0959}}} || {{{#ff009f 1477}}} ||
+|| 일러스트 담당 || {{{#purple AoniS}}} || {{{#orange AoniS}}} || {{{#ff009f AoniS}}} ||
+|| 이펙터 || {{{#purple ねちっこく堂}}} || {{{#orange ねちっこく堂}}} || {{{#ff009f ねちっこく堂}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 08(2012.8.3)}}} ||
+|| [[BPM]] |||||| 178 ||
+
+변경점
+|| 2012/08/03 || 자켓 식자 변경[* 최초 식자된 'KANG-FU', 'DAISENPU'가 각각 'KUNG-FU', 'HURRICANE'으로 변경되었다.] ||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * NOVICE : Skill Level 01(2014.1.10 ~ 2014.2.6, 2014.3.6 ~ 2014.4.4)
+  * EXHAUST : Skill Level 09(2013.10.4 ~ 2013.10.31)
+
+||<#eeeeee>
+여러분 처음 뵙겠습니다! Daisuke Ohnuma라고 합니다. 
+이번에는 오리지널 곡이 채택되어서, [[beatmania|beatmania 4thMIX]] 시절부터 했던 플레이어로서 하늘에 떠오르는 것 같은 기분입니다. 정말 감사합니다. 
+그런 이번 "홍콩 쿵후 대선풍"은, 하이 텐션 하면 쿵후지! 하고 번뜩하고 만든 곡입니다. 
+징이 울고, 여성의 구호가 울려퍼지고 중화풍 멜로디가 들려오고 ... 뭐, 처음부터 끝까지 밀어붙이는 하이 텐션 트랙이므로, 경단머리 중국의 쿵후 소녀들의 좌충우돌 쿵후 배틀을 상상하면서 플레이 주시면 기쁘겠습니다.
+
+- 당선자 코멘트-
+||
+
+NOVICE와 ADVANCED에 있는 소녀의 이름은 [[사운드 볼텍스/캐릭터#츠바키|츠바키]], 팬더는 [[사운드 볼텍스/캐릭터#쿠로미미_팬더|쿠로미미 팬더]], EXHAUST의 소년은 [[사운드 볼텍스/캐릭터#후쿠류|후쿠류]]라고 한다.
+
+--엄연히 곡 제목에 홍콩이 들어가있는데 [[간체자]]가 나오는 건 [[기분 탓]]--
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/cxOZTEAZCNc" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+EXH 패턴은 [[Onigo]]와 함께 8월 3일 업데이트곡 중 15레벨이 책정된 두 곡 중 한 곡이며, 업데이트 당시 노브발광 때문에 Onigo와는 다르게 주목을 받았던 곡. 하지만 인플레가 계속되고 나서는 발광이라 하기에 무리가 있다. 클리어 난이도도 스코어링 난이도도 15레벨 하위권.
+
+[[http://gall.dcinside.com/list.php?id=rhythmgame&no=2584368 노브 공략.]]  옆의 레이시스의 표정은 무시하자.. --[[wiki:"유두" 왜 그런지]]알고 있으면 당신은 타락자다--
+
+[[스킬 애널라이저]]에서 [[冥]] Rockin' SWING REMIX의 뒤를 이어서 9레벨의 첫 스테이지로 들어갔다. 부스때 이미 익숙해진 사람이야 저번의 명 처럼 넘어가는 스테이지이나, 그렇지 않다면 저번 시즌과는 달리 첫판부터 [[고춧가루]]를 마실수 있다.
+
+{{{#!HTML
+<iframe width="500" height="600" src="http://www.youtube.com/embed/Zl6OrfvZ97A" frameborder="0" allowfullscreen></iframe>
+}}}
+ADV 패턴 얼티밋 체인 영상
+
+ADV 패턴의 EXHAUST 열화판으로, 중간의 직각노브 부분의 박자가 애매하다. NOVICE에서도 중반부 채보는 오직 노브로만 밀어붙인다.
+
+== [[리플렉 비트 시리즈]] ==
+|||||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 178 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 4}}} || {{{#orange 7}}} || {{{#red 10}}} ||
+|| 오브젝트 || {{{#green 125}}} || {{{#orange 331}}} || {{{#red 597}}} ||
+|| 수록버전 ||||||||<#ff1493> [리플렉 비트 콜레트] ||
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/1iHO5vtvj1A" frameborder="0" allowfullscreen></iframe>
+}}}
+
+2013년 6월 7일 [[리플렉 비트 콜레트]]와의 연동 이벤트인 [[FLOOR INFECTION]]을 통해 이식되었다. INFECTION 레벨 2를 달성시 해금된다. [[추가바람]]

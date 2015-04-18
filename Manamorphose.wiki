@@ -1,0 +1,17 @@
+[[TCG]] 《[[매직 더 개더링]]》에 나오는 카드.
+ * 상위항목 : [[매직 더 개더링/카드 일람]]
+||<tablewidth=100%> '''영어판 명칭''' || '''Manamorphose''' ||<width=230px><|5>http://www.cardkingdom.com/media/images/products/standard/124641_1.jpg?width=230px||
+|| '''한글판 명칭''' || '''-''' ||
+|| '''마나비용''' || {1}{R/G} ||
+|| '''[[wiki:"매직 더 개더링/카드의 타입" 유형]]''' || 순간마법 ||
+||||<height=216px>어느 색 조합의 마나든 두 개를 당신의 마나 풀에 더한다.
+카드를 한 장 뽑는다.
+
+''For a moment, objects of pure mana glimmered in the wonderstruck boggart's hands. In the next moment, they were in his mouth, as he chewed contentedly.''||
+|||| '''[[wiki:"매직 더 개더링/블럭" 수록세트]]''' || '''희귀도''' ||
+|||| Shadowmoor || 커먼 ||
+|||| Modern Masters || 언커먼 ||
+
+결과적으로 마나 풀에 있는 마나 숫자가 늘어나지는 않아서 카드를 하나 바꿔먹는 '캔트립' 카드(물론 색말림을 방지해주긴 한다)에 불과하지만, 이게 Storm 능력을 가진 카드가 있는 하위 포맷으로 내려가면 Storm 있는 주문을 쓰기 위해서 주문수를 늘려주는 중요한 카드가 된다. 익스텐디드에서는 [[Mind's Desire]]를 쓰는 [[wiki:"아키타입#s-5.2"TEPS]]덱에서 한때 필수 요소였으며, 모던 스톰덱에서도 물론 필수요소다.
+
+후에 [[불타는 나무 부족 사절]]이라는 생물버전(?)이 나왔다. 다만 그쪽은 나오는 마나가 RG로 고정이며, 카드를 한 장 뽑지는 않는다.

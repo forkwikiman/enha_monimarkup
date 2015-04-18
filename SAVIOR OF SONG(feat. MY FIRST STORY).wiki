@@ -1,0 +1,59 @@
+|| 이 항목은 'SAVIOR OF SONG'으로도 들어올 수 있습니다. ||
+
+[[목차]]
+
+== 개요 ==
+||http://ecx.images-amazon.com/images/I/51VuCjI7tML._SL500_AA300_.jpg?width=250||http://ecx.images-amazon.com/images/I/51k3TR8V-eL._SL500_AA300_.jpg?width=250||http://ecx.images-amazon.com/images/I/41v3ykvq9yL._SL500_AA300_.jpg?width=250||
+|| MY FIRST STORY ver. 자켓 || 나노 ver. 자켓 || 애니메이션 ver. 자켓 ||
+
+{{{#!HTML
+<iframe width="640" height="480" src="//www.youtube.com/embed/D2uqpqrYmMY" frameborder="0" allowfullscreen></iframe>
+}}}
+PV 영상
+
+{{{#!HTML
+<object type='application/x-shockwave-flash' id='DaumVodPlayer_va475idij7zzqZZBz77qMI4' width='640px' height='360px' align='middle' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,3,0,0'><param name='movie' value='http://videofarm.daum.net/controller/player/VodPlayer.swf' /><param name='allowScriptAccess' value='always' /><param name='allowFullScreen' value='true' /><param name='bgcolor' value='#000000' /><param name='wmode' value='window' /><param name='flashvars' value='vid=va475idij7zzqZZBz77qMI4&playLoc=undefined' /><embed src='http://videofarm.daum.net/controller/player/VodPlayer.swf' width='640px' height='360px' allowScriptAccess='always' type='application/x-shockwave-flash' allowFullScreen='true' bgcolor='#000000' flashvars='vid=va475idij7zzqZZBz77qMI4&playLoc=undefined'></embed></object>
+}}}
+
+[[wiki:"애니메이션/2013년 10월" 2013년 10월부터 방영된 애니메이션]] [[wiki:"푸른 강철의 아르페지오" 푸른 강철의 아르페지오 ~아르스 노바~]] 오프닝 곡. 노래는 [[BTOOOM!]]의 오프닝 곡을 담당한 바 있는 [[우타이테]] [[wiki:"나노(우타이테)" 나노]]가 담당하였다. 피처링에 [[最終回STORY]](최종회STORY)를 부른 [[록밴드]] [MY FIRST STORY]가 참여한 곡으로[* 드럼 세션으로는 [[엘르가든]]과 Scars Borough의 드러머인 타카하시 히로타카가 참여했다.], 2013년 10월 30일에 발매된 싱글은 [[오리콘차트]] 10위까지 올랐다.
+
+여담으로 일본에서 불리는 별칭은 関根勤(관근근). 이 한자를 일본어 음독으로 읽으면 세키콘곤, 즉 'SAVIOR OF SONG'의 [[몬데그린]]이다.(...) [[니코니코 동화]]에서 오프닝이 흘러나올 때 코멘트가 많이 지나가는 걸 볼 수 있다.
+
+
+[[칸코레]] 콜라보 이벤트 당시 보스방 BGM으로 보컬버젼이 사용됐다. ~~초중력포 엔게이지!~~
+== [[BEMANI 시리즈]]에 수록 ==
+[[코나미]]사의 [[리듬게임]] [[GITADORA]]와 [[유비트 소서]]에 동시수록되었는데, 날짜가 싱글 발매일인 '''2013년 10월 30일'''. --[[wiki:"Vivid" ViViD]] 이후로 [[KONMAI]]가 재미 들였나 보다.--[* 참고로 [[wiki:"Vivid" ViViD]]와 이 곡, 그리고 엔딩곡인 [[ブルー・フィールド]] 모두 발매 레이블이 '플라잉독'이다.] 게임 안에서 쓰는 자켓은 [[유비트 소서]]에선 [[wiki:"이오나(푸른 강철의 아르페지오)" 이오나]]와 [[치하야 군조]]가 마주보고 있는 애니메이션 ver. 표지, GITADORA에선 MY FIRST STORY ver. 표지를 쓴다. 통상판 표지를 자주 쓰던 점에서 보면 이례적인 일.[* 이는 [[푸른 강철의 아르페지오]] 애니메이션과의 콜라보레이션을 통해 이 오프닝 테마와 엔딩 테마가 함께 수록되었기에 그렇다고 볼 수 있다.] [[No pain, No game]] 이후 동 아티스트 두 번째 수록이다.
+
+=== [[GITADORA]] ===
+|||||||||||||| [[GITADORA]] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4><:> 192 ||<|2><:> 기타 표준|| {{{#blue BASIC}}} || {{{#orange ADVANCED}}} || {{{#red EXTREME}}} ||
+|| {{{#blue 1.60}}} || {{{#orange 4.30}}} || {{{#red 6.55}}} ||
+|| 기타 베이스 || {{{#blue 2.00}}} || {{{#orange 4.40}}} || {{{#red 5.50}}} ||
+|| 드럼매니아 || {{{#blue 2.30}}} || {{{#orange 4.50}}} || {{{#red 6.55}}} ||
+
+뮤직비디오가 멀쩡히 있지만 BGA는 범용이다.
+
+=== [[유비트 소서]] ===
+||||||||<#ffffff><:>jubeat saucer 기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>9||
+||<#ffffff><:>노트수||<:>259||<:>363||<:>595||
+||<#ffffff><:>BPM||||||<:>192||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2013/10/30 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!html
+<object width="600" height="338"><param name="movie" value="//www.youtube.com/v/XRk1gh9Sais?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/XRk1gh9Sais?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="600" height="338" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+EXT EXC 영상
+
+특징이라면 16비트 연타가 정말 많이 나온다. 판정내기가 고득점의 포인트. 이 밖에도 후렴 부분 패턴에서 손이 꼬이지 않도록 주의하자.
+
+□ ■ □ □ 
+■ □ □ ■
+■ □ □ ■
+□ □ ■ □
+
+후렴구 시작 부분에는 다음과 같은 동시치기가 나온다. 바로 이어서 1번 패널에 노트가 나타나기 때문에 간접미스에 주의할 필요가 있다.

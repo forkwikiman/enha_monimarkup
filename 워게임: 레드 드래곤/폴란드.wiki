@@ -1,0 +1,402 @@
+[[include(틀:워게임: 레드 드래곤/진영)]]
+
+[[목차]]
+
+상위항목 : [wiki:"워게임: 레드 드래곤" 워게임 : 레드 드래곤]
+
+[[WRD]]의 [[폴란드군]]항목.
+
+기존 유닛들 정보는 [[워게임 : 에어랜드 배틀/폴란드]] 참조.
+
+
+= [폴란드] 전투단 =
+과거 공군 스팸의 최강자였지만 레드 드래곤 들어와 항공기 한팩고정화, 차량화에서 항공기 숙련도 삭제, 카테고리를 통한 가용도 증가삭제로 많은 메리트를 상실했'''었'''다. 
+
+그러나 DLC#1 이후로 NSWP 국가들이 대폭 강화되면서 덩달아 '''엄청나게 강력해졌다.''' 원래부터 정예로 이름높던 폴란드 보병들은 90년대형 대전차무기와 유탄발사기 정찰보병이 추가되면서 최강레벨로 등극했고, 전차 또한 강화된 전면장갑&관통력과 장전속도 높은 주포로 무장한 신형 개조전차들이 대거 추가되어 이제 나토의 3세대 전차를 보기만 해도 도망치던 신세에서는 벗어났다.
+
+무엇보다도 방공은 최강등급이다. 장탄수가 적다는 점 외엔 단점이 없던 북한의 번개2 미사일을 '''4발'''씩이나 장착한 대공차량의 2종 추가에 이글라-N보다도 뛰어나고 프랑스의 미스트랄에 맞먹는 성능을 가진 Grom 맨패즈, 제공기가 추가되면서 가히 NSWP 중에서는 방공의 최강자라 부르기에 손색이 없다. 게다가 이 모든 것들이 이스턴 블록으로 함께 불러올 수 있는 동독의 토르나 체코슬로바키아의 Kub-M4와 함께 배치된다면... 나토 공군 입장에서는 악몽이 펼쳐질 일만 남았다. 헬기전력 또한 대공헬기의 미사일이 소소하게 강화되었고 Kokon-M 대전차미사일을 장착한 정찰헬기도 추가되어 여러모로 골고루 상향되었다.
+
+DLC #1 이후로는 OP국가로 군림중.
+워게임 시리즈는 대대로 서로 방어선 짜고 이리 저리 찔러보면서 어떻게든 적의 방어선을 걷어내면 승리하는 게임인데 포병만 잔뜩 뽑아다가 클러스터와 네이팜의 비를 뿌려버리면 적의 방어선은 그냥 시원하게 붕괴된다. 워낙 원성이 잦아 DLC출시후에도 지속적으로 밸런스 패치가 나오고 있다.
+== LOG ==
+
+=== 지휘 ===
+ * 보병
+ attachment:/SZT.jpg
+  * '''{{{#Brown Sztab Dowodzenia}}}'''
+
+ * [[지프]]
+ attachment:WD-43.png
+  * '''{{{#Brown WD-43}}}'''
+  흔한 조약의 UAZ --이름 돌려막기--시리즈. UAZ-469의 현지 네임이라 성능은 같다.
+ * [[장갑차]]
+ attachment:SKOT_R-3.png
+  * '''{{{#Brown SKOT-R3}}}'''
+ attachment:TOPAS_R-2M.png
+  * '''{{{#Brown TOPAS R-2M}}}'''
+ * 지휘전차
+ attachment:T-55AO-1.png
+  * '''{{{#Brown T-55AD-1}}}'''
+ attachment:T-72M1D.png
+  * '''{{{#Green T-72M1D}}}'''
+  T-72M1의 지휘전차 바리에이션.
+
+ * 지휘헬기
+ attachment:MI-2D_PRZETACZNIK.png
+  * '''{{{#Brown Mi-2D Przetacznik}}}'''
+
+=== 보급 ===
+
+ attachment:FOB.png
+ * '''{{{#Brown FOB}}}'''
+ * 보급트럭
+ attachment:STAR_266_ZAOP.png 
+  * '''{{{#Brown Star 266. Zaop}}}'''
+ * 보급헬기
+ attachment:Mi-8_ZAOP.png
+  * '''{{{#Brown Mi-8 Zaop}}}'''
+  미군의 슈퍼 치누크와 동일한 적재량을 보유한 보급헬기. 다만 속력은 슈퍼 치누크보다도 더 느리다. 
+ attachment:Mi-6.png 
+  * '''{{{#Green Mi-6}}}'''
+  이스턴 블록에서 대형 보급헬기가 필요하면 가져다 쓰자. 전진FOB로 유용.
+== INF ==
+ * 소총분대
+ attachment:/PIECMOTA.jpg
+  * '''{{{#Brown Piechota Zmech.}}}'''(기계화보병) - 정규보병
+  폴란드의 IFV셔틀.
+ attachment:/SPA_1.jpg
+  * '''{{{#Brown Spadochroniarze}}}'''(공수부대) - 충격보병
+ attachment:/SPA90.jpg
+  *'''Spadochroniarze '90'''
+  RPG-7VR로 무장한 근대화 버전. 타국의 고가 충격보병에 비교해 20포인트밖에 안되는 저렴한 비용이 강점이다. 대전차화기의 낮은 명중률을 고려해도 가성비가 쩐다. 서독의 기갑척탄병급은 아니지만 그쪽은 프로토타입이니...
+ attachment:/NIEBIESKIE.jpg 
+  * '''{{{#Brown Niebieskie Berety}}}'''(7 뤼지카 코만도 사단 '푸른 베레'[* 7 Łużycka Dywizja Desantowa]) - 충격보병
+ attachment:/NIBIE90.jpg
+  * '''Niebieskie Berety '90'''
+  RPG-7V로 무장한 근대화 버전. 이쪽은 머릿수로 승부한다.
+
+ * 경보병
+ attachment:/strzecly.jpg 
+  * '''{{{#Brown Strzelcy Podhalańscy}}}'''(Podhale Rifles, 산악보병) - 정규보병
+  
+ * 특수부대
+ attachment:/komandosi.jpg 
+  * '''{{{#Brown Kommandosi}}}''' (특공대) - 정예보병
+  40 포인트. 15인 분대로 엘리트인지라 상대방 보급로나 교두보에 엄폐해두면 안죽는다. 폴란드군 특수부대. 스파도츠로니아르쩨보다 대전차성능이 강화되었다. 그래도 AP가 15밖에 안되서 숲에서라도 3세대 전차를 혼자서 잡기는 무리다. 다만 대전차 탄두가 12개나 들고 다닐 수 있기에 경장갑 차량 상대로는 무쌍 난무를 찍으며 15인분대에 엘리트이기에 숲이나 건물등에 숨겨놓으면 헬기도 잡는다. 그래도 닥돌은 금지. 헬기 이외에 차량에 태워 보낼 수도 있다.
+
+ * 전투공병
+ attachment:/SAPERZY.jpg
+  * '''{{{#Green Saperzy}}}'''(전투공병) - 정규보병
+  네이팜 로켓를 가지고 전장에 증원되는 전투공병. 엄청나게 저렴한 가격덕에 스팸에 유용하며, 강습공병과 유사한 포지션. 소련군 육군 스페츠나츠가 전투실력으로 커버한다면 이쪽은 숫자로 커버할 수 있다.참고로 기계화덱을 하면 왜인지 이녀석만이 대공차량을 타고 나온다. 둘이 합쳐 15+15=30포인트로 저렴하게 방헬기와 제한적인 방공을 부수적으로 얻을 수 있다.
+ attachment:/SAPERZY_SZTURMOWI.jpg 
+  * '''{{{#Brown Saperzy Sturmowi}}}'''(돌격공병) - 충격보병
+  무장은 화염방사기이지만 베이스가 충격보병인 공수부대원이기에 머릿수와 등급빨을 믿고 시가지를 밀어버릴 때 애용된다.
+
+ * 대전차 특기병
+ attachment:/PPKFAGOT.jpg
+  * '''{{{#Brown PPK Fagot}}}'''([AT-3] 새거)
+  대전차 보병인주제에 명중률은 둘째치고 관통이 13이다. 그냥 다른 콩쿠르스 쓰는 대전차보병이나 차량으로 대체하자.
+ attachment:/PPKKONKRUS.jpg
+  * '''PPK Konkurs'''([AT-5] 스판드럴)
+ * 대공 특기병
+ attachment:/pstr2.jpg
+  * '''{{{#Brown PPZR Strzala-2}}}'''(SA-7 그레일)
+ attachment:/grom.jpg
+  * '''PPZR Grom'''([맨패즈] 그롬)
+  현 폴란드 특수군의 그롬이 아닌 방공미사일 그롬이다. 미스트랄급의 사거리와 정확도를 갖고 있으나 미스트랄보다는 위력이 1 낮고 분대당 휴행탄수가 2발 적다. 그래도 레드포 맨패즈 중에서는 이글라-N을 뛰어넘는 수준의 최강 맨패즈이다.
+ * 화력지원반
+ attachment:/spg9d.jpg 
+  * '''SPG-9D''' - 충격보병
+  73mm 무반동총병. 서방의 M67에 비해 사거리는 1050m로 뒤지지만 명중률과 관통력이 각각 55%, AP16으로 더 우월하다.
+== SUP ==
+=== 포병 ===
+ * 122mm급 경 자주포
+ attachment:2S1_GOZOZIK.png
+  * '''{{{#Brown 2S1 Gozdzik}}}'''
+ * 152mm급 자주포
+ attachment:wz.77_DANA.png
+  * '''{{{#Green Wz.77 DANA}}}'''
+ attachment:2S7_PIWONIA.png
+ * 203mm급 중 자주포
+  * '''{{{#Green 2S7 Piwonia}}}'''
+ * MRL
+
+ attachment:BM-24M.png
+  * '''{{{#Brown BM-24M}}}'''
+ 또다른 개사기 유닛. 이제는 부라티노로는 모자라서 50포인트짜리 카츄사도 네이팜 로켓탄을 쓴다. 문제는 140포인트 부라티노는 40발을 4키로 정도에서 쏘지만 같은 가격의 이 카츄사3대는 12500에서 48 발을 갈군다. 낮은 정확도가 그나마 위안.
+ attachment:BM-21_GRAD.png
+  * '''{{{#Brown BM-21}}}'''
+ attachment:RM-70.png 
+  * '''RM-70'''
+  빠른 조준, 재장전속도, 발사속도를 가진 클러스터 로켓포병. 이스턴 블록 DLC가 출시된 이후 레드포 다연장천국의 필두를 이끄는 개사기유닛으로 이름을 날리며 포럼의 논쟁의 핵으로 부상했다. 다만 스메르치 수준의 화력과 집탄율을 가진 것은 아니기 때문에 효과적으로 쓰고 싶다면 최소 2대 이상을 불러서 비교적 가까운 거리에서 사격하는 것이 좋다. 포인트에 여유가 있을 때, 세대 이상을 소환해서 일점사하면 분산이고 뭐고 거의 1~2킬로미터 반경에 클러스터가 빽빽하게 쏟아진다.
+  논쟁이 벌어진 것도 잠깐이고 DLC#2가 출시된 이후로는 담비2와 패트리어트등 막강한 블루포유닛의 추가로 논쟁의 중심에서 밀려나 아무래도 좋다는 식의 취급을 받는다(...). 
+
+=== 방공 ===
+
+ * 방공기관포
+  * 목측
+ attachment:HIBNERYT_ZU-23-2.png
+   * '''{{{#Brown Hibneryt ZU-23-2}}}'''
+
+  * 레이더
+ attachment:ZSU-23-4VI_SZYLKA.png 
+   * '''{{{#Brown ZSU-23-4 Szylka}}}'''
+   유명한 [[쉴카]] 시리즈. 레이더의 백업을 받아 공격하기 때문에 3km가 조금 안되는 사거리를 자랑한다.
+  * 목측 + 미사일
+ attachment:HIBNERYT_ZUR-23-2S.png 
+   * '''Hibneryt ZUR-23-2S'''
+   기관포+미사일이라 뭔가 간지나는 최신형 대공차량을 기대한 사람들이 종종 있으나 이녀석은 그냥 트럭 짐칸에다가 연장기관포와 맨패즈를 달아놓은 빈곤한 방공 테크니컬이다. 
+   성능은 나쁘지 않은 편. 비록 미사일이 사거리가 짧더라도 명중률이 상당히 높은 적외선 미사일이라 은근히 비행기를 잘때린다. 기관포도 헬기견제 등에는 효과를 발휘하며 트럭이라 속도도 빠르다. 가용량 12.
+ attachment:SOPEL.png
+   * '''Sopel'''
+   23mm 트윈오토캐논과 그롬 대공미사일을 장착한 강화판. 그롬 자체가 미스트랄에 준하는 성능인데다 기관포는 목측이고 그롬은 IR이므로 시드 걱정을 할 필요가 없다는 것이 장점이다. 그런주제에 45포인트(...). 다만 사거리가 짧고 연사속도가 낮으며 미사일은 휴행탄수가 적다. v557패치로 기관포 명중률이 25%로 10%나 떨어졌다.
+ * 방공미사일
+  * IR - 이동식
+ attachment:BRDM-2_STRZALA-1M.png
+   * '''{{{#Brown BRDM-2 Strzala-1M}}}'''
+   열추적 미사일 탑재형 방공차량. 기동 중에 사용 가능하며 파이어 앤 포겟인지라 빠르게 쏘고 튀는 테러용으로 적합하다. 심지어 BRDM-2는 야지에서 100km/h를 찍는 히트앤런류 종결자다! 사정거리는 짧지만 전자전기에게 당할 일이 없다는 장점이 있다. 단 명중율은...
+ attachment:MT-LB_STRZALA-10M.png
+   * '''MT-LB Strzala-10M'''
+  * 레이더
+ attachment:9K33M2_ROMB.png
+   * '''{{{#Brown 9K33M2 Romb}}}'''
+   싼맛에 레이더 방공망을 구축하고자 할 때 좋은 선택. 하지만 미사일의 사거리가 상당히 짧다.
+ attachment:9K33M3_ROMB.png 
+   * '''{{{#Brown 9M33M3 Romb}}}'''
+   강화형 OSA.
+ attachment:RZP_KUB-M.png
+   * '''{{{#Brown RZP Kub-M}}}'''
+   위성국들의 쓸만한 방공차량. 하지만 방공덱에는 안나온다는 치명적인 문제점이 있다.
+ attachment:WZT-1_NEWA-SC.png
+   * '''WZT-1 Newa-SC'''(S-125 Neva) - '''프로토타입'''
+   북한에 --폰개--번개 2호라는 이름으로 도입된 S-125 네바의 폴란드군 버전. 장거리 방공치고 장갑을 나름 둘렀지만, 야지속도는 25km로 괴멸적이다.
+ attachment:MAZ-543_NEWA-SC.png
+   * '''MAZ-543 Newa-SC''' - '''프로토타입'''
+   네바 비장갑버전. 장갑이 사라진만큼 속도가 65km대로 빨라졌다.
+
+== TNK ==
+
+ * 경전차(전면장갑 4 이하)
+ attachment:T-34_85M1.png 
+  * '''{{{#Brown T-34/85M1}}}'''
+  --박물관에 있기를 거부하고 튀어나온 전설은 아니고 레전드급--'''[T-34]'''다! 스팸의 대명사였지만, DLC#1패치에서 15포인트로 가격이 상승했다.
+ attachment:PT-76B_DESANT.png
+  * '''{{{#Brown PT-76B Desant}}}'''
+
+ * [[MBT]]
+  * [[T-55]] 계열
+ attachment:T-55L.png 
+   * '''{{{#Brown KPz T-55L}}}'''
+ attachment:T-55AM_MERIDA.png
+   * '''{{{#Green T-55AM Merida}}}'''
+ attachment:T-55AM2_MERIDA.png
+   * '''{{{#Green T-55AM2 Merida}}}'''
+
+  * [[T-72]] 계열
+ attachment:T-72.png 
+   * '''{{{#Brown T-72}}}'''
+ attachment:T-72M_JAGUAR.png
+   * '''{{{#Brown T-72M Jaguar}}}'''
+ attachment:T-72M1_JAGUAR.png
+   * '''{{{#Green T-72M1 Jaguar}}}'''
+ attachment:T-72S.png
+   * '''T-72S'''
+   T-72의 수출형 버전으로 동독, 체코슬로바키아에도 똑같은 등급의 전차가 추가되었다. 전면장갑 18에 주포 관통력 20, 포발사 미사일을 장비하고 있다. 가격은 135포인트로 약간 미묘하나 가용량은 많다. 스팸 전차들 상대엔 아주 적절하지만 포발사 미사일을 제하면 나토의 최고급 전차들과 다투기엔 역부족이니 주의할 필요가 있다.
+ attachment:T-72M1_WILK.png
+   * '''T-72M1 Wilk''' - '''프로토타입'''
+ attachment:T-72M2_WILK.png 
+   * '''T-72M2 Wilk''' - '''프로토타입'''
+ attachment:PT-91_TWATDY.png
+   * '''PT-91 Twardy''' - '''프로토타입'''
+   160포인트로 반응장갑을 떡칠하여 얻은 20의 전면장갑과 22의 주포 관통력을 자랑하는 폴란드 최고급 전차. 이 정도면 나토의 주력전차들과도 해볼만한 스펙이지만, 아무리 그래봤자 나토가 작심하고 르끌레르나 레오파르트2A5 같은 1급 프로토타입 전차를 몰고 오면 스펙에서 확실히 밀리므로 이것만 가지고 만용을 부리면 위험하다. 
+   Stabilizer가 50%로 뒤로 빠지면서 짤짤이를 넣으면 매우 좋다. 그리고 분당 9발이라는 발사속도 덕에 이스턴 블록 최고의 포로 등극.
+
+== REC ==
+
+ * 수색분대
+ attachment:/ZWIADO.jpg 
+  * '''{{{#Brown Zwiadowcy}}}'''(정찰병)
+ * 특수부대
+ attachment:/FORMOZA.jpg
+  * '''Formoza'''(해군 특전단 '포르모자')
+  40mm 유탄발사기를 보유한 정찰 특수부대. 폴란드판 네이비씰이다.
+
+ * [지프]
+ attachment:UAZ-469A_ZWIAD.png
+  * '''{{{#Brown UAZ-469A Zwiad.}}}'''
+  가장 저렴한 지프형 정찰차량. 단 무장이 전무하다.
+ * [[장갑차]]
+  * [[장륜 장갑차]]
+ attachment:BTR-40.png 
+   * '''{{{#Brown BTR-40}}}'''
+ attachment:BTR-40A.png
+   * '''{{{#Brown BTR-40A}}}'''
+ attachment:BRDM-1.png
+   * '''{{{#Brown BRDM-1}}}'''
+ attachment:BRDM-2.png
+   * '''{{{#Brown BRDM-2}}}'''
+  * 궤도 장갑차
+ attachment:BWR-1D.png
+   *'''{{{#Brown BWR-1D}}}'''
+
+ * [[경전차]]
+ attachment:PT-76B_DshK.png
+   * '''{{{#Brown PT-76B DshK}}}'''
+
+ * 전차
+ attachment:T-55.png 
+   * '''{{{#Brown T-55}}}'''
+
+ * 정찰헬기
+  * 비무장
+ attachment:Mi-2Ro.png
+   * '''{{{#Brown Mi-2ro}}}'''
+   다른 Mi-2들과는 다르게, 시야가 엑셉셔널이다. 덕분에 60포로 다른 Mi-2들보다 비싸다.
+  * 로켓+ATGM
+ attachment:W-3U_ASLAMANDRA.png
+   * '''W-3U Salamandra'''
+   로켓과 더불어 헬파이어와 사거리가 같고 관통력도 그에 맞먹는 Kokon-M 미사일을 4발 장착한 정찰헬기. 미군의 헬파이어 장착형 카이오와와 비슷하지만 시야가 very good이고 Kokon-M의 유도방식은 SALH가 아닌 SACLOS라 카이오와의 하위호환이라 할 수 있다. 그 대신 카이오와보다 비용이 싸다는게 장점. 적이 고급전차를 들고 왔을 때 카운터펀치로 유용하다.
+
+== VHC ==
+=== 수송차량 ===
+
+ * [[트럭]]/[[장륜 장갑차]]
+ attachment:STAR_266.png
+  * '''{{{#Brown Star 266}}}'''
+  본작에선 지휘보병들이나 타고 다닐 수 있게 됐다.
+ attachment:SKOT-2.png
+  * '''{{{#Brown SKOT-2}}}'''
+ attachment:SKOT-2A.png 
+  * '''{{{#Brown SKOT-2A}}}'''
+ attachment:SKOT-2AM.png 
+  * '''{{{#Brown SKOT-2AM}}}'''
+ attachment:SKOT-2AP.png 
+  * '''SKOT-2AP'''
+ * APC
+ attachment:TOPAS.png 
+  * '''{{{#Brown TOPAS}}}'''
+ attachment:TOPAS-2A.png 
+  * '''{{{#Brown TOPAS-2A}}}'''
+  7.62mm외에 82mm 무반동총을 갖추고 있다.
+ attachment:TOPAS-2AP.png 
+  * '''{{{#Brown TOPAS-2AP}}}'''
+ * IFV
+ attachment:MT-LB_23M_KRAK.png
+  * '''{{{#Brown MT-LB 23M Krak}}}'''
+ attachment:PROMET.png 
+  * '''{{{#Brown Promet}}}''' - '''프로토타입'''
+  헬기는 물론 항공기까지 요격할 수 있는 23mm기관포를 달고 나온다. 명중률은 10%에 불과하지만 15포인트 내고 부수적인 방공효과를 보병용 차량으로 얻으니 나쁠 건 없다. 네이팜로켓 공병 전용차량인게 아쉬운 점.
+ attachment:BWP-1.png
+  * '''{{{#Brown BWP-1}}}'''([[BMP-1]])
+ attachment:BWP-2.png
+  * '''BWP-2'''([[BMP-2]])
+  장갑이 D형보다 상부를 제외하고 1씩 낮지만 도하가 가능하다.
+ attachment:BWP-2D.png
+  * '''BWP-2D'''
+  BWP2의 장갑강화형.
+
+=== [wiki:"대전차자주포" TD 계열] ===
+ * 대전차포/[[구축전차]]
+ attachment:ASU-85M.png
+  * '''{{{#Brown ASU-85M}}}'''
+ * ATGM 장갑차
+ attachment:BRDM-2_MALUTKA-P.png
+  * '''{{{#Brown BRDM-2 Malyutka-P}}}'''
+ attachment:BRDM-2_KONKURS.png
+  * '''{{{#Brown BRDM-2 Konkurs}}}'''
+
+=== 화력지원차량 ===
+
+  * 화염방사차량
+ attachment:TO-55.png
+   * '''{{{#Brown TO-55}}}'''
+  * 기관포
+ attachment:ZSU-57-2.png
+   * '''{{{#Brown ZSU-57-2}}}'''
+   --DLC#1패치로 지원에서 차량카테고리로 속성이 변경되었다-- 얘는 원래부터 차량이었다. 아마 ZSU-23-4의 사통장치를 뗀 Afganski가 이름을 ZSU-23-4로 바꾸며 일어난 일인듯.
+
+== HEL ==
+=== 수송헬기 ===
+
+ * 기관총 --맙소사 팩트헬기가 양심을 가지다니!--
+ attachment:Mi-2T.png
+  * '''{{{#Brown Mi-2T}}}'''
+  10포인트짜리 초염가 수송헬기.
+ * 로켓
+ attachment:Mi-8T.png 
+  * '''{{{#Brown Mi-8T}}}'''
+  평범한 소련제 염가형 수송헬기. 하지만 여기다가 둔중한 돼지를 가져오는 바람에, 속력은 느린데 기본 로켓 수십발을 얹고 다니는 괴이한 물건을 끌고오고야 말았다. 무장은 57mm 로켓.
+ attachment:Mi-17.png
+  * '''Mi-17'''
+ * 로켓+ATGM
+ attachment:Mi-24D.png
+  * '''{{{#Brown Mi-24D}}}'''
+=== [[공격헬기]] ===
+  대공헬기가 3종류이다. 이스턴 블록 플레이시 필수 유닛들.
+
+ * 기관포
+ attachment:Mi-2_US.png
+  * '''{{{#Brown Mi-2 US}}}'''
+ attachment:W-3T_SOKOL.png 
+  * ''' {{{#Green W-3T SOKOL}}}'''
+ * 로켓
+ attachment:Mi-2_URN_ZMIJA.png
+  * '''{{{#Brown Mi-2 URN Żmija}}}'''
+ * ATGM
+ attachment:Mi-2_URP_ASLAMANDRA.png
+  * '''{{{#Brown Mi-2 URP Salamandra}}}'''
+ * 로켓+ATGM
+ attachment:Mi-24W.png
+  * '''{{{#Green Mi-24W}}}'''
+ * AA
+ attachment:Mi-2_URS.png 
+  * '''{{{#Green Mi-2 URS}}}'''
+  DLC#1이 나오며 스트렐라2에서 스트렐라3으로 개장하면서 쓸만해졌다.
+ * ATGM+AA
+ attachment:Mi-2_URP-G_GNIEWOSZ.png
+  * '''{{{#Green Mi-2 URP-G Gniewosz}}}'''
+ * 로켓+AA
+ attachment:W-W_SOKOL.png 
+  * '''{{{#Green W-3W Sokół}}}'''
+  로켓과 이글라를 운용한다. 이제 그나마 인간구실을 하지만 프랑스 방공헬기에게는 상대가 안된다.
+
+== AIR ==
+물량으로 먹고 살던 애들이 한팩 3대가 최대치가 되어 위상이 많이 죽었다.
+
+ * 제공전투기
+  * IR
+ attachment:MiG-19PM.png
+   * '''{{{#Brown MiG-19PM}}}'''
+ attachment:MiG-21Bis.png
+   * '''{{{#Brown MiG-21 Bis}}}'''
+  * IR+반능동
+ attachment:MiG-23MF.png
+   * '''{{{#Brown MiG-23MF}}}'''
+ attachment:MiG-29_9-135.png
+   * '''{{{#Red (DLC)}}}''''''MiG-29 9-13'''
+   ECM 40%급 제공기임에도 135포인트밖에 안한다는 것이 장점이다. 단 반능동미사일의 장탄수가 2발이다.
+
+ * 지상공격기
+  * 로켓
+ attachment:Lim-6Bis.png
+   * '''{{{#Brown Lim-6Bis}}}'''
+ attachment:MiG-21IMF.png 
+   * '''{{{#Brown MiG-21MF}}}'''
+  * 고폭탄
+ attachment:Su-7B.png
+   * '''{{{#Brown Su-7B}}}'''
+ attachment:Su-7BM.png 
+   * '''{{{#Brown Su-7BM}}}'''
+  * 네이팜
+ attachment:Su-7BKL.png
+   * '''{{{#Brown Su-7BKL}}}'''
+   가용량이 최대 3대라 전작처럼 물량공세는 할 수 없고 500kg 네이팜 8발을 평범하게(?) 뿌리는 공격기가 되었다.
+  * ATGM + IR
+ attachment:Su-22M4_Seria_30.png
+   * '''Su-22M4 Seria 30'''
+   매우 위력적인 ATGM 항공기. AP30짜리 두발을 F&F로 3500m거리에서 꽂아버리기 때문에 장거리 레이더방공이 아니면 저지하기 힘들다.
+
+ * 방공제압기
+ attachment:Su-22M4.png
+  * '''{{{#Green Su-22M4}}}'''
+  ECM은 40%로 그럭저럭이지만, 사거리가 4200m로 좀 짧은 축이고 속도도 750km대로 느려서 좀 도박적인 성향이다. 동독의 동형기와 비교해 ECM이 10% 높고 사거리가 700m 더 짧다.

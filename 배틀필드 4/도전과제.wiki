@@ -1,0 +1,660 @@
+[[목차]]
+
+ * 상위항목 : [[배틀필드 4]]
+
+== 개요 ==
+전작과 달리 본편부터 도전과제가 존재한다.
+보상으로 무기나 장비, 도색, 인식표 등을 획득할수 있다.
+난이도에 따라 브론즈 과제, 실버 과제, 골드 과제로 나뉘며, 싱글플레이어 과제도 있다.
+각 난이도에 따라 일정 계급이 필요하며 기본적으로 상위단계의 도전과제는 하위단계의 도전과제 달성이 조건이다.
+
+== 본편 ==
+=== 싱글플레이어 과제 ===
+==== 툼스톤 분대장(Tombstone Actual) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/sp_as01.png
+ * 조건 : 바쿠(챕터 1)완수
+ * 보상 : M412 REX(권총)
+
+==== 지하 세계의 송곳니(Fang of the Underworld) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/sp_as02.png
+ * 조건 : 쿤룬 산맥(챕터 5)완수
+ * 보상 : 연장(대검)
+
+==== 함정에 빠진 늑대 윌(A Trapped Wolf Will) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/sp_as03.png
+ * 조건 : 타쉬가르(챕터 6)완수
+ * 보상 : 마셰티(대검)
+
+==== 발할라 궁전을 향해(To Valhalla) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/sp_as04.png
+ * 조건 : 최종 선택에서 아무도 선택하지 않음
+ * 보상 : QBZ-95-1(돌격소총)
+
+==== 피스 메이커(Peace Maker) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/sp_as05.png
+ * 조건 : 최종 선택에서 한나 선택
+ * 보상 : P90(PDW)
+
+==== 마지막 임무(Final Duty) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/sp_as06.png
+ * 조건 : 최종 선택에서 아이리쉬 선택
+ * 보상 : M249(경기관총)
+
+=== 브론즈 과제 ===
+==== 돌격병 기본(Assault Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as01a.png
+ * 조건 : 계급 10 도달, 돌격소총으로 적 7명 사살, 11번 치료
+ * 보상 : 돌격병 전투 기본 인식표
+
+==== 공병 기본(Engineer Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as02.png  
+ * 조건 : 계급 10 도달, 카빈으로 적 7명 사살, 수리 16회
+ * 보상 : 공병 전투 기본 인식표
+ 특이하게도 전용 무기인 PDW가 아닌 카빈으로 사살해야하는게 특징--다이스도 쓰지말라는 PDW--
+
+==== 정찰병 기본(Recon Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as03.png
+ * 조건 : 계급 10 도달, 저격소총으로 적 7명 사살, 자신의 위치에서 분대원 4명 부활
+ * 보상 : 정찰병 전투 기본 인식표
+
+==== 보급병 기본(Support Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as04.png
+ * 조건 : 계급 10 도달, 경기관총으로 적 7명 사살, 16번 재보급
+ * 보상 : 보급병 전투 기본 인식표
+
+==== 지상 장비 기본(Land Vehicle Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as05.png
+ * 조건 : 한 라운드에서 지상 차량으로 적 7명 사살, 지상 차량으로 장비 25대 파괴
+ * 보상 : 지상 장비 기본 인식표
+
+==== 공중 장비 기본(Aircraft Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as06.png
+ * 조건 : 계급 10 도달, 한 라운드에서 항공기로 적 7명 사살, 항공기로 장비 25대 파괴
+ * 보상 : 공중 장비 기본 인식표
+
+==== 해상 장비 기본(Watercraft Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as07.png
+ * 조건 : 계급 10 도달, 고속정으로 적 5명 사살, 해상 장비 약장 10개 획득
+ * 보상 : 해상 장비 기본 인식표
+
+==== 카빈 기본(Carbine Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as08.png
+ * 조건 : 계급 20 도달, 카빈으로 적 7명 사살, 카빈 약장 10개 획득
+ * 보상 : 카빈 기본 인식표
+
+==== PDW 기본(PDW Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as09.png
+ * 조건 : 계급 20 도달, PDW로 적 7명 사살, PDW 약장 10개 획득
+ * 보상 : PDW 기본 인식표
+
+==== 샷건 기본(Shotgun Basic) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as10.png
+ * 조건 : 계급 20 도달, 샷건으로 적 7명 사살, 샷건 약장 10개 획득
+ * 보상 : 샷건 기본 인식표
+
+==== 깃발 담당(Conqueror) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as11.png
+ * 조건 : 계급 20 도달, 컨퀘스트에서 깃발 점령 20회, 컨퀘스트 약장 10개 획득
+ * 보상 : 정복자 인식표
+ --도전과제명은 깃발 담당인데 인식표 이름은 정복자--
+
+==== M-COM 담당(Rusher) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as12.png
+ * 조건 : 계급 20 도달, M-COM 공격 약장 10개 획득, 러시 약장 10개 획득
+ * 보상 : 러셔 인식표
+ --도전과제명은 M-COM 담당인데 인식표 이름은 러셔--
+
+==== 폭탄 담당(Obliterator) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as13.png
+ * 조건 : 계급 20 도달, 폭탄 20개 줍기, 오블리터레이션 약장 10개 획득
+ * 보상 : 말살자 인식표
+ --도전과제명은 폭탄 담당인데 인식표 이름은 말살자--
+
+==== 내 명령에 따라라(By My Command) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as14.png
+ * 조건 : 계급 20 도달, 지휘관 리더십 약장 10개 획득, 지휘관 재보급 약장 10개 획득
+ * 보상 : 내 명령에 따라라 인식표
+
+==== 블레이드 러너(Blade Runner) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as15.png
+ * 조건 : 계급 20 도달, 대검으로 적 5명 사살, 백병전 약장 10개 획득
+ * 보상 : 블레이드 러너 인식표
+ 상당히 달성하기 어려운 도전과제. 백병전 약장 조건이 한 라운드에 대검으로 '''4킬'''이라서 작정하고 대검 플레이를 한다해도 약장 획득이 힘들다.--하다못해 3킬만 됐어도--
+
+=== 실버 과제 ===
+==== 돌격병 베테랑(Assault Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as16.png
+ * 조건 : 돌격병 기본 달성, 돌격소총으로 적 8명 사살, 12번 치료
+ * 보상 : 크림슨 우드랜드 도색
+
+==== 공병 베테랑(Engineer Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as17.png
+ * 조건 : 공병 기본 달성, 카빈으로 적 8명 사살, 17번 수리
+ * 보상 : TTsKO 블루 도색
+ 역시나 PDW가 아닌 카빈인게 특징.
+
+==== 정찰병 베테랑(Recon Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as18.png
+ * 조건 : 정찰병 기본 달성, 저격소총으로 적 8명 사살, 자신의 위치에서 분대원 5명 부활
+ * 보상 : 더퀴드 도색
+
+==== 보급병 베테랑(Support Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as19.png
+ * 조건 : 보급병 기본 달성, 경기관총으로 적 8명 사살, 17번 재보급
+ * 보상 : 그린 언더브러시 도색
+
+==== 지상 장비 베테랑(Land Vehicles Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as20.png
+ * 조건 : 지상 장비 기본 달성, 한 라운드에서 지상 차량으로 적 10명 사살, 지상 차량으로 장비 50대 파괴
+ * 보상 : 블랙 샤크 도색
+
+==== 공중 장비 베테랑(Aircraft Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as21.png
+ * 조건 : 공중 장비 기본 달성, 한 라운드에서 항공기로 적 10명 사살, 항공기로 장비 50대 파괴
+ * 보상 : 플랭커 도색
+
+==== 해상 장비 베테랑(Watercraft Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as22.png
+ * 조건 : 해상 장비 기본 달성, 고속정으로 적 6명 사살, 해상 장비 약장 20개 획득
+ * 보상 : 블루 스카이 도색
+
+==== 카빈 베테랑(Carbine Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as23.png
+ * 조건 : 카빈 기본 달성, 카빈으로 적 8명 사살, 카빈 약장 20개 획득
+ * 보상 : 리플 도색
+
+==== PDW 베테랑(PDW Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as24.png
+ * 조건 : PDW 기본 달성, PDW로 적 8명 사살, PDW 약장 20개 획득
+ * 보상 : 잉크 얼룩 도색
+
+==== 샷건 베테랑(Shotgun Veteran) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as25.png
+ * 조건 : 샷건 기본 달성, 샷건으로 적 8명 사살, 샷건 약장 20개 획득
+ * 보상 : 블루 타이거 도색
+
+==== 은박지 모자(Tin Foil Hat) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as26.png
+ * 조건 : 계급 50 도달, 지휘관 감시 약장 10개 획득, 지휘관으로 EMP 보너스 30회 획득, 탐지 약장 20개 획득
+ * 보상 : 은박지 모자 인식표
+
+==== 다음에 또 만나요(We'll Meet Again) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as27.png
+ * 조건 : 계급 50 도달, 순항 미사일 100번 발사, 조기 경보 50회 실시
+ * 보상 : 다음에 또 만나요 인식표
+
+==== 누구도 두고 가지 않는다(Leave No Man Behind) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as28.png
+ * 조건 : 계급 50 도달, 분대 구원자 보너스 25회 획득, 분대 보복 보너스 25회 획득, 분대 부활 50회 획득
+ * 보상 : 누구도 두고 가지 않는다 인식표~~오오~~
+
+==== 철구(Wrecking Ball) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as29.png
+ * 조건 : 계급 50 도달, 장비 기동력 치명타 25회 획득, 장비 50대 파괴
+ * 보상 : 철구 인식표
+
+==== 보이지 않는 암살자(Stealth Assassin) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as30.png
+ * 조건 : 블레이드 러너 달성, 인식표 20개 획득, 백병전 약장 20개 획득
+ * 보상 : 잠입 암살 인식표
+ 역시나 달성하기 어려운 도전과제이다. 한술 더 떠서 백병전 약장이 20개 필요하다.
+
+=== 골드 과제 ===
+==== 돌격병 전문가(Assault Expert) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as31.png
+ * 조건 : 돌격병 베테랑 달성, 구급상자 약장 50개 획득, 돌격소총으로 적 200명 사살, 돌격소총 약장 10개 획득
+ * 보상 : ACE 23(돌격소총)
+ 구급상자 약장은 로커 작전에서 구급상자를 열심히 던지고 다니면 순식간에 획득할수 있다.
+
+==== 공병 전문가(Engineer Expert) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as32.png
+ * 조건 : 공병 베테랑 달성, 수리도구 약장 50개 획득, 카빈으로 적 200명 사살, 카빈 약장 10개 획득
+ * 보상 : UMP-9(PDW)
+ 수리도구 약장 50개가 약간 힘든편, 열심히 수리하고 다니자.--도전과제 달성은 카빈으로 하는데 정작 풀리는건 PDW--
+
+==== 정찰병 전문가(Recon Expert) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as33.png
+ * 조건 : 정찰병 베테랑 달성, 명사수 약장 50개 획득, 저격소총으로 적 200명 사살, 저격소총 약장 10개 획득
+ * 보상 : FY-JS(저격소총)
+ 명사수 약장 조건이 250미터이상 헤드샷이기 때문에 명사수 약장 50개 획득이 힘든편이다. 팁을 주자면 상하이봉쇄작전에서 40배줌 탄도확대경을 장착하고 탄속이빠르다면 맵가장자리 높은건물을, 500m대라면 강근처에 높은건물들로 가자. 상대들도 똑같은곳에 죽치고있는데 기본 200m가 넘어서 옥상 반대편에서 조준하면 판당 4-5개, 미친척하고 헤드만 노리면 19킬가량에 명사수 19개도 가능하다. 하지만 이맵은 일단 대공이 매우 약하므로 한 저격포인트를 아군이 적군꺼를 강탈하면 그자리에서 뜰 준비를 해야한다. 십중팔구 1~2분내로 베놈이나 하이툰이 나타나서 미니건을 갈기고 순식간에 터져나가는 무선신호기가 보일거다. 그리고 그런일이 안일어나도 수송기들이  시도때도없이 날아다니므로 레이저락온기로 계솓속 찍어주자.
+
+ * 팁 : 한번에 250m 가 아니라 총 합 250m 마다 제공이기에 팀데스매치에서도 명사수 약장을 얻을수 있다. 단, 적을 사살했을때 사살점수 외에 명사수 점수가 들어와야한다. 명사수 점수가 250점이 채워졌을때 명사수 약장이 들어오니 참고. 
+
+==== 보급병 전문가(Support Expert) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as34.png
+ * 조건 : 보급병 베테랑 달성, 탄약 약장 50개 획득, 경기관총으로 적 200명 사살, 경기관총 약장 10개 획득
+ * 보상 : RPK-12(경기관총)
+ 탄약 약장 역시 로커 작전에서 탄약상자를 열심히 던지고 다니면 순식간에 획득할수 있다.
+
+==== 공격형 지휘관(Offensive Commander) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as35.png
+ * 조건 : 내 명령에 따라라 달성, 순항 미사일로 적 30명 사살, 고가치 표적 10회 지정, 건쉽 50회 배치
+ * 보상 : 공격형 지휘관 인식표
+
+==== 청부 살인자(Hitman) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as36.png
+ * 조건 : 계급 '''100''' 도달, 분대 10개 전멸시키기, 5연속 사살 저지하기, 지휘관이 지정한 고가치 표적 3회 사살
+ * 보상 : 청부 살인자 인식표
+ 조건에 오역이 있는데 5연속 사살 저지는 적의 연속사살을 5번 저지이다. 분대 전멸은 분대의 최후의 생존자를 죽이면 달성되니 참고.
+
+==== 지상 전사(Land Warrior) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as37.png
+ * 조건 : 계급 100 도달, 주력전차 훈장 10개 획득, 보병전투차량 훈장 1개 획득, 주력전차로 헬기 1대 파괴
+ * 보상 : 지상 전사 인식표
+ 주력전차 훈장 10개는 한국어 배틀로그의 표기오류이다.--진짜 10개면 사람잡는다.-- 영문배틀로그로 확인하면 1개로 되어있으니 1개만 획득하면 된다. 헬기 1대 파괴는 저공비행하는 헬기를 주포로 잘 맞춰보자.
+
+==== 공중 전사(Air Warrior) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as38.png
+ * 조건 : 계급 100 도달, 공격헬기 훈장 1개 획득, 전투기 훈장 1개 획득, 공격헬기로 전투기 5대 파괴
+ * 보상 : 공중 전사 인식표
+
+==== 택시 운전사(Taxi Driver) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as39.png
+ * 조건 : 계급 100 도달, 운전자 보너스 30회 획득, 분대 장비 파괴 지원 10회 획득
+ * 보상 : 택시 운전사 인식표
+ 장비를 탑승한 본인이 적을 사살하거나 장비를 파괴하는것이 아닌, 동승한 사람이 사살이나 파괴를 해야 달성되는 과제.
+
+==== 샷건의 벽(Wall of Shotgun) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as40.png
+ * 조건 : 계급 100 도달, DBV-12로 적 50명 사살, M26 MASS로 적 50명 사살, SHORTY 12G로 적 50명 사살
+ * 보상 : 샷건의 벽 인식표
+ 넷코드 패치 이전에는 죽음을 각오하고 했던 과제이다. 넷코드가 안정화되기 이전엔 정면에서 풀초크+화살탄 조합을 머리에 박아 넣어도 안죽는 경우가 허다했었다.
+
+==== 스웨덴 철강(Swedish Steel) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as41.png
+ * 조건 : 계급 100 도달, AK 5C 카빈으로 적 100명 사살, AK 5C 카빈으로 헤드샷 50회 달성, CBJ-MS PDW로 적 100명 사살
+ * 보상 : 스웨덴 철강 인식표
+ 스웨덴제 무기로 달성해야하는 도전과제. 다른 국가별 무기 도전과제들보다 달성이 쉬운편이다. 여담으로 추가된 이유가 자기나라 사랑이라 카더라.[* 뭐 다들 알겠지만 [[DICE]]는 스웨덴 회사다.]
+
+==== 중국산(Made in China) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as42.png
+ * 조건 : 계급 100 도달, QBU-88 DMR로 헤드샷 50회 달성, QBS-09 샷건으로 적 100명 사살, QBZ-92 권총으로 적 50명 사살
+ * 보상 : 중국산 인식표
+ 중국제 무기로 달성해야하는 도전과제
+
+==== 러시아로부터 납과 함께(From Russia With Lead) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as43.png
+ * 조건 : 계급 100 도달, SKS DMR로 헤드샷 50회 달성, A-91 카빈으로 적 100명 사살, MP412 REX 권총으로 적 50명 사살
+ * 보상 : 러시아로부터 납과 함께 인식표
+ 러시아제 무기로 달성해야하는 도전과제
+
+==== 전형적인 미국산(American Classics) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as44.png
+ * 조건 : 계급 100 도달, M39 DMR로 헤드샷 50회 달성, M4 카빈으로 적 100명 사살, 44구경 매그넘 권총으로 적 50명 사살
+ * 보상 : 전형적인 미국산 인식표
+ 미국제 무기로 달성해야하는 도전과제 ~~[wiki: "M4 카빈" 과제로] [wiki: "레이징 불" 잡아야 하는 총기가] [wiki:"M39" 세가지나 있는데] 정작 장식된 무기는 [wiki: "베레타 93R" 이탈리아산이다.]~~
+
+==== 백병전 전문가(Melee Expert) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/as45.png
+ * 조건 : 보이지 않는 암살자 달성, 백병전 약장 50개 획득
+ * 보상 : 백병전 전문가 인식표
+ 백병전 도전과제의 마지막 도전과제이다. 이 도전과제까지 달성했다면 말그대로 ~~소드마스터~~백병전 전문가가 되어있을것이다.(...)
+
+== 차이나 라이징 ==
+깨기 어렵다.....이유인 즉슨.....차이나 라이징 맵을 호스팅하는 서버가 별로 없기때문...
+=== 브론즈 과제 ===
+==== 안전한 공습(Safe Raiding) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as01.png
+ * 조건 : 계급 10 도달, 폭격기로 사살 기록
+ * 보상 : SUAV(정찰병 장비)
+ 말그대로 폭격기로 1킬만 달성하면 된다. 차이나 라이징 서버도 별로 없고 폭격기 경쟁도 상당히 치열한 편이니 잽싸게 가서 탑승하자.
+
+==== 하늘의 감시자(Eyes in the Sky) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as02.png
+ * 조건 : 계급 10 도달, 제공권 약장 1개 획득, 전투기 약장 3개 획득
+ * 보상 : UCAV(보급병 장비)
+ 제공권 약장이야 어찌어찌 획득할수 있다지만 전투기 약장 3개 획득은 전투기를 잘 못타는 사람에겐 극악의 조건인데다가 보상이 엄청나게 좋은 UCAV라 수많은 이들을 좌절하게 하고 있는 도전과제.  굳이 팁을 주자면 제공전에서는 전투기 약장 따는게 불가능에 가까우므로 [* 제공전에서는 격추라고 해봐야 적을 사살했다는 판정보다 그냥 적이 스스로 사망한 판정이 훨씬 많이 뜬다.] 제공전은 하지 말고 컨퀘스트에서 따야 한다. 물론 점수따는게 불가능에 가까운 스텔스기로도 힘든데 공격기로 5명 사살해도 약장을 주니 무조건 공격기를 타서 ~~양민 학살~~ 지상군을 잡거나 ~~잉여인~~ 건쉽에 타고있는 적을 잡아주자 두명이 타고 있기 마련인 공격헬기를 격추하는게 제법 짭짤하다. 또는 공격기로 아군 탱크/IFV와 싸우고 있거나 싸운 직후 수리받고있는 탱크/IFV를 레이저 유도 미사일로 노려보자. 레이저 유도 미사일 2방이면 60의 대미지를 주는데다 싸우고있다면 체력도 많이 줄어있을 것이다. 수리하고있는 공병도 끔살인건 덤. 
+또는 C4카를 노려보자. C4카는 C4가 유폭되어 한발이면 끝이다. 스텔스기로도 레이저 유도 미사일을 장착할수 있으나 이걸 언락할때쯤이면 이미 과제는 달성했을것이다..
+
+==== 사격 개시(Open Fire) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as03.png
+ * 조건 : 계급 10 도달, 돌격병 약장 3개 획득, 한 라운드에서 권총, 40mm 유탄, 제세동기로 적 사살
+ * 보상 : L85A2(돌격소총)
+ 다른조건은 문제없지만 제세동기로 사살이 약간 문제가된다. 치료 특화없이 풀체력인 적을 한방에 죽일려면 3초정도 충전이 필요하니 충분히 충전한뒤 시도할것.
+
+==== 한 방 먹이기(Make a dent) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as04.png
+ * 조건 : 계급 10 도달, 휴대용 대공화기로 공중장비 파괴, 차량 파괴 약장 3개 획득
+ * 보상 : MP7(PDW)
+ 스팅어나 이글라로 헬기를 노려보자.
+
+==== 일촉즉발(Powder Keg) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as05.png
+ * 조건 : 계급 10 도달, 박격포로 적 1명 사살, 경기관총 약장 3개 획득
+ * 보상 : RPK-74M(경기관총) 
+
+==== 하나만 있으면 돼(Need Only One) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as06.png
+ * 조건 : 계급 10 도달, 저격병 약장 3개 획득, 한 라운드에서 샷건, DMR, C4로 적 사살
+ * 보상 : L96A1(저격소총)
+ 주무기 DMR, 보조무기는 SHORTY 12G, 보조장비 C4로 맞추면 10분이면 깨는 과제 
+
+=== 실버 과제 === 
+==== 모든 폭탄의 어머니([["MOAB" Mother Of All Bombs]]) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as07.png
+ * 조건 : 안전한 공습 달성, 폭격으로 적 15명 사살, 적 폭격기 파괴
+ * 보상 : 폭격기 무장 크루즈 미사일 추가
+ 시간이 해결해 주는 도전과제. 폭격기를 타고 타고 또 타면 언젠가는 이뤄질 도전과제다
+
+==== 다재다능(Multi Talent) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as08.png
+ * 조건 : 계급 10 도달, 한 라운드에서 저격소총, 돌격소총, 경기관총, 수류탄으로 적 사살
+ * 보상 : MTAR-21(카빈)
+ 병과를 바꿔가면서 1킬씩 달성해야 하는 도전과제. 수류탄 킬이 애매하다면 벽 뒤의 적에게 RGO를 끼얹자.
+
+==== 나는 다이너마이트다(I'm Dynamite) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as09.png
+ * 조건 : 계급 20 도달, 폭격기 약장 3개 획득, UCAV로 적 20명 사살, 다중 사살 달성
+ * 보상 : UCAV 공중 폭발 기능 추가
+ 안그래도 좋은 UCAV를 강화해주는 좋은 보상을 가진 도전과제지만 문제는 폭격기 경쟁률도 높은데 폭격기 약장 획득은 더 어렵다는것. 폭격기 약장에 비하면 다른 조건은 별거 없으니 넘어가고 폭격기 약장의 팁을 주자면 괜히 보병 노리지 말고 IFV나 전차, 대공전차를 노려서 폭탄을 네발씩 끼얹어주자. 특히 IFV는 운 좋으면 한방에 약장을 주기도 한다. 위에 있는 "모든 폭탄의 어머니"과제를 달성했다면 훨씬 손쉽게 할 수 있다. 다만 차이나 라이징 서버가 적다는게 문제(...) 팁을 추가하면 구우린 봉우리 맵 특성상 보병들이 몰려 다니게 되는데 D거점이 아군 진영일 때 폭격기를 타고 점령당하고 있는 아군 기지나 이동중인 적 보병 무리를 포착하여 JDAM 공격을 가하면 약장을 쉽게 얻을수 있다.
+
+=== 골드 과제 ===
+==== 미들 킹(Middle King) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/29b62b1c7dbbe05fb6a9f4541/public/profile/warsaw/gamedata/award_mission/large/xp1as10.png
+ * 조건 : 계급 10 도달, 차이나 라이징 10시간 플레이, 5연속 사살 달성, SUAV로 적 사살
+ * 보상 : 미들 킹 인식표
+
+==== 팬텀 프로스펙트(PHANTOM PROSPECT) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/ghost1.png
+ * 조건 : 프리미엄으로 한 번 플레이, 돌격소총으로 적 200명 사살, 주력전차로 적 200명 사살, 300미터 헤드샷 달성
+ * 보상 : 팬텀 프로그램 인식표
+ 일종의 숨겨진 도전과제인데 [http://bbs2.ruliweb.daum.net/gaia/do/ruliweb/default/pc/27/read?articleId=1266833&objCate1=&bbsId=G003&searchKey=subjectNcontent&itemGroupId=1&itemId=&sortKey=depth&searchValue=phantom&platformId=&pageIndex=1 언락방법]이 약간 복잡하다면 복잡하다. 기본적으로 프리미엄 멤버십이 필요하다.
+
+== 세컨드 어설트 ==
+=== 브론즈 과제 ===
+==== 파이어 스타터(Fire Starter) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as01.png
+ * 조건 : 계급 10 도달, 세컨드 어설트에서 5번의 불 피우기
+ * 보상 : 파이어 스타터 위장(3진영)
+ 불피우는 방법은 카스피해 노란풀, 파이어스톰 기름웅덩이 에서 폭발물, 소이탄을 끼얹으면 된다.
+상황과 맵을 불문하고 어디서건 확실히 식별이 되는 위장 아닌 위장. 당연히 실용성은 제로다. 물론 위장같은거 신경 안쓰고 개돌하는 유저들은 '''개성을 위해''' 당당히 끼고 다닌다. ~~3D스팟 되는 마당에 위장따위 무슨 소용이야~~ 프리미엄 전용 퀵 리스폰스 도색과 같이 쓰는 [용자]들도 있다! 위장 소개글은 [wiki: "배틀필드 4/위장과 도색" '내면의 방화광 기질을 표출하십시오.'].~~[wiki:"차지맨 켄!/1회성 악역" 오늘부터 매일 맵을 불태우자]~~
+
+==== 완전 정지(Dead Stop) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as02.png
+ * 조건 : 계급 10 도달, 샷건 약장 1개 획득, 카스피해 접경지역 게이트를 작동시키기
+ * 보상 : DAO-12(샷건)
+
+==== 고속 열차(Express Train) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as03.png
+ * 조건 : 계급 10 도달, 돌격소총 약장 2개 획득, 한 라운드 안에서 사살지원 약장 2개 획득, 메트로 안에서 10회 사살
+ * 보상 : F2000(돌격소총)
+ 조건에 비해 체감상 난이도가 매우 빡세게 느껴지는 도전과제. 사살 지원 약장을 위해 의도적으로 양념질을 하는 게 보기보다 어렵고 '''메트로 안'''의 기준이 맵 전체인가, 역 내부인가, 터널 한정인가로 혼란을 많이 빚었다. (...) 결론만 말하자면 역 내부 까지 이고 러시아 진영쪽 a로 사살하면 킬 카운터가 안된다. 메트로같은 맵을 싫어하는 유저라면 꽤나 고통스러울 것이다.돌격소총 약장은 누적되지만 나머지 두 항목은 누적되지 않는다.--사살 하긴 쉬운데 사살지원하긴 힘들다.--
+
+==== 부조종사(Co-Pilot) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as04.png
+ * 조건 : 계급 10 도달, 헬기 10분 탑승, 분대수리 10회
+ * 보상 : AS VAL(PDW)
+ 세컨드 어설트 출시전 유일하게 달성가능한 도전과제. 수송 헬기는 카운터 되지 않으니 주의
+
+==== 모래 바람(Dust Devil) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as05.png
+ * 조건 : 계급 10 도달, 차량파괴 약장 1개 획득, 오만만에서 차량 5대 파괴
+ * 보상 : M60E4(경기관총)
+
+==== 독수리의 둥지(Eagle's Nest) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as06.png
+ * 조건 : 계급 10 도달, 저격소총 약장 1개 획득, 한 라운드내에, 카스피해나 파이어스톰 타워에서 적 5명 사살
+ * 보상 : GOL Magnum(저격소총)
+ 뒤늦게 프리미엄이나 세컨드 어썰트를 구입한 사람들, 사실상 리콘들에게는 가장 짜증나는 과제. 세컨드 어썰트 초반에는 타워 언락유저도 많았고 프리미엄 과제 혹은 배필3 맵 기대등등 해서 세컨드 어썰트 서버가 '''매우 활성화''' 된 상태라서 30분 정도면 충분히 달성 가능 했었지만, 네이벌 스트라이크가 나오고 드래곤즈 티스가 나올 7월 현재로선 아시아 서버에는 세컨드 어썰트 맵을 돌리는 서버가 그다지 없기에 기회도 별로 없다. 무엇보다 '''왠만한 유저들은 이 과제 다 깨고 배틀팩 까고있다.''' 그리고 병과 페이지에서 설명했듯이 파이어 스톰 US 언덕위에는 매의 눈으로 명사수 점수를 얻을려는 [wiki:"네똥기" 리콘]유저 들이 많아서 달성하기 더더욱 곤란하다.
+ 수많은 시도를 통해서 달성하는것보단, 다른 저격총을 얻고 과제를 포기하거나(...) 커뮤니티 사이트에서 자신과 같은 생각을 가지고 있는 유저들을 모아서 도전과제 작업을 하는 편이 정신 건강에 이롭다. 팁이라면 '''타워에서 저격총으로 사살'''이 아니고 '''타워에서 사살'''이기에 권총으로 잡든 칼를 쓰든 C4를 쓰든 5회 사살만 채우면 된다. 카스피해 접경지역 최상층 혹은 파이어스톰 최상층 바로아래[* 최상층에는 버튼을 누르면 불길이 치솟는 레볼루션이 있다. 더군다나 이걸 이용해서 적을 죽이는 도전과제도 있기 때문에 유저들이 많이 누르는편.]에서 시도하는것이 좋다.
+
+~~접경지역에서 타워가 쓰러지고 나면 그 후에 어디서 죽여야 언락이 풀릴까요?~~
+~포기해.. [[포기하면 편해]]~~
+
+방법이 한가지 존재하긴 하는데 카스피해 접경지역 탑이 무너진 다음에 헬기로 탑에있던곳 정상근처에서 내린다음에 저격소총으로 한명잡으면 킬카운터가 인정된다 당연히 낙하산 상태로..
+=== 실버 과제 ===
+==== 항공우편(Air Mail) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as07b.png
+ * 조건 : 계급 20 도달, 부조종사 도전과제 달성, 헬기로 깃발 운반자를 수송해 깃발 획득
+ * 보상 : DPM6 도색
+ 과제에 버그가 있는지 헬기뿐만 아니라 다른 차량으로도 달성이 되고, 깃발 운반자를 수송해줘도 카운트가 되지 않는 경우도 있으니 유의. 언락되는 도색은 퀵 리스폰스나 파이어스타터에 맞먹는 '''튀는''' 도색이라 컬트적인 인기를 누려볼법도 하지만 모드가 원체 비주류인지라...
+
+==== 타버린(Scorched) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as08.png
+ * 조건 : 계급 20 도달, 파이어 스타터 도전과제 달성, 파이어스톰 탑 화염을 이용해 적 사살
+ * 보상 : 엑스트라 크리스피 인식표
+ 파이어스톰 탑위엔 GOL Magnum을 얻기 위해 꾸역꾸역 올라가는 리콘이 서버마다 1~2명씩 있기에 손쉽게 달성되는 편. 다만 그 인원이 팀원일 경우(...) 채팅창이 욕으로 도배되는 경우를 볼 수 있으니 주의. 
+
+==== 리마스터드(Re-Mastered) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as09.png
+ * 조건 : 계급 20 도달, M60E4로 적 25명 사살, F2000으로 적 25명 사살, DAO-12로 적 25명 사살, AS VAL로 적 25명 사살, GOL Magnum으로 적 25명 사살
+ * 보상 : 거래 마스터 인식표
+ 세컨드 어설트 신규 총기들로 25킬을 달성해야하는 도전과제.
+
+=== 골드 과제 ===
+==== 완벽한 착지(Perfect Landing) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/308103b6946b364f7a5e657f195bc/public/profile/warsaw/gamedata/award_mission/large/xp0as10.png
+ * 조건 : 계급 20 도달, 세컨드 어설트 10시간 플레이, 한 라운드에서 10회 연속 사살, 카스피해나 파이어스톰에서 가장 높은 탑 정상에 착륙
+ * 보상 : 점프 마스터 인식표
+
+ * 현재로써 가장 사람 잡는 도전과제. 가장 높은탑 정상에 착륙을 하기 위해서는 헬기나 전투기를 타고 최대 고도로 둥실둥실 떠가고 점프를 해야 하는데 거기까지 멀쩡히 가기도 힘들고 설령 점프를 한다 하더라도 그 좁은 장소에 낙하산으로 착륙하기가 쉽지도 않다. 10회 연속 사살과 가장 높은 탑 정상에 착륙을 한라운드에 해야하기 때문에 10연속 사살을 하더라도 착륙을 못하거나 카스피해 타워가 터져버리면 엄청난 절망감이 밀려올 것이다. 착륙은 성공해도 10연속 사살하기가 정말 마땅치 않다. 카스피해, 파이어스톰이 맵도 넓고... 메트로처럼 다중 킬 올리기가 쉽지 않다... 두 가지 조건 모두 한 라운드 내에 달성해야 하며 10연속 사살 후 죽어버리게 되면 기록이 0이 되어버리고 다시 시작해야 하기 때문에(...)(라운드 종료 후 요약 정보에 왜 킬 카운트가 되지 않느냐며 답답해하는 경우가 바로 이것 때문이다.) 먼저 탑 정상에 착륙부터 한 다음 연속 사살을 시도하는 편이 수월하다.
+ 과제 달성시 지급되는 아이템이 인식표와 경험치이기 때문에 달성하려고 노력하려는 유저들은 적은편. [wiki:"페르마의 대정리" 자세한 공략방법을 적기에는 위키의 여백이 너무 좁기때문에] 여러 커뮤니티 사이트에서 정보를 얻는 것이 좋다. ~~10연속 사살 후 따라붙는 HVT딱지는 덤이다.~~
+
+== 네이벌 스트라이크 ==
+=== 브론즈 과제 ===
+==== 강철의 타이탄(Titans of Steel) ====
+http://img3.wikia.nocookie.net/__cb20140306221923/battlefield/images/2/26/Titans_of_Steel.png
+ * 조건 : 계급 10 도달, 캐리어 어썰트에서 목표물 파괴
+ * 보상 : 강철의 타이탄 인식표
+
+==== 여가 시간 스나이퍼(Spare Time Sniper) ====
+http://img1.wikia.nocookie.net/__cb20140306221721/battlefield/images/0/0e/Spare_Time_Sniper.png
+ * 조건 : 계급 10 도달, 돌격소총 약장 3개 획득, 돌격소총으로 헤드샷 20회 
+ * 보상 : AR-160
+
+==== 펀치를 포장(Packing a Punch) ====
+http://img4.wikia.nocookie.net/__cb20140306221742/battlefield/images/d/d4/Packing_a_Punch.png
+ * 조건 : 계급 10 도달, 수상장비 20회 파괴
+ * 보상 : SR-2
+
+==== 스위스 치즈(Swiss Cheese) ====
+http://img4.wikia.nocookie.net/__cb20140306221800/battlefield/images/5/5b/Swiss_Cheese.png
+ * 조건 : 계급 10 도달, 경기관총 약장 3개 획득, 보급병으로 장비 파괴 3회 
+ * 보상 : AWS 
+
+====  항상 치명적인(Always Deadly) ====
+http://img2.wikia.nocookie.net/__cb20140306221816/battlefield/images/3/39/Always_Deadly.png
+ * 조건 : 계급 10 도달, 저격소총 약장 3회 획득, 네이벌 스트라이크 맵에서 C4로 5명 사살
+ * 보상 : SR338
+
+=== 실버 과제 ===
+====  커브볼(Curve Ball) ====
+http://img2.wikia.nocookie.net/__cb20140306221831/battlefield/images/f/fd/Curve_Ball.png
+ * 조건 : 계급 10 도달, RGO 임팩트로 적 10명 사살
+ * 보상 : SW40
+
+====  멀티툴(Multi Tool) ====
+http://img1.wikia.nocookie.net/__cb20140306221848/battlefield/images/c/ce/Multi_Tool.png
+ * 조건 : 계급 10 도달, M320 화살탄으로 10킬, M320 저속탄으로 10킬
+ * 보상 : 3GL 
+ 다이스의 악랄함이 돋보이는 과제. 40mm 계열은 네이벌 스트라이크 발매와 함께 모조리 하향크리를 맞았다. 누적인게 천만다행.
+
+==== 아래로부터의 죽음(Death from Below) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp2as08.png
+ * 조건 : 계급 10 도달, PDW 약장x3, 대공런처로 적 공격 항공기(정찰헬기, 공격헬기, 스텔스기, 공격기만 해당) 5대 파괴
+ * 보상 : 대공지뢰
+=== 골드 과제 ===
+==== 바다의 채찍(Scourge of the Sea) ====
+http://img3.wikia.nocookie.net/__cb20140306221939/battlefield/images/1/18/Scourge_of_the_Sea.png
+ * 조건 : 계급 10 도달, 네이벌 스트라이크 10시간 플레이, 대공지뢰로 적 1회 사살
+ * 보상 : 바다의 채찍 인식표
+
+==== 자이언트 슬레이어(Giant Slayer) ====
+http://img4.wikia.nocookie.net/__cb20140306221952/battlefield/images/c/ce/Giant_Slayer.png
+ * 조건 : 계급 10 도달, 캐리어 어썰트 20회 승리
+ * 보상 : 자이언트 슬레이어 인식표
+
+==== 팬텀 훈련생(Phantom Trainee) ====
+http://img1.wikia.nocookie.net/__cb20140306222032/battlefield/images/8/8b/Phantom_Trainee.png
+ * 조건 : 배틀필드 프리미엄, 권총으로 적 200명 사살, 전투기으로 적 20명 사살, 한 라운드에서 샷건 약장 2개 획득
+ * 보상 : 팬텀 도색
+ 팬텀 프로스펙트와 동일한 숨겨진 도전과제. 팬텀 프로스펙트를 먼저 개방한뒤 암호문(epic dream worlds)을 입력하면 된다.
+
+== 드래곤즈 티스 ==
+=== 브론즈 과제 ===
+==== 빅 스플래시(BIG SPLASH) ====
+ http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as01.png
+ * 조건 : 계급 10 도달, 드래곤즈 티스 전장 플레이, 성큰 드래곤 전장의 수문 활성화, 수영 중 5명 사살
+ * 보상 : UNICA 6
+ 수영중 5명 사살은 물속에서 주무기를 들 수 없는 상황에서 부무장으로 죽이면 된다. 룸피니의 다리밑 코너 주변이나 물이 차오른 성큰 드래곤의 식당 하층부같은곳을 추천. C4를 던져놓고 수영중인 상태에서 킬을해도 수영 중 사살로 인정된다. 수문은 성큰 드래곤 맵 c지점 타워 안에 있다.
+
+==== 사자와 호랑이와 곰(LIONS AND TIGERS AND BEARS) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as02.png
+ * 조건 : 계급 10도달, 드래곤즈 티스 전장 플레이, 돌격병으로 도보 이동 시, 도보로 이동 중인 적 보급병 10명 사살, 돌격병으로 도보 이동 시, 도보로 이동 중인 적 공병 10명 사살, 돌격병으로 도보 이동 시, 도보로 이동 중인 적 정찰병 10명 사살
+ * 보상 : BULLDOG
+ 드래곤즈 티스 맵을 플레이만 한 후 오리지날이나 다른 확장팩 맵에서 완수하는게 정신건강에 이롭다. 해당 확장팩 맵들은 빽빽한 보병전 맵이기 때문에 돌격병 비율이 많은 편인데, 이 도전과제를 완수하려면 다른 병과를 킬해야 한다. ~~물론 맵과 모드에 무관하게 이동 중인 정찰병 10명 사살은 보기만해도 한숨나온다 팀데스매치,권총전 하다보면 금방한다.~~
+
+==== 가장 약한 링크는 안 돼(NOT THE WEAKEST LINK) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as03.png
+ * 조건 : 계급 10 도달, 드래곤즈 티스 전장 플레이, 개인방어화기 약장 2개, 체인링크에서 지점 10개 링크, 부대 명령 수행 10회
+ * 보상 : MPX
+ 체인링크 플레이를 권장하는 과제. 체인링크를 지원하는 서버가 있다면 얼른 들어가서 플레이하자. 체인링크 과제는 열심히 점령하다보면 시간문제다. 부대 명령 수행 10회는 개념 분대장을 만난다면 게임의 흐름을 적당히 읽는것만으로도 어렵지 않다. 
+==== 팀 안의 '나'(THE 'I' IN TEAM) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as04.png
+ * 조건 : 계급 10 도달, 드래곤즈 티스 전장 플레이, 저격소총 약장 2개, 무선 신호기 부활 10번, 탐지 지원 20회
+ * 보상 : CS5
+
+==== 선봉(VANGUARD) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as05.png
+ * 조건 :계급 10 도달, 드래곤즈 티스 전장 플레이, 구원자 사살 5회, 제압 지원 20회, 폭탄 3개 파괴
+ * 보상 : 방탄 방패
+ 폭탄 파괴는 거창한 것이 아니라 폭발물 파괴 점수로 계산되는 행동을 하면 된다.
+
+==== 로드 워리어(ROAD WARRIOR) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as06.png
+ * 조건 : 계급 10 도달, 드래곤즈 티스 전장 플레이, 점령 지점 공격자 10명 사살, 점령 지점 방어자 10명 사살, 샷건으로 적 25명 사살
+ * 보상 : 로드 워리어 인식표
+
+=== 실버 과제 ===
+==== 원격 조종자(REMOTE OPERATOR) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as07.png
+ * 조건 : 계급 10 도달, 드래곤즈 티스 전장 플레이, EOD 봇으로 장비 파괴, RAWR로 5명 사살, 박격포로 10명 사살, MAV로 20 목표 탐지
+ * 보상 : 원격 조종 인식표
+ 여기서 EOD 봇으로 장비 파괴 조건은 대공지뢰로 장비를 파괴해도 인정된다.
+
+==== 반동 역학(RECOIL KINETICS) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as08.png
+ * 조건 : 계급 10 도달, 드래곤즈 티스 전장 플레이, 빅 스플래시 과제 완수, Unica 6로 헤드샷 20회
+ * 보상 : DEAGLE 44 
+해금조건에 있는 마테바 유니카 6도 좋은 리볼버지만, 보상인 데저트이글이 현존하는 모든 권총을 씹어먹는 사기무기 이기 때문에 이걸 언락할려고 권총서버 에서 열내고 있는 유저들이 상당히 많을것이다. 그러나 권총 서버에서 해보면 알겠지만 헤드샷이 아닌 몸샷으로 죽이게 되는 경우가 대다수이기 때문에 그다지 추천하고싶은 방법은 아니다. 한가지 팁을 주자면 이걸 언락하는 데에 가장 큰 도움을 주는것은 바로 캠핑하고 있는 유저들--그니깐 똥싸개--. 세세한 미동도 없고 그 자리에 그대로있기 때문에 헤드샷 맞추기 가장 완벽한 존재이기 때문이다. 캠핑유저의 성지 인 상하이 봉쇄 나 여명의 파괴자 같은 고층건물 위주 맵에 돌아다니다 보면 데저트이글을 1시간안에 언락할 수 있을것이다. '''단 이 방법은 공중장비를 잘 다룰수 있다는 전제아래.''' 친한 사람과 분대플레이하지 않는 한 헬기 얻어타면서 저런거 노리면 훨씬 오래 더 걸린다.
+아니면 과감히 수중전을 시도하는것도 나쁘지 않다. 예를 들면 성큰 드래곤의 B지점 하층 중앙부에 물이 차오른 경우. 수영상태에서는 상대방도 부무장으로 권총만 쓸수 있다는 점, 그리고 서로 수영상태라면 느리게 움직인다는 점 때문에 조준이 일반적인 경우보다는 훨씬 쉬워질 것 이다. 하지만 자신도 마찬가지니까 주의 할것.
+
+==== 킬조이(KILLJOY) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as09.png
+ * 조건 : 계급 10 도달, 드래곤즈 티스 전장 플레이, 반동 역학 과제 완수, 체력이 30 이하일 때 10명 사살, 체인링크에서 적 링크 30개 파괴, 티켓 50장이 남은 상태로 체인링크 라운드 승리
+ * 보상 : 킬조이 인식표
+
+=== 골드 과제 ===
+==== 시티 슬리커(CITY SLICKER) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/xp3as10.png
+ * 조건 : 계급 20 도달, 드래곤즈 티스 전장 플레이, 드래곤즈 티스 10시간 플레이, 드래곤즈 티스 전장에서 100명 사살 
+ * 보상 : 시티 슬리커 인식표
+
+==== 팬텀 시작(PHANTOM INITIATE) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/906d03b6a8ffbd2bcc9fb923e528b492f10a8608/public/profile/warsaw/gamedata/award_mission/large/ghost3.png
+ * 조건 : 프리미엄으로 한번 플레이, 경기관총으로 200명 사살, 폭발물로 50명 사살, 로드킬 25번 기록
+ * 보상 : 미국,러시아,중국의 팬텀 위장
+
+과제를 푸는 암호는 '''24344241893''' 로, 8월 2일에 발견되었다.
+
+
+
+== 파이널 스탠드 ==
+=== 브론즈 과제 ===
+==== 허위 정보(DISINFORMATION) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as01.png
+ * 조건 : M84 섬광탄으로 적 10명에게 영향을 줌, 백병전 사살을 3번 기록
+ * 보상 : DS-3 DECOY
+
+섬광탄으로 영향을 주라는것은 섬광탄을 던져서 폭발할시 히트마커가 표시될시 카운트된다
+
+==== 아이 스파이(EYE SPY) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as02.png
+ * 조건 : 탐지 약장 2개 획득, DMR이나 카빈으로 적 20명 사살
+ * 보상 : 목표 감지기 
+
+목표 감지기는 카빈 또는 DMR에 장착할수있다.
+
+=== 실버 과제 ===
+==== XD-1 데스브링어(XD-1 DEATHBRINGER) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as03.png
+ * 조건 : XD-1 엑시페터로 적 30명 사살, XD-1 엑시페터로 3km 이동
+ * 보상 : http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced368.png XD-1 엑시페터 인식표
+
+==== 스노모빌 슬레이어(SNOWMOBILE SLAYER) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as04.png
+ * 조건 : 스노모빌로 로드킬 10번 달성, 스노모빌로 공중에서 5분 보내기
+ * 보상 : http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced369.png 스노모빌 인식표
+
+로드킬 10번이 조금 어려우니 잘 조종하자
+
+==== 호버 탱크 하빈저(HOVER TANK HARBINGER) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as05.png
+ * 조건 : HT-95 Levkov로 장비 15대 파괴, HT-95 Levkov에서 10분 보내기
+ * 보상 : http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced370.png HT-95 Levkov 인식표
+
+==== 레일건 난동(RAILGUN RAMPAGE) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as06.png
+ * 조건 : Rorsch Mk-1으로 장비 10대 파괴, Rorsch Mk-1으로 적 25명 사살
+ * 보상 :http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced371.png Rorsch MK-1 인식표
+
+==== 기계화된 아수라장(MECHANIZED MAYHEM) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as07.png
+ * 조건 : Schipunov 42로 적 25명 사살, 발사형 포드로 공중에서 5분 보내기
+ * 보상 : 툰드라 도색 
+
+=== 골드 과제 ===
+==== 프로스트바이트(FROSTBITE) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/xp4as08.png
+ * 조건 : Final Stand 10시간 플레이, 화이트아웃 작전 10라운드 승리,해머헤드 10라운드 승리, 격납고 21 10라운드 승리,카렐리야의 거인 10라운드 승리
+ * 보상 : 프로스트바이트 도색
+
+==== 팬텀 대원(PHANTOM OPERATIVE) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/ghost4.png
+ * 조건 : 팬텀으로 적 200명 사살, 팬텀으로 적 50명 헤드샷
+ * 보상 : http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/large/basic283.png
+팬텀 대원 인식표
+
+다른 팬텀 과제들과는 달리 과제 언락하기가 상당히 복잡하다. 팬텀 프로그램을 모두 완수해서 모든 팬텀 과제 보상물을 언락한뒤 파이널 스탠드 맵 곳곳에 숨겨져있는 왼쪽 인식표를 습득해야 한다. 이후 4명 모두 팬텀 프로그램 완료 보상물과 파이널 스탠드 맵에 퍼진 인식표를 착용한뒤 격납고 21(Hanger 21)맵의 타이탄 오른쪽 구석 엘레베이터에 타고 내려가 비밀번호 1290 429 397648 970를 입력, 중앙에 있는 팬텀을 획득한 뒤 우측 기계를 밟고 올라가 떨어져있는 종이에 상호작용을 하면 팬텀 대원 과제가 시작된다.
+
+조금 더 쉽게 설명을 해주자면
+|| '''플레이어 1''' || 팬텀 도색 || 팬텀 위장 || 팬텀 프로스펙트 인식표 || 화이트아웃 작전 인식표 ||
+|| '''플레이어 2''' || 팬텀 도색 || 팬텀 위장 || 팬텀 프로스펙트 인식표 || 해머헤드 인식표 ||
+|| '''플레이어 3''' || 팬텀 도색 || 팬텀 위장 || 팬텀 프로스펙트 인식표 || 카렐리야의 거인 인식표 ||
+|| '''플레이어 4''' || 팬텀 도색 || 팬텀 위장 || 팬텀 프로스펙트 인식표 || 격납고 21 인식표 ||
+이 4명이 격납고21 구석 엘레베이터를 동시에 타게 되면 엘레베이터가 작동하게되고 팬텀룸으로 입장가능하다. 
+
+[[http://www.youtube.com/watch?v=Bn4xHqnwjwo 참고 영상]]
+
+이후 팬텀 대원 인식표를 착용하면 팬텀방으로 갈때 팬텀 위장이나 도색 없이도 출입할 수 있다. 아마 팬텀 대원으로 인식되서 그냥 통과되는듯
+
+== 프리미엄 임무 ==
+
+==== 최강의 돌격병(ULTIMATE ASSAULT) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/pa1.png
+ * 조건 : 돌격소총으로 적 200명 사살, 보조장비 수류탄 발사기로 50명 사살, 100번 치료, 동료 50명 부활, 제세동기로 적 10명 사살
+ * 보상 :http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced372.png 최강의 돌격병 인식표
+
+보조장비 수류탄 발사기는 M320 유탄 발사기류를 뜻하고 제세동기 10킬은 똥싸개들을 잘 찾아서 죽이거나 엘레베이터 앞에서 대기하는것이 좋다
+==== 최강의 공병(ULTIMATE ENGINEER) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/pa2.png
+ * 조건 : PDW로 200명 사살, 로켓 런처로 75명 사살, 로켓 런처로 장비 50대 파괴, 지뢰로 장비 25대 파괴, 100번 수리
+ * 보상 :http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced373.png 최강의 공병 인식표
+
+지뢰로 장비 25대 파괴 같은 경우 대공지뢰는 카운트가 되지않는다.
+==== 최강의 보급병(ULTIMATE SUPPORT) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/pa3.png
+ * 조건 : 경기관총으로 200명 사살, XM25로 50명 사살, C4나 클레이모어로 50명 사살, 박격포나 UCAV로 50명 사살, 100번 재보급
+ * 보상 :http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced374.png 최강의 보급병 인식표
+
+==== 최강의 정찰병(ULTIMATE RECON) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/pa4.png
+ * 조건 : 저격소총으로 적 200명 사살, C4나 클레이모어로 50명 사살, MAV나 SUAV로 100 목표 탐지, 장비 25대 도색, 모션 센서 지원 25번 달성
+ * 보상 : http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced375.png 최강의 정찰병 인식표
+
+장비 25대 도색 같은 경우 PLD나 소프람으로 장비 25대 레이저 지정이고 모션 센서 지원은 동작 감지기네 TUG-S 로 감지한 적을 아군이 사살하면 얻는다.
+
+==== 최강의 지휘관(ULTIMATE COMMANDER) ====
+http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/award_mission/large/pa5.png
+ * 조건 : 스캔 지원 100번 달성, EMP 지원 100번 달성, 75 분대 진급, 탄약 낙하 50번 사용, 장비 낙하 50번 사용
+ * 보상 :http://eaassets-a.akamaihd.net/bl-cdn/cdnprefix/9e20aea946b2f0769ae0d22238c02f18b44f9690/public/profile/warsaw/gamedata/dogtags/mediumns/advanced376.png 최강의 지휘관 인식표

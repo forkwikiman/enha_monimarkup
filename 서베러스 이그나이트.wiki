@@ -1,0 +1,40 @@
+[[슈퍼로봇대전 MX]] 오리지널 후속기체
+
+attachment:/yta-08bw.jpg 
+'''폼 G'''
+http://srwog.velv.net/mecha_images/cerberusignite_s.png
+'''폼 S'''
+
+=== 서베러스 이그나이트(CERBERUS IGNITE) ===
+━기체명:서베러스 이그나이트(Cerberus Ignite)
+━형식 번호:YTA-08BW
+━분류:인간형
+━소속:첸트르 프로젝트
+━개발:미탈 자파트(Mitarl Zapat)
+━제조:첸트르 프로젝트
+━생산 형태:TE 엔진 실험기
+━전고:22.1m 
+━중량:65.4t 
+━동력원:TE 엔진, 배터리
+━MMI(Man Machine Interface):다이렉트 필링 컨트롤
+━승원인수:2명 
+━주요 탑승자:[[휴고 메디오]](Hugo Medio/폼 G), [[아쿠아 켄트룸]](Aqua Centrum/폼 S)
+
+==== 주요무장 ====
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/L7_7o0cuPQ8?list=UUwA3O6VOAsYkhFdWuq654IA" frameborder="0" allowfullscreen></iframe>
+}}}
+'''폼 G(Form G)''' : Ho 미사일 런쳐(Ho Missile Launcher), 레이건 포드(Raygun Pod), 코팅 소드 TeX(Coating Sword TeX), 이그나이트 파이크(Ignite Pike)
+
+'''폼 S(Form S)''' : 코팅 소드(Coating Sword), 레이건 포드(Raygun Pod), 래디컬 레일건(Radical Railgun), 터미너스 스매셔(Terminus Smasher)
+
+==== 필살기 ====
+'''폼 G(Form G)''' : 케르베로스 팽(Kerberos Fang)
+'''폼 S(Form S)''' : 케르베레이드 버스터(Kerberaid Buster) 
+
+=== 상세 ===
+TE 엔진을 강탈당하고 대파된 시작 6호기를 베이스로 만들어진 시작 8호기다. TE 엔진은 신형을 탑재했기 때문에 출력이나 안정성은 보다 상승되었고, 방어계 배리어인 TE 스피어를 사용할 수 있게 되었다. 또, 추가 무장 유니트인 이그나이트 파츠를 장착한다. 본체는 근접 격투전을 중시한 피규어 W와 포격전을 중시한 피규어 B로 변형할 수 있으며, 이그나이트 파츠를 장착한 모습을 각각 폼 G, 폼 S라 부른다. 이 때, 폼 G는 휴고 메디오가, 폼 S는 아쿠아 켄트룸이 기체를 조종한다.[* 이 때 최종기 사용으로 아쿠아 특유의 2단 바스트 모핑 컷인을 유일하게 볼 수 있다.]
+
+이그나이트 파츠는 무인 전투기로 사용할 수 있지만, 작중에서 그러한 운용법은 나오지 않았다. 폼 G의 무장인 이그나이트 파이크는 알트아이젠의 리볼빙 스테이크와 기능이 아주 비슷하지만, 관련성은 불명이다. 기체명 이그나이트(Ignite)는 영어로 불타게 하다, 흥분시키다, 열받게 하다 등을 뜻한다.
+
+뱀발로 [wiki:"리본즈 건담" 어느 건담]과 변형과정이 유사하다. 물론 이쪽이 먼저 나왔다.

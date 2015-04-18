@@ -1,0 +1,41 @@
+||<-4><#333333><table align=center><:>[wiki:"나고야 시영 지하철" <span style="font-weight:bold;color:white">나고야 시영 지하철 운행 노선</span>] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg/40px-Nagoya_Subway_Logo_%28Higashiyama_Line%29.svg.png||<#eeeeee> [[히가시야마선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg/40px-Nagoya_Subway_Logo_%28Tsurumai_Line%29.svg.png||<#eeeeee> [[츠루마이선]] ||
+||<|2><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg/40px-Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg.png||<#eeeeee> [[메이죠선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg/40px-Nagoya_Subway_Logo_%28Sakura-dori_Line%29.svg.png||<#eeeeee> [[사쿠라도오리선]] ||
+||<#ffffff> '''{{{#9370db 메이코선 }}}''' ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg/40px-Nagoya_Subway_Logo_%28Kamiiida_Line%29.svg.png||<#eeeeee> [[카미이이다선]] ||
+
+||<table align=left><table bordercolor="9370db"><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg/60px-Nagoya_Subway_Logo_%28Meijo_%26_Meiko_Line%29.svg.png ||
+|| {{{+1 名港線 / M'''E'''ikō line}}}[* M은 메이죠선이 쓰고 있다.] ||
+ * [[일본 철도 정보/노선 관련 정보]]
+http://upload.wikimedia.org/wikipedia/ja/b/b0/2606.jpg?width=600px
+2000형 전동차. [[메이죠선]]에서도 운행한다.
+
+[[목차]]
+== 개요 ==
+||||<#ffffff> {{{#9370db '''메이코선'''}}} ||
+||운영기관 ||나고야 시 교통국 ||
+||영업거리 ||6.0km ||
+||궤간 ||1435mm ||
+||역수 ||7 ||
+||전기 ||직류 600V 제3궤조 방식 ||
+||편성 ||6량 ||
+||신호방식 ||ATC||
+||영업최고속도 ||65km/h ||
+||차량기지 ||메이코 공장 ||
+||지상구간 ||없음 ||
+
+--[[MEIKO]]선--[* 실제로 보컬로이드 MEIKO와 메이코선을 합친 동영상이 니코니코동화에 올라왔었지만 발차 멜로디 등의 저작권 문제로 현재는 삭제되었다.] 
+[[나고야 시 교통국]]에서 운영하는 [[나고야 지하철]]의 노선 중 하나이다. [[메이죠선]]의 지선 취급인 노선이다. 카나야마역 말고는 환승역도 없다. 메이죠선과 직결운행을 많이 하며 [[오조네역]]까지 간다.
+
+== 노선 ==
+2012년 12월 28일 모든 역의 문서가 작성되었다.
+
+|| 번호 || 역명 || 승강장 || 환승노선 ||
+|| E-01 || [wiki:"카나야마역(나고야)" 카나야마][[br]]金山 || 쌍섬식 ||¶[[나고야 시영 지하철]] [[메이죠선]](M-01)(오조네 방면 직결운행)[[br]]¶[[JR 도카이]] [[도카이도 본선]], [[츄오 본선]][[br]]¶[[나고야 철도]] [[wiki:"메이테츠 나고야 본선" 나고야 본선]]||
+|| E-02 || [wiki:"히비노역(나고야)" 히비노][[br]]日比野 || 섬식 || ||
+|| E-03 || [wiki:"로쿠반쵸역" 로쿠반쵸][[br]]六番町 || 상대식 || ||
+|| E-04 || [wiki:"토카이도오리역" 토카이도오리][[br]]東海通 || 상대식 || ||
+|| E-05 || [wiki:"미나토구청역" 미나토구청][[br]]港区役所 || 상대식 || ||
+|| E-06 || [wiki:"츠키지구치역" 츠키지구치][[br]]築地口 || 상대식 || ||
+|| E-07 || [wiki:"나고야항역" 나고야항][[br]]名古屋港 || 섬식 || ||
+
+[[각주]]

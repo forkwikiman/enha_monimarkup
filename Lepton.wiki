@@ -1,0 +1,37 @@
+[wiki:"기타프릭스 XG"기타프릭스] & [wiki:"드럼매니아 XG"드럼매니아] XG2 수록곡
+
+attachment:uploadfile/lepton_1.jpg
+
+{{{#!html
+<object width="600" height="335"><param name="movie" value="http://www.youtube.com/v/GvTGnH-Vnpg?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GvTGnH-Vnpg?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="335" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 기타 표준 / 베이스 익스퍼트
+
+{{{#!html
+<object width="600" height="335"><param name="movie" value="http://www.youtube.com/v/sBrwDJFUXEE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sBrwDJFUXEE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="600" height="335" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+▲ 드럼 익스퍼트
+
+|||||||||||||| [[기타프릭스]] & [[드럼매니아]] [wiki:"드럼매니아&기타프릭스/XG" XG 시리즈] 난이도 체계 ||
+|| [[BPM]] |||||||||||||| 난이도 ||
+||<|4> 202 ||<|2> 기타 표준|| {{{#blue NOVICE}}} || {{{#orange REGULAR}}} || {{{#red EXPERT}}} ||
+|| {{{#blue 2.00}}} || {{{#orange 3.80}}} || {{{#red 5.60}}} ||
+|| 기타 베이스 || {{{#blue 2.40}}} || {{{#orange 4.10}}} || {{{#red 5.90}}} ||
+|| 드럼매니아 || {{{#blue 3.70}}} || {{{#orange 4.80}}} || {{{#red 7.30}}} ||
+
+[[렙톤]]. 그리스의 화폐단위를 뜻하는 동시에 경입자(輕粒子)를 뜻하는 단어. 이 곡의 경우 당연히 후자의 의미로 쓰인 것이다. 그룹 구성원이 7인 이상일 때 엑스트라 스테이지에 진출 시 플레이 할 수 있다.
+
+작곡은 [[TIME CAPSULE Lab.]]. 첫 출전인 XG/V7에서 낸 곡이 [[photon]]인 것에 이은 입자 시리즈 두번째 곡이다. 곡의 분위기는 완전히 대조적이며, 마찬가지로 좋은 평가를 받는 곡. 세상에 존재하는 [wiki:"쿼크"모][wiki:"양성자"든] [wiki:"중성자"입자]를 곡 제목으로 끌어다 쓸 심산이라는 추측과 함께[* 그리고 이 추측은 XG3에서 Graviton을 내면서 실제로 일어났다. Graviton의 뜻은 중력자. 다만 Graviton 이후로는 [[Jasper|보석]] [[Obsidian|시리즈로]] 새로 만드는 듯.], 앞으로의 귀추가 주목되는 아티스트로 떠올랐다.
+
+그리고 위의 자켓은 [[photon]]의 무비클립 중 일부를 가져다 쓴 것이다.
+
+attachment:uploadfile/lepton02_1.jpg
+
+
+== 아티스트 코멘트 ==
+||「Lepton」 모든 것의 근원
+
+그 작고 가벼움은 궁극이 되어 미지
+
+속박되지 않으며, 그저 계속 날아갈 뿐이다···
+||

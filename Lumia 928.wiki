@@ -1,0 +1,18 @@
+ * 상위 항목: [[마이크로소프트 루미아]] 시리즈
+[[목차]]
+
+http://i.nokia.com/r/image/view/-/2450646/highRes/1/-/NUSA-Lumia928-PP-Hero-Image-Carousel-2000x1000-01-jpg.jpg?width=510
+== 사양 ==
+||[wiki:"SoC" 프로세서]||[[퀄컴 스냅드래곤]] S4 Plus MSM8960 [[SoC]]. [[Qualcomm Krait]] MP2 1.5 GHz [[CPU]], 퀄컴 Adreno 225 [[GPU]] ||
+||[[메모리]]||1 GB LPDDR2 SDRAM, 32 GB 내장 메모리 ||
+||[wiki:"디스플레이" 디스][[br]][wiki:"디스플레이" 플레이]||4.5인치 [wiki:"해상도/일람" WXGA](1280 x 768) RG-BG 펜타일 서브픽셀 방식 방식의 [[삼성D]] [http://www.neowin.net/news/nokia-lumia-928-will-include-an-amoled-screen-larger-battery AMOLED] with PureMotion HD+[[br]]멀티터치 지원 정전식 [[터치 스크린]] with 슈퍼 센스티브 터치 [* 장갑같은 것을 낀 상태에서도 터치가 된다! 설정에서 끄거나 켤 수 있다.] ||
+||[[네트워크]]||[[LTE]] Cat.3, ~~[wiki:"4G" HSPA+] 21Mbps, [wiki:"WCDMA" HSDPA & HSUPA & UMTS], [wiki:"GSM" GSM & EDGE]~~[* 통신사가 지원하지 않는다.], [wiki:"CDMA" CDMA & EV-DO Rev. A][[br]][wiki:"와이파이" Wi-Fi] 802.11a/b/g/n, [[블루투스]] 3.0, [[NFC]] ||
+||[[카메라]]||전면 120만 화소, 후면 870만 화소 [[AF]] 및 '''제논''' [wiki:"플래시(카메라)" 플래시] ||
+||[[배터리]]||내장형 Li-Polymer 2000 mAh ||
+||[[운영체제]]||[[Windows Phone]] 8.0 (Apollo) → 8 - GDR2 (Nokia Amber) ||
+||규격||68.9 x 133 x 10.1 mm, 162 g ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 무선충전 || 
+
+== 상세 ==
+2013년 4월에 출시된 [[미국]] [[버라이즌]] 전용 모델. 기본적으로는 920과 동일 사양이지만 조금 더 얇아지고 화면이 IPS에서 [[AMOLED]]로 변경. 그리고 '''제논 플래시'''를 탑재. ~~뭐야 그냥 카메라네~~
+

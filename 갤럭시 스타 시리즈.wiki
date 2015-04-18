@@ -1,0 +1,86 @@
+ * 상위 항목 : [[삼성 갤럭시|갤럭시 시리즈]]
+
+[[목차]]
+
+== 개요 ==
+[[삼성전자]]의 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]] 브랜드.
+
+신흥 시장을 공략하기 위한 초저사양 및 초저가형 [[스마트폰]]으로, [[WCDMA]]를 지원하지 않고 [[GSM]]만 지원하는 '''레알 2G 스마트폰'''이다.
+
+== 소속 기기 ==
+ * 갤럭시 Star
+  * 갤럭시 Star Pro
+ * 갤럭시 Star 2
+
+[[각주]]
+
+=== 삼성전자 갤럭시 Star ===
+||||<tablealign="center"> attachment:/SStar.jpg?width=100% ||
+||<width=50%> 블랙 ||<width=50%> 화이트 ||
+|||| [[http://www.samsung.com/in/consumer/mobile-phone/mobile-phone/smartphone/GT-S5282LKAINU?subsubtype=android-mobiles 인도 삼성전자 GT-S5282 공식 사이트]] ||
+
+==== 개요 ====
+[[삼성전자]]가 2013년 4월에 공개한 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+===== Galaxy Star =====
+||[wiki:"SoC" 프로세서]||Spreadtrum SC6820 [[SoC]]. [[ARM Cortex-A5]] 1 GHz [[CPU]], [[ARM Mali]]-400 [[GPU]][*A [[ARM Mali]]-300이라는 주장도 있다. 일단 [[http://www.spreadtrum.com/en/products/basebands/view/sc6820 Spreadtrum SC6820 공식 사이트 표기]]를 따른다.] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[[디스플레이|디스]][[br]][[디스플레이|플레이]]||3.0인치 [wiki:"해상도/일람" QVGA](320 x 240) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||후면 200만 화소 ||
+||[[배터리]]||Li-Ion 1200 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 4.1 (Jelly Bean)[[br]][[삼성 터치위즈]] 5.0 ||
+||규격||58 x 105 x 11.9 mm, 100.5 g ||
+||색상||블랙, 화이트 ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+===== Galaxy Star Pro =====
+||<tablealign="center"> attachment:GstarP_W.jpg?width=450 ||
+|| [[http://www.samsung.com/in/consumer/mobile-phone/mobile-phone/smartphone/GT-S7262MKAINU?subsubtype=android-mobiles 인도 삼성전자 GT-S7262 공식 사이트]] ||
+
+||[wiki:"SoC" 프로세서]||Spreadtrum SC6820 [[SoC]]. [[ARM Cortex-A5]] 1 GHz [[CPU]], [[ARM Mali]]-400 [[GPU]][*A [[ARM Mali]]-300이라는 주장도 있다. 일단 [[http://www.spreadtrum.com/en/products/basebands/view/sc6820 Spreadtrum SC6820 공식 사이트 표기]]를 따른다.] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[[디스플레이|디스]][[br]][[디스플레이|플레이]]||4.0인치 [wiki:"해상도/일람" WVGA](480 x 800) RGB 서브픽셀 방식의 TFT-LCD[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[wiki:"GSM" GSM & EDGE], [wiki:"와이파이" Wi-Fi] 802.11b/g/n, [[블루투스]] 4.0 ||
+||[[카메라]]||후면 200만 화소 ||
+||[[배터리]]||Li-Ion 1500 mAh ||
+||[[운영체제]]||[[wiki:"안드로이드(운영체제)/버전" 안드로이드]] 4.2 (Jelly Bean)[[br]][[삼성 터치위즈]] 6.0 ||
+||규격||62.7 x 121.2 x 10.6 mm, 121 g ||
+||색상||화이트 ||
+||기타||[wiki:"FM#s-2" FM] [[라디오]] 지원, 듀얼심 지원 ||
+
+갤럭시 Star의 파생 모델이다. '''Pro'''가 접미된 만큼, 본가 모델보다 배터리 용량이 늘었고, 해상도가 높아졌다. 그래도 [[GSM]]+[[GSM]] 타입의 듀얼심 지원인 것은 여전하다.(...)
+
+==== 상세 ====
+신흥 시장 중심으로 출시한 초저가형 모델이다.
+
+듀얼심을 지원하나, [[GSM]]+[[GSM]] 조합이다. 즉, 기기 자체가 '''[[WCDMA]]을 지원하지 않는다'''. ~~진정한 2G폰~~
+
+[[각주]]
+
+=== 삼성전자 갤럭시 Star 2 ===
+||||<tablealign="center"> attachment:/SGYoung2.jpg?width=100% ||
+||<width=50%> 아이리스 챠콜 ||<width=50%> 화이트 ||
+|||| [[http://global.samsungtomorrow.com/?p=38148 글로벌 삼성투모로우 Galaxy Star 2 포스팅]] ||
+
+==== 개요 ====
+[[삼성전자]]가 2014년 6월에 공개한 [[안드로이드(운영체제)|안드로이드]] [[스마트폰]].
+
+==== 사양 ====
+||[[SoC|프로세서]]||Spreadtrum SC6815A [[SoC]]. [[ARM Cortex-A7]] 1 GHz [[CPU]], [[ARM Mali]]-400 [[GPU]] ||
+||[[메모리]]||512 MB LPDDR2 SDRAM, 4 GB 내장 메모리, micro SDHC (최대 32 GB 지원) ||
+||[[디스플레이|디스]][[br]][[디스플레이|플레이]]||3.5인치 [[해상도/일람|HVGA]](480 x 320) RGB 서브픽셀 방식의 TFT-LCD (176 ppi)[[br]]멀티터치 지원 정전식 [[터치 스크린]] ||
+||[[네트워크]]||[[GSM|GSM & EDGE]], [[Wi-Fi]] 802.11b/g/n, [[블루투스]] 3.0 ||
+||[[카메라]]||후면 200만 화소 ||
+||[[배터리]]||Li-lon 1300 mAh ||
+||[[운영체제]]||[[안드로이드(운영체제)/버전|안드로이드]] 4.4 (KitKat)[[br]][[삼성 터치위즈]] 7.0 ||
+||규격||59.9 x 109.8 x 12.5 mm, 107.6 g ||
+||색상[* 제품 공개 당시 같이 공개된 기본 색상에 볼드 처리]||'''화이트''', '''아이리스 챠콜''' ||
+||기타||[[FM#s-2|FM]] [[라디오]] 지원, 듀얼심 지원 ||
+
+==== 상세 ====
+2014년 6월 30일, [[삼성전자]]가 대량으로 공개한 [[http://global.samsungtomorrow.com/?p=38148 저사양 스마트폰]]과 같이 공개되었다.
+
+디자인은 같이 공개된 [[갤럭시 영 시리즈#s-2.2|갤럭시 Young 2]]와 완전히 동일하다. 제품 규격역시 오차 범위 내인 것으로 보아 완전히 같다. 그런데, 세세한 사양이 다르다. 후면 카메라 화소는 200만 화소로 타 제품의 전면 카메라급 사양을 가지고 있고, 전작처럼 [[WCDMA]]는 지원하지 않는다. [[GSM]]+[[GSM]] 조합의 듀얼심을 지원한다.
+
+[[각주]]

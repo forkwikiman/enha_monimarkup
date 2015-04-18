@@ -1,0 +1,28 @@
+[[include(틀:탄화수소)]]
+[[include(틀:탄화수소/방향족)]]
+
+|| http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Benzol.svg/100px-Benzol.svg.png?height=50 || http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Naphthalene-2D-Skeletal.svg/597px-Naphthalene-2D-Skeletal.svg.png?height=50 || http://upload.wikimedia.org/wikipedia/commons/8/81/Anthracene-2D-Skeletal.png?height=55 || http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Naftacene.svg/218px-Naftacene.svg.png?height=50 || http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pentacene.svg/270px-Pentacene.svg.png?height=50 ||
+||[[벤젠]]||[[나프탈렌]]||[[안트라센]]||테트라센||펜타센||
+
+|| http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hexacene.svg/322px-Hexacene.svg.png?height=50 || http://upload.wikimedia.org/wikipedia/commons/3/35/Heptaceen.png?height=60 ||...|| http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Acenes_general_structure.svg/600px-Acenes_general_structure.svg.png?height=70 ||
+||헥사센||헵타센||...||n-아센||
+
+Polyacene. 그냥 아센(acene)이라고도 부른다. [[벤젠]]고리가 일렬로 연결된 여러고리 방향족 탄화수소의 총칭이다. π전자 시스템에 [[전자]]가 각각 6, 10, 14, 18, ..., 4n+2개가 있기 때문에 Hückel's Rule을 만족해서 모두 방향성을 띈다.[* 가장 간단한 기술로 방향족성은 4n+2개의 전자(6, 10, 14, ...)가 π시스템에 있으면 발생하며, 이를 Hückel's Rule이라고 한다. 반대로 4n개의 전자가 있으면 오히려 불안정해지는 반방향족성이 생긴다.] 
+
+가장 간단한 [[벤젠]]이 유일하게 상온 상압에서 [[액체]]이며, [[나프탈렌]]부터 [[고체]]가 되고, 그 뒤로는 쭉 다 고체이다. 명명은 세 고리 화합물인 [[안트라센]]까지만 관용명이며, 그 뒤로는 그냥 다각형 이름 붙이듯이 테트라, 펜타, 헥사, 헵타, 옥타, ... 와 같이 붙인다.
+
+앞의 3개까지는 현실 용도(?)가 꽤 있는 편이지만 테트라센 이후로는 그다지 마주칠 일이 없는 물질들이다. 일단 그런 화합물 자체가 생체 시스템에는 거의 없다시피하기 때문에.... 고리가 많아질 수록 반응성도 떨어지고, 또 반응을 한다고 해도 선호되는 반응위치간의 에너지 차이가 별로 없어 혼합물이 얻어지기 십상이다. 따라서 [[화학]]분야보다는 그냥 그 자체의 전자/양자적 성질을 이용하는 [[재료공학]]분야에서 훨씬 많이 쓰인다. 그래서인지 [[리그베다 위키]]에 항목도 앞에 3개만 되어 있고, 그 뒤로는 본 항목으로 리다이렉트된다(...) ~~헥사센 이후는 검색창에 쳐보는 것을 시도하는 사람조차 없을 것으로 예상하므로 리다이렉트조차 안 되어 있다.~~
+
+물리적 겉보기 성상은 상온 상압에서 [[벤젠]]은 투명한 무색 액체, [[나프탈렌]]과 [[안트라센]]은 흰색 고체다. 그 후로는 π전자 시스템이 길어져 가시광선을 흡수하기 시작하기 때문에 색이 나타나기 시작하는데, 테트라센은 진한 주황색이며 펜타센 이후는 아예 검댕처럼 시커멓다(...)
+
+[[벤젠]], [[나프탈렌]], [[안트라센]]에 대한 설명은 해당 항목 참고 바람.
+
+테트라센은 순수한 물질의 경우 상당히 고가이기도 하며, 차세대 유기[[반도체]]소자의 재료가 된다. 유기박막트랜지스터 소자와 유기전계발광다이오드, 속칭 [[OLED]]에도 사용되는 물질이다. 적절한 밴드갭과 적절한 전자이동도, 홀 이동도를 보이는 유기반도체이기 때문에 전자수송과 홀 수송을 혼자서 다할 수 있는 양극성 물질이기도 하다. 이 성질을 이용해 일본에서 테트라센 단결정 한가지로만 이루어진 유기전계효과트랜지스터 소자를 선보이기도 했다.[* [http://onlinelibrary.wiley.com/doi/10.1002/adfm.200700046/abstract 참조]] 그 외의 용도는 거의 없다시피하다.
+
+펜타센은 고리 5개짜리로 역시 유기전자소재에 사용된다. 
+
+http://upload.wikimedia.org/wikipedia/en/c/cd/IBM_Zurich_Press_Release_AFM_Image_Pentacene_Aug_2009.jpg?width=400
+
+특기할 만한 사항으로 [[IBM]]의 과학자들이 주사터널현미경도 아닌 원자힘현미경으로(...) 펜타센의 이미지를 얻어내는데 성공했다.[* 비유하자면 어떤 개미의 뒤통수에 여드름이 30개 났는데(...) 그 여드름의 분포상태를 현미경으로 찍어서 알아낸 것이 아니라 사람 맨손끝으로 더듬어서 알아낸 것과 비슷한 것(...) ~~개미 뒤통수에 여드름이 나는지는 묻지 말자~~] ~~외계인을 타스로 타서 드셨나~~
+
+헥사센 이후로는 아예 화학적으로 불안정해지기 시작한다. 상온 상압에서 산소랑 반응해서 일부가 산화되어서 글러브박스 등을 사용하지 않으면 대기중에서 보존하는 것부터 어려워지기 시작한다. 그래서인지 합성도 미친듯이 어렵고 어렵게 만들어도 유기전자재료분야 이외에는 당장 용도도 그다지 많지 않다. 7개짜리인 헵타센이 2009년에 와서야 겨우 합성되었다는 점에서 알 수 있을 듯. 8개 이후의 옥타센, 노나센,.. 은 아직 계산화학~~상상화학~~의 영역에 남아 있다. 상당히 빼어난 반도체 성질이 예측되는 만큼 앞으로의 성장이 기대되는 분야.

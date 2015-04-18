@@ -1,0 +1,75 @@
+'''오렌지'''
+
+ * 혹시 [[오렌지]]를 찾고자 들어오신 분은 해당 항목 참조.
+
+[[목차]]
+
+== 개요 ==
+http://ecx.images-amazon.com/images/I/41UG27XaBlL.jpg
+싱글음반 자켓
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=20C806EAD292CD7376E60AF7884589909A7F&outKey=V127d3d98a09c0cf815c7d6b1ee969d12e05671484d1070bc81b6d6b1ee969d12e056" frameborder="no" scrolling="no"></iframe>
+}}}
+PV 영상
+
+일본의 4인조 그룹 [[GReeeeN]]의 16번째 싱글음반 및 수록곡. 가사는 노을진 하교길에서 사랑에 빠진 여학생의 감정을 노래하는 내용이다. 처음에는 여학생이 우연히 상대 남학생의 뒤를 따라 걷다가 나중에 그가 자신을 기다려 줬다는 걸 알게 되고, 시간이 흘러 둘이 같이 걷고, 결국에는 숨겨왔던 감정을 고백해버린다는 내용.--심플하네----남자가 썸타네--
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/2k7nxhademU" frameborder="0" allowfullscreen></iframe>
+}}}
+시세이도 "시 브리즈"의 CM 송으로 쓰인 바 있다.
+
+== [[BEMANI 시리즈]]에 수록 ==
+[[BEMANI 시리즈]]의 [[유비트 시리즈]]와 [[리플렉 비트 시리즈]] 그리고 [[팝픈뮤직]]에 수록되었으며, 셋 다 커버 보컬로 수록되었다.
+
+=== [[유비트 시리즈]] ===
+||||||||<#ffffff><:>jubeat saucer기준||
+||<|2><#ffffff><:>레벨||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>3||<:>6||<:>8||
+||<#ffffff><:>노트수||<:>170||<:>388||<:>517||
+||<#ffffff><:>BPM||||||<:>182||
+||<#ffffff><:>곡 이력||||||[[유비트 소서]]에서 2012/11/1 첫 수록||
+
+ * [[wiki:"유비트 시리즈/수록곡" 곡 목록으로 돌아가기]]
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/peAtL9Q5qnw" frameborder="0" allowfullscreen></iframe>
+}}}
+EXTREME [[엑설런트]] 영상
+
+=== [[리플렉 비트 시리즈]] ===
+|||||||||||| [[리플렉 비트]] 난이도 체계 ||
+|| [[BPM]] |||||||||||| 난이도 ||
+||<|2> 182 || {{{#green BASIC}}} || {{{#orange MEDIUM}}} || {{{#red HARD}}} ||
+|| {{{#green 2}}} || {{{#orange 5}}} || {{{#red 8}}} ||
+|| 오브젝트 || {{{#green 82}}} || {{{#orange 206}}} || {{{#red 304}}} ||
+|| 수록버전 ||||||||<#8e8eff> [리플렉 비트 콜레트] ||
+|| [[리플렉 비트 플러스|Rb+]] 수록 팩 |||||||| MUSIC PACK 30 ||
+[추가바람]
+
+=== [[팝픈뮤직]] ===
+{{{#!HTML
+<iframe width="640" height="480" src="http://www.youtube.com/embed/SRR91v4ivXQ?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+하이퍼 플레이 영상
+
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/kfjt2orNH7M?rel=0" frameborder="0" allowfullscreen></iframe>
+}}}
+EX 플레이 영상
+
+{{|
+夕暮れの思い出はまるでオレンジのように甘酸っぱいのです。
+황혼의 추억은 마치 오렌지처럼 달콤한 것입니다.
+|}}
+
+|| 출전 || 곡명 || 아티스트 명의 || 담당 캐릭터 ||
+|| pop'n music[[BR]]Sunny Park || オレンジ || '''[[wiki:"PON" PooooN]]'''[* 그룹 GReeeeN의 패러디. 당연히 PON의 커버보컬 버전이다. 그리고 서니파크 신규 판권곡중 유일하게 커버보컬이다. ~~지못미 GReeeeN~~] || Jyun&Shingo[[BR]][[쥰&싱고]] ||
+
+|| [[BPM]] || [[wiki:"팝픈뮤직/난이도 체계" 난이도]] || {{{#blue EASY}}} || {{{#green NORMAL}}} || {{{#orange HYPER}}} || {{{#red EX}}} ||
+|| 182 || 50단계 || {{{#blue 5(5버튼)}}} || {{{#green 16}}} || {{{#orange 26}}} || {{{#red 34}}} ||
+
+ * [[wiki:"팝픈뮤직/수록곡" 곡 목록으로 돌아가기]]
+
+팝픈뮤직 서니파크에 나온 신규 판권곡이다. 유비트랑 리플렉 비트랑 다르게 16박노트가 나오는 구간이 있으니 두 게임에서 넘어온 경우에는 유의해야 할 수 있다. 참고로 EX난이도는 신규 판권곡중 난이도가 2번째로 낮으니 판권곡으로 실력을 쌓는 경우에는 추천되어 질 수도 있다. ~~하지만 [[wiki:"恋は渾沌の隷也" 5월 15일날 추가된 산치핀치를 외치는 크툴루]]가 나와서...~~

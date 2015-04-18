@@ -1,0 +1,109 @@
+[[목차]]
+
+|||| [[wiki:"DJMAX 시리즈/수록곡 목록" DJMAX 시리즈 수록곡]] ||
+|| 최초 수록 버전 || [[DJMAX 온라인]] ||
+|| 추가 수록 버전 || ["DJMAX Portable" DMP], ["DJMAX Portable 2" DMP2], ["DJMAX Trilogy" DMTR], ["DJMAX TECHNIKA" DMT], ["DJMAX TECHNIKA 2" DMT2], ["DJMAX TECHNIKA 3" DMT3], ["DJMAX RAY" DMR] ||
+|| 장르 || Techno ||
+|| 작곡 || [[Forte Escape]] ||
+|| BPM || 138 ||
+|| BGA || [[KIMYS]] ||
+
+http://pds16.egloos.com/pds/200909/02/06/e0091406_4a9d44120b5ff.jpg?width=500
+
+{{{#!html
+<iframe width="550" height="413" src="http://www.youtube.com/embed/s06q4Q3wdUE" frameborder="0" allowfullscreen></iframe>
+}}}
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/v3v4hfcP8rw?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+}}}
+테크니카 컷팅
+
+제목은 Artificial Integrity(인위적인 고결함)의 약자로, 약칭은 '''에아'''. 그리고 이니셜을 본따 '''조류독감'''이라는 애칭도 있다. 주로 애칭으로 많이 불린다.
+
+[[DJMAX 온라인]] ES VOL.1 서비스 당시 업데이트 되었다.시리즈의 간판 인기곡 중 하나. 상당히 몽롱한 분위기의 테크노 곡으로, 곡의 분위기와 KIMYS 특유의 루프 [[BGA]]가 잘 맞물려 서비스 당시 [바람에게 부탁해]와 인기순위 1위를 번갈아가면서 차지하고 있었다.
+
+[[White Blue]]의 경우와 마찬가지로 곡의 러닝타임이 꽤 길어 테크니카에 수록된 버전에서는 많이 칼질을 당했는데, 심하게 까이는 모양. --요즘은 옛날곡이라 잊혀진듯--
+
+=== [DJMAX 온라인] ===
+
+SC를 제외하곤 고만고만한 중간 정도의 난이도로, 후반부의 반박자 끌어치기식의 패턴이 조금 많아지는 것만 빼면 어렵지 않게 클리어할 수 있다.
+
+{{{#!HTML
+<object width="480" height="360"><param name="movie" value="//www.youtube.com/v/36PjaYjf6Xw?hl=ko_KR&amp;version=3&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/36PjaYjf6Xw?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+
+다만 7키 SC패턴은 모든 수록곡중 가장 많은 노트수(1999개)를 가지고 있는 곡이었다. 
+
+=== DJMAX Portable 시리즈 ===
+
+==== [wiki:"DJMAX Portable"DJMAX Portable 1] ====
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/LXYlFqi8Mms" frameborder="0" allowfullscreen></iframe>}}}
+
+(4B NM)
+
+{{{#!HTML
+<iframe width="560" height="315" src="http://www.youtube.com/embed/t3B1nmQIspo" frameborder="0" allowfullscreen></iframe>}}}
+
+(6B HD)
+
+[[DJMAX Portable]]에 수록됐을 때에는 4B, 6B HD와 8B가 마지막 노트가 내려오자마자 바로 끝난다. 버그인지 아닌지는 불명.[* 이건 같은 수록곡인 6B, 8B [[FTR]]에서도 일어난다. 카더라 정보에 의하면 곡 데이터 중 'END TIME'이 잘못 설정되어서 그렇게 되었다고.] 참고로 6B HD는 DMP1의 6키 전곡중에서 제일 노트가 많으며(1451개) 제일 점수를 많이주어 2스테이지의 스코어 어택곡으로도 사용된다.
+
+==== [DJMAX Portable 2] ====
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/AOon6BcRBQM" frameborder="0" allowfullscreen></iframe>}}}
+
+(5B NM)
+
+[DJMAX Portable 2]로 넘어오면서, 기존 패턴들도 변형되어 수록되었다.
+
+=== [DJMAX Trilogy] ===
+
+{{{#!html
+<iframe width="420" height="315" src="http://www.youtube.com/embed/gDUitLBfUlw" frameborder="0" allowfullscreen></iframe>}}}
+
+[DJMAX Trilogy]에도 수록되었다. 여기서는 중간 정도의 난이도.
+
+=== [DJMAX TECHNIKA 시리즈] ===
+
+{{{#!html
+<iframe width="560" height="315" src="http://www.youtube.com/embed/4R344ngYrgw" frameborder="0" allowfullscreen></iframe>}}}
+
+HD 패턴(테크니카 1 기준 TP). 영상 1:48부터 나오는 보+분이 매우 난해하다.
+
+==== [wiki:"DJMAX TECHNIKA"DJMAX TECHNIKA 1] ====
+
+[[DJMAX TECHNIKA]]에서는 난이도 4의 PP 패턴, 난이도 7의 TP 패턴, 그리고 SP 패턴이 있다. PP 패턴의 경우 중간에 나오는 긴 연결형 노트가 까다로운 편이고, TP 패턴은 [wiki:"Challenger"Challenger Set]에서 선곡이 가능하지만 보라노트 떡칠로 지뢰곡 취급을 받고 있다.
+스페셜 패턴 9의 3스테이지에 SP패턴도 등장하였으나 정작 맨 뒤 문제의 보라떡칠 구간은 그대로여서 역시 기피곡 취급.
+
+==== [DJMAX TECHNIKA 2] ====
+
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+|| Star || D || 300 MAX || ? || 4박 스크롤 || ||
+|| NM || D || 400 MAX || 5 || 4박 스크롤 || ||
+|| HD || D || 500 MAX || 7 || 4박 스크롤 || [wiki:"Challenger"Challenger Set] 셀렉곡 ||
+|| MX || C || 600 MAX || 8 || 4박 스크롤 || ||
+
+Star 패턴이 추가되었다. 나머지는 그대로 이식.
+
+==== [DJMAX TECHNIKA 3] ====
+
+|||||||||||| [[DJMAX TECHNIKA 3]] ||
+|| 패턴 || 랭크 || 가격 || 난이도 || 설명 || 비고 ||
+||<#FFB0B0> Star || D || 50 Max || ? || 4박 스크롤 || ||
+||<#FFFF00> Normal || D || 100 Max || 5 || 4박 스크롤 || [[wiki:"New Beginning"미션 - Triple Ace]] 수록 ||
+||<#0000FF> {{{#white Hard}}} || C || 150 Max || 7 || 4박 스크롤 || [wiki:"Challenger"Challenger Set] 셀렉곡 ||
+||<#FF0000> Maximum || B || 200 Max || 8 || 4박 스크롤 || ||
+
+3로 넘어오면서 노말 패턴이 미션에 수록되었다. --다행이다 잊혀지지 않아서--
+
+=== [TAP SONIC] ===
+
+[[TAP SONIC]]에서도 수록되었지만, 테크니카 컷팅 버전이다. 그래도 컷팅 부분의 이어짐은 그나마 자연스럽게 해 놓은 편이다. 6Key 레전드 기준으로 7레벨인데 중간에 폭타구간 덕분에 7레벨 중에서도 상급에 속한다. 이 폭타가 TAP SONIC 내에서도 상당히 어려운 폭타인데, 박자도 어려울 뿐더러 중간중간에 노트를 두 개씩 쳐야 한다. 이 구간에서 끔살당하는 경우가 많다. 때문에 8레벨로 올라가야 된다는 의견도 존재. 다만 경력이 쌓이면 치는 맛이 있다. 7레벨 추천곡으로 가장 많이 꼽힌다. 곡도 좋을 뿐더러 패턴도 후반부가 재미있기 때문에.
+
+=== [DJMAX RAY] ===
+
+DJMAX Classic 1의 기본곡으로 수록되었으며 6k MX의 레벨 표기는 9. 뮤직 팩답게 단타 위주로 구성되어 있는데, 여기서도 TAP SONIC처럼 노트의 밀도가 그리 높지 않기 때문에 9레벨 치고는 한산한 패턴이다. 사실상 8레벨 수준의 채보를 보인다. ~~TAP SONIC에서 사기곡 취급 받더니 너무 올라가서 물렙 되고 말았다~~

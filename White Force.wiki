@@ -1,0 +1,18 @@
+[[목차]]
+== 개요 ==
+http://media.moddb.com/cache/images/mods/1/11/10502/thumb_620x2000/sk03k0008.jpg
+
+[한국인]인 Tox가 [방사능 작업실]이 조직(?)되기 이전인 2001~2002년도에 '''처음으로'''[* 그래서인지 [레벨 디자인]이 엉성한데다 [[하프라이프]] 본편에 나온 연출들을 그대로 [[재탕]]한 수준이다.] 제작한 --[흑역사]-- [[하프 라이프]] 싱글플레이 [[MOD]]다. 현재는 [[Residual Point]]와 합본되어 릴리즈된 상태.[* 설정상, RP ([[Residual Point]])의 [[프로토타입]]...이지만 그것과는 다른 진행을 보여주며, 메뉴에서 해저드(혹은 트레이닝) 코스를 선택하면 할 수 있는게 바로 이것이지만 (RP는 New Game 선택) 이걸로 인해 [[PlanetPhillip]] 등에선 이를 RP 본편이라 착각하다 뒤늦게서야 RP 본편이 따로 있다는 사실을 자각하는 헤프닝도 벌어졌다.]
+
+참고로 초기 [[베타]]버전은 [[하프 라이프: 어포징 포스]]처럼 주인공이 연구 시설을 지키는 [군인](..) 이었으며[* 그래서 시작부터 [[하프 라이프: 블루 쉬프트]]처럼 자기 [[소총]]을 집을 수 있다. 물론 나중에 잃어버리지만] [쿠소게] 수준으로 [버그]가 상당했다.[* 조준점(크로스 헤어)이 화면 중앙을 가리는것도 모자라, 실험 실패후 하수구랑 엘리베이터로 나뉘는 [[분기점]]에서 하수구 루트 맵이 없는 관계로 '''해당 구획 진입과 동시에 다른거 신경끄고 엘리베이터 문을 열고 올라가야만 맵이 없다며 튕기지 않고''' 정상 진행이 되는데, 하수구 쪽으로 가면 이벤트 트리거가 오작동을 일으켜 엘리베이터 문이 열리지 않는등, 진행이 불가능하다. 물론 합본판에선 이를 어느정도 수정한 상태라 튕기지 않는다.]
+
+다운로드는 요기 [http://www.moddb.com/mods/hl-residual-point/downloads/white-force-beta-2002 #]
+
+== 플레이 영상 ==
+[[Include(틀:스포일러)]]
+
+{{{#!html
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/QFdMW0NV3LY?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QFdMW0NV3LY?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/o5_2C4izyeE?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/o5_2C4izyeE?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="480" height="390" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}

@@ -1,0 +1,36 @@
+ダンシングソド ～閃光～
+
+http://ecx.images-amazon.com/images/I/6100RXDM0SL.jpg
+
+2003년 MTO사에서 [[게임보이 어드밴스]]로 출시한 횡스크롤 액션[[게임]]. 전원 [[미소녀]] 캐릭터만 등장하는 [[골든액스]] 스타일의 게임으로, 사실상 그냥 골든 액스에다 미소녀 스킨만 씌운 거라고 보면 된다.
+
+다만 이 게임의 문제라면 '''지지리도 반복적이며 재미없다는 거'''.
+
+플레이어 캐릭터들의 디자인을 [[이토 노이지]]한테 맡겨서 디자인은 나름 훌륭하지만, '''볼만한 건 거기까지'''.
+
+게임 진행이 하품날 정도로 단순하고 쉬운데다가, 각 스테이지들이 별다른 특색없이 같은 적, 같은 지형만 반복되도록 만들어놓아서 끔찍할 정도로 단조롭다. 거기에 설상가상으로 적을 쓰러트리지 않고 지나갈 시 '''맵이 루프'''하는 알고리즘을 짜 놓아서 쳇바퀴를 돌게 만들어놓기까지 했다. 덧붙여 콤보 시스템도 여러모로 문제가 있다. A,B버튼을 일정 타이밍에 맞춰 콤보를 넣으면 특수기가 나가기는 식인데, 자기들 딴에는 리듬 요소를 도입하려고 한 것 같지만 그 타이밍이 ~~철권 10단콤보마냥~~ 애매하고 까다롭기 짝이 없어서 별다른 의미가 없다. 이것뿐이면 상관없는데, 진행상 콤보를 완벽하게 입력해주어야 나아갈 수 있는 곳이 있어서 이 ~~지랄맞은~~ 콤보를 반드시 익혀야만 한다는 게 문제. 심지어 최종보스는 이 콤보를 입력해야만 물리칠 수 있다.
+
+딱히 게임이 괴상망칙하다거나 난이도가 괴랄하다거나 버그가 넘쳐난다거나 그런건 아닌데, 그냥 '''너무 재미없어서 [[쓰레기 게임]] 취급'''받고 있다.
+
+{{{#!html
+<embed src="http://www.youtube.com/v/F351nC-NRL0?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
+}}}
+
+http://blog.naver.com/bjyxmas 여기서 게임을 한글화했다. ~~하필 왜~~
+
+== 등장인물 ==
+ * 쿠스노키 쿄코(楠 響子) - 성우:[[카카즈 유미]]
+http://www.mto-power.com/variety/ds_senko/img/s_red.jpg?width=300
+
+ * 클레어 루덴돌프(クレア・ルーデンドルフ) - 성우:[[카와카미 토모코]]
+http://www.mto-power.com/variety/ds_senko/img/s_blue.jpg?width=300
+
+ * 미미(ミィミィ) - 성우:[[타무라 유카리]]
+http://www.mto-power.com/variety/ds_senko/img/s_yellow.jpg?width=300
+
+ * 린레이(鈴麗) - 성우:[[야마구치 마유미]]
+http://www.mto-power.com/variety/ds_senko/img/s_green_re.jpg?width=300
+
+ * 루시엘(ルシエル) - 성우:[[사와시로 미유키]]
+http://www.mto-power.com/variety/ds_senko/img/s_pink.jpg?width=300
+[[추가바람]]

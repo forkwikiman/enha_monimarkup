@@ -1,0 +1,79 @@
+ * 본 항목은 [[BEMANI 시리즈]]의 수록곡을 설명하고 있습니다. [[SF]]쪽의 에너지 무기는 [[펄스 레이저]] 항목 참조.
+
+[[목차]]
+
+== 개요 ==
+[[BEMANI 시리즈]]의 수록곡. 작곡가는 ヒゲドライバー(히게드라이버). 곡 제목에서 알 수 있듯이 고주파의 신시사이저가 적절히 사용된 곡이다.
+
+== [[사운드 볼텍스]] ==
+{{{#!HTML
+<iframe width="640" height="360" src="http://www.youtube.com/embed/gyB5VjwfRUM" frameborder="0" allowfullscreen></iframe>
+}}}
+
+ * [[사운드 볼텍스/수록곡|곡 목록으로 돌아가기]]
+
+||||||||||<#ff00ec><:>[[사운드 볼텍스 II -인피니트 인펙션-]] 난이도 체계||
+|| || {{{#purple NOVICE}}} || {{{#orange ADVANCED}}} || {{{#ff009f EXHAUST}}} || {{{#448844 INFINITE}}} ||
+|| 자켓 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0001_pulse_laser_higedriver_jacket_n.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0001_pulse_laser_higedriver_jacket_a.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0001_pulse_laser_higedriver_jacket_e.jpg?width=150 || http://p.eagate.573.jp/game/sdvx/sv/p/images/sv_contents/jk/1n0001_pulse_laser_higedriver_jacket_n.jpg?width=150 ||
+|| 난이도 || {{{#purple 02}}} || {{{#orange 07}}} || {{{#ff009f 12}}} || {{{#448844 14}}} ||
+|| 체인 수 || {{{#purple 0501}}} || {{{#orange 0764}}} || {{{#ff009f 0985}}} || {{{#448844 1398}}} ||
+|| 일러스트 담당 || {{{#purple -AoniS-}}} || {{{#orange uki}}} || {{{#ff009f Litbi}}} |||||| {{{#448844 -AoniS-}}} ||
+|| 이펙터 || {{{#purple さきイカFX}}} || {{{#orange さきイカFX}}} || {{{#ff009f さきイカFX}}} || {{{#448844 MAD CHILD}}} ||
+|| 수록 시기 |||||| {{{#084fc5 BOOTH 01(2011.7.16)}}} || {{{#ff00ec II 16(2013.11.8)}}} ||
+|| [[BPM]] |||||||| 165 ||
+
+||<-3><#ff00ec> TRACK INPUT (II) ||
+|| 난이도 || 필요 블록 || 조건 ||
+|| {{{#purple NOVICE}}} ||<|3> 통상해금 ||<|3> 통상해금 ||
+|| {{{#orange ADVANCED}}} ||
+|| {{{#ff009f EXHAUST}}} ||
+|| {{{#448844 INFINITE}}} || 1500 || [[HAPPY HEART BEAT]] EXHAUST 패턴을 AA이상 클리어 또는 10회 플레이 ||
+
+변경점
+|| 2012/08/03 ||EXHAUST 자켓 변경(SDVX FLOOR 공모전 당선작)|| 
+|| 2013/11/08 ||INFINITE 패턴 추가||
+
+ * [[스킬 애널라이저|SKILL ANALYZER]] 수록
+  * ADVANCED : Skill Level 02(2014.1.10 ~ 2014.3.6)
+
+{{{#!HTML
+<iframe width="450" height="600" src="http://www.youtube.com/embed/6SvaW-yljiI" frameborder="0" allowfullscreen></iframe>
+}}}
+EXH 패턴 얼티밋 체인 영상
+
+정박인지 엇박인지 헷갈리는 부분이 많으며, 롱 버튼을 누른채 한손으로 [[트릴]]을 쳐야 하는 곳도 많다. 트릴에 약한 사람이라면 이곡으로 연습하면 익숙해 질 수 있다. 
+31초 부분에서 ABCD 노트를 다 치고 나서 재빨리 오른쪽 노브를 조작해야 한다. 정지하는 노브가 아니라 조금씩 움직이는 부분이기 때문에 꾸물거리다가 체인이 끊어지기 쉬운 부분이다. 눈 여겨봐야 할 부분은 위 영상 기준 1분 19초. 레인이 한바퀴 돌아가고 나서 제자리에 안착하기도 전에 노트를 쳐야 하므로 [[공명의 함정|방심하면 안된다]]. 
+--하지만 이제는 [[VALLIS-NERIA|안착은 커녕 회전중에 노트가 나오는 곡]]도 생겼다.--
+
+{{{#!HTML
+<iframe width="420" height="640" src="//www.youtube.com/embed/yDlTpy2FCA0" frameborder="0" allowfullscreen></iframe>
+}}}
+INF 패턴 얼티밋 체인 영상
+노브를 주차시키고 노트를 양손으로 처리하는 패턴이 많다. 또한 FX양쪽을 누르며 한손으로 좌우노브를 돌리는 패턴 또한 많이나온다. 초견은 당황해서 [[폭사]]할수있으나 여러번 연습하면 그리 어렵지않다. 기본적인 노브주차가 잘 안된다면 이곡으로 연습해보자.
+
+== [[유비트 시리즈]] ==
+||||||||<#000000><:>{{{#white jubeat saucer fulfill 기준}}}||
+||<|2><#000000><:>{{{#white 레벨}}}||<#69d462><:>BASIC||<#ff8a00><:>ADVANCED||<#ea4c4c><:>EXTREME||
+||<:>4||<:>7||<:>9||
+||<#000000><:>{{{#white 노트수}}}||<:>276||<:>463||<:>694||
+||<#000000><:>{{{#white BPM}}}||||||<:>165||
+||||||||<#002040><:>{{{#white 아케이드 수록버전,}}}[[BR]]{{{#white jubeat plus 수록 pack}}}||
+||<#ffffff><:>{{{#black 아케이드 수록}}}||||||<:>[[유비트 소서]]||
+||<#002040><:>{{{#white iOS}}}||||||<:>없음||
+||<#002040><:>{{{#white Android}}}||||||<:>없음||
+
+관련 칭호
+ * [[유비트 소서]] ~
+  * '''前代未聞'''[* 굵은 글씨는 칭호 파츠.]の波動を発信中 (전대미문의 파동을 발신중) : 모든 보면 클리어
+  * くらえ！伝説の'''レーザー'''砲！ (받아라! 전설의 레이저 포!) : 모든 보면에서 풀 콤보
+
+ * [[유비트 시리즈/수록곡|곡 목록으로 돌아가기]]
+
+2013년 7월 [[유비트 소서/bistro saucer|bistro saucer]]로 이식수록되었다.
+
+{{{#!HTML
+<iframe width="640" height="360" src="//www.youtube.com/embed/nQ4_EwTuIJg" frameborder="0" allowfullscreen></iframe>
+}}}
+EXT EXC 영상
+
+박자가 한번에 파악하기 까다로운 편이며 곡이 끝날때 삑삑소리가 나는 부분에서 박자 맞추기가 어려울 수 있으므로 박자에 유념하여 플레이하는 것이 좋다.

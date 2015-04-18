@@ -1,0 +1,13 @@
+{{{#!html
+<embed src='http://serviceapi.nmv.naver.com/flash/NFPlayer.swf?vid=133D95F2374BC60DEC16BB16F34AC9175D92&outKey=V123bf0c0cb97f091b927f50a90352df3e3d12d76431c824b5756f50a90352df3e3d1' wmode='transparent' width='500' height='408' allowScriptAccess='always' name='NFPlayer15795' id='NFPlayer15795' allowFullScreen='true' type='application/x-shockwave-flash' />}}}
+
+
+[롤링스타즈]에서 등장하는 차량.
+
+지구 야구 대표팀의 유일한 이동수단(차량)이며 우주의 별들을 헤집고 다니는 '''우주선'''이기도 하다.
+지상에서는 일반적인 버스지만 우주에 있는 야구 경기장으로 갈때는 자체 부스터로 
+인력을 뿌리치고 나아간다. 아마 최고속도는 광속을 넘을 것으로 추정된다. [흠좀무].
+
+15인 이상이 탈수 있는 좌석에 자체 대공포 시스템이 달려있어 완전한 자기방어가
+가능하다. 게다가 우주해적인 [드라키단]과의 전투에서 막강한 전력을 보여준 사례도 있다.
+

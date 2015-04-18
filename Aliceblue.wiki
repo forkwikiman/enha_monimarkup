@@ -1,0 +1,37 @@
+[[목차]]
+== 개요 ==
+attachment:/alice_title.png 
+[[syatten]]이 작곡한 [[BMS]]다. 출전은 2007년도의 BMS 이벤트인 ~~사실상의 BOF 2007인~~ '전국'(센고쿠). 
+
+[[http://blog.naver.com/assaultex/50110578054 설명은 이곳을 참조]]
+
+== [[Tone Sphere]]에서의 Aliceblue ==
+||||||||<table align=right> '''Aliceblue<<BR>>(Progressive House Remix)''' ||
+||||||||<:>attachment:/aliceblue_thumb.gif  ||
+||<:>작곡||||||||<:>[[syatten]]||
+||<:>앨범아트||||||<:>[[sta]]||
+|| ||<:>'''{{{##23D6A6 Easy}}}'''||<:>'''{{{#1DACD6 Normal}}}'''||<:>'''{{{#F400A1 Hard}}}'''||
+||<:>레벨||<:>1 ||<:>4.5 ||<:>8 ||
+||<:>노트 수||<:>237 ||<:>418 ||<:>759 ||
+||<:>최대 콤보||<:>288 ||<:>515 ||<:>963 ||
+||'''특이사항'''||||||<:>BMS 리믹스 ||
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/q5-PpnAgBUY" frameborder="0" allowfullscreen></iframe>
+}}}
+
+[[Tone Sphere]]에서 수록된 버전은 2011년에 발매한 Colorium 엘범 4번 트랙에 수록된 Progressive House Remix 버전이다.
+
+엇박 위주의 패턴이기 때문에 엇박처리력이 좋다면 의외로 숙지하기 좋다.
+
+hard 패턴은 난이도 8답게 상당히 강화가 되어있다. 엇박 슬라이드 단타가 굉장히 많이 나오므로 이 짧은 슬라이드 단타를 얼마나 잘 처리하느냐가 관건. 그리고 후반의 8비트 정박자 일반노트 러쉬도 신경써서 친다면 뒷심 만회에 도움이 된다.
+
+{{{#!html
+<iframe width="550" height="300" src="http://www.youtube.com/embed/tWeAjZdrcmY" frameborder="0" allowfullscreen></iframe>}}}
+
+Normal 패턴 플레이영상. 1분 30초부터 보면 된다.
+
+{{{#!html
+<iframe width="560" height="315" src="//www.youtube.com/embed/_RtlZsPGBDI" frameborder="0" allowfullscreen></iframe>}}}
+
+Hard 난이도 플레이 영상

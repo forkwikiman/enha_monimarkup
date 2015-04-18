@@ -1,0 +1,105 @@
+||<-5><#ff0099><tablealign=center> '''프로필''' ||
+||<|15> attachment:/Diamond_Pearl_Lucian.png?align=center&width=270 ||
+||<#ff0099> '''이름''' ||<#ff6699><-2> 오엽 ||
+||<#ff0099> '''성별''' ||<#ff6699><-2> [[남성]] ||
+||<#ff0099> '''머리 색깔''' ||<#ff6699><-2> [wiki:"머리카락/보라색" 보라색] ||
+||<#ff0099> '''트레이너 계급''' ||<#ff6699><-2> [[wiki:"사천왕(포켓몬스터)"사천왕]] ||
+||<#ff0099> '''지방''' ||<#ff6699><-2> [[신오지방]] ||
+||<#ff0099> '''출신지''' ||<#ff6699><-2> 불명 ||
+||<#ff0099> '''가족관계''' ||<#ff6699><-2> 불명 ||
+||<#ff0099> '''담당 지역''' ||<#ff6699><-2> [[포켓몬 리그]] ||
+||<#ff0099> '''주된 타입''' ||<#ff6699><-2> [[wiki:"포켓몬스터/타입/설명#s-2.11" attachment:/Pokemon_Type_Psychic.png]] ||
+||<#ff0099> '''데뷔작''' ||<#ff6699><-2> [[포켓몬스터 DP 디아루가·펄기아]] ||
+||<#ff0099> '''세대''' ||<#ff6699><-2> 4 ||
+||<#ff0099> '''등장 게임''' ||<#ff6699><-2> [[wiki:"포켓몬스터 DP 디아루가·펄기아"DP 디아루가·펄기아]][[br]][[wiki:"포켓몬스터 Pt 기라티나"Pt 기라티나]] ||
+||<|2><#ff0099> '''성우''' ||<#ff6699> [[나미카와 다이스케]] ||<#ff6699> attachment:/20px-Japan_Flag.png ||
+||<#ff6699><:> [[오인성]] ||<#ff6699> attachment:/20px-South_Korea_Flag.png ||
+
+[[목차]]
+
+= 소개 =
+[[include(틀:포켓몬스터/사천왕)]]
+
+== 캐릭터 정보 ==
+[[포켓몬스터]] 시리즈의 등장인물. 
+
+신오지방 포켓몬 리그의 [wiki:"사천왕(포켓몬스터)" 사천왕]으로 도전 순서상 마지막으로 플레이어를 맞이한다. 에스퍼 타입 포켓몬의 전문가이며 지적인 분위기가 돋보이는 남성. 도전자가 찾아와도 읽던 [[책]]을 손에서 놓지 않는 [[책벌레]]스러운 면이 있다.
+
+== 그외 ==
+=== 관련 테마곡 ===
+||<#ededed>
+ * 사천왕 등장!
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile5.uf.tistory.com/media/2724D84951FBB874314C79"></object>}}}
+
+ * 전투! 사천왕
+{{{#!html
+<script language="JavaScript" src="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/audio-player.js"></script>
+<object type="application/x-shockwave-flash" data="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf" id="audioplayer1" height="24" width="290">
+<param name="movie" value="http://cfs.tistory.com/custom/blog/107/1075279/skin/images/player.swf">
+<param name="FlashVars" value="playerID=1&amp;bg=0xF4F4F4&amp;leftbg=0xeeeeee&amp;lefticon=0x666666&amp;rightbg=0xcccccc&amp;rightbghover=0x999999&amp;righticon=0x666666&amp;righticonhover=0xffffff&amp;text=0x666666&amp;slider=0x666666&amp;track=0xF8F8F8&amp;border=0x666666&amp;loader=0xcccccc
+&amp;loop=no&amp;autostart=no&amp;soundFile=http://cfile24.uf.tistory.com/media/2478334951FBB87D0CA082"></object>}}}
+||
+
+=== 기타 ===
+ * 신오 사천왕들의 전투 테마는 미묘하게 어레인지된 부분을 빼면 신오 [[체육관 관장]]들의 전투 테마와 거의 똑같다. ~~작곡하기 귀찮았나 보다~~
+
+ * 다루는 타입이 에스퍼 라는 점 및 외모 등이 성도지방 사천왕인 [[일목]]과 미묘하게 비슷하여 서로 혈연지간이 아니냐는 설이 있다. 그렇지만 이 둘의 관계는 공식적으로 밝혀진 바가 없다.
+=== 공략 ===
+책벌레라는 설정 답게 AI가 상당히 높은 편이라서 [[마임맨]]을 사용해 [[리플렉터]], [[빛의장막]]을 쳐서 이쪽의 공격/특공을 반감시켜 버린다든지, 불리하다 싶으면 포켓몬을 바꿔버린다든지 하기 때문에 싸우기 번거롭다. 사람에 따라서는 난천보다 오엽이 까다롭다고 하기도. 특히 [[동탁군]]은 특성이 부유라 땅 공격도 받지 않고 강철/에스퍼 타입이라 웬만한 공격들은 다 반감시켜버리기 때문에 불 공격으로 지져버리지 않으면 되려 이쪽이 [[떡실신]]당한다. 정말로 약점이 불 하나지만 [* 항목을 보면 알겠지만 특성 으로 이지선다를 강요하는 상성괴물이다. 반대로 HGSS의 규리와 일목이 2차전에서 들고 나오는 내열 동탁군은 지진 없이 정말로 상대하기 어렵다. ~~그리고 6세대에서 결국은 메타그로스와 함께 너프먹었다.~~] D/P 같은 경우는 초반에 [[초염몽]]으로 시작하거나 3세대의 FR/LG 게임팩을 소유하고 있지 않는 이상 '''[[날쌩마]]를 제외하면 쓸만한 불꽃 포켓몬은 아예 없다'''(...) 그나마 Pt부터 [[wiki:"헬가(포켓몬스터)" 헬가]]나 [[마그마번]], 그리고 [[유일왕]]이 새롭게 추가되었다.
+
+Pt 기라티나에서는 파워업했다. DP 디아루가·펄기아의 별로 강하지 않은 [[키링키]]와 [[요가램]] 대신 [[엘레이드]]와 [[에브이]]를 사용하는데, 에브이는 종족값에서 특공이 130(...)이고 스피드가 110이라 한 대 맞고 칠 준비로 싸우는게 좋다. 또 엘레이드는 기존 에스퍼들과는 달리 속성이 에스퍼/격투라 악 공격이 잘 통하지 않는다. 고스트에도 약점을 찔리지만 고스트 타입 물리기는 제대로 된 것이 없고, 특방 괴물 엘레이드는 비자속 [[섀도볼]]을 버틴다. 결국 비행 속성으로 공략하는게 편할듯. 허나 오엽의 엘레이드는 스톤에지를 쓰기 때문에 비행 포켓몬으로 공략할 때도 방심은 금물.
+
+=== 삽화 ===
+||<-4><tablealign=center><#ff0099> 스프라이트 ||
+|| attachment:/Spr_DP_Lucian.png || attachment:/Spr_Pt_Lucian.gif || attachment:/VSLucian.png || attachment:/Lucian_OD.png ||
+|| 트레이너[[br]](DP) || 트레이너[[br]](Pt) || VS || 필드 ||
+
+||<-3><tablealign=center> 신오리그 4번째 방 내부 ||
+|| http://img4.wikia.nocookie.net/__cb20130208081728/pokemon/ko/images/7/7d/%EB%8B%A4%ED%8E%84_%EB%A7%88%EC%A7%80%EB%A7%89_%EC%82%AC%EC%B2%9C%EC%99%95.jpg || attachment:Pokémon_League(Sinnoh)4-4.png ||    
+|| DP 디아루가,펄기아 || PT 기라티나 ||
+=== 국가별 명칭 ===
+||<tablealign=center><rowbgcolor="#ff0099"><:> 언어 || 이름 || 유래 ||
+|| 일본어 || 고요우 ゴヨウ || 오동나무 잎을 뜻하는 일본어 고요우(梧葉). ||
+|| 한국어 || 오엽 || 오엽(梧葉). 일본 명칭인 고요우의 직역. ||
+|| 영어 || 루시언 Lucian || 환상(illusion) 혹은 환영(hallucination). ||
+
+= 소유 포켓몬 =
+== [wiki:"포켓몬스터 DP 디아루가·펄기아"DP 디아루가·펄기아] ==
+||<tablealign=center><#ff6699> attachment:/Spr_4d_122.png ||<#999966> attachment:/Spr_4d_203_m.png ||<#cc3333> attachment:/Spr_4d_308_f.png ||<#ff6699> attachment:/Spr_4d_065_m.png ||<#cccccc> attachment:/Spr_4d_437.png ||
+||<#dcdcdc> [[마임맨]] ♂[[br]](Lv.59) ||<#dcdcdc> [[키링키]] ♂[[br]](Lv.59) ||<#dcdcdc> [[요가램]] ♂[[br]](Lv.60) ||<#dcdcdc> [[후딘]] ♂[[br]](Lv.60) ||<#dcdcdc> [[동탁군]][[br]](Lv.63) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.9" attachment:/Pokemon_Type_Normal_2.png]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] ||
+|| __특성__ :[[br]]방음 || __특성__ :[[br]]정신력 || __특성__ :[[br]]순수한힘 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]부유 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)" 자뭉열매] ||
+|| __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[10만볼트]][[br]][[리플렉터]][[br]][[빛의장막]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]][[br]][[더블어택]][[br]][[깨물어부수기]] || __기술배치__ :[[br]][[드레인펀치]][[br]][[불꽃펀치]][[br]][[번개펀치]][[br]][[냉동펀치]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[에너지볼]][[br]][[기합구슬]][[br]][[HP회복]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[자이로볼]][[br]][[지진]][[br]][[명상]] ||
+
+== [wiki:"포켓몬스터 Pt 기라티나"Pt 기라티나] ==
+=== 1차전 ===
+||<tablealign=center><#ff6699> attachment:/Spr_4p_122.png ||<#ff6699> attachment:/Spr_4p_196.png ||<#cccccc> attachment:/Spr_4p_437.png ||<#ff6699> attachment:/Spr_4p_065_m.png ||<#ff6699> attachment:/Spr_4p_475.png ||
+||<#dcdcdc> [[마임맨]] ♂[[br]](Lv.53) ||<#dcdcdc> [[에브이]] ♂[[br]](Lv.55) ||<#dcdcdc> [[동탁군]][[br]](Lv.54) ||<#dcdcdc> [[후딘]] ♂[[br]](Lv.56) ||<#dcdcdc> [[엘레이드]] ♂[[br]](Lv.59) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]방음 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]부유 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]불굴의마음 ||
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)" 자뭉열매] ||
+|| __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[10만볼트]][[br]][[리플렉터]][[br]][[빛의장막]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]][[br]][[전광석화]][[br]][[시그널빔]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[자이로볼]][[br]][[지진]][[br]][[명상]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[에너지볼]][[br]][[기합구슬]][[br]][[HP회복]] || __기술배치__ :[[br]][[드레인펀치]][[br]][[사이코커터]][[br]][[리프블레이드]][[br]][[스톤에지]] ||
+
+=== 재대결 ===
+||<tablealign=center><#ff6699> attachment:/Spr_4p_122.png ||<#ff6699> attachment:/Spr_4p_196.png ||<#cccccc> attachment:/Spr_4p_437.png ||<#ff6699> attachment:/Spr_4p_065_m.png ||<#ff6699> attachment:/Spr_4p_475.png ||
+||<#dcdcdc> [[마임맨]] ♂[[br]](Lv.67) ||<#dcdcdc> [[에브이]] ♂[[br]](Lv.71) ||<#dcdcdc> [[동탁군]][[br]](Lv.70) ||<#dcdcdc> [[후딘]] ♂[[br]](Lv.72) ||<#dcdcdc> [[엘레이드]] ♂[[br]](Lv.75) ||
+|| __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.3" attachment:/Pokemon_Type_Steel_2.png]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]] || __타입__ :[[br]][[wiki:"포켓몬스터/타입#s-3.15" attachment:/Pokemon_Type_Psychic.png]][[wiki:"포켓몬스터/타입#s-3.12" attachment:/Pokemon_Type_Fighting.png]] ||
+|| __특성__ :[[br]]방음 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]부유 || __특성__ :[[br]]싱크로 || __특성__ :[[br]]불굴의마음 || 
+|| __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]]없음 || __지닌 도구__ :[[br]][wiki:"나무열매(포켓몬스터)" 자뭉열매] ||
+|| __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[10만볼트]][[br]][[리플렉터]][[br]][[빛의장막]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[섀도볼]][[br]][[전광석화]][[br]][[시그널빔]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[자이로볼]][[br]][[지진]][[br]][[명상]] || __기술배치__ :[[br]][wiki:"사이코키네시스(포켓몬스터)" 사이코키네시스][[br]][[에너지볼]][[br]][[기합구슬]][[br]][[HP회복]] || __기술배치__ :[[br]][[드레인펀치]][[br]][[사이코커터]][[br]][[리프블레이드]][[br]][[스톤에지]] ||
+
+= 다른 매체에서의 모습 =
+== 애니메이션에서 ==
+attachment:/Lucian_anime.png
+
+[[포켓몬스터 DP]] 35화에서 첫등장.
+
+[[나빛나]]의 브이젤(지우와 교환하기 전)을 단련시켜주고 떠나는데 아무리 봐도 브이젤을 교육시켜 줬다기보다는 브이젤을 괴롭히는 것 같은 착각을 준다...(브이젤이 로켓단에게 잡혀가는데도 그냥 냅두라고 하는 등, 겨우 브이젤에게 강철계 최강공격인 [[러스터캐논]]을 사용하는 등) 여기선 챔피언 리그라는 초대형 떡밥을 던졌는데 결국은 [[맥거핀]]으로 끝나버렸다(...)
+
+사천왕 중 최강이라, 챔피언을 노리고 있긴 한 것 같은데……. 동탁군이 [[한카리아스]]에게 발리는 모습을 보아서는 아직은 어림없을 듯. 게임상으로 치면 한카리아스 쪽이 꽤 불리하다. 오엽의 동탁군은 특성이 부유라서 한카리아스의 자속 [[지진]]은 아예 무효화해버리고 [[드래곤다이브]]는 반감시켜버리며 부가 무장으로 자주 채용되는 [[스톤에지]]나 [[깨트리다]]도 반감시키거나 1배만 받는다. 다만 [[난천]]의 한카리아스의 경우 [[화염방사]]를 배우기 때문에 이걸로 약점을 찌를 수는 있다.

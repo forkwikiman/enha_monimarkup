@@ -1,0 +1,64 @@
+"이 게임을 해주셔서 감사합니다."
+
+[[목차]]
+
+== [[게임]]의 [[암묵의 룰]] ==
+게임의 [[엔딩]]에서 [wiki:"스태프롤"스탭 롤]과 함께 으레 나오는 문장. 이 문장을 보았다면 당신은 게임을 정말 완전히 클리어한 것이다. 물론 아케이드 게임에서는 [wiki:"AAA"이름][wiki:"아아아아"적기]가 진정한 끝이지만.
+
+한때 아케이드를 비롯한 예전 게임들에선 [[암묵의 룰]]이라고 해도 될 만큼 너무나 당연하게 나왔지만, 갈수록 줄어들고 있다. 그 쪽 업계가 불경기라(…) 대부분 회사 이름과 로고를 띄운 뒤 전일기록, 그리고 [wiki:"게임오버"GAME OVER]란 글자를 보여주고 끝나는 게 대부분이다.
+
+하지만 요즘에도 저 문장이 아니다 뿐이지 형태가 바뀌어서 나오기도 한다. [렛츠 고 정글] 시리즈에서는 "Bon Voyage!(좋은 여행 되세요!)"라고 나오고, [메탈슬러그 시리즈]에서는 게임오버 컷과 같이 "PEACE FOREVER!(평화여 영원하라!)"라고 나온다.
+
+코나미 게임의 경우 최종 스테이지 성공 여부와 관계 없이 게임이 끝나면 이 문구가 나온다.
+[유비트 소서]에서는 위의 문구가 나온 후 라이센스 곡을 플레이한 경우 해당 라이센스 곡의 저작권 정보도 표시된다.
+
+또 다른 대표적인 문장으로는 THANKS FOR PLAYING, The End가 있다.~~그리고 [[오타|THANKS FOR '''P(L)AYING''', THANK YOU FOR '''P(L)AYING'''도 존재한다.]] [wiki:"호갱"돈주셔서 감사합니다]~~
+== [[비트매니아 IIDX]] 16 EMPRESS ==
+
+수록곡이자 엔딩곡. 작곡은 [[SUPER STAR 満-MITSURU-]]
+
+{{{#!html
+<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/5VhtIoDMKeQ?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5VhtIoDMKeQ?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+}}}
+[wiki:"기분 탓"--BGA 중간에 멈춰서 무언가가 반짝 빛나는 느낌을 받는다면 그건 눈의 착각.--]
+
+||<|2> [[BPM]] |||||||||||||||| 싱글 플레이 |||||||||||||||| [[더블 플레이]] ||
+|||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#800000 흑 어나더}}} |||| {{{#blue 노멀}}} |||| {{{#orange 하이퍼}}} |||| {{{#red 어나더}}} |||| {{{#800000 흑 어나더}}} ||
+|| 45-'''170''' || {{{#blue 5}}} || {{{#blue 412}}} || {{{#orange 9}}} || {{{#orange 858}}} || {{{#red 10}}} || {{{#red 1090}}} || {{{#800000 12}}} || {{{#800000 1534}}} || {{{#blue 5}}} || {{{#blue 437}}} || {{{#orange 8}}} || {{{#orange 863}}} || {{{#red 10}}} || {{{#red 1107}}} || {{{#800000 11}}} || {{{#800000 1182}}} ||
+ * [wiki:"비트매니아 IIDX/수록곡"곡 목록으로 돌아가기]
+ * [아케이드] 수록 : 16 EMPRESS~
+ * 가정용판 수록 : 16 EMPRESS + PREMIUM BEST (EMPRESS SIDE)
+ * [[단위인정]] 수록
+  * SPH : 6단 (16 EMPRESS ~ 20 tricoro)
+
+||"THANK YOU FOR PLAYING"
+
+또 만났군. SUPER STAR "ONLY ONE" 満-MITSURU-다.
+이번 beatmania IIDX ONLY ONE은 어땠을까. 즐겨 주었으려나?
+
+원래는 스탭롤 때 흐르는 ONLY ONE으로 만든 이 곡이지만,
+특별히 ONLY ONE 중에서도 ONLY ONE 할 수 있는 전개가 되었다.
+
+플레이 해준 너희들에게 감사의 뜻을 담아 이 곡을 선물한다.
+
+<SUPER STAR 満-MITSURU->
+-Sound / [[SUPER STAR 満-MITSURU-]]-
+
+'엔딩 노래가 들어갑니다',라고 회의에서 결정했습니다.
+'그럼 엔딩 스탭 롤을 그대로 영상화 해버립시다.'하고 그 자리에서 가벼운 분위기로 진행된 이야기 입니다만, 모처럼 영상으로 만든다면 약간 손을 대볼까하고
+쉽지가 않았지만 満씨의 이름이 흘러나오는 부분만을 눈에 띄게 해 드렸습니다.
+존경심을 표현한 연출, 그런 영상입니다.
+신나는 음악이 이 EMPRESS의 〆 (스탭 롤)에 적합합니다!
+
+-Movie / XTC [http://www.konami.jp/bemani/bm2dx/bm2dx16/song/thank_you_for_playing.html #]||
+과거에 나왔던 [[sometime]] 이래로 오래간만에 엔딩곡을 게임으로 플레이할 수 있게 된 형태가 되었다. BGA도 엔딩 스탭롤을 그대로 사용한 형태. 마지막에 --Shank﻿ you fo'﻿ praying-- 'THANK YOU FOR PLAYING' 이라는 목소리가 들리는데, 이 목소리의 정체는 작곡자인 SUPER STAR 満-MITSURU-로 추정하고 있다.
+
+전체적으로는 할만하다는 평이지만, 흑어나더가 범상치 않은 체력곡인데다 중간의 나선계단 이후 연타부분이 까다로워서 감사하는 마음이 전혀 없는 배치라고 애정어린 까임을 받고 있다(...) 싱글 어나더는 중반부에 스크래치를 동반한 나선 계단 및 동시치기 등등 하드게이지 클리어가 버겁다. 싱글 하이퍼는 수록 직후부터 tricoro까지 단위인정 6단 1스테이지에 개근했었다. SPADA에서 빠졌다.
+
+제목마저 대놓고 THANK YOU FOR PLAYING이라서 비트매니아 IIDX가 16으로 끝나는 게 아닌가 하는 떡밥이 있었는데, 17 SIRIUS의 이미지 캐릭터가 나오기 시작하면서 아케이드에서 IIDX는 이어갔지만 [[플레이스테이션2]]용 비트매니아 IIDX는 16 EMPRESS가 끝이라고 코나미에서 발표했기 때문에 결국 가정에서 할 수 있는 비트매니아 IIDX의 마지막을 장식하는 곡이 되었다.
+
+SUPER STAR 満-MITSURU-의 앨범 ONLY ONE ACT에 풀버전이 수록되었는데, 여기선 플레이가 아니어서인지 THANK YOU FOR '''LISTENING'''--Shank you fo' wrisning--으로 바뀌었다. 그리고 곡 후반엔 여러가지로 감사하는 내용이 나온다. 압권은 메시지 맨 끝에 나오는 [wiki:"Smug Face" '''아리가토↗~~~~'''](...)[* [wiki:"Smug Face" 본격 자기 앨범 홍보곡]에 나왔던 '''오메데토↗~~~~'''와 거의 같은 톤이다.]
+
+후속곡으로는 [wiki:"Everlasting Resort"이곡]과 [wiki:"SA.YO.NA.RA. SUPER STAR"이곡이] 있다.[* 전자는 괌투덱 엔딩곡. 이쪽도 마지막에 Thank you for Playing가 나오는건 똑같은 포지션이며, 후자의 곡은...[[더 이상의 자세한 설명은 생략한다]].]
+
+게임이 종료되고 데이터가 저장될때 하단 전광판에 나온다.

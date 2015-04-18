@@ -1,0 +1,54 @@
+||<table width=85%><#3d117b><:><-6><table align=center>[wiki:"오사카 시 교통국" <span style="font-weight:bold;color:#ffd700">오사카 시 교통국 운영 교통수단 일람</span>] ||
+||<#808080><:><-6><table align=center>[wiki:"오사카 시영 지하철" <span style="font-weight:bold;color:white">오사카 시영 지하철 & 신교통 시스템 운행 노선</span>] ||
+||<table width=5%><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/d/d4/Midosuji_logo.png?width=30 ||<table width=20%><#eeeeee> [[미도스지선]] ||<table width=5%><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/a/a1/Tanimachi_logo.png?width=30 ||<table width=20%><#eeeeee> [[타니마치선]] ||<table width=5%><#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/7/7a/Yotsubashi.png?width=30 ||<table width=20%><#eeeeee> [[요츠바시선]] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/6/65/Chuo.png?width=30 ||<#eeeeee> [[wiki:"츄오선(오사카 시영 지하철)" 츄오선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/f/f7/Sennichimae.png?width=30 ||<#eeeeee> [[센니치마에선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/9/9d/Sakaisuji_logo.png?width=30 ||<#eeeeee> [[사카이스지선]] ||
+||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/6/61/Tsurumiryokuchi.png?width=30 ||<#eeeeee> [[나가호리츠루미료쿠치선]] ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/2/21/Imazatosuji.png?width=30 ||<#ee7b1a> '''{{{#ffffff 이마자토스지선 }}}''' ||<#ffffff><:>http://upload.wikimedia.org/wikipedia/commons/c/c0/Newtram_logo.png?width=30 ||<#eeeeee> [[난코 포트타운선]] ||
+
+|| {{{+1 今里筋線/ '''I'''mazatosuji line}}} ||
+ * [[일본 철도 정보/노선 관련 정보]]
+http://upload.wikimedia.org/wikipedia/ja/thumb/f/fb/Osaka_subway_80.jpg/360px-Osaka_subway_80.jpg
+[[목차]]
+== 개요 ==
+||||<#ee7b1a> {{{#ffffff 8호선 이마자토스지선}}} ||
+||운영기관 ||오사카 시 교통국 ||
+||영업거리 ||11.9km ||
+||궤간 ||1435mm ||
+||역수 ||11 ||
+||전기 ||직류 1500V 가공전차선 방식 ||
+||편성 ||4량 ||
+||신호방식 ||CS-ATC, TASC ||
+||영업최고속도 ||70km/h ||
+||차량기지 ||츠루미료쿠치키타 차고 ||
+||지상구간 ||없음 ||
+
+[[오사카 시 교통국]]에서 운영하는 [[오사카 시영 지하철]]의 노선으로 철도요람상의 명칭은 8호선 이마자토스지선. 노선명의 유래는 이마자토스지 지하를 지나가는 데서 유래하며 노선의 색깔은 주황색.
+
+[[오사카 시영 지하철]] 노선 중 가장 최근인 2006년에 개통되었다. 그래서인지 노선 개통시부터 홈도어([[스크린도어]])를 설치했으며 대부분의 역사에 주차장, 장애인용 화장실, 비상용 엘리베이터 등이 구비되어 있는 등 설비가 잘 갖추어져 있다. 반면 공사비용 절감을 위해서 [[나가호리츠루미료쿠치선]]과는 정 반대로 역 디자인이나 설비의 공통성을 추구한 탓에 대부분의 역이 비슷하게 생긴 편이다. --[서울 지하철 9호선|9호선]?--
+
+노선을 운행하는 열차는 오사카 시 교통국 소속의 80계 열차. 70계 열차와 같은 리니어 모터 구동 방식의 3도어 차량이며 4량 편성으로 운행 중.
+
+== 안습 ==
+후기에 지어진 지하철 노선이므로 터널 및 역사를 깊게 시공할 수 밖에 없었는데, 공사구간의 지반이 수분을 많이 포함한 점토층이었고 깊이 30미터를 넘는 하저터널 구간이나 도로폭이 8미터에 불과한 구간, 급구배구간 등의 난공사 구간이 많았다. 이렇게 힘들게 지어진 노선이지만 당초 예상했던 이용객수의 절반에도 미치지 못하는 실적으로 전 노선 중 최하위권의 실적을 기록하고 있다. 
+
+이는 도심지를 거치지 않는 이 노선의 구조로 인해 도심지에 가기 위해서 타 노선과의 환승이 불가피하다는 문제 때문인데, 설상가상으로 타 노선보다 깊은 신설노선의 특성상 [[막장환승]]이 되는 경우가 많아 연선 주민들이 환승없이 바로 도심지까지 갈 수 있는데다 가격까지 저렴한 사철을 선택하는 경우가 많기 때문이다.
+
+그리고, 무엇보다도 오사카 지하철을 통틀어 유일하게 '''[[미도스지선]]과 안 만난다!'''--연장시켜 주세요 현기증 난단 말이에요--
+
+== 노선 ==
+2012년 10월 11일 모든 역의 문서가 작성되었다.
+
+|| 번호 || km || 역명 || 승강장 || 환승노선 ||
+|| I-11 || 0.0 || [wiki:"이타카노역" 이타카노][[br]]井高野 || 섬식 || ||
+|| I-12 || 0.9 || [wiki:"즈이코4쵸메역" 즈이코4쵸메][[br]]瑞光四丁目 || 섬식 || ||
+|| I-13 || 1.9 || [wiki:"다이도토요사토역" 다이도토요사토][[br]]だいどう豊里 || 섬식 || ||
+|| I-14 || 3.7 || [wiki:"타이시바시이마이치역" 타이시바시이마이치][[br]]太子橋今市 || 섬식 ||¶[[오사카 시영 지하철]] [[타니마치선]](T-13) ||
+|| I-15 || 4.9 || [wiki:"시미즈역(오사카)" 시미즈][[br]]清水 || 섬식 || ||
+|| I-16 || 5.8 || [wiki:"신모리후루이치역" 신모리후루이치][[br]]新森古市 || 섬식 || ||
+|| I-17 || 7.1 || [wiki:"세키메역" 세키메세이이쿠][[br]]関目成育 || 2면 2선식[* 2층 구조로 지하 2층과 4층에 각각 1면 1선씩 존재. 역의 위치가 국도와 케이한 본선의 교차지점에 위치해 있어 배관문제상 이런 구조를 취하게 되었다.] ||¶[[케이한 전기철도]] [[케이한 본선]] ||
+|| I-18 || 8.5 || [wiki:"가모4쵸메역" 가모4쵸메][[br]]蒲生四丁目 || 섬식 ||¶[[오사카 시영 지하철]] [[나가호리츠루미료쿠치선]](N-23)||
+|| I-19 || 9.4 || [wiki:"시기노역" 시기노][[br]]鴫野 || 섬식 ||¶[[JR 니시니혼]] [[카타마치선]] ||
+|| I-20 || 10.6 || [wiki:"미도리바시역" 미도리바시][[br]]緑橋 || 섬식 ||¶[[오사카 시영 지하철]] [[wiki:"츄오선(오사카 시영 지하철)" 츄오선]](C-20) ||
+|| I-21 || 11.9 || [wiki:"이마자토역(오사카 시영 지하철)" 이마자토][[br]]今里 || 섬식 ||¶[[오사카 시영 지하철]] [[센니치마에선]](S-20) ||
+
+
+[[footnote]]

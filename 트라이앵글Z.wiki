@@ -1,0 +1,22 @@
+{{{#!html
+<embed src="http://www.youtube.com/v/0FyLBeMaG_0?fs=1&amp;hl=ja_JP" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="510" height="315"></embed></object>
+}}}
+
+{{{#!html
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/YDnShaJGBTk?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YDnShaJGBTk?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="510" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+}}}
+トライアングルZ / Triangel Z. [[이나즈마 일레븐]]에 등장하는 슛 계통 합체 필살기. [[http://www.youtube.com/watch?v=Lni7W_6kR8E 게임판]]
+위력 : 93 / 소비TP : 55 / 속성 : 火 / 특성 : 없음 / 3인 합체기
+
+한 명이 공을 위로 토스한 후에 다른 한 명이 공중에서 그걸 차올리고, 마지막 한 명이 다른 사람의 어깨를 딛고 위로 도약해 슛을 날리고는 마지막에 세 명이서 ~~[아스트랄]한~~ [http://www.pixiv.net/member_illust.php?mode=medium&illust_id=10078003 포즈]를 잡는 기술.
+
+사용자는 [[키도카와세이슈 중학교]]의 [[무카타 삼형제]]. [[엔도 마모루]]와 축구 승부를 할 때 처음 사용했으며, 엔도는 트라이앵글Z를 막지 못하고 나가떨어진다. 애니에서는 그냥 이대로 넘어가지만, 게임에서는 엔도가 트라이앵글Z의 강력한 파워에 떡실신을 당해 양호실로 실려가버린다.
+
+[wiki:"키도 유우토" 키도]의 발언에 의하면 위력만큼은 [[데스 존]]을 능가한다[* 실제로 게임에서도 데스존의 기본 위력은 86, 트라이앵글Z의 기본 위력은 93이다.]고 하며, 실제로도 강력한 위력으로 [["갓 핸드(이나즈마 일레븐)"갓 핸드]]를 뚫고 골을 넣었다. 하지만 [[쿠리마츠 텟페이]]와 [[카베야마 헤이고로]]가 등 뒤를 받친 상태에서 갓 핸드를 쓰는 '트리플 디펜스'에 막혀버린다.
+
+3기에서는 [[네오 재팬]]의 [[데자무]], 위즈, [젤(이나즈마 일레븐)|젤]이 쓴다.[* 게임에서는 위즈가 슛을 날리는데 비해, 애니에서는 데자무가 슛을 날린다. 이것 때문에 데자무 팬들이 '''엄청 울었다고 한다'''.] ~~그만둬!~~ 애니판에선 엔도가 리베로로 올라올 때를 대비한 비장의 카드로 묘사된다.[* 엔도가 리베로로 올라오면 공격형 팀이 되지만, 반대로 수비가 약해지기에 자신들도 공격에 힘을 집중시킨다는 것.] 그러나 ["쿠도 미치야"쿠도 감독]이 엔도를 리베로로 올림과 동시에 투입한 ["토비타카 세이야" 토비타카] 때문에[* 토비타카가 막지 못하고 분한 마음에 다리를 휘두르자 공기의 뒤틀림이 일어나 슛의 위력이 약해졌다.] 패배로 이어졌다.
+
+[[이나즈마 일레븐 GO]]에서는 '트라이앵글ZZ'로 업그레이드해서 사용한다. ~~뭘 가르친거냐, [아프로디]!!!~~ 다만 개그 포즈인 Z에 비해 이쪽은 중국 무술 포즈 비슷하게 마무리 되면서 간지가 나는 편이다. 여담으로 게임판에서는 [레이튼 교수 시리즈]의 캐릭터들을 몇몇 스카웃 할 수 있는데, '''["허셜 레이튼"레이튼 교수]가 이 기술을 쓴다!'''
+
+
+[[각주]]

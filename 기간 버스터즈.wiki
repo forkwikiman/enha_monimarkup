@@ -1,0 +1,38 @@
+attachment:af.jpg?width=600
+= 미션 소개 =
+[[코즈믹 브레이크]]의 미션중 하나.
+
+[혼돈]의 세력 휘하 "[기간드로프]제국"에 점령당할 위기에처한 "G29 항성계"를 구하기위해  "엔젤포스"에서 히어로(플레이어)들을 파견하게 된다는게 미션의 시작 스토리.
+
+플레이어가 제일 처음에 접하게 될 미션이기도 하다.[* 튜토리얼에서 1스테이지를 '''강제로''' 하게된다...]
+총 5스테이지로 구성되어있으며 3와 4스테이지 사이에 보너스 스테이지가 있다. 나타났다가 사라지는 오브젝트들을 격추하는 것. 별개의 스테이지이니 탄약 걱정 말고 난사하자.
+다른미션에 비해 동일한 난이도시 상당히 쉬운편.
+
+= 등장 보스 =
+{{|'''Tutorial Stage BGM'''{{{#!html
+<object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds18.egloos.com/pds/201107/19/17/d4_3.mp3" width="160" height="20"> <param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds18.egloos.com/pds/201107/19/17/d4_3.mp3" /> </object>}}}|}}
+{{|'''Stage 1 BGM'''{{{#!html
+<object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds18.egloos.com/pds/201012/30/17/sw_1030.mp3" width="160" height="20"> <param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds18.egloos.com/pds/201012/30/17/sw_1030.mp3" /> </object>}}}|}}
+|| 1 스테이지  ||<|3>http://pds22.egloos.com/pds/201103/23/17/f0009417_4d8a0068a6a48.jpg?width=250||
+|| http://pds21.egloos.com/pds/201103/23/17/f0009417_4d89ff7a8fdb6.jpg?width=135 ||
+|| '''[[고대병기 오메가골렘]]''' ||
+{{|'''Stage 2 BGM'''{{{#!html
+<object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds20.egloos.com/pds/201012/30/17/sw_2110.mp3" width="160" height="20"> <param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds20.egloos.com/pds/201012/30/17/sw_2110.mp3" /> </object>}}}|}} 
+|| 2 스테이지 ||<|3>http://pds21.egloos.com/pds/201103/23/17/f0009417_4d8a006e5e742.jpg?width=250||
+|| http://pds21.egloos.com/pds/201103/23/17/f0009417_4d89ff7c806c5.jpg?width=135 ||
+|| '''[[기동장갑요새 걸트레드]]''' ||
+{{|'''Stage 3 BGM'''{{{#!html
+<object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds20.egloos.com/pds/201012/30/17/kp_5010.mp3" width="160" height="20"> <param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds20.egloos.com/pds/201012/30/17/kp_5010.mp3" /> </object>}}}|}}  
+|| 3 스테이지 ||<|3>http://pds19.egloos.com/pds/201103/23/17/f0009417_4d8a00689fcbf.jpg?width=250||
+|| http://pds18.egloos.com/pds/201103/23/17/f0009417_4d89ff7dd4060.jpg?width=135 ||
+|| '''[[메가펀치 다이옥스타]]''' ||
+{{|'''Stage 4 BGM'''{{{#!html
+<object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds19.egloos.com/pds/201012/30/17/sw_1040.mp3" width="160" height="20"> <param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds19.egloos.com/pds/201012/30/17/sw_1040.mp3" /> </object>}}}|}} 
+|| 4 스테이지 ||<|3>http://pds22.egloos.com/pds/201103/23/17/f0009417_4d8a006b4089d.jpg?width=250||
+|| http://pds22.egloos.com/pds/201103/23/17/f0009417_4d89ff804fba6.jpg?width=135 ||
+|| '''[[화염괴조 볼케닉스]]''' ||
+{{|'''Stage 5 BGM'''{{{#!html
+<object type="application/x-shockwave-flash" data="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds18.egloos.com/pds/201012/30/17/sw_2150.mp3" width="160" height="20"> <param name="movie" value="http://pds12.egloos.com/pds/200906/05/75/dewplayer-mini.swf?son=http://pds18.egloos.com/pds/201012/30/17/sw_2150.mp3" /> </object>}}}|}} 
+|| 5 스테이지 ||<|3>http://pds18.egloos.com/pds/201103/23/17/f0009417_4d8a006bbc0e7.jpg?width=250||
+|| http://pds20.egloos.com/pds/201103/23/17/f0009417_4d89ff793b09a.jpg?width=135 ||
+|| '''[[마동대제 기간드로프]]''' || 

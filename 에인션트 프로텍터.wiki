@@ -1,0 +1,41 @@
+[[include(틀:워크래프트 3/나이트 엘프 센티널)]]
+
+ * 상위 항목: [[워크래프트 3/종족, 유닛, 건물]]
+
+http://classic.battle.net/war3/images/nightelf/buildings/ancientprotector.gif
+
+Ancient Protector. [[워크래프트 3]]에 등장하는 [[나이트 엘프 센티널]] 건물.
+
+|| 건설비용 || 금 135 나무 80 ||
+|| 건설시간 || 60초 ||
+|| 체력 || 600 ||
+|| 방어력 || 1(타입:건물) 3(네이처 블레싱) ||
+|| 공격력 || 45-54(피어싱) ||
+|| 특수 능력 || 나무 먹기(30초 동안 500 회복) ||
+[http://classic.battle.net/war3/nightelf/buildings/ancientprotector.shtml 참고 사이트]
+
+[[사나난]]의 단점 중 하나인 방어 타워이다. 
+
+대미지와 체력을 보면 그다지 나빠보이지는 않는데 가격이 비싸고 (135+60/80) 공속이 2로 너무 느리므로 dps가 다른 타워에 비해 낮다, 스피릿 타워가 2대 칠 때 얘는 1대친다. 부가적으로 돌이 날아가는 데 시간이 오래 걸려서 좀 답답하다(..) 2004년 9월 1.17 패치 전까지는 심지어 빨리 도망치면 피해지기도 했다.[http://www.danielstaniforth.co.uk/WarcraftIII/patch.html 패치 로그] 지금은 100% 맞는다. 
+
+큰 돌덩이를 던지는 만큼 스플래시도 있으나, 보다시피 금새 15%, 5% 대로 떨어져버리기 때문이 있으나 마나한 수준이다. 
+|| 범위 || 데미지 ||
+|| 25 || 100% ||
+|| 75 || 15% ||
+|| 125 || 5% ||
+
+그래도 요즘은 몰래 플텍러시로 자주 쓰인다. 상대 본진 근처 나무에 붙여뒀던 [[위습#s-2.1|위습]]으로 기습 플텍러시를 들어가면 상당히 막기 까다로운 편. [http://www.mgoon.com/view.htm?id=2602662 #] [http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&playlistid=1890489#playlistid=1890489&clipid=38051515 ##][* 미니맵을 주목] [http://www.youtube.com/watch?v=50SmFunyCDU 3][* 헌트와 글쓰압박하는데 플텍 하나가 추가됐다] [http://www.youtube.com/watch?v=8lo3A54H9Cc 4] [http://v.youku.com/v_show/id_XNTU0MTA3Njg=.html 5] [http://tvpot.daum.net/mypot/View.do?ownerid=x-tX7IOgf3A0&page=3&playlistid=1890489&clipid=39141669 6]
+
+기지 방어용으로는 언데전에 가고일 대비용으로 몇 개 짓는걸 제외하고는 멀티에는 보통 [[에인션트 오브 워]]를 지어서 막아버린다. [https://www.youtube.com/watch?v=YlPkCWNc7Vg 외계인은 투워 헌트로 난전을 하면서 짓는다.]
+[http://www.youtube.com/watch?v=EW1TFhSvb5g&feature=c4-overview&list=UUam2aB0vAwcC8UnTm8SJu7A 프로텍터와 글쓰로 멀티 압박]
+[http://www.youtube.com/watch?v=fJDqrmq7c7Y&list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H 세컨 파이어로드] [http://www.youtube.com/watch?v=OtIhKfyfwqc&list=PLRCz2RLYlhRNp06G_ULovo6UmTsAGpq2H 세컨 키퍼]
+
+웃기게도 워크래프트 3 레인 오브 카오스 1.04버전(2002년 11월)[* 마나번이 100/200/300에서 50/100/150으로 너프된 패치이기도 하다.]까지는 돌을 던진다는 이유로 데미지 타입이 공성이었다(...) 체력/방어력/사거리/가격 등이 꽤 많이 조절됐다. 심지어 최소 사거리까지 있었는데, 아마 움직이는 공성 병기 즈음으로 디자인했던 모양. 패치 후에는 다른 타워들과 비슷해졌다. 
+|| || 패치 전 || 패치 후 ||
+|| 가격[* 이후 프로즌 쓰론에서 골드 소모량이 줄어든다] || 240/100 || 160/80 ||
+|| 체력 || 550 || 600 ||
+|| 방어력 || 2 || 1 ||
+|| 공격력 || 52-64 || 45-54 ||
+|| 공격 타입|| 공성 || 피어싱 ||
+|| '''최소 사거리''' || 200 || 0 ||
+(그 외에 스플래시 범위 감소) 
